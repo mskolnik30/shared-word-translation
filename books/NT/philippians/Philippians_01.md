@@ -44,5 +44,5 @@ v30 since you are having the same struggle that you saw I had and now hear that 
 ## Notes
 [^n1]: No notes yet. 
 
-## Lexicon
+## Vocabulary
 No vocabulary yet.
