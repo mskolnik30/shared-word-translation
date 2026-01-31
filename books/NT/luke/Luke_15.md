@@ -49,5 +49,8 @@ translation: TSW
 ## Notes
 v01-33: No notes yet.
 
+v01-02: This note SHOULD show when verses="1-2".
+v03: This note should NOT show when verses="1-2".
+
 ## Vocabulary
 v01-33: No vocabulary yet.
