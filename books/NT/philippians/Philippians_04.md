@@ -43,7 +43,7 @@ translation: TSW
  v23 The grace of the Lord Jesus Christ be with your spirit.
 
 ## Notes
-[^n1]: No notes yet. 
+No notes yet.
 
 ## Vocabulary
 No vocabulary yet.
