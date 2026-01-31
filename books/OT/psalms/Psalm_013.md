@@ -29,9 +29,6 @@ v15 because the LORD has dealt bountifully with me.
 ## Notes
 v01-15: No notes yet.
 
-v01-02: This note SHOULD show when verses="1-2".
-v03: This note should NOT show when verses="1-2".
-
 ## Vocabulary
 v01-15: No vocabulary yet.
 
