@@ -47,7 +47,7 @@ translation: TSW
  v33 But we had to celebrate and rejoice, because this brother of yours was dead and has come to life; he was lost and has been found.’”
 
 ## Notes
-[^n1]: No notes yet. 
+No notes yet.
 
 ## Vocabulary
 No vocabulary yet.
