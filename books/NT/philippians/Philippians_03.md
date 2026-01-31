@@ -39,7 +39,7 @@ translation: TSW
  v21 He will transform the body of our humiliation so that it may be conformed to the body of his glory, by the power that also enables him to subject all things to himself.
 
 ## Notes
-[^n1]: No notes yet. 
+No notes yet.
 
 ## Vocabulary
 No vocabulary yet.
