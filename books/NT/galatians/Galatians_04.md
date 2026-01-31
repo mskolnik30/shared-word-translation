@@ -21,5 +21,5 @@ v07 So you are no longer a slave but a child, and if a child, then also an heir 
 ## Notes
 [^n1]: No notes yet. 
 
-## Lexicon
+## Vocabulary
 No vocabulary yet.
