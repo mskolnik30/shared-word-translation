@@ -27,7 +27,7 @@ v14 I will sing to the LORD,
 v15 because the LORD has dealt bountifully with me.
 
 ## Notes
-No notes yet.
+v01-15: No notes yet.
 
 ## Vocabulary
-No vocabulary yet.
+v01-15: No vocabulary yet.
