@@ -21,8 +21,5 @@ v07 So you are no longer a slave but a child, and if a child, then also an heir 
 ## Notes
 v01-7: No notes yet. 
 
-v01-02: This note SHOULD show when verses="1-2".
-v03: This note should NOT show when verses="1-2".
-
 ## Vocabulary
 v01-7: No vocabulary yet.
