@@ -49,7 +49,5 @@ translation: TSW
  v30 because he came close to death for the work of Christ, risking his life to complete what was lacking in your service to me.
 
 ## Notes
-v01-30: No notes yet.
 
 ## Vocabulary
-v01-30: No vocabulary yet.
