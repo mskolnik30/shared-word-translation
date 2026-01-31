@@ -42,7 +42,7 @@ v29 For he has graciously granted you the privilege not only of trusting in Chri
 v30 since you are having the same struggle that you saw I had and now hear that I still have.
 
 ## Notes
-[^n1]: No notes yet. 
+No notes yet.
 
 ## Vocabulary
 No vocabulary yet.
