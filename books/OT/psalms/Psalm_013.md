@@ -29,5 +29,5 @@ v15 because the LORD has dealt bountifully with me.
 ## Notes
 [^n1]: No notes yet. 
 
-## Lexicon
+## Vocabulary
 No vocabulary yet.
