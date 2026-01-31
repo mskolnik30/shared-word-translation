@@ -41,5 +41,5 @@ translation: TSW
 ## Notes
 [^n1]: No notes yet. 
 
-## Lexicon
+## Vocabulary
 No vocabulary yet.
