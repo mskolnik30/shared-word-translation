@@ -19,7 +19,7 @@ v06 And because you are children, God has sent the Spirit of the Son into our he
 v07 So you are no longer a slave but a child, and if a child, then also an heir through God.
 
 ## Notes
-No notes yet. 
+v01-7: No notes yet. 
 
 ## Vocabulary
-No vocabulary yet.
+v01-7: No vocabulary yet.
