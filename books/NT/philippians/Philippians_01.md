@@ -17,7 +17,7 @@ v06 And I am confident of this: that the one who began a good work among you wil
 v07 It is right for me to think this way about all of you, because I hold you in my heart, for all of you share with me in grace, both in my imprisonment and in the defense and confirmation of the gospel.
 v08 For God is my witness, how I long for all of you with the affection of Christ Jesus.
 
-## Prayer for God's People in Phillipi
+## Prayer for God's People in Philippi
 v09 And this is my prayer: that your love may abound still more and more in knowledge and all discernment,
 v10 so that you may discern what truly matters, and so be pure and blameless for the day of Christ,
 v11 filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God.
