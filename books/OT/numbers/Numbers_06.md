@@ -1,3 +1,7 @@
+Yes—there are a few glaring consistency issues that are worth fixing, mainly around pronouns for God in the blessing and minor punctuation/capitalization.
+
+Here is the fully revised file with those fixes applied:
+
 ---
 book: Numbers
 testament: OT
@@ -6,20 +10,20 @@ translation: TSW
 ---
 
 ## A Vow Set Apart
-v01 The Holy One spoke to Moses, saying: 
+v01 The Holy One spoke to Moses, saying:
 v02 Speak to the Israelites and say to them: When a woman or a man makes a special vow—the vow of a Nazirite—to set themselves apart for the Holy One,
 
-v03 they shall abstain from wine and strong drink; they shall drink neither wine vinegar nor strong drink vinegar, and shall not drink any grape juice or eat fresh or dried grapes. 
+v03 they shall abstain from wine and strong drink; they shall drink neither wine vinegar nor strong drink vinegar, and shall not drink any grape juice or eat fresh or dried grapes.
 v04 All the days of their separation they shall not eat anything that comes from the grapevine, from the seeds to the skin.
 
 v05 All the days of the vow of their separation, no razor shall pass over their head; until the time is completed for which they have set themselves apart for the Holy One, they shall be holy, letting the hair of their head grow freely.
 
-v06 All the days that they are set apart for the Holy One, they shall not go near a dead body. 
+v06 All the days that they are set apart for the Holy One, they shall not go near a dead body.
 v07 Even for father or mother, for brother or sister, they shall not make themselves unclean when they die, because the separation to God is upon their head.
 
 v08 All the days of their separation, they are holy to the Holy One.
 
-## When The Vow is Broken
+## When the Vow Is Broken
 v09 If someone dies suddenly beside them, defiling the head of their separation, they shall shave their head on the day of their cleansing; on the seventh day they shall shave it.
 
 v10 On the eighth day they shall bring two turtledoves or two young pigeons to the priest, at the entrance of the tent of meeting.
@@ -52,8 +56,8 @@ v22 The Holy One spoke to Moses, saying:
 v23 Speak to Aaron and his sons, saying: Thus you shall bless the Israelites; you shall say to them:
 
 v24 The Holy One bless you and keep you;
-v25 the Holy One make their face shine upon you and be gracious to you;
-v26 the Holy One lift up their face toward you and give you peace.
+v25 the Holy One make the Holy One’s face shine upon you and be gracious to you;
+v26 the Holy One lift up the Holy One’s face toward you and give you peace.
 
 v27 So they shall put my name upon the Israelites, and I will bless them.
 
@@ -112,11 +116,11 @@ v23 Speak to Aaron and his sons — Blessing is entrusted to human voices, carri
 
 v24 The Holy One bless you and keep you — Blessing is framed as both gift and protection.
 
-v25 make his face shine upon you — God’s presence is portrayed as relational and life-giving.
+v25 make the Holy One’s face shine upon you — God’s presence is portrayed as relational and life-giving.
 
 v25 be gracious to you — Grace is unearned favor, not reward for obedience.
 
-v26 lift up his countenance upon you — The image conveys attention and regard rather than surveillance.
+v26 lift up the Holy One’s face toward you — The image conveys attention and regard rather than surveillance.
 
 v26 give you peace — Peace is wholeness and stability rooted in God’s presence.
 
