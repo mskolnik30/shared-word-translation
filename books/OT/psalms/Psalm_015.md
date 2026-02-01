@@ -25,11 +25,19 @@ v05: Economic justice is named explicitly. Refusing exploitative lending and cor
 
 ## Vocabulary
 v01 שָׁכַן (shākan) / dwell: Language of settled presence and belonging. The term conveys sustained relationship rather than temporary access or occasional visitation.
+
 v01 גּוּר (gūr) / live: To reside as one who remains. The word emphasizes continuity and commitment rather than brief proximity.
+
 v02 תָּמִים (tāmîm) / integrity: Wholeness or completeness of life. Integrity here describes alignment between inner character and outward action rather than flawlessness.
+
 v02 אֱמֶת (ʾĕmet) / truth: Reliability and faithfulness expressed in speech and action. Truth is rooted in trustworthiness rather than mere factual accuracy.
+
 v03 רָכִיל (rākîl) / slander: Speech that circulates harm within a community. The term highlights the destructive social power of words.
+
 v04 יָרֵא (yārēʾ) / fear: Reverent attentiveness to the Holy One. This fear is relational and orienting, shaping how one evaluates honor, loyalty, and trust.
+
 v05 נֶשֶׁךְ (nešek) / interest: Lending practices that exploit vulnerability. The word reflects economic arrangements that undermine equity and communal care.
+
 v05 שֹׁחַד (šōḥad) / bribe: Corrupt exchange that distorts justice and protects wrongdoing. The term signals systemic moral failure rather than isolated misconduct.
+
 v05 מוֹט (môṭ) / shaken: A metaphor for instability and collapse. The psalm contrasts moral rootedness with a life easily unsettled by pressure or crisis.
