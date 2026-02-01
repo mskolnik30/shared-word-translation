@@ -32,7 +32,10 @@ and according to that law he ought to die,
 because he has made himself the Son of God.”
 
 
-	•	v01: ἐμαστίγωσεν — judicial flogging, not merely beating; left untranslated as “flogged” without embellishment.
-	•	v03: Imperfect tense (“they kept coming… they kept saying”) rendered as again and again to preserve repetition.
-	•	v05: Ἰδοὺ ὁ ἄνθρωπος — Behold, the man retained verbatim; the phrase carries irony, exposure, and unintended theological depth without explanation.
-	•	v07: Son of God (υἱὸν θεοῦ) left without article nuance commentary; John’s ambiguity is intentional.
+## Notes
+v01: ἐμαστίγωσεν — judicial flogging, not merely beating; left untranslated as “flogged” without embellishment.
+v03: Imperfect tense (“they kept coming… they kept saying”) rendered as again and again to preserve repetition.
+v05: Ἰδοὺ ὁ ἄνθρωπος — "Behold, the man" retained verbatim; the phrase carries irony, exposure, and unintended theological depth without explanation.
+v07: Son of God (υἱὸν θεοῦ) left without article nuance commentary; John’s ambiguity is intentional.
+
+## Vocabulary
