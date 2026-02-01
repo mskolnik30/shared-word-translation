@@ -31,6 +31,48 @@ v07 The Jews answered him,
 and according to that law he ought to die,
 because he has made himself the Son of God.”
 
+## Pilate Questions Authority 
+v08 When Pilate heard this statement, he was even more afraid.
+
+v09 He entered the headquarters again and said to Jesus,
+“Where are you from?”
+But Jesus gave him no answer.
+
+v10 So Pilate said to him,
+“You refuse to speak to me?
+Do you not know that I have authority to release you,
+and authority to crucify you?”
+
+v11 Jesus answered him,
+“You would have no authority over me
+unless it had been given to you from above.
+Therefore the one who handed me over to you
+has the greater sin.”
+
+v12 From then on Pilate tried to release him,
+but the Jews cried out,
+“If you release this man, you are no friend of Caesar.
+Everyone who makes himself a king opposes Caesar.”
+
+v13 When Pilate heard these words, he brought Jesus outside
+and sat down on the judge’s seat
+at a place called The Stone Pavement,
+or in Hebrew, Gabbatha.
+
+v14 Now it was the day of Preparation for the Passover,
+and it was about noon.
+He said to the Jews,
+“Here is your king.”
+
+v15 They cried out,
+“Away with him! Away with him! Crucify him!”
+Pilate said to them,
+“Shall I crucify your king?”
+The chief priests answered,
+“We have no king but Caesar.”
+
+v16 Then he handed him over to them
+to be crucified.
 
 ## Notes
 v1–3:The mockery enacted by the soldiers is deliberately royal in form. The crown, robe, and acclamation parody kingship, yet John presents these actions without editorial correction, allowing the irony to stand: what is intended as ridicule visually enacts a truth the characters do not perceive.
@@ -38,5 +80,15 @@ v4–5:When Pilate presents Jesus to the crowd, he declares, “Here is the man.
 v5:John emphasizes that Jesus comes out wearing the crown and robe, not after they are removed. The visual remains intact. The narrative slows, inviting the reader to look rather than react, reinforcing the tension between appearance and authority.
 v6:Pilate’s statement, “I find no case against him,” is repeated in the face of escalating hostility. John portrays Pilate as asserting legal clarity while simultaneously yielding practical control, highlighting the fracture between judgment and action.
 v7:The charge shifts from political threat to theological offense. The claim that Jesus “made himself the Son of God” introduces language that carries layered meaning in John. The phrase υἱὸς θεοῦ (huios theou) can signal blasphemy within the leaders’ framework, while for the reader it echoes the Gospel’s opening claims about Jesus’ identity.
+v8: Pilate’s fear deepens not because of political pressure, but because the charge has shifted from sedition to divine identity. John frames Pilate as unsettled by the possibility that he is dealing with more than a political defendant.
+v9: Pilate’s question, “Where are you from?” moves beyond geography. In John’s Gospel, origin language consistently gestures toward divine source. Jesus’ silence heightens the imbalance: Pilate presses for control, but receives none.
+v10–11: Pilate names his authority in absolute terms—release or crucifixion. Jesus reframes authority as derivative, not possessed. The phrase “from above” carries deliberate ambiguity, pointing simultaneously to God’s sovereignty and to the layered systems of power operating beneath it.
+v11: Jesus distinguishes responsibility without denying culpability. Pilate’s authority is real, but limited. Greater guilt belongs to the one who initiated the betrayal, underscoring John’s concern with moral agency rather than simple blame.
+v12: The appeal to Caesar marks a turning point. The crowd weaponizes Roman loyalty language, forcing Pilate to choose between justice and self-preservation. Political accusation replaces legal inquiry.
+v13: John pauses the narrative to name the place. The public setting matters. Judgment is rendered not in private deliberation but in a visible, institutional space, reinforcing the exposure of authority at work.
+v14: The timing intensifies the irony. As preparations for Passover unfold, Pilate presents Jesus as king. John aligns political spectacle with liturgical time, allowing theological meaning to emerge without explanation.
+v15: The chief priests’ declaration, “We have no king but Caesar,” is not merely pragmatic. It is a renunciation of covenantal hope in favor of imperial security. John presents the line without commentary, letting its weight stand.
+v16: The handover is understated. John avoids dramatization, emphasizing instead the cumulative yielding of authority—legal, political, and moral.
+
 
 ## Vocabulary
