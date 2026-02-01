@@ -1,109 +1,148 @@
-# Translation Philosophy
+Translation Philosophy
 
 The Shared Word Translation (TSW)
 
-This document outlines the guiding principles, translation rules, and theological commitments of The Shared Word Translation. These principles govern translation decisions, formatting, notes, and presentation across all books of Scripture.
+Purpose and Posture
 
-The philosophy is intentionally concise and expandable. Content may be refined or added incrementally as the project develops, but the core commitments below are considered stable.
+The Shared Word Translation (TSW) is a contemporary English translation of Scripture created for proclamation, prayer, study, and shared discernment within the life of the church. It is intended for communities that value faithfulness over certainty, clarity over control, and depth over speed.
 
-⸻
+TSW does not seek to resolve every interpretive question embedded in the biblical text. Instead, it preserves ambiguity where the original text sustains it, trusting that Scripture often forms communities through tension rather than resolution.
 
-1. Purpose and Orientation
-
-The Shared Word Translation is intended to be a shared text—one that can be read aloud, prayed, studied, and proclaimed in community. It is not designed to settle theological disputes or to function as a technical reference edition.
-
-This translation prioritizes:
-	•	clarity without oversimplification
-	•	faithfulness without harmonization
-	•	tension without resolution
-
-Where the biblical text permits ambiguity, the translation preserves it.
+This translation is offered in the conviction that Scripture is not merely to be explained, but to be heard, carried, and lived with—together.
 
 ⸻
 
-2. Relationship to Source Texts
+Source Texts and Linguistic Commitments
 
-The Shared Word Translation works from the original Hebrew and Greek texts, engaging standard critical editions and established scholarly consensus where appropriate.
+TSW is translated directly from the original biblical languages:
+	•	Hebrew and Aramaic for the Old Testament
+	•	Koine Greek for the New Testament
 
-Translation decisions are guided by:
-	•	semantic range rather than single-word equivalence
-	•	narrative and rhetorical flow
-	•	how meaning unfolds in context rather than in isolation
+No modern English translation functions as a base text. Existing translations may be consulted for comparison, but they do not govern translational decisions.
 
-No single English tradition is treated as normative. Familiar phrasing may be retained when it remains faithful; it is revised when it obscures meaning or imports assumptions.
+TSW prioritizes semantic and rhetorical faithfulness over strict formal equivalence. The goal is not word-for-word replication, but the faithful rendering of meaning, emphasis, cadence, and narrative movement as they function in the source languages.
 
 ⸻
 
-3. Notes: Scope and Function
+Translation Style and Register
 
-Notes in The Shared Word are text-anchored rather than commentary-anchored.
+Contemporary, Not Casual
 
-They exist to:
-	•	clarify meaning
-	•	illuminate ambiguity
-	•	explain significant translation decisions
-	•	draw attention to narrative, rhetorical, or theological tensions already present in the text
+TSW employs contemporary English that reads naturally aloud and functions well in worship and teaching contexts. Archaic forms are avoided unless they preserve theological or literary weight that would be diminished by modernization.
 
-Notes do not aim at scholarly exhaustiveness, historical reconstruction, or doctrinal argumentation. They serve proclamation, study, and prayer.
+At the same time, the translation resists casual or idiomatic language that would trivialize the text or anchor it too firmly to a particular cultural moment.
+
+Dignity Without Ornament
+
+The tone of TSW is measured and reverent without being elevated or ornamental. The language is intended to sound like Scripture—capable of bearing theological weight—without mimicking the syntax or cadence of older English translations.
+
+⸻
+
+Lineation, Pacing, and Form
+
+Narrative Prose
+
+Narrative passages are typically rendered with one verse per line, preserving narrative flow and coherence. Line breaks are introduced only when the structure of the text itself warrants them.
+
+Quoted Speech and Rhetorical Movement
+
+When a verse contains quoted speech, rhetorical escalation, or dialogical pacing, line breaks may be used to reflect emphasis, movement, or dramatic tension present in the original language. These breaks are functional, not aesthetic.
+
+Poetry and Lament
+
+Poetic texts—including Psalms, prophetic poetry, and hymnic material—are rendered as poetry, not prose. Indentation and lineation are used to preserve parallelism, intensification, and relational movement within the text.
+
+TSW resists converting poetry into paragraph-style prose, even when this would simplify display or reading.
+
+⸻
+
+Ambiguity and Interpretive Restraint
+
+Where the source text is ambiguous, TSW avoids imposing resolution unless the immediate context clearly requires it. Ambiguity is treated as a theological and literary feature rather than a problem to be solved.
+
+When a word, phrase, or construction reasonably carries multiple meanings, the translation may preserve that openness, trusting readers and communities to live within the tension.
+
+⸻
+
+Gender and Human Language
+
+TSW approaches gendered language with careful attention to textual specificity, theological weight, and communal impact.
+
+Textual Faithfulness First
+
+Where gendered language in the original text is specific, intentional, or theologically significant, it is preserved. This includes references to particular individuals, metaphorical language that carries symbolic force, and titles or roles where gender functions meaningfully within the narrative or theological frame.
+
+Inclusive Rendering Where Warranted
+
+Where the original language uses masculine terms generically to refer to people as a whole, and where the context clearly indicates inclusive intent, TSW may render such language inclusively in English. This is done not to modernize the text, but to accurately reflect its referent.
+
+Decisions are made case by case, guided by context rather than a blanket rule.
+
+Resisting Ideological Imposition
+
+TSW does not impose contemporary gender theories onto ancient texts, nor does it preserve inherited English conventions simply because they are familiar. The translation seeks to honor the integrity of the original language while remaining attentive to how English functions in contemporary communities.
+
+Gendered language is neither flattened nor exaggerated. It is rendered with restraint, precision, and humility.
+
+⸻
+
+Notes: Purpose and Scope
+
+Text-Anchored, Not Commentary-Anchored
+
+Notes in TSW are anchored directly to the biblical text rather than to scholarly debate or historical reconstruction. Their purpose is to clarify meaning, illuminate tension, and support faithful reading—not to provide exhaustive academic commentary.
 
 Notes are:
-	•	written in full sentences
-	•	restrained in number
-	•	hidden by default in digital presentation
+	•	Written in full sentences
+	•	Pastoral and theological in tone
+	•	Focused on how the text functions rather than adjudicating every possible interpretation
+
+Notes are often hidden by default in digital displays, reinforcing that they serve the text rather than replace it.
+
+Use of Original Languages in Notes
+
+Greek and Hebrew appear in notes only when they clarify meaning, ambiguity, or translation choice. When included:
+	•	The word is presented in its original script
+	•	A Roman transliteration is provided
+	•	The explanation serves understanding rather than technical mastery
 
 ⸻
 
-4. Use of Greek and Hebrew
+Vocabulary Section
 
-Original-language terms appear only when they materially clarify meaning or illuminate interpretive tension.
+The Vocabulary section highlights select original-language terms that carry particular theological, narrative, or conceptual weight within a passage.
 
-When original-language terms are included:
-	•	they appear in the original script (Greek or Hebrew)
-	•	they are accompanied by Roman transliteration
-	•	they are explained in plain language
+Vocabulary entries:
+	•	Are tied to specific verse numbers
+	•	Focus on key terms rather than comprehensive lists
+	•	Explain how a word functions within the passage, not merely its lexical definition
 
-Strong’s numbers, lexical catalogs, and grammatical tagging systems are intentionally excluded.
-
-⸻
-
-5. Formatting and Lineation
-
-Formatting decisions are part of translation, not decoration.
-
-The following rules apply consistently:
-	•	If a verse contains quoted speech or rhetorical pacing, line breaks may be used.
-	•	If a verse is narrative, it is kept on one line unless it naturally flows into the next verse.
-	•	Paragraphs are formed by sense and movement, not by verse numbers.
-	•	Verse numbers exist to orient the reader, not to govern rhythm.
-
-Poetic texts (e.g., Psalms) are rendered as poetry rather than prose, with attention to parallelism, cadence, and visual structure.
+Vocabulary is included selectively and is not required for every passage.
 
 ⸻
 
-6. Headings and Section Divisions
+Theological Commitments
 
-Headings are included to aid reading and navigation. They are:
-	•	descriptive rather than interpretive
-	•	minimal rather than exhaustive
-	•	subordinate to the text itself
+TSW stands within the broad Christian tradition and is shaped by the conviction that Scripture is best read in community, over time, and in conversation with lived experience.
 
-Headings frame sections but do not resolve their meaning.
+The translation does not attempt to resolve doctrinal disagreements through translational decisions. Instead, it seeks to provide a text that can be:
+	•	Proclaimed in worship
+	•	Studied across theological difference
+	•	Prayed in seasons of clarity and confusion
 
-⸻
-
-7. Theological Commitments
-
-The Shared Word Translation does not attempt to eliminate theological tension. Scripture is allowed to speak in its own plurality, complexity, and restraint.
-
-This approach is consistent with:
-	•	the witness of Scripture itself
-	•	the Reformed tradition’s comfort with faithful disagreement
-	•	the conviction that mystery is not a failure of translation but a feature of revelation
+Faithful reading, in this vision, involves patience, trust, and attentiveness rather than mastery.
 
 ⸻
 
-8. Ongoing Work
+Ongoing Work and Communal Use
 
-The Shared Word Translation is an ongoing project. Translation choices may be revisited, notes refined, and formatting adjusted as the work continues in community.
+The Shared Word Translation is an ongoing project. Language, notes, and formatting may evolve as the text is tested in proclamation, teaching, and communal life.
 
-The goal is not finality, but faithfulness.
+Revisions are guided not by novelty or trend, but by sustained engagement with Scripture and the communities who read it.
+
+The aim is not a final artifact, but a shared text—capable of forming readers who listen carefully, speak humbly, and live faithfully.
+
+⸻
+
+The Shared Word Translation (TSW)
+A translation for reading together, holding tension, and trusting the Word.
