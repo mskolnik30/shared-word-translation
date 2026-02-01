@@ -58,5 +58,78 @@ translation: TSW
  v33 But we had to celebrate and rejoice, because this brother of yours was dead and has come to life; he was lost and has been found.’”
 
 ## Notes
+v1–2: Luke frames the entire chapter with proximity and complaint. Tax collectors and sinners are drawing near to listen, while Pharisees and scribes are standing apart and grumbling. The conflict is not about morality alone, but about who is allowed nearness and shared table fellowship.
+
+v3: Jesus tells these stories to them—to the religious leaders who object to his welcome. The parables are not abstract moral lessons but direct responses to a concrete accusation.
+
+v4–7: The shepherd’s action is intentionally excessive. Leaving ninety-nine sheep in the wilderness to search for one would sound reckless, not prudent. Jesus destabilizes common assumptions about responsible care in order to reframe the value of the lost. Joy, not efficiency, becomes the governing logic.
+
+v7: “Repentance” here is not defined or measured. The emphasis falls on heaven’s joy rather than the sinner’s reform. Luke allows repentance to remain relational—a turning that restores connection—rather than a quantified moral achievement.
+
+v8–10: The second parable shifts imagery from a male-coded occupation (shepherding) to a domestic, female-coded space. The parallel structure reinforces the point: searching, finding, and communal rejoicing are not gendered behaviors but divine ones.
+
+v10: Joy is said to occur “in the presence of the angels of God,” not explicitly among them. Luke subtly locates joy as something that belongs to God’s own presence, witnessed by the heavenly court.
+
+v11: The story opens without explanation or moral framing. The father’s division of property is narrated without protest, even though such a request would signal relational rupture. Luke allows the offense to stand without commentary.
+
+v12–13: The younger son’s departure is described spatially and relationally. He moves not only to a distant country but away from the structures that once sustained him. “Disordered living” names loss of orientation more than specific acts.
+
+v14–16: Hunger becomes the turning point. Luke does not present moral awakening first, but embodied need. The son’s degradation is total: famine, foreign land, unclean animals, and isolation converge without rescue.
+
+v17: “He came to himself” signals recovery of identity before repentance. The movement toward home begins not with guilt, but with remembered belonging.
+
+v18–19: The son’s rehearsed speech is carefully structured, naming sin against heaven and father, and requesting reduced status. Luke presents it as sincere, but incomplete—it anticipates survival, not restoration.
+
+v20: The father’s response shatters expectation. Before a word is spoken, he sees, runs, embraces, and kisses—actions marked by urgency and public vulnerability. In the cultural world of the parable, a patriarch running would have been startling, even shameful, signaling disregard for honor in favor of relationship. Compassion precedes confession. Grace moves first, collapsing social distance and rewriting what restoration looks like before repentance can be completed.
+
+v21–22: The son begins his confession but is not allowed to finish it. The request to become a hired worker is never answered. Restoration overtakes repentance rather than responding to it.
+
+v23–24: The father narrates the son’s condition as death and resurrection, loss and recovery. Identity is re-named by the father, not negotiated by the son.
+
+v25–27: The elder son is introduced outside the celebration. His distance mirrors the earlier complaint of the Pharisees and scribes. Music and dancing become sounds of exclusion rather than invitation.
+
+v28–30: The elder son’s anger is rooted in comparison and accounting. His language reduces relationship to labor and reward. Notably, he speaks of “this son of yours,” refusing familial language.
+
+v31: The father addresses him as “child,” affirming belonging without contesting the complaint. Presence, not performance, is named as the elder son’s inheritance.
+
+v32: The final line reframes necessity: celebration is not optional sentiment but required response. The story ends without resolution, leaving the listener—especially the grumbling ones—inside the unanswered question of whether they will enter the joy.
 
 ## Vocabulary
+v1: ἁμαρτωλοί (hamartōloi)
+Often translated “sinners,” this term refers broadly to those perceived as outside acceptable religious or social boundaries. In Luke, it functions as a relational category—those marked as unfit for proximity—rather than a precise moral inventory.
+
+v2: διαγογγύζω (diagongyzō)
+Translated as “grumbling,” this verb echoes Israel’s wilderness complaints in the Septuagint. Luke invokes a familiar pattern: resistance not to wrongdoing, but to God’s generosity and nearness.
+
+v4, v6, v9: εὑρίσκω (heuriskō)
+“To find.” The verb emphasizes successful searching rather than accidental discovery. In each parable, finding leads immediately to communal rejoicing, linking recovery and celebration as inseparable acts.
+
+v7, v10: μετάνοια (metanoia)
+Commonly translated “repentance,” the word literally means a change of mind or orientation. Luke does not define its mechanics here, allowing repentance to be understood as restored relationship rather than quantified reform.
+
+v12: οὐσία (ousia)
+Rendered “property” or “livelihood,” this term refers to one’s substance or means of life. The father’s division of ousia is not merely financial; it is a sharing of what sustains the household.
+
+v13: ἀσώτως (asōtōs)
+Translated as “disordered living” or “reckless living,” the adverb describes lack of orientation or saving restraint. The emphasis is on dissipation rather than specific vices.
+
+v17: εἰς ἑαυτὸν δὲ ἐλθὼν (eis heauton de elthōn)
+Literally, “coming to himself.” The phrase signals recovery of self-understanding before moral correction. Repentance begins with re-remembered identity.
+
+v20: σπλαγχνίζομαι (splagchnizomai)
+“To be moved with compassion.” This verb denotes visceral, embodied mercy. Luke frequently uses it to describe divine response rather than human calculation.
+
+v22: στολὴν τὴν πρώτην (stolēn tēn prōtēn)
+“The first robe” or “best robe.” The phrase signals honor and restored status, not mere clothing. The son is publicly re-clothed into belonging.
+
+v24, v32: ἀναζάω (anazaō)
+“To live again.” The verb frames restoration in resurrection language. Luke allows the metaphor to carry theological weight without explanation.
+
+v25: συμφωνία (symphōnia)
+Often translated “music,” the term suggests harmonious sound rather than background noise. Celebration is full-bodied and audible, impossible to ignore.
+
+v28: παρακαλέω (parakaleō)
+“To urge,” “to plead,” or “to come alongside.” The father’s action toward the elder son mirrors earlier compassion, showing that invitation extends to the resistant as well as the lost.
+
+v31: τέκνον (teknon)
+Translated “child,” this term conveys intimacy rather than rank. The father does not address the elder son as servant or heir, but as one who belongs.
