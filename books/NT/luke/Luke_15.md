@@ -58,7 +58,6 @@ translation: TSW
  v33 But we had to celebrate and rejoice, because this brother of yours was dead and has come to life; he was lost and has been found.’”
 
 ## Notes
-## Notes
 v1-2: Luke frames the entire chapter with proximity and complaint. Tax collectors and sinners are drawing near to listen, while Pharisees and scribes are standing apart and grumbling. The conflict is not about morality alone, but about who is allowed nearness and shared table fellowship.
 
 v3: Jesus tells these stories to them—to the religious leaders who object to his welcome. The parables are not abstract moral lessons but direct responses to a concrete accusation.
