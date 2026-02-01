@@ -195,6 +195,35 @@ so that the scripture might be fulfilled:
 v37 And again another scripture says,
 “They will look on the one whom they have pierced.”
 
+## The Burial of Jesus
+v38 After these things,
+Joseph of Arimathea,
+who was a disciple of Jesus,
+though secretly,
+for fear of the Jews,
+asked Pilate
+that he might take away the body of Jesus.
+Pilate gave him permission.
+So he came and took away his body.
+
+v39 Nicodemus also came,
+the one who had first come to Jesus by night,
+bringing a mixture of myrrh and aloes,
+about a hundred pounds.
+
+v40 They took the body of Jesus
+and wrapped it in linen cloths,
+with the spices,
+according to the burial custom of the Jews.
+
+v41 Now there was a garden
+in the place where he was crucified,
+and in the garden a new tomb,
+in which no one had yet been laid.
+
+v42 Because it was the Jewish day of Preparation,
+and because the tomb was nearby,
+they laid Jesus there.
 
 ## Notes
 v1–3:The mockery enacted by the soldiers is deliberately royal in form. The crown, robe, and acclamation parody kingship, yet John presents these actions without editorial correction, allowing the irony to stand: what is intended as ridicule visually enacts a truth the characters do not perceive.
@@ -269,6 +298,16 @@ v36: Scripture is fulfilled not by manipulation of events but by their convergen
 
 v37: The second citation shifts from preservation to recognition. To “look upon” the pierced one is not merely to observe but to reckon with what has been done. John frames the wound as revelatory.
 
+v38: Joseph is named not for prominence but for restraint. John identifies him as a disciple who remained hidden, not denying faith but withholding public alignment. The fear named here mirrors earlier scenes of guarded belief, emphasizing the cost of visibility.
+
+v39: Nicodemus reenters the narrative after long absence. His return is deliberate and costly. The quantity of spices far exceeds what is necessary, suggesting honor rather than efficiency. What was once nighttime curiosity becomes embodied devotion.
+
+v40: The burial is careful and communal. John emphasizes action rather than emotion. The verbs are simple and orderly, reinforcing dignity rather than spectacle.
+
+v41: John draws attention to place. A garden recalls origins, cultivation, and care. The new tomb underscores finality while simultaneously holding open the possibility of interruption.
+
+v42: The burial is shaped by constraint rather than completion. Time presses in. The placement is provisional, governed by Sabbath boundaries. John closes the chapter not with closure, but with containment.
+
 
 ## Vocabulary
 v11: ἐξουσία (exousia)
@@ -318,3 +357,15 @@ v35: μαρτυρία (martyria)
 
 v37: ἐκκεντέω (ekkenteō)
 “To pierce” or “to thrust through.” The verb emphasizes decisive action. In John, it becomes a lens through which recognition, responsibility, and revelation converge.
+
+v38: κεκρυμμένος (kekrummenos)
+Meaning “hidden” or “concealed.” The participle suggests an ongoing state rather than a momentary choice. John uses it to name the tension between belief and exposure.
+
+v39: μίγμα (migma)
+A “mixture” or compound. The term underscores preparation and intentionality. The burial is not hurried disposal but deliberate care.
+
+v40: ἐνταφιάζω (entaphiazō)
+“To prepare for burial.” The verb centers ritual fidelity rather than grief. John highlights faithfulness enacted through customary practice.
+
+v41: καινός (kainos)
+“New,” not merely unused but qualitatively distinct. The word subtly gestures toward interruption and future transformation without naming it.
