@@ -1,5 +1,11 @@
-## Jesus Mocked and Displayed
+---
+book: John
+testament: NT
+chapter: 19
+translation: TSW
+---
 
+## Jesus Mocked and Displayed
 v01 Then Pilate took Jesus and had him flogged.
 
 v02 And the soldiers twisted together a crown of thorns and placed it on his head, and they clothed him in a purple robe.
