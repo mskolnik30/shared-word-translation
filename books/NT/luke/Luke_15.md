@@ -80,7 +80,7 @@ v17: “He came to himself” signals recovery of identity before repentance. Th
 
 v18–19: The son’s rehearsed speech is carefully structured, naming sin against heaven and father, and requesting reduced status. Luke presents it as sincere, but incomplete—it anticipates survival, not restoration.
 
-v20: The father’s response shatters expectation. Before a word is spoken, he sees, runs, embraces, and kisses—actions marked by urgency and public vulnerability. In the cultural world of the parable, a patriarch running would have been startling, even shameful, signaling disregard for honor in favor of relationship. Compassion precedes confession. Grace moves first, collapsing social distance and rewriting what restoration looks like before repentance can be completed.
+The father’s response shatters expectation. Before a word is spoken, he sees, runs, embraces, and kisses—actions marked by urgency and public vulnerability. In the cultural world of the parable, a patriarch running would have been startling, even shameful, signaling disregard for honor in favor of relationship. Compassion precedes confession. Grace moves first, collapsing social distance and rewriting what restoration looks like before repentance can be completed.
 
 v21–22: The son begins his confession but is not allowed to finish it. The request to become a hired worker is never answered. Restoration overtakes repentance rather than responding to it.
 
