@@ -82,7 +82,7 @@ v45 When they did not find him, they returned to Jerusalem to search for him.
 v46 After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions.
 v47 And all who heard him were amazed at his understanding and his answers.
 
-v48 When his parents saw him, they were astonished; and his mother said to him, “Child, why have you treated us like this? Look, your father and I have been searching for you.
+v48 When his parents saw him, they were astonished; and his mother said to him, “Child, why have you treated us like this? Look, your father and I have been searching for you."
 v49 He said to them, “Why were you searching for me? Did you not know that I must be in my Father’s house?”
 
 v50 But they did not understand what he was saying to them.
