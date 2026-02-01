@@ -58,37 +58,38 @@ translation: TSW
  v33 But we had to celebrate and rejoice, because this brother of yours was dead and has come to life; he was lost and has been found.’”
 
 ## Notes
-v1–2: Luke frames the entire chapter with proximity and complaint. Tax collectors and sinners are drawing near to listen, while Pharisees and scribes are standing apart and grumbling. The conflict is not about morality alone, but about who is allowed nearness and shared table fellowship.
+## Notes
+v1-2: Luke frames the entire chapter with proximity and complaint. Tax collectors and sinners are drawing near to listen, while Pharisees and scribes are standing apart and grumbling. The conflict is not about morality alone, but about who is allowed nearness and shared table fellowship.
 
 v3: Jesus tells these stories to them—to the religious leaders who object to his welcome. The parables are not abstract moral lessons but direct responses to a concrete accusation.
 
-v4–7: The shepherd’s action is intentionally excessive. Leaving ninety-nine sheep in the wilderness to search for one would sound reckless, not prudent. Jesus destabilizes common assumptions about responsible care in order to reframe the value of the lost. Joy, not efficiency, becomes the governing logic.
+v4-7: The shepherd’s action is intentionally excessive. Leaving ninety-nine sheep in the wilderness to search for one would sound reckless, not prudent. Jesus destabilizes common assumptions about responsible care in order to reframe the value of the lost. Joy, not efficiency, becomes the governing logic.
 
 v7: “Repentance” here is not defined or measured. The emphasis falls on heaven’s joy rather than the sinner’s reform. Luke allows repentance to remain relational—a turning that restores connection—rather than a quantified moral achievement.
 
-v8–10: The second parable shifts imagery from a male-coded occupation (shepherding) to a domestic, female-coded space. The parallel structure reinforces the point: searching, finding, and communal rejoicing are not gendered behaviors but divine ones.
+v8-10: The second parable shifts imagery from a male-coded occupation (shepherding) to a domestic, female-coded space. The parallel structure reinforces the point: searching, finding, and communal rejoicing are not gendered behaviors but divine ones.
 
 v10: Joy is said to occur “in the presence of the angels of God,” not explicitly among them. Luke subtly locates joy as something that belongs to God’s own presence, witnessed by the heavenly court.
 
 v11: The story opens without explanation or moral framing. The father’s division of property is narrated without protest, even though such a request would signal relational rupture. Luke allows the offense to stand without commentary.
 
-v12–13: The younger son’s departure is described spatially and relationally. He moves not only to a distant country but away from the structures that once sustained him. “Disordered living” names loss of orientation more than specific acts.
+v12-13: The younger son’s departure is described spatially and relationally. He moves not only to a distant country but away from the structures that once sustained him. “Disordered living” names loss of orientation more than specific acts.
 
-v14–16: Hunger becomes the turning point. Luke does not present moral awakening first, but embodied need. The son’s degradation is total: famine, foreign land, unclean animals, and isolation converge without rescue.
+v14-16: Hunger becomes the turning point. Luke does not present moral awakening first, but embodied need. The son’s degradation is total: famine, foreign land, unclean animals, and isolation converge without rescue.
 
 v17: “He came to himself” signals recovery of identity before repentance. The movement toward home begins not with guilt, but with remembered belonging.
 
-v18–19: The son’s rehearsed speech is carefully structured, naming sin against heaven and father, and requesting reduced status. Luke presents it as sincere, but incomplete—it anticipates survival, not restoration.
+v18-19: The son’s rehearsed speech is carefully structured, naming sin against heaven and father, and requesting reduced status. Luke presents it as sincere, but incomplete—it anticipates survival, not restoration.
 
-v20: Ken Bailey argues that the father’s running is culturally shocking—an act of vulnerability that disregards public honor. In theological language, it is extravagant grace: compassion interrupts the script before confession is spoken.
+v20: The father’s response overturns the script. He runs, embraces, and kisses before the son can finish his confession. In doing so, he accepts public vulnerability and abandons concern for honor. Grace acts first, closing the distance before repentance can be negotiated.
 
-v21–22: The son begins his confession but is not allowed to finish it. The request to become a hired worker is never answered. Restoration overtakes repentance rather than responding to it.
+v21-22: The son begins his confession but is not allowed to finish it. The request to become a hired worker is never answered. Restoration overtakes repentance rather than responding to it.
 
-v23–24: The father narrates the son’s condition as death and resurrection, loss and recovery. Identity is re-named by the father, not negotiated by the son.
+v23-24: The father narrates the son’s condition as death and resurrection, loss and recovery. Identity is re-named by the father, not negotiated by the son.
 
-v25–27: The elder son is introduced outside the celebration. His distance mirrors the earlier complaint of the Pharisees and scribes. Music and dancing become sounds of exclusion rather than invitation.
+v25-27: The elder son is introduced outside the celebration. His distance mirrors the earlier complaint of the Pharisees and scribes. Music and dancing become sounds of exclusion rather than invitation.
 
-v28–30: The elder son’s anger is rooted in comparison and accounting. His language reduces relationship to labor and reward. Notably, he speaks of “this son of yours,” refusing familial language.
+v28-30: The elder son’s anger is rooted in comparison and accounting. His language reduces relationship to labor and reward. Notably, he speaks of “this son of yours,” refusing familial language.
 
 v31: The father addresses him as “child,” affirming belonging without contesting the complaint. Presence, not performance, is named as the elder son’s inheritance.
 
