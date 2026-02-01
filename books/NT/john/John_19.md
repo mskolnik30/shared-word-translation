@@ -92,3 +92,11 @@ v16: The handover is understated. John avoids dramatization, emphasizing instead
 
 
 ## Vocabulary
+v11: ἐξουσία (exousia)
+This term refers to authority that is granted rather than inherent. In John’s Gospel, exousia consistently implies delegated power, not absolute control. Jesus’ response reframes Pilate’s claim, locating authority within a larger divine ordering rather than personal possession.
+v11: ἄνωθεν (anōthen)
+The word can mean “from above,” “from the beginning,” or “again.” Here it gestures toward divine origin without naming it directly. John frequently uses anōthen to hold multiple meanings in tension, inviting theological reflection without resolving ambiguity.
+v11, v16: παραδίδωμι (paradidōmi)
+This verb means “to hand over” and is used for Judas’ betrayal, the authorities’ actions, and Pilate’s final decision. John’s repeated use of the same term links these moments together, emphasizing shared participation rather than isolating blame.
+v15: βασιλεύς (basileus)
+The word for “king” carries political, messianic, and theological weight. When the chief priests declare allegiance to Caesar alone, the term exposes the tension between covenantal expectation and imperial accommodation.
