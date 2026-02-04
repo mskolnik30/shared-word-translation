@@ -35,11 +35,9 @@ v12 Now when Jesus heard that John had been arrested, he withdrew to Galilee.
 v13 He left Nazareth and made his home in Capernaum by the sea, in the territory of Zebulun and Naphtali,
 v14 so that what had been spoken through the prophet Isaiah might be fulfilled:
 v15 “Land of Zebulun, land of Naphtali,
-on the road by the sea, across the Jordan, Galilee of the nations—
-v16 the people who sat in darkness
-have seen a great light,
-and for those who sat in the region and shadow of death
-light has dawned.”
+on the road by the sea, 
+across the Jordan, Galilee of the nations—
+v16 the people who sat in darkness have seen a great light, and for those who sat in the region and shadow of death light has dawned.”
 
 v17 From that time Jesus began to proclaim, “Repent, for the kingdom of heaven has come near.”
 
