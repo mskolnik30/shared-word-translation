@@ -31,7 +31,6 @@ and serve only him.’”
 v11 Then the devil left him, and suddenly angels came and waited on him.
 
 ## The Beginning of the Ministry in Galilee
-
 v12 Now when Jesus heard that John had been arrested, he withdrew to Galilee.
 v13 He left Nazareth and made his home in Capernaum by the sea, in the territory of Zebulun and Naphtali,
 v14 so that what had been spoken through the prophet Isaiah might be fulfilled:
@@ -45,7 +44,6 @@ light has dawned.”
 v17 From that time Jesus began to proclaim, “Repent, for the kingdom of heaven has come near.”
 
 ## The Calling of the First Disciples
-
 v18 As he walked by the Sea of Galilee, he saw two brothers, Simon, who is called Peter, and Andrew his brother, casting a net into the sea—for they were fishermen.
 v19 And he said to them, “Follow me, and I will make you fish for people.”
 v20 Immediately they left their nets and followed him.
@@ -53,7 +51,6 @@ v21 As he went on from there, he saw two other brothers, James son of Zebedee an
 v22 Immediately they left the boat and their father, and followed him.
 
 ## Teaching, Proclaiming, and Healing
-
 v23 Jesus went throughout Galilee, teaching in their synagogues and proclaiming the good news of the kingdom and curing every disease and every sickness among the people.
 v24 So his fame spread throughout all Syria, and they brought to him all the sick, those afflicted with various diseases and pains, demoniacs, epileptics, and paralytics, and he cured them.
 v25 And great crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and from beyond the Jordan.
