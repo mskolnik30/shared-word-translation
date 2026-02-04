@@ -29,13 +29,6 @@ v16 And the gift is not like the effect of the one person’s sin. For the judgm
 v17 For if, by the trespass of the one, death exercised dominion through that one, much more surely will those who receive the abundance of grace and the gift of righteousness exercise dominion in life through the one—Jesus Christ.
 
 ## Notes
-Below are highly selective notes for Romans 5 (TSW).
-They focus only on places where syntax, argument, or theological tension genuinely matters—not on what is already clear from the English.
-
-⸻
-
-Notes
-
 5:1 — “having been set right through trust”
 The Greek participle (dikaiōthentes) summarizes the argument of Romans 3–4 rather than restating it. The phrase “through trust” is intentionally open, carrying forward the prior discussion of trust grounded in Christ’s faithful action without re-arguing the genitive question here.
 
@@ -66,8 +59,27 @@ The repeated comparative intensifies Paul’s argument: grace does not merely co
 5:17 — “exercise dominion in life”
 The verb echoes the earlier claim that death “exercised dominion.” Dominion shifts from death to those who receive grace, anticipating Paul’s later language of new life without yet describing its ethical shape.
 
-⸻
-
-If you want, the next clean step would be a very short vocabulary section (5–7 terms max) keyed to words like trust, set right, reconciliation, dominion, and type—kept just as restrained as these notes.
-
 ## Vocabulary
+v01: δικαιόω (dikaioō)
+“To set right.” Denotes being restored to right standing rather than merely declared acquitted. In Romans 5, the verb gathers the argument of chapters 3–4 and functions as a settled reality.
+
+v01: πίστις (pistis)
+“Trust.” A relational term of reliance and allegiance. Here it appears without an explicit object, allowing continuity with Christ’s faithful action while naming the human posture of trust.
+
+v01: εἰρήνη (eirēnē)
+“Peace.” Refers to restored relationship and wholeness, not inner calm. “Peace with God” signals the end of hostility.
+
+v02: καυχάομαι (kauchaomai)
+“To boast.” A morally charged verb reclaimed by Paul to describe confident orientation toward God’s work rather than self-achievement.
+
+v05: ἀγάπη (agapē)
+“Love.” Defined narratively rather than abstractly: God’s love is poured out and demonstrated in action, not sentiment.
+
+v10: καταλλαγή (katallagē)
+“Reconciliation.” A relational exchange involving the removal of enmity, initiated by God and received rather than negotiated.
+
+v14: βασιλεύω (basileuō)
+“To exercise dominion.” Used first of death’s reign, preparing for its reversal later in the chapter.
+
+v17: βασιλεύω (basileuō)
+“To exercise dominion.” The verb is transferred from death to those who receive grace, signaling a shift in authority and anticipating new life.
