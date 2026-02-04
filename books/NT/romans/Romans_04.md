@@ -44,8 +44,59 @@ v24 but also for ours. It will be reckoned to us who trust in the one who raised
 v25 who was handed over because of our trespasses and raised for our setting right.
 
 ## Notes
+v03: “Abraham trusted God”
+The citation from Genesis emphasizes trust as relational reliance rather than moral achievement. Abraham’s trust responds to God’s promise; it does not generate it.
 
+v05: “the one who sets right the ungodly”
+The phrase is deliberately provocative. God’s action precedes human worthiness, preventing trust from becoming a refined form of works.
+
+v09–10: “before or after he was circumcised”
+Paul’s temporal argument is decisive. Trust is shown to precede covenantal markers, establishing its priority without dismissing Israel’s story.
+
+v11: “a seal of the righteousness of trust”
+Circumcision functions as confirmation, not cause. The order preserves grace while honoring embodied covenant practice.
+
+v13: “inherit the world”
+The promise to Abraham is expanded beyond land to a renewed creation horizon. Paul reads the promise eschatologically rather than territorially.
+
+v15: “the law brings wrath”
+Wrath is the consequence of violated obligation, not the purpose of the law. The law exposes rupture; it does not create it.
+
+v16: “it depends on trust”
+Trust safeguards the promise by anchoring it in grace rather than lineage or performance. Universality flows from grace, not abstraction.
+
+v17: “who gives life to the dead”
+God is defined by creative and resurrecting power. This prepares for the transition from Abraham’s story to Christ’s resurrection.
+
+v18: “hoping against hope”
+The phrase names trust that persists without visible support. Hope is not optimism but endurance grounded in God’s promise.
+
+v20–21: “no distrust made him waver”
+Paul does not deny Abraham’s struggle (cf. Genesis), but interprets the story theologically rather than psychologically. The focus remains on God’s faithfulness.
+
+v24–25: “for us also”
+The Abraham narrative is extended forward. Justification rests on God’s action in raising Jesus, aligning human trust with Christ’s faithful obedience without collapsing the two.
 
 ## Vocabulary
+v03: πίστις (pistis)
+“Trust.” Denotes relational reliance rather than intellectual assent. In Romans 4, trust is portrayed as response to promise, not achievement.
+
+v03: λογίζομαι (logizomai)
+“To count; to regard.” An evaluative term rather than a transactional one. What is “counted” reflects God’s gracious judgment, not a merit calculation.
+
+v05: ἀσεβής (asebēs)
+“Ungodly.” Describes those without standing or claim. The term intensifies the grace of God’s action in setting right those without merit.
+
+v11: σφραγίς (sphragis)
+“Seal.” A confirming mark rather than a causal mechanism. Circumcision is presented as affirmation, not origin, of righteousness.
+
+v13: ἐπαγγελία (epangelia)
+“Promise.” God’s self-initiated commitment. The promise precedes law and grounds trust throughout the chapter.
+
+v16: χάρις (charis)
+“Grace.” Gift freely given, ensuring the promise rests on God’s action rather than human lineage or performance.
+
+v17: ζωοποιέω (zōopoieō)
+“To give life.” Refers to God’s creative and resurrecting power, linking Abraham’s story to resurrection hope.
                                                                                          
                                                                                          
