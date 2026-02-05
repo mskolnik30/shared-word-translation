@@ -8,23 +8,30 @@ translation: TSW
 ## Jesus Sits with Temptation
 v01 Then Jesus was led up by the Spirit into the wilderness to be tested by the devil.
 v02 He fasted forty days and forty nights, and afterward he was hungry.
-v03 The tempter came and said to him, “If you are the Son of God, command these stones to become loaves of bread.”
+v03 The tempter came and said to him, 
+“If you are the Son of God, command these stones to become loaves of bread.”
+
 v04 But he answered, “It is written,
 ‘One does not live by bread alone,
 but by every word that comes from the mouth of God.’”
 
 v05 Then the devil took him to the holy city and placed him on the pinnacle of the temple,
-v06 saying to him, “If you are the Son of God, throw yourself down; for it is written,
+v06 saying to him, 
+“If you are the Son of God, throw yourself down; for it is written,
 ‘He will command his angels concerning you,’
 and
 ‘On their hands they will bear you up,
 so that you will not strike your foot against a stone.’”
-v07 Jesus said to him, “Again it is written,
+
+v07 Jesus said to him, 
+“Again it is written,
 ‘Do not put the Lord your God to the test.’”
 
 v08 Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory;
 v09 and he said to him, “All these I will give you, if you will fall down and worship me.”
-v10 Jesus said to him, “Away with you, Satan! for it is written,
+
+v10 Jesus said to him, 
+“Away with you, Satan! for it is written,
 ‘Worship the Lord your God,
 and serve only him.’”
 
@@ -34,6 +41,7 @@ v11 Then the devil left him, and suddenly angels came and waited on him.
 v12 Now when Jesus heard that John had been arrested, he withdrew to Galilee.
 v13 He left Nazareth and made his home in Capernaum by the sea, in the territory of Zebulun and Naphtali,
 v14 so that what had been spoken through the prophet Isaiah might be fulfilled:
+
 v15 “Land of Zebulun, land of Naphtali,
 on the road by the sea, 
 across the Jordan, Galilee of the nations—
