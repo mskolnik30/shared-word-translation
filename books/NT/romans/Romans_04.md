@@ -8,19 +8,19 @@ translation: TSW
 ## Abraham Set Right by Trust
 v01 What then shall we say was gained by Abraham, our ancestor according to the flesh?
 v02 For if Abraham was set right by works, he has something to boast about—but not before God.
-v03 For what does the scripture say? “Abraham trusted God, and it was reckoned to him as righteousness.”
-v04 Now to one who works, wages are not reckoned as a gift but as something owed.
-v05 But to one who does not work yet trusts the one who sets right the ungodly, such trust is reckoned as righteousness.
+v03 For what does the scripture say? “Abraham trusted God, and it was counted to him as righteousness.”
+v04 Now to one who works, wages are not counted as a gift but as something owed.
+v05 But to one who does not work yet trusts the one who sets right the ungodly, such trust is counted as righteousness.
 
-v06 So also David speaks of the blessedness of the one to whom God reckons righteousness apart from works:
+v06 So also David speaks of the blessedness of the one to whom God counts righteousness apart from works:
 v07 “Blessed are those whose lawless deeds are forgiven,
      and whose sins are covered;
-v08 blessed is the one against whom the Lord will not reckon sin.”
+v08 blessed is the one against whom the Lord will not count sin.”
 
 ## Trust Counted Apart from the Law
-v09 Is this blessedness then pronounced only on the circumcised, or also on the uncircumcised? We say that trust was reckoned to Abraham as righteousness.
-v10 How then was it reckoned? Was it before or after he was circumcised? It was not after, but before.
-v11 He received the sign of circumcision as a seal of the righteousness of trust that he had while still uncircumcised. This was to make him the ancestor of all who trust without being circumcised, so that righteousness might be reckoned to them as well,
+v09 Is this blessedness then pronounced only on the circumcised, or also on the uncircumcised? We say that trust was counted to Abraham as righteousness.
+v10 How then was it counted? Was it before or after he was circumcised? It was not after, but before.
+v11 He received the sign of circumcision as a seal of the righteousness of trust that he had while still uncircumcised. This was to make him the ancestor of all who trust without being circumcised, so that righteousness might be counted to them as well,
 v12 and likewise the ancestor of the circumcised who are not only circumcised but who also walk in the footsteps of the trust that our ancestor Abraham had before he was circumcised.
 
 ## The Promise Depends on Trust
@@ -36,11 +36,11 @@ v18 Hoping against hope, he trusted that he would become the ancestor of many na
 v19 He did not weaken in trust when he considered his own body, already as good as dead (for he was about a hundred years old), or the deadness of Sarah’s womb.
 v20 No distrust made him waver concerning the promise of God, but he grew strong in trust as he gave glory to God,
 v21 being fully convinced that God was able to do what God had promised.
-v22 Therefore it was reckoned to him as righteousness.
+v22 Therefore it was counted to him as righteousness.
 
 ## Trust Counted to Us
-v23 Now the words “it was reckoned to him” were written not for his sake alone,
-v24 but also for ours. It will be reckoned to us who trust in the one who raised Jesus our Lord from the dead,
+v23 Now the words “it was counted to him” were written not for his sake alone,
+v24 but also for ours. It will be counted to us who trust in the one who raised Jesus our Lord from the dead,
 v25 who was handed over because of our trespasses and raised for our setting right.
 
 ## Notes
