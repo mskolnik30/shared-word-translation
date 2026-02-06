@@ -16,7 +16,7 @@ v07 Other seed fell among thorns, and the thorns grew up and choked it, and it y
 v08 Other seed fell into good soil and produced grain, growing up and increasing and yielding thirty and sixty and a hundredfold.”
 v09 And he said, “Let anyone with ears to hear listen.”
 
-## The Purpose of the Parables=
+## The Purpose of the Parables
 v10 When he was alone, those around him together with the twelve asked him about the parables.
 v11 And he said to them, “To you has been given the mystery of the reign of God, but for those outside, everything comes in parables,
 v12 so that
@@ -80,7 +80,7 @@ v19: “the cares of the age” — Temporal horizon is this present age; anxiet
 
 v20: “accept it” — Implies active reception, not mere comprehension; fruitfulness is the result, not the criterion.
 
-v22: “nothing is hidden” — Eschatological orientation; concealment belongs to the present moment, not the final one.
+v22: “nothing is hidden” — Eschatological orientation toward God’s final unveiling; also reflects Mark’s pattern of restrained disclosure, in which Jesus’ identity and the meaning of the gospel are revealed gradually and often withheld within the narrative. ** eschatological** — oriented toward God’s final unveiling and fulfillment, when what is hidden is fully revealed.
 
 v24: “the measure you give” — Reciprocity language without specification; hearing itself is the measure in view.
 
