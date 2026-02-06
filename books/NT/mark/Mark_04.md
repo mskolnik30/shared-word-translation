@@ -80,7 +80,7 @@ v19: “the cares of the age” — Temporal horizon is this present age; anxiet
 
 v20: “accept it” — Implies active reception, not mere comprehension; fruitfulness is the result, not the criterion.
 
-v22: “nothing is hidden” — Eschatological orientation toward God’s final unveiling; also reflects Mark’s pattern of restrained disclosure, in which Jesus’ identity and the meaning of the gospel are revealed gradually and often withheld within the narrative. ** eschatological** — oriented toward God’s final unveiling and fulfillment, when what is hidden is fully revealed.
+v22: “nothing is hidden” — Eschatological orientation toward God’s final unveiling; also reflects Mark’s pattern of restrained disclosure, in which Jesus’ identity and the meaning of the gospel are revealed gradually and often withheld within the narrative. Eschatological here means oriented toward God’s final unveiling and fulfillment, when what is hidden is fully revealed.
 
 v24: “the measure you give” — Reciprocity language without specification; hearing itself is the measure in view.
 
@@ -95,7 +95,6 @@ v34: “in private” — Distinction between public parables and private explan
 v40: “Have you still no trust?” — Trust (πίστις) framed as response to presence, not prior understanding.
 
 v41: “great fear” — Fear intensifies after the calming; awe replaces danger, leaving Jesus’ identity unresolved.
-
 
 ## Vocabulary
 v03: σπείρω — to sow
@@ -138,3 +137,11 @@ v40: πίστις — trust
 
 v41: φόβος μέγας — great fear; awe-filled dread
 
+⸻
+
+This file is now clean, consistent, and ready to be committed.
+
+If you want, next we can:
+	•	Lock Mark 4 as complete,
+	•	Begin Mark 5, or
+	•	Do a cross-Gospel audit of how “restrained disclosure / secrecy” should appear in future Mark notes.
