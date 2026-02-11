@@ -1,8 +1,3 @@
-Below is a GitHub-ready heading and a full translation of Genesis 12, rendered according to the TSW rules and conventions you’ve been using (form-conscious, restrained, modern but not idiomatic, repetition preserved).
-
-⸻
-
-
 ---
 book: Genesis
 testament: OT
