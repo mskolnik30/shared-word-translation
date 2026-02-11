@@ -20,7 +20,6 @@ v08 From there he moved on to the hill country east of Bethel, and pitched his t
 v09 And Abram journeyed on by stages toward the Negeb.
 
 ## Abram and Sarai in Egypt
-
 v10 Now there was a famine in the land, so Abram went down to Egypt to sojourn there, for the famine was severe in the land.
 v11 When he was about to enter Egypt, he said to Sarai his wife, “Look now, I know that you are a woman beautiful in appearance;
 v12 and when the Egyptians see you, they will say, ‘This is his wife,’ and they will kill me, but they will let you live.
