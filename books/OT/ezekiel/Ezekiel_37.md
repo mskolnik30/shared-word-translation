@@ -1,8 +1,9 @@
+---
 book: Ezekiel
 testament: OT
 chapter: 37
-range: 1-14
 translation: TSW
+---
 
 ## The Valley of Dry Bones
 v01 The LORD’s hand was upon me, and the LORD brought me out by the Spirit of the LORD and set me down in the middle of the valley; it was full of bones.
