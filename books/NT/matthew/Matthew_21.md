@@ -1,9 +1,9 @@
---------
+---
 book: Matthew
 testament: NT
 chapter: 21
 translation: TSW
---------
+---
 
 # The Triumphal Entry
 
