@@ -1,8 +1,8 @@
 ------------
-**book: Psalm
+book: Psalm
 testament: OT
 chapter: 130
-translation: TSW**
+translation: TSW
 ------------
 
 ## A Song of Ascents
