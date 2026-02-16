@@ -1,10 +1,9 @@
---------
+---
 book: Matthew
 testament: NT
 chapter: 28
 translation: TSW
---------
-
+---
 ## The Resurrection of Jesus
 
 v01 Now after the Sabbath, as the first day of the week began to dawn, Mary Magdalene and the other Mary went to see the tomb.
