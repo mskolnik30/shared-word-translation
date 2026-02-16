@@ -1,9 +1,9 @@
---------
+---
 book: Colossians
 testament: NT
 chapter: 3
 translation: TSW
---------
+---
 
 ## Seek the Things Above
 
