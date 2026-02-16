@@ -1,9 +1,9 @@
---------
+---
 book: Hebrews
 testament: NT
 chapter: 4
 translation: TSW
---------
+---
 
 ## God’s Rest and Our Trust
 
