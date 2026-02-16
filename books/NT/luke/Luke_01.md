@@ -1,9 +1,9 @@
---------
+---
 book: Luke
 testament: NT
 chapter: 1
 translation: TSW
---------
+---
 
 ## Preface
 
