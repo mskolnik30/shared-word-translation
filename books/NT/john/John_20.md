@@ -1,9 +1,9 @@
---------
+---
 book: John
 testament: NT
 chapter: 20
 translation: TSW
---------
+---
 
 ## The Empty Tomb
 
