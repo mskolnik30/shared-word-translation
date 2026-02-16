@@ -1,9 +1,9 @@
----------
+---
 book: Acts
 testament: NT
 chapter: 10
 translation: TSW
---------
+---
 
 ## Cornelius Sees a Vision
 
