@@ -1,9 +1,9 @@
-------------
+---
 book: Psalm
 testament: OT
 chapter: 130
 translation: TSW
-------------
+---
 
 ## A Song of Ascents
 v01 Out of the depths I cry to you, O LORD.
