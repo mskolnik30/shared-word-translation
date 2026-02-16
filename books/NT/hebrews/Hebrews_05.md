@@ -1,9 +1,9 @@
---------
+---
 book: Hebrews
 testament: NT
 chapter: 5
 translation: TSW
---------
+---
 
 ## The Great Priest Appointed by God
 
