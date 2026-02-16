@@ -1,9 +1,9 @@
----------
+---
 book: Matthew
 testament: NT
 chapter: 27
 translation: TSW
---------
+---
 
 ## Jesus Delivered to Pilate
 
