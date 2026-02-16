@@ -1,9 +1,9 @@
---------
+---
 book: Hebrews
 testament: NT
 chapter: 10
 translation: TSW
---------
+---
 
 ## Christ’s Once-for-All Offering
 
