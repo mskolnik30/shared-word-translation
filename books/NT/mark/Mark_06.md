@@ -1,5 +1,3 @@
-I built this in line with your TSW translation philosophy—form-conscious, restrained, and attentive to cadence, repetition, and ambiguity  ￼  ￼
-
 ---
 book: Mark
 testament: NT
