@@ -1,9 +1,9 @@
---------
+---
 book: Matthew
 testament: NT
 chapter: 26
 translation: TSW
---------
+---
 
 ## The Plot to Arrest Jesus
 
