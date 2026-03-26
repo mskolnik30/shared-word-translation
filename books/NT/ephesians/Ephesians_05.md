@@ -6,76 +6,79 @@ translation: TSW
 ---
 
 ## Walking as Children of Light
-v01 Therefore be imitators of God, as beloved children,
+<p>
+v01: Therefore be imitators of God, as beloved children,
+v02: and walk in love, just as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God.
+</p>
 
-v02 and walk in love, just as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God.
+<p>
+v03: But sexual immorality and all impurity or greed must not even be named among you, as is fitting for holy ones.
+v04: Obscenity, foolish talk, or crude joking—things that are out of place—must not be found among you; instead, there is thanksgiving.
+v05: For you may be sure of this: everyone who is sexually immoral or impure, or who is greedy (that is, an idolater), has no inheritance in the reign of Christ and of God.
+</p>
 
-v03 But sexual immorality and all impurity or greed must not even be named among you, as is fitting for holy ones.
+<p>
+v06: Let no one deceive you with empty words, for because of these things the wrath of God comes upon the children of disobedience.
+v07: Therefore do not become partners with them.
+</p>
 
-v04 Obscenity, foolish talk, or crude joking—things that are out of place—must not be found among you; instead, there is thanksgiving.
+<p>
+v08: For once you were darkness, but now in the Lord you are light. Walk as children of light—
+v09: for the fruit of the light is found in all that is good and right and true—
+v10: and try to discern what is pleasing to the Lord.
+</p>
 
-v05 For you may be sure of this: everyone who is sexually immoral or impure, or who is greedy (that is, an idolater), has no inheritance in the reign of Christ and of God.
+<p>
+v11: Take no part in the unfruitful works of darkness, but instead expose them.
+v12: For it is shameful even to mention what such people do in secret.
+v13: But everything exposed by the light becomes visible,
+v14: for everything that becomes visible is light. Therefore it says,
+“Awake, sleeper,
+and rise from the dead,
+and Christ will shine on you.”
+</p>
 
-v06 Let no one deceive you with empty words, for because of these things the wrath of God comes upon the children of disobedience.
+<p>
+v15: Be careful, then, how you live—not as unwise but as wise,
+v16: making the most of the time, because the days are evil.
+v17: So do not be foolish, but understand what the will of the Lord is.
+</p>
 
-v07 Therefore do not become partners with them.
-
-v08 For once you were darkness, but now in the Lord you are light. Walk as children of light—
-
-v09 for the fruit of the light is found in all that is good and right and true—
-
-v10 and try to discern what is pleasing to the Lord.
-
-v11 Take no part in the unfruitful works of darkness, but instead expose them.
-
-v12 For it is shameful even to mention what such people do in secret.
-
-v13 But everything exposed by the light becomes visible,
-
-v14 for everything that becomes visible is light. Therefore it says,  
-  “Awake, sleeper,  
-   and rise from the dead,  
-  and Christ will shine on you.”
-
-v15 Be careful, then, how you live—not as unwise but as wise,
-
-v16 making the most of the time, because the days are evil.
-
-v17 So do not be foolish, but understand what the will of the Lord is.
-
-v18 Do not get drunk with wine, for that is debauchery; but be filled with the Spirit,
-
-v19 speaking to one another with psalms and hymns and spiritual songs, singing and making melody to the Lord in your hearts,
-
-v20 giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ,
-
-v21 submitting to one another out of reverence for Christ.
+<p>
+v18: Do not get drunk with wine, for that is debauchery; but be filled with the Spirit,
+v19: speaking to one another with psalms and hymns and spiritual songs, singing and making melody to the Lord in your hearts,
+v20: giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ,
+v21: submitting to one another out of reverence for Christ.
+</p>
 
 ## Household Relationships
-v22 Wives, to your husbands as to the Lord.
+<p>
+v22: Wives, to your husbands as to the Lord.
+v23: For the husband is the head of the wife just as Christ is the head of the church—the body of which he is the Savior.
+v24: Just as the church submits to Christ, so also wives should submit in everything to their husbands.
+</p>
 
-v23 For the husband is the head of the wife just as Christ is the head of the church—the body of which he is the Savior.
+<p>
+v25: Husbands, love your wives, just as Christ loved the church and gave himself up for her,
+v26: in order to make her holy, cleansing her by the washing of water with the word,
+v27: so as to present the church to himself in splendor, without spot or wrinkle or anything of the kind—yes, so that she may be holy and without blemish.
+</p>
 
-v24 Just as the church submits to Christ, so also wives should submit in everything to their husbands.
+<p>
+v28: In the same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.
+v29: For no one ever hates one’s own body, but nourishes and cherishes it, just as Christ does the church,
+v30: because we are members of his body.
+</p>
 
-v25 Husbands, love your wives, just as Christ loved the church and gave himself up for her,
+<p>
+v31: “For this reason a man shall leave his father and mother and be joined to his wife,
+and the two shall become one flesh.”
+v32: This mystery is great, and I am speaking with reference to Christ and the church.
+</p>
 
-v26 in order to make her holy, cleansing her by the washing of water with the word,
-
-v27 so as to present the church to himself in splendor, without spot or wrinkle or anything of the kind—yes, so that she may be holy and without blemish.
-
-v28 In the same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.
-
-v29 For no one ever hates one’s own body, but nourishes and cherishes it, just as Christ does the church,
-
-v30 because we are members of his body.
-
-v31 “For this reason a man shall leave his father and mother and be joined to his wife,  
-  and the two shall become one flesh.”
-
-v32 This mystery is great, and I am speaking with reference to Christ and the church.
-
-v33 Each of you, however, should love his wife as himself, and a wife should respect her husband.
+<p>
+v33: Each of you, however, should love his wife as himself, and a wife should respect her husband.
+</p>
 
 ## Notes
 v01: “imitators of God” — Grounds ethical instruction in participation rather than moral achievement.
