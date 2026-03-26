@@ -7,102 +7,101 @@ translation: TSW
 
 ## The Lord Sends the Seventy-Two
 
-v01 After these things the Lord appointed seventy-two others and sent them ahead of him in pairs to every town and place where he himself was about to come.
+<p>
+v01: After these things the Lord appointed seventy-two others and sent them ahead of him in pairs to every town and place where he himself was about to come.
+v02: And he said to them, “The harvest is abundant, but the laborers are few. Therefore ask the Lord of the harvest to send out laborers into his harvest.
+v03: Go on your way. Look—I am sending you out like lambs among wolves.
+v04: Carry no purse, no bag, no sandals; and greet no one on the road.
+v05: Whatever house you enter, first say, ‘Peace to this house.’
+v06: And if a child of peace is there, your peace will rest on them; but if not, it will return to you.
+v07: Remain in that same house, eating and drinking what they provide, for the laborer deserves their wages. Do not move from house to house.
+v08: Whenever you enter a town and they welcome you, eat what is set before you.
+v09: Heal the sick in it, and say to them, ‘The kingdom of God has come near to you.’
+</p>
 
-v02 And he said to them, “The harvest is abundant, but the laborers are few. Therefore ask the Lord of the harvest to send out laborers into his harvest.
+<p>
+v10: But whenever you enter a town and they do not welcome you, go out into its streets and say,
+v11: ‘Even the dust of your town that clings to our feet we wipe off against you. Yet know this: the kingdom of God has come near.’
+v12: I tell you, it will be more bearable on that day for Sodom than for that town.
+</p>
 
-v03 Go on your way. Look—I am sending you out like lambs among wolves.
+<p>
+v13: “Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.
+v14: But it will be more bearable in the judgment for Tyre and Sidon than for you.
+v15: And you, Capernaum—will you be lifted up to heaven? You will be brought down to Hades.
+</p>
 
-v04 Carry no purse, no bag, no sandals; and greet no one on the road.
-
-v05 Whatever house you enter, first say, ‘Peace to this house.’
-
-v06 And if a child of peace is there, your peace will rest on them; but if not, it will return to you.
-
-v07 Remain in that same house, eating and drinking what they provide, for the laborer deserves their wages. Do not move from house to house.
-
-v08 Whenever you enter a town and they welcome you, eat what is set before you.
-
-v09 Heal the sick in it, and say to them, ‘The kingdom of God has come near to you.’
-
-v10 But whenever you enter a town and they do not welcome you, go out into its streets and say,
-
-v11 ‘Even the dust of your town that clings to our feet we wipe off against you. Yet know this: the kingdom of God has come near.’
-
-v12 I tell you, it will be more bearable on that day for Sodom than for that town.
-
-v13 “Woe to you, Chorazin! Woe to you, Bethsaida! For if the mighty works done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.
-
-v14 But it will be more bearable in the judgment for Tyre and Sidon than for you.
-
-v15 And you, Capernaum—will you be lifted up to heaven? You will be brought down to Hades.
-
-v16 “Whoever listens to you listens to me, and whoever rejects you rejects me; and whoever rejects me rejects the one who sent me.”
+<p>
+v16: “Whoever listens to you listens to me, and whoever rejects you rejects me; and whoever rejects me rejects the one who sent me.”
+</p>
 
 ## The Return of the Seventy-Two
 
-v17 The seventy-two returned with joy, saying, “Lord, even the demons submit to us in your name!”
-
-v18 And he said to them, “I watched Satan fall like lightning from heaven.
-
-v19 Look—I have given you authority to tread on snakes and scorpions, and over all the power of the enemy; and nothing will harm you.
-
-v20 Nevertheless, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”
+<p>
+v17: The seventy-two returned with joy, saying, “Lord, even the demons submit to us in your name!”
+v18: And he said to them, “I watched Satan fall like lightning from heaven.
+v19: Look—I have given you authority to tread on snakes and scorpions, and over all the power of the enemy; and nothing will harm you.
+v20: Nevertheless, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.”
+</p>
 
 ## Jesus Rejoices in the Holy Spirit
 
-v21 In that same hour he rejoiced in the Holy Spirit and said, “I thank you, Father, Lord of heaven and earth, because you have hidden these things from the wise and understanding and revealed them to infants. Yes, Father, for so it was pleasing in your sight.
+<p>
+v21: In that same hour he rejoiced in the Holy Spirit and said, “I thank you, Father, Lord of heaven and earth, because you have hidden these things from the wise and understanding and revealed them to infants. Yes, Father, for so it was pleasing in your sight.
+v22: All things have been handed over to me by my Father; and no one knows who the Son is except the Father, or who the Father is except the Son and anyone to whom the Son chooses to reveal him.”
+</p>
 
-v22 All things have been handed over to me by my Father; and no one knows who the Son is except the Father, or who the Father is except the Son and anyone to whom the Son chooses to reveal him.”
-
-v23 Then, turning to the disciples, he said privately, “Blessed are the eyes that see what you see.
-
-v24 For I tell you that many prophets and kings desired to see what you see, but did not see it, and to hear what you hear, but did not hear it.”
+<p>
+v23: Then, turning to the disciples, he said privately, “Blessed are the eyes that see what you see.
+v24: For I tell you that many prophets and kings desired to see what you see, but did not see it, and to hear what you hear, but did not hear it.”
+</p>
 
 ## The Parable of the Samaritan
 
-v25 And look—a lawyer stood up to test him, saying, “Teacher, what must I do to inherit eternal life?”
+<p>
+v25: And look—a lawyer stood up to test him, saying, “Teacher, what must I do to inherit eternal life?”
+v26: He said to him, “What is written in the law? How do you read?”
+v27: He answered, “You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself.”
+v28: And he said to him, “You have answered rightly; do this, and you will live.”
+</p>
 
-v26 He said to him, “What is written in the law? How do you read?”
+<p>
+v29: But wanting to justify himself, he said to Jesus, “And who is my neighbor?”
+v30: Jesus replied and said, “A man was going down from Jerusalem to Jericho, and he fell among robbers, who stripped him and beat him and went away, leaving him half-dead.
+</p>
 
-v27 He answered, “You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as yourself.”
+<p>
+v31: Now by chance a priest was going down that road, and when he saw him, he passed by on the other side.
+v32: Likewise a Levite also, when he came to the place and saw him, passed by on the other side.
+v33: But a Samaritan, as he journeyed, came to where he was; and when he saw him, he was moved with compassion.
+</p>
 
-v28 And he said to him, “You have answered rightly; do this, and you will live.”
+<p>
+v34: He went to him and bound up his wounds, pouring on oil and wine. Then he set him on his own animal and brought him to an inn and took care of him.
+v35: And the next day he took out two denarii and gave them to the innkeeper and said, ‘Take care of him, and whatever you spend beyond this, I will repay you when I return.’
+</p>
 
-v29 But wanting to justify himself, he said to Jesus, “And who is my neighbor?”
-
-v30 Jesus replied and said, “A man was going down from Jerusalem to Jericho, and he fell among robbers, who stripped him and beat him and went away, leaving him half-dead.
-
-v31 Now by chance a priest was going down that road, and when he saw him, he passed by on the other side.
-
-v32 Likewise a Levite also, when he came to the place and saw him, passed by on the other side.
-
-v33 But a Samaritan, as he journeyed, came to where he was; and when he saw him, he was moved with compassion.
-
-v34 He went to him and bound up his wounds, pouring on oil and wine. Then he set him on his own animal and brought him to an inn and took care of him.
-
-v35 And the next day he took out two denarii and gave them to the innkeeper and said, ‘Take care of him, and whatever you spend beyond this, I will repay you when I return.’
-
-v36 Which of these three, do you think, proved to be a neighbor to the man who fell among robbers?”
-
-v37 He said, “The one who showed mercy to him.” And Jesus said to him, “Go, and do likewise.”
+<p>
+v36: Which of these three, do you think, proved to be a neighbor to the man who fell among robbers?”
+v37: He said, “The one who showed mercy to him.” And Jesus said to him, “Go, and do likewise.”
+</p>
 
 ## Mary and Martha
 
-v38 Now as they went on their way, he entered a village, and a woman named Martha welcomed him into her house.
+<p>
+v38: Now as they went on their way, he entered a village, and a woman named Martha welcomed him into her house.
+v39: And she had a sister called Mary, who sat at the Lord’s feet and listened to his word.
+</p>
 
-v39 And she had a sister called Mary, who sat at the Lord’s feet and listened to his word.
+<p>
+v40: But Martha was distracted by much serving; and she came up and said, “Lord, do you not care that my sister has left me to serve alone? Tell her then to help me.”
+</p>
 
-v40 But Martha was distracted by much serving; and she came up and said, “Lord, do you not care that my sister has left me to serve alone? Tell her then to help me.”
+<p>
+v41: But the Lord answered her, “Martha, Martha, you are anxious and troubled about many things;
+v42: but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her.”
+</p>
 
-v41 But the Lord answered her, “Martha, Martha, you are anxious and troubled about many things;
-
-v42 but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her.”
-
-
-
-
-## Notes
 ## Notes
 
 v01: “seventy-two… in pairs” — The mission is communal, not heroic; witness is validated and sustained through shared labor.
