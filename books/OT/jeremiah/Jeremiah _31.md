@@ -1,229 +1,309 @@
---------
+---
 book: Jeremiah
 testament: OT
 chapter: 31
 translation: TSW
---------
+---
 
 ## The LORD Will Restore Israel
 
-v01 “At that time,” says the LORD, “I will be God to all the clans of Israel, and they shall be my people.”
+<p>
+v01: “At that time,” says the LORD, “I will be God to all the clans of Israel, and they shall be my people.”
+</p>
 
-v02 Thus says the LORD:
+<p>
+v02: Thus says the LORD:
   “The people who survived the sword
   found grace in the wilderness;
   when Israel sought rest,
+</p>
 
-v03 the LORD appeared to them from far away:
+<p>
+v03: the LORD appeared to them from far away:
   ‘Yes, I have loved you with an everlasting love;
   therefore I have continued my steadfast love toward you.
+</p>
 
-v04 Again I will build you, and you shall be built,
+<p>
+v04: Again I will build you, and you shall be built,
   O virgin Israel!
   Again you shall take up your tambourines
   and go out in the dance of those who rejoice.
+</p>
 
-v05 Again you shall plant vineyards
+<p>
+v05: Again you shall plant vineyards
   on the mountains of Samaria;
   the planters shall plant and shall enjoy the fruit.
+</p>
 
-v06 For there shall be a day when watchmen will call
+<p>
+v06: For there shall be a day when watchmen will call
   on the hills of Ephraim:
   ‘Rise up—let us go up to Zion,
   to the LORD our God.’”
+</p>
 
 ## Return from Exile
 
-v07 For thus says the LORD:
+<p>
+v07: For thus says the LORD:
   “Sing aloud with gladness for Jacob,
   and shout among the chief of the nations;
   proclaim, give praise, and say,
   ‘O LORD, save your people,
   the remnant of Israel!’
+</p>
 
-v08 Look—I am bringing them from the land of the north,
+<p>
+v08: Look—I am bringing them from the land of the north,
   and gathering them from the farthest parts of the earth,
   among them the blind and the lame,
   the one who is pregnant and the one in labor together—
   a great company, they shall return here.
+</p>
 
-v09 With weeping they shall come,
+<p>
+v09: With weeping they shall come,
   and with pleas for mercy I will lead them back.
   I will cause them to walk by streams of water,
   on a level path in which they shall not stumble,
   for I have become a father to Israel,
   and Ephraim is my firstborn.
+</p>
 
-v10 Hear the word of the LORD, O nations,
+<p>
+v10: Hear the word of the LORD, O nations,
   and declare it in the coastlands far away:
   ‘The one who scattered Israel will gather Israel,
   and will keep watch over Israel like a shepherd over a flock.’
+</p>
 
-v11 For the LORD has redeemed Jacob
+<p>
+v11: For the LORD has redeemed Jacob
   and ransomed him from a hand stronger than his.
+</p>
 
-v12 They shall come and sing aloud on the height of Zion,
+<p>
+v12: They shall come and sing aloud on the height of Zion,
   and they shall be radiant over the goodness of the LORD—
   over the grain, the wine, and the oil,
   and over the young of the flock and the herd;
   their whole being shall be like a watered garden,
   and they shall languish no more.
+</p>
 
-v13 Then shall the virgin rejoice in the dance,
+<p>
+v13: Then shall the virgin rejoice in the dance,
   and the young men and the old together;
   for I will turn their mourning into joy,
   I will comfort them,
   and give them gladness for sorrow.
+</p>
 
-v14 I will satisfy the priests with abundance,
+<p>
+v14: I will satisfy the priests with abundance,
   and my people shall be satisfied with my goodness,”
   says the LORD.
+</p>
 
 ## Rachel Weeps; Hope Is Promised
 
-v15 Thus says the LORD:
+<p>
+v15: Thus says the LORD:
   “A voice is heard in Ramah,
   lamentation and bitter weeping.
   Rachel is weeping for her children;
   she refuses to be comforted for her children,
   because they are no more.”
+</p>
 
-v16 Thus says the LORD:
+<p>
+v16: Thus says the LORD:
   “Keep your voice from weeping,
   and your eyes from tears;
   for there is a reward for your work,” says the LORD,
   “and they shall return from the land of the enemy.
+</p>
 
-v17 There is hope for your future,” says the LORD,
+<p>
+v17: There is hope for your future,” says the LORD,
   “and your children shall return to their own border.
+</p>
 
-v18 I have surely heard Ephraim grieving:
+<p>
+v18: I have surely heard Ephraim grieving:
   ‘You have disciplined me, and I was disciplined,
   like an untrained calf.
   Bring me back, and I will return,
   for you are the LORD my God.
+</p>
 
-v19 For after I turned away, I repented;
+<p>
+v19: For after I turned away, I repented;
   and after I was instructed, I struck my thigh;
   I was ashamed, and I was humiliated,
   for I bore the reproach of my youth.’
+</p>
 
-v20 Is Ephraim my dear son?
+<p>
+v20: Is Ephraim my dear son?
   Is he my precious child?
   For as often as I speak against him,
   I still remember him.
   Therefore my inner being yearns for him;
   I will surely have compassion on him,” says the LORD.
+</p>
 
-v21 “Set up road markers for yourself;
+<p>
+v21: “Set up road markers for yourself;
   make yourself guideposts.
   Pay attention to the highway,
   the road by which you went.
   Return, O virgin Israel—
   return to these your cities!
+</p>
 
-v22 How long will you wander,
+<p>
+v22: How long will you wander,
   O faithless daughter?
   For the LORD has created a new thing on the earth:
   a woman shall encompass a man.”
+</p>
 
 ## Judah Also Will Be Restored
 
-v23 Thus says the LORD of hosts, the God of Israel:
+<p>
+v23: Thus says the LORD of hosts, the God of Israel:
   “Once more they shall say in the land of Judah and in its towns,
   when I restore their fortunes:
   ‘The LORD bless you, O habitation of righteousness,
   O holy mountain!’
+</p>
 
-v24 And Judah and all its towns shall live there together,
+<p>
+v24: And Judah and all its towns shall live there together,
   the farmers and those who wander with their flocks.
+</p>
 
-v25 For I will satisfy the weary soul,
+<p>
+v25: For I will satisfy the weary soul,
   and every faint soul I will replenish.”
+</p>
 
-v26 At this I awoke and looked,
+<p>
+v26: At this I awoke and looked,
   and my sleep was pleasant to me.
+</p>
 
-The LORD Will Rebuild and Replant
+## The LORD Will Rebuild and Replant
 
-v27 “Look—the days are coming,” says the LORD,
+<p>
+v27: “Look—the days are coming,” says the LORD,
   “when I will sow the house of Israel and the house of Judah
   with the seed of humans and the seed of animals.
+</p>
 
-v28 And just as I have watched over them
+<p>
+v28: And just as I have watched over them
   to pluck up and break down,
   to overthrow, destroy, and bring disaster,
   so I will watch over them
   to build and to plant,” says the LORD.
+</p>
 
-v29 “In those days they shall no longer say:
+<p>
+v29: “In those days they shall no longer say:
   ‘The parents have eaten sour grapes,
   and the children’s teeth are set on edge.’
+</p>
 
-v30 But each one shall die for their own iniquity;
+<p>
+v30: But each one shall die for their own iniquity;
   everyone who eats sour grapes,
   their teeth shall be set on edge.
+</p>
 
 ## The New Covenant
 
-v31 “Look—the days are coming,” says the LORD,
+<p>
+v31: “Look—the days are coming,” says the LORD,
   “when I will cut a new covenant
   with the house of Israel and the house of Judah—
+</p>
 
-v32 not like the covenant that I cut with their ancestors
+<p>
+v32: not like the covenant that I cut with their ancestors
   in the day when I took them by the hand
   to bring them out of the land of Egypt—
   my covenant that they broke,
   though I was their husband,” says the LORD.
+</p>
 
-v33 “For this is the covenant that I will cut
+<p>
+v33: “For this is the covenant that I will cut
   with the house of Israel after those days,” says the LORD:
   “I will put my instruction within them,
   and I will write it on their hearts.
   And I will be their God,
   and they shall be my people.
+</p>
 
-v34 And they shall no longer teach—each one their neighbor
+<p>
+v34: And they shall no longer teach—each one their neighbor
   and each one their sister or brother—saying,
   ‘Know the LORD,’
   for they shall all know me,
   from the least of them to the greatest,” says the LORD,
   “for I will forgive their iniquity,
   and I will remember their sin no more.”
+</p>
 
 ## The Covenant Secured by Creation
 
-v35 Thus says the LORD,
+<p>
+v35: Thus says the LORD,
   who gives the sun for light by day,
   and the fixed order of the moon and the stars for light by night,
   who stirs up the sea so that its waves roar—
   the LORD of hosts is his name:
+</p>
 
-v36 “If this fixed order departs from before me,” says the LORD,
+<p>
+v36: “If this fixed order departs from before me,” says the LORD,
   “then the offspring of Israel also shall cease
   from being a nation before me forever.”
+</p>
 
-v37 Thus says the LORD:
+<p>
+v37: Thus says the LORD:
   “If the heavens above can be measured,
   and the foundations of the earth below can be explored,
   then I will also reject all the offspring of Israel
   because of all that they have done,” says the LORD.
+</p>
 
 ## Jerusalem Rebuilt
 
-v38 “Look—the days are coming,” says the LORD,
+<p>
+v38: “Look—the days are coming,” says the LORD,
   “when the city shall be rebuilt for the LORD
   from the tower of Hananel to the Corner Gate.
+</p>
 
-v39 The measuring line shall go out farther straight ahead
+<p>
+v39: The measuring line shall go out farther straight ahead
   to the hill Gareb,
   and then turn to Goah.
+</p>
 
-v40 The whole valley of the dead bodies and the ashes,
+<p>
+v40: The whole valley of the dead bodies and the ashes,
   and all the fields as far as the Wadi Kidron,
   to the corner of the Horse Gate toward the east,
   shall be holy to the LORD.
   It shall not be plucked up or overthrown any more forever.”
+</p>
 
 
 ## Notes
