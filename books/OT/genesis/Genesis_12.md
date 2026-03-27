@@ -7,33 +7,48 @@ translation: TSW
 
 ## The Call and Blessing of Abram
 
-v01 Now the LORD said to Abram, “Go from your land, your kindred, and your father’s house to the land that I will show you.
-v02 And I will make of you a great nation, and I will bless you, and make your name great, so that you will be a blessing.
-v03 I will bless those who bless you, and the one who treats you lightly I will treat lightly; and in you all the families of the earth shall be blessed.”
+<p>
+v01: Now the LORD said to Abram, “Go from your land, your kindred, and your father’s house to the land that I will show you.
+v02: And I will make of you a great nation, and I will bless you, and make your name great, so that you will be a blessing.
+v03: I will bless those who bless you, and the one who treats you lightly I will treat lightly; and in you all the families of the earth shall be blessed.”
+</p>
 
-v04 So Abram went, as the LORD had spoken to him; and Lot went with him. Abram was seventy-five years old when he departed from Haran.
-v05 Abram took Sarai his wife, and Lot his brother’s son, and all the possessions that they had gathered, and the persons that they had acquired in Haran; and they set out to go to the land of Canaan. When they came to the land of Canaan,
-v06 Abram passed through the land to the place of Shechem, to the oak of Moreh. At that time the Canaanites were in the land.
+<p>
+v04: So Abram went, as the LORD had spoken to him; and Lot went with him. Abram was seventy-five years old when he departed from Haran.
+v05: Abram took Sarai his wife, and Lot his brother’s son, and all the possessions that they had gathered, and the persons that they had acquired in Haran; and they set out to go to the land of Canaan. When they came to the land of Canaan,
+v06: Abram passed through the land to the place of Shechem, to the oak of Moreh. At that time the Canaanites were in the land.
+</p>
 
-v07 Then the LORD appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to the LORD, who had appeared to him.
-v08 From there he moved on to the hill country east of Bethel, and pitched his tent, with Bethel on the west and Ai on the east; and there he built an altar to the LORD and called on the name of the LORD.
-v09 And Abram journeyed on by stages toward the Negeb.
+<p>
+v07: Then the LORD appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to the LORD, who had appeared to him.
+v08: From there he moved on to the hill country east of Bethel, and pitched his tent, with Bethel on the west and Ai on the east; and there he built an altar to the LORD and called on the name of the LORD.
+v09: And Abram journeyed on by stages toward the Negeb.
+</p>
 
 ## Abram and Sarai in Egypt
-v10 Now there was a famine in the land, so Abram went down to Egypt to sojourn there, for the famine was severe in the land.
-v11 When he was about to enter Egypt, he said to Sarai his wife, “Look now, I know that you are a woman beautiful in appearance;
-v12 and when the Egyptians see you, they will say, ‘This is his wife,’ and they will kill me, but they will let you live.
-v13 Say, please, that you are my sister, so that it may go well with me because of you, and that my life may be spared for your sake.”
 
-v14 When Abram entered Egypt, the Egyptians saw that the woman was very beautiful.
-v15 And when the officials of Pharaoh saw her, they praised her to Pharaoh, and the woman was taken into Pharaoh’s house.
-v16 And for her sake he treated Abram well; and he had sheep, oxen, male donkeys, male and female servants, female donkeys, and camels.
+<p>
+v10: Now there was a famine in the land, so Abram went down to Egypt to sojourn there, for the famine was severe in the land.
+v11: When he was about to enter Egypt, he said to Sarai his wife, “Look now, I know that you are a woman beautiful in appearance;
+v12: and when the Egyptians see you, they will say, ‘This is his wife,’ and they will kill me, but they will let you live.
+v13: Say, please, that you are my sister, so that it may go well with me because of you, and that my life may be spared for your sake.”
+</p>
 
-v17 But the LORD afflicted Pharaoh and his house with great plagues because of Sarai, Abram’s wife.
-v18 Then Pharaoh called Abram and said, “What is this that you have done to me? Why did you not tell me that she was your wife?
-v19 Why did you say, ‘She is my sister,’ so that I took her to be my wife? Now then, here is your wife; take her, and go.”
+<p>
+v14: When Abram entered Egypt, the Egyptians saw that the woman was very beautiful.
+v15: And when the officials of Pharaoh saw her, they praised her to Pharaoh, and the woman was taken into Pharaoh’s house.
+v16: And for her sake he treated Abram well; and he had sheep, oxen, male donkeys, male and female servants, female donkeys, and camels.
+</p>
 
-v20 And Pharaoh gave men orders concerning him; and they sent him away, along with his wife and all that he had.
+<p>
+v17: But the LORD afflicted Pharaoh and his house with great plagues because of Sarai, Abram’s wife.
+v18: Then Pharaoh called Abram and said, “What is this that you have done to me? Why did you not tell me that she was your wife?
+v19: Why did you say, ‘She is my sister,’ so that I took her to be my wife? Now then, here is your wife; take her, and go.”
+</p>
+
+<p>
+v20: And Pharaoh gave men orders concerning him; and they sent him away, along with his wife and all that he had.
+</p>
 
 ## Notes
 v01–03: The call is issued before any evaluation of Abram. Command precedes promise, and promise precedes explanation. The movement of the promises expands outward—from land, to nation, to name, to blessing, to all the families of the earth—without specifying the means by which the blessing will occur.
