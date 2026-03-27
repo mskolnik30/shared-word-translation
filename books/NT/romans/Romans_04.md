@@ -6,42 +6,90 @@ translation: TSW
 ---
 
 ## Abraham Set Right by Trust
-v01 What then shall we say was gained by Abraham, our ancestor according to the flesh?
-v02 For if Abraham was set right by works, he has something to boast about—but not before God.
-v03 For what does the scripture say? “Abraham trusted God, and it was counted to him as righteousness.”
-v04 Now to one who works, wages are not counted as a gift but as something owed.
-v05 But to one who does not work yet trusts the one who sets right the ungodly, such trust is counted as righteousness.
 
-v06 So also David speaks of the blessedness of the one to whom God counts righteousness apart from works:
-v07 “Blessed are those whose lawless deeds are forgiven,
-     and whose sins are covered;
-v08 blessed is the one against whom the Lord will not count sin.”
+<p>
+v01: What then shall we say was gained by Abraham, our ancestor according to the flesh?
+v02: For if Abraham was set right by works, he has something to boast about—but not before God.
+v03: For what does the scripture say?
+</p>
+
+<p>
+v03: “Abraham trusted God,  
+and it was counted to him as righteousness.”
+</p>
+
+<p>
+v04: Now to one who works, wages are not counted as a gift but as something owed.
+v05: But to one who does not work yet trusts the one who sets right the ungodly, such trust is counted as righteousness.
+</p>
+
+<p>
+v06: So also David speaks of the blessedness of the one to whom God counts righteousness apart from works:
+</p>
+
+<p>
+v07: “Blessed are those whose lawless deeds are forgiven,  
+and whose sins are covered;  
+v08: blessed is the one against whom the Lord will not count sin.”
+</p>
 
 ## Trust Counted Apart from the Law
-v09 Is this blessedness then pronounced only on the circumcised, or also on the uncircumcised? We say that trust was counted to Abraham as righteousness.
-v10 How then was it counted? Was it before or after he was circumcised? It was not after, but before.
-v11 He received the sign of circumcision as a seal of the righteousness of trust that he had while still uncircumcised. This was to make him the ancestor of all who trust without being circumcised, so that righteousness might be counted to them as well,
-v12 and likewise the ancestor of the circumcised who are not only circumcised but who also walk in the footsteps of the trust that our ancestor Abraham had before he was circumcised.
+
+<p>
+v09: Is this blessedness then pronounced only on the circumcised, or also on the uncircumcised? We say that trust was counted to Abraham as righteousness.
+v10: How then was it counted? Was it before or after he was circumcised? It was not after, but before.
+</p>
+
+<p>
+v11: He received the sign of circumcision as a seal of the righteousness of trust that he had while still uncircumcised. This was to make him the ancestor of all who trust without being circumcised, so that righteousness might be counted to them as well,
+v12: and likewise the ancestor of the circumcised who are not only circumcised but who also walk in the footsteps of the trust that our ancestor Abraham had before he was circumcised.
+</p>
 
 ## The Promise Depends on Trust
-v13 For the promise that he would inherit the world did not come to Abraham or to his descendants through the law but through the righteousness of trust.
-v14 For if those who depend on the law are heirs, trust is nullified and the promise is void.
-v15 For the law brings wrath; but where there is no law, neither is there violation.
 
-v16 For this reason it depends on trust, in order that the promise may rest on grace and be guaranteed to all his descendants—not only to those who are of the law but also to those who share the trust of Abraham, who is the ancestor of us all,
-v17 as it is written, “I have made you the ancestor of many nations”—in the presence of the God in whom he trusted, who gives life to the dead and calls into being things that do not exist.
+<p>
+v13: For the promise that he would inherit the world did not come to Abraham or to his descendants through the law but through the righteousness of trust.
+v14: For if those who depend on the law are heirs, trust is nullified and the promise is void.
+v15: For the law brings wrath; but where there is no law, neither is there violation.
+</p>
+
+<p>
+v16: For this reason it depends on trust, in order that the promise may rest on grace and be guaranteed to all his descendants—not only to those who are of the law but also to those who share the trust of Abraham, who is the ancestor of us all,
+v17: as it is written,
+</p>
+
+<p>
+v17: “I have made you the ancestor of many nations”—
+</p>
+
+<p>
+v17: in the presence of the God in whom he trusted, who gives life to the dead and calls into being things that do not exist.
+</p>
 
 ## Trust in the God Who Gives Life
-v18 Hoping against hope, he trusted that he would become the ancestor of many nations, according to what was said, “So shall your descendants be.”
-v19 He did not weaken in trust when he considered his own body, already as good as dead (for he was about a hundred years old), or the deadness of Sarah’s womb.
-v20 No distrust made him waver concerning the promise of God, but he grew strong in trust as he gave glory to God,
-v21 being fully convinced that God was able to do what God had promised.
-v22 Therefore it was counted to him as righteousness.
+
+<p>
+v18: Hoping against hope, he trusted that he would become the ancestor of many nations, according to what was said,
+</p>
+
+<p>
+v18: “So shall your descendants be.”
+</p>
+
+<p>
+v19: He did not weaken in trust when he considered his own body, already as good as dead (for he was about a hundred years old), or the deadness of Sarah’s womb.
+v20: No distrust made him waver concerning the promise of God, but he grew strong in trust as he gave glory to God,
+v21: being fully convinced that God was able to do what God had promised.
+v22: Therefore it was counted to him as righteousness.
+</p>
 
 ## Trust Counted to Us
-v23 Now the words “it was counted to him” were written not for his sake alone,
-v24 but also for ours. It will be counted to us who trust in the one who raised Jesus our Lord from the dead,
-v25 who was handed over because of our trespasses and raised for our setting right.
+
+<p>
+v23: Now the words “it was counted to him” were written not for his sake alone,
+v24: but also for ours. It will be counted to us who trust in the one who raised Jesus our Lord from the dead,
+v25: who was handed over because of our trespasses and raised for our setting right.
+</p>
 
 ## Notes
 v03: “Abraham trusted God”
