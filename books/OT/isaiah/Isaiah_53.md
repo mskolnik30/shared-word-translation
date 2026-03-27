@@ -1,71 +1,95 @@
---------
+---
 book: Isaiah
 testament: OT
 chapter: 53
 translation: TSW
---------
+---
 
 ## The Suffering Servant
 
-v01 Who has trusted what we have heard?
+<p>
+v01: Who has trusted what we have heard?
   And to whom has the LORD’s arm been revealed?
+</p>
 
-v02 For he grew up before the LORD like a young plant,
+<p>
+v02: For he grew up before the LORD like a young plant,
   and like a root out of dry ground.
   He had no form or majesty that we should look at him,
   and no appearance that we should desire him.
+</p>
 
-v03 He was despised and rejected by mortals—
+<p>
+v03: He was despised and rejected by mortals—
   a man of sorrows and acquainted with grief;
   and like one from whom people hide their faces,
   he was despised, and we held him as nothing.
+</p>
 
-v04 Surely he has borne our griefs
+<p>
+v04: Surely he has borne our griefs
   and carried our sorrows;
   yet we held him as stricken,
   struck down by God, and afflicted.
+</p>
 
-v05 But he was pierced because of our rebellions,
+<p>
+v05: But he was pierced because of our rebellions,
   crushed because of our iniquities;
   the discipline that brought us peace was upon him,
   and by his wounds we are healed.
+</p>
 
-v06 All we like sheep have gone astray;
+<p>
+v06: All we like sheep have gone astray;
   we have turned—each to their own way;
   and the LORD has laid on him
   the iniquity of us all.
+</p>
 
-v07 He was oppressed, and he was afflicted,
+<p>
+v07: He was oppressed, and he was afflicted,
   yet he did not open his mouth;
   like a lamb that is led to the slaughter,
   and like a sheep that before its shearers is silent,
   so he did not open his mouth.
+</p>
 
-v08 By oppression and judgment he was taken away;
+<p>
+v08: By oppression and judgment he was taken away;
   and as for his generation, who considered
   that he was cut off from the land of the living,
   struck because of the rebellion of my people?
+</p>
 
-v09 They made his grave with the wicked,
+<p>
+v09: They made his grave with the wicked,
   and with the rich in his death,
   although he had done no violence,
   and there was no deceit in his mouth.
+</p>
 
-v10 Yet it pleased the LORD to crush him; he has put him to grief.
+<p>
+v10: Yet it pleased the LORD to crush him; he has put him to grief.
   When you make his life an offering for guilt,
   he shall see offspring; he shall prolong his days;
   the will of the LORD shall prosper in his hand.
+</p>
 
-v11 Out of the anguish of his life he shall see and be satisfied;
+<p>
+v11: Out of the anguish of his life he shall see and be satisfied;
   by his knowledge my righteous servant shall make many righteous,
   and he shall bear their iniquities.
+</p>
 
-v12 Therefore I will allot him a portion with the many,
+<p>
+v12: Therefore I will allot him a portion with the many,
   and he shall divide the spoil with the strong,
   because he poured out his life to death
   and was numbered with the rebels;
   yet he bore the sin of many
   and made intercession for the rebels.
+</p>
 
   ## Notes
 v01: “Who has trusted…?” — The opening is a lament over unbelief: God’s saving work is revealed, yet often not received as such.
