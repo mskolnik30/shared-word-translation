@@ -5,4 +5,132 @@ chapter: 8
 translation: TSW
 ---
 
-<!-- Translation pending. -->
+## Remembering in the Land
+
+<p>
+
+v07: For the LORD your God is bringing you into a good land—a land of brooks of water, of springs and deep waters, flowing out in valleys and hills,  
+
+v08: a land of wheat and barley, of vines and fig trees and pomegranates, a land of olive trees and honey,  
+
+v09: a land in which you will eat bread without scarcity, in which you will lack nothing, a land whose stones are iron and out of whose hills you can dig copper.  
+
+</p>
+
+<p>
+
+v10: And you shall eat and be satisfied, and you shall bless the LORD your God for the good land that he has given you.  
+
+v11: Take care lest you forget the LORD your God by not keeping his commandments and his judgments and his statutes, which I command you today,  
+
+</p>
+
+<p>
+
+v12: lest, when you eat and are satisfied and build good houses and dwell in them,  
+
+v13: and your herds and your flocks multiply and your silver and your gold multiply and all that you have multiplies,  
+
+v14: then your heart be lifted up, and you forget the LORD your God, who brought you out of the land of Egypt, out of the house of slavery,  
+
+</p>
+
+<p>
+
+v15: who led you through the great and terrifying wilderness, with fiery serpents and scorpions and thirsty ground where there was no water, who brought you water out of the rock of flint,  
+
+v16: who fed you in the wilderness with manna, which your fathers did not know, that he might humble you and that he might test you, to do you good in the end.  
+
+</p>
+
+<p>
+
+v17: Beware lest you say in your heart, “My power and the strength of my hand have gotten me this wealth.”  
+
+v18: But you shall remember the LORD your God, for it is he who gives you power to get wealth, that he may confirm his covenant that he swore to your fathers, as it is this day.  
+
+</p>
+
+## Notes
+
+v07–09: The land is described in abundance and diversity—water, agriculture, and mineral wealth. Provision replaces wilderness scarcity.
+
+v10: Satisfaction leads to blessing; gratitude is the proper response to fullness.
+
+v11: Forgetting is defined ethically—failure to keep commands is not ignorance but neglect.
+
+v12–14: Prosperity generates risk. “Lifted heart” signals pride that erases memory of deliverance.
+
+v15–16: The wilderness is reinterpreted as formative—danger, provision, and testing serve a purpose.
+
+v16: Humbling and testing are not punitive but oriented toward eventual good.
+
+v17: The internal narrative of self-sufficiency is explicitly rejected.
+
+v18: Memory restores truth—capacity itself is a gift. Wealth is tied to covenant continuity.
+
+## Vocabulary
+
+v07: אֶרֶץ (ʾereṣ)  
+
+“Land.” Territory of promise and provision.
+
+v07: נַחַל (naḥal)  
+
+“Brook/stream.” Flowing water in a valley.
+
+v08: גֶּפֶן (gepen)  
+
+“Vine.” Source of grapes and wine.
+
+v08: רִמּוֹן (rimmôn)  
+
+“Pomegranate.” Symbol of fertility and abundance.
+
+v09: חָסֵר (ḥāsēr)  
+
+“To lack.” To be in need.
+
+v10: שָׂבַע (śāḇaʿ)  
+
+“To be satisfied.” To be filled fully.
+
+v10: בָּרַךְ (bāraḵ)  
+
+“To bless.” To speak well of, give thanks.
+
+v11: שָׁכַח (šāḵaḥ)  
+
+“To forget.” To fail to remember or act accordingly.
+
+v11: מִצְוָה (miṣwāh)  
+
+“Commandment.” Instruction with authority.
+
+v14: רוּם (rûm)  
+
+“To be lifted up.” To become exalted or proud.
+
+v15: נָחָה (nāḥāh)  
+
+“To lead.” To guide along a path.
+
+v16: עָנָה (ʿānāh)  
+
+“To humble.” To bring low or discipline.
+
+v16: נָסָה (nāsāh)  
+
+“To test.” To prove or examine.
+
+v17: כֹּחַ (kōaḥ)  
+
+“Power.” Strength or capacity.
+
+v18: זָכַר (zāḵar)  
+
+“To remember.” To actively recall and respond.
+
+v18: בְּרִית (berît)  
+
+“Covenant.” Binding agreement grounded in promise.
