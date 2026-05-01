@@ -1,5 +1,5 @@
 ---
-book: Psalms
+book: Psalm
 testament: OT
 chapter: 66
 translation: TSW
