@@ -5,41 +5,43 @@ chapter: 8
 translation: TSW
 ---
 
-## Cleansing of a Leper
+
+
+## A Leper Cleansed
 
 <p>
 
-v01: And when he came down from the mountain, great crowds followed him.  
+v01: When he came down from the mountain, great crowds followed him.  
 
-v02: And behold, a leper came and bowed down to him, saying, “Lord, if you are willing, you are able to cleanse me.”  
+v02: And behold, a leper came near and knelt before him, saying, “Lord, if you will, you are able to make me clean.”  
 
-v03: And stretching out his hand, he touched him, saying, “I am willing; be cleansed.” And immediately his leprosy was cleansed.  
+v03: And stretching out his hand, he touched him, saying, “I will; be made clean.” And immediately his leprosy was cleansed.  
 
-v04: And Jesus said to him, “See that you say nothing to anyone, but go, show yourself to the priest and offer the gift that Moses commanded, for a testimony to them.”  
+v04: And Jesus said to him, “See that you say nothing to anyone; but go, show yourself to the priest and offer the gift that Moses commanded, for a testimony to them.”  
 
 </p>
 
-## The Faith of the Centurion
+## The Faith of a Centurion
 
 <p>
 
-v05: And when he entered Capernaum, a centurion came to him, appealing to him,  
+v05: When he entered Capernaum, a centurion came to him, appealing to him,  
 
-v06: saying, “Lord, my servant lies at home paralyzed, terribly afflicted.”  
+v06: and saying, “Lord, my servant is lying at home paralyzed, terribly afflicted.”  
 
 v07: And he said to him, “I will come and heal him.”  
 
-v08: But the centurion answered and said, “Lord, I am not worthy that you should come under my roof, but only speak a word, and my servant will be healed.  
+v08: But the centurion answered, “Lord, I am not worthy that you should come under my roof, but only speak a word, and my servant will be healed.  
 
-v09: For I also am a man under authority, having soldiers under me; and I say to this one, ‘Go,’ and he goes, and to another, ‘Come,’ and he comes, and to my servant, ‘Do this,’ and he does it.”  
+v09: For I also am a man under authority, with soldiers under me; and I say to one, ‘Go,’ and he goes, and to another, ‘Come,’ and he comes, and to my servant, ‘Do this,’ and he does it.”  
 
-v10: And when Jesus heard this, he marveled and said to those who followed, “Truly I tell you, with no one in Israel have I found such faith.  
+v10: When Jesus heard this, he marveled and said to those who followed him, “Truly I tell you, with no one in Israel have I found such faith.  
 
-v11: And I tell you that many will come from east and west and recline with Abraham and Isaac and Jacob in the kingdom of heaven,  
+v11: I tell you, many will come from east and west and will recline at table with Abraham and Isaac and Jacob in the kingdom of heaven,  
 
-v12: but the sons of the kingdom will be cast out into the outer darkness; there will be weeping and gnashing of teeth.”  
+v12: while the sons of the kingdom will be thrown into the outer darkness. In that place there will be weeping and gnashing of teeth.”  
 
-v13: And Jesus said to the centurion, “Go; let it be done for you as you have believed.” And the servant was healed in that hour.  
+v13: And to the centurion Jesus said, “Go; let it be done for you as you have believed.” And the servant was healed at that very hour.  
 
 </p>
 
@@ -47,13 +49,17 @@ v13: And Jesus said to the centurion, “Go; let it be done for you as you have 
 
 <p>
 
-v14: And when Jesus came into Peter’s house, he saw his mother-in-law lying sick with a fever.  
+v14: And when Jesus entered Peter’s house, he saw his mother-in-law lying sick with a fever.  
 
-v15: And he touched her hand, and the fever left her, and she rose and began to serve him.  
+v15: He touched her hand, and the fever left her, and she rose and began to serve him.  
 
-v16: And when evening came, they brought to him many who were oppressed by demons, and he cast out the spirits with a word and healed all who were sick,  
+</p>
 
-v17: so that what had been spoken through Isaiah the prophet might be fulfilled, saying, “He took our infirmities and bore our diseases.”  
+<p>
+
+v16: That evening they brought to him many who were oppressed by demons, and he cast out the spirits with a word and healed all who were sick.  
+
+v17: This was to fulfill what was spoken by the prophet Isaiah: “He took our illnesses and bore our diseases.”  
 
 </p>
 
@@ -61,124 +67,110 @@ v17: so that what had been spoken through Isaiah the prophet might be fulfilled,
 
 <p>
 
-v18: Now when Jesus saw a crowd around him, he gave orders to depart to the other side.  
+v18: Now when Jesus saw a crowd around him, he gave orders to go over to the other side.  
 
 v19: And a scribe came and said to him, “Teacher, I will follow you wherever you go.”  
 
-v20: And Jesus said to him, “Foxes have holes and birds of the air have nests, but the Son of Man has nowhere to lay his head.”  
-
-v21: And another of the disciples said to him, “Lord, permit me first to go and bury my father.”  
-
-v22: But Jesus said to him, “Follow me, and leave the dead to bury their own dead.”  
+v20: And Jesus said to him, “Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head.”  
 
 </p>
 
-## Jesus Calms the Storm
+<p>
+
+v21: Another of the disciples said to him, “Lord, let me first go and bury my father.”  
+
+v22: And Jesus said to him, “Follow me, and leave the dead to bury their own dead.”  
+
+</p>
+
+## Jesus Calms a Storm
 
 <p>
 
 v23: And when he got into the boat, his disciples followed him.  
 
-v24: And behold, a great storm arose on the sea, so that the boat was being covered by the waves; but he was sleeping.  
+v24: And behold, there arose a great storm on the sea, so that the boat was being covered by the waves; but he was asleep.  
 
-v25: And they came and woke him, saying, “Lord, save us; we are perishing.”  
+v25: And they went and woke him, saying, “Lord, save us; we are perishing.”  
 
 v26: And he said to them, “Why are you afraid, you of little faith?” Then he rose and rebuked the winds and the sea, and there was a great calm.  
 
-v27: And the men marveled, saying, “What sort of man is this, that even the winds and the sea obey him?”  
+v27: And the men marveled, saying, “What sort of man is this, that even winds and sea obey him?”  
 
 </p>
 
-## The Healing of Two Demon-Possessed Men
+## Jesus Heals Two Men with Demons
 
 <p>
 
-v28: And when he came to the other side, to the region of the Gadarenes, two demon-possessed men met him, coming out of the tombs, so fierce that no one could pass by that way.  
+v28: And when he came to the other side, to the country of the Gadarenes, two men possessed by demons met him, coming out of the tombs, so fierce that no one could pass that way.  
 
-v29: And behold, they cried out, saying, “What have we to do with you, Son of God? Have you come here to torment us before the time?”  
+v29: And behold, they cried out, “What have you to do with us, Son of God? Have you come here to torment us before the appointed time?”  
 
 v30: Now a herd of many pigs was feeding at some distance from them.  
 
-v31: And the demons begged him, saying, “If you cast us out, send us into the herd of pigs.”  
+v31: And the demons begged him, saying, “If you cast us out, send us away into the herd of pigs.”  
 
-v32: And he said to them, “Go.” So they came out and went into the pigs, and behold, the whole herd rushed down the steep bank into the sea and perished in the waters.  
+v32: And he said to them, “Go.” So they came out and went into the pigs, and behold, the whole herd rushed down the steep bank into the sea and drowned in the waters.  
 
-v33: And those who tended them fled, and going into the city they told everything, including what had happened to the demon-possessed men.  
+v33: The herdsmen fled, and going into the city they told everything, especially what had happened to the demon-possessed men.  
 
-v34: And behold, the whole city came out to meet Jesus, and when they saw him, they begged him to depart from their region.  
+v34: And behold, all the city came out to meet Jesus, and when they saw him, they begged him to depart from their region.  
 
 </p>
 
-##Notes
+## Notes
 
-v02: The leper’s approach collapses social and ritual distance. His conditional “if you will” frames healing as dependent on Jesus’ volition, not his power.
+v02: The leper’s approach collapses social and ritual distance. His conditional “if you will” frames healing as dependent on Jesus’ volition, not his power.  
 
-v03: “I will; be made clean” pairs intention and act without mediation. Touch precedes cleansing, reversing expected purity flow.
+v03: “I will; be made clean” pairs intention and act without mediation. Touch precedes cleansing, reversing expected purity flow.  
 
-v04: Silence is commanded alongside obedience to the Law. The offering is not rejected but reintegrated, preserving continuity rather than rupture.
+v04: Silence is commanded alongside obedience to the Law. The offering is not rejected but reintegrated.  
 
-v05–06: The centurion speaks through intermediaries (in some traditions), yet here directly. Authority is recognized across ethnic and covenant boundaries.
+v08: “I am not worthy” reframes status. Authority is understood analogically—command at a distance is sufficient.  
 
-v08: “I am not worthy” reframes status. Authority is understood analogically—command at a distance is sufficient.
+v10: Amazement is directed toward a Gentile. Faith is measured by recognition of authority.  
 
-v10: Amazement is directed toward a Gentile. Faith is measured not by proximity to covenant but by recognition of authority.
+v11–12: Eschatological reversal is stated without softening; inclusion and exclusion remain in tension.  
 
-v11–12: Eschatological reversal is stated without softening. Inclusion and exclusion are both articulated, without resolution.
+v15: Healing restores function—she rises and serves. Restoration is relational, not merely physical.  
 
-v14–15: Healing restores not only health but function—she rises and serves. Restoration is social and relational.
+v16: Word alone is sufficient for exorcism; no ritual mediation appears.  
 
-v16: Word alone is sufficient for exorcism. No formula or ritual is given, only command.
+v17: Isaiah is invoked to frame healing within suffering, not to explain it exhaustively.  
 
-v17: The citation from Isaiah is not explanatory but interpretive, drawing suffering and healing into a shared frame.
+v20: The Son of Man’s homelessness resists idealized discipleship.  
 
-v18–20: Following Jesus is immediately destabilized. The Son of Man’s lack of resting place resists romanticization of discipleship.
+v22: Burial obligation is relativized; the statement preserves tension rather than resolving priority.  
 
-v21–22: Burial obligation is relativized. The statement is intentionally sharp, preserving tension rather than resolving ethical hierarchy.
+v26: “Little faith” names insufficiency, not absence. Fear and trust are held together.  
 
-v23–24: The storm is narrated with restraint; the focus remains on Jesus’ posture—sleep amid chaos.
+v29: Recognition of Jesus’ identity precedes human confession; timing (“before the time”) remains significant.  
 
-v26: “Little faith” is not absence but insufficiency. Rebuke precedes stilling, linking fear and trust.
+v34: The response of the city is rejection. Power does not compel welcome.
 
-v28–29: The demoniacs recognize Jesus’ identity before any human confession. Their question frames timing (“before the time”) as significant.
+## Vocabulary
 
-v30–32: Permission is given, not struggle enacted. The destruction of the herd is narrated without moral explanation.
+v02: λεπρός (*lepros*) — “Leper.” A condition of exclusion as much as disease.  
 
-v33–34: The city’s response is rejection, not wonder. Presence of power does not produce welcome.
+v03: καθαρίζω (*katharizō*) — “To cleanse.” Ritual and physical senses overlap.  
 
-##Vocabulary
+v08: ἐξουσία (*exousia*) — “Authority.” The right or power to command.  
 
-v02: λεπρός (lepros)
-“Leper.” Refers broadly to skin disease; carries social and cultic exclusion beyond medical condition.
+v10: πίστις (*pistis*) — “Faith.” Trust expressed through recognition of authority.  
 
-v03: καθαρίζω (katharizō)
-“To cleanse.” Used for ritual purification as well as physical healing; overlap is deliberate.
+v12: σκότος τὸ ἐξώτερον (*skotos to exōteron*) — “Outer darkness.” Image of exclusion.  
 
-v08: ἐξουσία (exousia)
-“Authority.” Denotes delegated or inherent right to command; central to the centurion’s analogy.
+v15: διακονέω (*diakoneō*) — “To serve.” Participation restored through healing.  
 
-v10: πίστις (pistis)
-“Faith.” Here expressed as recognition and trust in authority, not doctrinal content.
+v16: πνεῦμα (*pneuma*) — “Spirit.” Context determines moral character.  
 
-v12: σκότος τὸ ἐξώτερον (skotos to exōteron)
-“Outer darkness.” A spatial metaphor conveying exclusion rather than defined locale.
+v17: ἀσθένεια (*astheneia*) — “Weakness,” “illness.” Broad semantic range retained.  
 
-v15: διηκόνει (diēkonei)
-“She served.” From diakoneō; service as restored participation, not subordinate status.
+v20: υἱὸς τοῦ ἀνθρώπου (*huios tou anthrōpou*) — “Son of Man.” Ambiguous, layered title.  
 
-v16: πνεύματα (pneumata)
-“Spirits.” Unqualified term; context determines moral valence.
+v22: νεκρός (*nekros*) — “Dead.” Literal and figurative senses remain open.  
 
-v17: ἀσθένεια (astheneia)
-“Weakness.” Can denote illness or frailty more broadly; retained without narrowing.
+v26: ὀλιγόπιστος (*oligopistos*) — “Of little faith.” Insufficient trust, not its absence.  
 
-v20: υἱὸς τοῦ ἀνθρώπου (huios tou anthrōpou)
-“Son of Man.” Ambiguous title; retains both generic (“human one”) and Danielic resonance.
-
-v22: νεκροί (nekroi)
-“Dead.” Ambiguity preserved—can indicate literal dead or those outside responsive life.
-
-v26: ὀλιγόπιστοι (oligopistoi)
-“Of little faith.” A recurring address; not condemnation but exposure of insufficiency.
-
-v29: καιρός (kairos)
-“Appointed time.” Not chronological time (chronos), but decisive or fitting moment.
+v29: καιρός (*kairos*) — “Appointed time.” Decisive moment rather than chronological sequence.
