@@ -5,4 +5,68 @@ chapter: 100
 translation: TSW
 ---
 
-<!-- Translation pending. -->
+---
+book: Psalms
+testament: OT
+chapter: 100
+translation: TSW
+---
+
+## A Psalm for Thanksgiving
+<p>
+v01: Shout for joy to the LORD, all the earth!
+v02: Serve the LORD with gladness;
+come before him with joyful singing.
+</p>
+
+<p>
+v03: Know that the LORD, he is God!
+It is he who made us, and we are his;
+we are his people and the sheep of his pasture.
+</p>
+
+<p>
+v04: Enter his gates with thanksgiving,
+and his courts with praise!
+Give thanks to him; bless his name!
+</p>
+
+<p>
+v05: For the LORD is good;
+his steadfast love endures forever,
+and his faithfulness to all generations.
+</p>
+
+## Notes
+v1–2: Worship is communal and global (“all the earth”) and marked by joy.
+
+v3: Identity is defined by belonging—created and claimed by God.
+
+v4: Movement into worship is intentional (“enter…give thanks…bless”).
+
+v5: God’s character (goodness, steadfast love, faithfulness) grounds praise.
+
+## Vocabulary
+v1: רוּעַ (rua‘)
+“To shout.” Raise a joyful cry.
+
+v2: עָבַד (avad)
+“To serve.” Worship through action.
+
+v3: יָדַע (yada‘)
+“To know.” Recognize relationally.
+
+v3: רָעָה (ra‘ah)
+“To pasture.” Shepherding care.
+
+v4: תּוֹדָה (todah)
+“Thanksgiving.” Expression of gratitude.
+
+v5: טוֹב (tov)
+“Good.” Beneficial and right.
+
+v5: חֶסֶד (chesed)
+“Steadfast love.” Covenant loyalty.
+
+v5: אֱמוּנָה (emunah)
+“Faithfulness.” Reliability.
