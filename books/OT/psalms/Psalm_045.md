@@ -1,9 +1,9 @@
---------
+---
 book: Psalm
 testament: OT
 chapter: 45
 translation: TSW
----------
+---
 
 ## For the Director of Music. According to Lilies. Of the Sons of Korah. A Maskil. A Love Song.
 
