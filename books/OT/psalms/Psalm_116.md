@@ -1,9 +1,9 @@
---------
+---
 book: Psalm
 testament: OT
 chapter: 116
 translation: TSW
----------
+---
 
 ## A Psalm of Love and Deliverance
 
