@@ -51,35 +51,35 @@ v5: Holiness is not abstract but fitting (“befits”) to God’s house, linkin
 v5: “For length of days” suggests enduring order rather than a measured duration.
 
 ## Vocabulary
-v01: מָלַךְ (malak)
+v1: מָלַךְ (malak)
 “To reign.” Indicates active kingship, not merely title.
 
-v01: לָבֵשׁ (lavesh)
+v1: לָבֵשׁ (lavesh)
 “To clothe.” Used metaphorically for assuming visible attributes.
 
-v01: עֹז (ʿoz)
+v1: עֹז (ʿoz)
 “Strength.” Often associated with royal or divine power.
 
-v01: תֵּבֵל (tevel)
+v1: תֵּבֵל (tevel)
 “World.” Refers to the inhabited, ordered earth.
 
-v02: כִּסֵּא (kisseʾ)
+v2: כִּסֵּא (kisseʾ)
 “Throne.” Symbol of rule and authority.
 
-v03: נָשָׂא (nasaʾ)
+v3: נָשָׂא (nasaʾ)
 “To lift up.” Repeated for emphasis, conveying rising force.
 
-v03: קוֹל (qol)
+v3: קוֹל (qol)
 “Voice” or “sound.” Can denote speech or natural noise such as waters.
 
-v04: אַדִּיר (addir)
+v4: אַדִּיר (addir)
 “Mighty” or “majestic.” Used of overwhelming strength or grandeur.
 
-v05: עֵדוֹת (ʿedot)
+v5: עֵדוֹת (ʿedot)
 “Testimonies.” Can refer to covenantal laws or divine witness.
 
-v05: קֹדֶשׁ (qodesh)
+v5: קֹדֶשׁ (qodesh)
 “Holiness.” Denotes what is set apart, belonging properly to God.
 
-v05: אֹרֶךְ יָמִים (ʾorekh yamim)
+v5: אֹרֶךְ יָמִים (ʾorekh yamim)
 “Length of days.” A phrase expressing enduring duration or permanence.
