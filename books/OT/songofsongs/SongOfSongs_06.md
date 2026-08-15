@@ -89,15 +89,15 @@ as upon the dance of Mahanaim?
 </p>
 
 ## Notes
-v01: The daughters of Jerusalem are now drawn into the search and express willingness to help.
-v02–03: The bride confidently knows where her beloved may be found and reaffirms their mutual belonging.
-v03: The declaration reverses and deepens earlier expressions of love and commitment.
-v04: Tirzah and Jerusalem were renowned cities, symbolizing beauty, dignity, and splendor.
-v04: The imagery of an army with banners combines beauty with majesty and strength.
-v05: The beloved speaks as one overwhelmed by the power of the bride's beauty.
-v05–07: Several images repeat earlier descriptions, reinforcing admiration rather than introducing new themes.
-v08–09: The bride is distinguished above all other women.
-v09: “My dove, my perfect one” emphasizes uniqueness and cherished devotion.
+v1: The daughters of Jerusalem are now drawn into the search and express willingness to help.
+v2–3: The bride confidently knows where her beloved may be found and reaffirms their mutual belonging.
+v3: The declaration reverses and deepens earlier expressions of love and commitment.
+v4: Tirzah and Jerusalem were renowned cities, symbolizing beauty, dignity, and splendor.
+v4: The imagery of an army with banners combines beauty with majesty and strength.
+v5: The beloved speaks as one overwhelmed by the power of the bride's beauty.
+v5–7: Several images repeat earlier descriptions, reinforcing admiration rather than introducing new themes.
+v8–9: The bride is distinguished above all other women.
+v9: “My dove, my perfect one” emphasizes uniqueness and cherished devotion.
 v10: The poetic imagery moves from dawn to moon to sun, portraying increasing brilliance.
 v11–12: The orchard scene returns to the garden imagery that runs throughout the book.
 v12: The verse is difficult and poetic, expressing a sudden movement of desire and excitement.
@@ -105,25 +105,25 @@ v13: “Shulammite” appears only here in Scripture and likely functions as a p
 v13: The chapter closes with others admiring the bride while she resists becoming merely an object of display.
 
 ## Vocabulary
-v03: דּוֹדִי לִי וַאֲנִי לוֹ (dōḏî lî waʾănî lô)
+v3: דּוֹדִי לִי וַאֲנִי לוֹ (dōḏî lî waʾănî lô)
 “My beloved is mine, and I am his.” A declaration of mutual belonging.
 
-v04: תִּרְצָה (Tirṣâ)
+v4: תִּרְצָה (Tirṣâ)
 “Tirzah.” A beautiful royal city in the northern kingdom.
 
-v04: נִדְגָּלוֹת (nidgālôṯ)
+v4: נִדְגָּלוֹת (nidgālôṯ)
 “With banners.” Displaying majesty, order, and strength.
 
-v05: רָהַב (rāhaḇ)
+v5: רָהַב (rāhaḇ)
 “To overwhelm.” To overpower or stir deeply.
 
-v07: רִמּוֹן (rimmôn)
+v7: רִמּוֹן (rimmôn)
 “Pomegranate.” A symbol of beauty, fruitfulness, and abundance.
 
-v08: פִּילֶגֶשׁ (pîlegeš)
+v8: פִּילֶגֶשׁ (pîlegeš)
 “Concubine.” A secondary wife within a royal household.
 
-v09: תַּמָּה (tammâ)
+v9: תַּמָּה (tammâ)
 “Perfect one.” One who is complete, cherished, and without rival.
 
 v10: שַׁחַר (šaḥar)
