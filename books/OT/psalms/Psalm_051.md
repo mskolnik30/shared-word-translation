@@ -7,69 +7,69 @@ translation: TSW
 
 ## A Prayer for Mercy and Renewal
 
-v01 Have mercy on me, O God,
+v01: Have mercy on me, O God,
 according to your steadfast love.
 According to your abundant compassion,
 blot out my transgressions.
 
-v02 Wash me thoroughly from my guilt,
+v02: Wash me thoroughly from my guilt,
 and cleanse me from my sin.
 
-v03 For I know my transgressions,
+v03: For I know my transgressions,
 and my sin is always before me.
 
-v04 Against you, you alone, have I sinned,
+v04: Against you, you alone, have I sinned,
 and done what is evil in your sight,
 so that you are justified in your words
 and blameless in your judgment.
 
-v05 Indeed, I was born into brokenness,
+v05: Indeed, I was born into brokenness,
 and in sin my mother conceived me.
 
-v06 Yet you desire truth in the inward being;
+v06: Yet you desire truth in the inward being;
 you teach me wisdom in the hidden place.
 
-v07 Purge me with hyssop, and I shall be clean;
+v07: Purge me with hyssop, and I shall be clean;
 wash me, and I shall be whiter than snow.
 
-v08 Let me hear joy and gladness;
+v08: Let me hear joy and gladness;
 let the bones you have crushed rejoice.
 
-v09 Hide your face from my sins,
+v09: Hide your face from my sins,
 and blot out all my guilt.
 
-v10 Create in me a clean heart, O God,
+v10: Create in me a clean heart, O God,
 and renew a steadfast spirit within me.
 
-v11 Do not cast me away from your presence,
+v11: Do not cast me away from your presence,
 and do not take your holy spirit from me.
 
-v12 Restore to me the joy of your salvation,
+v12: Restore to me the joy of your salvation,
 and sustain me with a willing spirit.
 
-v13 Then I will teach transgressors your ways,
+v13: Then I will teach transgressors your ways,
 and those who turn aside will return to you.
 
-v14 Deliver me from bloodshed, O God,
+v14: Deliver me from bloodshed, O God,
 O God of my salvation,
 and my tongue will sing aloud of your righteousness.
 
-v15 O Lord, open my lips,
+v15: O Lord, open my lips,
 and my mouth will declare your praise.
 
-v16 For you do not delight in sacrifice,
+v16: For you do not delight in sacrifice,
 or I would give it;
 you take no pleasure in burnt offerings.
 
-v17 The sacrifice acceptable to God
+v17: The sacrifice acceptable to God
 is a broken spirit;
 a broken and crushed heart,
 O God, you will not despise.
 
-v18 Do good to Zion in your good pleasure;
+v18: Do good to Zion in your good pleasure;
 rebuild the walls of Jerusalem.
 
-v19 Then you will delight in right sacrifices,
+v19: Then you will delight in right sacrifices,
 in burnt offerings and whole offerings;
 then bulls will be offered on your altar.
 
