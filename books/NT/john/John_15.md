@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The True Vine
 
 <p>
@@ -127,17 +126,17 @@ v27: And you also bear witness, because you have been with me from the beginning
 
 ## Notes
 
-v01–02: Fruitfulness is the central criterion of connection to the vine.
+v1–2: Fruitfulness is the central criterion of connection to the vine.
 
-v03: Cleansing is effected through Jesus’ word.
+v3: Cleansing is effected through Jesus’ word.
 
-v04–05: Mutual indwelling defines discipleship.
+v4–5: Mutual indwelling defines discipleship.
 
-v06: Separation from the vine leads to destruction.
+v6: Separation from the vine leads to destruction.
 
-v07–08: Prayer is conditioned by abiding.
+v7–8: Prayer is conditioned by abiding.
 
-v09–10: Love is maintained through obedience.
+v9–10: Love is maintained through obedience.
 
 v11: Joy is the intended outcome of obedience and abiding.
 
@@ -157,31 +156,31 @@ v26–27: The Spirit and the disciples jointly bear witness.
 
 ## Vocabulary
 
-v01: ἄμπελος (ampelos)
+v1: ἄμπελος (ampelos)
 
 “Vine.”
 
-v02: καθαίρω (kathairō)
+v2: καθαίρω (kathairō)
 
 “To prune.”
 
-v03: καθαρός (katharos)
+v3: καθαρός (katharos)
 
 “Clean.”
 
-v04: μένω (menō)
+v4: μένω (menō)
 
 “To remain.”
 
-v05: καρπός (karpos)
+v5: καρπός (karpos)
 
 “Fruit.”
 
-v07: αἰτέω (aiteō)
+v7: αἰτέω (aiteō)
 
 “To ask.”
 
-v08: δοξάζω (doxazō)
+v8: δοξάζω (doxazō)
 
 “To glorify.”
 
