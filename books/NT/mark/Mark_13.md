@@ -131,15 +131,15 @@ v37: And what I say to you I say to all: Watch.”
 
 ## Notes
 
-v01–02: Admiration for temple grandeur is met with a word of dismantling.
+v1–2: Admiration for temple grandeur is met with a word of dismantling.
 
-v03: The Mount of Olives setting places the discourse opposite the temple, physically and symbolically.
+v3: The Mount of Olives setting places the discourse opposite the temple, physically and symbolically.
 
-v05: The first command is not to calculate but to avoid deception.
+v5: The first command is not to calculate but to avoid deception.
 
-v07–08: Wars and disasters are not treated as the end itself but as preliminary anguish.
+v7–8: Wars and disasters are not treated as the end itself but as preliminary anguish.
 
-v09–11: Persecution becomes occasion for witness; speech is promised as gift.
+v9–11: Persecution becomes occasion for witness; speech is promised as gift.
 
 v13: Endurance is tied to salvation without reducing salvation to human stamina.
 
@@ -161,27 +161,27 @@ v33–37: Watchfulness replaces date-setting as the proper posture of disciplesh
 
 ## Vocabulary
 
-v02: καταλύω (katalyō)
+v2: καταλύω (katalyō)
 
 “To throw down, destroy.” Used of dismantling structures.
 
-v05: βλέπω (blepō)
+v5: βλέπω (blepō)
 
 “See, watch.” Can mean physical seeing or vigilant attention.
 
-v05: πλανάω (planaō)
+v5: πλανάω (planaō)
 
 “To lead astray.” Deception from the path of truth.
 
-v07: θροέω (throeō)
+v7: θροέω (throeō)
 
 “To be alarmed, troubled.” Emotional disturbance in response to events.
 
-v08: ὠδίν (ōdin)
+v8: ὠδίν (ōdin)
 
 “Birth pain.” Suffering that signals something coming forth.
 
-v09: συνέδριον (synedrion)
+v9: συνέδριον (synedrion)
 
 “Council.” Judicial or governing assembly.
 
