@@ -59,41 +59,41 @@ v7: Preservation is both individual and communal.
 v8: The environment remains corrupt even after divine assurance—tension persists.
 
 ## Vocabulary
-v01: חָסִיד (chasid)  
+v1: חָסִיד (chasid)  
 “Faithful.” Loyal or devout.
 
-v01: אֱמוּן (emun)  
+v1: אֱמוּן (emun)  
 “Trustworthy.” Reliable.
 
-v02: חָלַק (chalaq)  
+v2: חָלַק (chalaq)  
 “To flatter.” Speak smoothly.
 
-v02: לֵב וָלֵב (lev va-lev)  
+v2: לֵב וָלֵב (lev va-lev)  
 “Double heart.” Divided intention.
 
-v03: כָּרַת (karat)  
+v3: כָּרַת (karat)  
 “To cut off.” Remove.
 
-v04: גָּבַר (gavar)  
+v4: גָּבַר (gavar)  
 “To prevail.” Overcome.
 
-v05: שֹׁד (shod)  
+v5: שֹׁד (shod)  
 “Plunder.” Violent theft.
 
-v05: אֶבְיוֹן (evyon)  
+v5: אֶבְיוֹן (evyon)  
 “Needy.” Poor.
 
-v06: טָהוֹר (tahor)  
+v6: טָהוֹר (tahor)  
 “Pure.” Clean.
 
-v06: צָרַף (tsaraph)  
+v6: צָרַף (tsaraph)  
 “To refine.” Purify.
 
-v07: שָׁמַר (shamar)  
+v7: שָׁמַר (shamar)  
 “To keep.” Guard.
 
-v08: רָשָׁע (rasha)  
+v8: רָשָׁע (rasha)  
 “Wicked.” Evil-doer.
 
-v08: זֻלּוּת (zullut)  
+v8: זֻלּוּת (zullut)  
 “Vileness.” Worthlessness.
