@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Birth of Isaac
 
 <p>
@@ -135,11 +134,11 @@ v34: And Abraham sojourned many days in the land of the Philistines.
 
 ## Notes
 
-v01–02: “Visited” signals covenant fulfillment; divine action corresponds precisely to prior promise.  
+v1–2: “Visited” signals covenant fulfillment; divine action corresponds precisely to prior promise.  
 
-v06: Wordplay on Isaac’s name (“he laughs”); laughter moves from disbelief to shared joy.  
+v6: Wordplay on Isaac’s name (“he laughs”); laughter moves from disbelief to shared joy.  
 
-v09: The ambiguity of “laughing” allows tension—mockery or rivalry.  
+v9: The ambiguity of “laughing” allows tension—mockery or rivalry.  
 
 v12: “Through Isaac shall your seed be named” establishes covenant lineage distinctly.  
 
@@ -153,11 +152,11 @@ v33: “Everlasting God” (El Olam) marks a theological expansion beyond immedi
 
 ## Vocabulary
 
-v01: פָּקַד (pāqad)  
+v1: פָּקַד (pāqad)  
 
 “To visit.” Often denotes divine intervention to fulfill promise.  
 
-v06: צָחַק (ṣāḥaq)  
+v6: צָחַק (ṣāḥaq)  
 
 “To laugh.” Expresses joy, irony, or tension depending on context.  
 
