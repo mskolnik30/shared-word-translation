@@ -140,37 +140,37 @@ v14–18: The chapter ends in despair, not resolution. Jeremiah’s anguish is a
 v18: The final question gathers the chapter’s tension: prophetic vocation has brought toil, sorrow, and shame.
 
 ## Vocabulary
-v01: פַּשְׁחוּר (Pashchur)
+v1: פַּשְׁחוּר (Pashchur)
 “Pashhur.” A priestly official whose name is reinterpreted by Jeremiah through judgment.
 
-v02: מַהְפֶּכֶת (mahpekheth)
+v2: מַהְפֶּכֶת (mahpekheth)
 “Stocks.” An instrument of public restraint and humiliation.
 
-v03: מָגוֹר מִסָּבִיב (magor missaviv)
+v3: מָגוֹר מִסָּבִיב (magor missaviv)
 “Terror on every side.” A phrase of surrounding dread and threat.
 
-v04: בָּבֶל (Bavel)
+v4: בָּבֶל (Bavel)
 “Babylon.” The empire named as the instrument of judgment.
 
-v06: שֶׁקֶר (sheqer)
+v6: שֶׁקֶר (sheqer)
 “Falsehood.” Deceptive speech, especially false prophecy.
 
-v07: פָּתָה (pathah)
+v7: פָּתָה (pathah)
 “To entice.” To persuade, deceive, or draw in.
 
-v07: חָזַק (chazaq)
+v7: חָזַק (chazaq)
 “To overpower.” To be strong or prevail.
 
-v08: חָמָס (chamas)
+v8: חָמָס (chamas)
 “Violence.” Destructive force or injustice.
 
-v08: שֹׁד (shod)
+v8: שֹׁד (shod)
 “Destruction.” Devastation or ruin.
 
-v09: אֵשׁ (esh)
+v9: אֵשׁ (esh)
 “Fire.” Here an inward burning image for the prophetic word.
 
-v09: עֶצֶם (‘etsem)
+v9: עֶצֶם (‘etsem)
 “Bone.” The inner frame of the body, used for deep embodied pressure.
 
 v10: דִּבָּה (dibbah)
