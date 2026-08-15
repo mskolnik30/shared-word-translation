@@ -81,15 +81,15 @@ v33: Each of you, however, should love his wife as himself, and a wife should re
 </p>
 
 ## Notes
-v01: “imitators of God” — Grounds ethical instruction in participation rather than moral achievement.
+v1: “imitators of God” — Grounds ethical instruction in participation rather than moral achievement.
 
-v02: “gave himself up for us” — Frames love through self-giving action, not sentiment.
+v2: “gave himself up for us” — Frames love through self-giving action, not sentiment.
 
-v03: “must not even be named” — Signals communal boundaries rather than private moral surveillance.
+v3: “must not even be named” — Signals communal boundaries rather than private moral surveillance.
 
-v05: “reign of Christ and of God” — Unites Christ and God within a single sphere of authority without explanation.
+v5: “reign of Christ and of God” — Unites Christ and God within a single sphere of authority without explanation.
 
-v08: “once you were darkness” — Describes identity, not behavior; transformation is presented as ontological.
+v8: “once you were darkness” — Describes identity, not behavior; transformation is presented as ontological.
 
 v10: “discern what is pleasing” — Emphasizes ongoing attentiveness rather than fixed rule-following.
 
@@ -116,17 +116,17 @@ v32: “this mystery is great” — Acknowledges excess of meaning rather than 
 v33: Love and respect — Maintains asymmetry in exhortation without explaining or justifying it.
 
 ## Vocabulary
-v01: μιμηταί (mimētai) — imitators, those who model themselves after another
+v1: μιμηταί (mimētai) — imitators, those who model themselves after another
 
-v02: ἀγάπη (agapē) — self-giving love oriented toward the good of another
+v2: ἀγάπη (agapē) — self-giving love oriented toward the good of another
 
-v02: προσφορά (prosphora) — offering, act of giving
+v2: προσφορά (prosphora) — offering, act of giving
 
-v03: πορνεία (porneia) — sexual immorality, disordered sexual practice
+v3: πορνεία (porneia) — sexual immorality, disordered sexual practice
 
-v05: βασιλεία (basileia) — reign, kingdom, sphere of rule
+v5: βασιλεία (basileia) — reign, kingdom, sphere of rule
 
-v08: φῶς (phōs) — light, that which reveals and gives life
+v8: φῶς (phōs) — light, that which reveals and gives life
 
 v10: δοκιμάζω (dokimazō) — to test, discern, examine for approval
 
