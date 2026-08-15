@@ -97,19 +97,19 @@ And this word is the good news that was preached to you.
 
 ## Notes
 
-v01: Identity is framed as both chosen and scattered.
+v1: Identity is framed as both chosen and scattered.
 
-v02: Divine action is described across Father, Spirit, and Son without explanation.
+v2: Divine action is described across Father, Spirit, and Son without explanation.
 
-v03: New birth is attributed to divine mercy, not human action.
+v3: New birth is attributed to divine mercy, not human action.
 
-v04: The inheritance is defined negatively (what it is not).
+v4: The inheritance is defined negatively (what it is not).
 
-v05: Salvation is both present and future.
+v5: Salvation is both present and future.
 
-v06–07: Trials function as testing, not interruption.
+v6–7: Trials function as testing, not interruption.
 
-v08–09: Faith operates without sight; joy precedes completion.
+v8–9: Faith operates without sight; joy precedes completion.
 
 v10–12: Prophetic inquiry is directed toward future fulfillment.
 
@@ -131,27 +131,27 @@ v24–25: Human transience contrasts with enduring word.
 
 ## Vocabulary
 
-v01: παρεπίδημος (parepidēmos)
+v1: παρεπίδημος (parepidēmos)
 
 “Exile.” One residing temporarily.
 
-v02: πρόγνωσις (prognōsis)
+v2: πρόγνωσις (prognōsis)
 
 “Foreknowledge.” Prior awareness or determination.
 
-v03: ἀναγεννάω (anagennaō)
+v3: ἀναγεννάω (anagennaō)
 
 “To be born again.” To be brought to new life.
 
-v04: κληρονομία (klēronomia)
+v4: κληρονομία (klēronomia)
 
 “Inheritance.” What is received.
 
-v06: δοκιμάζω (dokimazō)
+v6: δοκιμάζω (dokimazō)
 
 “To test.” To examine or prove.
 
-v08: ἀνεκλάλητος (aneklalētos)
+v8: ἀνεκλάλητος (aneklalētos)
 
 “Inexpressible.” Beyond speech.
 
