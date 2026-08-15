@@ -193,11 +193,11 @@ v40: But Philip was found at Azotus, and passing through, he was proclaiming the
 
 ## Notes
 
-v01–03: Persecution becomes the means of geographic expansion.
+v1–3: Persecution becomes the means of geographic expansion.
 
-v04–08: Proclamation is accompanied by signs and communal joy.
+v4–8: Proclamation is accompanied by signs and communal joy.
 
-v09–11: Simon represents prior religious influence now displaced.
+v9–11: Simon represents prior religious influence now displaced.
 
 v12–13: Belief and baptism extend broadly, including Simon.
 
@@ -223,27 +223,27 @@ v39–40: Mission continues beyond individual encounter.
 
 ## Vocabulary
 
-v01: διωγμός (diōgmos)
+v1: διωγμός (diōgmos)
 
 “Persecution.”
 
-v03: λυμαίνομαι (lymainomai)
+v3: λυμαίνομαι (lymainomai)
 
 “To ravage.”
 
-v04: εὐαγγελίζω (euangelizō)
+v4: εὐαγγελίζω (euangelizō)
 
 “To proclaim good news.”
 
-v05: Χριστός (Christos)
+v5: Χριστός (Christos)
 
 “Christ.”
 
-v07: πνεῦμα ἀκάθαρτον
+v7: πνεῦμα ἀκάθαρτον
 
 “Unclean spirit.”
 
-v09: μαγεύω (mageuō)
+v9: μαγεύω (mageuō)
 
 “To practice magic.”
 
