@@ -78,10 +78,10 @@ v42: And many believed in him there.
 </p>
 
 ## Notes
-v01–05: The contrast between shepherd and intruder establishes legitimacy through relationship rather than force or access.
-v03: “Calls his own sheep by name” emphasizes particularity; belonging is not abstract but personal.
-v06: The narrative marks misunderstanding without resolving it, allowing the discourse to unfold interpretively.
-v07–09: “I am the door” reframes access—not merely guidance but entry itself is located in Jesus.
+v1–5: The contrast between shepherd and intruder establishes legitimacy through relationship rather than force or access.
+v3: “Calls his own sheep by name” emphasizes particularity; belonging is not abstract but personal.
+v6: The narrative marks misunderstanding without resolving it, allowing the discourse to unfold interpretively.
+v7–9: “I am the door” reframes access—not merely guidance but entry itself is located in Jesus.
 v10: “Life in abundance” is qualitative, not merely extended duration.
 v11–15: The shepherd imagery intensifies into self-giving; knowledge and sacrifice are held together.
 v16: “Other sheep” expands the scope beyond the immediate audience without specifying boundaries.
@@ -95,13 +95,13 @@ v37–38: Works function as interpretive evidence, though they do not compel bel
 v40–42: The return beyond the Jordan recalls earlier testimony, linking present recognition to prior witness.
 
 ## Vocabulary
-v01: κλέπτης (kleptēs)
+v1: κλέπτης (kleptēs)
 “Thief.” One who takes secretly; contrasted with open, legitimate entry.
 
-v03: φωνή (phōnē)
+v3: φωνή (phōnē)
 “Voice.” Carries recognition and authority; relational rather than merely auditory.
 
-v09: θύρα (thyra)
+v9: θύρα (thyra)
 “Door.” A point of access and transition; here metaphorically central.
 
 v10: ζωή (zōē)
