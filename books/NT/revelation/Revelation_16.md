@@ -67,19 +67,19 @@ v21: And great hailstones, about a talent in weight, fell from heaven on people,
 
 ## Notes
 
-v01: Command originates from the sanctuary; action proceeds from presence.
+v1: Command originates from the sanctuary; action proceeds from presence.
 
-v02: The mark distinguishes recipients; effect is targeted, not universal.
+v2: The mark distinguishes recipients; effect is targeted, not universal.
 
-v03: The sea is transformed fully; life within it is extinguished.
+v3: The sea is transformed fully; life within it is extinguished.
 
-v04–06: Judgment is interpreted within the vision itself; response affirms justice.
+v4–6: Judgment is interpreted within the vision itself; response affirms justice.
 
-v06: Reciprocity (“blood for blood”) is stated without mitigation.
+v6: Reciprocity (“blood for blood”) is stated without mitigation.
 
-v07: The altar joins the declaration, linking prior sacrifice and present judgment.
+v7: The altar joins the declaration, linking prior sacrifice and present judgment.
 
-v08–09: Authority over plagues is acknowledged but resisted; no repentance follows.
+v8–9: Authority over plagues is acknowledged but resisted; no repentance follows.
 
 v10–11: Darkness affects the seat of power; response remains unchanged.
 
@@ -103,27 +103,27 @@ v21: Severity increases; response remains resistance rather than repentance.
 
 ## Vocabulary
 
-v01: φιάλη (phialē)
+v1: φιάλη (phialē)
 
 “Bowl.” Vessel for pouring out contents.
 
-v02: ἕλκος (helkos)
+v2: ἕλκος (helkos)
 
 “Sore.” A wound or ulcer, painful and visible.
 
-v03: ψυχή (psychē)
+v3: ψυχή (psychē)
 
 “Living being.” Life principle, here extinguished.
 
-v05: δίκαιος (dikaios)
+v5: δίκαιος (dikaios)
 
 “Just.” In alignment with what is right.
 
-v06: αἷμα (haima)
+v6: αἷμα (haima)
 
 “Blood.” Life poured out, here repaid.
 
-v08: καυματίζω (kaumatizō)
+v8: καυματίζω (kaumatizō)
 
 “To scorch.” Intense burning heat.
 
