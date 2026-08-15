@@ -111,7 +111,7 @@ v53: and they were continually in the temple blessing God.
 
 ## Notes
 
-v05–06: “Why do you seek the living among the dead?” — The resurrection reframes expectation; the question exposes how easily hope is still located in places of death.
+v5–6: “Why do you seek the living among the dead?” — The resurrection reframes expectation; the question exposes how easily hope is still located in places of death.
 
 v11: “like nonsense… they did not trust them” — Testimony of resurrection first appears as implausible; disbelief is not dismissed but named as part of the process.
 
@@ -141,11 +141,11 @@ v51–53: “blessed them… great joy” — The departure of Jesus is not loss
 
 ## Vocabulary
 
-v03: σῶμα (sōma) — body
+v3: σῶμα (sōma) — body
 
-v05: ζάω (zaō) — to live
+v5: ζάω (zaō) — to live
 
-v06: ἐγείρω (egeirō) — to raise; to awaken
+v6: ἐγείρω (egeirō) — to raise; to awaken
 
 v11: λῆρος (lēros) — nonsense; idle talk
 
