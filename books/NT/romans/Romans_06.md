@@ -51,16 +51,16 @@ v23: For the wages of sin is death, but the free gift of God is eternal life in 
 
 
 ## Notes
-v05: “united with him”
+v5: “united with him”
 The verb signals participation rather than imitation. Paul describes a shared reality grounded in Christ’s death and resurrection, not a metaphor for moral effort.
 
-v06: “the body of sin”
+v6: “the body of sin”
 This phrase does not identify the physical body as evil. It names the self as organized under sin’s power, which is rendered powerless through participation in Christ’s death.
 
-v07: “freed from sin”
+v7: “freed from sin”
 Freedom is stated as an accomplished reality, not a future goal. The logic is declarative before it becomes imperative.
 
-v09: “death no longer exercises dominion”
+v9: “death no longer exercises dominion”
 Dominion language continues the thread from Romans 5. Death is personified as a ruling power whose authority has been broken in Christ.
 
 v11: “consider yourselves”
@@ -88,16 +88,16 @@ v23: “wages” / “free gift”
 The contrast is asymmetrical. Death is earned; life is given. Eternal life is not the natural result of moral improvement but the gift of God in Christ.
 
 ## Vocabulary
-v05: σύμφυτος (symphytos)
+v5: σύμφυτος (symphytos)
 “United with.” Conveys organic participation or shared life, not mere association or imitation. The term emphasizes incorporation into Christ’s death and resurrection.
 
-v06: καταργέω (katargeō)
+v6: καταργέω (katargeō)
 “To render powerless.” Does not mean annihilation. Sin’s authority is broken, though its presence remains contested.
 
-v07: ἐλευθερόω (eleutheroō)
+v7: ἐλευθερόω (eleutheroō)
 “To free.” Liberation is declared as an accomplished reality, grounding the ethical exhortations that follow.
 
-v09: κυριεύω (kyrieuō)
+v9: κυριεύω (kyrieuō)
 “To exercise dominion.” Signals ruling authority. Used of death and sin to describe oppressive powers rather than isolated acts.
 
 v11: λογίζομαι (logizomai)
