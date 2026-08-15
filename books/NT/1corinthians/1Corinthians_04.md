@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Servants of Christ
 
 <p>
@@ -109,13 +108,13 @@ v21: What do you want? Shall I come to you with a rod, or with love and a spirit
 
 ## Notes
 
-v01–02: Apostolic role defined as stewardship requiring faithfulness.
+v1–2: Apostolic role defined as stewardship requiring faithfulness.
 
-v03–05: Final judgment belongs to the Lord alone.
+v3–5: Final judgment belongs to the Lord alone.
 
-v06–07: All boasting is excluded by divine gift.
+v6–7: All boasting is excluded by divine gift.
 
-v08–10: Irony exposes Corinthian self-perception.
+v8–10: Irony exposes Corinthian self-perception.
 
 v11–13: Apostolic suffering contrasts worldly honor.
 
@@ -125,39 +124,39 @@ v18–21: Authority is validated by power, not speech.
 
 ## Vocabulary
 
-v01: ὑπηρέτης (hypēretēs)
+v1: ὑπηρέτης (hypēretēs)
 
 “Servant.”
 
-v01: οἰκονόμος (oikonomos)
+v1: οἰκονόμος (oikonomos)
 
 “Steward.”
 
-v01: μυστήριον (mystērion)
+v1: μυστήριον (mystērion)
 
 “Mystery.”
 
-v02: πιστός (pistos)
+v2: πιστός (pistos)
 
 “Faithful.”
 
-v03: ἀνακρίνω (anakrinō)
+v3: ἀνακρίνω (anakrinō)
 
 “To examine, judge.”
 
-v05: φανερόω (phaneroō)
+v5: φανερόω (phaneroō)
 
 “To bring to light.”
 
-v06: φυσιόω (physioō)
+v6: φυσιόω (physioō)
 
 “To become arrogant.”
 
-v07: λαμβάνω (lambanō)
+v7: λαμβάνω (lambanō)
 
 “To receive.”
 
-v09: θέατρον (theatron)
+v9: θέατρον (theatron)
 
 “Spectacle.”
 
