@@ -241,11 +241,11 @@ v50: And I know that his commandment is eternal life; therefore the things I spe
 
 ## Notes
 
-v03: Extravagant devotion anticipates burial.
+v3: Extravagant devotion anticipates burial.
 
-v06: Judas’ objection reveals internal corruption.
+v6: Judas’ objection reveals internal corruption.
 
-v07–08: Timing of Jesus’ presence reframes priorities.
+v7–8: Timing of Jesus’ presence reframes priorities.
 
 v10–11: Opposition expands to include Lazarus as evidence.
 
@@ -277,15 +277,15 @@ v48–50: Final judgment is mediated through Jesus’ word.
 
 ## Vocabulary
 
-v03: μύρον (myron)
+v3: μύρον (myron)
 
 “Perfume.”
 
-v04: Ἰσκαριώτης (Iskariōtēs)
+v4: Ἰσκαριώτης (Iskariōtēs)
 
 “Iscariot.”
 
-v06: γλωσσόκομον (glōssokomon)
+v6: γλωσσόκομον (glōssokomon)
 
 “Money box.”
 
