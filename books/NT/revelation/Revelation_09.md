@@ -61,19 +61,19 @@ v21: nor did they repent of their murders or their sorceries or their sexual imm
 
 ## Notes
 
-v01: The “star” is described as fallen and then acts, leaving identity undefined.
+v1: The “star” is described as fallen and then acts, leaving identity undefined.
 
-v02: Smoke obscures light, reversing expected order of revelation.
+v2: Smoke obscures light, reversing expected order of revelation.
 
-v03: Locust imagery draws from known patterns but exceeds them in form and function.
+v3: Locust imagery draws from known patterns but exceeds them in form and function.
 
-v04: Harm is restricted; those sealed are distinguished without visible explanation here.
+v4: Harm is restricted; those sealed are distinguished without visible explanation here.
 
-v05–06: Torment is limited in duration but intensified in experience.
+v5–6: Torment is limited in duration but intensified in experience.
 
-v06: Death becomes inaccessible, not absent.
+v6: Death becomes inaccessible, not absent.
 
-v07–10: Composite imagery resists singular identification; description accumulates rather than clarifies.
+v7–10: Composite imagery resists singular identification; description accumulates rather than clarifies.
 
 v11: Naming (Abaddon/Apollyon) identifies function (“destroyer”) rather than origin.
 
@@ -99,23 +99,23 @@ v21: Actions are listed without hierarchy, presenting a pattern rather than sequ
 
 ## Vocabulary
 
-v01: ἄβυσσος (abyssos)
+v1: ἄβυσσος (abyssos)
 
 “Abyss.” A deep or bottomless place, associated with confinement.
 
-v03: ἀκρίς (akris)
+v3: ἀκρίς (akris)
 
 “Locust.” A destructive force, here intensified beyond natural form.
 
-v04: σφραγίς (sphragis)
+v4: σφραγίς (sphragis)
 
 “Seal.” Mark of belonging or protection.
 
-v05: βασανίζω (basanizō)
+v5: βασανίζω (basanizō)
 
 “To torment.” Severe distress, often prolonged.
 
-v06: θάνατος (thanatos)
+v6: θάνατος (thanatos)
 
 “Death.” Here present but inaccessible.
 
