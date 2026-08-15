@@ -122,11 +122,11 @@ v23: But the one who doubts is condemned if he eats, because it is not from fait
 
 ## Notes
 
-v01–04: Community includes differing levels of conviction.
+v1–4: Community includes differing levels of conviction.
 
-v05–06: Individual practices are oriented toward the Lord.
+v5–6: Individual practices are oriented toward the Lord.
 
-v07–09: Belonging to the Lord governs life and death.
+v7–9: Belonging to the Lord governs life and death.
 
 v10–12: Final judgment belongs to God alone.
 
@@ -144,27 +144,27 @@ v22–23: Faith and conscience must align; violation produces sin.
 
 ## Vocabulary
 
-v01: ἀσθενής (asthenēs)
+v1: ἀσθενής (asthenēs)
 
 “Weak.”
 
-v01: διαλογισμός (dialogismos)
+v1: διαλογισμός (dialogismos)
 
 “Dispute, opinion.”
 
-v03: ἐξουθενέω (exoutheneō)
+v3: ἐξουθενέω (exoutheneō)
 
 “To despise.”
 
-v04: κύριος (kyrios)
+v4: κύριος (kyrios)
 
 “Master, Lord.”
 
-v05: πληροφορέω (plērophoreō)
+v5: πληροφορέω (plērophoreō)
 
 “To be fully convinced.”
 
-v07: ζάω (zaō)
+v7: ζάω (zaō)
 
 “To live.”
 
