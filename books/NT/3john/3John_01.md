@@ -61,23 +61,23 @@ v15: Peace be to you. The friends greet you. Greet the friends, each by name.
 
 ## Notes
 
-v01: “The elder” is not further identified; authority is assumed.
+v1: “The elder” is not further identified; authority is assumed.
 
-v01: Love is qualified (“in truth”), not generalized.
+v1: Love is qualified (“in truth”), not generalized.
 
-v02: Physical and spiritual well-being are held together.
+v2: Physical and spiritual well-being are held together.
 
-v03–04: Joy is tied to observed conduct, not abstract belief.
+v3–4: Joy is tied to observed conduct, not abstract belief.
 
-v05: Faithfulness is demonstrated through action toward others.
+v5: Faithfulness is demonstrated through action toward others.
 
-v06: Hospitality is framed as participation in divine purpose.
+v6: Hospitality is framed as participation in divine purpose.
 
-v07: “The Name” is used without explicit identification.
+v7: “The Name” is used without explicit identification.
 
-v08: Support creates shared involvement, not passive agreement.
+v8: Support creates shared involvement, not passive agreement.
 
-v09: Opposition is internal rather than external.
+v9: Opposition is internal rather than external.
 
 v10: Speech and action are linked; resistance is active.
 
@@ -91,35 +91,35 @@ v15: Naming is personal; relationship is specific.
 
 ## Vocabulary
 
-v01: πρεσβύτερος (presbyteros)
+v1: πρεσβύτερος (presbyteros)
 
 “Elder.” One with recognized authority.
 
-v01: ἀλήθεια (alētheia)
+v1: ἀλήθεια (alētheia)
 
 “Truth.” Reality expressed and lived.
 
-v03: μαρτυρέω (martyreō)
+v3: μαρτυρέω (martyreō)
 
 “To testify.” To bear witness.
 
-v05: πιστός (pistos)
+v5: πιστός (pistos)
 
 “Faithful.” Reliable in action.
 
-v06: προπέμπω (propempō)
+v6: προπέμπω (propempō)
 
 “To send on a journey.” To support and equip.
 
-v07: ὄνομα (onoma)
+v7: ὄνομα (onoma)
 
 “Name.” Identity or authority.
 
-v08: συνεργός (synergos)
+v8: συνεργός (synergos)
 
 “Fellow worker.” One who shares in the work.
 
-v09: φιλοπρωτεύω (philoprōteuō)
+v9: φιλοπρωτεύω (philoprōteuō)
 
 “To love to be first.” Desire for preeminence.
 
