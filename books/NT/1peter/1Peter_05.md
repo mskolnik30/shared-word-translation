@@ -54,21 +54,21 @@ v14: Greet one another with the kiss of love. Peace to all of you who are in Chr
 
 ## Notes
 
-v01: Authority is shared (“fellow elder”), not elevated.
+v1: Authority is shared (“fellow elder”), not elevated.
 
-v01: Witness and participation are held together.
+v1: Witness and participation are held together.
 
-v02–03: Leadership is defined negatively and positively.
+v2–3: Leadership is defined negatively and positively.
 
-v04: Reward is future and unfading.
+v4: Reward is future and unfading.
 
-v05: Humility is communal, not individual alone.
+v5: Humility is communal, not individual alone.
 
-v06–07: Exaltation follows humility; timing is not controlled by the individual.
+v6–7: Exaltation follows humility; timing is not controlled by the individual.
 
-v08: The adversary is active; vigilance is required.
+v8: The adversary is active; vigilance is required.
 
-v09: Suffering is shared globally, not isolated.
+v9: Suffering is shared globally, not isolated.
 
 v10: Restoration is attributed directly to God.
 
@@ -82,39 +82,39 @@ v14: Peace is relational and located “in Christ.”
 
 ## Vocabulary
 
-v01: πρεσβύτερος (presbyteros)
+v1: πρεσβύτερος (presbyteros)
 
 “Elder.” One with recognized leadership.
 
-v02: ποιμαίνω (poimainō)
+v2: ποιμαίνω (poimainō)
 
 “To shepherd.” To guide and care.
 
-v02: ἐπισκοπέω (episkopeō)
+v2: ἐπισκοπέω (episkopeō)
 
 “To oversee.” To watch over.
 
-v03: κατακυριεύω (katakyrieuō)
+v3: κατακυριεύω (katakyrieuō)
 
 “To domineer.” To rule over harshly.
 
-v04: στέφανος (stephanos)
+v4: στέφανος (stephanos)
 
 “Crown.” Symbol of reward.
 
-v05: ταπεινοφροσύνη (tapeinophrosynē)
+v5: ταπεινοφροσύνη (tapeinophrosynē)
 
 “Humility.” Lowliness of mind.
 
-v07: μέριμνα (merimna)
+v7: μέριμνα (merimna)
 
 “Anxiety.” Concern or care.
 
-v08: διάβολος (diabolos)
+v8: διάβολος (diabolos)
 
 “Devil.” Accuser or adversary.
 
-v09: στερεός (stereos)
+v9: στερεός (stereos)
 
 “Firm.” Solid or steadfast.
 
