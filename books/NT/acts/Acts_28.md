@@ -169,11 +169,11 @@ v31: proclaiming the kingdom of God and teaching the things concerning the Lord 
 
 ## Notes
 
-v01–02: Deliverance leads to provision and hospitality.
+v1–2: Deliverance leads to provision and hospitality.
 
-v03–06: Divine protection reverses human judgment.
+v3–6: Divine protection reverses human judgment.
 
-v07–10: Healing ministry continues in new context.
+v7–10: Healing ministry continues in new context.
 
 v14–16: Arrival in Rome fulfills narrative trajectory.
 
@@ -193,31 +193,31 @@ v30–31: Narrative concludes with unhindered proclamation.
 
 ## Vocabulary
 
-v02: φιλανθρωπία (philanthrōpia)
+v2: φιλανθρωπία (philanthrōpia)
 
 “Kindness.”
 
-v03: ἔχιδνα (echidna)
+v3: ἔχιδνα (echidna)
 
 “Viper.”
 
-v04: δίκη (dikē)
+v4: δίκη (dikē)
 
 “Justice.”
 
-v05: ἀποτινάσσω (apotinassō)
+v5: ἀποτινάσσω (apotinassō)
 
 “To shake off.”
 
-v07: πρῶτος (prōtos)
+v7: πρῶτος (prōtos)
 
 “Chief.”
 
-v08: πυρετός (pyretos)
+v8: πυρετός (pyretos)
 
 “Fever.”
 
-v09: θεραπεύω (therapeuō)
+v9: θεραπεύω (therapeuō)
 
 “To heal.”
 
