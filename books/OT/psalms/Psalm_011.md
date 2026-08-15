@@ -60,38 +60,38 @@ v6: Judgment imagery is elemental—fire, sulfur, and wind.
 v7: The final promise is relational—“behold his face.”
 
 ## Vocabulary
-v01: חָסָה (chasah)  
+v1: חָסָה (chasah)  
 “To take refuge.” Seek shelter.
 
-v01: נוּד (nud)  
+v1: נוּד (nud)  
 “To flee.” Wander or escape.
 
-v02: דָּרַךְ (darakh)  
+v2: דָּרַךְ (darakh)  
 “To bend.” Prepare a bow.
 
-v02: יָרָה (yarah)  
+v2: יָרָה (yarah)  
 “To shoot.” Cast or throw.
 
-v03: יְסוֹד (yesod)  
+v3: יְסוֹד (yesod)  
 “Foundation.” Structural base.
 
-v04: הֵיכָל (heikhal)  
+v4: הֵיכָל (heikhal)  
 “Temple.” Palace or sanctuary.
 
-v04: בָּחַן (bachan)  
+v4: בָּחַן (bachan)  
 “To test.” Examine.
 
-v05: שָׂנֵא (sane)  
+v5: שָׂנֵא (sane)  
 “To hate.” Reject strongly.
 
-v06: גָּפְרִית (gofrit)  
+v6: גָּפְרִית (gofrit)  
 “Sulfur.” Burning element.
 
-v06: מָנָה (manah)  
+v6: מָנָה (manah)  
 “Portion.” Assigned share.
 
-v07: יָשָׁר (yashar)  
+v7: יָשָׁר (yashar)  
 “Upright.” Straight or just.
 
-v07: פָּנִים (panim)  
+v7: פָּנִים (panim)  
 “Face.” Presence.
