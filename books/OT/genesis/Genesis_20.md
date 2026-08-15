@@ -44,12 +44,12 @@ v18: For the LORD had completely closed every womb of the house of Abimelech bec
 </p>
 
 ## Notes
-v01–02: Abraham repeats a strategy previously used in Egypt. The narrative intentionally recalls earlier events while placing them in a new setting.
-v03: God intervenes before any violation occurs. The protection of Sarah is presented as divine action rather than human foresight.
-v04–05: Abimelech appeals to innocence and integrity. The text portrays him as acting on the basis of the information he was given.
-v06: God acknowledges Abimelech’s integrity while also asserting divine sovereignty over the situation.
-v07: Abraham is called a prophet for the first time in Scripture. His role includes intercession on behalf of others.
-v08–10: Abimelech’s rebuke exposes the danger created by Abraham’s deception.
+v1–2: Abraham repeats a strategy previously used in Egypt. The narrative intentionally recalls earlier events while placing them in a new setting.
+v3: God intervenes before any violation occurs. The protection of Sarah is presented as divine action rather than human foresight.
+v4–5: Abimelech appeals to innocence and integrity. The text portrays him as acting on the basis of the information he was given.
+v6: God acknowledges Abimelech’s integrity while also asserting divine sovereignty over the situation.
+v7: Abraham is called a prophet for the first time in Scripture. His role includes intercession on behalf of others.
+v8–10: Abimelech’s rebuke exposes the danger created by Abraham’s deception.
 v11: Abraham’s explanation reveals fear and mistrust despite the promises he has received.
 v12: The statement concerning Sarah’s family relationship explains how Abraham’s claim contains an element of truth.
 v13: The arrangement between Abraham and Sarah appears to have been longstanding rather than improvised.
@@ -58,22 +58,22 @@ v16: The language of vindication concerns public honor and the removal of suspic
 v17–18: The chapter closes with prayer, healing, and restored fertility, preparing for the birth narrative that follows.
 
 ## Vocabulary
-v01: גּוּר (gûr)
+v1: גּוּר (gûr)
 “To sojourn.” To reside as a foreigner or temporary inhabitant in a land.
 
-v03: חָלוֹם (ḥālôm)
+v3: חָלוֹם (ḥālôm)
 “Dream.” A common means of divine communication in Genesis.
 
-v05: תֹּם (tōm)
+v5: תֹּם (tōm)
 “Integrity.” Wholeness, sincerity, or innocence of heart.
 
-v06: חָשַׂךְ (ḥāśaḵ)
+v6: חָשַׂךְ (ḥāśaḵ)
 “To withhold” or “restrain.” God prevents Abimelech from acting.
 
-v07: נָבִיא (nāḇîʾ)
+v7: נָבִיא (nāḇîʾ)
 “Prophet.” One who speaks or acts under divine commission.
 
-v07: פָּלַל (pālal)
+v7: פָּלַל (pālal)
 “To pray” or “intercede.” Prayer offered on behalf of another.
 
 v11: יִרְאַת אֱלֹהִים (yirʾat ʾĕlōhîm)
