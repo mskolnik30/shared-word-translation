@@ -47,70 +47,70 @@ v09: And she said, “I will surely go with you. Nevertheless, the way you are g
 
 ## Notes
 
-v01–02: The cyclical pattern resumes—apostasy leads to subjugation. “Sold into the hand” frames oppression as covenantal consequence.
+v1–2: The cyclical pattern resumes—apostasy leads to subjugation. “Sold into the hand” frames oppression as covenantal consequence.
 
-v03: Military superiority (iron chariots) intensifies the imbalance; prolonged oppression provokes renewed dependence.
+v3: Military superiority (iron chariots) intensifies the imbalance; prolonged oppression provokes renewed dependence.
 
-v04–05: Deborah’s role is both prophetic and judicial. Authority is exercised in a public, accessible setting.
+v4–5: Deborah’s role is both prophetic and judicial. Authority is exercised in a public, accessible setting.
 
-v06–07: The command is framed as already given—Barak is being recalled to obedience, not newly commissioned.
+v6–7: The command is framed as already given—Barak is being recalled to obedience, not newly commissioned.
 
-v07: Divine agency governs the outcome; Sisera is “drawn out” into a predetermined defeat.
+v7: Divine agency governs the outcome; Sisera is “drawn out” into a predetermined defeat.
 
-v08: Barak’s hesitation ties obedience to presence—he seeks assurance through Deborah.
+v8: Barak’s hesitation ties obedience to presence—he seeks assurance through Deborah.
 
-v09: The narrative redirects honor. Victory will come, but not in expected form—gender reversal marks divine initiative.
+v9: The narrative redirects honor. Victory will come, but not in expected form—gender reversal marks divine initiative.
 
 ## Vocabulary
 
-v01: רַע (raʿ)  
+v1: רַע (raʿ)  
 
 “Evil.” What is contrary to covenantal order.
 
-v02: מָכַר (māḵar)  
+v2: מָכַר (māḵar)  
 
 “To sell.” To hand over into another’s power.
 
-v03: לָחַץ (lāḥaṣ)  
+v3: לָחַץ (lāḥaṣ)  
 
 “To oppress.” To press hard, afflict.
 
-v03: זָעַק (zāʿaq)  
+v3: זָעַק (zāʿaq)  
 
 “To cry out.” To call for help in distress.
 
-v04: נְבִיאָה (neḇîʾāh)  
+v4: נְבִיאָה (neḇîʾāh)  
 
 “Prophetess.” One who speaks for God.
 
-v04: שָׁפַט (šāpaṭ)  
+v4: שָׁפַט (šāpaṭ)  
 
 “To judge.” To govern or decide.
 
-v05: תֹּמֶר (tōmer)  
+v5: תֹּמֶר (tōmer)  
 
 “Palm tree.” Landmark of Deborah’s authority.
 
-v06: צָוָה (ṣāwāh)  
+v6: צָוָה (ṣāwāh)  
 
 “To command.” To give authoritative instruction.
 
-v06: קָבַץ (qāḇaṣ)  
+v6: קָבַץ (qāḇaṣ)  
 
 “To gather.” To assemble for action.
 
-v07: מָשַׁךְ (māšaḵ)  
+v7: מָשַׁךְ (māšaḵ)  
 
 “To draw out.” To pull or lead forth.
 
-v07: נָתַן (nāṯan)  
+v7: נָתַן (nāṯan)  
 
 “To give.” To deliver into someone’s hand.
 
-v08: הָלַךְ (hālaḵ)  
+v8: הָלַךְ (hālaḵ)  
 
 “To go.” To proceed or act.
 
-v09: תִּפְאֶרֶת (tip̄ʾereṯ)  
+v9: תִּפְאֶרֶת (tip̄ʾereṯ)  
 
 “Glory/honor.” Public recognition or renown.
