@@ -45,21 +45,21 @@ v13: Then I looked, and I heard an eagle crying with a loud voice as it flew in 
 
 ## Notes
 
-v01: Silence interrupts the sequence; response is suspended rather than continued.
+v1: Silence interrupts the sequence; response is suspended rather than continued.
 
-v02: The angels are presented as standing before God, emphasizing position rather than origin.
+v2: The angels are presented as standing before God, emphasizing position rather than origin.
 
-v03–04: Prayers are joined with incense, linking petition and offering without distinction.
+v3–4: Prayers are joined with incense, linking petition and offering without distinction.
 
-v05: The same source (altar fire) moves from offering to judgment.
+v5: The same source (altar fire) moves from offering to judgment.
 
-v06: Preparation precedes action; the sounding is deliberate, not sudden.
+v6: Preparation precedes action; the sounding is deliberate, not sudden.
 
-v07–12: Each trumpet affects a “third,” indicating limitation rather than totality.
+v7–12: Each trumpet affects a “third,” indicating limitation rather than totality.
 
-v07: Elements are combined (hail, fire, blood) without explanation of mechanism.
+v7: Elements are combined (hail, fire, blood) without explanation of mechanism.
 
-v08: The “mountain” is described comparatively, not identified.
+v8: The “mountain” is described comparatively, not identified.
 
 v10–11: Naming (“Wormwood”) interprets effect (bitterness) rather than origin.
 
@@ -69,31 +69,31 @@ v13: The eagle’s cry anticipates escalation; judgment intensifies rather than 
 
 ## Vocabulary
 
-v01: σιγή (sigē)
+v1: σιγή (sigē)
 
 “Silence.” Absence of sound, here marking interruption or pause.
 
-v02: σάλπιγξ (salpinx)
+v2: σάλπιγξ (salpinx)
 
 “Trumpet.” Instrument signaling announcement or action.
 
-v03: λιβανωτός (libanōtos)
+v3: λιβανωτός (libanōtos)
 
 “Censer.” Vessel for burning incense.
 
-v04: θυμίαμα (thymiama)
+v4: θυμίαμα (thymiama)
 
 “Incense.” Fragrant offering, associated with prayer.
 
-v05: πῦρ (pyr)
+v5: πῦρ (pyr)
 
 “Fire.” Element of offering and judgment.
 
-v07: χάλαζα (chalaza)
+v7: χάλαζα (chalaza)
 
 “Hail.” Destructive precipitation, here intensified.
 
-v08: θάλασσα (thalassa)
+v8: θάλασσα (thalassa)
 
 “Sea.” Domain of life, here partially undone.
 
