@@ -114,19 +114,19 @@ v15: so he shall startle many nations;
 </p>
 
 ## Notes
-v01–02: “Awake… put on strength… loose the bonds” — Salvation is pictured as rousing dignity and freedom: Zion is addressed as captive-but-called, summoned to stand up into a new identity.
+v1–2: “Awake… put on strength… loose the bonds” — Salvation is pictured as rousing dignity and freedom: Zion is addressed as captive-but-called, summoned to stand up into a new identity.
 
-v03: “redeemed without money” — Liberation is not purchased by Israel’s resources; it is sheer divine rescue, breaking the logic of debt and exploitation.
+v3: “redeemed without money” — Liberation is not purchased by Israel’s resources; it is sheer divine rescue, breaking the logic of debt and exploitation.
 
-v04–05: Egypt and Assyria — The LORD names a pattern of oppression “for nothing”; history’s humiliations are brought into the courtroom of God’s justice.
+v4–5: Egypt and Assyria — The LORD names a pattern of oppression “for nothing”; history’s humiliations are brought into the courtroom of God’s justice.
 
-v06: “my people shall know my name… Here am I” — Deliverance is relational revelation: God’s name becomes known not as concept but as presence and speech.
+v6: “my people shall know my name… Here am I” — Deliverance is relational revelation: God’s name becomes known not as concept but as presence and speech.
 
-v07: “beautiful… feet… brings good news… ‘Your God reigns’” — Gospel language before the gospel: the core announcement is God’s kingship bringing peace, salvation, and public reversal.
+v7: “beautiful… feet… brings good news… ‘Your God reigns’” — Gospel language before the gospel: the core announcement is God’s kingship bringing peace, salvation, and public reversal.
 
-v08: “watchmen… eye to eye” — Restoration is not rumor; it is witnessed clarity. Joy rises as those tasked with vigilance see God’s return.
+v8: “watchmen… eye to eye” — Restoration is not rumor; it is witnessed clarity. Joy rises as those tasked with vigilance see God’s return.
 
-v09: “ruins… comforted… redeemed” — God’s consolation is not denial of devastation; the ruins are named, and then addressed with song.
+v9: “ruins… comforted… redeemed” — God’s consolation is not denial of devastation; the ruins are named, and then addressed with song.
 
 v10: “bared his holy arm… all nations… ends of the earth” — Salvation is public and missional: God acts in a way the nations can see, widening the horizon beyond Israel.
 
@@ -141,33 +141,33 @@ v14: “marred… beyond mortals” — The text insists on real disfigurement a
 v15: “startle many nations… kings… shut their mouths” — The Servant’s impact is global and silencing: power structures are rendered speechless as God’s unexpected work is seen and understood.
 
 ## Vocabulary
-v01: עוּר (ʿur) — to awake; to rouse
+v1: עוּר (ʿur) — to awake; to rouse
 
-v01: עֹז (ʿoz) — strength; might
+v1: עֹז (ʿoz) — strength; might
 
-v02: עָפָר (ʿafar) — dust
+v2: עָפָר (ʿafar) — dust
 
-v02: מוֹסֵר (moser) — bond; fetter; restraint
+v2: מוֹסֵר (moser) — bond; fetter; restraint
 
-v03: גָּאַל (ga’al) — to redeem; to reclaim as kin-redeemer
+v3: גָּאַל (ga’al) — to redeem; to reclaim as kin-redeemer
 
-v04: גּוּר (gur) — to sojourn; to reside as a resident alien
+v4: גּוּר (gur) — to sojourn; to reside as a resident alien
 
-v05: בָּזָה (bazah) — to despise; to treat with contempt
+v5: בָּזָה (bazah) — to despise; to treat with contempt
 
-v06: יָדַע (yadaʿ) — to know (relational knowing)
+v6: יָדַע (yadaʿ) — to know (relational knowing)
 
-v06: שֵׁם (shem) — name
+v6: שֵׁם (shem) — name
 
-v07: בָּשַׂר (basar) — to bring good news; to announce
+v7: בָּשַׂר (basar) — to bring good news; to announce
 
-v07: שָׁלוֹם (shalom) — peace; wholeness
+v7: שָׁלוֹם (shalom) — peace; wholeness
 
-v07: יְשׁוּעָה (yeshu‘ah) — salvation; deliverance
+v7: יְשׁוּעָה (yeshu‘ah) — salvation; deliverance
 
-v08: צָפָה (tsafah) — to watch; to keep lookout
+v8: צָפָה (tsafah) — to watch; to keep lookout
 
-v09: נָחַם (naḥam) — to comfort; to console
+v9: נָחַם (naḥam) — to comfort; to console
 
 v10: זְרוֹעַ (zeroaʿ) — arm (symbol of power)
 
