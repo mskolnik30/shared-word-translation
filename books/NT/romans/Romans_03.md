@@ -83,16 +83,16 @@ v31: Do we then overthrow the law through trust? By no means! On the contrary, w
 </p>
 
 ## Notes
-v02: “entrusted with the oracles of God”
+v2: “entrusted with the oracles of God”
 The verb emphasizes responsibility rather than privilege. Israel’s role is custodial, not self-justifying.
 
-v03: “the faithfulness of God”
+v3: “the faithfulness of God”
 The contrast between human unfaithfulness and God’s faithfulness establishes the chapter’s controlling theme and anticipates the later reference to the faithfulness of Jesus Christ.
 
-v04: “Let God be shown to be true”
+v4: “Let God be shown to be true”
 The citation from the Psalms is forensic in tone. God’s truthfulness is vindicated through judgment, not in spite of it.
 
-v09: “under the power of sin”
+v9: “under the power of sin”
 Sin is depicted as a ruling force rather than a series of individual acts, preparing for later language of dominion and liberation.
 
 v19–20: “every mouth may be stopped”
@@ -117,10 +117,10 @@ v31: “we uphold the law”
 Paul refuses antinomian conclusions. The law is honored when its true purpose is fulfilled.
 
 ## Vocabulary
-v03: πίστις (pistis)
+v3: πίστις (pistis)
 “Faithfulness; trust.” Here used of God. The term denotes reliability and covenantal faithfulness rather than belief or opinion.
 
-v09: ἁμαρτία (hamartia)
+v9: ἁμαρτία (hamartia)
 “Sin.” Portrayed as a ruling power rather than isolated moral failures, shaping Paul’s argument about universal captivity.
 
 v20: δικαιόω (dikaioō)
