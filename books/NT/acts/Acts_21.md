@@ -179,11 +179,11 @@ v30–36: Roman intervention prevents immediate execution.
 
 ## Vocabulary
 
-v04: διὰ τοῦ πνεύματος
+v4: διὰ τοῦ πνεύματος
 
 “Through the Spirit.”
 
-v08: εὐαγγελιστής (euangelistēs)
+v8: εὐαγγελιστής (euangelistēs)
 
 “Evangelist.”
 
