@@ -84,7 +84,7 @@ v30: And he strictly ordered them that they should tell no one about him.
 
 ## Notes
 
-v02: Compassion is grounded in sustained presence (“three days”).
+v2: Compassion is grounded in sustained presence (“three days”).
 
 v12: Refusal of a sign resists coercive proof.
 
@@ -96,7 +96,7 @@ v29: “Christ” is confessed without immediate clarification.
 
 ## Vocabulary
 
-v02: σπλαγχνίζομαι (splagchnizomai) — to have compassion.
+v2: σπλαγχνίζομαι (splagchnizomai) — to have compassion.
 
 v12: σημεῖον (sēmeion) — sign.
 
