@@ -74,9 +74,9 @@ v43: Chief Magdiel, and Chief Iram. These are the chiefs of Edom according to th
 </p>
 
 ## Notes
-v01: The chapter identifies Esau with Edom, establishing the connection between the man and the nation descended from him.
-v06–08: Esau's separation from Jacob parallels the earlier separation of Abraham and Lot. The two brothers become heads of distinct peoples.
-v09–19: The genealogy emphasizes the growth and organization of Esau's descendants into clans and tribal leaders.
+v1: The chapter identifies Esau with Edom, establishing the connection between the man and the nation descended from him.
+v6–8: Esau's separation from Jacob parallels the earlier separation of Abraham and Lot. The two brothers become heads of distinct peoples.
+v9–19: The genealogy emphasizes the growth and organization of Esau's descendants into clans and tribal leaders.
 v12: Amalek is introduced here. The Amalekites later become significant opponents of Israel.
 v20–30: The Horites were earlier inhabitants of Seir and became incorporated into Edomite history.
 v24: The brief note concerning Anah preserves a historical detail otherwise lost to the narrative.
@@ -86,13 +86,13 @@ v40–43: The chapter closes by emphasizing the territorial and political establ
 v43: Before returning to Jacob's story, Genesis records Esau's descendants in detail, showing that God's promises of multiplication extended beyond the covenant line.
 
 ## Vocabulary
-v01: תּוֹלְדוֹת (tôlĕdôt)
+v1: תּוֹלְדוֹת (tôlĕdôt)
 “Generations” or “account.” A structural heading introducing a family record.
 
-v01: אֱדוֹם (ʾĔḏôm)
+v1: אֱדוֹם (ʾĔḏôm)
 “Edom.” Meaning “red,” associated with Esau and his descendants.
 
-v08: שֵׂעִיר (Śeʿîr)
+v8: שֵׂעִיר (Śeʿîr)
 “Seir.” The mountainous region where Esau's descendants settled.
 
 v15: אַלּוּף (ʾallûp̄)
