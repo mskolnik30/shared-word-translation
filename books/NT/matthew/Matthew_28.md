@@ -48,19 +48,19 @@ v20: teaching them to keep all that I have commanded you. And look—I am with y
 
 
 ## Notes
-v01: “after the Sabbath… began to dawn” — Matthew frames resurrection as a new beginning: dawn after rest, new creation light breaking in.
+v1: “after the Sabbath… began to dawn” — Matthew frames resurrection as a new beginning: dawn after rest, new creation light breaking in.
 
-v02–03: earthquake / angel / lightning-white — Apocalyptic signs signal God’s decisive action. The stone is rolled away not to let Jesus out, but to let witnesses in.
+v2–3: earthquake / angel / lightning-white — Apocalyptic signs signal God’s decisive action. The stone is rolled away not to let Jesus out, but to let witnesses in.
 
-v04–05: guards “like dead” / women “do not fear” — A reversal: armed power collapses, while vulnerable witnesses are steadied and commissioned.
+v4–5: guards “like dead” / women “do not fear” — A reversal: armed power collapses, while vulnerable witnesses are steadied and commissioned.
 
-v06: “He has been raised… just as he said” — Resurrection is presented as fulfillment of Jesus’ own word; the empty tomb is tied to trust in Jesus’ promise.
+v6: “He has been raised… just as he said” — Resurrection is presented as fulfillment of Jesus’ own word; the empty tomb is tied to trust in Jesus’ promise.
 
-v07: “going ahead… to Galilee” — The mission returns to the place of early discipleship. Galilee suggests renewal, recommissioning, and public ministry rather than private triumph.
+v7: “going ahead… to Galilee” — The mission returns to the place of early discipleship. Galilee suggests renewal, recommissioning, and public ministry rather than private triumph.
 
-v08: “fear and great joy” — The proper emotional mix: awe that unsettles and joy that propels obedience.
+v8: “fear and great joy” — The proper emotional mix: awe that unsettles and joy that propels obedience.
 
-v09: “took hold… worshiped” — Resurrection is embodied and worship-inducing; Jesus receives reverence as the risen Lord.
+v9: “took hold… worshiped” — Resurrection is embodied and worship-inducing; Jesus receives reverence as the risen Lord.
 
 v10: “tell my sisters and brothers” — Reconciliation is implied: those who fled are addressed as family and called back into the story.
 
@@ -80,29 +80,29 @@ v20: “I am with you always” — Matthew ends with presence: Emmanuel fulfill
 
 
 ## Vocabulary
-v01: σάββατον (sabbaton) — Sabbath
+v1: σάββατον (sabbaton) — Sabbath
 
-v01: ἐπιφώσκω (epiphōskō) — to dawn; to grow light
+v1: ἐπιφώσκω (epiphōskō) — to dawn; to grow light
 
-v02: σεισμός (seismos) — earthquake; shaking
+v2: σεισμός (seismos) — earthquake; shaking
 
-v02: ἄγγελος (angelos) — angel; messenger
+v2: ἄγγελος (angelos) — angel; messenger
 
-v02: ἀποκυλίω (apokyliō) — to roll away
+v2: ἀποκυλίω (apokyliō) — to roll away
 
-v03: ἀστραπή (astrapē) — lightning
+v3: ἀστραπή (astrapē) — lightning
 
-v04: σείω (seiō) — to shake; to tremble
+v4: σείω (seiō) — to shake; to tremble
 
-v05: φοβέομαι (phobeomai) — to fear
+v5: φοβέομαι (phobeomai) — to fear
 
-v06: ἐγείρω (egeirō) — to raise up
+v6: ἐγείρω (egeirō) — to raise up
 
-v07: προάγω (proagō) — to go ahead; to precede
+v7: προάγω (proagō) — to go ahead; to precede
 
-v08: χαρά (chara) — joy
+v8: χαρά (chara) — joy
 
-v09: προσκυνέω (proskyneō) — to worship; to bow down
+v9: προσκυνέω (proskyneō) — to worship; to bow down
 
 v11: φυλακή (phylakē) — guard; watch
 
