@@ -213,13 +213,13 @@ v54: lying in wait for him, to catch something from his mouth.
 
 ## Notes
 
-v01–04: Prayer is taught as address (“Father”) and dependence, not technique.
+v1–4: Prayer is taught as address (“Father”) and dependence, not technique.
 
-v03: “Daily bread” frames provision as ongoing reliance.
+v3: “Daily bread” frames provision as ongoing reliance.
 
-v04: Forgiveness is reciprocal but not symmetrical; divine forgiveness grounds human practice.
+v4: Forgiveness is reciprocal but not symmetrical; divine forgiveness grounds human practice.
 
-v08: Persistence functions not as manipulation but as refusal to withdraw.
+v8: Persistence functions not as manipulation but as refusal to withdraw.
 
 v13: The gift climaxes not in provision but in the Holy Spirit.
 
@@ -255,23 +255,23 @@ v53–54: Opposition intensifies into active entrapment.
 
 ## Vocabulary
 
-v02: ἁγιάζω (hagiazō)
+v2: ἁγιάζω (hagiazō)
 
 “To make holy.”
 
-v04: ὀφειλέτης (opheiletēs)
+v4: ὀφειλέτης (opheiletēs)
 
 “Debtor.”
 
-v04: πειρασμός (peirasmos)
+v4: πειρασμός (peirasmos)
 
 “Testing.”
 
-v08: ἀναίδεια (anaideia)
+v8: ἀναίδεια (anaideia)
 
 “Persistence, shameless boldness.”
 
-v09: αἰτέω (aiteō)
+v9: αἰτέω (aiteō)
 
 “To ask.”
 
