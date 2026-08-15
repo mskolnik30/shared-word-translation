@@ -54,15 +54,15 @@ v21: For no prophecy was ever borne by the will of a human being, but human bein
 </p>
 
 ## Notes
-v01: “received a trust equal in honor to ours” — *Pistis* is rendered “trust” in keeping with TSW practice. The equality described is not hierarchical but participatory, grounded “in the righteousness of our God and Savior Jesus Christ.”
+v1: “received a trust equal in honor to ours” — *Pistis* is rendered “trust” in keeping with TSW practice. The equality described is not hierarchical but participatory, grounded “in the righteousness of our God and Savior Jesus Christ.”
 
-v01: “our God and Savior Jesus Christ” — The Greek construction links both titles to Jesus Christ. The phrasing is preserved without expansion.
+v1: “our God and Savior Jesus Christ” — The Greek construction links both titles to Jesus Christ. The phrasing is preserved without expansion.
 
-v04: “sharers in the divine nature” — A striking phrase. The text speaks of participation without explaining mechanism. The language is retained without theological qualification.
+v4: “sharers in the divine nature” — A striking phrase. The text speaks of participation without explaining mechanism. The language is retained without theological qualification.
 
-v05–07: The virtue sequence — The ordered chain is preserved without smoothing. Each term builds upon the previous, suggesting growth rather than replacement.
+v5–7: The virtue sequence — The ordered chain is preserved without smoothing. Each term builds upon the previous, suggesting growth rather than replacement.
 
-v09: “blind, being short-sighted” — The paired terms intensify one another. The repetition is retained rather than reduced.
+v9: “blind, being short-sighted” — The paired terms intensify one another. The repetition is retained rather than reduced.
 
 v10: “confirm your calling and election” — The text exhorts action in relation to divine initiative. The tension between divine election and human diligence is left unresolved.
 
@@ -80,21 +80,21 @@ v21: “carried along by the Holy Spirit” — A dynamic image suggesting divin
 
 
 ## Vocabulary
-v01: πίστις (*pistis*) — trust, faithfulness; relational reliance rather than mere assent.
+v1: πίστις (*pistis*) — trust, faithfulness; relational reliance rather than mere assent.
 
-v01: δικαιοσύνη (*dikaiosynē*) — righteousness; covenantal rightness, justice.
+v1: δικαιοσύνη (*dikaiosynē*) — righteousness; covenantal rightness, justice.
 
-v04: θείας φύσεως (*theias physeōs*) — divine nature; participation language without explanation of mechanism.
+v4: θείας φύσεως (*theias physeōs*) — divine nature; participation language without explanation of mechanism.
 
-v05: ἀρετή (*aretē*) — excellence, virtue; moral strength or noble character.
+v5: ἀρετή (*aretē*) — excellence, virtue; moral strength or noble character.
 
-v06: ἐγκράτεια (*enkrateia*) — self-control; disciplined mastery over desire.
+v6: ἐγκράτεια (*enkrateia*) — self-control; disciplined mastery over desire.
 
-v06: ὑπομονή (*hypomonē*) — steadfastness; enduring perseverance under pressure.
+v6: ὑπομονή (*hypomonē*) — steadfastness; enduring perseverance under pressure.
 
-v07: φιλαδελφία (*philadelphia*) — mutual affection; familial love among siblings.
+v7: φιλαδελφία (*philadelphia*) — mutual affection; familial love among siblings.
 
-v07: ἀγάπη (*agapē*) — love; self-giving, covenantal devotion.
+v7: ἀγάπη (*agapē*) — love; self-giving, covenantal devotion.
 
 v10: ἐκλογή (*eklogē*) — election; divine choosing.
 
