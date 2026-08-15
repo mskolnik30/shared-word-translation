@@ -89,17 +89,17 @@ v29: The one who has an ear, let him hear what the Spirit says to the churches.
 
 ## Notes
 
-v01: Authority is framed spatially (“holds,” “walks”), emphasizing presence among the churches.
+v1: Authority is framed spatially (“holds,” “walks”), emphasizing presence among the churches.
 
-v02–03: Endurance is affirmed without qualification before correction is introduced.
+v2–3: Endurance is affirmed without qualification before correction is introduced.
 
-v04: “Abandoned” signals relational loss rather than doctrinal error.
+v4: “Abandoned” signals relational loss rather than doctrinal error.
 
-v05: Memory, repentance, and action are held together; removal of the lampstand implies loss of witness.
+v5: Memory, repentance, and action are held together; removal of the lampstand implies loss of witness.
 
-v07: Promise imagery (“tree of life”) draws from Genesis without explanation.
+v7: Promise imagery (“tree of life”) draws from Genesis without explanation.
 
-v09: Poverty and richness are contrasted without resolving the tension.
+v9: Poverty and richness are contrasted without resolving the tension.
 
 v10: Suffering is limited (“ten days”) yet not minimized.
 
@@ -127,19 +127,19 @@ v29: The refrain universalizes each message beyond its immediate audience.
 
 ## Vocabulary
 
-v01: ἄγγελος (angelos)
+v1: ἄγγελος (angelos)
 
 “Messenger” or “angel.” May refer to a heavenly being or representative figure.
 
-v04: ἀφίημι (aphiēmi)
+v4: ἀφίημι (aphiēmi)
 
 “To leave” or “abandon.” Indicates relinquishing rather than sudden loss.
 
-v07: νικάω (nikaō)
+v7: νικάω (nikaō)
 
 “To conquer.” Implies endurance and faithful persistence rather than domination.
 
-v09: θλῖψις (thlipsis)
+v9: θλῖψις (thlipsis)
 
 “Affliction.” Pressure or distress, often external and sustained.
 
