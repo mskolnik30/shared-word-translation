@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## A Prayer for Vindication
 
 <p>
@@ -109,17 +108,17 @@ when I awake, I shall be satisfied with your likeness.
 
 ## Notes
 
-v01–02: The appeal rests on integrity; “just cause” frames the prayer as a legal plea before God.
+v1–2: The appeal rests on integrity; “just cause” frames the prayer as a legal plea before God.
 
-v03: Testing imagery (trial, night visitation) presents examined character rather than claimed innocence.
+v3: Testing imagery (trial, night visitation) presents examined character rather than claimed innocence.
 
-v04: “Word of your lips” functions as guard—divine speech shapes ethical restraint.
+v4: “Word of your lips” functions as guard—divine speech shapes ethical restraint.
 
-v05: Stability language (held fast, not slipped) mirrors covenantal fidelity.
+v5: Stability language (held fast, not slipped) mirrors covenantal fidelity.
 
-v07: “Steadfast love” (ḥesed) appears as active rescue; God’s right hand signals power and protection.
+v7: “Steadfast love” (ḥesed) appears as active rescue; God’s right hand signals power and protection.
 
-v08: Dual imagery—eye and wings—combines intimacy and shelter.
+v8: Dual imagery—eye and wings—combines intimacy and shelter.
 
 v10–12: The enemy is characterized by hardness, arrogance, and predatory intent; lion imagery intensifies threat.
 
@@ -129,43 +128,43 @@ v15: Final hope is not material but relational—seeing God’s face and bearing
 
 ## Vocabulary
 
-v01: צֶדֶק (ṣedeq)  
+v1: צֶדֶק (ṣedeq)  
 
 “Righteousness/justice.” Conformity to right order.
 
-v01: רִנָּה (rinnāh)  
+v1: רִנָּה (rinnāh)  
 
 “Cry.” A ringing plea or shout.
 
-v02: מִשְׁפָּט (mišpāṭ)  
+v2: מִשְׁפָּט (mišpāṭ)  
 
 “Judgment.” Legal decision or vindication.
 
-v03: בָּחַן (bāḥan)  
+v3: בָּחַן (bāḥan)  
 
 “To test.” To examine for integrity.
 
-v03: פָּקַד (pāqaḏ)  
+v3: פָּקַד (pāqaḏ)  
 
 “To visit.” To attend, often for inspection.
 
-v04: פָּרִיץ (pārîṣ)  
+v4: פָּרִיץ (pārîṣ)  
 
 “Violent.” One who breaks through or oppresses.
 
-v05: תָּמַךְ (tāmaḵ)  
+v5: תָּמַךְ (tāmaḵ)  
 
 “To hold fast.” To support, sustain.
 
-v07: חֶסֶד (ḥeseḏ)  
+v7: חֶסֶד (ḥeseḏ)  
 
 “Steadfast love.” Loyal, covenantal love.
 
-v08: אִישׁוֹן (ʾîšôn)  
+v8: אִישׁוֹן (ʾîšôn)  
 
 “Pupil (of the eye).” Center of sight, object of care.
 
-v08: צֵל (ṣēl)  
+v8: צֵל (ṣēl)  
 
 “Shadow.” Protective covering.
 
