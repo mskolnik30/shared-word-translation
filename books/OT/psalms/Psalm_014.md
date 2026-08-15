@@ -57,26 +57,26 @@ v5–6: God’s presence distinguishes the righteous despite oppression.
 v7: Final hope is communal restoration.
 
 ## Vocabulary
-v01: נָבָל (naval)  
+v1: נָבָל (naval)  
 “Fool.” Morally deficient.
 
-v01: שָׁחַת (shachat)  
+v1: שָׁחַת (shachat)  
 “To corrupt.” Ruin.
 
-v02: שָׂכַל (sakal)  
+v2: שָׂכַל (sakal)  
 “To understand.” Act wisely.
 
-v03: סוּר (sur)  
+v3: סוּר (sur)  
 “To turn aside.” Deviate.
 
-v04: יָדַע (yada‘)  
+v4: יָדַע (yada‘)  
 “To know.” Recognize.
 
-v05: פַּחַד (pachad)  
+v5: פַּחַד (pachad)  
 “Terror.” Fear.
 
-v06: חָסָה (chasah)  
+v6: חָסָה (chasah)  
 “To take refuge.” Seek shelter.
 
-v07: יְשׁוּעָה (yeshuah)  
+v7: יְשׁוּעָה (yeshuah)  
 “Salvation.” Deliverance.
