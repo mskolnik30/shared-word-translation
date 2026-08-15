@@ -53,7 +53,7 @@ v18: But you shall remember the LORD your God, for it is he who gives you power 
 
 ## Notes
 
-v07–09: The land is described in abundance and diversity—water, agriculture, and mineral wealth. Provision replaces wilderness scarcity.
+v7–9: The land is described in abundance and diversity—water, agriculture, and mineral wealth. Provision replaces wilderness scarcity.
 
 v10: Satisfaction leads to blessing; gratitude is the proper response to fullness.
 
@@ -71,23 +71,23 @@ v18: Memory restores truth—capacity itself is a gift. Wealth is tied to covena
 
 ## Vocabulary
 
-v07: אֶרֶץ (ʾereṣ)  
+v7: אֶרֶץ (ʾereṣ)  
 
 “Land.” Territory of promise and provision.
 
-v07: נַחַל (naḥal)  
+v7: נַחַל (naḥal)  
 
 “Brook/stream.” Flowing water in a valley.
 
-v08: גֶּפֶן (gepen)  
+v8: גֶּפֶן (gepen)  
 
 “Vine.” Source of grapes and wine.
 
-v08: רִמּוֹן (rimmôn)  
+v8: רִמּוֹן (rimmôn)  
 
 “Pomegranate.” Symbol of fertility and abundance.
 
-v09: חָסֵר (ḥāsēr)  
+v9: חָסֵר (ḥāsēr)  
 
 “To lack.” To be in need.
 
