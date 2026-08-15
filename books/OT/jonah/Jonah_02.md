@@ -56,55 +56,55 @@ v10: Then the LORD spoke to the fish, and it vomited Jonah out upon the dry land
 </p>
 
 ## Notes
-v01: Jonah's prayer comes after his descent into the sea and confinement within the fish.
-v02: The prayer describes Jonah's experience as a descent toward death while affirming that God heard him.
-v02: “The belly of Sheol” is poetic language portraying extreme peril and nearness to death.
-v03: Jonah acknowledges that the storm and his plunge into the sea ultimately came under God's sovereign direction.
-v04: Though feeling cast away, Jonah expresses hope that he will again worship before God.
-v05–06: The imagery depicts complete helplessness, surrounded by the forces of death and chaos.
-v06: Jonah's descent reaches its lowest point before God reverses it and brings up his life.
-v07: Remembering the LORD becomes the turning point of the prayer.
-v08: Jonah contrasts trust in the LORD with devotion to idols.
-v09: Thanksgiving and sacrifice are presented as fitting responses to divine deliverance.
-v09: “Salvation belongs to the LORD” expresses the theological center of the book.
+v1: Jonah's prayer comes after his descent into the sea and confinement within the fish.
+v2: The prayer describes Jonah's experience as a descent toward death while affirming that God heard him.
+v2: “The belly of Sheol” is poetic language portraying extreme peril and nearness to death.
+v3: Jonah acknowledges that the storm and his plunge into the sea ultimately came under God's sovereign direction.
+v4: Though feeling cast away, Jonah expresses hope that he will again worship before God.
+v5–6: The imagery depicts complete helplessness, surrounded by the forces of death and chaos.
+v6: Jonah's descent reaches its lowest point before God reverses it and brings up his life.
+v7: Remembering the LORD becomes the turning point of the prayer.
+v8: Jonah contrasts trust in the LORD with devotion to idols.
+v9: Thanksgiving and sacrifice are presented as fitting responses to divine deliverance.
+v9: “Salvation belongs to the LORD” expresses the theological center of the book.
 v10: The fish acts in obedience to God's command, in contrast to Jonah's earlier disobedience.
 v10: Jonah's deliverance prepares him for a renewed commission in the following chapter.
 
 ## Vocabulary
-v01: תְּפִלָּה (tĕpillâ)
+v1: תְּפִלָּה (tĕpillâ)
 “Prayer.” A spoken appeal directed to God.
 
-v02: צָרָה (ṣārâ)
+v2: צָרָה (ṣārâ)
 “Distress” or “trouble.” Severe hardship or affliction.
 
-v02: שְׁאוֹל (Šĕʾôl)
+v2: שְׁאוֹל (Šĕʾôl)
 “Sheol.” The realm of the dead, often associated with death and destruction.
 
-v03: מְצוּלָה (mĕṣûlâ)
+v3: מְצוּלָה (mĕṣûlâ)
 “The deep.” The depths of the sea.
 
-v03: מִשְׁבָּר (mišbār)
+v3: מִשְׁבָּר (mišbār)
 “Breaker” or “wave.” A powerful surge of water.
 
-v04: הֵיכַל קָדְשֶׁךָ (hêḵal qodšeḵā)
+v4: הֵיכַל קָדְשֶׁךָ (hêḵal qodšeḵā)
 “Your holy temple.” The place associated with God's presence and worship.
 
-v06: שַׁחַת (šaḥaṯ)
+v6: שַׁחַת (šaḥaṯ)
 “Pit.” A term often associated with destruction, death, or the grave.
 
-v07: זָכַר (zāḵar)
+v7: זָכַר (zāḵar)
 “To remember.” To call to mind and turn one's attention toward.
 
-v08: הֶבֶל (heḇel)
+v8: הֶבֶל (heḇel)
 “Vanity” or “worthlessness.” Something empty, futile, or powerless.
 
-v08: חֶסֶד (ḥeseḏ)
+v8: חֶסֶד (ḥeseḏ)
 “Covenant loyalty” or “steadfast love.” Faithful devotion within a covenant relationship.
 
-v09: נֶדֶר (neder)
+v9: נֶדֶר (neder)
 “Vow.” A solemn promise made before God.
 
-v09: יְשׁוּעָה (yĕšûʿâ)
+v9: יְשׁוּעָה (yĕšûʿâ)
 “Salvation” or “deliverance.” Rescue that comes from God.
 
 v10: קִיא (qîʾ)
