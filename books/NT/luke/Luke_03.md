@@ -131,21 +131,21 @@ v38: of Enos, of Seth, of Adam, of God.
 
 ## Notes
 
-v01–02: Luke locates John’s ministry within imperial, regional, and priestly authority, but the decisive event is that “the word of God came” in the wilderness.
+v1–2: Luke locates John’s ministry within imperial, regional, and priestly authority, but the decisive event is that “the word of God came” in the wilderness.
 
-v02: John’s prophetic vocation is framed by divine initiative rather than institutional appointment.
+v2: John’s prophetic vocation is framed by divine initiative rather than institutional appointment.
 
-v03: Baptism, repentance, and forgiveness are held together as a public summons to reorientation.
+v3: Baptism, repentance, and forgiveness are held together as a public summons to reorientation.
 
-v04–06: Isaiah’s wilderness imagery presents preparation for the Lord as cosmic leveling and universal disclosure.
+v4–6: Isaiah’s wilderness imagery presents preparation for the Lord as cosmic leveling and universal disclosure.
 
-v06: “All flesh” widens the horizon beyond Israel without detaching salvation from Israel’s scriptures.
+v6: “All flesh” widens the horizon beyond Israel without detaching salvation from Israel’s scriptures.
 
-v07: John’s address to the crowds is severe; baptism does not exempt them from judgment.
+v7: John’s address to the crowds is severe; baptism does not exempt them from judgment.
 
-v08: Ancestry from Abraham is not denied, but it cannot replace repentance.
+v8: Ancestry from Abraham is not denied, but it cannot replace repentance.
 
-v09: The axe imagery makes judgment immediate and agricultural: root, fruit, tree, fire.
+v9: The axe imagery makes judgment immediate and agricultural: root, fruit, tree, fire.
 
 v10–14: Repentance is translated into concrete economic and social practices, not merely inward remorse.
 
@@ -171,47 +171,47 @@ v23–38: The genealogy moves backward from Jesus to Adam and God, emphasizing u
 
 ## Vocabulary
 
-v02: ῥῆμα θεοῦ (rhēma theou)
+v2: ῥῆμα θεοῦ (rhēma theou)
 
 “Word of God.” Divine speech that initiates prophetic mission.
 
-v03: βάπτισμα (baptisma)
+v3: βάπτισμα (baptisma)
 
 “Baptism.” A ritual washing associated here with repentance and forgiveness.
 
-v03: μετάνοια (metanoia)
+v3: μετάνοια (metanoia)
 
 “Repentance.” A change of mind, direction, and life.
 
-v03: ἄφεσις (aphesis)
+v3: ἄφεσις (aphesis)
 
 “Forgiveness, release.” Liberation from sins as debt, bondage, or offense.
 
-v04: ἔρημος (erēmos)
+v4: ἔρημος (erēmos)
 
 “Wilderness.” Place of desolation, testing, and divine summons.
 
-v04: ἑτοιμάζω (hetoimazō)
+v4: ἑτοιμάζω (hetoimazō)
 
 “To prepare.” To make ready for the Lord’s coming.
 
-v06: σωτήριον (sōtērion)
+v6: σωτήριον (sōtērion)
 
 “Salvation.” God’s saving act or deliverance made visible.
 
-v07: γεννήματα ἐχιδνῶν (gennēmata echidnōn)
+v7: γεννήματα ἐχιδνῶν (gennēmata echidnōn)
 
 “Offspring of vipers.” A severe prophetic indictment.
 
-v08: καρπός (karpos)
+v8: καρπός (karpos)
 
 “Fruit.” Visible outcome or evidence of repentance.
 
-v08: ἄξιος (axios)
+v8: ἄξιος (axios)
 
 “Worthy, fitting.” Corresponding appropriately to repentance.
 
-v09: ἀξίνη (axinē)
+v9: ἀξίνη (axinē)
 
 “Axe.” Image of imminent judgment at the root.
 
