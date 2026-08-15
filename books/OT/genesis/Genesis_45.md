@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Joseph Reveals Himself
 
 <p>
@@ -103,17 +102,17 @@ v28: And Israel said, “It is enough; Joseph my son is still alive. I will go a
 
 ## Notes
 
-v01: Joseph’s restraint collapses—revelation requires privacy and vulnerability.  
+v1: Joseph’s restraint collapses—revelation requires privacy and vulnerability.  
 
-v03: “I am Joseph” is both identity disclosure and narrative reversal.  
+v3: “I am Joseph” is both identity disclosure and narrative reversal.  
 
-v05–08: Joseph reframes human betrayal within divine purpose, asserting providence without denying agency.  
+v5–8: Joseph reframes human betrayal within divine purpose, asserting providence without denying agency.  
 
-v07: “Remnant” language anticipates preservation theology central to later biblical tradition.  
+v7: “Remnant” language anticipates preservation theology central to later biblical tradition.  
 
-v08: Joseph’s status is described relationally (“father to Pharaoh”), indicating advisory authority.  
+v8: Joseph’s status is described relationally (“father to Pharaoh”), indicating advisory authority.  
 
-v09–11: The movement toward Goshen consolidates family identity within Egypt.  
+v9–11: The movement toward Goshen consolidates family identity within Egypt.  
 
 v14–15: Physical reconciliation (embrace, tears) precedes restored speech.  
 
@@ -129,27 +128,27 @@ v28: The naming “Israel” marks renewed identity and forward movement.
 
 ## Vocabulary
 
-v01: אָפַק (ʾāpaq)  
+v1: אָפַק (ʾāpaq)  
 
 “To restrain oneself.” To hold back emotion or action.  
 
-v03: בָּהַל (bāhal)  
+v3: בָּהַל (bāhal)  
 
 “To be dismayed.” Overwhelmed with fear or shock.  
 
-v05: שָׁלַח (šālaḥ)  
+v5: שָׁלַח (šālaḥ)  
 
 “To send.” Commissioning with purpose.  
 
-v06: רָעָב (rāʿāḇ)  
+v6: רָעָב (rāʿāḇ)  
 
 “Famine.” Severe lack of food affecting survival.  
 
-v07: שְׁאֵרִית (šᵉʾērîṯ)  
+v7: שְׁאֵרִית (šᵉʾērîṯ)  
 
 “Remnant.” Survivors preserved through crisis.  
 
-v08: אָב (ʾāḇ)  
+v8: אָב (ʾāḇ)  
 
 “Father.” Here metaphorically, a source of counsel or authority.  
 
