@@ -104,14 +104,14 @@ upon the mountains of spices.
 </p>
 
 ## Notes
-v01–02: The bride expresses a desire for unrestricted public affection free from social restraint.
-v03–04: The familiar refrain again emphasizes the proper timing and awakening of love.
-v05: The image of the couple emerging from the wilderness recalls themes of journey, growth, and union.
-v06: The seal symbolizes permanent ownership, commitment, and belonging.
-v06: Love is compared to death because of its power, permanence, and inevitability.
-v06: The phrase “the very flame of the LORD” is one of the most striking references to divine fire in the book.
-v07: True love cannot be extinguished, purchased, or replaced by wealth.
-v08–09: The brothers discuss protecting and preparing their younger sister for future marriage.
+v1–2: The bride expresses a desire for unrestricted public affection free from social restraint.
+v3–4: The familiar refrain again emphasizes the proper timing and awakening of love.
+v5: The image of the couple emerging from the wilderness recalls themes of journey, growth, and union.
+v6: The seal symbolizes permanent ownership, commitment, and belonging.
+v6: Love is compared to death because of its power, permanence, and inevitability.
+v6: The phrase “the very flame of the LORD” is one of the most striking references to divine fire in the book.
+v7: True love cannot be extinguished, purchased, or replaced by wealth.
+v8–9: The brothers discuss protecting and preparing their younger sister for future marriage.
 v10: The bride declares her maturity and readiness, affirming her faithfulness and stability.
 v10: “Peace” echoes the Hebrew concept of shalom—wholeness, harmony, and fulfillment.
 v11–12: The vineyard imagery returns as a symbol of personal devotion, affection, and self-giving.
@@ -120,31 +120,31 @@ v13–14: The book concludes with longing rather than final closure, preserving 
 v14: The final image echoes earlier gazelle imagery and leaves the song moving forward rather than ending in stillness.
 
 ## Vocabulary
-v01: אָח (ʾāḥ)
+v1: אָח (ʾāḥ)
 “Brother.” A close family relation whose public affection would not be questioned.
 
-v02: רֶקַח (reqaḥ)
+v2: רֶקַח (reqaḥ)
 “Spiced wine.” Wine mixed with aromatic ingredients.
 
-v04: אַהֲבָה (ʾahăḇâ)
+v4: אַהֲבָה (ʾahăḇâ)
 “Love.” Deep affection, desire, and devotion.
 
-v05: תָּפֻּחַ (tappûaḥ)
+v5: תָּפֻּחַ (tappûaḥ)
 “Apple tree.” A symbol of delight, fruitfulness, and affection.
 
-v06: חוֹתָם (ḥôṯām)
+v6: חוֹתָם (ḥôṯām)
 “Seal.” A mark of ownership, identity, and permanence.
 
-v06: קִנְאָה (qinʾâ)
+v6: קִנְאָה (qinʾâ)
 “Jealousy” or “zeal.” Passionate and exclusive devotion.
 
-v06: שְׁאוֹל (šĕʾôl)
+v6: שְׁאוֹל (šĕʾôl)
 “Sheol.” The realm of the dead, often representing irresistible power.
 
-v07: מַיִם רַבִּים (mayim rabbîm)
+v7: מַיִם רַבִּים (mayim rabbîm)
 “Many waters.” A figure for overwhelming forces or circumstances.
 
-v09: טִירָה (ṭîrâ)
+v9: טִירָה (ṭîrâ)
 “Battlement.” A fortified structure built upon a wall.
 
 v10: שָׁלוֹם (šālôm)
