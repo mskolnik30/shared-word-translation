@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## A New Heaven and a New Earth
 
 <p>
@@ -75,27 +74,27 @@ v27: But nothing unclean will ever enter it, nor anyone who does what is detesta
 
 ## Notes
 
-v01: The new creation replaces the former; continuity is not explained.
+v1: The new creation replaces the former; continuity is not explained.
 
-v01: The absence of the sea signals removal of prior instability.
+v1: The absence of the sea signals removal of prior instability.
 
-v02: The city is described relationally (“as a bride”), not structurally alone.
+v2: The city is described relationally (“as a bride”), not structurally alone.
 
-v03: Dwelling is mutual; presence defines relationship.
+v3: Dwelling is mutual; presence defines relationship.
 
-v04: Suffering is removed through negation rather than transformation described.
+v4: Suffering is removed through negation rather than transformation described.
 
-v05: Renewal is declared ongoing (“making”), not only completed.
+v5: Renewal is declared ongoing (“making”), not only completed.
 
-v06: “It is done” parallels earlier declarations without repetition of context.
+v6: “It is done” parallels earlier declarations without repetition of context.
 
-v06: Gift is given without cost; qualification is not specified.
+v6: Gift is given without cost; qualification is not specified.
 
-v07: Relationship is expressed in covenantal terms.
+v7: Relationship is expressed in covenantal terms.
 
-v08: Exclusion is listed without gradation; outcome is shared.
+v8: Exclusion is listed without gradation; outcome is shared.
 
-v09–10: The bride and city are identified without separation.
+v9–10: The bride and city are identified without separation.
 
 v11: Radiance is described comparatively, not defined.
 
@@ -115,31 +114,31 @@ v27: Entry is restricted by identity, not access alone.
 
 ## Vocabulary
 
-v01: καινός (kainos)
+v1: καινός (kainos)
 
 “New.” New in kind, not merely in time.
 
-v02: πόλις (polis)
+v2: πόλις (polis)
 
 “City.” Organized dwelling and center of life.
 
-v03: σκηνή (skēnē)
+v3: σκηνή (skēnē)
 
 “Dwelling.” Place of presence.
 
-v04: δάκρυον (dakryon)
+v4: δάκρυον (dakryon)
 
 “Tear.” Expression of suffering, removed here.
 
-v06: πηγή (pēgē)
+v6: πηγή (pēgē)
 
 “Spring.” Source of water.
 
-v07: κληρονομέω (klēronomeō)
+v7: κληρονομέω (klēronomeō)
 
 “To inherit.” To receive as possession.
 
-v08: λίμνη τοῦ πυρός (limnē tou pyros)
+v8: λίμνη τοῦ πυρός (limnē tou pyros)
 
 “Lake of fire.” Final place of judgment.
 
