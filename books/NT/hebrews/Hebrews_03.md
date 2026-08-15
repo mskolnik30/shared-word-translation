@@ -73,23 +73,23 @@ v19: So we see that they were unable to enter because of unbelief.
 
 ## Notes
 
-v01: Identity is communal and participatory.
+v1: Identity is communal and participatory.
 
-v01: Jesus is described through dual roles without explanation.
+v1: Jesus is described through dual roles without explanation.
 
-v02–06: Comparison with Moses establishes continuity and distinction.
+v2–6: Comparison with Moses establishes continuity and distinction.
 
-v03: Value is measured relationally, not absolutely.
+v3: Value is measured relationally, not absolutely.
 
-v05–06: Servant and son are contrasted in function.
+v5–6: Servant and son are contrasted in function.
 
-v06: Participation is conditional, not assumed.
+v6: Participation is conditional, not assumed.
 
-v07–11: Citation is authoritative and present.
+v7–11: Citation is authoritative and present.
 
-v08: Hardening is internal, not imposed.
+v8: Hardening is internal, not imposed.
 
-v09–10: Experience does not guarantee understanding.
+v9–10: Experience does not guarantee understanding.
 
 v11: Exclusion is declared without mitigation.
 
@@ -107,35 +107,35 @@ v19: Unbelief is identified as the root condition.
 
 ## Vocabulary
 
-v01: κλῆσις (klēsis)
+v1: κλῆσις (klēsis)
 
 “Calling.” Invitation or summons.
 
-v01: ἀπόστολος (apostolos)
+v1: ἀπόστολος (apostolos)
 
 “Apostle.” One sent.
 
-v01: ἀρχιερεύς (archiereus)
+v1: ἀρχιερεύς (archiereus)
 
 “High priest.” Chief mediator.
 
-v03: δόξα (doxa)
+v3: δόξα (doxa)
 
 “Glory.” Honor or weight.
 
-v05: θεράπων (therapōn)
+v5: θεράπων (therapōn)
 
 “Servant.” One who attends.
 
-v06: παρρησία (parrēsia)
+v6: παρρησία (parrēsia)
 
 “Confidence.” Boldness or openness.
 
-v07: σήμερον (sēmeron)
+v7: σήμερον (sēmeron)
 
 “Today.” Present time.
 
-v08: σκληρύνω (sklērynō)
+v8: σκληρύνω (sklērynō)
 
 “To harden.” To make resistant.
 
