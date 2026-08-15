@@ -56,47 +56,47 @@ v9: The barren woman motif reflects transformation of absence into fullness. The
 v9: The psalm closes as it began—with praise—framing the entire movement as response.
 
 ## Vocabulary
-v01: הָלַל (halal)
+v1: הָלַל (halal)
 “To praise.” Often used in imperative form in liturgical contexts.
 
-v01: שֵׁם (shem)
+v1: שֵׁם (shem)
 “Name.” Represents identity, presence, and reputation.
 
-v02: בָּרַךְ (barakh)
+v2: בָּרַךְ (barakh)
 “To bless.” To speak well of or honor.
 
-v03: מִזְרָח (mizrach)
+v3: מִזְרָח (mizrach)
 “Rising.” The place of sunrise.
 
-v03: מָבוֹא (mavoʾ)
+v3: מָבוֹא (mavoʾ)
 “Setting” or “going in.” Refers to sunset.
 
-v04: רוּם (rum)
+v4: רוּם (rum)
 “To be high” or “to be exalted.”
 
-v04: כָּבוֹד (kavod)
+v4: כָּבוֹד (kavod)
 “Glory.” Weight, honor, or visible majesty.
 
-v05: יָשַׁב (yashav)
+v5: יָשַׁב (yashav)
 “To sit” or “to dwell.” Often used for enthronement.
 
-v06: שָׁפֵל (shafel)
+v6: שָׁפֵל (shafel)
 “To be low.” Here in contrast with divine height.
 
-v07: דַּל (dal)
+v7: דַּל (dal)
 “Poor.” One of low status or means.
 
-v07: אֶבְיוֹן (ʾevyon)
+v7: אֶבְיוֹן (ʾevyon)
 “Needy.” One dependent or lacking resources.
 
-v07: אֲפָר (ʿafar)
+v7: אֲפָר (ʿafar)
 “Dust.” Symbol of lowliness or mortality.
 
-v07: אַשְׁפֹּת (ʾashpot)
+v7: אַשְׁפֹּת (ʾashpot)
 “Ash heap.” Place of refuse, symbolizing humiliation.
 
-v09: עָקָר (ʿaqar)
+v9: עָקָר (ʿaqar)
 “Barren.” Unable to bear children.
 
-v09: שָׂמַח (samach)
+v9: שָׂמַח (samach)
 “To rejoice.” Expression of joy or gladness.
