@@ -175,11 +175,11 @@ and the one who believes in him will not be put to shame.”
 
 ## Notes
 
-v01–03: Paul expresses covenantal anguish for Israel.
+v1–3: Paul expresses covenantal anguish for Israel.
 
-v04–05: Israel’s privileges highlight theological tension.
+v4–5: Israel’s privileges highlight theological tension.
 
-v06–08: True Israel is defined by promise, not descent.
+v6–8: True Israel is defined by promise, not descent.
 
 v11–13: Election is grounded in divine purpose, not works.
 
@@ -195,23 +195,23 @@ v30–33: Faith, not works, determines righteousness.
 
 ## Vocabulary
 
-v01: συνείδησις (syneidēsis)
+v1: συνείδησις (syneidēsis)
 
 “Conscience.”
 
-v03: ἀνάθεμα (anathema)
+v3: ἀνάθεμα (anathema)
 
 “Accursed.”
 
-v04: υἱοθεσία (huiothesia)
+v4: υἱοθεσία (huiothesia)
 
 “Adoption.”
 
-v06: ἐκπίπτω (ekpiptō)
+v6: ἐκπίπτω (ekpiptō)
 
 “To fail.”
 
-v08: ἐπαγγελία (epangelia)
+v8: ἐπαγγελία (epangelia)
 
 “Promise.”
 
