@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Parable of the Sower
 
 <p>
@@ -223,7 +222,7 @@ v58: And he did not do many mighty works there, because of their unbelief.
 
 ## Notes
 
-v03–09: The sower parable centers not on seed but reception; variability lies in response.  
+v3–9: The sower parable centers not on seed but reception; variability lies in response.  
 
 v11: “Mysteries” indicates revealed realities, not hidden puzzles.  
 
@@ -253,7 +252,7 @@ v57–58: Familiarity obstructs recognition; unbelief limits reception, not powe
 
 ## Vocabulary
 
-v03: παραβολή (*parabolē*) — “Parable.” Comparison that reveals and conceals.  
+v3: παραβολή (*parabolē*) — “Parable.” Comparison that reveals and conceals.  
 
 v11: μυστήρια (*mystēria*) — “Mysteries.” Revealed divine realities.  
 
