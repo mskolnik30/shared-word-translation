@@ -163,11 +163,11 @@ v35: he said, “I will hear you fully when your accusers also arrive.” And he
 
 ## Notes
 
-v01: Conscience is presented as foundational to conduct.
+v1: Conscience is presented as foundational to conduct.
 
-v02–05: Conflict highlights tension between law and authority.
+v2–5: Conflict highlights tension between law and authority.
 
-v06–09: Resurrection becomes the dividing issue.
+v6–9: Resurrection becomes the dividing issue.
 
 v10: Roman intervention preserves order.
 
@@ -185,27 +185,27 @@ v34–35: Legal process is deferred pending formal accusation.
 
 ## Vocabulary
 
-v01: συνείδησις (syneidēsis)
+v1: συνείδησις (syneidēsis)
 
 “Conscience.”
 
-v03: κονιάω (koniaō)
+v3: κονιάω (koniaō)
 
 “To whitewash.”
 
-v06: ἀνάστασις (anastasis)
+v6: ἀνάστασις (anastasis)
 
 “Resurrection.”
 
-v07: στάσις (stasis)
+v7: στάσις (stasis)
 
 “Dissension.”
 
-v08: Σαδδουκαῖος (Saddoukaios)
+v8: Σαδδουκαῖος (Saddoukaios)
 
 “Sadducee.”
 
-v08: Φαρισαῖος (Pharisaios)
+v8: Φαρισαῖος (Pharisaios)
 
 “Pharisee.”
 
