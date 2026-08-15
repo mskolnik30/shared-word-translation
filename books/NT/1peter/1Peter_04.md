@@ -158,5 +158,3 @@ v19: παρατίθημι (paratithēmi) — to entrust; to commit for safekeepi
 v19: κτίστης (ktistēs) — Creator
 
 
-
-
