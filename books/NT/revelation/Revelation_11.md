@@ -79,23 +79,23 @@ v19: Then God’s temple in heaven was opened, and the ark of his covenant was s
 
 ## Notes
 
-v01: Measuring marks distinction; inclusion and exclusion are both intentional.
+v1: Measuring marks distinction; inclusion and exclusion are both intentional.
 
-v02: The outer court is relinquished, not overlooked.
+v2: The outer court is relinquished, not overlooked.
 
-v02–03: Time is expressed in differing forms (months, days) without harmonization.
+v2–3: Time is expressed in differing forms (months, days) without harmonization.
 
-v04: Symbolic identification is given without explanation.
+v4: Symbolic identification is given without explanation.
 
-v05: Speech functions as instrument of judgment.
+v5: Speech functions as instrument of judgment.
 
-v06: Authority is patterned after earlier prophetic acts without explicit reference.
+v6: Authority is patterned after earlier prophetic acts without explicit reference.
 
-v07: The beast emerges only when testimony is complete.
+v7: The beast emerges only when testimony is complete.
 
-v08: The city is named symbolically; multiple identities are layered.
+v8: The city is named symbolically; multiple identities are layered.
 
-v09–10: Public exposure replaces burial; reaction is communal and inverted.
+v9–10: Public exposure replaces burial; reaction is communal and inverted.
 
 v11: Life is restored without process; origin is attributed directly to God.
 
@@ -115,31 +115,31 @@ v19: The temple is opened; what was hidden is now seen.
 
 ## Vocabulary
 
-v01: κάλαμος (kalamos)
+v1: κάλαμος (kalamos)
 
 “Measuring rod.” Instrument for assessment or delineation.
 
-v02: ἔθνη (ethnē)
+v2: ἔθνη (ethnē)
 
 “Nations.” Peoples outside defined covenant identity.
 
-v03: μάρτυς (martys)
+v3: μάρτυς (martys)
 
 “Witness.” One who testifies, often at cost.
 
-v04: ἐλαία (elaia)
+v4: ἐλαία (elaia)
 
 “Olive tree.” Symbol associated with provision or anointing.
 
-v06: ἐξουσία (exousia)
+v6: ἐξουσία (exousia)
 
 “Authority.” Delegated power to act.
 
-v07: θηρίον (thērion)
+v7: θηρίον (thērion)
 
 “Beast.” A figure of opposition, not defined here.
 
-v08: πνευματικῶς (pneumatikōs)
+v8: πνευματικῶς (pneumatikōs)
 
 “Symbolically” or “spiritually.” Indicates layered meaning.
 
