@@ -57,27 +57,27 @@ v13: The children of your elect sister greet you.
 
 ## Notes
 
-v01: “The elder” remains unnamed; authority is relational rather than formal.
+v1: “The elder” remains unnamed; authority is relational rather than formal.
 
-v01: “Elect lady” is not clarified; identity remains open.
+v1: “Elect lady” is not clarified; identity remains open.
 
-v02: Truth is described as abiding, not merely known.
+v2: Truth is described as abiding, not merely known.
 
-v03: Blessing is framed as ongoing presence (“will be with us”).
+v3: Blessing is framed as ongoing presence (“will be with us”).
 
-v04: Walking is used to describe lived conduct.
+v4: Walking is used to describe lived conduct.
 
-v05: The command is not new; continuity is emphasized.
+v5: The command is not new; continuity is emphasized.
 
-v06: Love is defined through action rather than feeling.
+v6: Love is defined through action rather than feeling.
 
-v07: Deception is doctrinal and relational.
+v7: Deception is doctrinal and relational.
 
-v07: “Antichrist” is applied functionally, not exclusively.
+v7: “Antichrist” is applied functionally, not exclusively.
 
-v08: Loss is possible; vigilance is required.
+v8: Loss is possible; vigilance is required.
 
-v09: Abiding determines relationship with God.
+v9: Abiding determines relationship with God.
 
 v10–11: Association is treated as participation.
 
@@ -87,43 +87,43 @@ v13: The closing maintains relational connection without expansion.
 
 ## Vocabulary
 
-v01: ἐκλεκτός (eklektos)
+v1: ἐκλεκτός (eklektos)
 
 “Chosen” or “elect.” One set apart.
 
-v01: ἀλήθεια (alētheia)
+v1: ἀλήθεια (alētheia)
 
 “Truth.” Reality expressed and lived.
 
-v02: μένω (menō)
+v2: μένω (menō)
 
 “To abide.” To remain or continue.
 
-v03: χάρις (charis)
+v3: χάρις (charis)
 
 “Grace.” Favor given freely.
 
-v04: περιπατέω (peripateō)
+v4: περιπατέω (peripateō)
 
 “To walk.” To live or conduct oneself.
 
-v05: ἐντολή (entolē)
+v5: ἐντολή (entolē)
 
 “Commandment.” Instruction to be followed.
 
-v07: πλάνος (planos)
+v7: πλάνος (planos)
 
 “Deceiver.” One who leads astray.
 
-v07: ἀντίχριστος (antichristos)
+v7: ἀντίχριστος (antichristos)
 
 “Antichrist.” One opposed to Christ.
 
-v08: μισθός (misthos)
+v8: μισθός (misthos)
 
 “Reward.” What is received for work.
 
-v09: διδαχή (didachē)
+v9: διδαχή (didachē)
 
 “Teaching.” Instruction or doctrine.
 
