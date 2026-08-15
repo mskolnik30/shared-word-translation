@@ -65,25 +65,25 @@ v14: And the four living creatures said, “Amen!” and the elders fell down an
 
 ## Notes
 
-v01: The scroll is fully written (“within and on the back”), suggesting completeness rather than partial disclosure.
+v1: The scroll is fully written (“within and on the back”), suggesting completeness rather than partial disclosure.
 
-v02: Worthiness is posed as a question before it is identified, creating tension.
+v2: Worthiness is posed as a question before it is identified, creating tension.
 
-v03: The scope (“heaven…earth…under the earth”) emphasizes total inability.
+v3: The scope (“heaven…earth…under the earth”) emphasizes total inability.
 
-v04: Weeping signals the weight of withheld revelation.
+v4: Weeping signals the weight of withheld revelation.
 
-v05: Titles (“Lion,” “Root”) are declared before being visually reframed.
+v5: Titles (“Lion,” “Root”) are declared before being visually reframed.
 
-v06: The expected Lion appears as a slain Lamb; imagery is juxtaposed rather than resolved.
+v6: The expected Lion appears as a slain Lamb; imagery is juxtaposed rather than resolved.
 
-v06: “Seven horns” and “seven eyes” combine power and perception symbolically.
+v6: “Seven horns” and “seven eyes” combine power and perception symbolically.
 
-v07: The act of taking the scroll marks transition from potential to action.
+v7: The act of taking the scroll marks transition from potential to action.
 
-v08: Prayers are depicted materially (“bowls of incense”), linking worship and petition.
+v8: Prayers are depicted materially (“bowls of incense”), linking worship and petition.
 
-v09–10: Redemption is described corporately, spanning divisions without distinction.
+v9–10: Redemption is described corporately, spanning divisions without distinction.
 
 v11: Number language (“myriads”) signals magnitude beyond counting.
 
@@ -95,31 +95,31 @@ v14: The response concludes with affirmation (“Amen”) and embodied worship.
 
 ## Vocabulary
 
-v01: βιβλίον (biblion)
+v1: βιβλίον (biblion)
 
 “Scroll.” A written document; here symbolically complete and sealed.
 
-v02: ἄξιος (axios)
+v2: ἄξιος (axios)
 
 “Worthy.” Denotes fitness or qualification, not moral abstraction alone.
 
-v05: νικάω (nikaō)
+v5: νικάω (nikaō)
 
 “To conquer.” Victory expressed without specifying method.
 
-v06: ἀρνίον (arnion)
+v6: ἀρνίον (arnion)
 
 “Lamb.” Diminutive form, emphasizing vulnerability alongside significance.
 
-v06: κέρας (keras)
+v6: κέρας (keras)
 
 “Horn.” Symbol of strength or authority.
 
-v08: φιάλη (phialē)
+v8: φιάλη (phialē)
 
 “Bowl.” Vessel used for offering, here holding prayers.
 
-v09: ἀγοράζω (agorazō)
+v9: ἀγοράζω (agorazō)
 
 “To purchase.” Language of acquisition, used metaphorically for redemption.
 
