@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Bronze Serpent
 
 <p>
