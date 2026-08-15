@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Personal Greetings
 
 <p>
@@ -125,11 +124,11 @@ v27: to the only wise God, through Jesus Christ, to whom be the glory forever. A
 
 ## Notes
 
-v01–02: Phoebe is commended as servant and benefactor.
+v1–2: Phoebe is commended as servant and benefactor.
 
-v03–16: Network of co-workers reflects distributed leadership.
+v3–16: Network of co-workers reflects distributed leadership.
 
-v07: Early witnesses include those prominent among apostles.
+v7: Early witnesses include those prominent among apostles.
 
 v16: Mutual greeting reinforces communal unity.
 
@@ -145,35 +144,35 @@ v25–27: Doxology summarizes gospel as revealed mystery for all nations.
 
 ## Vocabulary
 
-v01: συνίστημι (synistēmi)
+v1: συνίστημι (synistēmi)
 
 “To commend.”
 
-v01: διάκονος (diakonos)
+v1: διάκονος (diakonos)
 
 “Servant.”
 
-v02: προσδέχομαι (prosdechomai)
+v2: προσδέχομαι (prosdechomai)
 
 “To receive.”
 
-v02: προστάτις (prostatis)
+v2: προστάτις (prostatis)
 
 “Benefactor.”
 
-v03: συνεργός (synergos)
+v3: συνεργός (synergos)
 
 “Fellow worker.”
 
-v04: ὑποτίθημι τὸν τράχηλον
+v4: ὑποτίθημι τὸν τράχηλον
 
 “To risk one’s neck.”
 
-v05: ἀπαρχή (aparchē)
+v5: ἀπαρχή (aparchē)
 
 “Firstfruit.”
 
-v07: ἐπίσημος (episēmos)
+v7: ἐπίσημος (episēmos)
 
 “Outstanding.”
 
