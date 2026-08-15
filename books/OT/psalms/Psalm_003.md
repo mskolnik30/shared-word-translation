@@ -58,32 +58,32 @@ v7: Deliverance is expressed in vivid, physical imagery.
 v8: Salvation is claimed as belonging to the LORD, not the individual.
 
 ## Vocabulary
-v01: צָר (tsar)  
+v1: צָר (tsar)  
 “Foe.” Adversary.
 
-v02: נֶפֶשׁ (nephesh)  
+v2: נֶפֶשׁ (nephesh)  
 “Soul.” Life or self.
 
-v03: מָגֵן (magen)  
+v3: מָגֵן (magen)  
 “Shield.” Protection.
 
-v03: כָּבוֹד (kavod)  
+v3: כָּבוֹד (kavod)  
 “Glory.” Honor or weight.
 
-v03: רוּם (rum)  
+v3: רוּם (rum)  
 “To lift.” Raise up.
 
-v04: קָרָא (qara)  
+v4: קָרָא (qara)  
 “To cry out.” Call loudly.
 
-v05: יָשֵׁן (yashen)  
+v5: יָשֵׁן (yashen)  
 “To sleep.” Rest.
 
-v05: סָמַךְ (samak)  
+v5: סָמַךְ (samak)  
 “To sustain.” Support.
 
-v07: נָכָה (nakah)  
+v7: נָכָה (nakah)  
 “To strike.” Hit or defeat.
 
-v08: יְשׁוּעָה (yeshuah)  
+v8: יְשׁוּעָה (yeshuah)  
 “Salvation.” Deliverance.
