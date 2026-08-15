@@ -77,19 +77,19 @@ v15: And all those sitting in the council, looking intently at him, saw his face
 
 ## Notes
 
-v01: Internal tension arises from cultural-linguistic divisions within the community.
+v1: Internal tension arises from cultural-linguistic divisions within the community.
 
-v02–04: Apostolic priorities distinguish between word ministry and logistical service.
+v2–4: Apostolic priorities distinguish between word ministry and logistical service.
 
-v03: Qualification emphasizes character and Spirit-empowerment, not merely skill.
+v3: Qualification emphasizes character and Spirit-empowerment, not merely skill.
 
-v05–06: Communal selection and apostolic commissioning function together.
+v5–6: Communal selection and apostolic commissioning function together.
 
-v07: Structural adjustment results in continued growth.
+v7: Structural adjustment results in continued growth.
 
-v08: Stephen’s ministry combines proclamation and signs.
+v8: Stephen’s ministry combines proclamation and signs.
 
-v09–10: Opposition fails at the level of argument.
+v9–10: Opposition fails at the level of argument.
 
 v11–14: Accusation escalates through false testimony and distortion.
 
@@ -97,43 +97,43 @@ v15: Stephen’s appearance signals divine presence and vindication.
 
 ## Vocabulary
 
-v01: γογγυσμός (gongysmos)
+v1: γογγυσμός (gongysmos)
 
 “Complaint, murmuring.”
 
-v01: Ἑλληνιστής (Hellēnistēs)
+v1: Ἑλληνιστής (Hellēnistēs)
 
 “Hellenist.”
 
-v02: διακονέω (diakoneō)
+v2: διακονέω (diakoneō)
 
 “To serve.”
 
-v03: μαρτυρούμενος (martyroumenos)
+v3: μαρτυρούμενος (martyroumenos)
 
 “Of good reputation.”
 
-v04: διακονία (diakonia)
+v4: διακονία (diakonia)
 
 “Ministry.”
 
-v05: πίστις (pistis)
+v5: πίστις (pistis)
 
 “Faith.”
 
-v06: ἐπιτίθημι χεῖρας
+v6: ἐπιτίθημι χεῖρας
 
 “To lay hands.”
 
-v07: πληθύνω (plēthynō)
+v7: πληθύνω (plēthynō)
 
 “To multiply.”
 
-v08: χάρις (charis)
+v8: χάρις (charis)
 
 “Grace.”
 
-v09: συναγωγή (synagōgē)
+v9: συναγωγή (synagōgē)
 
 “Synagogue.”
 
