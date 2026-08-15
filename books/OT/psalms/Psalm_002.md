@@ -75,25 +75,25 @@ v10–12: The psalm shifts to exhortation—political power is called to submiss
 v12: Refuge, not resistance, is the path to blessing.
 
 ## Vocabulary
-v01: רָגַשׁ (ragash)  
+v1: רָגַשׁ (ragash)  
 “To rage.” Be in tumult.
 
-v01: הָגָה (hagah)  
+v1: הָגָה (hagah)  
 “To plot.” Meditate or scheme.
 
-v02: מָשִׁיחַ (mashiach)  
+v2: מָשִׁיחַ (mashiach)  
 “Anointed.” One set apart.
 
-v04: שָׂחַק (sachaq)  
+v4: שָׂחַק (sachaq)  
 “To laugh.” Express derision.
 
-v06: נָסַךְ (nasakh)  
+v6: נָסַךְ (nasakh)  
 “To install.” Set in place.
 
-v07: יָלַד (yalad)  
+v7: יָלַד (yalad)  
 “To beget.” Bring forth.
 
-v09: רָעַע (ra‘a)  
+v9: רָעַע (ra‘a)  
 “To break.” Smash or shatter.
 
 v11: יָרֵא (yare)  
