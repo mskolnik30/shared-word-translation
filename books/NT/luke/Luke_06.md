@@ -221,11 +221,11 @@ v49: But the one who hears and does not do is like a man who built a house on th
 
 ## Notes
 
-v01–05: The Sabbath controversy turns on interpretation of law through need and authority, not rejection of Sabbath itself.
+v1–5: The Sabbath controversy turns on interpretation of law through need and authority, not rejection of Sabbath itself.
 
-v05: “Son of Man” asserts authority over Sabbath without abolishing its significance.
+v5: “Son of Man” asserts authority over Sabbath without abolishing its significance.
 
-v07–11: The question of healing becomes a question of life versus destruction; neutrality is not permitted.
+v7–11: The question of healing becomes a question of life versus destruction; neutrality is not permitted.
 
 v11: Opposition intensifies from observation to intent to act.
 
@@ -261,23 +261,23 @@ v47–49: The foundation metaphor frames obedience as structural, not optional.
 
 ## Vocabulary
 
-v01: στάχυς (stachys)
+v1: στάχυς (stachys)
 
 “Head of grain.”
 
-v02: ἔξεστιν (exestin)
+v2: ἔξεστιν (exestin)
 
 “It is lawful.” What is permitted under the law.
 
-v05: κύριος (kyrios)
+v5: κύριος (kyrios)
 
 “Lord.” Authority-bearing title.
 
-v07: κατηγορία (katēgoria)
+v7: κατηγορία (katēgoria)
 
 “Accusation.” Formal charge.
 
-v09: σῴζω (sōzō)
+v9: σῴζω (sōzō)
 
 “To save.” To preserve life.
 
