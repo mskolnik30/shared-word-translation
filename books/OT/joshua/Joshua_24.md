@@ -63,7 +63,7 @@ v25: So Joshua made a covenant with the people that day and set for them a statu
 
 ## Notes
 
-v01–03: The gathering at Shechem frames a formal covenant setting. History is rehearsed from divine perspective—“I took… I led… I gave.”
+v1–3: The gathering at Shechem frames a formal covenant setting. History is rehearsed from divine perspective—“I took… I led… I gave.”
 
 v14–15: The call is exclusive and immediate—“choose this day.” Service is framed as a decisive allegiance.
 
@@ -81,23 +81,23 @@ v25: Covenant is formalized with legal language—statute and ordinance mark end
 
 ## Vocabulary
 
-v01: קָהָל (qāhāl)  
+v1: קָהָל (qāhāl)  
 
 “Assembly.” Gathered community for covenant action.
 
-v01: זָקֵן (zāqēn)  
+v1: זָקֵן (zāqēn)  
 
 “Elder.” Recognized leader within the people.
 
-v02: עָבַד (ʿāḇaḏ)  
+v2: עָבַד (ʿāḇaḏ)  
 
 “To serve.” To give allegiance or worship.
 
-v03: לָקַח (lāqaḥ)  
+v3: לָקַח (lāqaḥ)  
 
 “To take.” To choose or bring.
 
-v03: רָבָה (rāḇāh)  
+v3: רָבָה (rāḇāh)  
 
 “To multiply.” To increase greatly.
 
