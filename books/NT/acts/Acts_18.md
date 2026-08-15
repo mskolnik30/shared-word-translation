@@ -135,15 +135,15 @@ v28: for he was vigorously refuting the Jews in public, demonstrating through th
 
 ## Notes
 
-v02–03: Shared trade supports sustained ministry presence.
+v2–3: Shared trade supports sustained ministry presence.
 
-v04–05: Reasoning and testimony function together in proclamation.
+v4–5: Reasoning and testimony function together in proclamation.
 
-v06: Turning to Gentiles follows sustained rejection.
+v6: Turning to Gentiles follows sustained rejection.
 
-v08: Household belief reflects communal conversion patterns.
+v8: Household belief reflects communal conversion patterns.
 
-v09–10: Divine assurance stabilizes mission in hostile context.
+v9–10: Divine assurance stabilizes mission in hostile context.
 
 v11: Extended teaching establishes foundational community.
 
@@ -163,27 +163,27 @@ v27–28: Scripture-based argumentation confirms identity of Jesus.
 
 ## Vocabulary
 
-v03: σκηνοποιός (skēnopoios)
+v3: σκηνοποιός (skēnopoios)
 
 “Tentmaker.”
 
-v04: διαλέγομαι (dialegomai)
+v4: διαλέγομαι (dialegomai)
 
 “To reason.”
 
-v05: συνέχω (synechō)
+v5: συνέχω (synechō)
 
 “To be occupied.”
 
-v06: βλασφημέω (blasphēmeō)
+v6: βλασφημέω (blasphēmeō)
 
 “To revile.”
 
-v08: πιστεύω (pisteuō)
+v8: πιστεύω (pisteuō)
 
 “To believe.”
 
-v09: ὅραμα (horama)
+v9: ὅραμα (horama)
 
 “Vision.”
 
