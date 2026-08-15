@@ -90,11 +90,11 @@ v16: The reference to Omri and Ahab situates the present crisis within a legacy 
 
 ## Vocabulary
 v01–02 Dispute / case: Legal language drawn from covenant traditions. The Holy One is portrayed not as a distant judge but as a covenant partner seeking accountability and restoration.
-v05 Saving acts: Refers to concrete moments of deliverance and protection preserved in communal memory. These acts define God’s character and ground covenant responsibility.
-v08 Justice: Concrete actions that sustain right relationships within a community. Justice is not abstract fairness but the active ordering of social, economic, and communal life toward equity and truth.
-v08 Faithful kindness: Translates ḥesed, a covenantal term expressing loyalty, mercy, and steadfast commitment. It describes love rooted in relationship rather than emotion alone.
-v08 Walk humbly: A relational metaphor describing attentiveness, modesty, and trust in one’s life with God. The emphasis is on posture and direction rather than moral display or achievement.
-v10 Dishonest measure: A symbol of economic exploitation. The term points to systems that advantage the powerful at the expense of the vulnerable rather than isolated acts of cheating.
-v11 Wicked scales: A concrete image of corruption in daily commerce. The language emphasizes how injustice becomes ordinary and normalized.
-v12 Violence: Used broadly to describe harm embedded in social and economic practices, not only physical force. Violence includes exploitation that erodes communal trust and dignity.
-v16 Desolation: A condition of communal unraveling marked by loss of stability, honor, and continuity rather than mere physical ruin.
+v05: Saving acts: Refers to concrete moments of deliverance and protection preserved in communal memory. These acts define God’s character and ground covenant responsibility.
+v08: Justice: Concrete actions that sustain right relationships within a community. Justice is not abstract fairness but the active ordering of social, economic, and communal life toward equity and truth.
+v08: Faithful kindness: Translates ḥesed, a covenantal term expressing loyalty, mercy, and steadfast commitment. It describes love rooted in relationship rather than emotion alone.
+v08: Walk humbly: A relational metaphor describing attentiveness, modesty, and trust in one’s life with God. The emphasis is on posture and direction rather than moral display or achievement.
+v10: Dishonest measure: A symbol of economic exploitation. The term points to systems that advantage the powerful at the expense of the vulnerable rather than isolated acts of cheating.
+v11: Wicked scales: A concrete image of corruption in daily commerce. The language emphasizes how injustice becomes ordinary and normalized.
+v12: Violence: Used broadly to describe harm embedded in social and economic practices, not only physical force. Violence includes exploitation that erodes communal trust and dignity.
+v16: Desolation: A condition of communal unraveling marked by loss of stability, honor, and continuity rather than mere physical ruin.
