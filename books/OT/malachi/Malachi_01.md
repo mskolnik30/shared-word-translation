@@ -115,9 +115,9 @@ says the LORD of Hosts,
 </p>
 
 ## Notes
-v02–05: God's love for Israel is demonstrated through his covenant choice of Jacob and his preservation of Israel in contrast to Edom.
-v06: The priests are addressed directly because they bear responsibility for the condition of Israel's worship.
-v07–08: The issue is not merely ritual correctness but the attitude behind the offerings. Animals unfit for ordinary civic honor are presented to God.
+v2–5: God's love for Israel is demonstrated through his covenant choice of Jacob and his preservation of Israel in contrast to Edom.
+v6: The priests are addressed directly because they bear responsibility for the condition of Israel's worship.
+v7–8: The issue is not merely ritual correctness but the attitude behind the offerings. Animals unfit for ordinary civic honor are presented to God.
 v10: The LORD declares that empty religious activity is worse than no sacrifice at all.
 v11: God's name will be honored among the nations, anticipating a worldwide recognition of his greatness.
 v12–13: The priests treat worship as a burden rather than a privilege, revealing contempt for the LORD.
@@ -125,25 +125,25 @@ v13: The offerings violate the standards established in the law by presenting da
 v14: The chapter concludes by emphasizing God's kingship over all nations, not merely Israel.
 
 ## Vocabulary
-v01: מַשָּׂא (maśśāʾ)
+v1: מַשָּׂא (maśśāʾ)
 “Oracle” or “burden.” A prophetic message bearing divine authority.
 
-v02: אָהַב (ʾāhaḇ)
+v2: אָהַב (ʾāhaḇ)
 “To love.” Covenant affection and commitment.
 
-v03: שָׂנֵא (śānēʾ)
+v3: שָׂנֵא (śānēʾ)
 “To hate.” Here expressing covenant rejection in contrast to covenant choice.
 
-v06: כָּבֵד (kāḇēḏ)
+v6: כָּבֵד (kāḇēḏ)
 “To honor.” To give proper weight, respect, and glory.
 
-v06: יָרֵא (yārēʾ)
+v6: יָרֵא (yārēʾ)
 “To fear.” Reverent awe and respect toward God.
 
-v07: גָּאַל (gāʾal)
+v7: גָּאַל (gāʾal)
 “To defile” or “pollute.” To treat as common what is holy.
 
-v08: עִוֵּר (ʿiwwēr)
+v8: עִוֵּר (ʿiwwēr)
 “Blind.” An animal disqualified for sacrifice.
 
 v10: רָצוֹן (rāṣôn)
