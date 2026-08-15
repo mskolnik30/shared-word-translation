@@ -71,9 +71,9 @@ v34: For how can I go up to my father if the boy is not with me? I fear to see t
 </p>
 
 ## Notes
-v01–02: Joseph's silver cup becomes the instrument of his final test of his brothers.
-v05: Joseph's reference to divination reflects his Egyptian public role. The narrative does not attribute Joseph's knowledge to divination but to God's providence.
-v07–09: The brothers respond with confidence because they believe themselves innocent.
+v1–2: Joseph's silver cup becomes the instrument of his final test of his brothers.
+v5: Joseph's reference to divination reflects his Egyptian public role. The narrative does not attribute Joseph's knowledge to divination but to God's providence.
+v7–9: The brothers respond with confidence because they believe themselves innocent.
 v12: The search proceeds from oldest to youngest, heightening the suspense and emphasizing the apparent certainty of Benjamin's guilt.
 v13: Tearing garments is a traditional expression of grief and distress. Unlike their treatment of Joseph years earlier, the brothers do not abandon Benjamin.
 v16: Judah interprets the situation in theological terms, seeing God's hand exposing hidden guilt from the past.
@@ -86,13 +86,13 @@ v33: Judah offers himself in Benjamin's place. This marks a dramatic contrast wi
 v34: The chapter ends with Judah's self-sacrificial plea, preparing for Joseph's revelation in the next chapter.
 
 ## Vocabulary
-v02: גָּבִיעַ (gāḇîaʿ)
+v2: גָּבִיעַ (gāḇîaʿ)
 “Cup” or “goblet.” A drinking vessel that becomes central to Joseph's test.
 
-v04: רָדַף (rāḏap̄)
+v4: רָדַף (rāḏap̄)
 “To pursue.” To follow after with the intent of overtaking.
 
-v05: נָחַשׁ (nāḥaš)
+v5: נָחַשׁ (nāḥaš)
 “To practice divination.” To seek hidden knowledge through omens or signs.
 
 v13: קָרַע (qāraʿ)
