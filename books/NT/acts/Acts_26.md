@@ -149,11 +149,11 @@ v32: And Agrippa said to Festus, “This man could have been released if he had 
 
 ## Notes
 
-v03: Audience awareness shapes rhetorical approach.
+v3: Audience awareness shapes rhetorical approach.
 
-v06–08: Resurrection remains central theological issue.
+v6–8: Resurrection remains central theological issue.
 
-v09–11: Former opposition heightens credibility of transformation.
+v9–11: Former opposition heightens credibility of transformation.
 
 v16–18: Commission defines mission to Gentiles in salvific terms.
 
@@ -169,19 +169,19 @@ v32: Appeal to Caesar prevents immediate release.
 
 ## Vocabulary
 
-v01: ἀπολογία (apologia)
+v1: ἀπολογία (apologia)
 
 “Defense.”
 
-v05: αἵρεσις (hairesis)
+v5: αἵρεσις (hairesis)
 
 “Sect.”
 
-v06: ἐπαγγελία (epangelia)
+v6: ἐπαγγελία (epangelia)
 
 “Promise.”
 
-v08: ἀνάστασις (anastasis)
+v8: ἀνάστασις (anastasis)
 
 “Resurrection.”
 
