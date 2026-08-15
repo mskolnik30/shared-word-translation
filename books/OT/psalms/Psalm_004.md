@@ -50,55 +50,55 @@ for you alone, O LORD, make me dwell in safety.
 </p>
 
 ## Notes
-v01: Past deliverance grounds present appeal (“you have given me relief”).
+v1: Past deliverance grounds present appeal (“you have given me relief”).
 
-v02: The conflict centers on honor/shame and truth/falsehood.
+v2: The conflict centers on honor/shame and truth/falsehood.
 
-v03: Being “set apart” defines identity before action.
+v3: Being “set apart” defines identity before action.
 
-v04: Anger is acknowledged but bounded—reflection leads to restraint.
+v4: Anger is acknowledged but bounded—reflection leads to restraint.
 
-v05: Proper worship is linked with trust, not mere ritual.
+v5: Proper worship is linked with trust, not mere ritual.
 
-v06: The desire for “good” is redirected toward God’s presence.
+v6: The desire for “good” is redirected toward God’s presence.
 
-v07: Inner joy surpasses external prosperity.
+v7: Inner joy surpasses external prosperity.
 
-v08: Peace and sleep function as expressions of trust.
+v8: Peace and sleep function as expressions of trust.
 
 ## Vocabulary
-v01: עָנָה (anah)  
+v1: עָנָה (anah)  
 “To answer.” Respond to a call.
 
-v01: צַר (tsar)  
+v1: צַר (tsar)  
 “Distress.” Pressure or trouble.
 
-v02: כָּבוֹד (kavod)  
+v2: כָּבוֹד (kavod)  
 “Honor.” Reputation or weight.
 
-v02: רִיק (riq)  
+v2: רִיק (riq)  
 “Vain.” Empty.
 
-v03: פָּלָה (palah)  
+v3: פָּלָה (palah)  
 “To set apart.” Distinguish.
 
-v04: רָגַז (ragaz)  
+v4: רָגַז (ragaz)  
 “To tremble/be angry.” Emotional disturbance.
 
-v04: דָּמַם (damam)  
+v4: דָּמַם (damam)  
 “To be silent.” Be still.
 
-v05: זֶבַח (zevach)  
+v5: זֶבַח (zevach)  
 “Sacrifice.” Offering.
 
-v06: אוֹר (or)  
+v6: אוֹר (or)  
 “Light.” Presence or favor.
 
-v07: שִׂמְחָה (simchah)  
+v7: שִׂמְחָה (simchah)  
 “Joy.” Gladness.
 
-v08: שָׁלוֹם (shalom)  
+v8: שָׁלוֹם (shalom)  
 “Peace.” Wholeness.
 
-v08: בֶּטַח (betach)  
+v8: בֶּטַח (betach)  
 “Safety.” Security.
