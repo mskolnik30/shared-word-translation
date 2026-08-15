@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Teaching About Divorce
 
 <p>
@@ -177,11 +176,11 @@ v52: And Jesus said to him, “Go; your faith has saved you.” And immediately 
 
 ## Notes
 
-v02: The question is framed as a legal test rather than a pastoral inquiry.
+v2: The question is framed as a legal test rather than a pastoral inquiry.
 
-v05: Jesus locates divorce legislation within hardness of heart, treating concession and creation as distinct.
+v5: Jesus locates divorce legislation within hardness of heart, treating concession and creation as distinct.
 
-v06–09: Appeal to creation precedes appeal to law, grounding marriage in divine joining.
+v6–9: Appeal to creation precedes appeal to law, grounding marriage in divine joining.
 
 v14: Jesus’ indignation marks the exclusion of children as a serious misunderstanding of the kingdom.
 
@@ -203,11 +202,11 @@ v52: Bartimaeus receives sight and then follows “on the way,” linking healin
 
 ## Vocabulary
 
-v05: σκληροκαρδία (sklērokardia)
+v5: σκληροκαρδία (sklērokardia)
 
 “Hardness of heart.” Resistance or stubbornness at the level of will and perception.
 
-v09: συζεύγνυμι (syzeugnymi)
+v9: συζεύγνυμι (syzeugnymi)
 
 “To join together.” Used of God’s act of binding two into one.
 
