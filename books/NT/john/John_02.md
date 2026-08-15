@@ -111,9 +111,9 @@ v25: and because he had no need that anyone should testify concerning man, for h
 
 ## Notes
 
-v04: “My hour” introduces the timeline of revelation and glorification.
+v4: “My hour” introduces the timeline of revelation and glorification.
 
-v06: Purification jars signal transition from old ritual structures to new reality.
+v6: Purification jars signal transition from old ritual structures to new reality.
 
 v11: “Signs” reveal glory and generate belief.
 
@@ -127,15 +127,15 @@ v23–25: Belief based on signs is distinguished from full trust.
 
 ## Vocabulary
 
-v01: γάμος (gamos)
+v1: γάμος (gamos)
 
 “Wedding.”
 
-v04: ὥρα (hōra)
+v4: ὥρα (hōra)
 
 “Hour.”
 
-v06: καθαρισμός (katharismos)
+v6: καθαρισμός (katharismos)
 
 “Purification.”
 
