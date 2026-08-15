@@ -55,72 +55,72 @@ let all the ends of the earth fear him!
 
 ## Notes
 
-v01: The blessing echoes priestly language; divine favor is expressed as grace, blessing, and shining presence.
+v1: The blessing echoes priestly language; divine favor is expressed as grace, blessing, and shining presence.
 
-v02: Israel’s blessing is missional—knowledge of God extends outward to “all nations.”
+v2: Israel’s blessing is missional—knowledge of God extends outward to “all nations.”
 
-v03–05: Refrain structure universalizes praise; repetition emphasizes inclusion of all peoples.
+v3–5: Refrain structure universalizes praise; repetition emphasizes inclusion of all peoples.
 
-v04: Divine rule is characterized by equity and guidance; governance is both just and directional.
+v4: Divine rule is characterized by equity and guidance; governance is both just and directional.
 
-v06: Agricultural yield is interpreted as divine provision; material blessing points beyond itself.
+v6: Agricultural yield is interpreted as divine provision; material blessing points beyond itself.
 
-v07: The psalm closes with global scope—fear of the LORD extends to the ends of the earth.
+v7: The psalm closes with global scope—fear of the LORD extends to the ends of the earth.
 
 ## Vocabulary
 
-v01: חָנַן (ḥānan)  
+v1: חָנַן (ḥānan)  
 
 “To be gracious.” To show favor.
 
-v01: בָּרַךְ (bāraḵ)  
+v1: בָּרַךְ (bāraḵ)  
 
 “To bless.” To bestow benefit.
 
-v01: אוֹר (ʾôr)  
+v1: אוֹר (ʾôr)  
 
 “To shine.” To give light.
 
-v02: דֶּרֶךְ (dereḵ)  
+v2: דֶּרֶךְ (dereḵ)  
 
 “Way.” Path, course.
 
-v02: יְשׁוּעָה (yĕšûʿāh)  
+v2: יְשׁוּעָה (yĕšûʿāh)  
 
 “Salvation.” Delivering power.
 
-v03: עַם (ʿam)  
+v3: עַם (ʿam)  
 
 “People.” Collective group.
 
-v04: שָׂמַח (śāmaḥ)  
+v4: שָׂמַח (śāmaḥ)  
 
 “To be glad.” To rejoice.
 
-v04: רָנַן (rānan)  
+v4: רָנַן (rānan)  
 
 “To sing for joy.” To shout in praise.
 
-v04: שָׁפַט (šāpaṭ)  
+v4: שָׁפַט (šāpaṭ)  
 
 “To judge.” To govern justly.
 
-v04: מֵישָׁר (mêšār)  
+v4: מֵישָׁר (mêšār)  
 
 “Equity.” Straightness, fairness.
 
-v04: נָחָה (nāḥāh)  
+v4: נָחָה (nāḥāh)  
 
 “To guide.” To lead.
 
-v06: יְבוּל (yĕḇûl)  
+v6: יְבוּל (yĕḇûl)  
 
 “Yield/increase.” Produce of the land.
 
-v07: יָרֵא (yārēʾ)  
+v7: יָרֵא (yārēʾ)  
 
 “To fear.” Reverent awe.
 
-v07: קָצֶה (qāṣeh)  
+v7: קָצֶה (qāṣeh)  
 
 “End.” Extremity, boundary.
