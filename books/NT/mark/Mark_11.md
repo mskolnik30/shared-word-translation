@@ -127,9 +127,9 @@ v33: And answering Jesus, they said, “We do not know.” And Jesus said to the
 
 ## Notes
 
-v01–06: The colt episode emphasizes preparation and authority before Jesus enters the city.
+v1–6: The colt episode emphasizes preparation and authority before Jesus enters the city.
 
-v09–10: The acclamation joins pilgrimage language with royal hope, but without full understanding.
+v9–10: The acclamation joins pilgrimage language with royal hope, but without full understanding.
 
 v11: Jesus’ first act in the temple is inspection, not immediate disruption.
 
@@ -153,11 +153,11 @@ v30–33: Jesus exposes their unwillingness to answer truthfully rather than mer
 
 ## Vocabulary
 
-v02: πῶλος (pōlos)
+v2: πῶλος (pōlos)
 
 “Colt.” A young animal, here tied to royal and prophetic symbolism.
 
-v09: ὡσαννά (hōsanna)
+v9: ὡσαννά (hōsanna)
 
 “Hosanna.” A cry for salvation that becomes praise.
 
