@@ -79,21 +79,21 @@ v20: And they went out and proclaimed everywhere, while the Lord worked with the
 
 ## Notes
 
-v01: The women come to anoint a dead body; their faithfulness does not yet anticipate resurrection.
+v1: The women come to anoint a dead body; their faithfulness does not yet anticipate resurrection.
 
-v02: “The first day of the week” marks a new temporal beginning without explicit theological exposition.
+v2: “The first day of the week” marks a new temporal beginning without explicit theological exposition.
 
-v03–04: The practical question about the stone is answered before any announcement is heard.
+v3–4: The practical question about the stone is answered before any announcement is heard.
 
-v05: The young man’s presence inside the tomb turns the place of death into a place of revelation.
+v5: The young man’s presence inside the tomb turns the place of death into a place of revelation.
 
-v06: “He has been raised” uses passive language, leaving God’s action implied.
+v6: “He has been raised” uses passive language, leaving God’s action implied.
 
-v07: Peter is named separately, preserving hope after denial.
+v7: Peter is named separately, preserving hope after denial.
 
-v08: Fear and silence leave the earliest ending unresolved and rhetorically open.
+v8: Fear and silence leave the earliest ending unresolved and rhetorically open.
 
-v09–20: These verses are absent from some of the earliest manuscripts and are widely regarded as a later ending to Mark. They are included here as part of the received textual tradition, with the textual issue acknowledged.
+v9–20: These verses are absent from some of the earliest manuscripts and are widely regarded as a later ending to Mark. They are included here as part of the received textual tradition, with the textual issue acknowledged.
 
 v11: The first report of resurrection is met with unbelief, continuing Mark’s pattern of failed perception.
 
@@ -107,55 +107,55 @@ v19–20: The longer ending concludes with exaltation and continuing divine conf
 
 ## Vocabulary
 
-v01: ἄρωμα (arōma)
+v1: ἄρωμα (arōma)
 
 “Spice, aromatic substance.” Used in burial preparation.
 
-v01: ἀλείφω (aleiphō)
+v1: ἀλείφω (aleiphō)
 
 “To anoint.” To apply oil or spices, here for burial.
 
-v02: μία τῶν σαββάτων (mia tōn sabbatōn)
+v2: μία τῶν σαββάτων (mia tōn sabbatōn)
 
 “First day of the week.” Literally, “one of the Sabbaths,” a Semitic expression.
 
-v03: ἀποκυλίω (apokyliō)
+v3: ἀποκυλίω (apokyliō)
 
 “To roll away.” Used of removing the stone from the tomb.
 
-v05: νεανίσκος (neaniskos)
+v5: νεανίσκος (neaniskos)
 
 “Young man.” Figure in the tomb, clothed in white.
 
-v05: ἐκθαμβέω (ekthambeō)
+v5: ἐκθαμβέω (ekthambeō)
 
 “To be alarmed, amazed.” Strong disturbance before revelation.
 
-v06: σταυρόω (stauroō)
+v6: σταυρόω (stauroō)
 
 “To crucify.” The risen one is identified as the crucified one.
 
-v06: ἐγείρω (egeirō)
+v6: ἐγείρω (egeirō)
 
 “To raise.” Used here in passive form: “he has been raised.”
 
-v07: προάγω (proagō)
+v7: προάγω (proagō)
 
 “To go before.” Jesus precedes the disciples into Galilee.
 
-v08: τρόμος (tromos)
+v8: τρόμος (tromos)
 
 “Trembling.” Physical manifestation of fear.
 
-v08: ἔκστασις (ekstasis)
+v8: ἔκστασις (ekstasis)
 
 “Astonishment, amazement.” Displacement of ordinary composure.
 
-v08: φοβέω (phobeō)
+v8: φοβέω (phobeō)
 
 “To fear.” Mark’s final word in the shorter ending centers fear.
 
-v09: φαίνω / ἐμφανίζω conceptually
+v9: φαίνω / ἐμφανίζω conceptually
 
 “To appear.” The longer ending narrates resurrection appearances.
 
