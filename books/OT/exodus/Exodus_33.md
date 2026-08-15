@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Presence of the LORD
 
 <p>
