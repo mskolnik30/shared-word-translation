@@ -34,7 +34,6 @@ v14: If you ask me anything in my name, I will do it.
 </p>
 
 
-
 ## The Promise of the Advocate
 <p>
 v15: “If you love me, you will keep my commandments.  
@@ -52,7 +51,6 @@ v24: Whoever does not love me does not keep my words. And the word that you hear
 </p>
 
 
-
 ## Peace Given, Not as the World Gives
 <p>
 v25: “These things I have spoken to you while I am still with you.  
@@ -68,10 +66,10 @@ v31: but I do as the Father has commanded me, so that the world may know that I 
 
 
 ## Notes
-v01: “Do not let your hearts be troubled” addresses inner disturbance directly without removing its cause.
-v02: “Many dwelling places” leaves the nature of these spaces undefined, emphasizing presence over structure.
-v06: “The way, and the truth, and the life” gathers multiple claims without separating them; access to the Father is relationally defined.
-v07–11: Mutual indwelling between Father and Son is asserted without explanation, inviting recognition rather than analysis.
+v1: “Do not let your hearts be troubled” addresses inner disturbance directly without removing its cause.
+v2: “Many dwelling places” leaves the nature of these spaces undefined, emphasizing presence over structure.
+v6: “The way, and the truth, and the life” gathers multiple claims without separating them; access to the Father is relationally defined.
+v7–11: Mutual indwelling between Father and Son is asserted without explanation, inviting recognition rather than analysis.
 v12: “Greater works” are promised without specification, creating expectation without detail.
 v13–14: Asking “in my name” ties prayer to alignment rather than formula.
 v16–17: The Advocate is both given and known; presence is described as both with and in.
@@ -84,19 +82,19 @@ v30: The “ruler of the world” is introduced without elaboration, functioning
 v31: Love is expressed through obedience, linking relationship and action.
 
 ## Vocabulary
-v01: ταράσσω (tarassō)
+v1: ταράσσω (tarassō)
 “To trouble” or “disturb.” Indicates inner agitation or unrest.
 
-v02: μονή (monē)
+v2: μονή (monē)
 “Dwelling place.” A place of abiding; relational as much as spatial.
 
-v06: ὁδός (hodos)
+v6: ὁδός (hodos)
 “Way.” A path or means; here both direction and access.
 
-v06: ἀλήθεια (alētheia)
+v6: ἀλήθεια (alētheia)
 “Truth.” Not merely factual correctness but revealed reality.
 
-v06: ζωή (zōē)
+v6: ζωή (zōē)
 “Life.” Participation in divine life rather than mere existence.
 
 v16: παράκλητος (paraklētos)
