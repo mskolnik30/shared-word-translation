@@ -55,19 +55,19 @@ v18: But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To
 
 ## Notes
 
-v01: Writing functions as reminder rather than new instruction.
+v1: Writing functions as reminder rather than new instruction.
 
-v02: Authority is distributed across prophets and apostles.
+v2: Authority is distributed across prophets and apostles.
 
-v03–04: Scoffing is grounded in perceived continuity.
+v3–4: Scoffing is grounded in perceived continuity.
 
-v05: Ignorance is described as intentional.
+v5: Ignorance is described as intentional.
 
-v06–07: Past and future judgment are linked by the same word.
+v6–7: Past and future judgment are linked by the same word.
 
-v08: Time is relativized, not measured.
+v8: Time is relativized, not measured.
 
-v09: Delay is reframed as patience.
+v9: Delay is reframed as patience.
 
 v10: The day arrives unexpectedly; destruction is total.
 
@@ -89,27 +89,27 @@ v18: Growth is ongoing; conclusion returns to doxology.
 
 ## Vocabulary
 
-v01: ὑπόμνησις (hypomnēsis)
+v1: ὑπόμνησις (hypomnēsis)
 
 “Reminder.” Bringing to mind again.
 
-v03: ἐμπαίκτης (empaiktēs)
+v3: ἐμπαίκτης (empaiktēs)
 
 “Scoffer.” One who mocks.
 
-v05: λανθάνω (lanthanō)
+v5: λανθάνω (lanthanō)
 
 “To overlook.” To escape notice or be hidden.
 
-v07: τηρέω (tēreō)
+v7: τηρέω (tēreō)
 
 “To keep.” To preserve or hold.
 
-v08: χίλια ἔτη (chilia etē)
+v8: χίλια ἔτη (chilia etē)
 
 “Thousand years.” Used comparatively, not literally.
 
-v09: μακροθυμέω (makrothymeō)
+v9: μακροθυμέω (makrothymeō)
 
 “To be patient.” To delay response.
 
