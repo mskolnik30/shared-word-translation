@@ -92,14 +92,14 @@ v15: on the twenty-fourth day of the month, in the sixth month, in the second ye
 </p>
 
 ## Notes
-v01: The book is carefully dated, rooting Haggai's ministry within a specific historical setting after the exile.
-v01: Zerubbabel represents the civil leadership of Judah, while Joshua represents its priestly leadership.
-v02: The people justify delay by claiming the proper time for rebuilding has not yet arrived.
-v04: The contrast between paneled houses and the ruined temple exposes misplaced priorities.
-v05–06: Economic frustration is interpreted as a covenant consequence rather than mere misfortune.
-v05: “Consider your ways” becomes a central theme of the chapter.
-v08: Rebuilding the temple is connected with God's glory and pleasure.
-v09–11: The drought and poor harvests are presented as divine discipline intended to awaken repentance.
+v1: The book is carefully dated, rooting Haggai's ministry within a specific historical setting after the exile.
+v1: Zerubbabel represents the civil leadership of Judah, while Joshua represents its priestly leadership.
+v2: The people justify delay by claiming the proper time for rebuilding has not yet arrived.
+v4: The contrast between paneled houses and the ruined temple exposes misplaced priorities.
+v5–6: Economic frustration is interpreted as a covenant consequence rather than mere misfortune.
+v5: “Consider your ways” becomes a central theme of the chapter.
+v8: Rebuilding the temple is connected with God's glory and pleasure.
+v9–11: The drought and poor harvests are presented as divine discipline intended to awaken repentance.
 v12: The people respond positively to the prophetic message, unlike many earlier generations.
 v12: Fear of the LORD here reflects reverence, submission, and renewed covenant loyalty.
 v13: God's promise, “I am with you,” addresses the deepest need of the community.
@@ -107,25 +107,25 @@ v14: The work begins because God himself stirs the hearts of the leaders and the
 v14–15: Genuine repentance results in concrete action rather than words alone.
 
 ## Vocabulary
-v01: דָּבַר־יְהוָה (dāḇar-YHWH)
+v1: דָּבַר־יְהוָה (dāḇar-YHWH)
 “Word of the LORD.” A message originating from God.
 
-v01: פָּחוֹת (pāḥôṯ)
+v1: פָּחוֹת (pāḥôṯ)
 “Governor.” A provincial ruler under imperial authority.
 
-v04: חָרֵב (ḥārēḇ)
+v4: חָרֵב (ḥārēḇ)
 “Ruined” or “desolate.” Left in a state of destruction.
 
-v05: שִׂימוּ לְבַבְכֶם (śîmû lĕḇaḇḵem)
+v5: שִׂימוּ לְבַבְכֶם (śîmû lĕḇaḇḵem)
 “Set your heart.” To carefully consider or reflect upon.
 
-v06: זָרַע (zāraʿ)
+v6: זָרַע (zāraʿ)
 “To sow.” To plant seed for harvest.
 
-v08: בָּנָה (bānâ)
+v8: בָּנָה (bānâ)
 “To build.” To construct or restore.
 
-v08: כָּבֵד (kāḇēḏ)
+v8: כָּבֵד (kāḇēḏ)
 “To be glorified.” To receive honor and weight.
 
 v10: טַל (ṭal)
