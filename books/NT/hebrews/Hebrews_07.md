@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Priestly Order of Melchizedek
 
 <p>
@@ -87,17 +86,17 @@ v28: For the law appoints men in their weakness as high priests, but the word of
 
 ## Notes
 
-v01–03: Description of Melchizedek is selective and not contextualized.
+v1–3: Description of Melchizedek is selective and not contextualized.
 
-v02: Name interpretation guides meaning rather than narrative.
+v2: Name interpretation guides meaning rather than narrative.
 
-v03: Timelessness is asserted without explanation.
+v3: Timelessness is asserted without explanation.
 
-v04–10: Argument proceeds through inference rather than direct statement.
+v4–10: Argument proceeds through inference rather than direct statement.
 
-v07: Hierarchy is assumed in blessing.
+v7: Hierarchy is assumed in blessing.
 
-v08: Life is attributed differently without clarification.
+v8: Life is attributed differently without clarification.
 
 v11–12: Change in priesthood necessitates change in law.
 
@@ -125,23 +124,23 @@ v28: Appointment is contrasted between law and oath.
 
 ## Vocabulary
 
-v01: ἱερεύς (hiereus)
+v1: ἱερεύς (hiereus)
 
 “Priest.” One who mediates.
 
-v02: δικαιοσύνη (dikaiosynē)
+v2: δικαιοσύνη (dikaiosynē)
 
 “Righteousness.” Right standing.
 
-v03: ἀγενεαλόγητος (agenealogētos)
+v3: ἀγενεαλόγητος (agenealogētos)
 
 “Without genealogy.” Lacking recorded descent.
 
-v04: δεκάτη (dekatē)
+v4: δεκάτη (dekatē)
 
 “Tithe.” Tenth portion.
 
-v07: κρείσσων (kreissōn)
+v7: κρείσσων (kreissōn)
 
 “Superior.” Greater in rank.
 
