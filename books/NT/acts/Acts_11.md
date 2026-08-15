@@ -129,9 +129,9 @@ v30: which they also did, sending it to the elders by the hand of Barnabas and S
 
 ## Notes
 
-v01–03: Inclusion of Gentiles creates tension within existing identity structures.
+v1–3: Inclusion of Gentiles creates tension within existing identity structures.
 
-v04–10: Vision redefines categories of clean and unclean.
+v4–10: Vision redefines categories of clean and unclean.
 
 v12: “No distinction” becomes a governing principle.
 
@@ -155,19 +155,19 @@ v29–30: Material support expresses unity across regions.
 
 ## Vocabulary
 
-v02: περιτομή (peritomē)
+v2: περιτομή (peritomē)
 
 “Circumcision.”
 
-v05: ἔκστασις (ekstasis)
+v5: ἔκστασις (ekstasis)
 
 “Trance.”
 
-v08: κοινός (koinos)
+v8: κοινός (koinos)
 
 “Common.”
 
-v09: καθαρίζω (katharizō)
+v9: καθαρίζω (katharizō)
 
 “To cleanse.”
 
