@@ -57,23 +57,23 @@ v16: They profess to know God, but they deny him by their works. They are detest
 
 ## Notes
 
-v01–03: Purpose, promise, and proclamation are linked without separation.
+v1–3: Purpose, promise, and proclamation are linked without separation.
 
-v02: Divine reliability is asserted without argument.
+v2: Divine reliability is asserted without argument.
 
-v03: Timing is described as appropriate, not explained.
+v3: Timing is described as appropriate, not explained.
 
-v04: Relationship is framed as familial and shared.
+v4: Relationship is framed as familial and shared.
 
-v05: Ordering is incomplete and ongoing.
+v5: Ordering is incomplete and ongoing.
 
-v06–08: Qualifications are primarily negative and relational.
+v6–8: Qualifications are primarily negative and relational.
 
-v07: Role is defined as stewardship, not authority alone.
+v7: Role is defined as stewardship, not authority alone.
 
-v08: Positive traits are listed without hierarchy.
+v8: Positive traits are listed without hierarchy.
 
-v09: Teaching and correction are paired functions.
+v9: Teaching and correction are paired functions.
 
 v10–11: Opposition is internal and disruptive.
 
@@ -93,35 +93,35 @@ v16: Confession and action are contrasted.
 
 ## Vocabulary
 
-v01: δοῦλος (doulos)
+v1: δοῦλος (doulos)
 
 “Servant.” One belonging to another.
 
-v01: ἐκλεκτός (eklektos)
+v1: ἐκλεκτός (eklektos)
 
 “Elect.” Chosen ones.
 
-v01: εὐσέβεια (eusebeia)
+v1: εὐσέβεια (eusebeia)
 
 “Godliness.” Reverent living.
 
-v02: ἐπαγγελία (epangelia)
+v2: ἐπαγγελία (epangelia)
 
 “Promise.” Declared commitment.
 
-v05: πρεσβύτερος (presbyteros)
+v5: πρεσβύτερος (presbyteros)
 
 “Elder.” Recognized leader.
 
-v07: οἰκονόμος (oikonomos)
+v7: οἰκονόμος (oikonomos)
 
 “Steward.” Manager of a household.
 
-v08: φιλόξενος (philoxenos)
+v8: φιλόξενος (philoxenos)
 
 “Hospitality.” Love of strangers.
 
-v09: διδαχή (didachē)
+v9: διδαχή (didachē)
 
 “Teaching.” Instruction.
 
