@@ -110,11 +110,11 @@ v48: So Peter ordered them to be baptized in the name of Jesus Christ. Then they
 
 
 ## Notes
-v01–02: Cornelius “fears God… prays… gives to the poor” — Luke portrays a Gentile already oriented toward Israel’s God; piety and generosity prepare the ground, though the gospel still must be proclaimed (v22, v33–43).
+v1–2: Cornelius “fears God… prays… gives to the poor” — Luke portrays a Gentile already oriented toward Israel’s God; piety and generosity prepare the ground, though the gospel still must be proclaimed (v22, v33–43).
 
-v04: “ascended as a memorial” — Prayer and almsgiving are pictured as rising before God; God’s attention precedes human initiative.
+v4: “ascended as a memorial” — Prayer and almsgiving are pictured as rising before God; God’s attention precedes human initiative.
 
-v06: “Simon… a tanner” — Peter is already living near boundary-crossing impurity (tanning), signaling that God has been softening his social and ritual instincts.
+v6: “Simon… a tanner” — Peter is already living near boundary-crossing impurity (tanning), signaling that God has been softening his social and ritual instincts.
 
 v10–16: sheet vision / “common or unclean” — The point is bigger than food laws: God is re-forming Peter’s imagination about purity and people (explicit in v28).
 
@@ -151,19 +151,19 @@ v45: “even on the Gentiles” — The shock is the point: God gives the same g
 v47–48: “withhold the water… baptized” — Baptism follows God’s initiative; the church recognizes what God has already done and then publicly names belonging.
 
 ## Vocabulary
-v01: ἑκατοντάρχης (hekatontarchēs) — centurion
+v1: ἑκατοντάρχης (hekatontarchēs) — centurion
 
-v01: σπεῖρα (speira) — cohort; military unit
+v1: σπεῖρα (speira) — cohort; military unit
 
-v02: εὐσεβής (eusebēs) — devout; reverent
+v2: εὐσεβής (eusebēs) — devout; reverent
 
-v02: φοβέομαι τὸν θεόν (phobeomai ton theon) — to fear God; to reverence God
+v2: φοβέομαι τὸν θεόν (phobeomai ton theon) — to fear God; to reverence God
 
-v02: ἐλεημοσύνη (eleēmosynē) — alms; gifts to the poor
+v2: ἐλεημοσύνη (eleēmosynē) — alms; gifts to the poor
 
-v03: ὅραμα (horama) — vision
+v3: ὅραμα (horama) — vision
 
-v04: μνημόσυνον (mnēmosynon) — memorial; remembrance-offering
+v4: μνημόσυνον (mnēmosynon) — memorial; remembrance-offering
 
 v10: ἔκστασις (ekstasis) — trance; ecstatic state
 
