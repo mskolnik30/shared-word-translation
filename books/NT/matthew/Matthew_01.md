@@ -83,15 +83,14 @@ v25: but he did not know her until she had borne a son. And he called his name J
 
 ## Notes
 
-Notes — Matthew 1
 
-v01: “Book of the genealogy” signals both record and narrative opening; Matthew frames Jesus within covenant history rather than beginning with birth alone.  
+v1: “Book of the genealogy” signals both record and narrative opening; Matthew frames Jesus within covenant history rather than beginning with birth alone.  
 
-v03: Inclusion of Tamar introduces irregular lineage; Matthew does not sanitize the line but foregrounds it.  
+v3: Inclusion of Tamar introduces irregular lineage; Matthew does not sanitize the line but foregrounds it.  
 
-v05: Rahab and Ruth—Gentile women—anticipate the widening scope of the Messiah’s mission.  
+v5: Rahab and Ruth—Gentile women—anticipate the widening scope of the Messiah’s mission.  
 
-v06: “David the king” marks the royal hinge of the genealogy; the structure centers on kingship.  
+v6: “David the king” marks the royal hinge of the genealogy; the structure centers on kingship.  
 
 v11: Deportation to Babylon functions as theological rupture, not merely historical transition.  
 
@@ -111,7 +110,6 @@ v25: “Did not know her” preserves both virginal conception and ordinary mari
 
 ## Vocabulary
 
-Vocabulary — Matthew 1
 
 Messiah (Χριστός): Anointed one; royal and eschatological deliverer within Israel’s expectation.  
 
