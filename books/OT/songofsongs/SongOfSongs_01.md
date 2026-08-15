@@ -97,44 +97,44 @@ our rafters are cypresses.
 </p>
 
 ## Notes
-v01: The title “Song of Songs” expresses supreme excellence, meaning “the greatest song.”
-v02: The book begins with desire and affection rather than narrative introduction.
-v02–04: Love is celebrated as a gift marked by joy, delight, and mutual attraction.
-v03: A person's “name” refers to reputation, character, and identity.
-v04: The royal imagery introduces themes that continue throughout the song.
-v05–06: The bride acknowledges her sun-darkened appearance without shame while explaining her labor in the vineyards.
-v06: The neglected vineyard becomes a metaphor for her own care and circumstances.
-v07: The bride's search reveals both longing and devotion.
-v08: The beloved responds with reassurance rather than rebuke.
-v09: The comparison to a mare among Pharaoh's chariots emphasizes beauty, dignity, and attention-commanding presence.
+v1: The title “Song of Songs” expresses supreme excellence, meaning “the greatest song.”
+v2: The book begins with desire and affection rather than narrative introduction.
+v2–4: Love is celebrated as a gift marked by joy, delight, and mutual attraction.
+v3: A person's “name” refers to reputation, character, and identity.
+v4: The royal imagery introduces themes that continue throughout the song.
+v5–6: The bride acknowledges her sun-darkened appearance without shame while explaining her labor in the vineyards.
+v6: The neglected vineyard becomes a metaphor for her own care and circumstances.
+v7: The bride's search reveals both longing and devotion.
+v8: The beloved responds with reassurance rather than rebuke.
+v9: The comparison to a mare among Pharaoh's chariots emphasizes beauty, dignity, and attention-commanding presence.
 v12–14: Fragrance imagery repeatedly symbolizes attraction, delight, and cherished presence.
 v14: En-gedi was famous for its fertile oasis and vineyards near the Dead Sea.
 v15–17: The chapter concludes with mutual admiration rather than one-sided praise.
 v16–17: The imagery of house, cedar, and cypress conveys stability, beauty, and flourishing love.
 
 ## Vocabulary
-v01: שִׁיר הַשִּׁירִים (šîr haššîrîm)
+v1: שִׁיר הַשִּׁירִים (šîr haššîrîm)
 “Song of Songs.” A Hebrew expression meaning the greatest or finest song.
 
-v02: דּוֹדִים (dōḏîm)
+v2: דּוֹדִים (dōḏîm)
 “Love” or “caresses.” Expressions of affection and intimacy.
 
-v03: שֵׁם (šēm)
+v3: שֵׁם (šēm)
 “Name.” Reputation, identity, and character.
 
-v04: מֶלֶךְ (meleḵ)
+v4: מֶלֶךְ (meleḵ)
 “King.” A royal figure representing authority and honor.
 
-v05: קֵדָר (Qēḏār)
+v5: קֵדָר (Qēḏār)
 “Kedar.” A nomadic people known for their dark tents.
 
-v06: כֶּרֶם (kerem)
+v6: כֶּרֶם (kerem)
 “Vineyard.” A cultivated vineyard, often used metaphorically in the song.
 
-v07: רָעָה (rāʿâ)
+v7: רָעָה (rāʿâ)
 “To pasture.” To shepherd and care for a flock.
 
-v09: סוּסָה (sûsâ)
+v9: סוּסָה (sûsâ)
 “Mare.” A female horse, here used as a poetic comparison.
 
 v12: נֵרְדְּ (nērd)
