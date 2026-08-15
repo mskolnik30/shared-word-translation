@@ -71,53 +71,53 @@ v13: But God judges those outside. “Remove the evil person from among yourselv
 
 ## Notes
 
-v01–02: Tolerated sin is more severe than external immorality.
+v1–2: Tolerated sin is more severe than external immorality.
 
-v03–05: Discipline aims at ultimate restoration.
+v3–5: Discipline aims at ultimate restoration.
 
-v06–08: Leaven metaphor emphasizes communal influence.
+v6–8: Leaven metaphor emphasizes communal influence.
 
-v07: Christ’s sacrifice redefines identity.
+v7: Christ’s sacrifice redefines identity.
 
-v09–11: Distinction between internal discipline and external association.
+v9–11: Distinction between internal discipline and external association.
 
 v12–13: Judgment responsibility is limited to the community.
 
 ## Vocabulary
 
-v01: πορνεία (porneia)
+v1: πορνεία (porneia)
 
 “Sexual immorality.”
 
-v02: πενθέω (pentheō)
+v2: πενθέω (pentheō)
 
 “To mourn.”
 
-v03: παρών (parōn)
+v3: παρών (parōn)
 
 “Present.”
 
-v05: ὄλεθρος (olethros)
+v5: ὄλεθρος (olethros)
 
 “Destruction.”
 
-v06: ζύμη (zymē)
+v6: ζύμη (zymē)
 
 “Leaven.”
 
-v07: καθαίρω (kathairō)
+v7: καθαίρω (kathairō)
 
 “To cleanse.”
 
-v07: πάσχα (pascha)
+v7: πάσχα (pascha)
 
 “Passover.”
 
-v08: εἰλικρίνεια (eilikrineia)
+v8: εἰλικρίνεια (eilikrineia)
 
 “Sincerity.”
 
-v09: συναναμίγνυμι (synanamignymi)
+v9: συναναμίγνυμι (synanamignymi)
 
 “To associate with.”
 
