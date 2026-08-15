@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The LORD Appears to Abraham
 
 <p>
@@ -93,7 +92,7 @@ v33: And the LORD went his way, when he had finished speaking to Abraham, and Ab
 
 ## Notes
 
-v01–02: The appearance of the LORD is narrated through human figures, holding together divine presence and embodied encounter.  
+v1–2: The appearance of the LORD is narrated through human figures, holding together divine presence and embodied encounter.  
 
 v10: “I will surely return” signals covenant fidelity; the promise is anchored in divine timing, not human capacity.  
 
@@ -108,16 +107,15 @@ v25: “Judge of all the earth” universalizes the LORD’s authority beyond Is
 ## Vocabulary
 
 
-
-v01: רָאָה (rāʾāh)  
+v1: רָאָה (rāʾāh)  
 
 “To see.” Used for perception, often marking significant encounter or divine appearance.  
 
-v03: חֵן (ḥēn)  
+v3: חֵן (ḥēn)  
 
 “Favor, grace.” Acceptance granted within a relational context.  
 
-v09: אָשָּׁה (ʾiššāh)  
+v9: אָשָּׁה (ʾiššāh)  
 
 “Woman, wife.” Context determines nuance between role and identity.  
 
