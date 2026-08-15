@@ -181,13 +181,13 @@ v33: Now the God of peace be with you all. Amen.
 
 ## Notes
 
-v01–03: Strength is expressed through bearing others’ weakness.
+v1–3: Strength is expressed through bearing others’ weakness.
 
-v04: Scripture sustains endurance and hope.
+v4: Scripture sustains endurance and hope.
 
-v05–07: Unity results in unified glorification of God.
+v5–7: Unity results in unified glorification of God.
 
-v08–12: Christ fulfills promises and extends mercy to Gentiles.
+v8–12: Christ fulfills promises and extends mercy to Gentiles.
 
 v13: Hope is Spirit-empowered.
 
@@ -205,31 +205,31 @@ v33: Peace frames the conclusion.
 
 ## Vocabulary
 
-v01: ἀσθένεια (astheneia)
+v1: ἀσθένεια (astheneia)
 
 “Weakness.”
 
-v02: οἰκοδομέω (oikodomeō)
+v2: οἰκοδομέω (oikodomeō)
 
 “To build up.”
 
-v04: ὑπομονή (hypomonē)
+v4: ὑπομονή (hypomonē)
 
 “Endurance.”
 
-v05: ὁμοφρονέω (homophroneō)
+v5: ὁμοφρονέω (homophroneō)
 
 “To think the same.”
 
-v07: προσλαμβάνω (proslambanō)
+v7: προσλαμβάνω (proslambanō)
 
 “To receive.”
 
-v08: διάκονος (diakonos)
+v8: διάκονος (diakonos)
 
 “Servant.”
 
-v09: ἔλεος (eleos)
+v9: ἔλεος (eleos)
 
 “Mercy.”
 
