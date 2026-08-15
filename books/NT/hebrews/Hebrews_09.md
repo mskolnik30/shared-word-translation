@@ -80,17 +80,17 @@ v28: so Christ, having been offered once to bear the sins of many, will appear a
 
 ## Notes
 
-v01–05: Description is selective and not exhaustive.
+v1–5: Description is selective and not exhaustive.
 
-v05: Detail is intentionally limited.
+v5: Detail is intentionally limited.
 
-v06–07: Access is restricted and structured.
+v6–7: Access is restricted and structured.
 
-v07: Blood mediates entry.
+v7: Blood mediates entry.
 
-v08–09: Present arrangement is symbolic, not final.
+v8–9: Present arrangement is symbolic, not final.
 
-v09–10: External regulations do not affect the inner conscience.
+v9–10: External regulations do not affect the inner conscience.
 
 v11–12: Contrast shifts from earthly to heavenly.
 
@@ -116,31 +116,31 @@ v28: Future appearance shifts purpose from sin to salvation.
 
 ## Vocabulary
 
-v01: λατρεία (latreia)
+v1: λατρεία (latreia)
 
 “Worship.” Service rendered.
 
-v02: λυχνία (lychnia)
+v2: λυχνία (lychnia)
 
 “Lampstand.” Light-bearing structure.
 
-v03: καταπέτασμα (katapetasma)
+v3: καταπέτασμα (katapetasma)
 
 “Curtain.” Divider.
 
-v04: κιβωτός (kibōtos)
+v4: κιβωτός (kibōtos)
 
 “Ark.” Sacred container.
 
-v07: αἷμα (haima)
+v7: αἷμα (haima)
 
 “Blood.” Life given.
 
-v08: δηλόω (dēloō)
+v8: δηλόω (dēloō)
 
 “To indicate.” To make clear.
 
-v09: παραβολή (parabolē)
+v9: παραβολή (parabolē)
 
 “Symbol.” Illustration.
 
