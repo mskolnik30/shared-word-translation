@@ -106,8 +106,8 @@ v55: Early in the morning Laban rose and kissed his grandchildren and his daught
 </p>
 
 ## Notes
-v01–03: The change in Laban's attitude coincides with God's command for Jacob to return to Canaan.
-v07: Jacob interprets his prosperity not as personal skill but as God's protection against Laban's manipulation.
+v1–3: The change in Laban's attitude coincides with God's command for Jacob to return to Canaan.
+v7: Jacob interprets his prosperity not as personal skill but as God's protection against Laban's manipulation.
 v13: The God who appeared at Bethel identifies himself through Jacob's earlier vow, linking past promise and present guidance.
 v14–16: Rachel and Leah surprisingly stand united, viewing their father as having treated them as property rather than heirs.
 v19: Rachel's theft of the household gods is reported without explanation. The narrative leaves her motives unstated.
@@ -119,10 +119,10 @@ v42: “The Fear of Isaac” is a unique title for God, emphasizing reverence an
 v44–55: The covenant establishes boundaries rather than partnership. Peace is maintained through separation.
 
 ## Vocabulary
-v03: שׁוּב (shûḇ)
+v3: שׁוּב (shûḇ)
 “To return.” A key covenant theme involving return to the land and to God's purposes.
 
-v07: רָמָה (rāmâ)
+v7: רָמָה (rāmâ)
 “To deceive.” The same root often associated with trickery and manipulation.
 
 v10: חֲלוֹם (ḥălôm)
