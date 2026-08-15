@@ -95,15 +95,15 @@ v24: Moreover, his concubine, whose name was Reumah, bore Tebah, Gaham, Tahash, 
 
 ## Notes
 
-v01: “Tested” frames the narrative explicitly; the event is not arbitrary but revelatory.  
+v1: “Tested” frames the narrative explicitly; the event is not arbitrary but revelatory.  
 
-v02: “Your son, your only son, whom you love” intensifies the relational cost; the language echoes covenant promise.  
+v2: “Your son, your only son, whom you love” intensifies the relational cost; the language echoes covenant promise.  
 
-v05: Abraham’s statement anticipates return, holding tension between obedience and trust.  
+v5: Abraham’s statement anticipates return, holding tension between obedience and trust.  
 
-v08: “God will provide” becomes the theological center of the passage.  
+v8: “God will provide” becomes the theological center of the passage.  
 
-v09: The binding (later termed the Aqedah) marks the climactic act of obedience.  
+v9: The binding (later termed the Aqedah) marks the climactic act of obedience.  
 
 v12: “Now I know that you fear God” defines obedience as reverent trust expressed in action.  
 
@@ -115,23 +115,23 @@ v16–18: The oath reinforces covenant promises with heightened solemnity (“By
 
 ## Vocabulary
 
-v01: נָסָה (nāsāh)  
+v1: נָסָה (nāsāh)  
 
 “To test.” To prove or examine faithfulness.  
 
-v02: יָחִיד (yāḥîd)  
+v2: יָחִיד (yāḥîd)  
 
 “Only, unique.” Emphasizes singularity and preciousness.  
 
-v03: שָׁכַם (šākam)  
+v3: שָׁכַם (šākam)  
 
 “To rise early.” Often marks decisive obedience.  
 
-v08: רָאָה (rāʾāh)  
+v8: רָאָה (rāʾāh)  
 
 “To see, provide.” Can carry the sense of seeing to it, providing.  
 
-v09: עָקַד (ʿāqad)  
+v9: עָקַד (ʿāqad)  
 
 “To bind.” Source of the term “binding of Isaac.”  
 
