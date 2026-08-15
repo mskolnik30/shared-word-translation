@@ -99,19 +99,19 @@ v25: And great crowds followed him from Galilee, the Decapolis, Jerusalem, Judea
 </p>
 
 ## Notes
-v01: Jesus is led by the Spirit into the wilderness. Testing is not opposed to God’s will; it occurs within it. The text does not explain purpose or outcome in advance.
+v1: Jesus is led by the Spirit into the wilderness. Testing is not opposed to God’s will; it occurs within it. The text does not explain purpose or outcome in advance.
 
-v02: Hunger is named plainly. Jesus’ vulnerability is real, not symbolic.
+v2: Hunger is named plainly. Jesus’ vulnerability is real, not symbolic.
 
-v03: The first temptation addresses identity: “If you are the Son of God.” The question presses Jesus to secure identity through power rather than trust.
+v3: The first temptation addresses identity: “If you are the Son of God.” The question presses Jesus to secure identity through power rather than trust.
 
-v04: Jesus responds with Scripture, not argument. Life is defined as dependence, not self-sufficiency.
+v4: Jesus responds with Scripture, not argument. Life is defined as dependence, not self-sufficiency.
 
-v05–6: Scripture itself is used as temptation. The issue is not citation, but misuse—forcing God’s faithfulness rather than receiving it.
+v5–6: Scripture itself is used as temptation. The issue is not citation, but misuse—forcing God’s faithfulness rather than receiving it.
 
-v07: Jesus refuses to test God. Trust is distinguished from spectacle.
+v7: Jesus refuses to test God. Trust is distinguished from spectacle.
 
-v08–9: The final temptation offers dominion without suffering. Power is separated from obedience and offered as a shortcut.
+v8–9: The final temptation offers dominion without suffering. Power is separated from obedience and offered as a shortcut.
 
 v10: Jesus’ refusal is decisive. Worship and service are named as exclusive, not negotiable.
 
@@ -128,25 +128,25 @@ v23: Teaching, proclamation, and healing are held together. No single activity d
 v25: Crowds gather from diverse regions. The ministry draws beyond expected boundaries without explanation.
 
 ## Vocabulary
-v01: πειράζω (peirazō) — test; try; put to the proof
+v1: πειράζω (peirazō) — test; try; put to the proof
 
-v01: ἔρημος (erēmos) — wilderness; deserted place
+v1: ἔρημος (erēmos) — wilderness; deserted place
 
-v02: πεινάω (peinaō) — be hungry
+v2: πεινάω (peinaō) — be hungry
 
-v03: υἱὸς τοῦ θεοῦ (huios tou theou) — Son of God
+v3: υἱὸς τοῦ θεοῦ (huios tou theou) — Son of God
 
-v04: ῥῆμα (rhēma) — word; spoken word
+v4: ῥῆμα (rhēma) — word; spoken word
 
-v05: πτερύγιον (pterygion) — pinnacle; highest point
+v5: πτερύγιον (pterygion) — pinnacle; highest point
 
-v05: ἱερόν (hieron) — temple precinct
+v5: ἱερόν (hieron) — temple precinct
 
-v07: ἐκπειράζω (ekpeirazō) — put to the test; test thoroughly
+v7: ἐκπειράζω (ekpeirazō) — put to the test; test thoroughly
 
-v08: βασιλεῖαι (basileiai) — kingdoms; realms of rule
+v8: βασιλεῖαι (basileiai) — kingdoms; realms of rule
 
-v08: δόξα (doxa) — glory; splendor
+v8: δόξα (doxa) — glory; splendor
 
 v10: προσκυνέω (proskyneō) — worship; bow down
 
