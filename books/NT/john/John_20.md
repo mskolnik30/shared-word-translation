@@ -69,13 +69,13 @@ v31: but these are written so that you may trust that Jesus is the Christ, the S
 
 
 ## Notes
-v01: “first day… still dark” — Resurrection dawn breaks into darkness; John signals new creation beginning while grief still feels like night.
+v1: “first day… still dark” — Resurrection dawn breaks into darkness; John signals new creation beginning while grief still feels like night.
 
-v02: “They have taken the Lord” — Mary assumes theft, not resurrection. The empty tomb is ambiguous without encounter and interpretation.
+v2: “They have taken the Lord” — Mary assumes theft, not resurrection. The empty tomb is ambiguous without encounter and interpretation.
 
-v05–07: linen cloths / face cloth “rolled up” — Details imply intentionality, not hurried grave-robbing; the scene quietly points to resurrection order.
+v5–7: linen cloths / face cloth “rolled up” — Details imply intentionality, not hurried grave-robbing; the scene quietly points to resurrection order.
 
-v08–09: “he saw and trusted… did not yet understand” — John distinguishes early trust from full comprehension; faith can precede detailed understanding of scripture.
+v8–9: “he saw and trusted… did not yet understand” — John distinguishes early trust from full comprehension; faith can precede detailed understanding of scripture.
 
 v11–13: Mary weeping / angels — The story honors grief; heavenly presence does not scold tears but asks what the tears mean.
 
@@ -106,25 +106,24 @@ v29: “Blessed… not seen… trusted” — The gospel blesses later believers
 v31: “written so that you may trust… have life” — John states his purpose: signs are selected to generate trust and life—life defined as participation in Jesus’ name and identity.
 
 
-
 ## Vocabulary
-v01: μνῆμα (mnēma) — tomb; memorial tomb
+v1: μνῆμα (mnēma) — tomb; memorial tomb
 
-v01: σκοτία (skotia) — darkness
+v1: σκοτία (skotia) — darkness
 
-v01: λίθος (lithos) — stone
+v1: λίθος (lithos) — stone
 
-v02: κύριος (kyrios) — Lord; master
+v2: κύριος (kyrios) — Lord; master
 
-v05: ὀθόνιον (othonion) — linen cloths
+v5: ὀθόνιον (othonion) — linen cloths
 
-v07: σουδάριον (soudarion) — face cloth; head covering
+v7: σουδάριον (soudarion) — face cloth; head covering
 
-v08: ὁράω (horaō) — to see
+v8: ὁράω (horaō) — to see
 
-v08: πιστεύω (pisteuō) — to trust; to believe
+v8: πιστεύω (pisteuō) — to trust; to believe
 
-v09: ἀνίστημι (anistēmi) — to rise; to stand up (as in resurrection)
+v9: ἀνίστημι (anistēmi) — to rise; to stand up (as in resurrection)
 
 v11: κλαίω (klaiō) — to weep
 
