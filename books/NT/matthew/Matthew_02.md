@@ -93,17 +93,16 @@ v23: And he went and lived in a city called Nazareth, so that what had been spok
 
 ## Notes
 
-Notes — Matthew 2
 
-v01: “Bethlehem of Judea” locates the birth within Davidic geography; the narrative remains tightly bound to royal expectation.  
+v1: “Bethlehem of Judea” locates the birth within Davidic geography; the narrative remains tightly bound to royal expectation.  
 
-v02: “King of the Jews” comes from Gentile lips; recognition arises from outside Israel’s leadership.  
+v2: “King of the Jews” comes from Gentile lips; recognition arises from outside Israel’s leadership.  
 
-v03: Herod’s disturbance spreads to “all Jerusalem,” suggesting political instability tied to messianic expectation.  
+v3: Herod’s disturbance spreads to “all Jerusalem,” suggesting political instability tied to messianic expectation.  
 
-v06: The citation merges prophetic texts, emphasizing rule as shepherding rather than domination.  
+v6: The citation merges prophetic texts, emphasizing rule as shepherding rather than domination.  
 
-v08: Herod’s language mimics worship but conceals intent; duplicity is framed in liturgical terms.  
+v8: Herod’s language mimics worship but conceals intent; duplicity is framed in liturgical terms.  
 
 v11: The movement from house (not manger) suggests elapsed time; homage is structured, deliberate, and costly.  
 
@@ -125,7 +124,6 @@ v23: “Nazarene” likely summarizes prophetic themes of lowliness and marginal
 
 ## Vocabulary
 
-Vocabulary — Matthew 2
 
 μάγοι: Wise men; eastern interpreters of signs, often associated with astrology or court scholarship.  
 
