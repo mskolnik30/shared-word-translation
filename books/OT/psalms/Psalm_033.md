@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The LORD’s Sovereign Word
 
 <p>
@@ -139,13 +138,13 @@ even as we hope in you.
 
 ## Notes
 
-v01–03: Worship is communal, vocal, and skillful; joy and artistry are appropriate responses to God.
+v1–3: Worship is communal, vocal, and skillful; joy and artistry are appropriate responses to God.
 
-v04–05: The LORD’s “word” and “work” are aligned—speech and action share integrity.
+v4–5: The LORD’s “word” and “work” are aligned—speech and action share integrity.
 
-v06–07: Creation arises from divine speech and breath; ordering chaos (waters, deeps) reflects sovereign control.
+v6–7: Creation arises from divine speech and breath; ordering chaos (waters, deeps) reflects sovereign control.
 
-v08–09: Universal summons—fear and awe arise from the effectiveness of divine command.
+v8–9: Universal summons—fear and awe arise from the effectiveness of divine command.
 
 v10–11: Human plans are contingent; divine counsel is enduring and generational.
 
@@ -161,59 +160,59 @@ v20–22: The community responds with waiting, trust, and petition; hope and ste
 
 ## Vocabulary
 
-v01: רָנַן (rānan)  
+v1: רָנַן (rānan)  
 
 “To shout for joy.” To cry out in rejoicing.
 
-v01: יָשָׁר (yāšār)  
+v1: יָשָׁר (yāšār)  
 
 “Upright.” Straight, morally aligned.
 
-v02: יָדָה (yāḏāh)  
+v2: יָדָה (yāḏāh)  
 
 “To give thanks.” To praise, acknowledge.
 
-v03: חָדָשׁ (ḥāḏāš)  
+v3: חָדָשׁ (ḥāḏāš)  
 
 “New.” Fresh, renewed.
 
-v04: יָשָׁר (yāšār)  
+v4: יָשָׁר (yāšār)  
 
 “Upright.” Straight, reliable.
 
-v04: אֱמוּנָה (ʾĕmûnāh)  
+v4: אֱמוּנָה (ʾĕmûnāh)  
 
 “Faithfulness.” Firmness, reliability.
 
-v05: צְדָקָה (ṣĕḏāqāh)  
+v5: צְדָקָה (ṣĕḏāqāh)  
 
 “Righteousness.” Right order, justice.
 
-v05: מִשְׁפָּט (mišpāṭ)  
+v5: מִשְׁפָּט (mišpāṭ)  
 
 “Justice.” Legal judgment.
 
-v05: חֶסֶד (ḥeseḏ)  
+v5: חֶסֶד (ḥeseḏ)  
 
 “Steadfast love.” Covenant loyalty.
 
-v06: דָּבָר (dāḇār)  
+v6: דָּבָר (dāḇār)  
 
 “Word.” Spoken command.
 
-v06: רוּחַ (rûaḥ)  
+v6: רוּחַ (rûaḥ)  
 
 “Breath/spirit.” Life-giving force.
 
-v07: תְּהוֹם (tĕhôm)  
+v7: תְּהוֹם (tĕhôm)  
 
 “Deep.” Primeval waters.
 
-v08: יָרֵא (yārēʾ)  
+v8: יָרֵא (yārēʾ)  
 
 “To fear.” Reverent awe.
 
-v09: עָמַד (ʿāmaḏ)  
+v9: עָמַד (ʿāmaḏ)  
 
 “To stand.” To be established.
 
