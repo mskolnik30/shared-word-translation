@@ -87,17 +87,17 @@ v22: but each woman shall ask of her neighbor, and any woman who lives in her ho
 
 ## Notes
 
-v01: “Mountain of God” anticipates its later significance (Sinai/Horeb).  
+v1: “Mountain of God” anticipates its later significance (Sinai/Horeb).  
 
-v02–03: The unconsumed fire signals divine presence that sustains without destroying.  
+v2–3: The unconsumed fire signals divine presence that sustains without destroying.  
 
-v04: The double call (“Moses, Moses”) marks urgency and personal address.  
+v4: The double call (“Moses, Moses”) marks urgency and personal address.  
 
-v05: Holiness redefines space—ordinary ground becomes sacred by divine presence.  
+v5: Holiness redefines space—ordinary ground becomes sacred by divine presence.  
 
-v06: The patriarchal formula anchors continuity with covenant history.  
+v6: The patriarchal formula anchors continuity with covenant history.  
 
-v07–08: God’s response is multi-sensory: seeing, hearing, knowing, and acting.  
+v7–8: God’s response is multi-sensory: seeing, hearing, knowing, and acting.  
 
 v10: Deliverance is mediated—God sends a human agent.  
 
@@ -117,35 +117,35 @@ v21–22: Departure includes reversal—those oppressed leave with provision.
 
 ## Vocabulary
 
-v02: אֵשׁ (ʾēš)  
+v2: אֵשׁ (ʾēš)  
 
 “Fire.” Manifestation of divine presence.  
 
-v03: סוּר (sûr)  
+v3: סוּר (sûr)  
 
 “To turn aside.” Movement toward attention or encounter.  
 
-v05: קֹדֶשׁ (qōḏeš)  
+v5: קֹדֶשׁ (qōḏeš)  
 
 “Holiness.” Set-apartness defined by God’s presence.  
 
-v07: רָאָה (rāʾāh)  
+v7: רָאָה (rāʾāh)  
 
 “To see.” Perception with concern.  
 
-v07: שָׁמַע (šāmaʿ)  
+v7: שָׁמַע (šāmaʿ)  
 
 “To hear.” Responsive attention.  
 
-v07: יָדַע (yāḏaʿ)  
+v7: יָדַע (yāḏaʿ)  
 
 “To know.” Experiential awareness.  
 
-v08: יָרַד (yāraḏ)  
+v8: יָרַד (yāraḏ)  
 
 “To come down.” Divine intervention into human space.  
 
-v08: נָצַל (nāṣal)  
+v8: נָצַל (nāṣal)  
 
 “To deliver.” Rescue from danger or oppression.  
 
