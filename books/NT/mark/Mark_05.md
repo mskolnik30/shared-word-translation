@@ -137,7 +137,7 @@ v43: And he strictly ordered them that no one should know this, and he told them
 
 ## Notes
 
-v09: Naming (“Legion”) reveals multiplicity and occupation.
+v9: Naming (“Legion”) reveals multiplicity and occupation.
 
 v19: Mission begins at home; restoration leads to witness.
 
@@ -149,9 +149,9 @@ v41: Aramaic is preserved; immediacy of command is emphasized.
 
 ## Vocabulary
 
-v02: πνεῦμα ἀκάθαρτον (pneuma akatharton) — unclean spirit.
+v2: πνεῦμα ἀκάθαρτον (pneuma akatharton) — unclean spirit.
 
-v09: λεγιών (legiōn) — legion, many.
+v9: λεγιών (legiōn) — legion, many.
 
 v30: δύναμις (dynamis) — power.
 
