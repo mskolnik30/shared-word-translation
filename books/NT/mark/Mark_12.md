@@ -161,11 +161,11 @@ v44: For they all put in out of their abundance, but she out of her poverty put 
 
 ## Notes
 
-v01: The vineyard imagery evokes Israel’s scriptural tradition without needing explicit identification.
+v1: The vineyard imagery evokes Israel’s scriptural tradition without needing explicit identification.
 
-v06: “Beloved son” echoes earlier divine language while functioning within the parable’s story.
+v6: “Beloved son” echoes earlier divine language while functioning within the parable’s story.
 
-v09: Judgment leads to transfer, not abandonment of the vineyard.
+v9: Judgment leads to transfer, not abandonment of the vineyard.
 
 v13: Pharisees and Herodians again unite around opposition, despite differing political instincts.
 
@@ -187,19 +187,19 @@ v44: The widow’s gift is total; the phrase “whole life” preserves the seve
 
 ## Vocabulary
 
-v01: ἀμπελών (ampelōn)
+v1: ἀμπελών (ampelōn)
 
 “Vineyard.” A cultivated field, often carrying covenantal resonance.
 
-v01: γεωργός (geōrgos)
+v1: γεωργός (geōrgos)
 
 “Tenant, farmer.” One entrusted with cultivation and return.
 
-v06: ἀγαπητός (agapētos)
+v6: ἀγαπητός (agapētos)
 
 “Beloved.” Term of affection and chosen relation.
 
-v07: κληρονόμος (klēronomos)
+v7: κληρονόμος (klēronomos)
 
 “Heir.” One who receives inheritance by right.
 
