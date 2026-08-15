@@ -198,25 +198,25 @@ v31: Egypt and Cush represent distant nations drawn into acknowledgment of God.
 v32–35: The closing summons returns to universal praise. God’s transcendence (“ancient heavens”) and immediacy (“gives power”) are held together.
 
 ## Vocabulary
-v01: קוּם (qum)
+v1: קוּם (qum)
 “To arise.” Often signals divine action in judgment or deliverance.
 
-v02: נָדַף (nadaph)
+v2: נָדַף (nadaph)
 “To drive away.” Used for dispersing or scattering.
 
-v04: רָכַב (rakhav)
+v4: רָכַב (rakhav)
 “To ride.” Frequently used of divine movement across heavens or wilderness.
 
-v05: אָב (ʾav)
+v5: אָב (ʾav)
 “Father.” Here extended metaphorically to protector of the vulnerable.
 
-v06: יָשַׁב (yashav)
+v6: יָשַׁב (yashav)
 “To settle” or “to cause to dwell.” Indicates establishment in a place.
 
-v07: יָצָא (yatsaʾ)
+v7: יָצָא (yatsaʾ)
 “To go out.” Often used for divine leading in exodus contexts.
 
-v08: רָעַשׁ (raʿash)
+v8: רָעַשׁ (raʿash)
 “To quake.” Describes trembling of the earth.
 
 v11: דָּבָר (davar)
