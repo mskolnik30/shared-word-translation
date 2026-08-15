@@ -122,9 +122,9 @@ v27: but I discipline my body and bring it into subjection, lest after proclaimi
 
 ## Notes
 
-v01–02: Apostolic authority is validated by transformed community.
+v1–2: Apostolic authority is validated by transformed community.
 
-v03–14: Right to material support is established from practice and Scripture.
+v3–14: Right to material support is established from practice and Scripture.
 
 v12: Rights are voluntarily surrendered for the gospel’s sake.
 
@@ -138,27 +138,27 @@ v24–27: Athletic imagery illustrates disciplined pursuit of faithfulness.
 
 ## Vocabulary
 
-v01: ἀπόστολος (apostolos)
+v1: ἀπόστολος (apostolos)
 
 “Apostle.”
 
-v02: σφραγίς (sphragis)
+v2: σφραγίς (sphragis)
 
 “Seal.”
 
-v03: ἀπολογία (apologia)
+v3: ἀπολογία (apologia)
 
 “Defense.”
 
-v04: ἐξουσία (exousia)
+v4: ἐξουσία (exousia)
 
 “Right.”
 
-v07: στρατεύομαι (strateuomai)
+v7: στρατεύομαι (strateuomai)
 
 “To serve as a soldier.”
 
-v09: φιμόω (phimoō)
+v9: φιμόω (phimoō)
 
 “To muzzle.”
 
