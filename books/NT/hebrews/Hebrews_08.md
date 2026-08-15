@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The High Priest of a Better Covenant
 
 <p>
@@ -77,23 +76,23 @@ v13: In speaking of a new covenant, he makes the first obsolete. And what is bec
 
 ## Notes
 
-v01: Summary is stated explicitly rather than inferred.
+v1: Summary is stated explicitly rather than inferred.
 
-v01–02: Location defines role; heavenly context is emphasized.
+v1–2: Location defines role; heavenly context is emphasized.
 
-v03–04: Priesthood requires offering; role is functional.
+v3–4: Priesthood requires offering; role is functional.
 
-v05: Earthly service is described as derivative.
+v5: Earthly service is described as derivative.
 
-v05: Pattern precedes construction.
+v5: Pattern precedes construction.
 
-v06: Superiority is comparative across ministry, covenant, and promises.
+v6: Superiority is comparative across ministry, covenant, and promises.
 
-v07: Second covenant implies insufficiency of the first.
+v7: Second covenant implies insufficiency of the first.
 
-v08–12: Citation is extended without interruption.
+v8–12: Citation is extended without interruption.
 
-v09: Discontinuity is attributed to failure to continue.
+v9: Discontinuity is attributed to failure to continue.
 
 v10: Internalization replaces external instruction.
 
@@ -105,31 +104,31 @@ v13: Obsolescence is gradual, not instantaneous.
 
 ## Vocabulary
 
-v01: θρόνος (thronos)
+v1: θρόνος (thronos)
 
 “Throne.” Seat of authority.
 
-v02: σκηνή (skēnē)
+v2: σκηνή (skēnē)
 
 “Tent.” Tabernacle.
 
-v03: προσφέρω (prospherō)
+v3: προσφέρω (prospherō)
 
 “To offer.” To present.
 
-v05: ὑπόδειγμα (hypodeigma)
+v5: ὑπόδειγμα (hypodeigma)
 
 “Copy.” Representation.
 
-v05: σκιά (skia)
+v5: σκιά (skia)
 
 “Shadow.” Incomplete form.
 
-v06: διαθήκη (diathēkē)
+v6: διαθήκη (diathēkē)
 
 “Covenant.” Binding arrangement.
 
-v07: ἄμεμπτος (amemptos)
+v7: ἄμεμπτος (amemptos)
 
 “Faultless.” Without defect.
 
