@@ -291,7 +291,7 @@ v71: And they said, “What further need do we have of testimony? For we ourselv
 
 ## Notes
 
-v03: Satan’s entry into Judas frames betrayal as both human and spiritual.
+v3: Satan’s entry into Judas frames betrayal as both human and spiritual.
 
 v15–16: Passover is interpreted in light of coming suffering and fulfillment.
 
@@ -321,11 +321,11 @@ v66–71: The trial centers on identity claims tied to divine authority.
 
 ## Vocabulary
 
-v01: πάσχα (pascha)
+v1: πάσχα (pascha)
 
 “Passover.”
 
-v03: εἰσέρχομαι (eiserchomai)
+v3: εἰσέρχομαι (eiserchomai)
 
 “To enter.”
 
