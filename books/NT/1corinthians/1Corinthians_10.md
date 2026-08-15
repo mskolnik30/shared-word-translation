@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Warning from Israel’s History
 
 <p>
@@ -145,9 +144,9 @@ v33: just as I also please all people in all things, not seeking my own advantag
 
 ## Notes
 
-v01–05: Shared privilege does not guarantee divine approval.
+v1–5: Shared privilege does not guarantee divine approval.
 
-v06–10: Israel’s failures serve as warnings.
+v6–10: Israel’s failures serve as warnings.
 
 v11–12: Instruction is directed toward those in the final age.
 
@@ -163,31 +162,31 @@ v31–33: All actions are oriented toward God’s glory and others’ salvation.
 
 ## Vocabulary
 
-v01: νεφέλη (nephelē)
+v1: νεφέλη (nephelē)
 
 “Cloud.”
 
-v02: βαπτίζω (baptizō)
+v2: βαπτίζω (baptizō)
 
 “To baptize.”
 
-v04: πέτρα (petra)
+v4: πέτρα (petra)
 
 “Rock.”
 
-v06: τύπος (typos)
+v6: τύπος (typos)
 
 “Example.”
 
-v07: εἰδωλολάτρης (eidōlolatrēs)
+v7: εἰδωλολάτρης (eidōlolatrēs)
 
 “Idolater.”
 
-v08: πορνεύω (porneuō)
+v8: πορνεύω (porneuō)
 
 “To commit sexual immorality.”
 
-v09: πειράζω (peirazō)
+v9: πειράζω (peirazō)
 
 “To test.”
 
