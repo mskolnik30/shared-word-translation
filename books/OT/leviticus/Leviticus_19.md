@@ -33,7 +33,7 @@ v18: You shall not take vengeance or keep anger against the sons of your people,
 
 ## Notes
 
-v01–02: Holiness is derivative—Israel reflects the character of the LORD. The command is communal (“all the congregation”).
+v1–2: Holiness is derivative—Israel reflects the character of the LORD. The command is communal (“all the congregation”).
 
 v15: Justice resists both partiality toward the poor and deference to the powerful. Righteousness is even-handed.
 
@@ -45,7 +45,7 @@ v18: The prohibition of vengeance culminates in positive command—love defines 
 
 ## Vocabulary
 
-v02: קָדַשׁ (qāḏaš)  
+v2: קָדַשׁ (qāḏaš)  
 
 “To be holy.” To be set apart for divine purpose.
 
