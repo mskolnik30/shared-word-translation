@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Joseph and His Brothers
 
 <p>
@@ -141,15 +140,15 @@ v36: Meanwhile the Midianites sold him in Egypt to Potiphar, an officer of Phara
 
 ## Notes
 
-v02: Joseph’s “bad report” introduces tension—truth-telling or betrayal remains ambiguous.  
+v2: Joseph’s “bad report” introduces tension—truth-telling or betrayal remains ambiguous.  
 
-v03: The robe marks status and distinction, functioning as a visible symbol of favor.  
+v3: The robe marks status and distinction, functioning as a visible symbol of favor.  
 
-v04: Hatred escalates to the breakdown of basic relational speech (“could not speak peaceably”).  
+v4: Hatred escalates to the breakdown of basic relational speech (“could not speak peaceably”).  
 
-v05–08: Dreams function as revelation, but also intensify hostility due to their implications.  
+v5–8: Dreams function as revelation, but also intensify hostility due to their implications.  
 
-v09–11: The second dream expands scope from family hierarchy to cosmic symbolism.  
+v9–11: The second dream expands scope from family hierarchy to cosmic symbolism.  
 
 v18–20: The brothers attempt to negate the future by eliminating the dreamer.  
 
@@ -171,23 +170,23 @@ v36: The narrative pivots toward Egypt, setting the stage for reversal.
 
 ## Vocabulary
 
-v02: דִּבָּה (dibbāh)  
+v2: דִּבָּה (dibbāh)  
 
 “Report, rumor.” Often with negative connotation.  
 
-v03: כְּתֹנֶת (kᵉṯōneṯ)  
+v3: כְּתֹנֶת (kᵉṯōneṯ)  
 
 “Robe, tunic.” Garment marking identity or status.  
 
-v04: שָׂנֵא (śānēʾ)  
+v4: שָׂנֵא (śānēʾ)  
 
 “To hate.” Rejection that fractures relationship.  
 
-v05: חֲלוֹם (ḥălôm)  
+v5: חֲלוֹם (ḥălôm)  
 
 “Dream.” Medium of divine or symbolic communication.  
 
-v08: מָלַךְ (mālaḵ)  
+v8: מָלַךְ (mālaḵ)  
 
 “To reign.” Exercise of royal authority.  
 
