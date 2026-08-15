@@ -67,15 +67,15 @@ v25: As for all the hills that used to be hoed with a hoe, you will not go there
 </p>
 
 ## Notes
-v02: “the house of David… shook” — The crisis is political, but the deeper issue is theological: the royal line trembles as if God’s promise is fragile.
+v2: “the house of David… shook” — The crisis is political, but the deeper issue is theological: the royal line trembles as if God’s promise is fragile.
 
-v03: Shear-jashub — Isaiah’s child’s name (“A remnant shall return”) is part of the message: judgment is real, yet God preserves a future.
+v3: Shear-jashub — Isaiah’s child’s name (“A remnant shall return”) is part of the message: judgment is real, yet God preserves a future.
 
-v04: “be quiet… do not fear” — This is not denial of danger; it is a summons to non-anxious trust in the LORD rather than reactive alliances.
+v4: “be quiet… do not fear” — This is not denial of danger; it is a summons to non-anxious trust in the LORD rather than reactive alliances.
 
-v07: “It shall not stand” — God interrupts the plot with a decisive “no”; history is not finally governed by threats and conspiracies.
+v7: “It shall not stand” — God interrupts the plot with a decisive “no”; history is not finally governed by threats and conspiracies.
 
-v09: “If you do not stand firm in trust, you will not stand at all” — The hinge line: stability is not military strength but steadfast trust; refusal of trust becomes collapse.
+v9: “If you do not stand firm in trust, you will not stand at all” — The hinge line: stability is not military strength but steadfast trust; refusal of trust becomes collapse.
 
 v11: “Ask a sign” — God accommodates weakness, inviting confirmation rather than demanding stoic certainty.
 
@@ -97,25 +97,25 @@ v23–25: “briers and thorns… cattle… sheep” — The land imagery is cov
 
 
 ## Vocabulary
-v01: אָחָז (’Achaz) — Ahaz
+v1: אָחָז (’Achaz) — Ahaz
 
-v02: בֵּית דָּוִד (bet David) — house of David
+v2: בֵּית דָּוִד (bet David) — house of David
 
-v02: לֵב (lev) — heart; inner self; will
+v2: לֵב (lev) — heart; inner self; will
 
-v02: רוּחַ (ruach) — wind; spirit; breath
+v2: רוּחַ (ruach) — wind; spirit; breath
 
-v03: שְׁאָר יָשׁוּב (She’ar-yashub) — “A remnant shall return”
+v3: שְׁאָר יָשׁוּב (She’ar-yashub) — “A remnant shall return”
 
-v04: יָרֵא (yare) — to fear; to be afraid
+v4: יָרֵא (yare) — to fear; to be afraid
 
-v04: לֵבָב (levav) — heart; inner resolve (variant form)
+v4: לֵבָב (levav) — heart; inner resolve (variant form)
 
-v06: בָּקַע (baqaʿ) — to split open; to breach
+v6: בָּקַע (baqaʿ) — to split open; to breach
 
-v07: קוּם (qum) — to stand; to arise; to be established
+v7: קוּם (qum) — to stand; to arise; to be established
 
-v09: אָמַן (’aman) — to be firm; to stand fast; to trust
+v9: אָמַן (’aman) — to be firm; to stand fast; to trust
 
 v11: אוֹת (’ot) — sign; mark; portent
 
