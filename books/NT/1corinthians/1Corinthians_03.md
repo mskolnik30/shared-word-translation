@@ -107,9 +107,9 @@ v23: and you are Christ’s, and Christ is God’s.
 
 ## Notes
 
-v01–03: Spiritual immaturity is evidenced by division.
+v1–3: Spiritual immaturity is evidenced by division.
 
-v05–09: Ministers are instruments; God is the source of growth.
+v5–9: Ministers are instruments; God is the source of growth.
 
 v10–11: Christ alone is the foundation.
 
@@ -123,31 +123,31 @@ v21–23: Believers belong to Christ, transcending factionalism.
 
 ## Vocabulary
 
-v01: σάρκινος (sarkinos)
+v1: σάρκινος (sarkinos)
 
 “Fleshly.”
 
-v02: γάλα (gala)
+v2: γάλα (gala)
 
 “Milk.”
 
-v03: ζῆλος (zēlos)
+v3: ζῆλος (zēlos)
 
 “Jealousy.”
 
-v05: διάκονος (diakonos)
+v5: διάκονος (diakonos)
 
 “Servant.”
 
-v06: φυτεύω (phyteuō)
+v6: φυτεύω (phyteuō)
 
 “To plant.”
 
-v07: αὐξάνω (auxanō)
+v7: αὐξάνω (auxanō)
 
 “To grow.”
 
-v09: συνεργός (synergos)
+v9: συνεργός (synergos)
 
 “Fellow worker.”
 
