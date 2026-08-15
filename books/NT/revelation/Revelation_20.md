@@ -67,25 +67,25 @@ v15: And if anyone’s name was not found written in the book of life, he was th
 
 ## Notes
 
-v01: The angel acts with given authority; restraint precedes release.
+v1: The angel acts with given authority; restraint precedes release.
 
-v02: Multiple identifiers are retained without harmonization.
+v2: Multiple identifiers are retained without harmonization.
 
-v03: Deception is limited temporally, not eliminated.
+v3: Deception is limited temporally, not eliminated.
 
-v04: Authority to judge is given; identity of those seated is not defined.
+v4: Authority to judge is given; identity of those seated is not defined.
 
-v04: Resurrection and reign are stated without mechanism.
+v4: Resurrection and reign are stated without mechanism.
 
-v05–06: The distinction between first and second is asserted without explanation.
+v5–6: The distinction between first and second is asserted without explanation.
 
-v06: Blessing is tied to participation rather than condition.
+v6: Blessing is tied to participation rather than condition.
 
-v07–08: Release leads immediately to deception; pattern repeats.
+v7–8: Release leads immediately to deception; pattern repeats.
 
-v08: “Gog and Magog” are invoked without clarification.
+v8: “Gog and Magog” are invoked without clarification.
 
-v09: Conflict is resolved abruptly; no battle description is given.
+v9: Conflict is resolved abruptly; no battle description is given.
 
 v10: Final judgment of the devil parallels prior figures.
 
@@ -99,31 +99,31 @@ v15: The book of life functions as final distinction without elaboration.
 
 ## Vocabulary
 
-v01: ἄβυσσος (abyssos)
+v1: ἄβυσσος (abyssos)
 
 “Abyss.” Place of confinement or depth.
 
-v02: δέω (deō)
+v2: δέω (deō)
 
 “To bind.” To restrain or limit.
 
-v03: σφραγίζω (sphragizō)
+v3: σφραγίζω (sphragizō)
 
 “To seal.” To close securely.
 
-v04: θρόνος (thronos)
+v4: θρόνος (thronos)
 
 “Throne.” Seat of authority.
 
-v05: ἀνάστασις (anastasis)
+v5: ἀνάστασις (anastasis)
 
 “Resurrection.” Rising to life.
 
-v06: δεύτερος θάνατος (deuteros thanatos)
+v6: δεύτερος θάνατος (deuteros thanatos)
 
 “Second death.” Final state of judgment.
 
-v08: πλανάω (planaō)
+v8: πλανάω (planaō)
 
 “To deceive.” To lead astray.
 
