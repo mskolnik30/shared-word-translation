@@ -159,11 +159,11 @@ v47: And Mary Magdalene and Mary the mother of Joses were watching where he was 
 
 ## Notes
 
-v01: Jesus is handed from religious authority to imperial authority; responsibility is shared without being flattened.
+v1: Jesus is handed from religious authority to imperial authority; responsibility is shared without being flattened.
 
-v02: “You say so” is neither simple denial nor ordinary confession.
+v2: “You say so” is neither simple denial nor ordinary confession.
 
-v05: Jesus’ silence continues the passion pattern of restraint before accusation.
+v5: Jesus’ silence continues the passion pattern of restraint before accusation.
 
 v10–15: Pilate recognizes envy yet acts to satisfy the crowd, exposing political cowardice.
 
@@ -189,23 +189,23 @@ v47: The burial location is witnessed, preparing for the resurrection narrative.
 
 ## Vocabulary
 
-v01: συμβούλιον (symboulion)
+v1: συμβούλιον (symboulion)
 
 “Council, plan.” Deliberation toward action, often hostile in Mark.
 
-v01: Πιλᾶτος (Pilatos)
+v1: Πιλᾶτος (Pilatos)
 
 “Pilate.” Roman governor representing imperial authority.
 
-v02: βασιλεὺς τῶν Ἰουδαίων (basileus tōn Ioudaiōn)
+v2: βασιλεὺς τῶν Ἰουδαίων (basileus tōn Ioudaiōn)
 
 “King of the Jews.” Political title used in accusation and mockery.
 
-v05: θαυμάζω (thaumazō)
+v5: θαυμάζω (thaumazō)
 
 “To marvel, be amazed.” Pilate’s response to Jesus’ silence.
 
-v07: στάσις (stasis)
+v7: στάσις (stasis)
 
 “Uprising, revolt.” Political disturbance or rebellion.
 
