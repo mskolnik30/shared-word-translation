@@ -91,13 +91,13 @@ v22: Then Pharaoh commanded all his people, “Every son that is born to the Heb
 
 ## Notes
 
-v01–05: The opening recalls Genesis, anchoring continuity of identity and promise.  
+v1–5: The opening recalls Genesis, anchoring continuity of identity and promise.  
 
-v07: Multiplication fulfills earlier blessing language, now set within tension.  
+v7: Multiplication fulfills earlier blessing language, now set within tension.  
 
-v08: “Did not know Joseph” signals political discontinuity and selective memory.  
+v8: “Did not know Joseph” signals political discontinuity and selective memory.  
 
-v09–10: Fear drives policy; perceived threat leads to systemic control.  
+v9–10: Fear drives policy; perceived threat leads to systemic control.  
 
 v11–14: Oppression intensifies from labor exploitation to dehumanizing conditions.  
 
@@ -115,15 +115,15 @@ v22: Violence expands from targeted command to public decree, involving the whol
 
 ## Vocabulary
 
-v07: פָּרָה (pārāh)  
+v7: פָּרָה (pārāh)  
 
 “To be fruitful.” Growth under blessing.  
 
-v07: רָבָה (rāḇāh)  
+v7: רָבָה (rāḇāh)  
 
 “To multiply.” Increase in number or extent.  
 
-v08: מֶלֶךְ (meleḵ)  
+v8: מֶלֶךְ (meleḵ)  
 
 “King.” Political authority.  
 
