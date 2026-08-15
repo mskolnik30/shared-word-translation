@@ -30,19 +30,19 @@ v09: And the crowds that went ahead of him and that followed were shouting, “H
 </p>
 
 ## Notes
-v01: “Mount of Olives” — The setting carries prophetic weight; Jesus approaches Jerusalem from the ridge associated with God’s promised deliverance and kingship.
+v1: “Mount of Olives” — The setting carries prophetic weight; Jesus approaches Jerusalem from the ridge associated with God’s promised deliverance and kingship.
 
-v02–03: “The Lord has need of them” — Jesus acts with calm authority and purposeful humility; even the borrowing of an animal serves the sign of his reign.
+v2–3: “The Lord has need of them” — Jesus acts with calm authority and purposeful humility; even the borrowing of an animal serves the sign of his reign.
 
-v04–05: “to fulfill… ‘gentle… mounted on a donkey’” — The entry is a deliberate redefinition of kingship: not coercive power, but humble, peace-shaped authority.
+v4–5: “to fulfill… ‘gentle… mounted on a donkey’” — The entry is a deliberate redefinition of kingship: not coercive power, but humble, peace-shaped authority.
 
-v06–07: “did as Jesus directed… laid their cloaks” — Discipleship is concrete obedience; honor is offered with what they have, not with ideal resources.
+v6–7: “did as Jesus directed… laid their cloaks” — Discipleship is concrete obedience; honor is offered with what they have, not with ideal resources.
 
-v08: “spread their cloaks… branches” — The crowd enacts royal welcome; public hopes rise and the city becomes a stage of expectation.
+v8: “spread their cloaks… branches” — The crowd enacts royal welcome; public hopes rise and the city becomes a stage of expectation.
 
-v09: “Hosanna… Son of David… in the name of the Lord” — The shout is prayer and proclamation (“Save, we pray!”) with messianic language; the crowd reaches for deliverance, even if they do not yet grasp its cost.
+v9: “Hosanna… Son of David… in the name of the Lord” — The shout is prayer and proclamation (“Save, we pray!”) with messianic language; the crowd reaches for deliverance, even if they do not yet grasp its cost.
 
-v09: “Hosanna in the highest” — Praise stretches from street-level longing to heavenward worship, framing Jesus’ arrival as both political and spiritual upheaval.
+v9: “Hosanna in the highest” — Praise stretches from street-level longing to heavenward worship, framing Jesus’ arrival as both political and spiritual upheaval.
 
 v10: “the whole city was stirred up” — Jesus’ arrival is not private spirituality; it disrupts the public order and forces a question of identity.
 
@@ -77,17 +77,17 @@ v43: “producing its fruits” — The kingdom is not a possession to protect b
 v45–46: “they knew… speaking about them… feared the crowds” — Recognition does not produce repentance; fear of people replaces fear of God, and the plot tightens around Jesus.
 
 ## Vocabulary
-v01: Βηθφαγή (Bēthphagē) — Bethphage
+v1: Βηθφαγή (Bēthphagē) — Bethphage
 
-v01: Ἐλαιῶν (Elaiōn) — olives (Mount of Olives)
+v1: Ἐλαιῶν (Elaiōn) — olives (Mount of Olives)
 
-v03: κύριος (kyrios) — Lord; master
+v3: κύριος (kyrios) — Lord; master
 
-v05: πραΰς (praÿs) — gentle; meek (strength under restraint)
+v5: πραΰς (praÿs) — gentle; meek (strength under restraint)
 
-v09: ὡσαννά (hōsanna) — “Hosanna!” (save, we pray)
+v9: ὡσαννά (hōsanna) — “Hosanna!” (save, we pray)
 
-v09: υἱὸς Δαυίδ (huios Dauid) — Son of David
+v9: υἱὸς Δαυίδ (huios Dauid) — Son of David
 
 v10: σείω (seiō) — to shake; to stir up; to agitate
 
