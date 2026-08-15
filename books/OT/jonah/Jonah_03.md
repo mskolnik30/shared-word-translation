@@ -47,55 +47,55 @@ v10: When God saw what they did, how they turned from their evil way, God relent
 </p>
 
 ## Notes
-v01: Jonah receives the prophetic commission a second time, demonstrating God's persistence and mercy toward his servant.
-v02: Unlike chapter 1, Jonah now responds in obedience to the LORD's command.
-v03: Nineveh is described as a remarkably large and important city.
-v04: Jonah's message is brief and entirely focused on impending judgment.
-v05: The people of Nineveh respond immediately with belief, repentance, and public mourning.
-v05: Repentance begins among the people before the king responds.
-v06–08: The king humbles himself publicly, exchanging royal dignity for signs of repentance.
-v08: Genuine repentance includes both sorrow and a turning away from evil conduct.
-v08: Violence is singled out as a defining characteristic of Nineveh's wrongdoing.
-v09: The king appeals to God's mercy without presuming upon it.
+v1: Jonah receives the prophetic commission a second time, demonstrating God's persistence and mercy toward his servant.
+v2: Unlike chapter 1, Jonah now responds in obedience to the LORD's command.
+v3: Nineveh is described as a remarkably large and important city.
+v4: Jonah's message is brief and entirely focused on impending judgment.
+v5: The people of Nineveh respond immediately with belief, repentance, and public mourning.
+v5: Repentance begins among the people before the king responds.
+v6–8: The king humbles himself publicly, exchanging royal dignity for signs of repentance.
+v8: Genuine repentance includes both sorrow and a turning away from evil conduct.
+v8: Violence is singled out as a defining characteristic of Nineveh's wrongdoing.
+v9: The king appeals to God's mercy without presuming upon it.
 v10: God responds not merely to words but to observable repentance and changed behavior.
 v10: God's relenting does not indicate a change in character but demonstrates his consistent mercy toward those who turn from evil.
 v10: The chapter highlights the contrast between Nineveh's readiness to repent and Jonah's earlier resistance to God's word.
 
 ## Vocabulary
-v01: שֵׁנִית (šēnîṯ)
+v1: שֵׁנִית (šēnîṯ)
 “Second time.” Indicating a repeated action or renewed opportunity.
 
-v02: קָרָא (qārāʾ)
+v2: קָרָא (qārāʾ)
 “To proclaim” or “cry out.” To announce a message publicly and forcefully.
 
-v03: נִינְוֵה (Nînĕwēh)
+v3: נִינְוֵה (Nînĕwēh)
 “Nineveh.” The capital city of the Assyrian Empire.
 
-v04: הָפַךְ (hāpaḵ)
+v4: הָפַךְ (hāpaḵ)
 “To overthrow.” To destroy, overturn, or bring to ruin.
 
-v05: אָמַן (ʾāman)
+v5: אָמַן (ʾāman)
 “To believe.” To trust, accept, or place confidence in.
 
-v05: צוֹם (ṣôm)
+v5: צוֹם (ṣôm)
 “Fast.” Abstaining from food as an expression of repentance or mourning.
 
-v05: שַׂק (śaq)
+v5: שַׂק (śaq)
 “Sackcloth.” Coarse mourning garments worn in humility and grief.
 
-v06: אֵפֶר (ʾēp̄er)
+v6: אֵפֶר (ʾēp̄er)
 “Ashes.” A symbol of mourning, repentance, and humiliation.
 
-v08: זָעַק (zāʿaq)
+v8: זָעַק (zāʿaq)
 “To cry out.” To call urgently for help or mercy.
 
-v08: דֶּרֶךְ רָעָה (dereḵ rāʿâ)
+v8: דֶּרֶךְ רָעָה (dereḵ rāʿâ)
 “Evil way.” A pattern of sinful conduct or behavior.
 
-v08: חָמָס (ḥāmās)
+v8: חָמָס (ḥāmās)
 “Violence.” Wrongful force, oppression, or brutality.
 
-v09: נָחַם (nāḥam)
+v9: נָחַם (nāḥam)
 “To relent.” To withhold announced judgment in response to changed circumstances.
 
 v10: שׁוּב (šûḇ)
