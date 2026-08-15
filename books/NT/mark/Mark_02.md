@@ -103,7 +103,7 @@ v28: So the Son of Man is lord even of the Sabbath.”
 
 ## Notes
 
-v05: Forgiveness precedes healing; the visible sign confirms the invisible claim.
+v5: Forgiveness precedes healing; the visible sign confirms the invisible claim.
 
 v10: “Son of Man” carries both humility and authority without explicit definition.
 
@@ -113,7 +113,7 @@ v27: The Sabbath is interpreted teleologically—its purpose governs its use.
 
 ## Vocabulary
 
-v05: ἀφίημι (aphiēmi) — “to forgive,” release from obligation.
+v5: ἀφίημι (aphiēmi) — “to forgive,” release from obligation.
 
 v10: ἐξουσία (exousia) — authority, delegated or inherent power.
 
