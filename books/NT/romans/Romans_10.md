@@ -115,13 +115,13 @@ v21: But concerning Israel he says,
 
 ## Notes
 
-v01–02: Zeal without knowledge results in misdirected pursuit.
+v1–2: Zeal without knowledge results in misdirected pursuit.
 
-v03–04: Christ fulfills and terminates the law’s role in righteousness.
+v3–4: Christ fulfills and terminates the law’s role in righteousness.
 
-v06–08: Salvation is not achieved by effort but received by faith.
+v6–8: Salvation is not achieved by effort but received by faith.
 
-v09–10: Confession and belief function together.
+v9–10: Confession and belief function together.
 
 v11–13: Salvation is universally available without distinction.
 
@@ -133,31 +133,31 @@ v18–21: Israel’s rejection fulfills Scripture and opens way for Gentiles.
 
 ## Vocabulary
 
-v02: ζῆλος (zēlos)
+v2: ζῆλος (zēlos)
 
 “Zeal.”
 
-v03: ὑποτάσσω (hypotassō)
+v3: ὑποτάσσω (hypotassō)
 
 “To submit.”
 
-v04: τέλος (telos)
+v4: τέλος (telos)
 
 “End, fulfillment.”
 
-v06: ἀναβαίνω (anabainō)
+v6: ἀναβαίνω (anabainō)
 
 “To ascend.”
 
-v07: ἄβυσσος (abyssos)
+v7: ἄβυσσος (abyssos)
 
 “Abyss.”
 
-v08: ῥῆμα (rhēma)
+v8: ῥῆμα (rhēma)
 
 “Word.”
 
-v09: ὁμολογέω (homologeō)
+v9: ὁμολογέω (homologeō)
 
 “To confess.”
 
