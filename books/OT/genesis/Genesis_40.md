@@ -53,9 +53,9 @@ v23: Yet the chief cupbearer did not remember Joseph, but forgot him.
 </p>
 
 ## Notes
-v01–04: Joseph's prison responsibilities continue to increase despite his unjust circumstances.
-v05: The paired dreams prepare for Joseph's future role as interpreter of Pharaoh's dreams.
-v08: Joseph immediately attributes the ability to interpret dreams to God rather than to himself.
+v1–4: Joseph's prison responsibilities continue to increase despite his unjust circumstances.
+v5: The paired dreams prepare for Joseph's future role as interpreter of Pharaoh's dreams.
+v8: Joseph immediately attributes the ability to interpret dreams to God rather than to himself.
 v12–13: The restoration of the cupbearer demonstrates that God reveals accurate knowledge of future events.
 v14–15: Joseph openly declares his innocence and asks for remembrance, showing both faith and human longing for deliverance.
 v16–19: Joseph delivers the unfavorable interpretation as faithfully as the favorable one.
@@ -65,19 +65,19 @@ v23: The chapter ends with disappointment. Joseph remains forgotten by the very 
 v23: Human forgetfulness delays Joseph's release, but the larger narrative continues to move according to God's timing.
 
 ## Vocabulary
-v01: מַשְׁקֶה (mašqeh)
+v1: מַשְׁקֶה (mašqeh)
 “Cupbearer.” An official responsible for serving the king's drink.
 
-v02: סָרִיס (sārîs)
+v2: סָרִיס (sārîs)
 “Officer” or “court official.” A high-ranking servant in a royal household.
 
-v05: חֲלוֹם (ḥălôm)
+v5: חֲלוֹם (ḥălôm)
 “Dream.” A significant means of divine revelation in Genesis.
 
-v08: פִּתְרוֹן (piṯrôn)
+v8: פִּתְרוֹן (piṯrôn)
 “Interpretation.” The explanation or meaning of a dream.
 
-v08: אֱלֹהִים (ʾĕlōhîm)
+v8: אֱלֹהִים (ʾĕlōhîm)
 “God.” Joseph insists that true interpretation belongs to God alone.
 
 v13: נָשָׂא אֶת־רֹאשׁ (nāśāʾ ʾeṯ-rōʾš)
