@@ -181,11 +181,11 @@ v36: For from him and through him and to him are all things. To him be the glory
 
 ## Notes
 
-v01–02: God’s covenantal faithfulness remains intact.
+v1–2: God’s covenantal faithfulness remains intact.
 
-v05–06: Grace excludes works as a basis.
+v5–6: Grace excludes works as a basis.
 
-v07–10: Hardening fulfills Scripture.
+v7–10: Hardening fulfills Scripture.
 
 v11–15: Israel’s rejection serves Gentile inclusion and future restoration.
 
@@ -201,19 +201,19 @@ v33–36: Theology culminates in doxology.
 
 ## Vocabulary
 
-v02: προγινώσκω (proginōskō)
+v2: προγινώσκω (proginōskō)
 
 “To foreknow.”
 
-v05: λεῖμμα (leimma)
+v5: λεῖμμα (leimma)
 
 “Remnant.”
 
-v06: χάρις (charis)
+v6: χάρις (charis)
 
 “Grace.”
 
-v07: πώρωσις (pōrōsis)
+v7: πώρωσις (pōrōsis)
 
 “Hardening.”
 
