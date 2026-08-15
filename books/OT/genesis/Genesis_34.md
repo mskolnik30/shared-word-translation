@@ -68,11 +68,11 @@ v31: But they said, “Should he treat our sister like a prostitute?”
 </p>
 
 ## Notes
-v01–02: Dinah's encounter with Shechem initiates a narrative marked by violence, dishonor, and competing claims of justice.
-v02: The text describes Shechem's actions as both sexual violation and humiliation. The gravity of the offense shapes the entire chapter.
-v03–04: Shechem's affection for Dinah does not erase or lessen the wrongdoing already committed.
-v07: The phrase “an outrageous thing in Israel” anticipates language later used for acts that violate communal and covenantal order.
-v08–12: Hamor and Shechem seek reconciliation through marriage and economic integration.
+v1–2: Dinah's encounter with Shechem initiates a narrative marked by violence, dishonor, and competing claims of justice.
+v2: The text describes Shechem's actions as both sexual violation and humiliation. The gravity of the offense shapes the entire chapter.
+v3–4: Shechem's affection for Dinah does not erase or lessen the wrongdoing already committed.
+v7: The phrase “an outrageous thing in Israel” anticipates language later used for acts that violate communal and covenantal order.
+v8–12: Hamor and Shechem seek reconciliation through marriage and economic integration.
 v13: The sons of Jacob respond deceitfully. The narrative does not present their actions as morally uncomplicated.
 v14–17: Circumcision, the sign of covenant, is employed as part of a strategy of revenge.
 v21–23: Hamor's speech reveals economic motivations alongside the desire for alliance.
@@ -81,13 +81,13 @@ v30: Jacob's first response concerns the danger now facing his household among t
 v31: The chapter ends without resolution. The question raised by Simeon and Levi remains unanswered, leaving justice, vengeance, and covenant identity in tension.
 
 ## Vocabulary
-v02: עָנָה (ʿānâ)
+v2: עָנָה (ʿānâ)
 “To afflict,” “humiliate,” or “violate.” A term often associated with abuse and degradation.
 
-v03: דָּבַק (dāḇaq)
+v3: דָּבַק (dāḇaq)
 “To cling” or “hold fast.” Describes strong attachment or devotion.
 
-v07: נְבָלָה (nĕḇālâ)
+v7: נְבָלָה (nĕḇālâ)
 “Outrageous thing,” “folly,” or “disgrace.” Conduct viewed as morally intolerable.
 
 v10: אָחַז (ʾāḥaz)
