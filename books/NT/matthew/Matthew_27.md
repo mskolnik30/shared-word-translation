@@ -163,7 +163,6 @@ v66: So they went and made the tomb secure by sealing the stone and setting the 
 </p>
 
 
-
 ## Notes
 v01–02: “took counsel… delivered… to Pilate” — Religious leadership and imperial power collaborate; “handing over” is how unjust systems launder responsibility.
 
@@ -288,6 +287,5 @@ v62: παρασκευή (paraskeuē) — Preparation (day of Preparation)
 v64: ἀσφαλίζω (asphalizō) — to secure; to make safe
 
 v66: σφραγίζω (sphragizō) — to seal
-
 
 
