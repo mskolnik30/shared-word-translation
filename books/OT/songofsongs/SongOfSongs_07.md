@@ -77,15 +77,15 @@ my beloved.
 </p>
 
 ## Notes
-v01–05: The beloved's praise begins at the feet and moves upward, celebrating the bride's beauty as a unified whole.
-v01: “Noble daughter” expresses dignity and honor as well as affection.
-v02–04: Images of wine, wheat, lilies, ivory, and pools communicate abundance, beauty, and vitality.
-v04: Heshbon and Lebanon provide geographic imagery associated with strength, beauty, and prominence.
-v05: Carmel was renowned for its beauty and elevation, making it a fitting comparison.
-v05: The beloved is portrayed as captivated by the bride's beauty.
-v06: The praise culminates in delight not merely in appearance but in the person as a whole.
-v07–09: The palm tree imagery emphasizes fruitfulness, grace, and delight.
-v09: The imagery remains poetic and celebratory, expressing mutual affection within the relationship.
+v1–5: The beloved's praise begins at the feet and moves upward, celebrating the bride's beauty as a unified whole.
+v1: “Noble daughter” expresses dignity and honor as well as affection.
+v2–4: Images of wine, wheat, lilies, ivory, and pools communicate abundance, beauty, and vitality.
+v4: Heshbon and Lebanon provide geographic imagery associated with strength, beauty, and prominence.
+v5: Carmel was renowned for its beauty and elevation, making it a fitting comparison.
+v5: The beloved is portrayed as captivated by the bride's beauty.
+v6: The praise culminates in delight not merely in appearance but in the person as a whole.
+v7–9: The palm tree imagery emphasizes fruitfulness, grace, and delight.
+v9: The imagery remains poetic and celebratory, expressing mutual affection within the relationship.
 v10: The bride's declaration parallels earlier statements of mutual belonging while emphasizing the beloved's desire for her.
 v11–13: The bride now takes the initiative, inviting the beloved into a setting of beauty, fruitfulness, and intimacy.
 v12: Vineyards and blossoms symbolize flourishing love and renewed delight.
@@ -93,28 +93,28 @@ v13: Mandrakes were traditionally associated with love and fertility.
 v13: The chapter ends with the bride offering the treasures she has reserved for her beloved.
 
 ## Vocabulary
-v01: נָדִיב (nāḏîḇ)
+v1: נָדִיב (nāḏîḇ)
 “Noble.” One characterized by dignity, generosity, or honor.
 
-v02: מֶזֶג (mezeḡ)
+v2: מֶזֶג (mezeḡ)
 “Mixed wine.” Wine blended and prepared for enjoyment.
 
-v02: חִטָּה (ḥiṭṭâ)
+v2: חִטָּה (ḥiṭṭâ)
 “Wheat.” A staple grain and symbol of abundance.
 
-v03: צְבִיָּה (ṣĕḇiyyâ)
+v3: צְבִיָּה (ṣĕḇiyyâ)
 “Gazelle.” An image of grace and beauty.
 
-v04: שֵׁן (šēn)
+v4: שֵׁן (šēn)
 “Ivory.” A costly material associated with beauty and luxury.
 
-v05: כַּרְמֶל (Karmel)
+v5: כַּרְמֶל (Karmel)
 “Carmel.” A mountain region known for fertility and beauty.
 
-v07: תָּמָר (tāmār)
+v7: תָּמָר (tāmār)
 “Palm tree.” A symbol of fruitfulness, beauty, and vitality.
 
-v09: יַיִן (yayin)
+v9: יַיִן (yayin)
 “Wine.” A symbol of joy, celebration, and delight.
 
 v10: תְּשׁוּקָה (tĕšûqâ)
