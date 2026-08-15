@@ -73,15 +73,15 @@ v14: But put on the Lord Jesus Christ, and make no provision for the flesh, for 
 
 ## Notes
 
-v01–02: Authority is framed as divinely ordered.
+v1–2: Authority is framed as divinely ordered.
 
-v03–04: Government functions as moral restraint.
+v3–4: Government functions as moral restraint.
 
-v05: Submission includes internal (conscience) and external (wrath) motives.
+v5: Submission includes internal (conscience) and external (wrath) motives.
 
-v06–07: Civic obligations are expressions of order.
+v6–7: Civic obligations are expressions of order.
 
-v08–10: Love fulfills the intent of the law.
+v8–10: Love fulfills the intent of the law.
 
 v11–12: Eschatological urgency shapes ethical conduct.
 
@@ -89,39 +89,39 @@ v13–14: Moral transformation is expressed through conduct and identity in Chri
 
 ## Vocabulary
 
-v01: ἐξουσία (exousia)
+v1: ἐξουσία (exousia)
 
 “Authority.”
 
-v02: ἀντιτάσσω (antitassō)
+v2: ἀντιτάσσω (antitassō)
 
 “To resist.”
 
-v03: φόβος (phobos)
+v3: φόβος (phobos)
 
 “Fear.”
 
-v04: διάκονος (diakonos)
+v4: διάκονος (diakonos)
 
 “Servant.”
 
-v04: ἔκδικος (ekdikos)
+v4: ἔκδικος (ekdikos)
 
 “Avenger.”
 
-v05: συνείδησις (syneidēsis)
+v5: συνείδησις (syneidēsis)
 
 “Conscience.”
 
-v06: φόρος (phoros)
+v6: φόρος (phoros)
 
 “Tax.”
 
-v08: ἀγαπάω (agapaō)
+v8: ἀγαπάω (agapaō)
 
 “To love.”
 
-v09: ἀνακεφαλαιόω (anakephalaiōō)
+v9: ἀνακεφαλαιόω (anakephalaiōō)
 
 “To sum up.”
 
