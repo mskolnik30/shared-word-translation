@@ -47,21 +47,21 @@ v17: for the great day of their wrath has come, and who is able to stand?”
 
 ## Notes
 
-v01: Each seal is opened by the Lamb, but the summons (“Come”) is issued by the living creatures.
+v1: Each seal is opened by the Lamb, but the summons (“Come”) is issued by the living creatures.
 
-v02: The rider’s conquest is stated without clarification of identity or method.
+v2: The rider’s conquest is stated without clarification of identity or method.
 
-v04: Violence is described as permitted, not self-originating.
+v4: Violence is described as permitted, not self-originating.
 
-v05–06: Economic imagery signals scarcity; value is distorted rather than absent.
+v5–6: Economic imagery signals scarcity; value is distorted rather than absent.
 
-v06: The preservation of oil and wine introduces asymmetry without explanation.
+v6: The preservation of oil and wine introduces asymmetry without explanation.
 
-v08: Death and Hades are paired, linking event and domain.
+v8: Death and Hades are paired, linking event and domain.
 
-v08: Authority is partial (“a fourth”), not total.
+v8: Authority is partial (“a fourth”), not total.
 
-v09: The slain are located “under the altar,” associating death with offering.
+v9: The slain are located “under the altar,” associating death with offering.
 
 v10: The cry for justice remains unanswered in timing, not denied.
 
@@ -77,31 +77,31 @@ v17: The question remains open; no answer is provided.
 
 ## Vocabulary
 
-v02: τόξον (toxon)
+v2: τόξον (toxon)
 
 “Bow.” Weapon of distance, implying indirect force.
 
-v04: μάχαιρα (machaira)
+v4: μάχαιρα (machaira)
 
 “Sword.” Instrument of close violence.
 
-v05: ζυγός (zygos)
+v5: ζυγός (zygos)
 
 “Scales.” Tool for weighing, here signaling controlled scarcity.
 
-v06: δηνάριον (dēnarion)
+v6: δηνάριον (dēnarion)
 
 “Denarius.” A day’s wage, indicating economic strain.
 
-v08: θάνατος (thanatos)
+v8: θάνατος (thanatos)
 
 “Death.” Personified as an active agent.
 
-v08: ᾅδης (hadēs)
+v8: ᾅδης (hadēs)
 
 “Hades.” The realm of the dead, following death itself.
 
-v09: ψυχή (psychē)
+v9: ψυχή (psychē)
 
 “Soul.” The life of a person, here continuing beyond death.
 
