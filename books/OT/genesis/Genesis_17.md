@@ -50,11 +50,11 @@ v27: And all the men of his household, those born in the house and those bought 
 </p>
 
 ## Notes
-v01: “God Almighty” translates El Shaddai. The title is introduced in connection with covenant promise and divine sufficiency.
-v01: Walking before God and being blameless describes covenant faithfulness rather than moral perfection.
-v04–08: The covenant promises expand beyond descendants and land to include nations, kings, and an enduring relationship with God.
-v05: Abram’s new name marks a transformed identity grounded in divine promise rather than present circumstances.
-v07: The covenant is described as everlasting, emphasizing God's continuing commitment across generations.
+v1: “God Almighty” translates El Shaddai. The title is introduced in connection with covenant promise and divine sufficiency.
+v1: Walking before God and being blameless describes covenant faithfulness rather than moral perfection.
+v4–8: The covenant promises expand beyond descendants and land to include nations, kings, and an enduring relationship with God.
+v5: Abram’s new name marks a transformed identity grounded in divine promise rather than present circumstances.
+v7: The covenant is described as everlasting, emphasizing God's continuing commitment across generations.
 v10–14: Circumcision becomes the physical sign of covenant belonging. The sign marks both descendants and members of Abraham’s household.
 v15–16: Sarah is drawn explicitly into the covenant promise. The future nation will come through her.
 v17: Abraham’s laughter expresses astonishment at the promise rather than immediate disbelief alone.
@@ -63,19 +63,19 @@ v19: Isaac’s name (“he laughs”) preserves Abraham’s response within the 
 v23–27: Abraham responds with immediate obedience. The covenant sign is enacted on the very day it is commanded.
 
 ## Vocabulary
-v01: אֵל שַׁדַּי (ʾEl Šadday)
+v1: אֵל שַׁדַּי (ʾEl Šadday)
 “God Almighty.” A divine title associated with power, sufficiency, and covenant promise.
 
-v01: תָּמִים (tāmîm)
+v1: תָּמִים (tāmîm)
 “Blameless” or “whole.” Describes integrity and undivided devotion.
 
-v02: בְּרִית (bĕrît)
+v2: בְּרִית (bĕrît)
 “Covenant.” A binding relationship established and sustained by divine commitment.
 
-v05: אַבְרָהָם (ʾAḇrāhām)
+v5: אַבְרָהָם (ʾAḇrāhām)
 “Abraham.” The name is associated with being “father of a multitude.”
 
-v06: פָּרָה (pārâ)
+v6: פָּרָה (pārâ)
 “To be fruitful.” A recurring covenant word connected with multiplication and blessing.
 
 v10: מוּל (mûl)
