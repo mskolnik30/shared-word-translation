@@ -52,39 +52,39 @@ v11: Be glad in the LORD and rejoice, O righteous,
 and shout for joy, all you upright in heart.
 
 ## Notes
-v01: Happy are those whose rebellion is forgiven,  
+v1: Happy are those whose rebellion is forgiven,  
 whose sin is covered.
 
-v02: Happy are those to whom the LORD does not count iniquity,  
+v2: Happy are those to whom the LORD does not count iniquity,  
 and in whose spirit there is no deceit.
 
-v03: While I kept silent, my bones wasted away  
+v3: While I kept silent, my bones wasted away  
 through my groaning all day long.
 
-v04: For day and night your hand was heavy upon me;  
+v4: For day and night your hand was heavy upon me;  
 my strength was dried up as by the heat of summer.  
 Selah
 
-v05: Then I acknowledged my sin to you,  
+v5: Then I acknowledged my sin to you,  
 and I did not hide my iniquity;  
 I said, “I will confess my transgressions to the LORD,”  
 and you forgave the guilt of my sin.  
 Selah
 
-v06: Therefore let all who are faithful offer prayer to you  
+v6: Therefore let all who are faithful offer prayer to you  
 at a time when you may be found;  
 surely the rush of mighty waters  
 shall not reach them.
 
-v07: You are a hiding place for me;  
+v7: You are a hiding place for me;  
 you preserve me from trouble;  
 you surround me with shouts of deliverance.  
 Selah
 
-v08: I will instruct you and teach you the way you should go;  
+v8: I will instruct you and teach you the way you should go;  
 I will counsel you with my eye upon you.
 
-v09: Do not be like a horse or a mule, without understanding,  
+v9: Do not be like a horse or a mule, without understanding,  
 whose temper must be curbed with bit and bridle,  
 else it will not stay near you.
 
@@ -95,43 +95,43 @@ v11: Be glad in the LORD and rejoice, O righteous,
 and shout for joy, all you upright in heart.
 
 ## Vocabulary
-v01: אַשְׁרֵי (’ashrê) — happy; blessed; one who is rightly situated
+v1: אַשְׁרֵי (’ashrê) — happy; blessed; one who is rightly situated
 
-v01: פֶּשַׁע (pesha‘) — rebellion; breach of relationship
+v1: פֶּשַׁע (pesha‘) — rebellion; breach of relationship
 
-v01: חָטָא (ḥaṭṭā’/ḥēṭ’) — sin; missing the mark
+v1: חָטָא (ḥaṭṭā’/ḥēṭ’) — sin; missing the mark
 
-v02: חָשַׁב (ḥāshav) — count; reckon; account
+v2: חָשַׁב (ḥāshav) — count; reckon; account
 
-v02: עָוֹן (‘āwōn) — iniquity; distortion; guilt
+v2: עָוֹן (‘āwōn) — iniquity; distortion; guilt
 
-v03: חָרַשׁ (ḥārash) — keep silent; remain quiet
+v3: חָרַשׁ (ḥārash) — keep silent; remain quiet
 
-v03: עֶצֶם (‘etsem) — bone; strength; frame
+v3: עֶצֶם (‘etsem) — bone; strength; frame
 
-v04: יָד (yād) — hand; power; sustained pressure
+v4: יָד (yād) — hand; power; sustained pressure
 
-v04: לֵשַׁד (lēshad) — moisture; vitality; life-sap
+v4: לֵשַׁד (lēshad) — moisture; vitality; life-sap
 
-v05: יָדַע (yāda‘) — acknowledge; make known
+v5: יָדַע (yāda‘) — acknowledge; make known
 
-v05: יָדָה (yādāh) — confess; give thanks; declare
+v5: יָדָה (yādāh) — confess; give thanks; declare
 
-v06: חָסִיד (ḥāsîd) — faithful one; loyal one
+v6: חָסִיד (ḥāsîd) — faithful one; loyal one
 
-v06: שֶׁטֶף (sheṭef) — flood; rushing waters
+v6: שֶׁטֶף (sheṭef) — flood; rushing waters
 
-v07: סֵתֶר (sēter) — hiding place; shelter
+v7: סֵתֶר (sēter) — hiding place; shelter
 
-v07: פָּלַט (pālaṭ) — rescue; deliver; cause to escape
+v7: פָּלַט (pālaṭ) — rescue; deliver; cause to escape
 
-v08: שָׂכַל (śākal) — give insight; instruct wisely
+v8: שָׂכַל (śākal) — give insight; instruct wisely
 
-v08: יָעַץ (yā‘aṣ) — counsel; advise
+v8: יָעַץ (yā‘aṣ) — counsel; advise
 
-v09: בִּין (bîn) — understand; discern
+v9: בִּין (bîn) — understand; discern
 
-v09: מֶתֶג (meteg) — bit; restraint
+v9: מֶתֶג (meteg) — bit; restraint
 
 v10: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
 
