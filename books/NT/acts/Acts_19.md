@@ -189,9 +189,9 @@ v41: And having said these things, he dismissed the assembly.
 
 ## Notes
 
-v02–07: Clarification of baptism aligns disciples with Jesus and the Spirit.
+v2–7: Clarification of baptism aligns disciples with Jesus and the Spirit.
 
-v08–10: Transition from synagogue to public teaching broadens reach.
+v8–10: Transition from synagogue to public teaching broadens reach.
 
 v11–12: Extraordinary works authenticate message.
 
@@ -209,23 +209,23 @@ v35–41: Civic authority restores order through legal reasoning.
 
 ## Vocabulary
 
-v02: λαμβάνω (lambanō)
+v2: λαμβάνω (lambanō)
 
 “To receive.”
 
-v03: βάπτισμα (baptisma)
+v3: βάπτισμα (baptisma)
 
 “Baptism.”
 
-v06: γλῶσσα (glōssa)
+v6: γλῶσσα (glōssa)
 
 “Tongue.”
 
-v08: παρρησιάζομαι (parrēsiazomai)
+v8: παρρησιάζομαι (parrēsiazomai)
 
 “To speak boldly.”
 
-v09: σκληρύνω (sklērynō)
+v9: σκληρύνω (sklērynō)
 
 “To harden.”
 
