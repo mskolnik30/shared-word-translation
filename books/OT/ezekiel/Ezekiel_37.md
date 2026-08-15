@@ -37,19 +37,19 @@ v14: And I will put my Spirit within you, and you shall live; and I will set you
 </p>
 
 ## Notes
-v01: “the LORD brought me out by the Spirit of the LORD” — Ezekiel’s vision is not self-generated; the scene is a Spirit-led unveiling meant to reshape hope, not entertain curiosity.
+v1: “the LORD brought me out by the Spirit of the LORD” — Ezekiel’s vision is not self-generated; the scene is a Spirit-led unveiling meant to reshape hope, not entertain curiosity.
 
-v03: “Mortal, can these bones live?” — The question exposes the limits of human assessment; Ezekiel answers with humble restraint: only the Lord GOD knows.
+v3: “Mortal, can these bones live?” — The question exposes the limits of human assessment; Ezekiel answers with humble restraint: only the Lord GOD knows.
 
-v04: “Prophesy… Dry bones, hear the word of the LORD” — God’s word addresses what appears beyond recovery; proclamation is directed even toward the lifeless.
+v4: “Prophesy… Dry bones, hear the word of the LORD” — God’s word addresses what appears beyond recovery; proclamation is directed even toward the lifeless.
 
-v05: “bring breath into you, and you shall live” — “Breath” is more than oxygen; it signals God’s life-giving power that reverses death and hopelessness.
+v5: “bring breath into you, and you shall live” — “Breath” is more than oxygen; it signals God’s life-giving power that reverses death and hopelessness.
 
-v06: “Then you shall know that I am the LORD” — This refrain frames the miracle as revelation: restoration is meant to re-form covenant recognition, not merely improve circumstances.
+v6: “Then you shall know that I am the LORD” — This refrain frames the miracle as revelation: restoration is meant to re-form covenant recognition, not merely improve circumstances.
 
-v08: “but there was no breath in them” — A deliberate two-step: structure without Spirit is not yet life; “assembled” is not the same as “alive.”
+v8: “but there was no breath in them” — A deliberate two-step: structure without Spirit is not yet life; “assembled” is not the same as “alive.”
 
-v09: “Come from the four winds… O breath” — The vision widens from a local valley to creation-scale renewal; life comes from God’s summons, not Israel’s strength.
+v9: “Come from the four winds… O breath” — The vision widens from a local valley to creation-scale renewal; life comes from God’s summons, not Israel’s strength.
 
 v10: “an exceedingly great army” — The point is not militarism but restored capacity: a people who could not stand now stand.
 
@@ -63,29 +63,29 @@ v14: “Then you shall know… I have spoken, and I have done it” — God’s 
 
 
 ## Vocabulary
-v01: יָד (yad) — hand
+v1: יָד (yad) — hand
 
-v01: רוּחַ (ruach) — spirit; breath; wind
+v1: רוּחַ (ruach) — spirit; breath; wind
 
-v01: בִּקְעָה (biq‘ah) — valley; plain
+v1: בִּקְעָה (biq‘ah) — valley; plain
 
-v02: עֶצֶם (ʿetsem) — bone
+v2: עֶצֶם (ʿetsem) — bone
 
-v03: בֶּן־אָדָם (ben-’adam) — mortal; human one (“son of man”)
+v3: בֶּן־אָדָם (ben-’adam) — mortal; human one (“son of man”)
 
-v04: נָבָא (nava) — to prophesy; to speak forth
+v4: נָבָא (nava) — to prophesy; to speak forth
 
-v05: רוּחַ (ruach) — breath; spirit (life given by God)
+v5: רוּחַ (ruach) — breath; spirit (life given by God)
 
-v06: גִּיד (gid) — sinew; tendon
+v6: גִּיד (gid) — sinew; tendon
 
-v06: בָּשָׂר (basar) — flesh
+v6: בָּשָׂר (basar) — flesh
 
-v06: עוֹר (ʿor) — skin
+v6: עוֹר (ʿor) — skin
 
-v07: רַעַשׁ (raʿash) — shaking; rattling; trembling
+v7: רַעַשׁ (raʿash) — shaking; rattling; trembling
 
-v09: רוּחַ (ruach) — wind; breath (context determines nuance)
+v9: רוּחַ (ruach) — wind; breath (context determines nuance)
 
 v10: חַיִל (chayil) — strength; force; army
 
