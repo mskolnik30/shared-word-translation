@@ -55,21 +55,19 @@ v11: The people of Judah and the people of Israel shall be gathered together, an
 
 ## Notes
 
-Notes — Hosea 1
 
-v02: The term "whoredom" relates to unfaithfulness, symbolizing Israel's infidelity to God.  
+v2: The term "whoredom" relates to unfaithfulness, symbolizing Israel's infidelity to God.  
 
-v04: Jezreel refers to a location and symbolic event associated with judgment against the house of Jehu.  
+v4: Jezreel refers to a location and symbolic event associated with judgment against the house of Jehu.  
 
-v06: Lo-ruhama means "not pitied" or "not shown mercy," indicating the withdrawal of God's compassion from Israel.  
+v6: Lo-ruhama means "not pitied" or "not shown mercy," indicating the withdrawal of God's compassion from Israel.  
 
-v09: Lo-ammi means "not my people," signifying the broken covenant relationship.  
+v9: Lo-ammi means "not my people," signifying the broken covenant relationship.  
 
 v10: The promise recalls Abrahamic covenant imagery of descendants as numerous as the sand on the seashore.  
 
 ## Vocabulary
 
-Vocabulary — Hosea 1
 
 Jezreel (יִזְרְעֶאל‎, Yizre'el): A significant location and event, symbolizing imminent divine judgment.  
 
