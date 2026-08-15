@@ -94,17 +94,17 @@ v29: for our God is a consuming fire.
 
 ## Notes
 
-v01–02: The race metaphor frames endurance as ongoing effort.
+v1–2: The race metaphor frames endurance as ongoing effort.
 
-v02: Completion is linked to both suffering and position.
+v2: Completion is linked to both suffering and position.
 
-v03–04: Comparison moderates perception of struggle.
+v3–4: Comparison moderates perception of struggle.
 
-v05–06: Discipline is grounded in relationship.
+v5–6: Discipline is grounded in relationship.
 
-v07–08: Absence of discipline signals lack of belonging.
+v7–8: Absence of discipline signals lack of belonging.
 
-v09–10: Earthly and divine discipline are contrasted.
+v9–10: Earthly and divine discipline are contrasted.
 
 v11: Outcome is delayed but productive.
 
@@ -130,27 +130,27 @@ v28–29: Worship is grounded in response to permanence.
 
 ## Vocabulary
 
-v01: νέφος (nephos)
+v1: νέφος (nephos)
 
 “Cloud.” Surrounding multitude.
 
-v01: ἀγών (agōn)
+v1: ἀγών (agōn)
 
 “Race.” Contest or struggle.
 
-v02: ἀρχηγός (archēgos)
+v2: ἀρχηγός (archēgos)
 
 “Founder.” Originator or leader.
 
-v02: τελειωτής (teleiōtēs)
+v2: τελειωτής (teleiōtēs)
 
 “Perfecter.” One who brings to completion.
 
-v05: παιδεία (paideia)
+v5: παιδεία (paideia)
 
 “Discipline.” Training or instruction.
 
-v07: υἱός (huios)
+v7: υἱός (huios)
 
 “Son.” One in relational standing.
 
