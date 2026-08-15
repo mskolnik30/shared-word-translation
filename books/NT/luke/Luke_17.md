@@ -147,13 +147,13 @@ v37: And answering, they say to him, “Where, Lord?” And he said to them, “
 
 ## Notes
 
-v01–02: Stumbling is inevitable, but responsibility for causing it is severe.
+v1–2: Stumbling is inevitable, but responsibility for causing it is severe.
 
-v03–04: Forgiveness is repeated and responsive to repentance.
+v3–4: Forgiveness is repeated and responsive to repentance.
 
-v05–06: Faith is measured by efficacy, not quantity.
+v5–6: Faith is measured by efficacy, not quantity.
 
-v07–10: Obedience does not create entitlement; duty remains duty.
+v7–10: Obedience does not create entitlement; duty remains duty.
 
 v11–14: Healing occurs in obedience before visible change.
 
@@ -181,31 +181,31 @@ v37: The final saying emphasizes inevitability and visibility of judgment.
 
 ## Vocabulary
 
-v01: σκάνδαλον (skandalon)
+v1: σκάνδαλον (skandalon)
 
 “Stumbling block.”
 
-v02: μύλος ὀνικός (mylos onikos)
+v2: μύλος ὀνικός (mylos onikos)
 
 “Millstone.”
 
-v03: ἐπιτιμάω (epitimaō)
+v3: ἐπιτιμάω (epitimaō)
 
 “To rebuke.”
 
-v04: μετανοέω (metanoeō)
+v4: μετανοέω (metanoeō)
 
 “To repent.”
 
-v05: πίστις (pistis)
+v5: πίστις (pistis)
 
 “Faith.”
 
-v06: συκάμινος (sykaminos)
+v6: συκάμινος (sykaminos)
 
 “Mulberry tree.”
 
-v08: περιζώννυμι (perizōnnymai)
+v8: περιζώννυμι (perizōnnymai)
 
 “To gird.”
 
