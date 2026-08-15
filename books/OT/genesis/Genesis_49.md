@@ -159,11 +159,11 @@ v33: When Jacob finished commanding his sons, he drew up his feet into the bed a
 </p>
 
 ## Notes
-v01–02: Jacob's words combine blessing, prophecy, and evaluation of his sons and their future tribes.
-v03–04: Reuben loses firstborn preeminence because of his earlier violation of his father's bed (Genesis 35:22).
-v05–07: Simeon and Levi are judged for the violence displayed at Shechem (Genesis 34).
-v08–12: Judah receives the longest and most exalted blessing, anticipating leadership and royal authority.
-v09: The lion imagery becomes permanently associated with the tribe of Judah.
+v1–2: Jacob's words combine blessing, prophecy, and evaluation of his sons and their future tribes.
+v3–4: Reuben loses firstborn preeminence because of his earlier violation of his father's bed (Genesis 35:22).
+v5–7: Simeon and Levi are judged for the violence displayed at Shechem (Genesis 34).
+v8–12: Judah receives the longest and most exalted blessing, anticipating leadership and royal authority.
+v9: The lion imagery becomes permanently associated with the tribe of Judah.
 v10: The scepter and ruler's staff point to enduring kingship arising from Judah.
 v11–12: Images of abundant wine and prosperity portray extraordinary blessing and fruitfulness.
 v16–18: Dan's blessing emphasizes cunning and survival rather than military strength.
@@ -176,16 +176,16 @@ v29–32: Jacob's final concern remains burial in the promised land alongside th
 v33: The phrase “gathered to his people” expresses continuity with previous generations beyond death.
 
 ## Vocabulary
-v01: אַחֲרִית הַיָּמִים (ʾaḥărîṯ hayyāmîm)
+v1: אַחֲרִית הַיָּמִים (ʾaḥărîṯ hayyāmîm)
 “Days to come” or “latter days.” A phrase pointing toward the future destiny of the tribes.
 
-v04: פַּחַז (paḥaz)
+v4: פַּחַז (paḥaz)
 “Unstable” or “reckless.” Describes uncontrolled impulsiveness.
 
-v07: פּוּץ (pûṣ)
+v7: פּוּץ (pûṣ)
 “To scatter.” To disperse among a larger population.
 
-v09: גּוּר אַרְיֵה (gûr ʾaryēh)
+v9: גּוּר אַרְיֵה (gûr ʾaryēh)
 “Lion's cub.” A symbol of strength, royalty, and dominance.
 
 v10: שֵׁבֶט (šēḇeṭ)
