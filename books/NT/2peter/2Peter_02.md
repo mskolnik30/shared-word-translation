@@ -65,19 +65,19 @@ and,
 
 ## Notes
 
-v01: False teachers are paralleled with earlier false prophets; continuity is assumed.
+v1: False teachers are paralleled with earlier false prophets; continuity is assumed.
 
-v01: Destruction is self-incurred, not externally imposed alone.
+v1: Destruction is self-incurred, not externally imposed alone.
 
-v02: Influence spreads through imitation, not coercion.
+v2: Influence spreads through imitation, not coercion.
 
-v03: Judgment is portrayed as already determined.
+v3: Judgment is portrayed as already determined.
 
-v04–06: Past examples are cumulative, not sequentially explained.
+v4–6: Past examples are cumulative, not sequentially explained.
 
-v07–08: Righteousness is expressed through distress, not separation.
+v7–8: Righteousness is expressed through distress, not separation.
 
-v09: Rescue and judgment are paired as parallel actions.
+v9: Rescue and judgment are paired as parallel actions.
 
 v10: Authority is rejected internally, not externally alone.
 
@@ -103,23 +103,23 @@ v22: Proverbial imagery summarizes without interpretation.
 
 ## Vocabulary
 
-v01: ψευδοπροφήτης (pseudoprophētēs)
+v1: ψευδοπροφήτης (pseudoprophētēs)
 
 “False prophet.” One who speaks falsely in a prophetic role.
 
-v01: αἵρεσις (hairesis)
+v1: αἵρεσις (hairesis)
 
 “Heresy.” Division or chosen teaching.
 
-v03: πλεονεξία (pleonexia)
+v3: πλεονεξία (pleonexia)
 
 “Greed.” Desire for more.
 
-v04: ταρταρόω (tartaroō)
+v4: ταρταρόω (tartaroō)
 
 “To cast into Tartarus.” To confine in a place of judgment.
 
-v07: δίκαιος (dikaios)
+v7: δίκαιος (dikaios)
 
 “Righteous.” In alignment with what is right.
 
