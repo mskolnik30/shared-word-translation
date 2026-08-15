@@ -169,13 +169,13 @@ v43: And immediately he saw again and was following him, glorifying God. And all
 
 ## Notes
 
-v01–05: Persistence in prayer is grounded in trust in divine justice, not divine reluctance.
+v1–5: Persistence in prayer is grounded in trust in divine justice, not divine reluctance.
 
-v06–08: The contrast between unjust judge and God emphasizes certainty of response.
+v6–8: The contrast between unjust judge and God emphasizes certainty of response.
 
-v08: The question of faith shifts focus from timing to endurance.
+v8: The question of faith shifts focus from timing to endurance.
 
-v09–14: Justification is grounded in humility, not comparative righteousness.
+v9–14: Justification is grounded in humility, not comparative righteousness.
 
 v11–12: The Pharisee’s prayer is self-referential, not petitionary.
 
@@ -207,23 +207,23 @@ v43: Restoration leads to following and public praise.
 
 ## Vocabulary
 
-v01: ἐγκακέω (enkakeō)
+v1: ἐγκακέω (enkakeō)
 
 “To lose heart.”
 
-v03: ἐκδικέω (ekdikeō)
+v3: ἐκδικέω (ekdikeō)
 
 “To give justice.”
 
-v05: ὑπωπιάζω (hypōpiazō)
+v5: ὑπωπιάζω (hypōpiazō)
 
 “To wear out.”
 
-v08: πίστις (pistis)
+v8: πίστις (pistis)
 
 “Faith.”
 
-v09: δικαιόω (dikaioō)
+v9: δικαιόω (dikaioō)
 
 “To justify.”
 
