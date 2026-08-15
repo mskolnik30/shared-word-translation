@@ -232,19 +232,19 @@ v43–45: Expansion beyond survival to dominion.
 v46–50: Concluding praise—personal deliverance becomes public testimony.
 
 ## Vocabulary
-v01: אָהַב (ahav)  
+v1: אָהַב (ahav)  
 “To love.” Deep attachment.
 
-v02: צוּר (tsur)  
+v2: צוּר (tsur)  
 “Rock.” Stability.
 
-v04: חֶבֶל (chevel)  
+v4: חֶבֶל (chevel)  
 “Cord.” Binding force.
 
-v06: שָׁוַע (shava)  
+v6: שָׁוַע (shava)  
 “To cry for help.” Plead.
 
-v07: רָעַשׁ (ra‘ash)  
+v7: רָעַשׁ (ra‘ash)  
 “To quake.” Shake.
 
 v10: כְּרוּב (keruv)  
