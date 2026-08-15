@@ -121,9 +121,9 @@ v35: And she conceived again and bore a son and said, “This time I will praise
 
 ## Notes
 
-v01: “Lifted his feet” suggests renewed momentum after divine encounter.  
+v1: “Lifted his feet” suggests renewed momentum after divine encounter.  
 
-v02–03: The well scene echoes earlier betrothal narratives (Rebekah), signaling a patterned meeting.  
+v2–3: The well scene echoes earlier betrothal narratives (Rebekah), signaling a patterned meeting.  
 
 v10: Jacob’s solitary act of moving the stone highlights strength and initiative, contrasting with the group norm.  
 
@@ -145,15 +145,15 @@ v32–35: Naming functions as theological interpretation—each name encodes Lea
 
 ## Vocabulary
 
-v01: נָשָׂא (nāśāʾ)  
+v1: נָשָׂא (nāśāʾ)  
 
 “To lift, carry.” Often signals transition or movement.  
 
-v02: בְּאֵר (bᵉʾēr)  
+v2: בְּאֵר (bᵉʾēr)  
 
 “Well.” Source of life and meeting place.  
 
-v03: גָּלַל (gālal)  
+v3: גָּלַל (gālal)  
 
 “To roll.” Removing obstruction.  
 
