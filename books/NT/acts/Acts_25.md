@@ -141,15 +141,15 @@ v27: For it seems unreasonable to me, in sending a prisoner, not also to indicat
 
 ## Notes
 
-v02–03: Persistent hostility continues through legal channels.
+v2–3: Persistent hostility continues through legal channels.
 
-v03: Ambush reveals intent behind formal request.
+v3: Ambush reveals intent behind formal request.
 
-v07: Accusations remain unsubstantiated.
+v7: Accusations remain unsubstantiated.
 
-v08: Paul asserts innocence across religious and civil categories.
+v8: Paul asserts innocence across religious and civil categories.
 
-v09: Political pressure influences judicial options.
+v9: Political pressure influences judicial options.
 
 v11: Appeal to Caesar invokes imperial jurisdiction.
 
@@ -163,31 +163,31 @@ v25–27: Legal process requires defined charges.
 
 ## Vocabulary
 
-v01: ἐπαρχία (eparchia)
+v1: ἐπαρχία (eparchia)
 
 “Province.”
 
-v02: ἐντυγχάνω (entynchano)
+v2: ἐντυγχάνω (entynchano)
 
 “To present a case.”
 
-v03: ἐνέδρα (enedra)
+v3: ἐνέδρα (enedra)
 
 “Ambush.”
 
-v06: βῆμα (bēma)
+v6: βῆμα (bēma)
 
 “Tribunal.”
 
-v07: κατηγορία (katēgoria)
+v7: κατηγορία (katēgoria)
 
 “Charge.”
 
-v08: ἀπολογέομαι (apologeomai)
+v8: ἀπολογέομαι (apologeomai)
 
 “To defend.”
 
-v09: χάρις (charis)
+v9: χάρις (charis)
 
 “Favor.”
 
