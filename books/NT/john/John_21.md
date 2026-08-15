@@ -47,17 +47,17 @@ v25: And there are also many other things that Jesus did, which if they were wri
 </p>
 
 ## Notes
-v01: John frames the risen Jesus as acting with initiative—he “reveals” himself, and the repetition emphasizes deliberate disclosure rather than a chance sighting.
+v1: John frames the risen Jesus as acting with initiative—he “reveals” himself, and the repetition emphasizes deliberate disclosure rather than a chance sighting.
 
-v03: The empty nets set the scene for a familiar Johannine pattern: effort without Jesus yields nothing, and the “sign” that follows is about dependence, not technique.
+v3: The empty nets set the scene for a familiar Johannine pattern: effort without Jesus yields nothing, and the “sign” that follows is about dependence, not technique.
 
-v05: “Children” functions as a relational, pastoral address—tender rather than dismissive—and signals familiarity before recognition.
+v5: “Children” functions as a relational, pastoral address—tender rather than dismissive—and signals familiarity before recognition.
 
-v06: The command to cast on the right side is not a fishing tip but an enacted sign: obedience precedes abundance, and abundance confirms the word.
+v6: The command to cast on the right side is not a fishing tip but an enacted sign: obedience precedes abundance, and abundance confirms the word.
 
-v07: Peter puts on his outer garment before rushing to Jesus, suggesting reverence and a desire to be properly presented—even in urgency.
+v7: Peter puts on his outer garment before rushing to Jesus, suggesting reverence and a desire to be properly presented—even in urgency.
 
-v09: The charcoal fire quietly echoes the charcoal fire of Peter’s denial (18:18). John uses the setting itself to prepare for restoration without humiliation.
+v9: The charcoal fire quietly echoes the charcoal fire of Peter’s denial (18:18). John uses the setting itself to prepare for restoration without humiliation.
 
 v11: “One hundred fifty-three” reads like eyewitness specificity, a concrete memory marker. The “net not torn” holds together abundance and unity under strain.
 
@@ -88,19 +88,19 @@ v24: The closing affirmation (“we know… true”) signals a community corrobo
 v25: The final hyperbole underscores excess and abundance: Jesus’s deeds overflow what can be contained in books, matching the chapter’s overflowing nets and table fellowship.
 
 ## Vocabulary
-v01: ἐφανέρωσεν (ephanerōsen) — “revealed, made manifest”
+v1: ἐφανέρωσεν (ephanerōsen) — “revealed, made manifest”
 
-v01: Θάλασσα τῆς Τιβεριάδος (Thalassa tēs Tiberiados) — “Sea of Tiberias”
+v1: Θάλασσα τῆς Τιβεριάδος (Thalassa tēs Tiberiados) — “Sea of Tiberias”
 
-v03: πιάζω (piazō) — “to catch” (fish)
+v3: πιάζω (piazō) — “to catch” (fish)
 
-v06: δεξιός (dexios) — “right (side)”
+v6: δεξιός (dexios) — “right (side)”
 
-v06: πλῆθος (plēthos) — “multitude, large number”
+v6: πλῆθος (plēthos) — “multitude, large number”
 
-v07: ἐπενδύτης (ependytēs) — “outer garment”
+v7: ἐπενδύτης (ependytēs) — “outer garment”
 
-v09: ἀνθρακιά (anthrakia) — “charcoal fire”
+v9: ἀνθρακιά (anthrakia) — “charcoal fire”
 
 v11: δίκτυον (diktyon) — “net”
 
@@ -119,6 +119,5 @@ v19: δοξάζω (doxazō) — “to glorify”
 v22: μένω (menō) — “to remain, abide”
 
 v24: μαρτυρέω (martyreō) — “to testify, bear witness”
-
 
 
