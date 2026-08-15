@@ -287,7 +287,7 @@ v71: Now he was speaking of Judas, the son of Simon Iscariot, for this one, one 
 
 ## Notes
 
-v05–06: Testing reveals understanding, not ignorance in Jesus.
+v5–6: Testing reveals understanding, not ignorance in Jesus.
 
 v11–13: Abundance exceeds need, emphasizing provision.
 
@@ -319,11 +319,11 @@ v70–71: Choice of the twelve includes internal betrayal.
 
 ## Vocabulary
 
-v02: σημεῖον (sēmeion)
+v2: σημεῖον (sēmeion)
 
 “Sign.”
 
-v06: πειράζω (peirazō)
+v6: πειράζω (peirazō)
 
 “To test.”
 
