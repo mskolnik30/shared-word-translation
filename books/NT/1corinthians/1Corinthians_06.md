@@ -97,11 +97,11 @@ v20: For you were bought with a price; therefore glorify God in your body.
 
 ## Notes
 
-v01–04: Internal disputes should be resolved within the community.
+v1–4: Internal disputes should be resolved within the community.
 
-v05–08: Lawsuits reflect moral failure and loss.
+v5–8: Lawsuits reflect moral failure and loss.
 
-v09–10: Kingdom inheritance excludes persistent unrighteousness.
+v9–10: Kingdom inheritance excludes persistent unrighteousness.
 
 v11: Transformation defines identity in Christ.
 
@@ -115,31 +115,31 @@ v19–20: Body as temple establishes basis for ethical conduct.
 
 ## Vocabulary
 
-v01: κρίνω (krinō)
+v1: κρίνω (krinō)
 
 “To judge.”
 
-v02: ἅγιος (hagios)
+v2: ἅγιος (hagios)
 
 “Holy one.”
 
-v04: ἐξουθενημένος (exouthenēmenos)
+v4: ἐξουθενημένος (exouthenēmenos)
 
 “Of no account.”
 
-v07: ἥττημα (hēttēma)
+v7: ἥττημα (hēttēma)
 
 “Defeat.”
 
-v08: ἀδικέω (adikeō)
+v8: ἀδικέω (adikeō)
 
 “To wrong.”
 
-v09: ἄδικος (adikos)
+v9: ἄδικος (adikos)
 
 “Unrighteous.”
 
-v09: εἰδωλολάτρης (eidōlolatrēs)
+v9: εἰδωλολάτρης (eidōlolatrēs)
 
 “Idolater.”
 
