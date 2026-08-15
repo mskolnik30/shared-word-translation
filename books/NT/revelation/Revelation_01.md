@@ -39,14 +39,14 @@ v20: As for the mystery of the seven stars that you saw in my right hand, and th
 </p>
 
 ## Notes
-v01: “Revelation” (singular) frames the work as disclosure rather than collection; what is revealed is mediated through a chain (God → Christ → angel → John → servants).
-v02: Witness language binds vision and testimony; seeing is not separated from proclamation.
-v03: The blessing joins reading, hearing, and keeping, resisting reduction to information alone.
-v04–05: The triadic greeting expands temporally (“who is…was…to come”) and relationally across divine agents without explanation.
-v05–06: Status (“kingdom, priests”) is declared before ethical instruction, grounding identity in divine action.
-v07: Scriptural echoes converge without citation, allowing resonance rather than resolution.
-v08: “Alpha and Omega” frames totality; the title is not explained but asserted.
-v09: Affliction, kingdom, and endurance are held together without hierarchy or sequence.
+v1: “Revelation” (singular) frames the work as disclosure rather than collection; what is revealed is mediated through a chain (God → Christ → angel → John → servants).
+v2: Witness language binds vision and testimony; seeing is not separated from proclamation.
+v3: The blessing joins reading, hearing, and keeping, resisting reduction to information alone.
+v4–5: The triadic greeting expands temporally (“who is…was…to come”) and relationally across divine agents without explanation.
+v5–6: Status (“kingdom, priests”) is declared before ethical instruction, grounding identity in divine action.
+v7: Scriptural echoes converge without citation, allowing resonance rather than resolution.
+v8: “Alpha and Omega” frames totality; the title is not explained but asserted.
+v9: Affliction, kingdom, and endurance are held together without hierarchy or sequence.
 v10: “In the Spirit” marks the mode of perception without defining its mechanism.
 v12–16: The vision layers images drawn from multiple scriptural traditions; no single source controls interpretation.
 v17–18: Fear is met with self-identification; authority is grounded in death and life held together.
@@ -54,15 +54,15 @@ v19: The temporal triad (“what you have seen…what is…what is to come”) s
 v20: Interpretation is given selectively; symbols are explained, but not exhaustively.
 
 ## Vocabulary
-v01: ἀποκάλυψις (apokalypsis)
+v1: ἀποκάλυψις (apokalypsis)
 “Revelation” or “unveiling.” Emphasizes disclosure rather than prediction.
-v03: τηρέω (tēreō)
+v3: τηρέω (tēreō)
 “To keep.” Implies guarding, observing, and remaining within what is heard.
-v04: χάρις (charis)
+v4: χάρις (charis)
 “Grace.” Gifted favor that establishes relationship rather than reward.
-v05: μάρτυς (martys)
+v5: μάρτυς (martys)
 “Witness.” One who testifies, often at cost; not merely observer.
-v07: κόπτω (koptō)
+v7: κόπτω (koptō)
 “To wail.” Expresses public lament rather than private grief.
 v10: ἐν πνεύματι (en pneumati)
 “In the Spirit.” Indicates a mode of perception beyond ordinary sight.
