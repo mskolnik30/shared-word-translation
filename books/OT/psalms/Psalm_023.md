@@ -34,35 +34,35 @@ v06: Surely goodness and steadfast love shall pursue me
 
 
 ## Notes
-v01: “my shepherd” — Establishes a relational metaphor of guidance and provision without royal or military imagery.
+v1: “my shepherd” — Establishes a relational metaphor of guidance and provision without royal or military imagery.
 
-v03: “restores my life” — Uses a verb of return or renewal; avoids specifying emotional or moral repair.
+v3: “restores my life” — Uses a verb of return or renewal; avoids specifying emotional or moral repair.
 
-v03: “paths of righteousness” — Refers to right or reliable paths; the text does not frame righteousness as moral achievement.
+v3: “paths of righteousness” — Refers to right or reliable paths; the text does not frame righteousness as moral achievement.
 
-v04: “valley of deepest darkness” — Preserves metaphorical breadth rather than narrowing the phrase to death alone.
+v4: “valley of deepest darkness” — Preserves metaphorical breadth rather than narrowing the phrase to death alone.
 
-v04: Shift to second person — Marks a relational turn from speaking about the LORD to speaking directly to the LORD.
+v4: Shift to second person — Marks a relational turn from speaking about the LORD to speaking directly to the LORD.
 
-v05: “in the presence of my enemies” — Affirms abundance without the removal of threat.
+v5: “in the presence of my enemies” — Affirms abundance without the removal of threat.
 
-v06: “pursue me” — Retains the active verb; goodness is depicted as relentless rather than passive.
+v6: “pursue me” — Retains the active verb; goodness is depicted as relentless rather than passive.
 
-v06: “for length of days” — Expresses enduring trust without specifying time beyond what the text states.
+v6: “for length of days” — Expresses enduring trust without specifying time beyond what the text states.
 
 ## Vocabulary
-v01: רֹעֶה (rōʿeh) — shepherd, one who tends and guides
+v1: רֹעֶה (rōʿeh) — shepherd, one who tends and guides
 
-v01: חָסֵר (ḥāsēr) — to lack, be deficient
+v1: חָסֵר (ḥāsēr) — to lack, be deficient
 
-v03: שׁוּב (šûb) — to return, restore
+v3: שׁוּב (šûb) — to return, restore
 
-v03: צֶדֶק (ṣeḏeq) — righteousness, right order, reliability
+v3: צֶדֶק (ṣeḏeq) — righteousness, right order, reliability
 
-v04: צַלְמָוֶת (ṣalmāweṯ) — deep darkness, shadowed place
+v4: צַלְמָוֶת (ṣalmāweṯ) — deep darkness, shadowed place
 
-v05: דָּשֵׁן (dāšēn) — to anoint, make rich, refresh
+v5: דָּשֵׁן (dāšēn) — to anoint, make rich, refresh
 
-v06: חֶסֶד (ḥeseḏ) — steadfast love, covenant loyalty
+v6: חֶסֶד (ḥeseḏ) — steadfast love, covenant loyalty
 
-v06: רָדַף (rāḏap) — to pursue, chase after
+v6: רָדַף (rāḏap) — to pursue, chase after
