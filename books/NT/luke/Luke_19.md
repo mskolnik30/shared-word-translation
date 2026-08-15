@@ -177,9 +177,9 @@ v48: and they were not finding what they might do, for all the people were hangi
 
 ## Notes
 
-v03–06: Zacchaeus’ initiative is met by Jesus’ initiative; encounter precedes reform.
+v3–6: Zacchaeus’ initiative is met by Jesus’ initiative; encounter precedes reform.
 
-v08: Repentance is expressed in restitution and redistribution.
+v8: Repentance is expressed in restitution and redistribution.
 
 v10: Jesus defines his mission in terms of seeking and saving.
 
@@ -203,19 +203,19 @@ v47–48: Authority draws both devotion and opposition.
 
 ## Vocabulary
 
-v02: ἀρχιτελώνης (architelōnēs)
+v2: ἀρχιτελώνης (architelōnēs)
 
 “Chief tax collector.”
 
-v03: ζητέω (zēteō)
+v3: ζητέω (zēteō)
 
 “To seek.”
 
-v08: συκοφαντέω (sykophanteō)
+v8: συκοφαντέω (sykophanteō)
 
 “To defraud.”
 
-v09: σωτηρία (sōtēria)
+v9: σωτηρία (sōtēria)
 
 “Salvation.”
 
