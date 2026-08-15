@@ -124,15 +124,15 @@ v22: They feel only the pain of their own body,
 </p>
 
 ## Notes
-v01–02: “short of days… like a shadow” — Job begins with anthropology under pressure: human life is brief, fragile, and difficult; mortality is not theoretical.
+v1–2: “short of days… like a shadow” — Job begins with anthropology under pressure: human life is brief, fragile, and difficult; mortality is not theoretical.
 
-v03: “do you fix your gaze… bring me into judgment” — Job challenges the asymmetry: why would the Holy One litigate against a creature so small and fleeting?
+v3: “do you fix your gaze… bring me into judgment” — Job challenges the asymmetry: why would the Holy One litigate against a creature so small and fleeting?
 
-v04: “clean… out of unclean” — Not cynicism about creation, but a cry about human limits: how can flawed mortals produce purity on demand?
+v4: “clean… out of unclean” — Not cynicism about creation, but a cry about human limits: how can flawed mortals produce purity on demand?
 
-v05–06: “days… determined… look away” — Job interprets life as bounded by God; his plea is for respite—space to breathe within limits.
+v5–6: “days… determined… look away” — Job interprets life as bounded by God; his plea is for respite—space to breathe within limits.
 
-v07–09: “hope for a tree” — Nature becomes a parable of resilience; Job envies the tree’s capacity for renewal.
+v7–9: “hope for a tree” — Nature becomes a parable of resilience; Job envies the tree’s capacity for renewal.
 
 v10–12: “but a human dies… does not rise” — In Job’s moment, death feels final and irreversible; the poetry voices the dread without smoothing it.
 
@@ -151,29 +151,29 @@ v21: “children… they do not know” — Death severs participation in the fu
 v22: “pain… mourns” — The chapter ends in embodied sorrow: suffering collapses the horizon to the body and the self’s grief.
 
 ## Vocabulary
-v01: אָדָם (’adam) — human being; humanity
+v1: אָדָם (’adam) — human being; humanity
 
-v01: עָמָל (ʿamal) — trouble; toil; sorrow
+v1: עָמָל (ʿamal) — trouble; toil; sorrow
 
-v02: צִיץ (tsits) — flower; blossom
+v2: צִיץ (tsits) — flower; blossom
 
-v02: צֵל (tsel) — shadow
+v2: צֵל (tsel) — shadow
 
-v03: מִשְׁפָּט (mishpat) — judgment; justice; legal decision
+v3: מִשְׁפָּט (mishpat) — judgment; justice; legal decision
 
-v04: טָהוֹר (tahor) — clean; pure
+v4: טָהוֹר (tahor) — clean; pure
 
-v04: טָמֵא (ṭame’) — unclean; defiled
+v4: טָמֵא (ṭame’) — unclean; defiled
 
-v05: חֹק (ḥoq) — limit; decree; fixed boundary
+v5: חֹק (ḥoq) — limit; decree; fixed boundary
 
-v06: שָׂכִיר (sakhir) — hired worker; day laborer
+v6: שָׂכִיר (sakhir) — hired worker; day laborer
 
-v07: תִּקְוָה (tiqvah) — hope
+v7: תִּקְוָה (tiqvah) — hope
 
-v07: חָלַף (ḥalaf) — to sprout again; to renew; to change
+v7: חָלַף (ḥalaf) — to sprout again; to renew; to change
 
-v09: רֵיחַ (reiaḥ) — scent; smell
+v9: רֵיחַ (reiaḥ) — scent; smell
 
 v10: גָּוַע (gavaʿ) — to breathe one’s last; to expire
 
