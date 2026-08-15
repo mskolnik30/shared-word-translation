@@ -75,19 +75,18 @@ v17: And behold, a voice from the heavens said, “This is my beloved Son, in wh
 
 ## Notes
 
-Notes — Matthew 3
 
-v02: “Kingdom of heaven” maintains reverential circumlocution for God’s reign; the nearness signals imminent divine action.  
+v2: “Kingdom of heaven” maintains reverential circumlocution for God’s reign; the nearness signals imminent divine action.  
 
-v03: The Isaiah citation frames John not as originator but as preparatory voice; the focus remains on the coming Lord.  
+v3: The Isaiah citation frames John not as originator but as preparatory voice; the focus remains on the coming Lord.  
 
-v04: John’s attire evokes prophetic austerity, aligning him with Elijah-type figures.  
+v4: John’s attire evokes prophetic austerity, aligning him with Elijah-type figures.  
 
-v06: Baptism is paired with confession; the act is not merely ritual but ethical and verbal acknowledgment.  
+v6: Baptism is paired with confession; the act is not merely ritual but ethical and verbal acknowledgment.  
 
-v07: “Offspring of vipers” exposes false security; lineage does not shield from judgment.  
+v7: “Offspring of vipers” exposes false security; lineage does not shield from judgment.  
 
-v09: Stones/children wordplay underscores divine freedom to constitute a people apart from heritage.  
+v9: Stones/children wordplay underscores divine freedom to constitute a people apart from heritage.  
 
 v10: The axe “already” laid intensifies urgency; judgment is not distant.  
 
@@ -103,7 +102,6 @@ v17: The voice combines royal and servant motifs; identity and approval are decl
 
 ## Vocabulary
 
-Vocabulary — Matthew 3
 
 βαπτιστής: Baptizer; one who administers ritual washing.  
 
