@@ -135,9 +135,9 @@ v35: It is fit neither for the soil nor for the manure pile; they throw it out. 
 
 ## Notes
 
-v01–06: Sabbath healing exposes selective application of compassion.
+v1–6: Sabbath healing exposes selective application of compassion.
 
-v07–11: Honor is reframed as something received, not seized.
+v7–11: Honor is reframed as something received, not seized.
 
 v12–14: Hospitality without reciprocity reflects kingdom logic.
 
@@ -153,7 +153,7 @@ v34–35: Loss of distinctiveness renders discipleship ineffective.
 
 ## Vocabulary
 
-v02: ὑδρωπικός (hydrōpikos)
+v2: ὑδρωπικός (hydrōpikos)
 
 “Dropsy.”
 
