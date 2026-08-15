@@ -213,9 +213,9 @@ v56: And her parents were amazed, but he ordered them to tell no one what had ha
 
 ## Notes
 
-v01–03: Women are named as active participants in the mission, not peripheral observers.
+v1–3: Women are named as active participants in the mission, not peripheral observers.
 
-v04–08: The sower scatters broadly; the difference lies in reception, not distribution.
+v4–8: The sower scatters broadly; the difference lies in reception, not distribution.
 
 v10: Parables both reveal and conceal, depending on hearing.
 
@@ -247,7 +247,7 @@ v55: The return of spirit emphasizes full restoration, not mere resuscitation.
 
 ## Vocabulary
 
-v01: εὐαγγελίζω (euangelizō)
+v1: εὐαγγελίζω (euangelizō)
 
 “To proclaim good news.”
 
