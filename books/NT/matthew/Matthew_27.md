@@ -164,11 +164,11 @@ v66: So they went and made the tomb secure by sealing the stone and setting the 
 
 
 ## Notes
-v01–02: “took counsel… delivered… to Pilate” — Religious leadership and imperial power collaborate; “handing over” is how unjust systems launder responsibility.
+v1–2: “took counsel… delivered… to Pilate” — Religious leadership and imperial power collaborate; “handing over” is how unjust systems launder responsibility.
 
-v03–05: Judas “regretted… hanged himself” — Regret (metamelomai) is not the same as repentance; the text portrays despair and moral collapse without romanticizing it.
+v3–5: Judas “regretted… hanged himself” — Regret (metamelomai) is not the same as repentance; the text portrays despair and moral collapse without romanticizing it.
 
-v06–10: “blood money… potter’s field… fulfilled” — Leaders keep ritual scruples while funding death; Matthew frames this as scripture-patterned irony and judgment on hypocrisy.
+v6–10: “blood money… potter’s field… fulfilled” — Leaders keep ritual scruples while funding death; Matthew frames this as scripture-patterned irony and judgment on hypocrisy.
 
 v11–14: Jesus’ silence — Not weakness but refusal to play a rigged courtroom game; his restraint exposes the trial’s injustice and Pilate’s impotence.
 
@@ -214,17 +214,17 @@ v62–66: guard and seal — Attempts to secure death become evidence of resurre
 
 
 ## Vocabulary
-v01: συμβούλιον (symboulion) — counsel; plotted decision
+v1: συμβούλιον (symboulion) — counsel; plotted decision
 
-v02: παραδίδωμι (paradidōmi) — to hand over; to deliver up
+v2: παραδίδωμι (paradidōmi) — to hand over; to deliver up
 
-v03: μεταμέλομαι (metamelomai) — to regret; to feel remorse (not the usual “repent” verb)
+v3: μεταμέλομαι (metamelomai) — to regret; to feel remorse (not the usual “repent” verb)
 
-v04: αἷμα ἀθῷον (haima athōon) — innocent blood
+v4: αἷμα ἀθῷον (haima athōon) — innocent blood
 
-v06: κορβανᾶς (korbanas) — temple treasury (corban)
+v6: κορβανᾶς (korbanas) — temple treasury (corban)
 
-v06: τιμὴ αἵματος (timē haimatos) — blood money; price of blood
+v6: τιμὴ αἵματος (timē haimatos) — blood money; price of blood
 
 v11: βασιλεύς (basileus) — king
 
