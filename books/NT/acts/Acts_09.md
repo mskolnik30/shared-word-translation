@@ -185,9 +185,9 @@ v43: And it happened that he stayed many days in Joppa with a certain Simon, a t
 
 ## Notes
 
-v03–06: Encounter with Jesus redefines persecution as opposition to him personally.
+v3–6: Encounter with Jesus redefines persecution as opposition to him personally.
 
-v09: Blindness prepares for reorientation.
+v9: Blindness prepares for reorientation.
 
 v15–16: Calling includes both mission and suffering.
 
@@ -209,19 +209,19 @@ v42–43: Signs result in belief and extended presence.
 
 ## Vocabulary
 
-v02: ὁδός (hodos)
+v2: ὁδός (hodos)
 
 “The Way.”
 
-v03: φῶς (phōs)
+v3: φῶς (phōs)
 
 “Light.”
 
-v04: διώκω (diōkō)
+v4: διώκω (diōkō)
 
 “To persecute.”
 
-v09: τυφλός (typhlos)
+v9: τυφλός (typhlos)
 
 “Blind.”
 
