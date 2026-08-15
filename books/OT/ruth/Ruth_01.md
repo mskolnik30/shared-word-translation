@@ -40,10 +40,10 @@ v22: So Naomi returned, and Ruth the Moabite her daughter-in-law with her, who r
 </p>
 
 ## Notes
-v01: “In the days when the judges ruled” situates the story within a period marked by instability, though the narrative itself remains intimate and domestic.
-v03–5: The repetition of loss (husband, then sons) intensifies Naomi’s vulnerability and narrows her social and economic future.
-v06: “The LORD had attended to his people” introduces divine action indirectly—through provision rather than spectacle.
-v08: Naomi invokes “steadfast kindness” (ḥesed), naming covenantal loyalty as the interpretive frame for human relationships.
+v1: “In the days when the judges ruled” situates the story within a period marked by instability, though the narrative itself remains intimate and domestic.
+v3–5: The repetition of loss (husband, then sons) intensifies Naomi’s vulnerability and narrows her social and economic future.
+v6: “The LORD had attended to his people” introduces divine action indirectly—through provision rather than spectacle.
+v8: Naomi invokes “steadfast kindness” (ḥesed), naming covenantal loyalty as the interpretive frame for human relationships.
 v11–13: Naomi’s reasoning is legal and practical, grounded in levirate expectations, yet shaped by her perception of divine opposition.
 v13: “The hand of the LORD has gone out against me” reflects Naomi’s interpretation; the text does not confirm or correct it.
 v14: The contrast between Orpah and Ruth is understated; both act faithfully within their circumstances.
@@ -53,7 +53,7 @@ v22: The note of “barley harvest” signals provision returning, though its si
 
 
 ## Vocabulary
-v08: חֶסֶד (ḥesed)
+v8: חֶסֶד (ḥesed)
 “Steadfast kindness” or “loyal love.” A covenantal term describing faithful, enduring commitment within relationships.
 
 v11: בֵּן (ben)
