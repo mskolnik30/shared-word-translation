@@ -245,15 +245,15 @@ v59: I tell you, you will certainly not come out from there until you have paid 
 
 ## Notes
 
-v01: Hypocrisy is described as “leaven,” indicating hidden but pervasive influence.
+v1: Hypocrisy is described as “leaven,” indicating hidden but pervasive influence.
 
-v02–03: Revelation reverses secrecy; hidden speech becomes public exposure.
+v2–3: Revelation reverses secrecy; hidden speech becomes public exposure.
 
-v04–05: Fear is redirected from human threat to divine authority.
+v4–5: Fear is redirected from human threat to divine authority.
 
-v06–07: Divine care is detailed and personal, grounding the command not to fear.
+v6–7: Divine care is detailed and personal, grounding the command not to fear.
 
-v08–09: Public acknowledgment carries eschatological consequence.
+v8–9: Public acknowledgment carries eschatological consequence.
 
 v10: Distinction is made between speaking against the Son of Man and blaspheming the Spirit.
 
@@ -287,19 +287,19 @@ v57–59: Urgency in reconciliation reflects impending judgment.
 
 ## Vocabulary
 
-v01: ζύμη (zymē)
+v1: ζύμη (zymē)
 
 “Leaven.”
 
-v01: ὑπόκρισις (hypokrisis)
+v1: ὑπόκρισις (hypokrisis)
 
 “Hypocrisy.”
 
-v05: γέεννα (Gehenna)
+v5: γέεννα (Gehenna)
 
 “Gehenna.”
 
-v08: ὁμολογέω (homologeō)
+v8: ὁμολογέω (homologeō)
 
 “To confess, acknowledge.”
 
