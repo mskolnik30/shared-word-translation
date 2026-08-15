@@ -197,9 +197,9 @@ v47: who devour the houses of widows and for appearance make long prayers; these
 
 ## Notes
 
-v01–08: Authority is contested through counter-question, exposing unwillingness to answer truthfully.
+v1–8: Authority is contested through counter-question, exposing unwillingness to answer truthfully.
 
-v09–16: The vineyard parable indicts leadership through narrative of rejection and violence.
+v9–16: The vineyard parable indicts leadership through narrative of rejection and violence.
 
 v13: The “beloved son” introduces escalation and final appeal.
 
@@ -219,15 +219,15 @@ v45–47: Public piety is exposed when paired with exploitation.
 
 ## Vocabulary
 
-v02: ἐξουσία (exousia)
+v2: ἐξουσία (exousia)
 
 “Authority.”
 
-v05: διαλογίζομαι (dialogizomai)
+v5: διαλογίζομαι (dialogizomai)
 
 “To reason.”
 
-v09: ἀμπελών (ampelōn)
+v9: ἀμπελών (ampelōn)
 
 “Vineyard.”
 
