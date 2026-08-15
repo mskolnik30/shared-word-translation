@@ -75,9 +75,9 @@ v22: and this stone, which I have set up for a pillar, shall be God’s house. A
 
 ## Notes
 
-v01–04: The Abrahamic blessing is explicitly transferred, emphasizing continuity through Jacob rather than Esau.  
+v1–4: The Abrahamic blessing is explicitly transferred, emphasizing continuity through Jacob rather than Esau.  
 
-v08–09: Esau’s action is reactive and partial—he recognizes the issue but does not fully align with covenantal intent.  
+v8–9: Esau’s action is reactive and partial—he recognizes the issue but does not fully align with covenantal intent.  
 
 v12: The stairway (or “ladder”) functions as a symbolic axis between heaven and earth, emphasizing divine accessibility.  
 
@@ -93,15 +93,15 @@ v20–22: Jacob’s vow is conditional, reflecting a developing faith rather tha
 
 ## Vocabulary
 
-v03: פָּרָה (pārāh)  
+v3: פָּרָה (pārāh)  
 
 “To be fruitful.” Growth under divine blessing.  
 
-v03: קָהָל (qāhāl)  
+v3: קָהָל (qāhāl)  
 
 “Assembly, company.” A gathered people with shared identity.  
 
-v04: בְּרָכָה (bᵉrāḵāh)  
+v4: בְּרָכָה (bᵉrāḵāh)  
 
 “Blessing.” Effective divine favor that shapes destiny.  
 
