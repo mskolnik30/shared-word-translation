@@ -69,27 +69,27 @@ v20: And the winepress was trodden outside the city, and blood flowed from the w
 
 ## Notes
 
-v01: The Lamb stands rather than appears; presence replaces motion.
+v1: The Lamb stands rather than appears; presence replaces motion.
 
-v01: Dual naming (“his name and his Father’s name”) marks belonging.
+v1: Dual naming (“his name and his Father’s name”) marks belonging.
 
-v02: Sound imagery accumulates without resolving into a single source.
+v2: Sound imagery accumulates without resolving into a single source.
 
-v03: The song is restricted; knowledge is limited, not universal.
+v3: The song is restricted; knowledge is limited, not universal.
 
-v04: Description is layered and not reduced to a single trait.
+v4: Description is layered and not reduced to a single trait.
 
-v04: “Firstfruits” signals priority, not completeness.
+v4: “Firstfruits” signals priority, not completeness.
 
-v05: Blamelessness is stated without qualification.
+v5: Blamelessness is stated without qualification.
 
-v06: The gospel is described as eternal; scope is universal.
+v6: The gospel is described as eternal; scope is universal.
 
-v07: Creation grounds the call to worship, not abstract theology.
+v7: Creation grounds the call to worship, not abstract theology.
 
-v08: The fall of Babylon is declared before narrated.
+v8: The fall of Babylon is declared before narrated.
 
-v09–11: Warning is direct and without mitigation.
+v9–11: Warning is direct and without mitigation.
 
 v10: Wrath is described as unmixed, not moderated.
 
@@ -113,27 +113,27 @@ v20: The scale is extreme and unqualified.
 
 ## Vocabulary
 
-v01: ὄρος Σιών (oros Siōn)
+v1: ὄρος Σιών (oros Siōn)
 
 “Mount Zion.” Symbolic location of divine presence.
 
-v03: ᾠδή (ōdē)
+v3: ᾠδή (ōdē)
 
 “Song.” A structured expression of praise or declaration.
 
-v04: ἀπαρχή (aparchē)
+v4: ἀπαρχή (aparchē)
 
 “Firstfruits.” Initial portion representing the whole.
 
-v06: εὐαγγέλιον (euangelion)
+v6: εὐαγγέλιον (euangelion)
 
 “Gospel.” Good news, here described as eternal.
 
-v07: φοβέομαι (phobeomai)
+v7: φοβέομαι (phobeomai)
 
 “To fear.” Reverence or recognition of authority.
 
-v08: Βαβυλών (Babylōn)
+v8: Βαβυλών (Babylōn)
 
 “Babylon.” Symbol of opposition or corruption.
 
