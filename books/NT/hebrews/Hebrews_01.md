@@ -87,25 +87,25 @@ v14: Are they not all ministering spirits sent out to serve for the sake of thos
 
 ## Notes
 
-v01: Revelation is described as varied in form and time.
+v1: Revelation is described as varied in form and time.
 
-v02: The Son is presented as final and comprehensive.
+v2: The Son is presented as final and comprehensive.
 
-v02: Creation is attributed through the Son.
+v2: Creation is attributed through the Son.
 
-v03: Multiple descriptions accumulate without reduction.
+v3: Multiple descriptions accumulate without reduction.
 
-v03: Action (“upholds,” “sat down”) follows identity.
+v3: Action (“upholds,” “sat down”) follows identity.
 
-v04: Superiority is comparative, not absolute in isolation.
+v4: Superiority is comparative, not absolute in isolation.
 
-v05–13: Argument proceeds through citation rather than explanation.
+v5–13: Argument proceeds through citation rather than explanation.
 
-v06: Worship is directed toward the Son.
+v6: Worship is directed toward the Son.
 
-v07: Angels are described functionally.
+v7: Angels are described functionally.
 
-v08–09: The Son is addressed directly with royal language.
+v8–9: The Son is addressed directly with royal language.
 
 v10–12: Creation is contrasted with permanence.
 
@@ -115,43 +115,43 @@ v14: Angels serve; they are not central actors.
 
 ## Vocabulary
 
-v01: πολυμερῶς (polymerōs)
+v1: πολυμερῶς (polymerōs)
 
 “In many parts.” Various portions.
 
-v01: πολυτρόπως (polytropōs)
+v1: πολυτρόπως (polytropōs)
 
 “In many ways.” Various methods.
 
-v02: υἱός (huios)
+v2: υἱός (huios)
 
 “Son.” One in relational identity.
 
-v02: αἰών (aiōn)
+v2: αἰών (aiōn)
 
 “Ages.” Time or created order.
 
-v03: ἀπαύγασμα (apaugasma)
+v3: ἀπαύγασμα (apaugasma)
 
 “Radiance.” Emission of light.
 
-v03: χαρακτήρ (charaktēr)
+v3: χαρακτήρ (charaktēr)
 
 “Imprint.” Exact representation.
 
-v03: φέρω (pherō)
+v3: φέρω (pherō)
 
 “To uphold.” To carry or sustain.
 
-v04: κρείττων (kreittōn)
+v4: κρείττων (kreittōn)
 
 “Superior.” Greater in rank.
 
-v06: πρωτότοκος (prōtotokos)
+v6: πρωτότοκος (prōtotokos)
 
 “Firstborn.” One with priority.
 
-v08: θρόνος (thronos)
+v8: θρόνος (thronos)
 
 “Throne.” Seat of rule.
 
