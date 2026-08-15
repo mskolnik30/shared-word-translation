@@ -45,31 +45,31 @@ v20: There he erected an altar and called it El-Elohe-Israel.
 </p>
 
 ## Notes
-v01–03: Jacob approaches Esau with humility and caution. The repeated bowing reflects both respect and fear after years of separation.
-v04: Esau's response overturns expectations. The anticipated confrontation becomes reconciliation.
-v05: Jacob attributes his family to God's grace rather than to his own success.
-v08–11: The exchange concerning the gift highlights restored relationship. What began as an attempt to appease Esau becomes a symbol of reconciliation.
+v1–3: Jacob approaches Esau with humility and caution. The repeated bowing reflects both respect and fear after years of separation.
+v4: Esau's response overturns expectations. The anticipated confrontation becomes reconciliation.
+v5: Jacob attributes his family to God's grace rather than to his own success.
+v8–11: The exchange concerning the gift highlights restored relationship. What began as an attempt to appease Esau becomes a symbol of reconciliation.
 v10: Jacob's comparison of Esau's face to the face of God recalls his encounter at Peniel. Divine encounter and human reconciliation are placed side by side.
-v09–11: Both brothers repeatedly say that they have enough. The language contrasts sharply with their earlier struggle over blessing and inheritance.
+v9–11: Both brothers repeatedly say that they have enough. The language contrasts sharply with their earlier struggle over blessing and inheritance.
 v12–16: Jacob declines Esau's offer of accompaniment. The brothers are reconciled, but they do not resume life together.
 v17: Succoth receives its name from the shelters Jacob builds for his livestock.
 v18–20: Jacob finally returns to the land of Canaan and acquires property there. The altar marks worship and renewed settlement in the promised land.
 v20: The altar's name, “God, the God of Israel,” reflects Jacob's new identity after receiving the name Israel.
 
 ## Vocabulary
-v03: שָׁחָה (šāḥâ)
+v3: שָׁחָה (šāḥâ)
 “To bow down.” An act of honor, submission, or respect.
 
-v04: חָבַק (ḥāḇaq)
+v4: חָבַק (ḥāḇaq)
 “To embrace.” A gesture of affection, welcome, or reconciliation.
 
-v05: חָנַן (ḥānan)
+v5: חָנַן (ḥānan)
 “To be gracious.” To show favor or kindness freely.
 
-v08: מַחֲנֶה (maḥăneh)
+v8: מַחֲנֶה (maḥăneh)
 “Company,” “camp,” or “encampment.” A group traveling together.
 
-v09: רַב (raḇ)
+v9: רַב (raḇ)
 “Much,” “many,” or “enough.” Esau's declaration reflects contentment with what he possesses.
 
 v10: פָּנִים (pānîm)
