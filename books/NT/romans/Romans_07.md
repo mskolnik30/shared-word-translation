@@ -119,13 +119,13 @@ v25: Thanks be to God through Jesus Christ our Lord! So then, I myself with the 
 
 ## Notes
 
-v01–03: Marriage analogy illustrates binding authority of law.
+v1–3: Marriage analogy illustrates binding authority of law.
 
-v04: Death with Christ results in new belonging.
+v4: Death with Christ results in new belonging.
 
-v05–06: Transition from law to Spirit redefines service.
+v5–6: Transition from law to Spirit redefines service.
 
-v07–12: Law reveals sin but is not itself sinful.
+v7–12: Law reveals sin but is not itself sinful.
 
 v13: Sin exploits the good to produce death.
 
@@ -137,31 +137,31 @@ v24–25: Deliverance is located in Christ, not self-effort.
 
 ## Vocabulary
 
-v01: κυριεύω (kyrieuō)
+v1: κυριεύω (kyrieuō)
 
 “To have authority over.”
 
-v02: καταργέω (katargeō)
+v2: καταργέω (katargeō)
 
 “To release, nullify.”
 
-v04: καρποφορέω (karpophoreō)
+v4: καρποφορέω (karpophoreō)
 
 “To bear fruit.”
 
-v05: πάθος (pathos)
+v5: πάθος (pathos)
 
 “Passion.”
 
-v06: καινότης (kainotēs)
+v6: καινότης (kainotēs)
 
 “Newness.”
 
-v07: ἐπιθυμία (epithymia)
+v7: ἐπιθυμία (epithymia)
 
 “Coveting, desire.”
 
-v08: ἀφορμή (aphormē)
+v8: ἀφορμή (aphormē)
 
 “Opportunity.”
 
