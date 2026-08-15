@@ -79,15 +79,15 @@ v30: Then the commanders of the Philistines came out to battle, and as often as 
 
 
 ## Notes
-v01–03: The binding of Jonathan’s soul to David is stated without explanation or qualification. The text presents this attachment as immediate, mutual, and covenantal, holding together affection, loyalty, and formal commitment.
+v1–3: The binding of Jonathan’s soul to David is stated without explanation or qualification. The text presents this attachment as immediate, mutual, and covenantal, holding together affection, loyalty, and formal commitment.
 
-v04: Jonathan’s giving of robe, armor, and weapons is not symbolic decoration alone. The sequence suggests transfer of status and identity, placing David within a role Jonathan himself could claim.
+v4: Jonathan’s giving of robe, armor, and weapons is not symbolic decoration alone. The sequence suggests transfer of status and identity, placing David within a role Jonathan himself could claim.
 
-v05: David’s success is framed both administratively (“set him over the men of war”) and communally (“good in the eyes of all”). Favor operates across political and popular spheres simultaneously.
+v5: David’s success is framed both administratively (“set him over the men of war”) and communally (“good in the eyes of all”). Favor operates across political and popular spheres simultaneously.
 
-v07: The women’s song introduces comparison without commentary. The text does not correct or endorse the numbers; its force lies in the public shaping of reputation.
+v7: The women’s song introduces comparison without commentary. The text does not correct or endorse the numbers; its force lies in the public shaping of reputation.
 
-v08–09: Saul’s response turns perception into threat. The question “what more can he have but the kingdom?” reveals a logic that moves from praise to fear without intermediate evidence.
+v8–9: Saul’s response turns perception into threat. The question “what more can he have but the kingdom?” reveals a logic that moves from praise to fear without intermediate evidence.
 
 v10–11: The harmful spirit and Saul’s violent action are presented in sequence without psychological explanation. David’s music, previously calming, no longer stabilizes the situation.
 
@@ -110,16 +110,16 @@ v28–29: Knowledge (“Saul saw and knew”) intensifies fear rather than clari
 v30: The chapter closes with repetition of success and reputation. David’s name rises in parallel with Saul’s opposition, leaving the tension unresolved.
 
 ## Vocabulary
-v01: נֶפֶשׁ (nephesh)
+v1: נֶפֶשׁ (nephesh)
 “Soul,” “life,” or “self.” The term denotes the whole person, not an abstract inner element. The binding of souls signals total personal attachment.
 
-v03: בְּרִית (berit)
+v3: בְּרִית (berit)
 “Covenant.” A formalized relationship marked by obligation and loyalty. Its use here frames Jonathan and David’s bond in public, enduring terms.
 
-v05: שָׂכַל (sakal)
+v5: שָׂכַל (sakal)
 “To act wisely,” “to succeed.” The term joins discernment and effectiveness, indicating success that is both practical and perceptive.
 
-v09: עָוַן / שָׁעָה (contextual watching)
+v9: עָוַן / שָׁעָה (contextual watching)
 “Kept his eye on.” The expression suggests sustained, watchful attention shaped by suspicion rather than neutral observation.
 
 v10: רוּחַ רָעָה (ruach ra‘ah)
