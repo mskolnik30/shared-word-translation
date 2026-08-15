@@ -183,11 +183,11 @@ v40: And going out from the prison, they went to Lydia, and seeing the brothers,
 
 ## Notes
 
-v03: Circumcision here is strategic, not salvific.
+v3: Circumcision here is strategic, not salvific.
 
-v06–08: Mission is directed by restriction as well as permission.
+v6–8: Mission is directed by restriction as well as permission.
 
-v09–10: Vision clarifies geographic direction.
+v9–10: Vision clarifies geographic direction.
 
 v14: Conversion is attributed to divine initiative.
 
@@ -209,23 +209,23 @@ v40: Community strengthening continues after release.
 
 ## Vocabulary
 
-v02: μαρτυρέω (martyreō)
+v2: μαρτυρέω (martyreō)
 
 “To bear witness.”
 
-v03: περιτέμνω (peritemnō)
+v3: περιτέμνω (peritemnō)
 
 “To circumcise.”
 
-v05: στηρίζω (stērizō)
+v5: στηρίζω (stērizō)
 
 “To strengthen.”
 
-v06: κωλύω (kōlyō)
+v6: κωλύω (kōlyō)
 
 “To forbid.”
 
-v09: ὅραμα (horama)
+v9: ὅραμα (horama)
 
 “Vision.”
 
