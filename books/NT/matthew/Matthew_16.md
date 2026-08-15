@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Pharisees and Sadducees Demand a Sign
 
 <p>
@@ -95,15 +94,15 @@ v28: Truly, I say to you, there are some standing here who will not taste death 
 
 ## Notes
 
-v01: Unified opposition (Pharisees + Sadducees) signals escalation; “test” frames hostility.  
+v1: Unified opposition (Pharisees + Sadducees) signals escalation; “test” frames hostility.  
 
-v03: Competence in natural signs contrasts with failure in recognizing divine activity.  
+v3: Competence in natural signs contrasts with failure in recognizing divine activity.  
 
-v04: “Sign of Jonah” points to death/resurrection pattern rather than spectacle.  
+v4: “Sign of Jonah” points to death/resurrection pattern rather than spectacle.  
 
-v06: “Leaven” functions metaphorically—pervasive influence, not visible at first.  
+v6: “Leaven” functions metaphorically—pervasive influence, not visible at first.  
 
-v08–11: Failure is interpretive, not informational; memory does not guarantee understanding.  
+v8–11: Failure is interpretive, not informational; memory does not guarantee understanding.  
 
 v12: Teaching identified as corrupting influence; doctrine shapes perception.  
 
@@ -129,15 +128,15 @@ v28: Anticipatory fulfillment—kingdom manifestation begins before final consum
 
 ## Vocabulary
 
-v01: πειράζοντες (*peirazontes*) — “Testing.” Attempt to trap or discredit.  
+v1: πειράζοντες (*peirazontes*) — “Testing.” Attempt to trap or discredit.  
 
-v03: καιροί (*kairoi*) — “Times.” Decisive or opportune moments.  
+v3: καιροί (*kairoi*) — “Times.” Decisive or opportune moments.  
 
-v04: σημεῖον (*sēmeion*) — “Sign.” Indicator pointing beyond itself.  
+v4: σημεῖον (*sēmeion*) — “Sign.” Indicator pointing beyond itself.  
 
-v06: ζύμη (*zymē*) — “Leaven.” Subtle, permeating influence.  
+v6: ζύμη (*zymē*) — “Leaven.” Subtle, permeating influence.  
 
-v08: ὀλιγόπιστοι (*oligopistoi*) — “Of little faith.” Insufficient trust or perception.  
+v8: ὀλιγόπιστοι (*oligopistoi*) — “Of little faith.” Insufficient trust or perception.  
 
 v13: υἱὸς τοῦ ἀνθρώπου (*huios tou anthrōpou*) — “Son of Man.” Self-designation with eschatological weight.  
 
