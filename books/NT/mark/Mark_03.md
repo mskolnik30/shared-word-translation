@@ -123,9 +123,9 @@ v35: Whoever does the will of God, this one is my brother and sister and mother.
 
 ## Notes
 
-v05: Anger and grief are held together; opposition is not merely legal but moral.
+v5: Anger and grief are held together; opposition is not merely legal but moral.
 
-v06: Alliance between Pharisees and Herodians signals political as well as religious threat.
+v6: Alliance between Pharisees and Herodians signals political as well as religious threat.
 
 v12: Silence is imposed on demons; identity is not revealed on their terms.
 
@@ -135,7 +135,7 @@ v29: The warning concerns persistent misrecognition of God’s work as evil.
 
 ## Vocabulary
 
-v05: πώρωσις (pōrōsis) — hardness, dullness of heart.
+v5: πώρωσις (pōrōsis) — hardness, dullness of heart.
 
 v14: ἀπόστολος (apostolos) — one sent, commissioned agent.
 
