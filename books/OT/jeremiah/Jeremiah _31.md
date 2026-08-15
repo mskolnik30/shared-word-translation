@@ -307,15 +307,15 @@ v40: The whole valley of the dead bodies and the ashes,
 
 
 ## Notes
-v01: “all the clans… my people” — Restoration is covenant-wide and communal; God’s promise gathers scattered family-lines into one belonging.
+v1: “all the clans… my people” — Restoration is covenant-wide and communal; God’s promise gathers scattered family-lines into one belonging.
 
-v02–03: “grace in the wilderness… everlasting love… steadfast love” — Exile is re-narrated as a wilderness where God’s love persists. The ground of return is not Israel’s merit but God’s enduring ḥesed.
+v2–3: “grace in the wilderness… everlasting love… steadfast love” — Exile is re-narrated as a wilderness where God’s love persists. The ground of return is not Israel’s merit but God’s enduring ḥesed.
 
-v04–06: tambourines / vineyards / watchmen — Restoration is embodied and economic: worship, agriculture, and communal vigilance return to normal life and joy.
+v4–6: tambourines / vineyards / watchmen — Restoration is embodied and economic: worship, agriculture, and communal vigilance return to normal life and joy.
 
-v08: “blind and lame… pregnant… in labor” — Return is inclusive and tender: the vulnerable are not left behind; God’s redemption is paced for those least able to keep up.
+v8: “blind and lame… pregnant… in labor” — Return is inclusive and tender: the vulnerable are not left behind; God’s redemption is paced for those least able to keep up.
 
-v09–10: “streams… level path… father… shepherd” — God’s leadership is pastoral: guiding, protecting, and naming Israel as family.
+v9–10: “streams… level path… father… shepherd” — God’s leadership is pastoral: guiding, protecting, and naming Israel as family.
 
 v11–14: “ransomed… radiant… watered garden… mourning into joy” — Redemption becomes abundance and renewed vitality; consolation is not vague comfort but replenished life.
 
@@ -343,25 +343,25 @@ v38–40: rebuilt city / “shall be holy” — Restoration is spatial and publ
 
 
 ## Vocabulary
-v02: חֵן (ḥen) — grace; favor
+v2: חֵן (ḥen) — grace; favor
 
-v03: אַהֲבַת עוֹלָם (’ahavat ʿolam) — everlasting love
+v3: אַהֲבַת עוֹלָם (’ahavat ʿolam) — everlasting love
 
-v03: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
+v3: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
 
-v04: בָּנָה (banah) — to build; to rebuild
+v4: בָּנָה (banah) — to build; to rebuild
 
-v04: תֹּף (tof) — tambourine; hand drum
+v4: תֹּף (tof) — tambourine; hand drum
 
-v05: כֶּרֶם (kerem) — vineyard
+v5: כֶּרֶם (kerem) — vineyard
 
-v06: צָפָה (tsafah) — to watch; to keep lookout
+v6: צָפָה (tsafah) — to watch; to keep lookout
 
-v08: קָבַץ (qavats) — to gather; to collect
+v8: קָבַץ (qavats) — to gather; to collect
 
-v09: אָב (’av) — father
+v9: אָב (’av) — father
 
-v09: בְּכוֹר (bekhor) — firstborn
+v9: בְּכוֹר (bekhor) — firstborn
 
 v10: רָעָה (raʿah) — to shepherd; to tend
 
