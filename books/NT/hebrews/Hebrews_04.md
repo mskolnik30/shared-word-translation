@@ -37,21 +37,21 @@ v16: Let us therefore draw near with confidence to the throne of grace, so that 
 </p>
 
 ## Notes
-v01: “promise… still stands… let us fear” — The warning is pastoral, not panic: treat the promise as real and the drift as real.
+v1: “promise… still stands… let us fear” — The warning is pastoral, not panic: treat the promise as real and the drift as real.
 
-v02: “good news… did not benefit… not united with trust” — Hearing alone is insufficient; the message becomes effective when joined to trust and responsive obedience.
+v2: “good news… did not benefit… not united with trust” — Hearing alone is insufficient; the message becomes effective when joined to trust and responsive obedience.
 
-v03: “we who have trusted enter” — Rest is entered by trust, not earned by spiritual labor, even as perseverance is required.
+v3: “we who have trusted enter” — Rest is entered by trust, not earned by spiritual labor, even as perseverance is required.
 
-v04–05: “God rested… ‘They shall not enter’” — Scripture is read as a unified witness: God’s rest is ancient, yet some are barred by hard-hearted refusal.
+v4–5: “God rested… ‘They shall not enter’” — Scripture is read as a unified witness: God’s rest is ancient, yet some are barred by hard-hearted refusal.
 
-v06: “failed… because of disobedience” — The barrier is not lack of information but resistant will; unbelief shows itself as disobedience.
+v6: “failed… because of disobedience” — The barrier is not lack of information but resistant will; unbelief shows itself as disobedience.
 
-v07: “Today… do not harden your hearts” — The invitation is present-tense; “today” names the urgency of responsiveness while the door is open.
+v7: “Today… do not harden your hearts” — The invitation is present-tense; “today” names the urgency of responsiveness while the door is open.
 
-v08: “if Joshua had given… rest” — The conquest did not exhaust God’s promise; rest is more than land, more than political settlement.
+v8: “if Joshua had given… rest” — The conquest did not exhaust God’s promise; rest is more than land, more than political settlement.
 
-v09: “a Sabbath rest remains” — Hope is still alive; God’s people are oriented toward a deeper Sabbath reality, not merely a weekly pause.
+v9: “a Sabbath rest remains” — Hope is still alive; God’s people are oriented toward a deeper Sabbath reality, not merely a weekly pause.
 
 v10–11: “rested from their works… make every effort” — A deliberate paradox: we strive to enter rest. The “effort” is persevering trust that refuses the old pattern of hardening.
 
@@ -67,21 +67,21 @@ v16: “draw near with confidence… throne of grace” — The climax is invita
 
 
 ## Vocabulary
-v01: κατάπαυσις (katapausis) — rest; cessation; settled rest
+v1: κατάπαυσις (katapausis) — rest; cessation; settled rest
 
-v01: ἐπαγγελία (epangelia) — promise
+v1: ἐπαγγελία (epangelia) — promise
 
-v02: εὐαγγελίζω (euangelizō) — to proclaim good news
+v2: εὐαγγελίζω (euangelizō) — to proclaim good news
 
-v02: πίστις (pistis) — trust; faithfulness (context determines nuance)
+v2: πίστις (pistis) — trust; faithfulness (context determines nuance)
 
-v06: ἀπείθεια (apeitheia) — disobedience; refusal to be persuaded
+v6: ἀπείθεια (apeitheia) — disobedience; refusal to be persuaded
 
-v07: σήμερον (sēmeron) — today
+v7: σήμερον (sēmeron) — today
 
-v07: σκληρύνω (sklērynō) — to harden
+v7: σκληρύνω (sklērynō) — to harden
 
-v09: σαββατισμός (sabbatismos) — Sabbath rest; Sabbath observance
+v9: σαββατισμός (sabbatismos) — Sabbath rest; Sabbath observance
 
 v11: σπουδάζω (spoudazō) — to make every effort; to be eager; to strive
 
