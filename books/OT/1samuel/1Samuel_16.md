@@ -72,11 +72,11 @@ v23: And whenever the evil spirit from God came upon Saul, David took the lyre a
 </p>
 
 ## Notes
-v01: “I have provided for myself a king” — Emphasizes divine initiative and selection; kingship is portrayed as God’s provision, not Israel’s achievement.
+v1: “I have provided for myself a king” — Emphasizes divine initiative and selection; kingship is portrayed as God’s provision, not Israel’s achievement.
 
-v02: Samuel’s fear of Saul — Indicates Saul’s continued power despite divine rejection, underscoring the dangerous overlap between rejected authority and lived reality.
+v2: Samuel’s fear of Saul — Indicates Saul’s continued power despite divine rejection, underscoring the dangerous overlap between rejected authority and lived reality.
 
-v07: “the LORD looks on the heart” — Contrasts human evaluation with divine perception; the text does not define “heart,” leaving its meaning deliberately open.
+v7: “the LORD looks on the heart” — Contrasts human evaluation with divine perception; the text does not define “heart,” leaving its meaning deliberately open.
 
 v11: “the youngest…keeping the sheep” — Highlights David’s marginal status within his own family at the moment of divine selection.
 
@@ -93,11 +93,11 @@ v21: David entering Saul’s service — Establishes irony: the anointed future 
 v23: Music as relief — Portrays restoration without resolution; Saul’s distress is eased temporarily, but not healed.
 
 ## Vocabulary
-v01: מָאַס (*māʾas*) — to reject, refuse
+v1: מָאַס (*māʾas*) — to reject, refuse
 
-v01: רָאָה (*rāʾāh*) — to see, provide, perceive
+v1: רָאָה (*rāʾāh*) — to see, provide, perceive
 
-v07: לֵב (*lēb*) — heart, inner self, disposition
+v7: לֵב (*lēb*) — heart, inner self, disposition
 
 v11: קָטָן (*qāṭān*) — small, youngest, least
 
