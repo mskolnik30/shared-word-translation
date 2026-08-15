@@ -81,11 +81,11 @@ v16: For “Who has known the mind of the Lord so as to instruct him?” But we 
 
 ## Notes
 
-v01–02: Message centers exclusively on Christ crucified.
+v1–2: Message centers exclusively on Christ crucified.
 
-v03–05: Weakness serves to highlight divine power.
+v3–5: Weakness serves to highlight divine power.
 
-v06–08: True wisdom is hidden from worldly rulers.
+v6–8: True wisdom is hidden from worldly rulers.
 
 v10–12: The Spirit reveals divine realities.
 
@@ -97,27 +97,27 @@ v16: Believers participate in the mind of Christ.
 
 ## Vocabulary
 
-v01: ὑπεροχή (hyperochē)
+v1: ὑπεροχή (hyperochē)
 
 “Superiority.”
 
-v02: σταυρόω (stauroō)
+v2: σταυρόω (stauroō)
 
 “To crucify.”
 
-v04: ἀπόδειξις (apodeixis)
+v4: ἀπόδειξις (apodeixis)
 
 “Demonstration.”
 
-v06: τέλειος (teleios)
+v6: τέλειος (teleios)
 
 “Mature.”
 
-v07: μυστήριον (mystērion)
+v7: μυστήριον (mystērion)
 
 “Mystery.”
 
-v08: ἄρχων (archōn)
+v8: ἄρχων (archōn)
 
 “Ruler.”
 
