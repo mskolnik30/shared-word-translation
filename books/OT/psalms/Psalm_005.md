@@ -90,31 +90,31 @@ v10: Judgment is framed as consequence (“fall by their own counsels”).
 v11–12: Refuge produces joy; protection is relational (“spread your protection”).
 
 ## Vocabulary
-v01: אֹזֶן (ozen)  
+v1: אֹזֶן (ozen)  
 “Ear.” Attention.
 
-v01: הָגִיג (hagig)  
+v1: הָגִיג (hagig)  
 “Groaning.” Murmur or meditation.
 
-v03: עָרַךְ (arak)  
+v3: עָרַךְ (arak)  
 “To prepare.” Arrange (offering/prayer).
 
-v04: רָשָׁע (rasha)  
+v4: רָשָׁע (rasha)  
 “Wicked.” Opposed to God.
 
-v05: יָצַב (yatsav)  
+v5: יָצַב (yatsav)  
 “To stand.” Take position.
 
-v06: כָּזָב (kazav)  
+v6: כָּזָב (kazav)  
 “Lie.” Falsehood.
 
-v07: חֶסֶד (chesed)  
+v7: חֶסֶד (chesed)  
 “Steadfast love.” Covenant loyalty.
 
-v08: יָשַׁר (yashar)  
+v8: יָשַׁר (yashar)  
 “To make straight.” Direct path.
 
-v09: קֶבֶר (qever)  
+v9: קֶבֶר (qever)  
 “Grave.” Place of death.
 
 v11: חָסָה (chasah)  
