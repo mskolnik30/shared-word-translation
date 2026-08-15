@@ -73,21 +73,21 @@ v18: For because he himself has suffered when tempted, he is able to help those 
 
 ## Notes
 
-v01: Attention is framed as preventative; drifting is gradual.
+v1: Attention is framed as preventative; drifting is gradual.
 
-v02: Past reliability establishes present accountability.
+v2: Past reliability establishes present accountability.
 
-v03: Neglect, not rejection, is the concern.
+v3: Neglect, not rejection, is the concern.
 
-v04: Witness is multi-layered: human and divine.
+v4: Witness is multi-layered: human and divine.
 
-v05: The world to come is distinguished from the present.
+v5: The world to come is distinguished from the present.
 
-v06–08: Citation is introduced without precise source.
+v6–8: Citation is introduced without precise source.
 
-v08: Fulfillment is partial; tension remains.
+v8: Fulfillment is partial; tension remains.
 
-v09: Identification with humanity is temporary but purposeful.
+v9: Identification with humanity is temporary but purposeful.
 
 v10: Suffering is presented as fitting, not accidental.
 
@@ -105,31 +105,31 @@ v18: Experience grounds capacity to help.
 
 ## Vocabulary
 
-v01: προσέχω (prosechō)
+v1: προσέχω (prosechō)
 
 “To pay attention.” To hold toward.
 
-v01: παραρρέω (pararreō)
+v1: παραρρέω (pararreō)
 
 “To drift away.” To slip past.
 
-v02: παράβασις (parabasis)
+v2: παράβασις (parabasis)
 
 “Transgression.” Crossing a boundary.
 
-v03: ἀμελέω (ameleō)
+v3: ἀμελέω (ameleō)
 
 “To neglect.” To disregard.
 
-v04: σημεῖον (sēmeion)
+v4: σημεῖον (sēmeion)
 
 “Sign.” Indicator of meaning.
 
-v05: οἰκουμένη (oikoumenē)
+v5: οἰκουμένη (oikoumenē)
 
 “World.” Inhabited order.
 
-v09: γεύομαι (geuomai)
+v9: γεύομαι (geuomai)
 
 “To taste.” To experience.
 
