@@ -78,19 +78,19 @@ v39: nor height nor depth, nor anything else in all creation, will be able to se
 </p>
 
 ## Notes
-v01: “no condemnation”
+v1: “no condemnation”
 This declaration is absolute, not provisional. It answers the question raised by Romans 6: whether participation in Christ reintroduces anxiety about judgment.
 
-v02: “the law of the Spirit of life”
+v2: “the law of the Spirit of life”
 “Law” functions metaphorically as a governing power. The contrast is between rival dominions, not between rules and freedom.
 
-v03: “God has done what the law could not do”
+v3: “God has done what the law could not do”
 The subject of the sentence is emphatic. Liberation is grounded in God’s action through the Son, not in human obedience empowered by effort.
 
-v04: “fulfilled in us”
+v4: “fulfilled in us”
 The fulfillment is participatory rather than meritorious. The law’s requirement is met through life in the Spirit, not by replication of legal performance.
 
-v09: “Spirit of God” / “Spirit of Christ”
+v9: “Spirit of God” / “Spirit of Christ”
 The interchange underscores unity of divine action without collapsing distinction. Belonging to Christ is defined by indwelling, not achievement.
 
 v11: “will give life to your mortal bodies”
@@ -124,16 +124,16 @@ v35–39: “nothing will separate us”
 The climactic assurance rests entirely on God’s love in Christ. Human trust is not named here, because it is not the ground of security.
 
 ## Vocabulary
-v01: κατάκριμα (katakrima)
+v1: κατάκριμα (katakrima)
 “Condemnation.” A judicial verdict of judgment. Its negation here is absolute, grounding assurance in God’s action rather than human consistency.
 
-v02: νόμος (nomos)
+v2: νόμος (nomos)
 “Law.” Used metaphorically to name a governing power or operative principle. The contrast is between rival dominions, not merely legal systems.
 
-v03: σάρξ (sarx)
+v3: σάρξ (sarx)
 “Flesh.” Refers to human life ordered apart from God, not the physical body itself. The term names a sphere of power rather than material substance.
 
-v06: φρόνημα (phronēma)
+v6: φρόνημα (phronēma)
 “Mindset.” Denotes orientation or disposition. Life and death are framed as outcomes of allegiance rather than isolated choices.
 
 v10: ζωή (zōē)
