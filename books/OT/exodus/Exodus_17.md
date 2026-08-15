@@ -41,19 +41,19 @@ v16: He said, “A hand upon the throne of the LORD! The LORD will have war with
 </p>
 
 ## Notes
-v01: “Journeyed by stages” underscores ordered movement under the LORD’s command; the crisis arises not from disobedience but within obedience.
+v1: “Journeyed by stages” underscores ordered movement under the LORD’s command; the crisis arises not from disobedience but within obedience.
 
-v02: “Quarreled” (rib) signals a legal dispute; the people place Moses—and by extension the LORD—on trial.
+v2: “Quarreled” (rib) signals a legal dispute; the people place Moses—and by extension the LORD—on trial.
 
-v03: The complaint escalates to an accusation of lethal intent, echoing earlier wilderness murmuring and intensifying the charge against God.
+v3: The complaint escalates to an accusation of lethal intent, echoing earlier wilderness murmuring and intensifying the charge against God.
 
-v05–06: The staff that struck the Nile now strikes the rock; an instrument of judgment becomes an instrument of provision, without explanation or justification.
+v5–6: The staff that struck the Nile now strikes the rock; an instrument of judgment becomes an instrument of provision, without explanation or justification.
 
-v06: “I will be standing there before you” places the LORD at the site of the blow; divine presence is implicated in the act that brings water.
+v6: “I will be standing there before you” places the LORD at the site of the blow; divine presence is implicated in the act that brings water.
 
-v07: Massah (“testing”) and Meribah (“quarreling”) memorialize the question, not the miracle: “Is the LORD among us or not?”
+v7: Massah (“testing”) and Meribah (“quarreling”) memorialize the question, not the miracle: “Is the LORD among us or not?”
 
-v09: Joshua’s first appearance frames leadership as delegated and embodied, while Moses’ role becomes intercessory and symbolic.
+v9: Joshua’s first appearance frames leadership as delegated and embodied, while Moses’ role becomes intercessory and symbolic.
 
 v11: The raised and lowered hand links the outcome of battle to sustained dependence rather than military strength alone.
 
@@ -64,17 +64,17 @@ v14: The command to write establishes memory as an act of obedience; the future 
 v16: The closing saying is terse and ambiguous; the gesture toward the LORD’s throne and the declaration of ongoing conflict resist full clarification.
 
 ## Vocabulary
-v02: רִיב (rîb) — to contend, dispute, bring a legal case; often carries forensic or covenantal overtones rather than mere argument.
+v2: רִיב (rîb) — to contend, dispute, bring a legal case; often carries forensic or covenantal overtones rather than mere argument.
 
-v03: לָן / תְּלוּנָה (lûn / telûnāh) — to grumble, complain; sustained murmuring that questions leadership and divine intent.
+v3: לָן / תְּלוּנָה (lûn / telûnāh) — to grumble, complain; sustained murmuring that questions leadership and divine intent.
 
-v06: עָמַד (ʿāmad) — to stand, take one’s place; here signals deliberate, visible presence rather than distant oversight.
+v6: עָמַד (ʿāmad) — to stand, take one’s place; here signals deliberate, visible presence rather than distant oversight.
 
-v07: מַסָּה (Massah) — “testing”; probing God’s presence or reliability, not neutral inquiry but skeptical demand.
+v7: מַסָּה (Massah) — “testing”; probing God’s presence or reliability, not neutral inquiry but skeptical demand.
 
-v07: מְרִיבָה (Meribah) — “quarreling, contention”; communal conflict that hardens into a named memory.
+v7: מְרִיבָה (Meribah) — “quarreling, contention”; communal conflict that hardens into a named memory.
 
-v09: מַטֶּה (matteh) — staff, rod; symbol of authority and action, associated with both judgment and deliverance.
+v9: מַטֶּה (matteh) — staff, rod; symbol of authority and action, associated with both judgment and deliverance.
 
 v11: יָד (yād) — hand; denotes power, agency, or control, extending beyond the physical gesture.
 
