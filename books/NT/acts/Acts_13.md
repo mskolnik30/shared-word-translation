@@ -241,11 +241,11 @@ v52: And the disciples were filled with joy and with the Holy Spirit.
 
 ## Notes
 
-v02: Mission originates through Spirit direction.
+v2: Mission originates through Spirit direction.
 
-v06–12: Opposition from false power contrasts with true authority.
+v6–12: Opposition from false power contrasts with true authority.
 
-v09: Name shift from Saul to Paul marks mission context.
+v9: Name shift from Saul to Paul marks mission context.
 
 v16–41: Paul’s sermon traces redemptive history to Jesus.
 
@@ -265,19 +265,19 @@ v52: Joy and Spirit persist amid opposition.
 
 ## Vocabulary
 
-v02: ἀφορίζω (aphorizō)
+v2: ἀφορίζω (aphorizō)
 
 “To set apart.”
 
-v05: ὑπηρέτης (hypēretēs)
+v5: ὑπηρέτης (hypēretēs)
 
 “Assistant.”
 
-v06: μάγος (magos)
+v6: μάγος (magos)
 
 “Magician.”
 
-v08: διαστρέφω (diastrephō)
+v8: διαστρέφω (diastrephō)
 
 “To pervert.”
 
