@@ -69,17 +69,17 @@ v17: For the Lamb in the midst of the throne will shepherd them and lead them to
 
 ## Notes
 
-v01: The “four corners” expresses totality rather than geography; restraint precedes judgment.
+v1: The “four corners” expresses totality rather than geography; restraint precedes judgment.
 
-v02–03: Harm is delayed; sealing marks protection before release.
+v2–3: Harm is delayed; sealing marks protection before release.
 
-v04: The number is heard, not seen, creating distinction from what follows.
+v4: The number is heard, not seen, creating distinction from what follows.
 
-v05–08: The tribal list is structured but not identical to traditional listings, without explanation.
+v5–8: The tribal list is structured but not identical to traditional listings, without explanation.
 
-v09: The multitude is seen, not counted, contrasting with the numbered group.
+v9: The multitude is seen, not counted, contrasting with the numbered group.
 
-v09–10: Scope expands universally without replacing the prior group.
+v9–10: Scope expands universally without replacing the prior group.
 
 v12: The sevenfold praise accumulates without hierarchy.
 
@@ -97,19 +97,19 @@ v17: Restoration is expressed relationally (“wipe away every tear”) rather t
 
 ## Vocabulary
 
-v01: ἄνεμος (anemos)
+v1: ἄνεμος (anemos)
 
 “Wind.” Often associated with force or judgment, here restrained.
 
-v02: σφραγίς (sphragis)
+v2: σφραγίς (sphragis)
 
 “Seal.” Mark of ownership or protection.
 
-v04: φυλή (phylē)
+v4: φυλή (phylē)
 
 “Tribe.” A group defined by lineage or identity.
 
-v09: ὄχλος (ochlos)
+v9: ὄχλος (ochlos)
 
 “Multitude.” A large crowd, beyond enumeration.
 
