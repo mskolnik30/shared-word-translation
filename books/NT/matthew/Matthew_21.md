@@ -5,8 +5,6 @@ chapter: 21
 translation: TSW
 ---
 
-# The Triumphal Entry
-
 <p>
 v01: When they drew near to Jerusalem and came to Bethphage, to the Mount of Olives, then Jesus sent two disciples,
 v02: saying to them, “Go into the village in front of you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me.
