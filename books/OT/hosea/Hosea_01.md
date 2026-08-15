@@ -5,8 +5,6 @@ chapter: 1
 translation: TSW  
 ---
 
-# Hosea 1
-
 ## The Lord Commands Hosea to Marry
 
 <p>
