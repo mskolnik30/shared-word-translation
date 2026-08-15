@@ -115,11 +115,11 @@ v24: My love be with you all in Christ Jesus. Amen.
 
 ## Notes
 
-v01–04: Structured giving reflects communal responsibility.
+v1–4: Structured giving reflects communal responsibility.
 
-v05–09: Mission planning is flexible under divine guidance.
+v5–9: Mission planning is flexible under divine guidance.
 
-v09: Opportunity and opposition coexist.
+v9: Opportunity and opposition coexist.
 
 v10–12: Leadership cooperation is affirmed.
 
@@ -133,27 +133,27 @@ v21–24: Closing combines warning, hope, grace, and love.
 
 ## Vocabulary
 
-v01: λογεία (logeia)
+v1: λογεία (logeia)
 
 “Collection.”
 
-v02: θησαυρίζω (thēsaurizō)
+v2: θησαυρίζω (thēsaurizō)
 
 “To store up.”
 
-v03: δοκιμάζω (dokimazō)
+v3: δοκιμάζω (dokimazō)
 
 “To approve.”
 
-v06: προπέμπω (propempō)
+v6: προπέμπω (propempō)
 
 “To send on one’s way.”
 
-v09: θύρα (thyra)
+v9: θύρα (thyra)
 
 “Door.”
 
-v09: ἀντικείμενος (antikeimenos)
+v9: ἀντικείμενος (antikeimenos)
 
 “Adversary.”
 
