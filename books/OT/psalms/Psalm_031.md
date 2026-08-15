@@ -103,19 +103,19 @@ v24: Be strong, and let your heart take courage,
 
 
 ## Notes
-v01: “take refuge… in your righteousness deliver me” — The psalm grounds rescue in God’s rightness, not the psalmist’s deserving; shame is answered by God’s faithful action.
+v1: “take refuge… in your righteousness deliver me” — The psalm grounds rescue in God’s rightness, not the psalmist’s deserving; shame is answered by God’s faithful action.
 
-v02–03: “rock… fortress… for your name’s sake” — Protection is personal and covenantal; God’s reputation (“name”) is tied to God’s saving care.
+v2–3: “rock… fortress… for your name’s sake” — Protection is personal and covenantal; God’s reputation (“name”) is tied to God’s saving care.
 
-v04: “net… hidden” — Threat is portrayed as covert and manipulative; deliverance includes being pulled out of traps you cannot see.
+v4: “net… hidden” — Threat is portrayed as covert and manipulative; deliverance includes being pulled out of traps you cannot see.
 
-v05: “Into your hand I commit my spirit” — The decisive act is entrustment. The line is both surrender and confidence, rooted in God as “faithful.”
+v5: “Into your hand I commit my spirit” — The decisive act is entrustment. The line is both surrender and confidence, rooted in God as “faithful.”
 
-v06: “worthless idols… I trust” — Trust is exclusive allegiance: refusing false supports is part of refuge in the LORD.
+v6: “worthless idols… I trust” — Trust is exclusive allegiance: refusing false supports is part of refuge in the LORD.
 
-v07–08: “you have seen… known… broad place” — God’s salvation includes attention: seen affliction, known distress, and then widened space to stand and breathe.
+v7–8: “you have seen… known… broad place” — God’s salvation includes attention: seen affliction, known distress, and then widened space to stand and breathe.
 
-v09–10: “eye wastes away… bones waste away” — Suffering is bodily; grief depletes strength and time. The psalm gives language to somatic sorrow.
+v9–10: “eye wastes away… bones waste away” — Suffering is bodily; grief depletes strength and time. The psalm gives language to somatic sorrow.
 
 v11–13: “reproach… dread… whispering… terror” — Social isolation and reputational collapse intensify the crisis; the enemy’s strategy is fear and rumor.
 
@@ -137,37 +137,37 @@ v24: “Be strong… heart take courage… wait” — The ending shifts to comm
 
 
 ## Vocabulary
-v01: חָסָה (chasah) — to take refuge
+v1: חָסָה (chasah) — to take refuge
 
-v01: בּוֹשׁ (bosh) — to be put to shame; to be disgraced
+v1: בּוֹשׁ (bosh) — to be put to shame; to be disgraced
 
-v01: צֶדֶק (tsedeq) — righteousness; justice; rightness
+v1: צֶדֶק (tsedeq) — righteousness; justice; rightness
 
-v02: נָטָה (natah) — to incline; to bend toward
+v2: נָטָה (natah) — to incline; to bend toward
 
-v02: צוּר (tsur) — rock
+v2: צוּר (tsur) — rock
 
-v02: מָצוּדָה (matsudah) — stronghold; fortress
+v2: מָצוּדָה (matsudah) — stronghold; fortress
 
-v03: שֵׁם (shem) — name
+v3: שֵׁם (shem) — name
 
-v04: רֶשֶׁת (reshet) — net
+v4: רֶשֶׁת (reshet) — net
 
-v05: רוּחַ (ruaḥ) — spirit; breath; life-wind
+v5: רוּחַ (ruaḥ) — spirit; breath; life-wind
 
-v05: פָּדָה (padah) — to redeem; to ransom
+v5: פָּדָה (padah) — to redeem; to ransom
 
-v06: הֶבֶל (hevel) — vapor; vanity; worthless thing
+v6: הֶבֶל (hevel) — vapor; vanity; worthless thing
 
-v07: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
+v7: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
 
-v07: עֳנִי (ʿoni) — affliction; misery
+v7: עֳנִי (ʿoni) — affliction; misery
 
-v07: צָרָה (tsarah) — distress; trouble
+v7: צָרָה (tsarah) — distress; trouble
 
-v08: מֶרְחָב (merchav) — broad place; spaciousness
+v8: מֶרְחָב (merchav) — broad place; spaciousness
 
-v09: חָנַן (ḥanan) — to be gracious; to show favor
+v9: חָנַן (ḥanan) — to be gracious; to show favor
 
 v10: יָגֹון (yagon) — sorrow; grief
 
