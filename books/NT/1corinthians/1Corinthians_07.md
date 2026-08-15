@@ -183,9 +183,9 @@ v40: But in my judgment she is happier if she remains as she is—and I think th
 
 ## Notes
 
-v01–05: Marriage addresses sexual need and mutual obligation.
+v1–5: Marriage addresses sexual need and mutual obligation.
 
-v07: Singleness and marriage are distinct gifts.
+v7: Singleness and marriage are distinct gifts.
 
 v10–11: Marital permanence reflects the Lord’s command.
 
@@ -201,27 +201,27 @@ v36–40: Marriage is permitted; singleness is commended.
 
 ## Vocabulary
 
-v01: ἅπτομαι (haptomai)
+v1: ἅπτομαι (haptomai)
 
 “To touch.”
 
-v02: πορνεία (porneia)
+v2: πορνεία (porneia)
 
 “Sexual immorality.”
 
-v04: ἐξουσιάζω (exousiazō)
+v4: ἐξουσιάζω (exousiazō)
 
 “To have authority over.”
 
-v05: ἀποστερέω (apostereō)
+v5: ἀποστερέω (apostereō)
 
 “To deprive.”
 
-v07: χάρισμα (charisma)
+v7: χάρισμα (charisma)
 
 “Gift.”
 
-v09: πυρόω (pyroō)
+v9: πυρόω (pyroō)
 
 “To burn.”
 
