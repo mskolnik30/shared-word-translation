@@ -189,9 +189,9 @@ v40: But let all things be done properly and in order.
 
 ## Notes
 
-v01–05: Prophecy is prioritized for communal edification.
+v1–5: Prophecy is prioritized for communal edification.
 
-v06–12: Intelligibility is essential for usefulness.
+v6–12: Intelligibility is essential for usefulness.
 
 v13–19: Mind and spirit must function together.
 
@@ -207,27 +207,27 @@ v37–40: Apostolic authority governs practice.
 
 ## Vocabulary
 
-v01: ζηλόω (zēloō)
+v1: ζηλόω (zēloō)
 
 “To desire earnestly.”
 
-v02: γλῶσσα (glōssa)
+v2: γλῶσσα (glōssa)
 
 “Tongue.”
 
-v03: προφητεύω (prophēteuō)
+v3: προφητεύω (prophēteuō)
 
 “To prophesy.”
 
-v04: οἰκοδομέω (oikodomeō)
+v4: οἰκοδομέω (oikodomeō)
 
 “To build up.”
 
-v05: διερμηνεύω (diermēneuō)
+v5: διερμηνεύω (diermēneuō)
 
 “To interpret.”
 
-v09: σαφής (saphēs)
+v9: σαφής (saphēs)
 
 “Clear.”
 
