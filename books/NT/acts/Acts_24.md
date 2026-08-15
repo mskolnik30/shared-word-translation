@@ -137,9 +137,9 @@ v27: But when two years had been completed, Felix was succeeded by Porcius Festu
 
 ## Notes
 
-v02–04: Formal rhetoric seeks to gain favor before presenting accusation.
+v2–4: Formal rhetoric seeks to gain favor before presenting accusation.
 
-v05: Charges include political, social, and religious disruption.
+v5: Charges include political, social, and religious disruption.
 
 v10–13: Defense emphasizes lack of evidence.
 
@@ -161,27 +161,27 @@ v27: Political expediency prolongs imprisonment.
 
 ## Vocabulary
 
-v01: κατήγορος (katēgoros)
+v1: κατήγορος (katēgoros)
 
 “Accuser.”
 
-v02: κατηγορέω (katēgoreō)
+v2: κατηγορέω (katēgoreō)
 
 “To accuse.”
 
-v03: εὐχαριστία (eucharistia)
+v3: εὐχαριστία (eucharistia)
 
 “Gratitude.”
 
-v05: λοιμός (loimos)
+v5: λοιμός (loimos)
 
 “Pest, plague.”
 
-v05: πρωτοστάτης (prōtostatēs)
+v5: πρωτοστάτης (prōtostatēs)
 
 “Ringleader.”
 
-v06: βεβηλόω (bebēloō)
+v6: βεβηλόω (bebēloō)
 
 “To profane.”
 
