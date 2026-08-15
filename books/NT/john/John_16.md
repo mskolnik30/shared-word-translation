@@ -157,15 +157,15 @@ v33: These things I have spoken to you so that in me you may have peace. In the 
 
 ## Notes
 
-v01–02: Forewarning aims at stability, not avoidance of suffering.
+v1–2: Forewarning aims at stability, not avoidance of suffering.
 
-v03: Ignorance of God underlies persecution.
+v3: Ignorance of God underlies persecution.
 
-v07: Jesus’ departure is necessary for the Spirit’s arrival.
+v7: Jesus’ departure is necessary for the Spirit’s arrival.
 
-v08–11: The Spirit interprets reality in terms of sin, righteousness, and judgment.
+v8–11: The Spirit interprets reality in terms of sin, righteousness, and judgment.
 
-v09: Unbelief is defined as the core sin.
+v9: Unbelief is defined as the core sin.
 
 v10: Righteousness is validated by Jesus’ return to the Father.
 
@@ -191,19 +191,19 @@ v33: Peace is located in Jesus despite ongoing tribulation.
 
 ## Vocabulary
 
-v01: σκανδαλίζω (skandalizō)
+v1: σκανδαλίζω (skandalizō)
 
 “To cause to stumble.”
 
-v02: ἀποσυνάγωγος (aposynagōgos)
+v2: ἀποσυνάγωγος (aposynagōgos)
 
 “Put out of the synagogue.”
 
-v07: παράκλητος (paraklētos)
+v7: παράκλητος (paraklētos)
 
 “Helper.”
 
-v08: ἐλέγχω (elenchō)
+v8: ἐλέγχω (elenchō)
 
 “To convict.”
 
