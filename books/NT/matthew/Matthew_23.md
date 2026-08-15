@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Warnings Against Hypocrisy
 
 <p>
@@ -103,15 +102,15 @@ v39: For I tell you, you will not see me again, until you say, ‘Blessed is he 
 
 ## Notes
 
-v02: “Moses’ seat” signals interpretive authority, not moral credibility.  
+v2: “Moses’ seat” signals interpretive authority, not moral credibility.  
 
-v03: Distinction between teaching and practice; authority without integrity.  
+v3: Distinction between teaching and practice; authority without integrity.  
 
-v04: Burdens represent intensified legal demands without pastoral care.  
+v4: Burdens represent intensified legal demands without pastoral care.  
 
-v05: External markers (phylacteries, tassels) used performatively.  
+v5: External markers (phylacteries, tassels) used performatively.  
 
-v08–10: Titles relativized; authority centralized in God and Christ.  
+v8–10: Titles relativized; authority centralized in God and Christ.  
 
 v11–12: Status inversion governs community structure.  
 
@@ -143,13 +142,13 @@ v39: Future recognition framed in liturgical language (Ps 118).
 
 ## Vocabulary
 
-v02: καθέδρα (*kathedra*) — “Seat.” Position of teaching authority.  
+v2: καθέδρα (*kathedra*) — “Seat.” Position of teaching authority.  
 
-v04: φορτία (*phortia*) — “Burdens.” Obligations or demands.  
+v4: φορτία (*phortia*) — “Burdens.” Obligations or demands.  
 
-v05: φυλακτήρια (*phylaktēria*) — “Phylacteries.” Scripture-containing amulets.  
+v5: φυλακτήρια (*phylaktēria*) — “Phylacteries.” Scripture-containing amulets.  
 
-v07: ῥαββί (*rhabbí*) — “Rabbi.” Teacher; honorific title.  
+v7: ῥαββί (*rhabbí*) — “Rabbi.” Teacher; honorific title.  
 
 v12: ταπεινωθήσεται (*tapeinōthēsetai*) — “Will be humbled.” Brought low.  
 
