@@ -145,11 +145,11 @@ v30: And on the next day, wanting to know the certainty of why he was being accu
 
 ## Notes
 
-v01–02: Use of Hebrew language establishes connection with audience.
+v1–2: Use of Hebrew language establishes connection with audience.
 
-v03–05: Paul grounds his authority in shared Jewish credentials.
+v3–5: Paul grounds his authority in shared Jewish credentials.
 
-v06–11: Encounter with Jesus redefines prior zeal.
+v6–11: Encounter with Jesus redefines prior zeal.
 
 v14–15: Calling includes revelation and universal witness.
 
@@ -165,27 +165,27 @@ v30: Authority seeks formal clarification through council procedure.
 
 ## Vocabulary
 
-v01: ἀπολογία (apologia)
+v1: ἀπολογία (apologia)
 
 “Defense.”
 
-v02: Ἑβραΐς (Hebrais)
+v2: Ἑβραΐς (Hebrais)
 
 “Hebrew language.”
 
-v03: ἀκρίβεια (akribeia)
+v3: ἀκρίβεια (akribeia)
 
 “Strictness.”
 
-v04: διώκω (diōkō)
+v4: διώκω (diōkō)
 
 “To persecute.”
 
-v06: φῶς (phōs)
+v6: φῶς (phōs)
 
 “Light.”
 
-v07: φωνή (phōnē)
+v7: φωνή (phōnē)
 
 “Voice.”
 
