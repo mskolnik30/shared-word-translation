@@ -123,21 +123,21 @@ v29: If you know that he is righteous, you may be sure that everyone who practic
 
 ## Notes
 
-v01: The purpose of writing is preventative, not reactive.
+v1: The purpose of writing is preventative, not reactive.
 
-v01: Advocacy is relational, not procedural.
+v1: Advocacy is relational, not procedural.
 
-v02: Scope extends beyond the immediate group.
+v2: Scope extends beyond the immediate group.
 
-v03–05: Knowledge is demonstrated through obedience, not assertion.
+v3–5: Knowledge is demonstrated through obedience, not assertion.
 
-v06: Walking is patterned after prior example.
+v6: Walking is patterned after prior example.
 
-v07–08: Old and new are held together without resolution.
+v7–8: Old and new are held together without resolution.
 
-v08: Light is already present, not future only.
+v8: Light is already present, not future only.
 
-v09–11: Love and hate function as indicators of position.
+v9–11: Love and hate function as indicators of position.
 
 v11: Darkness affects perception, not only location.
 
@@ -161,27 +161,27 @@ v28–29: Confidence is tied to abiding, not achievement.
 
 ## Vocabulary
 
-v01: παράκλητος (paraklētos)
+v1: παράκλητος (paraklētos)
 
 “Advocate.” One who speaks on behalf of another.
 
-v02: ἱλασμός (hilasmos)
+v2: ἱλασμός (hilasmos)
 
 “Atoning sacrifice.” Means of dealing with sin.
 
-v03: γινώσκω (ginōskō)
+v3: γινώσκω (ginōskō)
 
 “To know.” Relational understanding.
 
-v05: τελειόω (teleioō)
+v5: τελειόω (teleioō)
 
 “To perfect.” To bring to completion.
 
-v06: περιπατέω (peripateō)
+v6: περιπατέω (peripateō)
 
 “To walk.” To live or act.
 
-v08: φῶς (phōs)
+v8: φῶς (phōs)
 
 “Light.” Source of truth and life.
 
