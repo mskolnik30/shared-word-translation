@@ -221,11 +221,11 @@ v56: And returning, they prepared spices and ointments. And on the Sabbath they 
 
 ## Notes
 
-v02: Accusations are framed politically to secure Roman action.
+v2: Accusations are framed politically to secure Roman action.
 
-v04–05: Pilate repeatedly affirms Jesus’ innocence but yields to pressure.
+v4–5: Pilate repeatedly affirms Jesus’ innocence but yields to pressure.
 
-v08–09: Herod seeks spectacle, not truth.
+v8–9: Herod seeks spectacle, not truth.
 
 v11: Mockery includes symbolic clothing, parodying kingship.
 
@@ -255,11 +255,11 @@ v56: Sabbath observance continues even in grief.
 
 ## Vocabulary
 
-v02: διαστρέφω (diastrephō)
+v2: διαστρέφω (diastrephō)
 
 “To mislead.”
 
-v03: βασιλεύς (basileus)
+v3: βασιλεύς (basileus)
 
 “King.”
 
