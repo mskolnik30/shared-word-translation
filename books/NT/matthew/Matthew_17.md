@@ -65,15 +65,15 @@ v27: But so that we do not give offense to them, go to the sea and cast a hook; 
 </p>
 
 ## Notes
-v01–02: The transfiguration is narrated without explanation. Visual transformation is described, but its meaning is not interpreted within the scene.
+v1–2: The transfiguration is narrated without explanation. Visual transformation is described, but its meaning is not interpreted within the scene.
 
-v03: Moses and Elijah appear without introduction. Their presence is assumed to be recognizable, and no dialogue content is reported.
+v3: Moses and Elijah appear without introduction. Their presence is assumed to be recognizable, and no dialogue content is reported.
 
-v05: The voice from the cloud echoes baptismal language and adds the imperative “listen to him,” shifting focus from vision to obedience.
+v5: The voice from the cloud echoes baptismal language and adds the imperative “listen to him,” shifting focus from vision to obedience.
 
-v06–07: Fear is met not with instruction but with touch and reassurance. Jesus’ response is embodied rather than explanatory.
+v6–7: Fear is met not with instruction but with touch and reassurance. Jesus’ response is embodied rather than explanatory.
 
-v09: Silence is commanded until after the resurrection. Understanding is explicitly deferred.
+v9: Silence is commanded until after the resurrection. Understanding is explicitly deferred.
 
 v11–13: Elijah’s coming is affirmed and reinterpreted through suffering rather than restoration alone. Recognition, not arrival, is the point of failure.
 
@@ -89,11 +89,11 @@ v26–27: Freedom and concession are held together. Jesus asserts status while c
 
 
 ## Vocabulary
-v02: μετεμορφώθη (metemorphōthē) — was transfigured; a change in form without explanation of mechanism.
+v2: μετεμορφώθη (metemorphōthē) — was transfigured; a change in form without explanation of mechanism.
 
-v05: νεφέλη (nephelē) — cloud; a traditional marker of divine presence and concealment.
+v5: νεφέλη (nephelē) — cloud; a traditional marker of divine presence and concealment.
 
-v05: ἀκούω (akouō) — to listen; to hear; implies obedience rather than mere perception.
+v5: ἀκούω (akouō) — to listen; to hear; implies obedience rather than mere perception.
 
 v17: ἄπιστος (apistos) — faithless; untrusting; denotes relational failure rather than intellectual doubt.
 
