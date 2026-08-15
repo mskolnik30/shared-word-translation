@@ -77,23 +77,23 @@ v20: let him know that whoever brings back a sinner from his wandering will save
 
 ## Notes
 
-v01: Judgment is announced before explanation.
+v1: Judgment is announced before explanation.
 
-v02–03: Wealth is depicted as decaying rather than stable.
+v2–3: Wealth is depicted as decaying rather than stable.
 
-v03: Corrosion becomes testimony.
+v3: Corrosion becomes testimony.
 
-v04: Injustice is personified as crying out.
+v4: Injustice is personified as crying out.
 
-v05: Present indulgence is linked to future judgment.
+v5: Present indulgence is linked to future judgment.
 
-v06: The righteous are passive; no defense is described.
+v6: The righteous are passive; no defense is described.
 
-v07–08: Patience is illustrated through agricultural timing.
+v7–8: Patience is illustrated through agricultural timing.
 
-v08: Nearness is asserted without specification.
+v8: Nearness is asserted without specification.
 
-v09: Judgment is imminent; behavior is adjusted accordingly.
+v9: Judgment is imminent; behavior is adjusted accordingly.
 
 v10–11: Past examples function as models without expansion.
 
@@ -111,31 +111,31 @@ v19–20: Restoration is relational; outcome is preservation.
 
 ## Vocabulary
 
-v01: ταλαιπωρία (talaipōria)
+v1: ταλαιπωρία (talaipōria)
 
 “Miseries.” Hardships or distress.
 
-v03: κατίω (katioō)
+v3: κατίω (katioō)
 
 “To corrode.” To decay through use.
 
-v04: ἀποστερέω (apostereō)
+v4: ἀποστερέω (apostereō)
 
 “To withhold.” To deprive unjustly.
 
-v04: κύριος σαβαώθ (kyrios sabaōth)
+v4: κύριος σαβαώθ (kyrios sabaōth)
 
 “Lord of hosts.” Title of divine authority.
 
-v05: τρυφή (tryphē)
+v5: τρυφή (tryphē)
 
 “Luxury.” Indulgent living.
 
-v07: μακροθυμέω (makrothymeō)
+v7: μακροθυμέω (makrothymeō)
 
 “To be patient.” To endure over time.
 
-v08: στηρίζω (stērizō)
+v8: στηρίζω (stērizō)
 
 “To establish.” To make firm.
 
