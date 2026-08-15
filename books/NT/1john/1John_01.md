@@ -39,63 +39,63 @@ v10: If we say that we have not sinned, we make him a liar, and his word is not 
 
 ## Notes
 
-v01: The opening is descriptive without naming the subject directly.
+v1: The opening is descriptive without naming the subject directly.
 
-v01–02: Sensory language accumulates, emphasizing experience.
+v1–2: Sensory language accumulates, emphasizing experience.
 
-v02: Manifestation is repeated without explanation of mechanism.
+v2: Manifestation is repeated without explanation of mechanism.
 
-v03: Proclamation establishes shared participation.
+v3: Proclamation establishes shared participation.
 
-v04: Writing is oriented toward completion of joy.
+v4: Writing is oriented toward completion of joy.
 
-v05: God is defined through contrast, not analogy.
+v5: God is defined through contrast, not analogy.
 
-v06–07: Walking functions as a metaphor for conduct.
+v6–7: Walking functions as a metaphor for conduct.
 
-v07: Cleansing is continuous, not punctiliar.
+v7: Cleansing is continuous, not punctiliar.
 
-v08–10: Conditional statements expose self-deception without gradation.
+v8–10: Conditional statements expose self-deception without gradation.
 
-v09: Forgiveness and cleansing are paired without separation.
+v9: Forgiveness and cleansing are paired without separation.
 
 v10: Denial of sin redefines relationship with God.
 
 ## Vocabulary
 
-v01: ἀρχή (archē)
+v1: ἀρχή (archē)
 
 “Beginning.” Origin or starting point.
 
-v01: λόγος (logos)
+v1: λόγος (logos)
 
 “Word.” Expression or communication.
 
-v02: φανερόω (phaneroō)
+v2: φανερόω (phaneroō)
 
 “To make manifest.” To reveal or make visible.
 
-v03: κοινωνία (koinōnia)
+v3: κοινωνία (koinōnia)
 
 “Fellowship.” Shared participation.
 
-v05: φῶς (phōs)
+v5: φῶς (phōs)
 
 “Light.” Source of illumination and purity.
 
-v06: περιπατέω (peripateō)
+v6: περιπατέω (peripateō)
 
 “To walk.” To live or conduct oneself.
 
-v07: καθαρίζω (katharizō)
+v7: καθαρίζω (katharizō)
 
 “To cleanse.” To make clean or pure.
 
-v08: ἁμαρτία (hamartia)
+v8: ἁμαρτία (hamartia)
 
 “Sin.” Missing the mark or wrongdoing.
 
-v09: ὁμολογέω (homologeō)
+v9: ὁμολογέω (homologeō)
 
 “To confess.” To acknowledge openly.
 
