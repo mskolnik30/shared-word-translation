@@ -45,7 +45,7 @@ v15: All who are with me send greetings to you. Greet those who love us in the f
 
 ## Notes
 
-v09: Disputes are evaluated by usefulness rather than content.
+v9: Disputes are evaluated by usefulness rather than content.
 
 v10–11: Division is addressed through measured warning and separation.
 
@@ -59,11 +59,11 @@ v15: Closing maintains relational continuity and shared identity.
 
 ## Vocabulary
 
-v09: μάχη (machē)
+v9: μάχη (machē)
 
 “Quarrel.” Conflict or dispute.
 
-v09: γενεαλογία (genealogia)
+v9: γενεαλογία (genealogia)
 
 “Genealogy.” Lineage listing.
 
