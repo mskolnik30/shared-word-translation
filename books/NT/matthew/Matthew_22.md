@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Parable of the Wedding Feast
 
 <p>
@@ -135,11 +134,11 @@ v46: And no one was able to answer him a word, nor from that day did anyone dare
 
 ## Notes
 
-v03–06: Refusal escalates from indifference to violence; rejection intensifies.  
+v3–6: Refusal escalates from indifference to violence; rejection intensifies.  
 
-v07: Judgment framed as response to mistreatment of the king’s representatives.  
+v7: Judgment framed as response to mistreatment of the king’s representatives.  
 
-v09–10: Invitation expands beyond original recipients; inclusion widens indiscriminately.  
+v9–10: Invitation expands beyond original recipients; inclusion widens indiscriminately.  
 
 v11–13: Presence alone is insufficient; appropriate response (“garment”) required.  
 
@@ -163,9 +162,9 @@ v46: Silence indicates argumentative closure, not agreement.
 
 ## Vocabulary
 
-v02: γάμος (*gamos*) — “Wedding feast.” Celebration marking covenant union.  
+v2: γάμος (*gamos*) — “Wedding feast.” Celebration marking covenant union.  
 
-v05: ἀμελήσαντες (*amelēsantes*) — “Paid no attention.” Neglected or disregarded.  
+v5: ἀμελήσαντες (*amelēsantes*) — “Paid no attention.” Neglected or disregarded.  
 
 v11: ἔνδυμα γάμου (*endyma gamou*) — “Wedding garment.” Appropriate attire/response.  
 
