@@ -38,7 +38,7 @@ v16: For God so loved the world that God gave the only Son, so that everyone who
 v17: Indeed, God did not send the Son into the world to condemn the world, but in order that the world might be saved through him.
 v18: Those who trust in him are not condemned; but those who do not trust are condemned already, because they have not trusted in the name of the only Son of God.
 v19: And this is the judgment: the light has come into the world, and people loved darkness rather than light because their deeds were evil.
-v20 For all who do evil hate the light and do not come to the light, so that their deeds may not be exposed.
+v20: For all who do evil hate the light and do not come to the light, so that their deeds may not be exposed.
 v21: But those who do what is true come to the light, so that it may be clearly seen that their deeds have been done in God.”
 </p>
 
@@ -71,13 +71,13 @@ v36: Whoever trusts in the Son has eternal life; whoever refuses the Son will no
 </p>
 
 ## Notes
-v01–02: Nicodemus comes “by night,” a narrative detail that signals both caution and incomplete understanding without explicit judgment.
+v1–2: Nicodemus comes “by night,” a narrative detail that signals both caution and incomplete understanding without explicit judgment.
 
-v03: “Born from above” deliberately carries double meaning (from above / again). Jesus does not resolve the ambiguity, and Nicodemus hears it concretely.
+v3: “Born from above” deliberately carries double meaning (from above / again). Jesus does not resolve the ambiguity, and Nicodemus hears it concretely.
 
-v05: “Water and Spirit” is presented without explanation or ritual definition. The text does not specify mechanism or sequence.
+v5: “Water and Spirit” is presented without explanation or ritual definition. The text does not specify mechanism or sequence.
 
-v06–08: Flesh and Spirit are contrasted as sources of life. The wind/Spirit metaphor emphasizes freedom and invisibility rather than control or predictability.
+v6–8: Flesh and Spirit are contrasted as sources of life. The wind/Spirit metaphor emphasizes freedom and invisibility rather than control or predictability.
 
 v11–12: The shift to first-person plural (“we speak…”) broadens testimony beyond Jesus alone, without identifying its scope.
 
@@ -96,13 +96,12 @@ v29–30: John the Baptist interprets his role relationally, not competitively. 
 v31–36: Heavenly origin and testimony are emphasized repeatedly. Trust and refusal are presented as present realities, not merely future outcomes.
 
 
-
 ## Vocabulary
-v03: ἄνωθεν (anōthen) — from above; again; intentionally ambiguous in direction and time.
+v3: ἄνωθεν (anōthen) — from above; again; intentionally ambiguous in direction and time.
 
-v05: πνεῦμα (pneuma) — Spirit; wind; breath; carries layered meaning throughout the passage.
+v5: πνεῦμα (pneuma) — Spirit; wind; breath; carries layered meaning throughout the passage.
 
-v08: φωνή (phōnē) — sound; voice; emphasizes effect without visible source.
+v8: φωνή (phōnē) — sound; voice; emphasizes effect without visible source.
 
 v11: μαρτυρέω (martyreō) — to testify; to bear witness; relational rather than argumentative.
 
