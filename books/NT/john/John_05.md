@@ -189,9 +189,9 @@ v47: But if you do not believe his writings, how will you believe my words?”
 
 ## Notes
 
-v06: Healing begins with a question of desire, not merely condition.
+v6: Healing begins with a question of desire, not merely condition.
 
-v08–09: Command precedes ability; obedience enables restoration.
+v8–9: Command precedes ability; obedience enables restoration.
 
 v10–16: Sabbath controversy shifts focus from healing to regulation.
 
@@ -219,19 +219,19 @@ v45–47: Moses is reframed as witness against unbelief.
 
 ## Vocabulary
 
-v02: στοά (stoa)
+v2: στοά (stoa)
 
 “Portico.”
 
-v05: ἀσθένεια (astheneia)
+v5: ἀσθένεια (astheneia)
 
 “Weakness, illness.”
 
-v06: ὑγιής (hygiēs)
+v6: ὑγιής (hygiēs)
 
 “Well, whole.”
 
-v08: κράβαττος (krabattos)
+v8: κράβαττος (krabattos)
 
 “Mat.”
 
