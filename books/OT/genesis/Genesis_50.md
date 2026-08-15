@@ -101,11 +101,11 @@ v26: So Joseph died, being 110 years old. They embalmed him, and he was put in a
 
 ## Notes
 
-v01–03: Egyptian burial practices frame the narrative, situating Israel within a foreign cultural context.  
+v1–3: Egyptian burial practices frame the narrative, situating Israel within a foreign cultural context.  
 
-v04–06: Joseph operates through mediated authority, respecting Egyptian court protocol.  
+v4–6: Joseph operates through mediated authority, respecting Egyptian court protocol.  
 
-v07–09: The funeral procession is royal in scale, reflecting Joseph’s status.  
+v7–9: The funeral procession is royal in scale, reflecting Joseph’s status.  
 
 v10–11: Mourning is publicly visible and culturally interpreted, even by outsiders.  
 
@@ -125,19 +125,19 @@ v26: The coffin in Egypt marks an unresolved ending—promise awaits fulfillment
 
 ## Vocabulary
 
-v02: חָנַט (ḥānaṭ)  
+v2: חָנַט (ḥānaṭ)  
 
 “To embalm.” Preservation of the body after death.  
 
-v03: בָּכָה (bāḵāh)  
+v3: בָּכָה (bāḵāh)  
 
 “To weep.” Expression of mourning.  
 
-v05: שָׁבַע (šāḇaʿ)  
+v5: שָׁבַע (šāḇaʿ)  
 
 “To swear.” Bind by oath.  
 
-v07: זָקֵן (zāqēn)  
+v7: זָקֵן (zāqēn)  
 
 “Elder.” One of status and authority.  
 
