@@ -123,11 +123,11 @@ v25: And Barnabas and Saul returned from Jerusalem when they had completed their
 
 ## Notes
 
-v01–03: Political violence aligns with popular approval.
+v1–3: Political violence aligns with popular approval.
 
-v05: Corporate prayer contrasts with imprisonment.
+v5: Corporate prayer contrasts with imprisonment.
 
-v07–10: Deliverance occurs through divine intervention without resistance.
+v7–10: Deliverance occurs through divine intervention without resistance.
 
 v11: Recognition follows deliverance.
 
@@ -145,27 +145,27 @@ v25: Mission continues through returning workers.
 
 ## Vocabulary
 
-v01: κακόω (kakoō)
+v1: κακόω (kakoō)
 
 “To harm.”
 
-v02: ἀναιρέω (anaireō)
+v2: ἀναιρέω (anaireō)
 
 “To kill.”
 
-v04: τετράδιον (tetradion)
+v4: τετράδιον (tetradion)
 
 “Squad.”
 
-v05: ἐκτενής (ektenēs)
+v5: ἐκτενής (ektenēs)
 
 “Earnest.”
 
-v07: ἅλυσις (halysis)
+v7: ἅλυσις (halysis)
 
 “Chain.”
 
-v08: ζώννυμι (zōnnymai)
+v8: ζώννυμι (zōnnymai)
 
 “To gird.”
 
