@@ -72,23 +72,23 @@ v25: And the two of them were naked, the human and the woman, and they were not 
 </p>
 
 ## Notes
-v01: Creation is named complete without evaluation or hierarchy.
+v1: Creation is named complete without evaluation or hierarchy.
 
-v02: God’s rest signifies completion, not fatigue; rest belongs to creation’s order.
+v2: God’s rest signifies completion, not fatigue; rest belongs to creation’s order.
 
-v03: Time is made holy before place or people.
+v3: Time is made holy before place or people.
 
-v04: v04: A new telling begins without harmonizing with Genesis 1. This chapter consistently uses the divine name ‘the LORD God’ (YHWH Elohim), marking a shift in address and tone.
+v4: v04: A new telling begins without harmonizing with Genesis 1. This chapter consistently uses the divine name ‘the LORD God’ (YHWH Elohim), marking a shift in address and tone.
 
-v05: Absence is emphasized. Human work is framed as participation, not control.
+v5: Absence is emphasized. Human work is framed as participation, not control.
 
-v06: Provision precedes labor.
+v6: Provision precedes labor.
 
-v07: The human is both fragile (dust) and dignified (breath).
+v7: The human is both fragile (dust) and dignified (breath).
 
-v08: The human is placed in the garden as recipient before caretaker.
+v8: The human is placed in the garden as recipient before caretaker.
 
-v09: Desire and sustenance are named together; the trees stand without moral explanation.
+v9: Desire and sustenance are named together; the trees stand without moral explanation.
 
 v10–14: Abundance flows outward; the garden resists possession.
 
@@ -115,29 +115,29 @@ v24: A theological reflection on mutual attachment, not a command.
 v25: Nakedness without shame depicts trust and peace, not naivety.
 
 ## Vocabulary
-v02: שָׁבַת (shāvat) — rest; cease; bring to completion
+v2: שָׁבַת (shāvat) — rest; cease; bring to completion
 
-v03: קָדַשׁ (qādash) — make holy; set apart
+v3: קָדַשׁ (qādash) — make holy; set apart
 
-v04: תּוֹלְדוֹת (tôledôt) — generations; account; unfolding history
+v4: תּוֹלְדוֹת (tôledôt) — generations; account; unfolding history
 
-v05: אָדָם (’ādām) — human; humankind
+v5: אָדָם (’ādām) — human; humankind
 
-v05: אֲדָמָה (’ădāmāh) — ground; soil
+v5: אֲדָמָה (’ădāmāh) — ground; soil
 
-v07: יָצַר (yāṣar) — form; shape intentionally
+v7: יָצַר (yāṣar) — form; shape intentionally
 
-v07: נְשָׁמָה (neshāmāh) — breath; breath of life
+v7: נְשָׁמָה (neshāmāh) — breath; breath of life
 
-v07: נֶפֶשׁ חַיָּה (nephesh ḥayyāh) — living being
+v7: נֶפֶשׁ חַיָּה (nephesh ḥayyāh) — living being
 
-v08: גַּן (gan) — garden; enclosed place
+v8: גַּן (gan) — garden; enclosed place
 
-v08: עֵדֶן (‘ēden) — delight; pleasure
+v8: עֵדֶן (‘ēden) — delight; pleasure
 
-v09: חַיִּים (ḥayyīm) — life
+v9: חַיִּים (ḥayyīm) — life
 
-v09: דַּעַת (da‘at) — knowledge; discernment
+v9: דַּעַת (da‘at) — knowledge; discernment
 
 v15: עָבַד (‘āvad) — till; serve; work
 
