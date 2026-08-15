@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Teaching About Divorce
 
 <p>
@@ -99,13 +98,13 @@ v30: But many who are first will be last, and the last first.”
 
 ## Notes
 
-v03: Test framed around legal permissibility; Jesus reframes toward creation intent.  
+v3: Test framed around legal permissibility; Jesus reframes toward creation intent.  
 
-v04–06: Genesis citation establishes unity as primary category, not contract.  
+v4–6: Genesis citation establishes unity as primary category, not contract.  
 
-v08: Concession (Moses) distinguished from intention (creation); hardness of heart drives allowance.  
+v8: Concession (Moses) distinguished from intention (creation); hardness of heart drives allowance.  
 
-v09: Exception clause tied to sexual breach of covenant unity.  
+v9: Exception clause tied to sexual breach of covenant unity.  
 
 v11–12: Singleness is vocational, not universal; capacity varies and is “given.”  
 
@@ -131,13 +130,13 @@ v30: Reversal principle destabilizes status assumptions.
 
 ## Vocabulary
 
-v03: πειράζοντες (*peirazontes*) — “Testing.” Attempt to trap or challenge.  
+v3: πειράζοντες (*peirazontes*) — “Testing.” Attempt to trap or challenge.  
 
-v06: συνέζευξεν (*synezeuxen*) — “Joined together.” Bound into unity.  
+v6: συνέζευξεν (*synezeuxen*) — “Joined together.” Bound into unity.  
 
-v08: σκληροκαρδία (*sklērokardia*) — “Hardness of heart.” Resistance to divine will.  
+v8: σκληροκαρδία (*sklērokardia*) — “Hardness of heart.” Resistance to divine will.  
 
-v09: πορνεία (*porneia*) — “Sexual immorality.” Breach of covenant fidelity.  
+v9: πορνεία (*porneia*) — “Sexual immorality.” Breach of covenant fidelity.  
 
 v11: δοθῆναι (*dothēnai*) — “Given.” Granted by divine action.  
 
