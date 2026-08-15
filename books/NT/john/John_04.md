@@ -98,7 +98,7 @@ v54: Now this was the second sign that Jesus did after coming from Judea to Gali
 </p>
 
 ## Notes
-v04: had to pass through Samaria — Signals narrative necessity rather than geography alone; the verb carries theological weight in John.
+v4: had to pass through Samaria — Signals narrative necessity rather than geography alone; the verb carries theological weight in John.
 
 v10: living water — Intentionally ambiguous; can denote flowing water or life-giving water. The double sense is preserved.
 
@@ -123,7 +123,7 @@ v48: signs and wonders — Critique of trust dependent on proof rather than word
 v50: trusted the word — Trust precedes verification; belief is grounded in hearing, not seeing.
 
 ## Vocabulary
-v04: pass through (δεῖ, dei): it is necessary; expresses divine necessity or purpose.
+v4: pass through (δεῖ, dei): it is necessary; expresses divine necessity or purpose.
 
 v10: living (ζῶν, zōn): living, active; used of flowing water and life itself.
 
