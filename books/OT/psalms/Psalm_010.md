@@ -102,31 +102,31 @@ v14: Affirmation interrupts complaint—God does see and take notice.
 v16–18: Final reorientation—God’s kingship ensures justice for the oppressed.
 
 ## Vocabulary
-v01: עָמַד (amad)  
+v1: עָמַד (amad)  
 “To stand.” Remain or be present.
 
-v02: דָּלַק (dalaq)  
+v2: דָּלַק (dalaq)  
 “To pursue.” Chase intensely.
 
-v03: בָּצַע (batsa)  
+v3: בָּצַע (batsa)  
 “Greedy gain.” Unjust profit.
 
-v04: דָּרַשׁ (darash)  
+v4: דָּרַשׁ (darash)  
 “To seek.” Pursue God.
 
-v05: צָלַח (tsalach)  
+v5: צָלַח (tsalach)  
 “To prosper.” Succeed.
 
-v06: מוֹט (mot)  
+v6: מוֹט (mot)  
 “To be moved.” Shaken.
 
-v07: מִרְמָה (mirmah)  
+v7: מִרְמָה (mirmah)  
 “Deceit.” Fraud.
 
-v08: אָרַב (arab)  
+v8: אָרַב (arab)  
 “To lie in wait.” Ambush.
 
-v09: טָרַף (taraph)  
+v9: טָרַף (taraph)  
 “To seize.” Capture.
 
 v11: שָׁכַח (shakach)  
