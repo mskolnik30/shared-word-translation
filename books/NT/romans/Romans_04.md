@@ -92,13 +92,13 @@ v25: who was handed over because of our trespasses and raised for our setting ri
 </p>
 
 ## Notes
-v03: “Abraham trusted God”
+v3: “Abraham trusted God”
 The citation from Genesis emphasizes trust as relational reliance rather than moral achievement. Abraham’s trust responds to God’s promise; it does not generate it.
 
-v05: “the one who sets right the ungodly”
+v5: “the one who sets right the ungodly”
 The phrase is deliberately provocative. God’s action precedes human worthiness, preventing trust from becoming a refined form of works.
 
-v09–10: “before or after he was circumcised”
+v9–10: “before or after he was circumcised”
 Paul’s temporal argument is decisive. Trust is shown to precede covenantal markers, establishing its priority without dismissing Israel’s story.
 
 v11: “a seal of the righteousness of trust”
@@ -126,13 +126,13 @@ v24–25: “for us also”
 The Abraham narrative is extended forward. Justification rests on God’s action in raising Jesus, aligning human trust with Christ’s faithful obedience without collapsing the two.
 
 ## Vocabulary
-v03: πίστις (pistis)
+v3: πίστις (pistis)
 “Trust.” Denotes relational reliance rather than intellectual assent. In Romans 4, trust is portrayed as response to promise, not achievement.
 
-v03: λογίζομαι (logizomai)
+v3: λογίζομαι (logizomai)
 “To count; to regard.” An evaluative term rather than a transactional one. What is “counted” reflects God’s gracious judgment, not a merit calculation.
 
-v05: ἀσεβής (asebēs)
+v5: ἀσεβής (asebēs)
 “Ungodly.” Describes those without standing or claim. The term intensifies the grace of God’s action in setting right those without merit.
 
 v11: σφραγίς (sphragis)
