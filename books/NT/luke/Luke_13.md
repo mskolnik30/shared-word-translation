@@ -141,13 +141,13 @@ v35: Behold, your house is left to you. And I say to you, you will certainly not
 
 ## Notes
 
-v01–05: Jesus rejects causal links between suffering and greater sin, redirecting all toward repentance.
+v1–5: Jesus rejects causal links between suffering and greater sin, redirecting all toward repentance.
 
-v03: Repentance is universalized; no one stands outside the warning.
+v3: Repentance is universalized; no one stands outside the warning.
 
-v06–09: The fig tree parable balances judgment with delayed mercy.
+v6–9: The fig tree parable balances judgment with delayed mercy.
 
-v09: Fruit remains the decisive expectation.
+v9: Fruit remains the decisive expectation.
 
 v11–13: The woman’s condition is both physical and spiritual (“spirit of infirmity”).
 
@@ -175,19 +175,19 @@ v35: Judgment and future recognition are held together.
 
 ## Vocabulary
 
-v03: μετανοέω (metanoeō)
+v3: μετανοέω (metanoeō)
 
 “To repent.”
 
-v05: ἀπόλλυμι (apollymi)
+v5: ἀπόλλυμι (apollymi)
 
 “To perish.”
 
-v06: συκῆ (sykē)
+v6: συκῆ (sykē)
 
 “Fig tree.”
 
-v08: κοπρία (kopria)
+v8: κοπρία (kopria)
 
 “Manure.”
 
