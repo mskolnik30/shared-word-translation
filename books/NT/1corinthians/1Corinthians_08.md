@@ -67,59 +67,59 @@ v13: Therefore, if food causes my brother to stumble, I will never eat meat fore
 
 ## Notes
 
-v01: Knowledge without love leads to pride.
+v1: Knowledge without love leads to pride.
 
-v03: True knowledge is relational—being known by God.
+v3: True knowledge is relational—being known by God.
 
-v04–06: Monotheism reframes idol discussion.
+v4–6: Monotheism reframes idol discussion.
 
-v07: Conscience varies in strength and awareness.
+v7: Conscience varies in strength and awareness.
 
-v08: Food has no intrinsic spiritual value.
+v8: Food has no intrinsic spiritual value.
 
-v09–12: Freedom must be governed by concern for others.
+v9–12: Freedom must be governed by concern for others.
 
 v13: Love limits personal rights to prevent harm.
 
 ## Vocabulary
 
-v01: φυσιοόω (physioō)
+v1: φυσιοόω (physioō)
 
 “To puff up.”
 
-v01: οἰκοδομέω (oikodomeō)
+v1: οἰκοδομέω (oikodomeō)
 
 “To build up.”
 
-v03: γινώσκω (ginōskō)
+v3: γινώσκω (ginōskō)
 
 “To know.”
 
-v04: εἴδωλον (eidōlon)
+v4: εἴδωλον (eidōlon)
 
 “Idol.”
 
-v06: κύριος (kyrios)
+v6: κύριος (kyrios)
 
 “Lord.”
 
-v07: συνείδησις (syneidēsis)
+v7: συνείδησις (syneidēsis)
 
 “Conscience.”
 
-v07: μολύνω (molynō)
+v7: μολύνω (molynō)
 
 “To defile.”
 
-v08: παραστήνω (paristēmi)
+v8: παραστήνω (paristēmi)
 
 “To commend.”
 
-v09: ἐξουσία (exousia)
+v9: ἐξουσία (exousia)
 
 “Right, authority.”
 
-v09: πρόσκομμα (proskomma)
+v9: πρόσκομμα (proskomma)
 
 “Stumbling block.”
 
