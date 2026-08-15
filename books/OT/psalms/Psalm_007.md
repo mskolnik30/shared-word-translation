@@ -100,28 +100,28 @@ v14–16: Evil is self-generating and self-destructive—violence returns to its
 v17: The psalm ends in praise grounded in God’s righteousness, not circumstances.
 
 ## Vocabulary
-v01: חָסָה (chasah)  
+v1: חָסָה (chasah)  
 “To take refuge.” Seek protection.
 
-v02: טָרַף (taraph)  
+v2: טָרַף (taraph)  
 “To tear.” Devour violently.
 
-v03: עָוֹן (‘avon)  
+v3: עָוֹן (‘avon)  
 “Iniquity.” Moral wrong.
 
-v04: גָּמַל (gamal)  
+v4: גָּמַל (gamal)  
 “To repay.” Deal with.
 
-v05: רָדַף (radaph)  
+v5: רָדַף (radaph)  
 “To pursue.” Chase down.
 
-v06: קוּם (qum)  
+v6: קוּם (qum)  
 “To arise.” Take action.
 
-v08: שָׁפַט (shaphat)  
+v8: שָׁפַט (shaphat)  
 “To judge.” Govern justly.
 
-v09: בָּחַן (bachan)  
+v9: בָּחַן (bachan)  
 “To test.” Examine.
 
 v10: יָשָׁר (yashar)  
