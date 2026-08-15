@@ -95,23 +95,23 @@ v25: to the only God our Savior, through Jesus Christ our Lord, be glory, majest
 
 ## Notes
 
-v01: Identity is relational (“servant,” “brother”), not positional.
+v1: Identity is relational (“servant,” “brother”), not positional.
 
-v02: Blessing is cumulative and expansive.
+v2: Blessing is cumulative and expansive.
 
-v03: The shift from intention to necessity frames urgency.
+v3: The shift from intention to necessity frames urgency.
 
-v04: Entry is described as unnoticed, not open.
+v4: Entry is described as unnoticed, not open.
 
-v05: Past acts are recalled without full narrative.
+v5: Past acts are recalled without full narrative.
 
-v06: Judgment is delayed but certain.
+v6: Judgment is delayed but certain.
 
-v07: Example functions as warning without expansion.
+v7: Example functions as warning without expansion.
 
-v08: Behavior is linked to internal sources (“dreams”).
+v8: Behavior is linked to internal sources (“dreams”).
 
-v09: Authority is deferred, not assumed.
+v9: Authority is deferred, not assumed.
 
 v10: Knowledge without understanding leads to destruction.
 
@@ -135,27 +135,27 @@ v24–25: The doxology attributes all agency to God.
 
 ## Vocabulary
 
-v01: δοῦλος (doulos)
+v1: δοῦλος (doulos)
 
 “Servant.” One who belongs to another.
 
-v03: ἐπαγωνίζομαι (epagōnizomai)
+v3: ἐπαγωνίζομαι (epagōnizomai)
 
 “To contend.” To struggle or strive earnestly.
 
-v04: ἀσέβεια (asebeia)
+v4: ἀσέβεια (asebeia)
 
 “Ungodliness.” Lack of reverence.
 
-v06: δεσμός (desmos)
+v6: δεσμός (desmos)
 
 “Chain.” Instrument of restraint.
 
-v07: πυρὸς αἰωνίου (pyros aiōniou)
+v7: πυρὸς αἰωνίου (pyros aiōniou)
 
 “Eternal fire.” Ongoing judgment.
 
-v09: ἐπιτιμάω (epitimaō)
+v9: ἐπιτιμάω (epitimaō)
 
 “To rebuke.” To correct or restrain.
 
