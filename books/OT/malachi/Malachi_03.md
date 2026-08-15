@@ -120,9 +120,9 @@ and one who does not serve him.”
 </p>
 
 ## Notes
-v06: God's unchanging character is the reason Israel continues to exist despite repeated covenant failures.
-v07: The call to return summarizes the covenant relationship: repentance is met with divine restoration.
-v08–09: The people's withholding of tithes is treated not merely as neglect but as robbery against God himself.
+v6: God's unchanging character is the reason Israel continues to exist despite repeated covenant failures.
+v7: The call to return summarizes the covenant relationship: repentance is met with divine restoration.
+v8–9: The people's withholding of tithes is treated not merely as neglect but as robbery against God himself.
 v10: The challenge to “test” God is unique because God himself invites the people to verify his covenant faithfulness.
 v10–12: Material blessing is presented as a covenant sign of restored obedience and divine favor.
 v11: The “devourer” likely refers to agricultural destruction through pests, disease, or blight.
@@ -133,16 +133,16 @@ v17: The faithful are described as God's treasured possession, language previous
 v18: The final outcome will reveal a clear distinction between righteousness and wickedness, even when that distinction seems hidden in the present.
 
 ## Vocabulary
-v06: שָׁנָה (šānâ)
+v6: שָׁנָה (šānâ)
 “To change.” To become different or altered.
 
-v07: שׁוּב (šûḇ)
+v7: שׁוּב (šûḇ)
 “To return.” To turn back in repentance and renewed covenant loyalty.
 
-v08: קָבַע (qāḇaʿ)
+v8: קָבַע (qāḇaʿ)
 “To rob.” To withhold what rightfully belongs to another.
 
-v08: מַעֲשֵׂר (maʿăśēr)
+v8: מַעֲשֵׂר (maʿăśēr)
 “Tithe.” A tenth portion dedicated to God.
 
 v10: אוֹצָר (ʾôṣār)
