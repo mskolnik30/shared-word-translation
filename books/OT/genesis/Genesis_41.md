@@ -111,8 +111,8 @@ v57: And all the earth came to Egypt to Joseph to buy grain, because the famine 
 </p>
 
 ## Notes
-v01–08: Pharaoh's dreams create a crisis that none of Egypt's experts can solve.
-v08: Human wisdom reaches its limit, preparing the way for God's revelation through Joseph.
+v1–8: Pharaoh's dreams create a crisis that none of Egypt's experts can solve.
+v8: Human wisdom reaches its limit, preparing the way for God's revelation through Joseph.
 v14: Joseph's sudden transition from prison to Pharaoh's court marks a dramatic reversal of circumstances.
 v16: Joseph refuses personal credit and attributes interpretation entirely to God.
 v25–32: The repeated dream confirms both the certainty and urgency of God's revelation.
@@ -126,13 +126,13 @@ v53–57: The fulfillment of the dreams confirms the reliability of God's revela
 v57: The famine prepares the way for Joseph's family to come to Egypt, advancing the larger narrative of Genesis.
 
 ## Vocabulary
-v01: יְאֹר (yĕʾōr)
+v1: יְאֹר (yĕʾōr)
 “Nile.” The great river of Egypt and source of its agricultural life.
 
-v08: חַרְטֹם (ḥarṭōm)
+v8: חַרְטֹם (ḥarṭōm)
 “Magician” or “court scholar.” A member of Egypt's learned class.
 
-v08: רוּחַ (rûaḥ)
+v8: רוּחַ (rûaḥ)
 “Spirit.” Here referring to Pharaoh's troubled inner condition.
 
 v16: פָּתַר (pāṯar)
