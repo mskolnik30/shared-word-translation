@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Parable of the Ten Virgins
 
 <p>
@@ -119,9 +118,9 @@ v46: And these will go away into eternal punishment, but the righteous into eter
 
 ## Notes
 
-v01: Eschatological delay reframes readiness as sustained preparedness.  
+v1: Eschatological delay reframes readiness as sustained preparedness.  
 
-v03–04: Oil functions as non-transferable readiness resource.  
+v3–4: Oil functions as non-transferable readiness resource.  
 
 v10: Entry determined by readiness at moment of arrival.  
 
@@ -159,11 +158,11 @@ v46: Binary outcome—eternal punishment vs eternal life.
 
 ## Vocabulary
 
-v01: λαμπάδες (*lampades*) — “Lamps.” Torches used in procession.  
+v1: λαμπάδες (*lampades*) — “Lamps.” Torches used in procession.  
 
-v02: μωραί (*mōrai*) — “Foolish.” Lacking foresight.  
+v2: μωραί (*mōrai*) — “Foolish.” Lacking foresight.  
 
-v02: φρόνιμοι (*phronimoi*) — “Wise.” Practically discerning.  
+v2: φρόνιμοι (*phronimoi*) — “Wise.” Practically discerning.  
 
 v10: ἕτοιμοι (*hetoimoi*) — “Ready.” Prepared in advance.  
 
