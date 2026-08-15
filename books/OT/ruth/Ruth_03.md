@@ -41,11 +41,11 @@ v18: She replied, “Wait, my daughter, until you learn how the matter turns out
 </p>
 
 ## Notes
-v01: Naomi's concern shifts from daily provision to Ruth's long-term security and future.
-v02–04: Naomi's instructions reflect customs connected with kinship redemption and marriage, though the exact details are culturally specific.
-v05: Ruth again demonstrates faithful obedience and trust.
-v09: Ruth's request goes beyond protection. She explicitly asks Boaz to act as redeemer and marry her.
-v09: The imagery of spreading a garment echoes the earlier image of finding refuge under God's wings (2:12).
+v1: Naomi's concern shifts from daily provision to Ruth's long-term security and future.
+v2–4: Naomi's instructions reflect customs connected with kinship redemption and marriage, though the exact details are culturally specific.
+v5: Ruth again demonstrates faithful obedience and trust.
+v9: Ruth's request goes beyond protection. She explicitly asks Boaz to act as redeemer and marry her.
+v9: The imagery of spreading a garment echoes the earlier image of finding refuge under God's wings (2:12).
 v10: Boaz interprets Ruth's request as an act of covenant loyalty rather than personal ambition.
 v11: Ruth's reputation for noble character is publicly recognized within Bethlehem.
 v12–13: Boaz is willing to redeem Ruth but insists on following the proper legal order.
@@ -55,22 +55,22 @@ v15: The gift of barley serves as both provision and a tangible sign of Boaz's p
 v18: Naomi expresses confidence that Boaz will act decisively and honorably.
 
 ## Vocabulary
-v01: מָנוֹחַ (mānôaḥ)
+v1: מָנוֹחַ (mānôaḥ)
 “Rest” or “security.” A settled condition of peace, provision, and belonging.
 
-v02: גֹּרֶן (gōren)
+v2: גֹּרֶן (gōren)
 “Threshing floor.” A place where harvested grain was processed and separated.
 
-v03: סוּךְ (sûḵ)
+v3: סוּךְ (sûḵ)
 “To anoint.” To apply oil as part of preparation, refreshment, or honor.
 
-v07: לָט (lāṭ)
+v7: לָט (lāṭ)
 “Softly” or “secretly.” With careful and quiet movement.
 
-v09: כָּנָף (kānāph)
+v9: כָּנָף (kānāph)
 “Wing,” “edge,” or “corner of a garment.” Used both literally and symbolically for protection.
 
-v09: גֹּאֵל (gōʾēl)
+v9: גֹּאֵל (gōʾēl)
 “Redeemer.” A close relative responsible for preserving family inheritance and welfare.
 
 v10: חֶסֶד (ḥeseḏ)
