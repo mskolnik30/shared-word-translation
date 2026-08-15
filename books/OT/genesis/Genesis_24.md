@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## A Wife for Isaac
 
 <p>
@@ -229,7 +228,7 @@ v67: Then Isaac brought her into the tent of Sarah his mother and took Rebekah, 
 
 ## Notes
 
-v03–04: Marriage is framed as covenant continuity, not merely social arrangement.  
+v3–4: Marriage is framed as covenant continuity, not merely social arrangement.  
 
 v12–14: The servant’s prayer seeks providential alignment, not arbitrary sign.  
 
@@ -247,7 +246,7 @@ v67: Love is named explicitly, rare in Genesis narratives, paired with comfort.
 
 ## Vocabulary
 
-v03: אֶרֶץ (ʾereṣ)  
+v3: אֶרֶץ (ʾereṣ)  
 
 “Land.” Territory with covenant significance.  
 
