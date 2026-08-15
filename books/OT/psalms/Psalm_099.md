@@ -6,37 +6,37 @@ translation: TSW
 ---
 
 ## A Psalm of the LORD’s Reign
-v01 The LORD reigns; let the peoples tremble.
+v01: The LORD reigns; let the peoples tremble.
   He sits enthroned upon the cherubim; let the earth quake.
 
-v02 The LORD is great in Zion;
+v02: The LORD is great in Zion;
   he is exalted over all the peoples.
 
-v03 Let them praise your great and awesome name.
+v03: Let them praise your great and awesome name.
   Holy is he.
 
-v04 The strength of the king loves justice.
+v04: The strength of the king loves justice.
   You have established equity;
   you have executed justice and righteousness in Jacob.
 
-v05 Exalt the LORD our God;
+v05: Exalt the LORD our God;
   bow down at his footstool.
   Holy is he.
 
-v06 Moses and Aaron were among his priests,
+v06: Moses and Aaron were among his priests,
   Samuel also was among those who called on his name.
   They cried to the LORD,
   and he answered them.
 
-v07 In the pillar of cloud he spoke to them;
+v07: In the pillar of cloud he spoke to them;
   they kept his testimonies,
   and the statute that he gave them.
 
-v08 O LORD our God, you answered them;
+v08: O LORD our God, you answered them;
   you were a forgiving God to them,
   yet an avenger of their deeds.
 
-v09 Exalt the LORD our God,
+v09: Exalt the LORD our God,
   and bow down at his holy mountain;
   for the LORD our God is holy.
 
