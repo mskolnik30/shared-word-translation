@@ -342,7 +342,6 @@ v66: You will pursue them in anger and destroy them
 </p>
 
 
-
 ## Notes
 v01–03: “affliction… darkness… again and again” — The lament is relentless and personal; suffering is narrated as sustained divine pressure, not a single bad day.
 
