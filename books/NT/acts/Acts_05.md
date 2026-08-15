@@ -200,9 +200,9 @@ v42: And every day, in the temple and from house to house, they were not ceasing
 
 ## Notes
 
-v03–04: Deception is framed as lying to the Spirit and to God.
+v3–4: Deception is framed as lying to the Spirit and to God.
 
-v05–11: Immediate judgment establishes seriousness of community integrity.
+v5–11: Immediate judgment establishes seriousness of community integrity.
 
 v11: “Church” appears as defined community under divine authority.
 
@@ -224,19 +224,19 @@ v41–42: Suffering is reinterpreted as honor; proclamation continues without in
 
 ## Vocabulary
 
-v02: νοσφίζομαι (nosphizomai)
+v2: νοσφίζομαι (nosphizomai)
 
 “To keep back.”
 
-v03: ψεύδομαι (pseudomai)
+v3: ψεύδομαι (pseudomai)
 
 “To lie.”
 
-v04: ἐξουσία (exousia)
+v4: ἐξουσία (exousia)
 
 “Authority.”
 
-v05: ἐκψύχω (ekpsycho)
+v5: ἐκψύχω (ekpsycho)
 
 “To breathe one’s last.”
 
