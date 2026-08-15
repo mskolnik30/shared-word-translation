@@ -155,11 +155,11 @@ v38: being distressed especially because of the word he had spoken, that they wo
 
 ## Notes
 
-v01–03: Travel is shaped by both encouragement and opposition.
+v1–3: Travel is shaped by both encouragement and opposition.
 
-v07: Gathering on the first day reflects emerging pattern.
+v7: Gathering on the first day reflects emerging pattern.
 
-v09–12: Restoration of life affirms authority and encourages community.
+v9–12: Restoration of life affirms authority and encourages community.
 
 v16: Urgency is governed by mission priorities.
 
@@ -183,19 +183,19 @@ v36–38: Emotional farewell reflects deep relational bonds.
 
 ## Vocabulary
 
-v01: παρακαλέω (parakaleō)
+v1: παρακαλέω (parakaleō)
 
 “To encourage.”
 
-v03: ἐπιβουλή (epiboulē)
+v3: ἐπιβουλή (epiboulē)
 
 “Plot.”
 
-v07: κλάω (klaō)
+v7: κλάω (klaō)
 
 “To break (bread).”
 
-v09: κατενέγκω (katenenkō)
+v9: κατενέγκω (katenenkō)
 
 “To bring down.”
 
