@@ -81,15 +81,15 @@ v25: The grace of the Lord Jesus Christ be with your spirit.
 
 ## Notes
 
-v01–03: Greeting expands beyond individual to household and church.
+v1–3: Greeting expands beyond individual to household and church.
 
-v01: Identity is framed through relationship and condition.
+v1: Identity is framed through relationship and condition.
 
-v04–07: Thanksgiving emphasizes observed conduct.
+v4–7: Thanksgiving emphasizes observed conduct.
 
-v06: Effectiveness of faith is tied to recognition.
+v6: Effectiveness of faith is tied to recognition.
 
-v08–09: Authority is present but not exercised directly.
+v8–9: Authority is present but not exercised directly.
 
 v10–11: Relationship reframes prior status.
 
@@ -113,23 +113,23 @@ v23–25: Closing maintains relational network.
 
 ## Vocabulary
 
-v01: δέσμιος (desmios)
+v1: δέσμιος (desmios)
 
 “Prisoner.” One in bonds.
 
-v01: συνεργός (synergos)
+v1: συνεργός (synergos)
 
 “Fellow worker.” One who labors together.
 
-v02: στρατιώτης (stratiōtēs)
+v2: στρατιώτης (stratiōtēs)
 
 “Soldier.” One engaged in service.
 
-v05: ἀγάπη (agapē)
+v5: ἀγάπη (agapē)
 
 “Love.” Relational commitment.
 
-v06: κοινωνία (koinōnia)
+v6: κοινωνία (koinōnia)
 
 “Sharing.” Participation.
 
