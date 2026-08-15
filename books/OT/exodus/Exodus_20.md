@@ -61,15 +61,15 @@ v20: And Moses said to the people, “Do not be afraid, for God has come to test
 
 ## Notes
 
-v01–02: Command is grounded in deliverance. Identity precedes obligation.
+v1–2: Command is grounded in deliverance. Identity precedes obligation.
 
-v03: Exclusive allegiance is primary—no rival loyalties in the presence of the LORD.
+v3: Exclusive allegiance is primary—no rival loyalties in the presence of the LORD.
 
-v04: The prohibition of images resists reduction of the divine to created form.
+v4: The prohibition of images resists reduction of the divine to created form.
 
-v07: Misuse of the name is framed as emptiness—invoking God without weight or truth.
+v7: Misuse of the name is framed as emptiness—invoking God without weight or truth.
 
-v08–09: Sabbath remembrance orders time; holiness is embedded in rhythm.
+v8–9: Sabbath remembrance orders time; holiness is embedded in rhythm.
 
 v12: Honor extends covenantal structure into the household, linking family and land.
 
@@ -83,35 +83,35 @@ v20: Fear is reframed—not terror, but sustaining reverence that restrains sin.
 
 ## Vocabulary
 
-v02: יָצָא (yāṣāʾ)  
+v2: יָצָא (yāṣāʾ)  
 
 “To bring out.” To lead forth from constraint.
 
-v02: עֲבָדִים (ʿăḇādîm)  
+v2: עֲבָדִים (ʿăḇādîm)  
 
 “Slavery/servitude.” Condition of forced service.
 
-v03: אֱלֹהִים (ʾĕlōhîm)  
+v3: אֱלֹהִים (ʾĕlōhîm)  
 
 “God/gods.” Here, other divine powers.
 
-v04: פֶּסֶל (pesel)  
+v4: פֶּסֶל (pesel)  
 
 “Carved image.” Idol formed by human hands.
 
-v07: נָשָׂא (nāśāʾ)  
+v7: נָשָׂא (nāśāʾ)  
 
 “To lift up.” To carry or invoke.
 
-v07: שָׁוְא (šāwʾ)  
+v7: שָׁוְא (šāwʾ)  
 
 “Emptiness/vanity.” Worthlessness or falsehood.
 
-v08: זָכַר (zāḵar)  
+v8: זָכַר (zāḵar)  
 
 “To remember.” To actively keep in mind.
 
-v08: קָדַשׁ (qāḏaš)  
+v8: קָדַשׁ (qāḏaš)  
 
 “To make holy.” To set apart.
 
