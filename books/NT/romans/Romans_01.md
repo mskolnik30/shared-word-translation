@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Greeting
 
 <p>
@@ -137,9 +136,9 @@ v32: Though they know the righteous decree of God, that those practicing such th
 
 ## Notes
 
-v01–04: Gospel centers on Jesus’ Davidic lineage and resurrection vindication.
+v1–4: Gospel centers on Jesus’ Davidic lineage and resurrection vindication.
 
-v05: Apostleship aims at obedience of faith among nations.
+v5: Apostleship aims at obedience of faith among nations.
 
 v11–12: Mutual strengthening defines community.
 
@@ -157,19 +156,19 @@ v32: Approval of sin compounds guilt.
 
 ## Vocabulary
 
-v01: ἀφορίζω (aphorizō)
+v1: ἀφορίζω (aphorizō)
 
 “To set apart.”
 
-v03: σπέρμα (sperma)
+v3: σπέρμα (sperma)
 
 “Seed.”
 
-v04: ὁρίζω (horizō)
+v4: ὁρίζω (horizō)
 
 “To appoint.”
 
-v05: ὑπακοή (hypakoē)
+v5: ὑπακοή (hypakoē)
 
 “Obedience.”
 
