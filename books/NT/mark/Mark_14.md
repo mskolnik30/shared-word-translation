@@ -239,11 +239,11 @@ v72: And immediately the rooster crowed a second time. And Peter remembered the 
 
 ## Notes
 
-v01–02: The leaders seek death by stealth, showing both hostility and fear of the people.
+v1–2: The leaders seek death by stealth, showing both hostility and fear of the people.
 
-v03: The woman’s act is extravagant and embodied; the broken jar makes the gift irreversible.
+v3: The woman’s act is extravagant and embodied; the broken jar makes the gift irreversible.
 
-v06–09: Jesus interprets her action in relation to burial and memory, not efficiency.
+v6–9: Jesus interprets her action in relation to burial and memory, not efficiency.
 
 v10–11: Judas’ betrayal is narrated economically; motive is left relatively restrained.
 
@@ -273,23 +273,23 @@ v72: Peter’s grief fulfills Jesus’ word and leaves repentance unresolved wit
 
 ## Vocabulary
 
-v01: δόλος (dolos)
+v1: δόλος (dolos)
 
 “Stealth, deceit.” Hidden strategy marked by manipulation.
 
-v03: μύρον (myron)
+v3: μύρον (myron)
 
 “Ointment.” Fragrant oil used for honor, devotion, and burial.
 
-v03: νάρδος (nardos)
+v3: νάρδος (nardos)
 
 “Nard.” Costly aromatic perfume.
 
-v06: καλὸν ἔργον (kalon ergon)
+v6: καλὸν ἔργον (kalon ergon)
 
 “Beautiful work.” An act good in form, meaning, and devotion.
 
-v08: ἐνταφιασμός (entaphiasmos)
+v8: ἐνταφιασμός (entaphiasmos)
 
 “Burial preparation.” Anointing associated with death and burial.
 
