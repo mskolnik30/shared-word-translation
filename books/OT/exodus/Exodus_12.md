@@ -111,13 +111,13 @@ v51: And on that very day the LORD brought the Israelites out of the land of Egy
 </p>
 
 ## Notes
-v02: “the beginning of months” — Liberation resets time itself; God’s deliverance becomes Israel’s calendar and identity marker.
+v2: “the beginning of months” — Liberation resets time itself; God’s deliverance becomes Israel’s calendar and identity marker.
 
-v03–04: “each household… nearest neighbor” — The meal is communal and scalable; provision is shared so no household is left without participation.
+v3–4: “each household… nearest neighbor” — The meal is communal and scalable; provision is shared so no household is left without participation.
 
-v05: “without blemish” — The offering is set apart as whole; the ritual teaches reverence, not magical protection.
+v5: “without blemish” — The offering is set apart as whole; the ritual teaches reverence, not magical protection.
 
-v07: “blood… on the doorposts” — The sign is public and located at the threshold: deliverance is marked at the boundary between death and life.
+v7: “blood… on the doorposts” — The sign is public and located at the threshold: deliverance is marked at the boundary between death and life.
 
 v11: “eat it in haste” — Redemption is not leisurely; the posture is readiness, as people prepared to move when God opens the way.
 
@@ -148,23 +148,23 @@ v46: “you shall not break any of its bones” — The Passover becomes a marke
 v49: “one instruction” — Covenant life is not two-tiered; the same instruction governs belonging for both native and resident alien within the community.
 
 ## Vocabulary
-v02: חֹדֶשׁ (ḥodesh) — month; new moon
+v2: חֹדֶשׁ (ḥodesh) — month; new moon
 
-v03: עֵדָה (ʿedah) — congregation; assembly
+v3: עֵדָה (ʿedah) — congregation; assembly
 
-v03: שֶׂה (seh) — lamb; small livestock (sheep/goat)
+v3: שֶׂה (seh) — lamb; small livestock (sheep/goat)
 
-v06: שָׁחַט (shaḥat) — to slaughter
+v6: שָׁחַט (shaḥat) — to slaughter
 
-v07: דָּם (dam) — blood
+v7: דָּם (dam) — blood
 
-v07: מְזוּזָה (mezuzah) — doorpost
+v7: מְזוּזָה (mezuzah) — doorpost
 
-v07: מַשְׁקוֹף (mashqof) — lintel; doorframe top
+v7: מַשְׁקוֹף (mashqof) — lintel; doorframe top
 
-v08: מַצָּה (matzah) — unleavened bread
+v8: מַצָּה (matzah) — unleavened bread
 
-v08: מְרֹרִים (merorim) — bitter herbs
+v8: מְרֹרִים (merorim) — bitter herbs
 
 v11: פֶּסַח (pesach) — Passover
 
