@@ -154,9 +154,9 @@ v37: And a report about him was going out into every place of the surrounding re
 
 ## Notes
 
-v01–02: The Spirit leads Jesus into testing, not away from it.
+v1–2: The Spirit leads Jesus into testing, not away from it.
 
-v03–12: Each test concerns identity and trust rather than mere power.
+v3–12: Each test concerns identity and trust rather than mere power.
 
 v13: The devil’s departure “until an opportune time” anticipates future conflict.
 
@@ -174,7 +174,7 @@ v34: Demonic recognition contrasts with human misunderstanding.
 
 ## Vocabulary
 
-v02: πειράζω (peirazō)
+v2: πειράζω (peirazō)
 
 “To test, tempt.” To probe fidelity or identity.
 
