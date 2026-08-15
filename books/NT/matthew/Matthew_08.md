@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## A Leper Cleansed
 
 <p>
@@ -121,13 +120,13 @@ v34: And behold, all the city came out to meet Jesus, and when they saw him, the
 
 ## Notes
 
-v02: The leper’s approach collapses social and ritual distance. His conditional “if you will” frames healing as dependent on Jesus’ volition, not his power.  
+v2: The leper’s approach collapses social and ritual distance. His conditional “if you will” frames healing as dependent on Jesus’ volition, not his power.  
 
-v03: “I will; be made clean” pairs intention and act without mediation. Touch precedes cleansing, reversing expected purity flow.  
+v3: “I will; be made clean” pairs intention and act without mediation. Touch precedes cleansing, reversing expected purity flow.  
 
-v04: Silence is commanded alongside obedience to the Law. The offering is not rejected but reintegrated.  
+v4: Silence is commanded alongside obedience to the Law. The offering is not rejected but reintegrated.  
 
-v08: “I am not worthy” reframes status. Authority is understood analogically—command at a distance is sufficient.  
+v8: “I am not worthy” reframes status. Authority is understood analogically—command at a distance is sufficient.  
 
 v10: Amazement is directed toward a Gentile. Faith is measured by recognition of authority.  
 
@@ -151,11 +150,11 @@ v34: The response of the city is rejection. Power does not compel welcome.
 
 ## Vocabulary
 
-v02: λεπρός (*lepros*) — “Leper.” A condition of exclusion as much as disease.  
+v2: λεπρός (*lepros*) — “Leper.” A condition of exclusion as much as disease.  
 
-v03: καθαρίζω (*katharizō*) — “To cleanse.” Ritual and physical senses overlap.  
+v3: καθαρίζω (*katharizō*) — “To cleanse.” Ritual and physical senses overlap.  
 
-v08: ἐξουσία (*exousia*) — “Authority.” The right or power to command.  
+v8: ἐξουσία (*exousia*) — “Authority.” The right or power to command.  
 
 v10: πίστις (*pistis*) — “Faith.” Trust expressed through recognition of authority.  
 
