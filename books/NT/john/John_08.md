@@ -259,9 +259,9 @@ v59: Therefore they picked up stones to throw at him, but Jesus hid himself and 
 
 ## Notes
 
-v06–08: Jesus’ writing shifts focus from accusation to self-examination.
+v6–8: Jesus’ writing shifts focus from accusation to self-examination.
 
-v07: Judgment is redirected to personal sinfulness.
+v7: Judgment is redirected to personal sinfulness.
 
 v11: Mercy does not negate the call to holiness.
 
@@ -291,15 +291,15 @@ v59: Reaction confirms perceived blasphemy.
 
 ## Vocabulary
 
-v03: μοιχεία (moicheia)
+v3: μοιχεία (moicheia)
 
 “Adultery.”
 
-v06: κατηγορέω (katēgoreō)
+v6: κατηγορέω (katēgoreō)
 
 “To accuse.”
 
-v07: ἀναμάρτητος (anamartētos)
+v7: ἀναμάρτητος (anamartētos)
 
 “Without sin.”
 
