@@ -58,21 +58,21 @@ v17: So whoever knows the right thing to do and fails to do it, for him it is si
 
 ## Notes
 
-v01: Conflict is traced to internal desire, not external cause.
+v1: Conflict is traced to internal desire, not external cause.
 
-v02–03: Lack is linked to both action and intention.
+v2–3: Lack is linked to both action and intention.
 
-v04: Worldliness is framed relationally, not structurally.
+v4: Worldliness is framed relationally, not structurally.
 
-v05: The citation is introduced without clear source.
+v5: The citation is introduced without clear source.
 
-v06: Grace is set in opposition to pride.
+v6: Grace is set in opposition to pride.
 
-v07–08: Movement toward God is reciprocal.
+v7–8: Movement toward God is reciprocal.
 
-v08: External and internal cleansing are paired.
+v8: External and internal cleansing are paired.
 
-v09: Emotional reversal is commanded, not explained.
+v9: Emotional reversal is commanded, not explained.
 
 v10: Exaltation follows humility without specified timing.
 
@@ -90,35 +90,35 @@ v17: Knowledge increases responsibility.
 
 ## Vocabulary
 
-v01: ἡδονή (hēdonē)
+v1: ἡδονή (hēdonē)
 
 “Passion.” Desire or pleasure.
 
-v02: φονεύω (phoneuō)
+v2: φονεύω (phoneuō)
 
 “To murder.” To take life.
 
-v04: φιλία (philia)
+v4: φιλία (philia)
 
 “Friendship.” Close association.
 
-v04: ἔχθρα (echthra)
+v4: ἔχθρα (echthra)
 
 “Enmity.” Hostility.
 
-v06: ταπεινός (tapeinos)
+v6: ταπεινός (tapeinos)
 
 “Humble.” Lowly in status or attitude.
 
-v07: ὑποτάσσω (hypotassō)
+v7: ὑποτάσσω (hypotassō)
 
 “To submit.” To place under authority.
 
-v08: καθαρίζω (katharizō)
+v8: καθαρίζω (katharizō)
 
 “To cleanse.” To make clean.
 
-v08: δίψυχος (dipsychos)
+v8: δίψυχος (dipsychos)
 
 “Double-minded.” Divided in allegiance.
 
