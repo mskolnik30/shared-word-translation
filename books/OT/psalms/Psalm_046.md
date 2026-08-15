@@ -7,43 +7,43 @@ translation: TSW
 
 ## God Is Our Refuge
 
-v01 God is our refuge and strength,  
+v01: God is our refuge and strength,  
   a help in troubles, very near at hand.  
 
-v02 Therefore we will not fear though the earth gives way,  
+v02: Therefore we will not fear though the earth gives way,  
   though the mountains topple into the heart of the seas;  
 
-v03 though its waters roar and foam,  
+v03: though its waters roar and foam,  
   though the mountains tremble at its surging. *Selah*  
 
 ## A River for the City of God
 
-v04 There is a river whose streams gladden the city of God,  
+v04: There is a river whose streams gladden the city of God,  
   the holy dwelling of the Most High.  
 
-v05 God is in her midst; she will not be shaken;  
+v05: God is in her midst; she will not be shaken;  
   God will help her at the break of morning.  
 
-v06 The nations were in uproar, the kingdoms tottered;  
+v06: The nations were in uproar, the kingdoms tottered;  
   he lifted his voice—the earth melts.  
 
-v07 The LORD of hosts is with us;  
+v07: The LORD of hosts is with us;  
   the God of Jacob is our stronghold. *Selah*  
 
 ## Come and See
 
-v08 Come, behold the works of the LORD,  
+v08: Come, behold the works of the LORD,  
   who has set desolations on the earth—  
 
-v09 making wars cease to the end of the earth,  
+v09: making wars cease to the end of the earth,  
   breaking the bow and shattering the spear,  
   burning the chariots with fire.  
 
-v10 “Be still, and know that I am God;  
+v10: “Be still, and know that I am God;  
   I will be exalted among the nations,  
   I will be exalted in the earth.”  
 
-v11 The LORD of hosts is with us;  
+v11: The LORD of hosts is with us;  
   the God of Jacob is our stronghold. *Selah*  
 
 
