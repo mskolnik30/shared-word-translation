@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## God’s Righteous Judgment
 
 <p>
@@ -129,13 +128,13 @@ v29: but he is a Jew who is one inwardly, and circumcision is of the heart, in s
 
 ## Notes
 
-v01–03: Judgment exposes shared guilt rather than superiority.
+v1–3: Judgment exposes shared guilt rather than superiority.
 
-v04: Divine kindness aims at repentance, not presumption.
+v4: Divine kindness aims at repentance, not presumption.
 
-v05–06: Judgment is stored and rendered according to works.
+v5–6: Judgment is stored and rendered according to works.
 
-v07–10: Universal principle applies to Jew and Greek alike.
+v7–10: Universal principle applies to Jew and Greek alike.
 
 v11: God’s judgment is impartial.
 
@@ -149,35 +148,35 @@ v28–29: True identity is inward and spiritual, not merely external.
 
 ## Vocabulary
 
-v01: ἀναπολόγητος (anapologētos)
+v1: ἀναπολόγητος (anapologētos)
 
 “Without excuse.”
 
-v02: κρίμα (krima)
+v2: κρίμα (krima)
 
 “Judgment.”
 
-v04: χρηστότης (chrēstotēs)
+v4: χρηστότης (chrēstotēs)
 
 “Kindness.”
 
-v05: σκληρότης (sklērotēs)
+v5: σκληρότης (sklērotēs)
 
 “Hardness.”
 
-v06: ἀποδίδωμι (apodidōmi)
+v6: ἀποδίδωμι (apodidōmi)
 
 “To repay.”
 
-v07: ἀφθαρσία (aphtharsia)
+v7: ἀφθαρσία (aphtharsia)
 
 “Incorruption.”
 
-v08: ἐριθεία (eritheia)
+v8: ἐριθεία (eritheia)
 
 “Self-seeking.”
 
-v09: θλῖψις (thlipsis)
+v9: θλῖψις (thlipsis)
 
 “Tribulation.”
 
