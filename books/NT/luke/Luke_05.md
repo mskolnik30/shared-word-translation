@@ -143,11 +143,11 @@ v39: And no one drinking old wine desires new, for he says, ‘The old is good.�
 
 ## Notes
 
-v01: Luke identifies Jesus’ teaching as “the word of God,” giving his speech prophetic and divine weight from the outset of the scene.
+v1: Luke identifies Jesus’ teaching as “the word of God,” giving his speech prophetic and divine weight from the outset of the scene.
 
-v04–05: Simon’s obedience follows failed labor. The catch is not a reward for skill but a response to Jesus’ word.
+v4–5: Simon’s obedience follows failed labor. The catch is not a reward for skill but a response to Jesus’ word.
 
-v08: Peter’s confession of sin arises before Jesus’ holiness and abundance; miracle produces humility rather than self-confidence.
+v8: Peter’s confession of sin arises before Jesus’ holiness and abundance; miracle produces humility rather than self-confidence.
 
 v10: “Catching people” redirects Simon’s vocation without severing it from his former life.
 
@@ -185,27 +185,27 @@ v39: The final saying preserves resistance to the new; preference for the old is
 
 ## Vocabulary
 
-v01: λόγος τοῦ θεοῦ (logos tou theou)
+v1: λόγος τοῦ θεοῦ (logos tou theou)
 
 “Word of God.” Divine message or authoritative proclamation.
 
-v04: βάθος (bathos)
+v4: βάθος (bathos)
 
 “Deep.” Literally deep water; symbolically, a place beyond ordinary control.
 
-v05: ἐπιστάτης (epistatēs)
+v5: ἐπιστάτης (epistatēs)
 
 “Master.” Luke’s term of address for Jesus, emphasizing authority.
 
-v05: ῥῆμα (rhēma)
+v5: ῥῆμα (rhēma)
 
 “Word, spoken command.” Simon acts on Jesus’ spoken word.
 
-v06: πλῆθος (plēthos)
+v6: πλῆθος (plēthos)
 
 “Multitude.” A large number, here emphasizing abundance.
 
-v08: ἁμαρτωλός (hamartōlos)
+v8: ἁμαρτωλός (hamartōlos)
 
 “Sinner.” One marked by sinfulness or unworthiness before God.
 
