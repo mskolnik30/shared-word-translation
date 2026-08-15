@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Who Is the Greatest?
 
 <p>
@@ -107,15 +106,15 @@ v35: So also my heavenly Father will do to every one of you, if you do not forgi
 
 ## Notes
 
-v03: “Turn” indicates reorientation, not imitation alone; entry requires transformation.  
+v3: “Turn” indicates reorientation, not imitation alone; entry requires transformation.  
 
-v04: Greatness defined by voluntary lowering, not achieved status.  
+v4: Greatness defined by voluntary lowering, not achieved status.  
 
-v06: Causing “little ones” to stumble carries severe consequence; relational harm is weighty.  
+v6: Causing “little ones” to stumble carries severe consequence; relational harm is weighty.  
 
-v07: Necessity of stumbling blocks does not remove responsibility for causing them.  
+v7: Necessity of stumbling blocks does not remove responsibility for causing them.  
 
-v08–09: Radical imagery underscores seriousness of sin; priority is life over wholeness.  
+v8–9: Radical imagery underscores seriousness of sin; priority is life over wholeness.  
 
 v10: “Their angels” implies divine attention and advocacy, not hierarchy.  
 
@@ -141,17 +140,17 @@ v35: Forgiveness must be internal (“from your heart”), not procedural.
 
 ## Vocabulary
 
-v03: στραφῆτε (*straphēte*) — “Turn.” Change direction or orientation.  
+v3: στραφῆτε (*straphēte*) — “Turn.” Change direction or orientation.  
 
-v04: ταπεινόω (*tapeinoō*) — “Humble.” Lower oneself intentionally.  
+v4: ταπεινόω (*tapeinoō*) — “Humble.” Lower oneself intentionally.  
 
-v06: σκανδαλίζω (*skandalizō*) — “Cause to stumble.” Lead into failure or sin.  
+v6: σκανδαλίζω (*skandalizō*) — “Cause to stumble.” Lead into failure or sin.  
 
-v07: σκάνδαλα (*skandala*) — “Stumbling blocks.” Sources of offense or sin.  
+v7: σκάνδαλα (*skandala*) — “Stumbling blocks.” Sources of offense or sin.  
 
-v08: ζωὴ (*zōē*) — “Life.” True or enduring life, not mere existence.  
+v8: ζωὴ (*zōē*) — “Life.” True or enduring life, not mere existence.  
 
-v09: γέεννα (*geenna*) — “Gehenna.” Image of judgment/fire.  
+v9: γέεννα (*geenna*) — “Gehenna.” Image of judgment/fire.  
 
 v10: ἄγγελοι (*angeloi*) — “Angels.” Messengers or representatives.  
 
