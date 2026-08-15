@@ -69,21 +69,21 @@ v22: The one who has an ear, let him hear what the Spirit says to the churches.
 
 ## Notes
 
-v01: “Seven spirits” is retained without clarification, maintaining symbolic density rather than resolving reference.
+v1: “Seven spirits” is retained without clarification, maintaining symbolic density rather than resolving reference.
 
-v01–02: Reputation and reality are set in tension; life is named where death is present.
+v1–2: Reputation and reality are set in tension; life is named where death is present.
 
-v03: Memory and repentance are linked; failure to remain watchful introduces sudden judgment imagery.
+v3: Memory and repentance are linked; failure to remain watchful introduces sudden judgment imagery.
 
-v04–05: Garments function symbolically; purity is described relationally rather than ritually.
+v4–5: Garments function symbolically; purity is described relationally rather than ritually.
 
-v05: “Book of life” is invoked without explanation, functioning as assurance and warning.
+v5: “Book of life” is invoked without explanation, functioning as assurance and warning.
 
-v07: Authority is expressed through opening and shutting; access is controlled, not negotiated.
+v7: Authority is expressed through opening and shutting; access is controlled, not negotiated.
 
-v08: “Open door” is presented as given, not achieved.
+v8: “Open door” is presented as given, not achieved.
 
-v09: Conflict language remains unresolved; identity claims are exposed rather than adjudicated.
+v9: Conflict language remains unresolved; identity claims are exposed rather than adjudicated.
 
 v10: Preservation is framed in relation to trial, not escape from it.
 
@@ -109,19 +109,19 @@ v22: The refrain extends each message beyond its immediate setting.
 
 ## Vocabulary
 
-v03: γρηγορέω (grēgoreō)
+v3: γρηγορέω (grēgoreō)
 
 “To keep watch.” Implies alertness and readiness, not mere awareness.
 
-v05: βίβλος τῆς ζωῆς (biblos tēs zōēs)
+v5: βίβλος τῆς ζωῆς (biblos tēs zōēs)
 
 “Book of life.” A register of belonging, left conceptually open.
 
-v07: κλείς (kleis)
+v7: κλείς (kleis)
 
 “Key.” Symbol of authority over access and exclusion.
 
-v08: θύρα (thyra)
+v8: θύρα (thyra)
 
 “Door.” Represents opportunity or access given rather than taken.
 
