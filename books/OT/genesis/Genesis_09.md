@@ -85,22 +85,22 @@ v25–27: The curse falls upon Canaan rather than Ham. The passage anticipates l
 v28–29: Noah’s death closes the flood narrative and returns the genealogy to the recurring pattern of mortality.
 
 ## Vocabulary
-v01: בָּרַךְ (bāraḵ)
+v1: בָּרַךְ (bāraḵ)
 “To bless.” The granting of life, fruitfulness, and divine favor.
 
-v02: מוֹרָא (môrāʾ)
+v2: מוֹרָא (môrāʾ)
 “Fear” or “dread.” A term describing the awe and apprehension animals will have toward humanity.
 
-v04: דָּם (dām)
+v4: דָּם (dām)
 “Blood.” The visible expression of life and therefore treated with special significance.
 
-v05: דָּרַשׁ (dāraš)
+v5: דָּרַשׁ (dāraš)
 “To require” or “seek an accounting.” Used here in the sense of answering for a life taken.
 
-v06: צֶלֶם (ṣelem)
+v6: צֶלֶם (ṣelem)
 “Image.” Humanity’s unique status as bearing the image of God grounds the protection of human life.
 
-v09: בְּרִית (bĕrît)
+v9: בְּרִית (bĕrît)
 “Covenant.” A binding relationship established by divine commitment.
 
 v13: קֶשֶׁת (qešet)
