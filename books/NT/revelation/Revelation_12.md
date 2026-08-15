@@ -65,21 +65,21 @@ v17: Then the dragon became enraged with the woman and went off to make war on t
 
 ## Notes
 
-v01: The “sign” signals symbolic vision rather than literal description.
+v1: The “sign” signals symbolic vision rather than literal description.
 
-v01–02: The woman is depicted with cosmic imagery, not identified.
+v1–2: The woman is depicted with cosmic imagery, not identified.
 
-v03: The dragon’s features accumulate without explanation.
+v3: The dragon’s features accumulate without explanation.
 
-v04: The sweeping of stars is described without clarification of meaning.
+v4: The sweeping of stars is described without clarification of meaning.
 
-v05: The child’s role is stated through scriptural language without naming identity.
+v5: The child’s role is stated through scriptural language without naming identity.
 
-v06: The wilderness functions as both refuge and testing space.
+v6: The wilderness functions as both refuge and testing space.
 
-v07–09: Conflict is narrated without strategic detail; outcome is decisive.
+v7–9: Conflict is narrated without strategic detail; outcome is decisive.
 
-v09: Multiple names are given without harmonization, expanding identification.
+v9: Multiple names are given without harmonization, expanding identification.
 
 v10–11: Victory is attributed to both divine action and human witness.
 
@@ -95,31 +95,31 @@ v17: The focus shifts from the woman to her offspring without transition.
 
 ## Vocabulary
 
-v01: σημεῖον (sēmeion)
+v1: σημεῖον (sēmeion)
 
 “Sign.” Indicator pointing beyond itself.
 
-v03: δράκων (drakōn)
+v3: δράκων (drakōn)
 
 “Dragon.” A symbolic adversary, not defined by species.
 
-v04: σύρω (syro)
+v4: σύρω (syro)
 
 “To sweep” or “drag.” Forceful movement.
 
-v05: ποιμαίνω (poimainō)
+v5: ποιμαίνω (poimainō)
 
 “To rule” or “shepherd.” Authority expressed as guidance or control.
 
-v06: ἔρημος (erēmos)
+v6: ἔρημος (erēmos)
 
 “Wilderness.” Place of isolation and provision.
 
-v07: πόλεμος (polemos)
+v7: πόλεμος (polemos)
 
 “War.” Conflict without specified form.
 
-v09: διάβολος (diabolos)
+v9: διάβολος (diabolos)
 
 “Slanderer” or “devil.” One who accuses or opposes.
 
