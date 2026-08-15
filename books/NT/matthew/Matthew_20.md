@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Laborers in the Vineyard
 
 <p>
@@ -101,9 +100,9 @@ v34: And Jesus, moved with compassion, touched their eyes, and immediately they 
 
 ## Notes
 
-v01–07: Hiring pattern disrupts expectation; inclusion extends beyond early privilege.  
+v1–7: Hiring pattern disrupts expectation; inclusion extends beyond early privilege.  
 
-v08–12: Payment order reveals perception of fairness tied to comparison, not agreement.  
+v8–12: Payment order reveals perception of fairness tied to comparison, not agreement.  
 
 v15: “Evil eye” reflects resentment toward generosity, not injustice.  
 
@@ -125,9 +124,9 @@ v34: Compassion leads to touch; healing results in following.
 
 ## Vocabulary
 
-v02: δηνάριον (*dēnarion*) — “Denarius.” Standard daily wage.  
+v2: δηνάριον (*dēnarion*) — “Denarius.” Standard daily wage.  
 
-v06: ἀργοί (*argoi*) — “Idle.” Unemployed, not necessarily unwilling.  
+v6: ἀργοί (*argoi*) — “Idle.” Unemployed, not necessarily unwilling.  
 
 v11: ἐγόγγυζον (*egongyzon*) — “They grumbled.” Murmured in dissatisfaction.  
 
