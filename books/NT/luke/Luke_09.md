@@ -251,11 +251,11 @@ v62: But Jesus said to him, “No one who puts his hand to the plow and looks ba
 
 ## Notes
 
-v01–02: Authority is delegated; the mission of the twelve extends Jesus’ own activity.
+v1–2: Authority is delegated; the mission of the twelve extends Jesus’ own activity.
 
-v03–05: Dependence and reception define the mission more than provision.
+v3–5: Dependence and reception define the mission more than provision.
 
-v07–09: Herod’s confusion reflects unresolved identity questions surrounding Jesus.
+v7–9: Herod’s confusion reflects unresolved identity questions surrounding Jesus.
 
 v10–17: The feeding miracle involves disciples directly; provision flows through their obedience.
 
@@ -285,19 +285,19 @@ v57–62: Following Jesus demands priority over security, obligation, and social
 
 ## Vocabulary
 
-v01: δύναμις (dynamis)
+v1: δύναμις (dynamis)
 
 “Power.”
 
-v01: ἐξουσία (exousia)
+v1: ἐξουσία (exousia)
 
 “Authority.”
 
-v02: κηρύσσω (kēryssō)
+v2: κηρύσσω (kēryssō)
 
 “To proclaim.”
 
-v05: μαρτύριον (martyrion)
+v5: μαρτύριον (martyrion)
 
 “Testimony.”
 
