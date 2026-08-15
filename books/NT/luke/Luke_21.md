@@ -159,15 +159,15 @@ v38: And all the people were coming early in the morning to him in the temple to
 
 ## Notes
 
-v01–04: The widow’s offering is evaluated by proportion, not amount.
+v1–4: The widow’s offering is evaluated by proportion, not amount.
 
-v04: “All the life she had” intensifies totality of giving.
+v4: “All the life she had” intensifies totality of giving.
 
-v05–06: Temple permanence is denied despite visible grandeur.
+v5–6: Temple permanence is denied despite visible grandeur.
 
-v08: False claims and premature conclusions are warned against.
+v8: False claims and premature conclusions are warned against.
 
-v09: Turmoil does not equal immediate end.
+v9: Turmoil does not equal immediate end.
 
 v12–15: Persecution becomes the setting for testimony and divine provision.
 
@@ -193,19 +193,19 @@ v37–38: Teaching continues publicly despite increasing tension.
 
 ## Vocabulary
 
-v02: λεπτόν (lepton)
+v2: λεπτόν (lepton)
 
 “Small coin.”
 
-v04: βίος (bios)
+v4: βίος (bios)
 
 “Life, livelihood.”
 
-v06: καταλύω (katalyō)
+v6: καταλύω (katalyō)
 
 “To destroy.”
 
-v08: πλανάω (planaō)
+v8: πλανάω (planaō)
 
 “To lead astray.”
 
