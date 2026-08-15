@@ -66,37 +66,37 @@ v8–9: The turning point—confidence emerges through being heard.
 v10: Enemies’ reversal mirrors the psalmist’s earlier distress.
 
 ## Vocabulary
-v01: יָכַח (yakach)  
+v1: יָכַח (yakach)  
 “To rebuke.” Correct or confront.
 
-v01: יָסַר (yasar)  
+v1: יָסַר (yasar)  
 “To discipline.” Instruct through correction.
 
-v02: חָנַן (chanan)  
+v2: חָנַן (chanan)  
 “To be gracious.” Show favor.
 
-v02: רָפָא (rapha)  
+v2: רָפָא (rapha)  
 “To heal.” Restore.
 
-v03: בָּהַל (bahal)  
+v3: בָּהַל (bahal)  
 “To be troubled.” Terrified or disturbed.
 
-v04: שׁוּב (shuv)  
+v4: שׁוּב (shuv)  
 “To turn.” Return.
 
-v04: חָלַץ (chalats)  
+v4: חָלַץ (chalats)  
 “To deliver.” Rescue.
 
-v05: שְׁאוֹל (sheol)  
+v5: שְׁאוֹל (sheol)  
 “Grave.” Realm of the dead.
 
-v06: יָגַע (yaga)  
+v6: יָגַע (yaga)  
 “To be weary.” Exhausted.
 
-v08: פָּעַל (pa‘al)  
+v8: פָּעַל (pa‘al)  
 “To work.” Act or do.
 
-v09: תְּחִנָּה (techinnah)  
+v9: תְּחִנָּה (techinnah)  
 “Plea.” Supplication.
 
 v10: בּוֹשׁ (bosh)  
