@@ -82,12 +82,12 @@ v30: And Isaac breathed his last and died and was gathered to his people, old an
 </p>
 
 ## Notes
-v01–04: The return to Bethel involves both physical movement and spiritual renewal. Foreign gods are removed before worship.
-v03: Jacob describes God as the one who answered him in distress and remained with him throughout his journeys.
-v05: The protection of Jacob's family is attributed directly to divine intervention.
-v07: Bethel becomes a place of remembrance, linking Jacob's present worship with God's earlier appearance.
-v08: Deborah's death is recorded briefly, yet the naming of the oak suggests deep mourning.
-v09–12: God renews the covenant promises given to Abraham and Isaac, now confirming them to Israel.
+v1–4: The return to Bethel involves both physical movement and spiritual renewal. Foreign gods are removed before worship.
+v3: Jacob describes God as the one who answered him in distress and remained with him throughout his journeys.
+v5: The protection of Jacob's family is attributed directly to divine intervention.
+v7: Bethel becomes a place of remembrance, linking Jacob's present worship with God's earlier appearance.
+v8: Deborah's death is recorded briefly, yet the naming of the oak suggests deep mourning.
+v9–12: God renews the covenant promises given to Abraham and Isaac, now confirming them to Israel.
 v10: The renaming of Jacob as Israel is reaffirmed, emphasizing his transformed identity.
 v11: The promise expands from a single nation to a company of nations and future kings.
 v14–15: Jacob responds with worship, memorializing the place where God spoke with him.
@@ -98,19 +98,19 @@ v23–26: The listing of the twelve sons marks the completed foundation of the t
 v28–30: Isaac's death closes another generation of the patriarchal story. Esau and Jacob are united in honoring their father.
 
 ## Vocabulary
-v01: בֵּית־אֵל (Bêt-ʾEl)
+v1: בֵּית־אֵל (Bêt-ʾEl)
 “Bethel.” Meaning “House of God,” the site of Jacob's earlier vision and vow.
 
-v02: טָהֵר (ṭāhēr)
+v2: טָהֵר (ṭāhēr)
 “To purify.” To become clean or prepared for sacred encounter.
 
-v04: אֱלֹהֵי נֵכָר (ʾĕlōhê nēkār)
+v4: אֱלֹהֵי נֵכָר (ʾĕlōhê nēkār)
 “Foreign gods.” Deities associated with peoples outside the covenant family.
 
-v05: חִתַּת אֱלֹהִים (ḥittat ʾĕlōhîm)
+v5: חִתַּת אֱלֹהִים (ḥittat ʾĕlōhîm)
 “Terror from God.” A divinely sent fear that restrains opposition.
 
-v08: אַלּוֹן בָּכוּת (ʾAllôn Bākûṯ)
+v8: אַלּוֹן בָּכוּת (ʾAllôn Bākûṯ)
 “Oak of Weeping.” The name commemorates mourning for Deborah.
 
 v11: אֵל שַׁדַּי (ʾEl Šadday)
