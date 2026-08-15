@@ -71,68 +71,68 @@ v08: and the sanctuary was filled with smoke from the glory of God and from his 
 
 ## Notes
 
-v01: The plagues are identified as final; completion is emphasized rather than sequence.
+v1: The plagues are identified as final; completion is emphasized rather than sequence.
 
-v01: “Sign” again frames the vision as symbolic.
+v1: “Sign” again frames the vision as symbolic.
 
-v02: The sea is altered (“mixed with fire”), not replaced.
+v2: The sea is altered (“mixed with fire”), not replaced.
 
-v02: Conquering is described without method; outcome is assumed.
+v2: Conquering is described without method; outcome is assumed.
 
-v03: The song joins two traditions (Moses and the Lamb) without distinction.
+v3: The song joins two traditions (Moses and the Lamb) without distinction.
 
-v03–04: Praise focuses on works and ways, not explanation.
+v3–4: Praise focuses on works and ways, not explanation.
 
-v04: Universality (“all nations”) is declared without process.
+v4: Universality (“all nations”) is declared without process.
 
-v05: The sanctuary is opened, reversing earlier restriction.
+v5: The sanctuary is opened, reversing earlier restriction.
 
-v06: Clothing signals role but is not interpreted.
+v6: Clothing signals role but is not interpreted.
 
-v07: The bowls are given, not taken; wrath is mediated.
+v7: The bowls are given, not taken; wrath is mediated.
 
-v08: Access is denied; presence excludes approach.
+v8: Access is denied; presence excludes approach.
 
-v08: Completion of plagues precedes renewed access.
+v8: Completion of plagues precedes renewed access.
 
 ## Vocabulary
 
-v01: πληγή (plēgē)
+v1: πληγή (plēgē)
 
 “Plague.” A blow or strike, here as judgment.
 
-v02: θάλασσα ὑαλίνη (thalassa hyalinē)
+v2: θάλασσα ὑαλίνη (thalassa hyalinē)
 
 “Sea of glass.” A stable, reflective expanse.
 
-v03: ᾠδή (ōdē)
+v3: ᾠδή (ōdē)
 
 “Song.” A formal expression of praise.
 
-v04: ἔθνη (ethnē)
+v4: ἔθνη (ethnē)
 
 “Nations.” Peoples broadly, not limited group.
 
-v05: σκηνή (skēnē)
+v5: σκηνή (skēnē)
 
 “Tent.” Tabernacle; place of divine presence.
 
-v06: λῖνον (linon)
+v6: λῖνον (linon)
 
 “Linen.” Garment associated with purity.
 
-v07: φιάλη (phialē)
+v7: φιάλη (phialē)
 
 “Bowl.” Vessel used for pouring.
 
-v07: θυμός (thymos)
+v7: θυμός (thymos)
 
 “Wrath.” Intense expression of anger.
 
-v08: καπνός (kapnos)
+v8: καπνός (kapnos)
 
 “Smoke.” Manifestation of presence or glory.
 
-v08: δύναμις (dynamis)
+v8: δύναμις (dynamis)
 
 “Power.” Active force or capacity.
