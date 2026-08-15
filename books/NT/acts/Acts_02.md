@@ -103,8 +103,8 @@ v47: praising God and having favor with all the people. And the Lord added to th
 
 
 ## Notes
-v01–04: The Spirit’s coming is marked by sensory imagery—sound, sight, speech—without collapsing into explanation.
-v06–08: The miracle is heard as much as seen; understanding occurs within each listener’s own language.
+v1–4: The Spirit’s coming is marked by sensory imagery—sound, sight, speech—without collapsing into explanation.
+v6–8: The miracle is heard as much as seen; understanding occurs within each listener’s own language.
 v12–13: Wonder and dismissal coexist; the same event generates divergent interpretations.
 v17–21: Joel’s prophecy frames the moment as expansive—across age, gender, and status—without narrowing its scope.
 v23: Divine purpose and human responsibility are held together without resolution.
@@ -119,13 +119,13 @@ v42–47: The community is described through practices rather than structure; de
 
 
 ## Vocabulary
-v01: πεντηκοστή (pentēkostē)
+v1: πεντηκοστή (pentēkostē)
 “Pentecost.” A festival occurring fifty days after Passover; here the setting for the Spirit’s outpouring.
 
-v02: πνοή (pnoē)
+v2: πνοή (pnoē)
 “Wind” or “breath.” Connotes both natural force and life-giving presence.
 
-v04: γλῶσσα (glōssa)
+v4: γλῶσσα (glōssa)
 “Tongue” or “language.” Carries both physical and linguistic meaning.
 
 v17: πνεῦμα (pneuma)
