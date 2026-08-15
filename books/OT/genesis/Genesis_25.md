@@ -119,9 +119,9 @@ v34: Then Jacob gave Esau bread and lentil stew, and he ate and drank and rose a
 
 ## Notes
 
-v05–06: The inheritance is sharply centralized in Isaac, preserving covenant lineage.  
+v5–6: The inheritance is sharply centralized in Isaac, preserving covenant lineage.  
 
-v08: “Full” suggests completion, not merely longevity.  
+v8: “Full” suggests completion, not merely longevity.  
 
 v18: Ishmael’s line fulfills promise yet remains outside the covenant trajectory.  
 
@@ -135,11 +135,11 @@ v29–34: Esau’s action is framed as contempt, not mere impulsiveness.
 
 ## Vocabulary
 
-v05: נָתַן (nāṯan)  
+v5: נָתַן (nāṯan)  
 
 “To give.” Transfer with authority or intention.  
 
-v08: שָׂבֵעַ (śāvēaʿ)  
+v8: שָׂבֵעַ (śāvēaʿ)  
 
 “Full, satisfied.” Completion of life’s course.  
 
