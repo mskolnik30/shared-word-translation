@@ -63,28 +63,28 @@ v8: Stability is grounded in proximity (“at my right hand”).
 v9–11: Security extends beyond death—life is defined by God’s presence.
 
 ## Vocabulary
-v01: שָׁמַר (shamar)  
+v1: שָׁמַר (shamar)  
 “To preserve.” Guard.
 
-v01: חָסָה (chasah)  
+v1: חָסָה (chasah)  
 “To take refuge.” Seek shelter.
 
-v02: אֲדֹנָי (Adonai)  
+v2: אֲדֹנָי (Adonai)  
 “Lord.” Master.
 
-v04: עָצַב (‘atsav)  
+v4: עָצַב (‘atsav)  
 “Sorrow.” Pain.
 
-v05: מָנָה (manah)  
+v5: מָנָה (manah)  
 “Portion.” Allotted share.
 
-v06: גּוֹרָל (goral)  
+v6: גּוֹרָל (goral)  
 “Lot.” Destiny or inheritance.
 
-v07: יָעַץ (ya‘ats)  
+v7: יָעַץ (ya‘ats)  
 “To counsel.” Advise.
 
-v08: יָצַב (yatsav)  
+v8: יָצַב (yatsav)  
 “To set.” Place firmly.
 
 v10: שְׁאוֹל (sheol)  
