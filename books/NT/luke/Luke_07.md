@@ -195,15 +195,15 @@ v50: And he said to the woman, “Your faith has saved you; go in peace.”
 
 ## Notes
 
-v02: The slave is described as “valuable,” indicating relational regard beyond mere utility.
+v2: The slave is described as “valuable,” indicating relational regard beyond mere utility.
 
-v04–05: The elders appeal to the centurion’s worthiness, grounded in benefaction and loyalty.
+v4–5: The elders appeal to the centurion’s worthiness, grounded in benefaction and loyalty.
 
-v06–07: The centurion rejects claims of worthiness, shifting the focus to Jesus’ authority.
+v6–7: The centurion rejects claims of worthiness, shifting the focus to Jesus’ authority.
 
-v08: Military command becomes the analogy for faith in Jesus’ word.
+v8: Military command becomes the analogy for faith in Jesus’ word.
 
-v09: Jesus’ amazement marks the centurion’s faith as exceptional, especially as an outsider.
+v9: Jesus’ amazement marks the centurion’s faith as exceptional, especially as an outsider.
 
 v11–13: The widow’s situation (widow, only son) intensifies vulnerability and loss.
 
@@ -243,19 +243,19 @@ v48–50: Authority to forgive sins is again central; faith is named as the mean
 
 ## Vocabulary
 
-v02: ἔντιμος (entimos)
+v2: ἔντιμος (entimos)
 
 “Valuable, honored.” Held in esteem.
 
-v07: λόγος (logos)
+v7: λόγος (logos)
 
 “Word.” Speech that effects healing.
 
-v08: ἐξουσία (exousia)
+v8: ἐξουσία (exousia)
 
 “Authority.” Structured power to command.
 
-v09: πίστις (pistis)
+v9: πίστις (pistis)
 
 “Faith.” Trust oriented toward Jesus’ authority.
 
