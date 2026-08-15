@@ -64,12 +64,12 @@ v25: For you were straying like sheep, but have now returned to the shepherd and
 
 
 ## Notes
-v01: The vice list is comprehensive and communal; the focus is relational distortion rather than isolated acts.
-v02–03: Growth is framed as desire; nourishment is something to be longed for, not merely received.
-v04–05: The metaphor shifts from individual to collective—stones become a structure, identity becomes shared.
-v06–08: Scripture is layered to hold both assurance and stumbling without resolving the tension between them.
-v08: “Destined” is stated without elaboration, preserving ambiguity regarding divine purpose and human response.
-v09–10: Identity is described through contrast—what was and what is now—without detailing the process of change.
+v1: The vice list is comprehensive and communal; the focus is relational distortion rather than isolated acts.
+v2–3: Growth is framed as desire; nourishment is something to be longed for, not merely received.
+v4–5: The metaphor shifts from individual to collective—stones become a structure, identity becomes shared.
+v6–8: Scripture is layered to hold both assurance and stumbling without resolving the tension between them.
+v8: “Destined” is stated without elaboration, preserving ambiguity regarding divine purpose and human response.
+v9–10: Identity is described through contrast—what was and what is now—without detailing the process of change.
 v11: “Sojourners and exiles” frames ethical instruction within identity rather than circumstance alone.
 v12: Conduct functions as witness; perception by others becomes part of the theological horizon.
 v13–17: Submission is framed “for the Lord’s sake,” holding tension between divine allegiance and human authority.
@@ -81,19 +81,19 @@ v25: The return to the shepherd reframes identity as restoration rather than mer
 
 
 ## Vocabulary
-v01: κακία (kakia)
+v1: κακία (kakia)
 “Malice.” A disposition toward harm; relational hostility.
 
-v02: γάλα (gala)
+v2: γάλα (gala)
 “Milk.” Symbol of nourishment appropriate for growth; here metaphorical.
 
-v04: λίθος (lithos)
+v4: λίθος (lithos)
 “Stone.” Used both literally and metaphorically; central to the passage’s imagery.
 
-v05: οἶκος πνευματικός (oikos pneumatikos)
+v5: οἶκος πνευματικός (oikos pneumatikos)
 “Spiritual house.” A constructed community defined by divine presence.
 
-v09: περιποίησις (peripoiēsis)
+v9: περιποίησις (peripoiēsis)
 “Possession.” Denotes belonging or acquisition, emphasizing identity.
 
 v11: πάροικος (paroikos)
