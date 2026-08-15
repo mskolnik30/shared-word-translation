@@ -243,7 +243,7 @@ v58: Therefore, my beloved brothers, be steadfast, immovable, always abounding i
 
 ## Notes
 
-v01–04: Gospel defined by death, burial, and resurrection.
+v1–4: Gospel defined by death, burial, and resurrection.
 
 v12–19: Denial of resurrection undermines the entire faith.
 
@@ -263,19 +263,19 @@ v58: Resurrection hope grounds perseverance.
 
 ## Vocabulary
 
-v03: παραδίδωμι (paradidōmi)
+v3: παραδίδωμι (paradidōmi)
 
 “To deliver.”
 
-v04: ἐγείρω (egeirō)
+v4: ἐγείρω (egeirō)
 
 “To raise.”
 
-v06: ὀφθάνομαι (ophthanomai)
+v6: ὀφθάνομαι (ophthanomai)
 
 “To appear.”
 
-v09: ἐλάχιστος (elachistos)
+v9: ἐλάχιστος (elachistos)
 
 “Least.”
 
