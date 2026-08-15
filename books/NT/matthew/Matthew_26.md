@@ -186,11 +186,11 @@ v75: And Peter remembered the word Jesus had spoken: “Before the rooster crows
 </p>
 
 ## Notes
-v02: “the Son of Man is handed over” — Matthew places divine foreknowledge and human treachery side by side. Jesus is not overtaken by events; he names them before they unfold.
+v2: “the Son of Man is handed over” — Matthew places divine foreknowledge and human treachery side by side. Jesus is not overtaken by events; he names them before they unfold.
 
-v04–05: “by stealth… not during the festival” — The leaders are not restrained by justice but by optics. Their timing is governed by crowd management, not truth.
+v4–5: “by stealth… not during the festival” — The leaders are not restrained by justice but by optics. Their timing is governed by crowd management, not truth.
 
-v07: “poured it on his head” — Matthew presents the act in royal as well as burial-shaped terms. Anointing and death already stand together.
+v7: “poured it on his head” — Matthew presents the act in royal as well as burial-shaped terms. Anointing and death already stand together.
 
 v10: “a beautiful work” — Jesus names as beautiful what others dismiss as impractical. Devotion is not measured only by efficiency.
 
@@ -235,19 +235,19 @@ v67–68: mockery and violence — The one who is truly king is treated as dispo
 v69–75: Peter’s denial — Bold promises collapse under pressure. Yet Peter’s bitter weeping shows that failure, though grave, has not ended in hardness.
 
 ## Vocabulary
-v02: πάσχα (pascha) — Passover
+v2: πάσχα (pascha) — Passover
 
-v02: παραδίδωμι (paradidōmi) — to hand over; to deliver up; to betray
+v2: παραδίδωμι (paradidōmi) — to hand over; to deliver up; to betray
 
-v02: σταυρόω (stauroō) — to crucify
+v2: σταυρόω (stauroō) — to crucify
 
-v04: κρατέω (krateō) — to seize; to take hold of
+v4: κρατέω (krateō) — to seize; to take hold of
 
-v04: δόλος (dolos) — deceit; cunning; stealth
+v4: δόλος (dolos) — deceit; cunning; stealth
 
-v07: ἀλάβαστρον (alabastron) — alabaster jar
+v7: ἀλάβαστρον (alabastron) — alabaster jar
 
-v07: μύρον (myron) — ointment; perfumed oil
+v7: μύρον (myron) — ointment; perfumed oil
 
 v10: κόπος (kopos) / καλὸν ἔργον (kalon ergon) — labor / beautiful work; good deed
 
