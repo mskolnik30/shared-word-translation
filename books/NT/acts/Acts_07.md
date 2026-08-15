@@ -117,9 +117,9 @@ v60: And falling to his knees he cried out with a loud voice, “Lord, do not ho
 
 
 ## Notes
-v02: “The God of glory” introduces the speech with emphasis on divine initiative prior to land or temple.
-v05: Promise is given before possession; inheritance remains future even within the land.
-v09–10: “God was with him” reframes Joseph’s suffering as accompanied rather than avoided.
+v2: “The God of glory” introduces the speech with emphasis on divine initiative prior to land or temple.
+v5: Promise is given before possession; inheritance remains future even within the land.
+v9–10: “God was with him” reframes Joseph’s suffering as accompanied rather than avoided.
 v17–19: Growth of the people leads to threat, linking blessing with vulnerability.
 v25: Moses’ assumption of recognition contrasts with Israel’s misunderstanding.
 v30–34: Divine revelation occurs outside established sacred space, emphasizing God’s freedom.
@@ -132,13 +132,13 @@ v58: Saul is introduced without explanation, marking a narrative thread that con
 v59–60: Stephen’s final words echo Jesus’ own, linking witness and imitation without explicit commentary.
 
 ## Vocabulary
-v02: δόξα (doxa)
+v2: δόξα (doxa)
 “Glory.” Denotes divine presence and radiance; often associated with revelation.
 
-v05: κληρονομία (klēronomia)
+v5: κληρονομία (klēronomia)
 “Inheritance.” A promised possession, not yet realized.
 
-v09: φθόνος (phthonos)
+v9: φθόνος (phthonos)
 “Jealousy.” A destructive response to another’s favor or status.
 
 v20: ἀστεῖος (asteios)
