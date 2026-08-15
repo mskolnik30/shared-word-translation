@@ -7,33 +7,33 @@ translation: TSW
 
 ## The Majesty of God and the Calling of Humanity
 
-v01 O Holy One, our Lord,
+v01: O Holy One, our Lord,
 how majestic is your name in all the earth!
 You have set your glory above the heavens.
 
-v02 Out of the mouths of infants and nursing children
+v02: Out of the mouths of infants and nursing children
 you have established strength because of your foes,
 to silence the enemy and the avenger.
 
-v03 When I look at your heavens, the work of your fingers,
+v03: When I look at your heavens, the work of your fingers,
 the moon and the stars that you have set in place,
 
-v04 what are human beings that you are mindful of them,
+v04: what are human beings that you are mindful of them,
 mortals that you care for them?
 
-v05 Yet you have made them a little lower than the divine,
+v05: Yet you have made them a little lower than the divine,
 and crowned them with glory and honor.
 
-v06 You have given them dominion over the works of your hands;
+v06: You have given them dominion over the works of your hands;
 you have put all things under their feet,
 
-v07 all sheep and oxen,
+v07: all sheep and oxen,
 and also the beasts of the field,
 
-v08 the birds of the air, and the fish of the sea,
+v08: the birds of the air, and the fish of the sea,
 whatever passes along the paths of the seas.
 
-v09 O Holy One, our Lord,
+v09: O Holy One, our Lord,
 how majestic is your name in all the earth!
 
 ## Notes
