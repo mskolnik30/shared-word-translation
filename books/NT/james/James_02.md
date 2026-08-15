@@ -77,17 +77,17 @@ v26: For as the body apart from the spirit is dead, so also faith apart from wor
 
 ## Notes
 
-v01: Faith is qualified by practice; partiality contradicts confession.
+v1: Faith is qualified by practice; partiality contradicts confession.
 
-v02–04: Social distinction reveals internal judgment.
+v2–4: Social distinction reveals internal judgment.
 
-v05: Divine choice reverses expected status.
+v5: Divine choice reverses expected status.
 
-v06–07: Behavior of the rich contradicts their assumed position.
+v6–7: Behavior of the rich contradicts their assumed position.
 
-v08: The law is summarized relationally.
+v8: The law is summarized relationally.
 
-v09–10: Violation is unified; failure in part implicates the whole.
+v9–10: Violation is unified; failure in part implicates the whole.
 
 v11: Commandments are linked without hierarchy.
 
@@ -113,19 +113,19 @@ v26: Analogy equates absence of works with death.
 
 ## Vocabulary
 
-v01: προσωπολημψία (prosōpolēmpsia)
+v1: προσωπολημψία (prosōpolēmpsia)
 
 “Partiality.” Showing favor based on status.
 
-v04: διακρίνω (diakrinō)
+v4: διακρίνω (diakrinō)
 
 “To distinguish.” To separate or judge.
 
-v05: κληρονόμος (klēronomos)
+v5: κληρονόμος (klēronomos)
 
 “Heir.” One who receives inheritance.
 
-v08: νόμος βασιλικός (nomos basilikos)
+v8: νόμος βασιλικός (nomos basilikos)
 
 “Royal law.” Central governing command.
 
