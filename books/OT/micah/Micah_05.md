@@ -109,47 +109,47 @@ that did not obey.”
 </p>
 
 ## Notes
-v01: The chapter begins with humiliation and siege before turning to future hope.
-v02: Bethlehem, though insignificant in size, is chosen as the birthplace of Israel's future ruler.
-v02: The ruler's origins are described as reaching back to ancient days, emphasizing divine purpose and continuity.
-v03: A period of abandonment precedes restoration and reunion.
-v04–05: The coming ruler combines royal authority with the imagery of a shepherd who provides security and peace.
-v04: His reign extends beyond Israel to the ends of the earth.
-v05–06: Assyria represents the threat of hostile world powers opposed to God's people.
-v07–08: The remnant becomes both a source of blessing and an instrument of strength among the nations.
-v07: Dew and rain symbolize life-giving refreshment that comes from God alone.
-v08: The lion imagery emphasizes power and victory granted by God.
+v1: The chapter begins with humiliation and siege before turning to future hope.
+v2: Bethlehem, though insignificant in size, is chosen as the birthplace of Israel's future ruler.
+v2: The ruler's origins are described as reaching back to ancient days, emphasizing divine purpose and continuity.
+v3: A period of abandonment precedes restoration and reunion.
+v4–5: The coming ruler combines royal authority with the imagery of a shepherd who provides security and peace.
+v4: His reign extends beyond Israel to the ends of the earth.
+v5–6: Assyria represents the threat of hostile world powers opposed to God's people.
+v7–8: The remnant becomes both a source of blessing and an instrument of strength among the nations.
+v7: Dew and rain symbolize life-giving refreshment that comes from God alone.
+v8: The lion imagery emphasizes power and victory granted by God.
 v10–14: God removes not only military dependence but also spiritual corruption from his people.
 v10–11: Horses, chariots, and fortified cities represent misplaced trust in human strength.
 v12–14: The purification of Israel includes the removal of occult practices and idolatry.
 v15: The chapter concludes with judgment upon nations that persist in rebellion against God.
 
 ## Vocabulary
-v01: מָצוֹר (māṣôr)
+v1: מָצוֹר (māṣôr)
 “Siege.” Military encirclement intended to capture a city.
 
-v02: בֵּית לֶחֶם (Bêṯ Leḥem)
+v2: בֵּית לֶחֶם (Bêṯ Leḥem)
 “Bethlehem.” The town from which the future ruler will arise.
 
-v02: מוֹשֵׁל (môšēl)
+v2: מוֹשֵׁל (môšēl)
 “Ruler.” One who governs with authority.
 
-v03: שְׁאֵרִית (šĕʾērîṯ)
+v3: שְׁאֵרִית (šĕʾērîṯ)
 “Remnant.” Those preserved by God through judgment.
 
-v04: רָעָה (rāʿâ)
+v4: רָעָה (rāʿâ)
 “To shepherd.” To guide, protect, and care for a flock.
 
-v05: שָׁלוֹם (šālôm)
+v5: שָׁלוֹם (šālôm)
 “Peace.” Wholeness, security, and well-being.
 
-v06: אַשּׁוּר (ʾAššûr)
+v6: אַשּׁוּר (ʾAššûr)
 “Assyria.” The dominant imperial power threatening Israel and Judah.
 
-v07: טַל (ṭal)
+v7: טַל (ṭal)
 “Dew.” A symbol of refreshing blessing from God.
 
-v08: כְּפִיר (kĕp̄îr)
+v8: כְּפִיר (kĕp̄îr)
 “Youthful lion.” An image of strength and victorious power.
 
 v12: כְּשָׁפִים (kĕšāp̄îm)
