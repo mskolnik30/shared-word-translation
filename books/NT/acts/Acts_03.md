@@ -111,9 +111,9 @@ v26: To you first, God, having raised up his servant, sent him to bless you by t
 
 ## Notes
 
-v06–07: Healing is mediated through the name of Jesus, not personal power.
+v6–7: Healing is mediated through the name of Jesus, not personal power.
 
-v08–10: Public recognition confirms the authenticity of the sign.
+v8–10: Public recognition confirms the authenticity of the sign.
 
 v12: Apostles redirect attention away from themselves.
 
@@ -133,15 +133,15 @@ v25–26: Covenant promise extends blessing through repentance.
 
 ## Vocabulary
 
-v02: ἐλεημοσύνη (eleēmosynē)
+v2: ἐλεημοσύνη (eleēmosynē)
 
 “Alms.”
 
-v06: ὄνομα (onoma)
+v6: ὄνομα (onoma)
 
 “Name.”
 
-v07: στερεόω (stereoō)
+v7: στερεόω (stereoō)
 
 “To make strong.”
 
