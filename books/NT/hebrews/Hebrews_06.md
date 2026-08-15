@@ -59,21 +59,21 @@ v20: where Jesus has gone as a forerunner on our behalf, having become a high pr
 
 ## Notes
 
-v01–02: Foundational teachings are listed without expansion.
+v1–2: Foundational teachings are listed without expansion.
 
-v01: Movement toward maturity is assumed, not defined.
+v1: Movement toward maturity is assumed, not defined.
 
-v03: Progress is conditioned by divine permission.
+v3: Progress is conditioned by divine permission.
 
-v04–06: Description accumulates without resolving the impossibility.
+v4–6: Description accumulates without resolving the impossibility.
 
-v06: Falling away is framed as reenactment, not mere departure.
+v6: Falling away is framed as reenactment, not mere departure.
 
-v07–08: Agricultural imagery contrasts outcomes without explanation.
+v7–8: Agricultural imagery contrasts outcomes without explanation.
 
-v08: Worthlessness leads to destruction; process is not described.
+v8: Worthlessness leads to destruction; process is not described.
 
-v09: Tone shifts from warning to assurance.
+v9: Tone shifts from warning to assurance.
 
 v10: Divine justice includes recognition of action.
 
@@ -95,39 +95,39 @@ v20: Access is mediated; role is defined through prior category.
 
 ## Vocabulary
 
-v01: τελειότης (teleiotēs)
+v1: τελειότης (teleiotēs)
 
 “Maturity.” State of completeness.
 
-v01: μετάνοια (metanoia)
+v1: μετάνοια (metanoia)
 
 “Repentance.” Change of mind or direction.
 
-v02: βάπτισμα (baptisma)
+v2: βάπτισμα (baptisma)
 
 “Washings.” Ritual cleansing.
 
-v04: φωτίζω (phōtizō)
+v4: φωτίζω (phōtizō)
 
 “To enlighten.” To bring into light.
 
-v04: γεύομαι (geuomai)
+v4: γεύομαι (geuomai)
 
 “To taste.” To experience.
 
-v05: δύναμις (dynamis)
+v5: δύναμις (dynamis)
 
 “Power.” Force or capability.
 
-v06: παραπίπτω (parapiptō)
+v6: παραπίπτω (parapiptō)
 
 “To fall away.” To deviate.
 
-v07: πίω (piō)
+v7: πίω (piō)
 
 “To drink.” To receive.
 
-v08: ἀδόκιμος (adokimos)
+v8: ἀδόκιμος (adokimos)
 
 “Worthless.” Not approved.
 
