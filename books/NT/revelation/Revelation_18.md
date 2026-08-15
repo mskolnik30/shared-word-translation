@@ -165,23 +165,23 @@ and of all who have been slain on the earth.”
 
 ## Notes
 
-v01: The angel’s authority is expressed through effect (“the earth was made bright”).
+v1: The angel’s authority is expressed through effect (“the earth was made bright”).
 
-v02: The fall is declared before narrated; repetition intensifies certainty.
+v2: The fall is declared before narrated; repetition intensifies certainty.
 
-v02–03: Corruption is described through habitation imagery.
+v2–3: Corruption is described through habitation imagery.
 
-v04: Separation is commanded; participation is relational, not incidental.
+v4: Separation is commanded; participation is relational, not incidental.
 
-v05: Sin is depicted cumulatively (“heaped high”).
+v5: Sin is depicted cumulatively (“heaped high”).
 
-v06–07: Judgment is reciprocal and proportional.
+v6–7: Judgment is reciprocal and proportional.
 
-v07: Self-perception contrasts with outcome.
+v7: Self-perception contrasts with outcome.
 
-v08: Suddenness (“in a single day”) emphasizes reversal.
+v8: Suddenness (“in a single day”) emphasizes reversal.
 
-v09–10: Distance marks fear; association becomes liability.
+v9–10: Distance marks fear; association becomes liability.
 
 v11–13: The cargo list accumulates without hierarchy, ending with human lives.
 
@@ -203,27 +203,27 @@ v24: Violence is comprehensive; responsibility is total.
 
 ## Vocabulary
 
-v02: κατοικητήριον (katoikētērion)
+v2: κατοικητήριον (katoikētērion)
 
 “Dwelling place.” Place of settled habitation.
 
-v03: πλοῦτος (ploutos)
+v3: πλοῦτος (ploutos)
 
 “Wealth.” Abundance of resources.
 
-v04: ἐξέρχομαι (exerchomai)
+v4: ἐξέρχομαι (exerchomai)
 
 “To come out.” Separation from within.
 
-v05: κολλάω (kollaō)
+v5: κολλάω (kollaō)
 
 “To cling.” To join or attach.
 
-v06: διπλόω (diploō)
+v6: διπλόω (diploō)
 
 “To double.” To repay in kind.
 
-v07: στρηνιάω (strēniaō)
+v7: στρηνιάω (strēniaō)
 
 “To live in luxury.” Excessive indulgence.
 
