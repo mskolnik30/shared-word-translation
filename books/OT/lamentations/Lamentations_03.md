@@ -343,9 +343,9 @@ v66: You will pursue them in anger and destroy them
 
 
 ## Notes
-v01–03: “affliction… darkness… again and again” — The lament is relentless and personal; suffering is narrated as sustained divine pressure, not a single bad day.
+v1–3: “affliction… darkness… again and again” — The lament is relentless and personal; suffering is narrated as sustained divine pressure, not a single bad day.
 
-v07–09: “walled me in… shuts out my prayer… blocked my ways” — The poet names the terror of divine silence and confinement: no exit, no hearing, no clear path.
+v7–9: “walled me in… shuts out my prayer… blocked my ways” — The poet names the terror of divine silence and confinement: no exit, no hearing, no clear path.
 
 v10–13: bear / lion / target — God is imagined as hunter and archer; these metaphors are not doctrinal claims but grief-speech that tells the truth of felt experience.
 
@@ -379,21 +379,21 @@ v64–66: repayment / curse — The ending is raw. It voices the desire for mora
 
 
 ## Vocabulary
-v01: עֳנִי (ʿoni) — affliction; misery
+v1: עֳנִי (ʿoni) — affliction; misery
 
-v01: שֵׁבֶט (shevet) — rod; staff; scepter
+v1: שֵׁבֶט (shevet) — rod; staff; scepter
 
-v02: חֹשֶׁךְ (ḥoshekh) — darkness
+v2: חֹשֶׁךְ (ḥoshekh) — darkness
 
-v05: מָרוֹר (maror) — bitterness
+v5: מָרוֹר (maror) — bitterness
 
-v07: גָּדַר (gadar) — to wall in; to fence up
+v7: גָּדַר (gadar) — to wall in; to fence up
 
-v07: נְחֹשֶׁת (neḥoshet) — bronze (as in “bronze chains”)
+v7: נְחֹשֶׁת (neḥoshet) — bronze (as in “bronze chains”)
 
-v08: תְּפִלָּה (tefillah) — prayer
+v8: תְּפִלָּה (tefillah) — prayer
 
-v09: גָּזִית (gazit) — hewn stone; cut stone
+v9: גָּזִית (gazit) — hewn stone; cut stone
 
 v10: דֹּב (dov) — bear
 
