@@ -133,13 +133,13 @@ I will show the salvation of God.”
 
 ## Notes
 
-v01–03: Theophany imagery—fire and storm—signals divine judgment; God appears not as passive observer but as active judge.
+v1–3: Theophany imagery—fire and storm—signals divine judgment; God appears not as passive observer but as active judge.
 
-v04–06: Cosmic witnesses (heavens and earth) frame the trial; covenant community stands under evaluation.
+v4–6: Cosmic witnesses (heavens and earth) frame the trial; covenant community stands under evaluation.
 
-v05: “Faithful ones” are defined covenantally—those bound by sacrifice, not merely sentiment.
+v5: “Faithful ones” are defined covenantally—those bound by sacrifice, not merely sentiment.
 
-v07–13: The critique is not absence of sacrifice but misunderstanding of it; God’s ownership of creation nullifies any notion of divine need.
+v7–13: The critique is not absence of sacrifice but misunderstanding of it; God’s ownership of creation nullifies any notion of divine need.
 
 v12: The rhetorical claim underscores divine self-sufficiency; worship is not provision for God.
 
@@ -153,47 +153,47 @@ v22–23: Final warning and promise—rightly ordered life and thanksgiving alig
 
 ## Vocabulary
 
-v01: אֵל (ʾēl)  
+v1: אֵל (ʾēl)  
 
 “God.” Mighty one.
 
-v01: דִּבֶּר (dibbēr)  
+v1: דִּבֶּר (dibbēr)  
 
 “To speak.” To declare with authority.
 
-v01: קָרָא (qārāʾ)  
+v1: קָרָא (qārāʾ)  
 
 “To summon.” To call formally.
 
-v02: צִיּוֹן (ṣiyyôn)  
+v2: צִיּוֹן (ṣiyyôn)  
 
 “Zion.” Place of divine presence.
 
-v03: אֵשׁ (ʾēš)  
+v3: אֵשׁ (ʾēš)  
 
 “Fire.” Consuming force.
 
-v03: סְעָרָה (sĕʿārāh)  
+v3: סְעָרָה (sĕʿārāh)  
 
 “Storm.” Violent whirlwind.
 
-v04: שָׁפַט (šāpaṭ)  
+v4: שָׁפַט (šāpaṭ)  
 
 “To judge.” To render decision.
 
-v05: חָסִיד (ḥāsîḏ)  
+v5: חָסִיד (ḥāsîḏ)  
 
 “Faithful one.” Loyal, devoted.
 
-v05: בְּרִית (berît)  
+v5: בְּרִית (berît)  
 
 “Covenant.” Binding agreement.
 
-v08: זֶבַח (zeḇaḥ)  
+v8: זֶבַח (zeḇaḥ)  
 
 “Sacrifice.” Slaughtered offering.
 
-v09: פָּר (pār)  
+v9: פָּר (pār)  
 
 “Bull.” Animal for sacrifice.
 
