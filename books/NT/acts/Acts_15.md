@@ -205,9 +205,9 @@ v41: And he was passing through Syria and Cilicia, strengthening the churches.
 
 ## Notes
 
-v01–02: Central issue concerns the basis of salvation.
+v1–2: Central issue concerns the basis of salvation.
 
-v07–11: Peter affirms equality through grace and Spirit.
+v7–11: Peter affirms equality through grace and Spirit.
 
 v10: Law is described as an unbearable yoke.
 
@@ -225,15 +225,15 @@ v36–41: Mission continues despite relational division.
 
 ## Vocabulary
 
-v01: περιτομή (peritomē)
+v1: περιτομή (peritomē)
 
 “Circumcision.”
 
-v02: στάσις (stasis)
+v2: στάσις (stasis)
 
 “Dissension.”
 
-v08: καρδιογνώστης (kardiognōstēs)
+v8: καρδιογνώστης (kardiognōstēs)
 
 “Knower of hearts.”
 
