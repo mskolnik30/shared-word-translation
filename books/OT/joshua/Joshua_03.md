@@ -59,11 +59,11 @@ v17: Now the priests bearing the ark of the covenant of the LORD stood firmly on
 
 ## Notes
 
-v07: Joshua’s leadership is publicly confirmed—continuity with Moses is emphasized.
+v7: Joshua’s leadership is publicly confirmed—continuity with Moses is emphasized.
 
-v08: Priests initiate the action; obedience precedes visible change.
+v8: Priests initiate the action; obedience precedes visible change.
 
-v09–10: Knowledge of God is tied to action in history—presence is demonstrated through displacement of nations.
+v9–10: Knowledge of God is tied to action in history—presence is demonstrated through displacement of nations.
 
 v11: The ark signifies divine presence; “Lord of all the earth” universalizes authority.
 
@@ -79,19 +79,19 @@ v17: Stability (“stood firmly”) contrasts with flowing waters; the people cr
 
 ## Vocabulary
 
-v07: גָּדַל (gāḏal)  
+v7: גָּדַל (gāḏal)  
 
 “To exalt.” To make great or elevate.
 
-v08: כֹּהֵן (kōhēn)  
+v8: כֹּהֵן (kōhēn)  
 
 “Priest.” One who mediates sacred action.
 
-v08: אָרוֹן (ʾārôn)  
+v8: אָרוֹן (ʾārôn)  
 
 “Ark.” Sacred chest representing covenant presence.
 
-v09: קָרַב (qāraḇ)  
+v9: קָרַב (qāraḇ)  
 
 “To come near.” To approach for encounter.
 
