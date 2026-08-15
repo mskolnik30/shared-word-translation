@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Temple Foretold to Fall
 
 <p>
@@ -161,13 +160,13 @@ v51: and will cut him in pieces and put him with the hypocrites. In that place t
 
 ## Notes
 
-v02: Total destruction framed in absolute architectural terms.  
+v2: Total destruction framed in absolute architectural terms.  
 
-v03: Threefold question merges temple, παρουσία, and τέλος.  
+v3: Threefold question merges temple, παρουσία, and τέλος.  
 
-v08: “Birth pains” indicates beginning, not culmination.  
+v8: “Birth pains” indicates beginning, not culmination.  
 
-v09–12: Social and covenantal breakdown internal and external.  
+v9–12: Social and covenantal breakdown internal and external.  
 
 v13: Endurance defined temporally and covenantally.  
 
@@ -205,15 +204,15 @@ v45–51: Ethical readiness expressed through stewardship fidelity.
 
 ## Vocabulary
 
-v03: παρουσία (*parousia*) — “Coming.” Arrival with authority.  
+v3: παρουσία (*parousia*) — “Coming.” Arrival with authority.  
 
-v03: συντέλεια (*synteleia*) — “End.” Completion or consummation.  
+v3: συντέλεια (*synteleia*) — “End.” Completion or consummation.  
 
-v04: πλανήσῃ (*planēsē*) — “Lead astray.” Cause to wander.  
+v4: πλανήσῃ (*planēsē*) — “Lead astray.” Cause to wander.  
 
-v08: ὠδίνες (*ōdines*) — “Birth pains.” Labor contractions.  
+v8: ὠδίνες (*ōdines*) — “Birth pains.” Labor contractions.  
 
-v09: θλῖψις (*thlipsis*) — “Tribulation.” Pressure, affliction.  
+v9: θλῖψις (*thlipsis*) — “Tribulation.” Pressure, affliction.  
 
 v12: ἀνομία (*anomia*) — “Lawlessness.” Rejection of divine order.  
 
