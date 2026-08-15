@@ -74,15 +74,15 @@ in burnt offerings and whole offerings;
 then bulls will be offered on your altar.
 
 ## Notes
-v01–02: The appeal to mercy is grounded not in the speaker’s worthiness but in God’s character. “Steadfast love” and “abundant compassion” frame repentance as response to covenantal faithfulness rather than fear of punishment.
+v1–2: The appeal to mercy is grounded not in the speaker’s worthiness but in God’s character. “Steadfast love” and “abundant compassion” frame repentance as response to covenantal faithfulness rather than fear of punishment.
 
-v04: The claim “against you, you alone” does not deny harm done to others. It names the ultimate moral horizon of sin as relational rupture with God, even when consequences are communal.
+v4: The claim “against you, you alone” does not deny harm done to others. It names the ultimate moral horizon of sin as relational rupture with God, even when consequences are communal.
 
-v05: This verse speaks of human brokenness as a condition rather than an isolated act. The language is experiential and poetic, not a systematic statement about inherited guilt.
+v5: This verse speaks of human brokenness as a condition rather than an isolated act. The language is experiential and poetic, not a systematic statement about inherited guilt.
 
-v06: Truth and wisdom are located inwardly, not performatively. The verse contrasts external compliance with interior formation, setting the trajectory for the psalm’s rejection of ritual alone.
+v6: Truth and wisdom are located inwardly, not performatively. The verse contrasts external compliance with interior formation, setting the trajectory for the psalm’s rejection of ritual alone.
 
-v07: Hyssop evokes ritual purification practices. The speaker seeks not symbolic cleansing but real restoration, using liturgical language to name personal need.
+v7: Hyssop evokes ritual purification practices. The speaker seeks not symbolic cleansing but real restoration, using liturgical language to name personal need.
 
 v10: The verb “create” is deliberate. Renewal is not framed as self-repair but as divine action that brings forth something genuinely new.
 
@@ -95,13 +95,13 @@ v16–17: Sacrifice is not rejected outright but relativized. The psalm critique
 v18–19: The psalm widens from personal repentance to communal restoration. Individual healing is not isolated from the well-being of the city and its shared worship.
 
 ## Vocabulary
-v01: חֶסֶד (chesed)  
+v1: חֶסֶד (chesed)  
 Often translated “steadfast love” or “lovingkindness,” this term denotes covenantal loyalty rather than emotion alone. It describes God’s reliable commitment to relationship.
 
-v05: עָוֹן (ʿavon)  
+v5: עָוֹן (ʿavon)  
 Rendered here as “brokenness,” the word carries connotations of distortion or bending, emphasizing condition rather than isolated misdeed.
 
-v07: אֵזוֹב (ezov)  
+v7: אֵזוֹב (ezov)  
 “Hyssop” refers to a plant used in purification rites. Its use here links personal repentance with communal worship practices.
 
 v10: בָּרָא (baraʾ)  
