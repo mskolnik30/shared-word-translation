@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## Traditions and the Commandment of God
 
 <p>
@@ -121,9 +120,9 @@ v39: And after sending away the crowds, he got into the boat and went to the reg
 
 ## Notes
 
-v03–06: Tradition becomes distortion when it overrides explicit command; “Corban”-type logic nullifies obligation.  
+v3–6: Tradition becomes distortion when it overrides explicit command; “Corban”-type logic nullifies obligation.  
 
-v08–09: External conformity without internal alignment is treated as emptiness, not partial obedience.  
+v8–9: External conformity without internal alignment is treated as emptiness, not partial obedience.  
 
 v11: Defilement redefined from ritual impurity to moral output rooted in the heart.  
 
@@ -147,11 +146,11 @@ v37: Numerical variation (seven baskets) signals distinct event, not duplication
 
 ## Vocabulary
 
-v02: παράδοσις (*paradosis*) — “Tradition.” Received teaching or practice.  
+v2: παράδοσις (*paradosis*) — “Tradition.” Received teaching or practice.  
 
-v04: τίμα (*tima*) — “Honor.” Assign weight, value, or obligation.  
+v4: τίμα (*tima*) — “Honor.” Assign weight, value, or obligation.  
 
-v07: ὑποκριταί (*hypokritai*) — “Hypocrites.” Actors; those performing outward roles.  
+v7: ὑποκριταί (*hypokritai*) — “Hypocrites.” Actors; those performing outward roles.  
 
 v11: κοινοῖ (*koinoi*) — “Defiles.” Makes common, unclean, or profaned.  
 
