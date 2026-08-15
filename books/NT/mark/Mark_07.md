@@ -73,7 +73,7 @@ v30: And going to her house, she found the child lying on the bed, and the demon
 
 ## Notes
 
-v08: Tension between commandment and tradition is not resolved abstractly but concretely.
+v8: Tension between commandment and tradition is not resolved abstractly but concretely.
 
 v15: Defilement is reoriented from external contact to internal source.
 
@@ -83,9 +83,9 @@ v29: The woman’s “word” becomes the turning point.
 
 ## Vocabulary
 
-v02: κοινός (koinos) — common, defiled.
+v2: κοινός (koinos) — common, defiled.
 
-v08: παράδοσις (paradosis) — tradition handed down.
+v8: παράδοσις (paradosis) — tradition handed down.
 
 v15: κοινοῦν (koinoun) — to defile.
 
