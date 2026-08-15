@@ -58,8 +58,8 @@ v24: I will take nothing except what the young men have eaten and the share of t
 </p>
 
 ## Notes
-v01–04: The chapter places Abram within a wider political world of kings, alliances, tribute, and rebellion.
-v05–07: The campaign of Chedorlaomer demonstrates the power of the eastern coalition before the battle reaches Sodom.
+v1–4: The chapter places Abram within a wider political world of kings, alliances, tribute, and rebellion.
+v5–7: The campaign of Chedorlaomer demonstrates the power of the eastern coalition before the battle reaches Sodom.
 v12: Lot’s capture results from his association with Sodom. His location now has consequences beyond personal prosperity.
 v13: Abram is called “the Hebrew,” one of the earliest uses of the designation in Scripture.
 v14–16: Abram’s victory comes through a small household force. The narrative highlights effectiveness without attributing it to military strength alone.
@@ -71,10 +71,10 @@ v21–24: Abram refuses enrichment from the king of Sodom. His prosperity is to 
 v22–23: The contrast between Melchizedek and the king of Sodom shapes the conclusion of the chapter. Abram receives blessing but rejects dependence.
 
 ## Vocabulary
-v02: מִלְחָמָה (milḥāmâ)
+v2: מִלְחָמָה (milḥāmâ)
 “War” or “battle.” Organized conflict between rulers and peoples.
 
-v04: מָרַד (māraḏ)
+v4: מָרַד (māraḏ)
 “To rebel.” The refusal of established authority or tribute.
 
 v10: חֵמָר (ḥēmār)
