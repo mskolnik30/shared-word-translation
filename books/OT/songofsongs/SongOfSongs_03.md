@@ -89,48 +89,48 @@ on the day of the gladness of his heart.
 </p>
 
 ## Notes
-v01–04: The bride's nighttime search portrays longing, separation, and the determination of love.
-v01–02: The repeated seeking and not finding heightens the emotional intensity of the scene.
-v03: The watchmen serve as witnesses to her search through the city.
-v04: The language shifts quickly from loss to joyful reunion.
-v04: Bringing the beloved into her mother's house reflects acceptance, intimacy, and familial blessing.
-v05: The recurring refrain emphasizes patience and proper timing in love.
-v06–11: The scene transitions from private longing to a public celebration associated with royal marriage.
-v06: Smoke, myrrh, and frankincense create imagery of splendor, honor, and festal procession.
-v07–08: The sixty warriors emphasize dignity, protection, and royal majesty.
-v09–10: The carriage displays wealth, beauty, and craftsmanship appropriate to a king.
+v1–4: The bride's nighttime search portrays longing, separation, and the determination of love.
+v1–2: The repeated seeking and not finding heightens the emotional intensity of the scene.
+v3: The watchmen serve as witnesses to her search through the city.
+v4: The language shifts quickly from loss to joyful reunion.
+v4: Bringing the beloved into her mother's house reflects acceptance, intimacy, and familial blessing.
+v5: The recurring refrain emphasizes patience and proper timing in love.
+v6–11: The scene transitions from private longing to a public celebration associated with royal marriage.
+v6: Smoke, myrrh, and frankincense create imagery of splendor, honor, and festal procession.
+v7–8: The sixty warriors emphasize dignity, protection, and royal majesty.
+v9–10: The carriage displays wealth, beauty, and craftsmanship appropriate to a king.
 v11: The chapter culminates in a wedding image marked by joy and celebration.
 v11: The “gladness of his heart” highlights the delight of covenantal love.
 
 ## Vocabulary
-v01: בַּקֵּשׁ (baqqēš)
+v1: בַּקֵּשׁ (baqqēš)
 “To seek.” To search earnestly and persistently.
 
-v01: נֶפֶשׁ (nepeš)
+v1: נֶפֶשׁ (nepeš)
 “Soul.” The whole inner self, including desire and affection.
 
-v03: שֹׁמֵר (šōmēr)
+v3: שֹׁמֵר (šōmēr)
 “Watchman.” One who guards and patrols a city.
 
-v04: אָחַז (ʾāḥaz)
+v4: אָחַז (ʾāḥaz)
 “To hold fast.” To grasp firmly and not let go.
 
-v05: אַהֲבָה (ʾahăḇâ)
+v5: אַהֲבָה (ʾahăḇâ)
 “Love.” Deep affection, desire, and devotion.
 
-v06: מֹר (mōr)
+v6: מֹר (mōr)
 “Myrrh.” A fragrant resin used in perfumes and ceremonial settings.
 
-v06: לְבוֹנָה (lĕḇônâ)
+v6: לְבוֹנָה (lĕḇônâ)
 “Frankincense.” An aromatic resin associated with worship and celebration.
 
-v07: מִטָּה (miṭṭâ)
+v7: מִטָּה (miṭṭâ)
 “Couch” or “litter.” A portable seat or ceremonial conveyance.
 
-v08: חֶרֶב (ḥereḇ)
+v8: חֶרֶב (ḥereḇ)
 “Sword.” A weapon symbolizing protection and strength.
 
-v09: אַפִּרְיוֹן (ʾappiryôn)
+v9: אַפִּרְיוֹן (ʾappiryôn)
 “Carriage” or “palanquin.” A royal conveyance used in processions.
 
 v10: אַרְגָּמָן (ʾargāmān)
