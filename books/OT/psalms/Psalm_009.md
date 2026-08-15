@@ -106,25 +106,25 @@ v17–18: Judgment and hope coexist—wicked perish, needy endure.
 v19–20: Final appeal centers on human limitation before divine authority.
 
 ## Vocabulary
-v01: יָדָה (yadah)  
+v1: יָדָה (yadah)  
 “To give thanks.” Praise.
 
-v01: סָפַר (saphar)  
+v1: סָפַר (saphar)  
 “To recount.” Tell in detail.
 
-v02: עָלַז (‘alaz)  
+v2: עָלַז (‘alaz)  
 “To exult.” Rejoice greatly.
 
-v04: דִּין (din)  
+v4: דִּין (din)  
 “To judge.” Render justice.
 
-v05: מָחָה (machah)  
+v5: מָחָה (machah)  
 “To blot out.” Erase.
 
-v07: יָשַׁב (yashav)  
+v7: יָשַׁב (yashav)  
 “To sit.” Be enthroned.
 
-v09: מִשְׂגָּב (misgav)  
+v9: מִשְׂגָּב (misgav)  
 “Stronghold.” High refuge.
 
 v10: בָּטַח (batach)  
