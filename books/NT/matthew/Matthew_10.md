@@ -6,7 +6,6 @@ translation: TSW
 ---
 
 
-
 ## The Twelve Apostles
 
 <p>
@@ -151,13 +150,13 @@ v42: And whoever gives one of these little ones even a cup of cold water because
 
 ## Notes
 
-v01: Authority is delegated, not inherent to the disciples; it mirrors Jesus’ own activity.  
+v1: Authority is delegated, not inherent to the disciples; it mirrors Jesus’ own activity.  
 
-v05–06: The mission is initially restricted, emphasizing sequence rather than exclusion.  
+v5–6: The mission is initially restricted, emphasizing sequence rather than exclusion.  
 
-v07: Proclamation centers on nearness, not systematized teaching.  
+v7: Proclamation centers on nearness, not systematized teaching.  
 
-v08: Gift and giving are held together; reception determines distribution.  
+v8: Gift and giving are held together; reception determines distribution.  
 
 v10: Dependence replaces self-sufficiency; provision is relational, not stored.  
 
@@ -189,13 +188,13 @@ v40: Representation is layered; reception of messengers participates in divine r
 
 ## Vocabulary
 
-v01: ἐξουσία (*exousia*) — “Authority.” Delegated power aligned with mission.  
+v1: ἐξουσία (*exousia*) — “Authority.” Delegated power aligned with mission.  
 
-v06: πρόβατα ἀπολωλότα (*probata apolōlota*) — “Lost sheep.” Image of misdirection rather than absence.  
+v6: πρόβατα ἀπολωλότα (*probata apolōlota*) — “Lost sheep.” Image of misdirection rather than absence.  
 
-v07: ἤγγικεν (*ēngiken*) — “Has drawn near.” Perfect tense indicating present reality.  
+v7: ἤγγικεν (*ēngiken*) — “Has drawn near.” Perfect tense indicating present reality.  
 
-v08: δωρεάν (*dōrean*) — “Freely.” Without cost; emphasizes gift.  
+v8: δωρεάν (*dōrean*) — “Freely.” Without cost; emphasizes gift.  
 
 v10: ἄξιος (*axios*) — “Worthy.” Relational fitness, not merit accumulation.  
 
