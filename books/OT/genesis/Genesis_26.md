@@ -73,9 +73,9 @@ v35: And they made life bitter for Isaac and Rebekah.
 </p>
 
 ## Notes
-v01–05: The promises given to Abraham are reaffirmed to Isaac. The covenant continues through generations rather than beginning anew.
-v02: Unlike Abraham, Isaac is specifically instructed not to go to Egypt during famine.
-v07–11: Isaac repeats his father's deception concerning his wife. The narrative highlights both continuity and weakness within the covenant family.
+v1–5: The promises given to Abraham are reaffirmed to Isaac. The covenant continues through generations rather than beginning anew.
+v2: Unlike Abraham, Isaac is specifically instructed not to go to Egypt during famine.
+v7–11: Isaac repeats his father's deception concerning his wife. The narrative highlights both continuity and weakness within the covenant family.
 v12–14: Isaac's prosperity is explicitly attributed to the LORD's blessing rather than agricultural skill alone.
 v15–22: The conflict over wells reflects the importance of water, land, and survival in the region.
 v20–22: Isaac responds to repeated disputes by moving rather than escalating the conflict.
@@ -87,10 +87,10 @@ v30–31: A shared meal seals the peaceful relationship between Isaac and Abimel
 v34–35: The chapter closes with Esau's marriages, introducing tensions that will continue in the family narrative.
 
 ## Vocabulary
-v03: שָׁבַע (šāḇaʿ)
+v3: שָׁבַע (šāḇaʿ)
 “To swear an oath.” The verb associated with covenant promises and solemn commitments.
 
-v05: מִשְׁמֶרֶת (mišmeret)
+v5: מִשְׁמֶרֶת (mišmeret)
 “Charge” or “responsibility.” A duty entrusted to someone's care.
 
 v12: בָּרַךְ (bāraḵ)
