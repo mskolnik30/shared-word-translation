@@ -69,38 +69,38 @@ v8: Outcomes reflect the object of trust.
 v9: Closing plea reinforces dependence on divine response.
 
 ## Vocabulary
-v01: עָנָה (anah)  
+v1: עָנָה (anah)  
 “To answer.” Respond.
 
-v01: שֵׁם (shem)  
+v1: שֵׁם (shem)  
 “Name.” Authority and identity.
 
-v02: עֵזֶר (‘ezer)  
+v2: עֵזֶר (‘ezer)  
 “Help.” Aid.
 
-v02: סָעַד (sa‘ad)  
+v2: סָעַד (sa‘ad)  
 “To support.” Sustain.
 
-v03: זָכַר (zakhar)  
+v3: זָכַר (zakhar)  
 “To remember.” Act on memory.
 
-v03: דָּשֵׁן (dashen)  
+v3: דָּשֵׁן (dashen)  
 “To regard favorably.” Accept offering.
 
-v04: מִשְׁאָלָה (mish’alah)  
+v4: מִשְׁאָלָה (mish’alah)  
 “Desire.” Request.
 
-v05: רָנַן (ranan)  
+v5: רָנַן (ranan)  
 “To shout for joy.” Celebrate.
 
-v06: יָשַׁע (yasha)  
+v6: יָשַׁע (yasha)  
 “To save.” Deliver.
 
-v07: בָּטַח (batach)  
+v7: בָּטַח (batach)  
 “To trust.” Rely upon.
 
-v08: קוּם (qum)  
+v8: קוּם (qum)  
 “To rise.” Stand.
 
-v09: מֶלֶךְ (melekh)  
+v9: מֶלֶךְ (melekh)  
 “King.” Ruler.
