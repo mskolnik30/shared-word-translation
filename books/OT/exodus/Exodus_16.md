@@ -125,13 +125,13 @@ v35: The sons of Israel ate the manna forty years, until they came to a habitabl
 
 ## Notes
 
-v02–03: Grumbling reframes deliverance as loss. Memory is reshaped by hunger.
+v2–3: Grumbling reframes deliverance as loss. Memory is reshaped by hunger.
 
-v04: Provision is paired with testing. Obedience is structured into daily dependence.
+v4: Provision is paired with testing. Obedience is structured into daily dependence.
 
-v05: The sixth day introduces rhythm—anticipating Sabbath before Sinai legislation.
+v5: The sixth day introduces rhythm—anticipating Sabbath before Sinai legislation.
 
-v07–08: Complaint against leaders is reinterpreted as complaint against the LORD.
+v7–8: Complaint against leaders is reinterpreted as complaint against the LORD.
 
 v13–15: Manna is defined by ambiguity (“What is it?”). Naming emerges from encounter.
 
@@ -151,19 +151,19 @@ v35: Sustenance spans the wilderness period—provision is continuous, not episo
 
 ## Vocabulary
 
-v02: לוּן (lûn)  
+v2: לוּן (lûn)  
 
 “To grumble/murmur.” Complaint expressed collectively.
 
-v04: מָטַר (māṭar)  
+v4: מָטַר (māṭar)  
 
 “To rain.” To send down from above.
 
-v04: נָסָה (nāsāh)  
+v4: נָסָה (nāsāh)  
 
 “To test.” To prove or examine fidelity.
 
-v07: כָּבוֹד (kāḇôḏ)  
+v7: כָּבוֹד (kāḇôḏ)  
 
 “Glory.” Weighty presence, visible manifestation.
 
