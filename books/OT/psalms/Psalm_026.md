@@ -79,19 +79,19 @@ in the assembly I will bless the LORD.
 
 ## Notes
 
-v01: “Vindicate” frames the psalm as a legal appeal; integrity is presented as consistent conduct, not isolated action.
+v1: “Vindicate” frames the psalm as a legal appeal; integrity is presented as consistent conduct, not isolated action.
 
-v02: The speaker invites examination—inner life (heart and mind) is subject to divine testing.
+v2: The speaker invites examination—inner life (heart and mind) is subject to divine testing.
 
-v03: Ethical life is anchored in ḥesed and truth; perception (“before my eyes”) shapes behavior.
+v3: Ethical life is anchored in ḥesed and truth; perception (“before my eyes”) shapes behavior.
 
-v04–05: Refusal of association defines identity; “sit” signals settled belonging.
+v4–5: Refusal of association defines identity; “sit” signals settled belonging.
 
-v06–07: Ritual purity (washing hands) corresponds to public proclamation—worship is both enacted and voiced.
+v6–7: Ritual purity (washing hands) corresponds to public proclamation—worship is both enacted and voiced.
 
-v08: Love for the sanctuary reflects attachment to divine presence rather than structure alone.
+v8: Love for the sanctuary reflects attachment to divine presence rather than structure alone.
 
-v09–10: Judgment imagery (“sweep away”) contrasts the fate of the speaker with that of the corrupt.
+v9–10: Judgment imagery (“sweep away”) contrasts the fate of the speaker with that of the corrupt.
 
 v11: Integrity is maintained alongside dependence—redemption and grace are still required.
 
@@ -99,67 +99,67 @@ v12: Stability (“level ground”) culminates in communal praise.
 
 ## Vocabulary
 
-v01: שָׁפַט (šāpaṭ)  
+v1: שָׁפַט (šāpaṭ)  
 
 “To judge/vindicate.” To render a decision.
 
-v01: תֹּם (tōm)  
+v1: תֹּם (tōm)  
 
 “Integrity.” Wholeness, blamelessness.
 
-v01: בָּטַח (bāṭaḥ)  
+v1: בָּטַח (bāṭaḥ)  
 
 “To trust.” To rely securely.
 
-v02: בָּחַן (bāḥan)  
+v2: בָּחַן (bāḥan)  
 
 “To test.” To examine for quality.
 
-v02: צָרַף (ṣārap̄)  
+v2: צָרַף (ṣārap̄)  
 
 “To refine.” To test as metal.
 
-v02: לֵב (lēḇ)  
+v2: לֵב (lēḇ)  
 
 “Heart.” Inner will or center.
 
-v02: כִּלְיָה (kilyāh)  
+v2: כִּלְיָה (kilyāh)  
 
 “Mind/kidneys.” Inner seat of emotion.
 
-v03: חֶסֶד (ḥeseḏ)  
+v3: חֶסֶד (ḥeseḏ)  
 
 “Steadfast love.” Loyal covenant love.
 
-v03: אֱמֶת (ʾĕmeṯ)  
+v3: אֱמֶת (ʾĕmeṯ)  
 
 “Truth.” Reliability, faithfulness.
 
-v04: שָׁוְא (šāwʾ)  
+v4: שָׁוְא (šāwʾ)  
 
 “Falsehood.” Emptiness, deception.
 
-v05: קָהָל (qāhāl)  
+v5: קָהָל (qāhāl)  
 
 “Assembly.” Gathered group.
 
-v06: נִקָּיוֹן (niqqāyôn)  
+v6: נִקָּיוֹן (niqqāyôn)  
 
 “Innocence.” Cleanliness, purity.
 
-v07: תּוֹדָה (tôḏāh)  
+v7: תּוֹדָה (tôḏāh)  
 
 “Thanksgiving.” Expression of gratitude.
 
-v08: מָעוֹן (māʿôn)  
+v8: מָעוֹן (māʿôn)  
 
 “Dwelling.” Place of habitation.
 
-v08: כָּבוֹד (kāḇôḏ)  
+v8: כָּבוֹד (kāḇôḏ)  
 
 “Glory.” Weight, presence.
 
-v09: אָסַף (ʾāsap̄)  
+v9: אָסַף (ʾāsap̄)  
 
 “To gather/sweep away.” To remove together.
 
