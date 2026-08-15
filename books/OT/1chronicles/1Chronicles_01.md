@@ -177,9 +177,9 @@ v54: chief Magdiel, and chief Iram. These were the chiefs of Edom.
 </p>
 
 ## Notes
-v01–04: The genealogy begins with Adam and moves directly to Noah. Israel’s story is placed within the story of all humanity before it narrows to a particular family.
+v1–4: The genealogy begins with Adam and moves directly to Noah. Israel’s story is placed within the story of all humanity before it narrows to a particular family.
 
-v05–23: The descendants of Noah are organized by family lines and peoples. The chapter presents the nations as related branches of a common human ancestry.
+v5–23: The descendants of Noah are organized by family lines and peoples. The chapter presents the nations as related branches of a common human ancestry.
 
 v10: Nimrod receives a brief narrative note in the midst of the genealogy. His prominence is remembered, but the Chronicler resists expanding the story.
 
@@ -199,7 +199,7 @@ v51–54: The chapter closes with clan chiefs rather than kings. Leadership in E
 
 ## Vocabulary
 
-v01: אָדָם (adam)
+v1: אָדָם (adam)
 
 “Adam” or “human.” The name stands at the head of both humanity’s story and Israel’s genealogy.
 
