@@ -199,9 +199,9 @@ v44: and the rest on planks or on pieces from the ship. And so it happened that 
 
 ## Notes
 
-v03: Favorable treatment reflects changing perception of Paul.
+v3: Favorable treatment reflects changing perception of Paul.
 
-v09–10: Paul discerns danger before crisis unfolds.
+v9–10: Paul discerns danger before crisis unfolds.
 
 v11–12: Human judgment overrides prophetic warning.
 
@@ -219,15 +219,15 @@ v44: Complete survival fulfills divine promise.
 
 ## Vocabulary
 
-v01: Ἰταλία (Italia)
+v1: Ἰταλία (Italia)
 
 “Italy.”
 
-v03: φιλανθρώπως (philanthrōpōs)
+v3: φιλανθρώπως (philanthrōpōs)
 
 “Kindly.”
 
-v09: νηστεία (nēsteia)
+v9: νηστεία (nēsteia)
 
 “Fast.”
 
