@@ -131,9 +131,9 @@ v31: But he said to him, ‘If they do not hear Moses and the Prophets, neither 
 
 ## Notes
 
-v01–08: The steward is commended for shrewdness, not dishonesty; foresight is the focus.
+v1–8: The steward is commended for shrewdness, not dishonesty; foresight is the focus.
 
-v09: “Wealth of unrighteousness” is to be redirected toward eternal ends.
+v9: “Wealth of unrighteousness” is to be redirected toward eternal ends.
 
 v10–12: Faithfulness in small matters reveals character for greater trust.
 
@@ -161,19 +161,19 @@ v31: Refusal to hear Scripture anticipates refusal to believe resurrection.
 
 ## Vocabulary
 
-v01: οἰκονόμος (oikonomos)
+v1: οἰκονόμος (oikonomos)
 
 “Steward.”
 
-v03: αἰσχύνομαι (aischynomai)
+v3: αἰσχύνομαι (aischynomai)
 
 “To be ashamed.”
 
-v08: φρόνιμος (phronimos)
+v8: φρόνιμος (phronimos)
 
 “Shrewd, prudent.”
 
-v09: μαμωνᾶς (mamōnas)
+v9: μαμωνᾶς (mamōnas)
 
 “Wealth, money.”
 
