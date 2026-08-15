@@ -161,31 +161,31 @@ v35: The final petition introduces moral order into cosmic praise. The removal o
 v35: The psalm closes as it began, with personal summons to bless the LORD, now expanded into communal praise.
 
 ## Vocabulary
-v01: בָּרַךְ (barakh)
+v1: בָּרַךְ (barakh)
 “To bless.” To speak praise or invoke honor toward God.
 
-v01: הוֹד (hod)
+v1: הוֹד (hod)
 “Splendor” or “majesty.” Often associated with royal dignity.
 
-v02: אוֹר (ʾor)
+v2: אוֹר (ʾor)
 “Light.” A fundamental element of creation, here used as garment imagery.
 
-v02: נָטָה (natah)
+v2: נָטָה (natah)
 “To stretch out.” Used of extending the heavens.
 
-v03: עָלָה (ʿalah)
+v3: עָלָה (ʿalah)
 “To go up” or “to ascend.” Here in architectural imagery of upper chambers.
 
-v04: מַלְאָךְ (malʾakh)
+v4: מַלְאָךְ (malʾakh)
 “Messenger.” Can refer to agents, whether human or divine.
 
-v05: יָסַד (yasad)
+v5: יָסַד (yasad)
 “To found.” Establishing a stable base.
 
-v06: תְּהוֹם (tehom)
+v6: תְּהוֹם (tehom)
 “The deep.” The primeval waters associated with chaos.
 
-v07: גָּעַר (gaʿar)
+v7: גָּעַר (gaʿar)
 “To rebuke.” Often denotes divine command over chaotic forces.
 
 v10: שָׁלַח (shalach)
