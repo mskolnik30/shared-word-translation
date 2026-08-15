@@ -121,13 +121,13 @@ v28: And they stayed no little time with the disciples.
 
 ## Notes
 
-v01–02: Belief and opposition arise simultaneously.
+v1–2: Belief and opposition arise simultaneously.
 
-v03: Bold proclamation is accompanied by divine confirmation.
+v3: Bold proclamation is accompanied by divine confirmation.
 
-v04–07: Division leads to mission expansion.
+v4–7: Division leads to mission expansion.
 
-v08–10: Faith is recognized and responds to command.
+v8–10: Faith is recognized and responds to command.
 
 v11–13: Misinterpretation of power leads to idolatry.
 
@@ -145,23 +145,23 @@ v26–28: Mission report centers on God’s activity, not human achievement.
 
 ## Vocabulary
 
-v02: ἀπειθέω (apeitheō)
+v2: ἀπειθέω (apeitheō)
 
 “To disobey, refuse to believe.”
 
-v03: παρρησιάζομαι (parrēsiazomai)
+v3: παρρησιάζομαι (parrēsiazomai)
 
 “To speak boldly.”
 
-v05: ὑβρίζω (hybrizō)
+v5: ὑβρίζω (hybrizō)
 
 “To mistreat.”
 
-v07: εὐαγγελίζω (euangelizō)
+v7: εὐαγγελίζω (euangelizō)
 
 “To proclaim good news.”
 
-v09: πίστις (pistis)
+v9: πίστις (pistis)
 
 “Faith.”
 
