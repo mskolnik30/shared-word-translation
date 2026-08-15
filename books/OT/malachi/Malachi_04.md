@@ -50,56 +50,56 @@ with a decree of destruction.”
 </p>
 
 ## Notes
-v01: The final chapter contrasts the destinies of the wicked and those who fear the LORD.
-v01: Fire symbolizes God's decisive judgment against arrogance and evil.
-v01: “Neither root nor branch” portrays complete and irreversible destruction.
-v02: Those who fear God's name receive life, healing, and restoration rather than judgment.
-v02: The “sun of righteousness” depicts the dawning of God's saving rule and vindication.
-v02: The image of calves released from the stall conveys joy, freedom, and flourishing.
-v03: The righteous participate in God's final victory over evil.
-v04: The book closes by directing Israel back to the covenant instruction given through Moses.
-v04: Horeb is another name for Sinai, where Israel received the law.
-v05: Elijah represents the prophetic call to repentance before the coming day of the LORD.
-v05–06: The restoration of relationships serves as evidence of genuine covenant renewal.
-v06: The Old Testament concludes with both a warning of judgment and a promise of restoration.
-v06: The expectation of Elijah creates anticipation for God's future redemptive work.
+v1: The final chapter contrasts the destinies of the wicked and those who fear the LORD.
+v1: Fire symbolizes God's decisive judgment against arrogance and evil.
+v1: “Neither root nor branch” portrays complete and irreversible destruction.
+v2: Those who fear God's name receive life, healing, and restoration rather than judgment.
+v2: The “sun of righteousness” depicts the dawning of God's saving rule and vindication.
+v2: The image of calves released from the stall conveys joy, freedom, and flourishing.
+v3: The righteous participate in God's final victory over evil.
+v4: The book closes by directing Israel back to the covenant instruction given through Moses.
+v4: Horeb is another name for Sinai, where Israel received the law.
+v5: Elijah represents the prophetic call to repentance before the coming day of the LORD.
+v5–6: The restoration of relationships serves as evidence of genuine covenant renewal.
+v6: The Old Testament concludes with both a warning of judgment and a promise of restoration.
+v6: The expectation of Elijah creates anticipation for God's future redemptive work.
 
 ## Vocabulary
-v01: יוֹם (yôm)
+v1: יוֹם (yôm)
 “Day.” Here referring to the coming day of divine judgment.
 
-v01: תַּנּוּר (tannûr)
+v1: תַּנּוּר (tannûr)
 “Furnace” or “oven.” A picture of intense heat and consuming judgment.
 
-v01: קַשׁ (qaš)
+v1: קַשׁ (qaš)
 “Stubble.” Dry stalks easily consumed by fire.
 
-v02: יִרְאֵי שְׁמִי (yirʾê šĕmî)
+v2: יִרְאֵי שְׁמִי (yirʾê šĕmî)
 “Those who fear my name.” Those who reverence and honor God.
 
-v02: שֶׁמֶשׁ צְדָקָה (šemeš ṣĕḏāqâ)
+v2: שֶׁמֶשׁ צְדָקָה (šemeš ṣĕḏāqâ)
 “Sun of righteousness.” An image of God's righteous and healing deliverance.
 
-v02: מַרְפֵּא (marpēʾ)
+v2: מַרְפֵּא (marpēʾ)
 “Healing.” Restoration, health, and wholeness.
 
-v03: אֵפֶר (ʾēp̄er)
+v3: אֵפֶר (ʾēp̄er)
 “Ashes.” The remains of what has been consumed.
 
-v04: תּוֹרָה (tôrâ)
+v4: תּוֹרָה (tôrâ)
 “Law” or “instruction.” God's covenant teaching given through Moses.
 
-v04: חֹק וּמִשְׁפָּט (ḥōq ûmišpāṭ)
+v4: חֹק וּמִשְׁפָּט (ḥōq ûmišpāṭ)
 “Statute and judgment.” Covenant commands and legal rulings.
 
-v05: אֵלִיָּהוּ (ʾĒliyyāhû)
+v5: אֵלִיָּהוּ (ʾĒliyyāhû)
 “Elijah.” The prophet associated with covenant faithfulness and repentance.
 
-v05: יוֹם יְהוָה (yôm YHWH)
+v5: יוֹם יְהוָה (yôm YHWH)
 “Day of the LORD.” The climactic day of divine intervention, judgment, and salvation.
 
-v06: שׁוּב (šûḇ)
+v6: שׁוּב (šûḇ)
 “To turn.” To restore, return, or reconcile.
 
-v06: חֵרֶם (ḥērem)
+v6: חֵרֶם (ḥērem)
 “Decree of destruction.” Something devoted to judgment and removal.
