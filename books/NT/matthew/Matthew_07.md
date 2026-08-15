@@ -62,10 +62,10 @@ v29: for he was teaching them as one having authority, and not as their scribes.
 </p>
 
 ## Notes
-v01–02: Judgment is framed reflexively; the measure used returns upon the one who uses it.
-v03–05: The exaggerated imagery exposes moral blindness rather than offering technique.
-v06: Discernment remains necessary; prohibition of judgment is not indiscriminate openness.
-v07–11: Repetition reinforces persistence without reducing prayer to method.
+v1–2: Judgment is framed reflexively; the measure used returns upon the one who uses it.
+v3–5: The exaggerated imagery exposes moral blindness rather than offering technique.
+v6: Discernment remains necessary; prohibition of judgment is not indiscriminate openness.
+v7–11: Repetition reinforces persistence without reducing prayer to method.
 v12: The Law and the Prophets are gathered, not replaced.
 v13–14: The contrast is qualitative; the way of life is described as constrained rather than merely rare.
 v15–20: Fruit names observable outcome over time rather than immediate appearance.
@@ -73,10 +73,10 @@ v21–23: Confession and activity are insufficient apart from relationship.
 v24–27: The distinction lies in doing; both hear, only one acts.
 
 ## Vocabulary
-v01: κρίνω (krinō)
+v1: κρίνω (krinō)
 To judge; to evaluate or pronounce judgment, with scope left open by context.
 
-v06: ἅγιον (hagion)
+v6: ἅγιον (hagion)
 Holy; that which is set apart, without specification of kind.
 
 v13: ἀπώλεια (apōleia)
