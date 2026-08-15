@@ -50,14 +50,14 @@ v16: Abram was eighty-six years old when Hagar bore Ishmael to Abram.
 </p>
 
 ## Notes
-v01: Hagar is introduced primarily through her status as an Egyptian servant. The narrative highlights the social vulnerability that shapes the chapter.
-v02: Sarai interprets her barrenness through the LORD’s action and seeks a solution through customary practices of the ancient world.
-v02: Abram “listened to the voice of Sarai,” language that echoes earlier moments in Genesis and invites comparison.
-v04: Conception changes the relationship between Hagar and Sarai. The conflict emerges from shifting status and perception.
-v05–06: No character is presented as entirely innocent. The narrative portrays a tangled situation marked by pain, blame, and power.
-v06: Sarai’s harsh treatment drives Hagar into the wilderness, a place that becomes the setting for divine encounter.
-v07: Hagar is the first person in Scripture to receive an appearance from the angel of the LORD.
-v08: The questions “Where have you come from?” and “Where are you going?” invite reflection rather than merely seeking information.
+v1: Hagar is introduced primarily through her status as an Egyptian servant. The narrative highlights the social vulnerability that shapes the chapter.
+v2: Sarai interprets her barrenness through the LORD’s action and seeks a solution through customary practices of the ancient world.
+v2: Abram “listened to the voice of Sarai,” language that echoes earlier moments in Genesis and invites comparison.
+v4: Conception changes the relationship between Hagar and Sarai. The conflict emerges from shifting status and perception.
+v5–6: No character is presented as entirely innocent. The narrative portrays a tangled situation marked by pain, blame, and power.
+v6: Sarai’s harsh treatment drives Hagar into the wilderness, a place that becomes the setting for divine encounter.
+v7: Hagar is the first person in Scripture to receive an appearance from the angel of the LORD.
+v8: The questions “Where have you come from?” and “Where are you going?” invite reflection rather than merely seeking information.
 v10: The promise concerning Hagar’s offspring parallels aspects of the promises given to Abram.
 v11: Ishmael’s name means “God hears,” connecting his identity to the LORD’s attention to Hagar’s suffering.
 v12: The description of Ishmael portrays independence, conflict, and survival rather than simple blessing or curse.
@@ -65,19 +65,19 @@ v13: Hagar uniquely gives a name to God. The emphasis falls on divine sight and 
 v15–16: Abram names the child according to the message given to Hagar, confirming the significance of her encounter.
 
 ## Vocabulary
-v01: שִׁפְחָה (šipḥâ)
+v1: שִׁפְחָה (šipḥâ)
 “Servant” or “maidservant.” A female household servant of dependent social status.
 
-v02: בָּנָה (bānâ)
+v2: בָּנָה (bānâ)
 “To build.” In this context, “to be built up” refers to establishing a family through offspring.
 
-v04: קָלַל (qālal)
+v4: קָלַל (qālal)
 “To become insignificant” or “be lightly regarded.” The verb describes diminished honor or esteem.
 
-v06: עָנָה (ʿānâ)
+v6: עָנָה (ʿānâ)
 “To afflict,” “humble,” or “deal harshly with.” A term often associated with suffering imposed by another.
 
-v07: מַלְאַךְ יְהוָה (malʾaḵ YHWH)
+v7: מַלְאַךְ יְהוָה (malʾaḵ YHWH)
 “Angel of the LORD.” A messenger who speaks and acts with divine authority.
 
 v10: רָבָה (rāḇâ)
