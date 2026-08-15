@@ -35,53 +35,53 @@ v11: And I was told, “You must again prophesy about many peoples and nations a
 
 ## Notes
 
-v01: The angel’s description combines multiple symbolic elements without identifying the figure.
+v1: The angel’s description combines multiple symbolic elements without identifying the figure.
 
-v02: The open scroll contrasts with the sealed scroll of chapter 5.
+v2: The open scroll contrasts with the sealed scroll of chapter 5.
 
-v02: Placement on sea and land suggests total scope rather than division.
+v2: Placement on sea and land suggests total scope rather than division.
 
-v03: The voice is compared (“like a lion”) without equating identity.
+v3: The voice is compared (“like a lion”) without equating identity.
 
-v03–04: The seven thunders speak but are withheld; revelation is partial.
+v3–4: The seven thunders speak but are withheld; revelation is partial.
 
-v04: John is explicitly restrained from recording, preserving hidden content.
+v4: John is explicitly restrained from recording, preserving hidden content.
 
-v05–06: Oath language grounds authority in the creator rather than the messenger.
+v5–6: Oath language grounds authority in the creator rather than the messenger.
 
-v06: “No more delay” introduces urgency without specifying timeline.
+v6: “No more delay” introduces urgency without specifying timeline.
 
-v07: “Mystery of God” is announced as fulfillment, not explained.
+v7: “Mystery of God” is announced as fulfillment, not explained.
 
-v08–10: Eating the scroll internalizes the message; experience precedes proclamation.
+v8–10: Eating the scroll internalizes the message; experience precedes proclamation.
 
-v09–10: Sweetness and bitterness coexist, not resolved.
+v9–10: Sweetness and bitterness coexist, not resolved.
 
 v11: The commission extends outward (“peoples…nations…languages…kings”) without limitation.
 
 ## Vocabulary
 
-v01: ἄγγελος ἰσχυρός (angelos ischyros)
+v1: ἄγγελος ἰσχυρός (angelos ischyros)
 
 “Mighty angel.” A messenger marked by strength or authority.
 
-v02: βιβλαρίδιον (biblaridion)
+v2: βιβλαρίδιον (biblaridion)
 
 “Little scroll.” Diminutive form, distinct from the larger scroll earlier.
 
-v04: σφραγίζω (sphragizō)
+v4: σφραγίζω (sphragizō)
 
 “To seal.” To close or conceal from access.
 
-v06: χρόνος (chronos)
+v6: χρόνος (chronos)
 
 “Time” or “delay.” Context leaves nuance open.
 
-v07: μυστήριον (mystērion)
+v7: μυστήριον (mystērion)
 
 “Mystery.” Something revealed in part, not fully disclosed.
 
-v09: φάγε (phage)
+v9: φάγε (phage)
 
 “Eat.” Command to internalize rather than merely receive.
 
