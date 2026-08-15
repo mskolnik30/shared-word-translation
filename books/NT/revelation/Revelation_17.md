@@ -57,23 +57,23 @@ v18: And the woman that you saw is the great city that has dominion over the kin
 
 ## Notes
 
-v01: The vision is framed as judgment before explanation.
+v1: The vision is framed as judgment before explanation.
 
-v01–02: The woman’s influence is relational and pervasive.
+v1–2: The woman’s influence is relational and pervasive.
 
-v03: The setting shifts to wilderness, contrasting prior imagery.
+v3: The setting shifts to wilderness, contrasting prior imagery.
 
-v04: External adornment contrasts with internal corruption.
+v4: External adornment contrasts with internal corruption.
 
-v05: The name is presented as “mystery,” not resolved immediately.
+v5: The name is presented as “mystery,” not resolved immediately.
 
-v06: Violence is internalized; the woman is sustained by what she consumes.
+v6: Violence is internalized; the woman is sustained by what she consumes.
 
-v07: Interpretation is mediated; John is corrected rather than affirmed.
+v7: Interpretation is mediated; John is corrected rather than affirmed.
 
-v08: Temporal language (“was…is not…is to come”) is patterned but unresolved.
+v8: Temporal language (“was…is not…is to come”) is patterned but unresolved.
 
-v09–10: Symbols are partially interpreted; overlap is not resolved.
+v9–10: Symbols are partially interpreted; overlap is not resolved.
 
 v11: The sequence expands without clarifying structure.
 
@@ -93,31 +93,31 @@ v18: The woman is identified as a city, but meaning remains layered.
 
 ## Vocabulary
 
-v01: πόρνη (pornē)
+v1: πόρνη (pornē)
 
 “Prostitute.” Symbol of unfaithfulness or corruption.
 
-v02: πορνεία (porneia)
+v2: πορνεία (porneia)
 
 “Sexual immorality.” Used symbolically for relational unfaithfulness.
 
-v03: ἔρημος (erēmos)
+v3: ἔρημος (erēmos)
 
 “Wilderness.” Place of exposure or testing.
 
-v04: ποτήριον (potērion)
+v4: ποτήριον (potērion)
 
 “Cup.” Vessel containing what is offered or consumed.
 
-v05: μυστήριον (mystērion)
+v5: μυστήριον (mystērion)
 
 “Mystery.” Something revealed in part.
 
-v06: μεθύω (methyō)
+v6: μεθύω (methyō)
 
 “To be drunk.” State of excess or intoxication.
 
-v08: ἄβυσσος (abyssos)
+v8: ἄβυσσος (abyssos)
 
 “Abyss.” Place of confinement or origin.
 
