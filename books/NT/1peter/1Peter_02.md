@@ -1,5 +1,5 @@
 ---
-book: 1 Peter
+book: 1 peter
 testament: NT
 chapter: 2
 translation: TSW
@@ -64,52 +64,52 @@ v25: For you were straying like sheep, but have now returned to the shepherd and
 
 
 ## Notes
-v1: The vice list is comprehensive and communal; the focus is relational distortion rather than isolated acts.
-v2–3: Growth is framed as desire; nourishment is something to be longed for, not merely received.
-v4–5: The metaphor shifts from individual to collective—stones become a structure, identity becomes shared.
-v6–8: Scripture is layered to hold both assurance and stumbling without resolving the tension between them.
-v8: “Destined” is stated without elaboration, preserving ambiguity regarding divine purpose and human response.
-v9–10: Identity is described through contrast—what was and what is now—without detailing the process of change.
-v11: “Sojourners and exiles” frames ethical instruction within identity rather than circumstance alone.
-v12: Conduct functions as witness; perception by others becomes part of the theological horizon.
-v13–17: Submission is framed “for the Lord’s sake,” holding tension between divine allegiance and human authority.
-v18–20: The text distinguishes between suffering for wrongdoing and suffering for good, without denying the reality of injustice.
-v21: Christ’s suffering is both redemptive and exemplary, shaping both identity and conduct.
-v23: Non-retaliation is grounded in trust in divine judgment rather than passivity.
-v24: The language of bearing sins and healing is held together without systematizing atonement.
-v25: The return to the shepherd reframes identity as restoration rather than mere correction.
+v1: The vice list is comprehensive and communal; the focus is relational distortion rather than isolated acts.  
+v2–3: Growth is framed as desire; nourishment is something to be longed for, not merely received.  
+v4–5: The metaphor shifts from individual to collective—stones become a structure, identity becomes shared.  
+v6–8: Scripture is layered to hold both assurance and stumbling without resolving the tension between them.  
+v8: “Destined” is stated without elaboration, preserving ambiguity regarding divine purpose and human response.  
+v9–10: Identity is described through contrast—what was and what is now—without detailing the process of change.  
+v11: “Sojourners and exiles” frames ethical instruction within identity rather than circumstance alone.  
+v12: Conduct functions as witness; perception by others becomes part of the theological horizon.  
+v13–17: Submission is framed “for the Lord’s sake,” holding tension between divine allegiance and human authority.  
+v18–20: The text distinguishes between suffering for wrongdoing and suffering for good, without denying the reality of injustice.  
+v21: Christ’s suffering is both redemptive and exemplary, shaping both identity and conduct.  
+v23: Non-retaliation is grounded in trust in divine judgment rather than passivity.  
+v24: The language of bearing sins and healing is held together without systematizing atonement.  
+v25: The return to the shepherd reframes identity as restoration rather than mere correction.  
 
 
 ## Vocabulary
-v1: κακία (kakia)
-“Malice.” A disposition toward harm; relational hostility.
+v1: κακία (kakia)  
+“Malice.” A disposition toward harm; relational hostility.  
 
-v2: γάλα (gala)
-“Milk.” Symbol of nourishment appropriate for growth; here metaphorical.
+v2: γάλα (gala)  
+“Milk.” Symbol of nourishment appropriate for growth; here metaphorical.  
 
-v4: λίθος (lithos)
-“Stone.” Used both literally and metaphorically; central to the passage’s imagery.
+v4: λίθος (lithos)  
+“Stone.” Used both literally and metaphorically; central to the passage’s imagery.  
 
-v5: οἶκος πνευματικός (oikos pneumatikos)
-“Spiritual house.” A constructed community defined by divine presence.
+v5: οἶκος πνευματικός (oikos pneumatikos)  
+“Spiritual house.” A constructed community defined by divine presence.  
 
-v9: περιποίησις (peripoiēsis)
-“Possession.” Denotes belonging or acquisition, emphasizing identity.
+v9: περιποίησις (peripoiēsis)  
+“Possession.” Denotes belonging or acquisition, emphasizing identity.  
 
-v11: πάροικος (paroikos)
-“Sojourner.” One who lives alongside but does not fully belong.
+v11: πάροικος (paroikos)  
+“Sojourner.” One who lives alongside but does not fully belong.  
 
-v13: ὑποτάσσω (hypotassō)
-“To be subject.” Implies ordered relationship rather than absolute submission.
+v13: ὑποτάσσω (hypotassō)  
+“To be subject.” Implies ordered relationship rather than absolute submission.  
 
-v19: χάρις (charis)
-“Grace” or “favor.” Here associated with enduring suffering in awareness of God.
+v19: χάρις (charis)  
+“Grace” or “favor.” Here associated with enduring suffering in awareness of God.  
 
-v21: ὑπογραμμός (hypogrammos)
-“Example.” A pattern or model to be traced.
+v21: ὑπογραμμός (hypogrammos)  
+“Example.” A pattern or model to be traced.  
 
-v24: ἀναφέρω (anapherō)
-“To bear” or “carry up.” Often used in sacrificial contexts.
+v24: ἀναφέρω (anapherō)  
+“To bear” or “carry up.” Often used in sacrificial contexts.  
 
-v25: ἐπίσκοπος (episkopos)
-“Overseer.” One who watches over or cares for; paired with shepherd imagery.
+v25: ἐπίσκοπος (episkopos)  
+“Overseer.” One who watches over or cares for; paired with shepherd imagery.  
