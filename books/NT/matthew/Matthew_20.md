@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 20
 translation: TSW
@@ -120,7 +120,7 @@ v28: “Ransom” frames death as substitutionary and liberating.
 
 v30–31: Persistence overcomes social suppression; recognition precedes healing.  
 
-v34: Compassion leads to touch; healing results in following.
+v34: Compassion leads to touch; healing results in following.  
 
 ## Vocabulary
 
@@ -146,4 +146,4 @@ v28: λύτρον (*lytron*) — “Ransom.” Price paid for release.
 
 v30: ἐλέησον (*eleēson*) — “Have mercy.” Plea for compassionate action.  
 
-v34: σπλαγχνισθείς (*splanchnistheis*) — “Moved with compassion.” Deep emotional response.
+v34: σπλαγχνισθείς (*splanchnistheis*) — “Moved with compassion.” Deep emotional response.  
