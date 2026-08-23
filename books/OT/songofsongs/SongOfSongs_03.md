@@ -1,140 +1,140 @@
 ---
-book: Song of Songs
+book: song of songs
 testament: OT
 chapter: 3
 translation: TSW
 ---
 ## The Bride Seeks Her Beloved
 <p>
-v01: Upon my bed by night
-I sought him whom my soul loves.
-I sought him,
-but I did not find him.
+v01: Upon my bed by night  
+I sought him whom my soul loves.  
+I sought him,  
+but I did not find him.  
 </p>
 
 <p>
-v02: “I will arise now
-and go about the city,
-in the streets
-and in the squares.
-I will seek him
-whom my soul loves.”
-I sought him,
-but I did not find him.
+v02: “I will arise now  
+and go about the city,  
+in the streets  
+and in the squares.  
+I will seek him  
+whom my soul loves.”  
+I sought him,  
+but I did not find him.  
 </p>
 
 <p>
-v03: The watchmen found me
-as they went about in the city.
-“Have you seen him
-whom my soul loves?”
-v04: Scarcely had I passed them
-when I found him
-whom my soul loves.
-I held him
-and would not let him go
-until I had brought him
-into my mother's house,
-and into the chamber
-of her who conceived me.
+v03: The watchmen found me  
+as they went about in the city.  
+“Have you seen him  
+whom my soul loves?”  
+v04: Scarcely had I passed them  
+when I found him  
+whom my soul loves.  
+I held him  
+and would not let him go  
+until I had brought him  
+into my mother's house,  
+and into the chamber  
+of her who conceived me.  
 </p>
 
 <p>
-v05: I adjure you,
-O daughters of Jerusalem,
-by the gazelles
-or by the does of the field:
-do not stir up
-or awaken love
-until it pleases.
+v05: I adjure you,  
+O daughters of Jerusalem,  
+by the gazelles  
+or by the does of the field:  
+do not stir up  
+or awaken love  
+until it pleases.  
 </p>
 
 ## The Wedding Procession
 <p>
-v06: What is this
-coming up from the wilderness
-like columns of smoke,
-perfumed with myrrh and frankincense,
-with all the fragrant powders of a merchant?
+v06: What is this  
+coming up from the wilderness  
+like columns of smoke,  
+perfumed with myrrh and frankincense,  
+with all the fragrant powders of a merchant?  
 </p>
 
 <p>
-v07: Behold, it is Solomon's couch.
-Sixty mighty men surround it,
-of the mighty men of Israel,
-v08: all of them bearing swords
-and trained in war,
-each with his sword at his side,
-because of fear in the night.
+v07: Behold, it is Solomon's couch.  
+Sixty mighty men surround it,  
+of the mighty men of Israel,  
+v08: all of them bearing swords  
+and trained in war,  
+each with his sword at his side,  
+because of fear in the night.  
 </p>
 
 <p>
-v09: King Solomon made for himself
-a carriage
-from the wood of Lebanon.
-v10: He made its posts of silver,
-its back of gold,
-its seat of purple.
-Its interior was inlaid with love
-by the daughters of Jerusalem.
+v09: King Solomon made for himself  
+a carriage  
+from the wood of Lebanon.  
+v10: He made its posts of silver,  
+its back of gold,  
+its seat of purple.  
+Its interior was inlaid with love  
+by the daughters of Jerusalem.  
 </p>
 
 <p>
-v11: Go out, O daughters of Zion,
-and look upon King Solomon,
-with the crown
-with which his mother crowned him
-on the day of his wedding,
-on the day of the gladness of his heart.
+v11: Go out, O daughters of Zion,  
+and look upon King Solomon,  
+with the crown  
+with which his mother crowned him  
+on the day of his wedding,  
+on the day of the gladness of his heart.  
 </p>
 
 ## Notes
-v1–4: The bride's nighttime search portrays longing, separation, and the determination of love.
-v1–2: The repeated seeking and not finding heightens the emotional intensity of the scene.
-v3: The watchmen serve as witnesses to her search through the city.
-v4: The language shifts quickly from loss to joyful reunion.
-v4: Bringing the beloved into her mother's house reflects acceptance, intimacy, and familial blessing.
-v5: The recurring refrain emphasizes patience and proper timing in love.
-v6–11: The scene transitions from private longing to a public celebration associated with royal marriage.
-v6: Smoke, myrrh, and frankincense create imagery of splendor, honor, and festal procession.
-v7–8: The sixty warriors emphasize dignity, protection, and royal majesty.
-v9–10: The carriage displays wealth, beauty, and craftsmanship appropriate to a king.
-v11: The chapter culminates in a wedding image marked by joy and celebration.
-v11: The “gladness of his heart” highlights the delight of covenantal love.
+v1–4: The bride's nighttime search portrays longing, separation, and the determination of love.  
+v1–2: The repeated seeking and not finding heightens the emotional intensity of the scene.  
+v3: The watchmen serve as witnesses to her search through the city.  
+v4: The language shifts quickly from loss to joyful reunion.  
+v4: Bringing the beloved into her mother's house reflects acceptance, intimacy, and familial blessing.  
+v5: The recurring refrain emphasizes patience and proper timing in love.  
+v6–11: The scene transitions from private longing to a public celebration associated with royal marriage.  
+v6: Smoke, myrrh, and frankincense create imagery of splendor, honor, and festal procession.  
+v7–8: The sixty warriors emphasize dignity, protection, and royal majesty.  
+v9–10: The carriage displays wealth, beauty, and craftsmanship appropriate to a king.  
+v11: The chapter culminates in a wedding image marked by joy and celebration.  
+v11: The “gladness of his heart” highlights the delight of covenantal love.  
 
 ## Vocabulary
-v1: בַּקֵּשׁ (baqqēš)
-“To seek.” To search earnestly and persistently.
+v1: בַּקֵּשׁ (baqqēš)  
+“To seek.” To search earnestly and persistently.  
 
-v1: נֶפֶשׁ (nepeš)
-“Soul.” The whole inner self, including desire and affection.
+v1: נֶפֶשׁ (nepeš)  
+“Soul.” The whole inner self, including desire and affection.  
 
-v3: שֹׁמֵר (šōmēr)
-“Watchman.” One who guards and patrols a city.
+v3: שֹׁמֵר (šōmēr)  
+“Watchman.” One who guards and patrols a city.  
 
-v4: אָחַז (ʾāḥaz)
-“To hold fast.” To grasp firmly and not let go.
+v4: אָחַז (ʾāḥaz)  
+“To hold fast.” To grasp firmly and not let go.  
 
-v5: אַהֲבָה (ʾahăḇâ)
-“Love.” Deep affection, desire, and devotion.
+v5: אַהֲבָה (ʾahăḇâ)  
+“Love.” Deep affection, desire, and devotion.  
 
-v6: מֹר (mōr)
-“Myrrh.” A fragrant resin used in perfumes and ceremonial settings.
+v6: מֹר (mōr)  
+“Myrrh.” A fragrant resin used in perfumes and ceremonial settings.  
 
-v6: לְבוֹנָה (lĕḇônâ)
-“Frankincense.” An aromatic resin associated with worship and celebration.
+v6: לְבוֹנָה (lĕḇônâ)  
+“Frankincense.” An aromatic resin associated with worship and celebration.  
 
-v7: מִטָּה (miṭṭâ)
-“Couch” or “litter.” A portable seat or ceremonial conveyance.
+v7: מִטָּה (miṭṭâ)  
+“Couch” or “litter.” A portable seat or ceremonial conveyance.  
 
-v8: חֶרֶב (ḥereḇ)
-“Sword.” A weapon symbolizing protection and strength.
+v8: חֶרֶב (ḥereḇ)  
+“Sword.” A weapon symbolizing protection and strength.  
 
-v9: אַפִּרְיוֹן (ʾappiryôn)
-“Carriage” or “palanquin.” A royal conveyance used in processions.
+v9: אַפִּרְיוֹן (ʾappiryôn)  
+“Carriage” or “palanquin.” A royal conveyance used in processions.  
 
-v10: אַרְגָּמָן (ʾargāmān)
-“Purple.” A costly color associated with royalty and honor.
+v10: אַרְגָּמָן (ʾargāmān)  
+“Purple.” A costly color associated with royalty and honor.  
 
-v11: עֲטָרָה (ʿăṭārâ)
-“Crown.” A symbol of honor, celebration, and kingship.
+v11: עֲטָרָה (ʿăṭārâ)  
+“Crown.” A symbol of honor, celebration, and kingship.  
