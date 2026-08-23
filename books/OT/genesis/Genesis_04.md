@@ -98,7 +98,7 @@ v7: חַטָּאת (ḥaṭṭāʾt)
 “Sin.” Here sin is personified as something crouching and desiring mastery.  
 
 v7: רָבַץ (rāvaṣ)  
-“To crouch” or “lie down.” The verb gives sin an animal-like posture of readiness.  
+v7: “To crouch” or “lie down.” The verb gives sin an animal-like posture of readiness.  
 
 v10: דָּם (dām)  
 “Blood.” In this verse the plural form intensifies the image of bloodshed crying from the ground.  
