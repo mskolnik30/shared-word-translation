@@ -1,5 +1,5 @@
 ---
-book: Genesis
+book: genesis
 testament: OT
 chapter: 28
 translation: TSW
@@ -89,58 +89,58 @@ v16–17: Jacob’s recognition reframes ordinary space as sacred; awareness, no
 
 v18–19: The stone becomes a memorial marker, transforming a place of rest into a place of encounter.  
 
-v20–22: Jacob’s vow is conditional, reflecting a developing faith rather than settled trust.
+v20–22: Jacob’s vow is conditional, reflecting a developing faith rather than settled trust.  
 
 ## Vocabulary
 
 v3: פָּרָה (pārāh)  
 
-“To be fruitful.” Growth under divine blessing.  
+v3: “To be fruitful.” Growth under divine blessing.  
 
 v3: קָהָל (qāhāl)  
 
-“Assembly, company.” A gathered people with shared identity.  
+v3: “Assembly, company.” A gathered people with shared identity.  
 
 v4: בְּרָכָה (bᵉrāḵāh)  
 
-“Blessing.” Effective divine favor that shapes destiny.  
+v4: “Blessing.” Effective divine favor that shapes destiny.  
 
 v11: מָקוֹם (māqôm)  
 
-“Place.” Often a site of encounter with God.  
+v11: “Place.” Often a site of encounter with God.  
 
 v12: סֻלָּם (sullām)  
 
-“Stairway, ladder.” A structure linking realms.  
+v12: “Stairway, ladder.” A structure linking realms.  
 
 v13: נָתַן (nāṯan)  
 
-“To give.” Granting with authority.  
+v13: “To give.” Granting with authority.  
 
 v14: זֶרַע (zeraʿ)  
 
-“Offspring, seed.” Continuity of lineage and promise.  
+v14: “Offspring, seed.” Continuity of lineage and promise.  
 
 v15: שָׁמַר (šāmar)  
 
-“To keep, guard.” Protective oversight.  
+v15: “To keep, guard.” Protective oversight.  
 
 v17: יָרֵא (yārēʾ)  
 
-“To fear.” Awe-filled reverence in divine presence.  
+v17: “To fear.” Awe-filled reverence in divine presence.  
 
 v18: מַצֵּבָה (maṣṣēḇāh)  
 
-“Pillar.” Standing stone marking significance.  
+v18: “Pillar.” Standing stone marking significance.  
 
 v19: בֵּית־אֵל (Bêt-ʾēl)  
 
-“House of God.” Place identified with divine presence.  
+v19: “House of God.” Place identified with divine presence.  
 
 v20: נֶדֶר (neder)  
 
-“Vow.” A binding spoken commitment.  
+v20: “Vow.” A binding spoken commitment.  
 
 v22: מַעֲשֵׂר (maʿăśēr)  
 
-“Tithe.” A tenth given in acknowledgment of provision.  
+v22: “Tithe.” A tenth given in acknowledgment of provision.  
