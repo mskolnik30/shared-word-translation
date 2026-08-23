@@ -1,5 +1,5 @@
 ---
-book: John
+book: john
 testament: NT
 chapter: 10
 translation: TSW
@@ -78,49 +78,49 @@ v42: And many believed in him there.
 </p>
 
 ## Notes
-v1–5: The contrast between shepherd and intruder establishes legitimacy through relationship rather than force or access.
-v3: “Calls his own sheep by name” emphasizes particularity; belonging is not abstract but personal.
-v6: The narrative marks misunderstanding without resolving it, allowing the discourse to unfold interpretively.
-v7–9: “I am the door” reframes access—not merely guidance but entry itself is located in Jesus.
-v10: “Life in abundance” is qualitative, not merely extended duration.
-v11–15: The shepherd imagery intensifies into self-giving; knowledge and sacrifice are held together.
-v16: “Other sheep” expands the scope beyond the immediate audience without specifying boundaries.
-v17–18: Authority over life and death is presented as both given and enacted, holding divine commission and agency together.
-v19–21: Division arises not from obscurity alone but from competing interpretations of the same signs.
-v25–27: Belief is linked to recognition; hearing and following are relational, not merely cognitive.
-v28–29: Security is expressed through layered belonging—held in both the Son’s and the Father’s hand.
-v30: “I and the Father are one” is stated without elaboration, leaving its implications contested within the narrative.
-v34–36: Jesus appeals to Scripture to destabilize the charge of blasphemy without offering a direct doctrinal clarification.
-v37–38: Works function as interpretive evidence, though they do not compel belief.
-v40–42: The return beyond the Jordan recalls earlier testimony, linking present recognition to prior witness.
+v1–5: The contrast between shepherd and intruder establishes legitimacy through relationship rather than force or access.  
+v3: “Calls his own sheep by name” emphasizes particularity; belonging is not abstract but personal.  
+v6: The narrative marks misunderstanding without resolving it, allowing the discourse to unfold interpretively.  
+v7–9: “I am the door” reframes access—not merely guidance but entry itself is located in Jesus.  
+v10: “Life in abundance” is qualitative, not merely extended duration.  
+v11–15: The shepherd imagery intensifies into self-giving; knowledge and sacrifice are held together.  
+v16: “Other sheep” expands the scope beyond the immediate audience without specifying boundaries.  
+v17–18: Authority over life and death is presented as both given and enacted, holding divine commission and agency together.  
+v19–21: Division arises not from obscurity alone but from competing interpretations of the same signs.  
+v25–27: Belief is linked to recognition; hearing and following are relational, not merely cognitive.  
+v28–29: Security is expressed through layered belonging—held in both the Son’s and the Father’s hand.  
+v30: “I and the Father are one” is stated without elaboration, leaving its implications contested within the narrative.  
+v34–36: Jesus appeals to Scripture to destabilize the charge of blasphemy without offering a direct doctrinal clarification.  
+v37–38: Works function as interpretive evidence, though they do not compel belief.  
+v40–42: The return beyond the Jordan recalls earlier testimony, linking present recognition to prior witness.  
 
 ## Vocabulary
-v1: κλέπτης (kleptēs)
-“Thief.” One who takes secretly; contrasted with open, legitimate entry.
+v1: κλέπτης (kleptēs)  
+“Thief.” One who takes secretly; contrasted with open, legitimate entry.  
 
-v3: φωνή (phōnē)
-“Voice.” Carries recognition and authority; relational rather than merely auditory.
+v3: φωνή (phōnē)  
+“Voice.” Carries recognition and authority; relational rather than merely auditory.  
 
-v9: θύρα (thyra)
-“Door.” A point of access and transition; here metaphorically central.
+v9: θύρα (thyra)  
+“Door.” A point of access and transition; here metaphorically central.  
 
-v10: ζωή (zōē)
-“Life.” In John, often denotes life as participation in God, not mere existence.
+v10: ζωή (zōē)  
+“Life.” In John, often denotes life as participation in God, not mere existence.  
 
-v11: καλός (kalos)
-“Good.” Connotes nobility, beauty, and fittingness—not only moral goodness.
+v11: καλός (kalos)  
+“Good.” Connotes nobility, beauty, and fittingness—not only moral goodness.  
 
-v15: γινώσκω (ginōskō)
-“To know.” Indicates relational, experiential knowledge.
+v15: γινώσκω (ginōskō)  
+“To know.” Indicates relational, experiential knowledge.  
 
-v18: ἐξουσία (exousia)
-“Authority.” The capacity to act with legitimacy and power.
+v18: ἐξουσία (exousia)  
+“Authority.” The capacity to act with legitimacy and power.  
 
-v27: ἀκολουθέω (akoloutheō)
-“To follow.” Implies ongoing allegiance and movement, not a single decision.
+v27: ἀκολουθέω (akoloutheō)  
+“To follow.” Implies ongoing allegiance and movement, not a single decision.  
 
-v28: ἁρπάζω (harpazō)
-“To snatch.” Suggests forceful removal; negated here to emphasize security.
+v28: ἁρπάζω (harpazō)  
+“To snatch.” Suggests forceful removal; negated here to emphasize security.  
 
-v30: ἕν (hen)
-“One.” Unity without specification of form, leaving the nature of oneness open within the text.
+v30: ἕν (hen)  
+“One.” Unity without specification of form, leaving the nature of oneness open within the text.  
