@@ -1,5 +1,5 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 30
 translation: TSW
