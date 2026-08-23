@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 23
 translation: TSW
@@ -138,7 +138,7 @@ v37: Lament combines judgment with unrealized desire for restoration.
 
 v38: “House” likely temple; abandonment signals covenantal rupture.  
 
-v39: Future recognition framed in liturgical language (Ps 118).
+v39: Future recognition framed in liturgical language (Ps 118).  
 
 ## Vocabulary
 
@@ -174,4 +174,4 @@ v37: ἐπισυνάξαι (*episynaxai*) — “Gather together.” Collect int
 
 v38: ἔρημος (*erēmos*) — “Desolate.” Abandoned, uninhabited.  
 
-v39: εὐλογημένος (*eulogēmenos*) — “Blessed.” One receiving divine favor.
+v39: εὐλογημένος (*eulogēmenos*) — “Blessed.” One receiving divine favor.  
