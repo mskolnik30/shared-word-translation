@@ -8,227 +8,227 @@ translation: TSW
 # 1 Chronicles 7
 
 <p>
-v01:
-The sons of Issachar: Tola, Puah, Jashub, and Shimron—four.
+v01:  
+The sons of Issachar: Tola, Puah, Jashub, and Shimron—four.  
 </p>
 
 <p>
-v02:
-The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Samuel, heads of their ancestral houses of Tola, warriors of strength. Their number in the days of David, by their generations, was twenty-two thousand six hundred.
+v02:  
+The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Samuel, heads of their ancestral houses of Tola, warriors of strength. Their number in the days of David, by their generations, was twenty-two thousand six hundred.  
 </p>
 
 <p>
-v03:
-The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel, and Isshiah—five, all of them heads.
+v03:  
+The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel, and Isshiah—five, all of them heads.  
 </p>
 
 <p>
-v04:
-Along with them, by their generations and their ancestral houses, were divisions of an army for war: thirty-six thousand, for they had many wives and children.
+v04:  
+Along with them, by their generations and their ancestral houses, were divisions of an army for war: thirty-six thousand, for they had many wives and children.  
 </p>
 
 <p>
-v05:
-Their kindred among all the clans of Issachar were warriors of strength: eighty-seven thousand, enrolled in all.
+v05:  
+Their kindred among all the clans of Issachar were warriors of strength: eighty-seven thousand, enrolled in all.  
 </p>
 
 <p>
-v06:
-Benjamin: Bela, Becher, and Jediael—three.
+v06:  
+Benjamin: Bela, Becher, and Jediael—three.  
 </p>
 
 <p>
-v07:
-The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri—five, heads of ancestral houses, warriors of strength. Their genealogical enrollment was twenty-two thousand thirty-four.
+v07:  
+The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth, and Iri—five, heads of ancestral houses, warriors of strength. Their genealogical enrollment was twenty-two thousand thirty-four.  
 </p>
 
 <p>
-v08:
-The sons of Becher: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth. All these were sons of Becher.
+v08:  
+The sons of Becher: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth. All these were sons of Becher.  
 </p>
 
 <p>
-v09:
-Their genealogical enrollment, by their generations, listed twenty thousand two hundred heads of ancestral houses, warriors of strength.
+v09:  
+Their genealogical enrollment, by their generations, listed twenty thousand two hundred heads of ancestral houses, warriors of strength.  
 </p>
 
 <p>
-v10:
-The sons of Jediael: Bilhan. The sons of Bilhan: Jeush, Benjamin, Ehud, Kenaanah, Zethan, Tarshish, and Ahishahar.
+v10:  
+The sons of Jediael: Bilhan. The sons of Bilhan: Jeush, Benjamin, Ehud, Kenaanah, Zethan, Tarshish, and Ahishahar.  
 </p>
 
 <p>
-v11:
-All these were sons of Jediael, heads of ancestral houses, warriors of strength—seventeen thousand two hundred able to go out to war.
+v11:  
+All these were sons of Jediael, heads of ancestral houses, warriors of strength—seventeen thousand two hundred able to go out to war.  
 </p>
 
 <p>
-v12:
-Shuppim and Huppim were sons of Ir; Hushim was the son of Aher.
+v12:  
+Shuppim and Huppim were sons of Ir; Hushim was the son of Aher.  
 </p>
 
 <p>
-v13:
-The sons of Naphtali: Jahziel, Guni, Jezer, and Shallum, sons of Bilhah.
+v13:  
+The sons of Naphtali: Jahziel, Guni, Jezer, and Shallum, sons of Bilhah.  
 </p>
 
 <p>
-v14:
-The sons of Manasseh: Asriel, whom his Aramean concubine bore. She bore Machir, the father of Gilead.
+v14:  
+The sons of Manasseh: Asriel, whom his Aramean concubine bore. She bore Machir, the father of Gilead.  
 </p>
 
 <p>
-v15:
-Machir took a wife for Huppim and Shuppim; the name of his sister was Maacah. The name of the second was Zelophehad, and Zelophehad had daughters.
+v15:  
+Machir took a wife for Huppim and Shuppim; the name of his sister was Maacah. The name of the second was Zelophehad, and Zelophehad had daughters.  
 </p>
 
 <p>
-v16:
-Maacah, the wife of Machir, bore a son, and she named him Peresh. The name of his brother was Sheresh, and his sons were Ulam and Rekem.
+v16:  
+Maacah, the wife of Machir, bore a son, and she named him Peresh. The name of his brother was Sheresh, and his sons were Ulam and Rekem.  
 </p>
 
 <p>
-v17:
-The son of Ulam: Bedan. These were the sons of Gilead, son of Machir, son of Manasseh.
+v17:  
+The son of Ulam: Bedan. These were the sons of Gilead, son of Machir, son of Manasseh.  
 </p>
 
 <p>
-v18:
-His sister Hammoleketh bore Ishhod, Abiezer, and Mahlah.
+v18:  
+His sister Hammoleketh bore Ishhod, Abiezer, and Mahlah.  
 </p>
 
 <p>
-v19:
-The sons of Shemida were Ahian, Shechem, Likhi, and Aniam.
+v19:  
+The sons of Shemida were Ahian, Shechem, Likhi, and Aniam.  
 </p>
 
 <p>
-v20:
-The sons of Ephraim: Shuthelah, Bered his son, Tahath his son, Eleadah his son, Tahath his son,
+v20:  
+The sons of Ephraim: Shuthelah, Bered his son, Tahath his son, Eleadah his son, Tahath his son,  
 </p>
 
 <p>
-v21:
-Zabad his son, Shuthelah his son, and Ezer and Elead. The men of Gath who were born in the land killed them, because they went down to take their livestock.
+v21:  
+Zabad his son, Shuthelah his son, and Ezer and Elead. The men of Gath who were born in the land killed them, because they went down to take their livestock.  
 </p>
 
 <p>
-v22:
-Ephraim their father mourned many days, and his kindred came to comfort him.
+v22:  
+Ephraim their father mourned many days, and his kindred came to comfort him.  
 </p>
 
 <p>
-v23:
-Then he went in to his wife, and she conceived and bore a son. He named him Beriah, because calamity had come upon his house.
+v23:  
+Then he went in to his wife, and she conceived and bore a son. He named him Beriah, because calamity had come upon his house.  
 </p>
 
 <p>
-v24:
-His daughter was Sheerah. She built Lower Beth-horon and Upper Beth-horon, and Uzzen-sheerah.
+v24:  
+His daughter was Sheerah. She built Lower Beth-horon and Upper Beth-horon, and Uzzen-sheerah.  
 </p>
 
 <p>
-v25:
-Rephah was his son, Resheph, Telah his son, Tahan his son,
+v25:  
+Rephah was his son, Resheph, Telah his son, Tahan his son,  
 </p>
 
 <p>
-v26:
-Ladan his son, Ammihud his son, Elishama his son,
+v26:  
+Ladan his son, Ammihud his son, Elishama his son,  
 </p>
 
 <p>
-v27:
-Nun his son, Joshua his son.
+v27:  
+Nun his son, Joshua his son.  
 </p>
 
 <p>
-v28:
-Their possession and their settlements were Bethel and its villages; eastward, Naaran; westward, Gezer and its villages; Shechem and its villages as far as Ayyah and its villages.
+v28:  
+Their possession and their settlements were Bethel and its villages; eastward, Naaran; westward, Gezer and its villages; Shechem and its villages as far as Ayyah and its villages.  
 </p>
 
 <p>
-v29:
-Along the border of the sons of Manasseh were Beth-shean and its villages, Taanach and its villages, Megiddo and its villages, and Dor and its villages. In these the sons of Joseph, son of Israel, lived.
+v29:  
+Along the border of the sons of Manasseh were Beth-shean and its villages, Taanach and its villages, Megiddo and its villages, and Dor and its villages. In these the sons of Joseph, son of Israel, lived.  
 </p>
 
 <p>
-v30:
-The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, and Serah their sister.
+v30:  
+The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, and Serah their sister.  
 </p>
 
 <p>
-v31:
-The sons of Beriah: Heber and Malchiel; he was the father of Birzaith.
+v31:  
+The sons of Beriah: Heber and Malchiel; he was the father of Birzaith.  
 </p>
 
 <p>
-v32:
-Heber fathered Japhlet, Shomer, Hotham, and Shua their sister.
+v32:  
+Heber fathered Japhlet, Shomer, Hotham, and Shua their sister.  
 </p>
 
 <p>
-v33:
-The sons of Japhlet: Pasach, Bimhal, and Ashvath. These were the sons of Japhlet.
+v33:  
+The sons of Japhlet: Pasach, Bimhal, and Ashvath. These were the sons of Japhlet.  
 </p>
 
 <p>
-v34:
-The sons of Shemer: Ahi, Rohgah, Hubbah, and Aram.
+v34:  
+The sons of Shemer: Ahi, Rohgah, Hubbah, and Aram.  
 </p>
 
 <p>
-v35:
-The sons of Helem his brother: Zophah, Imna, Shelesh, and Amal.
+v35:  
+The sons of Helem his brother: Zophah, Imna, Shelesh, and Amal.  
 </p>
 
 <p>
-v36:
-The sons of Zophah: Suah, Harnepher, Shual, Beri, and Imrah;
+v36:  
+The sons of Zophah: Suah, Harnepher, Shual, Beri, and Imrah;  
 </p>
 
 <p>
-v37:
-Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.
+v37:  
+Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.  
 </p>
 
 <p>
-v38:
-The sons of Jether: Jephunneh, Pispa, and Ara.
+v38:  
+The sons of Jether: Jephunneh, Pispa, and Ara.  
 </p>
 
 <p>
-v39:
-The sons of Ulla: Arah, Hanniel, and Rizia.
+v39:  
+The sons of Ulla: Arah, Hanniel, and Rizia.  
 </p>
 
 <p>
-v40:
-All these were sons of Asher, heads of ancestral houses, chosen warriors of strength, and heads among the leaders. Their genealogical enrollment for the army in war numbered twenty-six thousand men.
+v40:  
+All these were sons of Asher, heads of ancestral houses, chosen warriors of strength, and heads among the leaders. Their genealogical enrollment for the army in war numbered twenty-six thousand men.  
 </p>
 
 ## Notes
 
-- **7:1** The written form of Jashub’s name differs from its traditional reading. The translation follows the reading indicated by the received Hebrew tradition.
+- **7:1** The written form of Jashub’s name differs from its traditional reading. The translation follows the reading indicated by the received Hebrew tradition.  
 
-- **7:4–5** The repeated military totals are tied to genealogical households. In this chapter, family identity, population, and capacity for defense are closely joined.
+- **7:4–5** The repeated military totals are tied to genealogical households. In this chapter, family identity, population, and capacity for defense are closely joined.  
 
-- **7:14–19** The genealogy of Manasseh contains compressed and at points difficult family relationships. The text preserves names and connections without fully explaining every generational link.
+- **7:14–19** The genealogy of Manasseh contains compressed and at points difficult family relationships. The text preserves names and connections without fully explaining every generational link.  
 
-- **7:21–23** The account of Ephraim’s sons interrupts the genealogy with violence, mourning, comfort, and the birth of Beriah. His name is linked with the calamity that came upon Ephraim’s household.
+- **7:21–23** The account of Ephraim’s sons interrupts the genealogy with violence, mourning, comfort, and the birth of Beriah. His name is linked with the calamity that came upon Ephraim’s household.  
 
-- **7:24** Sheerah is remembered not merely within a genealogy but as a builder of towns. Her appearance gives unusual prominence to a woman’s constructive role within the tribal record.
+- **7:24** Sheerah is remembered not merely within a genealogy but as a builder of towns. Her appearance gives unusual prominence to a woman’s constructive role within the tribal record.  
 
-- **7:28–29** “Villages” refers to dependent settlements surrounding a principal town. The list portrays the inhabited territory associated with Ephraim and Manasseh, the tribes descended from Joseph.
+- **7:28–29** “Villages” refers to dependent settlements surrounding a principal town. The list portrays the inhabited territory associated with Ephraim and Manasseh, the tribes descended from Joseph.  
 
 ## Vocabulary
 
-- **7:2 — תּוֹלְדוֹת (*toledot*)**: “generations” or “family records.” Here it organizes Tola’s descendants as a recognized ancestral line and provides the framework for the military count.
+- **7:2 — תּוֹלְדוֹת (*toledot*)**: “generations” or “family records.” Here it organizes Tola’s descendants as a recognized ancestral line and provides the framework for the military count.  
 
-- **7:2 — גִּבּוֹרֵי חַיִל (*gibbore chayil*)**: “warriors of strength.” The expression denotes capable, valiant fighting men and recurs throughout the chapter as an honorific for tribal households.
+- **7:2 — גִּבּוֹרֵי חַיִל (*gibbore chayil*)**: “warriors of strength.” The expression denotes capable, valiant fighting men and recurs throughout the chapter as an honorific for tribal households.  
 
-- **7:5 — הִתְיַחֵשׂ (*hityaches*)**: “to enroll by genealogy.” The term describes formal registration according to family descent, linking belonging within Israel to a recorded lineage.
+- **7:5 — הִתְיַחֵשׂ (*hityaches*)**: “to enroll by genealogy.” The term describes formal registration according to family descent, linking belonging within Israel to a recorded lineage.  
 
-- **7:28 — אֲחֻזָּה (*achuzzah*)**: “possession” or “holding.” It refers to land held as an inherited territorial claim, not simply a place of residence.
+- **7:28 — אֲחֻזָּה (*achuzzah*)**: “possession” or “holding.” It refers to land held as an inherited territorial claim, not simply a place of residence.  
 
-- **7:40 — בְּרוּרִים (*berurim*)**: “chosen” or “selected.” The Asherites are presented as distinguished warriors and leading household heads, set apart within the tribal register.
+- **7:40 — בְּרוּרִים (*berurim*)**: “chosen” or “selected.” The Asherites are presented as distinguished warriors and leading household heads, set apart within the tribal register.  
