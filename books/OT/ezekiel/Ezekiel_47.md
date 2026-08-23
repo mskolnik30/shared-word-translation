@@ -1,151 +1,133 @@
 ---
-book: Ezekiel
+book: ezekiel
 testament: OT
 chapter: 47
 translation: TSW
 ---
 
-v01:
 <p>
-He brought me back to the entrance of the house, and there—water was flowing out from beneath the threshold of the house toward the east, for the front of the house faced east. The water was flowing down from beneath the south side of the house, south of the altar.
-</p>
+v01:  
+He brought me back to the entrance of the house, and there—water was flowing out from beneath the threshold of the house toward the east, for the front of the house faced east. The water was flowing down from beneath the south side of the house, south of the altar.  
 
-v02:
+v02:  
+He brought me out by way of the north gate and led me around outside to the outer gate that faces east. There—the water was trickling out from the south side.  
+
+</p>
 <p>
-He brought me out by way of the north gate and led me around outside to the outer gate that faces east. There—the water was trickling out from the south side.
-</p>
+v03:  
+As the man went out eastward with a measuring line in his hand, he measured a thousand cubits and led me through the water—water up to the ankles.  
 
-v03:
+v04:  
+He measured another thousand and led me through the water—water up to the knees. He measured another thousand and led me through—water up to the waist.  
+
+v05:  
+He measured another thousand: a river that I could not cross, for the water had risen—water deep enough to swim in, a river that could not be crossed.  
+
+</p>
 <p>
-As the man went out eastward with a measuring line in his hand, he measured a thousand cubits and led me through the water—water up to the ankles.
-</p>
+v06:  
+He said to me, “Have you seen this, mortal?” Then he led me and brought me back to the bank of the river.  
 
-v04:
+v07:  
+When I returned, there—on the bank of the river—were very many trees, on this side and on that side.  
+
+</p>
 <p>
-He measured another thousand and led me through the water—water up to the knees. He measured another thousand and led me through—water up to the waist.
-</p>
+v08:  
+He said to me, “These waters flow out toward the eastern region and go down into the Arabah. They enter the sea, the sea where the waters flow out, and the waters are healed.  
 
-v05:
+v09:  
+“Every living creature that swarms wherever the streams go will live. There will be very many fish, because these waters go there and are healed. Everything will live wherever the river goes.  
+
+v10:  
+“Fishers will stand beside it, from En-gedi as far as En-eglaim. It will be a place for spreading nets. Its fish will be of many kinds, like the fish of the Great Sea—very many.  
+
+v11:  
+“But its swamps and marshes will not be healed; they are given over to salt.  
+
+v12:  
+“On both banks of the river every kind of food tree will grow. Its leaves will not wither, and its fruit will not fail. Every month it will bear first fruit, because its water flows from the sanctuary. Its fruit will be for food, and its leaves for healing.”  
+
+</p>
 <p>
-He measured another thousand: a river that I could not cross, for the water had risen—water deep enough to swim in, a river that could not be crossed.
-</p>
+v13:  
+Thus says the Lord GOD: “This is the boundary by which you are to receive the land as an inheritance for the twelve tribes of Israel. Joseph shall have two portions.  
 
-v06:
+v14:  
+You shall inherit it, each one like another, the land that I raised my hand to give to your ancestors; this land shall fall to you as an inheritance.  
+
+</p>
 <p>
-He said to me, “Have you seen this, mortal?” Then he led me and brought me back to the bank of the river.
-</p>
+v15:  
+“This is the boundary of the land on the north side: from the Great Sea by way of Hethlon, toward Lebo-hamath, Zedad,  
 
-v07:
+v16:  
+Hamath, Berothah, Sibraim, which lies between the boundary of Damascus and the boundary of Hamath, and Hazer-hattikon, which is toward the boundary of Hauran.  
+
+v17:  
+The boundary shall run from the sea to Hazar-enan, along the boundary of Damascus, with the boundary of Hamath to the north. This is the north side.  
+
+</p>
 <p>
-When I returned, there—on the bank of the river—were very many trees, on this side and on that side.
-</p>
+v18:  
+“The east side shall run between Hauran and Damascus, between Gilead and the land of Israel, along the Jordan, from the northern boundary to the eastern sea. You shall measure this as the east side.  
 
-v08:
+</p>
 <p>
-He said to me, “These waters flow out toward the eastern region and go down into the Arabah. They enter the sea, the sea where the waters flow out, and the waters are healed.
-</p>
+v19:  
+“The south side, toward the south, shall run from Tamar to the waters of Meriboth-kadesh, then along the wadi to the Great Sea. This is the south side toward the south.  
 
-v09:
+</p>
 <p>
-“Every living creature that swarms wherever the streams go will live. There will be very many fish, because these waters go there and are healed. Everything will live wherever the river goes.
-</p>
+v20:  
+“The west side shall be the Great Sea, from the southern boundary to opposite Lebo-hamath. This is the west side.  
 
-v10:
+</p>
 <p>
-“Fishers will stand beside it, from En-gedi as far as En-eglaim. It will be a place for spreading nets. Its fish will be of many kinds, like the fish of the Great Sea—very many.
-</p>
+v21:  
+“You shall divide this land among yourselves according to the tribes of Israel.  
 
-v11:
+</p>
 <p>
-“But its swamps and marshes will not be healed; they are given over to salt.
-</p>
+v22:  
+You shall assign it by lot as an inheritance for yourselves and for the sojourners who reside among you and who have borne children among you. They shall be to you as native-born Israelites; with you they shall receive an inheritance by lot among the tribes of Israel.  
 
-v12:
-<p>
-“On both banks of the river every kind of food tree will grow. Its leaves will not wither, and its fruit will not fail. Every month it will bear first fruit, because its water flows from the sanctuary. Its fruit will be for food, and its leaves for healing.”
-</p>
+v23:  
+In whatever tribe the sojourner resides, there you shall give that person an inheritance,” declares the Lord GOD.  
 
-v13:
-<p>
-Thus says the Lord GOD: “This is the boundary by which you are to receive the land as an inheritance for the twelve tribes of Israel. Joseph shall have two portions.
 </p>
-
-v14:
-<p>
-You shall inherit it, each one like another, the land that I raised my hand to give to your ancestors; this land shall fall to you as an inheritance.
-</p>
-
-v15:
-<p>
-“This is the boundary of the land on the north side: from the Great Sea by way of Hethlon, toward Lebo-hamath, Zedad,
-</p>
-
-v16:
-<p>
-Hamath, Berothah, Sibraim, which lies between the boundary of Damascus and the boundary of Hamath, and Hazer-hattikon, which is toward the boundary of Hauran.
-</p>
-
-v17:
-<p>
-The boundary shall run from the sea to Hazar-enan, along the boundary of Damascus, with the boundary of Hamath to the north. This is the north side.
-</p>
-
-v18:
-<p>
-“The east side shall run between Hauran and Damascus, between Gilead and the land of Israel, along the Jordan, from the northern boundary to the eastern sea. You shall measure this as the east side.
-</p>
-
-v19:
-<p>
-“The south side, toward the south, shall run from Tamar to the waters of Meriboth-kadesh, then along the wadi to the Great Sea. This is the south side toward the south.
-</p>
-
-v20:
-<p>
-“The west side shall be the Great Sea, from the southern boundary to opposite Lebo-hamath. This is the west side.
-</p>
-
-v21:
-<p>
-“You shall divide this land among yourselves according to the tribes of Israel.
-</p>
-
-v22:
-<p>
-You shall assign it by lot as an inheritance for yourselves and for the sojourners who reside among you and who have borne children among you. They shall be to you as native-born Israelites; with you they shall receive an inheritance by lot among the tribes of Israel.
-</p>
-
-v23:
-<p>
-In whatever tribe the sojourner resides, there you shall give that person an inheritance,” declares the Lord GOD.
-</p>
-
 ## Notes
 
-- **47:1–2** The water comes from the temple itself, flowing eastward from the area south of the altar. The vision joins the sanctuary’s ordered worship with life flowing outward beyond it.
+v1–2: **47:1–2** The water comes from the temple itself, flowing eastward from the area south of the altar. The vision joins the sanctuary’s ordered worship with life flowing outward beyond it.  
 
-- **47:5** The measured water becomes a river that cannot be crossed. The repeated measurements emphasize both its steady increase and the prophet’s inability to master or contain it.
+v5: **47:5** The measured water becomes a river that cannot be crossed. The repeated measurements emphasize both its steady increase and the prophet’s inability to master or contain it.  
 
-- **47:8–9** “The sea where the waters flow out” is a difficult expression. It likely refers to the salt sea in the eastern region, but the wording keeps attention on the river’s life-giving arrival: waters that receive this flow are healed.
+v8–9: **47:8–9** “The sea where the waters flow out” is a difficult expression. It likely refers to the salt sea in the eastern region, but the wording keeps attention on the river’s life-giving arrival: waters that receive this flow are healed.  
 
-- **47:10** The Hebrew textual tradition preserves two forms of the opening verb, both meaning “stand.” The sense is that fishers will stand along the healed sea to spread their nets.
+v10: **47:10** The Hebrew textual tradition preserves two forms of the opening verb, both meaning “stand.” The sense is that fishers will stand along the healed sea to spread their nets.  
 
-- **47:11** Not every place is healed. The marshes and swamps remain “given over to salt,” preserving a stark limit within a vision otherwise marked by abundant renewal.
+v11: **47:11** Not every place is healed. The marshes and swamps remain “given over to salt,” preserving a stark limit within a vision otherwise marked by abundant renewal.  
 
-- **47:13–14** The land is described as an inheritance grounded in God’s sworn promise to the ancestors. “Joseph shall have two portions” recalls the distinctive double tribal inheritance associated with Ephraim and Manasseh.
+v13–14: **47:13–14** The land is described as an inheritance grounded in God’s sworn promise to the ancestors. “Joseph shall have two portions” recalls the distinctive double tribal inheritance associated with Ephraim and Manasseh.  
 
-- **47:22–23** Resident sojourners who live among Israel and have families there are to receive an inheritance within the tribes. The passage extends full landholding status to people who are not native-born while locating them concretely within Israel’s shared life.
+v22–23: **47:22–23** Resident sojourners who live among Israel and have families there are to receive an inheritance within the tribes. The passage extends full landholding status to people who are not native-born while locating them concretely within Israel’s shared life.  
 
 ## Vocabulary
 
-- **v5: נַחַל (*naḥal*)** — “river” or “wadi.” Here it names the growing, uncrossable stream flowing from the temple, in contrast to a seasonal or limited channel.
+v5: נַחַל (*naḥal*)  
+— “river” or “wadi.” Here it names the growing, uncrossable stream flowing from the temple, in contrast to a seasonal or limited channel.  
 
-- **v8: רָפָא (*raphaʾ*)** — “to heal.” The waters are healed, and the verb frames the river’s effect as restoration from death-bearing salinity to life.
+v8: רָפָא (*raphaʾ*)  
+v8: — “to heal.” The waters are healed, and the verb frames the river’s effect as restoration from death-bearing salinity to life.  
 
-- **v9: נֶפֶשׁ חַיָּה (*nephesh ḥayyah*)** — “living creature.” The phrase evokes animate life in its fullness; the river causes creatures wherever it reaches to live.
+v9: נֶפֶשׁ חַיָּה (*nephesh ḥayyah*)  
+— “living creature.” The phrase evokes animate life in its fullness; the river causes creatures wherever it reaches to live.  
 
-- **v13: נָחַל (*naḥal*)** — “to receive as an inheritance.” The land is not merely territory to occupy but a gift apportioned among the tribes.
+v13: נָחַל (*naḥal*)  
+— “to receive as an inheritance.” The land is not merely territory to occupy but a gift apportioned among the tribes.  
 
-- **v22: גֵּר (*ger*)** — “sojourner” or resident foreigner. In this passage, sojourners residing among Israel are included in the distribution of inheritance.
+v22: גֵּר (*ger*)  
+— “sojourner” or resident foreigner. In this passage, sojourners residing among Israel are included in the distribution of inheritance.  
 
-- **v22: נַחֲלָה (*naḥalah*)** — “inheritance.” The term connects land, belonging, and God’s gift; here it is expressly shared with resident sojourners.
+v22: נַחֲלָה (*naḥalah*)  
+— “inheritance.” The term connects land, belonging, and God’s gift; here it is expressly shared with resident sojourners.  
