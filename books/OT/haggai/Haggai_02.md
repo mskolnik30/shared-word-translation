@@ -201,7 +201,7 @@ v7: חֶמְדַּת (ḥemdaṯ)
 “Treasure” or “desirable things.” Valued wealth brought from the nations.  
 
 v9: שָׁלוֹם (šālôm)  
-“Peace.” Wholeness, well-being, and covenant blessing.  
+v9: “Peace.” Wholeness, well-being, and covenant blessing.  
 
 v12: קֹדֶשׁ (qōḏeš)  
 “Holy.” Set apart for God and his purposes.  
