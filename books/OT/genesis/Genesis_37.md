@@ -1,5 +1,5 @@
 ---
-book: Genesis
+book: genesis
 testament: OT
 chapter: 37
 translation: TSW
@@ -166,74 +166,74 @@ v31–33: Deception mirrors earlier family patterns (Jacob and Isaac), reinforci
 
 v34–35: Mourning is prolonged and unresolved; Jacob refuses consolation.  
 
-v36: The narrative pivots toward Egypt, setting the stage for reversal.
+v36: The narrative pivots toward Egypt, setting the stage for reversal.  
 
 ## Vocabulary
 
 v2: דִּבָּה (dibbāh)  
 
-“Report, rumor.” Often with negative connotation.  
+v2: “Report, rumor.” Often with negative connotation.  
 
 v3: כְּתֹנֶת (kᵉṯōneṯ)  
 
-“Robe, tunic.” Garment marking identity or status.  
+v3: “Robe, tunic.” Garment marking identity or status.  
 
 v4: שָׂנֵא (śānēʾ)  
 
-“To hate.” Rejection that fractures relationship.  
+v4: “To hate.” Rejection that fractures relationship.  
 
 v5: חֲלוֹם (ḥălôm)  
 
-“Dream.” Medium of divine or symbolic communication.  
+v5: “Dream.” Medium of divine or symbolic communication.  
 
 v8: מָלַךְ (mālaḵ)  
 
-“To reign.” Exercise of royal authority.  
+v8: “To reign.” Exercise of royal authority.  
 
 v10: גָּעַר (gāʿar)  
 
-“To rebuke.” Verbal correction or restraint.  
+v10: “To rebuke.” Verbal correction or restraint.  
 
 v11: קָנָא (qānāʾ)  
 
-“To be jealous.” Emotional intensity tied to comparison.  
+v11: “To be jealous.” Emotional intensity tied to comparison.  
 
 v18: נָכַל (nāḵal)  
 
-“To conspire.” Plan with deceptive intent.  
+v18: “To conspire.” Plan with deceptive intent.  
 
 v20: בּוֹר (bôr)  
 
-“Pit, cistern.” Place of confinement or abandonment.  
+v20: “Pit, cistern.” Place of confinement or abandonment.  
 
 v22: דָּם (dām)  
 
-“Blood.” Life-force; marker of violence or guilt.  
+v22: “Blood.” Life-force; marker of violence or guilt.  
 
 v25: שְׂאֵת (śeʾēṯ)  
 
-“Load, cargo.” Goods carried for trade.  
+v25: “Load, cargo.” Goods carried for trade.  
 
 v26: בֶּצַע (beṣaʿ)  
 
-“Profit, gain.” Motivation framed economically.  
+v26: “Profit, gain.” Motivation framed economically.  
 
 v28: כֶּסֶף (keseph)  
 
-“Silver.” Medium of exchange; valuation.  
+v28: “Silver.” Medium of exchange; valuation.  
 
 v29: קָרַע (qāraʿ)  
 
-“To tear.” Gesture of grief.  
+v29: “To tear.” Gesture of grief.  
 
 v34: שַׂק (śaq)  
 
-“Sackcloth.” Garment of mourning or distress.  
+v34: “Sackcloth.” Garment of mourning or distress.  
 
 v35: שְׁאוֹל (šᵉʾôl)  
 
-“Sheol.” Realm of the dead.  
+v35: “Sheol.” Realm of the dead.  
 
 v36: סָרִיס (sārîs)  
 
-“Official.” Court functionary with authority.  
+v36: “Official.” Court functionary with authority.  
