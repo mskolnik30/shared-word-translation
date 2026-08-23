@@ -1,5 +1,5 @@
 ---
-book: Acts
+book: acts
 testament: NT
 chapter: 28
 translation: TSW
@@ -9,25 +9,25 @@ translation: TSW
 
 <p>
 
-v01: And after we had been brought safely through, then we learned that the island was called Malta.
+v01: And after we had been brought safely through, then we learned that the island was called Malta.  
 
-v02: And the natives were showing us unusual kindness, for they kindled a fire and welcomed us all because of the rain that had set in and because of the cold.
-
-</p>
-
-<p>
-
-v03: But when Paul had gathered a bundle of sticks and placed them on the fire, a viper came out because of the heat and fastened itself on his hand.
-
-v04: And when the natives saw the creature hanging from his hand, they were saying to one another, “No doubt this man is a murderer, whom, though he has been saved from the sea, Justice has not allowed to live.”
+v02: And the natives were showing us unusual kindness, for they kindled a fire and welcomed us all because of the rain that had set in and because of the cold.  
 
 </p>
 
 <p>
 
-v05: But he shook off the creature into the fire and suffered no harm.
+v03: But when Paul had gathered a bundle of sticks and placed them on the fire, a viper came out because of the heat and fastened itself on his hand.  
 
-v06: And they were expecting him to swell or suddenly fall down dead; but after waiting a long time and seeing nothing unusual happening to him, they changed their minds and were saying that he was a god.
+v04: And when the natives saw the creature hanging from his hand, they were saying to one another, “No doubt this man is a murderer, whom, though he has been saved from the sea, Justice has not allowed to live.”  
+
+</p>
+
+<p>
+
+v05: But he shook off the creature into the fire and suffered no harm.  
+
+v06: And they were expecting him to swell or suddenly fall down dead; but after waiting a long time and seeing nothing unusual happening to him, they changed their minds and were saying that he was a god.  
 
 </p>
 
@@ -35,17 +35,17 @@ v06: And they were expecting him to swell or suddenly fall down dead; but after 
 
 <p>
 
-v07: Now in the region around that place were lands belonging to the chief man of the island, named Publius, who received us and entertained us hospitably for three days.
+v07: Now in the region around that place were lands belonging to the chief man of the island, named Publius, who received us and entertained us hospitably for three days.  
 
-v08: And it happened that the father of Publius was lying sick with fever and dysentery; and Paul went in to him, and praying and laying his hands on him, he healed him.
+v08: And it happened that the father of Publius was lying sick with fever and dysentery; and Paul went in to him, and praying and laying his hands on him, he healed him.  
 
 </p>
 
 <p>
 
-v09: And when this had taken place, the rest of those on the island who had diseases were coming and being healed,
+v09: And when this had taken place, the rest of those on the island who had diseases were coming and being healed,  
 
-v10: who also honored us with many honors, and when we were about to sail, they provided what we needed.
+v10: who also honored us with many honors, and when we were about to sail, they provided what we needed.  
 
 </p>
 
@@ -53,25 +53,25 @@ v10: who also honored us with many honors, and when we were about to sail, they 
 
 <p>
 
-v11: And after three months we set sail in a ship of Alexandria that had wintered in the island, with the Twin Gods as figurehead.
+v11: And after three months we set sail in a ship of Alexandria that had wintered in the island, with the Twin Gods as figurehead.  
 
-v12: And putting in at Syracuse, we stayed there three days,
+v12: And putting in at Syracuse, we stayed there three days,  
 
-v13: and from there we made a circuit and arrived at Rhegium; and after one day a south wind sprang up, and on the second day we came to Puteoli,
-
-</p>
-
-<p>
-
-v14: where, finding brothers, we were urged to remain with them seven days. And so we came to Rome.
-
-v15: And from there the brothers, when they heard about us, came to meet us as far as the Forum of Appius and Three Taverns; when Paul saw them, he thanked God and took courage.
+v13: and from there we made a circuit and arrived at Rhegium; and after one day a south wind sprang up, and on the second day we came to Puteoli,  
 
 </p>
 
 <p>
 
-v16: And when we entered into Rome, Paul was allowed to stay by himself with the soldier guarding him.
+v14: where, finding brothers, we were urged to remain with them seven days. And so we came to Rome.  
+
+v15: And from there the brothers, when they heard about us, came to meet us as far as the Forum of Appius and Three Taverns; when Paul saw them, he thanked God and took courage.  
+
+</p>
+
+<p>
+
+v16: And when we entered into Rome, Paul was allowed to stay by himself with the soldier guarding him.  
 
 </p>
 
@@ -79,180 +79,180 @@ v16: And when we entered into Rome, Paul was allowed to stay by himself with the
 
 <p>
 
-v17: And it happened that after three days he called together those who were the leading men of the Jews; and when they had gathered, he said to them,
+v17: And it happened that after three days he called together those who were the leading men of the Jews; and when they had gathered, he said to them,  
 
-“Men, brothers, though I had done nothing against the people or the customs of our fathers, yet I was delivered as a prisoner from Jerusalem into the hands of the Romans,
-
-</p>
-
-<p>
-
-v18: who, after examining me, were wanting to release me, because there was no cause of death in me.
-
-v19: But when the Jews spoke against it, I was compelled to appeal to Caesar, not that I have any charge to bring against my nation.
+“Men, brothers, though I had done nothing against the people or the customs of our fathers, yet I was delivered as a prisoner from Jerusalem into the hands of the Romans,  
 
 </p>
 
 <p>
 
-v20: For this reason therefore I have asked to see you and to speak with you, since it is because of the hope of Israel that I am wearing this chain.”
+v18: who, after examining me, were wanting to release me, because there was no cause of death in me.  
+
+v19: But when the Jews spoke against it, I was compelled to appeal to Caesar, not that I have any charge to bring against my nation.  
 
 </p>
 
 <p>
 
-v21: And they said to him, “We have received no letters about you from Judea, nor has any of the brothers come here and reported or spoken anything bad about you.
-
-v22: But we desire to hear from you what you think, for concerning this sect it is known to us that everywhere it is spoken against.”
+v20: For this reason therefore I have asked to see you and to speak with you, since it is because of the hope of Israel that I am wearing this chain.”  
 
 </p>
 
 <p>
 
-v23: And when they had appointed a day for him, they came to him at his lodging in greater numbers, to whom he was explaining, solemnly testifying about the kingdom of God and persuading them concerning Jesus both from the Law of Moses and from the Prophets, from morning until evening.
+v21: And they said to him, “We have received no letters about you from Judea, nor has any of the brothers come here and reported or spoken anything bad about you.  
+
+v22: But we desire to hear from you what you think, for concerning this sect it is known to us that everywhere it is spoken against.”  
 
 </p>
 
 <p>
 
-v24: And some were being persuaded by the things that were spoken, but others were not believing.
-
-v25: And being in disagreement with one another, they began to depart after Paul had spoken one word:
+v23: And when they had appointed a day for him, they came to him at his lodging in greater numbers, to whom he was explaining, solemnly testifying about the kingdom of God and persuading them concerning Jesus both from the Law of Moses and from the Prophets, from morning until evening.  
 
 </p>
 
 <p>
 
-“The Holy Spirit rightly spoke through Isaiah the prophet to your fathers,
+v24: And some were being persuaded by the things that were spoken, but others were not believing.  
 
-v26: saying,
-
-‘Go to this people and say,
-
-You will indeed hear but never understand,
-
-and you will indeed see but never perceive;
+v25: And being in disagreement with one another, they began to depart after Paul had spoken one word:  
 
 </p>
 
 <p>
 
-v27: for the heart of this people has become dull,
+“The Holy Spirit rightly spoke through Isaiah the prophet to your fathers,  
 
-and with their ears they barely hear,
+v26: saying,  
 
-and their eyes they have closed,
+‘Go to this people and say,  
 
-lest they should see with their eyes
+You will indeed hear but never understand,  
 
-and hear with their ears
-
-and understand with their heart
-
-and turn, and I would heal them.’
+and you will indeed see but never perceive;  
 
 </p>
 
 <p>
 
-v28: Therefore let it be known to you that this salvation of God has been sent to the Gentiles; they will listen.”
+v27: for the heart of this people has become dull,  
+
+and with their ears they barely hear,  
+
+and their eyes they have closed,  
+
+lest they should see with their eyes  
+
+and hear with their ears  
+
+and understand with their heart  
+
+and turn, and I would heal them.’  
 
 </p>
 
 <p>
 
-v30: And he stayed two whole years in his own rented lodging and was welcoming all those who were coming to him,
+v28: Therefore let it be known to you that this salvation of God has been sent to the Gentiles; they will listen.”  
 
-v31: proclaiming the kingdom of God and teaching the things concerning the Lord Jesus Christ with all boldness, without hindrance.
+</p>
+
+<p>
+
+v30: And he stayed two whole years in his own rented lodging and was welcoming all those who were coming to him,  
+
+v31: proclaiming the kingdom of God and teaching the things concerning the Lord Jesus Christ with all boldness, without hindrance.  
 
 </p>
 
 ## Notes
 
-v1–2: Deliverance leads to provision and hospitality.
+v1–2: Deliverance leads to provision and hospitality.  
 
-v3–6: Divine protection reverses human judgment.
+v3–6: Divine protection reverses human judgment.  
 
-v7–10: Healing ministry continues in new context.
+v7–10: Healing ministry continues in new context.  
 
-v14–16: Arrival in Rome fulfills narrative trajectory.
+v14–16: Arrival in Rome fulfills narrative trajectory.  
 
-v17–20: Paul frames his situation within Israel’s hope.
+v17–20: Paul frames his situation within Israel’s hope.  
 
-v21–22: Christianity is widely opposed yet not formally defined.
+v21–22: Christianity is widely opposed yet not formally defined.  
 
-v23: Scripture remains the foundation for persuasion.
+v23: Scripture remains the foundation for persuasion.  
 
-v24–25: Division persists in response to the message.
+v24–25: Division persists in response to the message.  
 
-v26–27: Isaiah explains persistent unbelief.
+v26–27: Isaiah explains persistent unbelief.  
 
-v28: Mission focus shifts decisively to Gentiles.
+v28: Mission focus shifts decisively to Gentiles.  
 
-v30–31: Narrative concludes with unhindered proclamation.
+v30–31: Narrative concludes with unhindered proclamation.  
 
 ## Vocabulary
 
-v2: φιλανθρωπία (philanthrōpia)
+v2: φιλανθρωπία (philanthrōpia)  
 
-“Kindness.”
+v2: “Kindness.”  
 
-v3: ἔχιδνα (echidna)
+v3: ἔχιδνα (echidna)  
 
-“Viper.”
+v3: “Viper.”  
 
-v4: δίκη (dikē)
+v4: δίκη (dikē)  
 
-“Justice.”
+v4: “Justice.”  
 
-v5: ἀποτινάσσω (apotinassō)
+v5: ἀποτινάσσω (apotinassō)  
 
-“To shake off.”
+v5: “To shake off.”  
 
-v7: πρῶτος (prōtos)
+v7: πρῶτος (prōtos)  
 
-“Chief.”
+v7: “Chief.”  
 
-v8: πυρετός (pyretos)
+v8: πυρετός (pyretos)  
 
-“Fever.”
+v8: “Fever.”  
 
-v9: θεραπεύω (therapeuō)
+v9: θεραπεύω (therapeuō)  
 
-“To heal.”
+v9: “To heal.”  
 
-v11: Διόσκουροι (Dioskouroi)
+v11: Διόσκουροι (Dioskouroi)  
 
-“Twin Gods.”
+v11: “Twin Gods.”  
 
-v14: ἀπαντάω (apantaō)
+v14: ἀπαντάω (apantaō)  
 
-“To meet.”
+v15: “To meet.”  
 
-v15: θαρσέω (tharseō)
+v15: θαρσέω (tharseō)  
 
-“To take courage.”
+v15: “To take courage.”  
 
-v16: δεσμώτης (desmōtēs)
+v16: δεσμώτης (desmōtēs)  
 
-“Prisoner.”
+v17: “Prisoner.”  
 
-v20: ἅλυσις (halysis)
+v20: ἅλυσις (halysis)  
 
-“Chain.”
+v20: “Chain.”  
 
-v23: πείθω (peithō)
+v23: πείθω (peithō)  
 
-“To persuade.”
+v23: “To persuade.”  
 
-v25: ἀσύμφωνος (asymphōnos)
+v25: ἀσύμφωνος (asymphōnos)  
 
-“In disagreement.”
+v25: “In disagreement.”  
 
-v28: σωτήριον (sōtērion)
+v28: σωτήριον (sōtērion)  
 
-“Salvation.”
+v28: “Salvation.”  
 
-v31: ἀκωλύτως (akōlytōs)
+v31: ἀκωλύτως (akōlytōs)  
 
-“Without hindrance.”
+v31: “Without hindrance.”  
