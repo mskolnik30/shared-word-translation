@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 9
 translation: TSW
@@ -171,7 +171,7 @@ v34: Opposition attributes divine action to demonic source, intensifying conflic
 
 v36: Compassion is grounded in perception; the crowd is described relationally, not statistically.  
 
-v37–38: The harvest metaphor frames mission as participation in divine initiative rather than human expansion.
+v37–38: The harvest metaphor frames mission as participation in divine initiative rather than human expansion.  
 
 ## Vocabulary
 
@@ -201,4 +201,4 @@ v33: θαυμάζω (*thaumazō*) — “To marvel.” Reaction without full und
 
 v36: σπλαγχνίζομαι (*splagchnizomai*) — “To have compassion.” Deep, visceral response.  
 
-v37: θερισμός (*therismos*) — “Harvest.” Image of readiness and gathering.
+v37: θερισμός (*therismos*) — “Harvest.” Image of readiness and gathering.  
