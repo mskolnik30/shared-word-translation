@@ -94,7 +94,7 @@ v10: אָחַז (ʾāḥaz)
 “To acquire” or “gain possession.” Used here regarding settlement and property.  
 
 v12: מֹהַר (mōhar)  
-“Bride-price.” Payment associated with marriage arrangements.  
+v12: “Bride-price.” Payment associated with marriage arrangements.  
 
 v13: מִרְמָה (mirmâ)  
 “Deceit” or “treachery.” Deliberate deception for personal advantage.  
