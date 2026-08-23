@@ -77,7 +77,7 @@ v29: Perez becomes a significant ancestor in the lineage that eventually leads t
 
 ## Vocabulary
 v8: יָבַם (yāḇam)  
-“To perform the duty of a brother-in-law.” To raise offspring for a deceased brother through marriage to his widow.  
+v8: “To perform the duty of a brother-in-law.” To raise offspring for a deceased brother through marriage to his widow.  
 
 v9: זֶרַע (zeraʿ)  
 “Offspring” or “seed.” A central Genesis theme involving descendants and inheritance.  
