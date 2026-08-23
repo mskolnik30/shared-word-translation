@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 8
 translation: TSW
@@ -146,7 +146,7 @@ v26: “Little faith” names insufficiency, not absence. Fear and trust are hel
 
 v29: Recognition of Jesus’ identity precedes human confession; timing (“before the time”) remains significant.  
 
-v34: The response of the city is rejection. Power does not compel welcome.
+v34: The response of the city is rejection. Power does not compel welcome.  
 
 ## Vocabulary
 
@@ -154,7 +154,7 @@ v2: λεπρός (*lepros*) — “Leper.” A condition of exclusion as much as
 
 v3: καθαρίζω (*katharizō*) — “To cleanse.” Ritual and physical senses overlap.  
 
-v8: ἐξουσία (*exousia*) — “Authority.” The right or power to command.  
+v9: ἐξουσία (*exousia*) — “Authority.” The right or power to command.  
 
 v10: πίστις (*pistis*) — “Faith.” Trust expressed through recognition of authority.  
 
@@ -172,4 +172,4 @@ v22: νεκρός (*nekros*) — “Dead.” Literal and figurative senses remai
 
 v26: ὀλιγόπιστος (*oligopistos*) — “Of little faith.” Insufficient trust, not its absence.  
 
-v29: καιρός (*kairos*) — “Appointed time.” Decisive moment rather than chronological sequence.
+v29: καιρός (*kairos*) — “Appointed time.” Decisive moment rather than chronological sequence.  
