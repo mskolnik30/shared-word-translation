@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 15
 translation: TSW
@@ -160,7 +160,7 @@ v19: διαλογισμοί (*dialogismoi*) — “Thoughts,” “reasonings.�
 
 v22: ἐλέησόν (*eleēson*) — “Have mercy.” Appeal for compassionate action.  
 
-v26: κυνάρια (*kynaria*) — “Dogs” (diminutive). Household animals, not wild scavengers.  
+v27: κυνάρια (*kynaria*) — “Dogs” (diminutive). Household animals, not wild scavengers.  
 
 v28: πίστις (*pistis*) — “Faith.” Trust expressed through action and persistence.  
 
@@ -170,4 +170,4 @@ v32: σπλαγχνίζομαι (*splanchnizomai*) — “Have compassion.” De
 
 v36: εὐχαριστήσας (*eucharistēsas*) — “Having given thanks.” Expression of gratitude before provision.  
 
-v37: σπυρίδες (*spyrides*) — “Large baskets.” Distinct from earlier smaller baskets.
+v37: σπυρίδες (*spyrides*) — “Large baskets.” Distinct from earlier smaller baskets.  
