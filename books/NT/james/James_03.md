@@ -1,5 +1,5 @@
 ---
-book: James
+book: james
 testament: NT
 chapter: 3
 translation: TSW
@@ -78,48 +78,48 @@ v18: Outcome is relational; righteousness grows within peace.
 
 v5: γλῶσσα (glōssa)
 
-“Tongue.” Instrument of speech.
+v5: “Tongue.” Instrument of speech.
 
 v6: κόσμος (kosmos)
 
-“World.” Ordered system, here of unrighteousness.
+v6: “World.” Ordered system, here of unrighteousness.
 
 v6: γέεννα (geenna)
 
-“Hell.” Place associated with judgment.
+v6: “Hell.” Place associated with judgment.
 
 v8: ἀκατάστατος (akatastatos)
 
-“Restless.” Unstable or unsettled.
+v8: “Restless.” Unstable or unsettled.
 
 v9: εἰκών (eikōn)
 
-“Likeness.” Representation or image.
+v9: “Likeness.” Representation or image.
 
 v13: σοφία (sophia)
 
-“Wisdom.” Skill in living rightly.
+v13: “Wisdom.” Skill in living rightly.
 
 v14: ζῆλος (zēlos)
 
-“Jealousy.” Intense desire or rivalry.
+v14: “Jealousy.” Intense desire or rivalry.
 
 v14: ἐριθεία (eritheia)
 
-“Selfish ambition.” Self-seeking pursuit.
+v14: “Selfish ambition.” Self-seeking pursuit.
 
 v15: ψυχικός (psychikos)
 
-“Unspiritual.” Governed by natural life.
+v15: “Unspiritual.” Governed by natural life.
 
 v16: ἀκαταστασία (akatastasia)
 
-“Disorder.” Instability or confusion.
+v16: “Disorder.” Instability or confusion.
 
 v17: εἰρηνικός (eirēnikos)
 
-“Peaceable.” Inclined toward peace.
+v17: “Peaceable.” Inclined toward peace.
 
 v18: καρπός (karpos)
 
-“Harvest” or “fruit.” Result or outcome.
+v18: “Harvest” or “fruit.” Result or outcome.
