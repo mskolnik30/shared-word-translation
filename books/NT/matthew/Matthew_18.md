@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 18
 translation: TSW
@@ -136,7 +136,7 @@ v28–30: Contrast exposes inconsistency between received mercy and enacted judg
 
 v33: Mercy becomes expectation once received; ethical reciprocity.  
 
-v35: Forgiveness must be internal (“from your heart”), not procedural.
+v35: Forgiveness must be internal (“from your heart”), not procedural.  
 
 ## Vocabulary
 
@@ -170,4 +170,4 @@ v27: σπλαγχνισθείς (*splanchnistheis*) — “Moved with compassion
 
 v33: ἐλεέω (*eleeō*) — “Have mercy.” Show compassion in action.  
 
-v35: καρδία (*kardia*) — “Heart.” Inner source of intention and action.
+v35: καρδία (*kardia*) — “Heart.” Inner source of intention and action.  
