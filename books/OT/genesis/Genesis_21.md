@@ -1,5 +1,5 @@
 ---
-book: Genesis
+book: genesis
 testament: OT
 chapter: 21
 translation: TSW
@@ -148,42 +148,42 @@ v19: The opened eyes motif emphasizes provision already present but unseen.
 
 v31: Beersheba connects oath (שבע) and “seven,” reinforcing covenant symbolism.  
 
-v33: “Everlasting God” (El Olam) marks a theological expansion beyond immediate promise.
+v33: “Everlasting God” (El Olam) marks a theological expansion beyond immediate promise.  
 
 ## Vocabulary
 
 v1: פָּקַד (pāqad)  
 
-“To visit.” Often denotes divine intervention to fulfill promise.  
+v1: “To visit.” Often denotes divine intervention to fulfill promise.  
 
 v6: צָחַק (ṣāḥaq)  
 
-“To laugh.” Expresses joy, irony, or tension depending on context.  
+v6: “To laugh.” Expresses joy, irony, or tension depending on context.  
 
 v10: גָּרַשׁ (gāraš)  
 
-“To drive out, expel.” Used for decisive separation.  
+v10: “To drive out, expel.” Used for decisive separation.  
 
 v12: זֶרַע (zeraʿ)  
 
-“Seed, offspring.” Central covenant term for lineage.  
+v12: “Seed, offspring.” Central covenant term for lineage.  
 
 v17: שָׁמַע (šāmaʿ)  
 
-“To hear.” Often implies responsive action.  
+v17: “To hear.” Often implies responsive action.  
 
 v19: בְּאֵר (beʾēr)  
 
-“Well.” Source of life in wilderness settings.  
+v19: “Well.” Source of life in wilderness settings.  
 
 v23: חֶסֶד (ḥesed)  
 
-“Steadfast love, loyalty.” Covenantal kindness.  
+v23: “Steadfast love, loyalty.” Covenantal kindness.  
 
 v31: שָׁבַע (šābaʿ)  
 
-“To swear.” Related to the number seven and oath-making.  
+v31: “To swear.” Related to the number seven and oath-making.  
 
 v33: עוֹלָם (ʿôlām)  
 
-“Everlasting, eternal.” Extends beyond temporal limits.  
+v33: “Everlasting, eternal.” Extends beyond temporal limits.  
