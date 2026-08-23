@@ -1,5 +1,5 @@
 ---
-book: 1 Corinthians
+book: 1 corinthians
 testament: NT
 chapter: 8
 translation: TSW
@@ -9,132 +9,132 @@ translation: TSW
 
 <p>
 
-v01: Now concerning things sacrificed to idols: we know that we all have knowledge. Knowledge puffs up, but love builds up.
+v01: Now concerning things sacrificed to idols: we know that we all have knowledge. Knowledge puffs up, but love builds up.  
 
-v02: If anyone thinks that he knows anything, he does not yet know as he ought to know;
+v02: If anyone thinks that he knows anything, he does not yet know as he ought to know;  
 
-v03: but if anyone loves God, he is known by him.
-
-</p>
-
-<p>
-
-v04: Therefore concerning the eating of things sacrificed to idols, we know that an idol is nothing in the world and that there is no God except one.
-
-v05: For even if there are so-called gods whether in heaven or on earth—as indeed there are many gods and many lords—
+v03: but if anyone loves God, he is known by him.  
 
 </p>
 
 <p>
 
-v06: yet for us there is one God, the Father, from whom are all things and we for him, and one Lord, Jesus Christ, through whom are all things and we through him.
+v04: Therefore concerning the eating of things sacrificed to idols, we know that an idol is nothing in the world and that there is no God except one.  
+
+v05: For even if there are so-called gods whether in heaven or on earth—as indeed there are many gods and many lords—  
 
 </p>
 
 <p>
 
-v07: However, not all have this knowledge; but some, being accustomed to the idol until now, eat food as something sacrificed to an idol, and their conscience, being weak, is defiled.
+v06: yet for us there is one God, the Father, from whom are all things and we for him, and one Lord, Jesus Christ, through whom are all things and we through him.  
 
 </p>
 
 <p>
 
-v08: But food will not commend us to God; neither if we do not eat are we worse, nor if we eat are we better.
+v07: However, not all have this knowledge; but some, being accustomed to the idol until now, eat food as something sacrificed to an idol, and their conscience, being weak, is defiled.  
 
 </p>
 
 <p>
 
-v09: But take care that this right of yours does not somehow become a stumbling block to the weak.
-
-v10: For if anyone sees you, who have knowledge, reclining in an idol’s temple, will not his conscience, if he is weak, be built up to eat things sacrificed to idols?
+v08: But food will not commend us to God; neither if we do not eat are we worse, nor if we eat are we better.  
 
 </p>
 
 <p>
 
-v11: For through your knowledge the weak one is destroyed—the brother for whom Christ died.
+v09: But take care that this right of yours does not somehow become a stumbling block to the weak.  
 
-v12: And thus, sinning against the brothers and wounding their weak conscience, you sin against Christ.
+v10: For if anyone sees you, who have knowledge, reclining in an idol’s temple, will not his conscience, if he is weak, be built up to eat things sacrificed to idols?  
 
 </p>
 
 <p>
 
-v13: Therefore, if food causes my brother to stumble, I will never eat meat forever, so that I may not cause my brother to stumble.
+v11: For through your knowledge the weak one is destroyed—the brother for whom Christ died.  
+
+v12: And thus, sinning against the brothers and wounding their weak conscience, you sin against Christ.  
+
+</p>
+
+<p>
+
+v13: Therefore, if food causes my brother to stumble, I will never eat meat forever, so that I may not cause my brother to stumble.  
 
 </p>
 
 ## Notes
 
-v1: Knowledge without love leads to pride.
+v1: Knowledge without love leads to pride.  
 
-v3: True knowledge is relational—being known by God.
+v3: True knowledge is relational—being known by God.  
 
-v4–6: Monotheism reframes idol discussion.
+v4–6: Monotheism reframes idol discussion.  
 
-v7: Conscience varies in strength and awareness.
+v7: Conscience varies in strength and awareness.  
 
-v8: Food has no intrinsic spiritual value.
+v8: Food has no intrinsic spiritual value.  
 
-v9–12: Freedom must be governed by concern for others.
+v9–12: Freedom must be governed by concern for others.  
 
-v13: Love limits personal rights to prevent harm.
+v13: Love limits personal rights to prevent harm.  
 
 ## Vocabulary
 
-v1: φυσιοόω (physioō)
+v1: φυσιοόω (physioō)  
 
-“To puff up.”
+v1: “To puff up.”  
 
-v1: οἰκοδομέω (oikodomeō)
+v1: οἰκοδομέω (oikodomeō)  
 
-“To build up.”
+v1: “To build up.”  
 
-v3: γινώσκω (ginōskō)
+v3: γινώσκω (ginōskō)  
 
-“To know.”
+v3: “To know.”  
 
-v4: εἴδωλον (eidōlon)
+v4: εἴδωλον (eidōlon)  
 
-“Idol.”
+v4: “Idol.”  
 
-v6: κύριος (kyrios)
+v6: κύριος (kyrios)  
 
-“Lord.”
+v6: “Lord.”  
 
-v7: συνείδησις (syneidēsis)
+v7: συνείδησις (syneidēsis)  
 
-“Conscience.”
+v7: “Conscience.”  
 
-v7: μολύνω (molynō)
+v7: μολύνω (molynō)  
 
-“To defile.”
+v7: “To defile.”  
 
-v8: παραστήνω (paristēmi)
+v8: παραστήνω (paristēmi)  
 
-“To commend.”
+v8: “To commend.”  
 
-v9: ἐξουσία (exousia)
+v9: ἐξουσία (exousia)  
 
-“Right, authority.”
+v9: “Right, authority.”  
 
-v9: πρόσκομμα (proskomma)
+v9: πρόσκομμα (proskomma)  
 
-“Stumbling block.”
+v9: “Stumbling block.”  
 
-v10: ἀνακείμενος (anakeimenos)
+v10: ἀνακείμενος (anakeimenos)  
 
-“Reclining.”
+v10: “Reclining.”  
 
-v11: ἀπόλλυμι (apollymi)
+v11: ἀπόλλυμι (apollymi)  
 
-“To destroy.”
+v11: “To destroy.”  
 
-v12: τύπτω (typtō)
+v12: τύπτω (typtō)  
 
-“To wound.”
+v12: “To wound.”  
 
-v13: σκανδαλίζω (skandalizō)
+v13: σκανδαλίζω (skandalizō)  
 
-“To cause to stumble.”
+v13: “To cause to stumble.”  
