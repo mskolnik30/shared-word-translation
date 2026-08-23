@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 14
 translation: TSW
@@ -126,7 +126,7 @@ v30–31: Fear shifts perception from Jesus to circumstance; doubt is destabiliz
 
 v33: Confession emerges from encounter, not abstraction.  
 
-v36: Healing mediated through contact; faith expressed physically.
+v36: Healing mediated through contact; faith expressed physically.  
 
 ## Vocabulary
 
@@ -154,4 +154,4 @@ v31: ὀλιγόπιστος (*oligopistos*) — “Of little faith.” Inadequa
 
 v33: προσεκύνησαν (*prosekynēsan*) — “They worshiped.” Gesture of reverence and submission.  
 
-v36: κράσπεδον (*kraspedon*) — “Fringe,” “hem.” Edge of garment, often symbolically significant.
+v36: κράσπεδον (*kraspedon*) — “Fringe,” “hem.” Edge of garment, often symbolically significant.  
