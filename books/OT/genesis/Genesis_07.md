@@ -88,7 +88,7 @@ v18: גָּבַר (gāḇar)
 “To prevail” or “be mighty.” Repeated throughout the chapter to describe the overwhelming power of the waters.  
 
 v22: נִשְׁמַת חַיִּים (nišmat ḥayyîm)  
-“Breath of life.” The life-giving breath associated with God’s creative activity.  
+v15: “Breath of life.” The life-giving breath associated with God’s creative activity.  
 
 v23: שָׁאַר (šāʾar)  
 “To remain.” The root underlying the concept of a surviving remnant.  
