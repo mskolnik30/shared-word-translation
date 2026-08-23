@@ -127,7 +127,7 @@ v15: δαπανάω (dapanaō)
 “To spend.” To expend resources.  
 
 v15: δαπανάομαι (dapanaomai)  
-“To be spent.” Passive or reflexive form emphasizing self-giving.  
+v15: “To be spent.” Passive or reflexive form emphasizing self-giving.  
 
 v19: οἰκοδομή (oikodomē)  
 “Building up.” Edification of the community.  
