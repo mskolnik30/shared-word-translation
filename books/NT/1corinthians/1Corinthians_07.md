@@ -1,5 +1,5 @@
 ---
-book: 1 Corinthians
+book: 1 corinthians
 testament: NT
 chapter: 7
 translation: TSW
@@ -9,31 +9,31 @@ translation: TSW
 
 <p>
 
-v01: Now concerning the things about which you wrote: it is good for a man not to touch a woman.
+v01: Now concerning the things about which you wrote: it is good for a man not to touch a woman.  
 
-v02: But because of sexual immoralities, let each man have his own wife and let each woman have her own husband.
-
-</p>
-
-<p>
-
-v03: Let the husband give to the wife her due, and likewise also the wife to the husband.
-
-v04: The wife does not have authority over her own body, but the husband; and likewise also the husband does not have authority over his own body, but the wife.
+v02: But because of sexual immoralities, let each man have his own wife and let each woman have her own husband.  
 
 </p>
 
 <p>
 
-v05: Do not deprive one another, except perhaps by agreement for a time, so that you may devote yourselves to prayer; and then come together again, so that Satan may not tempt you because of your lack of self-control.
+v03: Let the husband give to the wife her due, and likewise also the wife to the husband.  
+
+v04: The wife does not have authority over her own body, but the husband; and likewise also the husband does not have authority over his own body, but the wife.  
 
 </p>
 
 <p>
 
-v06: But this I say by way of concession, not of command.
+v05: Do not deprive one another, except perhaps by agreement for a time, so that you may devote yourselves to prayer; and then come together again, so that Satan may not tempt you because of your lack of self-control.  
 
-v07: Yet I wish that all people were even as I myself am. But each has his own gift from God, one in this way and another in that.
+</p>
+
+<p>
+
+v06: But this I say by way of concession, not of command.  
+
+v07: Yet I wish that all people were even as I myself am. But each has his own gift from God, one in this way and another in that.  
 
 </p>
 
@@ -41,9 +41,9 @@ v07: Yet I wish that all people were even as I myself am. But each has his own g
 
 <p>
 
-v08: But I say to the unmarried and to the widows: it is good for them if they remain as I am.
+v08: But I say to the unmarried and to the widows: it is good for them if they remain as I am.  
 
-v09: But if they do not have self-control, let them marry; for it is better to marry than to burn.
+v09: But if they do not have self-control, let them marry; for it is better to marry than to burn.  
 
 </p>
 
@@ -51,9 +51,9 @@ v09: But if they do not have self-control, let them marry; for it is better to m
 
 <p>
 
-v10: But to the married I give instruction—not I, but the Lord—that the wife is not to be separated from her husband
+v10: But to the married I give instruction—not I, but the Lord—that the wife is not to be separated from her husband  
 
-v11: (but if she does separate, let her remain unmarried or else be reconciled to her husband), and that the husband is not to divorce his wife.
+v11: (but if she does separate, let her remain unmarried or else be reconciled to her husband), and that the husband is not to divorce his wife.  
 
 </p>
 
@@ -61,23 +61,23 @@ v11: (but if she does separate, let her remain unmarried or else be reconciled t
 
 <p>
 
-v12: But to the rest I say—I, not the Lord—that if any brother has an unbelieving wife and she consents to live with him, he must not divorce her.
+v12: But to the rest I say—I, not the Lord—that if any brother has an unbelieving wife and she consents to live with him, he must not divorce her.  
 
-v13: And if a woman has an unbelieving husband and he consents to live with her, she must not divorce her husband.
-
-</p>
-
-<p>
-
-v14: For the unbelieving husband is sanctified in the wife, and the unbelieving wife is sanctified in the brother; otherwise your children are unclean, but now they are holy.
+v13: And if a woman has an unbelieving husband and he consents to live with her, she must not divorce her husband.  
 
 </p>
 
 <p>
 
-v15: But if the unbelieving one separates, let him separate; the brother or the sister is not enslaved in such cases, but God has called us in peace.
+v14: For the unbelieving husband is sanctified in the wife, and the unbelieving wife is sanctified in the brother; otherwise your children are unclean, but now they are holy.  
 
-v16: For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?
+</p>
+
+<p>
+
+v15: But if the unbelieving one separates, let him separate; the brother or the sister is not enslaved in such cases, but God has called us in peace.  
+
+v16: For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?  
 
 </p>
 
@@ -85,33 +85,33 @@ v16: For how do you know, wife, whether you will save your husband? Or how do yo
 
 <p>
 
-v17: Only, as the Lord has assigned to each, as God has called each, so let him walk. And so I direct in all the churches.
+v17: Only, as the Lord has assigned to each, as God has called each, so let him walk. And so I direct in all the churches.  
 
-v18: Was anyone called having been circumcised? Let him not become uncircumcised. Has anyone been called in uncircumcision? Let him not be circumcised.
-
-</p>
-
-<p>
-
-v19: Circumcision is nothing and uncircumcision is nothing, but the keeping of the commandments of God.
-
-v20: Let each one remain in the calling in which he was called.
+v18: Was anyone called having been circumcised? Let him not become uncircumcised. Has anyone been called in uncircumcision? Let him not be circumcised.  
 
 </p>
 
 <p>
 
-v21: Were you called as a slave? Do not let it concern you; but if indeed you are able to become free, rather make use of it.
+v19: Circumcision is nothing and uncircumcision is nothing, but the keeping of the commandments of God.  
 
-v22: For the one called in the Lord as a slave is the Lord’s freedman; likewise, the one called as free is Christ’s slave.
+v20: Let each one remain in the calling in which he was called.  
 
 </p>
 
 <p>
 
-v23: You were bought with a price; do not become slaves of men.
+v21: Were you called as a slave? Do not let it concern you; but if indeed you are able to become free, rather make use of it.  
 
-v24: Brothers, in whatever state each was called, there let him remain with God.
+v22: For the one called in the Lord as a slave is the Lord’s freedman; likewise, the one called as free is Christ’s slave.  
+
+</p>
+
+<p>
+
+v23: You were bought with a price; do not become slaves of men.  
+
+v24: Brothers, in whatever state each was called, there let him remain with God.  
 
 </p>
 
@@ -119,144 +119,144 @@ v24: Brothers, in whatever state each was called, there let him remain with God.
 
 <p>
 
-v25: Now concerning virgins I have no command from the Lord, but I give a judgment as one who by the Lord’s mercy is trustworthy.
+v25: Now concerning virgins I have no command from the Lord, but I give a judgment as one who by the Lord’s mercy is trustworthy.  
 
-v26: I think then that this is good because of the present distress, that it is good for a man to remain as he is.
-
-</p>
-
-<p>
-
-v27: Are you bound to a wife? Do not seek to be released. Are you released from a wife? Do not seek a wife.
-
-v28: But if you do marry, you have not sinned; and if a virgin marries, she has not sinned. Yet such will have trouble in the flesh, and I would spare you.
+v26: I think then that this is good because of the present distress, that it is good for a man to remain as he is.  
 
 </p>
 
 <p>
 
-v29: But this I say, brothers: the time has been shortened, so that from now on those who have wives may be as though they had none,
+v27: Are you bound to a wife? Do not seek to be released. Are you released from a wife? Do not seek a wife.  
 
-v30: and those who weep as though not weeping, and those who rejoice as though not rejoicing, and those who buy as though not possessing,
-
-v31: and those who use the world as though not using it fully; for the form of this world is passing away.
+v28: But if you do marry, you have not sinned; and if a virgin marries, she has not sinned. Yet such will have trouble in the flesh, and I would spare you.  
 
 </p>
 
 <p>
 
-v32: But I want you to be free from concern. The unmarried man is concerned about the things of the Lord, how he may please the Lord;
+v29: But this I say, brothers: the time has been shortened, so that from now on those who have wives may be as though they had none,  
 
-v33: but the married man is concerned about the things of the world, how he may please his wife,
+v30: and those who weep as though not weeping, and those who rejoice as though not rejoicing, and those who buy as though not possessing,  
 
-v34: and he is divided. And the unmarried woman and the virgin are concerned about the things of the Lord, so that they may be holy both in body and in spirit; but the married woman is concerned about the things of the world, how she may please her husband.
-
-</p>
-
-<p>
-
-v35: And this I say for your own benefit, not to put a restraint upon you, but for what is proper and to promote undivided devotion to the Lord.
+v31: and those who use the world as though not using it fully; for the form of this world is passing away.  
 
 </p>
 
 <p>
 
-v36: But if anyone thinks he is acting improperly toward his virgin, if she is past her youth and it must be so, let him do what he wishes; he does not sin—let them marry.
+v32: But I want you to be free from concern. The unmarried man is concerned about the things of the Lord, how he may please the Lord;  
 
-v37: But the one who stands firm in his heart, having no necessity, but having authority over his own will, and has determined this in his heart, to keep his virgin, he will do well.
+v33: but the married man is concerned about the things of the world, how he may please his wife,  
 
-</p>
-
-<p>
-
-v38: So then both the one who gives his virgin in marriage does well, and the one who does not give her in marriage will do better.
+v34: and he is divided. And the unmarried woman and the virgin are concerned about the things of the Lord, so that they may be holy both in body and in spirit; but the married woman is concerned about the things of the world, how she may please her husband.  
 
 </p>
 
 <p>
 
-v39: A wife is bound as long as her husband lives; but if the husband dies, she is free to be married to whom she wishes, only in the Lord.
+v35: And this I say for your own benefit, not to put a restraint upon you, but for what is proper and to promote undivided devotion to the Lord.  
 
-v40: But in my judgment she is happier if she remains as she is—and I think that I also have the Spirit of God.
+</p>
+
+<p>
+
+v36: But if anyone thinks he is acting improperly toward his virgin, if she is past her youth and it must be so, let him do what he wishes; he does not sin—let them marry.  
+
+v37: But the one who stands firm in his heart, having no necessity, but having authority over his own will, and has determined this in his heart, to keep his virgin, he will do well.  
+
+</p>
+
+<p>
+
+v38: So then both the one who gives his virgin in marriage does well, and the one who does not give her in marriage will do better.  
+
+</p>
+
+<p>
+
+v39: A wife is bound as long as her husband lives; but if the husband dies, she is free to be married to whom she wishes, only in the Lord.  
+
+v40: But in my judgment she is happier if she remains as she is—and I think that I also have the Spirit of God.  
 
 </p>
 
 ## Notes
 
-v1–5: Marriage addresses sexual need and mutual obligation.
+v1–5: Marriage addresses sexual need and mutual obligation.  
 
-v7: Singleness and marriage are distinct gifts.
+v7: Singleness and marriage are distinct gifts.  
 
-v10–11: Marital permanence reflects the Lord’s command.
+v10–11: Marital permanence reflects the Lord’s command.  
 
-v12–16: Mixed marriages are sustained when possible.
+v12–16: Mixed marriages are sustained when possible.  
 
-v17–24: Calling governs life circumstances.
+v17–24: Calling governs life circumstances.  
 
-v25–31: Present distress and eschatological urgency shape counsel.
+v25–31: Present distress and eschatological urgency shape counsel.  
 
-v32–35: Undivided devotion is prioritized.
+v32–35: Undivided devotion is prioritized.  
 
-v36–40: Marriage is permitted; singleness is commended.
+v36–40: Marriage is permitted; singleness is commended.  
 
 ## Vocabulary
 
-v1: ἅπτομαι (haptomai)
+v1: ἅπτομαι (haptomai)  
 
-“To touch.”
+v1: “To touch.”  
 
-v2: πορνεία (porneia)
+v2: πορνεία (porneia)  
 
-“Sexual immorality.”
+v2: “Sexual immorality.”  
 
-v4: ἐξουσιάζω (exousiazō)
+v4: ἐξουσιάζω (exousiazō)  
 
-“To have authority over.”
+v4: “To have authority over.”  
 
-v5: ἀποστερέω (apostereō)
+v5: ἀποστερέω (apostereō)  
 
-“To deprive.”
+v5: “To deprive.”  
 
-v7: χάρισμα (charisma)
+v7: χάρισμα (charisma)  
 
-“Gift.”
+v7: “Gift.”  
 
-v9: πυρόω (pyroō)
+v9: πυρόω (pyroō)  
 
-“To burn.”
+v9: “To burn.”  
 
-v14: ἁγιάζω (hagiazō)
+v14: ἁγιάζω (hagiazō)  
 
-“To sanctify.”
+v14: “To sanctify.”  
 
-v15: δουλόω (douloō)
+v15: δουλόω (douloō)  
 
-“To enslave.”
+v15: “To enslave.”  
 
-v17: μερίζω (merizō)
+v17: μερίζω (merizō)  
 
-“To assign.”
+v17: “To assign.”  
 
-v20: κλῆσις (klēsis)
+v20: κλῆσις (klēsis)  
 
-“Calling.”
+v20: “Calling.”  
 
-v22: ἀπελεύθερος (apeleutheros)
+v22: ἀπελεύθερος (apeleutheros)  
 
-“Freedman.”
+v22: “Freedman.”  
 
-v26: ἀνάγκη (anankē)
+v26: ἀνάγκη (anankē)  
 
-“Distress.”
+v26: “Distress.”  
 
-v31: σχῆμα (schēma)
+v31: σχῆμα (schēma)  
 
-“Form.”
+v31: “Form.”  
 
-v34: μερίζω (merizō)
+v34: μερίζω (merizō)  
 
-“To divide.”
+v34: “To divide.”  
 
-v35: περισπάω (perispaō)
+v35: περισπάω (perispaō)  
 
-“To distract.”
+v35: “To distract.”  
