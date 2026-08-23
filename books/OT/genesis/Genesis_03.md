@@ -1,5 +1,5 @@
 ---
-book: Genesis
+book: genesis
 testament: OT
 chapter: 3
 translation: TSW
@@ -8,36 +8,36 @@ translation: TSW
 ## The Serpent and the Tree
 
 <p>
-v01: Now the serpent was more crafty than any other wild animal that the LORD God had made. The serpent said to the woman, “Did God really say, ‘You shall not eat from any tree of the garden’?”
-v02: The woman said to the serpent, “We may eat of the fruit of the trees of the garden;
-v03: but God said, ‘You shall not eat of the fruit of the tree that is in the middle of the garden, nor shall you touch it, lest you die.’”
+v01: Now the serpent was more crafty than any other wild animal that the LORD God had made. The serpent said to the woman, “Did God really say, ‘You shall not eat from any tree of the garden’?”  
+v02: The woman said to the serpent, “We may eat of the fruit of the trees of the garden;  
+v03: but God said, ‘You shall not eat of the fruit of the tree that is in the middle of the garden, nor shall you touch it, lest you die.’”  
 </p>
 
 <p>
-v04: But the serpent said to the woman, “You will not surely die;
-v05: for God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”
-v06: So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable for gaining wisdom, she took of its fruit and ate; and she also gave some to her companion who was with her, and he ate.
-v07: Then the eyes of both were opened, and they knew that they were naked; and they sewed fig leaves together and made loincloths for themselves.
+v04: But the serpent said to the woman, “You will not surely die;  
+v05: for God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”  
+v06: So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was desirable for gaining wisdom, she took of its fruit and ate; and she also gave some to her companion who was with her, and he ate.  
+v07: Then the eyes of both were opened, and they knew that they were naked; and they sewed fig leaves together and made loincloths for themselves.  
 </p>
 
 ## The Human Pair before God
 
 <p>
-v08: They heard the sound of the LORD God walking in the garden at the time of the evening breeze, and the human and the woman hid themselves from the presence of the LORD God among the trees of the garden.
-v09: But the LORD God called to the human and said, “Where are you?”
-v10: He said, “I heard the sound of you in the garden, and I was afraid, because I was naked; and I hid myself.”
+v08: They heard the sound of the LORD God walking in the garden at the time of the evening breeze, and the human and the woman hid themselves from the presence of the LORD God among the trees of the garden.  
+v09: But the LORD God called to the human and said, “Where are you?”  
+v10: He said, “I heard the sound of you in the garden, and I was afraid, because I was naked; and I hid myself.”  
 </p>
 
 <p>
-v11: God said, “Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?”
-v12: The human said, “The woman whom you gave to be with me—she gave me fruit from the tree, and I ate.”
-v13: Then the LORD God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me, and I ate.”
+v11: God said, “Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?”  
+v12: The human said, “The woman whom you gave to be with me—she gave me fruit from the tree, and I ate.”  
+v13: Then the LORD God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me, and I ate.”  
 </p>
 
 ## Words of Consequence
 
 <p>
-v14: The LORD God said to the serpent,
+v14: The LORD God said to the serpent,  
 </p>
 
 “Because you have done this,  
@@ -50,19 +50,19 @@ all the days of your life.
 v15: I will put enmity between you and the woman,  
 and between your offspring and her offspring;  
 he shall bruise your head,  
-and you shall bruise his heel.”
+and you shall bruise his heel.”  
 
 <p>
-v16: To the woman God said,
+v16: To the woman God said,  
 </p>
 
 “I will greatly multiply your pain in childbearing;  
 in pain you shall bring forth children.  
 Your desire shall be for your husband,  
-and he shall rule over you.”
+and he shall rule over you.”  
 
 <p>
-v17: And to the human God said,
+v17: And to the human God said,  
 </p>
 
 “Because you have listened to the voice of your wife  
@@ -82,79 +82,79 @@ you shall eat bread,
 until you return to the ground,  
 for out of it you were taken;  
 for you are dust,  
-and to dust you shall return.”
+and to dust you shall return.”  
 
 ## Mercy and Expulsion 
 
 <p>
-v20: The human named his wife Eve, because she was the mother of all living.
-v21: And the LORD God made garments of skins for the human and for his wife, and clothed them.
+v20: The human named his wife Eve, because she was the mother of all living.  
+v21: And the LORD God made garments of skins for the human and for his wife, and clothed them.  
 </p>
 
 <p>
-v22: Then the LORD God said, “See, the human has become like one of us, knowing good and evil; and now, lest the human reach out and take also from the tree of life, and eat, and live forever—”
-v23: therefore the LORD God sent the human out from the garden of Eden, to till the ground from which the human was taken.
-v24: God drove out the human; and at the east of the garden of Eden God placed the cherubim, and a flaming sword that turned every way, to guard the way to the tree of life.
+v22: Then the LORD God said, “See, the human has become like one of us, knowing good and evil; and now, lest the human reach out and take also from the tree of life, and eat, and live forever—”  
+v23: therefore the LORD God sent the human out from the garden of Eden, to till the ground from which the human was taken.  
+v24: God drove out the human; and at the east of the garden of Eden God placed the cherubim, and a flaming sword that turned every way, to guard the way to the tree of life.  
 </p>
 
 ## Notes
-v1: The serpent is described as crafty, not evil. The text offers no origin story or moral explanation, allowing ambiguity about motive and role.
+v1: The serpent is described as crafty, not evil. The text offers no origin story or moral explanation, allowing ambiguity about motive and role.  
 
-v3: The prohibition is expanded in the woman’s speech (“nor shall you touch it”). The text does not explain why, preserving tension around memory, interpretation, and fear.
+v3: The prohibition is expanded in the woman’s speech (“nor shall you touch it”). The text does not explain why, preserving tension around memory, interpretation, and fear.  
 
-v6: Desire, perception, and wisdom are named together. The human pair act in shared presence; responsibility is not isolated to one alone.
+v6: Desire, perception, and wisdom are named together. The human pair act in shared presence; responsibility is not isolated to one alone.  
 
-v7: Awareness follows eating, but shame is learned rather than imposed. Covering is self-made, not commanded.
+v7: Awareness follows eating, but shame is learned rather than imposed. Covering is self-made, not commanded.  
 
-v8: God is portrayed as present and moving within the garden. Hiding marks a relational rupture rather than mere rule-breaking.
+v8: God is portrayed as present and moving within the garden. Hiding marks a relational rupture rather than mere rule-breaking.  
 
-v9: “Where are you?” is a relational question, not a request for information. God’s first word is address, not accusation.
+v9: “Where are you?” is a relational question, not a request for information. God’s first word is address, not accusation.  
 
-v12–13: Blame moves outward—from self to other to circumstance. The text narrates this movement without comment.
+v12–13: Blame moves outward—from self to other to circumstance. The text narrates this movement without comment.  
 
-v14–19: The words spoken are consequences, not explanations. Each address names a fractured relationship: creature and creature, human and human, human and ground.
+v14–19: The words spoken are consequences, not explanations. Each address names a fractured relationship: creature and creature, human and human, human and ground.  
 
-v15: Enmity is named without resolution. The verse is left open-ended, resisting later theological closure.
+v15: Enmity is named without resolution. The verse is left open-ended, resisting later theological closure.  
 
-v16: The dynamics described are not prescribed as good. Desire and domination are named as conditions of a broken world.
+v16: The dynamics described are not prescribed as good. Desire and domination are named as conditions of a broken world.  
 
-v21: God clothes the human pair. Care is shown without undoing consequence.
+v21: God clothes the human pair. Care is shown without undoing consequence.  
 
-v22: The divine speech acknowledges expanded knowledge while limiting immortality. The tension between likeness to God and creaturely boundary is preserved.
+v22: The divine speech acknowledges expanded knowledge while limiting immortality. The tension between likeness to God and creaturely boundary is preserved.  
 
-v23–24: Expulsion is paired with protection. The way to life is guarded, not destroyed, leaving the story open rather than finished.
+v23–24: Expulsion is paired with protection. The way to life is guarded, not destroyed, leaving the story open rather than finished.  
 
 ## Vocabulary
-v1: עָרוּם (‘ārûm) — crafty; shrewd; subtle
+v1: עָרוּם (‘ārûm) — crafty; shrewd; subtle  
 
-v1: נָחָשׁ (nāḥāsh) — serpent
+v1: נָחָשׁ (nāḥāsh) — serpent  
 
-v5: יָדַע (yāda‘) — know; discern; come to awareness
+v5: יָדַע (yāda‘) — know; discern; come to awareness  
 
-v6: תַּאֲוָה (ta’avāh) — desire; longing
+v6: תַּאֲוָה (ta’avāh) — desire; longing  
 
-v6: חָכַם (ḥākam) — be wise; gain insight
+v6: חָכַם (ḥākam) — be wise; gain insight  
 
-v7: עֵירֹם (‘ērōm) — naked; exposed
+v7: עֵירֹם (‘ērōm) — naked; exposed  
 
-v7: בּוֹשׁ (bôsh) — be ashamed
+v7: בּוֹשׁ (bôsh) — be ashamed  
 
-v8: הָלַךְ (hālak) — walk; move about
+v8: הָלַךְ (hālak) — walk; move about  
 
-v9: אַיֶּכָּה (’ayyekkāh) — where are you?
+v9: אַיֶּכָּה (’ayyekkāh) — where are you?  
 
-v12: נָתַן (nātan) — give; hand over
+v12: נָתַן (nātan) — give; hand over  
 
-v14: אָרוּר (’ārûr) — cursed; bound to harm
+v14: אָרוּר (’ārûr) — cursed; bound to harm  
 
-v15: אֵיבָה (’ēvāh) — enmity; hostility
+v15: אֵיבָה (’ēvāh) — enmity; hostility  
 
-v16: תְּשׁוּקָה (teshūqāh) — desire; turning toward
+v16: תְּשׁוּקָה (teshūqāh) — desire; turning toward  
 
-v17: אֲדָמָה (’ădāmāh) — ground; soil
+v17: אֲדָמָה (’ădāmāh) — ground; soil  
 
-v19: עָפָר (‘āfār) — dust
+v19: עָפָר (‘āfār) — dust  
 
-v21: כָּתְנוֹת (kātenōt) — garments; tunics
+v21: כָּתְנוֹת (kātenōt) — garments; tunics  
 
-v24: שָׁמַר (shāmar) — guard; keep; watch over
+v24: שָׁמַר (shāmar) — guard; keep; watch over  

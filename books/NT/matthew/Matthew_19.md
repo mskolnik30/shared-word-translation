@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 19
 translation: TSW
@@ -126,7 +126,7 @@ v28: “Renewal” signals eschatological restoration, not mere continuation.
 
 v29: Loss reinterpreted as multiplication; inheritance language retained.  
 
-v30: Reversal principle destabilizes status assumptions.
+v30: Reversal principle destabilizes status assumptions.  
 
 ## Vocabulary
 
@@ -160,4 +160,4 @@ v28: παλιγγενεσία (*palingenesia*) — “Renewal,” “regeneratio
 
 v29: ἑκατονταπλασίονα (*hekatontaplasiona*) — “Hundredfold.” Exaggerated abundance.  
 
-v30: πρῶτοι / ἔσχατοι (*prōtoi / eschatoi*) — “First / last.” Status reversal categories.
+v30: πρῶτοι / ἔσχατοι (*prōtoi / eschatoi*) — “First / last.” Status reversal categories.  

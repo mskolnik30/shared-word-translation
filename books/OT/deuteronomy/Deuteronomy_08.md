@@ -1,5 +1,5 @@
 ---
-book: Deuteronomy
+book: deuteronomy
 testament: OT
 chapter: 8
 translation: TSW
@@ -9,6 +9,12 @@ translation: TSW
 
 <p>
 
+v01: Every commandment that I command you today you shall keep to do, so that you may live and multiply and enter and possess the land that the LORD swore to your fathers.  
+v02: And you shall remember all the way that the LORD your God led you these forty years in the wilderness, in order to humble you, to test you, to know what was in your heart—whether you would keep his commandments, his commandments, or not.  
+v03: And he humbled you and let you hunger and fed you manna, which you did not know and which your fathers did not know, in order to make you know that the human does not live by bread alone, but the human lives by every utterance from the mouth of the LORD.  
+v04: Your clothing did not wear out on you, and your foot did not swell, these forty years.  
+v05: And know in your heart that just as a man disciplines his son, so the LORD your God disciplines you.  
+v06: And you shall keep the commandments of the LORD your God, walking in his ways and fearing him.  
 v07: For the LORD your God is bringing you into a good land—a land of brooks of water, of springs and deep waters, flowing out in valleys and hills,  
 
 v08: a land of wheat and barley, of vines and fig trees and pomegranates, a land of olive trees and honey,  
@@ -51,86 +57,92 @@ v18: But you shall remember the LORD your God, for it is he who gives you power 
 
 </p>
 
+<p>
+v19: And it shall be, if you forget—utterly forget—the LORD your God, and go after other gods and serve them and bow down to them, I testify against you today that you shall surely perish.  
+</p>
+<p>
+v20: Like the nations that the LORD is destroying before you, so you shall perish, because you do not listen to the voice of the LORD your God.  
+</p>
 ## Notes
 
-v7–9: The land is described in abundance and diversity—water, agriculture, and mineral wealth. Provision replaces wilderness scarcity.
+v7–9: The land is described in abundance and diversity—water, agriculture, and mineral wealth. Provision replaces wilderness scarcity.  
 
-v10: Satisfaction leads to blessing; gratitude is the proper response to fullness.
+v10: Satisfaction leads to blessing; gratitude is the proper response to fullness.  
 
-v11: Forgetting is defined ethically—failure to keep commands is not ignorance but neglect.
+v11: Forgetting is defined ethically—failure to keep commands is not ignorance but neglect.  
 
-v12–14: Prosperity generates risk. “Lifted heart” signals pride that erases memory of deliverance.
+v12–14: Prosperity generates risk. “Lifted heart” signals pride that erases memory of deliverance.  
 
-v15–16: The wilderness is reinterpreted as formative—danger, provision, and testing serve a purpose.
+v15–16: The wilderness is reinterpreted as formative—danger, provision, and testing serve a purpose.  
 
-v16: Humbling and testing are not punitive but oriented toward eventual good.
+v16: Humbling and testing are not punitive but oriented toward eventual good.  
 
-v17: The internal narrative of self-sufficiency is explicitly rejected.
+v17: The internal narrative of self-sufficiency is explicitly rejected.  
 
-v18: Memory restores truth—capacity itself is a gift. Wealth is tied to covenant continuity.
+v18: Memory restores truth—capacity itself is a gift. Wealth is tied to covenant continuity.  
 
 ## Vocabulary
 
 v7: אֶרֶץ (ʾereṣ)  
 
-“Land.” Territory of promise and provision.
+v7: “Land.” Territory of promise and provision.  
 
 v7: נַחַל (naḥal)  
 
-“Brook/stream.” Flowing water in a valley.
+v7: “Brook/stream.” Flowing water in a valley.  
 
 v8: גֶּפֶן (gepen)  
 
-“Vine.” Source of grapes and wine.
+v8: “Vine.” Source of grapes and wine.  
 
 v8: רִמּוֹן (rimmôn)  
 
-“Pomegranate.” Symbol of fertility and abundance.
+v8: “Pomegranate.” Symbol of fertility and abundance.  
 
 v9: חָסֵר (ḥāsēr)  
 
-“To lack.” To be in need.
+v9: “To lack.” To be in need.  
 
 v10: שָׂבַע (śāḇaʿ)  
 
-“To be satisfied.” To be filled fully.
+v10: “To be satisfied.” To be filled fully.  
 
 v10: בָּרַךְ (bāraḵ)  
 
-“To bless.” To speak well of, give thanks.
+v10: “To bless.” To speak well of, give thanks.  
 
 v11: שָׁכַח (šāḵaḥ)  
 
-“To forget.” To fail to remember or act accordingly.
+v11: “To forget.” To fail to remember or act accordingly.  
 
 v11: מִצְוָה (miṣwāh)  
 
-“Commandment.” Instruction with authority.
+v11: “Commandment.” Instruction with authority.  
 
 v14: רוּם (rûm)  
 
-“To be lifted up.” To become exalted or proud.
+v14: “To be lifted up.” To become exalted or proud.  
 
 v15: נָחָה (nāḥāh)  
 
-“To lead.” To guide along a path.
+v15: “To lead.” To guide along a path.  
 
 v16: עָנָה (ʿānāh)  
 
-“To humble.” To bring low or discipline.
+v16: “To humble.” To bring low or discipline.  
 
 v16: נָסָה (nāsāh)  
 
-“To test.” To prove or examine.
+v16: “To test.” To prove or examine.  
 
 v17: כֹּחַ (kōaḥ)  
 
-“Power.” Strength or capacity.
+v17: “Power.” Strength or capacity.  
 
 v18: זָכַר (zāḵar)  
 
-“To remember.” To actively recall and respond.
+v18: “To remember.” To actively recall and respond.  
 
 v18: בְּרִית (berît)  
 
-“Covenant.” Binding agreement grounded in promise.
+v18: “Covenant.” Binding agreement grounded in promise.  

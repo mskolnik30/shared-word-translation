@@ -1,5 +1,5 @@
 ---
-book: Acts
+book: acts
 testament: NT
 chapter: 7
 translation: TSW
@@ -117,47 +117,47 @@ v60: And falling to his knees he cried out with a loud voice, “Lord, do not ho
 
 
 ## Notes
-v2: “The God of glory” introduces the speech with emphasis on divine initiative prior to land or temple.
-v5: Promise is given before possession; inheritance remains future even within the land.
-v9–10: “God was with him” reframes Joseph’s suffering as accompanied rather than avoided.
-v17–19: Growth of the people leads to threat, linking blessing with vulnerability.
-v25: Moses’ assumption of recognition contrasts with Israel’s misunderstanding.
-v30–34: Divine revelation occurs outside established sacred space, emphasizing God’s freedom.
-v35: Rejection and commissioning are held together; the one refused becomes the one sent.
-v39–41: Idolatry is described as turning “in their hearts,” locating the issue internally before externally.
-v44–50: The tension between God’s presence and human structures is left unresolved; the temple is both affirmed and relativized.
-v51: The accusation shifts from narrative to direct address, collapsing past and present resistance.
-v55–56: Stephen’s vision parallels exaltation language, though presented as immediate perception rather than doctrine.
-v58: Saul is introduced without explanation, marking a narrative thread that continues beyond the scene.
-v59–60: Stephen’s final words echo Jesus’ own, linking witness and imitation without explicit commentary.
+v2: “The God of glory” introduces the speech with emphasis on divine initiative prior to land or temple.  
+v5: Promise is given before possession; inheritance remains future even within the land.  
+v9–10: “God was with him” reframes Joseph’s suffering as accompanied rather than avoided.  
+v17–19: Growth of the people leads to threat, linking blessing with vulnerability.  
+v25: Moses’ assumption of recognition contrasts with Israel’s misunderstanding.  
+v30–34: Divine revelation occurs outside established sacred space, emphasizing God’s freedom.  
+v35: Rejection and commissioning are held together; the one refused becomes the one sent.  
+v39–41: Idolatry is described as turning “in their hearts,” locating the issue internally before externally.  
+v44–50: The tension between God’s presence and human structures is left unresolved; the temple is both affirmed and relativized.  
+v51: The accusation shifts from narrative to direct address, collapsing past and present resistance.  
+v55–56: Stephen’s vision parallels exaltation language, though presented as immediate perception rather than doctrine.  
+v58: Saul is introduced without explanation, marking a narrative thread that continues beyond the scene.  
+v59–60: Stephen’s final words echo Jesus’ own, linking witness and imitation without explicit commentary.  
 
 ## Vocabulary
-v2: δόξα (doxa)
-“Glory.” Denotes divine presence and radiance; often associated with revelation.
+v2: δόξα (doxa)  
+“Glory.” Denotes divine presence and radiance; often associated with revelation.  
 
-v5: κληρονομία (klēronomia)
-“Inheritance.” A promised possession, not yet realized.
+v5: κληρονομία (klēronomia)  
+“Inheritance.” A promised possession, not yet realized.  
 
-v9: φθόνος (phthonos)
-“Jealousy.” A destructive response to another’s favor or status.
+v9: φθόνος (phthonos)  
+“Jealousy.” A destructive response to another’s favor or status.  
 
-v20: ἀστεῖος (asteios)
-“Beautiful.” Connotes favor or attractiveness, here before God.
+v20: ἀστεῖος (asteios)  
+“Beautiful.” Connotes favor or attractiveness, here before God.  
 
-v25: σωτηρία (sōtēria)
-“Salvation.” Deliverance or rescue; here anticipated through Moses.
+v25: σωτηρία (sōtēria)  
+“Salvation.” Deliverance or rescue; here anticipated through Moses.  
 
-v35: λυτρωτής (lytrōtēs)
-“Redeemer.” One who delivers or liberates, often at cost.
+v35: λυτρωτής (lytrōtēs)  
+“Redeemer.” One who delivers or liberates, often at cost.  
 
-v38: λόγια ζῶντα (logia zōnta)
-“Living oracles.” Words that carry ongoing vitality and authority.
+v38: λόγια ζῶντα (logia zōnta)  
+“Living oracles.” Words that carry ongoing vitality and authority.  
 
-v51: σκληροτράχηλος (sklērotrachēlos)
-“Stiff-necked.” Resistant, unwilling to yield.
+v51: σκληροτράχηλος (sklērotrachēlos)  
+“Stiff-necked.” Resistant, unwilling to yield.  
 
-v55: πνεῦμα ἅγιον (pneuma hagion)
-“Holy Spirit.” The active presence of God, here empowering vision.
+v55: πνεῦμα ἅγιον (pneuma hagion)  
+“Holy Spirit.” The active presence of God, here empowering vision.  
 
-v56: υἱὸς τοῦ ἀνθρώπου (huios tou anthrōpou)
-“Son of Man.” A title with layered meaning, left unexplained within the text.
+v56: υἱὸς τοῦ ἀνθρώπου (huios tou anthrōpou)  
+“Son of Man.” A title with layered meaning, left unexplained within the text.  

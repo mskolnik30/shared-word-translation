@@ -1,5 +1,5 @@
 ---
-book: John
+book: john
 testament: NT
 chapter: 14
 translation: TSW
@@ -66,49 +66,48 @@ v31: but I do as the Father has commanded me, so that the world may know that I 
 
 
 ## Notes
-v1: “Do not let your hearts be troubled” addresses inner disturbance directly without removing its cause.
-v2: “Many dwelling places” leaves the nature of these spaces undefined, emphasizing presence over structure.
-v6: “The way, and the truth, and the life” gathers multiple claims without separating them; access to the Father is relationally defined.
-v7–11: Mutual indwelling between Father and Son is asserted without explanation, inviting recognition rather than analysis.
-v12: “Greater works” are promised without specification, creating expectation without detail.
-v13–14: Asking “in my name” ties prayer to alignment rather than formula.
-v16–17: The Advocate is both given and known; presence is described as both with and in.
-v18: “I will not leave you as orphans” frames departure in relational terms rather than spatial absence.
-v20: The layered “in” language (Father, Son, disciples) resists simplification.
-v23: Divine dwelling shifts from place to person; presence becomes internal rather than localized.
-v27: Peace is distinguished from worldly peace without defining either fully.
-v28: “The Father is greater than I” stands alongside earlier unity statements without resolution.
-v30: The “ruler of the world” is introduced without elaboration, functioning as a looming presence rather than a defined figure.
-v31: Love is expressed through obedience, linking relationship and action.
+v1: “Do not let your hearts be troubled” addresses inner disturbance directly without removing its cause.  
+v2: “Many dwelling places” leaves the nature of these spaces undefined, emphasizing presence over structure.  
+v6: “The way, and the truth, and the life” gathers multiple claims without separating them; access to the Father is relationally defined.  
+v7–11: Mutual indwelling between Father and Son is asserted without explanation, inviting recognition rather than analysis.  
+v12: “Greater works” are promised without specification, creating expectation without detail.  
+v13–14: Asking “in my name” ties prayer to alignment rather than formula.  
+v16–17: The Advocate is both given and known; presence is described as both with and in.  
+v18: “I will not leave you as orphans” frames departure in relational terms rather than spatial absence.  
+v20: The layered “in” language (Father, Son, disciples) resists simplification.  
+v23: Divine dwelling shifts from place to person; presence becomes internal rather than localized.  
+v27: Peace is distinguished from worldly peace without defining either fully.  
+v28: “The Father is greater than I” stands alongside earlier unity statements without resolution.  
+v30: The “ruler of the world” is introduced without elaboration, functioning as a looming presence rather than a defined figure.  
+v31: Love is expressed through obedience, linking relationship and action.  
 
 ## Vocabulary
-v1: ταράσσω (tarassō)
-“To trouble” or “disturb.” Indicates inner agitation or unrest.
+v1: ταράσσω (tarassō)  
+“To trouble” or “disturb.” Indicates inner agitation or unrest.  
 
-v2: μονή (monē)
-“Dwelling place.” A place of abiding; relational as much as spatial.
+v2: μονή (monē)  
+“Dwelling place.” A place of abiding; relational as much as spatial.  
 
-v6: ὁδός (hodos)
-“Way.” A path or means; here both direction and access.
+v6: ὁδός (hodos)  
+“Way.” A path or means; here both direction and access.  
 
-v6: ἀλήθεια (alētheia)
-“Truth.” Not merely factual correctness but revealed reality.
+v6: ἀλήθεια (alētheia)  
+“Truth.” Not merely factual correctness but revealed reality.  
 
-v6: ζωή (zōē)
-“Life.” Participation in divine life rather than mere existence.
+v6: ζωή (zōē)  
+“Life.” Participation in divine life rather than mere existence.  
 
-v16: παράκλητος (paraklētos)
-“Advocate.” One who comes alongside—helper, counselor, or intercessor.
+v16: παράκλητος (paraklētos)  
+“Advocate.” One who comes alongside—helper, counselor, or intercessor.  
 
-v17: πνεῦμα τῆς ἀληθείας (pneuma tēs alētheias)
-“Spirit of truth.” Associated with revelation and recognition.
+v17: πνεῦμα τῆς ἀληθείας (pneuma tēs alētheias)  
+“Spirit of truth.” Associated with revelation and recognition.  
 
-v20: ἐν (en)
-“In.” A term of relational participation, used repeatedly in layered ways.
+v20: ἐν (en)  
+“In.” A term of relational participation, used repeatedly in layered ways.  
 
-v27: εἰρήνη (eirēnē)
-“Peace.” Wholeness or completeness, distinct from mere absence of conflict.
+v27: εἰρήνη (eirēnē)  
+“Peace.” Wholeness or completeness, distinct from mere absence of conflict.  
 
-v30: ἄρχων (archōn)
-“Ruler.” One who exercises authority; here undefined in scope.
-
+v30: ἄρχων (archōn)  
+“Ruler.” One who exercises authority; here undefined in scope.  

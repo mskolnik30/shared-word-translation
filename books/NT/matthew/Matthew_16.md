@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 16
 translation: TSW
@@ -124,7 +124,7 @@ v25: Paradox of loss/gain reframes life in relational rather than possessive ter
 
 v27: Judgment tied to revealed works; accountability is universal.  
 
-v28: Anticipatory fulfillment—kingdom manifestation begins before final consummation.
+v28: Anticipatory fulfillment—kingdom manifestation begins before final consummation.  
 
 ## Vocabulary
 
@@ -156,4 +156,4 @@ v24: ἀπαρνησάσθω (*aparnēsasthō*) — “Let him deny.” Renounce
 
 v25: ψυχή (*psychē*) — “Life.” Self, life-force, identity.  
 
-v27: ἀποδώσει (*apodōsei*) — “Will repay.” Render according to action.
+v27: ἀποδώσει (*apodōsei*) — “Will repay.” Render according to action.  

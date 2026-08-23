@@ -1,5 +1,5 @@
 ---  
-book: Psalm  
+book: psalm
 testament: OT  
 chapter: 73  
 translation: TSW  
@@ -52,16 +52,16 @@ v28: But as for me, it is good to be near God; I have made the Lord Yahweh my re
 
 ## Notes
 
-v1: "pure in heart" — This phrase indicates those who are sincere and wholehearted in their devotion to God, aligning inner motives with outward actions.
+v1: "pure in heart" — This phrase indicates those who are sincere and wholehearted in their devotion to God, aligning inner motives with outward actions.  
 
-v5: "They are not in trouble" — This underscores the perceived ease and stability of the wicked compared to others, contributing to the psalmist’s struggle.
+v5: "They are not in trouble" — This underscores the perceived ease and stability of the wicked compared to others, contributing to the psalmist’s struggle.  
 
-v16–17: The sanctuary represents a place of divine revelation and understanding, providing clarity on the fate of the wicked in contrast to their temporary prosperity.
+v16–17: The sanctuary represents a place of divine revelation and understanding, providing clarity on the fate of the wicked in contrast to their temporary prosperity.  
 
 ## Vocabulary
 
-v1: אֱלֹהִים (e.lo.him) — Referring to God, emphasizing the divine nature and relationship with the people of Israel.
+v1: אֱלֹהִים (e.lo.him) — Referring to God, emphasizing the divine nature and relationship with the people of Israel.  
 
-v24: כָּבוֹד (ka.vod) — Here used in the sense of honor or glory, describing the outcome of divine guidance and care leading to honor.
+v24: כָּבוֹד (ka.vod) — Here used in the sense of honor or glory, describing the outcome of divine guidance and care leading to honor.  
 
-v26: צוּר (tsur) — Often translated as "rock," symbolizing stability and strength, particularly of God as the firm foundation of the psalmist's life.
+v26: צוּר (tsur) — Often translated as "rock," symbolizing stability and strength, particularly of God as the firm foundation of the psalmist's life.  

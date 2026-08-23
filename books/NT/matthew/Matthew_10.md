@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 10
 translation: TSW
@@ -218,4 +218,4 @@ v38: σταυρός (*stauros*) — “Cross.” Instrument of execution; here s
 
 v39: ψυχή (*psychē*) — “Life,” “soul.” Whole self, not merely inner essence.  
 
-v42: μικρός (*mikros*) — “Little one.” Status defined by vulnerability, not age alone.
+v42: μικρός (*mikros*) — “Little one.” Status defined by vulnerability, not age alone.  

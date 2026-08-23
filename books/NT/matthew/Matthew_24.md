@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 24
 translation: TSW
@@ -200,7 +200,7 @@ v37–39: Normalcy precedes sudden disruption.
 
 v42–44: Watchfulness grounded in ignorance of timing.  
 
-v45–51: Ethical readiness expressed through stewardship fidelity.
+v45–51: Ethical readiness expressed through stewardship fidelity.  
 
 ## Vocabulary
 
@@ -236,4 +236,4 @@ v42: γρηγορεῖτε (*grēgoreite*) — “Stay awake.” Be vigilant.
 
 v45: πιστός (*pistos*) — “Faithful.” Reliable, trustworthy.  
 
-v51: ὑποκριταί (*hypokritai*) — “Hypocrites.” Those who perform falsely.
+v51: ὑποκριταί (*hypokritai*) — “Hypocrites.” Those who perform falsely.  

@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 11
 translation: TSW
@@ -134,7 +134,7 @@ v25–26: Revelation is depicted as selective yet purposeful; hiddenness and dis
 
 v27: Knowledge is relational and mediated; access to the Father is not generalized.  
 
-v28–30: Rest is offered not as escape but as reorientation under a different yoke.
+v28–30: Rest is offered not as escape but as reorientation under a different yoke.  
 
 ## Vocabulary
 
@@ -166,4 +166,4 @@ v28: κοπιάω (*kopiaō*) — “To labor.” Exhaustion through effort.
 
 v29: ζυγός (*zygos*) — “Yoke.” Instrument of guidance and burden-sharing.  
 
-v30: χρηστός (*chrēstos*) — “Easy,” “kind.” Denotes fittingness rather than absence of demand.
+v30: χρηστός (*chrēstos*) — “Easy,” “kind.” Denotes fittingness rather than absence of demand.  

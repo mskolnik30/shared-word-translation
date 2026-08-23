@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 22
 translation: TSW
@@ -158,7 +158,7 @@ v37–40: Love functions as interpretive center of the law.
 
 v41–45: Messiah exceeds simple lineage categories; identity is expanded.  
 
-v46: Silence indicates argumentative closure, not agreement.
+v46: Silence indicates argumentative closure, not agreement.  
 
 ## Vocabulary
 
@@ -188,4 +188,4 @@ v40: κρέμανται (*kremantai*) — “Depend.” Hang upon; derive from.
 
 v43: ἐν πνεύματι (*en pneumati*) — “In the Spirit.” Inspired utterance.  
 
-v46: τολμᾶν (*tolman*) — “Dare.” To risk speaking further.
+v46: τολμᾶν (*tolman*) — “Dare.” To risk speaking further.  

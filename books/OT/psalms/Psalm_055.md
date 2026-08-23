@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 55
 translation: TSW
 ---
 
 <p>
-v01: For the director with strings. A Maskil of David.
+v01: For the director with strings. A Maskil of David.  
 </p>
 
 <p>
@@ -111,20 +111,20 @@ But I will trust in you.
 
 ## Notes
 
-v1: "A Maskil of David" — The term "Maskil" may denote a contemplative or didactic poem, inviting reflection.
+v1: "A Maskil of David" — The term "Maskil" may denote a contemplative or didactic poem, inviting reflection.  
 
-v10: "Confuse, O Lord, divide their tongues" — This echoes the story of Babel, where language confusion scatters humanity, symbolizing division among evildoers.
+v10: "Confuse, O Lord, divide their tongues" — This echoes the story of Babel, where language confusion scatters humanity, symbolizing division among evildoers.  
 
-v13–14: "not an enemy... you—a person of my equal" — The psalmist highlights the deep betrayal by a close friend, contrasting it with the pain of a usual adversary.
+v13–14: "not an enemy... you—a person of my equal" — The psalmist highlights the deep betrayal by a close friend, contrasting it with the pain of a usual adversary.  
 
-v16–17: "Let death seize them; let them go down to Sheol alive" — A strong petition for divine justice against those who persistently work evil.
+v16–17: "Let death seize them; let them go down to Sheol alive" — A strong petition for divine justice against those who persistently work evil.  
 
-v23: "Cast your burden on the Lord" — An invitation to trust in God as sustainer, who provides stability amidst life's uncertainties.
+v23: "Cast your burden on the Lord" — An invitation to trust in God as sustainer, who provides stability amidst life's uncertainties.  
 
 ## Vocabulary
 
-v11: יוֹמָם וָלַ֗יְלָה (yo.mam va.la'yla) — "Day and night" captures the continual unrest and vigilance surrounding the city.
+v11: יוֹמָם וָלַ֗יְלָה (yo.mam va.la'yla) — "Day and night" captures the continual unrest and vigilance surrounding the city.  
 
-v18: עֶ֤רֶב וָבֹ֣קֶר וְצָהֳרַיִם (e.rev va.vo.qer va.tso.ho.rayim) — "Evening and morning and at noon" signifies all times of prayer, emphasizing a life committed to persistent prayer.
+v18: עֶ֤רֶב וָבֹ֣קֶר וְצָהֳרַיִם (e.rev va.vo.qer va.tso.ho.rayim) — "Evening and morning and at noon" signifies all times of prayer, emphasizing a life committed to persistent prayer.  
 
-v23: יְהָבְךָ֮ (ye.hav'kha) — "your burden" refers to the anxiety, troubles, or challenges an individual might carry, which are to be entrusted to God.
+v23: יְהָבְךָ֮ (ye.hav'kha) — "your burden" refers to the anxiety, troubles, or challenges an individual might carry, which are to be entrusted to God.  
