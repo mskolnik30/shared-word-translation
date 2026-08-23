@@ -5,120 +5,120 @@ chapter: 9
 translation: TSW
 ---
 
-v01:
-<p>When Solomon had finished building the house of the LORD, the king’s house, and everything Solomon desired to make,</p>
+v01:  
+<p>When Solomon had finished building the house of the LORD, the king’s house, and everything Solomon desired to make,</p>  
 
-v02:
-<p>the LORD appeared to Solomon a second time, as he had appeared to him at Gibeon.</p>
+v02:  
+<p>the LORD appeared to Solomon a second time, as he had appeared to him at Gibeon.</p>  
 
-v03:
-<p>The LORD said to him, “I have heard your prayer and your plea for favor that you have made before me. I have consecrated this house that you have built, to put my name there forever; and my eyes and my heart will be there all the days.</p>
+v03:  
+<p>The LORD said to him, “I have heard your prayer and your plea for favor that you have made before me. I have consecrated this house that you have built, to put my name there forever; and my eyes and my heart will be there all the days.</p>  
 
-v04:
-<p>“And as for you, if you walk before me as David your father walked, with integrity of heart and uprightness, doing all that I have commanded you, and keep my statutes and my judgments,</p>
+v04:  
+<p>“And as for you, if you walk before me as David your father walked, with integrity of heart and uprightness, doing all that I have commanded you, and keep my statutes and my judgments,</p>  
 
-v05:
-<p>then I will establish the throne of your kingdom over Israel forever, as I spoke concerning David your father, saying, ‘You will not lack a man upon the throne of Israel.’</p>
+v05:  
+<p>then I will establish the throne of your kingdom over Israel forever, as I spoke concerning David your father, saying, ‘You will not lack a man upon the throne of Israel.’</p>  
 
-v06:
-<p>“But if you indeed turn away from following me—you and your children—and do not keep my commandments and my statutes that I have set before you, but go and serve other gods and bow down to them,</p>
+v06:  
+<p>“But if you indeed turn away from following me—you and your children—and do not keep my commandments and my statutes that I have set before you, but go and serve other gods and bow down to them,</p>  
 
-v07:
-<p>then I will cut Israel off from the face of the land that I gave them; and the house that I have consecrated for my name I will send away from before me. Israel will become a proverb and a taunt among all peoples.</p>
+v07:  
+<p>then I will cut Israel off from the face of the land that I gave them; and the house that I have consecrated for my name I will send away from before me. Israel will become a proverb and a taunt among all peoples.</p>  
 
-v08:
-<p>This house will become high; everyone passing by it will be appalled and whistle. They will say, ‘Why has the LORD done this to this land and to this house?’</p>
+v08:  
+<p>This house will become high; everyone passing by it will be appalled and whistle. They will say, ‘Why has the LORD done this to this land and to this house?’</p>  
 
-v09:
-<p>And they will say, ‘Because they forsook the LORD their God, who brought their ancestors out of the land of Egypt, and they held fast to other gods, bowed down to them, and served them. Therefore the LORD brought all this disaster upon them.’”</p>
+v09:  
+<p>And they will say, ‘Because they forsook the LORD their God, who brought their ancestors out of the land of Egypt, and they held fast to other gods, bowed down to them, and served them. Therefore the LORD brought all this disaster upon them.’”</p>  
 
-v10:
-<p>At the end of twenty years, during which Solomon had built the two houses—the house of the LORD and the king’s house—</p>
+v10:  
+<p>At the end of twenty years, during which Solomon had built the two houses—the house of the LORD and the king’s house—</p>  
 
-v11:
-<p>King Hiram of Tyre had supplied Solomon with cedar timber, cypress timber, and gold, according to all his desire. Then King Solomon gave Hiram twenty cities in the land of Galilee.</p>
+v11:  
+<p>King Hiram of Tyre had supplied Solomon with cedar timber, cypress timber, and gold, according to all his desire. Then King Solomon gave Hiram twenty cities in the land of Galilee.</p>  
 
-v12:
-<p>Hiram came out from Tyre to see the cities that Solomon had given him, but they did not please him.</p>
+v12:  
+<p>Hiram came out from Tyre to see the cities that Solomon had given him, but they did not please him.</p>  
 
-v13:
-<p>He said, “What are these cities that you have given me, my brother?” And he called them the land of Cabul, as they are called to this day.</p>
+v13:  
+<p>He said, “What are these cities that you have given me, my brother?” And he called them the land of Cabul, as they are called to this day.</p>  
 
-v14:
-<p>Then Hiram sent the king one hundred and twenty talents of gold.</p>
+v14:  
+<p>Then Hiram sent the king one hundred and twenty talents of gold.</p>  
 
-v15:
-<p>This is the account of the forced labor that King Solomon raised to build the house of the LORD, his own house, the Millo, the wall of Jerusalem, Hazor, Megiddo, and Gezer.</p>
+v15:  
+<p>This is the account of the forced labor that King Solomon raised to build the house of the LORD, his own house, the Millo, the wall of Jerusalem, Hazor, Megiddo, and Gezer.</p>  
 
-v16:
-<p>Pharaoh king of Egypt had gone up and captured Gezer, burned it with fire, killed the Canaanites living in the city, and gave it as a wedding gift to his daughter, Solomon’s wife.</p>
+v16:  
+<p>Pharaoh king of Egypt had gone up and captured Gezer, burned it with fire, killed the Canaanites living in the city, and gave it as a wedding gift to his daughter, Solomon’s wife.</p>  
 
-v17:
-<p>Solomon rebuilt Gezer and Lower Beth-horon,</p>
+v17:  
+<p>Solomon rebuilt Gezer and Lower Beth-horon,</p>  
 
-v18:
-<p>Baalath, and Tadmor in the wilderness, in the land,</p>
+v18:  
+<p>Baalath, and Tadmor in the wilderness, in the land,</p>  
 
-v19:
-<p>along with all the storage cities that belonged to Solomon, the chariot cities, the cities for the horsemen, and whatever Solomon desired to build in Jerusalem, in Lebanon, and throughout all the land of his dominion.</p>
+v19:  
+<p>along with all the storage cities that belonged to Solomon, the chariot cities, the cities for the horsemen, and whatever Solomon desired to build in Jerusalem, in Lebanon, and throughout all the land of his dominion.</p>  
 
-v20:
-<p>All the people remaining from the Amorites, Hittites, Perizzites, Hivites, and Jebusites—who were not Israelites—</p>
+v20:  
+<p>All the people remaining from the Amorites, Hittites, Perizzites, Hivites, and Jebusites—who were not Israelites—</p>  
 
-v21:
-<p>their descendants who remained after them in the land, whom the Israelites had been unable to devote to destruction: Solomon brought them up for forced labor, as it is to this day.</p>
+v21:  
+<p>their descendants who remained after them in the land, whom the Israelites had been unable to devote to destruction: Solomon brought them up for forced labor, as it is to this day.</p>  
 
-v22:
-<p>But from the Israelites Solomon did not make slaves, for they were warriors, his servants, his officials, his third-rank officers, and commanders of his chariots and horsemen.</p>
+v22:  
+<p>But from the Israelites Solomon did not make slaves, for they were warriors, his servants, his officials, his third-rank officers, and commanders of his chariots and horsemen.</p>  
 
-v23:
-<p>These were the chief officers over Solomon’s work: five hundred and fifty, ruling over the people doing the work.</p>
+v23:  
+<p>These were the chief officers over Solomon’s work: five hundred and fifty, ruling over the people doing the work.</p>  
 
-v24:
-<p>But Pharaoh’s daughter went up from the city of David to her house that Solomon had built for her. Then he built the Millo.</p>
+v24:  
+<p>But Pharaoh’s daughter went up from the city of David to her house that Solomon had built for her. Then he built the Millo.</p>  
 
-v25:
-<p>Three times a year Solomon offered burnt offerings and well-being offerings on the altar that he had built for the LORD, and he burned incense on it before the LORD. So he completed the house.</p>
+v25:  
+<p>Three times a year Solomon offered burnt offerings and well-being offerings on the altar that he had built for the LORD, and he burned incense on it before the LORD. So he completed the house.</p>  
 
-v26:
-<p>King Solomon also made a fleet at Ezion-geber, which is beside Eloth on the shore of the Sea of Reeds, in the land of Edom.</p>
+v26:  
+<p>King Solomon also made a fleet at Ezion-geber, which is beside Eloth on the shore of the Sea of Reeds, in the land of Edom.</p>  
 
-v27:
-<p>Hiram sent his servants with the fleet, sailors who knew the sea, together with Solomon’s servants.</p>
+v27:  
+<p>Hiram sent his servants with the fleet, sailors who knew the sea, together with Solomon’s servants.</p>  
 
-v28:
-<p>They came to Ophir and took from there four hundred and twenty talents of gold, and they brought it to King Solomon.</p>
+v28:  
+<p>They came to Ophir and took from there four hundred and twenty talents of gold, and they brought it to King Solomon.</p>  
 
 ## Notes
 
-**v3.** The LORD’s promise to put his “name” in the house does not reduce God to the building. The language joins God’s chosen presence with God’s continuing freedom: the temple bears the divine name, while God’s “eyes” and “heart” attend to it.
+**v3.** The LORD’s promise to put his “name” in the house does not reduce God to the building. The language joins God’s chosen presence with God’s continuing freedom: the temple bears the divine name, while God’s “eyes” and “heart” attend to it.  
 
-**v4–9.** The promise concerning David’s throne is framed by a warning to Solomon and his descendants. The chapter holds together the enduring Davidic promise and the real covenantal consequences of turning to other gods.
+**v4–9.** The promise concerning David’s throne is framed by a warning to Solomon and his descendants. The chapter holds together the enduring Davidic promise and the real covenantal consequences of turning to other gods.  
 
-**v7.** “A proverb and a taunt” describes Israel becoming an object lesson among the nations—a people whose ruin is spoken of with scorn.
+**v7.** “A proverb and a taunt” describes Israel becoming an object lesson among the nations—a people whose ruin is spoken of with scorn.  
 
-**v8.** “This house will become high” may refer to its conspicuous elevation or prominence. Its very visibility will make its devastation a cause of horror and questioning.
+**v8.** “This house will become high” may refer to its conspicuous elevation or prominence. Its very visibility will make its devastation a cause of horror and questioning.  
 
-**v15.** The term translated “forced labor” concerns labor levied by royal authority for Solomon’s building projects. The account of the temple and royal achievements is thus also an account of the human cost of royal expansion.
+**v15.** The term translated “forced labor” concerns labor levied by royal authority for Solomon’s building projects. The account of the temple and royal achievements is thus also an account of the human cost of royal expansion.  
 
-**v18.** The Hebrew textual tradition preserves two forms of this place-name: the written form is *Tamar*, while the traditional reading is *Tadmor*. The translation follows the traditional reading while retaining the wilderness setting given in the text.
+**v18.** The Hebrew textual tradition preserves two forms of this place-name: the written form is *Tamar*, while the traditional reading is *Tadmor*. The translation follows the traditional reading while retaining the wilderness setting given in the text.  
 
-**v21–23.** The text distinguishes between the peoples assigned to forced labor and Israelites assigned to military and administrative roles. Yet the chapter also names a large body of officials “ruling over” those doing the work, keeping the structure of royal power plainly in view.
+**v21–23.** The text distinguishes between the peoples assigned to forced labor and Israelites assigned to military and administrative roles. Yet the chapter also names a large body of officials “ruling over” those doing the work, keeping the structure of royal power plainly in view.  
 
-**v25.** The wording connects Solomon’s offerings, incense, and completion of the house. “On it” refers to the altar, though the Hebrew syntax is compressed.
+**v25.** The wording connects Solomon’s offerings, incense, and completion of the house. “On it” refers to the altar, though the Hebrew syntax is compressed.  
 
 ## Vocabulary
 
-**v3 — שֵׁם (*shem*), “name.”** Here the LORD puts the divine name in the temple. The name signifies God’s claimed presence and reputation associated with this house without confining God to it.
+**v3 — שֵׁם (*shem*), “name.”** Here the LORD puts the divine name in the temple. The name signifies God’s claimed presence and reputation associated with this house without confining God to it.  
 
-**v4 — תֹּם (*tom*), “integrity.”** Solomon is called to walk before the LORD with wholeness of heart, joined with uprightness and obedience rather than mere outward success.
+**v4 — תֹּם (*tom*), “integrity.”** Solomon is called to walk before the LORD with wholeness of heart, joined with uprightness and obedience rather than mere outward success.  
 
-**v7 — מָשָׁל (*mashal*), “proverb.”** Israel’s downfall would become a publicly repeated saying, a warning recognized among the peoples.
+**v7 — מָשָׁל (*mashal*), “proverb.”** Israel’s downfall would become a publicly repeated saying, a warning recognized among the peoples.  
 
-**v15 — מַס (*mas*), “forced labor.”** The term names labor levied by the king for construction. It exposes the coercive machinery supporting Solomon’s projects.
+**v15 — מַס (*mas*), “forced labor.”** The term names labor levied by the king for construction. It exposes the coercive machinery supporting Solomon’s projects.  
 
-**v21 — חָרַם (*ḥaram*), “devote to destruction.”** The verb refers to placing a people or thing under irrevocable ban. Here the text says Israel had not been able to carry this out against the remaining peoples.
+**v21 — חָרַם (*ḥaram*), “devote to destruction.”** The verb refers to placing a people or thing under irrevocable ban. Here the text says Israel had not been able to carry this out against the remaining peoples.  
 
-**v25 — שְׁלָמִים (*shelamim*), “well-being offerings.”** These sacrifices are associated with wholeness, peace, and shared fellowship before God.
+**v25 — שְׁלָמִים (*shelamim*), “well-being offerings.”** These sacrifices are associated with wholeness, peace, and shared fellowship before God.  
 
-**v26 — יַם־סוּף (*yam suf*), “Sea of Reeds.”** The name links Solomon’s maritime enterprise geographically to Edom while echoing the sea associated with Israel’s exodus story.
+**v26 — יַם־סוּף (*yam suf*), “Sea of Reeds.”** The name links Solomon’s maritime enterprise geographically to Edom while echoing the sea associated with Israel’s exodus story.  
