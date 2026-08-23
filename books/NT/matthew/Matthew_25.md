@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 25
 translation: TSW
@@ -154,11 +154,11 @@ v40: Identification of the king with “the least” is decisive.
 
 v41: Parallel structure of blessing and curse.  
 
-v46: Binary outcome—eternal punishment vs eternal life.
+v46: Binary outcome—eternal punishment vs eternal life.  
 
 ## Vocabulary
 
-v1: λαμπάδες (*lampades*) — “Lamps.” Torches used in procession.  
+v8: λαμπάδες (*lampades*) — “Lamps.” Torches used in procession.  
 
 v2: μωραί (*mōrai*) — “Foolish.” Lacking foresight.  
 
@@ -196,4 +196,4 @@ v40: ἐλάχιστοι (*elachistoi*) — “Least.” Socially minimal or vul
 
 v46: κόλασις (*kolasis*) — “Punishment.” Corrective or penal suffering.  
 
-v46: ζωή αἰώνιος (*zōē aiōnios*) — “Eternal life.” Life of the age to come.
+v46: ζωή αἰώνιος (*zōē aiōnios*) — “Eternal life.” Life of the age to come.  
