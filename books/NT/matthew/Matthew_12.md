@@ -1,5 +1,5 @@
 ---
-book: Matthew
+book: matthew
 testament: NT
 chapter: 12
 translation: TSW
@@ -203,7 +203,7 @@ v39–40: The sign of Jonah is temporal and typological; interpretation is requi
 
 v43–45: Emptiness without transformation invites return; absence of evil is insufficient.  
 
-v48–50: Kinship is redefined around obedience; relational identity is reconstituted.
+v48–50: Kinship is redefined around obedience; relational identity is reconstituted.  
 
 ## Vocabulary
 
@@ -235,4 +235,4 @@ v40: καρδία τῆς γῆς (*kardia tēs gēs*) — “Heart of the earth
 
 v43: ἀνάπαυσις (*anapausis*) — “Rest.” Desired but not attained by the spirit.  
 
-v50: θέλημα (*thelēma*) — “Will.” Expressed intention of the Father.
+v50: θέλημα (*thelēma*) — “Will.” Expressed intention of the Father.  
