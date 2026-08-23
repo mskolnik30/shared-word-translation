@@ -1,5 +1,5 @@
 ---
-book: Deuteronomy
+book: deuteronomy
 testament: OT
 chapter: 34
 translation: TSW
@@ -57,92 +57,92 @@ v12: and for all the mighty hand and all the great fear that Moses did in the si
 
 ## Notes
 
-v1–3: Moses views the fullness of the promise but does not enter it. The vision is comprehensive, naming the land in its breadth.
+v1–3: Moses views the fullness of the promise but does not enter it. The vision is comprehensive, naming the land in its breadth.  
 
-v4: The covenant is reaffirmed in sight but withheld in experience. Fulfillment is both seen and deferred.
+v4: The covenant is reaffirmed in sight but withheld in experience. Fulfillment is both seen and deferred.  
 
-v5–6: Moses dies “according to the word of the LORD,” and the hidden burial underscores divine agency and limits memorialization.
+v5–6: Moses dies “according to the word of the LORD,” and the hidden burial underscores divine agency and limits memorialization.  
 
-v7: Physical vitality remains intact; death is not attributed to decline but to divine determination.
+v7: Physical vitality remains intact; death is not attributed to decline but to divine determination.  
 
-v8: Communal mourning is structured—thirty days marks closure and transition.
+v8: Communal mourning is structured—thirty days marks closure and transition.  
 
-v9: Leadership passes through embodied action (laying on of hands) and is confirmed by obedience.
+v9: Leadership passes through embodied action (laying on of hands) and is confirmed by obedience.  
 
-v10: Moses’ uniqueness is relational—“face to face” knowledge distinguishes his prophetic role.
+v10: Moses’ uniqueness is relational—“face to face” knowledge distinguishes his prophetic role.  
 
-v11–12: Signs, wonders, and “mighty hand” summarize Moses’ ministry as mediated power before Israel and Egypt.
+v11–12: Signs, wonders, and “mighty hand” summarize Moses’ ministry as mediated power before Israel and Egypt.  
 
 ## Vocabulary
 
 v1: עָלָה (ʿālāh)  
 
-“To go up.” To ascend, often toward a significant place.
+v1: “To go up.” To ascend, often toward a significant place.  
 
 v1: הַר (har)  
 
-“Mountain.” Elevated place of encounter.
+v1: “Mountain.” Elevated place of encounter.  
 
 v1: רָאָה (rāʾāh)  
 
-“To see.” To perceive or be shown.
+v1: “To see.” To perceive or be shown.  
 
 v4: שָׁבַע (šāḇaʿ)  
 
-“To swear.” To bind by oath.
+v4: “To swear.” To bind by oath.  
 
 v4: זֶרַע (zeraʿ)  
 
-“Offspring/seed.” Descendants of promise.
+v4: “Offspring/seed.” Descendants of promise.  
 
 v5: עֶבֶד (ʿeḇeḏ)  
 
-“Servant.” One who serves under authority.
+v5: “Servant.” One who serves under authority.  
 
 v5: מוּת (mûṯ)  
 
-“To die.” To come to the end of life.
+v5: “To die.” To come to the end of life.  
 
 v6: קָבַר (qāḇar)  
 
-“To bury.” To inter the dead.
+v6: “To bury.” To inter the dead.  
 
 v7: לֵחַ (lēaḥ)  
 
-“Vigor/moisture.” Freshness, vitality.
+v7: “Vigor/moisture.” Freshness, vitality.  
 
 v8: בָּכָה (bāḵāh)  
 
-“To weep.” To express grief.
+v8: “To weep.” To express grief.  
 
 v8: אֵבֶל (ʾēḇel)  
 
-“Mourning.” Ritualized grief.
+v8: “Mourning.” Ritualized grief.  
 
 v9: רוּחַ (rûaḥ)  
 
-“Spirit.” Animating or empowering presence.
+v9: “Spirit.” Animating or empowering presence.  
 
 v9: חָכְמָה (ḥoḵmāh)  
 
-“Wisdom.” Skill in living and leading.
+v9: “Wisdom.” Skill in living and leading.  
 
 v10: יָדַע (yāḏaʿ)  
 
-“To know.” Intimate, relational knowledge.
+v10: “To know.” Intimate, relational knowledge.  
 
 v11: אוֹת (ʾôṯ)  
 
-“Sign.” Mark of divine action.
+v11: “Sign.” Mark of divine action.  
 
 v11: מוֹפֵת (môp̄ēṯ)  
 
-“Wonder.” Extraordinary act.
+v11: “Wonder.” Extraordinary act.  
 
 v12: יָד חֲזָקָה (yāḏ ḥăzāqāh)  
 
-“Mighty hand.” Expression of powerful action.
+v12: “Mighty hand.” Expression of powerful action.  
 
 v12: מוֹרָא (môrāʾ)  
 
-“Great fear.” Awe-inspiring display.
+v12: “Great fear.” Awe-inspiring display.  
