@@ -66,7 +66,7 @@ v2: בְּנֵי הָאֱלֹהִים (bĕnê hāʾĕlōhîm)
 “Sons of God.” A phrase whose precise referent remains debated and intentionally unresolved in the text.  
 
 v3: רוּחַ (rûaḥ)  
-“Spirit,” “breath,” or “wind.” The word carries a range of meanings and often signifies life-giving divine activity.  
+v3: “Spirit,” “breath,” or “wind.” The word carries a range of meanings and often signifies life-giving divine activity.  
 
 v4: נְפִלִים (nĕphîlîm)  
 “Nephilim.” A rare term preserved as a name rather than translated due to its uncertainty.  
