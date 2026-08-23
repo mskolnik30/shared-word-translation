@@ -1,5 +1,5 @@
 ---
-book: Acts
+book: acts
 testament: NT
 chapter: 2
 translation: TSW
@@ -103,48 +103,48 @@ v47: praising God and having favor with all the people. And the Lord added to th
 
 
 ## Notes
-v1–4: The Spirit’s coming is marked by sensory imagery—sound, sight, speech—without collapsing into explanation.
-v6–8: The miracle is heard as much as seen; understanding occurs within each listener’s own language.
-v12–13: Wonder and dismissal coexist; the same event generates divergent interpretations.
-v17–21: Joel’s prophecy frames the moment as expansive—across age, gender, and status—without narrowing its scope.
-v23: Divine purpose and human responsibility are held together without resolution.
-v24: “It was not possible” expresses necessity without specifying mechanism.
-v29–31: Peter interprets David not as speaking of himself but beyond himself, reframing scripture through resurrection.
-v33: The visible event (Pentecost) is interpreted as evidence of exaltation.
-v36: The declaration “Lord and Christ” gathers authority and identity into a single claim.
-v37: “Pierced to the heart” signals recognition that is both emotional and moral.
-v38: Repentance and baptism are paired as response; forgiveness and the Spirit are given, not achieved.
-v39: The promise extends outward without defined boundary, grounded in divine calling.
-v42–47: The community is described through practices rather than structure; devotion precedes organization.
+v1–4: The Spirit’s coming is marked by sensory imagery—sound, sight, speech—without collapsing into explanation.  
+v6–8: The miracle is heard as much as seen; understanding occurs within each listener’s own language.  
+v12–13: Wonder and dismissal coexist; the same event generates divergent interpretations.  
+v17–21: Joel’s prophecy frames the moment as expansive—across age, gender, and status—without narrowing its scope.  
+v23: Divine purpose and human responsibility are held together without resolution.  
+v24: “It was not possible” expresses necessity without specifying mechanism.  
+v29–31: Peter interprets David not as speaking of himself but beyond himself, reframing scripture through resurrection.  
+v33: The visible event (Pentecost) is interpreted as evidence of exaltation.  
+v36: The declaration “Lord and Christ” gathers authority and identity into a single claim.  
+v37: “Pierced to the heart” signals recognition that is both emotional and moral.  
+v38: Repentance and baptism are paired as response; forgiveness and the Spirit are given, not achieved.  
+v39: The promise extends outward without defined boundary, grounded in divine calling.  
+v42–47: The community is described through practices rather than structure; devotion precedes organization.  
 
 
 ## Vocabulary
-v1: πεντηκοστή (pentēkostē)
-“Pentecost.” A festival occurring fifty days after Passover; here the setting for the Spirit’s outpouring.
+v1: πεντηκοστή (pentēkostē)  
+“Pentecost.” A festival occurring fifty days after Passover; here the setting for the Spirit’s outpouring.  
 
-v2: πνοή (pnoē)
-“Wind” or “breath.” Connotes both natural force and life-giving presence.
+v2: πνοή (pnoē)  
+“Wind” or “breath.” Connotes both natural force and life-giving presence.  
 
-v4: γλῶσσα (glōssa)
-“Tongue” or “language.” Carries both physical and linguistic meaning.
+v4: γλῶσσα (glōssa)  
+“Tongue” or “language.” Carries both physical and linguistic meaning.  
 
-v17: πνεῦμα (pneuma)
-“Spirit.” Can mean wind, breath, or Spirit; the term remains layered.
+v17: πνεῦμα (pneuma)  
+“Spirit.” Can mean wind, breath, or Spirit; the term remains layered.  
 
-v23: πρόγνωσις (prognōsis)
-“Foreknowledge.” Indicates prior knowing without detailing causation.
+v23: πρόγνωσις (prognōsis)  
+“Foreknowledge.” Indicates prior knowing without detailing causation.  
 
-v24: ὠδῖνες (ōdines)
-“Pains.” Often used for birth pangs, suggesting both suffering and transition.
+v24: ὠδῖνες (ōdines)  
+“Pains.” Often used for birth pangs, suggesting both suffering and transition.  
 
-v36: κύριος (kyrios)
-“Lord.” A title of authority; in this context, associated with divine status.
+v36: κύριος (kyrios)  
+“Lord.” A title of authority; in this context, associated with divine status.  
 
-v37: κατανύσσομαι (katanussomai)
-“To be pierced” or “cut.” Indicates deep internal impact.
+v37: κατανύσσομαι (katanussomai)  
+“To be pierced” or “cut.” Indicates deep internal impact.  
 
-v38: μετάνοια (metanoia)
-“Repentance.” A turning or reorientation of mind and life.
+v38: μετάνοια (metanoia)  
+“Repentance.” A turning or reorientation of mind and life.  
 
-v42: κοινωνία (koinōnia)
-“Fellowship.” Shared life and participation within the community.
+v42: κοινωνία (koinōnia)  
+“Fellowship.” Shared life and participation within the community.  
