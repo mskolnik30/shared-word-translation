@@ -1,5 +1,5 @@
 ---
-book: Exodus
+book: exodus
 testament: OT
 chapter: 1
 translation: TSW
@@ -111,62 +111,62 @@ v19: Their response blends truth and strategy, resisting power through speech.
 
 v20–21: Divine favor aligns with those who resist injustice.  
 
-v22: Violence expands from targeted command to public decree, involving the whole society.
+v22: Violence expands from targeted command to public decree, involving the whole society.  
 
 ## Vocabulary
 
 v7: פָּרָה (pārāh)  
 
-“To be fruitful.” Growth under blessing.  
+v7: “To be fruitful.” Growth under blessing.  
 
 v7: רָבָה (rāḇāh)  
 
-“To multiply.” Increase in number or extent.  
+v7: “To multiply.” Increase in number or extent.  
 
 v8: מֶלֶךְ (meleḵ)  
 
-“King.” Political authority.  
+v8: “King.” Political authority.  
 
 v10: חָכַם (ḥāḵam)  
 
-“To deal shrewdly.” Strategic, often manipulative thinking.  
+v10: “To deal shrewdly.” Strategic, often manipulative thinking.  
 
 v11: סַבָּל (sabbāl)  
 
-“Taskmaster.” Overseer of forced labor.  
+v11: “Taskmaster.” Overseer of forced labor.  
 
 v12: קוּץ (qûṣ)  
 
-“To dread, feel loathing.” Deep discomfort or fear.  
+v12: “To dread, feel loathing.” Deep discomfort or fear.  
 
 v13: פָּרַךְ (pāraḵ)  
 
-“To make serve ruthlessly.” Harsh domination.  
+v13: “To make serve ruthlessly.” Harsh domination.  
 
 v14: עֲבֹדָה (ʿăḇōḏāh)  
 
-“Service, labor.” Work under obligation.  
+v14: “Service, labor.” Work under obligation.  
 
 v15: יָלַד (yālaḏ)  
 
-“To give birth.” Bring forth life.  
+v15: “To give birth.” Bring forth life.  
 
 v17: יָרֵא (yārēʾ)  
 
-“To fear.” Reverence guiding action.  
+v17: “To fear.” Reverence guiding action.  
 
 v19: חָיָה (ḥāyāh)  
 
-“To live.” Preserve life.  
+v17: “To live.” Preserve life.  
 
 v20: יָטַב (yāṭaḇ)  
 
-“To deal well.” Act beneficially.  
+v20: “To deal well.” Act beneficially.  
 
 v21: בַּיִת (bayiṯ)  
 
-“Household.” Established family line.  
+v21: “Household.” Established family line.  
 
 v22: שָׁלַךְ (šālaḵ)  
 
-“To throw, cast.” Forceful disposal.  
+v22: “To throw, cast.” Forceful disposal.  
