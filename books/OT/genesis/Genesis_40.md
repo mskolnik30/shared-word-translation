@@ -69,7 +69,7 @@ v1: מַשְׁקֶה (mašqeh)
 “Cupbearer.” An official responsible for serving the king's drink.  
 
 v2: סָרִיס (sārîs)  
-“Officer” or “court official.” A high-ranking servant in a royal household.  
+v2: “Officer” or “court official.” A high-ranking servant in a royal household.  
 
 v5: חֲלוֹם (ḥălôm)  
 “Dream.” A significant means of divine revelation in Genesis.  
