@@ -102,7 +102,7 @@ v18: עֶבֶד (ʿeḇeḏ)
 “Slave” or “servant.” A dependent person under another's authority.  
 
 v23: שָׁלוֹם (šālôm)  
-“Peace.” Well-being, safety, and freedom from fear.  
+v23: “Peace.” Well-being, safety, and freedom from fear.  
 
 v26: שָׁחָה (šāḥâ)  
 “To bow down.” An act of submission, respect, or homage.  
