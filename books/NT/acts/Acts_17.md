@@ -122,7 +122,7 @@ v2: διαλέγομαι (dialegomai)
 “To reason” or “to discuss.” The term implies exchange and argument rather than monologue.  
 
 v3: δεῖ (dei)  
-“It is necessary.” Often signals divine or scriptural necessity within Luke-Acts.  
+v3: “It is necessary.” Often signals divine or scriptural necessity within Luke-Acts.  
 
 v5: ζηλόω (zēloō)  
 “To be jealous” or “to be zealous.” The term can carry both envy and fervor, depending on context.  
