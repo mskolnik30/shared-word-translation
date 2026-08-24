@@ -145,6 +145,8 @@ v23: “By what authority…?” — The leaders’ question is political and th
 
 v25–27: John’s baptism — Jesus exposes their posture: they calculate consequences instead of seeking truth. Refusing John’s authority reveals their refusal of God’s.  
 
+v28–31: two sons — Manuscripts differ in the order of the sons’ responses and in which son is identified as doing the father’s will. TSW follows the reading in which the first son refuses, later changes his mind and goes; the second agrees but does not go; and “the first” is identified as doing the father’s will.
+
 v28–32: two sons — The contrast is between public compliance and actual obedience. Repentance is pictured as a changed direction, not a polished promise.  
 
 v31: “tax collectors and prostitutes” — The scandal is grace’s order: those judged “outside” enter first when they respond to God with trust.  
@@ -156,6 +158,8 @@ v41: “They will… lease… to other tenants” — Judgment is not the end of
 v42: rejected stone / cornerstone — God’s reversal is the interpretive key: what leaders discard becomes foundational in God’s construction.  
 
 v43: “producing its fruits” — The kingdom is not a possession to protect but a vocation to bear fruit: justice, mercy, and faithful allegiance.  
+
+v44: “the one who falls on this stone” — This verse is absent from some manuscripts, particularly witnesses of the Western text, but is present in a broad range of other witnesses and is retained here.
 
 v45–46: “they knew… speaking about them… feared the crowds” — Recognition does not produce repentance; fear of people replaces fear of God, and the plot tightens around Jesus.  
 
