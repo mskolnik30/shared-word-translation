@@ -117,7 +117,7 @@ v30: “Here is an astonishing thing!” — Reverses assumed authority; the hea
 
 v34: “born entirely in sins” — Reasserts the original accusation in dismissive form.  
 
-v35: “when he found him” — Jesus seeks the one excluded by religious authority.  
+v35: “Son of Man” — Some manuscripts read “Son of God.” The critical text reads “Son of Man,” supported by early and diverse witnesses.
 
 v37: “You have seen him” — Sight and recognition are joined without explanation.  
 
