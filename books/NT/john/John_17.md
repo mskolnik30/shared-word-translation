@@ -73,6 +73,7 @@ v25: Righteous Father, even though the world does not know you, I know you, and 
 
 v26: I made known to them your name, and I will make it known, so that the love with which you have loved me may be in them, and I in them.
 
+</p>
 
 ## Notes
 v1: “The hour has come” gathers the passion, glorification, and return to the Father into a single moment.
@@ -147,5 +148,3 @@ v25: δίκαιος (dikaios)
 
 v26: ἀγάπη (agapē)
 “Love.” The love of the Father for the Son, shared with and dwelling in the disciples.
-
-
