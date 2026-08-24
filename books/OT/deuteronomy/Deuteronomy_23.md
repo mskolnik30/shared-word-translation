@@ -5,4 +5,129 @@ chapter: 23
 translation: TSW
 ---
 
-<!-- Translation pending. -->
+## Those Excluded from the Assembly
+
+<p>
+v01: “A man whose testicles are crushed or whose male organ is cut off shall not enter the assembly of the LORD.
+
+v02: One born from a forbidden union shall not enter the assembly of the LORD; even to the tenth generation none of his shall enter the assembly of the LORD.
+
+v03: An Ammonite or Moabite shall not enter the assembly of the LORD; even to the tenth generation none of theirs shall enter the assembly of the LORD forever,
+
+v04: because they did not meet you with bread and water on the way when you came out from Egypt, and because they hired against you Balaam son of Beor from Pethor in Aram-Naharaim to curse you.
+
+v05: But the LORD your God was not willing to listen to Balaam, and the LORD your God turned the curse into a blessing for you because the LORD your God loved you.
+
+v06: You shall not seek their peace or their prosperity all your days forever.
+</p>
+
+## Edomites and Egyptians
+
+<p>
+v07: “You shall not abhor an Edomite, for he is your brother. You shall not abhor an Egyptian, for you were a resident alien in his land.
+
+v08: Children born to them in the third generation may enter the assembly of the LORD.
+</p>
+
+## Holiness in the Camp
+
+<p>
+v09: “When you go out as a camp against your enemies, you shall guard yourself from every evil thing.
+
+v10: If there is among you a man who is not clean because of a nighttime emission, he shall go outside the camp; he shall not enter the camp.
+
+v11: Toward evening he shall wash with water, and when the sun goes down he may enter the camp.
+
+v12: You shall have a place outside the camp, and you shall go out there.
+
+v13: You shall have a digging tool among your equipment, and when you sit outside, you shall dig with it and turn and cover your excrement.
+
+v14: For the LORD your God walks in the midst of your camp to deliver you and to give your enemies before you. Therefore your camp shall be holy, so that he does not see anything indecent among you and turn away from you.
+</p>
+
+## Do Not Return an Escaped Servant
+
+<p>
+v15: “You shall not hand over to his master a servant who has escaped from his master to you.
+
+v16: He shall live with you, in your midst, in the place he chooses within one of your gates, wherever is good for him. You shall not oppress him.
+</p>
+
+## No Cult Prostitution
+
+<p>
+v17: “There shall be no cult prostitute among the daughters of Israel, and there shall be no cult prostitute among the sons of Israel.
+
+v18: You shall not bring the wages of a prostitute or the price of a dog into the house of the LORD your God for any vow, for both of these are detestable to the LORD your God.
+</p>
+
+## Interest, Vows, and Neighbor’s Produce
+
+<p>
+v19: “You shall not charge interest to your brother—interest on silver, interest on food, interest on anything that is lent at interest.
+
+v20: You may charge interest to a foreigner, but to your brother you shall not charge interest, so that the LORD your God may bless you in all to which you put your hand in the land that you are entering to possess.
+
+v21: When you vow a vow to the LORD your God, you shall not delay to pay it, for the LORD your God will surely require it from you, and it will be sin in you.
+
+v22: But if you refrain from vowing, it will not be sin in you.
+
+v23: What goes out from your lips you shall keep and do, just as you voluntarily vowed to the LORD your God, what you spoke with your mouth.
+
+v24: When you enter your neighbor’s vineyard, you may eat grapes according to your desire, until you are satisfied, but you shall not put any into your vessel.
+
+v25: When you enter your neighbor’s standing grain, you may pluck ears with your hand, but you shall not swing a sickle against your neighbor’s standing grain.
+</p>
+
+##Notes
+
+v01: The verse reflects ancient assembly boundaries tied to bodily integrity. TSW preserves the law without treating physical disability as moral deficiency.
+
+v02: The Hebrew term *mamzer* is difficult and may refer to a person born from a prohibited union or another socially excluded lineage. TSW uses the broader “forbidden union.”
+
+v03–06: The exclusion of Ammon and Moab is grounded in remembered hostility during Israel’s wilderness journey, especially the Balaam episode.
+
+v07–08: Edom and Egypt are treated differently: Edom because of kinship with Esau, and Egypt because Israel once lived there as resident aliens despite the memory of oppression.
+
+v10–14: Camp holiness includes bodily cleanliness and sanitation because the LORD is understood to walk in the midst of the military camp.
+
+v15–16: An escaped servant is not to be returned to the former master and may settle where it seems good. This law sharply limits a master’s claim when the fugitive reaches Israelite protection.
+
+v17–18: The precise historical phenomenon behind “cult prostitute” is debated, but the text clearly forbids sexual activity integrated into prohibited worship.
+
+v18: “price of a dog” may refer literally to the sale price of a dog or, more likely, to payment associated with a male prostitute. TSW preserves the idiom and notes its ambiguity.
+
+v19–20: Interest restrictions distinguish lending within the covenant community from transactions with foreigners.
+
+v21–23: Vows are voluntary before being made but binding once spoken.
+
+v24–25: Neighborly access allows immediate eating from vineyard or field while forbidding removal of harvest by vessel or sickle.
+
+##Vocabulary
+
+v01: קָהָל יְהוָה (qahal YHWH)
+“Assembly of the LORD.” The covenantal public community.
+
+v02: מַמְזֵר (mamzer)
+“One born from a forbidden union.” A difficult social-legal term.
+
+v10: קֶרִי (qeri)
+“Nighttime emission.” A bodily discharge producing temporary uncleanness.
+
+v13: יָתֵד (yated)
+“Digging tool” or “peg.” Equipment used to cover waste.
+
+v15: סָגַר (sagar)
+“To hand over” or “deliver.” The escaped servant must not be returned.
+
+v17: קָדֵשׁ / קְדֵשָׁה (qadesh / qedeshah)
+“Cult prostitute.” Male and female terms associated with prohibited sexual worship.
+
+v19: נֶשֶׁךְ (neshekh)
+“Interest.” Profit charged on a loan.
+
+v21: נֶדֶר (neder)
+“Vow.” A voluntary promise made to the LORD.
+
+v24: שָׂבַע (sava)
+“To be satisfied.” Neighborly eating may continue until full.
