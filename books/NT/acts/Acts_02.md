@@ -123,7 +123,7 @@ v1: πεντηκοστή (pentēkostē)
 “Pentecost.” A festival occurring fifty days after Passover; here the setting for the Spirit’s outpouring.  
 
 v2: πνοή (pnoē)  
-“Wind” or “breath.” Connotes both natural force and life-giving presence.  
+v2: “Wind” or “breath.” Connotes both natural force and life-giving presence.  
 
 v4: γλῶσσα (glōssa)  
 “Tongue” or “language.” Carries both physical and linguistic meaning.  

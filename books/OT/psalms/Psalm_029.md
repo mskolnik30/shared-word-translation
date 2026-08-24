@@ -1,5 +1,5 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 29
 translation: TSW

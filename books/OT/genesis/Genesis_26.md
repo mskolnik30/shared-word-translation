@@ -115,7 +115,7 @@ v28: בְּרִית (bĕrît)
 “Covenant.” A formal relationship established through mutual commitment.  
 
 v31: שָׁלוֹם (šālôm)  
-“Peace.” Wholeness, well-being, and harmonious relationship.  
+v31: “Peace.” Wholeness, well-being, and harmonious relationship.  
 
 v33: שִׁבְעָה / שְׁבוּעָה (šiḇʿâ / šĕḇûʿâ)  
 Related to “seven” and “oath.” The name Beersheba is associated with both a well and an oath.  

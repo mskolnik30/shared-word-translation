@@ -1,5 +1,5 @@
 ---
-book: Acts
+book: acts
 testament: NT
 chapter: 14
 translation: TSW
@@ -9,27 +9,27 @@ translation: TSW
 
 <p>
 
-v01: Now in Iconium they entered together into the synagogue of the Jews and spoke in such a way that a great multitude of both Jews and Greeks believed.
+v01: Now in Iconium they entered together into the synagogue of the Jews and spoke in such a way that a great multitude of both Jews and Greeks believed.  
 
-v02: But the Jews who refused to believe stirred up and poisoned the minds of the Gentiles against the brothers.
-
-</p>
-
-<p>
-
-v03: Therefore they remained for a long time, speaking boldly for the Lord, who was bearing witness to the word of his grace, granting signs and wonders to be done through their hands.
-
-v04: But the multitude of the city was divided, and some were with the Jews and some with the apostles.
+v02: But the Jews who refused to believe stirred up and poisoned the minds of the Gentiles against the brothers.  
 
 </p>
 
 <p>
 
-v05: And when an attempt was made by both Gentiles and Jews with their rulers to mistreat and to stone them,
+v03: Therefore they remained for a long time, speaking boldly for the Lord, who was bearing witness to the word of his grace, granting signs and wonders to be done through their hands.  
 
-v06: they became aware of it and fled to the cities of Lycaonia, Lystra and Derbe, and the surrounding region,
+v04: But the multitude of the city was divided, and some were with the Jews and some with the apostles.  
 
-v07: and there they were proclaiming the good news.
+</p>
+
+<p>
+
+v05: And when an attempt was made by both Gentiles and Jews with their rulers to mistreat and to stone them,  
+
+v06: they became aware of it and fled to the cities of Lycaonia, Lystra and Derbe, and the surrounding region,  
+
+v07: and there they were proclaiming the good news.  
 
 </p>
 
@@ -37,51 +37,51 @@ v07: and there they were proclaiming the good news.
 
 <p>
 
-v08: And in Lystra a certain man was sitting, without strength in his feet, lame from his mother’s womb, who had never walked.
+v08: And in Lystra a certain man was sitting, without strength in his feet, lame from his mother’s womb, who had never walked.  
 
-v09: This man was listening to Paul speaking, who, looking intently at him and seeing that he had faith to be healed,
+v09: This man was listening to Paul speaking, who, looking intently at him and seeing that he had faith to be healed,  
 
-v10: said with a loud voice, “Stand upright on your feet.” And he leaped up and began to walk.
-
-</p>
-
-<p>
-
-v11: And the crowds, seeing what Paul had done, lifted up their voice in the Lycaonian language, saying, “The gods have come down to us in human form!”
-
-v12: And they were calling Barnabas Zeus, and Paul Hermes, because he was the chief speaker.
+v10: said with a loud voice, “Stand upright on your feet.” And he leaped up and began to walk.  
 
 </p>
 
 <p>
 
-v13: And the priest of Zeus, whose temple was before the city, brought oxen and garlands to the gates and was wanting to offer sacrifice with the crowds.
+v11: And the crowds, seeing what Paul had done, lifted up their voice in the Lycaonian language, saying, “The gods have come down to us in human form!”  
 
-v14: But when the apostles Barnabas and Paul heard of it, they tore their garments and rushed out into the crowd, crying out
-
-v15: and saying, “Men, why are you doing these things? We also are men of like nature with you, proclaiming good news to you that you should turn from these worthless things to the living God, who made the heaven and the earth and the sea and all that is in them,
+v12: And they were calling Barnabas Zeus, and Paul Hermes, because he was the chief speaker.  
 
 </p>
 
 <p>
 
-v16: who in past generations allowed all the nations to walk in their own ways.
+v13: And the priest of Zeus, whose temple was before the city, brought oxen and garlands to the gates and was wanting to offer sacrifice with the crowds.  
 
-v17: And yet he did not leave himself without witness, doing good, giving you rains from heaven and fruitful seasons, filling your hearts with food and gladness.”
+v14: But when the apostles Barnabas and Paul heard of it, they tore their garments and rushed out into the crowd, crying out  
 
-</p>
-
-<p>
-
-v18: And saying these things, they scarcely restrained the crowds from offering sacrifice to them.
+v15: and saying, “Men, why are you doing these things? We also are men of like nature with you, proclaiming good news to you that you should turn from these worthless things to the living God, who made the heaven and the earth and the sea and all that is in them,  
 
 </p>
 
 <p>
 
-v19: But Jews came from Antioch and Iconium, and persuading the crowds, they stoned Paul and dragged him out of the city, thinking that he was dead.
+v16: who in past generations allowed all the nations to walk in their own ways.  
 
-v20: But as the disciples stood around him, he rose up and entered into the city; and on the next day he went out with Barnabas to Derbe.
+v17: And yet he did not leave himself without witness, doing good, giving you rains from heaven and fruitful seasons, filling your hearts with food and gladness.”  
+
+</p>
+
+<p>
+
+v18: And saying these things, they scarcely restrained the crowds from offering sacrifice to them.  
+
+</p>
+
+<p>
+
+v19: But Jews came from Antioch and Iconium, and persuading the crowds, they stoned Paul and dragged him out of the city, thinking that he was dead.  
+
+v20: But as the disciples stood around him, he rose up and entered into the city; and on the next day he went out with Barnabas to Derbe.  
 
 </p>
 
@@ -89,122 +89,122 @@ v20: But as the disciples stood around him, he rose up and entered into the city
 
 <p>
 
-v21: And after they had proclaimed the good news to that city and had made many disciples, they returned to Lystra and to Iconium and to Antioch,
+v21: And after they had proclaimed the good news to that city and had made many disciples, they returned to Lystra and to Iconium and to Antioch,  
 
-v22: strengthening the souls of the disciples, encouraging them to continue in the faith, and saying that through many tribulations we must enter into the kingdom of God.
-
-</p>
-
-<p>
-
-v23: And appointing elders for them in every church, having prayed with fasting, they entrusted them to the Lord in whom they had believed.
+v22: strengthening the souls of the disciples, encouraging them to continue in the faith, and saying that through many tribulations we must enter into the kingdom of God.  
 
 </p>
 
 <p>
 
-v24: And passing through Pisidia, they came to Pamphylia,
-
-v25: and speaking the word in Perga, they went down to Attalia,
-
-v26: and from there they sailed to Antioch, from where they had been commended to the grace of God for the work which they had completed.
+v23: And appointing elders for them in every church, having prayed with fasting, they entrusted them to the Lord in whom they had believed.  
 
 </p>
 
 <p>
 
-v27: And arriving and gathering the church together, they reported all that God had done with them and that he had opened a door of faith to the Gentiles.
+v24: And passing through Pisidia, they came to Pamphylia,  
 
-v28: And they stayed no little time with the disciples.
+v25: and speaking the word in Perga, they went down to Attalia,  
+
+v26: and from there they sailed to Antioch, from where they had been commended to the grace of God for the work which they had completed.  
+
+</p>
+
+<p>
+
+v27: And arriving and gathering the church together, they reported all that God had done with them and that he had opened a door of faith to the Gentiles.  
+
+v28: And they stayed no little time with the disciples.  
 
 </p>
 
 ## Notes
 
-v1–2: Belief and opposition arise simultaneously.
+v1–2: Belief and opposition arise simultaneously.  
 
-v3: Bold proclamation is accompanied by divine confirmation.
+v3: Bold proclamation is accompanied by divine confirmation.  
 
-v4–7: Division leads to mission expansion.
+v4–7: Division leads to mission expansion.  
 
-v8–10: Faith is recognized and responds to command.
+v8–10: Faith is recognized and responds to command.  
 
-v11–13: Misinterpretation of power leads to idolatry.
+v11–13: Misinterpretation of power leads to idolatry.  
 
-v14–15: Apostles reject divine status and redirect to the Creator.
+v14–15: Apostles reject divine status and redirect to the Creator.  
 
-v16–17: General revelation testifies through providence.
+v16–17: General revelation testifies through providence.  
 
-v19–20: Reversal from exaltation to persecution highlights volatility.
+v19–20: Reversal from exaltation to persecution highlights volatility.  
 
-v21–22: Strengthening includes preparing for suffering.
+v21–22: Strengthening includes preparing for suffering.  
 
-v23: Leadership is established through communal and spiritual processes.
+v23: Leadership is established through communal and spiritual processes.  
 
-v26–28: Mission report centers on God’s activity, not human achievement.
+v26–28: Mission report centers on God’s activity, not human achievement.  
 
 ## Vocabulary
 
-v2: ἀπειθέω (apeitheō)
+v2: ἀπειθέω (apeitheō)  
 
-“To disobey, refuse to believe.”
+v2: “To disobey, refuse to believe.”  
 
-v3: παρρησιάζομαι (parrēsiazomai)
+v3: παρρησιάζομαι (parrēsiazomai)  
 
-“To speak boldly.”
+v3: “To speak boldly.”  
 
-v5: ὑβρίζω (hybrizō)
+v5: ὑβρίζω (hybrizō)  
 
-“To mistreat.”
+v5: “To mistreat.”  
 
-v7: εὐαγγελίζω (euangelizō)
+v7: εὐαγγελίζω (euangelizō)  
 
-“To proclaim good news.”
+v7: “To proclaim good news.”  
 
-v9: πίστις (pistis)
+v9: πίστις (pistis)  
 
-“Faith.”
+v9: “Faith.”  
 
-v10: ἅλλομαι (hallomai)
+v10: ἅλλομαι (hallomai)  
 
-“To leap.”
+v10: “To leap.”  
 
-v11: θεός (theos)
+v11: θεός (theos)  
 
-“God.”
+v11: “God.”  
 
-v13: στέφανος (stephanos)
+v13: στέφανος (stephanos)  
 
-“Garland.”
+v13: “Garland.”  
 
-v14: διαρρήγνυμι (diarrēgnyμι)
+v14: διαρρήγνυμι (diarrēgnyμι)  
 
-“To tear.”
+v14: “To tear.”  
 
-v15: μάταιος (mataios)
+v15: μάταιος (mataios)  
 
-“Worthless.”
+v15: “Worthless.”  
 
-v17: καρποφορέω (karpophoreō)
+v17: καρποφορέω (karpophoreō)  
 
-“To bear fruit.”
+v17: “To bear fruit.”  
 
-v19: λιθάζω (lithazō)
+v19: λιθάζω (lithazō)  
 
-“To stone.”
+v19: “To stone.”  
 
-v22: θλῖψις (thlipsis)
+v22: θλῖψις (thlipsis)  
 
-“Tribulation.”
+v22: “Tribulation.”  
 
-v23: χειροτονέω (cheirotoneō)
+v23: χειροτονέω (cheirotoneō)  
 
-“To appoint.”
+v23: “To appoint.”  
 
-v23: παρατίθημι (paratithēmi)
+v23: παρατίθημι (paratithēmi)  
 
-“To entrust.”
+v23: “To entrust.”  
 
-v27: ἀνοίγω (anoigō)
+v27: ἀνοίγω (anoigō)  
 
-“To open.”
+v27: “To open.”  

@@ -1,5 +1,5 @@
 ---
-book: Exodus
+book: exodus
 testament: OT
 chapter: 3
 translation: TSW
@@ -113,66 +113,66 @@ v16–18: The message integrates past promise with present action.
 
 v19–20: Resistance is anticipated; deliverance requires confrontation.  
 
-v21–22: Departure includes reversal—those oppressed leave with provision.
+v21–22: Departure includes reversal—those oppressed leave with provision.  
 
 ## Vocabulary
 
 v2: אֵשׁ (ʾēš)  
 
-“Fire.” Manifestation of divine presence.  
+v2: “Fire.” Manifestation of divine presence.  
 
 v3: סוּר (sûr)  
 
-“To turn aside.” Movement toward attention or encounter.  
+v3: “To turn aside.” Movement toward attention or encounter.  
 
 v5: קֹדֶשׁ (qōḏeš)  
 
-“Holiness.” Set-apartness defined by God’s presence.  
+v5: “Holiness.” Set-apartness defined by God’s presence.  
 
 v7: רָאָה (rāʾāh)  
 
-“To see.” Perception with concern.  
+v7: “To see.” Perception with concern.  
 
 v7: שָׁמַע (šāmaʿ)  
 
-“To hear.” Responsive attention.  
+v7: “To hear.” Responsive attention.  
 
 v7: יָדַע (yāḏaʿ)  
 
-“To know.” Experiential awareness.  
+v7: “To know.” Experiential awareness.  
 
 v8: יָרַד (yāraḏ)  
 
-“To come down.” Divine intervention into human space.  
+v8: “To come down.” Divine intervention into human space.  
 
 v8: נָצַל (nāṣal)  
 
-“To deliver.” Rescue from danger or oppression.  
+v8: “To deliver.” Rescue from danger or oppression.  
 
 v10: שָׁלַח (šālaḥ)  
 
-“To send.” Commission with authority.  
+v10: “To send.” Commission with authority.  
 
 v12: עִם (ʿim)  
 
-“With.” Presence alongside.  
+v12: “With.” Presence alongside.  
 
 v14: הָיָה (hāyāh)  
 
-“To be.” Existence or becoming.  
+v14: “To be.” Existence or becoming.  
 
 v16: פָּקַד (pāqaḏ)  
 
-“To visit.” Intentional divine attention.  
+v16: “To visit.” Intentional divine attention.  
 
 v20: יָד (yāḏ)  
 
-“Hand.” Symbol of power and action.  
+v20: “Hand.” Symbol of power and action.  
 
 v21: חֵן (ḥēn)  
 
-“Favor.” Grace or goodwill granted by another.  
+v21: “Favor.” Grace or goodwill granted by another.  
 
 v22: נָצַל (nāṣal)  
 
-“To plunder.” Remove goods from another, often in reversal.  
+v22: “To plunder.” Remove goods from another, often in reversal.  

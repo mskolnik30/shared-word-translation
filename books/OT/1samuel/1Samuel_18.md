@@ -138,7 +138,7 @@ v21: מוֹקֵשׁ (moqesh)
 “Snare.” A trap that captures indirectly. The term frames Saul’s strategy as concealed rather than confrontational.  
 
 v25: מֹהַר (mohar)  
-“Bride-price.” A customary marital gift, here redefined as a demand for violent proof, shifting social practice into political instrument.  
+v25: “Bride-price.” A customary marital gift, here redefined as a demand for violent proof, shifting social practice into political instrument.  
 
 v29: אֹיֵב (’oyev)  
 v29: “Enemy.” The designation becomes continuous (“continually”), marking a transition from episodic hostility to enduring opposition.  

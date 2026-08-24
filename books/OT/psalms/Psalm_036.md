@@ -1,5 +1,5 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 36
 translation: TSW

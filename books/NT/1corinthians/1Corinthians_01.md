@@ -104,7 +104,7 @@ v31: The chapter closes by redirecting pride. Boasting is not eliminated, but re
 v1: κλητός (klētos)  
 “Called.” The term denotes divine initiative rather than human qualification. Paul’s identity begins in response, not achievement.  
 v2: ἁγιάζω (hagiazō)  
-“To make holy.” The perfect participle indicates a completed act with ongoing effect—holiness as given status, not earned condition.  
+v2: “To make holy.” The perfect participle indicates a completed act with ongoing effect—holiness as given status, not earned condition.  
 v9: κοινωνία (koinōnia)  
 “Fellowship” or “participation.” The word emphasizes shared life and mutual belonging, not merely association.  
 v10: σχίσματα (schismata)  
@@ -120,6 +120,6 @@ v24: δύναμις (dynamis)
 v26: σοφοί κατὰ σάρκα (sophoi kata sarka)  
 “Wise according to the flesh.” Wisdom measured by social and cultural standards rather than divine perspective.  
 v30: ἐξ αὐτοῦ (ex autou)  
-“From him.” The phrase grounds the community’s life in God as source, not self-generation.  
+v30: “From him.” The phrase grounds the community’s life in God as source, not self-generation.  
 v31: καυχάομαι (kauchaomai)  
-“To boast.” Paul reframes boasting as testimony—speech that locates confidence outside the self.  
+v31: “To boast.” Paul reframes boasting as testimony—speech that locates confidence outside the self.  

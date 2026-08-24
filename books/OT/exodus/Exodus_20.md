@@ -1,5 +1,5 @@
 ---
-book: Exodus
+book: exodus
 testament: OT
 chapter: 20
 translation: TSW
@@ -21,6 +21,8 @@ v03: You shall have no other gods before me.
 
 v04: You shall not make for yourself an image, or any likeness of what is in the heavens above or on the earth beneath or in the waters under the earth.  
 
+v05: You shall not bow down to them or serve them, for I, the LORD your God, am a jealous God, visiting the iniquity of fathers upon children, upon the third generation and upon the fourth, of those who hate me,  
+v06: but showing steadfast love to thousands, to those who love me and keep my commandments.  
 v07: You shall not lift up the name of the LORD your God for emptiness, for the LORD will not hold guiltless the one who lifts up his name for emptiness.  
 
 </p>
@@ -31,6 +33,8 @@ v08: Remember the Sabbath day, to keep it holy.
 
 v09: Six days you shall labor and do all your work,  
 
+v10: but the seventh day is a Sabbath to the LORD your God. You shall not do any work—you, or your son, or your daughter, your servant or your female servant, or your livestock, or the sojourner who is within your gates.  
+v11: For in six days the LORD made the heavens and the earth, the sea and all that is in them, and rested on the seventh day; therefore the LORD blessed the Sabbath day and made it holy.  
 v12: Honor your father and your mother, that your days may be long upon the land that the LORD your God is giving you.  
 
 </p>
@@ -59,90 +63,108 @@ v20: And Moses said to the people, “Do not be afraid, for God has come to test
 
 </p>
 
+<p>
+v21: And the people stood at a distance, while Moses drew near to the thick darkness where God was.  
+</p>
+<p>
+v22: And the LORD said to Moses, “Thus you shall say to the children of Israel: You yourselves have seen that I have spoken with you from heaven.  
+</p>
+<p>
+v23: You shall not make alongside me gods of silver, and gods of gold you shall not make for yourselves.  
+</p>
+<p>
+v24: An altar of earth you shall make for me, and you shall sacrifice on it your burnt offerings and your well-being offerings, your flock and your herd. In every place where I cause my name to be remembered, I will come to you and bless you.  
+</p>
+<p>
+v25: And if you make for me an altar of stones, you shall not build it of cut stones; for you have wielded your sword upon it and profaned it.  
+</p>
+<p>
+v26: And you shall not go up by steps to my altar, so that your nakedness is not uncovered upon it.  
+</p>
 ## Notes
 
-v1–2: Command is grounded in deliverance. Identity precedes obligation.
+v1–2: Command is grounded in deliverance. Identity precedes obligation.  
 
-v3: Exclusive allegiance is primary—no rival loyalties in the presence of the LORD.
+v3: Exclusive allegiance is primary—no rival loyalties in the presence of the LORD.  
 
-v4: The prohibition of images resists reduction of the divine to created form.
+v4: The prohibition of images resists reduction of the divine to created form.  
 
-v7: Misuse of the name is framed as emptiness—invoking God without weight or truth.
+v7: Misuse of the name is framed as emptiness—invoking God without weight or truth.  
 
-v8–9: Sabbath remembrance orders time; holiness is embedded in rhythm.
+v8–9: Sabbath remembrance orders time; holiness is embedded in rhythm.  
 
-v12: Honor extends covenantal structure into the household, linking family and land.
+v12: Honor extends covenantal structure into the household, linking family and land.  
 
-v13–16: Short prohibitions mark clear ethical boundaries—life, fidelity, property, truth.
+v13–16: Short prohibitions mark clear ethical boundaries—life, fidelity, property, truth.  
 
-v17: Desire itself is addressed; the law penetrates interior intention, not only action.
+v17: Desire itself is addressed; the law penetrates interior intention, not only action.  
 
-v18–19: Theophany produces distance; mediated speech becomes necessary.
+v18–19: Theophany produces distance; mediated speech becomes necessary.  
 
-v20: Fear is reframed—not terror, but sustaining reverence that restrains sin.
+v20: Fear is reframed—not terror, but sustaining reverence that restrains sin.  
 
 ## Vocabulary
 
 v2: יָצָא (yāṣāʾ)  
 
-“To bring out.” To lead forth from constraint.
+v2: “To bring out.” To lead forth from constraint.  
 
 v2: עֲבָדִים (ʿăḇādîm)  
 
-“Slavery/servitude.” Condition of forced service.
+v2: “Slavery/servitude.” Condition of forced service.  
 
 v3: אֱלֹהִים (ʾĕlōhîm)  
 
-“God/gods.” Here, other divine powers.
+v3: “God/gods.” Here, other divine powers.  
 
 v4: פֶּסֶל (pesel)  
 
-“Carved image.” Idol formed by human hands.
+v4: “Carved image.” Idol formed by human hands.  
 
 v7: נָשָׂא (nāśāʾ)  
 
-“To lift up.” To carry or invoke.
+v7: “To lift up.” To carry or invoke.  
 
 v7: שָׁוְא (šāwʾ)  
 
-“Emptiness/vanity.” Worthlessness or falsehood.
+v7: “Emptiness/vanity.” Worthlessness or falsehood.  
 
 v8: זָכַר (zāḵar)  
 
-“To remember.” To actively keep in mind.
+v8: “To remember.” To actively keep in mind.  
 
 v8: קָדַשׁ (qāḏaš)  
 
-“To make holy.” To set apart.
+v8: “To make holy.” To set apart.  
 
 v12: כָּבֵד (kāḇēḏ)  
 
-“To honor.” To give weight or significance.
+v12: “To honor.” To give weight or significance.  
 
 v13: רָצַח (rāṣaḥ)  
 
-“To murder.” Unlawful taking of life.
+v13: “To murder.” Unlawful taking of life.  
 
 v14: נָאַף (nāʾap̄)  
 
-“To commit adultery.” Violation of covenant fidelity.
+v14: “To commit adultery.” Violation of covenant fidelity.  
 
 v15: גָּנַב (gānaḇ)  
 
-“To steal.” To take what is not given.
+v15: “To steal.” To take what is not given.  
 
 v16: עֵד (ʿēḏ)  
 
-“Witness.” One who testifies.
+v16: “Witness.” One who testifies.  
 
 v17: חָמַד (ḥāmaḏ)  
 
-“To desire/covet.” To take pleasure in what belongs to another.
+v17: “To desire/covet.” To take pleasure in what belongs to another.  
 
-v18: יָרֵא (yārēʾ)  
+v20: יָרֵא (yārēʾ)  
 
-“To fear.” Awe in response to divine presence.
+v20: “To fear.” Awe in response to divine presence.  
 
 v20: נָסָה (nāsāh)  
 
-“To test.” To prove or examine.
+v20: “To test.” To prove or examine.  

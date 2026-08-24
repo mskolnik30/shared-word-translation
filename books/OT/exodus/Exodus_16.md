@@ -1,5 +1,5 @@
 ---
-book: Exodus
+book: exodus
 testament: OT
 chapter: 16
 translation: TSW
@@ -9,6 +9,7 @@ translation: TSW
 
 <p>
 
+v01: They set out from Elim, and the whole congregation of the sons of Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departure from the land of Egypt.  
 v02: And the whole congregation of the sons of Israel grumbled against Moses and Aaron in the wilderness,  
 
 v03: and the sons of Israel said to them, “If only we had died by the hand of the LORD in the land of Egypt, when we sat by the pots of meat and ate bread to fullness; for you have brought us out into this wilderness to kill this whole assembly with hunger.”  
@@ -123,86 +124,89 @@ v35: The sons of Israel ate the manna forty years, until they came to a habitabl
 
 </p>
 
+<p>
+v36: Now the omer is a tenth of an ephah.  
+</p>
 ## Notes
 
-v2–3: Grumbling reframes deliverance as loss. Memory is reshaped by hunger.
+v2–3: Grumbling reframes deliverance as loss. Memory is reshaped by hunger.  
 
-v4: Provision is paired with testing. Obedience is structured into daily dependence.
+v4: Provision is paired with testing. Obedience is structured into daily dependence.  
 
-v5: The sixth day introduces rhythm—anticipating Sabbath before Sinai legislation.
+v5: The sixth day introduces rhythm—anticipating Sabbath before Sinai legislation.  
 
-v7–8: Complaint against leaders is reinterpreted as complaint against the LORD.
+v7–8: Complaint against leaders is reinterpreted as complaint against the LORD.  
 
-v13–15: Manna is defined by ambiguity (“What is it?”). Naming emerges from encounter.
+v13–15: Manna is defined by ambiguity (“What is it?”). Naming emerges from encounter.  
 
-v16–18: Equity is enforced through divine provision—excess and lack are neutralized.
+v16–18: Equity is enforced through divine provision—excess and lack are neutralized.  
 
-v19–21: Hoarding contradicts trust; decay exposes disobedience.
+v19–21: Hoarding contradicts trust; decay exposes disobedience.  
 
-v22–26: Sabbath interrupts accumulation. Rest becomes an act of trust.
+v22–26: Sabbath interrupts accumulation. Rest becomes an act of trust.  
 
-v28–30: Failure to rest is framed as refusal of command, not mere misunderstanding.
+v28–30: Failure to rest is framed as refusal of command, not mere misunderstanding.  
 
-v31: Sensory detail grounds memory—taste and appearance anchor the tradition.
+v31: Sensory detail grounds memory—taste and appearance anchor the tradition.  
 
-v32–34: Preservation of manna functions as material testimony across generations.
+v32–34: Preservation of manna functions as material testimony across generations.  
 
-v35: Sustenance spans the wilderness period—provision is continuous, not episodic.
+v35: Sustenance spans the wilderness period—provision is continuous, not episodic.  
 
 ## Vocabulary
 
 v2: לוּן (lûn)  
 
-“To grumble/murmur.” Complaint expressed collectively.
+v2: “To grumble/murmur.” Complaint expressed collectively.  
 
 v4: מָטַר (māṭar)  
 
-“To rain.” To send down from above.
+v4: “To rain.” To send down from above.  
 
 v4: נָסָה (nāsāh)  
 
-“To test.” To prove or examine fidelity.
+v4: “To test.” To prove or examine fidelity.  
 
 v7: כָּבוֹד (kāḇôḏ)  
 
-“Glory.” Weighty presence, visible manifestation.
+v7: “Glory.” Weighty presence, visible manifestation.  
 
 v12: שָׂבַע (śāḇaʿ)  
 
-“To be satisfied.” To be filled to fullness.
+v12: “To be satisfied.” To be filled to fullness.  
 
 v14: דַּק (daq)  
 
-“Fine/thin.” Small, delicate in form.
+v14: “Fine/thin.” Small, delicate in form.  
 
 v15: מָן (mān)  
 
-“Manna.” From “What is it?”—unnamed provision.
+v15: “Manna.” From “What is it?”—unnamed provision.  
 
 v16: עֹמֶר (ʿōmer)  
 
-“Omer.” A unit of measure for daily portion.
+v16: “Omer.” A unit of measure for daily portion.  
 
 v20: בָּאַשׁ (bāʾaš)  
 
-“To stink.” To become foul or spoiled.
+v20: “To stink.” To become foul or spoiled.  
 
 v23: שַׁבָּת (šabbāṯ)  
 
-“Sabbath.” Ceasing, rest set apart.
+v23: “Sabbath.” Ceasing, rest set apart.  
 
 v29: נָתַן (nāṯan)  
 
-“To give.” To grant or provide.
+v29: “To give.” To grant or provide.  
 
 v30: שָׁבַת (šāḇaṯ)  
 
-“To cease/rest.” To stop activity.
+v30: “To cease/rest.” To stop activity.  
 
 v33: צִנְצֶנֶת (ṣinṣeneṯ)  
 
-“Jar.” Container for preservation.
+v33: “Jar.” Container for preservation.  
 
 v34: עֵדוּת (ʿēḏûṯ)  
 
-“Testimony.” Witness or covenantal reminder.
+v34: “Testimony.” Witness or covenantal reminder.  

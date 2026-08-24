@@ -154,7 +154,7 @@ v38: λόγια ζῶντα (logia zōnta)
 “Living oracles.” Words that carry ongoing vitality and authority.  
 
 v51: σκληροτράχηλος (sklērotrachēlos)  
-“Stiff-necked.” Resistant, unwilling to yield.  
+v51: “Stiff-necked.” Resistant, unwilling to yield.  
 
 v55: πνεῦμα ἅγιον (pneuma hagion)  
 “Holy Spirit.” The active presence of God, here empowering vision.  

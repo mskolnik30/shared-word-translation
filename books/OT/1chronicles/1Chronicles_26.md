@@ -130,11 +130,11 @@ v32:
 ## Notes
 
 v10–32: - **v10:** Shimri is called “the chief” even though he was not the firstborn. The text does not explain why Hosah elevated him, but it explicitly distinguishes appointed leadership from birth order.  
-- **v13:** Casting lots distributes the gate assignments among “small and great alike.” The phrase emphasizes that status did not determine placement; each ancestral house received a gate assignment.  
-- **v16:** “Guard post alongside guard post” preserves the compact Hebrew expression, which likely describes corresponding or opposite watch stations.  
-- **v18:** *Parbar* is a location or structure associated with the western side of the temple complex. Its precise meaning and location are uncertain.  
-- **v26–28:** The treasuries contain things dedicated by David and other leaders, including goods from war and spoil. The passage presents these materials as consecrated for strengthening the house of the LORD.  
-- **v29–32:** Levite service extends beyond temple gates and treasuries into Israel’s public administration. Their work concerns both “every matter of God” and “every matter of the king,” holding religious and royal responsibilities together without collapsing them into one another.  
+v13: Casting lots distributes the gate assignments among “small and great alike.” The phrase emphasizes that status did not determine placement; each ancestral house received a gate assignment.  
+v16: “Guard post alongside guard post” preserves the compact Hebrew expression, which likely describes corresponding or opposite watch stations.  
+v18: *Parbar* is a location or structure associated with the western side of the temple complex. Its precise meaning and location are uncertain.  
+v26–28: The treasuries contain things dedicated by David and other leaders, including goods from war and spoil. The passage presents these materials as consecrated for strengthening the house of the LORD.  
+v29–32: Levite service extends beyond temple gates and treasuries into Israel’s public administration. Their work concerns both “every matter of God” and “every matter of the king,” holding religious and royal responsibilities together without collapsing them into one another.  
 
 ## Vocabulary
 

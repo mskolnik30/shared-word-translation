@@ -1,5 +1,5 @@
 ---
-book: Genesis
+book: genesis
 testament: OT
 chapter: 22
 translation: TSW
@@ -117,44 +117,44 @@ v16–18: The oath reinforces covenant promises with heightened solemnity (“By
 
 v1: נָסָה (nāsāh)  
 
-“To test.” To prove or examine faithfulness.  
+v1: “To test.” To prove or examine faithfulness.  
 
 v2: יָחִיד (yāḥîd)  
 
-“Only, unique.” Emphasizes singularity and preciousness.  
+v2: “Only, unique.” Emphasizes singularity and preciousness.  
 
 v3: שָׁכַם (šākam)  
 
-“To rise early.” Often marks decisive obedience.  
+v3: “To rise early.” Often marks decisive obedience.  
 
 v8: רָאָה (rāʾāh)  
 
-“To see, provide.” Can carry the sense of seeing to it, providing.  
+v8: “To see, provide.” Can carry the sense of seeing to it, providing.  
 
 v9: עָקַד (ʿāqad)  
 
-“To bind.” Source of the term “binding of Isaac.”  
+v9: “To bind.” Source of the term “binding of Isaac.”  
 
 v10: שָׁחַט (šāḥaṭ)  
 
-“To slaughter.” Used for sacrificial killing.  
+v10: “To slaughter.” Used for sacrificial killing.  
 
 v12: יָרֵא (yārēʾ)  
 
-“To fear.” Reverence expressed through obedience.  
+v12: “To fear.” Reverence expressed through obedience.  
 
 v13: אַיִל (ʾayil)  
 
-“Ram.” A mature male sheep used in sacrifice.  
+v13: “Ram.” A mature male sheep used in sacrifice.  
 
 v14: יְהוָה יִרְאֶה (YHWH yirʾeh)  
 
-“The LORD will provide/see.” Name expressing divine provision.  
+v14: “The LORD will provide/see.” Name expressing divine provision.  
 
 v16: שָׁבַע (šābaʿ)  
 
-“To swear.” To bind oneself by oath.  
+v16: “To swear.” To bind oneself by oath.  
 
 v18: שָׁמַע (šāmaʿ)  
 
-“To hear, obey.” Hearing that results in action.  
+v18: “To hear, obey.” Hearing that results in action.  

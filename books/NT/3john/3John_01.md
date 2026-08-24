@@ -1,5 +1,5 @@
 ---
-book: 3 John
+book: 3 john
 testament: NT
 chapter: 1
 translation: TSW
@@ -9,9 +9,9 @@ translation: TSW
 
 <p>
 
-v01: The elder to the beloved Gaius, whom I love in truth.
+v01: The elder to the beloved Gaius, whom I love in truth.  
 
-v02: Beloved, I pray that all may go well with you and that you may be in good health, just as it goes well with your soul.
+v02: Beloved, I pray that all may go well with you and that you may be in good health, just as it goes well with your soul.  
 
 </p>
 
@@ -19,17 +19,17 @@ v02: Beloved, I pray that all may go well with you and that you may be in good h
 
 <p>
 
-v03: For I rejoiced greatly when brothers came and testified to your truth, as you are walking in the truth.
+v03: For I rejoiced greatly when brothers came and testified to your truth, as you are walking in the truth.  
 
-v04: I have no greater joy than this, to hear that my children are walking in the truth.
+v04: I have no greater joy than this, to hear that my children are walking in the truth.  
 
-v05: Beloved, you are acting faithfully in whatever you do for the brothers, even though they are strangers,
+v05: Beloved, you are acting faithfully in whatever you do for the brothers, even though they are strangers,  
 
-v06: who have testified to your love before the church. You will do well to send them on their journey in a manner worthy of God.
+v06: who have testified to your love before the church. You will do well to send them on their journey in a manner worthy of God.  
 
-v07: For they have gone out for the sake of the Name, accepting nothing from the Gentiles.
+v07: For they have gone out for the sake of the Name, accepting nothing from the Gentiles.  
 
-v08: Therefore we ought to support such people, so that we may become fellow workers for the truth.
+v08: Therefore we ought to support such people, so that we may become fellow workers for the truth.  
 
 </p>
 
@@ -37,13 +37,13 @@ v08: Therefore we ought to support such people, so that we may become fellow wor
 
 <p>
 
-v09: I have written something to the church, but Diotrephes, who loves to be first among them, does not accept us.
+v09: I have written something to the church, but Diotrephes, who loves to be first among them, does not accept us.  
 
-v10: So if I come, I will call attention to what he is doing, talking wicked nonsense against us. And not content with that, he refuses to welcome the brothers, and also stops those who want to and puts them out of the church.
+v10: So if I come, I will call attention to what he is doing, talking wicked nonsense against us. And not content with that, he refuses to welcome the brothers, and also stops those who want to and puts them out of the church.  
 
-v11: Beloved, do not imitate what is evil but what is good. Whoever does good is from God; whoever does evil has not seen God.
+v11: Beloved, do not imitate what is evil but what is good. Whoever does good is from God; whoever does evil has not seen God.  
 
-v12: Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true.
+v12: Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true.  
 
 </p>
 
@@ -51,90 +51,90 @@ v12: Demetrius has received a good testimony from everyone, and from the truth i
 
 <p>
 
-v13: I had much to write to you, but I do not wish to write to you with pen and ink.
+v13: I had much to write to you, but I do not wish to write to you with pen and ink.  
 
-v14: I hope to see you soon, and we will speak face to face.
+v14: I hope to see you soon, and we will speak face to face.  
 
-v15: Peace be to you. The friends greet you. Greet the friends, each by name.
+v15: Peace be to you. The friends greet you. Greet the friends, each by name.  
 
 </p>
 
 ## Notes
 
-v1: “The elder” is not further identified; authority is assumed.
+v1: “The elder” is not further identified; authority is assumed.  
 
-v1: Love is qualified (“in truth”), not generalized.
+v1: Love is qualified (“in truth”), not generalized.  
 
-v2: Physical and spiritual well-being are held together.
+v2: Physical and spiritual well-being are held together.  
 
-v3–4: Joy is tied to observed conduct, not abstract belief.
+v3–4: Joy is tied to observed conduct, not abstract belief.  
 
-v5: Faithfulness is demonstrated through action toward others.
+v5: Faithfulness is demonstrated through action toward others.  
 
-v6: Hospitality is framed as participation in divine purpose.
+v6: Hospitality is framed as participation in divine purpose.  
 
-v7: “The Name” is used without explicit identification.
+v7: “The Name” is used without explicit identification.  
 
-v8: Support creates shared involvement, not passive agreement.
+v8: Support creates shared involvement, not passive agreement.  
 
-v9: Opposition is internal rather than external.
+v9: Opposition is internal rather than external.  
 
-v10: Speech and action are linked; resistance is active.
+v10: Speech and action are linked; resistance is active.  
 
-v11: Imitation is moral and relational, not theoretical.
+v11: Imitation is moral and relational, not theoretical.  
 
-v12: Testimony is cumulative and affirmed.
+v12: Testimony is cumulative and affirmed.  
 
-v13–14: Written communication is secondary to presence.
+v13–14: Written communication is secondary to presence.  
 
-v15: Naming is personal; relationship is specific.
+v15: Naming is personal; relationship is specific.  
 
 ## Vocabulary
 
-v1: πρεσβύτερος (presbyteros)
+v1: πρεσβύτερος (presbyteros)  
 
-“Elder.” One with recognized authority.
+v1: “Elder.” One with recognized authority.  
 
-v1: ἀλήθεια (alētheia)
+v1: ἀλήθεια (alētheia)  
 
-“Truth.” Reality expressed and lived.
+v1: “Truth.” Reality expressed and lived.  
 
-v3: μαρτυρέω (martyreō)
+v3: μαρτυρέω (martyreō)  
 
-“To testify.” To bear witness.
+v3: “To testify.” To bear witness.  
 
-v5: πιστός (pistos)
+v5: πιστός (pistos)  
 
-“Faithful.” Reliable in action.
+v5: “Faithful.” Reliable in action.  
 
-v6: προπέμπω (propempō)
+v6: προπέμπω (propempō)  
 
-“To send on a journey.” To support and equip.
+v6: “To send on a journey.” To support and equip.  
 
-v7: ὄνομα (onoma)
+v7: ὄνομα (onoma)  
 
-“Name.” Identity or authority.
+v7: “Name.” Identity or authority.  
 
-v8: συνεργός (synergos)
+v8: συνεργός (synergos)  
 
-“Fellow worker.” One who shares in the work.
+v8: “Fellow worker.” One who shares in the work.  
 
-v9: φιλοπρωτεύω (philoprōteuō)
+v9: φιλοπρωτεύω (philoprōteuō)  
 
-“To love to be first.” Desire for preeminence.
+v9: “To love to be first.” Desire for preeminence.  
 
-v10: φλυαρέω (phlyareō)
+v10: φλυαρέω (phlyareō)  
 
-“To speak nonsense.” Empty or malicious talk.
+v10: “To speak nonsense.” Empty or malicious talk.  
 
-v11: ὁράω (horaō)
+v11: ὁράω (horaō)  
 
-“To see.” To perceive or recognize.
+v11: “To see.” To perceive or recognize.  
 
-v12: μαρτυρία (martyria)
+v12: μαρτυρία (martyria)  
 
-“Testimony.” Witness confirmed.
+v12: “Testimony.” Witness confirmed.  
 
-v14: στόμα πρὸς στόμα (stoma pros stoma)
+v14: στόμα πρὸς στόμα (stoma pros stoma)  
 
-“Face to face.” Direct, personal communication.
+v14: “Face to face.” Direct, personal communication.  

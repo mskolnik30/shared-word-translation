@@ -159,7 +159,7 @@ v5: קָרָא (qaraʾ)
 “To call.” Naming as an act of authority.  
 
 v6: רָקִיעַ (raqiaʿ)  
-“Expanse.” A spread-out space dividing waters.  
+v6: “Expanse.” A spread-out space dividing waters.  
 
 v9: קָוָה (qavah)  
 “To gather.” Collecting waters into one place.  
@@ -186,7 +186,7 @@ v21: תַּנִּינִם (tanninim)
 “Great sea creatures.” Large creatures of the waters.  
 
 v24: נֶפֶשׁ חַיָּה (nephesh ḥayyah)  
-“Living creature.” A being with life-breath.  
+v24: “Living creature.” A being with life-breath.  
 
 v26: צֶלֶם (tselem)  
 “Image.” Representation or likeness.  
@@ -201,7 +201,7 @@ v28: כָּבַשׁ (kavash)
 “To subdue.” Bringing under ordered use.  
 
 v30: נְשָׁמָה (neshamah)  
-“Breath.” Life-giving breath.  
+v2: “Breath.” Life-giving breath.  
 
 v31: טוֹב מְאֹד (tov meʾod)  
 “Very good.” Complete affirmation of creation.  

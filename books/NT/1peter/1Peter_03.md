@@ -104,7 +104,7 @@ v7: σκεῦος (skeuos)
 “Vessel.” A metaphor for embodied existence, here qualified as “weaker” without full explanation.  
 
 v7: συγκληρονόμος (synklēronomos)  
-“Co-heir.” Emphasizes shared inheritance and status.  
+v7: “Co-heir.” Emphasizes shared inheritance and status.  
 
 v8: συμπαθής (sympathēs)  
 “Sympathetic.” Literally “suffering with,” indicating shared feeling.  

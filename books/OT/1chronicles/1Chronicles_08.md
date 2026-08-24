@@ -153,10 +153,10 @@ v40:
 ## Notes
 
 v6–40: - **v06–7:** The account of the people of Geba being “carried away” is compressed, and the precise relationship between Gera and the preceding families is not fully clear. The text preserves the genealogical notice without explaining the circumstances of this displacement.  
-- **v08:** “After he had sent away” can refer to Shaharaim’s sending away his wives, Hushim and Baara. The brief statement does not explain why they were sent away.  
-- **v12:** The expression translated “its villages” literally means “its daughters,” a common way of referring to smaller settlements associated with a principal town.  
-- **v28:** The repeated language of “heads” emphasizes that these lists identify recognized household and clan leaders, not merely successive biological descendants.  
-- **v33–40:** The genealogy reaches Saul’s family and then continues through Jonathan’s line. The chapter thus joins Benjamin’s wider network of households to the royal house while also tracing its continuing descendants.  
+v8: “After he had sent away” can refer to Shaharaim’s sending away his wives, Hushim and Baara. The brief statement does not explain why they were sent away.  
+v12: The expression translated “its villages” literally means “its daughters,” a common way of referring to smaller settlements associated with a principal town.  
+v28: The repeated language of “heads” emphasizes that these lists identify recognized household and clan leaders, not merely successive biological descendants.  
+v33–40: The genealogy reaches Saul’s family and then continues through Jonathan’s line. The chapter thus joins Benjamin’s wider network of households to the royal house while also tracing its continuing descendants.  
 
 ## Vocabulary
 

@@ -1,5 +1,5 @@
 ---
-book: Genesis
+book: genesis
 testament: OT
 chapter: 45
 translation: TSW
@@ -124,62 +124,62 @@ v24: “Do not quarrel” acknowledges lingering tension among the brothers.
 
 v26–27: Jacob’s disbelief gives way to recognition through tangible evidence (wagons).  
 
-v28: The naming “Israel” marks renewed identity and forward movement.
+v28: The naming “Israel” marks renewed identity and forward movement.  
 
 ## Vocabulary
 
 v1: אָפַק (ʾāpaq)  
 
-“To restrain oneself.” To hold back emotion or action.  
+v1: “To restrain oneself.” To hold back emotion or action.  
 
 v3: בָּהַל (bāhal)  
 
-“To be dismayed.” Overwhelmed with fear or shock.  
+v3: “To be dismayed.” Overwhelmed with fear or shock.  
 
 v5: שָׁלַח (šālaḥ)  
 
-“To send.” Commissioning with purpose.  
+v5: “To send.” Commissioning with purpose.  
 
 v6: רָעָב (rāʿāḇ)  
 
-“Famine.” Severe lack of food affecting survival.  
+v6: “Famine.” Severe lack of food affecting survival.  
 
 v7: שְׁאֵרִית (šᵉʾērîṯ)  
 
-“Remnant.” Survivors preserved through crisis.  
+v7: “Remnant.” Survivors preserved through crisis.  
 
 v8: אָב (ʾāḇ)  
 
-“Father.” Here metaphorically, a source of counsel or authority.  
+v8: “Father.” Here metaphorically, a source of counsel or authority.  
 
 v10: יָשַׁב (yāšaḇ)  
 
-“To dwell.” To settle with stability.  
+v10: “To dwell.” To settle with stability.  
 
 v11: כִּלְכֵּל (kilkēl)  
 
-“To provide, sustain.” Supply necessary resources.  
+v11: “To provide, sustain.” Supply necessary resources.  
 
 v14: בָּכָה (bāḵāh)  
 
-“To weep.” Expression of grief or reconciliation.  
+v14: “To weep.” Expression of grief or reconciliation.  
 
 v18: חֵלֶב (ḥēleḇ)  
 
-“Fat, best portion.” Symbol of abundance and richness.  
+v18: “Fat, best portion.” Symbol of abundance and richness.  
 
 v22: חֲלִיפָה (ḥălîp̄āh)  
 
-“Change of garments.” Sign of honor or status.  
+v22: “Change of garments.” Sign of honor or status.  
 
 v24: רָגַז (rāḡaz)  
 
-“To quarrel, be agitated.” Inner or outward conflict.  
+v24: “To quarrel, be agitated.” Inner or outward conflict.  
 
 v26: פוּג (pûḡ)  
 
-“To grow numb, faint.” Loss of emotional responsiveness.  
+v26: “To grow numb, faint.” Loss of emotional responsiveness.  
 
 v27: חָיָה (ḥāyāh)  
 
-“To revive, live.” Restoration of vitality.  
+v27: “To revive, live.” Restoration of vitality.  

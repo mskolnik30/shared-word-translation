@@ -1,5 +1,5 @@
 ---
-book: Genesis
+book: genesis
 testament: OT
 chapter: 18
 translation: TSW
@@ -109,44 +109,44 @@ v25: “Judge of all the earth” universalizes the LORD’s authority beyond Is
 
 v1: רָאָה (rāʾāh)  
 
-“To see.” Used for perception, often marking significant encounter or divine appearance.  
+v1: “To see.” Used for perception, often marking significant encounter or divine appearance.  
 
 v3: חֵן (ḥēn)  
 
-“Favor, grace.” Acceptance granted within a relational context.  
+v3: “Favor, grace.” Acceptance granted within a relational context.  
 
 v9: אָשָּׁה (ʾiššāh)  
 
-“Woman, wife.” Context determines nuance between role and identity.  
+v9: “Woman, wife.” Context determines nuance between role and identity.  
 
 v12: צָחַק (ṣāḥaq)  
 
-“To laugh.” Can express joy, disbelief, or irony.  
+v12: “To laugh.” Can express joy, disbelief, or irony.  
 
 v14: פָּלָא (pālāʾ)  
 
-“To be wonderful, extraordinary.” Refers to acts beyond human capability.  
+v14: “To be wonderful, extraordinary.” Refers to acts beyond human capability.  
 
 v19: דֶּרֶךְ (derek)  
 
-“Way, path.” Often used for moral or covenantal conduct.  
+v19: “Way, path.” Often used for moral or covenantal conduct.  
 
 v19: צְדָקָה (ṣĕdāqāh)  
 
-“Righteousness.” Right relationship expressed in action.  
+v19: “Righteousness.” Right relationship expressed in action.  
 
 v19: מִשְׁפָּט (mišpāṭ)  
 
-“Justice.” Legal and ethical order upheld in community.  
+v19: “Justice.” Legal and ethical order upheld in community.  
 
 v20: זְעָקָה (zeʿāqāh)  
 
-“Outcry.” A cry of distress that demands response.  
+v20: “Outcry.” A cry of distress that demands response.  
 
 v25: שָׁפַט (šāphaṭ)  
 
-“To judge.” To govern or render justice.  
+v25: “To judge.” To govern or render justice.  
 
 v27: עָפָר (ʿāp̄ār)  
 
-“Dust.” Symbol of human frailty and mortality.  
+v27: “Dust.” Symbol of human frailty and mortality.  
