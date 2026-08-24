@@ -73,6 +73,18 @@ And they drove him out.
 </p>
 
 ## Spiritual Blindness
+<p>
+v35: Jesus heard that they had cast him out, and having found him, he said, “Do you believe in the Son of Man?”
+v36: He answered, “And who is he, sir, that I may believe in him?”
+v37: Jesus said to him, “You have seen him, and the one speaking with you is he.”
+v38: And he said, “I believe, Lord.” And he worshiped him.
+</p>
+
+<p>
+v39: And Jesus said, “For judgment I came into this world, so that those who do not see may see, and those who see may become blind.”
+v40: Those of the Pharisees who were with him heard these things and said to him, “We are not blind too, are we?”
+v41: Jesus said to them, “If you were blind, you would not have sin. But now you say, ‘We see.’ Your sin remains.”
+</p>
 
 ## Notes
 v02: “who sinned” — Reflects a common assumption linking suffering to moral cause; the question itself is left uncorrected until Jesus responds.
