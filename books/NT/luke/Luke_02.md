@@ -122,4 +122,101 @@ v47: And all who heard him were amazed at his understanding and his answers.
 </p>
 
 <p>
-v48: When his parents saw him, they were astonished; and his mother said to him, “Child, why have you treated us like this? Look, your father and I have been searching
+v48: When his parents saw him, they were astonished; and his mother said to him, “Child, why have you treated us like this? Look, Your father and I have been anxiously looking for you.” 
+v49: He said to them, “Why were you searching for me? Did you not know that I must be in my Father’s house?”
+v50: But they did not understand what he was saying to them.
+</p>
+
+<p>
+v51: Then he went down with them and came to Nazareth, and he was subject to them. And his mother treasured all these things in her heart.
+v52: And Jesus grew in wisdom and in stature, and in favor with God and with people.
+</p>
+
+## Notes
+
+v02: “the first registration” — The Greek wording can also be understood in relation to the registration associated with Quirinius. The historical relationship between Luke’s chronology and other ancient evidence remains debated, so the translation does not attempt to resolve the question within the main text.
+
+v07: “guest room” — The Greek κατάλυμα (katalyma) can refer to a lodging place or guest room. Luke uses a different term for a commercial inn elsewhere. “Guest room” avoids introducing an innkeeper or commercial inn not mentioned in the text.
+
+v11: “Savior … Messiah … Lord” — Three titles appear together. “Messiah” renders χριστός (christos), “anointed one,” while “Lord” preserves κύριος (kyrios) without reducing its range of meaning.
+
+v14: “peace among those whom God favors” — Ancient manuscripts differ in the form of the final Greek word, producing readings commonly rendered either “among those whom God favors” or “goodwill among people.” The main text follows the critical reading reflected here.
+
+v19: “treasured … pondered” — The two verbs distinguish keeping these events carefully from actively bringing them together in reflection. The wording does not imply that Mary fully understood their meaning.
+
+v22: “their purification” — The critical Greek text reads “their purification,” although manuscript traditions vary. The wording is retained rather than silently changing the plural to refer only to Mary.
+
+v25: “consolation of Israel” — παράκλησις (paraklēsis) can signify consolation, encouragement, or comfort. Here it expresses expectation of God’s promised restoration of Israel.
+
+v32: “nations” — The Greek ἔθνη (ethnē) can be rendered “nations” or “Gentiles.” “Nations” preserves the broader sense of the term and the parallel with Israel.
+
+v34: “falling and rising” — The Greek deliberately places falling and rising together. The translation preserves both the order and the tension without specifying whether the same or different people are in view.
+
+v37: “to the age of eighty-four” — The Greek can be understood as describing Anna as eighty-four years old, though it has also been read as saying that she had lived as a widow for eighty-four years. The main text follows the former reading.
+
+v38: “redemption of Jerusalem” — The expression speaks of deliverance or release associated with Jerusalem. The translation preserves the communal and geographic language rather than replacing it with a more generalized expression of salvation.
+
+v49: “in my Father’s house” — The Greek phrase can be rendered “in my Father’s house,” “among the things of my Father,” or in a sense such as “about my Father’s affairs.” The immediate temple setting supports the wording in the main text, while the Greek retains a degree of ambiguity.
+
+v51: “he was subject to them” — The verb describes Jesus placing himself under the ordering of his parents. Luke holds this statement beside Jesus’ declaration concerning his Father without explaining away the tension.
+
+v52: “stature” — The Greek ἡλικία (hēlikia) can refer to physical stature or maturity/age. The translation retains “stature,” while the wider sense of maturation remains possible.
+
+## Vocabulary
+
+v01: οἰκουμένη (oikoumenē)
+“The inhabited world.” Often used for the inhabited or ordered world and, in an imperial context, for the world under Roman rule.
+
+v05: ἐμνηστευμένη (emnēsteumenē)
+“Pledged” or “betrothed.” A legally binding relationship stronger than what is usually implied by modern engagement.
+
+v07: κατάλυμα (katalyma)
+“Guest room” or “lodging place.” A place for lodging, often a room within a household; not necessarily a commercial inn.
+
+v07: φάτνη (phatnē)
+“Feeding trough” or “manger.” A place from which animals feed.
+
+v10: εὐαγγελίζομαι (euangelizomai)
+“To announce good news.” The verb describes the proclamation of news of joy or deliverance.
+
+v11: σωτήρ (sōtēr)
+“Savior” or “deliverer.” One who rescues or brings deliverance.
+
+v11: χριστός (christos)
+“Messiah” or “anointed one.” The Greek equivalent of the Hebrew title for one who has been anointed.
+
+v11: κύριος (kyrios)
+“Lord.” A term ranging from respectful address to a title of authority and, in biblical usage, frequently associated with the divine name.
+
+v14: εἰρήνη (eirēnē)
+“Peace.” Peace, wholeness, or restored well-being.
+
+v19: συμβάλλω (symballō)
+“To ponder” or “to bring together.” The verb can describe comparing or bringing matters together in reflection.
+
+v25: παράκλησις (paraklēsis)
+“Consolation,” “comfort,” or “encouragement.” Here associated with Israel’s anticipated restoration.
+
+v30: σωτήριον (sōtērion)
+“Salvation” or “saving deliverance.” That which brings or embodies God’s deliverance.
+
+v32: ἀποκάλυψις (apokalypsis)
+“Revelation” or “unveiling.” The making visible of what had been hidden.
+
+v34: ἀνάστασις (anastasis)
+“Rising” or “resurrection.” Literally a rising up; the immediate expression contrasts it with falling.
+
+v38: λύτρωσις (lytrōsis)
+“Redemption” or “release.” Deliverance expressed through the language of liberation or ransom.
+
+v49: δεῖ (dei)
+“It is necessary” or “it must be.” Often expresses necessity arising from divine purpose rather than ordinary obligation.
+
+v51: ὑποτάσσω (hypotassō)
+“To be subject” or “to place under.” To take an ordered position under another.
+
+v52: ἡλικία (hēlikia)
+“Stature,” “age,” or “maturity.” The term can describe physical growth as well as development toward maturity.
+
+v52: χάρις (charis)
+“Favor” or “grace.” Favor freely given; here describing Jesus’ growth in favor with God and people.
