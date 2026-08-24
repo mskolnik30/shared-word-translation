@@ -107,6 +107,3 @@ v17: ζωοποιέω (zōopoieō)
 
 v25: δικαίωσις (dikaiōsis)
 “Setting right; justification.” Refers to the act or result of being declared or established as right. TSW renders the term “setting right” here while retaining its traditional theological sense in the vocabulary.v21: and being fully convinced that what God had promised, God was also able to do.
-v22: Therefore it was counted to him as righteousness.
-</p>
-
