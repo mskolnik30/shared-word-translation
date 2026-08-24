@@ -35,7 +35,7 @@ v14: Yet death exercised dominion from Adam to Moses, even over those whose sin 
 <p>
 v15: But the gift is not like the trespass. For if the many died through the trespass of the one, much more surely have the grace of God and the gift in the grace of the one human being, Jesus Christ, overflowed for the many.
 v16: And the gift is not like the effect of the one person’s sin. For the judgment following one trespass led to condemnation, but the gift following many trespasses leads to being set right.
-v17: For if, by the trespass of the one, death exercised dominion through that one, much more surely will those who
+v17: For if, by the trespass of the one, death exercised dominion through that one, much more surely will those who receive the abundance of grace and the gift of righteousness exercise.
 v18: Therefore, just as through one trespass came condemnation for all human beings, so also through one righteous act came setting right that leads to life for all human beings.
 v19: For just as through the disobedience of the one human being the many were made sinners, so also through the obedience of the one the many will be made righteous.
 </p>
