@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 49
 translation: TSW
 ---
 
 <p>
-For the director. A psalm of the sons of Korah.
+For the director. A psalm of the sons of Korah.  
 </p>
 
 ## Wisdom for All Peoples
@@ -74,12 +74,12 @@ is like the beasts that perish.
 
 ## Notes
 
-v05: The Hebrew phrase rendered “those at my heels” is compact and may describe pursuers, deceivers, or the iniquity that surrounds the speaker. The ambiguity is not fully resolved in the main text.
-v11: The consonantal Hebrew permits difficulty in the first phrase. “Their graves are their homes forever” follows a common reading that fits the surrounding contrast between wealth and mortality.
+v5: The Hebrew phrase rendered “those at my heels” is compact and may describe pursuers, deceivers, or the iniquity that surrounds the speaker. The ambiguity is not fully resolved in the main text.  
+v11: The consonantal Hebrew permits difficulty in the first phrase. “Their graves are their homes forever” follows a common reading that fits the surrounding contrast between wealth and mortality.  
 
 ## Vocabulary
 
-v14: שְׁאוֹל (sheʾol)
-The realm of the dead. The Hebrew term is retained because no single English word carries its full range.
-v15: פָּדָה (padah)
-“Ransom” or “redeem,” language of release by payment or decisive rescue.
+v14: שְׁאוֹל (sheʾol)  
+The realm of the dead. The Hebrew term is retained because no single English word carries its full range.  
+v15: פָּדָה (padah)  
+“Ransom” or “redeem,” language of release by payment or decisive rescue.  
