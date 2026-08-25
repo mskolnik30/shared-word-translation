@@ -1,5 +1,5 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 137
 translation: TSW
@@ -14,7 +14,7 @@ when we remembered Zion.
 v02: On the willows there  
 we hung up our lyres.  
 v03: For there our captors asked us for songs,  
-and our tormentors asked for mirth:   
+and our tormentors asked for mirth:  
 “Sing for us one of the songs of Zion!”  
 v04: How can we sing the LORD’s song  
 on foreign soil?  
@@ -47,12 +47,12 @@ and dashes them against the rock.
 
 ## Notes
 
-v05: The Hebrew ends the line with “let my right hand forget,” without supplying what the hand forgets. The translation preserves the ellipsis rather than adding “its skill.”
-v08–09: The psalm ends with retaliatory blessing language born from the violence of exile. The translation does not soften the image or turn it into a moral lesson; the horror of the petition remains part of the prayer as received.
+v5: The Hebrew ends the line with “let my right hand forget,” without supplying what the hand forgets. The translation preserves the ellipsis rather than adding “its skill.”  
+v8–9: The psalm ends with retaliatory blessing language born from the violence of exile. The translation does not soften the image or turn it into a moral lesson; the horror of the petition remains part of the prayer as received.  
 
 ## Vocabulary
 
-v08: בַּת־בָּבֶל (bat-Bavel)
-“Daughter Babylon,” a poetic personification of the imperial city and its people.
-v09: סֶלַע (selaʿ)
-“Rock” or “crag.” The final image is concrete and violent, not metaphorically explained in the Hebrew.
+v8: בַּת־בָּבֶל (bat-Bavel)  
+“Daughter Babylon,” a poetic personification of the imperial city and its people.  
+v9: סֶלַע (selaʿ)  
+“Rock” or “crag.” The final image is concrete and violent, not metaphorically explained in the Hebrew.  
