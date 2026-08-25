@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 76
 translation: TSW
 ---
 
 <p>
-For the director, with stringed instruments. A psalm of Asaph. A song.
+For the director, with stringed instruments. A psalm of Asaph. A song.  
 </p>
 
 ## God Is Known in Zion
@@ -51,12 +51,12 @@ and is fearsome to the kings of the earth.
 
 ## Notes
 
-v04: “Mountains of prey” is the Masoretic reading. The image is abrupt, and some ancient witnesses reflect different wording.
-v10: The second line is difficult. The Hebrew may describe God restraining, girding on, or being adorned by the remainder of human wrath. The main text preserves the concrete image without forcing a single explanation.
+v4: “Mountains of prey” is the Masoretic reading. The image is abrupt, and some ancient witnesses reflect different wording.  
+v10: The second line is difficult. The Hebrew may describe God restraining, girding on, or being adorned by the remainder of human wrath. The main text preserves the concrete image without forcing a single explanation.  
 
 ## Vocabulary
 
-v02: שָׁלֵם (shalem)
-“Salem,” an ancient poetic name associated with Jerusalem and Zion.
-v09: עֲנָוִים (ʿanavim)
-“Humble,” “afflicted,” or “lowly”; the term can describe both social vulnerability and a posture of dependence.
+v2: שָׁלֵם (shalem)  
+“Salem,” an ancient poetic name associated with Jerusalem and Zion.  
+v9: עֲנָוִים (ʿanavim)  
+“Humble,” “afflicted,” or “lowly”; the term can describe both social vulnerability and a posture of dependence.  
