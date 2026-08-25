@@ -5,81 +5,82 @@ chapter: 74
 translation: TSW
 ---
 
-v01: A maskil of Asaph.
+A maskil of Asaph.
 <p>
 v01: Why, O God, have you rejected us forever?
-Why does your anger smoke against the sheep of your pasture?  
+Why does your anger smoke against the sheep of your pasture?
 v02: Remember your congregation, which you have purchased from of old,
-the tribe of your inheritance, which you have redeemed—  
-Mount Zion, where you have dwelt.  
+the tribe of your inheritance, which you have redeemed—
+Mount Zion, where you have dwelt.
 </p>
 <p>
 v03: Turn your steps toward these perpetual ruins;
-the enemy has damaged everything in the sanctuary.  
+the enemy has damaged everything in the sanctuary.
 v04: Your adversaries have roared in the midst of your meeting place;
-they have set up their own signs for signs.  
+they have set up their own signs for signs.
 v05: It is known as if someone raises
-axes against a thicket of trees.  
+axes against a thicket of trees.
 v06: And now they carve all its carved work,
-all at once, with hatchet and hammers.  
+all at once, with hatchet and hammers.
 v07: They have set fire to your sanctuary;
-they have defiled the dwelling place of your name to the ground.  
+they have defiled the dwelling place of your name to the ground.
 </p>
 <p>
 v08: They said in their hearts, “Let us oppress them altogether”;
-they have burned all the meeting places of God in the land.  
+they have burned all the meeting places of God in the land.
 v09: We do not see our signs;
-there is no longer any prophet among us,  
-and none of us knows how long.  
+there is no longer any prophet among us,
+and none of us knows how long.
 </p>
 <p>
 v10: How long, O God, shall the adversary taunt?
-Will the enemy revile your name forever?  
+Will the enemy revile your name forever?
 v11: Why do you hold back your hand,
-even your right hand?  
-Take it from your bosom and destroy them!  
+even your right hand?
+Take it from your bosom and destroy them!
 </p>
 <p>
 v12: Yet God is my King from of old,
-working salvation in the midst of the earth.  
+working salvation in the midst of the earth.
 v13: You split open the sea by your strength;
-you broke the heads of the sea monsters in the waters.  
+you broke the heads of the sea monsters in the waters.
 v14: You crushed the heads of Leviathan;
-you gave him as food for the creatures of the wilderness.  
+you gave him as food for the creatures of the wilderness.
 v15: You opened the springs and torrents;
-you dried up mighty rivers.  
+you dried up mighty rivers.
 </p>
 <p>
 v16: Yours is the day, yours also the night;
-you have established light and the sun.  
+you have established light and the sun.
 v17: You set all the boundaries of the earth;
-you made summer and winter.  
+you made summer and winter.
 </p>
 <p>
 v18: Remember this:
-the enemy has mocked, O LORD,  
-and a foolish people have reviled your name.  
+the enemy has mocked, O LORD,
+and a foolish people have reviled your name.
 v19: Do not give the life of your dove to the wild beasts;
-do not forget the life of your afflicted forever.  
+do not forget the life of your afflicted forever.
 v20: Look to the covenant,
-for the dark places of the earth are full of violence.  
+for the dark places of the earth are full of violence.
 v21: Do not let the crushed be turned away in shame;
-let the poor and needy praise your name.  
+let the poor and needy praise your name.
 </p>
 <p>
 v22: Arise, O God, defend your cause;
-remember how the foolish reproach you all day.  
+remember how the foolish reproach you all day.
 v23: Do not forget the voice of your adversaries,
-the clamor of those rising against you, which ascends continually.  
+the clamor of those rising against you, which ascends continually.
 </p>
-## Notes
+##Notes
 
-- **v1**: "rejected us forever"—The psalmist questions God's prolonged absence and anger, implying a deep longing for divine restoration and presence for the community.
-- **v9**: "no longer any prophet among us"—The absence of prophetic guidance highlights a spiritual void; the people feel directionless without a clear voice from God.
-- **v14**: "Leviathan"—A mythological sea creature representing chaos. God's victory over Leviathan symbolizes the triumph over chaos and evil.
+##Vocabulary
 
-## Vocabulary
+v02: נַחֲלָה (nachalah)
+“Inheritance; possession.” Here the term refers to the people claimed as God’s possession.
 
-- **v02: נַחֲלָה (na·ḥa·lah)**—"inheritance." Here, it refers to Israel as God's cherished possession, a concept that reflects God's ongoing covenant relationship with the people.
-- **v13: תַנִּין (tan·nin)**—"sea monsters." These creatures evoke primal chaos, yet are subdued by God’s power, emphasizing divine control over creation.
-- **v18: נָבָל (na·val)**—"foolish." This term underscores the moral and spiritual decay of those who defy God, pointing to their senseless and rebellious attitude.
+v13: תַנִּין (tannin)
+“Sea monster; great sea creature.”
+
+v18: נָבָל (naval)
+“Foolish; senseless.” Describes one acting without moral or religious understanding.

@@ -58,20 +58,7 @@ v16: Therefore thus says the LORD: Look, I am sending you away from the face of 
 
 v17: And Hananiah the prophet died in that year, in the seventh month.
 </p>
-
 ##Notes
-
-v01: Hananiah is called “the prophet” throughout the narrative, allowing the conflict to unfold as a contest between competing prophetic claims rather than labeling him from the outset.
-
-v03–04: Hananiah promises restoration within two years, directly contradicting Jeremiah’s message of extended Babylonian domination.
-
-v06: Jeremiah’s “Amen” expresses genuine desire that Hananiah’s hopeful message might be true, even while Jeremiah immediately subjects it to prophetic testing.
-
-v08–09: Jeremiah appeals to the broader prophetic tradition. A prophet of peace bears a distinctive burden of verification because such a message departs from the repeated warnings of judgment.
-
-v10–14: Hananiah turns Jeremiah’s symbolic yoke into a counter-sign by breaking it. The LORD’s response intensifies rather than cancels the sign: wood becomes iron.
-
-v16: “rebellion against the LORD” describes speech that claims divine authority while opposing the LORD’s actual word.
 
 ##Vocabulary
 
@@ -86,12 +73,3 @@ v09: שָׁלוֹם (shalom)
 
 v10: מוֹטָה (motah)
 “Yoke bar.” Jeremiah’s wooden prophetic sign.
-
-v13: בַּרְזֶל (barzel)
-“Iron.” The replacement yoke symbolizes intensified and unavoidable subjection.
-
-v15: שֶׁקֶר (sheqer)
-“Falsehood.” That upon which Hananiah has caused the people to rely.
-
-v16: סָרָה (sarah)
-“Rebellion.” Defiant turning away from the LORD’s authority.

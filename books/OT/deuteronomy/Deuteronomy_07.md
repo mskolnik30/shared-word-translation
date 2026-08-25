@@ -76,42 +76,12 @@ v25: “You shall burn the carved images of their gods with fire. You shall not 
 
 v26: You shall not bring a detestable thing into your house and become devoted to destruction like it. You shall utterly detest it and utterly abhor it, for it is devoted to destruction.
 </p>
-
 ##Notes
-
-v01: The seven-nation list is a traditional way of describing the peoples of Canaan and functions as a complete symbolic catalogue of the land’s inhabitants.
-
-v02, v16, v24: The *herem* commands are among Deuteronomy’s most severe texts. TSW preserves the conquest language without extending it into a general mandate for later religious or ethnic violence.
-
-v03–04: The intermarriage prohibition is explicitly grounded in the danger of being turned toward other gods, not in a theory of biological racial purity.
-
-v06: Israel’s election is described as holiness and treasured status, but verse 07 immediately denies that it rests on numerical greatness.
-
-v07–08: Divine love and the oath to the ancestors, rather than Israel’s size or merit, ground the exodus and election.
-
-v09–10: Covenant steadfast love and direct judgment are placed side by side as aspects of divine faithfulness.
-
-v12–15: Blessing is narrated in agricultural, familial, and bodily terms. Deuteronomy connects covenant fidelity with the concrete life of the land.
-
-v20: The “hornet” may be literal or figurative for terror and disruption. TSW retains the image.
-
-v22: As in Exodus 23, conquest is gradual for ecological reasons: a suddenly emptied land would allow wild animals to multiply.
-
-v25–26: Israel must not turn destroyed cult objects into private wealth. The material value of idols does not cancel their covenant danger.
 
 ##Vocabulary
 
-v02: חָרַם (charam)
-“To devote to destruction.” To place under irrevocable ban.
-
 v06: עַם קָדוֹשׁ (am qadosh)
 “Holy people.” A people set apart to the LORD.
-
-v06: סְגֻלָּה (segullah)
-“Treasured possession.” A specially valued people.
-
-v07: חָשַׁק (chashaq)
-“To set affection upon” or “desire.” The LORD’s elective love.
 
 v08: פָּדָה (padah)
 “To redeem.” To rescue from bondage.
@@ -119,14 +89,5 @@ v08: פָּדָה (padah)
 v09: נֶאֱמָן (ne'eman)
 “Faithful.” Reliable in covenant commitment.
 
-v16: מוֹקֵשׁ (moqesh)
-“Snare.” A trap, here other gods.
-
-v20: צִרְעָה (tsir'ah)
-“Hornet.” An agent of fear and displacement.
-
 v25: תּוֹעֵבָה (toevah)
 “Detestable thing.” Something abhorrent within covenant worship.
-
-v26: שָׁקַץ (shaqats)
-“To detest.” Strong rejection of what is under the ban.

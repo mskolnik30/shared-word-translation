@@ -86,36 +86,9 @@ v28: He went with Joram son of Ahab to war against Hazael king of Aram at Ramoth
 
 v29: King Joram returned to Jezreel to be healed from the wounds that the Arameans had struck him at Ramah when he fought against Hazael king of Aram. Ahaziah son of Jehoram king of Judah went down to see Joram son of Ahab in Jezreel because he was sick.
 </p>
-
 ##Notes
 
-v01: The Shunammite’s obedience to Elisha requires another period of displacement, this time because of famine rather than personal tragedy.
-
-v04: Gehazi’s appearance after receiving *tsara'at* in chapter 5 creates a chronological or narrative tension. The story may be placed thematically rather than chronologically.
-
-v05: The woman arrives at the exact moment Gehazi is recounting her story, producing another providential convergence without explicit commentary.
-
-v06: Restoration includes lost agricultural income, not merely return of title to the property.
-
-v08: Ben-Hadad now seeks the word of the LORD through Elisha, echoing earlier foreign consultations but directing the question to Israel’s God.
-
 v10: The Hebrew can be vocalized “You will surely recover” or “You will not recover” in some traditions. The Masoretic reading presents a distinction between the illness being survivable and the king nevertheless dying by another cause.
-
-v11: Elisha’s prolonged stare and tears place prophetic knowledge under emotional weight rather than triumph.
-
-v12: The atrocities Elisha foresees are conventional horrors of ancient war and are presented as evil, not as acts Elisha commands.
-
-v13: Hazael’s self-description as “this dog” is self-abasement, though his later actions fulfill the violent prediction.
-
-v15: The means of Ben-Hadad’s death appears to be suffocation with a wet cloth or bed covering, making Hazael’s report in verse 14 deliberately incomplete.
-
-v16: The synchronization of Jehoram of Judah with Joram of Israel is difficult because the two names are forms of the same Hebrew name and because co-regencies may be involved.
-
-v19: Judah’s survival is grounded in the Davidic promise of a continuing “lamp,” despite Jehoram’s evil.
-
-v26: Athaliah is called “daughter of Omri,” which can mean descendant; elsewhere she is associated with Ahab’s house.
-
-v29: “Ramah” is another form of Ramoth-Gilead in this context.
 
 ##Vocabulary
 
@@ -130,21 +103,3 @@ v06: תְּבוּאָה (tevuah)
 
 v08: דָּרַשׁ (darash)
 “To inquire.” Ben-Hadad seeks an oracle.
-
-v11: בּוֹשׁ (bosh)
-“To be ashamed” or embarrassed under scrutiny.
-
-v12: רָעָה (ra'ah)
-“Evil” or disaster. Elisha names Hazael’s future violence.
-
-v13: כֶּלֶב (kelev)
-“Dog.” Hazael’s self-abasing metaphor.
-
-v15: מַכְבֵּר (makhber)
-“Cover” or bedcloth. The object used in Ben-Hadad’s death.
-
-v19: נִיר (nir)
-“Lamp.” The image of continuing Davidic dynasty.
-
-v22: פָּשַׁע (pasha)
-“To rebel.” Edom breaks from Judah’s rule.

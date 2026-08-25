@@ -1,0 +1,329 @@
+{
+  "counts": {
+    "YHWH_to_LORD": 206,
+    "article_of_LORD": 19,
+    "article_LORD_subject": 40,
+    "Hosts_title_consistency": 2,
+    "article_word_of_LORD": 23,
+    "article_to_LORD": 14,
+    "article_before_LORD": 7,
+    "article_LORD_possessive_God": 7,
+    "Hosts_capitalization": 36,
+    "article_As_LORD_apposition": 1,
+    "article_what_LORD_apposition": 1,
+    "article_I_am_LORD": 33,
+    "article_Thus_says_LORD": 9,
+    "YHWH_Hosts": 2,
+    "article_from_LORD": 2,
+    "article_worship_LORD": 1,
+    "article_words_of_LORD": 1,
+    "article_that_LORD_apposition": 1,
+    "article_I_LORD_apposition": 4,
+    "article_name_LORD": 1,
+    "article_with_LORD": 2,
+    "article_against_LORD": 1,
+    "article_serve_LORD": 6,
+    "Ezekiel_YHWH_capitalization": 258,
+    "Ezekiel_Adonai_YHWH": 39,
+    "Lord_YHWH_to_Lord_GOD": 58,
+    "YHWH_possessive": 1,
+    "divine_pronoun_standard_english": 5,
+    "article_declares_LORD": 11,
+    "article_am_LORD": 1,
+    "article_As_LORD_lives": 1,
+    "God_Hosts_title_consistency": 1,
+    "Micah6_YHWH_title_repair": 9,
+    "Numbers6_YHWH_title_repair": 18,
+    "Psalm8_YHWH_title_repair": 2,
+    "Psalm15_YHWH_title_repair": 3,
+    "YHWH_God_Hosts": 1
+  },
+  "files": {
+    "YHWH_to_LORD": [
+      "books/OT/1chronicles/1Chronicles_09.md",
+      "books/OT/1chronicles/1Chronicles_11.md",
+      "books/OT/1kings/1Kings_17.md",
+      "books/OT/1kings/1Kings_20.md",
+      "books/OT/1samuel/1Samuel_01.md",
+      "books/OT/exodus/Exodus_04.md",
+      "books/OT/exodus/Exodus_06.md",
+      "books/OT/exodus/Exodus_10.md",
+      "books/OT/ezekiel/Ezekiel_07.md",
+      "books/OT/ezekiel/Ezekiel_09.md",
+      "books/OT/ezekiel/Ezekiel_11.md",
+      "books/OT/ezekiel/Ezekiel_15.md",
+      "books/OT/ezekiel/Ezekiel_18.md",
+      "books/OT/ezekiel/Ezekiel_20.md",
+      "books/OT/ezekiel/Ezekiel_24.md",
+      "books/OT/ezekiel/Ezekiel_27.md",
+      "books/OT/ezekiel/Ezekiel_29.md",
+      "books/OT/ezekiel/Ezekiel_30.md",
+      "books/OT/ezekiel/Ezekiel_32.md",
+      "books/OT/ezekiel/Ezekiel_40.md",
+      "books/OT/ezekiel/Ezekiel_41.md",
+      "books/OT/hosea/Hosea_02.md",
+      "books/OT/isaiah/Isaiah_43.md",
+      "books/OT/jeremiah/Jeremiah_05.md",
+      "books/OT/psalms/Psalm_021.md",
+      "books/OT/psalms/Psalm_059.md",
+      "books/OT/psalms/Psalm_064.md",
+      "books/OT/psalms/Psalm_070.md",
+      "books/OT/psalms/Psalm_071.md",
+      "books/OT/psalms/Psalm_146.md"
+    ],
+    "article_of_LORD": [
+      "books/OT/1chronicles/1Chronicles_09.md",
+      "books/OT/1kings/1Kings_20.md",
+      "books/OT/1samuel/1Samuel_01.md",
+      "books/OT/exodus/Exodus_04.md",
+      "books/OT/exodus/Exodus_10.md",
+      "books/OT/ezekiel/Ezekiel_07.md",
+      "books/OT/ezekiel/Ezekiel_11.md",
+      "books/OT/ezekiel/Ezekiel_20.md",
+      "books/OT/ezekiel/Ezekiel_30.md",
+      "books/OT/ezekiel/Ezekiel_40.md",
+      "books/OT/jeremiah/Jeremiah_05.md"
+    ],
+    "article_LORD_subject": [
+      "books/OT/1chronicles/1Chronicles_09.md",
+      "books/OT/1chronicles/1Chronicles_11.md",
+      "books/OT/1kings/1Kings_17.md",
+      "books/OT/1kings/1Kings_20.md",
+      "books/OT/1samuel/1Samuel_01.md",
+      "books/OT/exodus/Exodus_04.md",
+      "books/OT/exodus/Exodus_06.md",
+      "books/OT/exodus/Exodus_10.md",
+      "books/OT/ezekiel/Ezekiel_09.md",
+      "books/OT/ezekiel/Ezekiel_11.md",
+      "books/OT/psalms/Psalm_146.md"
+    ],
+    "Hosts_title_consistency": [
+      "books/OT/1chronicles/1Chronicles_11.md",
+      "books/OT/1kings/1Kings_18.md"
+    ],
+    "article_word_of_LORD": [
+      "books/OT/1chronicles/1Chronicles_11.md",
+      "books/OT/1kings/1Kings_17.md",
+      "books/OT/1kings/1Kings_20.md",
+      "books/OT/ezekiel/Ezekiel_07.md",
+      "books/OT/ezekiel/Ezekiel_11.md",
+      "books/OT/ezekiel/Ezekiel_15.md",
+      "books/OT/ezekiel/Ezekiel_18.md",
+      "books/OT/ezekiel/Ezekiel_20.md",
+      "books/OT/ezekiel/Ezekiel_24.md",
+      "books/OT/ezekiel/Ezekiel_27.md",
+      "books/OT/ezekiel/Ezekiel_29.md",
+      "books/OT/ezekiel/Ezekiel_30.md",
+      "books/OT/ezekiel/Ezekiel_32.md"
+    ],
+    "article_to_LORD": [
+      "books/OT/1chronicles/1Chronicles_11.md",
+      "books/OT/1kings/1Kings_17.md",
+      "books/OT/1samuel/1Samuel_01.md",
+      "books/OT/exodus/Exodus_04.md",
+      "books/OT/exodus/Exodus_10.md",
+      "books/OT/ezekiel/Ezekiel_40.md",
+      "books/OT/jeremiah/Jeremiah_05.md"
+    ],
+    "article_before_LORD": [
+      "books/OT/1chronicles/1Chronicles_11.md",
+      "books/OT/1samuel/1Samuel_01.md",
+      "books/OT/exodus/Exodus_06.md",
+      "books/OT/ezekiel/Ezekiel_41.md"
+    ],
+    "article_LORD_possessive_God": [
+      "books/OT/1chronicles/1Chronicles_11.md",
+      "books/OT/1chronicles/1Chronicles_29.md",
+      "books/OT/1kings/1Kings_17.md",
+      "books/OT/jeremiah/Jeremiah_05.md",
+      "books/OT/jeremiah/Jeremiah_14.md",
+      "books/OT/psalms/Psalm_146.md"
+    ],
+    "Hosts_capitalization": [
+      "books/OT/1chronicles/1Chronicles_17.md",
+      "books/OT/isaiah/Isaiah_05.md",
+      "books/OT/jeremiah/Jeremiah_02.md",
+      "books/OT/jeremiah/Jeremiah_06.md",
+      "books/OT/jeremiah/Jeremiah_07.md",
+      "books/OT/jeremiah/Jeremiah_08.md",
+      "books/OT/jeremiah/Jeremiah_09.md",
+      "books/OT/jeremiah/Jeremiah_10.md",
+      "books/OT/jeremiah/Jeremiah_11.md",
+      "books/OT/jeremiah/Jeremiah_16.md",
+      "books/OT/jeremiah/Jeremiah_19.md",
+      "books/OT/jeremiah/Jeremiah_20.md",
+      "books/OT/jeremiah/Jeremiah_29.md",
+      "books/OT/jeremiah/Jeremiah_31.md",
+      "books/OT/psalms/Psalm_024.md",
+      "books/OT/psalms/Psalm_046.md",
+      "books/OT/zephaniah/Zephaniah_02.md"
+    ],
+    "article_As_LORD_apposition": [
+      "books/OT/1kings/1Kings_17.md"
+    ],
+    "article_what_LORD_apposition": [
+      "books/OT/1kings/1Kings_17.md"
+    ],
+    "article_I_am_LORD": [
+      "books/OT/1kings/1Kings_20.md",
+      "books/OT/exodus/Exodus_06.md",
+      "books/OT/exodus/Exodus_10.md",
+      "books/OT/ezekiel/Ezekiel_07.md",
+      "books/OT/ezekiel/Ezekiel_11.md",
+      "books/OT/ezekiel/Ezekiel_15.md",
+      "books/OT/ezekiel/Ezekiel_20.md",
+      "books/OT/ezekiel/Ezekiel_24.md",
+      "books/OT/ezekiel/Ezekiel_29.md",
+      "books/OT/ezekiel/Ezekiel_30.md",
+      "books/OT/ezekiel/Ezekiel_32.md",
+      "books/OT/isaiah/Isaiah_43.md"
+    ],
+    "article_Thus_says_LORD": [
+      "books/OT/1kings/1Kings_20.md",
+      "books/OT/exodus/Exodus_04.md",
+      "books/OT/exodus/Exodus_10.md",
+      "books/OT/ezekiel/Ezekiel_11.md",
+      "books/OT/ezekiel/Ezekiel_30.md",
+      "books/OT/jeremiah/Jeremiah_05.md"
+    ],
+    "YHWH_Hosts": [
+      "books/OT/1samuel/1Samuel_01.md"
+    ],
+    "article_from_LORD": [
+      "books/OT/1samuel/1Samuel_01.md",
+      "books/OT/ezekiel/Ezekiel_11.md"
+    ],
+    "article_worship_LORD": [
+      "books/OT/1samuel/1Samuel_01.md"
+    ],
+    "article_words_of_LORD": [
+      "books/OT/exodus/Exodus_04.md"
+    ],
+    "article_that_LORD_apposition": [
+      "books/OT/exodus/Exodus_04.md"
+    ],
+    "article_I_LORD_apposition": [
+      "books/OT/exodus/Exodus_04.md",
+      "books/OT/ezekiel/Ezekiel_07.md",
+      "books/OT/ezekiel/Ezekiel_24.md",
+      "books/OT/ezekiel/Ezekiel_30.md"
+    ],
+    "article_name_LORD": [
+      "books/OT/exodus/Exodus_06.md"
+    ],
+    "article_with_LORD": [
+      "books/OT/exodus/Exodus_10.md"
+    ],
+    "article_against_LORD": [
+      "books/OT/exodus/Exodus_10.md"
+    ],
+    "article_serve_LORD": [
+      "books/OT/exodus/Exodus_10.md"
+    ],
+    "Ezekiel_YHWH_capitalization": [
+      "books/OT/ezekiel/Ezekiel_01.md",
+      "books/OT/ezekiel/Ezekiel_02.md",
+      "books/OT/ezekiel/Ezekiel_03.md",
+      "books/OT/ezekiel/Ezekiel_05.md",
+      "books/OT/ezekiel/Ezekiel_06.md",
+      "books/OT/ezekiel/Ezekiel_07.md",
+      "books/OT/ezekiel/Ezekiel_08.md",
+      "books/OT/ezekiel/Ezekiel_11.md",
+      "books/OT/ezekiel/Ezekiel_12.md",
+      "books/OT/ezekiel/Ezekiel_13.md",
+      "books/OT/ezekiel/Ezekiel_14.md",
+      "books/OT/ezekiel/Ezekiel_15.md",
+      "books/OT/ezekiel/Ezekiel_16.md",
+      "books/OT/ezekiel/Ezekiel_17.md",
+      "books/OT/ezekiel/Ezekiel_18.md",
+      "books/OT/ezekiel/Ezekiel_20.md",
+      "books/OT/ezekiel/Ezekiel_21.md",
+      "books/OT/ezekiel/Ezekiel_22.md",
+      "books/OT/ezekiel/Ezekiel_23.md",
+      "books/OT/ezekiel/Ezekiel_24.md",
+      "books/OT/ezekiel/Ezekiel_25.md",
+      "books/OT/ezekiel/Ezekiel_26.md",
+      "books/OT/ezekiel/Ezekiel_27.md",
+      "books/OT/ezekiel/Ezekiel_28.md",
+      "books/OT/ezekiel/Ezekiel_29.md",
+      "books/OT/ezekiel/Ezekiel_30.md",
+      "books/OT/ezekiel/Ezekiel_31.md",
+      "books/OT/ezekiel/Ezekiel_32.md",
+      "books/OT/ezekiel/Ezekiel_33.md",
+      "books/OT/ezekiel/Ezekiel_34.md",
+      "books/OT/ezekiel/Ezekiel_35.md",
+      "books/OT/ezekiel/Ezekiel_36.md",
+      "books/OT/ezekiel/Ezekiel_37.md",
+      "books/OT/ezekiel/Ezekiel_38.md",
+      "books/OT/ezekiel/Ezekiel_39.md",
+      "books/OT/ezekiel/Ezekiel_43.md",
+      "books/OT/ezekiel/Ezekiel_44.md",
+      "books/OT/ezekiel/Ezekiel_45.md",
+      "books/OT/ezekiel/Ezekiel_46.md",
+      "books/OT/ezekiel/Ezekiel_47.md",
+      "books/OT/ezekiel/Ezekiel_48.md"
+    ],
+    "Ezekiel_Adonai_YHWH": [
+      "books/OT/ezekiel/Ezekiel_03.md",
+      "books/OT/ezekiel/Ezekiel_06.md",
+      "books/OT/ezekiel/Ezekiel_08.md",
+      "books/OT/ezekiel/Ezekiel_13.md",
+      "books/OT/ezekiel/Ezekiel_14.md",
+      "books/OT/ezekiel/Ezekiel_25.md",
+      "books/OT/ezekiel/Ezekiel_26.md"
+    ],
+    "Lord_YHWH_to_Lord_GOD": [
+      "books/OT/ezekiel/Ezekiel_07.md",
+      "books/OT/ezekiel/Ezekiel_09.md",
+      "books/OT/ezekiel/Ezekiel_11.md",
+      "books/OT/ezekiel/Ezekiel_15.md",
+      "books/OT/ezekiel/Ezekiel_18.md",
+      "books/OT/ezekiel/Ezekiel_20.md",
+      "books/OT/ezekiel/Ezekiel_24.md",
+      "books/OT/ezekiel/Ezekiel_27.md",
+      "books/OT/ezekiel/Ezekiel_29.md",
+      "books/OT/ezekiel/Ezekiel_30.md",
+      "books/OT/ezekiel/Ezekiel_32.md",
+      "books/OT/ezekiel/Ezekiel_33.md",
+      "books/OT/psalms/Psalm_071.md",
+      "books/OT/psalms/Psalm_073.md"
+    ],
+    "YHWH_possessive": [
+      "books/OT/ezekiel/Ezekiel_07.md"
+    ],
+    "divine_pronoun_standard_english": [
+      "books/OT/ezra/Ezra_01.md",
+      "books/OT/jeremiah/Jeremiah_01.md",
+      "books/OT/psalms/Psalm_064.md"
+    ],
+    "article_declares_LORD": [
+      "books/OT/hosea/Hosea_02.md",
+      "books/OT/isaiah/Isaiah_43.md",
+      "books/OT/jeremiah/Jeremiah_05.md"
+    ],
+    "article_am_LORD": [
+      "books/OT/isaiah/Isaiah_43.md"
+    ],
+    "article_As_LORD_lives": [
+      "books/OT/jeremiah/Jeremiah_05.md"
+    ],
+    "God_Hosts_title_consistency": [
+      "books/OT/jeremiah/Jeremiah_15.md"
+    ],
+    "Micah6_YHWH_title_repair": [
+      "books/OT/micah/Micah_06.md"
+    ],
+    "Numbers6_YHWH_title_repair": [
+      "books/OT/numbers/Numbers_06.md"
+    ],
+    "Psalm8_YHWH_title_repair": [
+      "books/OT/psalms/Psalm_008.md"
+    ],
+    "Psalm15_YHWH_title_repair": [
+      "books/OT/psalms/Psalm_015.md"
+    ],
+    "YHWH_God_Hosts": [
+      "books/OT/psalms/Psalm_059.md"
+    ]
+  }
+}

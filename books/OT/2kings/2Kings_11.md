@@ -70,30 +70,7 @@ v20: All the people of the land rejoiced, and the city was quiet after they had 
 
 v21: Joash was seven years old when he became king.
 </p>
-
 ##Notes
-
-v01: Athaliah responds to Ahaziah’s death by attempting to eliminate the Davidic royal line. The survival of Joash preserves the “lamp” promised to David.
-
-v02: Jehosheba’s action is the decisive human act preserving the child king. 2 Chronicles 22:11 identifies her as wife of Jehoiada the priest.
-
-v03: The child is hidden in the temple for six years while Athaliah exercises royal power.
-
-v04: “Carites” are elite guards, perhaps related to the Cherethites. Their exact ethnic identity is uncertain.
-
-v10: Weapons associated with David turn the temple into a place where Davidic kingship is physically defended.
-
-v12: “the testimony” placed with the crown may be a royal copy of covenant instruction or another symbolic document. The exact object is not specified.
-
-v14: The irony of Athaliah’s cry “Treason!” is strong: she herself seized the throne through destruction of royal heirs.
-
-v15–16: Jehoiada insists that Athaliah not be killed within the temple precincts, maintaining sacred-space boundaries even during revolution.
-
-v17: The covenant has two dimensions: LORD-king-people and king-people, joining theological allegiance and political order.
-
-v18: Baal’s temple and priest are destroyed as part of the restoration of Davidic rule and covenant identity.
-
-v21: The chapter ends by emphasizing the king’s extreme youth, implying dependence on priestly and institutional guidance.
 
 ##Vocabulary
 
@@ -106,23 +83,5 @@ v02: גָּנַב (ganav)
 v04: בְּרִית (berit)
 “Covenant.” Jehoiada binds the guards to the plan.
 
-v04: כָּרִי (Kari)
-“Carite.” A member of an elite guard force.
-
-v10: שִׁלְטוֹן (shilton)
-“Shield.” Royal weapons kept in the temple.
-
-v12: נֵזֶר (nezer)
-“Crown.” The royal diadem placed upon Joash.
-
-v12: עֵדוּת (edut)
-“Testimony.” A covenantal object or document associated with enthronement.
-
-v14: קֶשֶׁר (qesher)
-“Treason” or conspiracy.
-
 v17: עַם לַיהוָה (am la-YHWH)
 “People of the LORD.” The covenant identity renewed.
-
-v20: שָׁקַט (shaqat)
-“To be quiet.” The city settles after Athaliah’s death.

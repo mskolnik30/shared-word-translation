@@ -56,9 +56,9 @@ v17: Joshua heard the sound of the people as they shouted, and he said to Moses,
 
 v18: But Moses said:
 
-“It is not the sound of a shout of victory,  
-and not the sound of a cry of defeat;  
-the sound of singing  
+“It is not the sound of a shout of victory,
+and not the sound of a cry of defeat;
+the sound of singing
 I hear.”
 
 v19: As soon as he came near the camp and saw the calf and the dancing, Moses’ anger burned. He threw the tablets from his hands and shattered them at the foot of the mountain.
@@ -107,61 +107,22 @@ v34: And now go, lead the people to the place of which I spoke to you. Look, my 
 
 v35: Then the LORD struck the people because they had made the calf, the one Aaron had made.
 </p>
-
 ##Notes
 
-v01: The people’s demand arises from Moses’ delay and uncertainty. They seek a visible leader or divine representation to “go before” them.
+v04: Hebrew *elohim* is grammatically plural in the quoted acclamation but can refer to “god” or “gods.”
 
-v04: Hebrew *elohim* is grammatically plural in the quoted acclamation but can refer to “god” or “gods.” The plural wording “These are your gods” follows the received syntax and echoes the later divine accusation.
-
-v05: Aaron declares a festival “to the LORD,” showing that the calf episode is not portrayed simply as abandonment of the LORD for another named deity, but as corrupt worship that tries to represent or redirect the LORD through an image.
-
-v06: “rose up to revel” is deliberately broad. The Hebrew verb can include play, celebration, or sexually charged festivity depending on context.
-
-v10–14: Moses’ intercession appeals to the LORD’s reputation before Egypt and the promises to the ancestors. The LORD’s “relenting” is retained as the text’s own language of responsive divine relationship.
-
-v19: Breaking the tablets visibly enacts the covenant rupture already committed by the people.
-
-v20: Burning, grinding, scattering, and making Israel drink the calf is a public destruction and humiliation of the image. The text does not explain every ritual implication.
-
-v24: Aaron’s claim that the calf simply emerged from the fire contradicts verse 4, where he actively fashions it. The narrative leaves the self-excusing distortion exposed.
-
-v27–28: The Levites’ killing of fellow Israelites is one of the chapter’s most severe episodes. TSW translates it directly without generalizing the act as a model for religious violence.
-
-v29: “fill your hands” is the ordinary idiom for ordination or installation. Here it is applied to the Levites after their violent loyalty in the crisis.
-
-v32: Moses offers his own removal from God’s “book” rather than accept separation from the people. The precise nature of the heavenly book is not defined.
-
-v34: Judgment is delayed but not erased. Intercession preserves Israel from immediate destruction while accountability remains.
+v29: “fill your hands” is the ordinary idiom for ordination or installation.
 
 ##Vocabulary
-
-v04: מַסֵּכָה (massekhah)
-“Cast image.” An image formed from molten metal.
 
 v06: צָחַק (tsachaq)
 “To laugh,” “play,” or “revel.” The people rise for festivity after sacrifice.
 
-v09: קְשֵׁה־עֹרֶף (qesheh-oref)
-“Stiff-necked.” A metaphor for stubborn resistance.
-
 v11: חָלָה אֶת־פְּנֵי (chalah et-pene)
 “To plead before,” literally to soften or entreat the face.
-
-v14: נָחַם (nacham)
-“To relent” or “be moved.” The LORD responds to Moses’ intercession.
 
 v19: שָׁבַר (shavar)
 “To shatter.” Moses breaks the covenant tablets.
 
-v25: פָּרַע (para)
-“To break loose” or “be unrestrained.”
-
 v29: מִלֵּא יָד (mille yad)
 “To fill the hand.” An idiom of consecration or installation.
-
-v30: כִּפֶּר (kipper)
-“To make atonement.” Moses hopes to address the people’s sin before God.
-
-v32: מָחָה (machah)
-“To wipe out” or “erase.” Moses speaks of being erased from God’s book.

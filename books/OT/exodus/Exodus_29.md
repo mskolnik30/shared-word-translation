@@ -136,38 +136,11 @@ v45: I will dwell in the midst of the children of Israel and will be their God.
 
 v46: They will know that I am the LORD their God, who brought them out from the land of Egypt so that I might dwell in their midst. I am the LORD their God.
 </p>
-
 ##Notes
-
-v01: Priesthood is established through washing, clothing, anointing, sacrifice, blood, food, and a seven-day rite. No single action alone constitutes the whole consecration.
 
 v09: “fill the hands” is the Hebrew idiom for ordination. The priest’s hands are literally filled with sacred portions later in the ritual.
 
-v10, v15, v19: Laying hands on the animal identifies Aaron and his sons with the sacrifice in distinct rites of purification, burnt offering, and ordination.
-
-v20: Blood is placed on right ear, thumb, and big toe, symbolically marking hearing, action, and walking within priestly service.
-
-v21: Blood from the altar and anointing oil are applied to priests and garments together, joining sacrificial and anointing holiness.
-
-v22: The “fat tail” refers to the large fatty tail of ancient Near Eastern sheep breeds.
-
-v24: “wave offering” describes a ritual presentation before the LORD. The exact physical motion is not fully described by the text.
-
-v33: The priests eat the food “by which atonement was made,” joining sacred meal and ordination. The meal is restricted because the food is holy.
-
-v37: “whatever touches the altar shall become holy” expresses the altar’s intensified sacred status and the danger of casual contact with holy space.
-
-v38–42: The daily lambs establish a continual rhythm of worship morning and evening, independent of special festivals.
-
-v46: The exodus reaches its theological purpose in divine dwelling: Israel is brought out of Egypt so that the LORD may dwell in their midst.
-
 ##Vocabulary
-
-v01: קָדַשׁ (qadash)
-“To consecrate.” To set apart for sacred service.
-
-v07: שֶׁמֶן הַמִּשְׁחָה (shemen ha-mishchah)
-“Anointing oil.” Oil used to install and consecrate priests.
 
 v09: מִלֵּא יָד (mille yad)
 “To fill the hand.” The Hebrew idiom for ordination.
@@ -178,17 +151,8 @@ v14: חַטָּאת (chatta't)
 v18: רֵיחַ נִיחוֹחַ (reach nichoach)
 “Pleasing aroma.” Formula describing an offering accepted before the LORD.
 
-v22: אֵיל מִלֻּאִים (eil millu'im)
-“Ram of ordination.” The ram used in filling the priests’ hands.
-
 v24: תְּנוּפָה (tenufah)
 “Wave offering.” A sacred portion presented before the LORD.
 
 v28: שְׁלָמִים (shelamim)
 “Offerings of well-being.” Sacrifices associated with peace, wholeness, and shared eating.
-
-v36: כִּפֶּר (kipper)
-“To make atonement.” To address guilt or impurity and restore sacred order.
-
-v38: תָּמִיד (tamid)
-“Continually.” Regular, ongoing sanctuary service.

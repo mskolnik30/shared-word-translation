@@ -47,10 +47,7 @@ v20: Rise and go down and go with them without hesitation, for I have sent them.
 v21: So Peter went down to the men and said, “Look—I am the one you are looking for. What is the reason you have come?”
 v22: And they said, “Cornelius, a centurion, an upright and God-fearing man, well spoken of by the whole Judean nation, was directed by a holy angel to send for you to come to his house and to hear what you have to say.”
 v23: So he invited them in and lodged them.
-</p>
-
-<p>
-v23: The next day he rose and went away with them, and some of the sisters and brothers from Joppa went with him.
+The next day he rose and went away with them, and some of the sisters and brothers from Joppa went with him.
 </p>
 
 ## Peter Meets Cornelius
@@ -107,116 +104,21 @@ v46: For they heard them speaking in tongues and extolling God. Then Peter said,
 v47: “Can anyone withhold the water for baptizing these people, who have received the Holy Spirit just as we have?”
 v48: So Peter ordered them to be baptized in the name of Jesus Christ. Then they asked him to remain for some days.
 </p>
+##Notes
 
+##Vocabulary
 
-## Notes
-v1–2: Cornelius “fears God… prays… gives to the poor” — Luke portrays a Gentile already oriented toward Israel’s God; piety and generosity prepare the ground, though the gospel still must be proclaimed (v22, v33–43).
+v04: μνημόσυνον (mnēmosynon)
+“Memorial; remembrance-offering.”
 
-v4: “ascended as a memorial” — Prayer and almsgiving are pictured as rising before God; God’s attention precedes human initiative.
+v14: κοινός (koinos)
+“Common; profane (ritually non-holy).”
 
-v6: “Simon… a tanner” — Peter is already living near boundary-crossing impurity (tanning), signaling that God has been softening his social and ritual instincts.
+v14: ἀκάθαρτος (akathartos)
+“Unclean; defiled.”
 
-v10–16: sheet vision / “common or unclean” — The point is bigger than food laws: God is re-forming Peter’s imagination about purity and people (explicit in v28).
+v15: καθαρίζω (katharizō)
+“To make clean; to cleanse.”
 
-v15: “What God has made clean” — Purity is declared by God’s action, not human gatekeeping; the church receives God’s verdict rather than enforcing old boundaries.
-
-v17–20: “without hesitation” — The Spirit does not merely permit; the Spirit commands crossing the line. Obedience requires speed and trust.
-
-v25–26: Cornelius worships / Peter refuses — A key correction: the gospel does not create a new human mediator class. Peter insists on shared humanity under God.
-
-v28: “any human being common or unclean” — The moral center of the chapter: God’s holiness now presses toward inclusive fellowship, dismantling dehumanizing categories.
-
-v33: “in the presence of God… to hear” — A model posture for seekers and communities: gathered, attentive, ready to obey what the Lord commands.
-
-v34: “no partiality” — Theological earthquake. God’s judgment and mercy are not bound to ethnicity or status; God is impartial in welcome and in accountability.
-
-v35: “acceptable… fears God… does what is right” — Not “works salvation,” but describing the kind of receptivity God honors. The content of salvation is still anchored in Jesus (v36–43).
-
-v36: “good news of peace… Lord of all” — Peace is not merely inner calm but reconciled order under Jesus’ universal lordship.
-
-v38: “anointed… doing good… healing… oppressed” — The gospel summary emphasizes Jesus’ Spirit-filled, justice-shaped ministry: goodness, healing, liberation.
-
-v39: “hanging him on a tree” — Deuteronomy resonance: shameful execution becomes the place where God overturns curse and death.
-
-v41: “ate and drank with him” — Resurrection is embodied and communal; witness is grounded in shared table fellowship, not private visions only.
-
-v42: “judge of the living and the dead” — Jesus’ lordship includes final justice; the good news is also a warning to oppressors and a hope for the harmed.
-
-v43: “everyone who trusts… forgiveness” — The invitation is radically widened: forgiveness is offered to “everyone” through trust in Jesus’ name.
-
-v44–46: Spirit falls “while… still speaking” — God interrupts the sermon. The Spirit’s timing prevents the church from controlling access.
-
-v45: “even on the Gentiles” — The shock is the point: God gives the same gift without requiring cultural conversion first.
-
-v47–48: “withhold the water… baptized” — Baptism follows God’s initiative; the church recognizes what God has already done and then publicly names belonging.
-
-## Vocabulary
-v1: ἑκατοντάρχης (hekatontarchēs) — centurion
-
-v1: σπεῖρα (speira) — cohort; military unit
-
-v2: εὐσεβής (eusebēs) — devout; reverent
-
-v2: φοβέομαι τὸν θεόν (phobeomai ton theon) — to fear God; to reverence God
-
-v2: ἐλεημοσύνη (eleēmosynē) — alms; gifts to the poor
-
-v3: ὅραμα (horama) — vision
-
-v4: μνημόσυνον (mnēmosynon) — memorial; remembrance-offering
-
-v10: ἔκστασις (ekstasis) — trance; ecstatic state
-
-v11: ὀθόνη (othonē) — sheet; linen cloth
-
-v12: τετράποδος (tetrapodos) — four-footed animal
-
-v14: κοινός (koinos) — common; profane (ritually non-holy)
-
-v14: ἀκάθαρτος (akathartos) — unclean; defiled
-
-v15: καθαρίζω (katharizō) — to make clean; to cleanse
-
-v17: διηπορέω (diaporeō) — to be perplexed; to be at a loss
-
-v19: διαλογίζομαι (dialogizomai) — to ponder; to reason through
-
-v20: διακρίνω (diakrinō) — to hesitate; to make distinctions; to doubt (context)
-
-v23: ξενίζω (xenizō) — to show hospitality; to lodge/host
-
-v28: ἀθέμιτος (athemitos) — unlawful; forbidden by custom
-
-v34: προσωπολήμπτης (prosōpolēmptēs) — one who shows partiality
-
-v36: εὐαγγελίζω (euangelizō) — to proclaim good news
-
-v36: εἰρήνη (eirēnē) — peace; wholeness
-
-v38: χρίω (chriō) — to anoint
-
-v38: καταδυναστεύω (katadynasteuō) — to oppress; to dominate
-
-v39: ξύλον (xylon) — tree; wooden beam (as in execution on a “tree”)
-
-v40: ἐγείρω (egeirō) — to raise up
-
-v42: κριτής (kritēs) — judge
-
-v43: ἄφεσις (aphesis) — forgiveness; release
-
-v43: ἁμαρτία (hamartia) — sin
-
-v44: ἐπιπίπτω (epipiptō) — to fall upon
-
-v45: δωρεά (dōrea) — gift (free gift)
-
-v45: ἐκχέω (ekcheō) — to pour out
-
-v46: γλῶσσα (glōssa) — tongue; language
-
-v46: μεγαλύνω (megalynō) — to magnify; to extol
-
-v47: κωλύω (kōlyō) — to hinder; to withhold; to prevent
-
-v48: βαπτίζω (baptizō) — to baptize; to immerse
+v36: εὐαγγελίζω (euangelizō)
+“To proclaim good news.”

@@ -8,7 +8,6 @@ translation: TSW
 ## The Woman and the Dragon
 
 <p>
-
 v01: And a great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars.
 
 v02: She was pregnant and was crying out in labor and in the pain of giving birth.
@@ -60,81 +59,19 @@ v15: The serpent poured water like a river out of his mouth after the woman, to 
 v16: but the earth came to the help of the woman, and the earth opened its mouth and swallowed the river that the dragon had poured from his mouth.
 
 v17: Then the dragon became enraged with the woman and went off to make war on the rest of her offspring, those who keep the commandments of God and hold to the testimony of Jesus.
-
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v1: The “sign” signals symbolic vision rather than literal description.
-
-v1–2: The woman is depicted with cosmic imagery, not identified.
-
-v3: The dragon’s features accumulate without explanation.
-
-v4: The sweeping of stars is described without clarification of meaning.
-
-v5: The child’s role is stated through scriptural language without naming identity.
-
-v6: The wilderness functions as both refuge and testing space.
-
-v7–9: Conflict is narrated without strategic detail; outcome is decisive.
-
-v9: Multiple names are given without harmonization, expanding identification.
-
-v10–11: Victory is attributed to both divine action and human witness.
-
-v11: Conquering is linked to death rather than avoidance of it.
-
-v12: Time is shortened but not quantified.
-
-v14: The time expression is symbolic and not aligned with prior units.
-
-v15–16: Creation responds; the earth acts without explanation.
-
-v17: The focus shifts from the woman to her offspring without transition.
-
-## Vocabulary
-
-v1: σημεῖον (sēmeion)
-
+v01: σημεῖον (sēmeion)
 “Sign.” Indicator pointing beyond itself.
 
-v3: δράκων (drakōn)
-
+v03: δράκων (drakōn)
 “Dragon.” A symbolic adversary, not defined by species.
 
-v4: σύρω (syro)
-
+v04: σύρω (syro)
 “To sweep” or “drag.” Forceful movement.
 
-v5: ποιμαίνω (poimainō)
-
-“To rule” or “shepherd.” Authority expressed as guidance or control.
-
-v6: ἔρημος (erēmos)
-
-“Wilderness.” Place of isolation and provision.
-
-v7: πόλεμος (polemos)
-
-“War.” Conflict without specified form.
-
-v9: διάβολος (diabolos)
-
-“Slanderer” or “devil.” One who accuses or opposes.
-
-v10: κατήγωρ (katēgor)
-
-“Accuser.” One who brings charges.
-
 v11: μαρτυρία (martyria)
-
 “Testimony.” Witness borne publicly.
-
-v14: καιρός (kairos)
-
-“Time.” Appointed or significant period.
-
-v17: σπέρμα (sperma)
-
-“Offspring.” Descendants or continuation.

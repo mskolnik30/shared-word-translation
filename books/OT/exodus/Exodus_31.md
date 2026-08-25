@@ -52,22 +52,9 @@ v17: It is a sign forever between me and the children of Israel, for in six days
 <p>
 v18: When he finished speaking with Moses on Mount Sinai, he gave him the two tablets of the testimony, tablets of stone, written with the finger of God.
 </p>
-
 ##Notes
 
-v02: “called by name” marks Bezalel’s craft vocation as a divine commission, not merely a human appointment.
-
-v03: The Spirit of God is explicitly associated with artistic and technical skill—wisdom, understanding, knowledge, and craftsmanship.
-
-v06: Oholiab and the wider group of “wise of heart” artisans share in the work. The sanctuary is a communal act of Spirit-enabled craftsmanship.
-
-v13: Sabbath is called a “sign” of covenant identity and of the LORD’s work in consecrating Israel.
-
-v14–15: The death language underscores the seriousness of Sabbath within Sinai’s covenantal order. TSW preserves the law’s severity without transferring its civil penalty outside its ancient covenant setting.
-
-v17: “was refreshed” uses a striking verb literally related to taking breath. It speaks analogically of divine cessation rather than exhaustion.
-
-v18: “finger of God” attributes the tablets’ inscription directly to divine agency.
+v17: “was refreshed” uses a striking verb literally related to taking breath.
 
 ##Vocabulary
 
@@ -80,17 +67,5 @@ v03: רוּחַ אֱלֹהִים (ruach Elohim)
 v03: חָכְמָה (chokhmah)
 “Wisdom.” Practical skill as well as discerning understanding.
 
-v06: חֲכַם־לֵב (chakham-lev)
-“Wise of heart.” A skilled and discerning artisan.
-
 v13: אוֹת (ot)
 “Sign.” A covenant marker between the LORD and Israel.
-
-v15: שַׁבַּת שַׁבָּתוֹן (shabbat shabbaton)
-“Sabbath of complete rest.” An intensified expression for cessation.
-
-v17: נָפַשׁ (nafash)
-“To be refreshed” or “take breath.” Used of the LORD’s seventh-day cessation.
-
-v18: אֶצְבַּע אֱלֹהִים (etsba Elohim)
-“Finger of God.” Direct divine authorship of the tablets.

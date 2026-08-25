@@ -82,31 +82,21 @@ v36: Look, we are servants today. As for the land you gave to our ancestors to e
 v37: Its abundant produce goes to the kings you have set over us because of our sins. They rule over our bodies and our livestock according to their pleasure, and we are in great distress.
 v38: Because of all this, we make a firm agreement in writing, and our officials, Levites, and priests put their seals upon it.”
 </p>
-
 ##Notes
-v01–03: Fasting, sackcloth, earth, confession, Torah reading, and worship are held together as embodied communal repentance.
-v06–37: The prayer recounts Israel’s history as a repeated contrast between the LORD’s faithfulness and human rebellion. Repetition is central to its rhetoric and should not be smoothed away.
-v09: “Sea of Reeds” — The Hebrew traditional name is *yam suf*. TSW retains the more literal geographic designation rather than the conventional “Red Sea.”
-v17: The description of God as forgiving, gracious, compassionate, slow to anger, and abundant in steadfast love echoes major covenantal confessions elsewhere in Scripture.
-v20: “your good Spirit” — The Spirit is described as the divine agent of instruction in the wilderness.
-v29: “by which a person … shall live” recalls Torah language concerning life through faithful observance; the prayer uses it to intensify Israel’s refusal.
-v36–37: Return to the land has not meant political independence. The community is physically in the promised land yet economically and politically subject to Persian kings.
-v38: The Hebrew describes a firm or faithful agreement rather than using the ordinary word *berit* for covenant in this verse.
 
 ##Vocabulary
+
 v02: עָוֹן (avon)
 “Iniquity” or “guilt.” Wrongdoing considered with its burden and consequence.
+
 v03: יָדָה (yadah)
 “To confess” or “give thanks.” Here public acknowledgment of sin before God.
+
 v08: בְּרִית (berit)
 “Covenant.” The binding promise made with Abraham.
-v17: סְלִיחָה (selichah)
-“Forgiveness.” Readiness to pardon wrongdoing.
-v17: רַחוּם (rachum)
-“Compassionate.” Deeply merciful toward those in need.
+
 v20: רוּחַ (ruach)
 “Spirit,” “wind,” or “breath.” Here God’s good Spirit who instructs.
+
 v32: חֶסֶד (ḥesed)
 “Steadfast love.” Faithful covenantal loyalty.
-v38: אֲמָנָה (amanah)
-“Firm agreement.” A binding written commitment characterized by reliability.

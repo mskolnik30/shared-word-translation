@@ -4,6 +4,7 @@ testament: OT
 chapter: 3
 translation: TSW
 ---
+
 ## The Lord Will Come to His Temple
 <p>
 v01: “Behold, I am sending my messenger,
@@ -118,56 +119,18 @@ the distinction between the righteous and the wicked,
 between one who serves God
 and one who does not serve him.”
 </p>
+##Notes
 
-## Notes
-v6: God's unchanging character is the reason Israel continues to exist despite repeated covenant failures.
-v7: The call to return summarizes the covenant relationship: repentance is met with divine restoration.
-v8–9: The people's withholding of tithes is treated not merely as neglect but as robbery against God himself.
-v10: The challenge to “test” God is unique because God himself invites the people to verify his covenant faithfulness.
-v10–12: Material blessing is presented as a covenant sign of restored obedience and divine favor.
-v11: The “devourer” likely refers to agricultural destruction through pests, disease, or blight.
-v13–15: The people question whether serving God provides any benefit when the wicked appear to prosper.
-v16: A faithful remnant remains within the nation despite widespread cynicism.
-v16: The book of remembrance symbolizes God's perfect knowledge and care for those who fear him.
-v17: The faithful are described as God's treasured possession, language previously applied to Israel as a covenant people.
-v18: The final outcome will reveal a clear distinction between righteousness and wickedness, even when that distinction seems hidden in the present.
+##Vocabulary
 
-## Vocabulary
-v6: שָׁנָה (šānâ)
+v06: שָׁנָה (šānâ)
 “To change.” To become different or altered.
 
-v7: שׁוּב (šûḇ)
+v07: שׁוּב (šûḇ)
 “To return.” To turn back in repentance and renewed covenant loyalty.
 
-v8: קָבַע (qāḇaʿ)
+v08: קָבַע (qāḇaʿ)
 “To rob.” To withhold what rightfully belongs to another.
-
-v8: מַעֲשֵׂר (maʿăśēr)
-“Tithe.” A tenth portion dedicated to God.
-
-v10: אוֹצָר (ʾôṣār)
-“Storehouse.” A place for storing provisions and offerings.
-
-v10: אֲרֻבּוֹת הַשָּׁמַיִם (ʾărubbôṯ haššāmayim)
-“Windows of heaven.” A metaphor for abundant divine provision.
-
-v11: גָּעַר (gāʿar)
-“To rebuke.” To restrain or command with authority.
-
-v13: חָזַק (ḥāzaq)
-“To be strong” or “hard.” Here describing harsh or arrogant speech.
-
-v14: שָׁוְא (šāwʾ)
-“Vain” or “empty.” Without profit, purpose, or value.
-
-v16: סֵפֶר זִכָּרוֹן (sēp̄er zikkārôn)
-“Book of remembrance.” A symbolic record of those remembered by God.
-
-v17: סְגֻלָּה (sĕgullâ)
-“Treasured possession.” A specially valued and protected people.
 
 v18: צַדִּיק (ṣaddîq)
 “Righteous.” One who lives in covenant faithfulness.
-
-v18: רָשָׁע (rāšāʿ)
-“Wicked.” One who rejects God's ways and acts unjustly.

@@ -43,44 +43,27 @@ v15: Then Moses went up on the mountain, and the cloud covered the mountain.
 v16: The glory of the LORD settled on Mount Sinai, and the cloud covered it six days; on the seventh day he called to Moses out of the midst of the cloud.
 </p>
 
-## Notes
-v1: “Come up to the LORD” — The LORD speaks, yet Moses is told to come up “to the LORD.” The third-person reference preserves narrative distance and emphasizes divine transcendence rather than resolving it.
-
-v7: “we will do, and we will hear” — The order is striking. Obedience precedes full comprehension. The sequence is preserved rather than adjusted for modern expectation.
-
-v8: “the blood of the covenant that the LORD has cut” — The Hebrew idiom is literally “cut a covenant.” The imagery of cutting is retained conceptually, echoing ancient covenant-making practices.
-
-v10: “they saw the God of Israel” — The text states this directly without qualification, even as other passages insist that God cannot be seen. The tension is preserved.
-
-v11: “he did not stretch out his hand” — A common idiom for judgment or destruction. Its negation underscores the unexpected survival of those who “saw God.”
-
-v12: “the instruction and the commandment” — “Instruction” renders *torah*, which carries the sense of teaching or guidance, not merely legislation.
-
-v16: “the glory of the LORD” — The term signals visible divine presence. The text describes appearance without defining essence, preserving mystery.
-
-v18: “forty days and forty nights” — A recurring biblical period associated with testing, preparation, and divine encounter. The narrative leaves its symbolic weight unstated.
-
-
-## Vocabulary
-v1: שָׁחָה (*shachah*) — to bow down, to prostrate oneself; bodily posture of worship or submission.
-
-v5: שְׁלָמִים (*shelamim*) — offerings of well-being; traditionally “peace offerings,” conveying wholeness and restored relationship.
-
-v7: סֵפֶר הַבְּרִית (*sefer ha-berit*) — book of the covenant; written covenantal document publicly read.
-
-v8: בְּרִית (*berit*) — covenant; binding relational commitment, often formalized through ritual action.
-
-v8: כָּרַת (*karat*) — to cut; idiomatically “to cut a covenant,” reflecting ancient covenant-making practice.
-
-v10: לָבֵנָה (*lavenah*) — brick, pavement; here describing the sapphire-like surface beneath God’s feet.
-
-v16: כָּבוֹד (*kavod*) — glory; weight, honor, manifest presence.
-
-v17: אֵשׁ אֹכֶלֶת (*esh okhelet*) — consuming fire; image of divine holiness and intensity.
-
-v18: אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה (*arba'im yom ve'arba'im laylah*) — forty days and forty nights; recurring period of testing and encounter.
-
-
-v17: Now the appearance of the glory of the LORD was like a consuming fire on the top of the mountain in the sight of the people of Israel.
+<p>
+v17: Now the appearance of the glory of the LORD was like a consuming fire on the top of the mountain in the sight of the sons of Israel.
 
 v18: Moses entered the midst of the cloud and went up on the mountain. And Moses was on the mountain forty days and forty nights.
+</p>
+##Notes
+
+v08: “the blood of the covenant that the LORD has cut” — The Hebrew idiom is literally “cut a covenant.” The imagery of cutting is retained conceptually, echoing ancient covenant-making practices.
+
+v11: “he did not stretch out his hand” — A common idiom for judgment or destruction.
+
+##Vocabulary
+
+v05: שְׁלָמִים (shelamim)
+“Offerings of well-being.” Traditionally “peace offerings,” conveying wholeness and restored relationship.
+
+v07: סֵפֶר הַבְּרִית (sefer ha-berit)
+“Book of the covenant; written covenantal document publicly read.”
+
+v08: בְּרִית (berit)
+“Covenant; binding relational commitment, often formalized through ritual action.”
+
+v08: כָּרַת (karat)
+“To cut; idiomatically “to cut a covenant,” reflecting ancient covenant-making practice.”

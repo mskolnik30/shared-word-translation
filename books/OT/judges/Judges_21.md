@@ -74,26 +74,11 @@ v24: The children of Israel departed from there at that time, each to his tribe 
 
 v25: In those days there was no king in Israel. Everyone did what was right in their own eyes.
 </p>
+##Notes
 
-## Notes
+v25: The final refrain closes the book without resolving its disorder.
 
-v01: Israel’s oath creates the crisis that drives the chapter. A vow made in anger becomes a constraint that the people attempt to solve without reconsidering the violence of the vow itself.
-
-v03: Israel laments the possible loss of Benjamin after having nearly destroyed the tribe. Grief follows the consequences of their own collective action.
-
-v05, v10–12: A second oath becomes the justification for destroying Jabesh-Gilead. The attempt to repair one act of violence generates another.
-
-v11: The sexual wording is deliberately explicit in the Hebrew because virginity becomes the criterion by which women are spared and reassigned.
-
-v13: “proclaimed peace” — Israel makes peace with the surviving Benjaminites while simultaneously securing wives for them through violence against another community.
-
-v19–23: The plan concerning the women of Shiloh avoids technically “giving” daughters to Benjamin by permitting their seizure. The legal maneuver does not resolve the moral violence of the act.
-
-v22: The elders’ reasoning focuses on avoiding liability under the oath. The women’s consent is absent from the narrative.
-
-v25: The final refrain closes the book without resolving its disorder. “Right in their own eyes” summarizes a world in which tribal loyalty, vows, worship, sexuality, and violence have become detached from coherent covenant faithfulness.
-
-## Vocabulary
+##Vocabulary
 
 v01: שָׁבַע (shava)
 “To swear.” To bind oneself by an oath.
@@ -104,17 +89,5 @@ v03: פָּקַד (paqad)
 v06: נָחַם (nacham)
 “To have compassion,” “relent,” or “be moved.” Israel is moved over Benjamin’s near destruction.
 
-v11: חָרַם (charam)
-“To devote to destruction.” Used for the command against Jabesh-Gilead.
-
 v13: קָרָא שָׁלוֹם (qara shalom)
 “To proclaim peace.” To announce restoration of peaceful relations.
-
-v15: פֶּרֶץ (perets)
-“Breach.” A rupture or gap, here within Israel’s tribal body.
-
-v21: חָטַף (chataf)
-“To seize” or “snatch away.” Used of taking the women of Shiloh.
-
-v25: יָשָׁר בְּעֵינָיו (yashar be'enav)
-“Right in their own eyes.” Judges’ concluding diagnosis of self-directed judgment.

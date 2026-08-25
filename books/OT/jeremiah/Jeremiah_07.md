@@ -16,7 +16,7 @@ v02: “Stand at the gate of the house of the LORD, and proclaim there this word
 </p>
 
 <p>
-v03: Thus says the LORD of hosts, the God of Israel: Make your ways and your deeds good, and I will let you dwell in this place.
+v03: Thus says the LORD of Hosts, the God of Israel: Make your ways and your deeds good, and I will let you dwell in this place.
 </p>
 
 <p>
@@ -88,7 +88,7 @@ v20: Therefore thus says the Lord GOD: Look, my anger and my wrath are being pou
 </p>
 
 <p>
-v21: Thus says the LORD of hosts, the God of Israel: Add your burnt offerings to your sacrifices, and eat the flesh.
+v21: Thus says the LORD of Hosts, the God of Israel: Add your burnt offerings to your sacrifices, and eat the flesh.
 </p>
 
 <p>
@@ -142,45 +142,18 @@ v33: The corpses of this people will become food for the birds of the heavens an
 <p>
 v34: I will bring to an end from the cities of Judah and from the streets of Jerusalem the sound of rejoicing and the sound of gladness, the voice of groom and the voice of bride; for the land will become a wasteland.
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-- **v4:** The threefold repetition, “The temple of the LORD,” mimics a slogan of false security. The temple is not rejected as such; the passage rejects confidence in its presence while justice and faithfulness are abandoned.
+v04: הֵיכָל (heikhal)
+“temple” or “palace.” Its threefold repetition becomes the deceptive confession against which Jeremiah speaks: the sacred building is invoked as a guarantee of protection.
 
-- **v10–11:** “We are delivered” may express a claim of safety or rescue. The following phrase exposes how that claim functions: worship is being treated as permission to continue practices that the LORD calls detestable. “Den of robbers” depicts not merely theft within the temple but a hideout to which those who commit violence retreat.
+v05: מִשְׁפָּט (mishpat)
+“justice” or “judgment.” Here it means the practice of right judgment in relations between people, not merely a legal procedure.
 
-- **v12–15:** Shiloh, an earlier sanctuary associated with Israel’s worship, stands as a warning that no holy site is immune from judgment. The mention of Ephraim recalls the prior casting away of the northern kingdom.
+v11: מְעָרַת פָּרִצִים (meʿarat paritsim)
+“den of robbers.” The phrase pictures the temple as a refuge claimed by violent offenders rather than a place shaping a faithful people.
 
-- **v16:** The command not to intercede marks the severity of the announced judgment. It does not dismiss prayer in general; within this passage it declares that persistent refusal to hear the LORD has reached a decisive point.
-
-- **v18:** The “queen of heaven” is not identified by name. The language depicts a household-wide act of worship directed toward a heavenly deity other than the LORD.
-
-- **v22–23:** Verse 22 does not necessarily deny that sacrificial commands were given. In its rhetorical contrast, the LORD places obedience to his voice before sacrificial practice and condemns sacrifice detached from covenant faithfulness.
-
-- **v29:** Jerusalem is addressed as a woman. Her “consecrated hair” may evoke a sign of dedication or honor; cutting it off and casting it away enacts grief, rejection, and the loss of consecrated status.
-
-- **v31:** The text speaks with unmistakable force against the burning of children. The LORD declares that such an act was neither commanded nor something that entered his heart.
-
-- **v32–34:** Topheth, a place associated with child sacrifice, will be renamed “the Valley of Slaughter.” The closing images of unburied bodies and silenced wedding joy portray devastation extending through public, family, and communal life.
-
-## Vocabulary
-
-- **v4: הֵיכָל (*heikhal*)** — “temple” or “palace.” Its threefold repetition becomes the deceptive confession against which Jeremiah speaks: the sacred building is invoked as a guarantee of protection.
-
-- **v5: מִשְׁפָּט (*mishpat*)** — “justice” or “judgment.” Here it means the practice of right judgment in relations between people, not merely a legal procedure.
-
-- **v6: גֵּר (*ger*)** — “resident alien.” The term names someone living among Israel without the full security of landholding and kinship; their protection is joined with that of orphans and widows.
-
-- **v8: שֶׁקֶר (*sheqer*)** — “deception” or “falsehood.” The deceptive words of verses 4 and 8 promise security while concealing the people’s moral and covenantal failure.
-
-- **v11: מְעָרַת פָּרִצִים (*meʿarat paritsim*)** — “den of robbers.” The phrase pictures the temple as a refuge claimed by violent offenders rather than a place shaping a faithful people.
-
-- **v18: מְלֶכֶת הַשָּׁמַיִם (*meleket hashamayim*)** — “queen of heaven.” The designation is left unnamed in the passage and highlights worship offered to a heavenly power other than the LORD.
-
-- **v24: שְׁרִרוּת (*sherirut*)** — “stubbornness.” It describes a settled inner resistance, here the stubbornness of an evil heart that turns the people backward rather than forward.
-
-- **v28: אֱמוּנָה (*emunah*)** — “faithfulness.” More than inward belief, it denotes reliability and steadfastness. Its loss “from their mouth” signals the disappearance of truthful, faithful speech.
-
-- **v31: תֹּפֶת (*tophet*)** — “Topheth.” A place in the Valley of Ben-hinnom associated here with the burning of children. Its name is transformed in the judgment announced in verse 32.
-
-<!-- No approved lexical decisions were supplied. -->
+v28: אֱמוּנָה (emunah)
+“faithfulness.” More than inward belief, it denotes reliability and steadfastness. Its loss “from their mouth” signals the disappearance of truthful, faithful speech.

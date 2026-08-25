@@ -209,70 +209,21 @@ v50: Great salvation he brings to his king,
 and shows steadfast love to his anointed,
 to David and his offspring forever.
 </p>
+##Notes
 
-## Notes
-v1–3: Opening cluster of metaphors—God as refuge, strength, and deliverer.
+##Vocabulary
 
-v4–6: Distress is overwhelming and total; prayer initiates the turning point.
-
-v7–15: Theophany imagery—cosmic upheaval signals divine intervention.
-
-v16–19: Rescue is personal and deliberate; rooted in divine delight.
-
-v20–24: Righteousness language reflects covenant fidelity, not perfectionism.
-
-v25–26: God’s dealings mirror human orientation.
-
-v27–30: God reverses status—humble lifted, proud brought low.
-
-v31–42: Empowerment for battle—God acts through the psalmist.
-
-v43–45: Expansion beyond survival to dominion.
-
-v46–50: Concluding praise—personal deliverance becomes public testimony.
-
-## Vocabulary
-v1: אָהַב (ahav)  
+v01: אָהַב (ahav)
 “To love.” Deep attachment.
 
-v2: צוּר (tsur)  
+v02: צוּר (tsur)
 “Rock.” Stability.
 
-v4: חֶבֶל (chevel)  
+v04: חֶבֶל (chevel)
 “Cord.” Binding force.
 
-v6: שָׁוַע (shava)  
+v06: שָׁוַע (shava)
 “To cry for help.” Plead.
 
-v7: רָעַשׁ (ra‘ash)  
-“To quake.” Shake.
-
-v10: כְּרוּב (keruv)  
-“Cherub.” Heavenly being.
-
-v16: מָשָׁה (mashah)  
-“To draw out.” Rescue.
-
-v19: רָחַב (rachav)  
-“Broad place.” Freedom.
-
-v25: חָסִיד (chasid)  
-“Merciful.” Loyal.
-
-v27: עָנָו (‘anav)  
-“Humble.” Lowly.
-
-v30: צָרַף (tsaraph)  
-“To refine.” Test.
-
-v33: אַיָּל (ayyal)  
-“Deer.” Sure-footed.
-
-v39: חָגַר (chagar)  
-“To equip.” Gird.
-
-v46: חַי (chai)  
-“Living.” Alive.
-
-v50: מָשִׁיחַ (mashiach)  
+v50: מָשִׁיחַ (mashiach)
 “Anointed.” Chosen king.

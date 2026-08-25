@@ -124,20 +124,7 @@ v42: According to all that the LORD had commanded Moses, so the children of Isra
 
 v43: Moses saw all the work, and look, they had done it; as the LORD had commanded, so they had done. And Moses blessed them.
 </p>
-
 ##Notes
-
-v01–31: The chapter fulfills the garment instructions of Exodus 28. Repetition verifies correspondence between command and completed work.
-
-v03: Gold is hammered into sheets and cut into thread, explaining how actual gold is woven into the textile ephod.
-
-v10–13: As in chapter 28, several gemstone identifications remain uncertain. Conventional names are retained for consistency.
-
-v30: The gold plate visibly marks Aaron’s consecration with the words “Holy to the LORD.”
-
-v32, v42–43: The repeated formula “as the LORD had commanded Moses” dominates the conclusion. Israel’s successful sanctuary work is measured by faithful correspondence to command.
-
-v43: Moses inspects and blesses the work only after seeing that it has been completed according to the LORD’s command.
 
 ##Vocabulary
 
@@ -150,14 +137,8 @@ v07: זִכָּרוֹן (zikkaron)
 v08: חֹשֶׁן (choshen)
 “Breastpiece.” The priestly chest garment.
 
-v22: מְעִיל (me'il)
-“Robe.” The blue garment worn with the ephod.
-
 v30: צִיץ (tsits)
 “Plate” or “frontlet.” The gold holy crown inscription.
-
-v32: כָּלָה (kalah)
-“To complete” or “finish.” The sanctuary work reaches completion.
 
 v43: בָּרַךְ (barakh)
 “To bless.” Moses blesses the people after inspecting their work.

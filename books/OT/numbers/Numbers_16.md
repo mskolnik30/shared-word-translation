@@ -102,25 +102,21 @@ v48: He stood between the dead and the living, and the plague was stopped.
 v49: Those who died by the plague were fourteen thousand seven hundred, besides those who died because of Korah.
 v50: Then Aaron returned to Moses at the entrance of the Tent of Meeting, and the plague was stopped.
 </p>
-
 ##Notes
-v03: The rebels appeal to the holiness of the whole congregation, a truth affirmed elsewhere in the Torah, but use it to challenge the particular priestly and Levitical roles assigned by the LORD.
-v13: Dathan and Abiram describe Egypt with the promise-language “a land flowing with milk and honey,” deliberately reversing the narrative of exodus and promise.
-v22: Moses and Aaron appeal to God as “God of the spirits of all flesh” and resist collective destruction for the sin of one group.
-v30: “creates a new thing” — The Hebrew verb is the ordinary verb “create,” emphasizing the unprecedented character of the earth opening to swallow the rebels.
-v32: The relationship between Korah’s household and the later survival of Korahite descendants is not explained here; later texts refer to surviving sons of Korah.
-v48: Aaron stands physically “between the dead and the living,” turning priestly incense into an act of intercession at the boundary of the plague.
 
 ##Vocabulary
+
 v03: עֵדָה (edah)
 “Congregation” or “assembly.” The gathered covenant community.
+
 v05: קָרוֹב (qarov)
 “To draw near.” Sacred approach, especially to the sanctuary.
+
 v22: רוּחֹת כָּל־בָּשָׂר (ruchot kol-basar)
-“Spirits of all flesh.” A designation emphasizing God’s authority over every living human spirit.
-v30: בָּרָא (bara)
-“To create.” Used here of the unprecedented judgment of the opening ground.
+“Spirits of all flesh.” A designation with a sense of God’s authority over every living human spirit.
+
 v33: שְׁאוֹל (Sheol)
 “Sheol.” The realm of the dead.
+
 v46: כָּפַר (kafar)
 “To make atonement.” To effect reconciliation or cleansing within the sacrificial order.

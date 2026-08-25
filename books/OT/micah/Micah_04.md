@@ -4,6 +4,7 @@ testament: OT
 chapter: 4
 translation: TSW
 ---
+
 ## The Mountain of the LORD
 <p>
 v01: It shall come to pass in the latter days
@@ -112,57 +113,18 @@ You shall crush many peoples,
 and devote their gain to the LORD,
 their wealth to the Lord of all the earth.
 </p>
+##Notes
 
-## Notes
-v1–3: The chapter opens with a vision of the future reign of God that contrasts sharply with the judgment announced in chapter 3.
-v1: The exaltation of the LORD's mountain symbolizes the supremacy of God's kingdom among the nations.
-v2: The nations come willingly to receive God's instruction rather than resisting his rule.
-v3: Peace is established through God's righteous judgment rather than through human power.
-v3: The transformation of weapons into agricultural tools symbolizes the end of warfare.
-v4: The vine and fig tree represent security, prosperity, and covenant blessing.
-v5: Israel's commitment to walk in the LORD's name contrasts with the devotion of other nations to their gods.
-v6–7: God gathers the weak, afflicted, and scattered rather than the powerful and self-sufficient.
-v7: The remnant theme remains central to Micah's message of hope.
-v8: The promise points toward the restoration of royal rule in Zion.
-v9–10: Jerusalem will experience suffering and exile before restoration arrives.
-v10: Babylon is mentioned long before Judah's eventual exile there, highlighting the prophetic nature of the passage.
-v10: The place of exile will also become the place from which God delivers his people.
-v11–12: The nations misunderstand God's purposes and become instruments within his larger plan.
-v13: Zion's victory comes through God's empowerment rather than its own strength.
+##Vocabulary
 
-## Vocabulary
-v1: אַחֲרִית הַיָּמִים (ʾaḥărîṯ hayyāmîm)
-“Latter days.” The future period in which God's purposes reach fulfillment.
-
-v2: תּוֹרָה (tôrâ)
+v02: תּוֹרָה (tôrâ)
 “Instruction.” God's teaching that directs life and covenant faithfulness.
 
-v3: שָׁפַט (šāphaṭ)
+v03: שָׁפַט (šāphaṭ)
 “To judge.” To govern and render righteous decisions.
 
-v3: אִתִּים (ʾittîm)
-“Plowshares.” Agricultural tools used for cultivating fields.
-
-v4: גֶּפֶן (gephen)
+v04: גֶּפֶן (gephen)
 “Vine.” A symbol of prosperity and settled peace.
-
-v6: קָבַץ (qāḇaṣ)
-“To gather.” To assemble those who have been scattered.
-
-v7: שְׁאֵרִית (šĕʾērîṯ)
-“Remnant.” The portion preserved by God through judgment.
-
-v8: מִגְדַּל־עֵדֶר (migdal-ʿēḏer)
-“Tower of the flock.” A pastoral image associated with watchfulness and protection.
 
 v10: גָּאַל (gāʾal)
 “To redeem.” To rescue, reclaim, or deliver.
-
-v12: עֵצָה (ʿēṣâ)
-“Plan” or “counsel.” The purposeful design and intention of God.
-
-v13: דּוּשׁ (dûš)
-“To thresh.” To separate grain from chaff, here used as an image of judgment.
-
-v13: חֵרֶם (ḥērem)
-“To devote.” To set apart completely for God, often in the context of judgment.

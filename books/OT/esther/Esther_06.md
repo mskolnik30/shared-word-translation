@@ -52,26 +52,7 @@ v13: Haman recounted to Zeresh his wife and all his friends everything that had 
 
 v14: While they were still speaking with him, the king’s eunuchs arrived and hurried to bring Haman to the feast that Esther had prepared.
 </p>
-
 ##Notes
-
-v01: The king’s insomnia becomes the hinge of the story. The Hebrew book does not explicitly name God as causing it, and TSW preserves that narrative restraint.
-
-v01: “book of memorable deeds, the chronicles” combines two descriptions of the royal record. The same written memory that seemed forgotten in chapter 2 now becomes decisive.
-
-v03: Mordecai’s unrewarded loyalty exposes an administrative omission within the empire’s elaborate honor system.
-
-v04: Haman enters to request Mordecai’s death at the exact moment the king seeks to honor Mordecai. The narrative reversal depends upon timing rather than a narrated miracle.
-
-v06: Haman interprets the king’s question through his own self-importance and therefore designs an honor ceremony he expects to receive.
-
-v08: The royal crown may grammatically belong to the horse’s head, an unusual but possible Persian court image. TSW follows the Hebrew syntax rather than shifting the crown to the honored man.
-
-v10: “Do not let a word fall” means omit nothing. Haman must carry out his own proposal completely.
-
-v12: Mordecai simply returns to his normal position at the gate, while Haman experiences the event as public shame.
-
-v13: Haman’s advisers now read his conflict with Mordecai through Mordecai’s Judean identity and predict irreversible reversal.
 
 ##Vocabulary
 
@@ -86,15 +67,3 @@ v03: יְקָר (yeqar)
 
 v06: חָפֵץ (chafets)
 “To delight in.” The king’s pleasure in honoring someone.
-
-v08: לְבוּשׁ מַלְכוּת (levush malkhut)
-“Royal garments.” Clothing previously worn by the king.
-
-v09: פַּרְתְּמִים (partemim)
-“Nobles.” High-ranking Persian officials.
-
-v12: אָבֵל (avel)
-“Mourning.” Haman returns home in the posture of one who has suffered loss.
-
-v13: נָפַל (nafal)
-“To fall.” Repeated to describe Haman’s beginning and expected completion of downfall.

@@ -8,7 +8,6 @@ translation: TSW
 ## The Throne in Heaven
 
 <p>
-
 v01: After this I looked, and behold, a door standing open in heaven. And the first voice, which I had heard speaking to me like a trumpet, said, “Come up here, and I will show you what must take place after these things.”
 
 v02: At once I was in the Spirit, and behold, a throne stood in heaven, with one seated on the throne.
@@ -42,67 +41,19 @@ to receive glory and honor and power,
 for you created all things,
 
 and by your will they existed and were created.”
-
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v1: The open door signals access granted rather than achieved; transition is initiated from above.
-
-v2: “In the Spirit” again marks the mode of perception without explanation.
-
-v2–3: The one on the throne is described only in appearance, not identity, preserving distance.
-
-v4: The twenty-four elders are presented symbolically without identification.
-
-v5: Storm imagery (lightning, thunder) evokes divine presence without direct citation.
-
-v5: “Seven spirits” is retained without clarification, maintaining symbolic tension.
-
-v6: The “sea of glass” suggests stability rather than chaos, reversing common imagery.
-
-v7–8: The living creatures combine multiple forms, resisting singular interpretation.
-
-v8: Repetition (“holy, holy, holy”) intensifies rather than explains.
-
-v9–11: Worship is responsive and continuous; action and speech are intertwined.
-
-v11: Creation is attributed to divine will without philosophical expansion.
-
-## Vocabulary
-
-v1: θύρα (thyra)
-
+v01: θύρα (thyra)
 “Door.” Access point granted, not forced.
 
-v2: θρόνος (thronos)
-
+v02: θρόνος (thronos)
 “Throne.” Central symbol of authority and rule.
 
-v3: ἴασπις (iaspis)
-
+v03: ἴασπις (iaspis)
 “Jasper.” A precious stone; exact identification remains uncertain.
 
-v4: πρεσβύτεροι (presbyteroi)
-
-“Elders.” Figures of authority or representation, not defined.
-
-v5: λαμπάς (lampas)
-
-“Torch.” A burning light, distinct from a stationary lamp.
-
-v6: θάλασσα (thalassa)
-
-“Sea.” Here rendered stable, not turbulent.
-
-v7: ζῷον (zōon)
-
-“Living creature.” Emphasizes vitality rather than classification.
-
-v8: ἅγιος (hagios)
-
+v08: ἅγιος (hagios)
 “Holy.” Set apart; intensified through repetition.
-
-v11: θέλημα (thelēma)
-
-“Will.” Intention or purpose as the basis of creation.

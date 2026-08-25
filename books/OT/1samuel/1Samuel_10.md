@@ -88,24 +88,9 @@ v26: Saul also went to his house at Gibeah, and with him went the valiant men wh
 
 v27: But worthless men said, “How can this one save us?” They despised him and did not bring him a gift. But he was as one who kept silent.
 </p>
-
 ##Notes
 
-v01: Saul is anointed privately as “ruler” over the LORD’s inheritance before the public selection at Mizpah.
-
-v06, v09: The Spirit’s coming and the changed heart equip Saul for his new role, though later chapters show that empowerment does not remove the need for obedience.
-
-v08: The seven-day instruction at Gilgal becomes important in chapter 13.
-
-v11–12: “Is Saul also among the prophets?” begins as astonishment at unexpected prophetic behavior and later reappears in a darker setting in chapter 19.
-
-v19: Samuel repeats the theological critique of monarchy even at the ceremony that publicly selects the king.
-
-v22: Saul’s hiding among the baggage contrasts his imposing appearance with reluctance or fear.
-
-v25: “Judgment of the kingship” likely refers to the proper terms or obligations of kingship, not merely the abuses warned about in chapter 8.
-
-v27: The final phrase is difficult and can mean Saul kept silent, was as one deaf, or ignored the insult. TSW preserves the restraint sense.
+v27: The final phrase is difficult and can mean Saul kept silent, was as one deaf, or ignored the insult.
 
 ##Vocabulary
 
@@ -120,18 +105,3 @@ v06: צָלַח רוּחַ (tsalach ruach)
 
 v09: הָפַךְ לֵב (hafakh lev)
 “To change the heart.”
-
-v12: מָשָׁל (mashal)
-“Proverb.”
-
-v19: מָאַס (ma'as)
-“To reject.”
-
-v20: לָכַד (lakhad)
-“To be taken.” Used in selection by lot.
-
-v25: מִשְׁפַּט הַמְּלוּכָה (mishpat ha-melukhah)
-“Judgment/order of the kingship.”
-
-v27: בְּלִיַּעַל (beliyya'al)
-“Worthless” or lawless.

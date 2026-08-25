@@ -70,24 +70,11 @@ v24: Gideon sent messengers throughout the hill country of Ephraim, saying, “C
 
 v25: They captured the two princes of Midian, Oreb and Zeeb. They killed Oreb at the rock of Oreb and killed Zeeb at the winepress of Zeeb. They pursued Midian and brought the heads of Oreb and Zeeb to Gideon beyond the Jordan.
 </p>
-
-## Notes
-
-v02: The army is deliberately reduced so that Israel cannot interpret victory as proof of its own military strength.
+##Notes
 
 v03: “Mount Gilead” — The geographical name is unexpected in this setting west of the Jordan and may preserve a textual or local designation whose precise identification is uncertain.
 
-v05–07: The text does not explain why one manner of drinking is preferable. The selection functions primarily to reduce the army to the number chosen by the LORD.
-
-v13: Barley was associated with ordinary or poorer food. The small loaf overturning a tent creates an intentionally disproportionate image of Gideon’s weak force defeating Midian.
-
-v15: Gideon’s response to the enemy’s dream is worship. Assurance comes through overhearing fear already present within Midian’s camp.
-
-v20: The shout places the LORD first while also naming Gideon. The narrative will later expose tensions around Gideon’s growing status.
-
-v22: The decisive military action is attributed to the LORD, who turns Midian’s swords against one another.
-
-## Vocabulary
+##Vocabulary
 
 v01: חֲרֹד (Harod)
 “Harod,” related to trembling or fear. The spring’s name resonates with the fearful soldiers who depart.
@@ -100,12 +87,3 @@ v04: צָרַף (tsaraf)
 
 v13: צְלוּל (tselul)
 “Round loaf” or “cake.” A rare word used of the barley bread in the dream.
-
-v16: כַּד (kad)
-“Jar.” An earthen vessel used to conceal the torch.
-
-v16: לַפִּיד (lapid)
-“Torch.” A burning light revealed when the jars are broken.
-
-v22: חֶרֶב (cherev)
-“Sword.” The enemy’s own swords become instruments of their defeat.

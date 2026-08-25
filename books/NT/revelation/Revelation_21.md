@@ -5,11 +5,9 @@ chapter: 21
 translation: TSW
 ---
 
-
 ## A New Heaven and a New Earth
 
 <p>
-
 v01: Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more.
 
 v02: And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.
@@ -25,13 +23,11 @@ v06: And he said to me, “It is done! I am the Alpha and the Omega, the beginni
 v07: The one who conquers will inherit these things, and I will be his God and he will be my son.
 
 v08: But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death.”
-
 </p>
 
 ## The New Jerusalem
 
 <p>
-
 v09: Then came one of the seven angels who had the seven bowls full of the seven last plagues and spoke to me, saying, “Come, I will show you the bride, the wife of the Lamb.”
 
 v10: And he carried me away in the Spirit to a great, high mountain, and showed me the holy city Jerusalem coming down out of heaven from God,
@@ -69,91 +65,19 @@ v25: and its gates will never be shut by day—and there will be no night there.
 v26: They will bring into it the glory and the honor of the nations.
 
 v27: But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb’s book of life.
-
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v1: The new creation replaces the former; continuity is not explained.
-
-v1: The absence of the sea signals removal of prior instability.
-
-v2: The city is described relationally (“as a bride”), not structurally alone.
-
-v3: Dwelling is mutual; presence defines relationship.
-
-v4: Suffering is removed through negation rather than transformation described.
-
-v5: Renewal is declared ongoing (“making”), not only completed.
-
-v6: “It is done” parallels earlier declarations without repetition of context.
-
-v6: Gift is given without cost; qualification is not specified.
-
-v7: Relationship is expressed in covenantal terms.
-
-v8: Exclusion is listed without gradation; outcome is shared.
-
-v9–10: The bride and city are identified without separation.
-
-v11: Radiance is described comparatively, not defined.
-
-v12–14: Twelve-fold structure integrates multiple traditions.
-
-v15–17: Measurement signifies order; scale exceeds ordinary experience.
-
-v18–21: Materials are described cumulatively without interpretation.
-
-v22: Absence of temple is explained through presence.
-
-v23: Light is internal, not external.
-
-v24–26: Nations remain but are reoriented.
-
-v27: Entry is restricted by identity, not access alone.
-
-## Vocabulary
-
-v1: καινός (kainos)
-
+v01: καινός (kainos)
 “New.” New in kind, not merely in time.
 
-v2: πόλις (polis)
-
+v02: πόλις (polis)
 “City.” Organized dwelling and center of life.
 
-v3: σκηνή (skēnē)
-
+v03: σκηνή (skēnē)
 “Dwelling.” Place of presence.
 
-v4: δάκρυον (dakryon)
-
+v04: δάκρυον (dakryon)
 “Tear.” Expression of suffering, removed here.
-
-v6: πηγή (pēgē)
-
-“Spring.” Source of water.
-
-v7: κληρονομέω (klēronomeō)
-
-“To inherit.” To receive as possession.
-
-v8: λίμνη τοῦ πυρός (limnē tou pyros)
-
-“Lake of fire.” Final place of judgment.
-
-v16: στάδιον (stadion)
-
-“Measure of distance.” Used to express scale.
-
-v18: ὑάλος (hyalos)
-
-“Glass.” Transparent material.
-
-v22: ναός (naos)
-
-“Temple.” Central place of worship.
-
-v27: βιβλίον τῆς ζωῆς (biblion tēs zōēs)
-
-“Book of life.” Record of belonging.

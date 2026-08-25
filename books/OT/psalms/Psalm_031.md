@@ -7,6 +7,7 @@ translation: TSW
 
 ## For the Director of Music. A Psalm of David.
 
+<p>
 v01: In you, O LORD, I take refuge;
   let me never be put to shame.
   In your righteousness deliver me.
@@ -100,109 +101,19 @@ v23: Love the LORD, all you his faithful ones!
 
 v24: Be strong, and let your heart take courage,
   all you who wait for the LORD.
+</p>
+##Notes
 
+##Vocabulary
 
-## Notes
-v1: “take refuge… in your righteousness deliver me” — The psalm grounds rescue in God’s rightness, not the psalmist’s deserving; shame is answered by God’s faithful action.
+v01: צֶדֶק (tsedeq)
+“Righteousness; justice; rightness.”
 
-v2–3: “rock… fortress… for your name’s sake” — Protection is personal and covenantal; God’s reputation (“name”) is tied to God’s saving care.
+v05: רוּחַ (ruaḥ)
+“Spirit; breath; life-wind.”
 
-v4: “net… hidden” — Threat is portrayed as covert and manipulative; deliverance includes being pulled out of traps you cannot see.
+v05: פָּדָה (padah)
+“To redeem; to ransom.”
 
-v5: “Into your hand I commit my spirit” — The decisive act is entrustment. The line is both surrender and confidence, rooted in God as “faithful.”
-
-v6: “worthless idols… I trust” — Trust is exclusive allegiance: refusing false supports is part of refuge in the LORD.
-
-v7–8: “you have seen… known… broad place” — God’s salvation includes attention: seen affliction, known distress, and then widened space to stand and breathe.
-
-v9–10: “eye wastes away… bones waste away” — Suffering is bodily; grief depletes strength and time. The psalm gives language to somatic sorrow.
-
-v11–13: “reproach… dread… whispering… terror” — Social isolation and reputational collapse intensify the crisis; the enemy’s strategy is fear and rumor.
-
-v14: “But I trust… You are my God” — The turning point is not circumstances changing but allegiance clarified in the middle of threat.
-
-v15: “My times are in your hand” — Time itself is entrusted to God: seasons, outcomes, and duration are placed under divine care.
-
-v16: “Make your face shine” — Priestly blessing language becomes personal plea: salvation is experienced as God’s favorable presence.
-
-v17–18: shame and “lying lips” — The psalm seeks moral reversal: not mere vindictiveness, but that truth would silence slander.
-
-v19–20: “goodness stored up… shelter of your presence” — God’s goodness is pictured as kept-in-reserve and actively deployed; protection is intimacy—hidden “in” God, not just shielded “by” God.
-
-v21–22: “besieged city… I said in my alarm… nevertheless” — Faith includes panic speech; the psalm honors the realism of fear while insisting God heard anyway.
-
-v23: “preserves… repays the proud” — Covenant ethics: God guards the faithful and confronts arrogance; pride is not stable ground.
-
-v24: “Be strong… heart take courage… wait” — The ending shifts to communal exhortation: waiting is active courage, sustained hope under pressure.
-
-
-## Vocabulary
-v1: חָסָה (chasah) — to take refuge
-
-v1: בּוֹשׁ (bosh) — to be put to shame; to be disgraced
-
-v1: צֶדֶק (tsedeq) — righteousness; justice; rightness
-
-v2: נָטָה (natah) — to incline; to bend toward
-
-v2: צוּר (tsur) — rock
-
-v2: מָצוּדָה (matsudah) — stronghold; fortress
-
-v3: שֵׁם (shem) — name
-
-v4: רֶשֶׁת (reshet) — net
-
-v5: רוּחַ (ruaḥ) — spirit; breath; life-wind
-
-v5: פָּדָה (padah) — to redeem; to ransom
-
-v6: הֶבֶל (hevel) — vapor; vanity; worthless thing
-
-v7: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
-
-v7: עֳנִי (ʿoni) — affliction; misery
-
-v7: צָרָה (tsarah) — distress; trouble
-
-v8: מֶרְחָב (merchav) — broad place; spaciousness
-
-v9: חָנַן (ḥanan) — to be gracious; to show favor
-
-v10: יָגֹון (yagon) — sorrow; grief
-
-v10: אֲנָחָה (’anakhah) — groaning; sighing
-
-v11: חֶרְפָּה (ḥerpah) — reproach; insult; disgrace
-
-v12: כְּלִי (keli) — vessel; utensil
-
-v12: שָׁבַר (shavar) — to break
-
-v13: סָבִיב (saviv) — around; on every side
-
-v13: מָגוֹר (magor) — terror; dread
-
-v14: בָּטַח (bataḥ) — to trust; to rely on
-
-v15: עֵת (ʿet) — time; season
-
-v16: אוֹר (’or) — to shine; light
-
-v17: שְׁאוֹל (she’ol) — Sheol; the grave; realm of the dead
-
-v18: כָּזָב (kazav) — lie; falsehood
-
-v19: טוּב (tuv) — goodness
-
-v20: סֵתֶר (seter) — shelter; hiding place
-
-v20: רִיב (riv) — strife; dispute; accusation
-
-v22: חָפַז (ḥafaz) — to be alarmed; to panic; to hurry in fear
-
-v23: חָסִיד (ḥasid) — faithful one; loyal one
-
-v24: קָוָה (qavah) — to wait for; to hope in
-
-
+v07: חֶסֶד (ḥesed)
+“Steadfast love; covenant loyalty.”

@@ -150,26 +150,13 @@ v51: Kish was Saul’s father, and Ner father of Abner was son of Abiel.
 
 v52: The war against the Philistines was severe all the days of Saul. Whenever Saul saw any mighty man or any valiant man, he gathered him to himself.
 </p>
-
 ##Notes
 
-v06: Jonathan’s confidence is not in numbers but in the LORD’s freedom to save “by many or by few.”
+v18: The Masoretic Text reads “ark of God,” while the Greek tradition reads “ephod,” which fits priestly inquiry and verse 19.
 
-v15: “A trembling from God” can mean an extraordinarily great panic or a panic directly caused by God; the narrative supports both senses.
+v41: The Masoretic Text is unusually short. The Greek preserves a longer prayer asking for Urim/Thummim discernment between Saul, Jonathan, and the people.
 
-v18: The Masoretic Text reads “ark of God,” while the Greek tradition reads “ephod,” which fits priestly inquiry and verse 19. TSW follows the Masoretic Text and records the significant variant.
-
-v24: Saul’s oath is directed toward “my enemies,” making the king’s personal vengeance the measure imposed upon the exhausted army.
-
-v27: Jonathan violates the oath unknowingly and immediately gains strength, exposing the oath’s harmful effect.
-
-v32–35: Saul’s restriction contributes to desperate eating with blood, yet he correctly intervenes to stop a Torah violation.
-
-v41: The Masoretic Text is unusually short. The Greek preserves a longer prayer asking for Urim/Thummim discernment between Saul, Jonathan, and the people. TSW follows the Masoretic verse while noting the textual lacuna.
-
-v45: The people “ransom” Jonathan from Saul’s vow, judging that the man through whom God brought salvation must not die.
-
-v47: The Hebrew verb describing Saul’s action wherever he turned is difficult. It can mean defeat, punish, or act wickedly. TSW uses “inflicted punishment” in the military context.
+v47: The Hebrew verb describing Saul’s action wherever he turned is difficult. It can mean defeat, punish, or act wickedly.
 
 ##Vocabulary
 
@@ -179,26 +166,11 @@ v06: יָשַׁע (yasha)
 v07: לֵב (lev)
 “Heart.” The armor-bearer aligns himself with Jonathan’s resolve.
 
-v15: חֲרָדָה (charadah)
-“Trembling” or terror.
-
-v19: הָמֹון (hamon)
-“Tumult” or noisy multitude.
-
 v24: אָלָה (alah)
 “Oath” or curse.
 
 v27: יָאֹר עֵינַיִם (ya'or einayim)
 “Eyes became bright.” An idiom of renewed strength.
 
-v33: מָעַל (ma'al)
-“To act unfaithfully.”
-
-v41: תָּמִים (tamim)
-“Perfect” or complete. Used in the request for a decisive lot.
-
 v45: פָּדָה (padah)
 “To ransom” or redeem.
-
-v52: אִישׁ חַיִל (ish chayil)
-“Valiant man.”

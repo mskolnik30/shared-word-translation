@@ -42,61 +42,18 @@ v09: to execute on them the judgment written.
 This is honor for all his faithful ones.
 Praise the LORD!
 </p>
+##Notes
 
-## Notes
-v1: “New song” signals renewed recognition of God’s action.
+##Vocabulary
 
-v2–3: Worship is embodied—joy expressed through movement and music.
-
-v4: Divine pleasure is directed toward the humble, not the powerful.
-
-v5: Joy extends into private space (“on their beds”), not only public worship.
-
-v6–9: Tension between praise and violence—faithful participation in divine judgment.
-
-v9: “Judgment written” suggests alignment with divine decree, not autonomous action.
-
-Overall: The psalm holds together celebration, identity, and participation in God’s justice.
-
-## Vocabulary
-v1: הָלַל (halal)  
+v01: הָלַל (halal)
 “To praise.” Celebrate.
 
-v1: שִׁיר (shir)  
+v01: שִׁיר (shir)
 “To sing.” Express in song.
 
-v2: עָשָׂה (asah)  
-“To make.” Create.
-
-v2: מֶלֶךְ (melekh)  
-“King.” Ruler.
-
-v3: מָחוֹל (machol)  
-“Dance.” Rhythmic movement.
-
-v3: תֹּף (toph)  
-“Tambourine.” Percussion instrument.
-
-v4: רָצָה (ratsah)  
-“To take pleasure.” Delight.
-
-v4: עָנָו (‘anav)  
-“Humble.” Lowly.
-
-v4: יְשׁוּעָה (yeshuah)  
+v04: יְשׁוּעָה (yeshuah)
 “Salvation.” Deliverance.
 
-v6: רוֹמְמוֹת (romemot)  
-“High praises.” Exalted praise.
-
-v6: חֶרֶב (cherev)  
-“Sword.” Weapon.
-
-v7: נָקָם (naqam)  
-“Vengeance.” Retribution.
-
-v8: אֲסוּרִים (asurim)  
-“Chains.” Bonds.
-
-v9: מִשְׁפָּט (mishpat)  
+v09: מִשְׁפָּט (mishpat)
 “Judgment.” Justice or decree.

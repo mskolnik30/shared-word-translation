@@ -86,26 +86,9 @@ v28: But command Joshua, strengthen him and make him courageous, for he shall cr
 
 v29: So we remained in the valley opposite Beth-Peor.
 </p>
-
 ##Notes
 
-v01–07: The defeat of Og parallels the defeat of Sihon and is again attributed to the LORD’s giving of the king and land into Israel’s hand.
-
-v06: The comprehensive *herem* language is preserved directly. As elsewhere, the ancient conquest account should not be generalized into a modern mandate for religious violence.
-
-v09: Hermon’s multiple names preserve the region’s multilingual geography.
-
-v11: The Hebrew term rendered “bed” can mean a bedstead or perhaps a sarcophagus. “Iron” may describe the material or a dark stone associated with iron-like color; TSW follows the traditional reading.
-
-v14: “Havvoth-Jair” means “villages of Jair.” The naming links conquest and settlement with personal and clan memory.
-
-v18–20: Reuben, Gad, and half-Manasseh receive land before the western conquest but remain obligated to fight alongside the other tribes.
-
-v22: Moses’ encouragement of Joshua centers on the LORD’s active fighting rather than Joshua’s personal military strength.
-
-v23–27: Moses’ unanswered plea is one of Deuteronomy’s recurring reminders that even Moses does not stand above divine judgment.
-
-v26: “because of you” again emphasizes the communal context of Moses’ exclusion, while other Torah traditions also name Moses’ own failure.
+v11: The Hebrew term rendered “bed” can mean a bedstead or perhaps a sarcophagus.
 
 ##Vocabulary
 
@@ -120,15 +103,3 @@ v11: עֶרֶשׂ (eres)
 
 v13: חֲצִי שֵׁבֶט (chatsi shevet)
 “Half-tribe.” Half of Manasseh receives territory east of the Jordan.
-
-v20: נוּחַ (nuach)
-“To give rest.” Settled security in the land.
-
-v22: לָחַם (lacham)
-“To fight.” The LORD fights for Israel.
-
-v23: חָנַן (chanan)
-“To plead for favor.” Moses asks the LORD for permission to cross.
-
-v28: חָזַק (chazaq)
-“To strengthen.” Joshua must be strengthened for leadership.

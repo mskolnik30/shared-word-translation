@@ -96,57 +96,18 @@ v31: You shall not do so to the LORD your God, for every detestable thing that t
 
 v32: Everything that I command you, you shall be careful to do. You shall not add to it or take away from it.
 </p>
-
 ##Notes
-
-v02–03: The destruction of Canaanite cult sites is directed against rival worship in the land, including altars, pillars, Asherah poles, and images.
-
-v05: “the place that the LORD will choose” is deliberately unnamed in Deuteronomy’s legislation. Later biblical history identifies Jerusalem as the central sanctuary, but TSW does not insert that later name here.
-
-v08: “whatever is right in his own eyes” here describes decentralized wilderness practice before settlement and sanctuary centralization; the phrase later becomes a negative refrain in Judges.
-
-v12, v18: Worship meals include sons, daughters, servants, and Levites. Sacred celebration is household and communal rather than restricted to elite males.
-
-v15: Ordinary meat slaughter is distinguished from sacrificial slaughter. The clean and unclean may both eat non-sacrificial meat.
-
-v16, v23: The blood prohibition is grounded in the claim that blood is the life. Life is returned to the ground rather than consumed.
-
-v19: Centralized worship could economically disadvantage Levites living throughout the towns, so the command repeatedly protects them.
-
-v20–22: Meat may be eaten locally when the chosen sanctuary is far away. Deuteronomy’s centralization concerns sacrifice, not all slaughter.
-
-v31: Child sacrifice is named as a detestable practice that must not be imitated in worship of the LORD.
-
-v32: The chapter closes by repeating the prohibition against adding to or subtracting from the command.
 
 ##Vocabulary
 
 v02: אָבַד (avad)
 “To destroy.” Used of eliminating rival cult sites.
 
-v03: אֲשֵׁרָה (Asherah)
-“Asherah pole.” A cultic object associated with the goddess Asherah.
-
-v05: שָׁכַן שְׁמוֹ (shakhan shemo)
-“To make his name dwell.” Deuteronomy’s language for the chosen sanctuary.
-
-v06: מַעֲשֵׂר (ma'aser)
-“Tithe.” A tenth portion dedicated in worship.
-
 v06: נֶדֶר (neder)
 “Vow offering.” An offering connected with a solemn vow.
 
 v08: יָשָׁר בְּעֵינָיו (yashar be-enav)
 “Right in his own eyes.” Personal judgment outside centralized covenant order.
-
-v15: אַוַּת נֶפֶשׁ (avvat nefesh)
-“Desire of your life.” Strong appetite or desire.
-
-v16: דָּם (dam)
-“Blood.” Forbidden as food because life is in it.
-
-v23: נֶפֶשׁ (nefesh)
-“Life.” The living life associated with blood.
 
 v31: תּוֹעֵבָה (toevah)
 “Detestable thing.” A practice abhorrent in covenant worship.

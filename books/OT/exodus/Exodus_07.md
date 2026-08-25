@@ -104,38 +104,8 @@ v24: All the Egyptians dug around the Nile for water to drink, because they coul
 <p>
 v25: Seven days were completed after the LORD struck the Nile.
 </p>
+##Notes
 
-<p>
-v26: Then the LORD said to Moses, “Go in to Pharaoh and say to him, ‘Thus says the LORD: Send my people away, that they may serve me.
-</p>
+v25: The Hebrew chapter division continues the announcement of the frogs as 7:26–29; common English versification places that material at 8:1–4.
 
-<p>
-v27: But if you refuse to send them away, look, I am striking all your territory with frogs.
-</p>
-
-<p>
-v28: The Nile will swarm with frogs, and they will come up and enter your house, your bedroom, and upon your bed; into the houses of your servants and among your people; into your ovens and your kneading bowls.
-</p>
-
-<p>
-v29: The frogs will come up upon you, upon your people, and upon all your servants.’”
-</p>
-
-## Notes
-
-- **7:1 — “I have made you God to Pharaoh”:** Moses is not identified as a god by nature. The language describes his divinely given authority before Pharaoh, while Aaron functions as his *prophet*—his spokesperson.
-- **7:3 — “I will harden Pharaoh’s heart”:** The chapter holds together God’s declared action and Pharaoh’s repeated refusal. It does not pause to explain how divine purpose and Pharaoh’s responsibility relate.
-- **7:10, 12 — “great serpent”:** The word here is *tannin*, a term that can refer to a large serpent or a fearsome reptilian creature. Verse 15 uses a different word, *nachash*, more specifically “snake.”
-- **7:19 — “in the wood and in the stone”:** The phrase may refer to water held in wooden and stone containers, though the terse wording leaves the objects unstated.
-- **7:25–29:** In the Hebrew verse numbering, the announcement of the frogs begins at 7:26. Many English editions number these verses as Exodus 8:1–4.
-
-## Vocabulary
-
-- **7:1 אֱלֹהִים (*ʾelohim*):** Here “God” describes the authority granted to Moses in his confrontation with Pharaoh; Aaron mediates Moses’ words as a prophet.
-- **7:3 קָשָׁה (*qashah*):** “Harden” carries the sense of making resistant or unyielding. It introduces the chapter’s ongoing portrayal of Pharaoh’s heart.
-- **7:3 אוֹת (*ʾot*) / מוֹפֵת (*mophet*):** “Signs” and “wonders” name the acts through which the LORD makes himself known in Egypt.
-- **7:4 צָבָא (*tsavaʾ*):** Rendered “companies,” this term can describe an organized host or army. Israel is called the LORD’s people and his companies as they are brought out of Egypt.
-- **7:10 תַּנִּין (*tannin*):** A “great serpent” or fearsome reptilian creature. Its use distinguishes Aaron’s sign from the more ordinary “snake” named in verse 15.
-- **7:14 כָּבֵד (*kaved*):** “Heavy” describes Pharaoh’s heart as burdened, unresponsive, and refusing to release the people.
-- **7:17 יָד (*yad*):** “Hand” is an image of active power. The LORD’s hand is stretched out against Egypt, while Moses and Aaron act with the staff in obedience to him.
-- **7:19 מִקְוֶה (*miqveh*):** A “collection” or gathering of water. The term broadens the judgment from the Nile itself to every gathered water source in Egypt.
+##Vocabulary

@@ -4,6 +4,7 @@ testament: OT
 chapter: 4
 translation: TSW
 ---
+
 ## Boaz Redeems Ruth
 <p>
 v01: Now Boaz had gone up to the gate and sat down there. And behold, the redeemer of whom Boaz had spoken passed by. So Boaz said, “Turn aside, friend. Sit down here.” And he turned aside and sat down.
@@ -50,58 +51,18 @@ v20: Amminadab fathered Nahshon, Nahshon fathered Salmon,
 v21: Salmon fathered Boaz, Boaz fathered Obed,
 v22: Obed fathered Jesse, and Jesse fathered David.
 </p>
+##Notes
 
-## Notes
-v1–6: Boaz conducts the redemption publicly and according to established legal custom.
-v5: Redemption involves both the land and the preservation of the deceased family's name through marriage.
-v6: The nearer redeemer declines because fulfilling the obligation could affect his own inheritance.
-v7–8: The sandal exchange serves as a formal legal confirmation of the transaction.
-v9–10: Boaz publicly declares his intentions before witnesses, emphasizing transparency and covenant responsibility.
-v11–12: The blessing connects Ruth to the matriarchs Rachel and Leah and to the story of Tamar, another woman through whom God preserved a family line.
-v13: Ruth's conception is explicitly attributed to the LORD's blessing.
-v14–15: The women identify the child as God's answer to Naomi's emptiness and loss.
-v15: Ruth is praised as better than seven sons, an extraordinary statement in the cultural setting of the book.
-v16–17: Naomi, who began the story in bitterness and bereavement, ends it holding a grandson and surrounded by blessing.
-v17: Obed becomes the grandfather of David, revealing the larger significance of the story.
-v18–22: The genealogy places Ruth and Boaz within the line that leads to Israel's royal house.
-v22: The book concludes by directing attention toward David, whose future kingdom will shape Israel's history.
+##Vocabulary
 
-## Vocabulary
-v1: שַׁעַר (šaʿar)
+v01: שַׁעַר (šaʿar)
 “Gate.” The public place where legal and civic matters were conducted.
 
-v3: גָּאַל (gāʾal)
+v03: גָּאַל (gāʾal)
 “To redeem.” To reclaim property, protect family interests, or restore what has been lost.
 
-v4: גְּאֻלָּה (gĕʾullâ)
+v04: גְּאֻלָּה (gĕʾullâ)
 “Redemption.” The legal right and responsibility of a family redeemer.
 
-v6: נַחֲלָה (naḥălâ)
-“Inheritance.” Property or family possession passed through generations.
-
-v7: נַעַל (naʿal)
-“Sandal.” Removed as a symbolic act confirming a legal transaction.
-
-v9: עֵד (ʿēḏ)
+v09: עֵד (ʿēḏ)
 “Witness.” One who testifies to the validity of an agreement.
-
-v10: שֵׁם (šēm)
-“Name.” More than an identifier; it signifies family continuity, memory, and legacy.
-
-v11: בָּנָה (bānâ)
-“To build.” Used figuratively of establishing a household or family line.
-
-v13: הָרָה (hārâ)
-“To conceive.” To become pregnant.
-
-v15: שׁוּב נֶפֶשׁ (šûḇ nepeš)
-“To restore life.” To revive, refresh, or renew vitality.
-
-v17: עוֹבֵד (ʿÔḇēḏ)
-“Obed.” Meaning “servant” or “one who serves.”
-
-v18: תּוֹלְדוֹת (tôlĕdôt)
-“Generations.” A genealogical record linking people across time.
-
-v22: דָּוִד (Dāwiḏ)
-“David.” The future king whose lineage concludes the book and gives it enduring significance.

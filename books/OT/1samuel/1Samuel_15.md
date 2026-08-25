@@ -70,18 +70,18 @@ v21: But the people took from the spoil sheep and cattle, the best of what was d
 
 v22: Samuel said:
 
-“Does the LORD delight  
-in burnt offerings and sacrifices  
-as in listening  
+“Does the LORD delight
+in burnt offerings and sacrifices
+as in listening
 to the voice of the LORD?
 
-Look, to listen is better than sacrifice,  
-to pay attention  
+Look, to listen is better than sacrifice,
+to pay attention
 than the fat of rams.
 
-v23: For rebellion is like the sin of divination,  
-and presumption like wickedness and idols.  
-Because you rejected the word of the LORD,  
+v23: For rebellion is like the sin of divination,
+and presumption like wickedness and idols.
+Because you rejected the word of the LORD,
 he has rejected you from being king.”
 </p>
 
@@ -128,28 +128,7 @@ v34: Then Samuel went to Ramah, and Saul went up to his house at Gibeah of Saul.
 
 v35: Samuel did not see Saul again until the day of his death, but Samuel mourned for Saul. And the LORD regretted that he had made Saul king over Israel.
 </p>
-
 ##Notes
-
-v02–03: The command against Amalek reaches back to the attack on vulnerable Israelites in Exodus 17 and Deuteronomy 25. The *herem* command is severe and comprehensive and should not be generalized into later religious or ethnic violence.
-
-v09: Saul’s obedience is selective: what is economically desirable is spared while what is worthless is destroyed, reversing the logic of total devotion.
-
-v11: The LORD “regrets” making Saul king, while verse 29 says the Glory of Israel does not “change his mind.” The same Hebrew root is used in different relational contexts. TSW preserves the tension rather than harmonizing it away.
-
-v12: Saul’s monument “for himself” sharply contrasts the earlier Ebenezer stone that memorialized the LORD’s help.
-
-v15, v21: Saul shifts responsibility to “the people” while also presenting disobedient spoil as worship.
-
-v22: Sacrifice cannot substitute for hearing and obeying the divine word.
-
-v23: “Presumption” translates a difficult term often rendered stubbornness or insubordination. The parallel presents rebellion and self-willed resistance as religiously serious.
-
-v29: “Glory of Israel” is a divine title emphasizing God’s enduring reliability.
-
-v32: Agag’s statement is difficult and can mean he comes cheerfully/confidently or in chains, and that death’s bitterness has surely passed or surely arrived. TSW follows one plausible reading and notes the ambiguity.
-
-v33: Samuel’s execution of Agag is presented as retributive judgment for Agag’s own violence.
 
 ##Vocabulary
 
@@ -162,23 +141,5 @@ v03: חָרַם (charam)
 v06: חֶסֶד (hesed)
 “Steadfast love.” The Kenites’ kindness to Israel.
 
-v11: נָחַם (nacham)
-“To regret” or relent.
-
-v19: עִיט (it)
-“To swoop down.” Saul’s movement toward the spoil.
-
-v22: שָׁמַע (shama)
-“To listen” or obey.
-
-v23: מֶרִי (meri)
-“Rebellion.”
-
-v23: הָפְצַר (hafetsar)
-“Presumption” or stubborn resistance.
-
 v29: נֵצַח יִשְׂרָאֵל (Netsach Yisrael)
 “Glory/Enduring One of Israel.”
-
-v33: שָׁסַף (shasaf)
-“To cut to pieces.” A rare violent verb.

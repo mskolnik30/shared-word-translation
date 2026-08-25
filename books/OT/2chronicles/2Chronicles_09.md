@@ -92,16 +92,7 @@ v30: Solomon reigned in Jerusalem over all Israel forty years.
 
 v31: Solomon lay down with his ancestors and was buried in the city of David his father. Rehoboam his son became king in his place.
 </p>
-
 ##Notes
-
-v08: The queen interprets Solomon’s kingship as service to the LORD’s love for Israel and as a vocation to justice and righteousness.
-
-v13: The figure 666 is simply the annual gold total in this narrative and is not interpreted symbolically by Chronicles.
-
-v21: “Ships of Tarshish” may refer to a type of long-distance trading vessel rather than ships whose destination was always Tarshish.
-
-v29: Chronicles cites prophetic records not preserved as separate biblical books.
 
 ##Vocabulary
 
@@ -116,9 +107,3 @@ v08: מִשְׁפָּט (mishpat)
 
 v08: צְדָקָה (tsedaqah)
 “Righteousness.”
-
-v21: תַּרְשִׁישׁ (Tarshish)
-“Tarshish.” Associated with long-distance trade.
-
-v29: חֹזֶה (chozeh)
-“Seer.” A prophetic title.

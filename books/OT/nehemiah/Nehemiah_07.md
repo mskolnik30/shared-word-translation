@@ -120,29 +120,24 @@ v71: Some of the heads of ancestral houses gave to the treasury of the work twen
 v72: What the rest of the people gave was twenty thousand darics of gold, two thousand minas of silver, and sixty-seven priestly garments.
 v73: So the priests, Levites, gatekeepers, singers, some of the people, the temple servants, and all Israel lived in their cities. When the seventh month came, the Israelites were in their cities.
 </p>
-
 ##Notes
-v01–03: Completion of the wall leads immediately to ordered worship and security: gatekeepers, singers, Levites, and civic guards all have assigned roles.
-v02: Hananiah is commended for faithfulness and fear of God, linking administrative trustworthiness with religious character.
-v05: The genealogy becomes part of rebuilding. Restoration concerns not only walls but the reconstitution of a people with remembered households and responsibilities.
-v06–60: This register closely parallels Ezra 2 but contains several differences in names and numbers. TSW preserves Nehemiah’s received list rather than harmonizing the two records.
-v64–65: Priestly descent had practical consequences for participation in the most holy food. Uncertain genealogy leads to temporary restriction rather than an invented resolution.
-v65: “Urim and Thummim” — Sacred means associated with priestly discernment in earlier Israelite tradition. The text does not report that such a priest later appeared.
-v70–72: “daric” and “mina” are Persian-period monetary and weight terms. They are retained rather than converted into modern currency.
-v73: The final sentence transitions directly into the events of chapter 8, when the seventh month becomes the setting for public reading of the Torah.
 
 ##Vocabulary
+
 v02: אֱמֶת (emet)
 “Faithfulness” or “reliability.” The quality for which Hananiah is commended.
+
 v03: מִשְׁמָר (mishmar)
 “Watch” or “guard duty.” An assigned period or responsibility for keeping guard.
+
 v05: יָחַשׂ (yachas)
 “To register genealogically.” To establish descent within a family line.
+
 v46: נְתִינִים (Nethinim)
 “Temple servants.” A hereditary group connected with sanctuary service.
+
 v64: גָּאַל (ga'al)
 “To exclude as defiled,” in this form connected with loss of recognized priestly status; the wording describes their removal from priestly privilege.
+
 v65: תִּרְשָׁתָא (tirshatha)
 “Governor.” A Persian-period title used for the provincial governor.
-v65: אוּרִים וְתֻמִּים (Urim ve-Thummim)
-“Urim and Thummim.” Sacred objects associated with priestly inquiry.

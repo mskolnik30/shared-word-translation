@@ -1,191 +1,101 @@
 ---
-book: hebrews
+book: Hebrews
 testament: NT
 chapter: 12
 translation: TSW
 ---
+
 ## Jesus, Founder and Perfecter of Faith
 
 <p>
+v01: Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight and sin that clings so closely, and let us run with endurance the race set before us,
 
-v01: Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight and sin that clings so closely, and let us run with endurance the race set before us,  
+v02: looking to Jesus, the founder and perfecter of faith, who for the joy set before him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
 
-v02: looking to Jesus, the founder and perfecter of faith, who for the joy set before him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.  
+v03: Consider him who endured from sinners such hostility against himself, so that you may not grow weary or fainthearted.
 
-v03: Consider him who endured from sinners such hostility against himself, so that you may not grow weary or fainthearted.  
-
-v04: In your struggle against sin you have not yet resisted to the point of shedding your blood.  
-
+v04: In your struggle against sin you have not yet resisted to the point of shedding your blood.
 </p>
 
 ## The Discipline of the Lord
 
 <p>
+v05: And have you forgotten the exhortation that addresses you as sons?
 
-v05: And have you forgotten the exhortation that addresses you as sons?  
+“My son, do not regard lightly the discipline of the Lord,
 
-“My son, do not regard lightly the discipline of the Lord,  
+nor be weary when reproved by him.
 
-nor be weary when reproved by him.  
+v06: For the Lord disciplines the one he loves,
 
-v06: For the Lord disciplines the one he loves,  
+and chastises every son whom he receives.”
 
-and chastises every son whom he receives.”  
+v07: It is for discipline that you have to endure. God is treating you as sons. For what son is there whom his father does not discipline?
 
-v07: It is for discipline that you have to endure. God is treating you as sons. For what son is there whom his father does not discipline?  
+v08: If you are left without discipline, in which all have participated, then you are illegitimate children and not sons.
 
-v08: If you are left without discipline, in which all have participated, then you are illegitimate children and not sons.  
+v09: Besides this, we have had earthly fathers who disciplined us and we respected them. Shall we not much more be subject to the Father of spirits and live?
 
-v09: Besides this, we have had earthly fathers who disciplined us and we respected them. Shall we not much more be subject to the Father of spirits and live?  
+v10: For they disciplined us for a short time as it seemed best to them, but he disciplines us for our good, that we may share his holiness.
 
-v10: For they disciplined us for a short time as it seemed best to them, but he disciplines us for our good, that we may share his holiness.  
-
-v11: For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.  
-
+v11: For the moment all discipline seems painful rather than pleasant, but later it yields the peaceful fruit of righteousness to those who have been trained by it.
 </p>
 
 ## Strive for Peace and Holiness
 
 <p>
+v12: Therefore lift your drooping hands and strengthen your weak knees,
 
-v12: Therefore lift your drooping hands and strengthen your weak knees,  
+v13: and make straight paths for your feet, so that what is lame may not be put out of joint but rather be healed.
 
-v13: and make straight paths for your feet, so that what is lame may not be put out of joint but rather be healed.  
+v14: Strive for peace with everyone, and for the holiness without which no one will see the Lord.
 
-v14: Strive for peace with everyone, and for the holiness without which no one will see the Lord.  
+v15: See to it that no one fails to obtain the grace of God; that no root of bitterness springs up and causes trouble, and by it many become defiled;
 
-v15: See to it that no one fails to obtain the grace of God; that no root of bitterness springs up and causes trouble, and by it many become defiled;  
+v16: that no one is sexually immoral or unholy like Esau, who sold his birthright for a single meal.
 
-v16: that no one is sexually immoral or unholy like Esau, who sold his birthright for a single meal.  
-
-v17: For you know that afterward, when he desired to inherit the blessing, he was rejected, for he found no chance to repent, though he sought it with tears.  
-
+v17: For you know that afterward, when he desired to inherit the blessing, he was rejected, for he found no chance to repent, though he sought it with tears.
 </p>
 
 ## A Kingdom That Cannot Be Shaken
 
 <p>
+v18: For you have not come to what may be touched, a blazing fire and darkness and gloom and a tempest
 
-v18: For you have not come to what may be touched, a blazing fire and darkness and gloom and a tempest  
+v19: and the sound of a trumpet and a voice whose words made the hearers beg that no further messages be spoken to them.
 
-v19: and the sound of a trumpet and a voice whose words made the hearers beg that no further messages be spoken to them.  
+v20: For they could not endure the order that was given, “If even a beast touches the mountain, it shall be stoned.”
 
-v20: For they could not endure the order that was given, “If even a beast touches the mountain, it shall be stoned.”  
+v21: Indeed, so terrifying was the sight that Moses said, “I tremble with fear.”
 
-v21: Indeed, so terrifying was the sight that Moses said, “I tremble with fear.”  
+v22: But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable angels in festal gathering,
 
-v22: But you have come to Mount Zion and to the city of the living God, the heavenly Jerusalem, and to innumerable angels in festal gathering,  
+v23: and to the assembly of the firstborn who are enrolled in heaven, and to God, the judge of all, and to the spirits of the righteous made perfect,
 
-v23: and to the assembly of the firstborn who are enrolled in heaven, and to God, the judge of all, and to the spirits of the righteous made perfect,  
+v24: and to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.
 
-v24: and to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.  
+v25: See that you do not refuse him who is speaking. For if they did not escape when they refused him who warned them on earth, much less will we escape if we reject him who warns from heaven.
 
-v25: See that you do not refuse him who is speaking. For if they did not escape when they refused him who warned them on earth, much less will we escape if we reject him who warns from heaven.  
+v26: At that time his voice shook the earth, but now he has promised, “Yet once more I will shake not only the earth but also the heavens.”
 
-v26: At that time his voice shook the earth, but now he has promised, “Yet once more I will shake not only the earth but also the heavens.”  
+v27: This phrase, “Yet once more,” indicates the removal of things that are shaken—that is, things that have been made—in order that the things that cannot be shaken may remain.
 
-v27: This phrase, “Yet once more,” indicates the removal of things that are shaken—that is, things that have been made—in order that the things that cannot be shaken may remain.  
+v28: Therefore let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to God acceptable worship, with reverence and awe,
 
-v28: Therefore let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to God acceptable worship, with reverence and awe,  
-
-v29: for our God is a consuming fire.  
-
+v29: for our God is a consuming fire.
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v1–2: The race metaphor frames endurance as ongoing effort.  
+v01: νέφος (nephos)
+“Cloud.” Surrounding multitude.
 
-v2: Completion is linked to both suffering and position.  
+v01: ἀγών (agōn)
+“Race.” Contest or struggle.
 
-v3–4: Comparison moderates perception of struggle.  
+v02: ἀρχηγός (archēgos)
+“Founder.” Originator or leader.
 
-v5–6: Discipline is grounded in relationship.  
-
-v7–8: Absence of discipline signals lack of belonging.  
-
-v9–10: Earthly and divine discipline are contrasted.  
-
-v11: Outcome is delayed but productive.  
-
-v12–13: Physical imagery represents moral restoration.  
-
-v14–15: Holiness is necessary for vision of the Lord.  
-
-v15: Defilement spreads relationally.  
-
-v16–17: Example functions as warning without expansion.  
-
-v18–21: Past encounter is described through sensory intensity.  
-
-v22–24: Present reality is described as accessible but unseen.  
-
-v24: Blood is personified as speaking.  
-
-v25–27: Warning is intensified through comparison.  
-
-v27: Stability is defined through what remains.  
-
-v28–29: Worship is grounded in response to permanence.  
-
-## Vocabulary
-
-v1: νέφος (nephos)  
-
-v1: “Cloud.” Surrounding multitude.  
-
-v1: ἀγών (agōn)  
-
-v1: “Race.” Contest or struggle.  
-
-v2: ἀρχηγός (archēgos)  
-
-v2: “Founder.” Originator or leader.  
-
-v2: τελειωτής (teleiōtēs)  
-
-v2: “Perfecter.” One who brings to completion.  
-
-v5: παιδεία (paideia)  
-
-v5: “Discipline.” Training or instruction.  
-
-v7: υἱός (huios)  
-
-v7: “Son.” One in relational standing.  
-
-v11: καρπός (karpos)  
-
-v11: “Fruit.” Result or outcome.  
-
-v14: ἁγιασμός (hagiasmos)  
-
-v14: “Holiness.” State of being set apart.  
-
-v15: ῥίζα (rhiza)  
-
-v15: “Root.” Source or origin.  
-
-v18: ψηλαφάω (psēlaphaō)  
-
-v18: “To touch.” To handle physically.  
-
-v22: πανήγυρις (panēgyris)  
-
-v22: “Assembly.” Festal gathering.  
-
-v24: μεσίτης (mesitēs)  
-
-v24: “Mediator.” One who stands between.  
-
-v27: σαλεύω (saleuō)  
-
-v27: “To shake.” To move or unsettle.  
-
-v28: βασιλεία (basileia)  
-
-v28: “Kingdom.” Realm of rule.  
-
-v29: πῦρ (pyr)  
-
-v29: “Fire.” Consuming force.  
+v02: τελειωτής (teleiōtēs)
+“Perfecter.” One who brings to completion.

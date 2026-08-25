@@ -47,25 +47,18 @@ v13: Now it is planted in the wilderness, in a dry and thirsty land.
 <p>
 v14: A fire has gone out from its branch; it has consumed its fruit so that there is no strong branch left on it, no scepter for ruling. This is a lament, and it was for lamentation.
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v1: "Lament" (Hebrew: קִינָה, qinnah) refers to a type of mournful song or poem, often used in ancient Israel to express profound grief over calamity, particularly for the loss of life or a nation's downfall.
+v01: קִינָה (qinnah)
+“lament" refers to a mournful song or expression of grief, with a sense of the sorrow and mourning over the nation's fallen state and leadership.
 
-v2: The imagery of a "lioness" among lions paints a picture of strength and power, indicating the prominent and ruling position of Israel among the nations, seen as mighty as lions.
+v03: כְּפִיר (kephir)
+“young lion" symbolizes potential and emerging power, reflecting the young prince's role being raised for leadership.
 
-v04-v09: The repeated capture and exile of the lions symbolize the exile of Israel's rulers. This reflects historical events where leaders were taken captive, first by Egypt and then by Babylon, showing the nation's political turmoil and loss of sovereignty.
+v10: גֶּ֫פֶן (gephen)
+“vine" serves as a metaphor for Israel, representing its initial prosperity and divine favor before destruction.
 
-v10: The vine is a metaphor for Israel, flourishing due to God's provision but ultimately destroyed due to disobedience and judgment.
-
-v14: The fire consuming the vine's branches signifies the destruction and the end of kingship in Israel, with no branch remaining for leadership. This underscores the lament's theme of irreversible loss.
-
-## Vocabulary
-
-v1: קִינָה (qinnah) — "lament" refers to a mournful song or expression of grief, emphasizing the sorrow and mourning over the nation's fallen state and leadership.
-
-v3: כְּפִיר (kephir) — "young lion" symbolizes potential and emerging power, reflecting the young prince's role being raised for leadership.
-
-v10: גֶּ֫פֶן (gephen) — "vine" serves as a metaphor for Israel, representing its initial prosperity and divine favor before destruction.
-
-v14: מַטֶּה עֹז (matteh oz) — "strong branch" indicates a ruling scepter, symbolizing authority and leadership, which has been lost.
+v14: מַטֶּה עֹז (matteh oz)
+“strong branch" indicates a ruling scepter, symbolizing authority and leadership, which has been lost.

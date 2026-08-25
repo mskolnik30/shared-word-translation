@@ -42,7 +42,6 @@ v18: And Jesus rebuked the demon, and it came out of him, and the boy was healed
 <p>
 v19: Then the disciples came to Jesus privately and said, “Why could we not cast it out?”
 v20: He said to them, “Because of your little trust. For truly I tell you, if you have trust like a mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you.”
-v21: [Some manuscripts add: “But this kind does not come out except by prayer and fasting.”]
 </p>
 
 ## Jesus Foretells His Death and Resurrection
@@ -63,48 +62,20 @@ v25: He said, “Yes, he does.” And when he came into the house, Jesus spoke o
 v26: When Peter said, “From others,” Jesus said to him, “Then the children are free.
 v27: But so that we do not give offense to them, go to the sea and cast a hook; take the first fish that comes up, and when you open its mouth, you will find a coin; take that and give it to them for me and for you.”
 </p>
+##Notes
 
-## Notes
-v1–2: The transfiguration is narrated without explanation. Visual transformation is described, but its meaning is not interpreted within the scene.
+v21: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add a saying about prayer and fasting. Public verse numbering is retained without supplying the later reading in the main text.
 
-v3: Moses and Elijah appear without introduction. Their presence is assumed to be recognizable, and no dialogue content is reported.
+##Vocabulary
 
-v5: The voice from the cloud echoes baptismal language and adds the imperative “listen to him,” shifting focus from vision to obedience.
+v02: μετεμορφώθη (metemorphōthē)
+“Was transfigured; a change in form without explanation of mechanism.”
 
-v6–7: Fear is met not with instruction but with touch and reassurance. Jesus’ response is embodied rather than explanatory.
+v05: νεφέλη (nephelē)
+“Cloud.” In biblical theophanic scenes, a cloud can mark presence and concealment.
 
-v9: Silence is commanded until after the resurrection. Understanding is explicitly deferred.
+v05: ἀκούω (akouō)
+“To listen; to hear; implies obedience rather than mere perception.”
 
-v11–13: Elijah’s coming is affirmed and reinterpreted through suffering rather than restoration alone. Recognition, not arrival, is the point of failure.
-
-v17: Jesus’ lament addresses a “generation,” broadening the failure beyond the disciples without isolating blame.
-
-v20: “Little trust” names deficiency in degree, not absence. The mustard seed metaphor emphasizes disproportion rather than magnitude.
-
-v21: The verse concerning prayer and fasting reflects a textual variant and is retained in brackets, preserving the manuscript tradition without harmonization.
-
-v22–23: The passion prediction is stated plainly. The emotional response of the disciples is recorded without commentary.
-
-v26–27: Freedom and concession are held together. Jesus asserts status while choosing accommodation, without resolving the tension.
-
-
-## Vocabulary
-v2: μετεμορφώθη (metemorphōthē) — was transfigured; a change in form without explanation of mechanism.
-
-v5: νεφέλη (nephelē) — cloud; a traditional marker of divine presence and concealment.
-
-v5: ἀκούω (akouō) — to listen; to hear; implies obedience rather than mere perception.
-
-v17: ἄπιστος (apistos) — faithless; untrusting; denotes relational failure rather than intellectual doubt.
-
-v20: πίστις (pistis) — trust; reliance; framed here in terms of proportion, not quantity.
-
-v22: παραδίδοται (paradidotai) — is handed over; passive form emphasizing inevitability rather than agency.
-
-v24: δίδραχμον (didrachmon) — temple tax; a religious obligation tied to communal identity.
-
-v26: ἐλεύθεροι (eleutheroi) — free; not subject to obligation; used relationally rather than politically.
-
-v27: σκανδαλίζω (skandalizō) — to cause offense; to place a stumbling block; motivates accommodation.
-
-
+v20: πίστις (pistis)
+“Trust; reliance; framed here in terms of proportion, not quantity.”

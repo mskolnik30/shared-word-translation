@@ -58,9 +58,9 @@ v18: “Micah of Moresheth prophesied in the days of Hezekiah king of Judah and 
 
 ‘Thus says the LORD of Hosts:
 
-Zion will be plowed like a field,  
-Jerusalem will become heaps of ruins,  
-and the mountain of the house  
+Zion will be plowed like a field,
+Jerusalem will become heaps of ruins,
+and the mountain of the house
 a wooded height.’
 
 v19: Did Hezekiah king of Judah and all Judah put him to death? Did he not fear the LORD and seek the favor of the LORD, and did the LORD not relent concerning the harm he had spoken against them? But we are about to bring great harm upon ourselves.”
@@ -79,20 +79,7 @@ v23: They brought Uriah out from Egypt and brought him to King Jehoiakim, who st
 
 v24: But the hand of Ahikam son of Shaphan was with Jeremiah so that he was not given into the hand of the people to put him to death.
 </p>
-
 ##Notes
-
-v02: “Do not hold back a word” emphasizes the completeness of Jeremiah’s commission even when the message threatens the temple itself.
-
-v03, v13: The announced judgment remains responsive to repentance. “Relent” preserves the biblical language of divine response without implying ignorance or instability.
-
-v06: Shiloh was an earlier sanctuary site associated with destruction. Invoking it challenges any assumption that the Jerusalem temple is automatically immune from judgment.
-
-v11: Priests and prophets, rather than foreign rulers, seek the death sentence. The conflict concerns whether a word against temple and city can truly come from the LORD.
-
-v18: The elders cite Micah 3:12, showing an earlier prophetic threat functioning as precedent in Jeremiah’s defense.
-
-v20–23: Uriah’s death demonstrates that Jeremiah’s escape is not inevitable and that prophets speaking similar words could be killed under Jehoiakim.
 
 ##Vocabulary
 
@@ -104,12 +91,6 @@ v03: נָחַם (nacham)
 
 v06: קְלָלָה (qelalah)
 “Curse.” Jerusalem is threatened with becoming a byword of judgment among nations.
-
-v11: מִשְׁפַּט־מָוֶת (mishpat-mavet)
-“Sentence of death.” A legal judgment requiring execution.
-
-v15: דָּם נָקִי (dam naqi)
-“Innocent blood.” Blood shed without just cause.
 
 v19: חָלָה אֶת־פְּנֵי (chalah et-pene)
 “To seek favor,” literally to soften or entreat the face.

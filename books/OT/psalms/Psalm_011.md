@@ -45,53 +45,18 @@ v07: For the LORD is righteous;
 he loves righteous deeds;
 the upright shall behold his face.
 </p>
+##Notes
 
-## Notes
-v1: Refuge in the LORD is contrasted with the impulse to flee.
+##Vocabulary
 
-v2–3: The threat is real and systemic (“foundations destroyed”).
-
-v4: God’s position is fixed—enthroned, observing, and evaluating.
-
-v5: Testing distinguishes the righteous; violence defines the wicked.
-
-v6: Judgment imagery is elemental—fire, sulfur, and wind.
-
-v7: The final promise is relational—“behold his face.”
-
-## Vocabulary
-v1: חָסָה (chasah)  
+v01: חָסָה (chasah)
 “To take refuge.” Seek shelter.
 
-v1: נוּד (nud)  
+v01: נוּד (nud)
 “To flee.” Wander or escape.
 
-v2: דָּרַךְ (darakh)  
+v02: דָּרַךְ (darakh)
 “To bend.” Prepare a bow.
 
-v2: יָרָה (yarah)  
+v02: יָרָה (yarah)
 “To shoot.” Cast or throw.
-
-v3: יְסוֹד (yesod)  
-“Foundation.” Structural base.
-
-v4: הֵיכָל (heikhal)  
-“Temple.” Palace or sanctuary.
-
-v4: בָּחַן (bachan)  
-“To test.” Examine.
-
-v5: שָׂנֵא (sane)  
-“To hate.” Reject strongly.
-
-v6: גָּפְרִית (gofrit)  
-“Sulfur.” Burning element.
-
-v6: מָנָה (manah)  
-“Portion.” Assigned share.
-
-v7: יָשָׁר (yashar)  
-“Upright.” Straight or just.
-
-v7: פָּנִים (panim)  
-“Face.” Presence.

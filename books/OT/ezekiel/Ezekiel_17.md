@@ -12,9 +12,9 @@ v01: And the word of the LORD came to me, saying,
 v02: "Son of man, pose a riddle, and speak a parable to the house of Israel.
 </p>
 <p>
-v03: Say, 'Thus says the Lord GOD: A great eagle, great of wings, with long feathers, full of multi-colored plumage, came to Lebanon and took the top of the cedar. 
+v03: Say, 'Thus says the LORD GOD: A great eagle, great of wings, with long feathers, full of multi-colored plumage, came to Lebanon and took the top of the cedar.
 v04: He plucked off the topmost of its young twigs and brought it to the land of merchants; he set it in a city of traders.
-v05: He took some of the seed of the land and planted it in a fertile field; he planted it beside abundant waters, like a willow tree. 
+v05: He took some of the seed of the land and planted it in a fertile field; he planted it beside abundant waters, like a willow tree.
 v06: It sprouted and became a spreading vine of low height, its branches turned toward him; and its roots were under it. So it became a vine, produced branches, and sent out shoots.
 </p>
 <p>
@@ -22,7 +22,7 @@ v07: But there was another great eagle with great wings and many feathers, and b
 v08: It was planted in a good field beside abundant waters, to bring forth branches and to bear fruit, to become a splendid vine.'
 </p>
 <p>
-v09: "Say, 'Thus says the Lord GOD: Will it thrive? Will he not pull up its roots and strip off its fruit, so that it withers? All its sprouting leaves will wither, and not by a mighty arm or by many people will it be lifted up from its roots.
+v09: "Say, 'Thus says the LORD GOD: Will it thrive? Will he not pull up its roots and strip off its fruit, so that it withers? All its sprouting leaves will wither, and not by a mighty arm or by many people will it be lifted up from its roots.
 v10: And behold, it is planted. Will it thrive? Will it not utterly wither when the east wind touches it? It will wither on the beds where it sprouted.'"
 </p>
 <p>
@@ -31,30 +31,29 @@ v12: "Say now to the rebellious house, 'Do you not understand what these things 
 v13: And he took one from the royal seed and made a covenant with him, putting him under oath; he also took away the mighty of the land,
 v14: that the kingdom might be lowly, not exalting itself, but observing his covenant, it would stand.
 v15: But he rebelled against him by sending his envoys to Egypt, that they might give him horses and a large army. Will he thrive? Will he who does such things escape? Can he break the covenant and escape?
-v16: As I live," declares the Lord GOD, "surely in the place of the king who made him king, whose oath he despised and whose covenant he broke, he shall die in Babylon.
+v16: As I live," declares the LORD GOD, "surely in the place of the king who made him king, whose oath he despised and whose covenant he broke, he shall die in Babylon.
 v17: Pharaoh with his mighty army and great company will not help him in war, casting up a siege mound and building a siege wall to cut off many lives.
 </p>
 <p>
 v18: He despised the oath and broke the covenant—although he gave his hand, yet he did all these things—he shall not escape.
-v19: Therefore, thus says the Lord GOD: As I live, surely My oath which he despised and My covenant which he broke, I will return it upon his own head.
-v20: I will spread My net over him, and he will be caught in My snare. I will bring him to Babylon and enter into judgment with him there, for the trespass he has committed against Me.
+v19: Therefore, thus says the LORD GOD: As I live, surely my oath which he despised and my covenant which he broke, I will return it upon his own head.
+v20: I will spread my net over him, and he will be caught in my snare. I will bring him to Babylon and enter into judgment with him there, for the trespass he has committed against me.
 v21: All his fugitives and his forces will fall by the sword, and the survivors will be scattered to all the winds. Then you will know that I, the LORD, have spoken.'"
 </p>
 <p>
-v22: Thus says the Lord GOD: "I will also take of the lofty top of the cedar and will set it; I will pluck from the topmost of its young twigs a tender one, and I Myself will plant it on a high and lofty mountain.
+v22: Thus says the LORD GOD: "I will also take of the lofty top of the cedar and will set it; I will pluck from the topmost of its young twigs a tender one, and I myself will plant it on a high and lofty mountain.
 v23: On the high mountain of Israel I will plant it, that it may bear branches and produce fruit, and become a majestic cedar. Birds of every kind will dwell under it; they will dwell in the shade of its branches.
 v24: All the trees of the field will know that I am the LORD; I bring low the high tree, exalt the low tree, dry up the green tree, and make the dry tree flourish. I, the LORD, have spoken, and I will do it."
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-- **v1** The "word of the LORD" refers to divine communication to the prophet, a recurring introductory formula in Ezekiel indicating a new prophetic message.
-- **v3-24** The parable and its interpretation utilize the imagery of eagles, cedars, and vines, illustrating international political alliances and their implications. Parables in Ezekiel serve as vivid teaching tools that convey deeper theological and moral truths.
-- **v7** The "another great eagle" represents a powerful foreign nation, in this context, likely Egypt, depicting political maneuvering and reliance on foreign alliances contrary to divine instruction.
-- **v20-21** The net imagery illustrates divine judgment and captures the inevitability of divine retribution for covenant unfaithfulness. The scattering symbolizes the dispersion of people due to their disobedience.
+v03: נֶשֶׁר (nesher)
+“eagle": Symbolizes a powerful entity with a far-reaching influence. Used to depict both Babylon and another foreign nation involved in the narrative.
 
-## Vocabulary
+v14: מַמְלָכָה (mamlakhah)
+“kingdom": Refers to the political entity established in a subdued state under foreign dominion.
 
-- **v3, v22** נֶשֶׁר (ne.sher) — "eagle": Symbolizes a powerful entity with a far-reaching influence. Used to depict both Babylon and another foreign nation involved in the narrative.
-- **v14** מַמְלָכָה (mam.la.khah) — "kingdom": Refers to the political entity established in a subdued state under foreign dominion. It emphasizes political strategy and subjugation.
-- **v22** צַמֶּרֶת (tsam.me.ret) — "top" or "pinion": Refers to the highest, most valuable part of the cedar, symbolizing the royal line or high-ranking individuals taken into exile or used strategically in alliances.
+v22: צַמֶּרֶת (tsammeret)
+“top" or "pinion": Refers to the highest, most valuable part of the cedar, symbolizing the royal line or high-ranking individuals taken into exile or used strategically in alliances.

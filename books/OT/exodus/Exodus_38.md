@@ -86,20 +86,7 @@ v30: With it he made the bases for the entrance of the tent of meeting, the bron
 
 v31: the bases around the court, the bases of the gate of the court, all the pegs of the dwelling, and all the pegs around the court.
 </p>
-
 ##Notes
-
-v08: The basin is made from bronze mirrors contributed by women who “served” or “assembled” at the tent entrance. The exact nature of their service is not explained here.
-
-v21: The sanctuary materials are formally accounted for. Sacred generosity is accompanied by administrative transparency.
-
-v21: Ithamar, Aaron’s son, oversees the Levitical accounting work connected with the dwelling.
-
-v24–29: The quantities are given in ancient weight units and emphasize the enormous material investment in the sanctuary.
-
-v26: The census number matches the total in Exodus 12:37 and later census traditions. The half-shekel contribution links the accounting back to the ransom law of Exodus 30.
-
-v27: The silver bases embody the census contribution materially in the foundation of sacred space.
 
 ##Vocabulary
 
@@ -114,12 +101,3 @@ v21: פְקוּדֵי (pequdei)
 
 v24: תְּנוּפָה (tenufah)
 “Wave offering.” Material presented to the LORD.
-
-v26: בֶּקַע (beqa)
-“Beka.” A half-shekel weight.
-
-v27: אֶדֶן (eden)
-“Base” or “socket.” Structural foundation piece.
-
-v29: נְחֹשֶׁת (nechoshet)
-“Bronze.” The metal used extensively in the outer court.

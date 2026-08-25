@@ -88,36 +88,41 @@ Gendered language is neither flattened nor exaggerated. It is rendered with rest
 
 Notes: Purpose and Scope
 
-Text-Anchored, Not Commentary-Anchored
+Text-Anchored, Restrained, and Selective
 
-Notes in TSW are anchored directly to the biblical text rather than to scholarly debate or historical reconstruction. Their purpose is to clarify meaning, illuminate tension, and support faithful reading—not to provide exhaustive academic commentary.
+Notes in TSW serve the biblical text rather than functioning as a second commentary. They are included only when they help readers recognize a significant feature that cannot be carried fully in the main English text.
 
-Notes are:
-	•	Written in full sentences
-	•	Pastoral and theological in tone
-	•	Focused on how the text functions rather than adjudicating every possible interpretation
+Notes are used to:
+	•	Acknowledge significant textual variants
+	•	Identify significant interpretive possibilities grounded in the source text
+	•	Identify source-language ambiguity, grammar, idiom, wordplay, or literary form when these materially affect translation
 
-Notes are often hidden by default in digital displays, reinforcing that they serve the text rather than replace it.
+Notes do not:
+	•	Explain theology
+	•	Resolve ambiguity that the source text leaves open
+	•	Provide devotional or pastoral commentary
+	•	Defend translation choices unnecessarily
+
+The main text remains primary.
 
 Use of Original Languages in Notes
 
-Greek and Hebrew appear in notes only when they clarify meaning, ambiguity, or translation choice. When included:
-	•	The word is presented in its original script
-	•	A Roman transliteration is provided
-	•	The explanation serves understanding rather than technical mastery
+Greek, Hebrew, and Aramaic appear in notes only when the original form is necessary to identify a significant textual or interpretive issue. Technical detail is kept to the minimum needed for faithful reading.
 
 ⸻
 
 Vocabulary Section
 
-The Vocabulary section highlights select original-language terms that carry particular theological, narrative, or conceptual weight within a passage.
+The Vocabulary section highlights a small number of source-language terms whose lexical range, repetition, wordplay, or contextual force materially helps readers hear the passage.
 
 Vocabulary entries:
-	•	Are tied to specific verse numbers
-	•	Focus on key terms rather than comprehensive lists
-	•	Explain how a word functions within the passage, not merely its lexical definition
+	•	Are tied to specific public verse numbers
+	•	Present the source-language term and a Roman transliteration
+	•	Give a concise lexical gloss and, where necessary, a brief contextual explanation
+	•	Remain highly selective rather than attempting a comprehensive glossary
+	•	Do not function as a second commentary section
 
-Vocabulary is included selectively and is not required for every passage.
+A chapter may have an empty Vocabulary section when no term warrants special treatment.
 
 ⸻
 

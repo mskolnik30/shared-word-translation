@@ -8,10 +8,11 @@ translation: TSW
 ## The First Beast
 
 <p>
-
 v01: And I saw a beast rising out of the sea, having ten horns and seven heads, and on its horns ten diadems, and on its heads blasphemous names.
 </p>
+<p>
 v02: And the beast that I saw was like a leopard, its feet were like a bear’s, and its mouth was like a lion’s mouth. The dragon gave it his power and his throne and great authority.
+</p>
 <p>
 v03: One of its heads seemed as though it had been slain to death, and its deadly wound was healed, and the whole earth marveled as they followed the beast.
 
@@ -57,97 +58,18 @@ v17: so that no one can buy or sell unless he has the mark, that is, the name of
 <p>
 v18: This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v1: The beast rises from the sea, signaling emergence from chaos rather than stable origin.
-
-v1–2: Features combine earlier symbolic elements without resolving identity.
-
-v2: Authority is received, not inherent.
-
-v3: The healed wound provokes global response; restoration leads to allegiance.
-
-v4: Worship is directed through mediated authority (dragon → beast).
-
-v5: Speech is emphasized as instrument of influence and opposition.
-
-v5: Time is limited (“forty-two months”), not indefinite.
-
-v6: Blasphemy extends to both God and those associated with God.
-
-v7: Conquest is permitted; authority is described as given.
-
-v8: Worship is universal in scope but not without distinction.
-
-v8: The “book of life” introduces prior belonging without explanation.
-
-v9–10: The saying functions as warning and recognition rather than instruction.
-
-v10: Endurance is framed within inevitability, not avoidance.
-
-v11: The second beast appears similar to a lamb but speaks differently, creating dissonance.
-
-v12: Authority is derivative; action reinforces prior allegiance.
-
-v13–14: Signs function as instruments of deception rather than revelation.
-
-v14: The image is constructed in response to perceived power.
-
-v15: Breath is given, but source authority remains external.
-
-v16–17: The mark regulates participation in economic life.
-
-v17: Identity is reduced to name or number without clarification.
-
-v18: The number is presented as requiring interpretation, not immediate recognition.
-
-## Vocabulary
-
-v1: θηρίον (thērion)
-
+v01: θηρίον (thērion)
 “Beast.” A figure of power or opposition, not specified by category.
 
-v2: ἐξουσία (exousia)
-
+v02: ἐξουσία (exousia)
 “Authority.” Delegated power to act.
 
-v3: πληγή (plēgē)
-
+v03: πληγή (plēgē)
 “Wound.” A striking or blow, here appearing fatal.
 
-v4: προσκυνέω (proskyneō)
-
+v04: προσκυνέω (proskyneō)
 “To worship.” To show reverence or submission.
-
-v5: βλασφημία (blasphēmia)
-
-“Blasphemy.” Speech that opposes or dishonors God.
-
-v7: νικάω (nikaō)
-
-“To conquer.” Victory described without method.
-
-v8: βιβλίον τῆς ζωῆς (biblion tēs zōēs)
-
-“Book of life.” Record of belonging, not defined.
-
-v11: κέρας (keras)
-
-“Horn.” Symbol of strength or authority.
-
-v13: σημεῖον (sēmeion)
-
-“Sign.” Indicator that can reveal or deceive.
-
-v14: εἰκών (eikōn)
-
-“Image.” Representation that carries identity or authority.
-
-v16: χάραγμα (charagma)
-
-“Mark.” Inscription or imprint indicating allegiance.
-
-v18: ἀριθμός (arithmos)
-
-“Number.” Value requiring interpretation.

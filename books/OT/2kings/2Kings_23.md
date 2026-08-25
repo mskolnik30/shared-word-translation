@@ -126,38 +126,7 @@ v36: Jehoiakim was twenty-five years old when he became king, and he reigned ele
 
 v37: He did what was evil in the eyes of the LORD, according to all that his ancestors had done.
 </p>
-
 ##Notes
-
-v01–03: Josiah turns the discovered book into a public covenant ceremony involving leaders, clergy, prophets, and all the people.
-
-v03: “with all his heart and with all his life” echoes Deuteronomy’s language of total covenant devotion.
-
-v04–14: The reform reaches inside the temple, across Jerusalem, throughout Judah, and back into institutions dating to Solomon and Manasseh. Josiah’s reforms are deliberately comprehensive.
-
-v05: “idolatrous priests” translates *kemarim*, a contemptuous term for unauthorized cultic personnel.
-
-v07: The Hebrew term can denote male cult prostitutes or consecrated persons. Their rooms stand within the temple complex, showing the depth of religious syncretism.
-
-v10: Topheth in the Valley of Hinnom is rendered unusable for child sacrifice to Molech.
-
-v11: Horses and chariots dedicated to the sun suggest royal participation in astral worship.
-
-v13: “Mount of Destruction” is a polemical alteration of the Mount of Olives’ name, associating Solomon’s foreign shrines with corruption.
-
-v15–18: Josiah’s actions at Bethel fulfill the anonymous man of God’s prophecy from 1 Kings 13, several centuries earlier in the narrative.
-
-v20: Josiah’s slaughter of high-place priests is severe covenantal purge language. TSW preserves it without extending it as a model for later religious violence.
-
-v22: The statement that no comparable Passover had been observed since the judges emphasizes scale or faithfulness to the book, not necessarily total absence of all Passover observance.
-
-v25: Josiah is evaluated in the exact terms of Deuteronomy 6:5—heart, life, and might—making him the book’s model of Deuteronomic kingship.
-
-v26–27: Even Josiah’s exceptional reform does not reverse the accumulated judgment associated especially with Manasseh. Personal faithfulness and historical consequence remain distinct.
-
-v29: The political circumstances of Josiah’s encounter with Pharaoh Neco are compressed. 2 Chronicles 35 supplies a fuller battle narrative.
-
-v34: Pharaoh changes Eliakim’s name to Jehoiakim, demonstrating Egyptian control over Judah’s succession.
 
 ##Vocabulary
 
@@ -175,18 +144,3 @@ v10: תֹּפֶת (Tophet)
 
 v13: שִׁקּוּץ (shiquts)
 “Detestable thing.” A contemptuous term for foreign gods.
-
-v15: בָּמָה (bamah)
-“High place.” The Bethel shrine is destroyed.
-
-v21: פֶּסַח (pesach)
-“Passover.”
-
-v24: תְּרָפִים (teraphim)
-“Household gods.”
-
-v25: מְאֹד (me'od)
-“Might” or full capacity. Josiah turns with all his might.
-
-v35: עָרַךְ (arakh)
-“To assess.” Jehoiakim taxes the land for Egyptian tribute.

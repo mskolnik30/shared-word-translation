@@ -184,147 +184,24 @@ v73: After a little while the bystanders came up and said to Peter, “Certainly
 v74: Then he began to invoke a curse on himself and to swear, “I do not know the man!” And immediately a rooster crowed.
 v75: And Peter remembered the word Jesus had spoken: “Before the rooster crows, you will deny me three times.” And he went out and wept bitterly.
 </p>
+##Notes
 
-## Notes
-v2: “the Son of Man is handed over” — Matthew places divine foreknowledge and human treachery side by side. Jesus is not overtaken by events; he names them before they unfold.
+##Vocabulary
 
-v4–5: “by stealth… not during the festival” — The leaders are not restrained by justice but by optics. Their timing is governed by crowd management, not truth.
+v02: πάσχα (pascha)
+“Passover.”
 
-v7: “poured it on his head” — Matthew presents the act in royal as well as burial-shaped terms. Anointing and death already stand together.
+v02: παραδίδωμι (paradidōmi)
+“To hand over; to deliver up; to betray.”
 
-v10: “a beautiful work” — Jesus names as beautiful what others dismiss as impractical. Devotion is not measured only by efficiency.
+v26: εὐλογέω (eulogeō)
+“To bless.”
 
-v11: “you always have the poor with you” — This is not a dismissal of the poor but a recognition of the moment. Jesus refuses to let true concern become a weapon against love.
+v28: διαθήκη (diathēkē)
+“Covenant.”
 
-v13: “in memory of her” — The woman’s act becomes part of the gospel’s telling. Faithful love is remembered alongside the passion itself.
+v38: ψυχή (psychē)
+“Soul; life; self.”
 
-v15: “thirty pieces of silver” — The betrayal is given a price. Matthew makes the transaction stark and concrete.
-
-v21–22: “one of you… Surely not I?” — The table becomes a place of self-examination. Betrayal is not imagined as only external to the community.
-
-v23–25: “The one who dipped… You have said so” — Nearness to Jesus does not guarantee faithfulness. Shared bread and shared presence can coexist with betrayal.
-
-v26–28: “this is my body… my blood of the covenant” — Jesus interprets his death before it happens. The meal is not escape from the cross but participation in its meaning.
-
-v28: “poured out for many for the forgiveness of sins” — Matthew binds covenant, sacrifice, and forgiveness together. Jesus’ death is given not as accident but as redemptive self-offering.
-
-v29: “drink it new with you” — The supper is framed by future hope. Even on the edge of death, Jesus speaks of shared joy yet to come.
-
-v31–32: “fall away… I will go before you into Galilee” — Jesus names both failure and restoration. Scattering is real, but it is not the final word.
-
-v36–39: Gethsemane — Jesus does not move toward death with numb detachment. Obedience includes anguish, honest prayer, and surrender.
-
-v40–41: “keep watch… the spirit indeed is willing, but the flesh is weak” — Vigil is communal and spiritual. Desire alone is insufficient without prayerful endurance.
-
-v45: “the hour has drawn near” — The turning point has arrived. Jesus rises from prayer not confused but resolved.
-
-v48–50: Judas’ kiss — The sign of greeting becomes the instrument of betrayal. Evil often works through gestures that mimic intimacy.
-
-v52: “all who take the sword will perish by the sword” — Jesus refuses violent defense, not because injustice is unreal, but because the kingdom is not secured by coercion.
-
-v53–54: “twelve legions of angels… the scriptures be fulfilled” — Restraint is not weakness. Jesus’ surrender is chosen within the larger obedience of God’s purpose.
-
-v56: “all the disciples left him and fled” — The failure is collective. Matthew does not preserve the dignity of the disciples at the expense of truth.
-
-v59–60: “false testimony” — The trial is shaped by the appearance of legality while lacking justice. Institutions can be orderly and still corrupt.
-
-v63–64: “the Christ, the Son of God… seated at the right hand of Power” — Jesus answers with both affirmation and apocalyptic exaltation. The condemned one speaks as the coming judge.
-
-v67–68: mockery and violence — The one who is truly king is treated as disposable. Matthew lets humiliation stand in full view.
-
-v69–75: Peter’s denial — Bold promises collapse under pressure. Yet Peter’s bitter weeping shows that failure, though grave, has not ended in hardness.
-
-## Vocabulary
-v2: πάσχα (pascha) — Passover
-
-v2: παραδίδωμι (paradidōmi) — to hand over; to deliver up; to betray
-
-v2: σταυρόω (stauroō) — to crucify
-
-v4: κρατέω (krateō) — to seize; to take hold of
-
-v4: δόλος (dolos) — deceit; cunning; stealth
-
-v7: ἀλάβαστρον (alabastron) — alabaster jar
-
-v7: μύρον (myron) — ointment; perfumed oil
-
-v10: κόπος (kopos) / καλὸν ἔργον (kalon ergon) — labor / beautiful work; good deed
-
-v11: πτωχός (ptōchos) — poor
-
-v13: μνημόσυνον (mnēmosynon) — memorial; remembrance
-
-v15: ἀργύριον (argyrion) — silver; silver coin
-
-v17: ἄζυμα (azyma) — unleavened bread; unleavened things
-
-v18: καιρός (kairos) — appointed time; fitting time
-
-v21: λυπέω (lypeō) — to grieve; to cause sorrow
-
-v24: οὐαί (ouai) — woe; alas
-
-v26: εὐλογέω (eulogeō) — to bless
-
-v26: κλάω (klaō) — to break
-
-v27: εὐχαριστέω (eucharisteō) — to give thanks
-
-v28: διαθήκη (diathēkē) — covenant
-
-v28: ἄφεσις (aphesis) — forgiveness; release
-
-v29: γέννημα τῆς ἀμπέλου (gennēma tēs ampelou) — fruit of the vine
-
-v30: ὑμνέω (hymneō) — to sing a hymn
-
-v31: σκανδαλίζω (skandalizō) — to cause to stumble; to fall away
-
-v32: ἐγείρω (egeirō) — to raise; to awaken
-
-v36: προσεύχομαι (proseuchomai) — to pray
-
-v37: λυπέω (lypeō) — to grieve; to be sorrowful
-
-v37: ἀδημονέω (adēmoneō) — to be distressed; to be troubled
-
-v38: ψυχή (psychē) — soul; life; self
-
-v38: γρηγορέω (grēgoreō) — to keep watch; to stay awake
-
-v39: ποτήριον (potērion) — cup
-
-v41: πειρασμός (peirasmos) — testing; trial; temptation
-
-v41: πρόθυμος (prothymos) — willing; eager; ready
-
-v47: ξίφος (xiphos) — sword
-
-v47: ξύλον (xylon) — club; stick
-
-v49: χαίρω (chairō) — greetings; rejoice
-
-v50: ἑταῖρος (hetairos) — companion; friend
-
-v52: μάχαιρα (machaira) — sword; blade
-
-v53: λεγιών (legiōn) — legion
-
-v55: λῃστής (lēstēs) — robber; bandit; insurgent
-
-v59: ψευδομαρτυρία (pseudomartyria) — false testimony
-
-v63: ἐξορκίζω (exorkizō) — to put under oath; to adjure
-
-v64: δύναμις (dynamis) — power; might; here, Power as divine designation
-
-v65: βλασφημέω (blasphēmeō) — to blaspheme; to speak irreverently
-
-v66: ἔνοχος θανάτου (enochos thanatou) — liable to death; deserving death
-
-v72: ὅρκος (horkos) — oath
-
-v74: καταθεματίζω (katathematizō) — to invoke a curse on oneself
-
-v75: πικρῶς (pikrōs) — bitterly
+v74: καταθεματίζω (katathematizō)
+“To invoke a curse on oneself.”

@@ -6,7 +6,7 @@ translation: TSW
 ---
 
 <p>
-v01: In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month—in the fourteenth year after the city was struck down—on that very day the hand of YHWH was upon me, and he brought me there.
+v01: In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month—in the fourteenth year after the city was struck down—on that very day the hand of the LORD was upon me, and he brought me there.
 </p>
 <p>
 v02: In visions of God he brought me into the land of Israel and set me down on a very high mountain. Upon it was something like the structure of a city, to the south.
@@ -141,7 +141,7 @@ v44: Outside the inner gate were chambers for the singers, in the inner court: o
 v45: He said to me, “This chamber facing south is for the priests who keep charge of the temple.
 </p>
 <p>
-v46: The chamber facing north is for the priests who keep charge of the altar. They are the sons of Zadok, those among the sons of Levi who draw near to YHWH to minister to him.”
+v46: The chamber facing north is for the priests who keep charge of the altar. They are the sons of Zadok, those among the sons of Levi who draw near to the LORD to minister to him.”
 </p>
 <p>
 v47: He measured the court: one hundred cubits long and one hundred cubits wide, square. The altar was in front of the temple.
@@ -152,26 +152,23 @@ v48: Then he brought me to the vestibule of the temple and measured the gatepost
 <p>
 v49: The length of the vestibule was twenty cubits, and its width was eleven cubits. There were steps by which they went up to it, and pillars stood beside the gateposts, one on this side and one on that side.
 </p>
+##Notes
 
-## Notes
+v44: The Hebrew can be read as referring either to chambers “for singers” or to chambers situated in relation to those who sing.
 
-- **40:1:** “The beginning of the year” and “the tenth day of the month” may evoke the calendar setting of the Day of Atonement, though the text does not explicitly name the day.
-- **40:3–4:** The bronze-like man is not identified. His measuring and his command to Ezekiel establish that the vision is to be carefully seen, heard, and reported to “the house of Israel.”
-- **40:5:** The measuring reed consists of six long cubits. The cubit used here includes an additional handbreadth beyond the ordinary cubit.
-- **40:14:** The Hebrew wording is difficult, and ancient versions differ in how they construe the sixty-cubit measurement. The translation preserves the text’s close connection between the gateposts, court, and surrounding gate structure.
-- **40:16:** “Recessed windows” may refer to windows that narrowed inward or outward; their precise architectural form is uncertain.
-- **40:38–43:** The detailed provision for washing, slaughtering, utensils, and offering-flesh makes the sacrificial character of this temple vision explicit rather than merely symbolic.
-- **40:44:** The Hebrew can be read as referring either to chambers “for singers” or to chambers situated in relation to those who sing. The following verses identify priestly responsibilities associated with the chambers.
-- **40:46:** The sons of Zadok are distinguished among the Levites as those permitted to draw near to YHWH for altar ministry. This distinction develops concerns about priestly faithfulness found earlier in Ezekiel.
+##Vocabulary
 
-## Vocabulary
+v03: קָנֶה (qāneh)
+“A measuring reed.” In this vision the reed is the instrument by which the temple’s ordered dimensions are disclosed.
 
-- **v3: קָנֶה (*qāneh*)** — A measuring reed. In this vision the reed is the instrument by which the temple’s ordered dimensions are disclosed.
-- **v7: תָּא (*tāʾ*)** — A gate chamber or guardroom. The repeated chambers make the gateways structured thresholds between the courts.
-- **v9: אַיִל (*ʾayil*)** — Here “gatepost” or structural pillar, not a ram. These elements repeatedly frame entrances and bear palm-tree ornamentation.
-- **v16: תִּמֹרָה (*timōrâ*)** — Palm-tree decoration. The palms mark the gateways with imagery of life and fruitfulness.
-- **v17: רִצְפָּה (*riṣpâ*)** — Pavement. The paved outer court is organized with chambers arranged around it.
-- **v38: עֹלָה (*ʿōlâ*)** — Burnt offering, an offering that ascends in smoke. Its washing and slaughtering are specifically provided for in the temple’s design.
-- **v39: חַטָּאת (*ḥaṭṭāʾt*)** — Sin offering. The term names an offering concerned with sin and purification.
-- **v39: אָשָׁם (*ʾāšām*)** — Guilt offering. It addresses culpability and the restoration required by wrongdoing.
-- **v46: קָרֵב (*qārēb*)** — “Draw near.” The priests’ ministry is described as approaching YHWH, joining physical proximity to the altar with authorized service.
+v07: תָּא (tāʾ)
+“A gate chamber or guardroom.” The repeated chambers make the gateways structured thresholds between the courts.
+
+v38: עֹלָה (ʿōlâ)
+“Burnt offering, an offering that ascends in smoke.” Its washing and slaughtering are specifically provided for in the temple’s design.
+
+v39: חַטָּאת (ḥaṭṭāʾt)
+“Sin offering. The term names an offering concerned with sin and purification.”
+
+v39: אָשָׁם (ʾāšām)
+“Guilt offering. It addresses culpability and the restoration required by wrongdoing.”

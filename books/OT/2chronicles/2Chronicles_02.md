@@ -54,16 +54,7 @@ v17: Solomon counted all the resident aliens who were in the land of Israel afte
 
 v18: He appointed seventy thousand of them as burden-bearers, eighty thousand as stonecutters in the hill country, and three thousand six hundred as overseers to make the people work.
 </p>
-
 ##Notes
-
-v04: The temple is for God’s name and for ordered worship, not because God can be contained by a building.
-
-v06: Solomon explicitly confesses that even the highest heavens cannot contain God.
-
-v14: Chronicles describes Huram-Abi’s maternal ancestry differently from 1 Kings 7:14, which associates his mother with Naphtali. TSW preserves Chronicles’ form.
-
-v17–18: The labor force is drawn from resident aliens living in Israel. The text presents this as royal labor organization within the ancient monarchy.
 
 ##Vocabulary
 

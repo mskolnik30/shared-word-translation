@@ -26,7 +26,7 @@ v06: Israel became very impoverished because of Midian, and the children of Isra
 <p>
 v07: When the children of Israel cried out to the LORD because of Midian,
 
-v08: the LORD sent a prophet to the children of Israel, who said to them, “Thus says the LORD, the God of Israel: I brought you up from Egypt and brought you out from the house of slavery.
+v08: The LORD sent a prophet to the children of Israel, who said to them, “Thus says the LORD, the God of Israel: I brought you up from Egypt and brought you out from the house of slavery.
 
 v09: I delivered you from the hand of Egypt and from the hand of all who oppressed you. I drove them out before you and gave you their land.
 
@@ -112,36 +112,17 @@ v39: Then Gideon said to God, “Do not let your anger burn against me. Let me s
 
 v40: And God did so that night. The fleece alone was dry, and there was dew on all the ground.
 </p>
+##Notes
 
-## Notes
+v34: The Hebrew literally says that the Spirit “clothed” Gideon.
 
-v11: Gideon threshes wheat in a winepress, an unusual place for threshing, because he is hiding produce from Midian. The setting embodies Israel’s fear before Gideon is called “mighty warrior.”
-
-v13: Gideon’s question directly challenges the apparent contradiction between the LORD’s promised presence and Israel’s present suffering. The text allows the protest to stand.
-
-v14: “this strength of yours” — Gideon has not yet displayed military strength. The command places divine sending before visible qualification.
-
-v22–23: Gideon fears death after seeing the messenger of the LORD. The response “Peace to you” becomes the basis for the altar’s name.
-
-v25–32: Gideon’s first conflict is not against Midian but against idolatry within his own household and town.
-
-v34: “clothed Gideon” — The Hebrew literally says the Spirit “clothed” Gideon, portraying divine empowerment as something enveloping him.
-
-v36–40: Gideon’s signs with the fleece follow an explicit promise already given. The narrative portrays his continuing need for assurance rather than presenting fleece-testing as a universal method for discernment.
-
-## Vocabulary
+##Vocabulary
 
 v01: מִדְיָן (Midyan)
 “Midian.” A people east and south of Israel who become major oppressors in Gideon’s cycle.
 
 v06: דָּלַל (dalal)
 “To become low” or “impoverished.” Israel is brought into severe weakness.
-
-v12: גִּבּוֹר הֶחָיִל (gibbor he-chayil)
-“Mighty warrior” or “mighty man of valor.” The surprising title given to Gideon.
-
-v17: אוֹת (ot)
-“Sign.” A confirming mark or event.
 
 v24: שָׁלוֹם (shalom)
 “Peace,” “wholeness,” or “well-being.” Used in the altar name “The LORD Is Peace.”
@@ -151,6 +132,3 @@ v32: יָרַב (yarav)
 
 v34: לָבַשׁ (lavash)
 “To clothe.” Used figuratively of the Spirit enveloping Gideon.
-
-v37: גִּזָּה (gizzah)
-“Fleece.” Sheared wool used in Gideon’s requested sign.

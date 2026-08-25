@@ -78,28 +78,7 @@ v26: He said to him, “Did not my heart go when the man turned from his chariot
 
 v27: Therefore Naaman’s skin disease shall cling to you and to your offspring forever.” Then he went out from before him diseased, like snow.
 </p>
-
 ##Notes
-
-v01: Naaman is a foreign military commander, yet the narrator says the LORD had given victory to Aram through him. Divine sovereignty extends beyond Israel’s political interests.
-
-v01: The Hebrew *tsara'at* describes a range of skin conditions and does not correspond neatly to modern Hansen’s disease. TSW uses “skin disease.”
-
-v02–03: The first person to point Naaman toward healing is an unnamed captive Israelite girl serving in the household of the commander who benefits from raids against Israel.
-
-v07: The king of Israel interprets the diplomatic request politically and fails to remember the prophetic power available within his own kingdom.
-
-v10: Elisha does not perform a dramatic ritual. Naaman’s healing depends on obeying a simple prophetic command.
-
-v11–12: Naaman’s anger arises partly because the cure does not match his expectations of status, spectacle, or superior geography.
-
-v14: The restored flesh “like a little child” reverses both disease and Naaman’s earlier pride.
-
-v17: Naaman’s request for Israelite earth reflects an ancient association between deity and land. His confession of the LORD is genuine but still expressed through his inherited religious worldview.
-
-v18: Naaman anticipates official duties in Rimmon’s temple and asks pardon in advance. Elisha’s “Go in peace” neither elaborates a rule nor explicitly condemns him.
-
-v20–27: Gehazi turns prophetic grace into a market opportunity. The punishment transfers Naaman’s former condition onto the servant who tried to profit from healing.
 
 ##Vocabulary
 
@@ -112,23 +91,5 @@ v01: תְּשׁוּעָה (teshuah)
 v10: רָחַץ (rachats)
 “To wash.” Naaman’s commanded action.
 
-v14: טָבַל (taval)
-“To dip” or immerse. Naaman dips seven times.
-
-v15: מִנְחָה (minchah)
-“Gift” or tribute. Naaman offers payment after healing.
-
-v17: אֲדָמָה (adamah)
-“Ground” or soil. Naaman asks for Israelite earth.
-
-v18: רִמּוֹן (Rimmon)
-“Rimmon.” The Aramean deity worshiped in Damascus.
-
 v19: שָׁלוֹם (shalom)
 “Peace.” Elisha’s word to Naaman.
-
-v20: חָשַׂךְ (chasakh)
-“To spare” or withhold. Gehazi resents Elisha’s refusal of payment.
-
-v27: דָּבַק (davaq)
-“To cling.” The disease is pronounced to cling to Gehazi.

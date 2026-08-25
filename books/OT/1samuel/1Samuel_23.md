@@ -92,22 +92,7 @@ v28: So Saul returned from pursuing David and went to meet the Philistines. Ther
 
 v29: David went up from there and stayed in the strongholds of En-Gedi.
 </p>
-
 ##Notes
-
-v02–05: David continues defending Israelite towns even while hunted by Israel’s king, highlighting the contrast between his public service and Saul’s obsession.
-
-v07: Saul interprets David’s arrival in a walled city as divine surrender into his hand, but the rest of the chapter repeatedly shows the opposite.
-
-v11–12: The oracle reveals what would happen if David remained. Divine foreknowledge here does not remove David’s ability to leave and change the immediate outcome.
-
-v16: Jonathan “strengthened his hand in God,” one of Scripture’s concise descriptions of faithful friendship: he helps David trust God’s promise rather than merely offering emotional support.
-
-v17: Jonathan explicitly recognizes David’s future kingship and accepts a subordinate place, in contrast with Saul’s dynastic anxiety.
-
-v21: Saul invokes the LORD’s blessing upon men helping him hunt David, another example of religious language functioning within distorted judgment.
-
-v26–28: David’s escape comes not through combat but through an external Philistine crisis that forces Saul away.
 
 ##Vocabulary
 
@@ -120,17 +105,5 @@ v02: יָשַׁע (yasha)
 v07: נָכַר (nakhar)
 “To reject/deliver over.” Saul says God has handed David over.
 
-v09: אֵפוֹד (ephod)
-“Ephod.” Used in priestly inquiry.
-
-v14: מְצָדוֹת (metsadot)
-“Strongholds.”
-
-v16: חִזֵּק יָדוֹ בֵּאלֹהִים (chizzeq yado be-Elohim)
-“Strengthened his hand in God.”
-
 v18: בְּרִית (berit)
 “Covenant.”
-
-v28: סֶלַע הַמַּחְלְקוֹת (Sela ha-Machleqot)
-“Rock of Escape/Division.” A place-name tied to the narrow escape.

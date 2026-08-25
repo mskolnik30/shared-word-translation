@@ -72,28 +72,7 @@ v21: “You shall not plant for yourself an Asherah of any kind of tree beside t
 
 v22: And you shall not set up for yourself a pillar, which the LORD your God hates.
 </p>
-
 ##Notes
-
-v01: Deuteronomy’s Passover instructions centralize sacrifice at the chosen place while retaining the exodus memory of Abib and night departure.
-
-v02: “flock and herd” broadens the sacrificial description beyond the lamb or goat emphasized in Exodus 12, likely including festival sacrifices associated with Passover.
-
-v03: Unleavened bread is called “bread of affliction,” linking the festival both to hurried departure and remembered hardship.
-
-v08: The seventh-day solemn assembly completes the festival period, though the preceding verse places Passover itself at the chosen sanctuary.
-
-v09: The Festival of Weeks is counted from the beginning of grain harvest rather than by a fixed calendar date in this chapter.
-
-v11, v14: Festival joy is explicitly inclusive of servants, Levites, resident aliens, orphans, and widows.
-
-v12: Memory of slavery again becomes an ethical and liturgical obligation.
-
-v18–20: The chapter moves from worship festivals to judicial institutions, linking covenant life in sanctuary and city gate.
-
-v20: “Justice, justice” is emphatic repetition. The community’s continued life in the land is tied to pursuing justice.
-
-v21–22: The prohibition prevents the LORD’s altar from being combined with cultic symbols associated with other worship.
 
 ##Vocabulary
 
@@ -103,26 +82,8 @@ v01: פֶּסַח (pesach)
 v03: לֶחֶם עֹנִי (lechem oni)
 “Bread of affliction.” Unleavened bread tied to exodus hardship.
 
-v08: עֲצֶרֶת (atseret)
-“Solemn assembly.” A sacred concluding gathering.
-
-v10: חַג שָׁבֻעוֹת (chag shavuot)
-“Festival of Weeks.” The grain-harvest pilgrimage festival.
-
-v13: חַג הַסֻּכּוֹת (chag ha-sukkot)
-“Festival of Booths.” The autumn ingathering festival.
-
 v18: שֹׁפֵט (shofet)
 “Judge.” One appointed to administer justice.
 
-v19: שֹׁחַד (shochad)
-“Bribe.” A payment that corrupts judgment.
-
 v20: צֶדֶק (tsedeq)
-“Justice” or “righteousness.” Repeated for emphasis.
-
-v21: אֲשֵׁרָה (Asherah)
-“Asherah.” A cultic tree or pole associated with rival worship.
-
-v22: מַצֵּבָה (matsevah)
-“Pillar.” A standing cultic stone.
+“Justice” or “righteousness.” The word is repeated in the command, “Justice, justice you shall pursue.”

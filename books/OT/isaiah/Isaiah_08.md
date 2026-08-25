@@ -18,14 +18,14 @@ v04: For before the child knows how to say, 'My father,' and, 'My mother,' the r
 v05: The LORD spoke to me yet again, saying,
 v06: "Because this people have refused the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah's son;
 v07: now therefore, look, the Lord brings upon them the mighty flood waters of the River: the king of Assyria and all his glory. It will come up over all its channels, and go over all its banks.
-v08: It will sweep onward into Judah. It will overflow and pass through;  
-it will reach even to the neck;  
+v08: It will sweep onward into Judah. It will overflow and pass through;
+it will reach even to the neck;
 and the stretching out of its wings will fill the breadth of your land, Immanuel.
 </p>
 
 <p>
 v09: Make an uproar, you peoples, and be broken in pieces! Listen, all you from far countries: dress for battle, and be shattered! Dress for battle, and be shattered!
-v10: Take counsel together, and it will be brought to nothing;  
+v10: Take counsel together, and it will be brought to nothing;
 speak the word, and it will not stand: for God is with us."
 v11: For the LORD spoke thus to me with a strong hand, and instructed me not to walk in the way of this people, saying,
 v12: "Don't say, 'A conspiracy!' concerning all about which this people say, 'A conspiracy!' neither fear their threats, nor be terrorized.
@@ -46,20 +46,11 @@ v20: Turn to the law and to the testimony! If they do not speak according to thi
 </p>
 
 <p>
-v21: They will pass through it, sore distressed and hungry;  
+v21: They will pass through it, sore distressed and hungry;
 and it will happen that when they are hungry, they will worry, and curse by their king and by their God. They will turn their faces upward,
 v22: and look to the earth, and see distress, darkness, and the gloom of anguish. They will be driven into thick darkness.
 </p>
-
 ##Notes
-
-v03: “Maher-Shalal-Hash-Baz” — The child’s symbolic name means approximately “swift is the spoil, speedy is the prey,” embodying the coming Assyrian crisis.
-
-v13: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
-
-v18: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
-
-v07: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.
 
 ##Vocabulary
 
@@ -67,10 +58,10 @@ v01: מַהֵר שָׁלָל חָשׁ בַּז (maher shalal hash baz)
 “Swift is the spoil, speedy is the prey.” The symbolic name given to Isaiah’s son.
 
 v13: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A divine title emphasizing sovereign command.
+“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
 v18: צִיּוֹן (tsiyyon)
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
+“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
 v07: כָּבוֹד (kavod)
 “Glory.” Weight, honor, or manifest splendor.

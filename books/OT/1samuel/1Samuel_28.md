@@ -84,26 +84,7 @@ v24: The woman had a fattened calf in the house, and she hurried and slaughtered
 
 v25: She brought it before Saul and before his servants, and they ate. Then they arose and went away that night.
 </p>
-
 ##Notes
-
-v03: Saul had formally removed mediums and spiritists from the land, making his later search for one a deliberate reversal of his own policy and Torah’s prohibition.
-
-v06: The LORD’s silence is comprehensive: dreams, priestly Urim, and prophets all fail to provide Saul an answer.
-
-v08: Saul asks the medium to perform precisely the kind of practice he had outlawed.
-
-v12: The woman’s shocked cry has led many interpreters to infer that Samuel’s appearance exceeds her normal practice, but the text does not explain the mechanism.
-
-v13: “Divine being” translates *elohim* in the woman’s description. The word can refer to God, gods, or a supernatural being depending on context.
-
-v14: Saul identifies the figure as Samuel from the woman’s description of an old man in a robe; the narrative then speaks of the figure simply as Samuel.
-
-v15–19: Samuel gives no new route of escape. His message reiterates the consequences already announced because Saul rejected the LORD’s word concerning Amalek.
-
-v19: “Tomorrow you and your sons shall be with me” most naturally means they will join Samuel among the dead. The verse does not provide a developed theology of the afterlife.
-
-v21–25: The medium, whom Saul approached to obtain forbidden knowledge, becomes the person who feeds and strengthens the terrified king before his final night.
 
 ##Vocabulary
 
@@ -116,20 +97,5 @@ v03: יִדְּעֹנִי (yidde'oni)
 v06: אוּרִים (Urim)
 “Urim.” A priestly means of inquiry.
 
-v08: קָסַם (qasam)
-“To practice divination.”
-
-v13: אֱלֹהִים (elohim)
-“Divine being” in the woman’s description.
-
-v15: צָרַר (tsarar)
-“To be in distress.”
-
 v17: קָרַע (qara)
 “To tear.” The kingdom is torn from Saul.
-
-v21: שִׂים נֶפֶשׁ בְּכַף (sim nefesh be-khaf)
-“To place life in the hand.” To risk one’s life.
-
-v24: עֵגֶל מַרְבֵּק (egel marbeq)
-“Fattened calf.”

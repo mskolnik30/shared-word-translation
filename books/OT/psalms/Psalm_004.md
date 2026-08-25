@@ -48,57 +48,18 @@ than they have when their grain and wine abound.
 v08: In peace I will both lie down and sleep;
 for you alone, O LORD, make me dwell in safety.
 </p>
+##Notes
 
-## Notes
-v1: Past deliverance grounds present appeal (“you have given me relief”).
+##Vocabulary
 
-v2: The conflict centers on honor/shame and truth/falsehood.
-
-v3: Being “set apart” defines identity before action.
-
-v4: Anger is acknowledged but bounded—reflection leads to restraint.
-
-v5: Proper worship is linked with trust, not mere ritual.
-
-v6: The desire for “good” is redirected toward God’s presence.
-
-v7: Inner joy surpasses external prosperity.
-
-v8: Peace and sleep function as expressions of trust.
-
-## Vocabulary
-v1: עָנָה (anah)  
+v01: עָנָה (anah)
 “To answer.” Respond to a call.
 
-v1: צַר (tsar)  
+v01: צַר (tsar)
 “Distress.” Pressure or trouble.
 
-v2: כָּבוֹד (kavod)  
-“Honor.” Reputation or weight.
-
-v2: רִיק (riq)  
-“Vain.” Empty.
-
-v3: פָּלָה (palah)  
-“To set apart.” Distinguish.
-
-v4: רָגַז (ragaz)  
-“To tremble/be angry.” Emotional disturbance.
-
-v4: דָּמַם (damam)  
-“To be silent.” Be still.
-
-v5: זֶבַח (zevach)  
+v05: זֶבַח (zevach)
 “Sacrifice.” Offering.
 
-v6: אוֹר (or)  
-“Light.” Presence or favor.
-
-v7: שִׂמְחָה (simchah)  
-“Joy.” Gladness.
-
-v8: שָׁלוֹם (shalom)  
+v08: שָׁלוֹם (shalom)
 “Peace.” Wholeness.
-
-v8: בֶּטַח (betach)  
-“Safety.” Security.

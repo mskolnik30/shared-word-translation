@@ -5,7 +5,8 @@ chapter: 71
 translation: TSW
 ---
 
-v01: In you, O Yahweh, I have taken refuge;
+<p>
+v01: In you, O LORD, I have taken refuge;
         let me never be put to shame.
 v02: In your righteousness, deliver me and rescue me;
         incline your ear to me and save me.
@@ -15,7 +16,7 @@ v03: Be to me a rock of refuge,
         for you are my rock and my fortress.
 v04: Deliver me, my God, from the hand of the wicked,
         from the grasp of the unjust and cruel.
-v05: For you are my hope, O Lord Yahweh,
+v05: For you are my hope, O Lord GOD,
         my trust from my youth.
 v06: Upon you I have relied from my birth;
         it was you who took me from my mother's womb.
@@ -42,7 +43,7 @@ v14: But I will hope continually,
 v15: My mouth will tell of your righteousness,
         of your salvation all day long,
         though I know not their numbers.
-v16: I will come in the strength of the Lord Yahweh;
+v16: I will come in the strength of the Lord GOD;
         I will make mention of your righteousness, yours alone.
 v17: O God, you have taught me from my youth,
         and I still declare your wondrous deeds.
@@ -69,16 +70,13 @@ v24: My tongue will declare your righteousness
         all day long,
     for they have been put to shame, for they have been humiliated,
         those who seek to harm me.
-```
+</p>
+##Notes
 
-## Notes
+##Vocabulary
 
-- **v1:** "refuge" — A thematic anchor, indicating the psalmist’s reliance and trust in God's protection.
-- **v5:** "hope... trust" — These interconnected concepts reinforce the psalmist's lifelong dependence on God.
-- **v15:** "though I know not their numbers" — Acknowledges the psalmist's inability to fully comprehend the extent of God's righteousness and salvation.
-- **v20:** "restore my life again" — Indicates hope for redemption and life renewal, even after distress.
+v01: יְהוָה (yehovah)
+“LORD.” The divine name, represented in English by small-capital LORD.
 
-## Vocabulary
-
-- **v1 יְהוָה (yehovah)**: Yahweh — Denotes the personal name of God, emphasizing a covenantal relationship throughout the psalm.
-- **v15 תְּשׁוּעָה (teshuah)**: salvation — Referencing the comprehensive deliverance and intervention of God on behalf of the psalmist.
+v15: תְּשׁוּעָה (teshuah)
+“Salvation; deliverance.” Rescue or saving help.

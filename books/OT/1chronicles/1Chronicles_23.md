@@ -132,27 +132,22 @@ v31: and for every offering of burnt offerings to the LORD on the Sabbaths, at t
 <p>
 v32: They were to keep the charge of the tent of meeting, the charge of the holy place, and the charge of the sons of Aaron, their relatives, for the service of the house of the LORD.
 </p>
+##Notes
 
-## Notes
+v09: The Hebrew textual tradition preserves a variation in the first name in Shimei’s line: *Shelomoth* is read here, while another form, *Shelomith*, appears in the written tradition.
 
-- **23:1** “Made his son Solomon king” presents David’s action directly. The account emphasizes an ordered transition of kingship, while the broader biblical narrative also speaks of God’s choosing and establishing Solomon.
+v27: “According to the last words of David” may mean David’s final instructions or a final record associated with him. The phrase gives special weight to the revised enrollment beginning at age twenty.
 
-- **23:3, 24, 27** The chapter first counts Levites from thirty years old and upward, then speaks of those from twenty years old and upward. The later age apparently reflects David’s final organization of Levite service, now that the tabernacle was no longer to be transported.
+##Vocabulary
 
-- **23:9** The Hebrew textual tradition preserves a variation in the first name in Shimei’s line: *Shelomoth* is read here, while another form, *Shelomith*, appears in the written tradition. The verse’s total of three supports the reading followed in the translation.
+v13: קֹדֶשׁ (qodesh)
+“holiness; holy thing.” Repeated as “the most holy things,” this term marks what belongs especially to the LORD and is entrusted to Aaron and his sons.
 
-- **23:13** “The most holy things” may refer broadly to the holiest sacred matters and offerings, rather than only to a physical inner sanctuary. Aaron’s being set apart frames priestly work as service before the LORD, not merely religious administration.
+v24: עֲבֹדָה (avodah)
+“service.” This word describes the Levites’ work in the house of the LORD. Their labor is not presented as ordinary employment but as ordered service directed toward God’s worship.
 
-- **23:25** David’s declaration that the LORD “dwells in Jerusalem forever” expresses the enduring theological significance of God’s chosen dwelling among Israel. The language of permanence stands within a biblical story that also holds together divine presence, judgment, exile, and restoration.
+v28: מַעֲמָד (maʿamad)
+“station; assigned duty.” The Levites’ station is “alongside” the sons of Aaron they assist the priests while retaining their own distinct responsibilities.
 
-- **23:27** “According to the last words of David” may mean David’s final instructions or a final record associated with him. The phrase gives special weight to the revised enrollment beginning at age twenty.
-
-## Vocabulary
-
-- **23:13 — קֹדֶשׁ (*qodesh*), “holiness; holy thing.”** Repeated as “the most holy things,” this term marks what belongs especially to the LORD and is entrusted to Aaron and his sons.
-
-- **23:24, 28, 32 — עֲבֹדָה (*avodah*), “service.”** This word describes the Levites’ work in the house of the LORD. Their labor is not presented as ordinary employment but as ordered service directed toward God’s worship.
-
-- **23:28 — מַעֲמָד (*maʿamad*), “station; assigned duty.”** The Levites’ station is “alongside” the sons of Aaron: they assist the priests while retaining their own distinct responsibilities.
-
-- **23:32 — מִשְׁמֶרֶת (*mishmeret*), “charge; responsibility.”** Repeated three times, the word emphasizes careful guardianship of the tent of meeting, the holy place, and the priestly service.
+v32: מִשְׁמֶרֶת (mishmeret)
+“charge; responsibility.” Repeated three times, the word marks careful guardianship of the tent of meeting, the holy place, and the priestly service.

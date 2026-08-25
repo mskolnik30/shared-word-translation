@@ -58,7 +58,7 @@ v15: Indeed, the hand of the LORD was against them to destroy them from the mids
 <p>
 v16: “When all the men of war had finished dying from among the people,
 
-v17: the LORD spoke to me, saying,
+v17: The LORD spoke to me, saying,
 
 v18: ‘Today you are crossing the border of Moab at Ar.
 
@@ -112,26 +112,7 @@ v36: From Aroer, which is on the edge of the Wadi Arnon, and the city that is in
 
 v37: Only to the land of the children of Ammon you did not draw near: all the side of the Wadi Jabbok, the cities of the hill country, and wherever the LORD our God had commanded us not to go.
 </p>
-
 ##Notes
-
-v05, v09, v19: Israel is explicitly forbidden to seize Edom, Moab, or Ammon because the LORD has assigned those lands to other peoples. Divine land-giving is not limited to Israel.
-
-v10–12, v20–23: The chapter recalls earlier populations and migrations to show that Israel’s conquest occurs within a wider history of peoples replacing peoples.
-
-v14–15: The thirty-eight years mark the passing of the wilderness generation condemned after Kadesh-Barnea.
-
-v21–22: The LORD is described as giving victory to Ammon and Edom over earlier inhabitants, again locating Israel within a broader theology of nations and land.
-
-v23: Caphtor is associated with the origins of the Philistines and other Aegean-related peoples.
-
-v25: The fear of Israel is said to spread before the battle with Sihon, preparing the way for conquest.
-
-v26: Moses first sends “words of peace,” showing that battle with Sihon follows refused passage rather than unannounced attack.
-
-v30: Sihon’s hardened spirit and stubborn heart echo Pharaoh. Divine hardening and human refusal remain together in the narrative.
-
-v34: The *herem* language is severe and comprehensive, including noncombatants. TSW preserves the ancient conquest account without turning it into a general authorization of religious violence.
 
 ##Vocabulary
 
@@ -149,12 +130,3 @@ v11: רְפָאִים (Rephaim)
 
 v14: תָּמַם (tamam)
 “To come to an end.” Used of the passing wilderness generation.
-
-v25: רֶטֶט (retet)
-“Trembling.” Fear that falls upon surrounding peoples.
-
-v30: קָשָׁה (qashah)
-“To harden.” The LORD makes Sihon’s heart stubborn.
-
-v34: חָרַם (charam)
-“To devote to destruction.” To place under irrevocable ban.

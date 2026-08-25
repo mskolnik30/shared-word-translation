@@ -44,39 +44,18 @@ v07: Oh, that salvation for Israel would come out of Zion!
 When the LORD restores the fortunes of his people,
 let Jacob rejoice, let Israel be glad.
 </p>
+##Notes
 
-## Notes
-v1: Denial of God is ethical, not merely intellectual.
+##Vocabulary
 
-v2–3: Universal corruption is observed from divine perspective.
-
-v4: Exploitation is normalized (“eat…as bread”).
-
-v5–6: God’s presence distinguishes the righteous despite oppression.
-
-v7: Final hope is communal restoration.
-
-## Vocabulary
-v1: נָבָל (naval)  
+v01: נָבָל (naval)
 “Fool.” Morally deficient.
 
-v1: שָׁחַת (shachat)  
+v01: שָׁחַת (shachat)
 “To corrupt.” Ruin.
 
-v2: שָׂכַל (sakal)  
+v02: שָׂכַל (sakal)
 “To understand.” Act wisely.
 
-v3: סוּר (sur)  
-“To turn aside.” Deviate.
-
-v4: יָדַע (yada‘)  
-“To know.” Recognize.
-
-v5: פַּחַד (pachad)  
-“Terror.” Fear.
-
-v6: חָסָה (chasah)  
-“To take refuge.” Seek shelter.
-
-v7: יְשׁוּעָה (yeshuah)  
+v07: יְשׁוּעָה (yeshuah)
 “Salvation.” Deliverance.

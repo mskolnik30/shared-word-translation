@@ -6,6 +6,7 @@ translation: TSW
 ---
 
 ## A Psalm of the LORD’s Reign
+<p>
 v01: The LORD reigns; let the peoples tremble.
   He sits enthroned upon the cherubim; let the earth quake.
 
@@ -39,42 +40,21 @@ v08: O LORD our God, you answered them;
 v09: Exalt the LORD our God,
   and bow down at his holy mountain;
   for the LORD our God is holy.
+</p>
+##Notes
 
-  ## Notes
-## Notes
+v04: “The strength of the king loves justice” — The Hebrew syntax is compact and slightly ambiguous.
 
-v1: “He sits enthroned upon the cherubim” — A royal and temple image. The language evokes the ark and divine enthronement without explaining how God is “located.” The spatial imagery is retained.
+##Vocabulary
 
-v3: “Holy is he” — Refrain repeated in vv05 and 09. Holiness frames the psalm’s theology of kingship, anchoring power in otherness rather than domination.
+v03: קָדוֹשׁ (qadosh)
+“Holy; set apart, distinct, wholly other.”
 
-v4: “The strength of the king loves justice” — The Hebrew syntax is compact and slightly ambiguous. The line may speak of the king’s strength or of strength itself loving justice. The compression is preserved.
+v04: מִשְׁפָּט (mishpat)
+“Justice; judicial order, right judgment.”
 
-v5: “bow down at his footstool” — The “footstool” likely refers to the ark or temple, yet the metaphor is left uninterpreted. The psalm holds together divine transcendence and earthly locus.
+v04: צְדָקָה (tsedaqah)
+“Righteousness; relational rightness, covenantal faithfulness.”
 
-v6: “Moses and Aaron… Samuel” — Priestly and prophetic figures are named together. The psalm does not separate leadership roles but unites them in intercession.
-
-v7: “In the pillar of cloud he spoke” — A theophanic image recalling wilderness tradition. The visible sign and divine speech remain joined.
-
-v8: “a forgiving God… yet an avenger of their deeds” — Mercy and judgment stand in parallel. The psalm refuses to resolve the tension between forgiveness and accountability.
-
-v9: “his holy mountain” — Likely Zion, yet the phrase remains liturgical rather than geographic. Holiness concludes the psalm as it began, enclosing the reign of God within reverent awe.
-
-  ## Vocabulary
-v1: יְהוָה מָלָךְ (*YHWH malakh*) — “The LORD reigns”; royal enthronement formula announcing divine kingship.
-
-v1: כְּרוּבִים (*keruvim*) — cherubim; throne guardians associated with the ark and divine presence.
-
-v3: קָדוֹשׁ (*qadosh*) — holy; set apart, distinct, wholly other.
-
-v4: מִשְׁפָּט (*mishpat*) — justice; judicial order, right judgment.
-
-v4: צְדָקָה (*tsedaqah*) — righteousness; relational rightness, covenantal faithfulness.
-
-v5: הֲדֹם רַגְלָיו (*hadom raglav*) — footstool of his feet; royal-temple imagery expressing sovereignty with proximity.
-
-v7: עֵדוֹת (*edot*) — testimonies; covenantal stipulations bearing witness to divine will.
-
-v8: נֹשֵׂא (*nose’*) — forgiving, bearing away; participial form suggesting ongoing disposition.
-
-v8: נֹקֵם (*noqem*) — avenger; one who executes justice or retribution.
-  
+v07: עֵדוֹת (edot)
+“Testimonies; covenantal stipulations bearing witness to divine will.”

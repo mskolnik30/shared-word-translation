@@ -36,37 +36,18 @@ v05: For the LORD is good;
 his steadfast love endures forever,
 and his faithfulness to all generations.
 </p>
+##Notes
 
-## Notes
-v1–2: Worship is communal and global (“all the earth”) and marked by joy.
+##Vocabulary
 
-v3: Identity is defined by belonging—created and claimed by God.
-
-v4: Movement into worship is intentional (“enter…give thanks…bless”).
-
-v5: God’s character (goodness, steadfast love, faithfulness) grounds praise.
-
-## Vocabulary
-v1: רוּעַ (rua‘)
+v01: רוּעַ (rua‘)
 “To shout.” Raise a joyful cry.
 
-v2: עָבַד (avad)
+v02: עָבַד (avad)
 “To serve.” Worship through action.
 
-v3: יָדַע (yada‘)
-“To know.” Recognize relationally.
-
-v3: רָעָה (ra‘ah)
-“To pasture.” Shepherding care.
-
-v4: תּוֹדָה (todah)
-“Thanksgiving.” Expression of gratitude.
-
-v5: טוֹב (tov)
-“Good.” Beneficial and right.
-
-v5: חֶסֶד (chesed)
+v05: חֶסֶד (chesed)
 “Steadfast love.” Covenant loyalty.
 
-v5: אֱמוּנָה (emunah)
+v05: אֱמוּנָה (emunah)
 “Faithfulness.” Reliability.

@@ -88,30 +88,7 @@ v21: When you harvest your vineyard, you shall not glean it again afterward. Wha
 
 v22: You shall remember that you were a servant in the land of Egypt. Therefore I command you to do this thing.
 </p>
-
 ##Notes
-
-v01–04: The passage regulates a specific remarriage scenario rather than giving a complete theology of divorce. The prohibition falls on the first husband taking the woman back after an intervening marriage.
-
-v01: “some indecent matter” is deliberately unspecific and became the subject of later legal debate. TSW preserves its open wording.
-
-v04: “defiled” describes the legal status created by the intervening marriage in this case, not a general condemnation of the divorced woman’s moral character.
-
-v05: The newly married husband is freed from military and public duties for one year so the new household can be established.
-
-v06: Millstones are essential to daily food preparation. Taking them as collateral threatens the borrower’s means of life.
-
-v07: Kidnapping, enslaving, or selling a fellow Israelite is treated as a capital crime.
-
-v08: The Hebrew term traditionally rendered “leprosy” refers to a range of skin conditions and does not map neatly onto modern Hansen’s disease. TSW uses “skin disease.”
-
-v10–13: The lender must remain outside the debtor’s house, limiting humiliating or coercive seizure of collateral.
-
-v15: The worker “sets his life” upon the daily wage because survival depends upon immediate payment.
-
-v16: This legal principle prohibits executing family members for another person’s crime. Other texts address intergenerational consequences in different theological contexts; TSW preserves this court rule distinctly.
-
-v19–22: Agricultural inefficiency becomes mandated generosity. Forgotten sheaves and remaining olives and grapes create food access for the vulnerable.
 
 ##Vocabulary
 
@@ -121,29 +98,8 @@ v01: סֵפֶר כְּרִיתֻת (sefer keritut)
 v01: עֶרְוַת דָּבָר (ervat davar)
 “Indecent matter.” A deliberately broad legal phrase.
 
-v06: רֵחַיִם (rechayim)
-“Handmill.” Equipment for grinding grain.
-
 v07: גָּנַב נֶפֶשׁ (ganav nefesh)
 “To kidnap a person.” Literally to steal a life/person.
 
-v08: צָרַעַת (tsara'at)
-“Skin disease.” A ritual-medical category broader than modern leprosy.
-
-v10: עֲבוֹט (avot)
-“To take a pledge.” To receive collateral for a loan.
-
-v14: עָשַׁק (ashaq)
-“To oppress” or “defraud.” Especially withholding what is due.
-
-v15: שָׂכָר (sakhar)
-“Wages.” Payment owed to hired labor.
-
 v17: הַטָּה מִשְׁפָּט (hattah mishpat)
 “To distort justice.” To bend legal judgment unfairly.
-
-v19: עֹמֶר (omer)
-“Sheaf.” A bundle of harvested grain.
-
-v21: עָלַל (alal)
-“To glean.” To gather remaining fruit after the main harvest.

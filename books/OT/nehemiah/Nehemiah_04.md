@@ -55,29 +55,18 @@ v21: So we worked at the work, while half held the spears from the rising of daw
 v22: At that time I also said to the people, “Let each person and servant spend the night inside Jerusalem, so that they may be a guard for us by night and labor by day.”
 v23: Neither I, nor my relatives, nor my servants, nor the men of the guard who followed me took off our clothes; each kept a weapon at hand, even at the water.
 </p>
-
 ##Notes
-v02–03: The opponents attack both the capacity of the workers and the quality of the construction. Mockery becomes part of the pressure placed on the rebuilding community.
-v04–05: Nehemiah’s prayer asks for judgment in the language of corresponding shame and exile. The text does not soften the severity of the appeal.
-v06: “heart to work” — The Hebrew places the community’s inner resolve at the center of the building effort.
-v09: Prayer and practical vigilance are placed together: the people pray and set a guard.
-v12: “ten times” functions idiomatically for repeated warning rather than necessarily requiring ten separate documented visits.
-v14: “Remember the Lord” precedes the call to defend families and homes; courage is grounded in divine identity rather than confidence in weaponry.
-v17: The description compresses work and defense into a single image: construction continues while danger remains present.
-v23: The final Hebrew phrase is difficult and textually compressed. TSW preserves the association of weapon and water without claiming a more precise reconstruction than the text securely allows.
 
 ##Vocabulary
+
 v01: לָעַג (la'ag)
 “To mock” or “deride.” Speech intended to belittle and discourage.
+
 v06: לֵב (lev)
 “Heart.” The center of resolve, intention, and thought.
+
 v08: קָשַׁר (qashar)
 “To conspire” or “bind together.” To form a joint plot.
+
 v09: מִשְׁמָר (mishmar)
 “Guard” or “watch.” Organized vigilance for protection.
-v14: יָרֵא (yare)
-“To fear.” Here the command rejects fear of enemies while recalling reverent awe before the Lord.
-v15: פָּרַר (parar)
-“To frustrate” or “break.” To bring counsel or plans to nothing.
-v20: לָחַם (lacham)
-“To fight.” Used here of God fighting for the people.

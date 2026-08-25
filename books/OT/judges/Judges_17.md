@@ -38,24 +38,11 @@ v12: Micah ordained the Levite, and the young man became his priest and was in M
 
 v13: Then Micah said, “Now I know that the LORD will do good to me, because I have a Levite as priest.”
 </p>
+##Notes
 
-## Notes
+v06: “Everyone did what was right in their own eyes” becomes the interpretive refrain for the final chapters of Judges.
 
-v02–03: Curse and blessing, theft and consecration, and devotion to the LORD and image-making are placed side by side without resolution. The chapter portrays a religious world in which incompatible practices have become normalized.
-
-v03–04: The silver is said to be consecrated “to the LORD” specifically for an image, despite the prohibition of carved images in Israel’s instruction.
-
-v05: Micah creates a private sanctuary, cultic objects, and his own priesthood. Authority over worship has shifted into the household.
-
-v06: “Everyone did what was right in their own eyes” becomes the interpretive refrain for the final chapters of Judges. The problem is not simply absence of monarchy but collapse of shared covenantal order.
-
-v07: The young man is both connected with Bethlehem in Judah and identified as a Levite. The wording reflects his place of residence rather than making him genealogically Judahite.
-
-v10: “father and priest” — “Father” functions as an honorific or relational title for a religious figure, even though the Levite is described as young.
-
-v13: Micah assumes that possession of a Levite priest guarantees the LORD’s favor. The narrator gives no confirmation of that confidence.
-
-## Vocabulary
+##Vocabulary
 
 v03: קָדַשׁ (qadash)
 “To consecrate” or “make holy.” To set something apart for sacred use.
@@ -66,11 +53,5 @@ v03: פֶּסֶל (pesel)
 v03: מַסֵּכָה (massekhah)
 “Cast image.” An image formed from molten metal.
 
-v05: תְּרָפִים (teraphim)
-“Household gods.” Cultic objects associated with domestic religion or divination.
-
 v05: מִלֵּא יָד (mille yad)
 “To fill the hand,” rendered “ordain.” An idiom for installing someone in priestly service.
-
-v06: יָשָׁר בְּעֵינָיו (yashar be'enav)
-“Right in their own eyes.” A key phrase describing self-directed moral and religious judgment.

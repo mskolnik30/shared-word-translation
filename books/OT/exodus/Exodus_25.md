@@ -104,24 +104,7 @@ v39: It shall be made from a talent of pure gold, with all these utensils.
 
 v40: See that you make them according to their pattern that was shown to you on the mountain.
 </p>
-
 ##Notes
-
-v02: The offering is voluntary: it comes from those whose heart moves them. Sanctuary construction begins with willing participation.
-
-v08: The purpose of the sanctuary is relational—“that I may dwell in their midst”—not merely architectural.
-
-v09, v40: The repeated “pattern” shown on the mountain makes the sanctuary an act of obedience to revealed form rather than human religious invention.
-
-v17: The Hebrew *kapporet* is often translated “mercy seat” or “atonement cover.” TSW uses “cover” in the main text and preserves the ritual significance in the note rather than building interpretation into the object’s name.
-
-v18–20: “Cherubim” are throne-associated heavenly beings, not the later artistic image of small winged children.
-
-v22: The ark’s cover becomes the place of divine meeting and speech, linking the testimony, the cherubim, and God’s ongoing instruction.
-
-v30: “bread of the Presence” is literally bread “of the face,” kept continually before the LORD.
-
-v31–36: The lampstand is described as a living, branching form with almond cups, buds, and blossoms, joining crafted metalwork with botanical imagery.
 
 ##Vocabulary
 
@@ -134,23 +117,8 @@ v08: מִקְדָּשׁ (miqdash)
 v09: תַּבְנִית (tavnit)
 “Pattern” or “form.” The revealed design for the dwelling and furnishings.
 
-v10: אֲרוֹן (aron)
-“Ark” or “chest.” The sacred container for the testimony.
-
 v17: כַּפֹּרֶת (kapporet)
 “Cover.” The gold cover over the ark, central to later atonement ritual.
 
-v18: כְּרוּבִים (keruvim)
-“Cherubim.” Winged heavenly throne beings.
-
-v23: שֻׁלְחָן (shulchan)
-“Table.” The gold-covered table holding the bread of the Presence.
-
 v30: לֶחֶם פָּנִים (lechem panim)
 “Bread of the Presence,” literally “bread of the face.”
-
-v31: מְנוֹרָה (menorah)
-“Lampstand.” The seven-lamped gold sanctuary light.
-
-v39: כִּכָּר (kikkar)
-“Talent.” A large unit of weight.

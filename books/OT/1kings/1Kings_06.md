@@ -156,37 +156,23 @@ v37: In the fourth year, in the month of Ziv, the foundation of the house of the
 <p>
 v38: In the eleventh year, in the month of Bul, which is the eighth month, the house was completed in all its details and according to all its specifications. He built it in seven years.
 </p>
+##Notes
 
-## Notes
+v31: The descriptions “five-sided” in verse 31 and “four-sided” in verse 33 are uncertain in their architectural sense.
 
-- **6:1.** The opening date links the building of the temple to Israel’s exodus from Egypt. The house for the LORD is therefore situated within the larger story of deliverance and covenant, not merely within Solomon’s royal achievement.
+##Vocabulary
 
-- **6:7.** The stones were prepared away from the temple site, so that iron tools were not heard there during construction. The verse describes the building process without explicitly explaining the significance of the silence.
+v01: בַּיִת (bayit)
+“house.” Throughout this chapter, bayit refers to the house built for the LORD. The term can mean an ordinary dwelling, but here its repeated use holds together architecture, worship, and the LORD’s promised dwelling among Israel.
 
-- **6:12–13.** The LORD’s promise interrupts the architectural account. The house does not guarantee divine presence by itself: the promise is joined to Solomon’s walking in the LORD’s statutes, judgments, and commandments. Yet the promise also declares the LORD’s intention to dwell among Israel and not forsake them.
+v12: חֻקָּה (chuqqah)
+“statute.” The LORD’s statutes are presented alongside judgments and commandments. Together they describe the covenantal pattern by which Solomon is to walk.
 
-- **6:16, 19–20.** The *inner sanctuary* is literally the “rear room” or “inner chamber.” It is designated as “the most holy place” and prepared for the ark of the covenant, concentrating the chapter’s movement toward the LORD’s covenantal presence.
+v13: שָׁכַן (shakhan)
+“dwell.” The LORD promises, “I will dwell among the Israelites.” The word expresses abiding presence among a people, while the surrounding passage preserves the tension between divine promise and covenant obedience.
 
-- **6:20–22.** “Pure gold” may also be understood as “closed” or “solid” gold. The repeated overlaying with gold emphasizes the completeness and splendor of the inner spaces and their furnishings.
+v16: דְּבִיר (devir)
+“inner sanctuary.” This term names the innermost chamber of the temple, the place made for the ark of the covenant and called “the most holy place.”
 
-- **6:23–28.** These large cherubim stand within the inner sanctuary with wings extending from wall to wall. They are not identified as objects of worship; rather, they belong to the symbolic furnishing of the place where the ark of the LORD’s covenant will rest.
-
-- **6:31, 33.** The descriptions “five-sided” and “four-sided” are uncertain in their architectural sense. They likely refer to the shape or construction of the doorframes.
-
-- **6:37–38.** The temple’s foundation was laid in Solomon’s fourth year and its construction was completed in his eleventh year, a span stated as seven years. The account closes by returning to the named months with which it began.
-
-## Vocabulary
-
-- **6:1 — בַּיִת (*bayit*), “house.”** Throughout this chapter, *bayit* refers to the house built for the LORD. The term can mean an ordinary dwelling, but here its repeated use holds together architecture, worship, and the LORD’s promised dwelling among Israel.
-
-- **6:12 — חֻקָּה (*chuqqah*), “statute.”** The LORD’s statutes are presented alongside judgments and commandments. Together they describe the covenantal pattern by which Solomon is to walk.
-
-- **6:13 — שָׁכַן (*shakhan*), “dwell.”** The LORD promises, “I will dwell among the Israelites.” The word expresses abiding presence among a people, while the surrounding passage preserves the tension between divine promise and covenant obedience.
-
-- **6:16 — דְּבִיר (*devir*), “inner sanctuary.”** This term names the innermost chamber of the temple, the place made for the ark of the covenant and called “the most holy place.”
-
-- **6:19 — בְּרִית (*berit*), “covenant.”** The ark is called “the ark of the covenant of the LORD.” Its placement in the inner sanctuary connects the temple directly to the LORD’s binding relationship with Israel.
-
-- **6:23 — כְּרוּב (*keruv*), “cherub.”** The cherubim are winged figures placed in the inner sanctuary. Their immense wings fill the sacred space around the ark’s intended location.
-
-- **6:37 — יְסַד (*yasad*), “lay a foundation.”** The foundation of the LORD’s house marks the beginning of the work, answered in verse 38 by the house’s completion in all its details.
+v19: בְּרִית (berit)
+“covenant.” The ark is called “the ark of the covenant of the LORD.” Its placement in the inner sanctuary connects the temple directly to the LORD’s binding relationship with Israel.

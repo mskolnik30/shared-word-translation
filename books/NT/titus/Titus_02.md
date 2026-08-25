@@ -8,7 +8,6 @@ translation: TSW
 ## Teach Sound Doctrine
 
 <p>
-
 v01: But as for you, teach what accords with sound doctrine.
 
 v02: Older men are to be sober-minded, dignified, self-controlled, sound in faith, in love, and in steadfastness.
@@ -28,13 +27,11 @@ v08: and sound speech that cannot be condemned, so that an opponent may be put t
 v09: Slaves are to be subject to their own masters in everything; they are to be well-pleasing, not argumentative,
 
 v10: not pilfering, but showing all good faith, so that in everything they may adorn the doctrine of God our Savior.
-
 </p>
 
 ## The Grace of God Has Appeared
 
 <p>
-
 v11: For the grace of God has appeared, bringing salvation for all people,
 
 v12: training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age,
@@ -44,36 +41,19 @@ v13: waiting for our blessed hope, the appearing of the glory of our great God a
 v14: who gave himself for us that he might redeem us from all iniquity and purify for himself a people of his own who are zealous for good deeds.
 
 v15: Declare these things; exhort and rebuke with all authority. Let no one disregard you.
-
 </p>
+##Notes
 
-## Notes
-
-v15: Instruction, encouragement, and correction are held together.
-
-v15: Authority is exercised without qualification or mitigation.
-
-v15: Reception is not left to preference; disregard is addressed directly.
-
-## Vocabulary
+##Vocabulary
 
 v15: λαλέω (laleō)
-
 “To speak.” To declare or utter.
 
 v15: παρακαλέω (parakaleō)
-
 “To exhort.” To urge or encourage.
 
 v15: ἐλέγχω (elenchō)
-
 “To rebuke.” To expose or correct.
 
 v15: ἐξουσία (exousia)
-
 “Authority.” Right to act or command.
-
-v15: περιφρονέω (periphroneō)
-
-“To disregard.” To treat with contempt.
-

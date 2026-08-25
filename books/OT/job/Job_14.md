@@ -122,81 +122,18 @@ v21: Their children come to honor, and they do not know it;
 v22: They feel only the pain of their own body,
   and their own being mourns.
 </p>
+##Notes
 
-## Notes
-v1–2: “short of days… like a shadow” — Job begins with anthropology under pressure: human life is brief, fragile, and difficult; mortality is not theoretical.
+##Vocabulary
 
-v3: “do you fix your gaze… bring me into judgment” — Job challenges the asymmetry: why would the Holy One litigate against a creature so small and fleeting?
+v03: מִשְׁפָּט (mishpat)
+“Judgment; justice; legal decision.”
 
-v4: “clean… out of unclean” — Not cynicism about creation, but a cry about human limits: how can flawed mortals produce purity on demand?
+v04: טָהוֹר (tahor)
+“Clean; pure.”
 
-v5–6: “days… determined… look away” — Job interprets life as bounded by God; his plea is for respite—space to breathe within limits.
+v04: טָמֵא (ṭame’)
+“Unclean; defiled.”
 
-v7–9: “hope for a tree” — Nature becomes a parable of resilience; Job envies the tree’s capacity for renewal.
-
-v10–12: “but a human dies… does not rise” — In Job’s moment, death feels final and irreversible; the poetry voices the dread without smoothing it.
-
-v13: “hide me in Sheol… remember me” — A paradoxical prayer: Job asks for concealment from wrath and also for God’s remembering—judgment paused, relationship preserved.
-
-v14–15: “If… dies… live again?… You would call” — Job’s hope flickers: not a developed doctrine, but a longing for renewed communion—God calling, Job answering.
-
-v16–17: “not keep watch… sealed… cover over” — Job imagines mercy as God’s decision not to audit sin; forgiveness is pictured as closed files and covered guilt.
-
-v18–19: “mountain falls… water wears away stones” — The world’s slow erosions become an image of how hope is ground down over time.
-
-v20: “You prevail… send them away” — Job names the terrifying feeling that God’s power is not only shelter but also overwhelming force.
-
-v21: “children… they do not know” — Death severs participation in the future; honor and loss happen beyond one’s awareness.
-
-v22: “pain… mourns” — The chapter ends in embodied sorrow: suffering collapses the horizon to the body and the self’s grief.
-
-## Vocabulary
-v1: אָדָם (’adam) — human being; humanity
-
-v1: עָמָל (ʿamal) — trouble; toil; sorrow
-
-v2: צִיץ (tsits) — flower; blossom
-
-v2: צֵל (tsel) — shadow
-
-v3: מִשְׁפָּט (mishpat) — judgment; justice; legal decision
-
-v4: טָהוֹר (tahor) — clean; pure
-
-v4: טָמֵא (ṭame’) — unclean; defiled
-
-v5: חֹק (ḥoq) — limit; decree; fixed boundary
-
-v6: שָׂכִיר (sakhir) — hired worker; day laborer
-
-v7: תִּקְוָה (tiqvah) — hope
-
-v7: חָלַף (ḥalaf) — to sprout again; to renew; to change
-
-v9: רֵיחַ (reiaḥ) — scent; smell
-
-v10: גָּוַע (gavaʿ) — to breathe one’s last; to expire
-
-v10: אָיֵה (’ayyeh) — where? (lament question)
-
-v12: עוּר (ʿur) — to awake; to rouse
-
-v13: שְׁאוֹל (she’ol) — Sheol; the grave; realm of the dead
-
-v13: זָכַר (zakar) — to remember
-
-v14: צָבָא (tsava’) — service; hard service; appointed term
-
-v14: חֲלִיפָה (ḥalifah) — change; renewal; relief (release)
-
-v15: כָּסַף (kasaf) — to long for; to yearn
-
-v17: פֶּשַׁע (peshaʿ) — rebellion; transgression
-
-v17: עָוֹן (ʿavon) — iniquity; guilt; twisted wrongdoing
-
-v19: שָׁחַק (shaḥaq) — to wear away; to erode; to grind down
-
-v20: שָׁלַח (shalach) — to send away; to dismiss
-
-v22: נֶפֶשׁ (nefesh) — life; self; whole being
+v13: שְׁאוֹל (she’ol)
+“Sheol; the grave; realm of the dead.”

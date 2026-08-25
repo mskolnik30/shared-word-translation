@@ -176,22 +176,21 @@ v88: All the cattle for the sacrifice of well-being were twenty-four bulls, sixt
 <p>
 v89: When Moses entered the Tent of Meeting to speak with the LORD, he heard the voice speaking to him from above the cover that was on the ark of the testimony, from between the two cherubim. And the LORD spoke to him.
 </p>
-
 ##Notes
-v03: The leaders’ wagons and oxen are distributed according to the actual burdens of the Levitical clans, while the Kohathites receive none because the most holy objects are carried on the shoulder.
-v10–83: The text repeats each tribal offering in full rather than abbreviating the later days. TSW preserves that repetition because the equal presentation of each tribe is part of the literary form.
-v13: “sanctuary shekel” — The weights of precious metal are measured according to the sanctuary standard.
-v84–88: The summary gathers the twelve identical offerings into a single total, reinforcing both tribal equality and the completeness of the dedication.
-v89: The chapter moves from public offerings to the voice heard by Moses above the ark, returning the material dedication to its purpose: encounter with the LORD.
 
 ##Vocabulary
+
 v03: עֲגָלָה (agalah)
 “Wagon.” A wheeled vehicle used here for transporting sanctuary materials.
+
 v10: חֲנֻכָּה (chanukkah)
 “Dedication.” The initiation of the altar for sacred use.
+
 v17: שֶׁלֶם (shelem)
 “Well-being offering.” A sacrifice associated with peace, wholeness, and shared fellowship.
+
 v89: כַּפֹּרֶת (kapporet)
 “Cover” or “atonement cover.” The cover over the ark from above which the divine voice is heard.
+
 v89: כְּרוּב (keruv)
 “Cherub.” A heavenly throne guardian represented above the ark.

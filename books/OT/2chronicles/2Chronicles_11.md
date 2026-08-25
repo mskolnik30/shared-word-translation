@@ -68,16 +68,7 @@ v22: Rehoboam appointed Abijah son of Maacah as head, to be leader among his bro
 
 v23: He acted wisely and distributed some of all his sons throughout all the lands of Judah and Benjamin, to all the fortified cities. He gave them abundant provisions and sought many wives for them.
 </p>
-
 ##Notes
-
-v04: The LORD explicitly forbids civil war and calls the northern Israelites Judah’s “brothers.”
-
-v14–16: Chronicles emphasizes a migration of priests, Levites, and faithful worshipers toward Jerusalem after Jeroboam’s cultic reforms.
-
-v15: “Goat-demons” translates a Hebrew term used for illicit cultic beings.
-
-v21: The large royal household reflects ancient dynastic practice and political alliance-building.
 
 ##Vocabulary
 
@@ -92,9 +83,3 @@ v14: מִגְרָשׁ (migrash)
 
 v15: שָׂעִיר (sa'ir)
 “Goat-demon.” A being associated with illicit worship.
-
-v16: דָּרַשׁ (darash)
-“To seek.” Setting the heart to seek the LORD.
-
-v23: בִּין (bin)
-“To act wisely” or with understanding.

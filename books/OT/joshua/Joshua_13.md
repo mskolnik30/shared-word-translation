@@ -94,20 +94,9 @@ v32: These are the inheritances that Moses distributed in the plains of Moab, be
 
 v33: But to the tribe of Levi Moses gave no inheritance. The LORD, the God of Israel, is their inheritance, as he spoke to them.
 </p>
+##Notes
 
-## Notes
-
-v01: Joshua’s age introduces a transition from conquest to distribution. The admission that “very much land remains” prevents the earlier conquest summaries from being read as exhaustive occupation.
-
-v06: The LORD promises to drive out remaining peoples while Joshua is commanded to allot the land before that process is complete. Promise, gift, and unfinished possession remain together.
-
-v14, v33: Levi’s lack of territorial allotment is stated twice. Their inheritance is described in terms of the LORD and the offerings connected with worship.
-
-v22: Balaam’s death is mentioned briefly here, connecting the territorial summary with the earlier wilderness narrative.
-
-v13: Geshur and Maacath remaining “to this day” illustrates the continuing presence of peoples not displaced by Israel.
-
-## Vocabulary
+##Vocabulary
 
 v01: נוֹתַר (notar)
 “To remain.” Much land remains yet to be possessed.
@@ -120,9 +109,3 @@ v08: נַחֲלָה (nachalah)
 
 v14: אִשֵּׁי יְהוָה (ishei YHWH)
 “Offerings by fire of the LORD.” Sacrificial portions associated with Levitical provision.
-
-v22: קוֹסֵם (qosem)
-“Diviner.” One who practices divination.
-
-v33: יְהוָה הוּא נַחֲלָתוֹ (YHWH hu nachalato)
-“The LORD is his inheritance.” The theological description of Levi’s portion.

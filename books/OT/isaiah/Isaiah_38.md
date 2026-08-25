@@ -43,16 +43,9 @@ v20: The LORD will save me. Therefore we will sing my songs with stringed instru
 v21: Now Isaiah had said, "Let them take a cake of figs, and lay it for a poultice on the boil, and he will recover."
 v22: Hezekiah also had said, "What is the sign that I will go up to the house of the LORD?"
 </p>
-
 ##Notes
 
-v08: Hezekiah’s sign involves the shadow moving backward on the steps associated with Ahaz. The narrative presents the sign without explaining its physical mechanism.
-
 v16: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
-
-v17: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
-
-v10: “Sheol” — The Hebrew name for the realm of the dead is retained rather than replaced with later theological language about hell.
 
 ##Vocabulary
 

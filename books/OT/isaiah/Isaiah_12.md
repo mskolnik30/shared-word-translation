@@ -1,5 +1,5 @@
 ---
-book: isaiah
+book: Isaiah
 testament: OT
 chapter: 12
 translation: TSW
@@ -8,40 +8,31 @@ translation: TSW
 ## A Song of Thanksgiving
 
 <p>
-v01: In that day you will say, "I will give thanks to you, the LORD;  
-for though you were angry with me, your anger has turned away and you comfort me.  
-v02: Look, God is my salvation;  
-I will trust and will not be afraid, for the LORD, the LORD, is my strength and my song, and has become my salvation.  
-v03: Therefore with joy you will draw water out of the wells of salvation.  
-v04: In that day you will say, "Give thanks to the LORD! Call on his name. Declare his doings among the peoples. Proclaim that his name is exalted!  
+v01: In that day you will say, "I will give thanks to you, the LORD;
+for though you were angry with me, your anger has turned away and you comfort me.
+v02: Look, God is my salvation;
+I will trust and will not be afraid, for the LORD, the LORD, is my strength and my song, and has become my salvation.
+v03: Therefore with joy you will draw water out of the wells of salvation.
+v04: In that day you will say, "Give thanks to the LORD! Call on his name. Declare his doings among the peoples. Proclaim that his name is exalted!
 </p>
 
 <p>
-v05: Sing to the LORD, for he has done excellent things! Let this be known in all the earth!  
-v06: Cry aloud and shout, you inhabitant of Zion;  
-for the Holy One of Israel is great in the midst of you!"  
+v05: Sing to the LORD, for he has done excellent things! Let this be known in all the earth!
+v06: Cry aloud and shout, you inhabitant of Zion;
+for the Holy One of Israel is great in the midst of you!"
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v3: “draw water with joy” — Salvation is pictured as an inexhaustible source from which the community draws life.  
+v03: מַעְיְנֵי הַיְשׁוּעָה (ma'ayene hayeshuah)
+“Wells of salvation.” Springs from which the people draw water with joy.
 
-v6: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v06: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
+“Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
-v6: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v06: צִיּוֹן (tsiyyon)
+“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v2: “salvation” — Hebrew *yeshuah* and related roots describe deliverance, rescue, and the saving action of the LORD.  
-
-## Vocabulary
-
-v3: מַעְיְנֵי הַיְשׁוּעָה (ma'ayene hayeshuah)  
-“Wells of salvation.” Springs from which the people draw water with joy.  
-
-v6: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.  
-
-v6: צִיּוֹן (tsiyyon)  
-“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
-
-v2: יְשׁוּעָה (yeshuah)  
-“Salvation” or “deliverance.” Saving help or rescue.  
+v02: יְשׁוּעָה (yeshuah)
+“Salvation” or “deliverance.” Saving help or rescue.

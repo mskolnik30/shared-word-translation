@@ -82,29 +82,21 @@ v45: They kept the charge of their God and the charge of purification, and so di
 v46: For in the days of David and Asaph long ago, there were leaders of the singers and songs of praise and thanksgiving to God.
 v47: In the days of Zerubbabel and in the days of Nehemiah, all Israel gave the daily portions for the singers and gatekeepers. They set apart what belonged to the Levites, and the Levites set apart what belonged to the descendants of Aaron.
 </p>
-
 ##Notes
-v01–26: The chapter preserves several generations of priestly and Levitical memory, connecting the restored community with both the first return under Zerubbabel and Nehemiah’s own day.
-v10–11: The high-priestly genealogy extends beyond the immediate narrative horizon, reflecting the preservation and later updating of communal records.
-v22: “Darius the Persian” — Several Persian kings bore the name Darius. The verse is retained without forcing identification beyond what the text states.
-v24: “section corresponding to section” — Worship is arranged antiphonally or responsively, with groups positioned opposite one another.
-v27–30: Dedication requires both celebration and purification. The wall is treated as part of the restored holy city, not merely as military infrastructure.
-v31–43: The two processions travel in opposite directions along the wall and converge at the temple, transforming the completed fortification into a route of public thanksgiving.
-v43: The repeated language of rejoicing is deliberate; God is named as the source of the community’s great joy.
-v44–47: Celebration is followed by administration. Sustained worship requires organized material support for priests, Levites, singers, and gatekeepers.
 
 ##Vocabulary
+
 v27: חֲנֻכָּה (chanukkah)
 “Dedication.” The ceremonial setting apart of something for its intended sacred use.
+
 v27: שִׂמְחָה (simchah)
 “Joy” or “gladness.” A dominant term in the wall-dedication scene.
-v27: תּוֹדָה (todah)
-“Thanksgiving.” Grateful praise, also used for thanksgiving groups or processions.
+
 v30: טָהֵר (taher)
 “To purify” or “be clean.” Ritual cleansing applied to people, gates, and wall.
+
 v44: תְּרוּמָה (terumah)
 “Contribution” or “offering.” A portion lifted or set apart for sacred use.
-v44: מַעֲשֵׂר (ma'aser)
-“Tithe.” A tenth portion designated for Levitical and sacred support.
+
 v47: קָדַשׁ (qadash)
 “To set apart” or “consecrate.” To designate something as belonging to holy service.

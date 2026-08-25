@@ -33,21 +33,20 @@ v11: Moses did so. As the LORD commanded him, so he did.
 v12: The Israelites said to Moses, “Look, we are perishing! We are lost! We are all lost!
 v13: Everyone who comes near, who comes near to the LORD’s tabernacle, dies. Are we all to perish?”
 </p>
-
 ##Notes
+
 v02: The same Hebrew word, *matteh*, can mean both “staff” and “tribe.” The sign therefore represents both an individual leader and the ancestral house he leads.
-v08: The staff displays every stage of fruitfulness at once—sprouting, buds, blossoms, and ripe almonds—making the sign unmistakably extraordinary.
-v10: The staff is retained not as a trophy but as a continuing sign directed toward repeated grumbling and the danger of unauthorized approach.
-v12–13: The people’s response shows that the preceding judgments have created fear of the sanctuary. Chapter 18 answers that fear by clarifying priestly and Levitical responsibility.
 
 ##Vocabulary
+
 v02: מַטֶּה (matteh)
 “Staff” or “tribe.” The double meaning gives the sign both personal and tribal force.
+
 v05: פָּרַח (parach)
 “To sprout” or “blossom.” Sudden visible growth from Aaron’s staff.
+
 v08: שָׁקֵד (shaqed)
 “Almond.” The fruit produced by Aaron’s staff.
+
 v10: אוֹת (ot)
 “Sign.” A visible marker that bears continuing meaning.
-v10: מְרִי (meri)
-“Rebellion.” Persistent resistance against the LORD’s ordering.

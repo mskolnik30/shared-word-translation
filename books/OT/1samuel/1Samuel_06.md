@@ -68,24 +68,11 @@ v20: The men of Beth-Shemesh said, “Who is able to stand before the LORD, this
 
 v21: They sent messengers to the inhabitants of Kiriath-Jearim, saying, “The Philistines have returned the ark of the LORD. Come down and bring it up to yourselves.”
 </p>
-
 ##Notes
 
-v03: The Philistine priests interpret the crisis through the category of a guilt offering, acknowledging offense without entering Israel’s covenant system.
+v18: The final phrase is textually difficult. The Masoretic Text reads “great Abel/stone”; some versions reflect “great stone.”
 
-v05: Gold images of the affliction function as symbolic acknowledgment of the plague and an attempt to honor Israel’s God.
-
-v06: The Philistines explicitly interpret their experience through the exodus story and Pharaoh’s hardened heart.
-
-v07–09: The test is designed to work against the cows’ natural impulse to return to their calves. Their direct journey therefore serves as evidence of divine direction.
-
-v12: The cows low as they go, preserving the sense that they are moving against maternal instinct.
-
-v18: The final phrase is textually difficult. The Masoretic Text reads “great Abel/stone”; some versions reflect “great stone.” TSW follows the contextual stone reading.
-
-v19: The Masoretic Text’s number is textually difficult. Many manuscripts and ancient witnesses support seventy men; some readings suggest “seventy men, fifty thousand men.” TSW uses seventy and notes the textual problem.
-
-v20: The chapter’s central question is not whether the ark can be recovered but who can stand before the holy God associated with it.
+v19: The Masoretic Text’s number is textually difficult.
 
 ##Vocabulary
 
@@ -98,17 +85,5 @@ v03: אָשָׁם (asham)
 v05: כָּבוֹד (kavod)
 “Glory” or honor. The Philistines are told to give glory to God.
 
-v06: כָּבֵד לֵב (kaved lev)
-“To harden the heart.”
-
-v09: מִקְרֶה (miqreh)
-“Chance” or occurrence.
-
-v12: יָשַׁר (yashar)
-“To go straight.”
-
 v20: קָדוֹשׁ (qadosh)
 “Holy.”
-
-v21: קִרְיַת יְעָרִים (Qiryat-Ye'arim)
-“Kiriath-Jearim.” The next resting place of the ark.

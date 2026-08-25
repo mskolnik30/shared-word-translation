@@ -88,28 +88,13 @@ v28: The LORD uprooted them from their ground in anger, fury, and great wrath an
 <p>
 v29: “The hidden things belong to the LORD our God, but the revealed things belong to us and to our children forever, so that we may do all the words of this instruction.
 </p>
-
 ##Notes
 
-v01: In the Masoretic chapter division this verse is Deuteronomy 28:69. Standard English Bibles place it at Deuteronomy 29:1. TSW follows public English numbering for website and shortcode compatibility.
-
-v04: The statement that the LORD has not yet given a heart to know, eyes to see, or ears to hear holds divine gift and human perception together. Deuteronomy later promises inward transformation.
-
-v05–06: Wilderness preservation is interpreted as direct formation in knowing the LORD. The absence of ordinary agricultural food and drink emphasizes dependence upon divine provision.
-
-v10–15: The covenant assembly includes leaders, men, women, children, resident aliens, and laborers, then extends beyond those physically present to future generations.
+v01: This verse is numbered 28:69 in the Masoretic chapter division.
 
 v12: “enter into the covenant” literally carries the image of passing into or through covenant and oath.
 
-v18: “root bearing poisonous and bitter fruit” portrays apostasy as something hidden underground that eventually produces communal harm.
-
-v19: The difficult phrase “to sweep away the watered with the thirsty” has several interpretations, including indiscriminate destruction of saturated and dry alike. TSW preserves the concrete wording.
-
-v20: The language of smoking jealousy is intentionally intense and bodily, describing covenant judgment against deliberate self-deception.
-
-v22–28: Future generations and foreigners interpret devastated land through covenant history. Environmental ruin becomes public testimony to broken allegiance.
-
-v29: The closing saying distinguishes what belongs to divine hidden knowledge from revealed instruction given for obedience. It warns against allowing speculation to replace what has been made known.
+v19: The difficult phrase “to sweep away the watered with the thirsty” has several interpretations, including indiscriminate destruction of saturated and dry alike.
 
 ##Vocabulary
 
@@ -119,26 +104,8 @@ v01: בְּרִית (berit)
 v04: לֵב לָדַעַת (lev lada'at)
 “Heart to know.” Inward capacity for covenant understanding.
 
-v09: שָׂכַל (sakhal)
-“To act wisely” or “prosper through insight.”
-
 v12: אָלָה (alah)
 “Oath” or “covenant curse.” The sworn sanction accompanying the covenant.
 
-v18: רֹאשׁ (rosh)
-“Poison” or bitter plant. Used in the image of a toxic root.
-
-v19: שְׁרִרוּת לֵב (sherirut lev)
-“Stubbornness of heart.” Self-directed inward obstinacy.
-
 v20: קִנְאָה (qin'ah)
 “Jealousy” or “zeal.” Exclusive covenant passion.
-
-v28: נָתַשׁ (natash)
-“To uproot.” Israel removed from the land.
-
-v29: נִסְתָּרוֹת (nistarot)
-“Hidden things.” Matters belonging to the LORD.
-
-v29: נִגְלֹת (niglot)
-“Revealed things.” What has been made known for obedience.

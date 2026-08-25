@@ -62,30 +62,7 @@ v20: In every matter of wisdom and understanding about which the king questioned
 
 v21: And Daniel remained until the first year of King Cyrus.
 </p>
-
 ##Notes
-
-v01: The “third year of Jehoiakim” reflects Daniel’s chronological convention. Jeremiah 25:1 uses a different regnal reckoning for the corresponding period. TSW preserves Daniel’s dating rather than harmonizing it.
-
-v02: The narrative interprets Jerusalem’s defeat theologically: “the Lord gave” Jehoiakim and temple vessels into Babylonian hands. Babylonian power is real but not ultimate.
-
-v02: “Shinar” is an ancient biblical designation associated with Babylonia, evoking earlier biblical memories as well as Daniel’s present setting.
-
-v03: “eunuchs” translates a term that can denote castrated court officials or high palace servants more broadly. The text does not state the physical status of every person under Ashpenaz.
-
-v04: “literature and language of the Chaldeans” describes the education required for service in Babylon’s royal administration and learned culture.
-
-v07: The four Judeans receive Babylonian court names while their Hebrew names continue to be used by the narrator. The dual naming embodies life within imperial institutions without erasing their earlier identity.
-
-v08: The exact reason the royal food would “defile” Daniel is not stated. Proposed explanations include dietary law, food associated with idolatry, or dependence upon royal patronage. TSW does not choose among them.
-
-v09: “steadfast kindness and compassion” describes divine favor operating through a Babylonian official rather than by removing Daniel from imperial structures.
-
-v12: “vegetables” translates a word for foods grown from seed and can include grains or legumes as well as vegetables.
-
-v17: Daniel’s gift concerning visions and dreams prepares for the revelations that dominate the rest of the book.
-
-v21: Daniel’s survival until Cyrus marks the passage from Babylonian to Persian rule and frames his service across the great imperial transition.
 
 ##Vocabulary
 
@@ -98,23 +75,5 @@ v03: סָרִיס (saris)
 v04: כַּשְׂדִּים (Kasdim)
 “Chaldeans.” Here associated with Babylonian language, learning, and court culture.
 
-v08: גָּאַל (ga'al)
-“To defile.” To become ritually or morally polluted.
-
 v09: חֶסֶד (ḥesed)
 “Steadfast kindness.” Loyal favor or covenant-like kindness.
-
-v12: זֵרֹעִים (zero'im)
-“Foods grown from seed.” Plant-based food.
-
-v17: מַדָּע (madda)
-“Knowledge.” Learned understanding.
-
-v17: חָזוֹן (chazon)
-“Vision.” Revelatory sight given by God.
-
-v20: חַרְטֹם (chartom)
-“Magician” or learned ritual specialist.
-
-v20: אַשָּׁף (ashshaf)
-“Enchanter” or divinatory specialist.

@@ -4,6 +4,7 @@ testament: OT
 chapter: 31
 translation: TSW
 ---
+
 ## Jacob Flees from Laban
 <p>
 v01: Now Jacob heard the words of Laban’s sons, saying, “Jacob has taken all that belonged to our father, and from what belonged to our father he has gained all this wealth.”
@@ -104,26 +105,12 @@ v53: The God of Abraham and the God of Nahor, the God of their father, judge bet
 v54: And Jacob offered a sacrifice in the hill country and called his kinsmen to eat bread. They ate bread and spent the night in the hill country.
 v55: Early in the morning Laban rose and kissed his grandchildren and his daughters and blessed them. Then Laban departed and returned to his place.
 </p>
+##Notes
 
-## Notes
-v1–3: The change in Laban's attitude coincides with God's command for Jacob to return to Canaan.
-v7: Jacob interprets his prosperity not as personal skill but as God's protection against Laban's manipulation.
-v13: The God who appeared at Bethel identifies himself through Jacob's earlier vow, linking past promise and present guidance.
-v14–16: Rachel and Leah surprisingly stand united, viewing their father as having treated them as property rather than heirs.
-v19: Rachel's theft of the household gods is reported without explanation. The narrative leaves her motives unstated.
-v24: God's warning limits Laban's actions before the confrontation even begins.
-v31–32: Jacob's confidence in his innocence becomes ironic because he does not know what Rachel has done.
-v34–35: Rachel successfully conceals the household gods, and Laban's search ends in failure.
-v36–42: Jacob's speech is his longest recorded address in Genesis and serves as a defense of his years of labor and suffering.
-v42: “The Fear of Isaac” is a unique title for God, emphasizing reverence and covenant loyalty.
-v44–55: The covenant establishes boundaries rather than partnership. Peace is maintained through separation.
+##Vocabulary
 
-## Vocabulary
-v3: שׁוּב (shûḇ)
+v03: שׁוּב (shûḇ)
 “To return.” A key covenant theme involving return to the land and to God's purposes.
-
-v7: רָמָה (rāmâ)
-“To deceive.” The same root often associated with trickery and manipulation.
 
 v10: חֲלוֹם (ḥălôm)
 “Dream.” A means through which God reveals guidance and instruction.
@@ -131,26 +118,8 @@ v10: חֲלוֹם (ḥălôm)
 v13: מַצֵּבָה (maṣṣēḇâ)
 “Pillar.” A standing stone erected as a memorial or witness.
 
-v19: תְּרָפִים (tĕrāphîm)
-“Household gods.” Small cultic objects associated with family religion and inheritance.
-
-v24: טוֹב אוֹ רָע (ṭôḇ ʾô rāʿ)
-“Good or bad.” An expression meaning anything at all, whether favorable or hostile.
-
-v39: טָרֵפָה (ṭārēp̄â)
-“What was torn.” Livestock killed by predators.
-
-v42: פַּחַד יִצְחָק (Paḥaḏ Yiṣḥāq)
-“Fear of Isaac.” A distinctive title for God emphasizing awe and reverence.
-
 v44: בְּרִית (bĕrît)
 “Covenant.” A binding agreement witnessed and remembered.
 
 v48: גַּלְעֵד (Galʿēḏ)
 “Heap of witness.” A memorial name marking the covenant between Jacob and Laban.
-
-v49: מִצְפָּה (Miṣpâ)
-“Watchtower” or “watchpost.” A place name associated with divine oversight.
-
-v52: עֵד (ʿēḏ)
-“Witness.” One who testifies to the truth of an agreement or event.

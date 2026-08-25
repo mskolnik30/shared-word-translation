@@ -1,5 +1,5 @@
 ---
-book: hebrews
+book: Hebrews
 testament: NT
 chapter: 1
 translation: TSW
@@ -8,161 +8,90 @@ translation: TSW
 ## The Supremacy of the Son
 
 <p>
+v01: Long ago, at many times and in many ways, God spoke to our fathers by the prophets,
 
-v01: Long ago, at many times and in many ways, God spoke to our fathers by the prophets,  
+v02: but in these last days he has spoken to us by his Son, whom he appointed heir of all things, through whom also he made the ages.
 
-v02: but in these last days he has spoken to us by his Son, whom he appointed heir of all things, through whom also he made the ages.  
+v03: He is the radiance of the glory of God and the exact imprint of his being, and he upholds all things by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,
 
-v03: He is the radiance of the glory of God and the exact imprint of his being, and he upholds all things by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,  
-
-v04: having become as much superior to the angels as the name he has inherited is more excellent than theirs.  
-
+v04: having become as much superior to the angels as the name he has inherited is more excellent than theirs.
 </p>
 
 ## The Son Superior to Angels
 
 <p>
+v05: For to which of the angels did God ever say,
 
-v05: For to which of the angels did God ever say,  
+“You are my Son,
 
-“You are my Son,  
+today I have begotten you”?
 
-today I have begotten you”?  
+Or again,
 
-Or again,  
+“I will be to him a father,
 
-“I will be to him a father,  
+and he shall be to me a son”?
 
-and he shall be to me a son”?  
+v06: And again, when he brings the firstborn into the world, he says,
 
-v06: And again, when he brings the firstborn into the world, he says,  
+“Let all God’s angels worship him.”
 
-“Let all God’s angels worship him.”  
+v07: Of the angels he says,
 
-v07: Of the angels he says,  
+“He makes his angels winds,
 
-“He makes his angels winds,  
+and his ministers a flame of fire.”
 
-and his ministers a flame of fire.”  
+v08: But of the Son he says,
 
-v08: But of the Son he says,  
+“Your throne, O God, is forever and ever,
 
-“Your throne, O God, is forever and ever,  
+the scepter of uprightness is the scepter of your kingdom.
 
-the scepter of uprightness is the scepter of your kingdom.  
+v09: You have loved righteousness and hated lawlessness;
 
-v09: You have loved righteousness and hated lawlessness;  
+therefore God, your God, has anointed you
 
-therefore God, your God, has anointed you  
+with the oil of gladness beyond your companions.”
 
-with the oil of gladness beyond your companions.”  
+v10: And,
 
-v10: And,  
+“You, Lord, laid the foundation of the earth in the beginning,
 
-“You, Lord, laid the foundation of the earth in the beginning,  
+and the heavens are the work of your hands;
 
-and the heavens are the work of your hands;  
+v11: they will perish, but you remain;
 
-v11: they will perish, but you remain;  
+they will all wear out like a garment,
 
-they will all wear out like a garment,  
+v12: like a robe you will roll them up,
 
-v12: like a robe you will roll them up,  
+like a garment they will be changed.
 
-like a garment they will be changed.  
+But you are the same,
 
-But you are the same,  
+and your years will have no end.”
 
-and your years will have no end.”  
+v13: And to which of the angels has he ever said,
 
-v13: And to which of the angels has he ever said,  
+“Sit at my right hand
 
-“Sit at my right hand  
+until I make your enemies a footstool for your feet”?
 
-until I make your enemies a footstool for your feet”?  
-
-v14: Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?  
-
+v14: Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v1: Revelation is described as varied in form and time.  
+v01: πολυμερῶς (polymerōs)
+“In many parts.” Various portions.
 
-v2: The Son is presented as final and comprehensive.  
+v01: πολυτρόπως (polytropōs)
+“In many ways.” Various methods.
 
-v2: Creation is attributed through the Son.  
+v02: υἱός (huios)
+“Son.” One in relational identity.
 
-v3: Multiple descriptions accumulate without reduction.  
-
-v3: Action (“upholds,” “sat down”) follows identity.  
-
-v4: Superiority is comparative, not absolute in isolation.  
-
-v5–13: Argument proceeds through citation rather than explanation.  
-
-v6: Worship is directed toward the Son.  
-
-v7: Angels are described functionally.  
-
-v8–9: The Son is addressed directly with royal language.  
-
-v10–12: Creation is contrasted with permanence.  
-
-v13: Position at the right hand signifies authority.  
-
-v14: Angels serve; they are not central actors.  
-
-## Vocabulary
-
-v1: πολυμερῶς (polymerōs)  
-
-v1: “In many parts.” Various portions.  
-
-v1: πολυτρόπως (polytropōs)  
-
-v1: “In many ways.” Various methods.  
-
-v2: υἱός (huios)  
-
-v2: “Son.” One in relational identity.  
-
-v2: αἰών (aiōn)  
-
-v2: “Ages.” Time or created order.  
-
-v3: ἀπαύγασμα (apaugasma)  
-
-v3: “Radiance.” Emission of light.  
-
-v3: χαρακτήρ (charaktēr)  
-
-v3: “Imprint.” Exact representation.  
-
-v3: φέρω (pherō)  
-
-v3: “To uphold.” To carry or sustain.  
-
-v4: κρείττων (kreittōn)  
-
-v4: “Superior.” Greater in rank.  
-
-v6: πρωτότοκος (prōtotokos)  
-
-v6: “Firstborn.” One with priority.  
-
-v8: θρόνος (thronos)  
-
-v8: “Throne.” Seat of rule.  
-
-v10: θεμελιόω (themelioō)  
-
-v10: “To lay a foundation.” To establish.  
-
-v13: δεξιός (dexios)  
-
-v13: “Right hand.” Position of honor.  
-
-v14: λειτουργικός (leitourgikos)  
-
-v14: “Ministering.” Serving role.  
+v02: αἰών (aiōn)
+“Ages.” Time or created order.

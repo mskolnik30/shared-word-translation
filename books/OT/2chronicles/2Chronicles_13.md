@@ -68,16 +68,9 @@ v21: But Abijah grew strong. He took fourteen wives and fathered twenty-two sons
 
 v22: The rest of the acts of Abijah, his ways and his words, are written in the commentary of the prophet Iddo.
 </p>
-
 ##Notes
 
 v05: “Covenant of salt” is an idiom of enduring covenant obligation, likely drawing on salt’s preservative and ritual associations.
-
-v08: Abijah presents the Davidic kingdom as “the kingdom of the LORD,” a strong Chronicler emphasis on the theological meaning of Davidic rule.
-
-v17: The enormous casualty figures are part of the received text and should not be reduced by harmonization.
-
-v18: Chronicles interprets Judah’s victory through reliance upon the LORD rather than superior numbers.
 
 ##Vocabulary
 
@@ -92,6 +85,3 @@ v09: מִלֵּא יָד (mille yad)
 
 v18: שָׁעַן (sha'an)
 “To rely upon” or lean on.
-
-v22: מִדְרָשׁ (midrash)
-“Commentary” or interpretive record.

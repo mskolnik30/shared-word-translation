@@ -164,28 +164,15 @@ v57: When David returned from striking the Philistine, Abner took him and brough
 
 v58: Saul said to him, “Whose son are you, young man?” David said, “The son of your servant Jesse the Bethlehemite.”
 </p>
-
 ##Notes
 
-v04: The Masoretic Text gives Goliath’s height as six cubits and a span. A Dead Sea Scroll manuscript and important Greek witnesses read four cubits and a span. TSW follows the Masoretic Text and records the significant variant.
+v04: The Masoretic Text gives Goliath’s height as six cubits and a span. A Dead Sea Scroll manuscript and important Greek witnesses read four cubits and a span.
 
-v12–31, v55–58: The Greek form of 1 Samuel omits substantial portions found in the Masoretic Text, especially material concerning David’s arrival, Eliab, and Saul’s questions about David’s family. These are major textual differences, not minor variants. TSW follows the Masoretic Text as primary.
+v12–13: , v14, v15, v16, v17, v18, v19, v20, v21, v22, v23, v24, v25, v26, v27, v28, v29, v30, v31, v55: –58: The Greek form of 1 Samuel omits substantial portions found in the Masoretic Text, especially material concerning David’s arrival, Eliab, and Saul’s questions about David’s family. These are major textual differences, not minor variants.
 
-v18: “Take their pledge” is difficult. It may mean bring back a token confirming their well-being or collect something entrusted by them.
+v29: David’s response is terse and ambiguous: “Was it not only a word?” or “Is there not a cause?”
 
-v25: “Make his father’s house free” probably means exemption from taxes, forced labor, or royal obligations.
-
-v29: David’s response is terse and ambiguous: “Was it not only a word?” or “Is there not a cause?” TSW follows the simpler speech-related sense.
-
-v35: “Beard” translates a Hebrew term that can mean beard, chin, or jaw. The animal imagery is unusually concrete.
-
-v45–47: David does not deny weapons exist; he denies that Israel’s salvation is ultimately determined by weaponry. The battle belongs to the LORD.
-
-v50–51: Verse 50 summarizes Goliath’s death by sling and stone, while verse 51 narrates David using Goliath’s sword to finish the act and remove his head. TSW preserves the narrative sequence.
-
-v54: Jerusalem was not yet David’s capital in the narrative chronology. The verse may reflect later geographic memory or another stage in the tradition; TSW does not harmonize the chronology.
-
-v55–58: Saul’s question may concern David’s family identity and status rather than complete unfamiliarity with David personally, but the relation to 1 Samuel 16 remains narratively difficult.
+v35: “Beard” translates a Hebrew term that can mean beard, chin, or jaw.
 
 ##Vocabulary
 
@@ -203,18 +190,3 @@ v26: חַי (chai)
 
 v28: זָדוֹן (zadon)
 “Presumption” or arrogance.
-
-v37: נָצַל (natsal)
-“To rescue.”
-
-v40: קֶלַע (qela)
-“Sling.”
-
-v45: יְהוָה צְבָאוֹת (YHWH Tseva'ot)
-“LORD of Hosts.”
-
-v47: מִלְחָמָה לַיהוָה (milchamah la-YHWH)
-“The battle belongs to the LORD.”
-
-v50: חָזַק (chazaq)
-“To prevail” or be stronger.

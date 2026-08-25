@@ -8,156 +8,139 @@ translation: TSW
 ## Words, Wisdom, and Conflict
 
 <p>
-v01: One who isolates themselves  
-seeks their own desire  
-and breaks out against  
+v01: One who isolates themselves
+seeks their own desire
+and breaks out against
 all sound wisdom.
 
-v02: A fool takes no delight  
-in understanding,  
-but only in revealing  
+v02: A fool takes no delight
+in understanding,
+but only in revealing
 their own heart.
 
-v03: When wickedness comes,  
-contempt also comes,  
-and with dishonor  
+v03: When wickedness comes,
+contempt also comes,
+and with dishonor
 comes disgrace.
 
-v04: The words of a person’s mouth  
-are deep waters;  
-the fountain of wisdom  
+v04: The words of a person’s mouth
+are deep waters;
+the fountain of wisdom
 is a flowing stream.
 </p>
 
 <p>
-v05: It is not good  
-to show favor to the wicked  
-or to deprive the righteous  
+v05: It is not good
+to show favor to the wicked
+or to deprive the righteous
 of justice.
 
-v06: A fool’s lips enter into conflict,  
-and their mouth  
+v06: A fool’s lips enter into conflict,
+and their mouth
 invites a beating.
 
-v07: A fool’s mouth  
-is their destruction,  
-and their lips  
+v07: A fool’s mouth
+is their destruction,
+and their lips
 are a snare for their life.
 
-v08: The words of a gossip  
-are like delicious morsels;  
-they go down  
+v08: The words of a gossip
+are like delicious morsels;
+they go down
 to the innermost parts.
 
-v09: Whoever is slack  
-in their work  
-is a sibling  
+v09: Whoever is slack
+in their work
+is a sibling
 to one who destroys.
 </p>
 
 ## The Name of the LORD
 
 <p>
-v10: The name of the LORD  
-is a strong tower;  
-the righteous run into it  
+v10: The name of the LORD
+is a strong tower;
+the righteous run into it
 and are secure.
 
-v11: The wealth of the rich  
-is their strong city  
-and like a high wall  
+v11: The wealth of the rich
+is their strong city
+and like a high wall
 in their imagination.
 
-v12: Before destruction  
-a person’s heart is proud,  
-but before honor  
+v12: Before destruction
+a person’s heart is proud,
+but before honor
 comes humility.
 
-v13: Whoever answers  
-before hearing  
-shows folly  
+v13: Whoever answers
+before hearing
+shows folly
 and shame.
 
-v14: A person’s spirit  
-can endure sickness,  
-but a crushed spirit—  
+v14: A person’s spirit
+can endure sickness,
+but a crushed spirit—
 who can bear it?
 </p>
 
 ## Listen Before You Answer
 
 <p>
-v15: The heart of the discerning  
-acquires knowledge,  
-and the ear of the wise  
+v15: The heart of the discerning
+acquires knowledge,
+and the ear of the wise
 seeks knowledge.
 
-v16: A person’s gift  
-makes room for them  
-and brings them  
+v16: A person’s gift
+makes room for them
+and brings them
 before the great.
 
-v17: The first to state a case  
-seems right  
-until another comes  
+v17: The first to state a case
+seems right
+until another comes
 and examines them.
 
-v18: The lot brings disputes to an end  
-and decides  
+v18: The lot brings disputes to an end
+and decides
 between powerful opponents.
 
-v19: A brother or sister offended  
-is harder to win than a fortified city,  
-and disputes are like  
+v19: A brother or sister offended
+is harder to win than a fortified city,
+and disputes are like
 the bars of a fortress.
 </p>
 
 ## Life and Death in the Tongue
 
 <p>
-v20: From the fruit of a person’s mouth  
-their stomach is satisfied;  
-they are filled  
+v20: From the fruit of a person’s mouth
+their stomach is satisfied;
+they are filled
 with the produce of their lips.
 
-v21: Death and life  
-are in the power of the tongue,  
-and those who love it  
+v21: Death and life
+are in the power of the tongue,
+and those who love it
 will eat its fruit.
 
-v22: Whoever finds a wife  
-finds a good thing  
-and obtains favor  
+v22: Whoever finds a wife
+finds a good thing
+and obtains favor
 from the LORD.
 
-v23: The poor speak with pleas,  
+v23: The poor speak with pleas,
 but the rich answer harshly.
 
-v24: A person with many companions  
-may come to ruin,  
-but there is a friend  
+v24: A person with many companions
+may come to ruin,
+but there is a friend
 who sticks closer than a sibling.
 </p>
+##Notes
 
-## Notes
-
-v01: Isolation becomes destructive when it serves only private desire and refuses the corrective wisdom of others.
-
-v08: Gossip is attractive precisely because it tastes good to the listener. The proverb recognizes why destructive speech spreads so effectively.
-
-v10–11: Two sources of security are placed beside one another: the LORD’s name as genuine refuge and wealth as an imagined high wall.
-
-v13: Wisdom requires listening before response. Rapid certainty without hearing is treated as both foolish and shameful.
-
-v17: A persuasive first account can appear decisive until it is subjected to examination. Justice requires hearing more than one side.
-
-v19: Relational injury can create defenses more difficult to cross than military fortifications.
-
-v21: Speech is not treated as harmless. Words can participate in both life-giving and destructive realities.
-
-v24: A large social network is not necessarily equivalent to loyal friendship.
-
-## Vocabulary
+##Vocabulary
 
 v01: תּוּשִׁיָּה (tushiyyah)
 “Sound wisdom.” Effective and stable wisdom.
@@ -170,15 +153,3 @@ v10: מִגְדַּל־עֹז (migdal oz)
 
 v13: בִּין (bin)
 “To understand” or “discern.” Wisdom arising through attentive perception.
-
-v17: חָקַר (chaqar)
-“To examine” or “investigate.” To test a claim by careful inquiry.
-
-v19: מָדוֹן (madon)
-“Dispute” or “contention.” Conflict capable of hardening relationships.
-
-v21: יָד (yad)
-“Hand” or “power.” Used idiomatically for the power exercised by the tongue.
-
-v24: דָּבַק (davaq)
-“To cling” or “stick closely.” Persistent attachment within a relationship.

@@ -168,7 +168,6 @@ teach me your statutes!
 ## Teth
 
 <p>
-
 v65: You have dealt well with your servant,
 
 O LORD, according to your word.
@@ -200,13 +199,11 @@ that I might learn your statutes.
 v72: The law of your mouth is better to me
 
 than thousands of gold and silver pieces.
-
 </p>
 
 ## Yod
 
 <p>
-
 v73: Your hands have made and fashioned me;
 
 give me understanding that I may learn your commandments.
@@ -238,13 +235,11 @@ that they may know your testimonies.
 v80: May my heart be blameless in your statutes,
 
 that I may not be put to shame!
-
 </p>
 
 ## Kaph
 
 <p>
-
 v81: My soul longs for your salvation;
 
 I hope in your word.
@@ -276,13 +271,11 @@ but I have not forsaken your precepts.
 v88: In your steadfast love give me life,
 
 that I may keep the testimonies of your mouth.
-
 </p>
 
 ## Lamed
 
 <p>
-
 v89: Forever, O LORD, your word is firmly fixed in the heavens.
 
 v90: Your faithfulness endures to all generations;
@@ -312,13 +305,11 @@ but I consider your testimonies.
 v96: I have seen a limit to all perfection,
 
 but your commandment is exceedingly broad.
-
 </p>
 
 ## Mem
 
 <p>
-
 v97: Oh how I love your law!
 
 It is my meditation all the day.
@@ -350,13 +341,11 @@ sweeter than honey to my mouth!
 v104: Through your precepts I get understanding;
 
 therefore I hate every false way.
-
 </p>
 
 ## Nun
 
 <p>
-
 v105: Your word is a lamp to my feet
 
 and a light to my path.
@@ -388,13 +377,11 @@ for they are the joy of my heart.
 v112: I incline my heart to perform your statutes
 
 forever, to the end.
-
 </p>
 
 ## Samekh
 
 <p>
-
 v113: I hate the double-minded,
 
 but I love your law.
@@ -426,13 +413,11 @@ therefore I love your testimonies.
 v120: My flesh trembles for fear of you,
 
 and I am afraid of your judgments.
-
 </p>
 
 ## Ayin
 
 <p>
-
 v121: I have done what is just and right;
 
 do not leave me to my oppressors.
@@ -464,13 +449,11 @@ above gold, above fine gold.
 v128: Therefore I consider all your precepts to be right;
 
 I hate every false way.
-
 </p>
 
 ## Pe
 
 <p>
-
 v129: Your testimonies are wonderful;
 
 therefore my soul keeps them.
@@ -502,13 +485,11 @@ and teach me your statutes.
 v136: My eyes shed streams of tears,
 
 because people do not keep your law.
-
 </p>
 
 ## Tsade
 
 <p>
-
 v137: Righteous are you, O LORD,
 
 and right are your judgments.
@@ -540,13 +521,11 @@ but your commandments are my delight.
 v144: Your testimonies are righteous forever;
 
 give me understanding that I may live.
-
 </p>
 
 ## Qoph
 
 <p>
-
 v145: With my whole heart I cry; answer me, O LORD!
 
 I will keep your statutes.
@@ -578,13 +557,11 @@ and all your commandments are true.
 v152: Long have I known from your testimonies
 
 that you have founded them forever.
-
 </p>
 
 ## Resh
 
 <p>
-
 v153: Look on my affliction and deliver me,
 
 for I do not forget your law.
@@ -616,13 +593,11 @@ Give me life according to your steadfast love.
 v160: The sum of your word is truth,
 
 and every one of your righteous judgments endures forever.
-
 </p>
 
 ## Shin
 
 <p>
-
 v161: Princes persecute me without cause,
 
 but my heart stands in awe of your words.
@@ -654,13 +629,11 @@ I love them exceedingly.
 v168: I keep your precepts and testimonies,
 
 for all my ways are before you.
-
 </p>
 
 ## Tav
 
 <p>
-
 v169: Let my cry come before you, O LORD;
 
 give me understanding according to your word!
@@ -692,776 +665,36 @@ and let your judgments help me.
 v176: I have gone astray like a lost sheep; seek your servant,
 
 for I do not forget your commandments.
-
 </p>
+##Notes
 
-## Notes
-## Notes
+v001: Psalm 119 is a full alphabetic acrostic: twenty-two sections correspond to the Hebrew alphabet, with eight verses in each section.
 
-**Structure and Form**
-Psalm 119 is a full alphabetic acrostic: 22 sections (Aleph–Tav), each with 8 verses, totaling 176 verses. Each section consistently emphasizes God’s instruction using a near-synonymous vocabulary set (law, word, statutes, commandments, testimonies, precepts, judgments). The structure itself reinforces completeness and order—an A-to-Z meditation on life before God.
+##Vocabulary
 
-**Core Theological Center**
-The psalm is not about law as abstraction but about **relationship mediated through instruction**. God’s word is:
-- the means of knowing God,
-- the path of faithful living,
-- the ground of hope under pressure.
-
-**Primary Themes**
-
-1. **Instruction as Life (not mere command)**
-God’s word gives life (vv25, 50, 93, 107, 154).
-It is not external regulation but sustaining force.
-
-2. **Internalization**
-The movement is inward:
-- “stored in the heart” (v11)
-- “delight,” “love,” “longing”
-Obedience flows from desire, not coercion.
-
-3. **Affliction as Formation**
-Affliction is not accidental:
-- “before I was afflicted I went astray” (v67)
-- “it is good…that I was afflicted” (v71)
-Suffering clarifies dependence and deepens obedience.
-
-4. **Desire + Discipline**
-The psalm holds together:
-- emotional language: love, delight, longing
-- disciplined action: keep, walk, meditate
-Faithfulness is both affective and practiced.
-
-5. **Memory and Stability**
-Forgetting leads to wandering; remembering stabilizes:
-- repeated refusal to “forget”
-- continual return to God’s word
-
-6. **Opposition and Fidelity**
-External pressure is constant:
-- arrogant, persecutors, rulers
-Yet the response is not retaliation but deeper adherence to God’s instruction.
-
-7. **Total Life Orientation**
-Every dimension of life is addressed:
-- speech (lips declare)
-- thought (meditate)
-- movement (walk/run)
-- time (day/night, continual)
-The law governs the whole life, not a segment.
-
----
-
-**Key Tensions**
-
-- **Dust ↔ Life** (v25)
-- **Affliction ↔ Joy/Delight**
-- **Forgetting ↔ Remembering**
-- **External Threat ↔ Internal Stability**
-- **Finite Human Life ↔ Enduring Word (vv89–90)**
-
-These tensions are not resolved philosophically but held within prayer.
-
----
-
-**Sectional Movement (Macro-Flow)**
-
-- **Aleph–Daleth (vv1–32):** Foundation — blessing, desire, instability, need for formation  
-- **He–Zayin (vv33–56):** Dependence — learning, affliction, memory  
-- **Heth–Kaph (vv57–88):** Commitment under pressure — belonging, endurance  
-- **Lamed–Mem (vv89–104):** Stability of God’s word vs. instability of life  
-- **Nun–Samekh (vv105–120):** Guidance and protection — light, refuge, fear of God  
-- **Ayin–Pe (vv121–136):** Justice and longing — oppression, tears, plea for intervention  
-- **Tsade–Qoph (vv137–152):** God’s righteousness vs. human trouble  
-- **Resh–Tav (vv153–176):** Final appeal — deliverance, perseverance, ending in humility (“I have gone astray…”)
-
----
-
-**Function of Repetition**
-Repetition is not redundancy; it produces:
-- saturation of language,
-- reinforcement of identity,
-- formation through recitation.
-
-The psalm is meant to be inhabited, not skimmed.
-
----
-
-**Final Movement (v176)**
-The psalm ends not in triumph but in humility:
-“I have gone astray like a lost sheep; seek your servant.”
-
-This final line reframes the entire psalm:
-- even sustained devotion does not eliminate dependence,
-- obedience culminates in being sought by God.
-
----
-
-**Summary Insight**
-Psalm 119 presents a comprehensive vision of faithful life:
-- shaped by God’s word,
-- tested by affliction,
-- sustained by desire,
-- completed by divine seeking.
-
-It is less a manual of law and more a **liturgical formation of the self**.
-
-## Vocabulary
-## Vocabulary
-
-v001: תּוֹרָה (torah)  
+v01: תּוֹרָה (torah)
 “Law” or “instruction.” Guiding teaching for life, not merely legal code.
 
-v002: דָּבָר (davar)  
-“Word.” Spoken word, promise, or matter—dynamic and active.
-
-v003: אִמְרָה (imrah)  
-“Promise” or “utterance.” Emphasizes reliability and fulfillment.
-
-v004: מִצְוָה (mitzvah)  
-“Commandment.” Direct obligation given by God.
-
-v005: פִּקּוּדִים (piqqudim)  
-“Precepts.” Detailed instructions requiring careful attention.
-
-v006: חֻקִּים (chuqqim)  
-“Statutes.” Fixed prescriptions or decrees.
-
-v007: מִשְׁפָּטִים (mishpatim)  
+v07: מִשְׁפָּטִים (mishpatim)
 “Judgments.” Decisions expressing justice.
 
-v008: עֵדוֹת (edot)  
+v08: עֵדוֹת (edot)
 “Testimonies.” Witness-bearing declarations of God’s will.
 
-v009: אָהַב (ahav)  
-“To love.” Deep attachment and commitment.
-
-v010: שָׂמַח (samach)  
-“To rejoice.” Joy rooted in alignment with God.
-
-v011: חָפֵץ (chaphets)  
-“To delight.” Desire shaped by God’s ways.
-
-v012: יָרֵא (yare)  
-“To fear.” Reverent awe.
-
-v013: דָּרַשׁ (darash)  
-“To seek.” Active pursuit of God.
-
-v014: בָּטַח (batach)  
+v14: בָּטַח (batach)
 “To trust.” Confidence in God’s word.
 
-v015: יָחַל (yachal)  
-“To hope.” Waiting with expectation.
-
-v016: זָכַר (zakhar)  
-“To remember.” Active recall leading to obedience.
-
-v017: שָׁכַח (shakach)  
+v17: שָׁכַח (shakach)
 “To forget.” Failure of covenant fidelity.
 
-v018: צָפַן (tsaphan)  
-“To store up.” Internalize deeply.
-
-v019: בִּין (bin)  
-“To understand.” Discern meaning.
-
-v020: לָמַד (lamad)  
+v20: לָמַד (lamad)
 “To learn.” Receive instruction.
 
-v021: הָגָה (hagah)  
-“To meditate.” Reflect continuously.
-
-v022: שָׁמַר (shamar)  
-“To keep.” Guard, observe faithfully.
-
-v023: הָלַךְ (halakh)  
-“To walk.” Conduct one’s life.
-
-v024: נָצַר (natsar)  
-“To guard.” Preserve carefully.
-
-v025: דָּבַק (davaq)  
-“To cling.” Hold fast with loyalty.
-
-v026: רָץ (ruts)  
-“To run.” Energetic obedience.
-
-v027: סוּר (sur)  
-“To turn aside.” Deviate from the path.
-
-v028: עָנִי (ani)  
-“Afflicted.” One in suffering or need.
-
-v029: צָרָה (tsarah)  
-“Trouble.” Distress or pressure.
-
-v030: רָדַף (radaph)  
-“To persecute.” Pursue with harm.
-
-v031: זֵד (zed)  
-“Arrogant.” Proud opponent.
-
-v032: שֶׁקֶר (sheqer)  
+v32: שֶׁקֶר (sheqer)
 “Falsehood.” Deception opposed to truth.
 
-v033: חָיָה (chayah)  
-“To give life.” Revive, sustain.
-
-v034: יְשׁוּעָה (yeshuah)  
+v34: יְשׁוּעָה (yeshuah)
 “Salvation.” Deliverance.
 
-v035: גָּאַל (ga’al)  
+v35: גָּאַל (ga’al)
 “To redeem.” Rescue from danger.
-
-v036: רָחַם (racham)  
-“To have compassion.” Deep mercy.
-
-v037: חֶסֶד (chesed)  
-“Steadfast love.” Covenant loyalty.
-
-v038: צֶדֶק (tsedeq)  
-“Righteousness.” Right order and alignment.
-
-v039: תָּם (tam)  
-“Blameless.” Whole, complete integrity.
-
-v040: אֱמֶת (emet)  
-“Truth.” Reliability, firmness.
-
-v041: יָשָׁר (yashar)  
-“Upright.” Straight, correct.
-
-v042: עָוֹן (avon)  
-“Iniquity.” Twisted wrongdoing.
-
-v043: דֶּרֶךְ (derekh)  
-“Way.” Path of life.
-
-v044: אֹרַח (orach)  
-“Path.” Direction or course.
-
-v045: נֵר (ner)  
-“Lamp.” Source of light.
-
-v046: אוֹר (or)  
-“Light.” Illumination, guidance.
-
-v047: רָחַב (rachav)  
-
-“To enlarge.” Expand capacity, especially of the heart (v32).
-
-v048: יָשַׁר (yashar)  
-
-“To make straight.” To direct rightly (overlaps with uprightness).
-
-v049: שׁוּב (shuv)  
-
-“To return.” Turn back, often in repentance or restoration.
-
-v050: חָנַן (chanan)  
-
-“To be gracious.” Show favor or mercy.
-
-v051: סָמַךְ (samak)  
-
-“To uphold.” Sustain or support.
-
-v052: תָּמַךְ (tamak)  
-
-“To hold fast.” Strengthen or steady.
-
-v053: שָׁפַט (shaphat)  
-
-“To judge.” Govern or decide justly.
-
-v054: בּוּשׁ (bush)  
-
-“To be ashamed.” Experience disgrace.
-
-v055: נָגַע (naga)  
-
-“To reach.” Extend or touch (used conceptually in longing).
-
-v056: פָּדָה (padah)  
-
-“To redeem.” Ransom or rescue.
-
-v057: עָנָה (anah)  
-
-“To answer.” Respond, often in prayer.
-
-v058: קָרָא (qara)  
-
-“To call.” Cry out or proclaim.
-
-v059: שָׂנֵא (sane)  
-
-“To hate.” Reject or oppose.
-
-v060: נָתַן (natan)  
-
-“To give.” Provide or grant.
-
-v061: אָחַז (achaz)  
-
-“To seize.” Take hold of.
-
-v062: נָטָה (natah)  
-
-“To incline.” Turn or stretch toward.
-
-v063: פָּלָא (pala)  
-
-“To be wonderful.” Beyond comprehension.
-
-v064: תָּעָה (ta‘ah)  
-
-“To go astray.” Wander off course.
-
-v065: יָסַף (yasaph)  
-
-“To add.” Continue or increase.
-
-v066: שָׁקַד (shaqad)  
-
-“To watch.” Be vigilant or attentive.
-
-v067: עָמַד (amad)  
-
-“To stand.” Remain firm.
-
-v068: יָסַר (yasar)  
-
-“To discipline.” Correct or instruct.
-
-v069: מָאַס (ma’as)  
-
-“To reject.” Refuse or despise.
-
-v070: נָגַד (nagad)  
-
-“To declare.” Make known.
-
-v071: סָפַר (saphar)  
-
-“To recount.” Tell or narrate.
-
-v072: שִׂיחַ (siaḥ)  
-
-“To meditate.” Reflect deeply.
-
-v073: שָׂגַב (sagav)  
-
-“To be high.” Set securely on high.
-
-v074: חָשַׁב (chashav)  
-
-“To consider.” Think or reckon.
-
-v075: נָצַל (natsal)  
-
-“To deliver.” Rescue from danger.
-
-v076: פָּתַח (patach)  
-
-“To open.” Reveal or make accessible.
-
-v077: עָרַב (arav)  
-
-“To pledge.” Guarantee or assure.
-
-v078: שָׁמֵם (shamem)  
-
-“To be desolate.” Be devastated.
-
-v079: גָּדַל (gadal)  
-
-“To be great.” Grow or magnify.
-
-v080: שָׁלֵם (shalem)  
-
-“To be whole.” Complete or sound.
-
-v081: קָוָה (qavah)  
-
-“To wait.” Hope with endurance.
-
-v082: חָקַר (chaqar)  
-
-“To search.” Investigate deeply.
-
-v083: שָׁתַק (shataq)  
-
-“To be silent.” Cease speaking.
-
-v084: נָשַׁף (nashaph)  
-
-“To breathe.” Exhale, often in longing.
-
-v085: חָפַר (chaphar)  
-
-“To dig.” Prepare traps or pits.
-
-v086: אֱמַן (aman)  
-
-“To be faithful.” Reliable or firm.
-
-v087: כָּלָה (kalah)  
-
-“To come to an end.” Be finished or consumed.
-
-v088: חָיָה (chayah)  
-
-“To revive.” Restore life again.
-
-v089: יָסַד (yasad)  
-
-“To establish.” Set firmly.
-
-v090: כּוּן (kun)  
-
-“To be firm.” Stand secure.
-
-v091: עָבַד (avad)  
-
-“To serve.” Function or obey.
-
-v092: אָבַד (avad)  
-
-“To perish.” Be lost or destroyed.
-
-v093: חָיָה (chayah)  
-
-“To give life.” Sustain continuously.
-
-v094: קָנָה (qanah)  
-
-“To possess.” Belong to or acquire.
-
-v095: אָרַב (arab)  
-
-“To lie in wait.” Ambush.
-
-v096: קֵץ (qets)  
-
-“End.” Limit or boundary.
-
-v097: אָהַב (ahav)  
-
-“To love.” Deep attachment and commitment.
-
-v098: חָכַם (chakam)  
-
-“To be wise.” Gain skill in living.
-
-v099: בִּין (bin)  
-
-“To understand.” Discern insight.
-
-v100: זָקֵן (zaqen)  
-
-“Elder.” One advanced in age; source of wisdom.
-
-v101: חָשַׂךְ (chasakh)  
-
-“To restrain.” Hold back from action.
-
-v102: סוּר (sur)  
-
-“To turn aside.” Deviate or depart.
-
-v103: מָתוֹק (matok)  
-
-“Sweet.” Pleasing to taste.
-
-v104: בִּין (bin)  
-
-“To understand.” Gain discernment (repeated emphasis).
-
-v105: נֵר (ner)  
-
-“Lamp.” Source of light for guidance.
-
-v106: שָׁבַע (shava)  
-
-“To swear.” Take an oath.
-
-v107: עָנָה (anah)  
-
-“To afflict.” Cause suffering.
-
-v108: נְדָבָה (nedavah)  
-
-“Freewill offering.” Voluntary gift.
-
-v109: כַּף (kaf)  
-
-“Hand.” Symbol of life held precariously.
-
-v110: פַּח (pach)  
-
-“Snare.” Trap.
-
-v111: נַחֲלָה (nachalah)  
-
-“Inheritance.” Possession passed down.
-
-v112: נָטָה (natah)  
-
-“To incline.” Bend or direct.
-
-v113: סֵעֵף (se‘ef)  
-
-“Double-minded.” Divided thinking.
-
-v114: סֵתֶר (seter)  
-
-“Hiding place.” Refuge.
-
-v115: רָשָׁע (rasha)  
-
-“Wicked.” One opposed to righteousness.
-
-v116: סָמַךְ (samak)  
-
-“To uphold.” Support or sustain.
-
-v117: שָׁעָה (sha‘ah)  
-
-“To regard.” Pay attention to.
-
-v118: שָׁגָה (shagah)  
-
-“To go astray.” Wander in error.
-
-v119: סִיג (sig)  
-
-“Dross.” Impurity to be removed.
-
-v120: סָעַר (sa‘ar)  
-
-“To tremble.” Shake in fear.
-
-v121: עָשָׂה (asah)  
-
-“To do.” Act or perform.
-
-v122: עָרַב (arav)  
-
-“To pledge.” Guarantee.
-
-v123: כָּלָה (kalah)  
-
-“To long.” Be consumed with desire.
-
-v124: עָשָׂה (asah)  
-
-“To deal.” Act toward someone.
-
-v125: עֶבֶד (‘eved)  
-
-“Servant.” One who belongs to another.
-
-v126: עֵת (et)  
-
-“Time.” Appointed moment.
-
-v127: פָּז (paz)  
-
-“Fine gold.” Pure gold.
-
-v128: יָשַׁר (yashar)  
-
-“To be right.” Straight or correct.
-
-v129: פָּלָא (pala)  
-
-“To be wonderful.” Extraordinary.
-
-v130: פָּתַח (patach)  
-
-“To open.” Reveal.
-
-v131: פָּעַר (pa‘ar)  
-
-“To open wide.” Express longing.
-
-v132: פָּנָה (panah)  
-
-“To turn.” Direct attention.
-
-v133: כוּן (kun)  
-
-“To establish.” Make firm.
-
-v134: פָּדָה (padah)  
-
-“To redeem.” Rescue.
-
-v135: אוֹר (or)  
-
-“Light.” Illumination.
-
-v136: פֶּלֶג (peleg)  
-
-“Stream.” Flow of water (tears).
-
-v137: צַדִּיק (tsaddiq)  
-
-“Righteous.” One in right standing.
-
-v138: אֱמוּנָה (emunah)  
-
-“Faithfulness.” Reliability.
-
-v139: קִנְאָה (qin’ah)  
-
-“Zeal.” Intense passion.
-
-v140: צָרַף (tsaraph)  
-
-“To refine.” Purify through testing.
-
-v141: קָטֹן (qaton)  
-
-“Small.” Insignificant.
-
-v142: עוֹלָם (olam)  
-
-“Everlasting.” Endless duration.
-
-v143: מָצָא (matsa)  
-
-“To find.” Encounter.
-
-v144: צֶדֶק (tsedeq)  
-
-“Righteousness.” Moral order.
-
-v145: קָרָא (qara)  
-
-“To call.” Cry out.
-
-v146: יָשַׁע (yasha)  
-
-“To save.” Deliver.
-
-v147: שָׁכַם (shakam)  
-
-“To rise early.” Begin early.
-
-v148: שָׁמַר (shamar)  
-
-“To watch.” Keep vigil.
-
-v149: שָׁמַע (shama)  
-
-“To hear.” Listen.
-
-v150: קָרַב (qarav)  
-
-“To draw near.” Approach.
-
-v151: קָרוֹב (qarov)  
-
-“Near.” Close in presence.
-
-v152: יָסַד (yasad)  
-
-“To found.” Establish.
-
-v153: רָאָה (ra’ah)  
-
-“To see.” Observe.
-
-v154: רִיב (riv)  
-
-“To contend.” Plead a case.
-
-v155: רָחוֹק (rachok)  
-
-“Far.” Distant.
-
-v156: רַחֲמִים (rachamim)  
-
-“Mercies.” Deep compassion.
-
-v157: רַב (rav)  
-
-“Many.” Numerous.
-
-v158: קוּט (qut)  
-
-“To loathe.” Feel disgust.
-
-v159: רָאָה (ra’ah)  
-
-“To consider.” Observe carefully.
-
-v160: רֹאשׁ (rosh)  
-
-“Sum.” Total or entirety.
-
-v161: שָׂר (sar)  
-
-“Prince.” Ruler.
-
-v162: שָׂשׂ (sas)  
-
-“To rejoice.” Exult.
-
-v163: תָּעַב (ta‘av)  
-
-“To abhor.” Reject strongly.
-
-v164: שֶׁבַע (sheva)  
-
-“Seven.” Symbol of completeness.
-
-v165: שָׁלוֹם (shalom)  
-
-“Peace.” Wholeness.
-
-v166: יָחַל (yachal)  
-
-“To hope.” Wait expectantly.
-
-v167: שָׁמַר (shamar)  
-
-“To keep.” Observe faithfully.
-
-v168: נֶגֶד (neged)  
-
-“Before.” In front of.
-
-v169: תְּחִנָּה (techinnah)  
-
-“Plea.” Supplication.
-
-v170: פְּלֵיטָה (pelitah)  
-
-“Deliverance.” Escape.
-
-v171: נָבַע (nava)  
-
-“To pour forth.” Flow out.
-
-v172: עָנָה (anah)  
-
-“To answer.” Respond.
-
-v173: יָד (yad)  
-
-“Hand.” Power or action.
-
-v174: תַּאֲוָה (ta’avah)  
-
-“Longing.” Desire.
-
-v175: הָלַל (halal)  
-
-“To praise.” Celebrate.
-
-v176: שָׁגָה (shagah)  
-
-“To stray.” Wander off.

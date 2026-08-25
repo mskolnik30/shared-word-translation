@@ -24,16 +24,16 @@ v05: The LORD descended in the cloud and stood with him there and proclaimed the
 
 v06: The LORD passed before him and proclaimed:
 
-“The LORD, the LORD,  
-a God compassionate and gracious,  
-slow to anger,  
+“The LORD, the LORD,
+a God compassionate and gracious,
+slow to anger,
 abundant in steadfast love and faithfulness,
 
-v07: keeping steadfast love for thousands,  
-forgiving guilt, transgression, and sin,  
-yet by no means clearing the guilty,  
-attending to the guilt of fathers  
-upon children and children’s children,  
+v07: keeping steadfast love for thousands,
+forgiving guilt, transgression, and sin,
+yet by no means clearing the guilty,
+attending to the guilt of fathers
+upon children and children’s children,
 to the third and fourth generation.”
 </p>
 
@@ -114,34 +114,14 @@ v34: But whenever Moses went in before the LORD to speak with him, he removed th
 
 v35: The children of Israel saw the face of Moses, that the skin of Moses’ face was shining. Then Moses put the veil back over his face until he went in to speak with him.
 </p>
-
 ##Notes
 
-v01: The second tablets restore the covenant testimony after Moses shattered the first set in response to the golden calf.
-
-v05–07: The LORD’s self-proclamation holds compassion and accountability together. Steadfast love, faithfulness, and forgiveness are not separated from judgment.
-
-v07: The language of guilt reaching later generations describes the extended consequences of covenant wrongdoing. It should not be reduced to a mechanical doctrine that innocent descendants are personally guilty for ancestors’ sins.
-
-v09: Moses asks the LORD to go in Israel’s midst precisely while acknowledging Israel’s stubbornness. Presence is requested as grace, not as reward for an ideal people.
-
-v14: “Jealous” is given as a divine name. In covenant context the term concerns exclusive relational claim, not petty insecurity.
-
-v15–16: Marital and cultic language overlap because intermarriage is presented here specifically as a pathway into worship of other gods.
-
-v28: “Ten Words” translates Hebrew *aseret ha-devarim*, traditionally called the Ten Commandments.
-
-v29: The verb describing Moses’ face is related to the Hebrew word for “horn” and literally suggests emitting rays. Ancient interpretation sometimes represented Moses with horns; the context clearly describes radiance.
-
-v33–35: The veil regulates the people’s exposure to the radiance associated with Moses’ encounter with the LORD; it is removed when Moses enters to speak with God.
+v29: The verb describing Moses’ face is related to the Hebrew word for “horn” and literally suggests emitting rays.
 
 ##Vocabulary
 
 v06: רַחוּם (rachum)
 “Compassionate.” Deeply merciful in disposition.
-
-v06: חַנּוּן (channun)
-“Gracious.” Freely giving favor.
 
 v06: אֶרֶךְ אַפַּיִם (erekh appayim)
 “Slow to anger,” literally “long of nostrils.”
@@ -151,15 +131,3 @@ v06: חֶסֶד וֶאֱמֶת (ḥesed ve-emet)
 
 v14: קַנָּא (qanna)
 “Jealous.” Zealous for exclusive covenant allegiance.
-
-v22: חַג שָׁבֻעוֹת (chag shavuot)
-“Festival of Weeks.” The wheat-harvest festival.
-
-v28: עֲשֶׂרֶת הַדְּבָרִים (aseret ha-devarim)
-“Ten Words.” The covenantal sayings written on the tablets.
-
-v29: קָרַן (qaran)
-“To shine” or “send out rays.” Used of Moses’ face.
-
-v33: מַסְוֶה (masveh)
-“Veil.” The covering Moses places over his face.

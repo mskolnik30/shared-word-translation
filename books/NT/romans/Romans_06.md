@@ -23,7 +23,6 @@ v10: The death he died, he died to sin once for all; but the life he lives, he l
 v11: So you also must consider yourselves dead to sin and alive to God in Christ Jesus.
 </p>
 
-
 ## Slaves of Righteousness
 <p>
 v12: Therefore, do not let sin exercise dominion in your mortal bodies, to make you obey their desires.
@@ -46,74 +45,20 @@ v19: I am speaking in human terms because of your natural limitations. For just 
 v20: For when you were slaves of sin, you were free with respect to righteousness.
 v21: So what advantage did you then get from the things of which you are now ashamed? The end of those things is death.
 v22: But now that you have been freed from sin and enslaved to God, the advantage you get is sanctification. The end is eternal life.
-v23: For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.  
+v23: For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.
 </p>
+##Notes
 
+##Vocabulary
 
-## Notes
-v5: “united with him”
-The verb signals participation rather than imitation. Paul describes a shared reality grounded in Christ’s death and resurrection, not a metaphor for moral effort.
+v05: σύμφυτος (symphytos)
+“United with.” Conveys organic participation or shared life, not mere association or imitation.
 
-v6: “the body of sin”
-This phrase does not identify the physical body as evil. It names the self as organized under sin’s power, which is rendered powerless through participation in Christ’s death.
-
-v7: “freed from sin”
-Freedom is stated as an accomplished reality, not a future goal. The logic is declarative before it becomes imperative.
-
-v9: “death no longer exercises dominion”
-Dominion language continues the thread from Romans 5. Death is personified as a ruling power whose authority has been broken in Christ.
-
-v11: “consider yourselves”
-The verb calls for alignment of perception with reality, not self-persuasion. The exhortation rests on what God has already done.
-
-v12–13: “do not let sin exercise dominion”
-The imperatives respond to a changed status. Resistance to sin flows from liberation, not from fear of condemnation.
-
-v14: “not under law but under grace”
-This contrast marks a change in governing sphere, not the abolition of moral concern. Grace names the power under which obedience becomes possible.
-
-v16: “slaves of the one whom you obey”
-Paul rejects autonomy as an option. The choice is between rival dominions, not between slavery and freedom as such.
-
-v17: “obedient from the heart”
-Obedience is redefined as responsive formation rather than external compliance. The heart names orientation, not emotion.
-
-v19: “I am speaking in human terms”
-Paul acknowledges the limits of the slavery metaphor. The analogy is illustrative, not exhaustive.
-
-v22: “enslaved to God”
-The paradox is deliberate. Belonging to God is framed as true freedom because the outcome is life rather than death.
-
-v23: “wages” / “free gift”
-The contrast is asymmetrical. Death is earned; life is given. Eternal life is not the natural result of moral improvement but the gift of God in Christ.
-
-## Vocabulary
-v5: σύμφυτος (symphytos)
-“United with.” Conveys organic participation or shared life, not mere association or imitation. The term emphasizes incorporation into Christ’s death and resurrection.
-
-v6: καταργέω (katargeō)
+v06: καταργέω (katargeō)
 “To render powerless.” Does not mean annihilation. Sin’s authority is broken, though its presence remains contested.
 
-v7: ἐλευθερόω (eleutheroō)
-“To free.” Liberation is declared as an accomplished reality, grounding the ethical exhortations that follow.
-
-v9: κυριεύω (kyrieuō)
+v09: κυριεύω (kyrieuō)
 “To exercise dominion.” Signals ruling authority. Used of death and sin to describe oppressive powers rather than isolated acts.
-
-v11: λογίζομαι (logizomai)
-“To consider; to reckon.” Calls for alignment with reality rather than self-deception. The verb echoes earlier chapters while shifting from justification to lived identity.
 
 v13: ὅπλα (hopla)
 “Instruments.” Literally “weapons.” The term heightens the sense of embodied participation in rival dominions.
-
-v16: δοῦλος (doulos)
-“Slave.” A deliberately stark metaphor. Paul rejects autonomy and frames life as allegiance to one of two masters.
-
-v19: ἁγιασμός (hagiasmos)
-“Sanctification.” Refers to being set apart through lived orientation toward God, not moral perfectionism.
-
-v23: ὀψώνια (opsōnia)
-“Wages.” A term drawn from military pay. Death is earned; life is not.
-
-v23: χάρισμα (charisma)
-“Free gift.” Emphasizes grace as unearned and unrepayable. Eternal life is given, not achieved.

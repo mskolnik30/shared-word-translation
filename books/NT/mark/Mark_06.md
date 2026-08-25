@@ -22,7 +22,7 @@ v06: And he was amazed at their unbelief.
 ## The Twelve Are Sent Out
 
 <p>
-v06: Then he went about among the villages teaching.
+Then he went about among the villages teaching.
 v07: He called the twelve and began to send them out two by two, and gave them authority over the unclean spirits.
 v08: He charged them to take nothing for the journey except a staff; no bread, no bag, no money in their belts;
 v09: but to wear sandals and not to put on two tunics.
@@ -142,131 +142,23 @@ v54: And when they got out of the boat, people at once recognized him,
 v55: and ran about that whole region and began to bring the sick on mats to wherever they heard he was.
 v56: And wherever he entered villages, or cities, or countryside, they laid the sick in the marketplaces and begged him that they might touch even the fringe of his cloak; and all who touched it were healed.
 </p>
-
-## Notes
-v1–3: Jesus returns to his hometown, but recognition does not lead to trust. Familiarity becomes a stumbling block. The questions asked by the crowd are not neutral; they register astonishment mixed with resistance.
-
-v3: “The carpenter” preserves the ordinary social location assigned to Jesus. “Son of Mary” may simply identify him through family relation, though the wording remains striking in a culture where paternal identification was more common.
-
-v4: Jesus speaks a proverb rather than a defense. Rejection is named as part of the prophetic pattern, and the narrowing circles—hometown, kin, house—intensify the nearness of the offense.
-
-v5–6: The text does not explain the relation between unbelief and the limitation of deeds of power. It leaves the tension in place. Jesus heals some, yet the setting remains marked by resistance.
-
-v6b–9: The sending of the twelve is communal and stripped down. Their dependence is not accidental but integral to the mission. The instructions preserve urgency and vulnerability together.
-
-v10–11: Hospitality and refusal are both anticipated. The shaking off of dust functions as a testimony rather than an act of revenge.
-
-v12–13: Proclamation, exorcism, anointing, and healing are held together. Repentance is announced not as abstraction but in the midst of embodied restoration.
-
-v14–16: Herod hears reports of Jesus through a field of speculation. The repeated attempts to identify Jesus signal both his growing public significance and the inadequacy of easy explanation.
-
-v17–20: John’s imprisonment is political and personal at once. Herod is divided: he fears John, protects him, is perplexed by him, and yet continues to listen to him.
-
-v21–29: The banquet scene exposes how power, spectacle, oath, and public pressure converge. John’s death is narrated without embellishment, which sharpens rather than softens its force.
+##Notes
 
 v22: Some manuscripts read “his daughter Herodias,” while others may imply “the daughter of Herodias.” The main text follows the traditional reading without pressing the issue beyond what the text permits.
 
-v29: John’s disciples perform the burial that Herod’s court would not. The action is brief and dignified.
+##Vocabulary
 
-v30: Mark briefly names the returning disciples as apostles, emphasizing those who were sent and now return to report. Doing and teaching are paired without evaluation, holding action and accountability together.
+v04: προφήτης (prophētēs)
+“Prophet; one who speaks forth.”
 
-v31: Jesus invites them to withdraw together to rest, yet the rest named is limited and fragile. Ongoing demand presses so heavily that basic needs, even eating, are disrupted.
+v06: ἀπιστία (apistia)
+“Unbelief; lack of trust.”
 
-v32: The boat becomes a space of movement and attempted separation. The “deserted place” is sought as a place of withdrawal, though not secured.
+v11: μαρτύριον (martyrion)
+“Testimony; witness.”
 
-v33: The crowd recognizes Jesus and responds with urgency. Their movement overtakes the disciples’ attempt at rest, creating tension without commentary.
+v12: μετανοῶσιν (metanoōsin)
+“Repent; turn in mind and life.”
 
-v34: Jesus’ response begins with seeing, then compassion. The crowd is described as vulnerable rather than blameworthy. Teaching follows compassion, even as the earlier need for rest remains unresolved.
-
-v35–37: The disciples name the practical problem accurately, but Jesus places responsibility back into their hands. The command, “You give them something to eat,” exposes both their limits and the scope of the need.
-
-v38–40: The smallness of what they have is not denied. The ordered seating on the green grass gives shape to the crowd and prepares for shared provision rather than chaos.
-
-v41: The sequence—took, blessed, broke, gave—carries the force of deliberate action without requiring later sacramental conclusions to be imposed upon the scene.
-
-v42–44: The meal is sufficient for all. The count of “five thousand men” likely reflects an ancient mode of numbering rather than the full composition of the crowd.
-
-v45–46: Jesus sends the disciples ahead and dismisses the crowd, then withdraws alone to pray. Solitude here follows both ministry and miracle.
-
-v48: “He intended to pass by them” is left as written. The phrase may evoke divine self-disclosure, but the text does not explain it directly and should not be reduced to mere indifference.
-
-v50: “I am” preserves the compact force of the Greek and allows both ordinary reassurance and deeper resonance to remain open in the hearing.
-
-v51–52: The disciples’ astonishment is tied not only to the storm but also to their failure to understand the loaves. The chapter links bread, fear, and perception more tightly than they themselves yet grasp.
-
-v53–56: The closing scene gathers villages, cities, and countryside into one widening field of response. The urgency of the crowds continues, but now the emphasis falls on recognition, touch, and healing.
-
-## Vocabulary
-v3: τέκτων (tektōn) — carpenter; craftsperson; builder
-
-v3: ἐσκανδαλίζοντο (eskandalizonto) — they took offense; they stumbled
-
-v4: προφήτης (prophētēs) — prophet; one who speaks forth
-
-v5: δύναμις (dynamis) — deed of power; mighty work
-
-v6: ἀπιστία (apistia) — unbelief; lack of trust
-
-v7: ἀποστέλλειν (apostellein) — to send out
-
-v7: ἐξουσία (exousia) — authority; delegated power
-
-v8: πήρα (pēra) — bag; traveler’s sack
-
-v11: μαρτύριον (martyrion) — testimony; witness
-
-v12: μετανοῶσιν (metanoōsin) — repent; turn in mind and life
-
-v13: ἤλειφον ἐλαίῳ (ēleiphon elaiō) — anointed with oil
-
-v14: ἐγήγερται (egēgertai) — has been raised
-
-v15: προφήτης (prophētēs) — prophet
-
-v17: κρατέω (krateō) — seize; hold fast
-
-v19: ἐνεῖχεν (eneichen) — held against; bore a grudge
-
-v20: δίκαιος (dikaios) — righteous; just
-
-v20: ἅγιος (hagios) — holy; set apart
-
-v20: ἠπόρει (ēporei) — was perplexed; was at a loss
-
-v25: ἐξαυτῆς (exautēs) — immediately; at once
-
-v30: ἀπόστολοι (apostoloi) — apostles; those who are sent
-
-v31: ἀναπαύσασθε (anapausasthe) — rest; be refreshed
-
-v31: ἔρημος (erēmos) — deserted place; wilderness
-
-v33: συνέδραμον (synedramon) — ran together; hurried toward
-
-v34: σπλαγχνίζομαι (splagchnizomai) — have compassion; be moved inwardly
-
-v34: πρόβατα … μὴ ἔχοντα ποιμένα (probata … mē echonta poimena) — sheep without a shepherd
-
-v34: ἐδίδασκεν (edidasken) — was teaching
-
-v37: δηνάριον (dēnarion) — denarius; a day’s wage coin
-
-v39: συμπόσια συμπόσια (symposia symposia) — groups; dining companies arranged in clusters
-
-v41: κατέκλασεν (kateklasen) — broke
-
-v42: ἐχορτάσθησαν (echortasthēsan) — were filled; were satisfied
-
-v43: κλάσματα (klasmata) — broken pieces; fragments
-
-v48: βασανιζομένους (basanizomenous) — distressed; tormented; hard pressed
-
-v48: τετάρτη φυλακή (tetartē phylakē) — fourth watch; late-night watch
-
-v49: φάντασμα (phantasma) — ghost; apparition
-
-v50: ἐγώ εἰμι (egō eimi) — I am; it is I
-
-v52: πεπωρωμένη (pepōrōmenē) — hardened; dulled
-
-v56: κράσπεδον (kraspedon) — fringe; edge; tassel
+v13: ἤλειφον ἐλαίῳ (ēleiphon elaiō)
+“Anointed with oil.”

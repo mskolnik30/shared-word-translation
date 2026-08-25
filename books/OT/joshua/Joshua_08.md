@@ -94,22 +94,9 @@ v34: Afterward Joshua read all the words of the instruction, the blessing and th
 
 v35: There was not a word of all that Moses commanded that Joshua did not read before all the assembly of Israel, including the women, the little children, and the resident aliens who lived among them.
 </p>
+##Notes
 
-## Notes
-
-v02: Unlike Jericho, Ai’s plunder is permitted to Israel. The contrast makes Achan’s earlier seizure especially unnecessary.
-
-v03, v12: The chapter reports both thirty thousand and five thousand men associated with ambush forces. The relationship between the numbers is not fully explained; TSW preserves both figures.
-
-v18: Joshua’s extended javelin functions as a battle signal and also recalls earlier scenes in which a leader’s outstretched hand accompanies divine victory.
-
-v24–26: The *herem* language remains severe and total. TSW preserves the received warfare account without adding a moral resolution not present in the chapter.
-
-v30–35: The conquest narrative pauses for covenant worship and public reading. Possession of the land is placed under the authority of the instruction given through Moses.
-
-v35: The entire assembly hears the instruction, explicitly including women, children, and resident aliens.
-
-## Vocabulary
+##Vocabulary
 
 v02: אָרַב (arav)
 “To lie in ambush.” The central tactic used against Ai.
@@ -119,12 +106,6 @@ v18: כִּידוֹן (kidon)
 
 v26: חָרַם (charam)
 “To devote to destruction.” To place under irrevocable divine ban.
-
-v28: תֵּל (tel)
-“Mound.” A heap or ruin mound, here describing destroyed Ai.
-
-v31: שְׁלֵמוֹת (shele mot)
-“Uncut” or “whole.” Stones left untouched by an iron tool.
 
 v34: בְּרָכָה וּקְלָלָה (berakhah u-qelalah)
 “Blessing and curse.” The covenantal alternatives read before Israel.

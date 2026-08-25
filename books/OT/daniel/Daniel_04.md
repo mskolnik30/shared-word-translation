@@ -14,9 +14,9 @@ May your peace increase.
 
 v02: It has seemed good to me to declare the signs and wonders that the Most High God has done toward me.
 
-v03: How great are his signs,  
-and how mighty are his wonders!  
-His kingdom is an everlasting kingdom,  
+v03: How great are his signs,
+and how mighty are his wonders!
+His kingdom is an everlasting kingdom,
 and his rule is from generation to generation.
 </p>
 
@@ -37,25 +37,25 @@ v09: “Belteshazzar, chief of the magicians, because I know that the spirit of 
 
 v10: These were the visions of my head upon my bed:
 
-I was looking,  
-and behold, a tree  
-was in the midst of the earth,  
+I was looking,
+and behold, a tree
+was in the midst of the earth,
 and its height was great.
 
-v11: The tree grew  
-and became strong;  
-its height reached to the heavens,  
-and it was visible  
+v11: The tree grew
+and became strong;
+its height reached to the heavens,
+and it was visible
 to the end of the whole earth.
 
-v12: Its leaves were beautiful,  
-and its fruit was abundant,  
-and in it was food for all.  
-The animals of the field  
-found shade under it,  
-the birds of the heavens  
-dwelt in its branches,  
-and all flesh  
+v12: Its leaves were beautiful,
+and its fruit was abundant,
+and in it was food for all.
+The animals of the field
+found shade under it,
+the birds of the heavens
+dwelt in its branches,
+and all flesh
 was fed from it.
 </p>
 
@@ -66,38 +66,38 @@ v13: “I was looking in the visions of my head upon my bed, and look, a watcher
 
 v14: He called with strength and said thus:
 
-‘Cut down the tree  
-and cut off its branches;  
-strip off its leaves  
-and scatter its fruit.  
-Let the animals flee  
-from under it  
-and the birds  
+‘Cut down the tree
+and cut off its branches;
+strip off its leaves
+and scatter its fruit.
+Let the animals flee
+from under it
+and the birds
 from its branches.
 
-v15: But leave the stump of its roots  
-in the earth,  
-with a band of iron and bronze,  
-among the grass of the field.  
-Let him be wet  
-with the dew of the heavens,  
-and let his portion be with the animals  
+v15: But leave the stump of its roots
+in the earth,
+with a band of iron and bronze,
+among the grass of the field.
+Let him be wet
+with the dew of the heavens,
+and let his portion be with the animals
 in the grass of the earth.
 
-v16: Let his human heart be changed,  
-and let the heart of an animal  
-be given to him,  
-and let seven times  
+v16: Let his human heart be changed,
+and let the heart of an animal
+be given to him,
+and let seven times
 pass over him.
 
-v17: The sentence is by decree of the watchers,  
-and the matter by command  
-of the holy ones,  
-so that the living may know  
-that the Most High rules  
-over the kingdom of humanity  
-and gives it to whomever he wills  
-and sets over it  
+v17: The sentence is by decree of the watchers,
+and the matter by command
+of the holy ones,
+so that the living may know
+that the Most High rules
+over the kingdom of humanity
+and gives it to whomever he wills
+and sets over it
 the lowliest of people.’
 </p>
 
@@ -154,55 +154,28 @@ v33: Immediately the word was fulfilled upon Nebuchadnezzar. He was driven away 
 <p>
 v34: “At the end of the days, I, Nebuchadnezzar, lifted my eyes to the heavens, and my reason returned to me. I blessed the Most High and praised and honored the one who lives forever:
 
-For his rule  
-is an everlasting rule,  
-and his kingdom  
+For his rule
+is an everlasting rule,
+and his kingdom
 from generation to generation.
 
-v35: All the inhabitants of the earth  
-are regarded as nothing,  
-and he does according to his will  
-among the army of the heavens  
-and the inhabitants of the earth.  
-There is no one  
-who can strike his hand  
-or say to him,  
+v35: All the inhabitants of the earth
+are regarded as nothing,
+and he does according to his will
+among the army of the heavens
+and the inhabitants of the earth.
+There is no one
+who can strike his hand
+or say to him,
 ‘What have you done?’
 
 v36: At that time my reason returned to me, and for the glory of my kingdom my majesty and splendor returned to me. My counselors and nobles sought me, and I was established over my kingdom, and extraordinary greatness was added to me.
 
 v37: Now I, Nebuchadnezzar, praise, exalt, and honor the King of the heavens, for all his works are truth and his ways are justice, and those who walk in pride he is able to humble.”
 </p>
-
 ##Notes
 
-v01: In the Masoretic chapter division Daniel 4 begins at English 3:31. Standard English Bibles number this royal proclamation as Daniel 4:1–3. TSW follows public English numbering.
-
-v04: “flourishing” translates an Aramaic adjective suggesting vigorous, luxuriant growth, preparing for the tree imagery that follows.
-
-v08–09: Nebuchadnezzar describes Daniel with pagan court language, “the spirit of the holy gods.” Daniel’s own interpretation consistently attributes sovereignty to the Most High.
-
-v13: “watcher” is a distinctive Aramaic term for a heavenly being who watches and announces divine judgment.
-
-v16: “seven times” is intentionally unspecific. It can denote seven periods or seasons; the text does not define their precise duration.
-
-v17: The watchers announce the decree, but verse 24 calls it “the decree of the Most High,” keeping heavenly agency subordinate to divine sovereignty.
-
-v19: Daniel’s alarm shows concern for the king even while announcing judgment against him.
-
-v22: The tree represents Nebuchadnezzar and the extensive reach of his empire, including provision and shelter for many peoples.
-
-v26: “the heavens rule” is a reverential way of speaking of God’s rule, not a claim that impersonal heavens exercise independent sovereignty.
-
-v27: Daniel calls the king toward righteousness expressed concretely through mercy to the poor. The exact relationship between repentance and a possible delay of judgment is left open in “perhaps.”
-
-v30: Nebuchadnezzar’s boast attributes Babylon to his own power and glory, directly contradicting the chapter’s repeated claim that the Most High gives kingdoms.
-
-v33: The narrative describes Nebuchadnezzar in animal-like terms without naming a modern medical diagnosis.
-
-v34: Restoration begins when the king “lifts his eyes to the heavens,” reversing the self-exalting perspective of verse 30.
-
-v37: The chapter closes with the central theme: God can humble those who walk in pride.
+v01: In the Masoretic chapter division Daniel 4 begins at English 3:31.
 
 ##Vocabulary
 
@@ -212,18 +185,6 @@ v04: רַעֲנַן (ra'anan)
 v09: רָז (raz)
 “Mystery.” A hidden matter requiring divine revelation.
 
-v13: עִיר (ir)
-“Watcher.” A heavenly being who announces judgment.
-
-v16: עִדָּן (iddan)
-“Time” or “period.” Seven times pass over the king.
-
-v17: שָׁפַל (shafal)
-“Lowly.” The Most High can place the lowliest over kingdoms.
-
-v25: טְרַד (terad)
-“To drive away.” Nebuchadnezzar is removed from human society.
-
 v27: צְדָקָה (tsidqah)
 “Righteousness.” Right conduct, here joined to mercy for the poor.
 
@@ -232,6 +193,3 @@ v27: חֲנַן (chanan)
 
 v30: הֲדַר (hadar)
 “Majesty” or “splendor.” Royal glory claimed by Nebuchadnezzar.
-
-v37: גֵּוָה (gevah)
-“Pride.” The disposition God is able to humble.

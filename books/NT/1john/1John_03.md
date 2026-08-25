@@ -62,47 +62,17 @@ v22: and whatever we ask we receive from him, because we keep his commandments a
 v23: And this is his commandment: that we trust in the name of his Son Jesus Christ and love one another, just as he gave us a commandment.
 v24: The one who keeps his commandments remains in him, and he in them. And by this we know that he remains in us: by the Spirit whom he gave us.
 </p>
-
-## Notes
+##Notes
 
 v01: “and we are” — The phrase strongly affirms the identity just named: believers are not merely called children of God but are such. Some later manuscripts omit the words, but they are well supported in the critical text.
 
-v02: “what we will be has not yet been revealed” — The future remains deliberately undefined. The text moves from what believers already are to what has not yet been disclosed without attempting to describe that future condition.
+v12: “killed his brother” — The Greek verb is unusually forceful and can describe slaughter.
 
-v02: “we will be like him” — Likeness is connected with seeing him “as he is.” The text does not explain the nature or extent of this likeness.
+v17: The phrase translated “world’s goods” literally refers to the means of life or livelihood.
 
-v04: “sin is lawlessness” — The Greek ἀνομία (anomia) identifies sin with lawlessness. The statement is concise and is retained without expanding it into a broader theory of sin.
+v19–20: “reassure our hearts” — The syntax of these verses is compressed and can be punctuated in more than one way.
 
-v05: “he was revealed” — The same language of manifestation appears repeatedly in the chapter. The wording emphasizes the appearing of the Son rather than explaining the manner of that appearing.
-
-v06–09: “does not sin … does not practice sin” — The Greek uses present-tense forms in a series of deliberately strong statements concerning sin and those born of God. The translation preserves their force while allowing the surrounding context to govern how the repeated language is understood.
-
-v09: “God’s seed remains in them” — “Seed” is retained as the text’s metaphor. The passage does not identify the seed more precisely, and the translation does not supply an interpretation.
-
-v10: “children of God and children of the devil” — The contrast is expressed through family language. The distinction becomes visible through righteousness and love rather than through an abstract definition of identity.
-
-v12: “killed his brother” — The Greek verb is unusually forceful and can describe slaughter. The reference to Cain connects hatred with the Genesis account without retelling it.
-
-v14: “passed from death into life” — The perfect tense presents the movement as an accomplished transition with continuing consequence. Love for brothers and sisters is named as evidence of that transition.
-
-v16: “he laid down his life for us” — Love is identified through the self-giving action of Jesus and immediately becomes the pattern for the community’s life toward one another.
-
-v17: “closes their heart” — The Greek expression refers literally to closing one’s inward compassion. The image portrays deliberate refusal in the face of another’s visible need.
-
-v18: “in deed and truth” — “Deed” stands opposite merely verbal love, while “truth” prevents action from being separated from genuine faithfulness.
-
-v19–20: “reassure our hearts” — The syntax of these verses is compressed and can be punctuated in more than one way. The translation retains the connection between the heart’s condemnation, God’s greater knowledge, and reassurance before God without resolving every syntactical question.
-
-v21: “confidence before God” — Confidence does not describe superiority or entitlement. The Greek term denotes openness or freedom of speech in God’s presence.
-
-v23: “his commandment” — The singular commandment contains two closely joined actions: trusting in the name of Jesus Christ and loving one another.
-
-v24: “remains in him, and he in them” — The reciprocal language of remaining gathers a major theme of the letter. The Spirit is named as the means by which this mutual remaining is known.
-
-## Vocabulary
-
-v01: τέκνα θεοῦ (tekna theou)
-“Children of God.” The language emphasizes origin and belonging within a family relationship.
+##Vocabulary
 
 v03: ἁγνίζω (hagnizō)
 “To purify.” To make or keep oneself pure. The term is connected here with hope and with the purity of Christ.
@@ -113,29 +83,5 @@ v04: ἀνομία (anomia)
 v04: ἁμαρτία (hamartia)
 “Sin.” A central term in the chapter, appearing both for sinful action and for the reality opposed to God’s righteousness.
 
-v06: μένω (menō)
-“To remain,” “abide,” or “stay.” A major Johannine term describing continuing relational presence and belonging.
-
 v07: δικαιοσύνη (dikaiosynē)
 “Righteousness.” What accords with what is right before God. In this chapter righteousness is something practiced as well as attributed.
-
-v09: σπέρμα (sperma)
-“Seed.” The metaphor denotes that which comes from God and remains in the one born of God. The text does not further identify it.
-
-v11: ἀγαπάω (agapaō)
-“To love.” The chapter defines love through concrete self-giving action rather than sentiment alone.
-
-v16: ψυχή (psychē)
-“Life” or “self.” In the expression “lay down his life,” the word refers to one’s life given for another.
-
-v18: ἔργον (ergon)
-“Deed” or “work.” Concrete action, contrasted here with love expressed only in words.
-
-v21: παρρησία (parrēsia)
-“Confidence,” “boldness,” or “openness.” Freedom to stand and speak openly before another, here specifically before God.
-
-v23: πιστεύω (pisteuō)
-“To trust” or “believe.” Here the verb describes trust directed toward the name of God’s Son, Jesus Christ.
-
-v23: ἐντολή (entolē)
-“Commandment.” An authoritative instruction. In this passage the singular commandment joins trust in Jesus Christ with love for one another.

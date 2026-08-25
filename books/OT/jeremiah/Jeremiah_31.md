@@ -174,7 +174,7 @@ v22: How long will you wander,
 ## Judah Also Will Be Restored
 
 <p>
-v23: Thus says the LORD of hosts, the God of Israel:
+v23: Thus says the LORD of Hosts, the God of Israel:
   “Once more they shall say in the land of Judah and in its towns,
   when I restore their fortunes:
   ‘The LORD bless you, O habitation of righteousness,
@@ -266,7 +266,7 @@ v35: Thus says the LORD,
   who gives the sun for light by day,
   and the fixed order of the moon and the stars for light by night,
   who stirs up the sea so that its waves roar—
-  the LORD of hosts is his name:
+  the LORD of Hosts is his name:
 </p>
 
 <p>
@@ -304,116 +304,21 @@ v40: The whole valley of the dead bodies and the ashes,
   shall be holy to the LORD.
   It shall not be plucked up or overthrown any more forever.”
 </p>
+##Notes
 
+##Vocabulary
 
-## Notes
-v01: “all the clans… my people” — Restoration is covenant-wide and communal; God’s promise gathers scattered family-lines into one belonging.
+v02: חֵן (ḥen)
+“Grace; favor.”
 
-v02–03: “grace in the wilderness… everlasting love… steadfast love” — Exile is re-narrated as a wilderness where God’s love persists. The ground of return is not Israel’s merit but God’s enduring ḥesed.
+v03: חֶסֶד (ḥesed)
+“Steadfast love; covenant loyalty.”
 
-v04–06: tambourines / vineyards / watchmen — Restoration is embodied and economic: worship, agriculture, and communal vigilance return to normal life and joy.
+v11: גָּאַל (ga’al)
+“To redeem; to reclaim.”
 
-v08: “blind and lame… pregnant… in labor” — Return is inclusive and tender: the vulnerable are not left behind; God’s redemption is paced for those least able to keep up.
+v11: פָּדָה (padah)
+“To ransom; to redeem.”
 
-v09–10: “streams… level path… father… shepherd” — God’s leadership is pastoral: guiding, protecting, and naming Israel as family.
-
-v11–14: “ransomed… radiant… watered garden… mourning into joy” — Redemption becomes abundance and renewed vitality; consolation is not vague comfort but replenished life.
-
-v15: Rachel weeps — Jeremiah holds grief without rushing past it; national catastrophe is pictured as maternal bereavement.
-
-v16–17: “keep… from weeping… hope for your future” — Hope is promised without denying tears. God honors the labor of sorrow and announces return as future.
-
-v18–19: Ephraim’s confession — Repentance is portrayed as being re-taught and re-formed; shame becomes honest ownership of the past.
-
-v20: “my inner being yearns… compassion” — One of Scripture’s most intimate portraits of divine mercy: God’s judgment does not erase God’s parental longing.
-
-v21: “road markers… return” — Restoration involves human participation: remember the way home; repentance is practical and directional.
-
-v22: “a new thing… a woman shall encompass a man” — A famously cryptic line. At minimum it signals reversal and new-creation surprise—God doing something socially unexpected that reorders old patterns.
-
-v29–30: “sour grapes” proverb — Responsibility is personalized: inherited blame is rejected; each life is accountable for its own wrongdoing.
-
-v31–34: “new covenant… write on hearts… all shall know… remember sin no more” — The center of the chapter: covenant renewal is internal and relational—God’s instruction becomes inscribed within, knowledge of the LORD is democratized, and forgiveness is definitive.
-
-v32: “though I was their husband” — Covenant is framed as faithful marital bond; betrayal is real, but God’s recommitment is stronger.
-
-v35–37: creation as guarantee — Sun, moon, stars, sea: cosmic regularity is invoked as covenant security. God stakes Israel’s continued peoplehood on creation’s enduring order.
-
-v38–40: rebuilt city / “shall be holy” — Restoration is spatial and public: the city is re-measured, reclaimed, and re-consecrated—places marked by death are promised holiness and permanence.
-
-
-
-## Vocabulary
-v02: חֵן (ḥen) — grace; favor
-
-v03: אַהֲבַת עוֹלָם (’ahavat ʿolam) — everlasting love
-
-v03: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
-
-v04: בָּנָה (banah) — to build; to rebuild
-
-v04: תֹּף (tof) — tambourine; hand drum
-
-v05: כֶּרֶם (kerem) — vineyard
-
-v06: צָפָה (tsafah) — to watch; to keep lookout
-
-v08: קָבַץ (qavats) — to gather; to collect
-
-v09: אָב (’av) — father
-
-v09: בְּכוֹר (bekhor) — firstborn
-
-v10: רָעָה (raʿah) — to shepherd; to tend
-
-v11: גָּאַל (ga’al) — to redeem; to reclaim
-
-v11: פָּדָה (padah) — to ransom; to redeem
-
-v12: דָּשֵׁן (dashen) — to be made rich; to be fattened (abundant)
-
-v12: נֶפֶשׁ (nefesh) — life; self; whole being
-
-v13: מָחוֹל (maḥol) — dance
-
-v13: נָחַם (naḥam) — to comfort; to console
-
-v15: נְהִי (nehi) — lamentation; wailing
-
-v15: בְּכִי (bekhi) — weeping
-
-v16: תִּקְוָה (tiqvah) — hope
-
-v18: יָסַר (yasar) — to discipline; to correct; to instruct
-
-v19: שׁוּב (shuv) — to return; to turn back
-
-v20: רָחַם (raḥam) — to have compassion; to show mercy
-
-v21: צִיּוּן (tsiyyun) — marker; signpost
-
-v21: מְסִלָּה (mesillah) — highway; raised road
-
-v22: חָדָשׁ (ḥadash) — new
-
-v29: בֹּסֶר (boser) — unripe/sour grapes
-
-v31: בְּרִית (berit) — covenant
-
-v31: כָּרַת (karat) — to cut (a covenant)
-
-v33: תּוֹרָה (torah) — instruction; teaching; law
-
-v33: לֵב (lev) — heart; inner self; will
-
-v34: יָדַע (yadaʿ) — to know (relational knowing)
-
-v34: סָלַח (salaḥ) — to forgive
-
-v35: חֹק (ḥoq) — fixed order; statute; decree
-
-v38: בָּנָה (banah) — to rebuild
-
-v40: קֹדֶשׁ (qodesh) — holiness; holy thing/place
-
-
+v20: רָחַם (raḥam)
+“To have compassion; to show mercy.”

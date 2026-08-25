@@ -8,7 +8,6 @@ translation: TSW
 ## To the Church in Ephesus
 
 <p>
-
 v01: “To the angel of the church in Ephesus write: The words of the one who holds the seven stars in his right hand, who walks among the seven golden lampstands.
 
 v02: I know your works, your labor and your endurance, and that you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false.
@@ -22,13 +21,11 @@ v05: Remember therefore from where you have fallen; repent, and do the works you
 v06: Yet this you have: you hate the works of the Nicolaitans, which I also hate.
 
 v07: The one who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God.
-
 </p>
 
 ## To the Church in Smyrna
 
 <p>
-
 v08: “And to the angel of the church in Smyrna write: The words of the first and the last, who died and came to life.
 
 v09: I know your affliction and your poverty (but you are rich), and the slander of those who say that they are Jews and are not, but are a synagogue of Satan.
@@ -36,13 +33,11 @@ v09: I know your affliction and your poverty (but you are rich), and the slander
 v10: Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have affliction. Be faithful unto death, and I will give you the crown of life.
 
 v11: The one who has an ear, let him hear what the Spirit says to the churches. The one who conquers will not be harmed by the second death.
-
 </p>
 
 ## To the Church in Pergamum
 
 <p>
-
 v12: “And to the angel of the church in Pergamum write: The words of the one who has the sharp two-edged sword.
 
 v13: I know where you dwell, where Satan’s throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.
@@ -54,13 +49,11 @@ v15: So also you have some who hold the teaching of the Nicolaitans.
 v16: Therefore repent. If not, I will come to you soon and war against them with the sword of my mouth.
 
 v17: The one who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will give some of the hidden manna, and I will give him a white stone, and on the stone a new name written that no one knows except the one who receives it.
-
 </p>
 
 ## To the Church in Thyatira
 
 <p>
-
 v18: “And to the angel of the church in Thyatira write: The words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze.
 
 v19: I know your works, your love and faith and service and endurance, and that your latter works exceed the first.
@@ -84,85 +77,21 @@ v27: and he will rule them with a rod of iron, as when earthen pots are broken i
 v28: And I will give him the morning star.
 
 v29: The one who has an ear, let him hear what the Spirit says to the churches.
-
 </p>
-
-## Notes
-
-v1: Authority is framed spatially (“holds,” “walks”), emphasizing presence among the churches.
-
-v2–3: Endurance is affirmed without qualification before correction is introduced.
-
-v4: “Abandoned” signals relational loss rather than doctrinal error.
-
-v5: Memory, repentance, and action are held together; removal of the lampstand implies loss of witness.
-
-v7: Promise imagery (“tree of life”) draws from Genesis without explanation.
-
-v9: Poverty and richness are contrasted without resolving the tension.
-
-v10: Suffering is limited (“ten days”) yet not minimized.
-
-v11: “Second death” is introduced without definition, functioning as warning and promise.
-
-v13: Location (“where Satan’s throne is”) is named but not clarified.
-
-v14–15: Historical references (Balaam, Nicolaitans) are invoked without elaboration.
-
-v16: Judgment proceeds through speech (“sword of my mouth”), not physical weapon.
-
-v17: Symbolic rewards remain opaque (“white stone,” “new name”), resisting reduction.
-
-v19: Growth is acknowledged (“latter works exceed the first”) even within critique.
-
-v20–23: Judgment language is severe and public, emphasizing accountability.
-
-v24: “Deep things” are named without validation; the phrase is left contested.
-
-v26–27: Authority is shared, derived from prior authority received.
-
-v28: “Morning star” is given without interpretation, functioning symbolically.
+##Notes
 
 v29: The refrain universalizes each message beyond its immediate audience.
 
-## Vocabulary
+##Vocabulary
 
-v1: ἄγγελος (angelos)
-
+v01: ἄγγελος (angelos)
 “Messenger” or “angel.” May refer to a heavenly being or representative figure.
 
-v4: ἀφίημι (aphiēmi)
-
+v04: ἀφίημι (aphiēmi)
 “To leave” or “abandon.” Indicates relinquishing rather than sudden loss.
 
-v7: νικάω (nikaō)
-
+v07: νικάω (nikaō)
 “To conquer.” Implies endurance and faithful persistence rather than domination.
 
-v9: θλῖψις (thlipsis)
-
+v09: θλῖψις (thlipsis)
 “Affliction.” Pressure or distress, often external and sustained.
-
-v11: δεύτερος θάνατος (deuteros thanatos)
-
-“Second death.” A phrase left undefined, carrying eschatological weight.
-
-v13: θρόνος (thronos)
-
-“Throne.” Symbol of authority or rule, here associated with opposition.
-
-v16: ῥομφαία (rhomphaia)
-
-“A large sword.” Represents decisive speech or judgment.
-
-v17: ψῆφος λευκή (psēphos leukē)
-
-“White stone.” Possibly a token of acquittal or acceptance, but not specified.
-
-v23: νεφροί (nephroi)
-
-“Kidneys,” often translated “mind” or “inner being,” seat of thought and will.
-
-v26: ἐξουσία (exousia)
-
-“Authority.” Delegated power grounded in prior grant.

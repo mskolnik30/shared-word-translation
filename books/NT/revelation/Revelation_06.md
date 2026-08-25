@@ -8,7 +8,6 @@ translation: TSW
 ## The Seven Seals
 
 <p>
-
 v01: And I saw when the Lamb opened one of the seven seals, and I heard one of the four living creatures say with a voice like thunder, “Come!”
 
 v02: And I looked, and behold, a white horse, and its rider had a bow, and a crown was given to him, and he went out conquering and to conquer.
@@ -42,77 +41,19 @@ v15: Then the kings of the earth and the great ones and the generals and the ric
 v16: calling to the mountains and rocks, “Fall on us and hide us from the face of the one seated on the throne, and from the wrath of the Lamb,
 
 v17: for the great day of their wrath has come, and who is able to stand?”
-
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v1: Each seal is opened by the Lamb, but the summons (“Come”) is issued by the living creatures.
-
-v2: The rider’s conquest is stated without clarification of identity or method.
-
-v4: Violence is described as permitted, not self-originating.
-
-v5–6: Economic imagery signals scarcity; value is distorted rather than absent.
-
-v6: The preservation of oil and wine introduces asymmetry without explanation.
-
-v8: Death and Hades are paired, linking event and domain.
-
-v8: Authority is partial (“a fourth”), not total.
-
-v9: The slain are located “under the altar,” associating death with offering.
-
-v10: The cry for justice remains unanswered in timing, not denied.
-
-v11: Completion is required before resolution; suffering is not isolated.
-
-v12–14: Cosmic imagery disrupts creation without interpretation.
-
-v15: Social distinctions collapse under shared fear.
-
-v16: The “wrath of the Lamb” juxtaposes expected categories.
-
-v17: The question remains open; no answer is provided.
-
-## Vocabulary
-
-v2: τόξον (toxon)
-
+v02: τόξον (toxon)
 “Bow.” Weapon of distance, implying indirect force.
 
-v4: μάχαιρα (machaira)
-
+v04: μάχαιρα (machaira)
 “Sword.” Instrument of close violence.
 
-v5: ζυγός (zygos)
-
-“Scales.” Tool for weighing, here signaling controlled scarcity.
-
-v6: δηνάριον (dēnarion)
-
-“Denarius.” A day’s wage, indicating economic strain.
-
-v8: θάνατος (thanatos)
-
-“Death.” Personified as an active agent.
-
-v8: ᾅδης (hadēs)
-
+v08: ᾅδης (hadēs)
 “Hades.” The realm of the dead, following death itself.
 
-v9: ψυχή (psychē)
-
+v09: ψυχή (psychē)
 “Soul.” The life of a person, here continuing beyond death.
-
-v11: στολή λευκή (stolē leukē)
-
-“White robe.” Symbol of vindication or purity.
-
-v14: βιβλίον (biblion)
-
-“Scroll.” The sky compared to a rolled document.
-
-v17: ὀργή (orgē)
-
-“Wrath.” Directed response, not uncontrolled anger.

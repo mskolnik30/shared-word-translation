@@ -10,7 +10,7 @@ translation: TSW
 v01: There is therefore now no condemnation for those who are in Christ Jesus.
 v02: For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and of death.
 v03: For God has done what the law, weakened by the flesh, could not do: by sending the Son in the likeness of sinful flesh and concerning sin, God condemned sin in the flesh,
-v04: so that the just requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.     
+v04: so that the just requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.
 </p>
 
 <p>
@@ -76,86 +76,21 @@ v37: No, in all these things we are more than conquerors through the one who lov
 v38: For I am convinced that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers,
 v39: nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
 </p>
+##Notes
 
-## Notes
-v1: “no condemnation”
-This declaration is absolute, not provisional. It answers the question raised by Romans 6: whether participation in Christ reintroduces anxiety about judgment.
+##Vocabulary
 
-v2: “the law of the Spirit of life”
-“Law” functions metaphorically as a governing power. The contrast is between rival dominions, not between rules and freedom.
-
-v3: “God has done what the law could not do”
-The subject of the sentence is emphatic. Liberation is grounded in God’s action through the Son, not in human obedience empowered by effort.
-
-v4: “fulfilled in us”
-The fulfillment is participatory rather than meritorious. The law’s requirement is met through life in the Spirit, not by replication of legal performance.
-
-v9: “Spirit of God” / “Spirit of Christ”
-The interchange underscores unity of divine action without collapsing distinction. Belonging to Christ is defined by indwelling, not achievement.
-
-v11: “will give life to your mortal bodies”
-Resurrection is bodily and future-oriented, resisting spiritualized readings of salvation.
-
-v14–15: “children of God” / “Spirit of adoption”
-Adoption is received status, not earned position. The cry “Abba” signals intimacy without presumption.
-
-v17: “if indeed we suffer with him”
-Suffering is not a qualifying test but a shared condition of life in Christ. Glory is promised, not conditioned on endurance.
-
-v18: “not worth comparing”
-Paul does not minimize suffering. He relativizes it eschatologically without explaining it.
-
-v19–21: “creation waits”
-Salvation is cosmic in scope. Human redemption and creation’s renewal are inseparable.
-
-v26: “the Spirit intercedes”
-Prayer is sustained by God’s own action when human capacity fails. Weakness is assumed, not corrected.
-
-v28: “God works together for good”
-The promise is not that all events are good, but that God’s purpose is not thwarted by them.
-
-v29–30: “foreknew … predestined … glorified”
-The sequence is God-centered and pastoral, intended to secure assurance rather than outline a system.
-
-v33–34: “Who will bring any charge?”
-Legal language returns, but now as reassurance. God’s justifying action silences accusation.
-
-v35–39: “nothing will separate us”
-The climactic assurance rests entirely on God’s love in Christ. Human trust is not named here, because it is not the ground of security.
-
-## Vocabulary
-v1: κατάκριμα (katakrima)
-“Condemnation.” A judicial verdict of judgment. Its negation here is absolute, grounding assurance in God’s action rather than human consistency.
-
-v2: νόμος (nomos)
+v02: νόμος (nomos)
 “Law.” Used metaphorically to name a governing power or operative principle. The contrast is between rival dominions, not merely legal systems.
 
-v3: σάρξ (sarx)
+v03: σάρξ (sarx)
 “Flesh.” Refers to human life ordered apart from God, not the physical body itself. The term names a sphere of power rather than material substance.
-
-v6: φρόνημα (phronēma)
-“Mindset.” Denotes orientation or disposition. Life and death are framed as outcomes of allegiance rather than isolated choices.
 
 v10: ζωή (zōē)
 “Life.” Not mere biological existence, but life oriented toward God and sustained by the Spirit.
-
-v14: υἱοί (huioi)
-“Children.” A relational designation of belonging and status. The term emphasizes inheritance rather than maturity or merit.
-
-v15: υἱοθεσία (huiothesia)
-“Adoption.” A legal and relational act establishing belonging. It names received identity rather than achieved position.
 
 v18: δόξα (doxa)
 “Glory.” God’s radiant presence and future disclosure. Glory is promised, not earned, and is set in contrast to present suffering.
 
 v23: ἀπολύτρωσις (apolytrōsis)
-“Redemption.” Liberation by costly action. Here it refers to bodily renewal, resisting spiritualized readings of salvation.
-
-v26: στεναγμοί (stenagmoi)
-“Groanings.” Wordless expressions of longing and weakness. Prayer is sustained by the Spirit when speech fails.
-
-v29: εἰκών (eikōn)
-“Image.” Conformity to Christ is relational and participatory, not moral replication.
-
-v37: ὑπερνικάω (hypernikaō)
-“To prevail completely.” Victory is described as decisive and derivative, accomplished “through the one who loved us.”
+“Redemption; release.” Here the term refers specifically to the body.

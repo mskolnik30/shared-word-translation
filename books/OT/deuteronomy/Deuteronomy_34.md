@@ -1,5 +1,5 @@
 ---
-book: deuteronomy
+book: Deuteronomy
 testament: OT
 chapter: 34
 translation: TSW
@@ -8,141 +8,52 @@ translation: TSW
 ## The Death of Moses
 
 <p>
+v01: Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which is opposite Jericho. And the LORD showed him all the land—Gilead as far as Dan,
 
-v01: Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which is opposite Jericho. And the LORD showed him all the land—Gilead as far as Dan,  
+v02: all Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the western sea,
 
-v02: all Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the western sea,  
-
-v03: the Negev, and the plain, that is, the valley of Jericho, the city of palm trees, as far as Zoar.  
-
+v03: the Negev, and the plain, that is, the valley of Jericho, the city of palm trees, as far as Zoar.
 </p>
 
 <p>
-
-v04: And the LORD said to him, “This is the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’ I have let you see it with your eyes, but you shall not cross over there.”  
-
+v04: And the LORD said to him, “This is the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’ I have let you see it with your eyes, but you shall not cross over there.”
 </p>
 
 <p>
+v05: So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD,
 
-v05: So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD,  
-
-v06: and he buried him in the valley in the land of Moab opposite Beth-peor, but no one knows the place of his burial to this day.  
-
+v06: and he buried him in the valley in the land of Moab opposite Beth-peor, but no one knows the place of his burial to this day.
 </p>
 
 <p>
+v07: Moses was one hundred twenty years old when he died; his eye was not dim, nor had his vigor fled.
 
-v07: Moses was one hundred twenty years old when he died; his eye was not dim, nor had his vigor fled.  
-
-v08: And the sons of Israel wept for Moses in the plains of Moab thirty days. Then the days of weeping and mourning for Moses were completed.  
-
+v08: And the sons of Israel wept for Moses in the plains of Moab thirty days. Then the days of weeping and mourning for Moses were completed.
 </p>
 
 <p>
-
-v09: And Joshua the son of Nun was full of the spirit of wisdom, for Moses had laid his hands on him. So the sons of Israel listened to him and did as the LORD had commanded Moses.  
-
+v09: And Joshua the son of Nun was full of the spirit of wisdom, for Moses had laid his hands on him. So the sons of Israel listened to him and did as the LORD had commanded Moses.
 </p>
 
 <p>
+v10: And there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face,
 
-v10: And there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face,  
+v11: none like him for all the signs and the wonders that the LORD sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land,
 
-v11: none like him for all the signs and the wonders that the LORD sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land,  
-
-v12: and for all the mighty hand and all the great fear that Moses did in the sight of all Israel.  
-
+v12: and for all the mighty hand and all the great fear that Moses did in the sight of all Israel.
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v1–3: Moses views the fullness of the promise but does not enter it. The vision is comprehensive, naming the land in its breadth.  
+v01: עָלָה (ʿālāh)
+“To go up.” To ascend, often toward a significant place.
 
-v4: The covenant is reaffirmed in sight but withheld in experience. Fulfillment is both seen and deferred.  
+v01: הַר (har)
+“Mountain.” Elevated place of encounter.
 
-v5–6: Moses dies “according to the word of the LORD,” and the hidden burial underscores divine agency and limits memorialization.  
+v01: רָאָה (rāʾāh)
+“To see.” To perceive or be shown.
 
-v7: Physical vitality remains intact; death is not attributed to decline but to divine determination.  
-
-v8: Communal mourning is structured—thirty days marks closure and transition.  
-
-v9: Leadership passes through embodied action (laying on of hands) and is confirmed by obedience.  
-
-v10: Moses’ uniqueness is relational—“face to face” knowledge distinguishes his prophetic role.  
-
-v11–12: Signs, wonders, and “mighty hand” summarize Moses’ ministry as mediated power before Israel and Egypt.  
-
-## Vocabulary
-
-v1: עָלָה (ʿālāh)  
-
-v1: “To go up.” To ascend, often toward a significant place.  
-
-v1: הַר (har)  
-
-v1: “Mountain.” Elevated place of encounter.  
-
-v1: רָאָה (rāʾāh)  
-
-v1: “To see.” To perceive or be shown.  
-
-v4: שָׁבַע (šāḇaʿ)  
-
-v4: “To swear.” To bind by oath.  
-
-v4: זֶרַע (zeraʿ)  
-
-v4: “Offspring/seed.” Descendants of promise.  
-
-v5: עֶבֶד (ʿeḇeḏ)  
-
-v5: “Servant.” One who serves under authority.  
-
-v5: מוּת (mûṯ)  
-
-v5: “To die.” To come to the end of life.  
-
-v6: קָבַר (qāḇar)  
-
-v6: “To bury.” To inter the dead.  
-
-v7: לֵחַ (lēaḥ)  
-
-v7: “Vigor/moisture.” Freshness, vitality.  
-
-v8: בָּכָה (bāḵāh)  
-
-v8: “To weep.” To express grief.  
-
-v8: אֵבֶל (ʾēḇel)  
-
-v8: “Mourning.” Ritualized grief.  
-
-v9: רוּחַ (rûaḥ)  
-
-v9: “Spirit.” Animating or empowering presence.  
-
-v9: חָכְמָה (ḥoḵmāh)  
-
-v9: “Wisdom.” Skill in living and leading.  
-
-v10: יָדַע (yāḏaʿ)  
-
-v10: “To know.” Intimate, relational knowledge.  
-
-v11: אוֹת (ʾôṯ)  
-
-v11: “Sign.” Mark of divine action.  
-
-v11: מוֹפֵת (môp̄ēṯ)  
-
-v11: “Wonder.” Extraordinary act.  
-
-v12: יָד חֲזָקָה (yāḏ ḥăzāqāh)  
-
-v12: “Mighty hand.” Expression of powerful action.  
-
-v12: מוֹרָא (môrāʾ)  
-
-v12: “Great fear.” Awe-inspiring display.  
+v04: שָׁבַע (šāḇaʿ)
+“To swear.” To bind by oath.

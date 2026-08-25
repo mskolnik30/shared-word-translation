@@ -74,13 +74,13 @@ v22: But the hair of his head began to grow again after it had been shaved.
 <p>
 v23: The rulers of the Philistines gathered to offer a great sacrifice to Dagon their god and to rejoice. They said:
 
-“Our god has given Samson our enemy  
+“Our god has given Samson our enemy
 into our hand.”
 
 v24: When the people saw him, they praised their god, for they said:
 
-“Our god has given our enemy into our hand,  
-the destroyer of our land,  
+“Our god has given our enemy into our hand,
+the destroyer of our land,
 who multiplied our slain.”
 
 v25: When their hearts were merry, they said, “Call Samson, that he may entertain us.” They called Samson from the prison house, and he entertained them. They made him stand between the pillars.
@@ -101,26 +101,11 @@ v30: Samson said, “Let my life die with the Philistines.” Then he bowed with
 
 v31: Then his brothers and all his father’s household came down, carried him away, brought him up, and buried him between Zorah and Eshtaol in the tomb of Manoah his father. He had judged Israel twenty years.
 </p>
-
-## Notes
-
-v01–03: Samson again combines sexual risk with extraordinary strength. Carrying Gaza’s gate away publicly humiliates a fortified Philistine city.
-
-v05: The promised payment is enormous, showing both the rulers’ fear of Samson and the economic incentive placed before Delilah.
-
-v13–14: Samson’s hair enters the deception before he finally reveals the truth, showing him moving progressively closer to disclosing the sign of his consecration.
+##Notes
 
 v16: “his soul became impatient to the point of death” — The same idiom of a shortened or unbearable *nefesh* used elsewhere conveys extreme inward pressure.
 
-v17: Samson identifies his uncut hair with his Nazirite consecration, not as magic in itself. His strength finally leaves when the consecration is violated and the LORD departs.
-
-v20: The tragic line “he did not know that the LORD had departed from him” marks the collapse of Samson’s confidence that previous experience can simply be repeated.
-
-v28: Samson’s final prayer seeks divine strength but also explicitly seeks personal vengeance for his eyes. Deliverance and retaliation remain intertwined.
-
-v30: Samson’s greatest destruction occurs in his own death. He “begins” Israel’s deliverance from the Philistines, as announced in chapter 13, but does not complete it.
-
-## Vocabulary
+##Vocabulary
 
 v04: אָהַב (ahav)
 “To love.” Used explicitly for Samson’s relationship with Delilah.
@@ -133,15 +118,3 @@ v16: קָצַר נֶפֶשׁ (qatsar nefesh)
 
 v17: נָזִיר (nazir)
 “Nazirite” or “consecrated one.” Samson identifies his life-long consecration as the context for his uncut hair.
-
-v20: סוּר (sur)
-“To depart” or “turn aside.” The LORD departs from Samson.
-
-v21: נָקַר (naqar)
-“To gouge out.” Used of the Philistines blinding Samson.
-
-v23: דָּגוֹן (Dagon)
-“Dagon.” A major Philistine deity.
-
-v28: זָכַר (zakhar)
-“To remember.” Samson asks God to remember him in his final prayer.

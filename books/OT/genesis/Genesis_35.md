@@ -4,6 +4,7 @@ testament: OT
 chapter: 35
 translation: TSW
 ---
+
 ## Jacob Returns to Bethel
 <p>
 v01: God said to Jacob, “Arise, go up to Bethel and dwell there. Make there an altar to the God who appeared to you when you fled from your brother Esau.”
@@ -67,69 +68,19 @@ v22: And while Israel was dwelling in that land, Reuben went and lay with Bilhah
 
 ## The Sons of Jacob
 <p>
-v23: Now the sons of Jacob were twelve.
-v24: The sons of Leah: Reuben, Jacob’s firstborn, Simeon, Levi, Judah, Issachar, and Zebulun.
-v25: The sons of Rachel: Joseph and Benjamin.
-v26: The sons of Bilhah, Rachel’s servant: Dan and Naphtali.
-v27: The sons of Zilpah, Leah’s servant: Gad and Asher. These are the sons of Jacob who were born to him in Paddan-aram.
+Now the sons of Jacob were twelve.
+v23: The sons of Leah: Reuben, Jacob’s firstborn, Simeon, Levi, Judah, Issachar, and Zebulun.
+v24: The sons of Rachel: Joseph and Benjamin.
+v25: The sons of Bilhah, Rachel’s servant: Dan and Naphtali.
+v26: The sons of Zilpah, Leah’s servant: Gad and Asher. These are the sons of Jacob who were born to him in Paddan-aram.
 </p>
 
 ## The Death of Isaac
 <p>
-v28: And Jacob came to Isaac his father at Mamre, at Kiriath-arba (that is, Hebron), where Abraham and Isaac had sojourned.
-v29: Now the days of Isaac were one hundred eighty years.
-v30: And Isaac breathed his last and died and was gathered to his people, old and full of days. And Esau and Jacob his sons buried him.
+v27: And Jacob came to Isaac his father at Mamre, at Kiriath-arba (that is, Hebron), where Abraham and Isaac had sojourned.
+v28: Now the days of Isaac were one hundred eighty years.
+v29: And Isaac breathed his last and died and was gathered to his people, old and full of days. And Esau and Jacob his sons buried him.
 </p>
+##Notes
 
-## Notes
-v1–4: The return to Bethel involves both physical movement and spiritual renewal. Foreign gods are removed before worship.
-v3: Jacob describes God as the one who answered him in distress and remained with him throughout his journeys.
-v5: The protection of Jacob's family is attributed directly to divine intervention.
-v7: Bethel becomes a place of remembrance, linking Jacob's present worship with God's earlier appearance.
-v8: Deborah's death is recorded briefly, yet the naming of the oak suggests deep mourning.
-v9–12: God renews the covenant promises given to Abraham and Isaac, now confirming them to Israel.
-v10: The renaming of Jacob as Israel is reaffirmed, emphasizing his transformed identity.
-v11: The promise expands from a single nation to a company of nations and future kings.
-v14–15: Jacob responds with worship, memorializing the place where God spoke with him.
-v16–20: Benjamin's birth is intertwined with Rachel's death. Joy and sorrow arrive together.
-v18: Rachel's name for her son reflects her suffering, while Jacob's name points toward future hope and strength.
-v22: Reuben's act represents a serious violation of family order and authority. The narrative reports it without immediate comment.
-v23–26: The listing of the twelve sons marks the completed foundation of the tribes of Israel.
-v28–30: Isaac's death closes another generation of the patriarchal story. Esau and Jacob are united in honoring their father.
-
-## Vocabulary
-v1: בֵּית־אֵל (Bêt-ʾEl)
-“Bethel.” Meaning “House of God,” the site of Jacob's earlier vision and vow.
-
-v2: טָהֵר (ṭāhēr)
-“To purify.” To become clean or prepared for sacred encounter.
-
-v4: אֱלֹהֵי נֵכָר (ʾĕlōhê nēkār)
-“Foreign gods.” Deities associated with peoples outside the covenant family.
-
-v5: חִתַּת אֱלֹהִים (ḥittat ʾĕlōhîm)
-“Terror from God.” A divinely sent fear that restrains opposition.
-
-v8: אַלּוֹן בָּכוּת (ʾAllôn Bākûṯ)
-“Oak of Weeping.” The name commemorates mourning for Deborah.
-
-v11: אֵל שַׁדַּי (ʾEl Šadday)
-“God Almighty.” A divine title associated with covenant power and blessing.
-
-v14: מַצֵּבָה (maṣṣēḇâ)
-“Pillar.” A standing stone erected as a memorial or witness.
-
-v16: אֶפְרָת (ʾEphrāṯ)
-“Ephrath.” An older name associated with the region of Bethlehem.
-
-v18: בֶּן־אוֹנִי (Ben-ʾÔnî)
-“Son of my sorrow.” The name Rachel gives in her final moments.
-
-v18: בִּנְיָמִין (Binyāmîn)
-“Benjamin.” Commonly understood as “son of the right hand.”
-
-v29: אָסַף אֶל־עַמָּיו (ʾāsaph ʾel-ʿammāyw)
-“Gathered to his people.” A traditional expression for death and reunion with one's ancestors.
-
-v30: שָׂבֵעַ יָמִים (śāḇēaʿ yāmîm)
-“Full of days.” A description of a long and complete life.
+##Vocabulary

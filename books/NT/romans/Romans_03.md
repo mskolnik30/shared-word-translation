@@ -12,10 +12,7 @@ v01: Then what advantage has the Jew? Or what is the value of circumcision?
 v02: Much in every way. To begin with, they were entrusted with the oracles of God.
 v03: What if some were unfaithful? Does their unfaithfulness nullify the faithfulness of God?
 v04: By no means! Let God be shown to be true, though every human being a liar, as it is written,
-</p>
-
-<p>
-v04: “So that you may be justified in your words,  
+“So that you may be justified in your words,
 and prevail when you are judged.”
 </p>
 
@@ -34,22 +31,22 @@ v10: as it is written:
 </p>
 
 <p>
-v10: “There is no one who is righteous, not even one;  
-v11: there is no one who understands,  
-there is no one who seeks God.  
-v12: All have turned aside; together they have become worthless;  
-there is no one who shows kindness,  
+“There is no one who is righteous, not even one;
+v11: there is no one who understands,
+there is no one who seeks God.
+v12: All have turned aside; together they have become worthless;
+there is no one who shows kindness,
 not even one.”
 </p>
 
 <p>
-v13: “Their throat is an open grave;  
-they use their tongues to deceive.”  
-“The venom of vipers is under their lips.”  
-v14: “Their mouth is full of curses and bitterness.”  
-v15: “Their feet are swift to shed blood;  
-v16: ruin and misery are in their paths,  
-v17: and the way of peace they have not known.”  
+v13: “Their throat is an open grave;
+they use their tongues to deceive.”
+“The venom of vipers is under their lips.”
+v14: “Their mouth is full of curses and bitterness.”
+v15: “Their feet are swift to shed blood;
+v16: ruin and misery are in their paths,
+v17: and the way of peace they have not known.”
 v18: “There is no fear of God before their eyes.”
 </p>
 
@@ -81,62 +78,20 @@ v29: Or is God the God of Jews only? Is God not the God of Gentiles also? Yes, o
 v30: since God is one, who will set right the circumcised from trust and the uncircumcised through trust.
 v31: Do we then overthrow the law through trust? By no means! On the contrary, we uphold the law.
 </p>
+##Notes
 
-## Notes
-v2: “entrusted with the oracles of God”
-The verb emphasizes responsibility rather than privilege. Israel’s role is custodial, not self-justifying.
+v22: The Greek phrase *pistis Iēsou Christou* can be understood as “trust in Jesus Christ” or “the faithfulness of Jesus Christ.” The genitive construction does not by itself resolve the relation.
 
-v3: “the faithfulness of God”
-The contrast between human unfaithfulness and God’s faithfulness establishes the chapter’s controlling theme and anticipates the later reference to the faithfulness of Jesus Christ.
+##Vocabulary
 
-v4: “Let God be shown to be true”
-The citation from the Psalms is forensic in tone. God’s truthfulness is vindicated through judgment, not in spite of it.
-
-v9: “under the power of sin”
-Sin is depicted as a ruling force rather than a series of individual acts, preparing for later language of dominion and liberation.
-
-v19–20: “every mouth may be stopped”
-The law’s function is diagnostic, not curative. Silence before God signals accountability rather than despair.
-
-v21: “But now”
-Marks a decisive shift in the argument. The phrase signals eschatological disclosure rather than a change in divine intention.
-
-v22: “through the faithfulness of Jesus Christ, for all who trust”
-The Greek permits a subjective genitive. This rendering presents Christ’s faithful action as the ground of justification while preserving human trust as response.
-
-v25: “a place of atonement”
-The term evokes the mercy seat without specifying mechanism. The translation resists resolving debates about sacrifice or satisfaction.
-
-v26: “the one who sets right those who live from the faithfulness of Jesus”
-Holds together divine justice and mercy. Justification is grounded in Christ’s faithfulness rather than human performance.
-
-v27: “the law of trust”
-“Law” functions metaphorically as a governing principle. Trust excludes boasting by its very nature.
-
-v31: “we uphold the law”
-Paul refuses antinomian conclusions. The law is honored when its true purpose is fulfilled.
-
-## Vocabulary
-v3: πίστις (pistis)
+v03: πίστις (pistis)
 “Faithfulness; trust.” Here used of God. The term denotes reliability and covenantal faithfulness rather than belief or opinion.
 
-v9: ἁμαρτία (hamartia)
-“Sin.” Portrayed as a ruling power rather than isolated moral failures, shaping Paul’s argument about universal captivity.
+v09: ἁμαρτία (hamartia)
+“Sin.” Here the singular term functions as a power under which humanity stands.
 
 v20: δικαιόω (dikaioō)
 “To set right.” Refers to being restored to right standing before God; explicitly denied as achievable through works of the law.
 
 v21: δικαιοσύνη (dikaiosynē)
 “Righteousness.” God’s right-making action revealed apart from the law yet consistent with the law and the prophets.
-
-v22: πίστις Ἰησοῦ Χριστοῦ (pistis Iēsou Christou)
-“The faithfulness of Jesus Christ.” The phrase permits a subjective genitive; rendered here as Christ’s faithful action rather than human belief directed toward him.
-
-v25: ἱλαστήριον (hilastērion)
-“Place of atonement.” Evokes the mercy seat without specifying a theory of atonement or mechanism of effect.
-
-v27: καύχησις (kauchēsis)
-“Boasting.” A claim to status or standing that is excluded by the logic of trust rather than by moral prohibition.
-
-v31: νόμος (nomos)
-“Law.” Functions here as covenantal framework rather than merely legal code; upheld rather than nullified by trust.

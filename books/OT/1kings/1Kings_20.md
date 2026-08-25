@@ -54,11 +54,11 @@ v12: When Ben-hadad heard this word, while he and the kings were drinking in the
 </p>
 
 <p>
-v13: Then a prophet came near to Ahab king of Israel and said, “Thus says Yahweh: ‘Have you seen all this great multitude? Look, I am giving it into your hand today, and you will know that I am Yahweh.’”
+v13: Then a prophet came near to Ahab king of Israel and said, “Thus says the LORD: ‘Have you seen all this great multitude? Look, I am giving it into your hand today, and you will know that I am the LORD.’”
 </p>
 
 <p>
-v14: Ahab said, “By whom?” He said, “Thus says Yahweh: ‘By the young men of the provincial commanders.’” Then he said, “Who will begin the battle?” He said, “You.”
+v14: Ahab said, “By whom?” He said, “Thus says the LORD: ‘By the young men of the provincial commanders.’” Then he said, “Who will begin the battle?” He said, “You.”
 </p>
 
 <p>
@@ -114,7 +114,7 @@ v27: The people of Israel were mustered and provisioned, and they went out to me
 </p>
 
 <p>
-v28: Then a man of God came near and spoke to the king of Israel, saying, “Thus says Yahweh: ‘Because Aram has said, “Yahweh is a god of the hills, but not a god of the valleys,” I will give all this great multitude into your hand, and you will know that I am Yahweh.’”
+v28: Then a man of God came near and spoke to the king of Israel, saying, “Thus says the LORD: ‘Because Aram has said, “the LORD is a god of the hills, but not a god of the valleys,” I will give all this great multitude into your hand, and you will know that I am the LORD.’”
 </p>
 
 <p>
@@ -142,11 +142,11 @@ v34: Ben-hadad said to him, “The cities that my father took from your father I
 </p>
 
 <p>
-v35: Now one man from among the sons of the prophets said to his companion by the word of Yahweh, “Please strike me.” But the man refused to strike him.
+v35: Now one man from among the sons of the prophets said to his companion by the word of the LORD, “Please strike me.” But the man refused to strike him.
 </p>
 
 <p>
-v36: Then he said to him, “Because you have not listened to the voice of Yahweh, look, when you leave me, a lion will strike you.” When he left him, a lion found him and struck him down.
+v36: Then he said to him, “Because you have not listened to the voice of the LORD, look, when you leave me, a lion will strike you.” When he left him, a lion found him and struck him down.
 </p>
 
 <p>
@@ -170,27 +170,27 @@ v41: Then he quickly removed the bandage from over his eyes, and the king of Isr
 </p>
 
 <p>
-v42: He said to him, “Thus says Yahweh: ‘Because you have let go from your hand the man devoted to me for destruction, your life shall be for his life, and your people for his people.’”
+v42: He said to him, “Thus says the LORD: ‘Because you have let go from your hand the man devoted to me for destruction, your life shall be for his life, and your people for his people.’”
 </p>
 
 <p>
 v43: The king of Israel went to his house sullen and troubled, and came to Samaria.
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-- **20:11:** The proverb contrasts the one “putting on armor” with the one “taking it off”: victory cannot rightly be claimed before the battle has been completed.
-- **20:18:** Ben-hadad’s identical command in both cases—whether the men come “for peace” or “for battle”—exposes his confidence and contempt.
-- **20:23–28:** Aram imagines Yahweh as territorially limited, powerful in hills but not valleys. Yahweh’s promised victory answers that claim and makes divine self-disclosure, rather than Israel’s military strength, central to the battle.
-- **20:31:** “Steadfast love” translates *ḥesed*, a term that can describe loyal, merciful action within a relationship. Ben-hadad’s servants appeal to Israel’s reputation for such mercy.
-- **20:33:** The phrase rendered “took this as an omen” is difficult and may suggest that Ben-hadad’s servants eagerly treated Ahab’s word “brother” as a favorable sign.
-- **20:34:** The “streets” in Damascus may refer to commercial quarters or privileges for Israelite trading activity, though the precise arrangement is not stated.
-- **20:42:** The “man devoted to me for destruction” identifies Ben-hadad as one placed under Yahweh’s claim for judgment. Ahab’s covenant and release stand in tension with the divine purpose announced through the prophet.
+v11: חָגַר (ḥāgar)
+“to gird on.” In the proverb, fastening on armor marks a warrior before combat, in contrast to one who has already unfastened it after battle.
 
-## Vocabulary
+v23: מִישׁוֹר (mîshôr)
+“plain, level land.” Aram’s advisers treat the terrain as the decisive factor because they imagine Israel’s God to be restricted to the hills.
 
-- **v11: חָגַר (*ḥāgar*)** — “to gird on.” In the proverb, fastening on armor marks a warrior before combat, in contrast to one who has already unfastened it after battle.
-- **v23: מִישׁוֹר (*mîshôr*)** — “plain, level land.” Aram’s advisers treat the terrain as the decisive factor because they imagine Israel’s God to be restricted to the hills.
-- **v31: חֶסֶד (*ḥesed*)** — “steadfast love, loyal mercy.” Ben-hadad’s servants characterize Israel’s kings as rulers known for merciful loyalty and appeal to that reputation for his life.
-- **v34: בְּרִית (*berit*)** — “covenant.” Ahab formalizes an agreement with Ben-hadad and sends him away, an act later judged by Yahweh’s prophetic word.
-- **v42: חֵרֶם (*ḥerem*)** — “that which is devoted.” Here it describes the Aramean king as one set apart to Yahweh for judgment, not as an object available for Ahab’s diplomatic disposal.
+v31: חֶסֶד (ḥesed)
+“steadfast love, loyal mercy.” Ben-hadad’s servants characterize Israel’s kings as rulers known for merciful loyalty and appeal to that reputation for his life.
+
+v34: בְּרִית (berit)
+“covenant.” Ahab formalizes an agreement with Ben-hadad and sends him away, an act later judged by Yahweh’s prophetic word.
+
+v42: חֵרֶם (ḥerem)
+“that which is devoted.” Here it describes the Aramean king as one set apart to Yahweh for judgment, not as an object available for Ahab’s diplomatic disposal.

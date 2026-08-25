@@ -96,22 +96,9 @@ v33: The matter was good in the eyes of the children of Israel, and the children
 
 v34: The children of Reuben and the children of Gad called the altar Witness, “For it is a witness between us that the LORD is God.”
 </p>
+##Notes
 
-## Notes
-
-v01–06: Joshua releases the eastern tribes only after affirming that they fulfilled their obligation to assist their western brothers. Their return is framed by covenantal exhortation rather than mere military dismissal.
-
-v10–12: The altar is immediately interpreted as a rival cult site, and Israel prepares for war before hearing its purpose. The chapter’s crisis turns on interpretation before conversation.
-
-v17, v20: Phinehas’ delegation remembers Peor and Achan as cases where one group’s unfaithfulness brought consequences upon the larger community. Their fear is therefore covenantally corporate.
-
-v22: The doubled divine confession is emphatic: “God, God, the LORD.” The eastern tribes invoke God as witness to their intent.
-
-v27–28: The altar is said to be a “witness” and a “pattern,” not a functioning sacrificial altar. Its purpose is to preserve shared identity across the Jordan.
-
-v30–33: The conflict is resolved by investigation and explanation before violence. This stands in marked contrast to later tribal conflict in Judges.
-
-## Vocabulary
+##Vocabulary
 
 v03: מִשְׁמֶרֶת (mishmeret)
 “Charge” or “duty.” An entrusted responsibility faithfully kept.
@@ -119,14 +106,8 @@ v03: מִשְׁמֶרֶת (mishmeret)
 v16: מַעַל (ma'al)
 “Unfaithfulness.” Violation of a sacred or covenantal trust.
 
-v18: מָרַד (marad)
-“To rebel.” To rise in disobedience against authority, here against the LORD.
-
 v27: עֵד (ed)
 “Witness.” Something that testifies to a shared covenantal reality.
-
-v28: תַּבְנִית (tavnit)
-“Pattern” or “form.” The altar’s visible likeness rather than its sacrificial use.
 
 v34: עֵד (Ed)
 “Witness.” The name or function assigned to the altar as testimony that the LORD is God.

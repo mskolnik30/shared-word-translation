@@ -60,29 +60,29 @@ v19: Then the mystery was revealed to Daniel in a vision of the night. Then Dani
 <p>
 v20: Daniel answered and said:
 
-“Blessed be the name of God  
-from age to age,  
-for wisdom and might  
+“Blessed be the name of God
+from age to age,
+for wisdom and might
 belong to him.
 
-v21: He changes times and seasons;  
-he removes kings  
-and raises up kings.  
-He gives wisdom to the wise  
-and knowledge  
+v21: He changes times and seasons;
+he removes kings
+and raises up kings.
+He gives wisdom to the wise
+and knowledge
 to those who know understanding.
 
-v22: He reveals deep and hidden things;  
-he knows what is in the darkness,  
+v22: He reveals deep and hidden things;
+he knows what is in the darkness,
 and light dwells with him.
 
-v23: To you, God of my ancestors,  
-I give thanks and praise,  
-for you have given me  
-wisdom and might.  
-And now you have made known to me  
-what we asked of you,  
-for you have made known to us  
+v23: To you, God of my ancestors,
+I give thanks and praise,
+for you have given me
+wisdom and might.
+And now you have made known to me
+what we asked of you,
+for you have made known to us
 the king’s matter.”
 </p>
 
@@ -157,36 +157,9 @@ v48: Then the king made Daniel great and gave him many great gifts and made him 
 
 v49: Daniel made a request of the king, and he appointed Shadrach, Meshach, and Abednego over the administration of the province of Babylon, while Daniel remained at the king’s court.
 </p>
-
 ##Notes
 
-v04: With the words “in Aramaic,” the source language changes from Hebrew to Aramaic and remains Aramaic through Daniel 7:28. TSW preserves this linguistic shift in the apparatus rather than attempting to make the English style artificially different.
-
-v05: “The word from me is firm” can also be understood as “the matter has gone from me,” leading some translations to say the king forgot the dream. TSW follows the sense that the decree is fixed while acknowledging the ambiguity.
-
-v11: The Chaldeans correctly identify the king’s demand as beyond ordinary human capacity, preparing for Daniel’s confession that revelation comes from the God of heaven.
-
-v18: “mystery” is a key Aramaic term in the chapter. What imperial wisdom cannot discover, God reveals.
-
-v20–23: Daniel’s praise interprets the dream before the details are even given: God controls times, kings, wisdom, darkness, and hidden things.
-
-v25: Arioch says, “I have found a man,” though Daniel had himself approached Arioch with the solution. The court official frames the event in a way that magnifies his own role.
-
-v30: Daniel explicitly rejects the idea that revelation proves he is wiser by nature than all other people.
-
-v31–35: The statue’s descending metals move from preciousness toward strength and fragmentation. The stone comes “not by hands,” distinguishing the final kingdom from human imperial construction.
-
-v37–38: Nebuchadnezzar’s authority is real but derivative. The God of heaven is said to have given him kingdom and power.
-
-v39–43: The four kingdoms are not explicitly named beyond Babylon in the chapter. Later interpretation has identified them in different ways. TSW does not insert names absent from the text.
-
-v43: “mix with the offspring of humanity” is obscure and may refer to dynastic marriage or political intermingling. The central image is failed cohesion.
-
-v44: The kingdom established by God differs from the previous empires in permanence and origin, not merely in greater military strength.
-
-v46: Nebuchadnezzar’s prostration and offerings toward Daniel create a difficult scene. The narrative immediately places the king’s confession on Daniel’s God as the revealer of mysteries.
-
-v49: “king’s court” is literally “the king’s gate,” an administrative location of royal service.
+v43: “mix with the offspring of humanity” is obscure and may refer to dynastic marriage or political intermingling.
 
 ##Vocabulary
 
@@ -199,23 +172,8 @@ v11: יַקִּיר (yaqqir)
 v18: רָז (raz)
 “Mystery.” A hidden matter disclosed by God.
 
-v21: עִדָּן (iddan)
-“Time” or “season.” God changes appointed periods.
-
-v22: עַמִּיק (ammiq)
-“Deep.” Hidden things inaccessible to ordinary perception.
-
-v31: צְלֵם (tselem)
-“Statue” or “image.” The great multi-metal figure.
-
-v34: אֶבֶן (even)
-“Stone.” The non-humanly cut stone that destroys the statue.
-
 v37: מַלְכוּת (malkhut)
 “Kingdom” or “royal rule.”
 
 v44: עָלַם (alam)
 “Forever” or “age.” The divine kingdom endures permanently.
-
-v45: יַצִּיב (yatsiv)
-“Certain” or “firm.” The dream is reliable.

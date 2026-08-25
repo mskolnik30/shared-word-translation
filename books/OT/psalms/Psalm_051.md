@@ -7,6 +7,7 @@ translation: TSW
 
 ## A Prayer for Mercy and Renewal
 
+<p>
 v01: Have mercy on me, O God,
 according to your steadfast love.
 According to your abundant compassion,
@@ -72,43 +73,19 @@ rebuild the walls of Jerusalem.
 v19: Then you will delight in right sacrifices,
 in burnt offerings and whole offerings;
 then bulls will be offered on your altar.
+</p>
+##Notes
 
-## Notes
-v1–2: The appeal to mercy is grounded not in the speaker’s worthiness but in God’s character. “Steadfast love” and “abundant compassion” frame repentance as response to covenantal faithfulness rather than fear of punishment.
+##Vocabulary
 
-v4: The claim “against you, you alone” does not deny harm done to others. It names the ultimate moral horizon of sin as relational rupture with God, even when consequences are communal.
+v01: חֶסֶד (chesed)
+“Steadfast love; Lovingkindness.” Denotes covenantal loyalty rather than emotion alone. It describes God’s reliable commitment to relationship.
 
-v5: This verse speaks of human brokenness as a condition rather than an isolated act. The language is experiential and poetic, not a systematic statement about inherited guilt.
+v05: עָוֹן (ʿavon)
+“Brokenness.” The word carries connotations of distortion or bending, with a sense of condition rather than isolated misdeed.
 
-v6: Truth and wisdom are located inwardly, not performatively. The verse contrasts external compliance with interior formation, setting the trajectory for the psalm’s rejection of ritual alone.
-
-v7: Hyssop evokes ritual purification practices. The speaker seeks not symbolic cleansing but real restoration, using liturgical language to name personal need.
-
-v10: The verb “create” is deliberate. Renewal is not framed as self-repair but as divine action that brings forth something genuinely new.
-
-v11: The request not to be cast away reflects fear of relational severance rather than loss of status. “Holy spirit” is spoken of as God’s sustaining presence, not a possession.
-
-v12: Joy is restored before obedience. Willingness flows from renewal, not coercion, reinforcing the psalm’s internal logic of grace preceding action.
-
-v16–17: Sacrifice is not rejected outright but relativized. The psalm critiques ritual when detached from humility and truthfulness of heart.
-
-v18–19: The psalm widens from personal repentance to communal restoration. Individual healing is not isolated from the well-being of the city and its shared worship.
-
-## Vocabulary
-v1: חֶסֶד (chesed)  
-Often translated “steadfast love” or “lovingkindness,” this term denotes covenantal loyalty rather than emotion alone. It describes God’s reliable commitment to relationship.
-
-v5: עָוֹן (ʿavon)  
-Rendered here as “brokenness,” the word carries connotations of distortion or bending, emphasizing condition rather than isolated misdeed.
-
-v7: אֵזוֹב (ezov)  
+v07: אֵזוֹב (ezov)
 “Hyssop” refers to a plant used in purification rites. Its use here links personal repentance with communal worship practices.
 
-v10: בָּרָא (baraʾ)  
-“To create.” This verb is used in Hebrew scripture for divine action alone, underscoring that the transformation sought exceeds human effort.
-
-v17: רוּחַ (ruach)  
-Translated “spirit,” the term can mean breath, wind, or life-force. Here it names inner posture rather than intellect or emotion alone.
-
-v18: צִיּוֹן (Tsiyon)  
-“Zion” represents more than a location; it functions as a symbol of communal life, worship, and shared identity.
+v17: רוּחַ (ruach)
+“Spirit.” The term can mean breath, wind, or life-force. Here it names inner posture rather than intellect or emotion alone.

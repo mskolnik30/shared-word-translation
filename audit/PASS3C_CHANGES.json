@@ -1,0 +1,146 @@
+[
+  {
+    "file": "books/OT/ezekiel/Ezekiel_20.md",
+    "change": "move public vv45–49 after v44"
+  },
+  {
+    "file": "books/OT/1chronicles/1Chronicles_21.md",
+    "change": "collapse invalid nested paragraph tags"
+  },
+  {
+    "file": "books/OT/1chronicles/1Chronicles_12.md",
+    "change": "collapse invalid nested paragraph tags"
+  },
+  {
+    "file": "books/OT/1chronicles/1Chronicles_26.md",
+    "change": "collapse invalid nested paragraph tags"
+  },
+  {
+    "file": "books/OT/1chronicles/1Chronicles_08.md",
+    "change": "collapse invalid nested paragraph tags"
+  },
+  {
+    "file": "books/OT/1kings/1Kings_09.md",
+    "change": "collapse invalid nested paragraph tags"
+  },
+  {
+    "file": "books/OT/1kings/1Kings_13.md",
+    "change": "collapse invalid nested paragraph tags"
+  },
+  {
+    "file": "books/OT/1chronicles/1Chronicles_12.md",
+    "change": "repair v18 poetry/narrative paragraph"
+  },
+  {
+    "file": "books/OT/psalms/Psalm_059.md",
+    "change": "merge verse-continuation poetry into v04/v16"
+  },
+  {
+    "file": "books/NT/matthew/Matthew_17.md",
+    "change": "remove later-manuscript v21 from critical-text main"
+  },
+  {
+    "file": "books/NT/luke/Luke_17.md",
+    "change": "remove later-manuscript v36 from critical-text main"
+  },
+  {
+    "file": "books/OT/ecclesiastes/Ecclesiastes_09.md",
+    "change": "remove orphan footnote markers"
+  },
+  {
+    "file": "books/OT/1kings/1Kings_17.md",
+    "change": "remove malformed note footnote label"
+  },
+  {
+    "file": "books/OT/hosea/Hosea_01.md",
+    "change": "normalize YHWH to LORD"
+  },
+  {
+    "file": "books/OT/hosea/Hosea_02.md",
+    "change": "restore English article before LORD"
+  },
+  {
+    "file": "books/OT/psalms/Psalm_146.md",
+    "change": "restore English article before LORD"
+  },
+  {
+    "file": "books/OT/ezekiel/Ezekiel_17.md",
+    "change": "standardize divine pronoun capitalization"
+  },
+  {
+    "file": "books/OT/ezekiel/Ezekiel_21.md",
+    "change": "standardize divine pronoun capitalization"
+  },
+  {
+    "file": "books/OT/deuteronomy/Deuteronomy_02.md",
+    "change": "capitalize sentence-start LORD at v17"
+  },
+  {
+    "file": "books/OT/exodus/Exodus_10.md",
+    "change": "capitalize sentence-start LORD at v19"
+  },
+  {
+    "file": "books/OT/exodus/Exodus_06.md",
+    "change": "capitalize sentence-start LORD at v13"
+  },
+  {
+    "file": "books/OT/exodus/Exodus_06.md",
+    "change": "capitalize sentence-start LORD at v29"
+  },
+  {
+    "file": "books/OT/exodus/Exodus_04.md",
+    "change": "capitalize sentence-start LORD at v02"
+  },
+  {
+    "file": "books/OT/exodus/Exodus_04.md",
+    "change": "capitalize sentence-start LORD at v11"
+  },
+  {
+    "file": "books/OT/exodus/Exodus_04.md",
+    "change": "capitalize sentence-start LORD at v19"
+  },
+  {
+    "file": "books/OT/exodus/Exodus_04.md",
+    "change": "capitalize sentence-start LORD at v21"
+  },
+  {
+    "file": "books/OT/judges/Judges_06.md",
+    "change": "capitalize sentence-start LORD at v08"
+  },
+  {
+    "file": "books/OT/1kings/1Kings_17.md",
+    "change": "capitalize sentence-start LORD at v22"
+  },
+  {
+    "file": "books/OT/1kings/1Kings_09.md",
+    "change": "capitalize sentence-start LORD at v02"
+  },
+  {
+    "file": "books/OT/deuteronomy/Deuteronomy_32.md",
+    "change": "make note source-focused and non-commentarial"
+  },
+  {
+    "file": "books/OT/1chronicles/1Chronicles_03.md",
+    "change": "repair malformed vocabulary and retain selective lexical entry"
+  },
+  {
+    "file": "books/NT/mark/Mark_04.md",
+    "change": "remove workflow contamination from vocabulary"
+  },
+  {
+    "file": "books/NT/john/John_04.md",
+    "change": "normalize vocabulary source-term-first format"
+  },
+  {
+    "file": "books/OT/psalms/Psalm_095.md",
+    "change": "normalize vocabulary source-term-first format"
+  },
+  {
+    "file": "books/OT/1chronicles/1Chronicles_04.md",
+    "change": "remove theological commentary from proper-name vocabulary"
+  },
+  {
+    "file": "books/OT/psalms/Psalm_059.md",
+    "change": "make vocabulary lexical and restrained"
+  }
+]

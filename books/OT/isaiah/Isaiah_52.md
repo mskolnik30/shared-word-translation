@@ -112,80 +112,18 @@ v15: so he shall startle many nations;
   For that which had not been told them they shall see,
   and that which they had not heard they shall understand.
 </p>
+##Notes
 
-## Notes
-v1–2: “Awake… put on strength… loose the bonds” — Salvation is pictured as rousing dignity and freedom: Zion is addressed as captive-but-called, summoned to stand up into a new identity.
+##Vocabulary
 
-v3: “redeemed without money” — Liberation is not purchased by Israel’s resources; it is sheer divine rescue, breaking the logic of debt and exploitation.
+v03: גָּאַל (ga’al)
+“To redeem; to reclaim as kin-redeemer.”
 
-v4–5: Egypt and Assyria — The LORD names a pattern of oppression “for nothing”; history’s humiliations are brought into the courtroom of God’s justice.
+v07: בָּשַׂר (basar)
+“To bring good news; to announce.”
 
-v6: “my people shall know my name… Here am I” — Deliverance is relational revelation: God’s name becomes known not as concept but as presence and speech.
+v07: שָׁלוֹם (shalom)
+“Peace; wholeness.”
 
-v7: “beautiful… feet… brings good news… ‘Your God reigns’” — Gospel language before the gospel: the core announcement is God’s kingship bringing peace, salvation, and public reversal.
-
-v8: “watchmen… eye to eye” — Restoration is not rumor; it is witnessed clarity. Joy rises as those tasked with vigilance see God’s return.
-
-v9: “ruins… comforted… redeemed” — God’s consolation is not denial of devastation; the ruins are named, and then addressed with song.
-
-v10: “bared his holy arm… all nations… ends of the earth” — Salvation is public and missional: God acts in a way the nations can see, widening the horizon beyond Israel.
-
-v11: “Depart… be clean… carry the vessels” — Exodus imagery returns: liberation includes holiness. Those who bear the LORD’s things must embody separation from what defiles.
-
-v12: “not… in haste… the LORD… before… rear guard” — Unlike the first exodus’ urgency, this departure is guarded and ordered; God surrounds the people—leading and protecting.
-
-v13: “my servant… high and lifted up” — The Servant’s exaltation is announced before the suffering is described; glory is coming, but by a surprising path.
-
-v14: “marred… beyond mortals” — The text insists on real disfigurement and humiliation; whatever follows is not triumphalism but costly identification with human damage.
-
-v15: “startle many nations… kings… shut their mouths” — The Servant’s impact is global and silencing: power structures are rendered speechless as God’s unexpected work is seen and understood.
-
-## Vocabulary
-v1: עוּר (ʿur) — to awake; to rouse
-
-v1: עֹז (ʿoz) — strength; might
-
-v2: עָפָר (ʿafar) — dust
-
-v2: מוֹסֵר (moser) — bond; fetter; restraint
-
-v3: גָּאַל (ga’al) — to redeem; to reclaim as kin-redeemer
-
-v4: גּוּר (gur) — to sojourn; to reside as a resident alien
-
-v5: בָּזָה (bazah) — to despise; to treat with contempt
-
-v6: יָדַע (yadaʿ) — to know (relational knowing)
-
-v6: שֵׁם (shem) — name
-
-v7: בָּשַׂר (basar) — to bring good news; to announce
-
-v7: שָׁלוֹם (shalom) — peace; wholeness
-
-v7: יְשׁוּעָה (yeshu‘ah) — salvation; deliverance
-
-v8: צָפָה (tsafah) — to watch; to keep lookout
-
-v9: נָחַם (naḥam) — to comfort; to console
-
-v10: זְרוֹעַ (zeroaʿ) — arm (symbol of power)
-
-v11: טָמֵא (ṭame’) — unclean; defiled
-
-v11: טָהֵר (ṭaher) — to be clean; to purify
-
-v12: חִפָּזוֹן (ḥippazon) — haste; panic flight
-
-v12: אָסַף (’asaf) — to gather; to bring in (used for rear-guard imagery)
-
-v13: עֶבֶד (ʿeved) — servant
-
-v13: שָׂכַל (sakal) — to act wisely; to prosper; to have insight
-
-v14: שָׁחַת (shaḥat) — to be marred; to be ruined/corrupted (appearance)
-
-v15: נָזָה (nazah) — to sprinkle; to startle (sense debated in context)
-
-v15: גּוֹיִם (goyim) — nations; peoples
-
+v07: יְשׁוּעָה (yeshu‘ah)
+“Salvation; deliverance.”

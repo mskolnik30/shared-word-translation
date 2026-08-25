@@ -64,26 +64,7 @@ v19: “When you besiege a city many days, fighting against it to capture it, yo
 
 v20: Only a tree that you know is not a tree for food you may destroy and cut down, and you may build siegeworks against the city that makes war with you until it falls.
 </p>
-
 ##Notes
-
-v01–04: Israel’s military confidence is grounded in the exodus and the presence of the LORD, not in parity of horses, chariots, or numbers.
-
-v05–07: House, vineyard, and marriage represent unfinished ordinary life. The law permits men to return rather than lose these beginnings in battle.
-
-v08: Fear is treated as socially contagious; the fainthearted soldier may return so that panic does not spread through the army.
-
-v10–15: The command to offer peace applies to distant cities outside the Canaanite conquest zone. Submission results in forced labor rather than destruction.
-
-v11: “forced labor” reflects an ancient imperial labor arrangement. The text regulates warfare in its historical setting and should not be used to justify modern enslavement.
-
-v16–18: The *herem* command concerning Canaanite cities is one of Deuteronomy’s most severe texts. TSW preserves the conquest language without universalizing it into later religious or ethnic violence.
-
-v18: The rationale given is cultic: Israel must not learn the nations’ worship practices.
-
-v19: The Hebrew question about the tree is syntactically difficult. TSW follows the sense that fruit trees are not combatants and therefore should not be destroyed as if they were part of the besieged population.
-
-v20: Non-fruit trees may be used for siegeworks, distinguishing military necessity from indiscriminate ecological destruction.
 
 ##Vocabulary
 
@@ -93,26 +74,8 @@ v01: סוּס (sus)
 v03: רָכַךְ לֵב (rakhakh lev)
 “To let the heart grow weak.” To lose courage.
 
-v04: יָשַׁע (yasha)
-“To save” or “deliver.” The LORD fights to save Israel.
-
-v05: חָנַךְ (chanakh)
-“To dedicate.” To begin the use of a new house.
-
 v06: חִלֵּל (chillel)
 “To begin to enjoy fruit.” A technical term for first use of vineyard produce.
 
 v10: שָׁלוֹם (shalom)
 “Peace.” The offer made before attacking a distant city.
-
-v11: מַס (mas)
-“Forced labor” or “tribute.”
-
-v17: חָרַם (charam)
-“To devote to destruction.” To place under irrevocable ban.
-
-v19: עֵץ מַאֲכָל (ets ma'akhal)
-“Tree for food.” A fruit-producing tree protected during siege.
-
-v20: מָצוֹר (matsor)
-“Siegework” or “siege.” Military encirclement of a fortified city.

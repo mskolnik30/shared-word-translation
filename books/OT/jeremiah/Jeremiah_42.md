@@ -64,20 +64,7 @@ v21: I have told you today, but you have not listened to the voice of the LORD y
 
 v22: Now therefore know certainly that you will die by sword, famine, and plague in the place where you desire to go to live as resident aliens.”
 </p>
-
 ##Notes
-
-v02–06: The remnant solemnly promises obedience before knowing the content of the answer. The rest of the narrative tests whether their commitment is genuine.
-
-v07: The ten-day delay resists any impression that Jeremiah produces immediate answers on demand. The prophet waits for the word to come.
-
-v10: “I will build … plant” again reverses Jeremiah’s destruction language. Remaining in a devastated Judah is presented as the path toward restoration.
-
-v11–12: The people’s fear of Babylon is directly addressed with the assurance “I am with you,” echoing divine-presence language used throughout Scripture.
-
-v14: Egypt is imagined as a place without war, alarm, or hunger. The oracle declares that the very dangers they seek to escape will follow them there.
-
-v20: The Hebrew phrase is difficult and can be understood as deceiving themselves or erring at the cost of their lives. TSW preserves both the self-deception and its mortal consequence.
 
 ##Vocabulary
 
@@ -92,9 +79,3 @@ v10: נָטַע (nata)
 
 v12: רַחֲמִים (rachamim)
 “Compassion” or “mercies.” The LORD promises to place compassion before Babylon’s king.
-
-v15: גּוּר (gur)
-“To live as a resident alien.” To reside in a land without ancestral possession.
-
-v20: תָּעָה (ta'ah)
-“To wander,” “err,” or “mislead oneself.” Used of the remnant’s fatal self-deception.

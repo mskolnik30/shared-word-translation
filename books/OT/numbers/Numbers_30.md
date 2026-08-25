@@ -51,22 +51,18 @@ v15: But if he nullifies them after he has heard them, then he shall bear her gu
 <p>
 v16: These are the statutes that the LORD commanded Moses concerning a man and his wife, and concerning a father and his daughter while she is young in her father’s house.
 </p>
-
 ##Notes
-v02: Spoken commitments are treated as morally binding. The emphasis falls on integrity between what is spoken before the LORD and what is actually done.
-v03–15: The chapter reflects the legal structures of the ancient household, in which a father or husband could bear responsibility for vows affecting the household. The text also explicitly recognizes vows of widowed and divorced women as independently binding.
-v05: A vow nullified by legitimate household authority does not become the woman’s moral failure; the text says the LORD will forgive her.
-v13: “to humble herself” likely includes vows involving fasting or self-denial, but the phrase is broader than one specific practice.
-v15: Delayed nullification shifts guilt to the husband, because his initial silence had already confirmed the vow.
 
 ##Vocabulary
+
 v02: נֶדֶר (neder)
 “Vow.” A solemn promise made to the LORD.
+
 v02: שְׁבוּעָה (shevuah)
 “Oath.” A sworn commitment that binds the speaker.
+
 v02: אָסַר (asar)
 “To bind.” Used figuratively for placing oneself under an obligation.
+
 v02: חָלַל (chalal)
 “To profane” or “break.” To make one’s word common by failing to fulfill it.
-v13: עָנָה נֶפֶשׁ (anah nefesh)
-“To humble oneself.” A phrase for self-denial or affliction undertaken by vow.

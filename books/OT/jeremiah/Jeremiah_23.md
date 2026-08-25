@@ -20,16 +20,16 @@ v04: I will raise up shepherds over them who will shepherd them. They will no lo
 ## A Righteous Branch for David
 
 <p>
-v05: “Look, days are coming,” says the LORD,  
-“when I will raise up for David  
-a righteous Branch.  
-He will reign as king and act wisely  
-and practice justice and righteousness  
+v05: “Look, days are coming,” says the LORD,
+“when I will raise up for David
+a righteous Branch.
+He will reign as king and act wisely
+and practice justice and righteousness
 in the land.
 
-v06: In his days Judah will be saved,  
-and Israel will dwell securely.  
-And this is the name by which he will be called:  
+v06: In his days Judah will be saved,
+and Israel will dwell securely.
+And this is the name by which he will be called:
 ‘The LORD Is Our Righteousness.’
 
 v07: Therefore look, days are coming,” says the LORD, “when they will no longer say, ‘As the LORD lives, who brought up the children of Israel from the land of Egypt,’
@@ -42,53 +42,53 @@ v08: but, ‘As the LORD lives, who brought up and brought back the offspring of
 <p>
 v09: Concerning the prophets:
 
-My heart is broken within me;  
-all my bones tremble.  
-I have become like a drunken man,  
-like a man overcome by wine,  
-because of the LORD  
+My heart is broken within me;
+all my bones tremble.
+I have become like a drunken man,
+like a man overcome by wine,
+because of the LORD
 and because of his holy words.
 
-v10: For the land is full of adulterers;  
-because of the curse the land mourns,  
-the pastures of the wilderness are dried up.  
-Their course is evil,  
+v10: For the land is full of adulterers;
+because of the curse the land mourns,
+the pastures of the wilderness are dried up.
+Their course is evil,
 and their strength is not right.
 
-v11: “For both prophet and priest are profane;  
-even in my house I have found their evil,”  
+v11: “For both prophet and priest are profane;
+even in my house I have found their evil,”
 says the LORD.
 
-v12: “Therefore their way will be to them  
-like slippery places in darkness.  
-They will be driven on and fall in it,  
-for I will bring disaster upon them  
-in the year of their visitation,”  
+v12: “Therefore their way will be to them
+like slippery places in darkness.
+They will be driven on and fall in it,
+for I will bring disaster upon them
+in the year of their visitation,”
 says the LORD.
 </p>
 
 ## Prophets of Samaria and Jerusalem
 
 <p>
-v13: “Among the prophets of Samaria  
-I saw something offensive:  
-they prophesied by Baal  
+v13: “Among the prophets of Samaria
+I saw something offensive:
+they prophesied by Baal
 and led my people Israel astray.
 
-v14: But among the prophets of Jerusalem  
-I have seen something horrifying:  
-committing adultery and walking in falsehood.  
-They strengthen the hands of evildoers  
-so that no one turns from evil.  
-All of them have become to me like Sodom,  
+v14: But among the prophets of Jerusalem
+I have seen something horrifying:
+committing adultery and walking in falsehood.
+They strengthen the hands of evildoers
+so that no one turns from evil.
+All of them have become to me like Sodom,
 and its inhabitants like Gomorrah.
 
 v15: Therefore thus says the LORD of Hosts concerning the prophets:
 
-Look, I will feed them wormwood  
-and give them poisoned water to drink,  
-for from the prophets of Jerusalem  
-profaneness has gone out  
+Look, I will feed them wormwood
+and give them poisoned water to drink,
+for from the prophets of Jerusalem
+profaneness has gone out
 into all the land.”
 </p>
 
@@ -101,43 +101,43 @@ v16: Thus says the LORD of Hosts:
 
 v17: They continually say to those who despise me, ‘The LORD has spoken: You will have peace.’ And to everyone who walks in the stubbornness of his heart they say, ‘No disaster will come upon you.’
 
-v18: For who has stood in the council of the LORD  
-and seen and heard his word?  
-Who has paid attention to his word  
+v18: For who has stood in the council of the LORD
+and seen and heard his word?
+Who has paid attention to his word
 and listened?
 
-v19: Look, the storm of the LORD—wrath—  
-has gone out,  
-a whirling storm.  
-It will whirl upon the head  
+v19: Look, the storm of the LORD—wrath—
+has gone out,
+a whirling storm.
+It will whirl upon the head
 of the wicked.
 
-v20: The anger of the LORD will not turn back  
-until he has done  
-and established the purposes of his heart.  
-In the latter days  
+v20: The anger of the LORD will not turn back
+until he has done
+and established the purposes of his heart.
+In the latter days
 you will understand it clearly.
 </p>
 
 ## I Did Not Send These Prophets
 
 <p>
-v21: “I did not send the prophets,  
-yet they ran.  
-I did not speak to them,  
+v21: “I did not send the prophets,
+yet they ran.
+I did not speak to them,
 yet they prophesied.
 
-v22: But if they had stood in my council,  
-they would have caused my people to hear my words  
-and turned them from their evil way  
+v22: But if they had stood in my council,
+they would have caused my people to hear my words
+and turned them from their evil way
 and from the evil of their deeds.
 
-v23: Am I a God nearby,” says the LORD,  
+v23: Am I a God nearby,” says the LORD,
 “and not a God far away?
 
-v24: Can anyone hide in secret places  
-so that I do not see them?” says the LORD.  
-“Do I not fill heaven and earth?”  
+v24: Can anyone hide in secret places
+so that I do not see them?” says the LORD.
+“Do I not fill heaven and earth?”
 says the LORD.
 </p>
 
@@ -152,11 +152,11 @@ v27: who think to make my people forget my name by their dreams that they tell e
 
 v28: The prophet who has a dream, let him tell the dream; but the one who has my word, let him speak my word faithfully.
 
-What does straw have in common with grain?”  
+What does straw have in common with grain?”
 says the LORD.
 
-v29: “Is not my word like fire,” says the LORD,  
-“and like a hammer  
+v29: “Is not my word like fire,” says the LORD,
+“and like a hammer
 that shatters rock?
 </p>
 
@@ -189,22 +189,7 @@ v39: therefore look, I will surely forget you and cast you away from my presence
 
 v40: I will place upon you everlasting reproach and everlasting humiliation that will not be forgotten.”
 </p>
-
 ##Notes
-
-v01–04: Kings and leaders are addressed as “shepherds.” Their failure is measured by what happens to the flock entrusted to them.
-
-v05: “Branch” translates *tsemach*, a growth image used for renewed Davidic rule. TSW retains the metaphor rather than replacing it with a later title.
-
-v06: “The LORD Is Our Righteousness” is a royal name or designation that wordplays with Zedekiah’s name, which is formed from the same Hebrew roots in reverse relationship.
-
-v09: Jeremiah’s bodily response to the LORD’s words resembles intoxication but arises from the weight of prophetic revelation rather than wine.
-
-v18, v22: The “council of the LORD” portrays genuine prophecy as participation in divine deliberation and hearing, contrasted with speech generated from the prophet’s own heart.
-
-v23–24: Divine nearness is not limitation. The LORD is both near and far and cannot be escaped through secrecy.
-
-v28–29: Dream and word are not simply equated. The contrast is between straw and grain, while the LORD’s word is also fire and a hammer.
 
 v33–40: Hebrew *massa* can mean both “oracle/burden” and a literal burden. The passage turns the people’s repeated demand for “the burden of the LORD” back upon them through wordplay.
 
@@ -221,12 +206,6 @@ v06: יְהוָה צִדְקֵנוּ (YHWH tsidqenu)
 
 v18: סוֹד (sod)
 “Council” or “confidential assembly.” The divine council in which true prophetic speech is heard.
-
-v28: תֶּבֶן (teven)
-“Straw.” Contrasted with grain as empty prophetic speech is contrasted with the LORD’s word.
-
-v29: פַּטִּישׁ (pattish)
-“Hammer.” An image of the LORD’s word shattering rock.
 
 v33: מַשָּׂא (massa)
 “Burden” or “oracle.” The ambiguous term becomes the focus of prophetic wordplay.

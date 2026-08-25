@@ -8,7 +8,6 @@ translation: TSW
 ## The Fall of Babylon
 
 <p>
-
 v01: After this I saw another angel coming down from heaven, having great authority, and the earth was made bright with his glory.
 
 v02: And he called out with a mighty voice,
@@ -160,89 +159,19 @@ and all nations were deceived by your sorcery.
 v24: And in her was found the blood of prophets and of saints,
 
 and of all who have been slain on the earth.”
-
 </p>
+##Notes
 
-## Notes
+##Vocabulary
 
-v1: The angel’s authority is expressed through effect (“the earth was made bright”).
-
-v2: The fall is declared before narrated; repetition intensifies certainty.
-
-v2–3: Corruption is described through habitation imagery.
-
-v4: Separation is commanded; participation is relational, not incidental.
-
-v5: Sin is depicted cumulatively (“heaped high”).
-
-v6–7: Judgment is reciprocal and proportional.
-
-v7: Self-perception contrasts with outcome.
-
-v8: Suddenness (“in a single day”) emphasizes reversal.
-
-v9–10: Distance marks fear; association becomes liability.
-
-v11–13: The cargo list accumulates without hierarchy, ending with human lives.
-
-v14: Loss is total and irreversible.
-
-v15–17: Wealth is undone rapidly; reaction is external.
-
-v18–19: Comparison underscores uniqueness without explanation.
-
-v20: Perspective shifts; judgment becomes cause for rejoicing.
-
-v21: The symbolic act interprets the event.
-
-v22–23: Absence is repeated; life is systematically removed.
-
-v23: Deception is attributed to influence rather than force.
-
-v24: Violence is comprehensive; responsibility is total.
-
-## Vocabulary
-
-v2: κατοικητήριον (katoikētērion)
-
+v02: κατοικητήριον (katoikētērion)
 “Dwelling place.” Place of settled habitation.
 
-v3: πλοῦτος (ploutos)
-
+v03: πλοῦτος (ploutos)
 “Wealth.” Abundance of resources.
 
-v4: ἐξέρχομαι (exerchomai)
-
+v04: ἐξέρχομαι (exerchomai)
 “To come out.” Separation from within.
 
-v5: κολλάω (kollaō)
-
+v05: κολλάω (kollaō)
 “To cling.” To join or attach.
-
-v6: διπλόω (diploō)
-
-“To double.” To repay in kind.
-
-v7: στρηνιάω (strēniaō)
-
-“To live in luxury.” Excessive indulgence.
-
-v10: κρίσις (krisis)
-
-“Judgment.” Decision or verdict.
-
-v13: σῶμα (sōma)
-
-“Body.” Here indicating human life.
-
-v21: μύλος (mylos)
-
-“Millstone.” Heavy stone used for grinding.
-
-v23: φαρμακεία (pharmakeia)
-
-“Sorcery.” Deceptive or manipulative practice.
-
-v24: αἷμα (haima)
-
-“Blood.” Life taken through violence.

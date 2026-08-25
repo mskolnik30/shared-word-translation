@@ -100,64 +100,20 @@ v29: For I know that after my death you will surely act corruptly and turn aside
 <p>
 v30: Then Moses spoke in the hearing of all the assembly of Israel the words of this song until they were completed:
 </p>
-
 ##Notes
 
-v02: Moses’ age is given as 120. “Go out and come in” is an idiom for active leadership, not necessarily a claim of physical incapacity alone.
-
-v03: The LORD and Joshua are both said to cross before the people. Joshua’s leadership remains subordinate to divine presence and action.
-
-v06, v08, v23: “Be strong and courageous” is repeated to people and leader, while the reason is consistently the LORD’s accompanying presence.
-
-v09: Moses is explicitly said to write “this instruction,” giving written Torah a public role alongside oral teaching.
-
-v10–13: Every seven years the instruction is to be read to the entire assembly, explicitly including women, children, and resident aliens.
-
-v16: Israel’s future idolatry is described again through sexual metaphor—“prostitute themselves”—for covenant betrayal.
-
-v17–18: The hiding of the divine face portrays experienced absence under judgment, even though the LORD remains the one interpreting what has happened.
-
-v19: The Song of Moses is designed as memorized testimony. Putting it “in their mouths” ensures that future generations carry the witness themselves.
-
-v20: Satisfaction and abundance again create danger: prosperity can produce forgetfulness and covenant betrayal.
-
-v21: “inclination” refers to the inward formation or imagination of the heart.
-
-v26: The book is placed beside, not necessarily inside, the ark. It functions as a covenant witness alongside the tablets.
-
-v30: The verse serves as the introduction to the song in chapter 32 and is preserved as its own public verse.
+v02: “Go out and come in” is an idiom for active leadership, not necessarily a claim of physical incapacity alone.
 
 ##Vocabulary
 
 v02: צֵאת וָבוֹא (tset va-vo)
 “Go out and come in.” An idiom for active leadership.
 
-v06: חָזַק וֶאֱמָץ (chazaq ve-emats)
-“Be strong and courageous.”
-
 v09: כָּתַב (katav)
 “To write.” Moses commits the instruction to written form.
-
-v10: שְׁמִטָּה (shemittah)
-“Release.” The seventh-year cycle.
-
-v12: הַקְהֵל (haqhel)
-“Gather.” The command to assemble the whole people.
 
 v16: זָנָה (zanah)
 “To prostitute oneself.” A metaphor for idolatrous covenant betrayal.
 
-v18: סָתַר פָּנִים (satar panim)
-“To hide the face.” An image of divine withdrawal in judgment.
-
 v19: שִׁירָה (shirah)
 “Song.” The poetic witness taught to Israel.
-
-v21: יֵצֶר (yetser)
-“Inclination” or “formation.” The heart’s developing inner purpose.
-
-v26: סֵפֶר הַתּוֹרָה (sefer ha-torah)
-“Book of instruction.” The written covenant teaching.
-
-v27: קְשֵׁה־עֹרֶף (qesheh-oref)
-“Stiff-necked.” Stubbornly resistant.

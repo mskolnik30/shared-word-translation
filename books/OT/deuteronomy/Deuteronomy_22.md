@@ -100,30 +100,7 @@ v29: then the man who lay with her shall give the young woman’s father fifty s
 
 v30: A man shall not take his father’s wife and shall not uncover his father’s skirt.
 </p>
-
 ##Notes
-
-v01–04: Neighbor-love is expressed through responsibility for lost animals, property, and burdened livestock. “Do not hide yourself” means do not evade responsibility.
-
-v05: The exact social situations covered by the clothing prohibition are not specified. The Hebrew speaks broadly of male gear and female garment and should not be expanded beyond what the verse states.
-
-v06–07: The nest law limits human taking by preserving the mother bird, joining ordinary food gathering with restraint toward animal life.
-
-v08: Flat roofs were common living spaces. A parapet is a preventive safety measure, and failure to build one can create bloodguilt.
-
-v09–11: These mixture laws preserve symbolic distinctions in agriculture, labor, and clothing. The text does not explain one single rationale for all three.
-
-v13–19: The law protects a wife from a husband’s defamatory accusation by requiring evidence and imposing a substantial fine and permanent marital obligation on the false accuser.
-
-v15–17: The nature of the “evidence of virginity” is debated and likely reflects ancient marriage customs. TSW retains the legal phrase rather than supplying a medical explanation.
-
-v20–21: The penalty is severe and belongs to ancient Israel’s covenantal legal order. TSW preserves the law without treating it as a modern civil prescription.
-
-v23–27: The law distinguishes consensual adultery from sexual assault by considering location and the practical possibility of rescue. The woman assaulted in the field is explicitly declared innocent of a capital offense.
-
-v28: The Hebrew verb *taphas* means seize or grasp. Whether the case describes forcible rape or illicit intercourse under coercive circumstances has been debated. TSW renders the concrete verb “seizes” rather than softening it.
-
-v29: Requiring marriage does not erase the violence or coercion embedded in the ancient setting. The law prevents the man from discarding the woman after sexually compromising her, but the woman’s own choice is not recorded in this formulation.
 
 v30: “uncover his father’s skirt” is an idiom for sexual relations with the father’s wife.
 
@@ -137,24 +114,6 @@ v03: אָבַד (avad)
 
 v08: מַעֲקֶה (ma'aqeh)
 “Parapet.” A protective barrier around a roof.
-
-v09: כִּלְאַיִם (kilayim)
-“Mixed kinds.” Two kinds sown together.
-
-v11: שַׁעַטְנֵז (sha'atnez)
-“Mixed wool and linen.” A technical textile term.
-
-v12: גְּדִלִים (gedilim)
-“Tassels.” Fringes on the corners of a garment.
-
-v14: שֵׁם רָע (shem ra)
-“Evil name.” A damaging public accusation.
-
-v21: נְבָלָה (nevalah)
-“Disgraceful thing.” A grave covenantal violation.
-
-v25: חָזַק (chazaq)
-“To seize by force.” Used of overpowering the betrothed woman.
 
 v30: כָּנָף (kanaph)
 “Skirt,” “wing,” or “edge.” Here part of a sexual idiom.

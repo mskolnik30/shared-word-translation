@@ -94,35 +94,12 @@ v34: He has also put in his heart the ability to teach, both he and Oholiab son 
 
 v35: He has filled them with wisdom of heart to do every kind of work: engraving, skilled design, embroidery in blue, purple, and scarlet yarn and fine linen, and weaving—workers of every kind and designers of skillful work.
 </p>
-
 ##Notes
-
-v01–03: Sabbath instruction precedes sanctuary construction, making clear that sacred work does not cancel sacred rest.
-
-v05, v21–29: The offering is repeatedly described through willing hearts and moved spirits. The sanctuary is built from commanded materials freely contributed.
-
-v10: “wise-hearted” craftsmanship is again treated as a form of wisdom, not as secondary to verbal or administrative gifts.
-
-v22: Men and women participate together in giving personal ornaments and gold objects.
-
-v25–26: Women are explicitly named as skilled producers of sanctuary textiles, including both spun colored yarn and goats’ hair.
-
-v27: Leaders contribute precious stones and spices rather than being portrayed as controlling the whole collection.
-
-v30–35: The chapter repeats the divine calling of Bezalel and Oholiab from chapter 31, now before the gathered community as construction begins.
-
-v34: The ability to teach is itself said to be placed in the artisans’ hearts, making transmission of craft skill part of the divine gift.
 
 ##Vocabulary
 
 v02: שַׁבַּת שַׁבָּתוֹן (shabbat shabbaton)
 “Sabbath of complete rest.” Intensified language for cessation.
-
-v05: נְדִיב לֵב (nediv lev)
-“Willing of heart.” Generous inner willingness to give.
-
-v10: חֲכַם־לֵב (chakham-lev)
-“Wise-hearted.” Skilled and discerning in craft.
 
 v21: נָשָׂא לִבּוֹ (nasa libbo)
 “His heart lifted him.” An idiom for inward motivation.
@@ -132,12 +109,3 @@ v21: נָדְבָה רוּחוֹ (nadva rucho)
 
 v22: תְּנוּפַת זָהָב (tenufat zahav)
 “Wave offering of gold.” Gold presented as a sacred contribution.
-
-v25: טָוָה (tavah)
-“To spin.” The textile craft performed by the women.
-
-v34: יָרָה (yarah)
-“To teach.” Bezalel and Oholiab receive ability to instruct others.
-
-v35: חָרָשׁ (charash)
-“Craftsperson” or “engraver.” One skilled in material workmanship.

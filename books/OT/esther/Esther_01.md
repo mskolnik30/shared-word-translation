@@ -60,28 +60,7 @@ v21: The word was good in the eyes of the king and the officials, and the king d
 
 v22: He sent letters to all the king’s provinces, to each province in its own script and to each people in its own language, that every man should be ruler in his own house and speak according to the language of his people.
 </p>
-
 ##Notes
-
-v01: “Ahasuerus” is the Hebrew form of the Persian royal name commonly identified with Xerxes I. TSW retains the biblical name rather than replacing it in the main text.
-
-v01: “India to Cush” describes the breadth of the Persian Empire from its eastern territories to regions south of Egypt. “Cush” need not be reduced to one modern national boundary.
-
-v04: The extraordinary one-hundred-eighty-day display emphasizes imperial wealth, scale, and spectacle before the narrative narrows to the royal household.
-
-v06: Several luxury materials in the palace description are rare or difficult to identify precisely. TSW uses conventional English equivalents while preserving the abundance and diversity of the scene.
-
-v08: “No compulsion” portrays even the drinking feast as governed by royal regulation. The line contributes to Esther’s recurring irony concerning imperial control.
-
-v10: The seven officials are eunuchs or court functionaries serving in direct royal attendance.
-
-v11: The text says Vashti is to appear “with the royal crown.” It does not explicitly say what else she was or was not to wear; later traditions should not be read back into the Hebrew wording.
-
-v16–20: Memucan converts one woman’s refusal into an empire-wide political threat. The disproportionate reaction is part of the narrative’s portrayal of royal anxiety and bureaucracy.
-
-v19: Persian and Median law is described as irrevocable, a theme that becomes crucial later when the king cannot simply cancel Haman’s decree.
-
-v22: The final clause is difficult and may concern each husband ruling his household and speaking his own language there. TSW preserves both elements without supplying a more elaborate social policy than the Hebrew states.
 
 ##Vocabulary
 
@@ -94,20 +73,5 @@ v02: בִּירָה (birah)
 v03: מִשְׁתֶּה (mishteh)
 “Feast” or “banquet,” especially one involving drinking.
 
-v04: יְקָר (yeqar)
-“Honor,” “splendor,” or “preciousness.” Used of royal magnificence.
-
-v08: אֹנֵס (ones)
-“Compulsion.” The drinking rule explicitly forbids forcing anyone.
-
-v10: סָרִיס (saris)
-“Eunuch” or “court official.” A royal servant with close palace access.
-
 v13: דָּת (dat)
 “Law” or “decree.” A Persian-period term prominent throughout Esther.
-
-v19: כָּתַב (katav)
-“To write.” Royal decisions gain administrative force through written decrees.
-
-v22: שָׂרַר (sarar)
-“To rule” or “exercise authority.” Used of household authority in the decree.
