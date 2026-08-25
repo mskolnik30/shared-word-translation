@@ -1,5 +1,5 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 147
 translation: TSW
@@ -70,12 +70,12 @@ Praise the LORD!
 
 ## Notes
 
-v10: The parallelism contrasts military strength—warhorse and warrior—with the reverent trust that delights the LORD. The verse does not condemn bodily strength in itself.
-v17: The Hebrew compares hail or ice to scattered morsels. “Crumbs” preserves the small-piece image while the next line stresses the severity of the cold.
+v10: The parallelism contrasts military strength—warhorse and warrior—with the reverent trust that delights the LORD. The verse does not condemn bodily strength in itself.  
+v17: The Hebrew compares hail or ice to scattered morsels. “Crumbs” preserves the small-piece image while the next line stresses the severity of the cold.  
 
 ## Vocabulary
 
-v03: שָׁבַר לֵב (shavar lev)
-Literally, “broken of heart,” an idiom for those inwardly crushed by grief, loss, or distress.
-v20: מִשְׁפָּטִים (mishpatim)
-“Judgments” or “ordinances,” God’s authoritative decisions and norms for communal life.
+v3: שָׁבַר לֵב (shavar lev)  
+Literally, “broken of heart,” an idiom for those inwardly crushed by grief, loss, or distress.  
+v20: מִשְׁפָּטִים (mishpatim)  
+“Judgments” or “ordinances,” God’s authoritative decisions and norms for communal life.  
