@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 83
 translation: TSW
 ---
 
 <p>
-A song. A psalm of Asaph.
+A song. A psalm of Asaph.  
 </p>
 
 ## Do Not Keep Silent, O God
@@ -64,12 +64,12 @@ are Most High over all the earth.
 
 ## Notes
 
-v06–08: The list gathers neighboring peoples and powers into a single poetic coalition. It should not be read as a chronological roster of one clearly identifiable historical campaign.
-v16: The petition for shame is not only punitive; it is ordered toward recognition of the LORD’s name, a tension preserved by the sequence of the psalm.
+v6–8: The list gathers neighboring peoples and powers into a single poetic coalition. It should not be read as a chronological roster of one clearly identifiable historical campaign.  
+v16: The petition for shame is not only punitive; it is ordered toward recognition of the LORD’s name, a tension preserved by the sequence of the psalm.  
 
 ## Vocabulary
 
-v03: צְפוּנֶיךָ (tsefunekha)
-Literally, “your hidden/treasured ones,” describing those kept or cherished by God.
-v13: גַּלְגַּל (galgal)
-A rolling thing driven by wind, often understood here as tumbleweed or whirling dust.
+v3: צְפוּנֶיךָ (tsefunekha)  
+Literally, “your hidden/treasured ones,” describing those kept or cherished by God.  
+v13: גַּלְגַּל (galgal)  
+A rolling thing driven by wind, often understood here as tumbleweed or whirling dust.  
