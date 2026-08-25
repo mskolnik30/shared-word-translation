@@ -1,5 +1,5 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 115
 translation: TSW
@@ -67,12 +67,12 @@ Praise the LORD!
 
 ## Notes
 
-v09–11: The repeated third-person line “God is their help and their shield” follows the Hebrew shift in person rather than regularizing it to “your help.”
-v17: “Silence” is a poetic designation for the realm of death, where the dead no longer participate in the public praise voiced by the living community.
+v9–11: The repeated third-person line “God is their help and their shield” follows the Hebrew shift in person rather than regularizing it to “your help.”  
+v17: “Silence” is a poetic designation for the realm of death, where the dead no longer participate in the public praise voiced by the living community.  
 
 ## Vocabulary
 
-v01: חֶסֶד (hesed)
-“Steadfast love,” covenantal loyalty expressed in faithful action.
-v08: בָּטַח (batach)
-“Trust,” to place confidence or security in someone or something.
+v1: חֶסֶד (hesed)  
+“Steadfast love,” covenantal loyalty expressed in faithful action.  
+v8: בָּטַח (batach)  
+“Trust,” to place confidence or security in someone or something.  

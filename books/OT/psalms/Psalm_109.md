@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 109
 translation: TSW
 ---
 
 <p>
-For the director. A psalm of David.
+For the director. A psalm of David.  
 </p>
 
 ## Do Not Be Silent, O God of My Praise
@@ -96,14 +96,14 @@ to save that one from those who judge the life.
 
 ## Notes
 
-v04: The Hebrew says simply, “but I—prayer.” The compressed expression is preserved rather than expanded to “I am a man of prayer” or “I give myself to prayer.”
-v06: The word rendered “accuser” is שָׂטָן (satan), a common noun here describing an adversarial or prosecuting figure rather than necessarily functioning as a proper name.
-v06–20: The psalm shifts into an extended singular curse. The translation preserves its severity and does not soften or moralize the petition.
-v31: The final line answers v6 structurally: where an accuser stands at the right hand of the condemned, the LORD stands at the right hand of the needy to save.
+v4: The Hebrew says simply, “but I—prayer.” The compressed expression is preserved rather than expanded to “I am a man of prayer” or “I give myself to prayer.”  
+v6: The word rendered “accuser” is שָׂטָן (satan), a common noun here describing an adversarial or prosecuting figure rather than necessarily functioning as a proper name.  
+v6–20: The psalm shifts into an extended singular curse. The translation preserves its severity and does not soften or moralize the petition.  
+v31: The final line answers v6 structurally: where an accuser stands at the right hand of the condemned, the LORD stands at the right hand of the needy to save.  
 
 ## Vocabulary
 
-v06: שָׂטָן (satan)
-“Adversary” or “accuser.” The term can describe a human or heavenly opponent depending on context.
-v20: פְּעֻלָּה (peʿullah)
-“Reward,” “wages,” or “recompense,” emphasizing a return corresponding to one’s action.
+v6: שָׂטָן (satan)  
+“Adversary” or “accuser.” The term can describe a human or heavenly opponent depending on context.  
+v20: פְּעֻלָּה (peʿullah)  
+“Reward,” “wages,” or “recompense,” emphasizing a return corresponding to one’s action.  

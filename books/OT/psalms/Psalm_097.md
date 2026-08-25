@@ -1,5 +1,5 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 97
 translation: TSW
@@ -49,12 +49,12 @@ and give thanks to God’s holy remembrance.
 
 ## Notes
 
-v11: The Masoretic Text reads “light is sown,” an agricultural metaphor of light planted for a future harvest. Some ancient witnesses read “light dawns,” but the Hebrew image is retained.
-v12: Literally, “give thanks to the remembrance of God’s holiness.” The expression can refer to the holy name by which God is remembered and invoked.
+v11: The Masoretic Text reads “light is sown,” an agricultural metaphor of light planted for a future harvest. Some ancient witnesses read “light dawns,” but the Hebrew image is retained.  
+v12: Literally, “give thanks to the remembrance of God’s holiness.” The expression can refer to the holy name by which God is remembered and invoked.  
 
 ## Vocabulary
 
-v07: אֱלִילִים (ʾelilim)
-“Worthless gods” or “idols,” a term that can carry a deliberate sense of emptiness or inadequacy.
-v11: זָרֻעַ (zaruʿa)
-“Sown.” The passive participle presents light as seed already planted for the righteous.
+v7: אֱלִילִים (ʾelilim)  
+“Worthless gods” or “idols,” a term that can carry a deliberate sense of emptiness or inadequacy.  
+v11: זָרֻעַ (zaruʿa)  
+“Sown.” The passive participle presents light as seed already planted for the righteous.  

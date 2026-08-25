@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 129
 translation: TSW
 ---
 
 <p>
-A song of ascents.
+A song of ascents.  
 </p>
 
 ## They Have Not Prevailed against Me
@@ -38,7 +38,7 @@ we bless you in the name of the LORD.”
 
 ## Notes
 
-v03: The psalm uses the violent image of a back treated as a field cut by plows. The metaphor is retained without softening because the bodily image carries the force of remembered oppression.
-v06: Ancient flat roofs could gather enough dust and moisture for shallow grass to sprout quickly, but without deep roots it withered before harvest.
+v3: The psalm uses the violent image of a back treated as a field cut by plows. The metaphor is retained without softening because the bodily image carries the force of remembered oppression.  
+v6: Ancient flat roofs could gather enough dust and moisture for shallow grass to sprout quickly, but without deep roots it withered before harvest.  
 
 ## Vocabulary

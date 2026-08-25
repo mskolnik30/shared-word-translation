@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 48
 translation: TSW
 ---
 
 <p>
-A song. A psalm of the sons of Korah.
+A song. A psalm of the sons of Korah.  
 </p>
 
 ## The City of the Great King
@@ -61,11 +61,11 @@ God will guide us until death.
 
 ## Notes
 
-v14: The final Hebrew expression can be read “until death.” Its form is unusual, and ancient and modern witnesses have understood it in more than one way; the main text preserves the Masoretic wording without expanding it.
+v14: The final Hebrew expression can be read “until death.” Its form is unusual, and ancient and modern witnesses have understood it in more than one way; the main text preserves the Masoretic wording without expanding it.  
 
 ## Vocabulary
 
-v08: סֶלָה (selah)
-A liturgical or musical term of uncertain meaning. It is retained rather than interpreted.
-v14: עַל־מוּת (ʿal-muth)
-Literally, “upon/to death.” The phrase is textually and interpretively difficult.
+v8: סֶלָה (selah)  
+A liturgical or musical term of uncertain meaning. It is retained rather than interpreted.  
+v14: עַל־מוּת (ʿal-muth)  
+Literally, “upon/to death.” The phrase is textually and interpretively difficult.  

@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 140
 translation: TSW
 ---
 
 <p>
-For the director. A psalm of David.
+For the director. A psalm of David.  
 </p>
 
 ## Deliver Me from Violent People
@@ -59,12 +59,12 @@ the upright will dwell in your presence.
 
 ## Notes
 
-v08: The final clause is brief and can be attached either to the wicked scheme or to the people who devise it. The translation follows the Masoretic accentuation while leaving the causal relation open.
-v10: The Hebrew term translated “deep pits” is uncertain and may describe watery depths or places from which escape is impossible. The surrounding imagery emphasizes irreversible judgment.
+v8: The final clause is brief and can be attached either to the wicked scheme or to the people who devise it. The translation follows the Masoretic accentuation while leaving the causal relation open.  
+v10: The Hebrew term translated “deep pits” is uncertain and may describe watery depths or places from which escape is impossible. The surrounding imagery emphasizes irreversible judgment.  
 
 ## Vocabulary
 
-v03: עַכְשׁוּב (ʿakhshuv)
-A venomous snake, traditionally rendered “asp” or “viper”; precise species identification is uncertain.
-v12: דִּין (din)
-“Cause,” “judgment,” or legal claim. To maintain someone’s cause is to uphold the justice due to them.
+v3: עַכְשׁוּב (ʿakhshuv)  
+A venomous snake, traditionally rendered “asp” or “viper”; precise species identification is uncertain.  
+v12: דִּין (din)  
+“Cause,” “judgment,” or legal claim. To maintain someone’s cause is to uphold the justice due to them.  

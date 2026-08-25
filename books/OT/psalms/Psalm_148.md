@@ -1,5 +1,5 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 148
 translation: TSW
@@ -54,12 +54,12 @@ Praise the LORD!
 
 ## Notes
 
-v08: The Hebrew word rendered “smoke” is often translated “mist” or “vapor.” In the sequence with fire, hail, and snow, it names another atmospheric phenomenon summoned to praise.
-v14: “Horn” is a conventional image of strength and dignity raised up by God for the people.
+v8: The Hebrew word rendered “smoke” is often translated “mist” or “vapor.” In the sequence with fire, hail, and snow, it names another atmospheric phenomenon summoned to praise.  
+v14: “Horn” is a conventional image of strength and dignity raised up by God for the people.  
 
 ## Vocabulary
 
-v07: תַּנִּינִים (tanninim)
-“Sea monsters” or great sea creatures. The term retains the ancient scale and imaginative force of creatures associated with the deep.
-v14: קֶרֶן (qeren)
-“Horn,” a poetic symbol of strength, vitality, and honor.
+v7: תַּנִּינִים (tanninim)  
+“Sea monsters” or great sea creatures. The term retains the ancient scale and imaginative force of creatures associated with the deep.  
+v14: קֶרֶן (qeren)  
+“Horn,” a poetic symbol of strength, vitality, and honor.  

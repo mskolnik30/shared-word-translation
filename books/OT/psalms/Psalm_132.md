@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 132
 translation: TSW
 ---
 
 <p>
-A song of ascents.
+A song of ascents.  
 </p>
 
 ## Remember David and All His Affliction
@@ -38,7 +38,7 @@ do not turn away the face of your anointed.
 
 <p>
 v11: The LORD swore to David in truth  
-and will not turn from it:   
+and will not turn from it:  
 “One of the fruit of your body  
 I will set upon your throne.  
 v12: If your children keep my covenant  
@@ -61,12 +61,12 @@ but upon him his crown will flourish.”
 
 ## Notes
 
-v06: “Ephrathah” and “the fields of Jaar” locate the remembered search for the ark in poetic geography. The exact historical referents are debated, so the place-names are preserved rather than harmonized with another narrative.
-v17: “Horn” and “lamp” are royal images: strength that rises and a dynastic light preserved. The metaphors are allowed to stand together without explanation in the main text.
+v6: “Ephrathah” and “the fields of Jaar” locate the remembered search for the ark in poetic geography. The exact historical referents are debated, so the place-names are preserved rather than harmonized with another narrative.  
+v17: “Horn” and “lamp” are royal images: strength that rises and a dynastic light preserved. The metaphors are allowed to stand together without explanation in the main text.  
 
 ## Vocabulary
 
-v08: אֲרוֹן (ʾaron)
-“Ark,” the sacred chest associated with the covenant and with the LORD’s enthroned presence among Israel.
-v10: מָשִׁיחַ (mashiach)
-“Anointed one,” here the Davidic king for whom the community asks divine regard.
+v8: אֲרוֹן (ʾaron)  
+“Ark,” the sacred chest associated with the covenant and with the LORD’s enthroned presence among Israel.  
+v10: מָשִׁיחַ (mashiach)  
+“Anointed one,” here the Davidic king for whom the community asks divine regard.  

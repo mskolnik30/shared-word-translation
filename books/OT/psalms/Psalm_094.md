@@ -1,5 +1,5 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 94
 translation: TSW
@@ -69,12 +69,12 @@ the LORD our God will destroy them.
 
 ## Notes
 
-v10: The final clause is elliptical in Hebrew: “the One who teaches humankind—knowledge.” The question “does God not know?” makes explicit the rhetorical force without adding a new theological claim.
-v20: “Throne of destruction” can also be understood as a corrupt or ruinous seat of rule. The following line identifies its practice: manufacturing injustice through law.
+v10: The final clause is elliptical in Hebrew: “the One who teaches humankind—knowledge.” The question “does God not know?” makes explicit the rhetorical force without adding a new theological claim.  
+v20: “Throne of destruction” can also be understood as a corrupt or ruinous seat of rule. The following line identifies its practice: manufacturing injustice through law.  
 
 ## Vocabulary
 
-v12: תּוֹרָה (torah)
-“Instruction.” The word can refer to law, teaching, or authoritative guidance; “instruction” preserves that wider range here.
-v17: דּוּמָה (dumah)
-“Silence,” here a poetic image associated with death and the grave.
+v12: תּוֹרָה (torah)  
+“Instruction.” The word can refer to law, teaching, or authoritative guidance; “instruction” preserves that wider range here.  
+v17: דּוּמָה (dumah)  
+“Silence,” here a poetic image associated with death and the grave.  

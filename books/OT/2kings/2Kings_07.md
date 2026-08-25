@@ -1,5 +1,5 @@
 ---
-book: 2 Kings
+book: 2 kings
 testament: OT
 chapter: 7
 translation: TSW
@@ -8,117 +8,117 @@ translation: TSW
 ## Elisha Announces Abundance
 
 <p>
-v01: Elisha said, “Hear the word of the LORD. Thus says the LORD: About this time tomorrow, a seah of fine flour will be sold for a shekel and two seahs of barley for a shekel at the gate of Samaria.”
+v01: Elisha said, “Hear the word of the LORD. Thus says the LORD: About this time tomorrow, a seah of fine flour will be sold for a shekel and two seahs of barley for a shekel at the gate of Samaria.”  
 
-v02: Then the officer on whose hand the king leaned answered the man of God and said, “Look, even if the LORD made windows in the heavens, could this thing happen?” He said, “Look, you shall see it with your eyes, but you shall not eat from it.”
+v02: Then the officer on whose hand the king leaned answered the man of God and said, “Look, even if the LORD made windows in the heavens, could this thing happen?” He said, “Look, you shall see it with your eyes, but you shall not eat from it.”  
 </p>
 
 ## Four Men with Skin Disease Go to the Aramean Camp
 
 <p>
-v03: Now four men with skin disease were at the entrance of the gate. They said to one another, “Why are we sitting here until we die?
+v03: Now four men with skin disease were at the entrance of the gate. They said to one another, “Why are we sitting here until we die?  
 
-v04: If we say, ‘Let us enter the city,’ the famine is in the city, and we will die there. If we sit here, we will die. And now come, let us fall away to the camp of Aram. If they let us live, we will live; and if they put us to death, we will die.”
+v04: If we say, ‘Let us enter the city,’ the famine is in the city, and we will die there. If we sit here, we will die. And now come, let us fall away to the camp of Aram. If they let us live, we will live; and if they put us to death, we will die.”  
 
-v05: So they arose at twilight to go to the camp of Aram. They came to the edge of the camp of Aram, and look, there was no one there.
+v05: So they arose at twilight to go to the camp of Aram. They came to the edge of the camp of Aram, and look, there was no one there.  
 </p>
 
 ## The LORD Makes Aram Hear a Great Army
 
 <p>
-v06: For the Lord had caused the camp of Aram to hear the sound of chariots, the sound of horses, the sound of a great army. They said to one another, “Look, the king of Israel has hired against us the kings of the Hittites and the kings of Egypt to come against us.”
+v06: For the Lord had caused the camp of Aram to hear the sound of chariots, the sound of horses, the sound of a great army. They said to one another, “Look, the king of Israel has hired against us the kings of the Hittites and the kings of Egypt to come against us.”  
 
-v07: So they arose and fled at twilight and abandoned their tents, horses, and donkeys—the camp just as it was—and fled for their lives.
+v07: So they arose and fled at twilight and abandoned their tents, horses, and donkeys—the camp just as it was—and fled for their lives.  
 </p>
 
 ## This Is a Day of Good News
 
 <p>
-v08: When these men with skin disease came to the edge of the camp, they entered one tent, ate and drank, and carried from there silver, gold, and clothing and went and hid them. Then they returned and entered another tent, carried things from there, and went and hid them.
+v08: When these men with skin disease came to the edge of the camp, they entered one tent, ate and drank, and carried from there silver, gold, and clothing and went and hid them. Then they returned and entered another tent, carried things from there, and went and hid them.  
 
-v09: But they said to one another, “We are not doing right. This day is a day of good news, and we are keeping silent. If we wait until morning light, guilt will find us. And now come, let us go and tell the king’s household.”
+v09: But they said to one another, “We are not doing right. This day is a day of good news, and we are keeping silent. If we wait until morning light, guilt will find us. And now come, let us go and tell the king’s household.”  
 
-v10: So they came and called to the gatekeepers of the city and told them, saying, “We came to the camp of Aram, and look, there was no one there and no human voice—only horses tied, donkeys tied, and the tents as they were.”
+v10: So they came and called to the gatekeepers of the city and told them, saying, “We came to the camp of Aram, and look, there was no one there and no human voice—only horses tied, donkeys tied, and the tents as they were.”  
 
-v11: The gatekeepers called out, and they told it inside the king’s household.
+v11: The gatekeepers called out, and they told it inside the king’s household.  
 </p>
 
 ## The King Suspects a Trap
 
 <p>
-v12: The king arose in the night and said to his servants, “Let me tell you what the Arameans have done to us. They know that we are hungry, so they have gone out from the camp to hide in the field, saying, ‘When they come out from the city, we will seize them alive and enter the city.’”
+v12: The king arose in the night and said to his servants, “Let me tell you what the Arameans have done to us. They know that we are hungry, so they have gone out from the camp to hide in the field, saying, ‘When they come out from the city, we will seize them alive and enter the city.’”  
 
-v13: One of his servants answered and said, “Please let men take five of the horses that remain, which remain in the city. Look, they are like all the multitude of Israel that remains in it; look, they are like all the multitude of Israel that has perished. Let us send and see.”
+v13: One of his servants answered and said, “Please let men take five of the horses that remain, which remain in the city. Look, they are like all the multitude of Israel that remains in it; look, they are like all the multitude of Israel that has perished. Let us send and see.”  
 
-v14: So they took two chariots with horses, and the king sent after the army of Aram, saying, “Go and see.”
+v14: So they took two chariots with horses, and the king sent after the army of Aram, saying, “Go and see.”  
 
-v15: They went after them as far as the Jordan, and look, all the way was full of garments and equipment that the Arameans had thrown away in their haste. The messengers returned and told the king.
+v15: They went after them as far as the Jordan, and look, all the way was full of garments and equipment that the Arameans had thrown away in their haste. The messengers returned and told the king.  
 </p>
 
 ## Elisha’s Word Is Fulfilled
 
 <p>
-v16: Then the people went out and plundered the camp of Aram. A seah of fine flour was sold for a shekel and two seahs of barley for a shekel, according to the word of the LORD.
+v16: Then the people went out and plundered the camp of Aram. A seah of fine flour was sold for a shekel and two seahs of barley for a shekel, according to the word of the LORD.  
 
-v17: Now the king had appointed the officer on whose hand he leaned over the gate, but the people trampled him in the gate, and he died, just as the man of God had spoken when the king came down to him.
+v17: Now the king had appointed the officer on whose hand he leaned over the gate, but the people trampled him in the gate, and he died, just as the man of God had spoken when the king came down to him.  
 
-v18: And it happened just as the man of God had spoken to the king, saying, “Two seahs of barley for a shekel and a seah of fine flour for a shekel—about this time tomorrow at the gate of Samaria.”
+v18: And it happened just as the man of God had spoken to the king, saying, “Two seahs of barley for a shekel and a seah of fine flour for a shekel—about this time tomorrow at the gate of Samaria.”  
 
-v19: The officer had answered the man of God and said, “Look, even if the LORD made windows in the heavens, could such a thing happen?” And he had said, “Look, you shall see it with your eyes, but you shall not eat from it.”
+v19: The officer had answered the man of God and said, “Look, even if the LORD made windows in the heavens, could such a thing happen?” And he had said, “Look, you shall see it with your eyes, but you shall not eat from it.”  
 
-v20: And so it happened to him, for the people trampled him in the gate, and he died.
+v20: And so it happened to him, for the people trampled him in the gate, and he died.  
 </p>
 
-##Notes
+## Notes
 
-v01: Elisha’s price prediction describes a sudden reversal from siege famine to ordinary abundance within one day.
+v1: Elisha’s price prediction describes a sudden reversal from siege famine to ordinary abundance within one day.  
 
-v02: The officer’s “windows in the heavens” echoes flood imagery and mocks the possibility that even overwhelming divine provision could produce the promised change.
+v2: The officer’s “windows in the heavens” echoes flood imagery and mocks the possibility that even overwhelming divine provision could produce the promised change.  
 
-v03: People with *tsara'at* lived outside normal city life and therefore occupy the liminal space between besieged Samaria and the enemy camp.
+v3: People with *tsara'at* lived outside normal city life and therefore occupy the liminal space between besieged Samaria and the enemy camp.  
 
-v04: Their decision is not heroic at first; every available option appears to end in death.
+v4: Their decision is not heroic at first; every available option appears to end in death.  
 
-v06: The Arameans hear a supernatural military sound and interpret it through plausible regional politics involving Hittite and Egyptian powers.
+v6: The Arameans hear a supernatural military sound and interpret it through plausible regional politics involving Hittite and Egyptian powers.  
 
-v09: The first discoverers of abundance recognize that withholding life-saving news would create guilt. Their “good news” moves from private gain to public rescue.
+v9: The first discoverers of abundance recognize that withholding life-saving news would create guilt. Their “good news” moves from private gain to public rescue.  
 
-v12: The king’s suspicion is understandable militarily but shows how famine has made promised deliverance difficult to trust.
+v12: The king’s suspicion is understandable militarily but shows how famine has made promised deliverance difficult to trust.  
 
-v13: The Hebrew description of the surviving horses is repetitive and textually awkward. The point is that nearly everything is already lost, so risking a few animals costs little.
+v13: The Hebrew description of the surviving horses is repetitive and textually awkward. The point is that nearly everything is already lost, so risking a few animals costs little.  
 
-v16: The exact prices fulfill the prophetic word, emphasizing the reliability of the LORD’s speech.
+v16: The exact prices fulfill the prophetic word, emphasizing the reliability of the LORD’s speech.  
 
-v17–20: The officer sees the abundance but dies before eating it, precisely fulfilling Elisha’s warning.
+v17–20: The officer sees the abundance but dies before eating it, precisely fulfilling Elisha’s warning.  
 
-##Vocabulary
+## Vocabulary
 
-v01: סְאָה (se'ah)
-“Seah.” A dry measure of grain.
+v1: סְאָה (se'ah)  
+“Seah.” A dry measure of grain.  
 
-v02: אֲרֻבּוֹת הַשָּׁמַיִם (arubbot ha-shamayim)
-“Windows of the heavens.” Openings imagined for abundant outpouring.
+v2: אֲרֻבּוֹת הַשָּׁמַיִם (arubbot ha-shamayim)  
+“Windows of the heavens.” Openings imagined for abundant outpouring.  
 
-v03: מְצֹרָע (metsora)
-“Person with skin disease.”
+v3: מְצֹרָע (metsora)  
+“Person with skin disease.”  
 
-v04: נָפַל אֶל (nafal el)
-“To fall away to” or surrender to. The men go over to Aram.
+v4: נָפַל אֶל (nafal el)  
+“To fall away to” or surrender to. The men go over to Aram.  
 
-v06: הִשְׁמִיעַ (hishmia)
-“To cause to hear.” The Lord makes Aram hear an army.
+v6: הִשְׁמִיעַ (hishmia)  
+“To cause to hear.” The Lord makes Aram hear an army.  
 
-v09: בְּשׂוֹרָה (besorah)
-“Good news.” The report of the abandoned camp.
+v9: בְּשׂוֹרָה (besorah)  
+“Good news.” The report of the abandoned camp.  
 
-v12: אָרַב (arav)
-“To hide in ambush.”
+v12: אָרַב (arav)  
+“To hide in ambush.”  
 
-v15: חָפַז (chafaz)
-“To hurry” or flee in haste.
+v15: חָפַז (chafaz)  
+“To hurry” or flee in haste.  
 
-v16: שָׁלַל (shalal)
-“To plunder.” Israel takes the abandoned camp.
+v16: שָׁלַל (shalal)  
+“To plunder.” Israel takes the abandoned camp.  
 
-v17: רָמַס (ramas)
-“To trample.” The officer dies in the gate.
+v17: רָמַס (ramas)  
+“To trample.” The officer dies in the gate.  

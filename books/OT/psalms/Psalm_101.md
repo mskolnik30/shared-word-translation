@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 101
 translation: TSW
 ---
 
 <p>
-A psalm of David.
+A psalm of David.  
 </p>
 
 ## I Will Walk with Integrity
@@ -43,10 +43,10 @@ all who do evil.
 
 ## Notes
 
-v02: The question “When will you come to me?” interrupts the royal commitments with a direct appeal for God’s presence. It is retained rather than absorbed into the surrounding vows.
-v05, v08: The Hebrew verb can mean “destroy” or “silence/cut off.” The translation uses “silence” where the immediate offense is destructive speech while retaining “cutting off” in the civic conclusion.
+v2: The question “When will you come to me?” interrupts the royal commitments with a direct appeal for God’s presence. It is retained rather than absorbed into the surrounding vows.  
+v05, v08: The Hebrew verb can mean “destroy” or “silence/cut off.” The translation uses “silence” where the immediate offense is destructive speech while retaining “cutting off” in the civic conclusion.  
 
 ## Vocabulary
 
-v02: תָּמִים (tamim)
-“Complete,” “whole,” or “integral.” In ethical contexts it describes integrity or wholehearted conduct.
+v2: תָּמִים (tamim)  
+“Complete,” “whole,” or “integral.” In ethical contexts it describes integrity or wholehearted conduct.  

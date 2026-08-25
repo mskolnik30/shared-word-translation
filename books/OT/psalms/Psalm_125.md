@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 125
 translation: TSW
 ---
 
 <p>
-A song of ascents.
+A song of ascents.  
 </p>
 
 ## The LORD Surrounds the People
@@ -35,9 +35,9 @@ Peace be upon Israel!
 
 ## Notes
 
-v03: The “scepter of wickedness” is an image of oppressive rule. The verse recognizes the moral pressure such rule can exert even on the righteous without excusing wrongdoing.
+v3: The “scepter of wickedness” is an image of oppressive rule. The verse recognizes the moral pressure such rule can exert even on the righteous without excusing wrongdoing.  
 
 ## Vocabulary
 
-v03: גּוֹרָל (goral)
-“Lot” or “allotted portion,” land or destiny assigned by casting lots or by divine apportionment.
+v3: גּוֹרָל (goral)  
+“Lot” or “allotted portion,” land or destiny assigned by casting lots or by divine apportionment.  
