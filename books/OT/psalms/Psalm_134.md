@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 134
 translation: TSW
 ---
 
 <p>
-A song of ascents.
+A song of ascents.  
 </p>
 
 ## Bless the LORD in the Night
