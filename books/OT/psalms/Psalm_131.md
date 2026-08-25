@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 131
 translation: TSW
 ---
 
 <p>
-A song of ascents. Of David.
+A song of ascents. Of David.  
 </p>
 
 ## I Have Calmed and Quieted My Soul
@@ -25,9 +25,9 @@ from now and forever.
 
 ## Notes
 
-v02: The image is specifically of a weaned child—one able to rest with the mother without demanding immediate feeding. The comparison conveys settled trust rather than infancy or helplessness alone.
+v2: The image is specifically of a weaned child—one able to rest with the mother without demanding immediate feeding. The comparison conveys settled trust rather than infancy or helplessness alone.  
 
 ## Vocabulary
 
-v01: פָּלָא (palaʾ)
-“Be wonderful,” “extraordinary,” or beyond ordinary human capacity. The psalmist refuses grasping after what exceeds the proper sphere of attention.
+v1: פָּלָא (palaʾ)  
+“Be wonderful,” “extraordinary,” or beyond ordinary human capacity. The psalmist refuses grasping after what exceeds the proper sphere of attention.  
