@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 108
 translation: TSW
 ---
 
 <p>
-A song. A psalm of David.
+A song. A psalm of David.  
 </p>
 
 ## My Heart Is Steadfast
@@ -30,7 +30,7 @@ save with your right hand and answer me.
 ## God Has Spoken in Holiness
 
 <p>
-v07: God has spoken in holiness:   
+v07: God has spoken in holiness:  
 “I will exult; I will divide Shechem  
 and measure out the Valley of Succoth.  
 v08: Gilead is mine; Manasseh is mine;  
@@ -56,10 +56,10 @@ and God will tread down our adversaries.
 
 ## Notes
 
-v01: “My glory” is a literal rendering of a poetic expression often understood as the speaker’s inner self or tongue. The summons “awake” preserves the personification.
-v07–13: These lines closely parallel Psalm 60. The translation does not harmonize minor differences between the two psalms.
+v1: “My glory” is a literal rendering of a poetic expression often understood as the speaker’s inner self or tongue. The summons “awake” preserves the personification.  
+v7–13: These lines closely parallel Psalm 60. The translation does not harmonize minor differences between the two psalms.  
 
 ## Vocabulary
 
-v07: בְּקָדְשׁוֹ (beqodsho)
-“In holiness” or “by the holy place/holy character.” The phrase marks the divine speech as grounded in God’s own holiness.
+v7: בְּקָדְשׁוֹ (beqodsho)  
+“In holiness” or “by the holy place/holy character.” The phrase marks the divine speech as grounded in God’s own holiness.  
