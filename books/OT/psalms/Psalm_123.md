@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 123
 translation: TSW
 ---
 
 <p>
-A song of ascents.
+A song of ascents.  
 </p>
 
 ## Our Eyes Look to the LORD
@@ -31,5 +31,5 @@ of the contempt of the proud.
 
 ## Vocabulary
 
-v03: חָנַן (chanan)
-“Be gracious,” to show favor freely toward one who is dependent or in need.
+v3: חָנַן (chanan)  
+“Be gracious,” to show favor freely toward one who is dependent or in need.  
