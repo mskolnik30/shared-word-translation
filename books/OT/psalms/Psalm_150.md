@@ -1,5 +1,5 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 150
 translation: TSW
@@ -25,9 +25,9 @@ Praise the LORD!
 
 ## Notes
 
-v01: The Hebrew word for “firmament” can mean the expanse or dome of the heavens. Here it forms a cosmic counterpart to the earthly sanctuary: praise sounds in God’s holy place and across the expanse of divine power.
+v1: The Hebrew word for “firmament” can mean the expanse or dome of the heavens. Here it forms a cosmic counterpart to the earthly sanctuary: praise sounds in God’s holy place and across the expanse of divine power.  
 
 ## Vocabulary
 
-v06: נְשָׁמָה (neshamah)
-“Breath,” the living breath that marks creaturely life and becomes the final instrument of praise in the Psalter.
+v6: נְשָׁמָה (neshamah)  
+“Breath,” the living breath that marks creaturely life and becomes the final instrument of praise in the Psalter.  
