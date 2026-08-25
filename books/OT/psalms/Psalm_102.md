@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 102
 translation: TSW
 ---
 
 <p>
-A prayer of one afflicted, when faint and pouring out a complaint before the LORD.
+A prayer of one afflicted, when faint and pouring out a complaint before the LORD.  
 </p>
 
 ## Do Not Hide Your Face from Me
@@ -93,12 +93,12 @@ and their descendants will be established before you.
 
 ## Notes
 
-v06: The bird names are uncertain. The Hebrew identifies solitary wilderness and ruin-dwelling birds; the translation preserves the imagery without claiming precise modern species identification.
-v23: The subject is supplied as God from the Hebrew verbal form and the surrounding prayer. The psalm moves sharply from communal hope for Zion back to the speaker’s shortened life.
+v6: The bird names are uncertain. The Hebrew identifies solitary wilderness and ruin-dwelling birds; the translation preserves the imagery without claiming precise modern species identification.  
+v23: The subject is supplied as God from the Hebrew verbal form and the surrounding prayer. The psalm moves sharply from communal hope for Zion back to the speaker’s shortened life.  
 
 ## Vocabulary
 
-v13: מוֹעֵד (moʿed)
-“Appointed time,” a fixed or designated time, often carrying liturgical or covenantal resonance.
-v17: עַרְעָר (ʿarʿar)
-“Destitute” or “stripped bare,” describing one emptied of ordinary resources and protection.
+v13: מוֹעֵד (moʿed)  
+“Appointed time,” a fixed or designated time, often carrying liturgical or covenantal resonance.  
+v17: עַרְעָר (ʿarʿar)  
+“Destitute” or “stripped bare,” describing one emptied of ordinary resources and protection.  
