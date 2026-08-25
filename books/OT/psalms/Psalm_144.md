@@ -1,12 +1,12 @@
 ---
-book: Psalm
+book: psalm
 testament: OT
 chapter: 144
 translation: TSW
 ---
 
 <p>
-Of David.
+Of David.  
 </p>
 
 ## Blessed Be the LORD, My Rock
@@ -71,12 +71,12 @@ happy are the people whose God is the LORD.
 
 ## Notes
 
-v02: The final verb can be read “subdues my people under me” or, with ancient witnesses and a different vocalization, “subdues peoples under me.” The plural “peoples” is used here while the textual question is acknowledged.
-v14: The Hebrew livestock line is compressed and uncertain. “Bear without mishap” represents flourishing cattle without forcing the several possible senses of the underlying participle and following phrases.
+v2: The final verb can be read “subdues my people under me” or, with ancient witnesses and a different vocalization, “subdues peoples under me.” The plural “peoples” is used here while the textual question is acknowledged.  
+v14: The Hebrew livestock line is compressed and uncertain. “Bear without mishap” represents flourishing cattle without forcing the several possible senses of the underlying participle and following phrases.  
 
 ## Vocabulary
 
-v04: הֶבֶל (hevel)
-“Breath,” “vapor,” or what is fleeting. The image emphasizes transience rather than moral worthlessness.
-v10: תְּשׁוּעָה (teshuʿah)
-“Victory,” “deliverance,” or saving help, especially rescue that changes the outcome of danger.
+v4: הֶבֶל (hevel)  
+“Breath,” “vapor,” or what is fleeting. The image emphasizes transience rather than moral worthlessness.  
+v10: תְּשׁוּעָה (teshuʿah)  
+“Victory,” “deliverance,” or saving help, especially rescue that changes the outcome of danger.  
