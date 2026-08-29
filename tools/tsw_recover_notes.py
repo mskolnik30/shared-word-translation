@@ -19,7 +19,7 @@ from typing import Iterable
 
 HEADING_RE = re.compile(r"^##\s*(Notes|Vocabulary)\s*$", re.I)
 NOTE_ENTRY_RE = re.compile(r"^(v\d{1,3}(?:\s*[–—-]\s*\d{1,3})?)\s*:\s*(.*)$", re.I)
-VERSE_RE = re.compile(r"^v(\d{1,3})\s*:\s*(.*)$", re.I)
+VERSE_RE = re.compile(r"^v(\d{1,3})\s*:?\s+(.*)$", re.I)
 YAML_FIELD_RE = re.compile(r"^(book|testament|chapter|translation):\s*(.*?)\s*$", re.I)
 
 
