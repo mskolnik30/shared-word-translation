@@ -79,3 +79,15 @@ v06: לֶחֶם הַפָּנִים (lechem ha-panim)
 
 v07: נֶעְצָר (ne'etsar)
 “Detained” or held back before the LORD.
+
+v09: אֵפוֹד (ephod)
+“Ephod.” A priestly garment/object.
+
+v12: יָרֵא (yare)
+“To fear.”
+
+v13: שָׁנָה טַעְמוֹ (shanah ta'amo)
+“To change his behavior/sense.”
+
+v13: הוֹלֵל (holel)
+“To act mad.”

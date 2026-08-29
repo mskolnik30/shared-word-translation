@@ -85,3 +85,9 @@ v16: חָלַל (chalal)
 
 v18: עָבַר בְּרִית (avar berit)
 “To transgress a covenant.” To violate its binding terms.
+
+v18: בָּתַר (batar)
+“To cut in two.” Used of dividing the covenantal calf.
+
+v22: שְׁמָמָה (shemamah)
+“Desolation.” A condition of devastation and abandonment.

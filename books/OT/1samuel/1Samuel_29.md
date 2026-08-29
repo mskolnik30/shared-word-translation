@@ -59,5 +59,17 @@ v03: נָפַל אֶל (nafal el)
 v04: שָׂטָן (satan)
 “Adversary.” The Philistines fear David will turn against them.
 
+v04: רָצָה (ratsah)
+“To reconcile” or regain favor.
+
+v06: יָשָׁר (yashar)
+“Upright.”
+
 v07: שָׁלוֹם (shalom)
 “Peace.”
+
+v09: מַלְאַךְ אֱלֹהִים (malakh Elohim)
+“Messenger of God.”
+
+v11: הִשְׁכִּים (hishkim)
+“To rise early.”

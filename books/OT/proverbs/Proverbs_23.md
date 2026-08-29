@@ -219,5 +219,17 @@ v06: רַע־עָיִן (ra ayin)
 v11: גֹּאֵל (goel)
 “Redeemer” or “kinsman-redeemer.” One with responsibility to defend or reclaim the rights of a vulnerable relative.
 
+v17: קָנָא (qana)
+“To envy” or “be jealous.” Here directed toward the apparent success of sinners.
+
 v23: אֱמֶת (emet)
 “Truth” or “faithfulness.” What is reliable and worth preserving.
+
+v27: שׁוּחָה (shuchah)
+“Pit.” A deep opening from which escape is difficult.
+
+v29: אוֹי (oy)
+“Woe.” A cry of grief, distress, or impending trouble.
+
+v32: צֶפַע (tsepha)
+“Viper.” A venomous serpent used as an image for wine’s eventual harm.

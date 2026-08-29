@@ -111,5 +111,11 @@ v01: מַשְׂכִּיל (maskil)
 v04: חָנַן (chanan)
 “To be gracious” or “show favor.” An appeal for freely given mercy.
 
+v09: עָקֵב (aqev)
+“Heel.” Used in the expression “lift the heel,” a vivid image of hostility or betrayal.
+
 v12: תֹּם (tom)
 “Integrity,” “wholeness,” or “completeness.” A condition of undivided or blameless faithfulness.
+
+v13: עוֹלָם (olam)
+“Everlasting,” “age,” or “long duration.” In the doubled expression, it extends praise beyond any visible horizon.and his name perish?”

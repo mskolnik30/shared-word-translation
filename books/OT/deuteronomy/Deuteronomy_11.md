@@ -109,8 +109,23 @@ v30: The precise ancient locations of Gilgal and the “oaks of Moreh” in rela
 
 ##Vocabulary
 
+v01: מִשְׁמֶרֶת (mishmeret)
+“Charge” or “obligation.” What has been entrusted to be kept.
+
 v02: מוּסָר (musar)
 “Discipline” or “instruction.” The LORD’s formative acts.
+
+v10: שָׁקָה (shaqah)
+“To water.” Used of Egypt’s irrigation.
+
+v14: יוֹרֶה (yoreh)
+“Early rain.” Autumn rain beginning the agricultural season.
+
+v14: מַלְקוֹשׁ (malqosh)
+“Later rain.” Spring rain completing crop growth.
+
+v18: טוֹטָפֹת (totafot)
+“Frontlets.” Signs between the eyes.
 
 v22: דָּבַק (davaq)
 “To cling.” Covenant attachment.

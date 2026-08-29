@@ -72,8 +72,17 @@ v01: יָשַׁע (yasha)
 v04: חַוֹּת יָעִיר (Havvot Ya'ir)
 “Villages of Jair.” A regional name associated with Jair’s sons.
 
+v07: מָכַר (makhar)
+“To sell.” Used figuratively for the LORD handing Israel over to oppressors.
+
+v08: רָצַץ (ratsats)
+“To crush” or “oppress.” A forceful term for Ammonite oppression.
+
 v10: חָטָא (chata)
 “To sin.” Israel explicitly confesses wrongdoing against the LORD.
 
 v16: קָצַר נֶפֶשׁ (qatsar nefesh)
 “To become impatient in soul” or “unable to bear.” Used of the LORD’s response to Israel’s misery.
+
+v18: רֹאשׁ (rosh)
+“Head.” A leader or chief over the people.

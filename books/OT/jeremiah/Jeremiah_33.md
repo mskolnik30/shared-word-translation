@@ -119,6 +119,9 @@ v14–26: These verses are absent from the ancient Greek form of Jeremiah, which
 v03: בְּצֻרוֹת (betsurot)
 “Inaccessible,” “fortified,” or “hidden things.” Things beyond ordinary access or knowledge.
 
+v06: אֲרוּכָה (arukhah)
+“Healing” or “restoration.” Recovery from severe injury.
+
 v11: תּוֹדָה (todah)
 “Thanksgiving.” Praise expressed in worship and offering.
 
@@ -127,3 +130,9 @@ v15: צֶמַח צְדָקָה (tsemach tsedaqah)
 
 v20: בְּרִית (berit)
 “Covenant.” Used even of the dependable ordering of day and night.
+
+v25: חֻקּוֹת (chuqqot)
+“Ordinances” or “fixed orders.” The established patterns of heaven and earth.
+
+v26: רָחַם (racham)
+“To have compassion.” The final promise of merciful restoration.

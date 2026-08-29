@@ -121,4 +121,25 @@ v11: סָעַר (sa'ar)
 “To storm” or be agitated. The Aramean king’s heart is deeply troubled.
 
 v17: פָּקַח עֵינַיִם (paqach einayim)
+“To open eyes.” A prayer for spiritual perception.
+
+v17: פָּקַח עֵינַיִם (paqach einayim)
 “To open eyes.” To enable perception or recognition.
+
+v18: סַנְוֵרִים (sanverim)
+“Blindness” or dazzling confusion.
+
+v23: כֵּרָה (kerah)
+“Feast.” A large meal prepared for captured enemies.
+
+v24: צוּר (tsur)
+“To besiege.” Aram encircles Samaria.
+
+v25: קַב (qav)
+“Kab.” A small dry measure.
+
+v30: שַׂק (saq)
+“Sackcloth.” A garment of mourning.
+
+v33: יָחַל (yachal)
+“To wait” or hope. The speaker refuses to wait for the LORD.

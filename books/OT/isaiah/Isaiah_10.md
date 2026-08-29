@@ -85,6 +85,9 @@ v20: שְׁאָר יָשׁוּב (she'ar yashuv)
 v20: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
+v26: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
 v26: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 

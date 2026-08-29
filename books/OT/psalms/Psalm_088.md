@@ -73,6 +73,9 @@ v18: The Hebrew closes abruptly with “my acquaintances—darkness.” The tran
 ##Vocabulary
 
 v03: שְׁאוֹל (sheʾol)
+The realm of the dead; retained because English equivalents such as “grave” or “hell” are narrower than the Hebrew term.
+
+v03: שְׁאוֹל (sheʾol)
 “Sheol; realm of the dead.” The Hebrew term is broader than English “grave” and does not by itself carry the later associations of “hell.”
 
 v10: רְפָאִים (refaʾim)

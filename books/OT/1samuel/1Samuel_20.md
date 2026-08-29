@@ -144,8 +144,17 @@ v08: חֶסֶד (hesed)
 v08: בְּרִית יְהוָה (berit YHWH)
 “Covenant of the LORD.”
 
+v12: חָקַר (chaqar)
+“To sound out” or investigate.
+
 v19: אֶבֶן הָאָזֶל (Even ha-Ezel)
 “Stone Ezel.” A place-marker of uncertain meaning.
+
+v30: מַרְדּוּת (mardut)
+“Rebellion” or perversity.
+
+v31: בֶּן־מָוֶת (ben-mavet)
+“Son of death.” One marked for death.
 
 v42: שָׁלוֹם (shalom)
 “Peace.” Jonathan’s final blessing.

@@ -162,6 +162,33 @@ v26: “Make level” — The Hebrew can carry the sense of weighing, examining,
 
 ##Vocabulary
 
+v1: מוּסָר (musar)  
+“Discipline,” “instruction,” or “correction.” Formation that teaches and corrects toward wisdom.  
+
+v5: חָכְמָה (chokmah)  
+“Wisdom.” Skill in discerning and living well within the order of life before God.  
+
+v5: בִּינָה (binah)  
+“Understanding” or “insight.” The ability to perceive distinctions and relationships.  
+
+v8: סָלַל (salal)  
+“To exalt” or “raise up.” Here wisdom raises the one who values her.  
+
+v11: דֶּרֶךְ (derekh)
+“Way” or “path.” A physical road and, frequently in wisdom literature, a pattern or direction of life.
+
+v18: אוֹר (or)  
+“Light.” Illumination used here as an image of the increasingly clear path of the righteous.  
+
+v19: אֲפֵלָה (aphelah)  
+“Deep darkness.” Thick darkness in which a person cannot discern the way.  
+
+v23: לֵב (lev)  
+“Heart.” The inward center of thought, desire, decision, and intention.  
+
+v23: תּוֹצָאוֹת חַיִּים (totsa'ot chayyim)  
+“Springs of life” or “outgoings of life.” That from which life proceeds outward.  
+
 v01: מוּסָר (musar)
 “Discipline,” “instruction,” or “correction.” Formation that teaches and corrects toward wisdom.
 
@@ -170,6 +197,3 @@ v05: חָכְמָה (chokmah)
 
 v08: סָלַל (salal)
 “To exalt” or “raise up.” Here wisdom raises the one who values her.
-
-v11: דֶּרֶךְ (derekh)
-“Way” or “path.” A physical road and, frequently in wisdom literature, a pattern or direction of life.

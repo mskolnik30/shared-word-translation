@@ -86,5 +86,11 @@ v03: עָרַב (arav)
 v06: מָשָׁל (mashal)
 “Proverb” or “byword.” Job has become an example people speak about.
 
+v07: כַּעַס (ka'as)
+“Grief,” “vexation,” or “anguish.” The cause of Job’s dimmed eyes.
+
 v13: שְׁאוֹל (Sheol)
 “Sheol.” The realm of the dead, imagined as Job’s possible house.
+
+v14: שַׁחַת (shachat)
+“Pit” or “corruption.” A poetic designation of death or the grave.

@@ -94,5 +94,23 @@ v02: נָגַשׂ (nagas)
 v04: אֶבְיוֹן (evyon)
 “Poor” or “needy.”
 
+v07: אָמַץ לֵב (amats lev)
+“To harden the heart.” To become inwardly resistant to generosity.
+
+v08: פָּתֹחַ תִּפְתַּח (patoach tiftach)
+“You shall surely open.” Emphatic command concerning the hand.
+
+v09: בְּלִיַּעַל (beliyya'al)
+“Worthless” or destructive. Used of the selfish thought refusing aid.
+
+v14: עָנַק (anaq)
+“To furnish generously.” To provide from flock, grain, and wine.
+
 v15: פָּדָה (padah)
 “To redeem.” Israel’s liberation from Egypt grounds servant release.
+
+v17: מַרְצֵעַ (martsea)
+“Awl.” The tool used in the ear-piercing rite.
+
+v19: קָדַשׁ (qadash)
+“To consecrate.” To set apart the firstborn for the LORD.

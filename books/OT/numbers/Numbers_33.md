@@ -115,3 +115,6 @@ v52: מַשְׂכִּית (maskit)
 
 v52: בָּמָה (bamah)
 “High place.” An elevated or local worship site.
+
+v54: גּוֹרָל (goral)
+“Lot.” A means of assigning tribal land.

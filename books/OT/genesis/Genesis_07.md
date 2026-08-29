@@ -64,6 +64,40 @@ v24: The narrative pauses with the waters still prevailing, delaying resolution 
 
 ##Vocabulary
 
+v1: צַדִּיק (ṣaddîq)  
+“Righteous.” One who stands in right relationship before God and lives faithfully within that relationship.  
+
+v4: מָחָה (māḥâ)  
+“To blot out” or “wipe away.” The term conveys complete removal or erasure.  
+
+v6: מַבּוּל (mabbûl)  
+“Flood.” The distinctive term used for the great deluge.  
+
+v11: תְּהוֹם (tĕhôm)  
+“Deep.” The great watery depths associated with the primordial waters of creation.  
+
+v11: אֲרֻבּוֹת הַשָּׁמַיִם (ʾărubbôt haššāmayim)  
+“Windows of the heavens.” A figurative expression describing the opening of the heavens for rain.  
+
+v15: כָּל־בָּשָׂר (kol-bāśār)
+“All flesh.” A comprehensive expression referring to living creatures collectively.
+
+v15: “Breath of life.” The life-giving breath associated with God’s creative activity.  
+
+v16: סָגַר (sāgar)  
+“To shut” or “close.” The verb emphasizes divine protection and separation.  
+
+v18: גָּבַר (gāḇar)  
+“To prevail” or “be mighty.” Repeated throughout the chapter to describe the overwhelming power of the waters.  
+
+v22: נִשְׁמַת חַיִּים (nišmat ḥayyîm)  
+
+v23: שָׁאַר (šāʾar)  
+“To remain.” The root underlying the concept of a surviving remnant.  
+
+v24: מֵאָה וַחֲמִשִּׁים יוֹם (mēʾâ waḥămîššîm yôm)  
+“One hundred fifty days.” The period during which the waters continue to prevail before the narrative turns toward restoration.  
+
 v01: צַדִּיק (ṣaddîq)
 “Righteous.” One who stands in right relationship before God and lives faithfully within that relationship.
 
@@ -72,6 +106,3 @@ v04: מָחָה (māḥâ)
 
 v06: מַבּוּל (mabbûl)
 “Flood.” The distinctive term used for the great deluge.
-
-v15: כָּל־בָּשָׂר (kol-bāśār)
-“All flesh.” A comprehensive expression referring to living creatures collectively.

@@ -183,3 +183,9 @@ v13: הוֹי (hoy)
 
 v16: דִּין (din)
 “To judge” or “defend a cause.” Used of attending to the claims of the poor and needy.
+
+v24: חוֹתָם (chotam)
+“Signet ring.” A personal seal symbolizing authority and close possession.
+
+v28: כְּלִי (keli)
+“Vessel.” A container or object, used metaphorically for Coniah.

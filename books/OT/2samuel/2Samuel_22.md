@@ -329,14 +329,35 @@ v51: The song closes by linking David’s deliverance to the enduring covenant w
 
 ##Vocabulary
 
+v02: מְצוּדָה (metsudah)
+“Stronghold.” A fortified place of refuge.
+
 v03: קֶרֶן יִשְׁעִי (qeren yishi)
 “Horn of my salvation.” Strength pictured as an animal’s horn.
+
+v05: מִשְׁבְּרֵי מָוֶת (mishbere mavet)
+“Waves of death.” Overwhelming mortal danger.
 
 v06: שְׁאוֹל (Sheol)
 “Sheol.” The realm of the dead.
 
+v11: כְּרוּב (keruv)
+“Cherub.” A heavenly throne-being.
+
+v17: מָשָׁה (mashah)
+“To draw out.” David is drawn from great waters.
+
 v26: חָסִיד (chasid)
 “Faithful” or “loyal.” One characterized by steadfast covenant devotion.
+
+v31: צָרַף (tsaraf)
+“To refine.” To test and purify like metal.
+
+v34: אַיָּלָה (ayyalah)
+“Deer” or “doe.” An image of sure-footed movement.
+
+v47: צוּר (tsur)
+“Rock.” A recurring divine title.
 
 v51: מָשִׁיחַ (mashiach)
 “Anointed one.” The king set apart by God.

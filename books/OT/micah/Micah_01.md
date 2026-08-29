@@ -126,6 +126,42 @@ v16: Shaving the head symbolizes deep mourning over exile and loss.
 
 ##Vocabulary
 
+v1: חָזוֹן (ḥāzôn)  
+“Vision.” A prophetic revelation received from God.  
+
+v2: שָׁמַע (šāmaʿ)  
+“To hear.” To listen attentively and respond appropriately.  
+
+v3: יָרַד (yāraḏ)  
+“To come down.” Often used of God's intervention in human affairs.  
+
+v4: מָסַס (māsas)  
+“To melt.” To dissolve or collapse under overwhelming force.  
+
+v5: פֶּשַׁע (pešaʿ)  
+“Transgression.” Rebellion against covenant authority.  
+
+v6: עִי (ʿî)  
+“Heap of ruins.” A destroyed city reduced to rubble.  
+
+v7: פֶּסֶל (peseḷ)  
+“Carved image.” An idol fashioned for worship.  
+
+v8: מִסְפֵּד (mispēḏ)  
+“Lamentation.” A public expression of mourning.  
+
+v9: מַכָּה (makkâ)  
+“Wound.” An affliction, blow, or injury.  
+
+v13: חַטָּאת (ḥaṭṭāʾṯ)
+“Sin.” Moral failure and covenant violation.
+
+v15: יוֹרֵשׁ (yôrēš)  
+“Conqueror” or “possessor.” One who takes possession of land or property.  
+
+v16: גָּלָה (gālāh)  
+“To go into exile.” To be removed from one's land and carried away.  
+
 v01: חָזוֹן (ḥāzôn)
 “Vision.” A prophetic revelation received from God.
 
@@ -134,6 +170,3 @@ v02: שָׁמַע (šāmaʿ)
 
 v05: פֶּשַׁע (pešaʿ)
 “Transgression.” Rebellion against covenant authority.
-
-v13: חַטָּאת (ḥaṭṭāʾṯ)
-“Sin.” Moral failure and covenant violation.

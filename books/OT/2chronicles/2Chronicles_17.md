@@ -79,3 +79,9 @@ v06: גָּבַהּ לֵב (gavah lev)
 
 v09: סֵפֶר תּוֹרַת יְהוָה (sefer torat YHWH)
 “Book of the instruction of the LORD.”
+
+v10: פַּחַד יְהוָה (pachad YHWH)
+“Fear of the LORD.”
+
+v16: נָדַב (nadav)
+“To offer willingly.”

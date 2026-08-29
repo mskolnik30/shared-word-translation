@@ -67,8 +67,13 @@ v25–29: Restoration does not erase the account of judgment. God restores Jacob
 
 ##Vocabulary
 
-v07: קֹדֶשׁ (qodesh)
-“Holiness” here concerns God’s holy name: God’s distinct and weighty identity made known among Israel and the nations.
+v1: גּוֹג (*gog*) — Gog is the symbolic enemy addressed throughout this oracle. The name gathers the hostile forces that come against Israel into a single figure.  
+
+v7: קֹדֶשׁ (*qodesh*) — “Holiness” here concerns God’s holy name: God’s distinct and weighty identity made known among Israel and the nations.  
+
+v11: הָמוֹן (*hamon*) — “Multitude” or “horde.” In “Hamon-gog,” it marks the overwhelming mass of Gog’s army, now reduced to a burial site.  
+
+v14: טָהֵר (*taher*) — “To cleanse.” The repeated verb frames the removal of the dead as the purification of the land.  
 
 v17: זֶבַח (zevach)
 “Sacrifice.” God calls the birds and animals to a sacrifice, transforming the aftermath of battle into a grim sacrificial feast.
@@ -76,5 +81,10 @@ v17: זֶבַח (zevach)
 v23: מָעַל (ma‘al)
 “To act faithlessly.” The term describes a breach of covenantal trust, explaining Israel’s exile and God’s hidden face.
 
+v25: שְׁבוּת (*shevut*) — “Fortunes” or “captivity.” The phrase “restore the fortunes” speaks broadly of reversing Jacob’s devastated condition.  
+
 v29: רוּחַ (ruach)
 “Spirit,” also “breath” or “wind.” God’s poured-out spirit marks the final assurance of divine presence with the house of Israel.
+
+v07: קֹדֶשׁ (qodesh)
+“Holiness” here concerns God’s holy name: God’s distinct and weighty identity made known among Israel and the nations.

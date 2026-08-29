@@ -180,8 +180,17 @@ v28: Self-control functions like a city wall: it protects inward life from uncon
 
 ##Vocabulary
 
-v01: עָתַק (ataq)
-“To copy” or “transcribe.” Here describing preservation of the sayings by Hezekiah’s scribes.
+v1: עָתַק (ataq)  
+“To copy” or “transcribe.” Here describing preservation of the sayings by Hezekiah’s scribes.  
+
+v2: חָקַר (chaqar)  
+“To search out.” To investigate what is concealed.  
+
+v4: סִיג (sig)  
+“Dross.” Impurity removed during metal refining.  
+
+v11: אֹפֶן (ofen)  
+“Setting” or “framework.” The surrounding craftsmanship in which the golden object is placed.  
 
 v13: צִיר נֶאֱמָן (tsir neeman)
 “Faithful messenger.” A reliable representative who fulfills the sender’s purpose.
@@ -191,3 +200,9 @@ v15: אֶרֶךְ אַפַּיִם (erekh appayim)
 
 v19: בָּטַח (batach)
 “To trust.” To rely upon another for security.
+
+v28: מַעְצָר (maatsar)  
+“Restraint” or “control.” The capacity to govern oneself.  
+
+v01: עָתַק (ataq)
+“To copy” or “transcribe.” Here describing preservation of the sayings by Hezekiah’s scribes.

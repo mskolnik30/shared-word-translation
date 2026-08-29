@@ -96,14 +96,32 @@ v20–25: Catechesis begins with a child’s question and answers with narrative
 
 ##Vocabulary
 
+v04: שְׁמַע (shema)
+“Hear.” Listening that implies attention and obedience.
+
+v04: אֶחָד (echad)
+“One.” The word in the confession “the LORD is one.”
+
 v05: אָהַב (ahav)
 “To love.” Wholehearted covenant devotion.
 
+v05: נֶפֶשׁ (nefesh)
+“Life” or “living self.” The whole person as living being.
+
 v05: מְאֹד (me'od)
 “Might,” literally “very much.” Full capacity and abundance.
+
+v07: שָׁנַן (shanan)
+“To sharpen” or “impress.” Repeated teaching to children.
 
 v08: טוֹטָפֹת (totafot)
 “Frontlets.” A rare term for signs between the eyes.
 
 v09: מְזוּזָה (mezuzah)
 “Doorpost.” The place where covenant words are written.
+
+v16: נָסָה (nasah)
+“To test.” Israel must not put the LORD to the test.
+
+v25: צְדָקָה (tsedaqah)
+“Righteousness.” Right covenant conduct before the LORD.

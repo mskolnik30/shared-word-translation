@@ -84,8 +84,11 @@ v14: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context d
 v17: שָׁמַיִם חֲדָשִׁים וָאָרֶץ חֲדָשָׁה (shamayim chadashim va'arets chadashah)
 “New heavens and a new earth.” Creation language for radical restoration.
 
-v08: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
+v8: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
 v14: רוּחַ (ruach)
 “Spirit,” “wind,” or “breath.” A term whose sense is determined by context.
+
+v08: עֶבֶד (eved)
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.

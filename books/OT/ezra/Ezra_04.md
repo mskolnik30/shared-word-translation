@@ -101,5 +101,17 @@ v04: רָפָה יָדַיִם (raphah yadayim)
 v05: סָכַר (sakhar)
 “To hire.” Counselors are paid to frustrate the rebuilding purpose.
 
+v07: אֲרָמִית (Aramit)
+“Aramaic.” The language used in the imperial correspondence.
+
+v08: בְּעֵל־טְעֵם (be'el-te'em)
+“Commander” or high official. An Aramaic administrative title used of Rehum.
+
+v10: עֲבַר־נַהֲרָה (Avar-Nahara)
+“Beyond the River.” The Persian province west of the Euphrates.
+
 v14: מְלַח הֵיכְלָא (melach heikhla)
 “Salt of the palace.” An idiom expressing royal service, dependence, or loyalty.
+
+v23: אֶדְרָע וְחַיִל (edra ve-chayil)
+“Force and power.” Coercive means used to halt the work.

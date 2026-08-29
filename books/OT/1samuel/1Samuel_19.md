@@ -95,3 +95,15 @@ v05: דָּם נָקִי (dam naqi)
 
 v09: רוּחַ רָעָה (ruach ra'ah)
 “Evil spirit.”
+
+v13: תְּרָפִים (teraphim)
+“Household idol.”
+
+v18: נָוִיוֹת (Naioth)
+“Naioth.” A place associated with Samuel’s prophetic community.
+
+v20: לַהֲקַת נְבִיאִים (lahakat nevi'im)
+“Company of prophets.”
+
+v24: פָּשַׁט (pashat)
+“To strip off.” Saul removes his garments.

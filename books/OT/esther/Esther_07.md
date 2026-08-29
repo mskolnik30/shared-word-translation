@@ -64,3 +64,15 @@ v05: מָלֵא לֵב (male lev)
 
 v06: צַר וְאוֹיֵב (tsar ve-oyev)
 “Adversary and enemy.” Esther’s direct designation of Haman.
+
+v07: רָעָה (ra'ah)
+“Disaster” or “harm.” Haman sees that judgment has been determined against him.
+
+v08: כָּבַשׁ (kavash)
+“To subdue” or “assault.” The king accuses Haman of attempting violence against Esther.
+
+v09: דָּבַר טוֹב (davar tov)
+“To speak good.” Mordecai is remembered as the one who acted for the king’s benefit.
+
+v10: שָׁכַךְ (shakhakh)
+“To subside.” The king’s fury quiets after Haman’s execution.

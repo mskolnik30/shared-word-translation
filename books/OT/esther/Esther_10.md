@@ -34,5 +34,14 @@ v02: תֹּקֶף (toqeph)
 v02: גְּדֻלָּה (gedullah)
 “Greatness.” Mordecai’s elevated status.
 
+v03: מִשְׁנֶה (mishneh)
+“Second.” Mordecai’s rank immediately below the king.
+
+v03: רָצוּי (ratsui)
+“Pleasing” or “well received.” Mordecai’s standing among his people.
+
+v03: דָּרַשׁ טוֹב (darash tov)
+“To seek the good.” To pursue another community’s welfare.
+
 v03: דֹּבֵר שָׁלוֹם (dover shalom)
 “Speaking peace.” Communicating and seeking well-being for the people.

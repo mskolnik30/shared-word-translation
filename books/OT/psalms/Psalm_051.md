@@ -88,6 +88,24 @@ v18–19: The psalm widens from personal repentance to communal restoration. Ind
 
 ##Vocabulary
 
+v1: חֶסֶד (chesed)  
+Often translated “steadfast love” or “lovingkindness,” this term denotes covenantal loyalty rather than emotion alone. It describes God’s reliable commitment to relationship.
+
+v5: עָוֹן (ʿavon)  
+Rendered here as “brokenness,” the word carries connotations of distortion or bending, emphasizing condition rather than isolated misdeed.
+
+v7: אֵזוֹב (ezov)  
+“Hyssop” refers to a plant used in purification rites. Its use here links personal repentance with communal worship practices.
+
+v10: בָּרָא (baraʾ)  
+“To create.” This verb is used in Hebrew scripture for divine action alone, underscoring that the transformation sought exceeds human effort.
+
+v17: רוּחַ (ruach)
+“Spirit.” The term can mean breath, wind, or life-force. Here it names inner posture rather than intellect or emotion alone.
+
+v18: צִיּוֹן (Tsiyon)  
+“Zion” represents more than a location; it functions as a symbol of communal life, worship, and shared identity.
+
 v01: חֶסֶד (chesed)
 “Steadfast love; Lovingkindness.” Denotes covenantal loyalty rather than emotion alone. It describes God’s reliable commitment to relationship.
 
@@ -96,6 +114,3 @@ v05: עָוֹן (ʿavon)
 
 v07: אֵזוֹב (ezov)
 “Hyssop” refers to a plant used in purification rites. Its use here links personal repentance with communal worship practices.
-
-v17: רוּחַ (ruach)
-“Spirit.” The term can mean breath, wind, or life-force. Here it names inner posture rather than intellect or emotion alone.

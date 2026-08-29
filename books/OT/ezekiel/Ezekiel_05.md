@@ -51,11 +51,13 @@ v12: v12 "A third... shall die... a third... by the sword, and a third I will sc
 
 ##Vocabulary
 
-v01: חֶ֫רֶב (cherev)
-“sword.” Instrument of divine judgment, used both literally and metaphorically to denote destruction and division throughout this passage.
+v1: v1 חֶ֫רֶב (che.rev) "sword" — Instrument of divine judgment, used both literally and metaphorically to denote destruction and division throughout this passage.  
 
 v11: מִקְדָּשׁ (miqdash)
 “sanctuary.” The temple, representing God's presence among the people, which has been desecrated by the people's actions prompting divine judgment.
 
 v13: אָ֫ף (aph)
 “anger.” God's righteous indignation, reaching a climax in resolution through executing judgment, shown here as being completed, leading to God's consolation.
+
+v01: חֶ֫רֶב (cherev)
+“sword.” Instrument of divine judgment, used both literally and metaphorically to denote destruction and division throughout this passage.

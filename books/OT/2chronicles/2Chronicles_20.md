@@ -148,3 +148,6 @@ v17: יְשׁוּעָה (yeshuah)
 
 v21: חֶסֶד (hesed)
 “Steadfast love.”
+
+v26: בְּרָכָה (berakhah)
+“Blessing.” The valley is named for blessing the LORD.

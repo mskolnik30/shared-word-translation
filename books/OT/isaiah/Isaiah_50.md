@@ -40,11 +40,17 @@ v10: “servant” — Isaiah uses servant language in several contexts. TSW pre
 
 ##Vocabulary
 
-v04: לִמּוּדִים (limmudim)
-“Those who are taught” or “disciples.” People formed through attentive learning.
+v4: לִמּוּדִים (limmudim)  
+“Those who are taught” or “disciples.” People formed through attentive learning.  
+
+v4: דָּבָר (davar)  
+“Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.  
 
 v10: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.
+
+v04: לִמּוּדִים (limmudim)
+“Those who are taught” or “disciples.” People formed through attentive learning.
 
 v04: דָּבָר (davar)
 “Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.

@@ -152,3 +152,9 @@ v10: מוּסָר (musar)
 
 v15: עֳנִי (oni)
 “Affliction.” The very condition through which Elihu says God can deliver.
+
+v22: מוֹרֶה (moreh)
+“Teacher.” Elihu asks who teaches like God.
+
+v29: סֻכָּה (sukkah)
+“Pavilion” or “booth.” The clouded dwelling from which thunder sounds.

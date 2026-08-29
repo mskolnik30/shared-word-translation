@@ -22,4 +22,7 @@ v02: גָּבַר (gavar)
 “Be strong” or “prevail.” Here steadfast love is not merely abundant; it is pictured as powerful over and for the people.
 
 v02: אֱמֶת (ʾemet)
+“Faithfulness,” “truth,” or “reliability,” emphasizing what proves firm and trustworthy.
+
+v02: אֱמֶת (ʾemet)
 “Faithfulness,” “truth,” or “reliability,” with a sense of what proves firm and trustworthy.

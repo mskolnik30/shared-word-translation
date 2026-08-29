@@ -219,3 +219,18 @@ v16: חֵרֵף (cheref)
 
 v22: קְדוֹשׁ יִשְׂרָאֵל (Qedosh Yisrael)
 “Holy One of Israel.”
+
+v28: שַׁאֲנַן (sha'anan)
+“Arrogance” or complacent noise. Assyria’s insolence.
+
+v28: חַח (chach)
+“Hook.” An instrument placed in the nose.
+
+v31: קִנְאַת יְהוָה (qin'at YHWH)
+“Zeal of the LORD.” Divine passion accomplishing restoration.
+
+v32: סֹלְלָה (solelah)
+“Siege mound.”
+
+v35: מַלְאַךְ יְהוָה (malakh YHWH)
+“Messenger of the LORD.”

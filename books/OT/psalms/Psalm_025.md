@@ -83,6 +83,19 @@ v01–22: The psalm is shaped as an alphabetic acrostic, though its sequence is 
 
 ##Vocabulary
 
+v5: **אֱמֶת — *ʾemet***: “truth” is not merely correct information here; it is the dependable reality and faithfulness in which the psalmist asks God to lead them.  
+
+v6: **רַחֲמִים — *raḥamim***: “compassion” is a plural form associated with deep, tender mercy. It stands alongside the LORD’s enduring acts of steadfast love.  
+
+v7: **חֶסֶד — *ḥesed***: Rendered “steadfast love,” this term names the LORD’s loyal, covenantal care. The psalmist appeals to that love rather than to personal innocence.  
+
+v10: בְּרִית (berit)
+“Covenant” names the binding relationship established by God, with both divine faithfulness and a call to keep its testimonies.
+
+v14: **סוֹד — *sod***: “Counsel” can refer to a confidential circle or intimate deliberation. The LORD shares this counsel with those who fear him.  
+
+v21: **תֹּם — *tom***: “Integrity” denotes wholeness or blamelessness. Together with “uprightness,” it is invoked as a protection for one who waits for the LORD.  
+
 v05: אֱמֶת (ʾemet)
 “truth” is not merely correct information here; it is the dependable reality and faithfulness in which the psalmist asks God to lead them.
 
@@ -91,6 +104,3 @@ v06: רַחֲמִים (raḥamim)
 
 v07: חֶסֶד (ḥesed)
 “Steadfast love.” Names the LORD’s loyal, covenantal care. The psalmist appeals to that love rather than to personal innocence.
-
-v10: בְּרִית (berit)
-“Covenant” names the binding relationship established by God, with both divine faithfulness and a call to keep its testimonies.

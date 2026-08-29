@@ -120,11 +120,32 @@ v30: The verse serves as the introduction to the song in chapter 32 and is prese
 v02: צֵאת וָבוֹא (tset va-vo)
 “Go out and come in.” An idiom for active leadership.
 
+v06: חָזַק וֶאֱמָץ (chazaq ve-emats)
+“Be strong and courageous.”
+
 v09: כָּתַב (katav)
 “To write.” Moses commits the instruction to written form.
+
+v10: שְׁמִטָּה (shemittah)
+“Release.” The seventh-year cycle.
+
+v12: הַקְהֵל (haqhel)
+“Gather.” The command to assemble the whole people.
 
 v16: זָנָה (zanah)
 “To prostitute oneself.” A metaphor for idolatrous covenant betrayal.
 
+v18: סָתַר פָּנִים (satar panim)
+“To hide the face.” An image of divine withdrawal in judgment.
+
 v19: שִׁירָה (shirah)
 “Song.” The poetic witness taught to Israel.
+
+v21: יֵצֶר (yetser)
+“Inclination” or “formation.” The heart’s developing inner purpose.
+
+v26: סֵפֶר הַתּוֹרָה (sefer ha-torah)
+“Book of instruction.” The written covenant teaching.
+
+v27: קְשֵׁה־עֹרֶף (qesheh-oref)
+“Stiff-necked.” Stubbornly resistant.

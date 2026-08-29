@@ -36,11 +36,20 @@ v2: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manif
 
 ##Vocabulary
 
-v08: מַסְלוּל / דֶּרֶךְ הַקֹּדֶשׁ (maslul / derekh haqqodesh)
-“Highway / Holy Way.” The protected road of return.
+v8: מַסְלוּל / דֶּרֶךְ הַקֹּדֶשׁ (maslul / derekh haqqodesh)  
+“Highway / Holy Way.” The protected road of return.  
+
+v10: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
 v10: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+
+v2: כָּבוֹד (kavod)  
+“Glory.” Weight, honor, or manifest splendor.  
+
+v08: מַסְלוּל / דֶּרֶךְ הַקֹּדֶשׁ (maslul / derekh haqqodesh)
+“Highway / Holy Way.” The protected road of return.
 
 v02: כָּבוֹד (kavod)
 “Glory.” Weight, honor, or manifest splendor.

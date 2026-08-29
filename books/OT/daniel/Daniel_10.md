@@ -95,8 +95,26 @@ v21: “book of truth” is a heavenly record of the conflict about to be reveal
 v01: צָבָא (tsava)
 “Conflict,” “warfare,” or “host.” The revelation concerns great conflict.
 
+v03: לֶחֶם חֲמֻדוֹת (lechem chamudot)
+“Desirable food.” Rich or pleasant food Daniel avoids.
+
+v05: אוּפָז (Uphaz)
+“Uphaz.” A place or term associated with fine gold.
+
 v06: תַּרְשִׁישׁ (tarshish)
 “Beryl” or another precious stone. Exact mineral identification is uncertain.
+
+v11: חֲמוּדוֹת (chamudot)
+“Greatly beloved” or “precious.”
+
+v13: שַׂר (sar)
+“Prince.” Used of heavenly powers associated with empires.
+
+v13: מִיכָאֵל (Mikha'el)
+“Michael.” One of the chief heavenly princes.
+
+v16: צִירִים (tsirim)
+“Pains” or “birth pangs.” Daniel’s bodily distress under the vision.
 
 v19: שָׁלוֹם (shalom)
 “Peace” or “well-being.” Spoken to strengthen Daniel.

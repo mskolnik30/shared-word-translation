@@ -51,6 +51,16 @@ v06: The verse moves between “those who seek him” and “your face,” then 
 
 ##Vocabulary
 
+v1: **מְלֹא — *meloʾ***: “all that fills it” presents the earth not as empty territory but as belonging wholly to the LORD, together with everything within it.  
+
+v4: **שָׁוְא — *shavʾ***: “what is empty” can include falsehood, worthlessness, or that which proves futile. It stands opposite the integrity named in the rest of the verse.  
+
+v5: **צְדָקָה — *tsedaqah***: “righteousness” is received from God in parallel with blessing. Here it may denote both God’s righteous saving action and the right standing God grants.  
+
+v7: **כָּבוֹד — *kavod***: “glory” carries the sense of weight, honor, and manifest majesty. The title “King of glory” identifies the coming king by the fullness of divine splendor.  
+
+v10: **צְבָאוֹת — *tsevaʾot***: “hosts” evokes ordered multitudes, especially heavenly forces. “The LORD of hosts” declares the LORD’s sovereign command amid the psalm’s royal and martial imagery.  
+
 v01: מְלֹא (meloʾ)
 “all that fills it” presents the earth not as empty territory but as belonging wholly to the LORD, together with everything within it.
 

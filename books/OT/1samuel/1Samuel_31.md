@@ -70,5 +70,20 @@ v03: כָּבֵד (kaved)
 v04: דָּקַר (daqar)
 “To pierce.”
 
+v04: עָלַל (alal)
+“To abuse” or make sport of.
+
+v08: פָּשַׁט (pashat)
+“To strip.” The Philistines strip the slain.
+
 v09: בָּשַׂר (basar)
 “To proclaim good news.” Here Philistine victory propaganda.
+
+v10: עַשְׁתָּרוֹת (Ashtarot)
+“Ashtaroth.” Female deities associated with Philistine/Canaanite worship.
+
+v12: שָׂרַף (saraf)
+“To burn.”
+
+v13: צוּם (tsum)
+“To fast.”

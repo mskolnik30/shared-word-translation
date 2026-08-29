@@ -34,6 +34,36 @@ v3: Blessing is commanded, not assumed; unity becomes the context for life.
 
 ##Vocabulary
 
+v1: טוֹב (tov)  
+“Good.” Right, beneficial.  
+
+v1: נָעִים (na‘im)  
+“Pleasant.” Delightful.  
+
+v1: יַחַד (yachad)  
+“Together.” In unity.  
+
+v2: שֶׁמֶן (shemen)  
+“Oil.” Anointing substance.  
+
+v2: זָקָן (zaqan)  
+“Beard.” Symbol of maturity and honor.  
+
+v3: טַּל (tal)  
+“Dew.” Life-giving moisture.  
+
+v3: חֶרְמוֹן (Hermon)  
+“Mount Hermon.” Northern mountain.  
+
+v3: צִיּוֹן (Tsion)  
+“Zion.” Place of God’s presence.  
+
+v3: בְּרָכָה (berakhah)  
+“Blessing.” Divine favor.  
+
+v3: חַיִּים (chayyim)  
+“Life.” Vital existence.  
+
 v01: טוֹב (tov)
 “Good.” Right, beneficial.
 

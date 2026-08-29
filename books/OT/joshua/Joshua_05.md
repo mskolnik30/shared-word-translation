@@ -70,3 +70,9 @@ v09: גָּלַל (galal)
 
 v10: פֶּסַח (pesach)
 “Passover.” Israel’s memorial meal of deliverance from Egypt.
+
+v12: מָן (man)
+“Manna.” Wilderness food that ceases once Israel eats from the land.
+
+v14: שַׂר־צְבָא יְהוָה (sar-tseva YHWH)
+“Commander of the army of the LORD.” The title of the mysterious figure Joshua encounters.

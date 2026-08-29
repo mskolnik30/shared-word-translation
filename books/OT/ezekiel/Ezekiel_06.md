@@ -34,6 +34,12 @@ v7: v07 "you shall know that I am the Lord": This repeated refrain emphasizes th
 
 ##Vocabulary
 
+v1: v01 יְהוָ֖ה (ye.ho.vah) - "Lord": The covenant name of God, emphasizing His faithfulness and sovereign authority.  
+
+v2: v03 אָדָ֕ם (a.dam) - "Son of man": A title for Ezekiel emphasizing his humanity and role as representative and messenger.  
+
+v9: v09 זוֹנֶ֗ה (za.nah) - "adulterous": Implies unfaithfulness to God, using strong matrimonial imagery to describe Israel's idolatry.  
+
 v01: יְהוָ֖ה (yehovah)
 “Lord": The covenant name of God, with a sense of His faithfulness and sovereign authority.
 

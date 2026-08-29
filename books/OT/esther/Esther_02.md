@@ -95,3 +95,15 @@ v07: הֲדַסָּה (Hadassah)
 
 v09: חֶסֶד (ḥesed)
 “Steadfast kindness.” Loyal favor shown within relationship.
+
+v10: מוֹלֶדֶת (moledet)
+“Kindred” or “native lineage.” Family and people of origin.
+
+v14: פִּילֶגֶשׁ (pilegesh)
+“Concubine.” A woman in a recognized but secondary royal sexual relationship.
+
+v19: שַׁעַר הַמֶּלֶךְ (sha'ar ha-melekh)
+“King’s gate.” A place of royal administration and official presence.
+
+v23: סֵפֶר דִּבְרֵי הַיָּמִים (sefer divrei hayamim)
+“Book of the chronicles.” The royal record of events.

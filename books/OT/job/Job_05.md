@@ -125,5 +125,14 @@ v08: דָּרַשׁ (darash)
 v12: עָרוּם (arum)
 “Crafty” or “shrewd.” Cleverness that God can frustrate.
 
+v17: יָכַח (yakhach)
+“To correct,” “reprove,” or “argue a case.” Here divine correction.
+
+v17: מוּסָר (musar)
+“Discipline” or “correction.” Formative correction attributed to the Almighty.
+
 v20: פָּדָה (padah)
 “To redeem.” To rescue from death.
+
+v26: גָּדִישׁ (gadish)
+“Stack of grain.” An image of a life reaching mature completion.

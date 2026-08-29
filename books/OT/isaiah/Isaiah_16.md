@@ -46,6 +46,15 @@ v8: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can
 v14: שְׁאָר (she'ar)
 “Remnant.” Those who remain or survive.
 
+v1: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v8: גּוֹיִם (goyim)  
+“Nations” or “peoples.” Peoples beyond Israel.  
+
+v5: מִשְׁפָּט (mishpat)  
+“Justice” or “judgment.” Right judgment and right communal ordering.  
+
 v01: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 

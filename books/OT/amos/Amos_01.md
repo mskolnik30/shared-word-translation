@@ -140,11 +140,26 @@ v15: Hebrew *malkam* can mean “their king” and also resembles the name of th
 v01: נֹקֵד (noqed)
 “Shepherd” or “sheep breeder.” A rare occupational term used of Amos.
 
+v02: שָׁאַג (sha'ag)
+“To roar.” The LORD’s voice is compared with a lion.
+
 v03: פֶּשַׁע (pesha)
 “Transgression” or “rebellion.” A serious breach of covenantal or moral order.
+
+v03: חָרוּץ (charuts)
+“Threshing sledge.” A heavy agricultural instrument fitted with sharp material.
+
+v05: בְּרִיחַ (beriach)
+“Bar.” A gate-bar symbolizing a city’s defenses.
 
 v09: בְּרִית אַחִים (berit achim)
 “Covenant of brothers.” A treaty or bond described through kinship language.
 
 v11: רַחֲמִים (rachamim)
 “Compassion.” Edom is charged with destroying brotherly mercy.
+
+v14: סוּפָה (suphah)
+“Whirlwind” or “storm.” An image of violent judgment.
+
+v15: מֶלֶךְ (melekh)
+“King.” The ruler who goes into exile with the officials.

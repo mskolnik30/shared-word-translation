@@ -281,3 +281,27 @@ v02: אֵשְׁדָּת (eshdat)
 
 v04: מוֹרָשָׁה (morashah)
 “Inheritance” or “possession.” Torah as the assembly of Jacob’s heritage.
+
+v05: יְשֻׁרוּן (Yeshurun)
+“Jeshurun.” A poetic name for Israel.
+
+v08: תֻּמִּים וְאוּרִים (Tummim ve-Urim)
+“Thummim and Urim.” Priestly instruments of discernment.
+
+v12: יְדִיד (yedid)
+“Beloved.” Benjamin as beloved of the LORD.
+
+v16: רְצוֹן (ratson)
+“Favor” or “goodwill.” The blessing of the one who dwelt in the bush.
+
+v17: רְאֵם (re'em)
+“Wild ox.” A powerful horned animal.
+
+v26: מְעוֹנָה (me'onah)
+“Dwelling place” or “refuge.” The eternal God as Israel’s habitation.
+
+v27: זְרֹעֹת עוֹלָם (zero'ot olam)
+“Everlasting arms.” The image of divine support beneath Israel.
+
+v29: אַשְׁרֶיךָ (ashrekha)
+“Happy are you” or “blessed are you.” The final acclamation over Israel.

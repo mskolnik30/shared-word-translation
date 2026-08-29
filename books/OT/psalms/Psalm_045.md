@@ -96,18 +96,49 @@ v17: “name… remembered… praise” — The closing aim is enduring public r
 
 
   ## Vocabulary
-v17: זָכַר (zakar) — to remember; to call to mind
-  
+
+v01: רָחַשׁ (raḥash) — to stir; to overflow; to bubble up
+
+v01: דָּבָר (davar) — word; message; matter
+
+v01: עֵט (ʿet) — stylus; pen
+
 v02: יָפָה (yafah) — to be beautiful; fair
+
 v02: חֵן (ḥen) — favor; grace; charm
+
 v03: גִּבּוֹר (gibbor) — mighty one; warrior
+
+v04: עֲנָוָה (ʿanavah) — humility; gentleness
+
+v06: כִּסֵּא (kisse’) — throne
+
+v06: שֵׁבֶט (shevet) — scepter; staff; tribe (context)
+
+v06: מֵישָׁרִים (mesharim) — equity; uprightness; fairness
+
+v07: מָשַׁח (mashach) — to anoint
+
+v07: שֶׁמֶן (shemen) — oil
+
 v08: מוֹר (mor) — myrrh
+
 v08: אֲהָלוֹת (’ahālōt) — aloes (fragrant wood)
+
 v09: אוֹפִיר (’Ophir) — Ophir (region known for gold)
+
+v10: נָטָה (natah) — to incline; to turn toward
+
+v10: שָׁכַח (shakhaḥ) — to forget
+
 v13: כָּבוֹד (kavod) — glory; honor; weightiness
+
 v14: רָקַם (raqam) — to embroider; to weave with patterns
+
 v15: שִׂמְחָה (simḥah) — joy; gladness
 
+v17: זָכַר (zakar) — to remember; to call to mind
+  
 ##Vocabulary
 
 v01: רָחַשׁ (raḥash)

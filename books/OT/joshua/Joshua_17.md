@@ -76,3 +76,9 @@ v05: חֶבֶל (chevel)
 
 v12: יָאַל (ya'al)
 “To be willing” or “persist.” The Canaanites persist in living in the land.
+
+v16: רֶכֶב בַּרְזֶל (rekhev barzel)
+“Iron chariots.” A symbol of Canaanite military strength.
+
+v18: בָּרָא (bara)
+“To clear” or “cut down.” Used of clearing forested hill country.

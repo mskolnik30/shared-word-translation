@@ -111,7 +111,8 @@ v18: The prohibition of vengeance culminates in positive command—love defines 
 
 ##Vocabulary
 
-v02: קָדַשׁ (qāḏaš)
+v2: קָדַשׁ (qāḏaš)  
+
 “To be holy.” To be set apart for divine purpose.
 
 v15: מִשְׁפָּט (mišpāṭ)
@@ -125,3 +126,34 @@ v15: נָשָׂא פָנִים (nāśāʾ pānîm)
 
 v16: רָכִיל (rāḵîl)
 “Slanderer.” One who circulates harmful speech.
+
+v16: דָּם (dām)  
+
+“Blood.” Life, often in the sense of guilt or harm.
+
+v17: שָׂנֵא (śānēʾ)  
+
+“To hate.” Deep-seated rejection.
+
+v17: יָכַח (yāḵaḥ)  
+
+“To reprove.” To correct or confront.
+
+v18: נָקַם (nāqam)  
+
+“To take vengeance.” To repay harm.
+
+v18: נָטַר (nāṭar)  
+
+“To keep/hold.” To maintain anger.
+
+v18: אָהַב (ʾāhaḇ)  
+
+“To love.” Covenantal loyalty expressed in action.
+
+v18: רֵעַ (rēaʿ)  
+
+“Neighbor.” Fellow member of the community.
+
+v02: קָדַשׁ (qāḏaš)
+“To be holy.” To be set apart for divine purpose.

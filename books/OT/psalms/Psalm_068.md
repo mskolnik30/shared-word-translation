@@ -198,6 +198,51 @@ v32–35: The closing summons returns to universal praise. God’s transcendence
 
 ##Vocabulary
 
+v1: קוּם (qum)  
+“To arise.” Often signals divine action in judgment or deliverance.  
+
+v2: נָדַף (nadaph)  
+“To drive away.” Used for dispersing or scattering.  
+
+v4: רָכַב (rakhav)  
+“To ride.” Frequently used of divine movement across heavens or wilderness.  
+
+v5: אָב (ʾav)  
+“Father.” Here extended metaphorically to protector of the vulnerable.  
+
+v6: יָשַׁב (yashav)  
+“To settle” or “to cause to dwell.” Indicates establishment in a place.  
+
+v7: יָצָא (yatsaʾ)  
+“To go out.” Often used for divine leading in exodus contexts.  
+
+v8: רָעַשׁ (raʿash)  
+“To quake.” Describes trembling of the earth.  
+
+v11: דָּבָר (davar)  
+“Word.” Can denote speech, command, or event.  
+
+v14: פָּרַשׂ (paras)  
+“To scatter.” Used for dispersal in battle contexts.  
+
+v17: רֶכֶב (rekhev)  
+“Chariot.” Symbol of power and divine or royal presence.  
+
+v18: שָׁבָה (shavah)  
+“To take captive.” Here in the phrase “leading captivity captive.”  
+
+v20: מוֹצָאָה (motsaʾah)  
+“Escape” or “exit.” Used for deliverance from danger or death.  
+
+v30: גַּעַר (gaʿar)  
+“To rebuke.” Often denotes authoritative command over chaos or enemies.  
+
+v33: נָתַן קוֹל (natan qol)  
+“To give voice.” Expression of powerful speech or thunder.  
+
+v35: עֹז (ʿoz)  
+“Strength.” A recurring term for divine power given to the people.  
+
 v01: קוּם (qum)
 “To arise.” Often signals divine action in judgment or deliverance.
 

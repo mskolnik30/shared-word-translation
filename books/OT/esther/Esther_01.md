@@ -83,5 +83,20 @@ v02: בִּירָה (birah)
 v03: מִשְׁתֶּה (mishteh)
 “Feast” or “banquet,” especially one involving drinking.
 
+v04: יְקָר (yeqar)
+“Honor,” “splendor,” or “preciousness.” Used of royal magnificence.
+
+v08: אֹנֵס (ones)
+“Compulsion.” The drinking rule explicitly forbids forcing anyone.
+
+v10: סָרִיס (saris)
+“Eunuch” or “court official.” A royal servant with close palace access.
+
 v13: דָּת (dat)
 “Law” or “decree.” A Persian-period term prominent throughout Esther.
+
+v19: כָּתַב (katav)
+“To write.” Royal decisions gain administrative force through written decrees.
+
+v22: שָׂרַר (sarar)
+“To rule” or “exercise authority.” Used of household authority in the decree.

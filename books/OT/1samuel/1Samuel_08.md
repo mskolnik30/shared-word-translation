@@ -88,3 +88,12 @@ v03: הִטָּה מִשְׁפָּט (hittah mishpat)
 
 v07: מָאַס (ma'as)
 “To reject.”
+
+v09: מִשְׁפַּט הַמֶּלֶךְ (mishpat ha-melekh)
+“Judgment/custom of the king.”
+
+v11: לָקַח (laqach)
+“To take.” The repeated royal action.
+
+v20: לָחַם (lacham)
+“To fight.”

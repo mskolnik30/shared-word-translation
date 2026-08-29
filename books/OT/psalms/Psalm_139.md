@@ -107,6 +107,23 @@ v23–24: The closing petition returns to the opening “you have searched me.�
 
 ##Vocabulary
 
+v1: חָקַר (ḥāqar) — To search out, to examine deeply.
+
+v5: צוּר (ṣûr) — To hem in, to besiege, to surround.
+
+v8: שְׁאוֹל (šəʾôl) — Sheol, the realm of the dead.
+
+v13: רָקַם (rāqam)
+“To weave, to embroider. The verb of skilled craft.”
+
+v14: יָרֵא (yārēʾ) — Fearful, awesome. The participle here suggests “wonderfully” more than “frightfully.”
+
+v16: גֹּלֶם (gōlem) — Unformed substance. Appears only here in the Hebrew Scriptures.
+
+v23: בָּחַן (bāḥan) — To test, to refine. Often applied to metals and the heart.
+
+v24: עוֹלָם (ʿôlām) — Everlasting, ancient. Names duration without specifying its end.
+
 v01: חָקַר (ḥāqar)
 “To search out, to examine deeply.”
 
@@ -115,6 +132,3 @@ v05: צוּר (ṣûr)
 
 v08: שְׁאוֹל (šəʾôl)
 “Sheol, the realm of the dead.”
-
-v13: רָקַם (rāqam)
-“To weave, to embroider. The verb of skilled craft.”

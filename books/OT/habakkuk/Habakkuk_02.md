@@ -198,11 +198,32 @@ v20: The chapter closes not with another human taunt but with the LORD’s prese
 v01: מִשְׁמֶרֶת (mishmeret)
 “Watchpost” or “guard station.” The place where Habakkuk waits for an answer.
 
+v02: חָזוֹן (chazon)
+“Vision.” Prophetic revelation that is to be written publicly.
+
+v03: מוֹעֵד (moed)
+“Appointed time.” The fixed time toward which the vision moves.
+
 v04: אֱמוּנָה (emunah)
 “Faithfulness,” “reliability,” or “firmness.” The quality by which the righteous lives.
 
 v05: שְׁאוֹל (Sheol)
 “Sheol.” The realm of the dead, pictured as never satisfied.
 
+v06: מָשָׁל (mashal)
+“Taunt,” “proverb,” or “comparison.” The nations take up a mocking saying against the oppressor.
+
+v08: שָׁלַל (shalal)
+“To plunder.” The plunderer will himself become plunder.
+
+v12: דָּמִים (damim)
+“Bloodshed” or “bloodguilt.” Blood upon which the violent city is built.
+
 v14: כָּבוֹד (kavod)
 “Glory.” The weight and manifest honor of the LORD.
+
+v18: פֶּסֶל (pesel)
+“Carved image.” An idol fashioned by human workmanship.
+
+v20: הַס (has)
+“Be silent!” A command to hush before the LORD’s presence.

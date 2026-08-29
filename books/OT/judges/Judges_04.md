@@ -83,6 +83,58 @@ v9: The narrative redirects honor. Victory will come, but not in expected form�
 
 ##Vocabulary
 
+v1: רַע (raʿ)  
+
+“Evil.” What is contrary to covenantal order.
+
+v2: מָכַר (māḵar)  
+
+“To sell.” To hand over into another’s power.
+
+v3: לָחַץ (lāḥaṣ)  
+
+“To oppress.” To press hard, afflict.
+
+v3: זָעַק (zāʿaq)  
+
+“To cry out.” To call for help in distress.
+
+v4: נְבִיאָה (neḇîʾāh)  
+
+“Prophetess.” One who speaks for God.
+
+v4: שָׁפַט (šāpaṭ)  
+
+“To judge.” To govern or decide.
+
+v5: תֹּמֶר (tōmer)  
+
+“Palm tree.” Landmark of Deborah’s authority.
+
+v6: צָוָה (ṣāwāh)  
+
+“To command.” To give authoritative instruction.
+
+v6: קָבַץ (qāḇaṣ)  
+
+“To gather.” To assemble for action.
+
+v7: מָשַׁךְ (māšaḵ)  
+
+“To draw out.” To pull or lead forth.
+
+v7: נָתַן (nāṯan)  
+
+“To give.” To deliver into someone’s hand.
+
+v8: הָלַךְ (hālaḵ)  
+
+“To go.” To proceed or act.
+
+v9: תִּפְאֶרֶת (tip̄ʾereṯ)  
+
+“Glory/honor.” Public recognition or renown.
+
 v01: רַע (raʿ)
 “Evil.” What is contrary to covenantal order.
 

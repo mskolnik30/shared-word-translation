@@ -150,5 +150,17 @@ v16: מִשְׁפָּט (mishpat)
 v17: נָכַר פָּנִים (nakhar panim)
 “To recognize faces.” An idiom for partiality.
 
+v22: חָפַר (chafar)
+“To explore” or “search out.” Used of examining the land.
+
+v26: מָרָה (marah)
+“To rebel.” To resist authoritative command.
+
 v32: אָמַן (aman)
 “To trust” or “believe.” Israel fails to trust the LORD.
+
+v36: מָלֵא אַחֲרֵי (male acharei)
+“To fully follow.” Caleb’s wholehearted allegiance.
+
+v43: זִיד (zid)
+“To act presumptuously.” To act arrogantly against command.

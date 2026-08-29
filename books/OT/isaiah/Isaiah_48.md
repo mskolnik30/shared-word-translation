@@ -79,11 +79,14 @@ v20: “servant” — Isaiah uses servant language in several contexts. TSW pre
 v17: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
-v02: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+v17: גֹּאֵל (go'el)
+“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
+
+v2: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
 
 v20: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.
 
-v17: גֹּאֵל (go'el)
-“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
+v02: יְהוָה צְבָאוֹת (YHWH tseva'ot)
+“LORD of Hosts.” A title joining the divine name to “hosts/armies.”

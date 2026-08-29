@@ -96,3 +96,6 @@ v12: גֹּאֵל הַדָּם (goel haddam)
 
 v24: שָׁפַט (shafat)
 “To judge.” To decide the case between manslayer and avenger.
+
+v33: חָנֵף (chanef)
+“To pollute” or “profane.” Here the land is polluted by bloodshed.

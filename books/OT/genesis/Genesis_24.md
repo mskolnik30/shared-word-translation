@@ -196,8 +196,9 @@ v67: Love is named explicitly, rare in Genesis narratives, paired with comfort.
 
 ##Vocabulary
 
-v03: אֶרֶץ (ʾereṣ)
-“Land.” Territory with covenant significance.
+v3: אֶרֶץ (ʾereṣ)  
+
+“Land.” Territory with covenant significance.  
 
 v12: חֶסֶד (ḥesed)
 “Steadfast love.” Covenant loyalty expressed in action.
@@ -208,5 +209,28 @@ v12: אֱמֶת (ʾemet)
 v14: יָכַח (yākaḥ)
 “To appoint, determine.” To designate rightly.
 
+v21: שָׁתָה (šātāh)  
+
+“To drink.” Used in hospitality context.  
+
+v27: דֶּרֶךְ (derek)  
+
+“Way.” Path, often implying guided direction.  
+
 v40: הָלַךְ (hālak)
 “To walk.” Used metaphorically for lived faithfulness.
+
+v50: דָּבָר (dābār)  
+
+“Word, matter.” Event or statement with authority.  
+
+v58: הָלַךְ (hālak)  
+
+“To go.” Movement with decisive commitment.  
+
+v67: אָהַב (ʾāhav)  
+
+“To love.” Relational attachment, often covenantal.  
+
+v03: אֶרֶץ (ʾereṣ)
+“Land.” Territory with covenant significance.

@@ -119,6 +119,63 @@ v35: Sustenance spans the wilderness period—provision is continuous, not episo
 
 ##Vocabulary
 
+v2: לוּן (lûn)  
+
+v2: “To grumble/murmur.” Complaint expressed collectively.  
+
+v4: מָטַר (māṭar)  
+
+v4: “To rain.” To send down from above.  
+
+v4: נָסָה (nāsāh)  
+
+v4: “To test.” To prove or examine fidelity.  
+
+v7: כָּבוֹד (kāḇôḏ)  
+
+v7: “Glory.” Weighty presence, visible manifestation.  
+
+v12: שָׂבַע (śāḇaʿ)
+“To be satisfied.” To be filled to fullness.
+
+v12: “To be satisfied.” To be filled to fullness.  
+
+v14: דַּק (daq)  
+
+v14: “Fine/thin.” Small, delicate in form.  
+
+v15: מָן (mān)  
+
+v15: “Manna.” From “What is it?”—unnamed provision.  
+
+v16: עֹמֶר (ʿōmer)  
+
+v16: “Omer.” A unit of measure for daily portion.  
+
+v20: בָּאַשׁ (bāʾaš)  
+
+v20: “To stink.” To become foul or spoiled.  
+
+v23: שַׁבָּת (šabbāṯ)  
+
+v23: “Sabbath.” Ceasing, rest set apart.  
+
+v29: נָתַן (nāṯan)  
+
+v29: “To give.” To grant or provide.  
+
+v30: שָׁבַת (šāḇaṯ)  
+
+v30: “To cease/rest.” To stop activity.  
+
+v33: צִנְצֶנֶת (ṣinṣeneṯ)  
+
+v33: “Jar.” Container for preservation.  
+
+v34: עֵדוּת (ʿēḏûṯ)  
+
+v34: “Testimony.” Witness or covenantal reminder.  
+
 v02: לוּן (lûn)
 “To grumble/murmur.” Complaint expressed collectively.
 
@@ -130,6 +187,3 @@ v04: נָסָה (nāsāh)
 
 v07: כָּבוֹד (kāḇôḏ)
 “Glory.” Weighty presence, visible manifestation.
-
-v12: שָׂבַע (śāḇaʿ)
-“To be satisfied.” To be filled to fullness.

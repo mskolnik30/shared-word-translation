@@ -113,5 +113,11 @@ v02: רָשַׁע (rasha)
 v08: עָצַב (atsav)
 “To shape” or “form.” God’s hands carefully form Job.
 
+v09: חֹמֶר (chomer)
+“Clay.” Human creatureliness and mortality.
+
 v12: חֶסֶד (ḥesed)
 “Steadfast love.” Faithful care Job recognizes in the gift of life.
+
+v21: צַלְמָוֶת (tsalmavet)
+“Death-shadow” or “deep darkness.” Job’s image for the realm of death.

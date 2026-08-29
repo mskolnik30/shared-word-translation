@@ -247,11 +247,35 @@ v32: Calling upon the name of the LORD and the LORD’s calling of survivors sta
 v01: שׁוֹפָר (shofar)
 “Ram’s horn.” Used to sound an alarm in Zion.
 
+v02: אֲפֵלָה (aphelah)
+“Gloom” or “deep darkness.”
+
+v11: חַיִל (chayil)
+“Army,” “force,” or “strength.” The advancing host is called the LORD’s army.
+
+v12: שׁוּב (shuv)
+“To return” or “turn back.” The central verb of the call to repentance.
+
+v13: חַנּוּן (channun)
+“Gracious.” Characterized by freely given favor.
+
 v13: חֶסֶד (ḥesed)
 “Steadfast love.” Faithful and enduring covenant love.
+
+v15: קָדַשׁ (qadash)
+“To consecrate.” To set apart the fast and congregation for sacred purpose.
+
+v18: חָמַל (chamal)
+“To have compassion” or “spare.”
+
+v23: מוֹרֶה (moreh)
+“Early rain,” possibly also “teacher” depending on vocalization and interpretation.
 
 v28: שָׁפַךְ (shafakh)
 “To pour out.” Used of the abundant giving of God’s Spirit.
 
 v28: רוּחַ (ruach)
 “Spirit,” “wind,” or “breath.” Here explicitly God’s Spirit.
+
+v32: מָלַט (malat)
+“To escape” or “be delivered.” Used of those who call on the name of the LORD.

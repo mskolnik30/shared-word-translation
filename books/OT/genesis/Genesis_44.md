@@ -87,14 +87,44 @@ v34: The chapter ends with Judah's self-sacrificial plea, preparing for Joseph's
 
 ##Vocabulary
 
+v2: גָּבִיעַ (gāḇîaʿ)  
+“Cup” or “goblet.” A drinking vessel that becomes central to Joseph's test.  
+
+v4: רָדַף (rāḏap̄)  
+“To pursue.” To follow after with the intent of overtaking.  
+
+v5: נָחַשׁ (nāḥaš)  
+“To practice divination.” To seek hidden knowledge through omens or signs.  
+
+v13: קָרַע (qāraʿ)  
+“To tear.” Often used of tearing garments in grief or anguish.  
+
+v14: נָפַל (nāp̄al)  
+“To fall down.” Here referring to bowing before one in authority.  
+
+v16: עָוֹן (ʿāwōn)
+“Guilt” or “iniquity.” Wrongdoing viewed together with its consequences.
+
+v17: עֶבֶד (ʿeḇeḏ)  
+“Slave” or “servant.” One under the authority of another.  
+
+v18: אַף (ʾap̄)
+“Anger” or “wrath.” Literally “nose,” often used figuratively for burning anger.
+
+v30: קָשַׁר (qāšar)  
+“To bind.” Used figuratively of lives being closely joined together.  
+
+v31: יָגוֹן (yāḡôn)  
+“Sorrow” or “grief.” Deep emotional suffering.  
+
+v32: עָרַב (ʿāraḇ)  
+“To stand surety.” To pledge oneself as guarantor for another.  
+
+v33: תַּחַת (taḥaṯ)  
+“In place of” or “instead of.” Language of substitution that is central to Judah's appeal.  
+
 v02: גָּבִיעַ (gāḇîaʿ)
 “Cup” or “goblet.” A drinking vessel that becomes central to Joseph's test.
 
 v04: רָדַף (rāḏap̄)
 “To pursue.” To follow after with the intent of overtaking.
-
-v16: עָוֹן (ʿāwōn)
-“Guilt” or “iniquity.” Wrongdoing viewed together with its consequences.
-
-v18: אַף (ʾap̄)
-“Anger” or “wrath.” Literally “nose,” often used figuratively for burning anger.

@@ -83,5 +83,8 @@ v10: זָר (zar)
 v18: נְדָבָה (nedavah)
 “Freewill offering.” A voluntary offering.
 
+v20: מוּם (mum)
+“Defect.” A condition rendering an animal unacceptable for certain offerings.
+
 v32: חִלֵּל (chillel)
 “To profane.” To treat the holy name as common or defiled.

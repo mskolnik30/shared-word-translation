@@ -76,6 +76,45 @@ v11: The book ends with an unanswered question, inviting readers to consider whe
 
 ##Vocabulary
 
+v1: רָעַע (rāʿaʿ)  
+“To be displeased.” To regard something as evil, wrong, or offensive.  
+
+v1: חָרָה (ḥārâ)  
+“To burn with anger.” A common expression for intense anger.  
+
+v2: חַנּוּן (ḥannûn)  
+“Gracious.” Showing favor and kindness that is undeserved.  
+
+v2: רַחוּם (raḥûm)  
+“Merciful” or “compassionate.” Deeply moved by the suffering or need of others.  
+
+v2: אֶרֶךְ אַפַּיִם (ʾereḵ ʾappayim)  
+“Slow to anger.” Literally “long of nostrils,” describing patient restraint.  
+
+v2: חֶסֶד (ḥeseḏ)  
+“Steadfast love.” Loyal covenant faithfulness and mercy.  
+
+v5: סֻכָּה (sukkâ)  
+“Shelter” or “booth.” A temporary structure providing shade.  
+
+v6: קִיקָיוֹן (qîqāyôn)  
+“Plant.” The fast-growing plant appointed by God to shade Jonah.  
+
+v7: תּוֹלַעַת (tôlaʿaṯ)  
+“Worm.” The creature appointed by God to destroy the plant.  
+
+v8: קָדִים (qādîm)  
+“East wind.” A hot, dry wind associated with harsh conditions.  
+
+v10: חוּס (ḥûs)  
+“To have compassion” or “to pity.” To spare or care deeply for another.  
+
+v11: נִינְוֵה (Nînĕwēh)  
+“Nineveh.” The great Assyrian city that repented at Jonah's preaching.  
+
+v11: בְּהֵמָה (bĕhēmâ)  
+“Animal” or “beast.” Domestic livestock included within God's concern.  
+
 v01: רָעַע (rāʿaʿ)
 “To be displeased.” To regard something as evil, wrong, or offensive.
 

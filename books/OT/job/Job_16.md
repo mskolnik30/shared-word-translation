@@ -114,5 +114,11 @@ v03: דִּבְרֵי־רוּחַ (divrei-ruach)
 v12: מַטָּרָה (mattarah)
 “Target.” Job describes himself as an object of divine attack.
 
+v15: קֶרֶן (qeren)
+“Horn.” A symbol of strength or dignity, here thrust into the dust.
+
 v19: עֵד (ed)
 “Witness.” Job claims a witness exists in heaven.
+
+v21: יָכַח (yakhach)
+“To argue,” “plead,” or “mediate.” Job longs for someone to argue his case with God.

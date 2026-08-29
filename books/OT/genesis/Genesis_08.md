@@ -74,14 +74,44 @@ v22: The closing poem affirms the stability of creation’s rhythms under divine
 
 ##Vocabulary
 
-v01: זָכַר (zākhar)
-“To remember.” Often can denote covenantal attention that leads to action rather than mere recollection.
+v1: זָכַר (zākhar)  
+“To remember.” Often signifies covenantal attention that leads to action rather than mere recollection.  
 
-v01: רוּחַ (rûaḥ)
-“Wind,” “breath,” or “spirit.” The word connects this scene with the opening movements of creation.
+v1: רוּחַ (rûaḥ)  
+“Wind,” “breath,” or “spirit.” The word connects this scene with the opening movements of creation.  
+
+v3: שׁוּב (shûḇ)  
+“To return” or “recede.” A common verb describing movement back from a previous state.  
+
+v4: נוּחַ (nûaḥ)  
+“To rest.” The ark’s resting anticipates themes associated with Noah’s name.  
+
+v8: יוֹנָה (yônâ)  
+“Dove.” The bird becomes a sign of the earth’s renewal.  
+
+v11: טָרָף (ṭārāph)  
+“To pluck” or “tear off.” Used of the freshly plucked olive leaf carried by the dove.  
+
+v17: שָׁרַץ (šāraṣ)  
+“To swarm.” A creation term describing abundant life spreading across the earth.  
 
 v20: מִזְבֵּחַ (mizbēaḥ)
 “Altar.” A place of sacrifice, worship, and encounter with God.
 
 v20: עֹלָה (ʿōlâ)
 “Burnt offering.” An offering wholly given over upon the altar.
+
+v21: רֵיחַ הַנִּיחוֹחַ (rēaḥ hannîḥōaḥ)  
+“Pleasing aroma.” A sacrificial expression indicating divine acceptance.  
+
+v21: יֵצֶר (yēṣer)  
+“Inclination.” The shaping tendency or disposition of the human heart.  
+
+v22: זֶרַע וְקָצִיר (zeraʿ wĕqāṣîr)  
+“Seedtime and harvest.” A pair expressing the ongoing rhythms that sustain life upon the earth.  
+
+v01: זָכַר (zākhar)
+“To remember.” Often can denote covenantal attention that leads to action rather than mere recollection.
+
+v01: רוּחַ (rûaḥ)
+“Wind,” “breath,” or “spirit.” The word connects this scene with the opening movements of creation.

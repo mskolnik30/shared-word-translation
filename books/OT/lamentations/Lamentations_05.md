@@ -150,5 +150,23 @@ v01: חֶרְפָּה (cherpah)
 v02: נַחֲלָה (nachalah)
 “Inheritance.” Land or possession received as an enduring allotment.
 
+v05: נוּחַ (nuach)
+“To rest.” To settle or receive relief from labor and pursuit.
+
+v07: סָבַל (saval)
+“To bear” or “carry.” To carry a burden, here the guilt or consequences of ancestors.
+
+v08: פָּרַק (paraq)
+“To tear away” or “deliver.” To break free from another’s control.
+
+v15: מָחוֹל (machol)
+“Dance.” Festive movement here turned into mourning.
+
 v16: עֲטֶרֶת (ateret)
 “Crown.” An image of honor, dignity, or glory.
+
+v21: שׁוּב (shuv)
+“To return” or “turn back.” Repeated in the prayer: the LORD turns the people, and they return.
+
+v22: מָאַס (ma'as)
+“To reject” or “despise.” To refuse or cast away.

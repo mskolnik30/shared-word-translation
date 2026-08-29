@@ -126,6 +126,45 @@ v14: The chapter concludes by emphasizing God's kingship over all nations, not m
 
 ##Vocabulary
 
+v1: מַשָּׂא (maśśāʾ)  
+“Oracle” or “burden.” A prophetic message bearing divine authority.  
+
+v2: אָהַב (ʾāhaḇ)  
+“To love.” Covenant affection and commitment.  
+
+v3: שָׂנֵא (śānēʾ)  
+“To hate.” Here expressing covenant rejection in contrast to covenant choice.  
+
+v6: כָּבֵד (kāḇēḏ)  
+“To honor.” To give proper weight, respect, and glory.  
+
+v14: יָרֵא (yārēʾ)  
+“To fear.” Reverent awe and respect toward God.  
+
+v14: נֶדֶר (neder)  
+“Vow.” A solemn promise made before God.  
+
+v14: מֶלֶךְ גָּדוֹל (meleḵ gādôl)  
+“Great King.” A title emphasizing God's universal sovereignty.  
+
+v14: נוֹרָא (nôrāʾ)  
+“Feared” or “awesome.” Inspiring reverence and awe.  
+
+v7: גָּאַל (gāʾal)  
+“To defile” or “pollute.” To treat as common what is holy.  
+
+v8: עִוֵּר (ʿiwwēr)  
+“Blind.” An animal disqualified for sacrifice.  
+
+v10: רָצוֹן (rāṣôn)  
+“Acceptance” or “favor.” Divine approval of worship.  
+
+v11: שֵׁם (šēm)  
+“Name.” Representing God's character, reputation, and authority.  
+
+v13: גָּזַל (gāzal)  
+“To seize” or “take by violence.” Property obtained unjustly.  
+
 v02: אָהַב (ʾāhaḇ)
 “To love.” Covenant affection and commitment.
 

@@ -119,11 +119,17 @@ v1–15: 1. **Israel's Sons (v1-2)**: The names included in this list cover the 
 
 ##Vocabulary
 
+v27: - **בְּכֹר (be.khor)**: (v27) This term means "firstborn," often indicating a privileged status in familial inheritance and responsibility within biblical narratives.  
+
 v27: בְּכֹר (bekhor)
 “Firstborn.” The term can mark birth order and the status attached to the firstborn within a household.
 
+v46: - **פִילֶגֶשׁ (pi.le.gesh)**: (v46) Translated as "concubine," this word denotes a secondary wife within the cultural context, holding legal rights but lesser status compared to primary wives.  
+
 v46: פִילֶגֶשׁ (pilegesh)
 “Concubine.” Denotes a secondary wife within the cultural context, holding legal rights but lesser status compared to primary wives.
+
+v3–55: - **יָלַד (ya.lad)**: Frequently appearing in the genealogical lineage, this verb means "to beget" or "to father," crucial for tracing lineage and fulfilling covenantal promises throughout the biblical narrative.  
 
 v03–55: יָלַד (yalad)
 “To bear; beget; father.” The recurring verb traces descent through the genealogy.

@@ -93,8 +93,29 @@ v01: פֶּסַח (pesach)
 v03: לֶחֶם עֹנִי (lechem oni)
 “Bread of affliction.” Unleavened bread tied to exodus hardship.
 
+v08: עֲצֶרֶת (atseret)
+“Solemn assembly.” A sacred concluding gathering.
+
+v10: חַג שָׁבֻעוֹת (chag shavuot)
+“Festival of Weeks.” The grain-harvest pilgrimage festival.
+
+v13: חַג הַסֻּכּוֹת (chag ha-sukkot)
+“Festival of Booths.” The autumn ingathering festival.
+
 v18: שֹׁפֵט (shofet)
 “Judge.” One appointed to administer justice.
 
+v19: שֹׁחַד (shochad)
+“Bribe.” A payment that corrupts judgment.
+
+v20: צֶדֶק (tsedeq)
+“Justice” or “righteousness.” Repeated for emphasis.
+
 v20: צֶדֶק (tsedeq)
 “Justice” or “righteousness.” The word is repeated in the command, “Justice, justice you shall pursue.”
+
+v21: אֲשֵׁרָה (Asherah)
+“Asherah.” A cultic tree or pole associated with rival worship.
+
+v22: מַצֵּבָה (matsevah)
+“Pillar.” A standing cultic stone.

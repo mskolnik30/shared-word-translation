@@ -78,14 +78,26 @@ v1: “servant” — Isaiah uses servant language in several contexts. TSW pres
 
 ##Vocabulary
 
+v6: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v6: גֹּאֵל (go'el)  
+“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.  
+
+v1: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
+
+v3: רוּחַ (ruach)  
+“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.  
+
 v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v01: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
 v06: גֹּאֵל (go'el)
 “Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
+
+v01: עֶבֶד (eved)
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
 
 v03: רוּחַ (ruach)
 “Spirit,” “wind,” or “breath.” A term whose sense is determined by context.

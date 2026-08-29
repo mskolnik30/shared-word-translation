@@ -64,3 +64,9 @@ v09: מֶלֶט (melet)
 
 v10: שַׁפְרִיר (shafrir)
 “Royal canopy” or “pavilion.” A rare word describing Nebuchadnezzar’s authority over the site.
+
+v12: עָטָה (atah)
+“To wrap” or “envelop.” Used in the shepherd-and-garment comparison.
+
+v13: מַצֵּבָה (matsevah)
+“Pillar.” Standing stones associated here with Egyptian worship.

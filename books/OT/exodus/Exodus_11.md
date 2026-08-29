@@ -50,6 +50,16 @@ v08: “the people at your feet”: The phrase may refer to those who follow Mos
 
 ##Vocabulary
 
+v1: **11:1 — נֶגַע (*negaʿ*):** “Blow” or “affliction.” Here it names the final judgment that will compel Pharaoh not merely to release Israel but to drive them away.  
+
+v3: **11:3 — חֵן (*ḥēn*):** “Favor.” The LORD gives Israel favor in Egyptian eyes, reversing the expected relation between an enslaved people and the land that has oppressed them.  
+
+v5: **11:5 — בְּכוֹר (*bekhôr*):** “Firstborn.” Repeated through the verse, the term marks the scope of the coming death across human households and livestock.  
+
+v7: **11:7 — יַפְלֶה (*yapleh*):** “Makes a distinction” or “sets apart.” The verb emphasizes the LORD’s decisive differentiation between Egypt and Israel in this judgment.  
+
+v9: **11:9 — מוֹפֵת (*môpēt*):** “Sign” or “wonder.” These acts are not merely displays of power; they make known the LORD’s purpose within Egypt.  
+
 v01: נֶגַע (negaʿ)
 “Blow” or “affliction.” Here it names the final judgment that will compel Pharaoh not merely to release Israel but to drive them away.
 

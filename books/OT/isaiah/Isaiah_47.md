@@ -56,6 +56,18 @@ v4: “Redeemer” — The Hebrew *go’el* is a family and legal term for one w
 
 ##Vocabulary
 
+v1: בַּת־בָּבֶל (bat Bavel)  
+“Daughter Babylon.” Poetic personification of the imperial city.  
+
+v4: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+“Holy One of Israel.” A recurring Isaianic designation for the LORD.  
+
+v4: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v4: גֹּאֵל (go'el)  
+“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.  
+
 v01: בַּת־בָּבֶל (bat Bavel)
 “Daughter Babylon.” Poetic personification of the imperial city.
 

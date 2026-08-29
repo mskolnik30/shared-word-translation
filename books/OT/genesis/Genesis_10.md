@@ -83,6 +83,39 @@ v32: The chapter emphasizes both common ancestry and the diversity of nations sp
 
 ##Vocabulary
 
+v1: תּוֹלְדוֹת (tôlĕdôt)  
+“Generations” or “account.” A structural marker introducing a new section of Genesis.  
+
+v5: אִיִּים (ʾiyyîm)  
+“Coastland peoples” or “islands.” A term often referring to distant maritime regions.  
+
+v8: גִּבּוֹר (gibbôr)  
+“Mighty one” or “warrior.” Describes strength, prominence, or exceptional power.  
+
+v9: צַיִד (ṣayiḏ)  
+“Hunting” or “game.” Associated here with Nimrod’s reputation as a hunter.  
+
+v10: מַמְלָכָה (mamlākâ)
+“Kingdom.” Organized rule extending beyond a single settlement.
+
+v19: גְּבוּל (gĕḇûl)  
+“Boundary” or “territory.” Marks the geographical extent of a people.  
+
+v21: עֵבֶר (ʿĒḇer)  
+“Eber.” Ancestor whose name is traditionally associated with the Hebrews.  
+
+v25: פֶּלֶג (Peleg)  
+“Division.” The name is connected with the verb meaning “to divide” or “split.”  
+
+v31: לָשׁוֹן (lāšôn)  
+“Language” or “tongue.” A marker of distinction among peoples and nations.  
+
+v32: גּוֹי (gôy)  
+“Nation.” A people group defined by common identity, land, or ancestry.  
+
+v18: פּוּץ (pûṣ)  
+“To scatter” or “spread abroad.” The verb describes the dispersal of peoples across the earth.  
+
 v01: תּוֹלְדוֹת (tôlĕdôt)
 “Generations” or “account.” A structural marker introducing a new section of Genesis.
 
@@ -91,6 +124,3 @@ v05: אִיִּים (ʾiyyîm)
 
 v08: גִּבּוֹר (gibbôr)
 “Mighty one” or “warrior.” Describes strength, prominence, or exceptional power.
-
-v10: מַמְלָכָה (mamlākâ)
-“Kingdom.” Organized rule extending beyond a single settlement.

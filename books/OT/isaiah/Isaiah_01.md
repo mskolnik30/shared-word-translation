@@ -78,6 +78,18 @@ v9: “remnant” — Isaiah repeatedly speaks of those who remain through judgm
 
 ##Vocabulary
 
+v1: חָזוֹן (chazon)  
+“Vision.” Prophetic revelation or what is seen in prophetic disclosure.  
+
+v4: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+“Holy One of Israel.” A recurring Isaianic designation for the LORD.  
+
+v9: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v9: שְׁאָר (she'ar)  
+“Remnant.” Those who remain or survive.  
+
 v01: חָזוֹן (chazon)
 “Vision.” Prophetic revelation or what is seen in prophetic disclosure.
 

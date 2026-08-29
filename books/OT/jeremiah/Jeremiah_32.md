@@ -137,5 +137,11 @@ v14: כְּלִי חֶרֶשׂ (keli cheres)
 v17: פָּלָא (pala)
 “To be wonderful” or “too difficult.” Nothing lies beyond the LORD’s power.
 
+v35: תּוֹעֵבָה (toevah)
+“Abomination.” A deeply detestable act.
+
 v40: בְּרִית עוֹלָם (berit olam)
 “Everlasting covenant.” A covenant described as enduring.
+
+v44: שׁוּב שְׁבוּת (shuv shevut)
+“To restore the fortunes.” The promised reversal concluding the chapter.

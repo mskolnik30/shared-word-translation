@@ -64,6 +64,42 @@ v23–27: Abraham responds with immediate obedience. The covenant sign is enacte
 
 ##Vocabulary
 
+v1: אֵל שַׁדַּי (ʾEl Šadday)  
+“God Almighty.” A divine title associated with power, sufficiency, and covenant promise.  
+
+v1: תָּמִים (tāmîm)  
+“Blameless” or “whole.” Describes integrity and undivided devotion.  
+
+v2: בְּרִית (bĕrît)  
+“Covenant.” A binding relationship established and sustained by divine commitment.  
+
+v5: אַבְרָהָם (ʾAḇrāhām)  
+“Abraham.” The name is associated with being “father of a multitude.”  
+
+v6: פָּרָה (pārâ)  
+“To be fruitful.” A recurring covenant word connected with multiplication and blessing.  
+
+v10: מוּל (mûl)
+“To circumcise.” The act that serves as the covenant sign in Abraham’s family.
+
+v11: אוֹת (ʾôt)  
+“Sign.” A visible mark that points to a covenant reality.  
+
+v15: שָׂרָה (Śārâ)  
+“Sarah.” Often understood as “princess” or “noble woman.”  
+
+v19: יִצְחָק (Yiṣḥāq)  
+“Isaac.” Meaning “he laughs” or “may he laugh.”  
+
+v20: שְׁנֵים־עָשָׂר נְשִׂיאִם (šĕnêm-ʿāśār nĕśîʾîm)  
+“Twelve princes.” Tribal leaders or rulers descended from Ishmael.  
+
+v21: מוֹעֵד (môʿēḏ)  
+“Appointed time.” A fixed time determined by God.  
+
+v23: עֶצֶם הַיּוֹם הַזֶּה (ʿeṣem hayyôm hazzeh)  
+“That very day.” An expression emphasizing immediacy and exactness.  
+
 v01: אֵל שַׁדַּי (ʾEl Šadday)
 “God Almighty.” A divine title associated with power, sufficiency, and covenant promise.
 
@@ -72,6 +108,3 @@ v02: בְּרִית (bĕrît)
 
 v06: פָּרָה (pārâ)
 “To be fruitful.” A recurring covenant word connected with multiplication and blessing.
-
-v10: מוּל (mûl)
-“To circumcise.” The act that serves as the covenant sign in Abraham’s family.

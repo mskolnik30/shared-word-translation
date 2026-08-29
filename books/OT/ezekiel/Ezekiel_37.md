@@ -89,6 +89,42 @@ v14: “Then you shall know… I have spoken, and I have done it” — God’s 
 
 ##Vocabulary
 
+v1: יָד (yad) — hand
+
+v1: רוּחַ (ruach) — spirit; breath; wind
+
+v1: בִּקְעָה (biq‘ah) — valley; plain
+
+v2: עֶצֶם (ʿetsem) — bone
+
+v3: בֶּן־אָדָם (ben-’adam) — mortal; human one (“son of man”)
+
+v4: נָבָא (nava) — to prophesy; to speak forth
+
+v5: רוּחַ (ruach) — breath; spirit (life given by God)
+
+v6: גִּיד (gid) — sinew; tendon
+
+v6: בָּשָׂר (basar) — flesh
+
+v6: עוֹר (ʿor) — skin
+
+v7: רַעַשׁ (raʿash) — shaking; rattling; trembling
+
+v9: רוּחַ (ruach) — wind; breath (context determines nuance)
+
+v10: חַיִל (chayil) — strength; force; army
+
+v11: תִּקְוָה (tiqvah) — hope
+
+v11: גָּזַר (gazar) — to cut off; to be severed
+
+v12: קֶבֶר (qever) — grave; tomb
+
+v12: פָּתַח (patach) — to open
+
+v14: אַדָמָה (’adamah) — soil; ground; land
+
 v01: יָד (yad)
 “Hand.”
 

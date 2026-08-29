@@ -102,5 +102,23 @@ v03: בְּנֵי הַנְּבִיאִים (bene ha-nevi'im)
 v08: אַדֶּרֶת (adderet)
 “Cloak” or mantle. Elijah’s prophetic garment.
 
+v09: פִּי שְׁנַיִם (pi shenayim)
+“Double portion.” The firstborn inheritance share.
+
+v11: רֶכֶב אֵשׁ (rekhev esh)
+“Chariot of fire.”
+
+v14: בָּקַע (baqa)
+“To divide” or split. The Jordan opens before Elisha.
+
+v21: רָפָא (rapha)
+“To heal.” The LORD heals Jericho’s water.
+
+v23: קֵרֵחַ (qereach)
+“Bald.” The insult directed at Elisha.
+
 v24: קָלַל (qalal)
 “To curse.” Elisha pronounces judgment in the LORD’s name.
+
+v24: בָּקַע (baqa)
+“To tear open” or maul. Used of the bears’ attack.

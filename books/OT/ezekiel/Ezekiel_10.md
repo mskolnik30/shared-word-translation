@@ -51,8 +51,10 @@ v18: The movement of the LORD's glory signifies a transition and often marks shi
 
 ##Vocabulary
 
-v01: כְּרוּב (keruv)
-“cherub"; a powerful angelic being often associated with the presence and glory of God in the temple and heavenly visions.
+v1: **כְּרוּב** (ke.ruv) - "cherub"; a powerful angelic being often associated with the presence and glory of God in the temple and heavenly visions.  
 
 v13: גַּלְגַּל (galgal)
 “wheel"; used here to describe the complex and mysterious motions related to divine chariot imagery, marking the presence of God's dynamic and heavenly chariot.
+
+v01: כְּרוּב (keruv)
+“cherub"; a powerful angelic being often associated with the presence and glory of God in the temple and heavenly visions.

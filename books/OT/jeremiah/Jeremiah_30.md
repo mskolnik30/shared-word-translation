@@ -186,5 +186,17 @@ v07: צָרָה (tsarah)
 v08: עֹל (ol)
 “Yoke.” A burden of domination or forced service.
 
+v11: יָסַר (yasar)
+“To discipline” or “correct.” Judgment intended to set right rather than annihilate.
+
+v12: שֶׁבֶר (shever)
+“Breaking,” “fracture,” or “ruin.” A severe injury or collapse.
+
+v17: אֲרוּכָה (arukhah)
+“Healing” or “restoration.” Recovery from a wound.
+
 v21: עָרַב אֶת־לִבּוֹ (arav et-libbo)
 “To pledge his heart.” A rare idiom describing one who ventures or commits to approach.
+
+v23: סַעַר (sa'ar)
+“Storm” or “tempest.” An image of the LORD’s sweeping judgment.

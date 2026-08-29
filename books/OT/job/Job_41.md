@@ -155,3 +155,9 @@ v04: בְּרִית (berit)
 
 v15: מָגֵן (magen)
 “Shield.” Leviathan’s scales or back are compared with tightly joined shields.
+
+v24: פֶּלַח תַּחְתִּית (pelach tachti)
+“Lower millstone.” A heavy stone used as an image of Leviathan’s hardness.
+
+v31: תְּהוֹם (tehom)
+“Deep.” The great waters Leviathan makes boil.

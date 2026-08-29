@@ -64,5 +64,14 @@ v05: אִגֶּרֶת (iggeret)
 v08: בָּדָא (bada)
 “To invent” or “devise.” To create a claim from one’s own mind.
 
+v09: חָזַק (chazaq)
+“To strengthen.” Used in Nehemiah’s prayer concerning his hands.
+
+v12: נָכַר (nakhar)
+“To recognize” or “discern.” Nehemiah perceives that the prophecy did not come from God.
+
+v13: יָרֵא (yare)
+“To fear.” Fear is repeatedly used as the intended instrument of coercion.
+
 v16: נָפַל (nafal)
 “To fall.” In the idiom, the surrounding peoples “fall in their own eyes,” losing confidence.

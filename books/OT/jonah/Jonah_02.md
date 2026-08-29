@@ -72,6 +72,45 @@ v10: Jonah's deliverance prepares him for a renewed commission in the following 
 
 ##Vocabulary
 
+v1: תְּפִלָּה (tĕpillâ)
+“Prayer.” A spoken appeal directed to God.
+
+v2: צָרָה (ṣārâ)
+“Distress” or “trouble.” Severe hardship or affliction.
+
+v2: שְׁאוֹל (Šĕʾôl)
+“Sheol.” The realm of the dead, often associated with death and destruction.
+
+v3: מְצוּלָה (mĕṣûlâ)
+“The deep.” The depths of the sea.
+
+v3: מִשְׁבָּר (mišbār)
+“Breaker” or “wave.” A powerful surge of water.
+
+v4: הֵיכַל קָדְשֶׁךָ (hêḵal qodšeḵā)
+“Your holy temple.” The place associated with God's presence and worship.
+
+v6: שַׁחַת (šaḥaṯ)
+“Pit.” A term often associated with destruction, death, or the grave.
+
+v7: זָכַר (zāḵar)
+“To remember.” To call to mind and turn one's attention toward.
+
+v8: הֶבֶל (heḇel)
+“Vanity” or “worthlessness.” Something empty, futile, or powerless.
+
+v8: חֶסֶד (ḥeseḏ)
+“Covenant loyalty” or “steadfast love.” Faithful devotion within a covenant relationship.
+
+v9: נֶדֶר (neder)
+“Vow.” A solemn promise made before God.
+
+v9: יְשׁוּעָה (yĕšûʿâ)
+“Salvation” or “deliverance.” Rescue that comes from God.
+
+v10: קִיא (qîʾ)
+“To vomit.” To expel forcefully, describing the fish releasing Jonah onto the land.
+
 v02: שְׁאוֹל (Šĕʾôl)
 “Sheol.” The realm of the dead, often associated with death and destruction.
 

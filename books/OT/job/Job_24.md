@@ -125,5 +125,11 @@ v02: גְּבוּל (gevul)
 v03: חָבַל (chaval)
 “To take as a pledge.” Debt security seized from the vulnerable.
 
+v08: מַחְסֶה (machaseh)
+“Shelter” or “refuge.” The poor lack shelter from mountain rain.
+
+v13: מָרַד (marad)
+“To rebel.” The wicked are described as rebels against the light.
+
 v19: שְׁאוֹל (Sheol)
 “Sheol.” The realm of death that consumes sinners as heat consumes snow water.

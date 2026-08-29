@@ -52,6 +52,36 @@ v8: Salvation is claimed as belonging to the LORD, not the individual.
 
 ##Vocabulary
 
+v1: צָר (tsar)  
+“Foe.” Adversary.  
+
+v2: נֶפֶשׁ (nephesh)  
+“Soul.” Life or self.  
+
+v3: מָגֵן (magen)  
+“Shield.” Protection.  
+
+v3: כָּבוֹד (kavod)  
+“Glory.” Honor or weight.  
+
+v3: רוּם (rum)  
+“To lift.” Raise up.  
+
+v4: קָרָא (qara)  
+“To cry out.” Call loudly.  
+
+v5: יָשֵׁן (yashen)  
+“To sleep.” Rest.  
+
+v5: סָמַךְ (samak)  
+“To sustain.” Support.  
+
+v7: נָכָה (nakah)  
+“To strike.” Hit or defeat.  
+
+v8: יְשׁוּעָה (yeshuah)  
+“Salvation.” Deliverance.  
+
 v01: צָר (tsar)
 “Foe.” Adversary.
 

@@ -95,6 +95,42 @@ v09: The narrative employs a wordplay between Babel and the verb “to confuse.�
 
 ##Vocabulary
 
+v1: שָׂפָה (śāpâ)  
+“Language,” “lip,” or “speech.” A term emphasizing shared communication.  
+
+v4: שֵׁם (šēm)  
+“Name.” Often signifies reputation, identity, or lasting significance.  
+
+v4: פּוּץ (pûṣ)  
+“To scatter.” A key verb in the Babel narrative, describing dispersal across the earth.  
+
+v5: יָרַד (yāraḏ)  
+“To go down.” The verb underscores the contrast between divine perspective and human ambition.  
+
+v7: בָּלַל (bālal)  
+“To confuse” or “mix.” The verb that provides the wordplay behind Babel.  
+
+v9: בָּבֶל (Bāḇel)  
+“Babel.” The city associated with confusion and scattering in the biblical narrative.  
+
+v10: תּוֹלְדוֹת (tôlĕdôt)  
+“Generations” or “account.” A recurring structural marker in Genesis.  
+
+v29: אָב (ʾāḇ)  
+“Father.” A foundational genealogical term emphasizing lineage and inheritance.  
+
+v30: עֲקָרָה (ʿăqārâ)  
+“Barren.” Describes inability to bear children and often introduces themes of divine intervention.  
+
+v31: כְּנַעַן (Kĕnaʿan)  
+“Canaan.” The land that becomes central to God’s promises to Abram and his descendants.  
+
+v31: יָצָא (yāṣāʾ)  
+“To go out.” Frequently associated with journeys, departures, and divine calling.  
+
+v32: מוּת (mûṯ)  
+“To die.” The recurring reminder of mortality that continues throughout the genealogies.  
+
 v01: שָׂפָה (śāpâ)
 “Language,” “lip,” or “speech.” A term with a sense of shared communication.
 

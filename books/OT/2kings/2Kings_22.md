@@ -88,11 +88,29 @@ v20: Josiah later dies violently in battle in chapter 23. “Gathered … in pea
 v02: יָשָׁר (yashar)
 “Right.” Josiah does what is right in the LORD’s eyes.
 
+v04: תָּמַם (tamam)
+“To count completely” or total. Hilkiah totals temple funds.
+
+v05: בֶּדֶק (bedeq)
+“Damage” or breach. Temple deterioration needing repair.
+
 v07: אֱמוּנָה (emunah)
 “Faithfulness.” The workers are trustworthy.
 
 v08: סֵפֶר הַתּוֹרָה (sefer ha-torah)
 “Book of the instruction.”
 
+v13: דָּרַשׁ (darash)
+“To inquire.” Josiah seeks the LORD concerning the book.
+
 v14: נְבִיאָה (nevi'ah)
 “Prophet.” The title given to Huldah.
+
+v19: רַךְ לֵב (rakh lev)
+“Tender heart.” A heart responsive to the divine word.
+
+v19: כָּנַע (kana)
+“To humble oneself.”
+
+v20: אָסַף (asaf)
+“To gather.” Josiah will be gathered to his ancestors.

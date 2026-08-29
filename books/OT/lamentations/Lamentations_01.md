@@ -211,5 +211,23 @@ v01: מַס (mas)
 v02: מְנַחֵם (menachem)
 “Comforter.” One who brings consolation or relief in grief.
 
+v03: מְצָרִים (metsarim)
+“Narrow places” or “straits.” Constricted places used as an image of distress.
+
 v05: פֶּשַׁע (pesha)
 “Transgression” or “rebellion.” Wrongdoing that breaks proper relationship.
+
+v08: נִדָּה (niddah)
+“Impurity.” A state of uncleanness or exclusion, used here as an image of Jerusalem’s humiliation.
+
+v12: מַכְאוֹב (makh'ov)
+“Pain” or “suffering.” Deep affliction experienced bodily and inwardly.
+
+v14: עֹל (ol)
+“Yoke.” A burden placed on the neck, here used for the weight of transgressions.
+
+v18: מָרָה (marah)
+“To rebel.” To resist or defy authoritative speech.
+
+v22: דַּוָּי (davvai)
+“Faint” or “sick.” A condition of inward weakness and pain.

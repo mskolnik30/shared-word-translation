@@ -98,14 +98,50 @@ v19–20: Final appeal centers on human limitation before divine authority.
 
 ##Vocabulary
 
+v1: יָדָה (yadah)  
+“To give thanks.” Praise.  
+
+v1: סָפַר (saphar)  
+“To recount.” Tell in detail.  
+
+v2: עָלַז (‘alaz)  
+“To exult.” Rejoice greatly.  
+
+v4: דִּין (din)  
+“To judge.” Render justice.  
+
+v5: מָחָה (machah)  
+“To blot out.” Erase.  
+
+v7: יָשַׁב (yashav)  
+“To sit.” Be enthroned.  
+
+v9: מִשְׂגָּב (misgav)  
+“Stronghold.” High refuge.  
+
+v10: בָּטַח (batach)
+“To trust.” Rely upon.
+
+v12: דָּרַשׁ (darash)  
+“To seek.” Investigate or require.  
+
+v15: טָבַע (tava‘)  
+“To sink.” Go down.  
+
+v16: נוֹקֵשׁ (noqesh)  
+“To be snared.” Trapped.  
+
+v17: שְׁאוֹל (sheol)
+“Grave.” Realm of the dead.
+
+v18: אֶבְיוֹן (evyon)  
+“Needy.” Poor.  
+
+v20: אֱנוֹשׁ (‘enosh)  
+“Human.” Mortal person.  
+
 v01: יָדָה (yadah)
 “To give thanks.” Praise.
 
 v04: דִּין (din)
 “To judge.” Render justice.
-
-v10: בָּטַח (batach)
-“To trust.” Rely upon.
-
-v17: שְׁאוֹל (sheol)
-“Grave.” Realm of the dead.

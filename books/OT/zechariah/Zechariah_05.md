@@ -58,6 +58,24 @@ v06: “This is their appearance” — The Masoretic Hebrew literally refers to
 
 ##Vocabulary
 
+v1: מְגִלָּה (megillah)  
+“Scroll.” A rolled written document, here flying through the vision as an instrument of judgment.  
+
+v3: אָלָה (alah)  
+“Curse.” A solemn judgment or sanction associated with violated covenant obligations.  
+
+v6: אֵיפָה (ephah)  
+“Ephah.” A standard dry measure and the container associated with that measure.  
+
+v8: רִשְׁעָה (rishah)  
+“Wickedness.” Wrongdoing or moral evil, personified here within the ephah.  
+
+v9: רוּחַ (ruach)  
+“Wind,” “spirit,” or “breath.” Here wind is in the women’s wings, enabling their movement.  
+
+v11: שִׁנְעָר (Shinar)  
+“Shinar.” A biblical geographical designation associated with the region of Babylon.  
+
 v01: מְגִלָּה (megillah)
 “Scroll.” A rolled written document, here flying through the vision as an instrument of judgment.
 

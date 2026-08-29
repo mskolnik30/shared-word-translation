@@ -65,6 +65,9 @@ v02: חֻקַּת הַתּוֹרָה (chuqqat hattorah)
 v02: פָּרָה אֲדֻמָּה (parah adummah)
 “Red heifer.” The animal required for the purification rite.
 
+v06: אֵזוֹב (ezov)
+“Hyssop.” A small plant used in purification rituals.
+
 v09: מֵי נִדָּה (mei niddah)
 “Water of purification.” Literally “water of impurity,” water prepared to remove corpse impurity.
 

@@ -129,6 +129,54 @@ v15: “startle many nations… kings… shut their mouths” — The Servant’
 
 ##Vocabulary
 
+v1: עוּר (ʿur) — to awake; to rouse
+
+v1: עֹז (ʿoz) — strength; might
+
+v2: עָפָר (ʿafar) — dust
+
+v2: מוֹסֵר (moser) — bond; fetter; restraint
+
+v3: גָּאַל (ga’al) — to redeem; to reclaim as kin-redeemer
+
+v4: גּוּר (gur) — to sojourn; to reside as a resident alien
+
+v5: בָּזָה (bazah) — to despise; to treat with contempt
+
+v6: יָדַע (yadaʿ) — to know (relational knowing)
+
+v6: שֵׁם (shem) — name
+
+v7: בָּשַׂר (basar) — to bring good news; to announce
+
+v7: שָׁלוֹם (shalom) — peace; wholeness
+
+v7: יְשׁוּעָה (yeshu‘ah) — salvation; deliverance
+
+v8: צָפָה (tsafah) — to watch; to keep lookout
+
+v9: נָחַם (naḥam) — to comfort; to console
+
+v10: זְרוֹעַ (zeroaʿ) — arm (symbol of power)
+
+v11: טָמֵא (ṭame’) — unclean; defiled
+
+v11: טָהֵר (ṭaher) — to be clean; to purify
+
+v12: חִפָּזוֹן (ḥippazon) — haste; panic flight
+
+v12: אָסַף (’asaf) — to gather; to bring in (used for rear-guard imagery)
+
+v13: עֶבֶד (ʿeved) — servant
+
+v13: שָׂכַל (sakal) — to act wisely; to prosper; to have insight
+
+v14: שָׁחַת (shaḥat) — to be marred; to be ruined/corrupted (appearance)
+
+v15: נָזָה (nazah) — to sprinkle; to startle (sense debated in context)
+
+v15: גּוֹיִם (goyim) — nations; peoples
+
 v03: גָּאַל (ga’al)
 “To redeem; to reclaim as kin-redeemer.”
 

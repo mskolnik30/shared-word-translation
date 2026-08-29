@@ -119,8 +119,20 @@ v01: חֹשֵׁב (choshev)
 v06: קֶרֶס (qeres)
 “Clasp.” A fastener joining curtain sets together.
 
+v15: קֶרֶשׁ (qeresh)
+“Frame” or “board.” Upright structural elements of the dwelling.
+
 v17: יָדוֹת (yadot)
 “Tenons,” literally “hands.” Projecting supports fitted into bases.
 
+v19: אֶדֶן (eden)
+“Base” or “socket.” The foundation fitting under a frame.
+
+v26: בְּרִיחַ (beriach)
+“Crossbar.” A horizontal structural bar.
+
 v31: פָּרֹכֶת (parokhet)
 “Veil.” The curtain separating the Most Holy Place.
+
+v36: מָסָךְ (masakh)
+“Screen.” The entrance curtain of the tent.

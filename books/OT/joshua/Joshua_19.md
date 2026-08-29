@@ -157,3 +157,6 @@ v49: נָחַל (nachal)
 
 v50: פִּי יְהוָה (pi YHWH)
 “Command of the LORD,” literally “mouth of the LORD.”
+
+v51: אֹהֶל מוֹעֵד (ohel moed)
+“Tent of meeting.” The sanctuary at Shiloh before which the allotment is completed.

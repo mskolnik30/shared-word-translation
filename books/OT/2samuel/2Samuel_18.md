@@ -140,8 +140,26 @@ v03: שִׂים לֵב (sim lev)
 v05: אַט (at)
 “Gently.” David’s command concerning Absalom.
 
+v08: יַעַר (ya'ar)
+“Forest.” Personified as devouring combatants.
+
+v09: אֵלָה (elah)
+“Terebinth” or large tree.
+
+v14: שֵׁבֶט (shevet)
+“Staff” or “rod.” The objects Joab thrusts into Absalom.
+
+v16: שׁוֹפָר (shofar)
+“Ram’s horn.” Joab’s signal to stop pursuit.
+
+v18: מַצֶּבֶת (matsevet)
+“Monument” or standing pillar.
+
 v19: בָּשַׂר (basar)
 “To bring good news.”
 
 v28: שָׁלוֹם (shalom)
 “Peace” or “well-being.” Ahimaaz’s opening announcement.
+
+v33: רָגַז (ragaz)
+“To tremble” or be deeply shaken. David’s reaction to the news.

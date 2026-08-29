@@ -101,5 +101,23 @@ v05: מוֹשִׁיעַ (moshia)
 v07: עָפָר (afar)
 “Dust.” Israel’s army is crushed like dust.
 
+v14: רֶכֶב יִשְׂרָאֵל (rekhev Yisrael)
+“Chariots of Israel.” Prophetic presence as Israel’s defense.
+
+v17: תְּשׁוּעָה (teshuah)
+“Victory” or deliverance.
+
+v18: נָכָה (nakhah)
+“To strike.” The symbolic action with arrows.
+
+v19: קָצַף (qatsaf)
+“To become angry.” Elisha’s reaction to the three strikes.
+
+v21: חָיָה (chayah)
+“To revive” or live. The dead man returns to life.
+
+v23: חָנַן (chanan)
+“To be gracious.”
+
 v23: בְּרִית (berit)
 “Covenant.” The ancestral promise restraining destruction.

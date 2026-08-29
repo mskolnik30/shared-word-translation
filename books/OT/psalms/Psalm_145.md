@@ -105,6 +105,48 @@ v21: Final expansion—individual praise becomes universal.
 
 ##Vocabulary
 
+v1: רוֹמֵם (romem)  
+“To exalt.” Lift up.  
+
+v1: בָּרַךְ (barakh)  
+“To bless.” Praise or honor.  
+
+v3: גָּדוֹל (gadol)  
+“Great.” Magnified beyond measure.  
+
+v4: שָׁבַח (shabach)  
+“To commend.” Declare praise.  
+
+v5: הָדָר (hadar)  
+“Splendor.” Majesty.  
+
+v8: רַחוּם (rachum)  
+“Merciful.” Compassionate.  
+
+v9: טוֹב (tov)  
+“Good.” Beneficial and kind.  
+
+v13: מַלְכוּת (malkut)
+“Kingdom.” Rule or reign.
+
+v14: סָמַךְ (samak)  
+“To uphold.” Support.  
+
+v16: שָׂבַע (sava)  
+“To satisfy.” Fill completely.  
+
+v18: קָרוֹב (qarov)  
+“Near.” Close in presence.  
+
+v19: יָשַׁע (yasha)  
+“To save.” Deliver.  
+
+v20: שָׁמַר (shamar)  
+“To preserve.” Guard.  
+
+v21: פֶּה (peh)  
+“Mouth.” Instrument of speech.  
+
 v01: רוֹמֵם (romem)
 “To exalt.” Lift up.
 
@@ -113,6 +155,3 @@ v01: בָּרַךְ (barakh)
 
 v03: גָּדוֹל (gadol)
 “Great.” Magnified beyond measure.
-
-v13: מַלְכוּת (malkut)
-“Kingdom.” Rule or reign.

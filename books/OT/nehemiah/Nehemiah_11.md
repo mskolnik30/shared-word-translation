@@ -87,5 +87,11 @@ v03: עִיר הַקֹּדֶשׁ (ir haqqodesh)
 v16: מְלָאכָה (melakhah)
 “Work” or “service.” Practical responsibility assigned to the Levites.
 
+v17: תְּפִלָּה (tefillah)
+“Prayer.” Spoken address to God, here joined with thanksgiving.
+
+v19: שֹׁעֵר (sho'er)
+“Gatekeeper.” One assigned to guard and manage the gates.
+
 v24: יַד הַמֶּלֶךְ (yad hammelekh)
 “King’s hand.” An idiom for one acting as the king’s representative or agent.

@@ -128,6 +128,72 @@ v18: The final question gathers the chapter’s tension: prophetic vocation has 
 
 ##Vocabulary
 
+v1: פַּשְׁחוּר (Pashchur)  
+“Pashhur.” A priestly official whose name is reinterpreted by Jeremiah through judgment.  
+
+v2: מַהְפֶּכֶת (mahpekheth)  
+“Stocks.” An instrument of public restraint and humiliation.  
+
+v3: מָגוֹר מִסָּבִיב (magor missaviv)  
+“Terror on every side.” A phrase of surrounding dread and threat.  
+
+v4: בָּבֶל (Bavel)  
+“Babylon.” The empire named as the instrument of judgment.  
+
+v6: שֶׁקֶר (sheqer)  
+“Falsehood.” Deceptive speech, especially false prophecy.  
+
+v7: פָּתָה (pathah)  
+“To entice.” To persuade, deceive, or draw in.  
+
+v7: חָזַק (chazaq)  
+“To overpower.” To be strong or prevail.  
+
+v8: חָמָס (chamas)  
+“Violence.” Destructive force or injustice.  
+
+v8: שֹׁד (shod)  
+“Destruction.” Devastation or ruin.  
+
+v9: אֵשׁ (esh)  
+“Fire.” Here an inward burning image for the prophetic word.  
+
+v9: עֶצֶם (‘etsem)  
+“Bone.” The inner frame of the body, used for deep embodied pressure.  
+
+v10: דִּבָּה (dibbah)  
+“Whispering” or “evil report.” Hostile rumor or slander.  
+
+v11: גִּבּוֹר עָרִיץ (gibbor arits)  
+“Mighty warrior.” A terrifying champion or powerful fighter.  
+
+v12: כִּלְיָה (kilyah)  
+“Kidney.” In Hebrew anthropology, an inner seat of emotion and desire.  
+
+v12: לֵב (lev)  
+“Heart.” The inner person, including thought, will, and intention.  
+
+v12: רִיב (riv)  
+“Cause” or “case.” A legal dispute or plea committed to God.  
+
+v13: אֶבְיוֹן (evyon)  
+“Needy.” One who lacks power and depends on deliverance.  
+
+v14: אָרַר (arar)
+“To curse.” To call down judgment or deny blessing.
+
+v16: זְעָקָה (ze‘aqah)  
+“Cry.” A shout of distress.  
+
+v18: עָמָל (‘amal)  
+“Toil.” Trouble, labor, or misery.  
+
+v18: יָגוֹן (yagon)  
+“Sorrow.” Grief or anguish.  
+
+v18: בֹּשֶׁת (bosheth)  
+“Shame.” Public disgrace or humiliation.  
+
 v01: פַּשְׁחוּר (Pashchur)
 “Pashhur.” A priestly official whose name is reinterpreted by Jeremiah through judgment.
 
@@ -136,6 +202,3 @@ v02: מַהְפֶּכֶת (mahpekheth)
 
 v03: מָגוֹר מִסָּבִיב (magor missaviv)
 “Terror on every side.” A phrase of surrounding dread and threat.
-
-v14: אָרַר (arar)
-“To curse.” To call down judgment or deny blessing.

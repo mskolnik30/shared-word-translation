@@ -85,6 +85,70 @@ v20: Fear is reframed—not terror, but sustaining reverence that restrains sin.
 
 ##Vocabulary
 
+v2: יָצָא (yāṣāʾ)  
+
+v2: “To bring out.” To lead forth from constraint.  
+
+v2: עֲבָדִים (ʿăḇādîm)  
+
+v2: “Slavery/servitude.” Condition of forced service.  
+
+v3: אֱלֹהִים (ʾĕlōhîm)  
+
+v3: “God/gods.” Here, other divine powers.  
+
+v4: פֶּסֶל (pesel)  
+
+v4: “Carved image.” Idol formed by human hands.  
+
+v7: נָשָׂא (nāśāʾ)  
+
+v7: “To lift up.” To carry or invoke.  
+
+v7: שָׁוְא (šāwʾ)  
+
+v7: “Emptiness/vanity.” Worthlessness or falsehood.  
+
+v8: זָכַר (zāḵar)  
+
+v8: “To remember.” To actively keep in mind.  
+
+v8: קָדַשׁ (qāḏaš)  
+
+v8: “To make holy.” To set apart.  
+
+v12: כָּבֵד (kāḇēḏ)  
+
+v12: “To honor.” To give weight or significance.  
+
+v13: רָצַח (rāṣaḥ)  
+
+v13: “To murder.” Unlawful taking of life.  
+
+v14: נָאַף (nāʾap̄)  
+
+v14: “To commit adultery.” Violation of covenant fidelity.  
+
+v15: גָּנַב (gānaḇ)  
+
+v15: “To steal.” To take what is not given.  
+
+v16: עֵד (ʿēḏ)  
+
+v16: “Witness.” One who testifies.  
+
+v17: חָמַד (ḥāmaḏ)  
+
+v17: “To desire/covet.” To take pleasure in what belongs to another.  
+
+v20: יָרֵא (yārēʾ)  
+
+v20: “To fear.” Awe in response to divine presence.  
+
+v20: נָסָה (nāsāh)  
+
+v20: “To test.” To prove or examine.  
+
 v02: יָצָא (yāṣāʾ)
 “To bring out.” To lead forth from constraint.
 

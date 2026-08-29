@@ -161,11 +161,29 @@ v27: The house that promised pleasure is finally identified as a road descending
 v01: צָפַן (tsafan)
 “To treasure” or “store.” To keep something carefully within oneself.
 
+v02: אִישׁוֹן עַיִן (ishon ayin)
+“Pupil of the eye.” The vulnerable center of the eye, used as an image of something carefully guarded.
+
+v04: מוֹדָע (moda)
+“Close relative” or “intimate acquaintance.” Someone known within a close relationship.
+
 v07: חֲסַר־לֵב (chasar lev)
 “Lacking sense.” Literally “lacking heart,” meaning deficient in judgment or discernment.
 
+v10: נָצַר (natsar)
+“To guard” or “conceal.” The related form in v10 contributes to the difficult description of the woman’s inward character.
+
 v14: זֶבַח שְׁלָמִים (zevach shelamim)
 “Sacrifice of well-being.” A sacrificial offering associated with peace, wholeness, and a shared meal.
+
+v18: דֹּדִים (dodim)
+“Love” or “lovemaking.” Expressions of erotic affection.
+
+v21: פָּתָה (patah)
+“To entice,” “persuade,” or “make receptive.” To draw someone toward a course of action.
+
+v23: מוֹקֵשׁ (moqesh)
+“Snare.” A trap used for catching prey.
 
 v27: שְׁאוֹל (Sheol)
 “Sheol.” The realm of the dead, here the destination of the path being warned against.

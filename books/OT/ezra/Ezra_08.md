@@ -128,5 +128,14 @@ v18: שֵׂכֶל (sekhel)
 v21: עָנָה (anah)
 “To humble oneself.” Used here of fasting before God.
 
+v21: דֶּרֶךְ יְשָׁרָה (derekh yesharah)
+“Straight way.” A safe and rightly directed journey.
+
+v22: עָזַב (azav)
+“To abandon” or “forsake.” Contrasted with seeking God.
+
 v28: קֹדֶשׁ (qodesh)
 “Holy.” Set apart as belonging to the LORD.
+
+v36: אֲחַשְׁדַּרְפָּן (achashdarpan)
+“Satrap.” A high Persian provincial official.

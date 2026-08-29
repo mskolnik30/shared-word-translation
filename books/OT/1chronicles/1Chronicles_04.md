@@ -82,8 +82,14 @@ v10: The prayer of Jabez highlights his desire for God's blessing and presence, 
 
 ##Vocabulary
 
-v01: יְהוּדָה (Yehudah)
-“Judah.”
+v1: Judah (יְהוּדָה, ye.hu.dah) — This name refers to one of the twelve tribes of Israel and is significant for its lineage leading to King David and, ultimately, to Jesus in Christian theology.  
+
+v10: יַעְבֵּץ (ya.bets), Jabez — The name Jabez derives from the Hebrew word for pain (עֹצֶב, o.tsev). His name reflects his mother's pain during childbirth, and Jabez’s prayer for blessings and protection shows his faith and God’s gracious response.  
 
 v10: יַעְבֵּץ (Yabets)
 “Jabez.” The name is associated in the narrative with עֹצֶב, “pain.”
+
+v41: יהודה (ye.hu.dah), Judah — Again referred to here as the reign of King Hezekiah, providing a historical context for the actions and events described.  
+
+v01: יְהוּדָה (Yehudah)
+“Judah.”

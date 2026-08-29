@@ -65,6 +65,19 @@ v19: - **19.** David attributes the plan to “the hand of the LORD” and says 
 
 ##Vocabulary
 
+v2: - **2 — מְנוּחָה (*menûḥâ*)**: “rest.” David describes the intended temple as a resting place for the ark, expressing settled divine dwelling among the people.  
+
+v5: - **5 — מַלְכוּת (*malkût*)**: “kingship, kingdom.” Solomon’s throne is called “the kingship of the LORD,” locating royal authority within God’s rule over Israel.  
+
+v9: - **9 — לֵבָב (*lēvāv*)**: “heart.” In this passage the heart is the inner center of thought, intention, and loyalty, which the LORD searches.  
+
+v9: - **9 — יֵצֶר (*yēṣer*)**: “inclination, shaping.” Joined with “thoughts,” it names the inward formation of a person’s purposes and imaginings.  
+
+v11: - **11 — תַּבְנִית (*tabnît*)**: “plan, pattern.” Repeated through the temple instructions, this term presents the sanctuary and its furnishings as ordered according to a received design.  
+
+v18: כְּרוּבִים (kerûvîm)
+“cherubim.” These winged heavenly figures cover the ark of the covenant, marking the holiness of the place associated with the LORD’s presence.
+
 v02: מְנוּחָה (menûḥâ)
 “rest.” David describes the intended temple as a resting place for the ark, expressing settled divine dwelling among the people.
 
@@ -73,6 +86,3 @@ v05: מַלְכוּת (malkût)
 
 v09: לֵבָב (lēvāv)
 “heart.” In this passage the heart is the inner center of thought, intention, and loyalty, which the LORD searches.
-
-v18: כְּרוּבִים (kerûvîm)
-“cherubim.” These winged heavenly figures cover the ark of the covenant, marking the holiness of the place associated with the LORD’s presence.

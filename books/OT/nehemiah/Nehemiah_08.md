@@ -63,3 +63,12 @@ v08: פָּרַשׁ (parash)
 
 v08: שֶׂכֶל (sekhel)
 “Sense,” “insight,” or “understanding.” The comprehension enabled by the reading.
+
+v10: מָעוֹז (ma'oz)
+“Strength” or “stronghold.” The joy of the LORD is described as the people’s strength.
+
+v14: סֻכָּה (sukkah)
+“Booth” or “temporary shelter.” The dwelling associated with the Festival of Booths.
+
+v18: עֲצֶרֶת (atseret)
+“Solemn assembly.” A concluding sacred gathering.

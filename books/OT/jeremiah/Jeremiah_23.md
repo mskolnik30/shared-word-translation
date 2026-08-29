@@ -214,5 +214,11 @@ v06: יְהוָה צִדְקֵנוּ (YHWH tsidqenu)
 v18: סוֹד (sod)
 “Council” or “confidential assembly.” The divine council in which true prophetic speech is heard.
 
+v28: תֶּבֶן (teven)
+“Straw.” Contrasted with grain as empty prophetic speech is contrasted with the LORD’s word.
+
+v29: פַּטִּישׁ (pattish)
+“Hammer.” An image of the LORD’s word shattering rock.
+
 v33: מַשָּׂא (massa)
 “Burden” or “oracle.” The ambiguous term becomes the focus of prophetic wordplay.

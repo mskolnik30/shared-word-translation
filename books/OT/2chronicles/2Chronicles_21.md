@@ -92,3 +92,9 @@ v10: עָזַב (azav)
 
 v11: זָנָה (zanah)
 “To prostitute oneself.” A metaphor for idolatry.
+
+v12: מִכְתָּב (mikhtav)
+“Letter” or writing.
+
+v20: חֶמְדָּה (chemdah)
+“Desire.” Jehoram dies without being desired.

@@ -124,5 +124,26 @@ v02: קָהַל (qahal)
 v10: בִּזָּה (bizzah)
 “Plunder.” Spoils of conflict, repeatedly left untouched.
 
+v16: נוּחַ (nuach)
+“To rest.” Relief gained from enemies.
+
+v19: מָנוֹת (manot)
+“Portions.” Gifts of food sent from one person to another.
+
+v22: מַתָּנוֹת לָאֶבְיֹנִים (mattanot la-evyonim)
+“Gifts to the poor.” Material sharing built into Purim observance.
+
+v24: פּוּר (pur)
+“Lot.” The singular Persian loanword behind Purim.
+
+v26: פּוּרִים (Purim)
+“Lots.” The festival name formed from the plural of Pur.
+
+v28: זֵכֶר (zekher)
+“Remembrance.” The memory of Purim is not to cease.
+
 v30: שָׁלוֹם וֶאֱמֶת (shalom ve-emet)
 “Peace and faithfulness.” The character of the confirming letters.
+
+v31: זַעֲקָה (za'aqah)
+“Cry.” The communal outcry remembered alongside fasting.

@@ -81,3 +81,9 @@ v07: שָׁחַט (shachat)
 
 v10: שָׁבָה (shavah)
 “To take captive.” Ishmael carries away the remnant at Mizpah.
+
+v14: סָבַב (savav)
+“To turn around.” The captives reverse direction when Johanan appears.
+
+v17: גֵּרוּת (gerut)
+“Lodging place” or “sojourning place.” The site near Bethlehem where the remnant pauses.

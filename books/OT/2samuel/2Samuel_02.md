@@ -121,3 +121,21 @@ v05: חֶסֶד (ḥesed)
 
 v08: שַׂר צָבָא (sar tsava)
 “Commander of the army.” Abner’s military office.
+
+v14: שָׂחַק (sachaq)
+“To play” or “perform.” Used ominously for the deadly contest.
+
+v16: חֶרֶב (cherev)
+“Sword.” The weapon of the paired combatants.
+
+v18: צְבִי (tsevi)
+“Gazelle.” The image for Asahel’s speed.
+
+v23: חֹמֶשׁ (chomesh)
+“Belly” or “abdomen.” The place where Asahel is struck.
+
+v26: אָכַל (akhal)
+“To eat” or “devour.” The sword is personified as consuming.
+
+v28: שׁוֹפָר (shofar)
+“Ram’s horn.” Joab’s signal ending the pursuit.

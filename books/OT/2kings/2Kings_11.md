@@ -94,5 +94,23 @@ v02: גָּנַב (ganav)
 v04: בְּרִית (berit)
 “Covenant.” Jehoiada binds the guards to the plan.
 
+v04: כָּרִי (Kari)
+“Carite.” A member of an elite guard force.
+
+v10: שִׁלְטוֹן (shilton)
+“Shield.” Royal weapons kept in the temple.
+
+v12: נֵזֶר (nezer)
+“Crown.” The royal diadem placed upon Joash.
+
+v12: עֵדוּת (edut)
+“Testimony.” A covenantal object or document associated with enthronement.
+
+v14: קֶשֶׁר (qesher)
+“Treason” or conspiracy.
+
 v17: עַם לַיהוָה (am la-YHWH)
 “People of the LORD.” The covenant identity renewed.
+
+v20: שָׁקַט (shaqat)
+“To be quiet.” The city settles after Athaliah’s death.

@@ -70,8 +70,14 @@ v01: מְשָׁרֵת (mesharet)
 v06: חָזַק (chazaq)
 “To be strong.” Repeated as part of the LORD’s commission to Joshua.
 
+v06: אָמַץ (amats)
+“To be courageous” or “be resolute.”
+
 v07: תּוֹרָה (torah)
 “Instruction” or “law.” The teaching given through Moses that is to shape Joshua’s leadership.
 
 v08: הָגָה (hagah)
 “To meditate,” “murmur,” or “recite.” Sustained verbal reflection upon instruction.
+
+v13: מְנוּחָה (menuchah)
+“Rest.” Settled security and relief from conflict.

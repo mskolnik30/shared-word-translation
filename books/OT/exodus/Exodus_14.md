@@ -110,8 +110,48 @@ v19: מַלְאָךְ (malʾāḵ)
 v19: עַמּוּד (ʿammûḏ)
 “Pillar.” Vertical manifestation of guiding presence.
 
+v20: חֹשֶׁךְ (ḥōšeḵ)  
+
+“Darkness.” Obscurity, often associated with judgment.
+
 v21: רוּחַ (rûaḥ)
 “Wind/spirit.” Breath or force, natural and divine.
+
+v21: בָּקַע (bāqaʿ)  
+
+“To split/divide.” To break open, often violently.
+
+v22: חוֹמָה (ḥômāh)  
+
+“Wall.” Protective or structural barrier.
+
+v24: שָׁקַף (šāqap̄)  
+
+“To look down.” Overseeing from above, often in judgment.
+
+v24: הָמַם (hāmam)  
+
+“To throw into confusion.” To disrupt or panic.
+
+v25: כָּבֵד (kāḇēḏ)  
+
+“To be heavy.” To weigh down or hinder movement.
+
+v26: שׁוּב (šûḇ)  
+
+“To return.” To go back, restore, or reverse.
+
+v27: נָעַר (nāʿar)  
+
+“To shake off.” To cast away forcefully.
+
+v30: יָשַׁע (yāšaʿ)  
+
+“To save/deliver.” To bring into safety or freedom.
+
+v31: יָרֵא (yārēʾ)  
+
+“To fear.” Reverent awe in response to power.
 
 v31: אָמַן (ʾāman)
 “To trust/believe.” To rely firmly or be faithful.

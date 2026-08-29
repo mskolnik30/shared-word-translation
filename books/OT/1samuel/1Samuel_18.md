@@ -96,6 +96,45 @@ v30: The chapter closes with repetition of success and reputation. David’s nam
 
 ##Vocabulary
 
+v1: נֶפֶשׁ (nephesh)  
+“Soul,” “life,” or “self.” The term denotes the whole person, not an abstract inner element. The binding of souls signals total personal attachment.  
+
+v3: בְּרִית (berit)  
+“Covenant.” A formalized relationship marked by obligation and loyalty. Its use here frames Jonathan and David’s bond in public, enduring terms.  
+
+v5: שָׂכַל (sakal)  
+“To act wisely,” “to succeed.” The term joins discernment and effectiveness, indicating success that is both practical and perceptive.  
+
+v9: עָוַן / שָׁעָה (contextual watching)  
+“Kept his eye on.” The expression suggests sustained, watchful attention shaped by suspicion rather than neutral observation.  
+
+v10: רוּחַ רָעָה (ruach ra‘ah)
+“Harmful spirit.” The phrase attributes destabilization to a force permitted within divine sovereignty, without specifying mechanism.
+
+v12: עִם (ʿim)  
+
+v12: “With.” A relational term indicating presence and alignment. The contrast (“with David… departed from Saul”) carries theological weight through simple preposition.  
+
+v14: דֶּרֶךְ (derekh)  
+“Way.” Refers to conduct or course of life. Success “in all his ways” encompasses patterns of action rather than isolated events.  
+
+v16: אָהַב (’ahav)  
+“To love.” Used of communal affection for David, extending beyond private attachment to collective loyalty.  
+
+v21: מוֹקֵשׁ (moqesh)  
+“Snare.” A trap that captures indirectly. The term frames Saul’s strategy as concealed rather than confrontational.  
+
+v25: מֹהַר (mohar)  
+
+v25: “Bride-price.” A customary marital gift, here redefined as a demand for violent proof, shifting social practice into political instrument.  
+
+v29: אֹיֵב (’oyev)  
+
+v29: “Enemy.” The designation becomes continuous (“continually”), marking a transition from episodic hostility to enduring opposition.  
+
+v30: שֵׁם (shem)  
+“Name.” Signifies reputation and standing. David’s “name” becoming esteemed reflects public recognition rather than private identity.  
+
 v01: נֶפֶשׁ (nephesh)
 “Soul,” “life,” or “self.” The term denotes the whole person, not an abstract inner element. The binding of souls signals total personal attachment.
 
@@ -104,6 +143,3 @@ v03: בְּרִית (berit)
 
 v05: שָׂכַל (sakal)
 “To act wisely,” “to succeed.” The term joins discernment and effectiveness, indicating success that is both practical and perceptive.
-
-v10: רוּחַ רָעָה (ruach ra‘ah)
-“Harmful spirit.” The phrase attributes destabilization to a force permitted within divine sovereignty, without specifying mechanism.

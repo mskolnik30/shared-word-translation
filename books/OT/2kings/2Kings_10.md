@@ -138,5 +138,20 @@ v09: קָשַׁר (qashar)
 v15: יָשָׁר (yashar)
 “Upright.” Jehu asks whether Jehonadab’s heart aligns with his.
 
+v16: קִנְאָה (qin'ah)
+“Zeal.” Jehu’s claimed zeal for the LORD.
+
+v19: עָקְבָה (oqbah)
+“Deception” or trickery. Jehu’s strategy against Baal’s servants.
+
+v20: עֲצָרָה (atsarah)
+“Solemn assembly.”
+
+v26: מַצֵּבָה (matsevah)
+“Pillar.” A cultic standing stone.
+
+v27: מַחֲרָאָה (machara'ah)
+“Latrine.” The former Baal temple’s final use.
+
 v31: תּוֹרָה (torah)
 “Instruction.” Jehu fails to walk in it wholeheartedly.

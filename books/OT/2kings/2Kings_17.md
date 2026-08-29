@@ -153,3 +153,21 @@ v09: חִפָּא (chippa)
 
 v15: הֶבֶל (hevel)
 “Emptiness” or vapor. A term for worthless idols.
+
+v17: קָסַם (qasam)
+“To practice divination.”
+
+v18: סוּר מֵעַל פָּנִים (sur me'al panim)
+“To remove from presence.” Israel is cast from the LORD’s presence.
+
+v24: יָרַשׁ (yarash)
+“To possess.” Resettled peoples take Samaria’s cities.
+
+v26: מִשְׁפַּט אֱלֹהֵי הָאָרֶץ (mishpat elohei ha-arets)
+“Custom of the god of the land.”
+
+v33: יָרֵא (yare)
+“To fear.” Here contrasted with exclusive service.
+
+v41: פֶּסֶל (pesel)
+“Carved image.” The gods the resettled peoples continue to serve.

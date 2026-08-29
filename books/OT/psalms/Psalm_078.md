@@ -436,13 +436,16 @@ v70–72: Leadership is redefined through David—shepherding rather than domina
 
 ##Vocabulary
 
-v02: מָשָׁל (mashal)
+v2: מָשָׁל (mashal)
+
 “Parable.” Figurative teaching.
 
-v04: תְּהִלָּה (tehillah)
+v4: תְּהִלָּה (tehillah)
+
 “Praise.” Expression of honor.
 
-v08: סָרַר (sarar)
+v8: סָרַר (sarar)
+
 “To rebel.” To resist authority.
 
 v13: בָּקַע (baqa)
@@ -451,5 +454,30 @@ v13: בָּקַע (baqa)
 v18: נָסָה (nasah)
 “To test.” To try or provoke.
 
+v24: מָן (man)
+
+“Manna.” Provision from heaven.
+
 v38: רָחַם (racham)
 “To have compassion.” Show mercy.
+
+v52: נָהַג (nahag)
+
+“To lead.” Guide like a flock.
+
+v68: בָּחַר (bachar)
+
+“To choose.” Select.
+
+v72: תָּם (tam)
+
+“Blameless.” Whole or upright.
+
+v02: מָשָׁל (mashal)
+“Parable.” Figurative teaching.
+
+v04: תְּהִלָּה (tehillah)
+“Praise.” Expression of honor.
+
+v08: סָרַר (sarar)
+“To rebel.” To resist authority.

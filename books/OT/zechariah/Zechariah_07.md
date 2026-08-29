@@ -72,6 +72,27 @@ v09: “true justice” — The Hebrew literally says “judgment of truth.” J
 
 ##Vocabulary
 
+v2: חָלָה פְנֵי (chalah pene)  
+“To seek favor.” Literally to soften or entreat the face of another, especially in petition.  
+
+v5: צוּם (tsum)  
+“To fast.” To abstain from food as a religious or communal practice.  
+
+v9: מִשְׁפַּט אֱמֶת (mishpat emet)  
+“True justice.” Judgment characterized by truth, reliability, and faithfulness.  
+
+v9: חֶסֶד (ḥesed)  
+“Steadfast love.” Faithful love expressed concretely within relationship.  
+
+v9: רַחֲמִים (rachamim)  
+“Compassion” or “mercies.” Deep care toward another, especially one who is vulnerable.  
+
+v10: גֵּר (ger)  
+“Resident alien” or “sojourner.” A person living among a community without the security of ancestral land or full kinship protection.  
+
+v12: שָׁמִיר (shamir)  
+“Hard stone,” often “diamond” or “flint.” An image of extreme hardness used for the people’s refusal to hear.  
+
 v02: חָלָה פְנֵי (chalah pene)
 “To seek favor.” Literally to soften or entreat the face of another, especially in petition.
 

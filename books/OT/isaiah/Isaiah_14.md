@@ -80,11 +80,17 @@ v2: “servant” — Isaiah uses servant language in several contexts. TSW pres
 v12: הֵילֵל בֶּן־שָׁחַר (helel ben shachar)
 “Shining one, son of dawn.” Poetic taunt language directed against the fallen ruler.
 
-v22: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+v22: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
 
 v22: שְׁאָר (she'ar)
 “Remnant.” Those who remain or survive.
+
+v22: יְהוָה צְבָאוֹת (YHWH tseva'ot)
+“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+
+v2: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
 v02: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.

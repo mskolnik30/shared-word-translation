@@ -43,6 +43,18 @@ v3: “remnant” — Isaiah repeatedly speaks of those who remain through judgm
 
 ##Vocabulary
 
+v7: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+“Holy One of Israel.” A recurring Isaianic designation for the LORD.  
+
+v3: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v3: שְׁאָר (she'ar)  
+“Remnant.” Those who remain or survive.  
+
+v12: גּוֹיִם (goyim)
+“Nations” or “peoples.” Peoples beyond Israel.
+
 v07: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
@@ -51,6 +63,3 @@ v03: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 
 v03: שְׁאָר (she'ar)
 “Remnant.” Those who remain or survive.
-
-v12: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.

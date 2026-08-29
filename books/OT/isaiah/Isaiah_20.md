@@ -25,6 +25,15 @@ v5: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manif
 
 ##Vocabulary
 
+v3: אוֹת (ot)  
+“Sign.” A visible marker carrying prophetic meaning.  
+
+v3: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
+
+v5: כָּבוֹד (kavod)  
+“Glory.” Weight, honor, or manifest splendor.  
+
 v03: אוֹת (ot)
 “Sign.” A visible marker carrying prophetic meaning.
 

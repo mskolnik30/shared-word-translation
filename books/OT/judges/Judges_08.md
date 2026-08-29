@@ -120,8 +120,17 @@ v02: עֹלֵלוֹת (olelot)
 v07: דּוּשׁ (dush)
 “To thresh.” Gideon uses agricultural imagery for violent punishment.
 
+v16: יָדַע (yada)
+“To know” or “teach.” The unusual form in v16 is often understood as Gideon “teaching” the men of Succoth through punishment.
+
+v23: מָשַׁל (mashal)
+“To rule.” Gideon rejects rule for himself and his son while affirming the LORD’s rule.
+
 v27: אֵפוֹד (ephod)
 “Ephod.” A priestly or cultic object whose precise form here is uncertain.
+
+v27: מוֹקֵשׁ (moqesh)
+“Snare.” A trap, here describing the ephod’s destructive religious effect.
 
 v33: בַּעַל בְּרִית (Baal-Berith)
 “Baal of the covenant.” The deity adopted by Israel after Gideon’s death.

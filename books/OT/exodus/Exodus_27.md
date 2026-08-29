@@ -80,3 +80,15 @@ v04: מִכְבָּר (mikhbar)
 
 v09: חָצֵר (chatser)
 “Court.” The enclosed open area surrounding the dwelling.
+
+v16: שַׁעַר (sha'ar)
+“Gate.” The entrance into the sanctuary court.
+
+v19: יָתֵד (yated)
+“Peg.” A stake securing the tent or court structure.
+
+v20: שֶׁמֶן זַיִת זָךְ (shemen zayit zakh)
+“Pure olive oil.” Refined oil for the sanctuary lamp.
+
+v21: אֹהֶל מוֹעֵד (ohel moed)
+“Tent of meeting.” The sanctuary as the place of divine-human encounter.

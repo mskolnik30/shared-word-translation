@@ -96,8 +96,20 @@ v03: גֵּר (ger)
 v04: עֵזֶר (ezer)
 “Help.” The word behind the name Eliezer.
 
+v11: זִיד (zid)
+“To act arrogantly” or “presumptuously.”
+
+v13: שָׁפַט (shafat)
+“To judge.” To decide disputes and establish right order.
+
+v16: חֹק (choq)
+“Statute.” A prescribed requirement or ordinance.
+
 v16: תּוֹרָה (torah)
 “Instruction.” Teaching that directs covenant life.
 
 v18: נָבֹל תִּבֹּל (navol tibbol)
 “You will surely wear yourself out.” An emphatic idiom of exhaustion.
+
+v21: בֶּצַע (betsa)
+“Unjust gain.” Profit acquired through corruption or exploitation.

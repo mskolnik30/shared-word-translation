@@ -98,8 +98,26 @@ v02: תּוֹעֵבָה (toevah)
 v03: צְבָא הַשָּׁמַיִם (tseva ha-shamayim)
 “Host of the heavens.” Sun, moon, stars, and heavenly powers.
 
+v06: אוֹב (ov)
+“Medium.” One who claims contact with spirits.
+
 v06: יִדְּעֹנִי (yidde'oni)
 “Spiritist.” A practitioner of forbidden spirit consultation.
 
+v07: פֶּסֶל (pesel)
+“Carved image.” The Asherah image installed in the temple.
+
 v12: צָלַל אָזְנַיִם (tsalal oznayim)
 “To make the ears tingle.” An idiom of shocking judgment.
+
+v13: קָו (qav)
+“Measuring line.” A standard applied to Jerusalem’s judgment.
+
+v13: מִשְׁקֹלֶת (mishqolet)
+“Plummet.” A measuring tool.
+
+v16: דָּם נָקִי (dam naqi)
+“Innocent blood.”
+
+v23: קָשַׁר (qashar)
+“To conspire.” Amon’s servants plot against him.

@@ -94,6 +94,45 @@ v13: The chapter ends with the bride offering the treasures she has reserved for
 
 ##Vocabulary
 
+v1: נָדִיב (nāḏîḇ)
+“Noble.” One characterized by dignity, generosity, or honor.
+
+v2: מֶזֶג (mezeḡ)
+“Mixed wine.” Wine blended and prepared for enjoyment.
+
+v2: חִטָּה (ḥiṭṭâ)
+“Wheat.” A staple grain and symbol of abundance.
+
+v3: צְבִיָּה (ṣĕḇiyyâ)
+“Gazelle.” An image of grace and beauty.
+
+v4: שֵׁן (šēn)
+“Ivory.” A costly material associated with beauty and luxury.
+
+v5: כַּרְמֶל (Karmel)
+“Carmel.” A mountain region known for fertility and beauty.
+
+v7: תָּמָר (tāmār)
+“Palm tree.” A symbol of fruitfulness, beauty, and vitality.
+
+v9: יַיִן (yayin)
+“Wine.” A symbol of joy, celebration, and delight.
+
+v10: תְּשׁוּקָה (tĕšûqâ)
+“Desire.” Strong longing, affection, or attraction.
+
+v12: גֶּפֶן (gephen)
+“Vine.” A grapevine, often symbolizing fruitfulness and blessing.
+
+v12: פֶּרַח (peraḥ)
+“Blossom.” A flower indicating growth and coming fruitfulness.
+
+v13: דּוּדָאִים (dûḏāʾîm)
+“Mandrakes.” Fragrant plants traditionally associated with love.
+
+v13: מְגָדִים (mĕḡāḏîm)
+“Choice fruits.” Precious and desirable produce.
+
 v01: נָדִיב (nāḏîḇ)
 “Noble.” One characterized by dignity, generosity, or honor.
 

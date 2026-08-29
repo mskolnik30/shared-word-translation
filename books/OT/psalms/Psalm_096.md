@@ -70,14 +70,35 @@ v13: Judgment is framed positively—as righteousness and faithfulness.
 
 ##Vocabulary
 
-v01: שִׁיר (shir)
-“To sing.” Express praise.
+v1: שִׁיר (shir)  
+“To sing.” Express praise.  
 
-v02: בָּשַׂר (basar)
-“To proclaim.” Announce good news.
+v2: בָּשַׂר (basar)  
+“To proclaim.” Announce good news.  
+
+v4: יָרֵא (yare)  
+“To fear.” Reverence.  
+
+v5: אֱלִיל (elil)  
+“Idol.” Worthless object.  
+
+v7: יָהַב (yahav)  
+“To ascribe.” Give or attribute.  
+
+v6: הָדָר (hadar)  
+“Splendor.” Beauty or majesty.  
+
+v10: מָלַךְ (malak)  
+“To reign.” Rule as king.  
 
 v13: שָׁפַט (shaphat)
 “To judge.” Govern with justice.
 
 v13: אֱמוּנָה (emunah)
 “Faithfulness.” Reliability.
+
+v01: שִׁיר (shir)
+“To sing.” Express praise.
+
+v02: בָּשַׂר (basar)
+“To proclaim.” Announce good news.

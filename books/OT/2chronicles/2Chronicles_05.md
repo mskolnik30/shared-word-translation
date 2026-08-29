@@ -65,6 +65,9 @@ v02: אֲרוֹן הַבְּרִית (aron ha-berit)
 v07: דְּבִיר (devir)
 “Inner sanctuary.” The Most Holy Place.
 
+v11: קָדַשׁ (qadash)
+“To consecrate.” Priests prepare for sacred service.
+
 v13: חֶסֶד (hesed)
 “Steadfast love.”
 

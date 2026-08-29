@@ -208,8 +208,26 @@ v01: עָיַב (ayav)
 v03: קֶרֶן (qeren)
 “Horn.” A symbol of strength or power.
 
+v06: מוֹעֵד (moed)
+“Appointed time,” “festival,” or “meeting place.” The term can refer to sacred times and places of assembly.
+
+v08: קַו (qav)
+“Measuring line.” A tool of deliberate planning, here applied to destruction.
+
+v10: שַׂק (saq)
+“Sackcloth.” Coarse material worn as an expression of mourning.
+
+v11: שֶׁבֶר (shever)
+“Breaking,” “fracture,” or “ruin.” A severe collapse or destruction.
+
 v14: שָׁוְא (shav)
 “Emptiness,” “falsehood,” or “vanity.” What lacks truth or substance.
 
+v18: פוּגָה (pugah)
+“Relief,” “respite,” or “cessation.” A pause from grief or exertion.
+
 v19: שָׁפַךְ (shafakh)
 “To pour out.” Used literally of water and figuratively of the heart in prayer.
+
+v22: פָּלִיט (palit)
+“One who escapes” or “survivor.” A person who gets away from destruction.

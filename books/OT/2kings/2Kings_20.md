@@ -96,3 +96,21 @@ v05: רָפָא (rapha)
 
 v07: דְּבֶלֶת תְּאֵנִים (develet te'enim)
 “Cake of figs.” A pressed fig poultice.
+
+v09: מַעֲלָה (ma'alah)
+“Step” or degree. Used of the shadow’s movement.
+
+v11: צֵל (tsel)
+“Shadow.” The sign given to Hezekiah.
+
+v12: מִנְחָה (minchah)
+“Gift.” The Babylonian diplomatic present.
+
+v13: בֵּית נְכֹתֹה (bet nekhoto)
+“Treasure house.” A store of valuable goods.
+
+v18: סָרִיס (saris)
+“Eunuch” or court official.
+
+v20: תְּעָלָה (te'alah)
+“Conduit” or water channel.

@@ -72,14 +72,44 @@ v22–23: The contrast between Melchizedek and the king of Sodom shapes the conc
 
 ##Vocabulary
 
-v02: מִלְחָמָה (milḥāmâ)
+v2: מִלְחָמָה (milḥāmâ)
 “War” or “battle.” Organized conflict between rulers and peoples.
 
-v04: מָרַד (māraḏ)
+v4: מָרַד (māraḏ)
 “To rebel.” The refusal of established authority or tribute.
+
+v10: חֵמָר (ḥēmār)
+“Bitumen.” A natural asphalt substance used in construction and found in pits throughout the region.
+
+v13: עִבְרִי (ʿiḇrî)
+“Hebrew.” An ethnic or social designation associated with Abram and his descendants.
+
+v14: חָנִיךְ (ḥānîḵ)
+“Trained man.” One prepared or instructed for service within a household.
+
+v16: שָׁבָה (šāḇâ)
+“To take captive” or “carry away.” A common term in military contexts.
 
 v18: מַלְכִּי־צֶדֶק (Malkî-ṣeḏeq)
 “Melchizedek.” The name may be understood as “my king is righteousness” or “king of righteousness.”
 
 v18: כֹּהֵן (kōhēn)
 “Priest.” One who serves in a mediating or representative role before God.
+
+v19: עֶלְיוֹן (ʿelyôn)
+“Most High.” A divine title emphasizing God's supreme authority.
+
+v20: מַעֲשֵׂר (maʿăśēr)
+“Tenth” or “tithe.” A tenth portion given from possessions or produce.
+
+v22: קָנָה (qānâ)
+“Maker,” “creator,” or “possessor.” The term can denote ownership, acquisition, or creation.
+
+v23: חוּט (ḥûṭ)
+“Thread.” A proverbial expression emphasizing Abram’s refusal to accept even the smallest item.
+
+v02: מִלְחָמָה (milḥāmâ)
+“War” or “battle.” Organized conflict between rulers and peoples.
+
+v04: מָרַד (māraḏ)
+“To rebel.” The refusal of established authority or tribute.

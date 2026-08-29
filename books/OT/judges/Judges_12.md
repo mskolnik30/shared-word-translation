@@ -66,4 +66,13 @@ v06: שִׁבֹּלֶת (shibboleth)
 “Ear of grain” or “stream.” Used as a pronunciation test identifying Ephraimites.
 
 v06: סִבֹּלֶת (sibboleth)
+The Ephraimite pronunciation recorded in the story.
+
+v06: סִבֹּלֶת (sibboleth)
 “Sibboleth.” The pronunciation of the word functions as the identifying test in the narrative.
+
+v08: שָׁפַט (shafat)
+“To judge” or “govern.” Used of the regional leaders who follow Jephthah.
+
+v14: עַיִר (ayir)
+“Young donkey.” Riding animals associated with family status and wealth.

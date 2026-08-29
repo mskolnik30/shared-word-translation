@@ -140,3 +140,9 @@ v09: רְאֵם (re'em)
 
 v13: רְנָנִים (renanim)
 “Ostriches,” traditionally understood from a rare poetic term associated with ringing cries or wings.
+
+v19: גְּבוּרָה (gevurah)
+“Might” or “strength.” The power of the warhorse.
+
+v26: נֵץ (nets)
+“Hawk.” A bird of prey whose migration or flight exceeds human direction.

@@ -57,8 +57,12 @@ v21: **four dreadful judgments** — A summary of the comprehensive nature of th
 
 ##Vocabulary
 
-v03: גִּלֻּלִים (gillulim)
-“Idols.” A contemptuous Hebrew term for cult images or objects of illicit worship.
+v3: **גִּלֻּלִים (gil.lu.lim)** — Often translated "idols," these are vile objects of worship that mislead Israel’s heart away from the Lord. They serve as a primary stumbling block inviting divine displeasure.  
+
+v14: **צְדָקָה (tse.da.qah)** — "righteousness," indicating a life that aligns with God's will. The repetition in connection with Noah, Daniel, and Job underscores their personal integrity before God, distinct from their surroundings.  
 
 v14: צְדָקָה (tsedaqah)
 “righteousness," indicating a life that aligns with God's will.
+
+v03: גִּלֻּלִים (gillulim)
+“Idols.” A contemptuous Hebrew term for cult images or objects of illicit worship.

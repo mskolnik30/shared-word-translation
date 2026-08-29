@@ -116,3 +116,21 @@ v03: תּוֹעֵבָה (toevah)
 
 v06: מַפְרֶסֶת פַּרְסָה (mafereset parsah)
 “Dividing the hoof.” A dietary classification.
+
+v07: גֵּרָה (gerah)
+“Cud.” Regurgitated food chewed again.
+
+v21: נְבֵלָה (nevelah)
+“Carcass” or animal that died by itself.
+
+v22: עָשַׂר (asar)
+“To tithe.” To give or set apart a tenth.
+
+v23: מַעֲשֵׂר (ma'aser)
+“Tithe.” The tenth portion of produce.
+
+v26: שֵׁכָר (shekhar)
+“Strong drink.” Fermented drink distinct from wine.
+
+v29: שָׂבַע (sava)
+“To be satisfied.” The vulnerable are to eat fully.

@@ -129,8 +129,20 @@ v01: מַשָּׂא (massa)
 v02: קַנּוֹא (qanno)
 “Jealous” or “zealous.” Intense exclusive commitment.
 
+v02: נָקַם (naqam)  
+“To avenge” or “take vengeance.” To act in response to wrong or hostility.
+
 v03: אָרֵךְ אַפַּיִם (arekh appayim)
 “Slow to anger.” Literally “long of nostrils,” an idiom for patience.
+
+v07: מָעוֹז (maoz)  
+“Stronghold” or “refuge.” A place of safety in danger.
+
+v07: חָסָה (chasah)  
+“To take refuge.” To seek protection or shelter.
+
+v11: בְּלִיַּעַל (beliyya'al)  
+“Worthlessness,” “wickedness,” or “destructive rebellion.” A term for what is corrupt and without good purpose.
 
 v15: שָׁלוֹם (shalom)
 “Peace,” “wholeness,” or “well-being.” Here the content of the good news proclaimed to Judah.

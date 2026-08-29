@@ -121,6 +121,54 @@ v35: Movement continues. The narrative does not resolve tension before proceedin
 
 ##Vocabulary
 
+v1: רָעַע (raʿaʿ)
+“To be evil.” Used here to characterize the complaint itself.
+
+v1: אֵשׁ (ʾesh)
+“Fire.” Often a sign of divine presence in judgment.
+
+v4: תַּאֲוָה (taʾavah)
+“Craving” or “desire.” A strong, consuming longing.
+
+v6: נֶפֶשׁ (nephesh)
+“Soul” or “life.” Refers to the whole living self.
+
+v7: מָן (man)
+“Manna.” The term is left untranslated as a proper name.
+
+v10: חָרָה (ḥarah)
+“To burn.” Used of anger, especially divine anger.
+
+v11: עָבַד (ʿavad)
+“To serve.” Moses identifies himself as servant in relation to God.
+
+v12: אָמַן (ʾaman)
+“To carry” or “to support.” Related to nurturing or sustaining.
+
+v17: רוּחַ (ruaḥ)
+“Spirit.” Denotes divine empowerment and presence.
+
+v18: קָדַשׁ (qadash)
+“To consecrate.” To set apart for a specific purpose.
+
+v23: יָד (yad)
+“Hand.” A common metaphor for power or capacity.
+
+v25: נָבָא (navaʾ)
+“To prophesy.” Speaking under divine influence.
+
+v31: שְׂלָו (selav)
+“Quail.” The provision brought by the wind.
+
+v33: נָכָה (nakah)
+“To strike.” Often used for divine judgment.
+
+v34: קִבְרוֹת הַתַּאֲוָה (Kivrot ha-taʾavah)
+“Graves of craving.” A place name interpreting the event.
+
+v35: חָצֵרוֹת (Hazerot)
+“Hazeroth.” A location marking the next stage of the journey.
+
 v01: רָעַע (raʿaʿ)
 “To be evil.” Used here to characterize the complaint itself.
 
@@ -129,6 +177,3 @@ v01: אֵשׁ (ʾesh)
 
 v06: נֶפֶשׁ (nephesh)
 “Soul” or “life.” Refers to the whole living self.
-
-v17: רוּחַ (ruaḥ)
-“Spirit.” Denotes divine empowerment and presence.

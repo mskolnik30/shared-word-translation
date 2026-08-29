@@ -93,6 +93,33 @@ v04: “flock doomed to slaughter” — The Hebrew literally describes sheep as
 
 ##Vocabulary
 
+v4: רָעָה (raah)  
+“To shepherd” or “tend.” To care for and guide a flock; often used figuratively of leadership.  
+
+v5: חָמַל (chamal)  
+“To have compassion” or “spare.” To refrain from destruction out of pity or care.  
+
+v7: נֹעַם (noam)  
+“Favor,” “pleasantness,” or “grace.” The name given to the first shepherd’s staff.  
+
+v7: חֹבְלִים (chovelim)  
+“Union,” “binders,” or “bonds.” The name of the second staff, associated with connection between Judah and Israel.  
+
+v8: קָצַר (qatsar)  
+“To become impatient” or “be shortened.” In this context the shepherd’s patience with the flock or shepherds reaches its limit.  
+
+v12: שָׂכָר (sakhar)  
+“Wages” or “payment.” Compensation for labor or service.  
+
+v13: יוֹצֵר (yotser)  
+“Potter.” One who forms clay into vessels.  
+
+v15: אֱוִיל (evil)  
+“Foolish.” Characterized by moral or practical failure rather than merely lack of intelligence.  
+
+v17: אֱלִיל (elil)  
+“Worthless.” Empty, ineffective, or of no value; here describing the failed shepherd.  
+
 v04: רָעָה (raah)
 “To shepherd” or “tend.” To care for and guide a flock; often used figuratively of leadership.
 

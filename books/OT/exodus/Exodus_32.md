@@ -123,14 +123,32 @@ v34: Judgment is delayed but not erased. Intercession preserves Israel from imme
 
 ##Vocabulary
 
+v04: מַסֵּכָה (massekhah)
+“Cast image.” An image formed from molten metal.
+
 v06: צָחַק (tsachaq)
 “To laugh,” “play,” or “revel.” The people rise for festivity after sacrifice.
+
+v09: קְשֵׁה־עֹרֶף (qesheh-oref)
+“Stiff-necked.” A metaphor for stubborn resistance.
 
 v11: חָלָה אֶת־פְּנֵי (chalah et-pene)
 “To plead before,” literally to soften or entreat the face.
 
+v14: נָחַם (nacham)
+“To relent” or “be moved.” The LORD responds to Moses’ intercession.
+
 v19: שָׁבַר (shavar)
 “To shatter.” Moses breaks the covenant tablets.
 
+v25: פָּרַע (para)
+“To break loose” or “be unrestrained.”
+
 v29: מִלֵּא יָד (mille yad)
 “To fill the hand.” An idiom of consecration or installation.
+
+v30: כִּפֶּר (kipper)
+“To make atonement.” Moses hopes to address the people’s sin before God.
+
+v32: מָחָה (machah)
+“To wipe out” or “erase.” Moses speaks of being erased from God’s book.

@@ -54,3 +54,6 @@ v05: כָּנַע (kana)
 
 v06: כּוּן (kun)
 “To establish” or make firm.
+
+v06: דֶּרֶךְ (derekh)
+“Way.” Jotham establishes his ways before the LORD.

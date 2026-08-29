@@ -65,6 +65,70 @@ v18: Memory restores truth—capacity itself is a gift. Wealth is tied to covena
 
 ##Vocabulary
 
+v7: אֶרֶץ (ʾereṣ)  
+
+v7: “Land.” Territory of promise and provision.  
+
+v7: נַחַל (naḥal)  
+
+v7: “Brook/stream.” Flowing water in a valley.  
+
+v8: גֶּפֶן (gepen)  
+
+v8: “Vine.” Source of grapes and wine.  
+
+v8: רִמּוֹן (rimmôn)  
+
+v8: “Pomegranate.” Symbol of fertility and abundance.  
+
+v9: חָסֵר (ḥāsēr)  
+
+v9: “To lack.” To be in need.  
+
+v10: שָׂבַע (śāḇaʿ)  
+
+v10: “To be satisfied.” To be filled fully.  
+
+v10: בָּרַךְ (bāraḵ)  
+
+v10: “To bless.” To speak well of, give thanks.  
+
+v11: שָׁכַח (šāḵaḥ)  
+
+v11: “To forget.” To fail to remember or act accordingly.  
+
+v11: מִצְוָה (miṣwāh)  
+
+v11: “Commandment.” Instruction with authority.  
+
+v14: רוּם (rûm)  
+
+v14: “To be lifted up.” To become exalted or proud.  
+
+v15: נָחָה (nāḥāh)  
+
+v15: “To lead.” To guide along a path.  
+
+v16: עָנָה (ʿānāh)  
+
+v16: “To humble.” To bring low or discipline.  
+
+v16: נָסָה (nāsāh)  
+
+v16: “To test.” To prove or examine.  
+
+v17: כֹּחַ (kōaḥ)  
+
+v17: “Power.” Strength or capacity.  
+
+v18: זָכַר (zāḵar)  
+
+v18: “To remember.” To actively recall and respond.  
+
+v18: בְּרִית (berît)  
+
+v18: “Covenant.” Binding agreement grounded in promise.  
+
 v07: אֶרֶץ (ʾereṣ)
 “Land.” Territory of promise and provision.
 

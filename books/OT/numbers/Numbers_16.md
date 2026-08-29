@@ -121,6 +121,9 @@ v05: קָרוֹב (qarov)
 v22: רוּחֹת כָּל־בָּשָׂר (ruchot kol-basar)
 “Spirits of all flesh.” A designation with a sense of God’s authority over every living human spirit.
 
+v30: בָּרָא (bara)
+“To create.” Used here of the unprecedented judgment of the opening ground.
+
 v33: שְׁאוֹל (Sheol)
 “Sheol.” The realm of the dead.
 

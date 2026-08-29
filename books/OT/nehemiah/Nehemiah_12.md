@@ -100,11 +100,17 @@ v27: חֲנֻכָּה (chanukkah)
 v27: שִׂמְחָה (simchah)
 “Joy” or “gladness.” A dominant term in the wall-dedication scene.
 
+v27: תּוֹדָה (todah)
+“Thanksgiving.” Grateful praise, also used for thanksgiving groups or processions.
+
 v30: טָהֵר (taher)
 “To purify” or “be clean.” Ritual cleansing applied to people, gates, and wall.
 
 v44: תְּרוּמָה (terumah)
 “Contribution” or “offering.” A portion lifted or set apart for sacred use.
+
+v44: מַעֲשֵׂר (ma'aser)
+“Tithe.” A tenth portion designated for Levitical and sacred support.
 
 v47: קָדַשׁ (qadash)
 “To set apart” or “consecrate.” To designate something as belonging to holy service.

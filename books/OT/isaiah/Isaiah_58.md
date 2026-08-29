@@ -49,6 +49,15 @@ v8: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manif
 
 ##Vocabulary
 
+v6: צוֹם (tsom)  
+“Fast.” Ritual abstinence reoriented toward justice and release from oppression.  
+
+v2: צְדָקָה (tsedaqah)  
+“Righteousness.” Rightness and faithfulness in relationship and action.  
+
+v8: כָּבוֹד (kavod)  
+“Glory.” Weight, honor, or manifest splendor.  
+
 v06: צוֹם (tsom)
 “Fast.” Ritual abstinence reoriented toward justice and release from oppression.
 

@@ -89,5 +89,17 @@ v03: אָשָׁם (asham)
 v05: כָּבוֹד (kavod)
 “Glory” or honor. The Philistines are told to give glory to God.
 
+v06: כָּבֵד לֵב (kaved lev)
+“To harden the heart.”
+
+v09: מִקְרֶה (miqreh)
+“Chance” or occurrence.
+
+v12: יָשַׁר (yashar)
+“To go straight.”
+
 v20: קָדוֹשׁ (qadosh)
 “Holy.”
+
+v21: קִרְיַת יְעָרִים (Qiryat-Ye'arim)
+“Kiriath-Jearim.” The next resting place of the ark.

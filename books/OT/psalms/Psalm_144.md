@@ -77,7 +77,7 @@ v14: The Hebrew livestock line is compressed and uncertain. “Bear without mish
 ##Vocabulary
 
 v04: הֶבֶל (hevel)
-“Breath,” “vapor,” or what is fleeting.
+“Breath,” “vapor,” or what is fleeting. The image emphasizes transience rather than moral worthlessness.
 
 v10: תְּשׁוּעָה (teshuʿah)
 “Victory,” “deliverance,” or saving help, especially rescue that changes the outcome of danger.

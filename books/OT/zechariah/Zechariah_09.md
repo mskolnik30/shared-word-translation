@@ -140,8 +140,20 @@ v01: מַשָּׂא (massa)
 v03: מָצוֹר (matsor)
 “Stronghold” or “fortification.” Defensive construction intended to make a city secure.
 
+v07: שִׁקּוּץ (shiquts)
+“Abomination.” Something regarded as ritually or religiously detestable.
+
+v09: עָנִי (ani)
+“Humble,” “afflicted,” or “lowly.” Describes one who is brought low or without conventional power.
+
 v10: שָׁלוֹם (shalom)
 “Peace,” “wholeness,” or “well-being.” Here the king speaks peace beyond Israel to the nations.
 
 v11: בְּרִית (berit)
 “Covenant.” A binding relationship established through promise and obligation.
+
+v12: תִּקְוָה (tiqvah)
+“Hope” or “expectation.” That toward which one waits or looks with expectation.
+
+v16: צֹאן (tson)
+“Flock.” Sheep or goats under the care of a shepherd, here used for the LORD’s people.

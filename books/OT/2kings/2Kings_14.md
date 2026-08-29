@@ -122,5 +122,23 @@ v06: תּוֹרַת מֹשֶׁה (torat Moshe)
 v07: סֶלַע (Sela)
 “Sela,” literally “rock.” An Edomite stronghold.
 
+v08: רָאָה פָנִים (ra'ah panim)
+“To look one another in the face.” A challenge to battle.
+
+v09: חוֹחַ (choach)
+“Thornbush.” The lowly plant in Jehoash’s parable.
+
 v10: כָּבוֹד (kavod)
 “Glory.” Amaziah is told to enjoy his victory without overreaching.
+
+v19: קֶשֶׁר (qesher)
+“Conspiracy.” The plot against Amaziah.
+
+v25: גְּבוּל (gevul)
+“Border.” Jeroboam restores Israel’s territory.
+
+v26: עֳנִי (oni)
+“Affliction.” Israel’s severe distress.
+
+v27: מָחָה (machah)
+“To wipe out.” The LORD had not decreed Israel’s erasure.

@@ -83,3 +83,9 @@ v12: חָלַק (chalaq)
 
 v13: נָפַל אֶל (nafal el)
 “To fall away to” or “desert to.” The accusation made against Jeremiah.
+
+v16: חֲנוּת (chanut)
+“Cell” or “vault.” Part of the prison complex in Jonathan’s house.
+
+v20: תְּחִנָּה (techinnah)
+“Plea” or “supplication.” Jeremiah’s appeal not to be returned to the dungeon.

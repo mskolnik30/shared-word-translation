@@ -69,6 +69,9 @@ v18: “glory” — Hebrew *kavod* carries the sense of weight, honor, and mani
 v22: מַפְתֵּחַ (mafteach)
 “Key.” Symbol of delegated household authority.
 
+v14: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
 v14: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 

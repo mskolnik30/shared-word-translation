@@ -92,3 +92,9 @@ v10: אֲדָמָה (adamah)
 
 v15: חִשָּׁבוֹן (chishshavon)
 “Device” or invention.
+
+v16: גָּבַהּ לֵב (gavah lev)
+“To lift up the heart.” Pride.
+
+v19: צָרַעַת (tsara'at)
+“Skin disease.”

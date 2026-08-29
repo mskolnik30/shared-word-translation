@@ -71,3 +71,9 @@ v04: דָּרַשׁ (darash)
 
 v07: צָלַח (tsalach)
 “To prosper.”
+
+v11: שָׁעַן (sha'an)
+“To rely upon.”
+
+v14: פַּחַד (pachad)
+“Terror.” Fear attributed to the LORD.

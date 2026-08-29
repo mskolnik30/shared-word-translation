@@ -61,6 +61,42 @@ v19–21: The list of peoples emphasizes that the promised land is already inhab
 
 ##Vocabulary
 
+v1: מָגֵן (māgēn)  
+“Shield.” A symbol of protection, defense, and security.  
+
+v1: שָׂכָר (śākār)  
+“Reward” or “wages.” Compensation, benefit, or recompense received.  
+
+v3: יוֹרֵשׁ (yôrēš)  
+“Heir.” One who receives inheritance or succession rights.  
+
+v5: זֶרַע (zeraʿ)  
+“Offspring” or “seed.” A key covenant term that can refer to a descendant or a multitude of descendants.  
+
+v6: אָמַן (ʾāman)  
+“To trust,” “believe,” or “rely upon.” The root conveys firmness and confidence.  
+
+v6: צְדָקָה (ṣĕdāqâ)  
+“Righteousness.” Right standing, faithfulness, or conformity to what is just.  
+
+v12: תַּרְדֵּמָה (tardēmâ)  
+“Deep sleep.” A divinely induced state associated with significant revelation.  
+
+v13: גּוּר (gûr)  
+“To sojourn.” To reside as a foreigner or temporary resident.  
+
+v16: עָוֹן (ʿāwōn)
+“Iniquity.” Guilt, wrongdoing, or its resulting burden.
+
+v18: בְּרִית (bĕrît)  
+“Covenant.” A binding relationship established through solemn commitment.  
+
+v18: נָתַן (nāṯan)  
+“To give.” The repeated covenant verb emphasizing divine initiative and gift.  
+
+v18: נָהָר (nāhār)  
+“River.” Used here of major geographical boundaries that define the promised land.  
+
 v05: זֶרַע (zeraʿ)
 “Offspring” or “seed.” A key covenant term that can refer to a descendant or a multitude of descendants.
 
@@ -69,6 +105,3 @@ v06: אָמַן (ʾāman)
 
 v06: צְדָקָה (ṣĕdāqâ)
 “Righteousness.” Right standing, faithfulness, or conformity to what is just.
-
-v16: עָוֹן (ʿāwōn)
-“Iniquity.” Guilt, wrongdoing, or its resulting burden.

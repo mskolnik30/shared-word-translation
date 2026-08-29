@@ -82,8 +82,17 @@ v22: Fulfillment is one test of prophecy, but Deuteronomy 13 makes clear that ev
 
 ##Vocabulary
 
+v01: נַחֲלָה (nachalah)
+“Inheritance.” Territorial or covenantal portion.
+
+v03: מִשְׁפַּט הַכֹּהֲנִים (mishpat ha-kohanim)
+“Priests’ due.” The share legally assigned to priests.
+
 v09: תּוֹעֵבָה (toevah)
 “Detestable practice.” Worship incompatible with covenant holiness.
+
+v10: קֶסֶם (qesem)
+“Divination.” Seeking hidden knowledge through forbidden means.
 
 v11: אוֹב (ov)
 “Medium” or spirit-medium. One who claims contact with the dead.
@@ -93,3 +102,9 @@ v13: תָּמִים (tamim)
 
 v15: נָבִיא (navi)
 “Prophet.” One raised up to speak the LORD’s word.
+
+v20: זִיד (zid)
+“To act presumptuously.” To claim divine authority without command.
+
+v22: יָרֵא (yare)
+“To fear.” Israel need not fear a prophet whose word is false.

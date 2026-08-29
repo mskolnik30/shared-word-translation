@@ -131,17 +131,63 @@ v49: “one instruction” — Covenant life is not two-tiered; the same instruc
 
 ##Vocabulary
 
+v2: חֹדֶשׁ (ḥodesh) — month; new moon  
+
+v3: עֵדָה (ʿedah) — congregation; assembly  
+
+v3: שֶׂה (seh) — lamb; small livestock (sheep/goat)  
+
+v6: שָׁחַט (shaḥat) — to slaughter  
+
+v7: דָּם (dam) — blood  
+
+v7: מְזוּזָה (mezuzah) — doorpost  
+
+v7: מַשְׁקוֹף (mashqof) — lintel; doorframe top  
+
+v8: מַצָּה (matzah) — unleavened bread  
+
+v8: מְרֹרִים (merorim) — bitter herbs  
+
+v11: פֶּסַח (pesach) — Passover  
+
+v12: בְּכוֹר (bekhor) — firstborn  
+
+v12: אֱלֹהִים (’elohim) — gods; God (context)  
+
+v13: אוֹת (’ot) — sign; mark  
+
+v15: שְׂאֹר (se’or) — leaven; yeast starter  
+
+v19: גֵּר (ger) — resident alien; sojourner  
+
+v22: אֵזוֹב (’ezov) — hyssop  
+
+v27: זָבַח (zavach)
+“Sacrifice; to slaughter for sacrifice.”
+
+v31: עָבַד (ʿavad) — to serve; to worship  
+
+v35: כֶּסֶף (kesef) — silver; money  
+
+v35: זָהָב (zahav) — gold  
+
+v36: חֵן (ḥen) — favor; grace  
+
+v36: חֵן (ḥen)
+“Favor; grace.”
+
+v38: עֵרֶב רַב (ʿerev rav) — mixed multitude  
+
+v42: שִׁמּוּרִים (shimmurim) — watching; vigil; keeping/guarding  
+
+v46: עֶצֶם (ʿetsem) — bone  
+
+v49: תּוֹרָה (torah)
+“Instruction; teaching.”
+
 v02: חֹדֶשׁ (ḥodesh)
 “Month; new moon.”
 
 v03: עֵדָה (ʿedah)
 “Congregation; assembly.”
-
-v27: זָבַח (zavach)
-“Sacrifice; to slaughter for sacrifice.”
-
-v36: חֵן (ḥen)
-“Favor; grace.”
-
-v49: תּוֹרָה (torah)
-“Instruction; teaching.”

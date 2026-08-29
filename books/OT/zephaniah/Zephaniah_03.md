@@ -171,6 +171,27 @@ v20: “Restore your fortunes” can describe the reversal of a people’s devas
 
 ##Vocabulary
 
+v1: **יוֹנָה — *yonah***: The term describes the city as oppressive or violent. Its use frames the chapter’s condemnation around the city’s abuse of power.  
+
+v2: **מוּסָר — *musar***: “Discipline” is correction intended to instruct. The city’s refusal to receive it reveals resistance to the LORD’s call rather than mere ignorance.  
+
+v4: **תּוֹרָה — *torah***: Often rendered “law,” this word denotes divine instruction. The priests’ violation of it joins corrupt worship to injustice in communal life.  
+
+v8: **קִנְאָה — *qin’ah***: “Jealousy” expresses the LORD’s zealous commitment to what belongs to him. Here it appears in the severe imagery of judgment upon the earth.  
+
+v9: **שָׂפָה — *safah***: Literally “lip,” here meaning speech or language. Its purification enables the peoples’ united invocation of the LORD’s name.  
+
+v12: **עָנִי — *ani***: “Poor” can describe material deprivation and social vulnerability. The people left in Zion are defined not by pride but by lowliness and refuge in the LORD.  
+
+v13: שְׁאֵרִית (she’erit)
+“Remnant” names those who remain after judgment. In this passage, their identity is marked by truthfulness, justice, and freedom from fear.
+
+v17: **גִּבּוֹר — *gibbor***: A strong warrior or champion. The LORD’s saving presence is portrayed as powerful, while the surrounding lines also depict tender delight and love.  
+
+v19: **נִדָּחָה — *nidachah***: “Outcast” refers to one driven away or scattered. The promise of gathering reverses exclusion and abandonment.  
+
+v20: **שְׁבוּת — *shebuth***: Commonly rendered “fortunes,” the word concerns a condition of captivity, loss, or ruin that the LORD reverses before the people’s eyes.  
+
 v01: יוֹנָה (yonah)
 “Oppressing; violent.” The adjective characterizes the city’s conduct.
 
@@ -179,6 +200,3 @@ v04: תּוֹרָה (torah)
 
 v09: שָׂפָה (safah)
 “Lip.” Its purification enables the peoples’ united invocation of the LORD’s name.
-
-v13: שְׁאֵרִית (she’erit)
-“Remnant” names those who remain after judgment. In this passage, their identity is marked by truthfulness, justice, and freedom from fear.

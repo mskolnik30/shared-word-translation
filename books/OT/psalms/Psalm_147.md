@@ -74,6 +74,9 @@ v17: The Hebrew compares hail or ice to scattered morsels. “Crumbs” preserve
 ##Vocabulary
 
 v03: שָׁבַר לֵב (shavar lev)
+Literally, “broken of heart,” an idiom for those inwardly crushed by grief, loss, or distress.
+
+v03: שָׁבַר לֵב (shavar lev)
 “Broken of heart.”
 
 v20: מִשְׁפָּטִים (mishpatim)

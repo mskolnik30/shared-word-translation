@@ -66,14 +66,26 @@ v2: “servant” — Isaiah uses servant language in several contexts. TSW pres
 
 ##Vocabulary
 
+v23: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v23: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
 v23: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+
+v23: צִיּוֹן (tsiyyon)
+“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+
+v2: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
+
+v5: בְּרִית (berit)  
+“Covenant.” A binding relationship shaped by promise and obligation.  
 
 v02: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.
 
 v05: בְּרִית (berit)
 “Covenant.” A binding relationship shaped by promise and obligation.
-
-v23: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.

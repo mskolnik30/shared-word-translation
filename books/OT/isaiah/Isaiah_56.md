@@ -42,14 +42,26 @@ v1: “justice” — Hebrew *mishpat* includes judgment, legal right, and the o
 
 ##Vocabulary
 
+v4: סָרִיס (saris)  
+“Eunuch.” One of the explicitly welcomed groups in the chapter’s vision of covenant belonging.  
+
+v4: בְּרִית (berit)  
+“Covenant.” A binding relationship shaped by promise and obligation.  
+
+v6: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
+
+v1: מִשְׁפָּט (mishpat)  
+“Justice” or “judgment.” Right judgment and right communal ordering.  
+
 v04: סָרִיס (saris)
 “Eunuch.” One of the explicitly welcomed groups in the chapter’s vision of covenant belonging.
 
-v06: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
 v04: בְּרִית (berit)
 “Covenant.” A binding relationship shaped by promise and obligation.
+
+v06: עֶבֶד (eved)
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
 
 v01: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Right judgment and right communal ordering.

@@ -44,6 +44,30 @@ v5: God’s character (goodness, steadfast love, faithfulness) grounds praise.
 
 ##Vocabulary
 
+v1: רוּעַ (rua‘)
+“To shout.” Raise a joyful cry.
+
+v2: עָבַד (avad)
+“To serve.” Worship through action.
+
+v3: יָדַע (yada‘)
+“To know.” Recognize relationally.
+
+v3: רָעָה (ra‘ah)
+“To pasture.” Shepherding care.
+
+v4: תּוֹדָה (todah)
+“Thanksgiving.” Expression of gratitude.
+
+v5: טוֹב (tov)
+“Good.” Beneficial and right.
+
+v5: חֶסֶד (chesed)
+“Steadfast love.” Covenant loyalty.
+
+v5: אֱמוּנָה (emunah)
+“Faithfulness.” Reliability.
+
 v01: רוּעַ (rua‘)
 “To shout.” Raise a joyful cry.
 

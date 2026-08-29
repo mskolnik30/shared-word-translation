@@ -151,5 +151,20 @@ v12: נָבָלָה (nevalah)
 v14: עָנָה (anah)
 “To humiliate” or “violate.” Used of Amnon’s sexual assault of Tamar.
 
+v15: שָׂנֵא (sane)
+“To hate.” Amnon’s response after violating Tamar.
+
 v18: פַּסִּים (passim)
 “A garment term of uncertain meaning, traditionally “long robe with sleeves.”.”
+
+v19: אֵפֶר (efer)
+“Ashes.” Tamar places them on her head in grief.
+
+v20: שָׁמֵם (shamem)
+“To be desolate.” Tamar’s condition in Absalom’s house.
+
+v28: חָזַק (chazaq)
+“To be strong.” Absalom exhorts his servants before murder.
+
+v39: כָּלָה (kalah)
+“To be spent,” “long,” or “come to an end.” A difficult verb in David’s response toward Absalom.

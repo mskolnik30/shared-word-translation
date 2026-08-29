@@ -130,5 +130,11 @@ v04: רֹפְאֵי אֱלִל (rof'ei elil)
 v08: נָשָׂא פָנִים (nasa panim)
 “To show partiality.” Literally to lift a face in favor of one side.
 
+v15: יָחַל (yachal)
+“To hope” or “wait.” The reading followed by TSW in Job’s declaration toward God.
+
 v18: מִשְׁפָּט (mishpat)
 “Case,” “judgment,” or “justice.” Job says he has arranged his legal case.
+
+v27: סַד (sad)
+“Stocks.” A device restraining the feet, used as an image of divine confinement.

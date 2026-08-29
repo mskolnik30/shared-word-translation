@@ -186,8 +186,20 @@ v27: The human spirit becomes an instrument through which the LORD searches inwa
 v01: שֵׁכָר (shekhar)
 “Strong drink.” An intoxicating beverage distinct from ordinary wine.
 
+v05: עֵצָה (etsah)
+“Counsel” or “purpose.” Intention pictured as deep water.
+
 v06: אֱמוּנִים (emunim)
 “Faithfulness.” Reliable and trustworthy character.
+
+v10: אֵיפָה (ephah)
+“Measure.” A standard unit whose manipulation could facilitate fraud.
+
+v18: תַּחְבֻּלוֹת (tachbulot)
+“Wise guidance” or “strategy.” Skilled counsel, especially in complex action.
+
+v22: יָשַׁע (yasha)
+“To save” or “deliver.” The LORD’s action replacing private vengeance.
 
 v27: נְשָׁמָה (neshamah)
 “Spirit” or “breath.” The human life-breath pictured as the LORD’s lamp.

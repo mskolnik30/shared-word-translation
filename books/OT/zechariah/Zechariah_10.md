@@ -105,6 +105,33 @@ v12: “walk in the LORD’s name” — The restored community’s life is char
 
 ##Vocabulary
 
+v1: מַלְקוֹשׁ (malqosh)  
+“Spring rain” or “latter rain.” Seasonal rain arriving toward the end of the rainy season.  
+
+v2: תְּרָפִים (teraphim)  
+“Household gods.” Cultic objects associated with domestic religion or divination.  
+
+v2: קָסַם (qasam)  
+“To divine.” To seek hidden knowledge or guidance through divinatory practice.  
+
+v3: פָּקַד (paqad)  
+“To attend to,” “visit,” or “call to account.” The same root can describe both judgment and attentive care depending on context.  
+
+v4: פִּנָּה (pinnah)  
+“Corner” or “cornerstone.” That which gives strength or orientation to a structure.  
+
+v6: רָחַם (racham)  
+“To have compassion.” To show deep mercy or care toward one in distress.  
+
+v8: שָׁרַק (sharaq)  
+“To whistle.” To summon by a sharp sound, here used for the LORD gathering the dispersed people.  
+
+v8: פָּדָה (padah)  
+“To redeem” or “ransom.” To secure release or reclaim someone from bondage.  
+
+v12: הָלַךְ (halakh)  
+“To walk.” Frequently used metaphorically for a manner or pattern of life.  
+
 v01: מַלְקוֹשׁ (malqosh)
 “Spring rain” or “latter rain.” Seasonal rain arriving toward the end of the rainy season.
 

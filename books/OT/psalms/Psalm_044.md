@@ -159,11 +159,23 @@ v26: The final appeal rests not on military strength or even on the community’
 v02: נָטַע (nata)
 “To plant.” Used metaphorically for establishing a people securely in a land.
 
+v03: פָּנִים (panim)
+“Face” or “presence.” The “light” of God’s face expresses divine favor and active presence.
+
 v04: יְשׁוּעָה (yeshuah)
 “Saving help,” “deliverance,” or “salvation.” The Hebrew appears here in a plural form with a sense of acts or manifestations of deliverance.
 
+v13: חֶרְפָּה (cherpah)
+“Reproach,” “disgrace,” or “shame.” Public contempt directed toward a person or community.
+
 v17: בְּרִית (berit)
 “Covenant.” A binding relationship characterized by obligation, promise, and faithfulness.
+
+v19: צַלְמָוֶת (tsalmavet)
+“Shadow of death” or “deep darkness.” An image of profound danger, darkness, and nearness to death.
+
+v21: סֵתֶר (seter)
+“Hidden place” or “secret.” Here used for what lies concealed within the human heart.
 
 v26: חֶסֶד (ḥesed)
 “Steadfast love.” Faithful, enduring love that becomes the final ground of the community’s appeal for redemption.

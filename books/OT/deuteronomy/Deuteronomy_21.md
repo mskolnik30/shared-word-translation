@@ -86,11 +86,26 @@ v23: The corpse must be removed the same day so that execution does not continue
 v01: חָלָל (chalal)
 “Slain person.” One found killed in the field.
 
+v04: נַחַל אֵיתָן (nachal eitan)
+“Perennial valley” or “strong stream valley.” A difficult geographic term.
+
 v08: כִּפֶּר (kipper)
 “To make atonement.” To address bloodguilt before God.
 
+v10: שָׁבָה (shavah)
+“To take captive.” To carry away prisoners from war.
+
+v14: עָמַר (amar)
+“To treat as merchandise.” To exploit or enslave commercially.
+
 v17: פִּי שְׁנַיִם (pi shenayim)
 “Double portion,” literally “mouth of two.”
+
+v18: סוֹרֵר וּמוֹרֶה (sorer u-moreh)
+“Stubborn and rebellious.” Persistent refusal of parental authority.
+
+v20: זוֹלֵל (zolel)
+“Glutton.” One characterized by excessive consumption.
 
 v23: קִלְלַת אֱלֹהִים (qillat Elohim)
 “Curse of God.” The status associated with the hanged body.

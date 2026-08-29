@@ -189,6 +189,36 @@ v42–45: Fulfillment leads to responsibility—obedience to God’s law.
 
 ##Vocabulary
 
+v1: יָדָה (yadah)  
+“To give thanks.” Praise.  
+
+v4: דָּרַשׁ (darash)  
+“To seek.” Pursue.  
+
+v8: זָכַר (zakhar)  
+“To remember.” Act on memory.  
+
+v40: שָׁבַע (shava)
+“To swear.” Make oath.
+
+v17: שָׁלַח (shalach)
+“To send.” Commission.
+
+v19: צָרַף (tsaraph)  
+“To test.” Refine.  
+
+v27: אוֹת (ot)  
+“Sign.” Miraculous act.  
+
+v37: יָצָא (yatsa)  
+“To bring out.” Deliver.  
+
+v41: בָּקַע (baqa)  
+“To split.” Open.  
+
+v44: נָחַל (nachal)  
+“To inherit.” Receive possession.  
+
 v01: יָדָה (yadah)
 “To give thanks.” Praise.
 
@@ -197,9 +227,3 @@ v04: דָּרַשׁ (darash)
 
 v08: זָכַר (zakhar)
 “To remember.” Act on memory.
-
-v40: שָׁבַע (shava)
-“To swear.” Make oath.
-
-v17: שָׁלַח (shalach)
-“To send.” Commission.

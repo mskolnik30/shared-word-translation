@@ -138,5 +138,17 @@ v04: תַּנּוּר (tannur)
 v08: בָּלַל (balal)
 “To mix.” Ephraim mixes himself among the peoples.
 
+v08: עֻגָּה (uggah)
+“Cake.” A flat bread used in the image of something not turned.
+
+v11: פֹּתָה (potah)
+“Simple” or “easily deceived.” Describes the dove-like lack of discernment.
+
+v12: רֶשֶׁת (reshet)
+“Net.” The LORD’s trap spread over Ephraim’s flight.
+
 v13: פָּדָה (padah)
 “To redeem.” To reclaim or rescue from bondage.
+
+v16: קֶשֶׁת רְמִיָּה (qeshet remiyyah)
+“Deceptive bow.” A weapon that cannot be trusted to shoot true.

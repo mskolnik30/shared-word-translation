@@ -85,6 +85,9 @@ v24: The Gibeonites act from fear of the command they have heard concerning the 
 
 ##Vocabulary
 
+v04: עָרַם (aram)
+“To act craftily” or “be shrewd.” Used of the Gibeonites’ deceptive strategy.
+
 v06: בְּרִית (berit)
 “Covenant.” A binding agreement solemnized between parties.
 
@@ -93,6 +96,9 @@ v14: פִּי יְהוָה (pi YHWH)
 
 v15: שָׁלוֹם (shalom)
 “Peace.” Here a formal peaceful arrangement secured by covenant.
+
+v18: לוּן (lun)
+“To murmur” or “complain.” The congregation protests the leaders’ oath.
 
 v23: אָרַר (arar)
 “To curse.” Joshua places the Gibeonites under a lasting condition of service.

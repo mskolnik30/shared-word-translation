@@ -179,6 +179,36 @@ v43: Wisdom is defined as recognizing patterns of divine steadfast love.
 
 ##Vocabulary
 
+v2: גָּאַל (ga’al)  
+“To redeem.” To rescue.  
+
+v6: צָעַק (tsa‘aq)  
+“To cry out.” Call in distress.  
+
+v7: יָשָׁר (yashar)  
+“Straight.” Direct path.  
+
+v9: שָׂבַע (sava)  
+“To satisfy.” Fill fully.  
+
+v14: נָתַק (nataq)
+“To break.” Tear apart.
+
+v20: רָפָא (rapha)  
+“To heal.” Restore.  
+
+v25: רוּחַ (ruach)  
+“Wind.” Breath or force.  
+
+v29: דָּמַם (damam)  
+“To be still.” Quiet.  
+
+v35: הָפַךְ (haphakh)  
+“To turn.” Transform.  
+
+v43: בִּין (bin)  
+“To understand.” Discern.  
+
 v02: גָּאַל (ga’al)
 “To redeem.” To rescue.
 
@@ -190,6 +220,3 @@ v07: יָשָׁר (yashar)
 
 v09: שָׂבַע (sava)
 “To satisfy.” Fill fully.
-
-v14: נָתַק (nataq)
-“To break.” Tear apart.

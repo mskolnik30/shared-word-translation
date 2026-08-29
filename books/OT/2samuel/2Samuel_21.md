@@ -99,3 +99,21 @@ v06: יָקַע (yaqa)
 
 v10: שַׂק (saq)
 “Sackcloth.” Rizpah spreads it upon the rock during her vigil.
+
+v14: עָתַר (atar)
+“To be entreated” or respond to prayer. God responds for the land.
+
+v16: רָפָה (Rapha)
+“The giant” or ancestral giant designation.
+
+v17: נֵר יִשְׂרָאֵל (ner Yisrael)
+“Lamp of Israel.” A title for David as bearer of national continuity.
+
+v19: מְנוֹר אֹרְגִים (menor orgim)
+“Weaver’s beam.” The comparison for the spear shaft.
+
+v20: מִדִּין (middin)
+“Stature” or measure. Used of the extraordinary warrior.
+
+v21: חָרַף (charaf)
+“To taunt” or defy. The giant challenges Israel.

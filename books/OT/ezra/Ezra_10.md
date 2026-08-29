@@ -140,14 +140,29 @@ v44: The Hebrew final clause is compressed but indicates that some of the foreig
 v01: יָדָה (yadah)
 “To confess” or “give thanks.” Here Ezra openly acknowledges communal sin before God.
 
+v02: נָכְרִיָּה (nokhriyyah)
+“Foreign woman.” A woman identified as belonging to another people.
+
 v02: מָעַל (ma'al)
 “To act unfaithfully.” To violate a sacred covenantal trust.
 
 v03: בְּרִית (berit)
 “Covenant.” The solemn agreement the community proposes to make before God.
 
+v03: יָצָא (yatsa)
+“To go out” or “send out.” Used in the proposal concerning the wives and children.
+
+v08: חָרַם (charam)
+“To devote to destruction” or “forfeit.” Here applied to the property of one refusing the assembly.
+
+v11: יָדָה (yadah)
+“To confess.” The people are called to acknowledge guilt before the LORD.
+
 v14: חֲרוֹן אַף (charon af)
 “Burning anger.” A strong idiom for divine wrath.
+
+v16: דָּרַשׁ (darash)
+“To investigate” or “examine.” Used of the formal inquiry into the marriages.
 
 v19: אָשָׁם (asham)
 “Guilt” or “guilt offering.” The term connects culpability with the ram offered in response.

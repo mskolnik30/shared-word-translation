@@ -125,3 +125,6 @@ v24: כִּפֶּר (kipper)
 
 v31: מִלֵּא יָד (mille yad)
 “To fill the hand.” To consecrate oneself for service.
+
+v36: פּוֹתֵעַ (potea)
+“Suddenly.” The reform unfolds rapidly.

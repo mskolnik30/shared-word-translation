@@ -138,6 +138,50 @@ v9: The act required is simple yet interpretive: to “look” is to trust. Life
 
 ##Vocabulary
 
+v4: קָצַר נֶפֶשׁ (qāṣar nepeš)  
+
+“To grow short of soul.” To become impatient or discouraged.
+
+v5: דָּבַר (dāḇar)  
+
+“To speak.” Here, to speak against.
+
+v5: קָלֹקֵל (qālōqēl)  
+
+“Worthless/light.” Despised or insubstantial.
+
+v6: שָׂרָף (śārāf)  
+
+“Fiery serpent.” Burning, possibly venomous creature.
+
+v6: נָשַׁךְ (nāšaḵ)  
+
+“To bite.” To strike with harm.
+
+v7: חָטָא (ḥāṭāʾ)  
+
+“To sin.” To miss the mark or act wrongly.
+
+v7: פָּלַל (pālal)  
+
+“To pray/intercede.” To intervene before God.
+
+v8: נֵס (nēs)  
+
+“Pole/standard.” Raised sign or signal.
+
+v8: רָאָה (rāʾāh)  
+
+“To see/look.” To direct attention with intent.
+
+v9: נְחֹשֶׁת (neḥōšeṯ)  
+
+“Bronze.” Metal associated with durability.
+
+v9: חָיָה (ḥāyāh)  
+
+“To live.” To remain alive or be restored.
+
 v04: קָצַר נֶפֶשׁ (qāṣar nepeš)
 “To grow short of soul.” To become impatient or discouraged.
 

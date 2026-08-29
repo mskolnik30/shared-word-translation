@@ -178,3 +178,27 @@ v02: מוּסָר (musar)
 
 v03: צֶדֶק (tsedeq)
 “Righteousness” or “right conduct.” What conforms to what is right within relationships and communal life.
+
+v03: מִשְׁפָּט (mishpat)
+“Justice” or “judgment.” The ordering and practice of what is right.
+
+v04: פֶּתִי (peti)
+“Simple one.” Someone inexperienced, open, or easily persuaded, and therefore especially in need of wisdom.
+
+v04: מְזִמָּה (mezimmah)
+“Discretion” or “planning.” The capacity to think ahead and act with considered purpose.
+
+v07: יִרְאַת יְהוָה (yirat YHWH)
+“Fear of the LORD.” Reverent recognition of the LORD that orders knowledge and life.
+
+v07: כְּסִיל (kesil)
+“Fool.” One characterized not merely by lack of intelligence but by resistance to wisdom and correction.
+
+v20: חָכְמוֹת (chokhmot)
+“Wisdom.” A plural-form expression used here for personified Wisdom speaking publicly.
+
+v22: לֵץ (lets)
+“Scoffer.” One who treats wisdom, correction, or what is right with contempt.
+
+v31: דֶּרֶךְ (derekh)
+“Way,” “path,” or “manner of life.” A frequent wisdom image for the direction and pattern of a person’s conduct.

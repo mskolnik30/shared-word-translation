@@ -102,3 +102,9 @@ v11: כָּנַע (kana)
 
 v18: כִּפֶּר (kipper)
 “To make atonement.”
+
+v20: רָפָא (rapha)
+“To heal.”
+
+v22: דִּבֶּר עַל־לֵב (dibber al-lev)
+“To speak to the heart.” To encourage.

@@ -78,8 +78,20 @@ v01: בְּרִית (berit)
 v02: נָקַר (naqar)
 “To gouge out.”
 
+v03: מוֹשִׁיעַ (moshia)
+“Savior” or rescuer.
+
 v06: צָלַח רוּחַ (tsalach ruach)
 “The Spirit rushed upon.”
 
+v07: פַּחַד יְהוָה (pachad YHWH)
+“Dread of the LORD.”
+
 v09: תְּשׁוּעָה (teshuah)
 “Salvation” or victory.
+
+v14: חָדַשׁ (chadash)
+“To renew.”
+
+v15: שְׁלָמִים (shelamim)
+“Offerings of well-being.”

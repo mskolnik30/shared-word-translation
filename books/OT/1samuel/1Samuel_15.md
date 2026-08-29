@@ -152,5 +152,23 @@ v03: חָרַם (charam)
 v06: חֶסֶד (hesed)
 “Steadfast love.” The Kenites’ kindness to Israel.
 
+v11: נָחַם (nacham)
+“To regret” or relent.
+
+v19: עִיט (it)
+“To swoop down.” Saul’s movement toward the spoil.
+
+v22: שָׁמַע (shama)
+“To listen” or obey.
+
+v23: מֶרִי (meri)
+“Rebellion.”
+
+v23: הָפְצַר (hafetsar)
+“Presumption” or stubborn resistance.
+
 v29: נֵצַח יִשְׂרָאֵל (Netsach Yisrael)
 “Glory/Enduring One of Israel.”
+
+v33: שָׁסַף (shasaf)
+“To cut to pieces.” A rare violent verb.

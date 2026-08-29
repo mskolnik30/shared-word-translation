@@ -131,3 +131,21 @@ v14: פָּרַר (parar)
 
 v16: בָּלַע (bala)
 “To swallow up.” Hushai warns of total destruction.
+
+v17: עֵין רֹגֵל (En-Rogel)
+“En-Rogel.” A spring outside Jerusalem used as a meeting point.
+
+v18: בְּאֵר (be'er)
+“Well.” The hiding place of Jonathan and Ahimaaz.
+
+v23: צָוָה אֶל־בֵּיתוֹ (tsivvah el-beto)
+“To put his house in order.” Ahithophel arranges his household before death.
+
+v25: שַׂר צָבָא (sar tsava)
+“Commander of the army.” Amasa’s office.
+
+v29: יָגֵעַ (yagea)
+“Weary.” The condition of David’s people.
+
+v29: צָמֵא (tsame)
+“Thirsty.” One reason provisions are brought.

@@ -90,6 +90,42 @@ v38: Benjamin occupies the place of special concern once held by Joseph, reflect
 
 ##Vocabulary
 
+v2: שֶׁבֶר (šeḇer)  
+“Grain” or “food supply.” Often associated with provisions purchased during famine.  
+
+v6: שָׁחָה (šāḥâ)  
+“To bow down.” An act of submission, respect, or homage.  
+
+v7: נָכַר (nāḵar)  
+“To recognize.” A key verb in the Joseph narrative involving identity and concealment.  
+
+v9: חֲלוֹם (ḥălôm)  
+“Dream.” A divinely significant vision whose fulfillment shapes the narrative.  
+
+v12: עֶרְוָה (ʿerwâ)  
+“Nakedness.” Here referring to a vulnerable or exposed part of the land.  
+
+v15: בָּחַן (bāḥan)
+“To test” or “examine.” To determine truth or character through trial.
+
+v18: יִרְאַת אֱלֹהִים (yirʾat ʾĕlōhîm)  
+“Fear of God.” Reverence for God expressed in conduct and judgment.  
+
+v21: אָשֵׁם (ʾāšēm)  
+“To be guilty.” Recognition of wrongdoing and responsibility.  
+
+v22: דָּם (dām)  
+“Blood.” Often representing life and accountability for violence.  
+
+v24: בָּכָה (bāḵâ)  
+“To weep.” An expression of grief, compassion, or deep emotion.  
+
+v28: חָרַד (ḥāraḏ)  
+“To tremble.” Fear arising from unexpected or overwhelming circumstances.  
+
+v38: שְׁאוֹל (Šĕʾôl)
+“Sheol.” The realm of the dead, often associated with mourning and mortality.
+
 v02: שֶׁבֶר (šeḇer)
 “Grain” or “food supply.” Often associated with provisions purchased during famine.
 
@@ -98,9 +134,3 @@ v06: שָׁחָה (šāḥâ)
 
 v07: נָכַר (nāḵar)
 “To recognize.” A key verb in the Joseph narrative involving identity and concealment.
-
-v15: בָּחַן (bāḥan)
-“To test” or “examine.” To determine truth or character through trial.
-
-v38: שְׁאוֹל (Šĕʾôl)
-“Sheol.” The realm of the dead, often associated with mourning and mortality.

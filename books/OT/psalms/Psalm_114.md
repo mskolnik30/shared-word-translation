@@ -42,6 +42,30 @@ v7–8: The cause is divine presence. Power is expressed through transformation.
 
 ##Vocabulary
 
+v1: יָצָא (yatsa)  
+“To go out.” Depart.  
+
+v2: קֹדֶשׁ (qodesh)  
+“Sanctuary.” Holy place.  
+
+v3: נוּס (nus)  
+“To flee.” Escape.  
+
+v4: רָקַד (raqad)  
+“To skip.” Leap.  
+
+v7: חוּל (chul)  
+“To tremble.” Shake.  
+
+v8: הָפַךְ (haphakh)  
+“To turn.” Transform.  
+
+v8: צוּר (tsur)  
+“Rock.” Solid mass.  
+
+v8: חַלָּמִישׁ (chalamish)  
+“Flint.” Hard stone.  
+
 v01: יָצָא (yatsa)
 “To go out.” Depart.
 

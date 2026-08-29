@@ -109,13 +109,31 @@ v16–25: Job describes divine sovereignty as destabilizing human hierarchies: c
 ##Vocabulary
 
 v03: לֵבָב (levav)
+“Heart.” Here intellectual and moral understanding: “I also have a heart.”
+
+v03: לֵבָב (levav)
 “Heart.” Here the term refers to understanding or mind.
+
+v04: שְׂחוֹק (sechoq)
+“Laughingstock” or “object of laughter.” Job’s social humiliation.
 
 v04: שְׂחוֹק (sechoq)
 “Laughingstock; object of laughter.”
 
 v10: נֶפֶשׁ (nefesh)
+“Life,” “self,” or “living being.” The life of every creature is in God’s hand.
+
+v10: נֶפֶשׁ (nefesh)
 “Life; self; living being.”
 
 v13: תּוּשִׁיָּה (tushiyyah)
+“Sound wisdom” or “effective wisdom.” Belongs ultimately to God.
+
+v13: תּוּשִׁיָּה (tushiyyah)
 “Sound wisdom; effective wisdom.”
+
+v22: צַלְמָוֶת (tsalmavet)
+“Death-shadow” or “deep darkness.” God can bring even it into light.
+
+v24: תֹּהוּ (tohu)
+“Wasteland,” “formlessness,” or “emptiness.” A pathless place of disorientation.

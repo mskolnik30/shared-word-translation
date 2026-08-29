@@ -56,6 +56,30 @@ v08: “the Branch” — The Hebrew term can mean a shoot or sprout and became 
 
 ##Vocabulary
 
+v1: שָׂטָן (satan)  
+“Accuser” or “adversary.” One who opposes or brings accusation against another.  
+
+v2: אוּד (ud)  
+“Burning brand” or “firebrand.” A piece of wood pulled from a fire before being consumed.  
+
+v3: צוֹא (tso)  
+“Filthy.” Soiled or polluted, used here of Joshua’s garments.  
+
+v4: עָוֹן (avon)  
+“Guilt,” “iniquity,” or “wrong.” The term can describe wrongdoing together with the burden or consequence attached to it.  
+
+v5: צָנִיף (tsanif)  
+“Turban.” A wrapped head covering, here associated with Joshua’s restored priestly status.  
+
+v7: מִשְׁמֶרֶת (mishmeret)  
+“Charge,” “duty,” or “responsibility.” Something entrusted to another for faithful keeping.  
+
+v8: צֶמַח (tsemach)  
+“Branch,” “sprout,” or “shoot.” New growth used prophetically as an image of restoration and future leadership.  
+
+v9: עַיִן (ayin)  
+“Eye.” Used sevenfold in the imagery of the stone; the symbolic significance is not explicitly explained in this verse.  
+
 v01: שָׂטָן (satan)
 “Accuser” or “adversary.” One who opposes or brings accusation against another.
 

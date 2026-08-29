@@ -156,8 +156,23 @@ v02: אָסוּךְ שֶׁמֶן (asukh shemen)
 v08: אִשָּׁה גְדוֹלָה (ishah gedolah)
 “Great woman.” A woman of wealth or social standing.
 
+v09: אִישׁ אֱלֹהִים (ish Elohim)
+“Man of God.” A frequent title for Elisha.
+
+v16: מוֹעֵד (moed)
+“Appointed time.” The promised season of birth.
+
 v27: מַר נֶפֶשׁ (mar nefesh)
 “Bitter in life/spirit.” Deep inner distress.
+
+v29: מִשְׁעֶנֶת (mish'enet)
+“Staff.” Elisha’s staff carried by Gehazi.
+
+v35: עָטַשׁ (atash)
+“To sneeze.” The child sneezes seven times.
+
+v39: פַּקֻּעֹת שָׂדֶה (paqqu'ot sadeh)
+“Wild gourds.” A potentially poisonous field plant.
 
 v42: לֶחֶם בִּכּוּרִים (lechem bikkurim)
 “Bread of firstfruits.” The offering brought during famine.

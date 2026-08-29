@@ -66,5 +66,11 @@ v04: פָּקַח (paqach)
 v07: שְׁאֵרִית (she'erit)
 “Remnant.” Those left in Judah after deportation.
 
+v09: עָבַד (avad)
+“To serve.” Gedaliah urges service to Babylon as the path of survival.
+
+v10: קַיִץ (qayits)
+“Summer fruit.” Seasonal produce gathered by the remnant.
+
 v14: נָכָה נֶפֶשׁ (nakhah nefesh)
 “To strike the life.” An idiom for killing someone.

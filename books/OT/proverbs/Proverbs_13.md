@@ -157,8 +157,32 @@ v25: The chapter closes with satisfied and unsatisfied appetite, returning bodil
 
 ##Vocabulary
 
-v01: גְּעָרָה (gearah)
-“Rebuke” or “correction.” A direct verbal challenge intended to turn someone from wrong conduct.
+v1: גְּעָרָה (gearah)  
+“Rebuke” or “correction.” A direct verbal challenge intended to turn someone from wrong conduct.  
+
+v2: פְּרִי־פִי (peri fi)  
+“Fruit of the mouth.” The outcome produced by one’s speech.  
+
+v3: נָצַר (natsar)  
+“To guard” or “keep.” Careful protection, here of one’s speech and therefore one’s life.  
+
+v10: זָדוֹן (zadon)  
+“Pride” or “presumption.” Arrogance that generates conflict.  
+
+v12: תּוֹחֶלֶת (tochelet)  
+“Hope” or “expectation.” That for which someone waits with longing.  
+
+v12: עֵץ חַיִּים (ets chayyim)  
+“Tree of life.” An image of restored vitality and flourishing.  
+
+v14: מְקוֹר חַיִּים (meqor chayyim)  
+“Fountain of life.” A continuing source that preserves and nourishes life.  
+
+v17: צִיר (tsir)  
+“Messenger” or “envoy.” One sent to represent another and carry a message.  
+
+v20: רָעָה (raah)  
+“To associate with” or “be companion to.” The form here describes close company capable of shaping character.  
 
 v23: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Right ordering and judgment; its absence can contribute directly to deprivation.
@@ -168,3 +192,6 @@ v24: שֵׁבֶט (shevet)
 
 v24: מוּסָר (musar)
 “Discipline,” “instruction,” or “correction.” Intentional formation toward wisdom.
+
+v01: גְּעָרָה (gearah)
+“Rebuke” or “correction.” A direct verbal challenge intended to turn someone from wrong conduct.

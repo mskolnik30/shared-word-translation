@@ -136,8 +136,26 @@ v01: עָשַׁק (ashaq)
 v01: רָצַץ (ratsats)
 “To crush.” Violent treatment of the needy.
 
+v02: צִנָּה (tsinnah)
+“Hook.” An instrument used for taking captives in the prophetic image.
+
 v05: נְדָבָה (nedavah)
 “Freewill offering.” A voluntary offering publicly celebrated.
 
 v06: נִקְיוֹן שִׁנַּיִם (niqyon shinnayim)
 “Cleanness of teeth.” An idiom for famine.
+
+v07: מָנַע (mana)
+“To withhold.” The LORD withholds rain.
+
+v09: שִׁדָּפוֹן (shiddafon)
+“Blight.” Crop damage associated with scorching or disease.
+
+v09: יֵרָקוֹן (yeraqon)
+“Mildew” or crop pallor.
+
+v11: אוּד (ud)
+“Burning stick.” A piece of wood pulled from fire.
+
+v13: צָבָא (tsava)
+“Hosts.” The LORD is God of heavenly and earthly armies.

@@ -90,14 +90,45 @@ v34: Benjamin receives special favor, creating a situation similar to Joseph's e
 
 ##Vocabulary
 
-v09: עָרַב (ʿāraḇ)
-“To pledge” or “stand surety.” To assume responsibility for another's welfare.
+v9: עָרַב (ʿāraḇ)  
+“To pledge” or “stand surety.” To assume responsibility for another's welfare.  
 
 v11: מִנְחָה (minḥâ)
 “Gift” or “tribute.” A present offered to gain favor or show respect.
 
+v14: אֵל שַׁדַּי (ʾEl Šadday)  
+“God Almighty.” A covenant title emphasizing divine power and sufficiency.  
+
 v14: אֵל שַׁדַּי (ʾEl Šadday)
 “God Almighty.” Traditional rendering of the divine title; the precise etymology of Shaddai is uncertain.
 
+v18: עֶבֶד (ʿeḇeḏ)  
+“Slave” or “servant.” A dependent person under another's authority.  
+
+v23: שָׁלוֹם (šālôm)  
+
+v23: “Peace.” Well-being, safety, and freedom from fear.  
+
+v26: שָׁחָה (šāḥâ)  
+“To bow down.” An act of submission, respect, or homage.  
+
 v29: חָנַן (ḥānan)
 “To be gracious.” To show favor, kindness, or mercy.
+
+v30: רַחֲמִים (raḥămîm)  
+“Compassion.” Deep emotional concern and tender affection.  
+
+v32: תּוֹעֵבָה (tôʿēḇâ)  
+“Abomination.” Something regarded as detestable or unacceptable.  
+
+v33: בְּכֹרָה (bĕḵōrâ)  
+“Birthright.” The status and privileges associated with being firstborn.  
+
+v34: מַשְׂאֵת (maśśēʾṯ)  
+“Portion.” A serving or allotment given at a meal.  
+
+v34: שָׁתָה (šāṯâ)  
+“To drink.” Here associated with feasting and celebration.  
+
+v09: עָרַב (ʿāraḇ)
+“To pledge” or “stand surety.” To assume responsibility for another's welfare.

@@ -164,8 +164,11 @@ v39–42: - **v39–42 — Two worship sites:** The ark is in Jerusalem, while t
 
 ##Vocabulary
 
-v04: זָכַר (zakar)
-“to remember” or “call to remembrance.” The Levites’ ministry includes making God’s acts and covenant present in the worshiping memory of the people.
+v1: - **v1 — שְׁלָמִים (*shelamim*):** “offerings of well-being.” These sacrifices express wholeness and restored fellowship before God, fitting the celebration surrounding the ark.  
+
+v4: - **v4 — זָכַר (*zakar*):** “to remember” or “call to remembrance.” The Levites’ ministry includes making God’s acts and covenant present in the worshiping memory of the people.  
+
+v8: - **v8 — יָדָה (*yadah*):** “give thanks.” Repeated throughout the chapter, this verb describes public acknowledgment of the LORD’s character and acts.  
 
 v15: בְּרִית (berit)
 “covenant.” The song grounds praise in God’s binding commitment to Abraham, Isaac, Jacob, and Israel.
@@ -178,3 +181,6 @@ v34: חֶסֶד (hesed)
 
 v40: תּוֹרָה (torah)
 “instruction.” The prescribed offerings are not presented as spontaneous ritual alone but as worship ordered by the LORD’s instruction.
+
+v04: זָכַר (zakar)
+“to remember” or “call to remembrance.” The Levites’ ministry includes making God’s acts and covenant present in the worshiping memory of the people.

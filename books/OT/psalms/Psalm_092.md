@@ -77,6 +77,36 @@ v15: The purpose of flourishing is declarative—bearing witness to the characte
 
 ##Vocabulary
 
+v1: טוֹב (tov)  
+“Good.” Not merely pleasant, but fitting or right within God’s order.
+
+v2: חֶסֶד (chesed)  
+“Steadfast love.” Covenantal loyalty expressed in enduring relationship.
+
+v2: אֱמוּנָה (emunah)  
+“Faithfulness.” Reliability or steadiness over time.
+
+v6: בַּעַר (baʿar)  
+“Dull” or “brutish.” Lacking perception rather than intelligence.
+
+v7: צִיץ (tsits)  
+“To sprout” or “blossom.” Suggests quick, surface-level growth.
+
+v10: קֶרֶן (qeren)  
+“Horn.” Symbol of strength, honor, and vitality.
+
+v12: צַדִּיק (tsaddiq)
+“Righteous.” One aligned with God’s order and ways.
+
+v13: שָׁתַל (shatal)  
+“Planted.” Indicates intentional placement rather than accidental growth.
+
+v14: דָּשֵׁן (dashen)  
+“Full of sap” or “vigorous.” Conveys richness and sustained vitality.
+
+v15: צוּר (tsur)  
+“Rock.” A metaphor for stability, refuge, and reliability.
+
 v01: טוֹב (tov)
 “Good.” Not merely pleasant, but fitting or right within God’s order.
 
@@ -85,6 +115,3 @@ v02: חֶסֶד (chesed)
 
 v02: אֱמוּנָה (emunah)
 “Faithfulness.” Reliability or steadiness over time.
-
-v12: צַדִּיק (tsaddiq)
-“Righteous.” One aligned with God’s order and ways.

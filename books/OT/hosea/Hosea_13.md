@@ -150,5 +150,20 @@ v02: מַסֵּכָה (massekhah)
 v04: מוֹשִׁיעַ (moshia)
 “Savior” or “deliverer.” The LORD declares there is no savior besides him.
 
+v06: שָׂבַע (sava)
+“To be satisfied.” Fullness becomes the setting for forgetfulness.
+
+v08: שָׁכֹל (shakhol)
+“To be bereaved.” Used of a mother bear deprived of cubs.
+
+v12: צָרוּר (tsarur)
+“Bound up.” Guilt preserved or stored rather than forgotten.
+
+v14: פָּדָה (padah)
+“To ransom.” To secure release from bondage or danger.
+
 v14: שְׁאוֹל (Sheol)
 “Sheol.” The realm of the dead.
+
+v15: קָדִים (qadim)
+“East wind.” A hot, destructive wind from the wilderness.

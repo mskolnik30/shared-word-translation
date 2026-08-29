@@ -127,5 +127,20 @@ v06: דָּבַק (davaq)
 v13: לָכַד (lakhad)
 “To capture.” Assyria takes Judah’s fortified cities.
 
+v17: רַב־שָׁקֵה (Rav-Shaqeh)
+“Rabshakeh.” An Assyrian official title.
+
+v19: בִּטָּחוֹן (bittachon)
+“Confidence.” The central issue in the Assyrian challenge.
+
+v21: קָנֶה רָצוּץ (qaneh ratsuts)
+“Broken reed.” The image for Egypt.
+
+v26: אֲרָמִית (Aramit)
+“Aramaic.” The diplomatic language.
+
+v26: יְהוּדִית (Yehudit)
+“Judean.” The local language/dialect of Jerusalem.
+
 v31: בְּרָכָה (berakhah)
 “Peace agreement” or blessing. The Rabshakeh’s invitation to surrender.

@@ -184,5 +184,23 @@ v02: זָדוֹן (zadon)
 v03: יֹשֶׁר (yosher)
 “Uprightness” or “straightness.” Moral integrity pictured as a straight path.
 
+v09: חָנֵף (chanef)
+“Godless,” “profane,” or “corrupt.” One whose conduct is morally polluted or faithless.
+
+v13: רָכִיל (rakhil)
+“Gossip” or “slanderer.” One who travels about spreading damaging information.
+
+v14: תַּחְבֻּלוֹת (tachbulot)
+“Guidance,” “strategies,” or “wise counsel.” Skilled direction gained through deliberation.
+
 v17: חֶסֶד (ḥesed)
 “Steadfast love,” “loyalty,” or “kindness.” Faithful relational action.
+
+v22: טַעַם (taam)
+“Judgment,” “discernment,” or “good sense.” The capacity to perceive what is fitting.
+
+v25: בְּרָכָה (berakhah)
+“Blessing.” Here associated with generosity and flourishing.
+
+v30: עֵץ חַיִּים (ets chayyim)
+“Tree of life.” An image of life-giving influence and flourishing.

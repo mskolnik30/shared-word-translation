@@ -139,5 +139,17 @@ v07: בָּקַע (baqa)
 v11: בֵּית הַפְּקֻדֹּת (bet ha-pequddot)
 “Prison,” literally a “house of custody.” The place where Zedekiah remains until death.
 
+v17: יָם הַנְּחֹשֶׁת (yam ha-nechoshet)
+“Bronze sea.” The large temple basin associated with Solomon’s sanctuary.
+
+v22: רִמּוֹן (rimmon)
+“Pomegranate.” Decorative bronze fruit forms around the pillar capitals.
+
+v25: רֹאֵי פְנֵי הַמֶּלֶךְ (ro'ei pene ha-melekh)
+“Those who saw the king’s face.” Court officials with direct royal access.
+
+v27: גָּלָה (galah)
+“To go into exile” or “be carried away.” The chapter marks Judah’s removal from the land.
+
 v31: נָשָׂא אֶת־רֹאשׁ (nasa et-rosh)
 “To lift up the head.” An idiom of restoring a person to favor or status.

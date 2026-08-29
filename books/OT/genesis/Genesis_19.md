@@ -91,6 +91,42 @@ v30–38: The final episode mirrors earlier themes of fear, survival, and offspr
 
 ##Vocabulary
 
+v1: שַׁעַר (šaʿar)  
+“Gate.” The place of public life, legal proceedings, and civic authority.  
+
+v3: מַצּוֹת (maṣṣôt)  
+“Unleavened bread.” Bread made without leaven, often associated with urgency or special occasions.  
+
+v5: יָדַע (yādaʿ)  
+“To know.” Depending on context, the verb may refer to knowledge, relationship, or sexual relations.  
+
+v9: גּוּר (gûr)  
+“To sojourn.” To live as a foreigner or resident alien among a people.  
+
+v13: זַעֲקָה (zaʿăqâ)  
+“Outcry.” A cry arising from suffering, injustice, or grievous wrongdoing.  
+
+v16: חָמַל (ḥāmal)
+“To spare” or “show compassion.” A term expressing mercy and pity.
+
+v22: צֹעַר (Ṣōʿar)  
+“Zoar.” Meaning “small” or “little,” reflecting Lot’s plea regarding the city.  
+
+v24: גָּפְרִית (goprît)  
+“Sulfur.” A substance associated with fiery judgment.  
+
+v26: נְצִיב (nĕṣîḇ)  
+“Pillar.” A standing column, memorial, or fixed object.  
+
+v29: זָכַר (zāḵar)
+“To remember.” Covenant language describing faithful attention leading to action.
+
+v37: מוֹאָב (Môʾāḇ)  
+“Moab.” Traditionally connected with the origins of the Moabite people.  
+
+v38: בֶּן־עַמִּי (Ben-ʿAmmî)  
+“Son of my people.” The name associated with the ancestry of the Ammonites.  
+
 v01: שַׁעַר (šaʿar)
 “Gate.” The place of public life, legal proceedings, and civic authority.
 
@@ -99,9 +135,3 @@ v03: מַצּוֹת (maṣṣôt)
 
 v05: יָדַע (yādaʿ)
 “To know.” Depending on context, the verb may refer to knowledge, relationship, or sexual relations.
-
-v16: חָמַל (ḥāmal)
-“To spare” or “show compassion.” A term expressing mercy and pity.
-
-v29: זָכַר (zāḵar)
-“To remember.” Covenant language describing faithful attention leading to action.

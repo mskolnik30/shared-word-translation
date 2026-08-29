@@ -101,5 +101,23 @@ v01: תְּשׁוּעָה (teshuah)
 v10: רָחַץ (rachats)
 “To wash.” Naaman’s commanded action.
 
+v14: טָבַל (taval)
+“To dip” or immerse. Naaman dips seven times.
+
+v15: מִנְחָה (minchah)
+“Gift” or tribute. Naaman offers payment after healing.
+
+v17: אֲדָמָה (adamah)
+“Ground” or soil. Naaman asks for Israelite earth.
+
+v18: רִמּוֹן (Rimmon)
+“Rimmon.” The Aramean deity worshiped in Damascus.
+
 v19: שָׁלוֹם (shalom)
 “Peace.” Elisha’s word to Naaman.
+
+v20: חָשַׂךְ (chasakh)
+“To spare” or withhold. Gehazi resents Elisha’s refusal of payment.
+
+v27: דָּבַק (davaq)
+“To cling.” The disease is pronounced to cling to Gehazi.

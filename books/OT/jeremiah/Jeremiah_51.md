@@ -483,3 +483,18 @@ v11: מָדַי (Madai)
 
 v20: מַפֵּץ (mappets)
 “War club” or “shattering weapon.” An instrument used to break other powers.
+
+v25: הַר הַמַּשְׁחִית (har ha-mashchit)
+“Destroying mountain.” A metaphor for Babylon’s vast destructive power.
+
+v34: תַּנִּין (tannin)
+“Sea monster,” “dragon,” or great serpent-like creature.
+
+v41: שֵׁשַׁךְ (Sheshakh)
+“Sheshach.” An encoded name for Babylon.
+
+v56: גְּמֻלוֹת (gemulot)
+“Recompense” or “repayments.” The LORD is called a God who repays.
+
+v63: פְּרָת (Perat)
+“Euphrates.” The river into which the prophetic scroll is thrown.

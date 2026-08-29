@@ -150,3 +150,6 @@ v13: סֵפֶר הַיָּשָׁר (Sefer ha-Yashar)
 
 v24: צַוָּאר (tsavvar)
 “Neck.” The conquered kings’ necks become a symbol of subjugation.
+
+v40: נְשָׁמָה (neshamah)
+“Breath” or “breathing life.” Used in the phrase concerning every breathing thing.

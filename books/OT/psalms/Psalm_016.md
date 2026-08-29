@@ -58,6 +58,39 @@ v9–11: Security extends beyond death—life is defined by God’s presence.
 
 ##Vocabulary
 
+v1: שָׁמַר (shamar)  
+“To preserve.” Guard.  
+
+v1: חָסָה (chasah)  
+“To take refuge.” Seek shelter.  
+
+v2: אֲדֹנָי (Adonai)  
+“Lord.” Master.  
+
+v4: עָצַב (‘atsav)  
+“Sorrow.” Pain.  
+
+v5: מָנָה (manah)  
+“Portion.” Allotted share.  
+
+v5: גּוֹרָל (goral)  
+“Lot.” Destiny or inheritance.  
+
+v7: יָעַץ (ya‘ats)  
+“To counsel.” Advise.  
+
+v8: יָצַב (yatsav)  
+“To set.” Place firmly.  
+
+v10: שְׁאוֹל (sheol)
+“Grave.” Realm of the dead.
+
+v11: שִׂמְחָה (simchah)  
+“Joy.” Gladness.  
+
+v11: נֹעַם (no‘am)  
+“Pleasure.” Delight.  
+
 v01: שָׁמַר (shamar)
 “To preserve.” Guard.
 
@@ -66,6 +99,3 @@ v01: חָסָה (chasah)
 
 v02: אֲדֹנָי (Adonai)
 “Lord.” Master.
-
-v10: שְׁאוֹל (sheol)
-“Grave.” Realm of the dead.

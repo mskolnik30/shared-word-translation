@@ -142,14 +142,29 @@ v39: David’s confession that the sons of Zeruiah are “too severe” exposes 
 v01: חָזֵק (chazeq)
 “To grow strong.” David’s house gains strength.
 
+v07: פִּילֶגֶשׁ (pilegesh)
+“Concubine.” A recognized secondary wife or royal woman.
+
 v08: חֶסֶד (ḥesed)
 “Steadfast love.” Abner’s claimed loyalty to Saul’s house.
 
 v12: בְּרִית (berit)
 “Covenant.” The political agreement Abner offers David.
 
+v16: בָּחוּרִים (Bahurim)
+“Bahurim.” The place where Paltiel is ordered to turn back.
+
 v21: שָׁלוֹם (shalom)
 “Peace.” Safe departure under David’s protection.
 
+v27: שֶׁקֶט (sheqet)
+“Quietly” or “privately.” Joab draws Abner aside under pretense of private speech.
+
 v29: זוּב (zuv)
 “To have a discharge.” A bodily condition named in David’s curse.
+
+v33: נָבָל (naval)
+“Fool.” David asks whether Abner should die as a fool.
+
+v38: שַׂר (sar)
+“Prince” or “leader.” David’s title for Abner.

@@ -69,8 +69,17 @@ v02: מְזִמָּה (mezimmah)
 v03: פָּלָא (pala)
 “To be wonderful” or “beyond understanding.” Job spoke of matters too wonderful for him.
 
+v06: מָאַס (ma'as)
+“To reject” or “despise.” The object is not explicitly stated in the Hebrew.
+
 v06: נָחַם (nacham)
 “To relent,” “repent,” or “be comforted.” A key ambiguous verb in Job’s final response.
 
+v08: נָשָׂא פָנִים (nasa panim)
+“To accept the face” or “show favor.” The LORD accepts Job’s intercession.
+
 v10: שׁוּב שְׁבוּת (shuv shevut)
 “To restore the fortunes.” An idiom of reversal and restoration.
+
+v17: שְׂבַע יָמִים (seva yamim)
+“Full of days.” An expression for a completed and mature life.

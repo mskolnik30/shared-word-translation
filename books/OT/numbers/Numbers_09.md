@@ -66,5 +66,8 @@ v03: מוֹעֵד (moed)
 v06: טָמֵא (tame)
 “Unclean.” A ritual state restricting participation in sacred activity.
 
+v14: גֵּר (ger)
+“Resident alien.” A non-native person living within Israel’s community.
+
 v18: פִּי יְהוָה (pi YHWH)
 “Command of the LORD.” Literally “mouth of the LORD,” with a sense of movement in response to divine speech.

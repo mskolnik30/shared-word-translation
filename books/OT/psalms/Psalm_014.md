@@ -53,6 +53,30 @@ v7: Final hope is communal restoration.
 
 ##Vocabulary
 
+v1: נָבָל (naval)  
+“Fool.” Morally deficient.
+
+v1: שָׁחַת (shachat)  
+“To corrupt.” Ruin.
+
+v2: שָׂכַל (sakal)  
+“To understand.” Act wisely.
+
+v3: סוּר (sur)  
+“To turn aside.” Deviate.
+
+v4: יָדַע (yada‘)  
+“To know.” Recognize.
+
+v5: פַּחַד (pachad)  
+“Terror.” Fear.
+
+v6: חָסָה (chasah)  
+“To take refuge.” Seek shelter.
+
+v7: יְשׁוּעָה (yeshuah)  
+“Salvation.” Deliverance.
+
 v01: נָבָל (naval)
 “Fool.” Morally deficient.
 

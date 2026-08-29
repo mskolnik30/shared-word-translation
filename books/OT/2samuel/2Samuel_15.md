@@ -140,5 +140,20 @@ v06: גָּנַב לֵב (ganav lev)
 v08: נֶדֶר (neder)
 “Vow.” Absalom’s stated religious reason for going to Hebron.
 
+v10: שׁוֹפָר (shofar)
+“Ram’s horn.” The signal proclaiming Absalom king.
+
+v12: קֶשֶׁר (qesher)
+“Conspiracy.” The organized rebellion.
+
 v20: חֶסֶד וֶאֱמֶת (ḥesed ve-emet)
 “Steadfast love and faithfulness.” David’s blessing to Ittai.
+
+v25: חֵן (chen)
+“Favor.” David’s hope before the LORD.
+
+v30: יָחֵף (yachef)
+“Barefoot.” A sign of mourning and humiliation.
+
+v34: פָּרַר (parar)
+“To frustrate” or “break.” Hushai is to disrupt Ahithophel’s counsel.

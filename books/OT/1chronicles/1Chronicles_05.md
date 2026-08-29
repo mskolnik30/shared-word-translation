@@ -75,3 +75,9 @@ v26: Pul and Tiglath-Pileser: Reflects the impact of Assyrian kings on Israel's 
 v26: The Hebrew chapter division continues with the Levitical genealogy at 5:27; common English versification begins that genealogy in chapter 6.
 
 ##Vocabulary
+
+v1: - **v1: בְּכוֹר (be.khor)** - "Firstborn": Referred to status and rights, particularly illustrating Reuben's lost inheritance.  
+
+v25: - **v25: מָעַל (ma.al)** - "Unfaithful": Literally means to act treacherously, indicating Israel's spiritual betrayal.  
+
+v26: - **v26: רוּחַ (ru.ach)** - "Spirit": Here, it signifies God's influence over foreign rulers, leading to significant cultural and geographical shifts.

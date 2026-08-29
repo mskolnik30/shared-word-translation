@@ -125,5 +125,23 @@ v03: אָבַד (avad)
 v08: מַעֲקֶה (ma'aqeh)
 “Parapet.” A protective barrier around a roof.
 
+v09: כִּלְאַיִם (kilayim)
+“Mixed kinds.” Two kinds sown together.
+
+v11: שַׁעַטְנֵז (sha'atnez)
+“Mixed wool and linen.” A technical textile term.
+
+v12: גְּדִלִים (gedilim)
+“Tassels.” Fringes on the corners of a garment.
+
+v14: שֵׁם רָע (shem ra)
+“Evil name.” A damaging public accusation.
+
+v21: נְבָלָה (nevalah)
+“Disgraceful thing.” A grave covenantal violation.
+
+v25: חָזַק (chazaq)
+“To seize by force.” Used of overpowering the betrothed woman.
+
 v30: כָּנָף (kanaph)
 “Skirt,” “wing,” or “edge.” Here part of a sexual idiom.

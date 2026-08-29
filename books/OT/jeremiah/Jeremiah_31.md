@@ -325,11 +325,31 @@ v38–40: rebuilt city / “shall be holy” — Restoration is spatial and publ
 
 ##Vocabulary
 
+v02: חֵן (ḥen) — grace; favor
+
 v02: חֵן (ḥen)
 “Grace; favor.”
 
+v03: אַהֲבַת עוֹלָם (’ahavat ʿolam) — everlasting love
+
 v03: חֶסֶד (ḥesed)
 “Steadfast love; covenant loyalty.”
+
+v04: בָּנָה (banah) — to build; to rebuild
+
+v04: תֹּף (tof) — tambourine; hand drum
+
+v05: כֶּרֶם (kerem) — vineyard
+
+v06: צָפָה (tsafah) — to watch; to keep lookout
+
+v08: קָבַץ (qavats) — to gather; to collect
+
+v09: אָב (’av) — father
+
+v09: בְּכוֹר (bekhor) — firstborn
+
+v10: רָעָה (raʿah) — to shepherd; to tend
 
 v11: גָּאַל (ga’al)
 “To redeem; to reclaim.”
@@ -337,5 +357,49 @@ v11: גָּאַל (ga’al)
 v11: פָּדָה (padah)
 “To ransom; to redeem.”
 
+v12: דָּשֵׁן (dashen) — to be made rich; to be fattened (abundant)
+
+v12: נֶפֶשׁ (nefesh) — life; self; whole being
+
+v13: מָחוֹל (maḥol) — dance
+
+v13: נָחַם (naḥam) — to comfort; to console
+
+v15: נְהִי (nehi) — lamentation; wailing
+
+v15: בְּכִי (bekhi) — weeping
+
+v16: תִּקְוָה (tiqvah) — hope
+
+v18: יָסַר (yasar) — to discipline; to correct; to instruct
+
+v19: שׁוּב (shuv) — to return; to turn back
+
 v20: רָחַם (raḥam)
 “To have compassion; to show mercy.”
+
+v21: צִיּוּן (tsiyyun) — marker; signpost
+
+v21: מְסִלָּה (mesillah) — highway; raised road
+
+v22: חָדָשׁ (ḥadash) — new
+
+v29: בֹּסֶר (boser) — unripe/sour grapes
+
+v31: בְּרִית (berit) — covenant
+
+v31: כָּרַת (karat) — to cut (a covenant)
+
+v33: תּוֹרָה (torah) — instruction; teaching; law
+
+v33: לֵב (lev) — heart; inner self; will
+
+v34: יָדַע (yadaʿ) — to know (relational knowing)
+
+v34: סָלַח (salaḥ) — to forgive
+
+v35: חֹק (ḥoq) — fixed order; statute; decree
+
+v38: בָּנָה (banah) — to rebuild
+
+v40: קֹדֶשׁ (qodesh) — holiness; holy thing/place

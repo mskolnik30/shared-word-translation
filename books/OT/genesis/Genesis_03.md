@@ -107,6 +107,40 @@ v23–24: Expulsion is paired with protection. The way to life is guarded, not d
 
 ##Vocabulary
 
+v1: עָרוּם (‘ārûm) — crafty; shrewd; subtle  
+
+v1: נָחָשׁ (nāḥāsh) — serpent  
+
+v5: יָדַע (yāda‘) — know; discern; come to awareness  
+
+v6: תַּאֲוָה (ta’avāh) — desire; longing  
+
+v6: חָכַם (ḥākam) — be wise; gain insight  
+
+v7: עֵירֹם (‘ērōm) — naked; exposed  
+
+v7: בּוֹשׁ (bôsh) — be ashamed  
+
+v8: הָלַךְ (hālak) — walk; move about  
+
+v9: אַיֶּכָּה (’ayyekkāh) — where are you?  
+
+v12: נָתַן (nātan) — give; hand over  
+
+v14: אָרוּר (’ārûr) — cursed; bound to harm  
+
+v15: אֵיבָה (’ēvāh) — enmity; hostility  
+
+v16: תְּשׁוּקָה (teshūqāh) — desire; turning toward  
+
+v17: אֲדָמָה (’ădāmāh) — ground; soil  
+
+v19: עָפָר (‘āfār) — dust  
+
+v21: כָּתְנוֹת (kātenōt) — garments; tunics  
+
+v24: שָׁמַר (shāmar) — guard; keep; watch over  
+
 v01: עָרוּם (‘ārûm)
 “Crafty; shrewd; subtle.”
 

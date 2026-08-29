@@ -108,5 +108,11 @@ v08: אָוֶן (aven)
 v09: נְשָׁמָה (neshamah)
 “Breath.” The breath of God as an image of destructive power.
 
+v13: תַּרְדֵּמָה (tardemah)
+“Deep sleep.” A profound sleep associated with visions or divine action.
+
 v15: רוּחַ (ruach)
 “Spirit,” “wind,” or “breath.” The mysterious presence passing before Eliphaz.
+
+v19: חֹמֶר (chomer)
+“Clay.” Human bodies are pictured as fragile clay dwellings.

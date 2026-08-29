@@ -218,6 +218,36 @@ v47–48: The psalm ends with petition and communal affirmation.
 
 ##Vocabulary
 
+v1: הוֹדוּ (hodu)  
+“Give thanks.” Praise.  
+
+v6: חָטָא (chata)  
+“To sin.” Miss the mark.  
+
+v7: מָרָה (marah)  
+“To rebel.” Resist.  
+
+v9: גָּעַר (ga‘ar)  
+“To rebuke.” Command with authority.  
+
+v13: שָׁכַח (shakach)
+“To forget.” Fail to remember.
+
+v20: תָּמוּר (tamur)  
+“To exchange.” Substitute.  
+
+v23: פֶּרֶץ (perets)  
+“Breach.” Gap for intervention.  
+
+v28: צָמַד (tsamad)  
+“To join.” Bind to.  
+
+v40: תָּעַב (ta‘av)  
+“To abhor.” Reject strongly.  
+
+v45: נָחַם (nacham)  
+“To relent.” Change course.  
+
 v01: הוֹדוּ (hodu)
 “Give thanks.” Praise.
 
@@ -229,6 +259,3 @@ v07: מָרָה (marah)
 
 v09: גָּעַר (ga‘ar)
 “To rebuke.” Command with authority.
-
-v13: שָׁכַח (shakach)
-“To forget.” Fail to remember.

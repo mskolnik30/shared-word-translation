@@ -56,14 +56,44 @@ v18: Naomi expresses confidence that Boaz will act decisively and honorably.
 
 ##Vocabulary
 
+v1: מָנוֹחַ (mānôaḥ)  
+“Rest” or “security.” A settled condition of peace, provision, and belonging.  
+
+v2: גֹּרֶן (gōren)  
+“Threshing floor.” A place where harvested grain was processed and separated.  
+
+v3: סוּךְ (sûḵ)  
+“To anoint.” To apply oil as part of preparation, refreshment, or honor.  
+
+v7: לָט (lāṭ)  
+“Softly” or “secretly.” With careful and quiet movement.  
+
+v9: כָּנָף (kānāph)  
+“Wing,” “edge,” or “corner of a garment.” Used both literally and symbolically for protection.  
+
+v9: גֹּאֵל (gōʾēl)  
+“Redeemer.” A close relative responsible for preserving family inheritance and welfare.  
+
+v10: חֶסֶד (ḥeseḏ)
+“Steadfast love.” Loyal covenant faithfulness expressed through action.
+
+v11: אֵשֶׁת חַיִל (ʾēšeṯ ḥayil)  
+“Worthy woman.” A woman of noble character, strength, and virtue.  
+
+v13: גָּאַל (gāʾal)
+“To redeem.” To reclaim, restore, or fulfill family obligations on behalf of another.
+
+v15: שְׂעֹרִים (śĕʿōrîm)  
+“Barley.” The grain harvested during the season in which the story occurs.  
+
+v17: רֵיקָם (rêqām)  
+“Empty-handed.” Without provision, blessing, or gift.  
+
+v18: שָׁקַט (šāqaṭ)  
+“To be quiet” or “at rest.” Here contrasted with Boaz's determination to act promptly.  
+
 v01: מָנוֹחַ (mānôaḥ)
 “Rest” or “security.” A settled condition of peace, provision, and belonging.
 
 v09: כָּנָף (kānāph)
 “Wing,” “edge,” or “corner of a garment.” Used both literally and symbolically for protection.
-
-v10: חֶסֶד (ḥeseḏ)
-“Steadfast love.” Loyal covenant faithfulness expressed through action.
-
-v13: גָּאַל (gāʾal)
-“To redeem.” To reclaim, restore, or fulfill family obligations on behalf of another.

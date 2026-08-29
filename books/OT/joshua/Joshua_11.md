@@ -91,3 +91,9 @@ v13: תֵּל (tel)
 
 v15: סוּר (sur)
 “To turn aside” or “leave undone.” Joshua does not depart from what was commanded.
+
+v20: חָזַק (chazaq)
+“To harden” or “strengthen.” Used of the kings’ hearts becoming resolved for battle.
+
+v23: נָחַל (nachal)
+“To give as inheritance” or “cause to inherit.” Joshua distributes the land among Israel.

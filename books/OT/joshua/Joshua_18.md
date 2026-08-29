@@ -96,3 +96,9 @@ v04: כָּתַב (katav)
 
 v06: גּוֹרָל (goral)
 “Lot.” Used before the LORD to distribute the remaining territory.
+
+v09: סֵפֶר (sefer)
+“Scroll” or “written document.” The survey of the land is recorded in writing.
+
+v20: נַחֲלָה (nachalah)
+“Inheritance.” Benjamin’s allotted territory.

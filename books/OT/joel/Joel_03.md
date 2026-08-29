@@ -175,3 +175,27 @@ v02: נַחֲלָה (nachalah)
 
 v04: גְּמוּל (gemul)
 “Repayment” or “recompense.” Action returned upon the one who acted.
+
+v06: יְוָנִים (Yevanim)
+“Greeks” or “Ionians.” A designation for Greek peoples.
+
+v09: קָדַשׁ מִלְחָמָה (qadash milchamah)
+“Consecrate war.” To prepare warfare as a solemn undertaking.
+
+v13: מַגָּל (maggal)
+“Sickle.” A harvesting blade used in the image of judgment.
+
+v14: חָרוּץ (charuts)
+“Decision,” “decree,” or “determination.” The term behind “Valley of Decision.”
+
+v16: מַחֲסֶה (machaseh)
+“Refuge.” A place of safety and protection.
+
+v18: מַעְיָן (ma'yan)
+“Spring” or “fountain.” Flowing water emerging from the house of the LORD.
+
+v19: חָמָס (chamas)
+“Violence.” Wrongful force and bloodshed against Judah.
+
+v21: נָקָה (naqah)
+“To hold innocent,” “clear,” or “acquit.” A difficult final use concerning bloodguilt.

@@ -127,5 +127,11 @@ v04: דָּרַשׁ (darash)
 v16: רֹעֶה (ro'eh)
 “Shepherd.”
 
+v18: צְבָא הַשָּׁמַיִם (tseva ha-shamayim)
+“Host of the heavens.”
+
 v21: רוּחַ שֶׁקֶר (ruach sheqer)
 “Lying spirit.”
+
+v33: לְתֻמּוֹ (letummo)
+“In innocence” or without deliberate aim.

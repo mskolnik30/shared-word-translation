@@ -122,6 +122,12 @@ v02: רֹגֶז (rogez)
 v06: שֶׁלֶג (sheleg)
 “Snow.” Snowfall is commanded by God.
 
+v10: קֶרַח (qerach)
+“Ice.” Produced by the breath of God in the poem.
+
+v12: תַּחְבֻּלָה (tachbulah)
+“Guidance” or “steering.” The clouds move according to divine direction.
+
 v13: חֶסֶד (ḥesed)
 “Steadfast love.” One possible purpose Elihu gives for God’s weather.
 

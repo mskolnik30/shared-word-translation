@@ -62,14 +62,26 @@ v3: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can
 
 ##Vocabulary
 
+v8: בְּרִית (berit)  
+“Covenant.” A binding relationship shaped by promise and obligation.  
+
+v5: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v5: מִשְׁפָּט (mishpat)  
+“Justice” or “judgment.” Right judgment and right communal ordering.  
+
+v3: גּוֹיִם (goyim)  
+“Nations” or “peoples.” Peoples beyond Israel.  
+
 v08: בְּרִית (berit)
 “Covenant.” A binding relationship shaped by promise and obligation.
 
 v05: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v03: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
 v05: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Right judgment and right communal ordering.
+
+v03: גּוֹיִם (goyim)
+“Nations” or “peoples.” Peoples beyond Israel.

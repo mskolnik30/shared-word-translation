@@ -108,3 +108,9 @@ v05: שָׁחַר (shachar)
 
 v11: גֹּמֶא (gome)
 “Papyrus.” A marsh plant dependent upon water.
+
+v13: חָנֵף (chanef)
+“Godless” or “profane.” One whose hope Bildad says will perish.
+
+v14: עַכָּבִישׁ (akkavish)
+“Spider.” Its web becomes an image of fragile confidence.

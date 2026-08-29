@@ -104,6 +104,42 @@ v11: The “gladness of his heart” highlights the delight of covenantal love.
 
 ##Vocabulary
 
+v1: בַּקֵּשׁ (baqqēš)  
+“To seek.” To search earnestly and persistently.  
+
+v1: נֶפֶשׁ (nepeš)  
+“Soul.” The whole inner self, including desire and affection.  
+
+v3: שֹׁמֵר (šōmēr)  
+“Watchman.” One who guards and patrols a city.  
+
+v4: אָחַז (ʾāḥaz)  
+“To hold fast.” To grasp firmly and not let go.  
+
+v5: אַהֲבָה (ʾahăḇâ)  
+“Love.” Deep affection, desire, and devotion.  
+
+v6: מֹר (mōr)  
+“Myrrh.” A fragrant resin used in perfumes and ceremonial settings.  
+
+v6: לְבוֹנָה (lĕḇônâ)  
+“Frankincense.” An aromatic resin associated with worship and celebration.  
+
+v7: מִטָּה (miṭṭâ)  
+“Couch” or “litter.” A portable seat or ceremonial conveyance.  
+
+v8: חֶרֶב (ḥereḇ)  
+“Sword.” A weapon symbolizing protection and strength.  
+
+v9: אַפִּרְיוֹן (ʾappiryôn)  
+“Carriage” or “palanquin.” A royal conveyance used in processions.  
+
+v10: אַרְגָּמָן (ʾargāmān)  
+“Purple.” A costly color associated with royalty and honor.  
+
+v11: עֲטָרָה (ʿăṭārâ)  
+“Crown.” A symbol of honor, celebration, and kingship.  
+
 v01: בַּקֵּשׁ (baqqēš)
 “To seek.” To search earnestly and persistently.
 

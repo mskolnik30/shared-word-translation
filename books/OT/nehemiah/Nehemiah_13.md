@@ -81,6 +81,15 @@ v31: The book ends with the recurring prayer, “Remember me,” leaving Nehemia
 
 ##Vocabulary
 
+v03: עֵרֶב (erev)
+“Mixed group” or “mixed multitude.” A population understood as not belonging to Israel’s covenantal assembly.
+
+v05: לִשְׁכָּה (lishkah)
+“Chamber” or “room.” A storage or administrative room within the temple complex.
+
+v10: מָנָה (manah)
+“Portion” or “assigned share.” The support designated for Levites and singers.
+
 v14: חֶסֶד (ḥesed)
 “Steadfast love” or “faithful deed.” Here used for Nehemiah’s acts of loyal service.
 
@@ -89,6 +98,9 @@ v17: חָלַל (chalal)
 
 v22: שָׁמַר (shamar)
 “To keep” or “guard.” Used of guarding the gates and keeping the Sabbath holy.
+
+v24: יְהוּדִית (Yehudit)
+“Language of Judah” or “Judean.” The local language associated with the restored Judean community.
 
 v29: גָּאַל (ga'al)
 “To defile” in the relevant stem, here describing corruption of priestly status and covenant responsibility.

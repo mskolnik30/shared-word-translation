@@ -205,8 +205,38 @@ v01: שִׁגְיֹנוֹת (Shigyonot)
 v02: רָחַם (racham)
 “Have compassion” or “show mercy.” The central request made within wrath.
 
+v03: סֶלָה (selah)
+“Selah.” An untranslated musical or liturgical notation.
+
+v04: קֶרֶן (qeren)
+“Horn” or “ray.” In the plural here, radiant projections from the divine hand.
+
+v05: דֶּבֶר (dever)
+“Plague” or “pestilence.” Personified as going before God.
+
+v06: מוֹסְדוֹת (mosadot)
+“Foundations” or enduring ways. The verse’s language of ancient stability is disrupted by divine coming.
+
 v08: יְשׁוּעָה (yeshuah)
 “Salvation” or “deliverance.” The divine chariots are associated with saving action.
 
+v09: קֶשֶׁת (qeshet)
+“Bow.” The divine warrior’s weapon, uncovered for action.
+
+v10: תְּהוֹם (tehom)
+“Deep.” The great waters personified as giving voice.
+
+v12: דּוּשׁ (dush)
+“To thresh.” Used metaphorically of the LORD’s action against nations.
+
 v13: מָשִׁיחַ (mashiach)
 “Anointed one.” One marked by anointing; the referent is left open in the poem.
+
+v16: צָלַל (tsalal)
+“To tremble” or “quiver.” Habakkuk’s body responds physically to what he hears.
+
+v18: עָלַז (alaz)
+“To exult” or “rejoice greatly.” Habakkuk’s chosen response in the absence of visible provision.
+
+v19: אַיָּלָה (ayyalah)
+“Deer” or “doe.” The sure-footed animal behind the image of walking on heights.

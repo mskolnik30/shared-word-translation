@@ -83,8 +83,26 @@ v01: סוּס (sus)
 v03: רָכַךְ לֵב (rakhakh lev)
 “To let the heart grow weak.” To lose courage.
 
+v04: יָשַׁע (yasha)
+“To save” or “deliver.” The LORD fights to save Israel.
+
+v05: חָנַךְ (chanakh)
+“To dedicate.” To begin the use of a new house.
+
 v06: חִלֵּל (chillel)
 “To begin to enjoy fruit.” A technical term for first use of vineyard produce.
 
 v10: שָׁלוֹם (shalom)
 “Peace.” The offer made before attacking a distant city.
+
+v11: מַס (mas)
+“Forced labor” or “tribute.”
+
+v17: חָרַם (charam)
+“To devote to destruction.” To place under irrevocable ban.
+
+v19: עֵץ מַאֲכָל (ets ma'akhal)
+“Tree for food.” A fruit-producing tree protected during siege.
+
+v20: מָצוֹר (matsor)
+“Siegework” or “siege.” Military encirclement of a fortified city.

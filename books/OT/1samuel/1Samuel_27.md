@@ -59,6 +59,18 @@ v01: נוֹאָשׁ (no'ash)
 v02: עָבַר (avar)
 “To cross over.” David moves into Philistine territory.
 
+v05: חֵן (chen)
+“Favor.”
+
+v06: צִקְלַג (Tsiqlag)
+“Ziklag.” The town given to David.
+
+v08: פָּשַׁט (pashat)
+“To raid.”
+
+v09: חָיָה (chayah)
+“To keep alive.”
+
 v12: בָּאַשׁ (ba'ash)
 “To become odious,” literally “stink.”
 

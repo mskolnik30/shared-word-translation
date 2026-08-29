@@ -66,6 +66,42 @@ v15–16: Abram names the child according to the message given to Hagar, confirm
 
 ##Vocabulary
 
+v1: שִׁפְחָה (šipḥâ)  
+“Servant” or “maidservant.” A female household servant of dependent social status.  
+
+v2: בָּנָה (bānâ)  
+“To build.” In this context, “to be built up” refers to establishing a family through offspring.  
+
+v4: קָלַל (qālal)  
+“To become insignificant” or “be lightly regarded.” The verb describes diminished honor or esteem.  
+
+v6: עָנָה (ʿānâ)  
+“To afflict,” “humble,” or “deal harshly with.” A term often associated with suffering imposed by another.  
+
+v7: מַלְאַךְ יְהוָה (malʾaḵ YHWH)  
+“Angel of the LORD.” A messenger who speaks and acts with divine authority.  
+
+v10: רָבָה (rāḇâ)  
+“To multiply.” A covenantal term associated with growth, descendants, and blessing.  
+
+v11: יִשְׁמָעֵאל (Yišmāʿel)  
+“Ishmael.” Meaning “God hears” or “May God hear.”  
+
+v11: עֳנִי (ʿonî)  
+“Affliction” or “misery.” A condition of suffering, oppression, or distress.  
+
+v13: אֵל רֳאִי (ʾEl Roʾi)  
+“God who sees me” or “God of seeing.” A name emphasizing divine attention and care.  
+
+v14: בְּאֵר לַחַי רֹאִי (Beʾēr Laḥay Roʾi)  
+“Well of the Living One who sees me.” The place name memorializes Hagar’s encounter with God.  
+
+v15: בֵּן (bēn)  
+“Son.” A central term in Genesis, often carrying implications of inheritance and promise.  
+
+v16: יָלַד (yālaḏ)
+“To bear” or “give birth.” A recurring verb marking the continuation of family lines and covenant expectations.
+
 v01: שִׁפְחָה (šipḥâ)
 “Servant” or “maidservant.” A female household servant of dependent social status.
 
@@ -74,6 +110,3 @@ v02: בָּנָה (bānâ)
 
 v04: קָלַל (qālal)
 “To become insignificant” or “be lightly regarded.” The verb describes diminished honor or esteem.
-
-v16: יָלַד (yālaḏ)
-“To bear” or “give birth.” A recurring verb marking the continuation of family lines and covenant expectations.

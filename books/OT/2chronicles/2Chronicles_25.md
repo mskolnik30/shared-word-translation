@@ -108,5 +108,11 @@ v07: אִישׁ הָאֱלֹהִים (ish ha-Elohim)
 v08: כָּשַׁל (kashal)
 “To stumble.”
 
+v14: שָׁחָה (shachah)
+“To bow down.”
+
 v19: כָּבוֹד (kavod)
 “Glory” or boast.
+
+v27: סוּר מֵאַחֲרֵי (sur me-acharei)
+“To turn away from following.”

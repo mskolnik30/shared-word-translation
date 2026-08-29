@@ -113,14 +113,46 @@ v29–34: Esau’s action is framed as contempt, not mere impulsiveness.
 
 ##Vocabulary
 
-v05: נָתַן (nāṯan)
-“To give.” Transfer with authority or intention.
+v5: נָתַן (nāṯan)  
 
-v08: שָׂבֵעַ (śāvēaʿ)
-“Full, satisfied.” Completion of life’s course.
+“To give.” Transfer with authority or intention.  
+
+v8: שָׂבֵעַ (śāvēaʿ)  
+
+“Full, satisfied.” Completion of life’s course.  
 
 v18: שָׁכַן (šākan)
 “To dwell, settle.” To inhabit with permanence.
 
 v21: עָתַר (ʿāṯar)
 “To entreat, pray earnestly.” Persistent appeal.
+
+v22: דָּרַשׁ (dāraš)  
+
+“To inquire, seek.” To consult for divine insight.  
+
+v23: גּוֹי (gôy)  
+
+“Nation.” A people group with identity and destiny.  
+
+v25: אַדְמוֹנִי (ʾaḏmōnî)  
+
+“Red.” Associated with earthiness and naming (Edom).  
+
+v26: עָקֵב (ʿāqēḇ)  
+
+“Heel.” Source of the name Jacob; linked to grasping.  
+
+v31: בְּכוֹרָה (bᵉḵōrāh)  
+
+“Birthright.” Legal and covenantal privilege of the firstborn.  
+
+v34: בָּזָה (bāzāh)  
+
+“To despise.” To treat as insignificant or worthless.  
+
+v05: נָתַן (nāṯan)
+“To give.” Transfer with authority or intention.
+
+v08: שָׂבֵעַ (śāvēaʿ)
+“Full, satisfied.” Completion of life’s course.

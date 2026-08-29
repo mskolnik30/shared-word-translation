@@ -93,14 +93,38 @@ v02: “Judah also will be caught in the siege” — The Hebrew syntax is compr
 
 ##Vocabulary
 
-v01: יָצַר (yatsar)
-“To form.” To shape or fashion, here used of the LORD forming the human spirit within a person.
+v1: יָצַר (yatsar)  
+“To form.” To shape or fashion, here used of the LORD forming the human spirit within a person.  
 
-v02: רַעַל (raal)
-“Staggering” or “reeling.” A condition of instability, often associated with intoxication.
+v2: רַעַל (raal)  
+“Staggering” or “reeling.” A condition of instability, often associated with intoxication.  
+
+v3: מַעֲמָסָה (maamasah)  
+“Burden” or “heavy load.” Something difficult or dangerous to lift.  
+
+v4: תִּמָּהוֹן (timmahon)  
+“Panic,” “bewilderment,” or “confusion.” A state of disorientation brought upon the horses.  
+
+v8: גָּנַן (ganan)  
+“To shield” or “protect.” To defend or cover from danger.  
 
 v10: חֵן (chen)
 “Grace” or “favor.” Freely given favor that evokes the response of supplication.
 
 v10: תַּחֲנוּנִים (tachanunim)
 “Supplications” or “pleas for mercy.” Earnest petitions arising from need.
+
+v10: דָּקַר (daqar)  
+“To pierce.” To thrust through with a weapon or sharp object.  
+
+v10: סָפַד (safad)  
+“To mourn” or “lament.” Formal or intense expression of grief.  
+
+v11: מִסְפֵּד (misped)  
+“Mourning” or “lamentation.” Public or communal grief expressed over loss.  
+
+v01: יָצַר (yatsar)
+“To form.” To shape or fashion, here used of the LORD forming the human spirit within a person.
+
+v02: רַעַל (raal)
+“Staggering” or “reeling.” A condition of instability, often associated with intoxication.

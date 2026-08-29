@@ -118,8 +118,26 @@ v02: אוּבָל (uval)
 v03: אַיִל (ayil)
 “Ram.” The two-horned symbol of Media and Persia.
 
+v05: צָפִיר (tsafir)
+“Male goat.” The symbol interpreted as Greece.
+
+v09: צְבִי (tsevi)
+“Beauty” or “beautiful.” Used in “the Beautiful Land.”
+
 v11: תָּמִיד (tamid)
 “Continual offering.” The regular sanctuary service removed by the horn.
 
+v13: שֹׁמֵם (shomem)
+“Desolating” or “causing desolation.”
+
+v14: צָדַק (tsadaq)
+“To be made right,” “vindicated,” or “restored.”
+
+v16: גַּבְרִיאֵל (Gavri'el)
+“Gabriel.” The heavenly messenger sent to explain.
+
 v21: יָוָן (Yavan)
 “Greece.” The kingdom represented by the goat.
+
+v25: שַׂר־שָׂרִים (sar-sarim)
+“Prince of princes.” The supreme prince opposed by the arrogant king.

@@ -38,6 +38,10 @@ v8: **Sheshbazzar** — Likely the same person as Zerubbabel, this figure leads 
 
 ##Vocabulary
 
+v1: **דְּבַר (devar)** — Refers to the word or message of the LORD given to the prophets; emphasizes the fulfillment of divine promises.  
+
+v2: **בַּ֔יִת (bayit)** — Used here for the temple in Jerusalem, reflecting both physical structure and spiritual enterprise directed by divine command.  
+
 v01: דְּבַר (devar)
 “Word; matter.” Here it refers to the word of the LORD spoken through Jeremiah.
 

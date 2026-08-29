@@ -92,3 +92,12 @@ v08: שׁוֹק עַל־יָרֵךְ (shoq al-yarekh)
 
 v14: מוֹסֵר (moser)
 “Bond” or “restraint.” The ropes melt from Samson under the Spirit’s power.
+
+v15: לְחִי (lechi)
+“Jawbone.” Also the name of the place in the narrative.
+
+v18: תְּשׁוּעָה (teshuah)
+“Deliverance” or “victory.” Samson attributes the great rescue to God.
+
+v19: עֵין הַקּוֹרֵא (En-Hakkore)
+“Spring of the caller.” The place named after Samson’s cry for water.

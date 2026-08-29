@@ -88,6 +88,44 @@ v29: The oath ceremony recalls similar arrangements made by Abraham regarding co
 
 ##Vocabulary
 
+v4: גּוּר (gûr)  
+“To sojourn.” To reside temporarily as a foreigner in a land.  
+
+v6: מֵיטַב הָאָרֶץ (mêṭaḇ hāʾāreṣ)  
+“The best of the land.” The choicest and most productive region.  
+
+v7: בָּרַךְ (bāraḵ)  
+
+v7: “To bless.” To invoke divine favor and well-being upon another.  
+
+v9: מָגוּר (māḡûr)  
+“Sojourning.” Temporary residence without permanent possession.  
+
+v14: כֶּסֶף (keseph)  
+“Silver.” The primary medium of exchange in the ancient economy.  
+
+v19: זֶרַע (zeraʿ)  
+“Seed.” Both agricultural seed and a broader symbol of future life.  
+
+v20: קָנָה (qānâ)  
+“To buy” or “acquire.” To obtain ownership through purchase.  
+
+v26: חֹמֶשׁ (ḥōmeš)  
+
+v26: “One-fifth.” Twenty percent, the portion reserved for Pharaoh.  
+
+v26: חֹק (ḥōq)  
+“Statute” or “decree.” A fixed legal arrangement.  
+
+v27: פָּרָה (pārâ)  
+“To be fruitful.” To increase and flourish.  
+
+v29: חֶסֶד וֶאֱמֶת (ḥeseḏ weʾĕmeṯ)
+“Steadfast love and faithfulness.” Covenant language expressing loyal commitment.
+
+v30: קֶבֶר (qeḇer)  
+“Grave” or “burial place.” A family burial site associated with inheritance and identity.  
+
 v04: גּוּר (gûr)
 “To sojourn.” To reside temporarily as a foreigner in a land.
 
@@ -96,6 +134,3 @@ v06: מֵיטַב הָאָרֶץ (mêṭaḇ hāʾāreṣ)
 
 v07: בָּרַךְ (bāraḵ)
 “To bless.” To invoke divine favor and well-being upon another.
-
-v29: חֶסֶד וֶאֱמֶת (ḥeseḏ weʾĕmeṯ)
-“Steadfast love and faithfulness.” Covenant language expressing loyal commitment.

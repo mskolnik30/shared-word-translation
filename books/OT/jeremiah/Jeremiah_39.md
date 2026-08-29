@@ -76,6 +76,12 @@ v02: בָּקַע (baqa)
 v05: שָׁפַט (shafat)
 “To judge.” Nebuchadnezzar pronounces judgment on Zedekiah.
 
+v07: נְחֹשֶׁת (nechoshet)
+“Bronze.” Zedekiah is bound with bronze chains.
+
+v09: נָפַל אֶל (nafal el)
+“To fall away to” or “desert to.” Used of those who surrendered to Babylon.
+
 v12: שִׂים עֵינֶיךָ (sim einekha)
 “Set your eyes upon him.” An idiom of attentive care or oversight.
 

@@ -94,6 +94,48 @@ v17: The psalm ends in praise grounded in God’s righteousness, not circumstanc
 
 ##Vocabulary
 
+v1: חָסָה (chasah)  
+“To take refuge.” Seek protection.  
+
+v2: טָרַף (taraph)  
+“To tear.” Devour violently.  
+
+v3: עָוֹן (‘avon)  
+“Iniquity.” Moral wrong.  
+
+v4: גָּמַל (gamal)  
+“To repay.” Deal with.  
+
+v5: רָדַף (radaph)  
+“To pursue.” Chase down.  
+
+v6: קוּם (qum)  
+“To arise.” Take action.  
+
+v8: שָׁפַט (shaphat)  
+“To judge.” Govern justly.  
+
+v9: בָּחַן (bachan)  
+“To test.” Examine.  
+
+v10: יָשָׁר (yashar)  
+“Upright.” Straight in heart.  
+
+v12: חָרַט (charat)  
+“To sharpen.” Prepare weapon.  
+
+v14: הָרָה (harah)  
+“To conceive.” Begin process.  
+
+v15: בּוֹר (bor)  
+“Pit.” Trap.  
+
+v16: חָמָס (chamas)  
+“Violence.” Destructive force.  
+
+v17: עֶלְיוֹן (‘elyon)  
+“Most High.” Supreme God.  
+
 v01: חָסָה (chasah)
 “To take refuge.” Seek protection.
 

@@ -154,3 +154,9 @@ v16: מוּסָר (musar)
 
 v19: יָכַח (yakhach)
 “To correct” or “reprove.” Pain is interpreted by Elihu as correction.
+
+v23: מֵלִיץ (melits)
+“Interpreter,” “mediator,” or “spokesman.” One who explains what is upright.
+
+v24: כֹּפֶר (kofer)
+“Ransom.” A payment or means of release from the pit.

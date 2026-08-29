@@ -182,5 +182,29 @@ v02: שְׁאוֹל (Sheol)
 v03: נָחָשׁ (nachash)
 “Serpent.” The creature commanded in the sea.
 
+v06: אֲגֻדָּה (aguddah)
+“Vault,” “structure,” or gathered mass. A rare cosmological term.
+
+v07: כּוּשִׁיִּים (Kushiyyim)
+“Cushites.” People associated with Cush south of Egypt.
+
+v09: כְּבָרָה (kevarah)
+“Sieve.” An instrument for shaking and separating material.
+
+v11: סֻכַּת דָּוִיד (sukkat David)
+“Booth of David.” The fallen Davidic structure promised restoration.
+
+v12: יָרַשׁ (yarash)
+“To possess.” The verb in the Masoretic restoration promise concerning Edom and nations.
+
+v13: עָסִיס (asis)
+“Sweet wine” or fresh wine.
+
 v14: שׁוּב שְׁבוּת (shuv shevut)
 “To restore the fortunes.” An idiom of reversal and restoration.
+
+v15: נָטַע (nata)
+“To plant.” The final image of secure settlement.
+
+v15: נָתַשׁ (natash)
+“To uproot.” The condition Israel is promised never again to experience.

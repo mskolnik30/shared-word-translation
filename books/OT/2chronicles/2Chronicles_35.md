@@ -103,3 +103,9 @@ v08: נָדַב (nadav)
 
 v13: בָּשַׁל (bashal)
 “To boil” or cook.
+
+v22: חָפַשׂ (chafas)
+“To disguise oneself.”
+
+v25: קִינָה (qinah)
+“Lament.”

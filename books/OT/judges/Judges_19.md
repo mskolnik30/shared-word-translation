@@ -106,5 +106,17 @@ v03: דִּבֵּר עַל־לֵב (dibber al-lev)
 v15: רְחוֹב (rechov)
 “Open square.” Public space within a city.
 
+v22: בְּנֵי בְלִיַּעַל (bene beliyya'al)
+“Worthless men.” Men characterized by destructive wickedness.
+
+v22: יָדַע (yada)
+“To know.” In this context a sexual euphemism.
+
+v23: נְבָלָה (nevalah)
+“Disgraceful thing,” “outrage,” or “folly.” A grave violation of communal and moral order.
+
+v25: עָלַל (alal)
+“To abuse” or “deal ruthlessly.” Used for the violence inflicted upon the woman.
+
 v29: נָתַח (natach)
 “To cut into pieces.” To divide a body or sacrifice into sections.

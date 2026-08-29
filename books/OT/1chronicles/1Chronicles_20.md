@@ -35,6 +35,14 @@ v06: The Hebrew states literally that his “digits” were “six and six, twen
 
 ##Vocabulary
 
+v1: תְּשׁוּבָה (*teshuvah*) — “turn” or “return.” Here it marks the yearly turning of the season, the customary time for military campaigns.  
+
+v3: מְגֵרָה (*megerah*) — “saw.” The repeated tool language contributes to the severity and ambiguity of David’s treatment of the Ammonite cities.  
+
+v4: רְפָאִים (*Rephaim*) — a name for an ancient people, here linked with unusually powerful Philistine warriors.  
+
+v7: חָרַף (*charaph*) — “to taunt” or “to defy with scorn.” The giant’s assault is not only military but also a public insult against Israel.  
+
 v01: תְּשׁוּבָה (teshuvah)
 “turn” or “return.” Here it marks the yearly turning of the season, the customary time for military campaigns.
 

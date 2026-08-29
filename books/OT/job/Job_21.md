@@ -152,5 +152,11 @@ v07: עָתַק (ataq)
 v13: טוֹב (tov)
 “Good,” “prosperity,” or “well-being.” The wicked spend their days in good circumstances.
 
+v17: נֵר (ner)
+“Lamp.” An image of life and flourishing whose extinction the friends predict.
+
 v25: מַר־נֶפֶשׁ (mar-nefesh)
 “Bitter in soul.” One whose life has been marked by deep suffering.
+
+v34: מָעַל (ma'al)
+“Falsehood,” “treachery,” or “unfaithfulness.” Job’s judgment upon the friends’ answers.

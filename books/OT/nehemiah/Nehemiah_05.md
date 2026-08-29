@@ -64,3 +64,12 @@ v07: נָשָׁא (nasha)
 
 v08: פָּדָה (padah)
 “To redeem.” To buy back or secure release from bondage.
+
+v09: יִרְאָה (yirah)
+“Fear” or “reverence.” Here the fear of God becomes an economic ethic.
+
+v13: חֹצֶן (chotsen)
+“Fold” or “bosom of a garment.” The part Nehemiah shakes out in the symbolic act.
+
+v19: זָכַר (zakhar)
+“To remember.” In prayer, to attend to and act with regard to someone or something.

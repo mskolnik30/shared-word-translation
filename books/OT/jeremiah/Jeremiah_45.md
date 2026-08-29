@@ -57,3 +57,9 @@ v04: בָּנָה (banah)
 
 v04: נָטַע (nata)
 “To plant.” Here paired with uprooting.
+
+v05: גְּדֹלוֹת (gedolot)
+“Great things.” Things of importance, status, or magnitude; the phrase remains deliberately unspecified.
+
+v05: שָׁלָל (shalal)
+“Plunder.” Baruch’s life itself is promised as the spoil he will carry away.

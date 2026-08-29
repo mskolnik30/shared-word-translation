@@ -43,6 +43,26 @@ v8: “Going out and coming in” names the whole rhythm of life. Time is expand
 
 ##Vocabulary
 
+v1: עֵזֶר (ʿēzer) — help; assistance that comes from outside oneself; not self-generated.
+
+v2: עָשָׂה (ʿāśāh) — to make; to do; identifies the LORD as creator, grounding help in creative power.
+
+v3: מוֹט (môṭ) — to slip; to be shaken; evokes instability and vulnerability.
+
+v3–5: שָׁמַר (šāmar) — to keep; to guard; to watch over; the central verb of the psalm, repeated to shape its assurance.
+
+v4: יָשֵׁן (yāšēn) — to sleep; negated to emphasize uninterrupted divine attentiveness.
+
+v5: צֵל (ṣēl) — shade; shelter; protection from exposure rather than removal from the journey.
+
+v6: נָכָה (nāḵāh) — to strike; to afflict; used of sun and moon as sources of harm.
+
+v7: רָע (rāʿ) — harm; evil; danger; left broad and undefined.
+
+v7: נֶפֶשׁ (nepeš) — life; self; the whole living person under divine care.
+
+v8: בּוֹא / יָצָא (bôʾ / yāṣāʾ) — to come in / to go out; a paired expression naming the full movement of life.
+
 v01: עֵזֶר (ʿēzer)
 “Help; assistance that comes from outside oneself; not self-generated.”
 

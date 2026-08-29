@@ -108,3 +108,15 @@ v09: רֹאֶה (ro'eh)
 
 v15: גָּלָה אֹזֶן (galah ozen)
 “To uncover the ear.” To reveal privately.
+
+v16: מָשַׁח (mashach)
+“To anoint.”
+
+v16: נָגִיד (nagid)
+“Ruler” or leader.
+
+v17: עָצַר (atsar)
+“To restrain” or govern.
+
+v24: מוֹעֵד (moed)
+“Appointed time.”

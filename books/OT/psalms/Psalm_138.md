@@ -77,6 +77,46 @@ v8: Confidence rests in God’s ongoing purpose, not human control.
 
 ##Vocabulary
 
+v1: יָדָה (yadah)  
+
+“To give thanks.” Praise.
+
+v1: זָמַר (zamar)  
+
+“To sing praise.” Make music.
+
+v2: חֶסֶד (chesed)  
+
+“Steadfast love.” Covenant loyalty.
+
+v2: אֱמֶת (emet)  
+
+“Faithfulness.” Reliability.
+
+v3: עָנָה (anah)  
+
+“To answer.” Respond.
+
+v3: רָהַב (rahav)  
+
+“To strengthen.” Make bold.
+
+v6: שָׁפָל (shaphal)  
+
+“Lowly.” Humble.
+
+v7: חָיָה (chayah)  
+
+“To preserve life.” Sustain.
+
+v7: יָשַׁע (yasha)  
+
+“To deliver.” Rescue.
+
+v8: גָּמַר (gamar)  
+
+“To complete.” Bring to fulfillment.
+
 v01: יָדָה (yadah)
 “To give thanks.” Praise.
 

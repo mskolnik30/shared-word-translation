@@ -119,3 +119,9 @@ v09: זְרוֹעַ (zeroa)
 
 v15: בְּהֵמוֹת (Behemot)
 “Behemoth.” A great creature whose name is related to the Hebrew word for beasts or cattle.
+
+v19: רֵאשִׁית (reshit)
+“First,” “chief,” or “beginning.” Behemoth is called the first of God’s ways.
+
+v24: מוֹקֵשׁ (moqesh)
+“Snare.” A trap imagined as inadequate to capture Behemoth.

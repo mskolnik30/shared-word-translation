@@ -154,5 +154,11 @@ v08: סוֹד אֱלוֹהַּ (sod Eloah)
 v12: רָזַם (razam)
 “To flash” or “wink.” A rare verb describing Job’s eyes.
 
+v16: עָוֶל (avel)
+“Injustice” or “wrong.” Eliphaz says corrupt humanity drinks it like water.
+
+v20: חוּל (chul)
+“To writhe.” Used for the supposed continual anguish of the wicked.
+
 v34: שֹׁחַד (shochad)
 “Bribe.” Payment that distorts justice.

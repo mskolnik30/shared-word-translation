@@ -147,8 +147,20 @@ v01: גֶּפֶן (gefen)
 v02: חָלַק (chalaq)
 “To divide” or “be smooth/deceitful.” Used of Israel’s heart.
 
+v05: כְּמָרִים (kemarim)
+“Idolatrous priests.” A contemptuous designation for cultic personnel.
+
 v08: בָּמָה (bamah)
 “High place.” A cultic site associated here with Israel’s sin.
 
+v11: עֶגְלָה (eglah)
+“Heifer.” Ephraim is compared with a trained young cow.
+
+v12: נִיר (nir)
+“Fallow ground.” Unplowed soil that must be broken up.
+
 v12: צְדָקָה (tsedaqah)
 “Righteousness.” What is to be sown and what the LORD will rain down.
+
+v13: כָּזָב (kazav)
+“Falsehood” or “lie.” The fruit Israel has consumed.

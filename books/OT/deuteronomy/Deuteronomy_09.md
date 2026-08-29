@@ -99,8 +99,26 @@ v26–29: Moses appeals to redemption, ancestral memory, divine reputation among
 v04: צְדָקָה (tsedaqah)
 “Righteousness.” Moses denies that Israel’s righteousness earns the land.
 
+v05: יֹשֶׁר (yosher)
+“Uprightness.” Integrity of heart.
+
+v06: קְשֵׁה־עֹרֶף (qesheh-oref)
+“Stiff-necked.” Stubbornly resistant.
+
+v07: קָצַף (qatsaf)
+“To provoke to anger” or “be wrathful.”
+
 v09: לוּחֹת הַבְּרִית (luchot ha-berit)
 “Tablets of the covenant.”
+
+v10: אֶצְבַּע אֱלֹהִים (etsba Elohim)
+“Finger of God.” Direct divine inscription.
+
+v17: שָׁבַר (shavar)
+“To shatter.” Moses breaks the tablets.
+
+v21: טָחַן (tachan)
+“To grind.” Moses reduces the calf to fine dust.
 
 v23: אָמַן (aman)
 “To trust.” Israel did not trust the LORD.

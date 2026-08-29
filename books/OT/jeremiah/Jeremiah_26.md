@@ -99,5 +99,11 @@ v03: נָחַם (nacham)
 v06: קְלָלָה (qelalah)
 “Curse.” Jerusalem is threatened with becoming a byword of judgment among nations.
 
+v11: מִשְׁפַּט־מָוֶת (mishpat-mavet)
+“Sentence of death.” A legal judgment requiring execution.
+
+v15: דָּם נָקִי (dam naqi)
+“Innocent blood.” Blood shed without just cause.
+
 v19: חָלָה אֶת־פְּנֵי (chalah et-pene)
 “To seek favor,” literally to soften or entreat the face.

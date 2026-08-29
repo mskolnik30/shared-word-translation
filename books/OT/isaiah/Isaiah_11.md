@@ -46,14 +46,20 @@ v4: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship
 
 ##Vocabulary
 
-v01: חֹטֶר (choter)
-“Shoot.” New growth emerging from a cut stump.
+v1: חֹטֶר (choter)  
+“Shoot.” New growth emerging from a cut stump.  
 
-v01: נֵצֶר (netser)
-“Branch” or “sprout.” A shoot growing from roots.
+v1: נֵצֶר (netser)  
+“Branch” or “sprout.” A shoot growing from roots.  
 
 v11: שְׁאָר (she'ar)
 “Remnant.” Those who remain or survive.
 
 v10: גּוֹיִם (goyim)
 “Nations” or “peoples.” Peoples beyond Israel.
+
+v01: חֹטֶר (choter)
+“Shoot.” New growth emerging from a cut stump.
+
+v01: נֵצֶר (netser)
+“Branch” or “sprout.” A shoot growing from roots.

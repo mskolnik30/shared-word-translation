@@ -85,3 +85,9 @@ v05: עֵין אֱלָהֲהוֹן (ein elahon)
 
 v08: אֶבֶן גְּלָל (even gelal)
 “Large stone” or “rolled stone.” A term for substantial building stones.
+
+v11: עֶבֶד (eved)
+“Servant.” The Judean elders identify themselves as servants of the God of heaven and earth.
+
+v17: גִּנְזַיָּא (ginzayya)
+“Treasury” or “archive.” A royal repository in which records could be searched.

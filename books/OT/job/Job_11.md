@@ -94,8 +94,14 @@ v02: שְׂפָתַיִם (sefatayim)
 v06: תּוּשִׁיָּה (tushiyyah)
 “Sound wisdom,” “resourcefulness,” or “effective wisdom.” Zophar describes wisdom as having hidden complexity.
 
+v07: חֵקֶר (cheqer)
+“Depth,” “searching,” or “unsearchable limit.” What cannot be fully discovered about God.
+
 v11: מְתֵי־שָׁוְא (metei-shav)
 “People of emptiness” or “false people.” Those lacking substance or truth.
+
+v12: פֶּרֶא (pere)
+“Wild donkey.” An untamed animal used in Zophar’s absurd comparison.
 
 v18: בָּטַח (batach)
 “To trust” or “feel secure.” The security Zophar promises after repentance.

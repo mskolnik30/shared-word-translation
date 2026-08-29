@@ -112,5 +112,14 @@ v06: בּוֹר (bor)
 v06: טִיט (tit)
 “Mud” or “mire.” Jeremiah sinks into the bottom of the empty cistern.
 
+v07: סָרִיס (saris)
+“Court official,” sometimes “eunuch.” The term denotes royal service and may also indicate physical status in some contexts.
+
+v17: יָצָא (yatsa)
+“To go out.” Here surrendering by going out to Babylonian officials.
+
+v19: עָלַל (alal)
+“To abuse” or “deal harshly.” Zedekiah fears mistreatment by Judean defectors.
+
 v22: אַנְשֵׁי שְׁלֹמֶךָ (anshei shelomekha)
 “Your trusted friends,” literally “men of your peace.”

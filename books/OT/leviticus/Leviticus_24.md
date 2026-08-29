@@ -72,5 +72,8 @@ v05: חַלָּה (challah)
 v11: נָקַב (naqav)
 “To pronounce,” “name,” or “pierce.” In this context used with the divine Name in an act of blasphemy.
 
+v20: שֶׁבֶר (shever)
+“Fracture” or “breaking.” Used in the formula of proportional injury.
+
 v22: מִשְׁפָּט (mishpat)
 “Ordinance” or “justice.” The same legal standard for resident alien and native-born.

@@ -93,6 +93,42 @@ v43: The chapter closes with Jacob's increasing wealth, preparing for the growin
 
 ##Vocabulary
 
+v1: קָנָא (qānāʾ)  
+“To envy” or “be jealous.” A strong desire stirred by another's advantage.  
+
+v2: פְּרִי־בָטֶן (pĕrî-bāṭen)  
+“Fruit of the womb.” A common expression for children or offspring.  
+
+v6: דָּן (Dān)  
+“Dan.” Connected with the verb meaning “to judge.”  
+
+v8: נַפְתָּלִי (Naphtālî)  
+“Naphtali.” Associated with wrestling, struggle, or contest.  
+
+v11: גָּד (Gāḏ)  
+“Gad.” Related to fortune or good luck.  
+
+v13: אָשֵׁר (ʾĀšēr)  
+“Asher.” Associated with happiness, blessedness, or good fortune.  
+
+v18: יִשָּׂשכָר (Yiśśāśkār)  
+“Issachar.” Linked with wages, reward, or compensation.  
+
+v20: זְבוּלוּן (Zĕḇûlûn)  
+“Zebulun.” Associated with honor, dwelling, or exaltation.  
+
+v22: זָכַר (zāḵar)
+“To remember.” Covenant language indicating attentive action.
+
+v24: יוֹסֵף (Yôsēp̄)  
+“Joseph.” Meaning “may he add” or “he adds.”  
+
+v27: נָחַשׁ (nāḥaš)  
+“To practice divination” or “seek omens.” Laban claims to have learned through such means that the LORD blessed him because of Jacob.  
+
+v43: פָּרַץ (pāraṣ)  
+“To increase greatly” or “break forth.” A term describing rapid expansion and prosperity.  
+
 v01: קָנָא (qānāʾ)
 “To envy” or “be jealous.” A strong desire stirred by another's advantage.
 
@@ -104,6 +140,3 @@ v06: דָּן (Dān)
 
 v08: נַפְתָּלִי (Naphtālî)
 “Naphtali.” Associated with wrestling, struggle, or contest.
-
-v22: זָכַר (zāḵar)
-“To remember.” Covenant language indicating attentive action.

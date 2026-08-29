@@ -57,14 +57,18 @@ v14: The fire consuming the vine's branches signifies the destruction and the en
 
 ##Vocabulary
 
-v01: קִינָה (qinnah)
-“lament" refers to a mournful song or expression of grief, with a sense of the sorrow and mourning over the nation's fallen state and leadership.
+v1: קִינָה (qinnah) — "lament" refers to a mournful song or expression of grief, emphasizing the sorrow and mourning over the nation's fallen state and leadership.
 
-v03: כְּפִיר (kephir)
-“young lion" symbolizes potential and emerging power, reflecting the young prince's role being raised for leadership.
+v3: כְּפִיר (kephir) — "young lion" symbolizes potential and emerging power, reflecting the young prince's role being raised for leadership.
 
 v10: גֶּ֫פֶן (gephen)
 “vine" serves as a metaphor for Israel, representing its initial prosperity and divine favor before destruction.
 
 v14: מַטֶּה עֹז (matteh oz)
 “strong branch" indicates a ruling scepter, symbolizing authority and leadership, which has been lost.
+
+v01: קִינָה (qinnah)
+“lament" refers to a mournful song or expression of grief, with a sense of the sorrow and mourning over the nation's fallen state and leadership.
+
+v03: כְּפִיר (kephir)
+“young lion" symbolizes potential and emerging power, reflecting the young prince's role being raised for leadership.

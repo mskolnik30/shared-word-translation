@@ -97,11 +97,20 @@ v11: The repeated refrain does not eliminate the psalmist’s distress. Hope and
 
 ##Vocabulary
 
+v01: עָרַג (arag)
+“To long for” or “pant after.” Intense desire expressed through the image of an animal seeking water.
+
+v02: צָמֵא (tsame)
+“To thirst.” Bodily thirst becomes an image for desire for the living God.
+
 v02: נֶפֶשׁ (nefesh)
 “Soul,” “life,” or “self.” The living self in its desire, distress, and longing.
 
 v05: יָחַל (yachal)
 “To hope” or “wait expectantly.” Trust directed toward what God will yet do.
+
+v07: תְּהוֹם (tehom)
+“Deep.” The great or primeval waters; here one depth answers another.
 
 v08: חֶסֶד (ḥesed)
 “Steadfast love.” Faithful and enduring love expressed within relationship.

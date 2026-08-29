@@ -215,14 +215,35 @@ v27: Exile “beyond Damascus” moves the northern kingdom farther than its fam
 
 ##Vocabulary
 
+v01: קִינָה (qinah)
+“Lament.” A funeral-like song of mourning.
+
+v04: דָּרַשׁ (darash)
+“To seek.” Israel is commanded to seek the LORD and live.
+
 v07: לַעֲנָה (la'anah)
 “Wormwood.” A bitter plant used as an image of corrupted justice.
 
 v07: צְדָקָה (tsedaqah)
 “Righteousness.” Right social and covenant order.
 
+v08: כִּימָה (Kimah)
+“Pleiades.” Traditional identification of an ancient constellation name.
+
+v08: כְּסִיל (Kesil)
+“Orion.” Traditional identification of an ancient constellation name.
+
 v12: כֹּפֶר (kofer)
 “Bribe” or “ransom payment.” A payment that corrupts justice in this context.
+
+v15: חָנַן (chanan)
+“To be gracious.” The hoped-for divine mercy toward the remnant.
+
+v21: מָאַס (ma'as)
+“To reject.” God’s response to unjust worship.
+
+v24: אֵיתָן (etan)
+“Ever-flowing” or “perennial.” Describing a stream with enduring flow.
 
 v26: סִכּוּת / כִּיּוּן (Sikkut / Kiyyun)
 “Cultic names or terms of uncertain identification.”

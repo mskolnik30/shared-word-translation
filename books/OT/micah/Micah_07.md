@@ -160,6 +160,42 @@ v20: The final verses root future hope in God's covenant promises to Abraham and
 
 ##Vocabulary
 
+v1: בִּכּוּרָה (bikkûrâ)  
+“First-ripe fig.” The earliest and most desired fruit of the harvest.  
+
+v2: חָסִיד (ḥāsîḏ)  
+“Faithful one.” A person marked by covenant loyalty.  
+
+v3: שֹׁחַד (šōḥaḏ)  
+“Bribe.” Payment that corrupts justice.  
+
+v4: סִבּוּךְ קוֹץ (sibbûḵ qôṣ)  
+“Thorn hedge.” An image of harmful and troublesome people.  
+
+v7: יֶשַׁע (yešaʿ)  
+“Salvation.” Deliverance and rescue provided by God.  
+
+v8: אוֹר (ʾôr)  
+“Light.” A symbol of life, guidance, and divine favor.  
+
+v9: רִיב (rîḇ)  
+“To plead a cause.” To act as an advocate in a legal dispute.  
+
+v14: שֵׁבֶט (šēḇeṭ)  
+“Staff.” A shepherd's rod symbolizing guidance and authority.  
+
+v18: נָשָׂא עָוֹן (nāśāʾ ʿāwōn)
+“To forgive iniquity.” Literally “to bear” or “carry away” guilt.
+
+v18: חֶסֶד (ḥeseḏ)  
+“Steadfast love.” Loyal covenant mercy and faithfulness.  
+
+v19: רָחַם (rāḥam)  
+“To have compassion.” To show tender mercy and care.  
+
+v20: אֱמֶת (ʾĕmeṯ)  
+“Faithfulness” or “truth.” Reliability and covenant dependability.  
+
 v02: חָסִיד (ḥāsîḏ)
 “Faithful one.” A person marked by covenant loyalty.
 
@@ -168,6 +204,3 @@ v03: שֹׁחַד (šōḥaḏ)
 
 v07: יֶשַׁע (yešaʿ)
 “Salvation.” Deliverance and rescue provided by God.
-
-v18: נָשָׂא עָוֹן (nāśāʾ ʿāwōn)
-“To forgive iniquity.” Literally “to bear” or “carry away” guilt.

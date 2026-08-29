@@ -86,5 +86,11 @@ v04: חָזַק בַּתּוֹרָה (chazaq ba-torah)
 v05: רֵאשִׁית (reshit)
 “Firstfruits.”
 
+v05: מַעֲשֵׂר (ma'aser)
+“Tithe.”
+
 v12: אֱמוּנָה (emunah)
 “Faithfulness.”
+
+v21: צָלַח (tsalach)
+“To prosper.”

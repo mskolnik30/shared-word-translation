@@ -138,6 +138,45 @@ v16: The chapter concludes by combining romantic affection with friendship, high
 
 ##Vocabulary
 
+v1: כַּלָּה (kallâ)  
+“Bride.” A woman joined in covenant marriage.  
+
+v1: דּוֹדִים (dōḏîm)  
+“Love.” Expressions of affection, delight, and intimacy.  
+
+v2: תָּם (tām)  
+“Perfect” or “whole.” Complete, blameless, and cherished.  
+
+v4: מֵעֶה (mēʿeh)  
+“Inner being.” The seat of deep emotions and affections.  
+
+v5: מֹר (mōr)  
+“Myrrh.” A fragrant resin used in perfumes and ointments.  
+
+v7: שֹׁמֵר (šōmēr)  
+“Watchman.” One who guards and patrols a city.  
+
+v8: חוֹלַת אַהֲבָה (ḥōlaṯ ʾahăḇâ)  
+“Sick with love.” Overwhelmed with longing and affection.  
+
+v10: דָּגוּל (dāḡûl)  
+“Distinguished” or “bannered.” Standing out prominently above others.  
+
+v14: שֵׁן (šēn)  
+“Ivory.” A costly material associated with beauty and luxury.  
+
+v14: סַפִּיר (sappîr)  
+“Sapphire.” A precious blue gemstone.  
+
+v15: לְבָנוֹן (Lĕḇānôn)  
+“Lebanon.” A region famous for majestic forests and cedar trees.  
+
+v16: מַמְתַקִּים (mamtāqqîm)  
+“Sweetnesses.” Great sweetness, delight, and pleasantness.  
+
+v16: רֵעַ (rēaʿ)  
+“Friend.” A companion marked by affection, loyalty, and closeness.  
+
 v01: כַּלָּה (kallâ)
 “Bride.” A woman joined in covenant marriage.
 

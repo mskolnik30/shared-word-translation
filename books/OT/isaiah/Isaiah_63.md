@@ -55,14 +55,20 @@ v1: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship
 
 ##Vocabulary
 
-v01: בָּצְרָה (Botsrah)
-“Bozrah.” An Edomite city named in the opening vision of the returning warrior.
+v1: בָּצְרָה (Botsrah)  
+“Bozrah.” An Edomite city named in the opening vision of the returning warrior.  
+
+v1: צְדָקָה (tsedaqah)  
+“Righteousness.” Rightness and faithfulness in relationship and action.  
 
 v17: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.
 
 v16: גֹּאֵל (go'el)
 “Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
+
+v01: בָּצְרָה (Botsrah)
+“Bozrah.” An Edomite city named in the opening vision of the returning warrior.
 
 v01: צְדָקָה (tsedaqah)
 “Righteousness.” Rightness and faithfulness in relationship and action.

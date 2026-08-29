@@ -52,3 +52,6 @@ v08: שָׁקֵד (shaqed)
 
 v10: אוֹת (ot)
 “Sign.” A visible marker that bears continuing meaning.
+
+v10: מְרִי (meri)
+“Rebellion.” Persistent resistance against the LORD’s ordering.

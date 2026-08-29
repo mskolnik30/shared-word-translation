@@ -58,5 +58,11 @@ v03: פֶּסֶל (pesel)
 v03: מַסֵּכָה (massekhah)
 “Cast image.” An image formed from molten metal.
 
+v05: תְּרָפִים (teraphim)
+“Household gods.” Cultic objects associated with domestic religion or divination.
+
 v05: מִלֵּא יָד (mille yad)
 “To fill the hand,” rendered “ordain.” An idiom for installing someone in priestly service.
+
+v06: יָשָׁר בְּעֵינָיו (yashar be'enav)
+“Right in their own eyes.” A key phrase describing self-directed moral and religious judgment.

@@ -52,11 +52,17 @@ v16: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context d
 
 ##Vocabulary
 
+v8: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v1: גּוֹיִם (goyim)  
+“Nations” or “peoples.” Peoples beyond Israel.  
+
+v16: רוּחַ (ruach)
+“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.
+
 v08: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
 v01: גּוֹיִם (goyim)
 “Nations” or “peoples.” Peoples beyond Israel.
-
-v16: רוּחַ (ruach)
-“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.

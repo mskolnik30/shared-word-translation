@@ -74,14 +74,23 @@ v4: “servant” — Isaiah uses servant language in several contexts. TSW pres
 
 ##Vocabulary
 
-v01: מָשִׁיחַ (mashiach)
-“Anointed one.” Applied in v01 to Cyrus of Persia.
+v1: מָשִׁיחַ (mashiach)  
+“Anointed one.” Applied in v01 to Cyrus of Persia.  
 
 v11: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
+v13: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
 v13: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+
+v4: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
+
+v01: מָשִׁיחַ (mashiach)
+“Anointed one.” Applied in v01 to Cyrus of Persia.
 
 v04: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.

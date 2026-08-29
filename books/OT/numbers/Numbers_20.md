@@ -86,3 +86,6 @@ v12: קָדַשׁ (qadash)
 
 v17: דֶּרֶךְ הַמֶּלֶךְ (derekh hammelekh)
 “King’s Highway.” A major route through Transjordan.
+
+v24: אָסַף אֶל־עַמָּיו (asaf el-ammav)
+“To be gathered to one’s people.” A traditional expression for death and joining one’s ancestors.

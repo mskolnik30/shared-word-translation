@@ -50,3 +50,9 @@ v03: בִּשְׁגָגָה (bishgagah)
 
 v03: גֹּאֵל הַדָּם (goel ha-dam)
 “Avenger of blood.” The family representative responsible for pursuing bloodguilt.
+
+v04: שַׁעַר (sha'ar)
+“Gate.” The city entrance where elders heard legal matters.
+
+v09: גֵּר (ger)
+“Resident alien.” A non-native person living within the community.

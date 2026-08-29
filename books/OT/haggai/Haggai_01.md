@@ -108,6 +108,45 @@ v14–15: Genuine repentance results in concrete action rather than words alone.
 
 ##Vocabulary
 
+v1: דָּבַר־יְהוָה (dāḇar-YHWH)  
+“Word of the LORD.” A message originating from God.  
+
+v1: פָּחוֹת (pāḥôṯ)  
+“Governor.” A provincial ruler under imperial authority.  
+
+v4: חָרֵב (ḥārēḇ)  
+“Ruined” or “desolate.” Left in a state of destruction.  
+
+v5: שִׂימוּ לְבַבְכֶם (śîmû lĕḇaḇḵem)  
+“Set your heart.” To carefully consider or reflect upon.  
+
+v6: זָרַע (zāraʿ)  
+“To sow.” To plant seed for harvest.  
+
+v8: בָּנָה (bānâ)  
+“To build.” To construct or restore.  
+
+v8: כָּבֵד (kāḇēḏ)  
+“To be glorified.” To receive honor and weight.  
+
+v10: טַל (ṭal)  
+“Dew.” Moisture essential for agricultural productivity.  
+
+v11: חֹרֶב (ḥōreḇ)  
+“Drought.” A prolonged lack of rain resulting in scarcity.  
+
+v12: שְׁאֵרִית (šĕʾērîṯ)  
+“Remnant.” The portion of the people preserved by God.  
+
+v13: מַלְאַךְ (malʾāḵ)  
+“Messenger.” One sent to deliver an authoritative message.  
+
+v14: עוּר (ʿûr)  
+“To stir up.” To awaken, arouse, or motivate.  
+
+v14: רוּחַ (rûaḥ)
+“Spirit.” The inner disposition, will, or motivating power of a person.
+
 v01: דָּבַר־יְהוָה (dāḇar-YHWH)
 “Word of the LORD.” A message originating from God.
 
@@ -116,6 +155,3 @@ v01: פָּחוֹת (pāḥôṯ)
 
 v04: חָרֵב (ḥārēḇ)
 “Ruined” or “desolate.” Left in a state of destruction.
-
-v14: רוּחַ (rûaḥ)
-“Spirit.” The inner disposition, will, or motivating power of a person.

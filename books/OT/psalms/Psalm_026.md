@@ -79,6 +79,90 @@ v12: Stability (“level ground”) culminates in communal praise.
 
 ##Vocabulary
 
+v1: שָׁפַט (šāpaṭ)  
+
+“To judge/vindicate.” To render a decision.
+
+v1: תֹּם (tōm)  
+
+“Integrity.” Wholeness, blamelessness.
+
+v1: בָּטַח (bāṭaḥ)  
+
+“To trust.” To rely securely.
+
+v2: בָּחַן (bāḥan)  
+
+“To test.” To examine for quality.
+
+v2: צָרַף (ṣārap̄)  
+
+“To refine.” To test as metal.
+
+v2: לֵב (lēḇ)  
+
+“Heart.” Inner will or center.
+
+v2: כִּלְיָה (kilyāh)  
+
+“Mind/kidneys.” Inner seat of emotion.
+
+v3: חֶסֶד (ḥeseḏ)  
+
+“Steadfast love.” Loyal covenant love.
+
+v3: אֱמֶת (ʾĕmeṯ)  
+
+“Truth.” Reliability, faithfulness.
+
+v4: שָׁוְא (šāwʾ)  
+
+“Falsehood.” Emptiness, deception.
+
+v5: קָהָל (qāhāl)  
+
+“Assembly.” Gathered group.
+
+v6: נִקָּיוֹן (niqqāyôn)  
+
+“Innocence.” Cleanliness, purity.
+
+v7: תּוֹדָה (tôḏāh)  
+
+“Thanksgiving.” Expression of gratitude.
+
+v8: מָעוֹן (māʿôn)  
+
+“Dwelling.” Place of habitation.
+
+v8: כָּבוֹד (kāḇôḏ)  
+
+“Glory.” Weight, presence.
+
+v9: אָסַף (ʾāsap̄)  
+
+“To gather/sweep away.” To remove together.
+
+v10: שֹׁחַד (šōḥaḏ)  
+
+“Bribe.” Corrupt payment.
+
+v11: גָּאַל (gāʾal)  
+
+“To redeem.” To restore or rescue.
+
+v11: חָנַן (ḥānan)  
+
+“To be gracious.” To show favor.
+
+v12: מִישׁוֹר (mîšôr)  
+
+“Level ground.” Upright, even place.
+
+v12: בָּרַךְ (bāraḵ)  
+
+“To bless.” To speak well of, praise.
+
 v01: בָּטַח (bāṭaḥ)
 “To trust.” To rely securely.
 

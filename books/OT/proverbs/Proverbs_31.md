@@ -200,14 +200,38 @@ v31: The woman’s works themselves are called to praise her publicly “at the 
 
 ##Vocabulary
 
-v01: מַשָּׂא (massa)
-“Oracle” or “weighty saying.” The designation given to Lemuel’s received instruction.
+v1: מַשָּׂא (massa)  
+“Oracle” or “weighty saying.” The designation given to Lemuel’s received instruction.  
+
+v8: אִלֵּם (illem)  
+“Without a voice” or “unable to speak.” One unable to advocate effectively for their own cause.  
+
+v9: דִּין (din)  
+“To judge” or “defend a legal claim.” Used here in connection with the rights of the poor and needy.  
+
+v10: אֵשֶׁת־חַיִל (eshet chayil)  
+“Woman of strength.” A woman characterized by capability, valor, resources, and worthy character.  
 
 v11: בָּטַח (batach)
 “To trust.” The husband places confident reliance in her.
+
+v16: זָמַם (zamam)  
+“To consider” or “plan.” Deliberate evaluation before purchasing the field.  
+
+v20: עָנִי (ani)  
+“Poor” or “afflicted.” One economically or socially vulnerable.  
+
+v25: עֹז (oz)  
+“Strength.” Power and resilience pictured as clothing.  
+
+v25: הָדָר (hadar)  
+“Dignity,” “splendor,” or “honor.” Visible worth accompanying strength.  
 
 v26: תּוֹרַת־חֶסֶד (torat ḥesed)
 “Instruction of steadfast love.” Teaching characterized by faithful kindness.
 
 v30: יִרְאַת יְהוָה (yirat YHWH)
 “Fear of the LORD.” Reverent relationship with the LORD, identified throughout Proverbs as foundational to wisdom.
+
+v01: מַשָּׂא (massa)
+“Oracle” or “weighty saying.” The designation given to Lemuel’s received instruction.

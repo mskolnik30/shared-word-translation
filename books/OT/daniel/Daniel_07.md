@@ -212,8 +212,26 @@ v02: רוּחַ (ruach)
 v03: חֵיוָה (cheivah)
 “Beast.” The symbolic kingdoms emerge as animals.
 
+v08: קֶרֶן (qeren)
+“Horn.” A symbol of royal or political power.
+
+v09: עַתִּיק יוֹמִין (attiq yomin)
+“Ancient of Days.” A title for the eternal heavenly judge.
+
+v10: דִּינָא (dina)
+“Court” or “judgment.” The heavenly tribunal.
+
+v13: בַּר אֱנָשׁ (bar enash)
+“Son of man” or “human being.” The human-like figure coming with the clouds.
+
+v14: שָׁלְטָן (sholtan)
+“Dominion” or “rule.” Authority given to the human-like figure.
+
 v18: קַדִּישִׁין (qaddishin)
 “Holy ones.” Those belonging to the Most High.
 
 v25: בְּלָא (bela)
 “To wear down.” The horn oppresses the holy ones.
+
+v25: עִדָּן וְעִדָּנִין וּפְלַג עִדָּן (iddan ve-iddanin u-felag iddan)
+“A time, times, and half a time.” A bounded period of oppression.

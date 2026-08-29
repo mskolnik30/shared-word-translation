@@ -128,6 +128,74 @@ v36: The narrative pivots toward Egypt, setting the stage for reversal.
 
 ##Vocabulary
 
+v2: דִּבָּה (dibbāh)  
+
+v2: “Report, rumor.” Often with negative connotation.  
+
+v3: כְּתֹנֶת (kᵉṯōneṯ)  
+
+v3: “Robe, tunic.” Garment marking identity or status.  
+
+v4: שָׂנֵא (śānēʾ)  
+
+v4: “To hate.” Rejection that fractures relationship.  
+
+v5: חֲלוֹם (ḥălôm)  
+
+v5: “Dream.” Medium of divine or symbolic communication.  
+
+v8: מָלַךְ (mālaḵ)  
+
+v8: “To reign.” Exercise of royal authority.  
+
+v10: גָּעַר (gāʿar)  
+
+v10: “To rebuke.” Verbal correction or restraint.  
+
+v11: קָנָא (qānāʾ)  
+
+v11: “To be jealous.” Emotional intensity tied to comparison.  
+
+v18: נָכַל (nāḵal)  
+
+v18: “To conspire.” Plan with deceptive intent.  
+
+v20: בּוֹר (bôr)  
+
+v20: “Pit, cistern.” Place of confinement or abandonment.  
+
+v22: דָּם (dām)  
+
+v22: “Blood.” Life-force; marker of violence or guilt.  
+
+v25: שְׂאֵת (śeʾēṯ)  
+
+v25: “Load, cargo.” Goods carried for trade.  
+
+v26: בֶּצַע (beṣaʿ)  
+
+v26: “Profit, gain.” Motivation framed economically.  
+
+v28: כֶּסֶף (keseph)  
+
+v28: “Silver.” Medium of exchange; valuation.  
+
+v29: קָרַע (qāraʿ)  
+
+v29: “To tear.” Gesture of grief.  
+
+v34: שַׂק (śaq)  
+
+v34: “Sackcloth.” Garment of mourning or distress.  
+
+v35: שְׁאוֹל (šᵉʾôl)  
+
+v35: “Sheol.” Realm of the dead.  
+
+v36: סָרִיס (sārîs)  
+
+v36: “Official.” Court functionary with authority.  
+
 v02: דִּבָּה (dibbāh)
 “Report, rumor.” Often with negative connotation.
 

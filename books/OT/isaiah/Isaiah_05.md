@@ -164,11 +164,17 @@ v25: “For all this his anger has not turned away, and his hand is stretched ou
 
 ##Vocabulary
 
-v07: יְהוָה (YHWH)
-“LORD.” The divine name, represented in English by small-capital LORD.
+v7: **5:7**: יְהוָה (YHWH, Yahweh) — This name of God refers to the eternal, self-existent one. It is personal and relational, as shown by God's expectation of justice and righteousness from Israel.  
+
+v16: **5:16**: צְבָאוֹת (Tseva'oth, Hosts) — Often translated as "Almighty," this term depicts God as a military leader, commanding the armies of heaven.  
 
 v16: צְבָאוֹת (Tseva'oth)
 “Hosts; armies.” In the title “LORD of Hosts,” the noun evokes ordered heavenly or earthly forces under divine command.
 
+v19: **5:19**: קְדוֹשׁ (Kadosh, Holy One) — This title for God emphasizes his distinctness and moral purity, underscoring his rightful expectation of obedience and reverence.  
+
 v19: קְדוֹשׁ (Kadosh)
 “Holy One.” A title with a sense of holiness or sacred distinctness.
+
+v07: יְהוָה (YHWH)
+“LORD.” The divine name, represented in English by small-capital LORD.

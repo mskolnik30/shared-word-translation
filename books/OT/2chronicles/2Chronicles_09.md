@@ -111,3 +111,9 @@ v08: מִשְׁפָּט (mishpat)
 
 v08: צְדָקָה (tsedaqah)
 “Righteousness.”
+
+v21: תַּרְשִׁישׁ (Tarshish)
+“Tarshish.” Associated with long-distance trade.
+
+v29: חֹזֶה (chozeh)
+“Seer.” A prophetic title.

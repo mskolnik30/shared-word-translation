@@ -70,8 +70,17 @@ v01: כְּאִישׁ אֶחָד (ke-ish echad)
 v02: עֹלָה (olah)
 “Burnt offering.” An offering wholly consumed upon the altar.
 
+v04: חַג הַסֻּכּוֹת (chag ha-sukkot)
+“Festival of Booths.” The autumn pilgrimage festival.
+
 v05: נְדָבָה (nedavah)
 “Freewill offering.” A voluntary offering presented to the LORD.
+
+v08: נָצַח (natsach)
+“To oversee” or “supervise.” Used of Levites directing the rebuilding work.
+
+v10: יָסַד (yasad)
+“To lay a foundation.” The key building action celebrated in the chapter.
 
 v11: חֶסֶד (ḥesed)
 “Steadfast love.” The enduring covenant love praised in song.

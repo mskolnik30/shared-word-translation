@@ -79,11 +79,17 @@ v4: “remnant” — Isaiah repeatedly speaks of those who remain through judgm
 v23: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
+v16: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
 v16: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
 v31: שְׁאָר (she'ar)
 “Remnant.” Those who remain or survive.
+
+v5: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
 v05: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.

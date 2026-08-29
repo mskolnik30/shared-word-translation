@@ -68,6 +68,45 @@ v22: The book concludes by directing attention toward David, whose future kingdo
 
 ##Vocabulary
 
+v1: שַׁעַר (šaʿar)
+“Gate.” The public place where legal and civic matters were conducted.
+
+v3: גָּאַל (gāʾal)
+“To redeem.” To reclaim property, protect family interests, or restore what has been lost.
+
+v4: גְּאֻלָּה (gĕʾullâ)
+“Redemption.” The legal right and responsibility of a family redeemer.
+
+v6: נַחֲלָה (naḥălâ)
+“Inheritance.” Property or family possession passed through generations.
+
+v7: נַעַל (naʿal)
+“Sandal.” Removed as a symbolic act confirming a legal transaction.
+
+v9: עֵד (ʿēḏ)
+“Witness.” One who testifies to the validity of an agreement.
+
+v10: שֵׁם (šēm)
+“Name.” More than an identifier; it signifies family continuity, memory, and legacy.
+
+v11: בָּנָה (bānâ)
+“To build.” Used figuratively of establishing a household or family line.
+
+v13: הָרָה (hārâ)
+“To conceive.” To become pregnant.
+
+v15: שׁוּב נֶפֶשׁ (šûḇ nepeš)
+“To restore life.” To revive, refresh, or renew vitality.
+
+v17: עוֹבֵד (ʿÔḇēḏ)
+“Obed.” Meaning “servant” or “one who serves.”
+
+v18: תּוֹלְדוֹת (tôlĕdôt)
+“Generations.” A genealogical record linking people across time.
+
+v22: דָּוִד (Dāwiḏ)
+“David.” The future king whose lineage concludes the book and gives it enduring significance.
+
 v01: שַׁעַר (šaʿar)
 “Gate.” The public place where legal and civic matters were conducted.
 

@@ -131,8 +131,17 @@ v06: קָצִין (qatsin)
 v09: רֹאשׁ (rosh)
 “Head.” A chief or ruling leader.
 
+v27: שֹׁפֵט (shofet)
+“Judge.” Here the LORD is invoked as the one who judges between peoples.
+
 v29: רוּחַ יְהוָה (ruach YHWH)
 “Spirit of the LORD.” Divine empowering presence.
 
+v30: נֶדֶר (neder)
+“Vow.” A solemn promise made to God.
+
 v31: עֹלָה (olah)
 “Burnt offering.” An offering wholly consumed upon the altar.
+
+v40: תָּנָה (tanah)
+“To commemorate” or “recount.” A rare verb describing the annual practice concerning Jephthah’s daughter.

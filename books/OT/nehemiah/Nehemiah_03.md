@@ -82,3 +82,12 @@ v05: צַוָּאר (tsavvar)
 
 v13: אַמָּה (ammah)
 “Cubit.” An ancient measure based on the forearm.
+
+v20: חָרָה (charah)
+“To burn” or “be kindled.” In this form, conveying Baruch’s zeal or earnestness.
+
+v26: נְתִינִים (Nethinim)
+“Temple servants.” A group assigned to service connected with the sanctuary.
+
+v31: מִפְקָד (miphqad)
+“Inspection” or “appointment.” The term behind the name of the Inspection Gate.

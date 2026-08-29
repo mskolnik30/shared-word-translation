@@ -84,8 +84,17 @@ v01: חֶבֶל (chevel)
 v04: פְּרָזוֹת (perazot)
 “Unwalled villages” or “open settlements.” Places not enclosed by defensive walls.
 
+v05: חוֹמַת אֵשׁ (chomat esh)
+“Wall of fire.” An image of divine protection surrounding Jerusalem.
+
 v05: כָּבוֹד (kavod)
 “Glory.” Weight, honor, or manifest presence; here the LORD’s glory is located within Jerusalem.
 
 v08: בָּבַת עַיִן (bavat ayin)
 “Pupil of the eye.” Literally the delicate central part of the eye, used for something especially vulnerable or precious.
+
+v11: לָוָה (lavah)
+“To join” or “attach oneself.” Used here of nations joining themselves to the LORD.
+
+v13: הַס (has)
+“Be silent” or “hush.” A summons to reverent silence before divine action.

@@ -84,3 +84,18 @@ v03: צוֹם (tsom)
 
 v08: בָּקַשׁ (baqash)
 “To seek.” Esther is to seek the king’s favor on behalf of her people.
+
+v11: שַׁרְבִיט (sharvit)
+“Scepter.” The royal staff extended as a sign that the uninvited person may live.
+
+v14: רֶוַח (revach)
+“Relief” or “breathing room.” Release from constriction or danger.
+
+v14: הַצָּלָה (hatsalah)
+“Deliverance.” Rescue from the threatened destruction.
+
+v16: אָבַד (avad)
+“To perish.” Esther accepts the possibility of death.
+
+v17: עָבַר (avar)
+“To pass on.” Mordecai goes and carries out Esther’s command.

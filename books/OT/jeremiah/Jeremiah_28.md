@@ -79,3 +79,12 @@ v09: שָׁלוֹם (shalom)
 
 v10: מוֹטָה (motah)
 “Yoke bar.” Jeremiah’s wooden prophetic sign.
+
+v13: בַּרְזֶל (barzel)
+“Iron.” The replacement yoke symbolizes intensified and unavoidable subjection.
+
+v15: שֶׁקֶר (sheqer)
+“Falsehood.” That upon which Hananiah has caused the people to rely.
+
+v16: סָרָה (sarah)
+“Rebellion.” Defiant turning away from the LORD’s authority.

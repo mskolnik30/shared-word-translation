@@ -64,3 +64,12 @@ v08: יָד (yad)
 
 v10: רָעַע (ra'a')
 “To be displeased” or “be troubled.” Describes the opponents’ reaction to Israel’s welfare.
+
+v13: שָׂבַר (savar)
+“To inspect” or “examine.” A rare verb used for Nehemiah’s careful nighttime assessment.
+
+v17: חֶרְפָּה (cherpah)
+“Disgrace” or “reproach.” Social shame linked with Jerusalem’s ruin.
+
+v20: זִכָּרוֹן (zikkaron)
+“Memorial” or “remembrance.” A recognized claim to remembered belonging or standing.

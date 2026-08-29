@@ -63,6 +63,24 @@ v11: The refrain returns identical, but it now arrives after the silencing. What
 
 ##Vocabulary
 
+v1: מַחֲסֶה (maḥseh) — Refuge. A place to which one runs and is received. The word recurs across the Psalter as an image of the LORD himself.
+
+v1: עֹז (ʿōz) — Strength. Not raw power, but firm steadiness; the strength of one who does not fall.
+
+v1: עֶזְרָה (ʿezrâ) — Help. Practical, embodied aid—not abstract sympathy.
+
+v4: פֶּלֶג (peleg) — A stream, a watercourse. The plural names a river of many channels, a generosity of waters.
+
+v5: בַּל־תִּמּוֹט (bal-timmôṭ) — "Will not be shaken." The very verb used of the mountains in v.2 is now denied of the city. What threatens the world cannot threaten her.
+
+v7: יהוה צְבָאוֹת (yhwh ṣəvāʾôt) — LORD of hosts. The title evokes the armies of heaven; in this psalm the warrior is also the disarmer.
+
+v7: מִשְׂגָּב (miśgāv) — Stronghold, high refuge. A high place of safety, lifted out of the reach of harm.
+
+v10: רָפָה (rāphâ) — To slacken, to let go, to be still. The Hiphil imperative here means "drop your hands"—both the warrior's hands and the anxious hands.
+
+v10: יָדַע (yādaʿ) — To know, to recognize. Not to inform oneself, but to acknowledge.
+
 v01: מַחֲסֶה (maḥseh)
 “Refuge. A place to which one runs and is received.”
 

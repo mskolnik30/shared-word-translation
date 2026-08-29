@@ -134,6 +134,45 @@ v18: The final outcome will reveal a clear distinction between righteousness and
 
 ##Vocabulary
 
+v6: שָׁנָה (šānâ)
+“To change.” To become different or altered.
+
+v7: שׁוּב (šûḇ)
+“To return.” To turn back in repentance and renewed covenant loyalty.
+
+v8: קָבַע (qāḇaʿ)
+“To rob.” To withhold what rightfully belongs to another.
+
+v8: מַעֲשֵׂר (maʿăśēr)
+“Tithe.” A tenth portion dedicated to God.
+
+v10: אוֹצָר (ʾôṣār)
+“Storehouse.” A place for storing provisions and offerings.
+
+v10: אֲרֻבּוֹת הַשָּׁמַיִם (ʾărubbôṯ haššāmayim)
+“Windows of heaven.” A metaphor for abundant divine provision.
+
+v11: גָּעַר (gāʿar)
+“To rebuke.” To restrain or command with authority.
+
+v13: חָזַק (ḥāzaq)
+“To be strong” or “hard.” Here describing harsh or arrogant speech.
+
+v14: שָׁוְא (šāwʾ)
+“Vain” or “empty.” Without profit, purpose, or value.
+
+v16: סֵפֶר זִכָּרוֹן (sēp̄er zikkārôn)
+“Book of remembrance.” A symbolic record of those remembered by God.
+
+v17: סְגֻלָּה (sĕgullâ)
+“Treasured possession.” A specially valued and protected people.
+
+v18: צַדִּיק (ṣaddîq)
+“Righteous.” One who lives in covenant faithfulness.
+
+v18: רָשָׁע (rāšāʿ)
+“Wicked.” One who rejects God's ways and acts unjustly.
+
 v06: שָׁנָה (šānâ)
 “To change.” To become different or altered.
 
@@ -142,6 +181,3 @@ v07: שׁוּב (šûḇ)
 
 v08: קָבַע (qāḇaʿ)
 “To rob.” To withhold what rightfully belongs to another.
-
-v18: צַדִּיק (ṣaddîq)
-“Righteous.” One who lives in covenant faithfulness.

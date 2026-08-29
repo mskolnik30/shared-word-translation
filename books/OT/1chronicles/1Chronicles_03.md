@@ -51,5 +51,13 @@ v1–24: 1. **David's Sons in Hebron (v1-4):** The first part of the genealogy, 
 
 ##Vocabulary
 
+v1: - **בֵּן (ben - v1):** Commonly translated as "son," this term reflects the designation of biological and/or legal offspring crucial for tracing inheritance and lineage in the narrative.  
+
+v4–5: - **יִרְאוּשָׁלַיִם (Jerusalem - v4, v5):** The center of Israel's monarchy and religious life, signifying the political and spiritual heart of Judah.  
+
+v18: - **מַלְכִּירָם (Malchiram - v18):** One of the descendants of Jeconiah, reminding readers of the broader family network beyond the immediate line of kingship.  
+
+v17: - **שְׁאַלְתִּיאֵל (Shealtiel - v17):** As the son of Jeconiah, he connects the legacy of the Davidic line in the post-exilic time.  
+
 v01: בֵּן (ben)
 “Son; descendant.” A kinship term used in the genealogy.

@@ -73,11 +73,19 @@ v20: The concern is not that holiness is harmful, but that holy sacrificial food
 v12: שְׁלָמִים (shelamim)
 “well-being offerings.” In this passage these offerings accompany the prince's worship and express a sacrifice associated with wholeness and peace before the LORD.
 
+v12: נְדָבָה (nedavah)
+“voluntary offering.” The prince's offering is not tied to the regular Sabbath or new-moon schedule, yet it is still carefully ordered within the temple's worship.
+
+v5: **מִנְחָה (*minchah*)** — “grain offering.” The term recurs throughout the chapter for the flour-and-oil offering that accompanies the animal sacrifices.  
+
+v9: **מוֹעֵד (*mo'ed*)** — “appointed time.” These are the set occasions when the people come before the LORD, including the festivals named in v11.  
+
+v17: **דְּרוֹר (*deror*)** — “release.” A servant's gifted property returns to the prince in the year of release, preserving the prince's inheritance for his children.  
+
+v18: **נַחֲלָה (*nachalah*)** — “inheritance.” The word frames the chapter's protection of land held by the prince, his children, and the people; the prince must not enlarge his estate by dispossessing others.  
+
 v05: מִנְחָה (minchah)
 “grain offering.” The term recurs throughout the chapter for the flour-and-oil offering that accompanies the animal sacrifices.
 
 v09: מוֹעֵד (mo'ed)
 “appointed time.” These are the set occasions when the people come before the LORD, including the festivals named in v11.
-
-v12: נְדָבָה (nedavah)
-“voluntary offering.” The prince's offering is not tied to the regular Sabbath or new-moon schedule, yet it is still carefully ordered within the temple's worship.

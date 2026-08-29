@@ -56,11 +56,17 @@ v16–17: The sanctuary represents a place of divine revelation and understandin
 
 ##Vocabulary
 
-v01: אֱלֹהִים (elohim)
-“God.” The common Hebrew designation for God.
+v1: אֱלֹהִים (e.lo.him) — Referring to God, emphasizing the divine nature and relationship with the people of Israel.  
+
+v24: כָּבוֹד (ka.vod) — Here used in the sense of honor or glory, describing the outcome of divine guidance and care leading to honor.  
 
 v24: כָּבוֹד (kavod)
 “Glory; honor.” The term can denote honor, splendor, or weighty significance.
 
+v26: צוּר (tsur) — Often translated as "rock," symbolizing stability and strength, particularly of God as the firm foundation of the psalmist's life.  
+
 v26: צוּר (tsur)
 “Rock.” A metaphor for strength, stability, or enduring support.
+
+v01: אֱלֹהִים (elohim)
+“God.” The common Hebrew designation for God.

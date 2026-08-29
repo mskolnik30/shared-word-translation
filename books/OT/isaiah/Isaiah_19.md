@@ -66,11 +66,17 @@ v03: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context d
 
 ##Vocabulary
 
+v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
 v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v03: רוּחַ (ruach)
-“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.
+v3: רוּחַ (ruach)  
+“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.  
 
 v18: דָּבָר (davar)
 “Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.
+
+v03: רוּחַ (ruach)
+“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.

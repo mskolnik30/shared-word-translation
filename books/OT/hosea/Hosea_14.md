@@ -104,3 +104,18 @@ v02: פְּרִי שְׂפָתֵינוּ (peri sefatenu)
 
 v03: רָחַם (racham)
 “To have compassion.” The orphan finds mercy in the LORD.
+
+v04: מְשׁוּבָה (meshuvah)
+“Turning away” or “backsliding.” The condition the LORD promises to heal.
+
+v04: נְדָבָה (nedavah)
+“Freely” or “voluntarily.” Love given generously, without compulsion.
+
+v05: טַל (tal)
+“Dew.” A life-giving source of moisture in the restoration image.
+
+v08: בְּרוֹשׁ (berosh)
+“Cypress” or evergreen tree. An image of enduring flourishing.
+
+v09: יָשָׁר (yashar)
+“Right” or “straight.” The ways of the LORD are reliable and morally straight.

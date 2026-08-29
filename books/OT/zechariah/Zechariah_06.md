@@ -78,5 +78,14 @@ v05: רוּחַ (ruach)
 v08: נוּחַ (nuach)
 “To rest” or “settle.” To come to rest or cause something to rest.
 
+v11: עֲטָרָה (atarah)
+“Crown.” A royal or ceremonial headpiece used here in a prophetic sign-act.
+
+v12: צֶמַח (tsemach)
+“Branch,” “sprout,” or “shoot.” An image of new growth associated with future restoration and leadership.
+
+v13: הוֹד (hod)
+“Majesty,” “splendor,” or “honor.” Dignity associated with authority and rule.
+
 v13: עֲצַת שָׁלוֹם (atsat shalom)
 “Counsel of peace.” Deliberation or relationship characterized by peace between the two offices described.

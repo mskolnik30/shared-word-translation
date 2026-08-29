@@ -121,5 +121,17 @@ v01: בְּרִית (berit)
 v04: נָסִיךְ (nasikh)
 “Official” or “prince.” One installed in political authority.
 
+v05: עֵגֶל (egel)
+“Calf.” The cultic image associated with Samaria.
+
+v07: סוּפָה (suphah)
+“Whirlwind.” The destructive harvest reaped from sowing wind.
+
+v08: כְּלִי (keli)
+“Vessel.” Israel is compared with an unwanted object among the nations.
+
 v11: מִזְבֵּחַ (mizbeach)
 “Altar.” A place of sacrifice that has become an instrument of sin.
+
+v14: עָשָׂה (asah)
+“To make.” Israel forgets the One who made him while producing human structures and idols.

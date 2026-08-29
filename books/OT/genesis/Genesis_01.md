@@ -125,6 +125,81 @@ v31: The sixth day concludes the sequence with completeness, preparing for the c
 
 ##Vocabulary
 
+v1: בָּרָא (baraʾ)  
+“To create.” Used uniquely of divine activity, not requiring material specification.  
+
+v1: שָׁמַיִם (shamayim)  
+“Heavens.” The upper realm or sky, paired with earth as totality.  
+
+v2: תֹּהוּ וָבֹהוּ (tohu va-vohu)  
+“Formless and empty.” Unordered and unfilled condition.  
+
+v2: תְּהוֹם (tehom)  
+“The deep.” The primal waters.  
+
+v2: רוּחַ (ruaḥ)  
+“Spirit” or “wind.” Denotes divine presence and movement.  
+
+v2: “Breath.” Life-giving breath.  
+
+v3: אָמַר (ʾamar)  
+“To say.” Divine speech as creative act.  
+
+v4: בָּדַל (badal)  
+“To separate.” Establishing distinction and order.  
+
+v5: קָרָא (qaraʾ)  
+“To call.” Naming as an act of authority.  
+
+v6: רָקִיעַ (raqiaʿ)  
+
+v6: “Expanse.” A spread-out space dividing waters.  
+
+v9: קָוָה (qavah)  
+“To gather.” Collecting waters into one place.  
+
+v10: אֶרֶץ (ʾerets)  
+“Earth.” Land or ground.  
+
+v11: דֶּשֶׁא (desheʾ)  
+“Vegetation.” Green growth from the earth.  
+
+v11: זֶרַע (zeraʿ)  
+“Seed.” Reproductive principle within living things.  
+
+v14: מְאֹרוֹת (meʾorot)  
+“Lights.” Luminaries in the heavens.  
+
+v14: מוֹעֲדִים (moʿadim)  
+“Appointed times.” Fixed seasons or sacred times.  
+
+v20: שָׁרַץ (sharats)  
+“To swarm.” Abundant movement of living creatures.  
+
+v21: תַּנִּינִם (tanninim)  
+“Great sea creatures.” Large creatures of the waters.  
+
+v24: נֶפֶשׁ חַיָּה (nephesh ḥayyah)  
+
+v24: “Living creature.” A being with life-breath.  
+
+v26: צֶלֶם (tselem)  
+“Image.” Representation or likeness.  
+
+v26: דְּמוּת (demut)  
+“Likeness.” Similarity without identity.  
+
+v28: רָדָה (radah)  
+“To rule.” Exercise of dominion or governance.  
+
+v28: כָּבַשׁ (kavash)  
+“To subdue.” Bringing under ordered use.  
+
+v30: נְשָׁמָה (neshamah)  
+
+v31: טוֹב מְאֹד (tov meʾod)  
+“Very good.” Complete affirmation of creation.  
+
 v01: בָּרָא (baraʾ)
 “To create.” Used uniquely of divine activity, not requiring material specification.
 

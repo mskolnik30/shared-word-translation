@@ -175,6 +175,30 @@ v09: The Hebrew literally speaks of a “good eye,” an idiom for generosity.
 
 ##Vocabulary
 
+v1: שֵׁם (shem)  
+“Name.” Reputation or identity as known within the community.  
+
+v3: עָרוּם (arum)  
+“Prudent.” Able to perceive danger before entering it.  
+
+v6: חָנַךְ (chanakh)  
+“To train,” “dedicate,” or “initiate.” To begin someone within a particular way.  
+
+v9: טוֹב־עַיִן (tov ayin)  
+“Generous eye.” Literally “good of eye,” an idiom for generosity.  
+
+v17: חָכָם (chakham)  
+“Wise.” One formed in skillful understanding.  
+
+v23: רִיב (riv)  
+“To plead a case” or “contend.” Judicial advocacy.  
+
+v28: גְּבוּל (gevul)  
+“Boundary.” A territorial marker defining property or inheritance.  
+
+v29: מָהִיר (mahir)  
+“Skilled” or “quick.” Competent and accomplished in work.  
+
 v01: שֵׁם (shem)
 “Name.” Reputation or identity as known within the community.
 

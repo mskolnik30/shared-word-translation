@@ -169,3 +169,15 @@ v21: הֶבֶל (hevel)
 
 v26: דָּמִים (damim)
 “Bloodguilt” or bloodshed.
+
+v28: בַּיִת נֶאֱמָן (bayit ne'eman)
+“Enduring house.” A lasting dynasty.
+
+v29: צְרוֹר הַחַיִּים (tseror ha-chayyim)
+“Bundle of the living.” An image of life kept safely with God.
+
+v33: טַעַם (ta'am)
+“Discernment” or good judgment.
+
+v39: רִיב (riv)
+“To plead a case” or contend judicially.

@@ -58,6 +58,50 @@ v6: “Knows” implies relational recognition; the divergence of ways is final.
 
 ##Vocabulary
 
+v1: אַשְׁרֵי (ʾašrê)  
+
+“Blessed.” Flourishing, well-ordered life.
+
+v1: רָשָׁע (rāšāʿ)  
+
+“Wicked.” One opposed to covenantal order.
+
+v1: לֵץ (lēṣ)  
+
+“Scoffer.” One who mocks and resists correction.
+
+v2: תּוֹרָה (tôrāh)  
+
+“Law/instruction.” Guiding teaching.
+
+v2: הָגָה (hāgāh)  
+
+“To meditate.” To murmur, reflect continually.
+
+v3: שָׁתַל (šāṭal)  
+
+“To plant.” To set firmly in place.
+
+v3: פְּרִי (perî)  
+
+“Fruit.” Product, outcome of life.
+
+v4: מֹץ (mōṣ)  
+
+“Chaff.” Husk separated from grain.
+
+v5: מִשְׁפָּט (mišpāṭ)  
+
+“Judgment.” Legal decision, evaluation.
+
+v6: יָדַע (yāḏaʿ)  
+
+“To know.” To recognize relationally.
+
+v6: דֶּרֶךְ (dereḵ)  
+
+“Way.” Path, course of life.
+
 v01: אַשְׁרֵי (ʾašrê)
 “Blessed.” Flourishing, well-ordered life.
 

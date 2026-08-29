@@ -172,8 +172,20 @@ v01: קָשָׁה־עֹרֶף (qesheh oref)
 v04: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Right rule establishing the land.
 
+v07: דִּין (din)
+“Legal claim” or “right.” The cause belonging to the poor.
+
 v11: רוּחַ (ruach)
 “Spirit,” “breath,” or “temper.” Here what a fool releases without restraint.
 
+v18: חָזוֹן (chazon)
+“Vision.” Prophetic revelation.
+
 v23: שְׁפַל־רוּחַ (shefal ruach)
 “Humble in spirit.” Literally low in spirit.
+
+v25: חֶרְדַּת אָדָם (cherdat adam)
+“Fear of a person.” Anxiety regarding human power or opinion.
+
+v26: פָּנִים (panim)
+“Face.” To seek a ruler’s face is to seek favorable access or decision.

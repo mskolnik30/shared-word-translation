@@ -88,3 +88,9 @@ v06: רִיב (riv)
 
 v10: בָּחַן (bachan)
 “To test” or “examine.” The testing Job says will reveal him like refined gold.
+
+v12: צָפַן (tsafan)
+“To treasure” or “store up.” Job’s relation to the words of God’s mouth.
+
+v16: רָכַךְ (rakhakh)
+“To make soft” or “make faint.” God has made Job’s heart lose firmness.

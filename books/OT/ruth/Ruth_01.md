@@ -52,8 +52,8 @@ v22: The note of “barley harvest” signals provision returning, though its si
 
 ##Vocabulary
 
-v08: חֶסֶד (ḥesed)
-“Steadfast kindness” or “loyal love.” A covenantal term describing faithful, enduring commitment within relationships.
+v8: חֶסֶד (ḥesed)  
+“Steadfast kindness” or “loyal love.” A covenantal term describing faithful, enduring commitment within relationships.  
 
 v11: בֵּן (ben)
 “Son.” In this context, tied to social structure and inheritance, not only biological relation.
@@ -63,3 +63,18 @@ v13: יַד (yad)
 
 v16: עַם (‘am)
 “People.” Denotes communal belonging—social, ethnic, and covenantal identity.
+
+v16: אֱלֹהִים (Elohim)  
+“God.” Ruth’s use marks a shift from Moabite identity toward Israel’s God.  
+
+v20: מָרָא (Mara)  
+“Bitter.” A self-designation reflecting lived experience rather than formal renaming.  
+
+v21: שַׁדַּי (Shaddai)  
+“The Almighty.” A divine title emphasizing power, here associated with affliction rather than deliverance.  
+
+v22: קָצִיר (qatsir)  
+“Harvest.” Signals provision and transition, often marking turning points in narrative movement.  
+
+v08: חֶסֶד (ḥesed)
+“Steadfast kindness” or “loyal love.” A covenantal term describing faithful, enduring commitment within relationships.

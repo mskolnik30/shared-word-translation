@@ -26,6 +26,15 @@ v7: “Zion” — The name can refer to Jerusalem, its people, or the city pers
 
 ##Vocabulary
 
+v7: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v7: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v1: דָּבָר (davar)  
+“Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.  
+
 v07: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 

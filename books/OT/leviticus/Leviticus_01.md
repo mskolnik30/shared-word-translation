@@ -57,5 +57,8 @@ v03: עֹלָה (olah)
 v04: כִּפֶּר (kipper)
 “To make atonement.” To deal ritually with guilt, impurity, or disrupted relationship.
 
+v05: זָרַק (zaraq)
+“To dash” or “throw.” Used for applying blood against the altar.
+
 v09: רֵיחַ נִיחֹחַ (reiach nichoach)
 “Pleasing aroma.” A recurring expression for an offering received favorably before the LORD.

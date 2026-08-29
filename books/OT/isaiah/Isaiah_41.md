@@ -80,8 +80,11 @@ v14: תּוֹלַעַת (tola'at)
 v14: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
-v08: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
 v14: גֹּאֵל (go'el)
 “Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
+
+v8: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
+
+v08: עֶבֶד (eved)
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.

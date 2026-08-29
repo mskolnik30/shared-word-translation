@@ -72,8 +72,14 @@ v9: “Woe” — Hebrew *hoy* is a cry of lament, warning, or judgment whose pr
 v15: דַּל (dal)
 “Poor” or “weak.” One lacking social or economic power.
 
+v16: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
 v16: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+
+v8: כָּבוֹד (kavod)  
+“Glory.” Weight, honor, or manifest splendor.  
 
 v08: כָּבוֹד (kavod)
 “Glory.” Weight, honor, or manifest splendor.

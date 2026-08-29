@@ -161,3 +161,9 @@ v08: בָּמֳתֵי יָם (bamote yam)
 
 v13: רַהַב (Rahav)
 “Rahab.” A poetic name for a chaos monster or proud sea power.
+
+v17: חִנָּם (chinnam)
+“Without cause.” Job’s claim that his wounds lack moral cause.
+
+v33: מוֹכִיחַ (mokhiach)
+“Arbiter,” “mediator,” or “one who decides.” Someone who could stand between disputing parties.

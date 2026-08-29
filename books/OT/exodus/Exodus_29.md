@@ -152,6 +152,12 @@ v46: The exodus reaches its theological purpose in divine dwelling: Israel is br
 
 ##Vocabulary
 
+v01: קָדַשׁ (qadash)
+“To consecrate.” To set apart for sacred service.
+
+v07: שֶׁמֶן הַמִּשְׁחָה (shemen ha-mishchah)
+“Anointing oil.” Oil used to install and consecrate priests.
+
 v09: מִלֵּא יָד (mille yad)
 “To fill the hand.” The Hebrew idiom for ordination.
 
@@ -161,8 +167,17 @@ v14: חַטָּאת (chatta't)
 v18: רֵיחַ נִיחוֹחַ (reach nichoach)
 “Pleasing aroma.” Formula describing an offering accepted before the LORD.
 
+v22: אֵיל מִלֻּאִים (eil millu'im)
+“Ram of ordination.” The ram used in filling the priests’ hands.
+
 v24: תְּנוּפָה (tenufah)
 “Wave offering.” A sacred portion presented before the LORD.
 
 v28: שְׁלָמִים (shelamim)
 “Offerings of well-being.” Sacrifices associated with peace, wholeness, and shared eating.
+
+v36: כִּפֶּר (kipper)
+“To make atonement.” To address guilt or impurity and restore sacred order.
+
+v38: תָּמִיד (tamid)
+“Continually.” Regular, ongoing sanctuary service.

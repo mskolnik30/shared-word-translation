@@ -73,6 +73,19 @@ v17: "May nations be blessed in him" — Connects to the Abrahamic promise of al
 
 ##Vocabulary
 
+v1: אֱלֹהִים (*Elohim*) — Often translated as "God," implying power and divinity, here addressing the divine source of justice and righteousness.  
+
+v5: שֶׁמֶשׁ (*shemesh*) — "Sun"; a marker of enduring time, often evoking strength and stability.  
+
+v6: רְבִיב (*raviv*) — "Showers"; part of an agricultural blessing metaphor, depicting abundance and renewal.  
+
+v10: תַרְשִׁישׁ (*Tarshish*) — A distant location, highlighting extensive reach and influence, potentially a trade partner.  
+
+v10: תַרְשִׁישׁ (Tarshish)
+“Tarshish.” A distant place associated with maritime trade.
+
+v17: אֹרֶךְ יָמִים (*orek yamim*) — "Endure forever"; a phrase emphasizing eternal blessing and legacy linked to divine promise.
+
 v01: אֱלֹהִים (Elohim)
 “God.” The common Hebrew designation for God.
 
@@ -81,6 +94,3 @@ v05: שֶׁמֶשׁ (shemesh)
 
 v06: רְבִיב (raviv)
 “Showers"; part of an agricultural blessing metaphor, depicting abundance and renewal.
-
-v10: תַרְשִׁישׁ (Tarshish)
-“Tarshish.” A distant place associated with maritime trade.

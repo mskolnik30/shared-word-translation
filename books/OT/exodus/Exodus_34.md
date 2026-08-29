@@ -130,6 +130,9 @@ v33–35: The veil regulates the people’s exposure to the radiance associated 
 v06: רַחוּם (rachum)
 “Compassionate.” Deeply merciful in disposition.
 
+v06: חַנּוּן (channun)
+“Gracious.” Freely giving favor.
+
 v06: אֶרֶךְ אַפַּיִם (erekh appayim)
 “Slow to anger,” literally “long of nostrils.”
 
@@ -138,3 +141,15 @@ v06: חֶסֶד וֶאֱמֶת (ḥesed ve-emet)
 
 v14: קַנָּא (qanna)
 “Jealous.” Zealous for exclusive covenant allegiance.
+
+v22: חַג שָׁבֻעוֹת (chag shavuot)
+“Festival of Weeks.” The wheat-harvest festival.
+
+v28: עֲשֶׂרֶת הַדְּבָרִים (aseret ha-devarim)
+“Ten Words.” The covenantal sayings written on the tablets.
+
+v29: קָרַן (qaran)
+“To shine” or “send out rays.” Used of Moses’ face.
+
+v33: מַסְוֶה (masveh)
+“Veil.” The covering Moses places over his face.

@@ -115,6 +115,59 @@ v32–35: Naming functions as theological interpretation—each name encodes Lea
 
 ##Vocabulary
 
+v1: נָשָׂא (nāśāʾ)  
+
+v1: “To lift, carry.” Often signals transition or movement.  
+
+v2: בְּאֵר (bᵉʾēr)  
+
+v2: “Well.” Source of life and meeting place.  
+
+v3: גָּלַל (gālal)  
+
+v3: “To roll.” Removing obstruction.  
+
+v11: נָשַׁק (nāšaq)
+“To kiss.” A gesture of greeting, affection, or recognition.
+
+v11: “To kiss.” Gesture of recognition or covenantal greeting.  
+
+v14: בָּשָׂר (bāśār)  
+
+v14: “Flesh.” Kinship language of shared identity.  
+
+v17: רַךְ (raḵ)  
+
+v17: “Soft, tender.” Ambiguous descriptor of Leah’s eyes.  
+
+v18: אָהֵב (ʾāhēḇ)  
+
+v18: “To love.” Affection with relational commitment.  
+
+v25: רָמָה (rāmāh)  
+
+v25: “To deceive.” Act of intentional misdirection.  
+
+v31: שָׂנֵא (śānēʾ)  
+
+v31: “To hate.” Often indicates rejection or lesser preference.  
+
+v31: פָּתַח (pātaḥ)  
+
+v31: “To open.” Divine enabling of fertility.  
+
+v32: רָאָה (rāʾāh)  
+
+v32: “To see.” Recognition of condition or distress.  
+
+v34: לָוָה (lāwāh)  
+
+v34: “To join, attach.” Basis for the name Levi.  
+
+v35: יָדָה (yāḏāh)  
+
+v35: “To praise, give thanks.” Acknowledgment directed toward God.  
+
 v01: נָשָׂא (nāśāʾ)
 “To lift, carry.” Often signals transition or movement.
 
@@ -123,6 +176,3 @@ v02: בְּאֵר (bᵉʾēr)
 
 v03: גָּלַל (gālal)
 “To roll.” Removing obstruction.
-
-v11: נָשַׁק (nāšaq)
-“To kiss.” A gesture of greeting, affection, or recognition.

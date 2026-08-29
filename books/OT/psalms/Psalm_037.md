@@ -140,8 +140,9 @@ v37–38: “Future” translates a word that can mean an outcome, latter end, o
 
 ##Vocabulary
 
-v03: אֱמוּנָה (’emunah)
-“faithfulness.” Here it is something to be tended or cultivated, joining trust in the LORD with a durable, faithful way of life.
+v3: **אֱמוּנָה — *’emunah***: “faithfulness.” Here it is something to be tended or cultivated, joining trust in the LORD with a durable, faithful way of life.  
+
+v9: **קָוָה — *qavah***: “wait for.” This waiting is expectant reliance on the LORD, set against anxious anger and envy.  
 
 v11: שָׁלוֹם (shalom)
 “peace.” In this psalm it is more than the absence of conflict; it names abundant well-being for the humble.
@@ -154,3 +155,8 @@ v28: מִשְׁפָּט (mishpat)
 
 v31: תּוֹרָה (torah)
 “instruction.” God’s instruction is inwardly held, shaping the righteous person’s speech and steady steps.
+
+v39: **תְּשׁוּעָה — *teshu‘ah***: “salvation.” The psalm presents deliverance as coming from the LORD, who is the righteous people's stronghold in distress.  
+
+v03: אֱמוּנָה (’emunah)
+“faithfulness.” Here it is something to be tended or cultivated, joining trust in the LORD with a durable, faithful way of life.

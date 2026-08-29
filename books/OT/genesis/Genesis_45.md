@@ -98,6 +98,62 @@ v28: The naming “Israel” marks renewed identity and forward movement.
 
 ##Vocabulary
 
+v1: אָפַק (ʾāpaq)  
+
+v1: “To restrain oneself.” To hold back emotion or action.  
+
+v3: בָּהַל (bāhal)  
+
+v3: “To be dismayed.” Overwhelmed with fear or shock.  
+
+v5: שָׁלַח (šālaḥ)  
+
+v5: “To send.” Commissioning with purpose.  
+
+v6: רָעָב (rāʿāḇ)  
+
+v6: “Famine.” Severe lack of food affecting survival.  
+
+v7: שְׁאֵרִית (šᵉʾērîṯ)  
+
+v7: “Remnant.” Survivors preserved through crisis.  
+
+v8: אָב (ʾāḇ)  
+
+v8: “Father.” Here metaphorically, a source of counsel or authority.  
+
+v10: יָשַׁב (yāšaḇ)  
+
+v10: “To dwell.” To settle with stability.  
+
+v11: כִּלְכֵּל (kilkēl)  
+
+v11: “To provide, sustain.” Supply necessary resources.  
+
+v14: בָּכָה (bāḵāh)  
+
+v14: “To weep.” Expression of grief or reconciliation.  
+
+v18: חֵלֶב (ḥēleḇ)  
+
+v18: “Fat, best portion.” Symbol of abundance and richness.  
+
+v22: חֲלִיפָה (ḥălîp̄āh)  
+
+v22: “Change of garments.” Sign of honor or status.  
+
+v24: רָגַז (rāḡaz)  
+
+v24: “To quarrel, be agitated.” Inner or outward conflict.  
+
+v26: פוּג (pûḡ)  
+
+v26: “To grow numb, faint.” Loss of emotional responsiveness.  
+
+v27: חָיָה (ḥāyāh)  
+
+v27: “To revive, live.” Restoration of vitality.  
+
 v01: אָפַק (ʾāpaq)
 “To restrain oneself.” To hold back emotion or action.
 

@@ -134,6 +134,69 @@ v27: and I will bless them — The final word is divine action. Blessing origina
 
 ##Vocabulary
 
+v2: נָזִיר (nāzîr) — Nazirite; one set apart by vow for a defined period, marked by intentional dedication rather than permanent status.
+
+v2: נֶדֶר (neder) — vow; a binding promise voluntarily undertaken, emphasizing commitment over impulse.
+
+v2: הִפְלִא (hiflîʾ) — to make special or extraordinary; highlights intentional distinction rather than mere difference.
+
+v2: לְהַזִּיר (lehazzîr) — to set apart or consecrate; separation directed toward God, not withdrawal from community.
+
+v3: יַיִן (yayin) — wine; a symbol of joy, celebration, and ordinary social life.
+
+v3: שֵׁכָר (šēkār) — strong drink; fermented beverage associated with festivity and abundance.
+
+v3: חֹמֶץ (ḥōmeṣ) — vinegar; wine byproduct, extending the prohibition beyond intoxication.
+
+v3: מִשְׁרַת עֲנָבִים (mišrat ʿănābîm) — grape juice or infusion; reinforces total abstention from the vine.
+
+v4: גֶּפֶן (gefen) — grapevine; source of wine and fruit, representing cultivated pleasure.
+
+v5: תַּעַר (taʿar) — razor; its absence marks visible consecration through uncut hair.
+
+v5: פֶּרַע (peraʿ) — untrimmed growth; symbolizes openness, time, and surrendered control.
+
+v5: קָדֹשׁ (qādōš) — holy; set apart for a specific purpose rather than moral superiority.
+
+v6: נֶפֶשׁ מֵת (nefeš mēt) — dead body; contact with death interrupts ritual separation.
+
+v7: טָמֵא (ṭāmēʾ) — unclean; ritual status, not ethical failure.
+
+v7: נֵזֶר (nēzer) — consecration or crown; a visible marker of dedication resting upon the person.
+
+v8: יְמֵי נִזְרוֹ (yĕmê nizrô) — days of separation; holiness defined by sustained faithfulness over time.
+
+v9: פִּתְאֹם (pitʾōm) — suddenly; acknowledges disruption and fragility within vowed life.
+
+v9: חִלֵּל (ḥillēl) — to profane or defile; interruption of ritual status without moral accusation.
+
+v10: תֹּר (tōr) — turtledove; an accessible sacrificial bird.
+
+v10: בֶּן־יוֹנָה (ben-yônāh)
+“Young pigeon; permitted offering for those of modest means.”
+
+v11: כִּפֶּר (kipper) — to make atonement; ritual restoration rather than personal guilt.
+
+v12: יָמִים הָרִאשֹׁנִים (yāmîm hāriʾšōnîm) — former days; time counted as interrupted rather than wasted.
+
+v13: תּוֹרָה (tōrāh) — instruction or law; guidance shaping lived faithfulness.
+
+v15: מִנְחָה (minḥāh) — grain offering; gift acknowledging provision and dependence.
+
+v18: גִּלַּח (gillaḥ) — to shave; marks the formal conclusion of consecration.
+
+v18: רֹאשׁ נִזְרוֹ (rōʾš nizrô) — head of separation; the embodied site of the vow.
+
+v19: זְרוֹעַ (zerōaʿ) — shoulder; portion shared in ritual participation.
+
+v20: נוּף (nûp̄) — to wave; gesture of offering and presentation before God.
+
+v20: אַחַר (ʾaḥar) — afterward; signals reintegration into ordinary life.
+
+v27: שֵׁם (šēm) — name; identity, belonging, and claimed relationship.
+
+v27: שִׂים (śîm) — to place or set; intentional bestowal rather than possession.
+
 v05: קָדֹשׁ (qādōš)
 “Holy; set apart for a specific purpose rather than moral superiority.”
 
@@ -142,6 +205,3 @@ v07: טָמֵא (ṭāmēʾ)
 
 v08: יְמֵי נִזְרוֹ (yĕmê nizrô)
 “Days of separation; holiness defined by sustained faithfulness over time.”
-
-v10: בֶּן־יוֹנָה (ben-yônāh)
-“Young pigeon; permitted offering for those of modest means.”

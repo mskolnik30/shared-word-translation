@@ -84,14 +84,30 @@ v23: Music as relief — Portrays restoration without resolution; Saul’s distr
 
 ##Vocabulary
 
-v01: מָאַס (māʾas)
-“To reject, refuse.”
+v1: מָאַס (*māʾas*) — to reject, refuse  
+
+v1: רָאָה (*rāʾāh*) — to see, provide, perceive  
+
+v7: לֵב (*lēb*) — heart, inner self, disposition  
+
+v11: קָטָן (*qāṭān*) — small, youngest, least  
+
+v13: מָשַׁח (*māšaḥ*) — to anoint, consecrate  
 
 v13: רוּחַ (rûaḥ)
 “Spirit, breath, wind.”
 
+v14: סוּר (*sûr*) — to turn aside, depart  
+
 v14: רוּחַ רָעָה (rûaḥ rāʿāh)
 “Evil spirit, harmful breath.”
 
+v22: חֵן (*ḥēn*) — favor, grace  
+
 v22: חֵן (ḥēn)
 “Favor, grace.”
+
+v23: רָוַח (*rāwaḥ*) — to be relieved, to find ease  
+
+v01: מָאַס (māʾas)
+“To reject, refuse.”

@@ -161,6 +161,9 @@ v39: The count “thirty-seven” is difficult to reconcile simply with all the 
 
 ##Vocabulary
 
+v01: נְאֻם (ne'um)
+“Declaration” or oracle. A formal utterance formula.
+
 v01: מָשִׁיחַ (mashiach)
 “Anointed one.” David as anointed of the God of Jacob.
 
@@ -173,5 +176,20 @@ v03: צַדִּיק (tsaddiq)
 v05: בְּרִית עוֹלָם (berit olam)
 “Everlasting covenant.”
 
+v06: בְּלִיַּעַל (beliyya'al)
+“Worthless” or lawless. The wicked compared with thorns.
+
+v08: גִּבּוֹרִים (gibborim)
+“Mighty men.” David’s elite warriors.
+
+v10: תְּשׁוּעָה (teshuah)
+“Victory” or deliverance. The LORD brings it.
+
+v16: בָּקַע (baqa)
+“To break through.” The warriors penetrate the Philistine camp.
+
 v17: נֶסֶךְ (nesekh)
 “Drink offering.” David pours the water out to the LORD.
+
+v23: מִשְׁמַעַת (mishma'at)
+“Guard” or retinue. The force placed under Benaiah.

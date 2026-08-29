@@ -201,5 +201,17 @@ v07: פְּרָזוֹן (perazon)
 v11: צִדְקוֹת (tsidqot)
 “Righteous acts” or “saving deeds.” Just and faithful acts attributed to the LORD.
 
+v15: חֵקֶר לֵב (cheqer lev)
+“Searchings of heart.” Deep inward deliberation.
+
+v20: מְסִלָּה (mesillah)
+“Course” or “track.” Here the paths or courses of the stars.
+
+v21: נַחַל (nachal)
+“Torrent” or “wadi.” A seasonal stream capable of sudden flooding.
+
 v24: בָּרַךְ (barakh)
 “To bless.” Jael is pronounced blessed within the song.
+
+v31: גְּבוּרָה (gevurah)
+“Strength” or “might.” The sun rises in its strength as an image of those who love the LORD.

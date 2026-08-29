@@ -88,6 +88,36 @@ v16–17: Human work gains meaning only through divine establishment.
 
 ##Vocabulary
 
+v1: מָעוֹן (ma‘on)  
+“Dwelling place.” Refuge or habitation.  
+
+v2: עוֹלָם (olam)  
+“Everlasting.” Unbounded time.  
+
+v3: דַּכָּא (dakka)  
+“Dust.” Crushed matter, mortality.  
+
+v4: אֶלֶף (eleph)  
+“Thousand.” Large measure of time.  
+
+v5: זֶרֶם (zerem)  
+“Flood.” Sweeping force.  
+
+v5: חָצִיר (chatsir)  
+“Grass.” Fleeting life.  
+
+v8: עָלַם (alam)  
+“To hide.” Conceal.  
+
+v12: מָנָה (manah)  
+“To number.” Count or reckon.  
+
+v14: שָׂבַע (sava)  
+“To satisfy.” Fill fully.  
+
+v17: כּוּן (kun)  
+“To establish.” Make firm.  
+
 v01: מָעוֹן (ma‘on)
 “Dwelling place.” Refuge or habitation.
 

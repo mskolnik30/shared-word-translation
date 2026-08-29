@@ -92,3 +92,12 @@ v04: צָרַף (tsaraf)
 
 v13: צְלוּל (tselul)
 “Round loaf” or “cake.” A rare word used of the barley bread in the dream.
+
+v16: כַּד (kad)
+“Jar.” An earthen vessel used to conceal the torch.
+
+v16: לַפִּיד (lapid)
+“Torch.” A burning light revealed when the jars are broken.
+
+v22: חֶרֶב (cherev)
+“Sword.” The enemy’s own swords become instruments of their defeat.

@@ -42,8 +42,12 @@ v13: Use of "unclean" signifies ritual impurity, highlighting the spiritual and 
 
 ##Vocabulary
 
-v01: אָדָם ('adam)
-“man, human": Used frequently in Ezekiel to address the prophet ("son of man"), with a sense of his human nature in juxtaposition to the divine messages he conveys.
+v1: אָדָם ('adam) - "man, human": Used frequently in Ezekiel to address the prophet ("son of man"), emphasizing his human nature in juxtaposition to the divine messages he conveys.  
+
+v13: טָמֵא (tamei) - "unclean": A term denoting ritual impurity and separation from the holiness expected in Israel. This reflects the spiritual state of exile.  
 
 v13: טָמֵא (tamei)
 “unclean": A term denoting ritual impurity and separation from the holiness expected in Israel.
+
+v01: אָדָם ('adam)
+“man, human": Used frequently in Ezekiel to address the prophet ("son of man"), with a sense of his human nature in juxtaposition to the divine messages he conveys.

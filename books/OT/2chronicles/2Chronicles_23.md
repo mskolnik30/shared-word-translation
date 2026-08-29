@@ -89,5 +89,11 @@ v03: בְּרִית (berit)
 v06: קָדוֹשׁ (qadosh)
 “Holy.”
 
+v11: עֵדוּת (edut)
+“Testimony.”
+
+v13: קֶשֶׁר (qesher)
+“Treason” or conspiracy.
+
 v18: תּוֹרַת מֹשֶׁה (torat Moshe)
 “Instruction of Moses.”

@@ -95,5 +95,7 @@ v40: **bathed yourself, painted your eyes, adorned yourself with ornaments** —
 v10: עֶרְוָה (ervah)
 “Typically refers to nakedness or sexual exposure.” In this context, it can denote both literal and metaphorical exposure, indicating shame brought upon Oholah through her actions.
 
+v37: **נָאַף (na.aph)** — To commit adultery. The term is used here to describe acts of spiritual unfaithfulness to God through idolatry, likened to adultery.  
+
 v37: נָאַף (naaph)
 “To commit adultery.”

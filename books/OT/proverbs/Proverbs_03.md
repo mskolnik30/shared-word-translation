@@ -138,6 +138,25 @@ v33–35: The closing four verses form an antithetical structure—wicked and ri
 
 ##Vocabulary
 
+v3: חֶסֶד (ḥesed) — Kindness, steadfast love, covenant loyalty.
+
+v3: אֱמֶת (ʾemet) — Faithfulness, truth, reliability.
+
+v5: בָּטַח (bāṭaḥ) — To trust, to feel secure.
+
+v6: יָדַע (yāḏaʿ) — To know intimately. The verb of relational knowing.
+
+v7: יָרֵא (yārēʾ) — To fear, to revere. Not terror, but ordered awe.
+
+v9: כָּבַד (kāḇaḏ) — To honor, to give weight to.
+
+v11: מוּסָר (mûsār)
+“Discipline, instruction. Formation through correction.”
+
+v18: עֵץ חַיִּים (ʿēṣ ḥayyîm) — Tree of life. The imagery of Eden returns.
+
+v34: עָנָו (ʿānāw) — Humble, lowly. Not abjection, but unselfregard.
+
 v03: חֶסֶד (ḥesed)
 “Kindness, steadfast love, covenant loyalty.”
 
@@ -146,6 +165,3 @@ v03: אֱמֶת (ʾemet)
 
 v05: בָּטַח (bāṭaḥ)
 “To trust, to feel secure.”
-
-v11: מוּסָר (mûsār)
-“Discipline, instruction. Formation through correction.”

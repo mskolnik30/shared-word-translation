@@ -92,6 +92,73 @@ v14: The closing prayer aligns speech and thought with divine acceptance; “roc
 
 ##Vocabulary
 
+v1: כָּבוֹד (kāḇôḏ)  
+
+“Glory.” Weight, significance, honor.
+
+v1: רָקִיעַ (rāqîaʿ)  
+
+“Firmament.” Expanse of the heavens.
+
+v2: נָבַע (nāḇaʿ)  
+
+“To pour forth.” To bubble up or gush.
+
+v3: קוֹל (qôl)  
+
+“Voice.” Sound, expression.
+
+v4: קַו (qāw)  
+
+“Line.” Measuring line, extent.
+
+v5: חָתָן (ḥātān)  
+
+“Bridegroom.” One emerging in celebration.
+
+v6: תְּקוּפָה (tĕqûp̄āh)  
+
+“Circuit.” Complete course or cycle.
+
+v7: תּוֹרָה (tôrāh)  
+
+“Law/instruction.” Guiding teaching.
+
+v7: עֵדוּת (ʿēḏûṯ)  
+
+“Testimony.” Witness, attested truth.
+
+v8: פִּקּוּדִים (piqqûḏîm)  
+
+“Precepts.” Detailed instructions.
+
+v8: מִצְוָה (miṣwāh)  
+
+“Commandment.” Binding directive.
+
+v9: יִרְאָה (yirʾāh)  
+
+“Fear.” Reverent awe.
+
+v9: מִשְׁפָּטִים (mišpāṭîm)  
+
+“Judgments.” Legal decisions.
+
+v12: שְׁגִיאָה (šĕgîʾāh)
+“Error.” Unintentional sin.
+
+v13: זֵד (zēḏ)  
+
+“Presumptuous.” Arrogant, willful.
+
+v14: רָצוֹן (rāṣôn)  
+
+“Acceptable.” Pleasing, favorable.
+
+v14: גֹּאֵל (gōʾēl)  
+
+“Redeemer.” One who rescues or restores.
+
 v01: כָּבוֹד (kāḇôḏ)
 “Glory.” Weight, significance, honor.
 
@@ -100,6 +167,3 @@ v07: תּוֹרָה (tôrāh)
 
 v07: עֵדוּת (ʿēḏûṯ)
 “Testimony.” Witness, attested truth.
-
-v12: שְׁגִיאָה (šĕgîʾāh)
-“Error.” Unintentional sin.

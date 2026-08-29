@@ -54,6 +54,26 @@ v16: The closing saying is terse and ambiguous; the gesture toward the LORD’s 
 
 ##Vocabulary
 
+v2: רִיב (rîb) — to contend, dispute, bring a legal case; often carries forensic or covenantal overtones rather than mere argument.  
+
+v3: לָן / תְּלוּנָה (lûn / telûnāh) — to grumble, complain; sustained murmuring that questions leadership and divine intent.  
+
+v6: עָמַד (ʿāmad) — to stand, take one’s place; here signals deliberate, visible presence rather than distant oversight.  
+
+v7: מַסָּה (Massah) — “testing”; probing God’s presence or reliability, not neutral inquiry but skeptical demand.  
+
+v7: מְרִיבָה (Meribah) — “quarreling, contention”; communal conflict that hardens into a named memory.  
+
+v9: מַטֶּה (matteh) — staff, rod; symbol of authority and action, associated with both judgment and deliverance.  
+
+v11: יָד (yād) — hand; denotes power, agency, or control, extending beyond the physical gesture.  
+
+v12: כָּבֵד (kābēd) — to be heavy; used of Moses’ hands, suggesting weariness that carries moral and symbolic weight.  
+
+v14: זִכָּרוֹן (zikkārôn) — remembrance, memorial; not passive memory but an active, formative act.  
+
+v15: נֵס (nēs) — banner, standard; a rallying sign that marks identity and allegiance rather than mere victory.  
+
 v02: רִיב (rîb)
 “To contend, dispute, bring a legal case.” Often carries forensic or covenantal overtones rather than mere argument.
 

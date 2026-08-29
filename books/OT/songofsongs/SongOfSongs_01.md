@@ -111,6 +111,45 @@ v16–17: The imagery of house, cedar, and cypress conveys stability, beauty, an
 
 ##Vocabulary
 
+v1: שִׁיר הַשִּׁירִים (šîr haššîrîm)  
+“Song of Songs.” A Hebrew expression meaning the greatest or finest song.  
+
+v2: דּוֹדִים (dōḏîm)  
+“Love” or “caresses.” Expressions of affection and intimacy.  
+
+v3: שֵׁם (šēm)  
+“Name.” Reputation, identity, and character.  
+
+v4: מֶלֶךְ (meleḵ)  
+“King.” A royal figure representing authority and honor.  
+
+v5: קֵדָר (Qēḏār)  
+“Kedar.” A nomadic people known for their dark tents.  
+
+v6: כֶּרֶם (kerem)  
+“Vineyard.” A cultivated vineyard, often used metaphorically in the song.  
+
+v7: רָעָה (rāʿâ)  
+“To pasture.” To shepherd and care for a flock.  
+
+v9: סוּסָה (sûsâ)  
+“Mare.” A female horse, here used as a poetic comparison.  
+
+v12: נֵרְדְּ (nērd)  
+“Nard.” A costly aromatic perfume.  
+
+v13: מֹר (mōr)  
+“Myrrh.” A fragrant resin used in perfumes and ointments.  
+
+v14: כֹּפֶר (kōp̄er)  
+“Henna blossom.” A fragrant flowering plant.  
+
+v15: יוֹנָה (yônâ)  
+“Dove.” A symbol of beauty, gentleness, and affection.  
+
+v17: אֶרֶז (ʾerez)  
+“Cedar.” A durable and valuable tree associated with strength and majesty.  
+
 v01: שִׁיר הַשִּׁירִים (šîr haššîrîm)
 “Song of Songs.” A Hebrew expression meaning the greatest or finest song.
 

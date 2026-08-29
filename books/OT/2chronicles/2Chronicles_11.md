@@ -87,3 +87,9 @@ v14: מִגְרָשׁ (migrash)
 
 v15: שָׂעִיר (sa'ir)
 “Goat-demon.” A being associated with illicit worship.
+
+v16: דָּרַשׁ (darash)
+“To seek.” Setting the heart to seek the LORD.
+
+v23: בִּין (bin)
+“To act wisely” or with understanding.

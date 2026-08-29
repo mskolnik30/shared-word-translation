@@ -36,6 +36,18 @@ v9: “salvation” — Hebrew *yeshuah* and related roots describe deliverance,
 
 ##Vocabulary
 
+v8: בִּלַּע (billa)  
+“To swallow.” Used strikingly of the LORD swallowing death.  
+
+v6: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v3: גּוֹיִם (goyim)  
+“Nations” or “peoples.” Peoples beyond Israel.  
+
+v9: יְשׁוּעָה (yeshuah)  
+“Salvation” or “deliverance.” Saving help or rescue.  
+
 v08: בִּלַּע (billa)
 “To swallow.” Used strikingly of the LORD swallowing death.
 

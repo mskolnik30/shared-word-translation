@@ -123,3 +123,6 @@ v09: בָּדָד (badad)
 
 v22: רְאֵם (re'em)
 “Wild ox.” A powerful wild bovine used as an image of strength.
+
+v23: נַחַשׁ (nachash)
+“Enchantment” or “divination by omens.” A practice unable to overturn God’s blessing.

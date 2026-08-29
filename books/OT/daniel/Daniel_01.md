@@ -86,5 +86,23 @@ v03: סָרִיס (saris)
 v04: כַּשְׂדִּים (Kasdim)
 “Chaldeans.” Here associated with Babylonian language, learning, and court culture.
 
+v08: גָּאַל (ga'al)
+“To defile.” To become ritually or morally polluted.
+
 v09: חֶסֶד (ḥesed)
 “Steadfast kindness.” Loyal favor or covenant-like kindness.
+
+v12: זֵרֹעִים (zero'im)
+“Foods grown from seed.” Plant-based food.
+
+v17: מַדָּע (madda)
+“Knowledge.” Learned understanding.
+
+v17: חָזוֹן (chazon)
+“Vision.” Revelatory sight given by God.
+
+v20: חַרְטֹם (chartom)
+“Magician” or learned ritual specialist.
+
+v20: אַשָּׁף (ashshaf)
+“Enchanter” or divinatory specialist.

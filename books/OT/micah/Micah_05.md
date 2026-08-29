@@ -126,14 +126,47 @@ v15: The chapter concludes with judgment upon nations that persist in rebellion 
 
 ##Vocabulary
 
+v1: מָצוֹר (māṣôr)
+“Siege.” Military encirclement intended to capture a city.
+
+v2: בֵּית לֶחֶם (Bêṯ Leḥem)
+“Bethlehem.” The town from which the future ruler will arise.
+
+v2: מוֹשֵׁל (môšēl)
+“Ruler.” One who governs with authority.
+
+v3: שְׁאֵרִית (šĕʾērîṯ)
+“Remnant.” Those preserved by God through judgment.
+
+v4: רָעָה (rāʿâ)
+“To shepherd.” To guide, protect, and care for a flock.
+
+v5: שָׁלוֹם (šālôm)
+“Peace.” Wholeness, security, and well-being.
+
+v6: אַשּׁוּר (ʾAššûr)
+“Assyria.” The dominant imperial power threatening Israel and Judah.
+
+v7: טַל (ṭal)
+“Dew.” A symbol of refreshing blessing from God.
+
+v8: כְּפִיר (kĕp̄îr)
+“Youthful lion.” An image of strength and victorious power.
+
+v12: כְּשָׁפִים (kĕšāp̄îm)
+“Sorceries.” Magical practices forbidden by God's law.
+
+v13: מַצֵּבָה (maṣṣēḇâ)
+“Sacred pillar.” A standing stone often associated with pagan worship.
+
+v14: אֲשֵׁרָה (ʾăšērāh)
+“Asherah pole.” A cultic object connected with Canaanite fertility worship.
+
+v15: נָקָם (nāqām)
+“Vengeance.” The execution of divine justice against persistent evil.
+
 v01: מָצוֹר (māṣôr)
 “Siege.” Military encirclement intended to capture a city.
 
 v05: שָׁלוֹם (šālôm)
 “Peace.” Wholeness, security, and well-being.
-
-v12: כְּשָׁפִים (kĕšāp̄îm)
-“Sorceries.” Magical practices forbidden by God's law.
-
-v15: נָקָם (nāqām)
-“Vengeance.” The execution of divine justice against persistent evil.

@@ -71,3 +71,6 @@ v10: כְּרוּבִים (keruvim)
 
 v17: יָכִין (Yakhin)
 “Jachin,” likely “He establishes.”
+
+v17: בֹּעַז (Boaz)
+“Boaz,” traditionally associated with strength.

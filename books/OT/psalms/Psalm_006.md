@@ -59,6 +59,42 @@ v10: Enemies’ reversal mirrors the psalmist’s earlier distress.
 
 ##Vocabulary
 
+v1: יָכַח (yakach)  
+“To rebuke.” Correct or confront.  
+
+v1: יָסַר (yasar)  
+“To discipline.” Instruct through correction.  
+
+v2: חָנַן (chanan)  
+“To be gracious.” Show favor.  
+
+v2: רָפָא (rapha)  
+“To heal.” Restore.  
+
+v3: בָּהַל (bahal)  
+“To be troubled.” Terrified or disturbed.  
+
+v4: שׁוּב (shuv)  
+“To turn.” Return.  
+
+v4: חָלַץ (chalats)  
+“To deliver.” Rescue.  
+
+v5: שְׁאוֹל (sheol)  
+“Grave.” Realm of the dead.  
+
+v6: יָגַע (yaga)  
+“To be weary.” Exhausted.  
+
+v8: פָּעַל (pa‘al)  
+“To work.” Act or do.  
+
+v9: תְּחִנָּה (techinnah)  
+“Plea.” Supplication.  
+
+v10: בּוֹשׁ (bosh)  
+“To be ashamed.” Disgraced.  
+
 v01: יָכַח (yakach)
 “To rebuke.” Correct or confront.
 

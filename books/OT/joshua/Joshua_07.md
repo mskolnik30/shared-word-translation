@@ -100,5 +100,11 @@ v11: בְּרִית (berit)
 v13: קָדַשׁ (qadash)
 “To consecrate.” To prepare or set apart in relation to the LORD.
 
+v15: נְבָלָה (nevalah)
+“Disgraceful thing” or “outrage.” A grave violation within Israel.
+
+v21: חָמַד (chamad)
+“To desire” or “covet.” Achan’s inward desire for the devoted objects.
+
 v25: עָכַר (akhar)
 “To trouble.” The wordplay behind the Valley of Achor.

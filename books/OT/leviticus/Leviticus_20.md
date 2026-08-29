@@ -72,5 +72,8 @@ v06: אוֹב (ov)
 v12: תֶּבֶל (tevel)
 “Perversion.” A prohibited mixing or disordering of relations.
 
+v14: זִמָּה (zimmah)
+“Depravity.” Deliberate, serious wrongdoing.
+
 v24: בָּדַל (badal)
 “To separate” or “distinguish.” Used both of Israel among the peoples and clean from unclean.

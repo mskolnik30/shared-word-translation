@@ -70,6 +70,42 @@ v22–23: The pattern of Potiphar's house repeats itself in prison: Joseph recei
 
 ##Vocabulary
 
+v2: צָלַח (ṣālaḥ)  
+“To prosper” or “succeed.” Success brought about through divine favor.  
+
+v4: חֵן (ḥēn)  
+“Favor” or “grace.” Acceptance and goodwill shown by another.  
+
+v4: פָּקִיד (pāqîḏ)  
+“Overseer.” One entrusted with responsibility and authority.  
+
+v6: יָפֶה־תֹאַר (yĕp̄eh-tōʾar)  
+“Beautiful in form.” Physical attractiveness of appearance or build.  
+
+v7: נָשָׂא עֵינַיִם (nāśāʾ ʿênayim)  
+“To lift up the eyes.” Often indicates focused attention or desire.  
+
+v9: חָטָא (ḥāṭāʾ)  
+“To sin.” To act contrary to God's will or moral order.  
+
+v12: בֶּגֶד (begeḏ)  
+“Garment.” Clothing that becomes key evidence in the narrative.  
+
+v14: עִבְרִי (ʿiḇrî)  
+“Hebrew.” An ethnic designation applied to Joseph.  
+
+v20: בֵּית הַסֹּהַר (bêt hassōhar)  
+“Prison” or “house of confinement.” The place where royal prisoners were held.  
+
+v21: חֶסֶד (ḥeseḏ)
+“Steadfast love.” Loyal, covenantal kindness and faithfulness.
+
+v22: שַׂר בֵּית הַסֹּהַר (śar bêt hassōhar)  
+“Keeper of the prison.” The official responsible for the prison.  
+
+v23: יְהוָה עִמּוֹ (YHWH ʿimmô)  
+“The LORD was with him.” The recurring theological refrain of the chapter.  
+
 v02: צָלַח (ṣālaḥ)
 “To prosper” or “succeed.” Success brought about through divine favor.
 
@@ -78,6 +114,3 @@ v04: חֵן (ḥēn)
 
 v09: חָטָא (ḥāṭāʾ)
 “To sin.” To act contrary to God's will or moral order.
-
-v21: חֶסֶד (ḥeseḏ)
-“Steadfast love.” Loyal, covenantal kindness and faithfulness.

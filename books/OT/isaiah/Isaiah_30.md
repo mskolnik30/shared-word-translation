@@ -82,14 +82,20 @@ v28: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and ca
 
 ##Vocabulary
 
-v07: רַהַב (Rahav)
-“Rahab.” Here a poetic nickname for Egypt, evoking strength that proves inactive.
+v7: רַהַב (Rahav)  
+“Rahab.” Here a poetic nickname for Egypt, evoking strength that proves inactive.  
 
 v11: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
+
+v19: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
 v19: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
 v28: גּוֹיִם (goyim)
 “Nations” or “peoples.” Peoples beyond Israel.
+
+v07: רַהַב (Rahav)
+“Rahab.” Here a poetic nickname for Egypt, evoking strength that proves inactive.

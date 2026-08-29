@@ -197,6 +197,12 @@ v33: Even a practice that appears random remains, in the proverb’s theological
 
 ##Vocabulary
 
+v01: מַעֲרָךְ (maarakh)
+“Plan” or “arrangement.” An ordering formed within the heart.
+
+v02: תָּכַן (takhan)
+“To weigh” or “measure.” To evaluate accurately, here used of the LORD examining spirits.
+
 v03: גָּלַל (galal)
 “To roll.” In the idiom “commit,” one rolls one’s work onto the LORD.
 
@@ -205,6 +211,12 @@ v06: אֱמֶת (emet)
 
 v11: מֹאזְנַיִם (moznayim)
 “Balances” or “scales.” Instruments of trade whose honesty is a matter of justice.
+
+v18: גָּאוֹן (gaon)
+“Pride” or “exaltation.” Self-elevation preceding destruction.
+
+v24: מַרְפֵּא (marpe)
+“Healing.” Restoration or health.
 
 v32: מָשַׁל (mashal)
 “To rule.” Here used of governing one’s own spirit.

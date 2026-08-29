@@ -108,14 +108,70 @@ v25: Covenant is formalized with legal language—statute and ordinance mark end
 
 ##Vocabulary
 
-v01: קָהָל (qāhāl)
+v1: קָהָל (qāhāl)  
+
 “Assembly.” Gathered community for covenant action.
+
+v1: זָקֵן (zāqēn)  
+
+“Elder.” Recognized leader within the people.
+
+v2: עָבַד (ʿāḇaḏ)  
+
+“To serve.” To give allegiance or worship.
+
+v3: לָקַח (lāqaḥ)  
+
+“To take.” To choose or bring.
+
+v3: רָבָה (rāḇāh)  
+
+“To multiply.” To increase greatly.
+
+v14: יָרֵא (yārēʾ)  
+
+“To fear.” Reverent awe and loyalty.
+
+v14: תָּמִים (tāmîm)  
+
+“Integrity.” Wholeness, completeness.
 
 v14: אֱמֶת (ʾĕmeṯ)
 “Faithfulness/truth.” Reliability and firmness.
 
+v15: בָּחַר (bāḥar)  
+
+“To choose.” To select decisively.
+
+v18: גָּרַשׁ (gāraš)  
+
+“To drive out.” To expel from the land.
+
 v19: קָדוֹשׁ (qādôš)
 “Holy.” Set apart, distinct.
 
+v19: קַנָּא (qannāʾ)  
+
+“Jealous.” Zealous for exclusive loyalty.
+
 v22: עֵד (ʿēḏ)
 “Witness.” One who testifies or confirms.
+
+v23: נָטָה (nāṭāh)  
+
+“To incline.” To turn or direct.
+
+v25: בְּרִית (berît)  
+
+“Covenant.” Binding agreement.
+
+v25: חֹק (ḥōq)  
+
+“Statute.” Prescribed boundary or rule.
+
+v25: מִשְׁפָּט (mišpāṭ)  
+
+“Ordinance.” Legal judgment or regulation.
+
+v01: קָהָל (qāhāl)
+“Assembly.” Gathered community for covenant action.

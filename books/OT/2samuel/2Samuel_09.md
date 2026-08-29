@@ -65,5 +65,17 @@ v03: פִּסֵּחַ (pisseach)
 v07: שׁוּב (shuv)
 “To restore.” David returns Saul’s land to Mephibosheth.
 
+v07: שֻׁלְחָן (shulchan)
+“Table.” The place of continual royal fellowship.
+
 v08: כֶּלֶב מֵת (kelev met)
 “Dead dog.” An idiom of self-humbling.
+
+v10: עָבַד (avad)
+“To work” or “serve.” Ziba’s household works the land for Mephibosheth.
+
+v12: מִיכָא (Mikha)
+“Mica.” Mephibosheth’s son.
+
+v13: תָּמִיד (tamid)
+“Continually.” Mephibosheth’s permanent place at the royal table.

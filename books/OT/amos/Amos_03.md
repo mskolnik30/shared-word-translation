@@ -131,3 +131,21 @@ v05: מוֹקֵשׁ (moqesh)
 
 v06: רָעָה (ra'ah)
 “Disaster,” “calamity,” or “harm.”
+
+v07: סוֹד (sod)
+“Counsel” or “confidential council.” What God reveals to prophets.
+
+v08: שָׁאַג (sha'ag)
+“To roar.” The lion-like divine speech.
+
+v09: מְהוּמָה (mehumah)
+“Tumult” or “confusion.” Social disorder within Samaria.
+
+v10: חָמָס (chamas)
+“Violence.” What the elite store in their fortresses.
+
+v14: קֶרֶן (qeren)
+“Horn.” A projecting corner of the altar.
+
+v15: שֵׁן (shen)
+“Ivory.” Luxury material adorning elite houses.

@@ -132,8 +132,17 @@ v10: דְּרוֹר (deror)
 v10: יוֹבֵל (yovel)
 “Jubilee.” The fiftieth year marked by release, return, and restoration of ancestral holdings.
 
+v17: יָרֵא (yare)
+“To fear.” Here reverence for God restrains economic exploitation.
+
+v23: גֵּר וְתוֹשָׁב (ger ve-toshav)
+“Resident alien and temporary resident.” People who live on land they do not ultimately own; Israel is described this way in relation to the LORD’s land.
+
 v25: גָּאַל (ga'al)
 “To redeem.” To reclaim property or a person through the responsibility of a close relative.
 
 v36: נֶשֶׁךְ (neshekh)
 “Interest.” Literally associated with a “bite,” here profit taken from a poor fellow Israelite through lending.
+
+v43: פֶּרֶךְ (perekh)
+“Harshness” or “ruthlessness.” Severe mastery explicitly prohibited toward fellow Israelites in service.

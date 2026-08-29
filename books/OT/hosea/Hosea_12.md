@@ -125,5 +125,20 @@ v02: רִיב (riv)
 v03: עָקַב (aqav)
 “To take by the heel.” Wordplay connected with Jacob’s name.
 
+v04: שָׂרָה (sarah)
+“To struggle” or “contend.” Jacob’s striving with the divine.
+
 v06: חֶסֶד וּמִשְׁפָּט (ḥesed u-mishpat)
 “Steadfast love and justice.” The covenantal practices Israel is commanded to keep.
+
+v07: מֹאזְנֵי מִרְמָה (mozenei mirmah)
+“Deceptive scales.” Fraudulent measures used in commerce.
+
+v09: מוֹעֵד (moed)
+“Appointed festival” or “appointed time.”
+
+v10: דָּמָה (damah)
+“To compare” or “give a likeness.” Used for prophetic parable or figurative speech.
+
+v14: דָּמִים (damim)
+“Bloodguilt” or “bloodshed.” Guilt arising from wrongful bloodshed.

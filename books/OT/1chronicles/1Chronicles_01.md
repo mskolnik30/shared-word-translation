@@ -175,17 +175,41 @@ v51–54: The chapter closes with clan chiefs rather than kings. Leadership in E
 
 ##Vocabulary
 
-v01: אָדָם (adam)
-“Adam” or “human.” The name stands at the head of both humanity’s story and Israel’s genealogy.
+v1: אָדָם (adam)  
+
+v1: “Adam” or “human.” The name stands at the head of both humanity’s story and Israel’s genealogy.  
 
 v10: גִּבּוֹר (gibbor)
 “Mighty one.” A term describing strength, prominence, or exceptional power.
 
+v10: “Mighty one.” A term describing strength, prominence, or exceptional power.  
+
 v18: עֵבֶר (ever)
 “Eber.” The ancestor from whom the designation “Hebrew” is traditionally connected.
+
+v18: “Eber.” The ancestor from whom the designation “Hebrew” is traditionally connected.  
 
 v19: פֶּלֶג (peleg)
 “Peleg.” The name is associated with division or splitting, reflecting the explanation given in the text.
 
+v19: “Peleg.” The name is associated with division or splitting, reflecting the explanation given in the text.  
+
 v27: אַבְרָהָם (avraham)
 “Abraham.” The covenant patriarch through whom the genealogy narrows toward Israel.
+
+v27: “Abraham.” The covenant patriarch through whom the genealogy narrows toward Israel.  
+
+v34: יִשְׂרָאֵל (yisra’el)  
+
+v34: “Israel.” Jacob’s covenant name, which becomes the name of the people descended from him.  
+
+v43: מֶלֶךְ (melekh)  
+
+v43: “King.” A ruler exercising recognized authority over a people or territory.  
+
+v51: אַלּוּף (alluph)  
+
+v51: “Chief.” A clan leader or tribal head, especially characteristic of Edom.  
+
+v01: אָדָם (adam)
+“Adam” or “human.” The name stands at the head of both humanity’s story and Israel’s genealogy.

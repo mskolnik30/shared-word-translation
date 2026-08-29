@@ -138,6 +138,42 @@ v17: The chapter closes by exposing cynical attitudes that question God's justic
 
 ##Vocabulary
 
+v2: קָלַל (qālal)  
+“To curse.” To place under judgment or remove blessing.  
+
+v4: בְּרִית (bĕrîṯ)  
+“Covenant.” A binding relationship established by solemn commitment.  
+
+v5: שָׁלוֹם (šālôm)  
+“Peace.” Wholeness, well-being, and covenant harmony.  
+
+v6: תּוֹרַת אֱמֶת (tôraṯ ʾĕmeṯ)  
+“True instruction.” Reliable teaching that accords with God's truth.  
+
+v7: מַלְאַךְ (malʾāḵ)  
+“Messenger.” One who represents and communicates on behalf of another.  
+
+v8: מִכְשׁוֹל (miḵšôl)  
+“Stumbling block.” Something that causes another to fall or go astray.  
+
+v10: בָּגַד (bāgaḏ)  
+“To act faithlessly.” To betray trust or violate covenant obligations.  
+
+v11: תּוֹעֵבָה (tôʿēḇâ)  
+“Abomination.” A detestable act that violates God's standards.  
+
+v14: חָבֵר (ḥāḇēr)  
+“Companion.” A close associate joined in relationship and loyalty.  
+
+v14: אֵשֶׁת בְּרִיתֶךָ (ʾēšeṯ bĕrîṯeḵā)  
+“Your wife by covenant.” A spouse joined through a binding covenant relationship.  
+
+v16: חָמָס (ḥāmās)  
+“Violence.” Harmful, destructive wrongdoing against another.  
+
+v17: מִשְׁפָּט (mišpāṭ)  
+“Justice.” Righteous judgment and the proper ordering of human affairs.  
+
 v02: קָלַל (qālal)
 “To curse.” To place under judgment or remove blessing.
 

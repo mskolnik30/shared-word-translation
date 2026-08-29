@@ -83,8 +83,26 @@ v02: נָחַם (nacham)
 v02: חֶסֶד (ḥesed)
 “Steadfast love.” David’s intended loyalty toward Hanun.
 
+v03: חָקַר (chaqar)
+“To search out.” The suspected espionage mission.
+
+v04: גָּלַח (galach)
+“To shave.” Hanun removes half the envoys’ beards.
+
 v06: בָּאַשׁ (ba'ash)
 “To stink” or “become odious.” An idiom of public hostility.
 
+v09: בָּחוּר (bachur)
+“Choice man” or select warrior.
+
+v11: יָשַׁע (yasha)
+“To save” or “come to help.”
+
+v12: חָזַק (chazaq)
+“To be strong.” Repeated in Joab’s exhortation.
+
 v19: שָׁלוֹם (shalom)
 “Peace.” The defeated kings make peace with Israel.
+
+v19: עָבַד (avad)
+“To serve.” The kings become subject to Israel.

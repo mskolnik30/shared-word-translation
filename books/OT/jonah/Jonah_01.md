@@ -61,6 +61,45 @@ v17: The three days and three nights become an important pattern later recalled 
 
 ##Vocabulary
 
+v1: דְּבַר־יְהוָה (dĕḇar-YHWH)
+“Word of the LORD.” A prophetic message originating from God.
+
+v2: קוּם (qûm)
+“Arise.” A command calling for immediate action.
+
+v2: קָרָא (qārāʾ)
+“To cry out” or “proclaim.” To announce a message publicly.
+
+v3: תַּרְשִׁישׁ (Taršîš)
+“Tarshish.” A distant location representing the opposite direction from Nineveh.
+
+v4: טוּל (ṭûl)
+“To hurl” or “throw.” Used of the LORD casting the wind upon the sea.
+
+v5: יָרֵא (yārēʾ)
+“To fear.” To be afraid or to stand in reverence.
+
+v7: גּוֹרָל (gôrāl)
+“Lot.” An object used to determine an outcome believed to be directed by divine providence.
+
+v9: עִבְרִי (ʿiḇrî)
+“Hebrew.” Jonah's ethnic identification.
+
+v9: אֱלֹהֵי הַשָּׁמַיִם (ʾĕlōhê haššāmayim)
+“God of heaven.” A title emphasizing God's universal sovereignty.
+
+v14: דָּם נָקִי (dām nāqî)
+“Innocent blood.” The unjust taking of a life.
+
+v16: נֶדֶר (neder)
+“Vow.” A solemn promise made before God.
+
+v17: מָנָה (mānâ)
+“To appoint” or “prepare.” To assign or provide according to divine purpose.
+
+v17: דָּג גָּדוֹל (dāg gādôl)
+“Great fish.” The creature appointed by God to preserve Jonah.
+
 v01: דְּבַר־יְהוָה (dĕḇar-YHWH)
 “Word of the LORD.” A prophetic message originating from God.
 

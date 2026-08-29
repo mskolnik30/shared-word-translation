@@ -115,3 +115,9 @@ v08: נַחֲלָה (nachalah)
 
 v14: אִשֵּׁי יְהוָה (ishei YHWH)
 “Offerings by fire of the LORD.” Sacrificial portions associated with Levitical provision.
+
+v22: קוֹסֵם (qosem)
+“Diviner.” One who practices divination.
+
+v33: יְהוָה הוּא נַחֲלָתוֹ (YHWH hu nachalato)
+“The LORD is his inheritance.” The theological description of Levi’s portion.

@@ -91,5 +91,23 @@ v02: אֲרֻבּוֹת הַשָּׁמַיִם (arubbot ha-shamayim)
 v03: מְצֹרָע (metsora)
 “Person with skin disease.”
 
+v04: נָפַל אֶל (nafal el)
+“To fall away to” or surrender to. The men go over to Aram.
+
+v06: הִשְׁמִיעַ (hishmia)
+“To cause to hear.” The Lord makes Aram hear an army.
+
 v09: בְּשׂוֹרָה (besorah)
 “Good news.” The report of the abandoned camp.
+
+v12: אָרַב (arav)
+“To hide in ambush.”
+
+v15: חָפַז (chafaz)
+“To hurry” or flee in haste.
+
+v16: שָׁלַל (shalal)
+“To plunder.” Israel takes the abandoned camp.
+
+v17: רָמַס (ramas)
+“To trample.” The officer dies in the gate.

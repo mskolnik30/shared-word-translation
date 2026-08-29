@@ -36,6 +36,15 @@ v9: “remnant” — Isaiah repeatedly speaks of those who remain through judgm
 
 ##Vocabulary
 
+v9: שְׁאָר (she'ar)  
+“Remnant.” Those who remain or survive.  
+
+v1: דָּבָר (davar)  
+“Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.  
+
+v1: רָאָה (ra'ah)  
+“To see.” Used literally and prophetically for perception or vision.  
+
 v09: שְׁאָר (she'ar)
 “Remnant.” Those who remain or survive.
 

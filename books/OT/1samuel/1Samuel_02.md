@@ -159,6 +159,60 @@ v36: Reversal continues: those once privileged become dependent.
 
 ##Vocabulary
 
+v1: קֶרֶן (qeren)  
+“Horn.” Symbol of strength, honor, or exaltation.  
+
+v2: צוּר (tsur)  
+“Rock.” A metaphor for stability and reliability.  
+
+v3: דֵּעָה (deʿah)  
+“Knowledge.” Often implies discernment and moral awareness.  
+
+v4: חַיִל (ḥayil)  
+“Strength.” Can denote power, capacity, or valor.  
+
+v5: עָקָר (ʿaqar)  
+“Barren.” One unable to bear children.  
+
+v6: שְׁאוֹל (sheʾol)  
+“Sheol.” The realm of the dead.  
+
+v7: רוּם (rum)  
+“To exalt.” To raise up in status or position.  
+
+v8: כִּסֵּא (kisseʾ)  
+“Throne” or “seat.” Symbol of authority.  
+
+v9: חָסִיד (ḥasid)  
+“Faithful one.” One who is loyal or devoted.  
+
+v12: בְּלִיַּעַל (beliyyaʿal)  
+“Worthless.” Often used for morally corrupt persons.  
+
+v16: חֵלֶב (ḥelev)
+“Fat.” The portion reserved for the LORD in sacrifice.
+
+v18: אֵפוֹד (ʾephod)  
+“A priestly garment.” Associated with service before the LORD.  
+
+v21: פָּקַד (paqad)  
+“To visit.” Often denotes divine intervention or care.  
+
+v25: פָּלַל (palal)  
+“To mediate” or “to intercede.”  
+
+v30: בָּזָה (bazah)  
+“To despise.” To treat with contempt.  
+
+v30: כָּבֵד (kaved)  
+“To honor.” Also related to “weight” or significance.  
+
+v35: אֱמוּן (emun)
+“Faithful.” Reliable, trustworthy.
+
+v36: כִּכָּר (kikkar)  
+“Loaf.” A unit of bread or food portion.  
+
 v01: קֶרֶן (qeren)
 “Horn.” Symbol of strength, honor, or exaltation.
 
@@ -167,9 +221,3 @@ v06: שְׁאוֹל (sheʾol)
 
 v09: חָסִיד (ḥasid)
 “Faithful one.” One who is loyal or devoted.
-
-v16: חֵלֶב (ḥelev)
-“Fat.” The portion reserved for the LORD in sacrifice.
-
-v35: אֱמוּן (emun)
-“Faithful.” Reliable, trustworthy.

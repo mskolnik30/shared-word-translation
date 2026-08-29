@@ -72,8 +72,12 @@ v19–20: - **v19-20**: The promise of a new heart and spirit highlights the tra
 
 ##Vocabulary
 
-v01: רוּחַ (ruach)
-“Spirit; wind; breath.” Here the term describes the force that lifts and carries Ezekiel.
+v1: - **v1 רוּחַ (ruach)**: Spirit, referring to God's presence and activity, indicating divine initiative in moving Ezekiel to see and understand God's will.  
+
+v19: - **v19 לֵב (lev)**: Heart, symbolizing the center of will and emotion, highlighting the profound change God promises for his people.  
 
 v19: לֵב (lev)
 “Heart.” The center of intention, judgment, desire, and will.
+
+v01: רוּחַ (ruach)
+“Spirit; wind; breath.” Here the term describes the force that lifts and carries Ezekiel.

@@ -123,8 +123,8 @@ v46: Rebekah frames Jacob's departure in terms of marriage, providing a reason I
 
 ##Vocabulary
 
-v04: בָּרַךְ (bāraḵ)
-“To bless.” To confer favor, prosperity, or covenantal benefit.
+v4: בָּרַךְ (bāraḵ)  
+“To bless.” To confer favor, prosperity, or covenantal benefit.  
 
 v12: קְלָלָה (qĕlālāh)
 “Curse.” The opposite of blessing, invoking harm or judgment.
@@ -135,5 +135,30 @@ v22: קוֹל (qôl)
 v28: טַל (ṭal)
 “Dew.” A symbol of agricultural blessing and divine provision.
 
+v29: עָבַד (ʿāḇaḏ)  
+“To serve.” Often used in contexts of labor, submission, or political allegiance.  
+
+v33: חָרַד (ḥāraḏ)  
+“To tremble.” Expresses profound fear, shock, or emotional disturbance.  
+
+v34: מַר (mar)  
+“Bitter.” Describes deep sorrow or anguish.  
+
 v36: עָקַב (ʿāqaḇ)
 “To supplant,” “overreach,” or “take by the heel.” A wordplay associated with Jacob's name.
+
+v41: שָׂטַם (śāṭam)  
+“To hate” or “hold a grudge.” Sustained hostility rather than momentary anger.  
+
+v44: חֵמָה (ḥēmâ)  
+“Fury” or “wrath.” Intense, burning anger.  
+
+v45: שָׁכַח (šāḵaḥ)  
+
+v45: “To forget.” Here referring to the hoped-for fading of resentment.  
+
+v46: קוּץ (qûṣ)  
+“To be weary” or “loathe.” A strong expression of distress or dissatisfaction.  
+
+v04: בָּרַךְ (bāraḵ)
+“To bless.” To confer favor, prosperity, or covenantal benefit.

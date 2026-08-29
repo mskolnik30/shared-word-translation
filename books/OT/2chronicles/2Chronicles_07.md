@@ -92,3 +92,9 @@ v14: כָּנַע (kana)
 
 v14: רָפָא (rapha)
 “To heal.”
+
+v20: נָתַשׁ (natash)
+“To uproot.”
+
+v21: שַׁמָּה (shammah)
+“Horror” or astonishment.

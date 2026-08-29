@@ -77,8 +77,26 @@ v18: Calling David’s sons “priests” is surprising because they are not Lev
 
 ##Vocabulary
 
+v01: כָּנַע (kana)
+“To subdue.” David brings Philistine power under control.
+
+v02: חֶבֶל (chevel)
+“Cord” or measuring line. Used in the grim division of Moabite captives.
+
 v02: מִנְחָה (minchah)
 “Tribute” or offering. Payment brought by subject peoples.
+
+v04: עִקֵּר (iqqer)
+“To hamstring.” To disable war horses.
+
+v06: מַצָּב (matstsav)
+“Garrison” or military post.
+
+v06: יָשַׁע (yasha)
+“To give victory” or save. The LORD grants David success.
+
+v11: קָדַשׁ (qadash)
+“To consecrate.” David dedicates captured wealth to the LORD.
 
 v15: מִשְׁפָּט (mishpat)
 “Justice.” Right governance.

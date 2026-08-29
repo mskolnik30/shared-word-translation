@@ -113,3 +113,6 @@ v24: מָלֵא אַחֲרֵי (male acharei)
 
 v34: תְּנוּאָה (tenu'ah)
 “Opposition,” “alienation,” or “rejection.” A rare term describing the consequence of Israel’s refusal.
+
+v44: עָפַל (afal)
+“To presume” or “act defiantly.” To move forward with boldness detached from the LORD’s command.

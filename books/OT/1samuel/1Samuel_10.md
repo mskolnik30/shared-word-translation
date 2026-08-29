@@ -112,3 +112,18 @@ v06: צָלַח רוּחַ (tsalach ruach)
 
 v09: הָפַךְ לֵב (hafakh lev)
 “To change the heart.”
+
+v12: מָשָׁל (mashal)
+“Proverb.”
+
+v19: מָאַס (ma'as)
+“To reject.”
+
+v20: לָכַד (lakhad)
+“To be taken.” Used in selection by lot.
+
+v25: מִשְׁפַּט הַמְּלוּכָה (mishpat ha-melukhah)
+“Judgment/order of the kingship.”
+
+v27: בְּלִיַּעַל (beliyya'al)
+“Worthless” or lawless.

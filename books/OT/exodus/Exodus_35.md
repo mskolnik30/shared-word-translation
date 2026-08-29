@@ -110,6 +110,12 @@ v34: The ability to teach is itself said to be placed in the artisans’ hearts,
 v02: שַׁבַּת שַׁבָּתוֹן (shabbat shabbaton)
 “Sabbath of complete rest.” Intensified language for cessation.
 
+v05: נְדִיב לֵב (nediv lev)
+“Willing of heart.” Generous inner willingness to give.
+
+v10: חֲכַם־לֵב (chakham-lev)
+“Wise-hearted.” Skilled and discerning in craft.
+
 v21: נָשָׂא לִבּוֹ (nasa libbo)
 “His heart lifted him.” An idiom for inward motivation.
 
@@ -118,3 +124,12 @@ v21: נָדְבָה רוּחוֹ (nadva rucho)
 
 v22: תְּנוּפַת זָהָב (tenufat zahav)
 “Wave offering of gold.” Gold presented as a sacred contribution.
+
+v25: טָוָה (tavah)
+“To spin.” The textile craft performed by the women.
+
+v34: יָרָה (yarah)
+“To teach.” Bezalel and Oholiab receive ability to instruct others.
+
+v35: חָרָשׁ (charash)
+“Craftsperson” or “engraver.” One skilled in material workmanship.

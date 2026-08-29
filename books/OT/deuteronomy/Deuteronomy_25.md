@@ -85,8 +85,26 @@ v01: צָדַק (tsadaq)
 v01: רָשַׁע (rasha)
 “To declare wicked” or “condemn.”
 
+v03: קָלָה (qalah)
+“To degrade” or “treat lightly.” The offender must not be humiliated beyond measure.
+
+v04: חָסַם (chasam)
+“To muzzle.” To prevent an animal from eating while working.
+
+v05: יָבַם (yavam)
+“To perform the duty of a husband’s brother.” Levirate marriage.
+
+v09: חָלַץ (chalats)
+“To remove.” Used of pulling off the sandal.
+
 v13: אֶבֶן וָאָבֶן (even va-even)
 “Weight and weight.” An idiom for dishonest differing weights.
 
 v15: צֶדֶק (tsedeq)
 “Righteous” or “honest.” Applied to weights and measures.
+
+v18: זִנֵּב (zinev)
+“To cut off the rear.” Amalek attacks the stragglers.
+
+v19: מָחָה (machah)
+“To wipe out.” Used of erasing Amalek’s memory.

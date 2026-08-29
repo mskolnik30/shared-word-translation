@@ -132,6 +132,42 @@ v13: Zion's victory comes through God's empowerment rather than its own strength
 
 ##Vocabulary
 
+v1: אַחֲרִית הַיָּמִים (ʾaḥărîṯ hayyāmîm)
+“Latter days.” The future period in which God's purposes reach fulfillment.
+
+v2: תּוֹרָה (tôrâ)
+“Instruction.” God's teaching that directs life and covenant faithfulness.
+
+v3: שָׁפַט (šāphaṭ)
+“To judge.” To govern and render righteous decisions.
+
+v3: אִתִּים (ʾittîm)
+“Plowshares.” Agricultural tools used for cultivating fields.
+
+v4: גֶּפֶן (gephen)
+“Vine.” A symbol of prosperity and settled peace.
+
+v6: קָבַץ (qāḇaṣ)
+“To gather.” To assemble those who have been scattered.
+
+v7: שְׁאֵרִית (šĕʾērîṯ)
+“Remnant.” The portion preserved by God through judgment.
+
+v8: מִגְדַּל־עֵדֶר (migdal-ʿēḏer)
+“Tower of the flock.” A pastoral image associated with watchfulness and protection.
+
+v10: גָּאַל (gāʾal)
+“To redeem.” To rescue, reclaim, or deliver.
+
+v12: עֵצָה (ʿēṣâ)
+“Plan” or “counsel.” The purposeful design and intention of God.
+
+v13: דּוּשׁ (dûš)
+“To thresh.” To separate grain from chaff, here used as an image of judgment.
+
+v13: חֵרֶם (ḥērem)
+“To devote.” To set apart completely for God, often in the context of judgment.
+
 v02: תּוֹרָה (tôrâ)
 “Instruction.” God's teaching that directs life and covenant faithfulness.
 
@@ -140,6 +176,3 @@ v03: שָׁפַט (šāphaṭ)
 
 v04: גֶּפֶן (gephen)
 “Vine.” A symbol of prosperity and settled peace.
-
-v10: גָּאַל (gāʾal)
-“To redeem.” To rescue, reclaim, or deliver.

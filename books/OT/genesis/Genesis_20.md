@@ -59,6 +59,42 @@ v17–18: The chapter closes with prayer, healing, and restored fertility, prepa
 
 ##Vocabulary
 
+v1: גּוּר (gûr)  
+“To sojourn.” To reside as a foreigner or temporary inhabitant in a land.  
+
+v3: חָלוֹם (ḥālôm)  
+“Dream.” A common means of divine communication in Genesis.  
+
+v5: תֹּם (tōm)  
+“Integrity.” Wholeness, sincerity, or innocence of heart.  
+
+v6: חָשַׂךְ (ḥāśaḵ)  
+“To withhold” or “restrain.” God prevents Abimelech from acting.  
+
+v7: נָבִיא (nāḇîʾ)  
+“Prophet.” One who speaks or acts under divine commission.  
+
+v7: פָּלַל (pālal)  
+“To pray” or “intercede.” Prayer offered on behalf of another.  
+
+v11: יִרְאַת אֱלֹהִים (yirʾat ʾĕlōhîm)  
+“Fear of God.” Reverence and recognition of divine authority.  
+
+v13: חֶסֶד (ḥeseḏ)
+“Kindness” or “steadfast loyalty.” Faithful action within a relationship.
+
+v16: כְּסוּת עֵינַיִם (kĕsût ʿênayim)  
+“Covering of the eyes.” A difficult expression associated with public vindication or restoration of honor.  
+
+v17: רָפָא (rāp̄āʾ)  
+“To heal.” Restoration from affliction or impairment.  
+
+v18: עָצַר (ʿāṣar)  
+“To shut up” or “close.” Used here of wombs being prevented from bearing children.  
+
+v18: רֶחֶם (reḥem)  
+“Womb.” The source of birth and a recurring image in narratives concerning fertility and promise.  
+
 v01: גּוּר (gûr)
 “To sojourn.” To reside as a foreigner or temporary inhabitant in a land.
 
@@ -67,6 +103,3 @@ v03: חָלוֹם (ḥālôm)
 
 v07: נָבִיא (nāḇîʾ)
 “Prophet.” One who speaks or acts under divine commission.
-
-v13: חֶסֶד (ḥeseḏ)
-“Kindness” or “steadfast loyalty.” Faithful action within a relationship.

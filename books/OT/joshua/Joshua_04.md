@@ -88,3 +88,9 @@ v14: גָּדַל (gadal)
 
 v16: עֵדוּת (edut)
 “Testimony.” A covenantal designation associated with the ark.
+
+v19: גִּלְגָּל (Gilgal)
+“Gilgal.” The first major encampment after crossing the Jordan.
+
+v24: יָד חֲזָקָה (yad chazaqah)
+“Strong hand.” An image of effective divine power.

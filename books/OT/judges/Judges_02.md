@@ -89,5 +89,14 @@ v02: בְּרִית (berit)
 v11: בַּעַל (Baal)
 “Baal,” literally “lord” or “master.” A title and name associated with Canaanite deities.
 
+v13: עַשְׁתָּרוֹת (Ashtarot)
+“Ashtaroth.” A plural form associated with the goddess Astarte and related cultic worship.
+
+v16: שָׁפַט (shafat)
+“To judge” or “govern.” The noun “judge” in Judges can include military deliverance and leadership.
+
+v18: נָחַם (nacham)
+“To relent,” “be moved,” or “have compassion.” Here the LORD is moved by Israel’s groaning.
+
 v22: נָסָה (nasah)
 “To test.” To prove or expose the character of faithfulness through trial.

@@ -90,8 +90,15 @@ v30–32: The people value Ezekiel’s words as an attractive performance while 
 
 ##Vocabulary
 
-v08: עָוֹן (avon)
-“guilt” or “iniquity.” Here it is the condition in which the wicked die if they refuse to turn, while the prophet’s failure to warn brings a separate accountability.
+v2: צֹפֶה (*tsofeh*)  
+— “watchman.” The watchman sees danger and sounds the warning; the role becomes the central image for Ezekiel’s responsibility to speak the word he receives.  
+
+v8: עָוֹן (*avon*)  
+— “guilt” or “iniquity.” Here it is the condition in which the wicked die if they refuse to turn, while the prophet’s failure to warn brings a separate accountability.  
+
+v11: שׁוּב (*shuv*)  
+
+v11: — “turn back.” Repeated urgently—“Turn back, turn back”—it names a decisive return from evil ways toward life.  
 
 v14: מִשְׁפָּט (mishpat)
 “justice.” In this passage, turning from sin is made visible through actions that establish what is right.
@@ -99,5 +106,14 @@ v14: מִשְׁפָּט (mishpat)
 v14: צְדָקָה (tsedaqah)
 “righteousness.” Paired with mishpat, it describes faithful, just conduct rather than merely a private moral quality.
 
+v15: חֻקּוֹת הַחַיִּים (*chuqqot hachayyim*)  
+— “statutes of life.” The expression presents the LORD’s commands as a path ordered toward life, in contrast to injustice and death.  
+
+v25: גִּלּוּלִים (*gillulim*)  
+— “idols.” The term is deliberately contemptuous, often suggesting worthless or defiling objects; it exposes the emptiness of the people’s worship.  
+
 v31: בֶּצַע (betsa)
 “gain,” often gain obtained unjustly. The people’s hearts pursue profit even while they sit and listen to the prophet’s words.
+
+v08: עָוֹן (avon)
+“guilt” or “iniquity.” Here it is the condition in which the wicked die if they refuse to turn, while the prophet’s failure to warn brings a separate accountability.

@@ -47,14 +47,26 @@ v2: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can
 
 ##Vocabulary
 
+v2: שֵׁם חָדָשׁ (shem chadash)  
+“New name.” A divinely given identity marking restored Zion.  
+
+v2: גּוֹיִם (goyim)  
+“Nations” or “peoples.” Peoples beyond Israel.  
+
+v1: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v1: צְדָקָה (tsedaqah)  
+“Righteousness.” Rightness and faithfulness in relationship and action.  
+
 v02: שֵׁם חָדָשׁ (shem chadash)
 “New name.” A divinely given identity marking restored Zion.
 
-v01: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-
 v02: גּוֹיִם (goyim)
 “Nations” or “peoples.” Peoples beyond Israel.
+
+v01: צִיּוֹן (tsiyyon)
+“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
 v01: צְדָקָה (tsedaqah)
 “Righteousness.” Rightness and faithfulness in relationship and action.

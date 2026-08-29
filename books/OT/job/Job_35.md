@@ -89,3 +89,9 @@ v09: עֹשֶׁק (osheq)
 
 v10: זְמִירוֹת (zemirot)
 “Songs.” God is described as giving songs in the night.
+
+v13: שָׁוְא (shav)
+“Emptiness,” “vanity,” or “falsehood.” What Elihu says God does not hear.
+
+v14: חוּל (chul)
+“To wait,” “writhe,” or “hope.” In context, waiting for God’s judgment.

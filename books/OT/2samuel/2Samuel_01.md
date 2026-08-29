@@ -128,5 +128,20 @@ v09: שָׁבָץ (shavats)
 v14: מְשִׁיחַ יְהוָה (meshiach YHWH)
 “The LORD’s anointed.” The king set apart by anointing.
 
+v17: קִינָה (qinah)
+“Lament.” A formal song of mourning.
+
+v18: קֶשֶׁת (qeshet)
+“Bow.” The title or subject associated with David’s lament.
+
 v19: צְבִי (tsevi)
 “Glory,” “beauty,” or “gazelle.” A poetic designation for Israel’s fallen splendor.
+
+v21: מָגֵן (magen)
+“Shield.” A symbol of the fallen warriors.
+
+v26: נִפְלָא (nifla)
+“Extraordinary” or “wonderful.” David’s description of Jonathan’s love.
+
+v27: כְּלֵי מִלְחָמָה (kele milchamah)
+“Weapons of war.” The final image of the lament.

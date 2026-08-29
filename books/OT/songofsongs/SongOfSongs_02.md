@@ -123,6 +123,42 @@ v07: The repeated refrain urges patience and proper timing in matters of love.
 
 ##Vocabulary
 
+v1: חֲבַצֶּלֶת (ḥăḇaṣṣeleṯ)  
+“Flower.” A blooming plant associated with beauty and vitality.  
+
+v1: שׁוֹשַׁנָּה (šôšanâ)  
+“Lily.” A flower frequently used as a symbol of beauty.  
+
+v3: תַּפּוּחַ (tappûaḥ)  
+“Apple tree.” A tree valued for its shade and fruit.  
+
+v4: בֵּית הַיָּיִן (bêṯ hayyayin)  
+“House of wine.” A place of feasting, celebration, and delight.  
+
+v5: אַהֲבָה (ʾahăḇâ)  
+“Love.” Deep affection, desire, and devotion.  
+
+v7: צְבִי (ṣĕḇî)  
+“Gazelle.” An animal symbolizing grace and swiftness.  
+
+v9: עֹפֶר (ʿōp̄er)  
+“Youthful stag.” A young deer, often associated with vigor and beauty.  
+
+v12: תּוֹר (tôr)  
+“Turtledove.” A bird associated with spring and renewal.  
+
+v13: תְּאֵנָה (tĕʾēnāh)  
+“Fig tree.” A common biblical symbol of fruitfulness and prosperity.  
+
+v15: שׁוּעָל (šûʿāl)  
+“Fox.” A small animal capable of damaging vineyards.  
+
+v16: רָעָה (rāʿâ)  
+“To pasture.” To shepherd or graze a flock.  
+
+v17: נָס (nās)  
+“To flee away.” To disappear or pass from view.  
+
 v01: חֲבַצֶּלֶת (ḥăḇaṣṣeleṯ)
 “Flower.” A blooming plant associated with beauty and vitality.
 

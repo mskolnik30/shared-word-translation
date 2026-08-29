@@ -91,14 +91,18 @@ v18: - **v18 fortified city, iron pillar, bronze walls**: These metaphors convey
 
 ##Vocabulary
 
-v01: דִּבְרֵ֥י (davar)
-“Words; matters.” Here the term introduces Jeremiah’s collected prophetic words.
+v9: - **v10 נְתַתִּי (na.tan)**: Rendered "appointed," it is a decision to confer a role or responsibility, emphasizing divine commissioning.  
 
-v09: נְתַתִּי (natan)
-“I have put; I have given.” The verb marks the placing of the LORD’s words in Jeremiah’s mouth.
+v11: - **v11 מַקֵּ֥ל (maq.qel)**: Meaning "branch," here it plays on its sound similarity with "watching," indicating alignment with divine purpose.  
 
 v11: מַקֵּ֥ל (maqqel)
 “Branch; staff.” Here the word participates in a sound-play with the following verb for “watching.”
 
 v12: שֹׁקֵ֥ד (shoqed)
 “Watching," a key term that highlights God's active oversight and certainty in fulfilling divine promises.
+
+v01: דִּבְרֵ֥י (davar)
+“Words; matters.” Here the term introduces Jeremiah’s collected prophetic words.
+
+v09: נְתַתִּי (natan)
+“I have put; I have given.” The verb marks the placing of the LORD’s words in Jeremiah’s mouth.

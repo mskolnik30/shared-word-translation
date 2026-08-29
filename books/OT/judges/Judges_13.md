@@ -102,5 +102,14 @@ v05: נָזִיר (nazir)
 v05: מוֹרָה (morah)
 “Razor.” No razor is to come upon Samson’s head.
 
+v08: מִשְׁפַּט (mishpat)
+“Rule,” “procedure,” or “proper ordering.” Manoah asks how the child is to be raised and live.
+
+v18: פִּלְאִי (pili)
+“Wonderful” or “incomprehensible.” Beyond ordinary understanding.
+
+v19: פֶּלֶא (pele)
+“Wonder.” Used in connection with the LORD’s wondrous action.
+
 v25: פָּעַם (pa'am)
 “To stir,” “move,” or “disturb.” The Spirit begins to stir Samson.

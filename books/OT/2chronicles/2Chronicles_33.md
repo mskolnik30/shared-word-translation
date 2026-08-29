@@ -98,5 +98,11 @@ v11: חוֹחַ (choach)
 v12: כָּנַע (kana)
 “To humble oneself.”
 
+v13: עָתַר (atar)
+“To be entreated.”
+
 v16: תּוֹדָה (todah)
 “Thanksgiving offering.”
+
+v23: אַשְׁמָה (ashmah)
+“Guilt.”

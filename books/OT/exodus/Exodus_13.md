@@ -86,5 +86,17 @@ v02: פֶּטֶר רֶחֶם (peter rechem)
 v03: בֵּית עֲבָדִים (bet avadim)
 “House of slavery.” Egypt remembered as the place of forced service.
 
+v04: אָבִיב (Aviv)
+“Abib.” The spring month in which Israel left Egypt.
+
+v09: אוֹת (ot)
+“Sign.” A visible or embodied marker of remembrance.
+
 v13: פָּדָה (padah)
 “To redeem.” To secure release by substitution or payment.
+
+v18: יַם־סוּף (yam suf)
+“Sea of Reeds.” The body of water toward which Israel travels.
+
+v21: עַמּוּד (ammud)
+“Pillar” or “column.” The visible cloud and fire leading Israel.

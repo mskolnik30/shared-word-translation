@@ -180,5 +180,8 @@ v18: כִּיל (kil)
 v21: סָלַח (salach)
 “To forgive.”
 
+v32: נָכְרִי (nokhri)
+“Foreigner.”
+
 v42: מָשִׁיחַ (mashiach)
 “Anointed one.”

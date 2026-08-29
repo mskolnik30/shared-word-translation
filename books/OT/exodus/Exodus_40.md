@@ -131,5 +131,17 @@ v10: קֹדֶשׁ קָדָשִׁים (qodesh qodashim)
 v20: עֵדוּת (edut)
 “Testimony.” The covenant tablets placed in the ark.
 
+v33: כָּלָה (kalah)
+“To complete” or “finish.” Moses completes the sanctuary work.
+
 v34: כָּבוֹד יְהוָה (kavod YHWH)
 “Glory of the LORD.” The manifest weight and presence of the LORD.
+
+v35: שָׁכַן (shakhan)
+“To settle” or “dwell.” The cloud settles upon the dwelling.
+
+v36: מַסַּע (massa)
+“Journey” or “stage.” Israel’s movements are governed by the cloud.
+
+v38: אֵשׁ (esh)
+“Fire.” The visible night manifestation within the cloud.

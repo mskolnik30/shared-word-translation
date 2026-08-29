@@ -88,5 +88,35 @@ v01: סֵפֶר (sefer)
 v02: יָשֵׁן (yashen)
 “To sleep.” A metaphor for death.
 
+v02: חַיֵּי עוֹלָם (chayye olam)
+“Everlasting life.”
+
+v02: דֵּרָאוֹן (dera'on)
+“Contempt” or “abhorrence.” Enduring disgrace.
+
+v03: מַשְׂכִּילִים (maskilim)
+“Those with insight.” The wise who understand and teach.
+
+v03: זֹהַר (zohar)
+“Brightness.” Radiance of the heavenly expanse.
+
+v04: חָתַם (chatam)
+“To seal.” To secure and preserve a document.
+
+v07: מוֹעֵד (moed)
+“Appointed time.” The end occurs according to fixed divine timing.
+
+v10: לָבַן (lavan)
+“To make white.” Purification imagery.
+
 v11: תָּמִיד (tamid)
 “Continual offering.” The regular sanctuary sacrifice that is removed.
+
+v11: שִׁקּוּץ שֹׁמֵם (shiquts shomem)
+“Detestable thing that makes desolate.”
+
+v12: אַשְׁרֵי (ashrei)
+“Happy” or “blessed.” The one who waits and reaches the appointed day.
+
+v13: גּוֹרָל (goral)
+“Lot” or “allotted portion.” Daniel’s promised future inheritance.

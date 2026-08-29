@@ -91,3 +91,9 @@ v13: קָשֶׁה (qasheh)
 
 v15: סִבָּה (sibbāh)
 “Turn of events” or cause.
+
+v18: מַס (mas)
+“Forced labor.”
+
+v19: פָּשַׁע (pasha)
+“To rebel.”

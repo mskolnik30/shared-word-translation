@@ -79,8 +79,11 @@ v25: - v25: Literally, God has “uncovered the ear” of David’s servant. The
 
 ##Vocabulary
 
-v01: בְּרִית (berit)
-“covenant.” The ark is identified as the ark of the LORD’s covenant, recalling that God’s presence among Israel is bound to a committed relationship, not merely to a sacred object or building.
+v1: - v1: בְּרִית (*berit*) — “covenant.” The ark is identified as the ark of the LORD’s covenant, recalling that God’s presence among Israel is bound to a committed relationship, not merely to a sacred object or building.  
+
+v7: - v7: צְבָאוֹת (*tseva’ot*) — “hosts.” In “LORD of hosts,” the title presents the LORD as ruler over heavenly armies or forces and gives weight to the divine promise made to David.  
+
+v10: - v10: בַּיִת (*bayit*) — “house.” The term moves between a physical dwelling for God and a royal household or dynasty for David, structuring the chapter’s central promise.  
 
 v13: חֶסֶד (ḥesed)
 “steadfast love.” Here it names God’s loyal, enduring favor toward David’s descendant, in contrast to love withdrawn from the preceding king.
@@ -90,3 +93,10 @@ v14: מַלְכוּת (malkhut)
 
 v17: תּוֹר (tor)
 “order” or “manner.” This rare word contributes to the obscurity of David’s statement about God’s regard for him and humanity.
+
+v21: - v21: פָּדָה (*padah*) — “redeem.” God’s redemption of Israel from Egypt establishes them as God’s own people and forms the basis of David’s praise.  
+
+v24: - v24: אָמַן (*’aman*) — “be established” or “stand firm.” David asks that God’s word and David’s house be made enduring, resting on God’s reliability.  
+
+v01: בְּרִית (berit)
+“covenant.” The ark is identified as the ark of the LORD’s covenant, recalling that God’s presence among Israel is bound to a committed relationship, not merely to a sacred object or building.

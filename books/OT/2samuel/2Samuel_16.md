@@ -89,14 +89,32 @@ v23: Ahithophel’s counsel is treated with near-oracular authority, explaining 
 
 ##Vocabulary
 
+v01: קַיִץ (qayits)
+“Summer fruit.” Dried or seasonal provisions for the journey.
+
 v03: הֵשִׁיב (heshiv)
 “To restore.” Ziba claims Mephibosheth expects Saul’s kingdom back.
 
 v05: קָלַל (qalal)
 “To curse.” Shimei’s repeated verbal attack.
 
+v07: אִישׁ דָּמִים (ish damim)
+“Man of blood.” One characterized by bloodguilt or violence.
+
+v07: בְּלִיַּעַל (beliyya'al)
+“Worthless” or lawless. Shimei’s insult.
+
 v10: מַה־לִּי וְלָכֶם (mah-li velakhem)
 “What have I to do with you?” An idiom of sharp disagreement.
 
+v12: עָוֹן / עֳנִי (avon/oni)
+A textual difficulty behind “affliction,” with manuscript traditions differing.
+
+v17: חֶסֶד (ḥesed)
+“Steadfast love.” Absalom questions Hushai’s loyalty to David.
+
 v21: בָּאַשׁ (ba'ash)
 “To become odious,” literally “stink.” Open hostility made irreversible.
+
+v23: דְּבַר הָאֱלֹהִים (devar ha-Elohim)
+“Word of God.” The standard against which Ahithophel’s counsel is compared.

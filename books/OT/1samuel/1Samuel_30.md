@@ -119,5 +119,23 @@ v06: מַר נֶפֶשׁ (mar nefesh)
 v06: חִזֵּק בַּיהוָה (chizzeq ba-YHWH)
 “Strengthened himself in the LORD.”
 
+v08: נָצַל (natsal)
+“To rescue.”
+
+v09: נַחַל הַבְּשׂוֹר (Nachal ha-Besor)
+“Wadi Besor.”
+
 v12: שׁוּב רוּחַ (shuv ruach)
 “Spirit returned.” Strength revived after food.
+
+v20: שָׁלָל (shalal)
+“Spoil.”
+
+v24: חֵלֶק (cheleq)
+“Share” or portion.
+
+v25: חֹק וּמִשְׁפָּט (choq u-mishpat)
+“Statute and judgment.”
+
+v26: בְּרָכָה (berakhah)
+“Blessing” or gift.

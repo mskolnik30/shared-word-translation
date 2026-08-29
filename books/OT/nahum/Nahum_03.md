@@ -178,5 +178,20 @@ v04: זְנוּנִים (zenunim)
 v04: כְּשָׁפִים (keshafim)
 “Sorceries.” Practices associated with magical manipulation or enchantment.
 
+v08: נֹא אָמוֹן (No-Amon)  
+“No-Amon,” the biblical name for Thebes in Egypt.
+
+v10: גּוֹרָל (goral)  
+“Lot.” An object used in casting lots to distribute persons, property, or decisions.
+
+v12: בִּכּוּרָה (bikkurah)  
+“First-ripe fig.” An early fig easily shaken from the tree and quickly eaten.
+
+v15: אַרְבֶּה (arbeh)  
+“Locust.” A swarming insect used here as an image of multiplication and devastating disappearance.
+
 v18: רֹעִים (ro'im)
 “Shepherds.” Literally those who tend flocks; figuratively the leaders of Assyria.
+
+v19: שֶׁבֶר (shever)  
+“Fracture,” “breaking,” or “ruin.” A wound or collapse for which the verse says there is no relief.

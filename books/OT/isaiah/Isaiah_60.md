@@ -72,14 +72,23 @@ v14: “Zion” — The name can refer to Jerusalem, its people, or the city per
 
 ##Vocabulary
 
+v1: אוֹר (or)  
+“Light.” The central image of Zion illuminated by the LORD’s glory.  
+
+v9: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+“Holy One of Israel.” A recurring Isaianic designation for the LORD.  
+
+v16: גֹּאֵל (go'el)
+“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
+
+v14: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v14: צִיּוֹן (tsiyyon)
+“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+
 v01: אוֹר (or)
 “Light.” The central image of Zion illuminated by the LORD’s glory.
 
 v09: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
-v16: גֹּאֵל (go'el)
-“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
-
-v14: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.

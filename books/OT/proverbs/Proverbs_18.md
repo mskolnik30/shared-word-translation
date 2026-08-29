@@ -161,3 +161,15 @@ v10: מִגְדַּל־עֹז (migdal oz)
 
 v13: בִּין (bin)
 “To understand” or “discern.” Wisdom arising through attentive perception.
+
+v17: חָקַר (chaqar)
+“To examine” or “investigate.” To test a claim by careful inquiry.
+
+v19: מָדוֹן (madon)
+“Dispute” or “contention.” Conflict capable of hardening relationships.
+
+v21: יָד (yad)
+“Hand” or “power.” Used idiomatically for the power exercised by the tongue.
+
+v24: דָּבַק (davaq)
+“To cling” or “stick closely.” Persistent attachment within a relationship.

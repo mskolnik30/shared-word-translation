@@ -115,3 +115,9 @@ v17: מְלֶכֶת הַשָּׁמַיִם (meleket ha-shamayim)
 
 v19: כַּוָּנִים (kavvanim)
 “Cakes.” Ritual cakes associated with worship of the Queen of Heaven.
+
+v26: שָׁבַע (shava)
+“To swear.” The LORD swears by the divine great name.
+
+v28: מִסְפָּר (mispar)
+“Number.” Only a small number escape and return.

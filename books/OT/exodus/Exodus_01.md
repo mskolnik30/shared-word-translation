@@ -87,6 +87,63 @@ v22: Violence expands from targeted command to public decree, involving the whol
 
 ##Vocabulary
 
+v7: פָּרָה (pārāh)  
+
+v7: “To be fruitful.” Growth under blessing.  
+
+v7: רָבָה (rāḇāh)  
+
+v7: “To multiply.” Increase in number or extent.  
+
+v8: מֶלֶךְ (meleḵ)  
+
+v8: “King.” Political authority.  
+
+v10: חָכַם (ḥāḵam)
+“To deal shrewdly.” Strategic, often manipulative thinking.
+
+v10: “To deal shrewdly.” Strategic, often manipulative thinking.  
+
+v11: סַבָּל (sabbāl)  
+
+v11: “Taskmaster.” Overseer of forced labor.  
+
+v12: קוּץ (qûṣ)  
+
+v12: “To dread, feel loathing.” Deep discomfort or fear.  
+
+v13: פָּרַךְ (pāraḵ)  
+
+v13: “To make serve ruthlessly.” Harsh domination.  
+
+v14: עֲבֹדָה (ʿăḇōḏāh)  
+
+v14: “Service, labor.” Work under obligation.  
+
+v15: יָלַד (yālaḏ)  
+
+v15: “To give birth.” Bring forth life.  
+
+v17: יָרֵא (yārēʾ)  
+
+v17: “To fear.” Reverence guiding action.  
+
+v17: “To live.” Preserve life.  
+
+v19: חָיָה (ḥāyāh)  
+
+v20: יָטַב (yāṭaḇ)  
+
+v20: “To deal well.” Act beneficially.  
+
+v21: בַּיִת (bayiṯ)  
+
+v21: “Household.” Established family line.  
+
+v22: שָׁלַךְ (šālaḵ)  
+
+v22: “To throw, cast.” Forceful disposal.  
+
 v07: פָּרָה (pārāh)
 “To be fruitful.” Growth under blessing.
 
@@ -95,6 +152,3 @@ v07: רָבָה (rāḇāh)
 
 v08: מֶלֶךְ (meleḵ)
 “King.” Political authority.
-
-v10: חָכַם (ḥāḵam)
-“To deal shrewdly.” Strategic, often manipulative thinking.

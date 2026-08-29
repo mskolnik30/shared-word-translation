@@ -75,14 +75,32 @@ v20: The king remains a “brother” among Israelites. Torah is intended to pre
 
 ##Vocabulary
 
+v01: מוּם (mum)
+“Defect” or “blemish.” A disqualifying flaw in a sacrificial animal.
+
 v02: עָבַר בְּרִית (avar berit)
 “To transgress a covenant.” To violate covenant obligations.
+
+v04: דָּרַשׁ (darash)
+“To inquire” or “investigate.” Careful legal examination.
 
 v06: עֵד (ed)
 “Witness.” One whose testimony establishes a matter.
 
+v08: פָּלָא (pala)
+“To be too difficult.” A case beyond local judicial capacity.
+
 v11: תּוֹרָה (torah)
 “Instruction.” The authoritative teaching given through priestly judgment.
 
+v12: זִיד (zid)
+“To act presumptuously.” Defiant refusal of legitimate judgment.
+
 v15: מֶלֶךְ (melekh)
 “King.” A ruler whose power is restricted under covenant instruction.
+
+v18: מִשְׁנֵה הַתּוֹרָה (mishneh ha-torah)
+“Copy of the instruction.” A written copy for the king.
+
+v20: רוּם לֵב (rum lev)
+“To lift up the heart.” Royal self-exaltation over fellow Israelites.

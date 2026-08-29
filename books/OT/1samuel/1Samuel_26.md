@@ -104,5 +104,20 @@ v08: סָגַר (sagar)
 v09: נָקָה (naqah)
 “To be innocent.”
 
+v12: תַּרְדֵּמָה (tardemah)
+“Deep sleep.”
+
+v16: בֶּן־מָוֶת (ben-mavet)
+“Son of death.” One deserving death.
+
+v19: נַחֲלַת יְהוָה (nachalat YHWH)
+“Inheritance of the LORD.”
+
+v20: קֹרֵא (qore)
+“Partridge.” A bird used in the hunting comparison.
+
 v23: אֱמוּנָה (emunah)
 “Faithfulness.”
+
+v24: צָרָה (tsarah)
+“Distress.”

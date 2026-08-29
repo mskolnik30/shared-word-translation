@@ -65,3 +65,9 @@ v07: שָׁעַן (sha'an)
 
 v09: שׁוּט (shut)
 “To range” or move throughout.
+
+v10: מַהְפֶּכֶת (mahpekhet)
+“Stocks” or prison restraint.
+
+v12: רָפָא (rapha)
+“To heal”; the noun form here refers to physicians.

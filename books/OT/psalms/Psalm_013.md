@@ -56,8 +56,14 @@ v01: פָּנִים (panim)
 v02: יָגוֹן (yagon)
 “Sorrow” or “grief.” Deep inward distress, here located in the heart.
 
+v03: אוֹר (or)
+“Light.” The verbal expression “give light to my eyes” uses light as an image of renewed life and strength.
+
 v05: חֶסֶד (ḥesed)
 “Steadfast love.” Faithful and enduring love expressed within relationship and covenant.
 
 v05: יְשׁוּעָה (yeshuah)
 “Saving help,” “deliverance,” or “salvation.” Rescue or deliverance brought by God.
+
+v06: גָּמַל (gamal)
+“To deal with,” “repay,” or “deal bountifully.” Here the verb describes the LORD’s generous action toward the psalmist.

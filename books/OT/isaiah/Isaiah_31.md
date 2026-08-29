@@ -34,6 +34,18 @@ v4: “Zion” — The name can refer to Jerusalem, its people, or the city pers
 
 ##Vocabulary
 
+v1: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+“Holy One of Israel.” A recurring Isaianic designation for the LORD.  
+
+v4: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v4: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v3: רוּחַ (ruach)  
+“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.  
+
 v01: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
 

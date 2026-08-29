@@ -106,8 +106,14 @@ v04: שׁוֹפָר (shofar)
 v17: חֵרֶם (cherem)
 “Devoted thing” or “ban.” Something placed under irrevocable divine claim, often involving destruction.
 
+v18: עָכַר (akhar)
+“To bring trouble.” The verb anticipates the consequences of taking what is devoted.
+
 v19: קֹדֶשׁ (qodesh)
 “Holy.” Set apart as belonging to the LORD.
+
+v20: תְּרוּעָה (teruah)
+“Shout” or “blast.” A loud signal of acclamation or battle.
 
 v26: אָרַר (arar)
 “To curse.” To pronounce judgment upon someone.

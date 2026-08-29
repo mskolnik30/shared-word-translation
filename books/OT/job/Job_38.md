@@ -200,3 +200,12 @@ v08: סָכַךְ (sakhakh)
 
 v17: שַׁעֲרֵי־מָוֶת (sha'arei-mavet)
 “Gates of Death.” Poetic boundary of the realm of death.
+
+v22: אוֹצָר (otsar)
+“Storehouse.” Snow and hail are pictured as stored resources.
+
+v33: חֻקּוֹת שָׁמַיִם (chuqqot shamayim)
+“Statutes of the heavens.” The ordered patterns governing the sky.
+
+v41: עֹרֵב (orev)
+“Raven.” A wild bird whose young are said to cry to God for food.

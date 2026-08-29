@@ -70,6 +70,42 @@ v20: The chapter ends not with conquest or inheritance but with a purchased grav
 
 ##Vocabulary
 
+v2: סָפַד (sāphaḏ)  
+“To mourn” or “lament.” Public and personal expressions of grief for the dead.  
+
+v4: גֵּר (gēr)  
+“Sojourner.” One who resides in a land without permanent native status.  
+
+v4: תּוֹשָׁב (tôšāḇ)  
+“Foreigner” or “resident.” A person dwelling among a people without full possession rights.  
+
+v4: אֲחֻזָּה (ʾăḥuzzâ)  
+“Property” or “holding.” A legally recognized possession of land.  
+
+v6: נְשִׂיא אֱלֹהִים (nĕśîʾ ʾĕlōhîm)  
+“Prince of God.” A title expressing honor and recognized standing.  
+
+v9: מַכְפֵּלָה (Maḵpēlāh)  
+“Machpelah.” The name of the cave and field purchased by Abraham.  
+
+v13: כֶּסֶף (keseph)  
+“Silver.” The standard medium of exchange in many ancient transactions.  
+
+v16: שֶׁקֶל (šeqel)  
+“Shekel.” A unit of weight commonly used in commerce.  
+
+v18: קָנָה (qānâ)  
+“To acquire” or “purchase.” A legal term for obtaining possession.  
+
+v19: קָבַר (qāḇar)  
+“To bury.” The ordinary verb for placing the dead in a grave or tomb.  
+
+v20: שָׂדֶה (śāḏeh)  
+“Field.” Agricultural land, often including associated structures or boundaries.  
+
+v20: אֲחֻזַּת־קָבֶר (ʾăḥuzzat-qāḇer)  
+“Property for a burial place.” A permanent family burial holding.  
+
 v02: סָפַד (sāphaḏ)
 “To mourn” or “lament.” Public and personal expressions of grief for the dead.
 

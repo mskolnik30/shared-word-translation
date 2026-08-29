@@ -142,28 +142,59 @@ v31: “to a people yet unborn… the LORD has done it” — The closing is gen
   
 
   ## Vocabulary
+
+  v01: עָזַב (ʿazav) — to forsake; to abandon
+
+v01: שָׁאַג (sha’ag) — to roar; to cry out
+
+v03: קָדוֹשׁ (qadosh) — holy; set apart
+
+v04: בָּטַח (bataḥ) — to trust; to rely on
+
+v05: פָּלַט (palat) — to deliver; to rescue
+
+v06: תּוֹלָעַת (tolaʿat) — worm; maggot
+
+v07: לָעַג (laʿag) — to mock; to deride
+
+v08: גָּלַל (galal) — to roll (as in “commit/roll yourself onto”)
+
+v11: עֶזְרָה (ʿezrah) — help
+
+v12: אַבִּיר (’abbir) — strong one; mighty bull
+
+v12: בָּשָׁן (Bashan) — Bashan (region known for strong cattle)
+
+v14: שָׁפַךְ (shafakh) — to pour out
+
+v15: כֹּחַ (koach) — strength; power
+
+v15: לָשׁוֹן (lashon) — tongue
+
+v15: עָפָר (ʿafar) — dust
+
+v16: כֶּלֶב (kelev) — dog
+
+v16: עֵדָה (ʿedah) — assembly; company
+
+v18: בֶּגֶד (beged) — garment; clothing
+
+v18: גּוֹרָל (goral) — lot (cast lots)
+
+v22: שֵׁם (shem) — name
+
+v24: עָנִי (ʿani) — afflicted; poor; oppressed
+
+v24: שָׁוַע (shavaʿ) — to cry for help; to plead
+
+v27: זָכַר (zakar) — to remember
+
+v28: מָשַׁל (mashal) — to rule; to govern
+
 v31: צֶדֶק (tsedeq) — righteousness; justice; rightness
 
 
   
-  v01: עָזַב (ʿazav) — to forsake; to abandon
-v01: שָׁאַג (sha’ag) — to roar; to cry out
-v04: בָּטַח (bataḥ) — to trust; to rely on
-v05: פָּלַט (palat) — to deliver; to rescue
-v06: תּוֹלָעַת (tolaʿat) — worm; maggot
-v07: לָעַג (laʿag) — to mock; to deride
-v08: גָּלַל (galal) — to roll (as in “commit/roll yourself onto”)
-v12: אַבִּיר (’abbir) — strong one; mighty bull
-v12: בָּשָׁן (Bashan) — Bashan (region known for strong cattle)
-v14: שָׁפַךְ (shafakh) — to pour out
-v15: כֹּחַ (koach) — strength; power
-v15: לָשׁוֹן (lashon) — tongue
-v15: עָפָר (ʿafar) — dust
-v18: בֶּגֶד (beged) — garment; clothing
-v18: גּוֹרָל (goral) — lot (cast lots)
-v27: זָכַר (zakar) — to remember
-v28: מָשַׁל (mashal) — to rule; to govern
-
 ##Vocabulary
 
 v01: עָזַב (ʿazav)

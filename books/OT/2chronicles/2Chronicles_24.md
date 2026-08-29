@@ -103,8 +103,14 @@ v04: חָדַשׁ (chadash)
 v06: מַשְׂאַת (mas'at)
 “Levy” or contribution.
 
+v13: אֲרוּכָה (arukhah)
+“Repair” or restoration.
+
 v20: לָבַשׁ רוּחַ (lavash ruach)
 “The Spirit clothed.” Prophetic empowerment.
+
+v21: רָגַם (ragam)
+“To stone.”
 
 v22: דָּרַשׁ (darash)
 “To seek.” Zechariah asks the LORD to seek justice.

@@ -72,5 +72,17 @@ v03: רוּחַ אֱלֹהִים (ruach Elohim)
 v03: חָכְמָה (chokhmah)
 “Wisdom.” Practical skill as well as discerning understanding.
 
+v06: חֲכַם־לֵב (chakham-lev)
+“Wise of heart.” A skilled and discerning artisan.
+
 v13: אוֹת (ot)
 “Sign.” A covenant marker between the LORD and Israel.
+
+v15: שַׁבַּת שַׁבָּתוֹן (shabbat shabbaton)
+“Sabbath of complete rest.” An intensified expression for cessation.
+
+v17: נָפַשׁ (nafash)
+“To be refreshed” or “take breath.” Used of the LORD’s seventh-day cessation.
+
+v18: אֶצְבַּע אֱלֹהִים (etsba Elohim)
+“Finger of God.” Direct divine authorship of the tablets.

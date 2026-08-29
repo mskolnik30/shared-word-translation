@@ -246,6 +246,9 @@ v01: מַשָּׂא (massa)
 “Oracle” or “burden.” A weighty saying or prophetic utterance.
 
 v03: קָדוֹשׁ (qadosh)
+“Holy One.” A divine designation emphasizing holiness.
+
+v03: קָדוֹשׁ (qadosh)
 “Holy One.” A divine designation with a sense of holiness.
 
 v05: צָרַף (tsaraf)
@@ -253,3 +256,15 @@ v05: צָרַף (tsaraf)
 
 v08: כָּזָב (kazav)
 “Falsehood” or “lie.” Speech that proves unreliable.
+
+v15: עֲלוּקָה (aluqah)
+“Leech.” A blood-feeding creature used as an image of insatiable demand.
+
+v18: פָּלָא (pala)
+“To be wonderful” or “beyond understanding.”
+
+v26: שָׁפָן (shafan)
+“Rock badger” or “hyrax.” A small rock-dwelling animal.
+
+v33: מִיץ (mits)
+“Pressing” or “squeezing.” Repeated three times to show consequences produced through sustained pressure.

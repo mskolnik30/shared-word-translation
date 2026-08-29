@@ -171,5 +171,8 @@ v12: עִוֵּת (ivvet)
 v19: נָשָׂא פָנִים (nasa panim)
 “To show partiality.” God does not privilege rulers because of status.
 
+v28: צַעֲקַת דַּל (tsa'aqat dal)
+“Cry of the poor.” The appeal God hears.
+
 v37: פֶּשַׁע (pesha)
 “Rebellion” or “transgression.” Elihu accuses Job of adding rebellion through his speech.

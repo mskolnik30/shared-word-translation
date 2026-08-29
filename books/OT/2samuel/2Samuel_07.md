@@ -114,11 +114,29 @@ v27: “uncovered the ear” is a Hebrew idiom for revealing something privately
 v01: נוּחַ (nuach)
 “To give rest.” Security from enemies.
 
+v02: אֲרוֹן הָאֱלֹהִים (aron ha-Elohim)
+“Ark of God.”
+
+v05: בַּיִת (bayit)
+“House.” The chapter’s central word, meaning both temple and dynasty.
+
+v08: נָגִיד (nagid)
+“Ruler” or “leader.” David’s appointed role over Israel.
+
+v10: נָטַע (nata)
+“To plant.” Israel’s settlement in the land.
+
 v11: חֶסֶד (ḥesed)
 “Steadfast love.” The enduring divine commitment to David’s line.
 
 v12: זֶרַע (zera)
 “Offspring.” David’s descendant through whom the kingdom continues.
+
+v14: יָסַר (yasar)
+“To discipline.” Corrective judgment upon the royal son.
+
+v16: כִּסֵּא (kisse)
+“Throne.” The symbol of enduring royal rule.
 
 v27: גָּלָה אֹזֶן (galah ozen)
 “To uncover the ear.” An idiom for revealing a message.

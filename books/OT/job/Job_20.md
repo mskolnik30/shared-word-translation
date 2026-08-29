@@ -131,3 +131,9 @@ v14: מְרוֹרַת פְּתָנִים (merorat petanim)
 
 v19: דַּל (dal)
 “Poor” or “weak.” The one Zophar says the wicked has crushed.
+
+v23: חֲרוֹן אַפּוֹ (charon appo)
+“Burning of his anger.” Intense divine wrath.
+
+v29: חֵלֶק (cheleq)
+“Portion.” The allotted outcome Zophar assigns to the wicked.

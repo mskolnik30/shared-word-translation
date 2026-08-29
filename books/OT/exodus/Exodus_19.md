@@ -98,3 +98,15 @@ v06: מַמְלֶכֶת כֹּהֲנִים (mamlekhet kohanim)
 
 v06: גּוֹי קָדוֹשׁ (goy qadosh)
 “Holy nation.” A people set apart to the LORD.
+
+v10: קָדַשׁ (qadash)
+“To consecrate.” To prepare or set apart for sacred encounter.
+
+v12: גְּבוּל (gevul)
+“Boundary.” A limit placed around the mountain.
+
+v16: שׁוֹפָר (shofar)
+“Ram’s horn.” Its growing sound accompanies the divine descent.
+
+v22: פָּרַץ (parats)
+“To break out” or “burst through.” Used both of people crossing the boundary and of divine judgment breaking out against them.

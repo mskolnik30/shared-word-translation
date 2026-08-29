@@ -182,14 +182,32 @@ v24: Laziness is exaggerated almost comically: the person expends enough effort 
 
 ##Vocabulary
 
+v1: תֹּם (tom)  
+“Integrity” or “wholeness.” Undivided character and conduct.  
+
+v2: נֶפֶשׁ (nefesh)  
+“Life,” “self,” or “desire.” Here associated with desire lacking knowledge.  
+
+v11: שֵׂכֶל (sekhel)  
+“Discretion” or “good sense.” Practical understanding that moderates reaction.  
+
+v17: חָנַן (chanan)  
+“To show favor.” To respond graciously toward one in need.  
+
+v21: עֵצָה (etsah)  
+“Purpose,” “counsel,” or “plan.” Here the LORD’s intention that ultimately stands.  
+
+v22: חֶסֶד (ḥesed)
+“Steadfast love.” Reliable kindness and covenantal loyalty.
+
+v23: יִרְאַת יְהוָה (yirat YHWH)  
+“Fear of the LORD.” Reverence that directs a person toward life.  
+
+v28: מִשְׁפָּט (mishpat)
+“Justice” or “judgment.” Right ordering that a corrupt witness treats with contempt.
+
 v01: תֹּם (tom)
 “Integrity” or “wholeness.” Undivided character and conduct.
 
 v02: נֶפֶשׁ (nefesh)
 “Life,” “self,” or “desire.” Here associated with desire lacking knowledge.
-
-v22: חֶסֶד (ḥesed)
-“Steadfast love.” Reliable kindness and covenantal loyalty.
-
-v28: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right ordering that a corrupt witness treats with contempt.

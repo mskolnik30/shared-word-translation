@@ -71,14 +71,44 @@ v23: The chapter ends with Ruth continuing faithfully in her work while God's la
 
 ##Vocabulary
 
+v1: גִּבּוֹר חַיִל (gibbôr ḥayil)  
+“Worthy man” or “man of standing.” A person of character, influence, and capability.  
+
+v2: לָקַט (lāqaṭ)  
+“To glean.” To gather leftover grain after the harvesters.  
+
+v2: חֵן (ḥēn)  
+“Favor” or “grace.” Acceptance, kindness, or goodwill shown by another.  
+
+v7: עֹמֶר (ʿōmer)  
+“Sheaf.” A gathered bundle of harvested grain.  
+
+v10: נָכְרִיָּה (nokriyyâ)  
+“Foreigner.” One belonging to another people or nation.  
+
+v12: שָׂכָר (śāḵār)
+“Reward.” Compensation or repayment for faithful action.
+
+v12: חָסָה (ḥāsâ)  
+“To seek refuge.” To take shelter under the protection of another.  
+
+v14: קָלִי (qālî)  
+“Roasted grain.” Grain prepared as food by roasting.  
+
+v17: אֵיפָה (ʾêphâ)  
+“Ephah.” A dry measure of substantial volume used for grain.  
+
+v20: חֶסֶד (ḥeseḏ)
+“Steadfast love.” Loyal, covenantal kindness and faithfulness.
+
+v20: גֹּאֵל (gōʾēl)  
+“Redeemer.” A near relative with responsibilities of protection, restoration, and family preservation.  
+
+v23: קָצִיר (qāṣîr)  
+“Harvest.” The gathering of mature grain crops.  
+
 v01: גִּבּוֹר חַיִל (gibbôr ḥayil)
 “Worthy man” or “man of standing.” A person of character, influence, and capability.
 
 v02: חֵן (ḥēn)
 “Favor” or “grace.” Acceptance, kindness, or goodwill shown by another.
-
-v12: שָׂכָר (śāḵār)
-“Reward.” Compensation or repayment for faithful action.
-
-v20: חֶסֶד (ḥeseḏ)
-“Steadfast love.” Loyal, covenantal kindness and faithfulness.

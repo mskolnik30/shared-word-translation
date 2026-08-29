@@ -152,8 +152,23 @@ v05: בּוֹשׁ (bosh)
 v07: דִּבֶּר עַל־לֵב (dibber al-lev)
 “To speak to the heart.” To encourage or reassure.
 
+v13: שַׂר צָבָא (sar tsava)
+“Commander of the army.” The office promised to Amasa.
+
 v19: עָוֹן (avon)
 “Guilt” or “iniquity.” Shimei asks David not to count it against him.
 
 v21: מְשִׁיחַ יְהוָה (meshiach YHWH)
 “The LORD’s anointed.” Abishai’s title for David.
+
+v24: שָׂפָם (safam)
+“Mustache” or upper-lip hair. Mephibosheth leaves it untended.
+
+v27: רָגַל (ragal)
+“To slander” or falsely accuse. Mephibosheth’s charge against Ziba.
+
+v32: גָּדוֹל (gadol)
+“Great.” Barzillai is a person of considerable means/status.
+
+v43: קָשָׁה (qashah)
+“To be harsh.” Judah’s word is harsher than Israel’s.

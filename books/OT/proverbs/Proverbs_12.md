@@ -179,8 +179,23 @@ v01: מוּסָר (musar)
 v01: בַּעַר (baar)
 “To be senseless” or “brutish.” To act without the discernment expected of a rational person.
 
+v04: אֵשֶׁת־חַיִל (eshet chayil)
+“Woman of strength,” often “capable wife.” A woman characterized by ability, strength, and worthy character.
+
+v10: נֶפֶשׁ (nefesh)
+“Life,” “self,” or “living being.” Here referring to the life and well-being of an animal.
+
+v16: עָרוּם (arum)
+“Prudent” or “shrewd.” Able to perceive a situation and respond with restraint.
+
+v18: בָּטָא (bata)
+“To speak recklessly.” To utter words rashly, pictured here as sword thrusts.
+
 v20: שָׁלוֹם (shalom)
 “Peace,” “wholeness,” or “well-being.” The goal intentionally pursued by wise counselors.
+
+v25: דְּאָגָה (de'agah)
+“Anxiety,” “worry,” or “care.” An inward burden that weighs down the heart.
 
 v28: צְדָקָה (tsedaqah)
 “Righteousness.” Right conduct and relationship, pictured here as a path leading to life.

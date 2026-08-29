@@ -41,3 +41,11 @@ v1–17: - **Word of the Lord** (v1): Ezekiel often begins his prophecy with thi
 - **Great vengeance** (v17): Indicates severe punishment as a demonstration of divine authority and justice.  
 
 ##Vocabulary
+
+v3: - **Sanctuary** (v3): Refers to the temple in Jerusalem, a central symbol of God's presence and relationship with Israel.  
+
+v14: - **Vengeance** (v14): Expresses a strong theme in the passage, emphasizing God's retributive justice on behalf of His people.  
+
+v16: - **Cherethites** (v16): Likely a specific group among the Philistines, illustrating the thoroughness of the divine judgement.  
+
+v16: - **Seacoast** (v16): Refers to the geographical location of the Philistine territories, highlighting their identity and region for judgment.

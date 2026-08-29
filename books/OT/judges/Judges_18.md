@@ -106,5 +106,14 @@ v02: רָגַל (ragal)
 v05: שָׁאַל (sha'al)
 “To inquire.” Used here of seeking divine guidance.
 
+v07: בֹּטֵחַ (boteach)
+“Secure” or “trusting.” Describes the unsuspecting people of Laish.
+
 v19: אָב וְכֹהֵן (av ve-kohen)
 “Father and priest.” A title combining religious honor and priestly service.
+
+v24: אֱלֹהַי אֲשֶׁר עָשִׂיתִי (elohai asher asiti)
+“My gods that I made.” An ironic expression exposing the manufactured nature of Micah’s cult.
+
+v30: פֶּסֶל (pesel)
+“Carved image.” The image Dan establishes as a tribal cult object.

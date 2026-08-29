@@ -212,6 +212,36 @@ v52: Closing doxology affirms faith despite unresolved contradiction.
 
 ##Vocabulary
 
+v1: חֶסֶד (chesed)  
+“Steadfast love.” Covenant loyalty.  
+
+v2: אֱמוּנָה (emunah)  
+“Faithfulness.” Reliability.  
+
+v3: בְּרִית (berit)  
+“Covenant.” Binding agreement.  
+
+v10: רָהַב (Rahab)  
+“Rahab.” Symbolic chaos/foe.  
+
+v14: מִשְׁפָּט (mishpat)
+“Justice.” Right judgment.
+
+v20: מָשַׁח (mashach)  
+“To anoint.” Consecrate.  
+
+v27: בְּכוֹר (bekhor)  
+“Firstborn.” Preeminent status.  
+
+v33: חָסַד (chasad)
+“To show loyalty.” Act with steadfast love.
+
+v39: חָלַל (chalal)  
+“To defile.” Profane.  
+
+v48: שְׁאוֹל (sheol)  
+“Grave.” Realm of the dead.  
+
 v01: חֶסֶד (chesed)
 “Steadfast love.” Covenant loyalty.
 
@@ -220,9 +250,3 @@ v02: אֱמוּנָה (emunah)
 
 v03: בְּרִית (berit)
 “Covenant.” Binding agreement.
-
-v14: מִשְׁפָּט (mishpat)
-“Justice.” Right judgment.
-
-v33: חָסַד (chasad)
-“To show loyalty.” Act with steadfast love.

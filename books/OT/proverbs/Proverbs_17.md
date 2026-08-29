@@ -179,5 +179,17 @@ v03: בָּחַן (bachan)
 v09: כָּסָה (kasah)
 “To cover.” Here describing restraint in exposing another person’s offense.
 
+v14: מָדוֹן (madon)
+“Conflict” or “strife.” Sustained contention between people.
+
+v17: רֵעַ (rea)
+“Friend” or “neighbor.” A person in close relational proximity.
+
+v18: עָרַב (arav)
+“To become surety.” To guarantee another person’s obligation.
+
+v22: גֵּהָה (gehah)
+“Medicine” or “healing.” Something that brings bodily restoration.
+
 v27: קַר־רוּחַ (qar ruach)
 “Calm spirit.” Literally a “cool spirit,” contrasted with heated reaction.

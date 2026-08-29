@@ -95,3 +95,15 @@ v08: מִדָּה (middah)
 
 v10: נִיחוֹחִין (nichochin)
 “Pleasing offerings.” Sacrifices described as acceptable before God.
+
+v11: זְקַף (zeqaf)
+“To lift up” or “impale.” Used in the royal penalty clause.
+
+v16: חֲנֻכָּה (chanukkah)
+“Dedication.” The ceremonial inauguration of the rebuilt temple.
+
+v19: פֶּסַח (pesach)
+“Passover.” The memorial feast of Israel’s deliverance from Egypt.
+
+v22: חַג הַמַּצּוֹת (chag ha-matsot)
+“Festival of Unleavened Bread.” The seven-day festival following Passover.

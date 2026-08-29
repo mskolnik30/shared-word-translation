@@ -96,3 +96,21 @@ v02: גְּדוּד (gedud)
 
 v04: דָּם נָקִי (dam naqi)
 “Innocent blood.”
+
+v10: מָצוֹר (matsor)
+“Siege.” Jerusalem is surrounded.
+
+v12: יָצָא אֶל (yatsa el)
+“To go out to.” Jehoiachin surrenders to Babylon.
+
+v14: גָּלָה (galah)
+“To carry into exile.”
+
+v14: חָרָשׁ (charash)
+“Craftsman.”
+
+v14: מַסְגֵּר (masger)
+“Smith” or metalworker.
+
+v17: שִׁנָּה שֵׁם (shinnah shem)
+“To change a name.” Imperial control over a vassal king.

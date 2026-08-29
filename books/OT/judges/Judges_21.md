@@ -96,5 +96,17 @@ v03: פָּקַד (paqad)
 v06: נָחַם (nacham)
 “To have compassion,” “relent,” or “be moved.” Israel is moved over Benjamin’s near destruction.
 
+v11: חָרַם (charam)
+“To devote to destruction.” Used for the command against Jabesh-Gilead.
+
 v13: קָרָא שָׁלוֹם (qara shalom)
 “To proclaim peace.” To announce restoration of peaceful relations.
+
+v15: פֶּרֶץ (perets)
+“Breach.” A rupture or gap, here within Israel’s tribal body.
+
+v21: חָטַף (chataf)
+“To seize” or “snatch away.” Used of taking the women of Shiloh.
+
+v25: יָשָׁר בְּעֵינָיו (yashar be'enav)
+“Right in their own eyes.” Judges’ concluding diagnosis of self-directed judgment.

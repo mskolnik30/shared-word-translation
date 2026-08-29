@@ -71,3 +71,6 @@ v02: אָסַר (asar)
 
 v02: חָלַל (chalal)
 “To profane” or “break.” To make one’s word common by failing to fulfill it.
+
+v13: עָנָה נֶפֶשׁ (anah nefesh)
+“To humble oneself.” A phrase for self-denial or affliction undertaken by vow.

@@ -105,8 +105,26 @@ v06: סֹפֵר מָהִיר (sofer mahir)
 v06: תּוֹרַת מֹשֶׁה (torat Moshe)
 “Instruction of Moses.” The body of teaching given by the LORD to Israel.
 
+v09: יַד־יְהוָה (yad YHWH)
+“Hand of the LORD.” An image of effective divine guidance and favor.
+
 v10: דָּרַשׁ (darash)
 “To seek” or “study.” Ezra sets his heart to seek the LORD’s instruction.
 
+v13: נִתְנַדַּב (nitnaddav)
+“To offer oneself freely.” Voluntary willingness to go to Jerusalem.
+
+v22: כִּכָּר (kikkar)
+“Talent.” A large unit of weight.
+
+v22: כֹּר (kor)
+“Cor.” A large dry measure.
+
+v22: בַּת (bat)
+“Bath.” A liquid measure.
+
 v25: דַּיָּן (dayyan)
 “Judge.” An official appointed to administer law.
+
+v28: חֶסֶד (ḥesed)
+“Steadfast love.” Ezra’s description of the favor God extended to him.

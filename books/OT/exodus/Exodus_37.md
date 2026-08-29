@@ -98,7 +98,19 @@ v06: כַּפֹּרֶת (kapporet)
 “Cover.” The gold covering over the ark.
 
 v07: כְּרוּבִים (keruvim)
+“Cherubim.” Winged heavenly beings associated with divine presence.
+
+v07: כְּרוּבִים (keruvim)
 “Cherubim.” Winged heavenly beings associated with the ark and divine throne imagery.
 
 v10: שֻׁלְחָן (shulchan)
 “Table.” The sanctuary table.
+
+v17: מְנוֹרָה (menorah)
+“Lampstand.” The seven-lamped gold light.
+
+v25: מִזְבַּח הַקְּטֹרֶת (mizbach ha-qetoret)
+“Altar of incense.”
+
+v29: רֹקֵחַ (roqeach)
+“Perfumer.” A skilled compounder of aromatic substances.

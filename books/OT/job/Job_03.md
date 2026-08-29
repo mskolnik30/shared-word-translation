@@ -121,3 +121,12 @@ v07: גַּלְמוּד (galmud)
 
 v08: לִוְיָתָן (Livyatan)
 “Leviathan.” A great chaos creature in Hebrew poetic imagery.
+
+v16: נֵפֶל (nefel)
+“Miscarriage” or “stillborn child.” A pregnancy that does not reach living birth.
+
+v20: עָמֵל (amel)
+“Misery,” “trouble,” or “toil.” Painful human experience.
+
+v26: רֹגֶז (rogez)
+“Trouble,” “agitation,” or “turmoil.” The unrest that continues to arrive.

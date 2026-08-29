@@ -117,8 +117,32 @@ v20: The closing blessing binds answered prayer to steadfast love. God’s respo
 
 ##Vocabulary
 
-v09: נֶפֶשׁ (nephesh)
-“Soul” or “life.” The word refers to the living self, not an immaterial part separated from bodily existence.
+v1: הָרִיעוּ (hariʿu)  
+“Make a joyful shout.” The verb can signal acclamation, alarm, or triumph. Here it carries the sound of public praise.  
+
+v3: נוֹרָא (noraʾ)  
+“Fearsome” or “awesome.” The word names reverent dread before divine power, not mere emotional admiration.  
+
+v3: יְכַחֲשׁוּ (yekhaḥashu)  
+“Cringe” or “submit falsely.” The verb can imply reluctant or feigned submission, fitting the image of enemies compelled by God’s strength.  
+
+v5: מִפְעֲלוֹת (mifʿalot)  
+“Works” or “deeds.” The term emphasizes God’s enacted power—what God has done in history.  
+
+v7: מֹשֵׁל (moshel)  
+“Ruling.” The participle presents God’s reign as ongoing rather than occasional.  
+
+v9: נֶפֶשׁ (nephesh)  
+“Soul” or “life.” The word refers to the living self, not an immaterial part separated from bodily existence.  
+
+v10: צְרַפְתָּנוּ (tseraftanu)  
+“You refined us.” The image comes from smelting metal and suggests testing that exposes and purifies.  
+
+v11: מוּעָקָה (muʿaqah)  
+“Crushing burden” or “pressure.” The word conveys constriction and weight placed upon the body.  
+
+v12: רְוָיָה (revayah)  
+“Abundance” or “overflow.” The term contrasts the earlier images of entrapment and oppression with fullness and relief.  
 
 v16: יִרְאֵי אֱלֹהִים (yirʾei ʾelohim)
 “Those who fear God.” The phrase describes reverent worshipers whose awe leads to attentive hearing and faithful response.
@@ -128,3 +152,6 @@ v18: אָוֶן (aven)
 
 v20: חַסְדּוֹ (ḥasdo)
 “His steadfast love.” The word denotes covenant loyalty, mercy, and faithful commitment rather than sentiment alone.
+
+v09: נֶפֶשׁ (nephesh)
+“Soul” or “life.” The word refers to the living self, not an immaterial part separated from bodily existence.

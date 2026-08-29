@@ -183,6 +183,46 @@ v23: Zerubbabel becomes a representative of God's continuing covenant purposes f
 
 ##Vocabulary
 
+v3: כָּבוֹד (kāḇôḏ)  
+“Glory.” Honor, splendor, and manifested significance.  
+
+v4: חָזַק (ḥāzaq)  
+“Be strong.” To stand firm with courage and resolve.  
+
+v5: בְּרִית (bĕrîṯ)  
+“Covenant.” A binding relationship established by divine commitment.  
+
+v5: רוּחַ (rûaḥ)  
+“Spirit.” God's active and abiding presence among his people.  
+
+v6: רָעַשׁ (rāʿaš)  
+“To shake.” To cause trembling, upheaval, or disruption.  
+
+v7: חֶמְדַּת (ḥemdaṯ)  
+“Treasure” or “desirable things.” Valued wealth brought from the nations.  
+
+v9: שָׁלוֹם (šālôm)  
+
+v9: “Peace.” Wholeness, well-being, and covenant blessing.  
+
+v12: קֹדֶשׁ (qōḏeš)
+“Holy.” Set apart for God and his purposes.
+
+v13: טָמֵא (ṭāmēʾ)  
+“Unclean.” Ritually defiled and unfit for holy use.  
+
+v17: שִׁדָּפוֹן (šiddāp̄ôn)  
+“Blight.” Crop damage caused by harsh conditions.  
+
+v17: יֵרָקוֹן (yērāqôn)  
+“Mildew.” Plant disease causing agricultural loss.  
+
+v23: חוֹתָם (ḥôṯām)  
+“Signet ring.” An official seal representing authority and ownership.  
+
+v23: בָּחַר (bāḥar)  
+“To choose.” To select according to divine purpose and favor.  
+
 v03: כָּבוֹד (kāḇôḏ)
 “Glory.” Honor, splendor, and manifested significance.
 
@@ -191,6 +231,3 @@ v05: בְּרִית (bĕrîṯ)
 
 v05: רוּחַ (rûaḥ)
 “Spirit.” God's active and abiding presence among his people.
-
-v12: קֹדֶשׁ (qōḏeš)
-“Holy.” Set apart for God and his purposes.

@@ -119,8 +119,26 @@ v01: שָׁלַם (shalam)
 v02: מַחְתֶּרֶת (machteret)
 “Breaking in.” Burglary by digging or forcing entry.
 
+v08: אֱלֹהִים (elohim)
+“God,” and in some judicial contexts possibly “judges.”
+
+v11: שְׁבוּעַת יְהוָה (shevuat YHWH)
+“Oath before the LORD.” A solemn oath used to settle disputed responsibility.
+
+v16: מֹהַר (mohar)
+“Bride-price.” A payment associated with marriage arrangements.
+
+v21: גֵּר (ger)
+“Resident alien.” A foreigner living within the community.
+
 v25: נֶשֶׁךְ (neshekh)
 “Interest.” Literally something that bites; profit charged on a loan.
+
+v26: חֲבֹל (chavol)
+“To take as a pledge.” To hold property as security for a debt.
+
+v27: חַנּוּן (channun)
+“Gracious.” The LORD’s reason for hearing the poor person’s cry.
 
 v31: קֹדֶשׁ (qodesh)
 “Holy.” Set apart as belonging to the LORD.

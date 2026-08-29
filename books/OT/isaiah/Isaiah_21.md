@@ -48,6 +48,9 @@ v16: “glory” — Hebrew *kavod* carries the sense of weight, honor, and mani
 
 ##Vocabulary
 
+v10: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
 v10: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 

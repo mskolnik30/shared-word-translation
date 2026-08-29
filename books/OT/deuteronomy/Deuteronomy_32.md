@@ -381,13 +381,40 @@ v02: לֶקַח (leqach)
 “Teaching.” Instruction that falls like rain.
 
 v04: הַצּוּר (ha-Tsur)
+“The Rock.” A divine title emphasizing stability and justice.
+
+v04: אֱמוּנָה (emunah)
+“Faithfulness.” Reliable integrity.
+
+v04: הַצּוּר (ha-Tsur)
 “The Rock.” A metaphor of stability and reliability.
 
 v04: אֱמוּנָה (emunah)
 “The Rock.” A metaphor of stability and reliability.
 
+v08: עֶלְיוֹן (Elyon)
+“Most High.” A title for God in relation to the nations.
+
 v10: אִישׁוֹן עֵינוֹ (ishon eino)
 “Pupil of his eye.” Literally the little person of the eye.
 
+v15: יְשֻׁרוּן (Yeshurun)
+“Jeshurun.” A poetic name for Israel.
+
 v17: שֵׁדִים (shedim)
 “Demons.” Non-divine beings associated with illicit sacrifice.
+
+v20: תַּהְפֻּכֹת (tahpukhot)
+“Reversals” or “perversity.” Twisted instability.
+
+v35: נָקָם (naqam)
+“Vengeance.” Retribution belonging to God.
+
+v39: חָיָה (chayah)
+“To make alive.” Divine power to give life.
+
+v43: כִּפֶּר (kipper)
+“To make atonement.” The closing restoration of land and people.
+
+v47: חַיִּים (chayyim)
+“Life.” The instruction is not empty but life-giving.

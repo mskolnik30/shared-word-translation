@@ -179,6 +179,30 @@ v27: Refusal to see poverty is itself a moral action; looking away does not remo
 
 ##Vocabulary
 
+v1: בָּטַח (batach)  
+“To trust” or “be confident.”  
+
+v5: מִשְׁפָּט (mishpat)  
+“Justice.” Right judgment understood fully by those seeking the LORD.  
+
+v8: נֶשֶׁךְ (neshekh)  
+“Interest.” Literally something that “bites,” used of interest charged on loans.  
+
+v13: כָּסָה (kasah)  
+“To conceal” or “cover.” Here hiding one’s own wrongdoing.  
+
+v13: רָחַם (racham)  
+“To show mercy” or “have compassion.”  
+
+v20: אֱמוּנוֹת (emunot)  
+“Faithfulness.” Reliable and steadfast conduct.  
+
+v22: רַע־עַיִן (ra ayin)
+“Stingy eye.” An idiom for greed or begrudging generosity.
+
+v26: לֵב (lev)  
+“Heart.” The center of thought, desire, and judgment.  
+
 v01: בָּטַח (batach)
 “To trust” or “be confident.”
 
@@ -187,6 +211,3 @@ v05: מִשְׁפָּט (mishpat)
 
 v08: נֶשֶׁךְ (neshekh)
 “Interest.” Literally something that “bites,” used of interest charged on loans.
-
-v22: רַע־עַיִן (ra ayin)
-“Stingy eye.” An idiom for greed or begrudging generosity.

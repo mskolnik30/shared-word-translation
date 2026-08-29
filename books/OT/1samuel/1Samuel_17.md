@@ -194,3 +194,18 @@ v26: חַי (chai)
 
 v28: זָדוֹן (zadon)
 “Presumption” or arrogance.
+
+v37: נָצַל (natsal)
+“To rescue.”
+
+v40: קֶלַע (qela)
+“Sling.”
+
+v45: יְהוָה צְבָאוֹת (YHWH Tseva'ot)
+“LORD of Hosts.”
+
+v47: מִלְחָמָה לַיהוָה (milchamah la-YHWH)
+“The battle belongs to the LORD.”
+
+v50: חָזַק (chazaq)
+“To prevail” or be stronger.

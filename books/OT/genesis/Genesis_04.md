@@ -82,6 +82,43 @@ v25–26: Seth’s birth does not erase Abel’s death, but it opens a new line.
 
 ##Vocabulary
 
+v1: קָנָה (qānâ)  
+“To acquire” or “get.” Eve’s naming of Cain plays on this verb, joining birth with reception from the LORD.  
+
+v2: הֶבֶל (hevel)  
+“Abel,” related to “breath” or “vapor.” The name carries a fragile, transient resonance.  
+
+v4: מִנְחָה (minḥâ)  
+“Offering” or “gift.” The word can describe a tribute or presentation brought before one greater.  
+
+v5: שָׁעָה (shāʿâ)  
+“To look with regard.” The verb concerns favorable attention, not merely seeing.  
+
+v7: חַטָּאת (ḥaṭṭāʾt)  
+“Sin.” Here sin is personified as something crouching and desiring mastery.  
+
+v7: רָבַץ (rāvaṣ)  
+
+v7: “To crouch” or “lie down.” The verb gives sin an animal-like posture of readiness.  
+
+v10: דָּם (dām)  
+“Blood.” In this verse the plural form intensifies the image of bloodshed crying from the ground.  
+
+v12: נָע וָנָד (nāʿ wā-nād)  
+“Fugitive and wanderer.” The paired terms describe unsettled existence without secure place.  
+
+v15: אוֹת (ʾôt)  
+“Sign” or “mark.” The sign given to Cain functions as protection, not merely identification.  
+
+v16: נוֹד (Nōd)  
+“Nod.” The name is related to wandering, reinforcing Cain’s exile east of Eden.  
+
+v25: שֵׁת (Šēt)  
+“Seth.” The name is connected with the verb “to appoint” or “set,” reflecting Eve’s explanation.  
+
+v26: קָרָא בְּשֵׁם יְהוָה (qārāʾ bĕ-shēm YHWH)  
+“To call upon the name of the LORD.” The phrase marks public invocation, worship, or appeal to the LORD.  
+
 v01: קָנָה (qānâ)
 “To acquire” or “get.” Eve’s naming of Cain plays on this verb, joining birth with reception from the LORD.
 

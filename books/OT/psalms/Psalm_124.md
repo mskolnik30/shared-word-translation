@@ -50,6 +50,30 @@ v8: The conclusion grounds trust in creation theology—help comes from the Crea
 
 ##Vocabulary
 
+v1: לוּלֵא (lule)  
+“If not.” Counterfactual condition.  
+
+v3: בָּלַע (bala)  
+“To swallow.” Consume completely.  
+
+v4: שֶׁטֶף (shetef)  
+“Flood.” Overwhelming flow.  
+
+v5: זֵידוֹן (zedon)  
+“Raging.” Arrogant force.  
+
+v6: טֶרֶף (teref)  
+“Prey.” Something torn or consumed.  
+
+v7: פַּח (pach)  
+“Snare.” Trap.  
+
+v8: עֵזֶר (‘ezer)  
+“Help.” Aid or support.  
+
+v8: שֵׁם (shem)  
+“Name.” Identity and authority.  
+
 v01: לוּלֵא (lule)
 “If not.” Counterfactual condition.
 

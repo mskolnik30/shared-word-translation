@@ -38,6 +38,10 @@ v8: "my family and friends" - The call for peace extends beyond national identit
 
 ##Vocabulary
 
+v4: יְהוָֽה (ye.ho.vah) - The Tetragrammaton, representing the personal name of God for Israel, often rendered "LORD" to preserve its sacredness and continuity.  
+
+v6: שְׁל֣וֹם (sha.lom) - Peace, a state of wholeness and harmony, intrinsically linked to well-being and prosperity within the community.
+
 v04: יְהוָֽה (yehovah)
 “LORD.” The divine name, represented in English by small-capital LORD.
 

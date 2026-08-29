@@ -204,8 +204,29 @@ v09: קִנְאָה (qin'ah)
 v13: חֶסֶד (ḥesed)
 “Steadfast love.” Faithful, enduring love expressed within covenant relationship.
 
+v14: נָצַל (natsal)
+“To rescue” or “deliver.” To draw someone away from danger or preserve them from destruction.
+
 v18: גָּאַל (ga'al)
 “To redeem.” To reclaim, rescue, or act as one responsible for restoring another.
 
+v20: חֶרְפָּה (cherpah)
+“Reproach” or “disgrace.” Public shame or contempt directed against a person.
+
+v21: רֹאשׁ (rosh)
+“Poison” or “gall.” A bitter or poisonous substance, used here for what the psalmist’s enemies give as food.
+
+v26: מַכְאוֹב (makh'ov)
+“Pain” or “suffering.” The anguish associated with injury or affliction.
+
+v28: מָחָה (machah)
+“To blot out” or “erase.” To remove from a written record, here used in relation to the book of the living.
+
 v29: יְשׁוּעָה (yeshuah)
 “Salvation,” “deliverance,” or “saving help.” Rescue brought by God.
+
+v30: תּוֹדָה (todah)
+“Thanksgiving.” Grateful acknowledgment expressed especially in worship and praise.
+
+v35: יָשַׁע (yasha)
+“To save” or “deliver.” To bring rescue or preservation, here applied to God’s saving of Zion.

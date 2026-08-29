@@ -66,3 +66,9 @@ v07: תְּבוּסָה (tevusah)
 
 v07: מָשַׁח (mashach)
 “To anoint.”
+
+v10: זֶרַע הַמַּמְלָכָה (zera ha-mamlakhah)
+“Royal offspring.”
+
+v11: גָּנַב (ganav)
+“To steal away” or rescue secretly.

@@ -120,3 +120,6 @@ v17: חָרַם (charam)
 
 v24: חֶסֶד (ḥesed)
 “Steadfast love,” “loyalty,” or “kindness.” Faithful action within a relationship or agreement.
+
+v28: מַס (mas)
+“Forced labor” or “tribute.” Compulsory service imposed on a subject population.

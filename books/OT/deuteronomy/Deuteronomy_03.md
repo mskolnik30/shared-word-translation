@@ -110,3 +110,15 @@ v11: עֶרֶשׂ (eres)
 
 v13: חֲצִי שֵׁבֶט (chatsi shevet)
 “Half-tribe.” Half of Manasseh receives territory east of the Jordan.
+
+v20: נוּחַ (nuach)
+“To give rest.” Settled security in the land.
+
+v22: לָחַם (lacham)
+“To fight.” The LORD fights for Israel.
+
+v23: חָנַן (chanan)
+“To plead for favor.” Moses asks the LORD for permission to cross.
+
+v28: חָזַק (chazaq)
+“To strengthen.” Joshua must be strengthened for leadership.

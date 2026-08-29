@@ -87,6 +87,43 @@ v43: Before returning to Jacob's story, Genesis records Esau's descendants in de
 
 ##Vocabulary
 
+v1: תּוֹלְדוֹת (tôlĕdôt)  
+“Generations” or “account.” A structural heading introducing a family record.  
+
+v1: אֱדוֹם (ʾĔḏôm)  
+“Edom.” Meaning “red,” associated with Esau and his descendants.  
+
+v8: שֵׂעִיר (Śeʿîr)  
+“Seir.” The mountainous region where Esau's descendants settled.  
+
+v15: אַלּוּף (ʾallûp̄)
+“Chief” or “clan leader.” A title for tribal rulers within Edom.
+
+v20: חֹרִי (ḥōrî)
+“Horite.” The people inhabiting Seir before Edomite dominance.
+
+v24: יֵמִם (yēmim)  
+
+v24: “Hot springs” (traditional interpretation). A rare term occurring only here.  
+
+v31: מֶלֶךְ (meleḵ)  
+“King.” A ruler exercising authority over a people or territory.  
+
+v33: בָּצְרָה (Boṣrâ)  
+“Bozrah.” An important Edomite city appearing elsewhere in Scripture.  
+
+v35: מִדְיָן (Miḏyān)  
+“Midian.” A neighboring people frequently mentioned in biblical history.  
+
+v40: מִשְׁפָּחָה (mišpāḥâ)  
+“Clan” or “family group.” A subdivision within a tribe or nation.  
+
+v43: אֲחֻזָּה (ʾăḥuzzâ)  
+“Possession” or “holding.” Land held as an inherited property.  
+
+v43: אָב (ʾāḇ)  
+“Father.” Here indicating ancestor and founder of a people.  
+
 v01: תּוֹלְדוֹת (tôlĕdôt)
 “Generations” or “account.” A structural heading introducing a family record.
 
@@ -95,9 +132,3 @@ v01: אֱדוֹם (ʾĔḏôm)
 
 v08: שֵׂעִיר (Śeʿîr)
 “Seir.” The mountainous region where Esau's descendants settled.
-
-v15: אַלּוּף (ʾallûp̄)
-“Chief” or “clan leader.” A title for tribal rulers within Edom.
-
-v20: חֹרִי (ḥōrî)
-“Horite.” The people inhabiting Seir before Edomite dominance.

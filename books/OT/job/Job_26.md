@@ -79,3 +79,9 @@ v07: תֹּהוּ (tohu)
 
 v10: חוּג (chug)
 “Circle” or “horizon.” A boundary drawn upon the waters.
+
+v12: רַהַב (Rahav)
+“Rahab.” A poetic chaos power associated with the sea.
+
+v13: נָחָשׁ בָּרִחַ (nachash bariach)
+“Fleeing serpent.” A cosmic serpent subdued by God.

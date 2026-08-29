@@ -142,14 +142,26 @@ v17: “leave him alone” is a severe prophetic abandonment formula directed to
 
 ##Vocabulary
 
+v01: רִיב (riv)
+“Case,” “controversy,” or “lawsuit.” Legal language for the LORD’s charge against the land.
+
 v01: אֱמֶת (emet)
 “Faithfulness” or “truth.” Reliability in relationship and conduct.
 
 v01: חֶסֶד (ḥesed)
 “Steadfast love.” Loyal, enduring covenant love.
 
+v01: דַּעַת אֱלֹהִים (da'at Elohim)
+“Knowledge of God.” Relational and covenantal knowing.
+
 v06: תּוֹרָה (torah)
 “Instruction.” The teaching of God rejected by priests and people.
 
 v12: רוּחַ זְנוּנִים (ruach zenunim)
 “Spirit of prostitution.” A metaphor for persistent covenantal unfaithfulness.
+
+v15: בֵּית אָוֶן (Bet-Aven)
+“House of wickedness/trouble.” Hosea’s polemical name for Bethel.
+
+v17: חָבַר (chavar)
+“To join” or “bind oneself.” Ephraim is joined to idols.

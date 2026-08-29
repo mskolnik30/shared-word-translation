@@ -112,3 +112,9 @@ v10: כָּבַשׁ (kavash)
 
 v15: מָשַׁח (mashach)
 “To anoint.” Here applying oil to the captives.
+
+v19: פָּרַע (para)
+“To cast off restraint.”
+
+v22: מָעַל (ma'al)
+“To act unfaithfully.”

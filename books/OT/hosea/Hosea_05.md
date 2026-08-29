@@ -120,3 +120,15 @@ v04: מַעֲלָלִים (ma'alalim)
 
 v05: גָּאוֹן (gaon)
 “Pride.” Israel’s pride becomes testimony against him.
+
+v10: גְּבוּל (gevul)
+“Boundary marker.” A territorial limit not to be moved unjustly.
+
+v12: עָשׁ (ash)
+“Moth.” A quiet image of slow but certain destruction.
+
+v13: מָזוֹר (mazor)
+“Wound” or “sore.” A condition imperial power cannot heal.
+
+v15: שָׁחַר (shachar)
+“To seek earnestly.” To seek early or diligently.

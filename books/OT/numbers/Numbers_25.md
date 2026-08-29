@@ -67,3 +67,6 @@ v11: קָנָא (qana)
 
 v12: בְּרִית שָׁלוֹם (berit shalom)
 “Covenant of peace.” The covenant promised to Phinehas.
+
+v18: נֵכֶל (nekhel)
+“Scheme” or “deception.” Deliberate strategy used against Israel.

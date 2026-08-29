@@ -65,6 +65,18 @@ v1: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can
 
 ##Vocabulary
 
+v3: קָנֶה רָצוּץ (qaneh ratsuts)  
+“Bruised reed.” An image of fragility the servant does not crush.  
+
+v1: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
+
+v6: בְּרִית (berit)  
+“Covenant.” A binding relationship shaped by promise and obligation.  
+
+v6: גּוֹיִם (goyim)  
+“Nations” or “peoples.” Peoples beyond Israel.  
+
 v03: קָנֶה רָצוּץ (qaneh ratsuts)
 “Bruised reed.” An image of fragility the servant does not crush.
 

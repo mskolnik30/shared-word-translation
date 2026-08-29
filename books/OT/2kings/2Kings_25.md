@@ -122,8 +122,29 @@ v01: דָּיֵק (dayeq)
 v03: רָעָב (ra'av)
 “Famine.” Hunger within the besieged city.
 
+v04: בָּקַע (baqa)
+“To break through.” The city wall is breached.
+
+v07: נְחֻשְׁתַּיִם (nechushtayim)
+“Bronze chains” or fetters.
+
+v08: רַב־טַבָּחִים (rav-tabbachim)
+“Captain of the guard.” Nebuzaradan’s office.
+
+v13: יָם הַנְּחֹשֶׁת (yam ha-nechoshet)
+“Bronze Sea.” Solomon’s great temple basin.
+
 v18: כֹּהֵן הָרֹאשׁ (kohen ha-rosh)
 “Chief priest.”
 
+v21: גָּלָה (galah)
+“To go into exile.”
+
+v22: פָּקַד (paqad)
+“To appoint.” Gedaliah is appointed over the remnant.
+
 v27: נָשָׂא אֶת־רֹאשׁ (nasa et-rosh)
 “To lift up the head.” An idiom of restored favor.
+
+v30: אֲרֻחָה (aruchah)
+“Allowance” or regular provision.

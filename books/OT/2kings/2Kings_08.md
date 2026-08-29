@@ -115,3 +115,21 @@ v06: תְּבוּאָה (tevuah)
 
 v08: דָּרַשׁ (darash)
 “To inquire.” Ben-Hadad seeks an oracle.
+
+v11: בּוֹשׁ (bosh)
+“To be ashamed” or embarrassed under scrutiny.
+
+v12: רָעָה (ra'ah)
+“Evil” or disaster. Elisha names Hazael’s future violence.
+
+v13: כֶּלֶב (kelev)
+“Dog.” Hazael’s self-abasing metaphor.
+
+v15: מַכְבֵּר (makhber)
+“Cover” or bedcloth. The object used in Ben-Hadad’s death.
+
+v19: נִיר (nir)
+“Lamp.” The image of continuing Davidic dynasty.
+
+v22: פָּשַׁע (pasha)
+“To rebel.” Edom breaks from Judah’s rule.

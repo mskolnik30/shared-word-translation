@@ -213,8 +213,17 @@ v35–36: The chapter concludes by placing life and death in relation to Wisdom.
 v01: חָכְמָה (chokmah)
 “Wisdom.” Skill in understanding and living rightly, here personified as a woman who speaks.
 
+v05: עָרְמָה (ormah)
+“Prudence” or “shrewdness.” The capacity to perceive circumstances and respond wisely.
+
 v07: אֱמֶת (emet)
 “Truth,” “faithfulness,” or “reliability.” Speech that is firm and trustworthy.
+
+v12: מְזִמָּה (mezimmah)
+“Discretion” or “purposeful planning.” Thoughtful capacity to plan and discern.
+
+v13: גֵּאָה (ge'ah)
+“Pride” or “exaltation.” Self-elevation condemned as incompatible with fear of the LORD.
 
 v14: תּוּשִׁיָּה (tushiyyah)
 “Sound wisdom,” “effective wisdom,” or “resourcefulness.” Wisdom capable of producing faithful and stable action.
@@ -224,3 +233,18 @@ v20: צְדָקָה (tsedaqah)
 
 v22: קָנָה (qanah)
 “To acquire,” “possess,” or “bring forth.” The verb’s range makes the precise nuance of Wisdom’s relationship to the LORD in v22 difficult to reduce to one English word.
+
+v24: חוּל (chul)
+“To be brought forth,” “writhe,” or “give birth.” Used here in birth imagery concerning Wisdom before creation.
+
+v27: חוּג (chug)
+“Circle,” “horizon,” or “vault.” A boundary or circular line drawn upon the face of the deep.
+
+v30: אָמוֹן (amon)
+“Master worker,” possibly “artisan,” “confidant,” or “nursling.” A rare and disputed term describing Wisdom beside the LORD during creation.
+
+v31: שַׁעֲשֻׁעִים (sha'ashuim)
+“Delight” or “rejoicing.” Deep pleasure or enjoyment.
+
+v35: רָצוֹן (ratson)
+“Favor,” “acceptance,” or “goodwill.” Favor received here from the LORD by the one who finds Wisdom.

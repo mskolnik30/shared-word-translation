@@ -181,3 +181,6 @@ v19: בְּרָכָה (berakhah)
 
 v20: נַחֲלָה (nachalah)
 “Inheritance.” Judah’s allotted territorial possession.
+
+v63: יָרַשׁ (yarash)
+“To dispossess” or “possess.” Judah is unable to drive out the Jebusites.

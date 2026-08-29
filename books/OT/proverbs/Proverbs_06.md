@@ -200,14 +200,38 @@ v34: “jealousy” — The term describes the intense reaction of a spouse whos
 
 ##Vocabulary
 
+v1: עָרַב (arav)  
+“To become surety” or “give a pledge.” To guarantee another person’s obligation.  
+
+v6: עָצֵל (atsel)  
+“Lazy one” or “sluggard.” One characterized by habitual failure to act when action is needed.  
+
+v11: מַחְסוֹר (machsor)
+“Need” or “lack.” A state of material insufficiency.
+
+v12: בְּלִיַּעַל (beliyya'al)  
+“Worthlessness” or “destructiveness.” A term describing deep moral corruption.  
+
+v14: מָדוֹן (madon)  
+“Conflict,” “strife,” or “contention.” Discord deliberately created between people.  
+
+v16: תּוֹעֵבָה (toevah)  
+“Abomination.” Something regarded as deeply detestable.  
+
+v23: נֵר (ner)  
+“Lamp.” A source of light, used here for the guiding function of commandment.  
+
+v26: נֶפֶשׁ יְקָרָה (nefesh yeqarah)  
+“Precious life.” A life of value that is endangered or hunted.  
+
+v32: נָאַף (na'af)
+“To commit adultery.” Sexual violation of a marriage covenant.
+
+v34: קִנְאָה (qin'ah)  
+“Jealousy” or “zeal.” Intense passion arising here from marital betrayal.  
+
 v01: עָרַב (arav)
 “To become surety” or “give a pledge.” To guarantee another person’s obligation.
 
 v06: עָצֵל (atsel)
 “Lazy one” or “sluggard.” One characterized by habitual failure to act when action is needed.
-
-v11: מַחְסוֹר (machsor)
-“Need” or “lack.” A state of material insufficiency.
-
-v32: נָאַף (na'af)
-“To commit adultery.” Sexual violation of a marriage covenant.

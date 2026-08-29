@@ -39,6 +39,12 @@ v11: “cupbearer” — The role placed Nehemiah in close proximity to the Pers
 
 ##Vocabulary
 
+v01: בִּירָה (birah)
+“Fortress” or “citadel.” A fortified royal complex; here Susa, a Persian administrative center.
+
+v03: חֶרְפָּה (cherpah)
+“Disgrace” or “reproach.” Public shame or contempt.
+
 v05: בְּרִית (berit)
 “Covenant.” A binding relationship of promise and obligation.
 
@@ -47,6 +53,9 @@ v05: חֶסֶד (ḥesed)
 
 v06: יָדָה (yadah)
 “To confess” or “give thanks.” In this context, to acknowledge sin openly before God.
+
+v09: שׁוּב (shuv)
+“To return.” To turn back, including renewed covenantal allegiance.
 
 v10: פָּדָה (padah)
 “To redeem.” To secure release or reclaim from bondage.

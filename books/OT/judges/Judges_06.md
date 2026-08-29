@@ -130,6 +130,12 @@ v01: מִדְיָן (Midyan)
 v06: דָּלַל (dalal)
 “To become low” or “impoverished.” Israel is brought into severe weakness.
 
+v12: גִּבּוֹר הֶחָיִל (gibbor he-chayil)
+“Mighty warrior” or “mighty man of valor.” The surprising title given to Gideon.
+
+v17: אוֹת (ot)
+“Sign.” A confirming mark or event.
+
 v24: שָׁלוֹם (shalom)
 “Peace,” “wholeness,” or “well-being.” Used in the altar name “The LORD Is Peace.”
 
@@ -138,3 +144,6 @@ v32: יָרַב (yarav)
 
 v34: לָבַשׁ (lavash)
 “To clothe.” Used figuratively of the Spirit enveloping Gideon.
+
+v37: גִּזָּה (gizzah)
+“Fleece.” Sheared wool used in Gideon’s requested sign.

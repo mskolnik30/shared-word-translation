@@ -110,11 +110,17 @@ v33: Josiah’s influence holds the people in public loyalty throughout his life
 v03: דָּרַשׁ (darash)
 “To seek.”
 
+v08: טָהֵר (taher)
+“To cleanse.”
+
 v12: אֱמוּנָה (emunah)
 “Faithfulness.”
 
 v14: סֵפֶר תּוֹרַת יְהוָה (sefer torat YHWH)
 “Book of the instruction of the LORD.”
+
+v27: רַךְ לֵב (rakh lev)
+“Tender heart.”
 
 v31: בְּרִית (berit)
 “Covenant.”

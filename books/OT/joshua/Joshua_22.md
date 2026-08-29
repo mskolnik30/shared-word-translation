@@ -113,8 +113,14 @@ v03: מִשְׁמֶרֶת (mishmeret)
 v16: מַעַל (ma'al)
 “Unfaithfulness.” Violation of a sacred or covenantal trust.
 
+v18: מָרַד (marad)
+“To rebel.” To rise in disobedience against authority, here against the LORD.
+
 v27: עֵד (ed)
 “Witness.” Something that testifies to a shared covenantal reality.
+
+v28: תַּבְנִית (tavnit)
+“Pattern” or “form.” The altar’s visible likeness rather than its sacrificial use.
 
 v34: עֵד (Ed)
 “Witness.” The name or function assigned to the altar as testimony that the LORD is God.

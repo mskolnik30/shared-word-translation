@@ -88,14 +88,35 @@ v05: The repeated refrain “and he died” punctuates the chapter and echoes th
 
 ##Vocabulary
 
-v01: תּוֹלְדוֹת (tôlĕdôt)
-“Generations” or “account.” A recurring structural term that introduces major sections of Genesis.
+v1: תּוֹלְדוֹת (tôlĕdôt)  
+“Generations” or “account.” A recurring structural term that introduces major sections of Genesis.  
+
+v1: דְּמוּת (dĕmût)  
+“Likeness.” Refers to resemblance or pattern, echoing humanity’s creation in relation to God.  
+
+v3: צֶלֶם (ṣelem)  
+“Image.” A term associated with representation and identity.  
+
+v22: הָלַךְ (hālak)  
+“To walk.” Often used metaphorically for one’s manner of life or relationship with God.  
+
+v24: לָקַח (lāqaḥ)  
+“To take.” The verb is simple and direct, leaving the nature of Enoch’s departure unexplained.  
 
 v29: נֹחַ (Nōaḥ)
 “Noah.” The name is linked in the text to comfort and relief, though the wordplay is not exact.
+
+v29: נָחַם (nāḥam)  
+“To comfort” or “bring relief.” The term can also carry nuances of consolation and restoration.  
 
 v29: עִצָּבוֹן (ʿiṣṣāḇôn)
 “Painful labor” or “toil.” The word recalls the consequences of the curse in Genesis 3.
 
 v29: אֲדָמָה (ʾădāmâ)
 “Ground.” The fertile earth from which humanity was formed and which now bears the effects of the curse.
+
+v32: יָלַד (yālad)  
+“To bear” or “father.” A central verb throughout genealogical narratives, emphasizing continuity between generations.  
+
+v01: תּוֹלְדוֹת (tôlĕdôt)
+“Generations” or “account.” A recurring structural term that introduces major sections of Genesis.

@@ -38,6 +38,12 @@ v6: <sup>2:6</sup> Do not fear: A recurring biblical exhortation indicating reas
 
 ##Vocabulary
 
+v1: <v01> אָדָם (a.dam): "Son of man" emphasizes the prophet's mortal nature, serving as a reminder of humility before divine commission.  
+
+v2: <v02> רוּחַ (ru.ach): Often rendered as "spirit," signifying either wind, life-force, or divine presence that empowers the prophet.  
+
+v5: <v05> נָבִיא (na.vi): Prophet, one who speaks on behalf of God, holding an authoritative role within the community.  
+
 v01: אָדָם (adam)
 “Son of man" marks the prophet's mortal nature, serving as a reminder of humility before divine commission.
 

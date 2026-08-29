@@ -61,14 +61,23 @@ v3: “Zion” — The name can refer to Jerusalem, its people, or the city pers
 
 ##Vocabulary
 
-v04: אֵת / מַזְמֵרָה (et / mazmerah)
-“Plowshare; pruning hook.” Agricultural tools named in the transformation of weapons.
+v4: אֵת (et) / מַזְמֵרָה (mazmerah)  
+“Plowshare / pruning hook.” Agricultural tools that replace weapons in the vision of peace.  
+
+v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v12: יוֹם יְהוָה (yom YHWH)
+“Day of the LORD.” A time of decisive divine action.
 
 v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v12: יוֹם יְהוָה (yom YHWH)
-“Day of the LORD.” A time of decisive divine action.
+v3: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v04: אֵת / מַזְמֵרָה (et / mazmerah)
+“Plowshare; pruning hook.” Agricultural tools named in the transformation of weapons.
 
 v03: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.

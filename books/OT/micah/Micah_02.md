@@ -124,6 +124,42 @@ v13: The LORD himself leads his people like a king and shepherd, bringing them o
 
 ##Vocabulary
 
+v1: אָוֶן (ʾāwen)  
+“Wickedness” or “evil.” Harmful and destructive wrongdoing.  
+
+v2: חָמַד (ḥāmaḏ)  
+“To covet.” To desire what belongs to another.  
+
+v2: נַחֲלָה (naḥălâ)  
+“Inheritance.” Family land received and preserved through generations.  
+
+v3: רָעָה (rāʿâ)  
+“Disaster” or “calamity.” Divine judgment brought upon wrongdoing.  
+
+v4: מָשָׁל (māšāl)  
+“Taunt” or “proverb.” A saying used in mockery or warning.  
+
+v5: גּוֹרָל (gôrāl)  
+“Lot.” A means of assigning land or determining inheritance.  
+
+v7: רוּחַ יְהוָה (rûaḥ YHWH)  
+“Spirit of the LORD.” God's active presence and power.  
+
+v9: גָּרַשׁ (gāraš)  
+“To drive out.” To expel or dispossess from a place.  
+
+v10: מְנוּחָה (mĕnûḥâ)
+“Rest.” Security, settlement, and covenant blessing.
+
+v11: כָּזָב (kāzāḇ)  
+“Falsehood.” Deceptive or untrue speech.  
+
+v12: שְׁאֵרִית (šĕʾērîṯ)  
+“Remnant.” Those preserved by God after judgment.  
+
+v13: פָּרַץ (pāraṣ)  
+“To break through.” To burst forth or open a way through an obstacle.  
+
 v01: אָוֶן (ʾāwen)
 “Wickedness” or “evil.” Harmful and destructive wrongdoing.
 
@@ -132,6 +168,3 @@ v02: חָמַד (ḥāmaḏ)
 
 v07: רוּחַ יְהוָה (rûaḥ YHWH)
 “Spirit of the LORD.” God's active presence and power.
-
-v10: מְנוּחָה (mĕnûḥâ)
-“Rest.” Security, settlement, and covenant blessing.

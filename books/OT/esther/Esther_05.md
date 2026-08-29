@@ -71,3 +71,15 @@ v03: בַּקָּשָׁה (baqqashah)
 
 v04: מִשְׁתֶּה (mishteh)
 “Feast” or “banquet,” especially a drinking feast.
+
+v09: חֵמָה (chemah)
+“Fury.” Haman’s consuming anger toward Mordecai.
+
+v10: אָפַק (afaq)
+“To restrain oneself.” Haman controls his immediate response.
+
+v13: שָׁוָה (shavah)
+“To be worth” or “profit.” Haman says all his privilege is worth nothing to him.
+
+v14: עֵץ (ets)
+“Tree” or “wood.” The structure prepared for Mordecai’s execution.

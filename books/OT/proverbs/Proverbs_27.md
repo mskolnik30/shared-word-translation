@@ -172,11 +172,23 @@ v23–27: Wisdom includes careful attention to ordinary material realities. Weal
 v01: הָלַל (halal)
 “To boast” or “praise.” Here self-confident speech about tomorrow.
 
+v04: קִנְאָה (qin'ah)
+“Jealousy” or “zeal.” Intense passion that can become overwhelming.
+
 v06: נֶאֱמָן (neeman)
 “Faithful” or “reliable.” Describing wounds given from genuine friendship.
 
+v09: עֵצָה (etsah)
+“Counsel.” Thoughtful advice arising from relationship.
+
+v17: חָדַד (chadad)
+“To sharpen.” To make keen, here used relationally.
+
 v20: אֲבַדּוֹן (Abaddon)
 “Destruction.” Paired with Sheol as an insatiable realm of death.
+
+v21: מַהֲלָל (mahalal)
+“Praise.” Commendation that itself tests character.
 
 v23: פָּנִים (panim)
 “Face” or “condition.” In the idiom, to know the “face” of the flock is to know its actual condition.

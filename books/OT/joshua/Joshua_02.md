@@ -88,3 +88,9 @@ v09: אֵימָה (emah)
 
 v12: חֶסֶד (ḥesed)
 “Steadfast love,” “loyalty,” or “kindness.” Faithful action within relationship.
+
+v12: אוֹת (ot)
+“Sign.” A confirming mark of the agreement.
+
+v18: תִּקְוַת חוּט הַשָּׁנִי (tiqvat chut ha-shani)
+“Cord of scarlet thread.” The identifying cord placed in Rahab’s window.

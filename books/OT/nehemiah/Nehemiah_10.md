@@ -92,3 +92,9 @@ v31: שַׁבָּת (shabbat)
 
 v32: שֶׁקֶל (sheqel)
 “Shekel.” A standard unit of weight used for monetary assessment.
+
+v35: רֵאשִׁית (reshit)
+“First” or “firstfruits.” The beginning portion set apart for God.
+
+v37: מַעֲשֵׂר (ma'aser)
+“Tithe.” A tenth portion given for Levitical and sacred service.

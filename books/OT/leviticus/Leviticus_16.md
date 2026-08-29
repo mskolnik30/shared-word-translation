@@ -89,5 +89,8 @@ v08: עֲזָאזֵל (Azazel)
 v16: פֶּשַׁע (pesha)
 “Transgression.” Rebellious or boundary-breaking wrongdoing.
 
+v21: וִדָּה (viddah)
+“To confess.” To speak or acknowledge wrongdoing openly.
+
 v29: עִנָּה (innah)
 “To humble” or “afflict.” Here describing the required self-denial of the Day of Atonement.

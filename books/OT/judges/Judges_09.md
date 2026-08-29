@@ -198,3 +198,12 @@ v15: אָטָד (atad)
 
 v23: רוּחַ רָעָה (ruach ra'ah)
 “Evil spirit.” A destructive spirit producing hostility between former allies.
+
+v24: חָמָס (chamas)
+“Violence.” Wrongful bloodshed brought back upon those responsible.
+
+v45: מֶלַח (melach)
+“Salt.” Scattered over conquered Shechem as an image of devastation.
+
+v53: פֶּלַח רֶכֶב (pelach rekhev)
+“Upper millstone.” A heavy rotating stone used for grinding grain.

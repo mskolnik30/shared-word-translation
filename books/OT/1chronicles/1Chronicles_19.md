@@ -70,14 +70,23 @@ v18: The Hebrew reads “seven thousand chariot troops” and “forty thousand 
 
 ##Vocabulary
 
+v2: חֶסֶד (*ḥesed*)  
+— “kindness.” David’s intended action toward Hanun is rooted in remembered loyalty between their fathers, setting the later suspicion in sharp contrast.  
+
+v6: הִתְבָּאֲשׁוּ (*hitbaʾăšû*)  
+— “they had become hateful.” The Ammonites recognize that their act of humiliation has made them abhorrent to David and has brought them into danger.  
+
+v12: תְּשׁוּעָה (tĕšûʿâ)
+“help” or “deliverance.” Joab uses the term for the practical rescue each division may provide to the other in battle.
+
+v13: חֲזַק … נִתְחַזְּקָה (*ḥazaq … nitḥazzaqâ*)  
+— “be strong … let us be strong.” The repeated root gives Joab’s appeal urgency and mutuality: personal courage becomes shared resolve.  
+
+v19: וַיַּשְׁלִימוּ (wayyašlîmû)
+“they made peace.” Hadadezer’s servants move from warfare to a settled relationship with David, expressed immediately in their service to him.
+
 v02: חֶסֶד (ḥesed)
 “kindness.” David’s intended action toward Hanun is rooted in remembered loyalty between their fathers, setting the later suspicion in sharp contrast.
 
 v06: הִתְבָּאֲשׁוּ (hitbaʾăšû)
 “they had become hateful.” The Ammonites recognize that their act of humiliation has made them abhorrent to David and has brought them into danger.
-
-v12: תְּשׁוּעָה (tĕšûʿâ)
-“help” or “deliverance.” Joab uses the term for the practical rescue each division may provide to the other in battle.
-
-v19: וַיַּשְׁלִימוּ (wayyašlîmû)
-“they made peace.” Hadadezer’s servants move from warfare to a settled relationship with David, expressed immediately in their service to him.

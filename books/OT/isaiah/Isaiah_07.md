@@ -83,6 +83,42 @@ v23–25: “briers and thorns… cattle… sheep” — The land imagery is cov
 
 ##Vocabulary
 
+v1: אָחָז (’Achaz) — Ahaz
+
+v2: בֵּית דָּוִד (bet David) — house of David
+
+v2: לֵב (lev) — heart; inner self; will
+
+v2: רוּחַ (ruach) — wind; spirit; breath
+
+v3: שְׁאָר יָשׁוּב (She’ar-yashub) — “A remnant shall return”
+
+v4: יָרֵא (yare) — to fear; to be afraid
+
+v4: לֵבָב (levav) — heart; inner resolve (variant form)
+
+v6: בָּקַע (baqaʿ) — to split open; to breach
+
+v7: קוּם (qum) — to stand; to arise; to be established
+
+v9: אָמַן (’aman) — to be firm; to stand fast; to trust
+
+v11: אוֹת (’ot) — sign; mark; portent
+
+v12: נָסָה (nasah) — to test; to try
+
+v14: עַלְמָה (ʿalmah) — young woman (of marriageable age)
+
+v14: עִמָּנוּ אֵל (ʿImmanu ’El) — “God is with us”
+
+v17: אַשּׁוּר (Ashshur) — Assyria
+
+v18: שָׁרַק (sharaq) — to whistle; to hiss (a summons)
+
+v23: קוֹץ (qots) — thorn
+
+v23: שָׁמִיר (shamir) — brier; thorny growth
+
 v01: אָחָז (’Achaz)
 “Ahaz.”
 

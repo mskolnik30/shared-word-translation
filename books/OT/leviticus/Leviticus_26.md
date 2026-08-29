@@ -127,5 +127,17 @@ v11: מִשְׁכָּן (mishkan)
 v15: גָּעַל (ga'al)
 “To abhor” or “reject.” Strong revulsion expressed in covenantal relationship.
 
+v21: קֶרִי (qeri)
+“Opposition,” “hostility,” or possibly “contrariness.” A rare and difficult term repeated through the judgment sequence.
+
 v25: נְקַם־בְּרִית (neqam berit)
 “Vengeance of the covenant.” Judgment associated with violation of the covenant bond.
+
+v26: מַטֵּה־לֶחֶם (matteh lechem)
+“Staff of bread.” A metaphor for the sustaining supply of food.
+
+v36: מֹרֶךְ (morekh)
+“Faintness” or “timidity.” Inner collapse producing fear even where no pursuer is present.
+
+v41: לֵבָב עָרֵל (levav arel)
+“Uncircumcised heart.” An image of inward resistance that must be humbled.

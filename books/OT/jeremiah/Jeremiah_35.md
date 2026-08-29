@@ -73,8 +73,14 @@ v02: רֵכָבִים (Rekhabim)
 v06: צִוָּה (tsivvah)
 “To command.” Jonadab’s instruction is repeatedly described as binding within the clan.
 
+v07: גּוּר (gur)
+“To sojourn” or “reside as an outsider.” The Rechabites live without permanent landed settlement.
+
 v13: מוּסָר (musar)
 “Discipline” or “instruction.” Correction that should produce attentive obedience.
+
+v14: קוּם (qum)
+“To establish” or “carry out.” The Rechabites have maintained their ancestor’s words.
 
 v19: עָמַד לְפָנַי (amad lefanai)
 “To stand before me.” An idiom of service, access, or enduring presence.

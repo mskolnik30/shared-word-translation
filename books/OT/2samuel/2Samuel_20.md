@@ -125,5 +125,23 @@ v01: חֵלֶק (cheleq)
 v02: דָּבַק (davaq)
 “To cling.” Judah remains attached to David.
 
+v03: אַלְמְנוּת חַיּוּת (almenut chayyut)
+“Living widowhood.” A rare phrase for the concubines’ condition.
+
+v06: נָצַל מֵעֵינֵינוּ (natsal me-eineinu)
+“To escape from our eyes.” David fears Sheba securing refuge.
+
+v09: שָׁלוֹם (shalom)
+“Well-being.” Joab’s deceptive greeting to Amasa.
+
+v15: סֹלְלָה (solelah)
+“Siege mound.” Earthwork built against a city.
+
+v19: אֵם בְּיִשְׂרָאֵל (em be-Yisrael)
+“Mother in Israel.” The wise woman’s description of the city.
+
+v19: נַחֲלַת יְהוָה (nachalat YHWH)
+“LORD’s inheritance.” Israel as the people belonging to God.
+
 v22: חָכְמָה (chokhmah)
 “Wisdom.” The woman’s means of saving the city.

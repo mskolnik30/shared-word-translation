@@ -139,6 +139,57 @@ v22: “pain… mourns” — The chapter ends in embodied sorrow: suffering col
 
 ##Vocabulary
 
+v1: אָדָם (’adam) — human being; humanity
+
+v1: עָמָל (ʿamal) — trouble; toil; sorrow
+
+v2: צִיץ (tsits) — flower; blossom
+
+v2: צֵל (tsel) — shadow
+
+v3: מִשְׁפָּט (mishpat) — judgment; justice; legal decision
+
+v4: טָהוֹר (tahor) — clean; pure
+
+v4: טָמֵא (ṭame’) — unclean; defiled
+
+v5: חֹק (ḥoq) — limit; decree; fixed boundary
+
+v6: שָׂכִיר (sakhir) — hired worker; day laborer
+
+v7: תִּקְוָה (tiqvah) — hope
+
+v7: חָלַף (ḥalaf) — to sprout again; to renew; to change
+
+v9: רֵיחַ (reiaḥ) — scent; smell
+
+v10: גָּוַע (gavaʿ) — to breathe one’s last; to expire
+
+v10: אָיֵה (’ayyeh) — where? (lament question)
+
+v12: עוּר (ʿur) — to awake; to rouse
+
+v13: זָכַר (zakar) — to remember
+
+v13: שְׁאוֹל (she’ol)
+“Sheol; the grave; realm of the dead.”
+
+v14: צָבָא (tsava’) — service; hard service; appointed term
+
+v14: חֲלִיפָה (ḥalifah) — change; renewal; relief (release)
+
+v15: כָּסַף (kasaf) — to long for; to yearn
+
+v17: פֶּשַׁע (peshaʿ) — rebellion; transgression
+
+v17: עָוֹן (ʿavon) — iniquity; guilt; twisted wrongdoing
+
+v19: שָׁחַק (shaḥaq) — to wear away; to erode; to grind down
+
+v20: שָׁלַח (shalach) — to send away; to dismiss
+
+v22: נֶפֶשׁ (nefesh) — life; self; whole being
+
 v03: מִשְׁפָּט (mishpat)
 “Judgment; justice; legal decision.”
 
@@ -147,6 +198,3 @@ v04: טָהוֹר (tahor)
 
 v04: טָמֵא (ṭame’)
 “Unclean; defiled.”
-
-v13: שְׁאוֹל (she’ol)
-“Sheol; the grave; realm of the dead.”

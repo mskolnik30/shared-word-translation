@@ -131,6 +131,110 @@ v22–23: Final warning and promise—rightly ordered life and thanksgiving alig
 
 ##Vocabulary
 
+v1: אֵל (ʾēl)  
+
+“God.” Mighty one.
+
+v1: דִּבֶּר (dibbēr)  
+
+“To speak.” To declare with authority.
+
+v1: קָרָא (qārāʾ)  
+
+“To summon.” To call formally.
+
+v2: צִיּוֹן (ṣiyyôn)  
+
+“Zion.” Place of divine presence.
+
+v3: אֵשׁ (ʾēš)  
+
+“Fire.” Consuming force.
+
+v3: סְעָרָה (sĕʿārāh)  
+
+“Storm.” Violent whirlwind.
+
+v4: שָׁפַט (šāpaṭ)  
+
+“To judge.” To render decision.
+
+v5: חָסִיד (ḥāsîḏ)  
+
+“Faithful one.” Loyal, devoted.
+
+v5: בְּרִית (berît)  
+
+“Covenant.” Binding agreement.
+
+v8: זֶבַח (zeḇaḥ)  
+
+“Sacrifice.” Slaughtered offering.
+
+v9: פָּר (pār)  
+
+“Bull.” Animal for sacrifice.
+
+v10: בְּהֵמָה (bĕhēmāh)  
+
+“Beast.” Animal of the field.
+
+v11: עוֹף (ʿôp̄)  
+
+“Bird.” Winged creature.
+
+v12: תֵּבֵל (tēḇēl)  
+
+“World.” Inhabited earth.
+
+v14: תּוֹדָה (tôḏāh)  
+
+“Thanksgiving.” Gratitude offering.
+
+v14: נֶדֶר (neḏer)  
+
+“Vow.” Promised offering.
+
+v15: קָרָא (qārāʾ)  
+
+“To call.” To invoke.
+
+v15: חָלַץ (ḥālaṣ)  
+
+“To deliver.” To rescue.
+
+v16: חֹק (ḥōq)  
+
+“Statute.” Prescribed rule.
+
+v17: מוּסָר (mûsār)  
+
+“Instruction.” Discipline, correction.
+
+v19: רְמִיָּה (rĕmiyyāh)  
+
+“Deceit.” Treachery.
+
+v20: דִּבָּה (dibbāh)  
+
+“Slander.” Harmful report.
+
+v21: יָכַח (yāḵaḥ)  
+
+“To rebuke.” To reprove.
+
+v22: טָרַף (ṭārap̄)  
+
+“To tear.” To rend violently.
+
+v23: דֶּרֶךְ (dereḵ)  
+
+“Way.” Course of life.
+
+v23: יְשׁוּעָה (yĕšûʿāh)  
+
+“Salvation.” Deliverance.
+
 v05: חָסִיד (ḥāsîḏ)
 “Faithful one.” Loyal, devoted.
 

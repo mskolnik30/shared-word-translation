@@ -114,3 +114,9 @@ v07: תְּחִנָּה (techinnah)
 
 v18: דְּיוֹ (deyo)
 “Ink.” The writing material used on the scroll.
+
+v23: תַּעַר הַסֹּפֵר (ta'ar ha-sofer)
+“Scribe’s knife.” A cutting tool used by the king to destroy the scroll.
+
+v32: יָסַף (yasaf)
+“To add.” Many further words are added to the rewritten scroll.

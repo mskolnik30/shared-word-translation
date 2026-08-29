@@ -109,8 +109,14 @@ v01: צָבָא (tsava)
 v03: שָׁוְא (shav)
 “Emptiness” or “vanity.” The character of Job’s allotted months.
 
+v05: רִמָּה (rimmah)
+“Worm.” Part of Job’s description of his diseased skin.
+
 v07: רוּחַ (ruach)
 “Breath,” “wind,” or “spirit.” Here the fleeting character of life.
 
 v09: שְׁאוֹל (Sheol)
 “Sheol.” The realm of the dead.
+
+v20: נֹצֵר הָאָדָם (notser ha-adam)
+“Watcher of humanity.” Job’s challenging designation for God’s constant attention.

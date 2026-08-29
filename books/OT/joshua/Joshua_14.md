@@ -63,5 +63,11 @@ v07: רָגַל (ragal)
 v08: מָלֵא אַחֲרֵי (male acharei)
 “To fully follow.” Literally to fill after, expressing complete loyalty.
 
+v09: נַחֲלָה (nachalah)
+“Inheritance.” A lasting territorial possession.
+
+v12: עֲנָקִים (Anakim)
+“Anakim.” A people remembered for great stature and fortified cities.
+
 v13: בָּרַךְ (barakh)
 “To bless.” Joshua blesses Caleb before giving Hebron.

@@ -112,3 +112,12 @@ v12: רָחַם (racham)
 
 v14: קָנָא (qana)
 “To be jealous” or “zealous.” Intense commitment associated here with the LORD’s concern for Jerusalem and Zion.
+
+v16: קַו (qav)
+“Line” or “measuring line.” An instrument used for measuring and construction.
+
+v18: קֶרֶן (qeren)
+“Horn.” A symbol of strength or power, especially when used figuratively of nations or rulers.
+
+v20: חָרָשׁ (charash)
+“Craftsman” or “artisan.” One skilled in working materials such as wood, stone, or metal.

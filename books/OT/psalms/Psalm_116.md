@@ -99,17 +99,55 @@ v16: מוֹסֵר (moser) — bond; fetter; restraint
 v17–19: “sacrifice of thanksgiving… courts… Jerusalem” — Deliverance culminates in shared praise; private rescue becomes communal liturgy.
 
   ## Vocabulary
+
 v01: אָהַב (’ahav) — to love
+
 v01: תַּחֲנוּן (taḥanun) — plea for mercy; supplication
+
 v02: נָטָה (natah) — to incline; to lean toward
+
+v03: חֶבֶל (ḥevel) — cord; rope; snare
+
+v03: מָוֶת (mavet) — death
+
+v03: שְׁאוֹל (she’ol) — Sheol; the grave; the realm of the dead
+
+v04: קָרָא (qara) — to call; to cry out
+
+v04: נֶפֶשׁ (nefesh) — life; throat; whole being
+
+v05: חַנּוּן (ḥannun) — gracious
+
+v05: צַדִּיק (tsaddiq) — righteous; just
+
+v05: רַחוּם (raḥum) — compassionate; merciful
+
+v06: פֶּתִי (peti) — simple; unguarded; inexperienced
+
+v07: מְנוּחָה (menuḥah) — rest; repose
+
+v08: דִּמְעָה (dim‘ah) — tear
+
+v08: דָּחָה (dachah) — to stumble; to be pushed down
+
 v10: אָמַן (’aman) — to trust; to be firm
+
 v13: כּוֹס (kos) — cup
+
 v13: יְשׁוּעָה (yeshu‘ah) — salvation; deliverance
+
 v14: נֶדֶר (neder) — vow
+
+v15: יָקָר (yaqar) — precious; weighty; costly
+
+v16: עֶבֶד (ʿeved) — servant; slave
+
+v16: מוֹסֵר (moser) — bond; fetter; restraint
+
 v17: תּוֹדָה (todah) — thanksgiving; thank-offering
+
 v19: הַלְלוּ־יָהּ (hallelu-yah) — “Praise the LORD!”
   
-
 ##Vocabulary
 
 v01: תַּחֲנוּן (taḥanun)

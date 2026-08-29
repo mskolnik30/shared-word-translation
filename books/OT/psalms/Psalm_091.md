@@ -72,6 +72,27 @@ v14–16: God speaks. The promise is not immunity from trouble. "I will be with 
 
 ##Vocabulary
 
+v1: סֵתֶר (sēter) — A hidden place, a covering, the inside of a shelter where one cannot be seen.
+
+v1: עֶלְיוֹן (ʿElyôn) — Most High. An archaic name for God, linked to the highest sovereignty over heaven and earth.
+
+v1: שַׁדַּי (Šadday) — Almighty. An ancient name often associated with the patriarchs; its precise etymology is uncertain and the translation preserves the traditional rendering.
+
+v2: מַחְסֶה (maḥseh) — Refuge. A place where one runs and is received.
+
+v2: מְצוּדָה (məṣûdâ) — Stronghold, fortress. A built place of defense, not merely a hiding place.
+
+v4: אֵבֶר (ʾēḇer) — Pinion. The long flight feathers of a bird, naming the strongest part of the wing.
+
+v4: סֹחֵרָה (sōḥērâ) — A small encircling shield or rampart. The word appears only here in the Hebrew Scriptures.
+
+v9: מָעוֹן (māʿôn) — Dwelling, habitation. A word also used of God's own dwelling.
+
+v14: חָשַׁק (ḥāšaq) — To bind oneself to in love, to cling. The verb names attachment as well as affection.
+
+v16: יְשׁוּעָה (yəšûʿâ)
+“Salvation, deliverance. The term names rescue rather than a state of being saved.”
+
 v01: סֵתֶר (sēter)
 “A hidden place, a covering, the inside of a shelter where one cannot be seen.”
 
@@ -80,6 +101,3 @@ v01: עֶלְיוֹן (ʿElyôn)
 
 v01: שַׁדַּי (Šadday)
 “Almighty; Shaddai.” A traditional divine title whose precise etymology remains uncertain.
-
-v16: יְשׁוּעָה (yəšûʿâ)
-“Salvation, deliverance. The term names rescue rather than a state of being saved.”

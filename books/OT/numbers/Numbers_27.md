@@ -75,3 +75,6 @@ v11: מִשְׁפַּט (mishpat)
 
 v18: רוּחַ (ruach)
 “Spirit,” “wind,” or “breath.” Here describing what is in Joshua as he is chosen.
+
+v20: הוֹד (hod)
+“Authority,” “majesty,” or “splendor.” A share of Moses’ public authority placed upon Joshua.

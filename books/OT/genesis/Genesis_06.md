@@ -63,6 +63,43 @@ v22: Noah’s obedience is stated simply and completely. The narrative emphasize
 
 ##Vocabulary
 
+v2: בְּנֵי הָאֱלֹהִים (bĕnê hāʾĕlōhîm)  
+“Sons of God.” A phrase whose precise referent remains debated and intentionally unresolved in the text.  
+
+v3: רוּחַ (rûaḥ)  
+
+v3: “Spirit,” “breath,” or “wind.” The word carries a range of meanings and often signifies life-giving divine activity.  
+
+v4: נְפִלִים (nĕphîlîm)  
+“Nephilim.” A rare term preserved as a name rather than translated due to its uncertainty.  
+
+v5: יֵצֶר (yēṣer)  
+“Inclination” or “formation.” Refers to the shaping of thought and intention within the heart.  
+
+v6: נָחַם (nāḥam)  
+“To regret,” “be sorry,” or “be moved with sorrow.” The term expresses profound emotional response.  
+
+v8: חֵן (ḥēn)  
+“Favor” or “grace.” Indicates acceptance or goodwill bestowed by another.  
+
+v9: צַדִּיק (ṣaddîq)  
+“Righteous.” One whose life aligns with covenantal faithfulness and justice.  
+
+v11: חָמָס (ḥāmās)  
+“Violence.” A broad term encompassing wrongdoing, injustice, and destructive force.  
+
+v14: תֵּבָה (tēḇâ)  
+“Ark.” Used only for Noah’s ark and later for the basket that preserves Moses.  
+
+v17: מַבּוּל (mabbûl)  
+“Flood.” A specialized term used for the great deluge narrative.  
+
+v18: בְּרִית (bĕrît)
+“Covenant.” A binding relationship established and sustained by divine commitment.
+
+v22: צִוָּה (ṣiwwâ)  
+“To command.” The verb highlights Noah’s response to divine instruction.  
+
 v04: נְפִלִים (nĕphîlîm)
 “Nephilim.” A rare term preserved as a name rather than translated due to its uncertainty.
 
@@ -71,6 +108,3 @@ v08: חֵן (ḥēn)
 
 v09: צַדִּיק (ṣaddîq)
 “Righteous; just.” One characterized by right conduct or right standing.
-
-v18: בְּרִית (bĕrît)
-“Covenant.” A binding relationship established and sustained by divine commitment.

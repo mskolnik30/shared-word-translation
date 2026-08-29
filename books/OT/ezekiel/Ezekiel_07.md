@@ -58,11 +58,15 @@ v9: v9 The repetition of the expression "my eye will not spare, nor will I have 
 
 ##Vocabulary
 
+v2: v2 קֵץ (qets) - Translated as "end," this term suggests finality and the irreversible conclusion against which the people's iniquity is brought to account.  
+
+v26: v26 חָזוֹן (cha.zon) - Meaning "vision," this refers to revelation typically received by prophets. The absence of vision indicates a dire spiritual drought.  
+
+v26: חָזוֹן (chazon)
+“Vision.” A prophetic vision or revelatory sight.
+
 v01: דָבָר (davar)
 “Word; matter.” In the prophetic formula it denotes the word that comes from the LORD.
 
 v02: קֵץ (qets)
 “End.” Suggests finality and the irreversible conclusion against which the people's iniquity is brought to account.
-
-v26: חָזוֹן (chazon)
-“Vision.” A prophetic vision or revelatory sight.

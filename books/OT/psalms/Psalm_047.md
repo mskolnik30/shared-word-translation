@@ -56,6 +56,36 @@ v9: “Shields” functions as a metonym for rulers or powers. Authority ultimat
 
 ##Vocabulary
 
+v1: תָּקַע (taqaʿ)  
+“To clap” or “to strike.” Often associated with public or communal expression.  
+
+v2: עֶלְיוֹן (ʿelyon)  
+“Most High.” A title emphasizing exalted status and supremacy.  
+
+v2: נוֹרָא (noraʾ)  
+“Fearsome” or “awesome.” Denotes reverent dread before divine power.  
+
+v3: דָּבַר (davar, here in form יַדְבֵּר)  
+“To subdue” or “to bring under.” Suggests ordering or placing under authority.  
+
+v4: נַחֲלָה (naḥalah)  
+“Inheritance.” Often tied to land, promise, and covenant identity.  
+
+v5: עָלָה (ʿalah)  
+“To go up.” Used for ascent, whether physical, liturgical, or symbolic.  
+
+v6: זָמַר (zamar)  
+“To sing praise.” A term frequently associated with musical worship.  
+
+v7: מַשְׂכִּיל (maskil)  
+“With understanding” or “skillfully.” Can refer to insight, instruction, or ordered performance.  
+
+v8: מָלַךְ (malak)  
+“To reign.” Indicates active kingship rather than abstract status.  
+
+v9: מָגֵן (magen)  
+“Shield.” Often used metaphorically for rulers, protection, or authority.  
+
 v01: תָּקַע (taqaʿ)
 “To clap” or “to strike.” Often associated with public or communal expression.
 

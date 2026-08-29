@@ -126,5 +126,17 @@ v05: דַּי (day)
 v06: כָּלָא (kala)
 “To restrain” or “hold back.” The people are stopped from bringing more.
 
+v08: מִשְׁכָּן (mishkan)
+“Dwelling.” The sanctuary structure.
+
+v13: קֶרֶס (qeres)
+“Clasp.” A fitting joining curtain sets.
+
+v20: קֶרֶשׁ (qeresh)
+“Frame.” Upright structural element.
+
+v31: בְּרִיחַ (beriach)
+“Crossbar.” Horizontal bar connecting the frames.
+
 v35: פָּרֹכֶת (parokhet)
 “Veil.” The inner curtain marking the Most Holy Place.

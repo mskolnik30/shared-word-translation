@@ -166,17 +166,29 @@ v60–63: **16:60–63:** Judgment does not have the final word. God remembers a
 
 ##Vocabulary
 
-v08: בְּרִית (berit)
-“Covenant.: The term marks the relationship initiated by God with Jerusalem.” It returns in verses 59–62, framing the chapter’s movement from covenant-breaking to God’s establishment of an everlasting covenant.
+v8: בְּרִית (*berit*) — covenant.: The term marks the relationship initiated by God with Jerusalem. It returns in verses 59–62, framing the chapter’s movement from covenant-breaking to God’s establishment of an everlasting covenant.  
+
+v15: זָנָה (*zanah*) — to prostitute oneself.: Repeated throughout the chapter, this verb gives the controlling metaphor for Jerusalem’s covenantal betrayal through idolatry and foreign alliances.  
 
 v15: זָנָה (zanah)
 “To prostitute oneself.” The repeated verb supplies the chapter’s controlling metaphor for Jerusalem’s unfaithfulness.
 
+v16: בָּמָה (*bamah*) — high place.: These elevated cultic sites become symbols of Jerusalem’s misuse of gifts received from God for idolatrous worship.  
+
+v36: נְחֹשֶׁת (*neḥoshet*) — lust, sexual arousal.: The word can also mean “bronze” elsewhere, but here it names the exposed, unrestrained desire associated with Jerusalem’s prostitution.  
+
+v49: עָוֹן (*avon*) — iniquity, guilt.: Sodom’s *avon* is specified in social as well as cultic terms: pride, abundance, ease, and neglect of the poor and needy.  
+
 v49: עָוֹן (avon)
 “Iniquity; guilt.” The term here introduces the wrong attributed to Sodom.
+
+v60: עוֹלָם (*olam*) — everlasting, enduring.: In “everlasting covenant,” the word gives the final promise a horizon beyond the immediate judgment.  
 
 v60: עוֹלָם (olam)
 “Everlasting; enduring.” In “everlasting covenant,” the term extends the promise beyond the immediate judgment.
 
 v63: כִּפֶּר (kipper)
 “Make atonement.: The final divine action is atonement for Jerusalem’s deeds.” The chapter closes not with Jerusalem repairing the breach, but with God acting to cover or purge its guilt.
+
+v08: בְּרִית (berit)
+“Covenant.: The term marks the relationship initiated by God with Jerusalem.” It returns in verses 59–62, framing the chapter’s movement from covenant-breaking to God’s establishment of an everlasting covenant.

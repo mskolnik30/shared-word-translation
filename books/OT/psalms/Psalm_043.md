@@ -67,3 +67,9 @@ v03: אוֹר (or)
 
 v03: אֱמֶת (emet)
 “Truth,” “faithfulness,” or “reliability.” That which is firm, dependable, and true.
+
+v04: שִׂמְחָה (simchah)
+“Joy” or “gladness.” Rejoicing associated here with approaching God in worship.
+
+v05: יָחַל (yachal)
+“To hope” or “wait expectantly.” The repeated command of Psalms 42–43 directs the distressed self toward God.

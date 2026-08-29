@@ -85,3 +85,9 @@ v06: עֶבֶד (eved)
 
 v09: קֹסֵם (qosem)
 “Diviner.” One seeking hidden knowledge through divination.
+
+v11: עָבַד (avad)
+“To serve” or “work.” The same verb can describe serving Babylon and working the land.
+
+v18: פָּגַע (paga)
+“To intercede” or “entreat.” To appeal to the LORD on behalf of others.

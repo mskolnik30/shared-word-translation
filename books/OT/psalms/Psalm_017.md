@@ -103,6 +103,66 @@ v15: Final hope is not material but relational—seeing God’s face and bearing
 
 ##Vocabulary
 
+v1: צֶדֶק (ṣedeq)  
+
+“Righteousness/justice.” Conformity to right order.
+
+v1: רִנָּה (rinnāh)  
+
+“Cry.” A ringing plea or shout.
+
+v2: מִשְׁפָּט (mišpāṭ)  
+
+“Judgment.” Legal decision or vindication.
+
+v3: בָּחַן (bāḥan)  
+
+“To test.” To examine for integrity.
+
+v3: פָּקַד (pāqaḏ)  
+
+“To visit.” To attend, often for inspection.
+
+v4: פָּרִיץ (pārîṣ)  
+
+“Violent.” One who breaks through or oppresses.
+
+v5: תָּמַךְ (tāmaḵ)  
+
+“To hold fast.” To support, sustain.
+
+v7: חֶסֶד (ḥeseḏ)  
+
+“Steadfast love.” Loyal, covenantal love.
+
+v8: אִישׁוֹן (ʾîšôn)  
+
+“Pupil (of the eye).” Center of sight, object of care.
+
+v8: צֵל (ṣēl)  
+
+“Shadow.” Protective covering.
+
+v10: חֵלֶב (ḥēleḇ)  
+
+“Fat.” Here metaphor for insensibility, closed heart.
+
+v12: כְּפִיר (kĕp̄îr)  
+
+“Young lion.” Symbol of aggressive strength.
+
+v13: קָדַם (qāḏam)  
+
+“To confront.” To meet, oppose directly.
+
+v14: חֵלֶק (ḥēleq)  
+
+“Portion.” Allotted share or inheritance.
+
+v15: תְּמוּנָה (tĕmûnāh)  
+
+“Likeness.” Form, visible representation.
+
 v01: צֶדֶק (ṣedeq)
 “Righteousness/justice.” Conformity to right order.
 

@@ -28,6 +28,9 @@ v08: “peace” — Hebrew *shalom* describes wholeness, well-being, and restor
 ##Vocabulary
 
 v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)
+“LORD of Hosts.” A divine title emphasizing sovereign command.
+
+v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
 v08: שָׁלוֹם (shalom)

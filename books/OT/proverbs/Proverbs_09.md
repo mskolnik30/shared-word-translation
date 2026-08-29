@@ -112,8 +112,23 @@ v01: חָכְמוֹת (chokhmot)
 v04: חֲסַר־לֵב (chasar lev)
 “Lacking sense.” Literally “lacking heart,” referring to deficient judgment or discernment.
 
+v06: בִּינָה (binah)
+“Understanding” or “insight.” The ability to perceive distinctions and live accordingly.
+
 v07: לֵץ (lets)
 “Scoffer.” One who treats correction, wisdom, or what is right with contempt.
 
 v10: יִרְאַת יְהוָה (yirat YHWH)
 “Fear of the LORD.” Reverent recognition of the LORD that forms the foundation of wisdom.
+
+v10: קָדוֹשׁ (qadosh)
+“Holy One” or “holy.” Set apart in divine holiness.
+
+v13: כְּסִילוּת (kesilut)
+“Folly.” Moral and practical foolishness personified here as a woman.
+
+v18: רְפָאִים (rephaim)
+“The dead” or “departed shades.” Those associated poetically with the realm of death.
+
+v18: שְׁאוֹל (Sheol)
+“Sheol.” The Hebrew realm of the dead.

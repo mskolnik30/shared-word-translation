@@ -161,8 +161,20 @@ v01–22: The chapter is an alphabetic acrostic in Hebrew. As in chapter 2, two 
 
 ##Vocabulary
 
+v01: זָהָב (zahav)
+“Gold.” Precious metal used here as an image of lost splendor and value.
+
+v02: פָּז (paz)
+“Fine gold.” Refined or especially valuable gold.
+
+v03: תַּנִּים (tannim)
+“Jackals.” Wild animals invoked here in a comparison concerning care for offspring.
+
 v06: עָוֹן (avon)
 “Guilt,” “iniquity,” or “wrong.” Wrongdoing together with the burden or consequence attached to it.
+
+v07: נָזִיר (nazir)
+“Consecrated one” or “Nazirite.” One marked by special consecration.
 
 v10: רַחֲמָנִיּוֹת (rachamaniyyot)
 “Compassionate.” Characterized by deep mercy or tender care.
@@ -170,5 +182,11 @@ v10: רַחֲמָנִיּוֹת (rachamaniyyot)
 v13: צַדִּיק (tsaddiq)
 “Righteous person.” One who is right or just.
 
+v16: פְּנֵי יְהוָה (pene YHWH)
+“The face of the LORD.” Divine presence or attention, here associated with scattering.
+
 v20: מְשִׁיחַ (mashiach)
 “Anointed one.” One set apart by anointing, here referring to the royal figure.
+
+v21: כּוֹס (kos)
+“Cup.” A vessel used metaphorically for an allotted experience, especially judgment.

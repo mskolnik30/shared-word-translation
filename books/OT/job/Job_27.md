@@ -108,3 +108,9 @@ v05: תֻּמָּה (tummah)
 
 v06: צְדָקָה (tsedaqah)
 “Righteousness.” Job holds fast to his righteous standing.
+
+v08: חָנֵף (chanef)
+“Godless” or “profane.” The one whose hope fails at death.
+
+v13: עָרִיץ (arits)
+“Ruthless person” or “tyrant.” One characterized by oppressive power.

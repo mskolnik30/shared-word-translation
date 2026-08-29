@@ -103,5 +103,23 @@ v02: רָעָה (ra'ah)
 v03: בְּרִית (berit)
 “Covenant.” The agreement between David and Israel’s elders.
 
+v06: יְבוּסִי (Yevusi)
+“Jebusite.” The people inhabiting Jerusalem before David’s capture.
+
+v09: מִלּוֹא (Millo)
+“Millo.” A fortification or filled structure in Jerusalem.
+
+v19: שָׁאַל בַּיהוָה (sha'al ba-YHWH)
+“To inquire of the LORD.”
+
+v20: פָּרַץ (parats)
+“To break through.” The verb behind Baal-Perazim.
+
 v23: בְּכָאִים (bekha'im)
 “Balsam trees” or another tree species. Exact identification is uncertain.
+
+v24: צְעָדָה (tse'adah)
+“Marching” or “stepping.” The sound in the tree tops.
+
+v25: נָכָה (nakhah)
+“To strike.” Used of David’s victory over the Philistines.

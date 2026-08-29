@@ -101,10 +101,31 @@ v27: The human sacrifice is the climax of the chapter’s horror. The phrase “
 ##Vocabulary
 
 v04: נֹקֵד (noqed)
+“Sheep breeder.” Mesha’s pastoral role.
+
+v04: נֹקֵד (noqed)
 “Sheep breeder.” Mesha is described as a breeder or keeper of sheep.
 
 v05: פָּשַׁע (pasha)
 “To rebel.” Moab rejects Israelite rule.
+
+v11: יָצַק מַיִם (yatsaq mayim)
+“To pour water.” A servant’s act associated with Elisha’s ministry to Elijah.
+
+v15: מְנַגֵּן (menaggen)
+“Musician.” One who plays an instrument.
+
+v15: יַד יְהוָה (yad YHWH)
+“Hand of the LORD.” Prophetic power coming upon Elisha.
+
+v16: גֵּב (gev)
+“Ditch” or trench. The valley is to be cut with channels.
+
+v19: מַעְיָן (ma'yan)
+“Spring.” A source of water.
+
+v25: קֶלַע (qela)
+“Slinger.” A warrior using stones as missiles.
 
 v27: עֹלָה (olah)
 “Burnt offering.” The Moabite king offers his firstborn son.

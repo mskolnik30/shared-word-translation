@@ -127,6 +127,43 @@ v57: The famine prepares the way for Joseph's family to come to Egypt, advancing
 
 ##Vocabulary
 
+v1: יְאֹר (yĕʾōr)  
+“Nile.” The great river of Egypt and source of its agricultural life.  
+
+v8: חַרְטֹם (ḥarṭōm)  
+“Magician” or “court scholar.” A member of Egypt's learned class.  
+
+v8: רוּחַ (rûaḥ)  
+“Spirit.” Here referring to Pharaoh's troubled inner condition.  
+
+v15: פָּתַר (pāṯar)
+“To interpret.” To explain the meaning of a dream.
+
+v25: גָּלָה (gālāh)  
+“To reveal.” To make known what was previously hidden.  
+
+v30: רָעָב (rāʿāḇ)  
+“Famine.” Severe shortage of food affecting a region or nation.  
+
+v34: חֹמֶשׁ (ḥōmeš)  
+
+v34: “One-fifth.” Twenty percent, the portion Joseph recommends storing.  
+
+v38: רוּחַ אֱלֹהִים (rûaḥ ʾĕlōhîm)
+“Spirit of God.” Divine wisdom and empowerment recognized by Pharaoh.
+
+v42: טַבַּעַת (ṭabbaʿaṯ)  
+“Signet ring.” A symbol of delegated authority and official power.  
+
+v51: מְנַשֶּׁה (Mĕnaššeh)  
+“Manasseh.” Related to “causing to forget.”  
+
+v52: אֶפְרַיִם (ʾEphrayim)  
+“Ephraim.” Related to fruitfulness and multiplication.  
+
+v57: שֶׁבֶר (šeḇer)  
+“Grain” or “food supply.” Often used in contexts of purchasing provisions during famine.  
+
 v01: יְאֹר (yĕʾōr)
 “Nile.” The great river of Egypt and source of its agricultural life.
 
@@ -135,9 +172,3 @@ v08: חַרְטֹם (ḥarṭōm)
 
 v08: רוּחַ (rûaḥ)
 “Spirit.” Here referring to Pharaoh's troubled inner condition.
-
-v15: פָּתַר (pāṯar)
-“To interpret.” To explain the meaning of a dream.
-
-v38: רוּחַ אֱלֹהִים (rûaḥ ʾĕlōhîm)
-“Spirit of God.” Divine wisdom and empowerment recognized by Pharaoh.

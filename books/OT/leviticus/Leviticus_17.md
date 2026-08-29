@@ -63,3 +63,6 @@ v11: נֶפֶשׁ (nefesh)
 
 v11: כִּפֶּר (kipper)
 “To make atonement.” Blood is assigned an atoning function upon the altar.
+
+v13: עָפָר (afar)
+“Dust” or “soil.” Used to cover the blood of hunted animals.

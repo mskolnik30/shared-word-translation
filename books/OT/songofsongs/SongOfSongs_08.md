@@ -118,6 +118,45 @@ v14: The final image echoes earlier gazelle imagery and leaves the song moving f
 
 ##Vocabulary
 
+v1: אָח (ʾāḥ)  
+“Brother.” A close family relation whose public affection would not be questioned.  
+
+v2: רֶקַח (reqaḥ)  
+“Spiced wine.” Wine mixed with aromatic ingredients.  
+
+v4: אַהֲבָה (ʾahăḇâ)  
+“Love.” Deep affection, desire, and devotion.  
+
+v5: תָּפֻּחַ (tappûaḥ)  
+“Apple tree.” A symbol of delight, fruitfulness, and affection.  
+
+v6: חוֹתָם (ḥôṯām)  
+“Seal.” A mark of ownership, identity, and permanence.  
+
+v6: קִנְאָה (qinʾâ)  
+“Jealousy” or “zeal.” Passionate and exclusive devotion.  
+
+v6: שְׁאוֹל (šĕʾôl)  
+“Sheol.” The realm of the dead, often representing irresistible power.  
+
+v7: מַיִם רַבִּים (mayim rabbîm)  
+“Many waters.” A figure for overwhelming forces or circumstances.  
+
+v9: טִירָה (ṭîrâ)  
+“Battlement.” A fortified structure built upon a wall.  
+
+v10: שָׁלוֹם (šālôm)
+“Peace.” Wholeness, well-being, harmony, and fulfillment.
+
+v11: כֶּרֶם (kerem)  
+“Vineyard.” A recurring symbol of fruitfulness, love, and personal devotion.  
+
+v13: גַּן (gan)  
+“Garden.” A cultivated place associated throughout the book with beauty and intimacy.  
+
+v14: בְּשָׂמִים (bĕśāmîm)  
+“Spices.” Fragrant plants associated with delight, abundance, and love.  
+
 v01: אָח (ʾāḥ)
 “Brother.” A close family relation whose public affection would not be questioned.
 
@@ -126,6 +165,3 @@ v02: רֶקַח (reqaḥ)
 
 v06: שְׁאוֹל (šĕʾôl)
 “Sheol.” The realm of the dead, often representing irresistible power.
-
-v10: שָׁלוֹם (šālôm)
-“Peace.” Wholeness, well-being, harmony, and fulfillment.

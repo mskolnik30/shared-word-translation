@@ -95,6 +95,56 @@ v25: Nakedness without shame depicts trust and peace, not naivety.
 
 ##Vocabulary
 
+v2: שָׁבַת (shāvat) — rest; cease; bring to completion  
+
+v3: קָדַשׁ (qādash) — make holy; set apart  
+
+v4: תּוֹלְדוֹת (tôledôt) — generations; account; unfolding history  
+
+v5: אָדָם (’ādām) — human; humankind  
+
+v5: אֲדָמָה (’ădāmāh) — ground; soil  
+
+v7: יָצַר (yāṣar) — form; shape intentionally  
+
+v7: נְשָׁמָה (neshāmāh) — breath; breath of life  
+
+v7: נֶפֶשׁ חַיָּה (nephesh ḥayyāh) — living being  
+
+v8: גַּן (gan) — garden; enclosed place  
+
+v8: עֵדֶן (‘ēden) — delight; pleasure  
+
+v9: חַיִּים (ḥayyīm) — life  
+
+v9: דַּעַת (da‘at) — knowledge; discernment  
+
+v15: עָבַד (‘āvad) — till; serve; work  
+
+v15: שָׁמַר (shāmar) — keep; guard; watch over  
+
+v16–17: צָוָה (ṣāvāh) — command; charge  
+
+v17: מוֹת תָּמוּת (môt tāmût) — surely die; dying you shall die  
+
+v18: לֹא־טוֹב (lō-ṭôv) — not good  
+
+v18: עֵזֶר (‘ezer) — helper; strong help; rescuer  
+
+v18: כְּנֶגְדּוֹ (kenegdô) — corresponding to; facing; alongside  
+
+v19: קָרָא (qārā’) — call; name  
+
+v21: צֵלָע (ṣēlā‘) — side; flank  
+
+v22: בָּנָה (bānāh) — build; fashion with care  
+
+v24: דָּבַק (dāvaq) — cling to; hold fast  
+
+v25: עָרוֹם (‘ārôm) — naked; exposed  
+
+v25: בּוֹשׁ (bôsh) — be ashamed  
+
 v02: שָׁבַת (shāvat)
 “Rest; cease; bring to completion.”
 

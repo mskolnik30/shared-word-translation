@@ -66,14 +66,22 @@ v18: - **v18**: Highlights the exertion of Babylon's army and stresses the lack 
 
 ##Vocabulary
 
-v01: דָּבָר (davar)
-“Word; matter.” In the prophetic formula it denotes the word that comes from the LORD.
+v1: - **v1 דָּבָר (da.var)**: Translated as "word," refers to Yahweh's communication, highlighting divine authority in prophetic messages.  
+
+v10: - **v10 חׇרְבָּה (chor.bah)**: Rendered "desolation," indicating a complete devastation, a common consequence in judgment oracles.  
 
 v10: חׇרְבָּה (chorbah)
 “Desolation.”
 
+v16: - **v16 מִבְטָח (miv.tach)**: Meaning "confidence," in this context implies misplaced trust of Israel in Egypt instead of Yahweh.  
+
 v16: מִבְטָח (mivtach)
 “Confidence; object of trust.” Here it describes Israel’s misplaced reliance on Egypt.
+
+v2: - **v18 נָבִיא (na.vi)**: "Prophet," a standard title for God's spokesperson, emphasizing the role of conveying divine messages.  
+
+v01: דָּבָר (davar)
+“Word; matter.” In the prophetic formula it denotes the word that comes from the LORD.
 
 v02: נָבִיא (navi)
 “Prophet," a standard title for God's spokesperson, with a sense of the role of conveying divine messages.

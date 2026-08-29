@@ -122,6 +122,74 @@ v24: “Be strong… heart take courage… wait” — The ending shifts to comm
 
 ##Vocabulary
 
+v1: חָסָה (chasah) — to take refuge
+
+v1: בּוֹשׁ (bosh) — to be put to shame; to be disgraced
+
+v1: צֶדֶק (tsedeq) — righteousness; justice; rightness
+
+v2: נָטָה (natah) — to incline; to bend toward
+
+v2: צוּר (tsur) — rock
+
+v2: מָצוּדָה (matsudah) — stronghold; fortress
+
+v3: שֵׁם (shem) — name
+
+v4: רֶשֶׁת (reshet) — net
+
+v5: רוּחַ (ruaḥ) — spirit; breath; life-wind
+
+v5: פָּדָה (padah) — to redeem; to ransom
+
+v6: הֶבֶל (hevel) — vapor; vanity; worthless thing
+
+v7: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
+
+v7: עֳנִי (ʿoni) — affliction; misery
+
+v7: צָרָה (tsarah) — distress; trouble
+
+v8: מֶרְחָב (merchav) — broad place; spaciousness
+
+v9: חָנַן (ḥanan) — to be gracious; to show favor
+
+v10: יָגֹון (yagon) — sorrow; grief
+
+v10: אֲנָחָה (’anakhah) — groaning; sighing
+
+v11: חֶרְפָּה (ḥerpah) — reproach; insult; disgrace
+
+v12: כְּלִי (keli) — vessel; utensil
+
+v12: שָׁבַר (shavar) — to break
+
+v13: סָבִיב (saviv) — around; on every side
+
+v13: מָגוֹר (magor) — terror; dread
+
+v14: בָּטַח (bataḥ) — to trust; to rely on
+
+v15: עֵת (ʿet) — time; season
+
+v16: אוֹר (’or) — to shine; light
+
+v17: שְׁאוֹל (she’ol) — Sheol; the grave; realm of the dead
+
+v18: כָּזָב (kazav) — lie; falsehood
+
+v19: טוּב (tuv) — goodness
+
+v20: סֵתֶר (seter) — shelter; hiding place
+
+v20: רִיב (riv) — strife; dispute; accusation
+
+v22: חָפַז (ḥafaz) — to be alarmed; to panic; to hurry in fear
+
+v23: חָסִיד (ḥasid) — faithful one; loyal one
+
+v24: קָוָה (qavah) — to wait for; to hope in
+
 v01: צֶדֶק (tsedeq)
 “Righteousness; justice; rightness.”
 

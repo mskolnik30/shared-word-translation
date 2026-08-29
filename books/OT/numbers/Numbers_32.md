@@ -105,5 +105,8 @@ v07: נוּא (nu)
 v12: מָלֵא אַחֲרֵי (male acharei)
 “To follow fully.” Wholehearted adherence to the LORD.
 
+v22: כָּבַשׁ (kavash)
+“To subdue.” To bring land or opposition under control.
+
 v23: מָצָא (matsa)
 “To find.” In the warning, sin itself is pictured as finding the sinner.

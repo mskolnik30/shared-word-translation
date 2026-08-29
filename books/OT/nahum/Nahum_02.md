@@ -122,3 +122,15 @@ v03: פְּלָדָה (peladah)
 
 v06: שַׁעֲרֵי הַנְּהָרוֹת (sha'arei hannehrot)
 “River gates.” Gates associated with waterways or river defenses.
+
+v08: בְּרֵכָה (berekhah)  
+“Pool” or “reservoir.” A contained body of water used as an image for Nineveh before its flight.
+
+v10: בּוּקָה וּמְבוּקָה וּמְבֻלָּקָה (buqah umevuqah umevullaqah)  
+“Empty, emptied, and devastated.” A rhythmic Hebrew sequence emphasizing total ruin.
+
+v11: מְעוֹן (me'on)  
+“Dwelling” or “den.” A habitation, here the secure den of lions.
+
+v13: צְבָאוֹת (tseva'ot)  
+“Hosts” or “armies.” In the title “LORD of Hosts,” expressing divine command over heavenly forces.

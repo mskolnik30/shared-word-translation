@@ -91,11 +91,26 @@ v21: The proportional justice formula limits punishment to correspondence with t
 v02: בָּדַל (badal)
 “To set apart.” Used of designating refuge cities.
 
+v04: רֹצֵחַ (rotseach)
+“Manslayer.” One who causes another person’s death.
+
+v06: גֹּאֵל הַדָּם (goel ha-dam)
+“Avenger of blood.” The kinship representative pursuing bloodguilt.
+
+v10: דָּם נָקִי (dam naqi)
+“Innocent blood.” Bloodshed without legal guilt.
+
+v14: גְּבוּל (gevul)
+“Boundary marker.” A territorial limit protecting inheritance.
+
 v15: עֵד (ed)
 “Witness.” One whose testimony establishes a legal matter.
 
 v16: עֵד חָמָס (ed chamas)
 “Malicious witness.” Literally a witness of violence or wrongdoing.
+
+v18: דָּרַשׁ (darash)
+“To investigate.” Careful judicial examination.
 
 v21: תַּחַת (tachat)
 “In place of” or “for.” The term in proportional justice formulas.

@@ -119,6 +119,36 @@ v05: “all the holy ones with him” — The final Hebrew pronoun has textual a
 
 ##Vocabulary
 
+v1: יוֹם־לַיהוָה (yom laYHWH)  
+“Day for the LORD” or “day of the LORD.” Prophetic language for decisive divine action in judgment and restoration.  
+
+v1: שָׁלַל (shalal)  
+“To plunder.” To take goods as spoil in conquest.  
+
+v4: בָּקַע (baqa)  
+“To split” or “cleave.” To divide something open, here used of the Mount of Olives.  
+
+v8: מַיִם חַיִּים (mayim chayyim)  
+“Living waters.” Fresh, flowing water rather than stagnant water.  
+
+v9: מֶלֶךְ (melekh)  
+“King.” One who rules; here the LORD’s kingship extends over the whole earth.  
+
+v11: חֵרֶם (cherem)  
+“Ban,” “devoted thing,” or “destruction.” Something placed under irrevocable divine claim, often involving destruction.  
+
+v13: מְהוּמָה (mehumah)  
+“Panic,” “confusion,” or “tumult.” Disorientation associated with divine judgment in battle.  
+
+v16: סֻכּוֹת (sukkot)  
+“Booths.” Temporary shelters that give their name to the Festival of Booths.  
+
+v20: קֹדֶשׁ לַיהוָה (qodesh laYHWH)
+“Holy to the LORD.” Language marking something as set apart as belonging to the LORD.
+
+v21: כְּנַעֲנִי (kena'ani)  
+“Canaanite,” and in some contexts “merchant” or “trader.” The final verse permits both associations, though the main text retains “Canaanite.”  
+
 v01: יוֹם־לַיהוָה (yom laYHWH)
 “Day for the LORD” or “day of the LORD.” Prophetic language for decisive divine action in judgment and restoration.
 
@@ -127,6 +157,3 @@ v01: שָׁלַל (shalal)
 
 v04: בָּקַע (baqa)
 “To split” or “cleave.” To divide something open, here used of the Mount of Olives.
-
-v20: קֹדֶשׁ לַיהוָה (qodesh laYHWH)
-“Holy to the LORD.” Language marking something as set apart as belonging to the LORD.

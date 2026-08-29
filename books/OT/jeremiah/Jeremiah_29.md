@@ -85,6 +85,25 @@ v32: "He shall not have anyone among this people to see the good that I am doing
 
 ##Vocabulary
 
+v4: גָּלָה (gālâ) — "Carry into exile." The verb names both the act and the condition. The exiles are those who have been gone-away.  
+
+v7: שָׁלוֹם (shālôm) — "Welfare," "peace," "wholeness." Not the absence of conflict but the presence of flourishing. Used twice in v.7 to bind the city's good to the exiles' good.  
+
+v8: חֲלֹמֹת (ḥălōmôt) — "Dreams." Often a vehicle of revelation in the Hebrew Scriptures, here a vehicle of self-deception when severed from the LORD's word.  
+
+v11: אַחֲרִית (ʾaḥărît) — "Latter end," "outcome." The shape a thing finally takes. Not "future" as empty time, but a future that has form.  
+
+v11: תִּקְוָה (tiqwâ) — "Hope." From a root meaning a cord or line stretched out. Hope is something one holds and is held by.  
+
+v11: מַחֲשָׁבָה (maḥăshābâ)
+“Plan," "thought," "design." Considered intent rather than passing thought. The same root names the deliberation of an artisan.
+
+v13: דָּרַשׁ (dārash) — "Seek," "inquire of." The same verb used in v.7 for seeking the city's welfare. The text refuses to oppose the search for God to the search for the neighbor's good.  
+
+v14: שְׁבוּת (shevût) — "Fortunes," "captivity." The phrase shûv shevût ("restore the fortunes") doubles the root for return: the rescue itself sounds like a return.  
+
+v23: נְבָלָה (nevālâ) — "Outrage," "folly." A serious moral category in Hebrew, naming acts that tear the fabric of the community.  
+
 v04: גָּלָה (gālâ)
 “Carry into exile." The verb names both the act and the condition. The exiles are those who have been gone-away.
 
@@ -93,6 +112,3 @@ v07: שָׁלוֹם (shālôm)
 
 v08: חֲלֹמֹת (ḥălōmôt)
 “Dreams." Often a vehicle of revelation in the Hebrew Scriptures, here a vehicle of self-deception when severed from the LORD's word.
-
-v11: מַחֲשָׁבָה (maḥăshābâ)
-“Plan," "thought," "design." Considered intent rather than passing thought. The same root names the deliberation of an artisan.

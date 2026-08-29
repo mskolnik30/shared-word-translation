@@ -86,6 +86,42 @@ v34: Goshen provides a suitable region for shepherding while maintaining some se
 
 ##Vocabulary
 
+v1: זֶבַח (zeḇaḥ)  
+“Sacrifice.” An offering presented to God in worship.  
+
+v2: מַרְאָה (marʾâ)  
+“Vision.” A divine revelation received through sight or appearance.  
+
+v3: גּוֹי גָּדוֹל (gôy gāḏôl)  
+“Great nation.” A key element of the covenant promises.  
+
+v4: אָנֹכִי אֵרֵד עִמְּךָ (ʾānōḵî ʾērēḏ ʿimmĕḵā)  
+“I myself will go down with you.” A strong statement of divine presence.  
+
+v8: תּוֹלְדוֹת (tôlĕdôt)  
+“Generations” or “descendants.” A genealogical record.  
+
+v26: יֹצְאֵי יְרֵכוֹ (yōṣʾê yĕrēḵô)
+“Those who came from his loins.” An idiom for direct descendants.
+
+v28: גֹּשֶׁן (Gōšen)  
+“Goshen.” The region of Egypt where Israel settled.  
+
+v29: בָּכָה (bāḵâ)  
+“To weep.” An expression of intense emotion, grief, or joy.  
+
+v30: פָּנִים (pānîm)  
+“Face.” Often associated with personal presence and encounter.  
+
+v32: רֹעֵה צֹאן (rōʿêh ṣōʾn)  
+“Shepherd.” One who tends flocks and livestock.  
+
+v34: תּוֹעֵבָה (tôʿēḇâ)  
+“Abomination.” Something regarded as detestable or socially unacceptable.  
+
+v34: מִקְנֶה (miqneh)  
+“Livestock.” Animals kept as property and a source of wealth.  
+
 v01: זֶבַח (zeḇaḥ)
 “Sacrifice.” An offering presented to God in worship.
 
@@ -94,6 +130,3 @@ v02: מַרְאָה (marʾâ)
 
 v03: גּוֹי גָּדוֹל (gôy gāḏôl)
 “Great nation.” A key element of the covenant promises.
-
-v26: יֹצְאֵי יְרֵכוֹ (yōṣʾê yĕrēḵô)
-“Those who came from his loins.” An idiom for direct descendants.

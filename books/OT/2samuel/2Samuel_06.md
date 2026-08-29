@@ -102,3 +102,21 @@ v06: שָׁמַט (shamat)
 
 v07: שַׁל (shal)
 “Irreverence,” “error,” or rash act. A rare term in Uzzah’s death.
+
+v08: פֶּרֶץ (perets)
+“Breakout” or “breach.” The divine outbreak against Uzzah.
+
+v14: כָּרַר (karar)
+“To dance” or “whirl.” David’s movement before the LORD.
+
+v14: אֵפוֹד בָּד (ephod bad)
+“Linen ephod.” A simple sacred garment.
+
+v17: שְׁלָמִים (shelamim)
+“Offerings of well-being.” Sacrifices associated with celebration.
+
+v20: פָּחַז (pachaz)
+“To act shamelessly” or recklessly. Michal’s accusation against David.
+
+v22: קָלַל (qalal)
+“To be lightly esteemed” or make oneself low.

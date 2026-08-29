@@ -124,3 +124,15 @@ v16: קָצַר נֶפֶשׁ (qatsar nefesh)
 
 v17: נָזִיר (nazir)
 “Nazirite” or “consecrated one.” Samson identifies his life-long consecration as the context for his uncut hair.
+
+v20: סוּר (sur)
+“To depart” or “turn aside.” The LORD departs from Samson.
+
+v21: נָקַר (naqar)
+“To gouge out.” Used of the Philistines blinding Samson.
+
+v23: דָּגוֹן (Dagon)
+“Dagon.” A major Philistine deity.
+
+v28: זָכַר (zakhar)
+“To remember.” Samson asks God to remember him in his final prayer.

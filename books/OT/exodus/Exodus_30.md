@@ -128,5 +128,20 @@ v12: כֹּפֶר נַפְשׁוֹ (kofer nafsho)
 v13: גֵּרָה (gerah)
 “Gerah.” A small weight unit; twenty gerahs make a shekel.
 
+v18: כִּיּוֹר (kiyyor)
+“Basin.” The bronze vessel used for priestly washing.
+
+v23: מֹר דְּרוֹר (mor deror)
+“Flowing myrrh.” A fragrant resin used in the anointing oil.
+
+v25: רֹקֵחַ (roqeach)
+“Perfumer.” A skilled compounder of aromatic mixtures.
+
 v29: קֹדֶשׁ קָדָשִׁים (qodesh qodashim)
 “Most holy.” The highest degree of sanctuary consecration.
+
+v34: לְבוֹנָה (levonah)
+“Frankincense.” A fragrant resin used in sacred incense.
+
+v35: מְמֻלָּח (memullach)
+“Salted” or “seasoned.” A preparation term for the incense mixture.

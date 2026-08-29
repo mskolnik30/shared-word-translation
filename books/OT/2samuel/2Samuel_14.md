@@ -128,3 +128,21 @@ v11: גֹּאֵל הַדָּם (goel ha-dam)
 
 v13: נָדַח (nadach)
 “To banish” or drive away. Absalom is David’s banished one.
+
+v14: חָשַׁב מַחֲשָׁבוֹת (chashav machashavot)
+“To devise means” or plans. The woman’s language for divine restoration.
+
+v17: מַלְאַךְ אֱלֹהִים (malakh Elohim)
+“Messenger of God.” A flattering comparison for royal discernment.
+
+v20: סָבַב (savav)
+“To turn” or change. Joab changes the face of the matter.
+
+v24: פָּנִים (panim)
+“Face” or presence. Absalom is forbidden from seeing the king’s face.
+
+v25: מוּם (mum)
+“Defect” or blemish. None is found in Absalom’s appearance.
+
+v33: נָשַׁק (nashaq)
+“To kiss.” The king’s final act of formal reconciliation.

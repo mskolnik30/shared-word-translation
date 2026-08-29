@@ -161,14 +161,71 @@ v35: The psalm closes as it began, with personal summons to bless the LORD, now 
 
 ##Vocabulary
 
+v1: בָּרַךְ (barakh)  
+“To bless.” To speak praise or invoke honor toward God.  
+
+v1: הוֹד (hod)  
+“Splendor” or “majesty.” Often associated with royal dignity.  
+
+v2: אוֹר (ʾor)  
+“Light.” A fundamental element of creation, here used as garment imagery.  
+
+v2: נָטָה (natah)  
+“To stretch out.” Used of extending the heavens.  
+
+v8: עָלָה (ʿalah)  
+“To go up” or “to ascend.” Here in architectural imagery of upper chambers.  
+
+v4: מַלְאָךְ (malʾakh)  
+“Messenger.” Can refer to agents, whether human or divine.  
+
+v5: יָסַד (yasad)  
+“To found.” Establishing a stable base.  
+
+v6: תְּהוֹם (tehom)  
+“The deep.” The primeval waters associated with chaos.  
+
+v7: גָּעַר (gaʿar)  
+“To rebuke.” Often denotes divine command over chaotic forces.  
+
+v10: שָׁלַח (shalach)  
+“To send.” Used of water flowing into valleys.  
+
+v14: צָמַח (tsamach)  
+“To cause to grow.” Divine action in sustaining vegetation.  
+
+v15: יַיִן (yayin)  
+“Wine.” Associated with joy and celebration.  
+
+v19: מוֹעֵד (moʿed)  
+“Appointed time.” Structured or sacred time.  
+
+v21: דָּרַשׁ (darash)  
+“To seek.” Here used of animals seeking food.  
+
+v26: לִוְיָתָן (Livyatan)  
+“Leviathan.” A great sea creature within God’s creation.  
+
+v27: קָוָה (qavah)  
+“To wait” or “to look to.” Indicates dependence.  
+
+v29: רוּחַ (ruaḥ)
+“Breath” or “Spirit.” The animating force of life.
+
+v30: חָדַשׁ (ḥadash)  
+“To renew.” Bringing forth newness or restoration.  
+
+v31: כָּבוֹד (kavod)
+“Glory.” The weight and presence of divine majesty.
+
+v34: שִׂיחַ (siaḥ)  
+“Meditation.” Reflective speech or inward thought.  
+
+v35: חַטָּא (ḥattaʾ)  
+“Sinner.” One who misses the mark or lives in opposition to God.  
+
 v01: בָּרַךְ (barakh)
 “To bless.” To speak praise or invoke honor toward God.
 
 v01: הוֹד (hod)
 “Splendor” or “majesty.” Often associated with royal dignity.
-
-v29: רוּחַ (ruaḥ)
-“Breath” or “Spirit.” The animating force of life.
-
-v31: כָּבוֹד (kavod)
-“Glory.” The weight and presence of divine majesty.

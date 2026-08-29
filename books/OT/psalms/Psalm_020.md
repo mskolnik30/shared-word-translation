@@ -63,6 +63,42 @@ v9: Closing plea reinforces dependence on divine response.
 
 ##Vocabulary
 
+v1: עָנָה (anah)  
+“To answer.” Respond.  
+
+v1: שֵׁם (shem)  
+“Name.” Authority and identity.  
+
+v2: עֵזֶר (‘ezer)  
+“Help.” Aid.  
+
+v2: סָעַד (sa‘ad)  
+“To support.” Sustain.  
+
+v3: זָכַר (zakhar)  
+“To remember.” Act on memory.  
+
+v3: דָּשֵׁן (dashen)  
+“To regard favorably.” Accept offering.  
+
+v5: מִשְׁאָלָה (mish’alah)  
+“Desire.” Request.  
+
+v5: רָנַן (ranan)  
+“To shout for joy.” Celebrate.  
+
+v6: יָשַׁע (yasha)  
+“To save.” Deliver.  
+
+v7: בָּטַח (batach)  
+“To trust.” Rely upon.  
+
+v8: קוּם (qum)  
+“To rise.” Stand.  
+
+v9: מֶלֶךְ (melekh)  
+“King.” Ruler.  
+
 v01: עָנָה (anah)
 “To answer.” Respond.
 

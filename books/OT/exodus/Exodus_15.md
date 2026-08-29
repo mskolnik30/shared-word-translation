@@ -157,6 +157,9 @@ v26: “the LORD who heals you” joins obedience, covenant order, and divine he
 
 ##Vocabulary
 
+v01: גָּאָה (ga'ah)
+“To rise in triumph” or “be exalted.” The LORD’s victory is celebrated in song.
+
 v02: יְשׁוּעָה (yeshuah)
 “Salvation” or “deliverance.”
 
@@ -168,3 +171,15 @@ v08: רוּחַ (ruach)
 
 v11: קֹדֶשׁ (qodesh)
 “Holiness.” The sphere of what belongs uniquely to God.
+
+v13: חֶסֶד (ḥesed)
+“Steadfast love.” Loyal covenant love.
+
+v20: נְבִיאָה (nevi'ah)
+“Prophet.” The title given to Miriam.
+
+v23: מָרָה (marah)
+“Bitter.” The word behind the place-name Marah.
+
+v26: רָפָא (rapha)
+“To heal.” The LORD identifies himself as Israel’s healer.

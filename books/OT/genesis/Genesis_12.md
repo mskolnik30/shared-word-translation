@@ -63,6 +63,32 @@ v03: The verb form allows more than one reading (“shall be blessed” / “sha
 
 ##Vocabulary
 
+v1: אֶרֶץ (ʾereṣ) — land; territory or ground; both promised gift and contested space.  
+
+v2: בָּרַךְ (bāraḵ) — to bless; to confer life, favor, or fruitfulness; frames the promise and its outward reach.  
+
+v2: גּוֹי (gôy) — nation; a people constituted over time, not immediately visible.  
+
+v2: שֵׁם (šēm) — name; reputation or standing, not merely a label.  
+
+v3: מִשְׁפָּחָה (mišpāḥāh) — family; clan; emphasizes breadth and relational scope rather than political units.  
+
+v9: הָלַךְ (hālaḵ) — to go; to walk; denotes movement shaped by obedience rather than destination.  
+
+v7: זֶרַע (zeraʿ) — offspring; seed; a collective term that remains intentionally open in scope.  
+
+v7–8: מִזְבֵּחַ (mizbēaḥ) — altar; a site of encounter and worship marking movement rather than possession.  
+
+v8: קָרָא (qārāʾ) — to call; to proclaim or invoke; used of calling on the name of the LORD.  
+
+v10: רָעָב (rāʿāḇ) — famine; scarcity; introduced without explanation or moral framing.  
+
+v12: יָרֵא (yārēʾ) — to fear; to be afraid; motivates Abram’s actions without narrative judgment.  
+
+v13: נֶפֶשׁ (nepeš) — life; self; the animating life Abram seeks to preserve.  
+
+v17: נָגַע (nāgaʿ) — to strike; to afflict; describes divine action taken to protect Sarai and the promise.  
+
 v01: אֶרֶץ (ʾereṣ)
 “Land; territory or ground; both promised gift and contested space.”
 

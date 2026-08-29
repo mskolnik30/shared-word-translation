@@ -68,3 +68,12 @@ v06: כָּבֵד יַד (kaved yad)
 
 v06: עֹפֶל (ofel)
 “Tumor” or swelling.
+
+v08: סֶרֶן (seren)
+“Ruler.” A Philistine city-state lord.
+
+v09: מְהוּמָה (mehumah)
+“Panic” or confusion.
+
+v12: שַׁוְעָה (shav'ah)
+“Cry” or desperate outcry.

@@ -43,4 +43,7 @@ v04: The adjectives “gracious, compassionate, and righteous” grammatically d
 ##Vocabulary
 
 v09: קֶרֶן (qeren)
+Literally, “horn,” a common biblical image for strength, dignity, and publicly raised honor.
+
+v09: קֶרֶן (qeren)
 “Horn.”

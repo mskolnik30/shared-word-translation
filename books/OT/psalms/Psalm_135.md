@@ -85,4 +85,7 @@ v04: סְגֻלָּה (segullah)
 “Treasured possession,” a specially valued possession belonging to a sovereign; covenant language for Israel’s belonging to the LORD.
 
 v14: נָחַם (nacham)
+Here, “have compassion” or “relent,” describing God’s responsive mercy toward the servants.
+
+v14: נָחַם (nacham)
 “To relent; have compassion.” The verb can describe a change in announced action or a movement of compassion.

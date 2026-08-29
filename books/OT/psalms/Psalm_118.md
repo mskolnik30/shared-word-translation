@@ -124,25 +124,55 @@ v27: “given us light… festal procession… altar” — Deliverance culminat
 
 
   ## Vocabulary
+
+v01: יָדָה (yadah) — to give thanks; to praise
+
+v01: טוֹב (tov) — good
+
+v01: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
+
+v05: מֵצַר (metsar) — distress; narrow place; constriction
+
+v05: מֶרְחָב (merchav) — broad place; spaciousness
+
+v06: יָרֵא (yare) — to fear; to be afraid
+
+v08: חָסָה (chasah) — to take refuge
+
+v10: סָבַב (savav) — to surround; to encircle
+
+v12: דְּבוֹרָה (devorah) — bee
+
+v12: קוֹץ (qots) — thorn
+
+v13: דָּחָה (dachah) — to push; to thrust down
+
+v14: עֹז (ʿoz) — strength; might
+
+v14: יְשׁוּעָה (yeshu‘ah) — salvation; deliverance
+
+v18: יָסַר (yasar) — to discipline; to instruct by correction
+
+v19: צֶדֶק (tsedeq) — righteousness; justice; rightness
+
+v22: מָאַס (ma’as) — to reject; to despise
+
+v22: רֹאשׁ פִּנָּה (rosh pinnah) — chief cornerstone; head of the corner
+
+v25: אָנָּא (’anna) — please; we pray
+
+v25: יָשַׁע (yashaʿ) — to save; to deliver
+
+v25: צָלַח (tsalaḥ) — to succeed; to prosper; to advance
+
 v27: אוֹר (’or) — light
+
 v27: חַג (ḥag) — festival; pilgrim feast
 
 
   
 
   
-v01: יָדָה (yadah) — to give thanks; to praise
-v01: טוֹב (tov) — good
-v01: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
-v08: חָסָה (chasah) — to take refuge
-v10: סָבַב (savav) — to surround; to encircle
-v12: דְּבוֹרָה (devorah) — bee
-v12: קוֹץ (qots) — thorn
-v13: דָּחָה (dachah) — to push; to thrust down
-v19: צֶדֶק (tsedeq) — righteousness; justice; rightness
-v22: מָאַס (ma’as) — to reject; to despise
-v22: רֹאשׁ פִּנָּה (rosh pinnah) — chief cornerstone; head of the corner
-
 ##Vocabulary
 
 v01: יָדָה (yadah)

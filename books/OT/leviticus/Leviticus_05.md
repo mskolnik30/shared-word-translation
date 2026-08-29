@@ -66,3 +66,6 @@ v06: אָשָׁם (asham)
 
 v15: מָעַל (maal)
 “To act unfaithfully.” To breach trust, especially toward holy things.
+
+v16: חֲמִישִׁית (chamishit)
+“One-fifth.” The additional amount required with restitution.

@@ -101,5 +101,17 @@ v04: מְצוּדָה (metsudah)
 v08: קָשַׁר (qashar)
 “To conspire.”
 
+v10: שָׁאַל בַּיהוָה (sha'al ba-YHWH)
+“To inquire of the LORD.”
+
 v14: נֶאֱמָן (ne'eman)
 “Faithful” or trustworthy.
+
+v17: רָצִים (ratsim)
+“Runners.” Royal guards or attendants.
+
+v18: אֵפוֹד בָּד (ephod bad)
+“Linen ephod.”
+
+v23: מִשְׁמֶרֶת (mishmeret)
+“Protection” or safekeeping.

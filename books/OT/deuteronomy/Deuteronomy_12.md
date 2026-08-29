@@ -115,11 +115,29 @@ v32: The chapter closes by repeating the prohibition against adding to or subtra
 v02: אָבַד (avad)
 “To destroy.” Used of eliminating rival cult sites.
 
+v03: אֲשֵׁרָה (Asherah)
+“Asherah pole.” A cultic object associated with the goddess Asherah.
+
+v05: שָׁכַן שְׁמוֹ (shakhan shemo)
+“To make his name dwell.” Deuteronomy’s language for the chosen sanctuary.
+
+v06: מַעֲשֵׂר (ma'aser)
+“Tithe.” A tenth portion dedicated in worship.
+
 v06: נֶדֶר (neder)
 “Vow offering.” An offering connected with a solemn vow.
 
 v08: יָשָׁר בְּעֵינָיו (yashar be-enav)
 “Right in his own eyes.” Personal judgment outside centralized covenant order.
+
+v15: אַוַּת נֶפֶשׁ (avvat nefesh)
+“Desire of your life.” Strong appetite or desire.
+
+v16: דָּם (dam)
+“Blood.” Forbidden as food because life is in it.
+
+v23: נֶפֶשׁ (nefesh)
+“Life.” The living life associated with blood.
 
 v31: תּוֹעֵבָה (toevah)
 “Detestable thing.” A practice abhorrent in covenant worship.

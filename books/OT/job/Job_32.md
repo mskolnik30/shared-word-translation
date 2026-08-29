@@ -100,8 +100,14 @@ v02: חָרָה אַף (charah af)
 v08: רוּחַ (ruach)
 “Spirit,” “wind,” or “breath.” The spirit in a human associated with understanding.
 
+v08: נְשָׁמַת שַׁדַּי (nishmat Shaddai)
+“Breath of the Almighty.” Divine breath giving understanding.
+
 v09: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Not automatically understood by age alone.
+
+v19: נֹאד (nod)
+“Wineskin.” Elihu compares pent-up words to fermenting wine in new skins.
 
 v21: נָשָׂא פָנִים (nasa panim)
 “To show partiality.” Literally to lift a person’s face in favoritism.

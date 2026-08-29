@@ -70,8 +70,20 @@ v12–13: Divine action results in both moral and material flourishing.
 
 ##Vocabulary
 
-v07: חֶסֶד (chesed)
-“Steadfast love.” Covenant loyalty.
+v1: רָצָה (ratsah)  
+“To favor.” To show goodwill.  
+
+v2: כָּסָה (kasah)  
+“To cover.” To conceal or forgive.  
+
+v4: שׁוּב (shuv)  
+“To restore.” Turn back.  
+
+v6: חָיָה (chayah)  
+“To revive.” To give life.  
+
+v7: חֶסֶד (chesed)  
+“Steadfast love.” Covenant loyalty.  
 
 v10: אֱמֶת (emet)
 “Faithfulness.” Reliability or truth.
@@ -81,3 +93,9 @@ v10: צֶדֶק (tsedeq)
 
 v10: שָׁלוֹם (shalom)
 “Peace.” Wholeness.
+
+v12: יְבוּל (yevul)  
+“Yield.” Produce or increase.  
+
+v07: חֶסֶד (chesed)
+“Steadfast love.” Covenant loyalty.

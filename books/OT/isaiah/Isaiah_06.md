@@ -36,14 +36,26 @@ v3: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manif
 
 ##Vocabulary
 
+v3: קָדוֹשׁ (qadosh)  
+“Holy.” Set apart in the overwhelming otherness and purity of the LORD.  
+
+v3: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v3: כָּבוֹד (kavod)  
+“Glory.” Weight, honor, or manifest splendor.  
+
+v2: שָׂרָף (saraf)  
+“Seraph.” Literally a burning one; the heavenly beings in Isaiah’s vision.  
+
 v03: קָדוֹשׁ (qadosh)
 “Holy.” Set apart in the overwhelming otherness and purity of the LORD.
-
-v02: שָׂרָף (saraf)
-“Seraph.” Literally a burning one; the heavenly beings in Isaiah’s vision.
 
 v03: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
 v03: כָּבוֹד (kavod)
 “Glory.” Weight, honor, or manifest splendor.
+
+v02: שָׂרָף (saraf)
+“Seraph.” Literally a burning one; the heavenly beings in Isaiah’s vision.

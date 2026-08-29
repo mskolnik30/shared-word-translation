@@ -66,6 +66,43 @@ v23: Human forgetfulness delays Joseph's release, but the larger narrative conti
 
 ##Vocabulary
 
+v1: מַשְׁקֶה (mašqeh)  
+“Cupbearer.” An official responsible for serving the king's drink.  
+
+v2: סָרִיס (sārîs)  
+
+v2: “Officer” or “court official.” A high-ranking servant in a royal household.  
+
+v5: חֲלוֹם (ḥălôm)  
+“Dream.” A significant means of divine revelation in Genesis.  
+
+v8: פִּתְרוֹן (piṯrôn)  
+“Interpretation.” The explanation or meaning of a dream.  
+
+v8: אֱלֹהִים (ʾĕlōhîm)  
+“God.” Joseph insists that true interpretation belongs to God alone.  
+
+v13: נָשָׂא אֶת־רֹאשׁ (nāśāʾ ʾeṯ-rōʾš)  
+“To lift up the head.” An expression that can indicate restoration, reckoning, or judgment.  
+
+v14: חֶסֶד (ḥeseḏ)
+“Kindness” or “steadfast loyalty.” Faithful and merciful action toward another.
+
+v15: בּוֹר (bôr)  
+“Pit” or “dungeon.” A term used for a cistern, prison, or place of confinement.  
+
+v19: תָּלָה (tālāh)  
+“To hang.” To suspend a body publicly as a form of judgment.  
+
+v20: מִשְׁתֶּה (mišteh)  
+“Feast” or “banquet.” A celebratory meal held for an occasion.  
+
+v21: שׁוּב (šûḇ)  
+“To restore” or “return.” To bring someone back to a former position.  
+
+v23: שָׁכַח (šāḵaḥ)  
+“To forget.” The failure to remember or act upon an obligation.  
+
 v01: מַשְׁקֶה (mašqeh)
 “Cupbearer.” An official responsible for serving the king's drink.
 
@@ -74,6 +111,3 @@ v02: סָרִיס (sārîs)
 
 v05: חֲלוֹם (ḥălôm)
 “Dream.” A significant means of divine revelation in Genesis.
-
-v14: חֶסֶד (ḥeseḏ)
-“Kindness” or “steadfast loyalty.” Faithful and merciful action toward another.

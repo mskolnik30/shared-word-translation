@@ -124,6 +124,45 @@ v16: The chapter concludes with the bride's invitation, anticipating deeper unio
 
 ##Vocabulary
 
+v1: צַמָּה (ṣammâ)  
+“Veil.” A covering worn by a woman.  
+
+v1: גִּלְעָד (Gilʿāḏ)  
+“Gilead.” A fertile region east of the Jordan River.  
+
+v3: רִמּוֹן (rimmôn)  
+“Pomegranate.” A fruit often associated with beauty and fruitfulness.  
+
+v4: מָגֵן (māgēn)  
+“Shield.” A symbol of strength and protection.  
+
+v5: צְבִיָּה (ṣĕḇiyyâ)  
+“Gazelle.” A graceful animal frequently used in the song's imagery.  
+
+v8: כַּלָּה (kallâ)  
+“Bride.” A woman joined in covenant marriage.  
+
+v9: לֵבָב (lēḇāḇ)  
+“Heart.” The center of affection, desire, and inner life.  
+
+v10: דּוֹדִים (dōḏîm)  
+“Love.” Expressions of affection and delight.  
+
+v12: גַּן נָעוּל (gan nāʿûl)  
+“Garden locked.” A protected and treasured garden.  
+
+v13: נֵרְדְּ (nērd)  
+“Nard.” A costly aromatic perfume.  
+
+v14: קִנָּמוֹן (qinnāmôn)  
+“Cinnamon.” A fragrant spice.  
+
+v15: מַיִם חַיִּים (mayim ḥayyîm)  
+“Living water.” Fresh, flowing water associated with life and renewal.  
+
+v16: פְּרִי מְגָדָיו (pĕrî mĕḡāḏāyw)  
+“Choicest fruits.” The finest and most desirable produce.  
+
 v01: צַמָּה (ṣammâ)
 “Veil.” A covering worn by a woman.
 

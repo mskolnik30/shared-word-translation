@@ -57,3 +57,6 @@ v04: יוֹבֵל (yovel)
 
 v06: טוֹב בְּעֵינֵי (tov be'einei)
 “Good in their eyes.” An idiom for what they themselves judge suitable.
+
+v07: דָּבַק (davaq)
+“To cling” or “hold fast.” Each tribe is to remain attached to its inherited land.

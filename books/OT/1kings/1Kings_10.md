@@ -85,6 +85,18 @@ v26–29: - **10:26–29 — Chariots, horsemen, and Egypt:** The accumulation o
 
 ##Vocabulary
 
+v1: - **1 — חִידָה (*chidah*):** “Riddle.” The queen comes to test Solomon through difficult questions or enigmatic sayings, making wisdom the central subject of their meeting.  
+
+v4: - **4 — חָכְמָה (*chokhmah*):** “Wisdom.” In this chapter, wisdom is displayed in Solomon’s answers, building projects, ordered household, wealth, and capacity to govern.  
+
+v5: - **5 — רוּחַ (*ruach*):** “Breath, spirit.” The queen has no *ruach* left in her, expressing her complete astonishment before what she sees.  
+
+v9: - **9 — מִשְׁפָּט (*mishpat*):** “Justice, judgment.” The term concerns the right ordering of communal life through faithful decisions and judgments.  
+
+v9: - **9 — צְדָקָה (*tsedaqah*):** “Righteousness.” Joined with *mishpat*, it describes the ethical and social faithfulness expected of the king.  
+
+v24: - **24 — לֵב (*lev*):** “Heart.” God places wisdom in Solomon’s heart—the inner center of understanding, discernment, and will.  
+
 v01: חִידָה (chidah)
 “Riddle.” The queen comes to test Solomon through difficult questions or enigmatic sayings, making wisdom the central subject of their meeting.
 

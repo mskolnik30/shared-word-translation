@@ -142,14 +142,38 @@ v27: “wing of detestable things” is difficult apocalyptic imagery connected 
 
 ##Vocabulary
 
+v02: סֵפֶר (sefer)
+“Book” or “scroll.” Daniel studies written prophetic texts.
+
 v03: תְּחִנּוּן (techinnun)
 “Plea” or “supplication.” Humble prayer for mercy.
 
+v04: וִדָּה (viddah)
+“To confess.” Daniel acknowledges communal guilt.
+
+v07: בֹּשֶׁת הַפָּנִים (boshet ha-panim)
+“Shame of face.” Public humiliation arising from guilt.
+
+v09: סְלִיחָה (selichah)
+“Forgiveness.” Pardon belonging to God.
+
 v13: חָלָה פְנֵי (chalah pene)
 “To seek favor,” literally to entreat the face.
+
+v21: גַּבְרִיאֵל (Gavri'el)
+“Gabriel.” The heavenly messenger who explains the vision.
+
+v23: חֲמוּדוֹת (chamudot)
+“Greatly beloved” or “precious.”
+
+v24: שָׁבֻעִים (shavu'im)
+“Sevens” or “weeks.” Units of seven in the prophecy.
 
 v24: כִּפֶּר (kipper)
 “To make atonement.” To deal with guilt and restore right relation.
 
 v25: מָשִׁיחַ (mashiach)
 “Anointed one.” A person marked for sacred or royal office.
+
+v27: שִׁקּוּצִים (shiqutsim)
+“Detestable things.” Idolatrous or profaning objects associated with desolation.

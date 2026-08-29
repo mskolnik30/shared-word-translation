@@ -331,3 +331,12 @@ v12: צָעָה (tsa'ah)
 
 v25: קֶרֶן (qeren)
 “Horn.” A symbol of power or strength.
+
+v29: גָּאוֹן (gaon)
+“Pride” or “exaltation.” Repeatedly associated with Moab’s self-magnification.
+
+v43: פַּחַד וָפַחַת וָפָח (pachad va-pachat va-pach)
+“Terror, pit, and snare.” A rhythmic threefold image of inescapable judgment.
+
+v47: שׁוּב שְׁבוּת (shuv shevut)
+“To restore the fortunes.” The promise that concludes the Moab oracle.

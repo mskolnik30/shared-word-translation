@@ -94,5 +94,23 @@ v04: כֶּסֶף הַקֳּדָשִׁים (kesef ha-qodashim)
 v05: בֶּדֶק (bedeq)
 “Damage” or breach. Structural deterioration requiring repair.
 
+v09: אֲרוֹן (aron)
+“Chest.” The collection box for temple funds.
+
+v10: מָנָה (manah)
+“To count” or allot. Used of the collected silver.
+
+v11: פָּקַד (paqad)
+“To appoint” or oversee. Work supervisors over temple repair.
+
 v15: אֱמוּנָה (emunah)
 “Faithfulness.” The workers’ trustworthy conduct.
+
+v17: לָכַד (lakhad)
+“To capture.” Hazael takes Gath.
+
+v20: קֶשֶׁר (qesher)
+“Conspiracy.” The plot against Joash.
+
+v20: מִלּוֹא (Millo)
+“Millo.” A fortification or filled structure.

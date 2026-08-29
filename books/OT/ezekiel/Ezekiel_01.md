@@ -53,11 +53,17 @@ v24–25: - **v24-28**: The repeated mention of sound emphasizes the powerful pr
 
 ##Vocabulary
 
-v04: רוּחַ (ruach)
-“Wind; spirit; breath.” Here the immediate image is a powerful wind coming from the north.
+v4: - **v04 — רוּחַ (ruach)**: Translated as "wind," this term also denotes spirit or breath, reinforcing the powerful, dynamic nature of God's presence and actions. The usage here conveys an enveloping, divine force arriving from the north.  
+
+v28: - **v28 — כָּבוֹד (kabod)**: "Glory" often refers to the weighty, radiant presence of God. This verse portrays God's glory in a luminous, multifaceted manner, encapsulating both visual magnificence and divine majesty.  
 
 v28: כָּבוֹד (kabod)
 “Glory" often refers to the weighty, radiant presence of God. This verse describes God's glory in a luminous, multifaceted manner, encapsulating both visual magnificence and divine majesty.
+
+v5: - **v05 — חַיָּה (chayah)**: Translated as "living creature," it indicates celestial beings associated with divine presence, combining various earthly and mythical forms to convey vitality and holiness.  
+
+v04: רוּחַ (ruach)
+“Wind; spirit; breath.” Here the immediate image is a powerful wind coming from the north.
 
 v05: חַיָּה (chayah)
 “Living creature.” The term names the animate beings within the throne vision.

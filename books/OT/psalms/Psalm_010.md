@@ -95,6 +95,51 @@ v16–18: Final reorientation—God’s kingship ensures justice for the oppress
 
 ##Vocabulary
 
+v1: עָמַד (amad)  
+“To stand.” Remain or be present.  
+
+v2: דָּלַק (dalaq)  
+“To pursue.” Chase intensely.  
+
+v3: בָּצַע (batsa)  
+“Greedy gain.” Unjust profit.  
+
+v4: דָּרַשׁ (darash)  
+“To seek.” Pursue God.  
+
+v5: צָלַח (tsalach)  
+“To prosper.” Succeed.  
+
+v6: מוֹט (mot)  
+“To be moved.” Shaken.  
+
+v7: מִרְמָה (mirmah)  
+“Deceit.” Fraud.  
+
+v9: אָרַב (arab)  
+“To lie in wait.” Ambush.  
+
+v9: טָרַף (taraph)  
+“To seize.” Capture.  
+
+v11: שָׁכַח (shakach)  
+“To forget.” Ignore.  
+
+v12: קוּם (qum)  
+“To arise.” Act.  
+
+v14: רָאָה (ra’ah)  
+“To see.” Observe.  
+
+v15: זְרוֹעַ (zeroa)  
+“Arm.” Power.  
+
+v16: מֶלֶךְ (melekh)  
+“King.” Ruler.  
+
+v18: שָׁפַט (shaphat)
+“To judge.” Execute justice.
+
 v01: עָמַד (amad)
 “To stand.” Remain or be present.
 
@@ -103,6 +148,3 @@ v02: דָּלַק (dalaq)
 
 v03: בָּצַע (batsa)
 “Greedy gain.” Unjust profit.
-
-v18: שָׁפַט (shaphat)
-“To judge.” Execute justice.

@@ -94,6 +94,33 @@ v16–17: The request for a “sign” is relational and vindicatory, not specta
 
 ##Vocabulary
 
+v1: עָנִי (ani)  
+“Poor.” Afflicted or needy.  
+
+v2: חָסִיד (chasid)  
+“Faithful.” Devoted or loyal.  
+
+v5: סָלַח (salach)  
+“To forgive.” To pardon.  
+
+v8: אֱלֹהִים (elohim)  
+“Gods.” Divine beings or powers.  
+
+v11: יָחַד (yachad)  
+“To unite.” Make one.  
+
+v11: יִרְאָה (yirah)  
+“Fear.” Reverence.  
+
+v13: שְׁאוֹל (sheol)
+“Grave.” Realm of the dead.
+
+v15: רַחוּם (rachum)  
+“Merciful.” Compassionate.  
+
+v17: אוֹת (ot)  
+“Sign.” Indicator or proof.  
+
 v01: עָנִי (ani)
 “Poor.” Afflicted or needy.
 
@@ -102,6 +129,3 @@ v02: חָסִיד (chasid)
 
 v05: סָלַח (salach)
 “To forgive.” To pardon.
-
-v13: שְׁאוֹל (sheol)
-“Grave.” Realm of the dead.

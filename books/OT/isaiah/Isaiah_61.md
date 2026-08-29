@@ -43,6 +43,18 @@ v6: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can
 
 ##Vocabulary
 
+v1: בָּשַׂר (basar)  
+“To bring good news.” To announce news of deliverance or restoration.  
+
+v8: בְּרִית (berit)  
+“Covenant.” A binding relationship shaped by promise and obligation.  
+
+v3: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v6: גּוֹיִם (goyim)  
+“Nations” or “peoples.” Peoples beyond Israel.  
+
 v01: בָּשַׂר (basar)
 “To bring good news.” To announce news of deliverance or restoration.
 

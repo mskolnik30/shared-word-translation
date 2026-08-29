@@ -111,8 +111,29 @@ v01: חָרָה אַף (charah af)
 v02: פָּקַד (paqad)
 “To count” or muster. Used of the census.
 
+v09: חַיִל (chayil)
+“Valiant force” or army strength.
+
 v10: נָכָה לֵב (nakhah lev)
 “The heart struck.” An idiom of conscience or inner conviction.
 
+v11: חֹזֶה (chozeh)
+“Seer.” Gad’s prophetic title.
+
+v13: דֶּבֶר (dever)
+“Plague” or pestilence.
+
+v14: רַחֲמִים (rachamim)
+“Compassion” or mercies. David’s reason for choosing the LORD’s hand.
+
+v16: נָחַם (nacham)
+“To relent.” The LORD limits the disaster.
+
+v18: גֹּרֶן (goren)
+“Threshing floor.” Araunah’s agricultural site.
+
 v24: מְחִיר (mechir)
 “Price.” David refuses an offering without cost.
+
+v25: עָתַר (atar)
+“To be entreated.” The LORD responds concerning the land.

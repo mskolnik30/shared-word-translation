@@ -76,11 +76,23 @@ v4: “justice” — Hebrew *mishpat* includes judgment, legal right, and the o
 
 ##Vocabulary
 
-v09: רַהַב (Rahav)
-“Rahab.” A poetic chaos figure associated with defeated sea power.
+v9: רַהַב (Rahav)  
+“Rahab.” A poetic chaos figure associated with defeated sea power.  
+
+v15: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
 
 v15: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+
+v3: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v4: מִשְׁפָּט (mishpat)  
+“Justice” or “judgment.” Right judgment and right communal ordering.  
+
+v09: רַהַב (Rahav)
+“Rahab.” A poetic chaos figure associated with defeated sea power.
 
 v03: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.

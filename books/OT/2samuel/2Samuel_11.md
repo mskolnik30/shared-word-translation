@@ -112,3 +112,21 @@ v04: לָקַח (laqach)
 
 v04: טָהֵר (taher)
 “To purify.” Bathsheba had completed ritual cleansing.
+
+v05: הָרָה (harah)
+“To conceive” or “be pregnant.”
+
+v11: סֻכּוֹת (sukkot)
+“Booths.” Temporary shelters associated here with troops in the field.
+
+v14: סֵפֶר (sefer)
+“Letter” or written document.
+
+v15: שׁוּב מֵאַחֲרָיו (shuv me-acharav)
+“To withdraw from behind him.” The order isolating Uriah.
+
+v26: סָפַד (safad)
+“To lament.” Bathsheba mourns Uriah.
+
+v27: רָעַע (ra'a)
+“To be evil.” The LORD’s moral verdict on David’s actions.

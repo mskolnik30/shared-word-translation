@@ -126,8 +126,23 @@ v08: מִקְדָּשׁ (miqdash)
 v09: תַּבְנִית (tavnit)
 “Pattern” or “form.” The revealed design for the dwelling and furnishings.
 
+v10: אֲרוֹן (aron)
+“Ark” or “chest.” The sacred container for the testimony.
+
 v17: כַּפֹּרֶת (kapporet)
 “Cover.” The gold cover over the ark, central to later atonement ritual.
 
+v18: כְּרוּבִים (keruvim)
+“Cherubim.” Winged heavenly throne beings.
+
+v23: שֻׁלְחָן (shulchan)
+“Table.” The gold-covered table holding the bread of the Presence.
+
 v30: לֶחֶם פָּנִים (lechem panim)
 “Bread of the Presence,” literally “bread of the face.”
+
+v31: מְנוֹרָה (menorah)
+“Lampstand.” The seven-lamped gold sanctuary light.
+
+v39: כִּכָּר (kikkar)
+“Talent.” A large unit of weight.

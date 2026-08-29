@@ -55,11 +55,15 @@ v26: - **v26**: The corruption of priests highlights the failure of religious le
 
 ##Vocabulary
 
-v01: דְבַר (davar)
-“Word; matter.” Here the term introduces the message spoken to Ezekiel.
+v1: - **v01** דְבַר (da.var) – "The word" of the LORD introduces the divine message to Ezekiel.  
+
+v10: - **v10** עֶרְוָה (er.vah) – "Nakedness," a term signifying the violation and exposure of boundaries, both literal and metaphorical.  
 
 v10: עֶרְוָה (ervah)
 “Nakedness," a term denoting the violation and exposure of boundaries, both literal and metaphorical.
 
 v12: שֹׁחַד (shachad)
 “Bribe," shedding light on corruption and injustice in leadership.
+
+v01: דְבַר (davar)
+“Word; matter.” Here the term introduces the message spoken to Ezekiel.

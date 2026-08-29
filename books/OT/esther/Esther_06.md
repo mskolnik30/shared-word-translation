@@ -76,3 +76,15 @@ v03: יְקָר (yeqar)
 
 v06: חָפֵץ (chafets)
 “To delight in.” The king’s pleasure in honoring someone.
+
+v08: לְבוּשׁ מַלְכוּת (levush malkhut)
+“Royal garments.” Clothing previously worn by the king.
+
+v09: פַּרְתְּמִים (partemim)
+“Nobles.” High-ranking Persian officials.
+
+v12: אָבֵל (avel)
+“Mourning.” Haman returns home in the posture of one who has suffered loss.
+
+v13: נָפַל (nafal)
+“To fall.” Repeated to describe Haman’s beginning and expected completion of downfall.

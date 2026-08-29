@@ -50,11 +50,20 @@ v3: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can
 
 ##Vocabulary
 
+v9: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v9: כָּבוֹד (kavod)  
+“Glory.” Weight, honor, or manifest splendor.  
+
+v3: גּוֹיִם (goyim)  
+“Nations” or “peoples.” Peoples beyond Israel.  
+
 v09: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v03: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
 v09: כָּבוֹד (kavod)
 “Glory.” Weight, honor, or manifest splendor.
+
+v03: גּוֹיִם (goyim)
+“Nations” or “peoples.” Peoples beyond Israel.

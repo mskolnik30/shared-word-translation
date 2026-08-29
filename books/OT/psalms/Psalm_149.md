@@ -54,6 +54,48 @@ Overall: The psalm holds together celebration, identity, and participation in Go
 
 ##Vocabulary
 
+v1: הָלַל (halal)  
+“To praise.” Celebrate.
+
+v1: שִׁיר (shir)  
+“To sing.” Express in song.
+
+v2: עָשָׂה (asah)  
+“To make.” Create.
+
+v2: מֶלֶךְ (melekh)  
+“King.” Ruler.
+
+v3: מָחוֹל (machol)  
+“Dance.” Rhythmic movement.
+
+v3: תֹּף (toph)  
+“Tambourine.” Percussion instrument.
+
+v4: רָצָה (ratsah)  
+“To take pleasure.” Delight.
+
+v4: עָנָו (‘anav)  
+“Humble.” Lowly.
+
+v4: יְשׁוּעָה (yeshuah)  
+“Salvation.” Deliverance.
+
+v6: רוֹמְמוֹת (romemot)  
+“High praises.” Exalted praise.
+
+v6: חֶרֶב (cherev)  
+“Sword.” Weapon.
+
+v7: נָקָם (naqam)  
+“Vengeance.” Retribution.
+
+v8: אֲסוּרִים (asurim)  
+“Chains.” Bonds.
+
+v9: מִשְׁפָּט (mishpat)  
+“Judgment.” Justice or decree.
+
 v01: הָלַל (halal)
 “To praise.” Celebrate.
 

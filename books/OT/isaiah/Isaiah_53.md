@@ -131,11 +131,62 @@ v11: צָדַק (tsadaq) — to make righteous; to declare right; to justify
 v12: “numbered with the rebels… intercession” — The climax holds together identification with sinners and advocacy for them; the Servant stands in the place of the guilty and pleads for the guilty.
 
   ## Vocabulary
+
+v01: אָמַן (’aman) — to trust; to be firm; to stand fast
+
+v01: זְרוֹעַ (zeroaʿ) — arm (symbol of power)
+
+v02: יוֹנֵק (yoneq) — young plant; tender shoot
+
+v02: שֹׁרֶשׁ (shoresh) — root
+
+v03: בָּזָה (bazah) — to despise; to treat with contempt
+
+v03: חָדַל (ḥadal) — to be rejected; to be forsaken; to cease (context)
+
+v03: מַכְאוֹב (mak’ov) — pain; sorrow
+
+v03: חֹלִי (ḥoli) — sickness; grief; affliction
+
+v04: נָשָׂא (nasa) — to bear; to carry; to lift
+
+v04: סָבַל (saval) — to carry a heavy load; to endure
+
+v05: חָלַל (ḥalal) — to pierce; to wound; to profane (context)
+
+v05: דָּכָא (daka) — to crush; to break
+
+v05: מוּסָר (musar) — discipline; correction; chastisement
+
+v05: שָׁלוֹם (shalom) — peace; wholeness
+
+v05: חַבּוּרָה (ḥabburah) — wound; stripe; bruise
+
+v06: תָּעָה (ta‘ah) — to wander; to go astray
+
+v06: פָּגַע (pagaʿ) — to lay upon; to cause to meet; to intercede (range)
+
+v07: נֶאֱלָם (ne’elam) — to be silent; to be mute
+
+v08: עֹצֶר (ʿotser) — oppression; restraint
+
+v08: גָּזַר (gazar) — to cut off; to sever
+
+v09: חָמָס (ḥamas) — violence; wrong
+
+v09: מִרְמָה (mirmah) — deceit; treachery
+
+v10: אָשָׁם (’asham) — guilt offering; reparation offering
+
+v11: צַדִּיק (tsaddiq) — righteous; just
+
+v11: צָדַק (tsadaq) — to make righteous; to declare right; to justify
+
 v12: פָּשַׁע (pashaʿ) — rebellion; transgression
+
 v12: פָּגַע (pagaʿ) — to intercede; to plead (context)
 
   
-
 ##Vocabulary
 
 v01: אָמַן (’aman)

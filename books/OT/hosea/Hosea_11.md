@@ -117,8 +117,20 @@ v01: נַעַר (na'ar)
 v03: תָּרְגַּלְתִּי (targalti)
 “I taught to walk.” A rare verbal form used for parental care.
 
+v04: חַבְלֵי אָדָם (chavlei adam)
+“Cords of humanity.” Human or humane bonds used as an image of gentle guidance.
+
+v04: אַהֲבָה (ahavah)
+“Love.” The bonds by which the LORD draws Israel.
+
 v07: מְשׁוּבָה (meshuvah)
 “Turning away” or “backsliding.” Persistent movement away from covenant faithfulness.
 
+v08: נֶהְפַּךְ לִבִּי (nehpakh libbi)
+“My heart turns.” Divine inner reversal in the face of judgment.
+
 v09: קָדוֹשׁ (qadosh)
 “Holy One.” The divine holiness named as a reason judgment does not simply mimic human vengeance.
+
+v10: שָׁאַג (sha'ag)
+“To roar.” The LORD’s lion-like call summons the children home.

@@ -110,8 +110,26 @@ v01: צְלֵם (tselem)
 v02: חֲנֻכָּה (chanukkah)
 “Dedication.” The ceremonial inauguration of the image.
 
+v04: כָּרוֹז (karoz)
+“Herald.” A public royal announcer.
+
 v05: סוּמְפֹּנְיָה (sumponyah)
 “Bagpipe” or ensemble instrument. A Greek-derived musical term of uncertain exact identification.
 
 v08: אֲכַל קַרְצֵיהוֹן (akhal qartsehon)
 “To maliciously accuse,” literally “eat their pieces.”
+
+v15: שֵׁיזִב (sheziv)
+“To rescue” or “deliver.”
+
+v17: יְכִל (yekhil)
+“To be able.” God is able to rescue.
+
+v25: בַּר־אֱלָהִין (bar elahin)
+“Son of the gods.” Nebuchadnezzar’s description of the fourth figure.
+
+v28: מַלְאַךְ (malakh)
+“Messenger” or “angel.” The agent God sends to rescue.
+
+v30: צְלַח (tselach)
+“To prosper” or “cause to prosper.”

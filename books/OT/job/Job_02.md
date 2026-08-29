@@ -51,5 +51,11 @@ v03: בָּלַע (bala)
 v04: עוֹר בְּעַד־עוֹר (or bead-or)
 “Skin for skin.” An enigmatic proverb about the value placed on one’s own life.
 
+v07: שְׁחִין (shechin)
+“Sore,” “boil,” or “inflamed lesion.” The affliction covering Job’s body.
+
+v10: רָע (ra)
+“Evil,” “harm,” or “trouble.” Context determines whether the word is moral evil or experienced calamity.
+
 v11: נוּד (nud)
 “To show sympathy” or “console.” Literally to move or lament with another.

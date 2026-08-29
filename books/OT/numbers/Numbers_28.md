@@ -83,3 +83,6 @@ v07: שֵׁכָר (shekhar)
 
 v11: חֹדֶשׁ (chodesh)
 “Month” or “new moon.” The monthly cycle beginning with the new moon.
+
+v26: בִּכּוּרִים (bikkurim)
+“Firstfruits.” The first produce of harvest presented to the LORD.

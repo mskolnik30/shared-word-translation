@@ -61,11 +61,15 @@ v20: The image of a stumbling block indicates God's active involvement in judgin
 
 ##Vocabulary
 
-v01: בֶּן אָדָם (ben adam)
-“Son of man," a title for Ezekiel with a sense of his human nature and role as a representative of humanity before God.
+v1: בֶּן אָדָם (ben adam) – "Son of man," a title for Ezekiel emphasizing his human nature and role as a representative of humanity before God.  
+
+v17: צֹפֶה (tsa.phah) – "watchman," signifying the prophet's duty to listen to God and alert the people to spiritual danger.  
 
 v17: צֹפֶה (tsaphah)
 “Watchman.” One stationed to observe and give warning; here applied to Ezekiel’s prophetic responsibility.
 
 v22: יַד יְהוָה (yad yehovah)
 “hand of the Lord," indicating God's direct influence and power upon the prophet.
+
+v01: בֶּן אָדָם (ben adam)
+“Son of man," a title for Ezekiel with a sense of his human nature and role as a representative of humanity before God.

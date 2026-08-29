@@ -95,8 +95,20 @@ v02: עֵרֶךְ (erekh)
 v02: נֶדֶר (neder)
 “Vow.” A solemn voluntary commitment made to the LORD.
 
+v03: שֶׁקֶל הַקֹּדֶשׁ (sheqel haqqodesh)
+“Sanctuary shekel.” The standard weight used for sacred valuations.
+
 v13: גָּאַל (ga'al)
 “To redeem.” To recover something dedicated by paying the prescribed valuation and addition.
 
+v16: חֹמֶר (chomer)
+“Homer.” A large ancient dry measure used here to calculate the amount of barley seed required for a field.
+
+v25: גֵּרָה (gerah)
+“Gerah.” A small unit of weight; twenty gerahs equal one sanctuary shekel in this regulation.
+
 v28: חֵרֶם (cherem)
 “Devoted thing” or “thing placed under irrevocable ban.” Something transferred beyond ordinary sale or redemption to the LORD.
+
+v30: מַעֲשֵׂר (ma'aser)
+“Tithe.” A tenth portion designated as belonging to the LORD.

@@ -88,14 +88,42 @@ v34–35: The chapter closes with Esau's marriages, introducing tensions that wi
 
 ##Vocabulary
 
-v03: שָׁבַע (šāḇaʿ)
-“To swear an oath.” The verb associated with covenant promises and solemn commitments.
+v3: שָׁבַע (šāḇaʿ)  
+“To swear an oath.” The verb associated with covenant promises and solemn commitments.  
+
+v5: מִשְׁמֶרֶת (mišmeret)  
+“Charge” or “responsibility.” A duty entrusted to someone's care.  
 
 v12: בָּרַךְ (bāraḵ)
 “To bless.” The granting of favor, fruitfulness, and prosperity.
 
+v15: בְּאֵר (beʾēr)  
+“Well.” A vital source of water and a recurring symbol of provision.  
+
+v20: עֵשֶׂק (ʿēśeq)  
+“Contention” or “dispute.” The name given to the first contested well.  
+
+v21: שִׂטְנָה (śiṭnâ)  
+“Hostility” or “opposition.” The name reflects ongoing conflict over resources.  
+
+v22: רְחֹבוֹת (Rĕḥōḇôṯ)  
+“Broad places” or “roominess.” A name expressing relief from conflict and space to flourish.  
+
+v24: עֶבֶד (ʿeḇeḏ)  
+“Servant.” A title of honor describing Abraham's relationship to God.  
+
 v28: בְּרִית (bĕrît)
 “Covenant.” A formal relationship established through mutual commitment.
 
+v31: שָׁלוֹם (šālôm)  
+
+v31: “Peace.” Wholeness, well-being, and harmonious relationship.  
+
+v33: שִׁבְעָה / שְׁבוּעָה (šiḇʿâ / šĕḇûʿâ)  
+Related to “seven” and “oath.” The name Beersheba is associated with both a well and an oath.  
+
 v35: מֹרַת רוּחַ (mōrat rûaḥ)
 “Bitterness of spirit.” Deep grief, distress, or emotional pain.
+
+v03: שָׁבַע (šāḇaʿ)
+“To swear an oath.” The verb associated with covenant promises and solemn commitments.

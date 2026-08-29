@@ -55,6 +55,42 @@ v7: The final promise is relational—“behold his face.”
 
 ##Vocabulary
 
+v1: חָסָה (chasah)  
+“To take refuge.” Seek shelter.
+
+v1: נוּד (nud)  
+“To flee.” Wander or escape.
+
+v2: דָּרַךְ (darakh)  
+“To bend.” Prepare a bow.
+
+v2: יָרָה (yarah)  
+“To shoot.” Cast or throw.
+
+v3: יְסוֹד (yesod)  
+“Foundation.” Structural base.
+
+v4: הֵיכָל (heikhal)  
+“Temple.” Palace or sanctuary.
+
+v4: בָּחַן (bachan)  
+“To test.” Examine.
+
+v5: שָׂנֵא (sane)  
+“To hate.” Reject strongly.
+
+v6: גָּפְרִית (gofrit)  
+“Sulfur.” Burning element.
+
+v6: מָנָה (manah)  
+“Portion.” Assigned share.
+
+v7: יָשָׁר (yashar)  
+“Upright.” Straight or just.
+
+v7: פָּנִים (panim)  
+“Face.” Presence.
+
 v01: חָסָה (chasah)
 “To take refuge.” Seek shelter.
 

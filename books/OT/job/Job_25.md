@@ -45,3 +45,9 @@ v03: גְּדוּד (gedud)
 
 v04: זָכָה (zakhah)
 “To be pure” or “clean.” Bildad questions human purity before God.
+
+v06: רִמָּה (rimmah)
+“Maggot.” An image of human frailty.
+
+v06: תּוֹלֵעָה (tole'ah)
+“Worm.” A parallel image of creaturely smallness.

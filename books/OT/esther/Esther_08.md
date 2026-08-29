@@ -84,3 +84,21 @@ v05: שׁוּב (shuv)
 
 v08: חוֹתָם (chotam)
 “Seal” or “signet.” Royal authorization attached to a written decree.
+
+v09: סִיוָן (Sivan)
+“Sivan.” The third month in the post-exilic calendar.
+
+v10: רָץ (rats)
+“Courier” or “runner.” A messenger carrying royal documents.
+
+v11: עָמַד עַל־נַפְשׁוֹ (amad al-nafsho)
+“To stand for one’s life.” To defend one’s life against attack.
+
+v13: נָקַם (naqam)
+“To take vengeance.” To exact retribution upon enemies.
+
+v16: אוֹרָה (orah)
+“Light.” A metaphor of relief and restored fortune.
+
+v17: מִתְיַהֲדִים (mityahadim)
+“Becoming Judeans.” Identifying or affiliating oneself with the Judean people.

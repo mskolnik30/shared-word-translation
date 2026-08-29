@@ -50,3 +50,6 @@ v08: נַחַל קָנָה (Nachal Qanah)
 
 v09: מִבְדָּל (mivdal)
 “Set apart” or “separated.” Used of cities assigned within another tribe’s territory.
+
+v10: מַס־עֹבֵד (mas-oved)
+“Forced labor.” Compulsory labor imposed upon the remaining Canaanites.

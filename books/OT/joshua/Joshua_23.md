@@ -71,5 +71,11 @@ v06: תּוֹרַת מֹשֶׁה (torat Moshe)
 v08: דָּבַק (davaq)
 “To cling” or “hold fast.” A term of close covenantal attachment.
 
+v10: לָחַם (lacham)
+“To fight.” The LORD is named as the one fighting for Israel.
+
+v13: מוֹקֵשׁ (moqesh)
+“Snare.” A trap used as an image of destructive entanglement.
+
 v16: עָבַר בְּרִית (avar berit)
 “To transgress a covenant.” To cross beyond the obligations of the covenant.

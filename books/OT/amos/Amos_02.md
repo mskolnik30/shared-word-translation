@@ -139,3 +139,21 @@ v04: תּוֹרָה (torah)
 
 v06: צַדִּיק (tsaddiq)
 “Righteous person.” One treated unjustly despite a rightful claim.
+
+v06: אֶבְיוֹן (evyon)
+“Needy” or “poor.” A person vulnerable to exploitation.
+
+v07: עָנָו (anav)
+“Humble” or “afflicted.” One whose way is being bent aside.
+
+v08: חָבַל (chaval)
+“To take in pledge.” To hold property as security for debt.
+
+v11: נָזִיר (nazir)
+“Nazirite.” One specially set apart under a vow.
+
+v12: נָבָא (nava)
+“To prophesy.” To speak a prophetic word.
+
+v16: אַמִּיץ לִבּוֹ (ammits libbo)
+“Stout-hearted.” Courageous or strong of heart.

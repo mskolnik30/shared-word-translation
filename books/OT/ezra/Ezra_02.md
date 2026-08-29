@@ -205,3 +205,9 @@ v63: תִּרְשָׁתָא (tirshata)
 
 v63: אוּרִים וְתֻמִּים (Urim ve-Thummim)
 “Urim and Thummim.” Priestly instruments associated with discerning divine judgment.
+
+v68: נָדַב (nadav)
+“To give freely” or “volunteer.” The household heads contribute willingly to rebuilding.
+
+v69: דַּרְכְּמוֹן (darkemon)
+“Daric” or Persian gold monetary unit. The exact numismatic reference is debated.

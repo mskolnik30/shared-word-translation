@@ -114,5 +114,11 @@ v18: כִּידוֹן (kidon)
 v26: חָרַם (charam)
 “To devote to destruction.” To place under irrevocable divine ban.
 
+v28: תֵּל (tel)
+“Mound.” A heap or ruin mound, here describing destroyed Ai.
+
+v31: שְׁלֵמוֹת (shele mot)
+“Uncut” or “whole.” Stones left untouched by an iron tool.
+
 v34: בְּרָכָה וּקְלָלָה (berakhah u-qelalah)
 “Blessing and curse.” The covenantal alternatives read before Israel.

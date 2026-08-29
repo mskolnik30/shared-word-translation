@@ -64,8 +64,26 @@ v01: רָפָה יָדַיִם (raphah yadayim)
 v02: שַׂר גְּדוּד (sar gedud)
 “Captain of a raiding band.”
 
+v03: גּוּר (gur)
+“To live as a resident alien.” The Beerothites settle at Gittaim.
+
+v04: פִּסֵּחַ (pisseach)
+“Lame” or “crippled.” Describing Mephibosheth’s impaired feet.
+
+v06: חֹמֶשׁ (chomesh)
+“Belly” or “abdomen.” The place of the fatal wound.
+
+v08: נְקָמָה (neqamah)
+“Vengeance.” The assassins’ interpretation of Saul’s house falling.
+
 v09: פָּדָה (padah)
 “To redeem.” David says the LORD has redeemed his life from distress.
 
 v10: בְּשׂוֹרָה (besorah)
 “Good news.” A report expected to be welcome.
+
+v11: דָּם (dam)
+“Blood.” David requires accountability for Ish-Bosheth’s blood.
+
+v12: תָּלָה (talah)
+“To hang.” Publicly suspend a body.

@@ -91,8 +91,17 @@ v25–26: Israel must not turn destroyed cult objects into private wealth. The m
 
 ##Vocabulary
 
+v02: חָרַם (charam)
+“To devote to destruction.” To place under irrevocable ban.
+
 v06: עַם קָדוֹשׁ (am qadosh)
 “Holy people.” A people set apart to the LORD.
+
+v06: סְגֻלָּה (segullah)
+“Treasured possession.” A specially valued people.
+
+v07: חָשַׁק (chashaq)
+“To set affection upon” or “desire.” The LORD’s elective love.
 
 v08: פָּדָה (padah)
 “To redeem.” To rescue from bondage.
@@ -100,5 +109,14 @@ v08: פָּדָה (padah)
 v09: נֶאֱמָן (ne'eman)
 “Faithful.” Reliable in covenant commitment.
 
+v16: מוֹקֵשׁ (moqesh)
+“Snare.” A trap, here other gods.
+
+v20: צִרְעָה (tsir'ah)
+“Hornet.” An agent of fear and displacement.
+
 v25: תּוֹעֵבָה (toevah)
 “Detestable thing.” Something abhorrent within covenant worship.
+
+v26: שָׁקַץ (shaqats)
+“To detest.” Strong rejection of what is under the ban.

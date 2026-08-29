@@ -119,6 +119,12 @@ v28: The poem concludes by translating cosmic wisdom into human vocation: fear o
 
 ##Vocabulary
 
+v01: מוֹצָא (motsa)
+“Mine,” “source,” or “place of extraction.” The location from which silver is brought out.
+
+v03: צַלְמָוֶת (tsalmavet)
+“Death-shadow” or “deep darkness.” The darkness penetrated by miners.
+
 v12: חָכְמָה (chokmah)
 “Wisdom.” The central object of the poem’s search.
 

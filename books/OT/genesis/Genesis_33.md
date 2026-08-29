@@ -58,14 +58,41 @@ v20: The altar's name, “God, the God of Israel,” reflects Jacob's new identi
 
 ##Vocabulary
 
-v03: שָׁחָה (šāḥâ)
-“To bow down.” An act of honor, submission, or respect.
+v3: שָׁחָה (šāḥâ)  
+“To bow down.” An act of honor, submission, or respect.  
 
-v04: חָבַק (ḥāḇaq)
-“To embrace.” A gesture of affection, welcome, or reconciliation.
+v4: חָבַק (ḥāḇaq)  
+“To embrace.” A gesture of affection, welcome, or reconciliation.  
+
+v5: חָנַן (ḥānan)  
+“To be gracious.” To show favor or kindness freely.  
+
+v8: מַחֲנֶה (maḥăneh)  
+“Company,” “camp,” or “encampment.” A group traveling together.  
+
+v9: רַב (raḇ)  
+“Much,” “many,” or “enough.” Esau's declaration reflects contentment with what he possesses.  
+
+v10: פָּנִים (pānîm)  
+“Face” or “presence.” Often associated with encounter, relationship, and divine presence.  
+
+v11: בְּרָכָה (bĕrāḵâ)  
+“Blessing” or “gift.” The word can refer both to spoken blessing and to a gift presented in goodwill.  
+
+v17: סֻכּוֹת (Sukkôṯ)  
+“Shelters” or “booths.” Temporary structures for protection and shade.  
 
 v19: קְשִׂיטָה (qĕśîṭâ)
 “A piece of money.” An ancient unit of value whose exact form is uncertain.
 
 v20: מִזְבֵּחַ (mizbēaḥ)
 “Altar.” A place of sacrifice, worship, and remembrance.
+
+v20: אֵל אֱלֹהֵי יִשְׂרָאֵל (ʾEl ʾĔlōhê Yiśrāʾēl)  
+“God, the God of Israel.” The name given to the altar, affirming God's relationship with Jacob/Israel.  
+
+v03: שָׁחָה (šāḥâ)
+“To bow down.” An act of honor, submission, or respect.
+
+v04: חָבַק (ḥāḇaq)
+“To embrace.” A gesture of affection, welcome, or reconciliation.

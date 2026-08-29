@@ -111,3 +111,15 @@ v10: רוּחַ יְהוָה (ruach YHWH)
 
 v15: אִטֵּר יַד־יְמִינוֹ (itter yad-yemino)
 “Restricted in his right hand.” An unusual expression describing Ehud’s handedness or limitation.
+
+v16: גֹּמֶד (gomed)
+“Cubit” or short measure. A rare length term describing Ehud’s sword.
+
+v19: פְּסִילִים (pesilim)
+“Carved images” or “carved stones.” Objects shaped by carving, often idols.
+
+v27: שׁוֹפָר (shofar)
+“Ram’s horn.” Used to signal assembly or battle.
+
+v31: מַלְמַד (malmad)
+“Oxgoad.” A pointed agricultural tool used to direct cattle.

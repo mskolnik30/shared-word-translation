@@ -155,3 +155,15 @@ v07: פְּקֻדָּה (pequddah)
 
 v08: פַּח (pach)
 “Snare.” A trap set for birds, used for hostility against the prophet.
+
+v10: שִׁקּוּץ (shiquts)
+“Detestable thing.” An object of abhorrent worship.
+
+v12: שָׁכֹל (shakhol)
+“To bereave.” To lose children through death.
+
+v16: שֹׁרֶשׁ (shoresh)
+“Root.” The source of plant life, here dried up as an image of lost future.
+
+v17: נָדַד (nadad)
+“To wander.” Ephraim becomes unsettled among the nations.

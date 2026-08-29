@@ -78,6 +78,30 @@ v14: “the two anointed ones” — The Hebrew literally says “sons of oil.�
 
 ##Vocabulary
 
+v2: מְנוֹרָה (menorah)  
+“Lampstand.” A stand supporting lamps, here made entirely of gold and central to the vision.  
+
+v3: זַיִת (zayit)  
+“Olive” or “olive tree.” The source of oil and the central living image beside the lampstand.  
+
+v6: חַיִל (chayil)  
+“Might,” “strength,” or “force.” The word can describe military capacity, resources, or human strength.  
+
+v6: רוּחַ (ruach)  
+“Spirit,” “wind,” or “breath.” Here explicitly the Spirit of the LORD as the source of what human strength cannot accomplish.  
+
+v7: חֵן (chen)  
+“Grace,” “favor,” or “beauty.” The word shouted over the finishing stone.  
+
+v10: בָּזָה (bazah)  
+“To despise” or “regard as insignificant.” To treat something as lacking worth or importance.  
+
+v10: עַיִן (ayin)  
+“Eye.” Used symbolically of the LORD’s seven eyes ranging throughout the earth.  
+
+v14: בְּנֵי־הַיִּצְהָר (bene hayitshar)
+“Sons of oil,” rendered “anointed ones.” A Hebrew expression for figures marked by or associated with anointing.
+
 v02: מְנוֹרָה (menorah)
 “Lampstand.” A stand supporting lamps, here made entirely of gold and central to the vision.
 
@@ -86,6 +110,3 @@ v06: רוּחַ (ruach)
 
 v07: חֵן (chen)
 “Grace,” “favor,” or “beauty.” The word shouted over the finishing stone.
-
-v14: בְּנֵי־הַיִּצְהָר (bene hayitshar)
-“Sons of oil,” rendered “anointed ones.” A Hebrew expression for figures marked by or associated with anointing.

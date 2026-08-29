@@ -133,3 +133,9 @@ v09: דָּכָא (daka)
 
 v14: חֶסֶד (ḥesed)
 “Steadfast love” or “loyal kindness.” What Job says a despairing friend is owed.
+
+v15: נַחַל (nachal)
+“Wadi” or seasonal stream. A channel that may flow and then vanish.
+
+v25: נִמְרְצוּ (nimretsu)
+“Forceful,” “painful,” or “effective.” Describes honest words whose impact is real.

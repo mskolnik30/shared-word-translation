@@ -90,8 +90,23 @@ v01: מָלַךְ (malakh)
 v04: בָּאַשׁ (ba'ash)
 “To become odious,” literally “stink.”
 
+v06: צָרַר (tsarar)
+“To be hard pressed” or distressed.
+
 v09: עֹלָה (olah)
 “Burnt offering.”
 
 v12: חָלָה פְנֵי (chalah pene)
 “To seek favor,” literally “entreat the face.”
+
+v13: סָכַל (sakhal)
+“To act foolishly.”
+
+v14: נָגִיד (nagid)
+“Ruler” or leader.
+
+v19: חָרָשׁ (charash)
+“Blacksmith” or craftsman.
+
+v21: פִּים (pim)
+“Pim.” An ancient weight or payment unit.

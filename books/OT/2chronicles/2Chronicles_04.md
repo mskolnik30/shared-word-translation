@@ -85,3 +85,6 @@ v07: מְנוֹרָה (menorah)
 
 v19: לֶחֶם הַפָּנִים (lechem ha-panim)
 “Bread of the Presence.”
+
+v22: מַחְתָּה (machtah)
+“Firepan” or censer.

@@ -46,6 +46,9 @@ v06: טָמֵא (tame)
 “Unclean.” Ritual and moral impurity language used within the communal confession.
 
 v10: צִיּוֹן (tsiyyon)
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
+
+v10: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
 v02: גּוֹיִם (goyim)

@@ -98,3 +98,33 @@ v23–26: The completed list of twelve sons gathers Jacob’s household into the
 v27–29: Isaac's death closes another generation of the patriarchal story. Esau and Jacob are united in honoring their father.
 
 ##Vocabulary
+
+v1: בֵּית־אֵל (Bêt-ʾEl)
+“Bethel.” Meaning “House of God,” the site of Jacob's earlier vision and vow.
+
+v2: טָהֵר (ṭāhēr)
+“To purify.” To become clean or prepared for sacred encounter.
+
+v4: אֱלֹהֵי נֵכָר (ʾĕlōhê nēkār)
+“Foreign gods.” Deities associated with peoples outside the covenant family.
+
+v5: חִתַּת אֱלֹהִים (ḥittat ʾĕlōhîm)
+“Terror from God.” A divinely sent fear that restrains opposition.
+
+v8: אַלּוֹן בָּכוּת (ʾAllôn Bākûṯ)
+“Oak of Weeping.” The name commemorates mourning for Deborah.
+
+v11: אֵל שַׁדַּי (ʾEl Šadday)
+“God Almighty.” A divine title associated with covenant power and blessing.
+
+v14: מַצֵּבָה (maṣṣēḇâ)
+“Pillar.” A standing stone erected as a memorial or witness.
+
+v16: אֶפְרָת (ʾEphrāṯ)
+“Ephrath.” An older name associated with the region of Bethlehem.
+
+v18: בֶּן־אוֹנִי (Ben-ʾÔnî)
+“Son of my sorrow.” The name Rachel gives in her final moments.
+
+v18: בִּנְיָמִין (Binyāmîn)
+“Benjamin.” Commonly understood as “son of the right hand.”

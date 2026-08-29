@@ -135,5 +135,20 @@ v06: מַרְצֵעַ (martsea)
 v08: בָּגַד (bagad)
 “To act treacherously.” To violate relational obligation.
 
+v13: אָנָה (anah)
+“To allow to happen” or “cause to meet.” Used of an unplanned death coming to someone’s hand.
+
+v14: עָרַם (aram)
+“To act cunningly” or “presumptuously.” Deliberate planning in murder.
+
+v16: גָּנַב (ganav)
+“To steal” or “kidnap.” Applied here to stealing a person.
+
 v23: נֶפֶשׁ תַּחַת נָפֶשׁ (nefesh tachat nefesh)
 “Life for life.” A proportional justice formula.
+
+v30: כֹּפֶר (kofer)
+“Ransom.” Payment accepted in place of the otherwise required penalty.
+
+v34: שָׁלַם (shalam)
+“To make restitution.” To repay for loss or damage.

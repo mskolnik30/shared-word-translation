@@ -110,6 +110,9 @@ v32: - **v32 "no pleasure in the death of anyone"**: Affirms God's desire for re
 
 ##Vocabulary
 
+v20: - **v20 נֶ֫פֶשׁ (nephesh)**: Translated as "soul," it indicates individual life and responsibility throughout the passage.  
+  
+
 v20: נֶ֫פֶשׁ (nephesh)
 “Soul.” Indicates individual life and responsibility throughout the passage.
 

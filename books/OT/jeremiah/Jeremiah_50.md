@@ -395,3 +395,12 @@ v23: פַּטִּישׁ (pattish)
 
 v24: מוֹקֵשׁ (moqesh)
 “Snare.” A hidden trap in which Babylon is caught.
+
+v31: זָדוֹן (zadon)
+“Pride” or “presumption.” Here personified as Babylon.
+
+v34: גֹּאֵל (goel)
+“Redeemer.” A strong kinship defender who takes up another’s cause.
+
+v38: אֵימִים (emim)
+“Terrors” or frightening idols. A difficult term within the oracle’s critique of images.

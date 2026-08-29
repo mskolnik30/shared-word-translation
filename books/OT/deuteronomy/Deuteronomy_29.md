@@ -109,8 +109,26 @@ v01: בְּרִית (berit)
 v04: לֵב לָדַעַת (lev lada'at)
 “Heart to know.” Inward capacity for covenant understanding.
 
+v09: שָׂכַל (sakhal)
+“To act wisely” or “prosper through insight.”
+
 v12: אָלָה (alah)
 “Oath” or “covenant curse.” The sworn sanction accompanying the covenant.
 
+v18: רֹאשׁ (rosh)
+“Poison” or bitter plant. Used in the image of a toxic root.
+
+v19: שְׁרִרוּת לֵב (sherirut lev)
+“Stubbornness of heart.” Self-directed inward obstinacy.
+
 v20: קִנְאָה (qin'ah)
 “Jealousy” or “zeal.” Exclusive covenant passion.
+
+v28: נָתַשׁ (natash)
+“To uproot.” Israel removed from the land.
+
+v29: נִסְתָּרוֹת (nistarot)
+“Hidden things.” Matters belonging to the LORD.
+
+v29: נִגְלֹת (niglot)
+“Revealed things.” What has been made known for obedience.

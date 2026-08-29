@@ -74,3 +74,9 @@ v06: כָּנַע (kana)
 
 v07: פְּלֵיטָה (peletah)
 “Deliverance” or escape.
+
+v09: אוֹצָר (otsar)
+“Treasury.”
+
+v14: כּוּן לֵב (kun lev)
+“To set or establish the heart.”

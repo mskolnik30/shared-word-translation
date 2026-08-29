@@ -139,3 +139,9 @@ v10: תִּקְוָה (tiqvah)
 
 v21: חָנַן (chanan)
 “To have mercy” or “show favor.” Job’s plea to his friends.
+
+v25: גֹּאֵל (goel)
+“Redeemer,” “kinsman-defender,” or “vindicator.” One who acts to uphold another’s rights.
+
+v29: דִּין (din)
+“Judgment” or “legal decision.” Job warns that judgment exists for his accusers as well.

@@ -85,3 +85,9 @@ v10: נָטַע (nata)
 
 v12: רַחֲמִים (rachamim)
 “Compassion” or “mercies.” The LORD promises to place compassion before Babylon’s king.
+
+v15: גּוּר (gur)
+“To live as a resident alien.” To reside in a land without ancestral possession.
+
+v20: תָּעָה (ta'ah)
+“To wander,” “err,” or “mislead oneself.” Used of the remnant’s fatal self-deception.

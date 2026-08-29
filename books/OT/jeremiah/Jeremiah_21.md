@@ -80,6 +80,9 @@ v02: דָּרַשׁ (darash)
 v05: אַף (af)
 “Anger.” Often paired with stronger terms for fury and wrath.
 
+v08: דֶּרֶךְ חַיִּים (derekh chayyim)
+“Way of life.” The path leading to survival in the LORD’s announced judgment.
+
 v09: שָׁלַל (shalal)
 “Plunder.” In the idiom “life as plunder,” one escapes with life itself as the only spoil.
 

@@ -81,14 +81,44 @@ v22: Joseph receives an additional inheritance portion through his two sons.
 
 ##Vocabulary
 
+v3: אֵל שַׁדַּי (ʾEl Šadday)  
+“God Almighty.” A covenant title emphasizing divine power and faithfulness.  
+
+v4: אֲחֻזַּת עוֹלָם (ʾăḥuzzat ʿôlām)  
+“Everlasting possession.” A permanent inheritance granted by covenant promise.  
+
+v5: לִי הֵם (lî hēm)  
+“They are mine.” Adoption language establishing Ephraim and Manasseh as tribal heirs.  
+
+v10: נָשַׁק (nāšaq)  
+“To kiss.” A gesture of affection, blessing, or family recognition.  
+
+v14: בְּכוֹר (bĕḵôr)  
+“Firstborn.” The eldest son with customary inheritance privileges.  
+
+v15: רָעָה (rāʿâ)  
+“To shepherd.” To guide, care for, and provide for a flock.  
+
+v16: גָּאַל (gāʾal)
+“To redeem.” To rescue, reclaim, or deliver from trouble.
+
+v16: מַלְאָךְ (malʾāḵ)  
+“Angel” or “messenger.” A representative of God's presence and action.  
+
+v19: גּוֹי (gôy)  
+“Nation” or “people.” A political or ethnic community.  
+
+v19: מְלֹא־הַגּוֹיִם (mĕlōʾ-haggôyim)  
+“Multitude of nations.” A phrase expressing extraordinary expansion and influence.  
+
+v20: בְּרָכָה (bĕrāḵâ)  
+“Blessing.” A spoken invocation of divine favor and future prosperity.  
+
+v21: שׁוּב (šûḇ)
+“To return.” A covenant theme of restoration to the promised land.
+
 v03: אֵל שַׁדַּי (ʾEl Šadday)
 “God Almighty.” Traditional rendering of the divine title; the precise etymology of Shaddai is uncertain.
 
 v04: אֲחֻזַּת עוֹלָם (ʾăḥuzzat ʿôlām)
 “Everlasting possession.” A permanent inheritance granted by covenant promise.
-
-v16: גָּאַל (gāʾal)
-“To redeem.” To rescue, reclaim, or deliver from trouble.
-
-v21: שׁוּב (šûḇ)
-“To return.” A covenant theme of restoration to the promised land.

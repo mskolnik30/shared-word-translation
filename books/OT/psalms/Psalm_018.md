@@ -223,6 +223,51 @@ v46–50: Concluding praise—personal deliverance becomes public testimony.
 
 ##Vocabulary
 
+v1: אָהַב (ahav)  
+“To love.” Deep attachment.
+
+v2: צוּר (tsur)  
+“Rock.” Stability.
+
+v4: חֶבֶל (chevel)  
+“Cord.” Binding force.
+
+v6: שָׁוַע (shava)  
+“To cry for help.” Plead.
+
+v7: רָעַשׁ (ra‘ash)  
+“To quake.” Shake.
+
+v10: כְּרוּב (keruv)  
+“Cherub.” Heavenly being.
+
+v16: מָשָׁה (mashah)  
+“To draw out.” Rescue.
+
+v19: רָחַב (rachav)  
+“Broad place.” Freedom.
+
+v25: חָסִיד (chasid)  
+“Merciful.” Loyal.
+
+v27: עָנָו (‘anav)  
+“Humble.” Lowly.
+
+v30: צָרַף (tsaraph)  
+“To refine.” Test.
+
+v33: אַיָּל (ayyal)  
+“Deer.” Sure-footed.
+
+v39: חָגַר (chagar)  
+“To equip.” Gird.
+
+v46: חַי (chai)  
+“Living.” Alive.
+
+v50: מָשִׁיחַ (mashiach)
+“Anointed.” Chosen king.
+
 v01: אָהַב (ahav)
 “To love.” Deep attachment.
 
@@ -234,6 +279,3 @@ v04: חֶבֶל (chevel)
 
 v06: שָׁוַע (shava)
 “To cry for help.” Plead.
-
-v50: מָשִׁיחַ (mashiach)
-“Anointed.” Chosen king.

@@ -103,8 +103,17 @@ v03: יָדָה (yadah)
 v08: בְּרִית (berit)
 “Covenant.” The binding promise made with Abraham.
 
+v17: סְלִיחָה (selichah)
+“Forgiveness.” Readiness to pardon wrongdoing.
+
+v17: רַחוּם (rachum)
+“Compassionate.” Deeply merciful toward those in need.
+
 v20: רוּחַ (ruach)
 “Spirit,” “wind,” or “breath.” Here God’s good Spirit who instructs.
 
 v32: חֶסֶד (ḥesed)
 “Steadfast love.” Faithful covenantal loyalty.
+
+v38: אֲמָנָה (amanah)
+“Firm agreement.” A binding written commitment characterized by reliability.

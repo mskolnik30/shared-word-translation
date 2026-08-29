@@ -43,6 +43,30 @@ v6: Generational continuity (“children’s children”) marks fullness of life
 
 ##Vocabulary
 
+v1: יָרֵא (yare)  
+“To fear.” Reverent awe and alignment.  
+
+v1: הָלַךְ (halakh)  
+“To walk.” Conduct one’s life.  
+
+v2: יָגַע (yaga)  
+“To labor.” Work with effort.  
+
+v2: טוֹב (tov)  
+“Good.” Well-being, flourishing.  
+
+v3: גֶּפֶן (gefen)  
+“Vine.” Fruitful life.  
+
+v3: זַיִת (zayit)  
+“Olive.” Symbol of endurance and blessing.  
+
+v5: בָּרַךְ (barakh)  
+“To bless.” Confer favor.  
+
+v6: שָׁלוֹם (shalom)  
+“Peace.” Wholeness and completeness.  
+
 v01: יָרֵא (yare)
 “To fear.” Reverent awe and alignment.
 

@@ -176,6 +176,12 @@ v31: “Wait for the LORD” renders qāwâ, the verb of expectant trust. The pr
 
 ##Vocabulary
 
+v01: נָחַם (nāḥam) — To comfort, to console. Also used of repentance and relenting; the word names a turn of feeling.
+
+v02: צָבָא (ṣāḇāʾ) — Warfare, hard service. The end named is more than military.
+
+v03: דֶּרֶךְ (dereḵ) — Way, road. Both physical road and pattern of life.
+
 v05: כָּבוֹד (kāḇôḏ)
 “Glory, weight, manifest presence.”
 
@@ -185,5 +191,11 @@ v06: חֶסֶד (ḥesed)
 v09: בָּשַׂר (bāśar)
 “To bring good news, to announce. The participial form names the herald.”
 
+v22: חוּג (ḥûg) — Circle, horizon. Names the visible curve of the earth.
+
 v25: קָדוֹשׁ (qāḏôš)
 “Holy One. Marks God as distinct, set apart.”
+
+v31: קָוָה (qāwâ) — To wait, to hope. Names trust held over time.
+
+v31: חָלַף (ḥālap) — To exchange, to renew. The word names not addition of new strength but the trade of old for new.

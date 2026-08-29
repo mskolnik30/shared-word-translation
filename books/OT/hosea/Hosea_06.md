@@ -82,6 +82,12 @@ v11: “harvest” can carry positive or negative force. Its placement beside re
 v01: שׁוּב (shuv)
 “To return.” The central covenantal verb of turning back to the LORD.
 
+v01: רָפָא (rapha)
+“To heal.” The hoped-for reversal of divine wounding.
+
+v03: יָדַע (yada)
+“To know.” Here relational knowledge of the LORD.
+
 v04: חֶסֶד (ḥesed)
 “Steadfast love.” Israel’s covenant loyalty, criticized here for its impermanence.
 
@@ -90,3 +96,9 @@ v06: זֶבַח (zevach)
 
 v07: עָבַר בְּרִית (avar berit)
 “To transgress a covenant.” To violate covenant obligations.
+
+v09: זִמָּה (zimmah)
+“Outrage” or “depravity.” Deliberate grave wrongdoing.
+
+v11: קָצִיר (qatsir)
+“Harvest.” A metaphor whose precise force is shaped by context.

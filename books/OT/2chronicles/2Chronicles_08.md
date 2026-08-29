@@ -81,3 +81,6 @@ v14: מַחֲלֹקֶת (machaloqet)
 
 v17: עֶצְיוֹן גֶּבֶר (Etsyon-Gever)
 “Ezion-Geber.” A port on the Gulf of Aqaba.
+
+v18: אוֹפִיר (Ophir)
+“Ophir.” A region famed for gold.

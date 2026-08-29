@@ -105,3 +105,9 @@ v09: פַּח (pach)
 
 v13: בְּכוֹר מָוֶת (bekhor mavet)
 “Firstborn of death.” A poetic designation for a supreme or especially deadly power.
+
+v14: מֶלֶךְ בַּלָּהוֹת (melekh ballahot)
+“King of terrors.” Personified death or terror.
+
+v17: זֵכֶר (zekher)
+“Memory” or “remembrance.” The wicked person’s name disappears from communal memory.

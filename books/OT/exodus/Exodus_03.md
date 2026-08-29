@@ -88,6 +88,66 @@ v21–22: Departure includes reversal—those oppressed leave with provision.
 
 ##Vocabulary
 
+v2: אֵשׁ (ʾēš)  
+
+v2: “Fire.” Manifestation of divine presence.  
+
+v3: סוּר (sûr)  
+
+v3: “To turn aside.” Movement toward attention or encounter.  
+
+v5: קֹדֶשׁ (qōḏeš)  
+
+v5: “Holiness.” Set-apartness defined by God’s presence.  
+
+v7: רָאָה (rāʾāh)  
+
+v7: “To see.” Perception with concern.  
+
+v7: שָׁמַע (šāmaʿ)  
+
+v7: “To hear.” Responsive attention.  
+
+v7: יָדַע (yāḏaʿ)  
+
+v7: “To know.” Experiential awareness.  
+
+v8: יָרַד (yāraḏ)  
+
+v8: “To come down.” Divine intervention into human space.  
+
+v8: נָצַל (nāṣal)  
+
+v8: “To deliver.” Rescue from danger or oppression.  
+
+v10: שָׁלַח (šālaḥ)  
+
+v10: “To send.” Commission with authority.  
+
+v12: עִם (ʿim)  
+
+v12: “With.” Presence alongside.  
+
+v14: הָיָה (hāyāh)  
+
+v14: “To be.” Existence or becoming.  
+
+v16: פָּקַד (pāqaḏ)  
+
+v16: “To visit.” Intentional divine attention.  
+
+v20: יָד (yāḏ)  
+
+v20: “Hand.” Symbol of power and action.  
+
+v21: חֵן (ḥēn)  
+
+v21: “Favor.” Grace or goodwill granted by another.  
+
+v22: נָצַל (nāṣal)  
+
+v22: “To plunder.” Remove goods from another, often in reversal.  
+
 v02: אֵשׁ (ʾēš)
 “Fire.” Here the fire appears within the bush in the divine encounter.
 

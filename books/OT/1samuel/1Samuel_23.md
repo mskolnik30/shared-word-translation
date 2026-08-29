@@ -112,5 +112,17 @@ v02: יָשַׁע (yasha)
 v07: נָכַר (nakhar)
 “To reject/deliver over.” Saul says God has handed David over.
 
+v09: אֵפוֹד (ephod)
+“Ephod.” Used in priestly inquiry.
+
+v14: מְצָדוֹת (metsadot)
+“Strongholds.”
+
+v16: חִזֵּק יָדוֹ בֵּאלֹהִים (chizzeq yado be-Elohim)
+“Strengthened his hand in God.”
+
 v18: בְּרִית (berit)
 “Covenant.”
+
+v28: סֶלַע הַמַּחְלְקוֹת (Sela ha-Machleqot)
+“Rock of Escape/Division.” A place-name tied to the narrow escape.

@@ -156,3 +156,21 @@ v03: נָחַם (nacham)
 
 v07: אֲנָךְ (anakh)
 “Plumb line” or plummet. A rare term in the wall vision.
+
+v09: בָּמָה (bamah)
+“High place.” A local cultic site.
+
+v10: קָשַׁר (qashar)
+“To conspire.” Amaziah’s political accusation against Amos.
+
+v12: חֹזֶה (chozeh)
+“Seer.” A title for one who receives visions.
+
+v14: בּוֹקֵר (boqer)
+“Herdsman” or cattle tender.
+
+v14: בּוֹלֵס שִׁקְמִים (boles shiqmim)
+“Dresser of sycamore figs.” One who tends or punctures sycamore fruit.
+
+v16: נָטַף (nataf)
+“To drip.” Used figuratively of prophetic speech.

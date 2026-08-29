@@ -155,3 +155,6 @@ v41: אֲחֻזָּה (achuzzah)
 
 v44: נוּחַ (nuach)
 “To give rest.” To provide settled security from surrounding enemies.
+
+v45: נָפַל (nafal)
+“To fall” or “fail.” Not one of the LORD’s good words “fell” without fulfillment.

@@ -68,3 +68,6 @@ v10: נֵזֶר (nezer)
 
 v17: מוּם (mum)
 “Defect.” A physical condition restricting certain priestly functions.
+
+v23: פָּרֹכֶת (parokhet)
+“Curtain.” The veil marking access to the innermost sanctuary.

@@ -106,11 +106,26 @@ v22–23: The book ends with divine initiative through a foreign Persian king an
 v03: עָנַשׁ (anash)
 “To fine” or impose a penalty.
 
+v12: כָּנַע (kana)
+“To humble oneself.”
+
+v13: קָשָׁה עֹרֶף (qashah oref)
+“To stiffen the neck.”
+
 v14: טָמֵא (tame)
 “To pollute” or make unclean.
 
 v15: הִשְׁכִּים (hishkim)
 “To rise early.” An idiom for persistent action.
 
+v16: מַרְפֵּא (marpe)
+“Remedy” or healing.
+
+v21: שָׁבַת (shavat)
+“To keep Sabbath” or rest.
+
 v22: עוּר רוּחַ (ur ruach)
 “To stir the spirit.”
+
+v23: עָלָה (alah)
+“To go up.” The final summons toward Jerusalem.

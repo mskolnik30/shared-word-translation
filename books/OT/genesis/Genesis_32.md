@@ -85,10 +85,10 @@ v31–32: The limp becomes a lasting sign. The narrative moves from personal wou
 
 ##Vocabulary
 
-v02: מַחֲנַיִם (maḥanayim)
+v2: מַחֲנַיִם (maḥanayim)
 “Two camps.” The dual form signals doubling—divine and human camps, and Jacob’s own divided strategy.
 
-v06: אַרְבַּע מֵאוֹת אִישׁ (arba me’ot ish)
+v6: אַרְבַּע מֵאוֹת אִישׁ (arba me’ot ish)
 “Four hundred men.” A number associated with force; the text leaves its intent ambiguous, heightening tension.
 
 v11: חֶסֶד (ḥesed)
@@ -96,3 +96,24 @@ v11: חֶסֶד (ḥesed)
 
 v11: אֱמֶת (’emet)
 “Faithfulness” or “truth.” Reliability over time; paired with ḥesed to name God’s consistent character.
+
+v20: כָּפַר (kaphar)
+“Often ‘appease’ or ‘cover.’” Carries the sense of covering offense; here applied to relational repair, not ritual.
+
+v24: אָבַק (’avaq)
+“To wrestle.” Possibly related to “dust,” evoking close, ground-level struggle.
+
+v28: יִשְׂרָאֵל (Yisra’el)
+“Israel.” Interpreted as “one who strives with God” or “God strives.” The ambiguity remains active within the name.
+
+v30: פְּנִיאֵל / פְּנוּאֵל (Peni’el / Penu’el)
+“Face of God.” The place name encodes Jacob’s claim of encounter and survival.
+
+v32: גִּיד הַנָּשֶׁה (gid hanasheh)
+“Sinew of the thigh.” A specific anatomical term tied to communal dietary practice, preserving the memory of Jacob’s wound.
+
+v02: מַחֲנַיִם (maḥanayim)
+“Two camps.” The dual form signals doubling—divine and human camps, and Jacob’s own divided strategy.
+
+v06: אַרְבַּע מֵאוֹת אִישׁ (arba me’ot ish)
+“Four hundred men.” A number associated with force; the text leaves its intent ambiguous, heightening tension.

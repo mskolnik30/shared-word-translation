@@ -84,6 +84,39 @@ v11–12: Refuge produces joy; protection is relational (“spread your protecti
 
 ##Vocabulary
 
+v1: אֹזֶן (ozen)  
+“Ear.” Attention.
+
+v1: הָגִיג (hagig)  
+“Groaning.” Murmur or meditation.
+
+v3: עָרַךְ (arak)  
+“To prepare.” Arrange (offering/prayer).
+
+v4: רָשָׁע (rasha)  
+“Wicked.” Opposed to God.
+
+v5: יָצַב (yatsav)  
+“To stand.” Take position.
+
+v6: כָּזָב (kazav)  
+“Lie.” Falsehood.
+
+v7: חֶסֶד (chesed)  
+“Steadfast love.” Covenant loyalty.
+
+v8: יָשַׁר (yashar)  
+“To make straight.” Direct path.
+
+v9: קֶבֶר (qever)  
+“Grave.” Place of death.
+
+v11: חָסָה (chasah)  
+“To take refuge.” Seek shelter.
+
+v12: צִנָּה (tsinnah)  
+“Shield.” Protective covering.
+
 v01: אֹזֶן (ozen)
 “Ear.” Attention.
 

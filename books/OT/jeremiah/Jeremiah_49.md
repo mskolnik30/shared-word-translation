@@ -285,3 +285,15 @@ v16: זָדוֹן (zadon)
 
 v23: דְּאָגָה (de'agah)
 “Anxiety” or “care.” The agitation compared with an unsettled sea.
+
+v28: קֵדָר (Qedar)
+“Kedar.” A nomadic Arabian people associated with tents and flocks.
+
+v32: קְצוּצֵי פֵאָה (qetsutse pe'ah)
+“Those who clip the corners of their hair.” A cultural marker applied to Arabian peoples.
+
+v35: קֶשֶׁת (qeshet)
+“Bow.” Named as the chief military strength of Elam.
+
+v39: שׁוּב שְׁבוּת (shuv shevut)
+“To restore the fortunes.” The reversal promised after judgment.

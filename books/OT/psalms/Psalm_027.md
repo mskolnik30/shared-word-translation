@@ -84,6 +84,27 @@ v08: A textual difficulty stands here. The Hebrew is uneven, and may be read as 
 
 ##Vocabulary
 
+v1: אוֹר (ʾôr) — Light. A word more often associated with creation and revelation than with rescue.
+
+v1: יֵשַׁע (yēšaʿ) — Salvation, deliverance, rescue.
+
+v1: מָעוֹז (māʿôz) — Stronghold, refuge, fortress.
+
+v4: בַּיִת (bayiṯ) — House. Names both household and temple; the term is left in its broad sense.
+
+v4: נֹעַם (nōʿam) — Beauty, pleasantness, graciousness.
+
+v5: סֻכָּה (sukkâ) — Shelter, booth, tent. The same word used for the festival of Tabernacles.
+
+v8: פָּנִים (pānîm) — Face, presence. The word that names God’s nearness and absence in equal measure.
+
+v11: דֶּרֶךְ (dereḵ) — Way, path. Both physical road and pattern of life.
+
+v13: לוּלֵא (lûlēʾ) — “If not.” An emphatic Hebrew opening; some traditions mark it with dots, indicating textual uncertainty.
+
+v14: קָוָה (qāwâ)
+“To wait, to hope. The verb names expectant trust rather than passive delay.”
+
 v01: אוֹר (ʾôr)
 “Light. A word more often associated with creation and revelation than with rescue.”
 
@@ -92,6 +113,3 @@ v01: יֵשַׁע (yēšaʿ)
 
 v01: מָעוֹז (māʿôz)
 “Stronghold, refuge, fortress.”
-
-v14: קָוָה (qāwâ)
-“To wait, to hope. The verb names expectant trust rather than passive delay.”

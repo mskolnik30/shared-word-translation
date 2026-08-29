@@ -53,6 +53,45 @@ v8: The environment remains corrupt even after divine assurance—tension persis
 
 ##Vocabulary
 
+v1: חָסִיד (chasid)  
+“Faithful.” Loyal or devout.
+
+v1: אֱמוּן (emun)  
+“Trustworthy.” Reliable.
+
+v2: חָלַק (chalaq)  
+“To flatter.” Speak smoothly.
+
+v2: לֵב וָלֵב (lev va-lev)  
+“Double heart.” Divided intention.
+
+v3: כָּרַת (karat)  
+“To cut off.” Remove.
+
+v4: גָּבַר (gavar)  
+“To prevail.” Overcome.
+
+v5: שֹׁד (shod)  
+“Plunder.” Violent theft.
+
+v5: אֶבְיוֹן (evyon)  
+“Needy.” Poor.
+
+v6: טָהוֹר (tahor)  
+“Pure.” Clean.
+
+v6: צָרַף (tsaraph)  
+“To refine.” Purify.
+
+v7: שָׁמַר (shamar)  
+“To keep.” Guard.
+
+v8: רָשָׁע (rasha)  
+“Wicked.” Evil-doer.
+
+v8: זֻלּוּת (zullut)  
+“Vileness.” Worthlessness.
+
 v01: חָסִיד (chasid)
 “Faithful.” Loyal or devout.
 

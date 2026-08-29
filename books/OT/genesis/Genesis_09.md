@@ -86,14 +86,44 @@ v28–29: Noah’s death closes the flood narrative and returns the genealogy to
 
 ##Vocabulary
 
+v1: בָּרַךְ (bāraḵ)  
+“To bless.” The granting of life, fruitfulness, and divine favor.  
+
+v2: מוֹרָא (môrāʾ)  
+“Fear” or “dread.” A term describing the awe and apprehension animals will have toward humanity.  
+
+v4: דָּם (dām)  
+“Blood.” The visible expression of life and therefore treated with special significance.  
+
+v5: דָּרַשׁ (dāraš)  
+“To require” or “seek an accounting.” Used here in the sense of answering for a life taken.  
+
+v6: צֶלֶם (ṣelem)  
+“Image.” Humanity’s unique status as bearing the image of God grounds the protection of human life.  
+
+v9: בְּרִית (bĕrît)  
+“Covenant.” A binding relationship established by divine commitment.  
+
+v13: קֶשֶׁת (qešet)
+“Bow.” The ordinary word for a bow used in warfare, here serving as a covenant sign in the clouds.
+
+v15: זָכַר (zāḵar)  
+“To remember.” Covenant language indicating faithful attention and action.  
+
+v20: אִישׁ הָאֲדָמָה (ʾîš hāʾădāmâ)  
+“Man of the soil.” A description linking Noah’s work to the cultivated ground.  
+
+v22: עֶרְוָה (ʿerwâ)  
+“Nakedness.” A term often associated with vulnerability, shame, and exposure.  
+
+v25: אָרוּר (ʾārûr)  
+“Cursed.” The opposite of blessing, expressing judgment and diminished status.  
+
+v27: פָּתָה (pātâ)
+“Enlarge; Make spacious.” A wordplay appears between the name Japheth and the blessing pronounced over him.
+
 v01: בָּרַךְ (bāraḵ)
 “To bless.” The granting of life, fruitfulness, and divine favor.
 
 v09: בְּרִית (bĕrît)
 “Covenant.” A binding relationship established by divine commitment.
-
-v13: קֶשֶׁת (qešet)
-“Bow.” The ordinary word for a bow used in warfare, here serving as a covenant sign in the clouds.
-
-v27: פָּתָה (pātâ)
-“Enlarge; Make spacious.” A wordplay appears between the name Japheth and the blessing pronounced over him.

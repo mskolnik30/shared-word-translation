@@ -56,6 +56,51 @@ v9: The psalm closes as it began—with praise—framing the entire movement as 
 
 ##Vocabulary
 
+v1: הָלַל (halal)  
+“To praise.” Often used in imperative form in liturgical contexts.  
+
+v1: שֵׁם (shem)  
+“Name.” Represents identity, presence, and reputation.  
+
+v2: בָּרַךְ (barakh)  
+“To bless.” To speak well of or honor.  
+
+v3: מִזְרָח (mizrach)  
+“Rising.” The place of sunrise.  
+
+v3: מָבוֹא (mavoʾ)  
+“Setting” or “going in.” Refers to sunset.  
+
+v4: רוּם (rum)  
+“To be high” or “to be exalted.”  
+
+v4: כָּבוֹד (kavod)  
+“Glory.” Weight, honor, or visible majesty.  
+
+v5: יָשַׁב (yashav)  
+“To sit” or “to dwell.” Often used for enthronement.  
+
+v6: שָׁפֵל (shafel)  
+“To be low.” Here in contrast with divine height.  
+
+v7: דַּל (dal)  
+“Poor.” One of low status or means.  
+
+v7: אֶבְיוֹן (ʾevyon)  
+“Needy.” One dependent or lacking resources.  
+
+v7: אֲפָר (ʿafar)  
+“Dust.” Symbol of lowliness or mortality.  
+
+v7: אַשְׁפֹּת (ʾashpot)  
+“Ash heap.” Place of refuse, symbolizing humiliation.  
+
+v9: עָקָר (ʿaqar)  
+“Barren.” Unable to bear children.  
+
+v9: שָׂמַח (samach)  
+“To rejoice.” Expression of joy or gladness.  
+
 v01: הָלַל (halal)
 “To praise.” Often used in imperative form in liturgical contexts.
 

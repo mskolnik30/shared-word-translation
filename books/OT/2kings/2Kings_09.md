@@ -132,8 +132,23 @@ v07: נָקַם (naqam)
 v11: מְשֻׁגָּע (meshugga)
 “Madman.” The officers’ insult for the prophet.
 
+v13: שׁוֹפָר (shofar)
+“Ram’s horn.” The signal proclaiming Jehu king.
+
+v14: קָשַׁר (qashar)
+“To conspire.” Jehu’s revolt against Joram.
+
 v22: זְנוּנִים (zenunim)
 “Prostitutions.” A metaphor for covenant infidelity.
 
+v22: כְּשָׁפִים (keshafim)
+“Sorceries.” Practices associated with forbidden power.
+
+v24: קֶשֶׁת (qeshet)
+“Bow.” Jehu’s weapon against Joram.
+
 v31: הֲשָׁלוֹם (hashalom)
 “Is it peace?” The repeated question in the chapter.
+
+v37: דֹּמֶן (domen)
+“Dung.” The prophetic image of Jezebel’s unrecognizable remains.

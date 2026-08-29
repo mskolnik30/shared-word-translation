@@ -134,5 +134,26 @@ v01: בָּטַח (batach)
 v03: נָדָה (nadah)
 “To put far away.” The elites distance the thought of judgment.
 
+v04: סֶרַח (serach)
+“To sprawl” or “stretch oneself out.” Luxury on couches.
+
+v05: פָּרַט (parat)
+“To improvise” or “pluck.” A rare verb associated with music.
+
+v06: מִזְרָק (mizraq)
+“Bowl” or “basin.” A large vessel.
+
+v06: נֶחְלָה (nechlah)
+“Ruin” or “breaking.” The collapse of Joseph.
+
+v08: גָּאוֹן (gaon)
+“Pride” or “exaltation.” Jacob’s self-confident grandeur.
+
 v12: רֹאשׁ (rosh)
 “Poison.” A toxic substance used metaphorically for corrupted justice.
+
+v13: קַרְנַיִם (Qarnayim)
+“Karnaim,” related in sound to “horns,” a symbol of strength.
+
+v14: לָחַץ (lachats)
+“To oppress” or “press.” The invading nation’s action against Israel.

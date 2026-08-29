@@ -158,5 +158,20 @@ v04: אַרְבֶּה (arbeh)
 v05: עָסִיס (asis)
 “Sweet wine” or “new wine.” Fresh or sweet fermented grape drink.
 
+v08: אֵלִי (eli)
+“Lament” or “wail.” An imperative calling for mourning.
+
 v09: מִנְחָה (minchah)
 “Grain offering.” An offering of grain presented in worship.
+
+v14: צוֹם (tsom)
+“Fast.” Abstention from food as an act of communal humility and prayer.
+
+v14: עֲצָרָה (atsarah)
+“Solemn assembly.” A gathered sacred convocation.
+
+v15: יוֹם יְהוָה (yom YHWH)
+“Day of the LORD.” A decisive time of divine judgment and action.
+
+v20: עָרַג (arag)
+“To long for” or “pant after.” Used of the animals turning toward God for water.

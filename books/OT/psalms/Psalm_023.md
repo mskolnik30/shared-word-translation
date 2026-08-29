@@ -45,6 +45,22 @@ v6: “for length of days” — Expresses enduring trust without specifying tim
 
 ##Vocabulary
 
+v1: רֹעֶה (rōʿeh) — shepherd, one who tends and guides
+
+v1: חָסֵר (ḥāsēr) — to lack, be deficient
+
+v3: שׁוּב (šûb) — to return, restore
+
+v3: צֶדֶק (ṣeḏeq) — righteousness, right order, reliability
+
+v4: צַלְמָוֶת (ṣalmāweṯ) — deep darkness, shadowed place
+
+v5: דָּשֵׁן (dāšēn) — to anoint, make rich, refresh
+
+v6: חֶסֶד (ḥeseḏ) — steadfast love, covenant loyalty
+
+v6: רָדַף (rāḏap) — to pursue, chase after
+
 v01: רֹעֶה (rōʿeh)
 “Shepherd, one who tends and guides.”
 

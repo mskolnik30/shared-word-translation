@@ -151,3 +151,12 @@ v16: קָלַע (qala)
 
 v23: אָח (ach)
 “Brother.” Israel repeatedly calls Benjamin a brother even while fighting him.
+
+v29: אָרַב (arav)
+“To lie in ambush.” The tactic that reverses the earlier defeats.
+
+v35: נָגַף (nagaf)
+“To strike” or “defeat.” The decisive victory is attributed to the LORD.
+
+v45: עָלַל (alal)
+“To glean.” Used metaphorically for killing scattered fugitives along the roads.

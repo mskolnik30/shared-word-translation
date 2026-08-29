@@ -117,6 +117,18 @@ v19: Israel’s elevation is vocational and holy, directed toward praise, fame, 
 v02: רֵאשִׁית (reshit)
 “First.” The first portion of produce.
 
+v05: אֲרַמִּי אֹבֵד (Arammi oved)
+“Wandering Aramean.” The ancestral self-description in the confession.
+
+v07: לַחַץ (lachats)
+“Oppression” or “pressure.” Harsh coercive treatment.
+
+v10: פְּרִי הָאֲדָמָה (peri ha-adamah)
+“Fruit of the ground.” Agricultural produce offered as firstfruits.
+
+v12: מַעֲשֵׂר (ma'aser)
+“Tithe.” A tenth portion, here for vulnerable community members.
+
 v13: בִּעַר (bi'er)
 “To remove.” The holy portion is cleared from the household and distributed.
 
@@ -125,3 +137,6 @@ v17: אָמַר (amar)
 
 v18: סְגֻלָּה (segullah)
 “Treasured people.” Israel’s special covenant status.
+
+v19: תְּהִלָּה (tehillah)
+“Praise.” One aspect of Israel’s exalted vocation.

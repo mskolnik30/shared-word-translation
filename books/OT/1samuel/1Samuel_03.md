@@ -82,6 +82,15 @@ v01: יָקָר (yaqar)
 v07: גָּלָה (galah)
 “To reveal.” The LORD’s word had not yet been disclosed to Samuel.
 
+v10: נִצַּב (nitsav)
+“To stand.” The LORD comes and stands before calling Samuel.
+
+v11: צָלַל אָזְנַיִם (tsalal oznayim)
+“To make the ears tingle.”
+
+v13: כָּהָה (kahah)
+“To restrain” or rebuke. Eli failed to restrain his sons.
+
 v14: כִּפֶּר (kipper)
 “To make atonement.”
 

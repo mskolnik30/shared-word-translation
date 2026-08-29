@@ -127,5 +127,23 @@ v05: פַּס (pas)
 v07: תַּלְתִּי (talti)
 “Third.” The rank promised in the kingdom.
 
+v12: קִטְרִין (qitrin)
+“Knots” or “difficulties.” Problems Daniel is able to untie.
+
+v20: זִיד (zid)
+“Arrogance” or presumptuous pride.
+
+v23: נִשְׁמָה (nishmah)
+“Breath.” Belshazzar’s life is in God’s hand.
+
 v25: מְנֵא (mene)
 “Numbered.” The kingdom’s days are counted.
+
+v25: תְּקֵל (teqel)
+“Weighed.” Belshazzar is measured and found lacking.
+
+v25: פַּרְסִין (parsin)
+“Divisions.” Plural form behind the final word of the inscription.
+
+v28: פְּרֵס (peres)
+“Divided,” also sounding like “Persia.”

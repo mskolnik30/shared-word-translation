@@ -109,8 +109,29 @@ v01: סֵפֶר כְּרִיתֻת (sefer keritut)
 v01: עֶרְוַת דָּבָר (ervat davar)
 “Indecent matter.” A deliberately broad legal phrase.
 
+v06: רֵחַיִם (rechayim)
+“Handmill.” Equipment for grinding grain.
+
 v07: גָּנַב נֶפֶשׁ (ganav nefesh)
 “To kidnap a person.” Literally to steal a life/person.
 
+v08: צָרַעַת (tsara'at)
+“Skin disease.” A ritual-medical category broader than modern leprosy.
+
+v10: עֲבוֹט (avot)
+“To take a pledge.” To receive collateral for a loan.
+
+v14: עָשַׁק (ashaq)
+“To oppress” or “defraud.” Especially withholding what is due.
+
+v15: שָׂכָר (sakhar)
+“Wages.” Payment owed to hired labor.
+
 v17: הַטָּה מִשְׁפָּט (hattah mishpat)
 “To distort justice.” To bend legal judgment unfairly.
+
+v19: עֹמֶר (omer)
+“Sheaf.” A bundle of harvested grain.
+
+v21: עָלַל (alal)
+“To glean.” To gather remaining fruit after the main harvest.

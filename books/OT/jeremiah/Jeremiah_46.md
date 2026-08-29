@@ -205,5 +205,14 @@ v08: יְאֹר (ye'or)
 v10: נְקָמָה (neqamah)
 “Vengeance” or “recompense.” Judgment against adversaries.
 
+v11: צֳרִי (tsori)
+“Balm.” A medicinal resin associated with Gilead.
+
+v17: מוֹעֵד (moed)
+“Appointed time.” Pharaoh is mocked as having let the decisive time pass.
+
 v20: קֶרֶץ (qerets)
 “Gadfly” or “stinging insect.” A rare term for the northern threat.
+
+v25: אָמוֹן מִנֹּא (Amon min-No)
+“Amon of Thebes.” The Egyptian deity Amun associated with the city of Thebes.

@@ -79,14 +79,26 @@ v22: David does not return with Saul but goes back to the stronghold, showing th
 
 ##Vocabulary
 
+v03: הָסֵךְ אֶת־רַגְלָיו (hasekh et-raglav)
+“To cover his feet.” A euphemism for relieving oneself.
+
 v05: נָכָה לֵב (nakhah lev)
 “The heart struck.” An idiom of conscience.
 
 v06: מְשִׁיחַ יְהוָה (meshiach YHWH)
 “The LORD’s anointed.”
 
+v07: שָׁסַע (shasa)
+“To restrain sharply” or rebuke.
+
 v11: פֶּשַׁע (pesha)
 “Rebellion” or transgression.
+
+v12: נָקַם (naqam)
+“To avenge.”
+
+v15: רִיב (riv)
+“To plead a case” or contend legally.
 
 v20: קוּם (qum)
 “To be established.” Saul says David’s kingdom will stand.

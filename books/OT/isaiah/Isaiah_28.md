@@ -80,14 +80,23 @@ v15: “covenant” — The term names a binding relationship shaped by promise 
 
 ##Vocabulary
 
-v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)
-“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+v5: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
 
 v15: בְּרִית (berit)
 “Covenant.” A binding relationship shaped by promise and obligation.
 
+v16: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
 v16: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+
+v6: מִשְׁפָּט (mishpat)  
+“Justice” or “judgment.” Right judgment and right communal ordering.  
+
+v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)
+“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
 v06: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Right judgment and right communal ordering.

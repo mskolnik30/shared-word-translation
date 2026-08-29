@@ -54,6 +54,62 @@ v7: The psalm closes with global scope—fear of the LORD extends to the ends of
 
 ##Vocabulary
 
+v1: חָנַן (ḥānan)  
+
+“To be gracious.” To show favor.
+
+v1: בָּרַךְ (bāraḵ)  
+
+“To bless.” To bestow benefit.
+
+v1: אוֹר (ʾôr)  
+
+“To shine.” To give light.
+
+v2: דֶּרֶךְ (dereḵ)  
+
+“Way.” Path, course.
+
+v2: יְשׁוּעָה (yĕšûʿāh)  
+
+“Salvation.” Delivering power.
+
+v3: עַם (ʿam)  
+
+“People.” Collective group.
+
+v4: שָׂמַח (śāmaḥ)  
+
+“To be glad.” To rejoice.
+
+v4: רָנַן (rānan)  
+
+“To sing for joy.” To shout in praise.
+
+v4: שָׁפַט (šāpaṭ)  
+
+“To judge.” To govern justly.
+
+v4: מֵישָׁר (mêšār)  
+
+“Equity.” Straightness, fairness.
+
+v4: נָחָה (nāḥāh)  
+
+“To guide.” To lead.
+
+v6: יְבוּל (yĕḇûl)  
+
+“Yield/increase.” Produce of the land.
+
+v7: יָרֵא (yārēʾ)  
+
+“To fear.” Reverent awe.
+
+v7: קָצֶה (qāṣeh)  
+
+“End.” Extremity, boundary.
+
 v01: חָנַן (ḥānan)
 “To be gracious.” To show favor.
 

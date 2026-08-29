@@ -77,5 +77,23 @@ v02: כָּרַע (kara)
 v02: שָׁחָה (shachah)
 “To prostrate oneself.” To bow deeply before another.
 
+v06: שָׁמַד (shamad)
+“To destroy.” One of the verbs used for Haman’s intended extermination.
+
+v07: פּוּר (pur)
+“Lot.” A Persian loanword for the object or process used to determine a date.
+
 v08: דָּת (dat)
 “Law.” Haman frames Judean law as incompatible with royal law.
+
+v10: טַבַּעַת (tabba'at)
+“Signet ring.” The instrument used to authorize royal documents.
+
+v12: אֲחַשְׁדַּרְפָּן (achashdarpan)
+“Satrap.” A high Persian provincial official.
+
+v13: אָבַד (avad)
+“To annihilate” or “cause to perish.” Part of the decree’s language of total destruction.
+
+v15: נָבוֹךְ (navokh)
+“To be confused” or “perplexed.” The state of the city after the decree.

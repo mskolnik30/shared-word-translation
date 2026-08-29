@@ -102,6 +102,45 @@ v12: The temple mount itself will become overgrown, symbolizing complete devasta
 
 ##Vocabulary
 
+v1: מִשְׁפָּט (mišpāṭ)  
+“Justice.” Righteous judgment and the proper ordering of society.  
+
+v2: שָׂנֵא (śānēʾ)  
+“To hate.” To reject or oppose.  
+
+v2: אָהַב (ʾāhaḇ)  
+“To love.” To desire, pursue, or delight in.  
+
+v4: סָתַר פָּנִים (sāṯar pānîm)  
+“To hide the face.” A withdrawal of favor and response.  
+
+v5: שָׁלֹום (šālôm)  
+“Peace.” Well-being and security, here falsely proclaimed.  
+
+v6: חָזוֹן (ḥāzôn)  
+“Vision.” A revelation received from God.  
+
+v7: קֹסֵם (qōsēm)  
+“Diviner.” One who seeks hidden knowledge through forbidden means.  
+
+v8: רוּחַ יְהוָה (rûaḥ YHWH)  
+“Spirit of the LORD.” God's empowering presence and activity.  
+
+v8: פֶּשַׁע (pešaʿ)  
+“Transgression.” Rebellion against God's covenant authority.  
+
+v10: דָּם (dām)  
+“Blood.” Often representing violence and unjust killing.  
+
+v11: שֹׁחַד (šōḥaḏ)  
+“Bribe.” Payment given to corrupt judgment.  
+
+v12: עִי (ʿî)  
+“Heap of ruins.” The remains of a destroyed city.  
+
+v12: צִיּוֹן (Ṣiyyôn)  
+“Zion.” Jerusalem as the center of God's covenant people and worship.  
+
 v01: מִשְׁפָּט (mišpāṭ)
 “Justice.” Righteous judgment and the proper ordering of society.
 

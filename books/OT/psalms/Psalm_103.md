@@ -108,6 +108,36 @@ v20–22: Praise expands from the individual to all creation.
 
 ##Vocabulary
 
+v1: בָּרַךְ (barakh)  
+“To bless.” To praise or honor.  
+
+v3: סָלַח (salach)  
+“To forgive.” To pardon.  
+
+v4: גָּאַל (ga’al)  
+“To redeem.” To rescue.  
+
+v4: עֲטָרָה (atarah)  
+“To crown.” To surround with honor.  
+
+v8: רַחוּם (rachum)  
+“Merciful.” Compassionate.  
+
+v11: גָּבַהּ (gavah)  
+“To be high.” Exalted measure.  
+
+v12: רָחַק (rachak)  
+“To remove.” Put far away.  
+
+v14: יֵצֶר (yetser)  
+“Frame.” Form or constitution.  
+
+v17: עוֹלָם (olam)  
+“Everlasting.” Unbounded time.  
+
+v19: כִּסֵּא (kisse)  
+“Throne.” Seat of rule.  
+
 v01: בָּרַךְ (barakh)
 “To bless.” To praise or honor.
 

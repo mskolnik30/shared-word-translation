@@ -138,5 +138,23 @@ v02: סָרַךְ (sarakh)
 v04: מְהֵימַן (meheman)
 “Faithful” or “trustworthy.” Daniel’s administrative character.
 
+v07: אֱסָר (esar)
+“Injunction” or “binding prohibition.”
+
+v10: בְּעָא (be'a)
+“To pray” or “petition.” Daniel’s regular appeal before God.
+
+v16: גֹּב אַרְיָוָתָא (gov aryavata)
+“Den of lions.”
+
+v20: אֱלָהָא חַיָּא (Elaha chayya)
+“Living God.” Darius’s title for Daniel’s God.
+
+v22: מַלְאַךְ (malakh)
+“Messenger” or “angel.”
+
 v23: אֲמַן (aman)
 “To trust.” Daniel is unharmed because he trusted his God.
+
+v27: שֵׁיזִב (sheziv)
+“To rescue.” A repeated verb in the royal confession.

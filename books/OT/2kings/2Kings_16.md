@@ -91,5 +91,23 @@ v04: בָּמָה (bamah)
 v07: עֶבֶד (eved)
 “Servant.” Ahaz’s self-designation to Assyria.
 
+v07: בֵּן (ben)
+“Son.” Vassal-language toward the Assyrian king.
+
+v10: דְּמוּת (demut)
+“Pattern” or likeness. The design of the Damascus altar.
+
+v10: תַּבְנִית (tavnit)
+“Design” or form. Detailed architectural plan.
+
 v13: נֶסֶךְ (nesekh)
 “Drink offering.” Liquid poured in worship.
+
+v15: בָּקַר (baqar)
+“To inquire” or inspect. A difficult expression concerning the bronze altar.
+
+v17: יָם (yam)
+“Sea.” The large bronze basin.
+
+v18: מוּסָךְ (musakh)
+“Covered structure” or canopy. A rare temple architectural term.

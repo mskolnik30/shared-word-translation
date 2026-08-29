@@ -95,3 +95,6 @@ v19: בְּרִית מֶלַח (berit melach)
 
 v20: נַחֲלָה (nachalah)
 “Inheritance.” A lasting allotted possession, here denied territorially and replaced by the LORD as portion.
+
+v21: מַעֲשֵׂר (ma'aser)
+“Tithe.” A tenth given from produce or resources.

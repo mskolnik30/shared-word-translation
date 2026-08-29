@@ -149,3 +149,6 @@ v64: גָּאַל (ga'al)
 
 v65: תִּרְשָׁתָא (tirshatha)
 “Governor.” A Persian-period title used for the provincial governor.
+
+v65: אוּרִים וְתֻמִּים (Urim ve-Thummim)
+“Urim and Thummim.” Sacred objects associated with priestly inquiry.

@@ -131,6 +131,12 @@ v15–16: Hook, net, and dragnet portray nations as helpless fish. The conqueror
 
 ##Vocabulary
 
+v01: מַשָּׂא (massa)
+“Oracle” or “burden.” A weighty prophetic pronouncement.
+
+v02: חָמָס (chamas)
+“Violence.” Destructive wrongdoing and social brutality.
+
 v03: אָוֶן (aven)
 “Iniquity,” “trouble,” or “harm.” A term with overlapping moral and experiential senses.
 
@@ -139,6 +145,18 @@ v04: תּוֹרָה (torah)
 
 v04: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Right ordering that is being distorted.
+
+v06: כַּשְׂדִּים (Kasdim)
+“Chaldeans.” The Babylonian power raised up in the oracle.
+
+v11: אָשֵׁם (ashem)
+“To become guilty.” The conquering power itself comes under moral judgment.
+
+v12: צוּר (tsur)
+“Rock.” A divine designation emphasizing stability and strength.
+
+v15: חֶרֶם (cherem)
+“Net.” Here a fishing net used as an image of imperial conquest.
 
 v17: חָמַל (chamal)
 “To have compassion” or “spare.” The final question asks whether the nations will be killed without mercy.

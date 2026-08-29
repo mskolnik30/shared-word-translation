@@ -84,3 +84,9 @@ v20: חָזַק (chazaq)
 
 v23: אֶשְׁכּוֹל (eshkol)
 “Cluster.” The word gives its name to the Wadi Eshcol.
+
+v32: דִּבָּה (dibbah)
+“Bad report” or “defaming report.” Speech that brings damaging representation.
+
+v33: נְפִילִים (Nephilim)
+“Nephilim.” A rare ancient designation retained rather than explained by a speculative English equivalent.

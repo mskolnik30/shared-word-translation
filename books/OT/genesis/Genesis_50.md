@@ -95,6 +95,62 @@ v26: The coffin in Egypt marks an unresolved ending—promise awaits fulfillment
 
 ##Vocabulary
 
+v2: חָנַט (ḥānaṭ)  
+
+“To embalm.” Preservation of the body after death.  
+
+v3: בָּכָה (bāḵāh)  
+
+“To weep.” Expression of mourning.  
+
+v5: שָׁבַע (šāḇaʿ)  
+
+“To swear.” Bind by oath.  
+
+v7: זָקֵן (zāqēn)  
+
+“Elder.” One of status and authority.  
+
+v10: סָפַד (sāphaḏ)  
+
+“To lament.” Formal mourning expression.  
+
+v11: אֵבֶל (ʾēḇel)  
+
+“Mourning.” Period or act of grief.  
+
+v15: שָׂטַם (śāṭam)  
+
+“To bear a grudge, hate.” Sustained hostility.  
+
+v17: נָשָׂא (nāśāʾ)  
+
+“To forgive, carry away.” Removal of guilt or offense.  
+
+v19: תַּחַת (taḥaṯ)  
+
+“In place of.” Substitution or role replacement.  
+
+v20: חָשַׁב (ḥāšaḇ)  
+
+“To intend, plan.” Deliberate mental framing.  
+
+v21: נָחַם (nāḥam)  
+
+“To comfort.” Provide relief from distress.  
+
+v24: פָּקַד (pāqaḏ)  
+
+“To visit, attend.” Divine intervention with purpose.  
+
+v25: עֶצֶם (ʿeṣem)  
+
+“Bone.” Physical remains, identity marker.  
+
+v26: אֲרוֹן (ʾărôn)  
+
+“Coffin.” Container for the dead body.  
+
 v02: חָנַט (ḥānaṭ)
 “To embalm.” Preservation of the body after death.
 

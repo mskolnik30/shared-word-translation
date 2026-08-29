@@ -115,8 +115,14 @@ v03: נֵר (ner)
 v04: סוֹד (sod)
 “Counsel,” “intimate fellowship,” or “confidential circle.” Job remembers God’s counsel over his tent.
 
+v12: עָנִי (ani)
+“Poor” or “afflicted.” One Job says he delivered when they cried out.
+
 v14: צְדָקָה (tsedaqah)
 “Righteousness.” Right conduct pictured as Job’s clothing.
 
 v14: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Job’s public justice is compared to formal garments.
+
+v16: רִיב (riv)
+“Case” or “legal dispute.” Job investigated cases even for strangers.

@@ -51,6 +51,39 @@ v5: “For length of days” suggests enduring order rather than a measured dura
 
 ##Vocabulary
 
+v1: מָלַךְ (malak)  
+“To reign.” Indicates active kingship, not merely title.  
+
+v1: לָבֵשׁ (lavesh)  
+“To clothe.” Used metaphorically for assuming visible attributes.  
+
+v1: עֹז (ʿoz)  
+“Strength.” Often associated with royal or divine power.  
+
+v1: תֵּבֵל (tevel)  
+“World.” Refers to the inhabited, ordered earth.  
+
+v2: כִּסֵּא (kisseʾ)  
+“Throne.” Symbol of rule and authority.  
+
+v3: נָשָׂא (nasaʾ)  
+“To lift up.” Repeated for emphasis, conveying rising force.  
+
+v3: קוֹל (qol)  
+“Voice” or “sound.” Can denote speech or natural noise such as waters.  
+
+v4: אַדִּיר (addir)  
+“Mighty” or “majestic.” Used of overwhelming strength or grandeur.  
+
+v5: עֵדוֹת (ʿedot)  
+“Testimonies.” Can refer to covenantal laws or divine witness.  
+
+v5: קֹדֶשׁ (qodesh)  
+“Holiness.” Denotes what is set apart, belonging properly to God.  
+
+v5: אֹרֶךְ יָמִים (ʾorekh yamim)  
+“Length of days.” A phrase expressing enduring duration or permanence.  
+
 v01: מָלַךְ (malak)
 “To reign.” Indicates active kingship, not merely title.
 

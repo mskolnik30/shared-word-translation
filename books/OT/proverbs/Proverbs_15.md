@@ -196,14 +196,32 @@ v30: Bodily imagery describes the effect of encouragement. Good news reaches bey
 
 ##Vocabulary
 
-v01: רַךְ (rakh)
-“Gentle” or “soft.” Here describing speech capable of turning aside wrath.
+v1: רַךְ (rakh)  
+“Gentle” or “soft.” Here describing speech capable of turning aside wrath.  
 
-v04: מַרְפֵּא (marpe)
-“Healing.” What restores health or wholeness.
+v4: מַרְפֵּא (marpe)  
+“Healing.” What restores health or wholeness.  
 
 v11: אֲבַדּוֹן (Abaddon)
 “Destruction.” A poetic term associated with death and the place of the dead.
 
 v16: מְהוּמָה (mehumah)
 “Turmoil” or “confusion.” Disturbance that can accompany abundance without peace.
+
+v22: סוֹד (sod)  
+“Counsel” or “confidential deliberation.” Shared planning among trusted advisers.  
+
+v24: אֹרַח חַיִּים (orach chayyim)  
+“Path of life.” A way of living that moves away from death.  
+
+v27: בֶּצַע (betsa)  
+“Unjust gain.” Profit obtained through exploitation or wrongful advantage.  
+
+v33: עֲנָוָה (anavah)  
+“Humility.” Lowliness or modesty that precedes true honor.  
+
+v01: רַךְ (rakh)
+“Gentle” or “soft.” Here describing speech capable of turning aside wrath.
+
+v04: מַרְפֵּא (marpe)
+“Healing.” What restores health or wholeness.

@@ -199,11 +199,23 @@ v34: Righteousness and sin have communal consequences. Proverbs does not restric
 v01: חָכְמוֹת (chokhmot)
 “Wisdom.” Here associated with constructive, life-giving action.
 
+v08: עָרוּם (arum)
+“Prudent” or “shrewd.” Able to perceive circumstances and act with discernment.
+
 v12: דֶּרֶךְ (derekh)
 “Way” or “path.” A recurring wisdom image for the direction of a life.
+
+v21: חָנַן (chanan)
+“To show favor” or “be gracious.” To respond generously toward one in need.
 
 v22: חֶסֶד (ḥesed)
 “Steadfast love.” Faithful, enduring love expressed through concrete action.
 
+v27: מְקוֹר חַיִּים (meqor chayyim)
+“Fountain of life.” A continuing source of life and preservation.
+
 v29: אֶרֶךְ אַפַּיִם (erekh appayim)
 “Slow to anger.” Literally “long of nostrils,” an idiom for patience.
+
+v34: צְדָקָה (tsedaqah)
+“Righteousness.” Right conduct and right ordering within relationships and community.

@@ -89,3 +89,6 @@ v06: הַיָּם הַגָּדוֹל (hayyam haggadol)
 
 v13: גּוֹרָל (goral)
 “Lot.” The means by which the land is allotted.
+
+v17: נָחַל (nachal)
+“To give as inheritance” or “apportion.” To assign lasting possession.

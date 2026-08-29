@@ -79,5 +79,17 @@ v02: זֶרַע הַקֹּדֶשׁ (zera ha-qodesh)
 v02: מַעַל (ma'al)
 “Unfaithfulness” or “sacrilege.” Violation of a sacred trust.
 
+v03: שָׁמֵם (shamem)
+“To be appalled” or “desolate.” Ezra’s stunned response to the report.
+
+v04: חָרֵד (chared)
+“One who trembles.” A person deeply responsive to God’s word.
+
 v08: יָתֵד (yated)
 “Stake” or “peg.” An image of a secure foothold in the holy place.
+
+v09: מִחְיָה (michyah)
+“Reviving” or “preservation of life.” Renewed life after exile.
+
+v15: פְּלֵיטָה (peletah)
+“Remnant that escaped.” Survivors preserved through judgment.

@@ -169,11 +169,26 @@ v06: יָשַׁע (yasha)
 v07: לֵב (lev)
 “Heart.” The armor-bearer aligns himself with Jonathan’s resolve.
 
+v15: חֲרָדָה (charadah)
+“Trembling” or terror.
+
+v19: הָמֹון (hamon)
+“Tumult” or noisy multitude.
+
 v24: אָלָה (alah)
 “Oath” or curse.
 
 v27: יָאֹר עֵינַיִם (ya'or einayim)
 “Eyes became bright.” An idiom of renewed strength.
 
+v33: מָעַל (ma'al)
+“To act unfaithfully.”
+
+v41: תָּמִים (tamim)
+“Perfect” or complete. Used in the request for a decisive lot.
+
 v45: פָּדָה (padah)
 “To ransom” or redeem.
+
+v52: אִישׁ חַיִל (ish chayil)
+“Valiant man.”

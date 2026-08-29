@@ -77,5 +77,8 @@ v06: מָעַל (maal)
 v07: הִתְוַדָּה (hitvaddah)
 “To confess.” To acknowledge wrongdoing openly.
 
+v15: קִנְאָה (qin'ah)
+“Jealousy” or “zeal.” Intense relational passion, here connected with suspected marital unfaithfulness.
+
 v18: אָרַר (arar)
 “To curse.” To invoke judgment expressed through the ritual water and oath.

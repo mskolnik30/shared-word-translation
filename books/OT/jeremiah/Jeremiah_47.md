@@ -79,3 +79,9 @@ v04: כַּפְתּוֹר (Kaphtor)
 
 v05: קָרְחָה (qorchah)
 “Baldness.” Shaved hair as an expression of mourning.
+
+v05: גָּדַד (gadad)
+“To cut oneself.” A mourning practice.
+
+v06: נָדָן (nadan)
+“Sheath.” The covering into which the sword is urged to return.

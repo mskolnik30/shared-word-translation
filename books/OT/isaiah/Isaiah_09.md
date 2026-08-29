@@ -68,10 +68,13 @@ v06: שַׂר־שָׁלוֹם (sar shalom)
 “Prince of Peace.” One of the royal titles in v06.
 
 v07: יְהוָה צְבָאוֹת (YHWH tseva'ot)
+“LORD of Hosts.” A divine title emphasizing sovereign command.
+
+v07: מִשְׁפָּט (mishpat)
+“Justice” or “judgment.” Right judgment and right communal ordering.
+
+v07: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
 v01: גּוֹיִם (goyim)
 “Nations” or “peoples.” Peoples beyond Israel.
-
-v07: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.

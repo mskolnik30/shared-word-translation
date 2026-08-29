@@ -42,3 +42,9 @@ v02: חֹמֶר (chomer)
 
 v02: לֶתֶךְ (lethekh)
 “Lethech.” A dry measure, likely half a homer.
+
+v04: תְּרָפִים (teraphim)
+“Household gods.” Cultic objects associated with domestic religion or divination.
+
+v05: פָּחַד (pachad)
+“To tremble” or “come in awe.” Israel returns to the LORD with reverent fear.

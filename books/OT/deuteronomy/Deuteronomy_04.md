@@ -169,3 +169,24 @@ v06: חָכְמָה (chokhmah)
 
 v09: שָׁכַח (shakhach)
 “To forget.” A major covenant danger in Deuteronomy.
+
+v13: עֲשֶׂרֶת הַדְּבָרִים (aseret ha-devarim)
+“Ten Words.” The covenant sayings written on stone.
+
+v16: פֶּסֶל (pesel)
+“Carved image.” A manufactured representation forbidden for worship.
+
+v20: כּוּר הַבַּרְזֶל (kur ha-barzel)
+“Iron furnace.” A metaphor for Egypt’s oppressive bondage.
+
+v24: קַנָּא (qanna)
+“Jealous.” Zealous for exclusive covenant allegiance.
+
+v29: דָּרַשׁ (darash)
+“To seek.” Wholehearted searching for the LORD.
+
+v31: רַחוּם (rachum)
+“Compassionate.” The quality of God preserving covenant hope.
+
+v42: רֹצֵחַ (rotseach)
+“Manslayer.” One who causes another person’s death.

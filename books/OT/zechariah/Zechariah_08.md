@@ -167,8 +167,14 @@ v23: “ten people” — Ten functions as an image of abundance rather than nec
 
 ##Vocabulary
 
+v02: קָנָא (qana)
+“To be jealous” or “zealous.” Intense commitment directed here toward Zion.
+
 v03: אֱמֶת (emet)
 “Truth,” “faithfulness,” or “reliability.” That which is firm and trustworthy.
+
+v06: פָּלָא (pala)
+“To be marvelous,” “extraordinary,” or “difficult.” Something beyond ordinary human expectation or ability.
 
 v08: צְדָקָה (tsedaqah)
 “Righteousness.” Rightness expressed in relationship, conduct, and faithful ordering.
@@ -176,5 +182,17 @@ v08: צְדָקָה (tsedaqah)
 v12: שָׁלוֹם (shalom)
 “Peace,” “wholeness,” or “well-being.” Here peace includes social security, agricultural abundance, and restored communal life.
 
+v13: בְּרָכָה (berakhah)
+“Blessing.” Favor that gives life, flourishing, and benefit to others.
+
+v16: מִשְׁפַּט שָׁלוֹם (mishpat shalom)
+“Peaceful justice” or “judgment of peace.” Judicial action ordered toward truth and communal wholeness.
+
+v19: מוֹעֵד (moed)
+“Appointed time,” “festival,” or “appointed gathering.” A designated occasion, especially for communal worship.
+
 v21: חָלָה פְנֵי (chalah pene)
 “To seek favor.” Literally to entreat or soften the face of another, here describing earnest approach to the LORD.
+
+v23: כָּנָף (kanaf)
+“Wing,” “edge,” or “corner.” Here the edge or corner of a garment that people from the nations grasp as they ask to accompany one of Judah.

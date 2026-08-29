@@ -116,14 +116,46 @@ v33: “Everlasting God” (El Olam) marks a theological expansion beyond immedi
 
 ##Vocabulary
 
+v1: פָּקַד (pāqad)  
+
+v1: “To visit.” Often denotes divine intervention to fulfill promise.  
+
+v6: צָחַק (ṣāḥaq)  
+
+v6: “To laugh.” Expresses joy, irony, or tension depending on context.  
+
+v10: גָּרַשׁ (gāraš)
+“To drive out, expel.” Used for decisive separation.
+
+v10: “To drive out, expel.” Used for decisive separation.  
+
+v12: זֶרַע (zeraʿ)
+“Seed, offspring.” Central covenant term for lineage.
+
+v12: “Seed, offspring.” Central covenant term for lineage.  
+
+v17: שָׁמַע (šāmaʿ)  
+
+v17: “To hear.” Often implies responsive action.  
+
+v19: בְּאֵר (beʾēr)  
+
+v19: “Well.” Source of life in wilderness settings.  
+
+v23: חֶסֶד (ḥesed)  
+
+v23: “Steadfast love, loyalty.” Covenantal kindness.  
+
+v31: שָׁבַע (šābaʿ)  
+
+v31: “To swear.” Related to the number seven and oath-making.  
+
+v33: עוֹלָם (ʿôlām)  
+
+v33: “Everlasting, eternal.” Extends beyond temporal limits.  
+
 v01: פָּקַד (pāqad)
 “To visit.” Often denotes divine intervention to fulfill promise.
 
 v06: צָחַק (ṣāḥaq)
 “To laugh.” Expresses joy, irony, or tension depending on context.
-
-v10: גָּרַשׁ (gāraš)
-“To drive out, expel.” Used for decisive separation.
-
-v12: זֶרַע (zeraʿ)
-“Seed, offspring.” Central covenant term for lineage.

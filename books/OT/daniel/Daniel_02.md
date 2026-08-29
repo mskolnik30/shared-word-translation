@@ -184,8 +184,23 @@ v11: יַקִּיר (yaqqir)
 v18: רָז (raz)
 “Mystery.” A hidden matter disclosed by God.
 
+v21: עִדָּן (iddan)
+“Time” or “season.” God changes appointed periods.
+
+v22: עַמִּיק (ammiq)
+“Deep.” Hidden things inaccessible to ordinary perception.
+
+v31: צְלֵם (tselem)
+“Statue” or “image.” The great multi-metal figure.
+
+v34: אֶבֶן (even)
+“Stone.” The non-humanly cut stone that destroys the statue.
+
 v37: מַלְכוּת (malkhut)
 “Kingdom” or “royal rule.”
 
 v44: עָלַם (alam)
 “Forever” or “age.” The divine kingdom endures permanently.
+
+v45: יַצִּיב (yatsiv)
+“Certain” or “firm.” The dream is reliable.

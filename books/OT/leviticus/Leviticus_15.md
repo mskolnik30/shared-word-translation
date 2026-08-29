@@ -94,3 +94,6 @@ v16: שִׁכְבַת־זֶרַע (shikhvat zera)
 
 v19: נִדָּה (niddah)
 “Menstrual uncleanness.” A ritual state associated with menstrual bleeding.
+
+v31: נָזַר (nazar)
+“To separate” or “keep apart.” To maintain distinction from uncleanness.

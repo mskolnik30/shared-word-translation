@@ -104,3 +104,18 @@ v10: קֶרִי (qeri)
 
 v13: יָתֵד (yated)
 “Digging tool” or “peg.” Equipment used to cover waste.
+
+v15: סָגַר (sagar)
+“To hand over” or “deliver.” The escaped servant must not be returned.
+
+v17: קָדֵשׁ / קְדֵשָׁה (qadesh / qedeshah)
+“Cult prostitute.” Male and female terms associated with prohibited sexual worship.
+
+v19: נֶשֶׁךְ (neshekh)
+“Interest.” Profit charged on a loan.
+
+v21: נֶדֶר (neder)
+“Vow.” A voluntary promise made to the LORD.
+
+v24: שָׂבַע (sava)
+“To be satisfied.” Neighborly eating may continue until full.

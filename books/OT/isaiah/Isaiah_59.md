@@ -73,11 +73,17 @@ v21: “covenant” — The term names a binding relationship shaped by promise 
 v20: גֹּאֵל (go'el)
 “Redeemer.” One who acts to reclaim, defend, and restore.
 
-v21: בְּרִית (berit)
-“Covenant.” A binding relationship shaped by promise and obligation.
+v20: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
 v20: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+
+v21: בְּרִית (berit)
+“Covenant.” A binding relationship shaped by promise and obligation.
+
+v8: מִשְׁפָּט (mishpat)  
+“Justice” or “judgment.” Right judgment and right communal ordering.  
 
 v08: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Right judgment and right communal ordering.

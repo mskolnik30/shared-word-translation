@@ -75,11 +75,14 @@ v28: “Lent” continues the chapter’s wordplay on the Hebrew root for asking
 
 ##Vocabulary
 
-v03: צְבָאֹות (tsə·vā·’ōwṯ)
-“hosts": A title for God with a sense of His sovereignty and command over the heavenly armies, marking His might.
+v3: **: **צְבָאֹות (tsə·vā·’ōwṯ)  
+- "hosts": A title for God emphasizing His sovereignty and command over the heavenly armies, underscoring His might.  
 
 v11: נֶדֶר (ne·der)
 “vow": A solemn promise or pledge, often made to God in context of prayer or worship.
 
 v20: שָׁאַל (sha·al)
 “asked": Both a play on Samuel's name and a depiction of Hannah's active petitioning before Yahweh.
+
+v03: צְבָאֹות (tsə·vā·’ōwṯ)
+“hosts": A title for God with a sense of His sovereignty and command over the heavenly armies, marking His might.

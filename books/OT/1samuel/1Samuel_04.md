@@ -92,5 +92,14 @@ v04: יֹשֵׁב הַכְּרֻבִים (yoshev ha-keruvim)
 v05: רוּעַ (rua)
 “To shout.” Israel raises a battle shout.
 
+v10: נֶגֶף (negef)
+“Slaughter” or striking defeat.
+
+v12: עָפָר (afar)
+“Dirt” or dust. A sign of mourning.
+
 v21: אִי־כָבוֹד (Ikhavod)
 “Ichabod.” A name associated with lost glory.
+
+v21: גָּלָה (galah)
+“To go into exile” or depart.

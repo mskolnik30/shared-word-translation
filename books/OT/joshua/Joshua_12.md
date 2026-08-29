@@ -96,3 +96,6 @@ v06: אֲחֻזָּה (achuzzah)
 
 v07: חֲלֻקָּה (chaluqqah)
 “Division” or “allotment.” The distribution of land among tribes.
+
+v24: מֶלֶךְ (melekh)
+“King.” The repeated title structures the chapter’s list.

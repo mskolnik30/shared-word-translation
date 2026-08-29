@@ -69,3 +69,6 @@ v06: מַרְאָה (mar'ah)
 
 v07: נֶאֱמָן (ne'eman)
 “Faithful” or “trustworthy.” Reliable within an entrusted house.
+
+v08: תְּמוּנָה (temunah)
+“Form” or “likeness.” The visible form Moses is said to behold without further explanation.

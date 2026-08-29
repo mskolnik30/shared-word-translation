@@ -361,8 +361,40 @@ v64–66: repayment / curse — The ending is raw. It voices the desire for mora
 
 ##Vocabulary
 
+v1: עֳנִי (ʿoni) — affliction; misery
+
+v1: שֵׁבֶט (shevet) — rod; staff; scepter
+
+v2: חֹשֶׁךְ (ḥoshekh) — darkness
+
+v5: מָרוֹר (maror) — bitterness
+
+v7: גָּדַר (gadar) — to wall in; to fence up
+
+v7: נְחֹשֶׁת (neḥoshet) — bronze (as in “bronze chains”)
+
+v8: תְּפִלָּה (tefillah) — prayer
+
+v9: גָּזִית (gazit) — hewn stone; cut stone
+
+v10: דֹּב (dov) — bear
+
+v10: אַרְיֵה (’aryeh) — lion
+
+v12: קֶשֶׁת (qeshet) — bow
+
+v13: כִּלְיָה (kilyah) — kidneys (seat of inner life)
+
+v15: לַעֲנָה (laʿanah) — wormwood
+
+v16: חָצָץ (ḥatsats) — gravel; small stones
+
 v17: שָׁלוֹם (shalom)
 “Peace; wholeness.”
+
+v18: תִּקְוָה (tiqvah) — hope
+
+v22: רַחֲמִים (raḥamim) — mercies; compassion
 
 v22: חֶסֶד (ḥesed)
 “Steadfast love; covenant loyalty.”
@@ -370,8 +402,30 @@ v22: חֶסֶד (ḥesed)
 v23: אֱמוּנָה (’emunah)
 “Faithfulness; steadiness.”
 
+v24: חֵלֶק (ḥeleq) — portion; share
+
+v25: קָוָה (qavah) — to wait for; to hope in
+
+v33: לֵב (lev) — heart; inner will
+
 v35: מִשְׁפָּט (mishpat)
 “Justice; judgment.”
 
+v38: רָעָה (ra‘ah) — calamity; evil; disaster (context)
+
+v40: חָקַר (ḥaqar) — to examine; to search out
+
+v40: שׁוּב (shuv) — to return; to turn back
+
+v48: דִּמְעָה (dim‘ah) — tear
+
+v52: צִפּוֹר (tsippor) — bird
+
+v53: בּוֹר (bor) — pit; cistern
+
 v58: גָּאַל (ga’al)
 “To redeem; to reclaim.”
+
+v61: חֶרְפָּה (ḥerpah) — reproach; insult; disgrace
+
+v65: מְגִנָּה (meginnah) — hardness/shielding of heart (sense in context); protective covering

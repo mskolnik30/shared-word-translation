@@ -66,11 +66,59 @@ v21–23: Revelation is partial and protected. The imagery of rock, cleft, and c
 v12: יָדַע (yāḏaʿ)
 “To know.” Relational, not merely cognitive.
 
+v12: “To know.” Relational, not merely cognitive.  
+
 v12: שֵׁם (šēm)
 “Name.” Identity, reputation, presence.
+
+v12: “Name.” Identity, reputation, presence.  
+
+v12: “Favor/grace.” Unmerited regard.  
 
 v13: חֵן (ḥēn)
 “Favor, grace.”
 
 v13: דֶּרֶךְ (dereḵ)
 “Way.” Path, manner of action.
+
+v13: “Way.” Path, manner of action.  
+
+v11: פָּנִים (pānîm)  
+
+v11: “Face/presence.” Personal nearness of God.  
+
+v14: נוּחַ (nûaḥ)  
+
+v14: “To rest.” Settledness, relief.  
+
+v16: בָּדַל (bāḏal)  
+
+v16: “To set apart.” To distinguish.  
+
+v18: כָּבוֹד (kāḇôḏ)  
+
+v18: “Glory.” Weighty, visible presence.  
+
+v19: טוּב (ṭûḇ)  
+
+v19: “Goodness.” Beneficence, favoring action.  
+
+v19: חָנַן (ḥānan)  
+
+v19: “To be gracious.” To show favor freely.  
+
+v19: רָחַם (rāḥam)  
+
+v19: “To show compassion.” Deep, covenantal mercy.  
+
+v20: חַי (ḥay)  
+
+v20: “To live.” To remain alive.  
+
+v22: נִקְרָה (niqrāh)  
+
+v22: “Cleft.” Split or hollow in rock.  
+
+v23: אָחוֹר (ʾāḥôr)  
+
+v23: “Back.” After-part, what remains unseen.

@@ -78,5 +78,11 @@ v02: עָזַב (azav)
 v03: תּוֹרָה (torah)
 “Instruction.”
 
+v07: שָׂכָר (sakhar)
+“Reward.”
+
 v12: בְּרִית (berit)
 “Covenant.”
+
+v16: מִפְלֶצֶת (mifletset)
+“Horrid image.” A rare contemptuous cultic term.

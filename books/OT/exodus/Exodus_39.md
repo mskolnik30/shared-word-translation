@@ -144,8 +144,14 @@ v07: זִכָּרוֹן (zikkaron)
 v08: חֹשֶׁן (choshen)
 “Breastpiece.” The priestly chest garment.
 
+v22: מְעִיל (me'il)
+“Robe.” The blue garment worn with the ephod.
+
 v30: צִיץ (tsits)
 “Plate” or “frontlet.” The gold holy crown inscription.
+
+v32: כָּלָה (kalah)
+“To complete” or “finish.” The sanctuary work reaches completion.
 
 v43: בָּרַךְ (barakh)
 “To bless.” Moses blesses the people after inspecting their work.

@@ -107,3 +107,6 @@ v30: יָד רָמָה (yad ramah)
 
 v38: צִיצִת (tsitsit)
 “Tassel.” A fringe attached to the garment as a visible covenant reminder.
+
+v38: תְּכֵלֶת (tekhelet)
+“Blue.” A valued blue or blue-purple dye used in sacred textiles and the tassel cord.

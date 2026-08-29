@@ -49,6 +49,21 @@ v12: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationshi
 
 ##Vocabulary
 
+v1: בֵּל (Bel) / נְבוֹ (Nebo)  
+“Bel / Nebo.” Major Babylonian deities portrayed as burdens being carried.  
+
+v3: שְׁאָר (she'ar)  
+“Remnant.” Those who remain or survive.  
+
+v13: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v13: צִיּוֹן (tsiyyon)
+“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+
+v12: צְדָקָה (tsedaqah)
+“Righteousness.” Rightness and faithfulness in relationship and action.
+
 v01: בֵּל (Bel)
 “Bel.” A Babylonian divine name.
 
@@ -57,9 +72,3 @@ v01: נְבוֹ (Nebo)
 
 v03: שְׁאָר (she'ar)
 “Remnant.” Those who remain or survive.
-
-v13: צִיּוֹן (tsiyyon)
-“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-
-v12: צְדָקָה (tsedaqah)
-“Righteousness.” Rightness and faithfulness in relationship and action.

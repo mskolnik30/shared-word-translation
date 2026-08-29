@@ -103,6 +103,42 @@ v13: The chapter closes with others admiring the bride while she resists becomin
 
 ##Vocabulary
 
+v3: דּוֹדִי לִי וַאֲנִי לוֹ (dōḏî lî waʾănî lô)
+“My beloved is mine, and I am his.” A declaration of mutual belonging.
+
+v4: תִּרְצָה (Tirṣâ)
+“Tirzah.” A beautiful royal city in the northern kingdom.
+
+v4: נִדְגָּלוֹת (nidgālôṯ)
+“With banners.” Displaying majesty, order, and strength.
+
+v5: רָהַב (rāhaḇ)
+“To overwhelm.” To overpower or stir deeply.
+
+v7: רִמּוֹן (rimmôn)
+“Pomegranate.” A symbol of beauty, fruitfulness, and abundance.
+
+v8: פִּילֶגֶשׁ (pîlegeš)
+“Concubine.” A secondary wife within a royal household.
+
+v9: תַּמָּה (tammâ)
+“Perfect one.” One who is complete, cherished, and without rival.
+
+v10: שַׁחַר (šaḥar)
+“Dawn.” The first light of day.
+
+v11: אֱגוֹז (ʾĕḡôz)
+“Nut tree.” Often understood as a walnut tree.
+
+v11: נִצָּן (niṣṣān)
+“Blossom.” The flowering stage of a plant.
+
+v12: מֶרְכָּבָה (merkāḇâ)
+“Chariot.” A vehicle associated with speed, power, and honor.
+
+v13: שׁוּלַמִּית (Šûlammîṯ)
+“Shulammite.” A title or personal designation used for the bride.
+
 v03: דּוֹדִי לִי וַאֲנִי לוֹ (dōḏî lî waʾănî lô)
 “My beloved is mine, and I am his.” A declaration of mutual belonging.
 

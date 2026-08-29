@@ -139,6 +139,36 @@ v22: Sin becomes its own restraint. The wrongdoer is pictured as tied by cords c
 
 ##Vocabulary
 
+v1: חָכְמָה (chokmah)  
+“Wisdom.” Skill in discerning and living faithfully.  
+
+v2: מְזִמָּה (mezimmah)  
+“Discretion” or “purposeful planning.” The capacity to consider consequences and choose wisely.  
+
+v3: זָרָה (zarah)  
+“Strange” or “foreign.” Here a woman outside a proper marital relationship.  
+
+v4: לַעֲנָה (la'anah)  
+“Wormwood.” A plant known for intense bitterness, used figuratively for painful consequences.  
+
+v5: שְׁאוֹל (Sheol)  
+“Sheol.” The realm of the dead in Hebrew poetic and wisdom language.  
+
+v15: בּוֹר (bor)  
+“Cistern.” A constructed reservoir for storing water.  
+
+v18: מָקוֹר (maqor)  
+“Fountain” or “spring.” A source of flowing water, here used metaphorically for marital life and sexuality.  
+
+v19: שָׁגָה (shagah)  
+“To wander” or “be intoxicated.” In this context the verb positively describes being captivated by marital love.  
+
+v21: פָּלַס (palas)  
+“To weigh,” “make level,” or “examine.” The LORD evaluates the paths of human life.  
+
+v22: עָוֹן (avon)
+“Iniquity,” “wrong,” or “guilt.” Wrongdoing that can also carry its own consequence.
+
 v01: חָכְמָה (chokmah)
 “Wisdom.” Skill in discerning and living faithfully.
 
@@ -147,6 +177,3 @@ v02: מְזִמָּה (mezimmah)
 
 v05: שְׁאוֹל (Sheol)
 “Sheol.” The realm of the dead in Hebrew poetic and wisdom language.
-
-v22: עָוֹן (avon)
-“Iniquity,” “wrong,” or “guilt.” Wrongdoing that can also carry its own consequence.

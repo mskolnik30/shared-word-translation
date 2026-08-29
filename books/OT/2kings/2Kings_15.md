@@ -137,3 +137,18 @@ v16: בָּקַע (baqa)
 
 v19: פּוּל (Pul)
 “Pul.” The Assyrian king identified with Tiglath-Pileser III.
+
+v20: יָצָא כֶּסֶף (yatsa kesef)
+“To exact silver.” Menahem raises tribute from wealthy men.
+
+v25: שָׁלִישׁ (shalish)
+“Officer” or royal aide. Pekah’s position before his revolt.
+
+v29: גָּלָה (galah)
+“To carry into exile.” Assyria deported northern populations.
+
+v35: שַׁעַר הָעֶלְיוֹן (sha'ar ha-elyon)
+“Upper Gate.” A temple gate built by Jotham.
+
+v37: שָׁלַח (shalach)
+“To send.” The LORD begins sending foreign kings against Judah.

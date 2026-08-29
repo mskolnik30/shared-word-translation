@@ -59,14 +59,23 @@ v6: “day of the LORD” — The expression names decisive divine intervention 
 
 ##Vocabulary
 
+v4: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v4: גּוֹיִם (goyim)  
+“Nations” or “peoples.” Peoples beyond Israel.  
+
+v6: יוֹם יְהוָה (yom YHWH)  
+“Day of the LORD.” A time of decisive divine action.  
+
+v19: כָּבוֹד (kavod)
+“Glory.” Weight, honor, or manifest splendor.
+
 v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-
-v06: יוֹם יְהוָה (yom YHWH)
-“Day of the LORD.” A time of decisive divine action.
 
 v04: גּוֹיִם (goyim)
 “Nations” or “peoples.” Peoples beyond Israel.
 
-v19: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.
+v06: יוֹם יְהוָה (yom YHWH)
+“Day of the LORD.” A time of decisive divine action.

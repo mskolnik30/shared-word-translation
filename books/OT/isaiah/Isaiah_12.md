@@ -29,6 +29,18 @@ v2: “salvation” — Hebrew *yeshuah* and related roots describe deliverance,
 
 ##Vocabulary
 
+v3: מַעְיְנֵי הַיְשׁוּעָה (ma'ayene hayeshuah)  
+“Wells of salvation.” Springs from which the people draw water with joy.  
+
+v6: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+“Holy One of Israel.” A recurring Isaianic designation for the LORD.  
+
+v6: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v2: יְשׁוּעָה (yeshuah)  
+“Salvation” or “deliverance.” Saving help or rescue.  
+
 v03: מַעְיְנֵי הַיְשׁוּעָה (ma'ayene hayeshuah)
 “Wells of salvation.” Springs from which the people draw water with joy.
 

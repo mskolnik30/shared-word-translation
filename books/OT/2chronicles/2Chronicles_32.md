@@ -125,3 +125,9 @@ v08: זְרוֹעַ בָּשָׂר (zeroa basar)
 
 v18: יְהוּדִית (Yehudit)
 “Judean.” The local language of Jerusalem.
+
+v25: גָּבַהּ לֵב (gavah lev)
+“To lift up the heart.” Pride.
+
+v31: נָסָה (nasah)
+“To test.”

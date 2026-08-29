@@ -66,6 +66,9 @@ v19–20: Aaron’s argument is accepted by Moses, showing that ritual instructi
 v01: אֵשׁ זָרָה (esh zarah)
 “Unauthorized fire,” literally “strange fire.” Fire not commanded for the act performed.
 
+v03: דָּמַם (damam)
+“To be silent.” Aaron’s wordless response after the deaths of his sons.
+
 v10: חֹל (chol)
 “Common.” What is not set apart as holy.
 

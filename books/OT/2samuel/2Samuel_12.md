@@ -122,14 +122,35 @@ v31: The treatment of Ammonite captives is textually and morally difficult. The 
 
 ##Vocabulary
 
+v03: כִּבְשָׂה (kivsah)
+“Ewe lamb.” The poor man’s cherished animal.
+
+v06: חָמַל (chamal)
+“To have compassion” or spare. The rich man lacked it.
+
+v07: מָשַׁח (mashach)
+“To anoint.” God reminds David of his royal calling.
+
+v09: בָּזָה (bazah)
+“To despise.” David despised the LORD’s word through his actions.
+
 v13: חָטָא (chata)
 “To sin.” David’s confession before Nathan.
 
 v13: עָבַר (avar)
 “To put away” or cause to pass. Nathan says the LORD has removed David’s sin.
 
+v16: צוּם (tsum)
+“To fast.” David’s petition for the child.
+
 v22: חָנַן (chanan)
 “To be gracious.” David hopes for divine mercy.
 
 v24: שְׁלֹמֹה (Shelomoh)
 “Solomon.” The son later associated with peace.
+
+v25: יְדִידְיָהּ (Yedidyah)
+“Jedidiah,” “beloved of the LORD.”
+
+v31: מַלְבֵּן (malben)
+“Brick kiln” or brick mold. A difficult term in the treatment of captives.

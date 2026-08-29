@@ -113,11 +113,29 @@ v26: The final curse gathers the entire written instruction under the obligation
 
 ##Vocabulary
 
+v02: שִׂיד (sid)
+“Plaster.” Material covering the stones for writing.
+
 v05: מִזְבֵּחַ (mizbeach)
 “Altar.” The place built for sacrifice.
 
+v06: שְׁלֵמוֹת (shele mot)
+“Whole” or “uncut.” Stones untouched by iron tool.
+
+v07: שְׁלָמִים (shelamim)
+“Offerings of well-being.” Sacrifices associated with shared rejoicing.
+
+v09: הַסְכֵּת (hasket)
+“Be silent and hear.” A rare command calling for attentive quiet.
+
 v15: אָרוּר (arur)
 “Cursed.” Placed under covenant judgment.
+
+v17: גְּבוּל (gevul)
+“Boundary marker.” A protected limit of inherited land.
+
+v18: שָׁגָה (shagah)
+“To cause to wander.” Deliberately misdirecting a blind person.
 
 v19: הַטָּה מִשְׁפָּט (hattah mishpat)
 “To distort justice.” To bend judgment against the vulnerable.

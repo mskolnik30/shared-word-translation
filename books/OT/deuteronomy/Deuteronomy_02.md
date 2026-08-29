@@ -137,3 +137,12 @@ v11: רְפָאִים (Rephaim)
 
 v14: תָּמַם (tamam)
 “To come to an end.” Used of the passing wilderness generation.
+
+v25: רֶטֶט (retet)
+“Trembling.” Fear that falls upon surrounding peoples.
+
+v30: קָשָׁה (qashah)
+“To harden.” The LORD makes Sihon’s heart stubborn.
+
+v34: חָרַם (charam)
+“To devote to destruction.” To place under irrevocable ban.

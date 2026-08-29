@@ -77,14 +77,45 @@ v29: Perez becomes a significant ancestor in the lineage that eventually leads t
 
 ##Vocabulary
 
-v08: יָבַם (yāḇam)
-“To perform the duty of a brother-in-law.” To raise offspring for a deceased brother through marriage to his widow.
+v8: יָבַם (yāḇam)  
 
-v09: זֶרַע (zeraʿ)
-“Offspring” or “seed.” A central Genesis theme involving descendants and inheritance.
+v8: “To perform the duty of a brother-in-law.” To raise offspring for a deceased brother through marriage to his widow.  
+
+v9: זֶרַע (zeraʿ)  
+“Offspring” or “seed.” A central Genesis theme involving descendants and inheritance.  
+
+v11: אַלְמָנָה (ʾalmānâ)  
+“Widow.” A woman whose husband has died.  
+
+v14: צָעִיף (ṣāʿîp̄)  
+“Veil.” A covering worn over the face.  
+
+v17: עֵרָבוֹן (ʿērāḇôn)  
+“Pledge.” An object given as security guaranteeing future payment.  
+
+v18: חוֹתָם (ḥôṯām)  
+“Seal.” A personal identifying object used for authentication.  
+
+v21: קְדֵשָׁה (qĕḏēšâ)  
+“Cult prostitute.” A woman associated with ritualized sexual practices in some pagan contexts.  
 
 v24: זָנָה (zānâ)
 “To act as a prostitute.” Often used literally or metaphorically for unfaithfulness.
 
 v26: צָדַק (ṣāḏaq)
 “To be righteous” or “in the right.” Refers to conduct that conforms to justice or obligation.
+
+v29: פֶּרֶץ (Pereṣ)  
+“Perez.” Meaning “breach” or “breakthrough.”  
+
+v30: זֶרַח (Zeraḥ)  
+“Zerah.” Meaning “rising” or “shining forth.”  
+
+v30: שָׁנִי (šānî)  
+“Scarlet.” A bright red thread used as a distinguishing marker.  
+
+v08: יָבַם (yāḇam)
+“To perform the duty of a brother-in-law.” To raise offspring for a deceased brother through marriage to his widow.
+
+v09: זֶרַע (zeraʿ)
+“Offspring” or “seed.” A central Genesis theme involving descendants and inheritance.

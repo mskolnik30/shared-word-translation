@@ -81,14 +81,20 @@ v29: - v29: Michal’s inward contempt closes the account’s public celebration
 
 ##Vocabulary
 
-v02: שָׁרַת (sharat)
-“to minister, serve.” The Levites are chosen not only to carry the ark but to perform enduring service before the LORD.
+v2: - v02: **שָׁרַת — *sharat***: “to minister, serve.” The Levites are chosen not only to carry the ark but to perform enduring service before the LORD.  
 
 v12: קָדַשׁ (qadash)
 “to sanctify, make holy.” The leaders and their kindred must be set apart before handling the ark.
+
+v13: - v13: **מִשְׁפָּט — *mishpat***: “ordinance, prescribed order, judgment.” Here it refers to the established requirement governing the ark’s transport.  
 
 v13: דָּרַשׁ (darash)
 “to seek.” David interprets the earlier failure as not seeking God in the manner God had established.
 
 v25: בְּרִית (berit)
 “covenant.” Calling it “the ark of the covenant of the LORD” identifies the ark with the covenant relationship between the LORD and Israel.
+
+v28: - v28: **תְּרוּעָה — *teru‘ah***: “shout, loud blast.” The word conveys the jubilant, resounding public celebration accompanying the ark.  
+
+v02: שָׁרַת (sharat)
+“to minister, serve.” The Levites are chosen not only to carry the ark but to perform enduring service before the LORD.

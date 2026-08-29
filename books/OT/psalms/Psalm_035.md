@@ -110,14 +110,22 @@ v03: The Hebrew can mean “bar” or “close off” the way of the pursuers.
 
 ##Vocabulary
 
-v01: רִיב (riv)
-“contend” frames the psalm as a legal and personal conflict. The psalmist asks the LORD not only to judge but to take up the case against hostile opponents.
+v1: **רִיב — *riv***: “contend” frames the psalm as a legal and personal conflict. The psalmist asks the LORD not only to judge but to take up the case against hostile opponents.  
 
-v03: יְשׁוּעָה (yeshu‘ah)
-“salvation” is concrete deliverance from danger. Here the LORD speaks it directly to the psalmist’s life: “I am your salvation.”
+v3: **יְשׁוּעָה — *yeshu‘ah***: “salvation” is concrete deliverance from danger. Here the LORD speaks it directly to the psalmist’s life: “I am your salvation.”  
+
+v7: **חִנָּם — *chinnam***: “without cause” occurs twice in this verse, underscoring that the violence and hidden trap have no just basis.  
+
+v10: **עָנִי / אֶבְיוֹן — *‘ani / ’evyon***: “poor” and “needy” describe those vulnerable before greater power. The pair identifies the psalmist with people whom the LORD rescues from exploitation.  
 
 v24: צֶדֶק (tsedeq)
 “righteousness” here is the LORD’s faithful justice, the basis on which the psalmist asks to be judged and vindicated.
 
 v27: שָׁלוֹם (shalom)
 “well-being” encompasses peace, safety, and flourishing. The LORD’s greatness is declared in delighting in the servant’s shalom.
+
+v01: רִיב (riv)
+“contend” frames the psalm as a legal and personal conflict. The psalmist asks the LORD not only to judge but to take up the case against hostile opponents.
+
+v03: יְשׁוּעָה (yeshu‘ah)
+“salvation” is concrete deliverance from danger. Here the LORD speaks it directly to the psalmist’s life: “I am your salvation.”

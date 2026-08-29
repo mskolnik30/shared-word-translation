@@ -75,3 +75,6 @@ v17: זִמָּה (zimmah)
 
 v21: מֹלֶךְ (Molekh)
 “Molech.” A name or cultic designation associated with prohibited child offering.
+
+v23: תֶּבֶל (tevel)
+“Perversion” or “confusion.” A term for a prohibited mixing of categories.

@@ -61,6 +61,20 @@ v18: “Forty days and forty nights” is a recurring biblical period associated
 
 ##Vocabulary
 
+v1: שָׁחָה (*shachah*) — to bow down, to prostrate oneself; bodily posture of worship or submission.
+
+v5: שְׁלָמִים (*shelamim*) — offerings of well-being; traditionally “peace offerings,” conveying wholeness and restored relationship.
+
+v7: סֵפֶר הַבְּרִית (*sefer ha-berit*) — book of the covenant; written covenantal document publicly read.
+
+v8: בְּרִית (*berit*) — covenant; binding relational commitment, often formalized through ritual action.
+
+v8: כָּרַת (*karat*) — to cut; idiomatically “to cut a covenant,” reflecting ancient covenant-making practice.
+
+v10: לָבֵנָה (*lavenah*) — brick, pavement; here describing the sapphire-like surface beneath God’s feet.
+
+v16: כָּבוֹד (*kavod*) — glory; weight, honor, manifest presence.
+
 v05: שְׁלָמִים (shelamim)
 “Offerings of well-being.” Traditionally “peace offerings,” conveying wholeness and restored relationship.
 

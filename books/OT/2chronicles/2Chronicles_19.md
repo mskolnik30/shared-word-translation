@@ -51,6 +51,9 @@ v10: “Between blood and blood” is a legal idiom for different categories of 
 v02: עָזַר (azar)
 “To help.” Jehoshaphat’s alliance with the wicked is condemned.
 
+v03: כּוּן לֵב (kun lev)
+“To set the heart.” A deliberate orientation toward seeking God.
+
 v06: מִשְׁפָּט (mishpat)
 “Judgment” or justice.
 
@@ -59,3 +62,6 @@ v07: מַשָּׂא פָנִים (massa panim)
 
 v09: אֱמוּנָה (emunah)
 “Faithfulness.”
+
+v11: שֹׁטֵר (shoter)
+“Officer.” An official assisting judicial order.

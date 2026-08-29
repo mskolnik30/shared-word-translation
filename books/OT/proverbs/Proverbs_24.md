@@ -214,14 +214,32 @@ v30–34: The learner does not need a speech from the lazy landowner. The neglec
 
 ##Vocabulary
 
-v03: בָּנָה (banah)
-“To build.” Used literally and metaphorically for establishing a household.
+v3: בָּנָה (banah)  
+“To build.” Used literally and metaphorically for establishing a household.  
 
-v06: תַּחְבֻּלוֹת (tachbulot)
-“Wise guidance” or “strategy.” Counsel appropriate for difficult undertakings.
+v6: תַּחְבֻּלוֹת (tachbulot)  
+“Wise guidance” or “strategy.” Counsel appropriate for difficult undertakings.  
+
+v8: בַּעַל מְזִמּוֹת (baal mezimmot)  
+“Schemer.” One characterized by plans directed toward evil.  
+
+v11: לָקַח (laqach)  
+“To take.” Here describing people being carried away toward death.  
+
+v14: אַחֲרִית (acharit)  
+“Future” or “end.” What lies ahead as the outcome of a path.  
 
 v16: קוּם (qum)
 “To rise.” The righteous rise after repeated falling.
 
 v23: נָכַר פָּנִים (nakhar panim)
 “To show partiality.” Literally to recognize faces in a way that distorts justice.
+
+v34: רֵישׁ (resh)  
+“Poverty.” Material lack arriving through sustained neglect.  
+
+v03: בָּנָה (banah)
+“To build.” Used literally and metaphorically for establishing a household.
+
+v06: תַּחְבֻּלוֹת (tachbulot)
+“Wise guidance” or “strategy.” Counsel appropriate for difficult undertakings.

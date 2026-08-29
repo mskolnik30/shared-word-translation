@@ -144,8 +144,20 @@ v03: חַכְמֵי־לֵב (khakhmei-lev)
 v06: אֵפוֹד (ephod)
 “Ephod.” A distinctive priestly garment.
 
+v12: זִכָּרוֹן (zikkaron)
+“Remembrance.” The tribal names are borne before the LORD.
+
+v15: חֹשֶׁן מִשְׁפָּט (choshen mishpat)
+“Breastpiece of judgment.” The priestly breastpiece associated with divine decision.
+
+v30: אוּרִים וְתֻמִּים (Urim ve-Thummim)
+“Urim and Thummim.” Priestly instruments for discerning judgment.
+
 v36: צִיץ (tsits)
 “Plate” or “frontlet.” The gold piece engraved “Holy to the LORD.”
 
 v41: מִלֵּא יָד (mille yad)
 “To fill the hand.” An idiom for ordaining or installing someone into priestly office.
+
+v42: מִכְנָסַיִם (mikhnasayim)
+“Undergarments.” Linen garments covering the lower body.

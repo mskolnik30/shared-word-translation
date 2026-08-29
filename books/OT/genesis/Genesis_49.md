@@ -177,6 +177,45 @@ v33: The phrase “gathered to his people” expresses continuity with previous 
 
 ##Vocabulary
 
+v1: אַחֲרִית הַיָּמִים (ʾaḥărîṯ hayyāmîm)  
+“Days to come” or “latter days.” A phrase pointing toward the future destiny of the tribes.  
+
+v4: פַּחַז (paḥaz)  
+“Unstable” or “reckless.” Describes uncontrolled impulsiveness.  
+
+v7: פּוּץ (pûṣ)  
+“To scatter.” To disperse among a larger population.  
+
+v9: גּוּר אַרְיֵה (gûr ʾaryēh)  
+“Lion's cub.” A symbol of strength, royalty, and dominance.  
+
+v10: שֵׁבֶט (šēḇeṭ)  
+“Scepter.” A symbol of royal authority and rule.  
+
+v10: מְחֹקֵק (mĕḥōqēq)  
+“Ruler's staff” or “lawgiver.” An emblem of governing authority.  
+
+v16: דִּין (dîn)  
+“To judge.” To govern, vindicate, or render judgment.  
+
+v18: יְשׁוּעָה (yĕšûʿâ)
+“Salvation” or “deliverance.” Rescue provided by God.
+
+v22: פֹּרָת (pōrāṯ)  
+“Fruitful branch.” An image of flourishing life and productivity.  
+
+v24: אֲבִיר יַעֲקֹב (ʾĂḇîr Yaʿăqōḇ)  
+“Mighty One of Jacob.” A title emphasizing God's strength and protection.  
+
+v24: אֶבֶן יִשְׂרָאֵל (ʾEḇen Yiśrāʾēl)  
+“Stone of Israel.” A metaphor portraying God as stable, reliable, and enduring.  
+
+v26: נָזִיר (nāzîr)  
+“One set apart.” Here describing Joseph as distinguished among his brothers.  
+
+v33: אָסַף אֶל־עַמָּיו (ʾāsap̄ ʾel-ʿammāyw)  
+“Gathered to his people.” A traditional expression for death and reunion with one's ancestors.  
+
 v01: אַחֲרִית הַיָּמִים (ʾaḥărîṯ hayyāmîm)
 “Days to come” or “latter days.” A phrase pointing toward the future destiny of the tribes.
 
@@ -185,6 +224,3 @@ v04: פַּחַז (paḥaz)
 
 v07: פּוּץ (pûṣ)
 “To scatter.” To disperse among a larger population.
-
-v18: יְשׁוּעָה (yĕšûʿâ)
-“Salvation” or “deliverance.” Rescue provided by God.

@@ -166,3 +166,21 @@ v03: הֵיכָל (heikhal)
 
 v04: שָׁאַף (sha'af)
 “To trample,” “pant after,” or “swallow up.” Used of predatory treatment of the needy.
+
+v05: אֵיפָה (ephah)
+“Ephah.” A dry measure used in grain trade.
+
+v05: שֶׁקֶל (sheqel)
+“Shekel.” A unit of weight used for silver.
+
+v05: מֹאזְנֵי מִרְמָה (mozenei mirmah)
+“Deceitful scales.” Fraudulent weighing equipment.
+
+v06: מַפַּל (mappal)
+“Sweepings” or refuse. Inferior grain residue.
+
+v11: רָעָב (ra'av)
+“Famine.” Here a famine of hearing divine words.
+
+v14: אַשְׁמַת שֹׁמְרוֹן (ashmat Shomron)
+“Guilt of Samaria.” A polemical designation for Samaria’s cultic object or deity.

@@ -134,3 +134,9 @@ v09: יָתוֹם (yatom)
 
 v21: סָכַן (sakhan)
 “To become acquainted” or “be of use.” A rare verb in Eliphaz’s invitation to be reconciled with God.
+
+v23: שׁוּב (shuv)
+“To return.” The central verb of Eliphaz’s call to repentance.
+
+v25: בֶּצֶר (betser)
+“Gold” or “precious ore.” Wealth replaced by the Almighty himself.

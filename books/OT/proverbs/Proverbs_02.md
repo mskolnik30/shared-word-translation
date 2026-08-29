@@ -114,6 +114,51 @@ v07: “sound wisdom” — The Hebrew term is uncommon and can refer to effecti
 
 ##Vocabulary
 
+v1: צָפַן (tsafan)  
+“To treasure,” “store,” or “hide.” To preserve something carefully for future use.  
+
+v2: תְּבוּנָה (tevunah)  
+“Understanding” or “discernment.” The ability to distinguish, perceive relationships, and judge wisely.  
+
+v3: בִּינָה (binah)  
+“Understanding” or “insight.” Discernment that perceives what lies within or between matters.  
+
+v4: מַטְמוֹן (matmon)  
+“Hidden treasure.” Something valuable concealed and therefore requiring intentional search.  
+
+v5: דַּעַת אֱלֹהִים (daat Elohim)  
+“Knowledge of God.” Knowing that includes recognition, relationship, and faithful response.  
+
+v7: תּוּשִׁיָּה (tushiyyah)  
+“Sound wisdom,” “effective wisdom,” or “resourcefulness.” Wisdom capable of producing stability and faithful action.  
+
+v7: תֹּם (tom)  
+“Integrity” or “wholeness.” Undividedness of character and conduct.  
+
+v8: חָסִיד (chasid)  
+“Faithful one” or “loyal one.” A person characterized by covenant loyalty or steadfast faithfulness.  
+
+v11: מְזִמָּה (mezimmah)  
+“Discretion” or “purposeful planning.” The capacity to anticipate and choose wisely.  
+
+v12: תַּהְפֻּכוֹת (tahpukhot)  
+“Perverse things” or “things turned upside down.” Speech or conduct that distorts what is right.  
+
+v16: זָרָה (zarah)  
+“Strange” or “foreign.” One outside a proper relationship or boundary; here used in the warning concerning sexual unfaithfulness.  
+
+v17: בְּרִית (berit)
+“Covenant.” A binding relationship established through commitment and obligation.
+
+v18: רְפָאִים (rephaim)  
+“The dead” or “departed shades.” Those associated poetically with the realm of death.  
+
+v20: אֹרַח (orach)  
+“Path” or “way.” A course of life, especially one shaped by repeated choices.  
+
+v22: בָּגַד (bagad)  
+“To act treacherously” or “betray.” To violate trust or deal faithlessly.  
+
 v05: דַּעַת אֱלֹהִים (daat Elohim)
 “Knowledge of God.” Knowing that includes recognition, relationship, and faithful response.
 
@@ -122,6 +167,3 @@ v07: תּוּשִׁיָּה (tushiyyah)
 
 v08: חָסִיד (chasid)
 “Faithful one” or “loyal one.” A person characterized by covenant loyalty or steadfast faithfulness.
-
-v17: בְּרִית (berit)
-“Covenant.” A binding relationship established through commitment and obligation.

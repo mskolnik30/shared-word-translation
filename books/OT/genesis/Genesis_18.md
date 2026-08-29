@@ -92,6 +92,51 @@ v25: “Judge of all the earth” universalizes the LORD’s authority beyond Is
 
 ##Vocabulary
 
+v1: רָאָה (rāʾāh)  
+
+v1: “To see.” Used for perception, often marking significant encounter or divine appearance.  
+
+v3: חֵן (ḥēn)  
+
+v3: “Favor, grace.” Acceptance granted within a relational context.  
+
+v9: אָשָּׁה (ʾiššāh)  
+
+v9: “Woman, wife.” Context determines nuance between role and identity.  
+
+v12: צָחַק (ṣāḥaq)
+“To laugh.” Can express joy, disbelief, or irony.
+
+v12: “To laugh.” Can express joy, disbelief, or irony.  
+
+v14: פָּלָא (pālāʾ)  
+
+v14: “To be wonderful, extraordinary.” Refers to acts beyond human capability.  
+
+v19: דֶּרֶךְ (derek)  
+
+v19: “Way, path.” Often used for moral or covenantal conduct.  
+
+v19: צְדָקָה (ṣĕdāqāh)  
+
+v19: “Righteousness.” Right relationship expressed in action.  
+
+v19: מִשְׁפָּט (mišpāṭ)  
+
+v19: “Justice.” Legal and ethical order upheld in community.  
+
+v20: זְעָקָה (zeʿāqāh)  
+
+v20: “Outcry.” A cry of distress that demands response.  
+
+v25: שָׁפַט (šāphaṭ)  
+
+v25: “To judge.” To govern or render justice.  
+
+v27: עָפָר (ʿāp̄ār)  
+
+v27: “Dust.” Symbol of human frailty and mortality.  
+
 v01: רָאָה (rāʾāh)
 “To see.” Used for perception, often marking significant encounter or divine appearance.
 
@@ -100,6 +145,3 @@ v03: חֵן (ḥēn)
 
 v09: אָשָּׁה (ʾiššāh)
 “Woman, wife.” Context determines nuance between role and identity.
-
-v12: צָחַק (ṣāḥaq)
-“To laugh.” Can express joy, disbelief, or irony.

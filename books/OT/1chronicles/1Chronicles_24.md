@@ -86,6 +86,21 @@ v06: The repeated wording, “one was selected—one was selected—for Ithamar,
 
 ##Vocabulary
 
+v1: מַחְלֹקֶת (*maḥăloqet*)  
+— “division.” Here it denotes an ordered priestly division, a group assigned a share in the temple’s service.  
+
+v5: גּוֹרָל (*goral*)  
+— “lot.” The lots distribute priestly responsibilities; they are part of the chapter’s concern for an ordered and impartial assignment of service.  
+
+v5: קֹדֶשׁ (*qodesh*)  
+— “sanctuary,” “holy thing,” or “holiness.” In “officers of the sanctuary,” the term locates their authority within what belongs especially to God.  
+
+v19: עֲבֹדָה (ʿavodah)
+“service.” The word describes the structured work of worship performed in the house of the LORD.
+
+v31: לְעֻמַּת (*leʿummat*)  
+— “alongside,” “corresponding to.” Repeated in this verse, it presents the Levites and priestly families as standing in parallel for the casting of lots.  
+
 v01: מַחְלֹקֶת (maḥăloqet)
 “division.” Here it denotes an ordered priestly division, a group assigned a share in the temple’s service.
 
@@ -94,6 +109,3 @@ v05: גּוֹרָל (goral)
 
 v05: קֹדֶשׁ (qodesh)
 “sanctuary,” “holy thing,” or “holiness.” In “officers of the sanctuary,” the term locates their authority within what belongs especially to God.
-
-v19: עֲבֹדָה (ʿavodah)
-“service.” The word describes the structured work of worship performed in the house of the LORD.

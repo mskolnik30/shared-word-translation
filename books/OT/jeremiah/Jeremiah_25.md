@@ -159,3 +159,6 @@ v15: כּוֹס (kos)
 
 v26: שֵׁשַׁךְ (Sheshakh)
 “Sheshach.” A coded designation for Babylon.
+
+v31: רִיב (riv)
+“Controversy” or “legal dispute.” The LORD brings a case against the nations.

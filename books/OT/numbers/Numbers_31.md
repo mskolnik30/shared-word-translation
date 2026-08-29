@@ -130,3 +130,6 @@ v23: מֵי נִדָּה (mei niddah)
 
 v28: מֶכֶס (mekhes)
 “Tribute” or “levy.” A required share taken from the battle portion for the LORD.
+
+v54: זִכָּרוֹן (zikkaron)
+“Remembrance” or “memorial.” Something placed before the LORD as enduring covenantal memory.

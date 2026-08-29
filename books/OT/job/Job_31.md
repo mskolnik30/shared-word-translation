@@ -198,3 +198,6 @@ v15: כּוּן (kun)
 
 v24: כֶּסֶל (kesel)
 “Confidence” or “security.” Job denies placing ultimate trust in gold.
+
+v35: תָּו (tav)
+“Mark” or “signature.” Job’s legal sign demanding an answer.

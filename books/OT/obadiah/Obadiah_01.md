@@ -210,8 +210,38 @@ v01: חֲזוֹן (chazon)
 v01: צִיר (tsir)
 “Messenger” or “envoy.” One sent among the nations with a summons.
 
+v03: זָדוֹן (zadon)
+“Pride” or “presumption.” Arrogant self-confidence that deceives the heart.
+
+v03: סֶלַע (sela)
+“Rock” or “cliff.” Rocky terrain providing natural protection and height.
+
+v06: עֵשָׂו (Esav)
+“Esau.” The ancestral name used poetically and politically for Edom.
+
 v07: בְּרִית (berit)
 “Covenant” or “alliance.” In the expression “people of your covenant,” referring to those bound to Edom by alliance.
+
+v08: תְּבוּנָה (tevunah)
+“Understanding” or “discernment.” The capacity for insight, here removed from Mount Esau.
+
+v10: חָמָס (chamas)
+“Violence.” Wrongful force, brutality, or destructive injustice.
+
+v11: נֶגֶד (neged)
+“Opposite,” “before,” or “aloof.” The expression describes Edom standing apart while Jerusalem was attacked.
+
+v15: גְּמוּל (gemul)
+“Deed,” “recompense,” or “what is repaid.” Action returning upon the one who performed it.
+
+v17: פְּלֵיטָה (peletah)
+“Escape,” “deliverance,” or “survivors.” Those who escape destruction and remain.
+
+v18: קַשׁ (qash)
+“Stubble.” Dry plant remains easily consumed by fire.
+
+v21: מוֹשִׁיעִים (moshi'im)
+“Deliverers” or “saviors.” Those who bring rescue or deliverance.
 
 v21: מְלוּכָה (melukhah)
 “Kingdom” or “kingship.” Royal rule; the book concludes by declaring that the kingdom belongs to the LORD.

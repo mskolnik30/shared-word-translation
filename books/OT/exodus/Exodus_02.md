@@ -49,5 +49,7 @@ v25: <v25> "God knew" - Encompasses awareness, empathy, and a resolution to act,
 
 ##Vocabulary
 
+v10: מֹשֶׁה (mosheh) - Moses' name reflects his deliverance from water and his role in Israel's liberation, providing continuity across his personal narrative and larger leadership storyline.  
+
 v10: מֹשֶׁה (mosheh)
 “Moses.” The narrative associates the name with being drawn from the water.

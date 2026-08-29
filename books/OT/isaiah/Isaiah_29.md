@@ -64,11 +64,20 @@ v8: “Zion” — The name can refer to Jerusalem, its people, or the city pers
 
 ##Vocabulary
 
-v01: אֲרִיאֵל (Ari'el)
-“Ariel.” A poetic designation for Jerusalem with debated etymology.
+v1: אֲרִיאֵל (Ari'el)  
+“Ariel.” A poetic designation for Jerusalem with debated etymology.  
 
 v19: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
+
+v6: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+“LORD of Hosts.” A divine title emphasizing sovereign command.  
+
+v8: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v01: אֲרִיאֵל (Ari'el)
+“Ariel.” A poetic designation for Jerusalem with debated etymology.
 
 v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”

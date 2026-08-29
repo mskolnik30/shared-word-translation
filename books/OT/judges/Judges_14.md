@@ -97,5 +97,11 @@ v06: צָלַח (tsalach)
 v12: חִידָה (chidah)
 “Riddle.” An enigmatic saying requiring interpretation.
 
+v14: מָתוֹק (matoq)
+“Sweet.” Used in the riddle of honey.
+
+v15: פָּתָה (patah)
+“To entice” or “persuade.” The Philistines order Samson’s wife to pressure him.
+
 v19: חָרָה אַף (charah af)
 “Anger burned.” A common Hebrew idiom for intense anger.

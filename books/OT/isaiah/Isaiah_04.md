@@ -27,14 +27,26 @@ v4: “justice” — Hebrew *mishpat* includes judgment, legal right, and the o
 
 ##Vocabulary
 
+v2: צֶמַח (tsemach)  
+“Branch” or “growth.” New vegetation used as an image of restored life.  
+
+v2: כָּבוֹד (kavod)  
+“Glory.” Weight, honor, or manifest splendor.  
+
+v3: צִיּוֹן (tsiyyon)  
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
+
+v4: מִשְׁפָּט (mishpat)  
+“Justice” or “judgment.” Right judgment and right communal ordering.  
+
 v02: צֶמַח (tsemach)
 “Branch” or “growth.” New vegetation used as an image of restored life.
+
+v02: כָּבוֹד (kavod)
+“Glory.” Weight, honor, or manifest splendor.
 
 v03: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
 v04: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Right judgment and right communal ordering.
-
-v02: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.

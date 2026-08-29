@@ -87,3 +87,6 @@ v09: מִלֵּא יָד (mille yad)
 
 v18: שָׁעַן (sha'an)
 “To rely upon” or lean on.
+
+v22: מִדְרָשׁ (midrash)
+“Commentary” or interpretive record.

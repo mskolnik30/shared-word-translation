@@ -232,8 +232,32 @@ v08: אֲסָם (asam)
 v12: אוֹצָר (otsar)
 “Treasury.” Heaven as the LORD’s storehouse of rain.
 
+v20: מְהוּמָה (mehumah)
+“Confusion” or “panic.” Disorder sent in judgment.
+
+v22: שִׁדָּפוֹן (shiddafon)
+“Blight” or scorching. Crop destruction.
+
+v23: נְחֹשֶׁת (nechoshet)
+“Bronze.” The rainless heavens become bronze-like.
+
+v36: מָשָׁל (mashal)
+“Proverb” or “byword.” Israel becomes a warning among nations.
+
 v42: צְלָצַל (tselatsal)
 “Cricket” or another consuming insect. The exact species is uncertain.
+
+v48: עֹל בַּרְזֶל (ol barzel)
+“Iron yoke.” An image of harsh subjection.
+
+v53: מָצוֹק (matsoq)
+“Distress” or “siege pressure.” Constriction under enemy attack.
+
+v58: נִכְבָּד (nikhbad)
+“Glorious” or “weighty.” The character of the divine name.
+
+v65: דַּאֲבוֹן נֶפֶשׁ (da'avon nefesh)
+“Despairing life.” A condition of inward wasting or grief.
 
 v68: מָכַר (makhar)
 “To sell.” The final curse imagines return to Egyptian servitude.

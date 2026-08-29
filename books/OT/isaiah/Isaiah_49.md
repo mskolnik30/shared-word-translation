@@ -88,11 +88,20 @@ v3: “servant” — Isaiah uses servant language in several contexts. TSW pres
 v15: רֶחֶם (rechem)
 “Womb.” The source of maternal imagery for compassion and remembrance.
 
+v7: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+“Holy One of Israel.” A recurring Isaianic designation for the LORD.  
+
+v7: גֹּאֵל (go'el)  
+“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.  
+
+v3: עֶבֶד (eved)  
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
+
 v07: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
-v03: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
 v07: גֹּאֵל (go'el)
 “Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
+
+v03: עֶבֶד (eved)
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.

@@ -120,8 +120,11 @@ v44–55: The covenant establishes boundaries rather than partnership. Peace is 
 
 ##Vocabulary
 
-v03: שׁוּב (shûḇ)
+v3: שׁוּב (shûḇ)
 “To return.” A key covenant theme involving return to the land and to God's purposes.
+
+v7: רָמָה (rāmâ)
+“To deceive.” The same root often associated with trickery and manipulation.
 
 v10: חֲלוֹם (ḥălôm)
 “Dream.” A means through which God reveals guidance and instruction.
@@ -129,8 +132,29 @@ v10: חֲלוֹם (ḥălôm)
 v13: מַצֵּבָה (maṣṣēḇâ)
 “Pillar.” A standing stone erected as a memorial or witness.
 
+v19: תְּרָפִים (tĕrāphîm)
+“Household gods.” Small cultic objects associated with family religion and inheritance.
+
+v24: טוֹב אוֹ רָע (ṭôḇ ʾô rāʿ)
+“Good or bad.” An expression meaning anything at all, whether favorable or hostile.
+
+v39: טָרֵפָה (ṭārēp̄â)
+“What was torn.” Livestock killed by predators.
+
+v42: פַּחַד יִצְחָק (Paḥaḏ Yiṣḥāq)
+“Fear of Isaac.” A distinctive title for God emphasizing awe and reverence.
+
 v44: בְּרִית (bĕrît)
 “Covenant.” A binding agreement witnessed and remembered.
 
 v48: גַּלְעֵד (Galʿēḏ)
 “Heap of witness.” A memorial name marking the covenant between Jacob and Laban.
+
+v49: מִצְפָּה (Miṣpâ)
+“Watchtower” or “watchpost.” A place name associated with divine oversight.
+
+v52: עֵד (ʿēḏ)
+“Witness.” One who testifies to the truth of an agreement or event.
+
+v03: שׁוּב (shûḇ)
+“To return.” A key covenant theme involving return to the land and to God's purposes.

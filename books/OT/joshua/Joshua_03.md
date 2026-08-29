@@ -73,6 +73,62 @@ v17: Stability (“stood firmly”) contrasts with flowing waters; the people cr
 
 ##Vocabulary
 
+v7: גָּדַל (gāḏal)  
+
+“To exalt.” To make great or elevate.
+
+v8: כֹּהֵן (kōhēn)  
+
+“Priest.” One who mediates sacred action.
+
+v8: אָרוֹן (ʾārôn)  
+
+“Ark.” Sacred chest representing covenant presence.
+
+v9: קָרַב (qāraḇ)  
+
+“To come near.” To approach for encounter.
+
+v10: חַי (ḥay)  
+
+“Living.” Active, present, not inert.
+
+v10: יָרַשׁ (yāraš)  
+
+“To dispossess.” To drive out and take possession.
+
+v11: אֲדוֹן (ʾăḏôn)  
+
+“Lord/master.” One with authority.
+
+v12: שֵׁבֶט (šēḇeṭ)  
+
+“Tribe.” Kinship division within Israel.
+
+v13: כָּרַת (kāraṯ)  
+
+“To cut off.” To sever or stop.
+
+v13: נֵד (nēḏ)  
+
+“Heap.” Piled-up mass, especially of water.
+
+v15: גָּדַל (gāḏal)  
+
+“To swell/overflow.” To increase beyond bounds.
+
+v16: עָמַד (ʿāmaḏ)  
+
+“To stand.” To remain fixed or stationary.
+
+v17: יָצַב (yāṣaḇ)  
+
+“To stand firm.” To be established, stable.
+
+v17: עָבַר (ʿāḇar)  
+
+“To pass over.” To cross from one side to another.
+
 v07: גָּדַל (gāḏal)
 “To exalt.” To make great or elevate.
 

@@ -128,6 +128,106 @@ v20–22: The community responds with waiting, trust, and petition; hope and ste
 
 ##Vocabulary
 
+v1: רָנַן (rānan)  
+
+“To shout for joy.” To cry out in rejoicing.
+
+v1: יָשָׁר (yāšār)  
+
+“Upright.” Straight, morally aligned.
+
+v2: יָדָה (yāḏāh)  
+
+“To give thanks.” To praise, acknowledge.
+
+v3: חָדָשׁ (ḥāḏāš)  
+
+“New.” Fresh, renewed.
+
+v4: יָשָׁר (yāšār)  
+
+“Upright.” Straight, reliable.
+
+v4: אֱמוּנָה (ʾĕmûnāh)  
+
+“Faithfulness.” Firmness, reliability.
+
+v5: צְדָקָה (ṣĕḏāqāh)  
+
+“Righteousness.” Right order, justice.
+
+v5: מִשְׁפָּט (mišpāṭ)  
+
+“Justice.” Legal judgment.
+
+v5: חֶסֶד (ḥeseḏ)  
+
+“Steadfast love.” Covenant loyalty.
+
+v6: דָּבָר (dāḇār)  
+
+“Word.” Spoken command.
+
+v6: רוּחַ (rûaḥ)  
+
+“Breath/spirit.” Life-giving force.
+
+v7: תְּהוֹם (tĕhôm)  
+
+“Deep.” Primeval waters.
+
+v8: יָרֵא (yārēʾ)  
+
+“To fear.” Reverent awe.
+
+v9: עָמַד (ʿāmaḏ)  
+
+“To stand.” To be established.
+
+v10: עֵצָה (ʿēṣāh)  
+
+“Counsel.” Plan, advice.
+
+v11: מַחֲשָׁבָה (maḥăšāḇāh)  
+
+“Plan/thought.” Intention.
+
+v12: נַחֲלָה (naḥălāh)  
+
+“Heritage.” Inheritance.
+
+v15: יָצַר (yāṣar)  
+
+“To form.” To shape intentionally.
+
+v16: יָשַׁע (yāšaʿ)  
+
+“To save.” To deliver.
+
+v17: שֶׁקֶר (šeqer)  
+
+“Falsehood.” Deception, unreliability.
+
+v18: עַיִן (ʿayin)  
+
+“Eye.” Watchful attention.
+
+v19: נָצַל (nāṣal)  
+
+“To deliver.” To rescue.
+
+v20: קָוָה (qāwāh)  
+
+“To wait.” To hope expectantly.
+
+v20: מָגֵן (māgēn)  
+
+“Shield.” Protection.
+
+v22: רָצוֹן (rāṣôn)  
+
+“Favor.” Acceptance, goodwill.
+
 v04: אֱמוּנָה (ʾĕmûnāh)
 “Faithfulness.” Firmness, reliability.
 

@@ -67,11 +67,27 @@ v14: The exposed foundation makes visible the wall’s instability. The image co
 
 ##Vocabulary
 
+v10: ### v10  
+
+v10: שָׁלוֹם (sha.lom)  
+"Peace" functions here as the empty promise of the false prophets, contradicting the true chaotic state and absent security in Israel. It highlights their deceitful assurance.  
+
 v10: שָׁלוֹם (shalom)
 “Peace" functions here as the empty promise of the false prophets, contradicting the true chaotic state and absent security in Israel.
 
+v16: ### v16  
+
+v16: חוֹזֶה (cho.zeh)  
+
+v16: In this context, "seer" refers to those claiming visionary insight, juxtaposed against true prophecy. These false seers are rebuked for misleading visions, promising non-existent peace.  
+
 v16: חוֹזֶה (chozeh)
 “Seer.” One who claims visionary perception; here the term is used of false visionaries.
+
+v23: ### v23  
+
+v23: שָׁוְא (shav)  
+Translating as "vanity" or "emptiness," this describes the false visions and divinations of the prophets. Their deceit offers nothing substantive or true, leading God to take corrective action.  
 
 v23: שָׁוְא (shav)
 “Emptiness; falsehood; vanity.” The term characterizes deceptive visions and divinations.

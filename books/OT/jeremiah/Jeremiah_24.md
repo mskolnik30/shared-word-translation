@@ -56,3 +56,9 @@ v05: נָכַר (nakhar)
 
 v06: בָּנָה (banah)
 “To build.” Used in the promise of restored community.
+
+v06: נָטַע (nata)
+“To plant.” A restoration verb reversing uprooting.
+
+v07: לֵב לָדַעַת (lev lada'at)
+“A heart to know.” Inward capacity for covenantal recognition of the LORD.

@@ -109,3 +109,21 @@ v06: בֵּית עֲבָדִים (bet avadim)
 
 v09: קַנָּא (qanna)
 “Jealous.” Zealous for exclusive covenant loyalty.
+
+v11: שָׁוְא (shav)
+“Emptiness,” “falsehood,” or “vanity.” The forbidden misuse of the divine name.
+
+v12: שָׁמוֹר (shamor)
+“Keep” or “guard.” Deuteronomy’s opening Sabbath verb.
+
+v17: רָצַח (ratsach)
+“To murder.” Wrongful killing.
+
+v21: חָמַד (chamad)
+“To desire” or “covet.”
+
+v21: אָוָה (avah)
+“To crave” or “desire.” A second desire verb in the command.
+
+v26: אֱלֹהִים חַיִּים (Elohim chayyim)
+“Living God.” God whose voice the people hear and survive.

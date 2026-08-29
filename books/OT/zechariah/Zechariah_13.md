@@ -77,6 +77,33 @@ v07: “the little ones” — The Hebrew refers to those who are small or insig
 
 ##Vocabulary
 
+v1: מָקוֹר (maqor)  
+“Fountain” or “spring.” A continuing source of flowing water.  
+
+v1: חַטָּאת (chatta't)  
+“Sin.” Wrongdoing or failure in relation to what is required.  
+
+v1: נִדָּה (niddah)  
+“Impurity.” A state of ritual uncleanness or exclusion requiring cleansing.  
+
+v2: גִּלּוּלִים (gillulim)  
+“Idols.” A strongly negative Hebrew term for objects of idolatrous worship.  
+
+v3: שֶׁקֶר (sheqer)  
+“Falsehood” or “lie.” What is unreliable or contrary to truth, here spoken falsely in the LORD’s name.  
+
+v4: אַדֶּרֶת שֵׂעָר (adderet se'ar)  
+“Hairy garment.” A mantle or outer garment associated here with prophetic appearance.  
+
+v7: עָמִית (amit)  
+“Companion,” “associate,” or “one near to another.” The term expresses unusually close relationship in the phrase “the man who is my companion.”  
+
+v9: צָרַף (tsaraf)  
+“To refine.” To purify metal through intense heat.  
+
+v9: בָּחַן (bachan)  
+“To test” or “examine.” To determine character or quality, here compared with testing gold.  
+
 v01: מָקוֹר (maqor)
 “Fountain” or “spring.” A continuing source of flowing water.
 

@@ -82,6 +82,43 @@ v31: The chapter ends without resolution. The question raised by Simeon and Levi
 
 ##Vocabulary
 
+v2: עָנָה (ʿānâ)  
+“To afflict,” “humiliate,” or “violate.” A term often associated with abuse and degradation.  
+
+v3: דָּבַק (dāḇaq)  
+“To cling” or “hold fast.” Describes strong attachment or devotion.  
+
+v7: נְבָלָה (nĕḇālâ)  
+“Outrageous thing,” “folly,” or “disgrace.” Conduct viewed as morally intolerable.  
+
+v10: אָחַז (ʾāḥaz)
+“To acquire” or “gain possession.” Used here regarding settlement and property.
+
+v12: מֹהַר (mōhar)  
+
+v12: “Bride-price.” Payment associated with marriage arrangements.  
+
+v13: מִרְמָה (mirmâ)  
+“Deceit” or “treachery.” Deliberate deception for personal advantage.  
+
+v14: חֶרְפָּה (ḥerpâ)  
+“Disgrace” or “reproach.” A condition of shame or dishonor.  
+
+v22: עַם אֶחָד (ʿam ʾeḥād)  
+“One people.” An expression of social and communal unity.  
+
+v25: חֶרֶב (ḥereḇ)  
+“Sword.” A common symbol of violence, warfare, and judgment.  
+
+v29: שָׁבָה (šāḇâ)  
+“To take captive.” To seize persons as prisoners or spoil.  
+
+v30: עָכַר (ʿāḵar)  
+“To trouble” or “bring calamity.” To create danger, distress, or disruption.  
+
+v31: זוֹנָה (zônâ)  
+“Prostitute.” The term appears in the brothers' rhetorical question concerning honor and treatment.  
+
 v02: עָנָה (ʿānâ)
 “To afflict,” “humiliate,” or “violate.” A term often associated with abuse and degradation.
 
@@ -90,6 +127,3 @@ v03: דָּבַק (dāḇaq)
 
 v07: נְבָלָה (nĕḇālâ)
 “Outrageous thing,” “folly,” or “disgrace.” Conduct viewed as morally intolerable.
-
-v10: אָחַז (ʾāḥaz)
-“To acquire” or “gain possession.” Used here regarding settlement and property.

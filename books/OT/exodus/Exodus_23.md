@@ -131,3 +131,24 @@ v06: אֶבְיוֹן (evyon)
 
 v08: שֹׁחַד (shochad)
 “Bribe.” A gift that corrupts judgment.
+
+v09: נֶפֶשׁ הַגֵּר (nefesh ha-ger)
+“Life of the resident alien.” The lived experience Israel knows from Egypt.
+
+v11: שָׁמַט (shamat)
+“To release” or “let rest.” Used of leaving the land uncultivated.
+
+v14: חָגַג (chagag)
+“To keep a festival.” To celebrate a sacred feast.
+
+v20: מַלְאָךְ (malakh)
+“Messenger” or “angel.” One sent ahead under divine authority.
+
+v24: מַצֵּבָה (matsevah)
+“Pillar.” A standing cultic stone.
+
+v28: צִרְעָה (tsir'ah)
+“Hornet.” The agent sent ahead to drive out peoples.
+
+v33: מוֹקֵשׁ (moqesh)
+“Snare.” A trap, here the danger of serving other gods.

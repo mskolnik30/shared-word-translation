@@ -54,6 +54,78 @@ v11–12: Signs, wonders, and “mighty hand” summarize Moses’ ministry as m
 
 ##Vocabulary
 
+v1: עָלָה (ʿālāh)  
+
+v1: “To go up.” To ascend, often toward a significant place.  
+
+v1: הַר (har)  
+
+v1: “Mountain.” Elevated place of encounter.  
+
+v1: רָאָה (rāʾāh)  
+
+v1: “To see.” To perceive or be shown.  
+
+v4: שָׁבַע (šāḇaʿ)  
+
+v4: “To swear.” To bind by oath.  
+
+v4: זֶרַע (zeraʿ)  
+
+v4: “Offspring/seed.” Descendants of promise.  
+
+v5: עֶבֶד (ʿeḇeḏ)  
+
+v5: “Servant.” One who serves under authority.  
+
+v5: מוּת (mûṯ)  
+
+v5: “To die.” To come to the end of life.  
+
+v6: קָבַר (qāḇar)  
+
+v6: “To bury.” To inter the dead.  
+
+v7: לֵחַ (lēaḥ)  
+
+v7: “Vigor/moisture.” Freshness, vitality.  
+
+v8: בָּכָה (bāḵāh)  
+
+v8: “To weep.” To express grief.  
+
+v8: אֵבֶל (ʾēḇel)  
+
+v8: “Mourning.” Ritualized grief.  
+
+v9: רוּחַ (rûaḥ)  
+
+v9: “Spirit.” Animating or empowering presence.  
+
+v9: חָכְמָה (ḥoḵmāh)  
+
+v9: “Wisdom.” Skill in living and leading.  
+
+v10: יָדַע (yāḏaʿ)  
+
+v10: “To know.” Intimate, relational knowledge.  
+
+v11: אוֹת (ʾôṯ)  
+
+v11: “Sign.” Mark of divine action.  
+
+v11: מוֹפֵת (môp̄ēṯ)  
+
+v11: “Wonder.” Extraordinary act.  
+
+v12: יָד חֲזָקָה (yāḏ ḥăzāqāh)  
+
+v12: “Mighty hand.” Expression of powerful action.  
+
+v12: מוֹרָא (môrāʾ)  
+
+v12: “Great fear.” Awe-inspiring display.  
+
 v01: עָלָה (ʿālāh)
 “To go up.” To ascend, often toward a significant place.
 

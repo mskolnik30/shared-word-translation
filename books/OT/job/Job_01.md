@@ -79,5 +79,11 @@ v01: יָשָׁר (yashar)
 v06: בְּנֵי הָאֱלֹהִים (bene ha-elohim)
 “Sons of God.” Members of the heavenly assembly.
 
+v06: הַשָּׂטָן (ha-satan)
+“The accuser” or “the adversary.” A prosecuting or opposing figure in the heavenly council.
+
 v09: חִנָּם (chinnam)
 “For nothing,” “without cause,” or “gratuitously.” A key term in the book’s exploration of disinterested faithfulness and undeserved suffering.
+
+v20: שָׁחָה (shachah)
+“To bow down” or “worship.” Job’s embodied response to catastrophe.

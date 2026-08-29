@@ -102,6 +102,33 @@ v18: Renewal leads to renewed faithfulness.
 
 ##Vocabulary
 
+v1: רֹעֶה (ro‘eh)
+“Shepherd.” One who leads and cares.
+
+v3: שׁוּב (shuv)
+“To restore” or “return.” Turn back.
+
+v4: חָרָה (charah)
+“To be angry.” Burn with anger.
+
+v8: גֶּפֶן (gefen)
+“Vine.” Cultivated plant, symbol of Israel.
+
+v12: פָּרַץ (parats)
+“To break down.” Breach or destroy.
+
+v13: חָזִיר (chazir)
+“Boar.” Wild destructive force.
+
+v14: פָּקַד (paqad)
+“To attend.” To visit or care for.
+
+v17: יָמִין (yamin)
+“Right hand.” Strength or favor.
+
+v19: יָשַׁע (yasha)
+“To save.” Deliver or rescue.
+
 v01: רֹעֶה (ro‘eh)
 “Shepherd.” One who leads and cares.
 

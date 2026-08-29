@@ -175,6 +175,30 @@ v23: Attractive speech can function like a thin layer of precious metal hiding a
 
 ##Vocabulary
 
+v1: כְּסִיל (kesil)  
+“Fool.” One characterized by resistance to wisdom.  
+
+v2: קְלָלָה (qelalah)  
+“Curse.” Spoken harm or condemnation.  
+
+v7: מָשָׁל (mashal)  
+“Proverb.” Wisdom speech that becomes ineffective in the mouth of one unwilling to live it.  
+
+v13: עָצֵל (atsel)
+“Lazy person” or “sluggard.”
+
+v20: נִרְגָּן (nirgan)  
+“Gossip” or “whisperer.” One whose speech perpetuates conflict.  
+
+v23: סִיג (sig)  
+“Dross” or inferior metal. Here used of a superficial metallic coating.  
+
+v24: נָכַר (nakhar)  
+“To disguise” or “make oneself unrecognizable.”  
+
+v28: חָלַק (chalaq)  
+“To flatter” or “make smooth.” Smooth speech used manipulatively.  
+
 v01: כְּסִיל (kesil)
 “Fool.” One characterized by resistance to wisdom.
 
@@ -183,6 +207,3 @@ v02: קְלָלָה (qelalah)
 
 v07: מָשָׁל (mashal)
 “Proverb.” Wisdom speech that becomes ineffective in the mouth of one unwilling to live it.
-
-v13: עָצֵל (atsel)
-“Lazy person” or “sluggard.”

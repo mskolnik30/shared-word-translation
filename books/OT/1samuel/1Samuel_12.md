@@ -64,14 +64,41 @@ v24–25: The chapter closes with both mercy and warning. The king shares the fa
 
 ##Vocabulary
 
-v07: צְדָקוֹת (ṣĕdāqôt)
-“Righteous acts.” The term names the LORD’s faithful saving deeds, not merely abstract righteousness.
+v3: עָשַׁק (ʿāshaq)  
+“To oppress” or “exploit.” The word often concerns unjust treatment by those with power.  
+
+v3: כֹּפֶר (kōpher)  
+“Bribe” or “ransom.” Here it refers to a payment that corrupts judgment.  
+
+v6: עָשָׂה (ʿāsâ)  
+“To make” or “appoint.” Used here of the LORD’s establishing Moses and Aaron for their work.  
+
+v7: צְדָקוֹת (ṣĕdāqôt)  
+“Righteous acts.” The term names the LORD’s faithful saving deeds, not merely abstract righteousness.  
+
+v9: שָׁכַח (shākhaḥ)  
+“To forget.” In covenantal contexts, forgetting is not mere loss of memory but failure of loyalty.  
 
 v10: עָזַב (ʿāzav)
 “To forsake.” The word marks abandonment of covenant allegiance.
+
+v12: מָלַךְ (mālak)  
+“To reign.” The verb highlights kingship as rule, setting Israel’s demand beside the LORD’s own kingship.  
+
+v14: יָרֵא (yārēʾ)  
+“To fear.” Reverent fear includes loyalty, obedience, and recognition of divine authority.  
+
+v21: תֹּהוּ (tōhû)  
+“Emptiness” or “nothingness.” The term describes what is futile, insubstantial, and unable to save.  
 
 v22: נָטַשׁ (nāṭash)
 “To abandon” or “forsake.” Samuel grounds Israel’s hope not in their faithfulness but in the LORD’s name and pleasure.
 
 v23: פָּלַל (pālal)
 “To pray” or “intercede.” Samuel’s ongoing service to Israel is expressed through prayer and instruction.
+
+v25: סָפָה (sāphâ)  
+“To sweep away” or “be consumed.” The warning includes both people and king under the same divine judgment.  
+
+v07: צְדָקוֹת (ṣĕdāqôt)
+“Righteous acts.” The term names the LORD’s faithful saving deeds, not merely abstract righteousness.

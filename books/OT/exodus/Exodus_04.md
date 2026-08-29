@@ -61,11 +61,17 @@ v31: - **v31:** The belief of the people upon witnessing signs is significant, a
 
 ##Vocabulary
 
+v1: - **v1, יַאֲמִינוּ (yaaminu):** Translated as "believe," this verb emphasizes the people's need to trust in the authenticity of Moses’ call and the signs accompanying it.  
+
+v4: - **v4, מַטֶּה (matteh):** Refers to the “staff” that becomes a symbol of divine power and authority throughout the narrative.  
+
+v21: - **v21, מוֹפְתִים (mofetim):** These “wonders” suggest acts performed by Moses that reveal Yahweh’s power to Pharaoh and the Egyptians.  
+
+v21: מוֹפְתִים (mofetim)
+“Wonders; signs.” Extraordinary acts presented to Pharaoh as attestations of the LORD’s power.
+
 v01: יַאֲמִינוּ (yaaminu)
 “Believe; trust.” The verb concerns accepting the credibility of Moses’ commission and its signs.
 
 v04: מַטֶּה (matteh)
 “Staff.” The ordinary staff becomes an instrument in the signs and confrontations that follow.
-
-v21: מוֹפְתִים (mofetim)
-“Wonders; signs.” Extraordinary acts presented to Pharaoh as attestations of the LORD’s power.

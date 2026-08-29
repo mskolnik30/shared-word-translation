@@ -82,3 +82,15 @@ v03: מַלְאַךְ יְהוָה (malakh YHWH)
 
 v08: אֵזוֹר עוֹר (ezor or)
 “Leather belt.” Elijah’s identifying garment.
+
+v10: אֵשׁ (esh)
+“Fire.” The sign of divine judgment in the scene.
+
+v13: חָנַן (chanan)
+“To plead for favor.” The third captain’s posture before Elijah.
+
+v16: דְּבַר יְהוָה (devar YHWH)
+“Word of the LORD.” The word Ahaziah refused to seek in Israel.
+
+v17: מָלַךְ (malakh)
+“To reign.” Jehoram succeeds Ahaziah.

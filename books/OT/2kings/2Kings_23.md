@@ -159,3 +159,18 @@ v10: תֹּפֶת (Tophet)
 
 v13: שִׁקּוּץ (shiquts)
 “Detestable thing.” A contemptuous term for foreign gods.
+
+v15: בָּמָה (bamah)
+“High place.” The Bethel shrine is destroyed.
+
+v21: פֶּסַח (pesach)
+“Passover.”
+
+v24: תְּרָפִים (teraphim)
+“Household gods.”
+
+v25: מְאֹד (me'od)
+“Might” or full capacity. Josiah turns with all his might.
+
+v35: עָרַךְ (arakh)
+“To assess.” Jehoiakim taxes the land for Egyptian tribute.

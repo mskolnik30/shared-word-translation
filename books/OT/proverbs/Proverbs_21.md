@@ -186,6 +186,30 @@ v31: Preparation remains appropriate, but preparation is distinguished from the 
 
 ##Vocabulary
 
+v1: פַּלְגֵי־מַיִם (palge mayim)  
+“Channels of water.” Irrigation streams redirected by a cultivator.  
+
+v2: תָּכַן (takhan)  
+“To weigh.” To evaluate the true character of the heart.  
+
+v3: צְדָקָה וּמִשְׁפָּט (tsedaqah u-mishpat)  
+“Righteousness and justice.” Right conduct joined with right judgment.  
+
+v13: דַּל (dal)
+“Poor” or “weak.” One lacking power, resources, or security.
+
+v16: רְפָאִים (rephaim)  
+“The dead” or “departed shades.”  
+
+v21: רָדַף (radaf)  
+“To pursue.” To seek persistently.  
+
+v23: שָׁמַר (shamar)  
+“To guard” or “keep.” Careful protection, here directed toward speech.  
+
+v31: תְּשׁוּעָה (teshuah)  
+“Victory,” “deliverance,” or “saving help.” The outcome belonging ultimately to the LORD.  
+
 v01: פַּלְגֵי־מַיִם (palge mayim)
 “Channels of water.” Irrigation streams redirected by a cultivator.
 
@@ -194,6 +218,3 @@ v02: תָּכַן (takhan)
 
 v03: צְדָקָה וּמִשְׁפָּט (tsedaqah u-mishpat)
 “Righteousness and justice.” Right conduct joined with right judgment.
-
-v13: דַּל (dal)
-“Poor” or “weak.” One lacking power, resources, or security.

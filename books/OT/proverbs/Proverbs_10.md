@@ -167,8 +167,26 @@ v01: מָשָׁל (mashal)
 v04: רְמִיָּה (remiyyah)
 “Slackness,” “deceit,” or “negligence.” Here describing a hand lacking diligence.
 
+v05: מַשְׂכִּיל (maskil)
+“Prudent” or “acting wisely.” One who acts with insight appropriate to the situation.
+
+v09: תֹּם (tom)
+“Integrity” or “wholeness.” Undivided and reliable conduct.
+
+v11: מְקוֹר חַיִּים (meqor chayyim)
+“Fountain of life.” A continuing source of life-giving influence.
+
 v12: פֶּשַׁע (pesha)
 “Offense,” “transgression,” or “rebellion.” Wrongdoing that breaks proper relationship.
 
 v17: מוּסָר (musar)
 “Discipline,” “instruction,” or “correction.” Formation received through teaching and correction.
+
+v19: חָשַׂךְ (chasakh)
+“To restrain” or “hold back.” Here used of controlling one’s speech.
+
+v22: בְּרָכָה (berakhah)
+“Blessing.” Favor that gives life and flourishing.
+
+v29: מָעוֹז (maoz)
+“Stronghold” or “refuge.” A place of security and strength.

@@ -60,6 +60,42 @@ v8: Peace and sleep function as expressions of trust.
 
 ##Vocabulary
 
+v1: עָנָה (anah)  
+“To answer.” Respond to a call.
+
+v1: צַר (tsar)  
+“Distress.” Pressure or trouble.
+
+v2: כָּבוֹד (kavod)  
+“Honor.” Reputation or weight.
+
+v2: רִיק (riq)  
+“Vain.” Empty.
+
+v3: פָּלָה (palah)  
+“To set apart.” Distinguish.
+
+v4: רָגַז (ragaz)  
+“To tremble/be angry.” Emotional disturbance.
+
+v4: דָּמַם (damam)  
+“To be silent.” Be still.
+
+v5: זֶבַח (zevach)  
+“Sacrifice.” Offering.
+
+v6: אוֹר (or)  
+“Light.” Presence or favor.
+
+v7: שִׂמְחָה (simchah)  
+“Joy.” Gladness.
+
+v8: שָׁלוֹם (shalom)  
+“Peace.” Wholeness.
+
+v8: בֶּטַח (betach)  
+“Safety.” Security.
+
 v01: עָנָה (anah)
 “To answer.” Respond to a call.
 

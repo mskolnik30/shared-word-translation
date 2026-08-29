@@ -57,14 +57,44 @@ v18: The chapter closes with worship. Abram responds to promise not by possessio
 
 ##Vocabulary
 
+v3: מַסָּע (massaʿ)  
+“Journey” or “stage of travel.” Refers to movement from place to place in successive stages.  
+
+v4: קָרָא בְּשֵׁם יְהוָה (qārāʾ bĕšēm YHWH)  
+“To call upon the name of the LORD.” A phrase associated with worship, invocation, and public devotion.  
+
+v7: רִיב (rîḇ)  
+“Strife,” “dispute,” or “contention.” Often describes conflict requiring resolution.  
+
+v8: אַחִים (ʾaḥîm)  
+“Brothers” or “kinsmen.” Abram appeals to family relationship as the basis for peace.  
+
+v10: כִּכָּר (kikkār)  
+“Plain” or “circle.” Refers to the fertile Jordan valley region.  
+
+v10: גַּן־יְהוָה (gan-YHWH)  
+“Garden of the LORD.” An expression recalling the abundance and beauty of Eden.  
+
+v13: רָשָׁע (rāšāʿ)  
+“Wicked.” Describes conduct opposed to God’s ways and purposes.  
+
+v15: זֶרַע (zeraʿ)
+“Offspring” or “seed.” A key covenant term carrying both individual and collective significance.
+
+v16: עָפָר (ʿāp̄ār)  
+“Dust.” A symbol of mortality, humility, and innumerable abundance.  
+
+v17: קוּם (qûm)  
+“Rise” or “get up.” Often marks the beginning of significant action.  
+
+v18: אֵלוֹן (ʾēlôn)  
+“Oak” or “great tree.” Frequently associated with notable locations and acts of worship.  
+
+v18: מִזְבֵּחַ (mizbēaḥ)
+“Altar.” A place of sacrifice and encounter with God.
+
 v03: מַסָּע (massaʿ)
 “Journey” or “stage of travel.” Refers to movement from place to place in successive stages.
 
 v08: אַחִים (ʾaḥîm)
 “Brothers” or “kinsmen.” Abram appeals to family relationship as the basis for peace.
-
-v15: זֶרַע (zeraʿ)
-“Offspring” or “seed.” A key covenant term carrying both individual and collective significance.
-
-v18: מִזְבֵּחַ (mizbēaḥ)
-“Altar.” A place of sacrifice and encounter with God.

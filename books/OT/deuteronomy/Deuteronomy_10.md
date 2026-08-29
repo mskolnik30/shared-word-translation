@@ -81,14 +81,32 @@ v22: The seventy-person descent to Egypt and star-like multiplication connect Ja
 
 ##Vocabulary
 
+v01: אֲרוֹן עֵץ (aron ets)
+“Ark of wood.” The chest in which the second tablets are placed.
+
 v04: עֲשֶׂרֶת הַדְּבָרִים (aseret ha-devarim)
 “Ten Words.” The covenant sayings.
+
+v08: בָּדַל (badal)
+“To set apart.” Levi is separated for sanctuary service.
+
+v12: יָרֵא (yare)
+“To fear.” Reverent covenantal awe.
+
+v15: חָשַׁק (chashaq)
+“To set affection upon.” The LORD’s love for the ancestors.
+
+v16: מוּל (mul)
+“To circumcise.” Used metaphorically of the heart.
 
 v17: נָשָׂא פָנִים (nasa panim)
 “To show partiality,” literally “lift a face.”
 
 v18: מִשְׁפַּט (mishpat)
 “Justice.” God executes justice for the vulnerable.
+
+v19: גֵּר (ger)
+“Resident alien.” One whom Israel is commanded to love.
 
 v20: דָּבַק (davaq)
 “To cling.” Close covenant attachment to the LORD.

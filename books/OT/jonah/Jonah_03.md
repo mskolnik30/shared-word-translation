@@ -63,6 +63,48 @@ v10: The chapter highlights the contrast between Nineveh's readiness to repent a
 
 ##Vocabulary
 
+v1: שֵׁנִית (šēnîṯ)  
+“Second time.” Indicating a repeated action or renewed opportunity.  
+
+v2: קָרָא (qārāʾ)  
+“To proclaim” or “cry out.” To announce a message publicly and forcefully.  
+
+v3: נִינְוֵה (Nînĕwēh)  
+“Nineveh.” The capital city of the Assyrian Empire.  
+
+v4: הָפַךְ (hāpaḵ)  
+“To overthrow.” To destroy, overturn, or bring to ruin.  
+
+v5: אָמַן (ʾāman)  
+“To believe.” To trust, accept, or place confidence in.  
+
+v5: צוֹם (ṣôm)  
+“Fast.” Abstaining from food as an expression of repentance or mourning.  
+
+v5: שַׂק (śaq)  
+“Sackcloth.” Coarse mourning garments worn in humility and grief.  
+
+v6: אֵפֶר (ʾēp̄er)  
+“Ashes.” A symbol of mourning, repentance, and humiliation.  
+
+v7: זָעַק (zāʿaq)  
+“To cry out.” To call urgently for help or mercy.  
+
+v8: דֶּרֶךְ רָעָה (dereḵ rāʿâ)  
+“Evil way.” A pattern of sinful conduct or behavior.  
+
+v8: חָמָס (ḥāmās)  
+“Violence.” Wrongful force, oppression, or brutality.  
+
+v9: נָחַם (nāḥam)  
+“To relent.” To withhold announced judgment in response to changed circumstances.  
+
+v10: שׁוּב (šûḇ)
+“To turn.” To return, repent, or change direction.
+
+v10: רָאָה (rāʾâ)  
+“To see.” Here emphasizing God's observation of human actions and repentance.  
+
 v01: שֵׁנִית (šēnîṯ)
 “Second time.” Indicating a repeated action or renewed opportunity.
 
@@ -71,6 +113,3 @@ v05: אָמַן (ʾāman)
 
 v07: זָעַק (zāʿaq)
 “To cry out.” To call urgently for help or mercy.
-
-v10: שׁוּב (šûḇ)
-“To turn.” To return, repent, or change direction.

@@ -141,3 +141,9 @@ v16: שָׁפַךְ (shafakh)
 
 v17: עָצֶם (etsem)
 “Bone.” Job’s pain penetrates even his bones.
+
+v21: אַכְזָר (akhzar)
+“Cruel” or “fierce.” Job’s shocking description of God’s treatment of him.
+
+v31: אֵבֶל (evel)
+“Mourning.” The sound that has replaced Job’s music.

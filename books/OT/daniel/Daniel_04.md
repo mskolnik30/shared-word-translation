@@ -197,6 +197,18 @@ v04: רַעֲנַן (ra'anan)
 v09: רָז (raz)
 “Mystery.” A hidden matter requiring divine revelation.
 
+v13: עִיר (ir)
+“Watcher.” A heavenly being who announces judgment.
+
+v16: עִדָּן (iddan)
+“Time” or “period.” Seven times pass over the king.
+
+v17: שָׁפַל (shafal)
+“Lowly.” The Most High can place the lowliest over kingdoms.
+
+v25: טְרַד (terad)
+“To drive away.” Nebuchadnezzar is removed from human society.
+
 v27: צְדָקָה (tsidqah)
 “Righteousness.” Right conduct, here joined to mercy for the poor.
 
@@ -205,3 +217,6 @@ v27: חֲנַן (chanan)
 
 v30: הֲדַר (hadar)
 “Majesty” or “splendor.” Royal glory claimed by Nebuchadnezzar.
+
+v37: גֵּוָה (gevah)
+“Pride.” The disposition God is able to humble.

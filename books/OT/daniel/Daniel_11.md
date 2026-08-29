@@ -182,5 +182,35 @@ v05: מֶלֶךְ הַנֶּגֶב (melekh ha-negev)
 v06: מֵישָׁרִים (mesharim)
 “Agreement” or “equitable arrangement.” The political settlement attempted by marriage.
 
+v16: צְבִי (tsevi)
+“Beauty.” Used in “the Beautiful Land.”
+
+v20: נוֹגֵשׂ (noges)
+“Exactor.” One who imposes tribute or taxes.
+
+v21: נִבְזֶה (nivzeh)
+“Despised one.” A ruler lacking proper royal honor.
+
+v23: חָבַר (chavar)
+“To make alliance” or “join.”
+
+v31: שִׁקּוּץ מְשׁוֹמֵם (shiquts meshomem)
+“Detestable thing that makes desolate.”
+
+v32: חָנֵף (chaneph)
+“To make profane” or corrupt through smooth speech.
+
 v33: מַשְׂכִּילִים (maskilim)
 “Those with insight.” Wise teachers within the faithful people.
+
+v35: צָרַף (tsaraf)
+“To refine.” Purification through testing.
+
+v36: זַעַם (za'am)
+“Indignation.” The period of divine wrath that reaches its appointed completion.
+
+v38: אֱלוֹהַּ מָעֻזִּים (eloah ma'uzzim)
+“God of fortresses.” An obscure designation for the ruler’s object of honor.
+
+v45: אַפַּדְנוֹ (appadno)
+“Royal pavilion” or palatial tent. A rare Persian-derived term.

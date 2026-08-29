@@ -78,3 +78,12 @@ v08: קָשַׁר (qashar)
 
 v09: מִשְׁמָר (mishmar)
 “Guard” or “watch.” Organized vigilance for protection.
+
+v14: יָרֵא (yare)
+“To fear.” Here the command rejects fear of enemies while recalling reverent awe before the Lord.
+
+v15: פָּרַר (parar)
+“To frustrate” or “break.” To bring counsel or plans to nothing.
+
+v20: לָחַם (lacham)
+“To fight.” Used here of God fighting for the people.

@@ -25,6 +25,10 @@ v4: The imagery of the vine — The vine symbolizes something that should be fru
 
 ##Vocabulary
 
+v2: גֶפֶן (gephen) — "Vine" — Symbolic of the people of Israel or Jerusalem, emphasizing their intended purpose to bear fruit, or their failure in bearing fruit.  
+
+v6: עֵץ הַגֶפֶן (etz ha-gephen) — "The vine tree" — The focus of the analogy in comparison to other trees; it highlights the uniqueness and purpose of the vine among trees.  
+
 v01: דְבַר Yehovah (davar Yehovah)
 “Word of the LORD.” A standard prophetic formula introducing a received message.
 

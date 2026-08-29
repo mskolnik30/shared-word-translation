@@ -68,11 +68,29 @@ v17: Israel is forbidden to profit from the condemned city. Nothing placed under
 v01: נָבִיא (navi)
 “Prophet.” One who claims to speak a divine word.
 
+v01: חֹלֵם חֲלוֹם (cholem chalom)
+“Dreamer of dreams.” One who claims revelation through dreams.
+
 v03: נָסָה (nasah)
 “To test.” To expose covenant loyalty.
 
+v04: דָּבַק (davaq)
+“To cling.” Persistent attachment to the LORD.
+
+v05: סָרָה (sarah)
+“Rebellion.” Speech that turns people away from the LORD.
+
+v06: סוּת (sut)
+“To entice” or “incite.” Secret persuasion toward other gods.
+
 v13: בְּנֵי בְלִיַּעַל (bene beliyya'al)
 “Worthless men.” A Hebrew idiom for destructive lawlessness.
+
+v14: חָקַר (chaqar)
+“To investigate.” Careful examination before judgment.
+
+v15: חָרַם (charam)
+“To devote to destruction.” To place under irrevocable ban.
 
 v17: רַחֲמִים (rachamim)
 “Compassion.” Mercy promised after obedient removal of what is under the ban.

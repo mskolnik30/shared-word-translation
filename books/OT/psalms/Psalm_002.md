@@ -70,6 +70,33 @@ v12: Refuge, not resistance, is the path to blessing.
 
 ##Vocabulary
 
+v1: רָגַשׁ (ragash)  
+“To rage.” Be in tumult.  
+
+v1: הָגָה (hagah)  
+“To plot.” Meditate or scheme.  
+
+v2: מָשִׁיחַ (mashiach)  
+“Anointed.” One set apart.  
+
+v4: שָׂחַק (sachaq)  
+“To laugh.” Express derision.  
+
+v6: נָסַךְ (nasakh)  
+“To install.” Set in place.  
+
+v7: יָלַד (yalad)  
+“To beget.” Bring forth.  
+
+v9: רָעַע (ra‘a)  
+“To break.” Smash or shatter.  
+
+v11: יָרֵא (yare)  
+“To fear.” Reverence.  
+
+v12: חָסָה (chasah)  
+“To take refuge.” Seek protection.  
+
 v01: רָגַשׁ (ragash)
 “To rage.” Be in tumult.
 

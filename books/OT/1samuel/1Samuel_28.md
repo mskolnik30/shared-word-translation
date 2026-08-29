@@ -106,5 +106,20 @@ v03: יִדְּעֹנִי (yidde'oni)
 v06: אוּרִים (Urim)
 “Urim.” A priestly means of inquiry.
 
+v08: קָסַם (qasam)
+“To practice divination.”
+
+v13: אֱלֹהִים (elohim)
+“Divine being” in the woman’s description.
+
+v15: צָרַר (tsarar)
+“To be in distress.”
+
 v17: קָרַע (qara)
 “To tear.” The kingdom is torn from Saul.
+
+v21: שִׂים נֶפֶשׁ בְּכַף (sim nefesh be-khaf)
+“To place life in the hand.” To risk one’s life.
+
+v24: עֵגֶל מַרְבֵּק (egel marbeq)
+“Fattened calf.”

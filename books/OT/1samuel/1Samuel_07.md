@@ -86,3 +86,15 @@ v06: צוּם (tsum)
 
 v09: עֹלָה (olah)
 “Burnt offering.”
+
+v10: רָעַם (ra'am)
+“To thunder.”
+
+v12: אֶבֶן הָעֵזֶר (Even ha-Ezer)
+“Stone of help.”
+
+v13: כָּנַע (kana)
+“To subdue.”
+
+v16: סָבַב (savav)
+“To go around.” Samuel’s judicial circuit.

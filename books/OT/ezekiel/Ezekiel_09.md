@@ -39,6 +39,12 @@ v9: The people’s claim that “the LORD has forsaken the land” and “does n
 
 ##Vocabulary
 
+v2: אִישׁ (ish) — "man," used for the six executors of judgment, emphasizing their role as agents of divine will.  
+
+v3: כָּבוֹד (ka.vod) — "glory," signifying God's presence, now moving as a sign of impending judgment and withdrawal.  
+
+v4: תָּו (tav) — "mark," a symbol of protection amidst judgment, reminiscent of Passover identification and preservation.  
+
 v02: אִישׁ (ish)
 “man," used for the six executors of judgment, with a sense of their role as agents of divine will.
 

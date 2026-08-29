@@ -74,6 +74,59 @@ v20–22: Jacob’s vow is conditional, reflecting a developing faith rather tha
 
 ##Vocabulary
 
+v3: פָּרָה (pārāh)  
+
+v3: “To be fruitful.” Growth under divine blessing.  
+
+v3: קָהָל (qāhāl)  
+
+v3: “Assembly, company.” A gathered people with shared identity.  
+
+v4: בְּרָכָה (bᵉrāḵāh)  
+
+v4: “Blessing.” Effective divine favor that shapes destiny.  
+
+v11: מָקוֹם (māqôm)
+“Place.” Often a site of encounter with God.
+
+v11: “Place.” Often a site of encounter with God.  
+
+v12: סֻלָּם (sullām)  
+
+v12: “Stairway, ladder.” A structure linking realms.  
+
+v13: נָתַן (nāṯan)  
+
+v13: “To give.” Granting with authority.  
+
+v14: זֶרַע (zeraʿ)  
+
+v14: “Offspring, seed.” Continuity of lineage and promise.  
+
+v15: שָׁמַר (šāmar)  
+
+v15: “To keep, guard.” Protective oversight.  
+
+v17: יָרֵא (yārēʾ)  
+
+v17: “To fear.” Awe-filled reverence in divine presence.  
+
+v18: מַצֵּבָה (maṣṣēḇāh)  
+
+v18: “Pillar.” Standing stone marking significance.  
+
+v19: בֵּית־אֵל (Bêt-ʾēl)  
+
+v19: “House of God.” Place identified with divine presence.  
+
+v20: נֶדֶר (neder)  
+
+v20: “Vow.” A binding spoken commitment.  
+
+v22: מַעֲשֵׂר (maʿăśēr)  
+
+v22: “Tithe.” A tenth given in acknowledgment of provision.  
+
 v03: פָּרָה (pārāh)
 “To be fruitful.” Growth under divine blessing.
 
@@ -82,6 +135,3 @@ v03: קָהָל (qāhāl)
 
 v04: בְּרָכָה (bᵉrāḵāh)
 “Blessing.” Effective divine favor that shapes destiny.
-
-v11: מָקוֹם (māqôm)
-“Place.” Often a site of encounter with God.

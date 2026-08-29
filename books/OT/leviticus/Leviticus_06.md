@@ -77,5 +77,8 @@ v05: גָּזֵל (gazel)
 v09: תּוֹרָה (torah)
 “Instruction” or “law.” Here the prescribed procedure for an offering.
 
+v13: תָּמִיד (tamid)
+“Continually” or “regularly.” Ongoing, repeated service.
+
 v17: קֹדֶשׁ קָדָשִׁים (qodesh qadashim)
 “Most holy.” Literally “holy of holies,” a high degree of ritual holiness.

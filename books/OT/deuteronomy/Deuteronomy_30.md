@@ -80,8 +80,26 @@ v01: שׁוּב אֶל־לֵב (shuv el-lev)
 v03: שׁוּב שְׁבוּת (shuv shevut)
 “To restore the fortunes.” An idiom of reversal and restoration.
 
+v06: מוּל לֵב (mul lev)
+“To circumcise the heart.” Divine removal of inward resistance.
+
+v11: פָּלָא (pala)
+“To be too wonderful” or inaccessible.
+
+v14: קָרוֹב (qarov)
+“Near.” The word is already accessible to Israel.
+
 v15: חַיִּים (chayyim)
 “Life.” The covenant outcome set before Israel.
 
+v17: נָדַח (nadach)
+“To be drawn away.” Movement toward other gods.
+
 v19: עֵד (ed)
 “Witness.” Heaven and earth testify to the covenant choice.
+
+v19: בָּחַר (bachar)
+“To choose.” Israel is commanded to choose life.
+
+v20: דָּבַק (davaq)
+“To cling.” Persistent attachment to the LORD.

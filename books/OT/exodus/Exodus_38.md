@@ -107,3 +107,12 @@ v21: פְקוּדֵי (pequdei)
 
 v24: תְּנוּפָה (tenufah)
 “Wave offering.” Material presented to the LORD.
+
+v26: בֶּקַע (beqa)
+“Beka.” A half-shekel weight.
+
+v27: אֶדֶן (eden)
+“Base” or “socket.” Structural foundation piece.
+
+v29: נְחֹשֶׁת (nechoshet)
+“Bronze.” The metal used extensively in the outer court.

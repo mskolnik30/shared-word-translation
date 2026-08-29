@@ -76,3 +76,6 @@ v11: תְּנוּפָה (tenufah)
 
 v14: בָּדַל (badal)
 “To separate.” To distinguish for a particular sacred purpose.
+
+v26: שָׁמַר מִשְׁמֶרֶת (shamar mishmeret)
+“To keep charge.” To assist in guarding entrusted sanctuary responsibilities.

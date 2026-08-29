@@ -134,3 +134,9 @@ v04: שַׁדַּי (Shaddai)
 
 v17: כּוֹכָב (kokhav)
 “Star.” Here a royal image arising from Jacob.
+
+v17: שֵׁבֶט (shevet)
+“Scepter,” “staff,” or “tribe.” Here a symbol of rule.
+
+v24: כִּתִּים (Kittim)
+“Kittim.” A maritime geographical designation retained without narrowing it to one later empire.
