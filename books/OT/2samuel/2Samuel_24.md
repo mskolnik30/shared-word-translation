@@ -103,7 +103,7 @@ v23: The Hebrew can also be read “All these Araunah the king gives to the king
 v24: 1 Chronicles 21:25 reports six hundred shekels of gold for the site, while Samuel reports fifty shekels of silver for threshing floor and oxen. The accounts may describe different scopes of purchase, but TSW does not harmonize them.
 v25: The book closes with the LORD being entreated for the land and the plague restrained, echoing 21:14 and ending David’s story with altar, sacrifice, and mercy.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָרָה אַף (charah af)
 “Anger burned.” A standard idiom for divine wrath.

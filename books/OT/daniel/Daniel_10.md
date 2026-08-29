@@ -90,7 +90,7 @@ v16: “one in the likeness of the children of humanity” is a human-like heave
 v20: Persia and Greece are portrayed both as earthly empires and as having associated heavenly princes, giving political history an unseen dimension.
 v21: “book of truth” is a heavenly record of the conflict about to be revealed. The text does not describe its physical form.
 
-##Vocabulary
+## Vocabulary
 
 v01: צָבָא (tsava)
 “Conflict,” “warfare,” or “host.” The revelation concerns great conflict.

@@ -66,7 +66,7 @@ v10: Giving the signet ring delegates royal authority to Haman. The king’s per
 v13: The threefold language “destroy, kill, and annihilate” leaves no ambiguity about the genocidal intent of the decree. The inclusion of children and women makes its totalizing violence explicit.
 v15: The king and Haman drink while the city is confused. The juxtaposition is a deliberate narrative indictment of imperial detachment.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֲגָגִי (Agagi)
 “Agagite.” Haman’s designation, evoking Agag and Amalekite memory.

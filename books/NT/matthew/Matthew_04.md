@@ -98,13 +98,13 @@ v24: So his fame spread throughout all Syria, and they brought to him all the si
 v25: And great crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and from beyond the Jordan.
 </p>
 ## Notes
-v1: Jesus is led by the Spirit into the wilderness. Testing is not opposed to God’s will; it occurs within it. The text does not explain purpose or outcome in advance.
-v2: Hunger is named plainly. Jesus’ vulnerability is real, not symbolic.
-v3: The first temptation addresses identity: “If you are the Son of God.” The question presses Jesus to secure identity through power rather than trust.
-v4: Jesus responds with Scripture, not argument. Life is defined as dependence, not self-sufficiency.
-v5–6: Scripture itself is used as temptation. The issue is not citation, but misuse—forcing God’s faithfulness rather than receiving it.
-v7: Jesus refuses to test God. Trust is distinguished from spectacle.
-v8–9: The final temptation offers dominion without suffering. Power is separated from obedience and offered as a shortcut.
+v01: Jesus is led by the Spirit into the wilderness. Testing is not opposed to God’s will; it occurs within it. The text does not explain purpose or outcome in advance.
+v02: Hunger is named plainly. Jesus’ vulnerability is real, not symbolic.
+v03: The first temptation addresses identity: “If you are the Son of God.” The question presses Jesus to secure identity through power rather than trust.
+v04: Jesus responds with Scripture, not argument. Life is defined as dependence, not self-sufficiency.
+v05–06: Scripture itself is used as temptation. The issue is not citation, but misuse—forcing God’s faithfulness rather than receiving it.
+v07: Jesus refuses to test God. Trust is distinguished from spectacle.
+v08–09: The final temptation offers dominion without suffering. Power is separated from obedience and offered as a shortcut.
 v10: Jesus’ refusal is decisive. Worship and service are named as exclusive, not negotiable.
 v11: Angels attend Jesus after the testing, not before. Provision follows endurance.
 v12: Jesus withdraws upon hearing of John’s arrest. Withdrawal here is movement toward vocation, not avoidance.
@@ -113,27 +113,27 @@ v18–22: The call of the disciples is immediate and disruptive. Following invol
 v23: Teaching, proclamation, and healing are held together. No single activity defines Jesus’ ministry.
 v25: Crowds gather from diverse regions. The ministry draws beyond expected boundaries without explanation.
 
-##Vocabulary
+## Vocabulary
 
-v1: πειράζω (peirazō) — test; try; put to the proof
+v01: πειράζω (peirazō) — test; try; put to the proof
 
-v1: ἔρημος (erēmos) — wilderness; deserted place
+v01: ἔρημος (erēmos) — wilderness; deserted place
 
-v2: πεινάω (peinaō) — be hungry
+v02: πεινάω (peinaō) — be hungry
 
-v3: υἱὸς τοῦ θεοῦ (huios tou theou) — Son of God
+v03: υἱὸς τοῦ θεοῦ (huios tou theou) — Son of God
 
-v4: ῥῆμα (rhēma) — word; spoken word
+v04: ῥῆμα (rhēma) — word; spoken word
 
-v5: πτερύγιον (pterygion) — pinnacle; highest point
+v05: πτερύγιον (pterygion) — pinnacle; highest point
 
-v5: ἱερόν (hieron) — temple precinct
+v05: ἱερόν (hieron) — temple precinct
 
-v7: ἐκπειράζω (ekpeirazō) — put to the test; test thoroughly
+v07: ἐκπειράζω (ekpeirazō) — put to the test; test thoroughly
 
-v8: βασιλεῖαι (basileiai) — kingdoms; realms of rule
+v08: βασιλεῖαι (basileiai) — kingdoms; realms of rule
 
-v8: δόξα (doxa) — glory; splendor
+v08: δόξα (doxa) — glory; splendor
 
 v10: προσκυνέω (proskyneō) — worship; bow down
 

@@ -68,7 +68,7 @@ v11: The explanation concerning Pharaoh’s daughter reflects Chronicles’ stro
 v13–14: Solomon’s worship program is presented as continuity with both Moses and David.
 v18: The location of Ophir remains uncertain. It was renowned as a source of gold.
 
-##Vocabulary
+## Vocabulary
 
 v08: מַס (mas)
 “Forced labor” or levy.

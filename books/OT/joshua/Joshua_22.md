@@ -105,7 +105,7 @@ v22: The doubled divine confession is emphatic: “God, God, the LORD.” The ea
 v27–28: The altar is said to be a “witness” and a “pattern,” not a functioning sacrificial altar. Its purpose is to preserve shared identity across the Jordan.
 v30–33: The conflict is resolved by investigation and explanation before violence. This stands in marked contrast to later tribal conflict in Judges.
 
-##Vocabulary
+## Vocabulary
 
 v03: מִשְׁמֶרֶת (mishmeret)
 “Charge” or “duty.” An entrusted responsibility faithfully kept.

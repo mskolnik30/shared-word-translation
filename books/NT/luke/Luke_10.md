@@ -102,13 +102,13 @@ v41: But the Lord answered her, “Martha, Martha, you are anxious and troubled 
 v42: but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her.”
 </p>
 ## Notes
-v1: “seventy-two… in pairs” — The mission is communal, not heroic; witness is validated and sustained through shared labor.  
-v2: “ask the Lord of the harvest” — The first “strategy” is prayer; mission begins with dependence, not control.  
-v3: “lambs among wolves” — Jesus does not romanticize the work; vulnerability is assumed, not avoided.  
-v4: “carry no purse… greet no one” — This is urgent, focused travel and practiced reliance; the mission is not funded by anxiety.  
-v5–6: “Peace… child of peace” — Peace is offered as a gift, not forced as an outcome; it rests where it is received.  
-v7: “remain… the laborer deserves wages” — Stability matters; do not treat hospitality as a ladder for better options. Mutual provision is honored, not shamed.  
-v8–9: “eat what is set… heal… kingdom… near” — Table fellowship and embodied mercy carry the announcement; the reign of God comes with tangible care.  
+v01: “seventy-two… in pairs” — The mission is communal, not heroic; witness is validated and sustained through shared labor.  
+v02: “ask the Lord of the harvest” — The first “strategy” is prayer; mission begins with dependence, not control.  
+v03: “lambs among wolves” — Jesus does not romanticize the work; vulnerability is assumed, not avoided.  
+v04: “carry no purse… greet no one” — This is urgent, focused travel and practiced reliance; the mission is not funded by anxiety.  
+v05–06: “Peace… child of peace” — Peace is offered as a gift, not forced as an outcome; it rests where it is received.  
+v07: “remain… the laborer deserves wages” — Stability matters; do not treat hospitality as a ladder for better options. Mutual provision is honored, not shamed.  
+v08–09: “eat what is set… heal… kingdom… near” — Table fellowship and embodied mercy carry the announcement; the reign of God comes with tangible care.  
 v10–11: “wipe off the dust… yet know this” — Even rejection becomes testimony; the message remains true even when unwelcome.  
 v12–15: “more bearable… woe… brought down” — Accountability is proportionate to light received; privilege without response becomes judgment.  
 v16: “listens to you… listens to me” — The emissaries represent Christ’s own presence; to dismiss them is to dismiss the Sender.  
@@ -133,19 +133,19 @@ v39: “sat at the Lord’s feet” — Mary is pictured in the posture of a dis
 v40: “distracted… much serving” — Service becomes distorted when it is driven by anxiety and comparison rather than love.  
 v41–42: “anxious… one thing… good portion” — Jesus does not shame service; he names disordered urgency. The “one thing” is attentive communion that re-centers everything else.  
 
-##Vocabulary
+## Vocabulary
 
-v2: θερισμός (therismos) — harvest (image for God’s work ready for gathering)  
+v02: θερισμός (therismos) — harvest (image for God’s work ready for gathering)  
 
-v2: ἐκβάλλω (ekballō) — to send out; to thrust out (forceful “dispatch,” not casual)  
+v02: ἐκβάλλω (ekballō) — to send out; to thrust out (forceful “dispatch,” not casual)  
 
-v5: εἰρήνη (eirēnē) — peace; wholeness; well-being  
+v05: εἰρήνη (eirēnē) — peace; wholeness; well-being  
 
-v6: υἱὸς εἰρήνης (huios eirēnēs) — child/son of peace (idiom: one receptive to peace)  
+v06: υἱὸς εἰρήνης (huios eirēnēs) — child/son of peace (idiom: one receptive to peace)  
 
-v7: μισθός (misthos) — wages; pay; reward  
+v07: μισθός (misthos) — wages; pay; reward  
 
-v9: βασιλεία τοῦ θεοῦ (basileia tou theou) — kingdom/reign of God  
+v09: βασιλεία τοῦ θεοῦ (basileia tou theou) — kingdom/reign of God  
 
 v13: μετανοέω (metanoeō)
 “To repent; to turn; to change one’s way of mind/life.”

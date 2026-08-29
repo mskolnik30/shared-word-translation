@@ -142,9 +142,9 @@ v33: The corpses of this people will become food for the birds of the heavens an
 <p>
 v34: I will bring to an end from the cities of Judah and from the streets of Jerusalem the sound of rejoicing and the sound of gladness, the voice of groom and the voice of bride; for the land will become a wasteland.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v04: הֵיכָל (heikhal)
 “temple” or “palace.” Its threefold repetition becomes the deceptive confession against which Jeremiah speaks: the sacred building is invoked as a guarantee of protection.

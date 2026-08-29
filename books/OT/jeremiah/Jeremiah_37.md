@@ -70,7 +70,7 @@ v13: “falling away” is the same act Jeremiah elsewhere urges as the path to 
 v17: Zedekiah’s secret inquiry reveals both dependence upon Jeremiah’s word and fear of receiving it publicly.
 v21: Bread is given only “until all the bread in the city was gone,” quietly locating Jeremiah’s imprisonment within the worsening siege famine.
 
-##Vocabulary
+## Vocabulary
 
 v03: פָּלַל (palal)
 “To pray” or “intercede.” Zedekiah asks Jeremiah to pray on behalf of the city.

@@ -97,7 +97,7 @@ v22: Moses’ encouragement of Joshua centers on the LORD’s active fighting ra
 v23–27: Moses’ unanswered plea is one of Deuteronomy’s recurring reminders that even Moses does not stand above divine judgment.
 v26: “because of you” again emphasizes the communal context of Moses’ exclusion, while other Torah traditions also name Moses’ own failure.
 
-##Vocabulary
+## Vocabulary
 
 v04: חֶבֶל (chevel)
 “Region” or “territorial district.” Used of Argob.

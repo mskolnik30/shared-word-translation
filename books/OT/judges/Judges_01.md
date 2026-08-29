@@ -104,7 +104,7 @@ v19: “iron chariots” — The verse places the LORD’s presence beside Judah
 v24: “show you steadfast love” — The Hebrew *hesed* can describe covenant loyalty, kindness, or faithful dealing. Here it concerns sparing the man and his household in exchange for his help.
 v27–36: The repeated phrase “did not drive out” becomes the dominant pattern. The chapter moves from initial victories toward incomplete possession and accommodation.
 
-##Vocabulary
+## Vocabulary
 
 v01: יָרַשׁ (yarash)
 “To possess,” “inherit,” or “dispossess.” A central term for taking possession of the land.

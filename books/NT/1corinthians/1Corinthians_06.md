@@ -73,44 +73,44 @@ v19: Or do you not know that your body is a temple of the Holy Spirit within you
 v20: For you were bought with a price; therefore glorify God in your body.
 </p>
 ## Notes
-v1–4: Internal disputes should be resolved within the community.  
-v5–8: Lawsuits reflect moral failure and loss.  
-v9–10: Kingdom inheritance excludes persistent unrighteousness.  
+v01–04: Internal disputes should be resolved within the community.  
+v05–08: Lawsuits reflect moral failure and loss.  
+v09–10: Kingdom inheritance excludes persistent unrighteousness.  
 v11: Transformation defines identity in Christ.  
 v12–13: Freedom is limited by benefit and mastery.  
 v14–17: Union with Christ defines bodily identity.  
 v18: Sexual sin uniquely involves the body.  
 v19–20: Body as temple establishes basis for ethical conduct.  
 
-##Vocabulary
+## Vocabulary
 
-v1: κρίνω (krinō)  
+v01: κρίνω (krinō)  
 
-v1: “To judge.”  
+v01: “To judge.”  
 
-v2: ἅγιος (hagios)  
+v02: ἅγιος (hagios)  
 
-v2: “Holy one.”  
+v02: “Holy one.”  
 
-v4: ἐξουθενημένος (exouthenēmenos)  
+v04: ἐξουθενημένος (exouthenēmenos)  
 
-v4: “Of no account.”  
+v04: “Of no account.”  
 
-v7: ἥττημα (hēttēma)  
+v07: ἥττημα (hēttēma)  
 
-v7: “Defeat.”  
+v07: “Defeat.”  
 
-v8: ἀδικέω (adikeō)  
+v08: ἀδικέω (adikeō)  
 
-v8: “To wrong.”  
+v08: “To wrong.”  
 
-v9: ἄδικος (adikos)  
+v09: ἄδικος (adikos)  
 
-v9: “Unrighteous.”  
+v09: “Unrighteous.”  
 
-v9: εἰδωλολάτρης (eidōlolatrēs)  
+v09: εἰδωλολάτρης (eidōlolatrēs)  
 
-v9: “Idolater.”  
+v09: “Idolater.”  
 
 v10: πλεονέκτης (pleonektēs)  
 

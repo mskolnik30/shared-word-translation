@@ -63,12 +63,12 @@ v17: Then we who are alive, who remain, will be caught up together with them in 
 v18: Therefore encourage one another with these words.
 </p>
 ## Notes
-v1–2: Ethical instruction builds on prior teaching. Growth is continuous (“abound more and more”).  
-v3: “Holiness” is specified concretely. The will of God is not abstract.  
-v4–5: Self-possession is contrasted with uncontrolled desire. Knowledge of God shapes conduct.  
-v6: Ethical violation is relational (“exploit”) and accountable before the Lord.  
-v7–8: Calling defines identity. Rejection of instruction is framed as rejection of God, not merely human authority.  
-v9–10: Love is already present but not complete. Growth is expected even where obedience exists.  
+v01–02: Ethical instruction builds on prior teaching. Growth is continuous (“abound more and more”).  
+v03: “Holiness” is specified concretely. The will of God is not abstract.  
+v04–05: Self-possession is contrasted with uncontrolled desire. Knowledge of God shapes conduct.  
+v06: Ethical violation is relational (“exploit”) and accountable before the Lord.  
+v07–08: Calling defines identity. Rejection of instruction is framed as rejection of God, not merely human authority.  
+v09–10: Love is already present but not complete. Growth is expected even where obedience exists.  
 v11–12: Quiet living and manual labor are framed as witness before outsiders.  
 v13: Grief is not denied but distinguished by the presence of hope.  
 v14: Resurrection of Jesus functions as the basis for future expectation.  
@@ -76,31 +76,31 @@ v15–17: Sequence is described without full explanation. Priority is given to t
 v17: “Caught up” imagery is presented without interpretation. Emphasis falls on being “with the Lord.”  
 v18: Eschatological teaching is given for encouragement, not speculation.  
 
-##Vocabulary
+## Vocabulary
 
-v3: ἁγιασμός (hagiasmos)  
+v03: ἁγιασμός (hagiasmos)  
 
-v3: “Holiness.” State of being set apart.  
+v03: “Holiness.” State of being set apart.  
 
-v3: πορνεία (porneia)  
+v03: πορνεία (porneia)  
 
-v3: “Sexual immorality.” Broad category of illicit sexual practice.  
+v03: “Sexual immorality.” Broad category of illicit sexual practice.  
 
-v4: σκεῦος (skeuos)  
+v04: σκεῦος (skeuos)  
 
-v4: “Vessel.” Possibly body or spouse; ambiguity remains.  
+v04: “Vessel.” Possibly body or spouse; ambiguity remains.  
 
-v6: πλεονεκτέω (pleonekteō)  
+v06: πλεονεκτέω (pleonekteō)  
 
-v6: “To exploit.” To take advantage of.  
+v06: “To exploit.” To take advantage of.  
 
-v8: ἀθετέω (atheteō)  
+v08: ἀθετέω (atheteō)  
 
-v8: “To reject.” To set aside or disregard.  
+v08: “To reject.” To set aside or disregard.  
 
-v9: φιλαδελφία (philadelphia)  
+v09: φιλαδελφία (philadelphia)  
 
-v9: “Brotherly love.” Affection among kin.  
+v09: “Brotherly love.” Affection among kin.  
 
 v11: φιλοτιμέομαι (philotimeomai)  
 

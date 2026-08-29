@@ -48,7 +48,7 @@ v03: “Give light to my eyes” — The image contrasts renewed vitality with t
 v05: “steadfast love” — The Hebrew ḥesed names faithful, enduring love grounded in relationship. The turn toward trust does not erase the lament that precedes it.
 v06: “dealt bountifully with me” — The final line speaks of the LORD’s action toward the psalmist as the ground of praise. The Hebrew verb can carry the sense of dealing fully or generously with someone.
 
-##Vocabulary
+## Vocabulary
 
 v01: פָּנִים (panim)
 “Face” or “presence.” In the expression “hide your face,” the term communicates the felt withdrawal of divine attention or presence.

@@ -72,10 +72,10 @@ v37: Peter said to him, “Lord, why can I not follow you now? I will lay down m
 v38: Jesus answered, “Will you lay down your life for me? Truly, truly, I tell you: the rooster will not crow until you have denied me three times.”
 </p>
 ## Notes
-v1: “he loved them to the end” — Love is defined by endurance and completion; the coming cross is framed as love’s full reach, not tragedy alone.  
-v2–3: “betray… all things into his hands” — Jesus serves from security, not insecurity; betrayal is real, yet Jesus’ authority and origin remain clear.  
-v4–5: “laid aside… towel… wash” — The Lord’s glory takes the form of embodied humility; leadership is redefined as costly service.  
-v6–8: Peter’s protest — Refusing to be served can be pride disguised as reverence; receiving Jesus’ cleansing is part of belonging to him.  
+v01: “he loved them to the end” — Love is defined by endurance and completion; the coming cross is framed as love’s full reach, not tragedy alone.  
+v02–03: “betray… all things into his hands” — Jesus serves from security, not insecurity; betrayal is real, yet Jesus’ authority and origin remain clear.  
+v04–05: “laid aside… towel… wash” — The Lord’s glory takes the form of embodied humility; leadership is redefined as costly service.  
+v06–08: Peter’s protest — Refusing to be served can be pride disguised as reverence; receiving Jesus’ cleansing is part of belonging to him.  
 v10–11: “clean… though not all” — The community contains both genuine belonging and hidden betrayal; Jesus is not naïve about mixed motives.  
 v14–15: “wash one another’s feet” — This is not mere ritual reenactment but a pattern: mutual, low-status service as normal discipleship.  
 v16–17: “slave… not greater… happy… if you do” — Knowledge without practice is incomplete; blessing is tied to obedience shaped like humility.  
@@ -91,23 +91,23 @@ v34: “a new commandment… as I have loved you” — The newness is the measu
 v35: “everyone will know” — The church’s credibility is relational; love is the public marker of discipleship, not performance or power.  
 v36–38: Peter’s confidence and denial — Zeal is not the same as endurance; Jesus names failure without abandoning Peter, framing denial within “afterward” hope.  
 
-##Vocabulary
+## Vocabulary
 
-v1: πάσχα (pascha) — Passover  
+v01: πάσχα (pascha) — Passover  
 
-v1: ὥρα (hōra) — hour; appointed time  
+v01: ὥρα (hōra) — hour; appointed time  
 
-v1: ἀγαπάω (agapaō) — to love (self-giving love)  
+v01: ἀγαπάω (agapaō) — to love (self-giving love)  
 
-v4: τίθημι (tithēmi) — to lay aside; to set down  
+v04: τίθημι (tithēmi) — to lay aside; to set down  
 
-v4: λέντιον (lention) — towel; linen cloth  
+v04: λέντιον (lention) — towel; linen cloth  
 
-v5: νίπτω (niptō) — to wash (often hands/feet)  
+v05: νίπτω (niptō) — to wash (often hands/feet)  
 
-v5: λεκανή (lekanē) — basin  
+v05: λεκανή (lekanē) — basin  
 
-v8: μέρος (meros) — share; portion; participation  
+v08: μέρος (meros) — share; portion; participation  
 
 v10: λούω (louō) — to bathe; to wash fully  
 

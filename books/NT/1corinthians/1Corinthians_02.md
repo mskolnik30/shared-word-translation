@@ -63,39 +63,39 @@ v15: But the spiritual person discerns all things, yet he himself is discerned b
 v16: For “Who has known the mind of the Lord so as to instruct him?” But we have the mind of Christ.
 </p>
 ## Notes
-v1–2: Message centers exclusively on Christ crucified.  
-v3–5: Weakness serves to highlight divine power.  
-v6–8: True wisdom is hidden from worldly rulers.  
+v01–02: Message centers exclusively on Christ crucified.  
+v03–05: Weakness serves to highlight divine power.  
+v06–08: True wisdom is hidden from worldly rulers.  
 v10–12: The Spirit reveals divine realities.  
 v13: Spiritual truth requires Spirit-taught expression.  
 v14–15: Distinction between natural and spiritual perception.  
 v16: Believers participate in the mind of Christ.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ὑπεροχή (hyperochē)  
+v01: ὑπεροχή (hyperochē)  
 
-v1: “Superiority.”  
+v01: “Superiority.”  
 
-v2: σταυρόω (stauroō)  
+v02: σταυρόω (stauroō)  
 
-v2: “To crucify.”  
+v02: “To crucify.”  
 
-v4: ἀπόδειξις (apodeixis)  
+v04: ἀπόδειξις (apodeixis)  
 
-v4: “Demonstration.”  
+v04: “Demonstration.”  
 
-v6: τέλειος (teleios)  
+v06: τέλειος (teleios)  
 
-v6: “Mature.”  
+v06: “Mature.”  
 
-v7: μυστήριον (mystērion)  
+v07: μυστήριον (mystērion)  
 
-v7: “Mystery.”  
+v07: “Mystery.”  
 
-v8: ἄρχων (archōn)  
+v08: ἄρχων (archōn)  
 
-v8: “Ruler.”  
+v08: “Ruler.”  
 
 v10: βάθος (bathos)  
 

@@ -86,7 +86,7 @@ v17: David is called “the lamp of Israel,” shifting his role from warrior to
 v19: The Masoretic Text says Elhanan killed Goliath, while 1 Chronicles 20:5 says he killed Lahmi brother of Goliath. The Samuel text likely reflects a textual difficulty. TSW preserves the Masoretic wording and notes the parallel.
 v20: The twenty-four digits are presented as a sign of extraordinary stature within the giant-warrior tradition.
 
-##Vocabulary
+## Vocabulary
 
 v01: דָּם (dam)
 “Bloodguilt” or “blood.” The unresolved killing of Gibeonites is the cause named for the famine.

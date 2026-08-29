@@ -103,7 +103,7 @@ v21: The prohibition on boiling a young goat in its mother’s milk is repeated 
 v22–27: The tithe is consumed as a celebratory meal before the LORD. If distance makes transport impractical, produce may be converted into silver and reconverted into food and drink at the chosen place.
 v28–29: The third-year tithe is local and explicitly supports Levites, resident aliens, orphans, and widows.
 
-##Vocabulary
+## Vocabulary
 
 v01: בָּנִים (banim)
 “Children” or “sons.” Israel’s filial identity before the LORD.

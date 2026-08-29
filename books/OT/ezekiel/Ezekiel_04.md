@@ -35,14 +35,14 @@ v16: He also said to me, "Son of man, behold, I will break the supply of bread i
 v17: Because they lack bread and water, they will look at each other in dismay and waste away because of their iniquity."
 </p>
 ## Notes
-v4–6: The prophet Ezekiel is commanded to symbolize Israel's and Judah's iniquity through his lying on different sides, with each day representing a year of their iniquity.  
-v9: "Emmer" (כֻּסֶּמֶת, kusemet) is a type of ancient wheat.  
+v04–06: The prophet Ezekiel is commanded to symbolize Israel's and Judah's iniquity through his lying on different sides, with each day representing a year of their iniquity.  
+v09: "Emmer" (כֻּסֶּמֶת, kusemet) is a type of ancient wheat.  
 v12: The striking image of bread baked on human dung underscores the depth of Israel's defilement. Ezekiel's protest emphasizes his personal purity within this symbolic act.  
 v13: Use of "unclean" signifies ritual impurity, highlighting the spiritual and physical separation from God that exile entails.  
 
-##Vocabulary
+## Vocabulary
 
-v1: אָדָם ('adam) - "man, human": Used frequently in Ezekiel to address the prophet ("son of man"), emphasizing his human nature in juxtaposition to the divine messages he conveys.  
+v01: אָדָם ('adam) - "man, human": Used frequently in Ezekiel to address the prophet ("son of man"), emphasizing his human nature in juxtaposition to the divine messages he conveys.  
 
 v13: טָמֵא (tamei) - "unclean": A term denoting ritual impurity and separation from the holiness expected in Israel. This reflects the spiritual state of exile.  
 

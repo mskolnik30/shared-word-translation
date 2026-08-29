@@ -35,7 +35,7 @@ v07: Singers and dancers alike say,
 v04: “Rahab” is a poetic name for Egypt in this context, not the personal name found in Joshua.
 v07: The Hebrew is exceptionally compressed. “Singers and dancers alike” reflects a probable liturgical scene, but the precise relationship of the terms remains uncertain.
 
-##Vocabulary
+## Vocabulary
 
 v04: רַהַב (Rahav)
 “A poetic name associated with Egypt and, elsewhere, with a defeated chaos-monster image.”

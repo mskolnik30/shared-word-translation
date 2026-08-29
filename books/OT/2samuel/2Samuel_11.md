@@ -99,7 +99,7 @@ v25: David’s statement that “the sword devours one as well as another” dis
 v26: Bathsheba is still called “the wife of Uriah” after his death, preserving the moral identity of the marriage David destroyed.
 v27: The chapter withholds explicit divine commentary until the final line, where all David’s concealed actions are summarized as evil in the LORD’s eyes.
 
-##Vocabulary
+## Vocabulary
 
 v01: תְּשׁוּבַת הַשָּׁנָה (teshuvat ha-shanah)
 “Turning of the year.” The season associated with renewed military campaigns.

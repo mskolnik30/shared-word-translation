@@ -134,13 +134,13 @@ v35: And I will raise up for myself a faithful priest, who shall do according to
 v36: And everyone who is left in your house shall come to implore him for a piece of silver or a loaf of bread and shall say, ‘Please put me in one of the priest’s places, that I may eat a morsel of bread.’”
 </p>
 ## Notes
-v1–10: Hannah’s prayer moves from personal deliverance to cosmic reversal. Individual experience becomes theological proclamation.  
-v2: “None besides you” emphasizes exclusivity of divine identity without philosophical abstraction.  
-v3: Speech is addressed directly. Pride and knowledge are contrasted under divine evaluation.  
-v4–8: Reversal language dominates. Strength, hunger, fertility, and status are overturned without explanation.  
-v6: Life and death are attributed equally to the LORD, preserving tension rather than resolving causation.  
-v8: Creation imagery (“pillars of the earth”) grounds social reversal in cosmic order.  
-v9: Security is located in divine guarding, not human strength.  
+v01–10: Hannah’s prayer moves from personal deliverance to cosmic reversal. Individual experience becomes theological proclamation.  
+v02: “None besides you” emphasizes exclusivity of divine identity without philosophical abstraction.  
+v03: Speech is addressed directly. Pride and knowledge are contrasted under divine evaluation.  
+v04–08: Reversal language dominates. Strength, hunger, fertility, and status are overturned without explanation.  
+v06: Life and death are attributed equally to the LORD, preserving tension rather than resolving causation.  
+v08: Creation imagery (“pillars of the earth”) grounds social reversal in cosmic order.  
+v09: Security is located in divine guarding, not human strength.  
 v10: Reference to “his king” and “his anointed” anticipates monarchy before its narrative establishment.  
 v12: “Did not know the LORD” describes relational failure, not lack of information.  
 v13–17: Priestly abuse is detailed concretely. Ritual violation becomes moral corruption.  
@@ -157,33 +157,33 @@ v34: The death of Hophni and Phinehas functions as a confirming sign.
 v35: The “faithful priest” is promised without identification, leaving its fulfillment open.  
 v36: Reversal continues: those once privileged become dependent.  
 
-##Vocabulary
+## Vocabulary
 
-v1: קֶרֶן (qeren)  
+v01: קֶרֶן (qeren)  
 “Horn.” Symbol of strength, honor, or exaltation.  
 
-v2: צוּר (tsur)  
+v02: צוּר (tsur)  
 “Rock.” A metaphor for stability and reliability.  
 
-v3: דֵּעָה (deʿah)  
+v03: דֵּעָה (deʿah)  
 “Knowledge.” Often implies discernment and moral awareness.  
 
-v4: חַיִל (ḥayil)  
+v04: חַיִל (ḥayil)  
 “Strength.” Can denote power, capacity, or valor.  
 
-v5: עָקָר (ʿaqar)  
+v05: עָקָר (ʿaqar)  
 “Barren.” One unable to bear children.  
 
-v6: שְׁאוֹל (sheʾol)  
+v06: שְׁאוֹל (sheʾol)  
 “Sheol.” The realm of the dead.  
 
-v7: רוּם (rum)  
+v07: רוּם (rum)  
 “To exalt.” To raise up in status or position.  
 
-v8: כִּסֵּא (kisseʾ)  
+v08: כִּסֵּא (kisseʾ)  
 “Throne” or “seat.” Symbol of authority.  
 
-v9: חָסִיד (ḥasid)  
+v09: חָסִיד (ḥasid)  
 “Faithful one.” One who is loyal or devoted.  
 
 v12: בְּלִיַּעַל (beliyyaʿal)  
@@ -213,11 +213,3 @@ v35: אֱמוּן (emun)
 v36: כִּכָּר (kikkar)  
 “Loaf.” A unit of bread or food portion.  
 
-v01: קֶרֶן (qeren)
-“Horn.” Symbol of strength, honor, or exaltation.
-
-v06: שְׁאוֹל (sheʾol)
-“Sheol.” The realm of the dead.
-
-v09: חָסִיד (ḥasid)
-“Faithful one.” One who is loyal or devoted.

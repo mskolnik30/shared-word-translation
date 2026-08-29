@@ -57,7 +57,7 @@ v12: The ending of manna marks a transition from wilderness provision to eating 
 v13–14: Joshua’s question assumes the figure must belong to one side or the other. The answer “No” refuses that framing and places Joshua under the LORD’s command rather than making the LORD’s commander an extension of Israel’s agenda.
 v15: The command to remove the sandal echoes Moses at the burning bush and marks the encounter as holy ground.
 
-##Vocabulary
+## Vocabulary
 
 v01: מָסַס (masas)
 “To melt.” Used of hearts losing courage.

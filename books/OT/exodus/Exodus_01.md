@@ -73,10 +73,10 @@ v21: And because the midwives feared God, he made them households.
 v22: Then Pharaoh commanded all his people, “Every son that is born to the Hebrews you shall cast into the Nile, but you shall let every daughter live.”
 </p>
 ## Notes
-v1–5: The opening recalls Genesis, anchoring continuity of identity and promise.  
-v7: Multiplication fulfills earlier blessing language, now set within tension.  
-v8: “Did not know Joseph” signals political discontinuity and selective memory.  
-v9–10: Fear drives policy; perceived threat leads to systemic control.  
+v01–05: The opening recalls Genesis, anchoring continuity of identity and promise.  
+v07: Multiplication fulfills earlier blessing language, now set within tension.  
+v08: “Did not know Joseph” signals political discontinuity and selective memory.  
+v09–10: Fear drives policy; perceived threat leads to systemic control.  
 v11–14: Oppression intensifies from labor exploitation to dehumanizing conditions.  
 v12: Growth under affliction introduces a paradox—pressure amplifies increase.  
 v15–16: State violence targets generational continuity through male offspring.  
@@ -85,19 +85,19 @@ v19: Their response blends truth and strategy, resisting power through speech.
 v20–21: Divine favor aligns with those who resist injustice.  
 v22: Violence expands from targeted command to public decree, involving the whole society.  
 
-##Vocabulary
+## Vocabulary
 
-v7: פָּרָה (pārāh)  
+v07: פָּרָה (pārāh)  
 
-v7: “To be fruitful.” Growth under blessing.  
+v07: “To be fruitful.” Growth under blessing.  
 
-v7: רָבָה (rāḇāh)  
+v07: רָבָה (rāḇāh)  
 
-v7: “To multiply.” Increase in number or extent.  
+v07: “To multiply.” Increase in number or extent.  
 
-v8: מֶלֶךְ (meleḵ)  
+v08: מֶלֶךְ (meleḵ)  
 
-v8: “King.” Political authority.  
+v08: “King.” Political authority.  
 
 v10: חָכַם (ḥāḵam)
 “To deal shrewdly.” Strategic, often manipulative thinking.

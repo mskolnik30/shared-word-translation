@@ -76,7 +76,7 @@ v08: “the pupil of his eye” — The Masoretic Hebrew reads “his eye.” So
 v11: The identity of the speaker shifts between divine speech and the language of one who has been “sent.” The translation preserves this tension rather than supplying an explanation.
 v13: “all flesh” — The expression refers broadly to living humanity in its creaturely condition.
 
-##Vocabulary
+## Vocabulary
 
 v01: חֶבֶל (chevel)
 “Measuring line” or “cord.” A tool used for measuring land or construction.

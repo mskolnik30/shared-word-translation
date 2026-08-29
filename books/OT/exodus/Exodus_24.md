@@ -49,9 +49,8 @@ v17: Now the appearance of the glory of the LORD was like a consuming fire on th
 v18: Moses entered the midst of the cloud and went up on the mountain. And Moses was on the mountain forty days and forty nights.
 </p>
 ## Notes
-v1: “Come up to the LORD” — The LORD speaks, yet Moses is told to come up “to the LORD.” The third-person reference preserves narrative distance and emphasizes divine transcendence rather than resolving it.
-v7: “we will do, and we will hear” — The order is striking. Obedience precedes full comprehension. The sequence is preserved rather than adjusted for modern expectation.
-v8: “the blood of the covenant that the LORD has cut” — The Hebrew idiom is literally “cut a covenant.” The imagery of cutting is retained conceptually, echoing ancient covenant-making practices.
+v01: “Come up to the LORD” — The LORD speaks, yet Moses is told to come up “to the LORD.” The third-person reference preserves narrative distance and emphasizes divine transcendence rather than resolving it.
+v07: “we will do, and we will hear” — The order is striking. Obedience precedes full comprehension. The sequence is preserved rather than adjusted for modern expectation.
 v08: “the blood of the covenant that the LORD has cut” — The Hebrew idiom is literally “cut a covenant.” The imagery of cutting is retained conceptually, echoing ancient covenant-making practices.
 v10: “they saw the God of Israel” — The text states this directly without qualification, even as other passages insist that God cannot be seen. The tension is preserved.
 v11: “he did not stretch out his hand” — A common idiom for judgment or destruction. Its negation underscores the unexpected survival of those who “saw God.”
@@ -59,17 +58,17 @@ v12: “the instruction and the commandment” — “Instruction” renders *to
 v16: “the glory of the LORD” — The term signals visible divine presence. The text describes appearance without defining essence, preserving mystery.
 v18: “Forty days and forty nights” is a recurring biblical period associated with preparation, testing, and divine encounter. The narrative does not explain its significance here.
 
-##Vocabulary
+## Vocabulary
 
-v1: שָׁחָה (*shachah*) — to bow down, to prostrate oneself; bodily posture of worship or submission.
+v01: שָׁחָה (*shachah*) — to bow down, to prostrate oneself; bodily posture of worship or submission.
 
-v5: שְׁלָמִים (*shelamim*) — offerings of well-being; traditionally “peace offerings,” conveying wholeness and restored relationship.
+v05: שְׁלָמִים (*shelamim*) — offerings of well-being; traditionally “peace offerings,” conveying wholeness and restored relationship.
 
-v7: סֵפֶר הַבְּרִית (*sefer ha-berit*) — book of the covenant; written covenantal document publicly read.
+v07: סֵפֶר הַבְּרִית (*sefer ha-berit*) — book of the covenant; written covenantal document publicly read.
 
-v8: בְּרִית (*berit*) — covenant; binding relational commitment, often formalized through ritual action.
+v08: בְּרִית (*berit*) — covenant; binding relational commitment, often formalized through ritual action.
 
-v8: כָּרַת (*karat*) — to cut; idiomatically “to cut a covenant,” reflecting ancient covenant-making practice.
+v08: כָּרַת (*karat*) — to cut; idiomatically “to cut a covenant,” reflecting ancient covenant-making practice.
 
 v10: לָבֵנָה (*lavenah*) — brick, pavement; here describing the sapphire-like surface beneath God’s feet.
 

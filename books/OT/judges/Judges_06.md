@@ -122,7 +122,7 @@ v34: “clothed Gideon” — The Hebrew literally says the Spirit “clothed”
 v34: The Hebrew literally says that the Spirit “clothed” Gideon.
 v36–40: Gideon’s signs with the fleece follow an explicit promise already given. The narrative portrays his continuing need for assurance rather than presenting fleece-testing as a universal method for discernment.
 
-##Vocabulary
+## Vocabulary
 
 v01: מִדְיָן (Midyan)
 “Midian.” A people east and south of Israel who become major oppressors in Gideon’s cycle.

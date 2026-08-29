@@ -75,37 +75,37 @@ v23: (Bethuel fathered Rebekah.) These eight Milcah bore to Nahor, Abraham’s b
 v24: Moreover, his concubine, whose name was Reumah, bore Tebah, Gaham, Tahash, and Maacah.
 </p>
 ## Notes
-v1: “Tested” frames the narrative explicitly; the event is not arbitrary but revelatory.  
-v2: “Your son, your only son, whom you love” intensifies the relational cost; the language echoes covenant promise.  
-v5: Abraham’s statement anticipates return, holding tension between obedience and trust.  
-v8: “God will provide” becomes the theological center of the passage.  
-v9: The binding (later termed the Aqedah) marks the climactic act of obedience.  
+v01: “Tested” frames the narrative explicitly; the event is not arbitrary but revelatory.  
+v02: “Your son, your only son, whom you love” intensifies the relational cost; the language echoes covenant promise.  
+v05: Abraham’s statement anticipates return, holding tension between obedience and trust.  
+v08: “God will provide” becomes the theological center of the passage.  
+v09: The binding (later termed the Aqedah) marks the climactic act of obedience.  
 v12: “Now I know that you fear God” defines obedience as reverent trust expressed in action.  
 v13: Substitution is introduced—a ram in place of the son.  
 v14: Naming the place interprets the event: provision belongs to the LORD.  
 v16–18: The oath reinforces covenant promises with heightened solemnity (“By myself I have sworn”).  
 
-##Vocabulary
+## Vocabulary
 
-v1: נָסָה (nāsāh)  
+v01: נָסָה (nāsāh)  
 
-v1: “To test.” To prove or examine faithfulness.  
+v01: “To test.” To prove or examine faithfulness.  
 
-v2: יָחִיד (yāḥîd)  
+v02: יָחִיד (yāḥîd)  
 
-v2: “Only, unique.” Emphasizes singularity and preciousness.  
+v02: “Only, unique.” Emphasizes singularity and preciousness.  
 
-v3: שָׁכַם (šākam)  
+v03: שָׁכַם (šākam)  
 
-v3: “To rise early.” Often marks decisive obedience.  
+v03: “To rise early.” Often marks decisive obedience.  
 
-v8: רָאָה (rāʾāh)  
+v08: רָאָה (rāʾāh)  
 
-v8: “To see, provide.” Can carry the sense of seeing to it, providing.  
+v08: “To see, provide.” Can carry the sense of seeing to it, providing.  
 
-v9: עָקַד (ʿāqad)  
+v09: עָקַד (ʿāqad)  
 
-v9: “To bind.” Source of the term “binding of Isaac.”  
+v09: “To bind.” Source of the term “binding of Isaac.”  
 
 v10: שָׁחַט (šāḥaṭ)  
 

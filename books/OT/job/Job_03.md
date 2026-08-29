@@ -108,7 +108,7 @@ v13–19: Job imagines Sheol as a place where social differences and oppression 
 v20–23: The repeated “why” shifts from Job’s birth to the larger question of why life is given to people who experience it as unbearable.
 v23: The “hedge” reverses the accuser’s language in 1:10. What the accuser saw as protective enclosure Job now experiences as confinement.
 
-##Vocabulary
+## Vocabulary
 
 v01: קָלַל (qalal)
 “To curse” or “treat as accursed.” Job directs the curse toward his birth day.

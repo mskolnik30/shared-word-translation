@@ -71,48 +71,48 @@ believed in the world,
 taken up in glory.
 </p>
 ## Notes
-v1: Leadership is framed as “work,” not status.  
-v2–3: Qualifications emphasize character over skill, with teaching as the primary functional ability.  
-v4–5: Household management is used as a testing ground for communal leadership.  
-v6: Spiritual maturity is required. Premature elevation leads to distortion (“puffed up”).  
-v7: Reputation beyond the community matters, linking internal and external perception.  
-v8–10: Servants are assessed similarly, though without emphasis on teaching.  
-v9: “Mystery of the faith” is held with integrity, not merely understood.  
+v01: Leadership is framed as “work,” not status.  
+v02–03: Qualifications emphasize character over skill, with teaching as the primary functional ability.  
+v04–05: Household management is used as a testing ground for communal leadership.  
+v06: Spiritual maturity is required. Premature elevation leads to distortion (“puffed up”).  
+v07: Reputation beyond the community matters, linking internal and external perception.  
+v08–10: Servants are assessed similarly, though without emphasis on teaching.  
+v09: “Mystery of the faith” is held with integrity, not merely understood.  
 v10: Testing precedes recognition, establishing process.  
 v11: The role of women is stated briefly and ambiguously, without clear definition of function.  
 v13: Service leads to both standing and confidence, not prestige alone.  
 v15: The church is described structurally (“household”) and functionally (“pillar…of truth”).  
 v16: The poetic confession summarizes Christ’s movement from incarnation to exaltation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐπισκοπή (episkopē)  
+v01: ἐπισκοπή (episkopē)  
 
-v1: “Overseer.” One who watches over or supervises.  
+v01: “Overseer.” One who watches over or supervises.  
 
-v2: ἀνεπίλημπτος (anepilēmptos)  
+v02: ἀνεπίλημπτος (anepilēmptos)  
 
-v2: “Above reproach.” Not open to accusation.  
+v02: “Above reproach.” Not open to accusation.  
 
-v3: φιλάργυρος (philargyros)  
+v03: φιλάργυρος (philargyros)  
 
-v3: “Lover of money.” Greedy.  
+v03: “Lover of money.” Greedy.  
 
-v6: τυφόω (typhoō)  
+v06: τυφόω (typhoō)  
 
-v6: “To be puffed up.” To become conceited.  
+v06: “To be puffed up.” To become conceited.  
 
-v7: παγίς (pagis)  
+v07: παγίς (pagis)  
 
-v7: “Snare.” Trap.  
+v07: “Snare.” Trap.  
 
-v8: σεμνός (semnos)  
+v08: σεμνός (semnos)  
 
-v8: “Dignified.” Worthy of respect.  
+v08: “Dignified.” Worthy of respect.  
 
-v9: μυστήριον (mystērion)  
+v09: μυστήριον (mystērion)  
 
-v9: “Mystery.” Revealed truth.  
+v09: “Mystery.” Revealed truth.  
 
 v10: δοκιμάζω (dokimazō)  
 

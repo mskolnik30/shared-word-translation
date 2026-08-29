@@ -119,11 +119,11 @@ v37: Then he said to his disciples, “The harvest is plentiful, but the laborer
 v38: therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
 </p>
 ## Notes
-v2: Forgiveness is spoken prior to healing, reordering expectation. The visible sign serves the invisible claim.  
-v4: Jesus’ knowledge of thoughts collapses internal and external domains; opposition is exposed before voiced.  
-v6: Authority “on earth” is emphasized; forgiveness is not deferred to a distant realm.  
-v8: The crowd’s response mixes fear and praise, without full comprehension.  
-v9: The call is immediate and unqualified; Matthew’s response mirrors the summons itself.  
+v02: Forgiveness is spoken prior to healing, reordering expectation. The visible sign serves the invisible claim.  
+v04: Jesus’ knowledge of thoughts collapses internal and external domains; opposition is exposed before voiced.  
+v06: Authority “on earth” is emphasized; forgiveness is not deferred to a distant realm.  
+v08: The crowd’s response mixes fear and praise, without full comprehension.  
+v09: The call is immediate and unqualified; Matthew’s response mirrors the summons itself.  
 v12–13: Illness functions metaphorically; mercy is prioritized over ritual precision.  
 v15: The bridegroom image reframes time; presence suspends expected practices.  
 v17: The incompatibility sayings resist simple reform; newness requires reconfiguration, not patching.  
@@ -135,15 +135,15 @@ v34: Opposition attributes divine action to demonic source, intensifying conflic
 v36: Compassion is grounded in perception; the crowd is described relationally, not statistically.  
 v37–38: The harvest metaphor frames mission as participation in divine initiative rather than human expansion.  
 
-##Vocabulary
+## Vocabulary
 
-v2: θάρσει (*tharsei*) — “Take courage.” A word of reassurance preceding transformation.  
+v02: θάρσει (*tharsei*) — “Take courage.” A word of reassurance preceding transformation.  
 
-v2: ἀφίημι (*aphiēmi*) — “To forgive.” Also “to release”; carries relational and legal nuance.  
+v02: ἀφίημι (*aphiēmi*) — “To forgive.” Also “to release”; carries relational and legal nuance.  
 
-v6: ἐξουσία (*exousia*) — “Authority.” Exercised concretely, not abstractly.  
+v06: ἐξουσία (*exousia*) — “Authority.” Exercised concretely, not abstractly.  
 
-v9: ἀκολουθέω (*akoloutheō*) — “To follow.” Implies attachment and ongoing movement.  
+v09: ἀκολουθέω (*akoloutheō*) — “To follow.” Implies attachment and ongoing movement.  
 
 v12: ἰατρός (*iatros*) — “Physician.” Used metaphorically for moral and spiritual restoration.  
 

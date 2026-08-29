@@ -72,9 +72,9 @@ v38: It happened, as he was worshipping in the house of Nisroch his god, that Ad
 v20: Hezekiah’s prayer does not merely ask for survival; it asks that the kingdoms of the earth may know that the LORD alone is God.  
 v23: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
 v16: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v4: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
+v04: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
 
-##Vocabulary
+## Vocabulary
 
 v23: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
@@ -88,8 +88,6 @@ v16: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 v31: שְׁאָר (she'ar)
 “Remnant.” Those who remain or survive.
 
-v5: עֶבֶד (eved)  
+v05: עֶבֶד (eved)  
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
-v05: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.

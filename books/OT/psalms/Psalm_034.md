@@ -72,17 +72,17 @@ and none of those who take refuge in him will be held guilty.
 </p>
 ## Notes
 v05: “They looked to him” has no explicit subject in Hebrew. It may refer broadly to those who, like the psalmist, turn to the LORD in need.
-v7: “The angel of the LORD” presents the LORD’s protection in personal, encircling imagery. The verse does not explain the precise identity of this messenger.
+v07: “The angel of the LORD” presents the LORD’s protection in personal, encircling imagery. The verse does not explain the precise identity of this messenger.
 v19–20: The promise of deliverance does not deny the righteous person’s many troubles. The language of unbroken bones intensifies the claim of God’s preserving care.
 v21–22: The same Hebrew root associated with guilt closes both verses: those who hate the righteous incur guilt, while those who take refuge in the LORD are not held guilty.
 
-##Vocabulary
+## Vocabulary
 
-v5: **דָּרַשׁ — *darash***: “I sought.” Here seeking the LORD is an active turning toward God for answer and deliverance.  
+v05: **דָּרַשׁ — *darash***: “I sought.” Here seeking the LORD is an active turning toward God for answer and deliverance.  
 
-v8: **חָנָה — *chanah***: “encamps.” The verb evokes a military camp set around those who fear the LORD, portraying protective presence.  
+v08: **חָנָה — *chanah***: “encamps.” The verb evokes a military camp set around those who fear the LORD, portraying protective presence.  
 
-v9: **חָסָה — *chasah***: “takes refuge.” This recurring psalm-language describes entrusting oneself to the LORD for shelter and safety.  
+v09: **חָסָה — *chasah***: “takes refuge.” This recurring psalm-language describes entrusting oneself to the LORD for shelter and safety.  
 
 v12: **יִרְאָה — *yirah***: “fear.” The fear of the LORD is taught as a life-shaping reverence expressed through speech, conduct, and the pursuit of peace.  
 

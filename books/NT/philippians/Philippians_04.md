@@ -69,34 +69,34 @@ v22: All the saints greet you, especially those of the emperor’s household.
 v23: The grace of the Lord Jesus Christ be with your spirit.
 </p>
 ## Notes
-v1: Affection and exhortation are intertwined. Stability (“stand firm”) emerges from relational belonging, not abstract command.  
-v2–3: Conflict is addressed directly but communally. Unity is not avoidance of tension but shared work toward reconciliation.  
-v4–7: Rejoicing, gentleness, prayer, and peace form a coherent pattern of life. Anxiety is not denied but redirected through trust.  
-v8–9: Thought and practice are inseparable. What is held in mind shapes what is lived out, and both are grounded in received tradition.  
+v01: Affection and exhortation are intertwined. Stability (“stand firm”) emerges from relational belonging, not abstract command.  
+v02–03: Conflict is addressed directly but communally. Unity is not avoidance of tension but shared work toward reconciliation.  
+v04–07: Rejoicing, gentleness, prayer, and peace form a coherent pattern of life. Anxiety is not denied but redirected through trust.  
+v08–09: Thought and practice are inseparable. What is held in mind shapes what is lived out, and both are grounded in received tradition.  
 v10–13: Contentment is learned, not assumed. It is not tied to circumstance but to reliance on Christ’s sustaining presence.  
 v14–17: Generosity is reframed. The value lies not in the gift itself but in the shared participation and its fruit.  
 v18–19: Giving is interpreted sacrificially. Material support becomes an act of worship, and provision is grounded in God’s abundance.  
 v20: The doxology recenters all activity in God’s glory. The letter’s concerns resolve in praise.  
 v21–23: The closing emphasizes connection across distance. The mention of the emperor’s household signals the gospel’s reach into unexpected places.  
 
-##Vocabulary
+## Vocabulary
 
-v1: στήκω (stēkō)  
+v01: στήκω (stēkō)  
 “To stand firm.” Conveys steadfastness and stability under pressure.  
 
-v3: συνεργός (synergos)  
+v03: συνεργός (synergos)  
 “Coworker.” Indicates shared labor and mutual participation in the gospel.  
 
-v5: ἐπιεικής (epieikēs)  
+v05: ἐπιεικής (epieikēs)  
 “Gentleness.” A yielding posture that reflects restraint and consideration for others.  
 
-v6: προσευχή (proseuchē)  
+v06: προσευχή (proseuchē)  
 “Prayer.” General term for addressing God, encompassing dependence and relationship.  
 
-v7: εἰρήνη (eirēnē)  
+v07: εἰρήνη (eirēnē)  
 “Peace.” More than absence of conflict; signifies wholeness and restored order.  
 
-v8: λογίζομαι (logizomai)  
+v08: λογίζομαι (logizomai)  
 “To think about.” Implies intentional reflection and disciplined attention.  
 
 v11: αὐτάρκης (autarkēs)
@@ -119,9 +119,6 @@ v19: πληρόω (plēroō)
 
 v23: χάρις (charis)  
 “Grace.” Gifted favor that sustains and defines the life of the community.  
-
-v03: συνεργός (synergos)
-“Coworker.” Indicates shared labor and mutual participation in the gospel.
 
 v07: εἰρήνη (eirēnē)
 “Peace; well-being; wholeness.”

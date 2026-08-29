@@ -122,11 +122,11 @@ v26: I myself will also lift your skirts over your face, and your shame will be 
 <p>
 v27: Your adulteries, your lustful neighings, your shameless prostitution—on the hills in the field I have seen your detestable things. Woe to you, Jerusalem! Will you not be made clean? How long yet?”
 </p>
-##Notes
+## Notes
 
 v16: The Hebrew text includes a form with a traditional reading that clarifies the final clause; the translation follows that reading.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֵזוֹר (ʾēzôr)
 “Belt.” The linen belt is the chapter’s governing image: something meant to cling closely, yet ruined and rendered useless.

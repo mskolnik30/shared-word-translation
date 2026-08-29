@@ -45,7 +45,7 @@ v02: The question “When will you come to me?” interrupts the royal commitmen
 v05, v08: The Hebrew verb can mean “destroy” or “silence/cut off.” The translation uses “silence” where the immediate offense is destructive speech while retaining “cutting off” in the civic conclusion.
 v05: The Hebrew verb used here and again in verse 8 can mean “destroy,” “silence,” or “cut off.”
 
-##Vocabulary
+## Vocabulary
 
 v02: תָּמִים (tamim)
 “Complete,” “whole,” or “integral.” In ethical contexts it describes integrity or wholehearted conduct.

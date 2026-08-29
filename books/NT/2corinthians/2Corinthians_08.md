@@ -87,13 +87,13 @@ v23: As for Titus, he is my partner and fellow worker for your sake; and as for 
 v24: Therefore show them the proof of your love and of our boasting about you before the churches.
 </p>
 ## Notes
-v1–2: “Grace” frames generosity. Giving is not reduced to obligation but described as divine activity within the community.  
-v2: Affliction and poverty are not removed; they become the context in which generosity emerges.  
-v3–5: The Macedonians’ giving exceeds expectation both in amount and in willingness. Their self-giving precedes material giving.  
-v4: Participation in giving is described as a “favor,” reversing normal assumptions about burden and privilege.  
-v6–7: The Corinthians are urged to align this act of giving with their existing strengths, not treat it as separate.  
-v8: Paul avoids command, framing the appeal as a test of authenticity rather than compliance.  
-v9: Christ’s “poverty” and “richness” are stated relationally. The movement from one to the other is not explained but presented as pattern.  
+v01–02: “Grace” frames generosity. Giving is not reduced to obligation but described as divine activity within the community.  
+v02: Affliction and poverty are not removed; they become the context in which generosity emerges.  
+v03–05: The Macedonians’ giving exceeds expectation both in amount and in willingness. Their self-giving precedes material giving.  
+v04: Participation in giving is described as a “favor,” reversing normal assumptions about burden and privilege.  
+v06–07: The Corinthians are urged to align this act of giving with their existing strengths, not treat it as separate.  
+v08: Paul avoids command, framing the appeal as a test of authenticity rather than compliance.  
+v09: Christ’s “poverty” and “richness” are stated relationally. The movement from one to the other is not explained but presented as pattern.  
 v10–11: Desire and action are held together. Incomplete intention is not dismissed but brought toward completion.  
 v12: Acceptability is measured by proportion, not comparison. Capacity governs expectation.  
 v13–14: Equality is situational and reciprocal. Present abundance and need are expected to shift over time.  
@@ -103,31 +103,31 @@ v18–21: Transparency is emphasized. Financial administration is conducted with
 v22–23: The credibility of the messengers is grounded in tested character and communal recognition.  
 v24: The act of giving becomes public confirmation of love and of Paul’s prior confidence in the community.  
 
-##Vocabulary
+## Vocabulary
 
-v1: χάρις (charis)  
+v01: χάρις (charis)  
 
-v1: “Grace.” Here functioning as divine enablement expressed in generosity.  
+v01: “Grace.” Here functioning as divine enablement expressed in generosity.  
 
-v2: δοκιμή (dokimē)  
+v02: δοκιμή (dokimē)  
 
-v2: “Testing.” A proving or refining circumstance.  
+v02: “Testing.” A proving or refining circumstance.  
 
-v2: πλοῦτος (ploutos)  
+v02: πλοῦτος (ploutos)  
 
-v2: “Wealth.” Used paradoxically of generosity arising from poverty.  
+v02: “Wealth.” Used paradoxically of generosity arising from poverty.  
 
-v4: κοινωνία (koinōnia)  
+v04: κοινωνία (koinōnia)  
 
-v4: “Participation” or “sharing.” Emphasizes relational involvement.  
+v04: “Participation” or “sharing.” Emphasizes relational involvement.  
 
-v7: σπουδή (spoudē)  
+v07: σπουδή (spoudē)  
 
-v7: “Earnestness.” Diligent seriousness or eagerness.  
+v07: “Earnestness.” Diligent seriousness or eagerness.  
 
-v9: πτωχεύω (ptōcheuō)  
+v09: πτωχεύω (ptōcheuō)  
 
-v9: “To become poor.” Indicates entering into a condition, not merely lacking resources.  
+v09: “To become poor.” Indicates entering into a condition, not merely lacking resources.  
 
 v13: ἄνεσις (anesis)  
 

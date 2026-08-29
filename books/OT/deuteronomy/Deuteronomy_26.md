@@ -112,7 +112,7 @@ v14: The references to mourning, uncleanness, and the dead distinguish the holy 
 v17–18: The reciprocal declarations form covenant language: Israel declares the LORD as God, and the LORD declares Israel as treasured people.
 v19: Israel’s elevation is vocational and holy, directed toward praise, fame, and honor under the LORD’s command.
 
-##Vocabulary
+## Vocabulary
 
 v02: רֵאשִׁית (reshit)
 “First.” The first portion of produce.

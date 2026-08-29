@@ -65,7 +65,7 @@ v11: Their residence in Jerusalem is an emergency adaptation to war, not abandon
 v14: The contrast turns on listening: the Rechabites obey a human ancestor across generations, while Judah refuses repeated speech from the LORD.
 v19: “stand before me” can describe enduring service or recognized standing in the LORD’s presence. The precise institutional form of the promise is not specified.
 
-##Vocabulary
+## Vocabulary
 
 v02: רֵכָבִים (Rekhabim)
 “Rechabites.” The clan descended from or associated with Rechab and Jonadab.

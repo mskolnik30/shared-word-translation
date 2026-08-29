@@ -95,7 +95,7 @@ v07: “Deep calls to deep” — The language moves from thirst to overwhelming
 v10: “As with a crushing in my bones” — The Hebrew construction is difficult and intensely physical. The translation preserves the image of inward bodily injury produced by the enemies’ reproach.
 v11: The repeated refrain does not eliminate the psalmist’s distress. Hope and turmoil remain together at the conclusion of the psalm.
 
-##Vocabulary
+## Vocabulary
 
 v01: עָרַג (arag)
 “To long for” or “pant after.” Intense desire expressed through the image of an animal seeking water.

@@ -142,7 +142,7 @@ v10: Baal-Peor recalls Numbers 25. “Shame” is a contemptuous substitution fo
 v11–16: Fertility, once understood as blessing, is reversed through barrenness, miscarriage, bereavement, and dried roots. The imagery is severe and deliberately bodily.
 v15: Gilgal, once associated with covenant renewal and Israel’s entry into the land, has become a place identified with evil in Hosea’s polemic.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֶתְנָן (etnan)
 “Prostitute’s wages.” Payment associated with prostitution, used metaphorically for Israel’s cultic gain.

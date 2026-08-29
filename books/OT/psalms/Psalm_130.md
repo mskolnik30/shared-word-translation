@@ -56,8 +56,7 @@ v07: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
 v07: פְּדוּת (pedut) — redemption; ransom; release
 v08: “from all its iniquities” — The deepest deliverance is moral and spiritual renewal; redemption reaches beyond external threat to the roots of brokenness.
 
-  ## Vocabulary
-##Vocabulary
+## Vocabulary
 
 v02: תְּחִנּוּנִים (teḥinnunim)
 “Pleas; supplications for mercy.”

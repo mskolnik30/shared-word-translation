@@ -87,7 +87,7 @@ v13: Manasseh’s restored knowledge—“the LORD, he is God”—comes through
 v17: Popular high-place worship continues but is now directed only to the LORD, showing reform that remains incomplete by Deuteronomic standards.
 v23: Amon imitates Manasseh’s evil but not his humility.
 
-##Vocabulary
+## Vocabulary
 
 v06: כָּשַׁף (kashaf)
 “To practice sorcery.”

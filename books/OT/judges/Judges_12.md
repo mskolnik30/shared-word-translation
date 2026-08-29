@@ -54,7 +54,7 @@ v06: “Shibboleth” — The word means an ear of grain or flowing stream. Here
 v06: The number forty-two thousand is extremely large in relation to the conflict and may reflect ancient numerical conventions that are difficult to reconstruct. TSW preserves the received number.
 v08–15: The notices concerning Ibzan, Elon, and Abdon emphasize family networks, marriage alliances, and status without recording major military deliverances.
 
-##Vocabulary
+## Vocabulary
 
 v03: שִׂים נֶפֶשׁ בְּכַף (sim nefesh be-khaf)
 “To put one’s life in one’s hand.” An idiom for risking one’s life.

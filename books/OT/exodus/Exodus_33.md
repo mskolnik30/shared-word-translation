@@ -61,7 +61,7 @@ v19: Glory is mediated through goodness and name. Divine freedom (“I will be g
 v20: The boundary is absolute—direct vision of God is incompatible with human life.  
 v21–23: Revelation is partial and protected. The imagery of rock, cleft, and covering emphasizes both nearness and concealment.  
 
-##Vocabulary
+## Vocabulary
 
 v12: יָדַע (yāḏaʿ)
 “To know.” Relational, not merely cognitive.

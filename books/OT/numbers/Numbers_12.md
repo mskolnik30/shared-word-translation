@@ -56,7 +56,7 @@ v03: “humble” — The Hebrew can mean humble, afflicted, or meek. The statem
 v06–08: The passage does not deny genuine prophecy through visions and dreams. It distinguishes Moses by the directness and faithfulness of his relationship within the LORD’s house.
 v10: The traditional rendering “leprous” can misleadingly suggest modern Hansen’s disease. The Hebrew term covers a range of serious skin conditions, so TSW uses “diseased.”
 
-##Vocabulary
+## Vocabulary
 
 v01: כּוּשִׁית (Kushit)
 “Cushite woman.” A woman associated with Cush.

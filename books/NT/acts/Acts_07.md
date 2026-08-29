@@ -109,9 +109,9 @@ v59: And as they were stoning Stephen, he called out, “Lord Jesus, receive my 
 v60: And falling to his knees he cried out with a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep.
 </p>
 ## Notes
-v2: “The God of glory” introduces the speech with emphasis on divine initiative prior to land or temple.  
-v5: Promise is given before possession; inheritance remains future even within the land.  
-v9–10: “God was with him” reframes Joseph’s suffering as accompanied rather than avoided.  
+v02: “The God of glory” introduces the speech with emphasis on divine initiative prior to land or temple.  
+v05: Promise is given before possession; inheritance remains future even within the land.  
+v09–10: “God was with him” reframes Joseph’s suffering as accompanied rather than avoided.  
 v17–19: Growth of the people leads to threat, linking blessing with vulnerability.  
 v25: Moses’ assumption of recognition contrasts with Israel’s misunderstanding.  
 v30–34: Divine revelation occurs outside established sacred space, emphasizing God’s freedom.  
@@ -123,15 +123,15 @@ v55–56: Stephen’s vision parallels exaltation language, though presented as 
 v58: Saul is introduced without explanation, marking a narrative thread that continues beyond the scene.  
 v59–60: Stephen’s final words echo Jesus’ own, linking witness and imitation without explicit commentary.  
 
-##Vocabulary
+## Vocabulary
 
-v2: δόξα (doxa)  
+v02: δόξα (doxa)  
 “Glory.” Denotes divine presence and radiance; often associated with revelation.  
 
-v5: κληρονομία (klēronomia)  
+v05: κληρονομία (klēronomia)  
 “Inheritance.” A promised possession, not yet realized.  
 
-v9: φθόνος (phthonos)  
+v09: φθόνος (phthonos)  
 “Jealousy.” A destructive response to another’s favor or status.  
 
 v20: ἀστεῖος (asteios)  
@@ -159,8 +159,3 @@ v56: υἱὸς τοῦ ἀνθρώπου (huios tou anthrōpou)
 v02: δόξα (doxa)
 “Glory.” Honor, splendor, or manifest radiance; here in the title “God of glory.”
 
-v05: κληρονομία (klēronomia)
-“Inheritance.” A promised possession, not yet realized.
-
-v09: φθόνος (phthonos)
-“Jealousy.” A destructive response to another’s favor or status.

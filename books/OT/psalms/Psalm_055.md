@@ -114,7 +114,7 @@ v12–13: "not an enemy... you—a person of my equal" — The psalmist highligh
 v15–16: "Let death seize them; let them go down to Sheol alive" — A strong petition for divine justice against those who persistently work evil.
 v22: "Cast your burden on the Lord" — An invitation to trust in God as sustainer, who provides stability amidst life's uncertainties.
 
-##Vocabulary
+## Vocabulary
 
 v11: יוֹמָם וָלַ֗יְלָה (yo.mam va.la'yla) — "Day and night" captures the continual unrest and vigilance surrounding the city.  
 

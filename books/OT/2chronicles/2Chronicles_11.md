@@ -74,7 +74,7 @@ v14–16: Chronicles emphasizes a migration of priests, Levites, and faithful wo
 v15: “Goat-demons” translates a Hebrew term used for illicit cultic beings.
 v21: The large royal household reflects ancient dynastic practice and political alliance-building.
 
-##Vocabulary
+## Vocabulary
 
 v02: אִישׁ הָאֱלֹהִים (ish ha-Elohim)
 “Man of God.” A prophetic title.

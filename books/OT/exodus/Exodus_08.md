@@ -86,23 +86,23 @@ v32: But Pharaoh hardened his heart this time also, and he did not send the peop
 </p>
 ## Notes
 v01–04: These verses are numbered 7:26–29 in the Hebrew tradition. Public English verse numbering is retained here.
-v9: Moses’ unusual reply gives Pharaoh the privilege of naming when prayer should be made. Pharaoh chooses the time, but the LORD alone removes the frogs.
+v09: Moses’ unusual reply gives Pharaoh the privilege of naming when prayer should be made. Pharaoh chooses the time, but the LORD alone removes the frogs.
 v17: The precise identity of the Hebrew *kinnim* is uncertain; it may refer to gnats, lice, or another small biting insect. The translation conveys the pervasive nuisance without claiming certainty about the species.
 v21: The Hebrew word rendered as a “swarm” does not identify the creatures precisely. It may denote a mixture of insects or a particular kind of biting fly; the emphasis falls on their overwhelming presence.
 v23: The Hebrew noun can be associated with “redemption” or “ransom,” while some ancient witnesses support a sense like “distinction” or “separation.” The clause marks the LORD’s differentiated treatment of Israel and Egypt.
 v26: What is “an abomination to the Egyptians” may refer to animals regarded as unsuitable for sacrifice or as sacred. Moses does not specify the offerings, but insists that Israel’s worship cannot simply be contained within Pharaoh’s terms.
 
-##Vocabulary
+## Vocabulary
 
-v8: 13 — כִּנִּים (*kinnim*)  
+v08: 13 — כִּנִּים (*kinnim*)  
 
-v8: 15 — אֶצְבַּע אֱלֹהִים (*’etsbaʿ ’elohim*)  
+v08: 15 — אֶצְבַּע אֱלֹהִים (*’etsbaʿ ’elohim*)  
 “The finger of God.” The magicians’ confession recognizes a power beyond their secret arts, even though Pharaoh does not yield.  
 
-v8: 17 — עָרֹב (*ʿarov*)  
+v08: 17 — עָרֹב (*ʿarov*)  
 “Swarm.” The word leaves the plague’s exact nature open while portraying an invading mass that fills houses and ruins the land.  
 
-v8: 19 — פְּדוּת (*peduth*)  
+v08: 19 — פְּדוּת (*peduth*)  
 “Redemption” or “ransom.” Here the LORD establishes *peduth* between Israel and Egypt, marking the preservation of his people as an act of deliverance.  
 
 v13: Small insects that arise from the dust and cover humans and livestock. The term’s uncertain identification contributes to the plague’s unsettling, all-encompassing character.

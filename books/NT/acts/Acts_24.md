@@ -101,8 +101,8 @@ v26: At the same time he was hoping that money would be given to him by Paul; th
 v27: But when two years had been completed, Felix was succeeded by Porcius Festus, and wishing to gain favor with the Jews, Felix left Paul in custody.
 </p>
 ## Notes
-v2–4: Formal rhetoric seeks to gain favor before presenting accusation.  
-v5: Charges include political, social, and religious disruption.  
+v02–04: Formal rhetoric seeks to gain favor before presenting accusation.  
+v05: Charges include political, social, and religious disruption.  
 v10–13: Defense emphasizes lack of evidence.  
 v14–15: Paul frames his faith as continuity with Jewish tradition.  
 v15: Resurrection remains the central doctrinal issue.  
@@ -114,31 +114,31 @@ v26: Corruption influences judicial handling.
 v27: Political expediency prolongs imprisonment.  
 v07: Verse 7 and related words extending from verses 6 to 8 are absent from the earliest and strongest Greek witnesses; later manuscripts expand the account of Lysias taking Paul from the crowd. Public verse numbering is retained.
 
-##Vocabulary
+## Vocabulary
 
-v1: κατήγορος (katēgoros)  
+v01: κατήγορος (katēgoros)  
 
-v2: “Accuser.”  
+v02: “Accuser.”  
 
-v2: κατηγορέω (katēgoreō)  
+v02: κατηγορέω (katēgoreō)  
 
-v2: “To accuse.”  
+v02: “To accuse.”  
 
-v3: εὐχαριστία (eucharistia)  
+v03: εὐχαριστία (eucharistia)  
 
-v3: “Gratitude.”  
+v03: “Gratitude.”  
 
-v5: λοιμός (loimos)  
+v05: λοιμός (loimos)  
 
-v5: “Pest, plague.”  
+v05: “Pest, plague.”  
 
-v5: πρωτοστάτης (prōtostatēs)  
+v05: πρωτοστάτης (prōtostatēs)  
 
-v5: “Ringleader.”  
+v05: “Ringleader.”  
 
-v6: βεβηλόω (bebēloō)  
+v06: βεβηλόω (bebēloō)  
 
-v6: “To profane.”  
+v06: “To profane.”  
 
 v10: ἀπολογέομαι (apologeomai)  
 

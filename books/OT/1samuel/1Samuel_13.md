@@ -82,7 +82,7 @@ v14: “A man according to his heart” describes the one God seeks for the roya
 v19–22: Philistine control of metalworking creates military dependence and explains why Israel enters battle with almost no swords or spears.
 v21: “Pim” is an ancient weight/payment term confirmed by archaeological finds; the exact pricing syntax remains difficult.
 
-##Vocabulary
+## Vocabulary
 
 v01: מָלַךְ (malakh)
 “To reign.”

@@ -83,7 +83,7 @@ v18: “eunuchs” may mean castrated officials or palace servants more broadly.
 v19: Hezekiah’s response can sound selfish because he focuses on peace in his own lifetime, though it can also express submission to the LORD’s word. The narrative leaves the moral evaluation implicit.
 v20: Hezekiah’s waterworks are commonly associated with the tunnel bringing Gihon water into Jerusalem, known archaeologically from the Siloam Tunnel.
 
-##Vocabulary
+## Vocabulary
 
 v01: צָוָה לְבֵית (tsavah le-bet)
 “To put the house in order.” Arrange household affairs before death.

@@ -46,11 +46,11 @@ because you have done it.
 I will wait for your name,
 for it is good, in the presence of your faithful ones.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
-v3: חֶסֶד (chesed) - "steadfast love." This term evokes a covenantal loyalty or mercy, often emphasizing God's enduring faithfulness and compassion toward his people.  
+v03: חֶסֶד (chesed) - "steadfast love." This term evokes a covenantal loyalty or mercy, often emphasizing God's enduring faithfulness and compassion toward his people.  
 
 v01: חֶסֶד (chesed)
 “steadfast love." This term evokes a covenantal loyalty or mercy, often with a sense of God's enduring faithfulness and compassion toward his people.

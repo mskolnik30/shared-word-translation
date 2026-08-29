@@ -221,7 +221,7 @@ v70: Jesus answered them, “Did I not choose you, the twelve? And one of you is
 v71: Now he was speaking of Judas, the son of Simon Iscariot, for this one, one of the twelve, was about to betray him.
 </p>
 ## Notes
-v5–6: Testing reveals understanding, not ignorance in Jesus.
+v05–06: Testing reveals understanding, not ignorance in Jesus.
 v11–13: Abundance exceeds need, emphasizing provision.
 v14–15: Misinterpretation of the sign leads to political expectation.
 v20: “I am” echoes divine self-identification.
@@ -237,13 +237,13 @@ v63: Spirit contrasts with flesh as source of life.
 v68–69: Confession centers on Jesus as exclusive source of life.
 v70–71: Choice of the twelve includes internal betrayal.
 
-##Vocabulary
+## Vocabulary
 
-v2: σημεῖον (sēmeion)
+v02: σημεῖον (sēmeion)
 
 “Sign.”
 
-v6: πειράζω (peirazō)
+v06: πειράζω (peirazō)
 
 “To test.”
 
@@ -307,8 +307,3 @@ v70: διάβολος (diabolos)
 
 “Devil.”
 
-v02: σημεῖον (sēmeion)
-“Sign.”
-
-v06: πειράζω (peirazō)
-“To test.”

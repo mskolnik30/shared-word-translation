@@ -107,7 +107,7 @@ v11: The final word translated “command” is uncertain and may refer to a hum
 v13: “great king” translates a difficult royal designation, likely referring to the Assyrian king as a powerful imperial ruler.
 v15: The LORD’s withdrawal is purposeful and temporary: judgment continues “until” guilt is acknowledged and the divine face is sought.
 
-##Vocabulary
+## Vocabulary
 
 v01: מוֹקֵשׁ (moqesh)
 “Snare.” A trap, here describing corrupt leadership.

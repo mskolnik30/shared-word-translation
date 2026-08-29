@@ -114,7 +114,7 @@ v19: The “six … seven” pattern is a numerical poetic device expressing ful
 v23: Covenant with stones and peace with animals portray restored harmony between the person and the created environment.
 v27: Eliphaz closes with confidence that his conclusion has been “searched out.” The later speeches expose the limits of such confidence.
 
-##Vocabulary
+## Vocabulary
 
 v02: כַּעַס (ka'as)
 “Vexation,” “anger,” or “grief.” Intense emotional agitation.

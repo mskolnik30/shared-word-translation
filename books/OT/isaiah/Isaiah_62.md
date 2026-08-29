@@ -40,33 +40,25 @@ look, his reward is with him, and his recompense before him.
 v12: They will call them The holy people, The redeemed of the LORD: and you will be called Sought out, A city not forsaken.
 </p>
 ## Notes
-v4: The new names reverse Zion’s former abandonment. Naming is part of restoration, not merely a change of reputation.  
-v1: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v1: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
-v2: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+v04: The new names reverse Zion’s former abandonment. Naming is part of restoration, not merely a change of reputation.  
+v01: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v01: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
+v02: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
-##Vocabulary
+## Vocabulary
 
-v2: שֵׁם חָדָשׁ (shem chadash)  
+v02: שֵׁם חָדָשׁ (shem chadash)  
 “New name.” A divinely given identity marking restored Zion.  
 
-v2: גּוֹיִם (goyim)  
+v02: גּוֹיִם (goyim)  
 “Nations” or “peoples.” Peoples beyond Israel.  
 
-v1: צִיּוֹן (tsiyyon)  
+v01: צִיּוֹן (tsiyyon)  
 “Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
-v1: צְדָקָה (tsedaqah)  
+v01: צְדָקָה (tsedaqah)  
 “Righteousness.” Rightness and faithfulness in relationship and action.  
-
-v02: שֵׁם חָדָשׁ (shem chadash)
-“New name.” A divinely given identity marking restored Zion.
-
-v02: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
 
 v01: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v01: צְדָקָה (tsedaqah)
-“Righteousness.” Rightness and faithfulness in relationship and action.

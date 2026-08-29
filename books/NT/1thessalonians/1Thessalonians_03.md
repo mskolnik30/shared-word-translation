@@ -51,47 +51,47 @@ v12: and may the Lord make you increase and abound in love for one another and f
 v13: so that he may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all his holy ones.
 </p>
 ## Notes
-v1–2: Paul’s decision to remain alone underscores the urgency of sending Timothy. Presence is redistributed for the sake of strengthening the community.  
-v2: Timothy is described in layered terms—brother, coworker, servant—indicating relational and functional identity.  
-v3–4: Affliction is not unexpected but “appointed.” Suffering is integrated into the community’s formation.  
-v5: Concern centers on the possibility that temptation could render prior labor “in vain,” linking perseverance to outcome.  
-v6: Timothy’s report functions as mediation. Faith and love are confirmed through testimony.  
-v7: The community’s stability provides comfort to Paul, reversing expected direction of encouragement.  
-v8: “Now we live” expresses dependence. Paul’s sense of vitality is tied to their steadfastness.  
-v9–10: Thanksgiving is described as insufficient to match joy. Prayer seeks completion where something is “lacking.”  
+v01–02: Paul’s decision to remain alone underscores the urgency of sending Timothy. Presence is redistributed for the sake of strengthening the community.  
+v02: Timothy is described in layered terms—brother, coworker, servant—indicating relational and functional identity.  
+v03–04: Affliction is not unexpected but “appointed.” Suffering is integrated into the community’s formation.  
+v05: Concern centers on the possibility that temptation could render prior labor “in vain,” linking perseverance to outcome.  
+v06: Timothy’s report functions as mediation. Faith and love are confirmed through testimony.  
+v07: The community’s stability provides comfort to Paul, reversing expected direction of encouragement.  
+v08: “Now we live” expresses dependence. Paul’s sense of vitality is tied to their steadfastness.  
+v09–10: Thanksgiving is described as insufficient to match joy. Prayer seeks completion where something is “lacking.”  
 v11: Direction of travel is placed under divine agency, not personal planning alone.  
 v12: Love is expansive—“for one another and for all”—without boundary.  
 v13: Holiness is oriented toward a future event (“the coming of our Lord Jesus”), linking present formation with eschatological expectation.  
 
-##Vocabulary
+## Vocabulary
 
-v2: στηρίζω (stērizō)  
+v02: στηρίζω (stērizō)  
 
-v2: “To strengthen.” To make firm or stable.  
+v02: “To strengthen.” To make firm or stable.  
 
-v2: παρακαλέω (parakaleō)  
+v02: παρακαλέω (parakaleō)  
 
-v2: “To encourage.” To comfort or urge forward.  
+v02: “To encourage.” To comfort or urge forward.  
 
-v3: σαίνω (sainō)  
+v03: σαίνω (sainō)  
 
-v3: “To be shaken.” To be disturbed or unsettled.  
+v03: “To be shaken.” To be disturbed or unsettled.  
 
-v3: κεῖμαι (keimai)  
+v03: κεῖμαι (keimai)  
 
-v3: “To be appointed.” To be set or destined.  
+v03: “To be appointed.” To be set or destined.  
 
-v5: πειράζω (peirazō)  
+v05: πειράζω (peirazō)  
 
-v5: “To tempt” or “test.” To try or prove.  
+v05: “To tempt” or “test.” To try or prove.  
 
-v6: εὐαγγελίζομαι (euangelizomai)  
+v06: εὐαγγελίζομαι (euangelizomai)  
 
-v6: “To bring good news.” To report favorable news.  
+v06: “To bring good news.” To report favorable news.  
 
-v8: στήκω (stēkō)  
+v08: στήκω (stēkō)  
 
-v8: “To stand firm.” To remain steadfast.  
+v08: “To stand firm.” To remain steadfast.  
 
 v10: καταρτίζω (katartizō)  
 

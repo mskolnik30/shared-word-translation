@@ -121,7 +121,7 @@ v29: “fill your hands” is the ordinary idiom for ordination or installation.
 v32: Moses offers his own removal from God’s “book” rather than accept separation from the people. The precise nature of the heavenly book is not defined.
 v34: Judgment is delayed but not erased. Intercession preserves Israel from immediate destruction while accountability remains.
 
-##Vocabulary
+## Vocabulary
 
 v04: מַסֵּכָה (massekhah)
 “Cast image.” An image formed from molten metal.

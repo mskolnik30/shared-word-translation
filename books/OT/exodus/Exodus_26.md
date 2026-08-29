@@ -108,7 +108,7 @@ v24: The corner-frame construction is technically difficult to reconstruct from 
 v30: As in chapter 25, the dwelling is to be erected according to the revealed plan shown on the mountain.
 v33: The veil creates graded sacred space, separating the Holy Place from the Most Holy Place.
 
-##Vocabulary
+## Vocabulary
 
 v01: מִשְׁכָּן (mishkan)
 “Dwelling.” The portable sanctuary where the LORD dwells among Israel.

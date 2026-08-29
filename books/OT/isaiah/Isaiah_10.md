@@ -72,12 +72,12 @@ v33: Look, the Lord GOD of Hosts, will lop the boughs with terror. The tall will
 v34: He will cut down the thickets of the forest with iron, and Lebanon will fall by the Mighty One.
 </p>
 ## Notes
-v5: Assyria is called the rod of the LORD’s anger, yet the empire is later judged for its own arrogance. Instrumentality does not erase moral responsibility.  
+v05: Assyria is called the rod of the LORD’s anger, yet the empire is later judged for its own arrogance. Instrumentality does not erase moral responsibility.  
 v20: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
 v26: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
 v19: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
 
-##Vocabulary
+## Vocabulary
 
 v20: שְׁאָר יָשׁוּב (she'ar yashuv)
 “A remnant will return.” A key Isaianic phrase and the name of Isaiah’s son in chapter 7.

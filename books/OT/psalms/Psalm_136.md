@@ -76,13 +76,13 @@ for God’s steadfast love endures forever.
 v26: Give thanks to the God of heaven,
 for God’s steadfast love endures forever.
 </p>
-##Notes
+## Notes
 
 Structure: Every verse ends with the same Hebrew refrain.
 
 v13: The Hebrew name used here and again in verse 15 is יַם־סוּף (Yam Suf), literally “Sea of Reeds.”
 
-##Vocabulary
+## Vocabulary
 
 v01–26: חֶסֶד (hesed)
 “Steadfast love.” Covenant loyalty expressed persistently in action; the same term stands in the refrain of every verse.

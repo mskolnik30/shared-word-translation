@@ -91,7 +91,7 @@ v05–07: Restoration is pictured through dew, lily, roots, olive tree, grain, v
 v08: The Hebrew voices in this verse are compressed, and interpreters differ over which clauses are spoken by Ephraim and which by the LORD. TSW distinguishes Ephraim’s rejection of idols from the LORD’s answering, watching, and fruit-giving.
 v09: The closing wisdom saying turns the whole book into a path to be understood and walked. The same ways of the LORD sustain the righteous and expose transgressors.
 
-##Vocabulary
+## Vocabulary
 
 v01: שׁוּב (shuv)
 “To return.” Hosea’s central verb for covenantal turning back.

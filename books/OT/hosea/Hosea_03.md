@@ -29,7 +29,7 @@ v02: The payment combines silver and barley. The precise social or legal status 
 v04: Israel’s deprivation includes both legitimate and illegitimate institutions: king, sacrifice, pillar, ephod, and household gods. The verse describes a period of absence rather than endorsing every item named.
 v05: “David their king” points to renewed Davidic rule while leaving open how the figure relates to the historical David and future kingship.
 
-##Vocabulary
+## Vocabulary
 
 v01: אָהַב (ahav)
 “To love.” The chapter begins with a command to love in a situation marked by betrayal.

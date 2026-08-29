@@ -121,7 +121,7 @@ v12: The addressee shifts from Nineveh's strength to the afflicted people whom t
 v14: “No offspring will continue your name” — The judgment concerns the end of dynastic or national continuity, not merely the death of one individual.
 v15: In the Masoretic chapter division this verse begins chapter 2. TSW follows standard public English chapter numbering, where the proclamation of good news concludes Nahum 1.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַשָּׂא (massa)
 “Oracle” or “burden.” A weighty prophetic pronouncement.

@@ -73,13 +73,13 @@ v19: For what is our hope or joy or crown of boasting before our Lord Jesus at h
 v20: For you are our glory and joy.
 </p>
 ## Notes
-v1–2: Ministry is validated by endurance under opposition, not by ease or acceptance.  
-v2: “Boldness in our God” locates courage as derivative, not self-generated.  
-v3–4: Motive is central. Paul contrasts divine approval with human persuasion.  
-v4: “God who tests our hearts” places inner intention under divine scrutiny.  
-v5–6: Negative assertions (no flattery, no greed, no seeking glory) define the integrity of the message.  
-v7–8: Maternal imagery (“nursing mother”) emphasizes tenderness and self-giving.  
-v9: Manual labor reinforces independence from financial burden.  
+v01–02: Ministry is validated by endurance under opposition, not by ease or acceptance.  
+v02: “Boldness in our God” locates courage as derivative, not self-generated.  
+v03–04: Motive is central. Paul contrasts divine approval with human persuasion.  
+v04: “God who tests our hearts” places inner intention under divine scrutiny.  
+v05–06: Negative assertions (no flattery, no greed, no seeking glory) define the integrity of the message.  
+v07–08: Maternal imagery (“nursing mother”) emphasizes tenderness and self-giving.  
+v09: Manual labor reinforces independence from financial burden.  
 v10–12: Conduct and exhortation are paired. Paternal imagery complements earlier maternal imagery.  
 v12: Calling is directed toward “kingdom and glory,” linking present conduct with future reality.  
 v13: The word is received as divine, not human, and is described as active within believers.  
@@ -89,31 +89,31 @@ v17–18: Physical absence contrasts with emotional presence. Desire for reunion
 v18: Hindrance is attributed to Satan, introducing unseen opposition.  
 v19–20: The community itself is Paul’s “crown,” redefining success relationally rather than institutionally.  
 
-##Vocabulary
+## Vocabulary
 
-v2: παρρησία (parrēsia)  
+v02: παρρησία (parrēsia)  
 
-v2: “Boldness.” Freedom and confidence in speech.  
+v02: “Boldness.” Freedom and confidence in speech.  
 
-v3: πλάνη (planē)  
+v03: πλάνη (planē)  
 
-v3: “Error.” Deviation from truth.  
+v03: “Error.” Deviation from truth.  
 
-v4: δοκιμάζω (dokimazō)  
+v04: δοκιμάζω (dokimazō)  
 
-v4: “To test.” To examine for authenticity.  
+v04: “To test.” To examine for authenticity.  
 
-v5: πρόφασις (prophasis)  
+v05: πρόφασις (prophasis)  
 
-v5: “Pretext.” An outward justification masking true intent.  
+v05: “Pretext.” An outward justification masking true intent.  
 
-v7: τροφός (trophos)  
+v07: τροφός (trophos)  
 
-v7: “Nursing mother.” One who nourishes and cares.  
+v07: “Nursing mother.” One who nourishes and cares.  
 
-v9: κόπος (kopos)  
+v09: κόπος (kopos)  
 
-v9: “Labor.” Exhausting work.  
+v09: “Labor.” Exhausting work.  
 
 v12: παρακαλέω (parakaleō)  
 

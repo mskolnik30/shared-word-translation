@@ -105,24 +105,24 @@ v33: Abraham planted a tamarisk tree in Beersheba and called there on the name o
 v34: And Abraham sojourned many days in the land of the Philistines.
 </p>
 ## Notes
-v1–2: “Visited” signals covenant fulfillment; divine action corresponds precisely to prior promise.  
-v6: Wordplay on Isaac’s name (“he laughs”); laughter moves from disbelief to shared joy.  
-v9: The ambiguity of “laughing” allows tension—mockery or rivalry.  
+v01–02: “Visited” signals covenant fulfillment; divine action corresponds precisely to prior promise.  
+v06: Wordplay on Isaac’s name (“he laughs”); laughter moves from disbelief to shared joy.  
+v09: The ambiguity of “laughing” allows tension—mockery or rivalry.  
 v12: “Through Isaac shall your seed be named” establishes covenant lineage distinctly.  
 v17: God hears “the voice of the boy,” reinforcing divine responsiveness to distress.  
 v19: The opened eyes motif emphasizes provision already present but unseen.  
 v31: Beersheba connects oath (שבע) and “seven,” reinforcing covenant symbolism.  
 v33: “Everlasting God” (El Olam) marks a theological expansion beyond immediate promise.  
 
-##Vocabulary
+## Vocabulary
 
-v1: פָּקַד (pāqad)  
+v01: פָּקַד (pāqad)  
 
-v1: “To visit.” Often denotes divine intervention to fulfill promise.  
+v01: “To visit.” Often denotes divine intervention to fulfill promise.  
 
-v6: צָחַק (ṣāḥaq)  
+v06: צָחַק (ṣāḥaq)  
 
-v6: “To laugh.” Expresses joy, irony, or tension depending on context.  
+v06: “To laugh.” Expresses joy, irony, or tension depending on context.  
 
 v10: גָּרַשׁ (gāraš)
 “To drive out, expel.” Used for decisive separation.

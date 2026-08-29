@@ -76,19 +76,17 @@ the lion will eat straw like the ox, and dust will be the serpent’s food. They
 </p>
 ## Notes
 v17: “new heavens and a new earth” — Creation language frames restoration on a scale larger than political return while the following verses remain concretely social and earthly.  
-v8: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+v08: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 v14: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
 
-##Vocabulary
+## Vocabulary
 
 v17: שָׁמַיִם חֲדָשִׁים וָאָרֶץ חֲדָשָׁה (shamayim chadashim va'arets chadashah)
 “New heavens and a new earth.” Creation language for radical restoration.
 
-v8: עֶבֶד (eved)  
+v08: עֶבֶד (eved)  
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
 v14: רוּחַ (ruach)
 “Spirit,” “wind,” or “breath.” A term whose sense is determined by context.
 
-v08: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.

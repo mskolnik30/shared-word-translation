@@ -99,32 +99,30 @@ will hiss
 and shake a hand.
 </p>
 ## Notes
-v1: The paired commands use the same Hebrew verb, creating an insistent summons: “Gather yourselves, yes, gather.” The final description may mean “without shame” or, less likely, “not desired”; the wording preserves the rebuke without fully settling the nuance.  
-v2: The images move quickly from a decree “giving birth” to a day passing like chaff. The compressed language conveys an approaching judgment whose arrival cannot be delayed.  
-v3: “Perhaps” does not turn seeking the LORD into a technique for securing safety. It holds together the call to righteousness and humility with the uncertainty proper to those facing the LORD’s anger.  
-v5: “Cherethites” identifies a people associated with the Philistine coast. The following address, “Canaan, land of the Philistines,” intensifies the oracle’s focus on that coastal region.  
-v7: The LORD’s “attending to” the remnant can carry the sense of visiting, caring for, or intervening on their behalf. The restoration of their fortunes reverses the devastation announced against the coast.  
-v9: “As I live” is an oath formula. The judgment of Moab and Ammon answers their contempt for Judah, yet the verse also anticipates that the remnant will receive what these nations lose.  
+v01: The paired commands use the same Hebrew verb, creating an insistent summons: “Gather yourselves, yes, gather.” The final description may mean “without shame” or, less likely, “not desired”; the wording preserves the rebuke without fully settling the nuance.  
+v02: The images move quickly from a decree “giving birth” to a day passing like chaff. The compressed language conveys an approaching judgment whose arrival cannot be delayed.  
+v03: “Perhaps” does not turn seeking the LORD into a technique for securing safety. It holds together the call to righteousness and humility with the uncertainty proper to those facing the LORD’s anger.  
+v05: “Cherethites” identifies a people associated with the Philistine coast. The following address, “Canaan, land of the Philistines,” intensifies the oracle’s focus on that coastal region.  
+v07: The LORD’s “attending to” the remnant can carry the sense of visiting, caring for, or intervening on their behalf. The restoration of their fortunes reverses the devastation announced against the coast.  
+v09: “As I live” is an oath formula. The judgment of Moab and Ammon answers their contempt for Judah, yet the verse also anticipates that the remnant will receive what these nations lose.  
 v11: To “make all the gods of the earth waste away” depicts the stripping away of their power and worship. The resulting bowing comes from “all the coastlands of the nations,” extending the LORD’s claim beyond Israel.  
 v14: The identities of the two animals are uncertain; “desert owl” and “hedgehog” represent plausible renderings. The verse piles up sounds, abandoned architecture, and wild creatures to portray Nineveh’s reversal.  
 v15: Nineveh’s claim, “I am, and there is none besides me,” is an assertion of unmatched self-sufficiency. Its language stands in sharp contrast to the LORD’s unique sovereignty elsewhere in Scripture.  
-v01: The paired commands use the same Hebrew verb, creating an insistent summons: “Gather yourselves, yes, gather.” The final description may mean “without shame” or, less likely, “not desired”; the wording preserves the rebuke without fully settling the nuance.
+## Vocabulary
 
-##Vocabulary
-
-v1: קָשַׁשׁ (*qāshash*)  
+v01: קָשַׁשׁ (*qāshash*)  
 — The repeated imperative presses the shameless nation to collect or gather itself before judgment comes.  
 
-v3: עָנָו (*ʿānāw*)  
+v03: עָנָו (*ʿānāw*)  
 — “Humble” names those who live under the LORD’s justice, not merely those with a modest temperament. The verse calls them to seek both righteousness and humility.  
 
-v7: שְׁאֵרִית (*sheʾērît*)  
+v07: שְׁאֵרִית (*sheʾērît*)  
 — “Remnant” identifies those of Judah who remain after loss. Their future on the coast contrasts with the removal of its former inhabitants.  
 
-v7: פָּקַד (*pāqad*)  
+v07: פָּקַד (*pāqad*)  
 — Rendered “attend to,” this verb can describe the LORD’s decisive visitation, whether in judgment or care. Here it grounds the remnant’s restoration.  
 
-v9: נְאֻם (*neʾum*)  
+v09: נְאֻם (*neʾum*)  
 — “Declares” introduces the LORD’s solemn pronouncement and gives the oath in this verse prophetic authority.  
 
 v10: גָּאוֹן (*gāʾôn*)  

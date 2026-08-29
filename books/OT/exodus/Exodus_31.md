@@ -61,7 +61,7 @@ v14–15: The death language underscores the seriousness of Sabbath within Sinai
 v17: “was refreshed” uses a striking verb literally related to taking breath. It speaks analogically of divine cessation rather than exhaustion.
 v18: “finger of God” attributes the tablets’ inscription directly to divine agency.
 
-##Vocabulary
+## Vocabulary
 
 v02: קָרָא בְשֵׁם (qara veshem)
 “To call by name.” A formula of personal divine commissioning.

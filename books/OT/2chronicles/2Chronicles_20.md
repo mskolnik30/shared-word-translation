@@ -132,7 +132,7 @@ v15–17: Judah is commanded to stand and witness divine deliverance rather than
 v21–22: Worship goes before the army, and the divine ambush begins as praise begins.
 v35–37: The chapter closes by qualifying Jehoshaphat’s faithfulness through another alliance with a wicked northern king.
 
-##Vocabulary
+## Vocabulary
 
 v03: צוֹם (tsom)
 “Fast.”

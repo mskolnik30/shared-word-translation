@@ -60,11 +60,11 @@ day and night,
 shall not cease.”
 </p>
 ## Notes
-v1: “God remembered” does not imply prior forgetfulness. The phrase signals divine attention expressed through saving action.  
-v1: The wind passing over the waters recalls the wind or Spirit moving over the waters in Genesis 1, linking restoration with creation.  
-v2–3: The reversal of the flood begins through the closing of the sources that had overwhelmed creation.  
-v4: The ark comes to rest before the earth is habitable. Rest arrives before full restoration.  
-v7–12: The raven and dove function as signs of changing conditions. The repeated sending creates a patient rhythm of waiting and discernment.  
+v01: “God remembered” does not imply prior forgetfulness. The phrase signals divine attention expressed through saving action.  
+v01: The wind passing over the waters recalls the wind or Spirit moving over the waters in Genesis 1, linking restoration with creation.  
+v02–03: The reversal of the flood begins through the closing of the sources that had overwhelmed creation.  
+v04: The ark comes to rest before the earth is habitable. Rest arrives before full restoration.  
+v07–12: The raven and dove function as signs of changing conditions. The repeated sending creates a patient rhythm of waiting and discernment.  
 v11: The olive leaf becomes evidence that life has begun to emerge again from beneath the waters.  
 v13–14: The narrative carefully marks time, emphasizing that restoration unfolds gradually rather than instantly.  
 v16–17: God’s command echoes the creation mandate. The renewed world is commissioned toward fruitfulness and multiplication.  
@@ -72,21 +72,21 @@ v20: Noah’s first recorded action after leaving the ark is worship.
 v21: The LORD’s resolve not to curse the ground again is made despite humanity’s continuing inclination toward evil.  
 v22: The closing poem affirms the stability of creation’s rhythms under divine preservation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: זָכַר (zākhar)  
+v01: זָכַר (zākhar)  
 “To remember.” Often signifies covenantal attention that leads to action rather than mere recollection.  
 
-v1: רוּחַ (rûaḥ)  
+v01: רוּחַ (rûaḥ)  
 “Wind,” “breath,” or “spirit.” The word connects this scene with the opening movements of creation.  
 
-v3: שׁוּב (shûḇ)  
+v03: שׁוּב (shûḇ)  
 “To return” or “recede.” A common verb describing movement back from a previous state.  
 
-v4: נוּחַ (nûaḥ)  
+v04: נוּחַ (nûaḥ)  
 “To rest.” The ark’s resting anticipates themes associated with Noah’s name.  
 
-v8: יוֹנָה (yônâ)  
+v08: יוֹנָה (yônâ)  
 “Dove.” The bird becomes a sign of the earth’s renewal.  
 
 v11: טָרָף (ṭārāph)  
@@ -113,5 +113,3 @@ v22: זֶרַע וְקָצִיר (zeraʿ wĕqāṣîr)
 v01: זָכַר (zākhar)
 “To remember.” Often can denote covenantal attention that leads to action rather than mere recollection.
 
-v01: רוּחַ (rûaḥ)
-“Wind,” “breath,” or “spirit.” The word connects this scene with the opening movements of creation.

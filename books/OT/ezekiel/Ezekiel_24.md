@@ -162,9 +162,9 @@ and you shall speak and be no longer mute.
 Thus you shall be a sign to them,
 and they shall know that I am the LORD.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v02: וּמְשֹׁ֤ל (mashal)
 “To speak a proverb; parable.” The verb introduces the pot image that follows.

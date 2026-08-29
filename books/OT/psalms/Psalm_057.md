@@ -54,9 +54,9 @@ v10: For your steadfast love is great to the heavens,
 v11: Be exalted, O God, above the heavens;
     let your glory be over all the earth.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: מִכְתָּם (mikhtam)
 “Likely a literary or musical term, specific meaning uncertain.” Used in this inscription and in similar Psalms (16, 58-60) often during times of distress.

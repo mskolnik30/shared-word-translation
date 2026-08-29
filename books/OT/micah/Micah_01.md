@@ -111,46 +111,46 @@ Make your baldness as broad as the eagle,
 for they shall go from you into exile.
 </p>
 ## Notes
-v1: Micah ministered during the reigns of Jotham, Ahaz, and Hezekiah, addressing both Israel and Judah.  
-v2: The prophet summons the entire earth as witness to God's coming judgment.  
-v3–4: The imagery portrays the LORD as a divine king whose appearance causes creation itself to tremble.  
-v5: Samaria and Jerusalem are identified as centers of covenant rebellion rather than sources of faithfulness.  
-v6–7: The prophecy anticipates the destruction of Samaria, fulfilled by the Assyrian conquest.  
-v7: Idolatry is described in terms of spiritual prostitution, a recurring prophetic image.  
-v8–9: Micah personally grieves over the judgment he announces.  
-v9: The corruption that destroyed Israel is now reaching Judah.  
+v01: Micah ministered during the reigns of Jotham, Ahaz, and Hezekiah, addressing both Israel and Judah.  
+v02: The prophet summons the entire earth as witness to God's coming judgment.  
+v03–04: The imagery portrays the LORD as a divine king whose appearance causes creation itself to tremble.  
+v05: Samaria and Jerusalem are identified as centers of covenant rebellion rather than sources of faithfulness.  
+v06–07: The prophecy anticipates the destruction of Samaria, fulfilled by the Assyrian conquest.  
+v07: Idolatry is described in terms of spiritual prostitution, a recurring prophetic image.  
+v08–09: Micah personally grieves over the judgment he announces.  
+v09: The corruption that destroyed Israel is now reaching Judah.  
 v10–15: A series of wordplays on town names emphasizes the spread of coming judgment through Judah.  
 v13: Lachish is singled out as a conduit through which Israel's sins influenced Judah.  
 v15: Adullam, once a refuge for David, becomes an image of retreat and humiliation.  
 v16: Shaving the head symbolizes deep mourning over exile and loss.  
 
-##Vocabulary
+## Vocabulary
 
-v1: חָזוֹן (ḥāzôn)  
+v01: חָזוֹן (ḥāzôn)  
 “Vision.” A prophetic revelation received from God.  
 
-v2: שָׁמַע (šāmaʿ)  
+v02: שָׁמַע (šāmaʿ)  
 “To hear.” To listen attentively and respond appropriately.  
 
-v3: יָרַד (yāraḏ)  
+v03: יָרַד (yāraḏ)  
 “To come down.” Often used of God's intervention in human affairs.  
 
-v4: מָסַס (māsas)  
+v04: מָסַס (māsas)  
 “To melt.” To dissolve or collapse under overwhelming force.  
 
-v5: פֶּשַׁע (pešaʿ)  
+v05: פֶּשַׁע (pešaʿ)  
 “Transgression.” Rebellion against covenant authority.  
 
-v6: עִי (ʿî)  
+v06: עִי (ʿî)  
 “Heap of ruins.” A destroyed city reduced to rubble.  
 
-v7: פֶּסֶל (peseḷ)  
+v07: פֶּסֶל (peseḷ)  
 “Carved image.” An idol fashioned for worship.  
 
-v8: מִסְפֵּד (mispēḏ)  
+v08: מִסְפֵּד (mispēḏ)  
 “Lamentation.” A public expression of mourning.  
 
-v9: מַכָּה (makkâ)  
+v09: מַכָּה (makkâ)  
 “Wound.” An affliction, blow, or injury.  
 
 v13: חַטָּאת (ḥaṭṭāʾṯ)
@@ -162,11 +162,3 @@ v15: יוֹרֵשׁ (yôrēš)
 v16: גָּלָה (gālāh)  
 “To go into exile.” To be removed from one's land and carried away.  
 
-v01: חָזוֹן (ḥāzôn)
-“Vision.” A prophetic revelation received from God.
-
-v02: שָׁמַע (šāmaʿ)
-“To hear.” To listen attentively and respond appropriately.
-
-v05: פֶּשַׁע (pešaʿ)
-“Transgression.” Rebellion against covenant authority.

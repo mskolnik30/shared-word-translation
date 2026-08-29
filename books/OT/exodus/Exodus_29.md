@@ -150,7 +150,7 @@ v37: “whatever touches the altar shall become holy” expresses the altar’s 
 v38–42: The daily lambs establish a continual rhythm of worship morning and evening, independent of special festivals.
 v46: The exodus reaches its theological purpose in divine dwelling: Israel is brought out of Egypt so that the LORD may dwell in their midst.
 
-##Vocabulary
+## Vocabulary
 
 v01: קָדַשׁ (qadash)
 “To consecrate.” To set apart for sacred service.

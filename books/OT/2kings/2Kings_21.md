@@ -90,7 +90,7 @@ v16: Innocent blood is added to idolatry as a decisive charge against Manasseh�
 v18: 2 Chronicles 33 also narrates Manasseh’s captivity, repentance, and reforms. Kings does not include that material and maintains focus on the lasting consequences of his reign.
 v23–24: Palace conspiracy kills Amon, but the “people of the land” kill the conspirators and preserve dynastic continuity through Josiah.
 
-##Vocabulary
+## Vocabulary
 
 v02: תּוֹעֵבָה (toevah)
 “Detestable practice.” Worship condemned by the LORD.

@@ -67,14 +67,14 @@ v17: Therefore he had to be made like his brothers in every respect, so that he 
 v18: For because he himself has suffered when tempted, he is able to help those who are being tempted.
 </p>
 ## Notes
-v1: Attention is framed as preventative; drifting is gradual.  
-v2: Past reliability establishes present accountability.  
-v3: Neglect, not rejection, is the concern.  
-v4: Witness is multi-layered: human and divine.  
-v5: The world to come is distinguished from the present.  
-v6–8: Citation is introduced without precise source.  
-v8: Fulfillment is partial; tension remains.  
-v9: Identification with humanity is temporary but purposeful.  
+v01: Attention is framed as preventative; drifting is gradual.  
+v02: Past reliability establishes present accountability.  
+v03: Neglect, not rejection, is the concern.  
+v04: Witness is multi-layered: human and divine.  
+v05: The world to come is distinguished from the present.  
+v06–08: Citation is introduced without precise source.  
+v08: Fulfillment is partial; tension remains.  
+v09: Identification with humanity is temporary but purposeful.  
 v10: Suffering is presented as fitting, not accidental.  
 v11: Unity is asserted without explanation of mechanism.  
 v12–13: Relationship is expressed through shared identity.  
@@ -83,35 +83,35 @@ v16: Scope is specified; assistance is selective.
 v17: Likeness enables role; role defines function.  
 v18: Experience grounds capacity to help.  
 
-##Vocabulary
+## Vocabulary
 
-v1: προσέχω (prosechō)  
+v01: προσέχω (prosechō)  
 
-v1: “To pay attention.” To hold toward.  
+v01: “To pay attention.” To hold toward.  
 
-v1: παραρρέω (pararreō)  
+v01: παραρρέω (pararreō)  
 
-v1: “To drift away.” To slip past.  
+v01: “To drift away.” To slip past.  
 
-v2: παράβασις (parabasis)  
+v02: παράβασις (parabasis)  
 
-v2: “Transgression.” Crossing a boundary.  
+v02: “Transgression.” Crossing a boundary.  
 
-v3: ἀμελέω (ameleō)  
+v03: ἀμελέω (ameleō)  
 
-v3: “To neglect.” To disregard.  
+v03: “To neglect.” To disregard.  
 
-v4: σημεῖον (sēmeion)  
+v04: σημεῖον (sēmeion)  
 
-v4: “Sign.” Indicator of meaning.  
+v04: “Sign.” Indicator of meaning.  
 
-v5: οἰκουμένη (oikoumenē)  
+v05: οἰκουμένη (oikoumenē)  
 
-v5: “World.” Inhabited order.  
+v05: “World.” Inhabited order.  
 
-v9: γεύομαι (geuomai)  
+v09: γεύομαι (geuomai)  
 
-v9: “To taste.” To experience.  
+v09: “To taste.” To experience.  
 
 v10: ἀρχηγός (archēgos)  
 

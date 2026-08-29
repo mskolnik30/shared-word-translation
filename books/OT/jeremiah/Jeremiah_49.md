@@ -269,7 +269,7 @@ v28: Kedar and Hazor here refer to Arabian peoples and settlements rather than t
 v31: The target is portrayed as a community without fortified gates, living in apparent security and isolation.
 v34–39: Elam lay east of Babylon. The oracle begins with scattering to every direction but ends with restoration “in the latter days.”
 
-##Vocabulary
+## Vocabulary
 
 v01: מַלְכָּם (Malkam)
 “Milcom” or “their king.” The consonants permit wordplay between the Ammonite deity and “their king.”

@@ -80,7 +80,7 @@ v15: “for me to inquire by” is difficult. The bronze altar may be reserved f
 v17: Ahaz dismantles or relocates Solomon-era bronze furnishings, altering both their form and symbolic setting.
 v18: The exact identity of the Sabbath structure and royal entrance is uncertain. The changes are explicitly made “because of the king of Assyria,” showing imperial influence reaching temple architecture.
 
-##Vocabulary
+## Vocabulary
 
 v03: עָבַר בָּאֵשׁ (avar ba-esh)
 “To pass through the fire.” A prohibited child-sacrifice/fire rite.

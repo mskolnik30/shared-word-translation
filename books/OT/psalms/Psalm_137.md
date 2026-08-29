@@ -48,7 +48,7 @@ and dashes them against the rock.
 v05: The Hebrew ends the line with “let my right hand forget,” without supplying what the hand forgets. The translation preserves the ellipsis rather than adding “its skill.”
 v08–09: The psalm ends with retaliatory blessing language born from the violence of exile. The translation does not soften the image or turn it into a moral lesson; the horror of the petition remains part of the prayer as received.
 
-##Vocabulary
+## Vocabulary
 
 v08: בַּת־בָּבֶל (bat-Bavel)
 “Daughter Babylon,” a poetic personification of the imperial city and its people.

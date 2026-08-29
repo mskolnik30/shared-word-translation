@@ -114,7 +114,7 @@ v11: The Hebrew opening may be read as a question or assertion concerning Gilead
 v12–13: Jacob’s dependence while serving for a wife is placed beside Israel’s dependence upon prophetic leadership in the exodus.
 v14: Bloodguilt is not removed by wealth or cult. The consequences remain upon Ephraim.
 
-##Vocabulary
+## Vocabulary
 
 v01: רוּחַ (ruach)
 “Wind,” “spirit,” or “breath.” Here something empty that Ephraim tries to consume.

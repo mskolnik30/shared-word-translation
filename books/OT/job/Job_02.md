@@ -40,7 +40,7 @@ v09: Job’s wife voices the response the accuser predicted. Her speech is brief
 v10: Job distinguishes receiving “good” from receiving *ra*, a term that can mean evil, harm, or calamity. Here “trouble” avoids implying that God gives moral evil.
 v13: The friends’ finest act may be their silence. Seven days and nights resemble a formal mourning period and acknowledge the magnitude of Job’s suffering before argument begins.
 
-##Vocabulary
+## Vocabulary
 
 v03: תֻּמָּה (tummah)
 “Integrity” or “wholeness.” Job continues to hold fast to his moral integrity.

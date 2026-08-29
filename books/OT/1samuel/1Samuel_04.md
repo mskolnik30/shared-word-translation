@@ -81,7 +81,7 @@ v18: Eli’s death occurs specifically when he hears that the ark has been captu
 v21: “Ichabod” is traditionally associated with “no glory” or “where is the glory?” The mother interprets the name through the departure of glory.
 v21–22: The Hebrew verb translated “gone into exile” can also mean “departed.” TSW retains the exile sense because the ark itself has been carried away.
 
-##Vocabulary
+## Vocabulary
 
 v03: אָרוֹן הַבְּרִית (aron ha-berit)
 “Ark of the covenant.”

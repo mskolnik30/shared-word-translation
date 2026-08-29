@@ -91,9 +91,9 @@ v29: Take my yoke upon you, and learn from me, for I am gentle and lowly in hear
 v30: For my yoke is easy, and my burden is light.”
 </p>
 ## Notes
-v2–3: John’s question arises not from ignorance alone but from dissonance between expectation and unfolding reality.  
-v5: Jesus answers with signs rather than assertion; recognition is mediated through fulfillment patterns.  
-v6: “Not offended” frames response as relational alignment rather than intellectual agreement.  
+v02–03: John’s question arises not from ignorance alone but from dissonance between expectation and unfolding reality.  
+v05: Jesus answers with signs rather than assertion; recognition is mediated through fulfillment patterns.  
+v06: “Not offended” frames response as relational alignment rather than intellectual agreement.  
 v11: Greatness is relativized; kingdom belonging reorders comparative status.  
 v12: The statement about violence remains compressed and ambiguous; access to the kingdom is contested.  
 v13–14: John is positioned as both culmination and transition; prophetic expectation converges in him.  
@@ -105,13 +105,13 @@ v25–26: Revelation is depicted as selective yet purposeful; hiddenness and dis
 v27: Knowledge is relational and mediated; access to the Father is not generalized.  
 v28–30: Rest is offered not as escape but as reorientation under a different yoke.  
 
-##Vocabulary
+## Vocabulary
 
-v3: ὁ ἐρχόμενος (*ho erchomenos*) — “The one who is coming.” Messianic expectation in participial form.  
+v03: ὁ ἐρχόμενος (*ho erchomenos*) — “The one who is coming.” Messianic expectation in participial form.  
 
-v5: εὐαγγελίζω (*euangelizō*) — “To proclaim good news.” Active announcement, not mere report.  
+v05: εὐαγγελίζω (*euangelizō*) — “To proclaim good news.” Active announcement, not mere report.  
 
-v6: σκανδαλίζω (*skandalizō*) — “To cause offense,” “to stumble.” Obstruction to trust or allegiance.  
+v06: σκανδαλίζω (*skandalizō*) — “To cause offense,” “to stumble.” Obstruction to trust or allegiance.  
 
 v11: βασιλεία τῶν οὐρανῶν (basileia tōn ouranōn)
 “Kingdom of heaven.” Realm defined by divine rule.

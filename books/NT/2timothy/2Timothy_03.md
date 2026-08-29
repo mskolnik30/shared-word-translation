@@ -61,10 +61,10 @@ v16: All Scripture is God-breathed and profitable for teaching, for reproof, for
 v17: so that the person of God may be complete, equipped for every good work.
 </p>
 ## Notes
-v1–5: The list describes disordered love. Orientation toward self and pleasure displaces devotion to God.  
-v5: “Appearance of godliness” indicates external conformity without internal power.  
-v6–7: Vulnerability is exploited through deception. Learning without transformation is emphasized.  
-v8–9: Opposition to truth is framed historically. Exposure is eventual.  
+v01–05: The list describes disordered love. Orientation toward self and pleasure displaces devotion to God.  
+v05: “Appearance of godliness” indicates external conformity without internal power.  
+v06–07: Vulnerability is exploited through deception. Learning without transformation is emphasized.  
+v08–09: Opposition to truth is framed historically. Exposure is eventual.  
 v10–11: Timothy is contrasted with others through imitation of Paul’s life and teaching.  
 v12: Persecution is presented as normative for godly living.  
 v13: Deception is reciprocal—those who deceive are also deceived.  
@@ -72,31 +72,31 @@ v14–15: Continuity in learning is grounded in trusted relationships and early 
 v15: Scripture is linked with wisdom leading to salvation, not knowledge alone.  
 v16–17: Scripture is described functionally. Its purpose is formation and equipping.  
 
-##Vocabulary
+## Vocabulary
 
-v1: χαλεπός (chalepos)  
+v01: χαλεπός (chalepos)  
 
-v1: “Difficult.” Hard or dangerous.  
+v01: “Difficult.” Hard or dangerous.  
 
-v2: φίλαυτος (philautos)  
+v02: φίλαυτος (philautos)  
 
-v2: “Lover of self.” Self-centered.  
+v02: “Lover of self.” Self-centered.  
 
-v3: ἄστοργος (astorgos)  
+v03: ἄστοργος (astorgos)  
 
-v3: “Without natural affection.” Lacking familial love.  
+v03: “Without natural affection.” Lacking familial love.  
 
-v5: μόρφωσις (morphōsis)  
+v05: μόρφωσις (morphōsis)  
 
-v5: “Appearance.” Form without substance.  
+v05: “Appearance.” Form without substance.  
 
-v7: ἐπίγνωσις (epignōsis)  
+v07: ἐπίγνωσις (epignōsis)  
 
-v7: “Full knowledge.” Deep understanding.  
+v07: “Full knowledge.” Deep understanding.  
 
-v8: ἀδόκιμος (adokimos)  
+v08: ἀδόκιμος (adokimos)  
 
-v8: “Disqualified.” Failing the test.  
+v08: “Disqualified.” Failing the test.  
 
 v12: διώκω (diōkō)  
 

@@ -106,7 +106,7 @@ v17: The cedar-like tail is part of the poetic magnification of Behemoth’s pow
 v19: “first of the ways of God” portrays Behemoth as a chief or extraordinary work of creation, yet still a creature whose Maker remains sovereign over it.
 v24: Standard English numbering ends Job 40 here. In the Masoretic Text, the material corresponding to English Job 41:1–8 continues as Job 40:25–32.
 
-##Vocabulary
+## Vocabulary
 
 v02: יִסּוֹר (yissor)
 “To correct” or “reprove.” The question asks whether Job will correct the Almighty.

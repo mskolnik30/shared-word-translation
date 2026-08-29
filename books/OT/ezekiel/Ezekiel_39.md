@@ -58,18 +58,18 @@ v28: Then they will know that I am the LORD their God, when I sent them into exi
 v29: I will no longer hide my face from them, because I have poured out my spirit on the house of Israel, declares the LORD GOD.
 </p>
 ## Notes
-v1: “Chief prince” translates a phrase that can be read either as a title for Gog or as “prince of Rosh, Meshech, and Tubal.” The latter depends on taking *rosh* as a place-name; here it is rendered in its more ordinary sense, “chief.”  
+v01: “Chief prince” translates a phrase that can be read either as a title for Gog or as “prince of Rosh, Meshech, and Tubal.” The latter depends on taking *rosh* as a place-name; here it is rendered in its more ordinary sense, “chief.”  
 v11: The name “Hamon-gog” means “multitude of Gog.” The burial place both memorializes the defeated army and removes its defiling presence from the land.  
 v14–16: The repeated concern to “cleanse the land” gives the burial imagery ritual weight. The defeat of Gog is not only military; the land is restored from contamination.  
 v17–20: The scene reverses sacrificial imagery: God prepares the defeated army as a sacrifice for scavenging birds and wild animals. The language is deliberately graphic, presenting divine judgment in terms familiar from warfare and sacrifice.  
 v23–24: Israel’s exile is not left unexplained. The nations are to know that it came through Israel’s iniquity and faithlessness, while God’s hiding of the divine face names the rupture in their relationship.  
 v25–29: Restoration does not erase the account of judgment. God restores Jacob, gathers the people, and pours out the divine spirit, while acting for the sake of the holy name.  
 
-##Vocabulary
+## Vocabulary
 
-v1: גּוֹג (*gog*) — Gog is the symbolic enemy addressed throughout this oracle. The name gathers the hostile forces that come against Israel into a single figure.  
+v01: גּוֹג (*gog*) — Gog is the symbolic enemy addressed throughout this oracle. The name gathers the hostile forces that come against Israel into a single figure.  
 
-v7: קֹדֶשׁ (*qodesh*) — “Holiness” here concerns God’s holy name: God’s distinct and weighty identity made known among Israel and the nations.  
+v07: קֹדֶשׁ (*qodesh*) — “Holiness” here concerns God’s holy name: God’s distinct and weighty identity made known among Israel and the nations.  
 
 v11: הָמוֹן (*hamon*) — “Multitude” or “horde.” In “Hamon-gog,” it marks the overwhelming mass of Gog’s army, now reduced to a burial site.  
 

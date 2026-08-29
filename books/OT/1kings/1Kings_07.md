@@ -115,7 +115,7 @@ v50: the basins, wick trimmers, bowls, ladles, and firepans of pure gold; and th
 v51: Thus all the work that King Solomon did for the house of the LORD was completed. Solomon brought in the holy gifts of David his father—the silver, the gold, and the vessels—and put them in the treasuries of the house of the LORD.
 </p>
 ## Notes
-v1: **7:1** Solomon’s own house takes thirteen years, while the temple took seven years (6:38). The narrative gives the facts without explaining or judging the difference.  
+v01: **7:1** Solomon’s own house takes thirteen years, while the temple took seven years (6:38). The narrative gives the facts without explaining or judging the difference.  
 v14: **7:14** Hiram’s mixed Israelite and Tyrian parentage is named alongside his extraordinary skill. His wisdom, understanding, and knowledge echo the language used for divinely enabled craftsmanship elsewhere in Israel’s worshiping life.  
 v21: **7:21** The meaning of the pillar names *Jachin* and *Boaz* is not explained in the passage. Their placement at the temple entrance gives them a public and symbolic prominence.  
 v23–26: **7:23–26** The immense basin is called “the Sea.” Its name and scale evoke the waters of creation, while its setting in the temple places this imagery within Israel’s worship of the LORD.  
@@ -124,27 +124,27 @@ v27–37: Several technical terms for the stands and their ornamentation occur r
 v48: **7:48** “Bread of the Presence” translates literally “bread of the face,” that is, bread set before the LORD.  
 v51: **7:51** The chapter closes not merely with completed construction but with David’s dedicated gifts being brought into the LORD’s treasuries. The temple’s furnishings are joined to the earlier king’s offerings.  
 
-##Vocabulary
+## Vocabulary
 
-v7: 14 — חָכְמָה (*ḥokmâ*)  
+v07: 14 — חָכְמָה (*ḥokmâ*)  
 “wisdom.” Here it is practical, skilled discernment for bronze work, not only intellectual insight.  
 
-v7: 14 — תְּבוּנָה (*tevûnâ*)  
+v07: 14 — תְּבוּנָה (*tevûnâ*)  
 “understanding.” Together with wisdom and knowledge, it describes Hiram’s full capacity to carry out complex sacred craftsmanship.  
 
-v7: 21 — יָכִין (*Yāḵîn*)  
+v07: 21 — יָכִין (*Yāḵîn*)  
 “Jachin.” The name is related to the verb “to establish,” though the text itself does not interpret it.  
 
-v7: 21 — בֹּעַז (*Boʿaz*)  
+v07: 21 — בֹּעַז (*Boʿaz*)  
 “Boaz.” The name of the other entrance pillar; its precise meaning is uncertain.  
 
-v7: 23 — יָם (*yām*)  
+v07: 23 — יָם (*yām*)  
 “Sea.” The term names the enormous bronze basin and carries the imagery of the sea into the temple’s ordered worship.  
 
-v7: 48 — לֶחֶם הַפָּנִים (*leḥem happānîm*)  
+v07: 48 — לֶחֶם הַפָּנִים (*leḥem happānîm*)  
 “bread of the Presence.” Literally, “bread of the face,” bread placed before the LORD.  
 
-v7: 50 — קֹדֶשׁ הַקֳּדָשִׁים (*qōdeš haqqodāšîm*)  
+v07: 50 — קֹדֶשׁ הַקֳּדָשִׁים (*qōdeš haqqodāšîm*)  
 “most holy place.” The doubled expression marks the inner sanctuary as the highest degree of holiness.  
 
 v14–50: <!-- Approved lexical decisions: none supplied. -->  

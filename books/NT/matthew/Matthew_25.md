@@ -109,8 +109,8 @@ v45: Then he will answer them, saying, ‘Truly, I say to you, as you did not do
 v46: And these will go away into eternal punishment, but the righteous into eternal life.”
 </p>
 ## Notes
-v1: Eschatological delay reframes readiness as sustained preparedness.  
-v3–4: Oil functions as non-transferable readiness resource.  
+v01: Eschatological delay reframes readiness as sustained preparedness.  
+v03–04: Oil functions as non-transferable readiness resource.  
 v10: Entry determined by readiness at moment of arrival.  
 v12: Recognition language tied to relational knowledge, not proximity.  
 v13: Watchfulness grounded in epistemic limitation.  
@@ -129,13 +129,13 @@ v40: Identification of the king with “the least” is decisive.
 v41: Parallel structure of blessing and curse.  
 v46: Binary outcome—eternal punishment vs eternal life.  
 
-##Vocabulary
+## Vocabulary
 
-v8: λαμπάδες (*lampades*) — “Lamps.” Torches used in procession.  
+v08: λαμπάδες (*lampades*) — “Lamps.” Torches used in procession.  
 
-v2: μωραί (*mōrai*) — “Foolish.” Lacking foresight.  
+v02: μωραί (*mōrai*) — “Foolish.” Lacking foresight.  
 
-v2: φρόνιμοι (*phronimoi*) — “Wise.” Practically discerning.  
+v02: φρόνιμοι (*phronimoi*) — “Wise.” Practically discerning.  
 
 v10: ἕτοιμοι (hetoimoi)
 “Ready.” Prepared in advance.

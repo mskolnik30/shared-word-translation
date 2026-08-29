@@ -82,7 +82,7 @@ v13: The household idol (*teraphim*) is large enough here to simulate a person i
 v20–21: Three groups sent to arrest David are overtaken by prophetic activity instead, turning coercive royal power into involuntary participation in prophecy.
 v24: “Naked” can mean stripped of outer garments rather than completely unclothed. The scene humiliates Saul and repeats the proverb from 10:12 in a darker context.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָפֵץ (chafets)
 “To delight in.” Jonathan delights greatly in David.

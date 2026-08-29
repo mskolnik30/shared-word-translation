@@ -54,21 +54,21 @@ v24: He shall provide a grain offering of an ephah for each bull and an ephah fo
 v25: In the seventh month, on the fifteenth day of the month, at the festival, he shall provide the same for the seven days: the same sin offering, burnt offering, grain offering, and oil.
 </p>
 ## Notes
-v1: The “offering” is a portion of land set apart for the LORD. The language presents land itself as capable of being made holy through its dedication to God.  
-v7–9: The prince receives an assigned holding, but this provision is explicitly tied to the end of royal oppression. Political authority is given real space and responsibility, yet it is bounded so that the people’s inherited land is protected.  
+v01: The “offering” is a portion of land set apart for the LORD. The language presents land itself as capable of being made holy through its dedication to God.  
+v07–09: The prince receives an assigned holding, but this provision is explicitly tied to the end of royal oppression. Political authority is given real space and responsibility, yet it is bounded so that the people’s inherited land is protected.  
 v10–12: Just weights and measures belong within the same vision as sanctuary worship and land distribution. Economic integrity is not treated as separate from holiness and justice.  
 v17: - v15, 17: The prince’s role includes supplying the offerings on behalf of the people. The text places public leadership under responsibility for the community’s worship and atonement, rather than permitting leadership to exploit the community.  
 v20: “Anyone who strays or acts unknowingly” may refer to unintentional or inadvertent wrongdoing, though the terms are broad enough to include those led astray through ignorance or simplicity. The rite extends the sanctuary’s purification to the effects of such sin among the people.  
 
-##Vocabulary
+## Vocabulary
 
-v1: **תְּרוּמָה — *terumah***: An offering set apart or raised up for God. Here it is not a movable gift but a sacred portion of the land, establishing holiness at the center of Israel’s restored life.  
+v01: **תְּרוּמָה — *terumah***: An offering set apart or raised up for God. Here it is not a movable gift but a sacred portion of the land, establishing holiness at the center of Israel’s restored life.  
 
-v3: **קֹדֶשׁ קָדָשִׁים — *qodesh qodashim***: “Most holy place.” The repeated form intensifies holiness and identifies the sanctuary as the concentrated center of the sacred land.  
+v03: **קֹדֶשׁ קָדָשִׁים — *qodesh qodashim***: “Most holy place.” The repeated form intensifies holiness and identifies the sanctuary as the concentrated center of the sacred land.  
 
-v8: **יָנָה — *yanah***: To oppress, exploit, or mistreat. The prince’s allotted land is intended to prevent rulers from taking property and power at the expense of God’s people.  
+v08: **יָנָה — *yanah***: To oppress, exploit, or mistreat. The prince’s allotted land is intended to prevent rulers from taking property and power at the expense of God’s people.  
 
-v9: **מִשְׁפָּט וּצְדָקָה — *mishpat utsedaqah***: “Justice and righteousness.” Together these terms call for right judgment and faithful, equitable action in Israel’s public life.  
+v09: **מִשְׁפָּט וּצְדָקָה — *mishpat utsedaqah***: “Justice and righteousness.” Together these terms call for right judgment and faithful, equitable action in Israel’s public life.  
 
 v17: כִּפֶּר (kipper)
 “To make atonement or effect purification.” In this passage, the offerings address the community’s standing before God and the holiness of the sanctuary among them.

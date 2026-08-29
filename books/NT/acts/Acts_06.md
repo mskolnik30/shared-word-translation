@@ -57,57 +57,57 @@ v14: for we have heard him saying that this Jesus the Nazarene will destroy this
 v15: And all those sitting in the council, looking intently at him, saw his face like the face of an angel.
 </p>
 ## Notes
-v1: Internal tension arises from cultural-linguistic divisions within the community.  
-v2–4: Apostolic priorities distinguish between word ministry and logistical service.  
-v3: Qualification emphasizes character and Spirit-empowerment, not merely skill.  
-v5–6: Communal selection and apostolic commissioning function together.  
-v7: Structural adjustment results in continued growth.  
-v8: Stephen’s ministry combines proclamation and signs.  
-v9–10: Opposition fails at the level of argument.  
+v01: Internal tension arises from cultural-linguistic divisions within the community.  
+v02–04: Apostolic priorities distinguish between word ministry and logistical service.  
+v03: Qualification emphasizes character and Spirit-empowerment, not merely skill.  
+v05–06: Communal selection and apostolic commissioning function together.  
+v07: Structural adjustment results in continued growth.  
+v08: Stephen’s ministry combines proclamation and signs.  
+v09–10: Opposition fails at the level of argument.  
 v11–14: Accusation escalates through false testimony and distortion.  
 v15: Stephen’s appearance signals divine presence and vindication.  
 
-##Vocabulary
+## Vocabulary
 
-v1: γογγυσμός (gongysmos)  
+v01: γογγυσμός (gongysmos)  
 
-v1: “Complaint, murmuring.”  
+v01: “Complaint, murmuring.”  
 
-v1: Ἑλληνιστής (Hellēnistēs)  
+v01: Ἑλληνιστής (Hellēnistēs)  
 
-v1: “Hellenist.”  
+v01: “Hellenist.”  
 
-v2: διακονέω (diakoneō)  
+v02: διακονέω (diakoneō)  
 
-v2: “To serve.”  
+v02: “To serve.”  
 
-v3: μαρτυρούμενος (martyroumenos)  
+v03: μαρτυρούμενος (martyroumenos)  
 
-v3: “Of good reputation.”  
+v03: “Of good reputation.”  
 
-v4: διακονία (diakonia)  
+v04: διακονία (diakonia)  
 
-v4: “Ministry.”  
+v04: “Ministry.”  
 
-v5: πίστις (pistis)  
+v05: πίστις (pistis)  
 
-v5: “Faith.”  
+v05: “Faith.”  
 
-v6: ἐπιτίθημι χεῖρας  
+v06: ἐπιτίθημι χεῖρας  
 
-v6: “To lay hands.”  
+v06: “To lay hands.”  
 
-v7: πληθύνω (plēthynō)  
+v07: πληθύνω (plēthynō)  
 
-v7: “To multiply.”  
+v07: “To multiply.”  
 
-v8: χάρις (charis)  
+v08: χάρις (charis)  
 
-v8: “Grace.”  
+v08: “Grace.”  
 
-v9: συναγωγή (synagōgē)  
+v09: συναγωγή (synagōgē)  
 
-v9: “Synagogue.”  
+v09: “Synagogue.”  
 
 v10: σοφία (sophia)  
 

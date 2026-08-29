@@ -82,7 +82,7 @@ v20–21: Participation in the shared sacrificial meal requires ritual cleanness
 v30: “elevated” — The traditional term “wave offering” represents a ritual movement whose exact form is not fully described by the Hebrew verb.
 v35–36: Priestly portions are presented as part of the LORD’s provision for those set apart for sanctuary service.
 
-##Vocabulary
+## Vocabulary
 
 v12: תּוֹדָה (todah)
 “Thanksgiving.” A sacrifice offered in grateful acknowledgment.

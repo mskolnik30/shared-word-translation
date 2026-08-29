@@ -171,7 +171,7 @@ v25: The Hebrew verb describes anxiety or care pressing the heart downward. A go
 v26: The Hebrew text of the first line is difficult and permits multiple readings. TSW follows the sense of the righteous carefully guiding or discerning the way for a neighbor.
 v27: The precise image is debated, but the proverb clearly contrasts laziness that fails to make use of what is obtained with diligence that values and completes its work.
 
-##Vocabulary
+## Vocabulary
 
 v01: מוּסָר (musar)
 “Discipline,” “instruction,” or “correction.” Formation that includes receiving correction.

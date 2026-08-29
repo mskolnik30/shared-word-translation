@@ -165,14 +165,14 @@ for I have chosen you,’
 declares the LORD of Hosts.”
 </p>
 ## Notes
-v1–3: Some of the older generation remembered Solomon's temple and were discouraged by the modest appearance of the new structure.  
-v4–5: God's answer to discouragement is not architectural grandeur but his abiding presence.  
-v5: The covenant established at the exodus remains the foundation of God's relationship with his people.  
-v6–7: The shaking of heaven, earth, and nations points beyond the immediate restoration to God's larger redemptive purposes.  
-v7: The arrival of the nations' treasures emphasizes God's sovereignty over all peoples and resources.  
-v8: God reminds the people that all wealth ultimately belongs to him.  
-v9: The future glory of the temple will surpass its former glory because of God's presence and purpose.  
-v9: Peace here reflects the broader concept of shalom—wholeness, blessing, and reconciliation.  
+v01–03: Some of the older generation remembered Solomon's temple and were discouraged by the modest appearance of the new structure.  
+v04–05: God's answer to discouragement is not architectural grandeur but his abiding presence.  
+v05: The covenant established at the exodus remains the foundation of God's relationship with his people.  
+v06–07: The shaking of heaven, earth, and nations points beyond the immediate restoration to God's larger redemptive purposes.  
+v07: The arrival of the nations' treasures emphasizes God's sovereignty over all peoples and resources.  
+v08: God reminds the people that all wealth ultimately belongs to him.  
+v09: The future glory of the temple will surpass its former glory because of God's presence and purpose.  
+v09: Peace here reflects the broader concept of shalom—wholeness, blessing, and reconciliation.  
 v11–14: The priests confirm that uncleanness spreads more readily than holiness, illustrating Israel's spiritual condition.  
 v14: Ritual activity cannot compensate for covenant unfaithfulness.  
 v15–19: The people are called to compare their former hardship with the blessing that follows renewed obedience.  
@@ -181,29 +181,29 @@ v21–22: The overthrow of kingdoms demonstrates God's rule over world powers.
 v23: The signet ring symbolizes royal authority, legitimacy, and divine favor.  
 v23: Zerubbabel becomes a representative of God's continuing covenant purposes for the line of David.  
 
-##Vocabulary
+## Vocabulary
 
-v3: כָּבוֹד (kāḇôḏ)  
+v03: כָּבוֹד (kāḇôḏ)  
 “Glory.” Honor, splendor, and manifested significance.  
 
-v4: חָזַק (ḥāzaq)  
+v04: חָזַק (ḥāzaq)  
 “Be strong.” To stand firm with courage and resolve.  
 
-v5: בְּרִית (bĕrîṯ)  
+v05: בְּרִית (bĕrîṯ)  
 “Covenant.” A binding relationship established by divine commitment.  
 
-v5: רוּחַ (rûaḥ)  
+v05: רוּחַ (rûaḥ)  
 “Spirit.” God's active and abiding presence among his people.  
 
-v6: רָעַשׁ (rāʿaš)  
+v06: רָעַשׁ (rāʿaš)  
 “To shake.” To cause trembling, upheaval, or disruption.  
 
-v7: חֶמְדַּת (ḥemdaṯ)  
+v07: חֶמְדַּת (ḥemdaṯ)  
 “Treasure” or “desirable things.” Valued wealth brought from the nations.  
 
-v9: שָׁלוֹם (šālôm)  
+v09: שָׁלוֹם (šālôm)  
 
-v9: “Peace.” Wholeness, well-being, and covenant blessing.  
+v09: “Peace.” Wholeness, well-being, and covenant blessing.  
 
 v12: קֹדֶשׁ (qōḏeš)
 “Holy.” Set apart for God and his purposes.
@@ -223,11 +223,3 @@ v23: חוֹתָם (ḥôṯām)
 v23: בָּחַר (bāḥar)  
 “To choose.” To select according to divine purpose and favor.  
 
-v03: כָּבוֹד (kāḇôḏ)
-“Glory.” Honor, splendor, and manifested significance.
-
-v05: בְּרִית (bĕrîṯ)
-“Covenant.” A binding relationship established by divine commitment.
-
-v05: רוּחַ (rûaḥ)
-“Spirit.” God's active and abiding presence among his people.

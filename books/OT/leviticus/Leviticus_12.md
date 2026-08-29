@@ -28,7 +28,7 @@ v03: Circumcision on the eighth day is stated within the purification instructio
 v05: The longer period after the birth of a daughter is preserved without supplying a rationale that the text itself does not give.
 v08: The reduced offering makes the purification rite accessible to a household unable to afford a lamb.
 
-##Vocabulary
+## Vocabulary
 
 v02: טָמֵא (tame)
 “Unclean.” A ritual state requiring a period of separation and purification.

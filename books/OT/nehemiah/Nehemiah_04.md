@@ -65,7 +65,7 @@ v14: “Remember the Lord” precedes the call to defend families and homes; cou
 v17: The description compresses work and defense into a single image: construction continues while danger remains present.
 v23: The final Hebrew phrase is difficult and textually compressed. TSW preserves the association of weapon and water without claiming a more precise reconstruction than the text securely allows.
 
-##Vocabulary
+## Vocabulary
 
 v01: לָעַג (la'ag)
 “To mock” or “deride.” Speech intended to belittle and discourage.

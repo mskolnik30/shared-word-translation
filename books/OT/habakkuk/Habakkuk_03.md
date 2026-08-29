@@ -197,7 +197,7 @@ v16: Habakkuk’s body responds to revelation with trembling, quivering, and dec
 v17–18: The confession of joy is made after a total agricultural collapse is imagined—fig, vine, olive, field, flock, and herd. Rejoicing is not dependent upon visible abundance.
 v19: “The LORD, my Lord” preserves both divine designations in the Hebrew. The closing musical instruction belongs to the received text of the verse and is retained within the chapter rather than treated as a later editorial heading.
 
-##Vocabulary
+## Vocabulary
 
 v01: שִׁגְיֹנוֹת (Shigyonot)
 “Shigionoth.” A rare musical or poetic designation of uncertain meaning.

@@ -65,14 +65,14 @@ v17: I, Paul, write this greeting with my own hand, which is the mark in every l
 v18: The grace of our Lord Jesus Christ be with you all.
 </p>
 ## Notes
-v1: The word is personified (“may run and be glorified”), emphasizing its active spread.  
-v2: Deliverance is requested not from suffering generally but from specific opposition.  
-v3: Divine faithfulness grounds confidence more than human consistency.  
-v4: Obedience is assumed and expected. Confidence is relational and theological.  
-v5: Direction of the heart is central. Love and steadfastness are not self-generated.  
-v6: “Keep away” introduces boundary-setting within the community.  
-v7–8: Paul’s example is practical—manual labor and refusal to burden others.  
-v9: Authority is acknowledged but voluntarily limited for the sake of example.  
+v01: The word is personified (“may run and be glorified”), emphasizing its active spread.  
+v02: Deliverance is requested not from suffering generally but from specific opposition.  
+v03: Divine faithfulness grounds confidence more than human consistency.  
+v04: Obedience is assumed and expected. Confidence is relational and theological.  
+v05: Direction of the heart is central. Love and steadfastness are not self-generated.  
+v06: “Keep away” introduces boundary-setting within the community.  
+v07–08: Paul’s example is practical—manual labor and refusal to burden others.  
+v09: Authority is acknowledged but voluntarily limited for the sake of example.  
 v10: The principle ties provision to willingness, not capacity alone.  
 v11: Disorder is defined as misdirected activity, not mere inactivity.  
 v12: Quiet work contrasts with disruptive behavior.  
@@ -81,31 +81,31 @@ v14–15: Discipline aims at restoration, not exclusion. Shame functions as corr
 v16: Peace is both given and comprehensive (“at all times in every way”).  
 v17: The handwritten closing authenticates the letter.  
 
-##Vocabulary
+## Vocabulary
 
-v1: τρέχω (trechō)  
+v01: τρέχω (trechō)  
 
-v1: “To run.” To move swiftly or spread.  
+v01: “To run.” To move swiftly or spread.  
 
-v3: πιστός (pistos)  
+v03: πιστός (pistos)  
 
-v3: “Faithful.” Reliable and trustworthy.  
+v03: “Faithful.” Reliable and trustworthy.  
 
-v5: κατευθύνω (kateuthynō)  
+v05: κατευθύνω (kateuthynō)  
 
-v5: “To direct.” To guide toward a goal.  
+v05: “To direct.” To guide toward a goal.  
 
-v6: ἀτάκτως (ataktōs)  
+v06: ἀτάκτως (ataktōs)  
 
-v6: “Disorderly.” Out of proper order.  
+v06: “Disorderly.” Out of proper order.  
 
-v7: μιμέομαι (mimeomai)  
+v07: μιμέομαι (mimeomai)  
 
-v7: “To imitate.” To follow a pattern.  
+v07: “To imitate.” To follow a pattern.  
 
-v8: κόπος (kopos)  
+v08: κόπος (kopos)  
 
-v8: “Labor.” Hard work involving effort.  
+v08: “Labor.” Hard work involving effort.  
 
 v10: θέλω (thelō)  
 

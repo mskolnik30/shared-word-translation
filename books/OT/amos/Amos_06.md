@@ -123,7 +123,7 @@ v12: The second rhetorical question is textually difficult. The Masoretic wordin
 v13: Lo-Debar sounds like “nothing,” while Karnaim is related to “horns,” a symbol of strength. Amos likely exploits the place names to mock confidence in recent military gains.
 v14: Lebo-Hamath in the north and the Wadi of the Arabah in the south mark a broad span of Israelite territory that will experience oppression.
 
-##Vocabulary
+## Vocabulary
 
 v01: שַׁאֲנַן (sha'anan)
 “At ease” or “complacent.” Secure without appropriate concern.

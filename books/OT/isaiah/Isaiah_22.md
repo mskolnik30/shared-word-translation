@@ -64,7 +64,7 @@ v14: “LORD of Hosts” — The title presents the LORD as sovereign over heave
 v20: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 v18: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
-##Vocabulary
+## Vocabulary
 
 v22: מַפְתֵּחַ (mafteach)
 “Key.” Symbol of delegated household authority.

@@ -153,7 +153,7 @@ v34: The exodus is described as a uniquely public act of divine intervention inv
 v37: “by his presence” translates “before his face/presence,” emphasizing personal divine involvement in the exodus.
 v41–43: The cities of refuge interrupt the theological discourse with a concrete legal action, linking Moses’ teaching with actual social provision.
 
-##Vocabulary
+## Vocabulary
 
 v01: חֹק (choq)
 “Statute.” A prescribed covenant requirement.

@@ -116,9 +116,9 @@ v29: Only see this: I found
 that God made humanity upright,
 but they have sought out many schemes.”
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v06: הֶבֶל (hevel)
 “vapor.” The word names what is fleeting, elusive, and unable to bear the weight placed upon it. Here, the fool’s laughter is as brief and empty as the crackling of thorns.

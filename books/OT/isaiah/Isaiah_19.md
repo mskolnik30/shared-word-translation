@@ -61,10 +61,8 @@ v25: because the LORD of Hosts has blessed them, saying, "Blessed be Egypt my pe
 ## Notes
 v18: The movement from judgment to worship is striking: Egypt, Assyria, and Israel are finally named together within the blessing of the LORD.  
 v12: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v3: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.  
-v03: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
-
-##Vocabulary
+v03: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.  
+## Vocabulary
 
 v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
@@ -72,11 +70,9 @@ v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v3: רוּחַ (ruach)  
+v03: רוּחַ (ruach)  
 “Spirit,” “wind,” or “breath.” A term whose sense is determined by context.  
 
 v18: דָּבָר (davar)
 “Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.
 
-v03: רוּחַ (ruach)
-“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.

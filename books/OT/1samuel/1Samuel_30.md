@@ -108,7 +108,7 @@ v23: David’s redistribution principle begins with theology: the spoil is what 
 v24–25: Those guarding the baggage receive the same share as those in direct combat, making support roles part of the common military enterprise.
 v26–31: David’s gifts renew relationships across Judah and also establish a network of political goodwill immediately before he becomes king there.
 
-##Vocabulary
+## Vocabulary
 
 v01: פָּשַׁט (pashat)
 “To raid.”

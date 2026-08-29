@@ -66,18 +66,18 @@ v19: And blessed be his glorious name forever; may the whole earth be filled wit
 v20: The prayers of David, the son of Jesse, are ended.
 </p>
 ## Notes
-v1: "Solomon" — The title attribute "for Solomon" might indicate authorship, dedication, or association with Solomon's rule.  
-v8: "from sea to sea, and from the River to the ends of the earth" — This expresses the vastness of the anticipated dominion, symbolic of an ideal reign extending to the known world.  
+v01: "Solomon" — The title attribute "for Solomon" might indicate authorship, dedication, or association with Solomon's rule.  
+v08: "from sea to sea, and from the River to the ends of the earth" — This expresses the vastness of the anticipated dominion, symbolic of an ideal reign extending to the known world.  
 v14: "their blood will be precious in his sight" — Underscores the value the king places on life, contrasting the violence mentioned.  
 v17: "May nations be blessed in him" — Connects to the Abrahamic promise of all nations being blessed (Genesis 12:3).
 
-##Vocabulary
+## Vocabulary
 
-v1: אֱלֹהִים (*Elohim*) — Often translated as "God," implying power and divinity, here addressing the divine source of justice and righteousness.  
+v01: אֱלֹהִים (*Elohim*) — Often translated as "God," implying power and divinity, here addressing the divine source of justice and righteousness.  
 
-v5: שֶׁמֶשׁ (*shemesh*) — "Sun"; a marker of enduring time, often evoking strength and stability.  
+v05: שֶׁמֶשׁ (*shemesh*) — "Sun"; a marker of enduring time, often evoking strength and stability.  
 
-v6: רְבִיב (*raviv*) — "Showers"; part of an agricultural blessing metaphor, depicting abundance and renewal.  
+v06: רְבִיב (*raviv*) — "Showers"; part of an agricultural blessing metaphor, depicting abundance and renewal.  
 
 v10: תַרְשִׁישׁ (*Tarshish*) — A distant location, highlighting extensive reach and influence, potentially a trade partner.  
 

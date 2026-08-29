@@ -109,7 +109,7 @@ v10: “Empty, emptied, and devastated” — The Hebrew uses a threefold sound 
 v11–12: Assyria's royal and military power is pictured through lions feeding without fear. The question “Where is the lions' den?” announces the collapse of that previously secure predatory order.
 v13: “LORD of Hosts” — The title places Nineveh's military power under the authority of the LORD who commands the heavenly armies.
 
-##Vocabulary
+## Vocabulary
 
 v01: מֵפִיץ (mefits)
 “Shatterer,” “scatterer,” or “one who breaks apart.” A figure bringing violent disruption.

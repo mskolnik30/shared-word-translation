@@ -1,0 +1,80 @@
+{
+  "operation": "Normalize Church Commons apparatus headings, zero-pad verse references, and merge legacy split Vocabulary sections",
+  "source": "untouched backup of main at 69ea33739bc413011d235dd1b4809786749e95ac",
+  "files_changed": 1189,
+  "multi_vocabulary_heading_files": [
+    "OT/psalms/Psalm_040.md",
+    "OT/psalms/Psalm_116.md",
+    "OT/psalms/Psalm_022.md",
+    "OT/psalms/Psalm_045.md",
+    "OT/psalms/Psalm_130.md",
+    "OT/psalms/Psalm_118.md",
+    "OT/isaiah/Isaiah_53.md"
+  ],
+  "notes": {
+    "before": 10519,
+    "after": 10502,
+    "exact_duplicates_removed": 17
+  },
+  "vocabulary": {
+    "before_all_segments": 13957,
+    "after": 13132,
+    "exact_duplicates_removed": 809,
+    "exact_notes_overlaps_removed": 16,
+    "verse_numbering_shifts_corrected": [
+      {
+        "file": "OT/1kings/1Kings_05.md",
+        "from": "v19",
+        "to": "v05"
+      },
+      {
+        "file": "OT/1kings/1Kings_05.md",
+        "from": "v26",
+        "to": "v12"
+      },
+      {
+        "file": "OT/1kings/1Kings_05.md",
+        "from": "v27",
+        "to": "v13"
+      },
+      {
+        "file": "OT/psalms/Psalm_054.md",
+        "from": "v08",
+        "to": "v06"
+      },
+      {
+        "file": "OT/psalms/Psalm_058.md",
+        "from": "v12",
+        "to": "v11"
+      },
+      {
+        "file": "OT/genesis/Genesis_35.md",
+        "from": "v30",
+        "to": "v29"
+      }
+    ]
+  },
+  "format": {
+    "noncanonical_note_refs_after": 0,
+    "noncanonical_vocabulary_refs_after": 0,
+    "compact_or_indented_apparatus_headings_after": 0
+  },
+  "safety": {
+    "scripture_prefix_source": "copied byte-for-byte from backup",
+    "apparatus_formatting": "preserved except canonical headings and reference labels; split Vocabulary segments merged; duplicate blocks removed"
+  },
+  "validation_results": {
+    "files": 1189,
+    "notes": 10502,
+    "vocabulary": 13132,
+    "genesis_01_notes": 20,
+    "genesis_01_vocabulary": 28,
+    "invalid_vocabulary_references": 0,
+    "duplicates": 0,
+    "malformed_entries": 0,
+    "notes_vocabulary_exact_overlaps": 0,
+    "noncanonical_apparatus_headings": 0,
+    "scripture_prefix_changes": 0,
+    "preexisting_note_references_to_omitted_verses": 16
+  }
+}

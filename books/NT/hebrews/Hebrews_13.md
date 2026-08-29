@@ -77,7 +77,7 @@ v22: Brevity is stated despite density of content.
 v23–24: Personal details are included without expansion.  
 v25: Conclusion returns to grace.  
 
-##Vocabulary
+## Vocabulary
 
 v18: συνείδησις (syneidēsis)
 “Conscience.” Inner awareness.

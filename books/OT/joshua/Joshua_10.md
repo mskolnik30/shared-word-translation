@@ -134,7 +134,7 @@ v13: “Book of Jashar” — An ancient source also named elsewhere in the Hebr
 v24: Placing feet on the kings’ necks is a public image of military subjugation. The narrative uses the act to strengthen Israel’s commanders for further battle.
 v28–40: The repeated *herem* language is severe. TSW preserves the conquest account’s own terminology without attempting to harmonize it with later ethical frameworks.
 
-##Vocabulary
+## Vocabulary
 
 v10: הָמַם (hamam)
 “To confuse” or “throw into panic.” The LORD disorders the Amorite armies.

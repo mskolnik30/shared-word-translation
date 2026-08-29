@@ -61,14 +61,14 @@ v21: The one who conquers, I will grant him to sit with me on my throne, as I al
 v22: The one who has an ear, let him hear what the Spirit says to the churches.
 </p>
 ## Notes
-v1: “Seven spirits” is retained without clarification, maintaining symbolic density rather than resolving reference.
-v1–2: Reputation and reality are set in tension; life is named where death is present.
-v3: Memory and repentance are linked; failure to remain watchful introduces sudden judgment imagery.
-v4–5: Garments function symbolically; purity is described relationally rather than ritually.
-v5: “Book of life” is invoked without explanation, functioning as assurance and warning.
-v7: Authority is expressed through opening and shutting; access is controlled, not negotiated.
-v8: “Open door” is presented as given, not achieved.
-v9: Conflict language remains unresolved; identity claims are exposed rather than adjudicated.
+v01: “Seven spirits” is retained without clarification, maintaining symbolic density rather than resolving reference.
+v01–02: Reputation and reality are set in tension; life is named where death is present.
+v03: Memory and repentance are linked; failure to remain watchful introduces sudden judgment imagery.
+v04–05: Garments function symbolically; purity is described relationally rather than ritually.
+v05: “Book of life” is invoked without explanation, functioning as assurance and warning.
+v07: Authority is expressed through opening and shutting; access is controlled, not negotiated.
+v08: “Open door” is presented as given, not achieved.
+v09: Conflict language remains unresolved; identity claims are exposed rather than adjudicated.
 v10: Preservation is framed in relation to trial, not escape from it.
 v11: Immediacy (“coming soon”) functions exhortatively rather than chronologically.
 v12: Stability is emphasized (“pillar”); belonging is marked through naming.
@@ -81,21 +81,21 @@ v20: Invitation remains open yet requires response; presence is not forced.
 v21: Conquering is patterned after prior conquering; authority is shared, not seized.
 v22: The refrain extends each message beyond its immediate setting.
 
-##Vocabulary
+## Vocabulary
 
-v3: γρηγορέω (grēgoreō)
+v03: γρηγορέω (grēgoreō)
 
 “To keep watch.” Implies alertness and readiness, not mere awareness.
 
-v5: βίβλος τῆς ζωῆς (biblos tēs zōēs)
+v05: βίβλος τῆς ζωῆς (biblos tēs zōēs)
 
 “Book of life.” A register of belonging, left conceptually open.
 
-v7: κλείς (kleis)
+v07: κλείς (kleis)
 
 “Key.” Symbol of authority over access and exclusion.
 
-v8: θύρα (thyra)
+v08: θύρα (thyra)
 
 “Door.” Represents opportunity or access given rather than taken.
 
@@ -123,14 +123,3 @@ v21: καθίζω (kathizō)
 
 “To sit.” Indicates shared rule or participation in authority.
 
-v03: γρηγορέω (grēgoreō)
-“To keep watch.” Implies alertness and readiness, not mere awareness.
-
-v05: βίβλος τῆς ζωῆς (biblos tēs zōēs)
-“Book of life.” A register of belonging, left conceptually open.
-
-v07: κλείς (kleis)
-“Key.” Symbol of authority over access and exclusion.
-
-v08: θύρα (thyra)
-“Door.” Represents opportunity or access given rather than taken.

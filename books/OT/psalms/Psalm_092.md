@@ -63,33 +63,33 @@ v15: to declare that the LORD is upright;
 he is my rock, and there is no unrighteousness in him.
 </p>
 ## Notes
-v1–3: Praise is structured across time (morning and night) and instrument, suggesting rhythm rather than momentary expression.  
-v4–5: Joy arises not from circumstance but from recognizing the “works” and “thoughts” of the LORD, held together without explanation.  
-v6–7: The contrast is not intellectual capacity but perception; the flourishing of the wicked is visible yet misunderstood.  
-v7: “Sprout like grass” evokes rapid, temporary growth, implicitly contrasted with later tree imagery.  
-v8: The psalm pivots with a simple contrast—human flourishing is temporary; the LORD’s exaltation is permanent.  
-v9: Repetition (“behold…behold”) intensifies certainty without adding new information.  
+v01–03: Praise is structured across time (morning and night) and instrument, suggesting rhythm rather than momentary expression.  
+v04–05: Joy arises not from circumstance but from recognizing the “works” and “thoughts” of the LORD, held together without explanation.  
+v06–07: The contrast is not intellectual capacity but perception; the flourishing of the wicked is visible yet misunderstood.  
+v07: “Sprout like grass” evokes rapid, temporary growth, implicitly contrasted with later tree imagery.  
+v08: The psalm pivots with a simple contrast—human flourishing is temporary; the LORD’s exaltation is permanent.  
+v09: Repetition (“behold…behold”) intensifies certainty without adding new information.  
 v10: “Horn” signals strength and dignity; “fresh oil” suggests renewal rather than mere victory.  
 v11: Seeing and hearing frame judgment as witnessed reality, not abstract doctrine.  
 v12–14: The righteous are depicted as cultivated and rooted, not self-generated; longevity is marked by continued fruitfulness.  
 v14: Old age is not decline but persistence; vitality is described without denying time.  
 v15: The purpose of flourishing is declarative—bearing witness to the character of the LORD rather than self-display.
 
-##Vocabulary
+## Vocabulary
 
-v1: טוֹב (tov)  
+v01: טוֹב (tov)  
 “Good.” Not merely pleasant, but fitting or right within God’s order.
 
-v2: חֶסֶד (chesed)  
+v02: חֶסֶד (chesed)  
 “Steadfast love.” Covenantal loyalty expressed in enduring relationship.
 
-v2: אֱמוּנָה (emunah)  
+v02: אֱמוּנָה (emunah)  
 “Faithfulness.” Reliability or steadiness over time.
 
-v6: בַּעַר (baʿar)  
+v06: בַּעַר (baʿar)  
 “Dull” or “brutish.” Lacking perception rather than intelligence.
 
-v7: צִיץ (tsits)  
+v07: צִיץ (tsits)  
 “To sprout” or “blossom.” Suggests quick, surface-level growth.
 
 v10: קֶרֶן (qeren)  
@@ -107,11 +107,3 @@ v14: דָּשֵׁן (dashen)
 v15: צוּר (tsur)  
 “Rock.” A metaphor for stability, refuge, and reliability.
 
-v01: טוֹב (tov)
-“Good.” Not merely pleasant, but fitting or right within God’s order.
-
-v02: חֶסֶד (chesed)
-“Steadfast love.” Covenantal loyalty expressed in enduring relationship.
-
-v02: אֱמוּנָה (emunah)
-“Faithfulness.” Reliability or steadiness over time.

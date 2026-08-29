@@ -51,14 +51,14 @@ v16: As it is, you boast in your arrogance. All such boasting is evil.
 v17: So whoever knows the right thing to do and fails to do it, for him it is sin.
 </p>
 ## Notes
-v1: Conflict is traced to internal desire, not external cause.  
-v2–3: Lack is linked to both action and intention.  
-v4: Worldliness is framed relationally, not structurally.  
-v5: The citation is introduced without clear source.  
-v6: Grace is set in opposition to pride.  
-v7–8: Movement toward God is reciprocal.  
-v8: External and internal cleansing are paired.  
-v9: Emotional reversal is commanded, not explained.  
+v01: Conflict is traced to internal desire, not external cause.  
+v02–03: Lack is linked to both action and intention.  
+v04: Worldliness is framed relationally, not structurally.  
+v05: The citation is introduced without clear source.  
+v06: Grace is set in opposition to pride.  
+v07–08: Movement toward God is reciprocal.  
+v08: External and internal cleansing are paired.  
+v09: Emotional reversal is commanded, not explained.  
 v10: Exaltation follows humility without specified timing.  
 v11–12: Judgment is limited to God; human judgment is constrained.  
 v13–14: Planning assumes control that is not possessed.  
@@ -67,39 +67,39 @@ v15: Dependence is expressed verbally.
 v16: Boasting is identified with arrogance.  
 v17: Knowledge increases responsibility.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἡδονή (hēdonē)  
+v01: ἡδονή (hēdonē)  
 
-v1: “Passion.” Desire or pleasure.  
+v01: “Passion.” Desire or pleasure.  
 
-v2: φονεύω (phoneuō)  
+v02: φονεύω (phoneuō)  
 
-v2: “To murder.” To take life.  
+v02: “To murder.” To take life.  
 
-v4: φιλία (philia)  
+v04: φιλία (philia)  
 
-v4: “Friendship.” Close association.  
+v04: “Friendship.” Close association.  
 
-v4: ἔχθρα (echthra)  
+v04: ἔχθρα (echthra)  
 
-v4: “Enmity.” Hostility.  
+v04: “Enmity.” Hostility.  
 
-v6: ταπεινός (tapeinos)  
+v06: ταπεινός (tapeinos)  
 
-v6: “Humble.” Lowly in status or attitude.  
+v06: “Humble.” Lowly in status or attitude.  
 
-v7: ὑποτάσσω (hypotassō)  
+v07: ὑποτάσσω (hypotassō)  
 
-v7: “To submit.” To place under authority.  
+v07: “To submit.” To place under authority.  
 
-v8: καθαρίζω (katharizō)  
+v08: καθαρίζω (katharizō)  
 
-v8: “To cleanse.” To make clean.  
+v08: “To cleanse.” To make clean.  
 
-v8: δίψυχος (dipsychos)  
+v08: δίψυχος (dipsychos)  
 
-v8: “Double-minded.” Divided in allegiance.  
+v08: “Double-minded.” Divided in allegiance.  
 
 v11: καταλαλέω (katalaleō)  
 

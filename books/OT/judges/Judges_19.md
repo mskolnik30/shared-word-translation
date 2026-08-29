@@ -95,7 +95,7 @@ v25: The repeated sexual violence is stated directly but without graphic expansi
 v29: The dismemberment of the concubine transforms her violated body into a summons to national outrage. The narrative offers no explicit word of grief from the Levite.
 v30: The response deliberately reaches back to the exodus as the horizon of Israel’s shared memory. The event is presented as unprecedented within Israel’s life.
 
-##Vocabulary
+## Vocabulary
 
 v01: פִּילֶגֶשׁ (pilegesh)
 “Concubine.” A woman in a recognized but secondary marital relationship.

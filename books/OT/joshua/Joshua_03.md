@@ -61,9 +61,9 @@ v16: the waters coming down from above stood and rose up in one heap very far aw
 v17: Now the priests bearing the ark of the covenant of the LORD stood firmly on dry ground in the midst of the Jordan, and all Israel was passing over on dry ground, until all the nation finished passing over the Jordan.
 </p>
 ## Notes
-v7: Joshua’s leadership is publicly confirmed—continuity with Moses is emphasized.
-v8: Priests initiate the action; obedience precedes visible change.
-v9–10: Knowledge of God is tied to action in history—presence is demonstrated through displacement of nations.
+v07: Joshua’s leadership is publicly confirmed—continuity with Moses is emphasized.
+v08: Priests initiate the action; obedience precedes visible change.
+v09–10: Knowledge of God is tied to action in history—presence is demonstrated through displacement of nations.
 v11: The ark signifies divine presence; “Lord of all the earth” universalizes authority.
 v12: Twelve representatives anticipate communal memory and participation.
 v13: The miracle mirrors creation and the sea crossing—waters “stand” as ordered.
@@ -71,21 +71,21 @@ v15: The timing heightens the event—Jordan is at flood stage, increasing impos
 v16: Specific geography grounds the event in real space; the stoppage is total and directional.
 v17: Stability (“stood firmly”) contrasts with flowing waters; the people cross in ordered completion.
 
-##Vocabulary
+## Vocabulary
 
-v7: גָּדַל (gāḏal)  
+v07: גָּדַל (gāḏal)  
 
 “To exalt.” To make great or elevate.
 
-v8: כֹּהֵן (kōhēn)  
+v08: כֹּהֵן (kōhēn)  
 
 “Priest.” One who mediates sacred action.
 
-v8: אָרוֹן (ʾārôn)  
+v08: אָרוֹן (ʾārôn)  
 
 “Ark.” Sacred chest representing covenant presence.
 
-v9: קָרַב (qāraḇ)  
+v09: קָרַב (qāraḇ)  
 
 “To come near.” To approach for encounter.
 
@@ -129,14 +129,3 @@ v17: עָבַר (ʿāḇar)
 
 “To pass over.” To cross from one side to another.
 
-v07: גָּדַל (gāḏal)
-“To exalt.” To make great or elevate.
-
-v08: כֹּהֵן (kōhēn)
-“Priest.” One who mediates sacred action.
-
-v08: אָרוֹן (ʾārôn)
-“Ark.” Sacred chest representing covenant presence.
-
-v09: קָרַב (qāraḇ)
-“To come near.” To approach for encounter.

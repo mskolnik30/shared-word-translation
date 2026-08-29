@@ -37,36 +37,12 @@ his steadfast love endures forever,
 and his faithfulness to all generations.
 </p>
 ## Notes
-v1–2: Worship is communal and global (“all the earth”) and marked by joy.
-v3: Identity is defined by belonging—created and claimed by God.
-v4: Movement into worship is intentional (“enter…give thanks…bless”).
-v5: God’s character (goodness, steadfast love, faithfulness) grounds praise.
+v01–02: Worship is communal and global (“all the earth”) and marked by joy.
+v03: Identity is defined by belonging—created and claimed by God.
+v04: Movement into worship is intentional (“enter…give thanks…bless”).
+v05: God’s character (goodness, steadfast love, faithfulness) grounds praise.
 
-##Vocabulary
-
-v1: רוּעַ (rua‘)
-“To shout.” Raise a joyful cry.
-
-v2: עָבַד (avad)
-“To serve.” Worship through action.
-
-v3: יָדַע (yada‘)
-“To know.” Recognize relationally.
-
-v3: רָעָה (ra‘ah)
-“To pasture.” Shepherding care.
-
-v4: תּוֹדָה (todah)
-“Thanksgiving.” Expression of gratitude.
-
-v5: טוֹב (tov)
-“Good.” Beneficial and right.
-
-v5: חֶסֶד (chesed)
-“Steadfast love.” Covenant loyalty.
-
-v5: אֱמוּנָה (emunah)
-“Faithfulness.” Reliability.
+## Vocabulary
 
 v01: רוּעַ (rua‘)
 “To shout.” Raise a joyful cry.
@@ -74,8 +50,21 @@ v01: רוּעַ (rua‘)
 v02: עָבַד (avad)
 “To serve.” Worship through action.
 
+v03: יָדַע (yada‘)
+“To know.” Recognize relationally.
+
+v03: רָעָה (ra‘ah)
+“To pasture.” Shepherding care.
+
+v04: תּוֹדָה (todah)
+“Thanksgiving.” Expression of gratitude.
+
+v05: טוֹב (tov)
+“Good.” Beneficial and right.
+
 v05: חֶסֶד (chesed)
 “Steadfast love.” Covenant loyalty.
 
 v05: אֱמוּנָה (emunah)
 “Faithfulness.” Reliability.
+

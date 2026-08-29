@@ -46,7 +46,7 @@ v04: “lay a hand” — The gesture establishes identification between the off
 v04: “make atonement” — The Hebrew *kipper* has a broad ritual range involving atonement, purgation, or restoration. TSW retains the traditional term “atonement.”
 v09: “pleasing aroma” — The phrase describes the offering’s acceptance before the LORD and is repeated throughout the sacrificial instructions.
 
-##Vocabulary
+## Vocabulary
 
 v02: קָרְבָּן (qorban)
 “Offering.” Something brought near and presented to God.

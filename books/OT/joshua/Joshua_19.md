@@ -141,7 +141,7 @@ v47: Dan’s difficulty holding its original territory anticipates the migration
 v49–50: Joshua receives his own inheritance only after the tribes have been allotted theirs, presenting his personal possession after his public responsibility has been fulfilled.
 v51: The distribution concludes at the tent of meeting in Shiloh, placing the administrative act explicitly “before the LORD.”
 
-##Vocabulary
+## Vocabulary
 
 v01: גּוֹרָל (goral)
 “Lot” or “allotment.” The assigned tribal portion.

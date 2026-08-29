@@ -81,10 +81,10 @@ v23: they only were hearing, “The one who once persecuted us is now proclaimin
 v24: And they glorified God because of me.
 </p>
 ## Notes
-v1: Apostleship is defined negatively and positively—“not from humans… but through Jesus Christ.” Authority is grounded in divine initiative.  
-v4: “Present evil age” frames the problem cosmically rather than individually.  
-v6–7: “Different” and “not another” create tension. The distortion claims continuity while undermining substance.  
-v8–9: The repetition of the curse intensifies the warning. Even apostolic or angelic authority is subordinated to the content of the message.  
+v01: Apostleship is defined negatively and positively—“not from humans… but through Jesus Christ.” Authority is grounded in divine initiative.  
+v04: “Present evil age” frames the problem cosmically rather than individually.  
+v06–07: “Different” and “not another” create tension. The distortion claims continuity while undermining substance.  
+v08–09: The repetition of the curse intensifies the warning. Even apostolic or angelic authority is subordinated to the content of the message.  
 v10: The contrast between pleasing humans and serving Christ is absolute, not balanced.  
 v11–12: The origin of the good news is emphasized as revelation, not transmission.  
 v13–14: Paul’s past is not minimized. Zeal is shown to be capable of misdirection.  
@@ -94,27 +94,27 @@ v18–19: Limited contact with earlier apostles preserves distinction without de
 v20: The oath signals the seriousness of the claim.  
 v23–24: Transformation is mediated through testimony. The community interprets Paul’s change as evidence of God’s action.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀπόστολος (apostolos)  
+v01: ἀπόστολος (apostolos)  
 
-v1: “Apostle.” One sent with authority.  
+v01: “Apostle.” One sent with authority.  
 
-v4: αἰών (aiōn)  
+v04: αἰών (aiōn)  
 
-v4: “Age.” A present order or structure of reality.  
+v04: “Age.” A present order or structure of reality.  
 
-v6: μετατίθημι (metatithēmi)  
+v06: μετατίθημι (metatithēmi)  
 
-v6: “To turn away” or “transfer.” Suggests shifting allegiance.  
+v06: “To turn away” or “transfer.” Suggests shifting allegiance.  
 
-v7: ταράσσω (tarassō)  
+v07: ταράσσω (tarassō)  
 
-v7: “To trouble.” To disturb or unsettle.  
+v07: “To trouble.” To disturb or unsettle.  
 
-v8: ἀνάθεμα (anathema)  
+v08: ἀνάθεμα (anathema)  
 
-v8: “Accursed.” Set apart for judgment.  
+v08: “Accursed.” Set apart for judgment.  
 
 v10: δοῦλος (doulos)  
 

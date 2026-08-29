@@ -111,13 +111,13 @@ v54: The sons of Salma: Bethlehem, the Netophathites, Ataroth-beth-Joab, half of
 v55: The families of Scribal families residing in Jabez—the Tirathites, the Shimeathites, and the Sucathites—these are the Kenites who came from Hammath, the father of the house of Rechab.
 </p>
 ## Notes
-v1–15: 1. **Israel's Sons (v1-2)**: The names included in this list cover the sons of Israel as foundational tribes for the nation's identity, highlighting the covenant's continuity.  
+v01–15: 1. **Israel's Sons (v1-2)**: The names included in this list cover the sons of Israel as foundational tribes for the nation's identity, highlighting the covenant's continuity.  
 2. **Judah's Descendants (v3-15)**: This section traces Judah's lineage, emphasizing connections to key figures like David.  
 3. **Role of Women**: The chapter notes women like Tamar and their crucial roles in the lineage, hinting at their contributions despite societal constraints.  
 4. **Genealogical Variations**: The chapter integrates varying familial connections and roles, reflecting the complexity of ancient genealogical records.  
 5. **Leadership and Transgression (v6-7)**: Names like Zerah and Achar underscore themes of leadership and failure, showcasing moral nuances within the lineage.  
 
-##Vocabulary
+## Vocabulary
 
 v27: - **בְּכֹר (be.khor)**: (v27) This term means "firstborn," often indicating a privileged status in familial inheritance and responsibility within biblical narratives.  
 
@@ -129,7 +129,7 @@ v46: - **פִילֶגֶשׁ (pi.le.gesh)**: (v46) Translated as "concubine," thi
 v46: פִילֶגֶשׁ (pilegesh)
 “Concubine.” Denotes a secondary wife within the cultural context, holding legal rights but lesser status compared to primary wives.
 
-v3–55: - **יָלַד (ya.lad)**: Frequently appearing in the genealogical lineage, this verb means "to beget" or "to father," crucial for tracing lineage and fulfilling covenantal promises throughout the biblical narrative.  
+v03–55: - **יָלַד (ya.lad)**: Frequently appearing in the genealogical lineage, this verb means "to beget" or "to father," crucial for tracing lineage and fulfilling covenantal promises throughout the biblical narrative.  
 
 v03–55: יָלַד (yalad)
 “To bear; beget; father.” The recurring verb traces descent through the genealogy.

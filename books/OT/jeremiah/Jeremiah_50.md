@@ -379,7 +379,7 @@ v34: “Redeemer” is the kinship term *goel*. The LORD takes Israel’s case a
 v38: The Hebrew word translated “terrors” is associated with frightening or senseless idols. The line portrays idolatry as a form of madness.
 v44–45: These lines closely parallel Jeremiah 49:19–20 concerning Edom. TSW preserves Jeremiah’s repetition rather than varying it for style.
 
-##Vocabulary
+## Vocabulary
 
 v02: בֵּל (Bel)
 “Bel.” A title meaning “lord,” used for a Babylonian deity.

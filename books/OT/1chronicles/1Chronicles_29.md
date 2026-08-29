@@ -135,11 +135,11 @@ v29: Now the acts of King David, from first to last, are written in the records 
 <p>
 v30: together with all his reign and his power, and the times that passed over him and over Israel and over all the kingdoms of the lands.
 </p>
-##Notes
+## Notes
 
 v05: “Fill their hand” is an idiom associated with consecration and commissioning.
 
-##Vocabulary
+## Vocabulary
 
 v01: בִּירָה (bîrâ)
 “fortress.” The word describes the temple project as an imposing royal and sacred complex, with a sense of its scale and its belonging to the LORD.

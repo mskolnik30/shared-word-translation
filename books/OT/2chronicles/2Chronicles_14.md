@@ -58,7 +58,7 @@ v05: Chronicles’ account of Asa’s removal of high places differs from 1 King
 v09: “Cushite” may refer to a Nubian/Ethiopian or southern military leader; the precise identity of Zerah is uncertain.
 v11: Asa’s prayer centers on the LORD’s ability to help regardless of human numerical strength.
 
-##Vocabulary
+## Vocabulary
 
 v01: שָׁקַט (shaqat)
 “To have rest” or quiet.

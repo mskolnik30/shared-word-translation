@@ -135,10 +135,10 @@ v42: And Jesus said to him, “See again; your faith has saved you.”
 v43: And immediately he saw again and was following him, glorifying God. And all the people, seeing it, gave praise to God.
 </p>
 ## Notes
-v1–5: Persistence in prayer is grounded in trust in divine justice, not divine reluctance.
-v6–8: The contrast between unjust judge and God emphasizes certainty of response.
-v8: The question of faith shifts focus from timing to endurance.
-v9–14: Justification is grounded in humility, not comparative righteousness.
+v01–05: Persistence in prayer is grounded in trust in divine justice, not divine reluctance.
+v06–08: The contrast between unjust judge and God emphasizes certainty of response.
+v08: The question of faith shifts focus from timing to endurance.
+v09–14: Justification is grounded in humility, not comparative righteousness.
 v11–12: The Pharisee’s prayer is self-referential, not petitionary.
 v13: The tax collector’s posture reflects dependence and confession.
 v14: Reversal of expectation defines divine judgment.
@@ -154,25 +154,25 @@ v38–39: The blind man sees more clearly than the crowd in recognizing Jesus.
 v42: Faith again links healing and salvation.
 v43: Restoration leads to following and public praise.
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐγκακέω (enkakeō)
+v01: ἐγκακέω (enkakeō)
 
 “To lose heart.”
 
-v3: ἐκδικέω (ekdikeō)
+v03: ἐκδικέω (ekdikeō)
 
 “To give justice.”
 
-v5: ὑπωπιάζω (hypōpiazō)
+v05: ὑπωπιάζω (hypōpiazō)
 
 “To wear out.”
 
-v8: πίστις (pistis)
+v08: πίστις (pistis)
 
 “Faith.”
 
-v9: δικαιόω (dikaioō)
+v09: δικαιόω (dikaioō)
 
 “To justify.”
 
@@ -235,14 +235,3 @@ v42: ἀναβλέπω (anablepō)
 
 “To see again.”
 
-v01: ἐγκακέω (enkakeō)
-“To lose heart.”
-
-v03: ἐκδικέω (ekdikeō)
-“To give justice.”
-
-v08: πίστις (pistis)
-“Faith.”
-
-v09: δικαιόω (dikaioō)
-“To justify.”

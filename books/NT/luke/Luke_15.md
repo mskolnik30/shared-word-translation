@@ -88,11 +88,11 @@ v31: Then the father said to him, ‘Child, you are always with me, and all that
 v32: But we had to celebrate and rejoice, because this brother of yours was dead and has come to life; he was lost and has been found.’”
 </p>
 ## Notes
-v1–2: Luke frames the entire chapter with proximity and complaint. Tax collectors and sinners are drawing near to listen, while Pharisees and scribes are standing apart and grumbling. The conflict is not about morality alone, but about who is allowed nearness and shared table fellowship.
-v3: Jesus tells these stories to them—to the religious leaders who object to his welcome. The parables are not abstract moral lessons but direct responses to a concrete accusation.
-v4–7: The shepherd’s action is intentionally excessive. Leaving ninety-nine sheep in the wilderness to search for one would sound reckless, not prudent. Jesus destabilizes common assumptions about responsible care in order to reframe the value of the lost. Joy, not efficiency, becomes the governing logic.
-v7: “Repentance” here is not defined or measured. The emphasis falls on heaven’s joy rather than the sinner’s reform. Luke allows repentance to remain relational—a turning that restores connection—rather than a quantified moral achievement.
-v8–10: The second parable shifts imagery from a male-coded occupation (shepherding) to a domestic, female-coded space. The parallel structure reinforces the point: searching, finding, and communal rejoicing are not gendered behaviors but divine ones.
+v01–02: Luke frames the entire chapter with proximity and complaint. Tax collectors and sinners are drawing near to listen, while Pharisees and scribes are standing apart and grumbling. The conflict is not about morality alone, but about who is allowed nearness and shared table fellowship.
+v03: Jesus tells these stories to them—to the religious leaders who object to his welcome. The parables are not abstract moral lessons but direct responses to a concrete accusation.
+v04–07: The shepherd’s action is intentionally excessive. Leaving ninety-nine sheep in the wilderness to search for one would sound reckless, not prudent. Jesus destabilizes common assumptions about responsible care in order to reframe the value of the lost. Joy, not efficiency, becomes the governing logic.
+v07: “Repentance” here is not defined or measured. The emphasis falls on heaven’s joy rather than the sinner’s reform. Luke allows repentance to remain relational—a turning that restores connection—rather than a quantified moral achievement.
+v08–10: The second parable shifts imagery from a male-coded occupation (shepherding) to a domestic, female-coded space. The parallel structure reinforces the point: searching, finding, and communal rejoicing are not gendered behaviors but divine ones.
 v10: Joy is said to occur “in the presence of the angels of God,” not explicitly among them. Luke subtly locates joy as something that belongs to God’s own presence, witnessed by the heavenly court.
 v11: The story opens without explanation or moral framing. The father’s division of property is narrated without protest, even though such a request would signal relational rupture. Luke allows the offense to stand without commentary.
 v12–13: The younger son’s departure is described spatially and relationally. He moves not only to a distant country but away from the structures that once sustained him. “Disordered living” names loss of orientation more than specific acts.
@@ -107,12 +107,12 @@ v27–29: The elder son’s anger is rooted in comparison and accounting. His la
 v30: The father addresses him as “child,” affirming belonging without contesting the complaint. Presence, not performance, is named as the elder son’s inheritance.
 v31: The final line reframes necessity: celebration is not optional sentiment but required response. The story ends without resolution, leaving the listener—especially the grumbling ones—inside the unanswered question of whether they will enter the joy.
 
-##Vocabulary
+## Vocabulary
 
-v1: ἁμαρτωλοί (hamartōloi)
+v01: ἁμαρτωλοί (hamartōloi)
 Often translated “sinners,” this term refers broadly to those perceived as outside acceptable religious or social boundaries. In Luke, it functions as a relational category—those marked as unfit for proximity—rather than a precise moral inventory.
 
-v2: διαγογγύζω (diagongyzō)
+v02: διαγογγύζω (diagongyzō)
 Translated as “grumbling,” this verb echoes Israel’s wilderness complaints in the Septuagint. Luke invokes a familiar pattern: resistance not to wrongdoing, but to God’s generosity and nearness.
 
 v4, v6, v9: εὑρίσκω (heuriskō)

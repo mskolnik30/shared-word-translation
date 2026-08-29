@@ -60,29 +60,29 @@ v13: Righteousness will go before him
 and will make a path for his steps.
 </p>
 ## Notes
-v1–3: The psalm begins with remembered restoration, grounding present hope in past action.  
-v4–7: Petition acknowledges ongoing need despite prior forgiveness.  
-v6: Revival is communal and joy-oriented.  
-v8: Listening becomes central. Response follows divine speech.  
-v9: Salvation is near, but conditioned by reverence (“those who fear him”).  
+v01–03: The psalm begins with remembered restoration, grounding present hope in past action.  
+v04–07: Petition acknowledges ongoing need despite prior forgiveness.  
+v06: Revival is communal and joy-oriented.  
+v08: Listening becomes central. Response follows divine speech.  
+v09: Salvation is near, but conditioned by reverence (“those who fear him”).  
 v10–11: Abstract qualities are personified and unified, resolving tension.  
 v12–13: Divine action results in both moral and material flourishing.  
 
-##Vocabulary
+## Vocabulary
 
-v1: רָצָה (ratsah)  
+v01: רָצָה (ratsah)  
 “To favor.” To show goodwill.  
 
-v2: כָּסָה (kasah)  
+v02: כָּסָה (kasah)  
 “To cover.” To conceal or forgive.  
 
-v4: שׁוּב (shuv)  
+v04: שׁוּב (shuv)  
 “To restore.” Turn back.  
 
-v6: חָיָה (chayah)  
+v06: חָיָה (chayah)  
 “To revive.” To give life.  
 
-v7: חֶסֶד (chesed)  
+v07: חֶסֶד (chesed)  
 “Steadfast love.” Covenant loyalty.  
 
 v10: אֱמֶת (emet)
@@ -97,5 +97,3 @@ v10: שָׁלוֹם (shalom)
 v12: יְבוּל (yevul)  
 “Yield.” Produce or increase.  
 
-v07: חֶסֶד (chesed)
-“Steadfast love.” Covenant loyalty.

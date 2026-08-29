@@ -97,7 +97,7 @@ v53: The father realized that this was the hour when Jesus had said to him, “Y
 v54: Now this was the second sign that Jesus did after coming from Judea to Galilee.
 </p>
 ## Notes
-v4: had to pass through Samaria — Signals narrative necessity rather than geography alone; the verb carries theological weight in John.  
+v04: had to pass through Samaria — Signals narrative necessity rather than geography alone; the verb carries theological weight in John.  
 v10: living water — Intentionally ambiguous; can denote flowing water or life-giving water. The double sense is preserved.  
 v14: in them — Interior language emphasizes indwelling rather than external provision.  
 v18: not your husband — States relational fact without moral commentary; avoids interpretive expansion.  
@@ -110,9 +110,9 @@ v42: Savior of the world — Expansive confession voiced by Samaritans; boundary
 v48: signs and wonders — Critique of trust dependent on proof rather than word.  
 v50: trusted the word — Trust precedes verification; belief is grounded in hearing, not seeing.  
 
-##Vocabulary
+## Vocabulary
 
-v4: pass through (δεῖ, dei): it is necessary; expresses divine necessity or purpose.  
+v04: pass through (δεῖ, dei): it is necessary; expresses divine necessity or purpose.  
 
 v10: ζῶν (zōn)
 “Living, active; used of flowing water and life itself.”

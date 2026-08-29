@@ -83,7 +83,7 @@ v04–10: The land is surveyed and written in a scroll before lots are cast. Adm
 v07: Levi’s “inheritance” is again defined through priestly service rather than a continuous tribal territory.
 v11–20: Benjamin’s territory lies between Judah and Joseph, giving the tribe a geographically strategic position in Israel’s central highlands.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֹהֶל מוֹעֵד (ohel moed)
 “Tent of meeting.” The sanctuary established at Shiloh.

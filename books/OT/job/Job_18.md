@@ -92,7 +92,7 @@ v13: “firstborn of death” — A poetic personification, possibly meaning the
 v14: “king of terrors” personifies death or the power associated with death.
 v17–19: Bildad’s description includes loss of memory, name, children, and household—details that cut painfully close to Job’s actual losses and therefore function as implied accusation.
 
-##Vocabulary
+## Vocabulary
 
 v05: אוֹר (or)
 “Light.” A common image of life and flourishing, here extinguished for the wicked.

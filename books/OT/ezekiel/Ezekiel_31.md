@@ -126,18 +126,18 @@ This is Pharaoh and all his multitude,
 declares the LORD GOD.
 </p>
 ## Notes
-v3: Assyria is pictured as a magnificent cedar. The image does not merely describe a tree; it evokes imperial greatness, shelter, abundance, and the vulnerability of a power whose height becomes its peril.  
-v8–9: The “garden of God” and “trees of Eden” draw on Eden imagery without fully identifying Assyria with Eden itself. The language heightens the cedar’s splendor while preparing for its descent.  
+v03: Assyria is pictured as a magnificent cedar. The image does not merely describe a tree; it evokes imperial greatness, shelter, abundance, and the vulnerability of a power whose height becomes its peril.  
+v08–09: The “garden of God” and “trees of Eden” draw on Eden imagery without fully identifying Assyria with Eden itself. The language heightens the cedar’s splendor while preparing for its descent.  
 v10: The cedar’s downfall is explicitly connected to its lifted-up heart. Height itself is not condemned; pride in height is.  
 v14: The warning expands beyond Assyria to “all the trees by the waters”—all powers sustained by abundance. The passage holds together divine gift, human greatness, pride, and mortality.  
 v15–17: *Sheol*, the “land below,” and the “Pit” form a repeated descent imagery. The text portrays the realm of the dead as the destination shared by the mighty and those they sheltered.  
 v18: The oracle returns directly to Pharaoh. Assyria’s fall is not simply a historical comparison but a warning that Egypt’s grandeur and multitude cannot exempt it from the same judgment.  
 
-##Vocabulary
+## Vocabulary
 
-v4: תְּהוֹם (*tehom*) — “the Deep.”: Here the Deep is the source of the waters that make the cedar flourish. In v15, the same Deep is restrained and made to mourn, showing that the abundance sustaining imperial life is under God’s command.  
+v04: תְּהוֹם (*tehom*) — “the Deep.”: Here the Deep is the source of the waters that make the cedar flourish. In v15, the same Deep is restrained and made to mourn, showing that the abundance sustaining imperial life is under God’s command.  
 
-v8: גַּן־אֱלֹהִים (*gan ʾelohim*) — “garden of God.”: The phrase places the cedar’s beauty in a setting of unsurpassed fertility and splendor. Its use intensifies the contrast between exaltation and judgment.  
+v08: גַּן־אֱלֹהִים (*gan ʾelohim*) — “garden of God.”: The phrase places the cedar’s beauty in a setting of unsurpassed fertility and splendor. Its use intensifies the contrast between exaltation and judgment.  
 
 v10: לֵבָב (*levav*) — “heart.”: The cedar’s heart is “lifted up” because of its height. In this passage, the heart names the inward posture that turns received greatness into pride.  
 

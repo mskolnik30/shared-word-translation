@@ -65,15 +65,15 @@ v19: My brothers, if anyone among you wanders from the truth and someone brings 
 v20: let him know that whoever brings back a sinner from his wandering will save his soul from death and will cover a multitude of sins.
 </p>
 ## Notes
-v1: Judgment is announced before explanation.  
-v2–3: Wealth is depicted as decaying rather than stable.  
-v3: Corrosion becomes testimony.  
-v4: Injustice is personified as crying out.  
-v5: Present indulgence is linked to future judgment.  
-v6: The righteous are passive; no defense is described.  
-v7–8: Patience is illustrated through agricultural timing.  
-v8: Nearness is asserted without specification.  
-v9: Judgment is imminent; behavior is adjusted accordingly.  
+v01: Judgment is announced before explanation.  
+v02–03: Wealth is depicted as decaying rather than stable.  
+v03: Corrosion becomes testimony.  
+v04: Injustice is personified as crying out.  
+v05: Present indulgence is linked to future judgment.  
+v06: The righteous are passive; no defense is described.  
+v07–08: Patience is illustrated through agricultural timing.  
+v08: Nearness is asserted without specification.  
+v09: Judgment is imminent; behavior is adjusted accordingly.  
 v10–11: Past examples function as models without expansion.  
 v12: Speech is simplified; complexity is removed.  
 v13–16: Prayer is applied across varied conditions.  
@@ -82,35 +82,35 @@ v16: Confession is communal, not private only.
 v17–18: Example shows continuity between past and present.  
 v19–20: Restoration is relational; outcome is preservation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ταλαιπωρία (talaipōria)  
+v01: ταλαιπωρία (talaipōria)  
 
-v1: “Miseries.” Hardships or distress.  
+v01: “Miseries.” Hardships or distress.  
 
-v3: κατίω (katioō)  
+v03: κατίω (katioō)  
 
-v3: “To corrode.” To decay through use.  
+v03: “To corrode.” To decay through use.  
 
-v4: ἀποστερέω (apostereō)  
+v04: ἀποστερέω (apostereō)  
 
-v4: “To withhold.” To deprive unjustly.  
+v04: “To withhold.” To deprive unjustly.  
 
-v4: κύριος σαβαώθ (kyrios sabaōth)  
+v04: κύριος σαβαώθ (kyrios sabaōth)  
 
-v4: “Lord of hosts.” Title of divine authority.  
+v04: “Lord of hosts.” Title of divine authority.  
 
-v5: τρυφή (tryphē)  
+v05: τρυφή (tryphē)  
 
-v5: “Luxury.” Indulgent living.  
+v05: “Luxury.” Indulgent living.  
 
-v7: μακροθυμέω (makrothymeō)  
+v07: μακροθυμέω (makrothymeō)  
 
-v7: “To be patient.” To endure over time.  
+v07: “To be patient.” To endure over time.  
 
-v8: στηρίζω (stērizō)  
+v08: στηρίζω (stērizō)  
 
-v8: “To establish.” To make firm.  
+v08: “To establish.” To make firm.  
 
 v12: ὀμνύω (omnyō)  
 

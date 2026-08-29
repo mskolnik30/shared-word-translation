@@ -77,7 +77,7 @@ v12: David leaves vengeance to the LORD while refusing to become the agent of pe
 v20: Saul openly acknowledges David’s future kingship, even while the pursuit resumes later.
 v22: David does not return with Saul but goes back to the stronghold, showing that verbal reconciliation has not yet produced trustworthy safety.
 
-##Vocabulary
+## Vocabulary
 
 v03: הָסֵךְ אֶת־רַגְלָיו (hasekh et-raglav)
 “To cover his feet.” A euphemism for relieving oneself.

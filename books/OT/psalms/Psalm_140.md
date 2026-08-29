@@ -60,7 +60,7 @@ the upright will dwell in your presence.
 v08: The final clause is brief and can be attached either to the wicked scheme or to the people who devise it. The translation follows the Masoretic accentuation while leaving the causal relation open.
 v10: The Hebrew term translated “deep pits” is uncertain and may describe watery depths or places from which escape is impossible. The surrounding imagery emphasizes irreversible judgment.
 
-##Vocabulary
+## Vocabulary
 
 v03: עַכְשׁוּב (ʿakhshuv)
 “A venomous snake, traditionally rendered asp or viper.” Precise species identification is uncertain.

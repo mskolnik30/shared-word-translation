@@ -74,11 +74,11 @@ v29: For he has graciously granted you the privilege not only of trusting in Chr
 v30: since you are having the same struggle that you saw I had and now hear that I still have.
 </p>
 ## Notes
-v1–2: The greeting establishes relational authority rather than hierarchical distance. “Servants” frames leadership as belonging to Christ, while the inclusion of overseers and deacons names an ordered yet shared community.  
-v3–5: Thanksgiving centers on partnership, not performance. Joy arises from shared participation in the gospel rather than individual achievement.  
-v6: Confidence is located in God’s initiating and sustaining action. The future of the community depends on divine faithfulness, not human consistency.  
-v7–8: Affection and theology are intertwined. Paul’s emotional language (“hold you in my heart”) is not incidental but integral to his understanding of shared grace.  
-v9–11: Love is shaped by discernment. Growth is not measured by intensity alone but by the ability to recognize what truly matters and to bear visible fruit.  
+v01–02: The greeting establishes relational authority rather than hierarchical distance. “Servants” frames leadership as belonging to Christ, while the inclusion of overseers and deacons names an ordered yet shared community.  
+v03–05: Thanksgiving centers on partnership, not performance. Joy arises from shared participation in the gospel rather than individual achievement.  
+v06: Confidence is located in God’s initiating and sustaining action. The future of the community depends on divine faithfulness, not human consistency.  
+v07–08: Affection and theology are intertwined. Paul’s emotional language (“hold you in my heart”) is not incidental but integral to his understanding of shared grace.  
+v09–11: Love is shaped by discernment. Growth is not measured by intensity alone but by the ability to recognize what truly matters and to bear visible fruit.  
 v12–14: Circumstances that appear restrictive become generative. Imprisonment functions as a catalyst for wider proclamation rather than an obstacle.  
 v15–18: Motives are relativized without being ignored. Paul refuses to let impure intent eclipse the central reality that Christ is proclaimed.  
 v19–20: Deliverance is framed through communal prayer and the Spirit’s activity. Hope is not escape from suffering but the confidence that Christ will be honored regardless of outcome.  
@@ -88,21 +88,21 @@ v25–26: Presence is oriented toward the growth of others. Paul interprets his 
 v27–28: Conduct is communal and public. The language of citizenship frames the church as a distinct social body whose unity and courage signal deeper realities.  
 v29–30: Suffering is reframed as participation rather than exception. The shared struggle binds the community to Paul and to Christ’s own pattern of life.  
 
-##Vocabulary
+## Vocabulary
 
-v1: δοῦλος (doulos)  
+v01: δοῦλος (doulos)  
 “Servant” or “slave.” The term indicates total belonging to Christ, redefining identity around allegiance rather than status.  
 
-v5: κοινωνία (koinōnia)  
+v05: κοινωνία (koinōnia)  
 “Partnership” or “participation.” Emphasizes shared investment and mutual involvement in the work of the gospel.  
 
-v6: ἐπιτελέω (epiteleō)  
+v06: ἐπιτελέω (epiteleō)  
 “To bring to completion.” Suggests an ongoing process carried through to its intended goal by God.  
 
-v7: ἀπολογία (apologia)  
+v07: ἀπολογία (apologia)  
 “Defense.” Often used in legal contexts, indicating formal justification or explanation of the gospel.  
 
-v9: ἐπίγνωσις (epignōsis)  
+v09: ἐπίγνωσις (epignōsis)  
 “Full knowledge.” Denotes deep, relational understanding rather than mere information.  
 
 v10: δοκιμάζω (dokimazō)  
@@ -126,11 +126,6 @@ v29: χαρίζομαι (charizomai)
 v30: ἀγών (agōn)  
 “Struggle” or “contest.” Evokes athletic or public conflict, emphasizing endurance within visible opposition.  
 
-v01: δοῦλος (doulos)
-“Servant” or “slave.” The term indicates total belonging to Christ, redefining identity around allegiance rather than status.
-
 v05: κοινωνία (koinōnia)
 “Partnership” or “participation.” Marks shared investment and mutual involvement in the work of the gospel.
 
-v07: ἀπολογία (apologia)
-“Defense.” Often used in legal contexts, indicating formal justification or explanation of the gospel.

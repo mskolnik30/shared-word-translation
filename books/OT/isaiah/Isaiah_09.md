@@ -62,7 +62,7 @@ v07: “LORD of Hosts” — The title presents the LORD as sovereign over heave
 v07: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.
 v01: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
 
-##Vocabulary
+## Vocabulary
 
 v06: שַׂר־שָׁלוֹם (sar shalom)
 “Prince of Peace.” One of the royal titles in v06.

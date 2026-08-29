@@ -110,7 +110,7 @@ v19: The comparison denies human unreliability to God. The language is specifica
 v21: The Hebrew can refer to trouble/iniquity and misery/toil. TSW retains the language of calamity rather than resolving the line into a claim of sinlessness.
 v23: Balaam’s own profession of divination is relativized by the oracle: no technique can overturn what God has done for Israel.
 
-##Vocabulary
+## Vocabulary
 
 v07: מָשָׁל (mashal)
 “Oracle,” “proverb,” or “poetic saying.” Balaam’s formal inspired speech.

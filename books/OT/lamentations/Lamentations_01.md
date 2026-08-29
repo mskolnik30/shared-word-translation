@@ -200,7 +200,7 @@ v18: “rebelled against his mouth” — The Hebrew names rebellion against the
 v21–22: The speaker acknowledges the LORD’s judgment and at the same time asks for corresponding judgment upon enemies who rejoice over Jerusalem’s ruin. Confession and protest remain together.
 v01–22: The chapter is an alphabetic acrostic in Hebrew, with successive verses beginning with successive letters of the Hebrew alphabet. The English translation preserves the verse structure rather than attempting to recreate the acrostic.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֵיכָה (ekhah)
 “How!” A lamenting exclamation expressing shock, grief, and reversal.

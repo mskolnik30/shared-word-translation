@@ -44,7 +44,7 @@ v06: The daughters retain meaningful choice—“whomever is good in their eyes�
 v11: The order of the daughters’ names differs from earlier lists. TSW preserves the order of this verse rather than harmonizing it.
 v13: Numbers ends not with a narrative climax but with a legal summary in the plains of Moab, positioning Israel on the threshold of the land and the book of Deuteronomy.
 
-##Vocabulary
+## Vocabulary
 
 v02: גּוֹרָל (goral)
 “Lot.” The means by which tribal land is assigned.

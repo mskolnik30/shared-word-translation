@@ -113,7 +113,7 @@ v12–17: The counterintuitive ruling that fully whitened skin can be pronounced
 v45–46: The isolation prescribed has communal and ritual consequences. The text does not describe the condition as a punishment for a particular personal sin.
 v47–59: The same Hebrew category is extended to garments, suggesting a broader concept of visible destructive affliction rather than a single human disease.
 
-##Vocabulary
+## Vocabulary
 
 v02: צָרַעַת (tsara'at)
 “Serious diseased condition.” A ritual category affecting skin, garments, and houses.

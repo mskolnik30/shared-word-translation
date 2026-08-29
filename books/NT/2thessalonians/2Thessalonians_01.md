@@ -55,45 +55,45 @@ v11: To this end we always pray for you, that our God may make you worthy of his
 v12: so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.
 </p>
 ## Notes
-v3: Growth is emphasized in both faith and love. Development, not mere stability, marks the community.  
-v4: Endurance under persecution becomes the ground of boasting, redefining honor.  
-v5: Suffering is interpreted as participation in the kingdom, not contradiction of it.  
-v6–7: Divine justice is reciprocal. Affliction and relief are reversed across time.  
-v7–8: Revelation of Jesus is described in apocalyptic terms, emphasizing visibility and authority.  
-v8: Judgment is framed relationally (“do not know God”) and ethically (“do not obey”).  
-v9: “Destruction” is defined as separation from the presence of the Lord.  
+v03: Growth is emphasized in both faith and love. Development, not mere stability, marks the community.  
+v04: Endurance under persecution becomes the ground of boasting, redefining honor.  
+v05: Suffering is interpreted as participation in the kingdom, not contradiction of it.  
+v06–07: Divine justice is reciprocal. Affliction and relief are reversed across time.  
+v07–08: Revelation of Jesus is described in apocalyptic terms, emphasizing visibility and authority.  
+v08: Judgment is framed relationally (“do not know God”) and ethically (“do not obey”).  
+v09: “Destruction” is defined as separation from the presence of the Lord.  
 v10: The focus shifts from judgment to glorification. Believers participate in the display of Christ’s glory.  
 v11–12: Worthiness is both given and enacted. Prayer seeks alignment between calling and conduct.  
 
-##Vocabulary
+## Vocabulary
 
-v3: ὑπεραυξάνω (hyperauxanō)  
+v03: ὑπεραυξάνω (hyperauxanō)  
 
-v3: “To grow abundantly.” Increase beyond measure.  
+v03: “To grow abundantly.” Increase beyond measure.  
 
-v3: ἄξιος (axios)  
+v03: ἄξιος (axios)  
 
-v3: “Worthy.” Corresponding to a calling.  
+v03: “Worthy.” Corresponding to a calling.  
 
-v4: ὑπομονή (hypomonē)  
+v04: ὑπομονή (hypomonē)  
 
-v4: “Steadfastness.” Endurance under pressure.  
+v04: “Steadfastness.” Endurance under pressure.  
 
-v6: δίκαιος (dikaios)  
+v06: δίκαιος (dikaios)  
 
-v6: “Just.” Acting in accordance with right.  
+v06: “Just.” Acting in accordance with right.  
 
-v7: ἄνεσις (anesis)  
+v07: ἄνεσις (anesis)  
 
-v7: “Relief.” Release from pressure.  
+v07: “Relief.” Release from pressure.  
 
-v8: ἐκδίκησις (ekdikēsis)  
+v08: ἐκδίκησις (ekdikēsis)  
 
-v8: “Vengeance.” Execution of justice.  
+v08: “Vengeance.” Execution of justice.  
 
-v9: ὄλεθρος (olethros)  
+v09: ὄλεθρος (olethros)  
 
-v9: “Destruction.” Ruin or loss.  
+v09: “Destruction.” Ruin or loss.  
 
 v11: πληρόω (plēroō)  
 

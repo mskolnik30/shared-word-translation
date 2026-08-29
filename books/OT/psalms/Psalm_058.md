@@ -34,12 +34,12 @@ v11: And people will say, "Surely there is a reward for the righteous;
 surely there is a God who judges on earth."
 </p>
 ## Notes
-v9: The Hebrew of the thorn-and-pot image is difficult. The line emphasizes the swiftness of judgment before the cooking fire can take effect, while the precise sense of the terms describing the thorns remains uncertain.
+v09: The Hebrew of the thorn-and-pot image is difficult. The line emphasizes the swiftness of judgment before the cooking fire can take effect, while the precise sense of the terms describing the thorns remains uncertain.
 v11: The closing acclamation voices the conclusion that righteousness is not futile and that there is a God who judges on the earth.
 
-##Vocabulary
+## Vocabulary
 
-v2: אֵ֣לֶם (e.lem)  
+v02: אֵ֣לֶם (e.lem)  
 Here translated as “silent,” suggesting inactivity or failure to act, in contrast with the expectation of just verdicts from those expected to judge righteously.  
 
 v11: צַ֭דִּיק (tsad.diq)  
@@ -48,7 +48,7 @@ v11: צַ֭דִּיק (tsad.diq)
 v11: אֱ֝לֹהִ֗ים (elohim)
 “God.” Here the term refers to the judge who renders judgment on earth.
 
-v12: אֱ֝לֹהִ֗ים (e.lo.him)  
+v11: אֱ֝לֹהִ֗ים (e.lo.him)  
 Emphasizes God’s role as ultimate judge, reinforcing divine sovereignty over earthly justice.  
 
 v01: אֵ֣לֶם (elem)

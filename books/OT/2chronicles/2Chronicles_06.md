@@ -166,7 +166,7 @@ v32–33: The prayer includes foreigners who come because of the LORD’s name a
 v36: “There is no human being who does not sin” grounds the exile petition in realistic anthropology.
 v41–42: The closing lines echo Psalm 132 and emphasize priests, ark, anointed king, and Davidic steadfast love.
 
-##Vocabulary
+## Vocabulary
 
 v14: בְּרִית (berit)
 “Covenant.”

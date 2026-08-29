@@ -72,7 +72,7 @@ v17: The LORD answers the people’s refusal to “proclaim release” with bitt
 v18–19: Cutting an animal and passing between its parts was a covenant-making action. The enacted curse becomes the framework for judgment upon those who violated the covenant.
 v21: Babylon’s army had temporarily withdrawn, likely because of Egyptian military movement. The LORD declares that the reprieve will not last.
 
-##Vocabulary
+## Vocabulary
 
 v08: דְּרוֹר (deror)
 “Release” or “liberty.” Freedom proclaimed to those held in servitude.

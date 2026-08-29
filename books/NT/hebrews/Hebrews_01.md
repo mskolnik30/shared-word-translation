@@ -81,61 +81,61 @@ until I make your enemies a footstool for your feet”?
 v14: Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?
 </p>
 ## Notes
-v1: Revelation is described as varied in form and time.  
-v2: The Son is presented as final and comprehensive.  
-v2: Creation is attributed through the Son.  
-v3: Multiple descriptions accumulate without reduction.  
-v3: Action (“upholds,” “sat down”) follows identity.  
-v4: Superiority is comparative, not absolute in isolation.  
-v5–13: Argument proceeds through citation rather than explanation.  
-v6: Worship is directed toward the Son.  
-v7: Angels are described functionally.  
-v8–9: The Son is addressed directly with royal language.  
+v01: Revelation is described as varied in form and time.  
+v02: The Son is presented as final and comprehensive.  
+v02: Creation is attributed through the Son.  
+v03: Multiple descriptions accumulate without reduction.  
+v03: Action (“upholds,” “sat down”) follows identity.  
+v04: Superiority is comparative, not absolute in isolation.  
+v05–13: Argument proceeds through citation rather than explanation.  
+v06: Worship is directed toward the Son.  
+v07: Angels are described functionally.  
+v08–09: The Son is addressed directly with royal language.  
 v10–12: Creation is contrasted with permanence.  
 v13: Position at the right hand signifies authority.  
 v14: Angels serve; they are not central actors.  
 
-##Vocabulary
+## Vocabulary
 
-v1: πολυμερῶς (polymerōs)  
+v01: πολυμερῶς (polymerōs)  
 
-v1: “In many parts.” Various portions.  
+v01: “In many parts.” Various portions.  
 
-v1: πολυτρόπως (polytropōs)  
+v01: πολυτρόπως (polytropōs)  
 
-v1: “In many ways.” Various methods.  
+v01: “In many ways.” Various methods.  
 
-v2: υἱός (huios)  
+v02: υἱός (huios)  
 
-v2: “Son.” One in relational identity.  
+v02: “Son.” One in relational identity.  
 
-v2: αἰών (aiōn)  
+v02: αἰών (aiōn)  
 
-v2: “Ages.” Time or created order.  
+v02: “Ages.” Time or created order.  
 
-v3: ἀπαύγασμα (apaugasma)  
+v03: ἀπαύγασμα (apaugasma)  
 
-v3: “Radiance.” Emission of light.  
+v03: “Radiance.” Emission of light.  
 
-v3: χαρακτήρ (charaktēr)  
+v03: χαρακτήρ (charaktēr)  
 
-v3: “Imprint.” Exact representation.  
+v03: “Imprint.” Exact representation.  
 
-v3: φέρω (pherō)  
+v03: φέρω (pherō)  
 
-v3: “To uphold.” To carry or sustain.  
+v03: “To uphold.” To carry or sustain.  
 
-v4: κρείττων (kreittōn)  
+v04: κρείττων (kreittōn)  
 
-v4: “Superior.” Greater in rank.  
+v04: “Superior.” Greater in rank.  
 
-v6: πρωτότοκος (prōtotokos)  
+v06: πρωτότοκος (prōtotokos)  
 
-v6: “Firstborn.” One with priority.  
+v06: “Firstborn.” One with priority.  
 
-v8: θρόνος (thronos)  
+v08: θρόνος (thronos)  
 
-v8: “Throne.” Seat of rule.  
+v08: “Throne.” Seat of rule.  
 
 v10: θεμελιόω (themelioō)  
 

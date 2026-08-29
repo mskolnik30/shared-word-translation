@@ -71,11 +71,11 @@ v28: Noah lived after the flood three hundred fifty years.
 v29: Thus all the days of Noah were nine hundred fifty years, and he died.
 </p>
 ## Notes
-v1–7: The blessing given to Noah echoes the creation mandate of Genesis 1. Humanity receives a renewed commission within a changed world.  
-v3: Permission to eat animals marks a development from the earlier provision of plants as food.  
-v4–6: Blood is treated as the bearer of life. Human life remains sacred because humanity bears the image of God.  
-v6: The poetic form highlights the gravity of bloodshed and the enduring significance of the divine image.  
-v8–11: The covenant extends beyond Noah and his descendants to all living creatures. The scope is cosmic rather than merely human.  
+v01–07: The blessing given to Noah echoes the creation mandate of Genesis 1. Humanity receives a renewed commission within a changed world.  
+v03: Permission to eat animals marks a development from the earlier provision of plants as food.  
+v04–06: Blood is treated as the bearer of life. Human life remains sacred because humanity bears the image of God.  
+v06: The poetic form highlights the gravity of bloodshed and the enduring significance of the divine image.  
+v08–11: The covenant extends beyond Noah and his descendants to all living creatures. The scope is cosmic rather than merely human.  
 v13: The bow functions as a sign of divine commitment. The text emphasizes God’s promise rather than human obligation.  
 v15–16: The language of remembrance is covenantal. God’s remembering signifies faithful action and enduring commitment.  
 v18–19: The narrative narrows from the whole earth to Noah’s family, preparing for future genealogies and nations.  
@@ -84,24 +84,24 @@ v22–24: The exact nature of Ham’s offense has been interpreted in different 
 v25–27: The curse falls upon Canaan rather than Ham. The passage anticipates later relationships among peoples descended from Noah’s sons.  
 v28–29: Noah’s death closes the flood narrative and returns the genealogy to the recurring pattern of mortality.  
 
-##Vocabulary
+## Vocabulary
 
-v1: בָּרַךְ (bāraḵ)  
+v01: בָּרַךְ (bāraḵ)  
 “To bless.” The granting of life, fruitfulness, and divine favor.  
 
-v2: מוֹרָא (môrāʾ)  
+v02: מוֹרָא (môrāʾ)  
 “Fear” or “dread.” A term describing the awe and apprehension animals will have toward humanity.  
 
-v4: דָּם (dām)  
+v04: דָּם (dām)  
 “Blood.” The visible expression of life and therefore treated with special significance.  
 
-v5: דָּרַשׁ (dāraš)  
+v05: דָּרַשׁ (dāraš)  
 “To require” or “seek an accounting.” Used here in the sense of answering for a life taken.  
 
-v6: צֶלֶם (ṣelem)  
+v06: צֶלֶם (ṣelem)  
 “Image.” Humanity’s unique status as bearing the image of God grounds the protection of human life.  
 
-v9: בְּרִית (bĕrît)  
+v09: בְּרִית (bĕrît)  
 “Covenant.” A binding relationship established by divine commitment.  
 
 v13: קֶשֶׁת (qešet)
@@ -122,8 +122,3 @@ v25: אָרוּר (ʾārûr)
 v27: פָּתָה (pātâ)
 “Enlarge; Make spacious.” A wordplay appears between the name Japheth and the blessing pronounced over him.
 
-v01: בָּרַךְ (bāraḵ)
-“To bless.” The granting of life, fruitfulness, and divine favor.
-
-v09: בְּרִית (bĕrît)
-“Covenant.” A binding relationship established by divine commitment.

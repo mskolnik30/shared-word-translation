@@ -85,27 +85,27 @@ and you shall be sons and daughters to me,
 says the Lord Almighty.”
 </p>
 ## Notes
-v1–2: “Now” carries urgency. Grace is not abstract but time-bound in reception.  
-v3–5: Paul lists external hardships without commentary, letting accumulation convey credibility.  
-v6–7: Internal qualities and divine empowerment are paired with external endurance.  
-v8–10: Paradox structures identity. Opposites are held together without resolution.  
+v01–02: “Now” carries urgency. Grace is not abstract but time-bound in reception.  
+v03–05: Paul lists external hardships without commentary, letting accumulation convey credibility.  
+v06–07: Internal qualities and divine empowerment are paired with external endurance.  
+v08–10: Paradox structures identity. Opposites are held together without resolution.  
 v11–13: The barrier is relational, not doctrinal. Paul locates restriction within the community’s response.  
 v14–16: The language of separation is framed through incompatible pairings.  
 v16–18: Scriptural citations ground identity in God’s dwelling presence rather than institutional form.  
 
-##Vocabulary
+## Vocabulary
 
-v1: συνεργέω (synergeō)  
+v01: συνεργέω (synergeō)  
 
-v1: “To work together.” Implies participation, not independence.  
+v01: “To work together.” Implies participation, not independence.  
 
-v4: ὑπομονή (hypomonē)  
+v04: ὑπομονή (hypomonē)  
 
-v4: “Endurance.” Steadfast persistence under pressure.  
+v04: “Endurance.” Steadfast persistence under pressure.  
 
-v8: δόξα (doxa)  
+v08: δόξα (doxa)  
 
-v8: “Honor.” Public recognition or valuation.  
+v08: “Honor.” Public recognition or valuation.  
 
 v10: κατέχω (katechō)
 “To possess.” To hold firmly or retain.

@@ -171,7 +171,7 @@ v13: The verb translated “flow” can also mean “melt” or “dissolve.”
 v14: “restore the fortunes” marks reversal of judgment in concrete communal life: cities, vineyards, gardens, food, and settled dwelling.
 v15: The book ends with planting rather than uprooting, reversing Amos’s repeated images of exile and loss.
 
-##Vocabulary
+## Vocabulary
 
 v01: כַּפְתּוֹר (kaftor)
 “Capital” or decorated top of a pillar. A structural feature struck in the vision.

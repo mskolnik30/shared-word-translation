@@ -54,14 +54,14 @@ v22: Stop trusting in man, whose breath is in his nostrils;
 for of what account is he?
 </p>
 ## Notes
-v4: “swords into plowshares” — Instruments of war are transformed into agricultural tools; peace is pictured as a reordering of learned practice as well as weapons.  
+v04: “swords into plowshares” — Instruments of war are transformed into agricultural tools; peace is pictured as a reordering of learned practice as well as weapons.  
 v12: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
 v12: “day of the LORD” — The expression names decisive divine intervention in judgment and restoration without reducing it to a single chronological scheme.  
-v3: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v03: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
 
-##Vocabulary
+## Vocabulary
 
-v4: אֵת (et) / מַזְמֵרָה (mazmerah)  
+v04: אֵת (et) / מַזְמֵרָה (mazmerah)  
 “Plowshare / pruning hook.” Agricultural tools that replace weapons in the vision of peace.  
 
 v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
@@ -73,7 +73,7 @@ v12: יוֹם יְהוָה (yom YHWH)
 v12: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v3: צִיּוֹן (tsiyyon)  
+v03: צִיּוֹן (tsiyyon)  
 “Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
 v04: אֵת / מַזְמֵרָה (et / mazmerah)

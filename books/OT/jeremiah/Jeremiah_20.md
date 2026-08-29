@@ -112,13 +112,13 @@ to see toil and sorrow,
 and spend my days in shame?
 </p>
 ## Notes
-v1–2: Jeremiah’s prophetic speech provokes institutional punishment. The opposition comes from within the temple administration itself.  
-v3: The renaming of Pashhur turns his identity into a prophetic sign. “Terror on Every Side” becomes both judgment and public reversal.  
-v4–6: Judgment is specific and historical: Judah, Jerusalem, Babylon, exile, sword, plunder, and death.  
-v6: False prophecy is not treated as private error but as speech that endangers the community.  
-v7: Jeremiah’s complaint is unusually direct. The language of being enticed and overpowered preserves the violence Jeremiah feels in his prophetic calling.  
-v8: Jeremiah cannot speak the LORD’s word without announcing disaster, and that word isolates him.  
-v9: Silence is impossible. The word becomes internal fire—painful to contain and impossible to suppress.  
+v01–02: Jeremiah’s prophetic speech provokes institutional punishment. The opposition comes from within the temple administration itself.  
+v03: The renaming of Pashhur turns his identity into a prophetic sign. “Terror on Every Side” becomes both judgment and public reversal.  
+v04–06: Judgment is specific and historical: Judah, Jerusalem, Babylon, exile, sword, plunder, and death.  
+v06: False prophecy is not treated as private error but as speech that endangers the community.  
+v07: Jeremiah’s complaint is unusually direct. The language of being enticed and overpowered preserves the violence Jeremiah feels in his prophetic calling.  
+v08: Jeremiah cannot speak the LORD’s word without announcing disaster, and that word isolates him.  
+v09: Silence is impossible. The word becomes internal fire—painful to contain and impossible to suppress.  
 v10: The phrase “Terror on every side” returns mockingly. The judgment-name attached to Pashhur becomes the atmosphere around Jeremiah.  
 v11: Confidence interrupts lament. The LORD is not gentle consolation here but a “mighty warrior” against persecutors.  
 v12: “Kidneys and heart” names the inner person—desire, conscience, and intention.  
@@ -126,39 +126,39 @@ v13: Praise appears before the final lament, creating unresolved movement rather
 v14–18: The chapter ends in despair, not resolution. Jeremiah’s anguish is allowed to stand within the prophetic book.  
 v18: The final question gathers the chapter’s tension: prophetic vocation has brought toil, sorrow, and shame.  
 
-##Vocabulary
+## Vocabulary
 
-v1: פַּשְׁחוּר (Pashchur)  
+v01: פַּשְׁחוּר (Pashchur)  
 “Pashhur.” A priestly official whose name is reinterpreted by Jeremiah through judgment.  
 
-v2: מַהְפֶּכֶת (mahpekheth)  
+v02: מַהְפֶּכֶת (mahpekheth)  
 “Stocks.” An instrument of public restraint and humiliation.  
 
-v3: מָגוֹר מִסָּבִיב (magor missaviv)  
+v03: מָגוֹר מִסָּבִיב (magor missaviv)  
 “Terror on every side.” A phrase of surrounding dread and threat.  
 
-v4: בָּבֶל (Bavel)  
+v04: בָּבֶל (Bavel)  
 “Babylon.” The empire named as the instrument of judgment.  
 
-v6: שֶׁקֶר (sheqer)  
+v06: שֶׁקֶר (sheqer)  
 “Falsehood.” Deceptive speech, especially false prophecy.  
 
-v7: פָּתָה (pathah)  
+v07: פָּתָה (pathah)  
 “To entice.” To persuade, deceive, or draw in.  
 
-v7: חָזַק (chazaq)  
+v07: חָזַק (chazaq)  
 “To overpower.” To be strong or prevail.  
 
-v8: חָמָס (chamas)  
+v08: חָמָס (chamas)  
 “Violence.” Destructive force or injustice.  
 
-v8: שֹׁד (shod)  
+v08: שֹׁד (shod)  
 “Destruction.” Devastation or ruin.  
 
-v9: אֵשׁ (esh)  
+v09: אֵשׁ (esh)  
 “Fire.” Here an inward burning image for the prophetic word.  
 
-v9: עֶצֶם (‘etsem)  
+v09: עֶצֶם (‘etsem)  
 “Bone.” The inner frame of the body, used for deep embodied pressure.  
 
 v10: דִּבָּה (dibbah)  
@@ -194,11 +194,3 @@ v18: יָגוֹן (yagon)
 v18: בֹּשֶׁת (bosheth)  
 “Shame.” Public disgrace or humiliation.  
 
-v01: פַּשְׁחוּר (Pashchur)
-“Pashhur.” A priestly official whose name is reinterpreted by Jeremiah through judgment.
-
-v02: מַהְפֶּכֶת (mahpekheth)
-“Stocks.” An instrument of public restraint and humiliation.
-
-v03: מָגוֹר מִסָּבִיב (magor missaviv)
-“Terror on every side.” A phrase of surrounding dread and threat.

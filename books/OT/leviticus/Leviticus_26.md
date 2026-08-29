@@ -113,7 +113,7 @@ v34–35: The land’s missed Sabbaths are personified as a debt of rest that is
 v42: The covenant ancestors appear in the unusual order Jacob, Isaac, Abraham. TSW preserves the order of the Hebrew text rather than harmonizing it to the more familiar sequence.
 v44–45: Judgment does not end the covenant. Even in exile the LORD refuses total rejection and remembers the covenant made with the ancestors.
 
-##Vocabulary
+## Vocabulary
 
 v03: חֻקָּה (chuqqah)
 “Statute.” An established ordinance or prescribed practice.

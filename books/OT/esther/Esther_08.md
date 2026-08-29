@@ -71,7 +71,7 @@ v13: “take vengeance” names retaliatory justice against enemies rather than 
 v15–17: The chapter reverses the emotional ending of chapter 3: there the king and Haman drank while Susa was confused; here Mordecai is honored and Susa rejoices.
 v17: “became Judeans” can mean converted, identified themselves with the Judeans, or attached themselves publicly to them. The text attributes the movement to fear.
 
-##Vocabulary
+## Vocabulary
 
 v01: בַּיִת (bayit)
 “House.” Here an estate or household property.

@@ -116,7 +116,7 @@ v40: He said to them, “Why are you afraid? Have you still no trust?”
 v41: And they were filled with great fear and said to one another, “Who then is this, that even the wind and the sea obey him?”
 </p>
 ## Notes
-v3: “Listen!” — Imperative sets the parable as a summons, not merely information; hearing is an act with consequence.
+v03: “Listen!” — Imperative sets the parable as a summons, not merely information; hearing is an act with consequence.
 v11: “the mystery of the reign of God” — μυστήριον refers not to secret knowledge but to God’s purpose now being disclosed yet not mastered.
 v12: “lest they turn again and be forgiven” — Quotation echoes Isaiah 6; functions as judgment-through-withholding, not as denial of mercy resolved by the narrator.
 v14: “the word” — Unspecified content; Mark does not define it doctrinally, allowing narrative context to shape meaning.
@@ -132,11 +132,11 @@ v34: “in private” — Distinction between public parables and private explan
 v40: “Have you still no trust?” — Trust (πίστις) framed as response to presence, not prior understanding.
 v41: “great fear” — Fear intensifies after the calming; awe replaces danger, leaving Jesus’ identity unresolved.
 
-##Vocabulary
+## Vocabulary
 
-v3: σπείρω — to sow
+v03: σπείρω — to sow
 
-v8: καρποφορέω — to bear fruit
+v08: καρποφορέω — to bear fruit
 
 v11: μυστήριον — mystery; something disclosed yet not mastered
 

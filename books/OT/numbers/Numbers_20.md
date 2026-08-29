@@ -73,7 +73,7 @@ v13: “Meribah” is related to the Hebrew verb “to quarrel.” The place nam
 v14: Calling Edom “your brother” invokes the ancestral relationship of Jacob/Israel and Esau/Edom.
 v28: Aaron’s garments pass to Eleazar before Aaron dies, visibly transferring the high-priestly office rather than leaving a gap in priestly leadership.
 
-##Vocabulary
+## Vocabulary
 
 v03: רִיב (riv)
 “To quarrel” or “contend.” The root behind the name Meribah.

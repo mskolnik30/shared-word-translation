@@ -73,27 +73,27 @@ v28: Solomon’s horses came from Egypt and from Kue; the king’s traders acqui
 v29: A chariot was imported from Egypt for six hundred shekels of silver, and a horse for one hundred and fifty. In the same way, they exported them by their hand to all the kings of the Hittites and the kings of Aram.
 </p>
 ## Notes
-v1: - **10:1 — “In connection with the name of the LORD”:** Solomon’s fame is not presented as merely personal reputation. It is linked to the LORD’s name, recalling the temple’s purpose as the place associated with that name (8:16–20, 29). Yet the chapter also displays the immense royal wealth gathered around Solomon, holding divine gift and royal splendor in close tension.  
-v1: - **10:1 — “Riddles”:** These are likely difficult sayings, questions, or puzzles meant to test wisdom. The queen’s visit is an intellectual and diplomatic encounter, not simply a display of curiosity.  
-v5: - **10:5 — “There was no breath left in her”:** The expression portrays overwhelming astonishment. It need not describe a literal loss of consciousness; the queen is undone by the combined sight of Solomon’s wisdom, household order, abundance, and worship.  
-v9: - **10:9 — “Justice and righteousness”:** The queen identifies the purpose of Solomon’s kingship not only as honor or prosperity but as the practice of justice and righteousness among Israel. Her blessing measures royal wisdom by the public good it is meant to serve.  
+v01: - **10:1 — “In connection with the name of the LORD”:** Solomon’s fame is not presented as merely personal reputation. It is linked to the LORD’s name, recalling the temple’s purpose as the place associated with that name (8:16–20, 29). Yet the chapter also displays the immense royal wealth gathered around Solomon, holding divine gift and royal splendor in close tension.  
+v01: - **10:1 — “Riddles”:** These are likely difficult sayings, questions, or puzzles meant to test wisdom. The queen’s visit is an intellectual and diplomatic encounter, not simply a display of curiosity.  
+v05: - **10:5 — “There was no breath left in her”:** The expression portrays overwhelming astonishment. It need not describe a literal loss of consciousness; the queen is undone by the combined sight of Solomon’s wisdom, household order, abundance, and worship.  
+v09: - **10:9 — “Justice and righteousness”:** The queen identifies the purpose of Solomon’s kingship not only as honor or prosperity but as the practice of justice and righteousness among Israel. Her blessing measures royal wisdom by the public good it is meant to serve.  
 v13: - **10:13 — “From the generosity of King Solomon”:** Literally, “according to the hand of King Solomon.” The phrase may refer to Solomon’s royal resources, power, or generosity. The wording leaves the extent and character of his additional gifts unspecified.  
 v13: “From the generosity of King Solomon”: Literally, “according to the hand of King Solomon.” The phrase may refer to Solomon’s royal resources, power, or generosity.
 v22: - **10:22 — “Tarshish fleet”:** The Hebrew expression may refer to ships associated with Tarshish, a particular maritime destination, or a class of large seagoing trading vessels. The text emphasizes the reach and regularity of Solomon’s international trade.  
 v22: “Tarshish fleet”: The Hebrew expression may refer to ships associated with Tarshish, a particular maritime destination, or a class of large seagoing trading vessels.
 v26–29: - **10:26–29 — Chariots, horsemen, and Egypt:** The accumulation of horses and chariots, including trade with Egypt, echoes the warnings for Israel’s king in Deuteronomy 17:16. The narrative records Solomon’s extraordinary power without directly commenting on it here; the following chapter will expose the strain within his reign.  
 
-##Vocabulary
+## Vocabulary
 
-v1: - **1 — חִידָה (*chidah*):** “Riddle.” The queen comes to test Solomon through difficult questions or enigmatic sayings, making wisdom the central subject of their meeting.  
+v01: - **1 — חִידָה (*chidah*):** “Riddle.” The queen comes to test Solomon through difficult questions or enigmatic sayings, making wisdom the central subject of their meeting.  
 
-v4: - **4 — חָכְמָה (*chokhmah*):** “Wisdom.” In this chapter, wisdom is displayed in Solomon’s answers, building projects, ordered household, wealth, and capacity to govern.  
+v04: - **4 — חָכְמָה (*chokhmah*):** “Wisdom.” In this chapter, wisdom is displayed in Solomon’s answers, building projects, ordered household, wealth, and capacity to govern.  
 
-v5: - **5 — רוּחַ (*ruach*):** “Breath, spirit.” The queen has no *ruach* left in her, expressing her complete astonishment before what she sees.  
+v05: - **5 — רוּחַ (*ruach*):** “Breath, spirit.” The queen has no *ruach* left in her, expressing her complete astonishment before what she sees.  
 
-v9: - **9 — מִשְׁפָּט (*mishpat*):** “Justice, judgment.” The term concerns the right ordering of communal life through faithful decisions and judgments.  
+v09: - **9 — מִשְׁפָּט (*mishpat*):** “Justice, judgment.” The term concerns the right ordering of communal life through faithful decisions and judgments.  
 
-v9: - **9 — צְדָקָה (*tsedaqah*):** “Righteousness.” Joined with *mishpat*, it describes the ethical and social faithfulness expected of the king.  
+v09: - **9 — צְדָקָה (*tsedaqah*):** “Righteousness.” Joined with *mishpat*, it describes the ethical and social faithfulness expected of the king.  
 
 v24: - **24 — לֵב (*lev*):** “Heart.” God places wisdom in Solomon’s heart—the inner center of understanding, discernment, and will.  
 

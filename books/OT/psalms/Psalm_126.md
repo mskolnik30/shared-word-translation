@@ -38,7 +38,7 @@ carrying the sheaves.
 v04: The wadis of the Negeb can remain dry and then suddenly flow after rain, making them a fitting image for abrupt and life-giving reversal.
 v01: The Hebrew expression used here and again in verse 4 can mean “restore the fortunes” or “turn the captivity.”
 
-##Vocabulary
+## Vocabulary
 
 v01: שׁוּב שְׁבוּת (shuv shevut)
 “An idiom for restoring fortunes or reversing a people’s condition.”

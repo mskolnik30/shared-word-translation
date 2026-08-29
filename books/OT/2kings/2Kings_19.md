@@ -203,7 +203,7 @@ v30: Root downward and fruit upward pictures the remnant’s renewed stability a
 v35: The enormous death toll is part of the received biblical account of miraculous deliverance. Assyrian records confirm Sennacherib’s campaign and Hezekiah’s confinement but interpret the outcome differently.
 v37: Sennacherib’s assassination occurred years after the Jerusalem campaign. The narrative moves directly from failed siege to eventual death without marking the intervening time.
 
-##Vocabulary
+## Vocabulary
 
 v03: מַשְׁבֵּר (mashber)
 “Opening of the womb” or birth crisis.

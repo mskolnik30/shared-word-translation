@@ -74,10 +74,10 @@ v31: Thus all the days of Lamech were seven hundred seventy-seven years, and he 
 v32: After Noah was five hundred years old, Noah fathered Shem, Ham, and Japheth.
 </p>
 ## Notes
-v1–2: The genealogy begins by recalling creation. Human identity is grounded not merely in ancestry but in God’s creative act and blessing.  
-v3: Adam’s son is described as being in Adam’s likeness and image. The language echoes Genesis 1 and highlights the transmission of humanity across generations.  
-v5: The repeated refrain “and he died” punctuates the chapter, reminding the reader of the consequence announced in Eden.  
-v6–20: The genealogy emphasizes continuity through birth, life, and death. Individual details are sparse, drawing attention to the pattern itself.  
+v01–02: The genealogy begins by recalling creation. Human identity is grounded not merely in ancestry but in God’s creative act and blessing.  
+v03: Adam’s son is described as being in Adam’s likeness and image. The language echoes Genesis 1 and highlights the transmission of humanity across generations.  
+v05: The repeated refrain “and he died” punctuates the chapter, reminding the reader of the consequence announced in Eden.  
+v06–20: The genealogy emphasizes continuity through birth, life, and death. Individual details are sparse, drawing attention to the pattern itself.  
 v21–24: Enoch interrupts the rhythm of the chapter. Instead of “and he died,” the text says that God took him.  
 v22: “Walked with God” suggests an ongoing relationship rather than a single act of devotion.  
 v24: The statement “he was no more” remains intentionally restrained. The text does not explain the manner of Enoch’s departure.  
@@ -86,15 +86,15 @@ v31: Lamech’s lifespan of 777 years contrasts with his namesake in Cain’s li
 v32: The genealogy slows at Noah, preparing for the transition from ancestral history to the flood narrative.  
 v05: The repeated refrain “and he died” punctuates the chapter and echoes the mortality announced in Eden.
 
-##Vocabulary
+## Vocabulary
 
-v1: תּוֹלְדוֹת (tôlĕdôt)  
+v01: תּוֹלְדוֹת (tôlĕdôt)  
 “Generations” or “account.” A recurring structural term that introduces major sections of Genesis.  
 
-v1: דְּמוּת (dĕmût)  
+v01: דְּמוּת (dĕmût)  
 “Likeness.” Refers to resemblance or pattern, echoing humanity’s creation in relation to God.  
 
-v3: צֶלֶם (ṣelem)  
+v03: צֶלֶם (ṣelem)  
 “Image.” A term associated with representation and identity.  
 
 v22: הָלַךְ (hālak)  
@@ -118,5 +118,3 @@ v29: אֲדָמָה (ʾădāmâ)
 v32: יָלַד (yālad)  
 “To bear” or “father.” A central verb throughout genealogical narratives, emphasizing continuity between generations.  
 
-v01: תּוֹלְדוֹת (tôlĕdôt)
-“Generations” or “account.” A recurring structural term that introduces major sections of Genesis.

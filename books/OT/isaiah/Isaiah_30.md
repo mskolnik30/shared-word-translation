@@ -75,14 +75,14 @@ v32: Every stroke of the rod of punishment, which the LORD will lay on him, will
 v33: For his burning place has long been ready. Yes, for the king it is made ready. He has made its pyre deep and large with fire and much wood. the LORD's breath, like a stream of sulfur, kindles it.
 </p>
 ## Notes
-v7: Egypt is nicknamed “Rahab who sits still,” turning an image of mythic strength into a critique of political uselessness.  
+v07: Egypt is nicknamed “Rahab who sits still,” turning an image of mythic strength into a critique of political uselessness.  
 v11: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
 v19: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
 v28: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
-##Vocabulary
+## Vocabulary
 
-v7: רַהַב (Rahav)  
+v07: רַהַב (Rahav)  
 “Rahab.” Here a poetic nickname for Egypt, evoking strength that proves inactive.  
 
 v11: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
@@ -97,5 +97,3 @@ v19: צִיּוֹן (tsiyyon)
 v28: גּוֹיִם (goyim)
 “Nations” or “peoples.” Peoples beyond Israel.
 
-v07: רַהַב (Rahav)
-“Rahab.” Here a poetic nickname for Egypt, evoking strength that proves inactive.

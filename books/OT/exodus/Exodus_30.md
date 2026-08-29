@@ -114,7 +114,7 @@ v32–33: The anointing oil’s formula is restricted. Holiness includes protect
 v34: Stacte, onycha, and galbanum are traditional identifications of rare Hebrew aromatic terms; precise botanical or mineral equivalence remains uncertain.
 v35: “salted” may describe the incense as seasoned with salt or otherwise ritually prepared. TSW retains the concrete term.
 
-##Vocabulary
+## Vocabulary
 
 v01: קְטֹרֶת (qetoret)
 “Incense.” Fragrant material burned before the LORD.

@@ -41,29 +41,29 @@ v09: Exalt the LORD our God,
   and bow down at his holy mountain;
   for the LORD our God is holy.
 </p>
-##Notes
+## Notes
 
 v04: “The strength of the king loves justice” — The Hebrew syntax is compact and slightly ambiguous.
 
-##Vocabulary
+## Vocabulary
 
-v1: יְהוָה מָלָךְ (*YHWH malakh*) — “The LORD reigns”; royal enthronement formula announcing divine kingship.
+v01: יְהוָה מָלָךְ (*YHWH malakh*) — “The LORD reigns”; royal enthronement formula announcing divine kingship.
 
-v1: כְּרוּבִים (*keruvim*) — cherubim; throne guardians associated with the ark and divine presence.
+v01: כְּרוּבִים (*keruvim*) — cherubim; throne guardians associated with the ark and divine presence.
 
-v3: קָדוֹשׁ (*qadosh*) — holy; set apart, distinct, wholly other.
+v03: קָדוֹשׁ (*qadosh*) — holy; set apart, distinct, wholly other.
 
-v4: מִשְׁפָּט (*mishpat*) — justice; judicial order, right judgment.
+v04: מִשְׁפָּט (*mishpat*) — justice; judicial order, right judgment.
 
-v4: צְדָקָה (*tsedaqah*) — righteousness; relational rightness, covenantal faithfulness.
+v04: צְדָקָה (*tsedaqah*) — righteousness; relational rightness, covenantal faithfulness.
 
-v5: הֲדֹם רַגְלָיו (*hadom raglav*) — footstool of his feet; royal-temple imagery expressing sovereignty with proximity.
+v05: הֲדֹם רַגְלָיו (*hadom raglav*) — footstool of his feet; royal-temple imagery expressing sovereignty with proximity.
 
-v7: עֵדוֹת (*edot*) — testimonies; covenantal stipulations bearing witness to divine will.
+v07: עֵדוֹת (*edot*) — testimonies; covenantal stipulations bearing witness to divine will.
 
-v8: נֹשֵׂא (*nose’*) — forgiving, bearing away; participial form suggesting ongoing disposition.
+v08: נֹשֵׂא (*nose’*) — forgiving, bearing away; participial form suggesting ongoing disposition.
 
-v8: נֹקֵם (*noqem*) — avenger; one who executes justice or retribution.
+v08: נֹקֵם (*noqem*) — avenger; one who executes justice or retribution.
   
 
 v03: קָדוֹשׁ (qadosh)

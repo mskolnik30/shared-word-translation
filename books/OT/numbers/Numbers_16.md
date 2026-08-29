@@ -110,7 +110,7 @@ v30: “creates a new thing” — The Hebrew verb is the ordinary verb “creat
 v32: The relationship between Korah’s household and the later survival of Korahite descendants is not explained here; later texts refer to surviving sons of Korah.
 v48: Aaron stands physically “between the dead and the living,” turning priestly incense into an act of intercession at the boundary of the plague.
 
-##Vocabulary
+## Vocabulary
 
 v03: עֵדָה (edah)
 “Congregation” or “assembly.” The gathered covenant community.

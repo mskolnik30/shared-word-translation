@@ -73,15 +73,15 @@ and for destroying the destroyers of the earth.”
 v19: Then God’s temple in heaven was opened, and the ark of his covenant was seen within his temple. There were flashes of lightning, rumblings, peals of thunder, an earthquake, and heavy hail.
 </p>
 ## Notes
-v1: Measuring marks distinction; inclusion and exclusion are both intentional.
-v2: The outer court is relinquished, not overlooked.
-v2–3: Time is expressed in differing forms (months, days) without harmonization.
-v4: Symbolic identification is given without explanation.
-v5: Speech functions as instrument of judgment.
-v6: Authority is patterned after earlier prophetic acts without explicit reference.
-v7: The beast emerges only when testimony is complete.
-v8: The city is named symbolically; multiple identities are layered.
-v9–10: Public exposure replaces burial; reaction is communal and inverted.
+v01: Measuring marks distinction; inclusion and exclusion are both intentional.
+v02: The outer court is relinquished, not overlooked.
+v02–03: Time is expressed in differing forms (months, days) without harmonization.
+v04: Symbolic identification is given without explanation.
+v05: Speech functions as instrument of judgment.
+v06: Authority is patterned after earlier prophetic acts without explicit reference.
+v07: The beast emerges only when testimony is complete.
+v08: The city is named symbolically; multiple identities are layered.
+v09–10: Public exposure replaces burial; reaction is communal and inverted.
 v11: Life is restored without process; origin is attributed directly to God.
 v12: Ascent mirrors earlier patterns without explanation.
 v13: Partial destruction leads to partial response; not all resist.
@@ -91,33 +91,33 @@ v17: Divine identity is condensed; future element is not repeated.
 v18: Judgment and reward are presented together without sequencing.
 v19: The temple is opened; what was hidden is now seen.
 
-##Vocabulary
+## Vocabulary
 
-v1: κάλαμος (kalamos)
+v01: κάλαμος (kalamos)
 
 “Measuring rod.” Instrument for assessment or delineation.
 
-v2: ἔθνη (ethnē)
+v02: ἔθνη (ethnē)
 
 “Nations.” Peoples outside defined covenant identity.
 
-v3: μάρτυς (martys)
+v03: μάρτυς (martys)
 
 “Witness.” One who testifies, often at cost.
 
-v4: ἐλαία (elaia)
+v04: ἐλαία (elaia)
 
 “Olive tree.” Symbol associated with provision or anointing.
 
-v6: ἐξουσία (exousia)
+v06: ἐξουσία (exousia)
 
 “Authority.” Delegated power to act.
 
-v7: θηρίον (thērion)
+v07: θηρίον (thērion)
 
 “Beast.” A figure of opposition, not defined here.
 
-v8: πνευματικῶς (pneumatikōs)
+v08: πνευματικῶς (pneumatikōs)
 
 “Symbolically” or “spiritually.” Indicates layered meaning.
 
@@ -132,11 +132,3 @@ v18: ὀργή (orgē)
 
 “Wrath.” Directed response, not uncontrolled anger.
 
-v01: κάλαμος (kalamos)
-“Measuring rod.” Instrument for assessment or delineation.
-
-v02: ἔθνη (ethnē)
-“Nations.” Peoples outside defined covenant identity.
-
-v03: μάρτυς (martys)
-“Witness.” One who testifies, often at cost.

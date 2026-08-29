@@ -102,7 +102,7 @@ v25: Jeremiah’s command to “establish your vows” is ironic judgment, not a
 v28: A small number will return, preserving an exception inside an otherwise severe judgment oracle.
 v30: Pharaoh Hophra—Apries in Greek sources—becomes the confirming sign that Egypt itself cannot provide the security the Judean refugees sought.
 
-##Vocabulary
+## Vocabulary
 
 v01: פַּתְרוֹס (Pathros)
 “Pathros.” A designation for Upper Egypt.

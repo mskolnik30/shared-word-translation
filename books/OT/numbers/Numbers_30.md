@@ -58,7 +58,7 @@ v05: A vow nullified by legitimate household authority does not become the woman
 v13: “to humble herself” likely includes vows involving fasting or self-denial, but the phrase is broader than one specific practice.
 v15: Delayed nullification shifts guilt to the husband, because his initial silence had already confirmed the vow.
 
-##Vocabulary
+## Vocabulary
 
 v02: נֶדֶר (neder)
 “Vow.” A solemn promise made to the LORD.

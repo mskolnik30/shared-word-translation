@@ -55,7 +55,7 @@ v04–06: Jeremiah is offered unusual freedom of movement by the conquerors and 
 v09–12: Gedaliah’s policy of submission to Babylon produces a brief period of agricultural recovery and the return of Judean refugees.
 v14–16: Gedaliah refuses to believe the warning concerning Ishmael. His refusal of preventive violence is followed in chapter 41 by the assassination Johanan predicted.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֲזִקִּים (aziqqim)
 “Chains” or “fetters.” Jeremiah is found bound among the deportees.

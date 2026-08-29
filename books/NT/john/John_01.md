@@ -119,10 +119,10 @@ v50: Jesus answered him, “Do you believe because I told you that I saw you und
 v51: And he said to him, “Truly, truly, I say to you, you will see heaven opened and the angels of God ascending and descending upon the Son of Man.”
 </p>
 ## Notes
-v1–3: The prologue echoes the opening words of Genesis 1. The Word (Logos) is identified neither with God simply nor with creation simply, but with both—the means by which all things come to be.  
-v3–4: A textual question stands at the boundary of these verses. Some witnesses read “not one thing came into being. That which has come into being in him was life”; others, “not one thing came into being that has come into being. In him was life.” The translation reflects the first arrangement; the alternative is preserved in tradition.  
-v5: The verb “overcome” (κατέλαβεν) is ambiguous in Greek; it can mean “grasp” (as in comprehend) or “seize” (as in overpower). The translation chooses the second; the first is also defensible and remains within the word.  
-v6–9: A break in the hymnic prologue. John the Baptist is introduced briefly so that the cosmic frame is preserved without being closed off from human history.  
+v01–03: The prologue echoes the opening words of Genesis 1. The Word (Logos) is identified neither with God simply nor with creation simply, but with both—the means by which all things come to be.  
+v03–04: A textual question stands at the boundary of these verses. Some witnesses read “not one thing came into being. That which has come into being in him was life”; others, “not one thing came into being that has come into being. In him was life.” The translation reflects the first arrangement; the alternative is preserved in tradition.  
+v05: The verb “overcome” (κατέλαβεν) is ambiguous in Greek; it can mean “grasp” (as in comprehend) or “seize” (as in overpower). The translation chooses the second; the first is also defensible and remains within the word.  
+v06–09: A break in the hymnic prologue. John the Baptist is introduced briefly so that the cosmic frame is preserved without being closed off from human history.  
 v14: “Lived among us” renders ἐσκήνωσεν, literally “tented” or “tabernacled.” The verb evokes the wilderness tabernacle and the divine presence dwelling with Israel.  
 v14: “Only” renders μονογενής, traditionally “only-begotten.” The word names singularity rather than the mode of generation.  
 v17: The contrast is not between law and grace as opposites, but between covenant gifts—Moses’s gift, and the gift now given through Jesus Christ.  
@@ -134,13 +134,13 @@ v51: “Truly, truly” (ἀμὴν ἀμὴν) is a doubled Hebrew word retaine
 v03–04: A textual question stands at the boundary of these verses.
 v05: The verb “overcome” (κατέλαβεν) is ambiguous in Greek; it can mean “grasp” (as in comprehend) or “seize” (as in overpower).
 
-##Vocabulary
+## Vocabulary
 
-v1: λόγος (logos) — Word, speech, reason. Denotes both the spoken word and the underlying ordering principle of meaning.  
+v01: λόγος (logos) — Word, speech, reason. Denotes both the spoken word and the underlying ordering principle of meaning.  
 
-v5: καταλαμβάνω (katalambanō) — To seize, to grasp, to overcome. The double sense is preserved deliberately.  
+v05: καταλαμβάνω (katalambanō) — To seize, to grasp, to overcome. The double sense is preserved deliberately.  
 
-v9: ἀληθινός (alēthinos) — True, genuine; what corresponds to its essential nature.  
+v09: ἀληθινός (alēthinos) — True, genuine; what corresponds to its essential nature.  
 
 v14: σκηνόω (skēnoō) — To dwell as in a tent, to tabernacle. Evokes the wilderness presence of God.  
 

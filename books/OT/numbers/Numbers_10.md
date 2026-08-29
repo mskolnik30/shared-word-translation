@@ -92,7 +92,7 @@ v29: The Hebrew relationship in “Hobab son of Reuel the Midianite, Moses’ fa
 v31: Hobab’s practical knowledge of the wilderness does not replace the guiding cloud. Human experience and divine guidance are placed beside one another rather than treated as rivals.
 v35–36: These short sayings frame the ark’s movement and rest as the movement and rest of the LORD among Israel.
 
-##Vocabulary
+## Vocabulary
 
 v02: חֲצוֹצְרָה (chatsotserah)
 “Trumpet.” A long silver instrument used for signals and sacred occasions.

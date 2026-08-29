@@ -97,7 +97,7 @@ v32: The bones of Joseph, which the sons of Israel had brought up from Egypt, th
 v33: Eleazar son of Aaron died, and they buried him at Gibeah of Phinehas his son, which had been given to him in the hill country of Ephraim.
 </p>
 ## Notes
-v1–3: The gathering at Shechem frames a formal covenant setting. History is rehearsed from divine perspective—“I took… I led… I gave.”
+v01–03: The gathering at Shechem frames a formal covenant setting. History is rehearsed from divine perspective—“I took… I led… I gave.”
 v14–15: The call is exclusive and immediate—“choose this day.” Service is framed as a decisive allegiance.
 v15: Household declaration (“me and my house”) models leadership as representative commitment.
 v16–18: The people respond with historical memory—deliverance grounds their pledge.
@@ -106,25 +106,25 @@ v21–22: The people insist, and their words bind them—self-witness becomes co
 v23–24: Internal and external alignment is required—removal of foreign gods and inclination of heart.
 v25: Covenant is formalized with legal language—statute and ordinance mark enduring obligation.
 
-##Vocabulary
+## Vocabulary
 
-v1: קָהָל (qāhāl)  
+v01: קָהָל (qāhāl)  
 
 “Assembly.” Gathered community for covenant action.
 
-v1: זָקֵן (zāqēn)  
+v01: זָקֵן (zāqēn)  
 
 “Elder.” Recognized leader within the people.
 
-v2: עָבַד (ʿāḇaḏ)  
+v02: עָבַד (ʿāḇaḏ)  
 
 “To serve.” To give allegiance or worship.
 
-v3: לָקַח (lāqaḥ)  
+v03: לָקַח (lāqaḥ)  
 
 “To take.” To choose or bring.
 
-v3: רָבָה (rāḇāh)  
+v03: רָבָה (rāḇāh)  
 
 “To multiply.” To increase greatly.
 
@@ -173,5 +173,3 @@ v25: מִשְׁפָּט (mišpāṭ)
 
 “Ordinance.” Legal judgment or regulation.
 
-v01: קָהָל (qāhāl)
-“Assembly.” Gathered community for covenant action.

@@ -50,20 +50,20 @@ shepherd them and carry them
 forever.
 </p>
 ## Notes
-v1: The plea moves from God’s apparent deafness to God’s silence. Both images express the terror of being left without an answer, a condition likened to joining those who descend to the Pit.  
-v4–5: The request for recompense is grounded in the opponents’ disregard for the LORD’s works. Their destructive end mirrors their failure to recognize what God does and makes.  
-v8: “For them” is plural, while “his anointed one” is singular. The verse may hold together the people and their king without specifying precisely how they relate.  
-v9: The closing prayer joins images of inheritance, shepherding, and carrying. God’s saving care is asked not only for present rescue but “forever.”  
+v01: The plea moves from God’s apparent deafness to God’s silence. Both images express the terror of being left without an answer, a condition likened to joining those who descend to the Pit.  
+v04–05: The request for recompense is grounded in the opponents’ disregard for the LORD’s works. Their destructive end mirrors their failure to recognize what God does and makes.  
+v08: “For them” is plural, while “his anointed one” is singular. The verse may hold together the people and their king without specifying precisely how they relate.  
+v09: The closing prayer joins images of inheritance, shepherding, and carrying. God’s saving care is asked not only for present rescue but “forever.”  
 
-##Vocabulary
+## Vocabulary
 
-v1: **צוּר — *tsur***: “Rock” names the LORD as the psalmist’s secure and enduring refuge, set against the threat of descending to the Pit.  
+v01: **צוּר — *tsur***: “Rock” names the LORD as the psalmist’s secure and enduring refuge, set against the threat of descending to the Pit.  
 
-v2: **דְּבִיר — *devir***: “Inner sanctuary” refers to the most holy interior of the sanctuary, the direction toward which the psalmist raises their hands in prayer.  
+v02: **דְּבִיר — *devir***: “Inner sanctuary” refers to the most holy interior of the sanctuary, the direction toward which the psalmist raises their hands in prayer.  
 
-v8: **מָשִׁיחַ — *mashiach***: “Anointed one” commonly denotes the king consecrated for God’s service. Here the term stands alongside the plural “them,” linking the LORD’s saving strength with both ruler and people.  
+v08: **מָשִׁיחַ — *mashiach***: “Anointed one” commonly denotes the king consecrated for God’s service. Here the term stands alongside the plural “them,” linking the LORD’s saving strength with both ruler and people.  
 
-v9: **רָעָה — *ra'ah***: “Shepherd” portrays God’s sustaining rule and care for the people who are called God’s inheritance.  
+v09: **רָעָה — *ra'ah***: “Shepherd” portrays God’s sustaining rule and care for the people who are called God’s inheritance.  
 
 v01: צוּר (tsur)
 “Rock” names the LORD as the psalmist’s secure and enduring refuge, set against the threat of descending to the Pit.

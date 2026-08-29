@@ -113,8 +113,8 @@ v29: For the tabernacle of the LORD, which Moses had made in the wilderness, and
 v30: But David could not go before it to inquire of God, for he was terrified by the sword of the angel of the LORD.
 </p>
 ## Notes
-v1: **21:1** “Satan” means an adversary or accuser. Here the word functions as a personal figure acting against Israel and inciting David, while the chapter also holds David accountable for his own command and confession.  
-v3: **21:3** Joab’s objection does not explain precisely why the census is wrong. His language frames the people as already belonging to the king and warns that the undertaking will bring guilt upon Israel.  
+v01: **21:1** “Satan” means an adversary or accuser. Here the word functions as a personal figure acting against Israel and inciting David, while the chapter also holds David accountable for his own command and confession.  
+v03: **21:3** Joab’s objection does not explain precisely why the census is wrong. His language frames the people as already belonging to the king and warns that the undertaking will bring guilt upon Israel.  
 v13: **21:13** David chooses to fall into the LORD’s hand because of the greatness of divine mercies, yet the result is still a devastating plague. The verse holds mercy and judgment together without minimizing either.  
 v15: **21:15** “Relented” describes a change in God’s action concerning the disaster. The narrative depicts God as seeing the destruction and commanding its end.  
 v17: **21:17** David calls the people “sheep,” accepting responsibility as their leader and pleading that judgment fall on him and his household rather than on them.  
@@ -122,12 +122,12 @@ v24: **21:24** David refuses an offering that costs him nothing. The purchase ma
 v25: **21:25** The six hundred shekels are given “for the place,” likely indicating the larger site rather than only the threshing floor and its immediate equipment.  
 v29–30: The narrative contrasts the established sanctuary and altar at Gibeon with the newly recognized altar at Ornan’s threshing floor. David’s fear of the angel’s sword prevents him from approaching the former site.
 
-##Vocabulary
+## Vocabulary
 
-v1: 1 — שָׂטָן (*satan*)  
+v01: 1 — שָׂטָן (*satan*)  
 “adversary” or “accuser.” In this chapter Satan stands against Israel and incites David’s census.  
 
-v3: 3 — אַשְׁמָה (*ashmah*)  
+v03: 3 — אַשְׁמָה (*ashmah*)  
 “guilt” or “culpability.” Joab fears that David’s command will bring communal guilt upon Israel.  
 
 v21: 26 — שְׁלָמִים (*shelamim*)  

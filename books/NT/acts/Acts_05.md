@@ -149,8 +149,8 @@ v41: Therefore they went out from the presence of the council, rejoicing that th
 v42: And every day, in the temple and from house to house, they were not ceasing to teach and proclaim Jesus as the Christ.
 </p>
 ## Notes
-v3–4: Deception is framed as lying to the Spirit and to God.  
-v5–11: Immediate judgment establishes seriousness of community integrity.  
+v03–04: Deception is framed as lying to the Spirit and to God.  
+v05–11: Immediate judgment establishes seriousness of community integrity.  
 v11: “Church” appears as defined community under divine authority.  
 v12–16: Signs both attract and create reverent distance.  
 v17–18: Opposition is motivated by jealousy, not doctrinal concern.  
@@ -161,23 +161,23 @@ v33: Conviction does not necessarily lead to repentance.
 v34–39: Gamaliel introduces a pragmatic test of divine origin.  
 v41–42: Suffering is reinterpreted as honor; proclamation continues without interruption.  
 
-##Vocabulary
+## Vocabulary
 
-v2: νοσφίζομαι (nosphizomai)  
+v02: νοσφίζομαι (nosphizomai)  
 
-v2: “To keep back.”  
+v02: “To keep back.”  
 
-v3: ψεύδομαι (pseudomai)  
+v03: ψεύδομαι (pseudomai)  
 
-v3: “To lie.”  
+v03: “To lie.”  
 
-v4: ἐξουσία (exousia)  
+v04: ἐξουσία (exousia)  
 
-v4: “Authority.”  
+v04: “Authority.”  
 
-v5: ἐκψύχω (ekpsycho)  
+v05: ἐκψύχω (ekpsycho)  
 
-v5: “To breathe one’s last.”  
+v05: “To breathe one’s last.”  
 
 v11: ἐκκλησία (ekklēsia)
 “Church.”

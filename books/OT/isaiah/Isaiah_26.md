@@ -57,7 +57,7 @@ v09: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationshi
 v09: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
 v01: “salvation” — Hebrew *yeshuah* and related roots describe deliverance, rescue, and the saving action of the LORD.
 
-##Vocabulary
+## Vocabulary
 
 v09: צְדָקָה (tsedaqah)
 “Righteousness.” Rightness and faithfulness in relationship and action.

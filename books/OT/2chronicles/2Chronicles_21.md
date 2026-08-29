@@ -79,7 +79,7 @@ v07: The “lamp” promise preserves David’s line despite Jehoram’s evil.
 v12: Elijah’s letter is chronologically surprising because Elijah’s departure is narrated earlier in Kings. Chronicles preserves a prophetic letter without explaining the timing.
 v20: “He departed without being desired” is a stark summary of a king whose death produces no public affection.
 
-##Vocabulary
+## Vocabulary
 
 v04: חָזַק (chazaq)
 “To strengthen oneself.”

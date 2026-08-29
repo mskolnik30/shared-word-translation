@@ -117,11 +117,11 @@ v32: Behold, an hour is coming, and has come, when you will be scattered each to
 v33: These things I have spoken to you so that in me you may have peace. In the world you have tribulation; but take courage, I have overcome the world.”
 </p>
 ## Notes
-v1–2: Forewarning aims at stability, not avoidance of suffering.
-v3: Ignorance of God underlies persecution.
-v7: Jesus’ departure is necessary for the Spirit’s arrival.
-v8–11: The Spirit interprets reality in terms of sin, righteousness, and judgment.
-v9: Unbelief is defined as the core sin.
+v01–02: Forewarning aims at stability, not avoidance of suffering.
+v03: Ignorance of God underlies persecution.
+v07: Jesus’ departure is necessary for the Spirit’s arrival.
+v08–11: The Spirit interprets reality in terms of sin, righteousness, and judgment.
+v09: Unbelief is defined as the core sin.
 v10: Righteousness is validated by Jesus’ return to the Father.
 v11: Judgment is already initiated against the ruler of this world.
 v12–13: Progressive revelation is mediated by the Spirit.
@@ -134,21 +134,21 @@ v27: Direct relationship with the Father is affirmed.
 v31–32: Confession is incomplete; failure is anticipated.
 v33: Peace is located in Jesus despite ongoing tribulation.
 
-##Vocabulary
+## Vocabulary
 
-v1: σκανδαλίζω (skandalizō)
+v01: σκανδαλίζω (skandalizō)
 
 “To cause to stumble.”
 
-v2: ἀποσυνάγωγος (aposynagōgos)
+v02: ἀποσυνάγωγος (aposynagōgos)
 
 “Put out of the synagogue.”
 
-v7: παράκλητος (paraklētos)
+v07: παράκλητος (paraklētos)
 
 “Helper.”
 
-v8: ἐλέγχω (elenchō)
+v08: ἐλέγχω (elenchō)
 
 “To convict.”
 
@@ -207,11 +207,3 @@ v33: νικάω (nikaō)
 
 “To overcome.”
 
-v01: σκανδαλίζω (skandalizō)
-“To cause to stumble.”
-
-v02: ἀποσυνάγωγος (aposynagōgos)
-“Put out of the synagogue.”
-
-v07: παράκλητος (paraklētos)
-“Helper.”

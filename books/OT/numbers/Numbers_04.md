@@ -104,7 +104,7 @@ v15: The Kohathites carry the most holy furnishings but do not prepare or uncove
 v20: Even looking upon the uncovered holy objects is prohibited. The text emphasizes boundaries of access rather than treating holiness as ordinary visibility.
 v49: Work is assigned person by person, joining communal service with particular responsibility.
 
-##Vocabulary
+## Vocabulary
 
 v03: צָבָא (tsava)
 “Service,” “host,” or “army.” Here organized sanctuary service.

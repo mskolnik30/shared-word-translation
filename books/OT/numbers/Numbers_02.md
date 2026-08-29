@@ -79,7 +79,7 @@ v03: “toward the sunrise” — The east is named through the movement of the 
 v17: The Levites and sanctuary move at the center of the marching order just as they occupy the center of the encamped community.
 v34: The repeated formula “according to all that the LORD commanded” presents the ordered camp as an act of obedience rather than merely administration.
 
-##Vocabulary
+## Vocabulary
 
 v02: דֶּגֶל (degel)
 “Standard.” A tribal marker around which a camp or military division assembled.

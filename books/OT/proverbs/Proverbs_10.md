@@ -159,7 +159,7 @@ v22: The syntax of the second line permits discussion over whether sorrow is add
 v25: The storm image contrasts temporary stability with a foundation capable of enduring upheaval.
 v29: The same “way of the LORD” is experienced differently according to one’s relationship to it: security for integrity and destruction for wrongdoing.
 
-##Vocabulary
+## Vocabulary
 
 v01: מָשָׁל (mashal)
 “Proverb” or “saying.” A compact wisdom expression.

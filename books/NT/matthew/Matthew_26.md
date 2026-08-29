@@ -185,9 +185,9 @@ v74: Then he began to invoke a curse on himself and to swear, “I do not know t
 v75: And Peter remembered the word Jesus had spoken: “Before the rooster crows, you will deny me three times.” And he went out and wept bitterly.
 </p>
 ## Notes
-v2: “the Son of Man is handed over” — Matthew places divine foreknowledge and human treachery side by side. Jesus is not overtaken by events; he names them before they unfold.
-v4–5: “by stealth… not during the festival” — The leaders are not restrained by justice but by optics. Their timing is governed by crowd management, not truth.
-v7: “poured it on his head” — Matthew presents the act in royal as well as burial-shaped terms. Anointing and death already stand together.
+v02: “the Son of Man is handed over” — Matthew places divine foreknowledge and human treachery side by side. Jesus is not overtaken by events; he names them before they unfold.
+v04–05: “by stealth… not during the festival” — The leaders are not restrained by justice but by optics. Their timing is governed by crowd management, not truth.
+v07: “poured it on his head” — Matthew presents the act in royal as well as burial-shaped terms. Anointing and death already stand together.
 v10: “a beautiful work” — Jesus names as beautiful what others dismiss as impractical. Devotion is not measured only by efficiency.
 v11: “you always have the poor with you” — This is not a dismissal of the poor but a recognition of the moment. Jesus refuses to let true concern become a weapon against love.
 v13: “in memory of her” — The woman’s act becomes part of the gospel’s telling. Faithful love is remembered alongside the passion itself.
@@ -210,21 +210,21 @@ v63–64: “the Christ, the Son of God… seated at the right hand of Power” 
 v67–68: mockery and violence — The one who is truly king is treated as disposable. Matthew lets humiliation stand in full view.
 v69–75: Peter’s denial — Bold promises collapse under pressure. Yet Peter’s bitter weeping shows that failure, though grave, has not ended in hardness.
 
-##Vocabulary
+## Vocabulary
 
-v2: πάσχα (pascha) — Passover
+v02: πάσχα (pascha) — Passover
 
-v2: παραδίδωμι (paradidōmi) — to hand over; to deliver up; to betray
+v02: παραδίδωμι (paradidōmi) — to hand over; to deliver up; to betray
 
-v2: σταυρόω (stauroō) — to crucify
+v02: σταυρόω (stauroō) — to crucify
 
-v4: κρατέω (krateō) — to seize; to take hold of
+v04: κρατέω (krateō) — to seize; to take hold of
 
-v4: δόλος (dolos) — deceit; cunning; stealth
+v04: δόλος (dolos) — deceit; cunning; stealth
 
-v7: ἀλάβαστρον (alabastron) — alabaster jar
+v07: ἀλάβαστρον (alabastron) — alabaster jar
 
-v7: μύρον (myron) — ointment; perfumed oil
+v07: μύρον (myron) — ointment; perfumed oil
 
 v10: κόπος (kopos) / καλὸν ἔργον (kalon ergon) — labor / beautiful work; good deed
 

@@ -54,7 +54,7 @@ v03: “dwelling places” — The Hebrew is plural. The translation retains the
 v04: “my exceeding joy” — The Hebrew intensifies the language of joy, literally approaching the sense of “the joy of my rejoicing.”
 v05: Psalm 43 has no superscription and repeats the refrain found in Psalm 42. The close literary relationship is preserved without collapsing the two canonical psalms into a single chapter.
 
-##Vocabulary
+## Vocabulary
 
 v01: שָׁפַט (shafat)
 “To judge.” To render judgment or establish what is right; here expressed as an appeal for vindication.

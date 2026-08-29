@@ -31,9 +31,9 @@ v09: Then all people will fear;
 v10: The righteous will rejoice in LORD and take refuge in him;
     all the upright in heart will glory.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: מִזְמוֹר (mizmor)
 “A technical term for a Psalm, often indicating a sung or chanted piece of music.”

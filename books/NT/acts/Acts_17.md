@@ -98,10 +98,10 @@ v33: So Paul went out from their midst.
 v34: But some men joined him and believed, among whom also were Dionysius the Areopagite and a woman named Damaris and others with them.
 </p>
 ## Notes
-v2–3: Paul’s method is described as reasoning “from the Scriptures,” not merely appealing to them. Explanation and demonstration are held together.  
-v3: “It was necessary” signals theological necessity, not mere circumstance. Suffering and resurrection belong to the identity of the Christ.  
-v5–7: The charge against Paul is political: allegiance to “another king.” The gospel is heard as a rival claim to imperial authority.  
-v6: “Turned the world upside down” reflects perception rather than endorsement. The accusation captures the disruptive force of the message.  
+v02–03: Paul’s method is described as reasoning “from the Scriptures,” not merely appealing to them. Explanation and demonstration are held together.  
+v03: “It was necessary” signals theological necessity, not mere circumstance. Suffering and resurrection belong to the identity of the Christ.  
+v05–07: The charge against Paul is political: allegiance to “another king.” The gospel is heard as a rival claim to imperial authority.  
+v06: “Turned the world upside down” reflects perception rather than endorsement. The accusation captures the disruptive force of the message.  
 v11: The Bereans are commended not for immediate agreement but for examination. Receptivity and discernment are held together.  
 v16: Paul’s provocation is internal before it becomes public. The sight of idolatry unsettles him at the level of spirit.  
 v18: “Babbler” suggests one who picks up scraps of ideas. The dismissal reflects both curiosity and contempt.  
@@ -116,19 +116,19 @@ v30: “Overlooked” does not imply indifference but delayed judgment. The pres
 v31: Resurrection functions as both assurance and boundary. It confirms the appointed judge and provokes division.  
 v32–34: Responses vary—mockery, delay, belief. The text does not resolve the outcome into a single pattern.  
 
-##Vocabulary
+## Vocabulary
 
-v2: διαλέγομαι (dialegomai)  
+v02: διαλέγομαι (dialegomai)  
 “To reason” or “to discuss.” The term implies exchange and argument rather than monologue.  
 
-v3: δεῖ (dei)  
+v03: δεῖ (dei)  
 
-v3: “It is necessary.” Often signals divine or scriptural necessity within Luke-Acts.  
+v03: “It is necessary.” Often signals divine or scriptural necessity within Luke-Acts.  
 
-v5: ζηλόω (zēloō)  
+v05: ζηλόω (zēloō)  
 “To be jealous” or “to be zealous.” The term can carry both envy and fervor, depending on context.  
 
-v6: ἀναστατόω (anastatoō)  
+v06: ἀναστατόω (anastatoō)  
 “To unsettle” or “to disturb.” Literally suggests upheaval or disorder.  
 
 v11: ἀνακρίνω (anakrinō)  
@@ -158,11 +158,6 @@ v31: πίστις (pistis)
 v34: κολλάομαι (kollaomai)  
 “To join” or “to attach.” Indicates relational and communal alignment, not merely intellectual agreement.  
 
-v02: διαλέγομαι (dialegomai)
-“To reason” or “to discuss.” The term implies exchange and argument rather than monologue.
-
 v03: δεῖ (dei)
 “It is necessary.” Often signals divine or scriptural necessity within Luke-Acts.
 
-v06: ἀναστατόω (anastatoō)
-“To unsettle” or “to disturb.” Literally suggests upheaval or disorder.

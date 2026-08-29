@@ -210,9 +210,9 @@ and shows steadfast love to his anointed,
 to David and his offspring forever.
 </p>
 ## Notes
-v1–3: Opening cluster of metaphors—God as refuge, strength, and deliverer.
-v4–6: Distress is overwhelming and total; prayer initiates the turning point.
-v7–15: Theophany imagery—cosmic upheaval signals divine intervention.
+v01–03: Opening cluster of metaphors—God as refuge, strength, and deliverer.
+v04–06: Distress is overwhelming and total; prayer initiates the turning point.
+v07–15: Theophany imagery—cosmic upheaval signals divine intervention.
 v16–19: Rescue is personal and deliberate; rooted in divine delight.
 v20–24: Righteousness language reflects covenant fidelity, not perfectionism.
 v25–26: God’s dealings mirror human orientation.
@@ -221,21 +221,21 @@ v31–42: Empowerment for battle—God acts through the psalmist.
 v43–45: Expansion beyond survival to dominion.
 v46–50: Concluding praise—personal deliverance becomes public testimony.
 
-##Vocabulary
+## Vocabulary
 
-v1: אָהַב (ahav)  
+v01: אָהַב (ahav)  
 “To love.” Deep attachment.
 
-v2: צוּר (tsur)  
+v02: צוּר (tsur)  
 “Rock.” Stability.
 
-v4: חֶבֶל (chevel)  
+v04: חֶבֶל (chevel)  
 “Cord.” Binding force.
 
-v6: שָׁוַע (shava)  
+v06: שָׁוַע (shava)  
 “To cry for help.” Plead.
 
-v7: רָעַשׁ (ra‘ash)  
+v07: רָעַשׁ (ra‘ash)  
 “To quake.” Shake.
 
 v10: כְּרוּב (keruv)  
@@ -268,14 +268,3 @@ v46: חַי (chai)
 v50: מָשִׁיחַ (mashiach)
 “Anointed.” Chosen king.
 
-v01: אָהַב (ahav)
-“To love.” Deep attachment.
-
-v02: צוּר (tsur)
-“Rock.” Stability.
-
-v04: חֶבֶל (chevel)
-“Cord.” Binding force.
-
-v06: שָׁוַע (shava)
-“To cry for help.” Plead.

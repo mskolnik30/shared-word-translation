@@ -98,7 +98,7 @@ v22: The narrative is intentionally graphic and humiliating toward Eglon. The He
 v24: “covering his feet” — An idiom for relieving oneself. The servants’ assumption delays discovery and enables Ehud’s escape.
 v31: Shamgar’s notice is brief and lacks the fuller cycle found elsewhere, yet he is explicitly said to have saved Israel.
 
-##Vocabulary
+## Vocabulary
 
 v01: נָסָה (nasah)
 “To test.” To expose or prove faithfulness through trial.

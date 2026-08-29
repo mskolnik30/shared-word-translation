@@ -61,28 +61,28 @@ v16: to the one a fragrance from death to death, to the other a fragrance from l
 v17: For we are not like so many, peddling the word of God; but as from sincerity, but as from God, in the presence of God, we speak in Christ.
 </p>
 ## Notes
-v1–3: Paul’s decision not to visit is framed relationally, not strategically. Presence would intensify sorrow rather than restore joy.
-v4: The letter itself is an act of love, even though it causes grief. Paul holds emotional pain and pastoral intention together.
-v5–7: Discipline is treated as communal, but so is restoration. The concern shifts from punishment to the danger of overwhelming sorrow.
-v8: Love must be reaffirmed publicly. Restoration is not assumed; it is enacted.
-v9: Obedience is tested not only in correction but in forgiveness.
+v01–03: Paul’s decision not to visit is framed relationally, not strategically. Presence would intensify sorrow rather than restore joy.
+v04: The letter itself is an act of love, even though it causes grief. Paul holds emotional pain and pastoral intention together.
+v05–07: Discipline is treated as communal, but so is restoration. The concern shifts from punishment to the danger of overwhelming sorrow.
+v08: Love must be reaffirmed publicly. Restoration is not assumed; it is enacted.
+v09: Obedience is tested not only in correction but in forgiveness.
 v10–11: Forgiveness is communal and spiritual. The threat is not only division but vulnerability to destructive forces.
 v12–13: Even with open opportunity for ministry, Paul’s internal unrest redirects him. Mission is not detached from relational concern.
 v14–16: The imagery of fragrance carries both attraction and division. The same message produces different outcomes without being altered.
 v16: The rhetorical question underscores the weight of ministry rather than resolving it.
 v17: Paul contrasts sincere proclamation with manipulation. Speech “in Christ” is defined by accountability to God rather than effectiveness alone.
 
-##Vocabulary
+## Vocabulary
 
-v4: θλῖψις (thlipsis)
+v04: θλῖψις (thlipsis)
 
 “Affliction” or “distress.” Emotional and external pressure are not separated.
 
-v4: συνοχή (synochē)
+v04: συνοχή (synochē)
 
 “Anguish” or “constraint.” The term conveys inner compression or tightness.
 
-v7: καταπίνω (katapinō)
+v07: καταπίνω (katapinō)
 
 “To swallow up” or “overwhelm.” The image suggests being consumed by sorrow.
 
@@ -101,11 +101,3 @@ v17: καπηλεύω (kapēleuō)
 
 “To peddle” or “to profit from.” Suggests corrupting something for gain.
 
-v04: θλῖψις (thlipsis)
-“Affliction” or “distress.” Emotional and external pressure are not separated.
-
-v04: συνοχή (synochē)
-“Anguish” or “constraint.” The term conveys inner compression or tightness.
-
-v07: καταπίνω (katapinō)
-“To swallow up” or “overwhelm.” The image suggests being consumed by sorrow.

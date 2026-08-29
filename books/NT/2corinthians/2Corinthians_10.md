@@ -59,50 +59,50 @@ v17: “Let the one who boasts, boast in the Lord.”
 v18: For it is not the one who commends himself who is approved, but the one whom the Lord commends.
 </p>
 ## Notes
-v1: Paul invokes “meekness and gentleness” as the basis of appeal, reframing strength away from dominance.  
-v1–2: The contrast between presence and absence reflects accusations against Paul. He does not deny the perception but reinterprets it.  
-v3–4: “According to the flesh” defines the mode of conflict. Paul distinguishes embodied existence from fleshly methods.  
-v4: “Strongholds” are not specified as physical or mental, leaving the scope open.  
-v5: The movement from arguments to thoughts shifts from public reasoning to internal orientation.  
-v6: Discipline is conditional. Communal obedience precedes corrective action.  
-v7: “What is before your eyes” suggests that perception itself is at issue.  
-v8: Authority is defined teleologically—given “for building up,” not self-assertion.  
-v9–10: The reported critique separates Paul’s letters from his presence. The tension is acknowledged without resolution.  
+v01: Paul invokes “meekness and gentleness” as the basis of appeal, reframing strength away from dominance.  
+v01–02: The contrast between presence and absence reflects accusations against Paul. He does not deny the perception but reinterprets it.  
+v03–04: “According to the flesh” defines the mode of conflict. Paul distinguishes embodied existence from fleshly methods.  
+v04: “Strongholds” are not specified as physical or mental, leaving the scope open.  
+v05: The movement from arguments to thoughts shifts from public reasoning to internal orientation.  
+v06: Discipline is conditional. Communal obedience precedes corrective action.  
+v07: “What is before your eyes” suggests that perception itself is at issue.  
+v08: Authority is defined teleologically—given “for building up,” not self-assertion.  
+v09–10: The reported critique separates Paul’s letters from his presence. The tension is acknowledged without resolution.  
 v11: Consistency between speech and action is asserted, not demonstrated.  
 v12: Self-comparison is treated as a closed system that produces distortion.  
 v13–14: “Measure” and “sphere” establish boundaries for ministry, resisting expansion through appropriation.  
 v15–16: Expansion is tied to the community’s growth, not competitive ambition.  
 v17–18: Boasting is redirected from self-commendation to divine commendation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: πραΰτης (prautēs)  
+v01: πραΰτης (prautēs)  
 
-v1: “Meekness.” Strength expressed without harshness.  
+v01: “Meekness.” Strength expressed without harshness.  
 
-v1: ἐπιείκεια (epieikeia)  
+v01: ἐπιείκεια (epieikeia)  
 
-v1: “Gentleness” or “forbearance.” A moderated, patient disposition.  
+v01: “Gentleness” or “forbearance.” A moderated, patient disposition.  
 
-v3: σάρξ (sarx)  
+v03: σάρξ (sarx)  
 
-v3: “Flesh.” Here indicating a mode of operation, not merely physicality.  
+v03: “Flesh.” Here indicating a mode of operation, not merely physicality.  
 
-v4: ὀχύρωμα (ochyrōma)  
+v04: ὀχύρωμα (ochyrōma)  
 
-v4: “Stronghold.” A fortified position, literal or metaphorical.  
+v04: “Stronghold.” A fortified position, literal or metaphorical.  
 
-v4: λογισμός (logismos)  
+v04: λογισμός (logismos)  
 
-v4: “Argument” or “reasoning.” Structured thought or calculation.  
+v04: “Argument” or “reasoning.” Structured thought or calculation.  
 
-v5: αἰχμαλωτίζω (aichmalōtizō)  
+v05: αἰχμαλωτίζω (aichmalōtizō)  
 
-v5: “To take captive.” To bring under control or submission.  
+v05: “To take captive.” To bring under control or submission.  
 
-v8: ἐξουσία (exousia)  
+v08: ἐξουσία (exousia)  
 
-v8: “Authority.” Delegated capacity for action.  
+v08: “Authority.” Delegated capacity for action.  
 
 v12: συνίημι (syniēmi)  
 

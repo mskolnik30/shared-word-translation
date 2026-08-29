@@ -99,7 +99,7 @@ v38: Aaron’s death is one of the few itinerary entries supplied with an exact 
 v52: The objects named include carved or figured stones, cast images, and elevated cultic sites. The command concerns destruction of the land’s rival worship structures.
 v55–56: The warning reverses the conquest command: failure to remove the inhabitants will result in ongoing affliction, and Israel itself can become the object of the judgment intended for others.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַסַּע (massa)
 “Stage” or “journey.” A segment in a larger sequence of travel.

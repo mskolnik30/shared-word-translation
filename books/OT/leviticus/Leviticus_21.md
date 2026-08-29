@@ -55,7 +55,7 @@ v10–12: The high priest bears even stricter mourning restrictions than other p
 v17–23: Priests with physical defects remain priests and may eat holy portions; the restriction concerns particular sanctuary approaches and altar service, not exclusion from the priestly household.
 v18–20: Several Hebrew terms for specific physical conditions are uncertain. TSW uses cautious descriptive English rather than claiming medical precision not available from the text.
 
-##Vocabulary
+## Vocabulary
 
 v01: כֹּהֵן (kohen)
 “Priest.” One set apart for sanctuary service.

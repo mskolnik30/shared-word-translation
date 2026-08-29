@@ -130,13 +130,13 @@ v30: There was war between Rehoboam and Jeroboam all their days.
 <p>
 v31: Then Rehoboam lay down with his ancestors and was buried with his ancestors in the city of David. His mother’s name was Naamah the Ammonite. Abijam his son became king in his place.
 </p>
-##Notes
+## Notes
 
 v02: “That you are”: The Hebrew text preserves both a written form and a traditional reading here.
 
 v25: The name “Shishak” is written twice in the Hebrew textual tradition at this point; the translation gives it once.
 
-##Vocabulary
+## Vocabulary
 
 v08: מַמְלָכָה (mamlakhah)
 “Kingdom.” A realm or royal dominion.

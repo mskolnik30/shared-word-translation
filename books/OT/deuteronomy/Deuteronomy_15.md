@@ -83,7 +83,7 @@ v17: The ear-piercing rite resembles Exodus 21 but explicitly applies also to th
 v18: “twice the wages” may mean the servant’s six-year labor had economic value equivalent to twice that of a hired worker over comparable time. The exact calculation is not specified.
 v19–23: Firstborn livestock are consecrated, but defective animals are treated as ordinary meat rather than sacrificed.
 
-##Vocabulary
+## Vocabulary
 
 v01: שְׁמִטָּה (shemittah)
 “Release.” The seventh-year remission of claims.

@@ -92,7 +92,7 @@ v13: Elihu warns the friends not to retreat into the claim that only God could a
 v18–20: The imagery of fermenting wine in sealed skins depicts Elihu’s intense compulsion to speak, but the narrative does not itself declare his coming speech inspired.
 v21–22: Elihu claims impartiality, a significant concern in a book dominated by legal and judicial imagery.
 
-##Vocabulary
+## Vocabulary
 
 v02: חָרָה אַף (charah af)
 “Anger burned.” The repeated idiom describing Elihu’s reaction.

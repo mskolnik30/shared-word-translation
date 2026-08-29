@@ -99,12 +99,12 @@ v34: So the name of that place was called Kibroth-hattaavah, because there they 
 v35: From Kibroth-hattaavah the people journeyed to Hazeroth, and they remained at Hazeroth.
 </p>
 ## Notes
-v1: Complaint is described as “evil” in the hearing of the LORD. The issue is not merely dissatisfaction but its character before God.
-v1–3: Fire functions both as judgment and as boundary, consuming “the edge of the camp.”
-v4: The “mixed multitude” introduces internal complexity. Desire spreads beyond origin.
-v5–6: Memory of Egypt is reshaped by hunger. Former oppression is recalled as abundance.
-v6: “Our soul is dried up” preserves the embodied sense of depletion.
-v7–9: The detailed description of manna stands in contrast to its rejection. Provision is neither hidden nor insufficient.
+v01: Complaint is described as “evil” in the hearing of the LORD. The issue is not merely dissatisfaction but its character before God.
+v01–03: Fire functions both as judgment and as boundary, consuming “the edge of the camp.”
+v04: The “mixed multitude” introduces internal complexity. Desire spreads beyond origin.
+v05–06: Memory of Egypt is reshaped by hunger. Former oppression is recalled as abundance.
+v06: “Our soul is dried up” preserves the embodied sense of depletion.
+v07–09: The detailed description of manna stands in contrast to its rejection. Provision is neither hidden nor insufficient.
 v10: Weeping is communal yet fragmented—“each at the entrance of his tent.”
 v11–15: Moses’ complaint mirrors the people’s, but it is directed toward God. Leadership is expressed as burden rather than privilege.
 v12: Parental imagery (conceiving, bearing, nursing) is used and resisted. Moses rejects total responsibility for the people.
@@ -119,21 +119,21 @@ v31–33: Provision and judgment coincide. The same gift (quail) becomes the occ
 v34: Naming (“graves of craving”) interprets the event through its cause.
 v35: Movement continues. The narrative does not resolve tension before proceeding.
 
-##Vocabulary
+## Vocabulary
 
-v1: רָעַע (raʿaʿ)
+v01: רָעַע (raʿaʿ)
 “To be evil.” Used here to characterize the complaint itself.
 
-v1: אֵשׁ (ʾesh)
+v01: אֵשׁ (ʾesh)
 “Fire.” Often a sign of divine presence in judgment.
 
-v4: תַּאֲוָה (taʾavah)
+v04: תַּאֲוָה (taʾavah)
 “Craving” or “desire.” A strong, consuming longing.
 
-v6: נֶפֶשׁ (nephesh)
+v06: נֶפֶשׁ (nephesh)
 “Soul” or “life.” Refers to the whole living self.
 
-v7: מָן (man)
+v07: מָן (man)
 “Manna.” The term is left untranslated as a proper name.
 
 v10: חָרָה (ḥarah)
@@ -169,11 +169,3 @@ v34: קִבְרוֹת הַתַּאֲוָה (Kivrot ha-taʾavah)
 v35: חָצֵרוֹת (Hazerot)
 “Hazeroth.” A location marking the next stage of the journey.
 
-v01: רָעַע (raʿaʿ)
-“To be evil.” Used here to characterize the complaint itself.
-
-v01: אֵשׁ (ʾesh)
-“Fire.” Often a sign of divine presence in judgment.
-
-v06: נֶפֶשׁ (nephesh)
-“Soul” or “life.” Refers to the whole living self.

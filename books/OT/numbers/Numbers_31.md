@@ -114,7 +114,7 @@ v19–24: Victory does not eliminate corpse impurity. Warriors, captives, clothi
 v27–30: The plunder is divided between combatants and congregation, and each share contributes a different proportion to priestly or Levitical service.
 v49: The officers’ offering responds to the report that not one Israelite warrior is missing, turning survival into a memorial before the LORD.
 
-##Vocabulary
+## Vocabulary
 
 v02: נָקַם (naqam)
 “To avenge” or “take vengeance.” Judicial retaliation assigned here by the LORD.

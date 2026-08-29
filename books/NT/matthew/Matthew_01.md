@@ -71,10 +71,10 @@ v24: And Joseph rose from sleep and did as the angel of the Lord commanded him: 
 v25: but he did not know her until she had borne a son. And he called his name Jesus.
 </p>
 ## Notes
-v1: “Book of the genealogy” signals both record and narrative opening; Matthew frames Jesus within covenant history rather than beginning with birth alone.  
-v3: Inclusion of Tamar introduces irregular lineage; Matthew does not sanitize the line but foregrounds it.  
-v5: Rahab and Ruth—Gentile women—anticipate the widening scope of the Messiah’s mission.  
-v6: “David the king” marks the royal hinge of the genealogy; the structure centers on kingship.  
+v01: “Book of the genealogy” signals both record and narrative opening; Matthew frames Jesus within covenant history rather than beginning with birth alone.  
+v03: Inclusion of Tamar introduces irregular lineage; Matthew does not sanitize the line but foregrounds it.  
+v05: Rahab and Ruth—Gentile women—anticipate the widening scope of the Messiah’s mission.  
+v06: “David the king” marks the royal hinge of the genealogy; the structure centers on kingship.  
 v11: Deportation to Babylon functions as theological rupture, not merely historical transition.  
 v16: “From whom Jesus was born” shifts grammar—Joseph is not said to father Jesus; the line narrows to Mary.  
 v17: The threefold fourteen pattern is schematic, emphasizing theological ordering over strict biological completeness.  
@@ -84,7 +84,7 @@ v21: “Jesus” (Yeshua) explicitly tied to saving action; name and mission are
 v23: “Immanuel” interprets the birth as divine presence, not merely divine action.  
 v25: “Did not know her” preserves both virginal conception and ordinary marital progression afterward.
 
-##Vocabulary
+## Vocabulary
 
 v01: Χριστός (Christos)
 “Messiah; Anointed One.” A royal title rooted in Israel’s expectation of an anointed ruler.

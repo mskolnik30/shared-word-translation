@@ -117,9 +117,9 @@ v38: But new wine must be put into fresh wineskins.
 v39: And no one drinking old wine desires new, for he says, ‘The old is good.’”
 </p>
 ## Notes
-v1: Luke identifies Jesus’ teaching as “the word of God,” giving his speech prophetic and divine weight from the outset of the scene.
-v4–5: Simon’s obedience follows failed labor. The catch is not a reward for skill but a response to Jesus’ word.
-v8: Peter’s confession of sin arises before Jesus’ holiness and abundance; miracle produces humility rather than self-confidence.
+v01: Luke identifies Jesus’ teaching as “the word of God,” giving his speech prophetic and divine weight from the outset of the scene.
+v04–05: Simon’s obedience follows failed labor. The catch is not a reward for skill but a response to Jesus’ word.
+v08: Peter’s confession of sin arises before Jesus’ holiness and abundance; miracle produces humility rather than self-confidence.
 v10: “Catching people” redirects Simon’s vocation without severing it from his former life.
 v11: “Leaving everything” repeats the cost of discipleship in concrete form.
 v12: The man is “full of leprosy,” intensifying both his condition and the significance of Jesus’ touch.
@@ -138,29 +138,29 @@ v34–35: Fasting is interpreted by the presence or absence of the bridegroom, n
 v36–38: The garment and wineskin images warn against forcing the new work of Jesus into old structures.
 v39: The final saying preserves resistance to the new; preference for the old is named without immediate condemnation.
 
-##Vocabulary
+## Vocabulary
 
-v1: λόγος τοῦ θεοῦ (logos tou theou)
+v01: λόγος τοῦ θεοῦ (logos tou theou)
 
 “Word of God.” Divine message or authoritative proclamation.
 
-v4: βάθος (bathos)
+v04: βάθος (bathos)
 
 “Deep.” Literally deep water; symbolically, a place beyond ordinary control.
 
-v5: ἐπιστάτης (epistatēs)
+v05: ἐπιστάτης (epistatēs)
 
 “Master.” Luke’s term of address for Jesus, emphasizing authority.
 
-v5: ῥῆμα (rhēma)
+v05: ῥῆμα (rhēma)
 
 “Word, spoken command.” Simon acts on Jesus’ spoken word.
 
-v6: πλῆθος (plēthos)
+v06: πλῆθος (plēthos)
 
 “Multitude.” A large number, here emphasizing abundance.
 
-v8: ἁμαρτωλός (hamartōlos)
+v08: ἁμαρτωλός (hamartōlos)
 
 “Sinner.” One marked by sinfulness or unworthiness before God.
 
@@ -277,8 +277,3 @@ v39: χρηστός (chrēstos)
 
 “Good, useful, pleasing.” Here used of preference for old wine.
 
-v01: λόγος τοῦ θεοῦ (logos tou theou)
-“Word of God.” Divine message or authoritative proclamation.
-
-v04: βάθος (bathos)
-“Deep.” Literally deep water; symbolically, a place beyond ordinary control.

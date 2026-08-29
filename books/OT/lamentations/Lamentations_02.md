@@ -200,7 +200,7 @@ v18: The grammar shifts abruptly into direct address to Zion’s wall. The poem 
 v20: The question concerning women eating their children reflects the extremity of famine under siege. The text is deliberately horrifying and is not softened.
 v01–22: Like chapters 1 and 4, chapter 2 is an alphabetic acrostic in Hebrew. The order of two Hebrew letters differs from the usual alphabetic sequence in this chapter.
 
-##Vocabulary
+## Vocabulary
 
 v01: עָיַב (ayav)
 “To cover with cloud” or “envelop in darkness.” Used here for the Lord’s anger over Zion.

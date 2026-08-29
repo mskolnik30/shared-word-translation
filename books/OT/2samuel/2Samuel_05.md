@@ -92,7 +92,7 @@ v20: “Baal-Perazim” means “Lord/Master of Breakthroughs,” commemorating 
 v21: 1 Chronicles 14:12 says the idols were burned. Samuel’s wording focuses on their abandonment and removal.
 v24: The sound in the tree tops is interpreted as the LORD’s advance before David, joining natural sign and divine warfare.
 
-##Vocabulary
+## Vocabulary
 
 v01: עֶצֶם וּבָשָׂר (etsem u-vasar)
 “Bone and flesh.” Kinship language.

@@ -137,7 +137,7 @@ v32: Jonadab, who designed the circumstances of Tamar’s rape, now displays rem
 v37: Geshur is the homeland of Absalom’s mother Maacah, making his maternal grandfather Talmai a natural refuge.
 v39: The Hebrew syntax is difficult and can be understood either as David longing to go to Absalom or as David’s hostility toward Absalom being exhausted. TSW follows the longing sense while noting the ambiguity.
 
-##Vocabulary
+## Vocabulary
 
 v02: צָרַר (tsarar)
 “To be distressed” or “constricted.” Amnon becomes inwardly sick with desire.

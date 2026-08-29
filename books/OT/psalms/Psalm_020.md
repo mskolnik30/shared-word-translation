@@ -53,60 +53,49 @@ v09: O LORD, save the king!
 May he answer us when we call.
 </p>
 ## Notes
-v1–5: The psalm is communal intercession for a leader (likely the king).  
-v3: Worship (offerings) is connected to divine remembrance.  
-v4–5: Desire and plans are framed within dependence on God.  
-v6: Confidence shifts from petition to assurance.  
-v7: Central contrast—human military strength vs. divine reliance.  
-v8: Outcomes reflect the object of trust.  
-v9: Closing plea reinforces dependence on divine response.  
+v01–05: The psalm is communal intercession for a leader (likely the king).  
+v03: Worship (offerings) is connected to divine remembrance.  
+v04–05: Desire and plans are framed within dependence on God.  
+v06: Confidence shifts from petition to assurance.  
+v07: Central contrast—human military strength vs. divine reliance.  
+v08: Outcomes reflect the object of trust.  
+v09: Closing plea reinforces dependence on divine response.  
 
-##Vocabulary
+## Vocabulary
 
-v1: עָנָה (anah)  
+v01: עָנָה (anah)  
 “To answer.” Respond.  
 
-v1: שֵׁם (shem)  
+v01: שֵׁם (shem)  
 “Name.” Authority and identity.  
 
-v2: עֵזֶר (‘ezer)  
+v02: עֵזֶר (‘ezer)  
 “Help.” Aid.  
 
-v2: סָעַד (sa‘ad)  
+v02: סָעַד (sa‘ad)  
 “To support.” Sustain.  
 
-v3: זָכַר (zakhar)  
+v03: זָכַר (zakhar)  
 “To remember.” Act on memory.  
 
-v3: דָּשֵׁן (dashen)  
+v03: דָּשֵׁן (dashen)  
 “To regard favorably.” Accept offering.  
 
-v5: מִשְׁאָלָה (mish’alah)  
+v05: מִשְׁאָלָה (mish’alah)  
 “Desire.” Request.  
 
-v5: רָנַן (ranan)  
+v05: רָנַן (ranan)  
 “To shout for joy.” Celebrate.  
 
-v6: יָשַׁע (yasha)  
+v06: יָשַׁע (yasha)  
 “To save.” Deliver.  
 
-v7: בָּטַח (batach)  
+v07: בָּטַח (batach)  
 “To trust.” Rely upon.  
 
-v8: קוּם (qum)  
+v08: קוּם (qum)  
 “To rise.” Stand.  
 
-v9: מֶלֶךְ (melekh)  
+v09: מֶלֶךְ (melekh)  
 “King.” Ruler.  
 
-v01: עָנָה (anah)
-“To answer.” Respond.
-
-v01: שֵׁם (shem)
-“Name.” Authority and identity.
-
-v03: דָּשֵׁן (dashen)
-“To regard favorably.” Accept offering.
-
-v07: בָּטַח (batach)
-“To trust.” Rely upon.

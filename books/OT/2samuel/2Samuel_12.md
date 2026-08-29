@@ -120,7 +120,7 @@ v24–25: Solomon’s name is associated with peace, while Jedidiah means “bel
 v30: The Hebrew can mean the crown of “their king” or of Milcom, the Ammonite deity. TSW follows the royal reading while noting the ambiguity.
 v31: The treatment of Ammonite captives is textually and morally difficult. The Masoretic wording can describe forced labor with saws and iron tools or execution by them; the brick-kiln phrase is also uncertain. TSW preserves the harsh labor wording without escalating it beyond the Hebrew’s ambiguity.
 
-##Vocabulary
+## Vocabulary
 
 v03: כִּבְשָׂה (kivsah)
 “Ewe lamb.” The poor man’s cherished animal.

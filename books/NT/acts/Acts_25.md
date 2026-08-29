@@ -103,47 +103,47 @@ v26: But I have nothing definite to write to my lord about him. Therefore I have
 v27: For it seems unreasonable to me, in sending a prisoner, not also to indicate the charges against him.”
 </p>
 ## Notes
-v2–3: Persistent hostility continues through legal channels.  
-v3: Ambush reveals intent behind formal request.  
-v7: Accusations remain unsubstantiated.  
-v8: Paul asserts innocence across religious and civil categories.  
-v9: Political pressure influences judicial options.  
+v02–03: Persistent hostility continues through legal channels.  
+v03: Ambush reveals intent behind formal request.  
+v07: Accusations remain unsubstantiated.  
+v08: Paul asserts innocence across religious and civil categories.  
+v09: Political pressure influences judicial options.  
 v11: Appeal to Caesar invokes imperial jurisdiction.  
 v16: Roman procedure emphasizes fair hearing.  
 v19: Core issue centers on Jesus’ death and claimed resurrection.  
 v21: Appeal transfers authority to the Emperor.  
 v25–27: Legal process requires defined charges.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐπαρχία (eparchia)  
+v01: ἐπαρχία (eparchia)  
 
-v1: “Province.”  
+v01: “Province.”  
 
 v24: ἐντυγχάνω (entynchano)
 “To intercede.” To act on behalf.
 
-v2: “To present a case.”  
+v02: “To present a case.”  
 
-v3: ἐνέδρα (enedra)  
+v03: ἐνέδρα (enedra)  
 
-v3: “Ambush.”  
+v03: “Ambush.”  
 
-v6: βῆμα (bēma)  
+v06: βῆμα (bēma)  
 
-v6: “Tribunal.”  
+v06: “Tribunal.”  
 
-v7: κατηγορία (katēgoria)  
+v07: κατηγορία (katēgoria)  
 
-v7: “Charge.”  
+v07: “Charge.”  
 
-v8: ἀπολογέομαι (apologeomai)  
+v08: ἀπολογέομαι (apologeomai)  
 
-v8: “To defend.”  
+v08: “To defend.”  
 
-v9: χάρις (charis)  
+v09: χάρις (charis)  
 
-v9: “Favor.”  
+v09: “Favor.”  
 
 v11: ἐπικαλέομαι (epikaleomai)  
 

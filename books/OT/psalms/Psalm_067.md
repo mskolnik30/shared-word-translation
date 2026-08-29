@@ -45,79 +45,68 @@ v07: God shall bless us;
 let all the ends of the earth fear him!
 </p>
 ## Notes
-v1: The blessing echoes priestly language; divine favor is expressed as grace, blessing, and shining presence.
-v2: Israel’s blessing is missional—knowledge of God extends outward to “all nations.”
-v3–5: Refrain structure universalizes praise; repetition emphasizes inclusion of all peoples.
-v4: Divine rule is characterized by equity and guidance; governance is both just and directional.
-v6: Agricultural yield is interpreted as divine provision; material blessing points beyond itself.
-v7: The psalm closes with global scope—fear of the LORD extends to the ends of the earth.
+v01: The blessing echoes priestly language; divine favor is expressed as grace, blessing, and shining presence.
+v02: Israel’s blessing is missional—knowledge of God extends outward to “all nations.”
+v03–05: Refrain structure universalizes praise; repetition emphasizes inclusion of all peoples.
+v04: Divine rule is characterized by equity and guidance; governance is both just and directional.
+v06: Agricultural yield is interpreted as divine provision; material blessing points beyond itself.
+v07: The psalm closes with global scope—fear of the LORD extends to the ends of the earth.
 
-##Vocabulary
+## Vocabulary
 
-v1: חָנַן (ḥānan)  
+v01: חָנַן (ḥānan)  
 
 “To be gracious.” To show favor.
 
-v1: בָּרַךְ (bāraḵ)  
+v01: בָּרַךְ (bāraḵ)  
 
 “To bless.” To bestow benefit.
 
-v1: אוֹר (ʾôr)  
+v01: אוֹר (ʾôr)  
 
 “To shine.” To give light.
 
-v2: דֶּרֶךְ (dereḵ)  
+v02: דֶּרֶךְ (dereḵ)  
 
 “Way.” Path, course.
 
-v2: יְשׁוּעָה (yĕšûʿāh)  
+v02: יְשׁוּעָה (yĕšûʿāh)  
 
 “Salvation.” Delivering power.
 
-v3: עַם (ʿam)  
+v03: עַם (ʿam)  
 
 “People.” Collective group.
 
-v4: שָׂמַח (śāmaḥ)  
+v04: שָׂמַח (śāmaḥ)  
 
 “To be glad.” To rejoice.
 
-v4: רָנַן (rānan)  
+v04: רָנַן (rānan)  
 
 “To sing for joy.” To shout in praise.
 
-v4: שָׁפַט (šāpaṭ)  
+v04: שָׁפַט (šāpaṭ)  
 
 “To judge.” To govern justly.
 
-v4: מֵישָׁר (mêšār)  
+v04: מֵישָׁר (mêšār)  
 
 “Equity.” Straightness, fairness.
 
-v4: נָחָה (nāḥāh)  
+v04: נָחָה (nāḥāh)  
 
 “To guide.” To lead.
 
-v6: יְבוּל (yĕḇûl)  
+v06: יְבוּל (yĕḇûl)  
 
 “Yield/increase.” Produce of the land.
 
-v7: יָרֵא (yārēʾ)  
+v07: יָרֵא (yārēʾ)  
 
 “To fear.” Reverent awe.
 
-v7: קָצֶה (qāṣeh)  
+v07: קָצֶה (qāṣeh)  
 
 “End.” Extremity, boundary.
 
-v01: חָנַן (ḥānan)
-“To be gracious.” To show favor.
-
-v01: בָּרַךְ (bāraḵ)
-“To bless.” To bestow benefit.
-
-v01: אוֹר (ʾôr)
-“To shine.” To give light.
-
-v02: יְשׁוּעָה (yĕšûʿāh)
-“Salvation.” Delivering power.

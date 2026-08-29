@@ -108,22 +108,22 @@ v27: Hiram sent his servants with the fleet, sailors who knew the sea, together 
 v28: They came to Ophir and took from there four hundred and twenty talents of gold, and they brought it to King Solomon.
 </p>
 ## Notes
-v3: The LORD’s promise to put the divine “name” in the house joins chosen presence with continuing freedom: the temple bears the LORD’s name, while the LORD’s “eyes” and “heart” attend to it.
-v4–9: **v4–9.** The promise concerning David’s throne is framed by a warning to Solomon and his descendants. The chapter holds together the enduring Davidic promise and the real covenantal consequences of turning to other gods.  
-v7: “A proverb and a taunt” describes Israel becoming an object lesson among the nations—a people whose ruin is spoken of with scorn.
-v8: **v8.** “This house will become high” may refer to its conspicuous elevation or prominence. Its very visibility will make its devastation a cause of horror and questioning.  
+v03: The LORD’s promise to put the divine “name” in the house joins chosen presence with continuing freedom: the temple bears the LORD’s name, while the LORD’s “eyes” and “heart” attend to it.
+v04–09: **v4–9.** The promise concerning David’s throne is framed by a warning to Solomon and his descendants. The chapter holds together the enduring Davidic promise and the real covenantal consequences of turning to other gods.  
+v07: “A proverb and a taunt” describes Israel becoming an object lesson among the nations—a people whose ruin is spoken of with scorn.
+v08: **v8.** “This house will become high” may refer to its conspicuous elevation or prominence. Its very visibility will make its devastation a cause of horror and questioning.  
 v15: **v15.** The term translated “forced labor” concerns labor levied by royal authority for Solomon’s building projects. The account of the temple and royal achievements is thus also an account of the human cost of royal expansion.  
 v18: **v18.** The Hebrew textual tradition preserves two forms of this place-name: the written form is *Tamar*, while the traditional reading is *Tadmor*. The translation follows the traditional reading while retaining the wilderness setting given in the text.  
 v21–23: The text distinguishes the peoples assigned to forced labor from Israelites assigned to military and administrative roles, while also naming officials who rule over those doing the work. The structure of royal power remains plainly visible.
 v25: **v25.** The wording connects Solomon’s offerings, incense, and completion of the house. “On it” refers to the altar, though the Hebrew syntax is compressed.  
 
-##Vocabulary
+## Vocabulary
 
-v3: — שֵׁם (*shem*), “name.”: Here the LORD puts the divine name in the temple. The name signifies God’s claimed presence and reputation associated with this house without confining God to it.  
+v03: — שֵׁם (*shem*), “name.”: Here the LORD puts the divine name in the temple. The name signifies God’s claimed presence and reputation associated with this house without confining God to it.  
 
-v4: — תֹּם (*tom*), “integrity.”: Solomon is called to walk before the LORD with wholeness of heart, joined with uprightness and obedience rather than mere outward success.  
+v04: — תֹּם (*tom*), “integrity.”: Solomon is called to walk before the LORD with wholeness of heart, joined with uprightness and obedience rather than mere outward success.  
 
-v7: — מָשָׁל (*mashal*), “proverb.”: Israel’s downfall would become a publicly repeated saying, a warning recognized among the peoples.  
+v07: — מָשָׁל (*mashal*), “proverb.”: Israel’s downfall would become a publicly repeated saying, a warning recognized among the peoples.  
 
 v15: — מַס (*mas*), “forced labor.”: The term names labor levied by the king for construction. It exposes the coercive machinery supporting Solomon’s projects.  
 

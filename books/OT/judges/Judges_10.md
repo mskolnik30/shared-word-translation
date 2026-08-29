@@ -64,7 +64,7 @@ v10–14: Israel’s confession initially receives a severe response. The LORD p
 v16: “his soul became impatient over the misery of Israel” — The Hebrew is strikingly anthropomorphic and literally describes the LORD’s *nefesh* becoming short or unable to endure Israel’s suffering. TSW preserves the emotional force.
 v18: The chapter ends with a leadership vacuum. The question is not yet who the LORD will raise up, but who will begin the fight and thereby become head over Gilead.
 
-##Vocabulary
+## Vocabulary
 
 v01: יָשַׁע (yasha)
 “To save” or “deliver.” Used of Tola’s role in rescuing Israel.

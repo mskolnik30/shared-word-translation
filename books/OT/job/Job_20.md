@@ -118,7 +118,7 @@ v19: Zophar finally names specific wrongdoing—oppression of the poor and seizu
 v26: “fire not blown” is fire not kindled or sustained by human means, implying divine or supernatural judgment.
 v27: Heaven and earth, which Job had called upon as witnesses, are here imagined by Zophar as witnesses against the wicked.
 
-##Vocabulary
+## Vocabulary
 
 v02: חוּשׁ (chush)
 “Agitation” or “haste.” Zophar’s inward urgency to respond.

@@ -54,27 +54,24 @@ v17: No weapon that is formed against you will prosper;
 and every tongue that will rise against you in judgment you will condemn. This is the heritage of the servants of the LORD, and their righteousness which is of me, says the LORD.
 </p>
 ## Notes
-v1: The barren woman becomes a figure of restored Zion. The prophetic image moves from shame and abandonment toward expansion, compassion, and covenant.  
-v5: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
-v5: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v01: The barren woman becomes a figure of restored Zion. The prophetic image moves from shame and abandonment toward expansion, compassion, and covenant.  
+v05: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v05: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
 v17: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
-##Vocabulary
+## Vocabulary
 
 v10: בְּרִית שְׁלוֹמִי (berit shelomi)
 “My covenant of peace.” A promise of enduring restored relationship.
 
-v5: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+v05: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.  
 
-v5: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
 v17: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
-v05: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
 v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”

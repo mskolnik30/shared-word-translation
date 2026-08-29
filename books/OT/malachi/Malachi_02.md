@@ -122,12 +122,12 @@ or by asking,
 “Where is the God of justice?”
 </p>
 ## Notes
-v1–9: The priests are rebuked for failing in their covenant responsibility to teach and model faithfulness.  
-v2: Honor for God's name remains the central concern introduced in chapter 1.  
-v3: The graphic imagery of sacrificial refuse symbolizes the disgrace awaiting corrupt priests.  
-v5–6: Levi is presented as an example of covenant faithfulness, reverence, and truthful instruction.  
-v7: Priests are entrusted with preserving knowledge and communicating God's instruction to the people.  
-v8: Corrupt teaching harms not only the teachers but also those who follow them.  
+v01–09: The priests are rebuked for failing in their covenant responsibility to teach and model faithfulness.  
+v02: Honor for God's name remains the central concern introduced in chapter 1.  
+v03: The graphic imagery of sacrificial refuse symbolizes the disgrace awaiting corrupt priests.  
+v05–06: Levi is presented as an example of covenant faithfulness, reverence, and truthful instruction.  
+v07: Priests are entrusted with preserving knowledge and communicating God's instruction to the people.  
+v08: Corrupt teaching harms not only the teachers but also those who follow them.  
 v10: The argument moves from priestly failure to broader covenant unfaithfulness within Judah.  
 v11: Marriage with those devoted to foreign gods threatens covenant loyalty and spiritual identity.  
 v13–14: The people's worship is rejected because their treatment of their spouses contradicts covenant faithfulness.  
@@ -136,24 +136,24 @@ v15: Faithfulness in marriage is linked to God's desire for a faithful covenant 
 v16: The verse emphasizes God's opposition to covenant-breaking and relational violence.  
 v17: The chapter closes by exposing cynical attitudes that question God's justice and moral order.  
 
-##Vocabulary
+## Vocabulary
 
-v2: קָלַל (qālal)  
+v02: קָלַל (qālal)  
 “To curse.” To place under judgment or remove blessing.  
 
-v4: בְּרִית (bĕrîṯ)  
+v04: בְּרִית (bĕrîṯ)  
 “Covenant.” A binding relationship established by solemn commitment.  
 
-v5: שָׁלוֹם (šālôm)  
+v05: שָׁלוֹם (šālôm)  
 “Peace.” Wholeness, well-being, and covenant harmony.  
 
-v6: תּוֹרַת אֱמֶת (tôraṯ ʾĕmeṯ)  
+v06: תּוֹרַת אֱמֶת (tôraṯ ʾĕmeṯ)  
 “True instruction.” Reliable teaching that accords with God's truth.  
 
-v7: מַלְאַךְ (malʾāḵ)  
+v07: מַלְאַךְ (malʾāḵ)  
 “Messenger.” One who represents and communicates on behalf of another.  
 
-v8: מִכְשׁוֹל (miḵšôl)  
+v08: מִכְשׁוֹל (miḵšôl)  
 “Stumbling block.” Something that causes another to fall or go astray.  
 
 v10: בָּגַד (bāgaḏ)  
@@ -174,14 +174,3 @@ v16: חָמָס (ḥāmās)
 v17: מִשְׁפָּט (mišpāṭ)  
 “Justice.” Righteous judgment and the proper ordering of human affairs.  
 
-v02: קָלַל (qālal)
-“To curse.” To place under judgment or remove blessing.
-
-v04: בְּרִית (bĕrîṯ)
-“Covenant.” A binding relationship established by solemn commitment.
-
-v05: שָׁלוֹם (šālôm)
-“Peace.” Wholeness, well-being, and covenant harmony.
-
-v06: תּוֹרַת אֱמֶת (tôraṯ ʾĕmeṯ)
-“True instruction.” Reliable teaching that accords with God's truth.

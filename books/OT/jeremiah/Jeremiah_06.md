@@ -224,7 +224,7 @@ but the wicked are not removed.
 v30: They call them rejected silver,
 for the LORD has rejected them.”
 </p>
-##Notes
+## Notes
 
 v06: “must be punished”: The Hebrew verb can mean “visited,” whether for care, inspection, or judgment.
 
@@ -232,7 +232,7 @@ v25: Textual form: The Hebrew text preserves singular and plural forms side by s
 
 v27: “an assayer … a fortress”: The Hebrew syntax is difficult.
 
-##Vocabulary
+## Vocabulary
 
 v07: קָרַר (qarar)
 “keep cool” or “make fresh.” The well’s continual supply of water becomes an image for Jerusalem’s continual production of evil.

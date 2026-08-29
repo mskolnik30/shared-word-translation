@@ -79,7 +79,7 @@ v23–27: The problem is presented through covenantal allegiance and household f
 v28–29: Intermarriage reaches into the high-priestly family and links it again with Sanballat, joining household, priesthood, and political loyalty.
 v31: The book ends with the recurring prayer, “Remember me,” leaving Nehemiah’s work before God rather than ending with a claim of final human completion.
 
-##Vocabulary
+## Vocabulary
 
 v03: עֵרֶב (erev)
 “Mixed group” or “mixed multitude.” A population understood as not belonging to Israel’s covenantal assembly.

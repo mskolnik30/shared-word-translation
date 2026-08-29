@@ -114,7 +114,7 @@ v28: The Hebrew verb *taphas* means seize or grasp. Whether the case describes f
 v29: Requiring marriage does not erase the violence or coercion embedded in the ancient setting. The law prevents the man from discarding the woman after sexually compromising her, but the woman’s own choice is not recorded in this formulation.
 v30: “uncover his father’s skirt” is an idiom for sexual relations with the father’s wife.
 
-##Vocabulary
+## Vocabulary
 
 v01: נָדַח (nadach)
 “To wander away.” Used of a lost animal.

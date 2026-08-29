@@ -162,7 +162,7 @@ v14: “Valley of Decision” — The Hebrew term concerns a decision or decree,
 v18: Restoration is imagined as superabundant fertility flowing outward from the house of the LORD. The “Valley of Shittim” is difficult to locate in relation to Jerusalem and may contribute to the visionary character of the scene.
 v21: The Hebrew final clause concerning bloodguilt is difficult. It can be rendered in senses such as “I will avenge their blood” or “I will cleanse their bloodguilt.” TSW preserves the juridical language of holding innocent while avoiding a more specific resolution than the Hebrew requires.
 
-##Vocabulary
+## Vocabulary
 
 v01: שׁוּב שְׁבוּת (shuv shevut)
 “To restore the fortunes” or “turn the captivity.” An idiom of reversal and restoration.

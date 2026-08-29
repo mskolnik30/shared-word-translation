@@ -54,16 +54,16 @@ v18: And if “the righteous are scarcely saved,” where will the ungodly and t
 v19: Therefore let those who suffer according to God’s will entrust their lives to a faithful Creator while doing good.
 </p>
 ## Notes
-v1: “arm yourselves… same purpose” — Suffering is framed as spiritual formation and resolve; the posture is not victimhood but disciplined allegiance shaped by Christ.  
-v1: “ceased from sin” — Not sinless perfection, but a break in sin’s ruling power; suffering can clarify loyalties and interrupt old patterns.  
-v2: “no longer… passions… but… will of God” — The core shift is re-directed desire: embodied life is re-aimed toward God’s will.  
-v3: “time… is enough” — Peter legitimizes a clean break from former ways; disciples do not need to keep proving they can “fit in.”  
-v4: “they speak evil of you” — Social backlash is expected; refusing the old flood feels like judgment to those still caught in it.  
-v5: “give account” — The moral horizon is eschatological: final accountability belongs to God, so believers do not need to repay slander with retaliation.  
-v6: “good news… to the dead” — A difficult line; it affirms God’s reach beyond human limits and frames judgment as not the last word for God’s saving purpose.  
-v7: “end… drawn near… clear-minded… for prayers” — Nearness of the end fuels sobriety and prayerful attentiveness, not panic.  
-v8: “love covers a multitude of sins” — Love is not denial; it is the covenant practice of forgiveness, restraint, and repairing rather than exposing for sport.  
-v9: “hospitality… without grumbling” — Open homes test the heart; welcome is spiritual discipline, not mere friendliness.  
+v01: “arm yourselves… same purpose” — Suffering is framed as spiritual formation and resolve; the posture is not victimhood but disciplined allegiance shaped by Christ.  
+v01: “ceased from sin” — Not sinless perfection, but a break in sin’s ruling power; suffering can clarify loyalties and interrupt old patterns.  
+v02: “no longer… passions… but… will of God” — The core shift is re-directed desire: embodied life is re-aimed toward God’s will.  
+v03: “time… is enough” — Peter legitimizes a clean break from former ways; disciples do not need to keep proving they can “fit in.”  
+v04: “they speak evil of you” — Social backlash is expected; refusing the old flood feels like judgment to those still caught in it.  
+v05: “give account” — The moral horizon is eschatological: final accountability belongs to God, so believers do not need to repay slander with retaliation.  
+v06: “good news… to the dead” — A difficult line; it affirms God’s reach beyond human limits and frames judgment as not the last word for God’s saving purpose.  
+v07: “end… drawn near… clear-minded… for prayers” — Nearness of the end fuels sobriety and prayerful attentiveness, not panic.  
+v08: “love covers a multitude of sins” — Love is not denial; it is the covenant practice of forgiveness, restraint, and repairing rather than exposing for sport.  
+v09: “hospitality… without grumbling” — Open homes test the heart; welcome is spiritual discipline, not mere friendliness.  
 v10: “gift… serve… stewards” — Gifts are entrusted resources for the body’s good, not personal platforms; grace is varied and distributed.  
 v11: “speaks… words of God… serves… strength God supplies” — Ministry is framed as dependent: speaking with reverence and serving from God’s provision so that glory returns to God.  
 v12: “fiery ordeal… to test you” — Trials are interpreted as refining rather than absurd; the surprise is not suffering, but the temptation to treat it as abnormal.  
@@ -74,43 +74,43 @@ v16: “as a Christian… not ashamed” — Identity becomes the battleground: 
 v17: “judgment… begins at the house of God” — God’s purifying evaluation starts with God’s own people; holiness is not optional.  
 v19: “entrust… faithful Creator… while doing good” — The final posture: radical trust and steady obedience—hand your life to God and keep doing the good that love requires.  
 
-##Vocabulary
+## Vocabulary
 
-v1: πάσχω (paschō) — to suffer  
+v01: πάσχω (paschō) — to suffer  
 
-v1: ὁπλίζω (hoplizō) — to arm; to equip  
+v01: ὁπλίζω (hoplizō) — to arm; to equip  
 
-v1: ἔννοια (ennoia) — purpose; intention; mindset  
+v01: ἔννοια (ennoia) — purpose; intention; mindset  
 
-v2: ἐπιθυμία (epithymia) — desire; passion; craving  
+v02: ἐπιθυμία (epithymia) — desire; passion; craving  
 
-v2: θέλημα (thelēma) — will; purpose  
+v02: θέλημα (thelēma) — will; purpose  
 
-v3: ἀσέλγεια (aselgeia) — sensuality; debauchery  
+v03: ἀσέλγεια (aselgeia) — sensuality; debauchery  
 
-v3: κῶμος (kōmos) — wild party; revelry  
+v03: κῶμος (kōmos) — wild party; revelry  
 
-v3: πότος (potos) — drinking bout; carousing  
+v03: πότος (potos) — drinking bout; carousing  
 
-v4: ἀνάχυσις (anachysis) — overflow; flood (of excess)  
+v04: ἀνάχυσις (anachysis) — overflow; flood (of excess)  
 
-v4: ἀσωτία (asōtia) — reckless living; dissipation  
+v04: ἀσωτία (asōtia) — reckless living; dissipation  
 
-v5: ἀποδίδωμι λόγον (apodidōmi logon) — to give account  
+v05: ἀποδίδωμι λόγον (apodidōmi logon) — to give account  
 
-v6: εὐαγγελίζω (euangelizō) — to proclaim good news  
+v06: εὐαγγελίζω (euangelizō) — to proclaim good news  
 
-v7: σωφρονέω (sōphroneō) — to be clear-minded; to be sensible  
+v07: σωφρονέω (sōphroneō) — to be clear-minded; to be sensible  
 
-v7: νήφω (nēphō) — to be self-controlled; sober; watchful  
+v07: νήφω (nēphō) — to be self-controlled; sober; watchful  
 
-v8: ἐκτενής (ektenēs) — earnest; stretched-out (persistent)  
+v08: ἐκτενής (ektenēs) — earnest; stretched-out (persistent)  
 
-v8: ἀγάπη (agapē) — love (self-giving love)  
+v08: ἀγάπη (agapē) — love (self-giving love)  
 
-v9: φιλοξενία (philoxenia) — hospitality; love of strangers  
+v09: φιλοξενία (philoxenia) — hospitality; love of strangers  
 
-v9: γογγυσμός (gongysmos) — grumbling; murmuring  
+v09: γογγυσμός (gongysmos) — grumbling; murmuring  
 
 v10: οἰκονόμος (oikonomos) — steward; household manager  
 

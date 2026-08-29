@@ -208,7 +208,7 @@ v23: Truth, wisdom, discipline, and understanding are worth acquiring at cost an
 v29–35: The poem moves from questions about suffering to the seductive appearance of wine and finally to addiction’s impaired perception and compulsion.
 v35: The final line portrays the tragic cycle of intoxication: harm has occurred, yet the first desire upon waking is to return to the source of harm.
 
-##Vocabulary
+## Vocabulary
 
 v04: יָגַע (yaga)
 “To toil” or “exhaust oneself.” Labor carried to the point of weariness.

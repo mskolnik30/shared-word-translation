@@ -52,9 +52,9 @@ v10: Remove vexation from your heart,
 and put away harm from your flesh,
 for youth and the dawn of life are vapor.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v05: רוּחַ (ruaḥ)
 “wind.” In this passage, the word’s range of meaning—wind, breath, spirit—heightens the mystery of life and of God’s work.

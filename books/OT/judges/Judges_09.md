@@ -182,7 +182,7 @@ v45: “sowed it with salt” — The act symbolizes devastation and perhaps per
 v53–54: Abimelech’s concern is not merely death but the shame, in his cultural setting, of being remembered as killed by a woman. His attempt to control the story fails; the narrative preserves the cause of his mortal wound.
 v56–57: The chapter explicitly interprets the destruction of both Abimelech and Shechem as corresponding judgment for their shared violence.
 
-##Vocabulary
+## Vocabulary
 
 v02: עֶצֶם וּבָשָׂר (etsem u-basar)
 “Bone and flesh.” An idiom of close kinship.

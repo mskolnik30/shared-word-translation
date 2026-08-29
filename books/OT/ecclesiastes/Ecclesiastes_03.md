@@ -62,18 +62,18 @@ v21: Who knows whether the spirit of human beings goes upward, and whether the s
 v22: So I saw that there is nothing better than for people to rejoice in their work, for that is their portion. For who can bring them to see what will be after them?
 </p>
 ## Notes
-v1–8: v1–8 — The repeated “time” does not explain why each event occurs or declare every event good. The poem names the full, often contradictory range of life under the heavens: birth and death, grief and joy, war and peace.  
+v01–08: v1–8 — The repeated “time” does not explain why each event occurs or declare every event good. The poem names the full, often contradictory range of life under the heavens: birth and death, grief and joy, war and peace.  
 v11: v11 — “Eternity” translates *ʿolam*, a word that can evoke enduring time, the distant past or future, or the world’s vast scope. God has placed in human hearts an awareness that reaches beyond the present, while the divine work remains beyond human discovery “from beginning to end.”  
 v14: v14 — The fear of God here is not mere terror. It names the fitting human response before God’s enduring and unalterable work: reverence, awe, and recognition of human limits.  
 v15: v15 — “What has been pursued” is difficult and compact. It may refer to what has passed away, what has been driven off, or what has been pursued. The line affirms God’s active regard for what seems lost within time’s recurring movement.  
 v19–21: v18–21 — The Teacher’s comparison of humans and animals presses the reality of shared mortality. The passage does not settle the question raised in v21; instead, it asks who can know the ultimate course of the human and animal spirit.  
 v19: v19 — “Vapor” continues Ecclesiastes’ recurring image of *hevel*: what is fleeting, insubstantial, and resistant to human grasp. It does not simply mean that life has no value.  
 
-##Vocabulary
+## Vocabulary
 
-v1: v1 — **זְמָן (*zĕman*)**: “season.” Alongside “time” (*ʿēt*), it introduces the chapter’s attention to fitting or appointed occasions within life’s changing rhythms.  
+v01: v1 — **זְמָן (*zĕman*)**: “season.” Alongside “time” (*ʿēt*), it introduces the chapter’s attention to fitting or appointed occasions within life’s changing rhythms.  
 
-v1: v1 — **חֵפֶץ (*ḥēphets*)**: “matter.” The word can also carry senses such as desire, purpose, or undertaking. Here it encompasses every human concern “under the heavens.”  
+v01: v1 — **חֵפֶץ (*ḥēphets*)**: “matter.” The word can also carry senses such as desire, purpose, or undertaking. Here it encompasses every human concern “under the heavens.”  
 
 v11: עוֹלָם (ʿolam)
 “eternity.” God gives human beings an awareness extending beyond the immediate moment, even as they cannot comprehend God’s work in its entirety.

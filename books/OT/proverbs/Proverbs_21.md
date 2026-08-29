@@ -175,8 +175,8 @@ but victory
 belongs to the LORD.
 </p>
 ## Notes
-v1: Even royal power is not independent of the LORD. The image of irrigation channels portrays authority redirected according to divine purpose.  
-v3: Ethical faithfulness is preferred to sacrifice detached from righteousness and justice.  
+v01: Even royal power is not independent of the LORD. The image of irrigation channels portrays authority redirected according to divine purpose.  
+v03: Ethical faithfulness is preferred to sacrifice detached from righteousness and justice.  
 v12: “The Righteous One” may refer to a righteous human observer or to God. TSW retains the possible divine designation rather than eliminating the ambiguity.  
 v13: Refusal to hear the vulnerable is answered by a corresponding experience of not being heard.  
 v21: Righteousness and steadfast love are not passive qualities; they are things pursued.  
@@ -184,15 +184,15 @@ v27: Religious practice becomes especially offensive when it is deliberately use
 v30: Human intelligence cannot finally construct a strategy capable of defeating the LORD’s purpose.  
 v31: Preparation remains appropriate, but preparation is distinguished from the source of ultimate deliverance.  
 
-##Vocabulary
+## Vocabulary
 
-v1: פַּלְגֵי־מַיִם (palge mayim)  
+v01: פַּלְגֵי־מַיִם (palge mayim)  
 “Channels of water.” Irrigation streams redirected by a cultivator.  
 
-v2: תָּכַן (takhan)  
+v02: תָּכַן (takhan)  
 “To weigh.” To evaluate the true character of the heart.  
 
-v3: צְדָקָה וּמִשְׁפָּט (tsedaqah u-mishpat)  
+v03: צְדָקָה וּמִשְׁפָּט (tsedaqah u-mishpat)  
 “Righteousness and justice.” Right conduct joined with right judgment.  
 
 v13: דַּל (dal)
@@ -210,11 +210,3 @@ v23: שָׁמַר (shamar)
 v31: תְּשׁוּעָה (teshuah)  
 “Victory,” “deliverance,” or “saving help.” The outcome belonging ultimately to the LORD.  
 
-v01: פַּלְגֵי־מַיִם (palge mayim)
-“Channels of water.” Irrigation streams redirected by a cultivator.
-
-v02: תָּכַן (takhan)
-“To weigh.” To evaluate the true character of the heart.
-
-v03: צְדָקָה וּמִשְׁפָּט (tsedaqah u-mishpat)
-“Righteousness and justice.” Right conduct joined with right judgment.

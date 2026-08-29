@@ -101,7 +101,7 @@ v15: The worker “sets his life” upon the daily wage because survival depends
 v16: This legal principle prohibits executing family members for another person’s crime. Other texts address intergenerational consequences in different theological contexts; TSW preserves this court rule distinctly.
 v19–22: Agricultural inefficiency becomes mandated generosity. Forgotten sheaves and remaining olives and grapes create food access for the vulnerable.
 
-##Vocabulary
+## Vocabulary
 
 v01: סֵפֶר כְּרִיתֻת (sefer keritut)
 “Certificate of divorce.” A written document formalizing separation.

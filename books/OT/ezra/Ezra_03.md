@@ -62,7 +62,7 @@ v08: Levites from age twenty are appointed to supervise the temple work. This di
 v11: The refrain “for he is good, for his steadfast love endures forever” is familiar from Israel’s liturgical tradition and ties rebuilding to worship rather than merely construction.
 v12–13: The same event produces both grief and joy. Ezra does not require one emotion to cancel the other; memory of the former temple and hope in the new foundation sound together.
 
-##Vocabulary
+## Vocabulary
 
 v01: כְּאִישׁ אֶחָד (ke-ish echad)
 “As one.” An idiom of communal unity.

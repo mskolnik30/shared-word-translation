@@ -32,7 +32,7 @@ v04: Bildad repeats the friends’ central question about human righteousness be
 v05: Moon and stars are invoked to intensify the contrast between divine holiness and created brilliance.
 v06: The imagery of maggot and worm is deliberately degrading. Bildad’s theology of transcendence leaves little room for the dignity of the suffering person before God.
 
-##Vocabulary
+## Vocabulary
 
 v02: מָשַׁל (mashal)
 “Dominion” or “rule.” Sovereign authority belonging to God.

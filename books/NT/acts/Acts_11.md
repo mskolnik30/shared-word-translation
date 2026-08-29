@@ -99,8 +99,8 @@ v29: So the disciples, each according to his ability, determined to send relief 
 v30: which they also did, sending it to the elders by the hand of Barnabas and Saul.
 </p>
 ## Notes
-v1–3: Inclusion of Gentiles creates tension within existing identity structures.  
-v4–10: Vision redefines categories of clean and unclean.  
+v01–03: Inclusion of Gentiles creates tension within existing identity structures.  
+v04–10: Vision redefines categories of clean and unclean.  
 v12: “No distinction” becomes a governing principle.  
 v15–17: Spirit reception validates Gentile inclusion.  
 v18: Repentance is extended beyond Israel.  
@@ -112,23 +112,23 @@ v26: “Christians” marks external identification of the community.
 v27–28: Prophetic activity directs communal awareness.  
 v29–30: Material support expresses unity across regions.  
 
-##Vocabulary
+## Vocabulary
 
-v2: περιτομή (peritomē)  
+v02: περιτομή (peritomē)  
 
-v2: “Circumcision.”  
+v02: “Circumcision.”  
 
-v5: ἔκστασις (ekstasis)  
+v05: ἔκστασις (ekstasis)  
 
-v5: “Trance.”  
+v05: “Trance.”  
 
-v8: κοινός (koinos)  
+v08: κοινός (koinos)  
 
-v8: “Common.”  
+v08: “Common.”  
 
-v9: καθαρίζω (katharizō)  
+v09: καθαρίζω (katharizō)  
 
-v9: “To cleanse.”  
+v09: “To cleanse.”  
 
 v12: διακρίνω (diakrinō)  
 

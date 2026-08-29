@@ -31,9 +31,9 @@ v10: the LORD will reign forever,
     your God, O Zion, to all generations.
     Hallelujah!
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: יְהוָ֣ה (Yahweh)
 “LORD.” The divine name, represented in English by small-capital LORD.

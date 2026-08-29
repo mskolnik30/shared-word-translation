@@ -115,7 +115,7 @@ v21: “inclination” refers to the inward formation or imagination of the hear
 v26: The book is placed beside, not necessarily inside, the ark. It functions as a covenant witness alongside the tablets.
 v30: The verse serves as the introduction to the song in chapter 32 and is preserved as its own public verse.
 
-##Vocabulary
+## Vocabulary
 
 v02: צֵאת וָבוֹא (tset va-vo)
 “Go out and come in.” An idiom for active leadership.

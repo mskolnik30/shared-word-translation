@@ -95,7 +95,7 @@ v11–15: Papyrus without water and a spider’s web portray the instability of 
 v16–19: The plant imagery is textually difficult and may describe apparent flourishing that is quickly erased. The broader point remains the instability of the wicked.
 v20: Bildad’s statement that God does not reject the blameless ironically places him close to Job’s own claim, but he assumes Job’s suffering proves that Job cannot be blameless.
 
-##Vocabulary
+## Vocabulary
 
 v03: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Bildad insists God does not distort it.

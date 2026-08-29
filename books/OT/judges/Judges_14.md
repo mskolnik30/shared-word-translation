@@ -86,7 +86,7 @@ v15: The threat against Samson’s wife and her household anticipates the violen
 v18: “plowed with my heifer” — Samson’s crude metaphor accuses the men of using his wife to obtain what they could not discover themselves.
 v19: Spirit-empowered action and Samson’s personal anger appear in the same verse. Judges repeatedly refuses to make Samson morally uncomplicated merely because the Spirit empowers him.
 
-##Vocabulary
+## Vocabulary
 
 v03: יָשַׁר בְּעֵינַי (yashar be'enai)
 “Right in my eyes.” An idiom for what appears desirable or correct to oneself.

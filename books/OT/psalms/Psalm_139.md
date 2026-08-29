@@ -95,23 +95,23 @@ v24: See if there is any wicked way in me,
   and lead me in the way everlasting.
 </p>
 ## Notes
-v1–6: The first stanza names knowing as encompassing. To be known is not described here as comfort or burden, but simply as fact.
-v5: “Hem me in” is a verb of siege. Whether it is felt as protection or constraint is left open; both senses are present in the word.
-v7–12: The second stanza moves through cosmic locations—the heavens, Sheol, the wings of the morning (the east at sunrise), the limits of the sea (the west). The poem covers vertical and horizontal extremities.
-v8: Sheol does not name a place of judgment in this verse; it names the realm of the dead, beyond which one usually presumes God’s reach does not extend. The verse reverses that assumption.
+v01–06: The first stanza names knowing as encompassing. To be known is not described here as comfort or burden, but simply as fact.
+v05: “Hem me in” is a verb of siege. Whether it is felt as protection or constraint is left open; both senses are present in the word.
+v07–12: The second stanza moves through cosmic locations—the heavens, Sheol, the wings of the morning (the east at sunrise), the limits of the sea (the west). The poem covers vertical and horizontal extremities.
+v08: Sheol does not name a place of judgment in this verse; it names the realm of the dead, beyond which one usually presumes God’s reach does not extend. The verse reverses that assumption.
 v13–18: The third stanza turns to formation in the womb. The imagery of weaving and writing knits together craft and intention.
 v15: “The depths of the earth” is metaphorical for the womb. The earth’s depths and the body’s depths are joined.
 v16: “Days that were formed” preserves the Hebrew passive; the days themselves are God’s work, distinct from the speaker.
 v19–22: The fourth stanza is jarring after what has come before. The psalm does not soften its hatred of those who hate God. Some readers have proposed that vv. 19–22 are speech the psalmist sets before God for examination. The translation does not adjudicate; the words are left as written, and the next verses ask God to search the speaker’s own heart.
 v23–24: The closing petition returns to the opening “you have searched me.” The psalm ends in consent to the very knowledge it began by describing.
 
-##Vocabulary
+## Vocabulary
 
-v1: חָקַר (ḥāqar) — To search out, to examine deeply.
+v01: חָקַר (ḥāqar) — To search out, to examine deeply.
 
-v5: צוּר (ṣûr) — To hem in, to besiege, to surround.
+v05: צוּר (ṣûr) — To hem in, to besiege, to surround.
 
-v8: שְׁאוֹל (šəʾôl) — Sheol, the realm of the dead.
+v08: שְׁאוֹל (šəʾôl) — Sheol, the realm of the dead.
 
 v13: רָקַם (rāqam)
 “To weave, to embroider. The verb of skilled craft.”

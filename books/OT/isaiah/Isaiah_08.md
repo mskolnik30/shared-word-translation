@@ -56,7 +56,7 @@ v13: “LORD of Hosts” — The title presents the LORD as sovereign over heave
 v18: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
 v07: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַהֵר שָׁלָל חָשׁ בַּז (maher shalal hash baz)
 “Swift is the spoil, speedy is the prey.” The symbolic name given to Isaiah’s son.

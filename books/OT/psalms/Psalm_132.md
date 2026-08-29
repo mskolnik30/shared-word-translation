@@ -62,7 +62,7 @@ but upon him his crown will flourish.”
 v06: “Ephrathah” and “the fields of Jaar” locate the remembered search for the ark in poetic geography. The exact historical referents are debated, so the place-names are preserved rather than harmonized with another narrative.
 v17: “Horn” and “lamp” are royal images: strength that rises and a dynastic light preserved. The metaphors are allowed to stand together without explanation in the main text.
 
-##Vocabulary
+## Vocabulary
 
 v08: אֲרוֹן (ʾaron)
 “Ark,” the sacred chest associated with the covenant and with the LORD’s enthroned presence among Israel.

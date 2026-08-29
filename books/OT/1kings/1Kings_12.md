@@ -85,8 +85,8 @@ v32: Jeroboam made a festival in the eighth month, on the fifteenth day of the m
 v33: He went up to the altar that he had made at Bethel on the fifteenth day of the eighth month, in the month that he had devised from his own heart. He made a festival for the Israelites and went up to the altar to burn incense.
 </p>
 ## Notes
-v4: The people describe Solomon’s rule with the paired images of hard service and a heavy yoke. Their request is not to reject kingship but to seek relief from burdens imposed by it.  
-v7: The elders urge Rehoboam to become a “servant” to the people. The passage presents humble service, good speech, and enduring royal loyalty as closely connected.  
+v04: The people describe Solomon’s rule with the paired images of hard service and a heavy yoke. Their request is not to reject kingship but to seek relief from burdens imposed by it.  
+v07: The elders urge Rehoboam to become a “servant” to the people. The passage presents humble service, good speech, and enduring royal loyalty as closely connected.  
 v10: “My little finger is thicker than my father’s waist” is a boast of surpassing strength and severity. The precise body-part term may also carry a more forceful or coarse implication; the translation retains the ordinary image.  
 v11: “Scorpions” may refer literally to scorpions or, more likely, to barbed whips whose lashes were especially painful. The threat intensifies the contrast with ordinary whips.  
 v15: The narrative identifies Rehoboam’s refusal as a turn of events “from the LORD,” while still portraying the king’s harsh response and rejection of counsel. It does not remove the human agency that drives the division.  
@@ -97,11 +97,11 @@ v28: Jeroboam’s proclamation deliberately echoes Israel’s deliverance from E
 v30: The Hebrew wording is compressed: “the people went before the one as far as Dan.” It likely describes pilgrimage or worship associated with the calf shrine, while leaving the exact geographic sense terse.  
 v33: The festival date is said to be one Jeroboam “devised from his own heart,” emphasizing that this cultic arrangement originates in his own purpose rather than in an instruction attributed to the LORD.  
 
-##Vocabulary
+## Vocabulary
 
-v4: עֹל (*ʿol*) — “yoke.”: The yoke names the political and economic burden placed on the people under Solomon and threatened anew by Rehoboam.  
+v04: עֹל (*ʿol*) — “yoke.”: The yoke names the political and economic burden placed on the people under Solomon and threatened anew by Rehoboam.  
 
-v7: עֶבֶד (*ʿeved*) — “servant.”: The elders call the king to serve the people so that they may become his servants; the reversal frames authority as service rather than domination.  
+v07: עֶבֶד (*ʿeved*) — “servant.”: The elders call the king to serve the people so that they may become his servants; the reversal frames authority as service rather than domination.  
 
 v15: סִבָּה (sibbâ)
 “turn of events.”: The word identifies the kingdom’s rupture as an occurrence coming from the LORD and serving the establishment of the LORD’s earlier word.

@@ -159,8 +159,8 @@ v79: to give light to those who sit in darkness and in the shadow of death, to g
 v80: And the child grew and became strong in spirit, and he was in the wilderness until the day he appeared publicly to Israel.
 </p>
 ## Notes
-v1–4: “orderly account… certainty” — Luke frames faith as public testimony grounded in careful investigation, not rumor or private vision alone.  
-v6–7: “righteous… yet… no child” — The text refuses simplistic moral math; faithfulness does not shield people from grief or long delay.  
+v01–04: “orderly account… certainty” — Luke frames faith as public testimony grounded in careful investigation, not rumor or private vision alone.  
+v06–07: “righteous… yet… no child” — The text refuses simplistic moral math; faithfulness does not shield people from grief or long delay.  
 v13: “your prayer has been heard” — God’s hearing may be revealed late; unanswered prayer is not the same as unheard prayer.  
 v15: “filled with the Holy Spirit… from… womb” — John’s life is marked as vocation before achievement; calling precedes performance.  
 v17: “turn the hearts… make ready” — Preparation for the Lord is relational and moral: repaired households and renewed wisdom, not merely religious excitement.  
@@ -177,17 +177,17 @@ v68–75: “visited and redeemed… covenant… oath” — Zechariah reads the
 v77: “forgiveness of their sins” — Salvation is not only political rescue; it is moral renewal and restored relationship with God.  
 v78–79: “dawn from on high… way of peace” — The closing image is illumination and guidance: God’s mercy breaks like morning light into shadowed lives.  
 
-##Vocabulary
+## Vocabulary
 
-v1: διήγησις (diēgēsis) — narrative; orderly account  
+v01: διήγησις (diēgēsis) — narrative; orderly account  
 
-v2: αὐτόπτης (autoptēs) — eyewitness  
+v02: αὐτόπτης (autoptēs) — eyewitness  
 
-v4: ἀσφάλεια (asphaleia) — certainty; reliable assurance  
+v04: ἀσφάλεια (asphaleia) — certainty; reliable assurance  
 
-v6: δίκαιος (dikaios) — righteous; just  
+v06: δίκαιος (dikaios) — righteous; just  
 
-v9: κλῆρος (klēros) — lot; allotted portion  
+v09: κλῆρος (klēros) — lot; allotted portion  
 
 v11: ἄγγελος (angelos) — messenger; angel  
 

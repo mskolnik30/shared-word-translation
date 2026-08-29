@@ -200,7 +200,7 @@ v23–24: Divine nearness is not limitation. The LORD is both near and far and c
 v28–29: Dream and word are not simply equated. The contrast is between straw and grain, while the LORD’s word is also fire and a hammer.
 v33–40: Hebrew *massa* can mean both “oracle/burden” and a literal burden. The passage turns the people’s repeated demand for “the burden of the LORD” back upon them through wordplay.
 
-##Vocabulary
+## Vocabulary
 
 v01: רֹעִים (ro'im)
 “Shepherds.” A metaphor for rulers and leaders responsible for the people.

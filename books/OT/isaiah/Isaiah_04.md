@@ -20,33 +20,25 @@ for over all the glory will be a canopy.
 v06: There will be a pavilion for a shade in the daytime from the heat, and for a refuge and for a shelter from storm and from rain.
 </p>
 ## Notes
-v2: “branch” — The Hebrew expression can describe growth or produce and becomes part of Isaiah’s larger language of renewed life after judgment.  
-v2: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
-v3: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v4: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.  
+v02: “branch” — The Hebrew expression can describe growth or produce and becomes part of Isaiah’s larger language of renewed life after judgment.  
+v02: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
+v03: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v04: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.  
 
-##Vocabulary
+## Vocabulary
 
-v2: צֶמַח (tsemach)  
+v02: צֶמַח (tsemach)  
 “Branch” or “growth.” New vegetation used as an image of restored life.  
 
-v2: כָּבוֹד (kavod)  
+v02: כָּבוֹד (kavod)  
 “Glory.” Weight, honor, or manifest splendor.  
 
-v3: צִיּוֹן (tsiyyon)  
+v03: צִיּוֹן (tsiyyon)  
 “Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
-v4: מִשְׁפָּט (mishpat)  
+v04: מִשְׁפָּט (mishpat)  
 “Justice” or “judgment.” Right judgment and right communal ordering.  
-
-v02: צֶמַח (tsemach)
-“Branch” or “growth.” New vegetation used as an image of restored life.
-
-v02: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.
 
 v03: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v04: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.

@@ -67,14 +67,14 @@ and all those who were incensed against him will be disappointed.
 v25: In the LORD will all the seed of Israel be justified, and will glory.
 </p>
 ## Notes
-v1: Cyrus is called the LORD’s “anointed,” an unexpected use of royal consecration language for a Persian ruler who does not yet know the LORD.  
+v01: Cyrus is called the LORD’s “anointed,” an unexpected use of royal consecration language for a Persian ruler who does not yet know the LORD.  
 v11: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
 v13: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v4: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+v04: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
-##Vocabulary
+## Vocabulary
 
-v1: מָשִׁיחַ (mashiach)  
+v01: מָשִׁיחַ (mashiach)  
 “Anointed one.” Applied in v01 to Cyrus of Persia.  
 
 v11: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
@@ -86,11 +86,6 @@ v13: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 v13: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v4: עֶבֶד (eved)  
+v04: עֶבֶד (eved)  
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
-v01: מָשִׁיחַ (mashiach)
-“Anointed one.” Applied in v01 to Cyrus of Persia.
-
-v04: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.

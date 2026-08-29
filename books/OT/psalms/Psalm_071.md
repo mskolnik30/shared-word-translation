@@ -71,9 +71,9 @@ v24: My tongue will declare your righteousness
     for they have been put to shame, for they have been humiliated,
         those who seek to harm me.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: יְהוָה (yehovah)
 “LORD.” The divine name, represented in English by small-capital LORD.

@@ -62,7 +62,7 @@ v03: “have given” — The land is spoken of as already given even though Isr
 v07–08: Joshua’s success is tied not primarily to military skill but to sustained attention to the instruction given through Moses.
 v13–15: “rest” includes settled possession and security in the land. The eastern tribes have received their territory but remain obligated to assist the rest of Israel.
 
-##Vocabulary
+## Vocabulary
 
 v01: מְשָׁרֵת (mesharet)
 “Assistant” or “minister.” One who serves another in an official role.

@@ -98,21 +98,21 @@ v39: The sons of Ulla: Arah, Hanniel, and Rizia.
 v40: All these were sons of Asher, heads of ancestral houses, chosen warriors of strength, and heads among the leaders. Their genealogical enrollment for the army in war numbered twenty-six thousand men.
 </p>
 ## Notes
-v1: - **7:1** The written form of Jashub’s name differs from its traditional reading. The translation follows the reading indicated by the received Hebrew tradition.  
-v4–5: - **7:4–5** The repeated military totals are tied to genealogical households. In this chapter, family identity, population, and capacity for defense are closely joined.  
+v01: - **7:1** The written form of Jashub’s name differs from its traditional reading. The translation follows the reading indicated by the received Hebrew tradition.  
+v04–05: - **7:4–5** The repeated military totals are tied to genealogical households. In this chapter, family identity, population, and capacity for defense are closely joined.  
 v14–19: - **7:14–19** The genealogy of Manasseh contains compressed and at points difficult family relationships. The text preserves names and connections without fully explaining every generational link.  
 v21–23: - **7:21–23** The account of Ephraim’s sons interrupts the genealogy with violence, mourning, comfort, and the birth of Beriah. His name is linked with the calamity that came upon Ephraim’s household.  
 v24: - **7:24** Sheerah is remembered not merely within a genealogy but as a builder of towns. Her appearance gives unusual prominence to a woman’s constructive role within the tribal record.  
 v28–29: - **7:28–29** “Villages” refers to dependent settlements surrounding a principal town. The list portrays the inhabited territory associated with Ephraim and Manasseh, the tribes descended from Joseph.  
 v01: The written form of Jashub’s name differs from its traditional reading. The translation follows the reading indicated by the received Hebrew tradition.
 
-##Vocabulary
+## Vocabulary
 
-v2: - **7:2 — תּוֹלְדוֹת (*toledot*)**: “generations” or “family records.” Here it organizes Tola’s descendants as a recognized ancestral line and provides the framework for the military count.  
+v02: - **7:2 — תּוֹלְדוֹת (*toledot*)**: “generations” or “family records.” Here it organizes Tola’s descendants as a recognized ancestral line and provides the framework for the military count.  
 
-v2: - **7:2 — גִּבּוֹרֵי חַיִל (*gibbore chayil*)**: “warriors of strength.” The expression denotes capable, valiant fighting men and recurs throughout the chapter as an honorific for tribal households.  
+v02: - **7:2 — גִּבּוֹרֵי חַיִל (*gibbore chayil*)**: “warriors of strength.” The expression denotes capable, valiant fighting men and recurs throughout the chapter as an honorific for tribal households.  
 
-v5: - **7:5 — הִתְיַחֵשׂ (*hityaches*)**: “to enroll by genealogy.” The term describes formal registration according to family descent, linking belonging within Israel to a recorded lineage.  
+v05: - **7:5 — הִתְיַחֵשׂ (*hityaches*)**: “to enroll by genealogy.” The term describes formal registration according to family descent, linking belonging within Israel to a recorded lineage.  
 
 v28: אֲחֻזָּה (achuzzah)
 “possession” or “holding.” It refers to land held as an inherited territorial claim, not simply a place of residence.

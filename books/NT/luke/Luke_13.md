@@ -113,10 +113,10 @@ v34: Jerusalem, Jerusalem, the one who kills the prophets and stones those sent 
 v35: Behold, your house is left to you. And I say to you, you will certainly not see me until it comes when you say, ‘Blessed is the one who comes in the name of the Lord.’”
 </p>
 ## Notes
-v1–5: Jesus rejects causal links between suffering and greater sin, redirecting all toward repentance.
-v3: Repentance is universalized; no one stands outside the warning.
-v6–9: The fig tree parable balances judgment with delayed mercy.
-v9: Fruit remains the decisive expectation.
+v01–05: Jesus rejects causal links between suffering and greater sin, redirecting all toward repentance.
+v03: Repentance is universalized; no one stands outside the warning.
+v06–09: The fig tree parable balances judgment with delayed mercy.
+v09: Fruit remains the decisive expectation.
 v11–13: The woman’s condition is both physical and spiritual (“spirit of infirmity”).
 v16: Sabbath healing is framed as release from bondage, aligning with Sabbath purpose.
 v18–21: Kingdom growth is disproportionate to its beginnings.
@@ -130,21 +130,21 @@ v33: Jerusalem is identified as the locus of prophetic rejection.
 v34: The lament expresses both desire and refusal.
 v35: Judgment and future recognition are held together.
 
-##Vocabulary
+## Vocabulary
 
-v3: μετανοέω (metanoeō)
+v03: μετανοέω (metanoeō)
 
 “To repent.”
 
-v5: ἀπόλλυμι (apollymi)
+v05: ἀπόλλυμι (apollymi)
 
 “To perish.”
 
-v6: συκῆ (sykē)
+v06: συκῆ (sykē)
 
 “Fig tree.”
 
-v8: κοπρία (kopria)
+v08: κοπρία (kopria)
 
 “Manure.”
 
@@ -207,11 +207,3 @@ v35: οἶκος (oikos)
 
 “House.”
 
-v03: μετανοέω (metanoeō)
-“To repent.”
-
-v05: ἀπόλλυμι (apollymi)
-“To perish.”
-
-v06: συκῆ (sykē)
-“Fig tree.”

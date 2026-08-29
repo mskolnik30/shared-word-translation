@@ -63,24 +63,24 @@ v22: You shall assign it by lot as an inheritance for yourselves and for the soj
 v23: In whatever tribe the sojourner resides, there you shall give that person an inheritance,” declares the LORD GOD.
 </p>
 ## Notes
-v1–2: **47:1–2** The water comes from the temple itself, flowing eastward from the area south of the altar. The vision joins the sanctuary’s ordered worship with life flowing outward beyond it.  
-v5: **47:5** The measured water becomes a river that cannot be crossed. The repeated measurements emphasize both its steady increase and the prophet’s inability to master or contain it.  
-v8–9: **47:8–9** “The sea where the waters flow out” is a difficult expression. It likely refers to the salt sea in the eastern region, but the wording keeps attention on the river’s life-giving arrival: waters that receive this flow are healed.  
+v01–02: **47:1–2** The water comes from the temple itself, flowing eastward from the area south of the altar. The vision joins the sanctuary’s ordered worship with life flowing outward beyond it.  
+v05: **47:5** The measured water becomes a river that cannot be crossed. The repeated measurements emphasize both its steady increase and the prophet’s inability to master or contain it.  
+v08–09: **47:8–9** “The sea where the waters flow out” is a difficult expression. It likely refers to the salt sea in the eastern region, but the wording keeps attention on the river’s life-giving arrival: waters that receive this flow are healed.  
 v10: **47:10** The Hebrew textual tradition preserves two forms of the opening verb, both meaning “stand.” The sense is that fishers will stand along the healed sea to spread their nets.  
 v11: **47:11** Not every place is healed. The marshes and swamps remain “given over to salt,” preserving a stark limit within a vision otherwise marked by abundant renewal.  
 v13–14: **47:13–14** The land is described as an inheritance grounded in God’s sworn promise to the ancestors. “Joseph shall have two portions” recalls the distinctive double tribal inheritance associated with Ephraim and Manasseh.  
 v22–23: **47:22–23** Resident sojourners who live among Israel and have families there are to receive an inheritance within the tribes. The passage extends full landholding status to people who are not native-born while locating them concretely within Israel’s shared life.  
 
-##Vocabulary
+## Vocabulary
 
-v5: נַחַל (*naḥal*)  
+v05: נַחַל (*naḥal*)  
 — “river” or “wadi.” Here it names the growing, uncrossable stream flowing from the temple, in contrast to a seasonal or limited channel.  
 
-v8: רָפָא (*raphaʾ*)  
+v08: רָפָא (*raphaʾ*)  
 
-v8: — “to heal.” The waters are healed, and the verb frames the river’s effect as restoration from death-bearing salinity to life.  
+v08: — “to heal.” The waters are healed, and the verb frames the river’s effect as restoration from death-bearing salinity to life.  
 
-v9: נֶפֶשׁ חַיָּה (*nephesh ḥayyah*)  
+v09: נֶפֶשׁ חַיָּה (*nephesh ḥayyah*)  
 — “living creature.” The phrase evokes animate life in its fullness; the river causes creatures wherever it reaches to live.  
 
 v13: נָחַל (naḥal)

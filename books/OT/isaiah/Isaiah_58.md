@@ -43,26 +43,18 @@ and I will make you to ride on the high places of the earth;
 and I will feed you with the heritage of Jacob your father: for the mouth of the LORD has spoken it.
 </p>
 ## Notes
-v6: The chapter redefines fasting through release from oppression, material sharing, and restored social relationship rather than ritual deprivation alone.  
-v2: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
-v8: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
+v06: The chapter redefines fasting through release from oppression, material sharing, and restored social relationship rather than ritual deprivation alone.  
+v02: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
+v08: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
-##Vocabulary
+## Vocabulary
 
-v6: צוֹם (tsom)  
+v06: צוֹם (tsom)  
 “Fast.” Ritual abstinence reoriented toward justice and release from oppression.  
 
-v2: צְדָקָה (tsedaqah)  
+v02: צְדָקָה (tsedaqah)  
 “Righteousness.” Rightness and faithfulness in relationship and action.  
 
-v8: כָּבוֹד (kavod)  
+v08: כָּבוֹד (kavod)  
 “Glory.” Weight, honor, or manifest splendor.  
 
-v06: צוֹם (tsom)
-“Fast.” Ritual abstinence reoriented toward justice and release from oppression.
-
-v02: צְדָקָה (tsedaqah)
-“Righteousness.” Rightness and faithfulness in relationship and action.
-
-v08: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.

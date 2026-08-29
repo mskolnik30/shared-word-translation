@@ -68,7 +68,7 @@ v08: Ten men survive by revealing hidden food supplies, showing the continuing s
 v09: An older defensive cistern from the days of Asa becomes a mass grave, turning a structure once associated with protecting Judah into a monument of internal violence.
 v17–18: The survivors move toward Egypt out of fear of Babylonian retaliation for Gedaliah’s assassination, setting up the prophetic conflict of chapters 42–44.
 
-##Vocabulary
+## Vocabulary
 
 v01: זֶרַע הַמְּלוּכָה (zera ha-melukhah)
 “Royal offspring.” Ishmael is connected with the royal line.

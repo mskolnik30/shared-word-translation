@@ -94,7 +94,7 @@ v37: “Everyone who is of the truth listens” — Truth is personal and relati
 v38: “What is truth?” — Pilate’s cynicism (or evasiveness) embodies imperial pragmatism: power uninterested in truth unless it serves control.
 v39–40: Barabbas released — The crowd chooses a violent insurgent (“bandit”) over the nonviolent king; the irony underscores how “freedom” is often imagined through force rather than truth-shaped peace.
 
-##Vocabulary
+## Vocabulary
 
 v01: κῆπος (kēpos) — garden
 

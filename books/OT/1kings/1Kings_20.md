@@ -176,9 +176,9 @@ v42: He said to him, “Thus says the LORD: ‘Because you have let go from your
 <p>
 v43: The king of Israel went to his house sullen and troubled, and came to Samaria.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v11: חָגַר (ḥāgar)
 “to gird on.” In the proverb, fastening on armor marks a warrior before combat, in contrast to one who has already unfastened it after battle.

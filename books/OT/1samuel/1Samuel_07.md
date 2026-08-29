@@ -73,7 +73,7 @@ v10: The LORD’s thunder reverses the military situation without Israel first g
 v12: “Ebenezer” means “stone of help.” The same place-name appeared earlier at Israel’s defeat, but Samuel now gives a theological memorial to divine help.
 v14: The statement about peace with the Amorites likely refers to local Canaanite populations living alongside Israel.
 
-##Vocabulary
+## Vocabulary
 
 v02: נָהָה (nahah)
 “To lament” or yearn after.

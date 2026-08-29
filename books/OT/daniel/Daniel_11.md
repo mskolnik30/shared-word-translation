@@ -168,7 +168,7 @@ v38: “god of fortresses” is similarly obscure but clearly contrasts with anc
 v40–45: The final campaign extends the vision beyond the earlier detailed sequence. The king’s end comes without human help, preserving the recurring Daniel theme that arrogant imperial power is ultimately bounded.
 v45: “between the seas and the beautiful holy mountain” is geographically suggestive but not precise enough to justify inserting a modern location.
 
-##Vocabulary
+## Vocabulary
 
 v02: פָּרַס (Paras)
 “Persia.” The empire in which the vision begins.

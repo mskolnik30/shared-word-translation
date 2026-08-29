@@ -51,7 +51,7 @@ v13: Shaking out the garment enacts a symbolic curse: covenant-breaking is pictu
 v15: Nehemiah presents his refusal of customary governor support as an act shaped by fear of God and the people’s heavy burden.
 v19: The prayer “Remember me” recurs later in the book and places Nehemiah’s public conduct before God’s judgment.
 
-##Vocabulary
+## Vocabulary
 
 v01: צְעָקָה (tse'aqah)
 “Outcry.” A cry arising from oppression or urgent distress.

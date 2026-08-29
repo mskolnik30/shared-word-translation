@@ -101,7 +101,7 @@ v23: Jehoiakim’s repeated cutting and burning creates a deliberate counter-ima
 v26: The king seeks to seize prophet and scribe, but the LORD hides them. The text does not specify how.
 v28–32: Destroying the scroll does not destroy the word. The text is rewritten and expanded, turning royal censorship into occasion for further preservation.
 
-##Vocabulary
+## Vocabulary
 
 v02: מְגִלַּת־סֵפֶר (megillat-sefer)
 “Scroll.” A written roll used to preserve Jeremiah’s prophetic words.

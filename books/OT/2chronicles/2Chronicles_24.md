@@ -95,7 +95,7 @@ v16: Jehoiada receives burial among kings because of his service to Israel, God,
 v20: “The Spirit of God clothed Zechariah” is a vivid idiom for prophetic empowerment.
 v22: Joash’s murder of Jehoiada’s son is presented as a betrayal of covenant loyalty toward the very household that preserved his life.
 
-##Vocabulary
+## Vocabulary
 
 v04: חָדַשׁ (chadash)
 “To repair” or renew.

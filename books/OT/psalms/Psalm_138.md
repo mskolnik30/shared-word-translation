@@ -67,64 +67,53 @@ your steadfast love, O LORD, endures forever.
 Do not forsake the work of your hands.
 </p>
 ## Notes
-v1–2: Thanksgiving is public and total (“whole heart…before the gods”).
-v2: God’s word is elevated—suggesting reliability surpassing reputation.
-v3: Answered prayer produces inner strength, not merely external change.
-v4–5: Personal experience expands to universal recognition.
-v6: God’s transcendence is paired with attentiveness to the lowly.
-v7: Preservation occurs within trouble, not apart from it.
-v8: Confidence rests in God’s ongoing purpose, not human control.
+v01–02: Thanksgiving is public and total (“whole heart…before the gods”).
+v02: God’s word is elevated—suggesting reliability surpassing reputation.
+v03: Answered prayer produces inner strength, not merely external change.
+v04–05: Personal experience expands to universal recognition.
+v06: God’s transcendence is paired with attentiveness to the lowly.
+v07: Preservation occurs within trouble, not apart from it.
+v08: Confidence rests in God’s ongoing purpose, not human control.
 
-##Vocabulary
+## Vocabulary
 
-v1: יָדָה (yadah)  
+v01: יָדָה (yadah)  
 
 “To give thanks.” Praise.
 
-v1: זָמַר (zamar)  
+v01: זָמַר (zamar)  
 
 “To sing praise.” Make music.
 
-v2: חֶסֶד (chesed)  
+v02: חֶסֶד (chesed)  
 
 “Steadfast love.” Covenant loyalty.
 
-v2: אֱמֶת (emet)  
+v02: אֱמֶת (emet)  
 
 “Faithfulness.” Reliability.
 
-v3: עָנָה (anah)  
+v03: עָנָה (anah)  
 
 “To answer.” Respond.
 
-v3: רָהַב (rahav)  
+v03: רָהַב (rahav)  
 
 “To strengthen.” Make bold.
 
-v6: שָׁפָל (shaphal)  
+v06: שָׁפָל (shaphal)  
 
 “Lowly.” Humble.
 
-v7: חָיָה (chayah)  
+v07: חָיָה (chayah)  
 
 “To preserve life.” Sustain.
 
-v7: יָשַׁע (yasha)  
+v07: יָשַׁע (yasha)  
 
 “To deliver.” Rescue.
 
-v8: גָּמַר (gamar)  
+v08: גָּמַר (gamar)  
 
 “To complete.” Bring to fulfillment.
 
-v01: יָדָה (yadah)
-“To give thanks.” Praise.
-
-v01: זָמַר (zamar)
-“To sing praise.” Make music.
-
-v02: חֶסֶד (chesed)
-“Steadfast love.” Covenant loyalty.
-
-v02: אֱמֶת (emet)
-“Faithfulness.” Reliability.

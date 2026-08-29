@@ -57,7 +57,7 @@ v10: Chronicles, like 1 Kings, says only the two stone tablets were in the ark a
 v11–13: Chronicles strongly emphasizes organized Levitical music and united worship at the temple dedication.
 v14: The cloud signifies divine presence and recalls the tabernacle in Exodus 40.
 
-##Vocabulary
+## Vocabulary
 
 v02: אֲרוֹן הַבְּרִית (aron ha-berit)
 “Ark of the covenant.”

@@ -164,13 +164,13 @@ and he will be laid among the uncircumcised with those slain by the sword—
 Pharaoh and all his multitude,
 declares the LORD GOD.
 </p>
-##Notes
+## Notes
 
 v27: The syntax and reference of the warriors in this verse are difficult.
 
 v32: “my terror”: The written form can be read “his terror,” while the traditional reading gives “my terror.” The latter has been followed here, making YHWH the one whose terror finally exceeds Pharaoh’s.
 
-##Vocabulary
+## Vocabulary
 
 v02: קִינָה (qinah)
 “Lament; dirge.” A formal poem of mourning.

@@ -121,7 +121,7 @@ v29: Tiglath-Pileser’s campaign marks a decisive stage in the dismantling of n
 v30: The “twentieth year of Jotham” is chronologically difficult because Jotham is said to reign sixteen years. It may count from an accession or co-regency framework. TSW preserves the Masoretic synchronism.
 v37: The Aram-Israel pressure on Judah prepares for the crisis under Ahaz in chapter 16 and in Isaiah 7.
 
-##Vocabulary
+## Vocabulary
 
 v05: צָרַעַת (tsara'at)
 “Skin disease.” The condition isolating Azariah.

@@ -87,11 +87,11 @@ v24: The sins of some are evident, going before them to judgment, but those of o
 v25: Likewise also good works are evident, and even those that are otherwise cannot remain hidden.
 </p>
 ## Notes
-v1–2: Correction is framed relationally. Age and gender shape the mode of exhortation.  
-v3–4: Family responsibility precedes institutional care.  
-v5–6: “True widow” is defined by dependence on God, not only circumstance.  
-v8: Provision for one’s household is treated as essential to faithfulness.  
-v9–10: Enrollment criteria emphasize character and history, not need alone.  
+v01–02: Correction is framed relationally. Age and gender shape the mode of exhortation.  
+v03–04: Family responsibility precedes institutional care.  
+v05–06: “True widow” is defined by dependence on God, not only circumstance.  
+v08: Provision for one’s household is treated as essential to faithfulness.  
+v09–10: Enrollment criteria emphasize character and history, not need alone.  
 v11–15: Younger widows are addressed with concern for vulnerability and social stability.  
 v13: Idleness is linked with social disruption (“gossips…busybodies”).  
 v16: The church’s resources are directed toward those without support.  
@@ -102,19 +102,19 @@ v21–22: Impartiality and caution are emphasized in leadership decisions.
 v23: Personal instruction is inserted without transition, reflecting practical concern.  
 v24–25: Hiddenness is temporary. Both sin and good works are ultimately revealed.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐπιπλήσσω (epiplēssō)  
+v01: ἐπιπλήσσω (epiplēssō)  
 
-v1: “To rebuke harshly.” To strike with words.  
+v01: “To rebuke harshly.” To strike with words.  
 
-v3: τιμάω (timaō)  
+v03: τιμάω (timaō)  
 
-v3: “To honor.” To value or support.  
+v03: “To honor.” To value or support.  
 
-v8: προνοέω (pronoēō)  
+v08: προνοέω (pronoēō)  
 
-v8: “To provide.” To care for in advance.  
+v08: “To provide.” To care for in advance.  
 
 v10: μαρτυρία (martyria)
 “Testimony.” Evidence of character.

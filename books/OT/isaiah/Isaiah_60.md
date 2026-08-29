@@ -65,17 +65,17 @@ v22: The little one will become a thousand, and the small one a strong nation;
 I, the LORD, will hasten it in its time.
 </p>
 ## Notes
-v1: Zion’s light is not self-generated; it is the reflected arrival of the LORD’s glory upon a city previously associated with darkness and humiliation.  
-v9: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v01: Zion’s light is not self-generated; it is the reflected arrival of the LORD’s glory upon a city previously associated with darkness and humiliation.  
+v09: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
 v16: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
 v14: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
 
-##Vocabulary
+## Vocabulary
 
-v1: אוֹר (or)  
+v01: אוֹר (or)  
 “Light.” The central image of Zion illuminated by the LORD’s glory.  
 
-v9: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+v09: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.  
 
 v16: גֹּאֵל (go'el)
@@ -87,8 +87,3 @@ v14: צִיּוֹן (tsiyyon)
 v14: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v01: אוֹר (or)
-“Light.” The central image of Zion illuminated by the LORD’s glory.
-
-v09: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.

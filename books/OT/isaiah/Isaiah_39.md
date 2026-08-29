@@ -25,7 +25,7 @@ v06: The Babylonian envoys transform a moment of recovery into a prophetic horiz
 v05: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
 v08: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
 
-##Vocabulary
+## Vocabulary
 
 v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A divine title emphasizing sovereign command.

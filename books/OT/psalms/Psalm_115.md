@@ -68,7 +68,7 @@ Praise the LORD!
 v09–11: The repeated third-person line “God is their help and their shield” follows the Hebrew shift in person rather than regularizing it to “your help.”
 v17: “Silence” is a poetic designation for the realm of death, where the dead no longer participate in the public praise voiced by the living community.
 
-##Vocabulary
+## Vocabulary
 
 v01: חֶסֶד (hesed)
 “Steadfast love,” covenantal loyalty expressed in faithful action.

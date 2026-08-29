@@ -98,8 +98,8 @@ v46: And day by day, attending the temple together and breaking bread in their h
 v47: praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved.
 </p>
 ## Notes
-v1–4: The Spirit’s coming is marked by sensory imagery—sound, sight, speech—without collapsing into explanation.  
-v6–8: The miracle is heard as much as seen; understanding occurs within each listener’s own language.  
+v01–04: The Spirit’s coming is marked by sensory imagery—sound, sight, speech—without collapsing into explanation.  
+v06–08: The miracle is heard as much as seen; understanding occurs within each listener’s own language.  
 v12–13: Wonder and dismissal coexist; the same event generates divergent interpretations.  
 v17–21: Joel’s prophecy frames the moment as expansive—across age, gender, and status—without narrowing its scope.  
 v23: Divine purpose and human responsibility are held together without resolution.  
@@ -112,16 +112,16 @@ v38: Repentance and baptism are paired as response; forgiveness and the Spirit a
 v39: The promise extends outward without defined boundary, grounded in divine calling.  
 v42–47: The community is described through practices rather than structure; devotion precedes organization.  
 
-##Vocabulary
+## Vocabulary
 
-v1: πεντηκοστή (pentēkostē)  
+v01: πεντηκοστή (pentēkostē)  
 “Pentecost.” A festival occurring fifty days after Passover; here the setting for the Spirit’s outpouring.  
 
-v2: πνοή (pnoē)  
+v02: πνοή (pnoē)  
 
-v2: “Wind” or “breath.” Connotes both natural force and life-giving presence.  
+v02: “Wind” or “breath.” Connotes both natural force and life-giving presence.  
 
-v4: γλῶσσα (glōssa)  
+v04: γλῶσσα (glōssa)  
 “Tongue” or “language.” Carries both physical and linguistic meaning.  
 
 v17: πνεῦμα (pneuma)
@@ -145,11 +145,6 @@ v38: μετάνοια (metanoia)
 v42: κοινωνία (koinōnia)  
 “Fellowship.” Shared life and participation within the community.  
 
-v01: πεντηκοστή (pentēkostē)
-“Pentecost.” A festival occurring fifty days after Passover; here the setting for the Spirit’s outpouring.
-
 v02: πνοή (pnoē)
 “Wind” or “breath.” Connotes both natural force and life-giving presence.
 
-v04: γλῶσσα (glōssa)
-“Tongue” or “language.” Carries both physical and linguistic meaning.

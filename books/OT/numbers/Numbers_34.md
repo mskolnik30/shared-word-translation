@@ -76,7 +76,7 @@ v07: The Mount Hor of this northern boundary is not the Mount Hor near Edom wher
 v13–15: The territorial description concerns the nine and a half tribes west of the Jordan because Reuben, Gad, and half of Manasseh have already received land east of the river.
 v17–29: Distribution is entrusted to priestly, military, and tribal leadership together rather than to Joshua alone.
 
-##Vocabulary
+## Vocabulary
 
 v02: גְּבוּל (gevul)
 “Boundary.” A territorial limit marking the extent of an inheritance.

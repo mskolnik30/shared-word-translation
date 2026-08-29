@@ -101,7 +101,7 @@ v16: “Until there was no remedy” marks the point when repeated prophetic war
 v21: Chronicles interprets exile through both Jeremiah’s seventy years and the land’s missed Sabbaths, echoing Leviticus 26.
 v22–23: The book ends with divine initiative through a foreign Persian king and an unfinished command: “Let him go up!” Chronicles closes by opening the way toward restoration.
 
-##Vocabulary
+## Vocabulary
 
 v03: עָנַשׁ (anash)
 “To fine” or impose a penalty.

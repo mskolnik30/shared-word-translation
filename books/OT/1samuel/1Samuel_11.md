@@ -70,7 +70,7 @@ v10: The men of Jabesh use deliberately ambiguous language, allowing the Ammonit
 v13: Saul refuses to turn victory into domestic vengeance and attributes salvation to the LORD.
 v14–15: Gilgal becomes the place where Saul’s kingship is publicly renewed after demonstrated deliverance.
 
-##Vocabulary
+## Vocabulary
 
 v01: בְּרִית (berit)
 “Covenant” or treaty.

@@ -109,10 +109,10 @@ v56: They were looking for Jesus and saying to one another as they stood in the 
 v57: Now the chief priests and the Pharisees had given orders that if anyone knew where Jesus was, they should report it, so that they might arrest him.
 </p>
 ## Notes
-v3: “the one you love is ill” — The appeal is relational, not transactional; need is voiced inside love.  
-v4: “for the glory of God… so that the Son of God may be glorified” — Glory here is not spectacle; it is God’s life-giving purpose revealed through loss and reversal.  
-v6: “he stayed two days longer” — Jesus’ delay is not indifference; the narrative forces a deeper question of trust when God’s timing feels wrong.  
-v9–10: “walks in the day… light… in them” — Jesus frames the journey as obedience in light; fear does not get the final vote in discernment.  
+v03: “the one you love is ill” — The appeal is relational, not transactional; need is voiced inside love.  
+v04: “for the glory of God… so that the Son of God may be glorified” — Glory here is not spectacle; it is God’s life-giving purpose revealed through loss and reversal.  
+v06: “he stayed two days longer” — Jesus’ delay is not indifference; the narrative forces a deeper question of trust when God’s timing feels wrong.  
+v09–10: “walks in the day… light… in them” — Jesus frames the journey as obedience in light; fear does not get the final vote in discernment.  
 v11–15: “fallen asleep… Lazarus has died… so that you may come to trust” — Jesus names death plainly, yet directs the moment toward deeper trust, not denial.  
 v16: Thomas: “Let us also go, that we may die with him” — Courage can be sincere and still incomplete; devotion mixes with misunderstanding.  
 v21–22: “If you had been here…” — Grief speaks truthfully to Jesus; lament and trust are allowed to coexist in the same breath.  
@@ -129,15 +129,15 @@ v51–52: Caiaphas “prophesied” — The gospel exposes ironic truth: God can
 v53–54: “they made plans… Jesus no longer walked openly” — The raising of Lazarus accelerates the conflict; life-giving power provokes lethal resistance.  
 v57: “report it… arrest him” — The chapter closes with surveillance and control; the powers of death reorganize in response to the sign of life.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀσθενέω (astheneō) — to be sick; to be weak  
+v01: ἀσθενέω (astheneō) — to be sick; to be weak  
 
-v5: ἀγαπάω (agapaō) — to love (self-giving love)  
+v05: ἀγαπάω (agapaō) — to love (self-giving love)  
 
-v4: δόξα (doxa) — glory; honor; revealed weight/brightness  
+v04: δόξα (doxa) — glory; honor; revealed weight/brightness  
 
-v9: φῶς (phōs) — light  
+v09: φῶς (phōs) — light  
 
 v11: κοιμάω (koimaō) — to sleep (often a metaphor for death)  
 

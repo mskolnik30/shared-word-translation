@@ -74,20 +74,20 @@ v22: Redeem Israel, O God,
 from all its troubles.
 </p>
 ## Notes
-v1–22: The psalm is shaped as an alphabetic acrostic, though its sequence is not entirely regular. The form gives ordered expression to a prayer that moves repeatedly between trust, instruction, confession, and distress.  
-v6–7: The prayer asks the LORD both to “remember” enduring compassion and not to remember the speaker’s earlier sins. In this passage, remembrance is active: it concerns how God will act toward the petitioner.  
+v01–22: The psalm is shaped as an alphabetic acrostic, though its sequence is not entirely regular. The form gives ordered expression to a prayer that moves repeatedly between trust, instruction, confession, and distress.  
+v06–07: The prayer asks the LORD both to “remember” enduring compassion and not to remember the speaker’s earlier sins. In this passage, remembrance is active: it concerns how God will act toward the petitioner.  
 v10: “Covenant” and “testimonies” describe a relationship in which the LORD’s steadfast love and faithfulness are encountered by those who keep the covenant’s obligations.  
 v14: “Counsel” can suggest confidential counsel or intimate fellowship. The line joins reverence for the LORD with being given knowledge of the covenant.  
 v22: The final petition widens the individual prayer into an appeal for Israel’s redemption from all its troubles.  
 v01–22: The psalm is shaped as an alphabetic acrostic, though its sequence is not entirely regular.
 
-##Vocabulary
+## Vocabulary
 
-v5: **אֱמֶת — *ʾemet***: “truth” is not merely correct information here; it is the dependable reality and faithfulness in which the psalmist asks God to lead them.  
+v05: **אֱמֶת — *ʾemet***: “truth” is not merely correct information here; it is the dependable reality and faithfulness in which the psalmist asks God to lead them.  
 
-v6: **רַחֲמִים — *raḥamim***: “compassion” is a plural form associated with deep, tender mercy. It stands alongside the LORD’s enduring acts of steadfast love.  
+v06: **רַחֲמִים — *raḥamim***: “compassion” is a plural form associated with deep, tender mercy. It stands alongside the LORD’s enduring acts of steadfast love.  
 
-v7: **חֶסֶד — *ḥesed***: Rendered “steadfast love,” this term names the LORD’s loyal, covenantal care. The psalmist appeals to that love rather than to personal innocence.  
+v07: **חֶסֶד — *ḥesed***: Rendered “steadfast love,” this term names the LORD’s loyal, covenantal care. The psalmist appeals to that love rather than to personal innocence.  
 
 v10: בְּרִית (berit)
 “Covenant” names the binding relationship established by God, with both divine faithfulness and a call to keep its testimonies.

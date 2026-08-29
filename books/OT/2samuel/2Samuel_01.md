@@ -117,7 +117,7 @@ v21: “fields of offerings” is difficult. The line may refer to fertile field
 v23: David’s lament speaks generously of Saul despite Saul’s hostility toward him. The poem is public mourning, not a complete historical evaluation of Saul’s reign.
 v26: David compares Jonathan’s covenantal love with the love of women. The verse celebrates extraordinary loyalty and affection without specifying a sexual relationship.
 
-##Vocabulary
+## Vocabulary
 
 v02: עָפָר (afar)
 “Dirt” or “dust.” Placed on the head as a sign of mourning.

@@ -66,7 +66,7 @@ v10: The “circle” marks the horizon or boundary where light and darkness mee
 v12–13: Rahab and the fleeing serpent are chaos-monster imagery. God’s ordering power is portrayed through victory over the sea and cosmic serpent.
 v14: Job insists that even these vast divine acts are merely “edges” and a whisper of God’s ways. Human speech about divine power remains radically partial.
 
-##Vocabulary
+## Vocabulary
 
 v05: רְפָאִים (Rephaim)
 “Shades” or “departed dead.” Inhabitants of the realm of death in poetic imagery.

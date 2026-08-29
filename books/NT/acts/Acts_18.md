@@ -101,11 +101,11 @@ v27: And when he wanted to go across to Achaia, the brothers encouraged him and 
 v28: for he was vigorously refuting the Jews in public, demonstrating through the Scriptures that Jesus is the Christ.
 </p>
 ## Notes
-v2–3: Shared trade supports sustained ministry presence.  
-v4–5: Reasoning and testimony function together in proclamation.  
-v6: Turning to Gentiles follows sustained rejection.  
-v8: Household belief reflects communal conversion patterns.  
-v9–10: Divine assurance stabilizes mission in hostile context.  
+v02–03: Shared trade supports sustained ministry presence.  
+v04–05: Reasoning and testimony function together in proclamation.  
+v06: Turning to Gentiles follows sustained rejection.  
+v08: Household belief reflects communal conversion patterns.  
+v09–10: Divine assurance stabilizes mission in hostile context.  
 v11: Extended teaching establishes foundational community.  
 v12–16: Roman authority declines involvement in internal disputes.  
 v17: Violence occurs without legal intervention.  
@@ -115,31 +115,31 @@ v24–25: Partial knowledge still enables effective proclamation.
 v26: Instruction corrects and completes understanding.  
 v27–28: Scripture-based argumentation confirms identity of Jesus.  
 
-##Vocabulary
+## Vocabulary
 
-v3: σκηνοποιός (skēnopoios)  
+v03: σκηνοποιός (skēnopoios)  
 
-v3: “Tentmaker.”  
+v03: “Tentmaker.”  
 
-v4: διαλέγομαι (dialegomai)  
+v04: διαλέγομαι (dialegomai)  
 
-v4: “To reason.”  
+v04: “To reason.”  
 
-v5: συνέχω (synechō)  
+v05: συνέχω (synechō)  
 
-v5: “To be occupied.”  
+v05: “To be occupied.”  
 
-v6: βλασφημέω (blasphēmeō)  
+v06: βλασφημέω (blasphēmeō)  
 
-v6: “To revile.”  
+v06: “To revile.”  
 
-v8: πιστεύω (pisteuō)  
+v08: πιστεύω (pisteuō)  
 
-v8: “To believe.”  
+v08: “To believe.”  
 
-v9: ὅραμα (horama)  
+v09: ὅραμα (horama)  
 
-v9: “Vision.”  
+v09: “Vision.”  
 
 v10: κακόω (kakoō)  
 

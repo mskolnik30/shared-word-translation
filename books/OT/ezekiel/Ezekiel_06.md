@@ -28,17 +28,17 @@ v13: And you shall know that I am the LORD, when their slain are among their ido
 v14: And I will stretch out my hand against them and make the land desolate and waste, from the wilderness of Diblah wherever they dwell. Then they shall know that I am the LORD.'"
 </p>
 ## Notes
-v3: v03 "Mountains of Israel": The prophetic word is directed against the geographical high places, often sites of idol worship, symbolizing the nation's apostasy.  
-v5: v05 "corpses of the Israelites before their idols": This imagery links the physical and spiritual downfall of Israel with its idolatry, vividly depicting judgment.  
-v7: v07 "you shall know that I am the Lord": This repeated refrain emphasizes the ultimate goal of the judgment: a renewed recognition of Yahweh's sovereignty.  
+v03: v03 "Mountains of Israel": The prophetic word is directed against the geographical high places, often sites of idol worship, symbolizing the nation's apostasy.  
+v05: v05 "corpses of the Israelites before their idols": This imagery links the physical and spiritual downfall of Israel with its idolatry, vividly depicting judgment.  
+v07: v07 "you shall know that I am the Lord": This repeated refrain emphasizes the ultimate goal of the judgment: a renewed recognition of Yahweh's sovereignty.  
 
-##Vocabulary
+## Vocabulary
 
-v1: v01 יְהוָ֖ה (ye.ho.vah) - "Lord": The covenant name of God, emphasizing His faithfulness and sovereign authority.  
+v01: v01 יְהוָ֖ה (ye.ho.vah) - "Lord": The covenant name of God, emphasizing His faithfulness and sovereign authority.  
 
-v2: v03 אָדָ֕ם (a.dam) - "Son of man": A title for Ezekiel emphasizing his humanity and role as representative and messenger.  
+v02: v03 אָדָ֕ם (a.dam) - "Son of man": A title for Ezekiel emphasizing his humanity and role as representative and messenger.  
 
-v9: v09 זוֹנֶ֗ה (za.nah) - "adulterous": Implies unfaithfulness to God, using strong matrimonial imagery to describe Israel's idolatry.  
+v09: v09 זוֹנֶ֗ה (za.nah) - "adulterous": Implies unfaithfulness to God, using strong matrimonial imagery to describe Israel's idolatry.  
 
 v01: יְהוָ֖ה (yehovah)
 “Lord": The covenant name of God, with a sense of His faithfulness and sovereign authority.

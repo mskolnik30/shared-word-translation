@@ -78,7 +78,7 @@ v16: Atonement is made not only for people but for sacred space, because the san
 v21–22: The live goat carries the confessed iniquities away from the community. The action is described concretely without a separate explanation of its symbolism.
 v29: “humble yourselves” — The Hebrew literally speaks of afflicting one’s *nefesh*. In this context it became associated with fasting and self-denial, but the broader wording is retained.
 
-##Vocabulary
+## Vocabulary
 
 v02: כַּפֹּרֶת (kapporet)
 “Atonement cover.” The cover over the ark within the Most Holy Place.

@@ -57,7 +57,7 @@ v04: The promised appearance of the LORD gives the ritual instructions a clear g
 v07: Aaron first makes atonement for himself before acting on behalf of the people, preserving the distinction between priest and God.
 v23–24: The appearance of glory culminates in fire from before the LORD, confirming the altar service while also anticipating the danger of unauthorized fire in chapter 10.
 
-##Vocabulary
+## Vocabulary
 
 v04: כָּבוֹד (kavod)
 “Glory.” The weight and manifest presence of the LORD.

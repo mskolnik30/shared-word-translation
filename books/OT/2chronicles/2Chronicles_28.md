@@ -99,7 +99,7 @@ v15: The care given to captives is concrete: clothing, sandals, food, drink, oil
 v20–21: Assyria, sought as savior, becomes another source of distress.
 v22: Chronicles makes Ahaz paradigmatic: distress drives him deeper into unfaithfulness rather than toward repentance.
 
-##Vocabulary
+## Vocabulary
 
 v03: תּוֹעֵבָה (toevah)
 “Detestable practice.”

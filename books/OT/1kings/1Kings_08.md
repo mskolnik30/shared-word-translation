@@ -213,11 +213,11 @@ v65: So Solomon held the festival at that time, and all Israel with him—a grea
 <p>
 v66: On the eighth day he sent the people away. They blessed the king and went to their tents joyful and glad of heart for all the good that the LORD had done for David his servant and for Israel his people.
 </p>
-##Notes
+## Notes
 
 v56: “Not one word has failed” literally says that not one word has “fallen.”
 
-##Vocabulary
+## Vocabulary
 
 v01: אֲרוֹן (ʾaron)
 “ark.” The ark is called “the ark of the covenant of the LORD.” Its movement from Zion into the temple centers the dedication on the covenant rather than on the building alone.

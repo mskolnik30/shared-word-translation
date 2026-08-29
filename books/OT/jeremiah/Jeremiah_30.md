@@ -175,7 +175,7 @@ v12–17: The same wound first declared incurable is later promised healing. The
 v21: “pledged his heart” is a difficult Hebrew idiom, literally involving becoming surety for one’s heart or daring to draw near. TSW retains the language of deliberate commitment to approach God.
 v23–24: The storm oracle closely resembles Jeremiah 23:19–20, but here it stands after restoration promises. TSW preserves the repetition and placement rather than harmonizing the contexts.
 
-##Vocabulary
+## Vocabulary
 
 v03: שׁוּב שְׁבוּת (shuv shevut)
 “To restore the fortunes.” An idiom of reversal, return, and restoration.

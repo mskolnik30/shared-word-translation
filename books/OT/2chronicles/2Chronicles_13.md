@@ -74,7 +74,7 @@ v08: Abijah presents the Davidic kingdom as “the kingdom of the LORD,” a str
 v17: The enormous casualty figures are part of the received text and should not be reduced by harmonization.
 v18: Chronicles interprets Judah’s victory through reliance upon the LORD rather than superior numbers.
 
-##Vocabulary
+## Vocabulary
 
 v05: בְּרִית מֶלַח (berit melach)
 “Covenant of salt.” An enduring covenant.

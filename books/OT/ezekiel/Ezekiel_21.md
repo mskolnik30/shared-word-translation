@@ -78,15 +78,15 @@ v32: You shall be fuel for the fire; your blood shall be in the midst of the lan
 </p>
 ## Notes
 v01: This verse is numbered 21:6 in the Hebrew chapter division; common English versification begins Ezekiel 21 here.
-v3–4: The pairing “righteous and wicked” emphasizes the breadth of the coming sword. The text leaves unresolved the tension created by judgment falling across moral categories.
-v5: The declaration that “all flesh shall know” makes the sword’s judgment publicly recognizable as the LORD’s action; once drawn, the sword will not return to its sheath.
+v03–04: The pairing “righteous and wicked” emphasizes the breadth of the coming sword. The text leaves unresolved the tension created by judgment falling across moral categories.
+v05: The declaration that “all flesh shall know” makes the sword’s judgment publicly recognizable as the LORD’s action; once drawn, the sword will not return to its sheath.
 v13: The Hebrew of the line containing “testing” is compressed and difficult, and the clause has been understood in more than one way. The wording should not be pressed into a single explanatory scheme.
 v27: The threefold “ruin” intensifies the announcement of overthrow. The following clause postpones resolution until the arrival of one “whose right it is,” without identifying that figure within the verse.
 
-##Vocabulary
+## Vocabulary
 
-v5: - **v5 אֲדֹנָ֣י יְהוִ֑ה (Adonai Yahweh)** - This divine title combines the sovereignty and covenant name of God, underscoring His authority and faithfulness.  
+v05: - **v5 אֲדֹנָ֣י יְהוִ֑ה (Adonai Yahweh)** - This divine title combines the sovereignty and covenant name of God, underscoring His authority and faithfulness.  
 
-v8: - **v8 חֶ֫רֶב (che.rev)** - Referring to the "sword," this imagery functions as a central symbol of divine judgment throughout the chapter.  
+v08: - **v8 חֶ֫רֶב (che.rev)** - Referring to the "sword," this imagery functions as a central symbol of divine judgment throughout the chapter.  
 
-v9: - **v9 רָשָׁע (ra.sha)** - Meaning "wicked," it characterizes those subject to divine judgment, juxtaposed with the "righteous" to highlight moral discernment in God's actions.
+v09: - **v9 רָשָׁע (ra.sha)** - Meaning "wicked," it characterizes those subject to divine judgment, juxtaposed with the "righteous" to highlight moral discernment in God's actions.

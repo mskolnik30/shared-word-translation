@@ -107,9 +107,9 @@ v29: Therefore those who were about to examine him withdrew from him immediately
 v30: And on the next day, wanting to know the certainty of why he was being accused by the Jews, he released him and commanded the chief priests and all the council to assemble, and bringing Paul down, he set him before them.
 </p>
 ## Notes
-v1–2: Use of Hebrew language establishes connection with audience.  
-v3–5: Paul grounds his authority in shared Jewish credentials.  
-v6–11: Encounter with Jesus redefines prior zeal.  
+v01–02: Use of Hebrew language establishes connection with audience.  
+v03–05: Paul grounds his authority in shared Jewish credentials.  
+v06–11: Encounter with Jesus redefines prior zeal.  
 v14–15: Calling includes revelation and universal witness.  
 v16: Baptism is linked with cleansing and invocation of Jesus’ name.  
 v17–21: Mission to Gentiles is divinely directed.  
@@ -117,31 +117,31 @@ v22: Rejection is triggered specifically by Gentile inclusion.
 v25–29: Roman citizenship functions as legal protection.  
 v30: Authority seeks formal clarification through council procedure.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀπολογία (apologia)  
+v01: ἀπολογία (apologia)  
 
-v1: “Defense.”  
+v01: “Defense.”  
 
-v2: Ἑβραΐς (Hebrais)  
+v02: Ἑβραΐς (Hebrais)  
 
-v2: “Hebrew language.”  
+v02: “Hebrew language.”  
 
-v3: ἀκρίβεια (akribeia)  
+v03: ἀκρίβεια (akribeia)  
 
-v3: “Strictness.”  
+v03: “Strictness.”  
 
-v4: διώκω (diōkō)  
+v04: διώκω (diōkō)  
 
-v4: “To persecute.”  
+v04: “To persecute.”  
 
-v6: φῶς (phōs)  
+v06: φῶς (phōs)  
 
-v6: “Light.”  
+v06: “Light.”  
 
-v7: φωνή (phōnē)  
+v07: φωνή (phōnē)  
 
-v7: “Voice.”  
+v07: “Voice.”  
 
 v10: τάσσω (tassō)  
 

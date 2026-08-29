@@ -85,8 +85,8 @@ v25: You are the sons of the prophets and of the covenant which God made with yo
 v26: To you first, God, having raised up his servant, sent him to bless you by turning each of you from your wickedness.”
 </p>
 ## Notes
-v6–7: Healing is mediated through the name of Jesus, not personal power.  
-v8–10: Public recognition confirms the authenticity of the sign.  
+v06–07: Healing is mediated through the name of Jesus, not personal power.  
+v08–10: Public recognition confirms the authenticity of the sign.  
 v12: Apostles redirect attention away from themselves.  
 v13–15: Contrast between human rejection and divine vindication.  
 v15: “Author of life” intensifies the paradox of rejection.  
@@ -96,19 +96,19 @@ v19–21: Repentance is linked with eschatological restoration.
 v22–23: Moses frames Jesus as the definitive prophet.  
 v25–26: Covenant promise extends blessing through repentance.  
 
-##Vocabulary
+## Vocabulary
 
-v2: ἐλεημοσύνη (eleēmosynē)  
+v02: ἐλεημοσύνη (eleēmosynē)  
 
-v2: “Alms.”  
+v02: “Alms.”  
 
-v6: ὄνομα (onoma)  
+v06: ὄνομα (onoma)  
 
-v6: “Name.”  
+v06: “Name.”  
 
-v7: στερεόω (stereoō)  
+v07: στερεόω (stereoō)  
 
-v7: “To make strong.”  
+v07: “To make strong.”  
 
 v10: θάμβος (thambos)
 “Amazement.”

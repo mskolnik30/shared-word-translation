@@ -111,7 +111,7 @@ v20: The tragic line “he did not know that the LORD had departed from him” m
 v28: Samson’s final prayer seeks divine strength but also explicitly seeks personal vengeance for his eyes. Deliverance and retaliation remain intertwined.
 v30: Samson’s greatest destruction occurs in his own death. He “begins” Israel’s deliverance from the Philistines, as announced in chapter 13, but does not complete it.
 
-##Vocabulary
+## Vocabulary
 
 v04: אָהַב (ahav)
 “To love.” Used explicitly for Samson’s relationship with Delilah.

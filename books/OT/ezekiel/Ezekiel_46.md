@@ -62,13 +62,13 @@ v23: There was a row of masonry around them, around all four; and places for boi
 v24: He said to me, “These are the cooking places where the servants of the house shall boil the sacrifices of the people.”
 </p>
 ## Notes
-v1: The east-facing inner gate is normally closed but opened for Sabbaths and new moons. The rhythm of closure and opening marks sacred time within the temple's ordered life.  
-v9: Those entering by one gate must leave by the opposite gate. The instruction creates a forward movement through the worshiping assembly: no one turns back by the way they came.  
+v01: The east-facing inner gate is normally closed but opened for Sabbaths and new moons. The rhythm of closure and opening marks sacred time within the temple's ordered life.  
+v09: Those entering by one gate must leave by the opposite gate. The instruction creates a forward movement through the worshiping assembly: no one turns back by the way they came.  
 v13–15: “Every morning” is deliberately repeated. The daily offering is not merely a general requirement but a continual practice sustaining the temple's worship.  
 v16–18: The prince's authority is explicitly limited. Gifts to servants are temporary, and the prince may not seize land from the people. The vision links just rule with the protection of each person's inherited possession.  
 v20: The concern is not that holiness is harmful, but that holy sacrificial food is handled within its proper space. The temple's boundaries order access to what is holy.  
 
-##Vocabulary
+## Vocabulary
 
 v12: שְׁלָמִים (shelamim)
 “well-being offerings.” In this passage these offerings accompany the prince's worship and express a sacrifice associated with wholeness and peace before the LORD.
@@ -76,9 +76,9 @@ v12: שְׁלָמִים (shelamim)
 v12: נְדָבָה (nedavah)
 “voluntary offering.” The prince's offering is not tied to the regular Sabbath or new-moon schedule, yet it is still carefully ordered within the temple's worship.
 
-v5: **מִנְחָה (*minchah*)** — “grain offering.” The term recurs throughout the chapter for the flour-and-oil offering that accompanies the animal sacrifices.  
+v05: **מִנְחָה (*minchah*)** — “grain offering.” The term recurs throughout the chapter for the flour-and-oil offering that accompanies the animal sacrifices.  
 
-v9: **מוֹעֵד (*mo'ed*)** — “appointed time.” These are the set occasions when the people come before the LORD, including the festivals named in v11.  
+v09: **מוֹעֵד (*mo'ed*)** — “appointed time.” These are the set occasions when the people come before the LORD, including the festivals named in v11.  
 
 v17: **דְּרוֹר (*deror*)** — “release.” A servant's gifted property returns to the prince in the year of release, preserving the prince's inheritance for his children.  
 

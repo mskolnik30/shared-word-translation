@@ -39,7 +39,7 @@ they are for war.
 v05: Meshech and Kedar are geographically distant from one another. Their pairing functions poetically as life among far-off or hostile peoples rather than as a precise travel itinerary.
 v07: The Hebrew begins simply, “I—peace.” “I am for peace” preserves the compressed self-identification while remaining intelligible in English.
 
-##Vocabulary
+## Vocabulary
 
 v04: רֹתֶם (rotem)
 “The broom shrub/tree, whose wood and coals became a proverbial image of intense, lasting heat.”

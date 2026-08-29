@@ -187,9 +187,9 @@ v51: But they shook off the dust from their feet against them and went to Iconiu
 v52: And the disciples were filled with joy and with the Holy Spirit.
 </p>
 ## Notes
-v2: Mission originates through Spirit direction.  
-v6–12: Opposition from false power contrasts with true authority.  
-v9: Name shift from Saul to Paul marks mission context.  
+v02: Mission originates through Spirit direction.  
+v06–12: Opposition from false power contrasts with true authority.  
+v09: Name shift from Saul to Paul marks mission context.  
 v16–41: Paul’s sermon traces redemptive history to Jesus.  
 v27–29: Rejection fulfills Scripture.  
 v30–31: Resurrection validates Jesus’ identity.  
@@ -199,23 +199,23 @@ v48: Belief is linked with divine appointment.
 v50–51: Rejection leads to relocation, not cessation.  
 v52: Joy and Spirit persist amid opposition.  
 
-##Vocabulary
+## Vocabulary
 
-v2: ἀφορίζω (aphorizō)  
+v02: ἀφορίζω (aphorizō)  
 
-v2: “To set apart.”  
+v02: “To set apart.”  
 
-v5: ὑπηρέτης (hypēretēs)  
+v05: ὑπηρέτης (hypēretēs)  
 
-v5: “Assistant.”  
+v05: “Assistant.”  
 
-v6: μάγος (magos)  
+v06: μάγος (magos)  
 
-v6: “Magician.”  
+v06: “Magician.”  
 
-v8: διαστρέφω (diastrephō)  
+v08: διαστρέφω (diastrephō)  
 
-v8: “To pervert.”  
+v08: “To pervert.”  
 
 v11: ἀχλύς (achlys)
 “Mist.”

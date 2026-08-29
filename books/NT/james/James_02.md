@@ -69,12 +69,12 @@ v25: And in the same way was not also Rahab the prostitute justified by works wh
 v26: For as the body apart from the spirit is dead, so also faith apart from works is dead.
 </p>
 ## Notes
-v1: Faith is qualified by practice; partiality contradicts confession.  
-v2–4: Social distinction reveals internal judgment.  
-v5: Divine choice reverses expected status.  
-v6–7: Behavior of the rich contradicts their assumed position.  
-v8: The law is summarized relationally.  
-v9–10: Violation is unified; failure in part implicates the whole.  
+v01: Faith is qualified by practice; partiality contradicts confession.  
+v02–04: Social distinction reveals internal judgment.  
+v05: Divine choice reverses expected status.  
+v06–07: Behavior of the rich contradicts their assumed position.  
+v08: The law is summarized relationally.  
+v09–10: Violation is unified; failure in part implicates the whole.  
 v11: Commandments are linked without hierarchy.  
 v12: Freedom is paired with judgment, not opposed to it.  
 v13: Mercy is both criterion and outcome.  
@@ -87,23 +87,23 @@ v24: Justification is expressed in relational terms, not defined.
 v25: Parallel example extends beyond a single figure.  
 v26: Analogy equates absence of works with death.  
 
-##Vocabulary
+## Vocabulary
 
-v1: προσωπολημψία (prosōpolēmpsia)  
+v01: προσωπολημψία (prosōpolēmpsia)  
 
-v1: “Partiality.” Showing favor based on status.  
+v01: “Partiality.” Showing favor based on status.  
 
-v4: διακρίνω (diakrinō)  
+v04: διακρίνω (diakrinō)  
 
-v4: “To distinguish.” To separate or judge.  
+v04: “To distinguish.” To separate or judge.  
 
-v5: κληρονόμος (klēronomos)  
+v05: κληρονόμος (klēronomos)  
 
-v5: “Heir.” One who receives inheritance.  
+v05: “Heir.” One who receives inheritance.  
 
-v8: νόμος βασιλικός (nomos basilikos)  
+v08: νόμος βασιλικός (nomos basilikos)  
 
-v8: “Royal law.” Central governing command.  
+v08: “Royal law.” Central governing command.  
 
 v10: πταίω (ptaio)  
 

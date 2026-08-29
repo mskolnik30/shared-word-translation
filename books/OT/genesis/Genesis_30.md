@@ -80,9 +80,9 @@ v42: But for the weaker of the flock he would not lay them there. So the weaker 
 v43: Thus the man increased greatly and had large flocks and female servants and male servants and camels and donkeys.
 </p>
 ## Notes
-v1–8: Rachel and Leah's rivalry shapes the narrative of the tribes' origins. The births are interpreted through the sisters' competing hopes and frustrations.  
-v2: Jacob recognizes that fertility ultimately belongs to God, though his answer offers little comfort.  
-v6–24: The names of the children often reflect wordplays, prayers, struggles, or interpretations of events surrounding their births.  
+v01–08: Rachel and Leah's rivalry shapes the narrative of the tribes' origins. The births are interpreted through the sisters' competing hopes and frustrations.  
+v02: Jacob recognizes that fertility ultimately belongs to God, though his answer offers little comfort.  
+v06–24: The names of the children often reflect wordplays, prayers, struggles, or interpretations of events surrounding their births.  
 v14–16: The mandrake episode highlights the desperation and complexity surrounding fertility within the household.  
 v17: Leah's conception is attributed to God's attention rather than human arrangements.  
 v22: The phrase “God remembered Rachel” signals divine action rather than prior forgetfulness.  
@@ -91,18 +91,18 @@ v27–30: Laban openly acknowledges that his prosperity has come through the LOR
 v31–43: The account focuses on Jacob's management of the flocks, yet the broader narrative attributes his success to divine blessing.  
 v43: The chapter closes with Jacob's increasing wealth, preparing for the growing tension between Jacob and Laban.  
 
-##Vocabulary
+## Vocabulary
 
-v1: קָנָא (qānāʾ)  
+v01: קָנָא (qānāʾ)  
 “To envy” or “be jealous.” A strong desire stirred by another's advantage.  
 
-v2: פְּרִי־בָטֶן (pĕrî-bāṭen)  
+v02: פְּרִי־בָטֶן (pĕrî-bāṭen)  
 “Fruit of the womb.” A common expression for children or offspring.  
 
-v6: דָּן (Dān)  
+v06: דָּן (Dān)  
 “Dan.” Connected with the verb meaning “to judge.”  
 
-v8: נַפְתָּלִי (Naphtālî)  
+v08: נַפְתָּלִי (Naphtālî)  
 “Naphtali.” Associated with wrestling, struggle, or contest.  
 
 v11: גָּד (Gāḏ)  
@@ -129,14 +129,3 @@ v27: נָחַשׁ (nāḥaš)
 v43: פָּרַץ (pāraṣ)  
 “To increase greatly” or “break forth.” A term describing rapid expansion and prosperity.  
 
-v01: קָנָא (qānāʾ)
-“To envy” or “be jealous.” A strong desire stirred by another's advantage.
-
-v02: פְּרִי־בָטֶן (pĕrî-bāṭen)
-“Fruit of the womb.” A common expression for children or offspring.
-
-v06: דָּן (Dān)
-“Dan.” Connected with the verb meaning “to judge.”
-
-v08: נַפְתָּלִי (Naphtālî)
-“Naphtali.” Associated with wrestling, struggle, or contest.

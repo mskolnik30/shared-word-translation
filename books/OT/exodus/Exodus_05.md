@@ -96,9 +96,9 @@ v22: Then Moses returned to the LORD and said, “Lord, why have you brought har
 <p>
 v23: For since I came to Pharaoh to speak in your name, he has brought harm upon this people, and you have not delivered your people at all.”
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: חָגַג (ḥāgag)
 “Hold a festival.” The verb frames Israel’s requested release as worshipful celebration for the LORD, not merely relief from Egyptian labor.

@@ -130,19 +130,19 @@ he rescues them from the wicked and saves them,
 because they take refuge in him.
 </p>
 ## Notes
-v3: “Tend faithfulness” is literally an imperative involving shepherding or feeding. It may call for faithful living as the sustaining practice of life in the land, rather than anxiety over the apparent success of wrongdoing.  
-v4: The promise concerning “the desires of your heart” follows the call to delight in the LORD. The verse holds together gift and desire without defining the manner or timing of fulfillment.  
-v7–8: The repeated warning against burning with anger is not passive approval of evil. It redirects the threatened response away from retaliatory wrongdoing.  
+v03: “Tend faithfulness” is literally an imperative involving shepherding or feeding. It may call for faithful living as the sustaining practice of life in the land, rather than anxiety over the apparent success of wrongdoing.  
+v04: The promise concerning “the desires of your heart” follows the call to delight in the LORD. The verse holds together gift and desire without defining the manner or timing of fulfillment.  
+v07–08: The repeated warning against burning with anger is not passive approval of evil. It redirects the threatened response away from retaliatory wrongdoing.  
 v11: “The humble” names those who do not seize power or security for themselves. Their inheritance of the land is paired with abundant *shalom*, a condition of wholeness and well-being.  
 v25: This is the testimony of an aged speaker, not an abstract denial that righteous people or their children ever experience poverty. The psalm’s wisdom speech voices trust in the LORD’s sustaining care amid the real tension of injustice.  
 v35: The Hebrew comparison is uncertain. “A flourishing native tree” follows a traditional understanding of the wording; the image portrays the wicked as apparently vigorous and securely rooted.  
 v37–38: “Future” translates a word that can mean an outcome, latter end, or what remains. The contrast is between the enduring prospect of the peaceful and the cut-off end of the wicked.  
 
-##Vocabulary
+## Vocabulary
 
-v3: **אֱמוּנָה — *’emunah***: “faithfulness.” Here it is something to be tended or cultivated, joining trust in the LORD with a durable, faithful way of life.  
+v03: **אֱמוּנָה — *’emunah***: “faithfulness.” Here it is something to be tended or cultivated, joining trust in the LORD with a durable, faithful way of life.  
 
-v9: **קָוָה — *qavah***: “wait for.” This waiting is expectant reliance on the LORD, set against anxious anger and envy.  
+v09: **קָוָה — *qavah***: “wait for.” This waiting is expectant reliance on the LORD, set against anxious anger and envy.  
 
 v11: שָׁלוֹם (shalom)
 “peace.” In this psalm it is more than the absence of conflict; it names abundant well-being for the humble.

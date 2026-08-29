@@ -167,7 +167,7 @@ v19: The Hebrew line is compressed. TSW preserves the comparison between reflect
 v21: Praise itself becomes a test: what a person does with honor can reveal character just as heat reveals metal.
 v23–27: Wisdom includes careful attention to ordinary material realities. Wealth is unstable; sustainable provision requires knowing and tending what one has.
 
-##Vocabulary
+## Vocabulary
 
 v01: הָלַל (halal)
 “To boast” or “praise.” Here self-confident speech about tomorrow.

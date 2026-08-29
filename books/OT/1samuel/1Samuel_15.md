@@ -141,7 +141,7 @@ v29: “Glory of Israel” is a divine title emphasizing God’s enduring reliab
 v32: Agag’s statement is difficult and can mean he comes cheerfully/confidently or in chains, and that death’s bitterness has surely passed or surely arrived. TSW follows one plausible reading and notes the ambiguity.
 v33: Samuel’s execution of Agag is presented as retributive judgment for Agag’s own violence.
 
-##Vocabulary
+## Vocabulary
 
 v02: פָּקַד (paqad)
 “To attend to” or visit in judgment.

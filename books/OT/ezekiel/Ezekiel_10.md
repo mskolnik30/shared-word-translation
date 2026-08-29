@@ -44,14 +44,14 @@ v21: Each had four faces and each one four wings; and the likeness of human hand
 v22: As for the likeness of their faces, they were the same faces whose appearance I had seen by the river Kebar. Each went straight forward.
 </p>
 ## Notes
-v1: The "expanse" and "throne" maintain imagery from previous visions of divine presence associated with God's rule and authority.  
-v7: The repetition highlights the ordered and purposeful movement and actions of the cherubim and wheels, emphasizing obedience and synchronicity in divine service.  
+v01: The "expanse" and "throne" maintain imagery from previous visions of divine presence associated with God's rule and authority.  
+v07: The repetition highlights the ordered and purposeful movement and actions of the cherubim and wheels, emphasizing obedience and synchronicity in divine service.  
 v13: The term "whirling wheels" suggests both their function and appearance, enhancing the imagery of dynamic movement characteristic to this vision.  
 v18: The movement of the LORD's glory signifies a transition and often marks shifts in divine presence or action within the narrative arc.  
 
-##Vocabulary
+## Vocabulary
 
-v1: **כְּרוּב** (ke.ruv) - "cherub"; a powerful angelic being often associated with the presence and glory of God in the temple and heavenly visions.  
+v01: **כְּרוּב** (ke.ruv) - "cherub"; a powerful angelic being often associated with the presence and glory of God in the temple and heavenly visions.  
 
 v13: גַּלְגַּל (galgal)
 “wheel"; used here to describe the complex and mysterious motions related to divine chariot imagery, marking the presence of God's dynamic and heavenly chariot.

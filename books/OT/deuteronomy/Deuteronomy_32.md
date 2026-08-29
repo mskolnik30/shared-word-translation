@@ -375,7 +375,7 @@ v43: The line has significant textual variation. Dead Sea Scroll and Greek forms
 v47: Torah is explicitly called Israel’s “life,” refusing any separation between instruction and flourishing.
 v51: Unlike some earlier Deuteronomic retellings, the closing charge directly names Moses’ own unfaithfulness at Meribah as the reason he will not enter the land.
 
-##Vocabulary
+## Vocabulary
 
 v02: לֶקַח (leqach)
 “Teaching.” Instruction that falls like rain.

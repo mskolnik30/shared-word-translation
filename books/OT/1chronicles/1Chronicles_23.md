@@ -132,13 +132,13 @@ v31: and for every offering of burnt offerings to the LORD on the Sabbaths, at t
 <p>
 v32: They were to keep the charge of the tent of meeting, the charge of the holy place, and the charge of the sons of Aaron, their relatives, for the service of the house of the LORD.
 </p>
-##Notes
+## Notes
 
 v09: The Hebrew textual tradition preserves a variation in the first name in Shimei’s line: *Shelomoth* is read here, while another form, *Shelomith*, appears in the written tradition.
 
 v27: “According to the last words of David” may mean David’s final instructions or a final record associated with him. The phrase gives special weight to the revised enrollment beginning at age twenty.
 
-##Vocabulary
+## Vocabulary
 
 v13: קֹדֶשׁ (qodesh)
 “holiness; holy thing.” Repeated as “the most holy things,” this term marks what belongs especially to the LORD and is entrusted to Aaron and his sons.

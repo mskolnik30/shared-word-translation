@@ -189,7 +189,7 @@ v33: The narrative describes Nebuchadnezzar in animal-like terms without naming 
 v34: Restoration begins when the king “lifts his eyes to the heavens,” reversing the self-exalting perspective of verse 30.
 v37: The chapter closes with the central theme: God can humble those who walk in pride.
 
-##Vocabulary
+## Vocabulary
 
 v04: רַעֲנַן (ra'anan)
 “Flourishing” or “luxuriant.” Prosperous and vigorous.

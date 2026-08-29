@@ -130,10 +130,7 @@ v11: צַדִּיק (tsaddiq) — righteous; just
 v11: צָדַק (tsadaq) — to make righteous; to declare right; to justify
 v12: “numbered with the rebels… intercession” — The climax holds together identification with sinners and advocacy for them; the Servant stands in the place of the guilty and pleads for the guilty.
 
-  ## Vocabulary
-
-v02: שֹׁרֶשׁ (shoresh) — root
-##Vocabulary
+## Vocabulary
 
 v01: אָמַן (’aman)
 “To trust; to be firm; to stand fast.”

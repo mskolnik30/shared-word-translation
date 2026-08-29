@@ -114,7 +114,7 @@ v21–22: The city is spared by sacrificing the rebel leader alone. The wise wom
 v23–26: The closing administrative list largely resembles 2 Samuel 8:15–18 but reflects changes in personnel and offices after years of conflict.
 v26: Ira is called David’s “priest,” though he is identified as Jairite rather than Levite. As with David’s sons in 8:18, the title may denote a high royal minister, but TSW retains the ordinary wording.
 
-##Vocabulary
+## Vocabulary
 
 v01: בְּלִיַּעַל (beliyya'al)
 “Worthless” or lawless. Describing Sheba.

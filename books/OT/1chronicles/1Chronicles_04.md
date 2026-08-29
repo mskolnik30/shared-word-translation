@@ -77,12 +77,12 @@ v42: Some of them, five hundred men from the sons of Simeon, went to Mount Seir 
 v43: They defeated the remaining Amalekites who had escaped, and they have lived there to this day.
 </p>
 ## Notes
-v1: The genealogy introduced in this verse traces the lineage of Judah, one of the twelve tribes of Israel.  
+v01: The genealogy introduced in this verse traces the lineage of Judah, one of the twelve tribes of Israel.  
 v10: The prayer of Jabez highlights his desire for God's blessing and presence, portraying his concern for God's protection and his territory's expansion. The narrative emphasizes God's willingness to respond to such requests, engaging the themes of divine blessing and human petition.  
 
-##Vocabulary
+## Vocabulary
 
-v1: Judah (יְהוּדָה, ye.hu.dah) — This name refers to one of the twelve tribes of Israel and is significant for its lineage leading to King David and, ultimately, to Jesus in Christian theology.  
+v01: Judah (יְהוּדָה, ye.hu.dah) — This name refers to one of the twelve tribes of Israel and is significant for its lineage leading to King David and, ultimately, to Jesus in Christian theology.  
 
 v10: יַעְבֵּץ (ya.bets), Jabez — The name Jabez derives from the Hebrew word for pain (עֹצֶב, o.tsev). His name reflects his mother's pain during childbirth, and Jabez’s prayer for blessings and protection shows his faith and God’s gracious response.  
 

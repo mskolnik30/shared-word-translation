@@ -114,7 +114,7 @@ v13–17: Murderer, adulterer, and thief structure their lives around darkness, 
 v18–24: This section is among the most difficult in the book syntactically. It may continue Job’s description of wicked prosperity while acknowledging eventual death, or it may voice the traditional judgment his friends expect. TSW preserves the received clauses without over-resolving their speaker or logic.
 v25: Job closes by challenging anyone to falsify his observation of the world.
 
-##Vocabulary
+## Vocabulary
 
 v01: עֵת (et)
 “Time” or “appointed time.” Job asks why times of judgment are not visible.

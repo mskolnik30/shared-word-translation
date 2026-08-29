@@ -162,29 +162,27 @@ They will stand before kings;
 they will not stand before obscure people.
 </p>
 ## Notes
-v1: Reputation and relational favor are treated as more valuable than accumulated wealth.  
-v6: The Hebrew phrase “according to his way” can refer to the path appropriate for the child, the direction in which the child is being formed, or the child’s characteristic way. The proverb states the formative power of early training without functioning as a mechanical guarantee.  
-v7: The proverb observes the power imbalance created by debt.  
-v9: The Hebrew literally speaks of a “good eye,” an idiom for generosity.  
+v01: Reputation and relational favor are treated as more valuable than accumulated wealth.  
+v06: The Hebrew phrase “according to his way” can refer to the path appropriate for the child, the direction in which the child is being formed, or the child’s characteristic way. The proverb states the formative power of early training without functioning as a mechanical guarantee.  
+v07: The proverb observes the power imbalance created by debt.  
+v09: The Hebrew literally speaks of a “good eye,” an idiom for generosity.  
 v16: Oppression of the poor and strategic giving to the rich are both presented as paths that ultimately impoverish.  
 v20: The Hebrew may mean “thirty sayings” or “excellent things.” The structure of Proverbs 22:17–24:22 supports the traditional understanding of thirty instructional units.
 v22–23: The LORD is presented as legal advocate for those who lack social power at the city gate.  
 v28: Boundary markers protected inherited land. Moving one could amount to quietly stealing another family’s property.  
 v06: The Hebrew phrase “according to his way” can refer to the path appropriate for the child, the direction in which the child is being formed, or the child’s characteristic way.
-v09: The Hebrew literally speaks of a “good eye,” an idiom for generosity.
+## Vocabulary
 
-##Vocabulary
-
-v1: שֵׁם (shem)  
+v01: שֵׁם (shem)  
 “Name.” Reputation or identity as known within the community.  
 
-v3: עָרוּם (arum)  
+v03: עָרוּם (arum)  
 “Prudent.” Able to perceive danger before entering it.  
 
-v6: חָנַךְ (chanakh)  
+v06: חָנַךְ (chanakh)  
 “To train,” “dedicate,” or “initiate.” To begin someone within a particular way.  
 
-v9: טוֹב־עַיִן (tov ayin)  
+v09: טוֹב־עַיִן (tov ayin)  
 “Generous eye.” Literally “good of eye,” an idiom for generosity.  
 
 v17: חָכָם (chakham)  
@@ -199,14 +197,3 @@ v28: גְּבוּל (gevul)
 v29: מָהִיר (mahir)  
 “Skilled” or “quick.” Competent and accomplished in work.  
 
-v01: שֵׁם (shem)
-“Name.” Reputation or identity as known within the community.
-
-v03: עָרוּם (arum)
-“Prudent.” Able to perceive danger before entering it.
-
-v06: חָנַךְ (chanakh)
-“To train,” “dedicate,” or “initiate.” To begin someone within a particular way.
-
-v09: טוֹב־עַיִן (tov ayin)
-“Generous eye.” Literally “good of eye,” an idiom for generosity.

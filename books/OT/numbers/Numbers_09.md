@@ -55,7 +55,7 @@ v13: “cut off” — The Hebrew phrase marks serious exclusion or judgment, bu
 v14: The resident alien who participates in Passover follows the same ritual statute as the native-born Israelite.
 v18–23: The repeated phrases “at the command of the LORD” and “when the cloud lifted” make Israel’s movement dependent upon divine presence rather than a fixed human schedule.
 
-##Vocabulary
+## Vocabulary
 
 v02: פֶּסַח (pesach)
 “Passover.” The covenant festival remembering the LORD’s deliverance from Egypt.

@@ -154,7 +154,7 @@ v33: Zelophehad’s daughters are named within the census before their inheritan
 v53–56: Population determines the relative size of tribal inheritance, while the lot determines location. Deliberate allocation and divinely received lot are held together.
 v64–65: The census confirms the fulfillment of the wilderness judgment: only Caleb and Joshua remain from the earlier counted generation.
 
-##Vocabulary
+## Vocabulary
 
 v02: פָּקַד (paqad)
 “To count,” “appoint,” or “attend to.” Here used for the census.

@@ -89,8 +89,8 @@ v33: They said to him, “Lord, let our eyes be opened.”
 v34: And Jesus, moved with compassion, touched their eyes, and immediately they recovered their sight and followed him.
 </p>
 ## Notes
-v1–7: Hiring pattern disrupts expectation; inclusion extends beyond early privilege.  
-v8–12: Payment order reveals perception of fairness tied to comparison, not agreement.  
+v01–07: Hiring pattern disrupts expectation; inclusion extends beyond early privilege.  
+v08–12: Payment order reveals perception of fairness tied to comparison, not agreement.  
 v15: “Evil eye” reflects resentment toward generosity, not injustice.  
 v16: Reversal principle applied concretely to reward structures.  
 v18–19: Prediction includes full sequence—religious rejection, Gentile involvement, execution, resurrection.  
@@ -101,11 +101,11 @@ v28: “Ransom” frames death as substitutionary and liberating.
 v30–31: Persistence overcomes social suppression; recognition precedes healing.  
 v34: Compassion leads to touch; healing results in following.  
 
-##Vocabulary
+## Vocabulary
 
-v2: δηνάριον (*dēnarion*) — “Denarius.” Standard daily wage.  
+v02: δηνάριον (*dēnarion*) — “Denarius.” Standard daily wage.  
 
-v6: ἀργοί (*argoi*) — “Idle.” Unemployed, not necessarily unwilling.  
+v06: ἀργοί (*argoi*) — “Idle.” Unemployed, not necessarily unwilling.  
 
 v11: ἐγόγγυζον (egongyzon)
 “They grumbled.” Murmured in dissatisfaction.

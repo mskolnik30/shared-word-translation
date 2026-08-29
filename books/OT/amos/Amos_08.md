@@ -153,7 +153,7 @@ v12: “from north to east” is unusual; a more symmetrical compass formula mig
 v14: “guilt of Samaria” may denote a deity, idol, or cultic object regarded by the prophet as Samaria’s guilt.
 v14: “the way of Beersheba” is an unusual oath formula and may refer to pilgrimage practice or a cultic power associated with the route. TSW preserves the wording.
 
-##Vocabulary
+## Vocabulary
 
 v01: קַיִץ (qayits)
 “Summer fruit.” The image in Amos’s fourth vision.

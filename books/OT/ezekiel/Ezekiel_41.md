@@ -108,9 +108,9 @@ v25: Cherubim and palm trees were made on the doors of the temple hall, like tho
 <p>
 v26: There were shuttered windows and palm trees on this side and on that side, on the sides of the porch, the side chambers of the house, and the canopies.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v04: קֹדֶשׁ קָדָשִׁים (qōdeš qodāšîm)
 “most holy place.” The superlative construction identifies the innermost chamber as sacred beyond the surrounding temple spaces.

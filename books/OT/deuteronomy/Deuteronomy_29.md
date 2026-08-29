@@ -101,7 +101,7 @@ v20: The language of smoking jealousy is intentionally intense and bodily, descr
 v22–28: Future generations and foreigners interpret devastated land through covenant history. Environmental ruin becomes public testimony to broken allegiance.
 v29: The closing saying distinguishes what belongs to divine hidden knowledge from revealed instruction given for obedience. It warns against allowing speculation to replace what has been made known.
 
-##Vocabulary
+## Vocabulary
 
 v01: בְּרִית (berit)
 “Covenant.” The Moab covenant renews and extends the Horeb relationship.

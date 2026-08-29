@@ -78,7 +78,7 @@ v07: Chronicles phrases the elders’ counsel in terms of being good, pleasing, 
 v11: “Scorpions” likely refers to a harsher whip or instrument of punishment rather than literal animals.
 v15: Human arrogance and divine purpose are held together without removing Rehoboam’s responsibility.
 
-##Vocabulary
+## Vocabulary
 
 v04: עֹל (ol)
 “Yoke.” A metaphor for royal labor and burden.

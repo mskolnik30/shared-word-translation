@@ -72,7 +72,7 @@ v15: Life/good and death/evil are covenant paths, not abstract philosophical opp
 v19: Heaven and earth function as enduring witnesses to Israel’s covenant choice.
 v20: The LORD himself is called “your life,” making covenant obedience fundamentally relational rather than merely legal.
 
-##Vocabulary
+## Vocabulary
 
 v01: שׁוּב אֶל־לֵב (shuv el-lev)
 “To bring back to the heart.” To take inward account of what has happened.

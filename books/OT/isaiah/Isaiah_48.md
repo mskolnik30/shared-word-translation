@@ -71,10 +71,10 @@ v22: There is no peace, says the LORD, to the wicked.
 ## Notes
 v10: “refined … not as silver” — Israel’s affliction is compared with refining, but the comparison is qualified; suffering is not reduced to a simple purification formula.  
 v17: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
-v2: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v02: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
 v20: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
-##Vocabulary
+## Vocabulary
 
 v17: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
@@ -82,7 +82,7 @@ v17: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 v17: גֹּאֵל (go'el)
 “Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
 
-v2: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v02: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
 v20: עֶבֶד (eved)

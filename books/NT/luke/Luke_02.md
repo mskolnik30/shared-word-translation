@@ -148,7 +148,7 @@ v49: “in my Father’s house” — The Greek phrase can be rendered “in my 
 v51: “he was subject to them” — The verb describes Jesus placing himself under the ordering of his parents. Luke holds this statement beside Jesus’ declaration concerning his Father without explaining away the tension.
 v52: “stature” — The Greek ἡλικία (hēlikia) can refer to physical stature or maturity/age. The translation retains “stature,” while the wider sense of maturation remains possible.
 
-##Vocabulary
+## Vocabulary
 
 v01: οἰκουμένη (oikoumenē)
 “The inhabited world.” Often used for the inhabited or ordered world and, in an imperial context, for the world under Roman rule.

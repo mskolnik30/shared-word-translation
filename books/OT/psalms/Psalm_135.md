@@ -79,7 +79,7 @@ Praise the LORD!
 ## Notes
 v14: The Hebrew verb can mean “judge” and, in this context, “vindicate” or defend the cause of God’s people. The following line of compassion clarifies the direction of the judgment.
 
-##Vocabulary
+## Vocabulary
 
 v04: סְגֻלָּה (segullah)
 “Treasured possession,” a specially valued possession belonging to a sovereign; covenant language for Israel’s belonging to the LORD.

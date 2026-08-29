@@ -93,10 +93,10 @@ v27: And arriving and gathering the church together, they reported all that God 
 v28: And they stayed no little time with the disciples.
 </p>
 ## Notes
-v1–2: Belief and opposition arise simultaneously.  
-v3: Bold proclamation is accompanied by divine confirmation.  
-v4–7: Division leads to mission expansion.  
-v8–10: Faith is recognized and responds to command.  
+v01–02: Belief and opposition arise simultaneously.  
+v03: Bold proclamation is accompanied by divine confirmation.  
+v04–07: Division leads to mission expansion.  
+v08–10: Faith is recognized and responds to command.  
 v11–13: Misinterpretation of power leads to idolatry.  
 v14–15: Apostles reject divine status and redirect to the Creator.  
 v16–17: General revelation testifies through providence.  
@@ -105,27 +105,27 @@ v21–22: Strengthening includes preparing for suffering.
 v23: Leadership is established through communal and spiritual processes.  
 v26–28: Mission report centers on God’s activity, not human achievement.  
 
-##Vocabulary
+## Vocabulary
 
-v2: ἀπειθέω (apeitheō)  
+v02: ἀπειθέω (apeitheō)  
 
-v2: “To disobey, refuse to believe.”  
+v02: “To disobey, refuse to believe.”  
 
-v3: παρρησιάζομαι (parrēsiazomai)  
+v03: παρρησιάζομαι (parrēsiazomai)  
 
-v3: “To speak boldly.”  
+v03: “To speak boldly.”  
 
-v5: ὑβρίζω (hybrizō)  
+v05: ὑβρίζω (hybrizō)  
 
-v5: “To mistreat.”  
+v05: “To mistreat.”  
 
-v7: εὐαγγελίζω (euangelizō)  
+v07: εὐαγγελίζω (euangelizō)  
 
-v7: “To proclaim good news.”  
+v07: “To proclaim good news.”  
 
-v9: πίστις (pistis)  
+v09: πίστις (pistis)  
 
-v9: “Faith.”  
+v09: “Faith.”  
 
 v10: ἅλλομαι (hallomai)  
 

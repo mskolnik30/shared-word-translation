@@ -79,13 +79,13 @@ v22: These refer to things that perish with use, according to human commands and
 v23: These have indeed an appearance of wisdom in self-made religion and humility and severe treatment of the body, but they are of no value against the indulgence of the flesh.
 </p>
 ## Notes
-v1–2: Paul’s “struggle” is relational and unseen. Its aim is internal strengthening and communal unity.
-v2: “Mystery…which is Christ” compresses content into person rather than system.
-v3: Wisdom and knowledge are located in Christ, not accessed independently.
-v4: Deception is linked to persuasion, not obvious falsehood.
-v6–7: Reception and walking are continuous. The metaphors (rooted, built, established) emphasize stability.
-v8: “Taken captive” frames false teaching as loss of freedom.
-v9–10: Fullness is located in Christ and shared with believers. Participation replaces deficiency.
+v01–02: Paul’s “struggle” is relational and unseen. Its aim is internal strengthening and communal unity.
+v02: “Mystery…which is Christ” compresses content into person rather than system.
+v03: Wisdom and knowledge are located in Christ, not accessed independently.
+v04: Deception is linked to persuasion, not obvious falsehood.
+v06–07: Reception and walking are continuous. The metaphors (rooted, built, established) emphasize stability.
+v08: “Taken captive” frames false teaching as loss of freedom.
+v09–10: Fullness is located in Christ and shared with believers. Participation replaces deficiency.
 v11–12: Circumcision and baptism are interpreted together. Physical and symbolic categories intersect.
 v13–14: Forgiveness is described as cancellation of debt, using legal imagery.
 v15: The cross is portrayed as victory over powers, not defeat.
@@ -94,25 +94,25 @@ v18–19: Disconnection from the head results in disordered growth.
 v20–22: Regulations are tied to perishable realities and human authority.
 v23: External discipline lacks power to transform internal desire.
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀγών (agōn)
+v01: ἀγών (agōn)
 
 “Struggle.” Intense effort or contest.
 
-v2: συμβιβάζω (symbibazō)
+v02: συμβιβάζω (symbibazō)
 
 “To knit together.” To unite closely.
 
-v3: θησαυρός (thēsauros)
+v03: θησαυρός (thēsauros)
 
 “Treasure.” Something of great value.
 
-v8: συλαγωγέω (sylagōgeō)
+v08: συλαγωγέω (sylagōgeō)
 
 “To take captive.” To carry off as spoil.
 
-v9: πλήρωμα (plērōma)
+v09: πλήρωμα (plērōma)
 
 “Fullness.” Complete totality.
 
@@ -140,14 +140,3 @@ v23: ἐθελοθρησκία (ethelothrēskia)
 
 “Self-made religion.” Voluntary or invented practice.
 
-v01: ἀγών (agōn)
-“Struggle.” Intense effort or contest.
-
-v02: συμβιβάζω (symbibazō)
-“To knit together.” To unite closely.
-
-v03: θησαυρός (thēsauros)
-“Treasure.” Something of great value.
-
-v08: συλαγωγέω (sylagōgeō)
-“To take captive.” To carry off as spoil.

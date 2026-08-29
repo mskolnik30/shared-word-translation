@@ -46,7 +46,7 @@ v03: Chronicles again distinguishes a king’s failures from genuine reforms rat
 v06–07: Judges are told that their work is performed before the LORD, making impartial justice a theological obligation.
 v10: “Between blood and blood” is a legal idiom for different categories of homicide or bloodguilt.
 
-##Vocabulary
+## Vocabulary
 
 v02: עָזַר (azar)
 “To help.” Jehoshaphat’s alliance with the wicked is condemned.

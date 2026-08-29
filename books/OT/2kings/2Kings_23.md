@@ -143,7 +143,7 @@ v26–27: Even Josiah’s exceptional reform does not reverse the accumulated ju
 v29: The political circumstances of Josiah’s encounter with Pharaoh Neco are compressed. 2 Chronicles 35 supplies a fuller battle narrative.
 v34: Pharaoh changes Eliakim’s name to Jehoiakim, demonstrating Egyptian control over Judah’s succession.
 
-##Vocabulary
+## Vocabulary
 
 v03: בְּרִית (berit)
 “Covenant.” Josiah renews the covenant publicly.

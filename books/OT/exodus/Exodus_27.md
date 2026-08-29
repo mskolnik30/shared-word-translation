@@ -67,7 +67,7 @@ v16: The entrance screen uses the same sacred colors seen in the dwelling, marki
 v20: “beaten olive oil” refers to high-quality oil produced from crushed olives, suitable for a clear-burning sanctuary light.
 v21: The lamp burns through the night under priestly care. “Tent of meeting” emphasizes the sanctuary as a place of encounter between the LORD and Israel.
 
-##Vocabulary
+## Vocabulary
 
 v01: מִזְבֵּחַ (mizbeach)
 “Altar.” The place of sacrifice.

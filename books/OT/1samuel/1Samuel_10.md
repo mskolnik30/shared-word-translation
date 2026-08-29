@@ -99,7 +99,7 @@ v22: Saul’s hiding among the baggage contrasts his imposing appearance with re
 v25: “Judgment of the kingship” likely refers to the proper terms or obligations of kingship, not merely the abuses warned about in chapter 8.
 v27: The final phrase is difficult and can mean Saul kept silent, was as one deaf, or ignored the insult. TSW preserves the restraint sense.
 
-##Vocabulary
+## Vocabulary
 
 v01: פַּךְ שֶׁמֶן (pakh shemen)
 “Flask of oil.”

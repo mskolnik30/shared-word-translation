@@ -71,7 +71,7 @@ v14: “Who knows” preserves uncertainty rather than claiming Mordecai possess
 v16: Esther’s three-day fast makes her action a communal act of solidarity and dependence. The Hebrew text does not explicitly mention prayer, so TSW does not add it.
 v16: “If I perish, I perish” is neither despair nor certainty of death; it is Esther’s acceptance of the risk attached to action.
 
-##Vocabulary
+## Vocabulary
 
 v01: שַׂק (saq)
 “Sackcloth.” Coarse material worn in mourning.

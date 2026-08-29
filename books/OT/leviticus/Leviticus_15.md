@@ -81,7 +81,7 @@ v16–18: Sexual intercourse within itself is not called sinful here; the result
 v19–30: Menstrual and abnormal uterine bleeding are treated as ritual states with different durations and procedures. The text does not describe menstruation as moral failure.
 v31: The concern is ultimately sanctuary-centered: unmanaged uncleanness threatens the holy dwelling of the LORD among the people.
 
-##Vocabulary
+## Vocabulary
 
 v02: זוֹב (zov)
 “Discharge.” A bodily flow that can create ritual uncleanness.

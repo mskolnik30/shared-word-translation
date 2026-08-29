@@ -139,9 +139,9 @@ v39: and coming, they appealed to them, and bringing them out, they were asking 
 v40: And going out from the prison, they went to Lydia, and seeing the brothers, they encouraged them and departed.
 </p>
 ## Notes
-v3: Circumcision here is strategic, not salvific.  
-v6–8: Mission is directed by restriction as well as permission.  
-v9–10: Vision clarifies geographic direction.  
+v03: Circumcision here is strategic, not salvific.  
+v06–08: Mission is directed by restriction as well as permission.  
+v09–10: Vision clarifies geographic direction.  
 v14: Conversion is attributed to divine initiative.  
 v16–18: Spiritual authority confronts exploitative systems.  
 v19–24: Economic loss motivates persecution.  
@@ -152,27 +152,27 @@ v33–34: Immediate response includes care, baptism, and joy.
 v37–39: Legal status is asserted to expose injustice.  
 v40: Community strengthening continues after release.  
 
-##Vocabulary
+## Vocabulary
 
-v2: μαρτυρέω (martyreō)  
+v02: μαρτυρέω (martyreō)  
 
-v2: “To bear witness.”  
+v02: “To bear witness.”  
 
-v3: περιτέμνω (peritemnō)  
+v03: περιτέμνω (peritemnō)  
 
-v3: “To circumcise.”  
+v03: “To circumcise.”  
 
-v5: στηρίζω (stērizō)  
+v05: στηρίζω (stērizō)  
 
-v5: “To strengthen.”  
+v05: “To strengthen.”  
 
-v6: κωλύω (kōlyō)  
+v06: κωλύω (kōlyō)  
 
-v6: “To forbid.”  
+v06: “To forbid.”  
 
-v9: ὅραμα (horama)  
+v09: ὅραμα (horama)  
 
-v9: “Vision.”  
+v09: “Vision.”  
 
 v10: συμβιβάζω (symbibazō)  
 

@@ -71,11 +71,11 @@ v24: and so do Mark, Aristarchus, Demas, and Luke, my fellow workers.
 v25: The grace of the Lord Jesus Christ be with your spirit.
 </p>
 ## Notes
-v1–3: Greeting expands beyond individual to household and church.
-v1: Identity is framed through relationship and condition.
-v4–7: Thanksgiving emphasizes observed conduct.
-v6: Effectiveness of faith is tied to recognition.
-v8–9: Authority is present but not exercised directly.
+v01–03: Greeting expands beyond individual to household and church.
+v01: Identity is framed through relationship and condition.
+v04–07: Thanksgiving emphasizes observed conduct.
+v06: Effectiveness of faith is tied to recognition.
+v08–09: Authority is present but not exercised directly.
 v10–11: Relationship reframes prior status.
 v12: Personal language intensifies appeal.
 v13–14: Voluntary action is preferred over obligation.
@@ -87,25 +87,25 @@ v21: Expectation exceeds explicit request.
 v22: Future visit adds implicit accountability.
 v23–25: Closing maintains relational network.
 
-##Vocabulary
+## Vocabulary
 
-v1: δέσμιος (desmios)
+v01: δέσμιος (desmios)
 
 “Prisoner.” One in bonds.
 
-v1: συνεργός (synergos)
+v01: συνεργός (synergos)
 
 “Fellow worker.” One who labors together.
 
-v2: στρατιώτης (stratiōtēs)
+v02: στρατιώτης (stratiōtēs)
 
 “Soldier.” One engaged in service.
 
-v5: ἀγάπη (agapē)
+v05: ἀγάπη (agapē)
 
 “Love.” Relational commitment.
 
-v6: κοινωνία (koinōnia)
+v06: κοινωνία (koinōnia)
 
 “Sharing.” Participation.
 
@@ -140,11 +140,3 @@ v20: ἀναπαύω (anapauō)
 v25: χάρις (charis)
 “Grace.” Favor given freely.
 
-v01: δέσμιος (desmios)
-“Prisoner.” One in bonds.
-
-v01: συνεργός (synergos)
-“Fellow worker.” One who labors together.
-
-v02: στρατιώτης (stratiōtēs)
-“Soldier.” One engaged in service.

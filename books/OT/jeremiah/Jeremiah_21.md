@@ -72,7 +72,7 @@ v05: The language of “outstretched hand and strong arm,” often associated wi
 v08–09: “the way of life and the way of death” is startling because survival requires surrender to Babylon. Covenant language is retained while expected categories of loyalty are reversed.
 v13: Jerusalem is addressed through difficult topographical imagery. “Inhabitant of the valley, rock of the plain” may evoke the city’s sense of natural defensibility without precisely identifying a single feature.
 
-##Vocabulary
+## Vocabulary
 
 v02: דָּרַשׁ (darash)
 “To inquire” or “seek.” Zedekiah asks Jeremiah to seek a word from the LORD.

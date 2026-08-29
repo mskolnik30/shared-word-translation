@@ -95,17 +95,17 @@ v21: Every cooking pot in Jerusalem and Judah will be holy to the LORD of Hosts,
 And on that day there will no longer be a Canaanite in the house of the LORD of Hosts.
 </p>
 ## Notes
-v1: “a day … for the LORD” — The chapter develops the prophetic theme of the “day of the LORD,” combining judgment, warfare, cosmic disturbance, deliverance, worship, and holiness without reducing the day to a single event or image.  
-v2: The fall of Jerusalem is described in deliberately severe language before the LORD’s intervention. The text does not shield the reader from the violence associated with conquest.  
-v4: “the LORD’s feet” — Divine intervention is described in concrete bodily imagery. The translation retains the image rather than replacing it with abstract language about divine presence.  
-v4: “Mount of Olives” — The mountain east of Jerusalem is split to form a great east-west valley, transforming the geography around the city.  
-v5: “Azal” — The location is uncertain. The name is retained without attempting to identify it with a known site.  
-v5: “the earthquake in the days of Uzziah” — The same earthquake is remembered in Amos 1:1. Zechariah assumes it remained part of communal memory.  
-v5: “all the holy ones with him” — The final Hebrew pronoun has textual and interpretive complexity. The line clearly presents the LORD’s coming accompanied by holy ones; the main text gives the relationship in ordinary English while the underlying wording remains compressed.  
-v6: “the lights will grow dim” — The Hebrew text is unusually difficult. Its terms have been understood in relation to light, cold, frost, or celestial bodies becoming fixed or congealed. The translation follows the immediate light/darkness context while recognizing the uncertainty.  
-v7: “neither day nor night” — Ordinary temporal distinctions break down. The verse does not explain the phenomenon but culminates unexpectedly in light at evening.  
-v8: “living waters” — Flowing or fresh water moves continuously from Jerusalem in both directions. The statement that it flows in summer and winter emphasizes permanence beyond normal seasonal limits.  
-v9: “the LORD will be one, and the LORD’s name one” — Universal kingship culminates in undivided acknowledgment of the LORD. The wording echoes Israel’s confession of the LORD’s uniqueness.  
+v01: “a day … for the LORD” — The chapter develops the prophetic theme of the “day of the LORD,” combining judgment, warfare, cosmic disturbance, deliverance, worship, and holiness without reducing the day to a single event or image.  
+v02: The fall of Jerusalem is described in deliberately severe language before the LORD’s intervention. The text does not shield the reader from the violence associated with conquest.  
+v04: “the LORD’s feet” — Divine intervention is described in concrete bodily imagery. The translation retains the image rather than replacing it with abstract language about divine presence.  
+v04: “Mount of Olives” — The mountain east of Jerusalem is split to form a great east-west valley, transforming the geography around the city.  
+v05: “Azal” — The location is uncertain. The name is retained without attempting to identify it with a known site.  
+v05: “the earthquake in the days of Uzziah” — The same earthquake is remembered in Amos 1:1. Zechariah assumes it remained part of communal memory.  
+v05: “all the holy ones with him” — The final Hebrew pronoun has textual and interpretive complexity. The line clearly presents the LORD’s coming accompanied by holy ones; the main text gives the relationship in ordinary English while the underlying wording remains compressed.  
+v06: “the lights will grow dim” — The Hebrew text is unusually difficult. Its terms have been understood in relation to light, cold, frost, or celestial bodies becoming fixed or congealed. The translation follows the immediate light/darkness context while recognizing the uncertainty.  
+v07: “neither day nor night” — Ordinary temporal distinctions break down. The verse does not explain the phenomenon but culminates unexpectedly in light at evening.  
+v08: “living waters” — Flowing or fresh water moves continuously from Jerusalem in both directions. The statement that it flows in summer and winter emphasizes permanence beyond normal seasonal limits.  
+v09: “the LORD will be one, and the LORD’s name one” — Universal kingship culminates in undivided acknowledgment of the LORD. The wording echoes Israel’s confession of the LORD’s uniqueness.  
 v10: The geographical references describe a Jerusalem elevated above a surrounding plain. Several of the named gates and boundaries cannot be located with certainty.  
 v11: “ban of destruction” — The Hebrew *cherem* can describe something placed under irrevocable ban, often for destruction. Its removal expresses Jerusalem’s permanent security.  
 v12: The plague is depicted through extreme bodily disintegration. The graphic imagery is retained because it is integral to the prophetic vision.  
@@ -117,21 +117,21 @@ v21: “Canaanite” — The Hebrew word can mean an ethnic Canaanite but can al
 v20–21: The book ends not merely with Jerusalem surviving but with pervasive holiness: horses, cooking pots, city, and temple equipment all belong to the LORD.  
 v05: “all the holy ones with him” — The final Hebrew pronoun has textual and interpretive complexity.
 
-##Vocabulary
+## Vocabulary
 
-v1: יוֹם־לַיהוָה (yom laYHWH)  
+v01: יוֹם־לַיהוָה (yom laYHWH)  
 “Day for the LORD” or “day of the LORD.” Prophetic language for decisive divine action in judgment and restoration.  
 
-v1: שָׁלַל (shalal)  
+v01: שָׁלַל (shalal)  
 “To plunder.” To take goods as spoil in conquest.  
 
-v4: בָּקַע (baqa)  
+v04: בָּקַע (baqa)  
 “To split” or “cleave.” To divide something open, here used of the Mount of Olives.  
 
-v8: מַיִם חַיִּים (mayim chayyim)  
+v08: מַיִם חַיִּים (mayim chayyim)  
 “Living waters.” Fresh, flowing water rather than stagnant water.  
 
-v9: מֶלֶךְ (melekh)  
+v09: מֶלֶךְ (melekh)  
 “King.” One who rules; here the LORD’s kingship extends over the whole earth.  
 
 v11: חֵרֶם (cherem)  
@@ -149,11 +149,3 @@ v20: קֹדֶשׁ לַיהוָה (qodesh laYHWH)
 v21: כְּנַעֲנִי (kena'ani)  
 “Canaanite,” and in some contexts “merchant” or “trader.” The final verse permits both associations, though the main text retains “Canaanite.”  
 
-v01: יוֹם־לַיהוָה (yom laYHWH)
-“Day for the LORD” or “day of the LORD.” Prophetic language for decisive divine action in judgment and restoration.
-
-v01: שָׁלַל (shalal)
-“To plunder.” To take goods as spoil in conquest.
-
-v04: בָּקַע (baqa)
-“To split” or “cleave.” To divide something open, here used of the Mount of Olives.

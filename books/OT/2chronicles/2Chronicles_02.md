@@ -60,7 +60,7 @@ v06: Solomon explicitly confesses that even the highest heavens cannot contain G
 v14: Chronicles describes Huram-Abi’s maternal ancestry differently from 1 Kings 7:14, which associates his mother with Naphtali. TSW preserves Chronicles’ form.
 v17–18: The labor force is drawn from resident aliens living in Israel. The text presents this as royal labor organization within the ancient monarchy.
 
-##Vocabulary
+## Vocabulary
 
 v04: קָדַשׁ (qadash)
 “To consecrate.” To set apart for the LORD.

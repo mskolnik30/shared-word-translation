@@ -171,21 +171,21 @@ and blows
 for the backs of fools.
 </p>
 ## Notes
-v2: Desire and zeal are not inherently wise. Action without knowledge can move quickly in the wrong direction.  
-v3: The proverb identifies a recurring human pattern: folly produces disaster, after which responsibility is redirected toward God.  
-v7: The Hebrew ending is difficult. The central point remains the social abandonment experienced by the poor.  
+v02: Desire and zeal are not inherently wise. Action without knowledge can move quickly in the wrong direction.  
+v03: The proverb identifies a recurring human pattern: folly produces disaster, after which responsibility is redirected toward God.  
+v07: The Hebrew ending is difficult. The central point remains the social abandonment experienced by the poor.  
 v11: Overlooking an offense can be a mark of strength and honor rather than weakness.  
 v17: Generosity to the poor is presented as lending directly to the LORD, giving extraordinary theological weight to material care.  
 v18: The Hebrew second line has been rendered in several ways. TSW reads it as a warning that discipline aims at life and correction, not destruction.  
 v21: Human plans remain real, but they do not finally overrule the purpose of the LORD.  
 v24: Laziness is exaggerated almost comically: the person expends enough effort to reach the food but not enough to finish eating.  
 
-##Vocabulary
+## Vocabulary
 
-v1: תֹּם (tom)  
+v01: תֹּם (tom)  
 “Integrity” or “wholeness.” Undivided character and conduct.  
 
-v2: נֶפֶשׁ (nefesh)  
+v02: נֶפֶשׁ (nefesh)  
 “Life,” “self,” or “desire.” Here associated with desire lacking knowledge.  
 
 v11: שֵׂכֶל (sekhel)  
@@ -206,8 +206,3 @@ v23: יִרְאַת יְהוָה (yirat YHWH)
 v28: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Right ordering that a corrupt witness treats with contempt.
 
-v01: תֹּם (tom)
-“Integrity” or “wholeness.” Undivided character and conduct.
-
-v02: נֶפֶשׁ (nefesh)
-“Life,” “self,” or “desire.” Here associated with desire lacking knowledge.

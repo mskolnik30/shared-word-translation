@@ -66,7 +66,7 @@ v04: “Caphtor” is associated elsewhere with the ancestral homeland of the Ph
 v05: Shaving the head and cutting the body are mourning practices. The verse portrays Philistine cities as already embodied in grief.
 v06–07: The prophet addresses the LORD’s sword as though it could choose to rest, but the answer insists that it moves under divine command.
 
-##Vocabulary
+## Vocabulary
 
 v02: נַחַל שׁוֹטֵף (nachal shotef)
 “Overflowing torrent.” Flood imagery for the invading force.

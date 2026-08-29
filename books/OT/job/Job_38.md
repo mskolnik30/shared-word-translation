@@ -184,7 +184,7 @@ v31–33: The constellation names are traditional identifications of ancient Heb
 v36: The Hebrew words rendered “inward parts” and “mind” are rare and disputed; proposed referents include human intellect or phenomena of the sky. TSW follows the common human-wisdom interpretation while preserving the uncertainty in this note.
 v39–41: The speech turns from cosmic order to wild animals, asking Job to consider creatures sustained outside human control.
 
-##Vocabulary
+## Vocabulary
 
 v01: סְעָרָה (se'arah)
 “Storm” or “whirlwind.” The setting from which the LORD speaks.

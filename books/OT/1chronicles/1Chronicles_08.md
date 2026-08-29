@@ -154,15 +154,15 @@ v39: The sons of Eshek his brother: Ulam his firstborn, Jeush the second, and El
 v40: The sons of Ulam were mighty warriors, drawing the bow. They had many sons and grandsons, one hundred fifty in all. All these were from the sons of Benjamin.
 </p>
 ## Notes
-v6–7: The notice that the people of Geba were “carried away” is compressed, and the precise relationship between Gera and the preceding families is not fully clear. The genealogy preserves the displacement without explaining its circumstances.
-v8: “After he had sent away” can refer to Shaharaim’s sending away his wives, Hushim and Baara. The brief statement does not explain why they were sent away.  
+v06–07: The notice that the people of Geba were “carried away” is compressed, and the precise relationship between Gera and the preceding families is not fully clear. The genealogy preserves the displacement without explaining its circumstances.
+v08: “After he had sent away” can refer to Shaharaim’s sending away his wives, Hushim and Baara. The brief statement does not explain why they were sent away.  
 v12: The expression translated “its villages” literally means “its daughters,” a common way of referring to smaller settlements associated with a principal town.  
 v28: The repeated language of “heads” emphasizes that these lists identify recognized household and clan leaders, not merely successive biological descendants.  
 v33–40: The genealogy reaches Saul’s family and continues through Jonathan’s line, joining Benjamin’s wider network of households to the royal house while tracing its continuing descendants.
 
-##Vocabulary
+## Vocabulary
 
-v6: - **v06: רָאשֵׁי אָבוֹת (*rashei avot*)** — “heads of ancestral houses.” This designation identifies persons who represent and lead extended kinship groups within Benjamin.  
+v06: - **v06: רָאשֵׁי אָבוֹת (*rashei avot*)** — “heads of ancestral houses.” This designation identifies persons who represent and lead extended kinship groups within Benjamin.  
 
 v12: - **v12: בְּנוֹתֶיהָ (*benoteha*)** — literally, “its daughters.” Applied to Lod, the word refers to dependent villages or settlements surrounding the city.  
 

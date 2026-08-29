@@ -87,7 +87,7 @@ v34: But when Pharaoh saw that the rain, the hail, and the thunder had ceased, h
 v35: Pharaoh’s heart was strengthened, and he did not let the Israelites go, just as the LORD had spoken through Moses.
 </p>
 ## Notes
-v4–7: **9:4, 6–7:** The narrative emphasizes a distinction between Egypt’s livestock and Israel’s livestock. Pharaoh verifies the report, yet his investigation does not lead him to release the people.  
+v04–07: **9:4, 6–7:** The narrative emphasizes a distinction between Egypt’s livestock and Israel’s livestock. Pharaoh verifies the report, yet his investigation does not lead him to release the people.  
 v12: **9:12:** “The LORD strengthened Pharaoh’s heart” uses language distinct from Pharaoh’s own hardening of his heart in verses 7 and 34. The chapter preserves both divine action and Pharaoh’s continuing refusal without explaining away their tension.  
 v14: **9:14:** “Against your heart” is more forceful than a reference merely to Pharaoh’s body or possessions. In biblical Hebrew, the heart is the center of will, understanding, and resolve.  
 v15–16: **9:15–16:** The speech holds together judgment and restraint: Pharaoh could have been cut off, yet he is allowed to remain so that the LORD’s power may be shown and the LORD’s name proclaimed.  
@@ -96,9 +96,9 @@ v23–24: **9:23–24:** “Thunder” is literally “voices” or “sounds.�
 v27–30: **9:27–30:** Pharaoh’s confession names the LORD as righteous and himself and his people as wicked. Moses nevertheless knows that fear of the LORD has not yet taken root in Pharaoh and his servants.  
 v31–32: **9:31–32:** The brief crop report explains why the hail destroyed some crops but not others. Barley and flax had already matured enough to be damaged, while wheat and spelt ripened later.  
 
-##Vocabulary
+## Vocabulary
 
-v4: **9:4 — פָּלָה (*pālāh*):** “Make a distinction.” The LORD’s distinction between Israel’s livestock and Egypt’s livestock makes the plague a sign of discernment, not indiscriminate disaster.  
+v04: **9:4 — פָּלָה (*pālāh*):** “Make a distinction.” The LORD’s distinction between Israel’s livestock and Egypt’s livestock makes the plague a sign of discernment, not indiscriminate disaster.  
 
 v12: חָזַק (ḥāzaq)
 “Strengthen.” Applied to Pharaoh’s heart, the word describes the reinforcing of his settled resistance.

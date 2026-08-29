@@ -20,16 +20,16 @@ v07: And I will set my face against them. They have come out of the fire, but th
 v08: I will make the land desolate because they have been unfaithful, declares the LORD GOD."
 </p>
 ## Notes
-v2: "Son of man" — A term used for Ezekiel that emphasizes his humanity in contrast to the divine authority of his visions.  
-v4: The imagery of the vine — The vine symbolizes something that should be fruitful but is instead good only for burning, representing the inhabitants of Jerusalem who have failed to fulfill their intended purpose.  
+v02: "Son of man" — A term used for Ezekiel that emphasizes his humanity in contrast to the divine authority of his visions.  
+v04: The imagery of the vine — The vine symbolizes something that should be fruitful but is instead good only for burning, representing the inhabitants of Jerusalem who have failed to fulfill their intended purpose.  
 
-##Vocabulary
+## Vocabulary
 
-v1: דְבַר Yehovah (davar Yehovah) — "The word of Yahweh" — A common biblical phrase indicating the communication of Yahweh's will through a prophet.  
+v01: דְבַר Yehovah (davar Yehovah) — "The word of Yahweh" — A common biblical phrase indicating the communication of Yahweh's will through a prophet.  
 
-v2: גֶפֶן (gephen) — "Vine" — Symbolic of the people of Israel or Jerusalem, emphasizing their intended purpose to bear fruit, or their failure in bearing fruit.  
+v02: גֶפֶן (gephen) — "Vine" — Symbolic of the people of Israel or Jerusalem, emphasizing their intended purpose to bear fruit, or their failure in bearing fruit.  
 
-v6: עֵץ הַגֶפֶן (etz ha-gephen) — "The vine tree" — The focus of the analogy in comparison to other trees; it highlights the uniqueness and purpose of the vine among trees.  
+v06: עֵץ הַגֶפֶן (etz ha-gephen) — "The vine tree" — The focus of the analogy in comparison to other trees; it highlights the uniqueness and purpose of the vine among trees.  
 
 v01: דְבַר Yehovah (davar Yehovah)
 “Word of the LORD.” A standard prophetic formula introducing a received message.

@@ -105,9 +105,9 @@ v47: “Can anyone withhold the water for baptizing these people, who have recei
 v48: So Peter ordered them to be baptized in the name of Jesus Christ. Then they asked him to remain for some days.
 </p>
 ## Notes
-v1–2: Cornelius “fears God… prays… gives to the poor” — Luke portrays a Gentile already oriented toward Israel’s God; piety and generosity prepare the ground, though the gospel still must be proclaimed (v22, v33–43).
-v4: “ascended as a memorial” — Prayer and almsgiving are pictured as rising before God; God’s attention precedes human initiative.
-v6: “Simon… a tanner” — Peter is already living near boundary-crossing impurity (tanning), signaling that God has been softening his social and ritual instincts.
+v01–02: Cornelius “fears God… prays… gives to the poor” — Luke portrays a Gentile already oriented toward Israel’s God; piety and generosity prepare the ground, though the gospel still must be proclaimed (v22, v33–43).
+v04: “ascended as a memorial” — Prayer and almsgiving are pictured as rising before God; God’s attention precedes human initiative.
+v06: “Simon… a tanner” — Peter is already living near boundary-crossing impurity (tanning), signaling that God has been softening his social and ritual instincts.
 v10–16: sheet vision / “common or unclean” — The point is bigger than food laws: God is re-forming Peter’s imagination about purity and people (explicit in v28).
 v15: “What God has made clean” — Purity is declared by God’s action, not human gatekeeping; the church receives God’s verdict rather than enforcing old boundaries.
 v17–20: “without hesitation” — The Spirit does not merely permit; the Spirit commands crossing the line. Obedience requires speed and trust.
@@ -126,21 +126,21 @@ v44–46: Spirit falls “while… still speaking” — God interrupts the serm
 v45: “even on the Gentiles” — The shock is the point: God gives the same gift without requiring cultural conversion first.
 v47–48: “withhold the water… baptized” — Baptism follows God’s initiative; the church recognizes what God has already done and then publicly names belonging.
 
-##Vocabulary
+## Vocabulary
 
-v1: ἑκατοντάρχης (hekatontarchēs) — centurion
+v01: ἑκατοντάρχης (hekatontarchēs) — centurion
 
-v1: σπεῖρα (speira) — cohort; military unit
+v01: σπεῖρα (speira) — cohort; military unit
 
-v2: εὐσεβής (eusebēs) — devout; reverent
+v02: εὐσεβής (eusebēs) — devout; reverent
 
-v2: φοβέομαι τὸν θεόν (phobeomai ton theon) — to fear God; to reverence God
+v02: φοβέομαι τὸν θεόν (phobeomai ton theon) — to fear God; to reverence God
 
-v2: ἐλεημοσύνη (eleēmosynē) — alms; gifts to the poor
+v02: ἐλεημοσύνη (eleēmosynē) — alms; gifts to the poor
 
-v3: ὅραμα (horama) — vision
+v03: ὅραμα (horama) — vision
 
-v4: μνημόσυνον (mnēmosynon) — memorial; remembrance-offering
+v04: μνημόσυνον (mnēmosynon) — memorial; remembrance-offering
 
 v10: ἔκστασις (ekstasis) — trance; ecstatic state
 

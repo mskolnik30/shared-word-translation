@@ -23,7 +23,7 @@ v03: “his brothers” is kinship language for fellow Judeans, not merely biolo
 v03: The final phrase can mean “speaking peace to all his offspring” or, more broadly, to the whole succeeding community of his people. TSW retains the genealogical wording.
 v01–03: The Hebrew book of Esther contains ten chapters and does not explicitly name God. Ancient Greek forms of Esther contain substantial additional passages, including prayers and explicit references to God. Because TSW’s primary Old Testament source is the Masoretic Text, those Greek additions are not incorporated into the main translation of Esther.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַס (mas)
 “Tribute” or “levy.” An imposed royal payment or service.

@@ -62,7 +62,7 @@ happy is the one who trusts in you.
 v05: “In whose heart are the highways” is compressed Hebrew. It evokes pilgrimage routes internalized as desire and direction toward Zion.
 v06: “Baca” may be a place-name or may evoke weeping or balsam trees. The ambiguity is preserved by retaining the name.
 
-##Vocabulary
+## Vocabulary
 
 v09: מָשִׁיחַ (mashiach)
 “Anointed one,” here most naturally the anointed king or representative whom the community asks God to regard.

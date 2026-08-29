@@ -98,20 +98,13 @@ v16: עֶבֶד (ʿeved) — servant; slave
 v16: מוֹסֵר (moser) — bond; fetter; restraint
 v17–19: “sacrifice of thanksgiving… courts… Jerusalem” — Deliverance culminates in shared praise; private rescue becomes communal liturgy.
 
-  ## Vocabulary
+## Vocabulary
 
 v01: אָהַב (’ahav) — to love
-
-v03: מָוֶת (mavet) — death
-
-v05: חַנּוּן (ḥannun) — gracious
-
-v08: דִּמְעָה (dim‘ah) — tear
 
 v13: כּוֹס (kos) — cup
 
 v14: נֶדֶר (neder) — vow
-##Vocabulary
 
 v01: תַּחֲנוּן (taḥanun)
 “Plea for mercy; supplication.”

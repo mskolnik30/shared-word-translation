@@ -109,7 +109,7 @@ v19: “this is instruction for humanity” is one of the most difficult phrases
 v23: The Hebrew syntax is dense in the phrase about redemption, nations, land, and gods. The theological center is Israel’s unique redemption from Egypt for God’s name.
 v27: “uncovered the ear” is a Hebrew idiom for revealing something privately or making it known.
 
-##Vocabulary
+## Vocabulary
 
 v01: נוּחַ (nuach)
 “To give rest.” Security from enemies.

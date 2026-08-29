@@ -62,7 +62,7 @@ v18: The Hebrew can be read as forbidding marriage to two sisters while both are
 v21: “Molech” — The precise nature of the practice implied by “pass over” and the identity of Molech remain debated. The text clearly prohibits giving offspring within this cultic practice.
 v25: The land is personified as vomiting out its inhabitants, portraying moral and ritual defilement as affecting the land itself.
 
-##Vocabulary
+## Vocabulary
 
 v03: חֻקָּה (chuqqah)
 “Statute.” An established prescription or practice.

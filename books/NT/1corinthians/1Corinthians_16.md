@@ -87,40 +87,40 @@ v23: The grace of the Lord Jesus be with you.
 v24: My love be with you all in Christ Jesus. Amen.
 </p>
 ## Notes
-v1–4: Structured giving reflects communal responsibility.  
-v5–9: Mission planning is flexible under divine guidance.  
-v9: Opportunity and opposition coexist.  
+v01–04: Structured giving reflects communal responsibility.  
+v05–09: Mission planning is flexible under divine guidance.  
+v09: Opportunity and opposition coexist.  
 v10–12: Leadership cooperation is affirmed.  
 v13–14: Final exhortations summarize ethical posture.  
 v15–18: Recognition of devoted service reinforces community structure.  
 v19–20: Network of churches emphasizes unity.  
 v21–24: Closing combines warning, hope, grace, and love.  
 
-##Vocabulary
+## Vocabulary
 
-v1: λογεία (logeia)  
+v01: λογεία (logeia)  
 
-v1: “Collection.”  
+v01: “Collection.”  
 
-v2: θησαυρίζω (thēsaurizō)  
+v02: θησαυρίζω (thēsaurizō)  
 
-v2: “To store up.”  
+v02: “To store up.”  
 
-v3: δοκιμάζω (dokimazō)  
+v03: δοκιμάζω (dokimazō)  
 
-v3: “To approve.”  
+v03: “To approve.”  
 
-v6: προπέμπω (propempō)  
+v06: προπέμπω (propempō)  
 
-v6: “To send on one’s way.”  
+v06: “To send on one’s way.”  
 
-v9: θύρα (thyra)  
+v09: θύρα (thyra)  
 
-v9: “Door.”  
+v09: “Door.”  
 
-v9: ἀντικείμενος (antikeimenos)  
+v09: ἀντικείμενος (antikeimenos)  
 
-v9: “Adversary.”  
+v09: “Adversary.”  
 
 v10: ἀφόβως (aphobōs)  
 

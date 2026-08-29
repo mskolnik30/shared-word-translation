@@ -66,16 +66,16 @@ v35: All the inhabitants of the coastlands are appalled at you, and their kings 
 v36: The merchants among the peoples hiss at you; you have become a horror and shall be no more forever.'"
 </p>
 ## Notes
-v3: **v3**: The description of Tyre as claiming to be "perfect in beauty" echoes themes of arrogance and self-glorification throughout the prophecy.  
+v03: **v3**: The description of Tyre as claiming to be "perfect in beauty" echoes themes of arrogance and self-glorification throughout the prophecy.  
 v10: **v10**: The listing of Persia, Lud, and Put emphasizes the military strength and alliances that Tyre relied on, now turned to no avail.  
 v32: **v32**: The lament emphasizes Tyre's uniqueness and former glory, now contrasted with its silence and destruction.  
   
 
-##Vocabulary
+## Vocabulary
 
-v3: 3 יֹפִי (yo.phi)  
+v03: 3 יֹפִי (yo.phi)  
 
-v3: Translated as "beauty." In this passage, it underscores Tyre's self-perception and its perceived completeness and attractiveness, setting up its fall as a poignant loss.  
+v03: Translated as "beauty." In this passage, it underscores Tyre's self-perception and its perceived completeness and attractiveness, setting up its fall as a poignant loss.  
 
 v25: 25 תַּרְשִׁישׁ (tar.shish)  
 Referring to the ships and trade routes associated with wealth and vast commercial enterprise, the mention underscores Tyre's vast economic reach.  

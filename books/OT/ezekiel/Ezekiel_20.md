@@ -104,8 +104,8 @@ from the south to the north will be scorched by it.
 v48: All flesh will see that I, the LORD, have kindled it; it will not be quenched.'"
 v49: Then I said, "Ah, Lord GOD! They are saying of me, 'Is he not speaking in parables?'"
 </p>
-##Notes
+## Notes
 
 v45–49: These verses are numbered 21:1–5 in the Hebrew chapter division.
 
-##Vocabulary
+## Vocabulary

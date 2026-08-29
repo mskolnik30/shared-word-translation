@@ -43,63 +43,52 @@ v08: On every side the wicked prowl,
 as vileness is exalted among the children of humanity.
 </p>
 ## Notes
-v1–2: Social breakdown is defined by the collapse of truth and trust.
-v2: Speech reveals inner division (“double heart”).
-v3–4: Human speech becomes an assertion of autonomy and power.
-v5: God’s response is triggered by injustice—he arises for the oppressed.
-v6: Divine speech contrasts human speech—pure, refined, reliable.
-v7: Preservation is both individual and communal.
-v8: The environment remains corrupt even after divine assurance—tension persists.
+v01–02: Social breakdown is defined by the collapse of truth and trust.
+v02: Speech reveals inner division (“double heart”).
+v03–04: Human speech becomes an assertion of autonomy and power.
+v05: God’s response is triggered by injustice—he arises for the oppressed.
+v06: Divine speech contrasts human speech—pure, refined, reliable.
+v07: Preservation is both individual and communal.
+v08: The environment remains corrupt even after divine assurance—tension persists.
 
-##Vocabulary
+## Vocabulary
 
-v1: חָסִיד (chasid)  
+v01: חָסִיד (chasid)  
 “Faithful.” Loyal or devout.
 
-v1: אֱמוּן (emun)  
+v01: אֱמוּן (emun)  
 “Trustworthy.” Reliable.
 
-v2: חָלַק (chalaq)  
+v02: חָלַק (chalaq)  
 “To flatter.” Speak smoothly.
 
-v2: לֵב וָלֵב (lev va-lev)  
+v02: לֵב וָלֵב (lev va-lev)  
 “Double heart.” Divided intention.
 
-v3: כָּרַת (karat)  
+v03: כָּרַת (karat)  
 “To cut off.” Remove.
 
-v4: גָּבַר (gavar)  
+v04: גָּבַר (gavar)  
 “To prevail.” Overcome.
 
-v5: שֹׁד (shod)  
+v05: שֹׁד (shod)  
 “Plunder.” Violent theft.
 
-v5: אֶבְיוֹן (evyon)  
+v05: אֶבְיוֹן (evyon)  
 “Needy.” Poor.
 
-v6: טָהוֹר (tahor)  
+v06: טָהוֹר (tahor)  
 “Pure.” Clean.
 
-v6: צָרַף (tsaraph)  
+v06: צָרַף (tsaraph)  
 “To refine.” Purify.
 
-v7: שָׁמַר (shamar)  
+v07: שָׁמַר (shamar)  
 “To keep.” Guard.
 
-v8: רָשָׁע (rasha)  
+v08: רָשָׁע (rasha)  
 “Wicked.” Evil-doer.
 
-v8: זֻלּוּת (zullut)  
+v08: זֻלּוּת (zullut)  
 “Vileness.” Worthlessness.
 
-v01: חָסִיד (chasid)
-“Faithful.” Loyal or devout.
-
-v01: אֱמוּן (emun)
-“Trustworthy.” Reliable.
-
-v02: חָלַק (chalaq)
-“To flatter.” Speak smoothly.
-
-v06: טָהוֹר (tahor)
-“Pure.” Clean.

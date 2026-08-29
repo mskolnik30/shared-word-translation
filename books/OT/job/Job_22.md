@@ -121,7 +121,7 @@ v18: Eliphaz repeats Job’s own wording from 21:16—“the counsel of the wick
 v21–30: Eliphaz offers reconciliation with God through repentance and rejection of wealth. Much of the counsel could be sound for a guilty oppressor, but the speech presupposes Job is such a person.
 v30: The Hebrew final verse is difficult. It can imply that Job’s clean hands would become a means of deliverance even for someone guilty, an ironic anticipation of Job’s later intercession for the friends.
 
-##Vocabulary
+## Vocabulary
 
 v04: מִשְׁפָּט (mishpat)
 “Judgment” or “legal case.” Eliphaz assumes Job’s suffering is divine litigation for guilt.

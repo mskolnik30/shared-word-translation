@@ -143,10 +143,10 @@ v52: They answered and said to him, “Are you also from Galilee? Search and see
 v53: And each went to his own house.
 </p>
 ## Notes
-v1: Movement is governed by threat. Jesus’ location is shaped by opposition.
-v2: The Feast of Booths situates the scene within a setting of remembrance and expectation.
-v3–5: The brothers speak in terms of visibility and recognition, yet do not believe. Their logic reflects worldly criteria.
-v6–8: “My time” contrasts with “your time.” Jesus’ actions are ordered, not reactive.
+v01: Movement is governed by threat. Jesus’ location is shaped by opposition.
+v02: The Feast of Booths situates the scene within a setting of remembrance and expectation.
+v03–05: The brothers speak in terms of visibility and recognition, yet do not believe. Their logic reflects worldly criteria.
+v06–08: “My time” contrasts with “your time.” Jesus’ actions are ordered, not reactive.
 v10: Hiddenness and presence coexist. Jesus goes up, but not as expected.
 v12–13: Public opinion is divided, yet constrained by fear.
 v14–18: Authority is grounded in sending. Teaching is validated by alignment with God’s will rather than formal learning.
@@ -167,15 +167,15 @@ v50–51: Nicodemus appeals to the law’s own procedure, introducing internal d
 v52: Dismissal persists despite counterpoint. Regional prejudice shapes judgment.
 v53: John 7:53–8:11 is absent from the earliest and strongest Greek witnesses and appears in different locations in some later manuscripts. It is retained here as an ancient textual tradition with its textual status stated explicitly.
 
-##Vocabulary
+## Vocabulary
 
-v1: περιπατέω (peripateō)
+v01: περιπατέω (peripateō)
 “To walk.” Often denotes ongoing activity or movement.
 
-v6: καιρός (kairos)
+v06: καιρός (kairos)
 “Time” or “appointed moment.” Indicates significance rather than sequence.
 
-v7: μαρτυρέω (martyreō)
+v07: μαρτυρέω (martyreō)
 “To testify.” Bearing witness, often in opposition.
 
 v12: γογγυσμός (gongysmos)
@@ -220,8 +220,3 @@ v43: σχίσμα (schisma)
 v46: λαλέω (laleō)
 “To speak.” Often emphasizing the act of speech itself.
 
-v01: περιπατέω (peripateō)
-“To walk.” Often denotes ongoing activity or movement.
-
-v07: μαρτυρέω (martyreō)
-“To testify.” Bearing witness, often in opposition.

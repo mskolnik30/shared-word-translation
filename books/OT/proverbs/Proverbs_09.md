@@ -104,7 +104,7 @@ v13–18: Folly deliberately imitates Wisdom’s invitation. Both call from prom
 v17: “Stolen water is sweet” — Folly presents secrecy and transgression as increasing pleasure. The metaphor exposes attraction to what is desirable precisely because it is forbidden.
 v18: The invited guest sees a meal; the narrator reveals a house filled with the dead. Folly conceals the destination of the path she offers.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָכְמוֹת (chokhmot)
 “Wisdom.” A plural-form expression used for personified Wisdom.

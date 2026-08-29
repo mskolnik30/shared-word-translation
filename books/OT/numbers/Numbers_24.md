@@ -121,7 +121,7 @@ v17: “star” and “scepter” are royal images. The oracle does not name the
 v17: “sons of Seth” is an unusual expression and may refer broadly to humanity or to a particular people. The main text retains the Hebrew designation.
 v24: “Kittim” is a geographical term associated first with Cyprus and later more broadly with western maritime powers. The oracle leaves the historical referent open.
 
-##Vocabulary
+## Vocabulary
 
 v01: נְחָשִׁים (nechashim)
 “Enchantments” or “omens.” Divinatory practices Balaam no longer seeks.

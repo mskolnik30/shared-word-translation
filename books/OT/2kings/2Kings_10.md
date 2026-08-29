@@ -124,7 +124,7 @@ v29–31: Jehu eliminates Baal but preserves Jeroboam’s calf sanctuaries, show
 v30: Jehu receives a four-generation dynastic promise because of his role in Ahab’s judgment, even while the following verse criticizes his incomplete obedience.
 v32–33: The political cost of Jehu’s reign includes territorial losses to Hazael in the east.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֹמֵן (omen)
 “Guardian” or fosterer. Those raising Ahab’s royal sons.

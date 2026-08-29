@@ -115,7 +115,7 @@ v30: Burning Joab’s barley field is coercive destruction designed to force acc
 v32: Absalom frames the unresolved situation starkly: either restore him fully or judge him openly.
 v33: The king’s kiss marks formal reconciliation, but the narrative records no conversation, confession, or resolution of the underlying family violence.
 
-##Vocabulary
+## Vocabulary
 
 v02: חָכָם (chakham)
 “Wise.” The woman of Tekoa is skilled in persuasive speech.

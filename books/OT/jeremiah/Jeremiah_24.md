@@ -43,7 +43,7 @@ v06: “build … plant” recalls the commission language of Jeremiah 1. The ve
 v07: Restoration includes not only return to land but a transformed capacity to know the LORD and return with the whole heart.
 v08–10: The “bad figs” include those who remained in Jerusalem and those who fled to Egypt. Physical location does not itself determine faithfulness or security.
 
-##Vocabulary
+## Vocabulary
 
 v01: דּוּדָאִים (duda'im)
 “Baskets.” Containers holding the two groups of figs in the vision.

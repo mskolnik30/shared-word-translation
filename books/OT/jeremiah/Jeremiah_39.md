@@ -68,7 +68,7 @@ v10: The poorest people, previously without property, receive vineyards and fiel
 v11–14: Babylonian authorities protect Jeremiah, while Judah’s own officials had imprisoned him. The irony is central to the narrative.
 v15–18: Ebed-Melech’s earlier act of trust and rescue is answered with a personal promise of deliverance. His life, like that of those who surrender in chapter 21, becomes “plunder.”
 
-##Vocabulary
+## Vocabulary
 
 v02: בָּקַע (baqa)
 “To break through” or “breach.” Used of the city wall.

@@ -135,7 +135,7 @@ v11: Edom’s violence is described as violence against “his brother,” evoki
 v13: The violence against pregnant women is presented as an atrocity committed for territorial expansion. TSW retains the severity without graphic amplification.
 v15: Hebrew *malkam* can mean “their king” and also resembles the name of the Ammonite deity Milcom. TSW renders the ordinary royal sense while noting the possible wordplay.
 
-##Vocabulary
+## Vocabulary
 
 v01: נֹקֵד (noqed)
 “Shepherd” or “sheep breeder.” A rare occupational term used of Amos.

@@ -86,7 +86,7 @@ v16: The Hebrew word translated “rebellion” can also mean wrongdoing or defe
 v18–19: A false witness receives the penalty he tried to bring upon another, making malicious testimony personally costly.
 v21: The proportional justice formula limits punishment to correspondence with the intended or actual harm.
 
-##Vocabulary
+## Vocabulary
 
 v02: בָּדַל (badal)
 “To set apart.” Used of designating refuge cities.

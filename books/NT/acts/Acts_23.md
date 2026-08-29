@@ -121,9 +121,9 @@ v34: And reading it, he asked from what province he was, and learning that he wa
 v35: he said, “I will hear you fully when your accusers also arrive.” And he commanded him to be kept in Herod’s praetorium.
 </p>
 ## Notes
-v1: Conscience is presented as foundational to conduct.  
-v2–5: Conflict highlights tension between law and authority.  
-v6–9: Resurrection becomes the dividing issue.  
+v01: Conscience is presented as foundational to conduct.  
+v02–05: Conflict highlights tension between law and authority.  
+v06–09: Resurrection becomes the dividing issue.  
 v10: Roman intervention preserves order.  
 v11: Mission trajectory toward Rome is divinely confirmed.  
 v12–15: Religious zeal manifests in violent conspiracy.  
@@ -132,31 +132,31 @@ v23–24: Significant resources are used to preserve Paul’s life.
 v27–30: Roman authority frames the issue as internal dispute.  
 v34–35: Legal process is deferred pending formal accusation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: συνείδησις (syneidēsis)  
+v01: συνείδησις (syneidēsis)  
 
-v1: “Conscience.”  
+v01: “Conscience.”  
 
-v3: κονιάω (koniaō)  
+v03: κονιάω (koniaō)  
 
-v3: “To whitewash.”  
+v03: “To whitewash.”  
 
-v6: ἀνάστασις (anastasis)  
+v06: ἀνάστασις (anastasis)  
 
-v6: “Resurrection.”  
+v06: “Resurrection.”  
 
-v7: στάσις (stasis)  
+v07: στάσις (stasis)  
 
-v7: “Dissension.”  
+v07: “Dissension.”  
 
-v8: Σαδδουκαῖος (Saddoukaios)  
+v08: Σαδδουκαῖος (Saddoukaios)  
 
-v8: “Sadducee.”  
+v08: “Sadducee.”  
 
-v8: Φαρισαῖος (Pharisaios)  
+v08: Φαρισαῖος (Pharisaios)  
 
-v8: “Pharisee.”  
+v08: “Pharisee.”  
 
 v11: θαρσέω (tharseō)  
 

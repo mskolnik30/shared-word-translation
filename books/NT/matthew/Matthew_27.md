@@ -162,9 +162,9 @@ v65: Pilate said to them, “You have a guard; go, make it as secure as you know
 v66: So they went and made the tomb secure by sealing the stone and setting the guard.
 </p>
 ## Notes
-v1–2: “took counsel… delivered… to Pilate” — Religious leadership and imperial power collaborate; “handing over” is how unjust systems launder responsibility.
-v3–5: Judas “regretted… hanged himself” — Regret (metamelomai) is not the same as repentance; the text portrays despair and moral collapse without romanticizing it.
-v6–10: “blood money… potter’s field… fulfilled” — Leaders keep ritual scruples while funding death; Matthew frames this as scripture-patterned irony and judgment on hypocrisy.
+v01–02: “took counsel… delivered… to Pilate” — Religious leadership and imperial power collaborate; “handing over” is how unjust systems launder responsibility.
+v03–05: Judas “regretted… hanged himself” — Regret (metamelomai) is not the same as repentance; the text portrays despair and moral collapse without romanticizing it.
+v06–10: “blood money… potter’s field… fulfilled” — Leaders keep ritual scruples while funding death; Matthew frames this as scripture-patterned irony and judgment on hypocrisy.
 v11–14: Jesus’ silence — Not weakness but refusal to play a rigged courtroom game; his restraint exposes the trial’s injustice and Pilate’s impotence.
 v15–18: “custom… envy” — The crowd-choice scene reveals scapegoating dynamics: public pressure and elite envy converge to eliminate the righteous.
 v19: Pilate’s wife’s dream — A Gentile warning heightens the moral clarity: even outsiders perceive Jesus as “righteous.”
@@ -187,19 +187,19 @@ v55–56: women watching — Faithful presence in the dark; they become crucial 
 v57–61: Joseph’s tomb — Honor is given at burial, preserving the reality of death while preparing for the reality of resurrection (a known tomb, a sealed stone).
 v62–66: guard and seal — Attempts to secure death become evidence of resurrection; the powers treat Jesus’ promise as threat and try to control the narrative in advance.
 
-##Vocabulary
+## Vocabulary
 
-v1: συμβούλιον (symboulion) — counsel; plotted decision
+v01: συμβούλιον (symboulion) — counsel; plotted decision
 
-v2: παραδίδωμι (paradidōmi) — to hand over; to deliver up
+v02: παραδίδωμι (paradidōmi) — to hand over; to deliver up
 
-v3: μεταμέλομαι (metamelomai) — to regret; to feel remorse (not the usual “repent” verb)
+v03: μεταμέλομαι (metamelomai) — to regret; to feel remorse (not the usual “repent” verb)
 
-v4: αἷμα ἀθῷον (haima athōon) — innocent blood
+v04: αἷμα ἀθῷον (haima athōon) — innocent blood
 
-v6: κορβανᾶς (korbanas) — temple treasury (corban)
+v06: κορβανᾶς (korbanas) — temple treasury (corban)
 
-v6: τιμὴ αἵματος (timē haimatos) — blood money; price of blood
+v06: τιμὴ αἵματος (timē haimatos) — blood money; price of blood
 
 v11: βασιλεύς (basileus) — king
 

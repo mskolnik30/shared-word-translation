@@ -112,11 +112,11 @@ v22: therefore, thus says the LORD of Hosts: “Look, I am about to punish them.
 <p>
 v23: There will be no remnant for them, for I will bring disaster upon the people of Anathoth in the year of their punishment.”
 </p>
-##Notes
+## Notes
 
 v15: The syntax is compressed and difficult. “Holy flesh” may refer to sacrificial meat, and the line appears to challenge the idea that ritual offerings can remove or offset persistent evil.
 
-##Vocabulary
+## Vocabulary
 
 v02: בְּרִית (berit)
 “Covenant.” This is not merely an agreement but the binding relationship established by the LORD with Israel, carrying both belonging and obligation throughout the chapter.

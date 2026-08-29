@@ -49,10 +49,10 @@ v17: But the wisdom from above is first pure, then peaceable, gentle, open to re
 v18: And a harvest of righteousness is sown in peace by those who make peace.
 </p>
 ## Notes
-v5–6: The tongue is small but disproportionately influential.
-v6: Destruction originates both internally and externally.
-v7–8: Human dominion over creation contrasts with lack of self-mastery.
-v9–10: Inconsistency reveals deeper disorder.
+v05–06: The tongue is small but disproportionately influential.
+v06: Destruction originates both internally and externally.
+v07–08: Human dominion over creation contrasts with lack of self-mastery.
+v09–10: Inconsistency reveals deeper disorder.
 v11–12: Natural analogies expose contradiction without explanation.
 v13: Wisdom is demonstrated through conduct, not claim.
 v14–16: Internal disposition produces external disorder.
@@ -60,27 +60,27 @@ v15: Wisdom is categorized by origin rather than appearance.
 v17: Qualities of wisdom are cumulative, not hierarchical.
 v18: Outcome is relational; righteousness grows within peace.
 
-##Vocabulary
+## Vocabulary
 
-v5: γλῶσσα (glōssa)
+v05: γλῶσσα (glōssa)
 
-v5: “Tongue.” Instrument of speech.
+v05: “Tongue.” Instrument of speech.
 
-v6: κόσμος (kosmos)
+v06: κόσμος (kosmos)
 
-v6: “World.” Ordered system, here of unrighteousness.
+v06: “World.” Ordered system, here of unrighteousness.
 
-v6: γέεννα (geenna)
+v06: γέεννα (geenna)
 
-v6: “Hell.” Place associated with judgment.
+v06: “Hell.” Place associated with judgment.
 
-v8: ἀκατάστατος (akatastatos)
+v08: ἀκατάστατος (akatastatos)
 
-v8: “Restless.” Unstable or unsettled.
+v08: “Restless.” Unstable or unsettled.
 
-v9: εἰκών (eikōn)
+v09: εἰκών (eikōn)
 
-v9: “Likeness.” Representation or image.
+v09: “Likeness.” Representation or image.
 
 v13: σοφία (sophia)
 

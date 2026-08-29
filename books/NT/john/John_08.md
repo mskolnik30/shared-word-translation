@@ -195,8 +195,8 @@ v58: Jesus said to them, “Truly, truly, I say to you, before Abraham came to b
 v59: Therefore they picked up stones to throw at him, but Jesus hid himself and went out of the temple.
 </p>
 ## Notes
-v6–8: Jesus’ writing shifts focus from accusation to self-examination.
-v7: Judgment is redirected to personal sinfulness.
+v06–08: Jesus’ writing shifts focus from accusation to self-examination.
+v07: Judgment is redirected to personal sinfulness.
 v11: Mercy does not negate the call to holiness.
 v12: Light imagery frames revelation and guidance.
 v14–18: Witness includes both Jesus and the Father.
@@ -212,17 +212,17 @@ v58: “I am” expresses preexistence and divine identity.
 v59: Reaction confirms perceived blasphemy.
 v01–11: John 7:53–8:11 is absent from the earliest and strongest Greek witnesses and appears in different locations in some later manuscripts. It is retained here as an ancient textual tradition with its textual status stated explicitly.
 
-##Vocabulary
+## Vocabulary
 
-v3: μοιχεία (moicheia)
+v03: μοιχεία (moicheia)
 
 “Adultery.”
 
-v6: κατηγορέω (katēgoreō)
+v06: κατηγορέω (katēgoreō)
 
 “To accuse.”
 
-v7: ἀναμάρτητος (anamartētos)
+v07: ἀναμάρτητος (anamartētos)
 
 “Without sin.”
 
@@ -276,11 +276,3 @@ v58: εἰμί (eimi)
 
 “To be.”
 
-v03: μοιχεία (moicheia)
-“Adultery.”
-
-v06: κατηγορέω (katēgoreō)
-“To accuse.”
-
-v07: ἀναμάρτητος (anamartētos)
-“Without sin.”

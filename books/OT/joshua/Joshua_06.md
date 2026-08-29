@@ -98,7 +98,7 @@ v20: The fall of the wall follows ritual procession, horns, and shouting rather 
 v23: Rahab’s household is first placed outside Israel’s camp, fitting the boundaries of ritual community, before verse 25 summarizes her lasting incorporation into Israel.
 v26: Joshua’s curse concerns rebuilding Jericho as a fortified city. The language ties foundation and gates to the loss of sons.
 
-##Vocabulary
+## Vocabulary
 
 v04: שׁוֹפָר (shofar)
 “Ram’s horn.” Used in procession and as the signal for the shout.

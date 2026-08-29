@@ -49,13 +49,13 @@ v17: You therefore, beloved, knowing this beforehand, take care that you are not
 v18: But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and to the day of eternity. Amen.
 </p>
 ## Notes
-v1: Writing functions as reminder rather than new instruction.  
-v2: Authority is distributed across prophets and apostles.  
-v3–4: Scoffing is grounded in perceived continuity.  
-v5: Ignorance is described as intentional.  
-v6–7: Past and future judgment are linked by the same word.  
-v8: Time is relativized, not measured.  
-v9: Delay is reframed as patience.  
+v01: Writing functions as reminder rather than new instruction.  
+v02: Authority is distributed across prophets and apostles.  
+v03–04: Scoffing is grounded in perceived continuity.  
+v05: Ignorance is described as intentional.  
+v06–07: Past and future judgment are linked by the same word.  
+v08: Time is relativized, not measured.  
+v09: Delay is reframed as patience.  
 v10: The day arrives unexpectedly; destruction is total.  
 v11–12: Ethical response is derived from anticipated outcome.  
 v12: Participation (“hastening”) is stated without mechanism.  
@@ -66,31 +66,31 @@ v16: Scripture is treated as a unified body without explanation.
 v17: Stability is something that can be lost.  
 v18: Growth is ongoing; conclusion returns to doxology.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ὑπόμνησις (hypomnēsis)  
+v01: ὑπόμνησις (hypomnēsis)  
 
-v1: “Reminder.” Bringing to mind again.  
+v01: “Reminder.” Bringing to mind again.  
 
-v3: ἐμπαίκτης (empaiktēs)  
+v03: ἐμπαίκτης (empaiktēs)  
 
-v3: “Scoffer.” One who mocks.  
+v03: “Scoffer.” One who mocks.  
 
-v5: λανθάνω (lanthanō)  
+v05: λανθάνω (lanthanō)  
 
-v5: “To overlook.” To escape notice or be hidden.  
+v05: “To overlook.” To escape notice or be hidden.  
 
-v7: τηρέω (tēreō)  
+v07: τηρέω (tēreō)  
 
-v7: “To keep.” To preserve or hold.  
+v07: “To keep.” To preserve or hold.  
 
-v8: χίλια ἔτη (chilia etē)  
+v08: χίλια ἔτη (chilia etē)  
 
-v8: “Thousand years.” Used comparatively, not literally.  
+v08: “Thousand years.” Used comparatively, not literally.  
 
-v9: μακροθυμέω (makrothymeō)  
+v09: μακροθυμέω (makrothymeō)  
 
-v9: “To be patient.” To delay response.  
+v09: “To be patient.” To delay response.  
 
 v10: στοιχεῖον (stoicheion)  
 

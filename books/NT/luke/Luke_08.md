@@ -175,8 +175,8 @@ v55: And her spirit returned, and she rose immediately, and he ordered that some
 v56: And her parents were amazed, but he ordered them to tell no one what had happened.
 </p>
 ## Notes
-v1–3: Women are named as active participants in the mission, not peripheral observers.
-v4–8: The sower scatters broadly; the difference lies in reception, not distribution.
+v01–03: Women are named as active participants in the mission, not peripheral observers.
+v04–08: The sower scatters broadly; the difference lies in reception, not distribution.
 v10: Parables both reveal and conceal, depending on hearing.
 v15: Fruitfulness is linked to endurance, not initial response.
 v18: Hearing is an active responsibility with consequences.
@@ -192,9 +192,9 @@ v48: “Saved” integrates healing and restoration.
 v50: Faith is directed against fear, not against death itself.
 v55: The return of spirit emphasizes full restoration, not mere resuscitation.
 
-##Vocabulary
+## Vocabulary
 
-v1: εὐαγγελίζω (euangelizō)
+v01: εὐαγγελίζω (euangelizō)
 
 “To proclaim good news.”
 
@@ -238,5 +238,3 @@ v48: πίστις (pistis)
 v55: πνεῦμα (pneuma)
 “Spirit.”
 
-v01: εὐαγγελίζω (euangelizō)
-“To proclaim good news.”

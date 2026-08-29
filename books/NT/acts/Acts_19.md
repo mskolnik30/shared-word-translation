@@ -141,8 +141,8 @@ v40: For we are in danger of being accused of rioting concerning today, there be
 v41: And having said these things, he dismissed the assembly.
 </p>
 ## Notes
-v2–7: Clarification of baptism aligns disciples with Jesus and the Spirit.
-v8–10: Transition from synagogue to public teaching broadens reach.
+v02–07: Clarification of baptism aligns disciples with Jesus and the Spirit.
+v08–10: Transition from synagogue to public teaching broadens reach.
 v11–12: Extraordinary works authenticate message.
 v13–16: Misuse of Jesus’ name exposes lack of relationship and authority.
 v17–20: Fear, confession, and renunciation mark genuine transformation.
@@ -151,25 +151,25 @@ v23–27: Economic interests drive opposition.
 v28–34: Crowd behavior is driven by emotion and identity.
 v35–41: Civic authority restores order through legal reasoning.
 
-##Vocabulary
+## Vocabulary
 
-v2: λαμβάνω (lambanō)
+v02: λαμβάνω (lambanō)
 
 “To receive.”
 
-v3: βάπτισμα (baptisma)
+v03: βάπτισμα (baptisma)
 
 “Baptism.”
 
-v6: γλῶσσα (glōssa)
+v06: γλῶσσα (glōssa)
 
 “Tongue.”
 
-v8: παρρησιάζομαι (parrēsiazomai)
+v08: παρρησιάζομαι (parrēsiazomai)
 
 “To speak boldly.”
 
-v9: σκληρύνω (sklērynō)
+v09: σκληρύνω (sklērynō)
 
 “To harden.”
 
@@ -229,17 +229,3 @@ v40: στάσις (stasis)
 
 “Riot.”
 
-v02: λαμβάνω (lambanō)
-“To receive.”
-
-v03: βάπτισμα (baptisma)
-“Baptism.”
-
-v06: γλῶσσα (glōssa)
-“Tongue.”
-
-v08: παρρησιάζομαι (parrēsiazomai)
-“To speak boldly.”
-
-v09: σκληρύνω (sklērynō)
-“To harden.”

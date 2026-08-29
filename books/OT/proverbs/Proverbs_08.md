@@ -208,7 +208,7 @@ v30: “master worker” — The Hebrew *amon* is exceptionally difficult. It ha
 v30–31: Creation is accompanied by delight. Wisdom rejoices before the LORD and particularly delights in the inhabited world and humanity.
 v35–36: The chapter concludes by placing life and death in relation to Wisdom. Finding Wisdom means finding life; rejecting her is ultimately self-destructive.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָכְמָה (chokmah)
 “Wisdom.” Skill in understanding and living rightly, here personified as a woman who speaks.

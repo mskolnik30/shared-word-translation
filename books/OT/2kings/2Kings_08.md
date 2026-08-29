@@ -102,7 +102,7 @@ v19: Judah’s survival is grounded in the Davidic promise of a continuing “la
 v26: Athaliah is called “daughter of Omri,” which can mean descendant; elsewhere she is associated with Ahab’s house.
 v29: “Ramah” is another form of Ramoth-Gilead in this context.
 
-##Vocabulary
+## Vocabulary
 
 v01: גּוּר (gur)
 “To live as a resident alien.” The woman sojourns in Philistine territory.

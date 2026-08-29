@@ -130,7 +130,7 @@ v65: “Urim and Thummim” — Sacred means associated with priestly discernmen
 v70–72: “daric” and “mina” are Persian-period monetary and weight terms. They are retained rather than converted into modern currency.
 v73: The final sentence transitions directly into the events of chapter 8, when the seventh month becomes the setting for public reading of the Torah.
 
-##Vocabulary
+## Vocabulary
 
 v02: אֱמֶת (emet)
 “Faithfulness” or “reliability.” The quality for which Hananiah is commended.

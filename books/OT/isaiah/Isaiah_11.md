@@ -39,17 +39,17 @@ and with his scorching wind he will wave his hand over the River, and will split
 v16: There will be a highway for the remnant that is left of his people from Assyria, like there was for Israel in the day that he came up out of the land of Egypt.
 </p>
 ## Notes
-v1: “stump of Jesse” — New growth emerges from what appears cut down. The image links royal hope with David’s family while emphasizing renewed beginning.  
+v01: “stump of Jesse” — New growth emerges from what appears cut down. The image links royal hope with David’s family while emphasizing renewed beginning.  
 v11: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
 v10: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
-v4: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
+v04: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
 
-##Vocabulary
+## Vocabulary
 
-v1: חֹטֶר (choter)  
+v01: חֹטֶר (choter)  
 “Shoot.” New growth emerging from a cut stump.  
 
-v1: נֵצֶר (netser)  
+v01: נֵצֶר (netser)  
 “Branch” or “sprout.” A shoot growing from roots.  
 
 v11: שְׁאָר (she'ar)
@@ -58,8 +58,3 @@ v11: שְׁאָר (she'ar)
 v10: גּוֹיִם (goyim)
 “Nations” or “peoples.” Peoples beyond Israel.
 
-v01: חֹטֶר (choter)
-“Shoot.” New growth emerging from a cut stump.
-
-v01: נֵצֶר (netser)
-“Branch” or “sprout.” A shoot growing from roots.

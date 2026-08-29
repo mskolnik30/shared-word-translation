@@ -75,12 +75,12 @@ v29: This also comes forth from the LORD of Hosts, who is wonderful in counsel, 
 ## Notes
 v16: “a tested stone” — Zion’s foundation is pictured as reliable precisely in contrast to the false refuge and covenant named around it.  
 v16: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v5: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v05: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
 v15: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
 
-##Vocabulary
+## Vocabulary
 
-v5: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
 v15: בְּרִית (berit)
@@ -92,11 +92,9 @@ v16: צִיּוֹן (tsiyyon)
 v16: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v6: מִשְׁפָּט (mishpat)  
+v06: מִשְׁפָּט (mishpat)  
 “Justice” or “judgment.” Right judgment and right communal ordering.  
 
 v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v06: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.

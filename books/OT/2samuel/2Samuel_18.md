@@ -132,7 +132,7 @@ v29: Ahimaaz evades David’s direct question about Absalom, whether from ignora
 v32: The Cushite conveys Absalom’s death indirectly through a wish that all David’s enemies share his fate.
 v33: David’s lament is stripped of royal language and political analysis. He repeats only “my son” and wishes for substitutionary death.
 
-##Vocabulary
+## Vocabulary
 
 v03: שִׂים לֵב (sim lev)
 “To set the heart.” To regard as the decisive target.

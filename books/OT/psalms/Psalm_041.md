@@ -100,7 +100,7 @@ v10: “so that I may repay them” — The request for restoration includes the
 v12: “before your face” — Divine presence is expressed through the concrete image of God’s face rather than being reduced to a more abstract expression.
 v13: The closing blessing functions as the doxology concluding the first major collection of the Psalter.
 
-##Vocabulary
+## Vocabulary
 
 v01: דַּל (dal)
 “Weak,” “poor,” or “lowly.” Someone diminished in strength, resources, or standing.

@@ -137,7 +137,7 @@ v31: Child sacrifice is explicitly included among the imported cultic practices.
 v34: The statement “they do not fear the LORD” stands beside verse 33’s “they feared the LORD,” showing that ritual acknowledgment is not the same as exclusive covenant allegiance.
 v41: The chapter ends with inherited syncretism passing from generation to generation.
 
-##Vocabulary
+## Vocabulary
 
 v03: מִנְחָה (minchah)
 “Tribute.” Payment by a vassal king.

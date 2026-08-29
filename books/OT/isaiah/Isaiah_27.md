@@ -39,7 +39,7 @@ and they will worship the LORD in the holy mountain at Jerusalem.
 v01: Leviathan is described through mythic sea-serpent imagery. Isaiah uses the image to portray divine victory over threatening chaos without explaining a zoological referent.
 v05: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
 
-##Vocabulary
+## Vocabulary
 
 v01: לִוְיָתָן (livyatan)
 “Leviathan.” A mythic sea-serpent image associated with threatening chaos.

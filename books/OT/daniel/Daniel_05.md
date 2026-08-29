@@ -116,7 +116,7 @@ v23: Daniel contrasts lifeless idols with “the God in whose hand is your breat
 v25–28: The written words are forms of Aramaic monetary/weight terms and simultaneously support verbal wordplay: numbered, weighed, and divided. “Parsin” is plural; “Peres” in the interpretation is singular and also sounds like “Persia.”
 v31: “Darius the Mede” is not securely identified in surviving external records. Proposed identifications vary. TSW preserves Daniel’s designation without harmonizing it with a reconstructed chronology.
 
-##Vocabulary
+## Vocabulary
 
 v01: בֵּלְשַׁאצַּר (Belshatstsar)
 “Belshazzar.” The Babylonian ruler in the chapter.

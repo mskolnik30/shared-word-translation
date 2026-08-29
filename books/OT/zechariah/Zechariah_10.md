@@ -92,54 +92,43 @@ and they will walk in the LORD’s name,
 says the LORD.
 </p>
 ## Notes
-v1: “spring rain” — The later seasonal rains were especially important for bringing crops toward maturity. The verse contrasts dependence upon the LORD with the false religious practices condemned immediately afterward.  
-v2: “household gods” — The Hebrew *teraphim* refers to cultic or household objects associated with divination or domestic religious practice.  
-v3: “shepherds … male goats” — Both images refer to leaders. The LORD condemns failed leadership and then personally attends to the flock.  
-v4: “cornerstone … tent peg … battle bow” — Several images of stability, support, military strength, and leadership accumulate around Judah without being reduced to a single figure.  
-v6: “as though I had never rejected them” — Restoration is described so fully that the former experience of rejection no longer determines the relationship.  
-v8: “I will whistle for them” — The image portrays the LORD summoning a scattered people with a simple signal they recognize.  
-v9: “they will remember me” — Dispersion among the nations does not end the covenant relationship. Memory becomes part of the movement toward return.  
+v01: “spring rain” — The later seasonal rains were especially important for bringing crops toward maturity. The verse contrasts dependence upon the LORD with the false religious practices condemned immediately afterward.  
+v02: “household gods” — The Hebrew *teraphim* refers to cultic or household objects associated with divination or domestic religious practice.  
+v03: “shepherds … male goats” — Both images refer to leaders. The LORD condemns failed leadership and then personally attends to the flock.  
+v04: “cornerstone … tent peg … battle bow” — Several images of stability, support, military strength, and leadership accumulate around Judah without being reduced to a single figure.  
+v06: “as though I had never rejected them” — Restoration is described so fully that the former experience of rejection no longer determines the relationship.  
+v08: “I will whistle for them” — The image portrays the LORD summoning a scattered people with a simple signal they recognize.  
+v09: “they will remember me” — Dispersion among the nations does not end the covenant relationship. Memory becomes part of the movement toward return.  
 v10: Egypt and Assyria represent major places of historical oppression and dispersion. The gathering extends beyond the immediate Babylonian exile.  
 v11: “sea of distress” — The Hebrew wording evokes both literal waters and the experience of oppression. The following references to sea and Nile recall earlier biblical deliverance traditions without explicitly identifying one event.  
 v12: “walk in the LORD’s name” — The restored community’s life is characterized by belonging to and acting under the identity of the LORD.  
 
-##Vocabulary
+## Vocabulary
 
-v1: מַלְקוֹשׁ (malqosh)  
+v01: מַלְקוֹשׁ (malqosh)  
 “Spring rain” or “latter rain.” Seasonal rain arriving toward the end of the rainy season.  
 
-v2: תְּרָפִים (teraphim)  
+v02: תְּרָפִים (teraphim)  
 “Household gods.” Cultic objects associated with domestic religion or divination.  
 
-v2: קָסַם (qasam)  
+v02: קָסַם (qasam)  
 “To divine.” To seek hidden knowledge or guidance through divinatory practice.  
 
-v3: פָּקַד (paqad)  
+v03: פָּקַד (paqad)  
 “To attend to,” “visit,” or “call to account.” The same root can describe both judgment and attentive care depending on context.  
 
-v4: פִּנָּה (pinnah)  
+v04: פִּנָּה (pinnah)  
 “Corner” or “cornerstone.” That which gives strength or orientation to a structure.  
 
-v6: רָחַם (racham)  
+v06: רָחַם (racham)  
 “To have compassion.” To show deep mercy or care toward one in distress.  
 
-v8: שָׁרַק (sharaq)  
+v08: שָׁרַק (sharaq)  
 “To whistle.” To summon by a sharp sound, here used for the LORD gathering the dispersed people.  
 
-v8: פָּדָה (padah)  
+v08: פָּדָה (padah)  
 “To redeem” or “ransom.” To secure release or reclaim someone from bondage.  
 
 v12: הָלַךְ (halakh)  
 “To walk.” Frequently used metaphorically for a manner or pattern of life.  
 
-v01: מַלְקוֹשׁ (malqosh)
-“Spring rain” or “latter rain.” Seasonal rain arriving toward the end of the rainy season.
-
-v02: תְּרָפִים (teraphim)
-“Household gods.” Cultic objects associated with domestic religion or divination.
-
-v06: רָחַם (racham)
-“To have compassion.” To show deep mercy or care toward one in distress.
-
-v08: פָּדָה (padah)
-“To redeem” or “ransom.” To secure release or reclaim someone from bondage.

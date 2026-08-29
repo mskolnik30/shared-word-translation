@@ -85,7 +85,7 @@ v15: The altar itself is purified and made holy through blood, showing that aton
 v23–24: Blood is placed on ear, hand, and foot, marking the priests bodily for hearing, service, and movement without the text explicitly explaining the symbolism.
 v33: Ordination is not a momentary act but a seven-day process requiring continued presence at the Tent of Meeting.
 
-##Vocabulary
+## Vocabulary
 
 v02: שֶׁמֶן הַמִּשְׁחָה (shemen hammishchah)
 “Anointing oil.” Oil used to consecrate persons and sanctuary objects.

@@ -114,13 +114,13 @@ and in your bedroom do not curse the rich;
 for a bird of the air may carry the sound,
 and a winged creature may tell the matter.
 </p>
-##Notes
+## Notes
 
 v10: The Hebrew speaks literally of not sharpening the “face” of the iron—that is, its cutting edge.
 
 v11: “Master of the tongue” may refer to a snake-charmer, whose skill is useless if the snake bites before being charmed. The phrase may also carry an echo of the danger and limits of skilled speech.
 
-##Vocabulary
+## Vocabulary
 
 v01: סִכְלוּת (sikhlut)
 “folly.” Here it is not mere lack of intelligence but conduct so ruinous that even a little of it can outweigh wisdom and honor.

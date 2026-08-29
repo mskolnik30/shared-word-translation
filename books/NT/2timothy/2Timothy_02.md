@@ -95,10 +95,10 @@ v25: correcting opponents with gentleness. God may perhaps grant them repentance
 v26: and they may come to their senses and escape from the snare of the devil, having been captured by him to do his will.
 </p>
 ## Notes
-v1–2: Strength is located in grace and extended through transmission. Teaching is generational.  
-v3–6: Multiple metaphors (soldier, athlete, farmer) frame discipline, focus, and reward.  
-v7: Understanding is both human reflection and divine gift.  
-v8–9: The contrast between Paul’s chains and the unchained word emphasizes the freedom of the message.  
+v01–02: Strength is located in grace and extended through transmission. Teaching is generational.  
+v03–06: Multiple metaphors (soldier, athlete, farmer) frame discipline, focus, and reward.  
+v07: Understanding is both human reflection and divine gift.  
+v08–09: The contrast between Paul’s chains and the unchained word emphasizes the freedom of the message.  
 v10: Endurance is oriented toward others’ salvation.  
 v11–13: The saying balances promise and warning. Faithlessness does not negate Christ’s faithfulness.  
 v14–15: Right handling of the word contrasts with destructive disputes.  
@@ -109,27 +109,27 @@ v22: Fleeing and pursuing define ethical movement.
 v24–25: Correction is relational and patient, not combative.  
 v26: Deception is described as captivity, requiring awakening.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐνδυναμόω (endynamoō)  
+v01: ἐνδυναμόω (endynamoō)  
 
-v1: “To be strengthened.” Empowered.  
+v01: “To be strengthened.” Empowered.  
 
-v2: παρατίθημι (paratithēmi)  
+v02: παρατίθημι (paratithēmi)  
 
-v2: “To entrust.” Commit to another.  
+v02: “To entrust.” Commit to another.  
 
-v9: κακοπαθέω (kakopatheō)  
+v09: κακοπαθέω (kakopatheō)  
 
-v9: “To suffer hardship.” Endure difficulty.  
+v09: “To suffer hardship.” Endure difficulty.  
 
-v9: δεσμός (desmos)  
+v09: δεσμός (desmos)  
 
-v9: “Chains.” Physical restraint.  
+v09: “Chains.” Physical restraint.  
 
-v5: ἀθλέω (athleō)  
+v05: ἀθλέω (athleō)  
 
-v5: “To compete.” Engage in contest.  
+v05: “To compete.” Engage in contest.  
 
 v11: συναποθνῄσκω (synapothnēskō)  
 

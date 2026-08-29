@@ -87,7 +87,7 @@ v26: A firstborn animal cannot be newly dedicated because the firstborn already 
 v28–29: חֵרֶם (cherem) names an irrevocable category of devotion to the LORD that can include destruction. Verse 29 is severe and the chapter does not explain the circumstances by which a human being enters this category. TSW retains the legal statement without expanding or harmonizing it.
 v30–33: The tithe is described as already belonging to the LORD. Selection of every tenth herd animal is not to be manipulated by assessing its quality.
 
-##Vocabulary
+## Vocabulary
 
 v02: עֵרֶךְ (erekh)
 “Valuation.” An assigned monetary value used in the regulations for vows and dedicated property.

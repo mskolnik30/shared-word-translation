@@ -75,7 +75,7 @@ v12: “vegetables” translates a word for foods grown from seed and can includ
 v17: Daniel’s gift concerning visions and dreams prepares for the revelations that dominate the rest of the book.
 v21: Daniel’s survival until Cyrus marks the passage from Babylonian to Persian rule and frames his service across the great imperial transition.
 
-##Vocabulary
+## Vocabulary
 
 v02: שִׁנְעָר (Shinar)
 “Shinar.” An ancient biblical name for Babylonia.

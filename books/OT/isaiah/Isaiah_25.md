@@ -29,33 +29,25 @@ v11: He will spread out his hands in its midst, like one who swims spreads out h
 v12: He has brought the high fortress of your walls down, laid low, and brought to the ground, even to the dust.
 </p>
 ## Notes
-v8: “swallow up death” — Death itself becomes the object consumed by the LORD, reversing the repeated biblical image of death swallowing the living.  
-v6: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v3: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
-v9: “salvation” — Hebrew *yeshuah* and related roots describe deliverance, rescue, and the saving action of the LORD.  
+v08: “swallow up death” — Death itself becomes the object consumed by the LORD, reversing the repeated biblical image of death swallowing the living.  
+v06: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v03: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+v09: “salvation” — Hebrew *yeshuah* and related roots describe deliverance, rescue, and the saving action of the LORD.  
 
-##Vocabulary
+## Vocabulary
 
-v8: בִּלַּע (billa)  
+v08: בִּלַּע (billa)  
 “To swallow.” Used strikingly of the LORD swallowing death.  
 
-v6: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
-v3: גּוֹיִם (goyim)  
+v03: גּוֹיִם (goyim)  
 “Nations” or “peoples.” Peoples beyond Israel.  
 
-v9: יְשׁוּעָה (yeshuah)  
+v09: יְשׁוּעָה (yeshuah)  
 “Salvation” or “deliverance.” Saving help or rescue.  
-
-v08: בִּלַּע (billa)
-“To swallow.” Used strikingly of the LORD swallowing death.
 
 v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v03: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
-v09: יְשׁוּעָה (yeshuah)
-“Salvation” or “deliverance.” Saving help or rescue.

@@ -93,7 +93,7 @@ v20: The partridge image portrays Saul’s royal pursuit as disproportionate hun
 v23: David appeals to the LORD’s reciprocal justice: righteousness and faithfulness are to be returned by God.
 v25: Unlike earlier reconciliation scenes, David and Saul separate permanently after this encounter.
 
-##Vocabulary
+## Vocabulary
 
 v05: מַעְגָּל (ma'gal)
 “Camp circle” or encampment.

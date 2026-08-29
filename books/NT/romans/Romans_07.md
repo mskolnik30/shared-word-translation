@@ -89,42 +89,42 @@ v24: Wretched man that I am! Who will rescue me from this body of death?
 v25: Thanks be to God through Jesus Christ our Lord! So then, I myself with the mind serve the law of God, but with the flesh the law of sin.
 </p>
 ## Notes
-v1–3: Marriage analogy illustrates binding authority of law.
-v4: Death with Christ results in new belonging.
-v5–6: Transition from law to Spirit redefines service.
-v7–12: Law reveals sin but is not itself sinful.
+v01–03: Marriage analogy illustrates binding authority of law.
+v04: Death with Christ results in new belonging.
+v05–06: Transition from law to Spirit redefines service.
+v07–12: Law reveals sin but is not itself sinful.
 v13: Sin exploits the good to produce death.
 v14–20: Internal conflict exposes inability of flesh.
 v21–23: Competing “laws” describe moral struggle.
 v24–25: Deliverance is located in Christ, not self-effort.
 
-##Vocabulary
+## Vocabulary
 
-v1: κυριεύω (kyrieuō)
+v01: κυριεύω (kyrieuō)
 
 “To have authority over.”
 
-v2: καταργέω (katargeō)
+v02: καταργέω (katargeō)
 
 “To release, nullify.”
 
-v4: καρποφορέω (karpophoreō)
+v04: καρποφορέω (karpophoreō)
 
 “To bear fruit.”
 
-v5: πάθος (pathos)
+v05: πάθος (pathos)
 
 “Passion.”
 
-v6: καινότης (kainotēs)
+v06: καινότης (kainotēs)
 
 “Newness.”
 
-v7: ἐπιθυμία (epithymia)
+v07: ἐπιθυμία (epithymia)
 
 “Coveting, desire.”
 
-v8: ἀφορμή (aphormē)
+v08: ἀφορμή (aphormē)
 
 “Opportunity.”
 
@@ -165,5 +165,3 @@ v24: ταλαίπωρος (talaipōros)
 v25: χάρις (charis)
 “Thanks, grace.”
 
-v01: κυριεύω (kyrieuō)
-“To have authority over.”

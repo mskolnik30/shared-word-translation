@@ -36,30 +36,25 @@ v13: The nations will rush like the rushing of many waters: but he will rebuke t
 v14: At evening, look, terror! Before the morning, they are no more. This is the portion of those who plunder us, and the lot of those who rob us.
 </p>
 ## Notes
-v1: Damascus and Ephraim are judged together, reflecting the political alliance that shaped the Syro-Ephraimite crisis.  
-v7: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
-v3: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v3: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
+v01: Damascus and Ephraim are judged together, reflecting the political alliance that shaped the Syro-Ephraimite crisis.  
+v07: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v03: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v03: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
 
-##Vocabulary
+## Vocabulary
 
-v7: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+v07: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.  
 
-v3: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v03: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
-v3: שְׁאָר (she'ar)  
+v03: שְׁאָר (she'ar)  
 “Remnant.” Those who remain or survive.  
 
 v12: גּוֹיִם (goyim)
 “Nations” or “peoples.” Peoples beyond Israel.
 
-v07: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
 v03: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v03: שְׁאָר (she'ar)
-“Remnant.” Those who remain or survive.

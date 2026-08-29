@@ -44,20 +44,18 @@ The LORD of Hosts—
 he is the King of glory. Selah
 </p>
 ## Notes
-v4: The Hebrew reads “my life,” though the surrounding description concerns the person with clean hands and a pure heart. A traditional marginal reading has “his life.” The retained wording preserves the text’s striking shift in voice.  
-v6: The verse moves between “those who seek him” and “your face,” then ends with “Jacob.” The final word may be read in more than one way; the Hebrew does not explicitly supply “God of” Jacob.  
-v7–10: The gates and ancient doors are addressed as though they can raise themselves to welcome the King of glory. The repeated exchange gives the passage the character of an entrance liturgy.  
-v06: The verse moves between “those who seek him” and “your face,” then ends with “Jacob.” The final word may be read in more than one way; the Hebrew does not explicitly supply “God of” Jacob.
+v04: The Hebrew reads “my life,” though the surrounding description concerns the person with clean hands and a pure heart. A traditional marginal reading has “his life.” The retained wording preserves the text’s striking shift in voice.  
+v06: The verse moves between “those who seek him” and “your face,” then ends with “Jacob.” The final word may be read in more than one way; the Hebrew does not explicitly supply “God of” Jacob.  
+v07–10: The gates and ancient doors are addressed as though they can raise themselves to welcome the King of glory. The repeated exchange gives the passage the character of an entrance liturgy.  
+## Vocabulary
 
-##Vocabulary
+v01: **מְלֹא — *meloʾ***: “all that fills it” presents the earth not as empty territory but as belonging wholly to the LORD, together with everything within it.  
 
-v1: **מְלֹא — *meloʾ***: “all that fills it” presents the earth not as empty territory but as belonging wholly to the LORD, together with everything within it.  
+v04: **שָׁוְא — *shavʾ***: “what is empty” can include falsehood, worthlessness, or that which proves futile. It stands opposite the integrity named in the rest of the verse.  
 
-v4: **שָׁוְא — *shavʾ***: “what is empty” can include falsehood, worthlessness, or that which proves futile. It stands opposite the integrity named in the rest of the verse.  
+v05: **צְדָקָה — *tsedaqah***: “righteousness” is received from God in parallel with blessing. Here it may denote both God’s righteous saving action and the right standing God grants.  
 
-v5: **צְדָקָה — *tsedaqah***: “righteousness” is received from God in parallel with blessing. Here it may denote both God’s righteous saving action and the right standing God grants.  
-
-v7: **כָּבוֹד — *kavod***: “glory” carries the sense of weight, honor, and manifest majesty. The title “King of glory” identifies the coming king by the fullness of divine splendor.  
+v07: **כָּבוֹד — *kavod***: “glory” carries the sense of weight, honor, and manifest majesty. The title “King of glory” identifies the coming king by the fullness of divine splendor.  
 
 v10: **צְבָאוֹת — *tsevaʾot***: “hosts” evokes ordered multitudes, especially heavenly forces. “The LORD of hosts” declares the LORD’s sovereign command amid the psalm’s royal and martial imagery.  
 

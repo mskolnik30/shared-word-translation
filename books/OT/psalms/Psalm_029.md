@@ -39,20 +39,20 @@ v11: May the LORD give strength to his people;
 may the LORD bless his people with peace.
 </p>
 ## Notes
-v1: “Sons of gods” is a literal rendering of a phrase that may refer to heavenly beings. The psalm opens by summoning even the divine council to acknowledge the LORD’s incomparable glory and strength.  
-v2: “Holy splendor” can also be understood as “the splendor of holiness.” The phrase holds together the LORD’s holiness and the fitting beauty of worship offered to him.  
-v3–9: The repeated “voice of the LORD” evokes a thunderstorm moving from the waters and Lebanon toward the wilderness of Kadesh. The storm imagery declares the LORD’s sovereign power over creation.  
-v9: The final clause may refer to all within the LORD’s temple, or more broadly to everything in it. The response to the LORD’s terrifying voice is the single cry, “Glory!”  
+v01: “Sons of gods” is a literal rendering of a phrase that may refer to heavenly beings. The psalm opens by summoning even the divine council to acknowledge the LORD’s incomparable glory and strength.  
+v02: “Holy splendor” can also be understood as “the splendor of holiness.” The phrase holds together the LORD’s holiness and the fitting beauty of worship offered to him.  
+v03–09: The repeated “voice of the LORD” evokes a thunderstorm moving from the waters and Lebanon toward the wilderness of Kadesh. The storm imagery declares the LORD’s sovereign power over creation.  
+v09: The final clause may refer to all within the LORD’s temple, or more broadly to everything in it. The response to the LORD’s terrifying voice is the single cry, “Glory!”  
 v10: “The flood” uses a word otherwise associated with the great flood of Genesis. The LORD’s kingship is set over the most overwhelming waters and endures forever.  
 v01: “Sons of gods” is a literal rendering of a phrase that may refer to heavenly beings.
 
-##Vocabulary
+## Vocabulary
 
-v1: **בְּנֵי אֵלִים — *bene ʾelim***: “sons of gods.” This expression places the LORD above all heavenly powers summoned to ascribe glory to him.  
+v01: **בְּנֵי אֵלִים — *bene ʾelim***: “sons of gods.” This expression places the LORD above all heavenly powers summoned to ascribe glory to him.  
 
-v3: **קוֹל — *qol***: “voice.” Repeated seven times in vv. 3–9, the LORD’s voice is heard in the thunderstorm and portrayed as active throughout creation.  
+v03: **קוֹל — *qol***: “voice.” Repeated seven times in vv. 3–9, the LORD’s voice is heard in the thunderstorm and portrayed as active throughout creation.  
 
-v3: **כָּבוֹד — *kavod***: “glory.” The word conveys weight, splendor, and manifest honor. The God of glory thunders, and all in his temple answer, “Glory!”  
+v03: **כָּבוֹד — *kavod***: “glory.” The word conveys weight, splendor, and manifest honor. The God of glory thunders, and all in his temple answer, “Glory!”  
 
 v10: **מַבּוּל — *mabbul***: “flood.” This distinctive term recalls the cosmic waters of the flood narrative, emphasizing that the LORD reigns even over chaos.  
 

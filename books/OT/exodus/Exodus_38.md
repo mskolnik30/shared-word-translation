@@ -94,7 +94,7 @@ v24–29: The quantities are given in ancient weight units and emphasize the eno
 v26: The census number matches the total in Exodus 12:37 and later census traditions. The half-shekel contribution links the accounting back to the ransom law of Exodus 30.
 v27: The silver bases embody the census contribution materially in the foundation of sacred space.
 
-##Vocabulary
+## Vocabulary
 
 v08: מַרְאֹת (mar'ot)
 “Mirrors.” Polished bronze objects used as the material for the basin.

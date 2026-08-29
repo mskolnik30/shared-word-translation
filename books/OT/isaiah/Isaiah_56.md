@@ -35,33 +35,22 @@ v12: Come you, say they, I will get wine, and we will fill ourselves with strong
 and tomorrow will be as this day, a day great beyond measure.
 </p>
 ## Notes
-v4: The inclusion of eunuchs and foreigners directly addresses people whose place in the covenant community might otherwise be considered restricted.  
-v4: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
-v6: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
-v1: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.  
+v04: The inclusion of eunuchs and foreigners directly addresses people whose place in the covenant community might otherwise be considered restricted.  
+v04: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
+v06: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+v01: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.  
 
-##Vocabulary
+## Vocabulary
 
-v4: סָרִיס (saris)  
+v04: סָרִיס (saris)  
 “Eunuch.” One of the explicitly welcomed groups in the chapter’s vision of covenant belonging.  
 
-v4: בְּרִית (berit)  
+v04: בְּרִית (berit)  
 “Covenant.” A binding relationship shaped by promise and obligation.  
 
-v6: עֶבֶד (eved)  
+v06: עֶבֶד (eved)  
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
-v1: מִשְׁפָּט (mishpat)  
+v01: מִשְׁפָּט (mishpat)  
 “Justice” or “judgment.” Right judgment and right communal ordering.  
 
-v04: סָרִיס (saris)
-“Eunuch.” One of the explicitly welcomed groups in the chapter’s vision of covenant belonging.
-
-v04: בְּרִית (berit)
-“Covenant.” A binding relationship shaped by promise and obligation.
-
-v06: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
-v01: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.

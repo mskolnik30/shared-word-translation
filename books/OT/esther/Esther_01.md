@@ -72,7 +72,7 @@ v16–20: Memucan converts one woman’s refusal into an empire-wide political t
 v19: Persian and Median law is described as irrevocable, a theme that becomes crucial later when the king cannot simply cancel Haman’s decree.
 v22: The final clause is difficult and may concern each husband ruling his household and speaking his own language there. TSW preserves both elements without supplying a more elaborate social policy than the Hebrew states.
 
-##Vocabulary
+## Vocabulary
 
 v01: מְדִינָה (medinah)
 “Province.” An administrative district of the Persian Empire.

@@ -126,7 +126,7 @@ v25: *Goel*, “redeemer,” ordinarily refers to a kinsman-defender who vindica
 v26–27: These verses are among the most textually and syntactically difficult in Job. They can be understood in different ways concerning whether Job sees God in or apart from flesh and whether the vision occurs before or after death. TSW preserves the bodily language and Job’s intense expectation without forcing a later doctrinal resolution.
 v29: Job warns the friends that judgment is not a principle safely aimed only at him; their own accusing speech may place them under it.
 
-##Vocabulary
+## Vocabulary
 
 v02: דָּכָא (daka)
 “To crush.” Job says the friends crush him with words.

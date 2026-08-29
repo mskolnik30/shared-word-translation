@@ -72,7 +72,7 @@ v19–25: Animals dedicated to the altar must be without defect, distinguishing 
 v27: The eighth-day threshold parallels other Levitical transitions in which a seven-day period is completed before entry into a new ritual status.
 v32–33: The call not to profane the LORD’s name is grounded in Israel’s exodus and in the LORD’s ongoing act of making the people holy.
 
-##Vocabulary
+## Vocabulary
 
 v02: נָזַר (nazar)
 “To keep separate” or “exercise restraint.” Here used of careful treatment of holy things.

@@ -55,49 +55,49 @@ v13: Let us walk properly, as in the day, not in revelry and drunkenness, not in
 v14: But put on the Lord Jesus Christ, and make no provision for the flesh, for its desires.
 </p>
 ## Notes
-v1–2: Authority is framed as divinely ordered.
-v3–4: Government functions as moral restraint.
-v5: Submission includes internal (conscience) and external (wrath) motives.
-v6–7: Civic obligations are expressions of order.
-v8–10: Love fulfills the intent of the law.
+v01–02: Authority is framed as divinely ordered.
+v03–04: Government functions as moral restraint.
+v05: Submission includes internal (conscience) and external (wrath) motives.
+v06–07: Civic obligations are expressions of order.
+v08–10: Love fulfills the intent of the law.
 v11–12: Eschatological urgency shapes ethical conduct.
 v13–14: Moral transformation is expressed through conduct and identity in Christ.
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐξουσία (exousia)
+v01: ἐξουσία (exousia)
 
 “Authority.”
 
-v2: ἀντιτάσσω (antitassō)
+v02: ἀντιτάσσω (antitassō)
 
 “To resist.”
 
-v3: φόβος (phobos)
+v03: φόβος (phobos)
 
 “Fear.”
 
-v4: διάκονος (diakonos)
+v04: διάκονος (diakonos)
 
 “Servant.”
 
-v4: ἔκδικος (ekdikos)
+v04: ἔκδικος (ekdikos)
 
 “Avenger.”
 
-v5: συνείδησις (syneidēsis)
+v05: συνείδησις (syneidēsis)
 
 “Conscience.”
 
-v6: φόρος (phoros)
+v06: φόρος (phoros)
 
 “Tax.”
 
-v8: ἀγαπάω (agapaō)
+v08: ἀγαπάω (agapaō)
 
 “To love.”
 
-v9: ἀνακεφαλαιόω (anakephalaiōō)
+v09: ἀνακεφαλαιόω (anakephalaiōō)
 
 “To sum up.”
 
@@ -121,14 +121,3 @@ v14: πρόνοια (pronoia)
 
 “Provision.”
 
-v01: ἐξουσία (exousia)
-“Authority.”
-
-v02: ἀντιτάσσω (antitassō)
-“To resist.”
-
-v03: φόβος (phobos)
-“Fear.”
-
-v04: διάκονος (diakonos)
-“Servant.”

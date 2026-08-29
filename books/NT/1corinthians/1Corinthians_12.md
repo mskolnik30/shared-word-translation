@@ -81,12 +81,12 @@ v30: Do all have gifts of healings? Do all speak in tongues? Do all interpret?
 v31: But earnestly desire the greater gifts. And yet I show you a still more excellent way.
 </p>
 ## Notes
-v1: “Spiritual matters” broadens the scope beyond specific gifts, indicating a wider concern with Spirit-related life.  
-v2: The past is described in terms of being led, emphasizing lack of agency and contrast with Spirit-led speech.  
-v3: Confession (“Jesus is Lord”) is presented as Spirit-enabled. Speech reveals source.  
-v4–6: The triadic pattern (Spirit, Lord, God) frames diversity within unity without collapsing distinctions.  
-v7: Gifts are oriented toward the “common good,” not individual status.  
-v8–10: The list is representative rather than exhaustive. Variety is emphasized through repetition.  
+v01: “Spiritual matters” broadens the scope beyond specific gifts, indicating a wider concern with Spirit-related life.  
+v02: The past is described in terms of being led, emphasizing lack of agency and contrast with Spirit-led speech.  
+v03: Confession (“Jesus is Lord”) is presented as Spirit-enabled. Speech reveals source.  
+v04–06: The triadic pattern (Spirit, Lord, God) frames diversity within unity without collapsing distinctions.  
+v07: Gifts are oriented toward the “common good,” not individual status.  
+v08–10: The list is representative rather than exhaustive. Variety is emphasized through repetition.  
 v11: Distribution is personal and purposeful, governed by the Spirit’s will rather than human control.  
 v12–13: The body metaphor grounds unity in shared participation in the Spirit, crossing social and ethnic divisions.  
 v13: “Made to drink of one Spirit” complements baptism imagery, emphasizing ongoing participation.  
@@ -99,33 +99,33 @@ v28: The ordering of roles is given without explanation, preserving structure wi
 v29–30: Rhetorical questions resist uniform expectation. Not all share the same function.  
 v31: Desire for “greater gifts” is affirmed, but immediately reframed toward “a more excellent way,” preparing for what follows.  
 
-##Vocabulary
+## Vocabulary
 
-v1: πνευματικός (pneumatikos)  
+v01: πνευματικός (pneumatikos)  
 “Spiritual.” Relating to the Spirit, not merely internal or immaterial.  
 
-v2: ἄγω (agō)  
+v02: ἄγω (agō)  
 “To lead.” Often implies being guided or carried along.  
 
-v3: ἀνάθεμα (anathema)  
+v03: ἀνάθεμα (anathema)  
 “Accursed.” Set apart for destruction or rejection.  
 
-v3: κύριος (kyrios)  
+v03: κύριος (kyrios)  
 “Lord.” Title of authority and allegiance, central to confession.  
 
-v4: χάρισμα (charisma)  
+v04: χάρισμα (charisma)  
 “Gift.” A gracious endowment given by God.  
 
-v5: διακονία (diakonia)  
+v05: διακονία (diakonia)  
 “Service.” Ministry or function carried out for others.  
 
-v6: ἐνέργημα (energēma)  
+v06: ἐνέργημα (energēma)  
 “Working.” Effect or operation of power.  
 
-v7: φανέρωσις (phanerōsis)  
+v07: φανέρωσις (phanerōsis)  
 “Manifestation.” Visible expression of the Spirit’s presence.  
 
-v8: σοφία (sophia)  
+v08: σοφία (sophia)  
 “Wisdom.” Insight into divine truth or application.  
 
 v10: διακρίσεις (diakriseis)  
@@ -164,14 +164,3 @@ v28: ἀπόστολος (apostolos)
 v31: ζηλόω (zēloō)  
 “To desire earnestly.” Can imply zeal or strong longing.  
 
-v01: πνευματικός (pneumatikos)
-“Spiritual.” Relating to the Spirit, not merely internal or immaterial.
-
-v02: ἄγω (agō)
-“To lead.” Often implies being guided or carried along.
-
-v07: φανέρωσις (phanerōsis)
-“Manifestation.” Visible expression of the Spirit’s presence.
-
-v08: σοφία (sophia)
-“Wisdom.” Insight into divine truth or application.

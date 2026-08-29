@@ -57,27 +57,24 @@ v23: But when he sees his children, the work of my hands, in the midst of him, t
 v24: They also who err in spirit will come to understanding, and those who grumble will receive instruction."
 </p>
 ## Notes
-v1: “Ariel” is a poetic name for Jerusalem whose precise sense is debated; possible associations include “lion of God” and an altar hearth.  
+v01: “Ariel” is a poetic name for Jerusalem whose precise sense is debated; possible associations include “lion of God” and an altar hearth.  
 v19: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
-v6: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v8: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v06: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v08: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
 
-##Vocabulary
+## Vocabulary
 
-v1: אֲרִיאֵל (Ari'el)  
+v01: אֲרִיאֵל (Ari'el)  
 “Ariel.” A poetic designation for Jerusalem with debated etymology.  
 
 v19: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
-v6: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
-v8: צִיּוֹן (tsiyyon)  
+v08: צִיּוֹן (tsiyyon)  
 “Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
-
-v01: אֲרִיאֵל (Ari'el)
-“Ariel.” A poetic designation for Jerusalem with debated etymology.
 
 v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”

@@ -122,11 +122,11 @@ v28: Pharaoh said to him, “Go away from me! Watch yourself—do not ever again
 <p>
 v29: Moses said, “You have spoken rightly. I will never again see your face.”
 </p>
-##Notes
+## Notes
 
 v21: The final Hebrew phrase is difficult and vivid, literally, “and darkness may be felt.”
 
-##Vocabulary
+## Vocabulary
 
 v01: לֵב (lev)
 “heart.” In this chapter the heart is the center of Pharaoh’s resolve and perception. Yahweh makes Pharaoh’s heart “heavy” and later “strengthens” it, language that heightens the tension between divine action and Pharaoh’s refusal.

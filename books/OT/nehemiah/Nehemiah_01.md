@@ -37,7 +37,7 @@ v06: Nehemiah confesses corporately, identifying himself and his ancestral house
 v08–09: The prayer recalls covenantal warnings and promises associated especially with Deuteronomy. It appeals to the LORD’s own word rather than presenting restoration as entitlement.
 v11: “cupbearer” — The role placed Nehemiah in close proximity to the Persian king and involved significant trust.
 
-##Vocabulary
+## Vocabulary
 
 v01: בִּירָה (birah)
 “Fortress” or “citadel.” A fortified royal complex; here Susa, a Persian administrative center.

@@ -126,7 +126,7 @@ v30: David’s barefoot, covered-head ascent is public mourning and humiliation 
 v31: Rather than ask for Ahithophel’s death, David prays that his counsel be turned into foolishness.
 v34–36: Hushai, priests, and their sons form an intelligence network within Jerusalem, blending political strategy with David’s continuing dependence on divine outcome.
 
-##Vocabulary
+## Vocabulary
 
 v01: מֶרְכָּבָה (merkavah)
 “Chariot.” A visible symbol of royal status.

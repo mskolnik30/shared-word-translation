@@ -168,8 +168,8 @@ is a person
 without self-control.
 </p>
 ## Notes
-v1: The heading identifies a later stage in the preservation of Solomonic wisdom during the reign of Hezekiah.  
-v2: Concealment and investigation are not opposites in value. God’s mystery and a ruler’s responsibility to investigate are each given their own glory.  
+v01: The heading identifies a later stage in the preservation of Solomonic wisdom during the reign of Hezekiah.  
+v02: Concealment and investigation are not opposites in value. God’s mystery and a ruler’s responsibility to investigate are each given their own glory.  
 v11: The exact objects described by “apples of gold” are uncertain; the image clearly emphasizes beauty, craftsmanship, and appropriateness.  
 v11: The exact objects described by “apples of gold” are uncertain.
 v13: “snow” likely refers to coolness brought from snow-covered regions rather than snow falling during harvest.  
@@ -178,15 +178,15 @@ v20: The Hebrew comparison involving vinegar and soda describes a reaction that 
 v21–22: Care for an enemy replaces retaliation. The “burning coals” image has been understood as shame, conviction, or judgment; TSW leaves the metaphor intact.  
 v28: Self-control functions like a city wall: it protects inward life from uncontrolled intrusion and destruction.  
 
-##Vocabulary
+## Vocabulary
 
-v1: עָתַק (ataq)  
+v01: עָתַק (ataq)  
 “To copy” or “transcribe.” Here describing preservation of the sayings by Hezekiah’s scribes.  
 
-v2: חָקַר (chaqar)  
+v02: חָקַר (chaqar)  
 “To search out.” To investigate what is concealed.  
 
-v4: סִיג (sig)  
+v04: סִיג (sig)  
 “Dross.” Impurity removed during metal refining.  
 
 v11: אֹפֶן (ofen)  
@@ -204,5 +204,3 @@ v19: בָּטַח (batach)
 v28: מַעְצָר (maatsar)  
 “Restraint” or “control.” The capacity to govern oneself.  
 
-v01: עָתַק (ataq)
-“To copy” or “transcribe.” Here describing preservation of the sayings by Hezekiah’s scribes.

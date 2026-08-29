@@ -164,11 +164,11 @@ v25: Thus says the LORD GOD: When I gather the house of Israel from the peoples 
 <p>
 v26: They will live there securely. They will build houses and plant vineyards; they will live securely when I execute judgments on all around them who despise them. Then they will know that I am the LORD their God.”
 </p>
-##Notes
+## Notes
 
 v14: The Hebrew shifts grammatical gender in this verse and nearby lines.
 
-##Vocabulary
+## Vocabulary
 
 v02: לֵב (lev)
 “heart.” In this passage the heart is the center of judgment, desire, and self-understanding. The ruler’s heart makes itself like a god’s heart.

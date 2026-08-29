@@ -41,19 +41,19 @@ He will judge the world with righteousness
 and the peoples with equity.
 </p>
 ## Notes
-v1: “His right hand and his holy arm” portray the LORD’s saving power in bodily imagery. The phrase “have won salvation for him” preserves the Hebrew’s striking reflexive sense: God’s victory is God’s own accomplishment.  
-v2–3: The psalm joins God’s faithfulness to Israel with the public disclosure of God’s saving righteousness before all nations. Israel’s particular story becomes visible to the whole earth.  
-v7–9: Sea, rivers, and mountains are summoned as worshipers because the LORD is coming to judge. Here judgment is celebrated as the arrival of righteous and equitable rule.  
+v01: “His right hand and his holy arm” portray the LORD’s saving power in bodily imagery. The phrase “have won salvation for him” preserves the Hebrew’s striking reflexive sense: God’s victory is God’s own accomplishment.  
+v02–03: The psalm joins God’s faithfulness to Israel with the public disclosure of God’s saving righteousness before all nations. Israel’s particular story becomes visible to the whole earth.  
+v07–09: Sea, rivers, and mountains are summoned as worshipers because the LORD is coming to judge. Here judgment is celebrated as the arrival of righteous and equitable rule.  
 
-##Vocabulary
+## Vocabulary
 
-v2: **צְדָקָה — *tsedaqah***: “righteousness” is revealed before the nations as God’s public, saving faithfulness and right ordering of the world.  
+v02: **צְדָקָה — *tsedaqah***: “righteousness” is revealed before the nations as God’s public, saving faithfulness and right ordering of the world.  
 
-v3: **חֶסֶד — *chesed***: “steadfast love” names the LORD’s enduring covenant loyalty toward the house of Israel.  
+v03: **חֶסֶד — *chesed***: “steadfast love” names the LORD’s enduring covenant loyalty toward the house of Israel.  
 
-v3: **אֱמוּנָה — *’emunah***: “faithfulness” emphasizes God’s dependability, paired here with steadfast love.  
+v03: **אֱמוּנָה — *’emunah***: “faithfulness” emphasizes God’s dependability, paired here with steadfast love.  
 
-v9: **שָׁפַט — *shaphat***: “judge” denotes active rule as well as judicial decision. The LORD’s coming judgment is defined by righteousness and equity.  
+v09: **שָׁפַט — *shaphat***: “judge” denotes active rule as well as judicial decision. The LORD’s coming judgment is defined by righteousness and equity.  
 
 v02: צְדָקָה (tsedaqah)
 “righteousness” is revealed before the nations as God’s public, saving faithfulness and right ordering of the world.

@@ -44,7 +44,7 @@ v04: “build” and “plant,” normally hopeful verbs in Jeremiah, are revers
 v05: The nature of the “great things” Baruch seeks is not specified. TSW preserves the open wording rather than guessing whether the concern was status, security, prophetic recognition, or something else.
 v05: Baruch is not promised escape from upheaval but preservation of life. The recurring phrase “life as plunder” describes survival when other gains cannot be secured.
 
-##Vocabulary
+## Vocabulary
 
 v03: יָגוֹן (yagon)
 “Grief” or “sorrow.” Deep emotional pain.

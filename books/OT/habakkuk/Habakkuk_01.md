@@ -129,7 +129,7 @@ v12: “We shall not die” — The Masoretic Text reads “we shall not die.”
 v13: Habakkuk’s second complaint presses the problem created by the LORD’s answer: how can a pure God use a nation more wicked than Judah as the instrument of judgment?
 v15–16: Hook, net, and dragnet portray nations as helpless fish. The conqueror then worships the very instruments by which wealth and power are acquired.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַשָּׂא (massa)
 “Oracle” or “burden.” A weighty prophetic pronouncement.

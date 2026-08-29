@@ -111,7 +111,7 @@ v18: The law protects blind persons from deliberate misdirection, making exploit
 v19: Resident alien, orphan, and widow again function as a test case for whether justice protects those with less social power.
 v26: The final curse gathers the entire written instruction under the obligation not merely to hear but to “establish” it by doing it.
 
-##Vocabulary
+## Vocabulary
 
 v02: שִׂיד (sid)
 “Plaster.” Material covering the stones for writing.

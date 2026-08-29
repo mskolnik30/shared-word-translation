@@ -147,7 +147,7 @@ v15: “destruction from the Almighty” — The Hebrew uses wordplay between *s
 v17: The Hebrew vocabulary concerning seeds, clods, storehouses, and granaries is unusually difficult. The verse clearly depicts seed and storage failing because the grain has dried up.
 v19–20: Fire imagery may describe literal burning, the scorching effects of drought, or the devastation of the locust plague. The poem does not require these images to be separated.
 
-##Vocabulary
+## Vocabulary
 
 v01: דְּבַר־יְהוָה (devar YHWH)
 “Word of the LORD.” Prophetic speech originating in the LORD.

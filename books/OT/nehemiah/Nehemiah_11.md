@@ -73,7 +73,7 @@ v23: Persian royal administration appears even in the support of temple singers,
 v25–35: The geographic list broadens the chapter from Jerusalem to the settlements of Judah and Benjamin, depicting a restored network of inhabited communities.
 v36: The terse final verse preserves the overlapping settlement of Levitical divisions across tribal territory.
 
-##Vocabulary
+## Vocabulary
 
 v01: גּוֹרָל (goral)
 “Lot.” An object or procedure used to make a decision by casting lots.

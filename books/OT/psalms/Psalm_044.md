@@ -154,7 +154,7 @@ v22: “sheep for slaughter” — The image returns to the sheep language of v1
 v23: “Why do you sleep, Lord?” — The psalm uses bold human language for perceived divine inactivity. The translation preserves the accusation without qualifying it.
 v26: The final appeal rests not on military strength or even on the community’s claim of innocence, but on God’s steadfast love.
 
-##Vocabulary
+## Vocabulary
 
 v02: נָטַע (nata)
 “To plant.” Used metaphorically for establishing a people securely in a land.

@@ -63,10 +63,10 @@ they will be an abhorrence to all flesh.
 ## Notes
 v13: The LORD’s comfort is explicitly maternal. The image belongs to Isaiah’s own language for God and is retained without qualification.  
 v14: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
-v8: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v3: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+v08: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v03: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
-##Vocabulary
+## Vocabulary
 
 v13: נָחַם (nacham)
 “To comfort.” Here expressed through the explicit image of a mother comforting a child.
@@ -74,7 +74,7 @@ v13: נָחַם (nacham)
 v14: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.
 
-v8: צִיּוֹן (tsiyyon)  
+v08: צִיּוֹן (tsiyyon)  
 “Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
 v12: גּוֹיִם (goyim)

@@ -161,7 +161,7 @@ v41: The Masoretic Text is unusually short. The Greek preserves a longer prayer 
 v45: The people “ransom” Jonathan from Saul’s vow, judging that the man through whom God brought salvation must not die.
 v47: The Hebrew verb describing Saul’s action wherever he turned is difficult. It can mean defeat, punish, or act wickedly. TSW uses “inflicted punishment” in the military context.
 
-##Vocabulary
+## Vocabulary
 
 v06: יָשַׁע (yasha)
 “To save.”

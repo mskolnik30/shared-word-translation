@@ -47,7 +47,7 @@ v07: The young man is both connected with Bethlehem in Judah and identified as a
 v10: “father and priest” — “Father” functions as an honorific or relational title for a religious figure, even though the Levite is described as young.
 v13: Micah assumes that possession of a Levite priest guarantees the LORD’s favor. The narrator gives no confirmation of that confidence.
 
-##Vocabulary
+## Vocabulary
 
 v03: קָדַשׁ (qadash)
 “To consecrate” or “make holy.” To set something apart for sacred use.

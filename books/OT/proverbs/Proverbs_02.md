@@ -95,14 +95,14 @@ v22: but the wicked will be cut off from the land,
 and the treacherous will be torn from it.
 </p>
 ## Notes
-v1–5: The repeated “if” clauses make the search for wisdom active and sustained: receiving, treasuring, listening, calling, seeking, and searching culminate in understanding the fear of the LORD and finding knowledge of God.  
-v2: “heart” — In Hebrew anthropology the heart is not merely the location of emotion. It includes thought, intention, discernment, and will.  
-v4: “like silver … hidden treasures” — Wisdom is not pictured as inaccessible but as valuable enough to justify deliberate searching.  
-v5: “knowledge of God” — Knowledge is relational as well as intellectual. The parallel with “fear of the LORD” places knowing God within reverent, faithful life.  
-v6: Wisdom is both something the learner diligently seeks and something the LORD gives. The poem holds human pursuit and divine gift together without treating them as competitors.  
-v7: “sound wisdom” — The Hebrew term is uncommon and can refer to effective wisdom, resourcefulness, or enduring success. The context associates it with uprightness rather than mere achievement.  
-v8: “faithful ones” — The Hebrew term *chasidim* describes those characterized by covenant faithfulness or steadfast loyalty.  
-v9: “righteousness and justice and equity” — The same cluster introduced in Proverbs 1:3 returns here. Wisdom forms discernment about the full range of right communal conduct.  
+v01–05: The repeated “if” clauses make the search for wisdom active and sustained: receiving, treasuring, listening, calling, seeking, and searching culminate in understanding the fear of the LORD and finding knowledge of God.  
+v02: “heart” — In Hebrew anthropology the heart is not merely the location of emotion. It includes thought, intention, discernment, and will.  
+v04: “like silver … hidden treasures” — Wisdom is not pictured as inaccessible but as valuable enough to justify deliberate searching.  
+v05: “knowledge of God” — Knowledge is relational as well as intellectual. The parallel with “fear of the LORD” places knowing God within reverent, faithful life.  
+v06: Wisdom is both something the learner diligently seeks and something the LORD gives. The poem holds human pursuit and divine gift together without treating them as competitors.  
+v07: “sound wisdom” — The Hebrew term is uncommon and can refer to effective wisdom, resourcefulness, or enduring success. The context associates it with uprightness rather than mere achievement.  
+v08: “faithful ones” — The Hebrew term *chasidim* describes those characterized by covenant faithfulness or steadfast loyalty.  
+v09: “righteousness and justice and equity” — The same cluster introduced in Proverbs 1:3 returns here. Wisdom forms discernment about the full range of right communal conduct.  
 v10–11: Wisdom moves from something sought externally to something entering the heart. Once internalized, wisdom and discretion become guardians of the learner.  
 v12–15: Evil is repeatedly described as a “way,” “paths,” and “ways.” Moral life is portrayed spatially as movement along a course that shapes where a person arrives.  
 v16: “strange woman … foreign woman” — The Hebrew terms can describe a woman outside the expected covenantal or marital relationship. In this instructional context the focus is her role in seduction and unfaithfulness, not her ethnicity.  
@@ -112,30 +112,30 @@ v19: The statement uses deliberately absolute warning language. The path of sedu
 v21–22: Dwelling in the land is connected with uprightness and integrity, while wickedness leads to removal. Wisdom instruction draws upon Israel’s covenantal language of land, faithfulness, and judgment.  
 v07: “sound wisdom” — The Hebrew term is uncommon and can refer to effective wisdom, resourcefulness, or enduring success.
 
-##Vocabulary
+## Vocabulary
 
-v1: צָפַן (tsafan)  
+v01: צָפַן (tsafan)  
 “To treasure,” “store,” or “hide.” To preserve something carefully for future use.  
 
-v2: תְּבוּנָה (tevunah)  
+v02: תְּבוּנָה (tevunah)  
 “Understanding” or “discernment.” The ability to distinguish, perceive relationships, and judge wisely.  
 
-v3: בִּינָה (binah)  
+v03: בִּינָה (binah)  
 “Understanding” or “insight.” Discernment that perceives what lies within or between matters.  
 
-v4: מַטְמוֹן (matmon)  
+v04: מַטְמוֹן (matmon)  
 “Hidden treasure.” Something valuable concealed and therefore requiring intentional search.  
 
-v5: דַּעַת אֱלֹהִים (daat Elohim)  
+v05: דַּעַת אֱלֹהִים (daat Elohim)  
 “Knowledge of God.” Knowing that includes recognition, relationship, and faithful response.  
 
-v7: תּוּשִׁיָּה (tushiyyah)  
+v07: תּוּשִׁיָּה (tushiyyah)  
 “Sound wisdom,” “effective wisdom,” or “resourcefulness.” Wisdom capable of producing stability and faithful action.  
 
-v7: תֹּם (tom)  
+v07: תֹּם (tom)  
 “Integrity” or “wholeness.” Undividedness of character and conduct.  
 
-v8: חָסִיד (chasid)  
+v08: חָסִיד (chasid)  
 “Faithful one” or “loyal one.” A person characterized by covenant loyalty or steadfast faithfulness.  
 
 v11: מְזִמָּה (mezimmah)  
@@ -159,11 +159,3 @@ v20: אֹרַח (orach)
 v22: בָּגַד (bagad)  
 “To act treacherously” or “betray.” To violate trust or deal faithlessly.  
 
-v05: דַּעַת אֱלֹהִים (daat Elohim)
-“Knowledge of God.” Knowing that includes recognition, relationship, and faithful response.
-
-v07: תּוּשִׁיָּה (tushiyyah)
-“Sound wisdom,” “effective wisdom,” or “resourcefulness.” Wisdom capable of producing stability and faithful action.
-
-v08: חָסִיד (chasid)
-“Faithful one” or “loyal one.” A person characterized by covenant loyalty or steadfast faithfulness.

@@ -127,9 +127,9 @@ v46: Then the king commanded Benaiah son of Jehoiada, and he went out and struck
 
 And the kingdom was established in Solomon’s hand.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v03: מִשְׁמֶרֶת (mishmeret)
 “Charge; obligation.” An entrusted duty or requirement.

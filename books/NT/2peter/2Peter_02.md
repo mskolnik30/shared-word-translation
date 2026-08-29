@@ -61,13 +61,13 @@ and,
 “The washed sow returns to wallowing in the mud.”
 </p>
 ## Notes
-v1: False teachers are paralleled with earlier false prophets; continuity is assumed.  
-v1: Destruction is self-incurred, not externally imposed alone.  
-v2: Influence spreads through imitation, not coercion.  
-v3: Judgment is portrayed as already determined.  
-v4–6: Past examples are cumulative, not sequentially explained.  
-v7–8: Righteousness is expressed through distress, not separation.  
-v9: Rescue and judgment are paired as parallel actions.  
+v01: False teachers are paralleled with earlier false prophets; continuity is assumed.  
+v01: Destruction is self-incurred, not externally imposed alone.  
+v02: Influence spreads through imitation, not coercion.  
+v03: Judgment is portrayed as already determined.  
+v04–06: Past examples are cumulative, not sequentially explained.  
+v07–08: Righteousness is expressed through distress, not separation.  
+v09: Rescue and judgment are paired as parallel actions.  
 v10: Authority is rejected internally, not externally alone.  
 v10–11: Contrast between human presumption and angelic restraint.  
 v12: Ignorance is active, not passive.  
@@ -80,27 +80,27 @@ v19: Freedom is redefined as slavery.
 v20–21: Knowledge increases accountability rather than reducing it.  
 v22: Proverbial imagery summarizes without interpretation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ψευδοπροφήτης (pseudoprophētēs)  
+v01: ψευδοπροφήτης (pseudoprophētēs)  
 
-v1: “False prophet.” One who speaks falsely in a prophetic role.  
+v01: “False prophet.” One who speaks falsely in a prophetic role.  
 
-v1: αἵρεσις (hairesis)  
+v01: αἵρεσις (hairesis)  
 
-v1: “Heresy.” Division or chosen teaching.  
+v01: “Heresy.” Division or chosen teaching.  
 
-v3: πλεονεξία (pleonexia)  
+v03: πλεονεξία (pleonexia)  
 
-v3: “Greed.” Desire for more.  
+v03: “Greed.” Desire for more.  
 
-v4: ταρταρόω (tartaroō)  
+v04: ταρταρόω (tartaroō)  
 
-v4: “To cast into Tartarus.” To confine in a place of judgment.  
+v04: “To cast into Tartarus.” To confine in a place of judgment.  
 
-v7: δίκαιος (dikaios)  
+v07: δίκαιος (dikaios)  
 
-v7: “Righteous.” In alignment with what is right.  
+v07: “Righteous.” In alignment with what is right.  
 
 v10: κυριότης (kyriotēs)  
 

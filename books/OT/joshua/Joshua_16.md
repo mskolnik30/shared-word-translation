@@ -37,7 +37,7 @@ v01–04: The allotment of Joseph is introduced before Ephraim and Manasseh are 
 v09: Ephraim holds enclaves within Manasseh’s wider territory, showing that tribal boundaries did not always form simple continuous blocks.
 v10: Ephraim’s inability or unwillingness to drive out Gezer ends in forced labor rather than complete displacement, a pattern repeated in Judges 1.
 
-##Vocabulary
+## Vocabulary
 
 v01: גּוֹרָל (goral)
 “Lot” or “allotment.” The assigned territorial portion.

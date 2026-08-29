@@ -42,7 +42,7 @@ v03–04: The portions assigned to the altar are described with anatomical preci
 v11: “food” — Sacrificial language can speak of altar portions as God’s “food” without implying literal divine need.
 v17: The prohibition of eating blood becomes especially important in Leviticus 17, where blood is explicitly associated with life.
 
-##Vocabulary
+## Vocabulary
 
 v01: שְׁלָמִים (shelamim)
 “Well-being offerings.” Sacrifices associated with wholeness, peace, and shared celebration.

@@ -56,7 +56,7 @@ v09: David’s response locates his deliverance in the LORD rather than in assas
 v11: David calls Ish-Bosheth “a righteous man” in the immediate context of being murdered defenseless in his own bed. The statement does not necessarily evaluate every aspect of Ish-Bosheth’s reign.
 v12: The mutilation and public hanging of the assassins’ bodies are punitive display practices from the ancient royal context. TSW reports them without treating them as a model for later justice.
 
-##Vocabulary
+## Vocabulary
 
 v01: רָפָה יָדַיִם (raphah yadayim)
 “To weaken the hands.” An idiom for losing courage or strength.

@@ -89,7 +89,7 @@ v10–11: Responses range from mockery to humility, preserving human freedom wit
 v18–20: Hezekiah’s prayer prioritizes a heart set on seeking God while acknowledging ritual irregularity; the LORD responds by healing.
 v23: The spontaneous second week makes the celebration unusually extended.
 
-##Vocabulary
+## Vocabulary
 
 v06: שׁוּב (shuv)
 “To return.” The central call to repentance.

@@ -137,7 +137,7 @@ v33: Resurrection testimony remains central.
 v34–35: Economic sharing removes need within the community.  
 v36–37: Barnabas exemplifies voluntary generosity.  
 
-##Vocabulary
+## Vocabulary
 
 v28: προορίζω (proorizō)
 “To predestine.”

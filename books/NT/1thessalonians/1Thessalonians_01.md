@@ -45,49 +45,49 @@ v09: For they themselves report about us what kind of reception we had among you
 v10: and to wait for his Son from heaven, whom he raised from the dead—Jesus, who rescues us from the coming wrath.
 </p>
 ## Notes
-v1: The church is located “in God… and the Lord Jesus Christ,” framing identity as relational rather than geographic alone.  
-v2–3: Faith, love, and hope are expressed through action (“work,” “labor,” “steadfastness”), not abstraction.  
-v4: “Election” is stated without explanation, grounded in God’s love.  
-v5: The good news is not merely spoken but enacted in power, Spirit, and conviction.  
-v5: Paul appeals to the community’s own experience (“you know”) as evidence.  
-v6: Affliction and joy are held together. Reception of the word includes both.  
-v7–8: The community becomes a model. Influence spreads without deliberate strategy.  
-v9: Conversion is described as turning—from idols to God—indicating both rejection and reorientation.  
+v01: The church is located “in God… and the Lord Jesus Christ,” framing identity as relational rather than geographic alone.  
+v02–03: Faith, love, and hope are expressed through action (“work,” “labor,” “steadfastness”), not abstraction.  
+v04: “Election” is stated without explanation, grounded in God’s love.  
+v05: The good news is not merely spoken but enacted in power, Spirit, and conviction.  
+v05: Paul appeals to the community’s own experience (“you know”) as evidence.  
+v06: Affliction and joy are held together. Reception of the word includes both.  
+v07–08: The community becomes a model. Influence spreads without deliberate strategy.  
+v09: Conversion is described as turning—from idols to God—indicating both rejection and reorientation.  
 v10: Waiting is active expectation. Hope is directed toward a future event grounded in resurrection.  
 
-##Vocabulary
+## Vocabulary
 
-v3: ἔργον (ergon)  
+v03: ἔργον (ergon)  
 
-v3: “Work.” Action that expresses faith.  
+v03: “Work.” Action that expresses faith.  
 
-v3: κόπος (kopos)  
+v03: κόπος (kopos)  
 
-v3: “Labor.” Effort involving strain or cost.  
+v03: “Labor.” Effort involving strain or cost.  
 
-v3: ὑπομονή (hypomonē)  
+v03: ὑπομονή (hypomonē)  
 
-v3: “Steadfastness.” Endurance over time.  
+v03: “Steadfastness.” Endurance over time.  
 
-v4: ἐκλογή (eklogē)  
+v04: ἐκλογή (eklogē)  
 
-v4: “Election.” Choice made by God.  
+v04: “Election.” Choice made by God.  
 
-v5: δύναμις (dynamis)  
+v05: δύναμις (dynamis)  
 
-v5: “Power.” Effective force or action.  
+v05: “Power.” Effective force or action.  
 
-v6: μιμητής (mimētēs)  
+v06: μιμητής (mimētēs)  
 
-v6: “Imitator.” One who follows a pattern.  
+v06: “Imitator.” One who follows a pattern.  
 
-v8: ἐξηχέω (exēcheō)  
+v08: ἐξηχέω (exēcheō)  
 
-v8: “To sound forth.” To echo or resound.  
+v08: “To sound forth.” To echo or resound.  
 
-v9: ἐπιστρέφω (epistrephō)  
+v09: ἐπιστρέφω (epistrephō)  
 
-v9: “To turn.” To change direction or allegiance.  
+v09: “To turn.” To change direction or allegiance.  
 
 v10: ῥύομαι (rhyomai)  
 

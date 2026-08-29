@@ -84,42 +84,42 @@ v18: to do justice to the fatherless and the oppressed,
 so that man who is of the earth may strike terror no more.
 </p>
 ## Notes
-v1: The psalm opens with perceived divine absence.  
-v2–11: Extended description of the wicked—internal thoughts, speech, and actions.  
-v4: The denial of God is functional (“does not seek”), not merely intellectual.  
-v8–10: Predatory imagery emphasizes systemic exploitation of the vulnerable.  
+v01: The psalm opens with perceived divine absence.  
+v02–11: Extended description of the wicked—internal thoughts, speech, and actions.  
+v04: The denial of God is functional (“does not seek”), not merely intellectual.  
+v08–10: Predatory imagery emphasizes systemic exploitation of the vulnerable.  
 v11: The core illusion—God does not see.  
 v12–15: The psalmist counters by calling God to act in visible justice.  
 v14: Affirmation interrupts complaint—God does see and take notice.  
 v16–18: Final reorientation—God’s kingship ensures justice for the oppressed.  
 
-##Vocabulary
+## Vocabulary
 
-v1: עָמַד (amad)  
+v01: עָמַד (amad)  
 “To stand.” Remain or be present.  
 
-v2: דָּלַק (dalaq)  
+v02: דָּלַק (dalaq)  
 “To pursue.” Chase intensely.  
 
-v3: בָּצַע (batsa)  
+v03: בָּצַע (batsa)  
 “Greedy gain.” Unjust profit.  
 
-v4: דָּרַשׁ (darash)  
+v04: דָּרַשׁ (darash)  
 “To seek.” Pursue God.  
 
-v5: צָלַח (tsalach)  
+v05: צָלַח (tsalach)  
 “To prosper.” Succeed.  
 
-v6: מוֹט (mot)  
+v06: מוֹט (mot)  
 “To be moved.” Shaken.  
 
-v7: מִרְמָה (mirmah)  
+v07: מִרְמָה (mirmah)  
 “Deceit.” Fraud.  
 
-v9: אָרַב (arab)  
+v09: אָרַב (arab)  
 “To lie in wait.” Ambush.  
 
-v9: טָרַף (taraph)  
+v09: טָרַף (taraph)  
 “To seize.” Capture.  
 
 v11: שָׁכַח (shakach)  
@@ -140,11 +140,3 @@ v16: מֶלֶךְ (melekh)
 v18: שָׁפַט (shaphat)
 “To judge.” Execute justice.
 
-v01: עָמַד (amad)
-“To stand.” Remain or be present.
-
-v02: דָּלַק (dalaq)
-“To pursue.” Chase intensely.
-
-v03: בָּצַע (batsa)
-“Greedy gain.” Unjust profit.

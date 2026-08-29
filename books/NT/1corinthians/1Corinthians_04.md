@@ -79,51 +79,51 @@ v20: For the kingdom of God does not consist in speech but in power.
 v21: What do you want? Shall I come to you with a rod, or with love and a spirit of gentleness?
 </p>
 ## Notes
-v1–2: Apostolic role defined as stewardship requiring faithfulness.  
-v3–5: Final judgment belongs to the Lord alone.  
-v6–7: All boasting is excluded by divine gift.  
-v8–10: Irony exposes Corinthian self-perception.  
+v01–02: Apostolic role defined as stewardship requiring faithfulness.  
+v03–05: Final judgment belongs to the Lord alone.  
+v06–07: All boasting is excluded by divine gift.  
+v08–10: Irony exposes Corinthian self-perception.  
 v11–13: Apostolic suffering contrasts worldly honor.  
 v14–17: Relationship is framed in paternal terms.  
 v18–21: Authority is validated by power, not speech.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ὑπηρέτης (hypēretēs)  
+v01: ὑπηρέτης (hypēretēs)  
 
-v1: “Servant.”  
+v01: “Servant.”  
 
-v1: οἰκονόμος (oikonomos)  
+v01: οἰκονόμος (oikonomos)  
 
-v1: “Steward.”  
+v01: “Steward.”  
 
-v1: μυστήριον (mystērion)  
+v01: μυστήριον (mystērion)  
 
-v1: “Mystery.”  
+v01: “Mystery.”  
 
-v2: πιστός (pistos)  
+v02: πιστός (pistos)  
 
-v2: “Faithful.”  
+v02: “Faithful.”  
 
-v3: ἀνακρίνω (anakrinō)  
+v03: ἀνακρίνω (anakrinō)  
 
-v3: “To examine, judge.”  
+v03: “To examine, judge.”  
 
-v5: φανερόω (phaneroō)  
+v05: φανερόω (phaneroō)  
 
-v5: “To bring to light.”  
+v05: “To bring to light.”  
 
-v6: φυσιόω (physioō)  
+v06: φυσιόω (physioō)  
 
-v6: “To become arrogant.”  
+v06: “To become arrogant.”  
 
-v7: λαμβάνω (lambanō)  
+v07: λαμβάνω (lambanō)  
 
-v7: “To receive.”  
+v07: “To receive.”  
 
-v9: θέατρον (theatron)  
+v09: θέατρον (theatron)  
 
-v9: “Spectacle.”  
+v09: “Spectacle.”  
 
 v10: μωρός (mōros)  
 

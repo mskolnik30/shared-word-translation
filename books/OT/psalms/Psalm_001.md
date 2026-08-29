@@ -49,67 +49,56 @@ v06: for the LORD knows the way of the righteous,
 but the way of the wicked will perish.
 </p>
 ## Notes
-v1: The progression (walk → stand → sit) marks increasing participation in disorder; counsel, path, and seat structure a full social orientation.
-v2: “Law” (torah) is not merely legal code but instruction; delight precedes discipline.
-v3: Stability and vitality contrast the instability of the wicked; prosperity is framed as rootedness, not accumulation.
-v4: Chaff imagery signals weightlessness—lack of substance under testing.
-v5: “Stand” reverses v01—those who stood in wrong places cannot stand in judgment.
-v6: “Knows” implies relational recognition; the divergence of ways is final.
+v01: The progression (walk → stand → sit) marks increasing participation in disorder; counsel, path, and seat structure a full social orientation.
+v02: “Law” (torah) is not merely legal code but instruction; delight precedes discipline.
+v03: Stability and vitality contrast the instability of the wicked; prosperity is framed as rootedness, not accumulation.
+v04: Chaff imagery signals weightlessness—lack of substance under testing.
+v05: “Stand” reverses v01—those who stood in wrong places cannot stand in judgment.
+v06: “Knows” implies relational recognition; the divergence of ways is final.
 
-##Vocabulary
+## Vocabulary
 
-v1: אַשְׁרֵי (ʾašrê)  
+v01: אַשְׁרֵי (ʾašrê)  
 
 “Blessed.” Flourishing, well-ordered life.
 
-v1: רָשָׁע (rāšāʿ)  
+v01: רָשָׁע (rāšāʿ)  
 
 “Wicked.” One opposed to covenantal order.
 
-v1: לֵץ (lēṣ)  
+v01: לֵץ (lēṣ)  
 
 “Scoffer.” One who mocks and resists correction.
 
-v2: תּוֹרָה (tôrāh)  
+v02: תּוֹרָה (tôrāh)  
 
 “Law/instruction.” Guiding teaching.
 
-v2: הָגָה (hāgāh)  
+v02: הָגָה (hāgāh)  
 
 “To meditate.” To murmur, reflect continually.
 
-v3: שָׁתַל (šāṭal)  
+v03: שָׁתַל (šāṭal)  
 
 “To plant.” To set firmly in place.
 
-v3: פְּרִי (perî)  
+v03: פְּרִי (perî)  
 
 “Fruit.” Product, outcome of life.
 
-v4: מֹץ (mōṣ)  
+v04: מֹץ (mōṣ)  
 
 “Chaff.” Husk separated from grain.
 
-v5: מִשְׁפָּט (mišpāṭ)  
+v05: מִשְׁפָּט (mišpāṭ)  
 
 “Judgment.” Legal decision, evaluation.
 
-v6: יָדַע (yāḏaʿ)  
+v06: יָדַע (yāḏaʿ)  
 
 “To know.” To recognize relationally.
 
-v6: דֶּרֶךְ (dereḵ)  
+v06: דֶּרֶךְ (dereḵ)  
 
 “Way.” Path, course of life.
 
-v01: אַשְׁרֵי (ʾašrê)
-“Blessed.” Flourishing, well-ordered life.
-
-v01: רָשָׁע (rāšāʿ)
-“Wicked.” One opposed to covenantal order.
-
-v01: לֵץ (lēṣ)
-“Scoffer.” One who mocks and resists correction.
-
-v02: תּוֹרָה (tôrāh)
-“Law/instruction.” Guiding teaching.

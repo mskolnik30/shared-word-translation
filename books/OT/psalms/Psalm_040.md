@@ -114,14 +114,7 @@ v16: “love your salvation… ‘The LORD is great!’” — The community of 
 v17: “poor and needy… the Lord takes thought for me” — The closing posture is humility and confidence: the Lord’s attention is the psalmist’s security, even before circumstances change.
 
 
-  ## Vocabulary
-
-v02: טִיט (ṭit) — mud; mire; clay
-
-v03: שִׁיר (shir) — song
-
-v06: זֶבַח (zevaḥ) — sacrifice
-##Vocabulary
+## Vocabulary
 
 v03: בָּטַח (bataḥ)
 “To trust; to rely on.”

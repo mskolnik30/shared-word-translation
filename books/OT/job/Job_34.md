@@ -157,7 +157,7 @@ v28: Elihu specifically affirms that God hears the cry of the poor and afflicted
 v33: Elihu insists that Job cannot demand justice on Job’s own terms. The Hebrew is compact and difficult, but the question challenges Job’s attempt to set conditions for divine judgment.
 v36: Elihu’s wish that Job be tested “to the limit” is severe and sits uneasily beside Job’s already extreme suffering.
 
-##Vocabulary
+## Vocabulary
 
 v04: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Elihu invites communal discernment about what is just.

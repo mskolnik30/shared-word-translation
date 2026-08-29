@@ -105,7 +105,7 @@ v27: Leaders contribute precious stones and spices rather than being portrayed a
 v30–35: The chapter repeats the divine calling of Bezalel and Oholiab from chapter 31, now before the gathered community as construction begins.
 v34: The ability to teach is itself said to be placed in the artisans’ hearts, making transmission of craft skill part of the divine gift.
 
-##Vocabulary
+## Vocabulary
 
 v02: שַׁבַּת שַׁבָּתוֹן (shabbat shabbaton)
 “Sabbath of complete rest.” Intensified language for cessation.

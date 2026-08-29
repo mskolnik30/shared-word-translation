@@ -82,11 +82,11 @@ v30: He is the source of your life in Christ Jesus, who became for us wisdom fro
 v31: in order that, as it is written, “Let the one who boasts, boast in the Lord.”
 </p>
 ## Notes
-v1: Paul grounds his authority not in personal achievement but in divine calling. The pairing with Sosthenes emphasizes shared witness rather than solitary leadership.  
-v2: The church is addressed both as already “made holy” and as “called” into holiness. Paul holds status and vocation together without collapsing one into the other.  
-v3: Grace precedes peace. The order reflects Paul’s conviction that reconciliation and wholeness flow from divine gift, not human effort.  
-v4–7: Thanksgiving focuses not on moral maturity but on God’s generosity. Paul names real gifts before addressing real problems, framing correction within gratitude.  
-v8–9: Assurance rests on God’s faithfulness rather than the community’s consistency. The future is anchored in God’s action, not human reliability.  
+v01: Paul grounds his authority not in personal achievement but in divine calling. The pairing with Sosthenes emphasizes shared witness rather than solitary leadership.  
+v02: The church is addressed both as already “made holy” and as “called” into holiness. Paul holds status and vocation together without collapsing one into the other.  
+v03: Grace precedes peace. The order reflects Paul’s conviction that reconciliation and wholeness flow from divine gift, not human effort.  
+v04–07: Thanksgiving focuses not on moral maturity but on God’s generosity. Paul names real gifts before addressing real problems, framing correction within gratitude.  
+v08–09: Assurance rests on God’s faithfulness rather than the community’s consistency. The future is anchored in God’s action, not human reliability.  
 v10: Unity is described in terms of shared orientation (“mind” and “purpose”), not uniformity of opinion or personality.  
 v11–12: Divisions are exposed through reported speech. Paul allows the factions’ slogans to indict themselves.  
 v13: The rhetorical questions destabilize loyalty structures. Allegiance to leaders is exposed as a distortion of baptismal identity.  
@@ -100,16 +100,16 @@ v26–29: The community’s social makeup becomes theological evidence. God’s 
 v30: Salvation is described relationally (“in Christ Jesus”) and expansively, gathering multiple dimensions without hierarchy.  
 v31: The chapter closes by redirecting pride. Boasting is not eliminated, but reoriented toward God alone.  
 
-##Vocabulary
+## Vocabulary
 
-v1: κλητός (klētos)  
+v01: κλητός (klētos)  
 “Called.” The term denotes divine initiative rather than human qualification. Paul’s identity begins in response, not achievement.  
 
-v2: ἁγιάζω (hagiazō)  
+v02: ἁγιάζω (hagiazō)  
 
-v2: “To make holy.” The perfect participle indicates a completed act with ongoing effect—holiness as given status, not earned condition.  
+v02: “To make holy.” The perfect participle indicates a completed act with ongoing effect—holiness as given status, not earned condition.  
 
-v9: κοινωνία (koinōnia)  
+v09: κοινωνία (koinōnia)  
 “Fellowship” or “participation.” The word emphasizes shared life and mutual belonging, not merely association.  
 
 v10: σχίσματα (schismata)  
@@ -137,9 +137,6 @@ v30: “From him.” The phrase grounds the community’s life in God as source,
 v31: καυχάομαι (kauchaomai)  
 
 v31: “To boast.” Paul reframes boasting as testimony—speech that locates confidence outside the self.  
-
-v01: κλητός (klētos)
-“Called.” The term denotes divine initiative rather than human qualification. Paul’s identity begins in response, not achievement.
 
 v02: ἁγιάζω (hagiazō)
 “To make holy.” The perfect participle indicates a completed act with ongoing effect—holiness as given status, not earned condition.

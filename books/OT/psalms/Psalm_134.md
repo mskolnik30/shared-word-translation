@@ -20,6 +20,6 @@ and bless the LORD.
 v03: May the LORD bless you from Zion,
 the maker of heaven and earth.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary

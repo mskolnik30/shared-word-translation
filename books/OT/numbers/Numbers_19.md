@@ -57,7 +57,7 @@ v07–10: Those who prepare the purifying ashes themselves become temporarily un
 v09: “water of purification” — The Hebrew phrase literally means “water of impurity,” referring to water used to remove impurity, not water that is itself morally polluted.
 v11–22: Contact with human death creates a seven-day ritual impurity that must be resolved before ordinary access to the sanctuary community is restored.
 
-##Vocabulary
+## Vocabulary
 
 v02: חֻקַּת הַתּוֹרָה (chuqqat hattorah)
 “Statute of the instruction.” A fixed ordinance within the Torah.

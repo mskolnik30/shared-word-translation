@@ -108,7 +108,7 @@ v26: Abner’s question “Shall the sword devour forever?” names the self-con
 v27: Joab’s response is difficult and may mean the pursuit would have ceased earlier if Abner had spoken sooner. TSW preserves the basic cessation sense.
 v29: “Bithron” may be a geographic region or route east of the Jordan; its exact location is uncertain.
 
-##Vocabulary
+## Vocabulary
 
 v01: שָׁאַל בַּיהוָה (sha'al ba-YHWH)
 “To inquire of the LORD.” Seeking divine direction.

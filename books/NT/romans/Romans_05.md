@@ -63,7 +63,7 @@ v20: “the law came in so that the trespass might increase” — Paul describe
 v20: “grace overflowed all the more” — The Greek intensifies the language of abundance. Grace does not merely equal the increase of sin but surpasses it.
 v21: “grace might exercise dominion” — The chapter concludes by returning to the language of dominion. Sin reigns in death; grace reigns through righteousness toward eternal life through Jesus Christ.
 
-##Vocabulary
+## Vocabulary
 
 v01: δικαιόω (dikaioō)
 “To set right.” Denotes restoration to right standing. In Romans 5, the term gathers the argument of chapters 3–4 and describes an established reality.

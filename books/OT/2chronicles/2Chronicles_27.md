@@ -41,7 +41,7 @@ v02: Jotham avoids his father Uzziah’s temple transgression, yet popular corru
 v05: Tribute from Ammon demonstrates political strength but is not made the theological center of the chapter.
 v06: Jotham’s strength is explicitly grounded in ordering his ways before the LORD.
 
-##Vocabulary
+## Vocabulary
 
 v03: עֹפֶל (Ophel)
 “Ophel.” The elevated fortified area of Jerusalem.

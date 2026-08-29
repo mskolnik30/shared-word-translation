@@ -67,7 +67,7 @@ v15: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context d
 v08: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
 v12: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
 
-##Vocabulary
+## Vocabulary
 
 v08: בְּרִית (berit)
 “Covenant.” A binding relationship shaped by promise and obligation.

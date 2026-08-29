@@ -102,7 +102,7 @@ v14, v33: Levi’s lack of territorial allotment is stated twice. Their inherita
 v22: Balaam’s death is mentioned briefly here, connecting the territorial summary with the earlier wilderness narrative.
 v13: Geshur and Maacath remaining “to this day” illustrates the continuing presence of peoples not displaced by Israel.
 
-##Vocabulary
+## Vocabulary
 
 v01: נוֹתַר (notar)
 “To remain.” Much land remains yet to be possessed.

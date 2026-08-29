@@ -70,7 +70,7 @@ v11: New moons mark the beginning of months within Israel’s ritual calendar.
 v16–25: Passover and Unleavened Bread are joined but remain distinguishable: Passover is on the fourteenth day, while the seven-day festival begins on the fifteenth.
 v26: “firstfruits” and “Festival of Weeks” connect agricultural harvest with sacred assembly and offering.
 
-##Vocabulary
+## Vocabulary
 
 v02: קָרְבָּן (qorban)
 “Offering.” Something brought near and presented to God.

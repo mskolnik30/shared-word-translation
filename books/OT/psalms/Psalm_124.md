@@ -42,46 +42,35 @@ v08: Our help is in the name of the LORD,
 who made heaven and earth.
 </p>
 ## Notes
-v1–2: The psalm begins with conditional reflection—survival is attributed entirely to the LORD.  
-v3–5: Threat imagery escalates (being swallowed, overwhelmed by waters), emphasizing total vulnerability.  
-v6–7: Deliverance is described as escape, not victory—survival rather than domination.  
-v7: The broken snare signals divine intervention, not human skill.  
-v8: The conclusion grounds trust in creation theology—help comes from the Creator.  
+v01–02: The psalm begins with conditional reflection—survival is attributed entirely to the LORD.  
+v03–05: Threat imagery escalates (being swallowed, overwhelmed by waters), emphasizing total vulnerability.  
+v06–07: Deliverance is described as escape, not victory—survival rather than domination.  
+v07: The broken snare signals divine intervention, not human skill.  
+v08: The conclusion grounds trust in creation theology—help comes from the Creator.  
 
-##Vocabulary
+## Vocabulary
 
-v1: לוּלֵא (lule)  
+v01: לוּלֵא (lule)  
 “If not.” Counterfactual condition.  
 
-v3: בָּלַע (bala)  
+v03: בָּלַע (bala)  
 “To swallow.” Consume completely.  
 
-v4: שֶׁטֶף (shetef)  
+v04: שֶׁטֶף (shetef)  
 “Flood.” Overwhelming flow.  
 
-v5: זֵידוֹן (zedon)  
+v05: זֵידוֹן (zedon)  
 “Raging.” Arrogant force.  
 
-v6: טֶרֶף (teref)  
+v06: טֶרֶף (teref)  
 “Prey.” Something torn or consumed.  
 
-v7: פַּח (pach)  
+v07: פַּח (pach)  
 “Snare.” Trap.  
 
-v8: עֵזֶר (‘ezer)  
+v08: עֵזֶר (‘ezer)  
 “Help.” Aid or support.  
 
-v8: שֵׁם (shem)  
+v08: שֵׁם (shem)  
 “Name.” Identity and authority.  
 
-v01: לוּלֵא (lule)
-“If not.” Counterfactual condition.
-
-v03: בָּלַע (bala)
-“To swallow.” Consume completely.
-
-v04: שֶׁטֶף (shetef)
-“Flood.” Overwhelming flow.
-
-v05: זֵידוֹן (zedon)
-“Raging.” Arrogant force.

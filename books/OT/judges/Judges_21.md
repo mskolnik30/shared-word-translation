@@ -85,7 +85,7 @@ v19–23: The plan concerning the women of Shiloh avoids technically “giving�
 v22: The elders’ reasoning focuses on avoiding liability under the oath. The women’s consent is absent from the narrative.
 v25: The final refrain closes the book without resolving its disorder. “Right in their own eyes” summarizes a world in which tribal loyalty, vows, worship, sexuality, and violence have become detached from coherent covenant faithfulness.
 
-##Vocabulary
+## Vocabulary
 
 v01: שָׁבַע (shava)
 “To swear.” To bind oneself by an oath.

@@ -45,21 +45,21 @@ v12: There the workers of trouble have fallen;
 they are thrust down and cannot rise.
 </p>
 ## Notes
-v1: The Hebrew has a difficult first-person expression, “within my heart,” even though the surrounding lines concern the wicked person. The syntax has produced differing construals, and the tension should not be resolved too quickly.
-v2: The wording is compressed. Self-flattery is portrayed as preventing the wicked from discovering and hating their own guilt.
-v5–6: The psalm answers the confined world of the wicked with the immeasurable scale of God’s steadfast love, faithfulness, righteousness, and judgments; the imagery moves from the heavens and mountains to the great deep.
-v7–8: The refuge of God’s wings is joined with abundance, nourishment, and flowing water. The imagery gathers protection and delight without reducing them to a single setting.
+v01: The Hebrew has a difficult first-person expression, “within my heart,” even though the surrounding lines concern the wicked person. The syntax has produced differing construals, and the tension should not be resolved too quickly.
+v02: The wording is compressed. Self-flattery is portrayed as preventing the wicked from discovering and hating their own guilt.
+v05–06: The psalm answers the confined world of the wicked with the immeasurable scale of God’s steadfast love, faithfulness, righteousness, and judgments; the imagery moves from the heavens and mountains to the great deep.
+v07–08: The refuge of God’s wings is joined with abundance, nourishment, and flowing water. The imagery gathers protection and delight without reducing them to a single setting.
 v11–12: The prayer closes with both a plea for protection and a declaration of the evildoers’ downfall. “There” points dramatically to the place of their collapse without specifying it.
 
-##Vocabulary
+## Vocabulary
 
-v2: **פֶּשַׁע — *peshaʿ***: “transgression” is personified as giving an utterance or oracle. Its voice stands in direct contrast to the fear of God.  
+v02: **פֶּשַׁע — *peshaʿ***: “transgression” is personified as giving an utterance or oracle. Its voice stands in direct contrast to the fear of God.  
 
-v6: **חֶסֶד — *ḥesed***: “steadfast love” names God’s faithful, covenantal goodness. In this psalm it is expansive, protective, and life-giving.  
+v06: **חֶסֶד — *ḥesed***: “steadfast love” names God’s faithful, covenantal goodness. In this psalm it is expansive, protective, and life-giving.  
 
-v7: **מִשְׁפָּט — *mishpat***: “judgments” can refer to God’s acts of justice and governing decisions. Their comparison to the great deep emphasizes both their depth and their vastness.  
+v07: **מִשְׁפָּט — *mishpat***: “judgments” can refer to God’s acts of justice and governing decisions. Their comparison to the great deep emphasizes both their depth and their vastness.  
 
-v9: **עֵדֶן — *ʿeden***: “delights” evokes luxuriant pleasure and abundance. The plural form intensifies the river imagery.  
+v09: **עֵדֶן — *ʿeden***: “delights” evokes luxuriant pleasure and abundance. The plural form intensifies the river imagery.  
 
 v10: **מְקוֹר חַיִּים — *meqor ḥayyim***: “fountain of life” presents life as flowing from God. The following line links this life-giving source with divine light.  
 

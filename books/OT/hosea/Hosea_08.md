@@ -110,7 +110,7 @@ v09: The wild donkey normally resists domestication and travels independently. E
 v12: The Hebrew may refer to “ten thousand” or “many” instructions. The point is that even abundant divine teaching is treated as alien.
 v13: “return to Egypt” can invoke literal exile, symbolic return to bondage, or both. Hosea repeatedly uses Egypt as the place from which Israel was once delivered.
 
-##Vocabulary
+## Vocabulary
 
 v01: שׁוֹפָר (shofar)
 “Ram’s horn.” An alarm signal of approaching danger.

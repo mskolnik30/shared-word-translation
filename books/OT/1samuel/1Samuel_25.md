@@ -153,7 +153,7 @@ v37: Nabal’s heart “died” and he became like stone. The language may descr
 v39: David interprets Nabal’s death as the LORD taking up his case, confirming Abigail’s counsel not to avenge himself.
 v44: Saul’s transfer of Michal to another husband further complicates David’s marital and dynastic relationships.
 
-##Vocabulary
+## Vocabulary
 
 v03: נָבָל (naval)
 “Fool” or morally senseless person; also Nabal’s name.

@@ -112,7 +112,7 @@ v22–23: Gideon verbally refuses hereditary kingship and affirms the LORD’s r
 v27: The ephod becomes a snare and object of unfaithful devotion. A victory associated with rejection of Baal ends with a new religious failure centered on Gideon’s own legacy.
 v33: “Baal-Berith” means “Baal of the covenant,” showing how covenant language itself could be redirected toward another deity.
 
-##Vocabulary
+## Vocabulary
 
 v02: עֹלֵלוֹת (olelot)
 “Gleanings.” Grapes left after the main harvest, used metaphorically for Ephraim’s contribution.

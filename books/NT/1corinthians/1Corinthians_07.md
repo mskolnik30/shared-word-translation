@@ -139,8 +139,8 @@ v39: A wife is bound as long as her husband lives; but if the husband dies, she 
 v40: But in my judgment she is happier if she remains as she is—and I think that I also have the Spirit of God.
 </p>
 ## Notes
-v1–5: Marriage addresses sexual need and mutual obligation.  
-v7: Singleness and marriage are distinct gifts.  
+v01–05: Marriage addresses sexual need and mutual obligation.  
+v07: Singleness and marriage are distinct gifts.  
 v10–11: Marital permanence reflects the Lord’s command.  
 v12–16: Mixed marriages are sustained when possible.  
 v17–24: Calling governs life circumstances.  
@@ -148,31 +148,31 @@ v25–31: Present distress and eschatological urgency shape counsel.
 v32–35: Undivided devotion is prioritized.  
 v36–40: Marriage is permitted; singleness is commended.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἅπτομαι (haptomai)  
+v01: ἅπτομαι (haptomai)  
 
-v1: “To touch.”  
+v01: “To touch.”  
 
-v2: πορνεία (porneia)  
+v02: πορνεία (porneia)  
 
-v2: “Sexual immorality.”  
+v02: “Sexual immorality.”  
 
-v4: ἐξουσιάζω (exousiazō)  
+v04: ἐξουσιάζω (exousiazō)  
 
-v4: “To have authority over.”  
+v04: “To have authority over.”  
 
-v5: ἀποστερέω (apostereō)  
+v05: ἀποστερέω (apostereō)  
 
-v5: “To deprive.”  
+v05: “To deprive.”  
 
-v7: χάρισμα (charisma)  
+v07: χάρισμα (charisma)  
 
-v7: “Gift.”  
+v07: “Gift.”  
 
-v9: πυρόω (pyroō)  
+v09: πυρόω (pyroō)  
 
-v9: “To burn.”  
+v09: “To burn.”  
 
 v14: ἁγιάζω (hagiazō)  
 

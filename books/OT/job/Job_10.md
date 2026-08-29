@@ -102,7 +102,7 @@ v12: “steadfast love” — Job acknowledges *hesed* in the gift and preservat
 v13: The verse marks Job’s fear that divine care itself concealed a hidden intention to watch for guilt and punish him.
 v21–22: Sheol is imagined as darkness without order, where even light is dark. Job asks only for a brief easing before entering that realm.
 
-##Vocabulary
+## Vocabulary
 
 v01: נָקַט (naqat)
 “To be weary” or “loathe.” Job is exhausted with his life.

@@ -178,7 +178,7 @@ v54: Jerusalem was not yet David’s capital in the narrative chronology. The ve
 v55–58: Saul’s question may concern David’s family identity and status rather than complete unfamiliarity with David personally, but the relation to 1 Samuel 16 remains narratively difficult.
 v12–13: , v14, v15, v16, v17, v18, v19, v20, v21, v22, v23, v24, v25, v26, v27, v28, v29, v30, v31, v55: –58: The Greek form of 1 Samuel omits substantial portions found in the Masoretic Text, especially material concerning David’s arrival, Eliab, and Saul’s questions about David’s family. These are major textual differences, not minor variants.
 
-##Vocabulary
+## Vocabulary
 
 v04: אִישׁ הַבֵּנַיִם (ish ha-benayim)
 “Champion,” literally “man of the between.”

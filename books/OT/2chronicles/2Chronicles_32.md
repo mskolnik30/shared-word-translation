@@ -112,7 +112,7 @@ v21: Chronicles compresses the Assyrian disaster and Sennacherib’s later assas
 v25–26: Hezekiah’s story includes both pride and repentance; humility delays the coming wrath.
 v31: The Babylonian embassy becomes a divine test revealing what is in Hezekiah’s heart.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֱמֶת / אֱמוּנָה (emet/emunah)
 “Faithfulness.” The acts preceding Assyria’s invasion.

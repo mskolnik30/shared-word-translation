@@ -123,11 +123,11 @@ v22: They feel only the pain of their own body,
   and their own being mourns.
 </p>
 ## Notes
-v1–2: “short of days… like a shadow” — Job begins with anthropology under pressure: human life is brief, fragile, and difficult; mortality is not theoretical.
-v3: “do you fix your gaze… bring me into judgment” — Job challenges the asymmetry: why would the Holy One litigate against a creature so small and fleeting?
-v4: “clean… out of unclean” — Not cynicism about creation, but a cry about human limits: how can flawed mortals produce purity on demand?
-v5–6: “days… determined… look away” — Job interprets life as bounded by God; his plea is for respite—space to breathe within limits.
-v7–9: “hope for a tree” — Nature becomes a parable of resilience; Job envies the tree’s capacity for renewal.
+v01–02: “short of days… like a shadow” — Job begins with anthropology under pressure: human life is brief, fragile, and difficult; mortality is not theoretical.
+v03: “do you fix your gaze… bring me into judgment” — Job challenges the asymmetry: why would the Holy One litigate against a creature so small and fleeting?
+v04: “clean… out of unclean” — Not cynicism about creation, but a cry about human limits: how can flawed mortals produce purity on demand?
+v05–06: “days… determined… look away” — Job interprets life as bounded by God; his plea is for respite—space to breathe within limits.
+v07–09: “hope for a tree” — Nature becomes a parable of resilience; Job envies the tree’s capacity for renewal.
 v10–12: “but a human dies… does not rise” — In Job’s moment, death feels final and irreversible; the poetry voices the dread without smoothing it.
 v13: “hide me in Sheol… remember me” — A paradoxical prayer: Job asks for concealment from wrath and also for God’s remembering—judgment paused, relationship preserved.
 v14–15: “If… dies… live again?… You would call” — Job’s hope flickers: not a developed doctrine, but a longing for renewed communion—God calling, Job answering.
@@ -137,31 +137,31 @@ v20: “You prevail… send them away” — Job names the terrifying feeling th
 v21: “children… they do not know” — Death severs participation in the future; honor and loss happen beyond one’s awareness.
 v22: “pain… mourns” — The chapter ends in embodied sorrow: suffering collapses the horizon to the body and the self’s grief.
 
-##Vocabulary
+## Vocabulary
 
-v1: אָדָם (’adam) — human being; humanity
+v01: אָדָם (’adam) — human being; humanity
 
-v1: עָמָל (ʿamal) — trouble; toil; sorrow
+v01: עָמָל (ʿamal) — trouble; toil; sorrow
 
-v2: צִיץ (tsits) — flower; blossom
+v02: צִיץ (tsits) — flower; blossom
 
-v2: צֵל (tsel) — shadow
+v02: צֵל (tsel) — shadow
 
-v3: מִשְׁפָּט (mishpat) — judgment; justice; legal decision
+v03: מִשְׁפָּט (mishpat) — judgment; justice; legal decision
 
-v4: טָהוֹר (tahor) — clean; pure
+v04: טָהוֹר (tahor) — clean; pure
 
-v4: טָמֵא (ṭame’) — unclean; defiled
+v04: טָמֵא (ṭame’) — unclean; defiled
 
-v5: חֹק (ḥoq) — limit; decree; fixed boundary
+v05: חֹק (ḥoq) — limit; decree; fixed boundary
 
-v6: שָׂכִיר (sakhir) — hired worker; day laborer
+v06: שָׂכִיר (sakhir) — hired worker; day laborer
 
-v7: תִּקְוָה (tiqvah) — hope
+v07: תִּקְוָה (tiqvah) — hope
 
-v7: חָלַף (ḥalaf) — to sprout again; to renew; to change
+v07: חָלַף (ḥalaf) — to sprout again; to renew; to change
 
-v9: רֵיחַ (reiaḥ) — scent; smell
+v09: רֵיחַ (reiaḥ) — scent; smell
 
 v10: גָּוַע (gavaʿ) — to breathe one’s last; to expire
 

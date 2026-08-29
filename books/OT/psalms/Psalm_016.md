@@ -49,37 +49,37 @@ in your presence there is fullness of joy;
 at your right hand are pleasures forevermore.
 </p>
 ## Notes
-v1–2: Refuge and exclusive allegiance define the opening confession.  
-v3–4: Loyalty to God is contrasted with rejection of other gods.  
-v5–6: Inheritance language frames life as received, not seized.  
-v7–8: Guidance is both external (the LORD) and internalized (heart).  
-v8: Stability is grounded in proximity (“at my right hand”).  
-v9–11: Security extends beyond death—life is defined by God’s presence.  
+v01–02: Refuge and exclusive allegiance define the opening confession.  
+v03–04: Loyalty to God is contrasted with rejection of other gods.  
+v05–06: Inheritance language frames life as received, not seized.  
+v07–08: Guidance is both external (the LORD) and internalized (heart).  
+v08: Stability is grounded in proximity (“at my right hand”).  
+v09–11: Security extends beyond death—life is defined by God’s presence.  
 
-##Vocabulary
+## Vocabulary
 
-v1: שָׁמַר (shamar)  
+v01: שָׁמַר (shamar)  
 “To preserve.” Guard.  
 
-v1: חָסָה (chasah)  
+v01: חָסָה (chasah)  
 “To take refuge.” Seek shelter.  
 
-v2: אֲדֹנָי (Adonai)  
+v02: אֲדֹנָי (Adonai)  
 “Lord.” Master.  
 
-v4: עָצַב (‘atsav)  
+v04: עָצַב (‘atsav)  
 “Sorrow.” Pain.  
 
-v5: מָנָה (manah)  
+v05: מָנָה (manah)  
 “Portion.” Allotted share.  
 
-v5: גּוֹרָל (goral)  
+v05: גּוֹרָל (goral)  
 “Lot.” Destiny or inheritance.  
 
-v7: יָעַץ (ya‘ats)  
+v07: יָעַץ (ya‘ats)  
 “To counsel.” Advise.  
 
-v8: יָצַב (yatsav)  
+v08: יָצַב (yatsav)  
 “To set.” Place firmly.  
 
 v10: שְׁאוֹל (sheol)
@@ -91,11 +91,3 @@ v11: שִׂמְחָה (simchah)
 v11: נֹעַם (no‘am)  
 “Pleasure.” Delight.  
 
-v01: שָׁמַר (shamar)
-“To preserve.” Guard.
-
-v01: חָסָה (chasah)
-“To take refuge.” Seek shelter.
-
-v02: אֲדֹנָי (Adonai)
-“Lord.” Master.

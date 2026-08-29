@@ -136,7 +136,7 @@ v31: The LORD carrying Israel “as a man carries his son” introduces parental
 v37: Moses says the LORD was angry with him “because of you,” while Numbers 20 narrates Moses’ own failure at Meribah. Deuteronomy emphasizes the communal context without eliminating Moses’ accountability elsewhere.
 v41–44: The people’s confession does not turn a forbidden action into obedience. Going up after the LORD has said not to go is another act of presumption.
 
-##Vocabulary
+## Vocabulary
 
 v05: בֵּאֵר (be'er)
 “To explain” or “make clear.” Moses begins to expound the instruction.

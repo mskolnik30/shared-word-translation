@@ -57,12 +57,12 @@ v15: Practice these things, immerse yourself in them, so that your progress may 
 v16: Pay close attention to yourself and to the teaching; continue in these things, for by doing so you will save both yourself and those who hear you.
 </p>
 ## Notes
-v1–2: Departure from faith is linked to attention and influence, not sudden rejection.  
-v2: “Seared conscience” suggests loss of sensitivity rather than absence of knowledge.  
-v3–5: Ascetic prohibitions are rejected. Creation is affirmed as good when received rightly.  
-v6: Teaching involves both content and nourishment.  
-v7: Training is intentional and ongoing, not incidental.  
-v8: Bodily discipline is acknowledged but relativized.  
+v01–02: Departure from faith is linked to attention and influence, not sudden rejection.  
+v02: “Seared conscience” suggests loss of sensitivity rather than absence of knowledge.  
+v03–05: Ascetic prohibitions are rejected. Creation is affirmed as good when received rightly.  
+v06: Teaching involves both content and nourishment.  
+v07: Training is intentional and ongoing, not incidental.  
+v08: Bodily discipline is acknowledged but relativized.  
 v10: Hope is directed toward the “living God,” not abstract belief.  
 v10: “Savior of all…especially believers” introduces tension without resolution.  
 v12: Leadership is expressed through example, not age.  
@@ -71,31 +71,31 @@ v14: Gift is communal in origin and recognition.
 v15: Progress is expected to be visible.  
 v16: Personal life and teaching are inseparable.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀφίστημι (aphistēmi)  
+v01: ἀφίστημι (aphistēmi)  
 
-v1: “To depart.” To withdraw or fall away.  
+v01: “To depart.” To withdraw or fall away.  
 
-v2: καυτηριάζω (kautēriazō)  
+v02: καυτηριάζω (kautēriazō)  
 
-v2: “To sear.” To burn, rendering insensitive.  
+v02: “To sear.” To burn, rendering insensitive.  
 
-v3: κωλύω (kōlyō)  
+v03: κωλύω (kōlyō)  
 
-v3: “To forbid.” To prevent or prohibit.  
+v03: “To forbid.” To prevent or prohibit.  
 
-v5: ἁγιάζω (hagiazō)  
+v05: ἁγιάζω (hagiazō)  
 
-v5: “To sanctify.” To set apart as holy.  
+v05: “To sanctify.” To set apart as holy.  
 
-v7: γυμνάζω (gymnazō)  
+v07: γυμνάζω (gymnazō)  
 
-v7: “To train.” To exercise or discipline.  
+v07: “To train.” To exercise or discipline.  
 
-v8: εὐσέβεια (eusebeia)  
+v08: εὐσέβεια (eusebeia)  
 
-v8: “Godliness.” Reverence expressed in life.  
+v08: “Godliness.” Reverence expressed in life.  
 
 v10: ἐλπίζω (elpizō)  
 

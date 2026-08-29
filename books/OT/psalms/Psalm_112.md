@@ -40,7 +40,7 @@ The desire of the wicked will perish.
 ## Notes
 v04: The adjectives “gracious, compassionate, and righteous” grammatically describe the light or the upright one in a compressed line. Their echo of language normally used for God is retained without resolving the syntax more narrowly.
 
-##Vocabulary
+## Vocabulary
 
 v09: קֶרֶן (qeren)
 Literally, “horn,” a common biblical image for strength, dignity, and publicly raised honor.

@@ -81,8 +81,8 @@ v33: Ahab also made the Asherah. Ahab went on doing more to provoke the LORD, th
 v34: In his days Hiel of Bethel rebuilt Jericho. At the cost of Abiram his firstborn he laid its foundation, and at the cost of Segub his youngest he set up its gates, according to the word of the LORD, which he spoke through Joshua son of Nun.
 </p>
 ## Notes
-v3: “Sweep away” renders an image of burning or consuming removal. The judgment concerns both Baasha and his “house,” his royal line.  
-v7: The verse holds together Baasha’s violence against Jeroboam’s house and Baasha’s own repetition of Jeroboam’s sinful pattern. The narrative does not portray the overthrow of one condemned dynasty as automatically making the successor righteous.  
+v03: “Sweep away” renders an image of burning or consuming removal. The judgment concerns both Baasha and his “house,” his royal line.  
+v07: The verse holds together Baasha’s violence against Jeroboam’s house and Baasha’s own repetition of Jeroboam’s sinful pattern. The narrative does not portray the overthrow of one condemned dynasty as automatically making the successor righteous.  
 v11: “A single male” translates a blunt Hebrew expression, literally one “urinating against a wall.” Its harshness underscores the total destruction of Baasha’s male household.  
 v13: “Worthless things” renders *hebel*, a word associated with breath, vapor, and emptiness. The term characterizes the objects of Israel’s worship as insubstantial and futile.  
 v18: The wording may mean that Zimri burned the royal residence over himself, or that he set it on fire while inside it. In either case, his reign ends in self-destruction amid the fall of Tirzah.  
@@ -90,9 +90,9 @@ v24: The city’s name, Samaria, is explicitly linked to Shemer, from whom Omri 
 v31: The question “As though it were a small thing” heightens the accusation: Ahab does not merely continue Jeroboam’s sins but adds the worship of Baal.  
 v34: Hiel’s rebuilding of Jericho is presented as the fulfillment of the word spoken through Joshua (Joshua 6:26). The text links the loss of his sons to the rebuilding without explaining the precise sequence of events.  
 
-##Vocabulary
+## Vocabulary
 
-v3: בָּעַר (*baʿar*)  
+v03: בָּעַר (*baʿar*)  
 — “to burn, consume, sweep away.” In the judgment against Baasha’s house, the participle evokes a thorough consuming removal.  
 
 v13: הֶבֶל (hebel)

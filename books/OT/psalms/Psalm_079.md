@@ -68,18 +68,18 @@ from generation to generation
 we will tell of your praise.
 </p>
 ## Notes
-v5: The question “How long?” gives voice to faith under divine anger without denying either the devastation of the people or their continuing claim upon the LORD.  
-v8–9: The prayer asks both for mercy and for atonement. Deliverance is sought not as a claim of innocence but for the glory and sake of God’s name.  
+v05: The question “How long?” gives voice to faith under divine anger without denying either the devastation of the people or their continuing claim upon the LORD.  
+v08–09: The prayer asks both for mercy and for atonement. Deliverance is sought not as a claim of innocence but for the glory and sake of God’s name.  
 v10: The psalm joins the public vindication of God’s name with justice for the blood of God’s servants. The repeated phrase “among the nations” intensifies the plea that this justice be visible.  
 v11: “Those doomed to die” literally evokes “children of death,” an image for people held under a sentence of death or facing certain destruction.
 
-##Vocabulary
+## Vocabulary
 
-v5: **קִנְאָה — *qin'ah***: “jealousy” describes God’s ardent commitment to the covenant relationship and to the honor of God’s name; it is pictured here as fire.  
+v05: **קִנְאָה — *qin'ah***: “jealousy” describes God’s ardent commitment to the covenant relationship and to the honor of God’s name; it is pictured here as fire.  
 
-v8: **רַחֲמִים — *raḥamim***: “mercies” names God’s compassionate response to the deeply afflicted. The plural form gathers mercy’s many expressions.  
+v08: **רַחֲמִים — *raḥamim***: “mercies” names God’s compassionate response to the deeply afflicted. The plural form gathers mercy’s many expressions.  
 
-v9: **כִּפֶּר — *kipper***: “atone” asks God to deal with the people’s sins so that the barrier created by their wrongdoing is removed.  
+v09: **כִּפֶּר — *kipper***: “atone” asks God to deal with the people’s sins so that the barrier created by their wrongdoing is removed.  
 
 v13: מַרְעִית (mar‘it)
 “pasture” completes the image of God’s people as sheep, dependent on God’s sustaining care.

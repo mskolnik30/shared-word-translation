@@ -53,7 +53,7 @@ v12–13: Prophetic speech is tested by its source and by the act it urges. Nehe
 v15: “fifty-two days” — The compressed rebuilding period intensifies the narrative’s claim that the achievement cannot be explained simply by ordinary political strength.
 v18–19: Opposition is not only external. Kinship and oath relationships give Tobiah influence within Judah’s noble families.
 
-##Vocabulary
+## Vocabulary
 
 v02: רָעָה (ra'ah)
 “Harm” or “evil.” The intended outcome behind the invitation.

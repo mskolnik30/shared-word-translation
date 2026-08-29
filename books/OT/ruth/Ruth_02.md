@@ -56,10 +56,10 @@ v22: And Naomi said to Ruth her daughter-in-law, “It is good, my daughter, tha
 v23: So she stayed close to the young women of Boaz, gleaning until the end of the barley harvest and wheat harvest. And she lived with her mother-in-law.
 </p>
 ## Notes
-v1: Boaz is introduced as both a relative of Elimelech and a worthy man, preparing for his later role in the story.  
-v3: Ruth “happens” to arrive at Boaz's field, yet the narrative quietly highlights God's providential direction.  
-v4: Boaz's greeting reveals a household shaped by covenant faith and mutual blessing.  
-v8–9: Boaz provides Ruth protection, provision, and dignity beyond what the law required.  
+v01: Boaz is introduced as both a relative of Elimelech and a worthy man, preparing for his later role in the story.  
+v03: Ruth “happens” to arrive at Boaz's field, yet the narrative quietly highlights God's providential direction.  
+v04: Boaz's greeting reveals a household shaped by covenant faith and mutual blessing.  
+v08–09: Boaz provides Ruth protection, provision, and dignity beyond what the law required.  
 v10: Ruth remains conscious of her status as a foreigner and outsider.  
 v11–12: Boaz commends Ruth's covenant loyalty toward Naomi and her trust in the God of Israel.  
 v12: The image of refuge under God's wings becomes a central theological theme in the book.  
@@ -69,18 +69,18 @@ v17: An ephah was a substantial amount of grain, far more than a typical day's g
 v20: Naomi recognizes Boaz as a potential redeemer and begins to see God's kindness at work again.  
 v23: The chapter ends with Ruth continuing faithfully in her work while God's larger plan unfolds.  
 
-##Vocabulary
+## Vocabulary
 
-v1: גִּבּוֹר חַיִל (gibbôr ḥayil)  
+v01: גִּבּוֹר חַיִל (gibbôr ḥayil)  
 “Worthy man” or “man of standing.” A person of character, influence, and capability.  
 
-v2: לָקַט (lāqaṭ)  
+v02: לָקַט (lāqaṭ)  
 “To glean.” To gather leftover grain after the harvesters.  
 
-v2: חֵן (ḥēn)  
+v02: חֵן (ḥēn)  
 “Favor” or “grace.” Acceptance, kindness, or goodwill shown by another.  
 
-v7: עֹמֶר (ʿōmer)  
+v07: עֹמֶר (ʿōmer)  
 “Sheaf.” A gathered bundle of harvested grain.  
 
 v10: נָכְרִיָּה (nokriyyâ)  
@@ -107,8 +107,3 @@ v20: גֹּאֵל (gōʾēl)
 v23: קָצִיר (qāṣîr)  
 “Harvest.” The gathering of mature grain crops.  
 
-v01: גִּבּוֹר חַיִל (gibbôr ḥayil)
-“Worthy man” or “man of standing.” A person of character, influence, and capability.
-
-v02: חֵן (ḥēn)
-“Favor” or “grace.” Acceptance, kindness, or goodwill shown by another.

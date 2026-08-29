@@ -127,11 +127,11 @@ v37: And during the days he was teaching in the temple, but at night he would go
 v38: And all the people were coming early in the morning to him in the temple to hear him.
 </p>
 ## Notes
-v1–4: The widow’s offering is evaluated by proportion, not amount.
-v4: “All the life she had” intensifies totality of giving.
-v5–6: Temple permanence is denied despite visible grandeur.
-v8: False claims and premature conclusions are warned against.
-v9: Turmoil does not equal immediate end.
+v01–04: The widow’s offering is evaluated by proportion, not amount.
+v04: “All the life she had” intensifies totality of giving.
+v05–06: Temple permanence is denied despite visible grandeur.
+v08: False claims and premature conclusions are warned against.
+v09: Turmoil does not equal immediate end.
 v12–15: Persecution becomes the setting for testimony and divine provision.
 v16–17: Division extends into closest relationships.
 v18–19: Preservation is defined through endurance, not avoidance.
@@ -144,21 +144,21 @@ v32–33: The permanence of Jesus’ words contrasts with cosmic transience.
 v34–36: Watchfulness includes moral alertness and prayer.
 v37–38: Teaching continues publicly despite increasing tension.
 
-##Vocabulary
+## Vocabulary
 
-v2: λεπτόν (lepton)
+v02: λεπτόν (lepton)
 
 “Small coin.”
 
-v4: βίος (bios)
+v04: βίος (bios)
 
 “Life, livelihood.”
 
-v6: καταλύω (katalyō)
+v06: καταλύω (katalyō)
 
 “To destroy.”
 
-v8: πλανάω (planaō)
+v08: πλανάω (planaō)
 
 “To lead astray.”
 
@@ -215,8 +215,3 @@ v36: κατισχύω (katischyō)
 
 “To prevail, be strong.”
 
-v02: λεπτόν (lepton)
-“Small coin.”
-
-v04: βίος (bios)
-“Life, livelihood.”

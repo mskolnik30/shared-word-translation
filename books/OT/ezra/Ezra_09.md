@@ -68,7 +68,7 @@ v11–12: Ezra’s quotation is not a verbatim citation of one Torah passage. It
 v12: The command not to seek their “peace or prosperity” is part of Ezra’s covenant argument concerning these particular relationships. It should not be detached from its post-exilic setting into a generalized hostility toward outsiders; Ezra itself includes outsiders who turn to seek the LORD.
 v15: The prayer ends without requesting a specific remedy. Ezra places the community before God in acknowledged guilt, and chapter 10 narrates the community’s proposed response.
 
-##Vocabulary
+## Vocabulary
 
 v01: תּוֹעֵבָה (toevah)
 “Detestable practice” or “abomination.” Conduct regarded as incompatible with covenant holiness.

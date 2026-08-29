@@ -114,7 +114,7 @@ v27: “lifted up the head” is an idiom of restored status. The final scene do
 v27: Evil-Merodach is the biblical form of Amel-Marduk, successor of Nebuchadnezzar.
 v28–30: Kings ends not with full restoration but with a surviving Davidic descendant given honor, food, and a continual allowance. The ending leaves a modest opening beyond judgment.
 
-##Vocabulary
+## Vocabulary
 
 v01: דָּיֵק (dayeq)
 “Siegework” or siege wall.

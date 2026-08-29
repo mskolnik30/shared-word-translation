@@ -72,7 +72,7 @@ v09: The list gathers several forms of divination and prophetic claim. Their com
 v18: Jeremiah offers a test of the prophets’ claims: if they truly possess the word of the LORD, let their intercession prevent further temple loss.
 v22: The return of the temple vessels is promised, but not on the immediate timetable proclaimed by the false prophets.
 
-##Vocabulary
+## Vocabulary
 
 v02: מוֹטָה (motah)
 “Yoke bar.” A wooden bar placed on the neck as an image of subjection.

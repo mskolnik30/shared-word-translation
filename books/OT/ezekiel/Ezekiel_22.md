@@ -49,13 +49,13 @@ v30: And I sought for a man among them who would build up the wall and stand in 
 v31: Therefore I have poured out my indignation upon them. I have consumed them with the fire of my wrath. I have returned their way upon their heads, declares the LORD GOD."
 </p>
 ## Notes
-v2: - **v2**: The "bloody city" refers to Jerusalem, accused of bloodshed and idolatry.  
+v02: - **v2**: The "bloody city" refers to Jerusalem, accused of bloodshed and idolatry.  
 v18–22: - **v18-22**: The metaphor of dross and melting reflects Israel's impurities and judgment.  
 v26: - **v26**: The corruption of priests highlights the failure of religious leaders to maintain holiness.  
 
-##Vocabulary
+## Vocabulary
 
-v1: - **v01** דְבַר (da.var) – "The word" of the LORD introduces the divine message to Ezekiel.  
+v01: - **v01** דְבַר (da.var) – "The word" of the LORD introduces the divine message to Ezekiel.  
 
 v10: - **v10** עֶרְוָה (er.vah) – "Nakedness," a term signifying the violation and exposure of boundaries, both literal and metaphorical.  
 

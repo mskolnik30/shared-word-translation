@@ -70,10 +70,10 @@ v29: Welcome him then in the Lord with all joy, and honor such people,
 v30: because he came close to death for the work of Christ, risking his life to complete what was lacking in your service to me.
 </p>
 ## Notes
-v1–2: Unity is grounded in shared participation in Christ, not enforced agreement. Paul names relational realities before issuing exhortation.
-v3–4: Humility is defined relationally. The call is not self-negation but a reorientation of attention toward others.
-v5: The “mind” of Christ signals a pattern of life to be embodied, not merely admired.
-v6–8: The movement of vv6–8 is downward: equality is not treated as something to exploit, but is followed by self-emptying, servanthood, humility, and obedience to death. Christ’s identity is narrated through self-giving rather than self-assertion.
+v01–02: Unity is grounded in shared participation in Christ, not enforced agreement. Paul names relational realities before issuing exhortation.
+v03–04: Humility is defined relationally. The call is not self-negation but a reorientation of attention toward others.
+v05: The “mind” of Christ signals a pattern of life to be embodied, not merely admired.
+v06–08: The movement of vv6–8 is downward: equality is not treated as something to exploit, but is followed by self-emptying, servanthood, humility, and obedience to death. Christ’s identity is narrated through self-giving rather than self-assertion.
 v08–10: Exaltation follows obedience. God’s vindication does not erase the cross but confirms its meaning.
 v11–12: Responsibility and divine agency are held together. The community works out what God is already working within.
 v13–15: Communal life is a public witness. Absence of grumbling signals a deeper transformation of shared life.
@@ -81,27 +81,27 @@ v16–17: Paul interprets his suffering as offering. Joy is not dependent on out
 v18–23: Timothy embodies the pattern just described. His concern for others contrasts with self-seeking tendencies.
 v24–29: Epaphroditus is honored not for success but for costly faithfulness. Risk and near loss become markers of service in Christ.
 
-##Vocabulary
+## Vocabulary
 
-v1: παράκλησις (paraklēsis)  
+v01: παράκλησις (paraklēsis)  
 “Encouragement” or “comfort.” Often carries the sense of coming alongside, strengthening relational bonds.
 
-v3: κενοδοξία (kenodoxia)  
+v03: κενοδοξία (kenodoxia)  
 “Empty glory.” Refers to status-seeking that lacks substance.
 
-v5: φρόνημα (phronēma)  
+v05: φρόνημα (phronēma)  
 “Mind” or “mindset.” Indicates a pattern of thinking that shapes action and communal life.
 
-v6: μορφή (morphē)  
+v06: μορφή (morphē)  
 “Form.” Suggests the true nature or essential expression of something, not merely outward appearance.
 
-v7: ἐκένωσεν (ekenōsen)  
+v07: ἐκένωσεν (ekenōsen)  
 “Emptied himself.” Indicates self-giving rather than loss of identity.
 
-v8: ταπεινόω (tapeinoō)  
+v08: ταπεινόω (tapeinoō)  
 “To humble.” A voluntary lowering, not imposed humiliation.
 
-v9: ὑπερύψωσεν (hyperypsōsen)  
+v09: ὑπερύψωσεν (hyperypsōsen)  
 “Highly exalted.” Intensified elevation, emphasizing divine action.
 
 v10: κάμπτω (kamptō)  

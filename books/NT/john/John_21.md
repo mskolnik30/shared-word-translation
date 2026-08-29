@@ -46,12 +46,12 @@ v24: This is the disciple who testifies about these things, and who wrote these 
 v25: And there are also many other things that Jesus did, which if they were written one by one, I suppose that even the world itself would not have room for the books that would be written.
 </p>
 ## Notes
-v1: John frames the risen Jesus as acting with initiative—he “reveals” himself, and the repetition emphasizes deliberate disclosure rather than a chance sighting.  
-v3: The empty nets set the scene for a familiar Johannine pattern: effort without Jesus yields nothing, and the “sign” that follows is about dependence, not technique.  
-v5: “Children” functions as a relational, pastoral address—tender rather than dismissive—and signals familiarity before recognition.  
-v6: The command to cast on the right side is not a fishing tip but an enacted sign: obedience precedes abundance, and abundance confirms the word.  
-v7: Peter puts on his outer garment before rushing to Jesus, suggesting reverence and a desire to be properly presented—even in urgency.  
-v9: The charcoal fire quietly echoes the charcoal fire of Peter’s denial (18:18). John uses the setting itself to prepare for restoration without humiliation.  
+v01: John frames the risen Jesus as acting with initiative—he “reveals” himself, and the repetition emphasizes deliberate disclosure rather than a chance sighting.  
+v03: The empty nets set the scene for a familiar Johannine pattern: effort without Jesus yields nothing, and the “sign” that follows is about dependence, not technique.  
+v05: “Children” functions as a relational, pastoral address—tender rather than dismissive—and signals familiarity before recognition.  
+v06: The command to cast on the right side is not a fishing tip but an enacted sign: obedience precedes abundance, and abundance confirms the word.  
+v07: Peter puts on his outer garment before rushing to Jesus, suggesting reverence and a desire to be properly presented—even in urgency.  
+v09: The charcoal fire quietly echoes the charcoal fire of Peter’s denial (18:18). John uses the setting itself to prepare for restoration without humiliation.  
 v11: “One hundred fifty-three” reads like eyewitness specificity, a concrete memory marker. The “net not torn” holds together abundance and unity under strain.  
 v12: No one dares ask who he is—not because of doubt, but because recognition is settled and awe remains. Resurrection brings continuity with transformation.  
 v15: The first question—“more than these?”—presses Peter’s old self-confidence. Jesus restores him by re-commissioning him, not by replaying the failure.  
@@ -67,21 +67,21 @@ v23: John corrects a rumor: Jesus did not promise the beloved disciple would not
 v24: The closing affirmation (“we know… true”) signals a community corroboration around the eyewitness testimony—an integrity claim for the written account.  
 v25: The final hyperbole underscores excess and abundance: Jesus’s deeds overflow what can be contained in books, matching the chapter’s overflowing nets and table fellowship.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐφανέρωσεν (ephanerōsen) — “revealed, made manifest”  
+v01: ἐφανέρωσεν (ephanerōsen) — “revealed, made manifest”  
 
-v1: Θάλασσα τῆς Τιβεριάδος (Thalassa tēs Tiberiados) — “Sea of Tiberias”  
+v01: Θάλασσα τῆς Τιβεριάδος (Thalassa tēs Tiberiados) — “Sea of Tiberias”  
 
-v3: πιάζω (piazō) — “to catch” (fish)  
+v03: πιάζω (piazō) — “to catch” (fish)  
 
-v6: δεξιός (dexios) — “right (side)”  
+v06: δεξιός (dexios) — “right (side)”  
 
-v6: πλῆθος (plēthos) — “multitude, large number”  
+v06: πλῆθος (plēthos) — “multitude, large number”  
 
-v7: ἐπενδύτης (ependytēs) — “outer garment”  
+v07: ἐπενδύτης (ependytēs) — “outer garment”  
 
-v9: ἀνθρακιά (anthrakia) — “charcoal fire”  
+v09: ἀνθρακιά (anthrakia) — “charcoal fire”  
 
 v11: δίκτυον (diktyon) — “net”  
 

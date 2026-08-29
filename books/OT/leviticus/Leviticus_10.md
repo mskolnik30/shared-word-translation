@@ -61,7 +61,7 @@ v09–11: The prohibition of alcohol is directly tied to priestly discernment an
 v10: “holy/common” and “unclean/clean” are distinct pairs. Ritual categories are not simply synonyms for moral good and evil.
 v19–20: Aaron’s argument is accepted by Moses, showing that ritual instruction is applied within the reality of catastrophic grief rather than mechanically detached from circumstance.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֵשׁ זָרָה (esh zarah)
 “Unauthorized fire,” literally “strange fire.” Fire not commanded for the act performed.

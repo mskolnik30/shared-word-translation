@@ -165,14 +165,14 @@ v39: They were there with David for three days, eating and drinking, for their k
 v40: Also those near them, as far away as Issachar, Zebulun, and Naphtali, brought food on donkeys, camels, mules, and cattle: flour, fig cakes, raisins, wine, oil, cattle, and sheep in abundance. For there was joy in Israel.
 </p>
 ## Notes
-v2: [^12-1]: **12:2 — “Able to use the right hand and the left.”** The description emphasizes unusual skill and adaptability in battle. These Benjaminites, though connected with Saul’s tribe, become part of David’s growing support.  
+v02: [^12-1]: **12:2 — “Able to use the right hand and the left.”** The description emphasizes unusual skill and adaptability in battle. These Benjaminites, though connected with Saul’s tribe, become part of David’s growing support.  
 v18: The Hebrew says that the Spirit “clothed” Amasai. The image gives his declaration public and compelling force as he answers David’s concern with a pledge of peace and loyalty.
 v22: “Like the camp of God” can describe overwhelming size or strength while also echoing the language of God’s host. The comparison presents David’s gathering force as extraordinary without removing the military character of the scene.
 v32: “Under their command” is literally “according to their mouth,” an idiom portraying the Issacharite leaders and their kin as acting in coordinated obedience to a shared judgment.
 v33: The Hebrew expression behind “without a divided heart” repeats the word “heart.” The image is of undivided purpose rather than merely military competence.
 v38–40: The military lists culminate in communal celebration rather than battle. Israel’s unity in making David king is expressed through shared food, drink, provision, and joy.
 
-##Vocabulary
+## Vocabulary
 
 v18: — שָׁלוֹם (*shalom*)  
 

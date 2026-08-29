@@ -66,7 +66,7 @@ v13: The repeated command that the altar fire “shall not go out” emphasizes 
 v18: “Whatever touches them shall become holy” expresses the contagious quality of holiness in this ritual context; it does not mean casual contact is permitted.
 v30: Sin offerings whose blood enters the sanctuary are treated differently from those eaten by the priests.
 
-##Vocabulary
+## Vocabulary
 
 v02: פִּקָּדוֹן (piqqadon)
 “Deposit” or “entrusted property.” Something placed in another’s care.

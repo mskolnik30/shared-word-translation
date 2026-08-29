@@ -52,20 +52,20 @@ v21: But wild animals of the desert will lie there, and their houses will be ful
 v22: Wolves will cry in their castles, and jackals in the pleasant palaces. Her time is near to come, and her days will not be prolonged.
 </p>
 ## Notes
-v1: The oracle turns from historical Babylon toward cosmic and universal imagery, allowing political judgment and the day of the LORD to overlap.  
-v4: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v4: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
-v6: “day of the LORD” — The expression names decisive divine intervention in judgment and restoration without reducing it to a single chronological scheme.  
+v01: The oracle turns from historical Babylon toward cosmic and universal imagery, allowing political judgment and the day of the LORD to overlap.  
+v04: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v04: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+v06: “day of the LORD” — The expression names decisive divine intervention in judgment and restoration without reducing it to a single chronological scheme.  
 
-##Vocabulary
+## Vocabulary
 
-v4: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
-v4: גּוֹיִם (goyim)  
+v04: גּוֹיִם (goyim)  
 “Nations” or “peoples.” Peoples beyond Israel.  
 
-v6: יוֹם יְהוָה (yom YHWH)  
+v06: יוֹם יְהוָה (yom YHWH)  
 “Day of the LORD.” A time of decisive divine action.  
 
 v19: כָּבוֹד (kavod)
@@ -74,8 +74,3 @@ v19: כָּבוֹד (kavod)
 v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v04: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
-v06: יוֹם יְהוָה (yom YHWH)
-“Day of the LORD.” A time of decisive divine action.

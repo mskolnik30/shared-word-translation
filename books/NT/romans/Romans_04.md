@@ -82,7 +82,7 @@ v18: “Against hope, in hope” — The wording preserves Paul’s deliberate r
 v19: “he considered his own body” — Some manuscripts read “he did not consider his own body.” Other witnesses also include “already” before “as good as dead.” TSW follows the critical-text reading reflected in the main text.
 v25: “for our trespasses… for our setting right” — The same Greek construction is used in both clauses. The repeated “for” preserves the parallel relationship without further defining how Jesus’ being handed over and raised relate to trespasses and setting right.
 
-##Vocabulary
+## Vocabulary
 
 v03: πίστις (pistis)
 “Trust; faith; faithfulness.” A central term throughout the chapter. TSW uses “trust” here to preserve the relational response to God’s promise while not excluding the term’s broader semantic range.

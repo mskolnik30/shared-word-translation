@@ -88,7 +88,7 @@ v11: Priests and prophets, rather than foreign rulers, seek the death sentence. 
 v18: The elders cite Micah 3:12, showing an earlier prophetic threat functioning as precedent in Jeremiah’s defense.
 v20–23: Uriah’s death demonstrates that Jeremiah’s escape is not inevitable and that prophets speaking similar words could be killed under Jehoiakim.
 
-##Vocabulary
+## Vocabulary
 
 v02: גָּרַע (gara)
 “To diminish” or “hold back.” Jeremiah is forbidden to omit any commanded word.

@@ -69,7 +69,7 @@ v09–12: The fire episodes are severe prophetic judgment scenes. TSW preserves 
 v13–15: The third captain approaches with humility rather than royal command. The messenger of the LORD then instructs Elijah not to fear and to go with him.
 v17: The regnal synchronism is textually and chronologically difficult because multiple kings named Jehoram/Joram overlap in Israel and Judah. TSW follows the Masoretic wording.
 
-##Vocabulary
+## Vocabulary
 
 v02: דָּרַשׁ (darash)
 “To inquire” or “seek.” Ahaziah seeks an oracle from a foreign god.

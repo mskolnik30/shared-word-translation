@@ -61,7 +61,7 @@ v12: The man is held until the LORD’s ruling is made clear, showing that the c
 v19–20: The principle of equivalent injury limits retaliation to proportional justice; in the wider legal tradition it functions as a measure of equivalence rather than permission for unlimited revenge.
 v22: The same legal standard applies to resident alien and native-born in the matters addressed here.
 
-##Vocabulary
+## Vocabulary
 
 v02: מָאוֹר (ma'or)
 “Light” or “lamp-light.” Illumination maintained with pure olive oil.

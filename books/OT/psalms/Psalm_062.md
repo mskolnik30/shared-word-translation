@@ -44,9 +44,9 @@ v12: and to you, O Lord, belongs steadfast love,
 for you will repay everyone
 according to their work.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: אֱלֹהִים (elohim)
 “God.” The common Hebrew designation for God.

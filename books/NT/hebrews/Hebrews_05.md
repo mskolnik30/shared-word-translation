@@ -34,54 +34,54 @@ v13: For everyone who lives on milk is inexperienced in the word of righteousnes
 v14: But solid food is for the mature—for those whose powers of discernment have been trained by practice to distinguish good from evil.
 </p>
 ## Notes
-v1: “appointed… on behalf of mortals” — Priesthood is representative: a mediator stands with people before God, carrying gifts and sins into worship.  
-v2: “deal gently… surrounded by weakness” — The capacity for gentleness is grounded in shared frailty; spiritual leadership is disqualified by contempt.  
-v3: “for their own sins” — Human priests are not saviors; they require atonement too. The system itself confesses the mediator’s limits.  
-v4: “called by God” — Authority in worship is vocational, not self-asserted; the role is received as a calling, not seized as a status.  
-v5–6: “Christ… appointed… priest forever… Melchizedek” — Jesus’ priesthood is rooted in divine appointment and enduring scope; it is not temporary, hereditary, or merely institutional.  
-v7: “loud cries and tears… he was heard” — Jesus’ prayer is embodied and anguished; being “heard” does not mean avoidance of suffering, but faithful reception and vindication through the Father.  
-v8: “learned obedience through what he suffered” — Not moral improvement from disobedience, but obedience fully enacted under real pressure; suffering becomes the arena of faithful trust.  
-v9: “made complete… source of eternal salvation” — “Complete” signals vocational completion—fully qualified as priest and redeemer; salvation is durable and life-giving.  
-v9: “for all who obey him” — Hebrews links trust and obedience: saving relationship is not mere assent but allegiance expressed in lived faithfulness.  
+v01: “appointed… on behalf of mortals” — Priesthood is representative: a mediator stands with people before God, carrying gifts and sins into worship.  
+v02: “deal gently… surrounded by weakness” — The capacity for gentleness is grounded in shared frailty; spiritual leadership is disqualified by contempt.  
+v03: “for their own sins” — Human priests are not saviors; they require atonement too. The system itself confesses the mediator’s limits.  
+v04: “called by God” — Authority in worship is vocational, not self-asserted; the role is received as a calling, not seized as a status.  
+v05–06: “Christ… appointed… priest forever… Melchizedek” — Jesus’ priesthood is rooted in divine appointment and enduring scope; it is not temporary, hereditary, or merely institutional.  
+v07: “loud cries and tears… he was heard” — Jesus’ prayer is embodied and anguished; being “heard” does not mean avoidance of suffering, but faithful reception and vindication through the Father.  
+v08: “learned obedience through what he suffered” — Not moral improvement from disobedience, but obedience fully enacted under real pressure; suffering becomes the arena of faithful trust.  
+v09: “made complete… source of eternal salvation” — “Complete” signals vocational completion—fully qualified as priest and redeemer; salvation is durable and life-giving.  
+v09: “for all who obey him” — Hebrews links trust and obedience: saving relationship is not mere assent but allegiance expressed in lived faithfulness.  
 v11–12: “dull in hearing… need milk” — The problem is not lack of information but stalled receptivity; regression requires relearning the basics.  
 v13: “word of righteousness” — Maturity is moral and practical: learning God’s ways in a manner that reshapes life, not just expands knowledge.  
 v14: “trained by practice” — Discernment is cultivated skill, developed through repeated obedience; maturity grows by doing, not only by studying.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀρχιερεύς (archiereus) — high priest  
+v01: ἀρχιερεύς (archiereus) — high priest  
 
-v1: καθίστημι (kathistēmi) — to appoint; to set in place  
+v01: καθίστημι (kathistēmi) — to appoint; to set in place  
 
-v1: θυσία (thysia) — sacrifice  
+v01: θυσία (thysia) — sacrifice  
 
-v2: μετριοπαθέω (metriopatheō) — to deal gently; to show measured compassion  
+v02: μετριοπαθέω (metriopatheō) — to deal gently; to show measured compassion  
 
-v2: ἀσθένεια (astheneia) — weakness; frailty  
+v02: ἀσθένεια (astheneia) — weakness; frailty  
 
-v4: τιμή (timē) — honor  
+v04: τιμή (timē) — honor  
 
-v4: καλέω (kaleō) — to call; to summon  
+v04: καλέω (kaleō) — to call; to summon  
 
-v5: δοξάζω (doxazō) — to glorify; to confer honor  
+v05: δοξάζω (doxazō) — to glorify; to confer honor  
 
-v6: τάξις (taxis) — order; arrangement (as in “order of Melchizedek”)  
+v06: τάξις (taxis) — order; arrangement (as in “order of Melchizedek”)  
 
-v6: Μελχισεδέκ (Melchisedek) — Melchizedek  
+v06: Μελχισεδέκ (Melchisedek) — Melchizedek  
 
-v7: ἱκετηρία (hikētēria) — supplication; plea  
+v07: ἱκετηρία (hikētēria) — supplication; plea  
 
-v7: εὐλάβεια (eulabeia) — reverent devotion; godly fear  
+v07: εὐλάβεια (eulabeia) — reverent devotion; godly fear  
 
-v8: ὑπακοή (hypakoē) — obedience; attentive hearing  
+v08: ὑπακοή (hypakoē) — obedience; attentive hearing  
 
-v8: πάσχω (paschō) — to suffer  
+v08: πάσχω (paschō) — to suffer  
 
-v9: τελειόω (teleioō) — to make complete; to perfect; to bring to full qualification  
+v09: τελειόω (teleioō) — to make complete; to perfect; to bring to full qualification  
 
-v9: αἴτιος (aitios) — source; cause; author  
+v09: αἴτιος (aitios) — source; cause; author  
 
-v9: σωτηρία (sōtēria) — salvation; deliverance  
+v09: σωτηρία (sōtēria) — salvation; deliverance  
 
 v10: προσαγορεύω (prosagoreuō) — to designate; to address as  
 

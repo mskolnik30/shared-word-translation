@@ -63,7 +63,7 @@ v10–11: The Israelites lay hands upon the Levites, and the Levites themselves 
 v19: Levitical service protects the congregation by maintaining the boundaries around the sanctuary.
 v24: Numbers 4 counts active bearers from thirty to fifty, while this verse begins Levitical participation at twenty-five. The text does not explain the relationship between the two ages; later stages of apprenticeship or differing duties are possible but should not be imposed on the main text.
 
-##Vocabulary
+## Vocabulary
 
 v02: מְנוֹרָה (menorah)
 “Lampstand.” The seven-lamped golden stand of the sanctuary.

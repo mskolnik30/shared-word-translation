@@ -74,7 +74,7 @@ v13: The Masoretic Text says Eli’s sons were “bringing a curse upon themselv
 v18: Eli’s response accepts the LORD’s judgment without attempting to deny Samuel’s report.
 v19: “Let none of his words fall to the ground” means Samuel’s prophetic words proved reliable.
 
-##Vocabulary
+## Vocabulary
 
 v01: יָקָר (yaqar)
 “Rare” or precious. The word of the LORD was uncommon.

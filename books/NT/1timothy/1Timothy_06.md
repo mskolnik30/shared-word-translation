@@ -81,10 +81,10 @@ v21: which some have professed and in so doing have wandered away from the faith
 Grace be with you.
 </p>
 ## Notes
-v1–2: Social roles are addressed pragmatically. The concern is the reputation of God’s name and teaching.  
-v3–5: False teaching is diagnosed as both intellectual and moral distortion.  
-v6–8: Contentment reframes gain. Sufficiency replaces accumulation.  
-v9–10: Desire for wealth is treated as a trajectory leading to ruin, not a neutral pursuit.  
+v01–02: Social roles are addressed pragmatically. The concern is the reputation of God’s name and teaching.  
+v03–05: False teaching is diagnosed as both intellectual and moral distortion.  
+v06–08: Contentment reframes gain. Sufficiency replaces accumulation.  
+v09–10: Desire for wealth is treated as a trajectory leading to ruin, not a neutral pursuit.  
 v10: “Love of money” is the root, not money itself.  
 v11–12: Timothy is called to active resistance (“flee,” “pursue,” “fight”).  
 v13–14: The charge is framed in the presence of God and Christ, elevating its seriousness.  
@@ -93,27 +93,27 @@ v17–19: Wealth is reoriented toward generosity and future stability.
 v19: “Take hold of what is truly life” reframes present choices in light of ultimate reality.  
 v20–21: Guarding the entrusted message requires discernment and avoidance of false knowledge.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ζυγός (zygos)  
+v01: ζυγός (zygos)  
 
-v1: “Yoke.” Symbol of obligation or subjection.  
+v01: “Yoke.” Symbol of obligation or subjection.  
 
-v4: νοσέω (noseō)  
+v04: νοσέω (noseō)  
 
-v4: “To be sick.” Used metaphorically of unhealthy craving.  
+v04: “To be sick.” Used metaphorically of unhealthy craving.  
 
-v5: διαπαρατριβή (diaparatribē)  
+v05: διαπαρατριβή (diaparatribē)  
 
-v5: “Friction.” Ongoing conflict.  
+v05: “Friction.” Ongoing conflict.  
 
-v6: αὐτάρκεια (autarkeia)  
+v06: αὐτάρκεια (autarkeia)  
 
-v6: “Contentment.” Sufficiency.  
+v06: “Contentment.” Sufficiency.  
 
-v9: παγίς (pagis)  
+v09: παγίς (pagis)  
 
-v9: “Snare.” Trap leading to harm.  
+v09: “Snare.” Trap leading to harm.  
 
 v10: φιλαργυρία (philargyria)  
 

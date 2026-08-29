@@ -85,7 +85,7 @@ v15: Temporary sexual abstinence is part of ritual preparation for the encounter
 v18–20: Smoke, fire, trembling mountain, thunder, lightning, and horn together present the divine descent as overwhelming the ordinary categories of nature and worship.
 v22: Priests are mentioned before the later Aaronic priestly installation. The text does not explain the precise identity or status of these priests at this stage.
 
-##Vocabulary
+## Vocabulary
 
 v05: סְגֻלָּה (segullah)
 “Treasure” or “treasured possession.” A valued possession specially claimed by a ruler.

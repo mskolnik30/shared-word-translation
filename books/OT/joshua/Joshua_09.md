@@ -83,7 +83,7 @@ v15, v18–20: The oath remains binding even though obtained through deception. 
 v23, v27: The Gibeonites move from threatened destruction to permanent service connected with Israel’s worship. The narrative preserves both the curse language and the protection of their lives.
 v24: The Gibeonites act from fear of the command they have heard concerning the land, paralleling Rahab’s response to reports of the LORD’s acts while differing in method.
 
-##Vocabulary
+## Vocabulary
 
 v04: עָרַם (aram)
 “To act craftily” or “be shrewd.” Used of the Gibeonites’ deceptive strategy.

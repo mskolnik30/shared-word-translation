@@ -167,7 +167,7 @@ v15–17: Locust imagery shifts rapidly. Nineveh is told to multiply like locust
 v18: “shepherds” — The term refers figuratively to Assyria's leaders. Their sleep is the stillness of failed or dead leadership while the people scatter without anyone to gather them.
 v19: The book closes with the nations applauding Assyria's fall because its violence had reached them repeatedly. The final question leaves Nineveh's judgment within the memory of widespread imperial harm.
 
-##Vocabulary
+## Vocabulary
 
 v01: עִיר דָּמִים (ir damim)
 “City of blood.” A city characterized by bloodshed and violent guilt.

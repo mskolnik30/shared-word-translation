@@ -141,20 +141,13 @@ v29: “prosperous… and… those who go down to the dust” — All classes an
 v31: “to a people yet unborn… the LORD has done it” — The closing is generational proclamation: the story becomes gospel-like announcement—God has acted decisively.
   
 
-  ## Vocabulary
-
-v11: עֶזְרָה (ʿezrah) — help
+## Vocabulary
 
 v15: לָשׁוֹן (lashon) — tongue
 
 v15: עָפָר (ʿafar) — dust
 
-v16: כֶּלֶב (kelev) — dog
-
-v22: שֵׁם (shem) — name
-
 v27: זָכַר (zakar) — to remember
-##Vocabulary
 
 v01: עָזַב (ʿazav)
 “To forsake; to abandon.”

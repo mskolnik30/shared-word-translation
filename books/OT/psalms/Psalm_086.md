@@ -84,26 +84,26 @@ that those who hate me may see and be put to shame,
 because you, LORD, have helped me and comforted me.
 </p>
 ## Notes
-v1–4: The prayer is grounded in need and dependence, not entitlement.  
-v5–7: God’s character (goodness, forgiveness, steadfast love) underwrites the petition.  
-v8–10: Divine uniqueness expands toward universal worship.  
+v01–04: The prayer is grounded in need and dependence, not entitlement.  
+v05–07: God’s character (goodness, forgiveness, steadfast love) underwrites the petition.  
+v08–10: Divine uniqueness expands toward universal worship.  
 v11: The request is for inner integration (“unite my heart”), not mere instruction.  
 v13: Deliverance from Sheol emphasizes life preserved from death’s domain.  
 v14–15: Human opposition is contrasted with divine mercy.  
 v16–17: The request for a “sign” is relational and vindicatory, not spectacular.  
 
-##Vocabulary
+## Vocabulary
 
-v1: עָנִי (ani)  
+v01: עָנִי (ani)  
 “Poor.” Afflicted or needy.  
 
-v2: חָסִיד (chasid)  
+v02: חָסִיד (chasid)  
 “Faithful.” Devoted or loyal.  
 
-v5: סָלַח (salach)  
+v05: סָלַח (salach)  
 “To forgive.” To pardon.  
 
-v8: אֱלֹהִים (elohim)  
+v08: אֱלֹהִים (elohim)  
 “Gods.” Divine beings or powers.  
 
 v11: יָחַד (yachad)  
@@ -121,11 +121,3 @@ v15: רַחוּם (rachum)
 v17: אוֹת (ot)  
 “Sign.” Indicator or proof.  
 
-v01: עָנִי (ani)
-“Poor.” Afflicted or needy.
-
-v02: חָסִיד (chasid)
-“Faithful.” Devoted or loyal.
-
-v05: סָלַח (salach)
-“To forgive.” To pardon.

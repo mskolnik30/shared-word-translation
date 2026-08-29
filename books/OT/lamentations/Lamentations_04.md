@@ -159,7 +159,7 @@ v20: “the anointed of the LORD” — The phrase most naturally refers to the 
 v21–22: Edom’s temporary rejoicing is followed by the announcement that the same cup of judgment will reach her. Zion’s punishment is described as reaching completion.
 v01–22: The chapter is an alphabetic acrostic in Hebrew. As in chapter 2, two Hebrew letters appear in an order different from the standard alphabetic sequence.
 
-##Vocabulary
+## Vocabulary
 
 v01: זָהָב (zahav)
 “Gold.” Precious metal used here as an image of lost splendor and value.

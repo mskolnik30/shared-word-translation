@@ -77,7 +77,7 @@ v13: Daniel is promised rest and a future standing “for your lot,” combining
 v13: The Hebrew/Aramaic canonical form of Daniel ends here. Greek forms include additional stories and prayers—Susanna, Bel and the Dragon, and the Prayer of Azariah/Song of the Three—which are not incorporated into the TSW main text because the project treats the Masoretic Text as the primary Old Testament source.
 v13: The Hebrew/Aramaic canonical form of Daniel ends here. Greek forms include additional stories and prayers—Susanna, Bel and the Dragon, and the Prayer of Azariah/Song of the Three—which are not part of the Masoretic form.
 
-##Vocabulary
+## Vocabulary
 
 v01: עֵת צָרָה (et tsarah)
 “Time of distress.” An unparalleled period of crisis.

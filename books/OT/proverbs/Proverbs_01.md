@@ -165,7 +165,7 @@ v28: The refusal to answer follows repeated refusal to hear. The poem portrays a
 v31: “fruit of their way” — Conduct is pictured as producing its own harvest. The consequences grow out of the path that has been chosen.
 v33: Security is contrasted with the dread that overtakes those who reject wisdom. The verse does not promise absence of all hardship, but freedom from the destructive end described in the preceding speech.
 
-##Vocabulary
+## Vocabulary
 
 v01: מָשָׁל (mashal)
 “Proverb,” “saying,” or “comparison.” A compact form of wisdom speech that can include analogy, observation, or instruction.

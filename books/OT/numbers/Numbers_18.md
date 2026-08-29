@@ -82,7 +82,7 @@ v19: “covenant of salt” — Salt is associated with permanence and covenanta
 v20: The priests’ lack of territorial inheritance is answered by the LORD’s declaration, “I am your portion and your inheritance.”
 v26: Levites who receive Israel’s tithe are themselves required to give a tithe from what they receive, preserving the pattern of contribution within their own provision.
 
-##Vocabulary
+## Vocabulary
 
 v01: עָוֹן (avon)
 “Iniquity,” “guilt,” or “burden of wrongdoing.” Here connected with responsibility for sanctuary violation.

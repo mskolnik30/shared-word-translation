@@ -74,44 +74,44 @@ v27: My dwelling place shall be with them, and I will be their God, and they sha
 v28: Then the nations shall know that I am the LORD who consecrates Israel, when my sanctuary is in their midst forever.”
 </p>
 ## Notes
-v1: “the LORD brought me out by the Spirit of the LORD” — Ezekiel’s vision is not self-generated; the scene is a Spirit-led unveiling meant to reshape hope, not entertain curiosity.
-v3: “Mortal, can these bones live?” — The question exposes the limits of human assessment; Ezekiel answers with humble restraint: only the Lord GOD knows.
-v4: “Prophesy… Dry bones, hear the word of the LORD” — God’s word addresses what appears beyond recovery; proclamation is directed even toward the lifeless.
-v5: “bring breath into you, and you shall live” — “Breath” is more than oxygen; it signals God’s life-giving power that reverses death and hopelessness.
-v6: “Then you shall know that I am the LORD” — This refrain frames the miracle as revelation: restoration is meant to re-form covenant recognition, not merely improve circumstances.
-v8: “but there was no breath in them” — A deliberate two-step: structure without Spirit is not yet life; “assembled” is not the same as “alive.”
-v9: “Come from the four winds… O breath” — The vision widens from a local valley to creation-scale renewal; life comes from God’s summons, not Israel’s strength.
+v01: “the LORD brought me out by the Spirit of the LORD” — Ezekiel’s vision is not self-generated; the scene is a Spirit-led unveiling meant to reshape hope, not entertain curiosity.
+v03: “Mortal, can these bones live?” — The question exposes the limits of human assessment; Ezekiel answers with humble restraint: only the Lord GOD knows.
+v04: “Prophesy… Dry bones, hear the word of the LORD” — God’s word addresses what appears beyond recovery; proclamation is directed even toward the lifeless.
+v05: “bring breath into you, and you shall live” — “Breath” is more than oxygen; it signals God’s life-giving power that reverses death and hopelessness.
+v06: “Then you shall know that I am the LORD” — This refrain frames the miracle as revelation: restoration is meant to re-form covenant recognition, not merely improve circumstances.
+v08: “but there was no breath in them” — A deliberate two-step: structure without Spirit is not yet life; “assembled” is not the same as “alive.”
+v09: “Come from the four winds… O breath” — The vision widens from a local valley to creation-scale renewal; life comes from God’s summons, not Israel’s strength.
 v10: “an exceedingly great army” — The point is not militarism but restored capacity: a people who could not stand now stand.
 v11: “Our bones are dried up… our hope is lost” — Israel’s confession names communal despair; the vision speaks to a whole people, not only individual wounds.
 v12: “open your graves… bring you into the land of Israel” — The imagery is resurrection-like language for national restoration from exile; God reverses what seemed final.
 v14: “I will put my Spirit within you… you shall live” — The climax is indwelling Spirit: restoration is relational and covenantal, not merely geographic return.
 v14: “Then you shall know… I have spoken, and I have done it” — God’s speech guarantees God’s action; the future is secured by divine fidelity, not human optimism.
 
-##Vocabulary
+## Vocabulary
 
-v1: יָד (yad) — hand
+v01: יָד (yad) — hand
 
-v1: רוּחַ (ruach) — spirit; breath; wind
+v01: רוּחַ (ruach) — spirit; breath; wind
 
-v1: בִּקְעָה (biq‘ah) — valley; plain
+v01: בִּקְעָה (biq‘ah) — valley; plain
 
-v2: עֶצֶם (ʿetsem) — bone
+v02: עֶצֶם (ʿetsem) — bone
 
-v3: בֶּן־אָדָם (ben-’adam) — mortal; human one (“son of man”)
+v03: בֶּן־אָדָם (ben-’adam) — mortal; human one (“son of man”)
 
-v4: נָבָא (nava) — to prophesy; to speak forth
+v04: נָבָא (nava) — to prophesy; to speak forth
 
-v5: רוּחַ (ruach) — breath; spirit (life given by God)
+v05: רוּחַ (ruach) — breath; spirit (life given by God)
 
-v6: גִּיד (gid) — sinew; tendon
+v06: גִּיד (gid) — sinew; tendon
 
-v6: בָּשָׂר (basar) — flesh
+v06: בָּשָׂר (basar) — flesh
 
-v6: עוֹר (ʿor) — skin
+v06: עוֹר (ʿor) — skin
 
-v7: רַעַשׁ (raʿash) — shaking; rattling; trembling
+v07: רַעַשׁ (raʿash) — shaking; rattling; trembling
 
-v9: רוּחַ (ruach) — wind; breath (context determines nuance)
+v09: רוּחַ (ruach) — wind; breath (context determines nuance)
 
 v10: חַיִל (chayil) — strength; force; army
 

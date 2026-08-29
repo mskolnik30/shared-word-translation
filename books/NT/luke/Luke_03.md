@@ -115,14 +115,14 @@ v37: of Methuselah, of Enoch, of Jared, of Mahalaleel, of Cainan,
 v38: of Enos, of Seth, of Adam, of God.
 </p>
 ## Notes
-v1–2: Luke locates John’s ministry within imperial, regional, and priestly authority, but the decisive event is that “the word of God came” in the wilderness.
-v2: John’s prophetic vocation is framed by divine initiative rather than institutional appointment.
-v3: Baptism, repentance, and forgiveness are held together as a public summons to reorientation.
-v4–6: Isaiah’s wilderness imagery presents preparation for the Lord as cosmic leveling and universal disclosure.
-v6: “All flesh” widens the horizon beyond Israel without detaching salvation from Israel’s scriptures.
-v7: John’s address to the crowds is severe; baptism does not exempt them from judgment.
-v8: Ancestry from Abraham is not denied, but it cannot replace repentance.
-v9: The axe imagery makes judgment immediate and agricultural: root, fruit, tree, fire.
+v01–02: Luke locates John’s ministry within imperial, regional, and priestly authority, but the decisive event is that “the word of God came” in the wilderness.
+v02: John’s prophetic vocation is framed by divine initiative rather than institutional appointment.
+v03: Baptism, repentance, and forgiveness are held together as a public summons to reorientation.
+v04–06: Isaiah’s wilderness imagery presents preparation for the Lord as cosmic leveling and universal disclosure.
+v06: “All flesh” widens the horizon beyond Israel without detaching salvation from Israel’s scriptures.
+v07: John’s address to the crowds is severe; baptism does not exempt them from judgment.
+v08: Ancestry from Abraham is not denied, but it cannot replace repentance.
+v09: The axe imagery makes judgment immediate and agricultural: root, fruit, tree, fire.
 v10–14: Repentance is translated into concrete economic and social practices, not merely inward remorse.
 v11: Sharing clothing and food makes repentance visible in ordinary material life.
 v12–13: Tax collectors are not told to abandon their office but to cease exploitation within it.
@@ -135,49 +135,49 @@ v21–22: Jesus is baptized with the people, but heaven’s opening and the Spir
 v22: The voice names Jesus as Son before any public act of ministry in Luke.
 v23–38: The genealogy moves backward from Jesus to Adam and God, emphasizing universal human scope.
 
-##Vocabulary
+## Vocabulary
 
-v2: ῥῆμα θεοῦ (rhēma theou)
+v02: ῥῆμα θεοῦ (rhēma theou)
 
 “Word of God.” Divine speech that initiates prophetic mission.
 
-v3: βάπτισμα (baptisma)
+v03: βάπτισμα (baptisma)
 
 “Baptism.” A ritual washing associated here with repentance and forgiveness.
 
-v3: μετάνοια (metanoia)
+v03: μετάνοια (metanoia)
 
 “Repentance.” A change of mind, direction, and life.
 
-v3: ἄφεσις (aphesis)
+v03: ἄφεσις (aphesis)
 
 “Forgiveness, release.” Liberation from sins as debt, bondage, or offense.
 
-v4: ἔρημος (erēmos)
+v04: ἔρημος (erēmos)
 
 “Wilderness.” Place of desolation, testing, and divine summons.
 
-v4: ἑτοιμάζω (hetoimazō)
+v04: ἑτοιμάζω (hetoimazō)
 
 “To prepare.” To make ready for the Lord’s coming.
 
-v6: σωτήριον (sōtērion)
+v06: σωτήριον (sōtērion)
 
 “Salvation.” God’s saving act or deliverance made visible.
 
-v7: γεννήματα ἐχιδνῶν (gennēmata echidnōn)
+v07: γεννήματα ἐχιδνῶν (gennēmata echidnōn)
 
 “Offspring of vipers.” A severe prophetic indictment.
 
-v8: καρπός (karpos)
+v08: καρπός (karpos)
 
 “Fruit.” Visible outcome or evidence of repentance.
 
-v8: ἄξιος (axios)
+v08: ἄξιος (axios)
 
 “Worthy, fitting.” Corresponding appropriately to repentance.
 
-v9: ἀξίνη (axinē)
+v09: ἀξίνη (axinē)
 
 “Axe.” Image of imminent judgment at the root.
 
@@ -241,5 +241,3 @@ v38: Ἀδάμ (Adam)
 
 “Adam.” The human ancestor through whom Luke reaches universal scope.
 
-v06: σωτήριον (sōtērion)
-“Salvation.” God’s saving act or deliverance made visible.

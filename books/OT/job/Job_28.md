@@ -117,7 +117,7 @@ v22: Even Death and Abaddon possess only a “report” of wisdom. The realm bey
 v23–27: God knows wisdom because God knows and orders the whole creation. Wisdom is rooted in the Creator’s understanding of reality.
 v28: The poem concludes by translating cosmic wisdom into human vocation: fear of the Lord and turning from evil. The wording echoes the narrator’s description of Job in 1:1.
 
-##Vocabulary
+## Vocabulary
 
 v01: מוֹצָא (motsa)
 “Mine,” “source,” or “place of extraction.” The location from which silver is brought out.

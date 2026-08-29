@@ -71,7 +71,7 @@ v27: “flows with milk and honey” describes abundance and fertility; it does 
 v32: “bad report” — The Hebrew can describe a report that maligns or discredits. The problem is not merely that the spies report danger but that their interpretation turns the land itself into an object of fear.
 v33: The relationship between the Nephilim and descendants of Anak is stated as part of the spies’ report. The translation does not treat the report as an independent explanation of the identity of the Nephilim.
 
-##Vocabulary
+## Vocabulary
 
 v02: תּוּר (tur)
 “To explore,” “search out,” or “spy.” To move through a place for careful observation.

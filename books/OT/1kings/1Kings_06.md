@@ -156,11 +156,11 @@ v37: In the fourth year, in the month of Ziv, the foundation of the house of the
 <p>
 v38: In the eleventh year, in the month of Bul, which is the eighth month, the house was completed in all its details and according to all its specifications. He built it in seven years.
 </p>
-##Notes
+## Notes
 
 v31: The descriptions “five-sided” in verse 31 and “four-sided” in verse 33 are uncertain in their architectural sense.
 
-##Vocabulary
+## Vocabulary
 
 v01: בַּיִת (bayit)
 “house.” Throughout this chapter, bayit refers to the house built for the LORD. The term can mean an ordinary dwelling, but here its repeated use holds together architecture, worship, and the LORD’s promised dwelling among Israel.

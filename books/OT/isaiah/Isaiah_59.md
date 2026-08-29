@@ -68,7 +68,7 @@ v20: “Redeemer” — The Hebrew *go’el* is a family and legal term for one 
 v20: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
 v21: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
 
-##Vocabulary
+## Vocabulary
 
 v20: גֹּאֵל (go'el)
 “Redeemer.” One who acts to reclaim, defend, and restore.
@@ -82,8 +82,6 @@ v20: צִיּוֹן (tsiyyon)
 v21: בְּרִית (berit)
 “Covenant.” A binding relationship shaped by promise and obligation.
 
-v8: מִשְׁפָּט (mishpat)  
+v08: מִשְׁפָּט (mishpat)  
 “Justice” or “judgment.” Right judgment and right communal ordering.  
 
-v08: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.

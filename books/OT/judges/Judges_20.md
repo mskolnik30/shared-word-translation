@@ -135,7 +135,7 @@ v27–28: The mention of the ark and Phinehas places the episode within Israel�
 v35, v46: The totals differ slightly because the narrative reports the decisive battle from different perspectives and stages. TSW preserves the received figures rather than harmonizing them.
 v48: Israel’s response moves beyond defeating Benjamin’s army to destroying cities, inhabitants, animals, and property. The victory therefore becomes another stage in the book’s escalating violence.
 
-##Vocabulary
+## Vocabulary
 
 v01: עֵדָה (edah)
 “Congregation” or “assembly.” Israel gathered as a corporate body.

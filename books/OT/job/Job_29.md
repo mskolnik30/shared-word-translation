@@ -107,7 +107,7 @@ v14: Righteousness and justice are pictured as clothing, not occasional actions.
 v18–20: Job expected his faithful life to continue into a secure old age. His former expectation resembles the outcome the friends insist righteousness should produce.
 v23: Counsel is compared to seasonal rain needed for life and harvest, showing how the community once valued Job’s words.
 
-##Vocabulary
+## Vocabulary
 
 v03: נֵר (ner)
 “Lamp.” The light of divine care that Job remembers over his life.

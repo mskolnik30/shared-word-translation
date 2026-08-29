@@ -39,9 +39,9 @@ v10: Have you not, O God, cast us off? And you do not go out with our armies, O 
 v11: Grant us help against the foe, for human deliverance is worthless.
 v12: In God we shall do valiantly; it is he who will tread down our foes.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: זָנַח (zanach)
 “Rejected" suggests a temporary distancing from God as a reaction to Israel's condition.

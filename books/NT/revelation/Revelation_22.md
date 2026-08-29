@@ -52,7 +52,7 @@ v18–19: The warning preserves the integrity of the text.
 v20: Response echoes promise; tension remains unresolved.
 v21: The conclusion returns to grace rather than judgment.
 
-##Vocabulary
+## Vocabulary
 
 v03: κατάθεμα (katathema)
 “Accursed thing.” That which is devoted to destruction.

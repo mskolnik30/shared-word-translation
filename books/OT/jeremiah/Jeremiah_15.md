@@ -96,11 +96,11 @@ v20: I will make you to this people a fortified wall of bronze. They will fight 
 <p>
 v21: “I will deliver you from the hand of the wicked, and redeem you from the grasp of the ruthless.”
 </p>
-##Notes
+## Notes
 
 v11: The Hebrew of the first clause is difficult, and ancient witnesses and translations reflect differing understandings.
 
-##Vocabulary
+## Vocabulary
 
 v01: נֶפֶשׁ (nephesh)
 “whole being.” The LORD’s nephesh expresses personal aversion toward the people, not merely an impersonal legal judgment.

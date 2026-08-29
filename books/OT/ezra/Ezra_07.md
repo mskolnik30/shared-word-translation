@@ -97,7 +97,7 @@ v23: Persian royal support is again framed in concern that the God of heaven not
 v25–26: Ezra receives both teaching and judicial authority under Persian authorization. The penalties listed belong to the imperial decree and range from death to imprisonment.
 v27–28: Ezra interprets the king’s policy as the LORD’s work in the royal heart, bringing the narrative back from imperial Aramaic to Hebrew praise.
 
-##Vocabulary
+## Vocabulary
 
 v06: סֹפֵר מָהִיר (sofer mahir)
 “Skilled scribe.” An expert practitioner and interpreter of written instruction.

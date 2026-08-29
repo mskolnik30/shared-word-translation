@@ -93,11 +93,11 @@ v34: And in anger his master delivered him to the jailers, until he should pay a
 v35: So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart.”
 </p>
 ## Notes
-v3: “Turn” indicates reorientation, not imitation alone; entry requires transformation.  
-v4: Greatness defined by voluntary lowering, not achieved status.  
-v6: Causing “little ones” to stumble carries severe consequence; relational harm is weighty.  
-v7: Necessity of stumbling blocks does not remove responsibility for causing them.  
-v8–9: Radical imagery underscores seriousness of sin; priority is life over wholeness.  
+v03: “Turn” indicates reorientation, not imitation alone; entry requires transformation.  
+v04: Greatness defined by voluntary lowering, not achieved status.  
+v06: Causing “little ones” to stumble carries severe consequence; relational harm is weighty.  
+v07: Necessity of stumbling blocks does not remove responsibility for causing them.  
+v08–09: Radical imagery underscores seriousness of sin; priority is life over wholeness.  
 v10: “Their angels” implies divine attention and advocacy, not hierarchy.  
 v12–14: Value of the one reframes majority logic; pursuit overrides efficiency.  
 v15–17: Process is progressive—private, small group, communal—aimed at restoration.  
@@ -111,19 +111,19 @@ v33: Mercy becomes expectation once received; ethical reciprocity.
 v35: Forgiveness must be internal (“from your heart”), not procedural.  
 v11: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add a saying corresponding to Luke 19:10. Public verse numbering is retained.
 
-##Vocabulary
+## Vocabulary
 
-v3: στραφῆτε (*straphēte*) — “Turn.” Change direction or orientation.  
+v03: στραφῆτε (*straphēte*) — “Turn.” Change direction or orientation.  
 
-v4: ταπεινόω (*tapeinoō*) — “Humble.” Lower oneself intentionally.  
+v04: ταπεινόω (*tapeinoō*) — “Humble.” Lower oneself intentionally.  
 
-v6: σκανδαλίζω (*skandalizō*) — “Cause to stumble.” Lead into failure or sin.  
+v06: σκανδαλίζω (*skandalizō*) — “Cause to stumble.” Lead into failure or sin.  
 
-v7: σκάνδαλα (*skandala*) — “Stumbling blocks.” Sources of offense or sin.  
+v07: σκάνδαλα (*skandala*) — “Stumbling blocks.” Sources of offense or sin.  
 
-v8: ζωὴ (*zōē*) — “Life.” True or enduring life, not mere existence.  
+v08: ζωὴ (*zōē*) — “Life.” True or enduring life, not mere existence.  
 
-v9: γέεννα (*geenna*) — “Gehenna.” Image of judgment/fire.  
+v09: γέεννα (*geenna*) — “Gehenna.” Image of judgment/fire.  
 
 v10: ἄγγελοι (*angeloi*) — “Angels.” Messengers or representatives.  
 

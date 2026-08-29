@@ -114,11 +114,11 @@ v26: For seven days they shall make atonement for the altar, cleanse it, and con
 <p>
 v27: When they have completed the days, from the eighth day onward the priests shall offer on the altar your burnt offerings and your well-being offerings. Then I will accept you, declares the LORD GOD.”
 </p>
-##Notes
+## Notes
 
 v26: “Consecrate it” literally reflects the idiom “fill its hand,” an expression used for installation into sacred service.
 
-##Vocabulary
+## Vocabulary
 
 v02: כָּבוֹד (kavod)
 “glory.” In this passage, God’s kavod is the radiant, overwhelming presence that comes from the east, illuminates the earth, enters the house, and fills it.

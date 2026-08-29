@@ -96,7 +96,7 @@ v21: Deuteronomy places the neighbor’s wife before house and field and uses a 
 v22: “he added no more” marks the Ten Words as the direct public speech to the whole assembly before Moses receives further instruction as mediator.
 v29: The LORD’s wish—“if only they had such a heart”—makes obedience an inward disposition, not merely external conformity.
 
-##Vocabulary
+## Vocabulary
 
 v01: לָמַד (lamad)
 “To learn.” Israel must learn the statutes in order to do them.

@@ -137,7 +137,7 @@ v29: David’s curse upon Joab’s house reflects ancient assumptions about hous
 v30: Abishai is included in responsibility for Abner’s death although verse 27 narrates Joab as the direct killer.
 v39: David’s confession that the sons of Zeruiah are “too severe” exposes the limits of his control over his own military leaders.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָזֵק (chazeq)
 “To grow strong.” David’s house gains strength.

@@ -70,7 +70,7 @@ my companions are darkness.
 v05: The word rendered “abandoned” is literally “free” among the dead. In context it conveys being released from ordinary human bonds and cut off from life.
 v18: The Hebrew closes abruptly with “my acquaintances—darkness.” The translation preserves that stark identification rather than adding resolution.
 
-##Vocabulary
+## Vocabulary
 
 v03: שְׁאוֹל (sheʾol)
 The realm of the dead; retained because English equivalents such as “grave” or “hell” are narrower than the Hebrew term.

@@ -90,7 +90,7 @@ v22: “adversary” — The Hebrew *satan* describes the angel’s role as an o
 v28: The LORD opens the donkey’s mouth without explanation. The narrative’s irony is that the animal perceives the divine messenger before the professional seer does.
 v32: “reckless” — The Hebrew word is rare and difficult; it conveys a way that is perverse, rash, or contrary before the angel.
 
-##Vocabulary
+## Vocabulary
 
 v06: אָרַר (arar)
 “To curse.” To invoke harm or judgment upon another.

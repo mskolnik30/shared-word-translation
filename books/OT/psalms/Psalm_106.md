@@ -205,9 +205,9 @@ And let all the people say, “Amen!”
 Praise the LORD!
 </p>
 ## Notes
-v1–3: Praise is framed as both declaration and ethical life.  
-v6–7: Confession is corporate and continuous across generations.  
-v8–12: Salvation is grounded in God’s name, not human merit.  
+v01–03: Praise is framed as both declaration and ethical life.  
+v06–07: Confession is corporate and continuous across generations.  
+v08–12: Salvation is grounded in God’s name, not human merit.  
 v13–33: Repeated cycle: forgetting → rebellion → judgment → partial repentance.  
 v20: Idolatry is described as exchange—trading glory for image.  
 v23: Intercession (Moses) interrupts judgment.  
@@ -216,18 +216,18 @@ v34–39: Assimilation leads to moral collapse and violence.
 v40–46: Judgment and mercy coexist; covenant persists despite failure.  
 v47–48: The psalm ends with petition and communal affirmation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: הוֹדוּ (hodu)  
+v01: הוֹדוּ (hodu)  
 “Give thanks.” Praise.  
 
-v6: חָטָא (chata)  
+v06: חָטָא (chata)  
 “To sin.” Miss the mark.  
 
-v7: מָרָה (marah)  
+v07: מָרָה (marah)  
 “To rebel.” Resist.  
 
-v9: גָּעַר (ga‘ar)  
+v09: גָּעַר (ga‘ar)  
 “To rebuke.” Command with authority.  
 
 v13: שָׁכַח (shakach)
@@ -248,14 +248,3 @@ v40: תָּעַב (ta‘av)
 v45: נָחַם (nacham)  
 “To relent.” Change course.  
 
-v01: הוֹדוּ (hodu)
-“Give thanks.” Praise.
-
-v06: חָטָא (chata)
-“To sin.” Miss the mark.
-
-v07: מָרָה (marah)
-“To rebel.” Resist.
-
-v09: גָּעַר (ga‘ar)
-“To rebuke.” Command with authority.

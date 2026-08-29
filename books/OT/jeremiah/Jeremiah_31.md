@@ -323,7 +323,7 @@ v32: “though I was their husband” — Covenant is framed as faithful marital
 v35–37: creation as guarantee — Sun, moon, stars, sea: cosmic regularity is invoked as covenant security. God stakes Israel’s continued peoplehood on creation’s enduring order.
 v38–40: rebuilt city / “shall be holy” — Restoration is spatial and public: the city is re-measured, reclaimed, and re-consecrated—places marked by death are promised holiness and permanence.
 
-##Vocabulary
+## Vocabulary
 
 v02: חֵן (ḥen) — grace; favor
 

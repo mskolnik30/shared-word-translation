@@ -127,7 +127,7 @@ v11: Egypt and Assyria represent competing imperial alliances. Ephraim’s diplo
 v14: The Hebrew phrase concerning grain and new wine is textually difficult and may describe gathering, gashing themselves, or assembling for food. TSW follows the gathering sense while noting the uncertainty.
 v16: “not upward” is a compressed Hebrew expression. It may mean they return, but not to the Most High, or that their turning is unreliable. TSW keeps the directional metaphor.
 
-##Vocabulary
+## Vocabulary
 
 v01: רָפָא (rapha)
 “To heal.” Divine restoration that also exposes sin.

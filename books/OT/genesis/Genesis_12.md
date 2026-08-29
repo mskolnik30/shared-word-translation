@@ -50,36 +50,34 @@ v19: Why did you say, ‘She is my sister,’ so that I took her to be my wife? 
 v20: And Pharaoh gave men orders concerning him; and they sent him away, along with his wife and all that he had.
 </p>
 ## Notes
-v1–3: The call is issued before any evaluation of Abram. Command precedes promise, and promise precedes explanation. The movement of the promises expands outward—from land, to nation, to name, to blessing, to all the families of the earth—without specifying the means by which the blessing will occur.  
-v3: The verb form allows more than one reading (“shall be blessed” / “shall find blessing”). The text does not clarify whether Abram is the agent or the means of blessing; the ambiguity is preserved.  
-v4: Abram’s obedience is narrated without comment. The text records his action but offers no insight into motive, doubt, or deliberation.  
-v6: The notice that the Canaanites were in the land introduces tension. The promised land is already occupied, and fulfillment is delayed rather than denied.  
-v7–9: Abram marks his journey with altars and calling on the name of the LORD. Worship accompanies movement rather than settlement; promise is reaffirmed without possession.  
+v01–03: The call is issued before any evaluation of Abram. Command precedes promise, and promise precedes explanation. The movement of the promises expands outward—from land, to nation, to name, to blessing, to all the families of the earth—without specifying the means by which the blessing will occur.  
+v03: The verb form allows more than one reading (“shall be blessed” / “shall find blessing”). The text does not clarify whether Abram is the agent or the means of blessing; the ambiguity is preserved.  
+v04: Abram’s obedience is narrated without comment. The text records his action but offers no insight into motive, doubt, or deliberation.  
+v06: The notice that the Canaanites were in the land introduces tension. The promised land is already occupied, and fulfillment is delayed rather than denied.  
+v07–09: Abram marks his journey with altars and calling on the name of the LORD. Worship accompanies movement rather than settlement; promise is reaffirmed without possession.  
 v10: The land of promise immediately becomes a place of famine. No explanation or moral interpretation is supplied.  
 v11–13: Abram’s fear-driven strategy concerning Sarai is presented without divine approval or rebuke. The narrative withholds evaluation.  
 v17: The LORD intervenes to protect Sarai and the promise, not because of Abram’s faithfulness, but despite his actions.  
 v20: Abram departs Egypt wealthy but unresolved. The chapter closes without repentance, explanation, or moral conclusion, maintaining narrative restraint.  
-v03: The verb form allows more than one reading (“shall be blessed” / “shall find blessing”). The text does not clarify whether Abram is the agent or the means of blessing; the ambiguity is preserved.
+## Vocabulary
 
-##Vocabulary
+v01: אֶרֶץ (ʾereṣ) — land; territory or ground; both promised gift and contested space.  
 
-v1: אֶרֶץ (ʾereṣ) — land; territory or ground; both promised gift and contested space.  
+v02: בָּרַךְ (bāraḵ) — to bless; to confer life, favor, or fruitfulness; frames the promise and its outward reach.  
 
-v2: בָּרַךְ (bāraḵ) — to bless; to confer life, favor, or fruitfulness; frames the promise and its outward reach.  
+v02: גּוֹי (gôy) — nation; a people constituted over time, not immediately visible.  
 
-v2: גּוֹי (gôy) — nation; a people constituted over time, not immediately visible.  
+v02: שֵׁם (šēm) — name; reputation or standing, not merely a label.  
 
-v2: שֵׁם (šēm) — name; reputation or standing, not merely a label.  
+v03: מִשְׁפָּחָה (mišpāḥāh) — family; clan; emphasizes breadth and relational scope rather than political units.  
 
-v3: מִשְׁפָּחָה (mišpāḥāh) — family; clan; emphasizes breadth and relational scope rather than political units.  
+v09: הָלַךְ (hālaḵ) — to go; to walk; denotes movement shaped by obedience rather than destination.  
 
-v9: הָלַךְ (hālaḵ) — to go; to walk; denotes movement shaped by obedience rather than destination.  
+v07: זֶרַע (zeraʿ) — offspring; seed; a collective term that remains intentionally open in scope.  
 
-v7: זֶרַע (zeraʿ) — offspring; seed; a collective term that remains intentionally open in scope.  
+v07–08: מִזְבֵּחַ (mizbēaḥ) — altar; a site of encounter and worship marking movement rather than possession.  
 
-v7–8: מִזְבֵּחַ (mizbēaḥ) — altar; a site of encounter and worship marking movement rather than possession.  
-
-v8: קָרָא (qārāʾ) — to call; to proclaim or invoke; used of calling on the name of the LORD.  
+v08: קָרָא (qārāʾ) — to call; to proclaim or invoke; used of calling on the name of the LORD.  
 
 v10: רָעָב (rāʿāḇ) — famine; scarcity; introduced without explanation or moral framing.  
 

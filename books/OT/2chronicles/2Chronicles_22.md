@@ -53,7 +53,7 @@ v07: Chronicles interprets Ahaziah’s fatal alliance as a divinely governed dow
 v09: Ahaziah receives burial because of Jehoshaphat’s remembered faithfulness rather than his own reign.
 v11: Jehoshabeath preserves the Davidic line through an act of hidden courage.
 
-##Vocabulary
+## Vocabulary
 
 v03: יָעַץ (ya'ats)
 “To counsel.”

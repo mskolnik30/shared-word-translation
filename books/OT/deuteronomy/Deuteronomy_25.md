@@ -77,7 +77,7 @@ v11–12: The bodily penalty is exceptional within Deuteronomy’s case law. The
 v13–16: Commercial fraud is treated as a covenantal abomination. Economic honesty is tied directly to life in the land.
 v17–19: Amalek is condemned for attacking the exhausted and vulnerable at Israel’s rear. The command to erase Amalek belongs to Israel’s ancient warfare memory and should not be reapplied to modern peoples.
 
-##Vocabulary
+## Vocabulary
 
 v01: צָדַק (tsadaq)
 “To declare righteous” or “acquit.”

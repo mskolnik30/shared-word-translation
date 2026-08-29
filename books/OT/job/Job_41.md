@@ -142,7 +142,7 @@ v24: The heart “hard as the lower millstone” portrays unyielding physical an
 v31–32: Leviathan’s movement transforms the sea itself, making the deep boil and leaving a luminous wake.
 v34: Leviathan is “king over all the children of pride,” yet the entire speech presents even this untamable king as a creature within God’s creation.
 
-##Vocabulary
+## Vocabulary
 
 v01: לִוְיָתָן (Livyatan)
 “Leviathan.” A great sea or chaos creature in biblical poetic imagery.

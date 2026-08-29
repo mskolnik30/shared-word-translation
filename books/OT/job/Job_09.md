@@ -148,7 +148,7 @@ v17: Job uses *chinnam*, “without cause,” the same term used in the heavenly
 v22–24: Job pushes retribution theology to its breaking point by observing that blameless and wicked alike die and that the wicked may hold power in the world.
 v33: Job longs for an arbiter able to stand between himself and God and “lay a hand” upon both. The legal image expresses the impossibility Job feels in arguing his case directly.
 
-##Vocabulary
+## Vocabulary
 
 v02: צָדַק (tsadaq)
 “To be right” or “be justified.” Job asks how a human can be right in a case with God.

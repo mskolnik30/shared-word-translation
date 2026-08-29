@@ -70,13 +70,13 @@ v21: Corresponding to this, baptism now saves you—not as a removal of dirt fro
 v22: who is at the right hand of God, having gone into heaven, with angels and authorities and powers having been subjected to him.
 </p>
 ## Notes
-v1–2: Conduct is given priority over speech. The possibility of being “won without a word” does not deny proclamation but situates witness within embodied life.  
-v3–4: External adornment is not condemned absolutely but relativized. The contrast directs attention to what is “imperishable,” locating worth in what endures before God.  
-v5–6: The appeal to “holy women” situates present instruction within a remembered pattern. Sarah functions as an exemplar, though not without tension.  
-v6: “Do not fear anything that is frightening” holds courage and obedience together. The exhortation does not deny fear but resists its rule.  
-v7: “According to knowledge” suggests informed, attentive living rather than mere awareness. Honor is grounded in shared inheritance (“co-heirs”), not hierarchy alone.  
-v7: The hindering of prayer links relational conduct with spiritual life. Ethical failure is not isolated from worship.  
-v8–9: The community ethic is described through a cluster of relational terms. Blessing in response to harm is presented as vocation, not strategy.  
+v01–02: Conduct is given priority over speech. The possibility of being “won without a word” does not deny proclamation but situates witness within embodied life.  
+v03–04: External adornment is not condemned absolutely but relativized. The contrast directs attention to what is “imperishable,” locating worth in what endures before God.  
+v05–06: The appeal to “holy women” situates present instruction within a remembered pattern. Sarah functions as an exemplar, though not without tension.  
+v06: “Do not fear anything that is frightening” holds courage and obedience together. The exhortation does not deny fear but resists its rule.  
+v07: “According to knowledge” suggests informed, attentive living rather than mere awareness. Honor is grounded in shared inheritance (“co-heirs”), not hierarchy alone.  
+v07: The hindering of prayer links relational conduct with spiritual life. Ethical failure is not isolated from worship.  
+v08–09: The community ethic is described through a cluster of relational terms. Blessing in response to harm is presented as vocation, not strategy.  
 v10–12: The citation frames the exhortation within scriptural witness. Speech, action, and divine attention are held in relation.  
 v13–14: The rhetorical question acknowledges general expectation while allowing for exception. Suffering does not negate blessedness.  
 v15: “Regard Christ as holy as Lord” centers allegiance internally (“in your hearts”) before it is expressed outwardly.  
@@ -89,28 +89,28 @@ v19–20: The “spirits in prison” and the days of Noah are presented without
 v21: Baptism is clarified by negation (“not…”) and redefinition. The focus falls on relational appeal and resurrection rather than physical washing.  
 v22: The final image is one of exaltation and subjection. Authority is universalized, yet grounded in the risen Christ.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ὑποτάσσω (hypotassō)  
+v01: ὑποτάσσω (hypotassō)  
 “To be subject.” The term denotes ordered relationship rather than inherent inferiority.  
 
-v3: κόσμος (kosmos)  
+v03: κόσμος (kosmos)  
 “Adorning” or “arrangement.” The word can refer to ornamentation or ordered appearance.  
 
-v4: ἄφθαρτος (aphthartos)  
+v04: ἄφθαρτος (aphthartos)  
 “Imperishable.” A key term for what is not subject to decay or loss.  
 
-v7: σκεῦος (skeuos)  
+v07: σκεῦος (skeuos)  
 “Vessel.” A metaphor for embodied existence, here qualified as “weaker” without full explanation.  
 
-v7: συγκληρονόμος (synklēronomos)  
+v07: συγκληρονόμος (synklēronomos)  
 
-v7: “Co-heir.” Emphasizes shared inheritance and status.  
+v07: “Co-heir.” Emphasizes shared inheritance and status.  
 
-v8: συμπαθής (sympathēs)  
+v08: συμπαθής (sympathēs)  
 “Sympathetic.” Literally “suffering with,” indicating shared feeling.  
 
-v9: εὐλογέω (eulogeō)  
+v09: εὐλογέω (eulogeō)  
 “To bless.” Speech that invokes good rather than returns harm.  
 
 v12: πρόσωπον (prosōpon)  
@@ -134,8 +134,3 @@ v21: ἐπερώτημα (eperōtēma)
 v22: ὑποτάσσω (hypotassō)  
 “To subject.” Reappears here in relation to cosmic powers under Christ’s authority.  
 
-v08: συμπαθής (sympathēs)
-“Sympathetic.” Literally “suffering with,” indicating shared feeling.
-
-v09: εὐλογέω (eulogeō)
-“To bless.” Speech that invokes good rather than returns harm.

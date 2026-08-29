@@ -79,7 +79,7 @@ v14: The famous promise is addressed specifically to “my people who are called
 v16: God’s “eyes and heart” being at the temple is relational language for attentive presence, not physical containment.
 v20–22: The same temple that signifies divine presence can become a public sign of covenant judgment if the people abandon the LORD.
 
-##Vocabulary
+## Vocabulary
 
 v01: כָּבוֹד (kavod)
 “Glory.” The manifest presence of the LORD.

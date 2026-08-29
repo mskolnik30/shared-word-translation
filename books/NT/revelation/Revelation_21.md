@@ -67,17 +67,17 @@ v26: They will bring into it the glory and the honor of the nations.
 v27: But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb’s book of life.
 </p>
 ## Notes
-v1: The new creation replaces the former; continuity is not explained.
-v1: The absence of the sea signals removal of prior instability.
-v2: The city is described relationally (“as a bride”), not structurally alone.
-v3: Dwelling is mutual; presence defines relationship.
-v4: Suffering is removed through negation rather than transformation described.
-v5: Renewal is declared ongoing (“making”), not only completed.
-v6: “It is done” parallels earlier declarations without repetition of context.
-v6: Gift is given without cost; qualification is not specified.
-v7: Relationship is expressed in covenantal terms.
-v8: Exclusion is listed without gradation; outcome is shared.
-v9–10: The bride and city are identified without separation.
+v01: The new creation replaces the former; continuity is not explained.
+v01: The absence of the sea signals removal of prior instability.
+v02: The city is described relationally (“as a bride”), not structurally alone.
+v03: Dwelling is mutual; presence defines relationship.
+v04: Suffering is removed through negation rather than transformation described.
+v05: Renewal is declared ongoing (“making”), not only completed.
+v06: “It is done” parallels earlier declarations without repetition of context.
+v06: Gift is given without cost; qualification is not specified.
+v07: Relationship is expressed in covenantal terms.
+v08: Exclusion is listed without gradation; outcome is shared.
+v09–10: The bride and city are identified without separation.
 v11: Radiance is described comparatively, not defined.
 v12–14: Twelve-fold structure integrates multiple traditions.
 v15–17: Measurement signifies order; scale exceeds ordinary experience.
@@ -87,33 +87,33 @@ v23: Light is internal, not external.
 v24–26: Nations remain but are reoriented.
 v27: Entry is restricted by identity, not access alone.
 
-##Vocabulary
+## Vocabulary
 
-v1: καινός (kainos)
+v01: καινός (kainos)
 
 “New.” New in kind, not merely in time.
 
-v2: πόλις (polis)
+v02: πόλις (polis)
 
 “City.” Organized dwelling and center of life.
 
-v3: σκηνή (skēnē)
+v03: σκηνή (skēnē)
 
 “Dwelling.” Place of presence.
 
-v4: δάκρυον (dakryon)
+v04: δάκρυον (dakryon)
 
 “Tear.” Expression of suffering, removed here.
 
-v6: πηγή (pēgē)
+v06: πηγή (pēgē)
 
 “Spring.” Source of water.
 
-v7: κληρονομέω (klēronomeō)
+v07: κληρονομέω (klēronomeō)
 
 “To inherit.” To receive as possession.
 
-v8: λίμνη τοῦ πυρός (limnē tou pyros)
+v08: λίμνη τοῦ πυρός (limnē tou pyros)
 
 “Lake of fire.” Final place of judgment.
 
@@ -133,14 +133,3 @@ v27: βιβλίον τῆς ζωῆς (biblion tēs zōēs)
 
 “Book of life.” Record of belonging.
 
-v01: καινός (kainos)
-“New.” New in kind, not merely in time.
-
-v02: πόλις (polis)
-“City.” Organized dwelling and center of life.
-
-v03: σκηνή (skēnē)
-“Dwelling.” Place of presence.
-
-v04: δάκρυον (dakryon)
-“Tear.” Expression of suffering, removed here.

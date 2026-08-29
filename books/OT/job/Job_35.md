@@ -76,7 +76,7 @@ v10: “songs in the night” portrays God as capable of giving praise or hope w
 v14: Elihu tells Job that the case he wants is already before God and that waiting, rather than demanding immediate visibility, is required.
 v15: The Hebrew is difficult, especially the final term translated “arrogance.” TSW preserves the broad sense of Elihu’s claim that delayed judgment has contributed to Job’s bold speech.
 
-##Vocabulary
+## Vocabulary
 
 v02: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Elihu asks whether Job’s claim is just.

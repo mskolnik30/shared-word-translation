@@ -73,76 +73,65 @@ v23: So God subdued Jabin king of Canaan before the sons of Israel on that day.
 v24: And the hand of the sons of Israel pressed harder and harder against Jabin king of Canaan until they cut off Jabin king of Canaan.
 </p>
 ## Notes
-v1–2: The cyclical pattern resumes—apostasy leads to subjugation. “Sold into the hand” frames oppression as covenantal consequence.
-v3: Military superiority (iron chariots) intensifies the imbalance; prolonged oppression provokes renewed dependence.
-v4–5: Deborah’s role is both prophetic and judicial. Authority is exercised in a public, accessible setting.
-v6–7: The command is framed as already given—Barak is being recalled to obedience, not newly commissioned.
-v7: Divine agency governs the outcome; Sisera is “drawn out” into a predetermined defeat.
-v8: Barak’s hesitation ties obedience to presence—he seeks assurance through Deborah.
-v9: The narrative redirects honor. Victory will come, but not in expected form—gender reversal marks divine initiative.
+v01–02: The cyclical pattern resumes—apostasy leads to subjugation. “Sold into the hand” frames oppression as covenantal consequence.
+v03: Military superiority (iron chariots) intensifies the imbalance; prolonged oppression provokes renewed dependence.
+v04–05: Deborah’s role is both prophetic and judicial. Authority is exercised in a public, accessible setting.
+v06–07: The command is framed as already given—Barak is being recalled to obedience, not newly commissioned.
+v07: Divine agency governs the outcome; Sisera is “drawn out” into a predetermined defeat.
+v08: Barak’s hesitation ties obedience to presence—he seeks assurance through Deborah.
+v09: The narrative redirects honor. Victory will come, but not in expected form—gender reversal marks divine initiative.
 
-##Vocabulary
+## Vocabulary
 
-v1: רַע (raʿ)  
+v01: רַע (raʿ)  
 
 “Evil.” What is contrary to covenantal order.
 
-v2: מָכַר (māḵar)  
+v02: מָכַר (māḵar)  
 
 “To sell.” To hand over into another’s power.
 
-v3: לָחַץ (lāḥaṣ)  
+v03: לָחַץ (lāḥaṣ)  
 
 “To oppress.” To press hard, afflict.
 
-v3: זָעַק (zāʿaq)  
+v03: זָעַק (zāʿaq)  
 
 “To cry out.” To call for help in distress.
 
-v4: נְבִיאָה (neḇîʾāh)  
+v04: נְבִיאָה (neḇîʾāh)  
 
 “Prophetess.” One who speaks for God.
 
-v4: שָׁפַט (šāpaṭ)  
+v04: שָׁפַט (šāpaṭ)  
 
 “To judge.” To govern or decide.
 
-v5: תֹּמֶר (tōmer)  
+v05: תֹּמֶר (tōmer)  
 
 “Palm tree.” Landmark of Deborah’s authority.
 
-v6: צָוָה (ṣāwāh)  
+v06: צָוָה (ṣāwāh)  
 
 “To command.” To give authoritative instruction.
 
-v6: קָבַץ (qāḇaṣ)  
+v06: קָבַץ (qāḇaṣ)  
 
 “To gather.” To assemble for action.
 
-v7: מָשַׁךְ (māšaḵ)  
+v07: מָשַׁךְ (māšaḵ)  
 
 “To draw out.” To pull or lead forth.
 
-v7: נָתַן (nāṯan)  
+v07: נָתַן (nāṯan)  
 
 “To give.” To deliver into someone’s hand.
 
-v8: הָלַךְ (hālaḵ)  
+v08: הָלַךְ (hālaḵ)  
 
 “To go.” To proceed or act.
 
-v9: תִּפְאֶרֶת (tip̄ʾereṯ)  
+v09: תִּפְאֶרֶת (tip̄ʾereṯ)  
 
 “Glory/honor.” Public recognition or renown.
 
-v01: רַע (raʿ)
-“Evil.” What is contrary to covenantal order.
-
-v02: מָכַר (māḵar)
-“To sell.” To hand over into another’s power.
-
-v06: צָוָה (ṣāwāh)
-“To command.” To give authoritative instruction.
-
-v09: תִּפְאֶרֶת (tip̄ʾereṯ)
-“Glory/honor.” Public recognition or renown.

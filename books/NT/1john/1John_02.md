@@ -109,14 +109,14 @@ v28: And now, little children, abide in him, so that when he appears we may have
 v29: If you know that he is righteous, you may be sure that everyone who practices righteousness has been born of him.
 </p>
 ## Notes
-v1: The purpose of writing is preventative, not reactive.  
-v1: Advocacy is relational, not procedural.  
-v2: Scope extends beyond the immediate group.  
-v3–5: Knowledge is demonstrated through obedience, not assertion.  
-v6: Walking is patterned after prior example.  
-v7–8: Old and new are held together without resolution.  
-v8: Light is already present, not future only.  
-v9–11: Love and hate function as indicators of position.  
+v01: The purpose of writing is preventative, not reactive.  
+v01: Advocacy is relational, not procedural.  
+v02: Scope extends beyond the immediate group.  
+v03–05: Knowledge is demonstrated through obedience, not assertion.  
+v06: Walking is patterned after prior example.  
+v07–08: Old and new are held together without resolution.  
+v08: Light is already present, not future only.  
+v09–11: Love and hate function as indicators of position.  
 v11: Darkness affects perception, not only location.  
 v12–14: Repetition reinforces identity rather than progression.  
 v15–17: The world is defined by its desires, not its structure.  
@@ -128,31 +128,31 @@ v24–25: Abiding sustains promise, not initiates it.
 v26–27: Teaching is internalized rather than externalized.  
 v28–29: Confidence is tied to abiding, not achievement.  
 
-##Vocabulary
+## Vocabulary
 
-v1: παράκλητος (paraklētos)  
+v01: παράκλητος (paraklētos)  
 
-v1: “Advocate.” One who speaks on behalf of another.  
+v01: “Advocate.” One who speaks on behalf of another.  
 
-v2: ἱλασμός (hilasmos)  
+v02: ἱλασμός (hilasmos)  
 
-v2: “Atoning sacrifice.” Means of dealing with sin.  
+v02: “Atoning sacrifice.” Means of dealing with sin.  
 
-v3: γινώσκω (ginōskō)  
+v03: γινώσκω (ginōskō)  
 
-v3: “To know.” Relational understanding.  
+v03: “To know.” Relational understanding.  
 
-v5: τελειόω (teleioō)  
+v05: τελειόω (teleioō)  
 
-v5: “To perfect.” To bring to completion.  
+v05: “To perfect.” To bring to completion.  
 
-v6: περιπατέω (peripateō)  
+v06: περιπατέω (peripateō)  
 
-v6: “To walk.” To live or act.  
+v06: “To walk.” To live or act.  
 
-v8: φῶς (phōs)  
+v08: φῶς (phōs)  
 
-v8: “Light.” Source of truth and life.  
+v08: “Light.” Source of truth and life.  
 
 v11: σκοτία (skotia)  
 

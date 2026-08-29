@@ -467,7 +467,7 @@ v58: The clause concerning Babylon’s wall has textual and lexical difficulties
 v59: Seraiah’s title is rare and may mean quartermaster, lodging official, or another court function. TSW uses “quartermaster” while leaving the uncertainty in the note.
 v63–64: The sinking scroll is an enacted prophetic sign: the written judgment against Babylon is physically joined to the image of the empire sinking beyond recovery.
 
-##Vocabulary
+## Vocabulary
 
 v01: לֵב קָמָי (Lev-Qamai)
 “Leb-Kamai.” A cryptic designation commonly understood as Chaldea through atbash substitution.

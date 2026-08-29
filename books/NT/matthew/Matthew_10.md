@@ -125,10 +125,10 @@ v41: The one who receives a prophet because he is a prophet will receive a proph
 v42: And whoever gives one of these little ones even a cup of cold water because he is a disciple, truly, I tell you, he will by no means lose his reward.”
 </p>
 ## Notes
-v1: Authority is delegated, not inherent to the disciples; it mirrors Jesus’ own activity.  
-v5–6: The mission is initially restricted, emphasizing sequence rather than exclusion.  
-v7: Proclamation centers on nearness, not systematized teaching.  
-v8: Gift and giving are held together; reception determines distribution.  
+v01: Authority is delegated, not inherent to the disciples; it mirrors Jesus’ own activity.  
+v05–06: The mission is initially restricted, emphasizing sequence rather than exclusion.  
+v07: Proclamation centers on nearness, not systematized teaching.  
+v08: Gift and giving are held together; reception determines distribution.  
 v10: Dependence replaces self-sufficiency; provision is relational, not stored.  
 v13: Peace is depicted as transferable yet reversible, not static.  
 v16: Wisdom and innocence are paired without synthesis; tension is maintained.  
@@ -144,15 +144,15 @@ v38: The cross is introduced prior to the narrative of crucifixion; meaning prec
 v39: Loss and finding are inversely structured; identity is reconfigured through surrender.  
 v40: Representation is layered; reception of messengers participates in divine reception.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐξουσία (*exousia*) — “Authority.” Delegated power aligned with mission.  
+v01: ἐξουσία (*exousia*) — “Authority.” Delegated power aligned with mission.  
 
-v6: πρόβατα ἀπολωλότα (*probata apolōlota*) — “Lost sheep.” Image of misdirection rather than absence.  
+v06: πρόβατα ἀπολωλότα (*probata apolōlota*) — “Lost sheep.” Image of misdirection rather than absence.  
 
-v7: ἤγγικεν (*ēngiken*) — “Has drawn near.” Perfect tense indicating present reality.  
+v07: ἤγγικεν (*ēngiken*) — “Has drawn near.” Perfect tense indicating present reality.  
 
-v8: δωρεάν (*dōrean*) — “Freely.” Without cost; emphasizes gift.  
+v08: δωρεάν (*dōrean*) — “Freely.” Without cost; emphasizes gift.  
 
 v10: ἄξιος (*axios*) — “Worthy.” Relational fitness, not merit accumulation.  
 

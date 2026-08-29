@@ -61,19 +61,19 @@ v18: Aram fled before Israel, and David killed from Aram seven thousand chariot 
 v19: When Hadadezer’s servants saw that they had been defeated before Israel, they made peace with David and served him. And Aram was unwilling to save the Ammonites any longer.
 </p>
 ## Notes
-v2: “Kindness” translates *ḥesed*, a term that can describe loyal, faithful action within a relationship. David presents his embassy as a response to past goodwill, not as an act of aggression.  
-v3: The officials recast an embassy of comfort as reconnaissance. Their three verbs—“search out, overthrow, and spy out”—intensify their suspicion and propel the conflict.  
-v4: Cutting the garments “at the middle, at their buttocks” makes the public humiliation explicit. David’s response in v5 recognizes both the men’s shame and the need for time before they return.  
-v6: “They had become hateful to David” literally conveys that the Ammonites had made themselves offensive or repugnant to him. They recognize that their treatment of David’s servants has ruptured relations.  
+v02: “Kindness” translates *ḥesed*, a term that can describe loyal, faithful action within a relationship. David presents his embassy as a response to past goodwill, not as an act of aggression.  
+v03: The officials recast an embassy of comfort as reconnaissance. Their three verbs—“search out, overthrow, and spy out”—intensify their suspicion and propel the conflict.  
+v04: Cutting the garments “at the middle, at their buttocks” makes the public humiliation explicit. David’s response in v5 recognizes both the men’s shame and the need for time before they return.  
+v06: “They had become hateful to David” literally conveys that the Ammonites had made themselves offensive or repugnant to him. They recognize that their treatment of David’s servants has ruptured relations.  
 v13: Joab’s call combines military resolve with trust in the LORD’s freedom: “the LORD will do what is good in his eyes.” The outcome is entrusted to God without diminishing the people’s responsibility to act courageously.  
 v18: The Hebrew reads “seven thousand chariot troops” and “forty thousand foot soldiers.” The large figures and the designation of the first group differ from the parallel account in 2 Samuel 10, reflecting the distinct wording preserved here.  
 
-##Vocabulary
+## Vocabulary
 
-v2: חֶסֶד (*ḥesed*)  
+v02: חֶסֶד (*ḥesed*)  
 — “kindness.” David’s intended action toward Hanun is rooted in remembered loyalty between their fathers, setting the later suspicion in sharp contrast.  
 
-v6: הִתְבָּאֲשׁוּ (*hitbaʾăšû*)  
+v06: הִתְבָּאֲשׁוּ (*hitbaʾăšû*)  
 — “they had become hateful.” The Ammonites recognize that their act of humiliation has made them abhorrent to David and has brought them into danger.  
 
 v12: תְּשׁוּעָה (tĕšûʿâ)

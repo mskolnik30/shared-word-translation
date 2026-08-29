@@ -98,7 +98,7 @@ v13: The figure 666 is simply the annual gold total in this narrative and is not
 v21: “Ships of Tarshish” may refer to a type of long-distance trading vessel rather than ships whose destination was always Tarshish.
 v29: Chronicles cites prophetic records not preserved as separate biblical books.
 
-##Vocabulary
+## Vocabulary
 
 v01: חִידָה (chidah)
 “Difficult question” or riddle.

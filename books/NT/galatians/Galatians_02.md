@@ -73,12 +73,12 @@ v20: I have been crucified with Christ; and it is no longer I who live, but Chri
 v21: I do not set aside the grace of God; for if righteousness comes through the law, then Christ died for nothing.
 </p>
 ## Notes
-v1–2: Paul’s return to Jerusalem is both divinely prompted (“according to a revelation”) and strategically executed (“privately”). Public mission and private discernment are held together.  
-v3: Titus functions as a test case. His uncircumcised status becomes a concrete instance of the theological question.  
-v4–5: “Freedom” and “enslavement” frame the conflict. The refusal to yield preserves “the truth of the good news” for the community.  
-v6: Paul relativizes status (“those who seemed to be something”) without denying their role. Divine impartiality governs evaluation.  
-v7–8: Parallel commissions are affirmed. Unity does not require uniformity of mission.  
-v9: Recognition is mutual and enacted through fellowship. “Grace given” is the basis, not institutional rank.  
+v01–02: Paul’s return to Jerusalem is both divinely prompted (“according to a revelation”) and strategically executed (“privately”). Public mission and private discernment are held together.  
+v03: Titus functions as a test case. His uncircumcised status becomes a concrete instance of the theological question.  
+v04–05: “Freedom” and “enslavement” frame the conflict. The refusal to yield preserves “the truth of the good news” for the community.  
+v06: Paul relativizes status (“those who seemed to be something”) without denying their role. Divine impartiality governs evaluation.  
+v07–08: Parallel commissions are affirmed. Unity does not require uniformity of mission.  
+v09: Recognition is mutual and enacted through fellowship. “Grace given” is the basis, not institutional rank.  
 v10: “Remember the poor” stands as the only stated requirement, linking gospel proclamation to material concern.  
 v11: Confrontation is direct and public. Authority does not exempt from correction.  
 v12: Cephas’s withdrawal is attributed to fear, not conviction. Social pressure shapes behavior.  
@@ -90,35 +90,35 @@ v19: “Died to the law through the law” compresses paradox. The law participa
 v20: Identity is reconfigured. The self is not erased but redefined in relation to Christ.  
 v21: The logic is final and stark. If righteousness comes through the law, Christ’s death is emptied of purpose.  
 
-##Vocabulary
+## Vocabulary
 
-v2: ἀνατίθημι (anatithēmi)  
+v02: ἀνατίθημι (anatithēmi)  
 
-v2: “To set before.” To present for consideration.  
+v02: “To set before.” To present for consideration.  
 
-v4: παρεισάγω (pareisagō)  
+v04: παρεισάγω (pareisagō)  
 
-v4: “To bring in secretly.” Introducing something covertly.  
+v04: “To bring in secretly.” Introducing something covertly.  
 
-v4: κατασκοπέω (kataskopeō)  
+v04: κατασκοπέω (kataskopeō)  
 
-v4: “To spy out.” To observe with intent to control.  
+v04: “To spy out.” To observe with intent to control.  
 
-v4: ἐλευθερία (eleutheria)  
+v04: ἐλευθερία (eleutheria)  
 
-v4: “Freedom.” Release from constraint or obligation.  
+v04: “Freedom.” Release from constraint or obligation.  
 
-v5: ὑποτάσσω (hypotassō)  
+v05: ὑποτάσσω (hypotassō)  
 
-v5: “To submit.” To place oneself under authority.  
+v05: “To submit.” To place oneself under authority.  
 
-v6: προσωπολημψία (prosōpolēmpsia)  
+v06: προσωπολημψία (prosōpolēmpsia)  
 
-v6: “Partiality.” Favoring based on status or appearance.  
+v06: “Partiality.” Favoring based on status or appearance.  
 
-v9: κοινωνία (koinōnia)  
+v09: κοινωνία (koinōnia)  
 
-v9: “Fellowship.” Shared participation or partnership.  
+v09: “Fellowship.” Shared participation or partnership.  
 
 v13: ὑπόκρισις (hypokrisis)  
 

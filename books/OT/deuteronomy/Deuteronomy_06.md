@@ -94,7 +94,7 @@ v13: Fear, service, and oath-taking are directed to the LORD alone in the immedi
 v16: Massah recalls Israel’s testing of the LORD over water in Exodus 17.
 v20–25: Catechesis begins with a child’s question and answers with narrative: slavery, exodus, signs, gift of land, and then commandment.
 
-##Vocabulary
+## Vocabulary
 
 v04: שְׁמַע (shema)
 “Hear.” Listening that implies attention and obedience.

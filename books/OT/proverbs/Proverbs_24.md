@@ -203,7 +203,7 @@ and your need
 like an armed warrior.
 </p>
 ## Notes
-v3–4: The “house” can refer to a physical household as well as the broader life established within it. Wisdom builds stability that knowledge then fills.  
+v03–04: The “house” can refer to a physical household as well as the broader life established within it. Wisdom builds stability that knowledge then fills.  
 v11–12: Ignorance cannot always function as moral refuge. The one who weighs hearts knows whether indifference has been disguised as lack of knowledge.  
 v16: “Seven times” expresses repeated or complete adversity. Righteousness is characterized not by never falling but by rising again.  
 v17–18: Wisdom rejects delight in an enemy’s collapse even when the enemy has acted wrongly.  
@@ -212,15 +212,15 @@ v23–25: Calling wickedness righteous is itself an injustice extending beyond t
 v27: Productive foundations should precede expansion of household obligations.  
 v30–34: The learner does not need a speech from the lazy landowner. The neglected field itself becomes a teacher.  
 
-##Vocabulary
+## Vocabulary
 
-v3: בָּנָה (banah)  
+v03: בָּנָה (banah)  
 “To build.” Used literally and metaphorically for establishing a household.  
 
-v6: תַּחְבֻּלוֹת (tachbulot)  
+v06: תַּחְבֻּלוֹת (tachbulot)  
 “Wise guidance” or “strategy.” Counsel appropriate for difficult undertakings.  
 
-v8: בַּעַל מְזִמּוֹת (baal mezimmot)  
+v08: בַּעַל מְזִמּוֹת (baal mezimmot)  
 “Schemer.” One characterized by plans directed toward evil.  
 
 v11: לָקַח (laqach)  
@@ -238,8 +238,3 @@ v23: נָכַר פָּנִים (nakhar panim)
 v34: רֵישׁ (resh)  
 “Poverty.” Material lack arriving through sustained neglect.  
 
-v03: בָּנָה (banah)
-“To build.” Used literally and metaphorically for establishing a household.
-
-v06: תַּחְבֻּלוֹת (tachbulot)
-“Wise guidance” or “strategy.” Counsel appropriate for difficult undertakings.

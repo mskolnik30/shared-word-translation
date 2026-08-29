@@ -81,7 +81,7 @@ v17: The firstborn receives a double portion as the “first of his strength.”
 v18–21: The law concerning the rebellious son is extremely severe and belongs to ancient Israel’s covenantal legal order. The parents cannot privately execute him; the case must go to city elders and the community.
 v23: The corpse must be removed the same day so that execution does not continue as prolonged public defilement of the land.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָלָל (chalal)
 “Slain person.” One found killed in the field.

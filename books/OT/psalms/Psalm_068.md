@@ -173,14 +173,14 @@ the God of Israel—he gives power and strength to his people.
 Blessed be God.
 </p>
 ## Notes
-v1–3: The opening echoes traditional battle language. Divine arising results immediately in scattering, without narrative delay.  
-v2: The paired images (smoke, wax) emphasize transience and inevitability rather than struggle.  
-v4: “Rides through the deserts” preserves imagery of divine mobility, not confinement to cultivated space.  
-v5–6: God’s kingship is expressed through social reversal—care for the vulnerable and relocation of the isolated.  
-v6: Prosperity and desolation are held together without explanation. The rebellious are not integrated into the blessing.  
-v7–8: The wilderness tradition is recalled with cosmic effects—earthquake and storm—linking history and creation imagery.  
-v8: “This Sinai” is abrupt and compressed, preserving the density of the Hebrew.  
-v9–10: Provision is described as restoration of what had languished. Divine care is both sustaining and renewing.  
+v01–03: The opening echoes traditional battle language. Divine arising results immediately in scattering, without narrative delay.  
+v02: The paired images (smoke, wax) emphasize transience and inevitability rather than struggle.  
+v04: “Rides through the deserts” preserves imagery of divine mobility, not confinement to cultivated space.  
+v05–06: God’s kingship is expressed through social reversal—care for the vulnerable and relocation of the isolated.  
+v06: Prosperity and desolation are held together without explanation. The rebellious are not integrated into the blessing.  
+v07–08: The wilderness tradition is recalled with cosmic effects—earthquake and storm—linking history and creation imagery.  
+v08: “This Sinai” is abrupt and compressed, preserving the density of the Hebrew.  
+v09–10: Provision is described as restoration of what had languished. Divine care is both sustaining and renewing.  
 v11–12: The “word” produces proclamation. Military defeat is announced in language that collapses battle and report.  
 v12: Women dividing spoil reflects traditional victory scenes, without commentary.  
 v13: The imagery shifts abruptly (sheepfolds, dove), retaining poetic compression rather than clarifying transitions.  
@@ -196,27 +196,27 @@ v30: Animal imagery (“beast,” “bulls”) functions metaphorically for poli
 v31: Egypt and Cush represent distant nations drawn into acknowledgment of God.  
 v32–35: The closing summons returns to universal praise. God’s transcendence (“ancient heavens”) and immediacy (“gives power”) are held together.  
 
-##Vocabulary
+## Vocabulary
 
-v1: קוּם (qum)  
+v01: קוּם (qum)  
 “To arise.” Often signals divine action in judgment or deliverance.  
 
-v2: נָדַף (nadaph)  
+v02: נָדַף (nadaph)  
 “To drive away.” Used for dispersing or scattering.  
 
-v4: רָכַב (rakhav)  
+v04: רָכַב (rakhav)  
 “To ride.” Frequently used of divine movement across heavens or wilderness.  
 
-v5: אָב (ʾav)  
+v05: אָב (ʾav)  
 “Father.” Here extended metaphorically to protector of the vulnerable.  
 
-v6: יָשַׁב (yashav)  
+v06: יָשַׁב (yashav)  
 “To settle” or “to cause to dwell.” Indicates establishment in a place.  
 
-v7: יָצָא (yatsaʾ)  
+v07: יָצָא (yatsaʾ)  
 “To go out.” Often used for divine leading in exodus contexts.  
 
-v8: רָעַשׁ (raʿash)  
+v08: רָעַשׁ (raʿash)  
 “To quake.” Describes trembling of the earth.  
 
 v11: דָּבָר (davar)  
@@ -243,14 +243,3 @@ v33: נָתַן קוֹל (natan qol)
 v35: עֹז (ʿoz)  
 “Strength.” A recurring term for divine power given to the people.  
 
-v01: קוּם (qum)
-“To arise.” Often signals divine action in judgment or deliverance.
-
-v02: נָדַף (nadaph)
-“To drive away.” Used for dispersing or scattering.
-
-v04: רָכַב (rakhav)
-“To ride.” Frequently used of divine movement across heavens or wilderness.
-
-v05: אָב (ʾav)
-“Father.” Here extended metaphorically to protector of the vulnerable.

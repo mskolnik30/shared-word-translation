@@ -75,7 +75,7 @@ v10: The surplus is interpreted as evidence of divine blessing rather than ineff
 v18: Households are included in the distribution system, reflecting the economic realities of priestly and Levitical service.
 v21: The chapter summarizes Hezekiah through whole-hearted seeking expressed in temple service, Torah, and commandment.
 
-##Vocabulary
+## Vocabulary
 
 v02: מַחֲלֹקֶת (machaloqet)
 “Division.” An organized priestly or Levitical group.

@@ -61,34 +61,34 @@ for his wrath is quickly kindled.
 Blessed are all who take refuge in him.
 </p>
 ## Notes
-v1–3: Human resistance is collective and deliberate, yet described as futile.  
-v4–6: Divine response is not reactive but sovereign—God has already established his king.  
-v7–9: The “son” language introduces royal identity tied to divine authority.  
-v8: Dominion is universal, extending to the ends of the earth.  
+v01–03: Human resistance is collective and deliberate, yet described as futile.  
+v04–06: Divine response is not reactive but sovereign—God has already established his king.  
+v07–09: The “son” language introduces royal identity tied to divine authority.  
+v08: Dominion is universal, extending to the ends of the earth.  
 v10–12: The psalm shifts to exhortation—political power is called to submission.  
 v12: Refuge, not resistance, is the path to blessing.  
 
-##Vocabulary
+## Vocabulary
 
-v1: רָגַשׁ (ragash)  
+v01: רָגַשׁ (ragash)  
 “To rage.” Be in tumult.  
 
-v1: הָגָה (hagah)  
+v01: הָגָה (hagah)  
 “To plot.” Meditate or scheme.  
 
-v2: מָשִׁיחַ (mashiach)  
+v02: מָשִׁיחַ (mashiach)  
 “Anointed.” One set apart.  
 
-v4: שָׂחַק (sachaq)  
+v04: שָׂחַק (sachaq)  
 “To laugh.” Express derision.  
 
-v6: נָסַךְ (nasakh)  
+v06: נָסַךְ (nasakh)  
 “To install.” Set in place.  
 
-v7: יָלַד (yalad)  
+v07: יָלַד (yalad)  
 “To beget.” Bring forth.  
 
-v9: רָעַע (ra‘a)  
+v09: רָעַע (ra‘a)  
 “To break.” Smash or shatter.  
 
 v11: יָרֵא (yare)  
@@ -97,14 +97,3 @@ v11: יָרֵא (yare)
 v12: חָסָה (chasah)  
 “To take refuge.” Seek protection.  
 
-v01: רָגַשׁ (ragash)
-“To rage.” Be in tumult.
-
-v01: הָגָה (hagah)
-“To plot.” Meditate or scheme.
-
-v02: מָשִׁיחַ (mashiach)
-“Anointed.” One set apart.
-
-v04: שָׂחַק (sachaq)
-“To laugh.” Express derision.

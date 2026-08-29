@@ -170,7 +170,7 @@ v19: “burial of a donkey” is an image of denied royal honor and exposure out
 v24: Coniah is another form of the name Jehoiachin. The image of a signet ring communicates extraordinary closeness and value before the abrupt declaration of removal.
 v30: “childless” does not mean Coniah had no biological children; the verse explains the term through the failure of his descendants to prosper as reigning Davidic kings in Judah.
 
-##Vocabulary
+## Vocabulary
 
 v03: צְדָקָה (tsedaqah)
 “Righteousness.” Right conduct within covenant and community.

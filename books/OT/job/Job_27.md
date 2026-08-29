@@ -95,7 +95,7 @@ v06: Job’s claim is not that he has never sinned in any sense, but that his co
 v13–23: The speech suddenly sounds similar to the friends’ descriptions of the wicked. Some scholars have proposed displaced text or another speaker, but the received text assigns the discourse to Job. TSW preserves that arrangement.
 v18: The comparison may be to a moth’s fragile structure or to the temporary shelter of a watchman. Both emphasize instability.
 
-##Vocabulary
+## Vocabulary
 
 v02: מִשְׁפָּט (mishpat)
 “Justice” or “case.” Job says God has taken away his justice.

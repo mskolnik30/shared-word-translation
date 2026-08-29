@@ -193,7 +193,7 @@ v30–31: Praise and thanksgiving are presented as more pleasing to the LORD tha
 v32–33: The psalmist’s deliverance widens into encouragement for the humble and those who seek God. Personal lament becomes communal hope.
 v35–36: The conclusion expands beyond the individual psalmist to Zion, Judah, and the descendants of God’s servants. Restoration is described in terms of dwelling, inheritance, and continuing belonging.
 
-##Vocabulary
+## Vocabulary
 
 v02: יָוֵן (yaven)
 “Mire” or “mud.” Deep, unstable ground in which a person sinks and cannot find secure footing.

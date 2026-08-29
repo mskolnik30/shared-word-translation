@@ -128,9 +128,9 @@ v18: *Parbar* is a location or structure associated with the western side of the
 v26–28: The treasuries include things dedicated by David and other leaders, including goods from war and spoil. These materials are presented as consecrated for strengthening the house of the LORD.
 v29–32: Levitical service extends beyond temple gates and treasuries into public administration. Their work concerns both “every matter of God” and “every matter of the king,” holding religious and royal responsibilities together without collapsing them.
 
-##Vocabulary
+## Vocabulary
 
-v1: - **v1: מַחֲלֹקֶת (*maḥăloqet*)** — “division.” The term frames the chapter’s ordered distribution of gatekeeping, treasury, and administrative responsibilities.  
+v01: - **v1: מַחֲלֹקֶת (*maḥăloqet*)** — “division.” The term frames the chapter’s ordered distribution of gatekeeping, treasury, and administrative responsibilities.  
 
 v12: מִשְׁמֶרֶת (mishmeret)
 “duty,” “charge,” or “watch.” Here it describes an assigned responsibility in the house of the LORD, not merely standing guard.

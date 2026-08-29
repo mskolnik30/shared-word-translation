@@ -58,7 +58,7 @@ v05: The bronze altar links Solomon’s worship with Bezalel’s wilderness craf
 v10: “go out and come in” is an idiom for active leadership.
 v16: “Kue” probably refers to Cilicia. The exact ancient trade arrangement is debated.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָזַק (chazaq)
 “To strengthen.” Solomon becomes firmly established.

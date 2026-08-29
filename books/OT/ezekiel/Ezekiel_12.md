@@ -48,13 +48,13 @@ v27: "Son of man, behold, the house of Israel is saying, 'The vision that he see
 v28: Therefore say to them, 'Thus says the LORD GOD: None of my words will be delayed any longer, but the word that I speak will be fulfilled, declares the LORD GOD.'"
 </p>
 ## Notes
-v1: **v1**: "The word of the LORD came to me" introduces a common prophetic formula, indicating divine revelation.  
-v2–3: **v2-3**: Ezekiel's ministry takes place among a "rebellious house," emphasizing Israel's persistent disobedience. His actions are performed "in their sight" to serve as a sign.  
+v01: **v1**: "The word of the LORD came to me" introduces a common prophetic formula, indicating divine revelation.  
+v02–03: **v2-3**: Ezekiel's ministry takes place among a "rebellious house," emphasizing Israel's persistent disobedience. His actions are performed "in their sight" to serve as a sign.  
 v10: **v10**: "This burden concerns the prince in Jerusalem" points to the symbolic act addressing leadership, specifically the ruler or king.  
 v16: **v16**: The survival of "a few of them" illustrates God's mercy, leaving a remnant who will testify to the nations.  
 v22–23: **v22-23**: The proverb being repealed suggests that doubt in prophetic fulfillment had become widespread, but God assures that His word will be fulfilled imminently.  
 
-##Vocabulary
+## Vocabulary
 
 v10: **v10**: אֲדֹנָי יְהֹוִה (a.do.nai ye.ho.vih) — Often translated "Lord GOD," this phrase underscores divine authority and sovereignty.  
 

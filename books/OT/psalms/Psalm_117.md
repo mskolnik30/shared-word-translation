@@ -14,9 +14,9 @@ v02: For great over us is God’s steadfast love,
 and the faithfulness of the LORD endures forever.
 Praise the LORD!
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v02: גָּבַר (gavar)
 “Be strong” or “prevail.” Here steadfast love is not merely abundant; it is pictured as powerful over and for the people.

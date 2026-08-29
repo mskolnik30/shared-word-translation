@@ -120,7 +120,7 @@ v31: The Hebrew wording can refer to “whatever” or “whoever” comes out a
 v35: Jephthah blames the situation upon his daughter’s appearance even though the vow was his own. The narrative preserves this displacement of responsibility.
 v39: The text states that Jephthah did according to his vow and emphasizes that his daughter had known no man. Interpretations that understand dedication rather than death have been proposed, but the straightforward narrative movement strongly supports the tragic force of the vow. TSW preserves the wording without adding an explanatory resolution.
 
-##Vocabulary
+## Vocabulary
 
 v01: גִּבּוֹר חַיִל (gibbor chayil)
 “Mighty warrior.” A person of strength or military ability.

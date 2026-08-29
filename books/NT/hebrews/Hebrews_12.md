@@ -85,12 +85,12 @@ v28: Therefore let us be grateful for receiving a kingdom that cannot be shaken,
 v29: for our God is a consuming fire.
 </p>
 ## Notes
-v1–2: The race metaphor frames endurance as ongoing effort.  
-v2: Completion is linked to both suffering and position.  
-v3–4: Comparison moderates perception of struggle.  
-v5–6: Discipline is grounded in relationship.  
-v7–8: Absence of discipline signals lack of belonging.  
-v9–10: Earthly and divine discipline are contrasted.  
+v01–02: The race metaphor frames endurance as ongoing effort.  
+v02: Completion is linked to both suffering and position.  
+v03–04: Comparison moderates perception of struggle.  
+v05–06: Discipline is grounded in relationship.  
+v07–08: Absence of discipline signals lack of belonging.  
+v09–10: Earthly and divine discipline are contrasted.  
 v11: Outcome is delayed but productive.  
 v12–13: Physical imagery represents moral restoration.  
 v14–15: Holiness is necessary for vision of the Lord.  
@@ -103,31 +103,31 @@ v25–27: Warning is intensified through comparison.
 v27: Stability is defined through what remains.  
 v28–29: Worship is grounded in response to permanence.  
 
-##Vocabulary
+## Vocabulary
 
-v1: νέφος (nephos)  
+v01: νέφος (nephos)  
 
-v1: “Cloud.” Surrounding multitude.  
+v01: “Cloud.” Surrounding multitude.  
 
-v1: ἀγών (agōn)  
+v01: ἀγών (agōn)  
 
-v1: “Race.” Contest or struggle.  
+v01: “Race.” Contest or struggle.  
 
-v2: ἀρχηγός (archēgos)  
+v02: ἀρχηγός (archēgos)  
 
-v2: “Founder.” Originator or leader.  
+v02: “Founder.” Originator or leader.  
 
-v2: τελειωτής (teleiōtēs)  
+v02: τελειωτής (teleiōtēs)  
 
-v2: “Perfecter.” One who brings to completion.  
+v02: “Perfecter.” One who brings to completion.  
 
-v5: παιδεία (paideia)  
+v05: παιδεία (paideia)  
 
-v5: “Discipline.” Training or instruction.  
+v05: “Discipline.” Training or instruction.  
 
-v7: υἱός (huios)  
+v07: υἱός (huios)  
 
-v7: “Son.” One in relational standing.  
+v07: “Son.” One in relational standing.  
 
 v11: καρπός (karpos)  
 

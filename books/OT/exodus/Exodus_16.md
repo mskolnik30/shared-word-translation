@@ -104,10 +104,10 @@ v35: The sons of Israel ate the manna forty years, until they came to a habitabl
 v36: Now the omer is a tenth of an ephah.
 </p>
 ## Notes
-v2–3: Grumbling reframes deliverance as loss. Memory is reshaped by hunger.  
-v4: Provision is paired with testing. Obedience is structured into daily dependence.  
-v5: The sixth day introduces rhythm—anticipating Sabbath before Sinai legislation.  
-v7–8: Complaint against leaders is reinterpreted as complaint against the LORD.  
+v02–03: Grumbling reframes deliverance as loss. Memory is reshaped by hunger.  
+v04: Provision is paired with testing. Obedience is structured into daily dependence.  
+v05: The sixth day introduces rhythm—anticipating Sabbath before Sinai legislation.  
+v07–08: Complaint against leaders is reinterpreted as complaint against the LORD.  
 v13–15: Manna is defined by ambiguity (“What is it?”). Naming emerges from encounter.  
 v16–18: Equity is enforced through divine provision—excess and lack are neutralized.  
 v19–21: Hoarding contradicts trust; decay exposes disobedience.  
@@ -117,23 +117,23 @@ v31: Sensory detail grounds memory—taste and appearance anchor the tradition.
 v32–34: Preservation of manna functions as material testimony across generations.  
 v35: Sustenance spans the wilderness period—provision is continuous, not episodic.  
 
-##Vocabulary
+## Vocabulary
 
-v2: לוּן (lûn)  
+v02: לוּן (lûn)  
 
-v2: “To grumble/murmur.” Complaint expressed collectively.  
+v02: “To grumble/murmur.” Complaint expressed collectively.  
 
-v4: מָטַר (māṭar)  
+v04: מָטַר (māṭar)  
 
-v4: “To rain.” To send down from above.  
+v04: “To rain.” To send down from above.  
 
-v4: נָסָה (nāsāh)  
+v04: נָסָה (nāsāh)  
 
-v4: “To test.” To prove or examine fidelity.  
+v04: “To test.” To prove or examine fidelity.  
 
-v7: כָּבוֹד (kāḇôḏ)  
+v07: כָּבוֹד (kāḇôḏ)  
 
-v7: “Glory.” Weighty presence, visible manifestation.  
+v07: “Glory.” Weighty presence, visible manifestation.  
 
 v12: שָׂבַע (śāḇaʿ)
 “To be satisfied.” To be filled to fullness.

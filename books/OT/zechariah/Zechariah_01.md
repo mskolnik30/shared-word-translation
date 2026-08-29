@@ -99,7 +99,7 @@ v16: “a measuring line” — Measuring Jerusalem signifies rebuilding and ren
 v18–21: “horns” — Horns commonly symbolize strength or political power. The vision does not identify the four horns and four craftsmen individually.
 v20: “craftsmen” — The Hebrew term can describe workers in wood, stone, or metal. Their precise activity is less important than their role in bringing down the powers represented by the horns.
 
-##Vocabulary
+## Vocabulary
 
 v03: שׁוּב (shuv)
 “To return” or “turn back.” A major prophetic term that can describe physical return, changed direction, and renewed relationship.

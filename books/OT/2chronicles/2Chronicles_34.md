@@ -105,7 +105,7 @@ v14: Chronicles explicitly calls the discovered scroll “the instruction of the
 v24: Huldah identifies the coming disaster with the written covenant curses, making the discovered book interpret Judah’s history.
 v33: Josiah’s influence holds the people in public loyalty throughout his lifetime, though later chapters show that the reform does not permanently transform Judah.
 
-##Vocabulary
+## Vocabulary
 
 v03: דָּרַשׁ (darash)
 “To seek.”

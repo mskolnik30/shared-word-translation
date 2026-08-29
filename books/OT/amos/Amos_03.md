@@ -118,7 +118,7 @@ v12: “bed in Damascus” is textually difficult. Some understand an ornamental
 v14: The altar horns were sacred projecting corners. Their being cut off signals the destruction of Bethel’s cultic security.
 v15: Winter and summer houses, ivory decoration, and many residences expose elite luxury as part of the social world coming under judgment.
 
-##Vocabulary
+## Vocabulary
 
 v02: יָדַע (yada)
 “To know.” Here covenantal recognition and relationship.

@@ -55,12 +55,12 @@ v24: knowing that from the Lord you will receive the inheritance as your reward.
 v25: For the wrongdoer will be repaid for the wrong they have done, and there is no partiality.
 </p>
 ## Notes
-v1–4: raised / seek / hidden / revealed — Identity is resurrection-shaped: the community’s “location” is with Christ, and present hiddenness will become public glory.  
-v2: “set your mind” — Not escapism, but a re-aimed imagination: habits, priorities, and values are trained by Christ’s reign.  
-v5: “put to death… greed… idolatry” — Sin is treated as lethal, not cute; greed is named as worship-disorder—desire turned into a god.  
-v6–7: “wrath… once walked” — Paul warns without denying the past: the community is not shamed for what was, but called not to live there now.  
-v8: anger cluster / speech sins — Transformation is social: the old self damages others through rage, malice, and mouth.  
-v9–10: “stripped off… put on… being renewed” — The change is both decisive and ongoing: a new identity is donned, yet renewal is continual formation into God’s image.  
+v01–04: raised / seek / hidden / revealed — Identity is resurrection-shaped: the community’s “location” is with Christ, and present hiddenness will become public glory.  
+v02: “set your mind” — Not escapism, but a re-aimed imagination: habits, priorities, and values are trained by Christ’s reign.  
+v05: “put to death… greed… idolatry” — Sin is treated as lethal, not cute; greed is named as worship-disorder—desire turned into a god.  
+v06–07: “wrath… once walked” — Paul warns without denying the past: the community is not shamed for what was, but called not to live there now.  
+v08: anger cluster / speech sins — Transformation is social: the old self damages others through rage, malice, and mouth.  
+v09–10: “stripped off… put on… being renewed” — The change is both decisive and ongoing: a new identity is donned, yet renewal is continual formation into God’s image.  
 v11: “no Greek and Judean… slave and free” — The gospel dismantles hierarchy-as-identity. Distinctions remain socially real, but they no longer determine belonging or worth in the body.  
 v12: “chosen… holy… beloved” — Ethics flow from belovedness: these virtues are not self-improvement but fitting clothing for God’s people.  
 v13: “bear with… forgive… as the Lord forgave” — Forgiveness is patterned on Christ: costly, initiative-taking, and relationally restorative.  
@@ -73,47 +73,47 @@ v20–21: children/fathers — Parents are warned against crushing leadership; d
 v22–24: slaves/masters language — Paul addresses people within an unjust institution without endorsing it as good. The stress falls on dignity, sincerity, and belonging to Christ—yet the larger gospel logic (v11) presses toward a community where slavery cannot be justified.  
 v25: “no partiality” — A final leveling: God’s justice is not swayed by status; wrongdoing is named and answered without favoritism.  
 
-##Vocabulary
+## Vocabulary
 
-v1: συνηγείρω (synegeirō) — to raise up with  
+v01: συνηγείρω (synegeirō) — to raise up with  
 
-v1: ζητέω (zēteō) — to seek  
+v01: ζητέω (zēteō) — to seek  
 
-v1: δεξιὰ (dexia) — right hand (place of honor/authority)  
+v01: δεξιὰ (dexia) — right hand (place of honor/authority)  
 
-v2: φρονέω (phroneō) — to set one’s mind; to be minded toward  
+v02: φρονέω (phroneō) — to set one’s mind; to be minded toward  
 
-v3: κρύπτω (kryptō) — to hide; to conceal  
+v03: κρύπτω (kryptō) — to hide; to conceal  
 
-v4: φανερόω (phaneroō) — to reveal; to make manifest  
+v04: φανερόω (phaneroō) — to reveal; to make manifest  
 
-v5: νεκρόω (nekroō) — to put to death; to mortify  
+v05: νεκρόω (nekroō) — to put to death; to mortify  
 
-v5: πορνεία (porneia) — sexual immorality  
+v05: πορνεία (porneia) — sexual immorality  
 
-v5: ἀκαθαρσία (akatharsia) — impurity  
+v05: ἀκαθαρσία (akatharsia) — impurity  
 
-v5: πάθος (pathos) — passion; disordered desire  
+v05: πάθος (pathos) — passion; disordered desire  
 
-v5: ἐπιθυμία κακή (epithymia kakē) — evil desire; harmful craving  
+v05: ἐπιθυμία κακή (epithymia kakē) — evil desire; harmful craving  
 
-v5: πλεονεξία (pleonexia) — greed; grasping  
+v05: πλεονεξία (pleonexia) — greed; grasping  
 
-v5: εἰδωλολατρία (eidōlolatria) — idolatry  
+v05: εἰδωλολατρία (eidōlolatria) — idolatry  
 
-v6: ὀργή (orgē) — wrath; settled anger  
+v06: ὀργή (orgē) — wrath; settled anger  
 
-v8: θυμός (thymos) — rage; outburst  
+v08: θυμός (thymos) — rage; outburst  
 
-v8: κακία (kakia) — malice; ill-will  
+v08: κακία (kakia) — malice; ill-will  
 
-v8: βλασφημία (blasphēmia) — slander; abusive speech  
+v08: βλασφημία (blasphēmia) — slander; abusive speech  
 
-v8: αἰσχρολογία (aischrologia) — filthy talk; shameful speech  
+v08: αἰσχρολογία (aischrologia) — filthy talk; shameful speech  
 
-v9: ψεύδομαι (pseudomai) — to lie  
+v09: ψεύδομαι (pseudomai) — to lie  
 
-v9: ἀπεκδύομαι (apekdyomai) — to strip off; to take off (clothing metaphor)  
+v09: ἀπεκδύομαι (apekdyomai) — to strip off; to take off (clothing metaphor)  
 
 v10: ἐνδύω (endyō) — to put on; to clothe  
 

@@ -109,7 +109,7 @@ v24: The sacrifices are said to make atonement for “all Israel,” reflecting 
 v25: Temple music is grounded in prophetic as well as Davidic authority.
 v34: Chronicles unexpectedly says the Levites were more upright in heart than the priests in consecrating themselves.
 
-##Vocabulary
+## Vocabulary
 
 v05: קָדַשׁ (qadash)
 “To consecrate.”

@@ -86,7 +86,7 @@ v07–09: Zophar’s language about the unsearchable dimensions of divine wisdom
 v12: The proverb is deliberately absurd: an empty person becoming wise is compared with a wild donkey’s colt being born human.
 v13–20: Zophar offers restoration if Job repents, assuming that Job’s present suffering can be reversed through confession of wrongdoing Zophar has not demonstrated.
 
-##Vocabulary
+## Vocabulary
 
 v02: שְׂפָתַיִם (sefatayim)
 “Lips.” In the idiom, a person of lips is one characterized by abundant speech.

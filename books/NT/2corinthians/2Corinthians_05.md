@@ -71,10 +71,10 @@ v20: Therefore we are ambassadors for Christ, since God is making an appeal thro
 v21: The one who knew no sin, God made to be sin for us, so that in him we might become the righteousness of God.
 </p>
 ## Notes
-v1–3: The contrast between “tent” and “building” frames mortality and permanence. The language remains metaphorical rather than descriptive.  
-v4: Paul clarifies that the desire is not disembodiment but transformation. “Swallowed up by life” emphasizes completion, not escape.  
-v5: The Spirit is again described as a “first pledge,” linking present experience to future fulfillment.  
-v6–8: Confidence coexists with absence. Presence with the Lord is desired, but life in the body remains the present condition.  
+v01–03: The contrast between “tent” and “building” frames mortality and permanence. The language remains metaphorical rather than descriptive.  
+v04: Paul clarifies that the desire is not disembodiment but transformation. “Swallowed up by life” emphasizes completion, not escape.  
+v05: The Spirit is again described as a “first pledge,” linking present experience to future fulfillment.  
+v06–08: Confidence coexists with absence. Presence with the Lord is desired, but life in the body remains the present condition.  
 v10: Judgment is stated plainly and universally. Paul does not elaborate criteria, leaving the tension intact.  
 v11: “Fear of the Lord” functions as motivation for persuasion, not as private piety alone.  
 v12: The issue of boasting is reframed as a defense against superficial measures of authority.  
@@ -86,23 +86,23 @@ v18–19: Reconciliation is initiated by God and extended outward. The community
 v20: The language of ambassadorship emphasizes representation. The appeal is God’s, mediated through human speech.  
 v21: The exchange is stated starkly. Paul does not explain how this occurs, preserving the density of the claim.  
 
-##Vocabulary
+## Vocabulary
 
-v1: σκῆνος (skēnos)  
+v01: σκῆνος (skēnos)  
 
-v1: “Tent.” A temporary dwelling, emphasizing fragility and transience.  
+v01: “Tent.” A temporary dwelling, emphasizing fragility and transience.  
 
-v4: καταπίνω (katapinō)  
+v04: καταπίνω (katapinō)  
 
-v4: “To swallow up.” Suggests being overtaken or absorbed completely.  
+v04: “To swallow up.” Suggests being overtaken or absorbed completely.  
 
-v5: ἀρραβών (arrabōn)  
+v05: ἀρραβών (arrabōn)  
 
-v5: “First pledge” or “down payment.” A guarantee of what is to come.  
+v05: “First pledge” or “down payment.” A guarantee of what is to come.  
 
-v7: πίστις (pistis)  
+v07: πίστις (pistis)  
 
-v7: “Faith.” Trust or reliance, contrasted here with visible evidence.  
+v07: “Faith.” Trust or reliance, contrasted here with visible evidence.  
 
 v10: βῆμα (bēma)  
 

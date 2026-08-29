@@ -231,13 +231,13 @@ and because the tomb was nearby,
 they laid Jesus there.
 </p>
 ## Notes
-v1–3: The mockery enacted by the soldiers is deliberately royal in form. The crown, robe, and acclamation parody kingship, yet John presents these actions without editorial correction, allowing the irony to stand: what is intended as ridicule visually enacts a truth the characters do not perceive.
-v4–5: When Pilate presents Jesus to the crowd, he declares, “Here is the man.” The Greek phrase Ἰδοὺ ὁ ἄνθρωπος (Idou ho anthrōpos) is stark and unadorned. It can be heard as dismissal (“look at this man”) or as presentation. John allows the phrase to resonate beyond Pilate’s intent, echoing themes of humanity, vulnerability, and representation.
-v5: John emphasizes that Jesus comes out wearing the crown and robe, not after they are removed. The visual remains intact. The narrative slows, inviting the reader to look rather than react, reinforcing the tension between appearance and authority.
-v6: Pilate’s statement, “I find no case against him,” is repeated in the face of escalating hostility. John portrays Pilate as asserting legal clarity while simultaneously yielding practical control, highlighting the fracture between judgment and action.
-v7: The charge shifts from political threat to theological offense. The claim that Jesus “made himself the Son of God” introduces language that carries layered meaning in John. The phrase υἱὸς θεοῦ (huios theou) can signal blasphemy within the leaders’ framework, while for the reader it echoes the Gospel’s opening claims about Jesus’ identity.
-v8: Pilate’s fear deepens not because of political pressure, but because the charge has shifted from sedition to divine identity. John frames Pilate as unsettled by the possibility that he is dealing with more than a political defendant.
-v9: Pilate’s question, “Where are you from?” moves beyond geography. In John’s Gospel, origin language consistently gestures toward divine source. Jesus’ silence heightens the imbalance: Pilate presses for control, but receives none.
+v01–03: The mockery enacted by the soldiers is deliberately royal in form. The crown, robe, and acclamation parody kingship, yet John presents these actions without editorial correction, allowing the irony to stand: what is intended as ridicule visually enacts a truth the characters do not perceive.
+v04–05: When Pilate presents Jesus to the crowd, he declares, “Here is the man.” The Greek phrase Ἰδοὺ ὁ ἄνθρωπος (Idou ho anthrōpos) is stark and unadorned. It can be heard as dismissal (“look at this man”) or as presentation. John allows the phrase to resonate beyond Pilate’s intent, echoing themes of humanity, vulnerability, and representation.
+v05: John emphasizes that Jesus comes out wearing the crown and robe, not after they are removed. The visual remains intact. The narrative slows, inviting the reader to look rather than react, reinforcing the tension between appearance and authority.
+v06: Pilate’s statement, “I find no case against him,” is repeated in the face of escalating hostility. John portrays Pilate as asserting legal clarity while simultaneously yielding practical control, highlighting the fracture between judgment and action.
+v07: The charge shifts from political threat to theological offense. The claim that Jesus “made himself the Son of God” introduces language that carries layered meaning in John. The phrase υἱὸς θεοῦ (huios theou) can signal blasphemy within the leaders’ framework, while for the reader it echoes the Gospel’s opening claims about Jesus’ identity.
+v08: Pilate’s fear deepens not because of political pressure, but because the charge has shifted from sedition to divine identity. John frames Pilate as unsettled by the possibility that he is dealing with more than a political defendant.
+v09: Pilate’s question, “Where are you from?” moves beyond geography. In John’s Gospel, origin language consistently gestures toward divine source. Jesus’ silence heightens the imbalance: Pilate presses for control, but receives none.
 v10–11: Pilate names his authority in absolute terms—release or crucifixion. Jesus reframes authority as derivative, not possessed. The phrase “from above” carries deliberate ambiguity, pointing simultaneously to God’s sovereignty and to the layered systems of power operating beneath it.
 v11: Jesus distinguishes responsibility without denying culpability. Pilate’s authority is real, but limited. Greater guilt belongs to the one who initiated the betrayal, underscoring John’s concern with moral agency rather than simple blame.
 v12: The appeal to Caesar marks a turning point. The crowd weaponizes Roman loyalty language, forcing Pilate to choose between justice and self-preservation. Political accusation replaces legal inquiry.
@@ -263,7 +263,7 @@ v35: The narrative breaks the fourth wall. The witness steps forward, insisting 
 v41: John draws attention to place. A garden recalls origins, cultivation, and care. The new tomb underscores finality while simultaneously holding open the possibility of interruption.
 v42: The burial is shaped by constraint rather than completion. Time presses in. John closes the chapter not with closure, but with containment.
 
-##Vocabulary
+## Vocabulary
 
 v11: ἄνωθεν (anōthen)  
 “From above,” holding divine and systemic meanings in tension.

@@ -327,7 +327,7 @@ v44: David’s deliverance extends from internal disputes to international rule,
 v48: The song celebrates divine vengeance in the context of David’s enemies. TSW preserves the royal-warrior theology without making personal vengeance a general command.
 v51: The song closes by linking David’s deliverance to the enduring covenant with his offspring from chapter 7.
 
-##Vocabulary
+## Vocabulary
 
 v02: מְצוּדָה (metsudah)
 “Stronghold.” A fortified place of refuge.

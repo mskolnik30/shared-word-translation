@@ -75,7 +75,7 @@ v06: Job’s suffering has become public humiliation; he is not merely ill but s
 v08–09: Job imagines the truly upright being appalled by his treatment rather than joining the friends’ accusations. Righteousness persists by holding to the way.
 v13–16: Hope is reduced to the possibility of Sheol as home and kinship with pit and worm. Job asks whether any hope can survive such descent.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָבַל (chaval)
 “To be broken” or “destroyed.” Job’s spirit is spent.

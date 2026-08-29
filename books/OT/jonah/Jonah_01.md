@@ -43,14 +43,14 @@ v16: Then the men feared the LORD exceedingly, and they offered a sacrifice to t
 v17: And the LORD appointed a great fish to swallow Jonah. And Jonah was in the belly of the fish three days and three nights.
 </p>
 ## Notes
-v1–2: The book begins with a prophetic commission directing Jonah to Nineveh, the capital of Assyria.
-v3: Jonah's flight is not merely geographical. He attempts to escape the mission God has given him.
-v3: The repeated phrase “went down” highlights Jonah's downward trajectory away from obedience.
-v4: The storm is presented as a direct act of the LORD rather than a random natural event.
-v5: While the sailors pray, Jonah sleeps, creating a sharp contrast between pagan concern and prophetic indifference.
-v6: The captain unknowingly echoes the language of God's original command: “Arise.”
-v7: The casting of lots reveals Jonah's responsibility under God's providence.
-v9: Jonah's confession identifies the LORD as Creator of both sea and land, making his attempted escape especially ironic.
+v01–02: The book begins with a prophetic commission directing Jonah to Nineveh, the capital of Assyria.
+v03: Jonah's flight is not merely geographical. He attempts to escape the mission God has given him.
+v03: The repeated phrase “went down” highlights Jonah's downward trajectory away from obedience.
+v04: The storm is presented as a direct act of the LORD rather than a random natural event.
+v05: While the sailors pray, Jonah sleeps, creating a sharp contrast between pagan concern and prophetic indifference.
+v06: The captain unknowingly echoes the language of God's original command: “Arise.”
+v07: The casting of lots reveals Jonah's responsibility under God's providence.
+v09: Jonah's confession identifies the LORD as Creator of both sea and land, making his attempted escape especially ironic.
 v10: The sailors understand the seriousness of Jonah's actions more quickly than Jonah himself.
 v12: Jonah accepts responsibility for the storm, though he still does not directly obey God's original command.
 v13–14: The sailors show greater reluctance to shed innocent blood than Jonah showed in fleeing his mission.
@@ -59,33 +59,33 @@ v16: The sailors worship the LORD before Nineveh ever hears Jonah's message.
 v17: The great fish is presented as God's appointed means of preservation rather than judgment alone.
 v17: The three days and three nights become an important pattern later recalled elsewhere in Scripture.
 
-##Vocabulary
+## Vocabulary
 
-v1: דְּבַר־יְהוָה (dĕḇar-YHWH)
+v01: דְּבַר־יְהוָה (dĕḇar-YHWH)
 “Word of the LORD.” A prophetic message originating from God.
 
-v2: קוּם (qûm)
+v02: קוּם (qûm)
 “Arise.” A command calling for immediate action.
 
-v2: קָרָא (qārāʾ)
+v02: קָרָא (qārāʾ)
 “To cry out” or “proclaim.” To announce a message publicly.
 
-v3: תַּרְשִׁישׁ (Taršîš)
+v03: תַּרְשִׁישׁ (Taršîš)
 “Tarshish.” A distant location representing the opposite direction from Nineveh.
 
-v4: טוּל (ṭûl)
+v04: טוּל (ṭûl)
 “To hurl” or “throw.” Used of the LORD casting the wind upon the sea.
 
-v5: יָרֵא (yārēʾ)
+v05: יָרֵא (yārēʾ)
 “To fear.” To be afraid or to stand in reverence.
 
-v7: גּוֹרָל (gôrāl)
+v07: גּוֹרָל (gôrāl)
 “Lot.” An object used to determine an outcome believed to be directed by divine providence.
 
-v9: עִבְרִי (ʿiḇrî)
+v09: עִבְרִי (ʿiḇrî)
 “Hebrew.” Jonah's ethnic identification.
 
-v9: אֱלֹהֵי הַשָּׁמַיִם (ʾĕlōhê haššāmayim)
+v09: אֱלֹהֵי הַשָּׁמַיִם (ʾĕlōhê haššāmayim)
 “God of heaven.” A title emphasizing God's universal sovereignty.
 
 v14: דָּם נָקִי (dām nāqî)
@@ -100,14 +100,3 @@ v17: מָנָה (mānâ)
 v17: דָּג גָּדוֹל (dāg gādôl)
 “Great fish.” The creature appointed by God to preserve Jonah.
 
-v01: דְּבַר־יְהוָה (dĕḇar-YHWH)
-“Word of the LORD.” A prophetic message originating from God.
-
-v02: קוּם (qûm)
-“Arise.” A command calling for immediate action.
-
-v02: קָרָא (qārāʾ)
-“To cry out” or “proclaim.” To announce a message publicly.
-
-v03: תַּרְשִׁישׁ (Taršîš)
-“Tarshish.” A distant location representing the opposite direction from Nineveh.

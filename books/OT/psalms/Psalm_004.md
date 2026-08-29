@@ -49,61 +49,50 @@ v08: In peace I will both lie down and sleep;
 for you alone, O LORD, make me dwell in safety.
 </p>
 ## Notes
-v1: Past deliverance grounds present appeal (“you have given me relief”).
-v2: The conflict centers on honor/shame and truth/falsehood.
-v3: Being “set apart” defines identity before action.
-v4: Anger is acknowledged but bounded—reflection leads to restraint.
-v5: Proper worship is linked with trust, not mere ritual.
-v6: The desire for “good” is redirected toward God’s presence.
-v7: Inner joy surpasses external prosperity.
-v8: Peace and sleep function as expressions of trust.
+v01: Past deliverance grounds present appeal (“you have given me relief”).
+v02: The conflict centers on honor/shame and truth/falsehood.
+v03: Being “set apart” defines identity before action.
+v04: Anger is acknowledged but bounded—reflection leads to restraint.
+v05: Proper worship is linked with trust, not mere ritual.
+v06: The desire for “good” is redirected toward God’s presence.
+v07: Inner joy surpasses external prosperity.
+v08: Peace and sleep function as expressions of trust.
 
-##Vocabulary
+## Vocabulary
 
-v1: עָנָה (anah)  
+v01: עָנָה (anah)  
 “To answer.” Respond to a call.
 
-v1: צַר (tsar)  
+v01: צַר (tsar)  
 “Distress.” Pressure or trouble.
 
-v2: כָּבוֹד (kavod)  
+v02: כָּבוֹד (kavod)  
 “Honor.” Reputation or weight.
 
-v2: רִיק (riq)  
+v02: רִיק (riq)  
 “Vain.” Empty.
 
-v3: פָּלָה (palah)  
+v03: פָּלָה (palah)  
 “To set apart.” Distinguish.
 
-v4: רָגַז (ragaz)  
+v04: רָגַז (ragaz)  
 “To tremble/be angry.” Emotional disturbance.
 
-v4: דָּמַם (damam)  
+v04: דָּמַם (damam)  
 “To be silent.” Be still.
 
-v5: זֶבַח (zevach)  
+v05: זֶבַח (zevach)  
 “Sacrifice.” Offering.
 
-v6: אוֹר (or)  
+v06: אוֹר (or)  
 “Light.” Presence or favor.
 
-v7: שִׂמְחָה (simchah)  
+v07: שִׂמְחָה (simchah)  
 “Joy.” Gladness.
 
-v8: שָׁלוֹם (shalom)  
+v08: שָׁלוֹם (shalom)  
 “Peace.” Wholeness.
 
-v8: בֶּטַח (betach)  
+v08: בֶּטַח (betach)  
 “Safety.” Security.
 
-v01: עָנָה (anah)
-“To answer.” Respond to a call.
-
-v01: צַר (tsar)
-“Distress.” Pressure or trouble.
-
-v05: זֶבַח (zevach)
-“Sacrifice.” Offering.
-
-v08: שָׁלוֹם (shalom)
-“Peace.” Wholeness.

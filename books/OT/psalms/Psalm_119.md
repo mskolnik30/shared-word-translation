@@ -666,11 +666,11 @@ v176: I have gone astray like a lost sheep; seek your servant,
 
 for I do not forget your commandments.
 </p>
-##Notes
+## Notes
 
-v001: Psalm 119 is a full alphabetic acrostic: twenty-two sections correspond to the Hebrew alphabet, with eight verses in each section.
+v01: Psalm 119 is a full alphabetic acrostic: twenty-two sections correspond to the Hebrew alphabet, with eight verses in each section.
 
-##Vocabulary
+## Vocabulary
 
 v01: תּוֹרָה (torah)
 “Law” or “instruction.” Guiding teaching for life, not merely legal code.

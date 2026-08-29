@@ -109,7 +109,7 @@ v08: Admah and Zeboiim were cities associated with Sodom and Gomorrah’s destru
 v08–09: The text attributes inner turning and heated compassion to God. TSW retains the anthropomorphic emotional language rather than flattening it into abstract doctrine.
 v12: Standard English numbering places this verse in Hosea 11; the Masoretic chapter division begins the next chapter here. The Hebrew of the final line is also difficult and has been understood either positively or negatively concerning Judah. TSW follows the reading that contrasts Judah’s continuing relation to God with Ephraim’s deceit, while noting the ambiguity.
 
-##Vocabulary
+## Vocabulary
 
 v01: נַעַר (na'ar)
 “Child” or “youth.” Israel is remembered in the vulnerability of early relationship.

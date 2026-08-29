@@ -75,7 +75,7 @@ v11–17: The repeated verb “take” defines Samuel’s warning. Kingship will
 v18: The warning culminates in loss of freedom: the people who ask for a king will themselves become royal servants.
 v20: The people want the king not only to judge but to lead military action, transferring visible security toward monarchy.
 
-##Vocabulary
+## Vocabulary
 
 v03: בֶּצַע (betsa)
 “Gain” or unjust profit.

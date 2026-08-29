@@ -118,7 +118,7 @@ v25: The genealogy of Amasa is textually difficult. 1 Chronicles 2:17 calls his 
 v27: Shobi’s support is notable because he comes from Ammon, recently defeated by David. The precise relationship between Shobi and the former royal house is not explained.
 v28: Several food terms are rare; TSW uses conventional agricultural equivalents without claiming exact certainty for every item.
 
-##Vocabulary
+## Vocabulary
 
 v02: רָפֶה יָדַיִם (raphe yadayim)
 “Weak-handed.” An idiom for exhaustion or lost strength.

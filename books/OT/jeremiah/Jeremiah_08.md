@@ -92,11 +92,11 @@ and my eyes a fountain of tears,
 that I might weep day and night
 for the slain of the daughter of my people.
 </p>
-##Notes
+## Notes
 
 v13: The final clause is difficult. The Hebrew is brief and may refer to something appointed by God that will “pass over” or sweep over the people.
 
-##Vocabulary
+## Vocabulary
 
 v05: מְשׁוּבָה (meshûvah)
 “turning away” or “apostasy.” Its repetition alongside the verb “return” sharpens the irony: the people persist in turning away while refusing the return that could restore them.

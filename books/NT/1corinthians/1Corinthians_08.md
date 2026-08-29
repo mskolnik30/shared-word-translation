@@ -49,55 +49,55 @@ v12: And thus, sinning against the brothers and wounding their weak conscience, 
 v13: Therefore, if food causes my brother to stumble, I will never eat meat forever, so that I may not cause my brother to stumble.
 </p>
 ## Notes
-v1: Knowledge without love leads to pride.  
-v3: True knowledge is relational—being known by God.  
-v4–6: Monotheism reframes idol discussion.  
-v7: Conscience varies in strength and awareness.  
-v8: Food has no intrinsic spiritual value.  
-v9–12: Freedom must be governed by concern for others.  
+v01: Knowledge without love leads to pride.  
+v03: True knowledge is relational—being known by God.  
+v04–06: Monotheism reframes idol discussion.  
+v07: Conscience varies in strength and awareness.  
+v08: Food has no intrinsic spiritual value.  
+v09–12: Freedom must be governed by concern for others.  
 v13: Love limits personal rights to prevent harm.  
 
-##Vocabulary
+## Vocabulary
 
-v1: φυσιοόω (physioō)  
+v01: φυσιοόω (physioō)  
 
-v1: “To puff up.”  
+v01: “To puff up.”  
 
-v1: οἰκοδομέω (oikodomeō)  
+v01: οἰκοδομέω (oikodomeō)  
 
-v1: “To build up.”  
+v01: “To build up.”  
 
-v3: γινώσκω (ginōskō)  
+v03: γινώσκω (ginōskō)  
 
-v3: “To know.”  
+v03: “To know.”  
 
-v4: εἴδωλον (eidōlon)  
+v04: εἴδωλον (eidōlon)  
 
-v4: “Idol.”  
+v04: “Idol.”  
 
-v6: κύριος (kyrios)  
+v06: κύριος (kyrios)  
 
-v6: “Lord.”  
+v06: “Lord.”  
 
-v7: συνείδησις (syneidēsis)  
+v07: συνείδησις (syneidēsis)  
 
-v7: “Conscience.”  
+v07: “Conscience.”  
 
-v7: μολύνω (molynō)  
+v07: μολύνω (molynō)  
 
-v7: “To defile.”  
+v07: “To defile.”  
 
-v8: παραστήνω (paristēmi)  
+v08: παραστήνω (paristēmi)  
 
-v8: “To commend.”  
+v08: “To commend.”  
 
-v9: ἐξουσία (exousia)  
+v09: ἐξουσία (exousia)  
 
-v9: “Right, authority.”  
+v09: “Right, authority.”  
 
-v9: πρόσκομμα (proskomma)  
+v09: πρόσκομμα (proskomma)  
 
-v9: “Stumbling block.”  
+v09: “Stumbling block.”  
 
 v10: ἀνακείμενος (anakeimenos)  
 

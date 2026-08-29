@@ -173,9 +173,9 @@ v55: And the women who had come with him from Galilee followed and saw the tomb 
 v56: And returning, they prepared spices and ointments. And on the Sabbath they rested according to the commandment.
 </p>
 ## Notes
-v2: Accusations are framed politically to secure Roman action.
-v4–5: Pilate repeatedly affirms Jesus’ innocence but yields to pressure.
-v8–9: Herod seeks spectacle, not truth.
+v02: Accusations are framed politically to secure Roman action.
+v04–05: Pilate repeatedly affirms Jesus’ innocence but yields to pressure.
+v08–09: Herod seeks spectacle, not truth.
 v11: Mockery includes symbolic clothing, parodying kingship.
 v16: Pilate has found no basis for a sentence of death, yet the scene moves toward punishment, the release of Barabbas, and Jesus being handed over to the crowd’s demand. Some manuscripts add here a statement that Pilate was obliged to release one prisoner at the festival.
 v17: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add an explanatory statement about releasing a prisoner at the festival. Public verse numbering is retained.
@@ -191,13 +191,13 @@ v47: The centurion recognizes righteousness, not yet full identity.
 v50–53: Burial is conducted with care and honor by a council member.
 v56: Sabbath observance continues even in grief.
 
-##Vocabulary
+## Vocabulary
 
-v2: διαστρέφω (diastrephō)
+v02: διαστρέφω (diastrephō)
 
 “To mislead.”
 
-v3: βασιλεύς (basileus)
+v03: βασιλεύς (basileus)
 
 “King.”
 
@@ -262,8 +262,3 @@ v54: παρασκευή (paraskeuē)
 
 “Preparation day.”
 
-v02: διαστρέφω (diastrephō)
-“To mislead.”
-
-v03: βασιλεύς (basileus)
-“King.”

@@ -177,13 +177,13 @@ For they have devoured Jacob;
 they have devoured him and brought him to an end,
 and they have made his dwelling place desolate.
 </p>
-##Notes
+## Notes
 
 v05: The image is literally like a “palm tree of a cucumber field,” an expression whose precise picture is uncertain.
 
 v18: The phrase “so that they may find it” is abrupt: the object is unstated. It may mean that the inhabitants will finally encounter the distress announced against them, or that they will come to recognize the LORD’s action through it.
 
-##Vocabulary
+## Vocabulary
 
 v03: הֶבֶל (hevel)
 “Emptiness” describes the customs of the peoples as insubstantial and futile. The word returns in verse 15, framing idols as unable to bear the weight placed upon them.

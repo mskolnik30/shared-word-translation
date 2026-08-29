@@ -78,35 +78,35 @@ and establish the work of our hands upon us—
 yes, establish the work of our hands.
 </p>
 ## Notes
-v1–2: God is eternal and stable; humanity finds dwelling in him.  
-v3–6: Human life is brief and cyclical, contrasted with divine permanence.  
-v7–11: Mortality is interpreted through divine judgment, not randomness.  
+v01–02: God is eternal and stable; humanity finds dwelling in him.  
+v03–06: Human life is brief and cyclical, contrasted with divine permanence.  
+v07–11: Mortality is interpreted through divine judgment, not randomness.  
 v10: Life expectancy is acknowledged without idealization.  
 v12: Wisdom arises from awareness of finitude.  
 v13–15: Petition seeks reversal—not removal of suffering, but balance and restoration.  
 v16–17: Human work gains meaning only through divine establishment.  
 
-##Vocabulary
+## Vocabulary
 
-v1: מָעוֹן (ma‘on)  
+v01: מָעוֹן (ma‘on)  
 “Dwelling place.” Refuge or habitation.  
 
-v2: עוֹלָם (olam)  
+v02: עוֹלָם (olam)  
 “Everlasting.” Unbounded time.  
 
-v3: דַּכָּא (dakka)  
+v03: דַּכָּא (dakka)  
 “Dust.” Crushed matter, mortality.  
 
-v4: אֶלֶף (eleph)  
+v04: אֶלֶף (eleph)  
 “Thousand.” Large measure of time.  
 
-v5: זֶרֶם (zerem)  
+v05: זֶרֶם (zerem)  
 “Flood.” Sweeping force.  
 
-v5: חָצִיר (chatsir)  
+v05: חָצִיר (chatsir)  
 “Grass.” Fleeting life.  
 
-v8: עָלַם (alam)  
+v08: עָלַם (alam)  
 “To hide.” Conceal.  
 
 v12: מָנָה (manah)  
@@ -118,14 +118,3 @@ v14: שָׂבַע (sava)
 v17: כּוּן (kun)  
 “To establish.” Make firm.  
 
-v01: מָעוֹן (ma‘on)
-“Dwelling place.” Refuge or habitation.
-
-v02: עוֹלָם (olam)
-“Everlasting.” Unbounded time.
-
-v03: דַּכָּא (dakka)
-“Dust.” Crushed matter, mortality.
-
-v04: אֶלֶף (eleph)
-“Thousand.” Large measure of time.

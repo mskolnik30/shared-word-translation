@@ -65,7 +65,7 @@ are Most High over all the earth.
 v06–08: The list gathers neighboring peoples and powers into a single poetic coalition. It should not be read as a chronological roster of one clearly identifiable historical campaign.
 v16: The petition for shame is not only punitive; it is ordered toward recognition of the LORD’s name, a tension preserved by the sequence of the psalm.
 
-##Vocabulary
+## Vocabulary
 
 v03: צְפוּנֶיךָ (tsefunekha)
 “Literally, “your hidden/treasured ones,” describing those kept or cherished by God.”

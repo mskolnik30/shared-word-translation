@@ -83,43 +83,43 @@ v22: whether Paul or Apollos or Cephas or the world or life or death or things p
 v23: and you are Christ’s, and Christ is God’s.
 </p>
 ## Notes
-v1–3: Spiritual immaturity is evidenced by division.  
-v5–9: Ministers are instruments; God is the source of growth.  
+v01–03: Spiritual immaturity is evidenced by division.  
+v05–09: Ministers are instruments; God is the source of growth.  
 v10–11: Christ alone is the foundation.  
 v12–15: Works are tested and evaluated.  
 v16–17: Community identity as God’s temple carries responsibility.  
 v18–20: Human wisdom is inverted under divine evaluation.  
 v21–23: Believers belong to Christ, transcending factionalism.  
 
-##Vocabulary
+## Vocabulary
 
-v1: σάρκινος (sarkinos)  
+v01: σάρκινος (sarkinos)  
 
-v1: “Fleshly.”  
+v01: “Fleshly.”  
 
-v2: γάλα (gala)  
+v02: γάλα (gala)  
 
-v2: “Milk.”  
+v02: “Milk.”  
 
-v3: ζῆλος (zēlos)  
+v03: ζῆλος (zēlos)  
 
-v3: “Jealousy.”  
+v03: “Jealousy.”  
 
-v5: διάκονος (diakonos)  
+v05: διάκονος (diakonos)  
 
-v5: “Servant.”  
+v05: “Servant.”  
 
-v6: φυτεύω (phyteuō)  
+v06: φυτεύω (phyteuō)  
 
-v6: “To plant.”  
+v06: “To plant.”  
 
-v7: αὐξάνω (auxanō)  
+v07: αὐξάνω (auxanō)  
 
-v7: “To grow.”  
+v07: “To grow.”  
 
-v9: συνεργός (synergos)  
+v09: συνεργός (synergos)  
 
-v9: “Fellow worker.”  
+v09: “Fellow worker.”  
 
 v10: ἀρχιτέκτων (architektōn)  
 

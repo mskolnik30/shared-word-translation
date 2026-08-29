@@ -130,9 +130,9 @@ v30: The first of all the firstfruits of everything, and every contribution from
 <p>
 v31: The priests shall not eat anything, bird or animal, that dies of itself or is torn by beasts.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v07: עָרֵל (ʿarel)
 “uncircumcised.” In this passage the term is applied to both heart and flesh, expressing a condition incompatible with guarding the holiness of the sanctuary.

@@ -78,7 +78,7 @@ v18: The final phrase is textually difficult. The Masoretic Text reads “great 
 v19: The Masoretic Text’s number is textually difficult. Many manuscripts and ancient witnesses support seventy men; some readings suggest “seventy men, fifty thousand men.” TSW uses seventy and notes the textual problem.
 v20: The chapter’s central question is not whether the ark can be recovered but who can stand before the holy God associated with it.
 
-##Vocabulary
+## Vocabulary
 
 v02: קֹסֵם (qosem)
 “Diviner.” A practitioner consulted by the Philistines.

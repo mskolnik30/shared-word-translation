@@ -68,13 +68,13 @@ and no cry of distress in our streets.
 v15: Happy are the people for whom it is so;
 happy are the people whose God is the LORD.
 </p>
-##Notes
+## Notes
 
 v02: The final verb can be read “subdues my people under me” or, with ancient witnesses and a different vocalization, “subdues peoples under me.” The plural “peoples” is used here while the textual question is acknowledged.
 
 v14: The Hebrew livestock line is compressed and uncertain. “Bear without mishap” represents flourishing cattle without forcing the several possible senses of the underlying participle and following phrases.
 
-##Vocabulary
+## Vocabulary
 
 v04: הֶבֶל (hevel)
 “Breath,” “vapor,” or what is fleeting. The image emphasizes transience rather than moral worthlessness.

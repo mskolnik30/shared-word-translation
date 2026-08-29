@@ -54,7 +54,7 @@ v19: And it shall be, if you forget—utterly forget—the LORD your God, and go
 v20: Like the nations that the LORD is destroying before you, so you shall perish, because you do not listen to the voice of the LORD your God.
 </p>
 ## Notes
-v7–9: The land is described in abundance and diversity—water, agriculture, and mineral wealth. Provision replaces wilderness scarcity.  
+v07–09: The land is described in abundance and diversity—water, agriculture, and mineral wealth. Provision replaces wilderness scarcity.  
 v10: Satisfaction leads to blessing; gratitude is the proper response to fullness.  
 v11: Forgetting is defined ethically—failure to keep commands is not ignorance but neglect.  
 v12–14: Prosperity generates risk. “Lifted heart” signals pride that erases memory of deliverance.  
@@ -63,27 +63,27 @@ v16: Humbling and testing are not punitive but oriented toward eventual good.
 v17: The internal narrative of self-sufficiency is explicitly rejected.  
 v18: Memory restores truth—capacity itself is a gift. Wealth is tied to covenant continuity.  
 
-##Vocabulary
+## Vocabulary
 
-v7: אֶרֶץ (ʾereṣ)  
+v07: אֶרֶץ (ʾereṣ)  
 
-v7: “Land.” Territory of promise and provision.  
+v07: “Land.” Territory of promise and provision.  
 
-v7: נַחַל (naḥal)  
+v07: נַחַל (naḥal)  
 
-v7: “Brook/stream.” Flowing water in a valley.  
+v07: “Brook/stream.” Flowing water in a valley.  
 
-v8: גֶּפֶן (gepen)  
+v08: גֶּפֶן (gepen)  
 
-v8: “Vine.” Source of grapes and wine.  
+v08: “Vine.” Source of grapes and wine.  
 
-v8: רִמּוֹן (rimmôn)  
+v08: רִמּוֹן (rimmôn)  
 
-v8: “Pomegranate.” Symbol of fertility and abundance.  
+v08: “Pomegranate.” Symbol of fertility and abundance.  
 
-v9: חָסֵר (ḥāsēr)  
+v09: חָסֵר (ḥāsēr)  
 
-v9: “To lack.” To be in need.  
+v09: “To lack.” To be in need.  
 
 v10: שָׂבַע (śāḇaʿ)  
 

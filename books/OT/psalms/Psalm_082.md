@@ -40,7 +40,7 @@ for you shall inherit all the nations.
 v01: The Hebrew describes God standing in the assembly of El and judging “in the midst of gods.” The main text preserves the divine-council language rather than replacing it with a human court.
 v06: The address “you are gods” remains intentionally direct. The psalm’s point is not clarified by identifying these figures more narrowly than the Hebrew does.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֱלֹהִים (ʾelohim)
 “Depending on context, the form can refer to God or to divine beings.” Both senses are active in this verse.

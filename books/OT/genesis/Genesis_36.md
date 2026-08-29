@@ -74,9 +74,9 @@ v42: Chief Kenaz, Chief Teman, Chief Mibzar,
 v43: Chief Magdiel, and Chief Iram. These are the chiefs of Edom according to their settlements in the land they possessed. This is Esau, the father of Edom.
 </p>
 ## Notes
-v1: The chapter identifies Esau with Edom, establishing the connection between the man and the nation descended from him.  
-v6–8: Esau's separation from Jacob parallels the earlier separation of Abraham and Lot. The two brothers become heads of distinct peoples.  
-v9–19: The genealogy emphasizes the growth and organization of Esau's descendants into clans and tribal leaders.  
+v01: The chapter identifies Esau with Edom, establishing the connection between the man and the nation descended from him.  
+v06–08: Esau's separation from Jacob parallels the earlier separation of Abraham and Lot. The two brothers become heads of distinct peoples.  
+v09–19: The genealogy emphasizes the growth and organization of Esau's descendants into clans and tribal leaders.  
 v12: Amalek is introduced here. The Amalekites later become significant opponents of Israel.  
 v20–30: The Horites were earlier inhabitants of Seir and became incorporated into Edomite history.  
 v24: The brief note concerning Anah preserves a historical detail otherwise lost to the narrative.  
@@ -85,15 +85,15 @@ v31–39: Unlike Israel's later dynasties, the succession of Edomite kings does 
 v40–43: The chapter closes by emphasizing the territorial and political establishment of Edom.  
 v43: Before returning to Jacob's story, Genesis records Esau's descendants in detail, showing that God's promises of multiplication extended beyond the covenant line.  
 
-##Vocabulary
+## Vocabulary
 
-v1: תּוֹלְדוֹת (tôlĕdôt)  
+v01: תּוֹלְדוֹת (tôlĕdôt)  
 “Generations” or “account.” A structural heading introducing a family record.  
 
-v1: אֱדוֹם (ʾĔḏôm)  
+v01: אֱדוֹם (ʾĔḏôm)  
 “Edom.” Meaning “red,” associated with Esau and his descendants.  
 
-v8: שֵׂעִיר (Śeʿîr)  
+v08: שֵׂעִיר (Śeʿîr)  
 “Seir.” The mountainous region where Esau's descendants settled.  
 
 v15: אַלּוּף (ʾallûp̄)
@@ -124,11 +124,3 @@ v43: אֲחֻזָּה (ʾăḥuzzâ)
 v43: אָב (ʾāḇ)  
 “Father.” Here indicating ancestor and founder of a people.  
 
-v01: תּוֹלְדוֹת (tôlĕdôt)
-“Generations” or “account.” A structural heading introducing a family record.
-
-v01: אֱדוֹם (ʾĔḏôm)
-“Edom.” Meaning “red,” associated with Esau and his descendants.
-
-v08: שֵׂעִיר (Śeʿîr)
-“Seir.” The mountainous region where Esau's descendants settled.

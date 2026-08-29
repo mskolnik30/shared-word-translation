@@ -31,42 +31,42 @@ v10: And I took the little scroll from the hand of the angel and ate it. It was 
 v11: And I was told, “You must again prophesy about many peoples and nations and languages and kings.”
 </p>
 ## Notes
-v1: The angel’s description combines multiple symbolic elements without identifying the figure.
-v2: The open scroll contrasts with the sealed scroll of chapter 5.
-v2: Placement on sea and land suggests total scope rather than division.
-v3: The voice is compared (“like a lion”) without equating identity.
-v3–4: The seven thunders speak but are withheld; revelation is partial.
-v4: John is explicitly restrained from recording, preserving hidden content.
-v5–6: Oath language grounds authority in the creator rather than the messenger.
-v6: “No more delay” introduces urgency without specifying timeline.
-v7: “Mystery of God” is announced as fulfillment, not explained.
-v8–10: Eating the scroll internalizes the message; experience precedes proclamation.
-v9–10: Sweetness and bitterness coexist, not resolved.
+v01: The angel’s description combines multiple symbolic elements without identifying the figure.
+v02: The open scroll contrasts with the sealed scroll of chapter 5.
+v02: Placement on sea and land suggests total scope rather than division.
+v03: The voice is compared (“like a lion”) without equating identity.
+v03–04: The seven thunders speak but are withheld; revelation is partial.
+v04: John is explicitly restrained from recording, preserving hidden content.
+v05–06: Oath language grounds authority in the creator rather than the messenger.
+v06: “No more delay” introduces urgency without specifying timeline.
+v07: “Mystery of God” is announced as fulfillment, not explained.
+v08–10: Eating the scroll internalizes the message; experience precedes proclamation.
+v09–10: Sweetness and bitterness coexist, not resolved.
 v11: The commission extends outward (“peoples…nations…languages…kings”) without limitation.
 
-##Vocabulary
+## Vocabulary
 
-v1: ἄγγελος ἰσχυρός (angelos ischyros)
+v01: ἄγγελος ἰσχυρός (angelos ischyros)
 
 “Mighty angel.” A messenger marked by strength or authority.
 
-v2: βιβλαρίδιον (biblaridion)
+v02: βιβλαρίδιον (biblaridion)
 
 “Little scroll.” Diminutive form, distinct from the larger scroll earlier.
 
-v4: σφραγίζω (sphragizō)
+v04: σφραγίζω (sphragizō)
 
 “To seal.” To close or conceal from access.
 
-v6: χρόνος (chronos)
+v06: χρόνος (chronos)
 
 “Time” or “delay.” Context leaves nuance open.
 
-v7: μυστήριον (mystērion)
+v07: μυστήριον (mystērion)
 
 “Mystery.” Something revealed in part, not fully disclosed.
 
-v9: φάγε (phage)
+v09: φάγε (phage)
 
 “Eat.” Command to internalize rather than merely receive.
 
@@ -78,14 +78,3 @@ v11: προφητεύω (prophēteuō)
 
 “To prophesy.” To speak forth what is given, not self-generated.
 
-v01: ἄγγελος ἰσχυρός (angelos ischyros)
-“Mighty angel.” A messenger marked by strength or authority.
-
-v02: βιβλαρίδιον (biblaridion)
-“Little scroll.” Diminutive form, distinct from the larger scroll earlier.
-
-v04: σφραγίζω (sphragizō)
-“To seal.” To close or conceal from access.
-
-v06: χρόνος (chronos)
-“Time” or “delay.” Context leaves nuance open.

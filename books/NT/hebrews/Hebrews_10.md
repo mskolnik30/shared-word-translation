@@ -77,10 +77,10 @@ v38: but my righteous one will live by trust, and if they shrink back, my soul t
 v39: But we are not among those who shrink back to destruction, but among those who have trust to the preserving of the soul.
 </p>
 ## Notes
-v1: “shadow… not the true form” — The law’s sacrificial system points beyond itself; repetition signals incompletion, not failure of God’s promise.  
-v3: “reminder of sins” — The sacrifices function as annual memory: they name sin, but they cannot finally remove it.  
-v4: “impossible… to take away sins” — The issue is not sincerity but capacity; animal blood cannot accomplish the deep cleansing humanity needs.  
-v5–7: “a body you prepared for me… to do your will” — The shift is from repeated ritual to embodied obedience; God’s will is carried out in the person of Christ.  
+v01: “shadow… not the true form” — The law’s sacrificial system points beyond itself; repetition signals incompletion, not failure of God’s promise.  
+v03: “reminder of sins” — The sacrifices function as annual memory: they name sin, but they cannot finally remove it.  
+v04: “impossible… to take away sins” — The issue is not sincerity but capacity; animal blood cannot accomplish the deep cleansing humanity needs.  
+v05–07: “a body you prepared for me… to do your will” — The shift is from repeated ritual to embodied obedience; God’s will is carried out in the person of Christ.  
 v10: “made holy… once for all” — Holiness is received, not earned; a single offering decisively sets people apart for God.  
 v12: “he sat down” — The seated Christ signals completion and royal priestly authority; the work is finished, not endlessly repeated.  
 v14: “made complete… those who are being made holy” — A deliberate tension: a decisive status (“made complete”) alongside an ongoing formation (“being made holy”).  
@@ -98,17 +98,17 @@ v35–36: “do not throw away… need of endurance” — Confidence is somethi
 v38: “will live by trust” — The core posture is trust-shaped life; shrinking back is portrayed as withdrawal from that posture, not merely fearfulness.  
 v39: “not… shrink back… but… trust” — The closing line names communal identity: a people defined by persevering trust that preserves life.  
 
-##Vocabulary
+## Vocabulary
 
-v1: σκιᾷ (skia) — shadow  
+v01: σκιᾷ (skia) — shadow  
 
-v1: εἰκών (eikōn) — true form; image; reality  
+v01: εἰκών (eikōn) — true form; image; reality  
 
-v2: καθαρίζω (katharizō) — to cleanse; to purify  
+v02: καθαρίζω (katharizō) — to cleanse; to purify  
 
-v3: ἀνάμνησις (anamnēsis) — remembrance; reminder  
+v03: ἀνάμνησις (anamnēsis) — remembrance; reminder  
 
-v4: ἀφαιρέω (aphaireō) — to take away; to remove  
+v04: ἀφαιρέω (aphaireō) — to take away; to remove  
 
 v10: ἁγιάζω (hagiazō)
 “To make holy; to set apart.”

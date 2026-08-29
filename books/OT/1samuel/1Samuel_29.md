@@ -48,7 +48,7 @@ v08: David’s protest remains carefully ambiguous. He calls the opponents “th
 v09: “Like a messenger of God” is extravagant praise for David’s perceived reliability in Achish’s eyes.
 v11: David’s removal from the Philistine army prevents him from having to fight Israel in the battle that will kill Saul and Jonathan.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַעְיָן (ma'yan)
 “Spring.” Israel camps by the spring in Jezreel.

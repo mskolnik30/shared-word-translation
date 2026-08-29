@@ -111,7 +111,7 @@ v12: The Levites substitute for Israel’s firstborn, connecting their sanctuary
 v39: The total of twenty-two thousand does not simply equal the sum of the clan totals as preserved in the Masoretic Text. The tension is retained rather than silently harmonized.
 v47: “sanctuary shekel” — A fixed sacred standard of weight; the verse itself defines one shekel as twenty gerahs.
 
-##Vocabulary
+## Vocabulary
 
 v03: מָשַׁח (mashach)
 “To anoint.” To set apart for a sacred office by applying oil.

@@ -60,14 +60,14 @@ v20: And we know that the Son of God has come and has given us understanding so 
 v21: Little children, guard yourselves from idols.
 </p>
 ## Notes
-v1: “has been born of God” — Birth language describes identity as originating in God. Trust that Jesus is the Christ, love of God, and love for those born of God are held together rather than treated as separate marks of faith.  
-v3: “the commandments are not burdensome” — The statement does not deny the cost of obedience. The following verse grounds it in birth from God and the overcoming of the world.  
-v4: “our trust” — The noun πίστις (pistis) appears here after repeated use of the verb “trust.” The victory is not presented as human achievement but as the trust characteristic of those born of God.  
-v6: “water and blood” — The images are stated without explanation. Interpretations have included Jesus’ baptism and death as well as other sacramental and christological readings. The translation retains the language without choosing among them.  
-v6: “not in the water only” — The repetition of water and blood is emphatic. The author resists separating the coming of Jesus Christ from the blood while leaving the precise controversy behind the statement unstated.  
-v7–8: “there are three that testify” — Later manuscripts contain an expanded Trinitarian wording often called the *Comma Johanneum*, referring to testimony in heaven by the Father, the Word, and the Holy Spirit. This expansion is absent from the earliest and strongest Greek witnesses and is therefore not included in the main text.  
-v8: “the three agree as one” — The Greek literally draws the three witnesses “into the one.” The wording expresses their united testimony without defining the nature of their relationship beyond the immediate context.  
-v9–10: “testimony of God” — The language deliberately repeats “testimony” and “testify.” Trust in the Son is presented as receiving God’s own testimony concerning the Son.  
+v01: “has been born of God” — Birth language describes identity as originating in God. Trust that Jesus is the Christ, love of God, and love for those born of God are held together rather than treated as separate marks of faith.  
+v03: “the commandments are not burdensome” — The statement does not deny the cost of obedience. The following verse grounds it in birth from God and the overcoming of the world.  
+v04: “our trust” — The noun πίστις (pistis) appears here after repeated use of the verb “trust.” The victory is not presented as human achievement but as the trust characteristic of those born of God.  
+v06: “water and blood” — The images are stated without explanation. Interpretations have included Jesus’ baptism and death as well as other sacramental and christological readings. The translation retains the language without choosing among them.  
+v06: “not in the water only” — The repetition of water and blood is emphatic. The author resists separating the coming of Jesus Christ from the blood while leaving the precise controversy behind the statement unstated.  
+v07–08: “there are three that testify” — Later manuscripts contain an expanded Trinitarian wording often called the *Comma Johanneum*, referring to testimony in heaven by the Father, the Word, and the Holy Spirit. This expansion is absent from the earliest and strongest Greek witnesses and is therefore not included in the main text.  
+v08: “the three agree as one” — The Greek literally draws the three witnesses “into the one.” The wording expresses their united testimony without defining the nature of their relationship beyond the immediate context.  
+v09–10: “testimony of God” — The language deliberately repeats “testimony” and “testify.” Trust in the Son is presented as receiving God’s own testimony concerning the Son.  
 v11–12: “life is in the Son” — Eternal life is not treated simply as future duration. It is located relationally in the Son, so that having the Son and having life are held together.  
 v13: “so that you may know” — The purpose of the writing is assurance. Eternal life is described as something the recipients may know they possess in the present.  
 v14: “according to God’s will” — Confidence in prayer is joined to God’s will rather than presented as an unrestricted guarantee that every request will be granted as desired.  
@@ -77,30 +77,27 @@ v18: “the one who was born of God keeps them” — The verse shifts from the 
 v19: “lies in the power of the evil one” — The Greek states that the whole world “lies in the evil one.” “In the power of” makes the relationship intelligible in English without implying that the evil one possesses ultimate authority.  
 v20: “This one is the true God and eternal life” — The antecedent of “this one” can be discussed grammatically and theologically. It may point most immediately to Jesus Christ or back to the True One already named. The translation preserves the pronoun rather than resolving the reference.  
 v21: “guard yourselves from idols” — The letter ends abruptly with a command concerning idols. No explanation is supplied, allowing the warning to stand as the final word of the letter.  
-v07–08: “there are three that testify” — Later manuscripts contain an expanded Trinitarian wording often called the *Comma Johanneum*, referring to testimony in heaven by the Father, the Word, and the Holy Spirit. This expansion is absent from the earliest and strongest Greek witnesses and is therefore not included in the main text.
-v08: “the three agree as one” — The Greek literally draws the three witnesses “into the one.” The wording expresses their united testimony without defining the nature of their relationship beyond the immediate context.
+## Vocabulary
 
-##Vocabulary
-
-v1: πιστεύω (pisteuō)  
+v01: πιστεύω (pisteuō)  
 “To trust” or “believe.” The verb describes reliance upon and acknowledgment of Jesus as the Christ and the Son of God.  
 
-v1: γεννάω (gennaō)  
+v01: γεννάω (gennaō)  
 “To give birth,” “beget,” or “cause to be born.” Used throughout the letter for identity originating in God.  
 
-v3: βαρύς (barys)  
+v03: βαρύς (barys)  
 “Burdensome” or “heavy.” Something difficult to carry or oppressive in weight.  
 
-v4: νικάω (nikaō)  
+v04: νικάω (nikaō)  
 “To overcome” or “conquer.” A repeated Johannine term for victory over that which opposes God.  
 
-v4: πίστις (pistis)  
+v04: πίστις (pistis)  
 “Trust; faith; faithfulness.” Here explicitly identified as the victory that has overcome the world.  
 
-v6: μαρτυρέω (martyreō)  
+v06: μαρτυρέω (martyreō)  
 “To testify” or “bear witness.” To give testimony concerning something known or witnessed.  
 
-v7: μαρτυροῦντες (martyrountes)  
+v07: μαρτυροῦντες (martyrountes)  
 “Those testifying” or “witnesses.” The participle describes the Spirit, water, and blood in their shared testimony.  
 
 v11: ζωὴ αἰώνιος (zōē aiōnios)  
@@ -133,11 +130,3 @@ v21: φυλάσσω (phylassō)
 v21: εἴδωλον (eidōlon)  
 “Idol” or “image.” An object or representation given the allegiance that belongs to God.  
 
-v01: πιστεύω (pisteuō)
-“To trust” or “believe.” The verb describes reliance upon and acknowledgment of Jesus as the Christ and the Son of God.
-
-v04: πίστις (pistis)
-“Trust; faith; faithfulness.” Here explicitly identified as the victory that has overcome the world.
-
-v06: μαρτυρέω (martyreō)
-“To testify” or “bear witness.” To give testimony concerning something known or witnessed.

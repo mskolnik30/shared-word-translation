@@ -65,15 +65,15 @@ for in doing so you will heap burning coals on his head.”
 v21: Do not be overcome by evil, but overcome evil with good.
 </p>
 ## Notes
-v1: “Therefore” connects exhortation to the preceding argument. Response is grounded in “the mercies of God,” not in obligation alone.  
-v1: “Living sacrifice” reconfigures sacrificial language. The offering is ongoing and embodied rather than terminal.  
-v1: “Bodies” emphasizes concrete life, not merely inward disposition.  
-v2: Conformity and transformation are contrasted. Renewal of mind enables discernment rather than mere rule-following.  
-v3: Grace governs both speech and self-perception. Thinking “with sober judgment” resists both pride and self-negation.  
-v4–5: The body metaphor grounds unity in diversity. Mutual belonging (“members of one another”) extends beyond shared identity.  
-v6–8: Gifts are given and exercised within limits (“according to…”). Function is not generalized but particular.  
-v8: Manner matters: generosity, diligence, and cheerfulness qualify the exercise of gifts.  
-v9: Love is defined negatively (“without hypocrisy”) and then directed toward moral discernment.  
+v01: “Therefore” connects exhortation to the preceding argument. Response is grounded in “the mercies of God,” not in obligation alone.  
+v01: “Living sacrifice” reconfigures sacrificial language. The offering is ongoing and embodied rather than terminal.  
+v01: “Bodies” emphasizes concrete life, not merely inward disposition.  
+v02: Conformity and transformation are contrasted. Renewal of mind enables discernment rather than mere rule-following.  
+v03: Grace governs both speech and self-perception. Thinking “with sober judgment” resists both pride and self-negation.  
+v04–05: The body metaphor grounds unity in diversity. Mutual belonging (“members of one another”) extends beyond shared identity.  
+v06–08: Gifts are given and exercised within limits (“according to…”). Function is not generalized but particular.  
+v08: Manner matters: generosity, diligence, and cheerfulness qualify the exercise of gifts.  
+v09: Love is defined negatively (“without hypocrisy”) and then directed toward moral discernment.  
 v10: Honor is made competitive in reverse—seeking to give rather than receive.  
 v11: Zeal and service are held together, preventing both apathy and misdirected fervor.  
 v12: The triad (hope, affliction, prayer) situates endurance within expectation.  
@@ -87,45 +87,45 @@ v19: Vengeance is relinquished to God. The citation grounds restraint in divine 
 v20: The proverb introduces ambiguity (“burning coals”) without interpretation, preserving its tension.  
 v21: The final exhortation frames the entire section: good actively resists and overcomes evil.  
 
-##Vocabulary
+## Vocabulary
 
-v1: παρακαλέω (parakaleō)  
+v01: παρακαλέω (parakaleō)  
 “To urge” or “to exhort.” A call grounded in relationship and appeal.  
 
-v1: θυσία (thysia)  
+v01: θυσία (thysia)  
 “Sacrifice.” Traditionally a ritual offering, here reconfigured as lived devotion.  
 
-v1: λογικός (logikos)  
+v01: λογικός (logikos)  
 “Fitting” or “reasonable.” Can imply rational, spiritual, or appropriate service.  
 
-v2: συσχηματίζω (syschēmatizō)  
+v02: συσχηματίζω (syschēmatizō)  
 “To conform.” To take on the pattern of something external.  
 
-v2: μεταμορφόω (metamorphoō)  
+v02: μεταμορφόω (metamorphoō)  
 “To transform.” A change in form or nature.  
 
-v2: ἀνακαίνωσις (anakainōsis)  
+v02: ἀνακαίνωσις (anakainōsis)  
 “Renewal.” A making new, especially of the mind.  
 
-v3: σωφρονέω (sōphroneō)  
+v03: σωφρονέω (sōphroneō)  
 “To think with sober judgment.” Balanced, self-controlled thinking.  
 
-v4: μέλος (melos)  
+v04: μέλος (melos)  
 “Member.” A part belonging to a body.  
 
-v6: χάρισμα (charisma)  
+v06: χάρισμα (charisma)  
 “Gift.” A grace-given ability or function.  
 
-v7: διακονία (diakonia)  
+v07: διακονία (diakonia)  
 “Service.” Practical or ministerial action.  
 
-v8: προΐστημι (proistēmi)  
+v08: προΐστημι (proistēmi)  
 “To lead.” To stand before or guide.  
 
-v9: ἀγάπη (agapē)  
+v09: ἀγάπη (agapē)  
 “Love.” Self-giving commitment toward others.  
 
-v9: κολλάομαι (kollaomai)  
+v09: κολλάομαι (kollaomai)  
 “To cling.” To attach firmly.  
 
 v11: ζέω (zeō)
@@ -149,5 +149,3 @@ v21: νικάω (nikaō)
 v01: θυσία (thysia)
 “Sacrifice; offering.” Here the ritual term is applied metaphorically to embodied life.
 
-v06: χάρισμα (charisma)
-“Gift.” A grace-given ability or function.

@@ -36,30 +36,25 @@ v14: But now the LORD has spoken, saying, "Within three years, as a worker bound
 and the remnant will be very small and feeble."
 </p>
 ## Notes
-v5: “a throne will be established in steadfast love” — Political stability is linked with faithful love, justice, and righteousness rather than power alone.  
+v05: “a throne will be established in steadfast love” — Political stability is linked with faithful love, justice, and righteousness rather than power alone.  
 v14: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
-v1: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v8: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+v01: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v08: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
-##Vocabulary
+## Vocabulary
 
 v14: שְׁאָר (she'ar)
 “Remnant.” Those who remain or survive.
 
-v1: צִיּוֹן (tsiyyon)  
+v01: צִיּוֹן (tsiyyon)  
 “Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
-v8: גּוֹיִם (goyim)  
+v08: גּוֹיִם (goyim)  
 “Nations” or “peoples.” Peoples beyond Israel.  
 
-v5: מִשְׁפָּט (mishpat)  
+v05: מִשְׁפָּט (mishpat)  
 “Justice” or “judgment.” Right judgment and right communal ordering.  
 
 v01: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v08: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.
-
-v05: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.

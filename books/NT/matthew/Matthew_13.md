@@ -191,7 +191,7 @@ v57: And they took offense at him. But Jesus said to them, “A prophet is not w
 v58: And he did not do many mighty works there, because of their unbelief.
 </p>
 ## Notes
-v3–9: The sower parable centers not on seed but reception; variability lies in response.  
+v03–09: The sower parable centers not on seed but reception; variability lies in response.  
 v11: “Mysteries” indicates revealed realities, not hidden puzzles.  
 v12: Possession is dynamic; receptivity increases capacity.  
 v13–15: Perception failure is moral as well as cognitive.  
@@ -206,9 +206,9 @@ v47–50: Sorting is inevitable; inclusion now does not guarantee final status.
 v52: Continuity and innovation are held together in kingdom teaching.  
 v57–58: Familiarity obstructs recognition; unbelief limits reception, not power itself.
 
-##Vocabulary
+## Vocabulary
 
-v3: παραβολή (*parabolē*) — “Parable.” Comparison that reveals and conceals.  
+v03: παραβολή (*parabolē*) — “Parable.” Comparison that reveals and conceals.  
 
 v11: μυστήρια (mystēria)
 “Mysteries.” Revealed divine realities.

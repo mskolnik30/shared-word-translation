@@ -174,7 +174,7 @@ v22: “The circle of the earth” (ḥûg hāʾāreṣ) names a horizon, not a 
 v26: To call the stars “by name” names them as known. The verse adapts royal court imagery to the cosmos.
 v31: “Wait for the LORD” renders qāwâ, the verb of expectant trust. The promise is not invulnerability but renewed strength in continuing.
 
-##Vocabulary
+## Vocabulary
 
 v01: נָחַם (nāḥam) — To comfort, to console. Also used of repentance and relenting; the word names a turn of feeling.
 

@@ -145,7 +145,7 @@ v41: The flour is used in the healing of the stew, but the narrative attributes 
 v42: Firstfruits are brought to the man of God during famine, and the prophetic command redistributes them to the community.
 v43–44: The multiplication is explicitly grounded in the word of the LORD: the food proves sufficient and leaves a remainder.
 
-##Vocabulary
+## Vocabulary
 
 v01: נָשָׁה (nashah)
 “Creditor.” One who claims repayment of debt.

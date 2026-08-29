@@ -102,14 +102,14 @@ v30: And to every beast of the earth and to every bird of the heavens and to eve
 v31: And God saw everything that he had made, and behold, it was very good. And there was evening, and there was morning—the sixth day.
 </p>
 ## Notes
-v1: “In the beginning” introduces not a sequence within time but the origin of ordered existence. The statement stands without explanation.  
-v2: “Formless and empty” names unstructured potential rather than absolute nothingness. Darkness and the deep are present but not opposed to God.  
-v2: The Spirit “hovering” suggests readiness and presence prior to speech.  
-v3–5: Creation begins with speech. Light is called forth without mediation and then named and ordered.  
-v5: “Evening…morning” establishes a rhythmic structure that governs the entire chapter.  
-v6–8: Separation continues. The expanse orders waters without eliminating them, preserving layered creation.  
-v8: “Heavens” names the ordered space rather than a distant realm.  
-v9–10: Gathering and appearing introduce stability. Land and sea are distinguished and named.  
+v01: “In the beginning” introduces not a sequence within time but the origin of ordered existence. The statement stands without explanation.  
+v02: “Formless and empty” names unstructured potential rather than absolute nothingness. Darkness and the deep are present but not opposed to God.  
+v02: The Spirit “hovering” suggests readiness and presence prior to speech.  
+v03–05: Creation begins with speech. Light is called forth without mediation and then named and ordered.  
+v05: “Evening…morning” establishes a rhythmic structure that governs the entire chapter.  
+v06–08: Separation continues. The expanse orders waters without eliminating them, preserving layered creation.  
+v08: “Heavens” names the ordered space rather than a distant realm.  
+v09–10: Gathering and appearing introduce stability. Land and sea are distinguished and named.  
 v11–13: The earth is commanded to “bring forth,” indicating delegated productivity. Life emerges according to kinds without further elaboration.  
 v14–19: Lights are assigned function (signs, seasons, time) rather than identity. Their roles govern order, not worship.  
 v16: The greater and lesser lights are described functionally, avoiding their common names.  
@@ -123,39 +123,39 @@ v29–30: Provision is comprehensive. Food is given to both humans and animals, 
 v31: “Very good” gathers all prior judgments. The whole creation is affirmed, not merely its parts.  
 v31: The sixth day concludes the sequence with completeness, preparing for the cessation that follows.  
 
-##Vocabulary
+## Vocabulary
 
-v1: בָּרָא (baraʾ)  
+v01: בָּרָא (baraʾ)  
 “To create.” Used uniquely of divine activity, not requiring material specification.  
 
-v1: שָׁמַיִם (shamayim)  
+v01: שָׁמַיִם (shamayim)  
 “Heavens.” The upper realm or sky, paired with earth as totality.  
 
-v2: תֹּהוּ וָבֹהוּ (tohu va-vohu)  
+v02: תֹּהוּ וָבֹהוּ (tohu va-vohu)  
 “Formless and empty.” Unordered and unfilled condition.  
 
-v2: תְּהוֹם (tehom)  
+v02: תְּהוֹם (tehom)  
 “The deep.” The primal waters.  
 
-v2: רוּחַ (ruaḥ)  
+v02: רוּחַ (ruaḥ)  
 “Spirit” or “wind.” Denotes divine presence and movement.  
 
-v2: “Breath.” Life-giving breath.  
+v02: “Breath.” Life-giving breath.  
 
-v3: אָמַר (ʾamar)  
+v03: אָמַר (ʾamar)  
 “To say.” Divine speech as creative act.  
 
-v4: בָּדַל (badal)  
+v04: בָּדַל (badal)  
 “To separate.” Establishing distinction and order.  
 
-v5: קָרָא (qaraʾ)  
+v05: קָרָא (qaraʾ)  
 “To call.” Naming as an act of authority.  
 
-v6: רָקִיעַ (raqiaʿ)  
+v06: רָקִיעַ (raqiaʿ)  
 
-v6: “Expanse.” A spread-out space dividing waters.  
+v06: “Expanse.” A spread-out space dividing waters.  
 
-v9: קָוָה (qavah)  
+v09: קָוָה (qavah)  
 “To gather.” Collecting waters into one place.  
 
 v10: אֶרֶץ (ʾerets)  
@@ -199,15 +199,6 @@ v30: נְשָׁמָה (neshamah)
 
 v31: טוֹב מְאֹד (tov meʾod)  
 “Very good.” Complete affirmation of creation.  
-
-v01: בָּרָא (baraʾ)
-“To create.” Used uniquely of divine activity, not requiring material specification.
-
-v01: שָׁמַיִם (shamayim)
-“Heavens.” The upper realm or sky, paired with earth as totality.
-
-v02: תֹּהוּ וָבֹהוּ (tohu va-vohu)
-“Formless and empty.” Unordered and unfilled condition.
 
 v02: רוּחַ (ruaḥ)
 “Spirit; wind; breath.” The term has a broad semantic range; context determines the sense.

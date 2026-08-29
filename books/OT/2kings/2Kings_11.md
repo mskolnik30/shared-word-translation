@@ -83,7 +83,7 @@ v17: The covenant has two dimensions: LORD-king-people and king-people, joining 
 v18: Baal’s temple and priest are destroyed as part of the restoration of Davidic rule and covenant identity.
 v21: The chapter ends by emphasizing the king’s extreme youth, implying dependence on priestly and institutional guidance.
 
-##Vocabulary
+## Vocabulary
 
 v01: זֶרַע הַמַּמְלָכָה (zera ha-mamlakhah)
 “Royal offspring.” The dynastic descendants Athaliah targets.

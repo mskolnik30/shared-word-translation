@@ -82,7 +82,7 @@ v17: “steadfast kindness” translates *hesed*, an unusual term in a Persian c
 v19: The second gathering of virgins is unexplained. TSW retains the statement without attempting to reconstruct a missing event.
 v23: “hanged on a tree” can refer to hanging, impalement, or exposure upon a wooden structure. Persian execution practices make precise reconstruction uncertain.
 
-##Vocabulary
+## Vocabulary
 
 v03: תַּמְרוּק (tamruq)
 “Beauty treatment” or “cosmetic preparation.”

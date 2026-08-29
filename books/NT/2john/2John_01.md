@@ -47,62 +47,62 @@ v12: Though I have much to write to you, I would rather not use paper and ink. I
 v13: The children of your elect sister greet you.
 </p>
 ## Notes
-v1: “The elder” remains unnamed; authority is relational rather than formal.  
-v1: “Elect lady” is not clarified; identity remains open.  
-v2: Truth is described as abiding, not merely known.  
-v3: Blessing is framed as ongoing presence (“will be with us”).  
-v4: Walking is used to describe lived conduct.  
-v5: The command is not new; continuity is emphasized.  
-v6: Love is defined through action rather than feeling.  
-v7: Deception is doctrinal and relational.  
-v7: “Antichrist” is applied functionally, not exclusively.  
-v8: Loss is possible; vigilance is required.  
-v9: Abiding determines relationship with God.  
+v01: “The elder” remains unnamed; authority is relational rather than formal.  
+v01: “Elect lady” is not clarified; identity remains open.  
+v02: Truth is described as abiding, not merely known.  
+v03: Blessing is framed as ongoing presence (“will be with us”).  
+v04: Walking is used to describe lived conduct.  
+v05: The command is not new; continuity is emphasized.  
+v06: Love is defined through action rather than feeling.  
+v07: Deception is doctrinal and relational.  
+v07: “Antichrist” is applied functionally, not exclusively.  
+v08: Loss is possible; vigilance is required.  
+v09: Abiding determines relationship with God.  
 v10–11: Association is treated as participation.  
 v12: Presence is preferred over writing.  
 v13: The closing maintains relational connection without expansion.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐκλεκτός (eklektos)  
+v01: ἐκλεκτός (eklektos)  
 
-v1: “Chosen” or “elect.” One set apart.  
+v01: “Chosen” or “elect.” One set apart.  
 
-v1: ἀλήθεια (alētheia)  
+v01: ἀλήθεια (alētheia)  
 
-v1: “Truth.” Reality expressed and lived.  
+v01: “Truth.” Reality expressed and lived.  
 
-v2: μένω (menō)  
+v02: μένω (menō)  
 
-v2: “To abide.” To remain or continue.  
+v02: “To abide.” To remain or continue.  
 
-v3: χάρις (charis)  
+v03: χάρις (charis)  
 
-v3: “Grace.” Favor given freely.  
+v03: “Grace.” Favor given freely.  
 
-v4: περιπατέω (peripateō)  
+v04: περιπατέω (peripateō)  
 
-v4: “To walk.” To live or conduct oneself.  
+v04: “To walk.” To live or conduct oneself.  
 
-v5: ἐντολή (entolē)  
+v05: ἐντολή (entolē)  
 
-v5: “Commandment.” Instruction to be followed.  
+v05: “Commandment.” Instruction to be followed.  
 
-v7: πλάνος (planos)  
+v07: πλάνος (planos)  
 
-v7: “Deceiver.” One who leads astray.  
+v07: “Deceiver.” One who leads astray.  
 
-v7: ἀντίχριστος (antichristos)  
+v07: ἀντίχριστος (antichristos)  
 
-v7: “Antichrist.” One opposed to Christ.  
+v07: “Antichrist.” One opposed to Christ.  
 
-v8: μισθός (misthos)  
+v08: μισθός (misthos)  
 
-v8: “Reward.” What is received for work.  
+v08: “Reward.” What is received for work.  
 
-v9: διδαχή (didachē)  
+v09: διδαχή (didachē)  
 
-v9: “Teaching.” Instruction or doctrine.  
+v09: “Teaching.” Instruction or doctrine.  
 
 v11: κοινωνέω (koinōneō)  
 

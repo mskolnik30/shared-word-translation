@@ -216,9 +216,9 @@ v52: Solomon said, “If he proves to be a worthy man, not a hair of his will fa
 <p>
 v53: So King Solomon sent and brought him down from the altar. He came and prostrated himself before King Solomon, and Solomon said to him, “Go to your house.”
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v05: מִתְנַשֵּׂא (mitnassēʾ)
 “exalting himself.” Adonijah actively elevates himself rather than receiving the kingship through David’s public appointment.

@@ -113,11 +113,11 @@ v36: lest coming suddenly he find you sleeping.
 v37: And what I say to you I say to all: Watch.”
 </p>
 ## Notes
-v1–2: Admiration for temple grandeur is met with a word of dismantling.
-v3: The Mount of Olives setting places the discourse opposite the temple, physically and symbolically.
-v5: The first command is not to calculate but to avoid deception.
-v7–8: Wars and disasters are not treated as the end itself but as preliminary anguish.
-v9–11: Persecution becomes occasion for witness; speech is promised as gift.
+v01–02: Admiration for temple grandeur is met with a word of dismantling.
+v03: The Mount of Olives setting places the discourse opposite the temple, physically and symbolically.
+v05: The first command is not to calculate but to avoid deception.
+v07–08: Wars and disasters are not treated as the end itself but as preliminary anguish.
+v09–11: Persecution becomes occasion for witness; speech is promised as gift.
 v13: Endurance is tied to salvation without reducing salvation to human stamina.
 v14: “Let the reader understand” interrupts the discourse and signals discernment.
 v15–16: Urgency is expressed through refusal to retrieve possessions.
@@ -128,29 +128,29 @@ v30–31: The tension between nearness and permanence is maintained rather than 
 v32: The Son’s not knowing is stated without qualification; the text preserves distinction within obedience.
 v33–37: Watchfulness replaces date-setting as the proper posture of discipleship.
 
-##Vocabulary
+## Vocabulary
 
-v2: καταλύω (katalyō)
+v02: καταλύω (katalyō)
 
 “To throw down, destroy.” Used of dismantling structures.
 
-v5: βλέπω (blepō)
+v05: βλέπω (blepō)
 
 “See, watch.” Can mean physical seeing or vigilant attention.
 
-v5: πλανάω (planaō)
+v05: πλανάω (planaō)
 
 “To lead astray.” Deception from the path of truth.
 
-v7: θροέω (throeō)
+v07: θροέω (throeō)
 
 “To be alarmed, troubled.” Emotional disturbance in response to events.
 
-v8: ὠδίν (ōdin)
+v08: ὠδίν (ōdin)
 
 “Birth pain.” Suffering that signals something coming forth.
 
-v9: συνέδριον (synedrion)
+v09: συνέδριον (synedrion)
 
 “Council.” Judicial or governing assembly.
 
@@ -199,8 +199,3 @@ v37: γρηγορέω (grēgoreō)
 
 “To watch.” Vigilant readiness.
 
-v05: βλέπω (blepō)
-“See, watch.” Can mean physical seeing or vigilant attention.
-
-v05: πλανάω (planaō)
-“To lead astray.” Deception from the path of truth.

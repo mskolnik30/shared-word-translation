@@ -109,13 +109,13 @@ v32: In Damascus, the governor under King Aretas was guarding the city of the Da
 v33: but I was let down in a basket through a window in the wall and escaped his hands.
 </p>
 ## Notes
-v1–2: “Foolishness” frames Paul’s rhetoric. He adopts the category he critiques in order to expose it.  
-v2: “Divine jealousy” is covenantal language. The community is imagined relationally, not institutionally.  
-v3: The reference to Eve introduces deception as misdirection of thought, not merely action.  
-v4: Multiplicity (“another Jesus…different spirit…different good news”) signals distortion without specifying content.  
-v5–6: Paul concedes rhetorical weakness while asserting epistemic clarity.  
-v7–9: Refusal of support is interpreted by opponents as weakness; Paul reframes it as intentional.  
-v8: “Robbed” is ironic. Support from other churches enabled service without burdening Corinth.  
+v01–02: “Foolishness” frames Paul’s rhetoric. He adopts the category he critiques in order to expose it.  
+v02: “Divine jealousy” is covenantal language. The community is imagined relationally, not institutionally.  
+v03: The reference to Eve introduces deception as misdirection of thought, not merely action.  
+v04: Multiplicity (“another Jesus…different spirit…different good news”) signals distortion without specifying content.  
+v05–06: Paul concedes rhetorical weakness while asserting epistemic clarity.  
+v07–09: Refusal of support is interpreted by opponents as weakness; Paul reframes it as intentional.  
+v08: “Robbed” is ironic. Support from other churches enabled service without burdening Corinth.  
 v12: Paul’s strategy is preventative—removing grounds for comparison.  
 v13–15: Disguise is central. Appearance and reality are not aligned.  
 v16–18: Paul marks his own speech as “not according to the Lord,” signaling rhetorical distance even as he proceeds.  
@@ -127,23 +127,23 @@ v29: Identification with others’ weakness defines Paul’s posture.
 v30: Boasting is inverted. Weakness becomes the legitimate ground.  
 v32–33: The escape from Damascus concludes with vulnerability rather than triumph.  
 
-##Vocabulary
+## Vocabulary
 
-v2: ζηλόω (zēloō)  
+v02: ζηλόω (zēloō)  
 
-v2: “To be jealous” or “zealous.” Can denote protective devotion.  
+v02: “To be jealous” or “zealous.” Can denote protective devotion.  
 
-v3: πανουργία (panourgia)  
+v03: πανουργία (panourgia)  
 
-v3: “Cunning.” Crafty or deceptive strategy.  
+v03: “Cunning.” Crafty or deceptive strategy.  
 
-v5: ὑπερλίαν (hyperlian)  
+v05: ὑπερλίαν (hyperlian)  
 
-v5: “Super” or “beyond measure.” Used ironically of rival apostles.  
+v05: “Super” or “beyond measure.” Used ironically of rival apostles.  
 
-v7: δωρεάν (dōrean)  
+v07: δωρεάν (dōrean)  
 
-v7: “Free of charge.” Without payment.  
+v07: “Free of charge.” Without payment.  
 
 v13: ψευδαπόστολος (pseudapostolos)  
 

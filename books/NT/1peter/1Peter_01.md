@@ -85,13 +85,13 @@ v25: but the word of the Lord remains forever.”
 And this word is the good news that was preached to you.
 </p>
 ## Notes
-v1: Identity is framed as both chosen and scattered.  
-v2: Divine action is described across Father, Spirit, and Son without explanation.  
-v3: New birth is attributed to divine mercy, not human action.  
-v4: The inheritance is defined negatively (what it is not).  
-v5: Salvation is both present and future.  
-v6–7: Trials function as testing, not interruption.  
-v8–9: Faith operates without sight; joy precedes completion.  
+v01: Identity is framed as both chosen and scattered.  
+v02: Divine action is described across Father, Spirit, and Son without explanation.  
+v03: New birth is attributed to divine mercy, not human action.  
+v04: The inheritance is defined negatively (what it is not).  
+v05: Salvation is both present and future.  
+v06–07: Trials function as testing, not interruption.  
+v08–09: Faith operates without sight; joy precedes completion.  
 v10–12: Prophetic inquiry is directed toward future fulfillment.  
 v12: Angels are observers, not participants.  
 v13: Preparation is internal before external action.  
@@ -102,31 +102,31 @@ v20–21: Foreknowledge precedes manifestation.
 v22–23: New birth results in relational obligation.  
 v24–25: Human transience contrasts with enduring word.  
 
-##Vocabulary
+## Vocabulary
 
-v1: παρεπίδημος (parepidēmos)  
+v01: παρεπίδημος (parepidēmos)  
 
-v1: “Exile.” One residing temporarily.  
+v01: “Exile.” One residing temporarily.  
 
-v2: πρόγνωσις (prognōsis)  
+v02: πρόγνωσις (prognōsis)  
 
-v2: “Foreknowledge.” Prior awareness or determination.  
+v02: “Foreknowledge.” Prior awareness or determination.  
 
-v3: ἀναγεννάω (anagennaō)  
+v03: ἀναγεννάω (anagennaō)  
 
-v3: “To be born again.” To be brought to new life.  
+v03: “To be born again.” To be brought to new life.  
 
-v4: κληρονομία (klēronomia)  
+v04: κληρονομία (klēronomia)  
 
-v4: “Inheritance.” What is received.  
+v04: “Inheritance.” What is received.  
 
-v7: δοκιμάζω (dokimazō)  
+v07: δοκιμάζω (dokimazō)  
 
-v7: “To test.” To examine or prove.  
+v07: “To test.” To examine or prove.  
 
-v8: ἀνεκλάλητος (aneklalētos)  
+v08: ἀνεκλάλητος (aneklalētos)  
 
-v8: “Inexpressible.” Beyond speech.  
+v08: “Inexpressible.” Beyond speech.  
 
 v10: ἐξερευνάω (exereunaō)  
 

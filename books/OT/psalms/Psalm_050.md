@@ -119,59 +119,59 @@ to one who orders his way rightly
 I will show the salvation of God.”
 </p>
 ## Notes
-v1–3: Theophany imagery—fire and storm—signals divine judgment; God appears not as passive observer but as active judge.
-v4–6: Cosmic witnesses (heavens and earth) frame the trial; covenant community stands under evaluation.
-v5: “Faithful ones” are defined covenantally—those bound by sacrifice, not merely sentiment.
-v7–13: The critique is not absence of sacrifice but misunderstanding of it; God’s ownership of creation nullifies any notion of divine need.
+v01–03: Theophany imagery—fire and storm—signals divine judgment; God appears not as passive observer but as active judge.
+v04–06: Cosmic witnesses (heavens and earth) frame the trial; covenant community stands under evaluation.
+v05: “Faithful ones” are defined covenantally—those bound by sacrifice, not merely sentiment.
+v07–13: The critique is not absence of sacrifice but misunderstanding of it; God’s ownership of creation nullifies any notion of divine need.
 v12: The rhetorical claim underscores divine self-sufficiency; worship is not provision for God.
 v14–15: True sacrifice is reoriented—thanksgiving, fulfilled vows, and reliance in trouble.
 v16–20: Ethical inconsistency exposes false worship; speech and conduct contradict covenant claims.
 v21: Divine silence has been misread as approval; judgment clarifies the error.
 v22–23: Final warning and promise—rightly ordered life and thanksgiving align with salvation.
 
-##Vocabulary
+## Vocabulary
 
-v1: אֵל (ʾēl)  
+v01: אֵל (ʾēl)  
 
 “God.” Mighty one.
 
-v1: דִּבֶּר (dibbēr)  
+v01: דִּבֶּר (dibbēr)  
 
 “To speak.” To declare with authority.
 
-v1: קָרָא (qārāʾ)  
+v01: קָרָא (qārāʾ)  
 
 “To summon.” To call formally.
 
-v2: צִיּוֹן (ṣiyyôn)  
+v02: צִיּוֹן (ṣiyyôn)  
 
 “Zion.” Place of divine presence.
 
-v3: אֵשׁ (ʾēš)  
+v03: אֵשׁ (ʾēš)  
 
 “Fire.” Consuming force.
 
-v3: סְעָרָה (sĕʿārāh)  
+v03: סְעָרָה (sĕʿārāh)  
 
 “Storm.” Violent whirlwind.
 
-v4: שָׁפַט (šāpaṭ)  
+v04: שָׁפַט (šāpaṭ)  
 
 “To judge.” To render decision.
 
-v5: חָסִיד (ḥāsîḏ)  
+v05: חָסִיד (ḥāsîḏ)  
 
 “Faithful one.” Loyal, devoted.
 
-v5: בְּרִית (berît)  
+v05: בְּרִית (berît)  
 
 “Covenant.” Binding agreement.
 
-v8: זֶבַח (zeḇaḥ)  
+v08: זֶבַח (zeḇaḥ)  
 
 “Sacrifice.” Slaughtered offering.
 
-v9: פָּר (pār)  
+v09: פָּר (pār)  
 
 “Bull.” Animal for sacrifice.
 
@@ -235,14 +235,3 @@ v23: יְשׁוּעָה (yĕšûʿāh)
 
 “Salvation.” Deliverance.
 
-v05: חָסִיד (ḥāsîḏ)
-“Faithful one.” Loyal, devoted.
-
-v05: בְּרִית (berît)
-“Covenant.” Binding agreement.
-
-v08: זֶבַח (zeḇaḥ)
-“Sacrifice.” Slaughtered offering.
-
-v09: פָּר (pār)
-“Bull.” Animal for sacrifice.

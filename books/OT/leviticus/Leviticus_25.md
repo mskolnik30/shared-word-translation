@@ -121,7 +121,7 @@ v35–43: An impoverished Israelite who enters service is not to be treated as a
 v44–46: The text explicitly distinguishes foreign slaves from Israelite debt-servants and permits foreign slaves to be held as inheritable property. TSW retains the legal distinction without softening or harmonizing it with later moral or theological judgments.
 v47–55: Even when an Israelite has sold themselves to a prosperous resident alien, kinship redemption and the Jubilee prevent permanent loss of freedom within Israel.
 
-##Vocabulary
+## Vocabulary
 
 v04: שַׁבַּת שַׁבָּתוֹן (shabbat shabbaton)
 “Sabbath of complete rest.” An intensified expression for cessation from ordinary agricultural work.

@@ -110,10 +110,10 @@ v50: All the Israelites did just as the LORD commanded Moses and Aaron.
 v51: And on that very day the LORD brought the Israelites out of the land of Egypt by their divisions.
 </p>
 ## Notes
-v2: “the beginning of months” — Liberation resets time itself; God’s deliverance becomes Israel’s calendar and identity marker.  
-v3–4: “each household… nearest neighbor” — The meal is communal and scalable; provision is shared so no household is left without participation.  
-v5: “without blemish” — The offering is set apart as whole; the ritual teaches reverence, not magical protection.  
-v7: “blood… on the doorposts” — The sign is public and located at the threshold: deliverance is marked at the boundary between death and life.  
+v02: “the beginning of months” — Liberation resets time itself; God’s deliverance becomes Israel’s calendar and identity marker.  
+v03–04: “each household… nearest neighbor” — The meal is communal and scalable; provision is shared so no household is left without participation.  
+v05: “without blemish” — The offering is set apart as whole; the ritual teaches reverence, not magical protection.  
+v07: “blood… on the doorposts” — The sign is public and located at the threshold: deliverance is marked at the boundary between death and life.  
 v11: “eat it in haste” — Redemption is not leisurely; the posture is readiness, as people prepared to move when God opens the way.  
 v12: “on all the gods of Egypt… judgments” — The plague narrative is also a theological confrontation: the LORD exposes and overturns Egypt’s claimed powers.  
 v13: “a sign for you” — The blood is described as sign for Israel (identity and belonging), not as information God lacks; it marks a people under protection.  
@@ -129,25 +129,25 @@ v40–42: “four hundred thirty years… night of watching” — The long wait
 v46: “you shall not break any of its bones” — The Passover becomes a marked sign of wholeness and protection; later biblical memory will hear deeper resonance here.  
 v49: “one instruction” — Covenant life is not two-tiered; the same instruction governs belonging for both native and resident alien within the community.  
 
-##Vocabulary
+## Vocabulary
 
-v2: חֹדֶשׁ (ḥodesh) — month; new moon  
+v02: חֹדֶשׁ (ḥodesh) — month; new moon  
 
-v3: עֵדָה (ʿedah) — congregation; assembly  
+v03: עֵדָה (ʿedah) — congregation; assembly  
 
-v3: שֶׂה (seh) — lamb; small livestock (sheep/goat)  
+v03: שֶׂה (seh) — lamb; small livestock (sheep/goat)  
 
-v6: שָׁחַט (shaḥat) — to slaughter  
+v06: שָׁחַט (shaḥat) — to slaughter  
 
-v7: דָּם (dam) — blood  
+v07: דָּם (dam) — blood  
 
-v7: מְזוּזָה (mezuzah) — doorpost  
+v07: מְזוּזָה (mezuzah) — doorpost  
 
-v7: מַשְׁקוֹף (mashqof) — lintel; doorframe top  
+v07: מַשְׁקוֹף (mashqof) — lintel; doorframe top  
 
-v8: מַצָּה (matzah) — unleavened bread  
+v08: מַצָּה (matzah) — unleavened bread  
 
-v8: מְרֹרִים (merorim) — bitter herbs  
+v08: מְרֹרִים (merorim) — bitter herbs  
 
 v11: פֶּסַח (pesach) — Passover  
 

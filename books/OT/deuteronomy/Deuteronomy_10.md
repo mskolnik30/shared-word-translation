@@ -79,7 +79,7 @@ v17: Divine impartiality is stated through legal language: God recognizes no fac
 v18–19: Israel must imitate divine concern for the orphan, widow, and resident alien. Memory of Egypt grounds love of the outsider.
 v22: The seventy-person descent to Egypt and star-like multiplication connect Jacob’s family with the ancestral promise.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֲרוֹן עֵץ (aron ets)
 “Ark of wood.” The chest in which the second tablets are placed.

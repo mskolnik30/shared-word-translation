@@ -97,47 +97,47 @@ v28: For he is not a Jew who is one outwardly, nor is circumcision outward in th
 v29: but he is a Jew who is one inwardly, and circumcision is of the heart, in spirit, not in letter, whose praise is not from men but from God.
 </p>
 ## Notes
-v1–3: Judgment exposes shared guilt rather than superiority.
-v4: Divine kindness aims at repentance, not presumption.
-v5–6: Judgment is stored and rendered according to works.
-v7–10: Universal principle applies to Jew and Greek alike.
+v01–03: Judgment exposes shared guilt rather than superiority.
+v04: Divine kindness aims at repentance, not presumption.
+v05–06: Judgment is stored and rendered according to works.
+v07–10: Universal principle applies to Jew and Greek alike.
 v11: God’s judgment is impartial.
 v12–16: Accountability extends beyond possession of the law.
 v17–24: Possession of the law without obedience results in hypocrisy.
 v25–27: External markers are nullified by disobedience.
 v28–29: True identity is inward and spiritual, not merely external.
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀναπολόγητος (anapologētos)
+v01: ἀναπολόγητος (anapologētos)
 
 “Without excuse.”
 
-v2: κρίμα (krima)
+v02: κρίμα (krima)
 
 “Judgment.”
 
-v4: χρηστότης (chrēstotēs)
+v04: χρηστότης (chrēstotēs)
 
 “Kindness.”
 
-v5: σκληρότης (sklērotēs)
+v05: σκληρότης (sklērotēs)
 
 “Hardness.”
 
-v6: ἀποδίδωμι (apodidōmi)
+v06: ἀποδίδωμι (apodidōmi)
 
 “To repay.”
 
-v7: ἀφθαρσία (aphtharsia)
+v07: ἀφθαρσία (aphtharsia)
 
 “Incorruption.”
 
-v8: ἐριθεία (eritheia)
+v08: ἐριθεία (eritheia)
 
 “Self-seeking.”
 
-v9: θλῖψις (thlipsis)
+v09: θλῖψις (thlipsis)
 
 “Tribulation.”
 
@@ -172,11 +172,3 @@ v29: καρδία (kardia)
 
 “Heart.”
 
-v01: ἀναπολόγητος (anapologētos)
-“Without excuse.”
-
-v02: κρίμα (krima)
-“Judgment.”
-
-v04: χρηστότης (chrēstotēs)
-“Kindness.”

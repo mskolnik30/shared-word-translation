@@ -135,7 +135,7 @@ v19: The priests named first acknowledge guilt by giving their hand and bringing
 v25: The name Malchijah appears twice in the same family list in the Masoretic Text. TSW retains both occurrences rather than deleting one as accidental.
 v44: The Hebrew final clause is compressed but indicates that some of the foreign wives had borne children. The book ends with this stark human consequence rather than a narrative summary of restored harmony.
 
-##Vocabulary
+## Vocabulary
 
 v01: יָדָה (yadah)
 “To confess” or “give thanks.” Here Ezra openly acknowledges communal sin before God.

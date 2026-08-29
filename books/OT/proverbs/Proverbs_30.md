@@ -240,7 +240,7 @@ v18–19: The four “ways” leave no lasting track that fully explains how pas
 v24–28: Wisdom is discovered among creatures lacking obvious strength or authority. Smallness does not prevent effective adaptation.
 v31: The Hebrew expression translated “strutting rooster” is uncertain and has been rendered in several ways, including greyhound or warhorse. TSW retains a traditional animal interpretation while acknowledging the uncertainty.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַשָּׂא (massa)
 “Oracle” or “burden.” A weighty saying or prophetic utterance.

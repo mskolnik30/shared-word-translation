@@ -89,7 +89,7 @@ v19: The exact identity of the third food portion is uncertain. TSW follows the 
 v20: Michal accuses David of exposing himself. The text does not explicitly say he was naked; the issue is royal dignity and bodily display during ecstatic celebration.
 v23: Michal’s childlessness may be narrative consequence, marital estrangement, or both. The verse does not state a direct divine judgment formula.
 
-##Vocabulary
+## Vocabulary
 
 v02: אֲרוֹן (aron)
 “Ark.” The sacred chest associated with divine presence.

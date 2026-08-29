@@ -81,7 +81,7 @@ by the hand of Moses and Aaron.
 ## Notes
 v10: The Hebrew is terse and can be understood in more than one way. It may express the psalmist’s grief that the Most High seems to have changed, or mark the point at which the speaker turns toward remembering God’s mighty acts.
 
-##Vocabulary
+## Vocabulary
 
 v15: גָּאַל (gaʾal)
 “Redeem.” The verb evokes the action of a kinsman-redeemer and, more broadly, decisive deliverance that restores a people to freedom and belonging.

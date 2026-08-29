@@ -35,7 +35,7 @@ Peace be upon Israel!
 ## Notes
 v03: The “scepter of wickedness” is an image of oppressive rule. The verse recognizes the moral pressure such rule can exert even on the righteous without excusing wrongdoing.
 
-##Vocabulary
+## Vocabulary
 
 v03: גּוֹרָל (goral)
 “Lot” or “allotted portion,” land or destiny assigned by casting lots or by divine apportionment.

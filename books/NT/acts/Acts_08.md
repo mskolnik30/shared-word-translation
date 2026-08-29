@@ -147,9 +147,9 @@ v39: And when they came up out of the water, the Spirit of the Lord carried Phil
 v40: But Philip was found at Azotus, and passing through, he was proclaiming the good news to all the cities until he came to Caesarea.
 </p>
 ## Notes
-v1–3: Persecution becomes the means of geographic expansion.  
-v4–8: Proclamation is accompanied by signs and communal joy.  
-v9–11: Simon represents prior religious influence now displaced.  
+v01–03: Persecution becomes the means of geographic expansion.  
+v04–08: Proclamation is accompanied by signs and communal joy.  
+v09–11: Simon represents prior religious influence now displaced.  
 v12–13: Belief and baptism extend broadly, including Simon.  
 v14–17: Reception of the Spirit is mediated through apostolic presence.  
 v18–21: Attempt to control divine power reveals corrupted motive.  
@@ -163,31 +163,31 @@ v36: Some manuscripts add a verse between vv36 and 38 in which Philip asks about
 v37: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add a confession of faith before baptism. Public verse numbering is retained.
 v39–40: Mission continues beyond individual encounter.  
 
-##Vocabulary
+## Vocabulary
 
-v1: διωγμός (diōgmos)  
+v01: διωγμός (diōgmos)  
 
-v1: “Persecution.”  
+v01: “Persecution.”  
 
-v3: λυμαίνομαι (lymainomai)  
+v03: λυμαίνομαι (lymainomai)  
 
-v3: “To ravage.”  
+v03: “To ravage.”  
 
-v4: εὐαγγελίζω (euangelizō)  
+v04: εὐαγγελίζω (euangelizō)  
 
-v4: “To proclaim good news.”  
+v04: “To proclaim good news.”  
 
-v5: Χριστός (Christos)  
+v05: Χριστός (Christos)  
 
-v5: “Christ.”  
+v05: “Christ.”  
 
-v7: πνεῦμα ἀκάθαρτον  
+v07: πνεῦμα ἀκάθαρτον  
 
-v7: “Unclean spirit.”  
+v07: “Unclean spirit.”  
 
-v9: μαγεύω (mageuō)  
+v09: μαγεύω (mageuō)  
 
-v9: “To practice magic.”  
+v09: “To practice magic.”  
 
 v12: βασιλεία (basileia)  
 

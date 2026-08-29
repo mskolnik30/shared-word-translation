@@ -34,47 +34,36 @@ v06: May you see your children’s children!
 Peace be upon Israel!
 </p>
 ## Notes
-v1: “Fear of the LORD” frames the entire psalm—reverence expressed through lived obedience.  
-v2: Blessing is depicted in ordinary life: labor, provision, stability.  
-v3: Household imagery (vine, olive shoots) signals fertility, continuity, and rootedness.  
-v4: The blessing is not exceptional but normative for those aligned with God.  
-v5–6: Personal blessing expands to communal well-being (Zion, Jerusalem, Israel).  
-v6: Generational continuity (“children’s children”) marks fullness of life.  
+v01: “Fear of the LORD” frames the entire psalm—reverence expressed through lived obedience.  
+v02: Blessing is depicted in ordinary life: labor, provision, stability.  
+v03: Household imagery (vine, olive shoots) signals fertility, continuity, and rootedness.  
+v04: The blessing is not exceptional but normative for those aligned with God.  
+v05–06: Personal blessing expands to communal well-being (Zion, Jerusalem, Israel).  
+v06: Generational continuity (“children’s children”) marks fullness of life.  
 
-##Vocabulary
+## Vocabulary
 
-v1: יָרֵא (yare)  
+v01: יָרֵא (yare)  
 “To fear.” Reverent awe and alignment.  
 
-v1: הָלַךְ (halakh)  
+v01: הָלַךְ (halakh)  
 “To walk.” Conduct one’s life.  
 
-v2: יָגַע (yaga)  
+v02: יָגַע (yaga)  
 “To labor.” Work with effort.  
 
-v2: טוֹב (tov)  
+v02: טוֹב (tov)  
 “Good.” Well-being, flourishing.  
 
-v3: גֶּפֶן (gefen)  
+v03: גֶּפֶן (gefen)  
 “Vine.” Fruitful life.  
 
-v3: זַיִת (zayit)  
+v03: זַיִת (zayit)  
 “Olive.” Symbol of endurance and blessing.  
 
-v5: בָּרַךְ (barakh)  
+v05: בָּרַךְ (barakh)  
 “To bless.” Confer favor.  
 
-v6: שָׁלוֹם (shalom)  
+v06: שָׁלוֹם (shalom)  
 “Peace.” Wholeness and completeness.  
 
-v01: יָרֵא (yare)
-“To fear.” Reverent awe and alignment.
-
-v01: הָלַךְ (halakh)
-“To walk.” Conduct one’s life.
-
-v05: בָּרַךְ (barakh)
-“To bless.” Confer favor.
-
-v06: שָׁלוֹם (shalom)
-“Peace.” Wholeness and completeness.

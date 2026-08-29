@@ -123,7 +123,7 @@ v26: “comes in the name of the LORD” — Blessing is spoken over those who a
 v27: “given us light… festal procession… altar” — Deliverance culminates in worshipful procession: light leads the people toward thanksgiving and offering.
 
 
-  ## Vocabulary
+## Vocabulary
 
 v01: טוֹב (tov) — good
 
@@ -131,10 +131,7 @@ v12: דְּבוֹרָה (devorah) — bee
 
 v12: קוֹץ (qots) — thorn
 
-v14: עֹז (ʿoz) — strength; might
-
 v27: אוֹר (’or) — light
-##Vocabulary
 
 v01: יָדָה (yadah)
 “To give thanks; to praise.”

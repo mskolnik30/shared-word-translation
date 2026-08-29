@@ -50,10 +50,10 @@ v23: He blotted out every living thing that was upon the face of the ground, fro
 v24: And the waters prevailed upon the earth one hundred fifty days.
 </p>
 ## Notes
-v1: Noah’s righteousness is described relationally and covenantally. The focus remains on God’s recognition rather than Noah’s achievement.  
-v2–3: The distinction between clean and unclean animals appears before the giving of Israel’s law, suggesting categories already known within the narrative world.  
-v4: The seven-day period creates a final interval between warning and judgment.  
-v5: Noah’s obedience remains a recurring theme. The narrative repeatedly emphasizes action rather than explanation.  
+v01: Noah’s righteousness is described relationally and covenantally. The focus remains on God’s recognition rather than Noah’s achievement.  
+v02–03: The distinction between clean and unclean animals appears before the giving of Israel’s law, suggesting categories already known within the narrative world.  
+v04: The seven-day period creates a final interval between warning and judgment.  
+v05: Noah’s obedience remains a recurring theme. The narrative repeatedly emphasizes action rather than explanation.  
 v11: The flood comes from both below and above. The ordered boundaries established in creation are overwhelmed.  
 v12: Forty days and forty nights becomes a recurring biblical pattern associated with testing, judgment, and transformation.  
 v16: The LORD shuts Noah into the ark. Preservation ultimately depends on divine action rather than human effort.  
@@ -62,15 +62,15 @@ v21–23: The language deliberately echoes creation. The destruction is portraye
 v22: “The breath of the spirit of life” recalls God’s gift of life in Genesis 2, highlighting the reversal taking place.  
 v24: The narrative pauses with the waters still prevailing, delaying resolution and sustaining tension.  
 
-##Vocabulary
+## Vocabulary
 
-v1: צַדִּיק (ṣaddîq)  
+v01: צַדִּיק (ṣaddîq)  
 “Righteous.” One who stands in right relationship before God and lives faithfully within that relationship.  
 
-v4: מָחָה (māḥâ)  
+v04: מָחָה (māḥâ)  
 “To blot out” or “wipe away.” The term conveys complete removal or erasure.  
 
-v6: מַבּוּל (mabbûl)  
+v06: מַבּוּל (mabbûl)  
 “Flood.” The distinctive term used for the great deluge.  
 
 v11: תְּהוֹם (tĕhôm)  
@@ -98,11 +98,3 @@ v23: שָׁאַר (šāʾar)
 v24: מֵאָה וַחֲמִשִּׁים יוֹם (mēʾâ waḥămîššîm yôm)  
 “One hundred fifty days.” The period during which the waters continue to prevail before the narrative turns toward restoration.  
 
-v01: צַדִּיק (ṣaddîq)
-“Righteous.” One who stands in right relationship before God and lives faithfully within that relationship.
-
-v04: מָחָה (māḥâ)
-“To blot out” or “wipe away.” The term conveys complete removal or erasure.
-
-v06: מַבּוּל (mabbûl)
-“Flood.” The distinctive term used for the great deluge.

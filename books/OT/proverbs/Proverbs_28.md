@@ -168,24 +168,24 @@ but when they perish,
 the righteous increase.
 </p>
 ## Notes
-v3: Poverty does not prevent someone from becoming an oppressor. The proverb rejects the assumption that suffering automatically produces justice.  
-v8: Economic exploitation ultimately fails to secure permanent possession; unjustly accumulated wealth can pass into more generous hands.  
-v9: Religious prayer cannot be detached from refusal to hear instruction.  
+v03: Poverty does not prevent someone from becoming an oppressor. The proverb rejects the assumption that suffering automatically produces justice.  
+v08: Economic exploitation ultimately fails to secure permanent possession; unjustly accumulated wealth can pass into more generous hands.  
+v09: Religious prayer cannot be detached from refusal to hear instruction.  
 v13: Concealment and confession are contrasted. Mercy is connected not simply with admission but with abandoning the transgression.  
 v17: Bloodguilt is pictured as a burden driving the guilty person toward judgment.  
 v20: Faithful steadiness is contrasted with the impatient desire to become wealthy quickly.  
 v26: Trust in oneself is not presented as maturity when the “heart” refuses external and divine wisdom.  
 v27: Refusal to see poverty is itself a moral action; looking away does not remove responsibility.  
 
-##Vocabulary
+## Vocabulary
 
-v1: בָּטַח (batach)  
+v01: בָּטַח (batach)  
 “To trust” or “be confident.”  
 
-v5: מִשְׁפָּט (mishpat)  
+v05: מִשְׁפָּט (mishpat)  
 “Justice.” Right judgment understood fully by those seeking the LORD.  
 
-v8: נֶשֶׁךְ (neshekh)  
+v08: נֶשֶׁךְ (neshekh)  
 “Interest.” Literally something that “bites,” used of interest charged on loans.  
 
 v13: כָּסָה (kasah)  
@@ -203,11 +203,3 @@ v22: רַע־עַיִן (ra ayin)
 v26: לֵב (lev)  
 “Heart.” The center of thought, desire, and judgment.  
 
-v01: בָּטַח (batach)
-“To trust” or “be confident.”
-
-v05: מִשְׁפָּט (mishpat)
-“Justice.” Right judgment understood fully by those seeking the LORD.
-
-v08: נֶשֶׁךְ (neshekh)
-“Interest.” Literally something that “bites,” used of interest charged on loans.

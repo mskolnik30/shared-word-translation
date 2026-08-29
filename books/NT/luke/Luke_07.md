@@ -159,11 +159,11 @@ v49: And those reclining with him began to say among themselves, “Who is this 
 v50: And he said to the woman, “Your faith has saved you; go in peace.”
 </p>
 ## Notes
-v2: The slave is described as “valuable,” indicating relational regard beyond mere utility.
-v4–5: The elders appeal to the centurion’s worthiness, grounded in benefaction and loyalty.
-v6–7: The centurion rejects claims of worthiness, shifting the focus to Jesus’ authority.
-v8: Military command becomes the analogy for faith in Jesus’ word.
-v9: Jesus’ amazement marks the centurion’s faith as exceptional, especially as an outsider.
+v02: The slave is described as “valuable,” indicating relational regard beyond mere utility.
+v04–05: The elders appeal to the centurion’s worthiness, grounded in benefaction and loyalty.
+v06–07: The centurion rejects claims of worthiness, shifting the focus to Jesus’ authority.
+v08: Military command becomes the analogy for faith in Jesus’ word.
+v09: Jesus’ amazement marks the centurion’s faith as exceptional, especially as an outsider.
 v11–13: The widow’s situation (widow, only son) intensifies vulnerability and loss.
 v13: Compassion precedes request; the initiative is entirely Jesus’.
 v14–15: Touching the bier crosses impurity boundaries and interrupts death itself.
@@ -183,21 +183,21 @@ v44–46: Hospitality omissions contrast with the woman’s abundance of devotio
 v47: Love is evidence of forgiveness, not its cause.
 v48–50: Authority to forgive sins is again central; faith is named as the means of salvation.
 
-##Vocabulary
+## Vocabulary
 
-v2: ἔντιμος (entimos)
+v02: ἔντιμος (entimos)
 
 “Valuable, honored.” Held in esteem.
 
-v7: λόγος (logos)
+v07: λόγος (logos)
 
 “Word.” Speech that effects healing.
 
-v8: ἐξουσία (exousia)
+v08: ἐξουσία (exousia)
 
 “Authority.” Structured power to command.
 
-v9: πίστις (pistis)
+v09: πίστις (pistis)
 
 “Faith.” Trust oriented toward Jesus’ authority.
 
@@ -261,5 +261,3 @@ v50: εἰρήνη (eirēnē)
 
 “Peace.” State of wholeness and reconciliation.
 
-v09: πίστις (pistis)
-“Faith.” Trust oriented toward Jesus’ authority.

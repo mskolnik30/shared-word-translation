@@ -30,13 +30,13 @@ v10: The the LORD's ransomed ones will return, and come with singing to Zion;
 and everlasting joy will be on their heads. They will obtain gladness and joy, and sorrow and sighing will flee away."
 </p>
 ## Notes
-v8: The Holy Way is a road of return. Holiness is pictured not as withdrawal from the world but as a protected path by which the redeemed come home.  
+v08: The Holy Way is a road of return. Holiness is pictured not as withdrawal from the world but as a protected path by which the redeemed come home.  
 v10: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v2: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
+v02: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
-##Vocabulary
+## Vocabulary
 
-v8: מַסְלוּל / דֶּרֶךְ הַקֹּדֶשׁ (maslul / derekh haqqodesh)  
+v08: מַסְלוּל / דֶּרֶךְ הַקֹּדֶשׁ (maslul / derekh haqqodesh)  
 “Highway / Holy Way.” The protected road of return.  
 
 v10: צִיּוֹן (tsiyyon)  
@@ -45,11 +45,6 @@ v10: צִיּוֹן (tsiyyon)
 v10: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v2: כָּבוֹד (kavod)  
+v02: כָּבוֹד (kavod)  
 “Glory.” Weight, honor, or manifest splendor.  
 
-v08: מַסְלוּל / דֶּרֶךְ הַקֹּדֶשׁ (maslul / derekh haqqodesh)
-“Highway / Holy Way.” The protected road of return.
-
-v02: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.

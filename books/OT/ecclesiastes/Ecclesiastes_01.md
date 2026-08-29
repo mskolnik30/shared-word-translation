@@ -77,11 +77,11 @@ v17: I gave my heart to know wisdom and to know madness and folly. I knew that t
 <p>
 v18: For with much wisdom comes much vexation, and one who increases knowledge increases pain.
 </p>
-##Notes
+## Notes
 
 v08: “All things are weary.” The Hebrew word can also mean “words” or “matters.” The line may speak both of the weariness of all things and of the inability of speech to exhaustively express them.
 
-##Vocabulary
+## Vocabulary
 
 v01: קֹהֶלֶת (qohelet)
 “Qoheleth; Teacher; Preacher.” The speaker’s title is grammatically feminine in form, while the surrounding description presents a Davidic king.

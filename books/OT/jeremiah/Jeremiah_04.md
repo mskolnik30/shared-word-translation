@@ -186,9 +186,9 @@ gasping for breath, spreading out her hands:
 For my life grows faint
 before killers.”
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v02: אֱמֶת (’emet)
 “Faithfulness” or “truth.” Here it belongs with justice and righteousness as the character required for invoking the LORD’s name.

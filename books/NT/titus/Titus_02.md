@@ -47,7 +47,7 @@ v15: Instruction, encouragement, and correction are held together.
 v15: Authority is exercised without qualification or mitigation.
 v15: Reception is not left to preference; disregard is addressed directly.
 
-##Vocabulary
+## Vocabulary
 
 v15: λαλέω (laleō)
 “To speak.” To declare or utter.

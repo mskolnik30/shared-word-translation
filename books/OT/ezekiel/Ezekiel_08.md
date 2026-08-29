@@ -34,19 +34,19 @@ v17: Then he said to me, “Have you seen this, son of man? Is it too light a th
 v18: Therefore I will also act in fury. My eye will not spare, nor will I have pity. Though they cry in my ears with a loud voice, I will not hear them.”
 </p>
 ## Notes
-v1: - **v1** "hand of the Lord God" denotes divine agency and prophetic inspiration. The phrase initiates visions and revelations in prophetic literature.  
-v3: - **v3** "lock of my head" suggests the prophet's complete submission to God's will as he is transported in the spirit.  
-v5: - **v5** "image of jealousy" indicates an idolatrous object provoking God's jealousy, central to the depiction of Israel's unfaithfulness.  
+v01: - **v1** "hand of the Lord God" denotes divine agency and prophetic inspiration. The phrase initiates visions and revelations in prophetic literature.  
+v03: - **v3** "lock of my head" suggests the prophet's complete submission to God's will as he is transported in the spirit.  
+v05: - **v5** "image of jealousy" indicates an idolatrous object provoking God's jealousy, central to the depiction of Israel's unfaithfulness.  
 v14: - **v14** "weeping for Tammuz" describes a ritual mourning practice tied to pagan worship, underscoring the extent of Israel's apostasy.  
 v17: - **v17** "sending the branch to their nose" is a phrase whose exact significance is debated, possibly indicating an act of defiance or ritual pollution.  
 
-##Vocabulary
+## Vocabulary
 
-v1: - **v1 "hand of the Lord God" (יְהֹוִה יָד, yad Adonai):** In prophetic literature, this phrase signals divine empowerment or control, often leading prophets to visions or commissioning tasks.  
+v01: - **v1 "hand of the Lord God" (יְהֹוִה יָד, yad Adonai):** In prophetic literature, this phrase signals divine empowerment or control, often leading prophets to visions or commissioning tasks.  
 
-v3: - **v3 "Spirit" (רוּחַ, ruach):** Often denotes God's active presence or energy accomplishing divine purposes, especially in visions or prophetic action.  
+v03: - **v3 "Spirit" (רוּחַ, ruach):** Often denotes God's active presence or energy accomplishing divine purposes, especially in visions or prophetic action.  
 
-v4: - **v4 "glory" (כָּבוֹד, kavod):** Refers to the visible manifestation of God's majesty and holiness, often experienced in visions or the temple context.  
+v04: - **v4 "glory" (כָּבוֹד, kavod):** Refers to the visible manifestation of God's majesty and holiness, often experienced in visions or the temple context.  
 
 v17: - **v17 "the branch" (הַזְּמוֹרָה, ha-zemorah):** This term’s meaning is uncertain, possibly indicating a gesture with cultic or idolatrous connotations.  
 

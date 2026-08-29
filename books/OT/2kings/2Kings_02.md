@@ -91,7 +91,7 @@ v20–22: The salt itself is not presented as the inherent healing agent; Elisha
 v23: The Hebrew term can describe youths rather than very small children. Their mockery of the newly recognized prophet occurs near Bethel, a major center of rival worship.
 v24: The mauling is one of the narrative’s most severe prophetic judgment scenes. The verb means tear or maul and does not explicitly say all forty-two died.
 
-##Vocabulary
+## Vocabulary
 
 v01: סְעָרָה (se'arah)
 “Whirlwind” or storm. The means of Elijah’s ascent.

@@ -82,7 +82,7 @@ v21: “confidence before God” — Confidence does not describe superiority or
 v23: “his commandment” — The singular commandment contains two closely joined actions: trusting in the name of Jesus Christ and loving one another.
 v24: “remains in him, and he in them” — The reciprocal language of remaining gathers a major theme of the letter. The Spirit is named as the means by which this mutual remaining is known.
 
-##Vocabulary
+## Vocabulary
 
 v01: τέκνα θεοῦ (tekna theou)
 “Children of God.” The language emphasizes origin and belonging within a family relationship.

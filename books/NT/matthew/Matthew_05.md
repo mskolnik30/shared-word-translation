@@ -119,10 +119,10 @@ v47: And if you greet only your brothers and sisters, what more are you doing th
 v48: Be perfect, therefore, as your heavenly Father is perfect.
 </p>
 ## Notes
-v1–2: Matthew frames Jesus as teacher from the mountain, evoking Sinai imagery without explicit identification. Authority is conveyed through posture and setting rather than title. Jesus appears as the new law giver (Moses) on the mountain. This ties to "fulfilling the law and the prophets" from later in his "sermon" and Moses (law) and Elijah (prophets) appearing during the Transfiguration.  
-v3–10: The blessings are declarative, not conditional. They name realities already claimed by God rather than virtues to be achieved.  
-v3: “Poor in spirit” names dependence rather than deficiency. The blessing addresses those who know their need, not those who lack faith.  
-v5: “Meek” does not mean passive. The inheritance of the earth echoes covenant promise rather than private reward.  
+v01–02: Matthew frames Jesus as teacher from the mountain, evoking Sinai imagery without explicit identification. Authority is conveyed through posture and setting rather than title. Jesus appears as the new law giver (Moses) on the mountain. This ties to "fulfilling the law and the prophets" from later in his "sermon" and Moses (law) and Elijah (prophets) appearing during the Transfiguration.  
+v03–10: The blessings are declarative, not conditional. They name realities already claimed by God rather than virtues to be achieved.  
+v03: “Poor in spirit” names dependence rather than deficiency. The blessing addresses those who know their need, not those who lack faith.  
+v05: “Meek” does not mean passive. The inheritance of the earth echoes covenant promise rather than private reward.  
 v10–12: Persecution is linked to righteousness and to prophetic lineage. Suffering is contextualized within continuity, not exception.  
 v13–16: Salt and light are not private qualities but public realities. Visibility is assumed, not optional.  
 v17–20: Fulfillment is not cancellation. Jesus intensifies the law by relocating it within lived faithfulness.  
@@ -135,15 +135,15 @@ v38–42: Non-retaliation resists escalation. The examples press beyond fairness
 v43–45: Enemy-love is grounded in God’s indiscriminate generosity, not moral superiority.  
 v48: “Perfect” signals completeness or wholeness. The call is toward undivided love that mirrors God’s own way of being.  
 
-##Vocabulary
+## Vocabulary
 
-v3: μακάριοι (makarioi)  
+v03: μακάριοι (makarioi)  
 “Blessed.” The term names a state of well-being grounded in God’s favor, not circumstantial happiness.  
 
-v5: πραεῖς (praeis)  
+v05: πραεῖς (praeis)  
 “Meek.” Denotes gentleness or restrained strength, not weakness.  
 
-v6: δικαιοσύνη (dikaiosynē)  
+v06: δικαιοσύνη (dikaiosynē)  
 “Righteousness.” Refers to right-relatedness—toward God, neighbor, and community. In both the Hebrew and the Greek, faithfulness, righteousness, and justice are intimately tied linquistically.  
 
 v17: πληρόω (plēroō)
@@ -164,11 +164,3 @@ v39: ἀντιστῆναι (antistēnai)
 v48: τέλειος (teleios)  
 “Perfect,” meaning whole, complete, or brought to maturity.  
 
-v03: μακάριοι (makarioi)
-“Blessed.” The term names a state of well-being grounded in God’s favor, not circumstantial happiness.
-
-v05: πραεῖς (praeis)
-“Meek.” Denotes gentleness or restrained strength, not weakness.
-
-v06: δικαιοσύνη (dikaiosynē)
-“Righteousness.” Refers to right-relatedness—toward God, neighbor, and community. In both the Hebrew and the Greek, faithfulness, righteousness, and justice are intimately tied linquistically.

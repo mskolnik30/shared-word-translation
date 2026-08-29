@@ -89,12 +89,12 @@ v27: I adjure you by the Lord that this letter be read to all the brothers and s
 v28: The grace of our Lord Jesus Christ be with you.
 </p>
 ## Notes
-v1–2: Knowledge of the “day of the Lord” does not eliminate uncertainty. Its timing remains disruptive.  
-v2–3: The contrast between expectation (“peace and security”) and suddenness emphasizes unpredictability.  
-v4–5: Identity (“children of light”) reframes vulnerability. Belonging determines orientation.  
-v6–8: Wakefulness and sobriety are ethical metaphors grounded in identity, not mere vigilance.  
-v8: Faith, love, and hope reappear as protective imagery, not only virtues.  
-v9–10: Salvation is framed teleologically. Christ’s death secures shared life “whether awake or asleep.”  
+v01–02: Knowledge of the “day of the Lord” does not eliminate uncertainty. Its timing remains disruptive.  
+v02–03: The contrast between expectation (“peace and security”) and suddenness emphasizes unpredictability.  
+v04–05: Identity (“children of light”) reframes vulnerability. Belonging determines orientation.  
+v06–08: Wakefulness and sobriety are ethical metaphors grounded in identity, not mere vigilance.  
+v08: Faith, love, and hope reappear as protective imagery, not only virtues.  
+v09–10: Salvation is framed teleologically. Christ’s death secures shared life “whether awake or asleep.”  
 v11: Encouragement and building up are communal responsibilities already in practice.  
 v12–13: Leadership is acknowledged functionally (“labor…admonish”), not hierarchically.  
 v14–15: Responses are differentiated: idle, fainthearted, weak. Care is not uniform.  
@@ -105,31 +105,31 @@ v23: Sanctification is both comprehensive and divine in origin.
 v24: Assurance rests on God’s faithfulness, not human consistency.  
 v27: Public reading ensures communal reception and accountability.  
 
-##Vocabulary
+## Vocabulary
 
-v1: καιρός (kairos)  
+v01: καιρός (kairos)  
 
-v1: “Season.” Appointed or decisive time.  
+v01: “Season.” Appointed or decisive time.  
 
-v2: κλέπτης (kleptēs)  
+v02: κλέπτης (kleptēs)  
 
-v2: “Thief.” One who comes unexpectedly.  
+v02: “Thief.” One who comes unexpectedly.  
 
-v5: φῶς (phōs)  
+v05: φῶς (phōs)  
 
-v5: “Light.” Associated with revelation and clarity.  
+v05: “Light.” Associated with revelation and clarity.  
 
-v6: γρηγορέω (grēgoreō)  
+v06: γρηγορέω (grēgoreō)  
 
-v6: “To keep awake.” To remain alert.  
+v06: “To keep awake.” To remain alert.  
 
-v8: θώραξ (thōrax)  
+v08: θώραξ (thōrax)  
 
-v8: “Breastplate.” Protective armor.  
+v08: “Breastplate.” Protective armor.  
 
-v9: ὀργή (orgē)  
+v09: ὀργή (orgē)  
 
-v9: “Wrath.” Divine judgment.  
+v09: “Wrath.” Divine judgment.  
 
 v11: οἰκοδομέω (oikodomeō)  
 

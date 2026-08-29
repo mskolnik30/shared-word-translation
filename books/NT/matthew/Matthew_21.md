@@ -112,13 +112,13 @@ v45: And when the chief priests and the Pharisees heard his parables, they knew 
 v46: And although they were seeking to seize him, they feared the crowds, because the crowds regarded him as a prophet.
 </p>
 ## Notes
-v1: “Mount of Olives” — The setting carries prophetic weight; Jesus approaches Jerusalem from the ridge associated with God’s promised deliverance and kingship.  
-v2–3: “The Lord has need of them” — Jesus acts with calm authority and purposeful humility; even the borrowing of an animal serves the sign of his reign.  
-v4–5: “to fulfill… ‘gentle… mounted on a donkey’” — The entry is a deliberate redefinition of kingship: not coercive power, but humble, peace-shaped authority.  
-v6–7: “did as Jesus directed… laid their cloaks” — Discipleship is concrete obedience; honor is offered with what they have, not with ideal resources.  
-v8: “spread their cloaks… branches” — The crowd enacts royal welcome; public hopes rise and the city becomes a stage of expectation.  
-v9: “Hosanna… Son of David… in the name of the Lord” — The shout is prayer and proclamation (“Save, we pray!”) with messianic language; the crowd reaches for deliverance, even if they do not yet grasp its cost.  
-v9: “Hosanna in the highest” — Praise stretches from street-level longing to heavenward worship, framing Jesus’ arrival as both political and spiritual upheaval.  
+v01: “Mount of Olives” — The setting carries prophetic weight; Jesus approaches Jerusalem from the ridge associated with God’s promised deliverance and kingship.  
+v02–03: “The Lord has need of them” — Jesus acts with calm authority and purposeful humility; even the borrowing of an animal serves the sign of his reign.  
+v04–05: “to fulfill… ‘gentle… mounted on a donkey’” — The entry is a deliberate redefinition of kingship: not coercive power, but humble, peace-shaped authority.  
+v06–07: “did as Jesus directed… laid their cloaks” — Discipleship is concrete obedience; honor is offered with what they have, not with ideal resources.  
+v08: “spread their cloaks… branches” — The crowd enacts royal welcome; public hopes rise and the city becomes a stage of expectation.  
+v09: “Hosanna… Son of David… in the name of the Lord” — The shout is prayer and proclamation (“Save, we pray!”) with messianic language; the crowd reaches for deliverance, even if they do not yet grasp its cost.  
+v09: “Hosanna in the highest” — Praise stretches from street-level longing to heavenward worship, framing Jesus’ arrival as both political and spiritual upheaval.  
 v10: “the whole city was stirred up” — Jesus’ arrival is not private spirituality; it disrupts the public order and forces a question of identity.  
 v11: “the prophet Jesus” — The crowd’s language is true but partial; Matthew will press beyond “prophet” toward messianic authority.  
 v12–13: temple cleansing — This is not a critique of commerce in general but of worship corrupted: prayer displaced by exploitation. “Den of robbers” signals systemic injustice under a religious cover.  
@@ -138,19 +138,19 @@ v43: “producing its fruits” — The kingdom is not a possession to protect b
 v44: “the one who falls on this stone” — This verse is absent from some manuscripts, particularly witnesses of the Western text, but is present in a broad range of other witnesses and is retained here.  
 v45–46: “they knew… speaking about them… feared the crowds” — Recognition does not produce repentance; fear of people replaces fear of God, and the plot tightens around Jesus.  
 
-##Vocabulary
+## Vocabulary
 
-v1: Βηθφαγή (Bēthphagē) — Bethphage  
+v01: Βηθφαγή (Bēthphagē) — Bethphage  
 
-v1: Ἐλαιῶν (Elaiōn) — olives (Mount of Olives)  
+v01: Ἐλαιῶν (Elaiōn) — olives (Mount of Olives)  
 
-v3: κύριος (kyrios) — Lord; master  
+v03: κύριος (kyrios) — Lord; master  
 
-v5: πραΰς (praÿs) — gentle; meek (strength under restraint)  
+v05: πραΰς (praÿs) — gentle; meek (strength under restraint)  
 
-v9: ὡσαννά (hōsanna) — “Hosanna!” (save, we pray)  
+v09: ὡσαννά (hōsanna) — “Hosanna!” (save, we pray)  
 
-v9: υἱὸς Δαυίδ (huios Dauid) — Son of David  
+v09: υἱὸς Δαυίδ (huios Dauid) — Son of David  
 
 v10: σείω (seiō) — to shake; to stir up; to agitate  
 

@@ -75,7 +75,7 @@ v10: The line can mean that God knows Job’s way even when Job cannot find God.
 v12: The Hebrew final phrase is difficult and can mean “more than my portion,” “more than my prescribed food,” or “within my breast.” TSW follows the food comparison while preserving the sense of valuing divine words intensely.
 v13–16: The same divine sovereignty that could vindicate Job also terrifies him because God’s purpose cannot be redirected by human power.
 
-##Vocabulary
+## Vocabulary
 
 v03: תְּכוּנָה (tekhunah)
 “Seat,” “place,” or “established location.” Job longs to reach God’s place of judgment.

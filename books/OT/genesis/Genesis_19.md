@@ -77,9 +77,9 @@ v37: The firstborn bore a son and called his name Moab. He is the father of the 
 v38: The younger also bore a son and called his name Ben-ammi. He is the father of the Ammonites to this day.
 </p>
 ## Notes
-v1–3: Lot’s hospitality parallels Abraham’s hospitality in the previous chapter, though the setting and outcome differ dramatically.  
-v4–11: The sin of Sodom is portrayed through violent abuse, contempt for outsiders, and rejection of moral restraint.  
-v8: Lot’s offer concerning his daughters is presented without approval or explanation. The narrative records the event without justifying it.  
+v01–03: Lot’s hospitality parallels Abraham’s hospitality in the previous chapter, though the setting and outcome differ dramatically.  
+v04–11: The sin of Sodom is portrayed through violent abuse, contempt for outsiders, and rejection of moral restraint.  
+v08: Lot’s offer concerning his daughters is presented without approval or explanation. The narrative records the event without justifying it.  
 v13: The destruction comes in response to an outcry that has risen before the LORD.  
 v14: Lot’s warning is dismissed as a joke. Judgment arrives despite disbelief.  
 v16: Lot’s rescue is attributed explicitly to the LORD’s mercy rather than Lot’s decisiveness.  
@@ -89,18 +89,18 @@ v26: Looking back signifies more than visual observation. The act reveals a fail
 v29: God remembers Abraham, and that remembrance becomes the means through which Lot is spared.  
 v30–38: The final episode mirrors earlier themes of fear, survival, and offspring. The narrative explains the origins of Moab and Ammon without approving the actions that produced them.  
 
-##Vocabulary
+## Vocabulary
 
-v1: שַׁעַר (šaʿar)  
+v01: שַׁעַר (šaʿar)  
 “Gate.” The place of public life, legal proceedings, and civic authority.  
 
-v3: מַצּוֹת (maṣṣôt)  
+v03: מַצּוֹת (maṣṣôt)  
 “Unleavened bread.” Bread made without leaven, often associated with urgency or special occasions.  
 
-v5: יָדַע (yādaʿ)  
+v05: יָדַע (yādaʿ)  
 “To know.” Depending on context, the verb may refer to knowledge, relationship, or sexual relations.  
 
-v9: גּוּר (gûr)  
+v09: גּוּר (gûr)  
 “To sojourn.” To live as a foreigner or resident alien among a people.  
 
 v13: זַעֲקָה (zaʿăqâ)  
@@ -127,11 +127,3 @@ v37: מוֹאָב (Môʾāḇ)
 v38: בֶּן־עַמִּי (Ben-ʿAmmî)  
 “Son of my people.” The name associated with the ancestry of the Ammonites.  
 
-v01: שַׁעַר (šaʿar)
-“Gate.” The place of public life, legal proceedings, and civic authority.
-
-v03: מַצּוֹת (maṣṣôt)
-“Unleavened bread.” Bread made without leaven, often associated with urgency or special occasions.
-
-v05: יָדַע (yādaʿ)
-“To know.” Depending on context, the verb may refer to knowledge, relationship, or sexual relations.

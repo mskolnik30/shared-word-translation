@@ -101,7 +101,7 @@ v12: Sea and sea monster evoke chaotic powers that require divine restraint. Job
 v17–18: Job deliberately echoes language that elsewhere celebrates divine attention to humanity, but he experiences constant divine attention as invasive testing rather than care.
 v20: “Watcher of humanity” — The title turns divine vigilance into an accusation: Job feels targeted rather than protected.
 
-##Vocabulary
+## Vocabulary
 
 v01: צָבָא (tsava)
 “Hard service,” “warfare,” or “appointed service.” Job’s image for human life.

@@ -120,9 +120,9 @@ Are you not the one, the LORD our God?
 We wait for you,
 for you have made all these things.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: בַּצָּרוֹת (baṣṣārôt)
 “Droughts.” The plural names the crisis framing the chapter and gives its scenes of empty cisterns, failed crops, and suffering animals a cumulative force.

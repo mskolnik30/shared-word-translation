@@ -53,15 +53,15 @@ v26: And I will make your tongue cling to the roof of your mouth, so that you sh
 v27: But when I speak with you, I will open your mouth, and you shall say to them, 'Thus says the LORD GOD.' He who hears, let him hear; and he who refuses, let him refuse, for they are a rebellious house."
 </p>
 ## Notes
-v1: "Son of man" emphasizes Ezekiel's humanity and role as a mortal messenger for God. The term is used frequently in Ezekiel to denote the prophet's status.  
-v2–3: Eating the scroll symbolizes internalizing God's message, which Ezekiel must deliver. The sweetness implies the message's divine origin and significance regardless of its content.  
+v01: "Son of man" emphasizes Ezekiel's humanity and role as a mortal messenger for God. The term is used frequently in Ezekiel to denote the prophet's status.  
+v02–03: Eating the scroll symbolizes internalizing God's message, which Ezekiel must deliver. The sweetness implies the message's divine origin and significance regardless of its content.  
 v10: "Receive in your heart and hear with your ears" highlights the thoroughness of the prophet's reception of God's words, demanding both understanding and attentiveness.  
 v17: "Watchman" reflects the prophet's responsibility to alert Israel to impending danger from ignoring God's commands, analogous to a lookout on a city wall.  
 v20: The image of a stumbling block indicates God's active involvement in judging a righteous person who turns to iniquity, while highlighting the prophet's role in attempting to avert their downfall.  
 
-##Vocabulary
+## Vocabulary
 
-v1: בֶּן אָדָם (ben adam) – "Son of man," a title for Ezekiel emphasizing his human nature and role as a representative of humanity before God.  
+v01: בֶּן אָדָם (ben adam) – "Son of man," a title for Ezekiel emphasizing his human nature and role as a representative of humanity before God.  
 
 v17: צֹפֶה (tsa.phah) – "watchman," signifying the prophet's duty to listen to God and alert the people to spiritual danger.  
 

@@ -93,9 +93,9 @@ v24: But the word of God was increasing and multiplying.
 v25: And Barnabas and Saul returned from Jerusalem when they had completed their service, taking with them John, who is called Mark.
 </p>
 ## Notes
-v1–3: Political violence aligns with popular approval.  
-v5: Corporate prayer contrasts with imprisonment.  
-v7–10: Deliverance occurs through divine intervention without resistance.  
+v01–03: Political violence aligns with popular approval.  
+v05: Corporate prayer contrasts with imprisonment.  
+v07–10: Deliverance occurs through divine intervention without resistance.  
 v11: Recognition follows deliverance.  
 v12–16: Community response mixes faith and disbelief.  
 v17: Leadership communication ensures continuity.  
@@ -104,31 +104,31 @@ v23: Judgment falls on refusal to glorify God.
 v24: The word advances despite opposition.  
 v25: Mission continues through returning workers.  
 
-##Vocabulary
+## Vocabulary
 
-v1: κακόω (kakoō)  
+v01: κακόω (kakoō)  
 
-v1: “To harm.”  
+v01: “To harm.”  
 
-v2: ἀναιρέω (anaireō)  
+v02: ἀναιρέω (anaireō)  
 
-v2: “To kill.”  
+v02: “To kill.”  
 
-v4: τετράδιον (tetradion)  
+v04: τετράδιον (tetradion)  
 
-v4: “Squad.”  
+v04: “Squad.”  
 
-v5: ἐκτενής (ektenēs)  
+v05: ἐκτενής (ektenēs)  
 
-v5: “Earnest.”  
+v05: “Earnest.”  
 
-v7: ἅλυσις (halysis)  
+v07: ἅλυσις (halysis)  
 
-v7: “Chain.”  
+v07: “Chain.”  
 
-v8: ζώννυμι (zōnnymai)  
+v08: ζώννυμι (zōnnymai)  
 
-v8: “To gird.”  
+v08: “To gird.”  
 
 v10: αὐτόματος (automatos)  
 

@@ -78,7 +78,7 @@ v11–19: These verses provide the theological pattern repeated throughout Judge
 v17: “prostituted themselves” — The strong metaphor describes covenant unfaithfulness expressed through worship of other gods. The translation retains its force.
 v18: “was moved by their groaning” — The Hebrew verb expresses relenting or being moved with compassion in response to suffering.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַלְאַךְ (malakh)
 “Messenger” or “angel.” One sent with a message or commission.

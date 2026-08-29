@@ -75,7 +75,7 @@ is like the beasts that perish.
 v05: The Hebrew phrase rendered “those at my heels” is compact and may describe pursuers, deceivers, or the iniquity that surrounds the speaker. The ambiguity is not fully resolved in the main text.
 v11: The consonantal Hebrew permits difficulty in the first phrase. “Their graves are their homes forever” follows a common reading that fits the surrounding contrast between wealth and mortality.
 
-##Vocabulary
+## Vocabulary
 
 v14: שְׁאוֹל (sheʾol)
 “The realm of the dead.” The Hebrew term is retained because no single English word carries its full range.

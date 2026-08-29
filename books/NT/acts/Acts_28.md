@@ -131,9 +131,9 @@ v30: And he stayed two whole years in his own rented lodging and was welcoming a
 v31: proclaiming the kingdom of God and teaching the things concerning the Lord Jesus Christ with all boldness, without hindrance.
 </p>
 ## Notes
-v1–2: Deliverance leads to provision and hospitality.  
-v3–6: Divine protection reverses human judgment.  
-v7–10: Healing ministry continues in new context.  
+v01–02: Deliverance leads to provision and hospitality.  
+v03–06: Divine protection reverses human judgment.  
+v07–10: Healing ministry continues in new context.  
 v14–16: Arrival in Rome fulfills narrative trajectory.  
 v17–20: Paul frames his situation within Israel’s hope.  
 v21–22: Christianity is widely opposed yet not formally defined.  
@@ -144,35 +144,35 @@ v28: Mission focus shifts decisively to Gentiles.
 v30–31: Narrative concludes with unhindered proclamation.  
 v29: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add that the Jews departed while disputing among themselves. Public verse numbering is retained.
 
-##Vocabulary
+## Vocabulary
 
-v2: φιλανθρωπία (philanthrōpia)  
+v02: φιλανθρωπία (philanthrōpia)  
 
-v2: “Kindness.”  
+v02: “Kindness.”  
 
-v3: ἔχιδνα (echidna)  
+v03: ἔχιδνα (echidna)  
 
-v3: “Viper.”  
+v03: “Viper.”  
 
-v4: δίκη (dikē)  
+v04: δίκη (dikē)  
 
-v4: “Justice.”  
+v04: “Justice.”  
 
-v5: ἀποτινάσσω (apotinassō)  
+v05: ἀποτινάσσω (apotinassō)  
 
-v5: “To shake off.”  
+v05: “To shake off.”  
 
-v7: πρῶτος (prōtos)  
+v07: πρῶτος (prōtos)  
 
-v7: “Chief.”  
+v07: “Chief.”  
 
-v8: πυρετός (pyretos)  
+v08: πυρετός (pyretos)  
 
-v8: “Fever.”  
+v08: “Fever.”  
 
-v9: θεραπεύω (therapeuō)  
+v09: θεραπεύω (therapeuō)  
 
-v9: “To heal.”  
+v09: “To heal.”  
 
 v11: Διόσκουροι (Dioskouroi)  
 

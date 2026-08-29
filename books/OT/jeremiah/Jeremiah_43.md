@@ -51,7 +51,7 @@ v10: Nebuchadnezzar is again called the LORD’s “servant,” extending his ro
 v12: The image of a shepherd wrapping a garment suggests the ease and completeness with which the conqueror will take possession of Egypt.
 v13: “Beth-Shemesh” here refers to an Egyptian “House of the Sun,” commonly associated with Heliopolis, rather than the Judean city of the same translated name.
 
-##Vocabulary
+## Vocabulary
 
 v02: זֵד (zed)
 “Arrogant” or “presumptuous.” Characterizing those who reject Jeremiah’s word.

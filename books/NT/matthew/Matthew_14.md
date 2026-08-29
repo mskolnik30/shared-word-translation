@@ -93,9 +93,9 @@ v35: And when the men of that place recognized him, they sent around to all that
 v36: and implored him that they might only touch the fringe of his garment. And as many as touched it were made well.
 </p>
 ## Notes
-v2: Herod interprets Jesus through guilt; resurrection is framed as threat.  
-v3–4: John’s confrontation is legal and moral, not political.  
-v6–11: Rash oath + public pressure overrides justice; power collapses into spectacle.  
+v02: Herod interprets Jesus through guilt; resurrection is framed as threat.  
+v03–04: John’s confrontation is legal and moral, not political.  
+v06–11: Rash oath + public pressure overrides justice; power collapses into spectacle.  
 v14: Compassion precedes miracle; healing and provision are linked.  
 v16: Disciples are implicated in provision, not mere observers.  
 v19: Sequence (take–bless–break–give) anticipates later meal patterns.  
@@ -106,15 +106,15 @@ v30–31: Fear shifts perception from Jesus to circumstance; doubt is destabiliz
 v33: Confession emerges from encounter, not abstraction.  
 v36: Healing mediated through contact; faith expressed physically.  
 
-##Vocabulary
+## Vocabulary
 
-v1: τετραάρχης (*tetrarchēs*) — “Tetrarch.” Regional ruler under larger authority.  
+v01: τετραάρχης (*tetrarchēs*) — “Tetrarch.” Regional ruler under larger authority.  
 
-v2: ἐγήγερται (*egēgertai*) — “Has been raised.” Perfect tense emphasizing ongoing state.  
+v02: ἐγήγερται (*egēgertai*) — “Has been raised.” Perfect tense emphasizing ongoing state.  
 
-v4: ἔξεστιν (*exestin*) — “It is lawful.” Ethical/legal permissibility.  
+v04: ἔξεστιν (*exestin*) — “It is lawful.” Ethical/legal permissibility.  
 
-v7: ὅρκος (*horkos*) — “Oath.” Binding public declaration.  
+v07: ὅρκος (*horkos*) — “Oath.” Binding public declaration.  
 
 v14: σπλαγχνίζομαι (splanchnizomai)
 “Have compassion.” Deep internal movement toward mercy.

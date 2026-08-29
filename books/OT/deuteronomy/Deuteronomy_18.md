@@ -80,7 +80,7 @@ v19: The LORD personally holds accountable the one who refuses the true propheti
 v20: The death penalty for false prophecy belongs to ancient Israel’s covenantal polity and should not be generalized into modern punishment for religious claims.
 v22: Fulfillment is one test of prophecy, but Deuteronomy 13 makes clear that even fulfilled signs cannot validate a message leading to other gods.
 
-##Vocabulary
+## Vocabulary
 
 v01: נַחֲלָה (nachalah)
 “Inheritance.” Territorial or covenantal portion.

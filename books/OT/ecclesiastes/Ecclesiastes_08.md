@@ -78,11 +78,11 @@ v16: When I gave my heart to know wisdom and to see the task that is done on the
 <p>
 v17: then I saw all the work of God: no one can find out the work that is done under the sun. However much a person labors to seek it, they will not find it; even if the wise claim to know, they cannot find it out.
 </p>
-##Notes
+## Notes
 
 v08: The Hebrew *ruach* can mean “wind,” “breath,” or “spirit.” “Wind” preserves the image of something no one can hold back, while the surrounding references to death and battle allow the line also to evoke the breath of life that no one controls.
 
-##Vocabulary
+## Vocabulary
 
 v01: פֵּשֶׁר (pesher)
 “interpretation.” This term concerns the ability to discern the meaning or solution of a matter. Wisdom is not merely knowledge; it brings insight into what is otherwise obscure.

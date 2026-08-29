@@ -102,9 +102,9 @@ v39: And all these, though commended for their faith, did not receive what was p
 v40: since God had provided something better for us, that apart from us they should not be made complete.
 </p>
 ## Notes
-v1: “Substance” renders ὑπόστασις, which can also mean “assurance” or “underlying reality.” The double sense—objective foundation and subjective confidence—is preserved.  
-v3: “Ages” (αἰῶνας) is plural; the writer’s scope is more than the material world. The sentence asserts both that creation is the work of God’s word and that what is visible does not arise from prior visible matter.  
-v4–7: The first three witnesses come from the period before Abraham. Each is named with the formula “By faith,” which structures the rest of the chapter.  
+v01: “Substance” renders ὑπόστασις, which can also mean “assurance” or “underlying reality.” The double sense—objective foundation and subjective confidence—is preserved.  
+v03: “Ages” (αἰῶνας) is plural; the writer’s scope is more than the material world. The sentence asserts both that creation is the work of God’s word and that what is visible does not arise from prior visible matter.  
+v04–07: The first three witnesses come from the period before Abraham. Each is named with the formula “By faith,” which structures the rest of the chapter.  
 v11: A textual question stands here. Some manuscripts read Sarah as the subject; others read Abraham, with Sarah’s involvement implicit. The translation reflects the reading that takes Sarah as subject.  
 v13–16: The chapter pauses to interpret. The witnesses are named not as those who arrived but as those who saw and greeted from afar.  
 v17–19: The phrase “only son” (μονογενής) recalls John 1. Abraham’s reasoning and what he “figuratively received back” are stated without further comment.  
@@ -112,17 +112,17 @@ v23–28: The Moses cycle is treated with unusual care. The “reproach of Chris
 v32–38: The list shifts from named individuals to a sweep of unnamed witnesses. The structure changes from “by faith X did” to “they did” and finally to “they suffered.”  
 v40: “Made complete” (τελειωθῶσιν) is a key word in Hebrews. Completion is communal, not individual; those who came before are not made complete apart from those who come after.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ὑπόστασις (hypostasis) — Substance, assurance, underlying reality. Names what stands beneath.  
+v01: ὑπόστασις (hypostasis) — Substance, assurance, underlying reality. Names what stands beneath.  
 
-v1: ἔλεγχος (elenchos) — Conviction, proof, evidence. The verb form is used of legal cross-examination.  
+v01: ἔλεγχος (elenchos) — Conviction, proof, evidence. The verb form is used of legal cross-examination.  
 
-v3: αἰών (aiōn) — Age, era. In the plural, the totality of times and what they contain.  
+v03: αἰών (aiōn) — Age, era. In the plural, the totality of times and what they contain.  
 
-v6: ἐκζητέω (ekzēteō) — To seek out, to search for diligently.  
+v06: ἐκζητέω (ekzēteō) — To seek out, to search for diligently.  
 
-v8: κληρονομία (klēronomia) — Inheritance, what is given as a portion.  
+v08: κληρονομία (klēronomia) — Inheritance, what is given as a portion.  
 
 v10: τεχνίτης (technitēs) — Craftsman, artisan, architect.  
 

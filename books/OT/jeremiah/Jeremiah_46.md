@@ -194,7 +194,7 @@ v20: The Hebrew word translated “gadfly” can denote a stinging or destructiv
 v25: “Amon of Thebes” is the major Egyptian deity Amun associated with Thebes. The judgment is directed toward Egypt’s religious and political centers together.
 v27–28: These verses closely parallel Jeremiah 30:10–11. Their placement after the Egypt oracle re-centers the wider judgments on the promise that Jacob will not be completely destroyed.
 
-##Vocabulary
+## Vocabulary
 
 v02: כַּרְכְּמִישׁ (Karkemish)
 “Carchemish.” The Euphrates city where Babylon defeated Egypt.

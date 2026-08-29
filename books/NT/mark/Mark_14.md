@@ -205,9 +205,9 @@ v71: But he began to curse and to swear, “I do not know this man of whom you s
 v72: And immediately the rooster crowed a second time. And Peter remembered the word, how Jesus had said to him, “Before the rooster crows twice, you will deny me three times.” And breaking down, he wept.
 </p>
 ## Notes
-v1–2: The leaders seek death by stealth, showing both hostility and fear of the people.
-v3: The woman’s act is extravagant and embodied; the broken jar makes the gift irreversible.
-v6–9: Jesus interprets her action in relation to burial and memory, not efficiency.
+v01–02: The leaders seek death by stealth, showing both hostility and fear of the people.
+v03: The woman’s act is extravagant and embodied; the broken jar makes the gift irreversible.
+v06–09: Jesus interprets her action in relation to burial and memory, not efficiency.
 v10–11: Judas’ betrayal is narrated economically; motive is left relatively restrained.
 v18: Betrayal is intensified by table fellowship.
 v21: Scripture and human responsibility are held together without harmonization.
@@ -222,25 +222,25 @@ v61–62: Jesus’ answer joins messianic identity with Son of Man authority and
 v64–65: Condemnation is followed immediately by mockery, exposing the council’s violence.
 v72: Peter’s grief fulfills Jesus’ word and leaves repentance unresolved within the scene.
 
-##Vocabulary
+## Vocabulary
 
-v1: δόλος (dolos)
+v01: δόλος (dolos)
 
 “Stealth, deceit.” Hidden strategy marked by manipulation.
 
-v3: μύρον (myron)
+v03: μύρον (myron)
 
 “Ointment.” Fragrant oil used for honor, devotion, and burial.
 
-v3: νάρδος (nardos)
+v03: νάρδος (nardos)
 
 “Nard.” Costly aromatic perfume.
 
-v6: καλὸν ἔργον (kalon ergon)
+v06: καλὸν ἔργον (kalon ergon)
 
 “Beautiful work.” An act good in form, meaning, and devotion.
 
-v8: ἐνταφιασμός (entaphiasmos)
+v08: ἐνταφιασμός (entaphiasmos)
 
 “Burial preparation.” Anointing associated with death and burial.
 
@@ -302,14 +302,3 @@ v72: ἐπιβάλλω (epiballō)
 
 “To break down, throw oneself upon.” In context, collapse into weeping.
 
-v01: δόλος (dolos)
-“Stealth, deceit.” Hidden strategy marked by manipulation.
-
-v03: μύρον (myron)
-“Ointment.” Fragrant oil used for honor, devotion, and burial.
-
-v03: νάρδος (nardos)
-“Nard.” Costly aromatic perfume.
-
-v06: καλὸν ἔργον (kalon ergon)
-“Beautiful work.” An act good in form, meaning, and devotion.

@@ -37,7 +37,7 @@ v05: “did not hate him previously” identifies prior hostility as relevant to
 v06: The manslayer remains in the refuge city until judgment and, if protected, until the death of the high priest. The text links legal protection with a temporal boundary not fully explained here.
 v09: Access is explicitly extended to both Israelite and resident alien, showing that the refuge system protects people across status distinctions within the land.
 
-##Vocabulary
+## Vocabulary
 
 v02: עִיר מִקְלָט (ir miqlat)
 “City of refuge.” A designated place of legal protection.

@@ -66,7 +66,7 @@ v08–09: Jeremiah appeals to the broader prophetic tradition. A prophet of peac
 v10–14: Hananiah turns Jeremiah’s symbolic yoke into a counter-sign by breaking it. The LORD’s response intensifies rather than cancels the sign: wood becomes iron.
 v16: “rebellion against the LORD” describes speech that claims divine authority while opposing the LORD’s actual word.
 
-##Vocabulary
+## Vocabulary
 
 v02: שָׁבַר (shavar)
 “To break.” Hananiah announces and symbolically enacts the breaking of Babylon’s yoke.

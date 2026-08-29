@@ -91,7 +91,7 @@ v19–20: Interest restrictions distinguish lending within the covenant communit
 v21–23: Vows are voluntary before being made but binding once spoken.
 v24–25: Neighborly access allows immediate eating from vineyard or field while forbidding removal of harvest by vessel or sickle.
 
-##Vocabulary
+## Vocabulary
 
 v01: קָהָל יְהוָה (qahal YHWH)
 “Assembly of the LORD.” The covenantal public community.

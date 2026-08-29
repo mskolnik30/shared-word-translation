@@ -143,10 +143,10 @@ v55: and ran about that whole region and began to bring the sick on mats to wher
 v56: And wherever he entered villages, or cities, or countryside, they laid the sick in the marketplaces and begged him that they might touch even the fringe of his cloak; and all who touched it were healed.
 </p>
 ## Notes
-v1–3: Jesus returns to his hometown, but recognition does not lead to trust. Familiarity becomes a stumbling block. The questions asked by the crowd are not neutral; they register astonishment mixed with resistance.
-v3: “The carpenter” preserves the ordinary social location assigned to Jesus. “Son of Mary” may simply identify him through family relation, though the wording remains striking in a culture where paternal identification was more common.
-v4: Jesus speaks a proverb rather than a defense. Rejection is named as part of the prophetic pattern, and the narrowing circles—hometown, kin, house—intensify the nearness of the offense.
-v5–6: The text does not explain the relation between unbelief and the limitation of deeds of power. It leaves the tension in place. Jesus heals some, yet the setting remains marked by resistance.
+v01–03: Jesus returns to his hometown, but recognition does not lead to trust. Familiarity becomes a stumbling block. The questions asked by the crowd are not neutral; they register astonishment mixed with resistance.
+v03: “The carpenter” preserves the ordinary social location assigned to Jesus. “Son of Mary” may simply identify him through family relation, though the wording remains striking in a culture where paternal identification was more common.
+v04: Jesus speaks a proverb rather than a defense. Rejection is named as part of the prophetic pattern, and the narrowing circles—hometown, kin, house—intensify the nearness of the offense.
+v05–06: The text does not explain the relation between unbelief and the limitation of deeds of power. It leaves the tension in place. Jesus heals some, yet the setting remains marked by resistance.
 
 v6b–9: The sending of the twelve is communal and stripped down. Their dependence is not accidental but integral to the mission. The instructions preserve urgency and vulnerability together.
 v10–11: Hospitality and refusal are both anticipated. The shaking off of dust functions as a testimony rather than an act of revenge.
@@ -171,23 +171,23 @@ v50: “I am” preserves the compact force of the Greek and allows both ordinar
 v51–52: The disciples’ astonishment is tied not only to the storm but also to their failure to understand the loaves. The chapter links bread, fear, and perception more tightly than they themselves yet grasp.
 v53–56: The closing scene gathers villages, cities, and countryside into one widening field of response. The urgency of the crowds continues, but now the emphasis falls on recognition, touch, and healing.
 
-##Vocabulary
+## Vocabulary
 
-v3: τέκτων (tektōn) — carpenter; craftsperson; builder
+v03: τέκτων (tektōn) — carpenter; craftsperson; builder
 
-v3: ἐσκανδαλίζοντο (eskandalizonto) — they took offense; they stumbled
+v03: ἐσκανδαλίζοντο (eskandalizonto) — they took offense; they stumbled
 
-v4: προφήτης (prophētēs) — prophet; one who speaks forth
+v04: προφήτης (prophētēs) — prophet; one who speaks forth
 
-v5: δύναμις (dynamis) — deed of power; mighty work
+v05: δύναμις (dynamis) — deed of power; mighty work
 
-v6: ἀπιστία (apistia) — unbelief; lack of trust
+v06: ἀπιστία (apistia) — unbelief; lack of trust
 
-v7: ἀποστέλλειν (apostellein) — to send out
+v07: ἀποστέλλειν (apostellein) — to send out
 
-v7: ἐξουσία (exousia) — authority; delegated power
+v07: ἐξουσία (exousia) — authority; delegated power
 
-v8: πήρα (pēra) — bag; traveler’s sack
+v08: πήρα (pēra) — bag; traveler’s sack
 
 v11: μαρτύριον (martyrion)
 “Testimony; witness.”

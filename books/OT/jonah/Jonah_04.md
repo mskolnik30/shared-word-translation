@@ -59,51 +59,51 @@ who do not know their right hand from their left,
 and also many animals?”
 </p>
 ## Notes
-v1: Jonah responds to Nineveh's repentance not with joy but with anger.  
-v2: Jonah reveals that God's mercy was the very reason he fled in chapter 1.  
-v2: The description of God echoes the covenant declaration first given after the golden calf incident (Exodus 34:6–7).  
-v3: Jonah values judgment upon Nineveh more than his own continued life.  
-v4: God's first response is a question designed to expose Jonah's heart.  
-v5: Jonah still waits outside the city, apparently hoping that judgment may yet fall.  
-v6: The plant is presented as another divinely appointed means of instruction.  
-v6: Jonah rejoices more over the plant than he did over Nineveh's repentance.  
-v7–8: God appoints the worm and the scorching wind just as he previously appointed the fish.  
-v9: Jonah remains more concerned about his own comfort than the fate of an entire city.  
+v01: Jonah responds to Nineveh's repentance not with joy but with anger.  
+v02: Jonah reveals that God's mercy was the very reason he fled in chapter 1.  
+v02: The description of God echoes the covenant declaration first given after the golden calf incident (Exodus 34:6–7).  
+v03: Jonah values judgment upon Nineveh more than his own continued life.  
+v04: God's first response is a question designed to expose Jonah's heart.  
+v05: Jonah still waits outside the city, apparently hoping that judgment may yet fall.  
+v06: The plant is presented as another divinely appointed means of instruction.  
+v06: Jonah rejoices more over the plant than he did over Nineveh's repentance.  
+v07–08: God appoints the worm and the scorching wind just as he previously appointed the fish.  
+v09: Jonah remains more concerned about his own comfort than the fate of an entire city.  
 v10–11: God's final lesson contrasts Jonah's concern for a temporary plant with God's concern for human lives.  
 v11: The reference to those who do not know their right hand from their left likely emphasizes the city's spiritual ignorance and vulnerability.  
 v11: The mention of animals broadens the scope of God's compassion to all living creatures affected by judgment.  
 v11: The book ends with an unanswered question, inviting readers to consider whether they share God's compassion for the lost.  
 
-##Vocabulary
+## Vocabulary
 
-v1: רָעַע (rāʿaʿ)  
+v01: רָעַע (rāʿaʿ)  
 “To be displeased.” To regard something as evil, wrong, or offensive.  
 
-v1: חָרָה (ḥārâ)  
+v01: חָרָה (ḥārâ)  
 “To burn with anger.” A common expression for intense anger.  
 
-v2: חַנּוּן (ḥannûn)  
+v02: חַנּוּן (ḥannûn)  
 “Gracious.” Showing favor and kindness that is undeserved.  
 
-v2: רַחוּם (raḥûm)  
+v02: רַחוּם (raḥûm)  
 “Merciful” or “compassionate.” Deeply moved by the suffering or need of others.  
 
-v2: אֶרֶךְ אַפַּיִם (ʾereḵ ʾappayim)  
+v02: אֶרֶךְ אַפַּיִם (ʾereḵ ʾappayim)  
 “Slow to anger.” Literally “long of nostrils,” describing patient restraint.  
 
-v2: חֶסֶד (ḥeseḏ)  
+v02: חֶסֶד (ḥeseḏ)  
 “Steadfast love.” Loyal covenant faithfulness and mercy.  
 
-v5: סֻכָּה (sukkâ)  
+v05: סֻכָּה (sukkâ)  
 “Shelter” or “booth.” A temporary structure providing shade.  
 
-v6: קִיקָיוֹן (qîqāyôn)  
+v06: קִיקָיוֹן (qîqāyôn)  
 “Plant.” The fast-growing plant appointed by God to shade Jonah.  
 
-v7: תּוֹלַעַת (tôlaʿaṯ)  
+v07: תּוֹלַעַת (tôlaʿaṯ)  
 “Worm.” The creature appointed by God to destroy the plant.  
 
-v8: קָדִים (qādîm)  
+v08: קָדִים (qādîm)  
 “East wind.” A hot, dry wind associated with harsh conditions.  
 
 v10: חוּס (ḥûs)  
@@ -115,14 +115,3 @@ v11: נִינְוֵה (Nînĕwēh)
 v11: בְּהֵמָה (bĕhēmâ)  
 “Animal” or “beast.” Domestic livestock included within God's concern.  
 
-v01: רָעַע (rāʿaʿ)
-“To be displeased.” To regard something as evil, wrong, or offensive.
-
-v01: חָרָה (ḥārâ)
-“To burn with anger.” A common expression for intense anger.
-
-v02: אֶרֶךְ אַפַּיִם (ʾereḵ ʾappayim)
-“Slow to anger.” Literally “long of nostrils,” describing patient restraint.
-
-v02: חֶסֶד (ḥeseḏ)
-“Steadfast love.” Loyal covenant faithfulness and mercy.

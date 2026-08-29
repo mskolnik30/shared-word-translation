@@ -61,16 +61,16 @@ v15: And his affection for you is even greater, as he remembers the obedience of
 v16: I rejoice, because in everything I have confidence in you.
 </p>
 ## Notes
-v1: “Cleanse ourselves” introduces active participation without displacing divine initiative. Holiness is both given and pursued.  
-v1: “Body and spirit” functions as a comprehensive expression. The concern is not dualistic but total.  
-v2: Paul’s threefold denial (wronged, corrupted, exploited) addresses possible accusations directly and without elaboration.  
-v3: “To die together and to live together” signals relational solidarity that persists across outcomes.  
-v4: Joy and affliction coexist. Paul does not sequence them but holds them simultaneously.  
-v5: The pairing “conflicts without, fears within” maps external and internal pressure without privileging one over the other.  
-v6: God is named as “the one who comforts the lowly,” locating divine action specifically among the brought-low.  
-v7: The report from Titus mediates reconciliation. Presence and testimony carry relational weight.  
-v8: Paul acknowledges ambivalence (“I did regret it”) without retracting the action. The effect of the letter reinterprets the regret.  
-v9: Grief is not avoided but redirected. Its value is determined by its movement toward repentance.  
+v01: “Cleanse ourselves” introduces active participation without displacing divine initiative. Holiness is both given and pursued.  
+v01: “Body and spirit” functions as a comprehensive expression. The concern is not dualistic but total.  
+v02: Paul’s threefold denial (wronged, corrupted, exploited) addresses possible accusations directly and without elaboration.  
+v03: “To die together and to live together” signals relational solidarity that persists across outcomes.  
+v04: Joy and affliction coexist. Paul does not sequence them but holds them simultaneously.  
+v05: The pairing “conflicts without, fears within” maps external and internal pressure without privileging one over the other.  
+v06: God is named as “the one who comforts the lowly,” locating divine action specifically among the brought-low.  
+v07: The report from Titus mediates reconciliation. Presence and testimony carry relational weight.  
+v08: Paul acknowledges ambivalence (“I did regret it”) without retracting the action. The effect of the letter reinterprets the regret.  
+v09: Grief is not avoided but redirected. Its value is determined by its movement toward repentance.  
 v10: Two kinds of grief are distinguished by outcome, not by intensity. One leads to life; the other to death.  
 v11: The sequence of responses (earnestness, indignation, fear, longing, zeal, justice) traces the communal effect of repentance without systematizing it.  
 v12: The letter’s purpose is reframed: not adjudication of individuals, but revelation of the community’s stance before God.  
@@ -78,31 +78,31 @@ v13–14: Paul’s prior boasting becomes a test of truthfulness. The community�
 v15: “Fear and trembling” marks seriousness of reception rather than terror alone.  
 v16: Confidence is restored but not idealized. It emerges from tested relationship.  
 
-##Vocabulary
+## Vocabulary
 
-v1: μολυσμός (molysmos)  
+v01: μολυσμός (molysmos)  
 
-v1: “Defilement.” Suggests contamination affecting purity or integrity.  
+v01: “Defilement.” Suggests contamination affecting purity or integrity.  
 
-v1: ἁγιωσύνη (hagiōsynē)  
+v01: ἁγιωσύνη (hagiōsynē)  
 
-v1: “Holiness.” A state or condition brought toward completion.  
+v01: “Holiness.” A state or condition brought toward completion.  
 
-v2: φθείρω (phtheirō)  
+v02: φθείρω (phtheirō)  
 
-v2: “To corrupt.” Can imply moral or relational damage.  
+v02: “To corrupt.” Can imply moral or relational damage.  
 
-v5: σάρξ (sarx)  
+v05: σάρξ (sarx)  
 
-v5: “Flesh.” Here indicating embodied existence under strain.  
+v05: “Flesh.” Here indicating embodied existence under strain.  
 
-v6: ταπεινός (tapeinos)  
+v06: ταπεινός (tapeinos)  
 
-v6: “Lowly” or “brought low.” Not merely humble but pressed down.  
+v06: “Lowly” or “brought low.” Not merely humble but pressed down.  
 
-v9: μετάνοια (metanoia)  
+v09: μετάνοια (metanoia)  
 
-v9: “Repentance.” A change of mind and orientation.  
+v09: “Repentance.” A change of mind and orientation.  
 
 v10: ἀμεταμέλητος (ametamelētos)  
 

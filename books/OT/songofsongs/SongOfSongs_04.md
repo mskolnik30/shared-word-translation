@@ -105,16 +105,16 @@ Let my beloved come into his garden
 and eat its choicest fruits.
 </p>
 ## Notes
-v1–7: The beloved celebrates the bride's beauty through a series of poetic comparisons drawn from nature and daily life.  
-v1: The dove imagery continues a theme already introduced earlier in the song.  
-v1: Gilead's hillsides, covered with moving flocks, provide a picture of beauty and abundance.  
-v2: The imagery of sheep emphasizes purity, completeness, and harmony.  
-v4: The tower of David symbolizes dignity, strength, and honor.  
-v5: The gazelle imagery communicates grace, gentleness, and beauty.  
-v7: The beloved's declaration emphasizes his complete delight in the bride.  
-v8: Lebanon, Hermon, and the surrounding mountains create a setting of grandeur and distance.  
-v9: “You have captured my heart” expresses the powerful effect of love and attraction.  
-v9: “My sister, my bride” is a term of affection expressing both intimacy and covenant relationship.  
+v01–07: The beloved celebrates the bride's beauty through a series of poetic comparisons drawn from nature and daily life.  
+v01: The dove imagery continues a theme already introduced earlier in the song.  
+v01: Gilead's hillsides, covered with moving flocks, provide a picture of beauty and abundance.  
+v02: The imagery of sheep emphasizes purity, completeness, and harmony.  
+v04: The tower of David symbolizes dignity, strength, and honor.  
+v05: The gazelle imagery communicates grace, gentleness, and beauty.  
+v07: The beloved's declaration emphasizes his complete delight in the bride.  
+v08: Lebanon, Hermon, and the surrounding mountains create a setting of grandeur and distance.  
+v09: “You have captured my heart” expresses the powerful effect of love and attraction.  
+v09: “My sister, my bride” is a term of affection expressing both intimacy and covenant relationship.  
 v10–11: Fragrance, honey, milk, and wine continue the book's imagery of delight and abundance.  
 v12–15: The bride is portrayed as a protected and fruitful garden.  
 v12: The locked garden symbolizes exclusivity, treasured beauty, and covenant faithfulness.  
@@ -122,27 +122,27 @@ v13–14: The garden contains a rich variety of precious and fragrant plants.
 v15: Living water symbolizes freshness, vitality, and life-giving abundance.  
 v16: The chapter concludes with the bride's invitation, anticipating deeper union and mutual delight.  
 
-##Vocabulary
+## Vocabulary
 
-v1: צַמָּה (ṣammâ)  
+v01: צַמָּה (ṣammâ)  
 “Veil.” A covering worn by a woman.  
 
-v1: גִּלְעָד (Gilʿāḏ)  
+v01: גִּלְעָד (Gilʿāḏ)  
 “Gilead.” A fertile region east of the Jordan River.  
 
-v3: רִמּוֹן (rimmôn)  
+v03: רִמּוֹן (rimmôn)  
 “Pomegranate.” A fruit often associated with beauty and fruitfulness.  
 
-v4: מָגֵן (māgēn)  
+v04: מָגֵן (māgēn)  
 “Shield.” A symbol of strength and protection.  
 
-v5: צְבִיָּה (ṣĕḇiyyâ)  
+v05: צְבִיָּה (ṣĕḇiyyâ)  
 “Gazelle.” A graceful animal frequently used in the song's imagery.  
 
-v8: כַּלָּה (kallâ)  
+v08: כַּלָּה (kallâ)  
 “Bride.” A woman joined in covenant marriage.  
 
-v9: לֵבָב (lēḇāḇ)  
+v09: לֵבָב (lēḇāḇ)  
 “Heart.” The center of affection, desire, and inner life.  
 
 v10: דּוֹדִים (dōḏîm)  
@@ -163,14 +163,3 @@ v15: מַיִם חַיִּים (mayim ḥayyîm)
 v16: פְּרִי מְגָדָיו (pĕrî mĕḡāḏāyw)  
 “Choicest fruits.” The finest and most desirable produce.  
 
-v01: צַמָּה (ṣammâ)
-“Veil.” A covering worn by a woman.
-
-v01: גִּלְעָד (Gilʿāḏ)
-“Gilead.” A fertile region east of the Jordan River.
-
-v03: רִמּוֹן (rimmôn)
-“Pomegranate.” A fruit often associated with beauty and fruitfulness.
-
-v08: כַּלָּה (kallâ)
-“Bride.” A woman joined in covenant marriage.

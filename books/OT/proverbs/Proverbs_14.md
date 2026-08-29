@@ -194,7 +194,7 @@ v27: Fear of the LORD is again life-giving rather than merely frightening. Rever
 v31: Treatment of the poor is directly related to treatment of their Creator. Social conduct therefore becomes theological conduct.
 v34: Righteousness and sin have communal consequences. Proverbs does not restrict morality to individuals.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָכְמוֹת (chokhmot)
 “Wisdom.” Here associated with constructive, life-giving action.

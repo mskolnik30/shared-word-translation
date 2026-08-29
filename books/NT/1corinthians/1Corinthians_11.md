@@ -81,10 +81,10 @@ v33: So then, my sisters and brothers, when you come together to eat, wait for o
 v34: If anyone is hungry, let them eat at home, so that when you come together it will not be for judgment. And the rest I will set in order when I come.
 </p>
 ## Notes
-v1: “imitators… as I… of Christ” — Paul anchors his authority in imitation that is derivative; the pattern is Christ, not personality.  
-v2: “hold firmly to the traditions” — “Tradition” here is received teaching meant to form communal worship and ethics, not mere preference.  
-v3: “head” — In this chapter, “head” (kephalē) operates in an honor/shame and relational-order frame; it is not a license for domination, and the passage itself will qualify any one-way dependence (v11–12).  
-v5: “woman… prays or prophesies” — Women are pictured as active speakers in worship; whatever this text means, it assumes women’s Spirit-given participation.  
+v01: “imitators… as I… of Christ” — Paul anchors his authority in imitation that is derivative; the pattern is Christ, not personality.  
+v02: “hold firmly to the traditions” — “Tradition” here is received teaching meant to form communal worship and ethics, not mere preference.  
+v03: “head” — In this chapter, “head” (kephalē) operates in an honor/shame and relational-order frame; it is not a license for domination, and the passage itself will qualify any one-way dependence (v11–12).  
+v05: “woman… prays or prophesies” — Women are pictured as active speakers in worship; whatever this text means, it assumes women’s Spirit-given participation.  
 v10: “ought to have authority over her head” — The phrase is striking: it frames the covering in terms of “authority,” not inferiority; the meaning is debated, but the wording resists a simple subordination reading.  
 v11–12: “not independent… all things are from God” — Paul rebalances creation arguments with mutuality and God as the ultimate source; dependence is reciprocal in the Lord.  
 v16: “no such custom” — Paul signals limits: not every local practice deserves endless contention; the church’s unity matters.  
@@ -96,17 +96,17 @@ v30–32: “weak and ill… disciplined” — Paul reads communal harm as seri
 v33: “wait for one another” — The practical remedy is radical in its simplicity: shared timing, shared regard, shared table—love made concrete.  
 v34: “eat at home” — The gathering is not for private consumption; the Lord’s Table is meant to embody communion, not amplify inequality.  
 
-##Vocabulary
+## Vocabulary
 
-v1: μιμητής (mimētēs) — imitator  
+v01: μιμητής (mimētēs) — imitator  
 
-v2: παράδοσις (paradosis) — tradition; what is handed on  
+v02: παράδοσις (paradosis) — tradition; what is handed on  
 
-v3: κεφαλή (kephalē) — head; source; leading/headship (range debated)  
+v03: κεφαλή (kephalē) — head; source; leading/headship (range debated)  
 
-v5: προσεύχομαι (proseuchomai) — to pray  
+v05: προσεύχομαι (proseuchomai) — to pray  
 
-v5: προφητεύω (prophēteuō) — to prophesy; to speak forth  
+v05: προφητεύω (prophēteuō) — to prophesy; to speak forth  
 
 v10: ἐξουσία (exousia) — authority; rightful power  
 

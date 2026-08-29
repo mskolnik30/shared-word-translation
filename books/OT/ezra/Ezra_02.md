@@ -189,7 +189,7 @@ v63: Urim and Thummim were priestly means of seeking divine decision. Ezra does 
 v64: The total of 42,360 is larger than the sum of the individual numbers preserved in the list. The same phenomenon appears in the related list in Nehemiah 7. TSW retains both the received total and the individual figures rather than harmonizing them.
 v69: “darics” names a Persian gold coin. The underlying Hebrew monetary term is rare, and the precise historical coinage represented by the list has been discussed.
 
-##Vocabulary
+## Vocabulary
 
 v01: גּוֹלָה (golah)
 “Exile” or “community of exiles.” The term can describe both captivity and those who have returned from it.

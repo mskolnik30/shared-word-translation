@@ -67,15 +67,15 @@ v18: And to whom did he swear that they would not enter his rest, but to those w
 v19: So we see that they were unable to enter because of unbelief.
 </p>
 ## Notes
-v1: Identity is communal and participatory.  
-v1: Jesus is described through dual roles without explanation.  
-v2–6: Comparison with Moses establishes continuity and distinction.  
-v3: Value is measured relationally, not absolutely.  
-v5–6: Servant and son are contrasted in function.  
-v6: Participation is conditional, not assumed.  
-v7–11: Citation is authoritative and present.  
-v8: Hardening is internal, not imposed.  
-v9–10: Experience does not guarantee understanding.  
+v01: Identity is communal and participatory.  
+v01: Jesus is described through dual roles without explanation.  
+v02–06: Comparison with Moses establishes continuity and distinction.  
+v03: Value is measured relationally, not absolutely.  
+v05–06: Servant and son are contrasted in function.  
+v06: Participation is conditional, not assumed.  
+v07–11: Citation is authoritative and present.  
+v08: Hardening is internal, not imposed.  
+v09–10: Experience does not guarantee understanding.  
 v11: Exclusion is declared without mitigation.  
 v12: Falling away is relational, not merely behavioral.  
 v13: Exhortation is continual and mutual.  
@@ -84,39 +84,39 @@ v15: Repetition reinforces urgency.
 v16–19: Questions lead to conclusion rather than argument.  
 v19: Unbelief is identified as the root condition.  
 
-##Vocabulary
+## Vocabulary
 
-v1: κλῆσις (klēsis)  
+v01: κλῆσις (klēsis)  
 
-v1: “Calling.” Invitation or summons.  
+v01: “Calling.” Invitation or summons.  
 
-v1: ἀπόστολος (apostolos)  
+v01: ἀπόστολος (apostolos)  
 
-v1: “Apostle.” One sent.  
+v01: “Apostle.” One sent.  
 
-v1: ἀρχιερεύς (archiereus)  
+v01: ἀρχιερεύς (archiereus)  
 
-v1: “High priest.” Chief mediator.  
+v01: “High priest.” Chief mediator.  
 
-v3: δόξα (doxa)  
+v03: δόξα (doxa)  
 
-v3: “Glory.” Honor or weight.  
+v03: “Glory.” Honor or weight.  
 
-v5: θεράπων (therapōn)  
+v05: θεράπων (therapōn)  
 
-v5: “Servant.” One who attends.  
+v05: “Servant.” One who attends.  
 
-v6: παρρησία (parrēsia)  
+v06: παρρησία (parrēsia)  
 
-v6: “Confidence.” Boldness or openness.  
+v06: “Confidence.” Boldness or openness.  
 
-v7: σήμερον (sēmeron)  
+v07: σήμερον (sēmeron)  
 
-v7: “Today.” Present time.  
+v07: “Today.” Present time.  
 
-v8: σκληρύνω (sklērynō)  
+v08: σκληρύνω (sklērynō)  
 
-v8: “To harden.” To make resistant.  
+v08: “To harden.” To make resistant.  
 
 v12: ἀποστῆναι (apostēnai)  
 

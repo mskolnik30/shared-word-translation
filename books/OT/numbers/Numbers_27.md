@@ -62,7 +62,7 @@ v18: “in whom is the Spirit” may refer to divine Spirit or spirit/capacity g
 v18: Hebrew *ruach* can mean “spirit,” “breath,” or “wind.” In this commissioning context it may refer to divine Spirit or to spirit/capacity given by God.
 v20: Joshua receives “some” of Moses’ authority, preserving both continuity and distinction between the two leaders.
 
-##Vocabulary
+## Vocabulary
 
 v04: אֲחֻזָּה (achuzzah)
 “Possession.” Land held as an enduring property right.

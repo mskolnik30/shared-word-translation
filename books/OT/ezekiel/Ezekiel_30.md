@@ -115,13 +115,13 @@ and disperse them through the lands.
 Then they will know that I am the LORD."
 </p>
 ## Notes
-v3: **30:3 "a day of clouds"** - The imagery of clouds signifies a time of divine judgment and chaos, typically associated with the presence of God.  
+v03: **30:3 "a day of clouds"** - The imagery of clouds signifies a time of divine judgment and chaos, typically associated with the presence of God.  
   
-v6: **30:6 "Migdol to Syene"** - These cities denote the northernmost and southernmost boundaries of Egypt, indicating total destruction throughout the land.  
+v06: **30:6 "Migdol to Syene"** - These cities denote the northernmost and southernmost boundaries of Egypt, indicating total destruction throughout the land.  
   
 v21: **30:21 "the arm of Pharaoh"** - In ancient imagery, the arm symbolizes power and strength. God's breaking of Pharaoh's arm implies the complete weakening of Egypt's military might.  
 
-##Vocabulary
+## Vocabulary
 
 v10: 10 נְבוּכַדְרֶאצַּ֥ר (ne.vu.khad.nets.tsar)  
 

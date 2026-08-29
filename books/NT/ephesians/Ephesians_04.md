@@ -109,12 +109,12 @@ v31: Let all bitterness and wrath and anger and shouting and slander be removed 
 v32: And be kind to one another, tenderhearted, forgiving one another, just as God in Christ forgave you.
 </p>
 ## Notes
-v1: “Walk worthy” links identity (“calling”) with conduct. The ethical appeal is grounded in prior divine action.  
-v2–3: Humility, gentleness, patience, and love are relational practices that sustain unity rather than create it.  
-v3: Unity is “of the Spirit,” not manufactured. The task is preservation, not invention.  
-v4–6: The repeated “one” establishes theological unity across diverse realities.  
-v7: Grace is individualized (“to each one”) while remaining sourced in Christ.  
-v8–10: Ascending and descending are interpreted Christologically. Movement language frames authority and presence.  
+v01: “Walk worthy” links identity (“calling”) with conduct. The ethical appeal is grounded in prior divine action.  
+v02–03: Humility, gentleness, patience, and love are relational practices that sustain unity rather than create it.  
+v03: Unity is “of the Spirit,” not manufactured. The task is preservation, not invention.  
+v04–06: The repeated “one” establishes theological unity across diverse realities.  
+v07: Grace is individualized (“to each one”) while remaining sourced in Christ.  
+v08–10: Ascending and descending are interpreted Christologically. Movement language frames authority and presence.  
 v11–12: Leadership roles are given for equipping, not hierarchy. Ministry is distributed.  
 v13: Maturity is defined corporately, not individually.  
 v14: Instability is linked to susceptibility to teaching shaped by human manipulation.  
@@ -130,23 +130,23 @@ v29: Speech is evaluated by its effect—whether it builds up and gives grace.
 v30: The Spirit’s sealing links present conduct with future redemption.  
 v31–32: Negative dispositions are named collectively and replaced with relational practices rooted in God’s action.  
 
-##Vocabulary
+## Vocabulary
 
-v1: κλῆσις (klēsis)  
+v01: κλῆσις (klēsis)  
 
-v1: “Calling.” A summons that defines identity and direction.  
+v01: “Calling.” A summons that defines identity and direction.  
 
-v2: ταπεινοφροσύνη (tapeinophrosynē)  
+v02: ταπεινοφροσύνη (tapeinophrosynē)  
 
-v2: “Humility.” Lowliness of mind or self-understanding.  
+v02: “Humility.” Lowliness of mind or self-understanding.  
 
-v3: σύνδεσμος (syndesmos)  
+v03: σύνδεσμος (syndesmos)  
 
-v3: “Bond.” That which holds together.  
+v03: “Bond.” That which holds together.  
 
-v7: μέτρον (metron)  
+v07: μέτρον (metron)  
 
-v7: “Measure.” A defined portion.  
+v07: “Measure.” A defined portion.  
 
 v12: καταρτισμός (katartismos)  
 

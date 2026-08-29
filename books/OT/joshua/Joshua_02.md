@@ -75,7 +75,7 @@ v09–11: Rahab interprets Israel’s past deliverance theologically and confess
 v12–14: “steadfast love and faithfulness” describes reciprocal loyalty grounded in the protection Rahab has already extended to the spies.
 v18: The scarlet cord functions as a visible sign identifying the household to be spared. The text itself does not assign symbolic meaning beyond the agreement.
 
-##Vocabulary
+## Vocabulary
 
 v01: רָגַל (ragal)
 “To spy out” or “explore.” To investigate land or territory.

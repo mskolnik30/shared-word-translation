@@ -67,7 +67,7 @@ v13: “There shall also be a priest by his throne” — The Hebrew describes r
 v14: The Hebrew names associated with the memorial crowns vary slightly across textual traditions. The main text follows the Masoretic forms.
 v15: “Those who are far away” — Restoration of the temple widens beyond those already present in Jerusalem to people coming from a distance.
 
-##Vocabulary
+## Vocabulary
 
 v01: מֶרְכָּבָה (merkavah)
 “Chariot.” A wheeled vehicle, often associated with warfare or royal movement, here part of the heavenly vision.

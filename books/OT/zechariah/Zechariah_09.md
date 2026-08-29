@@ -132,7 +132,7 @@ v13: “Greece” — The Hebrew is *Javan*, conventionally associated with the 
 v15: “sling stones” — The imagery is compressed and difficult. The translation retains the military language without attempting to reconstruct every detail of the scene.
 v16: “stones of a crown” — The people themselves become precious stones lifted up or displayed over the land.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַשָּׂא (massa)
 “Oracle” or “burden.” A prophetic pronouncement, often carrying weighty judgment or revelation.

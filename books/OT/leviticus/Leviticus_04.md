@@ -80,7 +80,7 @@ v07: The blood of the priest’s and congregation’s offerings is brought into 
 v20: “shall be forgiven” — Forgiveness follows the prescribed act of atonement and is stated repeatedly throughout the chapter.
 v27: “people of the land” — Here the phrase refers broadly to ordinary members of the Israelite community rather than a distinct foreign population.
 
-##Vocabulary
+## Vocabulary
 
 v02: שְׁגָגָה (shegagah)
 “Unintentional error.” A wrong committed without deliberate defiance.

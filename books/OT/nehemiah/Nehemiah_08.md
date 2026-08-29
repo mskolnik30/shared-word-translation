@@ -50,7 +50,7 @@ v10: “the joy of the LORD” may refer to joy in the LORD or joy given by the 
 v14–17: The text emphasizes renewed observance of the Festival of Booths without claiming that no form of the festival had occurred since Joshua.
 v18: The eighth-day assembly corresponds to the festival’s concluding sacred gathering.
 
-##Vocabulary
+## Vocabulary
 
 v01: תּוֹרָה (torah)
 “Torah,” “instruction,” or “law.” God’s covenantal teaching given through Moses.

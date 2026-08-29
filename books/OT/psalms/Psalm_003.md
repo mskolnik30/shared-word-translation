@@ -42,54 +42,43 @@ v08: Salvation belongs to the LORD;
 your blessing be upon your people! Selah.
 </p>
 ## Notes
-v1–2: Opposition is both external (“foes”) and internalized (“no salvation”).  
-v3: God is described relationally—shield, glory, and restorer of dignity.  
-v4: Prayer connects distress to divine response.  
-v5: Sleep becomes an act of trust, not vulnerability.  
-v6: Confidence is not based on reduced threat but on divine presence.  
-v7: Deliverance is expressed in vivid, physical imagery.  
-v8: Salvation is claimed as belonging to the LORD, not the individual.  
+v01–02: Opposition is both external (“foes”) and internalized (“no salvation”).  
+v03: God is described relationally—shield, glory, and restorer of dignity.  
+v04: Prayer connects distress to divine response.  
+v05: Sleep becomes an act of trust, not vulnerability.  
+v06: Confidence is not based on reduced threat but on divine presence.  
+v07: Deliverance is expressed in vivid, physical imagery.  
+v08: Salvation is claimed as belonging to the LORD, not the individual.  
 
-##Vocabulary
+## Vocabulary
 
-v1: צָר (tsar)  
+v01: צָר (tsar)  
 “Foe.” Adversary.  
 
-v2: נֶפֶשׁ (nephesh)  
+v02: נֶפֶשׁ (nephesh)  
 “Soul.” Life or self.  
 
-v3: מָגֵן (magen)  
+v03: מָגֵן (magen)  
 “Shield.” Protection.  
 
-v3: כָּבוֹד (kavod)  
+v03: כָּבוֹד (kavod)  
 “Glory.” Honor or weight.  
 
-v3: רוּם (rum)  
+v03: רוּם (rum)  
 “To lift.” Raise up.  
 
-v4: קָרָא (qara)  
+v04: קָרָא (qara)  
 “To cry out.” Call loudly.  
 
-v5: יָשֵׁן (yashen)  
+v05: יָשֵׁן (yashen)  
 “To sleep.” Rest.  
 
-v5: סָמַךְ (samak)  
+v05: סָמַךְ (samak)  
 “To sustain.” Support.  
 
-v7: נָכָה (nakah)  
+v07: נָכָה (nakah)  
 “To strike.” Hit or defeat.  
 
-v8: יְשׁוּעָה (yeshuah)  
+v08: יְשׁוּעָה (yeshuah)  
 “Salvation.” Deliverance.  
 
-v01: צָר (tsar)
-“Foe.” Adversary.
-
-v02: נֶפֶשׁ (nephesh)
-“Soul.” Life or self.
-
-v03: כָּבוֹד (kavod)
-“Glory.” Honor or weight.
-
-v08: יְשׁוּעָה (yeshuah)
-“Salvation.” Deliverance.

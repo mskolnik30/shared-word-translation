@@ -35,45 +35,34 @@ v08: who turns the rock into a pool of water,
 the flint into a spring of water.
 </p>
 ## Notes
-v1–2: The exodus establishes identity—Israel becomes sanctuary and dominion.  
-v3–4: Creation responds to God with movement and reversal.  
-v5–6: Rhetorical questions emphasize the abnormal behavior of nature.  
-v7–8: The cause is divine presence. Power is expressed through transformation.  
+v01–02: The exodus establishes identity—Israel becomes sanctuary and dominion.  
+v03–04: Creation responds to God with movement and reversal.  
+v05–06: Rhetorical questions emphasize the abnormal behavior of nature.  
+v07–08: The cause is divine presence. Power is expressed through transformation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: יָצָא (yatsa)  
+v01: יָצָא (yatsa)  
 “To go out.” Depart.  
 
-v2: קֹדֶשׁ (qodesh)  
+v02: קֹדֶשׁ (qodesh)  
 “Sanctuary.” Holy place.  
 
-v3: נוּס (nus)  
+v03: נוּס (nus)  
 “To flee.” Escape.  
 
-v4: רָקַד (raqad)  
+v04: רָקַד (raqad)  
 “To skip.” Leap.  
 
-v7: חוּל (chul)  
+v07: חוּל (chul)  
 “To tremble.” Shake.  
 
-v8: הָפַךְ (haphakh)  
+v08: הָפַךְ (haphakh)  
 “To turn.” Transform.  
 
-v8: צוּר (tsur)  
+v08: צוּר (tsur)  
 “Rock.” Solid mass.  
 
-v8: חַלָּמִישׁ (chalamish)  
+v08: חַלָּמִישׁ (chalamish)  
 “Flint.” Hard stone.  
 
-v01: יָצָא (yatsa)
-“To go out.” Depart.
-
-v02: קֹדֶשׁ (qodesh)
-“Sanctuary.” Holy place.
-
-v03: נוּס (nus)
-“To flee.” Escape.
-
-v04: רָקַד (raqad)
-“To skip.” Leap.

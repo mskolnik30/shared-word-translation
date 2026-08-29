@@ -116,7 +116,7 @@ v18–22: The heavenly-council vision portrays Ahab’s chosen deception becomin
 v31: Chronicles adds explicit divine help for Jehoshaphat when he cries out.
 v33: “In innocence” means without deliberately targeting Ahab; the apparently random arrow fulfills the true prophecy.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָתַן (chatan)
 “To ally by marriage.”

@@ -92,7 +92,7 @@ v29: “by which a person … shall live” recalls Torah language concerning li
 v36–37: Return to the land has not meant political independence. The community is physically in the promised land yet economically and politically subject to Persian kings.
 v38: The Hebrew describes a firm or faithful agreement rather than using the ordinary word *berit* for covenant in this verse.
 
-##Vocabulary
+## Vocabulary
 
 v02: עָוֹן (avon)
 “Iniquity” or “guilt.” Wrongdoing considered with its burden and consequence.

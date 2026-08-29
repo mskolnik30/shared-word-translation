@@ -181,7 +181,7 @@ v22: The command refuses personal vengeance and relocates hope for justice in th
 v24: Human beings genuinely walk and choose, yet the full meaning of their way is not transparent even to themselves.
 v27: The human spirit becomes an instrument through which the LORD searches inward life.
 
-##Vocabulary
+## Vocabulary
 
 v01: שֵׁכָר (shekhar)
 “Strong drink.” An intoxicating beverage distinct from ordinary wine.

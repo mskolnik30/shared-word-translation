@@ -92,7 +92,7 @@ v31–43: The two processions travel in opposite directions along the wall and c
 v43: The repeated language of rejoicing is deliberate; God is named as the source of the community’s great joy.
 v44–47: Celebration is followed by administration. Sustained worship requires organized material support for priests, Levites, singers, and gatekeepers.
 
-##Vocabulary
+## Vocabulary
 
 v27: חֲנֻכָּה (chanukkah)
 “Dedication.” The ceremonial setting apart of something for its intended sacred use.

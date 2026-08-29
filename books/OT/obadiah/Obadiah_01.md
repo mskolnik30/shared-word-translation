@@ -202,7 +202,7 @@ v18: “Jacob … Joseph … Esau” — The ancestral names represent peoples. 
 v20: “Sepharad” — The location is uncertain. Later Jewish tradition associated the name with Spain, but the ancient geographical reference cannot be established securely.
 v21: “Deliverers” — The Hebrew plural can mean saviors or deliverers. These figures participate in judgment from Mount Zion, but the verse culminates not in their authority but in the LORD’s kingship.
 
-##Vocabulary
+## Vocabulary
 
 v01: חֲזוֹן (chazon)
 “Vision.” Prophetic revelation received or perceived by the prophet.

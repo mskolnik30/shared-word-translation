@@ -79,12 +79,12 @@ v27: He has no need, like those high priests, to offer sacrifices daily, first f
 v28: For the law appoints men in their weakness as high priests, but the word of the oath, which came later than the law, appoints a Son who has been made perfect forever.
 </p>
 ## Notes
-v1–3: Description of Melchizedek is selective and not contextualized.  
-v2: Name interpretation guides meaning rather than narrative.  
-v3: Timelessness is asserted without explanation.  
-v4–10: Argument proceeds through inference rather than direct statement.  
-v7: Hierarchy is assumed in blessing.  
-v8: Life is attributed differently without clarification.  
+v01–03: Description of Melchizedek is selective and not contextualized.  
+v02: Name interpretation guides meaning rather than narrative.  
+v03: Timelessness is asserted without explanation.  
+v04–10: Argument proceeds through inference rather than direct statement.  
+v07: Hierarchy is assumed in blessing.  
+v08: Life is attributed differently without clarification.  
 v11–12: Change in priesthood necessitates change in law.  
 v13–14: Tribal distinction highlights discontinuity.  
 v15–17: New priesthood is grounded in different basis.  
@@ -98,27 +98,27 @@ v26–28: Character replaces ritual necessity.
 v27: Sacrifice is singular and complete.  
 v28: Appointment is contrasted between law and oath.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἱερεύς (hiereus)  
+v01: ἱερεύς (hiereus)  
 
-v1: “Priest.” One who mediates.  
+v01: “Priest.” One who mediates.  
 
-v2: δικαιοσύνη (dikaiosynē)  
+v02: δικαιοσύνη (dikaiosynē)  
 
-v2: “Righteousness.” Right standing.  
+v02: “Righteousness.” Right standing.  
 
-v3: ἀγενεαλόγητος (agenealogētos)  
+v03: ἀγενεαλόγητος (agenealogētos)  
 
-v3: “Without genealogy.” Lacking recorded descent.  
+v03: “Without genealogy.” Lacking recorded descent.  
 
-v4: δεκάτη (dekatē)  
+v04: δεκάτη (dekatē)  
 
-v4: “Tithe.” Tenth portion.  
+v04: “Tithe.” Tenth portion.  
 
-v7: κρείσσων (kreissōn)  
+v07: κρείσσων (kreissōn)  
 
-v7: “Superior.” Greater in rank.  
+v07: “Superior.” Greater in rank.  
 
 v11: τελείωσις (teleiōsis)  
 

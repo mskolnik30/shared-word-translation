@@ -140,7 +140,7 @@ v26: “an anointed one” is not named. Interpretations range across post-exili
 v27: The identity of the subject who makes the covenant and stops sacrifice is disputed. TSW preserves the third-person pronoun without supplying a name.
 v27: “wing of detestable things” is difficult apocalyptic imagery connected with desolation. TSW resists replacing the strange phrase with a more specific interpretation.
 
-##Vocabulary
+## Vocabulary
 
 v02: סֵפֶר (sefer)
 “Book” or “scroll.” Daniel studies written prophetic texts.

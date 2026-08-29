@@ -43,68 +43,68 @@ v11: none like him for all the signs and the wonders that the LORD sent him to d
 v12: and for all the mighty hand and all the great fear that Moses did in the sight of all Israel.
 </p>
 ## Notes
-v1–3: Moses views the fullness of the promise but does not enter it. The vision is comprehensive, naming the land in its breadth.  
-v4: The covenant is reaffirmed in sight but withheld in experience. Fulfillment is both seen and deferred.  
-v5–6: Moses dies “according to the word of the LORD,” and the hidden burial underscores divine agency and limits memorialization.  
-v7: Physical vitality remains intact; death is not attributed to decline but to divine determination.  
-v8: Communal mourning is structured—thirty days marks closure and transition.  
-v9: Leadership passes through embodied action (laying on of hands) and is confirmed by obedience.  
+v01–03: Moses views the fullness of the promise but does not enter it. The vision is comprehensive, naming the land in its breadth.  
+v04: The covenant is reaffirmed in sight but withheld in experience. Fulfillment is both seen and deferred.  
+v05–06: Moses dies “according to the word of the LORD,” and the hidden burial underscores divine agency and limits memorialization.  
+v07: Physical vitality remains intact; death is not attributed to decline but to divine determination.  
+v08: Communal mourning is structured—thirty days marks closure and transition.  
+v09: Leadership passes through embodied action (laying on of hands) and is confirmed by obedience.  
 v10: Moses’ uniqueness is relational—“face to face” knowledge distinguishes his prophetic role.  
 v11–12: Signs, wonders, and “mighty hand” summarize Moses’ ministry as mediated power before Israel and Egypt.  
 
-##Vocabulary
+## Vocabulary
 
-v1: עָלָה (ʿālāh)  
+v01: עָלָה (ʿālāh)  
 
-v1: “To go up.” To ascend, often toward a significant place.  
+v01: “To go up.” To ascend, often toward a significant place.  
 
-v1: הַר (har)  
+v01: הַר (har)  
 
-v1: “Mountain.” Elevated place of encounter.  
+v01: “Mountain.” Elevated place of encounter.  
 
-v1: רָאָה (rāʾāh)  
+v01: רָאָה (rāʾāh)  
 
-v1: “To see.” To perceive or be shown.  
+v01: “To see.” To perceive or be shown.  
 
-v4: שָׁבַע (šāḇaʿ)  
+v04: שָׁבַע (šāḇaʿ)  
 
-v4: “To swear.” To bind by oath.  
+v04: “To swear.” To bind by oath.  
 
-v4: זֶרַע (zeraʿ)  
+v04: זֶרַע (zeraʿ)  
 
-v4: “Offspring/seed.” Descendants of promise.  
+v04: “Offspring/seed.” Descendants of promise.  
 
-v5: עֶבֶד (ʿeḇeḏ)  
+v05: עֶבֶד (ʿeḇeḏ)  
 
-v5: “Servant.” One who serves under authority.  
+v05: “Servant.” One who serves under authority.  
 
-v5: מוּת (mûṯ)  
+v05: מוּת (mûṯ)  
 
-v5: “To die.” To come to the end of life.  
+v05: “To die.” To come to the end of life.  
 
-v6: קָבַר (qāḇar)  
+v06: קָבַר (qāḇar)  
 
-v6: “To bury.” To inter the dead.  
+v06: “To bury.” To inter the dead.  
 
-v7: לֵחַ (lēaḥ)  
+v07: לֵחַ (lēaḥ)  
 
-v7: “Vigor/moisture.” Freshness, vitality.  
+v07: “Vigor/moisture.” Freshness, vitality.  
 
-v8: בָּכָה (bāḵāh)  
+v08: בָּכָה (bāḵāh)  
 
-v8: “To weep.” To express grief.  
+v08: “To weep.” To express grief.  
 
-v8: אֵבֶל (ʾēḇel)  
+v08: אֵבֶל (ʾēḇel)  
 
-v8: “Mourning.” Ritualized grief.  
+v08: “Mourning.” Ritualized grief.  
 
-v9: רוּחַ (rûaḥ)  
+v09: רוּחַ (rûaḥ)  
 
-v9: “Spirit.” Animating or empowering presence.  
+v09: “Spirit.” Animating or empowering presence.  
 
-v9: חָכְמָה (ḥoḵmāh)  
+v09: חָכְמָה (ḥoḵmāh)  
 
-v9: “Wisdom.” Skill in living and leading.  
+v09: “Wisdom.” Skill in living and leading.  
 
 v10: יָדַע (yāḏaʿ)  
 

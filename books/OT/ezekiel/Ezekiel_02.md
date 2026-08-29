@@ -31,18 +31,18 @@ v09: And I looked, and behold, a hand was extended to me, and there was a scroll
 v10: He spread it before me, and it was written on the front and on the back, and written on it were lamentations, mourning, and woe.
 </p>
 ## Notes
-v1: <sup>2:1</sup> Son of man: A title emphasizing the prophet's humanity, often used to contrast with divine authority.  
-v2: <sup>2:2</sup> Spirit entered: Refers to the divine empowerment of the prophet, enabling him to perform his role.  
-v5: <sup>2:5</sup> Rebellious house: A phrase characterizing the stubborn resistance of Israel to God's messages through His prophets.  
-v6: <sup>2:6</sup> Do not fear: A recurring biblical exhortation indicating reassurance in the face of daunting circumstances.  
+v01: <sup>2:1</sup> Son of man: A title emphasizing the prophet's humanity, often used to contrast with divine authority.  
+v02: <sup>2:2</sup> Spirit entered: Refers to the divine empowerment of the prophet, enabling him to perform his role.  
+v05: <sup>2:5</sup> Rebellious house: A phrase characterizing the stubborn resistance of Israel to God's messages through His prophets.  
+v06: <sup>2:6</sup> Do not fear: A recurring biblical exhortation indicating reassurance in the face of daunting circumstances.  
 
-##Vocabulary
+## Vocabulary
 
-v1: <v01> אָדָם (a.dam): "Son of man" emphasizes the prophet's mortal nature, serving as a reminder of humility before divine commission.  
+v01: <v01> אָדָם (a.dam): "Son of man" emphasizes the prophet's mortal nature, serving as a reminder of humility before divine commission.  
 
-v2: <v02> רוּחַ (ru.ach): Often rendered as "spirit," signifying either wind, life-force, or divine presence that empowers the prophet.  
+v02: <v02> רוּחַ (ru.ach): Often rendered as "spirit," signifying either wind, life-force, or divine presence that empowers the prophet.  
 
-v5: <v05> נָבִיא (na.vi): Prophet, one who speaks on behalf of God, holding an authoritative role within the community.  
+v05: <v05> נָבִיא (na.vi): Prophet, one who speaks on behalf of God, holding an authoritative role within the community.  
 
 v01: אָדָם (adam)
 “Son of man" marks the prophet's mortal nature, serving as a reminder of humility before divine commission.

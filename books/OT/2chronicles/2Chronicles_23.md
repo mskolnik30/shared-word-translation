@@ -78,7 +78,7 @@ v06: Chronicles emphasizes Levitical holiness and temple boundaries more strongl
 v11: “The testimony” may be a covenant document or royal copy of instruction; its precise form is not stated.
 v18: Temple worship is deliberately reestablished according to both Moses and David.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָזַק (chazaq)
 “To strengthen oneself.”

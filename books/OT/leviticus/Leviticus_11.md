@@ -109,7 +109,7 @@ v24–40: Contact with carcasses produces temporary ritual uncleanness. The text
 v44–45: Holiness is grounded in the identity of the LORD and in Israel’s deliverance from Egypt, not simply in dietary classification itself.
 v47: The chapter’s stated purpose is discernment—learning to distinguish clean from unclean and permitted food from forbidden food.
 
-##Vocabulary
+## Vocabulary
 
 v02: חַיָּה (chayyah)
 “Living creature” or “animal.” A broad term for animal life.

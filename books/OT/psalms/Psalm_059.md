@@ -63,9 +63,9 @@ v17: O my strength, I will sing praises to you,
 ## Notes
 v11: *lest my people forget* — Implies that the destruction of the enemies should serve as a memorial of God's deliverance and protection.
 
-##Vocabulary
+## Vocabulary
 
-v2: אֱלֹהִים (*e.lo.him*) — "God" here denotes the deity as powerful and supreme, emphasizing his role as protector and deliverer.
+v02: אֱלֹהִים (*e.lo.him*) — "God" here denotes the deity as powerful and supreme, emphasizing his role as protector and deliverer.
 
 v11: חֶ֫סֶד (*che.sed*) — Usually translating as "steadfast love" or "lovingkindness," this denotes God's persistent and unconditional mercy and loyalty towards his people.
 

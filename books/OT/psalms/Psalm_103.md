@@ -95,10 +95,10 @@ in all places of his dominion.
 Bless the LORD, O my soul!
 </p>
 ## Notes
-v1–2: The psalm begins with self-exhortation. Memory is central to praise.  
-v3–5: God’s benefits are comprehensive—spiritual, physical, existential.  
-v6–7: God’s justice is relational, especially toward the oppressed.  
-v8–10: Divine mercy is emphasized over judgment.  
+v01–02: The psalm begins with self-exhortation. Memory is central to praise.  
+v03–05: God’s benefits are comprehensive—spiritual, physical, existential.  
+v06–07: God’s justice is relational, especially toward the oppressed.  
+v08–10: Divine mercy is emphasized over judgment.  
 v11–12: Spatial metaphors express immeasurable forgiveness.  
 v13–14: Compassion is grounded in God’s knowledge of human fragility.  
 v15–16: Human life is fleeting and easily erased.  
@@ -106,21 +106,21 @@ v17–18: Covenant loyalty extends across generations.
 v19: Divine rule is universal and unchallenged.  
 v20–22: Praise expands from the individual to all creation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: בָּרַךְ (barakh)  
+v01: בָּרַךְ (barakh)  
 “To bless.” To praise or honor.  
 
-v3: סָלַח (salach)  
+v03: סָלַח (salach)  
 “To forgive.” To pardon.  
 
-v4: גָּאַל (ga’al)  
+v04: גָּאַל (ga’al)  
 “To redeem.” To rescue.  
 
-v4: עֲטָרָה (atarah)  
+v04: עֲטָרָה (atarah)  
 “To crown.” To surround with honor.  
 
-v8: רַחוּם (rachum)  
+v08: רַחוּם (rachum)  
 “Merciful.” Compassionate.  
 
 v11: גָּבַהּ (gavah)  
@@ -138,14 +138,3 @@ v17: עוֹלָם (olam)
 v19: כִּסֵּא (kisse)  
 “Throne.” Seat of rule.  
 
-v01: בָּרַךְ (barakh)
-“To bless.” To praise or honor.
-
-v03: סָלַח (salach)
-“To forgive.” To pardon.
-
-v04: גָּאַל (ga’al)
-“To redeem.” To rescue.
-
-v04: עֲטָרָה (atarah)
-“To crown.” To surround with honor.

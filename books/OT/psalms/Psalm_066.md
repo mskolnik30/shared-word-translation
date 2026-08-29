@@ -102,12 +102,12 @@ who has not turned away my prayer
 or his steadfast love from me.
 </p>
 ## Notes
-v1–4: The opening summons is universal. “All the earth” is called not merely to observe Israel’s praise but to join it.  
-v3: “Your enemies cringe before you” preserves the force of compelled submission. The line does not describe conversion but reluctant acknowledgment of God’s strength.  
-v5–6: The invitation to “come and see” turns memory into testimony. The sea and river recall the exodus and crossing traditions without needing to name them directly.  
-v6: “There we rejoiced in him” joins later worshipers to the founding act of deliverance. The community speaks as though it stood within the event.  
-v7: God’s rule is both saving and watchful. The same strength that delivers also keeps the nations and the rebellious under judgment.  
-v8–12: The psalm moves from public praise to communal memory of affliction. Testing, burden, humiliation, fire, and water are named without softening before deliverance is confessed.  
+v01–04: The opening summons is universal. “All the earth” is called not merely to observe Israel’s praise but to join it.  
+v03: “Your enemies cringe before you” preserves the force of compelled submission. The line does not describe conversion but reluctant acknowledgment of God’s strength.  
+v05–06: The invitation to “come and see” turns memory into testimony. The sea and river recall the exodus and crossing traditions without needing to name them directly.  
+v06: “There we rejoiced in him” joins later worshipers to the founding act of deliverance. The community speaks as though it stood within the event.  
+v07: God’s rule is both saving and watchful. The same strength that delivers also keeps the nations and the rebellious under judgment.  
+v08–12: The psalm moves from public praise to communal memory of affliction. Testing, burden, humiliation, fire, and water are named without softening before deliverance is confessed.  
 v10: Refining imagery suggests purification through ordeal, not suffering as an end in itself.  
 v12: “A place of abundance” is deliberately broad. The phrase contrasts constriction and oppression with spacious, restored life.  
 v13–15: Vows arise from distress and are fulfilled in worship. The psalm holds crisis prayer and public offering together.  
@@ -115,24 +115,24 @@ v16: The testimony becomes personal: “what he has done for my soul.” The sin
 v18–19: The psalm does not present prayer as mechanical. Integrity before God matters, yet the emphasis falls finally on God’s having listened.  
 v20: The closing blessing binds answered prayer to steadfast love. God’s response is not only an act of power but an expression of covenant mercy.  
 
-##Vocabulary
+## Vocabulary
 
-v1: הָרִיעוּ (hariʿu)  
+v01: הָרִיעוּ (hariʿu)  
 “Make a joyful shout.” The verb can signal acclamation, alarm, or triumph. Here it carries the sound of public praise.  
 
-v3: נוֹרָא (noraʾ)  
+v03: נוֹרָא (noraʾ)  
 “Fearsome” or “awesome.” The word names reverent dread before divine power, not mere emotional admiration.  
 
-v3: יְכַחֲשׁוּ (yekhaḥashu)  
+v03: יְכַחֲשׁוּ (yekhaḥashu)  
 “Cringe” or “submit falsely.” The verb can imply reluctant or feigned submission, fitting the image of enemies compelled by God’s strength.  
 
-v5: מִפְעֲלוֹת (mifʿalot)  
+v05: מִפְעֲלוֹת (mifʿalot)  
 “Works” or “deeds.” The term emphasizes God’s enacted power—what God has done in history.  
 
-v7: מֹשֵׁל (moshel)  
+v07: מֹשֵׁל (moshel)  
 “Ruling.” The participle presents God’s reign as ongoing rather than occasional.  
 
-v9: נֶפֶשׁ (nephesh)  
+v09: נֶפֶשׁ (nephesh)  
 “Soul” or “life.” The word refers to the living self, not an immaterial part separated from bodily existence.  
 
 v10: צְרַפְתָּנוּ (tseraftanu)  
@@ -153,5 +153,3 @@ v18: אָוֶן (aven)
 v20: חַסְדּוֹ (ḥasdo)
 “His steadfast love.” The word denotes covenant loyalty, mercy, and faithful commitment rather than sentiment alone.
 
-v09: נֶפֶשׁ (nephesh)
-“Soul” or “life.” The word refers to the living self, not an immaterial part separated from bodily existence.

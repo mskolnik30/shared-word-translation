@@ -43,72 +43,61 @@ as a joyful mother of children.
 Praise the LORD.
 </p>
 ## Notes
-v1: The call to praise is addressed to “servants,” situating worship within belonging and service.  
-v1–3: Repetition structures the opening, extending praise across time (“from this time forth”) and space (“from the rising…to its setting”).  
-v4: Divine transcendence is emphasized—“high above all nations”—without diminishing relation to them.  
-v5–6: The rhetorical question (“Who is like…”) affirms incomparability. God’s exaltation is paired with attentiveness.  
-v6: “Looks far down” preserves the distance implied in divine height while affirming awareness.  
-v7–8: Social reversal echoes broader biblical patterns. Elevation of the poor is not incidental but characteristic of God’s action.  
-v7: “Dust” and “ash heap” retain concrete imagery of humiliation and marginalization.  
-v8: Seating with princes signals restored status without redefining hierarchy.  
-v9: The barren woman motif reflects transformation of absence into fullness. The image remains personal rather than abstract.  
-v9: The psalm closes as it began—with praise—framing the entire movement as response.  
+v01: The call to praise is addressed to “servants,” situating worship within belonging and service.  
+v01–03: Repetition structures the opening, extending praise across time (“from this time forth”) and space (“from the rising…to its setting”).  
+v04: Divine transcendence is emphasized—“high above all nations”—without diminishing relation to them.  
+v05–06: The rhetorical question (“Who is like…”) affirms incomparability. God’s exaltation is paired with attentiveness.  
+v06: “Looks far down” preserves the distance implied in divine height while affirming awareness.  
+v07–08: Social reversal echoes broader biblical patterns. Elevation of the poor is not incidental but characteristic of God’s action.  
+v07: “Dust” and “ash heap” retain concrete imagery of humiliation and marginalization.  
+v08: Seating with princes signals restored status without redefining hierarchy.  
+v09: The barren woman motif reflects transformation of absence into fullness. The image remains personal rather than abstract.  
+v09: The psalm closes as it began—with praise—framing the entire movement as response.  
 
-##Vocabulary
+## Vocabulary
 
-v1: הָלַל (halal)  
+v01: הָלַל (halal)  
 “To praise.” Often used in imperative form in liturgical contexts.  
 
-v1: שֵׁם (shem)  
+v01: שֵׁם (shem)  
 “Name.” Represents identity, presence, and reputation.  
 
-v2: בָּרַךְ (barakh)  
+v02: בָּרַךְ (barakh)  
 “To bless.” To speak well of or honor.  
 
-v3: מִזְרָח (mizrach)  
+v03: מִזְרָח (mizrach)  
 “Rising.” The place of sunrise.  
 
-v3: מָבוֹא (mavoʾ)  
+v03: מָבוֹא (mavoʾ)  
 “Setting” or “going in.” Refers to sunset.  
 
-v4: רוּם (rum)  
+v04: רוּם (rum)  
 “To be high” or “to be exalted.”  
 
-v4: כָּבוֹד (kavod)  
+v04: כָּבוֹד (kavod)  
 “Glory.” Weight, honor, or visible majesty.  
 
-v5: יָשַׁב (yashav)  
+v05: יָשַׁב (yashav)  
 “To sit” or “to dwell.” Often used for enthronement.  
 
-v6: שָׁפֵל (shafel)  
+v06: שָׁפֵל (shafel)  
 “To be low.” Here in contrast with divine height.  
 
-v7: דַּל (dal)  
+v07: דַּל (dal)  
 “Poor.” One of low status or means.  
 
-v7: אֶבְיוֹן (ʾevyon)  
+v07: אֶבְיוֹן (ʾevyon)  
 “Needy.” One dependent or lacking resources.  
 
-v7: אֲפָר (ʿafar)  
+v07: אֲפָר (ʿafar)  
 “Dust.” Symbol of lowliness or mortality.  
 
-v7: אַשְׁפֹּת (ʾashpot)  
+v07: אַשְׁפֹּת (ʾashpot)  
 “Ash heap.” Place of refuse, symbolizing humiliation.  
 
-v9: עָקָר (ʿaqar)  
+v09: עָקָר (ʿaqar)  
 “Barren.” Unable to bear children.  
 
-v9: שָׂמַח (samach)  
+v09: שָׂמַח (samach)  
 “To rejoice.” Expression of joy or gladness.  
 
-v01: הָלַל (halal)
-“To praise.” Often used in imperative form in liturgical contexts.
-
-v01: שֵׁם (shem)
-“Name.” Represents identity, presence, and reputation.
-
-v02: בָּרַךְ (barakh)
-“To bless.” To speak well of or honor.
-
-v04: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or visible majesty.

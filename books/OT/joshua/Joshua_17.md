@@ -63,7 +63,7 @@ v11: Manasseh’s cities lie within the broader territories of Issachar and Ashe
 v12–13: As elsewhere, failure to drive out the Canaanites becomes coexistence and forced labor rather than full possession.
 v14–18: Joseph’s descendants appeal to their numerical strength as reason for more land. Joshua responds by turning their claimed strength into a responsibility to clear and possess difficult territory.
 
-##Vocabulary
+## Vocabulary
 
 v01: בְּכוֹר (bekhor)
 “Firstborn.” Manasseh is named as Joseph’s firstborn.

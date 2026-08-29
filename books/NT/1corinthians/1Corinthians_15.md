@@ -187,7 +187,7 @@ v57: but thanks be to God, who gives us the victory through our Lord Jesus Chris
 v58: Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor in the Lord is not in vain.
 </p>
 ## Notes
-v1–4: Gospel defined by death, burial, and resurrection.  
+v01–04: Gospel defined by death, burial, and resurrection.  
 v12–19: Denial of resurrection undermines the entire faith.  
 v20–23: Christ as firstfruits establishes sequence.  
 v24–28: Final subjection culminates in God’s total reign.  
@@ -197,23 +197,23 @@ v45–49: Adam–Christ contrast defines transformation.
 v50–57: Victory over death is eschatological and complete.  
 v58: Resurrection hope grounds perseverance.  
 
-##Vocabulary
+## Vocabulary
 
-v3: παραδίδωμι (paradidōmi)  
+v03: παραδίδωμι (paradidōmi)  
 
-v3: “To deliver.”  
+v03: “To deliver.”  
 
-v4: ἐγείρω (egeirō)  
+v04: ἐγείρω (egeirō)  
 
-v4: “To raise.”  
+v04: “To raise.”  
 
-v6: ὀφθάνομαι (ophthanomai)  
+v06: ὀφθάνομαι (ophthanomai)  
 
-v5: “To appear.”  
+v05: “To appear.”  
 
-v9: ἐλάχιστος (elachistos)  
+v09: ἐλάχιστος (elachistos)  
 
-v9: “Least.”  
+v09: “Least.”  
 
 v12: ἀνάστασις (anastasis)
 “Resurrection.”

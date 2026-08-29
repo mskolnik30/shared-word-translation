@@ -53,21 +53,21 @@ v19: He turned to the west side and measured: five hundred reeds by the measurin
 v20: He measured it on its four sides. It had a wall all around, five hundred long and five hundred wide, to separate between what is holy and what is common.
 </p>
 ## Notes
-v3: **42:3 — “gallery faced gallery”:** The repeated word describes a structural feature whose precise form is uncertain. It likely refers to projecting walkways or galleries arranged opposite one another across the levels.  
-v5–6: **42:5–6 — “were shortened” / “set back”:** The upper chambers were reduced in floor space because of the building’s multi-level design. The description emphasizes practical architectural constraints without fully explaining every structural detail.  
+v03: **42:3 — “gallery faced gallery”:** The repeated word describes a structural feature whose precise form is uncertain. It likely refers to projecting walkways or galleries arranged opposite one another across the levels.  
+v05–06: **42:5–6 — “were shortened” / “set back”:** The upper chambers were reduced in floor space because of the building’s multi-level design. The description emphasizes practical architectural constraints without fully explaining every structural detail.  
 v13–14: **42:13–14 — “holy chambers”:** These rooms guard the distinction between priestly service and the outer court. The priests’ food, offerings, and garments are treated as holy, and their handling is bounded by designated space.  
 v14: **42:14 — “what belongs to the people”:** The expression may refer broadly to the area or matters associated with the people in the outer court. The text preserves a boundary between priestly holiness and ordinary public access.  
 v16: **42:16 — “five cubits, one hundred reeds”:** The supplied Hebrew text contains an unusual numerical sequence here, where “cubits” appears alongside “one hundred reeds.” The wording is retained rather than regularized; the following sides each state five hundred reeds.  
 v20: **42:20 — “what is holy and what is common”:** The enclosing wall is not merely defensive or decorative. Its stated purpose is to mark a boundary between consecrated space and ordinary space.  
 v03: “gallery faced gallery”: The repeated word describes a structural feature whose precise form is uncertain.
 
-##Vocabulary
+## Vocabulary
 
-v1: **42:1 — לִשְׁכָּה (*lishkah*):** A chamber or designated room within the temple complex. In this chapter these chambers are not incidental storage spaces; they order priestly movement, food, garments, and holy offerings.  
+v01: **42:1 — לִשְׁכָּה (*lishkah*):** A chamber or designated room within the temple complex. In this chapter these chambers are not incidental storage spaces; they order priestly movement, food, garments, and holy offerings.  
 
-v1: **42:1 — גִּזְרָה (*gizrah*):** “Separate area.” The term identifies a restricted section of the temple precinct, reinforcing the chapter’s repeated concern with ordered and differentiated space.  
+v01: **42:1 — גִּזְרָה (*gizrah*):** “Separate area.” The term identifies a restricted section of the temple precinct, reinforcing the chapter’s repeated concern with ordered and differentiated space.  
 
-v3: **42:3 — אַתִּיק (*attiq*):** A gallery or projecting architectural feature. Its repetition in the description conveys the layered, facing arrangement of the building.  
+v03: **42:3 — אַתִּיק (*attiq*):** A gallery or projecting architectural feature. Its repetition in the description conveys the layered, facing arrangement of the building.  
 
 v13: **42:13 — אָשָׁם (*asham*):** Guilt offering. The term carries the sense of an offering associated with guilt and reparation, and its inclusion underscores the seriousness of priestly care for sacrificial gifts.  
 

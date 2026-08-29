@@ -33,55 +33,55 @@ v09: If we confess our sins, he is faithful and just to forgive us our sins and 
 v10: If we say that we have not sinned, we make him a liar, and his word is not in us.
 </p>
 ## Notes
-v1: The opening is descriptive without naming the subject directly.  
-v1–2: Sensory language accumulates, emphasizing experience.  
-v2: Manifestation is repeated without explanation of mechanism.  
-v3: Proclamation establishes shared participation.  
-v4: Writing is oriented toward completion of joy.  
-v5: God is defined through contrast, not analogy.  
-v6–7: Walking functions as a metaphor for conduct.  
-v7: Cleansing is continuous, not punctiliar.  
-v8–10: Conditional statements expose self-deception without gradation.  
-v9: Forgiveness and cleansing are paired without separation.  
+v01: The opening is descriptive without naming the subject directly.  
+v01–02: Sensory language accumulates, emphasizing experience.  
+v02: Manifestation is repeated without explanation of mechanism.  
+v03: Proclamation establishes shared participation.  
+v04: Writing is oriented toward completion of joy.  
+v05: God is defined through contrast, not analogy.  
+v06–07: Walking functions as a metaphor for conduct.  
+v07: Cleansing is continuous, not punctiliar.  
+v08–10: Conditional statements expose self-deception without gradation.  
+v09: Forgiveness and cleansing are paired without separation.  
 v10: Denial of sin redefines relationship with God.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀρχή (archē)  
+v01: ἀρχή (archē)  
 
-v1: “Beginning.” Origin or starting point.  
+v01: “Beginning.” Origin or starting point.  
 
-v1: λόγος (logos)  
+v01: λόγος (logos)  
 
-v1: “Word.” Expression or communication.  
+v01: “Word.” Expression or communication.  
 
-v2: φανερόω (phaneroō)  
+v02: φανερόω (phaneroō)  
 
-v2: “To make manifest.” To reveal or make visible.  
+v02: “To make manifest.” To reveal or make visible.  
 
-v3: κοινωνία (koinōnia)  
+v03: κοινωνία (koinōnia)  
 
-v3: “Fellowship.” Shared participation.  
+v03: “Fellowship.” Shared participation.  
 
-v5: φῶς (phōs)  
+v05: φῶς (phōs)  
 
-v5: “Light.” Source of illumination and purity.  
+v05: “Light.” Source of illumination and purity.  
 
-v6: περιπατέω (peripateō)  
+v06: περιπατέω (peripateō)  
 
-v6: “To walk.” To live or conduct oneself.  
+v06: “To walk.” To live or conduct oneself.  
 
-v7: καθαρίζω (katharizō)  
+v07: καθαρίζω (katharizō)  
 
-v7: “To cleanse.” To make clean or pure.  
+v07: “To cleanse.” To make clean or pure.  
 
-v8: ἁμαρτία (hamartia)  
+v08: ἁμαρτία (hamartia)  
 
-v8: “Sin.” Missing the mark or wrongdoing.  
+v08: “Sin.” Missing the mark or wrongdoing.  
 
-v9: ὁμολογέω (homologeō)  
+v09: ὁμολογέω (homologeō)  
 
-v9: “To confess.” To acknowledge openly.  
+v09: “To confess.” To acknowledge openly.  
 
 v10: ψεύστης (pseustēs)  
 

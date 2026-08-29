@@ -89,29 +89,29 @@ let your face shine,
 that we may be saved.
 </p>
 ## Notes
-v1–2: God is addressed as shepherd and king. Care and authority are held together.
+v01–02: God is addressed as shepherd and king. Care and authority are held together.
 
 v3,7,19: The repeated refrain structures the psalm. Restoration is tied to divine presence (“face shine”).
-v4–6: Suffering is interpreted as divine displeasure, not random misfortune.
-v5: “Bread of tears” intensifies the imagery of sustained grief.
-v8–11: Israel is portrayed as a vine—chosen, planted, and flourishing.
+v04–06: Suffering is interpreted as divine displeasure, not random misfortune.
+v05: “Bread of tears” intensifies the imagery of sustained grief.
+v08–11: Israel is portrayed as a vine—chosen, planted, and flourishing.
 v12–13: Destruction is framed as reversal of divine protection.
 v14–15: The appeal is grounded in God’s prior action (“your right hand planted”).
 v17: “Man of your right hand” introduces a figure of restoration, left undefined.
 v18: Renewal leads to renewed faithfulness.
 
-##Vocabulary
+## Vocabulary
 
-v1: רֹעֶה (ro‘eh)
+v01: רֹעֶה (ro‘eh)
 “Shepherd.” One who leads and cares.
 
-v3: שׁוּב (shuv)
+v03: שׁוּב (shuv)
 “To restore” or “return.” Turn back.
 
-v4: חָרָה (charah)
+v04: חָרָה (charah)
 “To be angry.” Burn with anger.
 
-v8: גֶּפֶן (gefen)
+v08: גֶּפֶן (gefen)
 “Vine.” Cultivated plant, symbol of Israel.
 
 v12: פָּרַץ (parats)
@@ -129,14 +129,3 @@ v17: יָמִין (yamin)
 v19: יָשַׁע (yasha)
 “To save.” Deliver or rescue.
 
-v01: רֹעֶה (ro‘eh)
-“Shepherd.” One who leads and cares.
-
-v03: שׁוּב (shuv)
-“To restore” or “return.” Turn back.
-
-v04: חָרָה (charah)
-“To be angry.” Burn with anger.
-
-v08: גֶּפֶן (gefen)
-“Vine.” Cultivated plant, symbol of Israel.

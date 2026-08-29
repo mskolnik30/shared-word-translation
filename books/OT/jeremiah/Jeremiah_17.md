@@ -132,13 +132,13 @@ v26: People will come from the towns of Judah, from the places around Jerusalem,
 <p>
 v27: But if you do not listen to me, to keep the Sabbath day holy by not carrying a load and entering through the gates of Jerusalem on the Sabbath day, then I will kindle a fire in its gates. It will consume the palaces of Jerusalem, and it will not be quenched.”
 </p>
-##Notes
+## Notes
 
 v11: The saying about the partridge uses an image whose precise natural-history reference is uncertain.
 
 v13: The Hebrew textual tradition preserves two closely related readings: “those who turn away from me” and “those who turn away from you.” The translation follows the first-person reading, which fits the LORD’s concluding identification as “the fountain of living water.”
 
-##Vocabulary
+## Vocabulary
 
 v01: חַטָּאת (ḥaṭṭāʾt)
 “sin.” Here Judah’s sin is not fleeting failure but an enduring inscription, engraved on heart and altar alike.

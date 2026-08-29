@@ -121,7 +121,7 @@ v22: “her children come out” can describe premature birth or miscarriage. Th
 v23–25: “life for life, eye for eye” sets proportional limits upon retaliation. The formula restrains punishment from exceeding the injury.
 v29–30: An owner who knowingly leaves a dangerous animal unrestrained bears heightened responsibility, though ransom may substitute for death when imposed.
 
-##Vocabulary
+## Vocabulary
 
 v01: מִשְׁפָּטִים (mishpatim)
 “Judgments” or “case laws.” Legal decisions applied to particular situations.

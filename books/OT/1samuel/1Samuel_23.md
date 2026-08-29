@@ -101,7 +101,7 @@ v17: Jonathan explicitly recognizes David’s future kingship and accepts a subo
 v21: Saul invokes the LORD’s blessing upon men helping him hunt David, another example of religious language functioning within distorted judgment.
 v26–28: David’s escape comes not through combat but through an external Philistine crisis that forces Saul away.
 
-##Vocabulary
+## Vocabulary
 
 v01: שָׁסָה (shasah)
 “To plunder.”

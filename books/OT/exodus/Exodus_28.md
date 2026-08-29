@@ -133,7 +133,7 @@ v36: “Holy to the LORD” is engraved on the gold plate worn on Aaron’s fore
 v38: Aaron “bears the guilt” associated with Israel’s holy gifts. The verse portrays the high priest as carrying responsibility so that offerings may be accepted.
 v41: “fill their hands” is the Hebrew idiom for ordaining or installing priests into service.
 
-##Vocabulary
+## Vocabulary
 
 v02: כָּבוֹד (kavod)
 “Glory” or “honor.” The priestly garments embody sacred dignity.

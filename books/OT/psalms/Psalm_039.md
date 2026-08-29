@@ -56,13 +56,13 @@ v09: The speaker’s silence is grounded in the confession, “you have done it.
 v11: The moth image emphasizes how swiftly what is precious can be consumed. The closing repetition of “breath” echoes v05 and broadens the speaker’s experience into a reflection on every human being.
 v12: Calling oneself a “sojourner” and “resident alien” expresses both vulnerability and belonging: the speaker lives as one without permanent claim, yet does so “with” God.
 
-##Vocabulary
+## Vocabulary
 
-v2: **מַחְסוֹם — *maḥsôm***: “Muzzle” is a concrete restraint placed over the mouth. The word intensifies the speaker’s determination not merely to speak carefully but to prevent speech altogether.  
+v02: **מַחְסוֹם — *maḥsôm***: “Muzzle” is a concrete restraint placed over the mouth. The word intensifies the speaker’s determination not merely to speak carefully but to prevent speech altogether.  
 
-v6: **הֶבֶל — *hevel***: “Breath” names what is vapor-like, fleeting, and unsubstantial. Its repeated use in this psalm frames human life and striving as radically transient.  
+v06: **הֶבֶל — *hevel***: “Breath” names what is vapor-like, fleeting, and unsubstantial. Its repeated use in this psalm frames human life and striving as radically transient.  
 
-v7: **צֶלֶם — *tselem***: “Image” can evoke a likeness, form, or shadowy appearance. Here it portrays a person’s passing movement through life without defining precisely what that appearance signifies.  
+v07: **צֶלֶם — *tselem***: “Image” can evoke a likeness, form, or shadowy appearance. Here it portrays a person’s passing movement through life without defining precisely what that appearance signifies.  
 
 v13: **גֵּר — *ger***: “Sojourner” identifies one living away from an inherited home and dependent on the protection of others. In this prayer, the term expresses the speaker’s unsettled life before God.  
 

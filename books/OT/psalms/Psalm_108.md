@@ -57,7 +57,7 @@ and God will tread down our adversaries.
 v01: “My glory” is a literal rendering of a poetic expression often understood as the speaker’s inner self or tongue. The summons “awake” preserves the personification.
 v07–13: These lines closely parallel Psalm 60. The translation does not harmonize minor differences between the two psalms.
 
-##Vocabulary
+## Vocabulary
 
 v07: בְּקָדְשׁוֹ (beqodsho)
 “In holiness” or “by the holy place/holy character.” The phrase marks the divine speech as grounded in God’s own holiness.

@@ -79,7 +79,7 @@ v15: The “devices” are described broadly enough that their exact mechanical 
 v16: Strength becomes the setting for pride, repeating a major Chronicler pattern.
 v21: Uzziah’s exclusion from the temple is both ritual and royal humiliation.
 
-##Vocabulary
+## Vocabulary
 
 v05: דָּרַשׁ (darash)
 “To seek.”

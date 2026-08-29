@@ -86,12 +86,12 @@ v40: Those of the Pharisees who were with him heard these things and said to him
 v41: Jesus said to them, “If you were blind, you would not have sin. But now you say, ‘We see.’ Your sin remains.”
 </p>
 ## Notes
-v2: “who sinned” — Reflects a common assumption linking suffering to moral cause; the question itself is left uncorrected until Jesus responds.  
-v3: “so that the works of God might be revealed” — Redirects the discussion from causation to disclosure without assigning blame.  
-v4: “while it is day” — Introduces urgency without specifying duration; the metaphor governs the action that follows.  
-v5: “I am the light of the world” — Interprets the healing as sign, not merely remedy.  
-v7: “Siloam (which means Sent)” — Links the act of washing to the theme of sending that runs through the Gospel.  
-v9: “I am the man” — A simple assertion of identity that resists communal confusion and denial.  
+v02: “who sinned” — Reflects a common assumption linking suffering to moral cause; the question itself is left uncorrected until Jesus responds.  
+v03: “so that the works of God might be revealed” — Redirects the discussion from causation to disclosure without assigning blame.  
+v04: “while it is day” — Introduces urgency without specifying duration; the metaphor governs the action that follows.  
+v05: “I am the light of the world” — Interprets the healing as sign, not merely remedy.  
+v07: “Siloam (which means Sent)” — Links the act of washing to the theme of sending that runs through the Gospel.  
+v09: “I am the man” — A simple assertion of identity that resists communal confusion and denial.  
 v14: “it was a sabbath day” — Establishes the conflict frame without commentary; timing becomes interpretive pressure.  
 v16: “there was a division” — Signals that discernment produces fracture rather than consensus.  
 v17: “He is a prophet” — Marks growth in testimony without final confession.  
@@ -107,19 +107,19 @@ v38: “he worshiped him” — Narrative culmination; response precedes theolog
 v39: “for judgment” — Judgment is described as consequence rather than sentence.  
 v41: “your sin remains” — Responsibility is tied to claimed sight, not to blindness itself.  
 
-##Vocabulary
+## Vocabulary
 
-v1: τυφλός (typhlos) — blind, unable to see; functions both physically and metaphorically  
+v01: τυφλός (typhlos) — blind, unable to see; functions both physically and metaphorically  
 
-v2: ἁμαρτάνω (hamartanō) — to sin, miss the mark  
+v02: ἁμαρτάνω (hamartanō) — to sin, miss the mark  
 
-v3: φανερόω (phaneroō) — to reveal, make manifest  
+v03: φανερόω (phaneroō) — to reveal, make manifest  
 
-v4: ἔργα (erga) — works, deeds; actions that disclose divine purpose  
+v04: ἔργα (erga) — works, deeds; actions that disclose divine purpose  
 
-v5: φῶς (phōs) — light; that which reveals and gives life  
+v05: φῶς (phōs) — light; that which reveals and gives life  
 
-v7: Σιλωάμ (Silōam) — Siloam; associated with sending  
+v07: Σιλωάμ (Silōam) — Siloam; associated with sending  
 
 v15: ἀναβλέπω (anablepō) — to recover sight, to see again  
 

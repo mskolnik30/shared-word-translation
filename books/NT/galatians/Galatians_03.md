@@ -101,13 +101,13 @@ v28: There is no Jew or Greek, there is no slave or free, there is no male and f
 v29: And if you are Christ’s, then you are Abraham’s offspring, heirs according to the promise.
 </p>
 ## Notes
-v1: “Bewitched” suggests distortion of perception rather than simple error. The issue is not lack of information but altered vision.  
-v1: “Publicly portrayed as crucified” grounds theology in a shared proclamation, not private insight.  
-v2–5: The repeated question (“by works…or by hearing with faith?”) structures the argument. Experience of the Spirit becomes evidence.  
-v3: Beginning and completion are contrasted. The shift from Spirit to flesh is treated as regression.  
-v4: Suffering is invoked as interpretive evidence. Its value depends on continuity with the gospel.  
-v6–7: Abraham functions as precedent. Faith defines lineage more than ethnicity.  
-v8: Scripture is personified as foreseeing and proclaiming. The promise precedes its fulfillment.  
+v01: “Bewitched” suggests distortion of perception rather than simple error. The issue is not lack of information but altered vision.  
+v01: “Publicly portrayed as crucified” grounds theology in a shared proclamation, not private insight.  
+v02–05: The repeated question (“by works…or by hearing with faith?”) structures the argument. Experience of the Spirit becomes evidence.  
+v03: Beginning and completion are contrasted. The shift from Spirit to flesh is treated as regression.  
+v04: Suffering is invoked as interpretive evidence. Its value depends on continuity with the gospel.  
+v06–07: Abraham functions as precedent. Faith defines lineage more than ethnicity.  
+v08: Scripture is personified as foreseeing and proclaiming. The promise precedes its fulfillment.  
 v10–12: The law is described in absolute terms. Partial compliance is insufficient within its own framework.  
 v13: Christ’s becoming a curse is stated without explanation, preserving the density of the claim.  
 v14: The movement is from curse to blessing, from law to Spirit, unified through faith.  
@@ -120,23 +120,23 @@ v24: “Guardian” suggests supervision and discipline, not final authority.
 v26–28: Identity is reconstituted in Christ. Social and ethnic distinctions are neither erased nor determinative.  
 v29: Inheritance follows belonging. Promise, not law, defines heirs.  
 
-##Vocabulary
+## Vocabulary
 
-v1: βασκαίνω (baskainō)  
+v01: βασκαίνω (baskainō)  
 
-v1: “To bewitch.” To influence in a way that distorts perception.  
+v01: “To bewitch.” To influence in a way that distorts perception.  
 
-v2: ἀκοή (akoē)  
+v02: ἀκοή (akoē)  
 
-v2: “Hearing.” Reception of a message, often implying response.  
+v02: “Hearing.” Reception of a message, often implying response.  
 
-v3: σάρξ (sarx)  
+v03: σάρξ (sarx)  
 
-v3: “Flesh.” Here indicating human effort apart from the Spirit.  
+v03: “Flesh.” Here indicating human effort apart from the Spirit.  
 
-v6: λογίζομαι (logizomai)  
+v06: λογίζομαι (logizomai)  
 
-v6: “To count” or “reckon.” To regard or credit.  
+v06: “To count” or “reckon.” To regard or credit.  
 
 v10: κατάρα (katara)  
 

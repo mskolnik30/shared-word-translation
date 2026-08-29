@@ -195,7 +195,7 @@ v18: The familiar saying places collapse after self-exaltation. Pride distorts j
 v32: Mastery of one’s own anger is valued above military conquest.
 v33: Even a practice that appears random remains, in the proverb’s theological vision, under the LORD’s sovereignty.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַעֲרָךְ (maarakh)
 “Plan” or “arrangement.” An ordering formed within the heart.

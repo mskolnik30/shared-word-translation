@@ -59,17 +59,17 @@ v19: So the angel swung his sickle over the earth and gathered the harvest of th
 v20: And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse’s bridle, for about 1,600 stadia.
 </p>
 ## Notes
-v1: The Lamb stands rather than appears; presence replaces motion.
-v1: Dual naming (“his name and his Father’s name”) marks belonging.
-v2: Sound imagery accumulates without resolving into a single source.
-v3: The song is restricted; knowledge is limited, not universal.
-v4: Description is layered and not reduced to a single trait.
-v4: “Firstfruits” signals priority, not completeness.
-v5: Blamelessness is stated without qualification.
-v6: The gospel is described as eternal; scope is universal.
-v7: Creation grounds the call to worship, not abstract theology.
-v8: The fall of Babylon is declared before narrated.
-v9–11: Warning is direct and without mitigation.
+v01: The Lamb stands rather than appears; presence replaces motion.
+v01: Dual naming (“his name and his Father’s name”) marks belonging.
+v02: Sound imagery accumulates without resolving into a single source.
+v03: The song is restricted; knowledge is limited, not universal.
+v04: Description is layered and not reduced to a single trait.
+v04: “Firstfruits” signals priority, not completeness.
+v05: Blamelessness is stated without qualification.
+v06: The gospel is described as eternal; scope is universal.
+v07: Creation grounds the call to worship, not abstract theology.
+v08: The fall of Babylon is declared before narrated.
+v09–11: Warning is direct and without mitigation.
 v10: Wrath is described as unmixed, not moderated.
 v11: Duration (“forever and ever”) is stated without explanation.
 v12: Endurance is defined by keeping and faith together.
@@ -81,29 +81,29 @@ v17–18: Multiple agents act without hierarchy being clarified.
 v19: Harvest shifts from grain to grapes, altering imagery.
 v20: The scale is extreme and unqualified.
 
-##Vocabulary
+## Vocabulary
 
-v1: ὄρος Σιών (oros Siōn)
+v01: ὄρος Σιών (oros Siōn)
 
 “Mount Zion.” Symbolic location of divine presence.
 
-v3: ᾠδή (ōdē)
+v03: ᾠδή (ōdē)
 
 “Song.” A structured expression of praise or declaration.
 
-v4: ἀπαρχή (aparchē)
+v04: ἀπαρχή (aparchē)
 
 “Firstfruits.” Initial portion representing the whole.
 
-v6: εὐαγγέλιον (euangelion)
+v06: εὐαγγέλιον (euangelion)
 
 “Gospel.” Good news, here described as eternal.
 
-v7: φοβέομαι (phobeomai)
+v07: φοβέομαι (phobeomai)
 
 “To fear.” Reverence or recognition of authority.
 
-v8: Βαβυλών (Babylōn)
+v08: Βαβυλών (Babylōn)
 
 “Babylon.” Symbol of opposition or corruption.
 
@@ -127,14 +127,3 @@ v20: στάδιον (stadion)
 
 “A measure of distance.” Used to express extent.
 
-v01: ὄρος Σιών (oros Siōn)
-“Mount Zion.” Symbolic location of divine presence.
-
-v03: ᾠδή (ōdē)
-“Song.” A structured expression of praise or declaration.
-
-v04: ἀπαρχή (aparchē)
-“Firstfruits.” Initial portion representing the whole.
-
-v06: εὐαγγέλιον (euangelion)
-“Gospel.” Good news, here described as eternal.

@@ -69,11 +69,11 @@ v31: These are the sons of Shem, by their clans, their languages, their lands, a
 v32: These are the clans of the sons of Noah, according to their generations, in their nations. And from these the nations spread abroad upon the earth after the flood.
 </p>
 ## Notes
-v1: The chapter begins with the generations of Noah’s sons, shifting attention from a single family to the origins of the nations.  
-v2–5: Japheth’s descendants are associated with peoples spread across distant lands and coastlands.  
-v5: Languages are mentioned before the account of Babel in the next chapter. The genealogy arranges peoples by their later historical realities.  
-v8–12: Nimrod receives unusual attention within the genealogy. His identity is linked with power, cities, and kingship.  
-v9: “Before the LORD” may indicate prominence in the LORD’s sight, whether for honor or notoriety. The expression remains open-ended.  
+v01: The chapter begins with the generations of Noah’s sons, shifting attention from a single family to the origins of the nations.  
+v02–05: Japheth’s descendants are associated with peoples spread across distant lands and coastlands.  
+v05: Languages are mentioned before the account of Babel in the next chapter. The genealogy arranges peoples by their later historical realities.  
+v08–12: Nimrod receives unusual attention within the genealogy. His identity is linked with power, cities, and kingship.  
+v09: “Before the LORD” may indicate prominence in the LORD’s sight, whether for honor or notoriety. The expression remains open-ended.  
 v10: Babel appears here before its role in the narrative of Genesis 11.  
 v13–14: The genealogy traces connections among peoples known throughout later biblical history, including the Philistines.  
 v15–19: The descendants of Canaan are described both by lineage and by territory.  
@@ -81,18 +81,18 @@ v21: Eber receives special notice because his line will eventually lead to Abrah
 v25: The meaning of the earth being “divided” in Peleg’s days is not explained. The text leaves the nature of the division unstated.  
 v32: The chapter emphasizes both common ancestry and the diversity of nations spread across the earth.  
 
-##Vocabulary
+## Vocabulary
 
-v1: תּוֹלְדוֹת (tôlĕdôt)  
+v01: תּוֹלְדוֹת (tôlĕdôt)  
 “Generations” or “account.” A structural marker introducing a new section of Genesis.  
 
-v5: אִיִּים (ʾiyyîm)  
+v05: אִיִּים (ʾiyyîm)  
 “Coastland peoples” or “islands.” A term often referring to distant maritime regions.  
 
-v8: גִּבּוֹר (gibbôr)  
+v08: גִּבּוֹר (gibbôr)  
 “Mighty one” or “warrior.” Describes strength, prominence, or exceptional power.  
 
-v9: צַיִד (ṣayiḏ)  
+v09: צַיִד (ṣayiḏ)  
 “Hunting” or “game.” Associated here with Nimrod’s reputation as a hunter.  
 
 v10: מַמְלָכָה (mamlākâ)
@@ -116,11 +116,3 @@ v32: גּוֹי (gôy)
 v18: פּוּץ (pûṣ)  
 “To scatter” or “spread abroad.” The verb describes the dispersal of peoples across the earth.  
 
-v01: תּוֹלְדוֹת (tôlĕdôt)
-“Generations” or “account.” A structural marker introducing a new section of Genesis.
-
-v05: אִיִּים (ʾiyyîm)
-“Coastland peoples” or “islands.” A term often referring to distant maritime regions.
-
-v08: גִּבּוֹר (gibbôr)
-“Mighty one” or “warrior.” Describes strength, prominence, or exceptional power.

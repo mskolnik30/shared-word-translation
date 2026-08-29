@@ -103,13 +103,13 @@ v24: Be strong, and let your heart take courage,
   all you who wait for the LORD.
 </p>
 ## Notes
-v1: “take refuge… in your righteousness deliver me” — The psalm grounds rescue in God’s rightness, not the psalmist’s deserving; shame is answered by God’s faithful action.
-v2–3: “rock… fortress… for your name’s sake” — Protection is personal and covenantal; God’s reputation (“name”) is tied to God’s saving care.
-v4: “net… hidden” — Threat is portrayed as covert and manipulative; deliverance includes being pulled out of traps you cannot see.
-v5: “Into your hand I commit my spirit” — The decisive act is entrustment. The line is both surrender and confidence, rooted in God as “faithful.”
-v6: “worthless idols… I trust” — Trust is exclusive allegiance: refusing false supports is part of refuge in the LORD.
-v7–8: “you have seen… known… broad place” — God’s salvation includes attention: seen affliction, known distress, and then widened space to stand and breathe.
-v9–10: “eye wastes away… bones waste away” — Suffering is bodily; grief depletes strength and time. The psalm gives language to somatic sorrow.
+v01: “take refuge… in your righteousness deliver me” — The psalm grounds rescue in God’s rightness, not the psalmist’s deserving; shame is answered by God’s faithful action.
+v02–03: “rock… fortress… for your name’s sake” — Protection is personal and covenantal; God’s reputation (“name”) is tied to God’s saving care.
+v04: “net… hidden” — Threat is portrayed as covert and manipulative; deliverance includes being pulled out of traps you cannot see.
+v05: “Into your hand I commit my spirit” — The decisive act is entrustment. The line is both surrender and confidence, rooted in God as “faithful.”
+v06: “worthless idols… I trust” — Trust is exclusive allegiance: refusing false supports is part of refuge in the LORD.
+v07–08: “you have seen… known… broad place” — God’s salvation includes attention: seen affliction, known distress, and then widened space to stand and breathe.
+v09–10: “eye wastes away… bones waste away” — Suffering is bodily; grief depletes strength and time. The psalm gives language to somatic sorrow.
 v11–13: “reproach… dread… whispering… terror” — Social isolation and reputational collapse intensify the crisis; the enemy’s strategy is fear and rumor.
 v14: “But I trust… You are my God” — The turning point is not circumstances changing but allegiance clarified in the middle of threat.
 v15: “My times are in your hand” — Time itself is entrusted to God: seasons, outcomes, and duration are placed under divine care.
@@ -120,39 +120,39 @@ v21–22: “besieged city… I said in my alarm… nevertheless” — Faith in
 v23: “preserves… repays the proud” — Covenant ethics: God guards the faithful and confronts arrogance; pride is not stable ground.
 v24: “Be strong… heart take courage… wait” — The ending shifts to communal exhortation: waiting is active courage, sustained hope under pressure.
 
-##Vocabulary
+## Vocabulary
 
-v1: חָסָה (chasah) — to take refuge
+v01: חָסָה (chasah) — to take refuge
 
-v1: בּוֹשׁ (bosh) — to be put to shame; to be disgraced
+v01: בּוֹשׁ (bosh) — to be put to shame; to be disgraced
 
-v1: צֶדֶק (tsedeq) — righteousness; justice; rightness
+v01: צֶדֶק (tsedeq) — righteousness; justice; rightness
 
-v2: נָטָה (natah) — to incline; to bend toward
+v02: נָטָה (natah) — to incline; to bend toward
 
-v2: צוּר (tsur) — rock
+v02: צוּר (tsur) — rock
 
-v2: מָצוּדָה (matsudah) — stronghold; fortress
+v02: מָצוּדָה (matsudah) — stronghold; fortress
 
-v3: שֵׁם (shem) — name
+v03: שֵׁם (shem) — name
 
-v4: רֶשֶׁת (reshet) — net
+v04: רֶשֶׁת (reshet) — net
 
-v5: רוּחַ (ruaḥ) — spirit; breath; life-wind
+v05: רוּחַ (ruaḥ) — spirit; breath; life-wind
 
-v5: פָּדָה (padah) — to redeem; to ransom
+v05: פָּדָה (padah) — to redeem; to ransom
 
-v6: הֶבֶל (hevel) — vapor; vanity; worthless thing
+v06: הֶבֶל (hevel) — vapor; vanity; worthless thing
 
-v7: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
+v07: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
 
-v7: עֳנִי (ʿoni) — affliction; misery
+v07: עֳנִי (ʿoni) — affliction; misery
 
-v7: צָרָה (tsarah) — distress; trouble
+v07: צָרָה (tsarah) — distress; trouble
 
-v8: מֶרְחָב (merchav) — broad place; spaciousness
+v08: מֶרְחָב (merchav) — broad place; spaciousness
 
-v9: חָנַן (ḥanan) — to be gracious; to show favor
+v09: חָנַן (ḥanan) — to be gracious; to show favor
 
 v10: יָגֹון (yagon) — sorrow; grief
 

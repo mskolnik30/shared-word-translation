@@ -109,7 +109,7 @@ v31: The king blames Elisha for the disaster despite the prophet having repeated
 v32: “son of a murderer” may refer to the king’s own violent disposition or to his father Ahab’s bloodguilt. Elisha’s immediate target is the king’s order to kill him.
 v33: The final speaker is textually uncertain—possibly the king or his messenger. TSW leaves the speech within the narrative without naming the speaker.
 
-##Vocabulary
+## Vocabulary
 
 v05: שָׁאַל (sha'al)
 “To borrow.” The axe head was borrowed property.

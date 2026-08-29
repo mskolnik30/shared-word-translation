@@ -65,13 +65,13 @@ v17: And say to Archippus, “See that you fulfill the ministry that you receive
 v18: I, Paul, write this greeting with my own hand. Remember my chains. Grace be with you.
 </p>
 ## Notes
-v1: Authority is reframed. Masters are addressed under a higher authority, introducing accountability.  
-v2: Prayer is described as ongoing (“continue steadfastly”) and attentive (“watchful”).  
-v3–4: The request is not for release but for clarity in proclamation.  
-v5: “Those outside” introduces relational distinction without hostility.  
-v5: Time is treated as opportunity requiring intentional use.  
-v6: Speech is both gracious and discerning. “Seasoned with salt” suggests preservation and sharpness.  
-v7–9: Personal representatives carry both information and encouragement.  
+v01: Authority is reframed. Masters are addressed under a higher authority, introducing accountability.  
+v02: Prayer is described as ongoing (“continue steadfastly”) and attentive (“watchful”).  
+v03–04: The request is not for release but for clarity in proclamation.  
+v05: “Those outside” introduces relational distinction without hostility.  
+v05: Time is treated as opportunity requiring intentional use.  
+v06: Speech is both gracious and discerning. “Seasoned with salt” suggests preservation and sharpness.  
+v07–09: Personal representatives carry both information and encouragement.  
 v10–11: The mention of “only ones of the circumcision” highlights the limited Jewish participation in Paul’s circle.  
 v12: Prayer is described as “striving,” indicating effort and persistence.  
 v12: Maturity is linked with assurance in God’s will, not independence from it.  
@@ -79,31 +79,31 @@ v16: Circulation of letters reflects shared authority across communities.
 v17: Ministry is received and must be fulfilled. Responsibility is personal and public.  
 v18: “Remember my chains” reconnects the letter to Paul’s embodied condition.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἴσος (isos)  
+v01: ἴσος (isos)  
 
-v1: “Fair” or “equal.” Justice measured in right relation.  
+v01: “Fair” or “equal.” Justice measured in right relation.  
 
-v2: προσκαρτερέω (proskartereō)  
+v02: προσκαρτερέω (proskartereō)  
 
-v2: “To continue steadfastly.” Persistent devotion.  
+v02: “To continue steadfastly.” Persistent devotion.  
 
-v3: θύρα (thyra)  
+v03: θύρα (thyra)  
 
-v3: “Door.” Opportunity for action.  
+v03: “Door.” Opportunity for action.  
 
-v5: καιρός (kairos)  
+v05: καιρός (kairos)  
 
-v5: “Time.” Opportune or decisive moment.  
+v05: “Time.” Opportune or decisive moment.  
 
-v6: ἅλας (halas)  
+v06: ἅλας (halas)  
 
-v6: “Salt.” Preserving or sharpening agent.  
+v06: “Salt.” Preserving or sharpening agent.  
 
-v7: διάκονος (diakonos)  
+v07: διάκονος (diakonos)  
 
-v7: “Minister” or “servant.” One who serves.  
+v07: “Minister” or “servant.” One who serves.  
 
 v12: ἀγωνίζομαι (agōnizomai)  
 

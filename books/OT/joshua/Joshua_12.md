@@ -83,7 +83,7 @@ v07–24: The western kings are remembered individually even when their campaign
 v23: “Goiim in Gilgal” — The place-name and phrase are textually difficult. Some translations understand “king of Goiim in Galilee.” TSW retains the traditional consonantal form while recognizing uncertainty.
 v24: The total of thirty-one concludes the catalogue and emphasizes the breadth of the conquest summary.
 
-##Vocabulary
+## Vocabulary
 
 v01: יָרַשׁ (yarash)
 “To possess” or “take possession.” Used of Israel taking the conquered territories.

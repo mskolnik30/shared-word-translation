@@ -127,7 +127,7 @@ v24: The execution of wives and children with the accusers reflects ancient impe
 v26–27: Darius’s decree confesses the enduring kingdom of Daniel’s God, in contrast with the fragile legal and political power exercised by earthly kings.
 v28: The Aramaic wording can be read as Daniel prospering under Darius and Cyrus, or possibly identifying Darius with Cyrus in some relation. TSW follows the straightforward two-reign reading.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֲחַשְׁדַּרְפָּן (achashdarpan)
 “Satrap.” A high provincial official.

@@ -53,14 +53,14 @@ v19: We have this as a sure and steadfast anchor of the soul, a hope that enters
 v20: where Jesus has gone as a forerunner on our behalf, having become a high priest forever after the order of Melchizedek.
 </p>
 ## Notes
-v1–2: Foundational teachings are listed without expansion.  
-v1: Movement toward maturity is assumed, not defined.  
-v3: Progress is conditioned by divine permission.  
-v4–6: Description accumulates without resolving the impossibility.  
-v6: Falling away is framed as reenactment, not mere departure.  
-v7–8: Agricultural imagery contrasts outcomes without explanation.  
-v8: Worthlessness leads to destruction; process is not described.  
-v9: Tone shifts from warning to assurance.  
+v01–02: Foundational teachings are listed without expansion.  
+v01: Movement toward maturity is assumed, not defined.  
+v03: Progress is conditioned by divine permission.  
+v04–06: Description accumulates without resolving the impossibility.  
+v06: Falling away is framed as reenactment, not mere departure.  
+v07–08: Agricultural imagery contrasts outcomes without explanation.  
+v08: Worthlessness leads to destruction; process is not described.  
+v09: Tone shifts from warning to assurance.  
 v10: Divine justice includes recognition of action.  
 v11–12: Diligence is sustained over time.  
 v12: Inheritance is linked to both faith and patience.  
@@ -71,43 +71,43 @@ v18: Refuge is conceptual rather than spatial.
 v19: Hope is described metaphorically.  
 v20: Access is mediated; role is defined through prior category.  
 
-##Vocabulary
+## Vocabulary
 
-v1: τελειότης (teleiotēs)  
+v01: τελειότης (teleiotēs)  
 
-v1: “Maturity.” State of completeness.  
+v01: “Maturity.” State of completeness.  
 
-v1: μετάνοια (metanoia)  
+v01: μετάνοια (metanoia)  
 
-v1: “Repentance.” Change of mind or direction.  
+v01: “Repentance.” Change of mind or direction.  
 
-v2: βάπτισμα (baptisma)  
+v02: βάπτισμα (baptisma)  
 
-v2: “Washings.” Ritual cleansing.  
+v02: “Washings.” Ritual cleansing.  
 
-v4: φωτίζω (phōtizō)  
+v04: φωτίζω (phōtizō)  
 
-v4: “To enlighten.” To bring into light.  
+v04: “To enlighten.” To bring into light.  
 
-v4: γεύομαι (geuomai)  
+v04: γεύομαι (geuomai)  
 
-v4: “To taste.” To experience.  
+v04: “To taste.” To experience.  
 
-v5: δύναμις (dynamis)  
+v05: δύναμις (dynamis)  
 
-v5: “Power.” Force or capability.  
+v05: “Power.” Force or capability.  
 
-v6: παραπίπτω (parapiptō)  
+v06: παραπίπτω (parapiptō)  
 
-v6: “To fall away.” To deviate.  
+v06: “To fall away.” To deviate.  
 
-v7: πίω (piō)  
+v07: πίω (piō)  
 
-v7: “To drink.” To receive.  
+v07: “To drink.” To receive.  
 
-v8: ἀδόκιμος (adokimos)  
+v08: ἀδόκιμος (adokimos)  
 
-v8: “Worthless.” Not approved.  
+v08: “Worthless.” Not approved.  
 
 v12: μιμητής (mimētēs)  
 

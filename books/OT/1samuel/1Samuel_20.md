@@ -133,7 +133,7 @@ v30: Saul’s insult attacks both Jonathan and his mother and is intended to sha
 v31: “Son of death” means one condemned or deserving death.
 v41: “Until David exceeded” is a difficult phrase. It may mean David wept more greatly or that the emotion became overwhelming. TSW preserves the comparative sense.
 
-##Vocabulary
+## Vocabulary
 
 v03: פֶּשַׂע (pesa)
 “Step.” David says only a step separates him from death.

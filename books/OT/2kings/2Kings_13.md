@@ -90,7 +90,7 @@ v21: The dead man’s revival occurs without Elisha’s conscious action and und
 v23: Israel’s preservation is grounded in the ancestral covenant with Abraham, Isaac, and Jacob despite northern Israel’s persistent unfaithfulness.
 v25: The three recovered victories explicitly fulfill Elisha’s symbolic prophecy.
 
-##Vocabulary
+## Vocabulary
 
 v04: חָלָה פְנֵי (chalah pene)
 “To seek favor” or entreat the face.

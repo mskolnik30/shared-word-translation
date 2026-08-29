@@ -75,13 +75,13 @@ v05: "O God of our salvation" — This title emphasizes God's saving power and h
 v09: "The river of God" — This metaphor conveys God's abundant provision and care for the earth.
 v11: "You crown the year with your bounty" — Indicating God's provision and blessing throughout the agricultural year.
 
-##Vocabulary
+## Vocabulary
 
-v4: עָוֺנֹת (a.van) — Translated as "iniquities", it denotes acts or conditions contrary to God's order, which here rise up against the psalmist.
+v04: עָוֺנֹת (a.van) — Translated as "iniquities", it denotes acts or conditions contrary to God's order, which here rise up against the psalmist.
 
-v7: כּוּן (kun) — Rendered as "set", indicates God's active establishment of the mountains through his strength.
+v07: כּוּן (kun) — Rendered as "set", indicates God's active establishment of the mountains through his strength.
 
-v9: מוֹצָאֵי (mo.tsa) — Refers to "dawn" and "sunset", marking the daily renewal and God's continuous order. 
+v09: מוֹצָאֵי (mo.tsa) — Refers to "dawn" and "sunset", marking the daily renewal and God's continuous order. 
 
 v12: עָטַר (a.tar) — "Crown", used metaphorically here to describe God adorning or enriching the year.
 

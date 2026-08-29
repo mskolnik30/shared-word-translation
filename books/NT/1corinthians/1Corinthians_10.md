@@ -109,8 +109,8 @@ v32: Give no offense either to Jews or to Greeks or to the church of God,
 v33: just as I also please all people in all things, not seeking my own advantage, but that of the many, so that they may be saved.
 </p>
 ## Notes
-v1–5: Shared privilege does not guarantee divine approval.  
-v6–10: Israel’s failures serve as warnings.  
+v01–05: Shared privilege does not guarantee divine approval.  
+v06–10: Israel’s failures serve as warnings.  
 v11–12: Instruction is directed toward those in the final age.  
 v13: God provides both limitation and escape in temptation.  
 v14–22: Idolatry involves participation with spiritual realities.  
@@ -118,35 +118,35 @@ v23–24: Freedom is governed by benefit and edification.
 v25–30: Conscience shapes application of freedom.  
 v31–33: All actions are oriented toward God’s glory and others’ salvation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: νεφέλη (nephelē)  
+v01: νεφέλη (nephelē)  
 
-v1: “Cloud.”  
+v01: “Cloud.”  
 
-v2: βαπτίζω (baptizō)  
+v02: βαπτίζω (baptizō)  
 
-v2: “To baptize.”  
+v02: “To baptize.”  
 
-v4: πέτρα (petra)  
+v04: πέτρα (petra)  
 
-v4: “Rock.”  
+v04: “Rock.”  
 
-v6: τύπος (typos)  
+v06: τύπος (typos)  
 
-v6: “Example.”  
+v06: “Example.”  
 
-v7: εἰδωλολάτρης (eidōlolatrēs)  
+v07: εἰδωλολάτρης (eidōlolatrēs)  
 
-v7: “Idolater.”  
+v07: “Idolater.”  
 
-v8: πορνεύω (porneuō)  
+v08: πορνεύω (porneuō)  
 
-v8: “To commit sexual immorality.”  
+v08: “To commit sexual immorality.”  
 
-v9: πειράζω (peirazō)  
+v09: πειράζω (peirazō)  
 
-v9: “To test.”  
+v09: “To test.”  
 
 v10: γογγύζω (gongyzō)  
 

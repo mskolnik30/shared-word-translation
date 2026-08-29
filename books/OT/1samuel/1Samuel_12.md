@@ -50,10 +50,10 @@ v24: Only fear the LORD and serve him faithfully with all your heart, for consid
 v25: But if you still do evil, both you and your king will be swept away.”
 </p>
 ## Notes
-v1–2: Samuel presents the monarchy as a completed public act. His repeated “see” forces Israel to recognize both the new king and Samuel’s own completed role before them.  
-v3–5: Samuel’s integrity is tested in covenantal terms. The questions focus on abuse of power, economic exploitation, and judicial corruption.  
-v6–8: Israel’s history is framed as the LORD’s action. Moses and Aaron are instruments, but deliverance belongs to God.  
-v9–11: The pattern of forgetting, oppression, crying out, and deliverance summarizes the period of the judges without smoothing its disorder.  
+v01–02: Samuel presents the monarchy as a completed public act. His repeated “see” forces Israel to recognize both the new king and Samuel’s own completed role before them.  
+v03–05: Samuel’s integrity is tested in covenantal terms. The questions focus on abuse of power, economic exploitation, and judicial corruption.  
+v06–08: Israel’s history is framed as the LORD’s action. Moses and Aaron are instruments, but deliverance belongs to God.  
+v09–11: The pattern of forgetting, oppression, crying out, and deliverance summarizes the period of the judges without smoothing its disorder.  
 v12: Israel’s request for a king is not treated as politically neutral. The demand exposes a failure to trust the LORD’s kingship.  
 v14–15: The monarchy does not replace covenant obedience. Both people and king remain under the command of the LORD.  
 v16–18: Thunder and rain during wheat harvest function as a sign of divine displeasure. The unusual weather makes visible the seriousness of Israel’s request.  
@@ -62,21 +62,21 @@ v20–22: Samuel does not minimize the evil, but he directs the people away from
 v23: Samuel understands prayerlessness as sin. His prophetic role continues through intercession and instruction.  
 v24–25: The chapter closes with both mercy and warning. The king shares the fate of the people under covenant accountability.  
 
-##Vocabulary
+## Vocabulary
 
-v3: עָשַׁק (ʿāshaq)  
+v03: עָשַׁק (ʿāshaq)  
 “To oppress” or “exploit.” The word often concerns unjust treatment by those with power.  
 
-v3: כֹּפֶר (kōpher)  
+v03: כֹּפֶר (kōpher)  
 “Bribe” or “ransom.” Here it refers to a payment that corrupts judgment.  
 
-v6: עָשָׂה (ʿāsâ)  
+v06: עָשָׂה (ʿāsâ)  
 “To make” or “appoint.” Used here of the LORD’s establishing Moses and Aaron for their work.  
 
-v7: צְדָקוֹת (ṣĕdāqôt)  
+v07: צְדָקוֹת (ṣĕdāqôt)  
 “Righteous acts.” The term names the LORD’s faithful saving deeds, not merely abstract righteousness.  
 
-v9: שָׁכַח (shākhaḥ)  
+v09: שָׁכַח (shākhaḥ)  
 “To forget.” In covenantal contexts, forgetting is not mere loss of memory but failure of loyalty.  
 
 v10: עָזַב (ʿāzav)
@@ -100,5 +100,3 @@ v23: פָּלַל (pālal)
 v25: סָפָה (sāphâ)  
 “To sweep away” or “be consumed.” The warning includes both people and king under the same divine judgment.  
 
-v07: צְדָקוֹת (ṣĕdāqôt)
-“Righteous acts.” The term names the LORD’s faithful saving deeds, not merely abstract righteousness.

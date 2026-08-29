@@ -77,7 +77,7 @@ v07: “like Adam” may refer to the individual Adam or possibly to a place nam
 v09: The accusation against priests is severe and unusual, portraying them as organized bands of violent attackers on the road to Shechem.
 v11: “harvest” can carry positive or negative force. Its placement beside restoration leaves the image open to the chapter’s tension between judgment and renewal.
 
-##Vocabulary
+## Vocabulary
 
 v01: שׁוּב (shuv)
 “To return.” The central covenantal verb of turning back to the LORD.

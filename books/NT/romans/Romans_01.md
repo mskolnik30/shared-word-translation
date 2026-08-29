@@ -105,8 +105,8 @@ v31: senseless, faithless, heartless, ruthless.
 v32: Though they know the righteous decree of God, that those practicing such things are worthy of death, they not only do them but also approve of those who practice them.
 </p>
 ## Notes
-v1–4: Gospel centers on Jesus’ Davidic lineage and resurrection vindication.
-v5: Apostleship aims at obedience of faith among nations.
+v01–04: Gospel centers on Jesus’ Davidic lineage and resurrection vindication.
+v05: Apostleship aims at obedience of faith among nations.
 v11–12: Mutual strengthening defines community.
 v16–17: Gospel reveals God’s righteousness through faith.
 v18–20: General revelation renders humanity accountable.
@@ -115,21 +115,21 @@ v24–28: “God gave them over” marks judicial consequence.
 v29–31: Moral breakdown is comprehensive.
 v32: Approval of sin compounds guilt.
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀφορίζω (aphorizō)
+v01: ἀφορίζω (aphorizō)
 
 “To set apart.”
 
-v3: σπέρμα (sperma)
+v03: σπέρμα (sperma)
 
 “Seed.”
 
-v4: ὁρίζω (horizō)
+v04: ὁρίζω (horizō)
 
 “To appoint.”
 
-v5: ὑπακοή (hypakoē)
+v05: ὑπακοή (hypakoē)
 
 “Obedience.”
 
@@ -180,11 +180,3 @@ v32: συνευδοκέω (syneudokeō)
 
 “To approve.”
 
-v01: ἀφορίζω (aphorizō)
-“To set apart.”
-
-v03: σπέρμα (sperma)
-“Seed.”
-
-v04: ὁρίζω (horizō)
-“To appoint.”

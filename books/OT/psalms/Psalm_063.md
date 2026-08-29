@@ -45,11 +45,11 @@ v03: "steadfast love" — A term often translated from the Hebrew *chesed*, refe
 v04: "richest of foods" — Symbolizes abundance and satisfaction found in God's presence, contrasting with the physical thirst of v01.
 v08: "your right hand upholds me" — Indicates strength and support, a common biblical image for divine assistance.
 
-##Vocabulary
+## Vocabulary
 
-v4: חַסְדְּךָ (chasdecha): "steadfast love" — Reflects God's enduring loyalty and kindness, foundational to the psalmist's praise.
+v04: חַסְדְּךָ (chasdecha): "steadfast love" — Reflects God's enduring loyalty and kindness, foundational to the psalmist's praise.
 
-v8: צֵל (tsel): "shadow" — Implies protection and security, as one would find refuge under the shadow of God's wings.
+v08: צֵל (tsel): "shadow" — Implies protection and security, as one would find refuge under the shadow of God's wings.
 
 v03: חַסְדְּךָ (chasdecha)
 “steadfast love" — Reflects God's enduring loyalty and kindness, foundational to the psalmist's praise.

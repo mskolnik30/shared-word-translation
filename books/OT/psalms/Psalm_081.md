@@ -62,7 +62,7 @@ and with honey from the rock I would satisfy you.”
 ## Notes
 v05: The shift to a first-person divine voice begins in the second half of the verse. The sudden transition is part of the psalm’s rhetoric and is retained.
 
-##Vocabulary
+## Vocabulary
 
 v07: מְרִיבָה (Meribah)
 “Quarreling” or “contention,” the place-name associated with Israel’s testing in the wilderness.

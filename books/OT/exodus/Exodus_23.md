@@ -118,7 +118,7 @@ v29–30: Conquest is explicitly gradual rather than instantaneous, with ecologi
 v31: “the River” refers to the Euphrates in this geographical formula.
 v32–33: The warning is theological as well as political: covenants with the peoples are dangerous because they lead toward service of their gods.
 
-##Vocabulary
+## Vocabulary
 
 v01: שָׁוְא (shav)
 “Falsehood” or “emptiness.” Used of a false report.

@@ -141,7 +141,7 @@ v19–21: Job questions deferred punishment falling on children. If judgment is 
 v23–26: Death levels radically different lives. Prosperity and bitterness both end in dust and worms, complicating attempts to read moral status from outward condition.
 v29–33: Job appeals to the testimony of travelers and public experience. The wicked may receive honor even in burial rather than public disgrace.
 
-##Vocabulary
+## Vocabulary
 
 v04: שִׂיחַ (siach)
 “Complaint,” “meditation,” or “speech.” Job’s case is ultimately directed beyond the friends.

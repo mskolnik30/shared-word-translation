@@ -40,12 +40,12 @@ When God restores the fortunes of his people,
 Jacob will rejoice; Israel will be glad.
 </p>
 ## Notes
-v3: “Not even one” intensifies the universal scope of the psalm’s accusation: the claim concerns the whole human field being surveyed, not merely a particular group of evildoers.
-v5: The phrase “where there was no fear” makes the terror strikingly disproportionate to any visible cause, locating the reversal in God’s action rather than in the enemy’s apparent circumstances.
+v03: “Not even one” intensifies the universal scope of the psalm’s accusation: the claim concerns the whole human field being surveyed, not merely a particular group of evildoers.
+v05: The phrase “where there was no fear” makes the terror strikingly disproportionate to any visible cause, locating the reversal in God’s action rather than in the enemy’s apparent circumstances.
 
-##Vocabulary
+## Vocabulary
 
-v3: אֱלֹהִים (e.lo.him) — A plural form often used with singular verbs, indicating majesty, emphasizes divine omnipresence and involvement.
+v03: אֱלֹהִים (e.lo.him) — A plural form often used with singular verbs, indicating majesty, emphasizes divine omnipresence and involvement.
 
 v02: אֱלֹהִים (elohim)
 “God.” The common Hebrew designation for God; grammatically plural in form but often used with singular reference to Israel’s God.

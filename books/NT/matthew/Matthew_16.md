@@ -81,11 +81,11 @@ v27: For the Son of Man is going to come with his angels in the glory of his Fat
 v28: Truly, I say to you, there are some standing here who will not taste death until they see the Son of Man coming in his kingdom.”
 </p>
 ## Notes
-v1: Unified opposition (Pharisees + Sadducees) signals escalation; “test” frames hostility.  
-v3: Competence in natural signs contrasts with failure in recognizing divine activity.  
-v4: “Sign of Jonah” points to death/resurrection pattern rather than spectacle.  
-v6: “Leaven” functions metaphorically—pervasive influence, not visible at first.  
-v8–11: Failure is interpretive, not informational; memory does not guarantee understanding.  
+v01: Unified opposition (Pharisees + Sadducees) signals escalation; “test” frames hostility.  
+v03: Competence in natural signs contrasts with failure in recognizing divine activity.  
+v04: “Sign of Jonah” points to death/resurrection pattern rather than spectacle.  
+v06: “Leaven” functions metaphorically—pervasive influence, not visible at first.  
+v08–11: Failure is interpretive, not informational; memory does not guarantee understanding.  
 v12: Teaching identified as corrupting influence; doctrine shapes perception.  
 v16: Confession combines messianic identity (“Christ”) with divine sonship.  
 v17: Revelation is divine disclosure, not human inference.  
@@ -98,17 +98,17 @@ v25: Paradox of loss/gain reframes life in relational rather than possessive ter
 v27: Judgment tied to revealed works; accountability is universal.  
 v28: Anticipatory fulfillment—kingdom manifestation begins before final consummation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: πειράζοντες (*peirazontes*) — “Testing.” Attempt to trap or discredit.  
+v01: πειράζοντες (*peirazontes*) — “Testing.” Attempt to trap or discredit.  
 
-v3: καιροί (*kairoi*) — “Times.” Decisive or opportune moments.  
+v03: καιροί (*kairoi*) — “Times.” Decisive or opportune moments.  
 
-v4: σημεῖον (*sēmeion*) — “Sign.” Indicator pointing beyond itself.  
+v04: σημεῖον (*sēmeion*) — “Sign.” Indicator pointing beyond itself.  
 
-v6: ζύμη (*zymē*) — “Leaven.” Subtle, permeating influence.  
+v06: ζύμη (*zymē*) — “Leaven.” Subtle, permeating influence.  
 
-v8: ὀλιγόπιστοι (*oligopistoi*) — “Of little faith.” Insufficient trust or perception.  
+v08: ὀλιγόπιστοι (*oligopistoi*) — “Of little faith.” Insufficient trust or perception.  
 
 v13: υἱὸς τοῦ ἀνθρώπου (*huios tou anthrōpou*) — “Son of Man.” Self-designation with eschatological weight.  
 

@@ -60,12 +60,12 @@ v24: He himself bore our sins in his body on the tree, so that we might die to s
 v25: For you were straying like sheep, but have now returned to the shepherd and overseer of your souls.
 </p>
 ## Notes
-v1: The vice list is comprehensive and communal; the focus is relational distortion rather than isolated acts.  
-v2–3: Growth is framed as desire; nourishment is something to be longed for, not merely received.  
-v4–5: The metaphor shifts from individual to collective—stones become a structure, identity becomes shared.  
-v6–8: Scripture is layered to hold both assurance and stumbling without resolving the tension between them.  
-v8: “Destined” is stated without elaboration, preserving ambiguity regarding divine purpose and human response.  
-v9–10: Identity is described through contrast—what was and what is now—without detailing the process of change.  
+v01: The vice list is comprehensive and communal; the focus is relational distortion rather than isolated acts.  
+v02–03: Growth is framed as desire; nourishment is something to be longed for, not merely received.  
+v04–05: The metaphor shifts from individual to collective—stones become a structure, identity becomes shared.  
+v06–08: Scripture is layered to hold both assurance and stumbling without resolving the tension between them.  
+v08: “Destined” is stated without elaboration, preserving ambiguity regarding divine purpose and human response.  
+v09–10: Identity is described through contrast—what was and what is now—without detailing the process of change.  
 v11: “Sojourners and exiles” frames ethical instruction within identity rather than circumstance alone.  
 v12: Conduct functions as witness; perception by others becomes part of the theological horizon.  
 v13–17: Submission is framed “for the Lord’s sake,” holding tension between divine allegiance and human authority.  
@@ -75,21 +75,21 @@ v23: Non-retaliation is grounded in trust in divine judgment rather than passivi
 v24: The language of bearing sins and healing is held together without systematizing atonement.  
 v25: The return to the shepherd reframes identity as restoration rather than mere correction.  
 
-##Vocabulary
+## Vocabulary
 
-v1: κακία (kakia)  
+v01: κακία (kakia)  
 “Malice.” A disposition toward harm; relational hostility.  
 
-v2: γάλα (gala)  
+v02: γάλα (gala)  
 “Milk.” Symbol of nourishment appropriate for growth; here metaphorical.  
 
-v4: λίθος (lithos)  
+v04: λίθος (lithos)  
 “Stone.” Used both literally and metaphorically; central to the passage’s imagery.  
 
-v5: οἶκος πνευματικός (oikos pneumatikos)  
+v05: οἶκος πνευματικός (oikos pneumatikos)  
 “Spiritual house.” A constructed community defined by divine presence.  
 
-v9: περιποίησις (peripoiēsis)  
+v09: περιποίησις (peripoiēsis)  
 “Possession.” Denotes belonging or acquisition, emphasizing identity.  
 
 v11: πάροικος (paroikos)  
@@ -110,11 +110,3 @@ v24: ἀναφέρω (anapherō)
 v25: ἐπίσκοπος (episkopos)  
 “Overseer.” One who watches over or cares for; paired with shepherd imagery.  
 
-v01: κακία (kakia)
-“Malice.” A disposition toward harm; relational hostility.
-
-v02: γάλα (gala)
-“Milk.” Symbol of nourishment appropriate for growth; here metaphorical.
-
-v04: λίθος (lithos)
-“Stone.” Used both literally and metaphorically; central to the passage’s imagery.

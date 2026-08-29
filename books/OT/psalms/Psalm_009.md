@@ -86,37 +86,37 @@ v20: Put them in fear, O LORD;
 let the nations know that they are but human. Selah.
 </p>
 ## Notes
-v1–2: Praise is comprehensive—heart, memory, and proclamation.  
-v3–6: Past victories are interpreted as acts of divine justice.  
-v7–8: God’s reign is enduring and judicial—justice defines kingship.  
-v9–10: God is both refuge and relationally known (“those who know your name”).  
+v01–02: Praise is comprehensive—heart, memory, and proclamation.  
+v03–06: Past victories are interpreted as acts of divine justice.  
+v07–08: God’s reign is enduring and judicial—justice defines kingship.  
+v09–10: God is both refuge and relationally known (“those who know your name”).  
 v11–12: Testimony extends outward; God remembers the afflicted.  
 v13–14: Personal deliverance is tied to public praise.  
 v15–16: The wicked are undone by their own schemes—justice is reflexive.  
 v17–18: Judgment and hope coexist—wicked perish, needy endure.  
 v19–20: Final appeal centers on human limitation before divine authority.  
 
-##Vocabulary
+## Vocabulary
 
-v1: יָדָה (yadah)  
+v01: יָדָה (yadah)  
 “To give thanks.” Praise.  
 
-v1: סָפַר (saphar)  
+v01: סָפַר (saphar)  
 “To recount.” Tell in detail.  
 
-v2: עָלַז (‘alaz)  
+v02: עָלַז (‘alaz)  
 “To exult.” Rejoice greatly.  
 
-v4: דִּין (din)  
+v04: דִּין (din)  
 “To judge.” Render justice.  
 
-v5: מָחָה (machah)  
+v05: מָחָה (machah)  
 “To blot out.” Erase.  
 
-v7: יָשַׁב (yashav)  
+v07: יָשַׁב (yashav)  
 “To sit.” Be enthroned.  
 
-v9: מִשְׂגָּב (misgav)  
+v09: מִשְׂגָּב (misgav)  
 “Stronghold.” High refuge.  
 
 v10: בָּטַח (batach)
@@ -140,8 +140,3 @@ v18: אֶבְיוֹן (evyon)
 v20: אֱנוֹשׁ (‘enosh)  
 “Human.” Mortal person.  
 
-v01: יָדָה (yadah)
-“To give thanks.” Praise.
-
-v04: דִּין (din)
-“To judge.” Render justice.

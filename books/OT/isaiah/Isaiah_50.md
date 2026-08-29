@@ -35,22 +35,17 @@ walk you in the flame of your fire, and among the brands that you have kindled. 
 you will lie down in sorrow.
 </p>
 ## Notes
-v4: The servant’s speech begins with listening. The capacity to sustain the weary grows from an ear repeatedly awakened to receive instruction.  
+v04: The servant’s speech begins with listening. The capacity to sustain the weary grows from an ear repeatedly awakened to receive instruction.  
 v10: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
-##Vocabulary
+## Vocabulary
 
-v4: לִמּוּדִים (limmudim)  
+v04: לִמּוּדִים (limmudim)  
 “Those who are taught” or “disciples.” People formed through attentive learning.  
 
-v4: דָּבָר (davar)  
+v04: דָּבָר (davar)  
 “Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.  
 
 v10: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.
 
-v04: לִמּוּדִים (limmudim)
-“Those who are taught” or “disciples.” People formed through attentive learning.
-
-v04: דָּבָר (davar)
-“Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.

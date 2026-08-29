@@ -165,7 +165,7 @@ v19: “love truth and peace” — The transformation of religious practice is 
 v21–22: The nations do not merely observe Zion’s restoration. They actively seek the LORD and invite one another to make the journey.
 v23: “ten people” — Ten functions as an image of abundance rather than necessarily as a limit. People from the nations recognize God’s presence with the restored people and seek to accompany them.
 
-##Vocabulary
+## Vocabulary
 
 v02: קָנָא (qana)
 “To be jealous” or “zealous.” Intense commitment directed here toward Zion.

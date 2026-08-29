@@ -117,7 +117,7 @@ v34: The goal announced in Exodus 25:8 is fulfilled: the LORD’s glory fills th
 v35: Even Moses cannot enter while the glory fills the dwelling, emphasizing that divine presence remains holy and sovereign rather than domesticated by the sanctuary.
 v36–38: The book closes with the same cloud and fire that guided Israel after Egypt now resting upon the dwelling. Divine presence becomes both sanctuary presence and continuing guidance.
 
-##Vocabulary
+## Vocabulary
 
 v02: הֵקִים (heqim)
 “To set up” or “erect.” Used of raising the dwelling.

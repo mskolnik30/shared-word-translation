@@ -157,8 +157,8 @@ v43: But he said to them, “I must proclaim the good news of the kingdom of God
 v44: And he was proclaiming in the synagogues of Judea.
 </p>
 ## Notes
-v1–2: The Spirit leads Jesus into testing, not away from it.
-v3–12: Each test concerns identity and trust rather than mere power.
+v01–02: The Spirit leads Jesus into testing, not away from it.
+v03–12: Each test concerns identity and trust rather than mere power.
 v13: The devil’s departure “until an opportune time” anticipates future conflict.
 v18–19: Isaiah defines Jesus’ mission in terms of proclamation and release.
 v21: Fulfillment is declared in the present moment, not deferred.
@@ -167,9 +167,9 @@ v28–30: Rejection escalates quickly from admiration to violence.
 v32: Authority is located in the word itself, not external validation.
 v34: Demonic recognition contrasts with human misunderstanding.
 
-##Vocabulary
+## Vocabulary
 
-v2: πειράζω (peirazō)
+v02: πειράζω (peirazō)
 
 “To test, tempt.” To probe fidelity or identity.
 
@@ -197,5 +197,3 @@ v32: ἐξουσία (exousia)
 v34: ἅγιος (hagios)
 “Holy.” Set apart, belonging to God.
 
-v02: πειράζω (peirazō)
-“To test, tempt.” To probe fidelity or identity.

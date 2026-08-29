@@ -51,7 +51,7 @@ v10: “Ammonite servant” — “Servant” may be an official title or a term
 v13–15: The nighttime inspection lets Nehemiah assess the damage before publicly announcing the project.
 v20: “portion, right, or memorial” — The three terms deny Sanballat, Tobiah, and Geshem a recognized claim within Jerusalem’s restored civic-religious community.
 
-##Vocabulary
+## Vocabulary
 
 v01: פַּח (pach)
 “Governor.” A Persian-period administrative official; the noun appears later in the chapter’s regional context.

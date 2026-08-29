@@ -229,7 +229,7 @@ v70: And they all said, “Are you then the Son of God?” And he said to them, 
 v71: And they said, “What further need do we have of testimony? For we ourselves have heard it from his mouth.”
 </p>
 ## Notes
-v3: Satan’s entry into Judas frames betrayal as both human and spiritual.
+v03: Satan’s entry into Judas frames betrayal as both human and spiritual.
 v15–16: Passover is interpreted in light of coming suffering and fulfillment.
 v19–20: Bread and cup redefine covenant identity around Jesus’ body and blood.
 v22: Divine determination and human responsibility coexist.
@@ -244,13 +244,13 @@ v53: Darkness is granted a defined “hour.”
 v61–62: Recognition leads to repentance through grief.
 v66–71: The trial centers on identity claims tied to divine authority.
 
-##Vocabulary
+## Vocabulary
 
-v1: πάσχα (pascha)
+v01: πάσχα (pascha)
 
 “Passover.”
 
-v3: εἰσέρχομαι (eiserchomai)
+v03: εἰσέρχομαι (eiserchomai)
 
 “To enter.”
 
@@ -306,8 +306,3 @@ v69: δύναμις (dynamis)
 
 “Power.”
 
-v01: πάσχα (pascha)
-“Passover.”
-
-v03: εἰσέρχομαι (eiserchomai)
-“To enter.”

@@ -67,13 +67,13 @@ v20: Now to the one who is able to do beyond all things exceedingly more than we
 v21: to him be the glory in the church and in Christ Jesus to all generations, forever and ever. Amen.
 </p>
 ## Notes
-v1: “Prisoner of Christ Jesus” reframes imprisonment as belonging rather than merely circumstance.  
-v2: “Stewardship of grace” presents Paul’s role as entrusted responsibility, not personal possession.  
-v3–5: “Mystery” is defined by its temporal movement—from hidden to revealed—without implying prior absence.  
-v6: The content of the mystery is communal inclusion. “Fellow heirs…same body…sharers” emphasizes shared status.  
-v7: Service is grounded in grace and empowered by divine action.  
-v8: Paul’s self-description (“least”) contrasts with the magnitude of his commission.  
-v9–10: The revelation of the mystery is not only for human communities but extends to “rulers and authorities.”  
+v01: “Prisoner of Christ Jesus” reframes imprisonment as belonging rather than merely circumstance.  
+v02: “Stewardship of grace” presents Paul’s role as entrusted responsibility, not personal possession.  
+v03–05: “Mystery” is defined by its temporal movement—from hidden to revealed—without implying prior absence.  
+v06: The content of the mystery is communal inclusion. “Fellow heirs…same body…sharers” emphasizes shared status.  
+v07: Service is grounded in grace and empowered by divine action.  
+v08: Paul’s self-description (“least”) contrasts with the magnitude of his commission.  
+v09–10: The revelation of the mystery is not only for human communities but extends to “rulers and authorities.”  
 v10: The church functions as the medium through which divine wisdom is displayed.  
 v11: The purpose is “eternal,” yet realized in historical action (“accomplished in Christ”).  
 v12: “Boldness” and “access” redefine relationship with God in terms of confidence rather than distance.  
@@ -85,27 +85,27 @@ v19: The paradox remains: to “know” what surpasses knowledge.
 v20: Divine action exceeds human request and imagination without specification.  
 v21: Glory is located both “in the church” and “in Christ,” holding communal and Christological focus together.  
 
-##Vocabulary
+## Vocabulary
 
-v2: οἰκονομία (oikonomia)  
+v02: οἰκονομία (oikonomia)  
 
-v2: “Stewardship” or “administration.” Management of what is entrusted.  
+v02: “Stewardship” or “administration.” Management of what is entrusted.  
 
-v3: ἀποκάλυψις (apokalypsis)  
+v03: ἀποκάλυψις (apokalypsis)  
 
-v3: “Revelation.” Disclosure of what was hidden.  
+v03: “Revelation.” Disclosure of what was hidden.  
 
-v6: συγκληρονόμος (synklēronomos)  
+v06: συγκληρονόμος (synklēronomos)  
 
-v6: “Fellow heir.” One who shares inheritance.  
+v06: “Fellow heir.” One who shares inheritance.  
 
-v7: διακονία (diakonia)  
+v07: διακονία (diakonia)  
 
-v7: “Service” or “ministry.” Active participation in a task.  
+v07: “Service” or “ministry.” Active participation in a task.  
 
-v8: ἀνεξιχνίαστος (anexichniastos)  
+v08: ἀνεξιχνίαστος (anexichniastos)  
 
-v8: “Unsearchable.” Beyond tracing or full comprehension.  
+v08: “Unsearchable.” Beyond tracing or full comprehension.  
 
 v10: πολυποίκιλος (polypoikilos)  
 

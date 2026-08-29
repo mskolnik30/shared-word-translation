@@ -53,50 +53,50 @@ v12: For what have I to do with judging those outside? Do you not judge those in
 v13: But God judges those outside. “Remove the evil person from among yourselves.”
 </p>
 ## Notes
-v1–2: Tolerated sin is more severe than external immorality.  
-v3–5: Discipline aims at ultimate restoration.  
-v6–8: Leaven metaphor emphasizes communal influence.  
-v7: Christ’s sacrifice redefines identity.  
-v9–11: Distinction between internal discipline and external association.  
+v01–02: Tolerated sin is more severe than external immorality.  
+v03–05: Discipline aims at ultimate restoration.  
+v06–08: Leaven metaphor emphasizes communal influence.  
+v07: Christ’s sacrifice redefines identity.  
+v09–11: Distinction between internal discipline and external association.  
 v12–13: Judgment responsibility is limited to the community.  
 
-##Vocabulary
+## Vocabulary
 
-v1: πορνεία (porneia)  
+v01: πορνεία (porneia)  
 
-v1: “Sexual immorality.”  
+v01: “Sexual immorality.”  
 
-v2: πενθέω (pentheō)  
+v02: πενθέω (pentheō)  
 
-v2: “To mourn.”  
+v02: “To mourn.”  
 
-v3: παρών (parōn)  
+v03: παρών (parōn)  
 
-v3: “Present.”  
+v03: “Present.”  
 
-v5: ὄλεθρος (olethros)  
+v05: ὄλεθρος (olethros)  
 
-v5: “Destruction.”  
+v05: “Destruction.”  
 
-v6: ζύμη (zymē)  
+v06: ζύμη (zymē)  
 
-v6: “Leaven.”  
+v06: “Leaven.”  
 
-v7: καθαίρω (kathairō)  
+v07: καθαίρω (kathairō)  
 
-v7: “To cleanse.”  
+v07: “To cleanse.”  
 
-v7: πάσχα (pascha)  
+v07: πάσχα (pascha)  
 
-v7: “Passover.”  
+v07: “Passover.”  
 
-v8: εἰλικρίνεια (eilikrineia)  
+v08: εἰλικρίνεια (eilikrineia)  
 
-v8: “Sincerity.”  
+v08: “Sincerity.”  
 
-v9: συναναμίγνυμι (synanamignymi)  
+v09: συναναμίγνυμι (synanamignymi)  
 
-v9: “To associate with.”  
+v09: “To associate with.”  
 
 v10: πλεονέκτης (pleonektēs)  
 

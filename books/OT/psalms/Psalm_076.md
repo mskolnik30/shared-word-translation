@@ -52,7 +52,7 @@ and is fearsome to the kings of the earth.
 v04: “Mountains of prey” is the Masoretic reading. The image is abrupt, and some ancient witnesses reflect different wording.
 v10: The second line is difficult. The Hebrew may describe God restraining, girding on, or being adorned by the remainder of human wrath. The main text preserves the concrete image without forcing a single explanation.
 
-##Vocabulary
+## Vocabulary
 
 v02: שָׁלֵם (shalem)
 “Salem,” an ancient poetic name associated with Jerusalem and Zion.

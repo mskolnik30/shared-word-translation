@@ -103,7 +103,7 @@ v24–26: The *herem* language remains severe and total. TSW preserves the recei
 v30–35: The conquest narrative pauses for covenant worship and public reading. Possession of the land is placed under the authority of the instruction given through Moses.
 v35: The entire assembly hears the instruction, explicitly including women, children, and resident aliens.
 
-##Vocabulary
+## Vocabulary
 
 v02: אָרַב (arav)
 “To lie in ambush.” The central tactic used against Ai.

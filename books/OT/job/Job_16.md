@@ -103,7 +103,7 @@ v17: Job again insists on the absence of violence in his hands and the purity of
 v18: Uncovered blood in biblical imagery cries out for justice. Job asks creation itself not to silence his unresolved case.
 v19–21: Job unexpectedly imagines a heavenly witness who can testify for him and plead his case with God. The identity of this witness is not explained.
 
-##Vocabulary
+## Vocabulary
 
 v02: עָמֵל (amel)
 “Miserable,” “troublesome,” or “wearisome.” Used of the friends as comforters who increase suffering.

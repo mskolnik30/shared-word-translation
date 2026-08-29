@@ -79,29 +79,21 @@ and they will be drunken with their own blood, as with sweet wine: and all flesh
 </p>
 ## Notes
 v15: Maternal imagery is retained without qualification: the LORD’s faithfulness is compared with, and then declared even more enduring than, a nursing mother’s remembrance.  
-v7: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
-v7: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
-v3: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+v07: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v07: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
+v03: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
-##Vocabulary
+## Vocabulary
 
 v15: רֶחֶם (rechem)
 “Womb.” The source of maternal imagery for compassion and remembrance.
 
-v7: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+v07: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.  
 
-v7: גֹּאֵל (go'el)  
+v07: גֹּאֵל (go'el)  
 “Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.  
 
-v3: עֶבֶד (eved)  
+v03: עֶבֶד (eved)  
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
-v07: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
-
-v07: גֹּאֵל (go'el)
-“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
-
-v03: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.

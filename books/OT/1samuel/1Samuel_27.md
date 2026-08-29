@@ -51,7 +51,7 @@ v09–11: David’s raids include total killing of local populations specificall
 v10: David tells Achish that his raids were against groups associated with Judah, creating the appearance that he has permanently alienated Israel.
 v12: Achish’s trust rests on a false conclusion produced by David’s deception.
 
-##Vocabulary
+## Vocabulary
 
 v01: נוֹאָשׁ (no'ash)
 “To despair.” David expects Saul to give up the search.

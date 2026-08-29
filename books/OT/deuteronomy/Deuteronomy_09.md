@@ -94,7 +94,7 @@ v21: The calf is called “your sin,” identifying the physical image with the 
 v22: Taberah, Massah, and Kibroth-Hattaavah summarize multiple wilderness rebellions without retelling them.
 v26–29: Moses appeals to redemption, ancestral memory, divine reputation among nations, and Israel’s status as the LORD’s inheritance.
 
-##Vocabulary
+## Vocabulary
 
 v04: צְדָקָה (tsedaqah)
 “Righteousness.” Moses denies that Israel’s righteousness earns the land.

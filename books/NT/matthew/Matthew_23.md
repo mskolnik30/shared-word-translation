@@ -93,11 +93,11 @@ v38: See, your house is left to you desolate.
 v39: For I tell you, you will not see me again, until you say, ‘Blessed is he who comes in the name of the Lord.’”
 </p>
 ## Notes
-v2: “Moses’ seat” signals interpretive authority, not moral credibility.  
-v3: Distinction between teaching and practice; authority without integrity.  
-v4: Burdens represent intensified legal demands without pastoral care.  
-v5: External markers (phylacteries, tassels) used performatively.  
-v8–10: Titles relativized; authority centralized in God and Christ.  
+v02: “Moses’ seat” signals interpretive authority, not moral credibility.  
+v03: Distinction between teaching and practice; authority without integrity.  
+v04: Burdens represent intensified legal demands without pastoral care.  
+v05: External markers (phylacteries, tassels) used performatively.  
+v08–10: Titles relativized; authority centralized in God and Christ.  
 v11–12: Status inversion governs community structure.  
 v13: Obstruction replaces guidance; leadership becomes exclusionary.  
 v15: Mission activity intensifies distortion rather than correction.  
@@ -114,15 +114,15 @@ v38: “House” likely temple; abandonment signals covenantal rupture.
 v39: Future recognition framed in liturgical language (Ps 118).  
 v14: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add a saying parallel to Mark 12:40 and Luke 20:47. Public verse numbering is retained.
 
-##Vocabulary
+## Vocabulary
 
-v2: καθέδρα (*kathedra*) — “Seat.” Position of teaching authority.  
+v02: καθέδρα (*kathedra*) — “Seat.” Position of teaching authority.  
 
-v4: φορτία (*phortia*) — “Burdens.” Obligations or demands.  
+v04: φορτία (*phortia*) — “Burdens.” Obligations or demands.  
 
-v5: φυλακτήρια (*phylaktēria*) — “Phylacteries.” Scripture-containing amulets.  
+v05: φυλακτήρια (*phylaktēria*) — “Phylacteries.” Scripture-containing amulets.  
 
-v7: ῥαββί (*rhabbí*) — “Rabbi.” Teacher; honorific title.  
+v07: ῥαββί (*rhabbí*) — “Rabbi.” Teacher; honorific title.  
 
 v12: ταπεινωθήσεται (*tapeinōthēsetai*) — “Will be humbled.” Brought low.  
 

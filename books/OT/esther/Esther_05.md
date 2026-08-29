@@ -58,7 +58,7 @@ v11: Haman’s speech is self-focused: wealth, sons, promotion, rank, and exclus
 v14: The Hebrew *ets* means “tree” or “wood” and can describe the structure used for execution or display. “Hanged” may include impalement or suspension; exact Persian practice is uncertain.
 v14: Fifty cubits is extraordinarily high, intensifying the public and excessive character of Haman’s intended humiliation of Mordecai.
 
-##Vocabulary
+## Vocabulary
 
 v01: מַלְכוּת (malkhut)
 “Royalty” or “royal state.” Esther clothes herself in what marks her queenly position.

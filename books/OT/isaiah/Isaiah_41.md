@@ -70,9 +70,9 @@ v29: Look, all of them, their works are vanity and nothing. Their molten images 
 v14: “worm Jacob” — The deliberately lowly image intensifies the contrast between Israel’s weakness and the LORD’s promise to help and redeem.  
 v14: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
 v14: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
-v8: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+v08: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
-##Vocabulary
+## Vocabulary
 
 v14: תּוֹלַעַת (tola'at)
 “Worm.” A deliberate image of Jacob’s lowliness in contrast with divine help.
@@ -83,8 +83,6 @@ v14: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
 v14: גֹּאֵל (go'el)
 “Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
 
-v8: עֶבֶד (eved)  
+v08: עֶבֶד (eved)  
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
-v08: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.

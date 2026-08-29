@@ -148,7 +148,7 @@ v19: Relational injury can create defenses more difficult to cross than military
 v21: Speech is not treated as harmless. Words can participate in both life-giving and destructive realities.
 v24: A large social network is not necessarily equivalent to loyal friendship.
 
-##Vocabulary
+## Vocabulary
 
 v01: תּוּשִׁיָּה (tushiyyah)
 “Sound wisdom.” Effective and stable wisdom.

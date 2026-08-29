@@ -43,15 +43,15 @@ v16: When I send against them the deadly arrows of famine, which shall be for de
 v17: So I will send against you famine and wild beasts, and they will bereave you. Pestilence and blood shall pass through you, and I will bring the sword upon you. I, the LORD, have spoken.
 </p>
 ## Notes
-v1: v1 "son of man" — A title emphasizing the prophet's humanity and distinguishing him as a representative of humanity in relation to God's divine mission.  
-v6: v6 "rebelled... more than the nations" — Jerusalem's rebellion is portrayed as exceeding that of surrounding nations, highlighting the severity of their infidelity to God's laws.  
+v01: v1 "son of man" — A title emphasizing the prophet's humanity and distinguishing him as a representative of humanity in relation to God's divine mission.  
+v06: v6 "rebelled... more than the nations" — Jerusalem's rebellion is portrayed as exceeding that of surrounding nations, highlighting the severity of their infidelity to God's laws.  
 v10: v10 "fathers shall eat their sons" — This grim imagery accentuates the extreme consequences of judgment, illustrating the complete societal breakdown during siege conditions.  
 v11: v11 "defiled my sanctuary" — Refers to acts of sacrilege and idol worship that had taken place within the sacred precincts, leading to God's withdrawal and refusal of compassion.  
 v12: v12 "A third... shall die... a third... by the sword, and a third I will scatter" — The division into thirds underscores the totality and thoroughness of God's judgments affecting all parts of the community.  
 
-##Vocabulary
+## Vocabulary
 
-v1: v1 חֶ֫רֶב (che.rev) "sword" — Instrument of divine judgment, used both literally and metaphorically to denote destruction and division throughout this passage.  
+v01: v1 חֶ֫רֶב (che.rev) "sword" — Instrument of divine judgment, used both literally and metaphorically to denote destruction and division throughout this passage.  
 
 v11: מִקְדָּשׁ (miqdash)
 “sanctuary.” The temple, representing God's presence among the people, which has been desecrated by the people's actions prompting divine judgment.

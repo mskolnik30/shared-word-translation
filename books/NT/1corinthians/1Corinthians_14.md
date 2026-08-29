@@ -143,8 +143,8 @@ v39: Therefore, my brothers, earnestly desire to prophesy, and do not forbid spe
 v40: But let all things be done properly and in order.
 </p>
 ## Notes
-v1–5: Prophecy is prioritized for communal edification.  
-v6–12: Intelligibility is essential for usefulness.  
+v01–05: Prophecy is prioritized for communal edification.  
+v06–12: Intelligibility is essential for usefulness.  
 v13–19: Mind and spirit must function together.  
 v20–22: Tongues and prophecy serve distinct roles.  
 v23–25: Prophecy reveals and convicts.  
@@ -152,31 +152,31 @@ v26–33: Order ensures edification and clarity.
 v34–35: Instruction reflects ordered participation.  
 v37–40: Apostolic authority governs practice.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ζηλόω (zēloō)  
+v01: ζηλόω (zēloō)  
 
-v1: “To desire earnestly.”  
+v01: “To desire earnestly.”  
 
-v2: γλῶσσα (glōssa)  
+v02: γλῶσσα (glōssa)  
 
-v2: “Tongue.”  
+v02: “Tongue.”  
 
-v3: προφητεύω (prophēteuō)  
+v03: προφητεύω (prophēteuō)  
 
-v3: “To prophesy.”  
+v03: “To prophesy.”  
 
-v4: οἰκοδομέω (oikodomeō)  
+v04: οἰκοδομέω (oikodomeō)  
 
-v4: “To build up.”  
+v04: “To build up.”  
 
-v5: διερμηνεύω (diermēneuō)  
+v05: διερμηνεύω (diermēneuō)  
 
-v5: “To interpret.”  
+v05: “To interpret.”  
 
-v9: σαφής (saphēs)  
+v09: σαφής (saphēs)  
 
-v9: “Clear.”  
+v09: “Clear.”  
 
 v11: βάρβαρος (barbaros)  
 

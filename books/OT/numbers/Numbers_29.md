@@ -106,7 +106,7 @@ v12–34: The number of bulls decreases by one each day of the seven-day festiva
 v35: The eighth day is a distinct solemn assembly after the seven-day festival sequence.
 v39: The prescribed communal offerings do not cancel voluntary or vow offerings; ordered worship and free offering coexist.
 
-##Vocabulary
+## Vocabulary
 
 v01: תְּרוּעָה (teruah)
 “Trumpet blast,” “alarm,” or “shout.” The defining sound of the first day of the seventh month.

@@ -54,7 +54,7 @@ v08: The Hebrew location and anatomy are both unusually terse. The violence is n
 v11: Phinehas’ action is interpreted within the narrative as zeal corresponding to the LORD’s zeal. The translation reports that interpretation without making the episode a general authorization of religious violence.
 v12: “covenant of peace” stands in deliberate tension with the violent act that immediately precedes it, a tension the text itself does not resolve.
 
-##Vocabulary
+## Vocabulary
 
 v03: צָמַד (tsamad)
 “To join” or “bind oneself.” Israel attaches itself to Baal of Peor.

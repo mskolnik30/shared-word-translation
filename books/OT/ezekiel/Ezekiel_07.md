@@ -53,14 +53,14 @@ v26: Disaster upon disaster will come, and rumor shall be upon rumor. They will 
 v27: The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will tremble. According to their way, I will deal with them, and by their judgments, I will judge them. Then they shall know that I am the LORD."
 </p>
 ## Notes
-v3: v3 The transition "now the end is upon you," with the use of "now," signals urgency and immediacy in the unveiling of divine judgment.  
-v9: v9 The repetition of the expression "my eye will not spare, nor will I have pity," emphasizes the completeness and rigidity of Yahweh's judgment.  
+v03: v3 The transition "now the end is upon you," with the use of "now," signals urgency and immediacy in the unveiling of divine judgment.  
+v09: v9 The repetition of the expression "my eye will not spare, nor will I have pity," emphasizes the completeness and rigidity of Yahweh's judgment.  
 
-##Vocabulary
+## Vocabulary
 
-v1: v1 דָבָר (da.var) - The word rendered as "word" signifies not only speech but also a communication bearing weight and authority, often associated with divine messages.  
+v01: v1 דָבָר (da.var) - The word rendered as "word" signifies not only speech but also a communication bearing weight and authority, often associated with divine messages.  
 
-v2: v2 קֵץ (qets) - Translated as "end," this term suggests finality and the irreversible conclusion against which the people's iniquity is brought to account.  
+v02: v2 קֵץ (qets) - Translated as "end," this term suggests finality and the irreversible conclusion against which the people's iniquity is brought to account.  
 
 v26: v26 חָזוֹן (cha.zon) - Meaning "vision," this refers to revelation typically received by prophets. The absence of vision indicates a dire spiritual drought.  
 

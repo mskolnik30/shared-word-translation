@@ -63,12 +63,12 @@ v16: They shall hunger no more, neither thirst anymore; the sun shall not strike
 v17: For the Lamb in the midst of the throne will shepherd them and lead them to springs of living water, and God will wipe away every tear from their eyes.”
 </p>
 ## Notes
-v1: The “four corners” expresses totality rather than geography; restraint precedes judgment.
-v2–3: Harm is delayed; sealing marks protection before release.
-v4: The number is heard, not seen, creating distinction from what follows.
-v5–8: The tribal list is structured but not identical to traditional listings, without explanation.
-v9: The multitude is seen, not counted, contrasting with the numbered group.
-v9–10: Scope expands universally without replacing the prior group.
+v01: The “four corners” expresses totality rather than geography; restraint precedes judgment.
+v02–03: Harm is delayed; sealing marks protection before release.
+v04: The number is heard, not seen, creating distinction from what follows.
+v05–08: The tribal list is structured but not identical to traditional listings, without explanation.
+v09: The multitude is seen, not counted, contrasting with the numbered group.
+v09–10: Scope expands universally without replacing the prior group.
 v12: The sevenfold praise accumulates without hierarchy.
 v13–14: Understanding is mediated; John does not interpret independently.
 v14: Washing in blood reverses expected imagery without clarification.
@@ -77,21 +77,21 @@ v16: Absence of suffering is described through negation rather than explanation.
 v17: The Lamb is both shepherd and central figure; roles are combined.
 v17: Restoration is expressed relationally (“wipe away every tear”) rather than abstractly.
 
-##Vocabulary
+## Vocabulary
 
-v1: ἄνεμος (anemos)
+v01: ἄνεμος (anemos)
 
 “Wind.” Often associated with force or judgment, here restrained.
 
-v2: σφραγίς (sphragis)
+v02: σφραγίς (sphragis)
 
 “Seal.” Mark of ownership or protection.
 
-v4: φυλή (phylē)
+v04: φυλή (phylē)
 
 “Tribe.” A group defined by lineage or identity.
 
-v9: ὄχλος (ochlos)
+v09: ὄχλος (ochlos)
 
 “Multitude.” A large crowd, beyond enumeration.
 
@@ -118,11 +118,3 @@ v17: δάκρυον (dakryon)
 
 “Tear.” Expression of suffering, here removed.
 
-v01: ἄνεμος (anemos)
-“Wind.” Often associated with force or judgment, here restrained.
-
-v02: σφραγίς (sphragis)
-“Seal.” Mark of ownership or protection.
-
-v04: φυλή (phylē)
-“Tribe.” A group defined by lineage or identity.

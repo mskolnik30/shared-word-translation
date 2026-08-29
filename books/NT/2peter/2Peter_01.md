@@ -53,11 +53,11 @@ v20: knowing this first of all, that no prophecy of scripture comes from one’s
 v21: For no prophecy was ever borne by the will of a human being, but human beings spoke from God as they were carried along by the Holy Spirit.
 </p>
 ## Notes
-v1: “received a trust equal in honor to ours” — *Pistis* is rendered “trust” in keeping with TSW practice. The equality described is not hierarchical but participatory, grounded “in the righteousness of our God and Savior Jesus Christ.”  
-v1: “our God and Savior Jesus Christ” — The Greek construction links both titles to Jesus Christ. The phrasing is preserved without expansion.  
-v4: “sharers in the divine nature” — A striking phrase. The text speaks of participation without explaining mechanism. The language is retained without theological qualification.  
-v5–7: The virtue sequence — The ordered chain is preserved without smoothing. Each term builds upon the previous, suggesting growth rather than replacement.  
-v9: “blind, being short-sighted” — The paired terms intensify one another. The repetition is retained rather than reduced.  
+v01: “received a trust equal in honor to ours” — *Pistis* is rendered “trust” in keeping with TSW practice. The equality described is not hierarchical but participatory, grounded “in the righteousness of our God and Savior Jesus Christ.”  
+v01: “our God and Savior Jesus Christ” — The Greek construction links both titles to Jesus Christ. The phrasing is preserved without expansion.  
+v04: “sharers in the divine nature” — A striking phrase. The text speaks of participation without explaining mechanism. The language is retained without theological qualification.  
+v05–07: The virtue sequence — The ordered chain is preserved without smoothing. Each term builds upon the previous, suggesting growth rather than replacement.  
+v09: “blind, being short-sighted” — The paired terms intensify one another. The repetition is retained rather than reduced.  
 v10: “confirm your calling and election” — The text exhorts action in relation to divine initiative. The tension between divine election and human diligence is left unresolved.  
 v11: “richly provided… an entrance” — The passive phrasing preserves divine agency in the granting of entrance.  
 v13–14: “this tent” — A metaphor for the body. The imagery is retained without interpretation, echoing transience rather than despair.  
@@ -67,23 +67,23 @@ v20: “no prophecy of scripture comes from one’s own interpretation” — Th
 v20: “no prophecy of scripture comes from one’s own interpretation” — The phrase may refer to the origin of prophecy rather than to private interpretive activity. The syntax remains ambiguous.
 v21: “carried along by the Holy Spirit” — A dynamic image suggesting divine initiative without mechanical dictation. The metaphor is left intact.  
 
-##Vocabulary
+## Vocabulary
 
-v1: πίστις (*pistis*) — trust, faithfulness; relational reliance rather than mere assent.  
+v01: πίστις (*pistis*) — trust, faithfulness; relational reliance rather than mere assent.  
 
-v1: δικαιοσύνη (*dikaiosynē*) — righteousness; covenantal rightness, justice.  
+v01: δικαιοσύνη (*dikaiosynē*) — righteousness; covenantal rightness, justice.  
 
-v4: θείας φύσεως (*theias physeōs*) — divine nature; participation language without explanation of mechanism.  
+v04: θείας φύσεως (*theias physeōs*) — divine nature; participation language without explanation of mechanism.  
 
-v5: ἀρετή (*aretē*) — excellence, virtue; moral strength or noble character.  
+v05: ἀρετή (*aretē*) — excellence, virtue; moral strength or noble character.  
 
-v6: ἐγκράτεια (*enkrateia*) — self-control; disciplined mastery over desire.  
+v06: ἐγκράτεια (*enkrateia*) — self-control; disciplined mastery over desire.  
 
-v6: ὑπομονή (*hypomonē*) — steadfastness; enduring perseverance under pressure.  
+v06: ὑπομονή (*hypomonē*) — steadfastness; enduring perseverance under pressure.  
 
-v7: φιλαδελφία (*philadelphia*) — mutual affection; familial love among siblings.  
+v07: φιλαδελφία (*philadelphia*) — mutual affection; familial love among siblings.  
 
-v7: ἀγάπη (*agapē*) — love; self-giving, covenantal devotion.  
+v07: ἀγάπη (*agapē*) — love; self-giving, covenantal devotion.  
 
 v10: ἐκλογή (*eklogē*) — election; divine choosing.  
 

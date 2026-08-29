@@ -153,10 +153,10 @@ v49: And stretching out his hand toward his disciples, he said, “Here are my m
 v50: For whoever does the will of my Father in heaven is my brother and sister and mother.”
 </p>
 ## Notes
-v3–5: Scriptural precedent reframes law through purpose; exceptions expose underlying priorities.  
-v6: “Greater than the temple” shifts locus of divine presence from place to person.  
-v7: Mercy is not opposed to sacrifice abstractly but prioritized over misapplied judgment.  
-v8: Authority over Sabbath redefines its interpretation, not its existence.  
+v03–05: Scriptural precedent reframes law through purpose; exceptions expose underlying priorities.  
+v06: “Greater than the temple” shifts locus of divine presence from place to person.  
+v07: Mercy is not opposed to sacrifice abstractly but prioritized over misapplied judgment.  
+v08: Authority over Sabbath redefines its interpretation, not its existence.  
 v12: Human value is asserted without dismantling the analogy; reasoning moves from lesser to greater.  
 v14: Opposition escalates from questioning to intent to destroy.  
 v17–21: The servant is characterized by restraint; power is expressed without spectacle.  
@@ -169,15 +169,15 @@ v39–40: The sign of Jonah is temporal and typological; interpretation is requi
 v43–45: Emptiness without transformation invites return; absence of evil is insufficient.  
 v48–50: Kinship is redefined around obedience; relational identity is reconstituted.  
 
-##Vocabulary
+## Vocabulary
 
-v1: σάββατον (*sabbaton*) — “Sabbath.” Time set apart; contested in practice.  
+v01: σάββατον (*sabbaton*) — “Sabbath.” Time set apart; contested in practice.  
 
-v4: ἄρτοι τῆς προθέσεως (*artoi tēs protheseōs*) — “Bread of the Presence.” Cultic bread set before God.  
+v04: ἄρτοι τῆς προθέσεως (*artoi tēs protheseōs*) — “Bread of the Presence.” Cultic bread set before God.  
 
-v7: ἔλεος (*eleos*) — “Mercy.” Active covenant loyalty.  
+v07: ἔλεος (*eleos*) — “Mercy.” Active covenant loyalty.  
 
-v8: κύριος (*kyrios*) — “Lord.” Authority designation; here over Sabbath itself.  
+v08: κύριος (*kyrios*) — “Lord.” Authority designation; here over Sabbath itself.  
 
 v12: καλῶς ποιεῖν (*kalōs poiein*) — “To do good.” Ethical action as lawful fulfillment.  
 

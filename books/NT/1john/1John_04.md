@@ -61,14 +61,14 @@ v20: If someone says, “I love God,” and hates a brother or sister, that pers
 v21: And this commandment we have from God: whoever loves God must also love a brother or sister.
 </p>
 ## Notes
-v1: “test the spirits” — Discernment is required rather than indiscriminate acceptance of spiritual claims. The criterion is whether the spirit is “from God,” language that frames the entire section.  
-v2: “Jesus Christ has come in the flesh” — The perfect form emphasizes an event with continuing significance. The confession joins the identity of Jesus Christ with genuine embodied existence rather than treating the flesh as incidental.  
-v3: “does not confess Jesus” — Some manuscripts expand the wording to repeat more explicitly the confession of Jesus Christ coming in the flesh. The shorter reading reflected in the critical text is retained here.  
-v3: “antichrist” — The term describes opposition to Christ rather than identifying a particular later historical figure. The text speaks both of what was expected to come and what was already present.  
-v4: “have overcome them” — The victory is grounded not in the strength of the community but in the greater one who is in them.  
-v6: “Spirit of truth and the spirit of error” — The contrast summarizes the preceding discernment. “Error” refers to wandering or deception rather than merely an intellectual mistake.  
-v7–8: “God is love” — The statement does not simply say that God acts lovingly. Love is named as characteristic of God’s own reality, while the surrounding verses define that love through God’s action in sending the Son.  
-v9: “the only Son” — The Greek μονογενής (monogenēs) emphasizes the Son’s unique relationship to the Father. The verse presents the sending of the Son as the manifestation of God’s love.  
+v01: “test the spirits” — Discernment is required rather than indiscriminate acceptance of spiritual claims. The criterion is whether the spirit is “from God,” language that frames the entire section.  
+v02: “Jesus Christ has come in the flesh” — The perfect form emphasizes an event with continuing significance. The confession joins the identity of Jesus Christ with genuine embodied existence rather than treating the flesh as incidental.  
+v03: “does not confess Jesus” — Some manuscripts expand the wording to repeat more explicitly the confession of Jesus Christ coming in the flesh. The shorter reading reflected in the critical text is retained here.  
+v03: “antichrist” — The term describes opposition to Christ rather than identifying a particular later historical figure. The text speaks both of what was expected to come and what was already present.  
+v04: “have overcome them” — The victory is grounded not in the strength of the community but in the greater one who is in them.  
+v06: “Spirit of truth and the spirit of error” — The contrast summarizes the preceding discernment. “Error” refers to wandering or deception rather than merely an intellectual mistake.  
+v07–08: “God is love” — The statement does not simply say that God acts lovingly. Love is named as characteristic of God’s own reality, while the surrounding verses define that love through God’s action in sending the Son.  
+v09: “the only Son” — The Greek μονογενής (monogenēs) emphasizes the Son’s unique relationship to the Father. The verse presents the sending of the Son as the manifestation of God’s love.  
 v10: “atoning sacrifice” — The Greek ἱλασμός (hilasmos) has a range of meaning associated with dealing with sin and restoring relationship with God. “Atoning sacrifice” preserves that sacrificial dimension without specifying a single theory of atonement.  
 v12: “No one has ever seen God” — The statement recalls the opening of John’s Gospel. The unseen God becomes known within the community as God’s love reaches its intended fullness in their love for one another.  
 v13: “given us from the Spirit” — The Greek expression speaks of God giving “from” the Spirit. The wording emphasizes participation in the Spirit without defining the manner of that gift.  
@@ -81,27 +81,27 @@ v20: “whom they have seen … whom they have not seen” — The contrast make
 v21: “must also love” — Love of God and love of another are not presented as separate obligations. The commandment joins them together.  
 v03: The shorter reading reflected in the critical text is retained here.
 
-##Vocabulary
+## Vocabulary
 
-v1: δοκιμάζω (dokimazō)  
+v01: δοκιμάζω (dokimazō)  
 “To test” or “to examine.” To discern the character or authenticity of something rather than simply accepting its claim.  
 
-v1: ψευδοπροφήτης (pseudoprophētēs)  
+v01: ψευδοπροφήτης (pseudoprophētēs)  
 “False prophet.” One who claims prophetic authority but does not speak from God.  
 
-v2: ὁμολογέω (homologeō)  
+v02: ὁμολογέω (homologeō)  
 “To confess” or “to acknowledge.” To speak openly in agreement with what is true.  
 
-v3: ἀντίχριστος (antichristos)  
+v03: ἀντίχριστος (antichristos)  
 “Antichrist.” One characterized by opposition to Christ or by a claim that stands against Christ.  
 
-v6: πλάνη (planē)  
+v06: πλάνη (planē)  
 “Error,” “deception,” or “wandering.” A departure from truth that can involve both being deceived and leading others astray.  
 
-v7: ἀγάπη (agapē)  
+v07: ἀγάπη (agapē)  
 “Love.” In this chapter love originates in God and is made known through God’s sending of the Son.  
 
-v9: μονογενής (monogenēs)  
+v09: μονογενής (monogenēs)  
 “Only” or “unique.” Describes the Son’s unique relationship to the Father.  
 
 v10: ἱλασμός (hilasmos)
@@ -131,11 +131,3 @@ v18: κόλασις (kolasis)
 v21: ἐντολή (entolē)  
 “Commandment.” An authoritative instruction; here the command to love God is inseparably joined to love for a brother or sister.  
 
-v01: ψευδοπροφήτης (pseudoprophētēs)
-“False prophet.” One who claims prophetic authority but does not speak from God.
-
-v03: ἀντίχριστος (antichristos)
-“Antichrist.” One characterized by opposition to Christ or by a claim that stands against Christ.
-
-v06: πλάνη (planē)
-“Error,” “deception,” or “wandering.” A departure from truth that can involve both being deceived and leading others astray.

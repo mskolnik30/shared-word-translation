@@ -63,13 +63,13 @@ v20: And every island fled away, and no mountains were to be found.
 v21: And great hailstones, about a talent in weight, fell from heaven on people, and they cursed God for the plague of the hail, because the plague was exceedingly great.
 </p>
 ## Notes
-v1: Command originates from the sanctuary; action proceeds from presence.
-v2: The mark distinguishes recipients; effect is targeted, not universal.
-v3: The sea is transformed fully; life within it is extinguished.
-v4–6: Judgment is interpreted within the vision itself; response affirms justice.
-v6: Reciprocity (“blood for blood”) is stated without mitigation.
-v7: The altar joins the declaration, linking prior sacrifice and present judgment.
-v8–9: Authority over plagues is acknowledged but resisted; no repentance follows.
+v01: Command originates from the sanctuary; action proceeds from presence.
+v02: The mark distinguishes recipients; effect is targeted, not universal.
+v03: The sea is transformed fully; life within it is extinguished.
+v04–06: Judgment is interpreted within the vision itself; response affirms justice.
+v06: Reciprocity (“blood for blood”) is stated without mitigation.
+v07: The altar joins the declaration, linking prior sacrifice and present judgment.
+v08–09: Authority over plagues is acknowledged but resisted; no repentance follows.
 v10–11: Darkness affects the seat of power; response remains unchanged.
 v12: Drying of the river prepares rather than concludes.
 v13–14: Spirits function as agents of gathering, not independent actors.
@@ -81,29 +81,29 @@ v19: Babylon is remembered, not introduced.
 v20: Geography is undone; stability is removed.
 v21: Severity increases; response remains resistance rather than repentance.
 
-##Vocabulary
+## Vocabulary
 
-v1: φιάλη (phialē)
+v01: φιάλη (phialē)
 
 “Bowl.” Vessel for pouring out contents.
 
-v2: ἕλκος (helkos)
+v02: ἕλκος (helkos)
 
 “Sore.” A wound or ulcer, painful and visible.
 
-v3: ψυχή (psychē)
+v03: ψυχή (psychē)
 
 “Living being.” Life principle, here extinguished.
 
-v5: δίκαιος (dikaios)
+v05: δίκαιος (dikaios)
 
 “Just.” In alignment with what is right.
 
-v6: αἷμα (haima)
+v06: αἷμα (haima)
 
 “Blood.” Life poured out, here repaid.
 
-v8: καυματίζω (kaumatizō)
+v08: καυματίζω (kaumatizō)
 
 “To scorch.” Intense burning heat.
 
@@ -126,11 +126,3 @@ v21: τάλαντον (talanton)
 
 “A measure of weight.” Extremely heavy unit.
 
-v01: φιάλη (phialē)
-“Bowl.” Vessel for pouring out contents.
-
-v02: ἕλκος (helkos)
-“Sore.” A wound or ulcer, painful and visible.
-
-v03: ψυχή (psychē)
-“Living being.” Life principle, here extinguished.

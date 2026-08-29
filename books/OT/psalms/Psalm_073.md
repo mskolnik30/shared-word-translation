@@ -50,13 +50,13 @@ v27: Indeed, those who are far from you will perish; you destroy all who are unf
 v28: But as for me, it is good to be near God; I have made the Lord GOD my refuge, that I may tell of all your works.
 </p>
 ## Notes
-v1: "pure in heart" — This phrase indicates those who are sincere and wholehearted in their devotion to God, aligning inner motives with outward actions.  
-v5: "They are not in trouble" — This underscores the perceived ease and stability of the wicked compared to others, contributing to the psalmist’s struggle.  
+v01: "pure in heart" — This phrase indicates those who are sincere and wholehearted in their devotion to God, aligning inner motives with outward actions.  
+v05: "They are not in trouble" — This underscores the perceived ease and stability of the wicked compared to others, contributing to the psalmist’s struggle.  
 v16–17: The sanctuary represents a place of divine revelation and understanding, providing clarity on the fate of the wicked in contrast to their temporary prosperity.  
 
-##Vocabulary
+## Vocabulary
 
-v1: אֱלֹהִים (e.lo.him) — Referring to God, emphasizing the divine nature and relationship with the people of Israel.  
+v01: אֱלֹהִים (e.lo.him) — Referring to God, emphasizing the divine nature and relationship with the people of Israel.  
 
 v24: כָּבוֹד (ka.vod) — Here used in the sense of honor or glory, describing the outcome of divine guidance and care leading to honor.  
 

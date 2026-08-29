@@ -26,9 +26,9 @@ v04: Our soul has had more than enough
 of the scorn of those who are at ease,
 of the contempt of the proud.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v03: חָנַן (chanan)
 “Be gracious,” to show favor freely toward one who is dependent or in need.

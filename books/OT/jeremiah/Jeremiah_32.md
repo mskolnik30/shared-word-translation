@@ -123,7 +123,7 @@ v35: The LORD explicitly denies commanding child sacrifice and says it did not e
 v39–40: Future faithfulness is described through divine transformation of the heart, fear, and covenant, not merely external return to land.
 v41: The LORD is unusually described as planting the people “with all my heart and with all my life,” applying whole-person covenant language to divine commitment.
 
-##Vocabulary
+## Vocabulary
 
 v07: גְּאֻלָּה (ge'ullah)
 “Redemption right.” The kinship right or responsibility to reclaim family property.

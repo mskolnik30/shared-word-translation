@@ -113,7 +113,7 @@ v27: The siege threat is expressed with deliberately degrading bodily language t
 v31–32: Assyria presents exile as a pleasant relocation, promising each person an equivalent land. The rhetoric conceals the coercion of deportation.
 v33–35: The theological challenge reaches its climax by treating the LORD as one more defeated territorial god. Chapter 19 answers this claim.
 
-##Vocabulary
+## Vocabulary
 
 v04: נְחֻשְׁתָּן (Nehushtan)
 “Nehushtan.” The contemptuous name given to the bronze serpent.

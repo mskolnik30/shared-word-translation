@@ -121,9 +121,9 @@ v45: If then David calls him Lord, how is he his son?”
 v46: And no one was able to answer him a word, nor from that day did anyone dare to ask him any more questions.
 </p>
 ## Notes
-v3–6: Refusal escalates from indifference to violence; rejection intensifies.  
-v7: Judgment framed as response to mistreatment of the king’s representatives.  
-v9–10: Invitation expands beyond original recipients; inclusion widens indiscriminately.  
+v03–06: Refusal escalates from indifference to violence; rejection intensifies.  
+v07: Judgment framed as response to mistreatment of the king’s representatives.  
+v09–10: Invitation expands beyond original recipients; inclusion widens indiscriminately.  
 v11–13: Presence alone is insufficient; appropriate response (“garment”) required.  
 v14: Calling is broad; choosing involves discernment or response.  
 v17: Question designed as political trap—either disloyalty or compromise.  
@@ -135,11 +135,11 @@ v37–40: Love functions as interpretive center of the law.
 v41–45: Messiah exceeds simple lineage categories; identity is expanded.  
 v46: Silence indicates argumentative closure, not agreement.  
 
-##Vocabulary
+## Vocabulary
 
-v2: γάμος (*gamos*) — “Wedding feast.” Celebration marking covenant union.  
+v02: γάμος (*gamos*) — “Wedding feast.” Celebration marking covenant union.  
 
-v5: ἀμελήσαντες (*amelēsantes*) — “Paid no attention.” Neglected or disregarded.  
+v05: ἀμελήσαντες (*amelēsantes*) — “Paid no attention.” Neglected or disregarded.  
 
 v11: ἔνδυμα γάμου (endyma gamou)
 “Wedding garment.” Appropriate attire/response.

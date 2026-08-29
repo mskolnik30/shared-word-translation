@@ -37,9 +37,9 @@ whatever passes along the paths of the seas.
 v09: O LORD, our Lord,
 how majestic is your name in all the earth!
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: יְהוָה (YHWH)
 “LORD.” The divine name, represented in English by small-capital LORD.

@@ -139,7 +139,7 @@ v36–37: Some Hebrew manuscript traditions omit these verses, while ancient ver
 v36–37: Some Hebrew manuscript traditions omit these verses, while ancient versions and many textual traditions include the Reubenite cities. The verses are retained in the standard public numbering.
 v43–45: The chapter closes with a strong fulfillment summary. Later narratives still describe remaining peoples and conflicts, so “all the land” functions as covenantal fulfillment language rather than a denial of every unfinished local struggle.
 
-##Vocabulary
+## Vocabulary
 
 v02: מִגְרָשׁ (migrash)
 “Pastureland.” Open land surrounding a city for livestock and related use.

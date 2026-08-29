@@ -58,15 +58,15 @@ v20: I have given him the land of Egypt as his payment for which he labored, bec
 v21: On that day I will cause a horn to sprout for the house of Israel, and I will give you the opening of the mouth among them. Then they will know that I am the LORD."
 </p>
 ## Notes
-v1: - **v1**: The phrase "the word of Yahweh" indicates divine communication to the prophet, a recurring formula in prophetic literature.  
-v3–5: - **v3-5**: Pharaoh is likened to a great dragon (or sea monster), symbolizing Egypt's power and self-assertion; the imagery of hooks and fish signifies control and defeat.  
-v6–7: - **v6-7**: Egypt, as "a staff of reed," suggests instability and unreliability, a metaphor for their support of Israel, which ultimately fails.  
+v01: - **v1**: The phrase "the word of Yahweh" indicates divine communication to the prophet, a recurring formula in prophetic literature.  
+v03–05: - **v3-5**: Pharaoh is likened to a great dragon (or sea monster), symbolizing Egypt's power and self-assertion; the imagery of hooks and fish signifies control and defeat.  
+v06–07: - **v6-7**: Egypt, as "a staff of reed," suggests instability and unreliability, a metaphor for their support of Israel, which ultimately fails.  
 v10–12: - **v10-12**: The desolation of Egypt for forty years parallels other prophetic time spans symbolizing complete cycles of judgment and renewal.  
 v18: - **v18**: Highlights the exertion of Babylon's army and stresses the lack of reward from the siege of Tyre, contrasting with what Yahweh will provide.  
 
-##Vocabulary
+## Vocabulary
 
-v1: - **v1 דָּבָר (da.var)**: Translated as "word," refers to Yahweh's communication, highlighting divine authority in prophetic messages.  
+v01: - **v1 דָּבָר (da.var)**: Translated as "word," refers to Yahweh's communication, highlighting divine authority in prophetic messages.  
 
 v10: - **v10 חׇרְבָּה (chor.bah)**: Rendered "desolation," indicating a complete devastation, a common consequence in judgment oracles.  
 
@@ -78,7 +78,7 @@ v16: - **v16 מִבְטָח (miv.tach)**: Meaning "confidence," in this context 
 v16: מִבְטָח (mivtach)
 “Confidence; object of trust.” Here it describes Israel’s misplaced reliance on Egypt.
 
-v2: - **v18 נָבִיא (na.vi)**: "Prophet," a standard title for God's spokesperson, emphasizing the role of conveying divine messages.  
+v02: - **v18 נָבִיא (na.vi)**: "Prophet," a standard title for God's spokesperson, emphasizing the role of conveying divine messages.  
 
 v01: דָּבָר (davar)
 “Word; matter.” In the prophetic formula it denotes the word that comes from the LORD.

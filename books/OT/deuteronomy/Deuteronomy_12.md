@@ -110,7 +110,7 @@ v20–22: Meat may be eaten locally when the chosen sanctuary is far away. Deute
 v31: Child sacrifice is named as a detestable practice that must not be imitated in worship of the LORD.
 v32: The chapter closes by repeating the prohibition against adding to or subtracting from the command.
 
-##Vocabulary
+## Vocabulary
 
 v02: אָבַד (avad)
 “To destroy.” Used of eliminating rival cult sites.

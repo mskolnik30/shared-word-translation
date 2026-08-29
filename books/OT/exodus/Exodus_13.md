@@ -75,7 +75,7 @@ v17: God’s route is intentionally indirect. The nearer road is rejected becaus
 v18: “Sea of Reeds” translates Hebrew *yam suf*. The traditional “Red Sea” remains familiar, but the Hebrew expression itself refers to reeds.
 v19: Carrying Joseph’s bones fulfills the oath from Genesis and makes the exodus an act of continuity with the ancestral promises.
 
-##Vocabulary
+## Vocabulary
 
 v02: קַדֵּשׁ (qaddesh)
 “Consecrate.” To set apart as belonging to the LORD.

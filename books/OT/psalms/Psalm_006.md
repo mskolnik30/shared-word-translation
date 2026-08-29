@@ -48,61 +48,50 @@ v10: All my enemies shall be ashamed and greatly troubled;
 they shall turn back and be put to shame in a moment.
 </p>
 ## Notes
-v1–2: The psalm distinguishes between discipline and destructive wrath.  
-v2–3: Physical and internal distress are intertwined (bones, soul).  
-v3: The unresolved “how long?” marks the depth of suffering.  
-v4–5: Appeal is grounded in God’s steadfast love, not worthiness.  
-v5: Praise is tied to life—death is framed as silence.  
-v6–7: Grief is expressed in embodied, repetitive imagery.  
-v8–9: The turning point—confidence emerges through being heard.  
+v01–02: The psalm distinguishes between discipline and destructive wrath.  
+v02–03: Physical and internal distress are intertwined (bones, soul).  
+v03: The unresolved “how long?” marks the depth of suffering.  
+v04–05: Appeal is grounded in God’s steadfast love, not worthiness.  
+v05: Praise is tied to life—death is framed as silence.  
+v06–07: Grief is expressed in embodied, repetitive imagery.  
+v08–09: The turning point—confidence emerges through being heard.  
 v10: Enemies’ reversal mirrors the psalmist’s earlier distress.  
 
-##Vocabulary
+## Vocabulary
 
-v1: יָכַח (yakach)  
+v01: יָכַח (yakach)  
 “To rebuke.” Correct or confront.  
 
-v1: יָסַר (yasar)  
+v01: יָסַר (yasar)  
 “To discipline.” Instruct through correction.  
 
-v2: חָנַן (chanan)  
+v02: חָנַן (chanan)  
 “To be gracious.” Show favor.  
 
-v2: רָפָא (rapha)  
+v02: רָפָא (rapha)  
 “To heal.” Restore.  
 
-v3: בָּהַל (bahal)  
+v03: בָּהַל (bahal)  
 “To be troubled.” Terrified or disturbed.  
 
-v4: שׁוּב (shuv)  
+v04: שׁוּב (shuv)  
 “To turn.” Return.  
 
-v4: חָלַץ (chalats)  
+v04: חָלַץ (chalats)  
 “To deliver.” Rescue.  
 
-v5: שְׁאוֹל (sheol)  
+v05: שְׁאוֹל (sheol)  
 “Grave.” Realm of the dead.  
 
-v6: יָגַע (yaga)  
+v06: יָגַע (yaga)  
 “To be weary.” Exhausted.  
 
-v8: פָּעַל (pa‘al)  
+v08: פָּעַל (pa‘al)  
 “To work.” Act or do.  
 
-v9: תְּחִנָּה (techinnah)  
+v09: תְּחִנָּה (techinnah)  
 “Plea.” Supplication.  
 
 v10: בּוֹשׁ (bosh)  
 “To be ashamed.” Disgraced.  
 
-v01: יָכַח (yakach)
-“To rebuke.” Correct or confront.
-
-v01: יָסַר (yasar)
-“To discipline.” Instruct through correction.
-
-v02: חָנַן (chanan)
-“To be gracious.” Show favor.
-
-v05: שְׁאוֹל (sheol)
-“Grave.” Realm of the dead.

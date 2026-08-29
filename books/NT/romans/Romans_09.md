@@ -135,9 +135,9 @@ v33: just as it is written,
 and the one who believes in him will not be put to shame.”
 </p>
 ## Notes
-v1–3: Paul expresses covenantal anguish for Israel.
-v4–5: Israel’s privileges highlight theological tension.
-v6–8: True Israel is defined by promise, not descent.
+v01–03: Paul expresses covenantal anguish for Israel.
+v04–05: Israel’s privileges highlight theological tension.
+v06–08: True Israel is defined by promise, not descent.
 v11–13: Election is grounded in divine purpose, not works.
 v14–18: Mercy and hardening both fall under divine sovereignty.
 v19–21: Creator–creature distinction limits human objection.
@@ -145,25 +145,25 @@ v22–24: Wrath and mercy serve revelatory purposes.
 v25–29: Prophets anticipate Gentile inclusion and remnant salvation.
 v30–33: Faith, not works, determines righteousness.
 
-##Vocabulary
+## Vocabulary
 
-v1: συνείδησις (syneidēsis)
+v01: συνείδησις (syneidēsis)
 
 “Conscience.”
 
-v3: ἀνάθεμα (anathema)
+v03: ἀνάθεμα (anathema)
 
 “Accursed.”
 
-v4: υἱοθεσία (huiothesia)
+v04: υἱοθεσία (huiothesia)
 
 “Adoption.”
 
-v6: ἐκπίπτω (ekpiptō)
+v06: ἐκπίπτω (ekpiptō)
 
 “To fail.”
 
-v8: ἐπαγγελία (epangelia)
+v08: ἐπαγγελία (epangelia)
 
 “Promise.”
 
@@ -213,8 +213,3 @@ v33: λίθος (lithos)
 
 “Stone.”
 
-v01: συνείδησις (syneidēsis)
-“Conscience.”
-
-v03: ἀνάθεμα (anathema)
-“Accursed.”

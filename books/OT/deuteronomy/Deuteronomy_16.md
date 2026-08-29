@@ -85,7 +85,7 @@ v18–20: The chapter moves from worship festivals to judicial institutions, lin
 v20: “Justice, justice” is emphatic repetition. The community’s continued life in the land is tied to pursuing justice.
 v21–22: The prohibition prevents the LORD’s altar from being combined with cultic symbols associated with other worship.
 
-##Vocabulary
+## Vocabulary
 
 v01: פֶּסַח (pesach)
 “Passover.” The festival remembering deliverance from Egypt.

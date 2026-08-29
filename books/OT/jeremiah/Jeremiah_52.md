@@ -128,7 +128,7 @@ v20: The received Hebrew text associates the twelve bronze bulls with the stands
 v28–30: The deportation figures differ from totals reported elsewhere in Kings. They may count different groups or use different chronological systems. TSW retains Jeremiah’s figures.
 v31–34: Jeremiah ends not with Jerusalem restored but with Jehoiachin released, honored, and sustained at the Babylonian court. The modest change leaves the Davidic line alive within exile without resolving Israel’s larger loss.
 
-##Vocabulary
+## Vocabulary
 
 v04: דָּיֵק (dayeq)
 “Siegework” or “siege wall.” A military structure built around a fortified city.

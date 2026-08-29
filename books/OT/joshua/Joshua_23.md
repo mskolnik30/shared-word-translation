@@ -60,7 +60,7 @@ v10: Military success is attributed to the LORD’s active fighting for Israel r
 v14–15: Joshua interprets both promised good and warned judgment through the reliability of the LORD’s word. Covenant warning is grounded in the same faithfulness as covenant promise.
 v16: The chapter closes with the possibility of losing the good land that has been given, showing that possession is covenantal rather than merely geographic.
 
-##Vocabulary
+## Vocabulary
 
 v04: נָחַל (nachal)
 “To allot as inheritance.” Joshua assigns remaining territories to the tribes.

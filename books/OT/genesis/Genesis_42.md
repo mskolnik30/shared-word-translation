@@ -74,10 +74,10 @@ v37: Then Reuben said to his father, “You may put my two sons to death if I do
 v38: But he said, “My son shall not go down with you, for his brother is dead, and he alone is left. If harm should befall him on the journey that you are to make, then you would bring down my gray hair in sorrow to Sheol.”
 </p>
 ## Notes
-v1–5: The famine that Joseph predicted now reaches Canaan, drawing his brothers toward Egypt.  
-v6: Joseph's brothers bow before him, fulfilling the dreams that seemed impossible years earlier.  
-v7–9: Joseph immediately recognizes his brothers, but they do not recognize him because of time, language, clothing, and status.  
-v9: Joseph's remembrance of the dreams connects the present events directly to God's earlier revelation.  
+v01–05: The famine that Joseph predicted now reaches Canaan, drawing his brothers toward Egypt.  
+v06: Joseph's brothers bow before him, fulfilling the dreams that seemed impossible years earlier.  
+v07–09: Joseph immediately recognizes his brothers, but they do not recognize him because of time, language, clothing, and status.  
+v09: Joseph's remembrance of the dreams connects the present events directly to God's earlier revelation.  
 v14–20: Joseph's accusations and tests are not simple revenge. The narrative gradually reveals his desire to discern the condition of his brothers.  
 v18: Joseph identifies himself as one who fears God, providing the first indication that his actions are governed by more than political authority.  
 v21–22: The brothers interpret their troubles through the lens of their guilt concerning Joseph.  
@@ -88,18 +88,18 @@ v28: The brothers begin to recognize God's hand at work in events they cannot ex
 v36: Jacob interprets events through loss and grief, unable yet to see the larger purpose unfolding.  
 v38: Benjamin occupies the place of special concern once held by Joseph, reflecting Jacob's continuing sorrow.  
 
-##Vocabulary
+## Vocabulary
 
-v2: שֶׁבֶר (šeḇer)  
+v02: שֶׁבֶר (šeḇer)  
 “Grain” or “food supply.” Often associated with provisions purchased during famine.  
 
-v6: שָׁחָה (šāḥâ)  
+v06: שָׁחָה (šāḥâ)  
 “To bow down.” An act of submission, respect, or homage.  
 
-v7: נָכַר (nāḵar)  
+v07: נָכַר (nāḵar)  
 “To recognize.” A key verb in the Joseph narrative involving identity and concealment.  
 
-v9: חֲלוֹם (ḥălôm)  
+v09: חֲלוֹם (ḥălôm)  
 “Dream.” A divinely significant vision whose fulfillment shapes the narrative.  
 
 v12: עֶרְוָה (ʿerwâ)  
@@ -126,11 +126,3 @@ v28: חָרַד (ḥāraḏ)
 v38: שְׁאוֹל (Šĕʾôl)
 “Sheol.” The realm of the dead, often associated with mourning and mortality.
 
-v02: שֶׁבֶר (šeḇer)
-“Grain” or “food supply.” Often associated with provisions purchased during famine.
-
-v06: שָׁחָה (šāḥâ)
-“To bow down.” An act of submission, respect, or homage.
-
-v07: נָכַר (nāḵar)
-“To recognize.” A key verb in the Joseph narrative involving identity and concealment.

@@ -90,7 +90,7 @@ v17: Saul’s own servants refuse to kill the priests, drawing a moral boundary 
 v18–19: The slaughter of priests and the entire city of Nob is among Saul’s darkest acts. TSW preserves the severity without softening it.
 v22: David accepts a degree of responsibility because he knew Doeg had seen him and anticipated that Doeg might report him.
 
-##Vocabulary
+## Vocabulary
 
 v02: מַר־נֶפֶשׁ (mar-nefesh)
 “Bitter in spirit.” Deeply distressed.

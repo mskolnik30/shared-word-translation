@@ -41,11 +41,11 @@ so that I may give thanks to your name.
 The righteous will gather around me
 because you deal bountifully with me.
 </p>
-##Notes
+## Notes
 
 Superscription: “Maskil” is a literary or musical designation of uncertain meaning.
 
-##Vocabulary
+## Vocabulary
 
 v05: חֵלֶק (cheleq)
 “Portion,” one’s allotted share or sustaining possession. God is named as the speaker’s true portion while still “in the land of the living.”

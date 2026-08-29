@@ -101,8 +101,8 @@ v30: But he said, ‘No, father Abraham, but if someone goes to them from the de
 v31: But he said to him, ‘If they do not hear Moses and the Prophets, neither will they be persuaded if someone rises from the dead.’”
 </p>
 ## Notes
-v1–8: The steward is commended for shrewdness, not dishonesty; foresight is the focus.
-v9: “Wealth of unrighteousness” is to be redirected toward eternal ends.
+v01–08: The steward is commended for shrewdness, not dishonesty; foresight is the focus.
+v09: “Wealth of unrighteousness” is to be redirected toward eternal ends.
 v10–12: Faithfulness in small matters reveals character for greater trust.
 v13: Divided allegiance is impossible; loyalty is exclusive.
 v14–15: External justification contrasts with divine knowledge of the heart.
@@ -116,21 +116,21 @@ v26: Separation is fixed and irreversible.
 v29: Scripture is sufficient witness.
 v31: Refusal to hear Scripture anticipates refusal to believe resurrection.
 
-##Vocabulary
+## Vocabulary
 
-v1: οἰκονόμος (oikonomos)
+v01: οἰκονόμος (oikonomos)
 
 “Steward.”
 
-v3: αἰσχύνομαι (aischynomai)
+v03: αἰσχύνομαι (aischynomai)
 
 “To be ashamed.”
 
-v8: φρόνιμος (phronimos)
+v08: φρόνιμος (phronimos)
 
 “Shrewd, prudent.”
 
-v9: μαμωνᾶς (mamōnas)
+v09: μαμωνᾶς (mamōnas)
 
 “Wealth, money.”
 

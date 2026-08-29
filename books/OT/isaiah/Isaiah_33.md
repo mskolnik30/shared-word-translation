@@ -56,32 +56,24 @@ v24: The inhabitant will not say, "I am sick." The people who dwell in it will b
 </p>
 ## Notes
 v17: The chapter moves from present threat to a vision of the king in beauty and a secure Zion, holding crisis and future hope in one horizon.  
-v8: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
-v5: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v3: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+v08: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
+v05: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v03: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
-##Vocabulary
+## Vocabulary
 
-v8: בְּרִית (berit)  
+v08: בְּרִית (berit)  
 “Covenant.” A binding relationship shaped by promise and obligation.  
 
-v5: צִיּוֹן (tsiyyon)  
+v05: צִיּוֹן (tsiyyon)  
 “Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
-v5: מִשְׁפָּט (mishpat)  
+v05: מִשְׁפָּט (mishpat)  
 “Justice” or “judgment.” Right judgment and right communal ordering.  
 
-v3: גּוֹיִם (goyim)  
+v03: גּוֹיִם (goyim)  
 “Nations” or “peoples.” Peoples beyond Israel.  
-
-v08: בְּרִית (berit)
-“Covenant.” A binding relationship shaped by promise and obligation.
 
 v05: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v05: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.
-
-v03: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.

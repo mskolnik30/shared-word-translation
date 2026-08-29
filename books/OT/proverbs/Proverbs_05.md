@@ -124,11 +124,11 @@ and because of their great folly
 they wander away.
 </p>
 ## Notes
-v3: “strange woman” — The Hebrew does not primarily identify ethnicity. In Proverbs the expression describes a woman outside the proper covenantal and marital relationship.  
-v3–4: The movement from honey and oil to wormwood and sword contrasts immediate attraction with eventual consequence.  
-v5: “Sheol” — The Hebrew term for the realm of the dead is retained rather than replaced with later theological language.  
-v6: “her ways wander” — The Hebrew can suggest instability or wandering. The woman who diverts another from the path of life is herself described as moving without a stable path.  
-v9–14: The warning includes social, economic, bodily, and communal consequences. Sexual unfaithfulness is not treated as a private act isolated from the rest of life.  
+v03: “strange woman” — The Hebrew does not primarily identify ethnicity. In Proverbs the expression describes a woman outside the proper covenantal and marital relationship.  
+v03–04: The movement from honey and oil to wormwood and sword contrasts immediate attraction with eventual consequence.  
+v05: “Sheol” — The Hebrew term for the realm of the dead is retained rather than replaced with later theological language.  
+v06: “her ways wander” — The Hebrew can suggest instability or wandering. The woman who diverts another from the path of life is herself described as moving without a stable path.  
+v09–14: The warning includes social, economic, bodily, and communal consequences. Sexual unfaithfulness is not treated as a private act isolated from the rest of life.  
 v14: “assembly and congregation” — Shame reaches the public community. The two Hebrew terms overlap and intensify the social setting.  
 v15–18: Water imagery becomes an extended metaphor for marital sexuality. What belongs within the covenant of marriage is pictured as a private source of life and delight.  
 v16: The Hebrew may be read either as a statement or as a rhetorical question. TSW reads it as a question within the argument that the intimate “waters” of marriage should not be dispersed outside the covenant.  
@@ -137,21 +137,21 @@ v19: The erotic language is explicit and positive within the marriage relationsh
 v21: Human behavior that may appear hidden is nevertheless fully visible to the LORD.  
 v22: Sin becomes its own restraint. The wrongdoer is pictured as tied by cords created from their own conduct.  
 
-##Vocabulary
+## Vocabulary
 
-v1: חָכְמָה (chokmah)  
+v01: חָכְמָה (chokmah)  
 “Wisdom.” Skill in discerning and living faithfully.  
 
-v2: מְזִמָּה (mezimmah)  
+v02: מְזִמָּה (mezimmah)  
 “Discretion” or “purposeful planning.” The capacity to consider consequences and choose wisely.  
 
-v3: זָרָה (zarah)  
+v03: זָרָה (zarah)  
 “Strange” or “foreign.” Here a woman outside a proper marital relationship.  
 
-v4: לַעֲנָה (la'anah)  
+v04: לַעֲנָה (la'anah)  
 “Wormwood.” A plant known for intense bitterness, used figuratively for painful consequences.  
 
-v5: שְׁאוֹל (Sheol)  
+v05: שְׁאוֹל (Sheol)  
 “Sheol.” The realm of the dead in Hebrew poetic and wisdom language.  
 
 v15: בּוֹר (bor)  
@@ -169,11 +169,3 @@ v21: פָּלַס (palas)
 v22: עָוֹן (avon)
 “Iniquity,” “wrong,” or “guilt.” Wrongdoing that can also carry its own consequence.
 
-v01: חָכְמָה (chokmah)
-“Wisdom.” Skill in discerning and living faithfully.
-
-v02: מְזִמָּה (mezimmah)
-“Discretion” or “purposeful planning.” The capacity to consider consequences and choose wisely.
-
-v05: שְׁאוֹל (Sheol)
-“Sheol.” The realm of the dead in Hebrew poetic and wisdom language.

@@ -141,7 +141,7 @@ v31–39: Barzillai’s loyalty is rewarded, but he declines palace life because
 v35: Barzillai’s remarks about taste, music, and discernment are a sober description of aging rather than contempt for old age.
 v41–43: David’s restoration immediately reopens tribal rivalry. Judah’s special role in escorting the king becomes an insult to northern Israel and prepares directly for Sheba’s rebellion in chapter 20.
 
-##Vocabulary
+## Vocabulary
 
 v02: תְּשׁוּעָה (teshuah)
 “Victory” or “deliverance.” The army’s success becomes mourning.

@@ -61,7 +61,7 @@ v09–21: The chapter moves from prohibitions stated in chapter 18 to specified 
 v24–26: Israel’s separation from the nations is paired with the command to distinguish clean from unclean and culminates in belonging to the LORD.
 v27: The chapter ends where v06 began, with the prohibition of mediums and spiritists, forming a frame around the holiness and penalty material.
 
-##Vocabulary
+## Vocabulary
 
 v03: חִלֵּל (chillel)
 “To profane.” To treat what is holy as common or defiled.

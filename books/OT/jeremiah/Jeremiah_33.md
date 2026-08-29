@@ -114,7 +114,7 @@ v17–18: Davidic kingship and Levitical priesthood are set together as enduring
 v20–26: The regularity of day, night, heaven, and earth becomes the analogy for divine covenant faithfulness.
 v14–26: These verses are absent from the ancient Greek form of Jeremiah, which is substantially shorter than the Masoretic form. TSW follows the Masoretic Text as its primary source and notes the significant textual difference.
 
-##Vocabulary
+## Vocabulary
 
 v03: בְּצֻרוֹת (betsurot)
 “Inaccessible,” “fortified,” or “hidden things.” Things beyond ordinary access or knowledge.

@@ -75,11 +75,11 @@ v19: holding faith and a good conscience. By rejecting this, some have suffered 
 v20: among whom are Hymenaeus and Alexander, whom I have handed over to Satan so that they may be taught not to blaspheme.
 </p>
 ## Notes
-v3–4: False teaching is characterized by deviation (“different doctrine”) and distraction (“myths…genealogies”).  
-v5: The aim of instruction is relational and ethical—love grounded in inner integrity.  
-v6–7: Misuse of the law arises from lack of understanding combined with confidence.  
-v8–9: The law is affirmed as good but limited in function.  
-v9–10: The list reflects behaviors contrary to ordered life, not an exhaustive catalog.  
+v03–04: False teaching is characterized by deviation (“different doctrine”) and distraction (“myths…genealogies”).  
+v05: The aim of instruction is relational and ethical—love grounded in inner integrity.  
+v06–07: Misuse of the law arises from lack of understanding combined with confidence.  
+v08–09: The law is affirmed as good but limited in function.  
+v09–10: The list reflects behaviors contrary to ordered life, not an exhaustive catalog.  
 v11: The good news frames the law, not the reverse.  
 v12–13: Paul’s past is acknowledged fully. Mercy is grounded in ignorance, not innocence.  
 v14: Grace is described as overflowing, paired with faith and love.  
@@ -88,27 +88,27 @@ v16: Paul’s life functions as an example of divine patience.
 v18–19: Faith and conscience are linked. Their rejection results in collapse (“shipwreck”).  
 v20: Discipline is severe but corrective in aim (“that they may be taught”).  
 
-##Vocabulary
+## Vocabulary
 
-v3: ἑτεροδιδασκαλέω (heterodidaskaleō)  
+v03: ἑτεροδιδασκαλέω (heterodidaskaleō)  
 
-v3: “To teach differently.” To deviate from accepted teaching.  
+v03: “To teach differently.” To deviate from accepted teaching.  
 
-v4: μῦθος (mythos)  
+v04: μῦθος (mythos)  
 
-v4: “Myth.” Narrative lacking grounding in truth.  
+v04: “Myth.” Narrative lacking grounding in truth.  
 
-v5: συνείδησις (syneidēsis)  
+v05: συνείδησις (syneidēsis)  
 
-v5: “Conscience.” Inner awareness of right and wrong.  
+v05: “Conscience.” Inner awareness of right and wrong.  
 
-v6: ματαιολογία (mataiologia)  
+v06: ματαιολογία (mataiologia)  
 
-v6: “Empty talk.” Meaningless speech.  
+v06: “Empty talk.” Meaningless speech.  
 
-v8: νόμιμος (nomimos)  
+v08: νόμιμος (nomimos)  
 
-v8: “Lawful.” Properly used.  
+v08: “Lawful.” Properly used.  
 
 v18: παρατίθημι (paratithēmi)  
 

@@ -78,11 +78,11 @@ v29: Saul was still more afraid of David. So Saul was David’s enemy continuall
 v30: Then the commanders of the Philistines came out to battle, and as often as they came out David had more success than all the servants of Saul, so that his name was highly esteemed.
 </p>
 ## Notes
-v1–3: The binding of Jonathan’s soul to David is stated without explanation or qualification. The text presents this attachment as immediate, mutual, and covenantal, holding together affection, loyalty, and formal commitment.  
-v4: Jonathan’s giving of robe, armor, and weapons is not symbolic decoration alone. The sequence suggests transfer of status and identity, placing David within a role Jonathan himself could claim.  
-v5: David’s success is framed both administratively (“set him over the men of war”) and communally (“good in the eyes of all”). Favor operates across political and popular spheres simultaneously.  
-v7: The women’s song introduces comparison without commentary. The text does not correct or endorse the numbers; its force lies in the public shaping of reputation.  
-v8–9: Saul’s response turns perception into threat. The question “what more can he have but the kingdom?” reveals a logic that moves from praise to fear without intermediate evidence.  
+v01–03: The binding of Jonathan’s soul to David is stated without explanation or qualification. The text presents this attachment as immediate, mutual, and covenantal, holding together affection, loyalty, and formal commitment.  
+v04: Jonathan’s giving of robe, armor, and weapons is not symbolic decoration alone. The sequence suggests transfer of status and identity, placing David within a role Jonathan himself could claim.  
+v05: David’s success is framed both administratively (“set him over the men of war”) and communally (“good in the eyes of all”). Favor operates across political and popular spheres simultaneously.  
+v07: The women’s song introduces comparison without commentary. The text does not correct or endorse the numbers; its force lies in the public shaping of reputation.  
+v08–09: Saul’s response turns perception into threat. The question “what more can he have but the kingdom?” reveals a logic that moves from praise to fear without intermediate evidence.  
 v10–11: The harmful spirit and Saul’s violent action are presented in sequence without psychological explanation. David’s music, previously calming, no longer stabilizes the situation.  
 v12: The contrast is explicit: the LORD is with David and has departed from Saul. The narrative locates the shift in divine presence rather than human strategy.  
 v13–16: Saul’s attempt to manage David by promotion increases David’s visibility instead. The repeated pattern—David acts, succeeds, and is seen—intensifies both public favor and royal fear.  
@@ -94,18 +94,18 @@ v27: David exceeds the requirement without commentary. The narrative records the
 v28–29: Knowledge (“Saul saw and knew”) intensifies fear rather than clarifying action. Recognition of divine favor does not lead to repentance but to settled enmity.  
 v30: The chapter closes with repetition of success and reputation. David’s name rises in parallel with Saul’s opposition, leaving the tension unresolved.  
 
-##Vocabulary
+## Vocabulary
 
-v1: נֶפֶשׁ (nephesh)  
+v01: נֶפֶשׁ (nephesh)  
 “Soul,” “life,” or “self.” The term denotes the whole person, not an abstract inner element. The binding of souls signals total personal attachment.  
 
-v3: בְּרִית (berit)  
+v03: בְּרִית (berit)  
 “Covenant.” A formalized relationship marked by obligation and loyalty. Its use here frames Jonathan and David’s bond in public, enduring terms.  
 
-v5: שָׂכַל (sakal)  
+v05: שָׂכַל (sakal)  
 “To act wisely,” “to succeed.” The term joins discernment and effectiveness, indicating success that is both practical and perceptive.  
 
-v9: עָוַן / שָׁעָה (contextual watching)  
+v09: עָוַן / שָׁעָה (contextual watching)  
 “Kept his eye on.” The expression suggests sustained, watchful attention shaped by suspicion rather than neutral observation.  
 
 v10: רוּחַ רָעָה (ruach ra‘ah)
@@ -135,11 +135,3 @@ v29: “Enemy.” The designation becomes continuous (“continually”), markin
 v30: שֵׁם (shem)  
 “Name.” Signifies reputation and standing. David’s “name” becoming esteemed reflects public recognition rather than private identity.  
 
-v01: נֶפֶשׁ (nephesh)
-“Soul,” “life,” or “self.” The term denotes the whole person, not an abstract inner element. The binding of souls signals total personal attachment.
-
-v03: בְּרִית (berit)
-“Covenant.” A formalized relationship marked by obligation and loyalty. Its use here frames Jonathan and David’s bond in public, enduring terms.
-
-v05: שָׂכַל (sakal)
-“To act wisely,” “to succeed.” The term joins discernment and effectiveness, indicating success that is both practical and perceptive.

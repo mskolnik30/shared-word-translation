@@ -143,7 +143,7 @@ v14–16: Eliphaz argues from universal human impurity to Job’s guilt. His cla
 v17–19: Eliphaz appeals again to traditional wisdom passed down through an uncontaminated ancestral line.
 v20–35: The speech gives an extended portrait of the wicked person living in fear and ending in ruin. Its implied application to Job is challenged by the book’s prologue and by Job’s observations of prosperous wrongdoers.
 
-##Vocabulary
+## Vocabulary
 
 v02: רוּחַ (ruach)
 “Wind,” “spirit,” or “breath.” Eliphaz compares Job’s knowledge to empty wind.

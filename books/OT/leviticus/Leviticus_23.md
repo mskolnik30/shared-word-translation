@@ -102,7 +102,7 @@ v22: The harvest calendar pauses to repeat the gleaning command, joining worship
 v24: The Hebrew speaks of a “memorial of trumpet blast,” without specifying in this verse the later name by which the day became known.
 v40: Several plant identifications are uncertain. The ritual action and rejoicing are clearer than the precise botanical species.
 
-##Vocabulary
+## Vocabulary
 
 v02: מוֹעֵד (mo'ed)
 “Appointed time.” A set time for sacred assembly or observance.

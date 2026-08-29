@@ -72,9 +72,9 @@ remember how the foolish reproach you all day.
 v23: Do not forget the voice of your adversaries,
 the clamor of those rising against you, which ascends continually.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v02: נַחֲלָה (nachalah)
 “Inheritance; possession.” Here the term refers to the people claimed as God’s possession.

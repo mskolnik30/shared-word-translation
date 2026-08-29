@@ -75,7 +75,7 @@ v16: “the River” refers to the Euphrates. Hadadezer draws Aramean forces fro
 v18: The Masoretic Text reads seven hundred chariot units and forty thousand horsemen. 1 Chronicles 19:18 has seven thousand charioteers and forty thousand foot soldiers. TSW preserves Samuel’s text and notes the parallel difference.
 v19: David’s victory changes the regional alliance system: kings formerly subordinate to Hadadezer make peace with Israel.
 
-##Vocabulary
+## Vocabulary
 
 v02: נָחַם (nacham)
 “To comfort.” David sends envoys after Nahash’s death.

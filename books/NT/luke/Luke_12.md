@@ -197,11 +197,11 @@ v58: For as you go with your accuser to the magistrate, make an effort to settle
 v59: I tell you, you will certainly not come out from there until you have paid the last coin.”
 </p>
 ## Notes
-v1: Hypocrisy is described as “leaven,” indicating hidden but pervasive influence.
-v2–3: Revelation reverses secrecy; hidden speech becomes public exposure.
-v4–5: Fear is redirected from human threat to divine authority.
-v6–7: Divine care is detailed and personal, grounding the command not to fear.
-v8–9: Public acknowledgment carries eschatological consequence.
+v01: Hypocrisy is described as “leaven,” indicating hidden but pervasive influence.
+v02–03: Revelation reverses secrecy; hidden speech becomes public exposure.
+v04–05: Fear is redirected from human threat to divine authority.
+v06–07: Divine care is detailed and personal, grounding the command not to fear.
+v08–09: Public acknowledgment carries eschatological consequence.
 v10: Distinction is made between speaking against the Son of Man and blaspheming the Spirit.
 v11–12: The Spirit provides speech under pressure, not pre-scripted defense.
 v15: Life is explicitly detached from possession.
@@ -218,21 +218,21 @@ v51–53: Division is presented as a consequence of allegiance, not its goal.
 v56: Failure to interpret the present moment is called hypocrisy.
 v57–59: Urgency in reconciliation reflects impending judgment.
 
-##Vocabulary
+## Vocabulary
 
-v1: ζύμη (zymē)
+v01: ζύμη (zymē)
 
 “Leaven.”
 
-v1: ὑπόκρισις (hypokrisis)
+v01: ὑπόκρισις (hypokrisis)
 
 “Hypocrisy.”
 
-v5: γέεννα (Gehenna)
+v05: γέεννα (Gehenna)
 
 “Gehenna.”
 
-v8: ὁμολογέω (homologeō)
+v08: ὁμολογέω (homologeō)
 
 “To confess, acknowledge.”
 
@@ -299,14 +299,3 @@ v59: λεπτόν (lepton)
 
 “Small coin.”
 
-v01: ζύμη (zymē)
-“Leaven.”
-
-v01: ὑπόκρισις (hypokrisis)
-“Hypocrisy.”
-
-v05: γέεννα (Gehenna)
-“Gehenna.”
-
-v08: ὁμολογέω (homologeō)
-“To confess, acknowledge.”

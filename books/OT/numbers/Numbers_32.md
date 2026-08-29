@@ -91,7 +91,7 @@ v23: “your sin will find you” personifies wrongdoing as something that event
 v33: The half-tribe of Manasseh appears in the final territorial grant although the initial request is made by Reuben and Gad.
 v38: The note that names were changed is retained without reconstructing all earlier cultic associations or identifying which new names replaced them.
 
-##Vocabulary
+## Vocabulary
 
 v01: מִקְנֶה (miqneh)
 “Livestock” or “property in animals.” Herd wealth central to the tribes’ request.

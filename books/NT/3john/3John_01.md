@@ -51,54 +51,54 @@ v14: I hope to see you soon, and we will speak face to face.
 v15: Peace be to you. The friends greet you. Greet the friends, each by name.
 </p>
 ## Notes
-v1: “The elder” is not further identified; authority is assumed.  
-v1: Love is qualified (“in truth”), not generalized.  
-v2: Physical and spiritual well-being are held together.  
-v3–4: Joy is tied to observed conduct, not abstract belief.  
-v5: Faithfulness is demonstrated through action toward others.  
-v6: Hospitality is framed as participation in divine purpose.  
-v7: “The Name” is used without explicit identification.  
-v8: Support creates shared involvement, not passive agreement.  
-v9: Opposition is internal rather than external.  
+v01: “The elder” is not further identified; authority is assumed.  
+v01: Love is qualified (“in truth”), not generalized.  
+v02: Physical and spiritual well-being are held together.  
+v03–04: Joy is tied to observed conduct, not abstract belief.  
+v05: Faithfulness is demonstrated through action toward others.  
+v06: Hospitality is framed as participation in divine purpose.  
+v07: “The Name” is used without explicit identification.  
+v08: Support creates shared involvement, not passive agreement.  
+v09: Opposition is internal rather than external.  
 v10: Speech and action are linked; resistance is active.  
 v11: Imitation is moral and relational, not theoretical.  
 v12: Testimony is cumulative and affirmed.  
 v13–14: Written communication is secondary to presence.  
 v15: Naming is personal; relationship is specific.  
 
-##Vocabulary
+## Vocabulary
 
-v1: πρεσβύτερος (presbyteros)  
+v01: πρεσβύτερος (presbyteros)  
 
-v1: “Elder.” One with recognized authority.  
+v01: “Elder.” One with recognized authority.  
 
-v1: ἀλήθεια (alētheia)  
+v01: ἀλήθεια (alētheia)  
 
-v1: “Truth.” Reality expressed and lived.  
+v01: “Truth.” Reality expressed and lived.  
 
-v3: μαρτυρέω (martyreō)  
+v03: μαρτυρέω (martyreō)  
 
-v3: “To testify.” To bear witness.  
+v03: “To testify.” To bear witness.  
 
-v5: πιστός (pistos)  
+v05: πιστός (pistos)  
 
-v5: “Faithful.” Reliable in action.  
+v05: “Faithful.” Reliable in action.  
 
-v6: προπέμπω (propempō)  
+v06: προπέμπω (propempō)  
 
-v6: “To send on a journey.” To support and equip.  
+v06: “To send on a journey.” To support and equip.  
 
-v7: ὄνομα (onoma)  
+v07: ὄνομα (onoma)  
 
-v7: “Name.” Identity or authority.  
+v07: “Name.” Identity or authority.  
 
-v8: συνεργός (synergos)  
+v08: συνεργός (synergos)  
 
-v8: “Fellow worker.” One who shares in the work.  
+v08: “Fellow worker.” One who shares in the work.  
 
-v9: φιλοπρωτεύω (philoprōteuō)  
+v09: φιλοπρωτεύω (philoprōteuō)  
 
-v9: “To love to be first.” Desire for preeminence.  
+v09: “To love to be first.” Desire for preeminence.  
 
 v10: φλυαρέω (phlyareō)  
 

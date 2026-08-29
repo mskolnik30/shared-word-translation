@@ -147,8 +147,8 @@ v46: For if you believed Moses, you would believe me, for he wrote about me.
 v47: But if you do not believe his writings, how will you believe my words?”
 </p>
 ## Notes
-v6: Healing begins with a question of desire, not merely condition.
-v8–9: Command precedes ability; obedience enables restoration.
+v06: Healing begins with a question of desire, not merely condition.
+v08–09: Command precedes ability; obedience enables restoration.
 v10–16: Sabbath controversy shifts focus from healing to regulation.
 v17–18: Jesus’ work parallels the Father’s, implying divine status.
 v19–20: The Son’s activity is fully aligned with the Father’s will.
@@ -163,21 +163,21 @@ v41–44: Desire for human glory obstructs belief.
 v45–47: Moses is reframed as witness against unbelief.
 v04: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add an explanation about an angel stirring the water. Public verse numbering is retained.
 
-##Vocabulary
+## Vocabulary
 
-v2: στοά (stoa)
+v02: στοά (stoa)
 
 “Portico.”
 
-v5: ἀσθένεια (astheneia)
+v05: ἀσθένεια (astheneia)
 
 “Weakness, illness.”
 
-v6: ὑγιής (hygiēs)
+v06: ὑγιής (hygiēs)
 
 “Well, whole.”
 
-v8: κράβαττος (krabattos)
+v08: κράβαττος (krabattos)
 
 “Mat.”
 
@@ -231,11 +231,3 @@ v46: γράφω (graphō)
 
 “To write.”
 
-v02: στοά (stoa)
-“Portico.”
-
-v05: ἀσθένεια (astheneia)
-“Weakness, illness.”
-
-v06: ὑγιής (hygiēs)
-“Well, whole.”

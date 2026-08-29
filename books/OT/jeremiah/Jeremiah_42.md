@@ -72,7 +72,7 @@ v11–12: The people’s fear of Babylon is directly addressed with the assuranc
 v14: Egypt is imagined as a place without war, alarm, or hunger. The oracle declares that the very dangers they seek to escape will follow them there.
 v20: The Hebrew phrase is difficult and can be understood as deceiving themselves or erring at the cost of their lives. TSW preserves both the self-deception and its mortal consequence.
 
-##Vocabulary
+## Vocabulary
 
 v02: תְּחִנָּה (techinnah)
 “Plea” or “supplication.” A humble request brought before another.

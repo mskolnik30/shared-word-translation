@@ -91,55 +91,55 @@ v15: As for me, I shall behold your face in righteousness;
 when I awake, I shall be satisfied with your likeness.
 </p>
 ## Notes
-v1–2: The appeal rests on integrity; “just cause” frames the prayer as a legal plea before God.
-v3: Testing imagery (trial, night visitation) presents examined character rather than claimed innocence.
-v4: “Word of your lips” functions as guard—divine speech shapes ethical restraint.
-v5: Stability language (held fast, not slipped) mirrors covenantal fidelity.
-v7: “Steadfast love” (ḥesed) appears as active rescue; God’s right hand signals power and protection.
-v8: Dual imagery—eye and wings—combines intimacy and shelter.
+v01–02: The appeal rests on integrity; “just cause” frames the prayer as a legal plea before God.
+v03: Testing imagery (trial, night visitation) presents examined character rather than claimed innocence.
+v04: “Word of your lips” functions as guard—divine speech shapes ethical restraint.
+v05: Stability language (held fast, not slipped) mirrors covenantal fidelity.
+v07: “Steadfast love” (ḥesed) appears as active rescue; God’s right hand signals power and protection.
+v08: Dual imagery—eye and wings—combines intimacy and shelter.
 v10–12: The enemy is characterized by hardness, arrogance, and predatory intent; lion imagery intensifies threat.
 v13–14: Judgment is requested as divine intervention; contrast emerges between those satisfied in this life and the speaker.
 v15: Final hope is not material but relational—seeing God’s face and bearing likeness.
 
-##Vocabulary
+## Vocabulary
 
-v1: צֶדֶק (ṣedeq)  
+v01: צֶדֶק (ṣedeq)  
 
 “Righteousness/justice.” Conformity to right order.
 
-v1: רִנָּה (rinnāh)  
+v01: רִנָּה (rinnāh)  
 
 “Cry.” A ringing plea or shout.
 
-v2: מִשְׁפָּט (mišpāṭ)  
+v02: מִשְׁפָּט (mišpāṭ)  
 
 “Judgment.” Legal decision or vindication.
 
-v3: בָּחַן (bāḥan)  
+v03: בָּחַן (bāḥan)  
 
 “To test.” To examine for integrity.
 
-v3: פָּקַד (pāqaḏ)  
+v03: פָּקַד (pāqaḏ)  
 
 “To visit.” To attend, often for inspection.
 
-v4: פָּרִיץ (pārîṣ)  
+v04: פָּרִיץ (pārîṣ)  
 
 “Violent.” One who breaks through or oppresses.
 
-v5: תָּמַךְ (tāmaḵ)  
+v05: תָּמַךְ (tāmaḵ)  
 
 “To hold fast.” To support, sustain.
 
-v7: חֶסֶד (ḥeseḏ)  
+v07: חֶסֶד (ḥeseḏ)  
 
 “Steadfast love.” Loyal, covenantal love.
 
-v8: אִישׁוֹן (ʾîšôn)  
+v08: אִישׁוֹן (ʾîšôn)  
 
 “Pupil (of the eye).” Center of sight, object of care.
 
-v8: צֵל (ṣēl)  
+v08: צֵל (ṣēl)  
 
 “Shadow.” Protective covering.
 
@@ -163,14 +163,3 @@ v15: תְּמוּנָה (tĕmûnāh)
 
 “Likeness.” Form, visible representation.
 
-v01: צֶדֶק (ṣedeq)
-“Righteousness/justice.” Conformity to right order.
-
-v01: רִנָּה (rinnāh)
-“Cry.” A ringing plea or shout.
-
-v02: מִשְׁפָּט (mišpāṭ)
-“Judgment.” Legal decision or vindication.
-
-v07: חֶסֶד (ḥeseḏ)
-“Steadfast love.” Loyal, covenantal love.

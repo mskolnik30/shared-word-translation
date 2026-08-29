@@ -72,7 +72,7 @@ v03: Chronicles reads oxen beneath the rim where 1 Kings 7:24 reads gourds. This
 v05: Chronicles gives the Sea a capacity of 3,000 baths, while 1 Kings 7:26 gives 2,000. TSW preserves Chronicles’ figure.
 v11–18: The chapter emphasizes the abundance and craftsmanship of the bronze work.
 
-##Vocabulary
+## Vocabulary
 
 v02: יָם (yam)
 “Sea.” The great bronze basin.

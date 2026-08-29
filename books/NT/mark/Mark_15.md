@@ -133,9 +133,9 @@ v46: And buying a linen cloth, taking him down, he wrapped him in the linen clot
 v47: And Mary Magdalene and Mary the mother of Joses were watching where he was laid.
 </p>
 ## Notes
-v1: Jesus is handed from religious authority to imperial authority; responsibility is shared without being flattened.
-v2: “You say so” is neither simple denial nor ordinary confession.
-v5: Jesus’ silence continues the passion pattern of restraint before accusation.
+v01: Jesus is handed from religious authority to imperial authority; responsibility is shared without being flattened.
+v02: “You say so” is neither simple denial nor ordinary confession.
+v05: Jesus’ silence continues the passion pattern of restraint before accusation.
 v10–15: Pilate recognizes envy yet acts to satisfy the crowd, exposing political cowardice.
 v17–20: Mock kingship ironically speaks the truth it intends to ridicule.
 v21: Simon is compelled into the way of the cross without prior explanation.
@@ -149,25 +149,25 @@ v43: Joseph’s courage contrasts with the fear and flight surrounding Jesus’ 
 v47: The burial location is witnessed, preparing for the resurrection narrative.
 v28: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add a fulfillment statement citing Isaiah 53:12. Public verse numbering is retained.
 
-##Vocabulary
+## Vocabulary
 
-v1: συμβούλιον (symboulion)
+v01: συμβούλιον (symboulion)
 
 “Council, plan.” Deliberation toward action, often hostile in Mark.
 
-v1: Πιλᾶτος (Pilatos)
+v01: Πιλᾶτος (Pilatos)
 
 “Pilate.” Roman governor representing imperial authority.
 
-v2: βασιλεὺς τῶν Ἰουδαίων (basileus tōn Ioudaiōn)
+v02: βασιλεὺς τῶν Ἰουδαίων (basileus tōn Ioudaiōn)
 
 “King of the Jews.” Political title used in accusation and mockery.
 
-v5: θαυμάζω (thaumazō)
+v05: θαυμάζω (thaumazō)
 
 “To marvel, be amazed.” Pilate’s response to Jesus’ silence.
 
-v7: στάσις (stasis)
+v07: στάσις (stasis)
 
 “Uprising, revolt.” Political disturbance or rebellion.
 
@@ -235,17 +235,3 @@ v46: μνημεῖον (mnēmeion)
 
 “Tomb.” Burial place, often cut from rock.
 
-v01: συμβούλιον (symboulion)
-“Council, plan.” Deliberation toward action, often hostile in Mark.
-
-v01: Πιλᾶτος (Pilatos)
-“Pilate.” Roman governor representing imperial authority.
-
-v02: βασιλεὺς τῶν Ἰουδαίων (basileus tōn Ioudaiōn)
-“King of the Jews.” Political title used in accusation and mockery.
-
-v05: θαυμάζω (thaumazō)
-“To marvel, be amazed.” Pilate’s response to Jesus’ silence.
-
-v07: στάσις (stasis)
-“Uprising, revolt.” Political disturbance or rebellion.

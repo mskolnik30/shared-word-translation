@@ -54,13 +54,13 @@ v06–07: Exaltation and judgment come from God alone, defying human expectation
 v08: The imagery of the cup signifies God's judgment. The robust mixed wine symbolizes the intensity of divine retribution, which the wicked must fully drink.
 v09–10: The psalmist's declaration of praise juxtaposes the fate of the wicked and the righteous, affirming God's ultimate justice.
 
-##Vocabulary
+## Vocabulary
 
-v3: מוֹעֵד (mo.ed) - Meaning appointed time or season, signifying a predetermined moment for God's fair judgment.  
+v03: מוֹעֵד (mo.ed) - Meaning appointed time or season, signifying a predetermined moment for God's fair judgment.  
 
-v8: שֹׁפֵט (sho.phet) - Functions as a title for God, affirming God's role as the ultimate judge who decides the fate of individuals.  
+v08: שֹׁפֵט (sho.phet) - Functions as a title for God, affirming God's role as the ultimate judge who decides the fate of individuals.  
 
-v9: כוֹס (kos) - The cup represents God's judgment, a metaphoric vehicle for divine retribution against the wicked.  
+v09: כוֹס (kos) - The cup represents God's judgment, a metaphoric vehicle for divine retribution against the wicked.  
 
 v02: מוֹעֵד (moed)
 “Appointed time.” A fixed or designated time.

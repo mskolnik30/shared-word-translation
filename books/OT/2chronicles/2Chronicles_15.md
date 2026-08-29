@@ -67,7 +67,7 @@ v13: The death penalty belongs to the ancient covenant-renewal setting and is no
 v16: “Horrid image” translates a rare and strongly negative term associated with Maacah’s Asherah object.
 v17: This verse helps qualify 14:5: Asa removed high places in Judah, but high places remained more broadly in Israel.
 
-##Vocabulary
+## Vocabulary
 
 v01: רוּחַ אֱלֹהִים (ruach Elohim)
 “Spirit of God.”

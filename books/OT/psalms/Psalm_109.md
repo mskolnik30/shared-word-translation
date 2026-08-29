@@ -99,7 +99,7 @@ v06: The word rendered “accuser” is שָׂטָן (satan), a common noun here
 v06–20: The psalm shifts into an extended singular curse. The translation preserves its severity and does not soften or moralize the petition.
 v31: The final line answers v6 structurally: where an accuser stands at the right hand of the condemned, the LORD stands at the right hand of the needy to save.
 
-##Vocabulary
+## Vocabulary
 
 v06: שָׂטָן (satan)
 “Adversary” or “accuser.” The term can describe a human or heavenly opponent depending on context.

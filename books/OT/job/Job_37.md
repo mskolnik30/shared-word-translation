@@ -114,7 +114,7 @@ v18: The skies are compared with a polished metal mirror, reflecting an ancient 
 v23: The final clause is textually difficult. TSW follows the sense that the Almighty does not violate justice by oppressive affliction, consistent with Elihu’s argument.
 v24: Elihu closes by contrasting fear of God with wisdom “in one’s own heart,” returning to the book’s concern with the limits of human self-certainty.
 
-##Vocabulary
+## Vocabulary
 
 v02: רֹגֶז (rogez)
 “Rumbling,” “roar,” or “agitation.” Used of the sound of divine thunder.

@@ -125,11 +125,11 @@ To draw near in order to listen is better
 than for fools to offer sacrifice,
 for they do not know that they are doing evil.
 </p>
-##Notes
+## Notes
 
 v17: In many English Bibles this verse is numbered Ecclesiastes 5:1, following a different chapter division. The Hebrew chapter numbering places it here.
 
-##Vocabulary
+## Vocabulary
 
 v01: מְנַחֵם (menaḥem)
 “comforter.” The word is repeated for the oppressed, marking both their need and the painful absence of anyone to stand with them.

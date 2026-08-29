@@ -90,7 +90,7 @@ v14: “eat the salt of the palace” is an idiom of dependence or loyalty to th
 v15: The letter is politically strategic: Jerusalem’s earlier independence and rebellions are selected as evidence that rebuilding threatens Persian revenue and control.
 v23: “force and power” makes clear that opposition escalates beyond administrative correspondence into coercive intervention.
 
-##Vocabulary
+## Vocabulary
 
 v01: צָרֵי (tsarei)
 “Adversaries.” Those opposing Judah and Benjamin.

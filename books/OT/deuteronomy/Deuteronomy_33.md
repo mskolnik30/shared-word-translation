@@ -268,7 +268,7 @@ v27: “dwelling place” can also mean refuge. The image of everlasting arms un
 v28: “fountain of Jacob” may refer to Jacob’s offspring as a source or to Israel dwelling apart. TSW preserves the compressed poetic syntax.
 v29: The blessing ends with the LORD as shield and sword, making Israel’s safety depend upon divine deliverance rather than military self-sufficiency.
 
-##Vocabulary
+## Vocabulary
 
 v01: אִישׁ הָאֱלֹהִים (ish ha-Elohim)
 “Man of God.” A title for Moses.

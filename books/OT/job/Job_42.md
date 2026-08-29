@@ -61,7 +61,7 @@ v13: Job receives again seven sons and three daughters rather than double the nu
 v15: Job’s daughters receive inheritance “among their brothers,” an unusual and notable provision in the ancient setting.
 v17: “full of days” is a traditional expression for a life reaching mature completion. The book closes with Job’s mortality, not escape from human creatureliness.
 
-##Vocabulary
+## Vocabulary
 
 v02: מְזִמָּה (mezimmah)
 “Purpose” or “plan.” Job acknowledges that God’s purpose cannot be withheld.

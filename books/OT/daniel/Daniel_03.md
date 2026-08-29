@@ -102,7 +102,7 @@ v29: Nebuchadnezzar responds to miraculous deliverance with another coercive imp
 v23: The Greek form of Daniel inserts the Prayer of Azariah and Song of the Three Young Men between verses 23 and 24. These additions are not part of the Masoretic/Aramaic form and therefore are not placed in the TSW main text.
 v23: The Greek form of Daniel inserts the Prayer of Azariah and Song of the Three Young Men between verses 23 and 24. These additions are not part of the Masoretic/Aramaic form.
 
-##Vocabulary
+## Vocabulary
 
 v01: צְלֵם (tselem)
 “Image” or “statue.” The gold object erected by Nebuchadnezzar.

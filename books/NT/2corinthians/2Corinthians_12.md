@@ -59,15 +59,15 @@ v20: For I fear that perhaps when I come I may find you not as I wish, and that 
 v21: I fear that when I come again my God may humble me before you, and I may mourn over many of those who have sinned before and have not repented of the impurity and sexual immorality and sensuality that they have practiced.
 </p>
 ## Notes
-v1: “Necessary to boast” frames the section with tension. Paul continues a mode he has already undermined.  
-v2–4: The account is distanced (“a man in Christ”), preserving both truth and restraint. Experience is affirmed without full explanation.  
-v2–3: The repeated uncertainty (“whether in the body…God knows”) preserves ambiguity rather than resolving it.  
-v4: “Inexpressible words” are heard but not transmitted. Revelation is limited in its communicability.  
-v5–6: Boasting is redirected. Truth is not denied, but its use is constrained.  
-v7: The “thorn” is unnamed. Its function (preventing exaltation) is emphasized over its identity.  
-v7: Repetition (“so that I might not be exalted beyond measure”) underscores purpose.  
-v8–9: Prayer is answered not by removal but by reinterpretation. Grace reframes weakness.  
-v9: “Power is brought to completion in weakness” inverts expected associations between strength and success.  
+v01: “Necessary to boast” frames the section with tension. Paul continues a mode he has already undermined.  
+v02–04: The account is distanced (“a man in Christ”), preserving both truth and restraint. Experience is affirmed without full explanation.  
+v02–03: The repeated uncertainty (“whether in the body…God knows”) preserves ambiguity rather than resolving it.  
+v04: “Inexpressible words” are heard but not transmitted. Revelation is limited in its communicability.  
+v05–06: Boasting is redirected. Truth is not denied, but its use is constrained.  
+v07: The “thorn” is unnamed. Its function (preventing exaltation) is emphasized over its identity.  
+v07: Repetition (“so that I might not be exalted beyond measure”) underscores purpose.  
+v08–09: Prayer is answered not by removal but by reinterpretation. Grace reframes weakness.  
+v09: “Power is brought to completion in weakness” inverts expected associations between strength and success.  
 v10: Weakness becomes the condition for participation in Christ’s power.  
 v11: Paul names the irony of his position. The Corinthians’ failure to commend him forces his self-defense.  
 v12: Apostolic authenticity is grounded in endurance as well as signs.  
@@ -79,42 +79,42 @@ v19: Defense is reframed as speech before God, oriented toward the community’s
 v20–21: Anticipation of conflict and sin shapes Paul’s concern. The list of vices is communal, not merely individual.  
 v21: Mourning replaces triumph. Failure to repent remains unresolved at the chapter’s end.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ὀπτασία (optasia)  
+v01: ὀπτασία (optasia)  
 “Vision.” A supernatural sight or appearance.  
 
-v1: ἀποκάλυψις (apokalypsis)  
+v01: ἀποκάλυψις (apokalypsis)  
 “Revelation.” Disclosure of what is hidden.  
 
-v2: ἁρπάζω (harpazō)  
+v02: ἁρπάζω (harpazō)  
 “To be caught up.” Sudden or forceful taking.  
 
-v2: τρίτος οὐρανός (tritos ouranos)  
+v02: τρίτος οὐρανός (tritos ouranos)  
 “Third heaven.” A layered conception of heaven.  
 
-v4: παράδεισος (paradeisos)  
+v04: παράδεισος (paradeisos)  
 “Paradise.” A place of divine presence or blessedness.  
 
-v5: καυχάομαι (kauchaomai)  
+v05: καυχάομαι (kauchaomai)  
 “To boast.” To speak with confidence or pride.  
 
-v7: σκόλοψ (skolops)  
+v07: σκόλοψ (skolops)  
 “Thorn.” A sharp object causing ongoing distress.  
 
-v7: ἄγγελος Σατανᾶ (angelos Satana)  
+v07: ἄγγελος Σατανᾶ (angelos Satana)  
 “Messenger of Satan.” An agent of affliction.  
 
-v8: παρακαλέω (parakaleō)  
+v08: παρακαλέω (parakaleō)  
 “To plead” or “to appeal.”  
 
-v9: χάρις (charis)  
+v09: χάρις (charis)  
 “Grace.” Unmerited favor or sustaining gift.  
 
-v9: δύναμις (dynamis)  
+v09: δύναμις (dynamis)  
 “Power.” Often divine effectiveness.  
 
-v9: τελέω (teleō)  
+v09: τελέω (teleō)  
 “To bring to completion.” To reach intended end.  
 
 v10: ἀσθένεια (astheneia)  
@@ -139,14 +139,3 @@ v20: ζῆλος (zēlos)
 v21: μετάνοια (metanoia)  
 “Repentance.” A change of mind and direction.  
 
-v01: ὀπτασία (optasia)
-“Vision.” A supernatural sight or appearance.
-
-v01: ἀποκάλυψις (apokalypsis)
-“Revelation.” Disclosure of what is hidden.
-
-v02: ἁρπάζω (harpazō)
-“To be caught up.” Sudden or forceful taking.
-
-v09: χάρις (charis)
-“Grace.” Unmerited favor or sustaining gift.

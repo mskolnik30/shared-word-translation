@@ -113,8 +113,8 @@ v33: After this, Jeroboam did not turn from his evil way. Again he made from all
 v34: This matter became sin for the house of Jeroboam, leading to its destruction and removal from the face of the earth.
 </p>
 ## Notes
-v2–33: - **v2 — “Josiah by name”:** The oracle names a future Davidic king long before the narrative introduces him. The named future judgment gives the altar at Bethel—and the worship it represents—a horizon beyond Jeroboam’s present reign.  
-v3–5: - **v3, v5 — “sign”:** The altar’s immediate rupture confirms the spoken word. The sign does not merely display power; it embodies the announced judgment upon the altar.  
+v02–33: - **v2 — “Josiah by name”:** The oracle names a future Davidic king long before the narrative introduces him. The named future judgment gives the altar at Bethel—and the worship it represents—a horizon beyond Jeroboam’s present reign.  
+v03–05: - **v3, v5 — “sign”:** The altar’s immediate rupture confirms the spoken word. The sign does not merely display power; it embodies the announced judgment upon the altar.  
 v18: - **v18 — “But he lied to him”:** The narrative states the old prophet’s deception plainly. The man of God faces competing claims made “by the word of the LORD,” yet the chapter does not soften the seriousness of departing from the command he had received.  
 v21: “Rebelled against the command” is literally “rebelled against the mouth of the LORD.”
 v21: The expression translated “rebelled against the command” is literally “rebelled against the mouth of the LORD,” presenting the divine command as spoken authority to be heeded.
@@ -123,13 +123,13 @@ v31–32: The old prophet asks for his bones to be laid beside the man of God wh
 v33: - **v33 — “ordained”:** Literally, Jeroboam “filled the hand” of anyone who wished, an idiom for installing someone in priestly office. The verse stresses the indiscriminate character of his appointments.  
 v33: “ordained”: Literally, Jeroboam “filled the hand” of anyone who wished, an idiom for installing someone in priestly office.
 
-##Vocabulary
+## Vocabulary
 
-v1–2: - **v1 — אִישׁ־אֱלֹהִים (*’ish-’elohim*), “man of God”:** This designation frames the unnamed messenger as one sent under God’s authority. It recurs through the chapter, even after his disobedience and death.  
+v01–02: - **v1 — אִישׁ־אֱלֹהִים (*’ish-’elohim*), “man of God”:** This designation frames the unnamed messenger as one sent under God’s authority. It recurs through the chapter, even after his disobedience and death.  
 
-v2: - **v2 — בָּמָה (*bamah*), “high place”:** Here the term refers to elevated or local worship sites associated with unauthorized priesthood and sacrifice. The altar at Bethel becomes a focal point of judgment against this worship.  
+v02: - **v2 — בָּמָה (*bamah*), “high place”:** Here the term refers to elevated or local worship sites associated with unauthorized priesthood and sacrifice. The altar at Bethel becomes a focal point of judgment against this worship.  
 
-v3: - **v3 — מוֹפֵת (*mophet*), “sign”:** A confirming, portentous act that makes the LORD’s word publicly visible. The torn altar and spilled ashes are the sign given in this passage.  
+v03: - **v3 — מוֹפֵת (*mophet*), “sign”:** A confirming, portentous act that makes the LORD’s word publicly visible. The torn altar and spilled ashes are the sign given in this passage.  
 
 v18: כָּחַשׁ (kachash)
 “lie.” The narrator’s direct verdict on the old prophet’s claim of angelic revelation. It exposes the conflict between his words and the command previously given to the man of God.

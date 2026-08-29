@@ -107,7 +107,7 @@ v24: “the River” is explicitly identified as the Euphrates. The territorial 
 v26–29: Blessing and curse are not abstract concepts but covenant paths embodied geographically on Gerizim and Ebal.
 v30: The precise ancient locations of Gilgal and the “oaks of Moreh” in relation to the mountains have been debated. TSW preserves the received geographic wording.
 
-##Vocabulary
+## Vocabulary
 
 v01: מִשְׁמֶרֶת (mishmeret)
 “Charge” or “obligation.” What has been entrusted to be kept.

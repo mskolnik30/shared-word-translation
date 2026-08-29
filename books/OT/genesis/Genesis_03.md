@@ -91,12 +91,12 @@ v23: therefore the LORD God sent the human out from the garden of Eden, to till 
 v24: God drove out the human; and at the east of the garden of Eden God placed the cherubim, and a flaming sword that turned every way, to guard the way to the tree of life.
 </p>
 ## Notes
-v1: The serpent is described as crafty, not evil. The text offers no origin story or moral explanation, allowing ambiguity about motive and role.  
-v3: The prohibition is expanded in the woman’s speech (“nor shall you touch it”). The text does not explain why, preserving tension around memory, interpretation, and fear.  
-v6: Desire, perception, and wisdom are named together. The human pair act in shared presence; responsibility is not isolated to one alone.  
-v7: Awareness follows eating, but shame is learned rather than imposed. Covering is self-made, not commanded.  
-v8: God is portrayed as present and moving within the garden. Hiding marks a relational rupture rather than mere rule-breaking.  
-v9: “Where are you?” is a relational question, not a request for information. God’s first word is address, not accusation.  
+v01: The serpent is described as crafty, not evil. The text offers no origin story or moral explanation, allowing ambiguity about motive and role.  
+v03: The prohibition is expanded in the woman’s speech (“nor shall you touch it”). The text does not explain why, preserving tension around memory, interpretation, and fear.  
+v06: Desire, perception, and wisdom are named together. The human pair act in shared presence; responsibility is not isolated to one alone.  
+v07: Awareness follows eating, but shame is learned rather than imposed. Covering is self-made, not commanded.  
+v08: God is portrayed as present and moving within the garden. Hiding marks a relational rupture rather than mere rule-breaking.  
+v09: “Where are you?” is a relational question, not a request for information. God’s first word is address, not accusation.  
 v12–13: Blame moves outward—from self to other to circumstance. The text narrates this movement without comment.  
 v14–19: The words spoken are consequences, not explanations. Each address names a fractured relationship: creature and creature, human and human, human and ground.  
 v15: Enmity is named without resolution. The verse is left open-ended, resisting later theological closure.  
@@ -105,25 +105,25 @@ v21: God clothes the human pair. Care is shown without undoing consequence.
 v22: The divine speech acknowledges expanded knowledge while limiting immortality. The tension between likeness to God and creaturely boundary is preserved.  
 v23–24: Expulsion is paired with protection. The way to life is guarded, not destroyed, leaving the story open rather than finished.  
 
-##Vocabulary
+## Vocabulary
 
-v1: עָרוּם (‘ārûm) — crafty; shrewd; subtle  
+v01: עָרוּם (‘ārûm) — crafty; shrewd; subtle  
 
-v1: נָחָשׁ (nāḥāsh) — serpent  
+v01: נָחָשׁ (nāḥāsh) — serpent  
 
-v5: יָדַע (yāda‘) — know; discern; come to awareness  
+v05: יָדַע (yāda‘) — know; discern; come to awareness  
 
-v6: תַּאֲוָה (ta’avāh) — desire; longing  
+v06: תַּאֲוָה (ta’avāh) — desire; longing  
 
-v6: חָכַם (ḥākam) — be wise; gain insight  
+v06: חָכַם (ḥākam) — be wise; gain insight  
 
-v7: עֵירֹם (‘ērōm) — naked; exposed  
+v07: עֵירֹם (‘ērōm) — naked; exposed  
 
-v7: בּוֹשׁ (bôsh) — be ashamed  
+v07: בּוֹשׁ (bôsh) — be ashamed  
 
-v8: הָלַךְ (hālak) — walk; move about  
+v08: הָלַךְ (hālak) — walk; move about  
 
-v9: אַיֶּכָּה (’ayyekkāh) — where are you?  
+v09: אַיֶּכָּה (’ayyekkāh) — where are you?  
 
 v12: נָתַן (nātan) — give; hand over  
 

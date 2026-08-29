@@ -95,7 +95,7 @@ v15–19: Samuel gives no new route of escape. His message reiterates the conseq
 v19: “Tomorrow you and your sons shall be with me” most naturally means they will join Samuel among the dead. The verse does not provide a developed theology of the afterlife.
 v21–25: The medium, whom Saul approached to obtain forbidden knowledge, becomes the person who feeds and strengthens the terrified king before his final night.
 
-##Vocabulary
+## Vocabulary
 
 v03: אוֹב (ov)
 “Medium” or spirit-medium.

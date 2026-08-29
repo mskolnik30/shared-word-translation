@@ -133,13 +133,13 @@ v44: and said to him, “See that you say nothing to anyone, but go, show yourse
 v45: But he went out and began to proclaim it freely and to spread the matter around, so that Jesus could no longer openly enter a town, but was outside in desolate places; and people were coming to him from everywhere.
 </p>
 ## Notes
-v1: “good news” is not merely uplifting information; it is a public announcement that God’s reign is arriving in and through Jesus.  
-v1: “Christ” is a title—“Anointed One” (Messiah)—not Jesus’s last name.  
-v1: “Son of God” is Mark’s opening claim; the identity that will be disclosed through Jesus’s authority, conflict, and the cross.  
-v2–3: John is framed as the promised forerunner: a messenger who prepares a people for the Lord’s arrival.  
-v4: John’s baptism is a public turning (repentance) oriented toward forgiveness—release and restoration into a new future.  
-v7: “Stronger than I” locates John as witness, not center; he names a difference in authority and power.  
-v8: “Baptize…with the Holy Spirit” points beyond external washing to God’s own life remaking people from within.  
+v01: “good news” is not merely uplifting information; it is a public announcement that God’s reign is arriving in and through Jesus.  
+v01: “Christ” is a title—“Anointed One” (Messiah)—not Jesus’s last name.  
+v01: “Son of God” is Mark’s opening claim; the identity that will be disclosed through Jesus’s authority, conflict, and the cross.  
+v02–03: John is framed as the promised forerunner: a messenger who prepares a people for the Lord’s arrival.  
+v04: John’s baptism is a public turning (repentance) oriented toward forgiveness—release and restoration into a new future.  
+v07: “Stronger than I” locates John as witness, not center; he names a difference in authority and power.  
+v08: “Baptize…with the Holy Spirit” points beyond external washing to God’s own life remaking people from within.  
 v10: The heavens are “torn open”—barrier-ripping imagery that signals God is not distant or sealed off.  
 v11: Belovedness comes before achievement; identity precedes vocation.  
 v12: The Spirit “drove” Jesus into the wilderness—God’s leading includes confrontation, not only comfort.  
@@ -160,19 +160,19 @@ v41: Jesus “touched” the man—holiness moves outward to cleanse rather than
 v44: Jesus honors Torah’s communal pathway of restoration; healing includes re-entry into shared life.  
 v45: Mercy spreads, but it also disrupts; the man’s proclamation changes Jesus’s mobility and ministry pattern.  
 
-##Vocabulary
+## Vocabulary
 
-v1: εὐαγγέλιον (euangelion) — “good news,” public announcement of victory/reign.  
+v01: εὐαγγέλιον (euangelion) — “good news,” public announcement of victory/reign.  
 
-v1: χριστός (christos) — “Anointed One,” Messiah/king.  
+v01: χριστός (christos) — “Anointed One,” Messiah/king.  
 
-v1: υἱὸς θεοῦ (huios theou) — “Son of God.”  
+v01: υἱὸς θεοῦ (huios theou) — “Son of God.”  
 
-v4: μετάνοια (metanoia) — repentance; turning/reorientation.  
+v04: μετάνοια (metanoia) — repentance; turning/reorientation.  
 
-v4: ἄφεσις (aphesis) — forgiveness; release, restoration.  
+v04: ἄφεσις (aphesis) — forgiveness; release, restoration.  
 
-v8: πνεῦμα (pneuma) — Spirit; breath/wind, God’s empowering presence.  
+v08: πνεῦμα (pneuma) — Spirit; breath/wind, God’s empowering presence.  
 
 v10: σχίζω (schizō) — to tear open, split (the heavens).  
 

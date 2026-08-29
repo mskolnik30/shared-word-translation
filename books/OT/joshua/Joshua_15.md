@@ -165,7 +165,7 @@ v19: Achsah’s request recognizes that land in the Negev requires water to be v
 v32: The stated total of twenty-nine cities does not correspond simply to the number of names preserved in the received list. TSW retains both the names and the traditional total without harmonization.
 v63: The chapter closes by acknowledging incomplete possession in Jerusalem, anticipating later narratives in Judges and Samuel.
 
-##Vocabulary
+## Vocabulary
 
 v01: גּוֹרָל (goral)
 “Lot” or “allotment.” The means by which Judah’s territorial portion is assigned.

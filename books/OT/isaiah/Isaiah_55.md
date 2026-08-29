@@ -46,7 +46,7 @@ v05: “Holy One of Israel” — A characteristic Isaianic designation for the 
 v03: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
 v12: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
 
-##Vocabulary
+## Vocabulary
 
 v11: דָּבָר (davar)
 “Word.” Speech that acts and accomplishes the purpose for which it is sent.

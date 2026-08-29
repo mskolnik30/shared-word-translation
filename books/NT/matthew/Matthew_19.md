@@ -85,10 +85,10 @@ v29: And everyone who has left houses or brothers or sisters or father or mother
 v30: But many who are first will be last, and the last first.”
 </p>
 ## Notes
-v3: Test framed around legal permissibility; Jesus reframes toward creation intent.  
-v4–6: Genesis citation establishes unity as primary category, not contract.  
-v8: Concession (Moses) distinguished from intention (creation); hardness of heart drives allowance.  
-v9: Exception clause tied to sexual breach of covenant unity.  
+v03: Test framed around legal permissibility; Jesus reframes toward creation intent.  
+v04–06: Genesis citation establishes unity as primary category, not contract.  
+v08: Concession (Moses) distinguished from intention (creation); hardness of heart drives allowance.  
+v09: Exception clause tied to sexual breach of covenant unity.  
 v11–12: Singleness is vocational, not universal; capacity varies and is “given.”  
 v12: “Eunuch” used metaphorically for renunciation, not only literal condition.  
 v14: Children represent receptivity and dependence, not innocence idealized.  
@@ -101,15 +101,15 @@ v28: “Renewal” signals eschatological restoration, not mere continuation.
 v29: Loss reinterpreted as multiplication; inheritance language retained.  
 v30: Reversal principle destabilizes status assumptions.  
 
-##Vocabulary
+## Vocabulary
 
-v3: πειράζοντες (*peirazontes*) — “Testing.” Attempt to trap or challenge.  
+v03: πειράζοντες (*peirazontes*) — “Testing.” Attempt to trap or challenge.  
 
-v6: συνέζευξεν (*synezeuxen*) — “Joined together.” Bound into unity.  
+v06: συνέζευξεν (*synezeuxen*) — “Joined together.” Bound into unity.  
 
-v8: σκληροκαρδία (*sklērokardia*) — “Hardness of heart.” Resistance to divine will.  
+v08: σκληροκαρδία (*sklērokardia*) — “Hardness of heart.” Resistance to divine will.  
 
-v9: πορνεία (*porneia*) — “Sexual immorality.” Breach of covenant fidelity.  
+v09: πορνεία (*porneia*) — “Sexual immorality.” Breach of covenant fidelity.  
 
 v11: δοθῆναι (*dothēnai*) — “Given.” Granted by divine action.  
 

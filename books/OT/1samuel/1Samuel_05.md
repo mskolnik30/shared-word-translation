@@ -55,7 +55,7 @@ v08: The Philistine “rulers” are the five *seranim*, leaders of the city-sta
 v09: “Panic” can describe confusion, terror, or destructive turmoil under divine judgment.
 v11: The Philistines recognize that moving the ark from city to city merely relocates the crisis.
 
-##Vocabulary
+## Vocabulary
 
 v02: דָּגוֹן (Dagon)
 “Dagon.” A major Philistine deity.

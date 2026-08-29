@@ -113,7 +113,7 @@ v27: “all who joined them” opens observance beyond those born into the Judea
 v29: “with full authority” translates a phrase literally associated with strength. Esther and Mordecai jointly confirm the observance.
 v31: Fasting and “their cry” are incorporated into the later memory of Purim, connecting celebration with the earlier communal distress.
 
-##Vocabulary
+## Vocabulary
 
 v01: הָפוֹךְ (hafokh)
 “Reversal” or “the opposite.” The narrative’s decisive turning.

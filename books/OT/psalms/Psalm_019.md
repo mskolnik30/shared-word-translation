@@ -79,68 +79,68 @@ be acceptable in your sight,
 O LORD, my rock and my redeemer.
 </p>
 ## Notes
-v1–4: Creation communicates without audible speech; its universality establishes a form of non-verbal revelation.
-v4–6: The sun serves as a visible agent of this revelation—ordered, joyful, and inescapable.
-v7–9: A shift occurs from general revelation to specific instruction; multiple terms (law, testimony, precepts, commandment, fear, judgments) present a comprehensive vision of divine teaching.
-v7: “Restoring the soul” suggests returning or reviving life, not merely informing.
-v8: Instruction produces internal effects—joy and clarity.
-v9: “Fear of the LORD” functions as reverent orientation, enduring beyond circumstance.
+v01–04: Creation communicates without audible speech; its universality establishes a form of non-verbal revelation.
+v04–06: The sun serves as a visible agent of this revelation—ordered, joyful, and inescapable.
+v07–09: A shift occurs from general revelation to specific instruction; multiple terms (law, testimony, precepts, commandment, fear, judgments) present a comprehensive vision of divine teaching.
+v07: “Restoring the soul” suggests returning or reviving life, not merely informing.
+v08: Instruction produces internal effects—joy and clarity.
+v09: “Fear of the LORD” functions as reverent orientation, enduring beyond circumstance.
 v10: Value is expressed in both economic and sensory terms—gold and honey.
 v11: Instruction both warns and rewards; it shapes perception and action.
 v12–13: The focus turns inward—hidden faults and willful sins distinguish unintentional from defiant wrongdoing.
 v14: The closing prayer aligns speech and thought with divine acceptance; “rock” and “redeemer” anchor identity in stability and rescue.
 
-##Vocabulary
+## Vocabulary
 
-v1: כָּבוֹד (kāḇôḏ)  
+v01: כָּבוֹד (kāḇôḏ)  
 
 “Glory.” Weight, significance, honor.
 
-v1: רָקִיעַ (rāqîaʿ)  
+v01: רָקִיעַ (rāqîaʿ)  
 
 “Firmament.” Expanse of the heavens.
 
-v2: נָבַע (nāḇaʿ)  
+v02: נָבַע (nāḇaʿ)  
 
 “To pour forth.” To bubble up or gush.
 
-v3: קוֹל (qôl)  
+v03: קוֹל (qôl)  
 
 “Voice.” Sound, expression.
 
-v4: קַו (qāw)  
+v04: קַו (qāw)  
 
 “Line.” Measuring line, extent.
 
-v5: חָתָן (ḥātān)  
+v05: חָתָן (ḥātān)  
 
 “Bridegroom.” One emerging in celebration.
 
-v6: תְּקוּפָה (tĕqûp̄āh)  
+v06: תְּקוּפָה (tĕqûp̄āh)  
 
 “Circuit.” Complete course or cycle.
 
-v7: תּוֹרָה (tôrāh)  
+v07: תּוֹרָה (tôrāh)  
 
 “Law/instruction.” Guiding teaching.
 
-v7: עֵדוּת (ʿēḏûṯ)  
+v07: עֵדוּת (ʿēḏûṯ)  
 
 “Testimony.” Witness, attested truth.
 
-v8: פִּקּוּדִים (piqqûḏîm)  
+v08: פִּקּוּדִים (piqqûḏîm)  
 
 “Precepts.” Detailed instructions.
 
-v8: מִצְוָה (miṣwāh)  
+v08: מִצְוָה (miṣwāh)  
 
 “Commandment.” Binding directive.
 
-v9: יִרְאָה (yirʾāh)  
+v09: יִרְאָה (yirʾāh)  
 
 “Fear.” Reverent awe.
 
-v9: מִשְׁפָּטִים (mišpāṭîm)  
+v09: מִשְׁפָּטִים (mišpāṭîm)  
 
 “Judgments.” Legal decisions.
 
@@ -159,11 +159,3 @@ v14: גֹּאֵל (gōʾēl)
 
 “Redeemer.” One who rescues or restores.
 
-v01: כָּבוֹד (kāḇôḏ)
-“Glory.” Weight, significance, honor.
-
-v07: תּוֹרָה (tôrāh)
-“Law/instruction.” Guiding teaching.
-
-v07: עֵדוּת (ʿēḏûṯ)
-“Testimony.” Witness, attested truth.

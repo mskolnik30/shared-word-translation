@@ -76,7 +76,7 @@ v32: The one-third-shekel contribution differs from the half-shekel amount known
 v34–38: Wood, firstfruits, firstborn, contributions, and tithes are organized so that temple worship can function materially.
 v39: The covenantal section culminates in the concise commitment, “We will not forsake the house of our God.”
 
-##Vocabulary
+## Vocabulary
 
 v01: חָתַם (chatam)
 “To seal.” To authenticate a written agreement with an identifying seal.

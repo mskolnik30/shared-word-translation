@@ -67,39 +67,39 @@ v25: And Adam knew his wife again, and she bore a son and called his name Seth, 
 v26: To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the LORD.
 </p>
 ## Notes
-v1: Eve’s statement links birth, acquisition, and the LORD’s help. The wording is compact and difficult, and the translation preserves its density rather than resolving it fully.  
-v2: The brothers are distinguished by vocation before conflict appears. The contrast between shepherd and worker of the ground anticipates the chapter’s concern with offering, soil, and blood.  
-v3–5: The text does not explicitly explain why Abel’s offering is favored and Cain’s is not. The ambiguity is retained.  
-v6–7: The LORD addresses Cain before the murder, naming anger as a moment of moral danger rather than inevitability.  
-v7: Sin is pictured as a predator crouching at the door. The language echoes the language of desire and rule from Genesis 3.  
-v8: The brief narration gives no motive beyond what has already been shown. The violence is stark and sudden.  
-v9: Cain’s question reverses his vocation. The one who worked the ground refuses responsibility for his brother.  
+v01: Eve’s statement links birth, acquisition, and the LORD’s help. The wording is compact and difficult, and the translation preserves its density rather than resolving it fully.  
+v02: The brothers are distinguished by vocation before conflict appears. The contrast between shepherd and worker of the ground anticipates the chapter’s concern with offering, soil, and blood.  
+v03–05: The text does not explicitly explain why Abel’s offering is favored and Cain’s is not. The ambiguity is retained.  
+v06–07: The LORD addresses Cain before the murder, naming anger as a moment of moral danger rather than inevitability.  
+v07: Sin is pictured as a predator crouching at the door. The language echoes the language of desire and rule from Genesis 3.  
+v08: The brief narration gives no motive beyond what has already been shown. The violence is stark and sudden.  
+v09: Cain’s question reverses his vocation. The one who worked the ground refuses responsibility for his brother.  
 v10–12: Abel’s blood cries from the ground, and the ground itself becomes witness against Cain. The curse intensifies the broken relationship between humanity and the soil.  
 v13–16: Judgment is accompanied by protection. Cain is exiled from the ground and from the LORD’s presence, yet his life is marked off from vengeance.  
 v17–22: Cain’s line develops city-building, livestock, music, and metalwork. The chapter refuses a simple account of culture as either pure progress or pure corruption.  
 v23–24: Lamech turns protection into boast. The measured vengeance associated with Cain becomes exaggerated violence in Lamech’s mouth.  
 v25–26: Seth’s birth does not erase Abel’s death, but it opens a new line. The chapter ends with worship rather than violence.  
 
-##Vocabulary
+## Vocabulary
 
-v1: קָנָה (qānâ)  
+v01: קָנָה (qānâ)  
 “To acquire” or “get.” Eve’s naming of Cain plays on this verb, joining birth with reception from the LORD.  
 
-v2: הֶבֶל (hevel)  
+v02: הֶבֶל (hevel)  
 “Abel,” related to “breath” or “vapor.” The name carries a fragile, transient resonance.  
 
-v4: מִנְחָה (minḥâ)  
+v04: מִנְחָה (minḥâ)  
 “Offering” or “gift.” The word can describe a tribute or presentation brought before one greater.  
 
-v5: שָׁעָה (shāʿâ)  
+v05: שָׁעָה (shāʿâ)  
 “To look with regard.” The verb concerns favorable attention, not merely seeing.  
 
-v7: חַטָּאת (ḥaṭṭāʾt)  
+v07: חַטָּאת (ḥaṭṭāʾt)  
 “Sin.” Here sin is personified as something crouching and desiring mastery.  
 
-v7: רָבַץ (rāvaṣ)  
+v07: רָבַץ (rāvaṣ)  
 
-v7: “To crouch” or “lie down.” The verb gives sin an animal-like posture of readiness.  
+v07: “To crouch” or “lie down.” The verb gives sin an animal-like posture of readiness.  
 
 v10: דָּם (dām)  
 “Blood.” In this verse the plural form intensifies the image of bloodshed crying from the ground.  
@@ -119,14 +119,3 @@ v25: שֵׁת (Šēt)
 v26: קָרָא בְּשֵׁם יְהוָה (qārāʾ bĕ-shēm YHWH)  
 “To call upon the name of the LORD.” The phrase marks public invocation, worship, or appeal to the LORD.  
 
-v01: קָנָה (qānâ)
-“To acquire” or “get.” Eve’s naming of Cain plays on this verb, joining birth with reception from the LORD.
-
-v02: הֶבֶל (hevel)
-“Abel,” related to “breath” or “vapor.” The name carries a fragile, transient resonance.
-
-v04: מִנְחָה (minḥâ)
-“Offering” or “gift.” The word can describe a tribute or presentation brought before one greater.
-
-v07: חַטָּאת (ḥaṭṭāʾt)
-“Sin.” Here sin is personified as something crouching and desiring mastery.

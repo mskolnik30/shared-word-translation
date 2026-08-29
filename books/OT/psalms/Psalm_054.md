@@ -37,13 +37,13 @@ v01: "by your name" - This invocation appeals to God's character and authority f
 v03: "strangers" and "ruthless men" - These may refer to enemies who are both external and internal, emphasizing the breadth of opposition faced.
 v07: "my eye has looked" - A poetic expression for having seen or experienced deliverance, indicating confidence in God's protection.
 
-##Vocabulary
+## Vocabulary
 
-v3: אֱלֹהִים (e.lo.him) - Here, the term emphasizes God's power and authority, which the psalmist calls upon for salvation and justice.  
+v03: אֱלֹהִים (e.lo.him) - Here, the term emphasizes God's power and authority, which the psalmist calls upon for salvation and justice.  
 
-v7: אֱמֶת (e.met) - Translated as "faithfulness," this term underscores the reliability and trustworthiness of God in dealing with the psalmist's enemies.  
+v07: אֱמֶת (e.met) - Translated as "faithfulness," this term underscores the reliability and trustworthiness of God in dealing with the psalmist's enemies.  
 
-v8: יְהוָה (ye.ho.vah) - The personal name for God, often representing the covenantal relationship He has with His people.  
+v06: יְהוָה (ye.ho.vah) - The personal name for God, often representing the covenantal relationship He has with His people.  
 
 v01: אֱלֹהִים (elohim)
 “God.” The common Hebrew designation for God.

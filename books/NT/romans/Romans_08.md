@@ -77,15 +77,15 @@ v38: For I am convinced that neither death nor life, nor angels nor rulers, nor 
 v39: nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
 </p>
 ## Notes
-v1: “no condemnation”
+v01: “no condemnation”
 This declaration is absolute, not provisional. It answers the question raised by Romans 6: whether participation in Christ reintroduces anxiety about judgment.
-v2: “the law of the Spirit of life”
+v02: “the law of the Spirit of life”
 “Law” functions metaphorically as a governing power. The contrast is between rival dominions, not between rules and freedom.
-v3: “God has done what the law could not do”
+v03: “God has done what the law could not do”
 The subject of the sentence is emphatic. Liberation is grounded in God’s action through the Son, not in human obedience empowered by effort.
-v4: “fulfilled in us”
+v04: “fulfilled in us”
 The fulfillment is participatory rather than meritorious. The law’s requirement is met through life in the Spirit, not by replication of legal performance.
-v9: “Spirit of God” / “Spirit of Christ”
+v09: “Spirit of God” / “Spirit of Christ”
 The interchange underscores unity of divine action without collapsing distinction. Belonging to Christ is defined by indwelling, not achievement.
 v11: “will give life to your mortal bodies”
 Resurrection is bodily and future-oriented, resisting spiritualized readings of salvation.
@@ -108,18 +108,18 @@ Legal language returns, but now as reassurance. God’s justifying action silenc
 v35–39: “nothing will separate us”
 The climactic assurance rests entirely on God’s love in Christ. Human trust is not named here, because it is not the ground of security.
 
-##Vocabulary
+## Vocabulary
 
-v1: κατάκριμα (katakrima)
+v01: κατάκριμα (katakrima)
 “Condemnation.” A judicial verdict of judgment. Its negation here is absolute, grounding assurance in God’s action rather than human consistency.
 
-v2: νόμος (nomos)
+v02: νόμος (nomos)
 “Law.” Used metaphorically to name a governing power or operative principle. The contrast is between rival dominions, not merely legal systems.
 
-v3: σάρξ (sarx)
+v03: σάρξ (sarx)
 “Flesh.” Refers to human life ordered apart from God, not the physical body itself. The term names a sphere of power rather than material substance.
 
-v6: φρόνημα (phronēma)
+v06: φρόνημα (phronēma)
 “Mindset.” Denotes orientation or disposition. Life and death are framed as outcomes of allegiance rather than isolated choices.
 
 v10: ζωή (zōē)
@@ -149,8 +149,3 @@ v29: εἰκών (eikōn)
 v37: ὑπερνικάω (hypernikaō)
 “To prevail completely.” Victory is described as decisive and derivative, accomplished “through the one who loved us.”
 
-v02: νόμος (nomos)
-“Law.” Used metaphorically to name a governing power or operative principle. The contrast is between rival dominions, not merely legal systems.
-
-v03: σάρξ (sarx)
-“Flesh.” Refers to human life ordered apart from God, not the physical body itself. The term names a sphere of power rather than material substance.

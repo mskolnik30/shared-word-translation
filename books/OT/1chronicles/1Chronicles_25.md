@@ -76,26 +76,26 @@ v30: The twenty-third was Mahazioth, his sons and kindred, twelve.
 v31: The twenty-fourth was Romamti-ezer, his sons and kindred, twelve.
 </p>
 ## Notes
-v1: - **v1** “Prophesied” describes music-making as a Spirit-oriented ministry of proclamation, not simply as instrumental accompaniment. The chapter holds musical skill and prophetic speech together.  
-v5: - **v5** “To raise up his horn” uses the horn as an image of strength, dignity, and exaltation. The exact relation of the phrase to Heman’s role as seer or to God’s gift of children is syntactically compressed.  
-v6: - **v6** The phrase “under the direction of the king” may refer broadly to David’s oversight of the whole musical service, while the naming of Asaph, Jeduthun, and Heman also emphasizes their distinct leadership within it.  
-v8: - **v8** The lots are cast without regard to age, rank, or level of training: “the small as well as the great, the skilled together with the student.” The ordering of worship is presented as both carefully trained and entrusted to God’s determination.  
-v9–31: - **v9–31** Each of the twenty-four divisions contains twelve members. The repeated wording gives the roster a measured, liturgical rhythm and underscores the ordered fullness of the musical service.  
+v01: - **v1** “Prophesied” describes music-making as a Spirit-oriented ministry of proclamation, not simply as instrumental accompaniment. The chapter holds musical skill and prophetic speech together.  
+v05: - **v5** “To raise up his horn” uses the horn as an image of strength, dignity, and exaltation. The exact relation of the phrase to Heman’s role as seer or to God’s gift of children is syntactically compressed.  
+v06: - **v6** The phrase “under the direction of the king” may refer broadly to David’s oversight of the whole musical service, while the naming of Asaph, Jeduthun, and Heman also emphasizes their distinct leadership within it.  
+v08: - **v8** The lots are cast without regard to age, rank, or level of training: “the small as well as the great, the skilled together with the student.” The ordering of worship is presented as both carefully trained and entrusted to God’s determination.  
+v09–31: - **v9–31** Each of the twenty-four divisions contains twelve members. The repeated wording gives the roster a measured, liturgical rhythm and underscores the ordered fullness of the musical service.  
 v06: The phrase “under the direction of the king” may refer broadly to David’s oversight of the musical service or more narrowly to the named leaders’ work under royal authority.
 
-##Vocabulary
+## Vocabulary
 
-v1: - **v1 — נָבָא (*navaʾ*)**: “to prophesy.” Here the term characterizes the ministry performed with instruments, presenting temple music as a vehicle of inspired proclamation.  
+v01: - **v1 — נָבָא (*navaʾ*)**: “to prophesy.” Here the term characterizes the ministry performed with instruments, presenting temple music as a vehicle of inspired proclamation.  
 
-v3: - **v3 — יָדָה (*yadah*)**: “to give thanks.” Jeduthun’s prophetic ministry is specifically directed toward thanksgiving and praise to the LORD.  
+v03: - **v3 — יָדָה (*yadah*)**: “to give thanks.” Jeduthun’s prophetic ministry is specifically directed toward thanksgiving and praise to the LORD.  
 
-v5: - **v5 — חֹזֶה (*chozeh*)**: “seer.” Heman is identified as the king’s seer in matters concerning God, linking his musical household with revelatory service.  
+v05: - **v5 — חֹזֶה (*chozeh*)**: “seer.” Heman is identified as the king’s seer in matters concerning God, linking his musical household with revelatory service.  
 
-v5: - **v5 — קֶרֶן (*qeren*)**: “horn.” Used figuratively for strength, honor, or elevated standing; the image gives theological weight to God’s blessing of Heman.  
+v05: - **v5 — קֶרֶן (*qeren*)**: “horn.” Used figuratively for strength, honor, or elevated standing; the image gives theological weight to God’s blessing of Heman.  
 
-v8: - **v8 — גּוֹרָל (*goral*)**: “lot.” The lots assign the worship divisions, expressing an ordered distribution not based merely on human status.  
+v08: - **v8 — גּוֹרָל (*goral*)**: “lot.” The lots assign the worship divisions, expressing an ordered distribution not based merely on human status.  
 
-v8: - **v8 — תַּלְמִיד (*talmid*)**: “student.” The term places learners alongside the skilled, showing that the musical ministry included formation as well as performance.  
+v08: - **v8 — תַּלְמִיד (*talmid*)**: “student.” The term places learners alongside the skilled, showing that the musical ministry included formation as well as performance.  
 
 v01: נָבָא (navaʾ)
 “to prophesy.” Here the term characterizes the ministry performed with instruments, presenting temple music as a vehicle of inspired proclamation.

@@ -53,13 +53,13 @@ v22: And the keeper of the prison put under Joseph’s authority all the prisone
 v23: The keeper of the prison paid no attention to anything that was under Joseph’s authority, because the LORD was with him. And whatever he did, the LORD made it prosper.
 </p>
 ## Notes
-v1: Joseph's descent into Egypt begins a major new section of Genesis and prepares for Israel's later presence there.  
-v2: The repeated statement that “the LORD was with Joseph” forms the central theme of the chapter.  
-v3–5: Joseph's success is attributed not to circumstance but to the LORD's blessing.  
-v5: God's blessing extends beyond Joseph himself to the household of his Egyptian master.  
+v01: Joseph's descent into Egypt begins a major new section of Genesis and prepares for Israel's later presence there.  
+v02: The repeated statement that “the LORD was with Joseph” forms the central theme of the chapter.  
+v03–05: Joseph's success is attributed not to circumstance but to the LORD's blessing.  
+v05: God's blessing extends beyond Joseph himself to the household of his Egyptian master.  
 v06b: Joseph's physical appearance recalls earlier descriptions of Rachel, his mother.  
-v7–9: Joseph refuses temptation on both ethical and theological grounds. His concern is loyalty to his master and faithfulness to God.  
-v9: Joseph defines the act as both a betrayal of trust and a sin against God.  
+v07–09: Joseph refuses temptation on both ethical and theological grounds. His concern is loyalty to his master and faithfulness to God.  
+v09: Joseph defines the act as both a betrayal of trust and a sin against God.  
 v10: Resistance is portrayed as continual rather than momentary.  
 v12: Joseph chooses flight rather than compromise, even at personal cost.  
 v13–18: Potiphar's wife uses Joseph's garment as false evidence, reversing the truth of the situation.  
@@ -68,24 +68,24 @@ v19–20: Doing what is right does not spare Joseph from suffering or false accu
 v21: The language of steadfast love signals God's covenant faithfulness even in prison.  
 v22–23: The pattern of Potiphar's house repeats itself in prison: Joseph receives responsibility because the LORD prospers his work.  
 
-##Vocabulary
+## Vocabulary
 
-v2: צָלַח (ṣālaḥ)  
+v02: צָלַח (ṣālaḥ)  
 “To prosper” or “succeed.” Success brought about through divine favor.  
 
-v4: חֵן (ḥēn)  
+v04: חֵן (ḥēn)  
 “Favor” or “grace.” Acceptance and goodwill shown by another.  
 
-v4: פָּקִיד (pāqîḏ)  
+v04: פָּקִיד (pāqîḏ)  
 “Overseer.” One entrusted with responsibility and authority.  
 
-v6: יָפֶה־תֹאַר (yĕp̄eh-tōʾar)  
+v06: יָפֶה־תֹאַר (yĕp̄eh-tōʾar)  
 “Beautiful in form.” Physical attractiveness of appearance or build.  
 
-v7: נָשָׂא עֵינַיִם (nāśāʾ ʿênayim)  
+v07: נָשָׂא עֵינַיִם (nāśāʾ ʿênayim)  
 “To lift up the eyes.” Often indicates focused attention or desire.  
 
-v9: חָטָא (ḥāṭāʾ)  
+v09: חָטָא (ḥāṭāʾ)  
 “To sin.” To act contrary to God's will or moral order.  
 
 v12: בֶּגֶד (begeḏ)  
@@ -106,11 +106,3 @@ v22: שַׂר בֵּית הַסֹּהַר (śar bêt hassōhar)
 v23: יְהוָה עִמּוֹ (YHWH ʿimmô)  
 “The LORD was with him.” The recurring theological refrain of the chapter.  
 
-v02: צָלַח (ṣālaḥ)
-“To prosper” or “succeed.” Success brought about through divine favor.
-
-v04: חֵן (ḥēn)
-“Favor” or “grace.” Acceptance and goodwill shown by another.
-
-v09: חָטָא (ḥāṭāʾ)
-“To sin.” To act contrary to God's will or moral order.

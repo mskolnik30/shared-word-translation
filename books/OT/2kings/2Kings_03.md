@@ -98,7 +98,7 @@ v22–23: Sunrise reflecting from the water produces the deceptive appearance of
 v25: Kir-Hareseth is Moab’s remaining fortified center after systematic devastation of the surrounding land.
 v27: The human sacrifice is the climax of the chapter’s horror. The phrase “great wrath against Israel” is ambiguous: it may refer to divine wrath, Moabite fury, or another overwhelming reaction. TSW does not identify the source beyond the text.
 
-##Vocabulary
+## Vocabulary
 
 v04: נֹקֵד (noqed)
 “Sheep breeder.” Mesha’s pastoral role.

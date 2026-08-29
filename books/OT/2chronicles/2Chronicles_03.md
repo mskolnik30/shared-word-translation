@@ -58,7 +58,7 @@ v04: The porch height of 120 cubits is unusually great and differs from some anc
 v08: “Most Holy Place” is the innermost sanctuary.
 v17: Jachin and Boaz are the traditional names of the two temple pillars.
 
-##Vocabulary
+## Vocabulary
 
 v01: מוֹרִיָּה (Moriah)
 “Moriah.” The mountain associated with the temple site.

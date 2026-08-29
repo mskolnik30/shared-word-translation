@@ -149,8 +149,8 @@ v43: but the centurion, wanting to save Paul, prevented them from their purpose,
 v44: and the rest on planks or on pieces from the ship. And so it happened that all were brought safely to land.
 </p>
 ## Notes
-v3: Favorable treatment reflects changing perception of Paul.  
-v9–10: Paul discerns danger before crisis unfolds.  
+v03: Favorable treatment reflects changing perception of Paul.  
+v09–10: Paul discerns danger before crisis unfolds.  
 v11–12: Human judgment overrides prophetic warning.  
 v14–20: Loss of control leads to loss of hope.  
 v21–26: Divine assurance restores confidence.  
@@ -159,19 +159,19 @@ v34–36: Provision and thanksgiving precede deliverance.
 v42–43: Paul’s presence influences preservation of others.  
 v44: Complete survival fulfills divine promise.  
 
-##Vocabulary
+## Vocabulary
 
-v1: Ἰταλία (Italia)  
+v01: Ἰταλία (Italia)  
 
-v1: “Italy.”  
+v01: “Italy.”  
 
-v3: φιλανθρώπως (philanthrōpōs)  
+v03: φιλανθρώπως (philanthrōpōs)  
 
-v3: “Kindly.”  
+v03: “Kindly.”  
 
-v9: νηστεία (nēsteia)  
+v09: νηστεία (nēsteia)  
 
-v9: “Fast.”  
+v09: “Fast.”  
 
 v10: ζημία (zēmia)
 “Loss.”

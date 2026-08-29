@@ -108,13 +108,13 @@ v25: For who can eat, and who can enjoy, apart from me?
 <p>
 v26: For to the person who is good before him, God gives wisdom, knowledge, and joy; but to the sinner he gives the task of gathering and collecting, to give to the one who is good before God. This too is vapor and a chasing after wind.
 </p>
-##Notes
+## Notes
 
 v08: Its precise reference is uncertain; it may concern women in a royal household, though other explanations have been proposed.
 
 v25: The Hebrew reads “apart from me,” though the immediate reference is difficult. Some ancient witnesses read “apart from him,” referring to God.
 
-##Vocabulary
+## Vocabulary
 
 v01: הֶבֶל (hevel)
 “Vapor” describes what cannot be held or made permanent. In this chapter it is the Teacher’s verdict on pleasure, accomplishment, wisdom’s ultimate limits, and accumulated wealth.

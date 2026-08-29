@@ -121,7 +121,7 @@ v26: Moses first sends “words of peace,” showing that battle with Sihon foll
 v30: Sihon’s hardened spirit and stubborn heart echo Pharaoh. Divine hardening and human refusal remain together in the narrative.
 v34: The *herem* language is severe and comprehensive, including noncombatants. TSW preserves the ancient conquest account without turning it into a general authorization of religious violence.
 
-##Vocabulary
+## Vocabulary
 
 v05: יָרַשׁ (yarash)
 “To possess” or “dispossess.” A central verb of land inheritance and conquest.

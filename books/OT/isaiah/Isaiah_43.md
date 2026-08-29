@@ -35,9 +35,9 @@ v26: Review the past for me, let us argue the matter together; state the case fo
 v27: Your first father sinned; your spokesmen rebelled against me.
 v28: So I disgraced the dignitaries of your temple; I consigned Jacob to destruction and Israel to scorn."
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: יְהוָה (YHWH)
 “LORD.” The divine name, represented in English by small-capital LORD.

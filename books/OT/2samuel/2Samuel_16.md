@@ -87,7 +87,7 @@ v21: Ahithophel’s advice is political: public sexual possession of the former 
 v22: The public act fulfills Nathan’s judgment in 2 Samuel 12:11–12. The narrative reports the women’s violation as part of dynastic struggle without giving them voice or implying moral approval.
 v23: Ahithophel’s counsel is treated with near-oracular authority, explaining why David considered him so dangerous.
 
-##Vocabulary
+## Vocabulary
 
 v01: קַיִץ (qayits)
 “Summer fruit.” Dried or seasonal provisions for the journey.

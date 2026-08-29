@@ -71,12 +71,12 @@ v21: And I will give this people favor in the sight of the Egyptians; and when y
 v22: but each woman shall ask of her neighbor, and any woman who lives in her house, for silver and gold jewelry, and for clothing. You shall put them on your sons and on your daughters. So you shall plunder the Egyptians.”
 </p>
 ## Notes
-v1: “Mountain of God” anticipates its later significance (Sinai/Horeb).  
-v2–3: The unconsumed fire signals divine presence that sustains without destroying.  
-v4: The double call (“Moses, Moses”) marks urgency and personal address.  
-v5: Holiness redefines space—ordinary ground becomes sacred by divine presence.  
-v6: The patriarchal formula anchors continuity with covenant history.  
-v7–8: God’s response is multi-sensory: seeing, hearing, knowing, and acting.  
+v01: “Mountain of God” anticipates its later significance (Sinai/Horeb).  
+v02–03: The unconsumed fire signals divine presence that sustains without destroying.  
+v04: The double call (“Moses, Moses”) marks urgency and personal address.  
+v05: Holiness redefines space—ordinary ground becomes sacred by divine presence.  
+v06: The patriarchal formula anchors continuity with covenant history.  
+v07–08: God’s response is multi-sensory: seeing, hearing, knowing, and acting.  
 v10: Deliverance is mediated—God sends a human agent.  
 v11: Moses’ objection centers on inadequacy of self.  
 v12: The promise of presence (“I will be with you”) answers the question of identity.  
@@ -86,39 +86,39 @@ v16–18: The message integrates past promise with present action.
 v19–20: Resistance is anticipated; deliverance requires confrontation.  
 v21–22: Departure includes reversal—those oppressed leave with provision.  
 
-##Vocabulary
+## Vocabulary
 
-v2: אֵשׁ (ʾēš)  
+v02: אֵשׁ (ʾēš)  
 
-v2: “Fire.” Manifestation of divine presence.  
+v02: “Fire.” Manifestation of divine presence.  
 
-v3: סוּר (sûr)  
+v03: סוּר (sûr)  
 
-v3: “To turn aside.” Movement toward attention or encounter.  
+v03: “To turn aside.” Movement toward attention or encounter.  
 
-v5: קֹדֶשׁ (qōḏeš)  
+v05: קֹדֶשׁ (qōḏeš)  
 
-v5: “Holiness.” Set-apartness defined by God’s presence.  
+v05: “Holiness.” Set-apartness defined by God’s presence.  
 
-v7: רָאָה (rāʾāh)  
+v07: רָאָה (rāʾāh)  
 
-v7: “To see.” Perception with concern.  
+v07: “To see.” Perception with concern.  
 
-v7: שָׁמַע (šāmaʿ)  
+v07: שָׁמַע (šāmaʿ)  
 
-v7: “To hear.” Responsive attention.  
+v07: “To hear.” Responsive attention.  
 
-v7: יָדַע (yāḏaʿ)  
+v07: יָדַע (yāḏaʿ)  
 
-v7: “To know.” Experiential awareness.  
+v07: “To know.” Experiential awareness.  
 
-v8: יָרַד (yāraḏ)  
+v08: יָרַד (yāraḏ)  
 
-v8: “To come down.” Divine intervention into human space.  
+v08: “To come down.” Divine intervention into human space.  
 
-v8: נָצַל (nāṣal)  
+v08: נָצַל (nāṣal)  
 
-v8: “To deliver.” Rescue from danger or oppression.  
+v08: “To deliver.” Rescue from danger or oppression.  
 
 v10: שָׁלַח (šālaḥ)  
 

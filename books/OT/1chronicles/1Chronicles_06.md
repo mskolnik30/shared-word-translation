@@ -212,7 +212,7 @@ v54: “Encampments” can also be understood as settlements or places of reside
 v57: “Cities of refuge” were places of protection for one who had caused a death, pending legal judgment. Their inclusion among priestly cities joins sanctuary, justice, and communal life.
 v61: The phrase “from the family of the tribe” is compressed and somewhat difficult. It likely refers to the remaining Kohathite clans receiving cities from one tribal portion, specifically the half-tribe of Manasseh.
 
-##Vocabulary
+## Vocabulary
 
 v16: - v16: שִׁיר (*shir*) — “song.” Here song is not incidental accompaniment but a named form of service in the house of the LORD.  
 

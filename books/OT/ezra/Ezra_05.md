@@ -72,7 +72,7 @@ v11–12: The Judean elders interpret exile theologically rather than simply pol
 v13: Cyrus is called “king of Babylon” here because Babylon was among the territories under his rule after its conquest. Elsewhere he is more commonly called king of Persia.
 v14–16: Sheshbazzar is credited with receiving the temple vessels and laying the foundation. Ezra 3 emphasizes Zerubbabel and Jeshua in the rebuilding. TSW preserves both traditions without collapsing the figures into one person.
 
-##Vocabulary
+## Vocabulary
 
 v01: נְבִיא (nevi)
 “Prophet.” In the Aramaic section, one who speaks in the name of God.

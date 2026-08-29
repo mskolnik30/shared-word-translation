@@ -139,9 +139,9 @@ v43: And calling his disciples to him, he said to them, “Truly I say to you, t
 v44: For they all put in out of their abundance, but she out of her poverty put in everything she had, her whole life.”
 </p>
 ## Notes
-v1: The vineyard imagery evokes Israel’s scriptural tradition without needing explicit identification.
-v6: “Beloved son” echoes earlier divine language while functioning within the parable’s story.
-v9: Judgment leads to transfer, not abandonment of the vineyard.
+v01: The vineyard imagery evokes Israel’s scriptural tradition without needing explicit identification.
+v06: “Beloved son” echoes earlier divine language while functioning within the parable’s story.
+v09: Judgment leads to transfer, not abandonment of the vineyard.
 v13: Pharisees and Herodians again unite around opposition, despite differing political instincts.
 v16–17: The coin bears Caesar’s image; Jesus’ response leaves unstated what bears God’s image.
 v24: Error is traced to ignorance of both scripture and divine power.
@@ -152,21 +152,21 @@ v35–37: Jesus complicates messianic categories rather than denying Davidic son
 v38–40: Public honor and private exploitation are held together as one corruption.
 v44: The widow’s gift is total; the phrase “whole life” preserves the severity of her act.
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀμπελών (ampelōn)
+v01: ἀμπελών (ampelōn)
 
 “Vineyard.” A cultivated field, often carrying covenantal resonance.
 
-v1: γεωργός (geōrgos)
+v01: γεωργός (geōrgos)
 
 “Tenant, farmer.” One entrusted with cultivation and return.
 
-v6: ἀγαπητός (agapētos)
+v06: ἀγαπητός (agapētos)
 
 “Beloved.” Term of affection and chosen relation.
 
-v7: κληρονόμος (klēronomos)
+v07: κληρονόμος (klēronomos)
 
 “Heir.” One who receives inheritance by right.
 
@@ -223,8 +223,3 @@ v44: βίος (bios)
 v01: ἀμπελών (ampelōn)
 “Vineyard.” A cultivated field of grapevines; the image carries established scriptural associations.
 
-v01: γεωργός (geōrgos)
-“Tenant, farmer.” One entrusted with cultivation and return.
-
-v06: ἀγαπητός (agapētos)
-“Beloved.” Term of affection and chosen relation.

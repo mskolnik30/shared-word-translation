@@ -83,15 +83,15 @@ v24: Now to the one who is able to keep you from stumbling and to present you bl
 v25: to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.
 </p>
 ## Notes
-v1: Identity is relational (“servant,” “brother”), not positional.
-v2: Blessing is cumulative and expansive.
-v3: The shift from intention to necessity frames urgency.
-v4: Entry is described as unnoticed, not open.
-v5: Past acts are recalled without full narrative.
-v6: Judgment is delayed but certain.
-v7: Example functions as warning without expansion.
-v8: Behavior is linked to internal sources (“dreams”).
-v9: Authority is deferred, not assumed.
+v01: Identity is relational (“servant,” “brother”), not positional.
+v02: Blessing is cumulative and expansive.
+v03: The shift from intention to necessity frames urgency.
+v04: Entry is described as unnoticed, not open.
+v05: Past acts are recalled without full narrative.
+v06: Judgment is delayed but certain.
+v07: Example functions as warning without expansion.
+v08: Behavior is linked to internal sources (“dreams”).
+v09: Authority is deferred, not assumed.
 v10: Knowledge without understanding leads to destruction.
 v11: Multiple examples are combined without explanation.
 v12–13: Metaphors accumulate without resolution.
@@ -103,29 +103,29 @@ v20–21: Action is continuous and relational.
 v22–23: Responses vary without systematization.
 v24–25: The doxology attributes all agency to God.
 
-##Vocabulary
+## Vocabulary
 
-v1: δοῦλος (doulos)
+v01: δοῦλος (doulos)
 
 “Servant.” One who belongs to another.
 
-v3: ἐπαγωνίζομαι (epagōnizomai)
+v03: ἐπαγωνίζομαι (epagōnizomai)
 
 “To contend.” To struggle or strive earnestly.
 
-v4: ἀσέβεια (asebeia)
+v04: ἀσέβεια (asebeia)
 
 “Ungodliness.” Lack of reverence.
 
-v6: δεσμός (desmos)
+v06: δεσμός (desmos)
 
 “Chain.” Instrument of restraint.
 
-v7: πυρὸς αἰωνίου (pyros aiōniou)
+v07: πυρὸς αἰωνίου (pyros aiōniou)
 
 “Eternal fire.” Ongoing judgment.
 
-v9: ἐπιτιμάω (epitimaō)
+v09: ἐπιτιμάω (epitimaō)
 
 “To rebuke.” To correct or restrain.
 
@@ -153,14 +153,3 @@ v24: ἄπταιστος (aptaistos)
 
 “Without stumbling.” Preserved from falling.
 
-v01: δοῦλος (doulos)
-“Servant.” One who belongs to another.
-
-v03: ἐπαγωνίζομαι (epagōnizomai)
-“To contend.” To struggle or strive earnestly.
-
-v04: ἀσέβεια (asebeia)
-“Ungodliness.” Lack of reverence.
-
-v06: δεσμός (desmos)
-“Chain.” Instrument of restraint.

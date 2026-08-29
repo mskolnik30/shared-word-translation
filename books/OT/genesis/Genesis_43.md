@@ -75,8 +75,8 @@ v33: And they sat before him, the firstborn according to his birthright and the 
 v34: Portions were taken to them from before him, but Benjamin’s portion was five times greater than any of theirs. And they drank and were merry with him.
 </p>
 ## Notes
-v1–5: The continuing famine forces Jacob to confront the condition Joseph had set for future grain purchases.  
-v8–9: Judah emerges as the spokesman and guarantor for Benjamin, marking a significant development in his character.  
+v01–05: The continuing famine forces Jacob to confront the condition Joseph had set for future grain purchases.  
+v08–09: Judah emerges as the spokesman and guarantor for Benjamin, marking a significant development in his character.  
 v14: Jacob entrusts the outcome to God Almighty, combining faith with resignation.  
 v16–17: Joseph's invitation to his house creates anxiety for the brothers because they assume judgment is coming.  
 v18–22: The brothers' concern over the silver reveals a growing sensitivity to guilt and accountability.  
@@ -88,9 +88,9 @@ v32: The meal reflects the cultural separation that existed between Egyptians an
 v33: The brothers are seated according to birth order, something that appears impossible from their perspective and leaves them astonished.  
 v34: Benjamin receives special favor, creating a situation similar to Joseph's earlier favored status. The brothers' response will become important in what follows.  
 
-##Vocabulary
+## Vocabulary
 
-v9: עָרַב (ʿāraḇ)  
+v09: עָרַב (ʿāraḇ)  
 “To pledge” or “stand surety.” To assume responsibility for another's welfare.  
 
 v11: מִנְחָה (minḥâ)
@@ -130,5 +130,3 @@ v34: מַשְׂאֵת (maśśēʾṯ)
 v34: שָׁתָה (šāṯâ)  
 “To drink.” Here associated with feasting and celebration.  
 
-v09: עָרַב (ʿāraḇ)
-“To pledge” or “stand surety.” To assume responsibility for another's welfare.

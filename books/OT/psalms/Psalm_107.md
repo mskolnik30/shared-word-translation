@@ -167,28 +167,28 @@ v43: Whoever is wise, let him attend to these things;
 let them consider the steadfast love of the LORD.
 </p>
 ## Notes
-v1–3: Redemption is communal and gathered from dispersion.  
-v4–32: Four repeated cycles:  
+v01–03: Redemption is communal and gathered from dispersion.  
+v04–32: Four repeated cycles:  
 distress → cry → deliverance → thanksgiving.  
-v4–9: Lost wanderers are guided and satisfied.  
+v04–09: Lost wanderers are guided and satisfied.  
 v10–16: Captivity is both consequence and context for deliverance.  
 v17–22: Affliction leads to healing through God’s word.  
 v23–32: Chaos (sea/storm) is subject to divine command.  
 v33–42: God reverses conditions—judgment and blessing reshape the land and people.  
 v43: Wisdom is defined as recognizing patterns of divine steadfast love.  
 
-##Vocabulary
+## Vocabulary
 
-v2: גָּאַל (ga’al)  
+v02: גָּאַל (ga’al)  
 “To redeem.” To rescue.  
 
-v6: צָעַק (tsa‘aq)  
+v06: צָעַק (tsa‘aq)  
 “To cry out.” Call in distress.  
 
-v7: יָשָׁר (yashar)  
+v07: יָשָׁר (yashar)  
 “Straight.” Direct path.  
 
-v9: שָׂבַע (sava)  
+v09: שָׂבַע (sava)  
 “To satisfy.” Fill fully.  
 
 v14: נָתַק (nataq)
@@ -209,14 +209,3 @@ v35: הָפַךְ (haphakh)
 v43: בִּין (bin)  
 “To understand.” Discern.  
 
-v02: גָּאַל (ga’al)
-“To redeem.” To rescue.
-
-v06: צָעַק (tsa‘aq)
-“To cry out.” Call in distress.
-
-v07: יָשָׁר (yashar)
-“Straight.” Direct path.
-
-v09: שָׂבַע (sava)
-“To satisfy.” Fill fully.

@@ -44,26 +44,21 @@ for her merchandise will be for those who dwell before the LORD, to eat sufficie
 </p>
 ## Notes
 v15: Tyre’s seventy years are presented as a bounded period of humiliation followed by renewed commerce whose final purpose is redirected.  
-v9: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v9: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
-v3: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+v09: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v09: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
+v03: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
-##Vocabulary
+## Vocabulary
 
-v9: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v09: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
-v9: כָּבוֹד (kavod)  
+v09: כָּבוֹד (kavod)  
 “Glory.” Weight, honor, or manifest splendor.  
 
-v3: גּוֹיִם (goyim)  
+v03: גּוֹיִם (goyim)  
 “Nations” or “peoples.” Peoples beyond Israel.  
 
 v09: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v09: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.
-
-v03: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.

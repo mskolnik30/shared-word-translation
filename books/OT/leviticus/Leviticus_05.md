@@ -53,7 +53,7 @@ v07–13: The graduated offerings allow participation according to economic capa
 v15: “acts unfaithfully” — The Hebrew *maal* carries the sense of breach of trust, especially in relation to what belongs to God.
 v17: Lack of awareness does not erase responsibility in this ritual framework, though the prescribed response differs from deliberate defiance.
 
-##Vocabulary
+## Vocabulary
 
 v01: אָלָה (alah)
 “Public adjuration” or “oath of testimony.” A solemn call requiring a witness to speak.

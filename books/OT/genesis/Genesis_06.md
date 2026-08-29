@@ -48,41 +48,41 @@ v21: And you shall take with you every kind of food that is eaten and gather it 
 v22: Noah did this; according to all that God commanded him, so he did.
 </p>
 ## Notes
-v1–4: The identity of the “sons of God” and the Nephilim is left unexplained. The text preserves the mystery rather than defining these figures.  
-v3: The statement concerning one hundred twenty years has been interpreted in multiple ways. The verse itself does not specify whether it refers to lifespan, judgment, or a period before the flood.  
-v5: Human corruption is described comprehensively. Evil reaches not only actions but the inclinations and thoughts of the heart.  
-v6: The LORD’s regret and grief are presented without qualification. The text speaks of God relationally and personally.  
-v7: Judgment extends beyond humanity to the wider created order that has been drawn into human corruption.  
-v8: Noah appears as an exception within a world marked by violence. Favor precedes the detailed description of his character.  
-v9: Noah is called righteous and blameless, yet these qualities are expressed in relational terms: he walked with God.  
+v01–04: The identity of the “sons of God” and the Nephilim is left unexplained. The text preserves the mystery rather than defining these figures.  
+v03: The statement concerning one hundred twenty years has been interpreted in multiple ways. The verse itself does not specify whether it refers to lifespan, judgment, or a period before the flood.  
+v05: Human corruption is described comprehensively. Evil reaches not only actions but the inclinations and thoughts of the heart.  
+v06: The LORD’s regret and grief are presented without qualification. The text speaks of God relationally and personally.  
+v07: Judgment extends beyond humanity to the wider created order that has been drawn into human corruption.  
+v08: Noah appears as an exception within a world marked by violence. Favor precedes the detailed description of his character.  
+v09: Noah is called righteous and blameless, yet these qualities are expressed in relational terms: he walked with God.  
 v11–13: Violence becomes the defining characteristic of the earth. Corruption is both moral and communal.  
 v14–16: The detailed instructions emphasize preparation, obedience, and preservation amid coming judgment.  
 v17: The flood is described as an act of divine judgment against all flesh, reversing the ordered world of creation.  
 v18: This is the first occurrence of “covenant” in Scripture. The relationship between God and Noah becomes the means through which preservation occurs.  
 v22: Noah’s obedience is stated simply and completely. The narrative emphasizes faithful action rather than explanation.  
 
-##Vocabulary
+## Vocabulary
 
-v2: בְּנֵי הָאֱלֹהִים (bĕnê hāʾĕlōhîm)  
+v02: בְּנֵי הָאֱלֹהִים (bĕnê hāʾĕlōhîm)  
 “Sons of God.” A phrase whose precise referent remains debated and intentionally unresolved in the text.  
 
-v3: רוּחַ (rûaḥ)  
+v03: רוּחַ (rûaḥ)  
 
-v3: “Spirit,” “breath,” or “wind.” The word carries a range of meanings and often signifies life-giving divine activity.  
+v03: “Spirit,” “breath,” or “wind.” The word carries a range of meanings and often signifies life-giving divine activity.  
 
-v4: נְפִלִים (nĕphîlîm)  
+v04: נְפִלִים (nĕphîlîm)  
 “Nephilim.” A rare term preserved as a name rather than translated due to its uncertainty.  
 
-v5: יֵצֶר (yēṣer)  
+v05: יֵצֶר (yēṣer)  
 “Inclination” or “formation.” Refers to the shaping of thought and intention within the heart.  
 
-v6: נָחַם (nāḥam)  
+v06: נָחַם (nāḥam)  
 “To regret,” “be sorry,” or “be moved with sorrow.” The term expresses profound emotional response.  
 
-v8: חֵן (ḥēn)  
+v08: חֵן (ḥēn)  
 “Favor” or “grace.” Indicates acceptance or goodwill bestowed by another.  
 
-v9: צַדִּיק (ṣaddîq)  
+v09: צַדִּיק (ṣaddîq)  
 “Righteous.” One whose life aligns with covenantal faithfulness and justice.  
 
 v11: חָמָס (ḥāmās)  
@@ -99,12 +99,6 @@ v18: בְּרִית (bĕrît)
 
 v22: צִוָּה (ṣiwwâ)  
 “To command.” The verb highlights Noah’s response to divine instruction.  
-
-v04: נְפִלִים (nĕphîlîm)
-“Nephilim.” A rare term preserved as a name rather than translated due to its uncertainty.
-
-v08: חֵן (ḥēn)
-“Favor” or “grace.” Indicates acceptance or goodwill bestowed by another.
 
 v09: צַדִּיק (ṣaddîq)
 “Righteous; just.” One characterized by right conduct or right standing.

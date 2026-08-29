@@ -139,7 +139,7 @@ v11: Threshing was easier than plowing and allowed the animal to eat while worki
 v12: Agricultural repentance imagery reverses verse 13: righteousness is sown, steadfast love harvested, and hard ground broken open.
 v14: Shalman and Beth-Arbel are historically uncertain. The verse assumes a remembered atrocity without identifying it further.
 
-##Vocabulary
+## Vocabulary
 
 v01: גֶּפֶן (gefen)
 “Vine.” Israel is compared with a luxuriant or spreading vine.

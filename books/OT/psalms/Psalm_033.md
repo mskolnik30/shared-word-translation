@@ -115,10 +115,10 @@ v22: Let your steadfast love, O LORD, be upon us,
 even as we hope in you.
 </p>
 ## Notes
-v1–3: Worship is communal, vocal, and skillful; joy and artistry are appropriate responses to God.
-v4–5: The LORD’s “word” and “work” are aligned—speech and action share integrity.
-v6–7: Creation arises from divine speech and breath; ordering chaos (waters, deeps) reflects sovereign control.
-v8–9: Universal summons—fear and awe arise from the effectiveness of divine command.
+v01–03: Worship is communal, vocal, and skillful; joy and artistry are appropriate responses to God.
+v04–05: The LORD’s “word” and “work” are aligned—speech and action share integrity.
+v06–07: Creation arises from divine speech and breath; ordering chaos (waters, deeps) reflects sovereign control.
+v08–09: Universal summons—fear and awe arise from the effectiveness of divine command.
 v10–11: Human plans are contingent; divine counsel is enduring and generational.
 v12: Election language (“chosen,” “heritage”) frames identity as given, not achieved.
 v13–15: Divine perception is total—God forms hearts and evaluates deeds.
@@ -126,61 +126,61 @@ v16–17: Military power is relativized; conventional means of security are expo
 v18–19: The LORD’s “eye” signals attentive care toward those who fear and hope.
 v20–22: The community responds with waiting, trust, and petition; hope and steadfast love are mutually oriented.
 
-##Vocabulary
+## Vocabulary
 
-v1: רָנַן (rānan)  
+v01: רָנַן (rānan)  
 
 “To shout for joy.” To cry out in rejoicing.
 
-v1: יָשָׁר (yāšār)  
+v01: יָשָׁר (yāšār)  
 
 “Upright.” Straight, morally aligned.
 
-v2: יָדָה (yāḏāh)  
+v02: יָדָה (yāḏāh)  
 
 “To give thanks.” To praise, acknowledge.
 
-v3: חָדָשׁ (ḥāḏāš)  
+v03: חָדָשׁ (ḥāḏāš)  
 
 “New.” Fresh, renewed.
 
-v4: יָשָׁר (yāšār)  
+v04: יָשָׁר (yāšār)  
 
 “Upright.” Straight, reliable.
 
-v4: אֱמוּנָה (ʾĕmûnāh)  
+v04: אֱמוּנָה (ʾĕmûnāh)  
 
 “Faithfulness.” Firmness, reliability.
 
-v5: צְדָקָה (ṣĕḏāqāh)  
+v05: צְדָקָה (ṣĕḏāqāh)  
 
 “Righteousness.” Right order, justice.
 
-v5: מִשְׁפָּט (mišpāṭ)  
+v05: מִשְׁפָּט (mišpāṭ)  
 
 “Justice.” Legal judgment.
 
-v5: חֶסֶד (ḥeseḏ)  
+v05: חֶסֶד (ḥeseḏ)  
 
 “Steadfast love.” Covenant loyalty.
 
-v6: דָּבָר (dāḇār)  
+v06: דָּבָר (dāḇār)  
 
 “Word.” Spoken command.
 
-v6: רוּחַ (rûaḥ)  
+v06: רוּחַ (rûaḥ)  
 
 “Breath/spirit.” Life-giving force.
 
-v7: תְּהוֹם (tĕhôm)  
+v07: תְּהוֹם (tĕhôm)  
 
 “Deep.” Primeval waters.
 
-v8: יָרֵא (yārēʾ)  
+v08: יָרֵא (yārēʾ)  
 
 “To fear.” Reverent awe.
 
-v9: עָמַד (ʿāmaḏ)  
+v09: עָמַד (ʿāmaḏ)  
 
 “To stand.” To be established.
 
@@ -228,14 +228,3 @@ v22: רָצוֹן (rāṣôn)
 
 “Favor.” Acceptance, goodwill.
 
-v04: אֱמוּנָה (ʾĕmûnāh)
-“Faithfulness.” Firmness, reliability.
-
-v05: צְדָקָה (ṣĕḏāqāh)
-“Righteousness.” Right order, justice.
-
-v05: מִשְׁפָּט (mišpāṭ)
-“Justice.” Legal judgment.
-
-v05: חֶסֶד (ḥeseḏ)
-“Steadfast love.” Covenant loyalty.

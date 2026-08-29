@@ -68,7 +68,7 @@ v11: “curse” — The Hebrew text literally uses the verb “bless” in a co
 v20–21: Job’s mourning practices are concrete and severe, yet his first response remains worship. His confession does not explain his suffering or indicate that the losses are morally deserved.
 v22: The narrator explicitly rejects the claim that Job has sinned through his initial response, establishing a boundary for later interpretations by his friends.
 
-##Vocabulary
+## Vocabulary
 
 v01: תָּם (tam)
 “Blameless” or “whole.” Describes integrity and completeness of character.

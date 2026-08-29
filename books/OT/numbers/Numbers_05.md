@@ -66,7 +66,7 @@ v12–31: The procedure addresses a case in which adultery is suspected but cann
 v21: “thigh to fall” — The Hebrew expression is difficult and likely functions as a bodily euphemism. TSW preserves the wording rather than specifying an anatomical diagnosis the text does not state.
 v28: The innocent outcome includes freedom from the curse and the ability to conceive, making the ritual’s purpose one of public resolution as well as judgment.
 
-##Vocabulary
+## Vocabulary
 
 v02: טָמֵא (tame)
 “Unclean.” A ritual condition affecting access to sacred space.

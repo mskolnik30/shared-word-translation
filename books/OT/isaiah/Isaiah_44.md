@@ -71,33 +71,25 @@ v27: who says to the deep, 'Be dry,' and 'I will dry up your rivers;'
 v28: Who says of Cyrus, 'He is my shepherd, and will perform all my pleasure,' even saying of Jerusalem, 'She will be built;' and of the temple, 'Your foundation will be laid.'"
 </p>
 ## Notes
-v9: The extended satire of idol-making exposes the contradiction of using the same material for ordinary fuel and for an object of worship.  
-v6: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v6: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
-v1: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+v09: The extended satire of idol-making exposes the contradiction of using the same material for ordinary fuel and for an object of worship.  
+v06: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v06: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
+v01: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
-##Vocabulary
+## Vocabulary
 
-v6: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
-v6: גֹּאֵל (go'el)  
+v06: גֹּאֵל (go'el)  
 “Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.  
 
-v1: עֶבֶד (eved)  
+v01: עֶבֶד (eved)  
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
-v3: רוּחַ (ruach)  
+v03: רוּחַ (ruach)  
 “Spirit,” “wind,” or “breath.” A term whose sense is determined by context.  
 
 v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v06: גֹּאֵל (go'el)
-“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
-
-v01: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
-v03: רוּחַ (ruach)
-“Spirit,” “wind,” or “breath.” A term whose sense is determined by context.

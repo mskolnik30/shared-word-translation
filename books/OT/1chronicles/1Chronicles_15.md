@@ -71,7 +71,7 @@ v28: Thus all Israel brought up the ark of the covenant of the LORD with a shout
 v29: As the ark of the covenant of the LORD came into the city of David, Michal daughter of Saul looked out through the window. She saw King David dancing and celebrating, and she despised him in her heart.
 </p>
 ## Notes
-v2: - v02: David’s declaration corrects the earlier attempt to transport the ark. The Levites’ role is grounded both in the LORD’s choosing and in their enduring service before him.  
+v02: - v02: David’s declaration corrects the earlier attempt to transport the ark. The Levites’ role is grounded both in the LORD’s choosing and in their enduring service before him.  
 v12–15: - v12–15: “Sanctify yourselves” marks preparation for holy service. David connects the earlier disaster not merely with an improper outcome, but with failure to seek God “according to the ordinance”—that is, according to the prescribed order.  
 v13: - v13: “Broke out against us” uses forceful language for God’s judgment, recalling the death of Uzzah in the earlier attempt to move the ark (1 Chronicles 13:9–10).  
 v20–21: - v20–21: *Alamoth* (“young women” or “maidens”) and “the eighth” are musical designations whose precise technical sense is uncertain. They may indicate vocal ranges, instruments, or musical modes.  
@@ -79,9 +79,9 @@ v22: - v22: The repeated word translated “carrying” can also have a broader 
 v27: - v27: The Hebrew syntax concerning Chenaniah and the singers is compressed. The verse closely joins the bearers, singers, and the official responsible for the carrying, while emphasizing their shared linen attire.  
 v29: - v29: Michal’s inward contempt closes the account’s public celebration with a note of tension. The text does not yet state her response aloud, only her judgment within herself.  
 
-##Vocabulary
+## Vocabulary
 
-v2: - v02: **שָׁרַת — *sharat***: “to minister, serve.” The Levites are chosen not only to carry the ark but to perform enduring service before the LORD.  
+v02: - v02: **שָׁרַת — *sharat***: “to minister, serve.” The Levites are chosen not only to carry the ark but to perform enduring service before the LORD.  
 
 v12: קָדַשׁ (qadash)
 “to sanctify, make holy.” The leaders and their kindred must be set apart before handling the ark.

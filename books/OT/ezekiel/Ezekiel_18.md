@@ -102,13 +102,13 @@ v32: For I have no pleasure in the death of anyone, declares the LORD GOD;
 so turn, and live."
 </p>
 ## Notes
-v2: - **v02 "The fathers have eaten sour grapes, and the children's teeth are set on edge"**: This proverb suggests intergenerational punishment, which Yahweh refutes, emphasizing personal accountability in this vision.  
-v4: - **v04 "every soul is mine"**: A declaration underlining divine authority over all individuals, establishing the context for individual responsibility.  
+v02: - **v02 "The fathers have eaten sour grapes, and the children's teeth are set on edge"**: This proverb suggests intergenerational punishment, which Yahweh refutes, emphasizing personal accountability in this vision.  
+v04: - **v04 "every soul is mine"**: A declaration underlining divine authority over all individuals, establishing the context for individual responsibility.  
 v21–22: - **v21-22 "a wicked person turns...he shall not die... None of the transgressions... shall be remembered"**: Highlights the theological principle of repentance, forgiveness, and the opportunity for a new beginning.  
 v30: - **v30 "Repent and turn from all your transgressions"**: A call to repentance, emphasizing a return to Yahweh's ways as the path to life.  
 v32: - **v32 "no pleasure in the death of anyone"**: Affirms God's desire for repentance and life over judgment and death, underscoring divine compassion.  
 
-##Vocabulary
+## Vocabulary
 
 v20: - **v20 נֶ֫פֶשׁ (nephesh)**: Translated as "soul," it indicates individual life and responsibility throughout the passage.  
   

@@ -55,46 +55,46 @@ v14: and Adam was not deceived, but the woman, having been deceived, became a tr
 v15: Yet she will be saved through childbearing—if they continue in faith and love and holiness with self-control.
 </p>
 ## Notes
-v1–2: Prayer is expansive (“for all people”) yet directed toward social conditions (“peaceful and quiet life”).  
-v3–4: God’s desire is universal in scope, though its outworking is not explained.  
-v5–6: The singularity of God and mediator structures the theological claim.  
-v6: “Ransom for all” is stated without specifying mechanism.  
-v7: Paul’s authority is asserted emphatically.  
-v8: Prayer is linked with relational integrity (“without anger or dispute”).  
-v9–10: External adornment is relativized in favor of ethical expression.  
+v01–02: Prayer is expansive (“for all people”) yet directed toward social conditions (“peaceful and quiet life”).  
+v03–04: God’s desire is universal in scope, though its outworking is not explained.  
+v05–06: The singularity of God and mediator structures the theological claim.  
+v06: “Ransom for all” is stated without specifying mechanism.  
+v07: Paul’s authority is asserted emphatically.  
+v08: Prayer is linked with relational integrity (“without anger or dispute”).  
+v09–10: External adornment is relativized in favor of ethical expression.  
 v11–12: Instruction regarding women is stated without qualification or contextual explanation, creating interpretive tension.  
 v13–14: The appeal to creation and deception grounds the instruction but does not resolve its application.  
 v15: “Saved through childbearing” is ambiguous. The condition (“if they continue…”) shifts the focus to perseverance in faith.  
 
-##Vocabulary
+## Vocabulary
 
-v1: δέησις (deēsis)  
+v01: δέησις (deēsis)  
 
-v1: “Petition.” Specific request.  
+v01: “Petition.” Specific request.  
 
-v1: ἔντευξις (enteuxis)  
+v01: ἔντευξις (enteuxis)  
 
-v1: “Intercession.” Appeal on behalf of another.  
+v01: “Intercession.” Appeal on behalf of another.  
 
-v4: ἐπίγνωσις (epignōsis)  
+v04: ἐπίγνωσις (epignōsis)  
 
-v4: “Full knowledge.” Deep understanding.  
+v04: “Full knowledge.” Deep understanding.  
 
-v5: μεσίτης (mesitēs)  
+v05: μεσίτης (mesitēs)  
 
-v5: “Mediator.” One who stands between.  
+v05: “Mediator.” One who stands between.  
 
-v6: ἀντίλυτρον (antilytron)  
+v06: ἀντίλυτρον (antilytron)  
 
-v6: “Ransom.” Price paid for release.  
+v06: “Ransom.” Price paid for release.  
 
-v8: ὅσιος (hosios)  
+v08: ὅσιος (hosios)  
 
-v8: “Holy.” Devoted or set apart.  
+v08: “Holy.” Devoted or set apart.  
 
-v9: αἰδώς (aidōs)  
+v09: αἰδώς (aidōs)  
 
-v9: “Modesty.” Sense of propriety.  
+v09: “Modesty.” Sense of propriety.  
 
 v11: ἡσυχία (hēsychia)  
 

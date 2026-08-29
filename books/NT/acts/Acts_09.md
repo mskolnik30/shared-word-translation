@@ -145,8 +145,8 @@ v42: And it became known throughout all Joppa, and many believed in the Lord.
 v43: And it happened that he stayed many days in Joppa with a certain Simon, a tanner.
 </p>
 ## Notes
-v3–6: Encounter with Jesus redefines persecution as opposition to him personally.
-v9: Blindness prepares for reorientation.
+v03–06: Encounter with Jesus redefines persecution as opposition to him personally.
+v09: Blindness prepares for reorientation.
 v15–16: Calling includes both mission and suffering.
 v17–18: Healing, Spirit reception, and baptism form a unified initiation.
 v20–22: Immediate proclamation demonstrates transformed identity.
@@ -157,21 +157,21 @@ v34–35: Healing leads to widespread turning.
 v40–41: Resurrection parallels earlier apostolic patterns.
 v42–43: Signs result in belief and extended presence.
 
-##Vocabulary
+## Vocabulary
 
-v2: ὁδός (hodos)
+v02: ὁδός (hodos)
 
 “The Way.”
 
-v3: φῶς (phōs)
+v03: φῶς (phōs)
 
 “Light.”
 
-v4: διώκω (diōkō)
+v04: διώκω (diōkō)
 
 “To persecute.”
 
-v9: τυφλός (typhlos)
+v09: τυφλός (typhlos)
 
 “Blind.”
 
@@ -226,14 +226,3 @@ v42: πιστεύω (pisteuō)
 
 “To believe.”
 
-v02: ὁδός (hodos)
-“The Way.”
-
-v03: φῶς (phōs)
-“Light.”
-
-v04: διώκω (diōkō)
-“To persecute.”
-
-v09: τυφλός (typhlos)
-“Blind.”

@@ -70,10 +70,10 @@ v35: The Father loves the Son and has placed all things in his hand.
 v36: Whoever trusts in the Son has eternal life; whoever refuses the Son will not see life, but the wrath of God remains upon him.”
 </p>
 ## Notes
-v1–2: Nicodemus comes “by night,” a narrative detail that signals both caution and incomplete understanding without explicit judgment.  
-v3: “Born from above” deliberately carries double meaning (from above / again). Jesus does not resolve the ambiguity, and Nicodemus hears it concretely.  
-v5: “Water and Spirit” is presented without explanation or ritual definition. The text does not specify mechanism or sequence.  
-v6–8: Flesh and Spirit are contrasted as sources of life. The wind/Spirit metaphor emphasizes freedom and invisibility rather than control or predictability.  
+v01–02: Nicodemus comes “by night,” a narrative detail that signals both caution and incomplete understanding without explicit judgment.  
+v03: “Born from above” deliberately carries double meaning (from above / again). Jesus does not resolve the ambiguity, and Nicodemus hears it concretely.  
+v05: “Water and Spirit” is presented without explanation or ritual definition. The text does not specify mechanism or sequence.  
+v06–08: Flesh and Spirit are contrasted as sources of life. The wind/Spirit metaphor emphasizes freedom and invisibility rather than control or predictability.  
 v11–12: The shift to first-person plural (“we speak…”) broadens testimony beyond Jesus alone, without identifying its scope.  
 v13: The Son of Man is defined by descent rather than ascent. Authority is grounded in origin, not achievement.  
 v14–15: The serpent image links lifting up with healing and trust, not explanation of atonement. The necessity (“must”) is stated, not justified.  
@@ -83,13 +83,13 @@ v18–21: Judgment is described as exposure to light rather than an imposed sent
 v29–30: John the Baptist interprets his role relationally, not competitively. Decrease is named as fulfillment, not loss.  
 v31–36: Heavenly origin and testimony are emphasized repeatedly. Trust and refusal are presented as present realities, not merely future outcomes.  
 
-##Vocabulary
+## Vocabulary
 
-v3: ἄνωθεν (anōthen) — from above; again; intentionally ambiguous in direction and time.  
+v03: ἄνωθεν (anōthen) — from above; again; intentionally ambiguous in direction and time.  
 
-v5: πνεῦμα (pneuma) — Spirit; wind; breath; carries layered meaning throughout the passage.  
+v05: πνεῦμα (pneuma) — Spirit; wind; breath; carries layered meaning throughout the passage.  
 
-v8: φωνή (phōnē) — sound; voice; emphasizes effect without visible source.  
+v08: φωνή (phōnē) — sound; voice; emphasizes effect without visible source.  
 
 v11: μαρτυρέω (martyreō)
 “To testify; to bear witness; relational rather than argumentative.”

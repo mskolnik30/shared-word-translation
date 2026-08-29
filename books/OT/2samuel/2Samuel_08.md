@@ -75,7 +75,7 @@ v15: The chapter’s summary of conquest ends with justice and righteousness for
 v17: The priestly names differ from some parallel lists and may reflect textual transmission or multiple offices. TSW preserves Samuel’s form.
 v18: Calling David’s sons “priests” is surprising because they are not Levites. The Hebrew *kohanim* can sometimes denote high royal officials, though priest is its ordinary meaning. TSW retains “priests” and notes the issue.
 
-##Vocabulary
+## Vocabulary
 
 v01: כָּנַע (kana)
 “To subdue.” David brings Philistine power under control.

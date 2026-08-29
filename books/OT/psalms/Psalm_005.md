@@ -74,41 +74,41 @@ v12: For you bless the righteous, O LORD;
 you cover him with favor as with a shield.
 </p>
 ## Notes
-v1–3: Prayer is persistent and ordered—morning establishes orientation toward God.
-v4–6: God’s character excludes evil; holiness defines access.
-v7: Entry into God’s presence is grounded in steadfast love, not merit.
-v8: Guidance is needed because of opposition; righteousness is the path.
-v9: The wicked are described in terms of speech—falsehood, flattery, destruction.
+v01–03: Prayer is persistent and ordered—morning establishes orientation toward God.
+v04–06: God’s character excludes evil; holiness defines access.
+v07: Entry into God’s presence is grounded in steadfast love, not merit.
+v08: Guidance is needed because of opposition; righteousness is the path.
+v09: The wicked are described in terms of speech—falsehood, flattery, destruction.
 v10: Judgment is framed as consequence (“fall by their own counsels”).
 v11–12: Refuge produces joy; protection is relational (“spread your protection”).
 
-##Vocabulary
+## Vocabulary
 
-v1: אֹזֶן (ozen)  
+v01: אֹזֶן (ozen)  
 “Ear.” Attention.
 
-v1: הָגִיג (hagig)  
+v01: הָגִיג (hagig)  
 “Groaning.” Murmur or meditation.
 
-v3: עָרַךְ (arak)  
+v03: עָרַךְ (arak)  
 “To prepare.” Arrange (offering/prayer).
 
-v4: רָשָׁע (rasha)  
+v04: רָשָׁע (rasha)  
 “Wicked.” Opposed to God.
 
-v5: יָצַב (yatsav)  
+v05: יָצַב (yatsav)  
 “To stand.” Take position.
 
-v6: כָּזָב (kazav)  
+v06: כָּזָב (kazav)  
 “Lie.” Falsehood.
 
-v7: חֶסֶד (chesed)  
+v07: חֶסֶד (chesed)  
 “Steadfast love.” Covenant loyalty.
 
-v8: יָשַׁר (yashar)  
+v08: יָשַׁר (yashar)  
 “To make straight.” Direct path.
 
-v9: קֶבֶר (qever)  
+v09: קֶבֶר (qever)  
 “Grave.” Place of death.
 
 v11: חָסָה (chasah)  
@@ -117,14 +117,3 @@ v11: חָסָה (chasah)
 v12: צִנָּה (tsinnah)  
 “Shield.” Protective covering.
 
-v01: אֹזֶן (ozen)
-“Ear.” Attention.
-
-v01: הָגִיג (hagig)
-“Groaning.” Murmur or meditation.
-
-v03: עָרַךְ (arak)
-“To prepare.” Arrange (offering/prayer).
-
-v07: חֶסֶד (chesed)
-“Steadfast love.” Covenant loyalty.

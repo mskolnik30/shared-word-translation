@@ -139,7 +139,7 @@ v18–21: The Hebrew of these lines is difficult. The general warning is against
 v27–33: Elihu turns from moral argument toward weather and divine power. This transition prepares literarily for the LORD’s coming speech from the storm.
 v33: The final Hebrew line is especially obscure. TSW follows the sense that animals perceive or announce the approaching storm.
 
-##Vocabulary
+## Vocabulary
 
 v03: צֶדֶק (tsedeq)
 “Righteousness.” Elihu seeks to attribute righteousness to his Maker.

@@ -82,7 +82,7 @@ v18: With this verse the extended Aramaic section that began at Ezra 4:8 ends. E
 v21: Participation in Passover includes returned Israelites and others who separated themselves from the uncleanness of the surrounding peoples to seek the LORD. The defining movement is toward covenant worship.
 v22: Darius is unexpectedly called “king of Assyria.” The title may view Persian rule as inheriting the older imperial dominion over the region. TSW retains the received designation.
 
-##Vocabulary
+## Vocabulary
 
 v01: בֵּית סִפְרַיָּא (bet sifrayya)
 “House of the archives.” A repository of royal written records.

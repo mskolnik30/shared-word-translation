@@ -46,7 +46,7 @@ v11: “Dumah” can be a place name and also sounds like the Hebrew word for si
 v10: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
 v16: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
-##Vocabulary
+## Vocabulary
 
 v10: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  

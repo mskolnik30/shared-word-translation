@@ -141,7 +141,7 @@ v23: “messenger … interpreter” — The figure’s identity is not defined.
 v24: “ransom” — Hebrew *kofer* can mean a price of release or covering payment. Elihu introduces it without describing its source.
 v26–28: Restoration includes prayer, renewed access to God’s face, confession, righteousness, and return from the pit to light.
 
-##Vocabulary
+## Vocabulary
 
 v04: נְשָׁמָה (neshamah)
 “Breath.” The breath of the Almighty gives Elihu life.

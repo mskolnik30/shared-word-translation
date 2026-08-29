@@ -65,9 +65,9 @@ v21: Then Israel said to Joseph, “Behold, I am about to die, but God will be w
 v22: Moreover, I have given to you one mountain slope more than to your brothers, which I took from the hand of the Amorite with my sword and with my bow.”
 </p>
 ## Notes
-v3–4: Jacob recalls the covenant promises given at Bethel before addressing Joseph’s sons.  
-v5–6: Ephraim and Manasseh are adopted as Jacob’s own sons, effectively granting Joseph a double portion among the tribes.  
-v7: The remembrance of Rachel connects Joseph’s sons with their grandmother and the covenant family story.  
+v03–04: Jacob recalls the covenant promises given at Bethel before addressing Joseph’s sons.  
+v05–06: Ephraim and Manasseh are adopted as Jacob’s own sons, effectively granting Joseph a double portion among the tribes.  
+v07: The remembrance of Rachel connects Joseph’s sons with their grandmother and the covenant family story.  
 v10: Jacob’s failing eyesight recalls Isaac’s blindness, though this scene reaches a different outcome.  
 v13–14: Joseph carefully arranges the sons according to birth order, but Jacob intentionally crosses his hands.  
 v15–16: The blessing summarizes Jacob’s life in terms of God’s guidance, provision, and redemption.  
@@ -79,15 +79,15 @@ v20: Ephraim’s name is placed before Manasseh’s in Israel’s future blessin
 v21–22: Jacob ends with confidence that God will bring his descendants back to the promised land.  
 v22: Joseph receives an additional inheritance portion through his two sons.  
 
-##Vocabulary
+## Vocabulary
 
-v3: אֵל שַׁדַּי (ʾEl Šadday)  
+v03: אֵל שַׁדַּי (ʾEl Šadday)  
 “God Almighty.” A covenant title emphasizing divine power and faithfulness.  
 
-v4: אֲחֻזַּת עוֹלָם (ʾăḥuzzat ʿôlām)  
+v04: אֲחֻזַּת עוֹלָם (ʾăḥuzzat ʿôlām)  
 “Everlasting possession.” A permanent inheritance granted by covenant promise.  
 
-v5: לִי הֵם (lî hēm)  
+v05: לִי הֵם (lî hēm)  
 “They are mine.” Adoption language establishing Ephraim and Manasseh as tribal heirs.  
 
 v10: נָשַׁק (nāšaq)  
@@ -120,5 +120,3 @@ v21: שׁוּב (šûḇ)
 v03: אֵל שַׁדַּי (ʾEl Šadday)
 “God Almighty.” Traditional rendering of the divine title; the precise etymology of Shaddai is uncertain.
 
-v04: אֲחֻזַּת עוֹלָם (ʾăḥuzzat ʿôlām)
-“Everlasting possession.” A permanent inheritance granted by covenant promise.

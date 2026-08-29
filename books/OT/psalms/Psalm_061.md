@@ -37,15 +37,15 @@ v02: "From the end of the earth" signifies an expression of extreme distance or 
 v03: "Refuge" and "strong tower" are metaphors describing God's protection. They evoke images of safety and fortification amidst threats.
 v06: "Prolong the days of the king" likely refers to a desire for longevity and continued stability under the king's reign, hinting at a messianic hope extending through the Davidic dynasty.
 
-##Vocabulary
+## Vocabulary
 
-v2: אֱלֹהִים (e.lo.him) — Traditionally translated as "God," this plural form carries a sense of majesty and sovereign power. It emphasizes both the nearness and transcendence of God as the psalmist makes his plea. 
+v02: אֱלֹהִים (e.lo.him) — Traditionally translated as "God," this plural form carries a sense of majesty and sovereign power. It emphasizes both the nearness and transcendence of God as the psalmist makes his plea. 
 
-v3: צוּר (tsur) — Meaning "rock," this term is a common biblical metaphor for stability and security. The plea for guidance to a rock "higher than I" suggests seeking divine protection in a place unattainable by human strength alone.
+v03: צוּר (tsur) — Meaning "rock," this term is a common biblical metaphor for stability and security. The plea for guidance to a rock "higher than I" suggests seeking divine protection in a place unattainable by human strength alone.
 
-v8: חֶסֶד (che.sed) — Often translated as "steadfast love" or "lovingkindness," this word denotes a committed love that is reliable and faithful, essential for covenantal relationships. 
+v08: חֶסֶד (che.sed) — Often translated as "steadfast love" or "lovingkindness," this word denotes a committed love that is reliable and faithful, essential for covenantal relationships. 
 
-v8: אֱמֶת (e.met) — Translated "faithfulness" or "truth," it underscores reliability or dependability, together with "chesed" forming a pair that denotes attributes of God’s character, ensuring divine protection.
+v08: אֱמֶת (e.met) — Translated "faithfulness" or "truth," it underscores reliability or dependability, together with "chesed" forming a pair that denotes attributes of God’s character, ensuring divine protection.
 
 v01: אֱלֹהִים (elohim)
 “God.” The common Hebrew designation for God.

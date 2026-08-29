@@ -69,14 +69,14 @@ v23: and I will put it into the hand of those who afflict you, who have said to 
 and you have laid your back as the ground, and as the street, to those who go over.
 </p>
 ## Notes
-v9: “Rahab” here is a poetic name for a defeated chaos power, not the person named Rahab in Joshua. The sea-dragon imagery recalls divine victory over threatening waters.  
+v09: “Rahab” here is a poetic name for a defeated chaos power, not the person named Rahab in Joshua. The sea-dragon imagery recalls divine victory over threatening waters.  
 v15: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v3: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v4: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.  
+v03: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v04: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.  
 
-##Vocabulary
+## Vocabulary
 
-v9: רַהַב (Rahav)  
+v09: רַהַב (Rahav)  
 “Rahab.” A poetic chaos figure associated with defeated sea power.  
 
 v15: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
@@ -85,17 +85,12 @@ v15: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 v15: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v3: צִיּוֹן (tsiyyon)  
+v03: צִיּוֹן (tsiyyon)  
 “Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
-v4: מִשְׁפָּט (mishpat)  
+v04: מִשְׁפָּט (mishpat)  
 “Justice” or “judgment.” Right judgment and right communal ordering.  
-
-v09: רַהַב (Rahav)
-“Rahab.” A poetic chaos figure associated with defeated sea power.
 
 v03: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v04: מִשְׁפָּט (mishpat)
-“Justice” or “judgment.” Right judgment and right communal ordering.

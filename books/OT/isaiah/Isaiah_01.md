@@ -71,33 +71,25 @@ v30: For you will be as an oak whose leaf fades, and as a garden that has no wat
 v31: The strong will be like tinder, and his work like a spark. They will both burn together, and no one will quench them."
 </p>
 ## Notes
-v1: “vision” — The heading places the book within prophetic seeing concerning Judah and Jerusalem across the reigns of several kings.  
-v4: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
-v9: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v9: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
+v01: “vision” — The heading places the book within prophetic seeing concerning Judah and Jerusalem across the reigns of several kings.  
+v04: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v09: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v09: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
 
-##Vocabulary
+## Vocabulary
 
-v1: חָזוֹן (chazon)  
+v01: חָזוֹן (chazon)  
 “Vision.” Prophetic revelation or what is seen in prophetic disclosure.  
 
-v4: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+v04: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.  
 
-v9: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v09: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
-v9: שְׁאָר (she'ar)  
+v09: שְׁאָר (she'ar)  
 “Remnant.” Those who remain or survive.  
-
-v01: חָזוֹן (chazon)
-“Vision.” Prophetic revelation or what is seen in prophetic disclosure.
-
-v04: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
 v09: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v09: שְׁאָר (she'ar)
-“Remnant.” Those who remain or survive.

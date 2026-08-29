@@ -103,21 +103,21 @@ v33: Jacob said, “Swear to me now.” So he swore to him and sold his birthrig
 v34: Then Jacob gave Esau bread and lentil stew, and he ate and drank and rose and went his way. Thus Esau despised his birthright.
 </p>
 ## Notes
-v5–6: The inheritance is sharply centralized in Isaac, preserving covenant lineage.  
-v8: “Full” suggests completion, not merely longevity.  
+v05–06: The inheritance is sharply centralized in Isaac, preserving covenant lineage.  
+v08: “Full” suggests completion, not merely longevity.  
 v18: Ishmael’s line fulfills promise yet remains outside the covenant trajectory.  
 v21: Infertility again frames divine action—continuity depends on intervention.  
 v23: The oracle reverses primogeniture norms, establishing theological priority over custom.  
 v27–28: Parental favoritism introduces tension within the covenant household.  
 v29–34: Esau’s action is framed as contempt, not mere impulsiveness.
 
-##Vocabulary
+## Vocabulary
 
-v5: נָתַן (nāṯan)  
+v05: נָתַן (nāṯan)  
 
 “To give.” Transfer with authority or intention.  
 
-v8: שָׂבֵעַ (śāvēaʿ)  
+v08: שָׂבֵעַ (śāvēaʿ)  
 
 “Full, satisfied.” Completion of life’s course.  
 
@@ -151,8 +151,3 @@ v34: בָּזָה (bāzāh)
 
 “To despise.” To treat as insignificant or worthless.  
 
-v05: נָתַן (nāṯan)
-“To give.” Transfer with authority or intention.
-
-v08: שָׂבֵעַ (śāvēaʿ)
-“Full, satisfied.” Completion of life’s course.

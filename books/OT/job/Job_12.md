@@ -106,7 +106,7 @@ v07–10: Creation itself testifies to dependence upon divine power. Job can aff
 v09: “the hand of the LORD” — This is the only occurrence of the divine name YHWH in the poetic dialogue outside the prose framework, making the line especially notable.
 v16–25: Job describes divine sovereignty as destabilizing human hierarchies: counselors, judges, kings, priests, elders, nobles, and nations can all be overturned.
 
-##Vocabulary
+## Vocabulary
 
 v03: לֵבָב (levav)
 “Heart.” Here intellectual and moral understanding: “I also have a heart.”

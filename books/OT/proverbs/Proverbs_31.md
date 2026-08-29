@@ -184,11 +184,11 @@ and let her works praise her
 at the gates.
 </p>
 ## Notes
-v1: Lemuel is otherwise unknown. The chapter presents royal wisdom explicitly as instruction received from his mother.  
-v3: The warning concerning women is addressed specifically to royal misuse of sexual power and the patterns that can destroy rulers; it is not a condemnation of women in general.  
-v4–5: The concern with alcohol is tied directly to the king’s duty to remember law and protect the afflicted.  
-v6–7: These verses describe strong drink as relief for those already perishing or deeply miserable, sharply contrasting such use with rulers whose judgment must remain clear.  
-v8: “those without a voice” refers to people unable to advocate effectively for their own legal claims. The king is instructed to use power on behalf of those lacking it.  
+v01: Lemuel is otherwise unknown. The chapter presents royal wisdom explicitly as instruction received from his mother.  
+v03: The warning concerning women is addressed specifically to royal misuse of sexual power and the patterns that can destroy rulers; it is not a condemnation of women in general.  
+v04–05: The concern with alcohol is tied directly to the king’s duty to remember law and protect the afflicted.  
+v06–07: These verses describe strong drink as relief for those already perishing or deeply miserable, sharply contrasting such use with rulers whose judgment must remain clear.  
+v08: “those without a voice” refers to people unable to advocate effectively for their own legal claims. The king is instructed to use power on behalf of those lacking it.  
 v10: The Hebrew *eshet chayil* literally describes a “woman of strength,” capacity, valor, or excellence. The poem that follows demonstrates her strength economically, socially, physically, relationally, and spiritually.  
 v10–31: These verses form an alphabetic acrostic in Hebrew, each verse beginning with the successive letters of the Hebrew alphabet. English lineation cannot reproduce that structure without substantially altering the translation.  
 v16: The woman is economically active in her own right: she evaluates property, purchases it, and develops it through the work of her hands.  
@@ -198,15 +198,15 @@ v26: “instruction of steadfast love” can describe teaching characterized by 
 v30: The poem finally relocates praise away from charm and physical beauty toward the fear of the LORD, gathering the entire book’s wisdom theology into its closing portrait.  
 v31: The woman’s works themselves are called to praise her publicly “at the gates,” the same civic setting where judgment, commerce, and reputation were established.  
 
-##Vocabulary
+## Vocabulary
 
-v1: מַשָּׂא (massa)  
+v01: מַשָּׂא (massa)  
 “Oracle” or “weighty saying.” The designation given to Lemuel’s received instruction.  
 
-v8: אִלֵּם (illem)  
+v08: אִלֵּם (illem)  
 “Without a voice” or “unable to speak.” One unable to advocate effectively for their own cause.  
 
-v9: דִּין (din)  
+v09: דִּין (din)  
 “To judge” or “defend a legal claim.” Used here in connection with the rights of the poor and needy.  
 
 v10: אֵשֶׁת־חַיִל (eshet chayil)  
@@ -233,5 +233,3 @@ v26: תּוֹרַת־חֶסֶד (torat ḥesed)
 v30: יִרְאַת יְהוָה (yirat YHWH)
 “Fear of the LORD.” Reverent relationship with the LORD, identified throughout Proverbs as foundational to wisdom.
 
-v01: מַשָּׂא (massa)
-“Oracle” or “weighty saying.” The designation given to Lemuel’s received instruction.

@@ -125,7 +125,7 @@ v28: “Ten Words” translates Hebrew *aseret ha-devarim*, traditionally called
 v29: The verb describing Moses’ face is related to the Hebrew word for “horn” and literally suggests emitting rays. Ancient interpretation sometimes represented Moses with horns; the context clearly describes radiance.
 v33–35: The veil regulates the people’s exposure to the radiance associated with Moses’ encounter with the LORD; it is removed when Moses enters to speak with God.
 
-##Vocabulary
+## Vocabulary
 
 v06: רַחוּם (rachum)
 “Compassionate.” Deeply merciful in disposition.

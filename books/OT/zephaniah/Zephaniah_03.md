@@ -156,30 +156,30 @@ when I restore your fortunes before your eyes,”
 says the LORD.
 </p>
 ## Notes
-v1: The city is addressed in feminine forms throughout this opening section. The final description, “the oppressing city,” identifies its violence as a defining feature of its public life.  
-v3: “Wolves of the evening” evokes predators hunting after dark. The final line intensifies the image: these judges consume everything rather than leaving even bones for morning.  
-v4: “What is holy” is left broad, as in the Hebrew. The charge against the priests concerns both the profanation of holiness and violence done to the *torah*, the divine instruction.  
-v5: The repeated “morning by morning” contrasts the LORD’s unfailing public justice with the shamelessness of the unjust within the city.  
-v7: The wording after “her dwelling would not be cut off” is difficult. It may refer to all the punishment the LORD had appointed against the city, underscoring that discipline was meant to avert devastation rather than merely announce it.  
-v8: “Wait for me” follows the announcement of judgment. The gathering of nations and kingdoms is not for their protection but for the pouring out of the LORD’s indignation.  
-v9: “A pure speech” concerns the peoples’ capacity to call on the LORD’s name and serve him together. The image moves from divided or defiled speech toward shared worship.  
+v01: The city is addressed in feminine forms throughout this opening section. The final description, “the oppressing city,” identifies its violence as a defining feature of its public life.  
+v03: “Wolves of the evening” evokes predators hunting after dark. The final line intensifies the image: these judges consume everything rather than leaving even bones for morning.  
+v04: “What is holy” is left broad, as in the Hebrew. The charge against the priests concerns both the profanation of holiness and violence done to the *torah*, the divine instruction.  
+v05: The repeated “morning by morning” contrasts the LORD’s unfailing public justice with the shamelessness of the unjust within the city.  
+v07: The wording after “her dwelling would not be cut off” is difficult. It may refer to all the punishment the LORD had appointed against the city, underscoring that discipline was meant to avert devastation rather than merely announce it.  
+v08: “Wait for me” follows the announcement of judgment. The gathering of nations and kingdoms is not for their protection but for the pouring out of the LORD’s indignation.  
+v09: “A pure speech” concerns the peoples’ capacity to call on the LORD’s name and serve him together. The image moves from divided or defiled speech toward shared worship.  
 v10: “My worshipers” and “the daughter of my scattered ones” may refer to the same gathered community. The distant location beyond the rivers of Cush extends the vision of worship beyond Judah’s immediate horizon.  
 v17: “He will be silent in his love” preserves the Hebrew verb’s ordinary sense of silence. Some understand the phrase as speaking of God’s quieting or renewing his people by love; the line holds divine delight and stillness alongside the following cry of joy.  
 v18: This verse is syntactically compressed and difficult. It speaks of those grieving over the appointed festival, the loss or burden of communal worship, and the reproach borne by the city.  
 v19: The one who limps and the outcast are not treated as obstacles to restoration. The LORD’s promised gathering explicitly includes those marked by vulnerability, displacement, and shame.  
 v20: “Restore your fortunes” can describe the reversal of a people’s devastated condition, including return from dispersal and the renewal of communal well-being.  
 
-##Vocabulary
+## Vocabulary
 
-v1: **יוֹנָה — *yonah***: The term describes the city as oppressive or violent. Its use frames the chapter’s condemnation around the city’s abuse of power.  
+v01: **יוֹנָה — *yonah***: The term describes the city as oppressive or violent. Its use frames the chapter’s condemnation around the city’s abuse of power.  
 
-v2: **מוּסָר — *musar***: “Discipline” is correction intended to instruct. The city’s refusal to receive it reveals resistance to the LORD’s call rather than mere ignorance.  
+v02: **מוּסָר — *musar***: “Discipline” is correction intended to instruct. The city’s refusal to receive it reveals resistance to the LORD’s call rather than mere ignorance.  
 
-v4: **תּוֹרָה — *torah***: Often rendered “law,” this word denotes divine instruction. The priests’ violation of it joins corrupt worship to injustice in communal life.  
+v04: **תּוֹרָה — *torah***: Often rendered “law,” this word denotes divine instruction. The priests’ violation of it joins corrupt worship to injustice in communal life.  
 
-v8: **קִנְאָה — *qin’ah***: “Jealousy” expresses the LORD’s zealous commitment to what belongs to him. Here it appears in the severe imagery of judgment upon the earth.  
+v08: **קִנְאָה — *qin’ah***: “Jealousy” expresses the LORD’s zealous commitment to what belongs to him. Here it appears in the severe imagery of judgment upon the earth.  
 
-v9: **שָׂפָה — *safah***: Literally “lip,” here meaning speech or language. Its purification enables the peoples’ united invocation of the LORD’s name.  
+v09: **שָׂפָה — *safah***: Literally “lip,” here meaning speech or language. Its purification enables the peoples’ united invocation of the LORD’s name.  
 
 v12: **עָנִי — *ani***: “Poor” can describe material deprivation and social vulnerability. The people left in Zion are defined not by pride but by lowliness and refuge in the LORD.  
 

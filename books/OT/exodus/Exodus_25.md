@@ -115,7 +115,7 @@ v22: The ark’s cover becomes the place of divine meeting and speech, linking t
 v30: “bread of the Presence” is literally bread “of the face,” kept continually before the LORD.
 v31–36: The lampstand is described as a living, branching form with almond cups, buds, and blossoms, joining crafted metalwork with botanical imagery.
 
-##Vocabulary
+## Vocabulary
 
 v02: תְּרוּמָה (terumah)
 “Offering” or “contribution.” Something lifted or given for sacred use.

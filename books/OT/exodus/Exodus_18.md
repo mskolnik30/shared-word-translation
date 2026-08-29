@@ -88,7 +88,7 @@ v17–18: The criticism is not of Moses’ concern for justice but of a structur
 v21: The qualifications combine competence, reverence, truthfulness, and resistance to corrupt gain.
 v23: Jethro’s counsel remains subject to divine command: “if … God commands you.” Administrative wisdom does not replace discernment.
 
-##Vocabulary
+## Vocabulary
 
 v03: גֵּר (ger)
 “Resident alien.” A person living outside ancestral land or kinship territory.

@@ -69,7 +69,7 @@ v13: The end of the matter; all has been heard: fear God and keep his commandmen
 <p>
 v14: For God will bring every deed into judgment, with every hidden thing, whether good or evil.
 </p>
-##Notes
+## Notes
 
 v01: — “your Creator.” The Hebrew form is plural, literally “your Creators,” though it takes a singular sense here. The plural may heighten the majesty and fullness of God as Creator.
 
@@ -79,7 +79,7 @@ v11: — “masters of collections.” The phrase may refer to those responsible
 
 v13: — “the whole of humanity.” The Hebrew expression is compact and may mean “the whole duty of humanity,” “what is fitting for every person,” or “the whole of humanity.” The translation preserves its broad claim: reverence for God and obedience to God’s commands concern human life as such.
 
-##Vocabulary
+## Vocabulary
 
 v01: בָּרָא (bara)
 “To create.” Appears here in the expression translated “your Creator.”

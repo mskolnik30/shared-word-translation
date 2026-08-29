@@ -159,7 +159,7 @@ v34: Eliam son of Ahithophel may be the same Eliam named as Bathsheba’s father
 v39: The list ends with Uriah the Hittite, placing the man David had arranged to kill among the remembered heroes who sustained his kingdom.
 v39: The count “thirty-seven” is difficult to reconcile simply with all the names because the list includes the Three, commanders, and members who may have changed over time. TSW retains the received total.
 
-##Vocabulary
+## Vocabulary
 
 v01: נְאֻם (ne'um)
 “Declaration” or oracle. A formal utterance formula.

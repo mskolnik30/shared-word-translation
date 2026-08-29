@@ -128,7 +128,7 @@ v20: Job’s complaint is not that God is absent in every sense; he experiences 
 v21: Job directly addresses God as having “turned cruel.” The book permits this accusatory prayer to remain within Job’s speech.
 v25–26: Job contrasts his former compassion for sufferers with the good he expected and the calamity he received.
 
-##Vocabulary
+## Vocabulary
 
 v09: נְגִינָה (neginah)
 “Song” or “music.” Job has become the subject of ridicule.

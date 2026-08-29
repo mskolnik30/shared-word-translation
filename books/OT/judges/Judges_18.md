@@ -95,7 +95,7 @@ v24: Micah’s cry, “You have taken my gods that I made,” captures the irony
 v30: The Masoretic Text traditionally writes the name “Manasseh” with a suspended letter, while an older reading reflected by the consonants is “Moses.” TSW follows “Moses,” a significant textual detail connecting the priestly line with Moses’ family.
 v31: The chapter ends by contrasting Dan’s private image with the house of God at Shiloh, reinforcing the disorder of competing worship centers.
 
-##Vocabulary
+## Vocabulary
 
 v01: נַחֲלָה (nachalah)
 “Inheritance” or “allotted possession.” The tribal land Dan seeks.

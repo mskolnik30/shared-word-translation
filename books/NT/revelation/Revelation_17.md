@@ -53,15 +53,15 @@ v17: for God has put it into their hearts to carry out his purpose by being of o
 v18: And the woman that you saw is the great city that has dominion over the kings of the earth.”
 </p>
 ## Notes
-v1: The vision is framed as judgment before explanation.
-v1–2: The woman’s influence is relational and pervasive.
-v3: The setting shifts to wilderness, contrasting prior imagery.
-v4: External adornment contrasts with internal corruption.
-v5: The name is presented as “mystery,” not resolved immediately.
-v6: Violence is internalized; the woman is sustained by what she consumes.
-v7: Interpretation is mediated; John is corrected rather than affirmed.
-v8: Temporal language (“was…is not…is to come”) is patterned but unresolved.
-v9–10: Symbols are partially interpreted; overlap is not resolved.
+v01: The vision is framed as judgment before explanation.
+v01–02: The woman’s influence is relational and pervasive.
+v03: The setting shifts to wilderness, contrasting prior imagery.
+v04: External adornment contrasts with internal corruption.
+v05: The name is presented as “mystery,” not resolved immediately.
+v06: Violence is internalized; the woman is sustained by what she consumes.
+v07: Interpretation is mediated; John is corrected rather than affirmed.
+v08: Temporal language (“was…is not…is to come”) is patterned but unresolved.
+v09–10: Symbols are partially interpreted; overlap is not resolved.
 v11: The sequence expands without clarifying structure.
 v12: Authority is temporary and shared.
 v13: Unity is directed toward a single purpose.
@@ -71,33 +71,33 @@ v16: Destruction turns inward; allies become agents.
 v17: Divine purpose operates through human intention without explanation.
 v18: The woman is identified as a city, but meaning remains layered.
 
-##Vocabulary
+## Vocabulary
 
-v1: πόρνη (pornē)
+v01: πόρνη (pornē)
 
 “Prostitute.” Symbol of unfaithfulness or corruption.
 
-v2: πορνεία (porneia)
+v02: πορνεία (porneia)
 
 “Sexual immorality.” Used symbolically for relational unfaithfulness.
 
-v3: ἔρημος (erēmos)
+v03: ἔρημος (erēmos)
 
 “Wilderness.” Place of exposure or testing.
 
-v4: ποτήριον (potērion)
+v04: ποτήριον (potērion)
 
 “Cup.” Vessel containing what is offered or consumed.
 
-v5: μυστήριον (mystērion)
+v05: μυστήριον (mystērion)
 
 “Mystery.” Something revealed in part.
 
-v6: μεθύω (methyō)
+v06: μεθύω (methyō)
 
 “To be drunk.” State of excess or intoxication.
 
-v8: ἄβυσσος (abyssos)
+v08: ἄβυσσος (abyssos)
 
 “Abyss.” Place of confinement or origin.
 
@@ -121,14 +121,3 @@ v18: πόλις (polis)
 
 “City.” Organized center of power or influence.
 
-v01: πόρνη (pornē)
-“Prostitute.” Symbol of unfaithfulness or corruption.
-
-v02: πορνεία (porneia)
-“Sexual immorality.” Used symbolically for relational unfaithfulness.
-
-v03: ἔρημος (erēmos)
-“Wilderness.” Place of exposure or testing.
-
-v04: ποτήριον (potērion)
-“Cup.” Vessel containing what is offered or consumed.

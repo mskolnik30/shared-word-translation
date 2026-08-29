@@ -88,9 +88,9 @@ v20: Can a human make gods for himself? Yet they are not gods.
 <p>
 v21: Therefore, look, this time I will make them know; I will make them know my hand and my might. Then they will know that my name is the LORD.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v05: שָׁלוֹם (shalom)
 “Peace; well-being; wholeness.”

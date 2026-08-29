@@ -119,7 +119,7 @@ v16: Job’s confidence is paradoxical: the very willingness to approach God wit
 v20–22: Job asks for two conditions for a fair hearing: relief from divine force and relief from terror. Only then can speech occur without coercion.
 v23: Rather than denying the possibility of all sin, Job asks for specific charges. His complaint is against disproportionate or unexplained punishment.
 
-##Vocabulary
+## Vocabulary
 
 v03: יָכַח (yakhach)
 “To argue,” “prove,” or “contend.” Job desires a reasoned case with God.

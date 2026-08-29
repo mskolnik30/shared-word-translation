@@ -120,7 +120,7 @@ v15–20: Seasonal wadis promise water from a distance but disappear when travel
 v24: Job is willing to be taught if the friends can identify his actual wrongdoing. His protest is against accusation without demonstrated offense.
 v26: Job asks whether the friends are treating desperate speech itself as evidence, rather than hearing it as the speech of a person overwhelmed by suffering.
 
-##Vocabulary
+## Vocabulary
 
 v02: כַּעַס (ka'as)
 “Grief,” “vexation,” or “anguish.” Job’s inward burden.

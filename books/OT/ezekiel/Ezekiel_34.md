@@ -128,9 +128,9 @@ v30: Then they will know that I, the LORD their God, am with them, and that they
 <p>
 v31: You are my flock, the flock of my pasture. You are human beings, and I am your God, declares the LORD GOD.”
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v02: רֹעִים (roʿim)
 “shepherds.” The word names both literal shepherds and Israel’s leaders; the chapter presses the contrast between shepherding the flock and feeding oneself from it.

@@ -37,11 +37,11 @@ v10: The fear of the LORD is the beginning of wisdom;
 good understanding belongs to all who practice it.
 God’s praise endures forever.
 </p>
-##Notes
+## Notes
 
 Structure: Psalm 111 is an alphabetic acrostic in Hebrew: successive half-lines begin with the letters of the Hebrew alphabet. English lineation preserves the compact parallel units, though the alphabetic pattern cannot be reproduced naturally.
 
-##Vocabulary
+## Vocabulary
 
 v10: יִרְאַת יְהוָה (yirʾat YHWH)
 “Fear of the LORD,” a posture of reverence, awe, and accountable loyalty before God.

@@ -111,11 +111,11 @@ v35: All his sons and all his daughters rose up to comfort him, but he refused t
 v36: Meanwhile the Midianites sold him in Egypt to Potiphar, an officer of Pharaoh, the captain of the guard.
 </p>
 ## Notes
-v2: Joseph’s “bad report” introduces tension—truth-telling or betrayal remains ambiguous.  
-v3: The robe marks status and distinction, functioning as a visible symbol of favor.  
-v4: Hatred escalates to the breakdown of basic relational speech (“could not speak peaceably”).  
-v5–8: Dreams function as revelation, but also intensify hostility due to their implications.  
-v9–11: The second dream expands scope from family hierarchy to cosmic symbolism.  
+v02: Joseph’s “bad report” introduces tension—truth-telling or betrayal remains ambiguous.  
+v03: The robe marks status and distinction, functioning as a visible symbol of favor.  
+v04: Hatred escalates to the breakdown of basic relational speech (“could not speak peaceably”).  
+v05–08: Dreams function as revelation, but also intensify hostility due to their implications.  
+v09–11: The second dream expands scope from family hierarchy to cosmic symbolism.  
 v18–20: The brothers attempt to negate the future by eliminating the dreamer.  
 v21–22: Reuben’s intervention is partial—he resists murder but does not confront the system.  
 v25: The juxtaposition of violence and ordinary eating heightens moral dissonance.  
@@ -126,27 +126,27 @@ v31–33: Deception mirrors earlier family patterns (Jacob and Isaac), reinforci
 v34–35: Mourning is prolonged and unresolved; Jacob refuses consolation.  
 v36: The narrative pivots toward Egypt, setting the stage for reversal.  
 
-##Vocabulary
+## Vocabulary
 
-v2: דִּבָּה (dibbāh)  
+v02: דִּבָּה (dibbāh)  
 
-v2: “Report, rumor.” Often with negative connotation.  
+v02: “Report, rumor.” Often with negative connotation.  
 
-v3: כְּתֹנֶת (kᵉṯōneṯ)  
+v03: כְּתֹנֶת (kᵉṯōneṯ)  
 
-v3: “Robe, tunic.” Garment marking identity or status.  
+v03: “Robe, tunic.” Garment marking identity or status.  
 
-v4: שָׂנֵא (śānēʾ)  
+v04: שָׂנֵא (śānēʾ)  
 
-v4: “To hate.” Rejection that fractures relationship.  
+v04: “To hate.” Rejection that fractures relationship.  
 
-v5: חֲלוֹם (ḥălôm)  
+v05: חֲלוֹם (ḥălôm)  
 
-v5: “Dream.” Medium of divine or symbolic communication.  
+v05: “Dream.” Medium of divine or symbolic communication.  
 
-v8: מָלַךְ (mālaḵ)  
+v08: מָלַךְ (mālaḵ)  
 
-v8: “To reign.” Exercise of royal authority.  
+v08: “To reign.” Exercise of royal authority.  
 
 v10: גָּעַר (gāʿar)  
 

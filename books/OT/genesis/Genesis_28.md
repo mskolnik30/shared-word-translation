@@ -63,8 +63,8 @@ v21: so that I come again to my father’s house in peace, then the LORD shall b
 v22: and this stone, which I have set up for a pillar, shall be God’s house. And of all that you give me I will surely give a tenth to you.”
 </p>
 ## Notes
-v1–4: The Abrahamic blessing is explicitly transferred, emphasizing continuity through Jacob rather than Esau.  
-v8–9: Esau’s action is reactive and partial—he recognizes the issue but does not fully align with covenantal intent.  
+v01–04: The Abrahamic blessing is explicitly transferred, emphasizing continuity through Jacob rather than Esau.  
+v08–09: Esau’s action is reactive and partial—he recognizes the issue but does not fully align with covenantal intent.  
 v12: The stairway (or “ladder”) functions as a symbolic axis between heaven and earth, emphasizing divine accessibility.  
 v13–15: The covenant promise is reaffirmed with three elements: land, offspring, and universal blessing, now attached to Jacob.  
 v15: Divine presence (“I am with you”) becomes the dominant assurance, especially in exile.  
@@ -72,19 +72,19 @@ v16–17: Jacob’s recognition reframes ordinary space as sacred; awareness, no
 v18–19: The stone becomes a memorial marker, transforming a place of rest into a place of encounter.  
 v20–22: Jacob’s vow is conditional, reflecting a developing faith rather than settled trust.  
 
-##Vocabulary
+## Vocabulary
 
-v3: פָּרָה (pārāh)  
+v03: פָּרָה (pārāh)  
 
-v3: “To be fruitful.” Growth under divine blessing.  
+v03: “To be fruitful.” Growth under divine blessing.  
 
-v3: קָהָל (qāhāl)  
+v03: קָהָל (qāhāl)  
 
-v3: “Assembly, company.” A gathered people with shared identity.  
+v03: “Assembly, company.” A gathered people with shared identity.  
 
-v4: בְּרָכָה (bᵉrāḵāh)  
+v04: בְּרָכָה (bᵉrāḵāh)  
 
-v4: “Blessing.” Effective divine favor that shapes destiny.  
+v04: “Blessing.” Effective divine favor that shapes destiny.  
 
 v11: מָקוֹם (māqôm)
 “Place.” Often a site of encounter with God.

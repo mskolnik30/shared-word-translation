@@ -61,7 +61,7 @@ v08: Foreign domination becomes a lesson contrasting service to the LORD with se
 v09–10: Gold shields replaced by bronze visually symbolize the reduction of Solomon’s former glory.
 v14: Chronicles summarizes Rehoboam’s failure as not setting his heart to seek the LORD.
 
-##Vocabulary
+## Vocabulary
 
 v01: תּוֹרָה (torah)
 “Instruction.” Rehoboam abandons the LORD’s teaching.

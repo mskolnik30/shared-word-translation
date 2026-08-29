@@ -139,7 +139,7 @@ v16: Corporate confession appears without explaining every individual cause of t
 v19–22: The prayer sets the permanence of the LORD’s throne against the community’s experience of abandonment. The final verse remains unresolved, ending the book in tension rather than easy reassurance.
 v01–22: Chapter 5 contains twenty-two verses, matching the number of letters in the Hebrew alphabet, but unlike chapters 1–4 it does not follow an alphabetic acrostic.
 
-##Vocabulary
+## Vocabulary
 
 v01: זָכַר (zakhar)
 “To remember.” To call to mind in a way that can lead to attention or action.

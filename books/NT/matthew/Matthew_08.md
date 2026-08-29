@@ -101,10 +101,10 @@ v33: The herdsmen fled, and going into the city they told everything, especially
 v34: And behold, all the city came out to meet Jesus, and when they saw him, they begged him to depart from their region.
 </p>
 ## Notes
-v2: The leper’s approach collapses social and ritual distance. His conditional “if you will” frames healing as dependent on Jesus’ volition, not his power.  
-v3: “I will; be made clean” pairs intention and act without mediation. Touch precedes cleansing, reversing expected purity flow.  
-v4: Silence is commanded alongside obedience to the Law. The offering is not rejected but reintegrated.  
-v8: “I am not worthy” reframes status. Authority is understood analogically—command at a distance is sufficient.  
+v02: The leper’s approach collapses social and ritual distance. His conditional “if you will” frames healing as dependent on Jesus’ volition, not his power.  
+v03: “I will; be made clean” pairs intention and act without mediation. Touch precedes cleansing, reversing expected purity flow.  
+v04: Silence is commanded alongside obedience to the Law. The offering is not rejected but reintegrated.  
+v08: “I am not worthy” reframes status. Authority is understood analogically—command at a distance is sufficient.  
 v10: Amazement is directed toward a Gentile. Faith is measured by recognition of authority.  
 v11–12: Eschatological reversal is stated without softening; inclusion and exclusion remain in tension.  
 v15: Healing restores function—she rises and serves. Restoration is relational, not merely physical.  
@@ -116,13 +116,13 @@ v26: “Little faith” names insufficiency, not absence. Fear and trust are hel
 v29: Recognition of Jesus’ identity precedes human confession; timing (“before the time”) remains significant.  
 v34: The response of the city is rejection. Power does not compel welcome.  
 
-##Vocabulary
+## Vocabulary
 
-v2: λεπρός (*lepros*) — “Leper.” A condition of exclusion as much as disease.  
+v02: λεπρός (*lepros*) — “Leper.” A condition of exclusion as much as disease.  
 
-v3: καθαρίζω (*katharizō*) — “To cleanse.” Ritual and physical senses overlap.  
+v03: καθαρίζω (*katharizō*) — “To cleanse.” Ritual and physical senses overlap.  
 
-v9: ἐξουσία (*exousia*) — “Authority.” The right or power to command.  
+v09: ἐξουσία (*exousia*) — “Authority.” The right or power to command.  
 
 v10: πίστις (pistis)
 “Faith.” Trust expressed through recognition of authority.

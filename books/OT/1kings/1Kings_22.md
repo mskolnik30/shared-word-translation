@@ -106,6 +106,6 @@ v51: Ahaziah son of Ahab became king over Israel in Samaria in the seventeenth y
 v52: He did what was evil in the eyes of the LORD and walked in the way of his father, in the way of his mother, and in the way of Jeroboam son of Nebat, who caused Israel to sin.
 v53: He served Baal and bowed down to him, provoking the LORD, the God of Israel, just as his father had done.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary

@@ -98,11 +98,11 @@ v33: But seek first his kingdom and his righteousness, and all these things will
 v34: So do not be anxious about tomorrow, for tomorrow will be anxious for itself. Today’s trouble is enough for today.
 </p>
 ## Notes
-v1: A textual question stands here. Some manuscripts read “your alms” (ἐλεημοσύνη) rather than “your righteousness” (δικαιοσύνη). The earlier and broader reading is “righteousness,” which the verse then specifies in the three practices that follow: almsgiving, prayer, fasting.  
-v2: “Have received their reward in full” (ἀπέχουσιν) is a commercial term meaning “paid in full.” The hypocrites’ visibility is itself the wage.  
-v6: The “room” (ταμεῖον) is an inner chamber, often a storeroom—a place neither public nor decorated.  
-v7: “Empty phrases” (βατταλογήσητε) is onomatopoeic in Greek; the word names the sound of stammering or babbling.  
-v9–13: The prayer is offered as a model, not a script. Its formal features—address, petitions toward God, petitions for the community, petitions for protection—structure the prayer rather than dictate its words.  
+v01: A textual question stands here. Some manuscripts read “your alms” (ἐλεημοσύνη) rather than “your righteousness” (δικαιοσύνη). The earlier and broader reading is “righteousness,” which the verse then specifies in the three practices that follow: almsgiving, prayer, fasting.  
+v02: “Have received their reward in full” (ἀπέχουσιν) is a commercial term meaning “paid in full.” The hypocrites’ visibility is itself the wage.  
+v06: The “room” (ταμεῖον) is an inner chamber, often a storeroom—a place neither public nor decorated.  
+v07: “Empty phrases” (βατταλογήσητε) is onomatopoeic in Greek; the word names the sound of stammering or babbling.  
+v09–13: The prayer is offered as a model, not a script. Its formal features—address, petitions toward God, petitions for the community, petitions for protection—structure the prayer rather than dictate its words.  
 v11: “Daily” (ἐπιούσιος) is an unresolved word in Greek; it appears almost nowhere outside this prayer. Possible meanings include “for today,” “for tomorrow,” and “necessary for existence.” The translation preserves the traditional rendering without claiming certainty.  
 v12: “Debts” (ὀφειλήματα) is rendered literally; the financial register is left intact rather than smoothed to “trespasses” or “sins.” The word for trespass (παραπτώματα) appears in the next verses.
 v13: The traditional doxology (“for yours is the kingdom and the power and the glory”) appears in many manuscripts and liturgical traditions but is not present in the earliest witnesses. It is not included in the main text.  
@@ -112,15 +112,15 @@ v24: “Wealth” renders Mammon (μαμωνᾶ), an Aramaic word for property o
 v25–34: The repeated command “do not be anxious” (μὴ μεριμνᾶτε) frames the section. The argument moves from analogy (birds, lilies) to identity (you are more) to reorientation (seek first).  
 v01: A textual question stands here.
 
-##Vocabulary
+## Vocabulary
 
-v1: δικαιοσύνη (dikaiosynē) — Righteousness, right practice. Names a way of life rather than a moral state.  
+v01: δικαιοσύνη (dikaiosynē) — Righteousness, right practice. Names a way of life rather than a moral state.  
 
-v2: ὑποκριτής (hypokritēs) — Hypocrite, literally one who plays a part on a stage. The metaphor is theatrical, not moralistic.  
+v02: ὑποκριτής (hypokritēs) — Hypocrite, literally one who plays a part on a stage. The metaphor is theatrical, not moralistic.  
 
-v6: ταμεῖον (tameion) — Inner room, storeroom. The least visible part of the house.  
+v06: ταμεῖον (tameion) — Inner room, storeroom. The least visible part of the house.  
 
-v7: βατταλογέω (battalogeō) — To babble, to repeat empty phrases. Onomatopoeic.  
+v07: βατταλογέω (battalogeō) — To babble, to repeat empty phrases. Onomatopoeic.  
 
 v11: ἐπιούσιος (epiousios)
 “An uncertain word usually rendered daily. Possibly for the coming day or necessary for existence.”

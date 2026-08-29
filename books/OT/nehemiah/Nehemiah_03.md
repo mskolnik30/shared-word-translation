@@ -69,7 +69,7 @@ v15: “Pool of Shelah” — The location is associated with the southern part 
 v20: “zealously repaired” — The Hebrew adds an expression of burning or earnest intensity to Baruch’s work.
 v26: “temple servants” — The *Nethinim* were a hereditary group assigned to service connected with the temple.
 
-##Vocabulary
+## Vocabulary
 
 v01: קָדַשׁ (qadash)
 “To consecrate” or “make holy.” To set apart for sacred use.

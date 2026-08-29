@@ -94,7 +94,7 @@ and their descendants will be established before you.
 v06: The bird names are uncertain. The Hebrew identifies solitary wilderness and ruin-dwelling birds; the translation preserves the imagery without claiming precise modern species identification.
 v23: The subject is supplied as God from the Hebrew verbal form and the surrounding prayer. The psalm moves sharply from communal hope for Zion back to the speaker’s shortened life.
 
-##Vocabulary
+## Vocabulary
 
 v13: מוֹעֵד (moʿed)
 “Appointed time,” a fixed or designated time, often carrying liturgical or covenantal resonance.

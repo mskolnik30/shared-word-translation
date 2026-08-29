@@ -75,7 +75,7 @@ v18: The rationale given is cultic: Israel must not learn the nations’ worship
 v19: The Hebrew question about the tree is syntactically difficult. TSW follows the sense that fruit trees are not combatants and therefore should not be destroyed as if they were part of the besieged population.
 v20: Non-fruit trees may be used for siegeworks, distinguishing military necessity from indiscriminate ecological destruction.
 
-##Vocabulary
+## Vocabulary
 
 v01: סוּס (sus)
 “Horse.” A symbol of military power.

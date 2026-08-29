@@ -111,7 +111,7 @@ v26: “neither slave nor free” is an idiom for no one remaining to help, not 
 v27: Jeroboam II is religiously condemned yet politically used as an instrument of the LORD’s compassion toward suffering Israel.
 v28: The Hebrew phrase concerning Damascus and Hamath is difficult. It may refer to recovering territories formerly belonging to Judah/Israel. TSW preserves the Masoretic wording without harmonizing its geography.
 
-##Vocabulary
+## Vocabulary
 
 v04: בָּמָה (bamah)
 “High place.” A local worship site.

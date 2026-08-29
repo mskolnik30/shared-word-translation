@@ -44,16 +44,16 @@ v04: “Rest” does not simply mean private quietness. It names freedom from su
 v12: The chapter attributes Solomon’s wisdom to the LORD, yet it also shows that wisdom working through diplomacy, trade, shared labor, and covenant-making.
 v13: The same royal building project associated with wisdom and peace also depends on compulsory labor from Israel. The narrative preserves both the achievement and its human cost.
 
-##Vocabulary
+## Vocabulary
 
-v9: **חָכְמָה** (*chokhmah*) — “wisdom.” Here wisdom is God-given capacity for governing, understanding, speaking, and ordering life; it is displayed in Solomon’s discernment and in the wide scope of his knowledge.  
+v09: **חָכְמָה** (*chokhmah*) — “wisdom.” Here wisdom is God-given capacity for governing, understanding, speaking, and ordering life; it is displayed in Solomon’s discernment and in the wide scope of his knowledge.  
 
-v9: **רֹחַב לֵב** (*rochav lev*) — “breadth of heart.” The phrase portrays an immeasurably expansive inner capacity, like the sand on the seashore, for perception and judgment.  
+v09: **רֹחַב לֵב** (*rochav lev*) — “breadth of heart.” The phrase portrays an immeasurably expansive inner capacity, like the sand on the seashore, for perception and judgment.  
 
 v18: **נוּחַ** (*nuach*) — “give rest.” The LORD gives Solomon rest “on every side,” the political and military security that enables the temple project.  
 
-v19: **שֵׁם** (*shem*) — “name.” The house is built “for the name of the LORD,” expressing God’s covenantal presence and reputation without reducing God to the building itself.  
+v05: **שֵׁם** (*shem*) — “name.” The house is built “for the name of the LORD,” expressing God’s covenantal presence and reputation without reducing God to the building itself.  
 
-v26: **בְּרִית** (*berit*) — “covenant.” Hiram and Solomon’s agreement is described with the covenant term, marking their arrangement as a binding relationship of mutual obligation.  
+v12: **בְּרִית** (*berit*) — “covenant.” Hiram and Solomon’s agreement is described with the covenant term, marking their arrangement as a binding relationship of mutual obligation.  
 
-v27: **מַס** (*mas*) — “forced labor.” The term identifies a levy of compulsory service rather than ordinary hired work, casting the temple preparations in a morally weighty light.
+v13: **מַס** (*mas*) — “forced labor.” The term identifies a levy of compulsory service rather than ordinary hired work, casting the temple preparations in a morally weighty light.

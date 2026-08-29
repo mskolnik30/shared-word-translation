@@ -121,9 +121,9 @@ v37: And there was much weeping among all, and falling upon Paul’s neck, they 
 v38: being distressed especially because of the word he had spoken, that they would see his face no more. And they were accompanying him to the ship.
 </p>
 ## Notes
-v1–3: Travel is shaped by both encouragement and opposition.  
-v7: Gathering on the first day reflects emerging pattern.  
-v9–12: Restoration of life affirms authority and encourages community.  
+v01–03: Travel is shaped by both encouragement and opposition.  
+v07: Gathering on the first day reflects emerging pattern.  
+v09–12: Restoration of life affirms authority and encourages community.  
 v16: Urgency is governed by mission priorities.  
 v18–21: Ministry combines humility, teaching, and witness.  
 v22–23: Future suffering is anticipated, not avoided.  
@@ -135,23 +135,23 @@ v32: God’s word is the sustaining and building agent.
 v33–35: Financial integrity supports credibility.  
 v36–38: Emotional farewell reflects deep relational bonds.  
 
-##Vocabulary
+## Vocabulary
 
-v1: παρακαλέω (parakaleō)  
+v01: παρακαλέω (parakaleō)  
 
-v1: “To encourage.”  
+v01: “To encourage.”  
 
-v3: ἐπιβουλή (epiboulē)  
+v03: ἐπιβουλή (epiboulē)  
 
-v3: “Plot.”  
+v03: “Plot.”  
 
-v7: κλάω (klaō)  
+v07: κλάω (klaō)  
 
-v7: “To break (bread).”  
+v07: “To break (bread).”  
 
-v9: κατενέγκω (katenenkō)  
+v09: κατενέγκω (katenenkō)  
 
-v9: “To bring down.”  
+v09: “To bring down.”  
 
 v10: ἐπιπίπτω (epipiptō)
 “To fall upon.”

@@ -91,7 +91,7 @@ v18: “wonderful” — The Hebrew can mean wonderful, incomprehensible, or bey
 v22–23: Manoah fears death after recognizing the encounter with God, while his wife reasons from the LORD’s acceptance of their offering and revelation that death cannot be the intended outcome.
 v25: The Spirit “began to stir” Samson. The verb suggests disturbance, movement, or prompting, introducing the tension-filled career that follows.
 
-##Vocabulary
+## Vocabulary
 
 v02: עֲקָרָה (aqarah)
 “Barren.” Unable to conceive or bear children.

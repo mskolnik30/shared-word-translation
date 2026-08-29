@@ -87,10 +87,10 @@ v48: Thus I will put an end to lewdness from the land, so that all women may be 
 v49: They will repay you for your lewdness, and you will bear the sins of your idolatry. Then you will know that I am the LORD GOD.”
 </p>
 ## Notes
-v2: **son of man** — A term often used to address Ezekiel, signifying his human status and prophetic role in receiving divine messages.  
+v02: **son of man** — A term often used to address Ezekiel, signifying his human status and prophetic role in receiving divine messages.  
 v40: **bathed yourself, painted your eyes, adorned yourself with ornaments** — These actions describe preparation and ornamentation as part of the allure used in awaiting the arrival of lovers, symbolizing Israel's readiness to engage in idolatrous practices.  
 
-##Vocabulary
+## Vocabulary
 
 v10: עֶרְוָה (ervah)
 “Typically refers to nakedness or sexual exposure.” In this context, it can denote both literal and metaphorical exposure, indicating shame brought upon Oholah through her actions.

@@ -155,7 +155,7 @@ v20: Miriam is explicitly called “the prophet.” Her leadership in song and d
 v25: The identity of the wood is not given, and the text does not explain a natural mechanism for the water’s transformation.
 v26: “the LORD who heals you” joins obedience, covenant order, and divine healing after the bitter-water episode.
 
-##Vocabulary
+## Vocabulary
 
 v01: גָּאָה (ga'ah)
 “To rise in triumph” or “be exalted.” The LORD’s victory is celebrated in song.

@@ -73,7 +73,7 @@ v10: “The two nations” and “the two lands” likely refer to Israel and Ju
 v11: God’s judgment answers Edom’s anger, envy, and hatred. Yet the stated purpose remains recognition: through judgment, both those judged and those who suffered will know the LORD.
 v14: The wording places Edom’s devastation in contrast with “the rejoicing of all the earth.” The verse does not explain the scope or occasion of that rejoicing, leaving the sharp reversal to stand.
 
-##Vocabulary
+## Vocabulary
 
 v05: אֵיבַת עוֹלָם (ʾêvat ʿolam)
 “everlasting hostility.” The phrase identifies Edom’s violence as the expression of a long-standing enmity, not an isolated act.

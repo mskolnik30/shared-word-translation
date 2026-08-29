@@ -93,9 +93,9 @@ v26: but now made manifest, and through the prophetic Scriptures made known to a
 v27: to the only wise God, through Jesus Christ, to whom be the glory forever. Amen.
 </p>
 ## Notes
-v1–2: Phoebe is commended as servant and benefactor.
-v3–16: Network of co-workers reflects distributed leadership.
-v7: Early witnesses include those prominent among apostles.
+v01–02: Phoebe is commended as servant and benefactor.
+v03–16: Network of co-workers reflects distributed leadership.
+v07: Early witnesses include those prominent among apostles.
 v16: Mutual greeting reinforces communal unity.
 v17–18: Warning targets internal disruption and deception.
 v19–20: Ethical discernment combines wisdom and innocence.
@@ -104,37 +104,37 @@ v21–23: Broader mission network is acknowledged.
 v25–27: Doxology summarizes gospel as revealed mystery for all nations.
 v24: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts repeat the grace benediction. Public verse numbering is retained.
 
-##Vocabulary
+## Vocabulary
 
-v1: συνίστημι (synistēmi)
+v01: συνίστημι (synistēmi)
 
 “To commend.”
 
-v1: διάκονος (diakonos)
+v01: διάκονος (diakonos)
 
 “Servant.”
 
-v2: προσδέχομαι (prosdechomai)
+v02: προσδέχομαι (prosdechomai)
 
 “To receive.”
 
-v2: προστάτις (prostatis)
+v02: προστάτις (prostatis)
 
 “Benefactor.”
 
-v3: συνεργός (synergos)
+v03: συνεργός (synergos)
 
 “Fellow worker.”
 
-v4: ὑποτίθημι τὸν τράχηλον
+v04: ὑποτίθημι τὸν τράχηλον
 
 “To risk one’s neck.”
 
-v5: ἀπαρχή (aparchē)
+v05: ἀπαρχή (aparchē)
 
 “Firstfruit.”
 
-v7: ἐπίσημος (episēmos)
+v07: ἐπίσημος (episēmos)
 
 “Outstanding.”
 
@@ -182,14 +182,3 @@ v27: σοφός (sophos)
 
 “Wise.”
 
-v01: συνίστημι (synistēmi)
-“To commend.”
-
-v01: διάκονος (diakonos)
-“Servant.”
-
-v02: προσδέχομαι (prosdechomai)
-“To receive.”
-
-v02: προστάτις (prostatis)
-“Benefactor.”

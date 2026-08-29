@@ -111,7 +111,7 @@ v25: The prohibition concerns interest charged to the poor within the covenant c
 v26–27: A pledged garment cannot be retained overnight if it is the borrower’s necessary covering. Economic right is limited by bodily need.
 v28: Hebrew *elohim* can mean God or, in some legal contexts, judges. TSW renders “God” because the parallel command concerns reverence within covenant order.
 
-##Vocabulary
+## Vocabulary
 
 v01: שָׁלַם (shalam)
 “To make restitution.” To compensate for theft or damage.

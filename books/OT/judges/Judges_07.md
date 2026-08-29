@@ -79,7 +79,7 @@ v15: Gideon’s response to the enemy’s dream is worship. Assurance comes thro
 v20: The shout places the LORD first while also naming Gideon. The narrative will later expose tensions around Gideon’s growing status.
 v22: The decisive military action is attributed to the LORD, who turns Midian’s swords against one another.
 
-##Vocabulary
+## Vocabulary
 
 v01: חֲרֹד (Harod)
 “Harod,” related to trembling or fear. The spring’s name resonates with the fearful soldiers who depart.

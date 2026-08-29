@@ -52,7 +52,7 @@ v15: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context d
 v01: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.
 v01: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
 
-##Vocabulary
+## Vocabulary
 
 v01: מִשְׁפָּט (mishpat)
 “Justice” or “judgment.” Right judgment and right communal ordering.

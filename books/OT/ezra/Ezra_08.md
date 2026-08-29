@@ -114,7 +114,7 @@ v26–27: The quantities represent an extraordinarily valuable trust. The emphas
 v31: The successful journey is attributed to the hand of God after the community had fasted and sought him.
 v35: Twelve bulls and twelve male goats represent “all Israel,” even though the returned community is drawn primarily from Judah and Benjamin. The restored community understands itself within the twelve-tribe identity.
 
-##Vocabulary
+## Vocabulary
 
 v01: יַחַשׂ (yachas)
 “Genealogical registration.” Enrollment according to family descent.

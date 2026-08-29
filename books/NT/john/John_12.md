@@ -185,9 +185,9 @@ v49: For I have not spoken from myself, but the Father who sent me has himself g
 v50: And I know that his commandment is eternal life; therefore the things I speak, just as the Father has said to me, so I speak.”
 </p>
 ## Notes
-v3: Extravagant devotion anticipates burial.
-v6: Judas’ objection reveals internal corruption.
-v7–8: Timing of Jesus’ presence reframes priorities.
+v03: Extravagant devotion anticipates burial.
+v06: Judas’ objection reveals internal corruption.
+v07–08: Timing of Jesus’ presence reframes priorities.
 v10–11: Opposition expands to include Lazarus as evidence.
 v13–15: Kingship is affirmed but in humble form.
 v16: Understanding follows glorification.
@@ -203,17 +203,17 @@ v42–43: Fear of exclusion suppresses confession.
 v46–47: Mission is defined as salvation, not immediate judgment.
 v48–50: Final judgment is mediated through Jesus’ word.
 
-##Vocabulary
+## Vocabulary
 
-v3: μύρον (myron)
+v03: μύρον (myron)
 
 “Perfume.”
 
-v4: Ἰσκαριώτης (Iskariōtēs)
+v04: Ἰσκαριώτης (Iskariōtēs)
 
 “Iscariot.”
 
-v6: γλωσσόκομον (glōssokomon)
+v06: γλωσσόκομον (glōssokomon)
 
 “Money box.”
 
@@ -279,11 +279,3 @@ v50: ἐντολή (entolē)
 
 “Commandment.”
 
-v03: μύρον (myron)
-“Perfume.”
-
-v04: Ἰσκαριώτης (Iskariōtēs)
-“Iscariot.”
-
-v06: γλωσσόκομον (glōssokomon)
-“Money box.”

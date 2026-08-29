@@ -78,7 +78,7 @@ v18: “many days” qualifies the compressed conquest summaries. The campaign i
 v20: The hardening of the kings’ hearts is a severe theological statement. The narrative attributes their decision to fight both to divine purpose and to their own military action without resolving the tension.
 v23: “the whole land” is followed by later chapters describing land still remaining. The summary speaks from the perspective of decisive regional victory rather than claiming every settlement has already been occupied.
 
-##Vocabulary
+## Vocabulary
 
 v06: עָקַר (aqar)
 “To hamstring.” To disable a horse by cutting its leg tendons.

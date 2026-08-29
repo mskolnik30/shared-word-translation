@@ -59,12 +59,12 @@ for the LORD of Hosts will reign on Mount Zion, and in Jerusalem;
 and before his elders will be glory.
 </p>
 ## Notes
-v5: The chapter repeatedly links human transgression with the disruption of the earth itself; social, covenantal, and cosmic disorder are not separated.  
-v5: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
+v05: The chapter repeatedly links human transgression with the disruption of the earth itself; social, covenantal, and cosmic disorder are not separated.  
+v05: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
 v23: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v2: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+v02: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
-##Vocabulary
+## Vocabulary
 
 v23: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
@@ -78,14 +78,9 @@ v23: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 v23: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v2: עֶבֶד (eved)  
+v02: עֶבֶד (eved)  
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.  
 
-v5: בְּרִית (berit)  
+v05: בְּרִית (berit)  
 “Covenant.” A binding relationship shaped by promise and obligation.  
 
-v02: עֶבֶד (eved)
-“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-
-v05: בְּרִית (berit)
-“Covenant.” A binding relationship shaped by promise and obligation.

@@ -115,27 +115,27 @@ says the LORD of Hosts,
 “and my name is feared among the nations.”
 </p>
 ## Notes
-v2–5: God's love for Israel is demonstrated through his covenant choice of Jacob and his preservation of Israel in contrast to Edom.  
-v6: The priests are addressed directly because they bear responsibility for the condition of Israel's worship.  
-v7–8: The issue is not merely ritual correctness but the attitude behind the offerings. Animals unfit for ordinary civic honor are presented to God.  
+v02–05: God's love for Israel is demonstrated through his covenant choice of Jacob and his preservation of Israel in contrast to Edom.  
+v06: The priests are addressed directly because they bear responsibility for the condition of Israel's worship.  
+v07–08: The issue is not merely ritual correctness but the attitude behind the offerings. Animals unfit for ordinary civic honor are presented to God.  
 v10: The LORD declares that empty religious activity is worse than no sacrifice at all.  
 v11: God's name will be honored among the nations, anticipating a worldwide recognition of his greatness.  
 v12–13: The priests treat worship as a burden rather than a privilege, revealing contempt for the LORD.  
 v13: The offerings violate the standards established in the law by presenting damaged and defective animals.  
 v14: The chapter concludes by emphasizing God's kingship over all nations, not merely Israel.  
 
-##Vocabulary
+## Vocabulary
 
-v1: מַשָּׂא (maśśāʾ)  
+v01: מַשָּׂא (maśśāʾ)  
 “Oracle” or “burden.” A prophetic message bearing divine authority.  
 
-v2: אָהַב (ʾāhaḇ)  
+v02: אָהַב (ʾāhaḇ)  
 “To love.” Covenant affection and commitment.  
 
-v3: שָׂנֵא (śānēʾ)  
+v03: שָׂנֵא (śānēʾ)  
 “To hate.” Here expressing covenant rejection in contrast to covenant choice.  
 
-v6: כָּבֵד (kāḇēḏ)  
+v06: כָּבֵד (kāḇēḏ)  
 “To honor.” To give proper weight, respect, and glory.  
 
 v14: יָרֵא (yārēʾ)  
@@ -150,10 +150,10 @@ v14: מֶלֶךְ גָּדוֹל (meleḵ gādôl)
 v14: נוֹרָא (nôrāʾ)  
 “Feared” or “awesome.” Inspiring reverence and awe.  
 
-v7: גָּאַל (gāʾal)  
+v07: גָּאַל (gāʾal)  
 “To defile” or “pollute.” To treat as common what is holy.  
 
-v8: עִוֵּר (ʿiwwēr)  
+v08: עִוֵּר (ʿiwwēr)  
 “Blind.” An animal disqualified for sacrifice.  
 
 v10: רָצוֹן (rāṣôn)  
@@ -165,14 +165,3 @@ v11: שֵׁם (šēm)
 v13: גָּזַל (gāzal)  
 “To seize” or “take by violence.” Property obtained unjustly.  
 
-v02: אָהַב (ʾāhaḇ)
-“To love.” Covenant affection and commitment.
-
-v03: שָׂנֵא (śānēʾ)
-“To hate.” Here expressing covenant rejection in contrast to covenant choice.
-
-v06: כָּבֵד (kāḇēḏ)
-“To honor.” To give proper weight, respect, and glory.
-
-v07: גָּאַל (gāʾal)
-“To defile” or “pollute.” To treat as common what is holy.

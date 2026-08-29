@@ -50,7 +50,7 @@ v07: “goat-demons” — The Hebrew *se'irim* literally means “goats” or �
 v11: The verse grounds the prohibition of blood in the identification of blood with life and in blood’s assigned altar function.
 v13: Blood from hunted food animals is poured out and covered rather than brought to the altar, preserving respect for life outside the sacrificial system.
 
-##Vocabulary
+## Vocabulary
 
 v04: דָּם (dam)
 “Blood.” Here both literal blood and the basis of bloodguilt.

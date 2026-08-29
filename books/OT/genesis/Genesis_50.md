@@ -81,9 +81,9 @@ v25: Then Joseph made the sons of Israel swear, saying, “God will surely visit
 v26: So Joseph died, being 110 years old. They embalmed him, and he was put in a coffin in Egypt.
 </p>
 ## Notes
-v1–3: Egyptian burial practices frame the narrative, situating Israel within a foreign cultural context.  
-v4–6: Joseph operates through mediated authority, respecting Egyptian court protocol.  
-v7–9: The funeral procession is royal in scale, reflecting Joseph’s status.  
+v01–03: Egyptian burial practices frame the narrative, situating Israel within a foreign cultural context.  
+v04–06: Joseph operates through mediated authority, respecting Egyptian court protocol.  
+v07–09: The funeral procession is royal in scale, reflecting Joseph’s status.  
 v10–11: Mourning is publicly visible and culturally interpreted, even by outsiders.  
 v13: The burial in Machpelah reinforces continuity with Abrahamic promise and land claim.  
 v15–17: The brothers’ fear persists despite reconciliation, revealing unresolved guilt.  
@@ -93,21 +93,21 @@ v21: Provision replaces retribution; reconciliation is enacted materially.
 v24–25: “God will surely visit you” anticipates Exodus, linking Genesis to future deliverance.  
 v26: The coffin in Egypt marks an unresolved ending—promise awaits fulfillment.
 
-##Vocabulary
+## Vocabulary
 
-v2: חָנַט (ḥānaṭ)  
+v02: חָנַט (ḥānaṭ)  
 
 “To embalm.” Preservation of the body after death.  
 
-v3: בָּכָה (bāḵāh)  
+v03: בָּכָה (bāḵāh)  
 
 “To weep.” Expression of mourning.  
 
-v5: שָׁבַע (šāḇaʿ)  
+v05: שָׁבַע (šāḇaʿ)  
 
 “To swear.” Bind by oath.  
 
-v7: זָקֵן (zāqēn)  
+v07: זָקֵן (zāqēn)  
 
 “Elder.” One of status and authority.  
 
@@ -151,14 +151,3 @@ v26: אֲרוֹן (ʾărôn)
 
 “Coffin.” Container for the dead body.  
 
-v02: חָנַט (ḥānaṭ)
-“To embalm.” Preservation of the body after death.
-
-v03: בָּכָה (bāḵāh)
-“To weep.” Expression of mourning.
-
-v05: שָׁבַע (šāḇaʿ)
-“To swear.” Bind by oath.
-
-v07: זָקֵן (zāqēn)
-“Elder.” One of status and authority.

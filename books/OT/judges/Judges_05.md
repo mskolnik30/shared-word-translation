@@ -190,7 +190,7 @@ v23: Meroz is cursed for refusing to participate. The location is uncertain.
 v24–27: Jael’s violent act is celebrated within the victory song. The poem does not soften the brutality of ancient warfare.
 v30: The anticipated plunder includes captive women described as war spoils. The song exposes the expectations of Sisera’s household rather than endorsing such treatment.
 
-##Vocabulary
+## Vocabulary
 
 v02: פָּרַע (para)
 “To let loose,” “lead,” or “go unrestrained.” A difficult term in the opening blessing.

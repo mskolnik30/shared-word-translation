@@ -43,49 +43,49 @@ for you created all things,
 and by your will they existed and were created.”
 </p>
 ## Notes
-v1: The open door signals access granted rather than achieved; transition is initiated from above.
-v2: “In the Spirit” again marks the mode of perception without explanation.
-v2–3: The one on the throne is described only in appearance, not identity, preserving distance.
-v4: The twenty-four elders are presented symbolically without identification.
-v5: Storm imagery (lightning, thunder) evokes divine presence without direct citation.
-v5: “Seven spirits” is retained without clarification, maintaining symbolic tension.
-v6: The “sea of glass” suggests stability rather than chaos, reversing common imagery.
-v7–8: The living creatures combine multiple forms, resisting singular interpretation.
-v8: Repetition (“holy, holy, holy”) intensifies rather than explains.
-v9–11: Worship is responsive and continuous; action and speech are intertwined.
+v01: The open door signals access granted rather than achieved; transition is initiated from above.
+v02: “In the Spirit” again marks the mode of perception without explanation.
+v02–03: The one on the throne is described only in appearance, not identity, preserving distance.
+v04: The twenty-four elders are presented symbolically without identification.
+v05: Storm imagery (lightning, thunder) evokes divine presence without direct citation.
+v05: “Seven spirits” is retained without clarification, maintaining symbolic tension.
+v06: The “sea of glass” suggests stability rather than chaos, reversing common imagery.
+v07–08: The living creatures combine multiple forms, resisting singular interpretation.
+v08: Repetition (“holy, holy, holy”) intensifies rather than explains.
+v09–11: Worship is responsive and continuous; action and speech are intertwined.
 v11: Creation is attributed to divine will without philosophical expansion.
 
-##Vocabulary
+## Vocabulary
 
-v1: θύρα (thyra)
+v01: θύρα (thyra)
 
 “Door.” Access point granted, not forced.
 
-v2: θρόνος (thronos)
+v02: θρόνος (thronos)
 
 “Throne.” Central symbol of authority and rule.
 
-v3: ἴασπις (iaspis)
+v03: ἴασπις (iaspis)
 
 “Jasper.” A precious stone; exact identification remains uncertain.
 
-v4: πρεσβύτεροι (presbyteroi)
+v04: πρεσβύτεροι (presbyteroi)
 
 “Elders.” Figures of authority or representation, not defined.
 
-v5: λαμπάς (lampas)
+v05: λαμπάς (lampas)
 
 “Torch.” A burning light, distinct from a stationary lamp.
 
-v6: θάλασσα (thalassa)
+v06: θάλασσα (thalassa)
 
 “Sea.” Here rendered stable, not turbulent.
 
-v7: ζῷον (zōon)
+v07: ζῷον (zōon)
 
 “Living creature.” Emphasizes vitality rather than classification.
 
-v8: ἅγιος (hagios)
+v08: ἅγιος (hagios)
 
 “Holy.” Set apart; intensified through repetition.
 
@@ -93,14 +93,3 @@ v11: θέλημα (thelēma)
 
 “Will.” Intention or purpose as the basis of creation.
 
-v01: θύρα (thyra)
-“Door.” Access point granted, not forced.
-
-v02: θρόνος (thronos)
-“Throne.” Central symbol of authority and rule.
-
-v03: ἴασπις (iaspis)
-“Jasper.” A precious stone; exact identification remains uncertain.
-
-v08: ἅγιος (hagios)
-“Holy.” Set apart; intensified through repetition.

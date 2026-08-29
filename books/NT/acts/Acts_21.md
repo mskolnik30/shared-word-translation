@@ -141,13 +141,13 @@ v25: Jerusalem decree remains in force for Gentiles.
 v27–29: False assumptions escalate conflict.
 v30–36: Roman intervention prevents immediate execution.
 
-##Vocabulary
+## Vocabulary
 
-v4: διὰ τοῦ πνεύματος
+v04: διὰ τοῦ πνεύματος
 
 “Through the Spirit.”
 
-v8: εὐαγγελιστής (euangelistēs)
+v08: εὐαγγελιστής (euangelistēs)
 
 “Evangelist.”
 
@@ -191,5 +191,3 @@ v36: αἴρω (airō)
 v04: διὰ τοῦ πνεύματος (dia tou pneumatos)
 “Through the Spirit.”
 
-v08: εὐαγγελιστής (euangelistēs)
-“Evangelist.”

@@ -89,7 +89,7 @@ v21: Achan’s sequence—“I saw … I desired … I took”—compresses the 
 v25: The account of Achan and his household is one of the chapter’s most difficult features. TSW preserves the corporate punishment as narrated without attempting to resolve questions the text does not answer.
 v26: “Achor” is linked with the verb “to trouble.” The place-name memorializes the crisis and its resolution.
 
-##Vocabulary
+## Vocabulary
 
 v01: מָעַל (ma'al)
 “To act unfaithfully.” To violate a sacred or covenantal trust.

@@ -164,7 +164,7 @@ v21: The Hebrew final noun is rare and uncertain. It may refer to the servant be
 v24: The person associated with a thief becomes trapped: speaking exposes complicity, while silence under oath carries guilt.
 v25: Fear of human approval or retaliation can become captivity; trust in the LORD provides a different security.
 
-##Vocabulary
+## Vocabulary
 
 v01: קָשָׁה־עֹרֶף (qesheh oref)
 “Stiff-necked.” An image of stubborn resistance.

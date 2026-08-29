@@ -83,7 +83,7 @@ v16–17: Huldah confirms that the book’s announced judgment will come because
 v19: Josiah’s tender heart, humility, torn clothing, and tears are explicitly said to be heard by the LORD.
 v20: Josiah later dies violently in battle in chapter 23. “Gathered … in peace” therefore refers to being spared from seeing Jerusalem’s final catastrophe rather than necessarily dying without violence.
 
-##Vocabulary
+## Vocabulary
 
 v02: יָשָׁר (yashar)
 “Right.” Josiah does what is right in the LORD’s eyes.

@@ -173,7 +173,7 @@ v44: The kingdom established by God differs from the previous empires in permane
 v46: Nebuchadnezzar’s prostration and offerings toward Daniel create a difficult scene. The narrative immediately places the king’s confession on Daniel’s God as the revealer of mysteries.
 v49: “king’s court” is literally “the king’s gate,” an administrative location of royal service.
 
-##Vocabulary
+## Vocabulary
 
 v04: אֲרָמִית (Aramit)
 “Aramaic.” The language beginning at Daniel 2:4b.

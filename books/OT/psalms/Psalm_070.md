@@ -37,9 +37,9 @@ Elohim, hasten to me.
 My help and my deliverer are you;
 LORD, do not delay.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: לְהַזְכִּיר (le'hazkir)
 “To bring remembrance" likely designates the psalm as a reminder or memorial, perhaps for God or the worshipping community.

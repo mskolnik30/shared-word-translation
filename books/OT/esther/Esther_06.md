@@ -63,7 +63,7 @@ v10: “Do not let a word fall” means omit nothing. Haman must carry out his o
 v12: Mordecai simply returns to his normal position at the gate, while Haman experiences the event as public shame.
 v13: Haman’s advisers now read his conflict with Mordecai through Mordecai’s Judean identity and predict irreversible reversal.
 
-##Vocabulary
+## Vocabulary
 
 v01: נָדַד (nadad)
 “To flee.” The king’s sleep “flees” from him.

@@ -95,20 +95,9 @@ v16: “In place of your fathers… your sons” — The psalm blesses continuit
 v17: “name… remembered… praise” — The closing aim is enduring public remembrance, not private romance: the reign is meant to become a long witness to righteous rule.
 
 
-  ## Vocabulary
-
-v01: עֵט (ʿet) — stylus; pen
-
-v06: כִּסֵּא (kisse’) — throne
-
-v07: מָשַׁח (mashach) — to anoint
-
-v07: שֶׁמֶן (shemen) — oil
+## Vocabulary
 
 v08: מוֹר (mor) — myrrh
-
-v10: שָׁכַח (shakhaḥ) — to forget
-##Vocabulary
 
 v01: רָחַשׁ (raḥash)
 “To stir; to overflow; to bubble up.”

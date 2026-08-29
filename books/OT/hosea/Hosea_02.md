@@ -105,8 +105,8 @@ and I will have mercy on "Not Pitied."
 I will say to "Not My People," "You are my people,"
 and he will say, "You are my God."
 </p>
-##Notes
+## Notes
 
 v01: The Hebrew chapter division numbers Hosea 1:10–11 as 2:1–2 and begins the present verse at 2:3.
 
-##Vocabulary
+## Vocabulary

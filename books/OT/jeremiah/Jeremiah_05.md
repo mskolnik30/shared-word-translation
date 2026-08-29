@@ -130,9 +130,9 @@ v30: A shocking and horrible thing has happened in the land:
 <p>
 v31: The prophets prophesy falsely, and the priests rule by their own authority; and my people love it so. But what will you do when its end comes?
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v01: אֱמוּנָה (’emunah)
 “faithfulness.” In this chapter it is what Yahweh seeks in Jerusalem and what Yahweh’s eyes are directed toward in v3; it denotes reliable covenantal integrity, not merely inward belief.

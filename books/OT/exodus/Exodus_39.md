@@ -133,7 +133,7 @@ v30: The gold plate visibly marks Aaron’s consecration with the words “Holy 
 v32, v42–43: The repeated formula “as the LORD had commanded Moses” dominates the conclusion. Israel’s successful sanctuary work is measured by faithful correspondence to command.
 v43: Moses inspects and blesses the work only after seeing that it has been completed according to the LORD’s command.
 
-##Vocabulary
+## Vocabulary
 
 v03: פַּח (pach)
 “Thin sheet” or “plate.” Gold is hammered thin before being cut into thread.

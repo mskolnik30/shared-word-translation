@@ -49,7 +49,7 @@ v09: “servant” — Isaiah uses servant language in several contexts. TSW pre
 v18: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
 v16: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
 
-##Vocabulary
+## Vocabulary
 
 v09: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.

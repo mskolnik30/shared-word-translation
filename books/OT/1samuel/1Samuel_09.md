@@ -95,7 +95,7 @@ v17: “Restrain my people” can mean govern, hold back, or exercise rule. The 
 v20: “All that is desirable in Israel” is ambiguous and may refer to Israel’s desire turning toward Saul, or to Israel’s desirable possessions. TSW retains the broad wording.
 v21: Saul’s humility draws on Benjamin’s recent history as a small tribe and his clan’s modest place within it.
 
-##Vocabulary
+## Vocabulary
 
 v01: גִּבּוֹר חַיִל (gibbor chayil)
 “Mighty man of wealth/ability.”

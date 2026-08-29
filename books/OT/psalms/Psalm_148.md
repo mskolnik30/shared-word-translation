@@ -55,7 +55,7 @@ Praise the LORD!
 v08: The Hebrew word rendered “smoke” is often translated “mist” or “vapor.” In the sequence with fire, hail, and snow, it names another atmospheric phenomenon summoned to praise.
 v14: “Horn” is a conventional image of strength and dignity raised up by God for the people.
 
-##Vocabulary
+## Vocabulary
 
 v07: תַּנִּינִים (tanninim)
 “Sea monsters” or great sea creatures. The term retains the ancient scale and imaginative force of creatures associated with the deep.

@@ -242,7 +242,7 @@ v28–32: In the Masoretic chapter division these five verses form Joel 3:1–5.
 v28: “all flesh” deliberately widens the scope of the Spirit’s outpouring across gender, age, and social status.
 v32: Calling upon the name of the LORD and the LORD’s calling of survivors stand together at the chapter’s conclusion.
 
-##Vocabulary
+## Vocabulary
 
 v01: שׁוֹפָר (shofar)
 “Ram’s horn.” Used to sound an alarm in Zion.

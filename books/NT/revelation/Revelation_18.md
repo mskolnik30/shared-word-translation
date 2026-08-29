@@ -161,15 +161,15 @@ v24: And in her was found the blood of prophets and of saints,
 and of all who have been slain on the earth.”
 </p>
 ## Notes
-v1: The angel’s authority is expressed through effect (“the earth was made bright”).
-v2: The fall is declared before narrated; repetition intensifies certainty.
-v2–3: Corruption is described through habitation imagery.
-v4: Separation is commanded; participation is relational, not incidental.
-v5: Sin is depicted cumulatively (“heaped high”).
-v6–7: Judgment is reciprocal and proportional.
-v7: Self-perception contrasts with outcome.
-v8: Suddenness (“in a single day”) emphasizes reversal.
-v9–10: Distance marks fear; association becomes liability.
+v01: The angel’s authority is expressed through effect (“the earth was made bright”).
+v02: The fall is declared before narrated; repetition intensifies certainty.
+v02–03: Corruption is described through habitation imagery.
+v04: Separation is commanded; participation is relational, not incidental.
+v05: Sin is depicted cumulatively (“heaped high”).
+v06–07: Judgment is reciprocal and proportional.
+v07: Self-perception contrasts with outcome.
+v08: Suddenness (“in a single day”) emphasizes reversal.
+v09–10: Distance marks fear; association becomes liability.
 v11–13: The cargo list accumulates without hierarchy, ending with human lives.
 v14: Loss is total and irreversible.
 v15–17: Wealth is undone rapidly; reaction is external.
@@ -180,29 +180,29 @@ v22–23: Absence is repeated; life is systematically removed.
 v23: Deception is attributed to influence rather than force.
 v24: Violence is comprehensive; responsibility is total.
 
-##Vocabulary
+## Vocabulary
 
-v2: κατοικητήριον (katoikētērion)
+v02: κατοικητήριον (katoikētērion)
 
 “Dwelling place.” Place of settled habitation.
 
-v3: πλοῦτος (ploutos)
+v03: πλοῦτος (ploutos)
 
 “Wealth.” Abundance of resources.
 
-v4: ἐξέρχομαι (exerchomai)
+v04: ἐξέρχομαι (exerchomai)
 
 “To come out.” Separation from within.
 
-v5: κολλάω (kollaō)
+v05: κολλάω (kollaō)
 
 “To cling.” To join or attach.
 
-v6: διπλόω (diploō)
+v06: διπλόω (diploō)
 
 “To double.” To repay in kind.
 
-v7: στρηνιάω (strēniaō)
+v07: στρηνιάω (strēniaō)
 
 “To live in luxury.” Excessive indulgence.
 
@@ -226,14 +226,3 @@ v24: αἷμα (haima)
 
 “Blood.” Life taken through violence.
 
-v02: κατοικητήριον (katoikētērion)
-“Dwelling place.” Place of settled habitation.
-
-v03: πλοῦτος (ploutos)
-“Wealth.” Abundance of resources.
-
-v04: ἐξέρχομαι (exerchomai)
-“To come out.” Separation from within.
-
-v05: κολλάω (kollaō)
-“To cling.” To join or attach.

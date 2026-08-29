@@ -102,7 +102,7 @@ v26–28: Reversal is total. The sea that opened now closes; the means of delive
 v29: Repetition reinforces contrast—Israel passes safely where Egypt perishes.
 v30–31: The sequence is theological: deliverance → perception → fear → trust. Faith emerges from witnessed action.
 
-##Vocabulary
+## Vocabulary
 
 v19: מַלְאָךְ (malʾāḵ)
 “Messenger/angel.” One who represents divine presence or action.

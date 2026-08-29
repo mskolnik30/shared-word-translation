@@ -67,7 +67,7 @@ v42: The time that Solomon reigned in Jerusalem over all Israel was forty years.
 v43: Then Solomon lay with his ancestors and was buried in the city of David his father. Rehoboam his son became king in his place.
 </p>
 ## Notes
-v1–39: - **11:1–2** The concern stated in the passage is not foreignness itself, but the turning of Israel’s heart toward other gods. The warning is framed in terms of covenant loyalty and worship.  
+v01–39: - **11:1–2** The concern stated in the passage is not foreignness itself, but the turning of Israel’s heart toward other gods. The warning is framed in terms of covenant loyalty and worship.  
 - **11:4, 6** “Whole” and “fully” render related expressions of completeness. The passage contrasts Solomon’s divided heart with the undivided devotion attributed to David, while the larger narrative also records David’s failures.  
 - **11:7** A “high place” was a worship site, often situated on an elevated location. Here Solomon establishes sites for the worship of other deities in view of Jerusalem.  
 - **11:14, 23, 25** The Hebrew word rendered “adversary” can refer to a human opponent. In this passage Hadad and Rezon are political enemies raised up against Solomon; the term does not itself identify them with a supernatural being.  
@@ -78,13 +78,13 @@ v1–39: - **11:1–2** The concern stated in the passage is not foreignness its
 - **11:38–39** The promise to Jeroboam is conditional: a “faithful house” depends on listening, walking, doing, and keeping. The affliction of David’s descendants is also limited by the words, “but not forever.”  
 v14: , 23, 25 The Hebrew word rendered “adversary” can refer to a human opponent. In this passage Hadad and Rezon are political enemies raised up against Solomon; the term does not itself identify them with a supernatural being.
 
-##Vocabulary
+## Vocabulary
 
-v2: - **11:2 — דָּבַק (*davaq*)**: “Clung.” Solomon’s attachment to these women is described with a verb of strong, binding attachment, intensifying the contrast between his love and his covenant obligation to the LORD.  
+v02: - **11:2 — דָּבַק (*davaq*)**: “Clung.” Solomon’s attachment to these women is described with a verb of strong, binding attachment, intensifying the contrast between his love and his covenant obligation to the LORD.  
 
-v4: - **11:4 — שָׁלֵם (*shalem*)**: “Whole.” Solomon’s heart is not whole with the LORD; the word describes completeness or undividedness rather than mere outward religious observance.  
+v04: - **11:4 — שָׁלֵם (*shalem*)**: “Whole.” Solomon’s heart is not whole with the LORD; the word describes completeness or undividedness rather than mere outward religious observance.  
 
-v7: - **11:7 — בָּמָה (*bamah*)**: “High place.” A raised or designated worship site; here it marks the public establishment of worship for other gods.  
+v07: - **11:7 — בָּמָה (*bamah*)**: “High place.” A raised or designated worship site; here it marks the public establishment of worship for other gods.  
 
 v11: קָרַע (qaraʿ)
 “Tear.” The repeated verb gives the coming division of the kingdom its force, later enacted by Ahijah’s tearing of the cloak.

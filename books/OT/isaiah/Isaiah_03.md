@@ -64,10 +64,10 @@ and she will be desolate and sit on the ground.
 ## Notes
 v14: “the spoil of the poor is in your houses” — Isaiah locates social violence within elite accumulation and makes leadership accountable for what has been taken from the vulnerable.  
 v16: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v8: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
-v9: “Woe” — Hebrew *hoy* is a cry of lament, warning, or judgment whose precise force is governed by its prophetic context.  
+v08: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
+v09: “Woe” — Hebrew *hoy* is a cry of lament, warning, or judgment whose precise force is governed by its prophetic context.  
 
-##Vocabulary
+## Vocabulary
 
 v15: דַּל (dal)
 “Poor” or “weak.” One lacking social or economic power.
@@ -78,8 +78,6 @@ v16: צִיּוֹן (tsiyyon)
 v16: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v8: כָּבוֹד (kavod)  
+v08: כָּבוֹד (kavod)  
 “Glory.” Weight, honor, or manifest splendor.  
 
-v08: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.

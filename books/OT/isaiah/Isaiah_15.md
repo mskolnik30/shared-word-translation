@@ -31,25 +31,17 @@ v09: For the waters of Dimon are full of blood;
 for I will bring yet more on Dimon, a lion on those of Moab who escape, and on the remnant of the land.
 </p>
 ## Notes
-v5: The abrupt place names and cries of Moab give the oracle the texture of communal lament as well as judgment.  
-v9: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
+v05: The abrupt place names and cries of Moab give the oracle the texture of communal lament as well as judgment.  
+v09: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
 
-##Vocabulary
+## Vocabulary
 
-v9: שְׁאָר (she'ar)  
+v09: שְׁאָר (she'ar)  
 “Remnant.” Those who remain or survive.  
 
-v1: דָּבָר (davar)  
+v01: דָּבָר (davar)  
 “Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.  
 
-v1: רָאָה (ra'ah)  
+v01: רָאָה (ra'ah)  
 “To see.” Used literally and prophetically for perception or vision.  
 
-v09: שְׁאָר (she'ar)
-“Remnant.” Those who remain or survive.
-
-v01: דָּבָר (davar)
-“Word,” “matter,” or “thing.” A common Hebrew term for speech that also names the matter spoken.
-
-v01: רָאָה (ra'ah)
-“To see.” Used literally and prophetically for perception or vision.

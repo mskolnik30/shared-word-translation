@@ -140,7 +140,7 @@ v14: The judgment refuses a double standard in which women alone bear responsibi
 v15: “Beth-Aven,” meaning “house of wickedness” or “house of trouble,” is a polemical renaming of Bethel, “house of God.”
 v17: “leave him alone” is a severe prophetic abandonment formula directed toward Ephraim’s attachment to idols.
 
-##Vocabulary
+## Vocabulary
 
 v01: רִיב (riv)
 “Case,” “controversy,” or “lawsuit.” Legal language for the LORD’s charge against the land.

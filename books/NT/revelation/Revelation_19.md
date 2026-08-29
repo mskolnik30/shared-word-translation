@@ -102,7 +102,7 @@ v20: The beast and false prophet are removed without extended conflict.
 v20: The lake of fire is introduced without explanation.
 v21: The rest are slain by word; action remains singular.
 
-##Vocabulary
+## Vocabulary
 
 v11: πιστός (pistos)
 “Faithful.” Reliable or trustworthy.

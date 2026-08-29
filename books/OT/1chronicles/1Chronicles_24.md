@@ -77,22 +77,20 @@ v30: The sons of Mushi: Mahli, Eder, and Jeremoth. These were the sons of the Le
 v31: They also cast lots alongside their brothers, the sons of Aaron, before King David, Zadok, Ahimelech, and the heads of the ancestral houses of the priests and Levites, the chief ancestral house alongside that of its younger brother.
 </p>
 ## Notes
-v5: “Officers of the sanctuary and officers of God” describes priestly leadership in two parallel expressions. The wording may distinguish particular spheres of responsibility, but the verse does not define a precise difference between them.  
-v6: The repeated wording, “one was selected—one was selected—for Ithamar,” is retained from the Hebrew. It likely describes the procedure for alternating or assigning ancestral houses in the lot process, though its exact mechanics are uncertain.  
+v05: “Officers of the sanctuary and officers of God” describes priestly leadership in two parallel expressions. The wording may distinguish particular spheres of responsibility, but the verse does not define a precise difference between them.  
+v06: The repeated wording, “one was selected—one was selected—for Ithamar,” is retained from the Hebrew. It likely describes the procedure for alternating or assigning ancestral houses in the lot process, though its exact mechanics are uncertain.  
 v19: “Their ordinance” refers to the ordered practice by which the priestly divisions entered the house of the LORD for service. The order is presented as rooted in the command given through Aaron.  
 v24: The written form of the final name differs from its traditional reading. The translation follows the traditional reading, Shamir.
 v31: The final phrase places “the chief ancestral house” alongside “that of its younger brother.” The language emphasizes that the lot did not privilege seniority: major and lesser family groups stood together in the assignment.  
-v06: The repeated wording, “one was selected—one was selected—for Ithamar,” is retained from the Hebrew. It likely describes the procedure for alternating or assigning ancestral houses in the lot process, though its exact mechanics are uncertain.
+## Vocabulary
 
-##Vocabulary
-
-v1: מַחְלֹקֶת (*maḥăloqet*)  
+v01: מַחְלֹקֶת (*maḥăloqet*)  
 — “division.” Here it denotes an ordered priestly division, a group assigned a share in the temple’s service.  
 
-v5: גּוֹרָל (*goral*)  
+v05: גּוֹרָל (*goral*)  
 — “lot.” The lots distribute priestly responsibilities; they are part of the chapter’s concern for an ordered and impartial assignment of service.  
 
-v5: קֹדֶשׁ (*qodesh*)  
+v05: קֹדֶשׁ (*qodesh*)  
 — “sanctuary,” “holy thing,” or “holiness.” In “officers of the sanctuary,” the term locates their authority within what belongs especially to God.  
 
 v19: עֲבֹדָה (ʿavodah)

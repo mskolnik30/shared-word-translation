@@ -61,34 +61,34 @@ v16: Now may our Lord Jesus Christ himself, and God our Father, who loved us and
 v17: comfort your hearts and strengthen them in every good work and word.
 </p>
 ## Notes
-v5–6: Paul appeals to prior teaching. The restraint is acknowledged but not identified, leaving ambiguity.  
-v7: “Mystery of lawlessness” indicates present activity that is not yet fully revealed.  
-v7–8: Restraint and revelation are sequential. Timing remains controlled.  
-v8: The defeat of the lawless one is decisive and effortless (“breath of his mouth”).  
-v9–10: Deception is active and persuasive. Its effectiveness is linked to refusal of truth.  
+v05–06: Paul appeals to prior teaching. The restraint is acknowledged but not identified, leaving ambiguity.  
+v07: “Mystery of lawlessness” indicates present activity that is not yet fully revealed.  
+v07–08: Restraint and revelation are sequential. Timing remains controlled.  
+v08: The defeat of the lawless one is decisive and effortless (“breath of his mouth”).  
+v09–10: Deception is active and persuasive. Its effectiveness is linked to refusal of truth.  
 v10: “Love of the truth” suggests not only knowledge but orientation.  
 v11–12: Judgment includes confirmation in falsehood. Divine action does not create deception but permits its effect.  
 v13–14: Election and calling are expressed through Spirit and belief. Salvation is both initiated and mediated.  
 v15: Tradition is authoritative when grounded in apostolic teaching.  
 v16–17: Prayer focuses on internal strengthening and outward expression.  
 
-##Vocabulary
+## Vocabulary
 
-v6: κατέχω (katechō)  
+v06: κατέχω (katechō)  
 
-v6: “To restrain.” To hold back or limit.  
+v06: “To restrain.” To hold back or limit.  
 
-v7: μυστήριον (mystērion)  
+v07: μυστήριον (mystērion)  
 
-v7: “Mystery.” Hidden but active reality.  
+v07: “Mystery.” Hidden but active reality.  
 
-v8: ἀναιρέω (anaireō)  
+v08: ἀναιρέω (anaireō)  
 
-v8: “To destroy.” To remove or eliminate.  
+v08: “To destroy.” To remove or eliminate.  
 
-v9: ἐνέργεια (energeia)  
+v09: ἐνέργεια (energeia)  
 
-v9: “Activity.” Effective operation.  
+v09: “Activity.” Effective operation.  
 
 v10: ἀπάτη (apatē)  
 

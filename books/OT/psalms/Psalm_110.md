@@ -44,7 +44,7 @@ v01: The first divine name is YHWH (“the LORD”); the second term is “my lo
 v03: This verse is among the most difficult in the Psalter. The Masoretic wording supports images of voluntary offering, holy splendor, dawn, dew, and youth, but their syntax is compressed. The translation preserves those images without reconstructing a different Hebrew text.
 v04: “According to the order of Melchizedek” may also carry the sense “after the manner of” or “because of” Melchizedek. The traditional rendering remains close to the Hebrew and leaves the relation open.
 
-##Vocabulary
+## Vocabulary
 
 v04: מַלְכִּי־צֶדֶק (Malki-tsedeq)
 “Melchizedek,” a name traditionally understood as “king of righteousness,” recalling the priest-king of Genesis 14.

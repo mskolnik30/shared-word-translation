@@ -53,17 +53,17 @@ v30: Aaron spoke all the words that the LORD had spoken to Moses and performed t
 v31: The people believed, and when they heard that the LORD had visited the children of Israel and had seen their affliction, they bowed their heads and worshiped.
 </p>
 ## Notes
-v1: - **v1:** Moses anticipates that the Israelites will doubt his claim that Yahweh has appeared to him, expressing a lack of confidence that his message will be received as genuine.  
-v5: - **v5:** The manifestation of signs is purposed to confirm to the Israelites that Yahweh has indeed sent Moses.  
+v01: - **v1:** Moses anticipates that the Israelites will doubt his claim that Yahweh has appeared to him, expressing a lack of confidence that his message will be received as genuine.  
+v05: - **v5:** The manifestation of signs is purposed to confirm to the Israelites that Yahweh has indeed sent Moses.  
 v21: - **v21:** Yahweh foretells the hardening of Pharaoh's heart, a recurring theme that reveals the complexity of divine action and human freedom.  
 v24–26: - **v24-26:** This cryptic episode reveals the seriousness of covenantal obedience, suggesting that Moses' leadership requires compliance with divine commands.  
 v31: - **v31:** The belief of the people upon witnessing signs is significant, as it sets the stage for their subsequent journey and challenges in the wilderness.  
 
-##Vocabulary
+## Vocabulary
 
-v1: - **v1, יַאֲמִינוּ (yaaminu):** Translated as "believe," this verb emphasizes the people's need to trust in the authenticity of Moses’ call and the signs accompanying it.  
+v01: - **v1, יַאֲמִינוּ (yaaminu):** Translated as "believe," this verb emphasizes the people's need to trust in the authenticity of Moses’ call and the signs accompanying it.  
 
-v4: - **v4, מַטֶּה (matteh):** Refers to the “staff” that becomes a symbol of divine power and authority throughout the narrative.  
+v04: - **v4, מַטֶּה (matteh):** Refers to the “staff” that becomes a symbol of divine power and authority throughout the narrative.  
 
 v21: - **v21, מוֹפְתִים (mofetim):** These “wonders” suggest acts performed by Moses that reveal Yahweh’s power to Pharaoh and the Egyptians.  
 

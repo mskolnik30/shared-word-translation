@@ -315,7 +315,7 @@ v36: The LORD’s own heart is described as mourning for Moab even within an ora
 v45: The language echoes an older poem associated with Sihon and Moab. Jeremiah reuses inherited poetic material within the new judgment oracle.
 v47: The final promise of restored fortunes prevents Moab’s judgment from being the final word.
 
-##Vocabulary
+## Vocabulary
 
 v06: עֲרוֹעֵר (aroer)
 “Shrub” or possibly a place-related wilderness plant. A rare term used in the call to flee.

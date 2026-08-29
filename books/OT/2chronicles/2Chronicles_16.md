@@ -52,7 +52,7 @@ v03: Asa uses temple treasure to purchase Aramean intervention against fellow Is
 v07–09: Hanani contrasts Asa’s earlier reliance on the LORD with his new reliance on Aram.
 v12: The criticism is not the mere use of physicians but the explicit statement that Asa did not seek the LORD in his illness.
 
-##Vocabulary
+## Vocabulary
 
 v01: בָּנָה (banah)
 “To build” or fortify.

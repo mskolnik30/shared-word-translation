@@ -110,7 +110,7 @@ v23–25: The fierce king is commonly associated with Antiochus IV Epiphanes in 
 v25: “broken—not by human hand” mirrors the non-human agency in chapter 2 and emphasizes that the arrogant king’s final defeat does not depend on ordinary human power.
 v27: Daniel returns to administrative service but remains physically and emotionally affected by revelation.
 
-##Vocabulary
+## Vocabulary
 
 v02: אוּבָל (uval)
 “Canal” or “river channel.” The Ulai beside which Daniel sees the vision.

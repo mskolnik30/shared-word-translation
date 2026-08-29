@@ -143,7 +143,7 @@ v14: Amos denies belonging to a prophetic profession or guild. His earlier occup
 v16: “drip words” is a poetic verb for prophetic speech, likely evoking speech falling like liquid.
 v17: The oracle against Amaziah is severe and includes his household, property, death, and Israel’s exile. TSW retains the text without expanding its violence.
 
-##Vocabulary
+## Vocabulary
 
 v01: גֹּבַי (govai)
 “Locusts.” The insects formed in Amos’s first vision.

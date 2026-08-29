@@ -127,7 +127,7 @@ v13–18: The ostrich passage is playful and paradoxical: limited apparent wisdo
 v19–25: The warhorse’s fearlessness is described with admiration even though warfare itself is dangerous. The animal embodies a power Job did not create.
 v26–30: Hawk and eagle act through capacities not derived from human wisdom or command, extending the theme of creation’s independence from human governance.
 
-##Vocabulary
+## Vocabulary
 
 v01: יָעֵל (ya'el)
 “Mountain goat” or “ibex.” A wild goat living in rocky terrain.

@@ -93,39 +93,39 @@ v26: Therefore I run in this way, not as uncertainly; I box in this way, not as 
 v27: but I discipline my body and bring it into subjection, lest after proclaiming to others, I myself should become disqualified.
 </p>
 ## Notes
-v1–2: Apostolic authority is validated by transformed community.  
-v3–14: Right to material support is established from practice and Scripture.  
+v01–02: Apostolic authority is validated by transformed community.  
+v03–14: Right to material support is established from practice and Scripture.  
 v12: Rights are voluntarily surrendered for the gospel’s sake.  
 v16–17: Gospel proclamation is necessity and stewardship.  
 v18: True reward lies in selfless ministry.  
 v19–23: Adaptability serves mission without compromising truth.  
 v24–27: Athletic imagery illustrates disciplined pursuit of faithfulness.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἀπόστολος (apostolos)  
+v01: ἀπόστολος (apostolos)  
 
-v1: “Apostle.”  
+v01: “Apostle.”  
 
-v2: σφραγίς (sphragis)  
+v02: σφραγίς (sphragis)  
 
-v2: “Seal.”  
+v02: “Seal.”  
 
-v3: ἀπολογία (apologia)  
+v03: ἀπολογία (apologia)  
 
-v3: “Defense.”  
+v03: “Defense.”  
 
-v4: ἐξουσία (exousia)  
+v04: ἐξουσία (exousia)  
 
-v4: “Right.”  
+v04: “Right.”  
 
-v7: στρατεύομαι (strateuomai)  
+v07: στρατεύομαι (strateuomai)  
 
-v7: “To serve as a soldier.”  
+v07: “To serve as a soldier.”  
 
-v9: φιμόω (phimoō)  
+v09: φιμόω (phimoō)  
 
-v9: “To muzzle.”  
+v09: “To muzzle.”  
 
 v10: ἐλπίς (elpis)  
 

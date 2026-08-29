@@ -156,7 +156,7 @@ v23: “liver” — The image is deliberately bodily and fatal. The young man d
 v26: The warning widens beyond one inexperienced young man. The narrative is presented as one example within a repeated human pattern.
 v27: The house that promised pleasure is finally identified as a road descending toward death.
 
-##Vocabulary
+## Vocabulary
 
 v01: צָפַן (tsafan)
 “To treasure” or “store.” To keep something carefully within oneself.

@@ -112,7 +112,7 @@ v08–38: Much of the chapter closely repeats the design instructions of Exodus 
 v19: As in chapter 26, the identity of the outer leather material is uncertain. “Fine leather” keeps the material broad.
 v29: The corner construction remains technically difficult to reconstruct; TSW follows the received wording without inventing missing structural details.
 
-##Vocabulary
+## Vocabulary
 
 v01: עָשָׂה (asah)
 “To make” or “do.” The dominant action as instruction becomes construction.

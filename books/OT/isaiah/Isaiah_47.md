@@ -49,33 +49,25 @@ v15: Thus will the things be to you in which you have labored: those who have tr
 there will be none to save you.
 </p>
 ## Notes
-v1: Babylon is addressed as a royal woman brought suddenly from privilege to humiliation. The imagery targets imperial security and self-exaltation.  
-v4: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
-v4: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v4: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
+v01: Babylon is addressed as a royal woman brought suddenly from privilege to humiliation. The imagery targets imperial security and self-exaltation.  
+v04: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v04: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v04: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
 
-##Vocabulary
+## Vocabulary
 
-v1: בַּת־בָּבֶל (bat Bavel)  
+v01: בַּת־בָּבֶל (bat Bavel)  
 “Daughter Babylon.” Poetic personification of the imperial city.  
 
-v4: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+v04: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.  
 
-v4: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
-v4: גֹּאֵל (go'el)  
+v04: גֹּאֵל (go'el)  
 “Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.  
-
-v01: בַּת־בָּבֶל (bat Bavel)
-“Daughter Babylon.” Poetic personification of the imperial city.
-
-v04: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
 v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v04: גֹּאֵל (go'el)
-“Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.

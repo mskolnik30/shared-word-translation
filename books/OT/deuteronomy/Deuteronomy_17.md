@@ -73,7 +73,7 @@ v17: Multiplication of wives and wealth is prohibited because royal accumulation
 v18: The king is placed under written instruction. He does not create Torah; he copies, reads, learns, and obeys it.
 v20: The king remains a “brother” among Israelites. Torah is intended to prevent royal self-exaltation.
 
-##Vocabulary
+## Vocabulary
 
 v01: מוּם (mum)
 “Defect” or “blemish.” A disqualifying flaw in a sacrificial animal.

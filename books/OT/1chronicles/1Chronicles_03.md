@@ -44,16 +44,16 @@ v23: The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three.
 v24: The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.
 </p>
 ## Notes
-v1–24: 1. **David's Sons in Hebron (v1-4):** The first part of the genealogy, detailing the sons born to David during his time in Hebron, emphasizes his early period of kingship and alliances through marriage.  
+v01–24: 1. **David's Sons in Hebron (v1-4):** The first part of the genealogy, detailing the sons born to David during his time in Hebron, emphasizes his early period of kingship and alliances through marriage.  
 2. **Sons Born in Jerusalem (v5-9):** The genealogy continues with sons born in Jerusalem, highlighting the sovereignty and continuation of David's lineage in the established capital.  
 3. **David's Lineage and Rule (v10-16):** The genealogical record maintains the focus on royal succession, leading from Solomon to Josiah and his sons, showing the dynastic continuity.  
 4. **Jeconiah's Descendants (v17-24):** This section addresses the descendants of Jeconiah during the exile period, indicating the dispersed but persistent Davidic line.  
 
-##Vocabulary
+## Vocabulary
 
-v1: - **בֵּן (ben - v1):** Commonly translated as "son," this term reflects the designation of biological and/or legal offspring crucial for tracing inheritance and lineage in the narrative.  
+v01: - **בֵּן (ben - v1):** Commonly translated as "son," this term reflects the designation of biological and/or legal offspring crucial for tracing inheritance and lineage in the narrative.  
 
-v4–5: - **יִרְאוּשָׁלַיִם (Jerusalem - v4, v5):** The center of Israel's monarchy and religious life, signifying the political and spiritual heart of Judah.  
+v04–05: - **יִרְאוּשָׁלַיִם (Jerusalem - v4, v5):** The center of Israel's monarchy and religious life, signifying the political and spiritual heart of Judah.  
 
 v18: - **מַלְכִּירָם (Malchiram - v18):** One of the descendants of Jeconiah, reminding readers of the broader family network beyond the immediate line of kingship.  
 

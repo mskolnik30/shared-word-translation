@@ -79,7 +79,7 @@ v14–15: Samson’s weapon is an animal jawbone, again bringing his Nazirite co
 v18: Samson acknowledges the victory as a deliverance given by God, even after boasting in verse 16 about his own feat.
 v19: The place-name En-Hakkore means “spring of the caller,” remembering Samson’s cry to God for water.
 
-##Vocabulary
+## Vocabulary
 
 v04: שׁוּעָל (shu'al)
 “Fox” or “jackal.” The animal used to carry fire into Philistine fields.

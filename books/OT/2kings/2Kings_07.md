@@ -80,7 +80,7 @@ v13: The Hebrew description of the surviving horses is repetitive and textually 
 v16: The exact prices fulfill the prophetic word, emphasizing the reliability of the LORD’s speech.
 v17–20: The officer sees the abundance but dies before eating it, precisely fulfilling Elisha’s warning.
 
-##Vocabulary
+## Vocabulary
 
 v01: סְאָה (se'ah)
 “Seah.” A dry measure of grain.

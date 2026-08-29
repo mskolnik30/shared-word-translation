@@ -90,7 +90,7 @@ v17: Naaman’s request for Israelite earth reflects an ancient association betw
 v18: Naaman anticipates official duties in Rimmon’s temple and asks pardon in advance. Elisha’s “Go in peace” neither elaborates a rule nor explicitly condemns him.
 v20–27: Gehazi turns prophetic grace into a market opportunity. The punishment transfers Naaman’s former condition onto the servant who tried to profit from healing.
 
-##Vocabulary
+## Vocabulary
 
 v01: צָרַעַת (tsara'at)
 “Skin disease.” A broad biblical category.

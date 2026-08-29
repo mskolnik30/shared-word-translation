@@ -121,7 +121,7 @@ v30: Jezebel’s cosmetics and arranged hair can signal royal composure, defianc
 v31: Jezebel calls Jehu “Zimri,” comparing him to the short-lived usurper who murdered his king in 1 Kings 16.
 v33–37: Jezebel’s violent death and denied burial fulfill Elijah’s earlier oracle. TSW preserves the narrative’s severity without graphic expansion.
 
-##Vocabulary
+## Vocabulary
 
 v03: מָשַׁח (mashach)
 “To anoint.” Jehu is installed as king.

@@ -89,7 +89,7 @@ v20: The “hornet” may be literal or figurative for terror and disruption. TS
 v22: As in Exodus 23, conquest is gradual for ecological reasons: a suddenly emptied land would allow wild animals to multiply.
 v25–26: Israel must not turn destroyed cult objects into private wealth. The material value of idols does not cancel their covenant danger.
 
-##Vocabulary
+## Vocabulary
 
 v02: חָרַם (charam)
 “To devote to destruction.” To place under irrevocable ban.

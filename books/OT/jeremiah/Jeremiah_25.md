@@ -143,7 +143,7 @@ v15–29: The cup of wrath is a prophetic image of judgment that moves from Juda
 v26: “Sheshach” is generally understood as a cryptographic name for Babylon using the Hebrew *atbash* letter substitution system.
 v30–31: The LORD’s judgment is described through both lion imagery and legal language: roaring and entering into a controversy with the nations.
 
-##Vocabulary
+## Vocabulary
 
 v03: הַשְׁכֵּם (hashkem)
 “To rise early.” Part of Jeremiah’s repeated idiom for persistent divine sending and prophetic warning.

@@ -188,11 +188,11 @@ v45: And in a little while, the skies grew dark with clouds and wind, and there 
 <p>
 v46: The hand of the LORD was upon Elijah. He girded up his waist and ran before Ahab as far as the entrance to Jezreel.
 </p>
-##Notes
+## Notes
 
 v27: The phrase translated “gone aside” is ambiguous and may suggest that Baal is occupied, absent, or attending to bodily needs.
 
-##Vocabulary
+## Vocabulary
 
 v21: פָּסַח (pasaḥ)
 “Limp” or “move unsteadily.” Elijah uses this word for the people’s wavering between the LORD and Baal; it returns in v26 for the prophets’ movement around their altar.

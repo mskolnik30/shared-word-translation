@@ -97,7 +97,7 @@ v12: The execution of captives by throwing them from a cliff is severe wartime v
 v14–16: Amaziah’s worship of defeated Edomite gods is intentionally irrational and becomes the turning point of his reign.
 v20: His refusal to heed warning is interpreted as part of the divine judgment already determined.
 
-##Vocabulary
+## Vocabulary
 
 v02: לֵב שָׁלֵם (lev shalem)
 “Whole heart.”

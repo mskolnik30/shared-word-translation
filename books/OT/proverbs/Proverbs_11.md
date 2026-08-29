@@ -173,7 +173,7 @@ v26: Grain hoarding is condemned when withholding harms the community for person
 v30: “gains lives” — The Hebrew phrase can also be translated “takes lives/souls,” but within the positive parallelism TSW understands it as wisely winning or gaining people rather than violently taking life.
 v31: The closing saying argues from lesser to greater: if even the righteous experience consequences within earthly life, the wicked cannot presume escape.
 
-##Vocabulary
+## Vocabulary
 
 v01: מֹאזְנֵי מִרְמָה (mozenei mirmah)
 “False balance.” Scales manipulated for dishonest commerce.

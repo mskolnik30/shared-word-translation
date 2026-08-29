@@ -59,7 +59,7 @@ v10: 1 Chronicles 10:10 places Saul’s head in the house of Dagon and his armor
 v12: Burning the bodies may have been necessary because of mutilation or may represent an unusual funerary response. Cremation is not the normal Israelite burial practice.
 v11–13: Jabesh-Gilead repays Saul’s earlier rescue in chapter 11 through courageous recovery and burial of his remains.
 
-##Vocabulary
+## Vocabulary
 
 v02: דָּבַק (davaq)
 “To press hard after” or cling in pursuit.

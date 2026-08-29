@@ -204,7 +204,7 @@ v25: “a time, times, and half a time” is a symbolic period of limited oppres
 v25: The Aramaic phrase translated “law” can also mean decree or religious order. The arrogant ruler attempts to alter sacred times and law.
 v28: The Aramaic section of Daniel that began at 2:4 ends with this verse. Daniel 8 returns to Hebrew.
 
-##Vocabulary
+## Vocabulary
 
 v02: רוּחַ (ruach)
 “Wind” or “spirit.” Four winds stir the great sea.

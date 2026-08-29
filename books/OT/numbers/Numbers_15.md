@@ -91,7 +91,7 @@ v22–31: The text sharply distinguishes unintentional failure from action done 
 v34: The man is held while the community seeks a ruling, showing that the penalty is not improvised by those who discover the violation.
 v39: “prostitute yourselves” — The Hebrew uses sexual-infidelity language metaphorically for following heart and eyes away from the LORD.
 
-##Vocabulary
+## Vocabulary
 
 v03: רֵיחַ נִיחוֹחַ (reach nichoach)
 “Pleasing aroma.” A recurring sacrificial expression for an offering accepted before the LORD.

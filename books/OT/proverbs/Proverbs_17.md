@@ -168,7 +168,7 @@ v14: Conflict is compared with breaching a dam. Once released, it becomes increa
 v17: Friendship is characterized by enduring love; kinship becomes particularly visible when adversity arrives.
 v22: Emotional and bodily life are interconnected. Joy can be medicinal, while a crushed spirit can diminish physical vitality.
 
-##Vocabulary
+## Vocabulary
 
 v01: שָׁלוָה (shalvah)
 “Quiet” or “peace.” A condition of undisturbed well-being.

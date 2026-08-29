@@ -83,7 +83,7 @@ v14–16: The deportation targets leadership, military strength, craftsmen, and 
 v17: Mattaniah’s renaming as Zedekiah demonstrates Babylon’s authority over Judah’s throne, paralleling Pharaoh Neco’s renaming of Jehoiakim.
 v20: Zedekiah’s rebellion launches the final sequence leading to Jerusalem’s destruction in chapter 25.
 
-##Vocabulary
+## Vocabulary
 
 v01: עֶבֶד (eved)
 “Servant.” Jehoiakim becomes Babylon’s vassal.

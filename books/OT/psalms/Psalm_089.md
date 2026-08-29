@@ -201,8 +201,8 @@ v52: Blessed be the LORD forever!
 Amen and Amen.
 </p>
 ## Notes
-v1–4: The psalm begins with confident proclamation of covenant faithfulness.  
-v5–18: Divine kingship is grounded in creation, power, and righteousness.  
+v01–04: The psalm begins with confident proclamation of covenant faithfulness.  
+v05–18: Divine kingship is grounded in creation, power, and righteousness.  
 v14: Throne imagery integrates justice with steadfast love.  
 v19–37: The Davidic covenant is detailed and unconditional in its core promise.  
 v30–33: Discipline does not cancel covenant loyalty.  
@@ -210,15 +210,15 @@ v38–45: Abrupt shift to lament. Experience contradicts promise.
 v46–51: The tension is unresolved. Appeal is made to God’s own words.  
 v52: Closing doxology affirms faith despite unresolved contradiction.  
 
-##Vocabulary
+## Vocabulary
 
-v1: חֶסֶד (chesed)  
+v01: חֶסֶד (chesed)  
 “Steadfast love.” Covenant loyalty.  
 
-v2: אֱמוּנָה (emunah)  
+v02: אֱמוּנָה (emunah)  
 “Faithfulness.” Reliability.  
 
-v3: בְּרִית (berit)  
+v03: בְּרִית (berit)  
 “Covenant.” Binding agreement.  
 
 v10: רָהַב (Rahab)  
@@ -242,11 +242,3 @@ v39: חָלַל (chalal)
 v48: שְׁאוֹל (sheol)  
 “Grave.” Realm of the dead.  
 
-v01: חֶסֶד (chesed)
-“Steadfast love.” Covenant loyalty.
-
-v02: אֱמוּנָה (emunah)
-“Faithfulness.” Reliability.
-
-v03: בְּרִית (berit)
-“Covenant.” Binding agreement.

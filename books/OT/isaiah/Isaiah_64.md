@@ -40,7 +40,7 @@ v10: “Zion” — The name can refer to Jerusalem, its people, or the city per
 v02: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
 v05: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
 
-##Vocabulary
+## Vocabulary
 
 v06: טָמֵא (tame)
 “Unclean.” Ritual and moral impurity language used within the communal confession.

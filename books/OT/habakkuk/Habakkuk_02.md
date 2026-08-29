@@ -193,7 +193,7 @@ v17: Lebanon and its animals are included within the accusation of violence. Hum
 v18–19: The idol is simultaneously made by a craftsman and trusted as a teacher. The satire turns on the contradiction of asking a breathless object to speak.
 v20: The chapter closes not with another human taunt but with the LORD’s presence and a command for all the earth to be silent.
 
-##Vocabulary
+## Vocabulary
 
 v01: מִשְׁמֶרֶת (mishmeret)
 “Watchpost” or “guard station.” The place where Habakkuk waits for an answer.

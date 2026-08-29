@@ -75,7 +75,7 @@ v14: Joshua’s public exaltation is explicitly attributed to the LORD and paral
 v23: The crossing of the Jordan is interpreted through the earlier crossing of the Sea of Reeds. New deliverance is remembered in continuity with old deliverance.
 v24: The sign has both outward and inward purposes: the nations are to know the LORD’s strong hand, and Israel is to fear the LORD.
 
-##Vocabulary
+## Vocabulary
 
 v06: אוֹת (ot)
 “Sign.” A visible marker pointing beyond itself.

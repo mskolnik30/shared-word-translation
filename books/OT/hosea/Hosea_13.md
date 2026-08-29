@@ -139,7 +139,7 @@ v13: Ephraim is compared with a child who fails to emerge at the moment of birth
 v14: The Hebrew can be read either as a promise to redeem from death or as rhetorical questions refusing redemption. The final line, “Compassion is hidden from my eyes,” pulls the verse toward judgment. TSW preserves the interrogative form rather than resolving the tension.
 v16: The closing violence is characteristic of ancient conquest language and is deliberately horrifying. TSW retains the text without expanding or softening it.
 
-##Vocabulary
+## Vocabulary
 
 v01: אָשַׁם (asham)
 “To become guilty.” Ephraim incurs guilt through Baal worship.

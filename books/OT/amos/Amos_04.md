@@ -128,7 +128,7 @@ v11: “burning stick snatched from the fire” pictures a narrow survival from 
 v13: “what his thought is” may refer to God revealing divine thought to humanity or exposing a person’s thought. The Hebrew pronouns allow ambiguity, which TSW preserves.
 v13: The phrase “what his thought is” may refer to God revealing divine thought to humanity or exposing a person’s thought. The Hebrew pronouns allow both readings.
 
-##Vocabulary
+## Vocabulary
 
 v01: עָשַׁק (ashaq)
 “To oppress.” To exploit someone with less power.

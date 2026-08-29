@@ -54,7 +54,7 @@ v10: Ziba’s large household makes him capable of administering the restored es
 v11: “like one of the king’s sons” gives Mephibosheth a status at table resembling adoption into David’s royal household.
 v12: Mica preserves Jonathan’s line beyond Mephibosheth.
 
-##Vocabulary
+## Vocabulary
 
 v01: חֶסֶד (ḥesed)
 “Steadfast love.” Covenant loyalty shown for Jonathan’s sake.

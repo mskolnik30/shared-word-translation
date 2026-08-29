@@ -66,7 +66,7 @@ v10: David seeks refuge in Gath, Goliath’s own Philistine city, showing how de
 v11: The Philistine servants call David “king of the land” before he is king over Israel, likely reflecting his reputation rather than formal office.
 v13: David’s feigned madness is an act of survival. The exact action translated “made marks” is uncertain and may mean scratched or scribbled.
 
-##Vocabulary
+## Vocabulary
 
 v01: חָרַד (charad)
 “To tremble.” Ahimelech meets David with alarm.

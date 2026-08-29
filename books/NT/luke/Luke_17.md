@@ -116,10 +116,10 @@ v35: There will be two grinding together; one will be taken and the other left.�
 v37: And answering, they say to him, “Where, Lord?” And he said to them, “Where the body is, there also the vultures will be gathered.”
 </p>
 ## Notes
-v1–2: Stumbling is inevitable, but responsibility for causing it is severe.
-v3–4: Forgiveness is repeated and responsive to repentance.
-v5–6: Faith is measured by efficacy, not quantity.
-v7–10: Obedience does not create entitlement; duty remains duty.
+v01–02: Stumbling is inevitable, but responsibility for causing it is severe.
+v03–04: Forgiveness is repeated and responsive to repentance.
+v05–06: Faith is measured by efficacy, not quantity.
+v07–10: Obedience does not create entitlement; duty remains duty.
 v11–14: Healing occurs in obedience before visible change.
 v15–16: Gratitude distinguishes the one who returns.
 v18: The outsider (Samaritan) becomes the model responder.
@@ -134,33 +134,33 @@ v35: The paired sayings place separation within ordinary shared settings. Some m
 v36: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add wording parallel to Matthew 24:40. Public verse numbering is retained.
 v37: The final saying emphasizes inevitability and visibility of judgment.
 
-##Vocabulary
+## Vocabulary
 
-v1: σκάνδαλον (skandalon)
+v01: σκάνδαλον (skandalon)
 
 “Stumbling block.”
 
-v2: μύλος ὀνικός (mylos onikos)
+v02: μύλος ὀνικός (mylos onikos)
 
 “Millstone.”
 
-v3: ἐπιτιμάω (epitimaō)
+v03: ἐπιτιμάω (epitimaō)
 
 “To rebuke.”
 
-v4: μετανοέω (metanoeō)
+v04: μετανοέω (metanoeō)
 
 “To repent.”
 
-v5: πίστις (pistis)
+v05: πίστις (pistis)
 
 “Faith.”
 
-v6: συκάμινος (sykaminos)
+v06: συκάμινος (sykaminos)
 
 “Mulberry tree.”
 
-v8: περιζώννυμι (perizōnnymai)
+v08: περιζώννυμι (perizōnnymai)
 
 “To gird.”
 
@@ -220,17 +220,3 @@ v37: ἀετός (aetos)
 
 “Vulture.”
 
-v01: σκάνδαλον (skandalon)
-“Stumbling block.”
-
-v02: μύλος ὀνικός (mylos onikos)
-“Millstone.”
-
-v03: ἐπιτιμάω (epitimaō)
-“To rebuke.”
-
-v04: μετανοέω (metanoeō)
-“To repent.”
-
-v05: πίστις (pistis)
-“Faith.”

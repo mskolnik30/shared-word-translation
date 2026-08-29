@@ -115,17 +115,17 @@ v42: And immediately the girl rose and began to walk, for she was twelve years o
 v43: And he strictly ordered them that no one should know this, and he told them to give her something to eat.
 </p>
 ## Notes
-v9: Naming (“Legion”) reveals multiplicity and occupation.  
+v09: Naming (“Legion”) reveals multiplicity and occupation.  
 v19: Mission begins at home; restoration leads to witness.  
 v30: Power is depicted as proceeding from Jesus without diminishment.  
 v34: “Saved” (σέσωκέν) holds healing and restoration together.  
 v41: Aramaic is preserved; immediacy of command is emphasized.  
 
-##Vocabulary
+## Vocabulary
 
-v2: πνεῦμα ἀκάθαρτον (pneuma akatharton) — unclean spirit.  
+v02: πνεῦμα ἀκάθαρτον (pneuma akatharton) — unclean spirit.  
 
-v9: λεγιών (legiōn) — legion, many.  
+v09: λεγιών (legiōn) — legion, many.  
 
 v30: δύναμις (dynamis)
 “Power.”

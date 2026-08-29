@@ -77,10 +77,10 @@ v41: And many came to him. And they were saying, “John did no sign, but everyt
 v42: And many believed in him there.
 </p>
 ## Notes
-v1–5: The contrast between shepherd and intruder establishes legitimacy through relationship rather than force or access.  
-v3: “Calls his own sheep by name” emphasizes particularity; belonging is not abstract but personal.  
-v6: The narrative marks misunderstanding without resolving it, allowing the discourse to unfold interpretively.  
-v7–9: “I am the door” reframes access—not merely guidance but entry itself is located in Jesus.  
+v01–05: The contrast between shepherd and intruder establishes legitimacy through relationship rather than force or access.  
+v03: “Calls his own sheep by name” emphasizes particularity; belonging is not abstract but personal.  
+v06: The narrative marks misunderstanding without resolving it, allowing the discourse to unfold interpretively.  
+v07–09: “I am the door” reframes access—not merely guidance but entry itself is located in Jesus.  
 v10: “Life in abundance” is qualitative, not merely extended duration.  
 v11–15: The shepherd imagery intensifies into self-giving; knowledge and sacrifice are held together.  
 v16: “Other sheep” expands the scope beyond the immediate audience without specifying boundaries.  
@@ -93,15 +93,15 @@ v34–36: Jesus appeals to Scripture to destabilize the charge of blasphemy with
 v37–38: Works function as interpretive evidence, though they do not compel belief.  
 v40–42: The return beyond the Jordan recalls earlier testimony, linking present recognition to prior witness.  
 
-##Vocabulary
+## Vocabulary
 
-v1: κλέπτης (kleptēs)  
+v01: κλέπτης (kleptēs)  
 “Thief.” One who takes secretly; contrasted with open, legitimate entry.  
 
-v3: φωνή (phōnē)  
+v03: φωνή (phōnē)  
 “Voice.” Carries recognition and authority; relational rather than merely auditory.  
 
-v9: θύρα (thyra)  
+v09: θύρα (thyra)  
 “Door.” A point of access and transition; here metaphorically central.  
 
 v10: ζωή (zōē)
@@ -125,11 +125,3 @@ v28: ἁρπάζω (harpazō)
 v30: ἕν (hen)  
 “One.” Unity without specification of form, leaving the nature of oneness open within the text.  
 
-v01: κλέπτης (kleptēs)
-“Thief.” One who takes secretly; contrasted with open, legitimate entry.
-
-v03: φωνή (phōnē)
-“Voice.” Carries recognition and authority; relational rather than merely auditory.
-
-v09: θύρα (thyra)
-“Door.” A point of access and transition; here metaphorically central.

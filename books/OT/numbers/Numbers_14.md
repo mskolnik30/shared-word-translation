@@ -97,7 +97,7 @@ v20: Pardon does not erase every consequence. The LORD forgives the people yet j
 v34: The forty years correspond to the forty days of exploration. The Hebrew word translated “opposition” can also convey rejection or alienation.
 v40–45: The people’s attempted obedience comes after the command has changed. Presumption is not transformed into faith merely by repeating the action previously refused.
 
-##Vocabulary
+## Vocabulary
 
 v02: לוּ (lu)
 “If only.” A particle expressing a strong wish, here a wish for death rather than trust.

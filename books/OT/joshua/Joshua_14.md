@@ -52,7 +52,7 @@ v08, v14: “fully followed” literally carries the sense of filling up or foll
 v10: Caleb’s age links the present distribution of the land with the wilderness generation and the earlier promise at Kadesh-Barnea.
 v12: Caleb’s confidence remains qualified by dependence: “Perhaps the LORD will be with me.” His strength does not replace the need for divine presence.
 
-##Vocabulary
+## Vocabulary
 
 v02: גּוֹרָל (goral)
 “Lot.” A means used to assign or discern portions.

@@ -46,16 +46,16 @@ v17: He has cast the lot for them, and his hand has divided it to them with a me
 </p>
 ## Notes
 v14: Several animal and wilderness terms are rare and difficult. The poetry intentionally depicts Edom’s judgment as a reversal from inhabited land to untamed desolation.  
-v8: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v1: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+v08: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v01: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 v16: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
 
-##Vocabulary
+## Vocabulary
 
-v8: צִיּוֹן (tsiyyon)  
+v08: צִיּוֹן (tsiyyon)  
 “Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
-v1: גּוֹיִם (goyim)  
+v01: גּוֹיִם (goyim)  
 “Nations” or “peoples.” Peoples beyond Israel.  
 
 v16: רוּחַ (ruach)
@@ -64,5 +64,3 @@ v16: רוּחַ (ruach)
 v08: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v01: גּוֹיִם (goyim)
-“Nations” or “peoples.” Peoples beyond Israel.

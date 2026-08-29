@@ -91,42 +91,42 @@ v21: But concerning Israel he says,
 “All day long I stretched out my hands to a disobedient and contrary people.”
 </p>
 ## Notes
-v1–2: Zeal without knowledge results in misdirected pursuit.
-v3–4: Christ fulfills and terminates the law’s role in righteousness.
-v6–8: Salvation is not achieved by effort but received by faith.
-v9–10: Confession and belief function together.
+v01–02: Zeal without knowledge results in misdirected pursuit.
+v03–04: Christ fulfills and terminates the law’s role in righteousness.
+v06–08: Salvation is not achieved by effort but received by faith.
+v09–10: Confession and belief function together.
 v11–13: Salvation is universally available without distinction.
 v14–15: Proclamation is necessary for belief.
 v16–17: Faith is generated through hearing the proclaimed word.
 v18–21: Israel’s rejection fulfills Scripture and opens way for Gentiles.
 
-##Vocabulary
+## Vocabulary
 
-v2: ζῆλος (zēlos)
+v02: ζῆλος (zēlos)
 
 “Zeal.”
 
-v3: ὑποτάσσω (hypotassō)
+v03: ὑποτάσσω (hypotassō)
 
 “To submit.”
 
-v4: τέλος (telos)
+v04: τέλος (telos)
 
 “End, fulfillment.”
 
-v6: ἀναβαίνω (anabainō)
+v06: ἀναβαίνω (anabainō)
 
 “To ascend.”
 
-v7: ἄβυσσος (abyssos)
+v07: ἄβυσσος (abyssos)
 
 “Abyss.”
 
-v8: ῥῆμα (rhēma)
+v08: ῥῆμα (rhēma)
 
 “Word.”
 
-v9: ὁμολογέω (homologeō)
+v09: ὁμολογέω (homologeō)
 
 “To confess.”
 
@@ -161,11 +161,3 @@ v21: ἀπειθέω (apeitheō)
 
 “To be disobedient.”
 
-v02: ζῆλος (zēlos)
-“Zeal.”
-
-v03: ὑποτάσσω (hypotassō)
-“To submit.”
-
-v04: τέλος (telos)
-“End, fulfillment.”

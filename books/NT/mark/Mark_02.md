@@ -85,14 +85,14 @@ v27: And he said to them, “The Sabbath came to be for the sake of humanity, an
 v28: So the Son of Man is lord even of the Sabbath.”
 </p>
 ## Notes
-v5: Forgiveness precedes healing; the visible sign confirms the invisible claim.  
+v05: Forgiveness precedes healing; the visible sign confirms the invisible claim.  
 v10: “Son of Man” carries both humility and authority without explicit definition.  
 v17: Jesus reframes righteousness as need rather than status.  
 v27: The Sabbath is interpreted teleologically—its purpose governs its use.  
 
-##Vocabulary
+## Vocabulary
 
-v5: ἀφίημι (aphiēmi) — “to forgive,” release from obligation.  
+v05: ἀφίημι (aphiēmi) — “to forgive,” release from obligation.  
 
 v10: ἐξουσία (exousia)
 “Authority, delegated or inherent power.”

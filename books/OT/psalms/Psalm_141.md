@@ -52,7 +52,7 @@ while I pass by safely.
 v05–07: The Hebrew is difficult, especially the transition from welcomed righteous rebuke to the fate of hostile judges. The translation follows the Masoretic wording and sequence rather than rearranging the lines to create a smoother argument.
 v06: “Thrown down beside the rock” is a stark and uncertain image. Some translations reconstruct a different sense, but the received consonantal text is retained here.
 
-##Vocabulary
+## Vocabulary
 
 v02: מִנְחָה (minchah)
 “Offering,” often a grain or tribute offering; here the evening offering provides the liturgical image for lifted hands.

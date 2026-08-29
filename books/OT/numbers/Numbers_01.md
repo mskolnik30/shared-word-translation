@@ -101,7 +101,7 @@ v03: The census counts males of military age rather than the total population. T
 v50: “tabernacle of the testimony” — The tabernacle is named in relation to the testimony kept within it, emphasizing the covenantal center of the camp.
 v51: “outsider” — The Hebrew *zar* refers here to someone unauthorized to approach the sacred service, not necessarily a person of foreign ethnicity.
 
-##Vocabulary
+## Vocabulary
 
 v02: מִשְׁפָּחָה (mishpachah)
 “Clan.” A kinship group within a tribe.

@@ -83,7 +83,7 @@ v19: “avenger of blood” is a kinship role responsible for responding to bloo
 v25: The manslayer’s return is tied to the death of the high priest without an explanation of why that death changes the legal status. TSW retains the connection without supplying a theory.
 v33–34: Bloodshed is not only a crime against a person; it pollutes the land where the LORD dwells among Israel.
 
-##Vocabulary
+## Vocabulary
 
 v02: מִגְרָשׁ (migrash)
 “Pastureland.” Open land surrounding a Levitical city for animals and possessions.

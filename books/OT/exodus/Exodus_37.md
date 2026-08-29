@@ -89,7 +89,7 @@ v07–09: The cherubim are formed from the same hammered gold as the cover, visu
 v17–24: The lampstand again combines floral imagery with hammered gold, producing a crafted form that resembles living growth.
 v29: Bezalel’s work includes not only metal and wood but also the compounded anointing oil and incense, showing craftsmanship across multiple materials.
 
-##Vocabulary
+## Vocabulary
 
 v01: אֲרוֹן (aron)
 “Ark” or sacred chest.

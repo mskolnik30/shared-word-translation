@@ -69,13 +69,13 @@ v17: but when he arrived in Rome he searched for me earnestly and found me—
 v18: may the Lord grant him to find mercy from the Lord on that day—and you well know all the service he rendered at Ephesus.
 </p>
 ## Notes
-v1: Apostleship is linked to “the promise of life,” not merely authority.  
-v3: Conscience connects present service with ancestral continuity.  
-v5: Faith is described as transmitted across generations yet personally held.  
-v6: The gift requires active cultivation (“fan into flame”).  
-v7: Fear is contrasted with power, love, and self-control—defining the Spirit’s effect.  
-v8–9: Suffering is aligned with calling and grace, not opposed to them.  
-v9: Grace is located before time, emphasizing divine initiative.  
+v01: Apostleship is linked to “the promise of life,” not merely authority.  
+v03: Conscience connects present service with ancestral continuity.  
+v05: Faith is described as transmitted across generations yet personally held.  
+v06: The gift requires active cultivation (“fan into flame”).  
+v07: Fear is contrasted with power, love, and self-control—defining the Spirit’s effect.  
+v08–09: Suffering is aligned with calling and grace, not opposed to them.  
+v09: Grace is located before time, emphasizing divine initiative.  
 v10: The appearing of Christ reveals what was already purposed.  
 v10: “Abolished death” is stated without explanation, but paired with revelation of life.  
 v12: Confidence rests in relationship (“I know the one”) rather than doctrine alone.  
@@ -84,31 +84,31 @@ v14: The Spirit enables preservation, not merely initial reception.
 v15: Abandonment is acknowledged without elaboration.  
 v16–18: Onesiphorus exemplifies loyalty and courage in contrast to others.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐπαγγελία (epangelia)  
+v01: ἐπαγγελία (epangelia)  
 
-v1: “Promise.” Declared commitment.  
+v01: “Promise.” Declared commitment.  
 
-v3: συνείδησις (syneidēsis)  
+v03: συνείδησις (syneidēsis)  
 
-v3: “Conscience.” Inner moral awareness.  
+v03: “Conscience.” Inner moral awareness.  
 
-v6: ἀναζωπυρέω (anazōpyreō)  
+v06: ἀναζωπυρέω (anazōpyreō)  
 
-v6: “To fan into flame.” Rekindle.  
+v06: “To fan into flame.” Rekindle.  
 
-v7: δειλία (deilia)  
+v07: δειλία (deilia)  
 
-v7: “Fear.” Timidity or cowardice.  
+v07: “Fear.” Timidity or cowardice.  
 
-v7: σωφρονισμός (sōphronismos)  
+v07: σωφρονισμός (sōphronismos)  
 
-v7: “Self-control.” Sound-mindedness.  
+v07: “Self-control.” Sound-mindedness.  
 
-v9: πρόθεσις (prothesis)  
+v09: πρόθεσις (prothesis)  
 
-v9: “Purpose.” Intentional plan.  
+v09: “Purpose.” Intentional plan.  
 
 v10: καταργέω (katargeō)  
 

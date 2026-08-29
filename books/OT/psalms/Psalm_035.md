@@ -101,20 +101,20 @@ v28: Then my tongue will speak of your righteousness,
 of your praise all day long.
 </p>
 ## Notes
-v3: The Hebrew can mean “bar” or “close off” the way of the pursuers. The image continues the prayer for the LORD to take up weapons and intervene directly.  
-v7–8: The psalm repeats “without cause,” emphasizing the gratuitous character of the attack. The hidden pit and net become the means by which the attackers themselves fall.  
+v03: The Hebrew can mean “bar” or “close off” the way of the pursuers. The image continues the prayer for the LORD to take up weapons and intervene directly.  
+v07–08: The psalm repeats “without cause,” emphasizing the gratuitous character of the attack. The hidden pit and net become the means by which the attackers themselves fall.  
 v13: “My prayer kept returning to my bosom” is difficult. It may portray prayer repeatedly directed from the psalmist’s inmost self, or prayer returning unanswered to the one who prayed.  
 v17: “My only one” is a deeply personal expression for the psalmist’s life, pictured as vulnerable before lions. It need not refer to a literal child.  
 v27: The closing reversal is not merely private vindication. Those who desire the psalmist’s justice are invited to proclaim the LORD’s delight in the servant’s *shalom*—their well-being and wholeness.  
 v03: The Hebrew can mean “bar” or “close off” the way of the pursuers.
 
-##Vocabulary
+## Vocabulary
 
-v1: **רִיב — *riv***: “contend” frames the psalm as a legal and personal conflict. The psalmist asks the LORD not only to judge but to take up the case against hostile opponents.  
+v01: **רִיב — *riv***: “contend” frames the psalm as a legal and personal conflict. The psalmist asks the LORD not only to judge but to take up the case against hostile opponents.  
 
-v3: **יְשׁוּעָה — *yeshu‘ah***: “salvation” is concrete deliverance from danger. Here the LORD speaks it directly to the psalmist’s life: “I am your salvation.”  
+v03: **יְשׁוּעָה — *yeshu‘ah***: “salvation” is concrete deliverance from danger. Here the LORD speaks it directly to the psalmist’s life: “I am your salvation.”  
 
-v7: **חִנָּם — *chinnam***: “without cause” occurs twice in this verse, underscoring that the violence and hidden trap have no just basis.  
+v07: **חִנָּם — *chinnam***: “without cause” occurs twice in this verse, underscoring that the violence and hidden trap have no just basis.  
 
 v10: **עָנִי / אֶבְיוֹן — *‘ani / ’evyon***: “poor” and “needy” describe those vulnerable before greater power. The pair identifies the psalmist with people whom the LORD rescues from exploitation.  
 

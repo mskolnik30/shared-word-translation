@@ -79,12 +79,12 @@ v30: since God is one, who will set right the circumcised from trust and the unc
 v31: Do we then overthrow the law through trust? By no means! On the contrary, we uphold the law.
 </p>
 ## Notes
-v2: “entrusted with the oracles of God”
+v02: “entrusted with the oracles of God”
 The verb emphasizes responsibility rather than privilege. Israel’s role is custodial, not self-justifying.
-v3: “the faithfulness of God”
+v03: “the faithfulness of God”
 The contrast between human unfaithfulness and God’s faithfulness establishes the chapter’s controlling theme and anticipates the later reference to the faithfulness of Jesus Christ.
-v4: The citation from the Psalms is forensic in tone: God is shown to be true and vindicated in judgment even as human faithlessness is exposed.
-v9: “under the power of sin”
+v04: The citation from the Psalms is forensic in tone: God is shown to be true and vindicated in judgment even as human faithlessness is exposed.
+v09: “under the power of sin”
 Sin is depicted as a ruling force rather than a series of individual acts, preparing for later language of dominion and liberation.
 v19–20: “every mouth may be stopped”
 The law’s function is diagnostic, not curative. Silence before God signals accountability rather than despair.
@@ -102,12 +102,12 @@ v27: “the law of trust”
 v31: “we uphold the law”
 Paul refuses antinomian conclusions. The law is honored when its true purpose is fulfilled.
 
-##Vocabulary
+## Vocabulary
 
-v3: πίστις (pistis)
+v03: πίστις (pistis)
 “Faithfulness; trust.” Here used of God. The term denotes reliability and covenantal faithfulness rather than belief or opinion.
 
-v9: ἁμαρτία (hamartia)
+v09: ἁμαρτία (hamartia)
 “Sin.” Portrayed as a ruling power rather than isolated moral failures, shaping Paul’s argument about universal captivity.
 
 v20: δικαιόω (dikaioō)
@@ -127,9 +127,6 @@ v27: καύχησις (kauchēsis)
 
 v31: νόμος (nomos)
 “Law.” Functions here as covenantal framework rather than merely legal code; upheld rather than nullified by trust.
-
-v03: πίστις (pistis)
-“Faithfulness; trust.” Here used of God. The term denotes reliability and covenantal faithfulness rather than belief or opinion.
 
 v09: ἁμαρτία (hamartia)
 “Sin.” Here the singular term functions as a power under which humanity stands.

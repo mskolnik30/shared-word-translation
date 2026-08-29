@@ -182,7 +182,7 @@ v33: The phrase “like Adam” may mean “like a human” or refer specificall
 v35: “my mark” — Hebrew *tav* can mean a mark or signature. Job effectively signs his legal deposition and demands an answering indictment.
 v38–40: Even land and labor relations are included in Job’s oath. Exploiting landholders or workers would cause the earth itself to testify against him.
 
-##Vocabulary
+## Vocabulary
 
 v01: בְּרִית (berit)
 “Covenant.” Job describes a binding commitment made with his eyes.

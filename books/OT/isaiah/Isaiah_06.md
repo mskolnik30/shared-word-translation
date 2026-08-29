@@ -29,33 +29,25 @@ v12: And the LORD has removed men far away, and the forsaken places are many in 
 v13: If there is a tenth left in it, that also will in turn be consumed: as a terebinth, and as an oak, whose stock remains when they are felled; so the holy seed is its stock."
 </p>
 ## Notes
-v5: “unclean lips” — Isaiah’s response to the vision is expressed through speech and communal belonging: his own lips and the lips of the people are named together.  
-v5: “Woe” — Hebrew *hoy* is a cry of lament, warning, or judgment whose precise force is governed by its prophetic context.  
-v3: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
-v3: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
+v05: “unclean lips” — Isaiah’s response to the vision is expressed through speech and communal belonging: his own lips and the lips of the people are named together.  
+v05: “Woe” — Hebrew *hoy* is a cry of lament, warning, or judgment whose precise force is governed by its prophetic context.  
+v03: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v03: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
-##Vocabulary
+## Vocabulary
 
-v3: קָדוֹשׁ (qadosh)  
+v03: קָדוֹשׁ (qadosh)  
 “Holy.” Set apart in the overwhelming otherness and purity of the LORD.  
 
-v3: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
+v03: יְהוָה צְבָאוֹת (YHWH tseva'ot)  
 “LORD of Hosts.” A divine title emphasizing sovereign command.  
 
-v3: כָּבוֹד (kavod)  
+v03: כָּבוֹד (kavod)  
 “Glory.” Weight, honor, or manifest splendor.  
 
-v2: שָׂרָף (saraf)  
+v02: שָׂרָף (saraf)  
 “Seraph.” Literally a burning one; the heavenly beings in Isaiah’s vision.  
-
-v03: קָדוֹשׁ (qadosh)
-“Holy.” Set apart in the overwhelming otherness and purity of the LORD.
 
 v03: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
 
-v03: כָּבוֹד (kavod)
-“Glory.” Weight, honor, or manifest splendor.
-
-v02: שָׂרָף (saraf)
-“Seraph.” Literally a burning one; the heavenly beings in Isaiah’s vision.

@@ -63,7 +63,7 @@ v14: The required inquiry, search, and careful investigation places evidentiary 
 v15–16: The *herem* command against an apostate city is extremely severe. It belongs to Deuteronomy’s particular covenantal polity and is not transferable as a general principle of religious violence.
 v17: Israel is forbidden to profit from the condemned city. Nothing placed under the ban may become private spoil.
 
-##Vocabulary
+## Vocabulary
 
 v01: נָבִיא (navi)
 “Prophet.” One who claims to speak a divine word.

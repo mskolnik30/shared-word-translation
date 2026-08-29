@@ -45,57 +45,57 @@ v13: She who is in Babylon, who is likewise chosen, sends you greetings, and so 
 v14: Greet one another with the kiss of love. Peace to all of you who are in Christ.
 </p>
 ## Notes
-v1: Authority is shared (“fellow elder”), not elevated.  
-v1: Witness and participation are held together.  
-v2–3: Leadership is defined negatively and positively.  
-v4: Reward is future and unfading.  
-v5: Humility is communal, not individual alone.  
-v6–7: Exaltation follows humility; timing is not controlled by the individual.  
-v8: The adversary is active; vigilance is required.  
-v9: Suffering is shared globally, not isolated.  
+v01: Authority is shared (“fellow elder”), not elevated.  
+v01: Witness and participation are held together.  
+v02–03: Leadership is defined negatively and positively.  
+v04: Reward is future and unfading.  
+v05: Humility is communal, not individual alone.  
+v06–07: Exaltation follows humility; timing is not controlled by the individual.  
+v08: The adversary is active; vigilance is required.  
+v09: Suffering is shared globally, not isolated.  
 v10: Restoration is attributed directly to God.  
 v11: Doxology concludes instruction.  
 v12: Writing is both exhortation and affirmation.  
 v13: “Babylon” is used without explanation.  
 v14: Peace is relational and located “in Christ.”  
 
-##Vocabulary
+## Vocabulary
 
-v1: πρεσβύτερος (presbyteros)  
+v01: πρεσβύτερος (presbyteros)  
 
-v1: “Elder.” One with recognized leadership.  
+v01: “Elder.” One with recognized leadership.  
 
-v2: ποιμαίνω (poimainō)  
+v02: ποιμαίνω (poimainō)  
 
-v2: “To shepherd.” To guide and care.  
+v02: “To shepherd.” To guide and care.  
 
-v2: ἐπισκοπέω (episkopeō)  
+v02: ἐπισκοπέω (episkopeō)  
 
-v2: “To oversee.” To watch over.  
+v02: “To oversee.” To watch over.  
 
-v3: κατακυριεύω (katakyrieuō)  
+v03: κατακυριεύω (katakyrieuō)  
 
-v3: “To domineer.” To rule over harshly.  
+v03: “To domineer.” To rule over harshly.  
 
-v4: στέφανος (stephanos)  
+v04: στέφανος (stephanos)  
 
-v4: “Crown.” Symbol of reward.  
+v04: “Crown.” Symbol of reward.  
 
-v5: ταπεινοφροσύνη (tapeinophrosynē)  
+v05: ταπεινοφροσύνη (tapeinophrosynē)  
 
-v5: “Humility.” Lowliness of mind.  
+v05: “Humility.” Lowliness of mind.  
 
-v7: μέριμνα (merimna)  
+v07: μέριμνα (merimna)  
 
-v7: “Anxiety.” Concern or care.  
+v07: “Anxiety.” Concern or care.  
 
-v8: διάβολος (diabolos)  
+v08: διάβολος (diabolos)  
 
-v8: “Devil.” Accuser or adversary.  
+v08: “Devil.” Accuser or adversary.  
 
-v9: στερεός (stereos)  
+v09: στερεός (stereos)  
 
-v9: “Firm.” Solid or steadfast.  
+v09: “Firm.” Solid or steadfast.  
 
 v10: καταρτίζω (katartizō)  
 

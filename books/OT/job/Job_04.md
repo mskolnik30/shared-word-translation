@@ -97,7 +97,7 @@ v12–16: Eliphaz grounds part of his argument in a mysterious nocturnal revelat
 v17: The Hebrew can ask whether a mortal is righteous “before” God or “more righteous than” God. TSW uses the less comparative wording while the larger speech stresses human frailty before the Creator.
 v18: “messengers” renders Hebrew *malakhim*, which can mean angels. The poetic claim portrays even heavenly servants as insufficiently reliable before God.
 
-##Vocabulary
+## Vocabulary
 
 v06: תִּקְוָה (tiqvah)
 “Hope” or “expectation.” Eliphaz identifies Job’s integrity as the supposed basis of hope.

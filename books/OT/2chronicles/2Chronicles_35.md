@@ -90,7 +90,7 @@ v18: Chronicles compares Josiah’s Passover with the days of Samuel, emphasizin
 v21–22: The surprising claim that Neco’s warning came “from the mouth of God” means Josiah’s failure is refusal to hear divine speech through a foreign king.
 v25: The “Laments” mentioned here are not necessarily the canonical book of Lamentations; the cited collection is otherwise unknown.
 
-##Vocabulary
+## Vocabulary
 
 v01: פֶּסַח (pesach)
 “Passover.”

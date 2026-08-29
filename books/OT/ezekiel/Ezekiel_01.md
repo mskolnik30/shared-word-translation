@@ -46,21 +46,21 @@ v27: And upward from what had the appearance of his waist I saw, as it were, gle
 v28: Like the appearance of the bow that is in the cloud on the day of rain, so was the appearance of the brightness all around. Such was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell on my face, and I heard the voice of one speaking.
 </p>
 ## Notes
-v1: - **v01**: The mention of "the thirtieth year" is debated among scholars, with some interpreting it as Ezekiel's age while others see it as a reference to a Jubilee cycle. The text remains ambiguous, highlighting a specific timing of divine vision.  
-v3: - **v03**: "The hand of the Lord was upon him" suggests a significant divine interaction, a moment of commissioning and empowerment for Ezekiel's prophetic task.  
-v4–28: - **v04-28**: This section describes a theophany — an appearance of God, marked by awe-inspiring imagery. The visions reveal the glory of God in transcendent, symbolic terms, packed with rich visual and auditory details.  
+v01: - **v01**: The mention of "the thirtieth year" is debated among scholars, with some interpreting it as Ezekiel's age while others see it as a reference to a Jubilee cycle. The text remains ambiguous, highlighting a specific timing of divine vision.  
+v03: - **v03**: "The hand of the Lord was upon him" suggests a significant divine interaction, a moment of commissioning and empowerment for Ezekiel's prophetic task.  
+v04–28: - **v04-28**: This section describes a theophany — an appearance of God, marked by awe-inspiring imagery. The visions reveal the glory of God in transcendent, symbolic terms, packed with rich visual and auditory details.  
 v24–25: - **v24-28**: The repeated mention of sound emphasizes the powerful presence of the divine voice accompanying the visual phenomena, symbolizing authority and revelation.  
 
-##Vocabulary
+## Vocabulary
 
-v4: - **v04 — רוּחַ (ruach)**: Translated as "wind," this term also denotes spirit or breath, reinforcing the powerful, dynamic nature of God's presence and actions. The usage here conveys an enveloping, divine force arriving from the north.  
+v04: - **v04 — רוּחַ (ruach)**: Translated as "wind," this term also denotes spirit or breath, reinforcing the powerful, dynamic nature of God's presence and actions. The usage here conveys an enveloping, divine force arriving from the north.  
 
 v28: - **v28 — כָּבוֹד (kabod)**: "Glory" often refers to the weighty, radiant presence of God. This verse portrays God's glory in a luminous, multifaceted manner, encapsulating both visual magnificence and divine majesty.  
 
 v28: כָּבוֹד (kabod)
 “Glory" often refers to the weighty, radiant presence of God. This verse describes God's glory in a luminous, multifaceted manner, encapsulating both visual magnificence and divine majesty.
 
-v5: - **v05 — חַיָּה (chayah)**: Translated as "living creature," it indicates celestial beings associated with divine presence, combining various earthly and mythical forms to convey vitality and holiness.  
+v05: - **v05 — חַיָּה (chayah)**: Translated as "living creature," it indicates celestial beings associated with divine presence, combining various earthly and mythical forms to convey vitality and holiness.  
 
 v04: רוּחַ (ruach)
 “Wind; spirit; breath.” Here the immediate image is a powerful wind coming from the north.

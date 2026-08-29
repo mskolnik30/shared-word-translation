@@ -107,7 +107,7 @@ v14–18: The application of blood and oil to ear, hand, and foot closely echoes
 v34: The LORD is said to “put” the diseased condition in a house. The text presents the condition within divine sovereignty without explaining why a particular house is affected.
 v45: A persistently affected house is dismantled entirely, showing that ritual contamination can attach to built space as well as persons and garments.
 
-##Vocabulary
+## Vocabulary
 
 v04: אֵזוֹב (ezov)
 “Hyssop.” A plant used in ritual sprinkling and cleansing.

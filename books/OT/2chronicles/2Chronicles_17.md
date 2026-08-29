@@ -66,7 +66,7 @@ v06: “His heart was courageous” describes inward boldness in pursuing the LO
 v09: The royal teaching mission centers on the written “book of the instruction of the LORD.”
 v10: Military security is attributed to the “fear of the LORD” falling upon surrounding kingdoms.
 
-##Vocabulary
+## Vocabulary
 
 v03: בַּעַל (Baal)
 “Baal.” A Canaanite deity.

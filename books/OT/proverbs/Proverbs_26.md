@@ -164,8 +164,8 @@ and a flattering mouth
 brings ruin.
 </p>
 ## Notes
-v4–5: The paired sayings intentionally give opposite instructions. Wisdom requires discerning whether answering would reproduce folly or expose it.  
-v8: The Hebrew image is unusual; a stone fixed improperly in a sling defeats the instrument’s purpose. Honor given to a fool is similarly misplaced.  
+v04–05: The paired sayings intentionally give opposite instructions. Wisdom requires discerning whether answering would reproduce folly or expose it.  
+v08: The Hebrew image is unusual; a stone fixed improperly in a sling defeats the instrument’s purpose. Honor given to a fool is similarly misplaced.  
 v10: The Hebrew is difficult and has produced several translations. The central image is indiscriminate damage caused by entrusting responsibility without discernment.  
 v11: Repeated folly is depicted in deliberately repulsive imagery.  
 v12: Self-assured pseudo-wisdom is presented as even more resistant to correction than ordinary folly.  
@@ -173,15 +173,15 @@ v17: Meddling in a conflict that does not belong to you is compared with grabbin
 v18–19: Harm does not disappear because the person causing it later calls it humor.  
 v23: Attractive speech can function like a thin layer of precious metal hiding a cheap or fragile interior.  
 
-##Vocabulary
+## Vocabulary
 
-v1: כְּסִיל (kesil)  
+v01: כְּסִיל (kesil)  
 “Fool.” One characterized by resistance to wisdom.  
 
-v2: קְלָלָה (qelalah)  
+v02: קְלָלָה (qelalah)  
 “Curse.” Spoken harm or condemnation.  
 
-v7: מָשָׁל (mashal)  
+v07: מָשָׁל (mashal)  
 “Proverb.” Wisdom speech that becomes ineffective in the mouth of one unwilling to live it.  
 
 v13: עָצֵל (atsel)
@@ -199,11 +199,3 @@ v24: נָכַר (nakhar)
 v28: חָלַק (chalaq)  
 “To flatter” or “make smooth.” Smooth speech used manipulatively.  
 
-v01: כְּסִיל (kesil)
-“Fool.” One characterized by resistance to wisdom.
-
-v02: קְלָלָה (qelalah)
-“Curse.” Spoken harm or condemnation.
-
-v07: מָשָׁל (mashal)
-“Proverb.” Wisdom speech that becomes ineffective in the mouth of one unwilling to live it.

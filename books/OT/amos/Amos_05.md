@@ -213,7 +213,7 @@ v25: The rhetorical question about wilderness sacrifices has several interpretat
 v26: “Sikkuth” and “Kiyyun” are difficult names or titles, probably associated with astral deities or cult objects. Ancient versions differ, and later citation traditions render the names differently. TSW transliterates the Masoretic forms.
 v27: Exile “beyond Damascus” moves the northern kingdom farther than its familiar Syrian horizon, pointing toward Assyrian deportation.
 
-##Vocabulary
+## Vocabulary
 
 v01: קִינָה (qinah)
 “Lament.” A funeral-like song of mourning.

@@ -22,33 +22,25 @@ v06: Cry aloud and shout, you inhabitant of Zion;
 for the Holy One of Israel is great in the midst of you!"
 </p>
 ## Notes
-v3: “draw water with joy” — Salvation is pictured as an inexhaustible source from which the community draws life.  
-v6: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
-v6: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
-v2: “salvation” — Hebrew *yeshuah* and related roots describe deliverance, rescue, and the saving action of the LORD.  
+v03: “draw water with joy” — Salvation is pictured as an inexhaustible source from which the community draws life.  
+v06: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v06: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v02: “salvation” — Hebrew *yeshuah* and related roots describe deliverance, rescue, and the saving action of the LORD.  
 
-##Vocabulary
+## Vocabulary
 
-v3: מַעְיְנֵי הַיְשׁוּעָה (ma'ayene hayeshuah)  
+v03: מַעְיְנֵי הַיְשׁוּעָה (ma'ayene hayeshuah)  
 “Wells of salvation.” Springs from which the people draw water with joy.  
 
-v6: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
+v06: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)  
 “Holy One of Israel.” A recurring Isaianic designation for the LORD.  
 
-v6: צִיּוֹן (tsiyyon)  
+v06: צִיּוֹן (tsiyyon)  
 “Zion.” Jerusalem and, by extension, the city’s people and theological identity.  
 
-v2: יְשׁוּעָה (yeshuah)  
+v02: יְשׁוּעָה (yeshuah)  
 “Salvation” or “deliverance.” Saving help or rescue.  
-
-v03: מַעְיְנֵי הַיְשׁוּעָה (ma'ayene hayeshuah)
-“Wells of salvation.” Springs from which the people draw water with joy.
-
-v06: קְדוֹשׁ יִשְׂרָאֵל (qedosh yisra'el)
-“Holy One of Israel.” A recurring Isaianic designation for the LORD.
 
 v06: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
 
-v02: יְשׁוּעָה (yeshuah)
-“Salvation” or “deliverance.” Saving help or rescue.

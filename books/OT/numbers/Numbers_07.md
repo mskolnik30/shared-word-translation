@@ -183,7 +183,7 @@ v13: “sanctuary shekel” — The weights of precious metal are measured accor
 v84–88: The summary gathers the twelve identical offerings into a single total, reinforcing both tribal equality and the completeness of the dedication.
 v89: The chapter moves from public offerings to the voice heard by Moses above the ark, returning the material dedication to its purpose: encounter with the LORD.
 
-##Vocabulary
+## Vocabulary
 
 v03: עֲגָלָה (agalah)
 “Wagon.” A wheeled vehicle used here for transporting sanctuary materials.

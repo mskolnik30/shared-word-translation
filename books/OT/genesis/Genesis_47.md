@@ -73,9 +73,9 @@ v30: But let me lie with my fathers. Carry me out of Egypt and bury me in their 
 v31: And he said, “Swear to me.” So he swore to him. Then Israel bowed himself upon the head of the bed.
 </p>
 ## Notes
-v1–6: Pharaoh grants Jacob’s family favorable settlement in Goshen, providing security during the famine.  
-v7–10: Jacob blesses Pharaoh both upon entering and departing. The greater covenant bearer blesses the ruler of Egypt.  
-v9: Jacob describes his life as one of sojourning, echoing the experience of Abraham and Isaac.  
+v01–06: Pharaoh grants Jacob’s family favorable settlement in Goshen, providing security during the famine.  
+v07–10: Jacob blesses Pharaoh both upon entering and departing. The greater covenant bearer blesses the ruler of Egypt.  
+v09: Jacob describes his life as one of sojourning, echoing the experience of Abraham and Isaac.  
 v11–12: Joseph uses his position to preserve and provide for his family.  
 v13–26: The famine reshapes Egypt’s economy and land ownership through Joseph’s administration.  
 v20: The transfer of land to Pharaoh centralizes royal authority in an unprecedented way.  
@@ -86,19 +86,19 @@ v28: Jacob spends seventeen years in Egypt, the same number of years Joseph had 
 v29–31: Jacob’s concern is not merely burial but identification with the covenant land promised by God.  
 v29: The oath ceremony recalls similar arrangements made by Abraham regarding covenant obligations.  
 
-##Vocabulary
+## Vocabulary
 
-v4: גּוּר (gûr)  
+v04: גּוּר (gûr)  
 “To sojourn.” To reside temporarily as a foreigner in a land.  
 
-v6: מֵיטַב הָאָרֶץ (mêṭaḇ hāʾāreṣ)  
+v06: מֵיטַב הָאָרֶץ (mêṭaḇ hāʾāreṣ)  
 “The best of the land.” The choicest and most productive region.  
 
-v7: בָּרַךְ (bāraḵ)  
+v07: בָּרַךְ (bāraḵ)  
 
-v7: “To bless.” To invoke divine favor and well-being upon another.  
+v07: “To bless.” To invoke divine favor and well-being upon another.  
 
-v9: מָגוּר (māḡûr)  
+v09: מָגוּר (māḡûr)  
 “Sojourning.” Temporary residence without permanent possession.  
 
 v14: כֶּסֶף (keseph)  
@@ -125,12 +125,6 @@ v29: חֶסֶד וֶאֱמֶת (ḥeseḏ weʾĕmeṯ)
 
 v30: קֶבֶר (qeḇer)  
 “Grave” or “burial place.” A family burial site associated with inheritance and identity.  
-
-v04: גּוּר (gûr)
-“To sojourn.” To reside temporarily as a foreigner in a land.
-
-v06: מֵיטַב הָאָרֶץ (mêṭaḇ hāʾāreṣ)
-“The best of the land.” The choicest and most productive region.
 
 v07: בָּרַךְ (bāraḵ)
 “To bless.” To invoke divine favor and well-being upon another.

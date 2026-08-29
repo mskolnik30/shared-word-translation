@@ -126,7 +126,7 @@ v11: Prophets and Nazirites represent distinct forms of divinely raised vocation
 v12: Israel’s opposition to revelation is active: Nazirites are pressured to violate their vow, and prophets are ordered not to speak.
 v13: The Hebrew verb and image are difficult. It may mean the LORD presses Israel down, causes the ground beneath them to groan, or is himself pressed by them as a loaded cart. TSW follows the judgment sense while preserving the cart imagery.
 
-##Vocabulary
+## Vocabulary
 
 v01: שִׂיד (sid)
 “Lime.” The result of burning bones intensely.

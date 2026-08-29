@@ -221,7 +221,7 @@ v58: Covenant obedience is connected to fear of “this glorious and fearsome na
 v63: The verse’s language of the LORD causing Israel to perish is severe and balanced against earlier divine joy in doing good. Deuteronomy uses relational language without softening covenant judgment.
 v68: Return to Egypt reverses the exodus. The final humiliation is so complete that even attempted self-sale into slavery finds no buyer.
 
-##Vocabulary
+## Vocabulary
 
 v02: נָשַׂג (nasag)
 “To overtake.” Blessings or curses catch up with the covenant community.

@@ -110,42 +110,42 @@ Their king passes on before them,
 the LORD at their head.
 </p>
 ## Notes
-v1–2: The chapter opens with a condemnation of deliberate injustice. The wealthy plan oppression before carrying it out.  
-v2: Land seizure violates Israel's inheritance system and threatens the covenant structure of society.  
-v3: God responds to their schemes with a judgment that mirrors their own plotting.  
-v4–5: Those who stole inheritances will themselves lose their place in the land.  
-v6: The people reject prophetic warnings and prefer messages of security.  
-v7: God's words bring blessing to those who walk uprightly; the problem lies not with the message but with the hearers.  
-v8–9: The oppression described affects vulnerable people, including women and children.  
+v01–02: The chapter opens with a condemnation of deliberate injustice. The wealthy plan oppression before carrying it out.  
+v02: Land seizure violates Israel's inheritance system and threatens the covenant structure of society.  
+v03: God responds to their schemes with a judgment that mirrors their own plotting.  
+v04–05: Those who stole inheritances will themselves lose their place in the land.  
+v06: The people reject prophetic warnings and prefer messages of security.  
+v07: God's words bring blessing to those who walk uprightly; the problem lies not with the message but with the hearers.  
+v08–09: The oppression described affects vulnerable people, including women and children.  
 v10: The land itself can no longer function as a place of rest because it has been defiled by injustice.  
 v11: False prophets gain acceptance by promising comfort and prosperity rather than truth.  
 v12–13: The chapter closes unexpectedly with hope. God promises to gather a remnant after judgment.  
 v13: The LORD himself leads his people like a king and shepherd, bringing them out into freedom.  
 
-##Vocabulary
+## Vocabulary
 
-v1: אָוֶן (ʾāwen)  
+v01: אָוֶן (ʾāwen)  
 “Wickedness” or “evil.” Harmful and destructive wrongdoing.  
 
-v2: חָמַד (ḥāmaḏ)  
+v02: חָמַד (ḥāmaḏ)  
 “To covet.” To desire what belongs to another.  
 
-v2: נַחֲלָה (naḥălâ)  
+v02: נַחֲלָה (naḥălâ)  
 “Inheritance.” Family land received and preserved through generations.  
 
-v3: רָעָה (rāʿâ)  
+v03: רָעָה (rāʿâ)  
 “Disaster” or “calamity.” Divine judgment brought upon wrongdoing.  
 
-v4: מָשָׁל (māšāl)  
+v04: מָשָׁל (māšāl)  
 “Taunt” or “proverb.” A saying used in mockery or warning.  
 
-v5: גּוֹרָל (gôrāl)  
+v05: גּוֹרָל (gôrāl)  
 “Lot.” A means of assigning land or determining inheritance.  
 
-v7: רוּחַ יְהוָה (rûaḥ YHWH)  
+v07: רוּחַ יְהוָה (rûaḥ YHWH)  
 “Spirit of the LORD.” God's active presence and power.  
 
-v9: גָּרַשׁ (gāraš)  
+v09: גָּרַשׁ (gāraš)  
 “To drive out.” To expel or dispossess from a place.  
 
 v10: מְנוּחָה (mĕnûḥâ)
@@ -160,11 +160,3 @@ v12: שְׁאֵרִית (šĕʾērîṯ)
 v13: פָּרַץ (pāraṣ)  
 “To break through.” To burst forth or open a way through an obstacle.  
 
-v01: אָוֶן (ʾāwen)
-“Wickedness” or “evil.” Harmful and destructive wrongdoing.
-
-v02: חָמַד (ḥāmaḏ)
-“To covet.” To desire what belongs to another.
-
-v07: רוּחַ יְהוָה (rûaḥ YHWH)
-“Spirit of the LORD.” God's active presence and power.

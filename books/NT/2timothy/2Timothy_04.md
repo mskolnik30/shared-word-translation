@@ -85,13 +85,13 @@ v21: Make every effort to come before winter. Eubulus sends greetings to you, an
 v22: The Lord be with your spirit. Grace be with you.
 </p>
 ## Notes
-v1–2: The charge is framed eschatologically. Preaching is grounded in future judgment and present responsibility.  
-v2: “In season and out of season” removes dependence on favorable conditions.  
-v3–4: Rejection of truth is linked to desire. Teaching is selected to match preference.  
-v5: Timothy’s role is comprehensive—sobriety, endurance, proclamation, completion.  
-v6: “Poured out” presents Paul’s life as offering, not loss.  
-v7: The metaphors (fight, race, faith) summarize a completed vocation.  
-v8: Reward is future and communal, not exclusive.  
+v01–02: The charge is framed eschatologically. Preaching is grounded in future judgment and present responsibility.  
+v02: “In season and out of season” removes dependence on favorable conditions.  
+v03–04: Rejection of truth is linked to desire. Teaching is selected to match preference.  
+v05: Timothy’s role is comprehensive—sobriety, endurance, proclamation, completion.  
+v06: “Poured out” presents Paul’s life as offering, not loss.  
+v07: The metaphors (fight, race, faith) summarize a completed vocation.  
+v08: Reward is future and communal, not exclusive.  
 v10: “Love of the present age” explains desertion.  
 v11: Mark’s usefulness contrasts with earlier tensions (unspoken here).  
 v13: Practical needs (cloak, scrolls) ground the letter in ordinary reality.  
@@ -101,35 +101,35 @@ v17: The purpose of strengthening is proclamation, not preservation.
 v18: Rescue is framed eschatologically (“bring me safely into his heavenly kingdom”).  
 v19–21: The network of relationships remains active despite Paul’s isolation.  
 
-##Vocabulary
+## Vocabulary
 
-v1: ἐπιφάνεια (epiphaneia)  
+v01: ἐπιφάνεια (epiphaneia)  
 
-v1: “Appearing.” Manifestation or revelation.  
+v01: “Appearing.” Manifestation or revelation.  
 
-v2: κηρύσσω (kēryssō)  
+v02: κηρύσσω (kēryssō)  
 
-v2: “To preach.” To proclaim publicly.  
+v02: “To preach.” To proclaim publicly.  
 
-v3: κνηθόμενος (knēthomenos)  
+v03: κνηθόμενος (knēthomenos)  
 
-v3: “Itching.” Desire for stimulation.  
+v03: “Itching.” Desire for stimulation.  
 
-v5: νήφω (nēphō)  
+v05: νήφω (nēphō)  
 
-v5: “To be sober.” To be self-controlled.  
+v05: “To be sober.” To be self-controlled.  
 
-v6: σπένδομαι (spendomai)  
+v06: σπένδομαι (spendomai)  
 
-v6: “To be poured out.” Offered as sacrifice.  
+v06: “To be poured out.” Offered as sacrifice.  
 
-v7: ἀγών (agōn)  
+v07: ἀγών (agōn)  
 
-v7: “Fight.” Contest or struggle.  
+v07: “Fight.” Contest or struggle.  
 
-v8: στέφανος (stephanos)  
+v08: στέφανος (stephanos)  
 
-v8: “Crown.” Reward or honor.  
+v08: “Crown.” Reward or honor.  
 
 v10: αἰών (aiōn)  
 

@@ -150,11 +150,11 @@ for we have sinned against the LORD our God—
 we and our ancestors—from our youth until this day,
 and we have not listened to the voice of the LORD our God.”
 </p>
-##Notes
+## Notes
 
 v19: The Hebrew textual tradition preserves both masculine and feminine forms in this verse.
 
-##Vocabulary
+## Vocabulary
 
 v06: מְשׁוּבָה (meshûvah)
 “faithlessness” or “turning away.” Repeated through the chapter, the term describes Israel’s persistent departure from the LORD; its root is also the root of the command “return.”

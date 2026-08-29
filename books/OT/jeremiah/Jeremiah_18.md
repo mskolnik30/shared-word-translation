@@ -134,9 +134,9 @@ Let them be made to stumble before you;
 in the time of your anger,
 act against them.
 </p>
-##Notes
+## Notes
 
-##Vocabulary
+## Vocabulary
 
 v04: יָצַר (yatsar)
 “to shape, form.” The potter’s work becomes the controlling image for the LORD’s dealings with Israel, and the verb returns in v11 when the LORD is “shaping” disaster.

@@ -49,7 +49,7 @@ v02: “memorial portion” — Only part of the grain offering is burned; the r
 v11: Yeast and honey are excluded from what is turned into smoke on the altar, though v12 permits them in first-produce offerings.
 v13: “salt of the covenant” — Salt is associated with enduring covenantal obligation. The phrase is retained without reducing it to a single symbolic explanation.
 
-##Vocabulary
+## Vocabulary
 
 v01: מִנְחָה (minchah)
 “Grain offering” or “gift.” An offering of grain, oil, and sometimes frankincense.

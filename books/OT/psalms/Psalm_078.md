@@ -421,9 +421,9 @@ v72: With upright heart he shepherded them
 and guided them with skillful hand.
 </p>
 ## Notes
-v1–4: Instruction is framed as communal memory, not abstract teaching.
-v5–8: Generational transmission is essential to covenant faithfulness.
-v9–11: Forgetting is the root failure, not ignorance.
+v01–04: Instruction is framed as communal memory, not abstract teaching.
+v05–08: Generational transmission is essential to covenant faithfulness.
+v09–11: Forgetting is the root failure, not ignorance.
 v12–16: Divine acts establish a pattern of provision and power.
 v17–20: Testing God arises from desire and doubt.
 v21–31: Provision and judgment coexist without resolution.
@@ -434,17 +434,17 @@ v56–64: Idolatry leads to rejection and loss.
 v65–68: Divine choice shifts toward Judah and Zion.
 v70–72: Leadership is redefined through David—shepherding rather than domination.
 
-##Vocabulary
+## Vocabulary
 
-v2: מָשָׁל (mashal)
+v02: מָשָׁל (mashal)
 
 “Parable.” Figurative teaching.
 
-v4: תְּהִלָּה (tehillah)
+v04: תְּהִלָּה (tehillah)
 
 “Praise.” Expression of honor.
 
-v8: סָרַר (sarar)
+v08: סָרַר (sarar)
 
 “To rebel.” To resist authority.
 
@@ -473,11 +473,3 @@ v72: תָּם (tam)
 
 “Blameless.” Whole or upright.
 
-v02: מָשָׁל (mashal)
-“Parable.” Figurative teaching.
-
-v04: תְּהִלָּה (tehillah)
-“Praise.” Expression of honor.
-
-v08: סָרַר (sarar)
-“To rebel.” To resist authority.

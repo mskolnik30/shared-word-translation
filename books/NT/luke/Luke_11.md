@@ -175,10 +175,10 @@ v53: And as he went out from there, the scribes and the Pharisees began to press
 v54: lying in wait for him, to catch something from his mouth.
 </p>
 ## Notes
-v1–4: Prayer is taught as address (“Father”) and dependence, not technique.
-v3: “Daily bread” frames provision as ongoing reliance.
-v4: Forgiveness is reciprocal but not symmetrical; divine forgiveness grounds human practice.
-v8: Persistence functions not as manipulation but as refusal to withdraw.
+v01–04: Prayer is taught as address (“Father”) and dependence, not technique.
+v03: “Daily bread” frames provision as ongoing reliance.
+v04: Forgiveness is reciprocal but not symmetrical; divine forgiveness grounds human practice.
+v08: Persistence functions not as manipulation but as refusal to withdraw.
 v13: The gift climaxes not in provision but in the Holy Spirit.
 v14–16: Exorcism becomes the site of accusation and testing.
 v20: “Finger of God” signals divine agency breaking into present reality.
@@ -196,25 +196,25 @@ v46: Legal burden without participation exposes hypocrisy.
 v52: Knowledge is treated as access that can be withheld or obstructed.
 v53–54: Opposition intensifies into active entrapment.
 
-##Vocabulary
+## Vocabulary
 
-v2: ἁγιάζω (hagiazō)
+v02: ἁγιάζω (hagiazō)
 
 “To make holy.”
 
-v4: ὀφειλέτης (opheiletēs)
+v04: ὀφειλέτης (opheiletēs)
 
 “Debtor.”
 
-v4: πειρασμός (peirasmos)
+v04: πειρασμός (peirasmos)
 
 “Testing.”
 
-v8: ἀναίδεια (anaideia)
+v08: ἀναίδεια (anaideia)
 
 “Persistence, shameless boldness.”
 
-v9: αἰτέω (aiteō)
+v09: αἰτέω (aiteō)
 
 “To ask.”
 
@@ -273,14 +273,3 @@ v54: θηρεύω (thēreuō)
 
 “To trap.”
 
-v02: ἁγιάζω (hagiazō)
-“To make holy.”
-
-v04: ὀφειλέτης (opheiletēs)
-“Debtor.”
-
-v04: πειρασμός (peirasmos)
-“Testing.”
-
-v08: ἀναίδεια (anaideia)
-“Persistence, shameless boldness.”

@@ -83,7 +83,7 @@ v18: Joash preserves Jerusalem by stripping both temple and palace treasuries to
 v20–21: Joash dies by conspiracy from his own servants. 2 Chronicles 24 connects the assassination with the killing of Zechariah son of Jehoiada, but Kings does not supply that explanation.
 v20: “Millo” and “Silla” are topographic terms or place names whose exact identification is uncertain.
 
-##Vocabulary
+## Vocabulary
 
 v03: בָּמָה (bamah)
 “High place.” A local sacrificial site.

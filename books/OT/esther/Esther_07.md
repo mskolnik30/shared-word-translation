@@ -51,7 +51,7 @@ v08: Haman’s fall upon Esther’s couch may be desperate pleading rather than 
 v08: Covering Haman’s face likely marks a condemned person’s transition toward execution.
 v09–10: Haman dies on the same structure prepared for Mordecai, completing one of Esther’s central reversals.
 
-##Vocabulary
+## Vocabulary
 
 v03: נֶפֶשׁ (nefesh)
 “Life” or “self.” Esther asks that her life be given back to her.

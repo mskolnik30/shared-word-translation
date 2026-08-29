@@ -63,7 +63,7 @@ for I am your servant.
 ## Notes
 v09: The final Hebrew verb is textually difficult. The consonants support the sense of covering or hiding; “I have fled for refuge” expresses the idiomatic force of seeking shelter in God without resolving the underlying form more narrowly.
 
-##Vocabulary
+## Vocabulary
 
 v02: צָדַק (tsadaq)
 “Be righteous” or “be in the right.” The verse denies that any living person can stand as righteous before God in judicial comparison.

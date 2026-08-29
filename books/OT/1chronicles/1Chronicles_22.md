@@ -51,26 +51,26 @@ v18: “Has not the LORD your God been with you, and given you rest on every sid
 v19: Now set your heart and your whole being to seek the LORD your God. Rise up and build the sanctuary of the LORD God, to bring the ark of the covenant of the LORD and the holy vessels of God into the house built for the name of the LORD.”
 </p>
 ## Notes
-v1: - **1:** David identifies both the temple site and its altar before construction begins. The altar of burnt offering is presented as integral to the house’s purpose, not as an accessory to it.  
-v2: - **2:** The term translated “resident foreigners” refers to people living among Israel who were not Israelites by ancestry. The verse includes them in the labor force assembled for the temple project.  
-v5: - **5:** “Young and inexperienced” describes Solomon as not yet prepared for the scale of the task. The house is to bring “renown and splendor” among all lands, joining worship of the LORD with Israel’s public witness.  
-v8: - **8:** David’s exclusion from building the house is grounded here in his history of bloodshed and warfare. The passage does not deny David’s place in God’s purposes, but it distinguishes his vocation from Solomon’s.  
-v9: - **9:** Solomon’s name is associated in Hebrew with *shalom*, “peace.” The promised peace and quiet during his reign fit the temple-building work entrusted to him.  
+v01: - **1:** David identifies both the temple site and its altar before construction begins. The altar of burnt offering is presented as integral to the house’s purpose, not as an accessory to it.  
+v02: - **2:** The term translated “resident foreigners” refers to people living among Israel who were not Israelites by ancestry. The verse includes them in the labor force assembled for the temple project.  
+v05: - **5:** “Young and inexperienced” describes Solomon as not yet prepared for the scale of the task. The house is to bring “renown and splendor” among all lands, joining worship of the LORD with Israel’s public witness.  
+v08: - **8:** David’s exclusion from building the house is grounded here in his history of bloodshed and warfare. The passage does not deny David’s place in God’s purposes, but it distinguishes his vocation from Solomon’s.  
+v09: - **9:** Solomon’s name is associated in Hebrew with *shalom*, “peace.” The promised peace and quiet during his reign fit the temple-building work entrusted to him.  
 v12: - **12:** The phrase “give you charge over Israel” can also be understood as “command you concerning Israel.” In either case, wisdom, leadership, and obedience to the LORD’s instruction are held closely together.  
 v14: - **14:** “Through my hardship” may refer to David’s personal affliction or to the strenuous effort by which he accumulated these materials. The extraordinarily large quantities underscore the narrative’s emphasis on lavish preparation.  
 v19: - **19:** To “set your heart and your whole being” is to direct the whole person toward seeking God. The building project is therefore framed as an act of covenant faithfulness, not merely royal construction.  
 
-##Vocabulary
+## Vocabulary
 
-v1: - **1 — עֹלָה (*ʿolah*):** “Burnt offering.” In this verse the altar is specifically identified as the place for the offering that is wholly given over to God.  
+v01: - **1 — עֹלָה (*ʿolah*):** “Burnt offering.” In this verse the altar is specifically identified as the place for the offering that is wholly given over to God.  
 
-v2: - **2 — גֵּר (*ger*):** “Resident foreigner.” These are non-Israelites living within Israel’s land; here they are gathered for work connected with the temple.  
+v02: - **2 — גֵּר (*ger*):** “Resident foreigner.” These are non-Israelites living within Israel’s land; here they are gathered for work connected with the temple.  
 
-v5: - **5 — תִּפְאָרָה (*tiph’arah*):** “Splendor” or “beauty.” The temple is to possess a visible magnificence that makes the LORD’s name known among the nations.  
+v05: - **5 — תִּפְאָרָה (*tiph’arah*):** “Splendor” or “beauty.” The temple is to possess a visible magnificence that makes the LORD’s name known among the nations.  
 
-v8: - **8 — דָּמִים (*damim*):** Literally “bloods,” an intensive plural expressing the abundance of bloodshed attributed to David.  
+v08: - **8 — דָּמִים (*damim*):** Literally “bloods,” an intensive plural expressing the abundance of bloodshed attributed to David.  
 
-v9: - **9 — מְנוּחָה (*menuḥah*):** “Rest.” Solomon is described as a “man of rest,” in contrast to David’s life of warfare.  
+v09: - **9 — מְנוּחָה (*menuḥah*):** “Rest.” Solomon is described as a “man of rest,” in contrast to David’s life of warfare.  
 
 v12: תּוֹרָה (torah)
 “Instruction.” The LORD’s torah is the covenantal teaching that Solomon must keep as he leads Israel.
