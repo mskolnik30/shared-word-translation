@@ -77,7 +77,22 @@ v38: Pilate said to him, “What is truth?” After saying this, he went out aga
 v39: But you have a custom that I release one prisoner for you at Passover. So do you want me to release for you the King of the Judeans?”
 v40: They cried out again, “Not this one, but Barabbas!” Now Barabbas was a bandit.
 </p>
-##Notes
+## Notes
+v01–03: garden / torches / weapons — The light-and-dark imagery begins early: armed power arrives at night to seize the Light of the world.
+v04–06: “Whom are you looking for?… I am he… they fell” — Jesus is not captured by surprise; he steps forward in sovereign self-identification. The falling back signals the weight of his presence and authority.
+v08–09: “let these go… lost not one” — Even in arrest, Jesus shepherds and protects his disciples; his self-giving is purposeful, not chaotic.
+v10–11: Peter’s sword / “drink the cup” — Jesus rejects violent defense; his path is obedience to the Father, receiving suffering rather than inflicting it.
+v12–14: Annas/Caiaphas — The narrative layers political-religious calculus: “better… one person die” exposes utilitarian logic dressed as public good.
+v15–18: charcoal fire / Peter warming himself — John’s detail sets the stage for denial as fear-driven self-preservation; warmth is sought while loyalty cools.
+v19–21: “I have spoken openly” — Jesus refuses the frame of secrecy; his teaching is public and accountable. The trial turns on power, not evidence.
+v22–23: struck / “testify… if wrongly” — Jesus models non-retaliatory truth-telling: name the injustice, demand testimony, refuse humiliation as normal.
+v25–27: three denials / rooster — Peter’s collapse is progressive and public; the rooster marks the bitter intersection of prediction and failure.
+v28: “not enter… not be defiled… eat the Passover” — A sharp irony: ritual purity is guarded while injustice is pursued. John exposes piety that protects itself while violating the heart of covenant faithfulness.
+v31–32: “not lawful… to put to death” — Responsibility is distributed through legal maneuvering; the machinery of execution is assembled while blame is displaced.
+v33–37: “King… My kingdom is not from this world” — Jesus reframes kingship: not sourced in worldly power or enforced by violence. His reign is truth-bearing witness that summons allegiance.
+v37: “Everyone who is of the truth listens” — Truth is personal and relational here—hearing and following Jesus’ voice, not merely holding correct propositions.
+v38: “What is truth?” — Pilate’s cynicism (or evasiveness) embodies imperial pragmatism: power uninterested in truth unless it serves control.
+v39–40: Barabbas released — The crowd chooses a violent insurgent (“bandit”) over the nonviolent king; the irony underscores how “freedom” is often imagined through force rather than truth-shaped peace.
 
 ##Vocabulary
 
