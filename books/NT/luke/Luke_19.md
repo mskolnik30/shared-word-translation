@@ -160,6 +160,61 @@ v47–48: Authority draws both devotion and opposition.
 
 ##Vocabulary
 
+v2: ἀρχιτελώνης (architelōnēs)
+
+“Chief tax collector.”
+
+v3: ζητέω (zēteō)
+
+“To seek.”
+
+v8: συκοφαντέω (sykophanteō)
+
+“To defraud.”
+
+v9: σωτηρία (sōtēria)
+
+“Salvation.”
+
+v11: παραβολή (parabolē)
+
+“Parable.”
+
+v13: μνᾶ (mna)
+
+“Mina.”
+
+v17: πιστός (pistos)
+“Faithful.”
+
+v22: πονηρός (ponēros)
+
+“Wicked.”
+
+v26: αἴρω (airō)
+
+“To take away.”
+
+v30: πῶλος (pōlos)
+
+“Colt.”
+
+v38: εὐλογημένος (eulogēmenos)
+
+“Blessed.”
+
+v41: κλαίω (klaiō)
+
+“To weep.”
+
+v44: ἐπισκοπή (episkopē)
+
+“Visitation.”
+
+v46: λῃστής (lēstēs)
+
+“Robber.”
+
 v02: ἀρχιτελώνης (architelōnēs)
 “Chief tax collector.”
 
@@ -171,6 +226,3 @@ v08: συκοφαντέω (sykophanteō)
 
 v09: σωτηρία (sōtēria)
 “Salvation.”
-
-v17: πιστός (pistos)
-“Faithful.”

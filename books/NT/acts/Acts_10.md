@@ -128,8 +128,25 @@ v47–48: “withhold the water… baptized” — Baptism follows God’s initi
 
 ##Vocabulary
 
-v04: μνημόσυνον (mnēmosynon)
-“Memorial; remembrance-offering.”
+v1: ἑκατοντάρχης (hekatontarchēs) — centurion
+
+v1: σπεῖρα (speira) — cohort; military unit
+
+v2: εὐσεβής (eusebēs) — devout; reverent
+
+v2: φοβέομαι τὸν θεόν (phobeomai ton theon) — to fear God; to reverence God
+
+v2: ἐλεημοσύνη (eleēmosynē) — alms; gifts to the poor
+
+v3: ὅραμα (horama) — vision
+
+v4: μνημόσυνον (mnēmosynon) — memorial; remembrance-offering
+
+v10: ἔκστασις (ekstasis) — trance; ecstatic state
+
+v11: ὀθόνη (othonē) — sheet; linen cloth
+
+v12: τετράποδος (tetrapodos) — four-footed animal
 
 v14: κοινός (koinos)
 “Common; profane (ritually non-holy).”
@@ -140,5 +157,48 @@ v14: ἀκάθαρτος (akathartos)
 v15: καθαρίζω (katharizō)
 “To make clean; to cleanse.”
 
+v17: διηπορέω (diaporeō) — to be perplexed; to be at a loss
+
+v19: διαλογίζομαι (dialogizomai) — to ponder; to reason through
+
+v20: διακρίνω (diakrinō) — to hesitate; to make distinctions; to doubt (context)
+
+v28: ἀθέμιτος (athemitos) — unlawful; forbidden by custom
+
+v34: προσωπολήμπτης (prosōpolēmptēs) — one who shows partiality
+
+v36: εἰρήνη (eirēnē) — peace; wholeness
+
 v36: εὐαγγελίζω (euangelizō)
 “To proclaim good news.”
+
+v38: χρίω (chriō) — to anoint
+
+v38: καταδυναστεύω (katadynasteuō) — to oppress; to dominate
+
+v39: ξύλον (xylon) — tree; wooden beam (as in execution on a “tree”)
+
+v40: ἐγείρω (egeirō) — to raise up
+
+v42: κριτής (kritēs) — judge
+
+v43: ἄφεσις (aphesis) — forgiveness; release
+
+v43: ἁμαρτία (hamartia) — sin
+
+v44: ἐπιπίπτω (epipiptō) — to fall upon
+
+v45: δωρεά (dōrea) — gift (free gift)
+
+v45: ἐκχέω (ekcheō) — to pour out
+
+v46: γλῶσσα (glōssa) — tongue; language
+
+v46: μεγαλύνω (megalynō) — to magnify; to extol
+
+v47: κωλύω (kōlyō) — to hinder; to withhold; to prevent
+
+v48: βαπτίζω (baptizō) — to baptize; to immerse
+
+v04: μνημόσυνον (mnēmosynon)
+“Memorial; remembrance-offering.”

@@ -106,6 +106,70 @@ v25: Mission continues through returning workers.
 
 ##Vocabulary
 
+v1: κακόω (kakoō)  
+
+v1: “To harm.”  
+
+v2: ἀναιρέω (anaireō)  
+
+v2: “To kill.”  
+
+v4: τετράδιον (tetradion)  
+
+v4: “Squad.”  
+
+v5: ἐκτενής (ektenēs)  
+
+v5: “Earnest.”  
+
+v7: ἅλυσις (halysis)  
+
+v7: “Chain.”  
+
+v8: ζώννυμι (zōnnymai)  
+
+v8: “To gird.”  
+
+v10: αὐτόματος (automatos)  
+
+v10: “By itself.”  
+
+v11: ῥύομαι (ryomai)  
+
+v11: “To rescue.”  
+
+v14: χαρά (chara)  
+
+v14: “Joy.”  
+
+v15: μαίνομαι (mainomai)  
+
+v15: “To be out of one’s mind.”  
+
+v17: κατασείω (kataseiō)  
+
+v17: “To motion.”  
+
+v19: ἀπάγω (apagō)  
+
+v19: “To lead away.”  
+
+v21: βῆμα (bēma)  
+
+v21: “Throne, judgment seat.”  
+
+v22: θεός (theos)  
+
+v22: “God.”  
+
+v23: σκώληξ (skōlēx)  
+
+v23: “Worm.”  
+
+v24: πληθύνω (plēthynō)  
+
+v24: “To multiply.”  
+
 v01: κακόω (kakoō)
 “To harm.”
 

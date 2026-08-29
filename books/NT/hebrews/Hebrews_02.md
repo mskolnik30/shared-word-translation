@@ -85,6 +85,62 @@ v18: Experience grounds capacity to help.
 
 ##Vocabulary
 
+v1: προσέχω (prosechō)  
+
+v1: “To pay attention.” To hold toward.  
+
+v1: παραρρέω (pararreō)  
+
+v1: “To drift away.” To slip past.  
+
+v2: παράβασις (parabasis)  
+
+v2: “Transgression.” Crossing a boundary.  
+
+v3: ἀμελέω (ameleō)  
+
+v3: “To neglect.” To disregard.  
+
+v4: σημεῖον (sēmeion)  
+
+v4: “Sign.” Indicator of meaning.  
+
+v5: οἰκουμένη (oikoumenē)  
+
+v5: “World.” Inhabited order.  
+
+v9: γεύομαι (geuomai)  
+
+v9: “To taste.” To experience.  
+
+v10: ἀρχηγός (archēgos)  
+
+v10: “Founder.” Leader or originator.  
+
+v11: ἁγιάζω (hagiazō)  
+
+v11: “To sanctify.” To set apart.  
+
+v14: καταργέω (katargeō)  
+
+v14: “To destroy.” To render ineffective.  
+
+v15: δουλεία (douleia)  
+
+v15: “Slavery.” Condition of bondage.  
+
+v17: ἱερεύς (hiereus)  
+
+v17: “Priest.” One who mediates.  
+
+v17: ἱλάσκομαι (hilaskomai)  
+
+v17: “To make atonement.” To deal with sin.  
+
+v18: πειράζω (peirazō)  
+
+v18: “To tempt.” To test or try.  
+
 v01: προσέχω (prosechō)
 “To pay attention.” To hold toward.
 

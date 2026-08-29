@@ -168,6 +168,64 @@ v34: This verse is absent from the earliest and strongest Greek witnesses; later
 
 ##Vocabulary
 
+v1: περιτομή (peritomē)  
+
+v1: “Circumcision.”  
+
+v2: στάσις (stasis)  
+
+v2: “Dissension.”  
+
+v8: καρδιογνώστης (kardiognōstēs)  
+
+v8: “Knower of hearts.”  
+
+v10: ζυγός (zygos)
+“Yoke.”
+
+v10: “Yoke.”  
+
+v11: χάρις (charis)
+“Grace.”
+
+v11: “Grace.”  
+
+v12: τέρας (teras)  
+
+v12: “Wonder.”  
+
+v14: λαός (laos)  
+
+v14: “People.”  
+
+v19: παρενοχλέω (parenochleō)  
+
+v19: “To trouble.”  
+
+v20: ἀπέχω (apechō)  
+
+v20: “To abstain.”  
+
+v23: χαίρειν (chairein)  
+
+v23: “Greetings.”  
+
+v28: βάρος (baros)  
+
+v28: “Burden.”  
+
+v32: προφήτης (prophētēs)  
+
+v32: “Prophet.”  
+
+v39: παροξυσμός (paroxysmos)  
+
+v39: “Sharp disagreement.”  
+
+v41: ἐπιστηρίζω (epistērizō)  
+
+v41: “To strengthen.”  
+
 v01: περιτομή (peritomē)
 “Circumcision.”
 
@@ -176,9 +234,3 @@ v02: στάσις (stasis)
 
 v08: καρδιογνώστης (kardiognōstēs)
 “Knower of hearts.”
-
-v10: ζυγός (zygos)
-“Yoke.”
-
-v11: χάρις (charis)
-“Grace.”

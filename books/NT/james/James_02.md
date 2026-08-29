@@ -89,6 +89,54 @@ v26: Analogy equates absence of works with death.
 
 ##Vocabulary
 
+v1: προσωπολημψία (prosōpolēmpsia)  
+
+v1: “Partiality.” Showing favor based on status.  
+
+v4: διακρίνω (diakrinō)  
+
+v4: “To distinguish.” To separate or judge.  
+
+v5: κληρονόμος (klēronomos)  
+
+v5: “Heir.” One who receives inheritance.  
+
+v8: νόμος βασιλικός (nomos basilikos)  
+
+v8: “Royal law.” Central governing command.  
+
+v10: πταίω (ptaio)  
+
+v10: “To stumble.” To fail or err.  
+
+v12: νόμος ἐλευθερίας (nomos eleutherias)  
+
+v12: “Law of freedom.” Law characterized by liberty.  
+
+v13: ἔλεος (eleos)  
+
+v13: “Mercy.” Compassion shown.  
+
+v14: πίστις (pistis)  
+
+v14: “Faith.” Trust or belief.  
+
+v17: νεκρός (nekros)  
+
+v17: “Dead.” Without life.  
+
+v22: τελειόω (teleioō)  
+
+v22: “To complete.” To bring to fulfillment.  
+
+v24: δικαιόω (dikaioō)  
+
+v24: “To justify.” To declare or demonstrate as righteous.  
+
+v26: πνεῦμα (pneuma)  
+
+v26: “Spirit.” Breath or life principle.  
+
 v01: προσωπολημψία (prosōpolēmpsia)
 “Partiality.” Showing favor based on status.
 

@@ -105,6 +105,66 @@ v28–29: Worship is grounded in response to permanence.
 
 ##Vocabulary
 
+v1: νέφος (nephos)  
+
+v1: “Cloud.” Surrounding multitude.  
+
+v1: ἀγών (agōn)  
+
+v1: “Race.” Contest or struggle.  
+
+v2: ἀρχηγός (archēgos)  
+
+v2: “Founder.” Originator or leader.  
+
+v2: τελειωτής (teleiōtēs)  
+
+v2: “Perfecter.” One who brings to completion.  
+
+v5: παιδεία (paideia)  
+
+v5: “Discipline.” Training or instruction.  
+
+v7: υἱός (huios)  
+
+v7: “Son.” One in relational standing.  
+
+v11: καρπός (karpos)  
+
+v11: “Fruit.” Result or outcome.  
+
+v14: ἁγιασμός (hagiasmos)  
+
+v14: “Holiness.” State of being set apart.  
+
+v15: ῥίζα (rhiza)  
+
+v15: “Root.” Source or origin.  
+
+v18: ψηλαφάω (psēlaphaō)  
+
+v18: “To touch.” To handle physically.  
+
+v22: πανήγυρις (panēgyris)  
+
+v22: “Assembly.” Festal gathering.  
+
+v24: μεσίτης (mesitēs)  
+
+v24: “Mediator.” One who stands between.  
+
+v27: σαλεύω (saleuō)  
+
+v27: “To shake.” To move or unsettle.  
+
+v28: βασιλεία (basileia)  
+
+v28: “Kingdom.” Realm of rule.  
+
+v29: πῦρ (pyr)  
+
+v29: “Fire.” Consuming force.  
+
 v01: νέφος (nephos)
 “Cloud.” Surrounding multitude.
 

@@ -72,6 +72,38 @@ v18: Transformation is ongoing (“are being transformed”) and communal (“al
 
 ##Vocabulary
 
+v3: πνεῦμα (pneuma)  
+
+v3: “Spirit.” Can refer to breath, wind, or divine presence; here associated with life and inscription.  
+
+v6: γράμμα (gramma)  
+
+v6: “Letter.” Often referring to written code; contrasted with Spirit as a mode of operation.  
+
+v6: ζωοποιέω (zōopoieō)  
+
+v6: “To give life.” Indicates enlivening action rather than mere existence.  
+
+v7: καταργέω (katargeō)  
+
+v7: “To set aside” or “render inoperative.” Suggests cessation of function rather than destruction.  
+
+v14: πωρόω (pōroō)  
+
+v14: “To harden.” Implies dulling or insensitivity of perception.  
+
+v16: ἐπιστρέφω (epistrephō)  
+
+v16: “To turn.” A term often used for reorientation or return.  
+
+v18: μεταμορφόω (metamorphoō)  
+
+v18: “To transform.” Indicates change of form or nature over time.  
+
+v18: δόξα (doxa)  
+
+v18: “Glory.” Carries the sense of radiance, honor, and visible manifestation.  
+
 v03: πνεῦμα (pneuma)
 “Spirit.” Can refer to breath, wind, or divine presence; here associated with life and inscription.
 

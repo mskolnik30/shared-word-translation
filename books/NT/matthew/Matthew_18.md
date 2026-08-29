@@ -113,6 +113,39 @@ v11: This verse is absent from the earliest and strongest Greek witnesses; later
 
 ##Vocabulary
 
+v3: στραφῆτε (*straphēte*) — “Turn.” Change direction or orientation.  
+
+v4: ταπεινόω (*tapeinoō*) — “Humble.” Lower oneself intentionally.  
+
+v6: σκανδαλίζω (*skandalizō*) — “Cause to stumble.” Lead into failure or sin.  
+
+v7: σκάνδαλα (*skandala*) — “Stumbling blocks.” Sources of offense or sin.  
+
+v8: ζωὴ (*zōē*) — “Life.” True or enduring life, not mere existence.  
+
+v9: γέεννα (*geenna*) — “Gehenna.” Image of judgment/fire.  
+
+v10: ἄγγελοι (*angeloi*) — “Angels.” Messengers or representatives.  
+
+v15: ἐλέγξον (*elenxon*) — “Reprove,” “show fault.” Expose for correction.  
+
+v17: ἐκκλησία (*ekklēsia*) — “Assembly.” Gathered community.  
+
+v18: δήσητε / λύσητε (*dēsēte / lysēte*) — “Bind / loose.” Establish or release.  
+
+v20: συνηγμένοι (*synēgmenoi*) — “Gathered.” Brought together into one.  
+
+v22: ἑβδομηκοντάκις ἑπτά (*hebdomēkontakis hepta*) — “Seventy-seven times.” Symbol of unbounded repetition.  
+
+v24: τάλαντα (*talanta*) — “Talents.” Large monetary units.  
+
+v27: σπλαγχνισθείς (*splanchnistheis*) — “Moved with compassion.” Deep emotional response.  
+
+v33: ἐλεέω (eleeō)
+“Have mercy.” Show compassion in action.
+
+v35: καρδία (*kardia*) — “Heart.” Inner source of intention and action.  
+
 v06: σκανδαλίζω (skandalizō)
 “Cause to stumble.” Lead into failure or sin.
 
@@ -121,6 +154,3 @@ v07: σκάνδαλα (skandala)
 
 v09: γέεννα (geenna)
 “Gehenna.” Image of judgment/fire.
-
-v33: ἐλεέω (eleeō)
-“Have mercy.” Show compassion in action.

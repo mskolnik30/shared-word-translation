@@ -117,6 +117,69 @@ v32: Approval of sin compounds guilt.
 
 ##Vocabulary
 
+v1: ἀφορίζω (aphorizō)
+
+“To set apart.”
+
+v3: σπέρμα (sperma)
+
+“Seed.”
+
+v4: ὁρίζω (horizō)
+
+“To appoint.”
+
+v5: ὑπακοή (hypakoē)
+
+“Obedience.”
+
+v16: δύναμις (dynamis)
+
+“Power.”
+
+v17: δικαιοσύνη (dikaiosynē)
+“Righteousness.”
+
+v18: ὀργή (orgē)
+
+“Wrath.”
+
+v20: θεότης (theotēs)
+
+“Divine nature.”
+
+v21: ματαιόω (mataioō)
+
+“To become futile.”
+
+v23: εἰκών (eikōn)
+
+“Image.”
+
+v24: ἀκαθαρσία (akatharsia)
+
+“Impurity.”
+
+v25: κτίσις (ktisis)
+
+“Creation.”
+
+v26: πάθος (pathos)
+
+“Passion.”
+
+v28: ἀδόκιμος (adokimos)
+
+“Debased.”
+
+v29: φθόνος (phthonos)
+
+“Envy.”
+
+v32: συνευδοκέω (syneudokeō)
+
+“To approve.”
+
 v01: ἀφορίζω (aphorizō)
 “To set apart.”
 
@@ -125,6 +188,3 @@ v03: σπέρμα (sperma)
 
 v04: ὁρίζω (horizō)
 “To appoint.”
-
-v17: δικαιοσύνη (dikaiosynē)
-“Righteousness.”

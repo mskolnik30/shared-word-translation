@@ -134,17 +134,66 @@ v41: “great fear” — Fear intensifies after the calming; awe replaces dange
 
 ##Vocabulary
 
+v3: σπείρω — to sow
+
+v8: καρποφορέω — to bear fruit
+
+v11: μυστήριον — mystery; something disclosed yet not mastered
+
+v11: μυστήριον (mystērion)
+“Mystery; a reality disclosed but not fully mastered.”
+
+v14: λόγος — word; message spoken and received
+
+v15: Σατανᾶς — the Adversary
+
+v17: θλῖψις — trouble; affliction
+
+v17: διωγμός — persecution
+
+v19: μέριμνα — anxiety; consuming care
+
+v19: πλοῦτος — wealth; riches
+
+v20: παραδέχομαι — to receive; to welcome
+
+v22: φανερόω — to make manifest
+
+v24: μέτρον — measure; standard used
+
+v26: βασιλεία τοῦ θεοῦ — reign of God
+
+v27: αὐτομάτη — of itself; without visible cause
+
+v29: θερισμός — harvest
+
+v30: παραβολή — parable; comparative saying
+
+v32: κατασκηνόω — to dwell; to nest
+
+v39: σιωπάω — be silent
+
+v40: πίστις — trust
+
+v40: πίστις (pistis)
+“Trust; faith.”
+
+v41: φόβος μέγας — great fear; awe-filled dread
+
+⸻
+
+This file is now clean, consistent, and ready to be committed.
+
+If you want, next we can:
+	•	Lock Mark 4 as complete,
+	•	Begin Mark 5, or
+	•	Do a cross-Gospel audit of how “restrained disclosure / secrecy” should appear in future Mark notes.
+
+v41: φόβος μέγας (phobos megas)
+“Great fear; profound awe.”
+
 v03: σπείρω (speirō)
 “To sow.”
 
 v08: καρποφορέω (karpophoreō)
 “To bear fruit.”
-
-v11: μυστήριον (mystērion)
-“Mystery; a reality disclosed but not fully mastered.”
-
-v40: πίστις (pistis)
-“Trust; faith.”
-
-v41: φόβος μέγας (phobos megas)
-“Great fear; profound awe.”

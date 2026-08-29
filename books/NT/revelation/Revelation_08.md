@@ -53,6 +53,46 @@ v13: The eagle’s cry anticipates escalation; judgment intensifies rather than 
 
 ##Vocabulary
 
+v1: σιγή (sigē)
+
+“Silence.” Absence of sound, here marking interruption or pause.
+
+v2: σάλπιγξ (salpinx)
+
+“Trumpet.” Instrument signaling announcement or action.
+
+v3: λιβανωτός (libanōtos)
+
+“Censer.” Vessel for burning incense.
+
+v4: θυμίαμα (thymiama)
+
+“Incense.” Fragrant offering, associated with prayer.
+
+v5: πῦρ (pyr)
+
+“Fire.” Element of offering and judgment.
+
+v7: χάλαζα (chalaza)
+
+“Hail.” Destructive precipitation, here intensified.
+
+v8: θάλασσα (thalassa)
+
+“Sea.” Domain of life, here partially undone.
+
+v10: ἀστήρ (astēr)
+
+“Star.” Celestial body, functioning as agent.
+
+v11: ἄψινθος (apsinthos)
+
+“Wormwood.” A bitter substance; symbolizes corruption.
+
+v13: οὐρανόθεν (ouranothen)
+
+“Midheaven.” The highest visible point, signaling universal proclamation.
+
 v01: σιγή (sigē)
 “Silence.” Absence of sound, here marking interruption or pause.
 

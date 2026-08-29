@@ -92,6 +92,54 @@ v21: The logic is final and stark. If righteousness comes through the law, Chris
 
 ##Vocabulary
 
+v2: ἀνατίθημι (anatithēmi)  
+
+v2: “To set before.” To present for consideration.  
+
+v4: παρεισάγω (pareisagō)  
+
+v4: “To bring in secretly.” Introducing something covertly.  
+
+v4: κατασκοπέω (kataskopeō)  
+
+v4: “To spy out.” To observe with intent to control.  
+
+v4: ἐλευθερία (eleutheria)  
+
+v4: “Freedom.” Release from constraint or obligation.  
+
+v5: ὑποτάσσω (hypotassō)  
+
+v5: “To submit.” To place oneself under authority.  
+
+v6: προσωπολημψία (prosōpolēmpsia)  
+
+v6: “Partiality.” Favoring based on status or appearance.  
+
+v9: κοινωνία (koinōnia)  
+
+v9: “Fellowship.” Shared participation or partnership.  
+
+v13: ὑπόκρισις (hypokrisis)  
+
+v13: “Hypocrisy.” Acting in contradiction to reality.  
+
+v16: δικαιόω (dikaioō)  
+
+v16: “To justify.” To declare or establish as righteous.  
+
+v19: ἀποθνῄσκω (apothnēskō)  
+
+v19: “To die.” Used metaphorically of relational transition.  
+
+v20: συσταυρόω (systauroō)  
+
+v20: “To be crucified with.” Shared participation in death.  
+
+v21: ἀθετέω (atheteō)  
+
+v21: “To set aside.” To nullify or disregard.  
+
 v02: ἀνατίθημι (anatithēmi)
 “To set before.” To present for consideration.
 

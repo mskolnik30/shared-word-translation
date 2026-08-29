@@ -85,6 +85,50 @@ v18: The letter closes with grace directed toward the community’s “spirit,�
 
 ##Vocabulary
 
+v1: καταρτίζω (katartizō)  
+
+v1: “To restore.” To mend or set in order.  
+
+v1: πραΰτης (prautēs)  
+
+v1: “Gentleness.” Strength exercised without harshness.  
+
+v2: βάρος (baros)  
+
+v2: “Burden.” A weight difficult to carry alone.  
+
+v3: φρεναπατάω (phrenapataō)  
+
+v3: “To deceive oneself.” To mislead one’s own mind.  
+
+v5: φορτίον (phortion)  
+
+v5: “Load.” A personal responsibility or assigned weight.  
+
+v7: μυκτηρίζω (myktērizō)  
+
+v7: “To mock.” To treat with contempt.  
+
+v8: φθορά (phthora)  
+
+v8: “Corruption.” Decay or ruin.  
+
+v8: ζωή αἰώνιος (zōē aiōnios)  
+
+v8: “Eternal life.” Life belonging to the age to come.  
+
+v14: σταυρόω (stauroō)  
+
+v14: “To crucify.” To put to death on a cross, here used metaphorically.  
+
+v15: καινὴ κτίσις (kainē ktisis)  
+
+v15: “New creation.” A decisive new reality.  
+
+v17: στίγματα (stigmata)  
+
+v17: “Marks.” Physical signs, often of ownership or suffering.  
+
 v01: καταρτίζω (katartizō)
 “To restore.” To mend or set in order.
 

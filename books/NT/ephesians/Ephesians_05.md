@@ -100,6 +100,36 @@ v33: Love and respect — Maintains asymmetry in exhortation without explaining 
 
 ##Vocabulary
 
+v1: μιμηταί (mimētai) — imitators, those who model themselves after another  
+
+v2: ἀγάπη (agapē) — self-giving love oriented toward the good of another  
+
+v2: προσφορά (prosphora) — offering, act of giving  
+
+v3: πορνεία (porneia) — sexual immorality, disordered sexual practice  
+
+v5: βασιλεία (basileia) — reign, kingdom, sphere of rule  
+
+v8: φῶς (phōs) — light, that which reveals and gives life  
+
+v10: δοκιμάζω (dokimazō) — to test, discern, examine for approval  
+
+v13: ἐλέγχω (elenchō) — to expose, bring to light, convict  
+
+v15: σοφός (sophos) — wise, discerning in judgment and action  
+
+v16: καιρός (kairos) — appointed time, decisive moment  
+
+v18: πληρόω (plēroō) — to fill, to bring to fullness  
+
+v21: ὑποτάσσω (hypotassō) — to place oneself under, to order relationally  
+
+v21: φόβος (phobos) — reverence, awe, respect  
+
+v25: ἀγαπάω (agapaō) — to love with self-giving commitment  
+
+v32: μυστήριον (mystērion) — mystery, reality once hidden now disclosed  
+
 v01: μιμηταί (mimētai)
 “Imitators, those who model themselves after another.”
 

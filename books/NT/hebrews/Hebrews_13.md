@@ -82,11 +82,43 @@ v25: Conclusion returns to grace.
 v18: συνείδησις (syneidēsis)
 “Conscience.” Inner awareness.
 
+v18: “Conscience.” Inner awareness.  
+
 v19: ἀποκαθίστημι (apokathistēmi)
 “To restore.” To bring back.
+
+v19: “To restore.” To bring back.  
 
 v20: ποιμήν (poimēn)
 “Shepherd.” One who leads and cares.
 
+v20: “Shepherd.” One who leads and cares.  
+
 v20: διαθήκη (diathēkē)
 “Covenant.” Binding arrangement.
+
+v20: “Covenant.” Binding arrangement.  
+
+v21: καταρτίζω (katartizō)  
+
+v21: “To equip.” To prepare.  
+
+v21: ἐνεργέω (energeō)  
+
+v21: “To work.” To operate effectively.  
+
+v22: παράκλησις (paraklēsis)  
+
+v22: “Exhortation.” Encouragement or appeal.  
+
+v23: ἀπολύω (apolyō)  
+
+v23: “To release.” To set free.  
+
+v24: ἅγιος (hagios)  
+
+v24: “Saint.” One set apart.  
+
+v25: χάρις (charis)  
+
+v25: “Grace.” Favor given freely.

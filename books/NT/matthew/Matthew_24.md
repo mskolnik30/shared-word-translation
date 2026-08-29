@@ -167,6 +167,42 @@ v45–51: Ethical readiness expressed through stewardship fidelity.
 
 ##Vocabulary
 
+v3: παρουσία (*parousia*) — “Coming.” Arrival with authority.  
+
+v3: συντέλεια (*synteleia*) — “End.” Completion or consummation.  
+
+v4: πλανήσῃ (*planēsē*) — “Lead astray.” Cause to wander.  
+
+v8: ὠδίνες (*ōdines*) — “Birth pains.” Labor contractions.  
+
+v9: θλῖψις (*thlipsis*) — “Tribulation.” Pressure, affliction.  
+
+v12: ἀνομία (*anomia*) — “Lawlessness.” Rejection of divine order.  
+
+v13: ὑπομείνας (*hypomeinas*) — “Endured.” Remained under pressure.  
+
+v15: βδέλυγμα (*bdelygma*) — “Abomination.” Defiling object or act.  
+
+v21: μεγάλη θλῖψις (*megalē thlipsis*) — “Great tribulation.” Intensified affliction.  
+
+v24: ψευδόχριστοι (*pseudochristoi*) — “False christs.” Claimants to messianic role.  
+
+v27: ἀστραπή (*astrapē*) — “Lightning.” Sudden, visible flash.  
+
+v30: δόξα (doxa)
+“Glory.” Manifested divine splendor.
+
+v31: ἐκλεκτοί (*eklektoi*) — “Elect.” Chosen ones.  
+
+v36: οἶδεν (*oiden*) — “Knows.” Perfect knowledge.  
+
+v42: γρηγορεῖτε (*grēgoreite*) — “Stay awake.” Be vigilant.  
+
+v45: πιστός (pistos)
+“Faithful.” Reliable, trustworthy.
+
+v51: ὑποκριταί (*hypokritai*) — “Hypocrites.” Those who perform falsely.  
+
 v03: παρουσία (parousia)
 “Coming.” Arrival with authority.
 
@@ -175,9 +211,3 @@ v03: συντέλεια (synteleia)
 
 v04: πλανήσῃ (planēsē)
 “Lead astray.” Cause to wander.
-
-v30: δόξα (doxa)
-“Glory.” Manifested divine splendor.
-
-v45: πιστός (pistos)
-“Faithful.” Reliable, trustworthy.

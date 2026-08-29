@@ -98,6 +98,78 @@ v21–24: Closing combines warning, hope, grace, and love.
 
 ##Vocabulary
 
+v1: λογεία (logeia)  
+
+v1: “Collection.”  
+
+v2: θησαυρίζω (thēsaurizō)  
+
+v2: “To store up.”  
+
+v3: δοκιμάζω (dokimazō)  
+
+v3: “To approve.”  
+
+v6: προπέμπω (propempō)  
+
+v6: “To send on one’s way.”  
+
+v9: θύρα (thyra)  
+
+v9: “Door.”  
+
+v9: ἀντικείμενος (antikeimenos)  
+
+v9: “Adversary.”  
+
+v10: ἀφόβως (aphobōs)  
+
+v10: “Without fear.”  
+
+v11: ἐξουθενέω (exoutheneō)  
+
+v11: “To despise.”  
+
+v13: γρηγορέω (grēgoreō)  
+
+v13: “To be watchful.”  
+
+v13: στήκω (stēkō)  
+
+v13: “To stand firm.”  
+
+v13: ἀνδρίζομαι (andrizomai)  
+
+v13: “To act courageously.”  
+
+v14: ἀγάπη (agapē)  
+
+v14: “Love.”  
+
+v15: τάσσω (tassō)  
+
+v15: “To devote.”  
+
+v16: ὑποτάσσω (hypotassō)  
+
+v16: “To be subject.”  
+
+v18: ἀναπαύω (anapauō)  
+
+v18: “To refresh.”  
+
+v22: ἀνάθεμα (anathema)  
+
+v22: “Accursed.”  
+
+v22: μαράνα θά  
+
+v22: “Our Lord, come.”  
+
+v23: χάρις (charis)  
+
+v23: “Grace.”  
+
 v01: λογεία (logeia)
 “Collection.”
 

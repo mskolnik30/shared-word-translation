@@ -159,6 +159,73 @@ v42–43: Signs result in belief and extended presence.
 
 ##Vocabulary
 
+v2: ὁδός (hodos)
+
+“The Way.”
+
+v3: φῶς (phōs)
+
+“Light.”
+
+v4: διώκω (diōkō)
+
+“To persecute.”
+
+v9: τυφλός (typhlos)
+
+“Blind.”
+
+v15: σκεῦος (skeuos)
+“Instrument.”
+
+v16: πάσχω (paschō)
+
+“To suffer.”
+
+v17: ἐπιτίθημι χεῖρας
+
+“To lay hands.”
+
+v18: λεπίς (lepis)
+
+“Scale.”
+
+v20: υἱὸς τοῦ θεοῦ
+
+“Son of God.”
+
+v22: συμβιβάζω (symbibazō)
+
+“To prove, demonstrate.”
+
+v25: σπυρίς (spyris)
+
+“Basket.”
+
+v27: παρρησία (parrēsia)
+
+“Boldness.”
+
+v31: οἰκοδομέω (oikodomeō)
+
+“To build up.”
+
+v34: ἰάομαι (iaomai)
+
+“To heal.”
+
+v36: ἐλεημοσύνη (eleēmosynē)
+
+“Charity.”
+
+v40: ἀνίστημι (anistēmi)
+
+“To arise.”
+
+v42: πιστεύω (pisteuō)
+
+“To believe.”
+
 v02: ὁδός (hodos)
 “The Way.”
 
@@ -170,6 +237,3 @@ v04: διώκω (diōkō)
 
 v09: τυφλός (typhlos)
 “Blind.”
-
-v15: σκεῦος (skeuos)
-“Instrument.”

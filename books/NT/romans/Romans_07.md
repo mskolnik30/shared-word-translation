@@ -100,14 +100,70 @@ v24–25: Deliverance is located in Christ, not self-effort.
 
 ##Vocabulary
 
-v01: κυριεύω (kyrieuō)
+v1: κυριεύω (kyrieuō)
+
 “To have authority over.”
+
+v2: καταργέω (katargeō)
+
+“To release, nullify.”
+
+v4: καρποφορέω (karpophoreō)
+
+“To bear fruit.”
+
+v5: πάθος (pathos)
+
+“Passion.”
+
+v6: καινότης (kainotēs)
+
+“Newness.”
+
+v7: ἐπιθυμία (epithymia)
+
+“Coveting, desire.”
+
+v8: ἀφορμή (aphormē)
+
+“Opportunity.”
+
+v11: ἐξαπατάω (exapataō)
+
+“To deceive.”
 
 v12: ἅγιος (hagios)
 “Holy.”
 
+v13: καθ’ ὑπερβολήν
+
+“Exceedingly.”
+
+v14: σάρκινος (sarkinos)
+
+“Fleshly.”
+
+v17: οἰκέω (oikeō)
+
+“To dwell.”
+
+v18: θέλω (thelō)
+
+“To desire.”
+
 v21: νόμος (nomos)
 “Law, principle.”
 
+v23: αἰχμαλωτίζω (aichmalōtizō)
+
+“To take captive.”
+
+v24: ταλαίπωρος (talaipōros)
+
+“Wretched.”
+
 v25: χάρις (charis)
 “Thanks, grace.”
+
+v01: κυριεύω (kyrieuō)
+“To have authority over.”

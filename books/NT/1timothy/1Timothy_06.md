@@ -95,6 +95,46 @@ v20–21: Guarding the entrusted message requires discernment and avoidance of f
 
 ##Vocabulary
 
+v1: ζυγός (zygos)  
+
+v1: “Yoke.” Symbol of obligation or subjection.  
+
+v4: νοσέω (noseō)  
+
+v4: “To be sick.” Used metaphorically of unhealthy craving.  
+
+v5: διαπαρατριβή (diaparatribē)  
+
+v5: “Friction.” Ongoing conflict.  
+
+v6: αὐτάρκεια (autarkeia)  
+
+v6: “Contentment.” Sufficiency.  
+
+v9: παγίς (pagis)  
+
+v9: “Snare.” Trap leading to harm.  
+
+v10: φιλαργυρία (philargyria)  
+
+v10: “Love of money.” Greed.  
+
+v12: ἀγωνίζομαι (agōnizomai)  
+
+v12: “To fight.” To strive or contend.  
+
+v13: μαρτυρέω (martyreō)  
+
+v13: “To testify.” To bear witness.  
+
+v17: πλοῦτος (ploutos)  
+
+v17: “Wealth.” Material abundance.  
+
+v20: παραθήκη (parathēkē)  
+
+v20: “What is entrusted.” A deposit to guard.  
+
 v01: ζυγός (zygos)
 “Yoke.” Symbol of obligation or subjection.
 

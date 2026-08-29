@@ -246,10 +246,12 @@ v66–71: The trial centers on identity claims tied to divine authority.
 
 ##Vocabulary
 
-v01: πάσχα (pascha)
+v1: πάσχα (pascha)
+
 “Passover.”
 
-v03: εἰσέρχομαι (eiserchomai)
+v3: εἰσέρχομαι (eiserchomai)
+
 “To enter.”
 
 v19: ἀνάμνησις (anamnēsis)
@@ -263,3 +265,49 @@ v31: σινιάζω (siniazō)
 
 v36: μάχαιρα (machaira)
 “Sword.”
+
+v37: ἄνομος (anomos)
+
+“Lawless.”
+
+v42: θέλημα (thelēma)
+
+“Will.”
+
+v44: ἀγωνία (agōnia)
+
+“Agony.”
+
+v47: φιλέω (phileō)
+
+“To kiss.”
+
+v51: ἅπτομαι (haptomai)
+
+“To touch.”
+
+v53: ἐξουσία σκότους
+
+“Authority of darkness.”
+
+v61: βλέπω (blepō)
+
+“To look.”
+
+v62: πικρῶς (pikros)
+
+“Bitterly.”
+
+v64: προφητεύω (prophēteuō)
+
+“To prophesy.”
+
+v69: δύναμις (dynamis)
+
+“Power.”
+
+v01: πάσχα (pascha)
+“Passover.”
+
+v03: εἰσέρχομαι (eiserchomai)
+“To enter.”

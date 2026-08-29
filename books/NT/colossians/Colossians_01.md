@@ -114,14 +114,46 @@ v27: “Christ in you” reverses expectation—presence within rather than dist
 
 ##Vocabulary
 
+v6: καρποφορέω (karpophoreō)  
+
+v6: “To bear fruit.” Produce visible outcome.  
+
+v9: ἐπίγνωσις (epignōsis)  
+
+v9: “Full knowledge.” Deep or experiential understanding.  
+
+v13: μεθίστημι (methistēmi)
+“To transfer.” Move from one domain to another.
+
+v13: “To transfer.” Move from one domain to another.  
+
+v15: εἰκών (eikōn)
+“Image.” Visible expression of invisible reality.
+
+v15: “Image.” Visible expression of invisible reality.  
+
+v18: πρωτότοκος (prōtotokos)  
+
+v18: “Firstborn.” Priority and status, not merely sequence.  
+
+v20: ἀποκαταλλάσσω (apokatallassō)  
+
+v20: “To reconcile fully.” Restore relationship.  
+
+v24: ἀνταναπληρόω (antanaplēroō)  
+
+v24: “To fill up in place of.” Complete what remains.  
+
+v26: μυστήριον (mystērion)  
+
+v26: “Mystery.” Hidden, now revealed purpose.  
+
+v29: ἐνέργεια (energeia)  
+
+v29: “Working.” Effective power in action.  
+
 v06: καρποφορέω (karpophoreō)
 “To bear fruit.” Produce visible outcome.
 
 v09: ἐπίγνωσις (epignōsis)
 “Full knowledge.” Deep or experiential understanding.
-
-v13: μεθίστημι (methistēmi)
-“To transfer.” Move from one domain to another.
-
-v15: εἰκών (eikōn)
-“Image.” Visible expression of invisible reality.

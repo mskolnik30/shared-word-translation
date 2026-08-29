@@ -85,11 +85,11 @@ v31–36: Heavenly origin and testimony are emphasized repeatedly. Trust and ref
 
 ##Vocabulary
 
-v03: ἄνωθεν (anōthen)
-“From above; again; intentionally ambiguous in direction and time.”
+v3: ἄνωθεν (anōthen) — from above; again; intentionally ambiguous in direction and time.  
 
-v05: πνεῦμα (pneuma)
-“Spirit; wind; breath; carries layered meaning throughout the passage.”
+v5: πνεῦμα (pneuma) — Spirit; wind; breath; carries layered meaning throughout the passage.  
+
+v8: φωνή (phōnē) — sound; voice; emphasizes effect without visible source.  
 
 v11: μαρτυρέω (martyreō)
 “To testify; to bear witness; relational rather than argumentative.”
@@ -97,5 +97,19 @@ v11: μαρτυρέω (martyreō)
 v15–16: πιστεύω (pisteuō)
 “To trust; to rely upon; more relational than intellectual assent.”
 
+v16: κόσμος (kosmos) — world; the ordered human realm, not morally neutral yet still loved.  
+
+v19: κρίσις (krisis) — judgment; decision; exposure rather than mere punishment.  
+
+v19: φῶς (phōs) — light; revelation that uncovers rather than merely illuminates.  
+
+v29: φίλος (philos) — friend; one who stands in attentive joy, not possession.  
+
 v36: ζωὴ αἰώνιος (zōē aiōnios)
 “Eternal life; life of the age to come, already present in trust.”
+
+v03: ἄνωθεν (anōthen)
+“From above; again; intentionally ambiguous in direction and time.”
+
+v05: πνεῦμα (pneuma)
+“Spirit; wind; breath; carries layered meaning throughout the passage.”

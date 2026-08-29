@@ -74,6 +74,42 @@ v16–17: Prayer focuses on internal strengthening and outward expression.
 
 ##Vocabulary
 
+v6: κατέχω (katechō)  
+
+v6: “To restrain.” To hold back or limit.  
+
+v7: μυστήριον (mystērion)  
+
+v7: “Mystery.” Hidden but active reality.  
+
+v8: ἀναιρέω (anaireō)  
+
+v8: “To destroy.” To remove or eliminate.  
+
+v9: ἐνέργεια (energeia)  
+
+v9: “Activity.” Effective operation.  
+
+v10: ἀπάτη (apatē)  
+
+v10: “Deception.” Misleading influence.  
+
+v11: πλάνη (planē)  
+
+v11: “Delusion.” Wandering into error.  
+
+v13: ἁγιασμός (hagiasmos)  
+
+v13: “Sanctification.” Being set apart.  
+
+v15: παράδοσις (paradosis)  
+
+v15: “Tradition.” Transmitted teaching.  
+
+v17: στηρίζω (stērizō)  
+
+v17: “To strengthen.” To make firm.  
+
 v06: κατέχω (katechō)
 “To restrain.” To hold back or limit.
 

@@ -73,6 +73,54 @@ v18: The woman is identified as a city, but meaning remains layered.
 
 ##Vocabulary
 
+v1: πόρνη (pornē)
+
+“Prostitute.” Symbol of unfaithfulness or corruption.
+
+v2: πορνεία (porneia)
+
+“Sexual immorality.” Used symbolically for relational unfaithfulness.
+
+v3: ἔρημος (erēmos)
+
+“Wilderness.” Place of exposure or testing.
+
+v4: ποτήριον (potērion)
+
+“Cup.” Vessel containing what is offered or consumed.
+
+v5: μυστήριον (mystērion)
+
+“Mystery.” Something revealed in part.
+
+v6: μεθύω (methyō)
+
+“To be drunk.” State of excess or intoxication.
+
+v8: ἄβυσσος (abyssos)
+
+“Abyss.” Place of confinement or origin.
+
+v10: βασιλεύς (basileus)
+
+“King.” One who rules or holds authority.
+
+v12: κέρας (keras)
+
+“Horn.” Symbol of power.
+
+v14: νικάω (nikaō)
+
+“To conquer.” Victory without method specified.
+
+v17: σκοπός (skopos)
+
+“Purpose.” Intended outcome or aim.
+
+v18: πόλις (polis)
+
+“City.” Organized center of power or influence.
+
 v01: πόρνη (pornē)
 “Prostitute.” Symbol of unfaithfulness or corruption.
 

@@ -125,8 +125,7 @@ v29: “Christ” is confessed without immediate clarification.
 
 ##Vocabulary
 
-v02: σπλαγχνίζομαι (splagchnizomai)
-“To have compassion.”
+v2: σπλαγχνίζομαι (splagchnizomai) — to have compassion.
 
 v12: σημεῖον (sēmeion)
 “Sign.”
@@ -139,3 +138,6 @@ v17: πωρόω (pōroō)
 
 v29: χριστός (christos)
 “Anointed one.”
+
+v02: σπλαγχνίζομαι (splagchnizomai)
+“To have compassion.”

@@ -64,6 +64,61 @@ v20: “I am with you always” — Matthew ends with presence: Emmanuel fulfill
 
 ##Vocabulary
 
+v1: σάββατον (sabbaton) — Sabbath  
+
+v1: ἐπιφώσκω (epiphōskō) — to dawn; to grow light  
+
+v2: σεισμός (seismos) — earthquake; shaking  
+
+v2: ἄγγελος (angelos) — angel; messenger  
+
+v2: ἀποκυλίω (apokyliō) — to roll away  
+
+v3: ἀστραπή (astrapē) — lightning  
+
+v4: σείω (seiō) — to shake; to tremble  
+
+v5: φοβέομαι (phobeomai) — to fear  
+
+v6: ἐγείρω (egeirō) — to raise up  
+
+v7: προάγω (proagō) — to go ahead; to precede  
+
+v8: χαρά (chara) — joy  
+
+v9: προσκυνέω (proskyneō) — to worship; to bow down  
+
+v11: φυλακή (phylakē) — guard; watch  
+
+v12: συμβούλιον (symboulion) — counsel; plotted decision  
+
+v12: ἀργύριον (argyrion) — silver; money  
+
+v13: κλέπτω (kleptō) — to steal  
+
+v15: διαφημίζω (diaphēmizō) — to spread abroad; to circulate (a report)  
+
+v16: οἱ ἕνδεκα (hoi hendeka) — the eleven  
+
+v17: διστάζω (distazō) — to doubt; to hesitate  
+
+v18: ἐξουσία (exousia) — authority; delegated power/right  
+
+v19: μαθητεύω (mathēteuō) — to make disciples  
+
+v19: ἔθνος (ethnos) — nation; people-group  
+
+v19: βαπτίζω (baptizō) — to baptize; to immerse  
+
+v20: τηρέω (tēreō) — to keep; to observe; to guard  
+
+v20: συντέλεια τοῦ αἰῶνος (synteleia tou aiōnos) — end of the age  
+
+v20: μεθ’ ὑμῶν εἰμι (meth’ hymōn eimi) — I am with you  
+
+v20: ἐντέλλομαι (entellomai)
+“To command; to give instruction.”
+
 v01: σάββατον (sabbaton)
 “Sabbath.”
 
@@ -72,6 +127,3 @@ v01: ἐπιφώσκω (epiphōskō)
 
 v02: σεισμός (seismos)
 “Earthquake; shaking.”
-
-v20: ἐντέλλομαι (entellomai)
-“To command; to give instruction.”

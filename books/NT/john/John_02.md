@@ -95,6 +95,53 @@ v23–25: Belief based on signs is distinguished from full trust.
 
 ##Vocabulary
 
+v1: γάμος (gamos)
+
+“Wedding.”
+
+v4: ὥρα (hōra)
+
+“Hour.”
+
+v6: καθαρισμός (katharismos)
+
+“Purification.”
+
+v11: σημεῖον (sēmeion)
+“Sign.”
+
+v14: κολλυβιστής (kollybistēs)
+
+“Money changer.”
+
+v15: φραγέλλιον (phragellion)
+
+“Whip.”
+
+v16: ἐμπόριον (emporion)
+
+“Marketplace.”
+
+v17: ζῆλος (zēlos)
+
+“Zeal.”
+
+v19: ἐγείρω (egeirō)
+
+“To raise.”
+
+v21: σῶμα (sōma)
+
+“Body.”
+
+v24: πιστεύω / πιστεύω εἰς distinction
+
+“To believe / to entrust.”
+
+v25: καρδία (kardia implied)
+
+“Inner self.”
+
 v01: γάμος (gamos)
 “Wedding.”
 
@@ -103,6 +150,3 @@ v04: ὥρα (hōra)
 
 v06: καθαρισμός (katharismos)
 “Purification.”
-
-v11: σημεῖον (sēmeion)
-“Sign.”

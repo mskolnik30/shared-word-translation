@@ -120,6 +120,68 @@ v31: not children of the slave — Final identity claim. Paul closes where he be
 
 ##Vocabulary
 
+v1: κληρονόμος (klēronomos) — heir; one who receives an allotted inheritance, emphasizing status and future possession.  
+
+v1: νήπιος (nēpios) — child/infant; one not yet mature, stressing minority status rather than worth.  
+
+v1: δοῦλος (doulos) — slave/servant; one whose life is under another’s authority, used here as a contrast to heirship.  
+
+v2: ἐπίτροπος (epitropos) — guardian; an overseer appointed to manage a minor’s affairs.  
+
+v2: οἰκονόμος (oikonomos) — steward/house-manager; one entrusted with administration of a household.  
+
+v2: προθεσμία (prothesmia) — appointed time/deadline; a set date established by authority.  
+
+v3: στοιχεῖα (stoicheia) — elemental powers/principles; “basic elements” that can mean cosmic powers, religious structures, or foundational systems that order the world.  
+
+v3: δουλόω (douloō) — to enslave; to bring under binding control.  
+
+v4: πλήρωμα (plērōma) — fullness; completion/fulfillment, suggesting ripeness of God’s timing.  
+
+v4: χρόνος (chronos) — time; ordinary time brought to decisive fulfillment.  
+
+v4: ἐξαποστέλλω (exapostellō) — to send out; mission language with purposeful dispatch.  
+
+v4: νόμος (nomos) — law; covenantal instruction/order, not merely rule-keeping.  
+
+v23: γεννάω (gennaō) — to be born; emphasizes actual human birth.  
+
+v23: σάρξ (sarx) — flesh; human capacity operating apart from God’s promise.  
+
+v23: ἐπαγγελία (epangelia) — promise; God’s initiating word that creates future reality.  
+
+v5: ἐξαγοράζω (exagorazō) — to redeem/buy out; liberation language, implying release from a binding condition.  
+
+v5: υἱοθεσία (huiothesia) — adoption as children; legal placement into family status with inheritance rights.  
+
+v6: πνεῦμα (pneuma) — Spirit; God’s active presence and agency.  
+
+v6: κράζω (krazō) — to cry out; an urgent, voiced appeal rather than quiet reflection.  
+
+v6: Ἀββᾶ (Abba) — “Abba”; an Aramaic address used in prayer, conveying closeness and directness.  
+
+v7: οὐκέτι (ouketi) — no longer; marks a decisive change of status.  
+
+v7: υἱός / τέκνον (huios / teknon) — child/son; family identity language (belonging and inheritance, not gender restriction).  
+
+v9: γινώσκω (ginōskō) — to know; relational knowledge, deepened here by the reversal “to be known by God.”  
+
+v10: παρατηρέω (paratēreō) — to observe carefully; can imply scrupulous or anxious attention to practices.  
+
+v12: μιμέομαι (mimeomai) — to imitate/become like; relational patterning, not mere copying.  
+
+v13: ἀσθένεια (astheneia) — weakness; bodily limitation or vulnerability.  
+
+v17: ζηλόω (zēloō) — to be zealous/eager; can be positive or manipulative depending on intent.  
+
+v19: μορφόω (morphoō) — to form/shape; used of inward formation, here describing Christ taking shape within persons.  
+
+v24: διαθήκη (diathēkē) — covenant; binding relational arrangement initiated by God.  
+
+v26: ἄνω (anō) — above; indicating transcendent origin, not merely spatial elevation.  
+
+v30: ἐκβάλλω (ekballō) — to cast out; forceful removal, underscoring separation of incompatible states.  
+
 v03: στοιχεῖα (stoicheia)
 “Elemental powers/principles.” “basic elements” that can mean cosmic powers, religious structures, or foundational systems that order the world.
 

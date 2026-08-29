@@ -90,6 +90,42 @@ v29–30: Suffering is reframed as participation rather than exception. The shar
 
 ##Vocabulary
 
+v1: δοῦλος (doulos)  
+“Servant” or “slave.” The term indicates total belonging to Christ, redefining identity around allegiance rather than status.  
+
+v5: κοινωνία (koinōnia)  
+“Partnership” or “participation.” Emphasizes shared investment and mutual involvement in the work of the gospel.  
+
+v6: ἐπιτελέω (epiteleō)  
+“To bring to completion.” Suggests an ongoing process carried through to its intended goal by God.  
+
+v7: ἀπολογία (apologia)  
+“Defense.” Often used in legal contexts, indicating formal justification or explanation of the gospel.  
+
+v9: ἐπίγνωσις (epignōsis)  
+“Full knowledge.” Denotes deep, relational understanding rather than mere information.  
+
+v10: δοκιμάζω (dokimazō)  
+“To discern” or “to test.” Implies evaluating and approving what is genuine or of true value.  
+
+v13: πραιτώριον (praitōrion)
+“Imperial guard” or “praetorium.” Refers to the sphere of Roman authority, highlighting the gospel’s reach into centers of power.
+
+v21: κέρδος (kerdos)  
+“Gain.” A term drawn from economic language, reinterpreted to describe the value of being with Christ.  
+
+v23: ἀναλύω (analyō)  
+“To depart.” Often used for loosening or setting free, suggesting release rather than annihilation.  
+
+v27: πολιτεύομαι (politeuomai)  
+“To live as a citizen.” Frames ethical life in terms of communal identity and public witness.  
+
+v29: χαρίζομαι (charizomai)  
+“To grant graciously.” Indicates that both faith and suffering are given as gifts, not earned conditions.  
+
+v30: ἀγών (agōn)  
+“Struggle” or “contest.” Evokes athletic or public conflict, emphasizing endurance within visible opposition.  
+
 v01: δοῦλος (doulos)
 “Servant” or “slave.” The term indicates total belonging to Christ, redefining identity around allegiance rather than status.
 
@@ -98,6 +134,3 @@ v05: κοινωνία (koinōnia)
 
 v07: ἀπολογία (apologia)
 “Defense.” Often used in legal contexts, indicating formal justification or explanation of the gospel.
-
-v13: πραιτώριον (praitōrion)
-“Imperial guard” or “praetorium.” Refers to the sphere of Roman authority, highlighting the gospel’s reach into centers of power.

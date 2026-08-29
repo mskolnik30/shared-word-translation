@@ -207,6 +207,98 @@ v47–49: The foundation metaphor frames obedience as structural, not optional.
 
 ##Vocabulary
 
+v1: στάχυς (stachys)
+
+“Head of grain.”
+
+v2: ἔξεστιν (exestin)
+
+“It is lawful.” What is permitted under the law.
+
+v5: κύριος (kyrios)
+
+“Lord.” Authority-bearing title.
+
+v7: κατηγορία (katēgoria)
+
+“Accusation.” Formal charge.
+
+v9: σῴζω (sōzō)
+
+“To save.” To preserve life.
+
+v11: ἄνοια (anoia)
+
+“Rage, senseless fury.” Irrational anger.
+
+v12: προσευχή (proseuchē)
+
+“Prayer.”
+
+v13: ἀπόστολος (apostolos)
+
+“One sent.”
+
+v19: δύναμις (dynamis)
+
+“Power.”
+
+v20: μακάριος (makarios)
+
+“Blessed.” Fortunate in relation to God’s favor.
+
+v24: οὐαί (ouai)
+
+“Woe.” Pronouncement of lament or warning.
+
+v27: ἀγαπάω (agapaō)
+
+“To love.” Active goodwill.
+
+v29: ἱμάτιον (himation)
+
+“Cloak.”
+
+v29: χιτών (chitōn)
+
+“Tunic.”
+
+v35: υἱοὶ ὑψίστου (huioi hypsistou)
+
+“Sons of the Most High.”
+
+v36: οἰκτίρμων (oiktirmōn)
+
+“Merciful.”
+
+v37: κρίνω (krinō)
+
+“To judge.”
+
+v38: μέτρον (metron)
+
+“Measure.”
+
+v40: μαθητής (mathētēs)
+
+“Disciple.”
+
+v41: κάρφος (karphos)
+
+“Speck.”
+
+v41: δοκός (dokos)
+
+“Beam.”
+
+v45: θησαυρός (thēsauros)
+
+“Treasure.”
+
+v48: θεμέλιος (themelios)
+
+“Foundation.”
+
 v01: στάχυς (stachys)
 “Head of grain.”
 

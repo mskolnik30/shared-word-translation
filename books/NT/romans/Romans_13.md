@@ -65,6 +65,62 @@ v13–14: Moral transformation is expressed through conduct and identity in Chri
 
 ##Vocabulary
 
+v1: ἐξουσία (exousia)
+
+“Authority.”
+
+v2: ἀντιτάσσω (antitassō)
+
+“To resist.”
+
+v3: φόβος (phobos)
+
+“Fear.”
+
+v4: διάκονος (diakonos)
+
+“Servant.”
+
+v4: ἔκδικος (ekdikos)
+
+“Avenger.”
+
+v5: συνείδησις (syneidēsis)
+
+“Conscience.”
+
+v6: φόρος (phoros)
+
+“Tax.”
+
+v8: ἀγαπάω (agapaō)
+
+“To love.”
+
+v9: ἀνακεφαλαιόω (anakephalaiōō)
+
+“To sum up.”
+
+v10: πλήρωμα (plērōma)
+
+“Fulfillment.”
+
+v11: ἐγείρω (egeirō)
+
+“To awaken.”
+
+v12: ὅπλον (hoplon)
+
+“Armor.”
+
+v13: κῶμος (kōmos)
+
+“Revelry.”
+
+v14: πρόνοια (pronoia)
+
+“Provision.”
+
 v01: ἐξουσία (exousia)
 “Authority.”
 

@@ -69,6 +69,57 @@ v16: Confession and action are contrasted.
 
 ##Vocabulary
 
+v1: δοῦλος (doulos)
+
+“Servant.” One belonging to another.
+
+v1: ἐκλεκτός (eklektos)
+
+“Elect.” Chosen ones.
+
+v1: εὐσέβεια (eusebeia)
+
+“Godliness.” Reverent living.
+
+v2: ἐπαγγελία (epangelia)
+
+“Promise.” Declared commitment.
+
+v5: πρεσβύτερος (presbyteros)
+
+“Elder.” Recognized leader.
+
+v7: οἰκονόμος (oikonomos)
+
+“Steward.” Manager of a household.
+
+v8: φιλόξενος (philoxenos)
+
+“Hospitality.” Love of strangers.
+
+v9: διδαχή (didachē)
+
+“Teaching.” Instruction.
+
+v10: ματαιολόγος (mataiologos)
+
+“Empty talker.” One who speaks vainly.
+
+v11: αἰσχροκερδής (aischrokerdēs)
+
+“Greedy for gain.” Seeking profit dishonorably.
+
+v13: ὑγιαίνω (hygiainō)
+
+“To be sound.” To be healthy or correct.
+
+v15: καθαρός (katharos)
+“Pure.” Clean or untainted.
+
+v16: ἀδόκιμος (adokimos)
+
+“Unfit.” Not approved.
+
 v01: δοῦλος (doulos)
 “Servant.” One belonging to another.
 
@@ -77,6 +128,3 @@ v01: ἐκλεκτός (eklektos)
 
 v09: διδαχή (didachē)
 “Teaching.” Instruction.
-
-v15: καθαρός (katharos)
-“Pure.” Clean or untainted.

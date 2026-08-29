@@ -118,14 +118,32 @@ v34: The response of the city is rejection. Power does not compel welcome.
 
 ##Vocabulary
 
-v02: λεπρός (lepros)
-“Leper.” A condition of exclusion as much as disease.
+v2: λεπρός (*lepros*) — “Leper.” A condition of exclusion as much as disease.  
+
+v3: καθαρίζω (*katharizō*) — “To cleanse.” Ritual and physical senses overlap.  
+
+v9: ἐξουσία (*exousia*) — “Authority.” The right or power to command.  
 
 v10: πίστις (pistis)
 “Faith.” Trust expressed through recognition of authority.
 
+v12: σκότος τὸ ἐξώτερον (*skotos to exōteron*) — “Outer darkness.” Image of exclusion.  
+
+v15: διακονέω (*diakoneō*) — “To serve.” Participation restored through healing.  
+
 v16: πνεῦμα (pneuma)
 “Spirit.” Context determines moral character.
 
+v17: ἀσθένεια (*astheneia*) — “Weakness,” “illness.” Broad semantic range retained.  
+
+v20: υἱὸς τοῦ ἀνθρώπου (*huios tou anthrōpou*) — “Son of Man.” Ambiguous, layered title.  
+
+v22: νεκρός (*nekros*) — “Dead.” Literal and figurative senses remain open.  
+
 v26: ὀλιγόπιστος (oligopistos)
 “Of little faith.” Insufficient trust, not its absence.
+
+v29: καιρός (*kairos*) — “Appointed time.” Decisive moment rather than chronological sequence.  
+
+v02: λεπρός (lepros)
+“Leper.” A condition of exclusion as much as disease.

@@ -163,6 +163,79 @@ v41–42: Suffering is reinterpreted as honor; proclamation continues without in
 
 ##Vocabulary
 
+v2: νοσφίζομαι (nosphizomai)  
+
+v2: “To keep back.”  
+
+v3: ψεύδομαι (pseudomai)  
+
+v3: “To lie.”  
+
+v4: ἐξουσία (exousia)  
+
+v4: “Authority.”  
+
+v5: ἐκψύχω (ekpsycho)  
+
+v5: “To breathe one’s last.”  
+
+v11: ἐκκλησία (ekklēsia)
+“Church.”
+
+v11: “Church.”  
+
+v12: τέρας (teras)  
+
+v12: “Wonder.”  
+
+v17: ζῆλος (zēlos)  
+
+v17: “Jealousy.”  
+
+v19: ἄγγελος (angelos)  
+
+v19: “Angel.”  
+
+v20: ῥῆμα (rhēma)  
+
+v20: “Word.”  
+
+v29: πειθαρχέω (peitharcheō)  
+
+v29: “To obey authority.”  
+
+v31: σωτήρ (sōtēr)  
+
+v31: “Savior.”  
+
+v32: μάρτυς (martys)  
+
+v32: “Witness.”  
+
+v33: διαπρίω (diapriō)  
+
+v33: “To be cut to the heart.”  
+
+v34: νομοδιδάσκαλος (nomodidaskalos)  
+
+v34: “Teacher of the law.”  
+
+v39: καταλύω (katalyō)  
+
+v39: “To overthrow.”  
+
+v40: δέρω (derō)  
+
+v40: “To beat.”  
+
+v41: καταξιόω (kataxioō)  
+
+v41: “To consider worthy.”  
+
+v42: εὐαγγελίζω (euangelizō)  
+
+v42: “To proclaim good news.”  
+
 v02: νοσφίζομαι (nosphizomai)
 “To keep back.”
 
@@ -174,6 +247,3 @@ v04: ἐξουσία (exousia)
 
 v05: ἐκψύχω (ekpsycho)
 “To breathe one’s last.”
-
-v11: ἐκκλησία (ekklēsia)
-“Church.”

@@ -57,6 +57,42 @@ v10: Waiting is active expectation. Hope is directed toward a future event groun
 
 ##Vocabulary
 
+v3: ἔργον (ergon)  
+
+v3: “Work.” Action that expresses faith.  
+
+v3: κόπος (kopos)  
+
+v3: “Labor.” Effort involving strain or cost.  
+
+v3: ὑπομονή (hypomonē)  
+
+v3: “Steadfastness.” Endurance over time.  
+
+v4: ἐκλογή (eklogē)  
+
+v4: “Election.” Choice made by God.  
+
+v5: δύναμις (dynamis)  
+
+v5: “Power.” Effective force or action.  
+
+v6: μιμητής (mimētēs)  
+
+v6: “Imitator.” One who follows a pattern.  
+
+v8: ἐξηχέω (exēcheō)  
+
+v8: “To sound forth.” To echo or resound.  
+
+v9: ἐπιστρέφω (epistrephō)  
+
+v9: “To turn.” To change direction or allegiance.  
+
+v10: ῥύομαι (rhyomai)  
+
+v10: “To rescue.” To deliver from danger.  
+
 v03: ἔργον (ergon)
 “Work.” Action that expresses faith.
 

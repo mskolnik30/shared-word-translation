@@ -102,6 +102,65 @@ v18–21: Israel’s rejection fulfills Scripture and opens way for Gentiles.
 
 ##Vocabulary
 
+v2: ζῆλος (zēlos)
+
+“Zeal.”
+
+v3: ὑποτάσσω (hypotassō)
+
+“To submit.”
+
+v4: τέλος (telos)
+
+“End, fulfillment.”
+
+v6: ἀναβαίνω (anabainō)
+
+“To ascend.”
+
+v7: ἄβυσσος (abyssos)
+
+“Abyss.”
+
+v8: ῥῆμα (rhēma)
+
+“Word.”
+
+v9: ὁμολογέω (homologeō)
+
+“To confess.”
+
+v10: στόμα (stoma)
+
+“Mouth.”
+
+v13: ἐπικαλέομαι (epikaleomai)
+
+“To call upon.”
+
+v14: κηρύσσω (kēryssō)
+
+“To proclaim.”
+
+v15: εὐαγγελίζω (euangelizō)
+“To bring good news.”
+
+v16: ὑπακούω (hypakouō)
+
+“To obey.”
+
+v17: ἀκοή (akoē)
+
+“Hearing.”
+
+v19: παραζηλόω (parazēloō)
+
+“To provoke to jealousy.”
+
+v21: ἀπειθέω (apeitheō)
+
+“To be disobedient.”
+
 v02: ζῆλος (zēlos)
 “Zeal.”
 
@@ -110,6 +169,3 @@ v03: ὑποτάσσω (hypotassō)
 
 v04: τέλος (telos)
 “End, fulfillment.”
-
-v15: εὐαγγελίζω (euangelizō)
-“To bring good news.”

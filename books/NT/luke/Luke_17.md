@@ -136,6 +136,90 @@ v37: The final saying emphasizes inevitability and visibility of judgment.
 
 ##Vocabulary
 
+v1: σκάνδαλον (skandalon)
+
+“Stumbling block.”
+
+v2: μύλος ὀνικός (mylos onikos)
+
+“Millstone.”
+
+v3: ἐπιτιμάω (epitimaō)
+
+“To rebuke.”
+
+v4: μετανοέω (metanoeō)
+
+“To repent.”
+
+v5: πίστις (pistis)
+
+“Faith.”
+
+v6: συκάμινος (sykaminos)
+
+“Mulberry tree.”
+
+v8: περιζώννυμι (perizōnnymai)
+
+“To gird.”
+
+v10: ἀχρεῖος (achreios)
+
+“Unworthy, without claim.”
+
+v12: λέπρος (lepros)
+
+“Leper.”
+
+v14: καθαρίζω (katharizō)
+
+“To cleanse.”
+
+v16: εὐχαριστέω (eucharisteō)
+
+“To give thanks.”
+
+v18: ἀλλογενής (allogenēs)
+
+“Foreigner.”
+
+v20: παρατήρησις (paratērēsis)
+
+“Observable signs.”
+
+v21: ἐντός (entos)
+
+“In the midst, within.”
+
+v24: ἀστραπή (astrapē)
+
+“Lightning.”
+
+v25: δεῖ (dei)
+
+“It is necessary.”
+
+v27: κατακλυσμός (kataklysmos)
+
+“Flood.”
+
+v29: θεῖον (theion)
+
+“Sulfur.”
+
+v32: γυνὴ Λώτ (gynē Lōt)
+
+“Lot’s wife.”
+
+v33: ψυχή (psychē)
+
+“Life.”
+
+v37: ἀετός (aetos)
+
+“Vulture.”
+
 v01: σκάνδαλον (skandalon)
 “Stumbling block.”
 

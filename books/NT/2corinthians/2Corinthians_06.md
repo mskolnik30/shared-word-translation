@@ -95,6 +95,27 @@ v16–18: Scriptural citations ground identity in God’s dwelling presence rath
 
 ##Vocabulary
 
+v1: συνεργέω (synergeō)  
+
+v1: “To work together.” Implies participation, not independence.  
+
+v4: ὑπομονή (hypomonē)  
+
+v4: “Endurance.” Steadfast persistence under pressure.  
+
+v8: δόξα (doxa)  
+
+v8: “Honor.” Public recognition or valuation.  
+
+v10: κατέχω (katechō)
+“To possess.” To hold firmly or retain.
+
+v10: “To possess.” To hold firmly or retain.  
+
+v14: ἑτεροζυγέω (heterozygeō)  
+
+v14: “To be mismatched.” Unequal pairing, often in covenantal terms.  
+
 v01: συνεργέω (synergeō)
 “To work together.” Implies participation, not independence.
 
@@ -103,6 +124,3 @@ v04: ὑπομονή (hypomonē)
 
 v08: δόξα (doxa)
 “Honor.” Public recognition or valuation.
-
-v10: κατέχω (katechō)
-“To possess.” To hold firmly or retain.

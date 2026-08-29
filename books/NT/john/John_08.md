@@ -214,6 +214,68 @@ v01–11: John 7:53–8:11 is absent from the earliest and strongest Greek witne
 
 ##Vocabulary
 
+v3: μοιχεία (moicheia)
+
+“Adultery.”
+
+v6: κατηγορέω (katēgoreō)
+
+“To accuse.”
+
+v7: ἀναμάρτητος (anamartētos)
+
+“Without sin.”
+
+v12: φῶς (phōs)
+
+“Light.”
+
+v15: σάρξ (sarx)
+“Flesh.”
+
+v17: μαρτυρία (martyria)
+
+“Testimony.”
+
+v24: ἐγώ εἰμι (egō eimi)
+
+“I am.”
+
+v31: μένω (menō)
+
+“To remain.”
+
+v32: ἀλήθεια (alētheia)
+“Truth.”
+
+v34: δοῦλος (doulos)
+
+“Slave.”
+
+v36: ἐλευθερόω (eleutheroō)
+
+“To set free.”
+
+v44: διάβολος (diabolos)
+
+“Devil.”
+
+v46: ἐλέγχω (elenchō)
+
+“To convict.”
+
+v51: τηρέω (tēreō)
+
+“To keep.”
+
+v56: ἀγαλλιάω (agalliaō)
+
+“To rejoice greatly.”
+
+v58: εἰμί (eimi)
+
+“To be.”
+
 v03: μοιχεία (moicheia)
 “Adultery.”
 
@@ -222,9 +284,3 @@ v06: κατηγορέω (katēgoreō)
 
 v07: ἀναμάρτητος (anamartētos)
 “Without sin.”
-
-v15: σάρξ (sarx)
-“Flesh.”
-
-v32: ἀλήθεια (alētheia)
-“Truth.”

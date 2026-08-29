@@ -134,6 +134,70 @@ v34–35: Legal process is deferred pending formal accusation.
 
 ##Vocabulary
 
+v1: συνείδησις (syneidēsis)  
+
+v1: “Conscience.”  
+
+v3: κονιάω (koniaō)  
+
+v3: “To whitewash.”  
+
+v6: ἀνάστασις (anastasis)  
+
+v6: “Resurrection.”  
+
+v7: στάσις (stasis)  
+
+v7: “Dissension.”  
+
+v8: Σαδδουκαῖος (Saddoukaios)  
+
+v8: “Sadducee.”  
+
+v8: Φαρισαῖος (Pharisaios)  
+
+v8: “Pharisee.”  
+
+v11: θαρσέω (tharseō)  
+
+v11: “To take courage.”  
+
+v14: ἀνάθεμα (anathema)  
+
+v14: “Curse.”  
+
+v13: συνωμοσία (synōmosia)  
+
+v13: “Conspiracy.”  
+
+v16: ἐνέδρα (enedra)  
+
+v16: “Ambush.”  
+
+v19: κατ’ ἰδίαν  
+
+v19: “In private.”  
+
+v23: στρατιώτης (stratiōtēs)  
+
+v23: “Soldier.”  
+
+v24: ἡγεμών (hēgemōn)  
+
+v24: “Governor.”  
+
+v26: κράτιστος (kratistos)  
+
+v26: “Most excellent.”  
+
+v17: ἀπάγω (apagō)  
+
+v17: “To bring away.”  
+
+v35: πραιτώριον (praitōrion)  
+
+v35: “Praetorium.”  
+
 v01: συνείδησις (syneidēsis)
 “Conscience.”
 

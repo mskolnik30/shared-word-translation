@@ -53,14 +53,58 @@ v16: “draw near with confidence… throne of grace” — The climax is invita
 
 ##Vocabulary
 
+v1: κατάπαυσις (katapausis) — rest; cessation; settled rest  
+
+v1: ἐπαγγελία (epangelia) — promise  
+
+v2: εὐαγγελίζω (euangelizō) — to proclaim good news  
+
+v2: πίστις (pistis) — trust; faithfulness (context determines nuance)  
+
+v6: ἀπείθεια (apeitheia) — disobedience; refusal to be persuaded  
+
+v7: σήμερον (sēmeron) — today  
+
+v7: σκληρύνω (sklērynō) — to harden  
+
+v9: σαββατισμός (sabbatismos) — Sabbath rest; Sabbath observance  
+
+v11: σπουδάζω (spoudazō) — to make every effort; to be eager; to strive  
+
+v12: λόγος (logos) — word; message  
+
+v12: ζάω (zaō) — to live  
+
+v12: ἐνεργής (energēs) — active; effective; at work  
+
+v12: κριτικός (kritikos) — discerning; able to judge/evaluate  
+
+v12: ἔννοια (ennoia) — thought; intention; purpose  
+
+v13: γυμνός (gymnos) — naked; exposed  
+
+v13: τετραχηλισμένος (tetrachēlismenos) — laid bare; exposed (throat-bared imagery)  
+
+v14: ὁμολογία (homologia) — confession; public acknowledgment  
+
+v14: ἀρχιερεύς (archiereus)
+“High priest.”
+
+v15: συμπαθέω (sympatheō) — to sympathize; to share suffering/weakness  
+
+v16: παρρησία (parrēsia) — confidence; boldness of access/speech  
+
+v16: θρόνος (thronos) — throne  
+
+v16: ἔλεος (eleos) — mercy  
+
+v16: εὔκαιρος (eukairos) — timely; well-timed; opportune  
+
+v16: χάρις (charis)
+“Grace; favor; gift.”
+
 v02: εὐαγγελίζω (euangelizō)
 “To proclaim good news.”
 
 v02: πίστις (pistis)
 “Trust; faithfulness (context determines nuance).”
-
-v14: ἀρχιερεύς (archiereus)
-“High priest.”
-
-v16: χάρις (charis)
-“Grace; favor; gift.”

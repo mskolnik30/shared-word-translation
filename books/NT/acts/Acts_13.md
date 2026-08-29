@@ -201,6 +201,71 @@ v52: Joy and Spirit persist amid opposition.
 
 ##Vocabulary
 
+v2: ἀφορίζω (aphorizō)  
+
+v2: “To set apart.”  
+
+v5: ὑπηρέτης (hypēretēs)  
+
+v5: “Assistant.”  
+
+v6: μάγος (magos)  
+
+v6: “Magician.”  
+
+v8: διαστρέφω (diastrephō)  
+
+v8: “To pervert.”  
+
+v11: ἀχλύς (achlys)
+“Mist.”
+
+v11: “Mist.”  
+
+v15: παράκλησις (paraklēsis)  
+
+v15: “Encouragement.”  
+
+v23: σωτήρ (sōtēr)  
+
+v23: “Savior.”  
+
+v24: βάπτισμα (baptisma)  
+
+v24: “Baptism.”  
+
+v34: ἀνίστημι (anistēmi)  
+
+v34: “To raise.”  
+
+v38: ἄφεσις (aphesis)  
+
+v38: “Forgiveness.”  
+
+v39: δικαιόω (dikaioō)  
+
+v39: “To justify.”  
+
+v45: βλασφημέω (blasphēmeō)  
+
+v45: “To revile.”  
+
+v47: φῶς (phōs)  
+
+v47: “Light.”  
+
+v48: τάσσω (tassō)  
+
+v48: “To appoint.”  
+
+v50: διωγμός (diōgmos)  
+
+v50: “Persecution.”  
+
+v51: ἐκτινάσσω (ektinassō)  
+
+v51: “To shake off.”  
+
 v02: ἀφορίζω (aphorizō)
 “To set apart.”
 
@@ -212,6 +277,3 @@ v06: μάγος (magos)
 
 v08: διαστρέφω (diastrephō)
 “To pervert.”
-
-v11: ἀχλύς (achlys)
-“Mist.”

@@ -146,6 +146,70 @@ v29: This verse is absent from the earliest and strongest Greek witnesses; later
 
 ##Vocabulary
 
+v2: φιλανθρωπία (philanthrōpia)  
+
+v2: “Kindness.”  
+
+v3: ἔχιδνα (echidna)  
+
+v3: “Viper.”  
+
+v4: δίκη (dikē)  
+
+v4: “Justice.”  
+
+v5: ἀποτινάσσω (apotinassō)  
+
+v5: “To shake off.”  
+
+v7: πρῶτος (prōtos)  
+
+v7: “Chief.”  
+
+v8: πυρετός (pyretos)  
+
+v8: “Fever.”  
+
+v9: θεραπεύω (therapeuō)  
+
+v9: “To heal.”  
+
+v11: Διόσκουροι (Dioskouroi)  
+
+v11: “Twin Gods.”  
+
+v14: ἀπαντάω (apantaō)  
+
+v15: “To meet.”  
+
+v15: θαρσέω (tharseō)  
+
+v15: “To take courage.”  
+
+v16: δεσμώτης (desmōtēs)  
+
+v17: “Prisoner.”  
+
+v20: ἅλυσις (halysis)  
+
+v20: “Chain.”  
+
+v23: πείθω (peithō)  
+
+v23: “To persuade.”  
+
+v25: ἀσύμφωνος (asymphōnos)  
+
+v25: “In disagreement.”  
+
+v28: σωτήριον (sōtērion)  
+
+v28: “Salvation.”  
+
+v31: ἀκωλύτως (akōlytōs)  
+
+v31: “Without hindrance.”  
+
 v02: φιλανθρωπία (philanthrōpia)
 “Kindness.”
 

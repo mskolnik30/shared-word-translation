@@ -122,6 +122,54 @@ v29: Inheritance follows belonging. Promise, not law, defines heirs.
 
 ##Vocabulary
 
+v1: βασκαίνω (baskainō)  
+
+v1: “To bewitch.” To influence in a way that distorts perception.  
+
+v2: ἀκοή (akoē)  
+
+v2: “Hearing.” Reception of a message, often implying response.  
+
+v3: σάρξ (sarx)  
+
+v3: “Flesh.” Here indicating human effort apart from the Spirit.  
+
+v6: λογίζομαι (logizomai)  
+
+v6: “To count” or “reckon.” To regard or credit.  
+
+v10: κατάρα (katara)  
+
+v10: “Curse.” A state of being under judgment.  
+
+v13: ἐξαγοράζω (exagorazō)  
+
+v13: “To redeem.” To buy back or release from bondage.  
+
+v14: ἐπαγγελία (epangelia)  
+
+v14: “Promise.” A declared commitment.  
+
+v19: μεσίτης (mesitēs)  
+
+v19: “Mediator.” One who stands between parties.  
+
+v22: συγκλείω (synkleiō)  
+
+v22: “To imprison.” To confine or enclose.  
+
+v24: παιδαγωγός (paidagōgos)  
+
+v24: “Guardian.” A supervisor or custodian over a child.  
+
+v27: ἐνδύω (endyō)  
+
+v27: “To clothe.” To put on, often metaphorically.  
+
+v28: εἷς (heis)  
+
+v28: “One.” Unity that holds difference within it.  
+
 v01: βασκαίνω (baskainō)
 “To bewitch.” To influence in a way that distorts perception.
 

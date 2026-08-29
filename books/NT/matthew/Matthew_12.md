@@ -171,17 +171,41 @@ v48–50: Kinship is redefined around obedience; relational identity is reconsti
 
 ##Vocabulary
 
-v01: σάββατον (sabbaton)
-“Sabbath.” Time set apart; contested in practice.
+v1: σάββατον (*sabbaton*) — “Sabbath.” Time set apart; contested in practice.  
 
-v07: ἔλεος (eleos)
-“Mercy.” Active covenant loyalty.
+v4: ἄρτοι τῆς προθέσεως (*artoi tēs protheseōs*) — “Bread of the Presence.” Cultic bread set before God.  
+
+v7: ἔλεος (*eleos*) — “Mercy.” Active covenant loyalty.  
+
+v8: κύριος (*kyrios*) — “Lord.” Authority designation; here over Sabbath itself.  
+
+v12: καλῶς ποιεῖν (*kalōs poiein*) — “To do good.” Ethical action as lawful fulfillment.  
+
+v18: παῖς (*pais*) — “Servant,” “child.” Dual nuance retained.  
+
+v24: Βεελζεβούλ (*Beelzeboul*) — Name associated with demonic rule.  
 
 v28: πνεῦμα θεοῦ (pneuma theou)
 “Spirit of God.” Agent of divine action.
+
+v29: ἰσχυρός (*ischyros*) — “Strong man.” Image of guarded power.  
+
+v31: βλασφημία (*blasphēmia*) — “Blasphemy.” Speech that misrepresents divine reality.  
+
+v33: καρπός (*karpos*) — “Fruit.” Outcome revealing source.  
+
+v36: ῥῆμα ἀργόν (*rhēma argon*) — “Careless word.” Speech lacking purpose or weight.  
 
 v40: καρδία τῆς γῆς (kardia tēs gēs)
 “Heart of the earth.” Idiom of burial depth.
 
 v43: ἀνάπαυσις (anapausis)
 “Rest.” Desired but not attained by the spirit.
+
+v50: θέλημα (*thelēma*) — “Will.” Expressed intention of the Father.  
+
+v01: σάββατον (sabbaton)
+“Sabbath.” Time set apart; contested in practice.
+
+v07: ἔλεος (eleos)
+“Mercy.” Active covenant loyalty.

@@ -49,6 +49,58 @@ v14: “trained by practice” — Discernment is cultivated skill, developed th
 
 ##Vocabulary
 
+v1: ἀρχιερεύς (archiereus) — high priest  
+
+v1: καθίστημι (kathistēmi) — to appoint; to set in place  
+
+v1: θυσία (thysia) — sacrifice  
+
+v2: μετριοπαθέω (metriopatheō) — to deal gently; to show measured compassion  
+
+v2: ἀσθένεια (astheneia) — weakness; frailty  
+
+v4: τιμή (timē) — honor  
+
+v4: καλέω (kaleō) — to call; to summon  
+
+v5: δοξάζω (doxazō) — to glorify; to confer honor  
+
+v6: τάξις (taxis) — order; arrangement (as in “order of Melchizedek”)  
+
+v6: Μελχισεδέκ (Melchisedek) — Melchizedek  
+
+v7: ἱκετηρία (hikētēria) — supplication; plea  
+
+v7: εὐλάβεια (eulabeia) — reverent devotion; godly fear  
+
+v8: ὑπακοή (hypakoē) — obedience; attentive hearing  
+
+v8: πάσχω (paschō) — to suffer  
+
+v9: τελειόω (teleioō) — to make complete; to perfect; to bring to full qualification  
+
+v9: αἴτιος (aitios) — source; cause; author  
+
+v9: σωτηρία (sōtēria) — salvation; deliverance  
+
+v10: προσαγορεύω (prosagoreuō) — to designate; to address as  
+
+v11: νωθρός (nōthros) — dull; sluggish; lazy  
+
+v12: διδάσκαλος (didaskalos) — teacher  
+
+v12: στοιχεῖον (stoicheion) — basic principle; elemental teaching  
+
+v12: γάλα (gala) — milk  
+
+v12: στερεὰ τροφή (sterea trophē) — solid food  
+
+v14: αἰσθητήριον (aisthētērion) — faculties; powers of perception/discernment  
+
+v14: γυμνάζω (gymnazō) — to train; to exercise  
+
+v14: διάκρισις (diakrisis) — discernment; distinguishing  
+
 v01: ἀρχιερεύς (archiereus)
 “High priest.”
 

@@ -170,6 +170,60 @@ v45–47: Public piety is exposed when paired with exploitation.
 
 ##Vocabulary
 
+v2: ἐξουσία (exousia)
+
+“Authority.”
+
+v5: διαλογίζομαι (dialogizomai)
+
+“To reason.”
+
+v9: ἀμπελών (ampelōn)
+
+“Vineyard.”
+
+v13: υἱὸς ἀγαπητός (huios agapētos)
+“Beloved son.”
+
+v17: ἀκρογωνιαῖος (akrogōniaios)
+
+“Cornerstone.”
+
+v20: ἐγκαθέτος (enkathetos)
+
+“Spy.”
+
+v23: πανουργία (panourgia)
+
+“Craftiness.”
+
+v24: δηνάριον (dēnarion)
+
+“Denarius.”
+
+v27: Σαδδουκαῖος (Saddoukaios)
+
+“Sadducee.”
+
+v35: ἀνάστασις (anastasis)
+“Resurrection.”
+
+v36: ἰσάγγελος (isangelos)
+
+“Equal to angels.”
+
+v38: ζάω (zaō)
+
+“To live.”
+
+v42: κάθου (kathou)
+
+“Sit.”
+
+v47: κατάκριμα (katakrima)
+
+“Condemnation.”
+
 v02: ἐξουσία (exousia)
 “Authority.”
 
@@ -178,9 +232,3 @@ v05: διαλογίζομαι (dialogizomai)
 
 v09: ἀμπελών (ampelōn)
 “Vineyard.”
-
-v13: υἱὸς ἀγαπητός (huios agapētos)
-“Beloved son.”
-
-v35: ἀνάστασις (anastasis)
-“Resurrection.”

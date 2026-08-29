@@ -88,6 +88,46 @@ v21: The exchange is stated starkly. Paul does not explain how this occurs, pres
 
 ##Vocabulary
 
+v1: σκῆνος (skēnos)  
+
+v1: “Tent.” A temporary dwelling, emphasizing fragility and transience.  
+
+v4: καταπίνω (katapinō)  
+
+v4: “To swallow up.” Suggests being overtaken or absorbed completely.  
+
+v5: ἀρραβών (arrabōn)  
+
+v5: “First pledge” or “down payment.” A guarantee of what is to come.  
+
+v7: πίστις (pistis)  
+
+v7: “Faith.” Trust or reliance, contrasted here with visible evidence.  
+
+v10: βῆμα (bēma)  
+
+v10: “Judgment seat.” A place of evaluation or decision.  
+
+v14: συνέχω (synechō)  
+
+v14: “To compel” or “to constrain.” Indicates a force that holds or drives action.  
+
+v17: καινὴ κτίσις (kainē ktisis)  
+
+v17: “New creation.” Not merely renewal but newness of being.  
+
+v18: καταλλάσσω (katallassō)  
+
+v18: “To reconcile.” To restore relationship or remove enmity.  
+
+v21: ἁμαρτία (hamartia)  
+
+v21: “Sin.” Can denote both condition and act; here used in a dense, representative sense.  
+
+v21: δικαιοσύνη (dikaiosynē)  
+
+v21: “Righteousness.” Right relation or standing before God.  
+
 v01: σκῆνος (skēnos)
 “Tent.” A temporary dwelling, with a sense of fragility and transience.
 

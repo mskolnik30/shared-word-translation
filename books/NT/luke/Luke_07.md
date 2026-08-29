@@ -185,17 +185,81 @@ v48–50: Authority to forgive sins is again central; faith is named as the mean
 
 ##Vocabulary
 
-v09: πίστις (pistis)
+v2: ἔντιμος (entimos)
+
+“Valuable, honored.” Held in esteem.
+
+v7: λόγος (logos)
+
+“Word.” Speech that effects healing.
+
+v8: ἐξουσία (exousia)
+
+“Authority.” Structured power to command.
+
+v9: πίστις (pistis)
+
 “Faith.” Trust oriented toward Jesus’ authority.
 
 v13: σπλαγχνίζομαι (splagchnizomai)
 “To have compassion.” Deep inward movement of mercy.
 
+v14: ἅπτομαι (haptomai)
+
+“To touch.” Often implies contact with impurity or power.
+
+v16: ἐπισκέπτομαι (episkeptomai)
+
+“To visit.” Divine visitation with saving intent.
+
 v22: εὐαγγελίζω (euangelizō)
 “To proclaim good news.”
+
+v23: σκανδαλίζω (skandalizō)
+
+“To be offended, stumble.”
+
+v27: ἄγγελος (angelos)
+
+“Messenger.”
 
 v28: βασιλεία (basileia)
 “Kingdom.” God’s reign.
 
+v30: βουλή (boulē)
+
+“Purpose, counsel.” Divine intention.
+
+v33: δαιμόνιον (daimonion)
+
+“Demon.”
+
+v34: φίλος (philos)
+
+“Friend.” One associated closely.
+
+v41: δανειστής (daneistēs)
+
+“Creditor.”
+
 v42: χαρίζομαι (charizomai)
 “To forgive freely.” To grant grace without repayment.
+
+v44: ὕδωρ (hydōr)
+
+“Water.” Element of hospitality.
+
+v47: ἀφίημι (aphiēmi)
+
+“To forgive.”
+
+v50: σῴζω (sōzō)
+
+“To save, restore.”
+
+v50: εἰρήνη (eirēnē)
+
+“Peace.” State of wholeness and reconciliation.
+
+v09: πίστις (pistis)
+“Faith.” Trust oriented toward Jesus’ authority.

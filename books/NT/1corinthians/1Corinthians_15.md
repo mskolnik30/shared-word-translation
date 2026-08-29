@@ -199,6 +199,79 @@ v58: Resurrection hope grounds perseverance.
 
 ##Vocabulary
 
+v3: παραδίδωμι (paradidōmi)  
+
+v3: “To deliver.”  
+
+v4: ἐγείρω (egeirō)  
+
+v4: “To raise.”  
+
+v6: ὀφθάνομαι (ophthanomai)  
+
+v5: “To appear.”  
+
+v9: ἐλάχιστος (elachistos)  
+
+v9: “Least.”  
+
+v12: ἀνάστασις (anastasis)
+“Resurrection.”
+
+v12: “Resurrection.”  
+
+v14: κενός (kenos)  
+
+v14: “Empty.”  
+
+v17: μάταιος (mataios)  
+
+v17: “Futile.”  
+
+v20: ἀπαρχή (aparchē)  
+
+v20: “Firstfruits.”  
+
+v24: καταργέω (katargeō)  
+
+v24: “To abolish.”  
+
+v26: ἔσχατος (eschatos)  
+
+v26: “Last.”  
+
+v35: σῶμα (sōma)  
+
+v35: “Body.”  
+
+v42: φθορά (phthora)  
+
+v42: “Corruption.”  
+
+v44: ψυχικός (psychikos)  
+
+v44: “Natural.”  
+
+v44: πνευματικός (pneumatikos)  
+
+v44: “Spiritual.”  
+
+v51: μυστήριον (mystērion)  
+
+v51: “Mystery.”  
+
+v52: ἄτομος (atomos)  
+
+v52: “Moment.”  
+
+v53: ἀθανασία (athanasia)  
+
+v53: “Immortality.”  
+
+v57: νῖκος (nikos)  
+
+v57: “Victory.”  
+
 v03: παραδίδωμι (paradidōmi)
 “To deliver.”
 
@@ -210,6 +283,3 @@ v06: ὁράω (horaō)
 
 v09: ἐλάχιστος (elachistos)
 “Least.”
-
-v12: ἀνάστασις (anastasis)
-“Resurrection.”

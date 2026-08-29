@@ -81,6 +81,64 @@ v21: Mourning replaces triumph. Failure to repent remains unresolved at the chap
 
 ##Vocabulary
 
+v1: ὀπτασία (optasia)  
+“Vision.” A supernatural sight or appearance.  
+
+v1: ἀποκάλυψις (apokalypsis)  
+“Revelation.” Disclosure of what is hidden.  
+
+v2: ἁρπάζω (harpazō)  
+“To be caught up.” Sudden or forceful taking.  
+
+v2: τρίτος οὐρανός (tritos ouranos)  
+“Third heaven.” A layered conception of heaven.  
+
+v4: παράδεισος (paradeisos)  
+“Paradise.” A place of divine presence or blessedness.  
+
+v5: καυχάομαι (kauchaomai)  
+“To boast.” To speak with confidence or pride.  
+
+v7: σκόλοψ (skolops)  
+“Thorn.” A sharp object causing ongoing distress.  
+
+v7: ἄγγελος Σατανᾶ (angelos Satana)  
+“Messenger of Satan.” An agent of affliction.  
+
+v8: παρακαλέω (parakaleō)  
+“To plead” or “to appeal.”  
+
+v9: χάρις (charis)  
+“Grace.” Unmerited favor or sustaining gift.  
+
+v9: δύναμις (dynamis)  
+“Power.” Often divine effectiveness.  
+
+v9: τελέω (teleō)  
+“To bring to completion.” To reach intended end.  
+
+v10: ἀσθένεια (astheneia)  
+“Weakness.” Lack of strength, often physical or social.  
+
+v12: σημεῖον (sēmeion)  
+“Sign.” An act pointing beyond itself.  
+
+v15: δαπανάω (dapanaō)  
+“To spend.” To expend resources.  
+
+v15: δαπανάομαι (dapanaomai)  
+
+v15: “To be spent.” Passive or reflexive form emphasizing self-giving.  
+
+v19: οἰκοδομή (oikodomē)  
+“Building up.” Edification of the community.  
+
+v20: ζῆλος (zēlos)  
+“Jealousy.” Intense desire that can lead to conflict.  
+
+v21: μετάνοια (metanoia)  
+“Repentance.” A change of mind and direction.  
+
 v01: ὀπτασία (optasia)
 “Vision.” A supernatural sight or appearance.
 

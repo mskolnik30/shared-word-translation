@@ -194,7 +194,8 @@ v55: The return of spirit emphasizes full restoration, not mere resuscitation.
 
 ##Vocabulary
 
-v01: εὐαγγελίζω (euangelizō)
+v1: εὐαγγελίζω (euangelizō)
+
 “To proclaim good news.”
 
 v10: μυστήριον (mystērion)
@@ -203,8 +204,39 @@ v10: μυστήριον (mystērion)
 v12: σῴζω (sōzō)
 “To save.”
 
+v13: πειρασμός (peirasmos)
+
+“Testing.”
+
+v15: ὑπομονή (hypomonē)
+
+“Endurance.”
+
+v24: ἐπιτιμάω (epitimaō)
+
+“To rebuke.”
+
+v30: λεγιών (legiōn)
+
+“Legion.”
+
+v31: ἄβυσσος (abyssos)
+
+“Abyss.”
+
+v35: σωφρονέω (sōphroneō)
+
+“To be of sound mind.”
+
+v46: δύναμις (dynamis)
+
+“Power.”
+
 v48: πίστις (pistis)
 “Faith.”
 
 v55: πνεῦμα (pneuma)
 “Spirit.”
+
+v01: εὐαγγελίζω (euangelizō)
+“To proclaim good news.”

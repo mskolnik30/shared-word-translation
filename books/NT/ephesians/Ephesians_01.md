@@ -95,6 +95,46 @@ v22–23: The church is described as “body” and “fullness,” linking Chri
 
 ##Vocabulary
 
+v4: ἐκλέγομαι (eklegomai)  
+
+v4: “To choose.” Selection grounded in purpose.  
+
+v5: προορίζω (proorizō)  
+
+v5: “To predestine.” To determine beforehand.  
+
+v7: ἀπολύτρωσις (apolytrōsis)  
+
+v7: “Redemption.” Release through payment or action.  
+
+v9: μυστήριον (mystērion)  
+
+v9: “Mystery.” A revealed purpose previously hidden.  
+
+v10: ἀνακεφαλαιόω (anakephalaiō)  
+
+v10: “To sum up.” To bring together under one head.  
+
+v11: κληρόω (klēroō)  
+
+v11: “To assign by lot.” To receive as inheritance.  
+
+v13: σφραγίζω (sphragizō)  
+
+v13: “To seal.” To mark as belonging or secure.  
+
+v14: ἀρραβών (arrabōn)  
+
+v14: “First pledge.” A guarantee of what is to come.  
+
+v18: καρδία (kardia)  
+
+v18: “Heart.” Center of perception and understanding.  
+
+v23: πλήρωμα (plērōma)  
+
+v23: “Fullness.” That which fills or completes.  
+
 v04: ἐκλέγομαι (eklegomai)
 “To choose.” Selection grounded in purpose.
 

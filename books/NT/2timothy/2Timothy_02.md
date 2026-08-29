@@ -111,6 +111,46 @@ v26: Deception is described as captivity, requiring awakening.
 
 ##Vocabulary
 
+v1: ἐνδυναμόω (endynamoō)  
+
+v1: “To be strengthened.” Empowered.  
+
+v2: παρατίθημι (paratithēmi)  
+
+v2: “To entrust.” Commit to another.  
+
+v9: κακοπαθέω (kakopatheō)  
+
+v9: “To suffer hardship.” Endure difficulty.  
+
+v9: δεσμός (desmos)  
+
+v9: “Chains.” Physical restraint.  
+
+v5: ἀθλέω (athleō)  
+
+v5: “To compete.” Engage in contest.  
+
+v11: συναποθνῄσκω (synapothnēskō)  
+
+v11: “To die with.” Shared death.  
+
+v15: ὀρθοτομέω (orthotomeō)  
+
+v15: “To rightly handle.” Cut straight.  
+
+v17: γάγγραινα (gangraina)  
+
+v17: “Gangrene.” Spreading corruption.  
+
+v21: καθαρίζω (katharizō)  
+
+v21: “To cleanse.” Purify.  
+
+v26: ἀνανήφω (ananēphō)  
+
+v26: “To come to one’s senses.” Recover clarity.  
+
 v01: ἐνδυναμόω (endynamoō)
 “To be strengthened.” Empowered.
 

@@ -78,6 +78,49 @@ v17: The focus shifts from the woman to her offspring without transition.
 
 ##Vocabulary
 
+v1: σημεῖον (sēmeion)
+
+“Sign.” Indicator pointing beyond itself.
+
+v3: δράκων (drakōn)
+
+“Dragon.” A symbolic adversary, not defined by species.
+
+v4: σύρω (syro)
+
+“To sweep” or “drag.” Forceful movement.
+
+v5: ποιμαίνω (poimainō)
+
+“To rule” or “shepherd.” Authority expressed as guidance or control.
+
+v6: ἔρημος (erēmos)
+
+“Wilderness.” Place of isolation and provision.
+
+v7: πόλεμος (polemos)
+
+“War.” Conflict without specified form.
+
+v9: διάβολος (diabolos)
+
+“Slanderer” or “devil.” One who accuses or opposes.
+
+v10: κατήγωρ (katēgor)
+
+“Accuser.” One who brings charges.
+
+v11: μαρτυρία (martyria)
+“Testimony.” Witness borne publicly.
+
+v14: καιρός (kairos)
+
+“Time.” Appointed or significant period.
+
+v17: σπέρμα (sperma)
+
+“Offspring.” Descendants or continuation.
+
 v01: σημεῖον (sēmeion)
 “Sign.” Indicator pointing beyond itself.
 
@@ -86,6 +129,3 @@ v03: δράκων (drakōn)
 
 v04: σύρω (syro)
 “To sweep” or “drag.” Forceful movement.
-
-v11: μαρτυρία (martyria)
-“Testimony.” Witness borne publicly.

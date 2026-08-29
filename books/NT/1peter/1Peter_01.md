@@ -104,6 +104,58 @@ v24–25: Human transience contrasts with enduring word.
 
 ##Vocabulary
 
+v1: παρεπίδημος (parepidēmos)  
+
+v1: “Exile.” One residing temporarily.  
+
+v2: πρόγνωσις (prognōsis)  
+
+v2: “Foreknowledge.” Prior awareness or determination.  
+
+v3: ἀναγεννάω (anagennaō)  
+
+v3: “To be born again.” To be brought to new life.  
+
+v4: κληρονομία (klēronomia)  
+
+v4: “Inheritance.” What is received.  
+
+v7: δοκιμάζω (dokimazō)  
+
+v7: “To test.” To examine or prove.  
+
+v8: ἀνεκλάλητος (aneklalētos)  
+
+v8: “Inexpressible.” Beyond speech.  
+
+v10: ἐξερευνάω (exereunaō)  
+
+v10: “To search out.” To investigate thoroughly.  
+
+v13: νήφω (nēphō)  
+
+v13: “To be sober-minded.” To be clear and controlled.  
+
+v15: ἅγιος (hagios)  
+
+v15: “Holy.” Set apart.  
+
+v18: λυτρόω (lytroō)  
+
+v18: “To ransom.” To release by payment.  
+
+v22: φιλαδελφία (philadelphia)  
+
+v22: “Brotherly love.” Affection among kin.  
+
+v23: σπέρμα (sperma)  
+
+v23: “Seed.” Source of life or origin.  
+
+v25: ῥῆμα (rhēma)  
+
+v25: “Word.” Spoken message.  
+
 v01: παρεπίδημος (parepidēmos)
 “Exile.” One residing temporarily.
 

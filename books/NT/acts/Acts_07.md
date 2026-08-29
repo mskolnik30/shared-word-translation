@@ -125,6 +125,37 @@ v59–60: Stephen’s final words echo Jesus’ own, linking witness and imitati
 
 ##Vocabulary
 
+v2: δόξα (doxa)  
+“Glory.” Denotes divine presence and radiance; often associated with revelation.  
+
+v5: κληρονομία (klēronomia)  
+“Inheritance.” A promised possession, not yet realized.  
+
+v9: φθόνος (phthonos)  
+“Jealousy.” A destructive response to another’s favor or status.  
+
+v20: ἀστεῖος (asteios)  
+“Beautiful.” Connotes favor or attractiveness, here before God.  
+
+v25: σωτηρία (sōtēria)
+“Salvation.” Deliverance or rescue; here anticipated through Moses.
+
+v35: λυτρωτής (lytrōtēs)  
+“Redeemer.” One who delivers or liberates, often at cost.  
+
+v38: λόγια ζῶντα (logia zōnta)  
+“Living oracles.” Words that carry ongoing vitality and authority.  
+
+v51: σκληροτράχηλος (sklērotrachēlos)  
+
+v51: “Stiff-necked.” Resistant, unwilling to yield.  
+
+v55: πνεῦμα ἅγιον (pneuma hagion)
+“Holy Spirit.” The active presence of God, here empowering vision.
+
+v56: υἱὸς τοῦ ἀνθρώπου (huios tou anthrōpou)  
+“Son of Man.” A title with layered meaning, left unexplained within the text.  
+
 v02: δόξα (doxa)
 “Glory.” Honor, splendor, or manifest radiance; here in the title “God of glory.”
 
@@ -133,9 +164,3 @@ v05: κληρονομία (klēronomia)
 
 v09: φθόνος (phthonos)
 “Jealousy.” A destructive response to another’s favor or status.
-
-v25: σωτηρία (sōtēria)
-“Salvation.” Deliverance or rescue; here anticipated through Moses.
-
-v55: πνεῦμα ἅγιον (pneuma hagion)
-“Holy Spirit.” The active presence of God, here empowering vision.

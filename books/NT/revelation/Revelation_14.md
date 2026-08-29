@@ -83,6 +83,50 @@ v20: The scale is extreme and unqualified.
 
 ##Vocabulary
 
+v1: ὄρος Σιών (oros Siōn)
+
+“Mount Zion.” Symbolic location of divine presence.
+
+v3: ᾠδή (ōdē)
+
+“Song.” A structured expression of praise or declaration.
+
+v4: ἀπαρχή (aparchē)
+
+“Firstfruits.” Initial portion representing the whole.
+
+v6: εὐαγγέλιον (euangelion)
+
+“Gospel.” Good news, here described as eternal.
+
+v7: φοβέομαι (phobeomai)
+
+“To fear.” Reverence or recognition of authority.
+
+v8: Βαβυλών (Babylōn)
+
+“Babylon.” Symbol of opposition or corruption.
+
+v10: θυμός (thymos)
+
+“Wrath.” Intense expression of anger.
+
+v12: ὑπομονή (hypomonē)
+
+“Endurance.” Steadfast persistence.
+
+v14: δρέπανον (drepanon)
+
+“Sickle.” Tool for harvesting.
+
+v19: ληνός (lēnos)
+
+“Winepress.” Instrument of crushing, here symbolic.
+
+v20: στάδιον (stadion)
+
+“A measure of distance.” Used to express extent.
+
 v01: ὄρος Σιών (oros Siōn)
 “Mount Zion.” Symbolic location of divine presence.
 

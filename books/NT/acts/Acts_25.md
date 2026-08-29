@@ -116,11 +116,69 @@ v25–27: Legal process requires defined charges.
 
 ##Vocabulary
 
-v01: ἐπαρχία (eparchia)
-“Province.”
+v1: ἐπαρχία (eparchia)  
+
+v1: “Province.”  
 
 v24: ἐντυγχάνω (entynchano)
 “To intercede.” To act on behalf.
+
+v2: “To present a case.”  
+
+v3: ἐνέδρα (enedra)  
+
+v3: “Ambush.”  
+
+v6: βῆμα (bēma)  
+
+v6: “Tribunal.”  
+
+v7: κατηγορία (katēgoria)  
+
+v7: “Charge.”  
+
+v8: ἀπολογέομαι (apologeomai)  
+
+v8: “To defend.”  
+
+v9: χάρις (charis)  
+
+v9: “Favor.”  
+
+v11: ἐπικαλέομαι (epikaleomai)  
+
+v11: “To appeal.”  
+
+v12: Καῖσαρ (Kaisar)  
+
+v12: “Caesar.”  
+
+v16: ἔθος (ethos)  
+
+v16: “Custom.”  
+
+v19: δεισιδαιμονία (deisidaimonia)  
+
+v19: “Religion.”  
+
+v20: ἀπορέω (aporeō)  
+
+v20: “To be at a loss.”  
+
+v21: Σεβαστός (Sebastos)  
+
+v21: “Emperor.”  
+
+v23: φαντασία (phantasia)  
+
+v23: “Pomp.”  
+
+v26: βέβαιος (bebaios)  
+
+v26: “Certain, definite.”  
+
+v01: ἐπαρχία (eparchia)
+“Province.”
 
 v03: ἐνέδρα (enedra)
 “Ambush.”

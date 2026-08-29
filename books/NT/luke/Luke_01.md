@@ -179,11 +179,24 @@ v78–79: “dawn from on high… way of peace” — The closing image is illum
 
 ##Vocabulary
 
-v06: δίκαιος (dikaios)
-“Righteous; just.”
+v1: διήγησις (diēgēsis) — narrative; orderly account  
+
+v2: αὐτόπτης (autoptēs) — eyewitness  
+
+v4: ἀσφάλεια (asphaleia) — certainty; reliable assurance  
+
+v6: δίκαιος (dikaios) — righteous; just  
+
+v9: κλῆρος (klēros) — lot; allotted portion  
+
+v11: ἄγγελος (angelos) — messenger; angel  
+
+v13: δέησις (deēsis) — petition; prayer; plea  
 
 v15: πνεῦμα ἅγιον (pneuma hagion)
 “Holy Spirit.”
+
+v17: ἐπιστρέφω (epistrephō) — to turn back; to return; to turn toward  
 
 v20: πιστεύω (pisteuō)
 “To trust; to entrust oneself.”
@@ -191,8 +204,31 @@ v20: πιστεύω (pisteuō)
 v30: χάρις (charis)
 “Grace; favor; gift.”
 
+v31: συλλαμβάνω (syllambanō) — to conceive  
+
+v35: ἐπισκιάζω (episkiiazō) — to overshadow  
+
+v38: δοῦλος/δούλη (doulos/doulē) — servant; bondservant (masc./fem.)  
+
 v42: εὐλογέω (eulogeō)
 “To bless; to speak well of.”
 
+v48: ταπείνωσις (tapeinōsis) — lowliness; humiliation; humble condition  
+
+v49: δυνατός (dynatos) — mighty; powerful  
+
+v54: μιμνῄσκομαι (mimnēskomai) — to remember  
+
 v68: λυτρόω (lytroō)
 “To redeem; to set free by payment.”
+
+v69: κέρας (keras) — horn (symbol of strength)  
+
+v72: διαθήκη (diathēkē) — covenant  
+
+v78: ἀνατολή (anatolē) — dawn; rising (sunrise imagery)  
+
+v79: εἰρήνη (eirēnē) — peace; wholeness  
+
+v06: δίκαιος (dikaios)
+“Righteous; just.”

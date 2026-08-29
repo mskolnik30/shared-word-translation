@@ -137,17 +137,109 @@ v23–38: The genealogy moves backward from Jesus to Adam and God, emphasizing u
 
 ##Vocabulary
 
-v06: σωτήριον (sōtērion)
+v2: ῥῆμα θεοῦ (rhēma theou)
+
+“Word of God.” Divine speech that initiates prophetic mission.
+
+v3: βάπτισμα (baptisma)
+
+“Baptism.” A ritual washing associated here with repentance and forgiveness.
+
+v3: μετάνοια (metanoia)
+
+“Repentance.” A change of mind, direction, and life.
+
+v3: ἄφεσις (aphesis)
+
+“Forgiveness, release.” Liberation from sins as debt, bondage, or offense.
+
+v4: ἔρημος (erēmos)
+
+“Wilderness.” Place of desolation, testing, and divine summons.
+
+v4: ἑτοιμάζω (hetoimazō)
+
+“To prepare.” To make ready for the Lord’s coming.
+
+v6: σωτήριον (sōtērion)
+
 “Salvation.” God’s saving act or deliverance made visible.
+
+v7: γεννήματα ἐχιδνῶν (gennēmata echidnōn)
+
+“Offspring of vipers.” A severe prophetic indictment.
+
+v8: καρπός (karpos)
+
+“Fruit.” Visible outcome or evidence of repentance.
+
+v8: ἄξιος (axios)
+
+“Worthy, fitting.” Corresponding appropriately to repentance.
+
+v9: ἀξίνη (axinē)
+
+“Axe.” Image of imminent judgment at the root.
 
 v11: χιτών (chitōn)
 “Tunic.” Basic garment; sharing it signals concrete mercy.
 
+v13: πράσσω (prassō)
+
+“To collect, exact.” Used here of tax collection.
+
+v14: διασείω (diaseiō)
+
+“To extort, intimidate.” To shake down by force.
+
+v14: συκοφαντέω (sykophanteō)
+
+“To accuse falsely.” To exploit through false charge or pressure.
+
+v15: προσδοκάω (prosdokaō)
+
+“To wait expectantly.” Attentive anticipation.
+
+v16: ἰσχυρότερος (ischyroteros)
+
+“Stronger, more powerful.” John’s comparative term for the coming one.
+
 v16: πνεῦμα ἅγιον (pneuma hagion)
 “Holy Spirit.” God’s Spirit as the agent of coming baptism.
+
+v17: πτύον (ptyon)
+
+“Winnowing fork.” Tool for separating wheat from chaff.
+
+v17: ἄχυρον (achyron)
+
+“Chaff.” Worthless husk separated from grain.
 
 v18: εὐαγγελίζω (euangelizō)
 “To proclaim good news.” To announce God’s saving action.
 
+v19: ἐλέγχω (elenchō)
+
+“To reprove, expose.” Prophetic correction of wrongdoing.
+
+v21: προσεύχομαι (proseuchomai)
+
+“To pray.” Luke frequently places decisive moments in the context of prayer.
+
 v22: σωματικός (sōmatikos)
 “Bodily.” The Spirit’s descent is presented in visible form.
+
+v22: ἀγαπητός (agapētos)
+
+“Beloved.” Language of divine delight and chosen relationship.
+
+v23: νομίζω (nomizō)
+
+“To suppose.” Marks public assumption regarding Joseph.
+
+v38: Ἀδάμ (Adam)
+
+“Adam.” The human ancestor through whom Luke reaches universal scope.
+
+v06: σωτήριον (sōtērion)
+“Salvation.” God’s saving act or deliverance made visible.

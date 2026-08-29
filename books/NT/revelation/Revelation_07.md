@@ -79,6 +79,45 @@ v17: Restoration is expressed relationally (“wipe away every tear”) rather t
 
 ##Vocabulary
 
+v1: ἄνεμος (anemos)
+
+“Wind.” Often associated with force or judgment, here restrained.
+
+v2: σφραγίς (sphragis)
+
+“Seal.” Mark of ownership or protection.
+
+v4: φυλή (phylē)
+
+“Tribe.” A group defined by lineage or identity.
+
+v9: ὄχλος (ochlos)
+
+“Multitude.” A large crowd, beyond enumeration.
+
+v10: σωτηρία (sōtēria)
+“Salvation.” Deliverance attributed to God.
+
+v12: εὐλογία (eulogia)
+
+“Blessing.” Speech that honors or praises.
+
+v14: θλῖψις μεγάλη (thlipsis megalē)
+
+“Great affliction.” A period or condition of intense distress.
+
+v15: σκηνόω (skēnoō)
+
+“To dwell” or “to shelter.” Suggests presence rather than structure.
+
+v17: ποιμαίνω (poimainō)
+
+“To shepherd.” To guide and care, not merely rule.
+
+v17: δάκρυον (dakryon)
+
+“Tear.” Expression of suffering, here removed.
+
 v01: ἄνεμος (anemos)
 “Wind.” Often associated with force or judgment, here restrained.
 
@@ -87,6 +126,3 @@ v02: σφραγίς (sphragis)
 
 v04: φυλή (phylē)
 “Tribe.” A group defined by lineage or identity.
-
-v10: σωτηρία (sōtēria)
-“Salvation.” Deliverance attributed to God.

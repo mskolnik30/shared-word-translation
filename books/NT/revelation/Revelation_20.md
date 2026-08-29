@@ -77,6 +77,50 @@ v15: The book of life functions as final distinction without elaboration.
 
 ##Vocabulary
 
+v1: ἄβυσσος (abyssos)
+
+“Abyss.” Place of confinement or depth.
+
+v2: δέω (deō)
+
+“To bind.” To restrain or limit.
+
+v3: σφραγίζω (sphragizō)
+
+“To seal.” To close securely.
+
+v4: θρόνος (thronos)
+
+“Throne.” Seat of authority.
+
+v5: ἀνάστασις (anastasis)
+
+“Resurrection.” Rising to life.
+
+v6: δεύτερος θάνατος (deuteros thanatos)
+
+“Second death.” Final state of judgment.
+
+v8: πλανάω (planaō)
+
+“To deceive.” To lead astray.
+
+v10: βασανίζω (basanizō)
+
+“To torment.” Ongoing suffering.
+
+v11: τόπος (topos)
+
+“Place.” Location or space.
+
+v12: βιβλίον (biblion)
+
+“Book.” Record of deeds.
+
+v14: λίμνη τοῦ πυρός (limnē tou pyros)
+
+“Lake of fire.” Final place of judgment.
+
 v01: ἄβυσσος (abyssos)
 “Abyss.” Place of confinement or depth.
 

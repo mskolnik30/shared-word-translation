@@ -161,6 +161,76 @@ v44: Complete survival fulfills divine promise.
 
 ##Vocabulary
 
+v1: Ἰταλία (Italia)  
+
+v1: “Italy.”  
+
+v3: φιλανθρώπως (philanthrōpōs)  
+
+v3: “Kindly.”  
+
+v9: νηστεία (nēsteia)  
+
+v9: “Fast.”  
+
+v10: ζημία (zēmia)
+“Loss.”
+
+v10: “Loss.”  
+
+v14: τυφωνικός (typhōnikos)
+“Tempestuous.”
+
+v14: “Tempestuous.”  
+
+v15: ἀντίπνεος (antipneos)  
+
+v15: “Against the wind.”  
+
+v17: ὑποζωννύω (hypozōnnyō)  
+
+v17: “To undergird.”  
+
+v20: ἀφαιρέω (aphaireō)  
+
+v20: “To take away.”  
+
+v23: ἄγγελος (angelos)  
+
+v23: “Angel.”  
+
+v24: δεῖ (dei)  
+
+v24: “It is necessary.”  
+
+v27: Ἀδρίας (Adrias)  
+
+v27: “Adriatic Sea.”  
+
+v28: ὀργυιά (orguia)  
+
+v28: “Fathom.”  
+
+v31: μένω (menō)  
+
+v31: “To remain.”  
+
+v34: θρίξ (thrix)  
+
+v34: “Hair.”  
+
+v35: εὐχαριστέω (eucharisteō)  
+
+v35: “To give thanks.”  
+
+v41: προσπίπτω (prospiptō)  
+
+v41: “To run aground.”  
+
+v44: διασῴζω (diasōzō)  
+
+v44: “To bring safely.”  
+
 v01: Ἰταλία (Italia)
 “Italy.”
 
@@ -169,9 +239,3 @@ v03: φιλανθρώπως (philanthrōpōs)
 
 v09: νηστεία (nēsteia)
 “Fast.”
-
-v10: ζημία (zēmia)
-“Loss.”
-
-v14: τυφωνικός (typhōnikos)
-“Tempestuous.”

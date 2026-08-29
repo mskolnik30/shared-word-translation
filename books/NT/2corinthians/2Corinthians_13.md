@@ -62,6 +62,51 @@ v14: The closing blessing names grace, love, and fellowship without collapsing t
 
 ##Vocabulary
 
+v1: μάρτυς (martys)
+“Witness.” One who testifies, often in legal context.
+
+v2: φείδομαι (pheidomai)
+“To spare.” To refrain from action, especially judgment.
+
+v3: δοκιμή (dokimē)
+“Proof.” Evidence of tested genuineness.
+
+v4: ἀσθένεια (astheneia)
+“Weakness.” Lack of strength, here associated with crucifixion.
+
+v4: δύναμις (dynamis)
+“Power.” Divine effectiveness, especially in resurrection life.
+
+v5: πειράζω (peirazō)
+“To test.” To examine or try.
+
+v5: δοκιμάζω (dokimazō)
+“To approve after testing.” To discern genuineness.
+
+v8: ἀλήθεια (alētheia)
+“Truth.” That which corresponds to and reveals God’s reality.
+
+v9: καταρτίζω (katartizō)
+“To restore.” To set in order or repair.
+
+v10: ἐξουσία (exousia)
+“Authority.” Delegated power for a purpose.
+
+v10: οἰκοδομή (oikodomē)
+“Building up.” Edification or strengthening of a community.
+
+v11: καταρτίζεσθε (katartizesthe)
+“Be restored.” Passive or reflexive form, implying ongoing formation.
+
+v12: φίλημα (philēma)
+“Kiss.” A gesture of greeting and unity.
+
+v14: χάρις (charis)
+“Grace.” Favor and sustaining gift.
+
+v14: κοινωνία (koinōnia)
+“Fellowship.” Shared participation and communion.
+
 v01: μάρτυς (martys)
 “Witness.” One who testifies, often in legal context.
 
@@ -70,6 +115,3 @@ v04: δύναμις (dynamis)
 
 v08: ἀλήθεια (alētheia)
 “Truth.” That which corresponds to and reveals God’s reality.
-
-v14: χάρις (charis)
-“Grace.” Favor and sustaining gift.

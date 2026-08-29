@@ -104,6 +104,51 @@ v24–25: Hiddenness is temporary. Both sin and good works are ultimately reveal
 
 ##Vocabulary
 
+v1: ἐπιπλήσσω (epiplēssō)  
+
+v1: “To rebuke harshly.” To strike with words.  
+
+v3: τιμάω (timaō)  
+
+v3: “To honor.” To value or support.  
+
+v8: προνοέω (pronoēō)  
+
+v8: “To provide.” To care for in advance.  
+
+v10: μαρτυρία (martyria)
+“Testimony.” Evidence of character.
+
+v10: “Testimony.” Evidence of character.  
+
+v13: φλύαρος (phlyaros)  
+
+v13: “Gossip.” Idle talker.  
+
+v13: περίεργος (periergos)  
+
+v13: “Busybody.” One meddling in others’ affairs.  
+
+v17: τιμή (timē)  
+
+v17: “Honor.” Value, including material support.  
+
+v19: κατηγορία (katēgoria)  
+
+v19: “Accusation.” Formal charge.  
+
+v21: προσωπολημψία (prosōpolēmpsia)  
+
+v21: “Partiality.” Favoritism.  
+
+v22: ἐπιτίθημι (epitithēmi)  
+
+v22: “To lay on.” To place hands in commissioning.  
+
+v24: πρόδηλος (prodēlos)  
+
+v24: “Evident.” Clearly visible.  
+
 v01: ἐπιπλήσσω (epiplēssō)
 “To rebuke harshly.” To strike with words.
 
@@ -112,6 +157,3 @@ v03: τιμάω (timaō)
 
 v08: προνοέω (pronoēō)
 “To provide.” To care for in advance.
-
-v10: μαρτυρία (martyria)
-“Testimony.” Evidence of character.

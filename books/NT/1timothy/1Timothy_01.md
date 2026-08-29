@@ -90,6 +90,46 @@ v20: Discipline is severe but corrective in aim (“that they may be taught”).
 
 ##Vocabulary
 
+v3: ἑτεροδιδασκαλέω (heterodidaskaleō)  
+
+v3: “To teach differently.” To deviate from accepted teaching.  
+
+v4: μῦθος (mythos)  
+
+v4: “Myth.” Narrative lacking grounding in truth.  
+
+v5: συνείδησις (syneidēsis)  
+
+v5: “Conscience.” Inner awareness of right and wrong.  
+
+v6: ματαιολογία (mataiologia)  
+
+v6: “Empty talk.” Meaningless speech.  
+
+v8: νόμιμος (nomimos)  
+
+v8: “Lawful.” Properly used.  
+
+v18: παρατίθημι (paratithēmi)  
+
+v18: “To entrust.” To place in another’s care.  
+
+v18: στρατεύομαι (strateuomai)  
+
+v18: “To wage war.” To engage in struggle.  
+
+v14: ὑπερπλεονάζω (hyperpleonazō)  
+
+v14: “To overflow.” To abound beyond measure.  
+
+v19: ναυαγέω (nauageō)  
+
+v19: “To suffer shipwreck.” To be ruined.  
+
+v20: παραδίδωμι (paradidōmi)  
+
+v20: “To hand over.” To deliver into another’s power.  
+
 v03: ἑτεροδιδασκαλέω (heterodidaskaleō)
 “To teach differently.” To deviate from accepted teaching.
 

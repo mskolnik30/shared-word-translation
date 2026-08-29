@@ -109,6 +109,69 @@ v28–29: True identity is inward and spiritual, not merely external.
 
 ##Vocabulary
 
+v1: ἀναπολόγητος (anapologētos)
+
+“Without excuse.”
+
+v2: κρίμα (krima)
+
+“Judgment.”
+
+v4: χρηστότης (chrēstotēs)
+
+“Kindness.”
+
+v5: σκληρότης (sklērotēs)
+
+“Hardness.”
+
+v6: ἀποδίδωμι (apodidōmi)
+
+“To repay.”
+
+v7: ἀφθαρσία (aphtharsia)
+
+“Incorruption.”
+
+v8: ἐριθεία (eritheia)
+
+“Self-seeking.”
+
+v9: θλῖψις (thlipsis)
+
+“Tribulation.”
+
+v11: προσωπολημψία (prosōpolēmpsia)
+
+“Partiality.”
+
+v13: ποιητής (poiētēs)
+
+“Doer.”
+
+v15: συνείδησις (syneidēsis)
+
+“Conscience.”
+
+v17: ἐπαναπαύομαι (epanapauomai)
+
+“To rely upon.”
+
+v20: μόρφωσις (morphōsis)
+
+“Form.”
+
+v23: παραβασις (parabasis)
+“Transgression.”
+
+v25: περιτομή (peritomē)
+
+“Circumcision.”
+
+v29: καρδία (kardia)
+
+“Heart.”
+
 v01: ἀναπολόγητος (anapologētos)
 “Without excuse.”
 
@@ -117,6 +180,3 @@ v02: κρίμα (krima)
 
 v04: χρηστότης (chrēstotēs)
 “Kindness.”
-
-v23: παραβασις (parabasis)
-“Transgression.”

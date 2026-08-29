@@ -114,6 +114,25 @@ v40: “Made complete” (τελειωθῶσιν) is a key word in Hebrews. Com
 
 ##Vocabulary
 
+v1: ὑπόστασις (hypostasis) — Substance, assurance, underlying reality. Names what stands beneath.  
+
+v1: ἔλεγχος (elenchos) — Conviction, proof, evidence. The verb form is used of legal cross-examination.  
+
+v3: αἰών (aiōn) — Age, era. In the plural, the totality of times and what they contain.  
+
+v6: ἐκζητέω (ekzēteō) — To seek out, to search for diligently.  
+
+v8: κληρονομία (klēronomia) — Inheritance, what is given as a portion.  
+
+v10: τεχνίτης (technitēs) — Craftsman, artisan, architect.  
+
+v13: παρεπίδημος (parepidēmos) — Stranger, sojourner. One who lives among others without belonging.  
+
+v17: μονογενής (monogenēs)
+“Only, unique. The same word used of Christ in John’s prologue.”
+
+v40: τελειόω (teleioō) — To complete, to bring to its end-shape. A central word in Hebrews.  
+
 v01: ὑπόστασις (hypostasis)
 “Substance, assurance, underlying reality. Names what stands beneath.”
 
@@ -125,6 +144,3 @@ v03: αἰών (aiōn)
 
 v06: ἐκζητέω (ekzēteō)
 “To seek out, to search for diligently.”
-
-v17: μονογενής (monogenēs)
-“Only, unique. The same word used of Christ in John’s prologue.”

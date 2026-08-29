@@ -83,6 +83,54 @@ v18: The number is presented as requiring interpretation, not immediate recognit
 
 ##Vocabulary
 
+v1: θηρίον (thērion)
+
+“Beast.” A figure of power or opposition, not specified by category.
+
+v2: ἐξουσία (exousia)
+
+“Authority.” Delegated power to act.
+
+v3: πληγή (plēgē)
+
+“Wound.” A striking or blow, here appearing fatal.
+
+v4: προσκυνέω (proskyneō)
+
+“To worship.” To show reverence or submission.
+
+v5: βλασφημία (blasphēmia)
+
+“Blasphemy.” Speech that opposes or dishonors God.
+
+v7: νικάω (nikaō)
+
+“To conquer.” Victory described without method.
+
+v8: βιβλίον τῆς ζωῆς (biblion tēs zōēs)
+
+“Book of life.” Record of belonging, not defined.
+
+v11: κέρας (keras)
+
+“Horn.” Symbol of strength or authority.
+
+v13: σημεῖον (sēmeion)
+
+“Sign.” Indicator that can reveal or deceive.
+
+v14: εἰκών (eikōn)
+
+“Image.” Representation that carries identity or authority.
+
+v16: χάραγμα (charagma)
+
+“Mark.” Inscription or imprint indicating allegiance.
+
+v18: ἀριθμός (arithmos)
+
+“Number.” Value requiring interpretation.
+
 v01: θηρίον (thērion)
 “Beast.” A figure of power or opposition, not specified by category.
 

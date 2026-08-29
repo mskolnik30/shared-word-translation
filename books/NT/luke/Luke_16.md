@@ -118,8 +118,32 @@ v31: Refusal to hear Scripture anticipates refusal to believe resurrection.
 
 ##Vocabulary
 
+v1: οἰκονόμος (oikonomos)
+
+“Steward.”
+
+v3: αἰσχύνομαι (aischynomai)
+
+“To be ashamed.”
+
+v8: φρόνιμος (phronimos)
+
+“Shrewd, prudent.”
+
+v9: μαμωνᾶς (mamōnas)
+
+“Wealth, money.”
+
 v10: πιστός (pistos)
 “Faithful.”
+
+v13: δουλεύω (douleuō)
+
+“To serve as a slave.”
+
+v14: φιλάργυρος (philargyros)
+
+“Lover of money.”
 
 v15: δικαιόω (dikaioō)
 “To justify.”
@@ -127,5 +151,37 @@ v15: δικαιόω (dikaioō)
 v16: εὐαγγελίζω (euangelizō)
 “To proclaim good news.”
 
+v17: κεραία (keraia)
+
+“Stroke of a letter.”
+
+v19: πορφύρα (porphyra)
+
+“Purple.”
+
+v20: πτωχός (ptōchos)
+
+“Poor.”
+
+v22: κόλπος (kolpos)
+
+“Bosom.”
+
 v23: ᾅδης (hadēs)
 “Hades.”
+
+v24: ὀδυνάω (odynaō)
+
+“To be in anguish.”
+
+v26: χάσμα (chasma)
+
+“Chasm.”
+
+v29: Μωϋσῆς καὶ οἱ προφῆται
+
+“Moses and the Prophets.”
+
+v31: πείθω (peithō)
+
+“To persuade.”

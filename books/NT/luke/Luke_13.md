@@ -132,6 +132,81 @@ v35: Judgment and future recognition are held together.
 
 ##Vocabulary
 
+v3: μετανοέω (metanoeō)
+
+“To repent.”
+
+v5: ἀπόλλυμι (apollymi)
+
+“To perish.”
+
+v6: συκῆ (sykē)
+
+“Fig tree.”
+
+v8: κοπρία (kopria)
+
+“Manure.”
+
+v11: ἀσθένεια (astheneia)
+
+“Infirmity.”
+
+v12: ἀπολύω (apolyō)
+
+“To release.”
+
+v14: ἀγανακτέω (aganakteō)
+
+“To be indignant.”
+
+v16: δεσμός (desmos)
+
+“Bond.”
+
+v18: βασιλεία (basileia)
+“Kingdom.”
+
+v19: κόκκος σινάπεως (kokkos sinapeōs)
+
+“Mustard seed.”
+
+v21: ζύμη (zymē)
+
+“Leaven.”
+
+v24: ἀγωνίζομαι (agōnizomai)
+
+“To strive.”
+
+v25: οἰκοδεσπότης (oikodespotēs)
+
+“Master of the house.”
+
+v27: ἀδικία (adikia)
+
+“Unrighteousness.”
+
+v28: βρυγμός (brygmos)
+
+“Gnashing.”
+
+v30: ἔσχατος / πρῶτος (eschatos / prōtos)
+
+“Last / first.”
+
+v32: τελειόω (teleioō)
+
+“To complete.”
+
+v34: ἐπισυνάγω (episynagō)
+
+“To gather together.”
+
+v35: οἶκος (oikos)
+
+“House.”
+
 v03: μετανοέω (metanoeō)
 “To repent.”
 
@@ -140,6 +215,3 @@ v05: ἀπόλλυμι (apollymi)
 
 v06: συκῆ (sykē)
 “Fig tree.”
-
-v18: βασιλεία (basileia)
-“Kingdom.”

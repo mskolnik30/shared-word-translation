@@ -102,14 +102,44 @@ v31: The chapter closes by redirecting pride. Boasting is not eliminated, but re
 
 ##Vocabulary
 
+v1: κλητός (klētos)  
+“Called.” The term denotes divine initiative rather than human qualification. Paul’s identity begins in response, not achievement.  
+
+v2: ἁγιάζω (hagiazō)  
+
+v2: “To make holy.” The perfect participle indicates a completed act with ongoing effect—holiness as given status, not earned condition.  
+
+v9: κοινωνία (koinōnia)  
+“Fellowship” or “participation.” The word emphasizes shared life and mutual belonging, not merely association.  
+
+v10: σχίσματα (schismata)  
+“Divisions” or “tears.” The imagery suggests something once whole being pulled apart.  
+
+v17: σοφία λόγου (sophia logou)
+“Wisdom of speech.” The phrase points to rhetorical sophistication rather than wisdom itself.
+
+v18: λόγος τοῦ σταυροῦ (logos tou staurou)  
+“The word of the cross.” Not merely a message about the cross, but speech shaped by its meaning.  
+
+v21: μωρία (mōria)  
+“Foolishness.” The term names perceived absurdity, not actual lack of sense.  
+
+v24: δύναμις (dynamis)  
+“Power.” Often associated with divine action, especially where human capacity fails.  
+
+v26: σοφοί κατὰ σάρκα (sophoi kata sarka)
+“Wise according to the flesh.” Wisdom measured by social and cultural standards rather than divine perspective.
+
+v30: ἐξ αὐτοῦ (ex autou)  
+
+v30: “From him.” The phrase grounds the community’s life in God as source, not self-generation.  
+
+v31: καυχάομαι (kauchaomai)  
+
+v31: “To boast.” Paul reframes boasting as testimony—speech that locates confidence outside the self.  
+
 v01: κλητός (klētos)
 “Called.” The term denotes divine initiative rather than human qualification. Paul’s identity begins in response, not achievement.
 
 v02: ἁγιάζω (hagiazō)
 “To make holy.” The perfect participle indicates a completed act with ongoing effect—holiness as given status, not earned condition.
-
-v17: σοφία λόγου (sophia logou)
-“Wisdom of speech.” The phrase points to rhetorical sophistication rather than wisdom itself.
-
-v26: σοφοί κατὰ σάρκα (sophoi kata sarka)
-“Wise according to the flesh.” Wisdom measured by social and cultural standards rather than divine perspective.

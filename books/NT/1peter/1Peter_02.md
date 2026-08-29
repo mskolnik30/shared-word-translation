@@ -77,6 +77,39 @@ v25: The return to the shepherd reframes identity as restoration rather than mer
 
 ##Vocabulary
 
+v1: κακία (kakia)  
+“Malice.” A disposition toward harm; relational hostility.  
+
+v2: γάλα (gala)  
+“Milk.” Symbol of nourishment appropriate for growth; here metaphorical.  
+
+v4: λίθος (lithos)  
+“Stone.” Used both literally and metaphorically; central to the passage’s imagery.  
+
+v5: οἶκος πνευματικός (oikos pneumatikos)  
+“Spiritual house.” A constructed community defined by divine presence.  
+
+v9: περιποίησις (peripoiēsis)  
+“Possession.” Denotes belonging or acquisition, emphasizing identity.  
+
+v11: πάροικος (paroikos)  
+“Sojourner.” One who lives alongside but does not fully belong.  
+
+v13: ὑποτάσσω (hypotassō)  
+“To be subject.” Implies ordered relationship rather than absolute submission.  
+
+v19: χάρις (charis)
+“Grace” or “favor.” Here associated with enduring suffering in awareness of God.
+
+v21: ὑπογραμμός (hypogrammos)  
+“Example.” A pattern or model to be traced.  
+
+v24: ἀναφέρω (anapherō)  
+“To bear” or “carry up.” Often used in sacrificial contexts.  
+
+v25: ἐπίσκοπος (episkopos)  
+“Overseer.” One who watches over or cares for; paired with shepherd imagery.  
+
 v01: κακία (kakia)
 “Malice.” A disposition toward harm; relational hostility.
 
@@ -85,6 +118,3 @@ v02: γάλα (gala)
 
 v04: λίθος (lithos)
 “Stone.” Used both literally and metaphorically; central to the passage’s imagery.
-
-v19: χάρις (charis)
-“Grace” or “favor.” Here associated with enduring suffering in awareness of God.

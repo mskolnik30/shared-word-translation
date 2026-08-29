@@ -116,6 +116,70 @@ v07: Verse 7 and related words extending from verses 6 to 8 are absent from the 
 
 ##Vocabulary
 
+v1: κατήγορος (katēgoros)  
+
+v2: “Accuser.”  
+
+v2: κατηγορέω (katēgoreō)  
+
+v2: “To accuse.”  
+
+v3: εὐχαριστία (eucharistia)  
+
+v3: “Gratitude.”  
+
+v5: λοιμός (loimos)  
+
+v5: “Pest, plague.”  
+
+v5: πρωτοστάτης (prōtostatēs)  
+
+v5: “Ringleader.”  
+
+v6: βεβηλόω (bebēloō)  
+
+v6: “To profane.”  
+
+v10: ἀπολογέομαι (apologeomai)  
+
+v10: “To defend.”  
+
+v14: αἵρεσις (hairesis)  
+
+v14: “Sect.”  
+
+v15: ἐλπίς (elpis)  
+
+v15: “Hope.”  
+
+v16: ἀπρόσκοπος (aproskopos)  
+
+v16: “Blameless.”  
+
+v17: ἐλεημοσύνη (eleēmosynē)  
+
+v17: “Alms.”  
+
+v22: ἀναβάλλω (anaballō)  
+
+v22: “To postpone.”  
+
+v23: ἄνεσις (anesis)  
+
+v23: “Freedom, relief.”  
+
+v25: ἔμφοβος (emphobos)  
+
+v25: “Afraid.”  
+
+v26: χρήματα (chrēmata)  
+
+v26: “Money.”  
+
+v27: χάρις (charis)  
+
+v27: “Favor.”  
+
 v01: κατήγορος (katēgoros)
 “Accuser; prosecutor.”
 

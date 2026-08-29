@@ -78,6 +78,46 @@ v8: Completion of plagues precedes renewed access.
 
 ##Vocabulary
 
+v1: πληγή (plēgē)
+
+“Plague.” A blow or strike, here as judgment.
+
+v2: θάλασσα ὑαλίνη (thalassa hyalinē)
+
+“Sea of glass.” A stable, reflective expanse.
+
+v3: ᾠδή (ōdē)
+
+“Song.” A formal expression of praise.
+
+v4: ἔθνη (ethnē)
+
+“Nations.” Peoples broadly, not limited group.
+
+v5: σκηνή (skēnē)
+
+“Tent.” Tabernacle; place of divine presence.
+
+v6: λῖνον (linon)
+
+“Linen.” Garment associated with purity.
+
+v7: φιάλη (phialē)
+
+“Bowl.” Vessel used for pouring.
+
+v7: θυμός (thymos)
+
+“Wrath.” Intense expression of anger.
+
+v8: καπνός (kapnos)
+
+“Smoke.” Manifestation of presence or glory.
+
+v8: δύναμις (dynamis)
+
+“Power.” Active force or capacity.
+
 v01: πληγή (plēgē)
 “Plague.” A blow or strike, here as judgment.
 

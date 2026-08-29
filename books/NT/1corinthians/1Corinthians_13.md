@@ -50,6 +50,25 @@ v03: A textual variant stands here.
 
 ##Vocabulary
 
+v1: ἀγάπη (agapē) — "Love." A love defined by orientation toward the other rather than by feeling, attraction, or affinity. Distinct from φιλία (friendship) and ἔρως (desire).  
+
+v4: μακροθυμεῖ (makrothymei) — "Is patient." Literally "long-tempered"—endurance under provocation rather than indifference to it.  
+
+v5: λογίζεται (logizetai) — "Reckon," "keep account of." A bookkeeping term. Love keeps no ledger of wrong.  
+
+v7: στέγει (stegei) — "Bears," "covers." The same root as the word for roof; love provides shelter.  
+
+v8: πίπτει (piptei) — "Falls." Used of walls, kingdoms, and the defeated. Love does not collapse.  
+
+v8: καταργηθήσεται (katargēthēsetai) — "Will be set aside." The verb suggests retirement rather than destruction; what is partial gives way when the whole arrives.  
+
+v10: τέλειον (teleion) — "The complete," "the mature." The end-shape of a thing, not its pristine state.  
+
+v12: αἴνιγμα (ainigma) — "Riddle." A puzzle that calls for patient interpretation, not a deficiency to be repaired.  
+
+v13: μένει (menei)
+“Remains," "abides." A verb of dwelling. Faith, hope, and love endure together.
+
 v01: ἀγάπη (agapē)
 “Love." A love defined by orientation toward the other rather than by feeling, attraction, or affinity. Distinct from φιλία (friendship) and ἔρως (desire).
 
@@ -58,6 +77,3 @@ v04: μακροθυμεῖ (makrothymei)
 
 v05: λογίζεται (logizetai)
 “Reckon," "keep account of." A bookkeeping term. Love keeps no ledger of wrong.
-
-v13: μένει (menei)
-“Remains," "abides." A verb of dwelling. Faith, hope, and love endure together.

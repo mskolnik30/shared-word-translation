@@ -146,17 +146,77 @@ v37–38: Teaching continues publicly despite increasing tension.
 
 ##Vocabulary
 
-v02: λεπτόν (lepton)
+v2: λεπτόν (lepton)
+
 “Small coin.”
 
-v04: βίος (bios)
+v4: βίος (bios)
+
 “Life, livelihood.”
+
+v6: καταλύω (katalyō)
+
+“To destroy.”
+
+v8: πλανάω (planaō)
+
+“To lead astray.”
+
+v11: λοιμός (loimos)
+
+“Pestilence.”
+
+v12: διώκω (diōkō)
+
+“To persecute.”
+
+v13: μαρτύριον (martyrion)
+
+“Testimony.”
 
 v15: σοφία (sophia)
 “Wisdom.”
+
+v19: ὑπομονή (hypomonē)
+
+“Endurance.”
+
+v20: ἐρήμωσις (erēmōsis)
+
+“Desolation.”
+
+v24: αἰχμαλωτίζω (aichmalōtizō)
+
+“To take captive.”
+
+v25: συνοχή (synochē)
+
+“Distress.”
+
+v26: οἰκουμένη (oikoumenē)
+
+“Inhabited world.”
 
 v27: δόξα (doxa)
 “Glory.”
 
 v28: ἀπολύτρωσις (apolytrōsis)
 “Redemption.”
+
+v34: κραιπάλη (kraipalē)
+
+“Dissipation.”
+
+v35: παγίς (pagis)
+
+“Trap.”
+
+v36: κατισχύω (katischyō)
+
+“To prevail, be strong.”
+
+v02: λεπτόν (lepton)
+“Small coin.”
+
+v04: βίος (bios)
+“Life, livelihood.”

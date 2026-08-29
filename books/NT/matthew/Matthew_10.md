@@ -146,17 +146,43 @@ v40: Representation is layered; reception of messengers participates in divine r
 
 ##Vocabulary
 
+v1: ἐξουσία (*exousia*) — “Authority.” Delegated power aligned with mission.  
+
+v6: πρόβατα ἀπολωλότα (*probata apolōlota*) — “Lost sheep.” Image of misdirection rather than absence.  
+
+v7: ἤγγικεν (*ēngiken*) — “Has drawn near.” Perfect tense indicating present reality.  
+
+v8: δωρεάν (*dōrean*) — “Freely.” Without cost; emphasizes gift.  
+
+v10: ἄξιος (*axios*) — “Worthy.” Relational fitness, not merit accumulation.  
+
+v16: φρόνιμος (*phronimos*) — “Wise,” prudent; practical discernment.  
+
+v16: ἀκέραιος (*akeraios*) — “Innocent,” unmixed; without duplicity.  
+
+v20: πνεῦμα (pneuma)
+“Spirit.” Active agent in speech.
+
+v22: ὑπομένω (*hypomenō*) — “To endure.” Remain under pressure without withdrawal.  
+
+v25: Βεελζεβούλ (*Beelzeboul*) — Derisive title; association with demonic rule.  
+
+v28: γέεννα (Gehenna)
+“Place of destruction; carries judgment imagery.”
+
+v32: ὁμολογέω (*homologeō*) — “To acknowledge,” confess publicly.  
+
+v34: μάχαιρα (*machaira*) — “Sword.” Symbol of division rather than weapon specification.  
+
+v38: σταυρός (*stauros*) — “Cross.” Instrument of execution; here symbolic of costly allegiance.  
+
+v39: ψυχή (psychē)
+“Life,” “soul.” Whole self, not merely inner essence.
+
+v42: μικρός (*mikros*) — “Little one.” Status defined by vulnerability, not age alone.  
+
 v01: ἐξουσία (exousia)
 “Authority.” Delegated power aligned with mission.
 
 v06: πρόβατα ἀπολωλότα (probata apolōlota)
 “Lost sheep.” Image of misdirection rather than absence.
-
-v20: πνεῦμα (pneuma)
-“Spirit.” Active agent in speech.
-
-v28: γέεννα (Gehenna)
-“Place of destruction; carries judgment imagery.”
-
-v39: ψυχή (psychē)
-“Life,” “soul.” Whole self, not merely inner essence.

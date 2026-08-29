@@ -93,6 +93,66 @@ v21–23: Believers belong to Christ, transcending factionalism.
 
 ##Vocabulary
 
+v1: σάρκινος (sarkinos)  
+
+v1: “Fleshly.”  
+
+v2: γάλα (gala)  
+
+v2: “Milk.”  
+
+v3: ζῆλος (zēlos)  
+
+v3: “Jealousy.”  
+
+v5: διάκονος (diakonos)  
+
+v5: “Servant.”  
+
+v6: φυτεύω (phyteuō)  
+
+v6: “To plant.”  
+
+v7: αὐξάνω (auxanō)  
+
+v7: “To grow.”  
+
+v9: συνεργός (synergos)  
+
+v9: “Fellow worker.”  
+
+v10: ἀρχιτέκτων (architektōn)  
+
+v10: “Master builder.”  
+
+v11: θεμέλιος (themelios)  
+
+v11: “Foundation.”  
+
+v13: δοκιμάζω (dokimazō)  
+
+v13: “To test.”  
+
+v15: ζημιόω (zēmioō)  
+
+v15: “To suffer loss.”  
+
+v16: ναός (naos)  
+
+v16: “Temple.”  
+
+v18: ἐξαπατάω (exapataō)  
+
+v18: “To deceive.”  
+
+v19: πανουργία (panourgia)  
+
+v19: “Craftiness.”  
+
+v21: καυχάομαι (kauchaomai)  
+
+v21: “To boast.”  
+
 v01: σάρκινος (sarkinos)
 “Fleshly.”
 

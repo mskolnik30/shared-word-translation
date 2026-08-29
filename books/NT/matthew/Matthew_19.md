@@ -103,6 +103,39 @@ v30: Reversal principle destabilizes status assumptions.
 
 ##Vocabulary
 
+v3: πειράζοντες (*peirazontes*) — “Testing.” Attempt to trap or challenge.  
+
+v6: συνέζευξεν (*synezeuxen*) — “Joined together.” Bound into unity.  
+
+v8: σκληροκαρδία (*sklērokardia*) — “Hardness of heart.” Resistance to divine will.  
+
+v9: πορνεία (*porneia*) — “Sexual immorality.” Breach of covenant fidelity.  
+
+v11: δοθῆναι (*dothēnai*) — “Given.” Granted by divine action.  
+
+v12: εὐνοῦχος (*eunouchos*) — “Eunuch.” One set apart from marriage/sexual relations.  
+
+v14: βασιλεία (basileia)
+“Kingdom.” Reign or rule of God.
+
+v16: ζωὴ αἰώνιος (*zōē aiōnios*) — “Eternal life.” Life of the age to come.  
+
+v17: ἀγαθός (*agathos*) — “Good.” Morally perfect, properly attributed to God.  
+
+v21: τέλειος (*teleios*) — “Complete,” “perfect.” Whole, brought to intended end.  
+
+v22: κτήματα (*ktēmata*) — “Possessions.” Property, holdings.  
+
+v24: τρήματος ῥαφίδος (*trēmatos rhaphidos*) — “Eye of a needle.” Extreme narrowness.  
+
+v26: δυνατά (*dynata*) — “Possible.” Within power or capacity.  
+
+v28: παλιγγενεσία (*palingenesia*) — “Renewal,” “regeneration.” New beginning of creation.  
+
+v29: ἑκατονταπλασίονα (*hekatontaplasiona*) — “Hundredfold.” Exaggerated abundance.  
+
+v30: πρῶτοι / ἔσχατοι (*prōtoi / eschatoi*) — “First / last.” Status reversal categories.  
+
 v03: πειράζοντες (peirazontes)
 “Testing.” Attempt to trap or challenge.
 
@@ -111,6 +144,3 @@ v06: συνέζευξεν (synezeuxen)
 
 v09: πορνεία (porneia)
 “Sexual immorality.” Breach of covenant fidelity.
-
-v14: βασιλεία (basileia)
-“Kingdom.” Reign or rule of God.

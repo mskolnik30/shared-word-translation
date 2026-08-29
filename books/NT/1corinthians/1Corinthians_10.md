@@ -120,6 +120,74 @@ v31–33: All actions are oriented toward God’s glory and others’ salvation.
 
 ##Vocabulary
 
+v1: νεφέλη (nephelē)  
+
+v1: “Cloud.”  
+
+v2: βαπτίζω (baptizō)  
+
+v2: “To baptize.”  
+
+v4: πέτρα (petra)  
+
+v4: “Rock.”  
+
+v6: τύπος (typos)  
+
+v6: “Example.”  
+
+v7: εἰδωλολάτρης (eidōlolatrēs)  
+
+v7: “Idolater.”  
+
+v8: πορνεύω (porneuō)  
+
+v8: “To commit sexual immorality.”  
+
+v9: πειράζω (peirazō)  
+
+v9: “To test.”  
+
+v10: γογγύζω (gongyzō)  
+
+v10: “To grumble.”  
+
+v12: δοκέω (dokeō)  
+
+v12: “To think.”  
+
+v13: πειρασμός (peirasmos)  
+
+v13: “Temptation.”  
+
+v14: φεύγω (pheugō)  
+
+v14: “To flee.”  
+
+v16: κοινωνία (koinōnia)  
+
+v16: “Participation.”  
+
+v20: δαιμόνιον (daimonion)  
+
+v20: “Demon.”  
+
+v22: παραζηλόω (parazēloō)  
+
+v22: “To provoke to jealousy.”  
+
+v23: συμφέρω (sympherō)  
+
+v23: “To benefit.”  
+
+v24: ζητέω (zēteō)  
+
+v24: “To seek.”  
+
+v31: δόξα (doxa)  
+
+v31: “Glory.”  
+
 v01: νεφέλη (nephelē)
 “Cloud.”
 

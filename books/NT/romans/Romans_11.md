@@ -155,6 +155,65 @@ v33–36: Theology culminates in doxology.
 
 ##Vocabulary
 
+v2: προγινώσκω (proginōskō)
+
+“To foreknow.”
+
+v5: λεῖμμα (leimma)
+
+“Remnant.”
+
+v6: χάρις (charis)
+
+“Grace.”
+
+v7: πώρωσις (pōrōsis)
+
+“Hardening.”
+
+v11: παράπτωμα (paraptōma)
+“Transgression.”
+
+v14: παραζηλόω (parazēloō)
+
+“To provoke to jealousy.”
+
+v15: καταλλαγή (katallagē)
+
+“Reconciliation.”
+
+v17: ἐγκεντρίζω (enkentrizō)
+
+“To graft in.”
+
+v18: καυχάομαι (kauchaomai)
+
+“To boast.”
+
+v20: ἀπιστία (apistia)
+
+“Unbelief.”
+
+v22: ἀποτομία (apotomia)
+
+“Severity.”
+
+v25: μυστήριον (mystērion)
+
+“Mystery.”
+
+v29: ἀμεταμέλητος (ametamelētos)
+
+“Irrevocable.”
+
+v32: συγκλείω (synkleiō)
+
+“To shut up together.”
+
+v33: βάθος (bathos)
+
+“Depth.”
+
 v02: προγινώσκω (proginōskō)
 “To foreknow.”
 
@@ -166,6 +225,3 @@ v06: χάρις (charis)
 
 v07: πώρωσις (pōrōsis)
 “Hardening.”
-
-v11: παράπτωμα (paraptōma)
-“Transgression.”

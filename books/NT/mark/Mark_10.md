@@ -162,10 +162,12 @@ v52: Bartimaeus receives sight and then follows “on the way,” linking healin
 
 ##Vocabulary
 
-v05: σκληροκαρδία (sklērokardia)
+v5: σκληροκαρδία (sklērokardia)
+
 “Hardness of heart.” Resistance or stubbornness at the level of will and perception.
 
-v09: συζεύγνυμι (syzeugnymi)
+v9: συζεύγνυμι (syzeugnymi)
+
 “To join together.” Used of God’s act of binding two into one.
 
 v14: ἀγανακτέω (aganakteō)
@@ -174,5 +176,47 @@ v14: ἀγανακτέω (aganakteō)
 v15: δέχομαι (dechomai)
 “To receive.” Welcoming what is given rather than grasping control.
 
+v17: κληρονομέω (klēronomeō)
+
+“To inherit.” To receive as an heir, not merely to acquire.
+
 v21: ἀγαπάω (agapaō)
 “To love.” Jesus’ love is expressed through costly truth.
+
+v22: κτῆμα (ktēma)
+
+“Possession, property.” That which one owns and may be owned by.
+
+v27: δυνατός (dynatos)
+
+“Possible, powerful.” Human impossibility is set against divine possibility.
+
+v32: ὁδός (hodos)
+
+“Way, road.” In Mark, both literal path and path of discipleship.
+
+v38: ποτήριον (potērion)
+
+“Cup.” Figurative image of suffering or allotted experience.
+
+v43: διάκονος (diakonos)
+
+“Servant.” One who serves another’s need.
+
+v45: λύτρον (lytron)
+
+“Ransom.” Price of release or deliverance.
+
+v47: υἱὸς Δαυίδ (huios Dauid)
+
+“Son of David.” Royal and messianic address.
+
+v52: ἀναβλέπω (anablepō)
+
+“To see again.” Restoration of sight, with spiritual resonance in context.
+
+v05: σκληροκαρδία (sklērokardia)
+“Hardness of heart.” Resistance or stubbornness at the level of will and perception.
+
+v09: συζεύγνυμι (syzeugnymi)
+“To join together.” Used of God’s act of binding two into one.

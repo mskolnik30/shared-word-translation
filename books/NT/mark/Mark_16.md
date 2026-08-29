@@ -80,14 +80,90 @@ v09–20: The longer ending is absent from the earliest and strongest Greek witn
 
 ##Vocabulary
 
+v1: ἄρωμα (arōma)
+
+“Spice, aromatic substance.” Used in burial preparation.
+
+v1: ἀλείφω (aleiphō)
+
+“To anoint.” To apply oil or spices, here for burial.
+
+v2: μία τῶν σαββάτων (mia tōn sabbatōn)
+
+“First day of the week.” Literally, “one of the Sabbaths,” a Semitic expression.
+
+v3: ἀποκυλίω (apokyliō)
+
+“To roll away.” Used of removing the stone from the tomb.
+
+v5: νεανίσκος (neaniskos)
+
+“Young man.” Figure in the tomb, clothed in white.
+
+v5: ἐκθαμβέω (ekthambeō)
+
+“To be alarmed, amazed.” Strong disturbance before revelation.
+
+v6: σταυρόω (stauroō)
+
+“To crucify.” The risen one is identified as the crucified one.
+
+v6: ἐγείρω (egeirō)
+
+“To raise.” Used here in passive form: “he has been raised.”
+
+v7: προάγω (proagō)
+
+“To go before.” Jesus precedes the disciples into Galilee.
+
+v8: τρόμος (tromos)
+
+“Trembling.” Physical manifestation of fear.
+
+v8: ἔκστασις (ekstasis)
+
+“Astonishment, amazement.” Displacement of ordinary composure.
+
+v8: φοβέω (phobeō)
+
+“To fear.” Mark’s final word in the shorter ending centers fear.
+
+v9: φαίνω / ἐμφανίζω conceptually
+
+“To appear.” The longer ending narrates resurrection appearances.
+
+v11: ἀπιστέω (apisteō)
+“To disbelieve.” Refusal or inability to trust testimony.
+
+v14: σκληροκαρδία (sklērokardia)
+
+“Hardness of heart.” Resistant perception and will.
+
+v15: κτίσις (ktisis)
+
+“Creation.” The created order, here the scope of proclamation.
+
+v16: βαπτίζω (baptizō)
+“To baptize.” Ritual immersion associated with faith and belonging.
+
+v17: σημεῖον (sēmeion)
+
+“Sign.” Visible act accompanying the message.
+
+v17: γλῶσσα (glōssa)
+
+“Tongue, language.” Speech in new languages.
+
+v19: ἀναλαμβάνω (analambanō)
+
+“To take up.” Used of Jesus’ being taken into heaven.
+
+v20: βεβαιόω (bebaioō)
+
+“To confirm.” To establish or validate.
+
 v02: μία τῶν σαββάτων (mia tōn sabbatōn)
 “First day of the week.” Literally, “one of the Sabbaths,” a Semitic expression.
 
 v09: φαίνω (phainō)
 “To appear; become visible.” The longer ending uses the verb for a resurrection appearance.
-
-v11: ἀπιστέω (apisteō)
-“To disbelieve.” Refusal or inability to trust testimony.
-
-v16: βαπτίζω (baptizō)
-“To baptize.” Ritual immersion associated with faith and belonging.

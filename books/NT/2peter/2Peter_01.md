@@ -69,6 +69,30 @@ v21: “carried along by the Holy Spirit” — A dynamic image suggesting divin
 
 ##Vocabulary
 
+v1: πίστις (*pistis*) — trust, faithfulness; relational reliance rather than mere assent.  
+
+v1: δικαιοσύνη (*dikaiosynē*) — righteousness; covenantal rightness, justice.  
+
+v4: θείας φύσεως (*theias physeōs*) — divine nature; participation language without explanation of mechanism.  
+
+v5: ἀρετή (*aretē*) — excellence, virtue; moral strength or noble character.  
+
+v6: ἐγκράτεια (*enkrateia*) — self-control; disciplined mastery over desire.  
+
+v6: ὑπομονή (*hypomonē*) — steadfastness; enduring perseverance under pressure.  
+
+v7: φιλαδελφία (*philadelphia*) — mutual affection; familial love among siblings.  
+
+v7: ἀγάπη (*agapē*) — love; self-giving, covenantal devotion.  
+
+v10: ἐκλογή (*eklogē*) — election; divine choosing.  
+
+v16: παρουσία (*parousia*) — coming, presence; often associated with royal arrival.  
+
+v19: φωσφόρος (*phōsphoros*) — morning star; light-bringer, herald of dawn.  
+
+v21: φερόμενοι (*pheromenoi*) — being carried along; dynamic movement under guidance.  
+
 v01: πίστις (pistis)
 “Trust, faithfulness; relational reliance rather than mere assent.”
 

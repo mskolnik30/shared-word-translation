@@ -102,14 +102,70 @@ v22–23: Faith and conscience must align; violation produces sin.
 
 ##Vocabulary
 
+v1: ἀσθενής (asthenēs)
+
+“Weak.”
+
+v1: διαλογισμός (dialogismos)
+
+“Dispute, opinion.”
+
+v3: ἐξουθενέω (exoutheneō)
+
+“To despise.”
+
+v4: κύριος (kyrios)
+
+“Master, Lord.”
+
+v5: πληροφορέω (plērophoreō)
+
+“To be fully convinced.”
+
+v7: ζάω (zaō)
+
+“To live.”
+
+v10: βῆμα (bēma)
+
+“Judgment seat.”
+
+v11: ἐξομολογέω (exomologeō)
+
+“To confess.”
+
+v13: πρόσκομμα (proskomma)
+
+“Stumbling block.”
+
+v14: κοινός (koinos)
+“Unclean.”
+
+v15: λυπέω (lypeō)
+
+“To grieve.”
+
+v17: βασιλεία (basileia)
+“Kingdom.”
+
+v18: δόκιμος (dokimos)
+
+“Approved.”
+
+v19: οἰκοδομή (oikodomē)
+
+“Building up.”
+
+v21: προσκόπτω (proskoptō)
+
+“To stumble.”
+
+v23: διακρίνω (diakrinō)
+
+“To doubt.”
+
 v01: ἀσθενής (asthenēs)
 “Weak.”
 
 v01: διαλογισμός (dialogismos)
 “Dispute, opinion.”
-
-v14: κοινός (koinos)
-“Unclean.”
-
-v17: βασιλεία (basileia)
-“Kingdom.”

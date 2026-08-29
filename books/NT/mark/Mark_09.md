@@ -165,17 +165,45 @@ v49–50: “Salted with fire” combines preservation and purification without 
 
 ##Vocabulary
 
+v2: μεταμορφόω (metamorphoō)
+
+“To be transfigured.” Indicates visible transformation without explanation of mechanism.
+
+v7: ἀκούω (akouō)
+
+“To hear, listen.” In context, implies obedience as well as perception.
+
 v10: ἀνάστασις (anastasis)
 “Rising, resurrection.” Here treated as concept not yet understood.
 
+v18: σπαράσσω (sparassō)
+
+“To convulse, tear.” Describes violent disruption.
+
 v23: πιστεύω (pisteuō)
 “To believe, trust.” Not certainty, but orientation toward possibility.
+
+v24: ἀπιστία (apistia)
+
+“Unbelief.” Not absence of belief, but instability or insufficiency of it.
+
+v29: προσευχή (proseuchē)
+
+“Prayer.” Expression of dependence, not ritual formula.
+
+v35: διάκονος (diakonos)
+
+“Servant.” One who acts on behalf of others.
 
 v42: σκανδαλίζω (skandalizō)
 “To cause to stumble.” To lead into failure or loss of faith.
 
 v48: γέεννα (geenna)
 “Gehenna.” Place of judgment imagery, not systematically defined.
+
+v49: ἁλίζω (halizō)
+
+“To salt.” Used metaphorically with ambiguous force.
 
 v50: εἰρηνεύω (eirēneuō)
 “To be at peace.” Communal orientation, not merely internal state.

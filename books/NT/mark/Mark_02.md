@@ -92,8 +92,7 @@ v27: The Sabbath is interpreted teleologically—its purpose governs its use.
 
 ##Vocabulary
 
-v05: ἀφίημι (aphiēmi)
-“to forgive,” release from obligation.
+v5: ἀφίημι (aphiēmi) — “to forgive,” release from obligation.  
 
 v10: ἐξουσία (exousia)
 “Authority, delegated or inherent power.”
@@ -103,3 +102,6 @@ v17: καλέω (kaleō)
 
 v27: σάββατον (sabbaton)
 “Sabbath, rest structured by covenant.”
+
+v05: ἀφίημι (aphiēmi)
+“to forgive,” release from obligation.

@@ -91,14 +91,51 @@ v22: The final image is one of exaltation and subjection. Authority is universal
 
 ##Vocabulary
 
-v08: συμπαθής (sympathēs)
-“Sympathetic.” Literally “suffering with,” indicating shared feeling.
+v1: ὑποτάσσω (hypotassō)  
+“To be subject.” The term denotes ordered relationship rather than inherent inferiority.  
 
-v09: εὐλογέω (eulogeō)
-“To bless.” Speech that invokes good rather than returns harm.
+v3: κόσμος (kosmos)  
+“Adorning” or “arrangement.” The word can refer to ornamentation or ordered appearance.  
+
+v4: ἄφθαρτος (aphthartos)  
+“Imperishable.” A key term for what is not subject to decay or loss.  
+
+v7: σκεῦος (skeuos)  
+“Vessel.” A metaphor for embodied existence, here qualified as “weaker” without full explanation.  
+
+v7: συγκληρονόμος (synklēronomos)  
+
+v7: “Co-heir.” Emphasizes shared inheritance and status.  
+
+v8: συμπαθής (sympathēs)  
+“Sympathetic.” Literally “suffering with,” indicating shared feeling.  
+
+v9: εὐλογέω (eulogeō)  
+“To bless.” Speech that invokes good rather than returns harm.  
+
+v12: πρόσωπον (prosōpon)  
+“Face.” Often signifies presence or relational stance.  
+
+v15: ἀπολογία (apologia)  
+“Defense.” A reasoned response or explanation, not necessarily formal or adversarial.  
+
+v16: συνείδησις (syneidēsis)  
+“Conscience.” Inner awareness of moral alignment or integrity.  
 
 v18: σάρξ (sarx)
 “Flesh.” Human embodied existence, often marked by mortality.
 
 v18: πνεῦμα (pneuma)
 “Spirit.” Here indicating the mode in which Christ is made alive.
+
+v21: ἐπερώτημα (eperōtēma)  
+“Appeal” or “pledge.” The term allows for both request and commitment in relation to God.  
+
+v22: ὑποτάσσω (hypotassō)  
+“To subject.” Reappears here in relation to cosmic powers under Christ’s authority.  
+
+v08: συμπαθής (sympathēs)
+“Sympathetic.” Literally “suffering with,” indicating shared feeling.
+
+v09: εὐλογέω (eulogeō)
+“To bless.” Speech that invokes good rather than returns harm.

@@ -60,6 +60,46 @@ v17: The question remains open; no answer is provided.
 
 ##Vocabulary
 
+v2: τόξον (toxon)
+
+“Bow.” Weapon of distance, implying indirect force.
+
+v4: μάχαιρα (machaira)
+
+“Sword.” Instrument of close violence.
+
+v5: ζυγός (zygos)
+
+“Scales.” Tool for weighing, here signaling controlled scarcity.
+
+v6: δηνάριον (dēnarion)
+
+“Denarius.” A day’s wage, indicating economic strain.
+
+v8: θάνατος (thanatos)
+
+“Death.” Personified as an active agent.
+
+v8: ᾅδης (hadēs)
+
+“Hades.” The realm of the dead, following death itself.
+
+v9: ψυχή (psychē)
+
+“Soul.” The life of a person, here continuing beyond death.
+
+v11: στολή λευκή (stolē leukē)
+
+“White robe.” Symbol of vindication or purity.
+
+v14: βιβλίον (biblion)
+
+“Scroll.” The sky compared to a rolled document.
+
+v17: ὀργή (orgē)
+
+“Wrath.” Directed response, not uncontrolled anger.
+
 v02: τόξον (toxon)
 “Bow.” Weapon of distance, implying indirect force.
 

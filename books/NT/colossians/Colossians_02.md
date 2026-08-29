@@ -96,6 +96,50 @@ v23: External discipline lacks power to transform internal desire.
 
 ##Vocabulary
 
+v1: ἀγών (agōn)
+
+“Struggle.” Intense effort or contest.
+
+v2: συμβιβάζω (symbibazō)
+
+“To knit together.” To unite closely.
+
+v3: θησαυρός (thēsauros)
+
+“Treasure.” Something of great value.
+
+v8: συλαγωγέω (sylagōgeō)
+
+“To take captive.” To carry off as spoil.
+
+v9: πλήρωμα (plērōma)
+
+“Fullness.” Complete totality.
+
+v11: περιτομή (peritomē)
+
+“Circumcision.” Covenantal sign.
+
+v14: χειρόγραφον (cheirographon)
+
+“Record of debt.” Written obligation.
+
+v15: ἀπεκδύομαι (apekdyomai)
+
+“To disarm.” Strip away power.
+
+v18: καταβραβεύω (katabrabeuō)
+
+“To disqualify.” Deprive of reward.
+
+v20: στοιχεῖα (stoicheia)
+
+“Elemental principles.” Basic structures or forces.
+
+v23: ἐθελοθρησκία (ethelothrēskia)
+
+“Self-made religion.” Voluntary or invented practice.
+
 v01: ἀγών (agōn)
 “Struggle.” Intense effort or contest.
 

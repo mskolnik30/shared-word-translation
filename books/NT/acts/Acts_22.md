@@ -119,6 +119,78 @@ v30: Authority seeks formal clarification through council procedure.
 
 ##Vocabulary
 
+v1: ἀπολογία (apologia)  
+
+v1: “Defense.”  
+
+v2: Ἑβραΐς (Hebrais)  
+
+v2: “Hebrew language.”  
+
+v3: ἀκρίβεια (akribeia)  
+
+v3: “Strictness.”  
+
+v4: διώκω (diōkō)  
+
+v4: “To persecute.”  
+
+v6: φῶς (phōs)  
+
+v6: “Light.”  
+
+v7: φωνή (phōnē)  
+
+v7: “Voice.”  
+
+v10: τάσσω (tassō)  
+
+v10: “To appoint.”  
+
+v12: εὐλαβής (eulabēs)  
+
+v12: “Devout.”  
+
+v14: δίκαιος (dikaios)  
+
+v14: “Righteous.”  
+
+v15: μάρτυς (martys)  
+
+v15: “Witness.”  
+
+v16: ἀπολούω (apolouō)  
+
+v16: “To wash away.”  
+
+v17: ἔκστασις (ekstasis)  
+
+v17: “Trance.”  
+
+v21: ἀποστέλλω (apostellō)  
+
+v21: “To send.”  
+
+v23: κονιορτός (koniortos)  
+
+v23: “Dust.”  
+
+v24: μαστιγόω (mastigoō)  
+
+v25: “To scourge.”  
+
+v25: Ῥωμαῖος (Rhōmaios)  
+
+v25: “Roman.”  
+
+v28: πολιτεία (politeia)  
+
+v28: “Citizenship.”  
+
+v30: συνέδριον (synedrion)  
+
+v30: “Council.”  
+
 v01: ἀπολογία (apologia)
 “Defense.”
 

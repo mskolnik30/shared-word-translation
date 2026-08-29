@@ -80,6 +80,46 @@ v16: Confidence is restored but not idealized. It emerges from tested relationsh
 
 ##Vocabulary
 
+v1: μολυσμός (molysmos)  
+
+v1: “Defilement.” Suggests contamination affecting purity or integrity.  
+
+v1: ἁγιωσύνη (hagiōsynē)  
+
+v1: “Holiness.” A state or condition brought toward completion.  
+
+v2: φθείρω (phtheirō)  
+
+v2: “To corrupt.” Can imply moral or relational damage.  
+
+v5: σάρξ (sarx)  
+
+v5: “Flesh.” Here indicating embodied existence under strain.  
+
+v6: ταπεινός (tapeinos)  
+
+v6: “Lowly” or “brought low.” Not merely humble but pressed down.  
+
+v9: μετάνοια (metanoia)  
+
+v9: “Repentance.” A change of mind and orientation.  
+
+v10: ἀμεταμέλητος (ametamelētos)  
+
+v10: “Without regret.” Not subject to reversal.  
+
+v11: σπουδή (spoudē)  
+
+v11: “Earnestness.” Diligent seriousness or urgency.  
+
+v11: ἐκδίκησις (ekdikēsis)  
+
+v11: “Justice” or “vindication.” The restoration of what is right.  
+
+v15: φόβος καὶ τρόμος (phobos kai tromos)  
+
+v15: “Fear and trembling.” A formula expressing seriousness, reverence, or weight of response.  
+
 v01: μολυσμός (molysmos)
 “Defilement.” Suggests contamination affecting purity or integrity.
 

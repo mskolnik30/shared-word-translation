@@ -83,6 +83,49 @@ v21: Severity increases; response remains resistance rather than repentance.
 
 ##Vocabulary
 
+v1: φιάλη (phialē)
+
+“Bowl.” Vessel for pouring out contents.
+
+v2: ἕλκος (helkos)
+
+“Sore.” A wound or ulcer, painful and visible.
+
+v3: ψυχή (psychē)
+
+“Living being.” Life principle, here extinguished.
+
+v5: δίκαιος (dikaios)
+
+“Just.” In alignment with what is right.
+
+v6: αἷμα (haima)
+
+“Blood.” Life poured out, here repaid.
+
+v8: καυματίζω (kaumatizō)
+
+“To scorch.” Intense burning heat.
+
+v10: σκότος (skotos)
+
+“Darkness.” Absence of light, often associated with judgment.
+
+v12: Εὐφράτης (Euphratēs)
+
+“Euphrates.” Boundary marker, both geographic and symbolic.
+
+v14: δαιμόνιον (daimonion)
+“Demonic spirit.” Supernatural agent opposed to God.
+
+v16: Ἁρμαγεδών (Harmagedōn)
+
+“Armageddon.” Named place without explanation.
+
+v21: τάλαντον (talanton)
+
+“A measure of weight.” Extremely heavy unit.
+
 v01: φιάλη (phialē)
 “Bowl.” Vessel for pouring out contents.
 
@@ -91,6 +134,3 @@ v02: ἕλκος (helkos)
 
 v03: ψυχή (psychē)
 “Living being.” Life principle, here extinguished.
-
-v14: δαιμόνιον (daimonion)
-“Demonic spirit.” Supernatural agent opposed to God.

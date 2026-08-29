@@ -131,6 +131,48 @@ v46: Binary outcome—eternal punishment vs eternal life.
 
 ##Vocabulary
 
+v8: λαμπάδες (*lampades*) — “Lamps.” Torches used in procession.  
+
+v2: μωραί (*mōrai*) — “Foolish.” Lacking foresight.  
+
+v2: φρόνιμοι (*phronimoi*) — “Wise.” Practically discerning.  
+
+v10: ἕτοιμοι (hetoimoi)
+“Ready.” Prepared in advance.
+
+v12: οἶδα (*oida*) — “Know.” Recognize relationally.  
+
+v14: παρέδωκεν (*paredōken*) — “Entrusted.” Gave over for stewardship.  
+
+v15: τάλαντον (*talanton*) — “Talent.” Large monetary unit.  
+
+v16: ἐργάσατο (*ergasato*) — “Worked.” Engaged productively.  
+
+v19: συναίρει λόγον (*synairei logon*) — “Settled accounts.” Audited reckoning.  
+
+v21: πιστός (pistos)
+“Faithful.” Reliable in duty.
+
+v24: σκληρός (*sklēros*) — “Hard.” Severe, demanding.  
+
+v25: ἔκρυψα (*ekrypsa*) — “Hid.” Concealed intentionally.  
+
+v26: πονηρός (*ponēros*) — “Wicked.” Morally deficient.  
+
+v26: ὀκνηρός (*oknēros*) — “Slothful.” Negligent, inactive.  
+
+v30: σκότος ἐξώτερον (*skotos exōteron*) — “Outer darkness.” Realm of exclusion.  
+
+v32: ἔθνη (*ethnē*) — “Nations.” Peoples collectively.  
+
+v34: κληρονομήσατε (*klēronomēsate*) — “Inherit.” Receive as portion.  
+
+v40: ἐλάχιστοι (*elachistoi*) — “Least.” Socially minimal or vulnerable.  
+
+v46: κόλασις (*kolasis*) — “Punishment.” Corrective or penal suffering.  
+
+v46: ζωή αἰώνιος (*zōē aiōnios*) — “Eternal life.” Life of the age to come.  
+
 v08: λαμπάδες (lampades)
 “Lamps.” Torches used in procession.
 
@@ -139,9 +181,3 @@ v02: μωραί (mōrai)
 
 v02: φρόνιμοι (phronimoi)
 “Wise.” Practically discerning.
-
-v10: ἕτοιμοι (hetoimoi)
-“Ready.” Prepared in advance.
-
-v21: πιστός (pistos)
-“Faithful.” Reliable in duty.

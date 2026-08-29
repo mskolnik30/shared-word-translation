@@ -107,6 +107,50 @@ v27: Public reading ensures communal reception and accountability.
 
 ##Vocabulary
 
+v1: καιρός (kairos)  
+
+v1: “Season.” Appointed or decisive time.  
+
+v2: κλέπτης (kleptēs)  
+
+v2: “Thief.” One who comes unexpectedly.  
+
+v5: φῶς (phōs)  
+
+v5: “Light.” Associated with revelation and clarity.  
+
+v6: γρηγορέω (grēgoreō)  
+
+v6: “To keep awake.” To remain alert.  
+
+v8: θώραξ (thōrax)  
+
+v8: “Breastplate.” Protective armor.  
+
+v9: ὀργή (orgē)  
+
+v9: “Wrath.” Divine judgment.  
+
+v11: οἰκοδομέω (oikodomeō)  
+
+v11: “To build up.” To strengthen or edify.  
+
+v14: ὀλιγόψυχος (oligopsychos)  
+
+v14: “Fainthearted.” Discouraged or small-souled.  
+
+v19: σβέννυμι (sbennymi)  
+
+v19: “To quench.” To extinguish.  
+
+v21: δοκιμάζω (dokimazō)  
+
+v21: “To test.” To examine and approve.  
+
+v23: ἁγιάζω (hagiazō)  
+
+v23: “To sanctify.” To set apart as holy.  
+
 v01: καιρός (kairos)
 “Season.” Appointed or decisive time.
 

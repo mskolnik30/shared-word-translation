@@ -114,14 +114,30 @@ v01: A textual question stands here.
 
 ##Vocabulary
 
+v1: δικαιοσύνη (dikaiosynē) — Righteousness, right practice. Names a way of life rather than a moral state.  
+
+v2: ὑποκριτής (hypokritēs) — Hypocrite, literally one who plays a part on a stage. The metaphor is theatrical, not moralistic.  
+
+v6: ταμεῖον (tameion) — Inner room, storeroom. The least visible part of the house.  
+
+v7: βατταλογέω (battalogeō) — To babble, to repeat empty phrases. Onomatopoeic.  
+
+v11: ἐπιούσιος (epiousios)
+“An uncertain word usually rendered daily. Possibly for the coming day or necessary for existence.”
+
+v12: ὀφειλήματα (opheilēmata) — Debts, what is owed. The financial sense is primary.  
+
+v13: πονηροῦ (ponērou) — “The evil” or “the evil one.” The genitive is ambiguous and the ambiguity is preserved.  
+
+v22: ἁπλοῦς (haplous)
+“Single, undivided, sound. In Hebrew idiom, generous.”
+
+v24: μαμωνᾶ (mamōna) — Wealth, property. An Aramaic loanword personified as a master.  
+
+v25: μεριμνάω (merimnaō) — To be anxious, to be drawn in many directions. Carries the sense of inner division.  
+
 v01: δικαιοσύνη (dikaiosynē)
 “Righteousness, right practice. Names a way of life rather than a moral state.”
 
 v02: ὑποκριτής (hypokritēs)
 “Hypocrite, literally one who plays a part on a stage.” The metaphor is theatrical, not moralistic.
-
-v11: ἐπιούσιος (epiousios)
-“An uncertain word usually rendered daily. Possibly for the coming day or necessary for existence.”
-
-v22: ἁπλοῦς (haplous)
-“Single, undivided, sound. In Hebrew idiom, generous.”

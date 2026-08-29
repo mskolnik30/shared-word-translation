@@ -114,6 +114,37 @@ v42–47: The community is described through practices rather than structure; de
 
 ##Vocabulary
 
+v1: πεντηκοστή (pentēkostē)  
+“Pentecost.” A festival occurring fifty days after Passover; here the setting for the Spirit’s outpouring.  
+
+v2: πνοή (pnoē)  
+
+v2: “Wind” or “breath.” Connotes both natural force and life-giving presence.  
+
+v4: γλῶσσα (glōssa)  
+“Tongue” or “language.” Carries both physical and linguistic meaning.  
+
+v17: πνεῦμα (pneuma)
+“Spirit.” Can mean wind, breath, or Spirit; the term remains layered.
+
+v23: πρόγνωσις (prognōsis)
+“Foreknowledge.” Indicates prior knowing without detailing causation.
+
+v24: ὠδῖνες (ōdines)  
+“Pains.” Often used for birth pangs, suggesting both suffering and transition.  
+
+v36: κύριος (kyrios)  
+“Lord.” A title of authority; in this context, associated with divine status.  
+
+v37: κατανύσσομαι (katanussomai)  
+“To be pierced” or “cut.” Indicates deep internal impact.  
+
+v38: μετάνοια (metanoia)  
+“Repentance.” A turning or reorientation of mind and life.  
+
+v42: κοινωνία (koinōnia)  
+“Fellowship.” Shared life and participation within the community.  
+
 v01: πεντηκοστή (pentēkostē)
 “Pentecost.” A festival occurring fifty days after Passover; here the setting for the Spirit’s outpouring.
 
@@ -122,9 +153,3 @@ v02: πνοή (pnoē)
 
 v04: γλῶσσα (glōssa)
 “Tongue” or “language.” Carries both physical and linguistic meaning.
-
-v17: πνεῦμα (pneuma)
-“Spirit.” Can mean wind, breath, or Spirit; the term remains layered.
-
-v23: πρόγνωσις (prognōsis)
-“Foreknowledge.” Indicates prior knowing without detailing causation.

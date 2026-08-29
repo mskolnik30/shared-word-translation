@@ -212,20 +212,106 @@ v69–75: Peter’s denial — Bold promises collapse under pressure. Yet Peter�
 
 ##Vocabulary
 
+v2: πάσχα (pascha) — Passover
+
+v2: παραδίδωμι (paradidōmi) — to hand over; to deliver up; to betray
+
+v2: σταυρόω (stauroō) — to crucify
+
+v4: κρατέω (krateō) — to seize; to take hold of
+
+v4: δόλος (dolos) — deceit; cunning; stealth
+
+v7: ἀλάβαστρον (alabastron) — alabaster jar
+
+v7: μύρον (myron) — ointment; perfumed oil
+
+v10: κόπος (kopos) / καλὸν ἔργον (kalon ergon) — labor / beautiful work; good deed
+
+v11: πτωχός (ptōchos) — poor
+
+v13: μνημόσυνον (mnēmosynon) — memorial; remembrance
+
+v15: ἀργύριον (argyrion) — silver; silver coin
+
+v17: ἄζυμα (azyma) — unleavened bread; unleavened things
+
+v18: καιρός (kairos) — appointed time; fitting time
+
+v21: λυπέω (lypeō) — to grieve; to cause sorrow
+
+v24: οὐαί (ouai) — woe; alas
+
+v26: κλάω (klaō) — to break
+
+v26: εὐλογέω (eulogeō)
+“To bless.”
+
+v27: εὐχαριστέω (eucharisteō) — to give thanks
+
+v28: ἄφεσις (aphesis) — forgiveness; release
+
+v28: διαθήκη (diathēkē)
+“Covenant.”
+
+v29: γέννημα τῆς ἀμπέλου (gennēma tēs ampelou) — fruit of the vine
+
+v30: ὑμνέω (hymneō) — to sing a hymn
+
+v31: σκανδαλίζω (skandalizō) — to cause to stumble; to fall away
+
+v32: ἐγείρω (egeirō) — to raise; to awaken
+
+v36: προσεύχομαι (proseuchomai) — to pray
+
+v37: λυπέω (lypeō) — to grieve; to be sorrowful
+
+v37: ἀδημονέω (adēmoneō) — to be distressed; to be troubled
+
+v38: γρηγορέω (grēgoreō) — to keep watch; to stay awake
+
+v38: ψυχή (psychē)
+“Soul; life; self.”
+
+v39: ποτήριον (potērion) — cup
+
+v41: πειρασμός (peirasmos) — testing; trial; temptation
+
+v41: πρόθυμος (prothymos) — willing; eager; ready
+
+v47: ξίφος (xiphos) — sword
+
+v47: ξύλον (xylon) — club; stick
+
+v49: χαίρω (chairō) — greetings; rejoice
+
+v50: ἑταῖρος (hetairos) — companion; friend
+
+v52: μάχαιρα (machaira) — sword; blade
+
+v53: λεγιών (legiōn) — legion
+
+v55: λῃστής (lēstēs) — robber; bandit; insurgent
+
+v59: ψευδομαρτυρία (pseudomartyria) — false testimony
+
+v63: ἐξορκίζω (exorkizō) — to put under oath; to adjure
+
+v64: δύναμις (dynamis) — power; might; here, Power as divine designation
+
+v65: βλασφημέω (blasphēmeō) — to blaspheme; to speak irreverently
+
+v66: ἔνοχος θανάτου (enochos thanatou) — liable to death; deserving death
+
+v72: ὅρκος (horkos) — oath
+
+v74: καταθεματίζω (katathematizō)
+“To invoke a curse on oneself.”
+
+v75: πικρῶς (pikrōs) — bitterly
+
 v02: πάσχα (pascha)
 “Passover.”
 
 v02: παραδίδωμι (paradidōmi)
 “To hand over; to deliver up; to betray.”
-
-v26: εὐλογέω (eulogeō)
-“To bless.”
-
-v28: διαθήκη (diathēkē)
-“Covenant.”
-
-v38: ψυχή (psychē)
-“Soul; life; self.”
-
-v74: καταθεματίζω (katathematizō)
-“To invoke a curse on oneself.”

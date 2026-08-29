@@ -78,14 +78,28 @@ v01: Some manuscripts omit “in the Lord.” The phrase is preserved here on th
 
 ##Vocabulary
 
+v4: παιδεία (paideia) — Discipline, formation, the whole shape of training a child.  
+
+v6: ὀφθαλμοδουλία (ophthalmodoulia) — Eye-service. The word, possibly coined by Paul, names work performed only when watched.  
+
+v9: προσωπολημψία (prosōpolēmpsia) — Partiality, favoritism. Literally “face-receiving.”  
+
+v10: ἐνδυναμοῦσθε (endynamousthe) — Be made strong, be empowered. The form is passive; strength is given.  
+
+v12: κοσμοκράτωρ (kosmokratōr) — Ruler of the cosmos. A title used of imperial powers and of spiritual authorities.  
+
+v14: περιζώννυμι (perizōnnymi) — To gird oneself, to fasten a belt. The first action before any combat.  
+
+v15: ἑτοιμασία (hetoimasia)
+“Readiness, preparation. The shoes are not the gospel itself but the readiness it gives.”
+
+v17: ῥῆμα (rhēma) — A word spoken, an utterance. Distinct from λόγος in this verse.  
+
+v24: ἀφθαρσία (aphtharsia)
+“Incorruption, imperishability. The word of resurrection life.”
+
 v04: παιδεία (paideia)
 “Discipline, formation, the whole shape of training a child.”
 
 v09: προσωπολημψία (prosōpolēmpsia)
 “Partiality, favoritism. Literally “face-receiving.”.”
-
-v15: ἑτοιμασία (hetoimasia)
-“Readiness, preparation. The shoes are not the gospel itself but the readiness it gives.”
-
-v24: ἀφθαρσία (aphtharsia)
-“Incorruption, imperishability. The word of resurrection life.”

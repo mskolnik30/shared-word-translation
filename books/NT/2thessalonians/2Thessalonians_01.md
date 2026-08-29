@@ -67,14 +67,50 @@ v11–12: Worthiness is both given and enacted. Prayer seeks alignment between c
 
 ##Vocabulary
 
+v3: ὑπεραυξάνω (hyperauxanō)  
+
+v3: “To grow abundantly.” Increase beyond measure.  
+
+v3: ἄξιος (axios)  
+
+v3: “Worthy.” Corresponding to a calling.  
+
+v4: ὑπομονή (hypomonē)  
+
+v4: “Steadfastness.” Endurance under pressure.  
+
+v6: δίκαιος (dikaios)  
+
+v6: “Just.” Acting in accordance with right.  
+
+v7: ἄνεσις (anesis)  
+
+v7: “Relief.” Release from pressure.  
+
+v8: ἐκδίκησις (ekdikēsis)  
+
+v8: “Vengeance.” Execution of justice.  
+
+v9: ὄλεθρος (olethros)  
+
+v9: “Destruction.” Ruin or loss.  
+
+v11: πληρόω (plēroō)  
+
+v11: “To fulfill.” Bring to completion.  
+
+v12: δοξάζω (doxazō)  
+
+v12: “To glorify.” To honor or make known.  
+
 v03: ὑπεραυξάνω (hyperauxanō)
 “To grow abundantly.” Increase beyond measure.
 
-v04: ὑπομονή (hypomonē)
-“Steadfastness.” Endurance under pressure.
-
 v03: ἄξιος (axios)
 “Worthy.” Corresponding to a calling.
+
+v04: ὑπομονή (hypomonē)
+“Steadfastness.” Endurance under pressure.
 
 v06: δίκαιος (dikaios)
 “Just.” Acting in accordance with right.

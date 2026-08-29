@@ -78,6 +78,46 @@ v14: The response concludes with affirmation (“Amen”) and embodied worship.
 
 ##Vocabulary
 
+v1: βιβλίον (biblion)
+
+“Scroll.” A written document; here symbolically complete and sealed.
+
+v2: ἄξιος (axios)
+
+“Worthy.” Denotes fitness or qualification, not moral abstraction alone.
+
+v5: νικάω (nikaō)
+
+“To conquer.” Victory expressed without specifying method.
+
+v6: ἀρνίον (arnion)
+
+“Lamb.” Diminutive form, emphasizing vulnerability alongside significance.
+
+v6: κέρας (keras)
+
+“Horn.” Symbol of strength or authority.
+
+v8: φιάλη (phialē)
+
+“Bowl.” Vessel used for offering, here holding prayers.
+
+v9: ἀγοράζω (agorazō)
+
+“To purchase.” Language of acquisition, used metaphorically for redemption.
+
+v11: μυριάς (myrias)
+
+“Myriad.” An innumerable quantity, not a precise count.
+
+v12: δύναμις (dynamis)
+
+“Power.” Capacity or force, often associated with divine action.
+
+v13: κράτος (kratos)
+
+“Dominion.” Manifested power or ruling strength.
+
 v01: βιβλίον (biblion)
 “Scroll.” A written document; here symbolically complete and sealed.
 

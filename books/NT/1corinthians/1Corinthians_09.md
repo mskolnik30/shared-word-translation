@@ -103,6 +103,78 @@ v24–27: Athletic imagery illustrates disciplined pursuit of faithfulness.
 
 ##Vocabulary
 
+v1: ἀπόστολος (apostolos)  
+
+v1: “Apostle.”  
+
+v2: σφραγίς (sphragis)  
+
+v2: “Seal.”  
+
+v3: ἀπολογία (apologia)  
+
+v3: “Defense.”  
+
+v4: ἐξουσία (exousia)  
+
+v4: “Right.”  
+
+v7: στρατεύομαι (strateuomai)  
+
+v7: “To serve as a soldier.”  
+
+v9: φιμόω (phimoō)  
+
+v9: “To muzzle.”  
+
+v10: ἐλπίς (elpis)  
+
+v10: “Hope.”  
+
+v11: σπείρω (speirō)  
+
+v11: “To sow.”  
+
+v12: ἐγκόπτω (enkoptō)  
+
+v12: “To hinder.”  
+
+v13: ἱερόν (hieron)  
+
+v13: “Temple.”  
+
+v14: διατάσσω (diatassō)  
+
+v14: “To direct.”  
+
+v16: ἀνάγκη (anankē)  
+
+v16: “Necessity.”  
+
+v17: οἰκονομία (oikonomia)  
+
+v17: “Stewardship.”  
+
+v19: δουλόω (douloō)  
+
+v19: “To enslave.”  
+
+v22: πάντως  
+
+v22: “By all means.”  
+
+v24: στάδιον (stadion)  
+
+v24: “Race.”  
+
+v25: ἐγκρατεύομαι (enkrateuomai)  
+
+v25: “To exercise self-control.”  
+
+v27: ἀδόκιμος (adokimos)  
+
+v27: “Disqualified.”  
+
 v01: ἀπόστολος (apostolos)
 “Apostle.”
 

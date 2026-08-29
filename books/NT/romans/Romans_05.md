@@ -65,14 +65,47 @@ v21: “grace might exercise dominion” — The chapter concludes by returning 
 
 ##Vocabulary
 
+v01: δικαιόω (dikaioō)
+“To set right.” Denotes restoration to right standing. In Romans 5, the term gathers the argument of chapters 3–4 and describes an established reality.
+
 v01: πίστις (pistis)
-“Trust; faith; faithfulness.” A relational term involving reliance and allegiance.
+“Trust; faith; faithfulness.” A relational term involving reliance and allegiance. TSW uses “trust” in this context while recognizing the term’s wider semantic range.
 
 v01: εἰρήνη (eirēnē)
 “Peace.” Restored relationship and wholeness rather than merely inward calm. “Peace with God” marks the end of hostility.
 
+v02: καυχάομαι (kauchaomai)
+“To boast.” Paul redirects boasting away from human achievement and toward God’s action.
+
 v05: ἀγάπη (agapē)
 “Love.” Here God’s love is described as something poured into human hearts through the Holy Spirit and demonstrated in Christ’s death.
 
+v10: καταλλαγή (katallagē)
+“Reconciliation.” The removal of enmity and restoration of relationship. In this passage reconciliation originates in God and is received rather than negotiated.
+
+v12: ἁμαρτία (hamartia)
+“Sin.” In this section Paul increasingly speaks of sin not merely as individual acts but as a power associated with death and dominion.
+
+v14: τύπος (typos)
+“Type” or “pattern.” A correspondence that points beyond itself. Adam is described as a type of the one who was to come without being made equivalent to Christ.
+
+v14: βασιλεύω (basileuō)
+“To exercise dominion” or “to reign.” Used first of death’s rule and later transferred to those who receive grace and finally to grace itself.
+
+v15: παράπτωμα (paraptōma)
+“Trespass.” A false step or transgression. Paul repeatedly contrasts the trespass with the gift.
+
+v18: δικαίωμα (dikaiōma)
+“Righteous act.” The term can refer to a righteous deed or action. Here it stands opposite the one trespass and leads to setting right and life.
+
 v19: παρακοή (parakoē)
 “Disobedience.” Literally a failure or refusal to hear. It describes the action of the one human being through whom the many were made sinners.
+
+v19: ὑπακοή (hypakoē)
+“Obedience.” Responsive hearing expressed in action. Paul places the obedience of the one in deliberate contrast with the disobedience of the one.
+
+v20: ὑπερπερισσεύω (hyperperisseuō)
+“To overflow all the more.” An intensified verb describing grace as exceeding the increase of sin rather than merely matching it.
+
+v21: ζωὴ αἰώνιος (zōē aiōnios)
+“Eternal life” or “life of the age.” The destination of grace’s dominion through righteousness, given through Jesus Christ our Lord.

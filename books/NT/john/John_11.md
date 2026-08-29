@@ -131,17 +131,51 @@ v57: “report it… arrest him” — The chapter closes with surveillance and 
 
 ##Vocabulary
 
+v1: ἀσθενέω (astheneō) — to be sick; to be weak  
+
+v5: ἀγαπάω (agapaō) — to love (self-giving love)  
+
+v4: δόξα (doxa) — glory; honor; revealed weight/brightness  
+
+v9: φῶς (phōs) — light  
+
+v11: κοιμάω (koimaō) — to sleep (often a metaphor for death)  
+
+v14: ἀποθνῄσκω (apothnēskō) — to die  
+
+v15: πιστεύω (pisteuō)
+“To trust; to entrust oneself.”
+
+v17: μνημεῖον (mnēmeion) — tomb; memorial tomb  
+
+v19: παραμυθέομαι (paramytheomai) — to console; to comfort  
+
+v25: ζωή (zōē) — life (life in its fullest sense)  
+
+v25: ἀνάστασις (anastasis)
+“Resurrection; rising.”
+
+v33: ἐμβριμάομαι (embrimaomai) — to be deeply moved; to snort with indignation (strong inner agitation)  
+
+v35: δακρύω (dakryō) — to weep; to shed tears  
+
+v43: κραυγάζω (kraugazō) — to cry out; to shout  
+
+v44: λύω (lyō) — to loosen; to unbind; to release  
+
+v47: συνέδριον (synedrion) — council; Sanhedrin  
+
+v48: Ῥωμαῖοι (Rhōmaioi) — Romans  
+
+v49: ἀρχιερεύς (archiereus)
+“High priest.”
+
+v52: συνάγω (synagō) — to gather together; to bring into one  
+
+v57: συλλαμβάνω (syllambanō) — to seize; to arrest  
+
 v01: ἀσθενέω (astheneō)
 “To be sick; to be weak.”
 
 v04: δόξα (doxa)
 “Glory; honor; revealed weight/brightness.”
-
-v15: πιστεύω (pisteuō)
-“To trust; to entrust oneself.”
-
-v25: ἀνάστασις (anastasis)
-“Resurrection; rising.”
-
-v49: ἀρχιερεύς (archiereus)
-“High priest.”

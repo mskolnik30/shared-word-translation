@@ -82,3 +82,12 @@ v18–23: Timothy embodies the pattern just described. His concern for others co
 v24–29: Epaphroditus is honored not for success but for costly faithfulness. Risk and near loss become markers of service in Christ.
 
 ##Vocabulary
+
+v1: παράκλησις (paraklēsis)  
+“Encouragement” or “comfort.” Often carries the sense of coming alongside, strengthening relational bonds.
+
+v3: κενοδοξία (kenodoxia)  
+“Empty glory.” Refers to status-seeking that lacks substance.
+
+v5: φρόνημα (phronēma)  
+“Mind” or “mindset.” Indicates a pattern of thinking that shapes action and communal life.

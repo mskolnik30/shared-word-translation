@@ -123,14 +123,58 @@ v26: This verse is absent from the earliest and strongest Greek witnesses; later
 
 ##Vocabulary
 
-v09: ὡσαννά (hōsanna)
+v2: πῶλος (pōlos)
+
+“Colt.” A young animal, here tied to royal and prophetic symbolism.
+
+v9: ὡσαννά (hōsanna)
+
 “Hosanna.” A cry for salvation that becomes praise.
 
 v10: βασιλεία (basileia)
 “Kingdom.” Reign or rule, here linked with Davidic expectation.
 
+v13: συκῆ (sykē)
+
+“Fig tree.” Often symbolic in prophetic contexts, here enacted as judgment.
+
+v14: καρπός (karpos)
+
+“Fruit.” Produce, outcome, or visible result.
+
+v15: ἱερόν (hieron)
+
+“Temple.” The temple precincts, not merely the inner sanctuary.
+
+v17: προσευχή (proseuchē)
+
+“Prayer.” The proper vocation of the house of God.
+
+v17: σπήλαιον λῃστῶν (spēlaion lēstōn)
+
+“Den of robbers.” Prophetic phrase indicating corrupt refuge, not ordinary commerce alone.
+
+v18: ἐκπλήσσω (ekplēssō)
+
+“To be astonished.” Strong amazement, often at Jesus’ teaching.
+
 v22: πίστις (pistis)
 “Faith.” Trust directed toward God.
 
+v23: διακρίνω (diakrinō)
+
+“To doubt, waver, dispute within oneself.”
+
+v25: ἀφίημι (aphiēmi)
+
+“To forgive, release.” To let go of an offense or debt.
+
+v28: ἐξουσία (exousia)
+
+“Authority.” Right or power to act.
+
 v32: προφήτης (prophētēs)
 “Prophet.” One who speaks with divine authority.
+
+v09: ὡσαννά (hōsanna)
+“Hosanna.” A cry for salvation that becomes praise.

@@ -137,6 +137,83 @@ v36–38: Emotional farewell reflects deep relational bonds.
 
 ##Vocabulary
 
+v1: παρακαλέω (parakaleō)  
+
+v1: “To encourage.”  
+
+v3: ἐπιβουλή (epiboulē)  
+
+v3: “Plot.”  
+
+v7: κλάω (klaō)  
+
+v7: “To break (bread).”  
+
+v9: κατενέγκω (katenenkō)  
+
+v9: “To bring down.”  
+
+v10: ἐπιπίπτω (epipiptō)
+“To fall upon.”
+
+v10: “To fall upon.”  
+
+v16: σπεύδω (speudō)  
+
+v16: “To hurry.”  
+
+v17: πρεσβύτερος (presbyteros)  
+
+v17: “Elder.”  
+
+v19: ταπεινοφροσύνη (tapeinophrosynē)  
+
+v19: “Humility.”  
+
+v21: μετάνοια (metanoia)  
+
+v21: “Repentance.”  
+
+v23: δεσμός (desmos)  
+
+v23: “Imprisonment.”  
+
+v24: δρόμος (dromos)  
+
+v24: “Course.”  
+
+v28: ἐπίσκοπος (episkopos)  
+
+v28: “Overseer.”  
+
+v29: λύκος (lykos)  
+
+v29: “Wolf.”  
+
+v30: διαστρέφω (diastrephō)  
+
+v30: “To distort.”  
+
+v31: νουθετέω (noutheteō)  
+
+v31: “To admonish.”  
+
+v32: οἰκοδομέω (oikodomeō)  
+
+v32: “To build up.”  
+
+v33: ἐπιθυμέω (epithymeō)  
+
+v33: “To covet.”  
+
+v35: μακάριος (makarios)  
+
+v35: “Blessed.”  
+
+v37: καταφιλέω (kataphileō)  
+
+v37: “To kiss fervently.”  
+
 v01: παρακαλέω (parakaleō)
 “To encourage.”
 
@@ -148,6 +225,3 @@ v07: κλάω (klaō)
 
 v09: κατενέγκω (katenenkō)
 “To bring down.”
-
-v10: ἐπιπίπτω (epipiptō)
-“To fall upon.”

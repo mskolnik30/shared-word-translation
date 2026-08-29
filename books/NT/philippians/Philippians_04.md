@@ -81,14 +81,47 @@ v21–23: The closing emphasizes connection across distance. The mention of the 
 
 ##Vocabulary
 
+v1: στήκω (stēkō)  
+“To stand firm.” Conveys steadfastness and stability under pressure.  
+
+v3: συνεργός (synergos)  
+“Coworker.” Indicates shared labor and mutual participation in the gospel.  
+
+v5: ἐπιεικής (epieikēs)  
+“Gentleness.” A yielding posture that reflects restraint and consideration for others.  
+
+v6: προσευχή (proseuchē)  
+“Prayer.” General term for addressing God, encompassing dependence and relationship.  
+
+v7: εἰρήνη (eirēnē)  
+“Peace.” More than absence of conflict; signifies wholeness and restored order.  
+
+v8: λογίζομαι (logizomai)  
+“To think about.” Implies intentional reflection and disciplined attention.  
+
+v11: αὐτάρκης (autarkēs)
+“Content.” Self-sufficiency redefined as sufficiency grounded in Christ.
+
+v12: μυστήριον (mystērion)  
+“Secret.” Something learned through experience, not merely taught conceptually.  
+
+v13: ἐνδυναμόω (endynamoō)  
+“To strengthen.” To be empowered or enabled from an external source.  
+
+v17: καρπός (karpos)
+“Fruit.” Represents tangible outcome or result, especially of faithful action.
+
+v18: ὀσμή (osmē)  
+“Fragrant offering.” Draws from sacrificial imagery, indicating pleasing worship.  
+
+v19: πληρόω (plēroō)  
+“To supply” or “to fill.” Suggests fullness provided according to divine abundance.  
+
+v23: χάρις (charis)  
+“Grace.” Gifted favor that sustains and defines the life of the community.  
+
 v03: συνεργός (synergos)
 “Coworker.” Indicates shared labor and mutual participation in the gospel.
 
 v07: εἰρήνη (eirēnē)
 “Peace; well-being; wholeness.”
-
-v11: αὐτάρκης (autarkēs)
-“Content.” Self-sufficiency redefined as sufficiency grounded in Christ.
-
-v17: καρπός (karpos)
-“Fruit.” Represents tangible outcome or result, especially of faithful action.

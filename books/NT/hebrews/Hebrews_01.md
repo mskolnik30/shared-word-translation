@@ -97,6 +97,58 @@ v14: Angels serve; they are not central actors.
 
 ##Vocabulary
 
+v1: πολυμερῶς (polymerōs)  
+
+v1: “In many parts.” Various portions.  
+
+v1: πολυτρόπως (polytropōs)  
+
+v1: “In many ways.” Various methods.  
+
+v2: υἱός (huios)  
+
+v2: “Son.” One in relational identity.  
+
+v2: αἰών (aiōn)  
+
+v2: “Ages.” Time or created order.  
+
+v3: ἀπαύγασμα (apaugasma)  
+
+v3: “Radiance.” Emission of light.  
+
+v3: χαρακτήρ (charaktēr)  
+
+v3: “Imprint.” Exact representation.  
+
+v3: φέρω (pherō)  
+
+v3: “To uphold.” To carry or sustain.  
+
+v4: κρείττων (kreittōn)  
+
+v4: “Superior.” Greater in rank.  
+
+v6: πρωτότοκος (prōtotokos)  
+
+v6: “Firstborn.” One with priority.  
+
+v8: θρόνος (thronos)  
+
+v8: “Throne.” Seat of rule.  
+
+v10: θεμελιόω (themelioō)  
+
+v10: “To lay a foundation.” To establish.  
+
+v13: δεξιός (dexios)  
+
+v13: “Right hand.” Position of honor.  
+
+v14: λειτουργικός (leitourgikos)  
+
+v14: “Ministering.” Serving role.  
+
 v01: πολυμερῶς (polymerōs)
 “In many parts.” Various portions.
 

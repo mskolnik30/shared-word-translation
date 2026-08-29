@@ -96,11 +96,51 @@ v39–40: Barabbas released — The crowd chooses a violent insurgent (“bandit
 
 ##Vocabulary
 
+v01: κῆπος (kēpos) — garden
+
+v01: χειμάρρους (cheimarrous) — ravine; winter stream (as in Kidron valley)
+
 v01: κῆπος (kēpos)
 “Garden.”
 
+v03: σπεῖρα (speira) — cohort; detachment of soldiers
+
+v03: ὅπλον (hoplon) — weapon; arms
+
+v05: ἐγώ εἰμι (egō eimi) — “I am” / “I am he” (self-identification)
+
+v06: πίπτω (piptō) — to fall
+
+v10: μάχαιρα (machaira) — sword; dagger
+
+v11: ποτήριον (potērion) — cup
+
+v11: πίνω (pinō) — to drink
+
+v12: συλλαμβάνω (syllambanō) — to arrest; to seize
+
+v12: δέω (deō) — to bind; to tie up
+
 v13: ἀρχιερεύς (archiereus)
 “High priest.”
+
+v17: ἀρνέομαι (arneomai) — to deny; to disown
+
+v18: ἀνθρακιά (anthrakia) — charcoal fire
+
+v20: παρρησίᾳ (parrēsia) — openly; with boldness
+
+v22: ῥαπίζω (rhapizō) — to strike; to slap
+
+v28: πραιτώριον (praitōrion) — governor’s headquarters; praetorium
+
+v28: μιαίνω (miainō) — to defile; to stain
+
+v29: κατηγορία (katēgoria) — accusation; charge
+
+v31: κρίνω (krinō) — to judge
+
+v33: βασιλεύς (basileus) — king
 
 v36: βασιλεία (basileia)
 “Kingdom; reign.”
@@ -110,3 +150,7 @@ v37: μαρτυρέω (martyreō)
 
 v37: ἀλήθεια (alētheia)
 “Truth; reality; faithfulness.”
+
+v39: ἀπολύω (apolyō) — to release; to set free
+
+v40: λῃστής (lēstēs) — bandit; insurgent; robber

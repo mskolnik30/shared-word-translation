@@ -73,14 +73,23 @@ v24–27: The distinction lies in doing; both hear, only one acts.
 
 ##Vocabulary
 
-v01: κρίνω (krinō)
-“To judge; to evaluate or pronounce judgment, with scope left open by context.”
+v1: κρίνω (krinō)  
+To judge; to evaluate or pronounce judgment, with scope left open by context.  
 
-v06: ἅγιον (hagion)
-“Holy; that which is set apart, without specification of kind.”
+v6: ἅγιον (hagion)  
+Holy; that which is set apart, without specification of kind.  
 
 v13: ἀπώλεια (apōleia)
 “Destruction; ruin or loss rather than simple cessation.”
 
 v23: ἀνομία (anomia)
 “Lawlessness; disregard for ordered life under God.”
+
+v24: πέτρα (petra)  
+Rock; a stable foundation, implying endurance.  
+
+v01: κρίνω (krinō)
+“To judge; to evaluate or pronounce judgment, with scope left open by context.”
+
+v06: ἅγιον (hagion)
+“Holy; that which is set apart, without specification of kind.”

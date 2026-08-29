@@ -93,6 +93,62 @@ v36–38: Peter’s confidence and denial — Zeal is not the same as endurance;
 
 ##Vocabulary
 
+v1: πάσχα (pascha) — Passover  
+
+v1: ὥρα (hōra) — hour; appointed time  
+
+v1: ἀγαπάω (agapaō) — to love (self-giving love)  
+
+v4: τίθημι (tithēmi) — to lay aside; to set down  
+
+v4: λέντιον (lention) — towel; linen cloth  
+
+v5: νίπτω (niptō) — to wash (often hands/feet)  
+
+v5: λεκανή (lekanē) — basin  
+
+v8: μέρος (meros) — share; portion; participation  
+
+v10: λούω (louō) — to bathe; to wash fully  
+
+v13: διδάσκαλος (didaskalos) — teacher  
+
+v13: κύριος (kyrios) — Lord; master  
+
+v14: ὀφείλω (opheilō) — to owe; to be obligated; ought  
+
+v15: ὑπόδειγμα (hypodeigma) — example; pattern  
+
+v16: δοῦλος (doulos) — slave; servant  
+
+v16: ἀπόστολος (apostolos) — messenger; envoy; one sent  
+
+v17: μακάριος (makarios) — happy; blessed; flourishing  
+
+v19: πιστεύω (pisteuō)
+“To trust; to believe.”
+
+v21: ταράσσω (tarassō) — to trouble; to agitate; to disturb  
+
+v26: ψωμίον (psōmion) — morsel; piece of bread  
+
+v27: σατανᾶς (satanas) — Satan; adversary  
+
+v30: νύξ (nyx) — night  
+
+v31: υἱὸς τοῦ ἀνθρώπου (huios tou anthrōpou) — Son of Man  
+
+v31: δοξάζω (doxazō)
+“To glorify; to honor; to reveal glory.”
+
+v33: τεκνία (teknia) — little children; dear children  
+
+v34: ἐντολή (entolē) — commandment  
+
+v34: καθὼς (kathōs) — just as; in the same way  
+
+v38: ἀπαρνέομαι (aparneomai) — to deny; to disown  
+
 v01: πάσχα (pascha)
 “Passover.”
 
@@ -101,9 +157,3 @@ v01: ὥρα (hōra)
 
 v01: ἀγαπάω (agapaō)
 “To love (self-giving love).”
-
-v19: πιστεύω (pisteuō)
-“To trust; to believe.”
-
-v31: δοξάζω (doxazō)
-“To glorify; to honor; to reveal glory.”

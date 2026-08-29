@@ -100,17 +100,61 @@ v39: “not… shrink back… but… trust” — The closing line names communa
 
 ##Vocabulary
 
+v1: σκιᾷ (skia) — shadow  
+
+v1: εἰκών (eikōn) — true form; image; reality  
+
+v2: καθαρίζω (katharizō) — to cleanse; to purify  
+
+v3: ἀνάμνησις (anamnēsis) — remembrance; reminder  
+
+v4: ἀφαιρέω (aphaireō) — to take away; to remove  
+
+v10: ἁγιάζω (hagiazō)
+“To make holy; to set apart.”
+
+v12: καθίζω (kathizō) — to sit down  
+
+v14: τελειόω (teleioō) — to make complete; to perfect  
+
+v16: διαθήκη (diathēkē)
+“Covenant.”
+
+v17: μιμνῄσκομαι (mimnēskomai) — to remember; to call to mind  
+
+v19: παρρησία (parrēsia) — confidence; boldness of access/speech  
+
+v20: πρόσφατος (prosphatos) — new; freshly opened (lit. “recent”)  
+
+v20: καταπέτασμα (katapetasma) — curtain; veil  
+
+v22: πληροφορία (plērophoria) — full assurance; full confidence  
+
+v22: συνείδησις (syneidēsis) — conscience; moral awareness  
+
+v23: ἀκλινής (aklinēs) — without wavering; unbending  
+
+v24: παροξυσμός (paroxysmos) — provocation; stirring; sharp encouragement  
+
+v25: ἐπισυναγωγή (episynagōgē) — gathering together; assembly  
+
+v26: ἑκουσίως (hekousiōs) — deliberately; willfully  
+
+v29: κοινός (koinos) — common; profane (not set apart)  
+
+v29: ἐνυβρίζω (enybrizō) — to insult; to outrage  
+
+v34: ὑπάρξις (hyparxis) — possessions; property  
+
+v36: ὑπομονή (hypomonē) — endurance; steadfast perseverance  
+
+v38: ζάω (zaō) — to live  
+
+v38: πίστις (pistis)
+“Trust; faithfulness (context determines nuance).”
+
 v01: σκιᾷ (skia)
 “Shadow.”
 
 v01: εἰκών (eikōn)
 “True form; image; reality.”
-
-v10: ἁγιάζω (hagiazō)
-“To make holy; to set apart.”
-
-v16: διαθήκη (diathēkē)
-“Covenant.”
-
-v38: πίστις (pistis)
-“Trust; faithfulness (context determines nuance).”

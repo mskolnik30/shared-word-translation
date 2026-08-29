@@ -84,6 +84,58 @@ v19–20: Restoration is relational; outcome is preservation.
 
 ##Vocabulary
 
+v1: ταλαιπωρία (talaipōria)  
+
+v1: “Miseries.” Hardships or distress.  
+
+v3: κατίω (katioō)  
+
+v3: “To corrode.” To decay through use.  
+
+v4: ἀποστερέω (apostereō)  
+
+v4: “To withhold.” To deprive unjustly.  
+
+v4: κύριος σαβαώθ (kyrios sabaōth)  
+
+v4: “Lord of hosts.” Title of divine authority.  
+
+v5: τρυφή (tryphē)  
+
+v5: “Luxury.” Indulgent living.  
+
+v7: μακροθυμέω (makrothymeō)  
+
+v7: “To be patient.” To endure over time.  
+
+v8: στηρίζω (stērizō)  
+
+v8: “To establish.” To make firm.  
+
+v12: ὀμνύω (omnyō)  
+
+v12: “To swear.” To take an oath.  
+
+v14: ἀλείφω (aleiphō)  
+
+v14: “To anoint.” To apply oil.  
+
+v15: σῴζω (sōzō)  
+
+v15: “To save.” To rescue or restore.  
+
+v16: ἐξομολογέομαι (exomologeomai)  
+
+v16: “To confess.” To acknowledge openly.  
+
+v17: ὁμοιοπαθής (homoiopathēs)  
+
+v17: “Of like nature.” Sharing the same condition.  
+
+v20: καλύπτω (kalyptō)  
+
+v20: “To cover.” To conceal or remove.  
+
 v01: ταλαιπωρία (talaipōria)
 “Miseries.” Hardships or distress.
 

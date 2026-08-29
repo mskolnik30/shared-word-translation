@@ -89,6 +89,57 @@ v23–25: Closing maintains relational network.
 
 ##Vocabulary
 
+v1: δέσμιος (desmios)
+
+“Prisoner.” One in bonds.
+
+v1: συνεργός (synergos)
+
+“Fellow worker.” One who labors together.
+
+v2: στρατιώτης (stratiōtēs)
+
+“Soldier.” One engaged in service.
+
+v5: ἀγάπη (agapē)
+
+“Love.” Relational commitment.
+
+v6: κοινωνία (koinōnia)
+
+“Sharing.” Participation.
+
+v10: τέκνον (teknon)
+
+“Child.” One in dependent relationship.
+
+v11: χρήσιμος (chrēsimos)
+
+“Useful.” Beneficial.
+
+v14: ἑκούσιος (hekousios)
+
+“Voluntary.” Of one’s own will.
+
+v16: ἀδελφός (adelphos)
+
+“Brother.” Kinship term.
+
+v17: κοινωνός (koinōnos)
+
+“Partner.” One who shares.
+
+v18: ἐλλογάω (ellogaō)
+
+“To charge.” To reckon to account.
+
+v20: ἀναπαύω (anapauō)
+
+“To refresh.” To give rest.
+
+v25: χάρις (charis)
+“Grace.” Favor given freely.
+
 v01: δέσμιος (desmios)
 “Prisoner.” One in bonds.
 
@@ -97,6 +148,3 @@ v01: συνεργός (synergos)
 
 v02: στρατιώτης (stratiōtēs)
 “Soldier.” One engaged in service.
-
-v25: χάρις (charis)
-“Grace.” Favor given freely.

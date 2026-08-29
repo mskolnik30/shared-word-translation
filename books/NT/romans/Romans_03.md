@@ -104,14 +104,32 @@ Paul refuses antinomian conclusions. The law is honored when its true purpose is
 
 ##Vocabulary
 
-v03: πίστις (pistis)
+v3: πίστις (pistis)
 “Faithfulness; trust.” Here used of God. The term denotes reliability and covenantal faithfulness rather than belief or opinion.
 
-v09: ἁμαρτία (hamartia)
-“Sin.” Here the singular term functions as a power under which humanity stands.
+v9: ἁμαρτία (hamartia)
+“Sin.” Portrayed as a ruling power rather than isolated moral failures, shaping Paul’s argument about universal captivity.
 
 v20: δικαιόω (dikaioō)
 “To set right.” Refers to being restored to right standing before God; explicitly denied as achievable through works of the law.
 
 v21: δικαιοσύνη (dikaiosynē)
 “Righteousness.” God’s right-making action revealed apart from the law yet consistent with the law and the prophets.
+
+v22: πίστις Ἰησοῦ Χριστοῦ (pistis Iēsou Christou)
+“The faithfulness of Jesus Christ.” The phrase permits a subjective genitive; rendered here as Christ’s faithful action rather than human belief directed toward him.
+
+v25: ἱλαστήριον (hilastērion)
+“Place of atonement.” Evokes the mercy seat without specifying a theory of atonement or mechanism of effect.
+
+v27: καύχησις (kauchēsis)
+“Boasting.” A claim to status or standing that is excluded by the logic of trust rather than by moral prohibition.
+
+v31: νόμος (nomos)
+“Law.” Functions here as covenantal framework rather than merely legal code; upheld rather than nullified by trust.
+
+v03: πίστις (pistis)
+“Faithfulness; trust.” Here used of God. The term denotes reliability and covenantal faithfulness rather than belief or opinion.
+
+v09: ἁμαρτία (hamartia)
+“Sin.” Here the singular term functions as a power under which humanity stands.

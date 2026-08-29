@@ -98,6 +98,55 @@ v34: “eat at home” — The gathering is not for private consumption; the Lor
 
 ##Vocabulary
 
+v1: μιμητής (mimētēs) — imitator  
+
+v2: παράδοσις (paradosis) — tradition; what is handed on  
+
+v3: κεφαλή (kephalē) — head; source; leading/headship (range debated)  
+
+v5: προσεύχομαι (proseuchomai) — to pray  
+
+v5: προφητεύω (prophēteuō) — to prophesy; to speak forth  
+
+v10: ἐξουσία (exousia) — authority; rightful power  
+
+v11: ἀνήρ (anēr) — man; husband (context)  
+
+v11: γυνή (gynē) — woman; wife (context)  
+
+v16: ἔρις (eris) — strife; contention  
+
+v18: σχίσμα (schisma) — division; split  
+
+v19: αἵρεσις (hairesis) — faction; party; sect  
+
+v20: δεῖπνον (deipnon) — supper; main meal  
+
+v20: κυριακός (kyriakos) — belonging to the Lord  
+
+v23: παραδίδωμι (paradidōmi) — to hand over; to betray; to deliver up  
+
+v24: ἀνάμνησις (anamnēsis) — remembrance; memorial  
+
+v25: διαθήκη (diathēkē)
+“Covenant.”
+
+v26: καταγγέλλω (katangellō) — to proclaim; to announce publicly  
+
+v27: ἀναξίως (anaxiōs) — in an unworthy manner; improperly  
+
+v28: δοκιμάζω (dokimazō) — to test; to examine; to prove  
+
+v29: διακρίνω (diakrinō) — to discern; to distinguish; to judge  
+
+v29: κρίμα (krima) — judgment; verdict  
+
+v32: παιδεύω (paideuō) — to discipline; to train; to correct  
+
+v33: ἐκδέχομαι (ekdechomai) — to wait for; to receive/await  
+
+v34: πεινάω (peinaō) — to be hungry  
+
 v01: μιμητής (mimētēs)
 “Imitator.”
 
@@ -106,6 +155,3 @@ v02: παράδοσις (paradosis)
 
 v03: κεφαλή (kephalē)
 “Head; source; leading/headship (range debated).”
-
-v25: διαθήκη (diathēkē)
-“Covenant.”

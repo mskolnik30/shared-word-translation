@@ -153,6 +153,73 @@ v33: Peace frames the conclusion.
 
 ##Vocabulary
 
+v1: ἀσθένεια (astheneia)
+
+“Weakness.”
+
+v2: οἰκοδομέω (oikodomeō)
+
+“To build up.”
+
+v4: ὑπομονή (hypomonē)
+
+“Endurance.”
+
+v5: ὁμοφρονέω (homophroneō)
+
+“To think the same.”
+
+v7: προσλαμβάνω (proslambanō)
+
+“To receive.”
+
+v8: διάκονος (diakonos)
+
+“Servant.”
+
+v9: ἔλεος (eleos)
+
+“Mercy.”
+
+v13: ἐλπίς (elpis)
+
+“Hope.”
+
+v16: λειτουργός (leitourgos)
+
+“Minister, priestly servant.”
+
+v18: κατεργάζομαι (katergazomai)
+
+“To accomplish.”
+
+v19: σημεῖον (sēmeion)
+
+“Sign.”
+
+v20: φιλοτιμέομαι (philotimeomai)
+
+“To aspire.”
+
+v22: ἐγκόπτω (enkoptō)
+
+“To hinder.”
+
+v26: κοινωνία (koinōnia)
+
+“Contribution, fellowship.”
+
+v27: ὀφειλέτης (opheiletēs)
+
+“Debtor.”
+
+v30: συναγωνίζομαι (synagōnizomai)
+
+“To strive together.”
+
+v33: εἰρήνη (eirēnē)
+“Peace.”
+
 v01: ἀσθένεια (astheneia)
 “Weakness.”
 
@@ -161,6 +228,3 @@ v02: οἰκοδομέω (oikodomeō)
 
 v09: ἔλεος (eleos)
 “Mercy.”
-
-v33: εἰρήνη (eirēnē)
-“Peace.”

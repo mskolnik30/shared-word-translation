@@ -77,14 +77,38 @@ v31: Love is expressed through obedience, linking relationship and action.
 
 ##Vocabulary
 
+v1: ταράσσω (tarassō)  
+“To trouble” or “disturb.” Indicates inner agitation or unrest.  
+
+v2: μονή (monē)  
+“Dwelling place.” A place of abiding; relational as much as spatial.  
+
+v6: ὁδός (hodos)  
+“Way.” A path or means; here both direction and access.  
+
+v6: ἀλήθεια (alētheia)  
+“Truth.” Not merely factual correctness but revealed reality.  
+
+v6: ζωή (zōē)  
+“Life.” Participation in divine life rather than mere existence.  
+
+v16: παράκλητος (paraklētos)  
+“Advocate.” One who comes alongside—helper, counselor, or intercessor.  
+
+v17: πνεῦμα τῆς ἀληθείας (pneuma tēs alētheias)
+“Spirit of truth.” Associated with revelation and recognition.
+
+v20: ἐν (en)  
+“In.” A term of relational participation, used repeatedly in layered ways.  
+
+v27: εἰρήνη (eirēnē)
+“Peace.” Wholeness or completeness, distinct from mere absence of conflict.
+
+v30: ἄρχων (archōn)  
+“Ruler.” One who exercises authority; here undefined in scope.  
+
 v01: ταράσσω (tarassō)
 “To trouble” or “disturb.” Indicates inner agitation or unrest.
 
 v06: ἀλήθεια (alētheia)
 “Truth.” Not merely factual correctness but revealed reality.
-
-v17: πνεῦμα τῆς ἀληθείας (pneuma tēs alētheias)
-“Spirit of truth.” Associated with revelation and recognition.
-
-v27: εἰρήνη (eirēnē)
-“Peace.” Wholeness or completeness, distinct from mere absence of conflict.

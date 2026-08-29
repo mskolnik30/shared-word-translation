@@ -265,17 +265,29 @@ v42: The burial is shaped by constraint rather than completion. Time presses in.
 
 ##Vocabulary
 
-v11: ἐξουσία (exousia)
-“Authority that is granted rather than inherent.”
-
-v11: ἄνωθεν (anōthen)
+v11: ἄνωθεν (anōthen)  
 “From above,” holding divine and systemic meanings in tension.
 
-v11: παραδίδωμι (paradidōmi)
+v11, v16: παραδίδωμι (paradidōmi)  
 “To hand over,” linking betrayal, judgment, and voluntary self-giving.
+
+v11: ἐξουσία (exousia)
+“Authority that is granted rather than inherent.”
 
 v15: βασιλεύς (basileus)
 “King,” exposing tension between covenantal hope and imperial allegiance.
 
 v17: σταυρός (stauros)
 “Instrument of public execution and shame.”
+
+v19: τίτλος (titlos)  
+An official inscription that functions as unintended proclamation.
+
+v28: τετέλεσται (tetelestai)  
+“It has been completed,” emphasizing enduring fulfillment.
+
+v30: παρέδωκεν (paredōken)  
+“To hand over,” reframed as exercised authority.
+
+v41: καινός (kainos)  
+“New,” signifying qualitative difference and interruption.

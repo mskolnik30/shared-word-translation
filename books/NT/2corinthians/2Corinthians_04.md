@@ -77,6 +77,42 @@ v18: The seen/unseen contrast reframes perception. Temporal visibility is not tr
 
 ##Vocabulary
 
+v2: πανουργία (panourgia)  
+
+v2: “Craftiness.” Suggests cunning or manipulation.  
+
+v2: δολοῦντες (dolountes)  
+
+v2: “Falsifying” or “adulterating.” Often used of corrupting something pure.  
+
+v4: αἰών (aiōn)  
+
+v4: “Age.” Refers to a present order or era rather than time in general.  
+
+v6: λάμπω (lampō)  
+
+v6: “To shine.” Used here of divine illumination.  
+
+v7: ὀστράκινος (ostrakinos)  
+
+v7: “Made of clay.” Emphasizes fragility and commonness.  
+
+v8: ἀπορέω (aporeō)  
+
+v8: “To be perplexed.” Indicates uncertainty or lack of resources.  
+
+v10: νέκρωσις (nekrōsis)  
+
+v10: “Death” or “dying.” Refers to ongoing exposure to death.  
+
+v17: βάρος (baros)  
+
+v17: “Weight.” Used metaphorically for significance or substance.  
+
+v18: πρόσκαιρος (proskairos)  
+
+v18: “Temporary.” That which exists only for a time.  
+
 v02: πανουργία (panourgia)
 “Craftiness.” Suggests cunning or manipulation.
 

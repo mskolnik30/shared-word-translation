@@ -112,6 +112,77 @@ v26–27: The Spirit and the disciples jointly bear witness.
 
 ##Vocabulary
 
+v1: ἄμπελος (ampelos)
+
+“Vine.”
+
+v2: καθαίρω (kathairō)
+
+“To prune.”
+
+v3: καθαρός (katharos)
+
+“Clean.”
+
+v4: μένω (menō)
+
+“To remain.”
+
+v5: καρπός (karpos)
+
+“Fruit.”
+
+v7: αἰτέω (aiteō)
+
+“To ask.”
+
+v8: δοξάζω (doxazō)
+
+“To glorify.”
+
+v10: ἐντολή (entolē)
+
+“Commandment.”
+
+v12: ἀγαπάω (agapaō)
+
+“To love.”
+
+v13: τίθημι (tithēmi)
+
+“To lay down.”
+
+v15: φίλος (philos)
+
+“Friend.”
+
+v16: ἐκλέγομαι (eklegomai)
+
+“To choose.”
+
+v18: κόσμος (kosmos)
+
+“World.”
+
+v20: διώκω (diōkō)
+
+“To persecute.”
+
+v22: πρόφασις (prophasis)
+
+“Excuse.”
+
+v26: παράκλητος (paraklētos)
+
+“Helper.”
+
+v26: πνεῦμα τῆς ἀληθείας
+
+“Spirit of truth.”
+
+v26: πνεῦμα τῆς ἀληθείας (pneuma tēs alētheias)
+“Spirit of truth.”
+
 v01: ἄμπελος (ampelos)
 “Vine.”
 
@@ -120,6 +191,3 @@ v02: καθαίρω (kathairō)
 
 v03: καθαρός (katharos)
 “Clean.”
-
-v26: πνεῦμα τῆς ἀληθείας (pneuma tēs alētheias)
-“Spirit of truth.”

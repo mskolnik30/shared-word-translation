@@ -130,17 +130,77 @@ v33–37: Watchfulness replaces date-setting as the proper posture of disciplesh
 
 ##Vocabulary
 
-v05: βλέπω (blepō)
+v2: καταλύω (katalyō)
+
+“To throw down, destroy.” Used of dismantling structures.
+
+v5: βλέπω (blepō)
+
 “See, watch.” Can mean physical seeing or vigilant attention.
 
-v05: πλανάω (planaō)
+v5: πλανάω (planaō)
+
 “To lead astray.” Deception from the path of truth.
+
+v7: θροέω (throeō)
+
+“To be alarmed, troubled.” Emotional disturbance in response to events.
+
+v8: ὠδίν (ōdin)
+
+“Birth pain.” Suffering that signals something coming forth.
+
+v9: συνέδριον (synedrion)
+
+“Council.” Judicial or governing assembly.
 
 v10: εὐαγγέλιον (euangelion)
 “Good news.” Proclamation of God’s reign and action.
+
+v11: παραδίδωμι (paradidōmi)
+
+“To hand over.” Used for betrayal, arrest, and transfer into hostile power.
+
+v13: ὑπομένω (hypomenō)
+
+“To endure, remain under.” Perseverance under pressure.
+
+v14: βδέλυγμα ἐρημώσεως (bdelygma erēmōseōs)
+
+“Abomination of desolation.” Defiling sacrilege associated with devastation.
+
+v19: θλῖψις (thlipsis)
+
+“Distress, tribulation.” Pressing affliction.
+
+v20: ἐκλεκτός (eklektos)
+
+“Elect, chosen.” Those chosen by God.
 
 v22: ψευδόχριστος (pseudochristos)
 “False christ.” A counterfeit claimant to messianic identity.
 
 v26: δόξα (doxa)
 “Glory.” Manifest weight, honor, and radiance.
+
+v28: παραβολή (parabolē)
+
+“Parable.” A comparison or image requiring interpretation.
+
+v32: ὥρα (hōra)
+
+“Hour.” Appointed time or moment.
+
+v33: ἀγρυπνέω (agrypneō)
+
+“To stay awake, keep alert.” Watchfulness under uncertainty.
+
+v37: γρηγορέω (grēgoreō)
+
+“To watch.” Vigilant readiness.
+
+v05: βλέπω (blepō)
+“See, watch.” Can mean physical seeing or vigilant attention.
+
+v05: πλανάω (planaō)
+“To lead astray.” Deception from the path of truth.

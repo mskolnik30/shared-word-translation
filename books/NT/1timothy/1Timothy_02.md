@@ -68,6 +68,46 @@ v15: “Saved through childbearing” is ambiguous. The condition (“if they co
 
 ##Vocabulary
 
+v1: δέησις (deēsis)  
+
+v1: “Petition.” Specific request.  
+
+v1: ἔντευξις (enteuxis)  
+
+v1: “Intercession.” Appeal on behalf of another.  
+
+v4: ἐπίγνωσις (epignōsis)  
+
+v4: “Full knowledge.” Deep understanding.  
+
+v5: μεσίτης (mesitēs)  
+
+v5: “Mediator.” One who stands between.  
+
+v6: ἀντίλυτρον (antilytron)  
+
+v6: “Ransom.” Price paid for release.  
+
+v8: ὅσιος (hosios)  
+
+v8: “Holy.” Devoted or set apart.  
+
+v9: αἰδώς (aidōs)  
+
+v9: “Modesty.” Sense of propriety.  
+
+v11: ἡσυχία (hēsychia)  
+
+v11: “Quietness.” Stillness or calm.  
+
+v12: αὐθεντέω (authenteō)  
+
+v12: “To exercise authority.” To have authority over.  
+
+v15: σωφροσύνη (sōphrosynē)  
+
+v15: “Self-control.” Soundness of mind.  
+
 v01: δέησις (deēsis)
 “Petition.” Specific request.
 

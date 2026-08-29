@@ -57,6 +57,42 @@ v11: Creation is attributed to divine will without philosophical expansion.
 
 ##Vocabulary
 
+v1: θύρα (thyra)
+
+“Door.” Access point granted, not forced.
+
+v2: θρόνος (thronos)
+
+“Throne.” Central symbol of authority and rule.
+
+v3: ἴασπις (iaspis)
+
+“Jasper.” A precious stone; exact identification remains uncertain.
+
+v4: πρεσβύτεροι (presbyteroi)
+
+“Elders.” Figures of authority or representation, not defined.
+
+v5: λαμπάς (lampas)
+
+“Torch.” A burning light, distinct from a stationary lamp.
+
+v6: θάλασσα (thalassa)
+
+“Sea.” Here rendered stable, not turbulent.
+
+v7: ζῷον (zōon)
+
+“Living creature.” Emphasizes vitality rather than classification.
+
+v8: ἅγιος (hagios)
+
+“Holy.” Set apart; intensified through repetition.
+
+v11: θέλημα (thelēma)
+
+“Will.” Intention or purpose as the basis of creation.
+
 v01: θύρα (thyra)
 “Door.” Access point granted, not forced.
 

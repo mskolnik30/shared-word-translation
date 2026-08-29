@@ -50,14 +50,46 @@ v15: Closing maintains relational continuity and shared identity.
 
 ##Vocabulary
 
-v09: μάχη (machē)
+v9: μάχη (machē)
+
 “Quarrel.” Conflict or dispute.
 
-v09: γενεαλογία (genealogia)
+v9: γενεαλογία (genealogia)
+
 “Genealogy.” Lineage listing.
 
 v10: αἱρετικός (hairetikos)
 “Divisive person.” One who creates factions.
 
+v11: ἐκστρέφω (ekstrephō)
+
+“To be warped.” To turn aside.
+
+v11: αὐτοκατάκριτος (autokatakritos)
+
+“Self-condemned.” Judging oneself.
+
+v12: σπουδάζω (spoudazō)
+
+“To make effort.” To be diligent.
+
+v13: προπέμπω (propempō)
+
+“To send on one’s way.” To assist in travel.
+
+v14: προΐστημι (proistēmi)
+
+“To devote.” To take the lead in.
+
+v14: ἄκαρπος (akarpos)
+
+“Unfruitful.” Without result.
+
 v15: χάρις (charis)
 “Grace.” Favor given freely.
+
+v09: μάχη (machē)
+“Quarrel.” Conflict or dispute.
+
+v09: γενεαλογία (genealogia)
+“Genealogy.” Lineage listing.

@@ -68,6 +68,54 @@ v15: Naming is personal; relationship is specific.
 
 ##Vocabulary
 
+v1: πρεσβύτερος (presbyteros)  
+
+v1: “Elder.” One with recognized authority.  
+
+v1: ἀλήθεια (alētheia)  
+
+v1: “Truth.” Reality expressed and lived.  
+
+v3: μαρτυρέω (martyreō)  
+
+v3: “To testify.” To bear witness.  
+
+v5: πιστός (pistos)  
+
+v5: “Faithful.” Reliable in action.  
+
+v6: προπέμπω (propempō)  
+
+v6: “To send on a journey.” To support and equip.  
+
+v7: ὄνομα (onoma)  
+
+v7: “Name.” Identity or authority.  
+
+v8: συνεργός (synergos)  
+
+v8: “Fellow worker.” One who shares in the work.  
+
+v9: φιλοπρωτεύω (philoprōteuō)  
+
+v9: “To love to be first.” Desire for preeminence.  
+
+v10: φλυαρέω (phlyareō)  
+
+v10: “To speak nonsense.” Empty or malicious talk.  
+
+v11: ὁράω (horaō)  
+
+v11: “To see.” To perceive or recognize.  
+
+v12: μαρτυρία (martyria)  
+
+v12: “Testimony.” Witness confirmed.  
+
+v14: στόμα πρὸς στόμα (stoma pros stoma)  
+
+v14: “Face to face.” Direct, personal communication.  
+
 v01: πρεσβύτερος (presbyteros)
 “Elder.” One with recognized authority.
 

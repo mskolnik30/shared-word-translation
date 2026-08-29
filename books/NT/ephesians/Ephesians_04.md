@@ -132,6 +132,50 @@ v31–32: Negative dispositions are named collectively and replaced with relatio
 
 ##Vocabulary
 
+v1: κλῆσις (klēsis)  
+
+v1: “Calling.” A summons that defines identity and direction.  
+
+v2: ταπεινοφροσύνη (tapeinophrosynē)  
+
+v2: “Humility.” Lowliness of mind or self-understanding.  
+
+v3: σύνδεσμος (syndesmos)  
+
+v3: “Bond.” That which holds together.  
+
+v7: μέτρον (metron)  
+
+v7: “Measure.” A defined portion.  
+
+v12: καταρτισμός (katartismos)  
+
+v12: “Equipping.” Preparation or fitting for a task.  
+
+v14: κυβεία (kybeia)  
+
+v14: “Cunning.” Trickery, often in manipulation.  
+
+v15: ἀληθεύω (alētheuō)  
+
+v15: “To speak truth.” To act truthfully in word and life.  
+
+v17: ματαιότης (mataiotēs)  
+
+v17: “Futility.” Emptiness or lack of purpose.  
+
+v22: παλαιὸς ἄνθρωπος (palaios anthrōpos)  
+
+v22: “Old self.” Former way of being.  
+
+v24: καινὸς ἄνθρωπος (kainos anthrōpos)  
+
+v24: “New self.” Renewed identity.  
+
+v30: λυπέω (lypeō)  
+
+v30: “To grieve.” To cause sorrow or distress.  
+
 v01: κλῆσις (klēsis)
 “Calling.” A summons that defines identity and direction.
 

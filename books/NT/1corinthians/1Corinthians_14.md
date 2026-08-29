@@ -154,6 +154,74 @@ v37–40: Apostolic authority governs practice.
 
 ##Vocabulary
 
+v1: ζηλόω (zēloō)  
+
+v1: “To desire earnestly.”  
+
+v2: γλῶσσα (glōssa)  
+
+v2: “Tongue.”  
+
+v3: προφητεύω (prophēteuō)  
+
+v3: “To prophesy.”  
+
+v4: οἰκοδομέω (oikodomeō)  
+
+v4: “To build up.”  
+
+v5: διερμηνεύω (diermēneuō)  
+
+v5: “To interpret.”  
+
+v9: σαφής (saphēs)  
+
+v9: “Clear.”  
+
+v11: βάρβαρος (barbaros)  
+
+v11: “Foreigner.”  
+
+v13: προσεύχομαι (proseuchomai)  
+
+v13: “To pray.”  
+
+v14: ἄκαρπος (akarpos)  
+
+v14: “Unfruitful.”  
+
+v16: ἀμήν (amēn)  
+
+v16: “Amen.”  
+
+v20: τέλειος (teleios)  
+
+v20: “Mature.”  
+
+v22: σημεῖον (sēmeion)  
+
+v22: “Sign.”  
+
+v24: ἐλέγχω (elenchō)  
+
+v24: “To convict.”  
+
+v25: φανερός (phaneros)  
+
+v25: “Manifest.”  
+
+v29: διακρίνω (diakrinō)  
+
+v29: “To discern.”  
+
+v33: ἀκαταστασία (akatastasia)  
+
+v33: “Disorder.”  
+
+v40: τάξις (taxis)  
+
+v40: “Order.”  
+
 v01: ζηλόω (zēloō)
 “To desire earnestly.”
 

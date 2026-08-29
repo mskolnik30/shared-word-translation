@@ -93,6 +93,66 @@ v28: Future appearance shifts purpose from sin to salvation.
 
 ##Vocabulary
 
+v1: λατρεία (latreia)  
+
+v1: “Worship.” Service rendered.  
+
+v2: λυχνία (lychnia)  
+
+v2: “Lampstand.” Light-bearing structure.  
+
+v3: καταπέτασμα (katapetasma)  
+
+v3: “Curtain.” Divider.  
+
+v4: κιβωτός (kibōtos)  
+
+v4: “Ark.” Sacred container.  
+
+v7: αἷμα (haima)  
+
+v7: “Blood.” Life given.  
+
+v8: δηλόω (dēloō)  
+
+v8: “To indicate.” To make clear.  
+
+v9: παραβολή (parabolē)  
+
+v9: “Symbol.” Illustration.  
+
+v12: λύτρωσις (lytrōsis)  
+
+v12: “Redemption.” Release.  
+
+v14: συνείδησις (syneidēsis)  
+
+v14: “Conscience.” Inner awareness.  
+
+v15: μεσίτης (mesitēs)  
+
+v15: “Mediator.” One between parties.  
+
+v18: ἐγκαινίζω (enkainizō)  
+
+v18: “To inaugurate.” To establish.  
+
+v22: ἄφεσις (aphesis)  
+
+v22: “Forgiveness.” Release from guilt.  
+
+v24: ἀντίτυπος (antitypos)  
+
+v24: “Copy.” Corresponding form.  
+
+v26: θυσία (thysia)  
+
+v26: “Sacrifice.” Offering.  
+
+v28: ἀποκαραδοκία (apokaradokia)  
+
+v28: “Eager expectation.” Focused waiting.  
+
 v01: λατρεία (latreia)
 “Worship.” Service rendered.
 

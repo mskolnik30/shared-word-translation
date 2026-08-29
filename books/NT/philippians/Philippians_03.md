@@ -79,6 +79,42 @@ v20–21: Citizenship reframes belonging. Hope is located not in present structu
 
 ##Vocabulary
 
+v1: χαίρω (chairō)  
+“To rejoice.” Indicates an ongoing posture of joy rooted in relationship, not circumstance.  
+
+v2: κατατομή (katatomē)  
+“Mutilation.” A polemical play on “circumcision,” exposing a distortion of covenant identity.  
+
+v3: καύχησις (kauchēsis)  
+“Boasting.” Reoriented from self to Christ, signaling where confidence is rightly placed.  
+
+v4: πεποίθησις (pepoithēsis)  
+“Confidence.” Trust or reliance, here contrasted between flesh and Christ.  
+
+v7: ζημία (zēmia)  
+“Loss.” A term from accounting, indicating disadvantage or forfeiture.  
+
+v8: σκύβαλα (skybala)  
+“Rubbish.” Strong language indicating worthlessness in comparison to Christ.  
+
+v9: δικαιοσύνη (dikaiosynē)  
+“Righteousness.” Right standing before God, here received through trust rather than achieved through law.  
+
+v10: κοινωνία (koinōnia)  
+“Sharing” or “participation.” Emphasizes active participation in Christ’s sufferings.  
+
+v12: καταλαμβάνω (katalambanō)  
+“To take hold of.” Suggests grasping or making something one’s own.  
+
+v14: σκοπός (skopos)  
+“Goal.” A fixed point of focus guiding movement and effort.  
+
+v20: πολίτευμα (politeuma)  
+“Citizenship.” Identity rooted in belonging to a commonwealth or polity.  
+
+v21: μετασχηματίζω (metaschēmatizō)  
+“To transform.” Indicates a change in form aligned with Christ’s glory.  
+
 v02: κατατομή (katatomē)
 “Mutilation.” A polemical play on “circumcision,” exposing a distortion of covenant identity.
 

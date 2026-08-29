@@ -154,6 +154,72 @@ v44: The widow’s gift is total; the phrase “whole life” preserves the seve
 
 ##Vocabulary
 
+v1: ἀμπελών (ampelōn)
+
+“Vineyard.” A cultivated field, often carrying covenantal resonance.
+
+v1: γεωργός (geōrgos)
+
+“Tenant, farmer.” One entrusted with cultivation and return.
+
+v6: ἀγαπητός (agapētos)
+
+“Beloved.” Term of affection and chosen relation.
+
+v7: κληρονόμος (klēronomos)
+
+“Heir.” One who receives inheritance by right.
+
+v10: λίθος (lithos)
+
+“Stone.” Here used in a scriptural image of rejection and reversal.
+
+v13: ἀγρεύω (agreūō)
+
+“To trap, catch.” Used metaphorically of speech.
+
+v15: ὑπόκρισις (hypokrisis)
+
+“Hypocrisy.” Performance masking intent.
+
+v16: εἰκών (eikōn)
+
+“Image.” Representation or likeness.
+
+v18: ἀνάστασις (anastasis)
+“Resurrection, rising.” The disputed hope in the Sadducees’ question.
+
+v24: πλανάω (planaō)
+
+“To be mistaken, led astray.” Error in perception or judgment.
+
+v30: καρδία (kardia)
+
+“Heart.” Center of will, desire, and orientation.
+
+v30: ψυχή (psychē)
+“Soul, life.” The living self.
+
+v30: διάνοια (dianoia)
+
+“Mind, understanding.” Thought and comprehension.
+
+v31: πλησίον (plēsion)
+
+“Neighbor.” The near one, the other to whom love is owed.
+
+v34: νουνεχῶς (nounechōs)
+
+“Thoughtfully, wisely.” With understanding or good sense.
+
+v40: κατεσθίω (katesthiō)
+
+“To devour.” Strong image of exploitation.
+
+v44: βίος (bios)
+
+“Life, livelihood.” Means of living, not merely existence.
+
 v01: ἀμπελών (ampelōn)
 “Vineyard.” A cultivated field of grapevines; the image carries established scriptural associations.
 
@@ -162,9 +228,3 @@ v01: γεωργός (geōrgos)
 
 v06: ἀγαπητός (agapētos)
 “Beloved.” Term of affection and chosen relation.
-
-v18: ἀνάστασις (anastasis)
-“Resurrection, rising.” The disputed hope in the Sadducees’ question.
-
-v30: ψυχή (psychē)
-“Soul, life.” The living self.

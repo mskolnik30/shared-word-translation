@@ -89,14 +89,65 @@ v21: The final exhortation frames the entire section: good actively resists and 
 
 ##Vocabulary
 
+v1: παρακαλέω (parakaleō)  
+“To urge” or “to exhort.” A call grounded in relationship and appeal.  
+
+v1: θυσία (thysia)  
+“Sacrifice.” Traditionally a ritual offering, here reconfigured as lived devotion.  
+
+v1: λογικός (logikos)  
+“Fitting” or “reasonable.” Can imply rational, spiritual, or appropriate service.  
+
+v2: συσχηματίζω (syschēmatizō)  
+“To conform.” To take on the pattern of something external.  
+
+v2: μεταμορφόω (metamorphoō)  
+“To transform.” A change in form or nature.  
+
+v2: ἀνακαίνωσις (anakainōsis)  
+“Renewal.” A making new, especially of the mind.  
+
+v3: σωφρονέω (sōphroneō)  
+“To think with sober judgment.” Balanced, self-controlled thinking.  
+
+v4: μέλος (melos)  
+“Member.” A part belonging to a body.  
+
+v6: χάρισμα (charisma)  
+“Gift.” A grace-given ability or function.  
+
+v7: διακονία (diakonia)  
+“Service.” Practical or ministerial action.  
+
+v8: προΐστημι (proistēmi)  
+“To lead.” To stand before or guide.  
+
+v9: ἀγάπη (agapē)  
+“Love.” Self-giving commitment toward others.  
+
+v9: κολλάομαι (kollaomai)  
+“To cling.” To attach firmly.  
+
+v11: ζέω (zeō)
+“To be fervent.” To be hot or boiling in spirit.
+
+v13: φιλοξενία (philoxenia)  
+“Hospitality.” Love of the stranger.  
+
+v14: εὐλογέω (eulogeō)
+“To bless.” To speak well of or invoke good.
+
+v17: προνοέω (pronoeō)  
+“To take thought beforehand.” To consider in advance.  
+
+v19: ἐκδίκησις (ekdikēsis)  
+“Vengeance.” Retributive justice.  
+
+v21: νικάω (nikaō)  
+“To overcome.” To conquer or prevail.  
+
 v01: θυσία (thysia)
 “Sacrifice; offering.” Here the ritual term is applied metaphorically to embodied life.
 
 v06: χάρισμα (charisma)
 “Gift.” A grace-given ability or function.
-
-v11: ζέω (zeō)
-“To be fervent.” To be hot or boiling in spirit.
-
-v14: εὐλογέω (eulogeō)
-“To bless.” To speak well of or invoke good.

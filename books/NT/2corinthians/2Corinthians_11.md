@@ -129,6 +129,42 @@ v32–33: The escape from Damascus concludes with vulnerability rather than triu
 
 ##Vocabulary
 
+v2: ζηλόω (zēloō)  
+
+v2: “To be jealous” or “zealous.” Can denote protective devotion.  
+
+v3: πανουργία (panourgia)  
+
+v3: “Cunning.” Crafty or deceptive strategy.  
+
+v5: ὑπερλίαν (hyperlian)  
+
+v5: “Super” or “beyond measure.” Used ironically of rival apostles.  
+
+v7: δωρεάν (dōrean)  
+
+v7: “Free of charge.” Without payment.  
+
+v13: ψευδαπόστολος (pseudapostolos)  
+
+v13: “False apostle.” One claiming authority illegitimately.  
+
+v14: μετασχηματίζω (metaschēmatizō)  
+
+v14: “To disguise.” To alter outward form.  
+
+v23: παραφρονέω (paraphroneō)  
+
+v23: “To be beside oneself.” Acting outside normal restraint.  
+
+v28: μέριμνα (merimna)  
+
+v28: “Anxiety” or “concern.” Ongoing internal burden.  
+
+v30: ἀσθένεια (astheneia)  
+
+v30: “Weakness.” Lack of strength, often reframed theologically.  
+
 v02: ζηλόω (zēloō)
 “To be jealous” or “zealous.” Can denote protective devotion.
 

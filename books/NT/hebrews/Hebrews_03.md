@@ -86,6 +86,54 @@ v19: Unbelief is identified as the root condition.
 
 ##Vocabulary
 
+v1: κλῆσις (klēsis)  
+
+v1: “Calling.” Invitation or summons.  
+
+v1: ἀπόστολος (apostolos)  
+
+v1: “Apostle.” One sent.  
+
+v1: ἀρχιερεύς (archiereus)  
+
+v1: “High priest.” Chief mediator.  
+
+v3: δόξα (doxa)  
+
+v3: “Glory.” Honor or weight.  
+
+v5: θεράπων (therapōn)  
+
+v5: “Servant.” One who attends.  
+
+v6: παρρησία (parrēsia)  
+
+v6: “Confidence.” Boldness or openness.  
+
+v7: σήμερον (sēmeron)  
+
+v7: “Today.” Present time.  
+
+v8: σκληρύνω (sklērynō)  
+
+v8: “To harden.” To make resistant.  
+
+v12: ἀποστῆναι (apostēnai)  
+
+v12: “To fall away.” To depart.  
+
+v13: ἀπάτη (apatē)  
+
+v13: “Deceit.” Misleading influence.  
+
+v14: μέτοχος (metochos)  
+
+v14: “Sharer.” Participant.  
+
+v19: ἀπιστία (apistia)  
+
+v19: “Unbelief.” Lack of trust.  
+
 v01: κλῆσις (klēsis)
 “Calling.” Invitation or summons.
 

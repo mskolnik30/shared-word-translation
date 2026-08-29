@@ -123,6 +123,67 @@ v32: Appeal to Caesar prevents immediate release.
 
 ##Vocabulary
 
+v1: ἀπολογία (apologia)  
+
+v1: “Defense.”  
+
+v5: αἵρεσις (hairesis)  
+
+v5: “Sect.”  
+
+v6: ἐπαγγελία (epangelia)  
+
+v6: “Promise.”  
+
+v23: ἀνάστασις (anastasis)
+“Resurrection.”
+
+v23: “Resurrection.”  
+
+v23: φῶς (phōs)  
+
+v23: “Light.”  
+
+v11: ἐμμαινόμαι (emmainomai)  
+
+v11: “To be enraged.”  
+
+v14: λάκτισμα (laktisma)  
+
+v14: “Goad.”  
+
+v16: ὑπηρέτης (hypēretēs)  
+
+v16: “Servant.”  
+
+v18: ἐπιστρέφω (epistrephō)  
+
+v18: “To turn.”  
+
+v18: ἐξουσία (exousia)  
+
+v18: “Authority.”  
+
+v20: ἄξιος (axios)  
+
+v20: “Worthy.”  
+
+v24: μαίνομαι (mainomai)  
+
+v24: “To be out of one’s mind.”  
+
+v25: σωφροσύνη (sōphrosynē)  
+
+v25: “Soberness.”  
+
+v28: Χριστιανός (Christianos)  
+
+v28: “Christian.”  
+
+v29: δεσμός (desmos)  
+
+v29: “Chain.”  
+
 v01: ἀπολογία (apologia)
 “Defense.”
 
@@ -131,6 +192,3 @@ v05: αἵρεσις (hairesis)
 
 v06: ἐπαγγελία (epangelia)
 “Promise.”
-
-v23: ἀνάστασις (anastasis)
-“Resurrection.”

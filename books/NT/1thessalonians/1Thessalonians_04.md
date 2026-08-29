@@ -78,6 +78,46 @@ v18: Eschatological teaching is given for encouragement, not speculation.
 
 ##Vocabulary
 
+v3: ἁγιασμός (hagiasmos)  
+
+v3: “Holiness.” State of being set apart.  
+
+v3: πορνεία (porneia)  
+
+v3: “Sexual immorality.” Broad category of illicit sexual practice.  
+
+v4: σκεῦος (skeuos)  
+
+v4: “Vessel.” Possibly body or spouse; ambiguity remains.  
+
+v6: πλεονεκτέω (pleonekteō)  
+
+v6: “To exploit.” To take advantage of.  
+
+v8: ἀθετέω (atheteō)  
+
+v8: “To reject.” To set aside or disregard.  
+
+v9: φιλαδελφία (philadelphia)  
+
+v9: “Brotherly love.” Affection among kin.  
+
+v11: φιλοτιμέομαι (philotimeomai)  
+
+v11: “To aspire.” To make it one’s aim.  
+
+v13: κοιμάω (koimaō)  
+
+v13: “To sleep.” Euphemism for death.  
+
+v17: ἁρπάζω (harpazō)  
+
+v17: “To seize” or “snatch.” Sudden taking up.  
+
+v17: ἀπάντησις (apantēsis)  
+
+v17: “Meeting.” Encounter, often for reception.  
+
 v03: ἁγιασμός (hagiasmos)
 “Holiness.” State of being set apart.
 

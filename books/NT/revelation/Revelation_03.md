@@ -83,6 +83,46 @@ v22: The refrain extends each message beyond its immediate setting.
 
 ##Vocabulary
 
+v3: γρηγορέω (grēgoreō)
+
+“To keep watch.” Implies alertness and readiness, not mere awareness.
+
+v5: βίβλος τῆς ζωῆς (biblos tēs zōēs)
+
+“Book of life.” A register of belonging, left conceptually open.
+
+v7: κλείς (kleis)
+
+“Key.” Symbol of authority over access and exclusion.
+
+v8: θύρα (thyra)
+
+“Door.” Represents opportunity or access given rather than taken.
+
+v12: στῦλος (stylos)
+
+“Pillar.” Image of permanence and structural belonging.
+
+v14: ἀρχή (archē)
+
+“Beginning.” Can denote origin or source; ambiguity is retained.
+
+v16: χλιαρός (chliaros)
+
+“Lukewarm.” Suggests tepidness, neither committed nor opposed.
+
+v18: κολλύριον (kollyrion)
+
+“Salve.” Medicinal ointment for vision, both literal and symbolic.
+
+v19: παιδεύω (paideuō)
+
+“To discipline.” Training or correction within relationship.
+
+v21: καθίζω (kathizō)
+
+“To sit.” Indicates shared rule or participation in authority.
+
 v03: γρηγορέω (grēgoreō)
 “To keep watch.” Implies alertness and readiness, not mere awareness.
 

@@ -169,11 +169,20 @@ v53: John 7:53–8:11 is absent from the earliest and strongest Greek witnesses 
 
 ##Vocabulary
 
-v01: περιπατέω (peripateō)
+v1: περιπατέω (peripateō)
 “To walk.” Often denotes ongoing activity or movement.
 
-v07: μαρτυρέω (martyreō)
+v6: καιρός (kairos)
+“Time” or “appointed moment.” Indicates significance rather than sequence.
+
+v7: μαρτυρέω (martyreō)
 “To testify.” Bearing witness, often in opposition.
+
+v12: γογγυσμός (gongysmos)
+“Murmuring.” Low, divided speech among a group.
+
+v15: γράμματα (grammata)
+“Letters.” Refers to formal learning or education.
 
 v16: διδαχή (didachē)
 “Teaching.” Content and act of instruction.
@@ -181,5 +190,38 @@ v16: διδαχή (didachē)
 v18: δόξα (doxa)
 “Glory.” Honor or recognition, often in contrast between human and divine.
 
+v20: δαιμόνιον (daimonion)
+“Demon.” Used here as accusation of madness or deception.
+
+v24: κρίσις (krisis)
+“Judgment.” Discernment or decision.
+
+v27: πόθεν (pothen)
+“From where.” Question of origin or source.
+
+v30: ὥρα (hōra)
+“Hour.” The appointed time for decisive action.
+
+v34: ζητέω (zēteō)
+“To seek.” Can imply desire, search, or pursuit.
+
+v37: διψάω (dipsaō)
+“To thirst.” Literal and metaphorical longing.
+
+v38: κοιλία (koilia)
+“Inner being.” The inward part, seat of life.
+
 v39: πνεῦμα (pneuma)
 “Spirit.” The divine presence given to believers.
+
+v43: σχίσμα (schisma)
+“Division.” A split within a group.
+
+v46: λαλέω (laleō)
+“To speak.” Often emphasizing the act of speech itself.
+
+v01: περιπατέω (peripateō)
+“To walk.” Often denotes ongoing activity or movement.
+
+v07: μαρτυρέω (martyreō)
+“To testify.” Bearing witness, often in opposition.

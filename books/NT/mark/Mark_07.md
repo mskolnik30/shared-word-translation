@@ -115,14 +115,18 @@ v16: This verse is absent from the earliest and strongest Greek witnesses; later
 
 ##Vocabulary
 
-v02: κοινός (koinos)
-“Common, defiled.”
+v2: κοινός (koinos) — common, defiled.
 
-v08: παράδοσις (paradosis)
-“Tradition handed down.”
+v8: παράδοσις (paradosis) — tradition handed down.
 
 v15: κοινοῦν (koinoun)
 “To defile.”
 
 v29: λόγος (logos)
 “Word, speech with effect.”
+
+v02: κοινός (koinos)
+“Common, defiled.”
+
+v08: παράδοσις (paradosis)
+“Tradition handed down.”

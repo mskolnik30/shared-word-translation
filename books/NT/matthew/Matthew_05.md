@@ -137,6 +137,33 @@ v48: “Perfect” signals completeness or wholeness. The call is toward undivid
 
 ##Vocabulary
 
+v3: μακάριοι (makarioi)  
+“Blessed.” The term names a state of well-being grounded in God’s favor, not circumstantial happiness.  
+
+v5: πραεῖς (praeis)  
+“Meek.” Denotes gentleness or restrained strength, not weakness.  
+
+v6: δικαιοσύνη (dikaiosynē)  
+“Righteousness.” Refers to right-relatedness—toward God, neighbor, and community. In both the Hebrew and the Greek, faithfulness, righteousness, and justice are intimately tied linquistically.  
+
+v17: πληρόω (plēroō)
+“To fulfill.” Carries the sense of bringing to full expression rather than ending.
+
+v22: γέεννα (Gehenna)  
+A place-name used metaphorically to signify destructive consequence, not a mapped afterlife geography.  
+
+v22: γέεννα (Gehenna)
+“Gehenna.” A place-name derived from the Valley of Hinnom and used here in judgment language.
+
+v37: πονηρός (ponēros)  
+“Evil” or “the evil one.” The term allows for both personal and systemic readings.  
+
+v39: ἀντιστῆναι (antistēnai)  
+“To resist.” Often used for violent or armed opposition; its negation points toward nonviolent response.  
+
+v48: τέλειος (teleios)  
+“Perfect,” meaning whole, complete, or brought to maturity.  
+
 v03: μακάριοι (makarioi)
 “Blessed.” The term names a state of well-being grounded in God’s favor, not circumstantial happiness.
 
@@ -145,9 +172,3 @@ v05: πραεῖς (praeis)
 
 v06: δικαιοσύνη (dikaiosynē)
 “Righteousness.” Refers to right-relatedness—toward God, neighbor, and community. In both the Hebrew and the Greek, faithfulness, righteousness, and justice are intimately tied linquistically.
-
-v17: πληρόω (plēroō)
-“To fulfill.” Carries the sense of bringing to full expression rather than ending.
-
-v22: γέεννα (Gehenna)
-“Gehenna.” A place-name derived from the Valley of Hinnom and used here in judgment language.

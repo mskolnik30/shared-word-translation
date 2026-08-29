@@ -156,6 +156,85 @@ v43: Restoration leads to following and public praise.
 
 ##Vocabulary
 
+v1: ἐγκακέω (enkakeō)
+
+“To lose heart.”
+
+v3: ἐκδικέω (ekdikeō)
+
+“To give justice.”
+
+v5: ὑπωπιάζω (hypōpiazō)
+
+“To wear out.”
+
+v8: πίστις (pistis)
+
+“Faith.”
+
+v9: δικαιόω (dikaioō)
+
+“To justify.”
+
+v13: ἱλάσκομαι (hilaskomai)
+
+“To be merciful, propitiate.”
+
+v15: βρέφος (brephos)
+
+“Infant.”
+
+v17: δέχομαι (dechomai)
+
+“To receive.”
+
+v18: κληρονομέω (klēronomeō)
+
+“To inherit.”
+
+v22: διαδίδωμι (diadidōmi)
+
+“To distribute.”
+
+v24: δυσκόλως (dyskolōs)
+
+“With difficulty.”
+
+v25: ῥαφίς (rhaphis)
+
+“Needle.”
+
+v27: δυνατός (dynatos)
+
+“Possible.”
+
+v31: πληρόω (plēroō)
+
+“To fulfill.”
+
+v32: ἐμπαίζω (empaizō)
+
+“To mock.”
+
+v33: μαστιγόω (mastigoō)
+
+“To flog.”
+
+v34: κρύπτω (kryptō)
+
+“To hide.”
+
+v35: προσαίτης (prosaitēs)
+
+“Beggar.”
+
+v38: ἐλεέω (eleeō)
+“To have mercy.”
+
+v42: ἀναβλέπω (anablepō)
+
+“To see again.”
+
 v01: ἐγκακέω (enkakeō)
 “To lose heart.”
 
@@ -167,6 +246,3 @@ v08: πίστις (pistis)
 
 v09: δικαιόω (dikaioō)
 “To justify.”
-
-v38: ἐλεέω (eleeō)
-“To have mercy.”

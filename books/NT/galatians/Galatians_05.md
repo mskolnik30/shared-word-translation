@@ -84,6 +84,27 @@ v24: Crucifixion language is used as an event in the past tense; what was once f
 
 ##Vocabulary
 
+v1: ἐλευθερία (eleutheria) — Freedom, liberty. Names a status as well as a sphere of action.
+
+v6: ἐνεργέω (energeō) — To work, to be effective. The same root as “energy.”
+
+v9: ζύμη (zymē) — Leaven, yeast. The image of a small influence spreading throughout.
+
+v13: ἀφορμή (aphormē)
+“Occasion, pretext, base of operations.”
+
+v15: κατεσθίω (katesthiō) — To devour, to eat up entirely.
+
+v17: ἐπιθυμία (epithymia) — Desire, longing. Not inherently sinful; the noun describes any strong desire and the context names its direction.
+
+v19: φανερά (phanera) — Evident, manifest, brought to light.
+
+v22: καρπός (karpos) — Fruit. The singular form contrasts with the plural “works” in v.19.
+
+v22: μακροθυμία (makrothymia) — Patience, long-suffering. Endurance under provocation.
+
+v23: ἐγκράτεια (enkrateia) — Self-control, self-mastery. The capacity to govern one’s impulses from within.
+
 v01: ἐλευθερία (eleutheria)
 “Freedom, liberty. Names a status as well as a sphere of action.”
 
@@ -92,6 +113,3 @@ v06: ἐνεργέω (energeō)
 
 v09: ζύμη (zymē)
 “Leaven, yeast. The image of a small influence spreading throughout.”
-
-v13: ἀφορμή (aphormē)
-“Occasion, pretext, base of operations.”

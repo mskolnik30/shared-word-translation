@@ -76,6 +76,46 @@ v17–18: Boasting is redirected from self-commendation to divine commendation.
 
 ##Vocabulary
 
+v1: πραΰτης (prautēs)  
+
+v1: “Meekness.” Strength expressed without harshness.  
+
+v1: ἐπιείκεια (epieikeia)  
+
+v1: “Gentleness” or “forbearance.” A moderated, patient disposition.  
+
+v3: σάρξ (sarx)  
+
+v3: “Flesh.” Here indicating a mode of operation, not merely physicality.  
+
+v4: ὀχύρωμα (ochyrōma)  
+
+v4: “Stronghold.” A fortified position, literal or metaphorical.  
+
+v4: λογισμός (logismos)  
+
+v4: “Argument” or “reasoning.” Structured thought or calculation.  
+
+v5: αἰχμαλωτίζω (aichmalōtizō)  
+
+v5: “To take captive.” To bring under control or submission.  
+
+v8: ἐξουσία (exousia)  
+
+v8: “Authority.” Delegated capacity for action.  
+
+v12: συνίημι (syniēmi)  
+
+v12: “To understand.” To comprehend or bring together meaning.  
+
+v13: κανών (kanōn)  
+
+v13: “Measure” or “rule.” A defined boundary or standard.  
+
+v17: καυχάομαι (kauchaomai)  
+
+v17: “To boast.” To claim confidence or ground for pride.  
+
 v01: πραΰτης (prautēs)
 “Meekness.” Strength expressed without harshness.
 

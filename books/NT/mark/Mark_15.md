@@ -151,6 +151,90 @@ v28: This verse is absent from the earliest and strongest Greek witnesses; later
 
 ##Vocabulary
 
+v1: συμβούλιον (symboulion)
+
+“Council, plan.” Deliberation toward action, often hostile in Mark.
+
+v1: Πιλᾶτος (Pilatos)
+
+“Pilate.” Roman governor representing imperial authority.
+
+v2: βασιλεὺς τῶν Ἰουδαίων (basileus tōn Ioudaiōn)
+
+“King of the Jews.” Political title used in accusation and mockery.
+
+v5: θαυμάζω (thaumazō)
+
+“To marvel, be amazed.” Pilate’s response to Jesus’ silence.
+
+v7: στάσις (stasis)
+
+“Uprising, revolt.” Political disturbance or rebellion.
+
+v10: φθόνος (phthonos)
+
+“Envy.” Hostile resentment at another’s status or influence.
+
+v15: φραγελλόω (phragelloō)
+
+“To flog.” Roman scourging before crucifixion.
+
+v15: σταυρόω (stauroō)
+
+“To crucify.” To execute by Roman cross.
+
+v17: πορφύρα (porphyra)
+
+“Purple.” Color associated with royalty.
+
+v19: ἐμπαίζω (empaizō)
+
+“To mock.” To ridicule through gesture, speech, or performance.
+
+v21: ἀγγαρεύω (angareuō)
+
+“To compel.” Forced service under authority.
+
+v22: Γολγοθᾶ (Golgotha)
+
+“Golgotha.” Place-name translated “Place of a Skull.”
+
+v24: κλῆρος (klēros)
+
+“Lot.” Object used to determine distribution.
+
+v26: αἰτία (aitia)
+
+“Charge, accusation.” Legal basis for execution.
+
+v29: βλασφημέω (blasphēmeō)
+
+“To blaspheme, revile.” Speech of contempt.
+
+v34: ἐγκαταλείπω (enkataleipō)
+
+“To forsake, abandon.” Language of dereliction.
+
+v37: ἐκπνέω (ekpneō)
+
+“To breathe out, expire.” Mark’s term for Jesus’ death.
+
+v38: καταπέτασμα (katapetasma)
+
+“Curtain, veil.” Temple curtain torn at Jesus’ death.
+
+v39: κεντυρίων (kentyriōn)
+
+“Centurion.” Roman officer commanding soldiers.
+
+v43: εὐσχήμων (euschēmōn)
+
+“Respected, honorable.” Socially honorable or prominent.
+
+v46: μνημεῖον (mnēmeion)
+
+“Tomb.” Burial place, often cut from rock.
+
 v01: συμβούλιον (symboulion)
 “Council, plan.” Deliberation toward action, often hostile in Mark.
 

@@ -103,6 +103,46 @@ v19–21: The network of relationships remains active despite Paul’s isolation
 
 ##Vocabulary
 
+v1: ἐπιφάνεια (epiphaneia)  
+
+v1: “Appearing.” Manifestation or revelation.  
+
+v2: κηρύσσω (kēryssō)  
+
+v2: “To preach.” To proclaim publicly.  
+
+v3: κνηθόμενος (knēthomenos)  
+
+v3: “Itching.” Desire for stimulation.  
+
+v5: νήφω (nēphō)  
+
+v5: “To be sober.” To be self-controlled.  
+
+v6: σπένδομαι (spendomai)  
+
+v6: “To be poured out.” Offered as sacrifice.  
+
+v7: ἀγών (agōn)  
+
+v7: “Fight.” Contest or struggle.  
+
+v8: στέφανος (stephanos)  
+
+v8: “Crown.” Reward or honor.  
+
+v10: αἰών (aiōn)  
+
+v10: “Age.” Present order.  
+
+v17: ἐνδυναμόω (endynamoō)  
+
+v17: “To strengthen.” To empower.  
+
+v18: ῥύομαι (rhyomai)  
+
+v18: “To rescue.” To deliver.  
+
 v01: ἐπιφάνεια (epiphaneia)
 “Appearing.” Manifestation or revelation.
 

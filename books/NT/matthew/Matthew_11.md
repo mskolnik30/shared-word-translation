@@ -107,14 +107,40 @@ v28–30: Rest is offered not as escape but as reorientation under a different y
 
 ##Vocabulary
 
+v3: ὁ ἐρχόμενος (*ho erchomenos*) — “The one who is coming.” Messianic expectation in participial form.  
+
+v5: εὐαγγελίζω (*euangelizō*) — “To proclaim good news.” Active announcement, not mere report.  
+
+v6: σκανδαλίζω (*skandalizō*) — “To cause offense,” “to stumble.” Obstruction to trust or allegiance.  
+
+v11: βασιλεία τῶν οὐρανῶν (basileia tōn ouranōn)
+“Kingdom of heaven.” Realm defined by divine rule.
+
+v12: βιάζω (*biazō*) — “To use force,” “to press.” Ambiguous: either hostile opposition or forceful entry.  
+
+v14: Ἠλίας (*Ēlias*) — “Elijah.” Eschatological forerunner figure.  
+
+v16: γενεά (*genea*) — “Generation.” Cohort defined by shared response, not merely time.  
+
+v19: σοφία (sophia)
+“Wisdom.” Validated through action or result.
+
+v20: μετανοέω (*metanoeō*) — “To repent.” Change of mind and direction.  
+
+v23: ᾅδης (*Hadēs*) — “Hades.” Realm of the dead; image of descent.  
+
+v25: ἀποκαλύπτω (*apokalyptō*) — “To reveal.” Disclosure of what was hidden.  
+
+v27: ἐπιγινώσκω (*epiginōskō*) — “To know fully.” Relational, not merely cognitive.  
+
+v28: κοπιάω (*kopiaō*) — “To labor.” Exhaustion through effort.  
+
+v29: ζυγός (*zygos*) — “Yoke.” Instrument of guidance and burden-sharing.  
+
+v30: χρηστός (*chrēstos*) — “Easy,” “kind.” Denotes fittingness rather than absence of demand.  
+
 v05: εὐαγγελίζω (euangelizō)
 “To proclaim good news.” Active announcement, not mere report.
 
 v06: σκανδαλίζω (skandalizō)
 “To cause offense,” “to stumble.” Obstruction to trust or allegiance.
-
-v11: βασιλεία τῶν οὐρανῶν (basileia tōn ouranōn)
-“Kingdom of heaven.” Realm defined by divine rule.
-
-v19: σοφία (sophia)
-“Wisdom.” Validated through action or result.

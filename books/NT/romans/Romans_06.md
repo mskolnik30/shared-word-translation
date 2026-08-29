@@ -75,6 +75,36 @@ The contrast is asymmetrical. Death is earned; life is given. Eternal life is no
 
 ##Vocabulary
 
+v5: σύμφυτος (symphytos)
+“United with.” Conveys organic participation or shared life, not mere association or imitation. The term emphasizes incorporation into Christ’s death and resurrection.
+
+v6: καταργέω (katargeō)
+“To render powerless.” Does not mean annihilation. Sin’s authority is broken, though its presence remains contested.
+
+v7: ἐλευθερόω (eleutheroō)
+“To free.” Liberation is declared as an accomplished reality, grounding the ethical exhortations that follow.
+
+v9: κυριεύω (kyrieuō)
+“To exercise dominion.” Signals ruling authority. Used of death and sin to describe oppressive powers rather than isolated acts.
+
+v11: λογίζομαι (logizomai)
+“To consider; to reckon.” Calls for alignment with reality rather than self-deception. The verb echoes earlier chapters while shifting from justification to lived identity.
+
+v13: ὅπλα (hopla)
+“Instruments.” Literally “weapons.” The term heightens the sense of embodied participation in rival dominions.
+
+v16: δοῦλος (doulos)
+“Slave.” A deliberately stark metaphor. Paul rejects autonomy and frames life as allegiance to one of two masters.
+
+v19: ἁγιασμός (hagiasmos)
+“Sanctification.” Refers to being set apart through lived orientation toward God, not moral perfectionism.
+
+v23: ὀψώνια (opsōnia)
+“Wages.” A term drawn from military pay. Death is earned; life is not.
+
+v23: χάρισμα (charisma)
+“Free gift.” Emphasizes grace as unearned and unrepayable. Eternal life is given, not achieved.
+
 v05: σύμφυτος (symphytos)
 “United with.” Conveys organic participation or shared life, not mere association or imitation.
 
@@ -83,6 +113,3 @@ v06: καταργέω (katargeō)
 
 v09: κυριεύω (kyrieuō)
 “To exercise dominion.” Signals ruling authority. Used of death and sin to describe oppressive powers rather than isolated acts.
-
-v13: ὅπλα (hopla)
-“Instruments.” Literally “weapons.” The term heightens the sense of embodied participation in rival dominions.

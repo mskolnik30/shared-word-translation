@@ -105,6 +105,46 @@ v24: The act of giving becomes public confirmation of love and of Paul’s prior
 
 ##Vocabulary
 
+v1: χάρις (charis)  
+
+v1: “Grace.” Here functioning as divine enablement expressed in generosity.  
+
+v2: δοκιμή (dokimē)  
+
+v2: “Testing.” A proving or refining circumstance.  
+
+v2: πλοῦτος (ploutos)  
+
+v2: “Wealth.” Used paradoxically of generosity arising from poverty.  
+
+v4: κοινωνία (koinōnia)  
+
+v4: “Participation” or “sharing.” Emphasizes relational involvement.  
+
+v7: σπουδή (spoudē)  
+
+v7: “Earnestness.” Diligent seriousness or eagerness.  
+
+v9: πτωχεύω (ptōcheuō)  
+
+v9: “To become poor.” Indicates entering into a condition, not merely lacking resources.  
+
+v13: ἄνεσις (anesis)  
+
+v13: “Relief.” Release from burden.  
+
+v14: ἰσότης (isotēs)  
+
+v14: “Equality.” Fairness or balance rather than sameness.  
+
+v20: ἁδρότης (hadrotēs)  
+
+v20: “Generous gift.” A substantial or abundant offering.  
+
+v21: καλός (kalos)  
+
+v21: “Honorable.” That which is fitting or worthy in public and moral perception.  
+
 v01: χάρις (charis)
 “Grace.” Here functioning as divine enablement expressed in generosity.
 

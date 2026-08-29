@@ -120,7 +120,8 @@ v34–35: Loss of distinctiveness renders discipleship ineffective.
 
 ##Vocabulary
 
-v02: ὑδρωπικός (hydrōpikos)
+v2: ὑδρωπικός (hydrōpikos)
+
 “Dropsy.”
 
 v11: ταπεινόω (tapeinoō)
@@ -131,3 +132,34 @@ v13: πτωχός (ptōchos)
 
 v17: δεῖπνον (deipnon)
 “Banquet.”
+
+v18: παραιτέομαι (paraiteomai)
+
+“To excuse oneself.”
+
+v23: ἀναγκάζω (anankazō)
+
+“To compel.”
+
+v26: μισέω (miseō)
+
+“To hate” (to reject priority).
+
+v27: σταυρός (stauros)
+
+“Cross.”
+
+v28: δαπάνη (dapanē)
+
+“Cost.”
+
+v33: ἀποτάσσομαι (apotassomai)
+
+“To renounce.”
+
+v34: μωραίνω (mōrainō)
+
+“To lose taste.”
+
+v02: ὑδρωπικός (hydrōpikos)
+“Dropsy.”

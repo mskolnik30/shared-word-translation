@@ -73,6 +73,58 @@ v16: Believers participate in the mind of Christ.
 
 ##Vocabulary
 
+v1: ὑπεροχή (hyperochē)  
+
+v1: “Superiority.”  
+
+v2: σταυρόω (stauroō)  
+
+v2: “To crucify.”  
+
+v4: ἀπόδειξις (apodeixis)  
+
+v4: “Demonstration.”  
+
+v6: τέλειος (teleios)  
+
+v6: “Mature.”  
+
+v7: μυστήριον (mystērion)  
+
+v7: “Mystery.”  
+
+v8: ἄρχων (archōn)  
+
+v8: “Ruler.”  
+
+v10: βάθος (bathos)  
+
+v10: “Depth.”  
+
+v11: πνεῦμα (pneuma)  
+
+v11: “Spirit.”  
+
+v12: χαρίζομαι (charizomai)  
+
+v12: “To give freely.”  
+
+v13: συγκρίνω (synkrinō)  
+
+v13: “To interpret.”  
+
+v14: ψυχικός (psychikos)  
+
+v14: “Natural.”  
+
+v15: ἀνακρίνω (anakrinō)  
+
+v15: “To discern.”  
+
+v16: νοῦς (nous)  
+
+v16: “Mind.”  
+
 v01: ὑπεροχή (hyperochē)
 “Superiority.”
 

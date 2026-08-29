@@ -61,6 +61,54 @@ v14: Peace is relational and located “in Christ.”
 
 ##Vocabulary
 
+v1: πρεσβύτερος (presbyteros)  
+
+v1: “Elder.” One with recognized leadership.  
+
+v2: ποιμαίνω (poimainō)  
+
+v2: “To shepherd.” To guide and care.  
+
+v2: ἐπισκοπέω (episkopeō)  
+
+v2: “To oversee.” To watch over.  
+
+v3: κατακυριεύω (katakyrieuō)  
+
+v3: “To domineer.” To rule over harshly.  
+
+v4: στέφανος (stephanos)  
+
+v4: “Crown.” Symbol of reward.  
+
+v5: ταπεινοφροσύνη (tapeinophrosynē)  
+
+v5: “Humility.” Lowliness of mind.  
+
+v7: μέριμνα (merimna)  
+
+v7: “Anxiety.” Concern or care.  
+
+v8: διάβολος (diabolos)  
+
+v8: “Devil.” Accuser or adversary.  
+
+v9: στερεός (stereos)  
+
+v9: “Firm.” Solid or steadfast.  
+
+v10: καταρτίζω (katartizō)  
+
+v10: “To restore.” To set right.  
+
+v13: Βαβυλών (Babylōn)  
+
+v13: “Babylon.” Symbolic location.  
+
+v14: εἰρήνη (eirēnē)  
+
+v14: “Peace.” Wholeness or well-being.  
+
 v01: πρεσβύτερος (presbyteros)
 “Elder.” One with recognized leadership.
 

@@ -193,10 +193,12 @@ v56: Sabbath observance continues even in grief.
 
 ##Vocabulary
 
-v02: διαστρέφω (diastrephō)
+v2: διαστρέφω (diastrephō)
+
 “To mislead.”
 
-v03: βασιλεύς (basileus)
+v3: βασιλεύς (basileus)
+
 “King.”
 
 v11: ἐξουθενέω (exoutheneō)
@@ -205,5 +207,63 @@ v11: ἐξουθενέω (exoutheneō)
 v19: στάσις (stasis)
 “Insurrection.”
 
+v21: σταυρόω (stauroō)
+
+“To crucify.”
+
+v26: ἀγγαρεύω (angareuō)
+
+“To compel.”
+
+v33: κρανίον (kranion)
+
+“Skull.”
+
+v34: ἄφεσις (aphesis)
+
+“Forgiveness.”
+
+v36: ὄξος (oxos)
+
+“Sour wine.”
+
+v38: ἐπιγραφή (epigraphē)
+
+“Inscription.”
+
+v41: ἄτοπος (atopos)
+
+“Improper, unjust.”
+
+v43: παράδεισος (paradeisos)
+
+“Paradise.”
+
+v45: καταπέτασμα (katapetasma)
+
+“Curtain.”
+
+v46: παρατίθημι (paratithēmi)
+
+“To entrust.”
+
 v47: δίκαιος (dikaios)
 “Righteous.”
+
+v50: βουλευτής (bouleutēs)
+
+“Council member.”
+
+v53: σινδών (sindōn)
+
+“Linen cloth.”
+
+v54: παρασκευή (paraskeuē)
+
+“Preparation day.”
+
+v02: διαστρέφω (diastrephō)
+“To mislead.”
+
+v03: βασιλεύς (basileus)
+“King.”

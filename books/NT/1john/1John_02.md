@@ -130,6 +130,54 @@ v28–29: Confidence is tied to abiding, not achievement.
 
 ##Vocabulary
 
+v1: παράκλητος (paraklētos)  
+
+v1: “Advocate.” One who speaks on behalf of another.  
+
+v2: ἱλασμός (hilasmos)  
+
+v2: “Atoning sacrifice.” Means of dealing with sin.  
+
+v3: γινώσκω (ginōskō)  
+
+v3: “To know.” Relational understanding.  
+
+v5: τελειόω (teleioō)  
+
+v5: “To perfect.” To bring to completion.  
+
+v6: περιπατέω (peripateō)  
+
+v6: “To walk.” To live or act.  
+
+v8: φῶς (phōs)  
+
+v8: “Light.” Source of truth and life.  
+
+v11: σκοτία (skotia)  
+
+v11: “Darkness.” Absence of light and perception.  
+
+v16: ἐπιθυμία (epithymia)  
+
+v16: “Desire.” Strong longing.  
+
+v18: ἀντίχριστος (antichristos)  
+
+v18: “Antichrist.” One opposed to Christ.  
+
+v20: χρίσμα (chrisma)  
+
+v20: “Anointing.” That which is applied, symbolizing empowerment.  
+
+v24: μένω (menō)  
+
+v24: “To abide.” To remain or continue.  
+
+v29: γεννάω (gennaō)  
+
+v29: “To be born.” To originate or come into being.  
+
 v01: παράκλητος (paraklētos)
 “Advocate.” One who speaks on behalf of another.
 

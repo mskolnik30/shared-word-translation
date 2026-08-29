@@ -106,6 +106,82 @@ v24: This verse is absent from the earliest and strongest Greek witnesses; later
 
 ##Vocabulary
 
+v1: συνίστημι (synistēmi)
+
+“To commend.”
+
+v1: διάκονος (diakonos)
+
+“Servant.”
+
+v2: προσδέχομαι (prosdechomai)
+
+“To receive.”
+
+v2: προστάτις (prostatis)
+
+“Benefactor.”
+
+v3: συνεργός (synergos)
+
+“Fellow worker.”
+
+v4: ὑποτίθημι τὸν τράχηλον
+
+“To risk one’s neck.”
+
+v5: ἀπαρχή (aparchē)
+
+“Firstfruit.”
+
+v7: ἐπίσημος (episēmos)
+
+“Outstanding.”
+
+v10: δόκιμος (dokimos)
+
+“Approved.”
+
+v12: κοπιάω (kopiaō)
+
+“To labor.”
+
+v16: φίλημα (philēma)
+
+“Kiss.”
+
+v17: σκοπέω (skopeō)
+
+“To watch out.”
+
+v18: ἀπάτη (apatē)
+
+“Deception.”
+
+v19: ἀκέραιος (akeraios)
+
+“Innocent.”
+
+v20: συντρίβω (syntribō)
+
+“To crush.”
+
+v22: γράφω (graphō)
+
+“To write.”
+
+v25: μυστήριον (mystērion)
+
+“Mystery.”
+
+v26: φανερόω (phaneroō)
+
+“To make manifest.”
+
+v27: σοφός (sophos)
+
+“Wise.”
+
 v01: συνίστημι (synistēmi)
 “To commend.”
 

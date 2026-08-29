@@ -89,6 +89,74 @@ v18–21: Authority is validated by power, not speech.
 
 ##Vocabulary
 
+v1: ὑπηρέτης (hypēretēs)  
+
+v1: “Servant.”  
+
+v1: οἰκονόμος (oikonomos)  
+
+v1: “Steward.”  
+
+v1: μυστήριον (mystērion)  
+
+v1: “Mystery.”  
+
+v2: πιστός (pistos)  
+
+v2: “Faithful.”  
+
+v3: ἀνακρίνω (anakrinō)  
+
+v3: “To examine, judge.”  
+
+v5: φανερόω (phaneroō)  
+
+v5: “To bring to light.”  
+
+v6: φυσιόω (physioō)  
+
+v6: “To become arrogant.”  
+
+v7: λαμβάνω (lambanō)  
+
+v7: “To receive.”  
+
+v9: θέατρον (theatron)  
+
+v9: “Spectacle.”  
+
+v10: μωρός (mōros)  
+
+v10: “Foolish.”  
+
+v12: κοπιάω (kopiaō)  
+
+v12: “To labor.”  
+
+v13: περικαθάρμα (perikatharma)  
+
+v13: “Refuse.”  
+
+v14: νουθετέω (noutheteō)  
+
+v14: “To admonish.”  
+
+v15: παιδαγωγός (paidagōgos)  
+
+v15: “Instructor.”  
+
+v16: μιμητής (mimētēs)  
+
+v16: “Imitator.”  
+
+v20: δύναμις (dynamis)  
+
+v20: “Power.”  
+
+v21: πραΰτης (prautēs)  
+
+v21: “Gentleness.”  
+
 v01: ὑπηρέτης (hypēretēs)
 “Servant.”
 

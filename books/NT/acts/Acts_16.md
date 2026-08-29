@@ -154,6 +154,82 @@ v40: Community strengthening continues after release.
 
 ##Vocabulary
 
+v2: μαρτυρέω (martyreō)  
+
+v2: “To bear witness.”  
+
+v3: περιτέμνω (peritemnō)  
+
+v3: “To circumcise.”  
+
+v5: στηρίζω (stērizō)  
+
+v5: “To strengthen.”  
+
+v6: κωλύω (kōlyō)  
+
+v6: “To forbid.”  
+
+v9: ὅραμα (horama)  
+
+v9: “Vision.”  
+
+v10: συμβιβάζω (symbibazō)  
+
+v10: “To conclude.”  
+
+v14: διανοίγω (dianoigō)  
+
+v14: “To open.”  
+
+v16: πνεῦμα πύθωνα  
+
+v16: “Spirit of divination.”  
+
+v18: παραγγέλλω (parangellō)  
+
+v18: “To command.”  
+
+v19: ἀγορά (agora)  
+
+v19: “Marketplace.”  
+
+v22: ῥαβδίζω (rhabdizō)  
+
+v22: “To beat with rods.”  
+
+v24: ξύλον (xylon, stocks context)  
+
+v24: “Stocks.”  
+
+v25: ὑμνέω (hymneō)  
+
+v25: “To sing hymns.”  
+
+v26: σεισμός (seismos)  
+
+v26: “Earthquake.”  
+
+v30: σώζω (sōzō)  
+
+v30: “To save.”  
+
+v31: πιστεύω (pisteuō)  
+
+v31: “To believe.”  
+
+v33: βαπτίζω (baptizō)  
+
+v33: “To baptize.”  
+
+v37: Ῥωμαῖος (Rhōmaios)  
+
+v37: “Roman.”  
+
+v39: παρακαλέω (parakaleō)  
+
+v39: “To appeal, urge.”  
+
 v02: μαρτυρέω (martyreō)
 “To bear witness.”
 

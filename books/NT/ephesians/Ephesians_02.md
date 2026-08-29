@@ -71,6 +71,26 @@ v03: "Children of wrath" (τέκνα ὀργῆς) is a Hebraic idiom for those 
 
 ##Vocabulary
 
+v1: παραπτώματα (paraptōmata) — "Trespasses." Literally a "falling beside"—deviations from a way, missteps that accumulate.  
+
+v3: φύσει (physei) — "By nature." Not by metaphysical essence but by the formed pattern of life apart from grace.  
+
+v4: ἔλεος (eleos) — "Mercy." Compassion that acts; the Greek term translates the Hebrew ḥesed in the Septuagint.  
+
+v5: συνεζωοποίησεν (synezōopoiēsen) — "Made alive together with." A compound verb stacking three elements: with, alive, made. Resurrection life is shared life from the start.  
+
+v8: χάρις (charis) — "Grace." Unearned generosity. Never abstract here—always located in the giving of Christ.  
+
+v10: ποίημα (poiēma) — "Making," "workmanship." The community as God's crafted work; the same word renders "works" in the Greek of Genesis 1.  
+
+v14: μεσότοιχον (mesotoichon) — "Dividing wall." Used only here in the New Testament. A wall standing between, not around.  
+
+v15: καινὸς ἄνθρωπος (kainos anthrōpos) — "New humanity." Not "new man" in the sense of new individual, but a new kind of human—the two made one.  
+
+v17: εὐηγγελίσατο (euēngelisato) — "Proclaimed the good news." The verb form of "gospel." Peace is itself the good news here.  
+
+v22: κατοικητήριον (katoikētērion) — "Dwelling." A place of settled habitation, not a passing visit. The community is built to be lived in.  
+
 v01: παραπτώματα (paraptōmata)
 “Trespasses." Literally a "falling beside"—deviations from a way, missteps that accumulate.
 

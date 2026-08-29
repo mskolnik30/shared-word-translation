@@ -1,0 +1,2614 @@
+{
+  "source_ref": "c1ced84cf9ee3f81bf11f05898bce0dc59cc284b",
+  "mode": "apply",
+  "threshold": 0.88,
+  "allow_text_changed": false,
+  "summary": {
+    "files_scanned": 260,
+    "vocabulary_restored": 4549,
+    "same_reference_conflicts": 127,
+    "vocabulary_skipped_for_text_change": 17
+  },
+  "files": [
+    {
+      "path": "books/NT/1corinthians/1Corinthians_01.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_01.md",
+      "current_vocab": 4,
+      "source_vocab": 14,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_02.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_02.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 26,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_03.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_03.md",
+      "current_vocab": 4,
+      "source_vocab": 30,
+      "restored": 30,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_04.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_04.md",
+      "current_vocab": 4,
+      "source_vocab": 34,
+      "restored": 34,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_05.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_05.md",
+      "current_vocab": 4,
+      "source_vocab": 28,
+      "restored": 28,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_06.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_06.md",
+      "current_vocab": 4,
+      "source_vocab": 36,
+      "restored": 36,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_07.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_07.md",
+      "current_vocab": 5,
+      "source_vocab": 30,
+      "restored": 30,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_08.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_08.md",
+      "current_vocab": 4,
+      "source_vocab": 28,
+      "restored": 28,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_09.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_09.md",
+      "current_vocab": 4,
+      "source_vocab": 36,
+      "restored": 36,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_10.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_10.md",
+      "current_vocab": 4,
+      "source_vocab": 34,
+      "restored": 34,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_11.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_11.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 23,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_12.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_12.md",
+      "current_vocab": 4,
+      "source_vocab": 21,
+      "restored": 21,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_13.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_13.md",
+      "current_vocab": 4,
+      "source_vocab": 9,
+      "restored": 8,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_14.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_14.md",
+      "current_vocab": 5,
+      "source_vocab": 34,
+      "restored": 34,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_15.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_15.md",
+      "current_vocab": 5,
+      "source_vocab": 36,
+      "restored": 35,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1corinthians/1Corinthians_16.md",
+      "source_path": "books/NT/1corinthians/1Corinthians_16.md",
+      "current_vocab": 4,
+      "source_vocab": 36,
+      "restored": 36,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1john/1John_01.md",
+      "source_path": "books/NT/1john/1John_01.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1john/1John_02.md",
+      "source_path": "books/NT/1john/1John_02.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1john/1John_03.md",
+      "source_path": "books/NT/1john/1John_03.md",
+      "current_vocab": 4,
+      "source_vocab": 13,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1john/1John_04.md",
+      "source_path": "books/NT/1john/1John_04.md",
+      "current_vocab": 4,
+      "source_vocab": 16,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1john/1John_05.md",
+      "source_path": "books/NT/1john/1John_05.md",
+      "current_vocab": 4,
+      "source_vocab": 17,
+      "restored": 16,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1peter/1Peter_01.md",
+      "source_path": "books/NT/1peter/1Peter_01.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 26,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1peter/1Peter_02.md",
+      "source_path": "books/NT/1peter/1Peter_02.md",
+      "current_vocab": 4,
+      "source_vocab": 11,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1peter/1Peter_03.md",
+      "source_path": "books/NT/1peter/1Peter_03.md",
+      "current_vocab": 4,
+      "source_vocab": 15,
+      "restored": 13,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1peter/1Peter_04.md",
+      "source_path": "books/NT/1peter/1Peter_04.md",
+      "current_vocab": 4,
+      "source_vocab": 31,
+      "restored": 29,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1peter/1Peter_05.md",
+      "source_path": "books/NT/1peter/1Peter_05.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1thessalonians/1Thessalonians_01.md",
+      "source_path": "books/NT/1thessalonians/1Thessalonians_01.md",
+      "current_vocab": 4,
+      "source_vocab": 18,
+      "restored": 18,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1thessalonians/1Thessalonians_02.md",
+      "source_path": "books/NT/1thessalonians/1Thessalonians_02.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1thessalonians/1Thessalonians_03.md",
+      "source_path": "books/NT/1thessalonians/1Thessalonians_03.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1thessalonians/1Thessalonians_04.md",
+      "source_path": "books/NT/1thessalonians/1Thessalonians_04.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1thessalonians/1Thessalonians_05.md",
+      "source_path": "books/NT/1thessalonians/1Thessalonians_05.md",
+      "current_vocab": 4,
+      "source_vocab": 22,
+      "restored": 22,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1timothy/1Timothy_01.md",
+      "source_path": "books/NT/1timothy/1Timothy_01.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1timothy/1Timothy_02.md",
+      "source_path": "books/NT/1timothy/1Timothy_02.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1timothy/1Timothy_03.md",
+      "source_path": "books/NT/1timothy/1Timothy_03.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1timothy/1Timothy_04.md",
+      "source_path": "books/NT/1timothy/1Timothy_04.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1timothy/1Timothy_05.md",
+      "source_path": "books/NT/1timothy/1Timothy_05.md",
+      "current_vocab": 4,
+      "source_vocab": 22,
+      "restored": 21,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/1timothy/1Timothy_06.md",
+      "source_path": "books/NT/1timothy/1Timothy_06.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_01.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_01.md",
+      "current_vocab": 4,
+      "source_vocab": 16,
+      "restored": 16,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_02.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_02.md",
+      "current_vocab": 4,
+      "source_vocab": 7,
+      "restored": 6,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_03.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_03.md",
+      "current_vocab": 4,
+      "source_vocab": 16,
+      "restored": 16,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_04.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_04.md",
+      "current_vocab": 4,
+      "source_vocab": 18,
+      "restored": 18,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_05.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_05.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_06.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_06.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_07.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_07.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_08.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_08.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_09.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_09.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_10.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_10.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_11.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_11.md",
+      "current_vocab": 4,
+      "source_vocab": 18,
+      "restored": 18,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_12.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_12.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2corinthians/2Corinthians_13.md",
+      "source_path": "books/NT/2corinthians/2Corinthians_13.md",
+      "current_vocab": 4,
+      "source_vocab": 15,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2john/2John_01.md",
+      "source_path": "books/NT/2john/2John_01.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2peter/2Peter_01.md",
+      "source_path": "books/NT/2peter/2Peter_01.md",
+      "current_vocab": 4,
+      "source_vocab": 12,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2peter/2Peter_02.md",
+      "source_path": "books/NT/2peter/2Peter_02.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 26,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2peter/2Peter_03.md",
+      "source_path": "books/NT/2peter/2Peter_03.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 26,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2thessalonians/2Thessalonians_01.md",
+      "source_path": "books/NT/2thessalonians/2Thessalonians_01.md",
+      "current_vocab": 4,
+      "source_vocab": 18,
+      "restored": 18,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2thessalonians/2Thessalonians_02.md",
+      "source_path": "books/NT/2thessalonians/2Thessalonians_02.md",
+      "current_vocab": 4,
+      "source_vocab": 18,
+      "restored": 18,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2thessalonians/2Thessalonians_03.md",
+      "source_path": "books/NT/2thessalonians/2Thessalonians_03.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2timothy/2Timothy_01.md",
+      "source_path": "books/NT/2timothy/2Timothy_01.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2timothy/2Timothy_02.md",
+      "source_path": "books/NT/2timothy/2Timothy_02.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2timothy/2Timothy_03.md",
+      "source_path": "books/NT/2timothy/2Timothy_03.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/2timothy/2Timothy_04.md",
+      "source_path": "books/NT/2timothy/2Timothy_04.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/3john/3John_01.md",
+      "source_path": "books/NT/3john/3John_01.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_01.md",
+      "source_path": "books/NT/acts/Acts_01.md",
+      "current_vocab": 4,
+      "source_vocab": 13,
+      "restored": 13,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_02.md",
+      "source_path": "books/NT/acts/Acts_02.md",
+      "current_vocab": 5,
+      "source_vocab": 11,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_03.md",
+      "source_path": "books/NT/acts/Acts_03.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 25,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_04.md",
+      "source_path": "books/NT/acts/Acts_04.md",
+      "current_vocab": 5,
+      "source_vocab": 20,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_05.md",
+      "source_path": "books/NT/acts/Acts_05.md",
+      "current_vocab": 5,
+      "source_vocab": 36,
+      "restored": 35,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_06.md",
+      "source_path": "books/NT/acts/Acts_06.md",
+      "current_vocab": 4,
+      "source_vocab": 30,
+      "restored": 30,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_07.md",
+      "source_path": "books/NT/acts/Acts_07.md",
+      "current_vocab": 5,
+      "source_vocab": 11,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_08.md",
+      "source_path": "books/NT/acts/Acts_08.md",
+      "current_vocab": 5,
+      "source_vocab": 38,
+      "restored": 38,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_09.md",
+      "source_path": "books/NT/acts/Acts_09.md",
+      "current_vocab": 5,
+      "source_vocab": 17,
+      "restored": 16,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_10.md",
+      "source_path": "books/NT/acts/Acts_10.md",
+      "current_vocab": 5,
+      "source_vocab": 35,
+      "restored": 30,
+      "conflicts": 4,
+      "skipped_text_changed": 1,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_11.md",
+      "source_path": "books/NT/acts/Acts_11.md",
+      "current_vocab": 4,
+      "source_vocab": 32,
+      "restored": 32,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_12.md",
+      "source_path": "books/NT/acts/Acts_12.md",
+      "current_vocab": 4,
+      "source_vocab": 32,
+      "restored": 32,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_13.md",
+      "source_path": "books/NT/acts/Acts_13.md",
+      "current_vocab": 5,
+      "source_vocab": 32,
+      "restored": 31,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_14.md",
+      "source_path": "books/NT/acts/Acts_14.md",
+      "current_vocab": 4,
+      "source_vocab": 32,
+      "restored": 32,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_15.md",
+      "source_path": "books/NT/acts/Acts_15.md",
+      "current_vocab": 5,
+      "source_vocab": 28,
+      "restored": 26,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_16.md",
+      "source_path": "books/NT/acts/Acts_16.md",
+      "current_vocab": 5,
+      "source_vocab": 38,
+      "restored": 38,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_17.md",
+      "source_path": "books/NT/acts/Acts_17.md",
+      "current_vocab": 4,
+      "source_vocab": 14,
+      "restored": 13,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_18.md",
+      "source_path": "books/NT/acts/Acts_18.md",
+      "current_vocab": 4,
+      "source_vocab": 34,
+      "restored": 34,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_19.md",
+      "source_path": "books/NT/acts/Acts_19.md",
+      "current_vocab": 5,
+      "source_vocab": 19,
+      "restored": 19,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_20.md",
+      "source_path": "books/NT/acts/Acts_20.md",
+      "current_vocab": 5,
+      "source_vocab": 38,
+      "restored": 37,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_21.md",
+      "source_path": "books/NT/acts/Acts_21.md",
+      "current_vocab": 5,
+      "source_vocab": 12,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_22.md",
+      "source_path": "books/NT/acts/Acts_22.md",
+      "current_vocab": 4,
+      "source_vocab": 36,
+      "restored": 36,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_23.md",
+      "source_path": "books/NT/acts/Acts_23.md",
+      "current_vocab": 4,
+      "source_vocab": 32,
+      "restored": 32,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_24.md",
+      "source_path": "books/NT/acts/Acts_24.md",
+      "current_vocab": 4,
+      "source_vocab": 32,
+      "restored": 32,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_25.md",
+      "source_path": "books/NT/acts/Acts_25.md",
+      "current_vocab": 4,
+      "source_vocab": 30,
+      "restored": 29,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_26.md",
+      "source_path": "books/NT/acts/Acts_26.md",
+      "current_vocab": 4,
+      "source_vocab": 30,
+      "restored": 29,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_27.md",
+      "source_path": "books/NT/acts/Acts_27.md",
+      "current_vocab": 5,
+      "source_vocab": 34,
+      "restored": 32,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/acts/Acts_28.md",
+      "source_path": "books/NT/acts/Acts_28.md",
+      "current_vocab": 4,
+      "source_vocab": 32,
+      "restored": 32,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/colossians/Colossians_01.md",
+      "source_path": "books/NT/colossians/Colossians_01.md",
+      "current_vocab": 4,
+      "source_vocab": 18,
+      "restored": 16,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/colossians/Colossians_02.md",
+      "source_path": "books/NT/colossians/Colossians_02.md",
+      "current_vocab": 4,
+      "source_vocab": 11,
+      "restored": 11,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/colossians/Colossians_03.md",
+      "source_path": "books/NT/colossians/Colossians_03.md",
+      "current_vocab": 4,
+      "source_vocab": 51,
+      "restored": 49,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/colossians/Colossians_04.md",
+      "source_path": "books/NT/colossians/Colossians_04.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/ephesians/Ephesians_01.md",
+      "source_path": "books/NT/ephesians/Ephesians_01.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/ephesians/Ephesians_02.md",
+      "source_path": "books/NT/ephesians/Ephesians_02.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/ephesians/Ephesians_03.md",
+      "source_path": "books/NT/ephesians/Ephesians_03.md",
+      "current_vocab": 4,
+      "source_vocab": 22,
+      "restored": 22,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/ephesians/Ephesians_04.md",
+      "source_path": "books/NT/ephesians/Ephesians_04.md",
+      "current_vocab": 4,
+      "source_vocab": 22,
+      "restored": 22,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/ephesians/Ephesians_05.md",
+      "source_path": "books/NT/ephesians/Ephesians_05.md",
+      "current_vocab": 4,
+      "source_vocab": 15,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/ephesians/Ephesians_06.md",
+      "source_path": "books/NT/ephesians/Ephesians_06.md",
+      "current_vocab": 4,
+      "source_vocab": 9,
+      "restored": 7,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/galatians/Galatians_01.md",
+      "source_path": "books/NT/galatians/Galatians_01.md",
+      "current_vocab": 4,
+      "source_vocab": 18,
+      "restored": 18,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/galatians/Galatians_02.md",
+      "source_path": "books/NT/galatians/Galatians_02.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/galatians/Galatians_03.md",
+      "source_path": "books/NT/galatians/Galatians_03.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/galatians/Galatians_04.md",
+      "source_path": "books/NT/galatians/Galatians_04.md",
+      "current_vocab": 4,
+      "source_vocab": 31,
+      "restored": 31,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/galatians/Galatians_05.md",
+      "source_path": "books/NT/galatians/Galatians_05.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 9,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/galatians/Galatians_06.md",
+      "source_path": "books/NT/galatians/Galatians_06.md",
+      "current_vocab": 4,
+      "source_vocab": 22,
+      "restored": 22,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_01.md",
+      "source_path": "books/NT/hebrews/Hebrews_01.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 26,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_02.md",
+      "source_path": "books/NT/hebrews/Hebrews_02.md",
+      "current_vocab": 4,
+      "source_vocab": 28,
+      "restored": 28,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_03.md",
+      "source_path": "books/NT/hebrews/Hebrews_03.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_04.md",
+      "source_path": "books/NT/hebrews/Hebrews_04.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 22,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_05.md",
+      "source_path": "books/NT/hebrews/Hebrews_05.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 26,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_06.md",
+      "source_path": "books/NT/hebrews/Hebrews_06.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 26,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_07.md",
+      "source_path": "books/NT/hebrews/Hebrews_07.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 26,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_08.md",
+      "source_path": "books/NT/hebrews/Hebrews_08.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_09.md",
+      "source_path": "books/NT/hebrews/Hebrews_09.md",
+      "current_vocab": 4,
+      "source_vocab": 30,
+      "restored": 30,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_10.md",
+      "source_path": "books/NT/hebrews/Hebrews_10.md",
+      "current_vocab": 5,
+      "source_vocab": 25,
+      "restored": 22,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_11.md",
+      "source_path": "books/NT/hebrews/Hebrews_11.md",
+      "current_vocab": 5,
+      "source_vocab": 9,
+      "restored": 8,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_12.md",
+      "source_path": "books/NT/hebrews/Hebrews_12.md",
+      "current_vocab": 4,
+      "source_vocab": 30,
+      "restored": 30,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/hebrews/Hebrews_13.md",
+      "source_path": "books/NT/hebrews/Hebrews_13.md",
+      "current_vocab": 4,
+      "source_vocab": 20,
+      "restored": 16,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/james/James_01.md",
+      "source_path": "books/NT/james/James_01.md",
+      "current_vocab": 4,
+      "source_vocab": 9,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/james/James_02.md",
+      "source_path": "books/NT/james/James_02.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/james/James_03.md",
+      "source_path": "books/NT/james/James_03.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/james/James_04.md",
+      "source_path": "books/NT/james/James_04.md",
+      "current_vocab": 4,
+      "source_vocab": 24,
+      "restored": 24,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/james/James_05.md",
+      "source_path": "books/NT/james/James_05.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 26,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_01.md",
+      "source_path": "books/NT/john/John_01.md",
+      "current_vocab": 5,
+      "source_vocab": 9,
+      "restored": 6,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_02.md",
+      "source_path": "books/NT/john/John_02.md",
+      "current_vocab": 4,
+      "source_vocab": 12,
+      "restored": 11,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_03.md",
+      "source_path": "books/NT/john/John_03.md",
+      "current_vocab": 5,
+      "source_vocab": 10,
+      "restored": 7,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_04.md",
+      "source_path": "books/NT/john/John_04.md",
+      "current_vocab": 5,
+      "source_vocab": 10,
+      "restored": 8,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_05.md",
+      "source_path": "books/NT/john/John_05.md",
+      "current_vocab": 5,
+      "source_vocab": 17,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_06.md",
+      "source_path": "books/NT/john/John_06.md",
+      "current_vocab": 6,
+      "source_vocab": 18,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_07.md",
+      "source_path": "books/NT/john/John_07.md",
+      "current_vocab": 5,
+      "source_vocab": 17,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_08.md",
+      "source_path": "books/NT/john/John_08.md",
+      "current_vocab": 5,
+      "source_vocab": 16,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_09.md",
+      "source_path": "books/NT/john/John_09.md",
+      "current_vocab": 5,
+      "source_vocab": 13,
+      "restored": 11,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_10.md",
+      "source_path": "books/NT/john/John_10.md",
+      "current_vocab": 5,
+      "source_vocab": 10,
+      "restored": 8,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_11.md",
+      "source_path": "books/NT/john/John_11.md",
+      "current_vocab": 5,
+      "source_vocab": 20,
+      "restored": 17,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_12.md",
+      "source_path": "books/NT/john/John_12.md",
+      "current_vocab": 5,
+      "source_vocab": 19,
+      "restored": 17,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_13.md",
+      "source_path": "books/NT/john/John_13.md",
+      "current_vocab": 5,
+      "source_vocab": 27,
+      "restored": 25,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_14.md",
+      "source_path": "books/NT/john/John_14.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 8,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_15.md",
+      "source_path": "books/NT/john/John_15.md",
+      "current_vocab": 4,
+      "source_vocab": 17,
+      "restored": 17,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_16.md",
+      "source_path": "books/NT/john/John_16.md",
+      "current_vocab": 4,
+      "source_vocab": 18,
+      "restored": 17,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_17.md",
+      "source_path": "books/NT/john/John_17.md",
+      "current_vocab": 4,
+      "source_vocab": 18,
+      "restored": 16,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_18.md",
+      "source_path": "books/NT/john/John_18.md",
+      "current_vocab": 5,
+      "source_vocab": 26,
+      "restored": 22,
+      "conflicts": 4,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_19.md",
+      "source_path": "books/NT/john/John_19.md",
+      "current_vocab": 5,
+      "source_vocab": 8,
+      "restored": 5,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_20.md",
+      "source_path": "books/NT/john/John_20.md",
+      "current_vocab": 4,
+      "source_vocab": 26,
+      "restored": 24,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/john/John_21.md",
+      "source_path": "books/NT/john/John_21.md",
+      "current_vocab": 4,
+      "source_vocab": 16,
+      "restored": 15,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/jude/Jude_01.md",
+      "source_path": "books/NT/jude/Jude_01.md",
+      "current_vocab": 4,
+      "source_vocab": 12,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_01.md",
+      "source_path": "books/NT/luke/Luke_01.md",
+      "current_vocab": 6,
+      "source_vocab": 23,
+      "restored": 18,
+      "conflicts": 5,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_02.md",
+      "source_path": "books/NT/luke/Luke_02.md",
+      "current_vocab": 5,
+      "source_vocab": 19,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_03.md",
+      "source_path": "books/NT/luke/Luke_03.md",
+      "current_vocab": 5,
+      "source_vocab": 27,
+      "restored": 23,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_04.md",
+      "source_path": "books/NT/luke/Luke_04.md",
+      "current_vocab": 5,
+      "source_vocab": 8,
+      "restored": 4,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_05.md",
+      "source_path": "books/NT/luke/Luke_05.md",
+      "current_vocab": 5,
+      "source_vocab": 35,
+      "restored": 32,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_06.md",
+      "source_path": "books/NT/luke/Luke_06.md",
+      "current_vocab": 5,
+      "source_vocab": 23,
+      "restored": 23,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_07.md",
+      "source_path": "books/NT/luke/Luke_07.md",
+      "current_vocab": 5,
+      "source_vocab": 20,
+      "restored": 16,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_08.md",
+      "source_path": "books/NT/luke/Luke_08.md",
+      "current_vocab": 5,
+      "source_vocab": 12,
+      "restored": 8,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_09.md",
+      "source_path": "books/NT/luke/Luke_09.md",
+      "current_vocab": 5,
+      "source_vocab": 16,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_10.md",
+      "source_path": "books/NT/luke/Luke_10.md",
+      "current_vocab": 5,
+      "source_vocab": 21,
+      "restored": 19,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_11.md",
+      "source_path": "books/NT/luke/Luke_11.md",
+      "current_vocab": 5,
+      "source_vocab": 19,
+      "restored": 18,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_12.md",
+      "source_path": "books/NT/luke/Luke_12.md",
+      "current_vocab": 5,
+      "source_vocab": 20,
+      "restored": 19,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_13.md",
+      "source_path": "books/NT/luke/Luke_13.md",
+      "current_vocab": 4,
+      "source_vocab": 19,
+      "restored": 18,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_14.md",
+      "source_path": "books/NT/luke/Luke_14.md",
+      "current_vocab": 4,
+      "source_vocab": 11,
+      "restored": 8,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_15.md",
+      "source_path": "books/NT/luke/Luke_15.md",
+      "current_vocab": 0,
+      "source_vocab": 10,
+      "restored": 5,
+      "conflicts": 0,
+      "skipped_text_changed": 5,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_16.md",
+      "source_path": "books/NT/luke/Luke_16.md",
+      "current_vocab": 4,
+      "source_vocab": 18,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_17.md",
+      "source_path": "books/NT/luke/Luke_17.md",
+      "current_vocab": 5,
+      "source_vocab": 21,
+      "restored": 21,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_18.md",
+      "source_path": "books/NT/luke/Luke_18.md",
+      "current_vocab": 5,
+      "source_vocab": 20,
+      "restored": 19,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_19.md",
+      "source_path": "books/NT/luke/Luke_19.md",
+      "current_vocab": 5,
+      "source_vocab": 14,
+      "restored": 13,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_20.md",
+      "source_path": "books/NT/luke/Luke_20.md",
+      "current_vocab": 5,
+      "source_vocab": 14,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_21.md",
+      "source_path": "books/NT/luke/Luke_21.md",
+      "current_vocab": 5,
+      "source_vocab": 18,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_22.md",
+      "source_path": "books/NT/luke/Luke_22.md",
+      "current_vocab": 6,
+      "source_vocab": 16,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_23.md",
+      "source_path": "books/NT/luke/Luke_23.md",
+      "current_vocab": 5,
+      "source_vocab": 18,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/luke/Luke_24.md",
+      "source_path": "books/NT/luke/Luke_24.md",
+      "current_vocab": 5,
+      "source_vocab": 19,
+      "restored": 15,
+      "conflicts": 4,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_01.md",
+      "source_path": "books/NT/mark/Mark_01.md",
+      "current_vocab": 5,
+      "source_vocab": 21,
+      "restored": 19,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_02.md",
+      "source_path": "books/NT/mark/Mark_02.md",
+      "current_vocab": 4,
+      "source_vocab": 4,
+      "restored": 1,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_03.md",
+      "source_path": "books/NT/mark/Mark_03.md",
+      "current_vocab": 4,
+      "source_vocab": 5,
+      "restored": 2,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_04.md",
+      "source_path": "books/NT/mark/Mark_04.md",
+      "current_vocab": 5,
+      "source_vocab": 20,
+      "restored": 20,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_05.md",
+      "source_path": "books/NT/mark/Mark_05.md",
+      "current_vocab": 5,
+      "source_vocab": 5,
+      "restored": 2,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_06.md",
+      "source_path": "books/NT/mark/Mark_06.md",
+      "current_vocab": 5,
+      "source_vocab": 37,
+      "restored": 33,
+      "conflicts": 3,
+      "skipped_text_changed": 1,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_07.md",
+      "source_path": "books/NT/mark/Mark_07.md",
+      "current_vocab": 4,
+      "source_vocab": 4,
+      "restored": 2,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_08.md",
+      "source_path": "books/NT/mark/Mark_08.md",
+      "current_vocab": 5,
+      "source_vocab": 5,
+      "restored": 1,
+      "conflicts": 4,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_09.md",
+      "source_path": "books/NT/mark/Mark_09.md",
+      "current_vocab": 5,
+      "source_vocab": 12,
+      "restored": 7,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_10.md",
+      "source_path": "books/NT/mark/Mark_10.md",
+      "current_vocab": 5,
+      "source_vocab": 14,
+      "restored": 11,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_11.md",
+      "source_path": "books/NT/mark/Mark_11.md",
+      "current_vocab": 4,
+      "source_vocab": 14,
+      "restored": 11,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_12.md",
+      "source_path": "books/NT/mark/Mark_12.md",
+      "current_vocab": 5,
+      "source_vocab": 17,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_13.md",
+      "source_path": "books/NT/mark/Mark_13.md",
+      "current_vocab": 5,
+      "source_vocab": 18,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_14.md",
+      "source_path": "books/NT/mark/Mark_14.md",
+      "current_vocab": 6,
+      "source_vocab": 20,
+      "restored": 18,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_15.md",
+      "source_path": "books/NT/mark/Mark_15.md",
+      "current_vocab": 5,
+      "source_vocab": 21,
+      "restored": 21,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/mark/Mark_16.md",
+      "source_path": "books/NT/mark/Mark_16.md",
+      "current_vocab": 4,
+      "source_vocab": 21,
+      "restored": 19,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_01.md",
+      "source_path": "books/NT/matthew/Matthew_01.md",
+      "current_vocab": 5,
+      "source_vocab": 0,
+      "restored": 0,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "SOURCE_HAS_NO_VOCABULARY"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_02.md",
+      "source_path": "books/NT/matthew/Matthew_02.md",
+      "current_vocab": 5,
+      "source_vocab": 0,
+      "restored": 0,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "SOURCE_HAS_NO_VOCABULARY"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_03.md",
+      "source_path": "books/NT/matthew/Matthew_03.md",
+      "current_vocab": 5,
+      "source_vocab": 0,
+      "restored": 0,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "SOURCE_HAS_NO_VOCABULARY"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_04.md",
+      "source_path": "books/NT/matthew/Matthew_04.md",
+      "current_vocab": 4,
+      "source_vocab": 17,
+      "restored": 14,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_05.md",
+      "source_path": "books/NT/matthew/Matthew_05.md",
+      "current_vocab": 5,
+      "source_vocab": 8,
+      "restored": 7,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_06.md",
+      "source_path": "books/NT/matthew/Matthew_06.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 8,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_07.md",
+      "source_path": "books/NT/matthew/Matthew_07.md",
+      "current_vocab": 4,
+      "source_vocab": 5,
+      "restored": 3,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_08.md",
+      "source_path": "books/NT/matthew/Matthew_08.md",
+      "current_vocab": 4,
+      "source_vocab": 12,
+      "restored": 9,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_09.md",
+      "source_path": "books/NT/matthew/Matthew_09.md",
+      "current_vocab": 5,
+      "source_vocab": 14,
+      "restored": 12,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_10.md",
+      "source_path": "books/NT/matthew/Matthew_10.md",
+      "current_vocab": 5,
+      "source_vocab": 16,
+      "restored": 13,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_11.md",
+      "source_path": "books/NT/matthew/Matthew_11.md",
+      "current_vocab": 4,
+      "source_vocab": 15,
+      "restored": 13,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_12.md",
+      "source_path": "books/NT/matthew/Matthew_12.md",
+      "current_vocab": 5,
+      "source_vocab": 15,
+      "restored": 12,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_13.md",
+      "source_path": "books/NT/matthew/Matthew_13.md",
+      "current_vocab": 5,
+      "source_vocab": 17,
+      "restored": 13,
+      "conflicts": 4,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_14.md",
+      "source_path": "books/NT/matthew/Matthew_14.md",
+      "current_vocab": 5,
+      "source_vocab": 13,
+      "restored": 11,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_15.md",
+      "source_path": "books/NT/matthew/Matthew_15.md",
+      "current_vocab": 5,
+      "source_vocab": 13,
+      "restored": 10,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_16.md",
+      "source_path": "books/NT/matthew/Matthew_16.md",
+      "current_vocab": 4,
+      "source_vocab": 15,
+      "restored": 14,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_17.md",
+      "source_path": "books/NT/matthew/Matthew_17.md",
+      "current_vocab": 4,
+      "source_vocab": 9,
+      "restored": 8,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_18.md",
+      "source_path": "books/NT/matthew/Matthew_18.md",
+      "current_vocab": 4,
+      "source_vocab": 16,
+      "restored": 15,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_19.md",
+      "source_path": "books/NT/matthew/Matthew_19.md",
+      "current_vocab": 4,
+      "source_vocab": 16,
+      "restored": 15,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_20.md",
+      "source_path": "books/NT/matthew/Matthew_20.md",
+      "current_vocab": 4,
+      "source_vocab": 12,
+      "restored": 10,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_21.md",
+      "source_path": "books/NT/matthew/Matthew_21.md",
+      "current_vocab": 5,
+      "source_vocab": 27,
+      "restored": 25,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_22.md",
+      "source_path": "books/NT/matthew/Matthew_22.md",
+      "current_vocab": 5,
+      "source_vocab": 14,
+      "restored": 11,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_23.md",
+      "source_path": "books/NT/matthew/Matthew_23.md",
+      "current_vocab": 5,
+      "source_vocab": 17,
+      "restored": 14,
+      "conflicts": 3,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_24.md",
+      "source_path": "books/NT/matthew/Matthew_24.md",
+      "current_vocab": 5,
+      "source_vocab": 17,
+      "restored": 15,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_25.md",
+      "source_path": "books/NT/matthew/Matthew_25.md",
+      "current_vocab": 5,
+      "source_vocab": 20,
+      "restored": 18,
+      "conflicts": 2,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_26.md",
+      "source_path": "books/NT/matthew/Matthew_26.md",
+      "current_vocab": 6,
+      "source_vocab": 47,
+      "restored": 43,
+      "conflicts": 4,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_27.md",
+      "source_path": "books/NT/matthew/Matthew_27.md",
+      "current_vocab": 5,
+      "source_vocab": 37,
+      "restored": 36,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/matthew/Matthew_28.md",
+      "source_path": "books/NT/matthew/Matthew_28.md",
+      "current_vocab": 4,
+      "source_vocab": 27,
+      "restored": 26,
+      "conflicts": 1,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/philemon/Philemon_01.md",
+      "source_path": "books/NT/philemon/Philemon_01.md",
+      "current_vocab": 4,
+      "source_vocab": 13,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/philippians/Philippians_01.md",
+      "source_path": "books/NT/philippians/Philippians_01.md",
+      "current_vocab": 4,
+      "source_vocab": 12,
+      "restored": 11,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/philippians/Philippians_02.md",
+      "source_path": "books/NT/philippians/Philippians_02.md",
+      "current_vocab": 0,
+      "source_vocab": 13,
+      "restored": 3,
+      "conflicts": 0,
+      "skipped_text_changed": 10,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/philippians/Philippians_03.md",
+      "source_path": "books/NT/philippians/Philippians_03.md",
+      "current_vocab": 4,
+      "source_vocab": 12,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/philippians/Philippians_04.md",
+      "source_path": "books/NT/philippians/Philippians_04.md",
+      "current_vocab": 4,
+      "source_vocab": 13,
+      "restored": 11,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_01.md",
+      "source_path": "books/NT/revelation/Revelation_01.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_02.md",
+      "source_path": "books/NT/revelation/Revelation_02.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_03.md",
+      "source_path": "books/NT/revelation/Revelation_03.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_04.md",
+      "source_path": "books/NT/revelation/Revelation_04.md",
+      "current_vocab": 4,
+      "source_vocab": 9,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_05.md",
+      "source_path": "books/NT/revelation/Revelation_05.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_06.md",
+      "source_path": "books/NT/revelation/Revelation_06.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_07.md",
+      "source_path": "books/NT/revelation/Revelation_07.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_08.md",
+      "source_path": "books/NT/revelation/Revelation_08.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_09.md",
+      "source_path": "books/NT/revelation/Revelation_09.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_10.md",
+      "source_path": "books/NT/revelation/Revelation_10.md",
+      "current_vocab": 4,
+      "source_vocab": 8,
+      "restored": 8,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_11.md",
+      "source_path": "books/NT/revelation/Revelation_11.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_12.md",
+      "source_path": "books/NT/revelation/Revelation_12.md",
+      "current_vocab": 4,
+      "source_vocab": 11,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_13.md",
+      "source_path": "books/NT/revelation/Revelation_13.md",
+      "current_vocab": 4,
+      "source_vocab": 12,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_14.md",
+      "source_path": "books/NT/revelation/Revelation_14.md",
+      "current_vocab": 4,
+      "source_vocab": 11,
+      "restored": 11,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_15.md",
+      "source_path": "books/NT/revelation/Revelation_15.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_16.md",
+      "source_path": "books/NT/revelation/Revelation_16.md",
+      "current_vocab": 4,
+      "source_vocab": 11,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_17.md",
+      "source_path": "books/NT/revelation/Revelation_17.md",
+      "current_vocab": 4,
+      "source_vocab": 12,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_18.md",
+      "source_path": "books/NT/revelation/Revelation_18.md",
+      "current_vocab": 4,
+      "source_vocab": 11,
+      "restored": 11,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_19.md",
+      "source_path": "books/NT/revelation/Revelation_19.md",
+      "current_vocab": 4,
+      "source_vocab": 11,
+      "restored": 7,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_20.md",
+      "source_path": "books/NT/revelation/Revelation_20.md",
+      "current_vocab": 4,
+      "source_vocab": 11,
+      "restored": 11,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_21.md",
+      "source_path": "books/NT/revelation/Revelation_21.md",
+      "current_vocab": 4,
+      "source_vocab": 11,
+      "restored": 11,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/revelation/Revelation_22.md",
+      "source_path": "books/NT/revelation/Revelation_22.md",
+      "current_vocab": 4,
+      "source_vocab": 13,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_01.md",
+      "source_path": "books/NT/romans/Romans_01.md",
+      "current_vocab": 4,
+      "source_vocab": 16,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_02.md",
+      "source_path": "books/NT/romans/Romans_02.md",
+      "current_vocab": 4,
+      "source_vocab": 16,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_03.md",
+      "source_path": "books/NT/romans/Romans_03.md",
+      "current_vocab": 4,
+      "source_vocab": 8,
+      "restored": 6,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_04.md",
+      "source_path": "books/NT/romans/Romans_04.md",
+      "current_vocab": 4,
+      "source_vocab": 6,
+      "restored": 4,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_05.md",
+      "source_path": "books/NT/romans/Romans_05.md",
+      "current_vocab": 4,
+      "source_vocab": 15,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_06.md",
+      "source_path": "books/NT/romans/Romans_06.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 9,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_07.md",
+      "source_path": "books/NT/romans/Romans_07.md",
+      "current_vocab": 4,
+      "source_vocab": 17,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_08.md",
+      "source_path": "books/NT/romans/Romans_08.md",
+      "current_vocab": 5,
+      "source_vocab": 12,
+      "restored": 10,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_09.md",
+      "source_path": "books/NT/romans/Romans_09.md",
+      "current_vocab": 4,
+      "source_vocab": 17,
+      "restored": 15,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_10.md",
+      "source_path": "books/NT/romans/Romans_10.md",
+      "current_vocab": 4,
+      "source_vocab": 15,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_11.md",
+      "source_path": "books/NT/romans/Romans_11.md",
+      "current_vocab": 5,
+      "source_vocab": 15,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_12.md",
+      "source_path": "books/NT/romans/Romans_12.md",
+      "current_vocab": 4,
+      "source_vocab": 19,
+      "restored": 17,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_13.md",
+      "source_path": "books/NT/romans/Romans_13.md",
+      "current_vocab": 4,
+      "source_vocab": 14,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_14.md",
+      "source_path": "books/NT/romans/Romans_14.md",
+      "current_vocab": 4,
+      "source_vocab": 16,
+      "restored": 14,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_15.md",
+      "source_path": "books/NT/romans/Romans_15.md",
+      "current_vocab": 4,
+      "source_vocab": 17,
+      "restored": 16,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/romans/Romans_16.md",
+      "source_path": "books/NT/romans/Romans_16.md",
+      "current_vocab": 4,
+      "source_vocab": 19,
+      "restored": 19,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/titus/Titus_01.md",
+      "source_path": "books/NT/titus/Titus_01.md",
+      "current_vocab": 4,
+      "source_vocab": 13,
+      "restored": 12,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/titus/Titus_02.md",
+      "source_path": "books/NT/titus/Titus_02.md",
+      "current_vocab": 4,
+      "source_vocab": 5,
+      "restored": 1,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    },
+    {
+      "path": "books/NT/titus/Titus_03.md",
+      "source_path": "books/NT/titus/Titus_03.md",
+      "current_vocab": 4,
+      "source_vocab": 10,
+      "restored": 8,
+      "conflicts": 0,
+      "skipped_text_changed": 0,
+      "status": "RESTORED"
+    }
+  ]
+}

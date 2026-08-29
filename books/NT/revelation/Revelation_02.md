@@ -100,6 +100,46 @@ v29: The refrain universalizes each message beyond its immediate audience.
 
 ##Vocabulary
 
+v1: ἄγγελος (angelos)
+
+“Messenger” or “angel.” May refer to a heavenly being or representative figure.
+
+v4: ἀφίημι (aphiēmi)
+
+“To leave” or “abandon.” Indicates relinquishing rather than sudden loss.
+
+v7: νικάω (nikaō)
+
+“To conquer.” Implies endurance and faithful persistence rather than domination.
+
+v9: θλῖψις (thlipsis)
+
+“Affliction.” Pressure or distress, often external and sustained.
+
+v11: δεύτερος θάνατος (deuteros thanatos)
+
+“Second death.” A phrase left undefined, carrying eschatological weight.
+
+v13: θρόνος (thronos)
+
+“Throne.” Symbol of authority or rule, here associated with opposition.
+
+v16: ῥομφαία (rhomphaia)
+
+“A large sword.” Represents decisive speech or judgment.
+
+v17: ψῆφος λευκή (psēphos leukē)
+
+“White stone.” Possibly a token of acquittal or acceptance, but not specified.
+
+v23: νεφροί (nephroi)
+
+“Kidneys,” often translated “mind” or “inner being,” seat of thought and will.
+
+v26: ἐξουσία (exousia)
+
+“Authority.” Delegated power grounded in prior grant.
+
 v01: ἄγγελος (angelos)
 “Messenger” or “angel.” May refer to a heavenly being or representative figure.
 

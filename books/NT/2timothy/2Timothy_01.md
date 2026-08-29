@@ -86,6 +86,46 @@ v16–18: Onesiphorus exemplifies loyalty and courage in contrast to others.
 
 ##Vocabulary
 
+v1: ἐπαγγελία (epangelia)  
+
+v1: “Promise.” Declared commitment.  
+
+v3: συνείδησις (syneidēsis)  
+
+v3: “Conscience.” Inner moral awareness.  
+
+v6: ἀναζωπυρέω (anazōpyreō)  
+
+v6: “To fan into flame.” Rekindle.  
+
+v7: δειλία (deilia)  
+
+v7: “Fear.” Timidity or cowardice.  
+
+v7: σωφρονισμός (sōphronismos)  
+
+v7: “Self-control.” Sound-mindedness.  
+
+v9: πρόθεσις (prothesis)  
+
+v9: “Purpose.” Intentional plan.  
+
+v10: καταργέω (katargeō)  
+
+v10: “To abolish.” Render powerless.  
+
+v12: παραθήκη (parathēkē)  
+
+v12: “Deposit.” Something entrusted.  
+
+v13: ὑποτύπωσις (hypotypōsis)  
+
+v13: “Pattern.” Model to follow.  
+
+v14: φυλάσσω (phylassō)  
+
+v14: “To guard.” To protect carefully.  
+
 v01: ἐπαγγελία (epangelia)
 “Promise.” Declared commitment.
 

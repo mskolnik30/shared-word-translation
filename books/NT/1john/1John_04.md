@@ -83,6 +83,54 @@ v03: The shorter reading reflected in the critical text is retained here.
 
 ##Vocabulary
 
+v1: δοκιμάζω (dokimazō)  
+“To test” or “to examine.” To discern the character or authenticity of something rather than simply accepting its claim.  
+
+v1: ψευδοπροφήτης (pseudoprophētēs)  
+“False prophet.” One who claims prophetic authority but does not speak from God.  
+
+v2: ὁμολογέω (homologeō)  
+“To confess” or “to acknowledge.” To speak openly in agreement with what is true.  
+
+v3: ἀντίχριστος (antichristos)  
+“Antichrist.” One characterized by opposition to Christ or by a claim that stands against Christ.  
+
+v6: πλάνη (planē)  
+“Error,” “deception,” or “wandering.” A departure from truth that can involve both being deceived and leading others astray.  
+
+v7: ἀγάπη (agapē)  
+“Love.” In this chapter love originates in God and is made known through God’s sending of the Son.  
+
+v9: μονογενής (monogenēs)  
+“Only” or “unique.” Describes the Son’s unique relationship to the Father.  
+
+v10: ἱλασμός (hilasmos)
+“Atoning sacrifice” or “means of atonement.” That which deals with sin and restores relationship with God.
+
+v12: τελειόω (teleioō)  
+“To perfect,” “complete,” or “bring to fulfillment.” God’s love reaches its intended fullness in the life of the community.  
+
+v13: μένω (menō)  
+“To remain,” “abide,” or “stay.” A central Johannine term describing continuing mutual relationship between God and those who belong to God.  
+
+v14: σωτήρ (sōtēr)  
+“Savior” or “deliverer.” One who brings rescue or salvation; here used of the Son in relation to the world.  
+
+v16: πιστεύω (pisteuō)  
+“To trust” or “believe.” Here the community trusts the love God has for them, joining knowledge with reliance.  
+
+v17: παρρησία (parrēsia)  
+“Confidence,” “boldness,” or “openness.” Freedom to stand openly without fear, here in relation to the day of judgment.  
+
+v18: φόβος (phobos)  
+“Fear.” In this context, fear associated specifically with punishment and judgment.  
+
+v18: κόλασις (kolasis)  
+“Punishment.” The consequence associated with the fear described in the verse.  
+
+v21: ἐντολή (entolē)  
+“Commandment.” An authoritative instruction; here the command to love God is inseparably joined to love for a brother or sister.  
+
 v01: ψευδοπροφήτης (pseudoprophētēs)
 “False prophet.” One who claims prophetic authority but does not speak from God.
 
@@ -91,6 +139,3 @@ v03: ἀντίχριστος (antichristos)
 
 v06: πλάνη (planē)
 “Error,” “deception,” or “wandering.” A departure from truth that can involve both being deceived and leading others astray.
-
-v10: ἱλασμός (hilasmos)
-“Atoning sacrifice” or “means of atonement.” That which deals with sin and restores relationship with God.

@@ -140,6 +140,62 @@ v45–46: “they knew… speaking about them… feared the crowds” — Recogn
 
 ##Vocabulary
 
+v1: Βηθφαγή (Bēthphagē) — Bethphage  
+
+v1: Ἐλαιῶν (Elaiōn) — olives (Mount of Olives)  
+
+v3: κύριος (kyrios) — Lord; master  
+
+v5: πραΰς (praÿs) — gentle; meek (strength under restraint)  
+
+v9: ὡσαννά (hōsanna) — “Hosanna!” (save, we pray)  
+
+v9: υἱὸς Δαυίδ (huios Dauid) — Son of David  
+
+v10: σείω (seiō) — to shake; to stir up; to agitate  
+
+v12: ἱερόν (hieron) — temple precincts  
+
+v13: οἶκος προσευχῆς (oikos proseuchēs) — house of prayer  
+
+v13: σπήλαιον λῃστῶν (spēlaion lēstōn) — den/cave of robbers  
+
+v14: θεραπεύω (therapeuō) — to heal  
+
+v19: συκῆ (sykē) — fig tree  
+
+v21: πίστις (pistis)
+“Trust; faithfulness (context determines nuance).”
+
+v23: ἐξουσία (exousia) — authority; rightful power  
+
+v25: βάπτισμα (baptisma) — baptism  
+
+v27: οἶδα (oida) — to know  
+
+v29: μεταμέλομαι (metamelomai) — to change one’s mind; to regret (turning after refusal)  
+
+v31: τελῶναι (telōnai) — tax collectors  
+
+v31: πόρναι (pornai) — prostitutes  
+
+v33: ἀμπελών (ampelōn) — vineyard  
+
+v33: γεωργοί (geōrgoi) — tenants; farmers; vine-growers  
+
+v37: υἱός (huios) — son  
+
+v42: λίθος (lithos) — stone  
+
+v42: κεφαλὴ γωνίας (kephalē gōnias) — cornerstone; head of the corner  
+
+v43: καρπός (karpos) — fruit; produce; outcome  
+
+v43: βασιλεία τοῦ θεοῦ (basileia tou theou)
+“Kingdom of God.”
+
+v46: κρατέω (krateō) — to seize; to arrest; to take hold of  
+
 v01: Βηθφαγή (Bēthphagē)
 “Bethphage.”
 
@@ -148,9 +204,3 @@ v01: Ἐλαιῶν (Elaiōn)
 
 v03: κύριος (kyrios)
 “Lord; master.”
-
-v21: πίστις (pistis)
-“Trust; faithfulness (context determines nuance).”
-
-v43: βασιλεία τοῦ θεοῦ (basileia tou theou)
-“Kingdom of God.”

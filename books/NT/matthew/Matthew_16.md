@@ -100,6 +100,37 @@ v28: Anticipatory fulfillment—kingdom manifestation begins before final consum
 
 ##Vocabulary
 
+v1: πειράζοντες (*peirazontes*) — “Testing.” Attempt to trap or discredit.  
+
+v3: καιροί (*kairoi*) — “Times.” Decisive or opportune moments.  
+
+v4: σημεῖον (*sēmeion*) — “Sign.” Indicator pointing beyond itself.  
+
+v6: ζύμη (*zymē*) — “Leaven.” Subtle, permeating influence.  
+
+v8: ὀλιγόπιστοι (*oligopistoi*) — “Of little faith.” Insufficient trust or perception.  
+
+v13: υἱὸς τοῦ ἀνθρώπου (*huios tou anthrōpou*) — “Son of Man.” Self-designation with eschatological weight.  
+
+v16: Χριστός (Christos)
+“Christ.” Anointed one; messianic title.
+
+v17: ἀπεκάλυψεν (*apekalypsen*) — “Revealed.” Uncovered by divine action.  
+
+v18: ἐκκλησία (*ekklēsia*) — “Assembly.” Gathered community.  
+
+v19: δήσῃς / λύσῃς (*dēsēs / lysēs*) — “Bind / loose.” Permit/forbid or establish/remove.  
+
+v21: δεῖ (*dei*) — “It is necessary.” Expression of divine necessity.  
+
+v23: σκάνδαλον (*skandalon*) — “Stumbling block.” Obstacle causing failure.  
+
+v24: ἀπαρνησάσθω (*aparnēsasthō*) — “Let him deny.” Renounce claim or priority.  
+
+v25: ψυχή (*psychē*) — “Life.” Self, life-force, identity.  
+
+v27: ἀποδώσει (*apodōsei*) — “Will repay.” Render according to action.  
+
 v01: πειράζοντες (peirazontes)
 “Testing.” Attempt to trap or discredit.
 
@@ -108,6 +139,3 @@ v03: καιροί (kairoi)
 
 v08: ὀλιγόπιστοι (oligopistoi)
 “Of little faith.” Insufficient trust or perception.
-
-v16: Χριστός (Christos)
-“Christ.” Anointed one; messianic title.

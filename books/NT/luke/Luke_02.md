@@ -150,17 +150,59 @@ v52: “stature” — The Greek ἡλικία (hēlikia) can refer to physical 
 
 ##Vocabulary
 
+v01: οἰκουμένη (oikoumenē)
+“The inhabited world.” Often used for the inhabited or ordered world and, in an imperial context, for the world under Roman rule.
+
+v05: ἐμνηστευμένη (emnēsteumenē)
+“Pledged” or “betrothed.” A legally binding relationship stronger than what is usually implied by modern engagement.
+
+v07: κατάλυμα (katalyma)
+“Guest room” or “lodging place.” A place for lodging, often a room within a household; not necessarily a commercial inn.
+
+v07: φάτνη (phatnē)
+“Feeding trough” or “manger.” A place from which animals feed.
+
 v10: εὐαγγελίζομαι (euangelizomai)
 “To announce good news.” The verb describes the proclamation of news of joy or deliverance.
+
+v11: σωτήρ (sōtēr)
+“Savior” or “deliverer.” One who rescues or brings deliverance.
 
 v11: χριστός (christos)
 “Messiah” or “anointed one.” The Greek equivalent of the Hebrew title for one who has been anointed.
 
+v11: κύριος (kyrios)
+“Lord.” A term ranging from respectful address to a title of authority and, in biblical usage, frequently associated with the divine name.
+
 v14: εἰρήνη (eirēnē)
 “Peace.” Peace, wholeness, or restored well-being.
+
+v19: συμβάλλω (symballō)
+“To ponder” or “to bring together.” The verb can describe comparing or bringing matters together in reflection.
+
+v25: παράκλησις (paraklēsis)
+“Consolation,” “comfort,” or “encouragement.” Here associated with Israel’s anticipated restoration.
 
 v30: σωτήριον (sōtērion)
 “Salvation” or “saving deliverance.” That which brings or embodies God’s deliverance.
 
+v32: ἀποκάλυψις (apokalypsis)
+“Revelation” or “unveiling.” The making visible of what had been hidden.
+
 v34: ἀνάστασις (anastasis)
 “Rising” or “resurrection.” Literally a rising up; the immediate expression contrasts it with falling.
+
+v38: λύτρωσις (lytrōsis)
+“Redemption” or “release.” Deliverance expressed through the language of liberation or ransom.
+
+v49: δεῖ (dei)
+“It is necessary” or “it must be.” Often expresses necessity arising from divine purpose rather than ordinary obligation.
+
+v51: ὑποτάσσω (hypotassō)
+“To be subject” or “to place under.” To take an ordered position under another.
+
+v52: ἡλικία (hēlikia)
+“Stature,” “age,” or “maturity.” The term can describe physical growth as well as development toward maturity.
+
+v52: χάρις (charis)
+“Favor” or “grace.” Favor freely given; here describing Jesus’ growth in favor with God and people.

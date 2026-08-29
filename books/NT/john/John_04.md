@@ -112,17 +112,33 @@ v50: trusted the word — Trust precedes verification; belief is grounded in hea
 
 ##Vocabulary
 
-v04: δεῖ (dei)
-“It is necessary; expresses divine necessity or purpose.”
+v4: pass through (δεῖ, dei): it is necessary; expresses divine necessity or purpose.  
 
 v10: ζῶν (zōn)
 “Living, active; used of flowing water and life itself.”
 
+v14: spring (πηγή, pēgē): source, fountain; origin rather than container.  
+
 v14: πηγή (pēgē)
 “Source, fountain; origin rather than container.”
+
+v21: hour (ὥρα, hōra): decisive moment; time of divine action.  
 
 v23: ἀλήθεια (alētheia)
 “Reality, faithfulness; what corresponds to God’s own being.”
 
+v26: I am (ἐγώ εἰμι, egō eimi): self-identification formula; echoes divine speech.  
+
+v34: will (θέλημα, thelēma): desire, intention; purposeful alignment.  
+
+v35: harvest (θερισμός, therismos): gathering brought to completion.  
+
+v39: testimony (μαρτυρία, martyria): witness given through speech and life.  
+
 v39: μαρτυρία (martyria)
 “Witness given through speech and life.”
+
+v50: trusted (πιστεύω, pisteuō): to entrust oneself; relational confidence rather than assent.  
+
+v04: δεῖ (dei)
+“It is necessary; expresses divine necessity or purpose.”

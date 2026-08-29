@@ -137,17 +137,39 @@ v46: Silence indicates argumentative closure, not agreement.
 
 ##Vocabulary
 
+v2: γάμος (*gamos*) — “Wedding feast.” Celebration marking covenant union.  
+
+v5: ἀμελήσαντες (*amelēsantes*) — “Paid no attention.” Neglected or disregarded.  
+
+v11: ἔνδυμα γάμου (endyma gamou)
+“Wedding garment.” Appropriate attire/response.
+
+v13: σκότος τὸ ἐξώτερον (*skotos to exōteron*) — “Outer darkness.” Image of exclusion.  
+
+v15: παγιδεύσωσιν (*pagideusōsin*) — “Entangle.” Trap in speech.  
+
+v19: δηνάριον (*dēnarion*) — “Denarius.” Roman coin.  
+
+v20: εἰκών (*eikōn*) — “Image.” Representation or likeness.  
+
+v23: ἀνάστασις (anastasis)
+“Resurrection.” Rising from the dead.
+
+v29: πλανᾶσθε (*planasthe*) — “You are mistaken.” Led astray in understanding.  
+
+v34: ἐφίμωσεν (*ephimōsen*) — “Silenced.” Rendered unable to respond.  
+
+v37: ἀγαπήσεις (*agapēseis*) — “You shall love.” Covenantal, committed love.  
+
+v40: κρέμανται (*kremantai*) — “Depend.” Hang upon; derive from.  
+
+v43: ἐν πνεύματι (en pneumati)
+“In the Spirit.” Inspired utterance.
+
+v46: τολμᾶν (*tolman*) — “Dare.” To risk speaking further.  
+
 v02: γάμος (gamos)
 “Wedding feast.” Celebration marking covenant union.
 
 v05: ἀμελήσαντες (amelēsantes)
 “Paid no attention.” Neglected or disregarded.
-
-v11: ἔνδυμα γάμου (endyma gamou)
-“Wedding garment.” Appropriate attire/response.
-
-v23: ἀνάστασις (anastasis)
-“Resurrection.” Rising from the dead.
-
-v43: ἐν πνεύματι (en pneumati)
-“In the Spirit.” Inspired utterance.

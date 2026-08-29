@@ -136,17 +136,29 @@ v05: The verb “overcome” (κατέλαβεν) is ambiguous in Greek; it can 
 
 ##Vocabulary
 
-v01: λόγος (logos)
-“Word, speech, reason.” Denotes both the spoken word and the underlying ordering principle of meaning.
+v1: λόγος (logos) — Word, speech, reason. Denotes both the spoken word and the underlying ordering principle of meaning.  
 
-v05: καταλαμβάνω (katalambanō)
-“To seize, to grasp, to overcome. The double sense is preserved deliberately.”
+v5: καταλαμβάνω (katalambanō) — To seize, to grasp, to overcome. The double sense is preserved deliberately.  
+
+v9: ἀληθινός (alēthinos) — True, genuine; what corresponds to its essential nature.  
+
+v14: σκηνόω (skēnoō) — To dwell as in a tent, to tabernacle. Evokes the wilderness presence of God.  
+
+v14: μονογενής (monogenēs) — Only, unique, one-of-a-kind. Names singularity rather than process of generation.  
 
 v14: χάρις (charis)
 “Grace, gift, favor. Names the giver’s posture, not only the recipient’s experience.”
+
+v32: μένω (menō) — To remain, to abide. A central Johannine verb for sustained presence.  
 
 v36: ἀμνός (amnos)
 “Lamb. The term used in Septuagint passages of sacrifice and the Suffering Servant.”
 
 v51: ἀμήν (amēn)
 “Truly, certainly. A solemn Hebrew word doubled in this Gospel as a teaching formula.”
+
+v01: λόγος (logos)
+“Word, speech, reason.” Denotes both the spoken word and the underlying ordering principle of meaning.
+
+v05: καταλαμβάνω (katalambanō)
+“To seize, to grasp, to overcome. The double sense is preserved deliberately.”

@@ -239,20 +239,76 @@ v70–71: Choice of the twelve includes internal betrayal.
 
 ##Vocabulary
 
+v2: σημεῖον (sēmeion)
+
+“Sign.”
+
+v6: πειράζω (peirazō)
+
+“To test.”
+
+v11: εὐχαριστέω (eucharisteō)
+
+“To give thanks.”
+
+v14: προφήτης (prophētēs)
+“Prophet.”
+
+v20: ἐγώ εἰμι (egō eimi)
+
+“I am.”
+
+v27: σφραγίζω (sphragizō)
+
+“To seal.”
+
+v29: πιστεύω (pisteuō)
+
+“To believe.”
+
+v33: καταβαίνω (katabainō)
+
+“To come down.”
+
+v35: ζωή (zōē)
+
+“Life.”
+
+v44: ἑλκύω (helkyō)
+
+“To draw.”
+
+v51: σάρξ (sarx)
+“Flesh.”
+
+v53: πίνω (pinō)
+
+“To drink.”
+
+v56: μένω (menō)
+
+“To remain.”
+
+v63: πνεῦμα (pneuma)
+“Spirit.”
+
+v66: ἀπέρχομαι (aperchomai)
+
+“To go away.”
+
+v68: ῥῆμα (rhēma)
+
+“Word.”
+
+v69: ἅγιος (hagios)
+“Holy.”
+
+v70: διάβολος (diabolos)
+
+“Devil.”
+
 v02: σημεῖον (sēmeion)
 “Sign.”
 
 v06: πειράζω (peirazō)
 “To test.”
-
-v14: προφήτης (prophētēs)
-“Prophet.”
-
-v51: σάρξ (sarx)
-“Flesh.”
-
-v63: πνεῦμα (pneuma)
-“Spirit.”
-
-v69: ἅγιος (hagios)
-“Holy.”

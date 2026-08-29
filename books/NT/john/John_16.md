@@ -136,6 +136,77 @@ v33: Peace is located in Jesus despite ongoing tribulation.
 
 ##Vocabulary
 
+v1: σκανδαλίζω (skandalizō)
+
+“To cause to stumble.”
+
+v2: ἀποσυνάγωγος (aposynagōgos)
+
+“Put out of the synagogue.”
+
+v7: παράκλητος (paraklētos)
+
+“Helper.”
+
+v8: ἐλέγχω (elenchō)
+
+“To convict.”
+
+v10: δικαιοσύνη (dikaiosynē)
+“Righteousness.”
+
+v11: κρίσις (krisis)
+
+“Judgment.”
+
+v13: ὁδηγέω (hodēgeō)
+
+“To guide.”
+
+v14: δοξάζω (doxazō)
+
+“To glorify.”
+
+v16: μικρόν (mikron)
+
+“A little while.”
+
+v20: θρηνέω (thrēneō)
+
+“To lament.”
+
+v21: λύπη (lypē)
+
+“Sorrow.”
+
+v22: χαρά (chara)
+
+“Joy.”
+
+v23: αἰτέω (aiteō)
+
+“To ask.”
+
+v25: παροιμία (paroimia)
+
+“Figure of speech.”
+
+v28: ἐξέρχομαι (exerchomai)
+
+“To come out.”
+
+v32: σκορπίζω (skorpizō)
+
+“To scatter.”
+
+v33: θλῖψις (thlipsis)
+
+“Tribulation.”
+
+v33: νικάω (nikaō)
+
+“To overcome.”
+
 v01: σκανδαλίζω (skandalizō)
 “To cause to stumble.”
 
@@ -144,6 +215,3 @@ v02: ἀποσυνάγωγος (aposynagōgos)
 
 v07: παράκλητος (paraklētos)
 “Helper.”
-
-v10: δικαιοσύνη (dikaiosynē)
-“Righteousness.”

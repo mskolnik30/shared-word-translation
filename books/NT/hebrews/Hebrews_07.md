@@ -100,6 +100,58 @@ v28: Appointment is contrasted between law and oath.
 
 ##Vocabulary
 
+v1: ἱερεύς (hiereus)  
+
+v1: “Priest.” One who mediates.  
+
+v2: δικαιοσύνη (dikaiosynē)  
+
+v2: “Righteousness.” Right standing.  
+
+v3: ἀγενεαλόγητος (agenealogētos)  
+
+v3: “Without genealogy.” Lacking recorded descent.  
+
+v4: δεκάτη (dekatē)  
+
+v4: “Tithe.” Tenth portion.  
+
+v7: κρείσσων (kreissōn)  
+
+v7: “Superior.” Greater in rank.  
+
+v11: τελείωσις (teleiōsis)  
+
+v11: “Perfection.” Completion.  
+
+v16: ἀκατάλυτος (akatalytos)  
+
+v16: “Indestructible.” Not subject to dissolution.  
+
+v18: ἀθέτησις (athetēsis)  
+
+v18: “Setting aside.” Removal.  
+
+v21: ὅρκος (horkos)  
+
+v21: “Oath.” Binding declaration.  
+
+v22: ἔγγυος (engyos)  
+
+v22: “Guarantor.” One who secures.  
+
+v25: ἐντυγχάνω (entynchānō)  
+
+v25: “To intercede.” To act on behalf.  
+
+v27: θυσία (thysia)  
+
+v27: “Sacrifice.” Offering.  
+
+v28: ἀσθένεια (astheneia)  
+
+v28: “Weakness.” Lack of strength.  
+
 v01: ἱερεύς (hiereus)
 “Priest.” One who mediates.
 

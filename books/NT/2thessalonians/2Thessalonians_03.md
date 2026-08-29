@@ -83,6 +83,46 @@ v17: The handwritten closing authenticates the letter.
 
 ##Vocabulary
 
+v1: τρέχω (trechō)  
+
+v1: “To run.” To move swiftly or spread.  
+
+v3: πιστός (pistos)  
+
+v3: “Faithful.” Reliable and trustworthy.  
+
+v5: κατευθύνω (kateuthynō)  
+
+v5: “To direct.” To guide toward a goal.  
+
+v6: ἀτάκτως (ataktōs)  
+
+v6: “Disorderly.” Out of proper order.  
+
+v7: μιμέομαι (mimeomai)  
+
+v7: “To imitate.” To follow a pattern.  
+
+v8: κόπος (kopos)  
+
+v8: “Labor.” Hard work involving effort.  
+
+v10: θέλω (thelō)  
+
+v10: “To will.” To desire or choose.  
+
+v11: περιεργάζομαι (periergazomai)  
+
+v11: “To be a busybody.” To meddle in others’ affairs.  
+
+v14: σημειόω (sēmeioō)  
+
+v14: “To take note.” To mark or identify.  
+
+v16: εἰρήνη (eirēnē)  
+
+v16: “Peace.” Wholeness or well-being.  
+
 v01: τρέχω (trechō)
 “To run.” To move swiftly or spread.
 

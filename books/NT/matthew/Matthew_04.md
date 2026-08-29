@@ -115,8 +115,29 @@ v25: Crowds gather from diverse regions. The ministry draws beyond expected boun
 
 ##Vocabulary
 
-v08: δόξα (doxa)
-“Glory; splendor.”
+v1: πειράζω (peirazō) — test; try; put to the proof
+
+v1: ἔρημος (erēmos) — wilderness; deserted place
+
+v2: πεινάω (peinaō) — be hungry
+
+v3: υἱὸς τοῦ θεοῦ (huios tou theou) — Son of God
+
+v4: ῥῆμα (rhēma) — word; spoken word
+
+v5: πτερύγιον (pterygion) — pinnacle; highest point
+
+v5: ἱερόν (hieron) — temple precinct
+
+v7: ἐκπειράζω (ekpeirazō) — put to the test; test thoroughly
+
+v8: βασιλεῖαι (basileiai) — kingdoms; realms of rule
+
+v8: δόξα (doxa) — glory; splendor
+
+v10: προσκυνέω (proskyneō) — worship; bow down
+
+v10: λατρεύω (latreuō) — serve; give devoted service
 
 v17: μετανοέω (metanoeō)
 “Repent; turn; change one’s mind and direction.”
@@ -124,5 +145,12 @@ v17: μετανοέω (metanoeō)
 v17: βασιλεία τῶν οὐρανῶν (basileia tōn ouranōn)
 “Kingdom of heaven.”
 
+v19: ἀκολουθέω (akoloutheō) — follow; go after
+
+v19: ἁλιεῖς ἀνθρώπων (halieis anthrōpōn) — fishers of people
+
 v23: εὐαγγέλιον (euangelion)
 “Good news; glad tidings.”
+
+v08: δόξα (doxa)
+“Glory; splendor.”

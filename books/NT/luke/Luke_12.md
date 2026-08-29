@@ -220,6 +220,85 @@ v57–59: Urgency in reconciliation reflects impending judgment.
 
 ##Vocabulary
 
+v1: ζύμη (zymē)
+
+“Leaven.”
+
+v1: ὑπόκρισις (hypokrisis)
+
+“Hypocrisy.”
+
+v5: γέεννα (Gehenna)
+
+“Gehenna.”
+
+v8: ὁμολογέω (homologeō)
+
+“To confess, acknowledge.”
+
+v10: βλασφημέω (blasphēmeō)
+
+“To blaspheme.”
+
+v15: πλεονεξία (pleonexia)
+
+“Covetousness.”
+
+v16: εὐφορέω (euphoreō)
+
+“To produce abundantly.”
+
+v20: ἀπαιτέω (apaiteō)
+
+“To demand back.”
+
+v22: μεριμνάω (merimnaō)
+
+“To be anxious.”
+
+v31: βασιλεία (basileia)
+“Kingdom.”
+
+v33: ἐλεημοσύνη (eleēmosynē)
+
+“Almsgiving.”
+
+v35: περιζώννυμι (perizōnnymai)
+
+“To gird.”
+
+v42: οἰκονόμος (oikonomos)
+
+“Steward.”
+
+v46: διχοτομέω (dichotomeō)
+
+“To cut in two.”
+
+v48: αἰτέω / ἀπαιτέω distinction
+
+“To ask / to demand.”
+
+v49: πῦρ (pyr)
+
+“Fire.”
+
+v50: βάπτισμα (baptisma)
+
+“Baptism.”
+
+v56: δοκιμάζω (dokimazō)
+
+“To discern, test.”
+
+v58: ἀντίδικος (antidikos)
+
+“Accuser.”
+
+v59: λεπτόν (lepton)
+
+“Small coin.”
+
 v01: ζύμη (zymē)
 “Leaven.”
 
@@ -231,6 +310,3 @@ v05: γέεννα (Gehenna)
 
 v08: ὁμολογέω (homologeō)
 “To confess, acknowledge.”
-
-v31: βασιλεία (basileia)
-“Kingdom.”

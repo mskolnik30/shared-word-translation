@@ -118,6 +118,46 @@ v32–34: Responses vary—mockery, delay, belief. The text does not resolve the
 
 ##Vocabulary
 
+v2: διαλέγομαι (dialegomai)  
+“To reason” or “to discuss.” The term implies exchange and argument rather than monologue.  
+
+v3: δεῖ (dei)  
+
+v3: “It is necessary.” Often signals divine or scriptural necessity within Luke-Acts.  
+
+v5: ζηλόω (zēloō)  
+“To be jealous” or “to be zealous.” The term can carry both envy and fervor, depending on context.  
+
+v6: ἀναστατόω (anastatoō)  
+“To unsettle” or “to disturb.” Literally suggests upheaval or disorder.  
+
+v11: ἀνακρίνω (anakrinō)  
+“To examine” or “to investigate.” Used in legal and evaluative contexts.  
+
+v16: παροξύνομαι (paroxynomai)  
+“To be provoked” or “to be stirred sharply.” The term conveys deep internal agitation.  
+
+v18: σπερμολόγος (spermologos)  
+“Babbler.” Originally one who picks up seeds; metaphorically, one who gathers fragments of ideas without coherence.  
+
+v23: ἄγνωστος (agnōstos)  
+“Unknown.” Indicates lack of recognition or knowledge rather than absence of existence.  
+
+v25: θεραπεύω (therapeuō)  
+“To serve” or “to attend.” Here used in the sense of ritual service rather than healing.  
+
+v27: ψηλαφάω (psēlaphaō)  
+“To feel after” or “to grope.” Suggests searching without full clarity.  
+
+v30: ὑπεροράω (hyperoraō)  
+“To overlook.” Can imply passing over without immediate action.  
+
+v31: πίστις (pistis)
+“Assurance” or “proof.” Here functions as a guarantee grounded in the resurrection.
+
+v34: κολλάομαι (kollaomai)  
+“To join” or “to attach.” Indicates relational and communal alignment, not merely intellectual agreement.  
+
 v02: διαλέγομαι (dialegomai)
 “To reason” or “to discuss.” The term implies exchange and argument rather than monologue.
 
@@ -126,6 +166,3 @@ v03: δεῖ (dei)
 
 v06: ἀναστατόω (anastatoō)
 “To unsettle” or “to disturb.” Literally suggests upheaval or disorder.
-
-v31: πίστις (pistis)
-“Assurance” or “proof.” Here functions as a guarantee grounded in the resurrection.

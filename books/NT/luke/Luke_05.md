@@ -140,17 +140,145 @@ v39: The final saying preserves resistance to the new; preference for the old is
 
 ##Vocabulary
 
+v1: λόγος τοῦ θεοῦ (logos tou theou)
+
+“Word of God.” Divine message or authoritative proclamation.
+
+v4: βάθος (bathos)
+
+“Deep.” Literally deep water; symbolically, a place beyond ordinary control.
+
+v5: ἐπιστάτης (epistatēs)
+
+“Master.” Luke’s term of address for Jesus, emphasizing authority.
+
+v5: ῥῆμα (rhēma)
+
+“Word, spoken command.” Simon acts on Jesus’ spoken word.
+
+v6: πλῆθος (plēthos)
+
+“Multitude.” A large number, here emphasizing abundance.
+
+v8: ἁμαρτωλός (hamartōlos)
+
+“Sinner.” One marked by sinfulness or unworthiness before God.
+
+v10: ζωγρέω (zōgreō)
+
+“To catch alive.” Unlike fishing for death, this verb can imply taking alive for life.
+
+v11: ἀφίημι (aphiēmi)
+
+“To leave, release.” Used here of leaving possessions and livelihood.
+
+v12: λέπρα (lepra)
+
+“Leprosy.” A skin disease category associated with ritual impurity.
+
+v13: καθαρίζω (katharizō)
+
+“To cleanse.” Healing language with purity implications.
+
+v14: μαρτύριον (martyrion)
+“Testimony, witness.” Evidence or witness before others.
+
+v16: ὑποχωρέω (hypochōreō)
+
+“To withdraw.” To move away, here for prayerful solitude.
+
+v17: νομοδιδάσκαλος (nomodidaskalos)
+“Teacher of the law.” An interpreter and instructor of Torah.
+
+v17: δύναμις κυρίου (dynamis kyriou)
+
+“Power of the Lord.” Divine power active in healing.
+
+v18: παραλελυμένος (paralelymenos)
+
+“Paralyzed.” One whose bodily capacity has been loosened or disabled.
+
+v20: πίστις (pistis)
+“Faith.” Trust made visible in action.
+
+v20: ἀφίημι (aphiēmi)
+
+“To forgive.” To release sins or debts.
+
+v21: βλασφημία (blasphēmia)
+
+“Blasphemy.” Speech judged to dishonor God.
+
+v22: διαλογισμός (dialogismos)
+
+“Reasoning, inward debate.” Interior deliberation, often resistant.
+
+v24: ἐξουσία (exousia)
+
+“Authority.” Rightful power to act.
+
+v24: υἱὸς τοῦ ἀνθρώπου (huios tou anthrōpou)
+
+“Son of Man.” A self-designation of Jesus carrying both human and authoritative resonance.
+
+v26: ἔκστασις (ekstasis)
+
+“Amazement, astonishment.” Overwhelming wonder that displaces ordinary perception.
+
+v27: τελώνης (telōnēs)
+
+“Tax collector.” A socially suspect figure associated with revenue collection.
+
+v27: τελώνιον (telōnion)
+
+“Tax booth.” Place of collection and public association with Rome or local authority.
+
+v28: ἀκολουθέω (akoloutheō)
+
+“To follow.” Discipleship as movement after Jesus.
+
+v29: δοχή (dochē)
+
+“Banquet, reception.” A formal meal of welcome.
+
+v30: γογγύζω (gongyzō)
+
+“To grumble.” Low, discontented complaint.
+
+v31: ἰατρός (iatros)
+
+“Physician.” Healer; Jesus uses the image to define his mission.
+
+v32: μετάνοια (metanoia)
+
+“Repentance.” Reorientation of life in response to divine call.
+
+v34: νυμφών (nymphōn)
+
+“Wedding chamber.” Festive setting associated with the bridegroom.
+
+v35: νηστεύω (nēsteuō)
+
+“To fast.” To abstain from food for religious purpose.
+
+v36: παραβολή (parabolē)
+
+“Parable.” A comparison or image requiring discernment.
+
+v37: ἀσκός (askos)
+
+“Wineskin.” Leather container for wine.
+
+v38: νέος (neos)
+
+“New.” Recent, fresh, not yet aged or settled.
+
+v39: χρηστός (chrēstos)
+
+“Good, useful, pleasing.” Here used of preference for old wine.
+
 v01: λόγος τοῦ θεοῦ (logos tou theou)
 “Word of God.” Divine message or authoritative proclamation.
 
 v04: βάθος (bathos)
 “Deep.” Literally deep water; symbolically, a place beyond ordinary control.
-
-v14: μαρτύριον (martyrion)
-“Testimony, witness.” Evidence or witness before others.
-
-v17: νομοδιδάσκαλος (nomodidaskalos)
-“Teacher of the law.” An interpreter and instructor of Torah.
-
-v20: πίστις (pistis)
-“Faith.” Trust made visible in action.

@@ -62,6 +62,62 @@ v12–13: Judgment responsibility is limited to the community.
 
 ##Vocabulary
 
+v1: πορνεία (porneia)  
+
+v1: “Sexual immorality.”  
+
+v2: πενθέω (pentheō)  
+
+v2: “To mourn.”  
+
+v3: παρών (parōn)  
+
+v3: “Present.”  
+
+v5: ὄλεθρος (olethros)  
+
+v5: “Destruction.”  
+
+v6: ζύμη (zymē)  
+
+v6: “Leaven.”  
+
+v7: καθαίρω (kathairō)  
+
+v7: “To cleanse.”  
+
+v7: πάσχα (pascha)  
+
+v7: “Passover.”  
+
+v8: εἰλικρίνεια (eilikrineia)  
+
+v8: “Sincerity.”  
+
+v9: συναναμίγνυμι (synanamignymi)  
+
+v9: “To associate with.”  
+
+v10: πλεονέκτης (pleonektēs)  
+
+v10: “Greedy.”  
+
+v11: λοίδορος (loidoros)  
+
+v11: “Reviler.”  
+
+v11: μέθυσος (methysos)  
+
+v11: “Drunkard.”  
+
+v11: ἅρπαξ (harpax)  
+
+v11: “Swindler.”  
+
+v13: ἐξαίρω (exairō)  
+
+v13: “To remove.”  
+
 v01: πορνεία (porneia)
 “Sexual immorality.”
 

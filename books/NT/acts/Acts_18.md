@@ -117,6 +117,74 @@ v27–28: Scripture-based argumentation confirms identity of Jesus.
 
 ##Vocabulary
 
+v3: σκηνοποιός (skēnopoios)  
+
+v3: “Tentmaker.”  
+
+v4: διαλέγομαι (dialegomai)  
+
+v4: “To reason.”  
+
+v5: συνέχω (synechō)  
+
+v5: “To be occupied.”  
+
+v6: βλασφημέω (blasphēmeō)  
+
+v6: “To revile.”  
+
+v8: πιστεύω (pisteuō)  
+
+v8: “To believe.”  
+
+v9: ὅραμα (horama)  
+
+v9: “Vision.”  
+
+v10: κακόω (kakoō)  
+
+v10: “To harm.”  
+
+v11: διδάσκω (didaskō)  
+
+v11: “To teach.”  
+
+v12: βῆμα (bēma)  
+
+v12: “Tribunal.”  
+
+v14: ἀδίκημα (adikēma)  
+
+v14: “Wrongdoing.”  
+
+v16: ἀπελαύνω (apelaunō)  
+
+v16: “To drive away.”  
+
+v18: κείρω (keirō)  
+
+v18: “To cut hair.”  
+
+v23: ἐπιστηρίζω (epistērizō)  
+
+v23: “To strengthen.”  
+
+v24: λόγιος (logios)  
+
+v24: “Eloquent.”  
+
+v25: ζέω (zeō)  
+
+v25: “To be fervent.”  
+
+v25: ἀκριβῶς (akribōs)  
+
+v25: “Accurately.”  
+
+v28: διακατελέγχομαι (diakatelegchomai)  
+
+v28: “To refute thoroughly.”  
+
 v03: σκηνοποιός (skēnopoios)
 “Tentmaker.”
 

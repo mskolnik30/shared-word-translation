@@ -76,14 +76,72 @@ v19: “entrust… faithful Creator… while doing good” — The final posture
 
 ##Vocabulary
 
+v1: πάσχω (paschō) — to suffer  
+
+v1: ὁπλίζω (hoplizō) — to arm; to equip  
+
+v1: ἔννοια (ennoia) — purpose; intention; mindset  
+
+v2: ἐπιθυμία (epithymia) — desire; passion; craving  
+
+v2: θέλημα (thelēma) — will; purpose  
+
+v3: ἀσέλγεια (aselgeia) — sensuality; debauchery  
+
+v3: κῶμος (kōmos) — wild party; revelry  
+
+v3: πότος (potos) — drinking bout; carousing  
+
+v4: ἀνάχυσις (anachysis) — overflow; flood (of excess)  
+
+v4: ἀσωτία (asōtia) — reckless living; dissipation  
+
+v5: ἀποδίδωμι λόγον (apodidōmi logon) — to give account  
+
+v6: εὐαγγελίζω (euangelizō) — to proclaim good news  
+
+v7: σωφρονέω (sōphroneō) — to be clear-minded; to be sensible  
+
+v7: νήφω (nēphō) — to be self-controlled; sober; watchful  
+
+v8: ἐκτενής (ektenēs) — earnest; stretched-out (persistent)  
+
+v8: ἀγάπη (agapē) — love (self-giving love)  
+
+v9: φιλοξενία (philoxenia) — hospitality; love of strangers  
+
+v9: γογγυσμός (gongysmos) — grumbling; murmuring  
+
+v10: οἰκονόμος (oikonomos) — steward; household manager  
+
+v10: ποικίλος (poikilos) — varied; manifold; diverse  
+
+v10: χάρισμα (charisma)
+“Gift of grace; giftedness.”
+
+v11: λογία (logia) — oracles; words (of God)  
+
+v12: πύρωσις (pyrōsis) — burning; fiery ordeal  
+
+v12: πειρασμός (peirasmos) — test; trial  
+
+v13: κοινωνέω (koinōneō) — to share; to participate  
+
+v14: ὀνειδίζω (oneidizō) — to insult; to revile  
+
+v14: πνεῦμα δόξης (pneuma doxēs)
+“Spirit of glory.”
+
+v16: Χριστιανός (christianos) — Christian  
+
+v17: κρίμα (krima) — judgment; verdict  
+
+v19: παρατίθημι (paratithēmi) — to entrust; to commit for safekeeping  
+
+v19: κτίστης (ktistēs) — Creator  
+
 v01: πάσχω (paschō)
 “To suffer.”
 
 v06: εὐαγγελίζω (euangelizō)
 “To proclaim good news.”
-
-v10: χάρισμα (charisma)
-“Gift of grace; giftedness.”
-
-v14: πνεῦμα δόξης (pneuma doxēs)
-“Spirit of glory.”

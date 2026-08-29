@@ -89,6 +89,50 @@ v27: Entry is restricted by identity, not access alone.
 
 ##Vocabulary
 
+v1: καινός (kainos)
+
+“New.” New in kind, not merely in time.
+
+v2: πόλις (polis)
+
+“City.” Organized dwelling and center of life.
+
+v3: σκηνή (skēnē)
+
+“Dwelling.” Place of presence.
+
+v4: δάκρυον (dakryon)
+
+“Tear.” Expression of suffering, removed here.
+
+v6: πηγή (pēgē)
+
+“Spring.” Source of water.
+
+v7: κληρονομέω (klēronomeō)
+
+“To inherit.” To receive as possession.
+
+v8: λίμνη τοῦ πυρός (limnē tou pyros)
+
+“Lake of fire.” Final place of judgment.
+
+v16: στάδιον (stadion)
+
+“Measure of distance.” Used to express scale.
+
+v18: ὑάλος (hyalos)
+
+“Glass.” Transparent material.
+
+v22: ναός (naos)
+
+“Temple.” Central place of worship.
+
+v27: βιβλίον τῆς ζωῆς (biblion tēs zōēs)
+
+“Book of life.” Record of belonging.
+
 v01: καινός (kainos)
 “New.” New in kind, not merely in time.
 

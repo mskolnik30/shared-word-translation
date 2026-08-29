@@ -103,14 +103,34 @@ v34: Compassion leads to touch; healing results in following.
 
 ##Vocabulary
 
+v2: δηνάριον (*dēnarion*) — “Denarius.” Standard daily wage.  
+
+v6: ἀργοί (*argoi*) — “Idle.” Unemployed, not necessarily unwilling.  
+
+v11: ἐγόγγυζον (egongyzon)
+“They grumbled.” Murmured in dissatisfaction.
+
+v15: ὀφθαλμός πονηρός (*ophthalmos ponēros*) — “Evil eye.” Envious or resentful outlook.  
+
+v18: παραδοθήσεται (*paradothēsetai*) — “Will be delivered over.” Handed into authority.  
+
+v19: σταυρώσουσιν (*staurōsousin*) — “They will crucify.” Execution by Roman method.  
+
+v22: ποτήριον (*potērion*) — “Cup.” Symbol of suffering or destiny.  
+
+v26: διάκονος (*diakonos*) — “Servant.” One who serves others.  
+
+v27: δοῦλος (*doulos*) — “Slave.” One fully subject to another.  
+
+v28: λύτρον (*lytron*) — “Ransom.” Price paid for release.  
+
+v30: ἐλέησον (eleēson)
+“Have mercy.” Plea for compassionate action.
+
+v34: σπλαγχνισθείς (*splanchnistheis*) — “Moved with compassion.” Deep emotional response.  
+
 v02: δηνάριον (dēnarion)
 “Denarius.” Standard daily wage.
 
 v06: ἀργοί (argoi)
 “Idle.” Unemployed, not necessarily unwilling.
-
-v11: ἐγόγγυζον (egongyzon)
-“They grumbled.” Murmured in dissatisfaction.
-
-v30: ἐλέησον (eleēson)
-“Have mercy.” Plea for compassionate action.

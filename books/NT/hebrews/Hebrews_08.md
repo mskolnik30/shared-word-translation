@@ -87,6 +87,54 @@ v13: Obsolescence is gradual, not instantaneous.
 
 ##Vocabulary
 
+v1: θρόνος (thronos)  
+
+v1: “Throne.” Seat of authority.  
+
+v2: σκηνή (skēnē)  
+
+v2: “Tent.” Tabernacle.  
+
+v3: προσφέρω (prospherō)  
+
+v3: “To offer.” To present.  
+
+v5: ὑπόδειγμα (hypodeigma)  
+
+v5: “Copy.” Representation.  
+
+v5: σκιά (skia)  
+
+v5: “Shadow.” Incomplete form.  
+
+v6: διαθήκη (diathēkē)  
+
+v6: “Covenant.” Binding arrangement.  
+
+v7: ἄμεμπτος (amemptos)  
+
+v7: “Faultless.” Without defect.  
+
+v10: νόμος (nomos)  
+
+v10: “Law.” Instruction or rule.  
+
+v10: καρδία (kardia)  
+
+v10: “Heart.” Inner self.  
+
+v11: γινώσκω (ginōskō)  
+
+v11: “To know.” Relational knowledge.  
+
+v12: ἵλεως (hileōs)  
+
+v12: “Merciful.” Inclined to forgive.  
+
+v13: παλαιόω (palaioō)  
+
+v13: “To make old.” To render obsolete.  
+
 v01: θρόνος (thronos)
 “Throne.” Seat of authority.
 

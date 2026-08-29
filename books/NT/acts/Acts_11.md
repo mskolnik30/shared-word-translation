@@ -114,6 +114,70 @@ v29–30: Material support expresses unity across regions.
 
 ##Vocabulary
 
+v2: περιτομή (peritomē)  
+
+v2: “Circumcision.”  
+
+v5: ἔκστασις (ekstasis)  
+
+v5: “Trance.”  
+
+v8: κοινός (koinos)  
+
+v8: “Common.”  
+
+v9: καθαρίζω (katharizō)  
+
+v9: “To cleanse.”  
+
+v12: διακρίνω (diakrinō)  
+
+v12: “To make distinction.”  
+
+v15: ἐπιπίπτω (epipiptō)  
+
+v15: “To fall upon.”  
+
+v16: βαπτίζω (baptizō)  
+
+v16: “To baptize.”  
+
+v17: δωρεά (dōrea)  
+
+v17: “Gift.”  
+
+v18: μετάνοια (metanoia)  
+
+v18: “Repentance.”  
+
+v21: ἐπιστρέφω (epistrephō)  
+
+v21: “To turn.”  
+
+v23: πρόθεσις καρδίας  
+
+v23: “Purpose of heart.”  
+
+v24: πλήρης (plērēs)  
+
+v24: “Full.”  
+
+v26: Χριστιανός (Christianos)  
+
+v26: “Christian.”  
+
+v28: λιμός (limos)  
+
+v28: “Famine.”  
+
+v29: διακονία (diakonia)  
+
+v29: “Relief, service.”  
+
+v30: πρεσβύτερος (presbyteros)  
+
+v30: “Elder.”  
+
 v02: περιτομή (peritomē)
 “Circumcision.”
 

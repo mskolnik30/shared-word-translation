@@ -165,6 +165,72 @@ v04: This verse is absent from the earliest and strongest Greek witnesses; later
 
 ##Vocabulary
 
+v2: στοά (stoa)
+
+“Portico.”
+
+v5: ἀσθένεια (astheneia)
+
+“Weakness, illness.”
+
+v6: ὑγιής (hygiēs)
+
+“Well, whole.”
+
+v8: κράβαττος (krabattos)
+
+“Mat.”
+
+v16: διώκω (diōkō)
+
+“To persecute.”
+
+v18: ἴσος (isos)
+
+“Equal.”
+
+v19: ποιέω (poieō)
+
+“To do.”
+
+v21: ζωοποιέω (zōopoieō)
+
+“To give life.”
+
+v22: κρίσις (krisis)
+
+“Judgment.”
+
+v24: ζωὴ αἰώνιος (zōē aiōnios)
+
+“Eternal life.”
+
+v27: ἐξουσία (exousia)
+
+“Authority.”
+
+v29: ἀνάστασις (anastasis)
+“Resurrection.”
+
+v34: μαρτυρία (martyria)
+
+“Testimony.”
+
+v39: γραφή (graphē)
+
+“Scripture.”
+
+v40: ἔρχομαι (erchomai)
+
+“To come.”
+
+v44: δόξα (doxa)
+“Glory.”
+
+v46: γράφω (graphō)
+
+“To write.”
+
 v02: στοά (stoa)
 “Portico.”
 
@@ -173,9 +239,3 @@ v05: ἀσθένεια (astheneia)
 
 v06: ὑγιής (hygiēs)
 “Well, whole.”
-
-v29: ἀνάστασις (anastasis)
-“Resurrection.”
-
-v44: δόξα (doxa)
-“Glory.”

@@ -76,6 +76,46 @@ v21: Actions are listed without hierarchy, presenting a pattern rather than sequ
 
 ##Vocabulary
 
+v1: ἄβυσσος (abyssos)
+
+“Abyss.” A deep or bottomless place, associated with confinement.
+
+v3: ἀκρίς (akris)
+
+“Locust.” A destructive force, here intensified beyond natural form.
+
+v4: σφραγίς (sphragis)
+
+“Seal.” Mark of belonging or protection.
+
+v5: βασανίζω (basanizō)
+
+“To torment.” Severe distress, often prolonged.
+
+v6: θάνατος (thanatos)
+
+“Death.” Here present but inaccessible.
+
+v11: Ἀβαδδών / Ἀπολλύων (Abaddōn / Apollyōn)
+
+“Destroyer.” Name indicating function rather than identity.
+
+v14: Εὐφράτης (Euphratēs)
+
+“Euphrates.” A boundary marker, both geographic and symbolic.
+
+v16: μυριάς (myrias)
+
+“Myriad.” An innumerable quantity, expressed multiplicatively.
+
+v18: θεῖον (theion)
+
+“Sulfur.” Associated with burning and judgment.
+
+v20: μετάνοια (metanoia)
+
+“Repentance.” A change of mind or direction, notably absent here.
+
 v01: ἄβυσσος (abyssos)
 “Abyss.” A deep or bottomless place, associated with confinement.
 

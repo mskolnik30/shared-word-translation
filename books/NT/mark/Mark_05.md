@@ -123,11 +123,9 @@ v41: Aramaic is preserved; immediacy of command is emphasized.
 
 ##Vocabulary
 
-v02: πνεῦμα ἀκάθαρτον (pneuma akatharton)
-“Unclean spirit.”
+v2: πνεῦμα ἀκάθαρτον (pneuma akatharton) — unclean spirit.  
 
-v09: λεγιών (legiōn)
-“Legion, many.”
+v9: λεγιών (legiōn) — legion, many.  
 
 v30: δύναμις (dynamis)
 “Power.”
@@ -137,3 +135,9 @@ v34: σῴζω (sōzō)
 
 v41: ἔγειρω (egeirō)
 “To raise, awaken.”
+
+v02: πνεῦμα ἀκάθαρτον (pneuma akatharton)
+“Unclean spirit.”
+
+v09: λεγιών (legiōn)
+“Legion, many.”

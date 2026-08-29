@@ -75,14 +75,112 @@ v25: “no partiality” — A final leveling: God’s justice is not swayed by 
 
 ##Vocabulary
 
+v1: συνηγείρω (synegeirō) — to raise up with  
+
+v1: ζητέω (zēteō) — to seek  
+
+v1: δεξιὰ (dexia) — right hand (place of honor/authority)  
+
+v2: φρονέω (phroneō) — to set one’s mind; to be minded toward  
+
+v3: κρύπτω (kryptō) — to hide; to conceal  
+
+v4: φανερόω (phaneroō) — to reveal; to make manifest  
+
+v5: νεκρόω (nekroō) — to put to death; to mortify  
+
+v5: πορνεία (porneia) — sexual immorality  
+
+v5: ἀκαθαρσία (akatharsia) — impurity  
+
+v5: πάθος (pathos) — passion; disordered desire  
+
+v5: ἐπιθυμία κακή (epithymia kakē) — evil desire; harmful craving  
+
+v5: πλεονεξία (pleonexia) — greed; grasping  
+
+v5: εἰδωλολατρία (eidōlolatria) — idolatry  
+
+v6: ὀργή (orgē) — wrath; settled anger  
+
+v8: θυμός (thymos) — rage; outburst  
+
+v8: κακία (kakia) — malice; ill-will  
+
+v8: βλασφημία (blasphēmia) — slander; abusive speech  
+
+v8: αἰσχρολογία (aischrologia) — filthy talk; shameful speech  
+
+v9: ψεύδομαι (pseudomai) — to lie  
+
+v9: ἀπεκδύομαι (apekdyomai) — to strip off; to take off (clothing metaphor)  
+
+v10: ἐνδύω (endyō) — to put on; to clothe  
+
+v10: ἀνακαινόω (anakainoō) — to renew; to make new again  
+
+v10: εἰκών (eikōn) — image  
+
+v12: ἐκλεκτός (eklektos) — chosen; elect  
+
+v12: χρηστότης (chrēstotēs) — kindness  
+
+v12: ταπεινοφροσύνη (tapeinophrosynē) — humility  
+
+v12: πραΰτης (prautēs) — gentleness; meekness  
+
+v12: μακροθυμία (makrothymia) — patience; long-suffering  
+
+v12: σπλάγχνα οἰκτιρμοῦ (splanchna oiktirmou)
+“Compassion; tender mercy (lit. “inner parts”).”
+
+v13: ἀνέχομαι (anechomai) — to bear with; to endure  
+
+v13: χαρίζομαι (charizomai) — to forgive; to give freely  
+
+v14: σύνδεσμος (syndesmos) — bond; binding tie  
+
+v14: τελειότης (teleiotēs) — completeness; maturity  
+
+v15: βραβεύω (brabeuō) — to rule; to arbitrate (as an umpire)  
+
+v15: εἰρήνη (eirēnē)
+“Peace; wholeness.”
+
+v16: ἐνοικέω (enoikeō) — to dwell in  
+
+v16: νουθετέω (noutheteō) — to admonish; to counsel  
+
+v16: ψαλμός (psalmos) — psalm  
+
+v16: ὕμνος (hymnos) — hymn  
+
+v16: ᾠδή πνευματική (ōdē pneumatikē) — spiritual song  
+
+v17: ὄνομα (onoma) — name (authority/representation)  
+
+v18: ὑποτάσσω (hypotassō) — to submit; to order oneself under  
+
+v19: ἀγαπάω (agapaō) — to love  
+
+v19: πικραίνω (pikrainō) — to make bitter; to be harsh  
+
+v21: ἐρεθίζω (erethizō) — to provoke; to irritate  
+
+v21: ἀθυμέω (athumeō) — to lose heart; to become discouraged  
+
+v22: δοῦλος (doulos) — slave; servant  
+
+v22: ὀφθαλμοδουλεία (ophthalmodouleia) — eye-service (working only when watched)  
+
+v22: ἀνθρωπάρεσκος (anthrōpareskos) — people-pleaser  
+
+v22: ἁπλότης καρδίας (haplotēs kardias) — sincerity of heart; single-heartedness  
+
+v25: προσωπολημψία (prosōpolēmpsia) — partiality; favoritism  
+
 v01: συνηγείρω (synegeirō)
 “To raise up with.”
 
 v01: ζητέω (zēteō)
 “To seek.”
-
-v12: σπλάγχνα οἰκτιρμοῦ (splanchna oiktirmou)
-“Compassion; tender mercy (lit. “inner parts”).”
-
-v15: εἰρήνη (eirēnē)
-“Peace; wholeness.”

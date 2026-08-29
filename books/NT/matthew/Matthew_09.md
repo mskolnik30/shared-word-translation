@@ -137,6 +137,36 @@ v37–38: The harvest metaphor frames mission as participation in divine initiat
 
 ##Vocabulary
 
+v2: θάρσει (*tharsei*) — “Take courage.” A word of reassurance preceding transformation.  
+
+v2: ἀφίημι (*aphiēmi*) — “To forgive.” Also “to release”; carries relational and legal nuance.  
+
+v6: ἐξουσία (*exousia*) — “Authority.” Exercised concretely, not abstractly.  
+
+v9: ἀκολουθέω (*akoloutheō*) — “To follow.” Implies attachment and ongoing movement.  
+
+v12: ἰατρός (*iatros*) — “Physician.” Used metaphorically for moral and spiritual restoration.  
+
+v13: ἔλεος (eleos)
+“Mercy.” Covenantal loyalty expressed in action.
+
+v15: νυμφίος (*nymphios*) — “Bridegroom.” Signals presence, celebration, and impending loss.  
+
+v17: οἶνος νέος (*oinos neos*) — “New wine.” Symbol of uncontained vitality.  
+
+v20: κράσπεδον (kraspedon)
+“Fringe.” Garment edge associated with identity and law observance.
+
+v22: σῴζω (*sōzō*) — “To save,” “to make well.” Physical and holistic senses overlap.  
+
+v27: υἱὸς Δαυίδ (*huios Dauid*) — “Son of David.” Messianic designation.  
+
+v33: θαυμάζω (*thaumazō*) — “To marvel.” Reaction without full understanding.  
+
+v36: σπλαγχνίζομαι (*splagchnizomai*) — “To have compassion.” Deep, visceral response.  
+
+v37: θερισμός (*therismos*) — “Harvest.” Image of readiness and gathering.  
+
 v02: θάρσει (tharsei)
 “Take courage.” A word of reassurance preceding transformation.
 
@@ -145,9 +175,3 @@ v02: ἀφίημι (aphiēmi)
 
 v06: ἐξουσία (exousia)
 “Authority.” Exercised concretely, not abstractly.
-
-v13: ἔλεος (eleos)
-“Mercy.” Covenantal loyalty expressed in action.
-
-v20: κράσπεδον (kraspedon)
-“Fringe.” Garment edge associated with identity and law observance.

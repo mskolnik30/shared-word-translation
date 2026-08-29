@@ -91,6 +91,24 @@ v27: “Religion” (θρησκεία) is the word for cultic practice. The vers
 
 ##Vocabulary
 
+v2: πειρασμός (peirasmos) — Trial, testing, temptation. The word covers both external pressure and inner enticement.  
+
+v4: τέλειος (teleios) — Complete, mature, brought to its end-shape.  
+
+v6: διακρινόμενος (diakrinomenos) — Doubting, divided in judgment. Names hesitation rather than disbelief.  
+
+v8: δίψυχος (dipsychos) — Double-minded, split in soul.  
+
+v17: ἀλλαγή (allagē) — Change, variation. Names the alteration of the heavens, contrasted with God’s steadiness.  
+
+v21: ἔμφυτος (emphytos) — Implanted, ingrafted. The word is botanical, suggesting growth from within.  
+
+v22: ποιητής (poiētēs) — Doer, maker. The same word from which “poet” descends.  
+
+v25: παρακύπτω (parakyptō) — To stoop down to look in; to peer attentively.  
+
+v27: ἄσπιλος (aspilos) — Unspotted, unstained. A purity word applied not to ritual but to a way of life.  
+
 v02: πειρασμός (peirasmos)
 “Trial, testing, temptation. The word covers both external pressure and inner enticement.”
 

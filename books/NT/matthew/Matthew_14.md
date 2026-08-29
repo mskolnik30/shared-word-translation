@@ -108,6 +108,34 @@ v36: Healing mediated through contact; faith expressed physically.
 
 ##Vocabulary
 
+v1: τετραάρχης (*tetrarchēs*) — “Tetrarch.” Regional ruler under larger authority.  
+
+v2: ἐγήγερται (*egēgertai*) — “Has been raised.” Perfect tense emphasizing ongoing state.  
+
+v4: ἔξεστιν (*exestin*) — “It is lawful.” Ethical/legal permissibility.  
+
+v7: ὅρκος (*horkos*) — “Oath.” Binding public declaration.  
+
+v14: σπλαγχνίζομαι (splanchnizomai)
+“Have compassion.” Deep internal movement toward mercy.
+
+v19: εὐλόγησεν (*eulogēsen*) — “He blessed.” Invocation of divine provision.  
+
+v20: ἐχορτάσθησαν (*echortasthēsan*) — “Were satisfied.” Filled fully, not minimally.  
+
+v25: τετάρτη φυλακή (*tetartē phylakē*) — “Fourth watch.” Late-night period (approx. 3–6 AM).  
+
+v26: φάντασμα (*phantasma*) — “Apparition,” “ghost.” Perceived supernatural presence.  
+
+v27: ἐγώ εἰμι (*egō eimi*) — “I am.” Statement of identity with theological resonance.  
+
+v31: ὀλιγόπιστος (oligopistos)
+“Of little faith.” Inadequate trust, not absence of belief.
+
+v33: προσεκύνησαν (*prosekynēsan*) — “They worshiped.” Gesture of reverence and submission.  
+
+v36: κράσπεδον (*kraspedon*) — “Fringe,” “hem.” Edge of garment, often symbolically significant.  
+
 v01: τετραάρχης (tetrarchēs)
 “Tetrarch.” Regional ruler under larger authority.
 
@@ -116,9 +144,3 @@ v02: ἐγήγερται (egēgertai)
 
 v04: ἔξεστιν (exestin)
 “It is lawful.” Ethical/legal permissibility.
-
-v14: σπλαγχνίζομαι (splanchnizomai)
-“Have compassion.” Deep internal movement toward mercy.
-
-v31: ὀλιγόπιστος (oligopistos)
-“Of little faith.” Inadequate trust, not absence of belief.

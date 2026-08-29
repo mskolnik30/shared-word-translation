@@ -86,6 +86,46 @@ v16: The poetic confession summarizes Christ’s movement from incarnation to ex
 
 ##Vocabulary
 
+v1: ἐπισκοπή (episkopē)  
+
+v1: “Overseer.” One who watches over or supervises.  
+
+v2: ἀνεπίλημπτος (anepilēmptos)  
+
+v2: “Above reproach.” Not open to accusation.  
+
+v3: φιλάργυρος (philargyros)  
+
+v3: “Lover of money.” Greedy.  
+
+v6: τυφόω (typhoō)  
+
+v6: “To be puffed up.” To become conceited.  
+
+v7: παγίς (pagis)  
+
+v7: “Snare.” Trap.  
+
+v8: σεμνός (semnos)  
+
+v8: “Dignified.” Worthy of respect.  
+
+v9: μυστήριον (mystērion)  
+
+v9: “Mystery.” Revealed truth.  
+
+v10: δοκιμάζω (dokimazō)  
+
+v10: “To test.” Examine for fitness.  
+
+v13: παρρησία (parrēsia)  
+
+v13: “Confidence.” Boldness or assurance.  
+
+v15: στῦλος (stylos)  
+
+v15: “Pillar.” Support or stabilizing structure.  
+
 v01: ἐπισκοπή (episkopē)
 “Overseer.” One who watches over or supervises.
 

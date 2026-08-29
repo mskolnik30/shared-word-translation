@@ -169,17 +169,33 @@ v34: Demonic recognition contrasts with human misunderstanding.
 
 ##Vocabulary
 
-v02: πειράζω (peirazō)
+v2: πειράζω (peirazō)
+
 “To test, tempt.” To probe fidelity or identity.
 
 v14: δύναμις (dynamis)
 “Power.” Active force associated with the Spirit.
 
+v18: χρίω (chriō)
+
+“To anoint.” To appoint or consecrate for mission.
+
 v18: εὐαγγελίζω (euangelizō)
 “To proclaim good news.”
+
+v21: πληρόω (plēroō)
+
+“To fulfill.” To bring to completion or realization.
 
 v24: προφήτης (prophētēs)
 “Prophet.” One who speaks God’s word, often rejected.
 
+v32: ἐξουσία (exousia)
+
+“Authority.” Legitimate power to act and speak.
+
 v34: ἅγιος (hagios)
 “Holy.” Set apart, belonging to God.
+
+v02: πειράζω (peirazō)
+“To test, tempt.” To probe fidelity or identity.

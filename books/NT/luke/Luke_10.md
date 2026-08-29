@@ -135,6 +135,50 @@ v41–42: “anxious… one thing… good portion” — Jesus does not shame se
 
 ##Vocabulary
 
+v2: θερισμός (therismos) — harvest (image for God’s work ready for gathering)  
+
+v2: ἐκβάλλω (ekballō) — to send out; to thrust out (forceful “dispatch,” not casual)  
+
+v5: εἰρήνη (eirēnē) — peace; wholeness; well-being  
+
+v6: υἱὸς εἰρήνης (huios eirēnēs) — child/son of peace (idiom: one receptive to peace)  
+
+v7: μισθός (misthos) — wages; pay; reward  
+
+v9: βασιλεία τοῦ θεοῦ (basileia tou theou) — kingdom/reign of God  
+
+v13: μετανοέω (metanoeō)
+“To repent; to turn; to change one’s way of mind/life.”
+
+v16: ἀθετέω (atheteō) — to reject; to set aside; to treat as invalid  
+
+v19: ἐξουσία (exousia) — authority; delegated power  
+
+v20: ἐγγράφω (engraphō) — to write in; to inscribe (names “recorded” in heaven)  
+
+v21: ἀποκαλύπτω (apokalyptō) — to reveal; uncover (God’s disclosure as gift)  
+
+v25: κληρονομέω (klēronomeō) — to inherit; to receive as an inheritance  
+
+v27: πλησίον (plēsion) — neighbor; the one near (redefined by the parable)  
+
+v27: ἀγαπάω (agapaō)
+“To love (covenant love enacted, not merely felt).”
+
+v29: δικαιόω (dikaioō) — to justify; to vindicate oneself  
+
+v33: σπλαγχνίζομαι (splagchnizomai) — to be moved with compassion (gut-level mercy)  
+
+v35: δηνάριον (dēnarion) — denarius (typical day’s wage; costly mercy)  
+
+v37: ἔλεος (eleos) — mercy; compassion in action  
+
+v40: περισπάω (perispaō) — to be distracted; to be pulled away  
+
+v41: μεριμνάω (merimnaō) — to be anxious; to be preoccupied with care  
+
+v42: μερίς (meris) — portion; share (“the good portion”)  
+
 v05: εἰρήνη (eirēnē)
 “Peace; wholeness; well-being.”
 
@@ -143,9 +187,3 @@ v06: υἱὸς εἰρήνης (huios eirēnēs)
 
 v09: βασιλεία τοῦ θεοῦ (basileia tou theou)
 “Kingdom/reign of God.”
-
-v13: μετανοέω (metanoeō)
-“To repent; to turn; to change one’s way of mind/life.”
-
-v27: ἀγαπάω (agapaō)
-“To love (covenant love enacted, not merely felt).”

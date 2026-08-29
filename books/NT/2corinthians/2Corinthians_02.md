@@ -74,6 +74,33 @@ v17: Paul contrasts sincere proclamation with manipulation. Speech “in Christ�
 
 ##Vocabulary
 
+v4: θλῖψις (thlipsis)
+
+“Affliction” or “distress.” Emotional and external pressure are not separated.
+
+v4: συνοχή (synochē)
+
+“Anguish” or “constraint.” The term conveys inner compression or tightness.
+
+v7: καταπίνω (katapinō)
+
+“To swallow up” or “overwhelm.” The image suggests being consumed by sorrow.
+
+v11: νοήματα (noēmata)
+“Designs” or “schemes.” Refers to intentions or thought-patterns.
+
+v14: θριαμβεύω (thriambeuō)
+
+“To lead in triumph.” Often associated with a public procession, emphasizing visibility and display.
+
+v15: ὀσμή (osmē)
+
+“Fragrance” or “aroma.” A sensory image used to describe the spread of knowledge.
+
+v17: καπηλεύω (kapēleuō)
+
+“To peddle” or “to profit from.” Suggests corrupting something for gain.
+
 v04: θλῖψις (thlipsis)
 “Affliction” or “distress.” Emotional and external pressure are not separated.
 
@@ -82,6 +109,3 @@ v04: συνοχή (synochē)
 
 v07: καταπίνω (katapinō)
 “To swallow up” or “overwhelm.” The image suggests being consumed by sorrow.
-
-v11: νοήματα (noēmata)
-“Designs” or “schemes.” Refers to intentions or thought-patterns.

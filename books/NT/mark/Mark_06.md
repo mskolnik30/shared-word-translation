@@ -173,11 +173,19 @@ v53–56: The closing scene gathers villages, cities, and countryside into one w
 
 ##Vocabulary
 
-v04: προφήτης (prophētēs)
-“Prophet; one who speaks forth.”
+v3: τέκτων (tektōn) — carpenter; craftsperson; builder
 
-v06: ἀπιστία (apistia)
-“Unbelief; lack of trust.”
+v3: ἐσκανδαλίζοντο (eskandalizonto) — they took offense; they stumbled
+
+v4: προφήτης (prophētēs) — prophet; one who speaks forth
+
+v5: δύναμις (dynamis) — deed of power; mighty work
+
+v7: ἀποστέλλειν (apostellein) — to send out
+
+v7: ἐξουσία (exousia) — authority; delegated power
+
+v8: πήρα (pēra) — bag; traveler’s sack
 
 v11: μαρτύριον (martyrion)
 “Testimony; witness.”
@@ -187,3 +195,61 @@ v12: μετανοῶσιν (metanoōsin)
 
 v13: ἤλειφον ἐλαίῳ (ēleiphon elaiō)
 “Anointed with oil.”
+
+v14: ἐγήγερται (egēgertai) — has been raised
+
+v15: προφήτης (prophētēs) — prophet
+
+v17: κρατέω (krateō) — seize; hold fast
+
+v19: ἐνεῖχεν (eneichen) — held against; bore a grudge
+
+v20: δίκαιος (dikaios) — righteous; just
+
+v20: ἅγιος (hagios) — holy; set apart
+
+v20: ἠπόρει (ēporei) — was perplexed; was at a loss
+
+v25: ἐξαυτῆς (exautēs) — immediately; at once
+
+v30: ἀπόστολοι (apostoloi) — apostles; those who are sent
+
+v31: ἀναπαύσασθε (anapausasthe) — rest; be refreshed
+
+v31: ἔρημος (erēmos) — deserted place; wilderness
+
+v33: συνέδραμον (synedramon) — ran together; hurried toward
+
+v34: σπλαγχνίζομαι (splagchnizomai) — have compassion; be moved inwardly
+
+v34: πρόβατα … μὴ ἔχοντα ποιμένα (probata … mē echonta poimena) — sheep without a shepherd
+
+v34: ἐδίδασκεν (edidasken) — was teaching
+
+v37: δηνάριον (dēnarion) — denarius; a day’s wage coin
+
+v39: συμπόσια συμπόσια (symposia symposia) — groups; dining companies arranged in clusters
+
+v41: κατέκλασεν (kateklasen) — broke
+
+v42: ἐχορτάσθησαν (echortasthēsan) — were filled; were satisfied
+
+v43: κλάσματα (klasmata) — broken pieces; fragments
+
+v48: βασανιζομένους (basanizomenous) — distressed; tormented; hard pressed
+
+v48: τετάρτη φυλακή (tetartē phylakē) — fourth watch; late-night watch
+
+v49: φάντασμα (phantasma) — ghost; apparition
+
+v50: ἐγώ εἰμι (egō eimi) — I am; it is I
+
+v52: πεπωρωμένη (pepōrōmenē) — hardened; dulled
+
+v56: κράσπεδον (kraspedon) — fringe; edge; tassel
+
+v04: προφήτης (prophētēs)
+“Prophet; one who speaks forth.”
+
+v06: ἀπιστία (apistia)
+“Unbelief; lack of trust.”

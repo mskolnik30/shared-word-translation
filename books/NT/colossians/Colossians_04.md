@@ -81,6 +81,46 @@ v18: “Remember my chains” reconnects the letter to Paul’s embodied conditi
 
 ##Vocabulary
 
+v1: ἴσος (isos)  
+
+v1: “Fair” or “equal.” Justice measured in right relation.  
+
+v2: προσκαρτερέω (proskartereō)  
+
+v2: “To continue steadfastly.” Persistent devotion.  
+
+v3: θύρα (thyra)  
+
+v3: “Door.” Opportunity for action.  
+
+v5: καιρός (kairos)  
+
+v5: “Time.” Opportune or decisive moment.  
+
+v6: ἅλας (halas)  
+
+v6: “Salt.” Preserving or sharpening agent.  
+
+v7: διάκονος (diakonos)  
+
+v7: “Minister” or “servant.” One who serves.  
+
+v12: ἀγωνίζομαι (agōnizomai)  
+
+v12: “To strive.” To struggle or exert effort.  
+
+v12: τέλειος (teleios)  
+
+v12: “Mature.” Complete or fully developed.  
+
+v16: ἀναγινώσκω (anaginōskō)  
+
+v16: “To read.” To read publicly or aloud.  
+
+v17: διακονία (diakonia)  
+
+v17: “Ministry.” Service or assigned task.  
+
 v01: ἴσος (isos)
 “Fair” or “equal.” Justice measured in right relation.
 

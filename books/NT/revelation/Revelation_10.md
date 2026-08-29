@@ -46,6 +46,38 @@ v11: The commission extends outward (“peoples…nations…languages…kings”
 
 ##Vocabulary
 
+v1: ἄγγελος ἰσχυρός (angelos ischyros)
+
+“Mighty angel.” A messenger marked by strength or authority.
+
+v2: βιβλαρίδιον (biblaridion)
+
+“Little scroll.” Diminutive form, distinct from the larger scroll earlier.
+
+v4: σφραγίζω (sphragizō)
+
+“To seal.” To close or conceal from access.
+
+v6: χρόνος (chronos)
+
+“Time” or “delay.” Context leaves nuance open.
+
+v7: μυστήριον (mystērion)
+
+“Mystery.” Something revealed in part, not fully disclosed.
+
+v9: φάγε (phage)
+
+“Eat.” Command to internalize rather than merely receive.
+
+v10: πικραίνω (pikrainō)
+
+“To make bitter.” Experiential response to what is received.
+
+v11: προφητεύω (prophēteuō)
+
+“To prophesy.” To speak forth what is given, not self-generated.
+
 v01: ἄγγελος ἰσχυρός (angelos ischyros)
 “Mighty angel.” A messenger marked by strength or authority.
 

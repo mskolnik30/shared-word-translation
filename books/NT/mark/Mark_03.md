@@ -111,8 +111,7 @@ v29: The warning concerns persistent misrecognition of God’s work as evil.
 
 ##Vocabulary
 
-v05: πώρωσις (pōrōsis)
-“Hardness, dullness of heart.”
+v5: πώρωσις (pōrōsis) — hardness, dullness of heart.  
 
 v14: ἀπόστολος (apostolos)
 “One sent, commissioned agent.”
@@ -122,3 +121,8 @@ v23: παραβολή (parabolē)
 
 v27: ἰσχυρός (ischyros)
 “Strong, powerful.”
+
+v29: βλασφημέω (blasphēmeō) — to speak against, slander.  
+
+v05: πώρωσις (pōrōsis)
+“Hardness, dullness of heart.”

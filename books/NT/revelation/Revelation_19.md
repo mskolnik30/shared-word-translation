@@ -113,5 +113,33 @@ v11: ἀληθινός (alēthinos)
 v12: διάδημα (diadēma)
 “Diadem.” Symbol of royal authority.
 
+v13: λόγος τοῦ θεοῦ (logos tou theou)
+
+“Word of God.” Expression or communication of divine will.
+
+v15: ῥομφαία (rhomphaia)
+
+“A large sword.” Instrument of decisive action.
+
+v15: ποιμαίνω (poimainō)
+
+“To rule” or “shepherd.” Authority expressed as control or care.
+
+v15: ληνός (lēnos)
+
+“Winepress.” Place of crushing, here symbolic.
+
+v17: δεῖπνον (deipnon)
+
+“Supper.” A formal meal, here reversed in meaning.
+
+v19: πόλεμος (polemos)
+
+“War.” Conflict without detail.
+
+v20: λίμνη τοῦ πυρός (limnē tou pyros)
+
+“Lake of fire.” Place of final judgment.
+
 v21: σάρξ (sarx)
 “Flesh.” Physical body, here consumed.

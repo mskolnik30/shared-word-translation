@@ -95,6 +95,45 @@ v24–26: The selection process combines prayer and lot. Divine choice is sought
 
 ##Vocabulary
 
+v1: ἄρχομαι (archomai)  
+“To begin.” The verb suggests that Jesus’ work is ongoing beyond the first account.  
+
+v3: τεκμήριον (tekmērion)  
+“Proof.” Indicates convincing evidence, though not itemized here.  
+
+v4: ἐπαγγελία (epangelia)  
+“Promise.” Refers to what is given by God and awaited rather than achieved.  
+
+v5: βαπτίζω (baptizō)  
+“To baptize.” The contrast between water and Spirit marks differing modes of initiation.  
+
+v7: καιρός (kairos)  
+“Season” or “appointed time.” Distinct from chronological time, emphasizing significance rather than sequence.  
+
+v8: δύναμις (dynamis)  
+“Power.” Often denotes divine enablement for action.  
+
+v8: μάρτυς (martys)  
+“Witness.” One who testifies, grounded in direct experience.  
+
+v9: ἐπαίρω (epairō)  
+“To lift up.” Used here for the ascension without metaphysical elaboration.  
+
+v14: ὁμοθυμαδόν (homothymadon)  
+“With one accord.” Expresses shared intention and unity.  
+
+v16: πληρόω (plēroō)  
+“To fulfill.” Carries the sense of bringing to completion what was spoken.  
+
+v20: ἐπισκοπή (episkopē)  
+“Office” or “oversight.” A role of responsibility within the community.  
+
+v24: καρδιογνώστης (kardiognōstēs)  
+“Knower of hearts.” A divine attribute emphasizing inward knowledge.  
+
+v26: κλῆρος (klēros)  
+“Lot.” A means of discerning divine will beyond human calculation.  
+
 v01: ἄρχομαι (archomai)
 “To begin.” The verb suggests that Jesus’ work is ongoing beyond the first account.
 

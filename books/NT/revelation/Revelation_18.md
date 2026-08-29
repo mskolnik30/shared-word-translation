@@ -182,6 +182,50 @@ v24: Violence is comprehensive; responsibility is total.
 
 ##Vocabulary
 
+v2: κατοικητήριον (katoikētērion)
+
+“Dwelling place.” Place of settled habitation.
+
+v3: πλοῦτος (ploutos)
+
+“Wealth.” Abundance of resources.
+
+v4: ἐξέρχομαι (exerchomai)
+
+“To come out.” Separation from within.
+
+v5: κολλάω (kollaō)
+
+“To cling.” To join or attach.
+
+v6: διπλόω (diploō)
+
+“To double.” To repay in kind.
+
+v7: στρηνιάω (strēniaō)
+
+“To live in luxury.” Excessive indulgence.
+
+v10: κρίσις (krisis)
+
+“Judgment.” Decision or verdict.
+
+v13: σῶμα (sōma)
+
+“Body.” Here indicating human life.
+
+v21: μύλος (mylos)
+
+“Millstone.” Heavy stone used for grinding.
+
+v23: φαρμακεία (pharmakeia)
+
+“Sorcery.” Deceptive or manipulative practice.
+
+v24: αἷμα (haima)
+
+“Blood.” Life taken through violence.
+
 v02: κατοικητήριον (katoikētērion)
 “Dwelling place.” Place of settled habitation.
 

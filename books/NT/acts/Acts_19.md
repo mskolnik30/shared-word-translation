@@ -153,6 +153,82 @@ v35–41: Civic authority restores order through legal reasoning.
 
 ##Vocabulary
 
+v2: λαμβάνω (lambanō)
+
+“To receive.”
+
+v3: βάπτισμα (baptisma)
+
+“Baptism.”
+
+v6: γλῶσσα (glōssa)
+
+“Tongue.”
+
+v8: παρρησιάζομαι (parrēsiazomai)
+
+“To speak boldly.”
+
+v9: σκληρύνω (sklērynō)
+
+“To harden.”
+
+v10: Ἀσία (Asia)
+
+“Asia (province).”
+
+v11: δύναμις (dynamis)
+
+“Power.”
+
+v13: ἐξορκίζω (exorkizō)
+
+“To exorcise.”
+
+v15: γινώσκω (ginōskō)
+
+“To know.”
+
+v18: ἐξομολογέω (exomologeō)
+
+“To confess.”
+
+v19: μαγεία (mageia)
+
+“Magic.”
+
+v20: αὐξάνω (auxanō)
+
+“To grow.”
+
+v23: θόρυβος (thorybos)
+
+“Disturbance.”
+
+v24: ναός (naos)
+
+“Temple.”
+
+v28: θυμός (thymos)
+
+“Rage.”
+
+v29: θέατρον (theatron)
+
+“Theater.”
+
+v33: ἀπολογέομαι (apologeomai)
+
+“To defend.”
+
+v35: γραμματεύς (grammateus)
+
+“Town clerk.”
+
+v40: στάσις (stasis)
+
+“Riot.”
+
 v02: λαμβάνω (lambanō)
 “To receive.”
 

@@ -74,6 +74,46 @@ v16–17: Scripture is described functionally. Its purpose is formation and equi
 
 ##Vocabulary
 
+v1: χαλεπός (chalepos)  
+
+v1: “Difficult.” Hard or dangerous.  
+
+v2: φίλαυτος (philautos)  
+
+v2: “Lover of self.” Self-centered.  
+
+v3: ἄστοργος (astorgos)  
+
+v3: “Without natural affection.” Lacking familial love.  
+
+v5: μόρφωσις (morphōsis)  
+
+v5: “Appearance.” Form without substance.  
+
+v7: ἐπίγνωσις (epignōsis)  
+
+v7: “Full knowledge.” Deep understanding.  
+
+v8: ἀδόκιμος (adokimos)  
+
+v8: “Disqualified.” Failing the test.  
+
+v12: διώκω (diōkō)  
+
+v12: “To persecute.” To pursue with harm.  
+
+v15: ἱερά γράμματα (hiera grammata)  
+
+v15: “Sacred writings.” Holy texts.  
+
+v16: θεόπνευστος (theopneustos)  
+
+v16: “God-breathed.” Inspired by God.  
+
+v17: ἐξηρτισμένος (exērtismenos)  
+
+v17: “Equipped.” Fully prepared.  
+
 v01: χαλεπός (chalepos)
 “Difficult.” Hard or dangerous.
 

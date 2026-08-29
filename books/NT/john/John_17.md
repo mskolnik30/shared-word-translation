@@ -89,14 +89,62 @@ v26: The chapter closes with continuing revelation of the Father’s name, so th
 
 ##Vocabulary
 
+v1: ὥρα (hōra)  
+“Hour.” In John, the term often refers to the decisive moment of Jesus’ death, glorification, and return.  
+
+v1: δοξάζω (doxazō)  
+“To glorify.” To reveal or honor the weight and splendor of divine identity and action.  
+
+v2: ἐξουσία (exousia)  
+“Authority.” Delegated power or right, here given by the Father to the Son.  
+
+v2: σάρξ (sarx)  
+“Flesh.” Human life in its creaturely condition.  
+
+v3: αἰώνιος ζωή (aiōnios zōē)  
+“Eternal life.” Life of the age, defined here by knowing God and Jesus Christ.  
+
+v3: γινώσκω (ginōskō)  
+“To know.” Relational knowledge, not mere information.  
+
+v6: φανερόω (phaneroō)  
+“To make known” or “to reveal.” The verb emphasizes manifestation.  
+
+v6: τηρέω (tēreō)  
+“To keep.” To guard, observe, or hold faithfully.  
+
+v11: ἅγιος (hagios)
+“Holy.” Set apart as belonging to God.
+
+v12: φυλάσσω (phylassō)  
+“To guard.” Protective keeping, used here of Jesus’ care for those given to him.  
+
+v17: ἁγιάζω (hagiazō)  
+“To sanctify.” To consecrate or set apart for God’s purpose.  
+
+v17: ἀλήθεια (alētheia)
+“Truth.” In John, truth is bound to divine revelation rather than abstract correctness.
+
+v18: ἀποστέλλω (apostellō)  
+“To send.” Commissioning language central to the relation between Father, Son, and disciples.  
+
+v21: πιστεύω (pisteuō)  
+“To believe.” Trusting reception of the Father’s sending of the Son.  
+
+v23: τελειόω (teleioō)  
+“To complete” or “to make perfect.” Here used of unity brought to its intended fullness.  
+
+v24: θεωρέω (theōreō)  
+“To see” or “to behold.” More than casual sight; attentive perception.  
+
+v25: δίκαιος (dikaios)  
+“Righteous.” Faithful, just, and true in relation to covenant and judgment.  
+
+v26: ἀγάπη (agapē)  
+“Love.” The love of the Father for the Son, shared with and dwelling in the disciples.  
+
 v02: σάρξ (sarx)
 “Flesh.” Human life in its creaturely condition.
 
 v03: αἰώνιος ζωή (aiōnios zōē)
 “Eternal life.” Life of the age, defined here by knowing God and Jesus Christ.
-
-v11: ἅγιος (hagios)
-“Holy.” Set apart as belonging to God.
-
-v17: ἀλήθεια (alētheia)
-“Truth.” In John, truth is bound to divine revelation rather than abstract correctness.

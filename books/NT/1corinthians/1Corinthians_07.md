@@ -150,6 +150,66 @@ v36–40: Marriage is permitted; singleness is commended.
 
 ##Vocabulary
 
+v1: ἅπτομαι (haptomai)  
+
+v1: “To touch.”  
+
+v2: πορνεία (porneia)  
+
+v2: “Sexual immorality.”  
+
+v4: ἐξουσιάζω (exousiazō)  
+
+v4: “To have authority over.”  
+
+v5: ἀποστερέω (apostereō)  
+
+v5: “To deprive.”  
+
+v7: χάρισμα (charisma)  
+
+v7: “Gift.”  
+
+v9: πυρόω (pyroō)  
+
+v9: “To burn.”  
+
+v14: ἁγιάζω (hagiazō)  
+
+v14: “To sanctify.”  
+
+v15: δουλόω (douloō)  
+
+v15: “To enslave.”  
+
+v17: μερίζω (merizō)  
+
+v17: “To assign.”  
+
+v20: κλῆσις (klēsis)  
+
+v20: “Calling.”  
+
+v22: ἀπελεύθερος (apeleutheros)  
+
+v22: “Freedman.”  
+
+v26: ἀνάγκη (anankē)  
+
+v26: “Distress.”  
+
+v31: σχῆμα (schēma)  
+
+v31: “Form.”  
+
+v34: μερίζω (merizō)  
+
+v34: “To divide.”  
+
+v35: περισπάω (perispaō)  
+
+v35: “To distract.”  
+
 v01: ἅπτομαι (haptomai)
 “To touch.”
 

@@ -65,6 +65,46 @@ v13: Holiness is oriented toward a future event (“the coming of our Lord Jesus
 
 ##Vocabulary
 
+v2: στηρίζω (stērizō)  
+
+v2: “To strengthen.” To make firm or stable.  
+
+v2: παρακαλέω (parakaleō)  
+
+v2: “To encourage.” To comfort or urge forward.  
+
+v3: σαίνω (sainō)  
+
+v3: “To be shaken.” To be disturbed or unsettled.  
+
+v3: κεῖμαι (keimai)  
+
+v3: “To be appointed.” To be set or destined.  
+
+v5: πειράζω (peirazō)  
+
+v5: “To tempt” or “test.” To try or prove.  
+
+v6: εὐαγγελίζομαι (euangelizomai)  
+
+v6: “To bring good news.” To report favorable news.  
+
+v8: στήκω (stēkō)  
+
+v8: “To stand firm.” To remain steadfast.  
+
+v10: καταρτίζω (katartizō)  
+
+v10: “To supply” or “restore.” To complete what is lacking.  
+
+v12: πλεονάζω (pleonazō)  
+
+v12: “To increase.” To grow beyond measure.  
+
+v13: στηρίζω (stērizō)  
+
+v13: “To establish.” To fix firmly in place.  
+
 v02: στηρίζω (stērizō)
 “To strengthen.” To make firm or stable.
 

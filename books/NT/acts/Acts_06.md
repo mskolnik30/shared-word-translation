@@ -69,6 +69,66 @@ v15: Stephen’s appearance signals divine presence and vindication.
 
 ##Vocabulary
 
+v1: γογγυσμός (gongysmos)  
+
+v1: “Complaint, murmuring.”  
+
+v1: Ἑλληνιστής (Hellēnistēs)  
+
+v1: “Hellenist.”  
+
+v2: διακονέω (diakoneō)  
+
+v2: “To serve.”  
+
+v3: μαρτυρούμενος (martyroumenos)  
+
+v3: “Of good reputation.”  
+
+v4: διακονία (diakonia)  
+
+v4: “Ministry.”  
+
+v5: πίστις (pistis)  
+
+v5: “Faith.”  
+
+v6: ἐπιτίθημι χεῖρας  
+
+v6: “To lay hands.”  
+
+v7: πληθύνω (plēthynō)  
+
+v7: “To multiply.”  
+
+v8: χάρις (charis)  
+
+v8: “Grace.”  
+
+v9: συναγωγή (synagōgē)  
+
+v9: “Synagogue.”  
+
+v10: σοφία (sophia)  
+
+v10: “Wisdom.”  
+
+v11: βλασφημία (blasphēmia)  
+
+v11: “Blasphemy.”  
+
+v13: ψευδομάρτυς (pseudomartys)  
+
+v13: “False witness.”  
+
+v14: παράδοσις (paradosis)  
+
+v14: “Tradition.”  
+
+v15: ἄγγελος (angelos)  
+
+v15: “Angel.”  
+
 v01: γογγυσμός (gongysmos)
 “Complaint, murmuring.”
 

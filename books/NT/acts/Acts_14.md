@@ -107,6 +107,70 @@ v26–28: Mission report centers on God’s activity, not human achievement.
 
 ##Vocabulary
 
+v2: ἀπειθέω (apeitheō)  
+
+v2: “To disobey, refuse to believe.”  
+
+v3: παρρησιάζομαι (parrēsiazomai)  
+
+v3: “To speak boldly.”  
+
+v5: ὑβρίζω (hybrizō)  
+
+v5: “To mistreat.”  
+
+v7: εὐαγγελίζω (euangelizō)  
+
+v7: “To proclaim good news.”  
+
+v9: πίστις (pistis)  
+
+v9: “Faith.”  
+
+v10: ἅλλομαι (hallomai)  
+
+v10: “To leap.”  
+
+v11: θεός (theos)  
+
+v11: “God.”  
+
+v13: στέφανος (stephanos)  
+
+v13: “Garland.”  
+
+v14: διαρρήγνυμι (diarrēgnyμι)  
+
+v14: “To tear.”  
+
+v15: μάταιος (mataios)  
+
+v15: “Worthless.”  
+
+v17: καρποφορέω (karpophoreō)  
+
+v17: “To bear fruit.”  
+
+v19: λιθάζω (lithazō)  
+
+v19: “To stone.”  
+
+v22: θλῖψις (thlipsis)  
+
+v22: “Tribulation.”  
+
+v23: χειροτονέω (cheirotoneō)  
+
+v23: “To appoint.”  
+
+v23: παρατίθημι (paratithēmi)  
+
+v23: “To entrust.”  
+
+v27: ἀνοίγω (anoigō)  
+
+v27: “To open.”  
+
 v02: ἀπειθέω (apeitheō)
 “To disobey, refuse to believe.”
 

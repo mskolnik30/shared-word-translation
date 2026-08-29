@@ -60,3 +60,7 @@ v15: ἐλέγχω (elenchō)
 
 v15: ἐξουσία (exousia)
 “Authority.” Right to act or command.
+
+v15: περιφρονέω (periphroneō)
+
+“To disregard.” To treat with contempt.

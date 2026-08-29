@@ -116,11 +116,27 @@ v14: This verse is absent from the earliest and strongest Greek witnesses; later
 
 ##Vocabulary
 
-v02: καθέδρα (kathedra)
-“Seat.” Position of teaching authority.
+v2: καθέδρα (*kathedra*) — “Seat.” Position of teaching authority.  
 
-v04: φορτία (phortia)
-“Burdens.” Obligations or demands.
+v4: φορτία (*phortia*) — “Burdens.” Obligations or demands.  
+
+v5: φυλακτήρια (*phylaktēria*) — “Phylacteries.” Scripture-containing amulets.  
+
+v7: ῥαββί (*rhabbí*) — “Rabbi.” Teacher; honorific title.  
+
+v12: ταπεινωθήσεται (*tapeinōthēsetai*) — “Will be humbled.” Brought low.  
+
+v13: ὑποκριταί (*hypokritai*) — “Hypocrites.” Actors; those presenting false fronts.  
+
+v15: προσήλυτος (*prosēlytos*) — “Convert.” One brought into the community.  
+
+v16: ὁδηγοὶ τυφλοί (*hodēgoi typhloi*) — “Blind guides.” Leaders lacking perception.  
+
+v23: βαρύτερα (*barytera*) — “Weightier.” More significant matters.  
+
+v24: διϋλίζοντες (*diulizontes*) — “Straining out.” Filtering carefully.  
+
+v25: ἀκρασία (*akrasia*) — “Self-indulgence.” Lack of self-control.  
 
 v27: κεκονιαμένοι (kekoniamenoi)
 “Whitewashed.” Covered to appear clean.
@@ -130,3 +146,15 @@ v33: γέεννα (geenna)
 
 v35: δίκαιος (dikaios)
 “Righteous.” One aligned with God’s standard.
+
+v37: ἐπισυνάξαι (*episynaxai*) — “Gather together.” Collect into protection.  
+
+v38: ἔρημος (*erēmos*) — “Desolate.” Abandoned, uninhabited.  
+
+v39: εὐλογημένος (*eulogēmenos*) — “Blessed.” One receiving divine favor.  
+
+v02: καθέδρα (kathedra)
+“Seat.” Position of teaching authority.
+
+v04: φορτία (phortia)
+“Burdens.” Obligations or demands.

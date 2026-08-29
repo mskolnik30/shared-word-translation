@@ -189,6 +189,81 @@ v62–66: guard and seal — Attempts to secure death become evidence of resurre
 
 ##Vocabulary
 
+v1: συμβούλιον (symboulion) — counsel; plotted decision
+
+v2: παραδίδωμι (paradidōmi) — to hand over; to deliver up
+
+v3: μεταμέλομαι (metamelomai) — to regret; to feel remorse (not the usual “repent” verb)
+
+v4: αἷμα ἀθῷον (haima athōon) — innocent blood
+
+v6: κορβανᾶς (korbanas) — temple treasury (corban)
+
+v6: τιμὴ αἵματος (timē haimatos) — blood money; price of blood
+
+v11: βασιλεύς (basileus) — king
+
+v11: Χριστός (christos)
+“Christ; anointed one; Messiah.”
+
+v12: κατηγορέω (katēgoreō) — to accuse
+
+v14: θαυμάζω (thaumazō) — to marvel; to be amazed
+
+v16: δέσμιος (desmios) — prisoner
+
+v18: φθόνος (phthonos) — envy; jealousy
+
+v19: ὄναρ (onar) — dream
+
+v22: σταυρόω (stauroō) — to crucify
+
+v24: νίπτω (niptō) — to wash
+
+v26: φραγελλόω (phragelloō) — to scourge; to whip
+
+v28: χλαμύς (chlamys) — cloak; robe
+
+v29: στέφανος ἐξ ἀκανθῶν (stephanos ex akanthōn) — crown of thorns
+
+v31: σταυρόω (stauroō) — to crucify
+
+v32: ἀγγαρεύω (angareuō) — to compel (to carry/serve)
+
+v33: Γολγοθᾶ (Golgotha) — Golgotha (Place of a Skull)
+
+v34: χολή (cholē) — gall; bitter substance
+
+v35: κλῆρος (klēros) — lot; casting lots
+
+v37: αἰτία (aitia) — charge; accusation
+
+v38: λῃστής (lēstēs) — bandit; insurgent; rebel
+
+v40: υἱὸς τοῦ θεοῦ (huios tou theou) — Son of God
+
+v45: σκότος (skotos) — darkness
+
+v46: ἐγκαταλείπω (egkataleipō) — to forsake; to abandon
+
+v50: ἀφίημι (aphiēmi) — to let go; to release (as in yielding up)
+
+v51: καταπέτασμα (katapetasma) — curtain; veil (temple)
+
+v54: ἑκατόνταρχος (hekatontarchos) — centurion
+
+v57: μαθητεύω (mathēteuō) — to become a disciple
+
+v59: σινδών (sindōn) — linen cloth
+
+v60: μνημεῖον (mnēmeion) — tomb; burial place
+
+v62: παρασκευή (paraskeuē) — Preparation (day of Preparation)
+
+v64: ἀσφαλίζω (asphalizō) — to secure; to make safe
+
+v66: σφραγίζω (sphragizō) — to seal
+
 v01: συμβούλιον (symboulion)
 “Counsel; plotted decision.”
 
@@ -200,6 +275,3 @@ v03: μεταμέλομαι (metamelomai)
 
 v04: αἷμα ἀθῷον (haima athōon)
 “Innocent blood.”
-
-v11: Χριστός (christos)
-“Christ; anointed one; Messiah.”

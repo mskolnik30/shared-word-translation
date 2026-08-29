@@ -165,6 +165,82 @@ v39–40: Mission continues beyond individual encounter.
 
 ##Vocabulary
 
+v1: διωγμός (diōgmos)  
+
+v1: “Persecution.”  
+
+v3: λυμαίνομαι (lymainomai)  
+
+v3: “To ravage.”  
+
+v4: εὐαγγελίζω (euangelizō)  
+
+v4: “To proclaim good news.”  
+
+v5: Χριστός (Christos)  
+
+v5: “Christ.”  
+
+v7: πνεῦμα ἀκάθαρτον  
+
+v7: “Unclean spirit.”  
+
+v9: μαγεύω (mageuō)  
+
+v9: “To practice magic.”  
+
+v12: βασιλεία (basileia)  
+
+v12: “Kingdom.”  
+
+v13: δύναμις (dynamis)  
+
+v13: “Power.”  
+
+v17: ἐπιτίθημι χεῖρας  
+
+v17: “To lay hands.”  
+
+v18: χρήματα (chrēmata)  
+
+v18: “Money.”  
+
+v20: ἀπώλεια (apōleia)  
+
+v20: “Destruction.”  
+
+v22: μετάνοια (metanoia)  
+
+v22: “Repentance.”  
+
+v23: χολή (cholē)  
+
+v23: “Gall.”  
+
+v26: ἄγγελος (angelos)  
+
+v26: “Angel.”  
+
+v29: προσκολλάω (proskollaō)  
+
+v29: “To join.”  
+
+v31: ὁδηγέω (hodēgeō)  
+
+v31: “To guide.”  
+
+v35: εὐαγγελίζω (euangelizō)  
+
+v35: “To proclaim good news.”  
+
+v38: βαπτίζω (baptizō)  
+
+v38: “To baptize.”  
+
+v39: ἁρπάζω (harpazō)  
+
+v39: “To carry away.”  
+
 v01: διωγμός (diōgmos)
 “Persecution.”
 

@@ -85,13 +85,19 @@ v25: “for our trespasses… for our setting right” — The same Greek constr
 ##Vocabulary
 
 v03: πίστις (pistis)
-“Trust; faith; faithfulness.” A central term throughout the chapter.
+“Trust; faith; faithfulness.” A central term throughout the chapter. TSW uses “trust” here to preserve the relational response to God’s promise while not excluding the term’s broader semantic range.
 
 v03: λογίζομαι (logizomai)
 “To count; reckon; consider.” Repeated throughout the chapter, especially in the language of trust and righteousness being “counted.”
 
+v13: σπέρμα (sperma)
+“Offspring; seed.” Repeated in the Abrahamic promise. TSW uses “offspring” to preserve the repeated term across the chapter.
+
 v15: παράβασις (parabasis)
 “Transgression; violation.” Refers to crossing or violating a defined boundary.
 
+v17: ζωοποιέω (zōopoieō)
+“To give life; make alive.” Used here of God giving life to the dead.
+
 v25: δικαίωσις (dikaiōsis)
-“Setting right; justification.” Refers to the act or result of being declared or established as right.
+“Setting right; justification.” Refers to the act or result of being declared or established as right. TSW renders the term “setting right” here while retaining its traditional theological sense in the vocabulary.v21: and being fully convinced that what God had promised, God was also able to do.

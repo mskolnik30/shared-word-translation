@@ -87,6 +87,50 @@ v21: Glory is located both “in the church” and “in Christ,” holding comm
 
 ##Vocabulary
 
+v2: οἰκονομία (oikonomia)  
+
+v2: “Stewardship” or “administration.” Management of what is entrusted.  
+
+v3: ἀποκάλυψις (apokalypsis)  
+
+v3: “Revelation.” Disclosure of what was hidden.  
+
+v6: συγκληρονόμος (synklēronomos)  
+
+v6: “Fellow heir.” One who shares inheritance.  
+
+v7: διακονία (diakonia)  
+
+v7: “Service” or “ministry.” Active participation in a task.  
+
+v8: ἀνεξιχνίαστος (anexichniastos)  
+
+v8: “Unsearchable.” Beyond tracing or full comprehension.  
+
+v10: πολυποίκιλος (polypoikilos)  
+
+v10: “Manifold.” Varied, multi-faceted.  
+
+v12: παρρησία (parrēsia)  
+
+v12: “Boldness.” Freedom of speech or confidence.  
+
+v16: ἔσω ἄνθρωπος (esō anthrōpos)  
+
+v16: “Inner person.” The inward aspect of being.  
+
+v17: κατοικέω (katoikeō)  
+
+v17: “To dwell.” To reside or settle.  
+
+v19: πλήρωμα (plērōma)  
+
+v19: “Fullness.” That which fills completely.  
+
+v20: ὑπερεκπερισσοῦ (hyperekperissou)  
+
+v20: “Exceedingly abundantly.” Beyond all measure.  
+
 v02: οἰκονομία (oikonomia)
 “Stewardship” or “administration.” Management of what is entrusted.
 

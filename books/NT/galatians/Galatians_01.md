@@ -96,6 +96,42 @@ v23–24: Transformation is mediated through testimony. The community interprets
 
 ##Vocabulary
 
+v1: ἀπόστολος (apostolos)  
+
+v1: “Apostle.” One sent with authority.  
+
+v4: αἰών (aiōn)  
+
+v4: “Age.” A present order or structure of reality.  
+
+v6: μετατίθημι (metatithēmi)  
+
+v6: “To turn away” or “transfer.” Suggests shifting allegiance.  
+
+v7: ταράσσω (tarassō)  
+
+v7: “To trouble.” To disturb or unsettle.  
+
+v8: ἀνάθεμα (anathema)  
+
+v8: “Accursed.” Set apart for judgment.  
+
+v10: δοῦλος (doulos)  
+
+v10: “Servant” or “slave.” One belonging to another.  
+
+v12: ἀποκάλυψις (apokalypsis)  
+
+v12: “Revelation.” Unveiling of what was hidden.  
+
+v14: παράδοσις (paradosis)  
+
+v14: “Tradition.” Received teaching or practice.  
+
+v15: ἀφορίζω (aphorizō)  
+
+v15: “To set apart.” To designate for a purpose.  
+
 v01: ἀπόστολος (apostolos)
 “Apostle.” One sent with authority.
 

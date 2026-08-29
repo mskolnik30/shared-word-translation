@@ -101,6 +101,69 @@ v31: Desire for “greater gifts” is affirmed, but immediately reframed toward
 
 ##Vocabulary
 
+v1: πνευματικός (pneumatikos)  
+“Spiritual.” Relating to the Spirit, not merely internal or immaterial.  
+
+v2: ἄγω (agō)  
+“To lead.” Often implies being guided or carried along.  
+
+v3: ἀνάθεμα (anathema)  
+“Accursed.” Set apart for destruction or rejection.  
+
+v3: κύριος (kyrios)  
+“Lord.” Title of authority and allegiance, central to confession.  
+
+v4: χάρισμα (charisma)  
+“Gift.” A gracious endowment given by God.  
+
+v5: διακονία (diakonia)  
+“Service.” Ministry or function carried out for others.  
+
+v6: ἐνέργημα (energēma)  
+“Working.” Effect or operation of power.  
+
+v7: φανέρωσις (phanerōsis)  
+“Manifestation.” Visible expression of the Spirit’s presence.  
+
+v8: σοφία (sophia)  
+“Wisdom.” Insight into divine truth or application.  
+
+v10: διακρίσεις (diakriseis)  
+“Discernments.” Ability to distinguish between spirits or influences.  
+
+v10: γένη γλωσσῶν (genē glōssōn)  
+“Kinds of tongues.” Varieties of speech beyond ordinary language.  
+
+v11: βούλομαι (boulomai)  
+“To will.” Intention or purpose.  
+
+v12: σῶμα (sōma)  
+“Body.” A unified whole composed of many parts.  
+
+v13: βαπτίζω (baptizō)  
+“To baptize.” Initiation into a shared reality.  
+
+v18: τίθημι (tithēmi)  
+“To place” or “to appoint.” Indicates deliberate arrangement.  
+
+v22: ἀσθενής (asthenēs)  
+“Weak.” Lacking strength, yet necessary.  
+
+v23: ἀτιμία (atimia)  
+“Dishonor.” Lack of honor or status.  
+
+v25: σχίσμα (schisma)  
+“Division.” A tear or split within a whole.  
+
+v27: μέλος (melos)  
+“Member.” A part belonging to a larger body.  
+
+v28: ἀπόστολος (apostolos)  
+“Apostle.” One sent with authority.  
+
+v31: ζηλόω (zēloō)  
+“To desire earnestly.” Can imply zeal or strong longing.  
+
 v01: πνευματικός (pneumatikos)
 “Spiritual.” Relating to the Spirit, not merely internal or immaterial.
 

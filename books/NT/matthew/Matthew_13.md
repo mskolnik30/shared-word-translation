@@ -208,8 +208,7 @@ v57–58: Familiarity obstructs recognition; unbelief limits reception, not powe
 
 ##Vocabulary
 
-v03: παραβολή (parabolē)
-“Parable.” Comparison that reveals and conceals.
+v3: παραβολή (*parabolē*) — “Parable.” Comparison that reveals and conceals.  
 
 v11: μυστήρια (mystēria)
 “Mysteries.” Revealed divine realities.
@@ -222,3 +221,30 @@ v19: ὁ πονηρός (ho ponēros)
 
 v21: θλῖψις (thlipsis)
 “Tribulation.” Pressure testing endurance.
+
+v22: μέριμνα (*merimna*) — “Care,” “anxiety.” Divided attention.  
+
+v24: ζιζάνια (*zizania*) — “Weeds” (tares). Indistinguishable until maturity.  
+
+v30: θερισμός (*therismos*) — “Harvest.” Time of final separation.  
+
+v32: δένδρον (*dendron*) — “Tree.” Image of expanded growth beyond expectation.  
+
+v33: ζύμη (*zymē*) — “Leaven.” Hidden permeating influence.  
+
+v38: κόσμος (*kosmos*) — “World.” Ordered human sphere.  
+
+v42: κάμινος (*kaminos*) — “Furnace.” Image of judgment.  
+
+v44: θησαυρός (*thēsauros*) — “Treasure.” Stored value.  
+
+v46: μαργαρίτης (*margaritēs*) — “Pearl.” Object of high worth.  
+
+v47: σαγήνη (*sagēnē*) — “Net.” Dragnet gathering indiscriminately.  
+
+v52: καινός / παλαιός (*kainos / palaios*) — “New / old.” Distinct yet held together.  
+
+v57: σκανδαλίζω (*skandalizō*) — “To take offense,” “to stumble.” Obstruction to belief.
+
+v03: παραβολή (parabolē)
+“Parable.” Comparison that reveals and conceals.

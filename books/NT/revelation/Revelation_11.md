@@ -93,6 +93,45 @@ v19: The temple is opened; what was hidden is now seen.
 
 ##Vocabulary
 
+v1: κάλαμος (kalamos)
+
+“Measuring rod.” Instrument for assessment or delineation.
+
+v2: ἔθνη (ethnē)
+
+“Nations.” Peoples outside defined covenant identity.
+
+v3: μάρτυς (martys)
+
+“Witness.” One who testifies, often at cost.
+
+v4: ἐλαία (elaia)
+
+“Olive tree.” Symbol associated with provision or anointing.
+
+v6: ἐξουσία (exousia)
+
+“Authority.” Delegated power to act.
+
+v7: θηρίον (thērion)
+
+“Beast.” A figure of opposition, not defined here.
+
+v8: πνευματικῶς (pneumatikōs)
+
+“Symbolically” or “spiritually.” Indicates layered meaning.
+
+v11: πνεῦμα ζωῆς (pneuma zōēs)
+
+“Breath of life.” Life given directly from God.
+
+v15: βασιλεία (basileia)
+“Kingdom.” Realm or reign, here unified.
+
+v18: ὀργή (orgē)
+
+“Wrath.” Directed response, not uncontrolled anger.
+
 v01: κάλαμος (kalamos)
 “Measuring rod.” Instrument for assessment or delineation.
 
@@ -101,6 +140,3 @@ v02: ἔθνη (ethnē)
 
 v03: μάρτυς (martys)
 “Witness.” One who testifies, often at cost.
-
-v15: βασιλεία (basileia)
-“Kingdom.” Realm or reign, here unified.

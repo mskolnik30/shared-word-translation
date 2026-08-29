@@ -62,6 +62,54 @@ v18: Outcome is relational; righteousness grows within peace.
 
 ##Vocabulary
 
+v5: γλῶσσα (glōssa)
+
+v5: “Tongue.” Instrument of speech.
+
+v6: κόσμος (kosmos)
+
+v6: “World.” Ordered system, here of unrighteousness.
+
+v6: γέεννα (geenna)
+
+v6: “Hell.” Place associated with judgment.
+
+v8: ἀκατάστατος (akatastatos)
+
+v8: “Restless.” Unstable or unsettled.
+
+v9: εἰκών (eikōn)
+
+v9: “Likeness.” Representation or image.
+
+v13: σοφία (sophia)
+
+v13: “Wisdom.” Skill in living rightly.
+
+v14: ζῆλος (zēlos)
+
+v14: “Jealousy.” Intense desire or rivalry.
+
+v14: ἐριθεία (eritheia)
+
+v14: “Selfish ambition.” Self-seeking pursuit.
+
+v15: ψυχικός (psychikos)
+
+v15: “Unspiritual.” Governed by natural life.
+
+v16: ἀκαταστασία (akatastasia)
+
+v16: “Disorder.” Instability or confusion.
+
+v17: εἰρηνικός (eirēnikos)
+
+v17: “Peaceable.” Inclined toward peace.
+
+v18: καρπός (karpos)
+
+v18: “Harvest” or “fruit.” Result or outcome.
+
 v05: γλῶσσα (glōssa)
 “Tongue.” Instrument of speech.
 

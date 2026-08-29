@@ -93,6 +93,38 @@ v23–24: Paul explains his delayed visit as restraint, not avoidance. Authority
 
 ##Vocabulary
 
+v3: παράκλησις (paraklēsis)  
+
+v3: “Comfort,” “encouragement,” or “consolation.” The word can carry both tenderness and strengthening.  
+
+v4: θλῖψις (thlipsis)  
+
+v4: “Affliction” or “pressure.” The term suggests distress that presses upon a person or community.  
+
+v6: ὑπομονή (hypomonē)  
+
+v6: “Patient endurance.” Not passive waiting, but steadfastness under pressure.  
+
+v9: ἀπόκριμα τοῦ θανάτου (apokrima tou thanatou)  
+
+v9: “Sentence of death.” The phrase conveys the felt finality of Paul’s crisis.  
+
+v12: ἁπλότης (haplotēs)  
+
+v12: “Sincerity” or “single-heartedness.” The word points to integrity without duplicity.  
+
+v17: ἐλαφρία (elaphria)  
+
+v17: “Fickleness.” Paul denies that his change of plans came from instability or unreliability.  
+
+v20: ἀμήν (amēn)  
+
+v20: “Amen.” A word of affirmation, here spoken through Christ to the glory of God.  
+
+v22: ἀρραβών (arrabōn)  
+
+v22: “First pledge” or “down payment.” The Spirit is given as the beginning and guarantee of what God will complete.  
+
 v03: παράκλησις (paraklēsis)
 “Comfort,” “encouragement,” or “consolation.” The word can carry both tenderness and strengthening.
 

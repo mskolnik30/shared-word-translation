@@ -109,6 +109,34 @@ v41: “your sin remains” — Responsibility is tied to claimed sight, not to 
 
 ##Vocabulary
 
+v1: τυφλός (typhlos) — blind, unable to see; functions both physically and metaphorically  
+
+v2: ἁμαρτάνω (hamartanō) — to sin, miss the mark  
+
+v3: φανερόω (phaneroō) — to reveal, make manifest  
+
+v4: ἔργα (erga) — works, deeds; actions that disclose divine purpose  
+
+v5: φῶς (phōs) — light; that which reveals and gives life  
+
+v7: Σιλωάμ (Silōam) — Siloam; associated with sending  
+
+v15: ἀναβλέπω (anablepō) — to recover sight, to see again  
+
+v16: σχίσμα (schisma) — division, rupture  
+
+v17: προφήτης (prophētēs)
+“Prophet, one who speaks on behalf of God.”
+
+v22: ἀποσυνάγωγος (aposynagōgos) — expelled from the synagogue  
+
+v25: μαρτυρία (martyria)
+“Testimony, witness.”
+
+v38: προσκυνέω (proskyneō) — to worship, show reverence  
+
+v39: κρίμα (krima) — judgment, decisive separation  
+
 v01: τυφλός (typhlos)
 “Blind, unable to see; functions both physically and metaphorically.”
 
@@ -117,9 +145,3 @@ v02: ἁμαρτάνω (hamartanō)
 
 v03: φανερόω (phaneroō)
 “To reveal, make manifest.”
-
-v17: προφήτης (prophētēs)
-“Prophet, one who speaks on behalf of God.”
-
-v25: μαρτυρία (martyria)
-“Testimony, witness.”

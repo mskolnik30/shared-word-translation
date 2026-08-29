@@ -59,6 +59,62 @@ v13: Love limits personal rights to prevent harm.
 
 ##Vocabulary
 
+v1: φυσιοόω (physioō)  
+
+v1: “To puff up.”  
+
+v1: οἰκοδομέω (oikodomeō)  
+
+v1: “To build up.”  
+
+v3: γινώσκω (ginōskō)  
+
+v3: “To know.”  
+
+v4: εἴδωλον (eidōlon)  
+
+v4: “Idol.”  
+
+v6: κύριος (kyrios)  
+
+v6: “Lord.”  
+
+v7: συνείδησις (syneidēsis)  
+
+v7: “Conscience.”  
+
+v7: μολύνω (molynō)  
+
+v7: “To defile.”  
+
+v8: παραστήνω (paristēmi)  
+
+v8: “To commend.”  
+
+v9: ἐξουσία (exousia)  
+
+v9: “Right, authority.”  
+
+v9: πρόσκομμα (proskomma)  
+
+v9: “Stumbling block.”  
+
+v10: ἀνακείμενος (anakeimenos)  
+
+v10: “Reclining.”  
+
+v11: ἀπόλλυμι (apollymi)  
+
+v11: “To destroy.”  
+
+v12: τύπτω (typtō)  
+
+v12: “To wound.”  
+
+v13: σκανδαλίζω (skandalizō)  
+
+v13: “To cause to stumble.”  
+
 v01: φυσιοόω (physioō)
 “To puff up.”
 

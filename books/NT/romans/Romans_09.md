@@ -147,14 +147,74 @@ v30–33: Faith, not works, determines righteousness.
 
 ##Vocabulary
 
+v1: συνείδησις (syneidēsis)
+
+“Conscience.”
+
+v3: ἀνάθεμα (anathema)
+
+“Accursed.”
+
+v4: υἱοθεσία (huiothesia)
+
+“Adoption.”
+
+v6: ἐκπίπτω (ekpiptō)
+
+“To fail.”
+
+v8: ἐπαγγελία (epangelia)
+
+“Promise.”
+
+v11: ἐκλογή (eklogē)
+
+“Election.”
+
+v15: ἐλεέω (eleeō)
+“To show mercy.”
+
+v16: τρέχω (trechō)
+
+“To run.”
+
+v18: σκληρύνω (sklērynō)
+
+“To harden.”
+
+v20: ἀνταποκρίνομαι
+
+“To answer back.”
+
+v21: κεραμεύς (kerameus)
+
+“Potter.”
+
+v22: ὀργή (orgē)
+
+“Wrath.”
+
+v23: πλοῦτος (ploutos)
+
+“Riches.”
+
+v24: καλέω (kaleō)
+
+“To call.”
+
+v30: δικαιοσύνη (dikaiosynē)
+“Righteousness.”
+
+v32: προσκόπτω (proskoptō)
+
+“To stumble.”
+
+v33: λίθος (lithos)
+
+“Stone.”
+
 v01: συνείδησις (syneidēsis)
 “Conscience.”
 
 v03: ἀνάθεμα (anathema)
 “Accursed.”
-
-v15: ἐλεέω (eleeō)
-“To show mercy.”
-
-v30: δικαιοσύνη (dikaiosynē)
-“Righteousness.”

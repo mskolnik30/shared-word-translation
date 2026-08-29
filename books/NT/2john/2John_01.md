@@ -64,6 +64,54 @@ v13: The closing maintains relational connection without expansion.
 
 ##Vocabulary
 
+v1: ἐκλεκτός (eklektos)  
+
+v1: “Chosen” or “elect.” One set apart.  
+
+v1: ἀλήθεια (alētheia)  
+
+v1: “Truth.” Reality expressed and lived.  
+
+v2: μένω (menō)  
+
+v2: “To abide.” To remain or continue.  
+
+v3: χάρις (charis)  
+
+v3: “Grace.” Favor given freely.  
+
+v4: περιπατέω (peripateō)  
+
+v4: “To walk.” To live or conduct oneself.  
+
+v5: ἐντολή (entolē)  
+
+v5: “Commandment.” Instruction to be followed.  
+
+v7: πλάνος (planos)  
+
+v7: “Deceiver.” One who leads astray.  
+
+v7: ἀντίχριστος (antichristos)  
+
+v7: “Antichrist.” One opposed to Christ.  
+
+v8: μισθός (misthos)  
+
+v8: “Reward.” What is received for work.  
+
+v9: διδαχή (didachē)  
+
+v9: “Teaching.” Instruction or doctrine.  
+
+v11: κοινωνέω (koinōneō)  
+
+v11: “To share.” To participate with.  
+
+v12: στόμα πρὸς στόμα (stoma pros stoma)  
+
+v12: “Face to face.” Direct interaction.  
+
 v01: ἐκλεκτός (eklektos)
 “Chosen” or “elect.” One set apart.
 

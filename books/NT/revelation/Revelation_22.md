@@ -60,8 +60,44 @@ v03: κατάθεμα (katathema)
 v04: πρόσωπον (prosōpon)
 “Face.” Direct presence or encounter.
 
+v05: φῶς (phōs)
+
+“Light.” Source of illumination and life.
+
 v06: πνεῦμα (pneuma)
 “Spirit.” Source or agent of revelation.
+
+v10: σφραγίζω (sphragizō)
+
+“To seal.” To close or conceal.
+
+v11: ἀδικέω (adikeō)
+
+“To do wrong.” To act unjustly.
+
+v12: μισθός (misthos)
+
+“Reward” or “recompense.” Payment for action.
+
+v14: ἐξουσία (exousia)
+
+“Right.” Authority or permission.
+
+v16: ῥίζα (rhiza)
+
+“Root.” Source or origin.
+
+v17: δωρεάν (dōrean)
+
+“Without price.” Freely given.
+
+v18: προστίθημι (prostithēmi)
+
+“To add.” To place alongside.
+
+v19: ἀφαιρέω (aphaireō)
+
+“To take away.” To remove or subtract.
 
 v21: χάρις (charis)
 “Grace.” Favor given freely.

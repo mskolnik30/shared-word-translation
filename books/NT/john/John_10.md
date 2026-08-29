@@ -95,6 +95,36 @@ v40–42: The return beyond the Jordan recalls earlier testimony, linking presen
 
 ##Vocabulary
 
+v1: κλέπτης (kleptēs)  
+“Thief.” One who takes secretly; contrasted with open, legitimate entry.  
+
+v3: φωνή (phōnē)  
+“Voice.” Carries recognition and authority; relational rather than merely auditory.  
+
+v9: θύρα (thyra)  
+“Door.” A point of access and transition; here metaphorically central.  
+
+v10: ζωή (zōē)
+“Life.” In John, often denotes life as participation in God, not mere existence.
+
+v11: καλός (kalos)
+“Good.” Connotes nobility, beauty, and fittingness—not only moral goodness.
+
+v15: γινώσκω (ginōskō)  
+“To know.” Indicates relational, experiential knowledge.  
+
+v18: ἐξουσία (exousia)  
+“Authority.” The capacity to act with legitimacy and power.  
+
+v27: ἀκολουθέω (akoloutheō)  
+“To follow.” Implies ongoing allegiance and movement, not a single decision.  
+
+v28: ἁρπάζω (harpazō)  
+“To snatch.” Suggests forceful removal; negated here to emphasize security.  
+
+v30: ἕν (hen)  
+“One.” Unity without specification of form, leaving the nature of oneness open within the text.  
+
 v01: κλέπτης (kleptēs)
 “Thief.” One who takes secretly; contrasted with open, legitimate entry.
 
@@ -103,9 +133,3 @@ v03: φωνή (phōnē)
 
 v09: θύρα (thyra)
 “Door.” A point of access and transition; here metaphorically central.
-
-v10: ζωή (zōē)
-“Life.” In John, often denotes life as participation in God, not mere existence.
-
-v11: καλός (kalos)
-“Good.” Connotes nobility, beauty, and fittingness—not only moral goodness.

@@ -69,6 +69,54 @@ v17: Knowledge increases responsibility.
 
 ##Vocabulary
 
+v1: ἡδονή (hēdonē)  
+
+v1: “Passion.” Desire or pleasure.  
+
+v2: φονεύω (phoneuō)  
+
+v2: “To murder.” To take life.  
+
+v4: φιλία (philia)  
+
+v4: “Friendship.” Close association.  
+
+v4: ἔχθρα (echthra)  
+
+v4: “Enmity.” Hostility.  
+
+v6: ταπεινός (tapeinos)  
+
+v6: “Humble.” Lowly in status or attitude.  
+
+v7: ὑποτάσσω (hypotassō)  
+
+v7: “To submit.” To place under authority.  
+
+v8: καθαρίζω (katharizō)  
+
+v8: “To cleanse.” To make clean.  
+
+v8: δίψυχος (dipsychos)  
+
+v8: “Double-minded.” Divided in allegiance.  
+
+v11: καταλαλέω (katalaleō)  
+
+v11: “To speak against.” To slander.  
+
+v14: ἀτμίς (atmis)  
+
+v14: “Mist.” Vapor or breath.  
+
+v16: καύχησις (kauchēsis)  
+
+v16: “Boasting.” Expression of pride.  
+
+v17: ἁμαρτία (hamartia)  
+
+v17: “Sin.” Missing the mark or wrongdoing.  
+
 v01: ἡδονή (hēdonē)
 “Passion.” Desire or pleasure.
 

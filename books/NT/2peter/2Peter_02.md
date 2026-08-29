@@ -82,6 +82,58 @@ v22: Proverbial imagery summarizes without interpretation.
 
 ##Vocabulary
 
+v1: ψευδοπροφήτης (pseudoprophētēs)  
+
+v1: “False prophet.” One who speaks falsely in a prophetic role.  
+
+v1: αἵρεσις (hairesis)  
+
+v1: “Heresy.” Division or chosen teaching.  
+
+v3: πλεονεξία (pleonexia)  
+
+v3: “Greed.” Desire for more.  
+
+v4: ταρταρόω (tartaroō)  
+
+v4: “To cast into Tartarus.” To confine in a place of judgment.  
+
+v7: δίκαιος (dikaios)  
+
+v7: “Righteous.” In alignment with what is right.  
+
+v10: κυριότης (kyriotēs)  
+
+v10: “Authority.” Lordship or dominion.  
+
+v12: ἄλογος (alogos)  
+
+v12: “Unreasoning.” Without rational thought.  
+
+v14: ἀκόρεστος (akorestos)  
+
+v14: “Insatiable.” Unable to be satisfied.  
+
+v15: ὁδός (hodos)  
+
+v15: “Way.” Path or pattern of life.  
+
+v17: ὀμίχλη (omichlē)  
+
+v17: “Mist.” Something without substance.  
+
+v19: δουλεία (douleia)  
+
+v19: “Slavery.” State of being bound.  
+
+v20: ἐμπλέκω (emplekō)  
+
+v20: “To entangle.” To become caught again.  
+
+v22: κύων (kyōn)  
+
+v22: “Dog.” Used in proverbial expression.  
+
 v01: ψευδοπροφήτης (pseudoprophētēs)
 “False prophet.” One who speaks falsely in a prophetic role.
 

@@ -68,6 +68,58 @@ v18: Growth is ongoing; conclusion returns to doxology.
 
 ##Vocabulary
 
+v1: ὑπόμνησις (hypomnēsis)  
+
+v1: “Reminder.” Bringing to mind again.  
+
+v3: ἐμπαίκτης (empaiktēs)  
+
+v3: “Scoffer.” One who mocks.  
+
+v5: λανθάνω (lanthanō)  
+
+v5: “To overlook.” To escape notice or be hidden.  
+
+v7: τηρέω (tēreō)  
+
+v7: “To keep.” To preserve or hold.  
+
+v8: χίλια ἔτη (chilia etē)  
+
+v8: “Thousand years.” Used comparatively, not literally.  
+
+v9: μακροθυμέω (makrothymeō)  
+
+v9: “To be patient.” To delay response.  
+
+v10: στοιχεῖον (stoicheion)  
+
+v10: “Element.” Basic component.  
+
+v11: ἀναλύω (analyō)  
+
+v11: “To dissolve.” To break apart.  
+
+v12: σπεύδω (speudō)  
+
+v12: “To hasten.” To urge forward.  
+
+v13: κατοικέω (katoikeō)  
+
+v13: “To dwell.” To reside.  
+
+v14: ἄμωμος (amōmos)  
+
+v14: “Without blemish.” Free from fault.  
+
+v16: στρεβλόω (strebloō)  
+
+v16: “To twist.” To distort.  
+
+v18: αὐξάνω (auxanō)  
+
+v18: “To grow.” To increase or develop.  
+
 v01: ὑπόμνησις (hypomnēsis)
 “Reminder.” Bringing to mind again.
 

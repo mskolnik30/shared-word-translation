@@ -98,6 +98,59 @@ v25–26: Covenant promise extends blessing through repentance.
 
 ##Vocabulary
 
+v2: ἐλεημοσύνη (eleēmosynē)  
+
+v2: “Alms.”  
+
+v6: ὄνομα (onoma)  
+
+v6: “Name.”  
+
+v7: στερεόω (stereoō)  
+
+v7: “To make strong.”  
+
+v10: θάμβος (thambos)
+“Amazement.”
+
+v10: “Amazement.”  
+
+v13: παῖς (pais)  
+
+v13: “Servant.”  
+
+v15: ἀρχηγός (archēgos)  
+
+v15: “Author, leader.”  
+
+v16: πίστις (pistis)  
+
+v16: “Faith.”  
+
+v18: προλέγω (prolegō)  
+
+v18: “To foretell.”  
+
+v19: μετανοέω (metanoeō)  
+
+v19: “To repent.”  
+
+v20: ἀνάψυξις (anapsyxis)  
+
+v20: “Refreshing.”  
+
+v21: ἀποκατάστασις (apokatastasis)  
+
+v21: “Restoration.”  
+
+v23: ἐξολεθρεύω (exolethreuō)  
+
+v23: “To destroy utterly.”  
+
+v25: διαθήκη (diathēkē)  
+
+v25: “Covenant.”  
+
 v02: ἐλεημοσύνη (eleēmosynē)
 “Alms.”
 
@@ -106,6 +159,3 @@ v06: ὄνομα (onoma)
 
 v07: στερεόω (stereoō)
 “To make strong.”
-
-v10: θάμβος (thambos)
-“Amazement.”

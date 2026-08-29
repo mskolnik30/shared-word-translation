@@ -143,10 +143,12 @@ v30–36: Roman intervention prevents immediate execution.
 
 ##Vocabulary
 
-v04: διὰ τοῦ πνεύματος (dia tou pneumatos)
+v4: διὰ τοῦ πνεύματος
+
 “Through the Spirit.”
 
-v08: εὐαγγελιστής (euangelistēs)
+v8: εὐαγγελιστής (euangelistēs)
+
 “Evangelist.”
 
 v11: δέω (deō)
@@ -157,3 +159,37 @@ v13: συντρίβω (syntribō)
 
 v14: θέλημα (thelēma)
 “Will.”
+
+v23: εὐχή (euchē)
+
+“Vow.”
+
+v24: ἁγνίζω (hagnizō)
+
+“To purify.”
+
+v28: βεβηλόω (bebēloō)
+
+“To defile.”
+
+v31: σύγχυσις (synchysis)
+
+“Confusion.”
+
+v33: ἅλυσις (halysis)
+
+“Chain.”
+
+v34: θόρυβος (thorybos)
+
+“Uproar.”
+
+v36: αἴρω (airō)
+
+“Away with.”
+
+v04: διὰ τοῦ πνεύματος (dia tou pneumatos)
+“Through the Spirit.”
+
+v08: εὐαγγελιστής (euangelistēs)
+“Evangelist.”

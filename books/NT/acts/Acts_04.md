@@ -142,14 +142,44 @@ v36–37: Barnabas exemplifies voluntary generosity.
 v28: προορίζω (proorizō)
 “To predestine.”
 
+v28: “To predestine.”  
+
 v29: παρρησία (parrēsia)
 “Boldness.”
+
+v29: “Boldness.”  
 
 v30: σημεῖον (sēmeion)
 “Sign.”
 
+v30: “Sign.”  
+
 v31: σαλεύω (saleuō)
 “To shake.”
 
+v31: “To shake.”  
+
 v32: ψυχή (psychē)
 “Soul.”
+
+v32: “Soul.”  
+
+v33: χάρις (charis)  
+
+v33: “Grace.”  
+
+v34: ἔνδεια (endeia)  
+
+v34: “Need, lack.”  
+
+v35: διαδίδωμι (diadidōmi)  
+
+v35: “To distribute.”  
+
+v36: παράκλησις (paraklēsis)  
+
+v36: “Encouragement.”  
+
+v37: τίθημι (tithēmi)  
+
+v37: “To lay, place.”

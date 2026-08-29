@@ -73,6 +73,58 @@ v20: Access is mediated; role is defined through prior category.
 
 ##Vocabulary
 
+v1: τελειότης (teleiotēs)  
+
+v1: “Maturity.” State of completeness.  
+
+v1: μετάνοια (metanoia)  
+
+v1: “Repentance.” Change of mind or direction.  
+
+v2: βάπτισμα (baptisma)  
+
+v2: “Washings.” Ritual cleansing.  
+
+v4: φωτίζω (phōtizō)  
+
+v4: “To enlighten.” To bring into light.  
+
+v4: γεύομαι (geuomai)  
+
+v4: “To taste.” To experience.  
+
+v5: δύναμις (dynamis)  
+
+v5: “Power.” Force or capability.  
+
+v6: παραπίπτω (parapiptō)  
+
+v6: “To fall away.” To deviate.  
+
+v7: πίω (piō)  
+
+v7: “To drink.” To receive.  
+
+v8: ἀδόκιμος (adokimos)  
+
+v8: “Worthless.” Not approved.  
+
+v12: μιμητής (mimētēs)  
+
+v12: “Imitator.” One who follows example.  
+
+v16: ὅρκος (horkos)  
+
+v16: “Oath.” Binding statement.  
+
+v19: ἄγκυρα (ankyra)  
+
+v19: “Anchor.” Means of stability.  
+
+v20: πρόδρομος (prodromos)  
+
+v20: “Forerunner.” One who goes ahead.  
+
 v01: τελειότης (teleiotēs)
 “Maturity.” State of completeness.
 

@@ -108,3 +108,24 @@ v30: The father addresses him as “child,” affirming belonging without contes
 v31: The final line reframes necessity: celebration is not optional sentiment but required response. The story ends without resolution, leaving the listener—especially the grumbling ones—inside the unanswered question of whether they will enter the joy.
 
 ##Vocabulary
+
+v1: ἁμαρτωλοί (hamartōloi)
+Often translated “sinners,” this term refers broadly to those perceived as outside acceptable religious or social boundaries. In Luke, it functions as a relational category—those marked as unfit for proximity—rather than a precise moral inventory.
+
+v2: διαγογγύζω (diagongyzō)
+Translated as “grumbling,” this verb echoes Israel’s wilderness complaints in the Septuagint. Luke invokes a familiar pattern: resistance not to wrongdoing, but to God’s generosity and nearness.
+
+v4, v6, v9: εὑρίσκω (heuriskō)
+“To find.” The verb emphasizes successful searching rather than accidental discovery. In each parable, finding leads immediately to communal rejoicing, linking recovery and celebration as inseparable acts.
+
+v7, v10: μετάνοια (metanoia)
+Commonly translated “repentance,” the word literally means a change of mind or orientation. Luke does not define its mechanics here, allowing repentance to be understood as restored relationship rather than quantified reform.
+
+v12: οὐσία (ousia)
+Rendered “property” or “livelihood,” this term refers to one’s substance or means of life. The father’s division of ousia is not merely financial; it is a sharing of what sustains the household.
+
+v13: ἀσώτως (asōtōs)
+Translated as “disordered living” or “reckless living,” the adverb describes lack of orientation or saving restraint. The emphasis is on dissipation rather than specific vices.
+
+v17: εἰς ἑαυτὸν δὲ ἐλθὼν (eis heauton de elthōn)
+Literally, “coming to himself.” The phrase signals recovery of self-understanding before moral correction. Repentance begins with re-remembered identity.

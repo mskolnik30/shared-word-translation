@@ -55,6 +55,36 @@ v20: Interpretation is given selectively; symbols are explained, but not exhaust
 
 ##Vocabulary
 
+v1: ἀποκάλυψις (apokalypsis)  
+“Revelation” or “unveiling.” Emphasizes disclosure rather than prediction.  
+
+v3: τηρέω (tēreō)  
+“To keep.” Implies guarding, observing, and remaining within what is heard.  
+
+v4: χάρις (charis)  
+“Grace.” Gifted favor that establishes relationship rather than reward.  
+
+v5: μάρτυς (martys)  
+“Witness.” One who testifies, often at cost; not merely observer.  
+
+v7: κόπτω (koptō)  
+“To wail.” Expresses public lament rather than private grief.  
+
+v10: ἐν πνεύματι (en pneumati)
+“In the Spirit.” Indicates a mode of perception beyond ordinary sight.
+
+v13: υἱὸς ἀνθρώπου (huios anthrōpou)  
+“Son of man.” A figure shaped by scriptural tradition without singular definition.  
+
+v16: ῥομφαία (rhomphaia)  
+“A large sword.” Suggests decisive, penetrating force.  
+
+v18: κλεῖς (kleis)  
+“Keys.” Symbol of authority to open and shut; control over access.  
+
+v20: μυστήριον (mystērion)  
+“Mystery.” Not hidden permanently, but disclosed selectively.  
+
 v01: ἀποκάλυψις (apokalypsis)
 “Revelation” or “unveiling.” Marks disclosure rather than prediction.
 
@@ -63,6 +93,3 @@ v04: χάρις (charis)
 
 v05: μάρτυς (martys)
 “Witness.” One who testifies, often at cost; not merely observer.
-
-v10: ἐν πνεύματι (en pneumati)
-“In the Spirit.” Indicates a mode of perception beyond ordinary sight.

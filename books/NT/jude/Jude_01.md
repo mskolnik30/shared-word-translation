@@ -105,6 +105,54 @@ v24–25: The doxology attributes all agency to God.
 
 ##Vocabulary
 
+v1: δοῦλος (doulos)
+
+“Servant.” One who belongs to another.
+
+v3: ἐπαγωνίζομαι (epagōnizomai)
+
+“To contend.” To struggle or strive earnestly.
+
+v4: ἀσέβεια (asebeia)
+
+“Ungodliness.” Lack of reverence.
+
+v6: δεσμός (desmos)
+
+“Chain.” Instrument of restraint.
+
+v7: πυρὸς αἰωνίου (pyros aiōniou)
+
+“Eternal fire.” Ongoing judgment.
+
+v9: ἐπιτιμάω (epitimaō)
+
+“To rebuke.” To correct or restrain.
+
+v11: ὁδός (hodos)
+
+“Way.” Path or pattern of action.
+
+v12: σπιλάς (spilas)
+
+“Reef.” Hidden danger.
+
+v14: μυριάς (myrias)
+
+“Ten thousands.” Innumerable quantity.
+
+v19: ψυχικός (psychikos)
+
+“Worldly.” Governed by natural life.
+
+v21: ἀγάπη (agapē)
+
+“Love.” Relational commitment.
+
+v24: ἄπταιστος (aptaistos)
+
+“Without stumbling.” Preserved from falling.
+
 v01: δοῦλος (doulos)
 “Servant.” One who belongs to another.
 

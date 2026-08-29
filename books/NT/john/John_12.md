@@ -205,6 +205,80 @@ v48–50: Final judgment is mediated through Jesus’ word.
 
 ##Vocabulary
 
+v3: μύρον (myron)
+
+“Perfume.”
+
+v4: Ἰσκαριώτης (Iskariōtēs)
+
+“Iscariot.”
+
+v6: γλωσσόκομον (glōssokomon)
+
+“Money box.”
+
+v13: ὡσαννά (hōsanna)
+
+“Hosanna.”
+
+v15: πῶλος (pōlos)
+
+“Colt.”
+
+v17: μαρτυρέω (martyreō)
+“To bear witness.”
+
+v23: δοξάζω (doxazō)
+
+“To glorify.”
+
+v24: κόκκος (kokkos)
+
+“Grain.”
+
+v25: ψυχή (psychē)
+
+“Life.”
+
+v27: ταράσσω (tarassō)
+
+“To trouble.”
+
+v31: κρίσις (krisis)
+
+“Judgment.”
+
+v32: ὑψόω (hypsōō)
+
+“To lift up.”
+
+v35: φῶς (phōs)
+
+“Light.”
+
+v40: πωρόω (pōroō)
+
+“To harden.”
+
+v42: ὁμολογέω (homologeō)
+
+“To confess.”
+
+v43: δόξα (doxa)
+“Glory.”
+
+v47: σώζω (sōzō)
+
+“To save.”
+
+v48: κρίνω (krinō)
+
+“To judge.”
+
+v50: ἐντολή (entolē)
+
+“Commandment.”
+
 v03: μύρον (myron)
 “Perfume.”
 
@@ -213,9 +287,3 @@ v04: Ἰσκαριώτης (Iskariōtēs)
 
 v06: γλωσσόκομον (glōssokomon)
 “Money box.”
-
-v17: μαρτυρέω (martyreō)
-“To bear witness.”
-
-v43: δόξα (doxa)
-“Glory.”

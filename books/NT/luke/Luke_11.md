@@ -198,6 +198,81 @@ v53–54: Opposition intensifies into active entrapment.
 
 ##Vocabulary
 
+v2: ἁγιάζω (hagiazō)
+
+“To make holy.”
+
+v4: ὀφειλέτης (opheiletēs)
+
+“Debtor.”
+
+v4: πειρασμός (peirasmos)
+
+“Testing.”
+
+v8: ἀναίδεια (anaideia)
+
+“Persistence, shameless boldness.”
+
+v9: αἰτέω (aiteō)
+
+“To ask.”
+
+v10: ζητέω (zēteō)
+
+“To seek.”
+
+v13: πνεῦμα ἅγιον (pneuma hagion)
+“Holy Spirit.”
+
+v15: Βεελζεβούλ (Beelzeboul)
+
+“Beelzebul.”
+
+v20: δάκτυλος θεοῦ (daktylos theou)
+
+“Finger of God.”
+
+v23: σκορπίζω (skorpizō)
+
+“To scatter.”
+
+v24: ἄνυδρος (anydros)
+
+“Waterless.”
+
+v28: τηρέω (tēreō)
+
+“To keep.”
+
+v29: γενεά (genea)
+
+“Generation.”
+
+v34: ἁπλοῦς (haplous)
+
+“Healthy, single.”
+
+v39: ἁρπαγή (harpagē)
+
+“Greed.”
+
+v42: ἀγάπη (agapē)
+
+“Love.”
+
+v46: φορτίζω (phortizō)
+
+“To load, burden.”
+
+v52: κλεὶς (kleis)
+
+“Key.”
+
+v54: θηρεύω (thēreuō)
+
+“To trap.”
+
 v02: ἁγιάζω (hagiazō)
 “To make holy.”
 
@@ -209,6 +284,3 @@ v04: πειρασμός (peirasmos)
 
 v08: ἀναίδεια (anaideia)
 “Persistence, shameless boldness.”
-
-v13: πνεῦμα ἅγιον (pneuma hagion)
-“Holy Spirit.”

@@ -84,6 +84,78 @@ v19–20: Body as temple establishes basis for ethical conduct.
 
 ##Vocabulary
 
+v1: κρίνω (krinō)  
+
+v1: “To judge.”  
+
+v2: ἅγιος (hagios)  
+
+v2: “Holy one.”  
+
+v4: ἐξουθενημένος (exouthenēmenos)  
+
+v4: “Of no account.”  
+
+v7: ἥττημα (hēttēma)  
+
+v7: “Defeat.”  
+
+v8: ἀδικέω (adikeō)  
+
+v8: “To wrong.”  
+
+v9: ἄδικος (adikos)  
+
+v9: “Unrighteous.”  
+
+v9: εἰδωλολάτρης (eidōlolatrēs)  
+
+v9: “Idolater.”  
+
+v10: πλεονέκτης (pleonektēs)  
+
+v10: “Greedy.”  
+
+v11: ἀπολούω (apolouō)  
+
+v11: “To wash.”  
+
+v11: ἁγιάζω (hagiazō)  
+
+v11: “To sanctify.”  
+
+v11: δικαιόω (dikaioō)  
+
+v11: “To justify.”  
+
+v12: ἐξουσιάζω (exousiazō)  
+
+v12: “To be mastered by.”  
+
+v13: σῶμα (sōma)  
+
+v13: “Body.”  
+
+v16: κολλάω (kollaō)  
+
+v16: “To join.”  
+
+v17: ἓν πνεῦμα  
+
+v17: “One spirit.”  
+
+v18: φεύγω (pheugō)  
+
+v18: “To flee.”  
+
+v19: ναός (naos)  
+
+v19: “Temple.”  
+
+v20: τιμή (timē)  
+
+v20: “Price, value.”  
+
 v01: κρίνω (krinō)
 “To judge.”
 

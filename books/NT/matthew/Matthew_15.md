@@ -122,17 +122,37 @@ v37: Numerical variation (seven baskets) signals distinct event, not duplication
 
 ##Vocabulary
 
+v2: παράδοσις (*paradosis*) — “Tradition.” Received teaching or practice.  
+
+v4: τίμα (*tima*) — “Honor.” Assign weight, value, or obligation.  
+
+v7: ὑποκριταί (*hypokritai*) — “Hypocrites.” Actors; those performing outward roles.  
+
+v11: κοινοῖ (koinoi)
+“Defiles.” Makes common, unclean, or profaned.
+
+v18: καρδία (*kardia*) — “Heart.” Center of will, thought, and moral action.  
+
+v19: διαλογισμοί (*dialogismoi*) — “Thoughts,” “reasonings.” Internal deliberations.  
+
+v22: ἐλέησόν (eleēson)
+“Have mercy.” Appeal for compassionate action.
+
+v27: κυνάρια (*kynaria*) — “Dogs” (diminutive). Household animals, not wild scavengers.  
+
+v28: πίστις (pistis)
+“Faith.” Trust expressed through action and persistence.
+
+v30: κυλλούς (*kyllous*) — “Crippled.” Severely impaired or maimed.  
+
+v32: σπλαγχνίζομαι (*splanchnizomai*) — “Have compassion.” Deep emotional movement toward care.  
+
+v36: εὐχαριστήσας (*eucharistēsas*) — “Having given thanks.” Expression of gratitude before provision.  
+
+v37: σπυρίδες (*spyrides*) — “Large baskets.” Distinct from earlier smaller baskets.  
+
 v02: παράδοσις (paradosis)
 “Tradition.” Received teaching or practice.
 
 v04: τίμα (tima)
 “Honor.” Assign weight, value, or obligation.
-
-v11: κοινοῖ (koinoi)
-“Defiles.” Makes common, unclean, or profaned.
-
-v22: ἐλέησόν (eleēson)
-“Have mercy.” Appeal for compassionate action.
-
-v28: πίστις (pistis)
-“Faith.” Trust expressed through action and persistence.

@@ -79,6 +79,46 @@ v15: The closing shifts from human gift to divine gift, without specifying its f
 
 ##Vocabulary
 
+v5: εὐλογία (eulogia)  
+
+v5: “Blessing.” A gift that carries favor or benefit.  
+
+v6: σπείρω (speirō)  
+
+v6: “To sow.” Used metaphorically for initiating action with future result.  
+
+v7: προαιρέομαι (proaireomai)  
+
+v7: “To decide beforehand.” A deliberate internal resolve.  
+
+v7: ἱλαρός (hilaros)  
+
+v7: “Cheerful.” Willing and freely given, not coerced.  
+
+v8: αὐτάρκεια (autarkeia)  
+
+v8: “Sufficiency.” Having enough, often with connotation of contentment.  
+
+v9: σκορπίζω (skorpizō)  
+
+v9: “To scatter” or “distribute.” Giving without hoarding.  
+
+v10: χορηγέω (chorēgeō)  
+
+v10: “To supply.” To provide what is needed for action.  
+
+v11: ἁπλότης (haplotēs)  
+
+v11: “Generosity” or “simplicity.” Open-handedness without duplicity.  
+
+v12: λειτουργία (leitourgia)  
+
+v12: “Service” or “ministry.” Often with communal or public dimension.  
+
+v15: ἀνεκδιήγητος (anekdiēgētos)  
+
+v15: “Indescribable.” Beyond full expression or narration.  
+
 v05: εὐλογία (eulogia)
 “Blessing.” A gift that carries favor or benefit.
 

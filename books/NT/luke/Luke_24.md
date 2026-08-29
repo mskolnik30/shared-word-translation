@@ -125,17 +125,47 @@ v51–53: “blessed them… great joy” — The departure of Jesus is not loss
 
 ##Vocabulary
 
-v03: σῶμα (sōma)
-“Body.”
+v3: σῶμα (sōma) — body  
+
+v5: ζάω (zaō) — to live  
+
+v6: ἐγείρω (egeirō) — to raise; to awaken  
+
+v11: λῆρος (lēros) — nonsense; idle talk  
+
+v16: κρατέω (krateō) — to hold fast; to restrain  
 
 v21: λυτρόω (lytroō)
 “To redeem; to set free.”
 
+v25: καρδία (kardia) — heart; inner life; center of will  
+
+v27: διερμηνεύω (diermēneuō) — to interpret; to explain  
+
 v30: εὐλογέω (eulogeō)
 “To bless.”
+
+v31: ἀνοίγω (anoigō) — to open  
+
+v32: καιομένη (kaiomenē) — burning; set on fire  
 
 v36: εἰρήνη (eirēnē)
 “Peace; wholeness.”
 
+v38: διαλογισμός (dialogismos) — doubt; inner questioning  
+
+v45: νοῦς (nous) — mind; understanding  
+
+v47: μετάνοια (metanoia) — repentance; change of mind and direction  
+
+v47: ἄφεσις (aphesis) — forgiveness; release  
+
 v48: μάρτυς (martys)
 “Witness.”
+
+v49: δύναμις (dynamis) — power; capacity; ability  
+
+v51: ἀναφέρω (anapherō) — to be taken up; to carry upward  
+
+v03: σῶμα (sōma)
+“Body.”

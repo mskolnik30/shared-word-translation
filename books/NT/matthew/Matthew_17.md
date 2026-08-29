@@ -78,6 +78,25 @@ v26–27: Freedom and concession are held together. Jesus asserts status while c
 
 ##Vocabulary
 
+v2: μετεμορφώθη (metemorphōthē) — was transfigured; a change in form without explanation of mechanism.
+
+v5: νεφέλη (nephelē) — cloud; a traditional marker of divine presence and concealment.
+
+v5: ἀκούω (akouō) — to listen; to hear; implies obedience rather than mere perception.
+
+v17: ἄπιστος (apistos) — faithless; untrusting; denotes relational failure rather than intellectual doubt.
+
+v20: πίστις (pistis)
+“Trust; reliance; framed here in terms of proportion, not quantity.”
+
+v22: παραδίδοται (paradidotai) — is handed over; passive form emphasizing inevitability rather than agency.
+
+v24: δίδραχμον (didrachmon) — temple tax; a religious obligation tied to communal identity.
+
+v26: ἐλεύθεροι (eleutheroi) — free; not subject to obligation; used relationally rather than politically.
+
+v27: σκανδαλίζω (skandalizō) — to cause offense; to place a stumbling block; motivates accommodation.
+
 v02: μετεμορφώθη (metemorphōthē)
 “Was transfigured; a change in form without explanation of mechanism.”
 
@@ -86,6 +105,3 @@ v05: νεφέλη (nephelē)
 
 v05: ἀκούω (akouō)
 “To listen; to hear; implies obedience rather than mere perception.”
-
-v20: πίστις (pistis)
-“Trust; reliance; framed here in terms of proportion, not quantity.”

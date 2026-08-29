@@ -91,6 +91,46 @@ v19–20: The community itself is Paul’s “crown,” redefining success relat
 
 ##Vocabulary
 
+v2: παρρησία (parrēsia)  
+
+v2: “Boldness.” Freedom and confidence in speech.  
+
+v3: πλάνη (planē)  
+
+v3: “Error.” Deviation from truth.  
+
+v4: δοκιμάζω (dokimazō)  
+
+v4: “To test.” To examine for authenticity.  
+
+v5: πρόφασις (prophasis)  
+
+v5: “Pretext.” An outward justification masking true intent.  
+
+v7: τροφός (trophos)  
+
+v7: “Nursing mother.” One who nourishes and cares.  
+
+v9: κόπος (kopos)  
+
+v9: “Labor.” Exhausting work.  
+
+v12: παρακαλέω (parakaleō)  
+
+v12: “To exhort.” To encourage or urge.  
+
+v13: ἐνεργέω (energeō)  
+
+v13: “To be at work.” To operate effectively.  
+
+v17: ἀπορφανίζω (aporphanizō)  
+
+v17: “To be torn away.” To be separated like an orphan.  
+
+v19: στέφανος (stephanos)  
+
+v19: “Crown.” Symbol of honor or reward.  
+
 v02: παρρησία (parrēsia)
 “Boldness.” Freedom and confidence in speech.
 

@@ -222,6 +222,68 @@ v57–62: Following Jesus demands priority over security, obligation, and social
 
 ##Vocabulary
 
+v1: δύναμις (dynamis)
+
+“Power.”
+
+v1: ἐξουσία (exousia)
+
+“Authority.”
+
+v2: κηρύσσω (kēryssō)
+
+“To proclaim.”
+
+v5: μαρτύριον (martyrion)
+
+“Testimony.”
+
+v16: εὐλογέω (eulogeō)
+“To bless.”
+
+v20: χριστός (christos)
+“Christ, anointed one.”
+
+v22: δεῖ (dei)
+
+“It is necessary.” Expression of divine necessity.
+
+v23: ἀπαρνέομαι (aparneomai)
+
+“To deny.”
+
+v23: σταυρός (stauros)
+
+“Cross.”
+
+v31: ἔξοδος (exodos)
+
+“Departure.”
+
+v35: ἐκλέγομαι (eklegomai)
+
+“To choose.”
+
+v41: διαστρέφω (diastrephō)
+
+“To distort, twist.”
+
+v44: παραδίδωμι (paradidōmi)
+
+“To hand over.”
+
+v48: μικρός (mikros)
+
+“Least, small.”
+
+v51: πρόσωπον στηρίζω (prosōpon stērizō)
+
+“To set the face.” To fix determination.
+
+v62: εὔθετος (euthetos)
+
+“Fit, suitable.”
+
 v01: δύναμις (dynamis)
 “Power.”
 
@@ -230,9 +292,3 @@ v01: ἐξουσία (exousia)
 
 v02: κηρύσσω (kēryssō)
 “To proclaim.”
-
-v16: εὐλογέω (eulogeō)
-“To bless.”
-
-v20: χριστός (christos)
-“Christ, anointed one.”

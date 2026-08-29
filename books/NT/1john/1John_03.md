@@ -84,6 +84,9 @@ v24: “remains in him, and he in them” — The reciprocal language of remaini
 
 ##Vocabulary
 
+v01: τέκνα θεοῦ (tekna theou)
+“Children of God.” The language emphasizes origin and belonging within a family relationship.
+
 v03: ἁγνίζω (hagnizō)
 “To purify.” To make or keep oneself pure. The term is connected here with hope and with the purity of Christ.
 
@@ -93,5 +96,29 @@ v04: ἀνομία (anomia)
 v04: ἁμαρτία (hamartia)
 “Sin.” A central term in the chapter, appearing both for sinful action and for the reality opposed to God’s righteousness.
 
+v06: μένω (menō)
+“To remain,” “abide,” or “stay.” A major Johannine term describing continuing relational presence and belonging.
+
 v07: δικαιοσύνη (dikaiosynē)
 “Righteousness.” What accords with what is right before God. In this chapter righteousness is something practiced as well as attributed.
+
+v09: σπέρμα (sperma)
+“Seed.” The metaphor denotes that which comes from God and remains in the one born of God. The text does not further identify it.
+
+v11: ἀγαπάω (agapaō)
+“To love.” The chapter defines love through concrete self-giving action rather than sentiment alone.
+
+v16: ψυχή (psychē)
+“Life” or “self.” In the expression “lay down his life,” the word refers to one’s life given for another.
+
+v18: ἔργον (ergon)
+“Deed” or “work.” Concrete action, contrasted here with love expressed only in words.
+
+v21: παρρησία (parrēsia)
+“Confidence,” “boldness,” or “openness.” Freedom to stand and speak openly before another, here specifically before God.
+
+v23: πιστεύω (pisteuō)
+“To trust” or “believe.” Here the verb describes trust directed toward the name of God’s Son, Jesus Christ.
+
+v23: ἐντολή (entolē)
+“Commandment.” An authoritative instruction. In this passage the singular commandment joins trust in Jesus Christ with love for one another.

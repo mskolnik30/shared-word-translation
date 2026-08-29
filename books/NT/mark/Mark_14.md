@@ -224,6 +224,84 @@ v72: Peter’s grief fulfills Jesus’ word and leaves repentance unresolved wit
 
 ##Vocabulary
 
+v1: δόλος (dolos)
+
+“Stealth, deceit.” Hidden strategy marked by manipulation.
+
+v3: μύρον (myron)
+
+“Ointment.” Fragrant oil used for honor, devotion, and burial.
+
+v3: νάρδος (nardos)
+
+“Nard.” Costly aromatic perfume.
+
+v6: καλὸν ἔργον (kalon ergon)
+
+“Beautiful work.” An act good in form, meaning, and devotion.
+
+v8: ἐνταφιασμός (entaphiasmos)
+
+“Burial preparation.” Anointing associated with death and burial.
+
+v10: παραδίδωμι (paradidōmi)
+
+“To hand over.” A key passion verb for betrayal and arrest.
+
+v12: πάσχα (pascha)
+“Passover.” Feast recalling deliverance and sacrifice.
+
+v22: ἄρτος (artos)
+
+“Bread.” Ordinary food here taken into covenantal signification.
+
+v24: διαθήκη (diathēkē)
+“Covenant.” Binding divine arrangement or testament.
+
+v24: ἐκχύννω (ekchynnō)
+
+“To pour out.” Used of blood given in death.
+
+v27: σκανδαλίζω (skandalizō)
+
+“To fall away, stumble.” Failure under pressure.
+
+v32: Γεθσημανί (Gethsēmani)
+
+“Gethsemane.” Place-name associated with Jesus’ prayer and anguish.
+
+v34: περίλυπος (perilypos)
+
+“Deeply grieved.” Surrounded or overwhelmed by sorrow.
+
+v36: ποτήριον (potērion)
+
+“Cup.” Image of suffering appointed to be received.
+
+v38: πειρασμός (peirasmos)
+
+“Testing, trial.” Pressure that exposes and threatens fidelity.
+
+v51: σινδών (sindōn)
+
+“Linen cloth.” A fine cloth, here all that remains as the young man flees.
+
+v61: σιωπάω (siōpaō)
+
+“To be silent.” Refusal to answer accusation.
+
+v62: δύναμις (dynamis)
+
+“Power.” Here used reverently in reference to God.
+
+v64: βλασφημία (blasphēmia)
+
+“Blasphemy.” Speech judged to dishonor God.
+
+v72: ἐπιβάλλω (epiballō)
+
+“To break down, throw oneself upon.” In context, collapse into weeping.
+
 v01: δόλος (dolos)
 “Stealth, deceit.” Hidden strategy marked by manipulation.
 
@@ -235,9 +313,3 @@ v03: νάρδος (nardos)
 
 v06: καλὸν ἔργον (kalon ergon)
 “Beautiful work.” An act good in form, meaning, and devotion.
-
-v12: πάσχα (pascha)
-“Passover.” Feast recalling deliverance and sacrifice.
-
-v24: διαθήκη (diathēkē)
-“Covenant.” Binding divine arrangement or testament.

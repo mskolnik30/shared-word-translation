@@ -110,17 +110,47 @@ The climactic assurance rests entirely on God’s love in Christ. Human trust is
 
 ##Vocabulary
 
-v02: νόμος (nomos)
+v1: κατάκριμα (katakrima)
+“Condemnation.” A judicial verdict of judgment. Its negation here is absolute, grounding assurance in God’s action rather than human consistency.
+
+v2: νόμος (nomos)
 “Law.” Used metaphorically to name a governing power or operative principle. The contrast is between rival dominions, not merely legal systems.
 
-v03: σάρξ (sarx)
+v3: σάρξ (sarx)
 “Flesh.” Refers to human life ordered apart from God, not the physical body itself. The term names a sphere of power rather than material substance.
+
+v6: φρόνημα (phronēma)
+“Mindset.” Denotes orientation or disposition. Life and death are framed as outcomes of allegiance rather than isolated choices.
 
 v10: ζωή (zōē)
 “Life.” Not mere biological existence, but life oriented toward God and sustained by the Spirit.
+
+v14: υἱοί (huioi)
+“Children.” A relational designation of belonging and status. The term emphasizes inheritance rather than maturity or merit.
+
+v15: υἱοθεσία (huiothesia)
+“Adoption.” A legal and relational act establishing belonging. It names received identity rather than achieved position.
 
 v18: δόξα (doxa)
 “Glory.” God’s radiant presence and future disclosure. Glory is promised, not earned, and is set in contrast to present suffering.
 
 v23: ἀπολύτρωσις (apolytrōsis)
+“Redemption.” Liberation by costly action. Here it refers to bodily renewal, resisting spiritualized readings of salvation.
+
+v23: ἀπολύτρωσις (apolytrōsis)
 “Redemption; release.” Here the term refers specifically to the body.
+
+v26: στεναγμοί (stenagmoi)
+“Groanings.” Wordless expressions of longing and weakness. Prayer is sustained by the Spirit when speech fails.
+
+v29: εἰκών (eikōn)
+“Image.” Conformity to Christ is relational and participatory, not moral replication.
+
+v37: ὑπερνικάω (hypernikaō)
+“To prevail completely.” Victory is described as decisive and derivative, accomplished “through the one who loved us.”
+
+v02: νόμος (nomos)
+“Law.” Used metaphorically to name a governing power or operative principle. The contrast is between rival dominions, not merely legal systems.
+
+v03: σάρξ (sarx)
+“Flesh.” Refers to human life ordered apart from God, not the physical body itself. The term names a sphere of power rather than material substance.

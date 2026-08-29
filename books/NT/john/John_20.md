@@ -88,14 +88,62 @@ v31: “written so that you may trust… have life” — John states his purpos
 
 ##Vocabulary
 
+v1: μνῆμα (mnēma) — tomb; memorial tomb  
+
+v1: σκοτία (skotia) — darkness  
+
+v1: λίθος (lithos) — stone  
+
+v2: κύριος (kyrios) — Lord; master  
+
+v5: ὀθόνιον (othonion) — linen cloths  
+
+v7: σουδάριον (soudarion) — face cloth; head covering  
+
+v8: ὁράω (horaō) — to see  
+
+v8: πιστεύω (pisteuō) — to trust; to believe  
+
+v9: ἀνίστημι (anistēmi) — to rise; to stand up (as in resurrection)  
+
+v11: κλαίω (klaiō) — to weep  
+
+v12: ἄγγελος (angelos) — angel; messenger  
+
+v15: ζητέω (zēteō) — to seek; to look for  
+
+v16: ῥαββουνί (rabbouni) — Rabboni; Teacher/Master (Aramaic)  
+
+v17: ἀναβαίνω (anabainō) — to ascend; to go up  
+
+v19: εἰρήνη (eirēnē)
+“Peace; wholeness.”
+
+v20: πλευρά (pleura) — side  
+
+v21: ἀποστέλλω (apostellō) — to send  
+
+v22: ἐμφυσάω (emphysaō) — to breathe on  
+
+v22: πνεῦμα ἅγιον (pneuma hagion)
+“Holy Spirit.”
+
+v23: ἀφίημι (aphiēmi) — to forgive; to release  
+
+v23: κρατέω (krateō) — to hold; to retain  
+
+v24: δίδυμος (didymos) — twin  
+
+v25: τύπος (typos) — mark; imprint  
+
+v29: μακάριος (makarios) — blessed; flourishing  
+
+v31: ζωή (zōē) — life  
+
+v31: ὄνομα (onoma) — name (authority/representation)  
+
 v08: πιστεύω (pisteuō)
 “To trust; to believe.”
 
 v09: ἀνίστημι (anistēmi)
 “To rise; to stand up (as in resurrection).”
-
-v19: εἰρήνη (eirēnē)
-“Peace; wholeness.”
-
-v22: πνεῦμα ἅγιον (pneuma hagion)
-“Holy Spirit.”

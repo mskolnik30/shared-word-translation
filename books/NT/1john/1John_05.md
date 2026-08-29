@@ -82,6 +82,57 @@ v08: “the three agree as one” — The Greek literally draws the three witnes
 
 ##Vocabulary
 
+v1: πιστεύω (pisteuō)  
+“To trust” or “believe.” The verb describes reliance upon and acknowledgment of Jesus as the Christ and the Son of God.  
+
+v1: γεννάω (gennaō)  
+“To give birth,” “beget,” or “cause to be born.” Used throughout the letter for identity originating in God.  
+
+v3: βαρύς (barys)  
+“Burdensome” or “heavy.” Something difficult to carry or oppressive in weight.  
+
+v4: νικάω (nikaō)  
+“To overcome” or “conquer.” A repeated Johannine term for victory over that which opposes God.  
+
+v4: πίστις (pistis)  
+“Trust; faith; faithfulness.” Here explicitly identified as the victory that has overcome the world.  
+
+v6: μαρτυρέω (martyreō)  
+“To testify” or “bear witness.” To give testimony concerning something known or witnessed.  
+
+v7: μαρτυροῦντες (martyrountes)  
+“Those testifying” or “witnesses.” The participle describes the Spirit, water, and blood in their shared testimony.  
+
+v11: ζωὴ αἰώνιος (zōē aiōnios)  
+“Eternal life” or “life of the age.” Life given by God and located here “in the Son.”  
+
+v14: παρρησία (parrēsia)  
+“Confidence,” “boldness,” or “openness.” Freedom to approach without concealment or fear, here specifically in prayer before God.  
+
+v16: ἁμαρτία πρὸς θάνατον (hamartia pros thanaton)
+“Sin leading to death.” Literally “sin toward death.” The expression is not further defined in the letter.
+
+v17: ἀδικία (adikia)  
+“Unrighteousness” or “wrongdoing.” That which is contrary to what is right; the verse identifies all unrighteousness as sin.  
+
+v18: τηρέω (tēreō)  
+“To keep,” “guard,” or “preserve.” Used here for protection from the evil one.  
+
+v18: πονηρός (ponēros)  
+“Evil one” or “evil.” The masculine form in context points to the evil one as a personal adversary.  
+
+v20: διάνοια (dianoia)  
+“Understanding,” “mind,” or “perception.” The capacity given by the Son for knowing the True One.  
+
+v20: ἀληθινός (alēthinos)  
+“True” or “genuine.” Describes that which corresponds fully to reality and is worthy of trust.  
+
+v21: φυλάσσω (phylassō)  
+“To guard” or “keep.” Protective vigilance, here directed toward guarding oneself from idols.  
+
+v21: εἴδωλον (eidōlon)  
+“Idol” or “image.” An object or representation given the allegiance that belongs to God.  
+
 v01: πιστεύω (pisteuō)
 “To trust” or “believe.” The verb describes reliance upon and acknowledgment of Jesus as the Christ and the Son of God.
 
@@ -90,6 +141,3 @@ v04: πίστις (pistis)
 
 v06: μαρτυρέω (martyreō)
 “To testify” or “bear witness.” To give testimony concerning something known or witnessed.
-
-v16: ἁμαρτία πρὸς θάνατον (hamartia pros thanaton)
-“Sin leading to death.” Literally “sin toward death.” The expression is not further defined in the letter.

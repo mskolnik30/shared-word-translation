@@ -73,6 +73,46 @@ v16: Personal life and teaching are inseparable.
 
 ##Vocabulary
 
+v1: ἀφίστημι (aphistēmi)  
+
+v1: “To depart.” To withdraw or fall away.  
+
+v2: καυτηριάζω (kautēriazō)  
+
+v2: “To sear.” To burn, rendering insensitive.  
+
+v3: κωλύω (kōlyō)  
+
+v3: “To forbid.” To prevent or prohibit.  
+
+v5: ἁγιάζω (hagiazō)  
+
+v5: “To sanctify.” To set apart as holy.  
+
+v7: γυμνάζω (gymnazō)  
+
+v7: “To train.” To exercise or discipline.  
+
+v8: εὐσέβεια (eusebeia)  
+
+v8: “Godliness.” Reverence expressed in life.  
+
+v10: ἐλπίζω (elpizō)  
+
+v10: “To hope.” To place expectation.  
+
+v13: ἀνάγνωσις (anagnōsis)  
+
+v13: “Reading.” Public reading of text.  
+
+v13: προσέχω (prosechō)  
+
+v13: “To pay attention.” To attend carefully.  
+
+v14: χάρισμα (charisma)  
+
+v14: “Gift.” Grace-given ability.  
+
 v01: ἀφίστημι (aphistēmi)
 “To depart.” To withdraw or fall away.
 

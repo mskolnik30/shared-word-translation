@@ -47,6 +47,46 @@ v10: Denial of sin redefines relationship with God.
 
 ##Vocabulary
 
+v1: ἀρχή (archē)  
+
+v1: “Beginning.” Origin or starting point.  
+
+v1: λόγος (logos)  
+
+v1: “Word.” Expression or communication.  
+
+v2: φανερόω (phaneroō)  
+
+v2: “To make manifest.” To reveal or make visible.  
+
+v3: κοινωνία (koinōnia)  
+
+v3: “Fellowship.” Shared participation.  
+
+v5: φῶς (phōs)  
+
+v5: “Light.” Source of illumination and purity.  
+
+v6: περιπατέω (peripateō)  
+
+v6: “To walk.” To live or conduct oneself.  
+
+v7: καθαρίζω (katharizō)  
+
+v7: “To cleanse.” To make clean or pure.  
+
+v8: ἁμαρτία (hamartia)  
+
+v8: “Sin.” Missing the mark or wrongdoing.  
+
+v9: ὁμολογέω (homologeō)  
+
+v9: “To confess.” To acknowledge openly.  
+
+v10: ψεύστης (pseustēs)  
+
+v10: “Liar.” One who speaks falsely.  
+
 v01: ἀρχή (archē)
 “Beginning.” Origin or starting point.
 

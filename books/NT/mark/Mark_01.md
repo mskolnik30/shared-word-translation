@@ -162,6 +162,50 @@ v45: Mercy spreads, but it also disrupts; the man’s proclamation changes Jesus
 
 ##Vocabulary
 
+v1: εὐαγγέλιον (euangelion) — “good news,” public announcement of victory/reign.  
+
+v1: χριστός (christos) — “Anointed One,” Messiah/king.  
+
+v1: υἱὸς θεοῦ (huios theou) — “Son of God.”  
+
+v4: μετάνοια (metanoia) — repentance; turning/reorientation.  
+
+v4: ἄφεσις (aphesis) — forgiveness; release, restoration.  
+
+v8: πνεῦμα (pneuma) — Spirit; breath/wind, God’s empowering presence.  
+
+v10: σχίζω (schizō) — to tear open, split (the heavens).  
+
+v11: ἀγαπητός (agapētos) — beloved.  
+
+v12: ἐκβάλλω (ekballō)
+“Drive out, compel (Spirit driving Jesus).”
+
+v14: παραδίδωμι (paradidōmi) — hand over, deliver up (key Markan verb).  
+
+v15: πιστεύω (pisteuō) — trust; rely on, entrust oneself to.  
+
+v15: βασιλεία (basileia)
+“Kingdom; reign/rule.”
+
+v16: θάλασσα (thalassa) — sea.  
+
+v17: ἁλιεύς (halieus) — fisher.  
+
+v18: εὐθύς (euthys) — immediately, at once.  
+
+v22: ἐξουσία (exousia) — authority; right/power to act.  
+
+v23: πνεῦμα ἀκάθαρτον (pneuma akatharton) — unclean spirit.  
+
+v25: ἐπιτιμάω (epitimaō) — rebuke; authoritative constraint.  
+
+v35: ἔρημος (erēmos) — wilderness/desolate place.  
+
+v40–42: καθαρίζω (katharizō) — cleanse; make clean, restore.  
+
+v42: λέπρα (lepra) — “leprosy”; impurity/skin-disease category with social exclusion.  
+
 v01: εὐαγγέλιον (euangelion)
 “good news,” public announcement of victory/reign.
 
@@ -170,9 +214,3 @@ v01: χριστός (christos)
 
 v08: πνεῦμα (pneuma)
 “Spirit; breath/wind, God’s empowering presence.”
-
-v12: ἐκβάλλω (ekballō)
-“Drive out, compel (Spirit driving Jesus).”
-
-v15: βασιλεία (basileia)
-“Kingdom; reign/rule.”

@@ -69,6 +69,39 @@ v25: The final hyperbole underscores excess and abundance: Jesus’s deeds overf
 
 ##Vocabulary
 
+v1: ἐφανέρωσεν (ephanerōsen) — “revealed, made manifest”  
+
+v1: Θάλασσα τῆς Τιβεριάδος (Thalassa tēs Tiberiados) — “Sea of Tiberias”  
+
+v3: πιάζω (piazō) — “to catch” (fish)  
+
+v6: δεξιός (dexios) — “right (side)”  
+
+v6: πλῆθος (plēthos) — “multitude, large number”  
+
+v7: ἐπενδύτης (ependytēs) — “outer garment”  
+
+v9: ἀνθρακιά (anthrakia) — “charcoal fire”  
+
+v11: δίκτυον (diktyon) — “net”  
+
+v15: ἀγαπάω (agapaō) — “to love” (often covenantal/committed love)  
+
+v15: φιλέω (phileō) — “to love” (affection/friendship; sometimes overlap with ἀγαπάω)  
+
+v15: βόσκω (boskō) — “to feed, to tend” (as a shepherd)  
+
+v16: ποιμαίνω (poimainō) — “to shepherd, to pastor”  
+
+v18: ἐκτείνω (ekteinō) — “to stretch out” (hands/arms)  
+
+v19: δοξάζω (doxazō) — “to glorify”  
+
+v22: μένω (menō) — “to remain, abide”  
+
+v24: μαρτυρέω (martyreō)
+“to testify, bear witness”
+
 v01: ἐφανέρωσεν (ephanerōsen)
 “revealed, made manifest”
 
@@ -77,6 +110,3 @@ v01: Θάλασσα τῆς Τιβεριάδος (Thalassa tēs Tiberiados)
 
 v03: πιάζω (piazō)
 “to catch” (fish)
-
-v24: μαρτυρέω (martyreō)
-“to testify, bear witness”
