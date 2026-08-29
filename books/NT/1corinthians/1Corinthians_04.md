@@ -78,7 +78,14 @@ v20: For the kingdom of God does not consist in speech but in power.
 
 v21: What do you want? Shall I come to you with a rod, or with love and a spirit of gentleness?
 </p>
-##Notes
+## Notes
+v1–2: Apostolic role defined as stewardship requiring faithfulness.  
+v3–5: Final judgment belongs to the Lord alone.  
+v6–7: All boasting is excluded by divine gift.  
+v8–10: Irony exposes Corinthian self-perception.  
+v11–13: Apostolic suffering contrasts worldly honor.  
+v14–17: Relationship is framed in paternal terms.  
+v18–21: Authority is validated by power, not speech.  
 
 ##Vocabulary
 

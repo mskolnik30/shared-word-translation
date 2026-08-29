@@ -138,7 +138,15 @@ v39: A wife is bound as long as her husband lives; but if the husband dies, she 
 
 v40: But in my judgment she is happier if she remains as she is—and I think that I also have the Spirit of God.
 </p>
-##Notes
+## Notes
+v1–5: Marriage addresses sexual need and mutual obligation.  
+v7: Singleness and marriage are distinct gifts.  
+v10–11: Marital permanence reflects the Lord’s command.  
+v12–16: Mixed marriages are sustained when possible.  
+v17–24: Calling governs life circumstances.  
+v25–31: Present distress and eschatological urgency shape counsel.  
+v32–35: Undivided devotion is prioritized.  
+v36–40: Marriage is permitted; singleness is commended.  
 
 ##Vocabulary
 

@@ -92,7 +92,14 @@ v26: Therefore I run in this way, not as uncertainly; I box in this way, not as 
 
 v27: but I discipline my body and bring it into subjection, lest after proclaiming to others, I myself should become disqualified.
 </p>
-##Notes
+## Notes
+v1–2: Apostolic authority is validated by transformed community.  
+v3–14: Right to material support is established from practice and Scripture.  
+v12: Rights are voluntarily surrendered for the gospel’s sake.  
+v16–17: Gospel proclamation is necessity and stewardship.  
+v18: True reward lies in selfless ministry.  
+v19–23: Adaptability serves mission without compromising truth.  
+v24–27: Athletic imagery illustrates disciplined pursuit of faithfulness.  
 
 ##Vocabulary
 

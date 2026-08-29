@@ -142,7 +142,15 @@ v39: Therefore, my brothers, earnestly desire to prophesy, and do not forbid spe
 
 v40: But let all things be done properly and in order.
 </p>
-##Notes
+## Notes
+v1–5: Prophecy is prioritized for communal edification.  
+v6–12: Intelligibility is essential for usefulness.  
+v13–19: Mind and spirit must function together.  
+v20–22: Tongues and prophecy serve distinct roles.  
+v23–25: Prophecy reveals and convicts.  
+v26–33: Order ensures edification and clarity.  
+v34–35: Instruction reflects ordered participation.  
+v37–40: Apostolic authority governs practice.  
 
 ##Vocabulary
 

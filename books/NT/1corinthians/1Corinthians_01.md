@@ -81,7 +81,24 @@ v29: so that no one might boast in the presence of God.
 v30: He is the source of your life in Christ Jesus, who became for us wisdom from God, and righteousness and sanctification and redemption,
 v31: in order that, as it is written, “Let the one who boasts, boast in the Lord.”
 </p>
-##Notes
+## Notes
+v1: Paul grounds his authority not in personal achievement but in divine calling. The pairing with Sosthenes emphasizes shared witness rather than solitary leadership.  
+v2: The church is addressed both as already “made holy” and as “called” into holiness. Paul holds status and vocation together without collapsing one into the other.  
+v3: Grace precedes peace. The order reflects Paul’s conviction that reconciliation and wholeness flow from divine gift, not human effort.  
+v4–7: Thanksgiving focuses not on moral maturity but on God’s generosity. Paul names real gifts before addressing real problems, framing correction within gratitude.  
+v8–9: Assurance rests on God’s faithfulness rather than the community’s consistency. The future is anchored in God’s action, not human reliability.  
+v10: Unity is described in terms of shared orientation (“mind” and “purpose”), not uniformity of opinion or personality.  
+v11–12: Divisions are exposed through reported speech. Paul allows the factions’ slogans to indict themselves.  
+v13: The rhetorical questions destabilize loyalty structures. Allegiance to leaders is exposed as a distortion of baptismal identity.  
+v17: Paul contrasts proclamation with rhetorical display. The danger is not wisdom itself, but wisdom that displaces the cross.  
+v18: The present tense (“are being saved,” “are perishing”) frames salvation as an unfolding reality rather than a completed transaction.  
+v19–20: Scripture is invoked to relativize every age’s confidence in its own insight. Wisdom is measured by God’s purposes, not cultural approval.  
+v21: The paradox is intentional: God’s wisdom does not bypass foolishness but works through it.  
+v22–24: Competing expectations—signs and wisdom—are both unsettled by a crucified Messiah.  
+v25: Paul does not redefine foolishness and weakness as virtues in themselves; he redefines where true wisdom and strength are located.  
+v26–29: The community’s social makeup becomes theological evidence. God’s choosing undermines boasting by rearranging the grounds of honor.  
+v30: Salvation is described relationally (“in Christ Jesus”) and expansively, gathering multiple dimensions without hierarchy.  
+v31: The chapter closes by redirecting pride. Boasting is not eliminated, but reoriented toward God alone.  
 
 ##Vocabulary
 

@@ -52,7 +52,13 @@ v12: For what have I to do with judging those outside? Do you not judge those in
 
 v13: But God judges those outside. “Remove the evil person from among yourselves.”
 </p>
-##Notes
+## Notes
+v1–2: Tolerated sin is more severe than external immorality.  
+v3–5: Discipline aims at ultimate restoration.  
+v6–8: Leaven metaphor emphasizes communal influence.  
+v7: Christ’s sacrifice redefines identity.  
+v9–11: Distinction between internal discipline and external association.  
+v12–13: Judgment responsibility is limited to the community.  
 
 ##Vocabulary
 

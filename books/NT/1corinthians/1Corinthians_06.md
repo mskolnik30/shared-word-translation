@@ -72,7 +72,15 @@ v19: Or do you not know that your body is a temple of the Holy Spirit within you
 
 v20: For you were bought with a price; therefore glorify God in your body.
 </p>
-##Notes
+## Notes
+v1–4: Internal disputes should be resolved within the community.  
+v5–8: Lawsuits reflect moral failure and loss.  
+v9–10: Kingdom inheritance excludes persistent unrighteousness.  
+v11: Transformation defines identity in Christ.  
+v12–13: Freedom is limited by benefit and mastery.  
+v14–17: Union with Christ defines bodily identity.  
+v18: Sexual sin uniquely involves the body.  
+v19–20: Body as temple establishes basis for ethical conduct.  
 
 ##Vocabulary
 
