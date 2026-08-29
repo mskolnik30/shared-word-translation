@@ -132,9 +132,15 @@ a creature made without fear.
 v34: It looks upon everything high;
 it is king over all the children of pride.”
 </p>
-##Notes
-
-v01–08: Public English numbering differs from the Masoretic Text here. English Job 41:1–8 corresponds to Hebrew Job 40:25–32; Hebrew Job 41:1 begins at English Job 41:9.
+## Notes
+v01: “Leviathan” is a great sea or chaos creature known elsewhere in biblical poetry. The LORD does not ask Job to explain it but to consider a creature beyond human mastery.
+v01–08: The opening questions turn ordinary fishing and domestication practices into absurd possibilities when applied to Leviathan.
+v01–08: Public English numbering differs from the Masoretic Text here. English Job 41:1–8 corresponds to Hebrew Job 40:25–32; Hebrew Job 41:1 begins at English Job 41:9. TSW follows standard public English verse numbering.
+v10–11: The argument shifts from creature to Creator: if no human can safely confront Leviathan, who can stand before the one to whom everything under heaven belongs?
+v18–21: Fire and smoke imagery enlarges Leviathan beyond ordinary zoological description. TSW preserves the poetic force rather than reducing the creature to a modern species.
+v24: The heart “hard as the lower millstone” portrays unyielding physical and psychological fearlessness, not moral hardness in the usual biblical sense.
+v31–32: Leviathan’s movement transforms the sea itself, making the deep boil and leaving a luminous wake.
+v34: Leviathan is “king over all the children of pride,” yet the entire speech presents even this untamable king as a creature within God’s creation.
 
 ##Vocabulary
 

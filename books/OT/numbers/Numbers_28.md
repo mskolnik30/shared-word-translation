@@ -63,7 +63,12 @@ v29: and one-tenth for each of the seven lambs;
 v30: also one male goat to make atonement for you.
 v31: You shall offer them in addition to the regular burnt offering and its grain offering. They shall be without defect, with their drink offerings.
 </p>
-##Notes
+## Notes
+v02: “my food” is sacrificial language for offerings presented to the LORD; it does not imply divine need for nourishment.
+v03–08: The daily offering creates a morning-and-evening rhythm that continues beneath the additional Sabbath, monthly, and festival offerings.
+v11: New moons mark the beginning of months within Israel’s ritual calendar.
+v16–25: Passover and Unleavened Bread are joined but remain distinguishable: Passover is on the fourteenth day, while the seven-day festival begins on the fifteenth.
+v26: “firstfruits” and “Festival of Weeks” connect agricultural harvest with sacred assembly and offering.
 
 ##Vocabulary
 

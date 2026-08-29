@@ -102,7 +102,33 @@ v26: the LORD lift up the LORD’s face toward you and give you peace.
 <p>
 v27: So they shall put my name upon the Israelites, and I will bless them.
 </p>
-##Notes
+## Notes
+v2: a special vow—the vow of a Nazirite — The Nazirite vow is voluntary and time-bound. It marks an intentional season of heightened dedication rather than a permanent status.
+v2: to set themselves apart — The language emphasizes separation for God, not withdrawal from community for its own sake.
+v3: abstain from wine and strong drink — Wine represents ordinary joy and social participation. Abstinence signals restraint, not rejection of goodness.
+v3: wine vinegar… grape juice — The prohibition extends beyond intoxication to the entire grape product, underscoring total commitment rather than moderation.
+v4: from the seeds to the skin — The phrase emphasizes completeness. Nothing associated with the vine is permitted during the vow.
+v5: no razor shall pass over their head — Uncut hair becomes a visible sign of consecration, marking time and devotion rather than personal appearance.
+v5: they shall be holy — Holiness here is vocational and temporary, defined by the vow rather than moral superiority.
+v6: not go near a dead body — Contact with death interrupts ritual separation. The vow prioritizes life-oriented devotion during its duration.
+v7: even for father or mother — Family obligation is subordinated to the vow, highlighting the seriousness of the commitment.
+v7: because the separation to God is upon their head — The head symbolizes identity and purpose; the vow shapes the whole person.
+v8: all the days of their separation — Holiness is framed as sustained faithfulness over time, not a single act.
+v9: suddenly someone dies beside them — The text anticipates disruption, acknowledging that vows exist within fragile human circumstances.
+v9: the head of their separation has been defiled — The disruption is ritual, not moral. The vow is interrupted, not condemned.
+v10: two turtledoves or two young pigeons — The permitted offering mirrors provisions for those of modest means, emphasizing accessibility rather than burden.
+v11: because the separation was defiled by the dead body — The language maintains ritual clarity without assigning blame.
+v12: they shall set apart themselves again — The vow may be renewed. Failure or interruption does not prevent restoration.
+v13: this is the law for the Nazirite — The instructions are formalized, grounding personal devotion within communal order.
+v15: grain offerings and drink offerings — Worship is communal and embodied, involving multiple forms of giving.
+v18: shave the head of their separation — The visible sign of devotion is released, marking completion rather than loss.
+v18: put the hair on the fire — The offering returns what marked the vow back to God, closing the consecrated time.
+v19: the priest shall take the boiled shoulder — The ritual includes shared participation between priest and Nazirite.
+v20: the Nazirite may drink wine — Ordinary life resumes. The vow ends without diminishing what came before.
+v21: this is the law for the Nazirite vow — The repetition emphasizes clarity and accountability rather than flexibility.
+v23: Speak to Aaron and his sons — Blessing is entrusted to human voices, carried within communal leadership.
+v27: they shall put my name on the Israelites — God’s name signifies belonging and identity, not control.
+v27: and I will bless them — The final word is divine action. Blessing originates with God, not ritual performance.
 
 ##Vocabulary
 

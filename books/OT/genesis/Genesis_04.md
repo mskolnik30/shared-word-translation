@@ -66,7 +66,19 @@ then Lamech seventy-sevenfold.”
 v25: And Adam knew his wife again, and she bore a son and called his name Seth, for she said, “God has appointed for me another offspring in place of Abel, because Cain killed him.”
 v26: To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the LORD.
 </p>
-##Notes
+## Notes
+v1: Eve’s statement links birth, acquisition, and the LORD’s help. The wording is compact and difficult, and the translation preserves its density rather than resolving it fully.  
+v2: The brothers are distinguished by vocation before conflict appears. The contrast between shepherd and worker of the ground anticipates the chapter’s concern with offering, soil, and blood.  
+v3–5: The text does not explicitly explain why Abel’s offering is favored and Cain’s is not. The ambiguity is retained.  
+v6–7: The LORD addresses Cain before the murder, naming anger as a moment of moral danger rather than inevitability.  
+v7: Sin is pictured as a predator crouching at the door. The language echoes the language of desire and rule from Genesis 3.  
+v8: The brief narration gives no motive beyond what has already been shown. The violence is stark and sudden.  
+v9: Cain’s question reverses his vocation. The one who worked the ground refuses responsibility for his brother.  
+v10–12: Abel’s blood cries from the ground, and the ground itself becomes witness against Cain. The curse intensifies the broken relationship between humanity and the soil.  
+v13–16: Judgment is accompanied by protection. Cain is exiled from the ground and from the LORD’s presence, yet his life is marked off from vengeance.  
+v17–22: Cain’s line develops city-building, livestock, music, and metalwork. The chapter refuses a simple account of culture as either pure progress or pure corruption.  
+v23–24: Lamech turns protection into boast. The measured vengeance associated with Cain becomes exaggerated violence in Lamech’s mouth.  
+v25–26: Seth’s birth does not erase Abel’s death, but it opens a new line. The chapter ends with worship rather than violence.  
 
 ##Vocabulary
 

@@ -66,7 +66,11 @@ and all those who were incensed against him will be disappointed.
 <p>
 v25: In the LORD will all the seed of Israel be justified, and will glory.
 </p>
-##Notes
+## Notes
+v1: Cyrus is called the LORD’s “anointed,” an unexpected use of royal consecration language for a Persian ruler who does not yet know the LORD.  
+v11: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v13: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v4: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
 ##Vocabulary
 

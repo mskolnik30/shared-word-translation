@@ -78,7 +78,8 @@ yet your footprints were not known.
 v20: You led your people like a flock
 by the hand of Moses and Aaron.
 </p>
-##Notes
+## Notes
+v10: The Hebrew is terse and can be understood in more than one way. It may express the psalmist’s grief that the Most High seems to have changed, or mark the point at which the speaker turns toward remembering God’s mighty acts.
 
 ##Vocabulary
 

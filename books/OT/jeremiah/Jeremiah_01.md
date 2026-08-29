@@ -84,7 +84,10 @@ v19: They will fight against you,
 but they shall not prevail against you,
 for I am with you," declares the LORD, "to deliver you."
 </p>
-##Notes
+## Notes
+v10: - **v10 uproot, breakdown, destroy, overthrow, build, plant**: These contrasting verbs illustrate Jeremiah's divinely assigned role in both the judgment and restoration dynamics of his prophetic ministry.  
+v11: - **v11 almond tree, watching**: In Hebrew, the word for "almond tree" (*sha-qed*) sounds like the word for "watching" (*sho-qed*), making this a play on words that emphasizes divine vigilance.  
+v18: - **v18 fortified city, iron pillar, bronze walls**: These metaphors convey strength and resilience, suggesting divine empowerment for Jeremiah against opposition.  
 
 ##Vocabulary
 

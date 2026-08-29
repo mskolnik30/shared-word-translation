@@ -66,7 +66,15 @@ v37: We will bring the first of our dough, our contributions, the fruit of every
 v38: A priest, a descendant of Aaron, will be with the Levites when the Levites receive the tithes, and the Levites will bring up a tenth of the tithe to the house of our God, to the chambers of the storehouse.
 v39: For the Israelites and the descendants of Levi will bring the contribution of grain, new wine, and oil to the chambers where the vessels of the sanctuary are, and where the priests who minister, the gatekeepers, and the singers are. We will not forsake the house of our God.
 </p>
-##Notes
+## Notes
+v01–27: The sealed names represent priests, Levites, and lay leaders, giving the written agreement broad communal representation.
+v28: Separation is described specifically in relation to adherence to the Torah of God; the verse frames communal identity around covenantal practice.
+v29: “curse and oath” — The agreement includes solemn sanctions as well as promises, making covenantal responsibility concrete.
+v30: The concern with marriage is framed by covenant loyalty rather than ethnicity alone; later chapters show the issue in terms of households, language, and faithfulness.
+v31: Sabbath observance is linked directly with economic practice, and the seventh year with release from debt.
+v32: The one-third-shekel contribution differs from the half-shekel amount known from Exodus 30, suggesting a specific postexilic communal obligation rather than silent harmonization.
+v34–38: Wood, firstfruits, firstborn, contributions, and tithes are organized so that temple worship can function materially.
+v39: The covenantal section culminates in the concise commitment, “We will not forsake the house of our God.”
 
 ##Vocabulary
 

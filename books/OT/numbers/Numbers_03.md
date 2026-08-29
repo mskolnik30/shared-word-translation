@@ -104,11 +104,12 @@ v49: So Moses took the redemption money from those who exceeded the number redee
 v50: From the firstborn of the Israelites he took the money, one thousand three hundred sixty-five shekels, according to the sanctuary shekel.
 v51: Moses gave the redemption money to Aaron and his sons according to the word of the LORD, as the LORD commanded Moses.
 </p>
-##Notes
-
+## Notes
+v01: Moses is named in the heading of the generations, but the genealogy that follows is Aaron’s. The text leaves that asymmetry intact.
 v04: “unauthorized fire” — The Hebrew *esh zarah* is literally “strange fire,” meaning fire not authorized for the priestly act.
-
-v39: The total of twenty-two thousand does not simply equal the sum of the clan totals as preserved in the Masoretic Text.
+v12: The Levites substitute for Israel’s firstborn, connecting their sanctuary service with the LORD’s claim upon the firstborn after the exodus from Egypt.
+v39: The total of twenty-two thousand does not simply equal the sum of the clan totals as preserved in the Masoretic Text. The tension is retained rather than silently harmonized.
+v47: “sanctuary shekel” — A fixed sacred standard of weight; the verse itself defines one shekel as twenty gerahs.
 
 ##Vocabulary
 

@@ -56,7 +56,12 @@ v24: “This concerns the Levites: from twenty-five years old and upward they sh
 v25: At fifty years old they shall withdraw from the work of the service and shall serve no longer.
 v26: They may assist their brothers at the Tent of Meeting in keeping charge, but they shall perform no service. Thus you shall do concerning the Levites and their responsibilities.”
 </p>
-##Notes
+## Notes
+v02: The seven lamps are oriented toward the front of the lampstand, emphasizing the lampstand as a unified source of light rather than seven independent lamps.
+v07: Cleansing includes water, shaving, and washing clothing. These acts concern ritual preparation for service, not moral inferiority of the Levites.
+v10–11: The Israelites lay hands upon the Levites, and the Levites themselves are presented as an “elevation offering,” symbolically given by Israel to the LORD for sanctuary service.
+v19: Levitical service protects the congregation by maintaining the boundaries around the sanctuary.
+v24: Numbers 4 counts active bearers from thirty to fifty, while this verse begins Levitical participation at twenty-five. The text does not explain the relationship between the two ages; later stages of apprenticeship or differing duties are possible but should not be imposed on the main text.
 
 ##Vocabulary
 

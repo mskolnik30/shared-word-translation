@@ -83,7 +83,16 @@ v24: The LORD commanded us to do all these statutes, to fear the LORD our God, f
 
 v25: And it will be righteousness for us if we are careful to do all this commandment before the LORD our God, as he commanded us.’
 </p>
-##Notes
+## Notes
+v04: This verse is traditionally called the *Shema* from its opening word, “Hear.” The Hebrew can be translated “the LORD is one,” “the LORD alone,” or with related nuances. TSW preserves the traditional “the LORD is one” while the context clearly demands exclusive allegiance.
+v05: “life” translates *nefesh*, often rendered “soul.” The command concerns the whole living self, not a separable inner part.
+v05: “might” translates *me'od*, literally “very muchness,” extending love of God to the full measure of one’s capacity and resources.
+v07: “impress” translates a verb connected with sharpening. The words are to be repeated and made deeply present to children through ordinary daily life.
+v08–09: Hand, eyes, doorposts, and gates make covenant teaching physically and socially visible. Later Jewish practice gives these commands concrete liturgical forms.
+v12: The central danger after entering the land is forgetting the giver when surrounded by gifts not earned or built.
+v13: Fear, service, and oath-taking are directed to the LORD alone in the immediate context of refusing other gods.
+v16: Massah recalls Israel’s testing of the LORD over water in Exodus 17.
+v20–25: Catechesis begins with a child’s question and answers with narrative: slavery, exodus, signs, gift of land, and then commandment.
 
 ##Vocabulary
 

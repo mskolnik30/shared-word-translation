@@ -94,11 +94,28 @@ v21: Every cooking pot in Jerusalem and Judah will be holy to the LORD of Hosts,
 
 And on that day there will no longer be a Canaanite in the house of the LORD of Hosts.
 </p>
-##Notes
-
-v05: “all the holy ones with him” — The final Hebrew pronoun has textual and interpretive complexity.
-
+## Notes
+v1: “a day … for the LORD” — The chapter develops the prophetic theme of the “day of the LORD,” combining judgment, warfare, cosmic disturbance, deliverance, worship, and holiness without reducing the day to a single event or image.  
+v2: The fall of Jerusalem is described in deliberately severe language before the LORD’s intervention. The text does not shield the reader from the violence associated with conquest.  
+v4: “the LORD’s feet” — Divine intervention is described in concrete bodily imagery. The translation retains the image rather than replacing it with abstract language about divine presence.  
+v4: “Mount of Olives” — The mountain east of Jerusalem is split to form a great east-west valley, transforming the geography around the city.  
+v5: “Azal” — The location is uncertain. The name is retained without attempting to identify it with a known site.  
+v5: “the earthquake in the days of Uzziah” — The same earthquake is remembered in Amos 1:1. Zechariah assumes it remained part of communal memory.  
+v5: “all the holy ones with him” — The final Hebrew pronoun has textual and interpretive complexity. The line clearly presents the LORD’s coming accompanied by holy ones; the main text gives the relationship in ordinary English while the underlying wording remains compressed.  
+v6: “the lights will grow dim” — The Hebrew text is unusually difficult. Its terms have been understood in relation to light, cold, frost, or celestial bodies becoming fixed or congealed. The translation follows the immediate light/darkness context while recognizing the uncertainty.  
+v7: “neither day nor night” — Ordinary temporal distinctions break down. The verse does not explain the phenomenon but culminates unexpectedly in light at evening.  
+v8: “living waters” — Flowing or fresh water moves continuously from Jerusalem in both directions. The statement that it flows in summer and winter emphasizes permanence beyond normal seasonal limits.  
+v9: “the LORD will be one, and the LORD’s name one” — Universal kingship culminates in undivided acknowledgment of the LORD. The wording echoes Israel’s confession of the LORD’s uniqueness.  
+v10: The geographical references describe a Jerusalem elevated above a surrounding plain. Several of the named gates and boundaries cannot be located with certainty.  
+v11: “ban of destruction” — The Hebrew *cherem* can describe something placed under irrevocable ban, often for destruction. Its removal expresses Jerusalem’s permanent security.  
+v12: The plague is depicted through extreme bodily disintegration. The graphic imagery is retained because it is integral to the prophetic vision.  
+v14: “Judah also will fight at Jerusalem” — The Hebrew preposition allows discussion over whether Judah fights “at,” “in,” or potentially “against” Jerusalem. The translation preserves the less interpretively restrictive geographical wording.  
+v16: “Festival of Booths” — The nations who had attacked Jerusalem are pictured coming annually to worship the LORD and participate in one of Israel’s major pilgrimage festivals.  
+v17–19: Rain and plague are tied to participation in worship. Egypt is named separately, perhaps significantly because its agriculture traditionally depended less directly upon rainfall than the land of Israel.  
+v20: “Holy to the LORD” — The words associated with the high priest’s sacred plate are extended even to horses. The distinction between ordinary and sacred space is radically expanded.  
 v21: “Canaanite” — The Hebrew word can mean an ethnic Canaanite but can also develop the sense “merchant” or “trader.” The main text retains the primary ethnic term, leaving the possible commercial nuance visible in the note.
+v20–21: The book ends not merely with Jerusalem surviving but with pervasive holiness: horses, cooking pots, city, and temple equipment all belong to the LORD.  
+v05: “all the holy ones with him” — The final Hebrew pronoun has textual and interpretive complexity.
 
 ##Vocabulary
 

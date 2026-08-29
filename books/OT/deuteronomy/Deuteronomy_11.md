@@ -96,7 +96,16 @@ v31: For you are crossing the Jordan to enter and possess the land that the LORD
 
 v32: So you shall be careful to do all the statutes and judgments that I set before you today.
 </p>
-##Notes
+## Notes
+v02–07: Moses appeals to the eyewitness generation. Covenant obedience is grounded in remembered acts of judgment and deliverance, not abstract principle alone.
+v06: Deuteronomy names Dathan and Abiram but not Korah in this retelling of the rebellion. TSW preserves the book’s selective memory.
+v10: “watered it with your foot” is uncertain. It may refer to foot-operated irrigation or to channeling water through cultivated fields. The contrast is with Canaan’s dependence on rain.
+v12: The LORD “seeks after” or “cares for” the land, with divine eyes continually upon it. Agricultural life is portrayed as dependent on divine attention.
+v13–17: The language closely parallels a text later used in Jewish daily prayer. Love, service, rain, food, and the danger of idolatry are integrated.
+v18: “on your heart and on your life” is the Hebrew *levav* and *nefesh*, making the teaching interior and embodied.
+v24: “the River” is explicitly identified as the Euphrates. The territorial formula describes the broad horizon of Israel’s promised inheritance.
+v26–29: Blessing and curse are not abstract concepts but covenant paths embodied geographically on Gerizim and Ebal.
+v30: The precise ancient locations of Gilgal and the “oaks of Moreh” in relation to the mountains have been debated. TSW preserves the received geographic wording.
 
 ##Vocabulary
 

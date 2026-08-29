@@ -92,9 +92,14 @@ For now I will lie down in the dust;
 you will seek me,
 but I will not be.”
 </p>
-##Notes
-
-v07: “breath” — Hebrew *ruach* can mean breath, wind, or spirit.
+## Notes
+v01: Job compares life with military or forced service and hired labor, emphasizing obligation, exhaustion, and waiting for relief.
+v05: The description of Job’s skin is physical and unsparing. The text continues to resist turning his suffering into abstraction.
+v07: “breath” — Hebrew *ruach* can mean breath, wind, or spirit. Here the image emphasizes fragility and transience.
+v09: Job speaks from within ancient Israelite imagery of Sheol as the destination from which ordinary human life does not return. The book does not yet answer his longing with a developed resurrection claim.
+v12: Sea and sea monster evoke chaotic powers that require divine restraint. Job asks why God guards him as though he were a cosmic threat.
+v17–18: Job deliberately echoes language that elsewhere celebrates divine attention to humanity, but he experiences constant divine attention as invasive testing rather than care.
+v20: “Watcher of humanity” — The title turns divine vigilance into an accusation: Job feels targeted rather than protected.
 
 ##Vocabulary
 

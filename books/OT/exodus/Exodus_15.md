@@ -144,9 +144,16 @@ v26: He said, “If you will truly listen to the voice of the LORD your God, do 
 
 v27: Then they came to Elim, where there were twelve springs of water and seventy palm trees, and they camped there by the waters.
 </p>
-##Notes
-
-v01: The opening verb can mean rise up, become exalted, or triumph.
+## Notes
+v01: The opening verb can mean rise up, become exalted, or triumph. The song celebrates the LORD’s overwhelming victory rather than merely height.
+v03: “The LORD is a warrior” is direct martial imagery arising from the deliverance at the sea. The poem does not separate divine kingship from divine warfare.
+v08: “breath of your nostrils” uses embodied poetic language for the wind by which the waters are driven back.
+v11: “among the gods” preserves the ancient poetic comparison. The verse’s force is the incomparable holiness and power of the LORD.
+v13: “steadfast love” translates *hesed*, joining the exodus to covenant loyalty rather than describing deliverance only as force.
+v17: The song looks ahead from the sea toward the LORD’s chosen dwelling. The exact historical horizon—land, sanctuary, Zion, or temple—is poetically compressed.
+v20: Miriam is explicitly called “the prophet.” Her leadership in song and dance belongs to Israel’s public response to deliverance.
+v25: The identity of the wood is not given, and the text does not explain a natural mechanism for the water’s transformation.
+v26: “the LORD who heals you” joins obedience, covenant order, and divine healing after the bitter-water episode.
 
 ##Vocabulary
 

@@ -130,7 +130,15 @@ v19: A wind has wrapped her in its wings,
 and they will be ashamed
 because of their sacrifices.
 </p>
-##Notes
+## Notes
+v01: “case” translates covenant-lawsuit language. The LORD’s dispute concerns the collapse of faithfulness, steadfast love, and knowledge of God within the land.
+v03: Human violence and ecological collapse are held together. Land, animals, birds, and fish all suffer within the covenant crisis.
+v06: “knowledge” is not mere information. Rejecting knowledge of God includes rejecting the instruction that shapes covenant life.
+v08: “feed on the sin of my people” may refer to priests benefiting from offerings connected with sin and therefore perversely desiring more guilt.
+v12: The staff likely refers to divination. The people seek guidance from objects rather than from the LORD.
+v14: The judgment refuses a double standard in which women alone bear responsibility for sexual and cultic unfaithfulness; the men’s participation is explicitly named.
+v15: “Beth-Aven,” meaning “house of wickedness” or “house of trouble,” is a polemical renaming of Bethel, “house of God.”
+v17: “leave him alone” is a severe prophetic abandonment formula directed toward Ephraim’s attachment to idols.
 
 ##Vocabulary
 

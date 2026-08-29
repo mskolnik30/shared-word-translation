@@ -91,7 +91,17 @@ v12: I will strengthen them in the LORD,
 and they will walk in the LORD’s name,
 says the LORD.
 </p>
-##Notes
+## Notes
+v1: “spring rain” — The later seasonal rains were especially important for bringing crops toward maturity. The verse contrasts dependence upon the LORD with the false religious practices condemned immediately afterward.  
+v2: “household gods” — The Hebrew *teraphim* refers to cultic or household objects associated with divination or domestic religious practice.  
+v3: “shepherds … male goats” — Both images refer to leaders. The LORD condemns failed leadership and then personally attends to the flock.  
+v4: “cornerstone … tent peg … battle bow” — Several images of stability, support, military strength, and leadership accumulate around Judah without being reduced to a single figure.  
+v6: “as though I had never rejected them” — Restoration is described so fully that the former experience of rejection no longer determines the relationship.  
+v8: “I will whistle for them” — The image portrays the LORD summoning a scattered people with a simple signal they recognize.  
+v9: “they will remember me” — Dispersion among the nations does not end the covenant relationship. Memory becomes part of the movement toward return.  
+v10: Egypt and Assyria represent major places of historical oppression and dispersion. The gathering extends beyond the immediate Babylonian exile.  
+v11: “sea of distress” — The Hebrew wording evokes both literal waters and the experience of oppression. The following references to sea and Nile recall earlier biblical deliverance traditions without explicitly identifying one event.  
+v12: “walk in the LORD’s name” — The restored community’s life is characterized by belonging to and acting under the identity of the LORD.  
 
 ##Vocabulary
 

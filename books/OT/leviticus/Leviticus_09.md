@@ -51,7 +51,11 @@ v22: Aaron lifted his hands toward the people and blessed them. Then he came dow
 v23: Moses and Aaron entered the Tent of Meeting. When they came out, they blessed the people, and the glory of the LORD appeared to all the people.
 v24: Fire came out from before the LORD and consumed the burnt offering and the fat portions on the altar. When all the people saw it, they shouted and fell on their faces.
 </p>
-##Notes
+## Notes
+v01: The “eighth day” follows the seven days of ordination in chapter 8 and marks the beginning of Aaron’s active priestly service.
+v04: The promised appearance of the LORD gives the ritual instructions a clear goal: divine presence among the people.
+v07: Aaron first makes atonement for himself before acting on behalf of the people, preserving the distinction between priest and God.
+v23–24: The appearance of glory culminates in fire from before the LORD, confirming the altar service while also anticipating the danger of unauthorized fire in chapter 10.
 
 ##Vocabulary
 

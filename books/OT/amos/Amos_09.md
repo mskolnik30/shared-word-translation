@@ -152,13 +152,24 @@ from their ground
 that I have given them,”
 says the LORD your God.
 </p>
-##Notes
-
-v06: “vault” translates a rare Hebrew term that may refer to a firm structure, dome, or gathered mass.
-
-v12: The Masoretic Text reads that restored David will “possess the remnant of Edom and all the nations who are called by my name.” The Septuagint and a Dead Sea Scroll tradition reflect a different reading, “so that the remnant of humanity may seek [the LORD], and all the nations upon whom my name is called,” a form reflected in Acts 15:17.
-
+## Notes
+v01: The final vision begins at an altar rather than with another symbolic object. The sanctuary itself has become the starting point of judgment.
+v01: “capitals” and “thresholds” describe structural parts of a building, but the exact architectural scene is difficult to reconstruct. The image is of collapse falling upon the gathered people.
+v02–04: Sheol, heavens, Carmel, sea, and captivity form a sequence of impossible escape routes. No vertical, geographic, or political distance places the people outside divine reach.
+v03: The “serpent” at the bottom of the sea evokes a dangerous sea creature under divine command, not an independent rival power.
+v05–06: The hymn closely echoes Amos 8:8 and 5:8. The God who judges Israel is the Creator who governs earth, heavens, and sea.
+v06: “vault” translates a rare Hebrew term that may refer to a firm structure, dome, or gathered mass. TSW uses a broad architectural image.
+v07: Amos places Israel’s exodus alongside migrations of Philistines from Caphtor and Arameans from Kir. Election does not mean the LORD has no providential relation to other peoples.
+v08: Judgment falls upon “the sinful kingdom,” yet the house of Jacob is not utterly destroyed. Destruction and remnant are held together.
+v09: The sieve image can be understood in more than one way. The line “not a pebble will fall” may picture careful preservation or the certainty that no guilty fragment escapes. Verse 10 emphasizes the death of complacent sinners.
+v10: The condemned sinners are specifically those confident that disaster cannot reach them.
+v11: “booth of David” is a fragile shelter image for the fallen Davidic house or kingdom. Restoration begins by repairing breaches rather than by describing an imperial palace.
+v12: The Masoretic Text reads that restored David will “possess the remnant of Edom and all the nations who are called by my name.” The Septuagint and a Dead Sea Scroll tradition reflect a different reading, “so that the remnant of humanity may seek [the LORD], and all the nations upon whom my name is called,” a form reflected in Acts 15:17. TSW follows the Masoretic Text in the main text and records the significant variant.
+v13: The agricultural cycle becomes so abundant that harvesting overlaps plowing and grape-treading overlaps sowing. Ordinary seasonal gaps collapse under abundance.
+v13: “all the hills will flow with it” literally uses a verb of melting or dissolving, portraying the landscape as saturated with wine.
 v13: The verb translated “flow” can also mean “melt” or “dissolve.”
+v14: “restore the fortunes” marks reversal of judgment in concrete communal life: cities, vineyards, gardens, food, and settled dwelling.
+v15: The book ends with planting rather than uprooting, reversing Amos’s repeated images of exile and loss.
 
 ##Vocabulary
 

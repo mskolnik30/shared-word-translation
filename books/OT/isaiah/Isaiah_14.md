@@ -69,7 +69,11 @@ v31: Howl, gate! Cry, city! You are melted away, Philistia, all of you;
 for smoke comes out of the north, and there is no straggler in his ranks.
 v32: What will they answer the messengers of the nation? That the LORD has founded Zion, and in her the afflicted of his people will take refuge.
 </p>
-##Notes
+## Notes
+v12: “shining one, son of dawn” — The Hebrew phrase later became associated with “Lucifer” through Latin tradition. TSW retains the Hebrew image rather than importing a later personal name.  
+v22: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v22: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
+v2: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
 ##Vocabulary
 

@@ -100,9 +100,16 @@ v26: ‘Cursed is the one who does not establish the words of this instruction b
 
 And all the people shall say, ‘Amen.’
 </p>
-##Notes
-
-v04: The Masoretic Text reads “Mount Ebal.” The Samaritan Pentateuch reads “Mount Gerizim,” a major textual difference connected with Samaritan sanctuary tradition.
+## Notes
+v02–08: Israel’s entry into the land is marked by public writing, altar, sacrifice, meal, and rejoicing. Land possession is placed under written covenant instruction from the beginning.
+v04: The Masoretic Text reads “Mount Ebal.” The Samaritan Pentateuch reads “Mount Gerizim,” a major textual difference connected with Samaritan sanctuary tradition. TSW follows the Masoretic Text as primary and records the variant.
+v05–06: The altar stones must remain unworked by iron, emphasizing simplicity and obedience over monumental craftsmanship.
+v09: “This day you have become the people of the LORD” renews covenant identity at the threshold of the land rather than suggesting Israel had no prior covenant relationship.
+v12–13: Six tribes are associated with blessing and six with curse. Chapter 28 develops the blessing-and-curse consequences more fully.
+v15–26: The curse list moves largely through concealed or socially vulnerable wrongdoing: secret idolatry, dishonor of parents, land theft, abuse of the blind, distortion of justice, sexual violations, hidden violence, bribery, and finally comprehensive failure to uphold the instruction.
+v18: The law protects blind persons from deliberate misdirection, making exploitation of disability a covenant offense.
+v19: Resident alien, orphan, and widow again function as a test case for whether justice protects those with less social power.
+v26: The final curse gathers the entire written instruction under the obligation not merely to hear but to “establish” it by doing it.
 
 ##Vocabulary
 

@@ -65,7 +65,12 @@ I will kindle a fire in her forest,
 and it will consume
 all that is around her.”
 </p>
-##Notes
+## Notes
+v01: Pashhur son of Malchijah is distinct from Pashhur son of Immer in Jeremiah 20. The repeated name should not be harmonized into one person.
+v02: Zedekiah seeks a miraculous reversal comparable to earlier acts of divine deliverance, but Jeremiah announces that the LORD will oppose Jerusalem rather than defend it.
+v05: The language of “outstretched hand and strong arm,” often associated with the LORD’s deliverance of Israel from Egypt, is turned here toward judgment against Jerusalem.
+v08–09: “the way of life and the way of death” is startling because survival requires surrender to Babylon. Covenant language is retained while expected categories of loyalty are reversed.
+v13: Jerusalem is addressed through difficult topographical imagery. “Inhabitant of the valley, rock of the plain” may evoke the city’s sense of natural defensibility without precisely identifying a single feature.
 
 ##Vocabulary
 

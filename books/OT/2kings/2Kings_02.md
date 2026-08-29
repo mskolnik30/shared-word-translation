@@ -78,11 +78,18 @@ v24: He turned behind him, saw them, and cursed them in the name of the LORD. Th
 
 v25: From there he went to Mount Carmel, and from there he returned to Samaria.
 </p>
-##Notes
-
-v14: The Hebrew punctuation of Elisha’s cry is uncertain.
-
-v19: The phrase “the land causes miscarriage” may refer to human miscarriage, agricultural barrenness, or both.
+## Notes
+v01: The chapter announces Elijah’s departure before narrating it, shifting attention from suspense over whether he will leave to the transfer of prophetic vocation.
+v03: “from over your head” describes Elijah as Elisha’s master or leader and prepares for Elisha’s request for a firstborn-like inheritance.
+v08: Elijah’s divided Jordan recalls Moses and Joshua, placing the prophetic succession within Israel’s exodus and land-crossing memory.
+v09: “double portion” is inheritance language for the firstborn share, not necessarily a request to be twice as powerful as Elijah. Elisha asks to inherit Elijah’s prophetic role.
+v11: The chariot and horses of fire separate Elijah from Elisha, while the whirlwind is the means by which Elijah goes up. The text does not say Elijah rides in the chariot.
+v12: “the chariots of Israel and its horsemen” identifies prophetic presence as Israel’s true defense, a phrase later used of Elisha in 2 Kings 13:14.
+v14: The Hebrew punctuation of Elisha’s cry is uncertain. TSW preserves the direct question seeking the God who acted through Elijah.
+v19: The phrase “the land causes miscarriage” may refer to human miscarriage, agricultural barrenness, or both. TSW retains the broad fertility sense.
+v20–22: The salt itself is not presented as the inherent healing agent; Elisha’s word explicitly attributes healing to the LORD.
+v23: The Hebrew term can describe youths rather than very small children. Their mockery of the newly recognized prophet occurs near Bethel, a major center of rival worship.
+v24: The mauling is one of the narrative’s most severe prophetic judgment scenes. The verb means tear or maul and does not explicitly say all forty-two died.
 
 ##Vocabulary
 

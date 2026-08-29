@@ -72,7 +72,12 @@ v22: Now the rest of the acts of Uzziah, first and last, Isaiah son of Amoz the 
 
 v23: Uzziah lay down with his ancestors, and they buried him with his ancestors in the burial field that belonged to the kings, for they said, “He has a skin disease.” Jotham his son became king in his place.
 </p>
-##Notes
+## Notes
+v05: Uzziah’s prosperity is explicitly tied to seeking the LORD.
+v10: “He loved the soil” is a rare personal detail presenting the king as invested in agriculture.
+v15: The “devices” are described broadly enough that their exact mechanical form is uncertain; they are defensive military inventions.
+v16: Strength becomes the setting for pride, repeating a major Chronicler pattern.
+v21: Uzziah’s exclusion from the temple is both ritual and royal humiliation.
 
 ##Vocabulary
 

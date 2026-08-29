@@ -76,7 +76,18 @@ v36: Thus both the daughters of Lot became pregnant by their father.
 v37: The firstborn bore a son and called his name Moab. He is the father of the Moabites to this day.
 v38: The younger also bore a son and called his name Ben-ammi. He is the father of the Ammonites to this day.
 </p>
-##Notes
+## Notes
+v1–3: Lot’s hospitality parallels Abraham’s hospitality in the previous chapter, though the setting and outcome differ dramatically.  
+v4–11: The sin of Sodom is portrayed through violent abuse, contempt for outsiders, and rejection of moral restraint.  
+v8: Lot’s offer concerning his daughters is presented without approval or explanation. The narrative records the event without justifying it.  
+v13: The destruction comes in response to an outcry that has risen before the LORD.  
+v14: Lot’s warning is dismissed as a joke. Judgment arrives despite disbelief.  
+v16: Lot’s rescue is attributed explicitly to the LORD’s mercy rather than Lot’s decisiveness.  
+v17–22: Lot repeatedly hesitates and negotiates. Divine deliverance accommodates human weakness.  
+v24–25: The destruction of Sodom and Gomorrah is depicted as a direct act of divine judgment.  
+v26: Looking back signifies more than visual observation. The act reveals a failure to leave fully behind what is under judgment.  
+v29: God remembers Abraham, and that remembrance becomes the means through which Lot is spared.  
+v30–38: The final episode mirrors earlier themes of fear, survival, and offspring. The narrative explains the origins of Moab and Ammon without approving the actions that produced them.  
 
 ##Vocabulary
 

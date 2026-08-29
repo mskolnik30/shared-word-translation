@@ -110,11 +110,21 @@ v36: Look, their two sons are there with them, Ahimaaz son of Zadok and Jonathan
 
 v37: So Hushai, David’s companion, came into the city just as Absalom was entering Jerusalem.
 </p>
-##Notes
-
-v07: The Masoretic Text reads “forty years,” which is chronologically difficult within David’s reign.
-
-v27: The phrase translated “Are you not a seer?” is textually difficult and may be a question or imperative related to seeing.
+## Notes
+v01: Chariot, horses, and fifty runners create visible royal spectacle. Absalom begins acting like a king before formally claiming the throne.
+v02–06: Absalom’s strategy combines accessibility, criticism of the royal justice system, promises of fair judgment, touch, and public affection. He “steals” Israel’s hearts through political performance.
+v07: The Masoretic Text reads “forty years,” which is chronologically difficult within David’s reign. Some ancient witnesses read “four years.” TSW follows the Masoretic Text and records the major variant.
+v08: Absalom uses a vow to the LORD as the public reason for traveling to Hebron, while the narrative identifies the trip as the launch of rebellion.
+v09: David’s “Go in peace” becomes painfully ironic because Hebron was also the city where David himself was first anointed king.
+v11: Two hundred invited men accompany Absalom “in innocence,” showing how conspiracy can gather apparent support from people unaware of its purpose.
+v12: Ahithophel’s defection is especially dangerous because he has been David’s counselor and his advice carries extraordinary authority.
+v16: David leaves ten concubines to keep the palace. Their presence later becomes central to Absalom’s public assertion of kingship.
+v19–22: David gives Ittai a genuine opportunity to leave because he is a recent foreign exile. Ittai answers with covenant-like loyalty “for death or for life.”
+v25–26: David refuses to use the ark as a talisman guaranteeing his restoration. He entrusts his future to whether he finds favor with the LORD.
+v27: The phrase translated “Are you not a seer?” is textually difficult and may be a question or imperative related to seeing. TSW follows the traditional reading.
+v30: David’s barefoot, covered-head ascent is public mourning and humiliation as he leaves the royal city.
+v31: Rather than ask for Ahithophel’s death, David prays that his counsel be turned into foolishness.
+v34–36: Hushai, priests, and their sons form an intelligence network within Jerusalem, blending political strategy with David’s continuing dependence on divine outcome.
 
 ##Vocabulary
 

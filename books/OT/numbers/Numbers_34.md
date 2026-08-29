@@ -68,7 +68,13 @@ v27: from the tribe of the Asherites, the leader Ahihud son of Shelomi;
 v28: from the tribe of the Naphtalites, the leader Pedahel son of Ammihud.”
 v29: These are the ones whom the LORD commanded to allot the inheritance to the Israelites in the land of Canaan.
 </p>
-##Notes
+## Notes
+v02: “fall to you” uses the language of allotment, anticipating the lot by which tribal locations are assigned.
+v05: The “Wadi of Egypt” is generally identified with a watercourse on the southwestern edge of Canaan rather than with the Nile itself.
+v06: “Great Sea” is the Mediterranean Sea, named from the perspective of the land.
+v07: The Mount Hor of this northern boundary is not the Mount Hor near Edom where Aaron died in Numbers 20 and 33.
+v13–15: The territorial description concerns the nine and a half tribes west of the Jordan because Reuben, Gad, and half of Manasseh have already received land east of the river.
+v17–29: Distribution is entrusted to priestly, military, and tribal leadership together rather than to Joshua alone.
 
 ##Vocabulary
 

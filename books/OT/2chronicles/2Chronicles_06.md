@@ -159,7 +159,12 @@ of your anointed one.
 Remember the steadfast love
 of David your servant.”
 </p>
-##Notes
+## Notes
+v06: Chronicles explicitly says God chose both Jerusalem and David, joining city and dynasty.
+v18: Solomon’s theology resists the idea that the temple physically contains God.
+v32–33: The prayer includes foreigners who come because of the LORD’s name and asks that their prayers be heard.
+v36: “There is no human being who does not sin” grounds the exile petition in realistic anthropology.
+v41–42: The closing lines echo Psalm 132 and emphasize priests, ark, anointed king, and Davidic steadfast love.
 
 ##Vocabulary
 

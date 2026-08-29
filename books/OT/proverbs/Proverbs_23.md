@@ -198,7 +198,15 @@ but I did not feel it.
 When will I wake up?
 I will seek another drink.”
 </p>
-##Notes
+## Notes
+v02: The violent image “put a knife to your throat” is deliberate hyperbole calling for severe restraint in the presence of power and luxury.
+v04–05: Wealth is pictured as capable of flying away despite intense human effort to secure it.
+v07: The Hebrew is difficult. The central contrast is between outward hospitality and inward calculation.
+v10–11: The vulnerable fatherless have a powerful “Redeemer,” a legal-family term here applied to God as their defender.
+v13–14: The ancient discipline imagery assumes parental responsibility to correct. Its stated aim is rescue from destruction, not uncontrolled violence.
+v23: Truth, wisdom, discipline, and understanding are worth acquiring at cost and are not to be traded away for temporary advantage.
+v29–35: The poem moves from questions about suffering to the seductive appearance of wine and finally to addiction’s impaired perception and compulsion.
+v35: The final line portrays the tragic cycle of intoxication: harm has occurred, yet the first desire upon waking is to return to the source of harm.
 
 ##Vocabulary
 

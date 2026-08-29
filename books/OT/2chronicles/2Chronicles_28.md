@@ -92,7 +92,12 @@ v26: Now the rest of his acts and all his ways, first and last, look, they are w
 
 v27: Ahaz lay down with his ancestors, and they buried him in the city, in Jerusalem, but they did not bring him into the tombs of the kings of Israel. Hezekiah his son became king in his place.
 </p>
-##Notes
+## Notes
+v03: Chronicles says Ahaz burned “his sons” in fire, intensifying the parallel account in Kings.
+v09–15: Oded’s speech is remarkable for confronting victorious northern Israelites with their own guilt and requiring compassionate restoration of Judean captives.
+v15: The care given to captives is concrete: clothing, sandals, food, drink, oil, transport, and return to kin.
+v20–21: Assyria, sought as savior, becomes another source of distress.
+v22: Chronicles makes Ahaz paradigmatic: distress drives him deeper into unfaithfulness rather than toward repentance.
 
 ##Vocabulary
 

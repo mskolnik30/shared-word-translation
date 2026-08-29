@@ -136,9 +136,19 @@ v45: I will dwell in the midst of the children of Israel and will be their God.
 
 v46: They will know that I am the LORD their God, who brought them out from the land of Egypt so that I might dwell in their midst. I am the LORD their God.
 </p>
-##Notes
-
+## Notes
+v01: Priesthood is established through washing, clothing, anointing, sacrifice, blood, food, and a seven-day rite. No single action alone constitutes the whole consecration.
 v09: “fill the hands” is the Hebrew idiom for ordination. The priest’s hands are literally filled with sacred portions later in the ritual.
+
+v10, v15, v19: Laying hands on the animal identifies Aaron and his sons with the sacrifice in distinct rites of purification, burnt offering, and ordination.
+v20: Blood is placed on right ear, thumb, and big toe, symbolically marking hearing, action, and walking within priestly service.
+v21: Blood from the altar and anointing oil are applied to priests and garments together, joining sacrificial and anointing holiness.
+v22: The “fat tail” refers to the large fatty tail of ancient Near Eastern sheep breeds.
+v24: “wave offering” describes a ritual presentation before the LORD. The exact physical motion is not fully described by the text.
+v33: The priests eat the food “by which atonement was made,” joining sacred meal and ordination. The meal is restricted because the food is holy.
+v37: “whatever touches the altar shall become holy” expresses the altar’s intensified sacred status and the danger of casual contact with holy space.
+v38–42: The daily lambs establish a continual rhythm of worship morning and evening, independent of special festivals.
+v46: The exodus reaches its theological purpose in divine dwelling: Israel is brought out of Egypt so that the LORD may dwell in their midst.
 
 ##Vocabulary
 

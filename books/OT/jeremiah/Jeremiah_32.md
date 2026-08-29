@@ -112,7 +112,16 @@ v43: Fields will be bought in this land of which you say, ‘It is desolate, wit
 
 v44: They will buy fields with silver, write deeds, seal them, and call witnesses in the land of Benjamin, in the places around Jerusalem, in the cities of Judah, in the cities of the hill country, in the cities of the foothills, and in the cities of the Negev, for I will restore their fortunes,” says the LORD.
 </p>
-##Notes
+## Notes
+v01: The chapter is set during the final siege of Jerusalem. The symbolic purchase of land therefore occurs precisely when ordinary confidence in Judean property has collapsed.
+v07–08: The “right of redemption” reflects kinship responsibility for preserving family land. Jeremiah’s legal obligation becomes a prophetic sign of future restoration.
+v10–14: The legal details—deed, seal, witnesses, scales, copies, and storage jar—give the promise a concrete documentary form intended to outlast the siege.
+
+v17, v27: Jeremiah’s confession that nothing is too wonderful for the LORD is returned to him as a divine question. Creation power becomes the basis both for judgment and restoration.
+v18: The language of guilt reaching later generations is held within a prayer that also immediately names the LORD’s steadfast love to thousands. The chapter does not reduce covenant consequence to a simple formula of inherited blame.
+v35: The LORD explicitly denies commanding child sacrifice and says it did not enter the divine heart. The text refuses to identify such acts with legitimate worship.
+v39–40: Future faithfulness is described through divine transformation of the heart, fear, and covenant, not merely external return to land.
+v41: The LORD is unusually described as planting the people “with all my heart and with all my life,” applying whole-person covenant language to divine commitment.
 
 ##Vocabulary
 

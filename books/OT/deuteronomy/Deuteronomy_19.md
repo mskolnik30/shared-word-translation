@@ -74,9 +74,17 @@ v20: The rest will hear and fear and will not again do such an evil thing in you
 
 v21: Your eye shall not pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
 </p>
-##Notes
-
-v16: The Hebrew word translated “rebellion” can also mean wrongdoing or defection.
+## Notes
+v02–03: The refuge system requires geographic planning: roads and territory are arranged so accidental killers can actually reach protection.
+v05: The axe-head example sharply distinguishes accidental death from prior hatred or planned violence.
+v06: The “avenger of blood” is a kinship role in an ancient society where family responsibility for bloodshed could produce cycles of vengeance. The refuge city interrupts that immediate retaliation.
+v08–09: Three additional cities are conditional upon territorial expansion and continued covenant faithfulness.
+v10: The system’s stated goal is protection from “innocent blood” and communal bloodguilt.
+v14: Boundary markers protect inherited family land from quiet theft by neighbors.
+v15: One witness is never sufficient to establish criminal guilt, creating an evidentiary safeguard.
+v16: The Hebrew word translated “rebellion” can also mean wrongdoing or defection. The key issue is intentionally false testimony.
+v18–19: A false witness receives the penalty he tried to bring upon another, making malicious testimony personally costly.
+v21: The proportional justice formula limits punishment to correspondence with the intended or actual harm.
 
 ##Vocabulary
 

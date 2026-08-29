@@ -76,8 +76,19 @@ v14: and all the remaining families,
 each family by itself,
 and their wives by themselves.
 </p>
-##Notes
-
+## Notes
+v1: The oracle begins by naming the LORD as creator of heavens, earth, and the human spirit. The coming events are framed by divine authority extending over creation itself.  
+v2: “cup of staggering” — Jerusalem becomes an image of intoxicating instability for the surrounding peoples. Those attacking the city are themselves made unable to stand securely.  
+v2: “Judah also will be caught in the siege” — The Hebrew syntax is compressed and difficult. The translation preserves Judah’s participation in the crisis surrounding Jerusalem without supplying a more specific military relationship.  
+v3: “heavy stone” — The nations attempt to lift or move Jerusalem and injure themselves in the process. The image presents the city as dangerous to those who seek to control it.  
+v4: “I will open my eyes” — The language contrasts God’s attentive care toward Judah with blindness imposed upon the horses of the attacking peoples.  
+v6: “firepot … torch” — Both images portray Judah as a source of consuming fire among surrounding combustible material.  
+v7: Judah is saved first so that Jerusalem and the Davidic house cannot turn deliverance into grounds for superiority over the rest of Judah.  
+v8: “like God, like the angel of the LORD” — The language intensifies the promised strength of the Davidic house without erasing the distinction between the house of David and the LORD.  
+v10: “They will look to me, whom they pierced … mourn for him” — The Hebrew shifts strikingly from first person (“me”) to third person (“him”). TSW preserves that shift rather than harmonizing the pronouns.  
+v10: “spirit of grace and supplication” — The expression joins divine gift with the human response of pleading or prayer.  
+v11: “Hadad-Rimmon” — The precise historical or ritual event behind the reference is uncertain. Its location near Megiddo connects it with a remembered occasion of great mourning.  
+v12–14: Mourning extends through royal, prophetic or familial, priestly, and wider communal lines. Repeated separation of families and spouses emphasizes both the universality and the personal character of the grief.  
 v02: “Judah also will be caught in the siege” — The Hebrew syntax is compressed and difficult.
 
 ##Vocabulary

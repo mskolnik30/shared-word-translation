@@ -453,13 +453,19 @@ v64: Then say, ‘Thus Babylon will sink and will not rise because of the disast
 
 Thus far are the words of Jeremiah.
 </p>
-##Notes
-
-v03: The Hebrew is syntactically difficult and may be read as commands either to Babylon’s archers or to those attacking them.
-
-v58: The clause concerning Babylon’s wall has textual and lexical difficulties.
-
-v59: Seraiah’s title is rare and may mean quartermaster, lodging official, or another court function.
+## Notes
+v01: “Leb-Kamai” is generally understood as an encoded designation for Chaldea/Babylonia using the Hebrew *atbash* substitution system. TSW preserves the received cryptic name rather than replacing it in the main text.
+v03: The Hebrew is syntactically difficult and may be read as commands either to Babylon’s archers or to those attacking them. TSW preserves the battle contrast without claiming certainty about every grammatical relation.
+v05: Israel and Judah are said not to be forsaken even though “their land is filled with guilt.” Election and judgment remain in tension.
+v07: Babylon, itself a golden cup in the LORD’s hand, becomes the means through which nations are made drunk. The empire is both instrument and later object of judgment.
+v15–19: These verses closely parallel Jeremiah 10:12–16. The Creator is contrasted with breathless images before the oracle returns to Babylon’s fall.
+v20–23: The identity of the one addressed as the LORD’s “war club” is not explicitly named in the immediate lines and has been understood as Babylon or the power appointed to destroy Babylon. TSW preserves the second-person address without supplying a name.
+v25: Calling Babylon a “destroying mountain” is metaphorical even though Babylon itself lies on a plain. The image concerns massive destructive power rather than topography.
+v34: The Hebrew monster term *tannin* can denote a serpent, dragon, or great sea creature. TSW uses “sea monster” without identifying a zoological species.
+v41: “Sheshach,” like the term in Jeremiah 25:26, is an *atbash* cryptogram for Babylon.
+v58: The clause concerning Babylon’s wall has textual and lexical difficulties. The clear movement is from supposedly vast fortification to ruined wall, burned gates, and human labor spent for nothing.
+v59: Seraiah’s title is rare and may mean quartermaster, lodging official, or another court function. TSW uses “quartermaster” while leaving the uncertainty in the note.
+v63–64: The sinking scroll is an enacted prophetic sign: the written judgment against Babylon is physically joined to the image of the empire sinking beyond recovery.
 
 ##Vocabulary
 

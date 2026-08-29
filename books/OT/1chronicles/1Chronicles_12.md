@@ -164,6 +164,7 @@ v39: They were there with David for three days, eating and drinking, for their k
 <p>
 v40: Also those near them, as far away as Issachar, Zebulun, and Naphtali, brought food on donkeys, camels, mules, and cattle: flour, fig cakes, raisins, wine, oil, cattle, and sheep in abundance. For there was joy in Israel.
 </p>
-##Notes
+## Notes
+v2: [^12-1]: **12:2 — “Able to use the right hand and the left.”** The description emphasizes unusual skill and adaptability in battle. These Benjaminites, though connected with Saul’s tribe, become part of David’s growing support.  
 
 ##Vocabulary

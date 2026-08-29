@@ -20,7 +20,10 @@ v06: 'Look, the days are coming when all that is in your house, and that which y
 v07: 'They will take away your sons who will issue from you, whom you will father, and they will be eunuchs in the king of Babylon's palace.'"
 v08: Then Hezekiah said to Isaiah, "the LORD's word which you have spoken is good." He said moreover, "For there will be peace and truth in my days."
 </p>
-##Notes
+## Notes
+v06: The Babylonian envoys transform a moment of recovery into a prophetic horizon of exile; the chapter closes the first major section of Isaiah with unresolved judgment.
+v05: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
+v08: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
 
 ##Vocabulary
 

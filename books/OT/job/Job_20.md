@@ -110,7 +110,13 @@ flowing off on the day of God’s anger.
 v29: This is the portion of a wicked man from God,
 and the inheritance appointed to him by God.”
 </p>
-##Notes
+## Notes
+v05: Zophar states his thesis as ancient and universal: wicked prosperity is necessarily brief. Job’s next speech directly challenges that claim with observation of wicked people who live long and prosper.
+v07: The comparison with dung is intentionally degrading and expresses complete disappearance from honor and memory.
+v12–16: Wickedness is pictured as sweet food deliberately savored, which then transforms into poison inside the body.
+v19: Zophar finally names specific wrongdoing—oppression of the poor and seizure of houses—even though the narrative has given no evidence that Job committed these acts.
+v26: “fire not blown” is fire not kindled or sustained by human means, implying divine or supernatural judgment.
+v27: Heaven and earth, which Job had called upon as witnesses, are here imagined by Zophar as witnesses against the wicked.
 
 ##Vocabulary
 

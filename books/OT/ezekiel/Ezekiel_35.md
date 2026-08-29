@@ -66,9 +66,12 @@ v14: Thus says the LORD GOD: To the rejoicing of all the earth, I will make you 
 <p>
 v15: As you rejoiced over the inheritance of the house of Israel because it was desolate, so I will deal with you. You will become a desolation, Mount Seir, and all Edom, all of it. Then they will know that I am the LORD.’”
 </p>
-##Notes
-
-v06: The repeated word *blood* may refer both to bloodshed and to the consequences of violence.
+## Notes
+v05: Mount Seir represents Edom. The charge is not merely political rivalry but enduring hostility expressed when Israel was most vulnerable—“at the time of their calamity.”
+v06: The repeated word *blood* may refer both to bloodshed and to the consequences of violence. The sentence turns Edom’s violence back upon it: what it did not reject will pursue it.
+v10: “The two nations” and “the two lands” likely refer to Israel and Judah. Edom’s claim ignores the LORD’s presence and claim upon the land.
+v11: God’s judgment answers Edom’s anger, envy, and hatred. Yet the stated purpose remains recognition: through judgment, both those judged and those who suffered will know the LORD.
+v14: The wording places Edom’s devastation in contrast with “the rejoicing of all the earth.” The verse does not explain the scope or occasion of that rejoicing, leaving the sharp reversal to stand.
 
 ##Vocabulary
 

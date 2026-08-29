@@ -101,11 +101,17 @@ v45: For their sake I will remember the covenant with their ancestors, whom I br
 <p>
 v46: These are the statutes, ordinances, and instructions that the LORD established between the LORD and the Israelites on Mount Sinai by the hand of Moses.
 </p>
-##Notes
-
-v21–28: “walk in opposition” renders the difficult Hebrew term קֶרִי (qeri). Its precise nuance is uncertain and can include hostility, contrariness, or treating the relationship casually.
-
-v30: The Hebrew term rendered “incense altars” (חַמָּנִים, chammanim) is uncertain and may refer to solar cult objects or incense altars.
+## Notes
+v03–13: The promised blessing moves from agricultural abundance to security, peace, covenant, and finally the LORD’s dwelling and walking among the people. The sequence culminates in relationship rather than material prosperity alone.
+v11: “my dwelling place” renders מִשְׁכָּן (mishkan), the same term used for the tabernacle. The promise places the LORD’s presence among Israel at the center of covenant blessing.
+v18, v21, v24, v28: “sevenfold” marks the repeated intensification of covenant consequences when correction is refused. The repetition is deliberately preserved.
+v21–28: “walk in opposition” renders the difficult Hebrew term קֶרִי (qeri). Its precise nuance is uncertain and can include hostility, contrariness, or treating the relationship casually. The translation preserves the repeated reciprocal pattern: Israel walks in opposition to the LORD, and the LORD walks in opposition to Israel.
+v26: “staff of bread” is retained as a concrete Hebrew metaphor for the basic support or sustaining supply of food.
+v29: The threatened eating of sons and daughters is retained without softening. It portrays the extremity of siege and covenant collapse.
+v30: The Hebrew term rendered “incense altars” (חַמָּנִים, chammanim) is uncertain and may refer to solar cult objects or incense altars. The main text follows the cultic context without resolving the object more narrowly.
+v34–35: The land’s missed Sabbaths are personified as a debt of rest that is finally received during desolation.
+v42: The covenant ancestors appear in the unusual order Jacob, Isaac, Abraham. TSW preserves the order of the Hebrew text rather than harmonizing it to the more familiar sequence.
+v44–45: Judgment does not end the covenant. Even in exile the LORD refuses total rejection and remembers the covenant made with the ancestors.
 
 ##Vocabulary
 

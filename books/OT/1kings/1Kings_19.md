@@ -54,10 +54,16 @@ v20: He left the oxen and ran after Elijah. He said, “Please let me kiss my fa
 
 v21: So he returned from following him, took the pair of oxen, and slaughtered them. With the equipment of the oxen he boiled their flesh and gave it to the people, and they ate. Then he rose, went after Elijah, and served him.
 </p>
-##Notes
-
+## Notes
+v3: **19:3** The Hebrew text as supplied reads, “He saw,” while a traditional reading reflected in many translations is “He was afraid.” “He saw it” preserves the consonantal wording and leaves the precise force open: Elijah may see the threat and flee for his life.  
+v4: **19:4** “Take my life” expresses Elijah’s request to die. The same Hebrew word, *nephesh*, can mean “life,” “self,” or “person”; Elijah’s despair is bodily and personal, not merely abstract.  
+v11–12: **19:11–12** The LORD is explicitly said not to be “in” the wind, earthquake, or fire. The passage does not deny God’s power over these forces; it distinguishes them from the manner in which Elijah receives God’s presence and word here.  
+v12: **19:12** The phrase translated “a sound of thin silence” is deliberately compact and difficult. It may suggest a barely audible sound, profound stillness, or silence made perceptible. Its strangeness is part of the scene’s movement after wind, earthquake, and fire.  
+v15–17: **19:15–17** The commands concerning Hazael, Jehu, and Elisha place Elijah’s personal crisis within a larger work of judgment and succession. The text names violent consequences without explaining every detail of how these commissions will be carried out.  
+v18: **19:18** God’s declaration challenges Elijah’s claim, repeated in verses 10 and 14, that he alone remains. The seven thousand are identified by their refusal to bow to or kiss Baal, bodily signs of allegiance and worship.  
+v20: **19:20** Elijah’s reply, “For what have I done to you?” can sound dismissive, permissive, or probing. The wording leaves Elisha’s decision and the cost of following before the reader.  
+v21: **19:21** Elisha’s use of the oxen and plowing equipment makes his departure from his former work visible and costly. He then “served” Elijah, language that can denote personal attendance and ministry.  
 v03: The Hebrew text as supplied reads, “He saw,” while a traditional reading reflected in many translations is “He was afraid.” “He saw it” preserves the consonantal wording and leaves the precise force open: Elijah may see the threat and flee for his life.
-
 v04: The same Hebrew word, *nephesh*, can mean “life,” “self,” or “person”; Elijah’s despair is bodily and personal, not merely abstract.
 
 ##Vocabulary

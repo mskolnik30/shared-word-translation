@@ -132,9 +132,14 @@ speak, for I desire to justify you.
 v33: If not, listen to me;
 be silent, and I will teach you wisdom.”
 </p>
-##Notes
-
-v24: “ransom” — Hebrew *kofer* can mean a price of release or covering payment.
+## Notes
+v06–07: Elihu presents himself as the kind of human disputant Job desired: made from the same clay and therefore not overwhelming him with divine terror.
+v09: Elihu summarizes Job more absolutely than Job usually speaks. Job has claimed integrity and denied the accusations against him, not consistently claimed total sinlessness.
+v14–18: Elihu argues that divine silence may actually be unrecognized communication, especially through dreams intended to redirect human pride.
+v19–22: Elihu also interprets suffering as corrective communication. Unlike the three friends, he emphasizes prevention and restoration rather than simple punishment for past wrongdoing.
+v23: “messenger … interpreter” — The figure’s identity is not defined. It may be a heavenly messenger, human mediator, or poetic representative who explains what is right.
+v24: “ransom” — Hebrew *kofer* can mean a price of release or covering payment. Elihu introduces it without describing its source.
+v26–28: Restoration includes prayer, renewed access to God’s face, confession, righteousness, and return from the pit to light.
 
 ##Vocabulary
 

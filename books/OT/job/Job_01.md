@@ -59,9 +59,14 @@ Blessed be the name of the LORD.”
 
 v22: In all this Job did not sin and did not charge God with wrongdoing.
 </p>
-##Notes
-
-v11: “curse” — The Hebrew text literally uses the verb “bless” in a context where it functions euphemistically for cursing God.
+## Notes
+v01: “blameless and upright” — The opening description concerns Job’s integrity, not sinless perfection. The narrative establishes his character before any explanation of suffering is offered.
+v06: “sons of God” — The expression depicts members of the heavenly council. The scene is presented from a divine perspective unavailable to Job himself.
+v06: “the accuser” — Hebrew *ha-satan* means “the accuser” or “the adversary.” The definite article presents a role or title rather than necessarily a personal name.
+v09: “for nothing” — The Hebrew *chinnam* asks whether Job’s reverence is gratuitous or only the result of divine protection and blessing. This question becomes central to the book.
+v11: “curse” — The Hebrew text literally uses the verb “bless” in a context where it functions euphemistically for cursing God. TSW renders the intended force.
+v20–21: Job’s mourning practices are concrete and severe, yet his first response remains worship. His confession does not explain his suffering or indicate that the losses are morally deserved.
+v22: The narrator explicitly rejects the claim that Job has sinned through his initial response, establishing a boundary for later interpretations by his friends.
 
 ##Vocabulary
 

@@ -60,7 +60,13 @@ v17: But I will deliver you on that day,” says the LORD, “and you will not b
 
 v18: For I will surely rescue you, and you will not fall by the sword. Your life will be to you as plunder, because you trusted in me,” says the LORD.
 </p>
-##Notes
+## Notes
+v02: The breach of Jerusalem’s wall fulfills the repeated warnings of the preceding chapters and marks the military collapse of the city.
+v03: Several Babylonian titles and names are difficult to divide and transliterate. TSW preserves the received sequence rather than simplifying the list.
+v06–07: Zedekiah’s final sight is the killing of his sons before he is blinded. The narrative presents the brutality directly and without embellishment.
+v10: The poorest people, previously without property, receive vineyards and fields after the elite are deported, creating a stark social reversal.
+v11–14: Babylonian authorities protect Jeremiah, while Judah’s own officials had imprisoned him. The irony is central to the narrative.
+v15–18: Ebed-Melech’s earlier act of trust and rescue is answered with a personal promise of deliverance. His life, like that of those who surrender in chapter 21, becomes “plunder.”
 
 ##Vocabulary
 

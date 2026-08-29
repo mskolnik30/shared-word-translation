@@ -112,9 +112,20 @@ from the power of the lions.”
 <p>
 v28: So this Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian.
 </p>
-##Notes
-
-v28: The Aramaic wording can be read as Daniel prospering under Darius and Cyrus, or possibly identifying Darius with Cyrus in some relation.
+## Notes
+v01: The Persian administrative numbers belong to Daniel’s narrative presentation of Darius’s kingdom. The exact historical structure represented is debated.
+v03: Daniel’s excellence is again attributed to an “extraordinary spirit,” echoing the descriptions in chapters 5 and earlier court narratives.
+v04: Daniel’s rivals can find no administrative corruption, negligence, or disloyalty, so they weaponize his religious faithfulness.
+v07: The officials claim unanimity—“all the high officials”—even though Daniel, one of the highest officials, clearly did not agree. Their speech to the king is manipulative.
+v08: The supposedly unchangeable law of Medes and Persians again creates the narrative problem of an impulsive royal decree that the king later cannot simply reverse.
+v10: Daniel does not begin a new protest practice after the decree; he prays “just as he had done before.” His faithfulness is continuity rather than theatrical defiance.
+v10: Open windows toward Jerusalem express exilic prayer oriented toward the lost holy city.
+v16: Darius’s statement may be a hope, blessing, or confession: Daniel’s continually served God is the only possible rescuer now that the king’s legal system has trapped him.
+v17: Multiple seals prevent tampering from either royal or official sides.
+v22: Daniel attributes rescue to God’s messenger and declares innocence both before God and before the king.
+v24: The execution of wives and children with the accusers reflects ancient imperial collective punishment and is morally severe. TSW reports the narrative without endorsing such punishment as a general principle.
+v26–27: Darius’s decree confesses the enduring kingdom of Daniel’s God, in contrast with the fragile legal and political power exercised by earthly kings.
+v28: The Aramaic wording can be read as Daniel prospering under Darius and Cyrus, or possibly identifying Darius with Cyrus in some relation. TSW follows the straightforward two-reign reading.
 
 ##Vocabulary
 

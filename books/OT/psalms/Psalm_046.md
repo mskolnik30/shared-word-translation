@@ -49,11 +49,17 @@ v10: “Be still, and know that I am God;
 v11: The LORD of Hosts is with us;
   the God of Jacob is our stronghold. *Selah*
 </p>
-##Notes
+## Notes
+v1: Three nouns are stacked—refuge (maḥseh), strength (ʿōz), help (ʿezrâ)—and the closing phrase says God is "very" found, a help easily met. The opening is not measured; it is abundant.
+v2–3: The first stanza imagines the unmaking of the world: earth giving way, mountains falling into the sea, waters in chaos. These are the elements that the ancient Near Eastern imagination feared most. The psalm names them and refuses to fear them.
+v4: A river appears in the midst of an inland city. Jerusalem has no river. The river is theological geography: a reference to Eden, to Ezekiel's vision, to the streams that the LORD's presence makes flow. Where God dwells, water comes.
+v5: "At the break of morning" (liphnôt bōqer) — help comes when the night ends. The psalm does not deny the night.
+v6: The verbs of v.6 are charged: nations "in uproar" (the same root as the waters' "roar" in v.3), kingdoms "totter" (the same verb as the mountains in v.2). The psalm is mapping cosmic upheaval onto political upheaval—and answering both with one voice.
 
-Structure: Verses 7 and 11 form a refrain.
-
-v11: The refrain returns identical, but it now arrives after the silencing.
+v07, v11: The refrain. The LORD of hosts (yhwh ṣəvāʾôt) is a military title; the God of Jacob is a covenant title. Both are ours.
+v8–9: "Behold the works of the LORD" reverses the gaze. The works named are not creation but the unmaking of weapons. Bows broken, spears shattered, chariots burned.
+v10: "Be still" (harpû) is more than quiet. The verb means "let go," "desist," "drop your hands." It is addressed first, in context, to the raging nations, but the ages have heard it as addressed to all who tremble. Both hearings stand. The knowing that follows is participatory: stop striving long enough to recognize who God is.
+v11: The refrain returns identical, but it now arrives after the silencing. What the song affirmed in cosmic terms is now the truth that the still soul confesses.
 
 ##Vocabulary
 

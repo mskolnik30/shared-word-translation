@@ -68,7 +68,16 @@ v29: Remember them, my God, because they have defiled the priesthood and the cov
 v30: So I cleansed them from everything foreign and established duties for the priests and Levites, each in their work,
 v31: and for the wood offering at appointed times and for the firstfruits. Remember me, my God, for good.
 </p>
-##Notes
+## Notes
+v01–03: The reading reflects Deuteronomic restrictions concerning Ammon and Moab. The narrative applies the Torah to communal boundaries in the restored community.
+v04–09: Tobiah, a major opponent throughout the book, has been given space inside the temple complex through Eliashib’s relationship with him. Nehemiah treats this as a direct corruption of sacred space.
+v06: Artaxerxes is called “king of Babylon” here within the Persian imperial context. TSW preserves the textual designation rather than harmonizing it with other royal titles.
+v10–13: When temple personnel are not supported, they leave sacred service to work their fields. Nehemiah restores both material provision and trustworthy administration.
+v14: “acts of steadfast love” — The Hebrew term can describe faithful deeds done in loyal service. Nehemiah asks God not to erase these acts from remembrance.
+v15–22: Sabbath observance is again inseparable from economic practice. Nehemiah addresses both Judean producers and outside merchants.
+v23–27: The problem is presented through covenantal allegiance and household formation, including the children’s loss of the language of Judah. The text’s harsh actions are narrated without commendatory expansion.
+v28–29: Intermarriage reaches into the high-priestly family and links it again with Sanballat, joining household, priesthood, and political loyalty.
+v31: The book ends with the recurring prayer, “Remember me,” leaving Nehemiah’s work before God rather than ending with a claim of final human completion.
 
 ##Vocabulary
 

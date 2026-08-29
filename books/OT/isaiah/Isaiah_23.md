@@ -42,7 +42,11 @@ v17: It will happen after the end of seventy years that the LORD will visit Tyre
 v18: Her merchandise and her wages will be holiness to the LORD. It will not be treasured nor laid up;
 for her merchandise will be for those who dwell before the LORD, to eat sufficiently, and for durable clothing.
 </p>
-##Notes
+## Notes
+v15: Tyre’s seventy years are presented as a bounded period of humiliation followed by renewed commerce whose final purpose is redirected.  
+v9: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v9: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
+v3: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
 ##Vocabulary
 

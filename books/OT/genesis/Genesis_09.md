@@ -70,7 +70,19 @@ and let Canaan be his servant.”
 v28: Noah lived after the flood three hundred fifty years.
 v29: Thus all the days of Noah were nine hundred fifty years, and he died.
 </p>
-##Notes
+## Notes
+v1–7: The blessing given to Noah echoes the creation mandate of Genesis 1. Humanity receives a renewed commission within a changed world.  
+v3: Permission to eat animals marks a development from the earlier provision of plants as food.  
+v4–6: Blood is treated as the bearer of life. Human life remains sacred because humanity bears the image of God.  
+v6: The poetic form highlights the gravity of bloodshed and the enduring significance of the divine image.  
+v8–11: The covenant extends beyond Noah and his descendants to all living creatures. The scope is cosmic rather than merely human.  
+v13: The bow functions as a sign of divine commitment. The text emphasizes God’s promise rather than human obligation.  
+v15–16: The language of remembrance is covenantal. God’s remembering signifies faithful action and enduring commitment.  
+v18–19: The narrative narrows from the whole earth to Noah’s family, preparing for future genealogies and nations.  
+v20–21: Noah, a righteous man preserved through the flood, is portrayed with striking realism. The text neither idealizes nor excuses him.  
+v22–24: The exact nature of Ham’s offense has been interpreted in different ways. The narrative itself remains restrained, emphasizing dishonor and contrast with the actions of Shem and Japheth.  
+v25–27: The curse falls upon Canaan rather than Ham. The passage anticipates later relationships among peoples descended from Noah’s sons.  
+v28–29: Noah’s death closes the flood narrative and returns the genealogy to the recurring pattern of mortality.  
 
 ##Vocabulary
 

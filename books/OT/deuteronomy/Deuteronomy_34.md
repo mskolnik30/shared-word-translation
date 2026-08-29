@@ -42,7 +42,15 @@ v11: none like him for all the signs and the wonders that the LORD sent him to d
 
 v12: and for all the mighty hand and all the great fear that Moses did in the sight of all Israel.
 </p>
-##Notes
+## Notes
+v1–3: Moses views the fullness of the promise but does not enter it. The vision is comprehensive, naming the land in its breadth.  
+v4: The covenant is reaffirmed in sight but withheld in experience. Fulfillment is both seen and deferred.  
+v5–6: Moses dies “according to the word of the LORD,” and the hidden burial underscores divine agency and limits memorialization.  
+v7: Physical vitality remains intact; death is not attributed to decline but to divine determination.  
+v8: Communal mourning is structured—thirty days marks closure and transition.  
+v9: Leadership passes through embodied action (laying on of hands) and is confirmed by obedience.  
+v10: Moses’ uniqueness is relational—“face to face” knowledge distinguishes his prophetic role.  
+v11–12: Signs, wonders, and “mighty hand” summarize Moses’ ministry as mediated power before Israel and Egypt.  
 
 ##Vocabulary
 

@@ -99,9 +99,14 @@ and I have no quiet,
 and I have no rest—
 yet trouble comes.”
 </p>
-##Notes
-
-v05: “death-shadow” — Hebrew *tsalmavet* can mean deep darkness or the shadow of death.
+## Notes
+v01: Job curses the day of his birth, not God. The speech moves from silence into lament without overturning the narrator’s affirmation of Job’s integrity.
+v03–10: Job imagines undoing his birth by reversing creation imagery: light disappears, darkness returns, and the day is removed from ordered time.
+v05: “death-shadow” — Hebrew *tsalmavet* can mean deep darkness or the shadow of death. The compound image suits Job’s desire for the day to disappear into deathlike darkness.
+v08: “rouse Leviathan” — The line likely refers to professional cursers or mythic imagery associated with awakening a chaos creature. Leviathan appears again in the LORD’s speech in chapter 41.
+v13–19: Job imagines Sheol as a place where social differences and oppression cease. His longing is for rest rather than for an articulated doctrine of the afterlife.
+v20–23: The repeated “why” shifts from Job’s birth to the larger question of why life is given to people who experience it as unbearable.
+v23: The “hedge” reverses the accuser’s language in 1:10. What the accuser saw as protective enclosure Job now experiences as confinement.
 
 ##Vocabulary
 

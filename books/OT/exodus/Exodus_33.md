@@ -51,7 +51,15 @@ v22: and while my glory passes by I will put you in a cleft of the rock, and I w
 
 v23: Then I will take away my hand, and you shall see my back, but my face shall not be seen.”
 </p>
-##Notes
+## Notes
+v12–13: Moses presses for clarity—mission without presence is insufficient. “Knowing” God is tied to favor and guidance.  
+v14: “Presence” (literally “face”) becomes the decisive assurance. Rest is the outcome of divine accompaniment.  
+v15–16: Moses reframes identity: Israel is defined not by geography but by God’s presence among them.  
+v17: Divine response affirms relational knowledge—being “known by name” grounds the promise.  
+v18: The request to see “glory” intensifies the encounter—seeking direct perception of divine reality.  
+v19: Glory is mediated through goodness and name. Divine freedom (“I will be gracious…”) resists human control.  
+v20: The boundary is absolute—direct vision of God is incompatible with human life.  
+v21–23: Revelation is partial and protected. The imagery of rock, cleft, and covering emphasizes both nearness and concealment.  
 
 ##Vocabulary
 

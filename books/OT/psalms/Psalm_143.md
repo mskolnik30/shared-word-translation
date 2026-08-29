@@ -60,7 +60,8 @@ v12: In your steadfast love cut off my enemies
 and destroy all who afflict my life,
 for I am your servant.
 </p>
-##Notes
+## Notes
+v09: The final Hebrew verb is textually difficult. The consonants support the sense of covering or hiding; “I have fled for refuge” expresses the idiomatic force of seeking shelter in God without resolving the underlying form more narrowly.
 
 ##Vocabulary
 

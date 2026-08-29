@@ -59,7 +59,14 @@ and our land will yield its increase.
 v13: Righteousness will go before him
 and will make a path for his steps.
 </p>
-##Notes
+## Notes
+v1–3: The psalm begins with remembered restoration, grounding present hope in past action.  
+v4–7: Petition acknowledges ongoing need despite prior forgiveness.  
+v6: Revival is communal and joy-oriented.  
+v8: Listening becomes central. Response follows divine speech.  
+v9: Salvation is near, but conditioned by reverence (“those who fear him”).  
+v10–11: Abstract qualities are personified and unified, resolving tension.  
+v12–13: Divine action results in both moral and material flourishing.  
 
 ##Vocabulary
 

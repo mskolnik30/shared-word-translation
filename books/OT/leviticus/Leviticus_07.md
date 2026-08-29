@@ -75,7 +75,12 @@ v36: The LORD commanded that this be given to them from the Israelites on the da
 v37: This is the law of the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering, and the sacrifice of well-being,
 v38: which the LORD commanded Moses at Mount Sinai on the day the LORD commanded the Israelites to bring their offerings to the LORD in the wilderness of Sinai.
 </p>
-##Notes
+## Notes
+v11: The chapter gathers several forms of the *shelamim* offering, including thanksgiving, vow, and freewill sacrifices.
+v18: The Hebrew term rendered “repulsive thing” is *piggul*, a specialized ritual word whose exact nuance is difficult to reproduce in English.
+v20–21: Participation in the shared sacrificial meal requires ritual cleanness; holiness and communal eating remain linked.
+v30: “elevated” — The traditional term “wave offering” represents a ritual movement whose exact form is not fully described by the Hebrew verb.
+v35–36: Priestly portions are presented as part of the LORD’s provision for those set apart for sanctuary service.
 
 ##Vocabulary
 

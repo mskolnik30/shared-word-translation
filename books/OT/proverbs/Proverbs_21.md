@@ -174,7 +174,15 @@ for the day of battle,
 but victory
 belongs to the LORD.
 </p>
-##Notes
+## Notes
+v1: Even royal power is not independent of the LORD. The image of irrigation channels portrays authority redirected according to divine purpose.  
+v3: Ethical faithfulness is preferred to sacrifice detached from righteousness and justice.  
+v12: “The Righteous One” may refer to a righteous human observer or to God. TSW retains the possible divine designation rather than eliminating the ambiguity.  
+v13: Refusal to hear the vulnerable is answered by a corresponding experience of not being heard.  
+v21: Righteousness and steadfast love are not passive qualities; they are things pursued.  
+v27: Religious practice becomes especially offensive when it is deliberately used while pursuing evil.  
+v30: Human intelligence cannot finally construct a strategy capable of defeating the LORD’s purpose.  
+v31: Preparation remains appropriate, but preparation is distinguished from the source of ultimate deliverance.  
 
 ##Vocabulary
 

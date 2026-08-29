@@ -182,9 +182,25 @@ to judge Mount Esau,
 and the kingdom
 will belong to the LORD.
 </p>
-##Notes
-
-v21: “Deliverers” — The Hebrew plural can mean saviors or deliverers.
+## Notes
+v01: “Obadiah” — The Hebrew name means “servant of the LORD.” The book provides no further information identifying the prophet with certainty.
+v01: “Edom” — Edom was associated with Esau, Jacob’s brother. The book repeatedly uses “Edom,” “Esau,” and “Mount Esau” within the same prophetic judgment, making the ancestral relationship with Jacob central to the accusation.
+v03: “clefts of the rock” — Edom’s mountainous terrain provided natural fortifications. The oracle turns the security of elevated rock dwellings into an image of misplaced confidence.
+v04: “among the stars” — The language deliberately stretches Edom’s imagined security to its highest possible point. No height places Edom beyond the LORD’s reach.
+v05: “how you have been destroyed!” — The exclamation interrupts the comparison with thieves and harvesters. Ordinary thieves leave something behind; Edom’s coming devastation will be more complete.
+v06: “Esau” — The ancestral name is used for Edom, bringing the judgment upon the nation into the family relationship between Esau and Jacob.
+v07: “Those who eat your bread have set a trap beneath you” — The Hebrew is difficult, especially the word rendered “trap.” The verse clearly portrays trusted allies and table companions turning against Edom.
+v07: “There is no understanding in him” — The sudden third-person form is retained. It may refer to Edom as a whole rather than to a particular individual.
+v08–09: Wisdom and military strength, both associated with Edom in biblical tradition, will fail together. Neither insight nor warriors can secure Mount Esau.
+v10: “your brother Jacob” — Edom’s violence is intensified by kinship. The wrongdoing is not merely violence against another nation but betrayal of a brother people.
+v11: “you were like one of them” — Standing aside during Jerusalem’s destruction becomes participation. Neutrality in the face of the violence described is treated as complicity.
+v12–14: The repeated “Do not” statements may rhetorically describe what Edom did during Judah’s disaster by presenting those acts as prohibitions. Looking, rejoicing, plundering, intercepting fugitives, and handing over survivors form an escalating pattern of complicity.
+v15: “As you have done, it will be done to you” — The judgment follows a principle of corresponding consequence. Edom receives back the kind of action it directed toward others.
+v16: “just as you drank on my holy mountain” — The identity of the addressed “you” and the precise sense of drinking are debated. Drinking may evoke celebration, judgment, or both. The translation preserves the imagery without specifying the event further.
+v17: “possess its possessions” — The deliberate repetition of the Hebrew root is retained as closely as English allows. Restoration includes recovering what had been lost.
+v18: “Jacob … Joseph … Esau” — The ancestral names represent peoples. Jacob and Joseph together broaden the promise beyond Judah alone toward the restored people of Israel.
+v20: “Sepharad” — The location is uncertain. Later Jewish tradition associated the name with Spain, but the ancient geographical reference cannot be established securely.
+v21: “Deliverers” — The Hebrew plural can mean saviors or deliverers. These figures participate in judgment from Mount Zion, but the verse culminates not in their authority but in the LORD’s kingship.
 
 ##Vocabulary
 

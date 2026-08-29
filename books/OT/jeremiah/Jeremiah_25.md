@@ -133,9 +133,15 @@ for their land has become a horror
 because of the fierce oppressor
 and because of his burning anger.
 </p>
-##Notes
-
+## Notes
+v01: The fourth year of Jehoiakim corresponds to the first year of Nebuchadnezzar in Jeremiah’s reckoning and marks a major transition in the book’s geopolitical setting.
+v03: Jeremiah frames his ministry as twenty-three years of persistent speech met by persistent refusal to listen.
+v09: Nebuchadnezzar is called “my servant,” a striking designation for a foreign king used as an instrument of the LORD’s judgment.
+v11–12: “seventy years” expresses the appointed period of Babylonian domination and becomes an important chronological promise in Jeremiah 29.
 v13: In the Masoretic arrangement, Jeremiah’s oracles against the nations appear later in chapters 46–51. The Greek tradition places much of that material after 25:13 and in a different order.
+v15–29: The cup of wrath is a prophetic image of judgment that moves from Judah outward to the nations.
+v26: “Sheshach” is generally understood as a cryptographic name for Babylon using the Hebrew *atbash* letter substitution system.
+v30–31: The LORD’s judgment is described through both lion imagery and legal language: roaring and entering into a controversy with the nations.
 
 ##Vocabulary
 

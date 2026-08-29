@@ -110,11 +110,15 @@ v39: At the end of two months she returned to her father, and he did to her acco
 
 v40: that from year to year the daughters of Israel went to commemorate the daughter of Jephthah the Gileadite four days in the year.
 </p>
-##Notes
-
+## Notes
+v01–03: Jephthah is introduced simultaneously as a mighty warrior and as an outcast because of his birth. His later elevation emerges from the same community that expelled him.
+v12–27: Jephthah attempts diplomacy before battle. His argument retells Israel’s journey and distinguishes Ammonite territory from the Amorite land Israel actually seized.
+v24: Jephthah refers to Chemosh as Ammon’s god, although elsewhere Milcom is associated with Ammon and Chemosh with Moab. The speech may reflect rhetorical accommodation, overlapping traditions, or textual complexity; TSW does not correct the text.
 v24: The speech may reflect rhetorical accommodation, overlapping traditions, or textual complexity; the wording remains unresolved.
-
-v31: The Hebrew wording can refer to “whatever” or “whoever” comes out and joins that outcome directly to offering as a burnt offering.
+v29–31: The Spirit of the LORD comes upon Jephthah before he makes the vow. The narrative does not say the vow was required by God or prompted by the Spirit.
+v31: The Hebrew wording can refer to “whatever” or “whoever” comes out and joins that outcome directly to offering as a burnt offering. The narrative’s tragic development resists attempts to make the vow harmless.
+v35: Jephthah blames the situation upon his daughter’s appearance even though the vow was his own. The narrative preserves this displacement of responsibility.
+v39: The text states that Jephthah did according to his vow and emphasizes that his daughter had known no man. Interpretations that understand dedication rather than death have been proposed, but the straightforward narrative movement strongly supports the tragic force of the vow. TSW preserves the wording without adding an explanatory resolution.
 
 ##Vocabulary
 

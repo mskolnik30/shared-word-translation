@@ -78,9 +78,19 @@ v24: When you hear the sound of marching in the tops of the balsam trees, then a
 
 v25: David did so, as the LORD commanded him, and struck the Philistines from Geba as far as Gezer.
 </p>
-##Notes
-
+## Notes
+v01: “bone and flesh” is kinship language expressing tribal solidarity with David.
+v02: Shepherd and ruler language defines kingship as care for the LORD’s people rather than only command over them.
+v06: The taunt about “blind and lame” is difficult and likely mocks David’s ability to capture the fortified city rather than identifying actual defenders.
+v08: The wording about the water shaft, blind, lame, and David’s hatred is textually and interpretively difficult. TSW stays close to the received Hebrew without attempting to soften the hostility.
 v09: “Millo” is a structural or topographic term associated with Jerusalem’s fortifications. Its exact architectural form is uncertain.
+v12: David interprets royal exaltation as being “for the sake of his people Israel,” not merely personal advancement.
+v13: David’s growing household reflects royal practice but also prepares for later family conflict. The narrative reports the expansion without explicit approval.
+
+v19, v23: David inquires separately before each Philistine battle. Similar enemies do not produce a formulaic strategy; divine guidance differs from one occasion to the next.
+v20: “Baal-Perazim” means “Lord/Master of Breakthroughs,” commemorating the LORD’s breaking through the enemy.
+v21: 1 Chronicles 14:12 says the idols were burned. Samuel’s wording focuses on their abandonment and removal.
+v24: The sound in the tree tops is interpreted as the LORD’s advance before David, joining natural sign and divine warfare.
 
 ##Vocabulary
 

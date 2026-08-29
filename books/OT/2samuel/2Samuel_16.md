@@ -74,9 +74,18 @@ v22: So they spread a tent for Absalom upon the roof, and Absalom went in to his
 <p>
 v23: Now the counsel that Ahithophel counseled in those days was as if a man inquired at the word of God. So was all the counsel of Ahithophel both with David and with Absalom.
 </p>
-##Notes
-
-v12: The Masoretic Text can be read “my affliction,” while some ancient traditions reflect “my eye/tears.”
+## Notes
+v01–04: Ziba provides substantial supplies precisely when David is vulnerable, then accuses Mephibosheth of dynastic ambition. David immediately transfers Mephibosheth’s property without hearing the other side. Chapter 19 later complicates Ziba’s report.
+v03: “the kingdom of my father” would refer to Saul’s dynasty through Jonathan. Whether Mephibosheth actually said this is left unresolved here.
+v05–08: Shimei interprets David’s crisis as divine repayment for Saul’s blood. The broader narrative has not held David responsible for Saul’s death, but Shimei reads royal upheaval through his own Saulide perspective.
+v07: “man of blood” accuses David of bloodguilt and violent kingship, a charge that resonates differently after the Uriah episode even though Shimei refers specifically to Saul’s house.
+v09: Abishai again responds to insult with immediate lethal force, fitting David’s later description of the sons of Zeruiah as severe.
+v10–12: David does not claim certainty that the LORD commanded Shimei. He accepts the possibility that humiliating accusation may stand under divine permission and hopes for mercy rather than retaliation.
+v12: The Masoretic Text can be read “my affliction,” while some ancient traditions reflect “my eye/tears.” TSW follows the ordinary suffering sense.
+v16–19: Hushai’s language is carefully ambiguous. He speaks of serving the one “the LORD and this people” have chosen and then of serving the son, allowing Absalom to hear loyalty without Hushai explicitly renouncing David.
+v21: Ahithophel’s advice is political: public sexual possession of the former king’s concubines makes reconciliation with David virtually impossible and forces Absalom’s supporters into firmer commitment.
+v22: The public act fulfills Nathan’s judgment in 2 Samuel 12:11–12. The narrative reports the women’s violation as part of dynastic struggle without giving them voice or implying moral approval.
+v23: Ahithophel’s counsel is treated with near-oracular authority, explaining why David considered him so dangerous.
 
 ##Vocabulary
 

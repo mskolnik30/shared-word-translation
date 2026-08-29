@@ -49,7 +49,18 @@ v25: And Ishmael his son was thirteen years old when he was circumcised in the f
 v26: On that very day Abraham and Ishmael his son were circumcised.
 v27: And all the men of his household, those born in the house and those bought with money from a foreigner, were circumcised with him.
 </p>
-##Notes
+## Notes
+v1: “God Almighty” translates El Shaddai. The title is introduced in connection with covenant promise and divine sufficiency.  
+v1: Walking before God and being blameless describes covenant faithfulness rather than moral perfection.  
+v4–8: The covenant promises expand beyond descendants and land to include nations, kings, and an enduring relationship with God.  
+v5: Abram’s new name marks a transformed identity grounded in divine promise rather than present circumstances.  
+v7: The covenant is described as everlasting, emphasizing God's continuing commitment across generations.  
+v10–14: Circumcision becomes the physical sign of covenant belonging. The sign marks both descendants and members of Abraham’s household.  
+v15–16: Sarah is drawn explicitly into the covenant promise. The future nation will come through her.  
+v17: Abraham’s laughter expresses astonishment at the promise rather than immediate disbelief alone.  
+v18–21: God distinguishes between blessing and covenant election. Ishmael is blessed, yet the covenant line will continue through Isaac.  
+v19: Isaac’s name (“he laughs”) preserves Abraham’s response within the child’s identity.  
+v23–27: Abraham responds with immediate obedience. The covenant sign is enacted on the very day it is commanded.  
 
 ##Vocabulary
 

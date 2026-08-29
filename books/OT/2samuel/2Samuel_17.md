@@ -104,9 +104,19 @@ v28: brought beds, basins, earthen vessels, wheat, barley, flour, roasted grain,
 
 v29: honey, curds, sheep, and cheese from cattle for David and for the people who were with him to eat, for they said, “The people are hungry, weary, and thirsty in the wilderness.”
 </p>
-##Notes
-
-v25: The genealogy of Amasa is textually difficult.
+## Notes
+v01–03: Ahithophel’s plan is strategically focused: strike quickly, target David alone, and restore the remaining people with minimal further civil war.
+v04: The narrator later calls Ahithophel’s counsel “good” in verse 14, confirming that Hushai’s alternative succeeds politically, not because it is the better military plan.
+v08: The bereaved-bear comparison presents David’s men as dangerous because crisis has made them fierce and unpredictable.
+v11: Hushai flatters Absalom by placing him personally at the head of an enormous national force rather than letting Ahithophel win the decisive victory.
+v13: Dragging an entire city with ropes is hyperbolic siege rhetoric meant to make Hushai’s plan sound irresistible.
+v14: The narrative explicitly attributes the strategic reversal to the LORD’s purpose, fulfilling David’s prayer in 15:31.
+v17: The communication network depends on people outside the formal leadership structure, including an unnamed female servant who carries intelligence.
+v19–20: The woman at Bahurim uses domestic space and grain to conceal the messengers and misdirect Absalom’s searchers.
+v23: Ahithophel’s death is narrated with striking calm: he arranges his household before taking his own life after recognizing the political consequence of rejected counsel.
+v25: The genealogy of Amasa is textually difficult. 1 Chronicles 2:17 calls his father Jether the Ishmaelite and names Abigail as sister of Zeruiah and daughter of Jesse. TSW follows Samuel’s Masoretic form.
+v27: Shobi’s support is notable because he comes from Ammon, recently defeated by David. The precise relationship between Shobi and the former royal house is not explained.
+v28: Several food terms are rare; TSW uses conventional agricultural equivalents without claiming exact certainty for every item.
 
 ##Vocabulary
 

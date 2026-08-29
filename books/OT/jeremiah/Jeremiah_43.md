@@ -42,7 +42,14 @@ v12: I will kindle a fire in the houses of the gods of Egypt, and he will burn t
 
 v13: He will break the pillars of Beth-Shemesh that is in the land of Egypt and burn the houses of the gods of Egypt with fire.”
 </p>
-##Notes
+## Notes
+v02: The people who had promised to obey “whether good or bad” now accuse Jeremiah of falsehood once the answer contradicts their intention.
+v03: Baruch is blamed as the hidden influence behind Jeremiah’s message, shifting responsibility away from the prophetic claim that the word came from the LORD.
+v05–07: Jeremiah and Baruch are taken to Egypt with the remnant. The narrative does not say that they voluntarily reject the command they had proclaimed.
+v09: The stones are an enacted sign placed at a politically symbolic location in Tahpanhes, anticipating Babylonian authority reaching into Egypt.
+v10: Nebuchadnezzar is again called the LORD’s “servant,” extending his role as an instrument of judgment beyond Judah.
+v12: The image of a shepherd wrapping a garment suggests the ease and completeness with which the conqueror will take possession of Egypt.
+v13: “Beth-Shemesh” here refers to an Egyptian “House of the Sun,” commonly associated with Heliopolis, rather than the Judean city of the same translated name.
 
 ##Vocabulary
 

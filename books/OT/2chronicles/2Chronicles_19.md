@@ -40,8 +40,10 @@ v10: Whenever any dispute comes to you from your brothers who live in their citi
 
 v11: And look, Amariah the chief priest is over you in every matter of the LORD, and Zebadiah son of Ishmael, ruler of the house of Judah, in every matter of the king. The Levites shall be officers before you. Be strong and act, and may the LORD be with the good.”
 </p>
-##Notes
-
+## Notes
+v02: Jehoshaphat is rebuked not for diplomacy in general but for giving active help to Ahab’s wicked regime.
+v03: Chronicles again distinguishes a king’s failures from genuine reforms rather than flattening him into a single moral category.
+v06–07: Judges are told that their work is performed before the LORD, making impartial justice a theological obligation.
 v10: “Between blood and blood” is a legal idiom for different categories of homicide or bloodguilt.
 
 ##Vocabulary

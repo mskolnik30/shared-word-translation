@@ -113,14 +113,19 @@ and treads upon the heights of the earth—
 the LORD, the God of Hosts,
 is his name.
 </p>
-##Notes
-
-v03: “Harmon” is a difficult Hebrew place-name or term whose location and meaning are uncertain.
-
+## Notes
+v01: “cows of Bashan” addresses wealthy women of Samaria through imagery of the well-fed cattle for which Bashan was famous. Their luxury is linked directly to oppression of poor and needy people.
+v02: The fishing-hook imagery turns Samaria’s privileged inhabitants into captured prey destined for removal.
+v03: “Harmon” is a difficult Hebrew place-name or term whose location and meaning are uncertain. TSW transliterates rather than replacing it with a conjectural destination.
+v04–05: Amos speaks with biting irony: Israel is invited to intensify religious activity precisely because the worship at Bethel and Gilgal has become transgression.
+v04: “every three days” follows the ordinary sense of the Hebrew phrase. Some interpreters understand a longer cycle, but the prophetic satire favors exaggerated frequency.
+v05: Leaven was excluded from some altar offerings but permitted with particular thanksgiving offerings. Amos’s criticism is not of enthusiasm itself but of worship loved without covenant faithfulness.
+v06: “cleanness of teeth” means lack of food, not hygiene. Empty teeth become an image of famine.
 v06–11: The refrain “yet you did not return to me” interprets famine, drought, crop failure, plague, war, and near-destruction as warnings that failed to produce repentance.
-
+v07–08: The uneven rainfall creates localized survival and scarcity, so whole towns wander in search of water.
 v10: “capture of your horses” is compressed Hebrew and may refer to horses taken in battle while young men fall by the sword.
-
+v11: “burning stick snatched from the fire” pictures a narrow survival from destruction rather than unharmed escape.
+v13: “what his thought is” may refer to God revealing divine thought to humanity or exposing a person’s thought. The Hebrew pronouns allow ambiguity, which TSW preserves.
 v13: The phrase “what his thought is” may refer to God revealing divine thought to humanity or exposing a person’s thought. The Hebrew pronouns allow both readings.
 
 ##Vocabulary

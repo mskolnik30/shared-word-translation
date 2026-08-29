@@ -146,7 +146,19 @@ and let all your ways be established.
 v27: Do not turn to the right or to the left;
 turn your foot away from evil.
 </p>
-##Notes
+## Notes
+v1: “children” — The Hebrew address is plural and masculine in form, but the instruction concerns the community of learners rather than a single male child.  
+v3–4: The speaker places present instruction within a chain of received wisdom. The father teaches what he himself remembers receiving from his father.  
+v6: Wisdom is again personified as a woman. The learner is not merely to understand wisdom but to remain in relationship with her: not abandoning, loving, and guarding her.  
+v7: “The beginning of wisdom is this” — The Hebrew is compact and can also be understood as “Wisdom is supreme.” The following imperative is unmistakable: whatever else is acquired, wisdom and understanding are to be acquired.  
+v9: “wreath … crown” — Wisdom gives honor rather than merely practical advantage. The imagery portrays wisdom as adorning the learner.  
+v11–12: Wisdom is repeatedly described as a “way” or “path.” Instruction forms a course of life along which a person learns to walk.  
+v16: Wickedness has become habitual enough that wrongdoing is described as necessary for sleep. The image portrays moral deformation rather than ordinary sleeplessness.  
+v18: “light of dawn” — The righteous path is not described as immediately reaching full brightness. Its light increases toward the fullness of day.  
+v19: The wicked are not merely walking in darkness; they no longer recognize what causes them to stumble.  
+v23: “guard your heart” — In Hebrew thought the heart includes thought, intention, desire, judgment, and will. Guarding the heart therefore concerns the whole inward source from which conduct proceeds.  
+v23: “springs of life” — Life is pictured as flowing outward from the heart like water from a source.  
+v26: “Make level” — The Hebrew can carry the sense of weighing, examining, or making a path level. The command calls for deliberate attention to the direction of one’s life.  
 
 ##Vocabulary
 

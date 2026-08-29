@@ -106,7 +106,12 @@ v57: If it appears again in the garment, warp, woof, or any leather article, it 
 v58: But the garment, warp, woof, or any leather article that you wash, if the affected area disappears from it, shall be washed a second time and shall be clean.
 v59: This is the law for a diseased condition in a wool or linen garment, in warp or woof, or in any leather article, for pronouncing it clean or unclean.
 </p>
-##Notes
+## Notes
+v02: The traditional term “leprosy” is too narrow for the Hebrew *tsara'at*, which covers a range of skin conditions and, later in the chapter, conditions affecting materials. TSW uses descriptive language rather than identifying it with modern Hansen’s disease.
+v03: The priest’s role is diagnostic and ritual: the priest examines and pronounces clean or unclean rather than providing medical treatment.
+v12–17: The counterintuitive ruling that fully whitened skin can be pronounced clean shows that the ritual criteria cannot be reduced to modern medical severity.
+v45–46: The isolation prescribed has communal and ritual consequences. The text does not describe the condition as a punishment for a particular personal sin.
+v47–59: The same Hebrew category is extended to garments, suggesting a broader concept of visible destructive affliction rather than a single human disease.
 
 ##Vocabulary
 

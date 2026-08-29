@@ -42,7 +42,18 @@ v17: Rise, walk through the length and the breadth of the land, for I will give 
 <p>
 v18: So Abram moved his tent and came and settled by the oaks of Mamre, which are at Hebron, and there he built an altar to the LORD.
 </p>
-##Notes
+## Notes
+v1–4: Abram returns to the place of earlier worship. The movement back to the altar signals continuity despite the events in Egypt.  
+v2: Abram’s wealth is stated plainly. Material prosperity is presented as a reality of the narrative without being identified as its central concern.  
+v5–7: The conflict arises not from hostility between Abram and Lot but from the practical pressures created by abundance.  
+v8–9: Abram yields the first choice to Lot. The promise of land allows Abram to act with generosity rather than anxiety.  
+v10: The description of the Jordan plain evokes Eden. The note about Sodom’s future destruction introduces tension into Lot’s seemingly favorable choice.  
+v11: Lot chooses according to what he sees. The narrative contrasts visible abundance with realities not yet apparent.  
+v12–13: Lot’s movement toward Sodom is gradual. The text links geographical proximity with moral danger before any direct involvement is described.  
+v14–17: After the separation, the LORD expands the promise. What Abram surrendered voluntarily is reaffirmed by divine gift.  
+v16: The image of dust recalls humanity’s origin from the ground while emphasizing the countless nature of Abram’s future descendants.  
+v17: Walking through the land functions as a symbolic act of receiving what God has promised.  
+v18: The chapter closes with worship. Abram responds to promise not by possession but by building an altar.  
 
 ##Vocabulary
 

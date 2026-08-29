@@ -58,8 +58,10 @@ v24: In that day, Israel will be the third with Egypt and with Assyria, a blessi
 <p>
 v25: because the LORD of Hosts has blessed them, saying, "Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance."
 </p>
-##Notes
-
+## Notes
+v18: The movement from judgment to worship is striking: Egypt, Assyria, and Israel are finally named together within the blessing of the LORD.  
+v12: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v3: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.  
 v03: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
 
 ##Vocabulary

@@ -91,7 +91,12 @@ he shall set up its gates.”
 
 v27: So the LORD was with Joshua, and his fame was throughout all the land.
 </p>
-##Notes
+## Notes
+v17–21: The language of *herem*, devotion to destruction, is severe and comprehensive. TSW preserves the text’s warfare language without minimizing its moral difficulty or importing explanations not stated in the chapter.
+v18: Israel itself can become subject to the ban if it takes what has been devoted. The warning prepares directly for Achan’s act in chapter 7.
+v20: The fall of the wall follows ritual procession, horns, and shouting rather than ordinary siege tactics, emphasizing that the city is given by the LORD.
+v23: Rahab’s household is first placed outside Israel’s camp, fitting the boundaries of ritual community, before verse 25 summarizes her lasting incorporation into Israel.
+v26: Joshua’s curse concerns rebuilding Jericho as a fortified city. The language ties foundation and gates to the loss of sons.
 
 ##Vocabulary
 

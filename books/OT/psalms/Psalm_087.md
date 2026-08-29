@@ -31,8 +31,8 @@ Selah.
 v07: Singers and dancers alike say,
 “All my springs are in you.”
 </p>
-##Notes
-
+## Notes
+v04: “Rahab” is a poetic name for Egypt in this context, not the personal name found in Joshua.
 v07: The Hebrew is exceptionally compressed. “Singers and dancers alike” reflects a probable liturgical scene, but the precise relationship of the terms remains uncertain.
 
 ##Vocabulary

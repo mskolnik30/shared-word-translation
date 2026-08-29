@@ -14,11 +14,14 @@ v02: And all the acts of his power and his might, and the full account of the gr
 
 v03: For Mordecai the Judean was second to King Ahasuerus, great among the Judeans and pleasing to the multitude of his brothers, seeking the good of his people and speaking peace to all his offspring.
 </p>
-##Notes
-
-v01–03: The Hebrew book of Esther contains ten chapters and does not explicitly name God. Ancient Greek forms of Esther contain substantial additional passages, including prayers and explicit references to God.
-
-v03: The final phrase can mean “speaking peace to all his offspring” or, more broadly, to the whole succeeding community of his people.
+## Notes
+v01: The book closes by returning briefly to imperial administration. Ahasuerus remains a taxing Persian king even after the Judean deliverance.
+v02: Mordecai’s rise is incorporated into the empire’s official written memory, reversing the earlier neglect of his unrewarded service.
+v02: Esther names “Media and Persia” here, while other passages more commonly say “Persia and Media.” TSW preserves the received order.
+v03: Mordecai is second to the king yet is evaluated by what he seeks for his own people: their good and their peace.
+v03: “his brothers” is kinship language for fellow Judeans, not merely biological siblings.
+v03: The final phrase can mean “speaking peace to all his offspring” or, more broadly, to the whole succeeding community of his people. TSW retains the genealogical wording.
+v01–03: The Hebrew book of Esther contains ten chapters and does not explicitly name God. Ancient Greek forms of Esther contain substantial additional passages, including prayers and explicit references to God. Because TSW’s primary Old Testament source is the Masoretic Text, those Greek additions are not incorporated into the main translation of Esther.
 
 ##Vocabulary
 

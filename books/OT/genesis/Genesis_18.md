@@ -82,7 +82,13 @@ v32: Then he said, “Oh let not the Lord be angry, and I will speak again but t
 
 v33: And the LORD went his way, when he had finished speaking to Abraham, and Abraham returned to his place.
 </p>
-##Notes
+## Notes
+v1–2: The appearance of the LORD is narrated through human figures, holding together divine presence and embodied encounter.  
+v10: “I will surely return” signals covenant fidelity; the promise is anchored in divine timing, not human capacity.  
+v14: The rhetorical question frames the theology of the narrative: nothing is beyond the LORD’s power.  
+v20–21: “Outcry” evokes legal language; the LORD investigates as a just judge, not acting arbitrarily.  
+v23–32: Abraham’s intercession models covenant boldness—persistent, reverent negotiation grounded in divine justice.  
+v25: “Judge of all the earth” universalizes the LORD’s authority beyond Israel.  
 
 ##Vocabulary
 

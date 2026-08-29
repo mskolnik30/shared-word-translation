@@ -74,7 +74,16 @@ v24: The LORD said to him, “Go, get down, and come up, you and Aaron with you.
 
 v25: So Moses went down to the people and spoke to them.
 </p>
-##Notes
+## Notes
+v01: “on that very day” is chronologically compressed. The chapter locates the Sinai arrival in the third month after the exodus without supplying a modern calendar date.
+v04: Eagles’ wings portray protective and powerful divine transport. Israel’s destination is ultimately not merely a land but “to myself.”
+v05: “treasured possession” does not imply that other nations lie outside the LORD’s ownership; the verse immediately says, “all the earth is mine.”
+v06: “kingdom of priests” joins royal and priestly language to describe Israel’s corporate vocation before the nations.
+v09: The public hearing of the LORD’s speech establishes Moses’ trustworthiness as mediator.
+v12–13: The boundaries express the danger of unmediated approach to divine holiness. The severe penalties belong to the enacted holiness of the Sinai event.
+v15: Temporary sexual abstinence is part of ritual preparation for the encounter. The verse does not define sexual relations themselves as morally impure.
+v18–20: Smoke, fire, trembling mountain, thunder, lightning, and horn together present the divine descent as overwhelming the ordinary categories of nature and worship.
+v22: Priests are mentioned before the later Aaronic priestly installation. The text does not explain the precise identity or status of these priests at this stage.
 
 ##Vocabulary
 

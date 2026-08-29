@@ -108,9 +108,18 @@ v37: In those days the LORD began to send Rezin king of Aram and Pekah son of Re
 
 v38: Jotham lay down with his ancestors and was buried with his ancestors in the city of David his ancestor. Ahaz his son became king in his place.
 </p>
-##Notes
-
-v30: The “twentieth year of Jotham” is chronologically difficult because Jotham is said to reign sixteen years.
+## Notes
+v01: Azariah is also called Uzziah. The chapter itself uses both forms in different synchronisms, reflecting the dual naming preserved in Kings.
+v05: The king’s *tsara'at* requires him to live separately while Jotham governs palace and people. 2 Chronicles 26 provides a fuller account connecting the disease with a temple offense, but Kings does not state the cause.
+v10–12: Zechariah’s assassination ends Jehu’s dynasty in its fourth generation, explicitly fulfilling the promise of 2 Kings 10:30.
+v13–16: Northern kingship now becomes extremely unstable: Shallum reigns only one month before Menahem kills him.
+v16: Menahem’s atrocity against pregnant women is narrated as political terror against a city that refused him entry. TSW retains the severity without amplification.
+v19: Pul is another name or royal designation for Tiglath-Pileser III of Assyria.
+v20: Menahem secures his throne through foreign imperial backing financed by a heavy levy on wealthy Israelites.
+v25: The exact roles of Argob and Arieh are unclear; they may be Pekahiah’s companions or officials killed with him.
+v29: Tiglath-Pileser’s campaign marks a decisive stage in the dismantling of northern Israel through territorial loss and deportation.
+v30: The “twentieth year of Jotham” is chronologically difficult because Jotham is said to reign sixteen years. It may count from an accession or co-regency framework. TSW preserves the Masoretic synchronism.
+v37: The Aram-Israel pressure on Judah prepares for the crisis under Ahaz in chapter 16 and in Isaiah 7.
 
 ##Vocabulary
 

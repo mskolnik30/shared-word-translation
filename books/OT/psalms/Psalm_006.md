@@ -47,7 +47,15 @@ the LORD accepts my prayer.
 v10: All my enemies shall be ashamed and greatly troubled;
 they shall turn back and be put to shame in a moment.
 </p>
-##Notes
+## Notes
+v1–2: The psalm distinguishes between discipline and destructive wrath.  
+v2–3: Physical and internal distress are intertwined (bones, soul).  
+v3: The unresolved “how long?” marks the depth of suffering.  
+v4–5: Appeal is grounded in God’s steadfast love, not worthiness.  
+v5: Praise is tied to life—death is framed as silence.  
+v6–7: Grief is expressed in embodied, repetitive imagery.  
+v8–9: The turning point—confidence emerges through being heard.  
+v10: Enemies’ reversal mirrors the psalmist’s earlier distress.  
 
 ##Vocabulary
 

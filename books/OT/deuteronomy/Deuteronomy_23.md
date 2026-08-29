@@ -78,11 +78,18 @@ v24: When you enter your neighbor’s vineyard, you may eat grapes according to 
 
 v25: When you enter your neighbor’s standing grain, you may pluck ears with your hand, but you shall not swing a sickle against your neighbor’s standing grain.
 </p>
-##Notes
-
-v02: The Hebrew term *mamzer* is difficult and may refer to a person born from a prohibited union or another socially excluded lineage.
-
-v18: “price of a dog” may refer literally to the sale price of a dog or, more likely, to payment associated with a male prostitute.
+## Notes
+v01: The verse reflects ancient assembly boundaries tied to bodily integrity. TSW preserves the law without treating physical disability as moral deficiency.
+v02: The Hebrew term *mamzer* is difficult and may refer to a person born from a prohibited union or another socially excluded lineage. TSW uses the broader “forbidden union.”
+v03–06: The exclusion of Ammon and Moab is grounded in remembered hostility during Israel’s wilderness journey, especially the Balaam episode.
+v07–08: Edom and Egypt are treated differently: Edom because of kinship with Esau, and Egypt because Israel once lived there as resident aliens despite the memory of oppression.
+v10–14: Camp holiness includes bodily cleanliness and sanitation because the LORD is understood to walk in the midst of the military camp.
+v15–16: An escaped servant is not to be returned to the former master and may settle where it seems good. This law sharply limits a master’s claim when the fugitive reaches Israelite protection.
+v17–18: The precise historical phenomenon behind “cult prostitute” is debated, but the text clearly forbids sexual activity integrated into prohibited worship.
+v18: “price of a dog” may refer literally to the sale price of a dog or, more likely, to payment associated with a male prostitute. TSW preserves the idiom and notes its ambiguity.
+v19–20: Interest restrictions distinguish lending within the covenant community from transactions with foreigners.
+v21–23: Vows are voluntary before being made but binding once spoken.
+v24–25: Neighborly access allows immediate eating from vineyard or field while forbidding removal of harvest by vessel or sickle.
 
 ##Vocabulary
 

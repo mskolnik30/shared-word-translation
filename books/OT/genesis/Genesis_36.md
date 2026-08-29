@@ -73,7 +73,17 @@ v41: Chief Oholibamah, Chief Elah, Chief Pinon,
 v42: Chief Kenaz, Chief Teman, Chief Mibzar,
 v43: Chief Magdiel, and Chief Iram. These are the chiefs of Edom according to their settlements in the land they possessed. This is Esau, the father of Edom.
 </p>
-##Notes
+## Notes
+v1: The chapter identifies Esau with Edom, establishing the connection between the man and the nation descended from him.  
+v6–8: Esau's separation from Jacob parallels the earlier separation of Abraham and Lot. The two brothers become heads of distinct peoples.  
+v9–19: The genealogy emphasizes the growth and organization of Esau's descendants into clans and tribal leaders.  
+v12: Amalek is introduced here. The Amalekites later become significant opponents of Israel.  
+v20–30: The Horites were earlier inhabitants of Seir and became incorporated into Edomite history.  
+v24: The brief note concerning Anah preserves a historical detail otherwise lost to the narrative.  
+v31: Edom possessed kings before Israel did, highlighting the early political development of Esau's descendants.  
+v31–39: Unlike Israel's later dynasties, the succession of Edomite kings does not appear to follow a single hereditary line.  
+v40–43: The chapter closes by emphasizing the territorial and political establishment of Edom.  
+v43: Before returning to Jacob's story, Genesis records Esau's descendants in detail, showing that God's promises of multiplication extended beyond the covenant line.  
 
 ##Vocabulary
 

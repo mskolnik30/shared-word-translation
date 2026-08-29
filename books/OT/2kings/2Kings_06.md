@@ -94,9 +94,20 @@ v32: Elisha was sitting in his house, and the elders were sitting with him. The 
 
 v33: While he was still speaking with them, behold, the messenger came down to him. And he said, “Look, this disaster is from the LORD. Why should I wait for the LORD any longer?”
 </p>
-##Notes
-
-v25: The second term may refer to a plant product, but its identification is uncertain.
+## Notes
+v01–07: The floating axe head addresses an ordinary economic problem within the prophetic community. The borrowed iron mattered because iron tools were valuable.
+v08–12: Elisha’s prophetic insight makes private military strategy transparent, leading the Aramean king to suspect treason.
+v17: The fiery horses and chariots reveal an unseen divine army already surrounding Elisha. The prayer changes the servant’s perception rather than summoning new forces.
+v18: The word translated “blindness” may describe dazzling confusion rather than complete inability to see, since the soldiers can still follow Elisha.
+v21: The king calls Elisha “my father,” recognizing prophetic authority even while asking permission to kill the captured force.
+v22–23: Elisha replaces slaughter with a feast. Feeding captured enemies ends the immediate cycle of raiding.
+v24: The narrative then shifts to a larger royal siege by Ben-Hadad, distinct from the smaller raiding bands that had ceased.
+v25: Both the donkey’s head and the substance traditionally rendered “dove’s dung” represent extreme scarcity. The second term may refer to a plant product, but its identification is uncertain.
+v28–29: The siege reaches the horror anticipated in covenant curses: mothers consume a child under famine. TSW preserves the account without graphic expansion.
+v30: The king’s hidden sackcloth shows mourning or penitence beneath royal clothing, but his next act is to threaten the prophet.
+v31: The king blames Elisha for the disaster despite the prophet having repeatedly protected Israel.
+v32: “son of a murderer” may refer to the king’s own violent disposition or to his father Ahab’s bloodguilt. Elisha’s immediate target is the king’s order to kill him.
+v33: The final speaker is textually uncertain—possibly the king or his messenger. TSW leaves the speech within the narrative without naming the speaker.
 
 ##Vocabulary
 

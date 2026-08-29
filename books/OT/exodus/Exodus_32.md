@@ -107,11 +107,19 @@ v34: And now go, lead the people to the place of which I spoke to you. Look, my 
 
 v35: Then the LORD struck the people because they had made the calf, the one Aaron had made.
 </p>
-##Notes
-
-v04: Hebrew *elohim* is grammatically plural in the quoted acclamation but can refer to “god” or “gods.”
-
-v29: “fill your hands” is the ordinary idiom for ordination or installation.
+## Notes
+v01: The people’s demand arises from Moses’ delay and uncertainty. They seek a visible leader or divine representation to “go before” them.
+v04: Hebrew *elohim* is grammatically plural in the quoted acclamation but can refer to “god” or “gods.” The plural wording “These are your gods” follows the received syntax and echoes the later divine accusation.
+v05: Aaron declares a festival “to the LORD,” showing that the calf episode is not portrayed simply as abandonment of the LORD for another named deity, but as corrupt worship that tries to represent or redirect the LORD through an image.
+v06: “rose up to revel” is deliberately broad. The Hebrew verb can include play, celebration, or sexually charged festivity depending on context.
+v10–14: Moses’ intercession appeals to the LORD’s reputation before Egypt and the promises to the ancestors. The LORD’s “relenting” is retained as the text’s own language of responsive divine relationship.
+v19: Breaking the tablets visibly enacts the covenant rupture already committed by the people.
+v20: Burning, grinding, scattering, and making Israel drink the calf is a public destruction and humiliation of the image. The text does not explain every ritual implication.
+v24: Aaron’s claim that the calf simply emerged from the fire contradicts verse 4, where he actively fashions it. The narrative leaves the self-excusing distortion exposed.
+v27–28: The Levites’ killing of fellow Israelites is one of the chapter’s most severe episodes. TSW translates it directly without generalizing the act as a model for religious violence.
+v29: “fill your hands” is the ordinary idiom for ordination or installation. Here it is applied to the Levites after their violent loyalty in the crisis.
+v32: Moses offers his own removal from God’s “book” rather than accept separation from the people. The precise nature of the heavenly book is not defined.
+v34: Judgment is delayed but not erased. Intercession preserves Israel from immediate destruction while accountability remains.
 
 ##Vocabulary
 

@@ -30,6 +30,14 @@ v15: Thus says the LORD GOD: Because the Philistines acted in revenge and took v
 v16: therefore, thus says the LORD GOD: Behold, I will stretch out my hand against the Philistines and will cut off the Cherethites and destroy the remnant of the seacoast.
 v17: I will execute great vengeance upon them with wrathful rebukes. Then they will know that I am the LORD, when I lay my vengeance upon them."
 </p>
-##Notes
+## Notes
+v1–17: - **Word of the Lord** (v1): Ezekiel often begins his prophecy with this phrase, emphasizing the divine origin of the message.  
+- **Son of man** (v2): A title used for Ezekiel, highlighting his humanity in contrast to the divine.  
+- **Aha!** (v3): An expression of triumph or delight over the misfortune of others, illustrating Ammon's malicious gloating over Judah’s downfall.  
+- **People of the East** (v4): Likely referring to nomadic tribes from the Arabian desert, symbolizing outsiders coming to occupy the land.  
+- **Plunder to the nations** (v7): Indicates divine judgment where Ammon becomes vulnerable to foreign control and exploitation.  
+- **Not be remembered among the nations** (v10): The erasure of Ammon’s identity as a distinct people, symbolizing complete obliteration.  
+- **Edom's vengeance** (v12): Edom is judged for its historical hostility against Israel, emphasizing themes of justice and retribution.  
+- **Great vengeance** (v17): Indicates severe punishment as a demonstration of divine authority and justice.  
 
 ##Vocabulary

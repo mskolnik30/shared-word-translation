@@ -70,7 +70,17 @@ v22: Saul sent word to Jesse, saying, “Let David remain in my service, for he 
 <p>
 v23: And whenever the evil spirit from God came upon Saul, David took the lyre and played it with his hand. And Saul would be relieved and feel better, and the evil spirit would depart from him.
 </p>
-##Notes
+## Notes
+v1: “I have provided for myself a king” — Emphasizes divine initiative and selection; kingship is portrayed as God’s provision, not Israel’s achievement.  
+v2: Samuel’s fear of Saul — Indicates Saul’s continued power despite divine rejection, underscoring the dangerous overlap between rejected authority and lived reality.  
+v7: “the LORD looks on the heart” — Contrasts human evaluation with divine perception; the text does not define “heart,” leaving its meaning deliberately open.  
+v11: “the youngest…keeping the sheep” — Highlights David’s marginal status within his own family at the moment of divine selection.  
+v13: “the spirit of the LORD came mightily upon David” — Marks a decisive transfer of divine empowerment without an immediate transfer of political authority.  
+v14: “the spirit of the LORD departed from Saul” — Signals a theological turning point; the narrative presents the loss of divine spirit as consequential rather than merely symbolic.  
+v14: “an evil spirit from the LORD” — Preserves unresolved tension regarding divine agency; the text does not explain the nature or purpose of the spirit.  
+v18: “the LORD is with him” — Spoken by a servant, not a prophet; divine presence is recognized socially before it is politically realized.  
+v21: David entering Saul’s service — Establishes irony: the anointed future king serves the rejected current king.  
+v23: Music as relief — Portrays restoration without resolution; Saul’s distress is eased temporarily, but not healed.  
 
 ##Vocabulary
 

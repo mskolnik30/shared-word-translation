@@ -144,9 +144,29 @@ v44: But reports from the east and from the north will terrify him, and he will 
 
 v45: He will plant the tents of his royal pavilion between the seas and the beautiful holy mountain. Yet he will come to his end, and there will be no one to help him.
 </p>
-##Notes
-
-v37: It may refer to a deity desired by women, ordinary human affection, or another cultic designation.
+## Notes
+v01: This verse continues the speech begun in Daniel 10 and looks back to the first year of Darius the Mede. The heavenly messenger describes his own support within the unseen conflict.
+v02–04: The sequence of Persian kings and the mighty Greek king has usually been correlated with Persian rulers culminating in Xerxes and then Alexander the Great. The chapter itself does not name those figures.
+v04: The mighty king’s realm is broken toward the four winds but not inherited by his descendants, closely paralleling Daniel 8:8, 22.
+v05–20: “King of the south” and “king of the north” designate rival dynastic powers located south and north of Judea. Their succession, marriages, invasions, and reversals closely correspond to Ptolemaic Egypt and Seleucid Syria in the Hellenistic period.
+v06: The royal marriage intended to create political agreement fails. The Hebrew pronouns are compressed, and the exact identities of those “given up” are best understood through the larger historical sequence rather than supplied in the translation.
+v14: “violent men from your people” literally uses language of violent or lawless sons. Their attempt to “establish the vision” fails.
+v16: “Beautiful Land” refers to Judea/Israel, caught geographically between northern and southern empires.
+v17: “daughter of women” is a rare expression for a royal woman given in dynastic marriage. The plan ultimately fails to secure the intended control.
+v20: The “exactor” is associated with royal taxation or tribute. The ruler’s reign is brief and ends without ordinary battle.
+v21–35: This section is commonly associated with Antiochus IV Epiphanes and his persecution of Judean worship. TSW retains Daniel’s descriptive titles rather than replacing them with the historical name in the main text.
+v21: The “despised one” acquires royal power through political maneuver rather than receiving normal royal honor.
+v22: “prince of the covenant” is not identified by name. Interpreters often associate the phrase with a high priest, but TSW leaves the title open.
+v27: The two kings speak lies “at one table,” giving diplomacy itself the character of mutual deception.
+v30: “ships of Kittim” refers broadly to western maritime power. In the historical reading this is often connected with Roman intervention, but the verse retains the older geographic term.
+v31: “detestable thing that makes desolate” refers to a profaning object or act installed in connection with the sanctuary’s desecration. It is closely associated with the suppression of the continual offering.
+v32: Knowledge of God becomes the basis for resistance, while the persecutor uses flattery to corrupt covenant violators.
+v33–35: The people with insight both teach and suffer. Their suffering is interpreted as refining and purification rather than evidence that their wisdom has failed.
+v36–39: The relationship between this self-exalting king and the earlier Seleucid ruler is debated. Some interpretations see continued description of Antiochus; others see a more distant eschatological figure. TSW does not force the transition.
+v37: “the desire of women” is obscure. It may refer to a deity desired by women, ordinary human affection, or another cultic designation. TSW preserves the phrase.
+v38: “god of fortresses” is similarly obscure but clearly contrasts with ancestral gods and is honored through wealth and military power.
+v40–45: The final campaign extends the vision beyond the earlier detailed sequence. The king’s end comes without human help, preserving the recurring Daniel theme that arrogant imperial power is ultimately bounded.
+v45: “between the seas and the beautiful holy mountain” is geographically suggestive but not precise enough to justify inserting a modern location.
 
 ##Vocabulary
 

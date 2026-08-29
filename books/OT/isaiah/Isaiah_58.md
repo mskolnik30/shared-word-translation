@@ -42,7 +42,10 @@ v14: then will you delight yourself in the LORD;
 and I will make you to ride on the high places of the earth;
 and I will feed you with the heritage of Jacob your father: for the mouth of the LORD has spoken it.
 </p>
-##Notes
+## Notes
+v6: The chapter redefines fasting through release from oppression, material sharing, and restored social relationship rather than ritual deprivation alone.  
+v2: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
+v8: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
 ##Vocabulary
 

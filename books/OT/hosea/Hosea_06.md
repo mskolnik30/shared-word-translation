@@ -67,7 +67,15 @@ v11: For you also, Judah,
 a harvest is appointed
 when I restore the fortunes of my people.
 </p>
-##Notes
+## Notes
+v01–03: The speakers express confidence that return will quickly bring healing. The following divine response challenges the depth and endurance of their covenant loyalty.
+v02: “after two days … on the third day” is a poetic expression of rapid restoration. The text does not explicitly identify a later event beyond Israel’s hoped-for revival.
+v04: Israel’s *hesed* is compared with mist and dew that vanish quickly, contrasting with the enduring steadfast love expected in covenant relationship.
+v05: Prophetic words function as instruments of judgment; speech from the LORD can “cut down” and “kill” metaphorically before physical judgment arrives.
+v06: Sacrifice is not rejected in itself. The contrast exposes worship detached from steadfast love and knowledge of God.
+v07: “like Adam” may refer to the individual Adam or possibly to a place named Adam. TSW follows the personal reading while preserving the ambiguity in the note.
+v09: The accusation against priests is severe and unusual, portraying them as organized bands of violent attackers on the road to Shechem.
+v11: “harvest” can carry positive or negative force. Its placement beside restoration leaves the image open to the chapter’s tension between judgment and renewal.
 
 ##Vocabulary
 

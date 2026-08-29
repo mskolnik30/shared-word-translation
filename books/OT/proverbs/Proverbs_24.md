@@ -202,7 +202,15 @@ will come like a robber
 and your need
 like an armed warrior.
 </p>
-##Notes
+## Notes
+v3–4: The “house” can refer to a physical household as well as the broader life established within it. Wisdom builds stability that knowledge then fills.  
+v11–12: Ignorance cannot always function as moral refuge. The one who weighs hearts knows whether indifference has been disguised as lack of knowledge.  
+v16: “Seven times” expresses repeated or complete adversity. Righteousness is characterized not by never falling but by rising again.  
+v17–18: Wisdom rejects delight in an enemy’s collapse even when the enemy has acted wrongly.  
+v21: The Hebrew term translated “those who seek change through rebellion” is difficult and can describe people who alter established loyalty or associate with revolution.  
+v23–25: Calling wickedness righteous is itself an injustice extending beyond the individual case to the health of peoples and nations.  
+v27: Productive foundations should precede expansion of household obligations.  
+v30–34: The learner does not need a speech from the lazy landowner. The neglected field itself becomes a teacher.  
 
 ##Vocabulary
 

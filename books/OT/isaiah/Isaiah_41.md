@@ -66,7 +66,11 @@ even among them there is no counselor who, when I ask of them, can answer a word
 <p>
 v29: Look, all of them, their works are vanity and nothing. Their molten images are wind and confusion.
 </p>
-##Notes
+## Notes
+v14: “worm Jacob” — The deliberately lowly image intensifies the contrast between Israel’s weakness and the LORD’s promise to help and redeem.  
+v14: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v14: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
+v8: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
 ##Vocabulary
 

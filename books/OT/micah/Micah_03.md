@@ -85,7 +85,20 @@ Jerusalem shall become a heap of ruins,
 and the mountain of the house
 a wooded height.
 </p>
-##Notes
+## Notes
+v1: The leaders of Israel are reminded that justice is their primary responsibility.  
+v2–3: The shocking imagery portrays rulers as predators who consume the very people they are meant to protect.  
+v4: Those who ignored the cries of others will find their own cries unanswered in the day of judgment.  
+v5: False prophets tailor their messages according to personal gain rather than divine truth.  
+v6–7: God removes prophetic insight from those who have abused their calling.  
+v8: Micah contrasts himself with the false prophets by grounding his ministry in the Spirit of the LORD.  
+v8: True prophecy exposes sin rather than concealing it.  
+v9–11: The chapter broadens its indictment to include rulers, priests, and prophets alike.  
+v10: Jerusalem's prosperity has been built through injustice and exploitation.  
+v11: Religious leaders use their offices for profit while falsely assuming God's protection.  
+v11: Presumption upon God's presence becomes a substitute for covenant obedience.  
+v12: This prophecy of Jerusalem's destruction was remembered generations later and cited during the ministry of Jeremiah.  
+v12: The temple mount itself will become overgrown, symbolizing complete devastation.  
 
 ##Vocabulary
 

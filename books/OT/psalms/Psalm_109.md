@@ -93,7 +93,11 @@ in the midst of many I will praise God.
 v31: For the LORD stands at the right hand of the needy,
 to save that one from those who judge the life.
 </p>
-##Notes
+## Notes
+v04: The Hebrew says simply, “but I—prayer.” The compressed expression is preserved rather than expanded to “I am a man of prayer” or “I give myself to prayer.”
+v06: The word rendered “accuser” is שָׂטָן (satan), a common noun here describing an adversarial or prosecuting figure rather than necessarily functioning as a proper name.
+v06–20: The psalm shifts into an extended singular curse. The translation preserves its severity and does not soften or moralize the petition.
+v31: The final line answers v6 structurally: where an accuser stands at the right hand of the condemned, the LORD stands at the right hand of the needy to save.
 
 ##Vocabulary
 

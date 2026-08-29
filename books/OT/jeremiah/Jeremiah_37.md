@@ -62,7 +62,13 @@ v20: And now please hear, my lord the king. Please let my plea fall before you: 
 
 v21: Then King Zedekiah commanded, and they placed Jeremiah in the court of the guard. A loaf of bread was given to him daily from the bakers’ street until all the bread in the city was gone. So Jeremiah remained in the court of the guard.
 </p>
-##Notes
+## Notes
+v03: Zedekiah asks Jeremiah for prayer while continuing not to listen to Jeremiah’s prophetic message. Seeking intercession is separated from obedience.
+v05–10: Egypt’s advance creates temporary military relief, but Jeremiah insists that Babylon’s withdrawal is temporary and should not be mistaken for reversal of the LORD’s word.
+v12: The Hebrew phrase concerning Jeremiah’s purpose in Benjamin is difficult. It may describe receiving property, dividing an inheritance, or withdrawing among the people. TSW uses “receive his portion” while noting the uncertainty.
+v13: “falling away” is the same act Jeremiah elsewhere urges as the path to survival. The accusation is therefore plausible politically even though Jeremiah denies that this journey is a defection.
+v17: Zedekiah’s secret inquiry reveals both dependence upon Jeremiah’s word and fear of receiving it publicly.
+v21: Bread is given only “until all the bread in the city was gone,” quietly locating Jeremiah’s imprisonment within the worsening siege famine.
 
 ##Vocabulary
 

@@ -106,13 +106,22 @@ and they will oppress you
 from Lebo-Hamath
 to the Wadi of the Arabah.
 </p>
-##Notes
-
-v01: The syntax is compressed, and
-
+## Notes
+v01: Amos addresses complacent elites in both Zion and Samaria, widening the warning beyond the northern kingdom’s capital.
+v01: “the first of the nations” may describe Israel’s elite self-understanding, prominent nations, or a group considered foremost. The syntax is compressed, and TSW preserves the exalted claim without resolving it further.
+v02: Calneh, Hamath, and Gath were significant regional cities. Amos directs the secure elite to consider whether political importance protected those places from reversal.
+v03: The elite “put far away” the day of disaster in their thinking while bringing the “seat of violence” near through their practices.
+v04–06: Luxury is described through ivory furniture, rich meat, music, large drinking bowls, and fine oil. The decisive accusation is that such abundance coexists with indifference to Joseph’s ruin.
+v05: The comparison with David may be ironic or neutral regarding musical creativity. The criticism arises from self-indulgent luxury rather than music itself.
+v06: “bowls” can refer to large basins, making the drinking image more excessive than ordinary cups.
+v08: The LORD swears “by himself,” making divine identity the guarantee of the announced judgment.
 v10: The Hebrew term for the person handling the corpse can mean one who burns or one who prepares a body, and the exact funerary practice is uncertain.
-
+v10: The command not to mention the LORD’s name is difficult. It may arise from terror, ritual danger, or fear of provoking further judgment. TSW preserves the abrupt prohibition.
+v12: The second rhetorical question is textually difficult; the Masoretic wording can be understood as “does one plow there with oxen?” TSW supplies “the sea” from the parallel impossibility implied by the line.
+v12: Poison and wormwood show that Israel has converted justice and righteousness into their opposite.
 v12: The second rhetorical question is textually difficult. The Masoretic wording can be understood as “does one plow there with oxen?” The parallel line suggests an impossible setting, often supplied as “the sea.”
+v13: Lo-Debar sounds like “nothing,” while Karnaim is related to “horns,” a symbol of strength. Amos likely exploits the place names to mock confidence in recent military gains.
+v14: Lebo-Hamath in the north and the Wadi of the Arabah in the south mark a broad span of Israelite territory that will experience oppression.
 
 ##Vocabulary
 

@@ -80,7 +80,12 @@ v24: His servants conspired against him and put him to death in his house.
 
 v25: But the people of the land struck all who had conspired against King Amon, and the people of the land made Josiah his son king in his place.
 </p>
-##Notes
+## Notes
+v11–13: Chronicles uniquely narrates Manasseh’s captivity, repentance, prayer, and restoration, material absent from 2 Kings 21.
+v11: Assyrian hooks and chains evoke known imperial practices of humiliating captives.
+v13: Manasseh’s restored knowledge—“the LORD, he is God”—comes through severe humiliation and answered prayer.
+v17: Popular high-place worship continues but is now directed only to the LORD, showing reform that remains incomplete by Deuteronomic standards.
+v23: Amon imitates Manasseh’s evil but not his humility.
 
 ##Vocabulary
 

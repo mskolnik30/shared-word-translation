@@ -53,7 +53,13 @@ v22: You shall have one ordinance for the resident alien and for the native-born
 <p>
 v23: Moses spoke to the Israelites, and they brought the one who had cursed outside the camp and stoned him with stones. The Israelites did as the LORD commanded Moses.
 </p>
-##Notes
+## Notes
+v02–04: The lamp is maintained “continually,” meaning through the recurring evening-to-morning service rather than necessarily every moment without interruption.
+v05–09: The twelve loaves correspond to Israel’s twelve tribes and remain before the LORD as a perpetual covenantal arrangement.
+v11: “the Name” appears without an explicit divine name in the Hebrew, reflecting reverence in the narrative itself.
+v12: The man is held until the LORD’s ruling is made clear, showing that the case is not resolved by immediate human assumption.
+v19–20: The principle of equivalent injury limits retaliation to proportional justice; in the wider legal tradition it functions as a measure of equivalence rather than permission for unlimited revenge.
+v22: The same legal standard applies to resident alien and native-born in the matters addressed here.
 
 ##Vocabulary
 

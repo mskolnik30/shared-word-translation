@@ -74,7 +74,14 @@ v26: So he did to them and delivered them from the hand of the children of Israe
 
 v27: On that day Joshua made them woodcutters and water carriers for the congregation and for the altar of the LORD, to this day, at the place that he would choose.
 </p>
-##Notes
+## Notes
+v04: The Gibeonites’ strategy depends on visible evidence of distance. Their craft is explicitly named before the details of worn provisions are given.
+v14: “did not ask the mouth of the LORD” — The narrative identifies Israel’s failure not simply as being deceived but as acting without seeking divine guidance.
+
+v15, v18–20: The oath remains binding even though obtained through deception. Israel treats invoking the LORD’s name as carrying real obligation.
+
+v23, v27: The Gibeonites move from threatened destruction to permanent service connected with Israel’s worship. The narrative preserves both the curse language and the protection of their lives.
+v24: The Gibeonites act from fear of the command they have heard concerning the land, paralleling Rahab’s response to reports of the LORD’s acts while differing in method.
 
 ##Vocabulary
 

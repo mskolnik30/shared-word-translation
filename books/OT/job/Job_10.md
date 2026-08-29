@@ -94,7 +94,13 @@ v22: a land of deepest gloom,
 like death-shadow without order,
 where light is like darkness.”
 </p>
-##Notes
+## Notes
+v02: Job asks God directly to disclose the charge against him. His lament is increasingly framed as a legal dispute in which he does not know the accusation.
+v03: Job asks whether God takes pleasure in oppressing the work of God’s own hands while favoring wicked counsel. The question is accusatory, not a settled theological proposition.
+v08–12: Job’s body is described through craft and gestation imagery: shaped like clay, poured like milk, curdled like cheese, clothed, and woven. The God he experiences as destroyer is also the God who carefully made him.
+v12: “steadfast love” — Job acknowledges *hesed* in the gift and preservation of life even while arguing that present suffering contradicts that care.
+v13: The verse marks Job’s fear that divine care itself concealed a hidden intention to watch for guilt and punish him.
+v21–22: Sheol is imagined as darkness without order, where even light is dark. Job asks only for a brief easing before entering that realm.
 
 ##Vocabulary
 

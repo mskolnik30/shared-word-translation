@@ -49,7 +49,20 @@ lest I come
 and strike the land
 with a decree of destruction.”
 </p>
-##Notes
+## Notes
+v1: The final chapter contrasts the destinies of the wicked and those who fear the LORD.
+v1: Fire symbolizes God's decisive judgment against arrogance and evil.
+v1: “Neither root nor branch” portrays complete and irreversible destruction.
+v2: Those who fear God's name receive life, healing, and restoration rather than judgment.
+v2: The “sun of righteousness” depicts the dawning of God's saving rule and vindication.
+v2: The image of calves released from the stall conveys joy, freedom, and flourishing.
+v3: The righteous participate in God's final victory over evil.
+v4: The book closes by directing Israel back to the covenant instruction given through Moses.
+v4: Horeb is another name for Sinai, where Israel received the law.
+v5: Elijah represents the prophetic call to repentance before the coming day of the LORD.
+v5–6: The restoration of relationships serves as evidence of genuine covenant renewal.
+v6: The Old Testament concludes with both a warning of judgment and a promise of restoration.
+v6: The expectation of Elijah creates anticipation for God's future redemptive work.
 
 ##Vocabulary
 

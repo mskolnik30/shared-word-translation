@@ -157,7 +157,15 @@ for the food of your household,
 and provision
 for your servants.
 </p>
-##Notes
+## Notes
+v01: The proverb challenges confidence in a future that has not yet arrived.
+v05–06: Faithful friendship includes correction capable of causing pain. The contrast is with affection that hides what needs to be spoken and hostility disguised as affection.
+v10: Relational nearness can matter more in crisis than biological closeness combined with distance.
+v14: Even an apparently positive action can become offensive when timing and manner are inconsiderate.
+v17: Mutual relationship forms character. “Sharpening” can include challenge as well as encouragement.
+v19: The Hebrew line is compressed. TSW preserves the comparison between reflection in water and the way the heart reveals the person.
+v21: Praise itself becomes a test: what a person does with honor can reveal character just as heat reveals metal.
+v23–27: Wisdom includes careful attention to ordinary material realities. Wealth is unstable; sustainable provision requires knowing and tending what one has.
 
 ##Vocabulary
 

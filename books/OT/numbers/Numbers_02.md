@@ -73,7 +73,11 @@ v32: These are those counted from the Israelites by their ancestral houses. All 
 v33: But the Levites were not counted among the Israelites, as the LORD commanded Moses.
 v34: Thus the Israelites did. According to all that the LORD commanded Moses, so they camped by their standards, and so they set out, each by clan and ancestral house.
 </p>
-##Notes
+## Notes
+v02: The camp is organized around the Tent of Meeting. Israel’s military and tribal arrangement therefore has the divine dwelling, rather than a king or army commander, at its center.
+v03: “toward the sunrise” — The east is named through the movement of the sun, preserving the Hebrew spatial expression.
+v17: The Levites and sanctuary move at the center of the marching order just as they occupy the center of the encamped community.
+v34: The repeated formula “according to all that the LORD commanded” presents the ordered camp as an act of obedience rather than merely administration.
 
 ##Vocabulary
 

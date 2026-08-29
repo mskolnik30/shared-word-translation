@@ -87,7 +87,13 @@ and your lips with a shout of joy.
 v22: Those who hate you will be clothed with shame,
 and the tent of the wicked will be no more.”
 </p>
-##Notes
+## Notes
+v03: Bildad begins from a conviction the book itself does not deny: God does not pervert justice. His error develops in assuming he can infer the precise moral cause of Job’s suffering from that truth.
+v04: Bildad directly attributes the deaths of Job’s children to their sin, despite the prologue giving no such explanation. This is one of the friends’ harshest applications of retribution theology.
+v08–10: Bildad appeals to inherited wisdom and the accumulated insight of prior generations rather than personal revelation.
+v11–15: Papyrus without water and a spider’s web portray the instability of hope detached from God. The images themselves are powerful even though Bildad misapplies the principle to Job.
+v16–19: The plant imagery is textually difficult and may describe apparent flourishing that is quickly erased. The broader point remains the instability of the wicked.
+v20: Bildad’s statement that God does not reject the blameless ironically places him close to Job’s own claim, but he assumes Job’s suffering proves that Job cannot be blameless.
 
 ##Vocabulary
 

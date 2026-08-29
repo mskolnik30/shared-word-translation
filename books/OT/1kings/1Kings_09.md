@@ -107,9 +107,12 @@ v27: Hiram sent his servants with the fleet, sailors who knew the sea, together 
 <p>
 v28: They came to Ophir and took from there four hundred and twenty talents of gold, and they brought it to King Solomon.
 </p>
-##Notes
-
-v18: The Hebrew textual tradition preserves two forms of this place-name: the written form is *Tamar*, while the traditional reading is *Tadmor*.
+## Notes
+v4–9: **v4–9.** The promise concerning David’s throne is framed by a warning to Solomon and his descendants. The chapter holds together the enduring Davidic promise and the real covenantal consequences of turning to other gods.  
+v8: **v8.** “This house will become high” may refer to its conspicuous elevation or prominence. Its very visibility will make its devastation a cause of horror and questioning.  
+v15: **v15.** The term translated “forced labor” concerns labor levied by royal authority for Solomon’s building projects. The account of the temple and royal achievements is thus also an account of the human cost of royal expansion.  
+v18: **v18.** The Hebrew textual tradition preserves two forms of this place-name: the written form is *Tamar*, while the traditional reading is *Tadmor*. The translation follows the traditional reading while retaining the wilderness setting given in the text.  
+v25: **v25.** The wording connects Solomon’s offerings, incense, and completion of the house. “On it” refers to the altar, though the Hebrew syntax is compressed.  
 
 ##Vocabulary
 

@@ -94,7 +94,17 @@ v22: Bless the LORD, all his works,
 in all places of his dominion.
 Bless the LORD, O my soul!
 </p>
-##Notes
+## Notes
+v1–2: The psalm begins with self-exhortation. Memory is central to praise.  
+v3–5: God’s benefits are comprehensive—spiritual, physical, existential.  
+v6–7: God’s justice is relational, especially toward the oppressed.  
+v8–10: Divine mercy is emphasized over judgment.  
+v11–12: Spatial metaphors express immeasurable forgiveness.  
+v13–14: Compassion is grounded in God’s knowledge of human fragility.  
+v15–16: Human life is fleeting and easily erased.  
+v17–18: Covenant loyalty extends across generations.  
+v19: Divine rule is universal and unchallenged.  
+v20–22: Praise expands from the individual to all creation.  
 
 ##Vocabulary
 

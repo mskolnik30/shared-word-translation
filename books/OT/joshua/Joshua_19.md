@@ -134,7 +134,12 @@ v50: According to the command of the LORD, they gave him the city he asked for, 
 
 v51: These are the inheritances that Eleazar the priest, Joshua son of Nun, and the heads of the ancestral houses of the tribes of the children of Israel distributed by lot at Shiloh before the LORD, at the entrance of the tent of meeting. So they finished dividing the land.
 </p>
-##Notes
+## Notes
+v01–09: Simeon’s inheritance lies within Judah because Judah’s allotted territory was larger than needed. Tribal boundaries are therefore adjusted within the larger distribution.
+v10–48: The chapter records five additional tribal allotments in geographic detail, preserving the concrete character of inheritance through borders, cities, and villages.
+v47: Dan’s difficulty holding its original territory anticipates the migration narrated more fully in Judges 18. The city called Leshem here is called Laish there.
+v49–50: Joshua receives his own inheritance only after the tribes have been allotted theirs, presenting his personal possession after his public responsibility has been fulfilled.
+v51: The distribution concludes at the tent of meeting in Shiloh, placing the administrative act explicitly “before the LORD.”
 
 ##Vocabulary
 

@@ -86,7 +86,15 @@ v32: So you shall be careful to do just as the LORD your God commanded you. You 
 
 v33: In all the way that the LORD your God commanded you, you shall walk, so that you may live, and it may go well with you, and you may prolong your days in the land that you will possess.
 </p>
-##Notes
+## Notes
+v02–03: Moses addresses the Horeb covenant as belonging directly to the present generation, even though many were children or not yet born at the original event. Covenant memory makes the past present to the community.
+v04–05: “Face to face” describes direct covenant encounter, while verse 5 simultaneously emphasizes Moses’ mediating role. The expressions are allowed to stand together.
+v11: “carry the name … for emptiness” includes false oath, misuse, and empty invocation. TSW keeps the concrete verb “carry.”
+v14–15: Deuteronomy grounds Sabbath in the exodus from slavery, whereas Exodus 20 also grounds it in creation. The two versions emphasize complementary theological memories.
+v17: The Hebrew verb specifically concerns wrongful killing or murder, not every taking of life.
+v21: Deuteronomy places the neighbor’s wife before house and field and uses a second desire verb, slightly differing from Exodus 20. TSW preserves the order and lexical distinction.
+v22: “he added no more” marks the Ten Words as the direct public speech to the whole assembly before Moses receives further instruction as mediator.
+v29: The LORD’s wish—“if only they had such a heart”—makes obedience an inward disposition, not merely external conformity.
 
 ##Vocabulary
 

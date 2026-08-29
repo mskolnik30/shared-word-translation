@@ -60,9 +60,17 @@ v19: I call the heavens and the earth to witness against you today: I have set b
 
 v20: loving the LORD your God, listening to his voice, and clinging to him, for he is your life and the length of your days, so that you may dwell upon the ground that the LORD swore to your ancestors, to Abraham, Isaac, and Jacob, to give them.
 </p>
-##Notes
-
+## Notes
+v01–05: Deuteronomy imagines return after the curses have already reached exile. Judgment is therefore not the end of covenant possibility.
+v01: “bring them back to your heart” describes remembrance as inward reconsideration, not merely recollection of information.
 v03: “restore your fortunes” is an idiom of reversal and return. The Hebrew also repeats the verb “return,” creating wordplay with Israel’s return to the LORD.
+v06: The circumcision once commanded metaphorically in Deuteronomy 10:16 is now promised as an act of God upon the heart. Divine transformation enables wholehearted love.
+v09: The LORD’s renewed joy in doing good reverses the severe language of Deuteronomy 28:63.
+v11: “not too wonderful” can mean not inaccessible, difficult, or beyond reach. The command is not hidden in a distant divine realm.
+v12–14: Heaven and sea serve as images of impossible distance, but the word is already near, in mouth and heart, oriented toward doing.
+v15: Life/good and death/evil are covenant paths, not abstract philosophical opposites.
+v19: Heaven and earth function as enduring witnesses to Israel’s covenant choice.
+v20: The LORD himself is called “your life,” making covenant obedience fundamentally relational rather than merely legal.
 
 ##Vocabulary
 

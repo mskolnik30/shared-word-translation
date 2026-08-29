@@ -52,7 +52,17 @@ v21: He restored the chief cupbearer to his position, and he placed the cup into
 v22: But he hanged the chief baker, just as Joseph had interpreted to them.
 v23: Yet the chief cupbearer did not remember Joseph, but forgot him.
 </p>
-##Notes
+## Notes
+v1–4: Joseph's prison responsibilities continue to increase despite his unjust circumstances.  
+v5: The paired dreams prepare for Joseph's future role as interpreter of Pharaoh's dreams.  
+v8: Joseph immediately attributes the ability to interpret dreams to God rather than to himself.  
+v12–13: The restoration of the cupbearer demonstrates that God reveals accurate knowledge of future events.  
+v14–15: Joseph openly declares his innocence and asks for remembrance, showing both faith and human longing for deliverance.  
+v16–19: Joseph delivers the unfavorable interpretation as faithfully as the favorable one.  
+v20–22: The fulfillment of both interpretations confirms Joseph's credibility as an interpreter of dreams.  
+v20: “Lift up your head” becomes a striking phrase because it carries opposite outcomes for the two officials.  
+v23: The chapter ends with disappointment. Joseph remains forgotten by the very person who could have helped him.  
+v23: Human forgetfulness delays Joseph's release, but the larger narrative continues to move according to God's timing.  
 
 ##Vocabulary
 

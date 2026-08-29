@@ -132,7 +132,14 @@ and those before him are without number.
 v34: How then will you comfort me with emptiness,
 when falsehood remains in your answers?”
 </p>
-##Notes
+## Notes
+v07: Job directly contradicts Zophar’s claim that wicked joy is only momentary. His argument is observational: wicked people may live long, become powerful, and see their families flourish.
+v09–13: The prosperity Job describes includes security, fertility, children, music, and peaceful death—precisely many blessings the friends associate exclusively with righteousness.
+v14–15: The prosperous wicked openly reject God, eliminating the explanation that their prosperity reflects hidden piety.
+v17: Job’s repeated “How often?” challenges the friends’ portrayal of judgment as immediate and predictable.
+v19–21: Job questions deferred punishment falling on children. If judgment is to demonstrate moral order, he argues, the wrongdoer himself must perceive it.
+v23–26: Death levels radically different lives. Prosperity and bitterness both end in dust and worms, complicating attempts to read moral status from outward condition.
+v29–33: Job appeals to the testimony of travelers and public experience. The wicked may receive honor even in burial rather than public disgrace.
 
 ##Vocabulary
 

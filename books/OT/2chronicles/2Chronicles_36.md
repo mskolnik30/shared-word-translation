@@ -92,11 +92,14 @@ may the LORD his God be with him.
 
 Let him go up!”
 </p>
-##Notes
-
-v09: The Masoretic Text reads Jehoiachin was eight years old, while 2 Kings 24:8 reads eighteen. Most scholars regard eight as a textual difficulty, but
-
+## Notes
+v06: Chronicles says Jehoiakim was bound to be taken to Babylon, while 2 Kings does not narrate his actual deportation. The traditions preserve different emphases.
+v09: The Masoretic Text reads Jehoiachin was eight years old, while 2 Kings 24:8 reads eighteen. Most scholars regard eight as a textual difficulty, but TSW preserves Chronicles’ Masoretic form.
+v10: Zedekiah is called Jehoiachin’s “brother,” using kinship language broadly; he was actually his uncle according to 2 Kings 24:17.
 v15: The phrase “rising early and sending” is a Hebrew idiom for persistent, repeated warning.
+v16: “Until there was no remedy” marks the point when repeated prophetic warning has been exhausted.
+v21: Chronicles interprets exile through both Jeremiah’s seventy years and the land’s missed Sabbaths, echoing Leviticus 26.
+v22–23: The book ends with divine initiative through a foreign Persian king and an unfinished command: “Let him go up!” Chronicles closes by opening the way toward restoration.
 
 ##Vocabulary
 

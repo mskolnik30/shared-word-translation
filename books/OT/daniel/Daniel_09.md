@@ -120,15 +120,25 @@ will come one who makes desolate,
 until the decreed end
 is poured out upon the desolator.”
 </p>
-##Notes
-
+## Notes
+v01: “Darius son of Ahasuerus” is distinct in Daniel’s narrative from the later Persian king usually known as Ahasuerus/Xerxes. The historical identity of Darius the Mede remains debated.
+v02: Daniel reads Jeremiah’s seventy-year prophecy as Scripture requiring continued discernment and prayer rather than passive calculation.
+v03–19: Daniel’s prayer is overwhelmingly corporate: “we have sinned.” Though Daniel is portrayed as faithful, he identifies himself fully with Israel’s guilt.
+v04: Daniel’s address to God echoes Deuteronomic covenant language: great, fearsome, faithful, and abundant in steadfast love.
 v07: “shame of face” is a Hebrew idiom for public humiliation and acknowledged guilt.
-
-v24: The six infinitive purposes are textually compact and difficult. “Seal up sin” has variant readings involving sealing or completing sin;
-
-v24: The Hebrew lacks an explicit noun, so
-
-v25: The punctuation and division of seven and sixty-two sevens are highly debated. The Hebrew Masoretic accents distinguish seven sevens from the sixty-two that follow.
+v11–13: Daniel explicitly interprets Jerusalem’s destruction through the covenant curses written in the instruction of Moses.
+v14: The LORD “watched over the disaster” uses the same verb that elsewhere describes vigilant care. Divine attentiveness includes bringing the warned judgment to pass.
+v18: Daniel bases his plea not on Israel’s righteousness but on God’s great compassion.
+v21: “at the time of the evening offering” remembers temple worship even while the sanctuary lies desolate.
+v23: “greatly beloved” can also mean precious or greatly desired. The phrase marks Daniel as especially valued before God.
+v24: “seventy sevens” literally means seventy units of seven. The text does not itself state whether each seven represents days, years, or another symbolic period, though the context of Jeremiah’s years strongly shapes interpretation.
+v24: The six infinitive purposes are textually compact and difficult. “Seal up sin” has variant readings involving sealing or completing sin; TSW follows the Masoretic consonantal tradition in a form that preserves the sequence of ending sin and establishing righteousness.
+v24: “a Most Holy thing” can refer to a holy place, object, or person. The Hebrew lacks an explicit noun, so TSW avoids deciding the referent in the main text.
+v25: The punctuation and division of seven and sixty-two sevens are highly debated. The Hebrew Masoretic accents distinguish seven sevens from the sixty-two that follow. TSW preserves that division rather than silently adopting a later chronology.
+v25: “square and moat” translates two difficult urban terms. They represent restored civic infrastructure but their exact features are uncertain.
+v26: “an anointed one” is not named. Interpretations range across post-exilic priests, rulers, and messianic readings. TSW retains the indefinite form.
+v27: The identity of the subject who makes the covenant and stops sacrifice is disputed. TSW preserves the third-person pronoun without supplying a name.
+v27: “wing of detestable things” is difficult apocalyptic imagery connected with desolation. TSW resists replacing the strange phrase with a more specific interpretation.
 
 ##Vocabulary
 

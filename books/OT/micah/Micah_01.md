@@ -110,7 +110,19 @@ for the children of your delight.
 Make your baldness as broad as the eagle,
 for they shall go from you into exile.
 </p>
-##Notes
+## Notes
+v1: Micah ministered during the reigns of Jotham, Ahaz, and Hezekiah, addressing both Israel and Judah.  
+v2: The prophet summons the entire earth as witness to God's coming judgment.  
+v3–4: The imagery portrays the LORD as a divine king whose appearance causes creation itself to tremble.  
+v5: Samaria and Jerusalem are identified as centers of covenant rebellion rather than sources of faithfulness.  
+v6–7: The prophecy anticipates the destruction of Samaria, fulfilled by the Assyrian conquest.  
+v7: Idolatry is described in terms of spiritual prostitution, a recurring prophetic image.  
+v8–9: Micah personally grieves over the judgment he announces.  
+v9: The corruption that destroyed Israel is now reaching Judah.  
+v10–15: A series of wordplays on town names emphasizes the spread of coming judgment through Judah.  
+v13: Lachish is singled out as a conduit through which Israel's sins influenced Judah.  
+v15: Adullam, once a refuge for David, becomes an image of retreat and humiliation.  
+v16: Shaving the head symbolizes deep mourning over exile and loss.  
 
 ##Vocabulary
 

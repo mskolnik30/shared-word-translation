@@ -50,7 +50,11 @@ v21: They will pass through it, sore distressed and hungry;
 and it will happen that when they are hungry, they will worry, and curse by their king and by their God. They will turn their faces upward,
 v22: and look to the earth, and see distress, darkness, and the gloom of anguish. They will be driven into thick darkness.
 </p>
-##Notes
+## Notes
+v03: “Maher-Shalal-Hash-Baz” — The child’s symbolic name means approximately “swift is the spoil, speedy is the prey,” embodying the coming Assyrian crisis.
+v13: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
+v18: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
+v07: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.
 
 ##Vocabulary
 

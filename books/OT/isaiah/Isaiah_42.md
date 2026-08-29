@@ -57,7 +57,11 @@ v25: Therefore he poured the fierceness of his anger on him, and the strength of
 and it set him on fire all around, but he did not know;
 and it burned him, but he did not take it to heart."
 </p>
-##Notes
+## Notes
+v6: The servant is appointed as “a covenant for the people” and “a light for the nations,” joining Israel’s restoration with a wider vocation.  
+v6: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
+v1: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+v1: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
 ##Vocabulary
 

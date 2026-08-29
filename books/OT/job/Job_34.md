@@ -148,7 +148,14 @@ v37: For he adds rebellion to his sin;
 he claps his hands among us
 and multiplies his words against God.”
 </p>
-##Notes
+## Notes
+v05–09: Elihu summarizes Job’s position in increasingly negative terms. Job has indeed said God took away his justice, but the claim that serving God has no profit compresses Job’s critique into a more sweeping rejection.
+v10–12: Elihu’s central commitment is that God cannot act wickedly or pervert justice. This is a theological boundary that Job himself has struggled to reconcile with experience.
+v14–15: Human life depends continuously upon God’s spirit and breath; if God gathered them back, all flesh would return to dust.
+v19: Divine impartiality is grounded in creation: rich and poor alike are the work of God’s hands.
+v28: Elihu specifically affirms that God hears the cry of the poor and afflicted, a claim that aligns with Job’s concern for oppressed people but remains difficult to reconcile with Job’s observations in chapter 24.
+v33: Elihu insists that Job cannot demand justice on Job’s own terms. The Hebrew is compact and difficult, but the question challenges Job’s attempt to set conditions for divine judgment.
+v36: Elihu’s wish that Job be tested “to the limit” is severe and sits uneasily beside Job’s already extreme suffering.
 
 ##Vocabulary
 

@@ -19,7 +19,9 @@ v06: Therefore, this is what the LORD GOD says: Like the vine tree among the tre
 v07: And I will set my face against them. They have come out of the fire, but the fire will consume them. And you will know that I am the LORD, when I set my face against them.
 v08: I will make the land desolate because they have been unfaithful, declares the LORD GOD."
 </p>
-##Notes
+## Notes
+v2: "Son of man" — A term used for Ezekiel that emphasizes his humanity in contrast to the divine authority of his visions.  
+v4: The imagery of the vine — The vine symbolizes something that should be fruitful but is instead good only for burning, representing the inhabitants of Jerusalem who have failed to fulfill their intended purpose.  
 
 ##Vocabulary
 

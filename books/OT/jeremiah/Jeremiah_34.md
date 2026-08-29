@@ -64,7 +64,13 @@ v21: And Zedekiah king of Judah and his officials I will give into the hand of t
 
 v22: Look, I am commanding,” says the LORD, “and I will bring them back to this city. They will fight against it, capture it, and burn it with fire. I will make the cities of Judah a desolation without inhabitant.”
 </p>
-##Notes
+## Notes
+v04–05: Zedekiah is promised a peaceful death and royal lament even though he will be captured and taken to Babylon. The promise concerns the manner and honor of his death rather than escape from exile.
+v08–11: The release of Hebrew servants occurs under siege pressure and is then reversed. The chapter treats the reversal not simply as social injustice but as covenant violation.
+v14: The wording reflects Israel’s instruction concerning release after six years of service. Jeremiah interprets the practice through the memory of liberation from Egypt.
+v17: The LORD answers the people’s refusal to “proclaim release” with bitter wordplay: the LORD proclaims “release” to sword, plague, and famine.
+v18–19: Cutting an animal and passing between its parts was a covenant-making action. The enacted curse becomes the framework for judgment upon those who violated the covenant.
+v21: Babylon’s army had temporarily withdrawn, likely because of Egyptian military movement. The LORD declares that the reprieve will not last.
 
 ##Vocabulary
 

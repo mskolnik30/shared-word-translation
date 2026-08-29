@@ -128,7 +128,13 @@ v34: The LORD said to Moses, “Do not fear him, for I have given him and all hi
 
 v35: So they struck him and his sons and all his people until no survivor remained to him, and they possessed his land.
 </p>
-##Notes
+## Notes
+v4: “The soul grew short” signals impatience and emotional exhaustion—weariness becomes theological complaint.
+v5: Speech turns accusatory; divine provision (“this bread”) is reinterpreted as contemptible.
+v6: The serpents function as both judgment and consequence—death enters through what bites.
+v7: Confession is direct and verbal (“we have sinned”), restoring relationship through acknowledgment and intercession.
+v8: Healing is mediated through paradox—what afflicts becomes the instrument of restoration.
+v9: The act required is simple yet interpretive: to “look” is to trust. Life comes through directed attention.
 
 ##Vocabulary
 

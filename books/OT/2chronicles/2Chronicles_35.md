@@ -84,7 +84,11 @@ v26: Now the rest of the acts of Josiah and his steadfast deeds, according to wh
 
 v27: and his acts, first and last, look, they are written in the book of the kings of Israel and Judah.
 </p>
-##Notes
+## Notes
+v03: The command to place the ark in the temple is difficult because it should already have been there. It may imply that the ark had been moved during earlier apostasy or that Levites are being told to cease carrying it.
+v18: Chronicles compares Josiah’s Passover with the days of Samuel, emphasizing its extraordinary scope and order.
+v21–22: The surprising claim that Neco’s warning came “from the mouth of God” means Josiah’s failure is refusal to hear divine speech through a foreign king.
+v25: The “Laments” mentioned here are not necessarily the canonical book of Lamentations; the cited collection is otherwise unknown.
 
 ##Vocabulary
 

@@ -55,10 +55,19 @@ v13: Just as I called and they would not hear, so they called and I would not he
 
 v14: I scattered them with a whirlwind among all the nations they had not known. The land was desolate behind them, with no one passing through or returning, and they made the desirable land desolate.”
 </p>
-##Notes
-
+## Notes
+v1: “Kislev” — The ninth month of the Judean calendar falls roughly in late autumn or early winter.  
+v2: “seek the favor of the LORD” — The Hebrew expression literally involves seeking or softening the face of the LORD. It describes approaching God in petition.  
+v3: “the fifth month” — The fast remembered the destruction of Jerusalem and the temple. The delegation asks whether a practice born from catastrophe should continue after restoration has begun.  
+v5: “fifth and seventh months” — The fifth-month fast commemorated the destruction of the temple; the seventh-month fast was associated with the killing of Gedaliah and its aftermath.  
+v5: “was it really for me?” — The repeated Hebrew pronoun intensifies the question. The issue is not fasting itself but the orientation of the practice.  
+v7: “Negev and the foothills” — The Negev is the southern region of Judah; the foothills, or Shephelah, are the lower hills between the central highlands and the coastal plain.  
+v9: “true justice” — The Hebrew literally says “judgment of truth.” Justice is to correspond faithfully to what is right rather than being manipulated for advantage.  
+v10: “widow … orphan … resident alien … poor” — These groups repeatedly appear in Israel’s law and prophets as people especially vulnerable to exploitation.  
+v11: “turned a stubborn shoulder” — The image may evoke an animal refusing a yoke. The physical metaphor portrays deliberate resistance.  
+v12: “hearts like stone” — The Hebrew names an extremely hard material. The refusal to listen is portrayed as an intentional hardening against both instruction and prophetic speech.  
+v14: The closing accusation holds human responsibility and divine judgment together: the LORD scattered the people, and the people themselves made the desirable land desolate through their refusal to hear.  
 v02: “seek the favor of the LORD” — The Hebrew expression literally involves seeking or softening the face of the LORD.
-
 v09: “true justice” — The Hebrew literally says “judgment of truth.” Justice is to correspond faithfully to what is right rather than being manipulated for advantage.
 
 ##Vocabulary

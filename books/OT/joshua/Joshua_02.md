@@ -68,7 +68,12 @@ v23: Then the two men returned. They came down from the hill country, crossed ov
 
 v24: They said to Joshua, “Truly the LORD has given all the land into our hand. Moreover, all the inhabitants of the land melt away before us.”
 </p>
-##Notes
+## Notes
+v01: Rahab is introduced directly as a prostitute, yet the narrative centers her courage, discernment, and confession concerning the LORD.
+v04–05: Rahab deceives the king’s agents in order to protect the spies. The narrative reports the deception as part of her act of protection without pausing to formulate a general ethic concerning false speech.
+v09–11: Rahab interprets Israel’s past deliverance theologically and confesses the LORD’s sovereignty in heaven and earth before Israel has entered Jericho.
+v12–14: “steadfast love and faithfulness” describes reciprocal loyalty grounded in the protection Rahab has already extended to the spies.
+v18: The scarlet cord functions as a visible sign identifying the household to be spared. The text itself does not assign symbolic meaning beyond the agreement.
 
 ##Vocabulary
 

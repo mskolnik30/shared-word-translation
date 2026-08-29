@@ -117,7 +117,20 @@ and how great the LORD’s beauty!
 Grain will make the young men flourish,
 and new wine the young women.
 </p>
-##Notes
+## Notes
+v01: “Hadrach” — The location is uncertain, though it appears in connection with Damascus and Hamath. The translation retains the place name without attempting to identify it more precisely.
+v01: “the eye of humanity” — The Hebrew construction is difficult and has been interpreted in more than one way. The translation preserves the language of attention being directed toward the LORD without resolving every syntactical question.
+v03–04: Tyre’s accumulated wealth and fortified strength are placed directly beside the announcement that neither can secure the city against judgment.
+v07: “blood … abominations” — The language likely refers to prohibited ritual or dietary practices. The removal of these things accompanies the incorporation of a Philistine remnant into the people of God.
+v08: “I have seen with my own eyes” — Divine protection is grounded in the LORD’s direct attention to the condition of the people.
+v09: “righteous and saved” — The Hebrew word can carry the sense of being saved, delivered, or victorious. The translation retains the passive form rather than resolving it into a claim that the king saves himself or others.
+v09: “humble and riding on a donkey” — The king’s arrival is deliberately contrasted with the military imagery of horses, chariots, and battle bows removed in the following verse.
+v10: “from sea to sea” — The language portrays an expansive reign of peace without naming precise geographic boundaries.
+v11: “blood of your covenant” — The expression invokes a covenant established or confirmed through blood without identifying a particular covenantal ceremony within the verse itself.
+v12: “prisoners of hope” — Captivity and expectation are held together in a distinctive expression. Hope exists before the promised restoration has been completed.
+v13: “Greece” — The Hebrew is *Javan*, conventionally associated with the Greek world. The verse anticipates conflict beyond the immediate Persian-period setting.
+v15: “sling stones” — The imagery is compressed and difficult. The translation retains the military language without attempting to reconstruct every detail of the scene.
+v16: “stones of a crown” — The people themselves become precious stones lifted up or displayed over the land.
 
 ##Vocabulary
 

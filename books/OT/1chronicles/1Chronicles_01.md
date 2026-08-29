@@ -161,7 +161,17 @@ v53: chief Kenaz, chief Teman, chief Mibzar,
 
 v54: chief Magdiel, and chief Iram. These were the chiefs of Edom.
 </p>
-##Notes
+## Notes
+v1–4: The genealogy begins with Adam and moves directly to Noah. Israel’s story is placed within the story of all humanity before it narrows to a particular family.  
+v5–23: The descendants of Noah are organized by family lines and peoples. The chapter presents the nations as related branches of a common human ancestry.  
+v10: Nimrod receives a brief narrative note in the midst of the genealogy. His prominence is remembered, but the Chronicler resists expanding the story.  
+v19: Peleg’s name is linked to a division of the earth. The text does not explain the nature of the division, allowing the ambiguity to remain.  
+v24–27: The genealogy accelerates from Shem to Abraham. The movement narrows from the nations to the covenant family.  
+v28–33: Ishmael and Keturah’s descendants are remembered alongside Isaac’s line. The Chronicler preserves the wider family history before focusing on Israel.  
+v34: Jacob is identified by the name Israel. The covenant identity becomes the organizing thread for the generations that follow.  
+v35–42: Esau’s descendants are listed in detail. Edom remains closely connected to Israel through shared ancestry.  
+v43–50: The kings of Edom are remembered before Israel’s monarchy existed. The note highlights Edom’s early political development without assigning superiority.  
+v51–54: The chapter closes with clan chiefs rather than kings. Leadership in Edom is portrayed through both royal and tribal structures.  
 
 ##Vocabulary
 

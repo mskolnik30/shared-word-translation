@@ -110,7 +110,20 @@ v55: When all the land of Egypt was famished, the people cried to Pharaoh for br
 v56: So when the famine had spread over all the face of the earth, Joseph opened all the storehouses and sold grain to the Egyptians, for the famine was severe in the land of Egypt.
 v57: And all the earth came to Egypt to Joseph to buy grain, because the famine was severe over all the earth.
 </p>
-##Notes
+## Notes
+v1–8: Pharaoh's dreams create a crisis that none of Egypt's experts can solve.  
+v8: Human wisdom reaches its limit, preparing the way for God's revelation through Joseph.  
+v14: Joseph's sudden transition from prison to Pharaoh's court marks a dramatic reversal of circumstances.  
+v16: Joseph refuses personal credit and attributes interpretation entirely to God.  
+v25–32: The repeated dream confirms both the certainty and urgency of God's revelation.  
+v29–31: The coming famine will be so severe that the years of abundance will seem forgotten.  
+v33–36: Joseph not only interprets the dream but provides a practical plan for responding to it.  
+v38–40: Pharaoh recognizes divine wisdom in Joseph and elevates him to extraordinary authority.  
+v42–45: Joseph receives symbols of royal authority, public honor, and integration into Egyptian society.  
+v46: Joseph is thirty years old when his public ministry of administration begins.  
+v51–52: The names of Joseph's sons reflect both healing from past suffering and fruitfulness amid affliction.  
+v53–57: The fulfillment of the dreams confirms the reliability of God's revelation.  
+v57: The famine prepares the way for Joseph's family to come to Egypt, advancing the larger narrative of Genesis.  
 
 ##Vocabulary
 

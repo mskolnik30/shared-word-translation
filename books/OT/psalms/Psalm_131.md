@@ -22,7 +22,8 @@ like a weaned child is my soul within me.
 v03: O Israel, hope in the LORD
 from now and forever.
 </p>
-##Notes
+## Notes
+v02: The image is specifically of a weaned child—one able to rest with the mother without demanding immediate feeding. The comparison conveys settled trust rather than infancy or helplessness alone.
 
 ##Vocabulary
 

@@ -61,7 +61,11 @@ v25: Your men will fall by the sword, and your mighty in the war.
 v26: Her gates will lament and mourn;
 and she will be desolate and sit on the ground.
 </p>
-##Notes
+## Notes
+v14: “the spoil of the poor is in your houses” — Isaiah locates social violence within elite accumulation and makes leadership accountable for what has been taken from the vulnerable.  
+v16: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v8: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
+v9: “Woe” — Hebrew *hoy* is a cry of lament, warning, or judgment whose precise force is governed by its prophetic context.  
 
 ##Vocabulary
 

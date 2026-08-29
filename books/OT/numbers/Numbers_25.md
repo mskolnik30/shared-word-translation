@@ -47,7 +47,12 @@ v16: The LORD spoke to Moses, saying,
 v17: “Treat the Midianites as enemies and strike them,
 v18: for they have treated you as enemies with their schemes by which they deceived you in the matter of Peor and in the matter of Cozbi, their sister, daughter of a leader of Midian, who was struck down on the day of the plague because of Peor.”
 </p>
-##Notes
+## Notes
+v01–03: Sexual relations, sacrificial meals, and worship are interwoven in the episode. The language of prostitution also resonates with covenantal unfaithfulness.
+v04: The command concerning the leaders is severe and its precise relationship to the executions ordered in v05 is compressed. TSW preserves both instructions without harmonizing them.
+v08: The Hebrew location and anatomy are both unusually terse. The violence is narrated directly rather than expanded with details the text does not supply.
+v11: Phinehas’ action is interpreted within the narrative as zeal corresponding to the LORD’s zeal. The translation reports that interpretation without making the episode a general authorization of religious violence.
+v12: “covenant of peace” stands in deliberate tension with the violent act that immediately precedes it, a tension the text itself does not resolve.
 
 ##Vocabulary
 

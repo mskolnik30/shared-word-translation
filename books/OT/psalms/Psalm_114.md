@@ -34,7 +34,11 @@ at the presence of the God of Jacob,
 v08: who turns the rock into a pool of water,
 the flint into a spring of water.
 </p>
-##Notes
+## Notes
+v1–2: The exodus establishes identity—Israel becomes sanctuary and dominion.  
+v3–4: Creation responds to God with movement and reversal.  
+v5–6: Rhetorical questions emphasize the abnormal behavior of nature.  
+v7–8: The cause is divine presence. Power is expressed through transformation.  
 
 ##Vocabulary
 

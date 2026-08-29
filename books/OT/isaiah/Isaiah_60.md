@@ -64,7 +64,11 @@ they will inherit the land forever, the branch of my planting, the work of my ha
 v22: The little one will become a thousand, and the small one a strong nation;
 I, the LORD, will hasten it in its time.
 </p>
-##Notes
+## Notes
+v1: Zion’s light is not self-generated; it is the reflected arrival of the LORD’s glory upon a city previously associated with darkness and humiliation.  
+v9: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v16: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
+v14: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
 
 ##Vocabulary
 

@@ -48,7 +48,13 @@ v11: You make known to me the path of life;
 in your presence there is fullness of joy;
 at your right hand are pleasures forevermore.
 </p>
-##Notes
+## Notes
+v1–2: Refuge and exclusive allegiance define the opening confession.  
+v3–4: Loyalty to God is contrasted with rejection of other gods.  
+v5–6: Inheritance language frames life as received, not seized.  
+v7–8: Guidance is both external (the LORD) and internalized (heart).  
+v8: Stability is grounded in proximity (“at my right hand”).  
+v9–11: Security extends beyond death—life is defined by God’s presence.  
 
 ##Vocabulary
 

@@ -95,7 +95,13 @@ v22: For when a few years have come,
 I will go the way
 from which I will not return.”
 </p>
-##Notes
+## Notes
+v02: Job turns the friends’ intended role against them: they came to comfort him but have become “miserable comforters.”
+v04–05: Job says he could imitate their accusatory speech if circumstances were reversed, but he imagines instead strengthening and relieving them with words.
+v09–14: Job’s imagery shifts rapidly between God as predator, warrior, and archer. He experiences divine agency as violent assault.
+v17: Job again insists on the absence of violence in his hands and the purity of his prayer. The claim directly resists the friends’ increasingly specific accusations.
+v18: Uncovered blood in biblical imagery cries out for justice. Job asks creation itself not to silence his unresolved case.
+v19–21: Job unexpectedly imagines a heavenly witness who can testify for him and plead his case with God. The identity of this witness is not explained.
 
 ##Vocabulary
 

@@ -105,9 +105,14 @@ v27: Look, this we have searched out; it is so.
 Hear it,
 and know it for yourself.”
 </p>
-##Notes
-
-v01: “holy ones” — The term may refer to heavenly beings.
+## Notes
+v01: “holy ones” — The term may refer to heavenly beings. Eliphaz challenges Job to find any heavenly advocate who will contradict his understanding.
+v06–07: Eliphaz denies that trouble simply emerges without cause, yet immediately describes humanity as naturally born into trouble. The tension reflects the compression of proverbial speech.
+v08–16: Eliphaz’s description of God contains themes later affirmed elsewhere in Scripture: divine greatness, care for the lowly, and frustration of the crafty. The issue in Job is not that every statement of the friends is false, but how truths are applied to Job.
+v17–18: Eliphaz interprets suffering as divine correction. That framework can be meaningful in some contexts but conflicts with the heavenly prologue’s description of Job’s suffering as “without cause.”
+v19: The “six … seven” pattern is a numerical poetic device expressing fullness rather than a literal limit of seven dangers.
+v23: Covenant with stones and peace with animals portray restored harmony between the person and the created environment.
+v27: Eliphaz closes with confidence that his conclusion has been “searched out.” The later speeches expose the limits of such confidence.
 
 ##Vocabulary
 

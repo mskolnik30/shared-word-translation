@@ -84,7 +84,18 @@ v32: Jeroboam made a festival in the eighth month, on the fifteenth day of the m
 
 v33: He went up to the altar that he had made at Bethel on the fifteenth day of the eighth month, in the month that he had devised from his own heart. He made a festival for the Israelites and went up to the altar to burn incense.
 </p>
-##Notes
+## Notes
+v4: The people describe Solomon’s rule with the paired images of hard service and a heavy yoke. Their request is not to reject kingship but to seek relief from burdens imposed by it.  
+v7: The elders urge Rehoboam to become a “servant” to the people. The passage presents humble service, good speech, and enduring royal loyalty as closely connected.  
+v10: “My little finger is thicker than my father’s waist” is a boast of surpassing strength and severity. The precise body-part term may also carry a more forceful or coarse implication; the translation retains the ordinary image.  
+v11: “Scorpions” may refer literally to scorpions or, more likely, to barbed whips whose lashes were especially painful. The threat intensifies the contrast with ordinary whips.  
+v15: The narrative identifies Rehoboam’s refusal as a turn of events “from the LORD,” while still portraying the king’s harsh response and rejection of counsel. It does not remove the human agency that drives the division.  
+v16: The people’s cry uses the language of “share” and “inheritance,” declaring that they no longer recognize a stake in David’s royal house. “To your tents” is a summons to disperse and withdraw allegiance.  
+v18: Adoram’s role “over the forced labor” makes his death a direct rejection of the labor system at the center of the people’s complaint.  
+v24: The command not to fight calls the divided people “your brothers,” even as the division is said to have come from the LORD.  
+v28: Jeroboam’s proclamation deliberately echoes Israel’s deliverance from Egypt, applying exodus language to the golden calves.  
+v30: The Hebrew wording is compressed: “the people went before the one as far as Dan.” It likely describes pilgrimage or worship associated with the calf shrine, while leaving the exact geographic sense terse.  
+v33: The festival date is said to be one Jeroboam “devised from his own heart,” emphasizing that this cultic arrangement originates in his own purpose rather than in an instruction attributed to the LORD.  
 
 ##Vocabulary
 

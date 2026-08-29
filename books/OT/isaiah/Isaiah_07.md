@@ -65,7 +65,21 @@ v23: On that day every place where there used to be a thousand vines worth a tho
 v24: People will go there with bow and arrows, for all the land will be briers and thorns.
 v25: As for all the hills that used to be hoed with a hoe, you will not go there for fear of briers and thorns; but they will become a place where cattle are let loose and where sheep tread.
 </p>
-##Notes
+## Notes
+v2: “the house of David… shook” — The crisis is political, but the deeper issue is theological: the royal line trembles as if God’s promise is fragile.
+v3: Shear-jashub — Isaiah’s child’s name (“A remnant shall return”) is part of the message: judgment is real, yet God preserves a future.
+v4: “be quiet… do not fear” — This is not denial of danger; it is a summons to non-anxious trust in the LORD rather than reactive alliances.
+v7: “It shall not stand” — God interrupts the plot with a decisive “no”; history is not finally governed by threats and conspiracies.
+v9: “If you do not stand firm in trust, you will not stand at all” — The hinge line: stability is not military strength but steadfast trust; refusal of trust becomes collapse.
+v11: “Ask a sign” — God accommodates weakness, inviting confirmation rather than demanding stoic certainty.
+v12: “I will not… put the LORD to the test” — Ahaz’s piety is a cover; he refuses the sign because he has already chosen his strategy.
+v13: “you weary my God also” — Isaiah exposes that faithlessness drains a community; leadership unbelief becomes communal exhaustion.
+v14: “Look—the young woman… Immanuel” — The sign is presence: “God-with-us” in the midst of fear. It is not escapism, but a claim that God is still with David’s house.
+v15–16: “before the child knows…” — The sign has a near horizon: within a short time the immediate threat will pass; God gives time-bound assurance.
+v17: “the king of Assyria” — The irony: the “solution” Ahaz wants becomes the instrument of deeper trouble; misplaced trust invites the very power that will wound.
+v18–19: “fly… bee” — Invasive forces swarm at God’s summons; the imagery conveys unavoidable pressure, not a manageable inconvenience.
+v20: “shave with a razor hired… beyond the River” — Judah will be humiliated by the empire it effectively “hires”; dependence becomes degradation.
+v23–25: “briers and thorns… cattle… sheep” — The land imagery is covenantal fallout: cultivated abundance collapses into survival-mode; creation reflects political and spiritual unraveling.
 
 ##Vocabulary
 

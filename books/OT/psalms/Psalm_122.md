@@ -29,7 +29,12 @@ I will say, "Peace be within you."
 v09: For the sake of the house of the LORD our God,
     I will seek your good.
 </p>
-##Notes
+## Notes
+v1: "A Song of Ascents. Of David." - The term "ascents" or "steps" indicates a collection of psalms traditionally associated with the pilgrimage to Jerusalem. David is credited as the author.  
+v4: "the tribes of the LORD" - The tribes of Israel, united in worship and testimony, reflect their collective identity and purpose.  
+v5: "thrones of judgment" - This indicates Jerusalem's role as the judicial and administrative center for the Israelite monarchy, particularly under David's lineage.  
+v6: "Pray for the peace of Jerusalem" - An invocation for the well-being of the city, symbolizing spiritual and communal harmony.  
+v8: "my family and friends" - The call for peace extends beyond national identity to personal relationships, emphasizing communal solidarity.  
 
 ##Vocabulary
 

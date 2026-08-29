@@ -108,11 +108,18 @@ For the worthless one
 will no longer pass through you;
 that one is completely cut off.
 </p>
-##Notes
-
-v01: “oracle” — The Hebrew *massa* can mean an oracle or burden.
-
-v15: In the Masoretic chapter division this verse begins chapter 2.
+## Notes
+v01: “oracle” — The Hebrew *massa* can mean an oracle or burden. It introduces a weighty prophetic word directed here against Nineveh, capital of Assyria.
+v02: “jealous and avenging” — The language presents the LORD's jealousy as intense commitment and the LORD's vengeance as judicial response to adversaries. The translation retains the force of the paired terms without reducing them to ordinary human emotion.
+v03: “will certainly not leave the guilty unpunished” — The Hebrew intensifies the verb through repetition. The wording holds the LORD's patience together with the certainty that wrongdoing is not simply ignored.
+v05: “The earth heaves” — The Hebrew verb is difficult in this context and can carry the sense of lifting, trembling, or being devastated. TSW preserves the image of creation convulsing before the LORD.
+v07: “knows those who take refuge” — “Know” is relational rather than merely informational. The LORD's knowledge of those seeking refuge is placed beside the LORD's power in judgment.
+v08: “her place” — The Hebrew pronoun most naturally points toward Nineveh, though the city is not named again in the immediate line. The reference is preserved without expansion.
+v10: “soaked as with their drink” — The Hebrew is compressed and difficult. The line seems to combine tangled thorns, drunkenness or saturation, and dry stubble as images of a people who appear resistant yet are easily consumed.
+v11: “what is worthless” — The Hebrew *beliyya'al* can describe worthlessness, wickedness, or destructive rebellion. The term later developed additional associations, but TSW retains its immediate moral force here.
+v12: The addressee shifts from Nineveh's strength to the afflicted people whom the LORD promises not to afflict again. The prophetic speech moves rapidly between judgment and consolation.
+v14: “No offspring will continue your name” — The judgment concerns the end of dynastic or national continuity, not merely the death of one individual.
+v15: In the Masoretic chapter division this verse begins chapter 2. TSW follows standard public English chapter numbering, where the proclamation of good news concludes Nahum 1.
 
 ##Vocabulary
 

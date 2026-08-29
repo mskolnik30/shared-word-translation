@@ -52,7 +52,13 @@ v15: And just as every good word that the LORD your God spoke to you has come up
 
 v16: if you transgress the covenant of the LORD your God that he commanded you, and go and serve other gods and bow down to them. Then the anger of the LORD will burn against you, and you will quickly perish from the good land that he has given you.”
 </p>
-##Notes
+## Notes
+v01: Joshua’s final charge is set after “rest” has been given, but nations still remain. Rest and unfinished possession coexist.
+v06: The command to be strong returns to the language of Joshua’s original commission, but now strength is directed toward keeping the instruction rather than military courage.
+v07–08: The central danger is religious assimilation. Israel is called not merely to avoid other gods but positively to “cling” to the LORD.
+v10: Military success is attributed to the LORD’s active fighting for Israel rather than numerical strength.
+v14–15: Joshua interprets both promised good and warned judgment through the reliability of the LORD’s word. Covenant warning is grounded in the same faithfulness as covenant promise.
+v16: The chapter closes with the possibility of losing the good land that has been given, showing that possession is covenantal rather than merely geographic.
 
 ##Vocabulary
 

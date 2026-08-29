@@ -34,7 +34,11 @@ and these are shepherds who cannot understand: they have all turned to their own
 v12: Come you, say they, I will get wine, and we will fill ourselves with strong drink;
 and tomorrow will be as this day, a day great beyond measure.
 </p>
-##Notes
+## Notes
+v4: The inclusion of eunuchs and foreigners directly addresses people whose place in the covenant community might otherwise be considered restricted.  
+v4: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
+v6: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+v1: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.  
 
 ##Vocabulary
 

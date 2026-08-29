@@ -100,7 +100,21 @@ and be like a gazelle
 or a young stag
 upon the mountains of spices.
 </p>
-##Notes
+## Notes
+v1–2: The bride expresses a desire for unrestricted public affection free from social restraint.  
+v3–4: The familiar refrain again emphasizes the proper timing and awakening of love.  
+v5: The image of the couple emerging from the wilderness recalls themes of journey, growth, and union.  
+v6: The seal symbolizes permanent ownership, commitment, and belonging.  
+v6: Love is compared to death because of its power, permanence, and inevitability.  
+v6: The phrase “the very flame of the LORD” is one of the most striking references to divine fire in the book.  
+v7: True love cannot be extinguished, purchased, or replaced by wealth.  
+v8–9: The brothers discuss protecting and preparing their younger sister for future marriage.  
+v10: The bride declares her maturity and readiness, affirming her faithfulness and stability.  
+v10: “Peace” echoes the Hebrew concept of shalom—wholeness, harmony, and fulfillment.  
+v11–12: The vineyard imagery returns as a symbol of personal devotion, affection, and self-giving.  
+v12: The bride claims stewardship over her own vineyard while freely offering herself in love.  
+v13–14: The book concludes with longing rather than final closure, preserving the theme of desire and pursuit.  
+v14: The final image echoes earlier gazelle imagery and leaves the song moving forward rather than ending in stillness.  
 
 ##Vocabulary
 

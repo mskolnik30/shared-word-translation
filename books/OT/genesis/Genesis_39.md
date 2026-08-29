@@ -52,7 +52,21 @@ v21: But the LORD was with Joseph and showed him steadfast love and gave him fav
 v22: And the keeper of the prison put under Joseph’s authority all the prisoners who were in the prison. Whatever was done there, he was the one who did it.
 v23: The keeper of the prison paid no attention to anything that was under Joseph’s authority, because the LORD was with him. And whatever he did, the LORD made it prosper.
 </p>
-##Notes
+## Notes
+v1: Joseph's descent into Egypt begins a major new section of Genesis and prepares for Israel's later presence there.  
+v2: The repeated statement that “the LORD was with Joseph” forms the central theme of the chapter.  
+v3–5: Joseph's success is attributed not to circumstance but to the LORD's blessing.  
+v5: God's blessing extends beyond Joseph himself to the household of his Egyptian master.  
+v06b: Joseph's physical appearance recalls earlier descriptions of Rachel, his mother.  
+v7–9: Joseph refuses temptation on both ethical and theological grounds. His concern is loyalty to his master and faithfulness to God.  
+v9: Joseph defines the act as both a betrayal of trust and a sin against God.  
+v10: Resistance is portrayed as continual rather than momentary.  
+v12: Joseph chooses flight rather than compromise, even at personal cost.  
+v13–18: Potiphar's wife uses Joseph's garment as false evidence, reversing the truth of the situation.  
+v14: Joseph is identified as a “Hebrew,” highlighting his outsider status in Egypt.  
+v19–20: Doing what is right does not spare Joseph from suffering or false accusation.  
+v21: The language of steadfast love signals God's covenant faithfulness even in prison.  
+v22–23: The pattern of Potiphar's house repeats itself in prison: Joseph receives responsibility because the LORD prospers his work.  
 
 ##Vocabulary
 

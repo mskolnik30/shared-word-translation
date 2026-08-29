@@ -126,7 +126,20 @@ v42: All the men of Judah answered the men of Israel, “Because the king is nea
 
 v43: The men of Israel answered the men of Judah and said, “We have ten shares in the king, and in David also we have more than you. Why then did you despise us? Was not our word first to bring back our king?” But the word of the men of Judah was harsher than the word of the men of Israel.
 </p>
-##Notes
+## Notes
+v01–08: Joab forces David to distinguish private grief from public kingship. The troops who saved David feel dishonored when their victory is received only as the death of Absalom.
+v06: Joab speaks hyperbolically and harshly—“loving those who hate you and hating those who love you”—but accurately identifies the political danger of David’s public behavior.
+v11–14: David works through the priests to regain Judah’s loyalty and offers Amasa Joab’s command, likely both to reconcile former rebels and to reduce Joab’s power.
+v13: Amasa is David’s kin, but the genealogical traditions concerning his exact parentage are textually complicated.
+v16–23: Shimei’s dramatic submission occurs as David’s royal position is being restored. David refuses Abishai’s call for execution and declares the day one of restored kingship rather than vengeance.
+v20: Shimei calls Benjamin and allied northern tribes “the house of Joseph” in a broad northern-Israel sense.
+v24: Mephibosheth’s neglected grooming is evidence of mourning during David’s absence and challenges Ziba’s earlier claim that he hoped to regain Saul’s kingdom.
+v26: Mephibosheth’s disability made independent travel difficult and left him dependent upon Ziba to prepare transportation.
+v29: David’s decision to divide the land does not fully reverse his earlier judgment based on Ziba’s accusation. The narrative leaves unresolved whether this is compromise, uncertainty, or royal impatience.
+v30: Mephibosheth’s willingness to surrender all property emphasizes that David’s safe return matters more to him than the estate.
+v31–39: Barzillai’s loyalty is rewarded, but he declines palace life because of age and redirects royal favor toward Chimham.
+v35: Barzillai’s remarks about taste, music, and discernment are a sober description of aging rather than contempt for old age.
+v41–43: David’s restoration immediately reopens tribal rivalry. Judah’s special role in escorting the king becomes an insult to northern Israel and prepares directly for Sheba’s rebellion in chapter 20.
 
 ##Vocabulary
 

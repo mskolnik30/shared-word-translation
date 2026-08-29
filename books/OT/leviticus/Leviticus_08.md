@@ -78,7 +78,12 @@ v34: What has been done today, the LORD commanded to be done to make atonement f
 v35: You shall remain at the entrance of the Tent of Meeting day and night for seven days and keep the LORD’s charge, so that you do not die, for so I have been commanded.”
 v36: Aaron and his sons did all the things that the LORD commanded through Moses.
 </p>
-##Notes
+## Notes
+v06–09: The clothing of Aaron follows the priestly garments described in Exodus, placing the office visibly upon him before the congregation.
+v08: “Urim and Thummim” — Their precise physical form and method of use are not described here. The names are retained rather than interpreted.
+v15: The altar itself is purified and made holy through blood, showing that atonement in Leviticus concerns sacred space as well as persons.
+v23–24: Blood is placed on ear, hand, and foot, marking the priests bodily for hearing, service, and movement without the text explicitly explaining the symbolism.
+v33: Ordination is not a momentary act but a seven-day process requiring continued presence at the Tent of Meeting.
 
 ##Vocabulary
 

@@ -186,9 +186,23 @@ will serve and obey him.’
 <p>
 v28: “Here is the end of the matter. As for me, Daniel, my thoughts greatly terrified me and my color changed, but I kept the matter in my heart.”
 </p>
-##Notes
+## Notes
+v01: Daniel 7 returns chronologically to Belshazzar’s first year, before the events of chapters 5–6. The book now shifts from court narratives toward apocalyptic visions.
+v02–03: The sea is a traditional image of chaos, and the beasts represent kingdoms arising from turbulent human history.
+v04–07: The four beasts are not named as specific empires within the vision itself. Interpretive traditions differ over their historical identification; TSW leaves them unnamed.
+v05: The bear being “raised up on one side” may indicate uneven strength or posture. The three ribs are likewise unexplained in the text.
+v08: The little horn combines political power with human-like eyes and arrogant speech, giving imperial arrogance an almost personal face.
+v09: “Ancient of Days” is a distinctive title emphasizing God’s eternal priority over temporary kingdoms.
+v09–10: The throne has fiery wheels, joining royal court and mobile divine-throne imagery. Judgment is pictured through books opened before a heavenly court.
+v12: The first three beasts lose dominion but receive an extension of life, distinguishing loss of political authority from immediate annihilation.
+v13: “one like a son of man” literally describes a figure like a human being in contrast with beastly kingdoms. Later Jewish and Christian interpretation gives this figure extensive messianic significance, but TSW preserves the vision’s own wording.
+v14: The human-like figure receives the same universal categories—peoples, nations, languages—that earthly empires seek to rule, but his dominion does not pass away.
+v17: The interpreting figure calls the beasts “four kings,” while verse 23 calls the fourth beast a “kingdom.” King and kingdom are closely identified in apocalyptic symbolism.
 
-v25: The Aramaic phrase translated “law” can also mean decree or religious order.
+v18, v22, v27: The kingdom is given both to the human-like figure and to the holy ones of the Most High, joining representative ruler and holy people without explaining the relation fully.
+v25: “a time, times, and half a time” is a symbolic period of limited oppression. The exact length represented by “time” is not defined in the verse.
+v25: The Aramaic phrase translated “law” can also mean decree or religious order. The arrogant ruler attempts to alter sacred times and law.
+v28: The Aramaic section of Daniel that began at 2:4 ends with this verse. Daniel 8 returns to Hebrew.
 
 ##Vocabulary
 

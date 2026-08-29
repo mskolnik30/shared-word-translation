@@ -122,7 +122,20 @@ v40: But they did not listen; instead they did according to their former custom.
 
 v41: So these nations feared the LORD and served their carved images. Their children also and their children’s children—as their ancestors did, so they do to this day.
 </p>
-##Notes
+## Notes
+v03–06: Hoshea’s attempt to escape Assyrian vassalage through Egyptian support leads to imprisonment and the three-year siege of Samaria.
+v06: The fall of Samaria marks the political end of the northern kingdom. Deportation and resettlement are standard Assyrian imperial strategies.
+v07–23: The narrator gives a theological interpretation of Israel’s exile. The collapse is not explained merely by Assyria’s power but by long-term covenant unfaithfulness.
+v15: “They went after emptiness and became empty” is deliberate wordplay: worship of what is empty makes the worshipers correspondingly empty.
+v17: “sold themselves” portrays persistent evil as voluntary self-enslavement.
+v19–20: The critique broadens to Judah, warning that the surviving southern kingdom is not morally exempt.
+v21: The subject “he tore Israel” is grammatically difficult and may refer to the LORD or to the historical rupture itself. TSW preserves the received singular without specifying more.
+v24: Assyrian resettlement creates a mixed population in Samaria from several imperial regions.
+v25–28: The Assyrian worldview treats the LORD as a territorial deity whose local “custom” must be learned. The narrative uses that framework while continuing to affirm the LORD’s broader sovereignty.
+v29–33: The new population combines fear of the LORD with continued worship of ancestral gods. The narrator judges this mixture as inadequate covenant faithfulness.
+v31: Child sacrifice is explicitly included among the imported cultic practices.
+v34: The statement “they do not fear the LORD” stands beside verse 33’s “they feared the LORD,” showing that ritual acknowledgment is not the same as exclusive covenant allegiance.
+v41: The chapter ends with inherited syncretism passing from generation to generation.
 
 ##Vocabulary
 

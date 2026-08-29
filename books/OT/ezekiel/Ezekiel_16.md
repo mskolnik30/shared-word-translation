@@ -154,7 +154,15 @@ v62: I myself will establish my covenant with you, and you will know that I am t
 
 v63: so that you may remember and be ashamed, and never again open your mouth because of your disgrace, when I make atonement for you for all that you have done, declares the LORD GOD.’”
 </p>
-##Notes
+## Notes
+v3–5: **16:3–5:** Jerusalem’s ancestry is described through hostile ethnic imagery: Amorite father and Hittite mother. The rhetoric is not a literal genealogy but an indictment of Jerusalem’s identification with the land’s practices.  
+v6: **16:6:** “Live in your blood” is repeated exactly. The phrase is stark and may evoke both the blood of birth and the condition of exposure and death from which God rescues Jerusalem.  
+v8: **16:8:** Spreading a “wing” over someone is a protective and marital image. The language moves from rescue to covenantal belonging without reducing the covenant simply to marriage.  
+v15–34: **16:15–34:** The chapter’s sustained sexualized metaphor portrays idolatry, political dependence, and covenantal betrayal. Its language is intentionally accusatory and disturbing; it should not be used to equate sexual violence, sex work, or women’s bodies with moral guilt.  
+v20–21: **16:20–21:** The accusation that Jerusalem gave her children “to pass through the fire” identifies child sacrifice as a central horror within the chapter’s indictment.  
+v49–50: **16:49–50:** Sodom’s iniquity includes pride, plenty, complacency, and failure to strengthen the poor and needy, alongside “abomination.” The passage itself refuses a narrowed account of Sodom’s sin.  
+v53–55: **16:53–55:** “Restore their fortunes” can refer to restoration from devastation or captivity. The inclusion of Sodom and Samaria intensifies the unexpected breadth of the promised restoration.  
+v60–63: **16:60–63:** Judgment does not have the final word. God remembers and establishes an “everlasting covenant”; the closing vision joins shame, knowledge of the LORD, and divine atonement without denying the severity of what preceded it.  
 
 ##Vocabulary
 

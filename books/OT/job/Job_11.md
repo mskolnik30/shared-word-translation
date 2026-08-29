@@ -78,7 +78,13 @@ v20: But the eyes of the wicked will fail;
 escape will perish from them,
 and their hope will be the breathing out of life.”
 </p>
-##Notes
+## Notes
+v02–03: Zophar interprets Job’s extended lament as excessive and mocking speech. He moves more quickly than the other friends from correction to accusation.
+v04: Job has claimed integrity, but Zophar restates that claim as though Job had claimed complete doctrinal and moral purity. His paraphrase sharpens the accusation.
+v06: The Hebrew final line likely means that God exacts less than Job’s guilt deserves. Zophar therefore assumes hidden guilt even while claiming God’s wisdom is inaccessible.
+v07–09: Zophar’s language about the unsearchable dimensions of divine wisdom is itself a warning against human certainty, though he does not apply that warning to his own judgment of Job.
+v12: The proverb is deliberately absurd: an empty person becoming wise is compared with a wild donkey’s colt being born human.
+v13–20: Zophar offers restoration if Job repents, assuming that Job’s present suffering can be reversed through confession of wrongdoing Zophar has not demonstrated.
 
 ##Vocabulary
 

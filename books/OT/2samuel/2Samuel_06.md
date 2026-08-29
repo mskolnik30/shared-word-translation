@@ -74,11 +74,20 @@ v22: I will make myself even more lightly esteemed than this, and I will be low 
 
 v23: And Michal daughter of Saul had no child until the day of her death.
 </p>
-##Notes
-
-v07: The Hebrew reason for Uzzah’s death is difficult. The term may mean irreverence, error, or rashness.
-
-v19: The exact identity of the third food portion is uncertain.
+## Notes
+v02: The wording “called by the Name” is unusually dense, emphasizing the ark’s association with the LORD of Hosts enthroned above the cherubim.
+v03: The ark is transported on a new cart, whereas Torah instructions assign its carrying to Levites by poles. The narrative does not explicitly state that this procedural difference caused Uzzah’s death.
+v06: The threshing floor is called Nacon here and Chidon in 1 Chronicles 13:9. TSW preserves Samuel’s name.
+v07: The Hebrew reason for Uzzah’s death is difficult. The term may mean irreverence, error, or rashness. TSW uses “irreverence” without claiming precise certainty.
+v08: David’s anger is directed at the LORD’s “breaking out,” and the place-name Perez-Uzzah memorializes that rupture.
+v09: David’s anger gives way to fear. The ark is not treated as a controllable symbol of royal power.
+v11–12: The same ark associated with deadly holiness also brings blessing to Obed-Edom’s household.
+v13: The text says sacrifice follows six steps but does not state whether this occurred once or repeatedly.
+v14: David’s linen ephod is a simple sacred garment and contrasts with full royal display.
+v16: Michal is called “daughter of Saul” rather than David’s wife in this scene, sharpening the dynastic tension between Saul’s house and David’s.
+v19: The exact identity of the third food portion is uncertain. TSW follows the traditional “raisin cake” for the Hebrew term.
+v20: Michal accuses David of exposing himself. The text does not explicitly say he was naked; the issue is royal dignity and bodily display during ecstatic celebration.
+v23: Michal’s childlessness may be narrative consequence, marital estrangement, or both. The verse does not state a direct divine judgment formula.
 
 ##Vocabulary
 

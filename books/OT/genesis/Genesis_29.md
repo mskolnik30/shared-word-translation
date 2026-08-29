@@ -100,7 +100,18 @@ v34: Again she conceived and bore a son and said, “Now this time my husband wi
 
 v35: And she conceived again and bore a son and said, “This time I will praise the LORD.” Therefore she called his name Judah. Then she ceased bearing.
 </p>
-##Notes
+## Notes
+v1: “Lifted his feet” suggests renewed momentum after divine encounter.  
+v2–3: The well scene echoes earlier betrothal narratives (Rebekah), signaling a patterned meeting.  
+v10: Jacob’s solitary act of moving the stone highlights strength and initiative, contrasting with the group norm.  
+v11: Weeping signals emotional intensity—displacement, relief, and recognition converge.  
+v17: The contrast between Leah and Rachel is understated but structurally important.  
+v20: Time is relativized by affection—love compresses duration.  
+v23–25: The deceiver is deceived; narrative irony mirrors Jacob’s earlier actions.  
+v26: Cultural justification masks calculated manipulation.  
+v30: Preference is explicit, establishing the central tension of the household.  
+v31: Divine attention shifts toward the marginalized (Leah), counterbalancing human preference.  
+v32–35: Naming functions as theological interpretation—each name encodes Leah’s evolving perception of God and her situation.  
 
 ##Vocabulary
 

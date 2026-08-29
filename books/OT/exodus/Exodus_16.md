@@ -103,7 +103,19 @@ v35: The sons of Israel ate the manna forty years, until they came to a habitabl
 <p>
 v36: Now the omer is a tenth of an ephah.
 </p>
-##Notes
+## Notes
+v2–3: Grumbling reframes deliverance as loss. Memory is reshaped by hunger.  
+v4: Provision is paired with testing. Obedience is structured into daily dependence.  
+v5: The sixth day introduces rhythm—anticipating Sabbath before Sinai legislation.  
+v7–8: Complaint against leaders is reinterpreted as complaint against the LORD.  
+v13–15: Manna is defined by ambiguity (“What is it?”). Naming emerges from encounter.  
+v16–18: Equity is enforced through divine provision—excess and lack are neutralized.  
+v19–21: Hoarding contradicts trust; decay exposes disobedience.  
+v22–26: Sabbath interrupts accumulation. Rest becomes an act of trust.  
+v28–30: Failure to rest is framed as refusal of command, not mere misunderstanding.  
+v31: Sensory detail grounds memory—taste and appearance anchor the tradition.  
+v32–34: Preservation of manna functions as material testimony across generations.  
+v35: Sustenance spans the wilderness period—provision is continuous, not episodic.  
 
 ##Vocabulary
 

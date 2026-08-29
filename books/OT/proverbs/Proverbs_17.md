@@ -158,7 +158,15 @@ is considered wise;
 when they close their lips,
 they are considered discerning.
 </p>
-##Notes
+## Notes
+v01: Peace within scarcity is preferred to abundance consumed by conflict.
+v03: As metal is tested by heat, inward character is tested by the LORD.
+v05: Mockery of poverty is interpreted as an insult against the Creator of the poor person.
+v08: The proverb observes the perceived social power of gifts without necessarily endorsing bribery, which is explicitly condemned elsewhere in the chapter.
+v09: Repeatedly publicizing an offense can destroy relationship even when the original wrong might have been covered in love.
+v14: Conflict is compared with breaching a dam. Once released, it becomes increasingly difficult to contain.
+v17: Friendship is characterized by enduring love; kinship becomes particularly visible when adversity arrives.
+v22: Emotional and bodily life are interconnected. Joy can be medicinal, while a crushed spirit can diminish physical vitality.
 
 ##Vocabulary
 

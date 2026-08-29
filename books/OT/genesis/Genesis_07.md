@@ -49,7 +49,18 @@ v22: Everything on the dry land in whose nostrils was the breath of the spirit o
 v23: He blotted out every living thing that was upon the face of the ground, from humankind to animals to creeping things and birds of the heavens. They were blotted out from the earth. Only Noah remained, and those who were with him in the ark.
 v24: And the waters prevailed upon the earth one hundred fifty days.
 </p>
-##Notes
+## Notes
+v1: Noah’s righteousness is described relationally and covenantally. The focus remains on God’s recognition rather than Noah’s achievement.  
+v2–3: The distinction between clean and unclean animals appears before the giving of Israel’s law, suggesting categories already known within the narrative world.  
+v4: The seven-day period creates a final interval between warning and judgment.  
+v5: Noah’s obedience remains a recurring theme. The narrative repeatedly emphasizes action rather than explanation.  
+v11: The flood comes from both below and above. The ordered boundaries established in creation are overwhelmed.  
+v12: Forty days and forty nights becomes a recurring biblical pattern associated with testing, judgment, and transformation.  
+v16: The LORD shuts Noah into the ark. Preservation ultimately depends on divine action rather than human effort.  
+v17–20: The repeated phrase “the waters prevailed” gives the account a relentless rhythm, emphasizing the totality of the flood.  
+v21–23: The language deliberately echoes creation. The destruction is portrayed as an undoing of the ordered world.  
+v22: “The breath of the spirit of life” recalls God’s gift of life in Genesis 2, highlighting the reversal taking place.  
+v24: The narrative pauses with the waters still prevailing, delaying resolution and sustaining tension.  
 
 ##Vocabulary
 

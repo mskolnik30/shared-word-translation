@@ -75,7 +75,11 @@ v31: Thus you shall keep the Israelites separate from their uncleanness, so that
 v32: This is the law concerning the man who has a discharge, and the man who has an emission of semen and becomes unclean by it,
 v33: and concerning the woman during her menstrual uncleanness, and anyone, male or female, who has a discharge, and the man who lies with a woman who is unclean.
 </p>
-##Notes
+## Notes
+v02–15: The chapter distinguishes an ongoing abnormal male discharge from ordinary seminal emission in vv16–18.
+v16–18: Sexual intercourse within itself is not called sinful here; the resulting bodily emission creates temporary ritual uncleanness.
+v19–30: Menstrual and abnormal uterine bleeding are treated as ritual states with different durations and procedures. The text does not describe menstruation as moral failure.
+v31: The concern is ultimately sanctuary-centered: unmanaged uncleanness threatens the holy dwelling of the LORD among the people.
 
 ##Vocabulary
 

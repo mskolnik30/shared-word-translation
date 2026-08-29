@@ -70,7 +70,11 @@ v29: For they will be ashamed of the oaks which you have desired, and you will b
 v30: For you will be as an oak whose leaf fades, and as a garden that has no water.
 v31: The strong will be like tinder, and his work like a spark. They will both burn together, and no one will quench them."
 </p>
-##Notes
+## Notes
+v1: “vision” — The heading places the book within prophetic seeing concerning Judah and Jerusalem across the reigns of several kings.  
+v4: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v9: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v9: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
 
 ##Vocabulary
 

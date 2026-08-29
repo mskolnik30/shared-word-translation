@@ -54,7 +54,14 @@ v33: On the south side, four thousand five hundred in measurement, with three ga
 v34: On the west side, four thousand five hundred, with three gates: the gate of Gad, one; the gate of Asher, one; the gate of Naphtali, one.
 v35: The perimeter shall be eighteen thousand. And the name of the city from that day shall be: **The LORD Is There.**
 </p>
-##Notes
+## Notes
+v1: The tribal territories are arranged in parallel east-to-west bands rather than according to the more irregular tribal boundaries elsewhere in Israel’s history. The repeated “one portion” gives the vision an ordered, equalizing rhythm.  
+v8: The word translated “contribution” refers to land set apart and elevated for holy use. The sanctuary stands “in its midst,” making worship the geographical center of the restored land.  
+v11: The priests descended from Zadok are distinguished from Levites who “went astray” during Israel’s earlier unfaithfulness. The text remembers judgment while also portraying a reordered community in which holy service is preserved.  
+v14: The priests’ land cannot be sold, exchanged, or transferred because it is holy to the LORD. Holiness here marks land as belonging to God and therefore unavailable for ordinary economic disposal.  
+v15: “Common” does not mean profane or worthless; it distinguishes the city’s residential and open land from the land designated as holy.  
+v20: The Hebrew term rendered “as a square” emphasizes the regular shape of the entire set-apart area, including the holy contribution and the city property.  
+v35: The city’s final name, “The LORD Is There,” answers the central concern of Ezekiel’s vision: the enduring presence of the LORD among the people. The name is a declaration rather than merely a geographic label.  
 
 ##Vocabulary
 

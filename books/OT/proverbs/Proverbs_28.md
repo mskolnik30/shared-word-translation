@@ -167,7 +167,15 @@ people hide themselves,
 but when they perish,
 the righteous increase.
 </p>
-##Notes
+## Notes
+v3: Poverty does not prevent someone from becoming an oppressor. The proverb rejects the assumption that suffering automatically produces justice.  
+v8: Economic exploitation ultimately fails to secure permanent possession; unjustly accumulated wealth can pass into more generous hands.  
+v9: Religious prayer cannot be detached from refusal to hear instruction.  
+v13: Concealment and confession are contrasted. Mercy is connected not simply with admission but with abandoning the transgression.  
+v17: Bloodguilt is pictured as a burden driving the guilty person toward judgment.  
+v20: Faithful steadiness is contrasted with the impatient desire to become wealthy quickly.  
+v26: Trust in oneself is not presented as maturity when the “heart” refuses external and divine wisdom.  
+v27: Refusal to see poverty is itself a moral action; looking away does not remove responsibility.  
 
 ##Vocabulary
 

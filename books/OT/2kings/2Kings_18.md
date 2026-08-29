@@ -98,7 +98,20 @@ v36: But the people were silent and did not answer him a word, for the king’s 
 
 v37: Then Eliakim son of Hilkiah, who was over the household, Shebna the scribe, and Joah son of Asaph the recorder came to Hezekiah with their clothes torn and told him the words of the Rabshakeh.
 </p>
-##Notes
+## Notes
+v04: Hezekiah destroys even the bronze serpent made by Moses because it had become an object of incense worship. Sacred history does not protect an object once it becomes an idol.
+v05: The extraordinary evaluation of Hezekiah emphasizes trust in the LORD as the defining quality of his reign.
+v07: Political rebellion against Assyria follows theological trust, though the chapter later shows the enormous cost and danger of that decision.
+v09–12: The fall of northern Israel is repeated within Hezekiah’s story as a warning example of covenant disobedience.
+v14–16: Hezekiah initially responds to Sennacherib by submission and massive tribute, even stripping temple architecture of precious metal.
+v17: Tartan, Rab-Saris, and Rabshakeh are Assyrian court/military titles rather than necessarily personal names.
+v21: The “broken reed” image mocks Egypt as an unreliable ally that injures the one who leans upon it.
+v22: The Rabshakeh misunderstands or deliberately distorts Hezekiah’s reform, assuming that removing high places would anger the LORD rather than centralize authorized worship.
+v25: The Assyrian envoy claims divine authorization from the LORD. The narrative forces the question of whether imperial success elsewhere should be interpreted as permission to destroy Jerusalem.
+v26: Aramaic was the language of international diplomacy, while “Judean” refers to the local Hebrew dialect understood by the population on the wall.
+v27: The siege threat is expressed with deliberately degrading bodily language to frighten Jerusalem’s inhabitants.
+v31–32: Assyria presents exile as a pleasant relocation, promising each person an equivalent land. The rhetoric conceals the coercion of deportation.
+v33–35: The theological challenge reaches its climax by treating the LORD as one more defeated territorial god. Chapter 19 answers this claim.
 
 ##Vocabulary
 

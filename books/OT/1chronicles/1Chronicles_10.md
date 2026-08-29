@@ -39,7 +39,11 @@ v13: So Saul died because of his unfaithfulness that he committed against the LO
 
 v14: He did not seek the LORD, so he put him to death and turned the kingdom over to David son of Jesse.
 </p>
-##Notes
+## Notes
+v3: - **10:3** “He was in anguish” renders a Hebrew verb that can suggest trembling, writhing, or being overcome with dread. The wording does not explicitly say that Saul was wounded, though the surrounding scene makes the archers’ threat immediate.  
+v6: - **10:6** “All his house” may refer broadly to Saul’s household or royal house. The statement intensifies the loss beyond Saul and the three named sons without specifying every person included.  
+v9: - **10:9** The Philistines’ announcement is directed both to their idols and to their people. The scene portrays the victory as publicly credited within Philistine religious and communal life.  
+v13–14: - **10:13–14** The chapter closes by interpreting Saul’s death in terms of his unfaithfulness: he sought guidance from a medium but did not seek the LORD. This theological assessment stands alongside the account of Saul’s death in verses 4–5, holding together human action and divine judgment.  
 
 ##Vocabulary
 

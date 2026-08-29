@@ -98,9 +98,21 @@ v29: Jehoiachin changed his prison garments and ate bread continually before the
 
 v30: His allowance, a continual allowance, was given to him from the king, a daily portion, all the days of his life.
 </p>
-##Notes
-
-v27: “lifted up the head” is an idiom of restored status.
+## Notes
+v01–03: The final siege begins in Zedekiah’s ninth year and ends after prolonged famine in his eleventh. The dated precision reflects the catastrophe’s lasting historical memory.
+v04: The breach and nighttime escape route correspond broadly with Jeremiah 39 and 52, though details and dates vary slightly among the accounts.
+v07: Zedekiah’s last sight is the death of his sons before he is blinded, a brutal conclusion to the Davidic king’s resistance to Babylon.
+v08: Jeremiah 52:12 dates Nebuzaradan’s arrival to the tenth day rather than the seventh. TSW preserves 2 Kings’ date and notes the parallel difference.
+v09: Temple, palace, and great houses burn together, ending the architectural world built through the monarchy.
+v13–17: The detailed inventory of temple bronze slows the destruction narrative and recalls Solomon’s temple construction in reverse.
+v17: Jeremiah 52:22 gives the capital height as five cubits rather than three. The parallel traditions preserve different measurements.
+v21: “Judah went into exile from its land” is the theological and historical climax of Kings’ long covenant narrative.
+v22: Gedaliah is from the family of Shaphan, associated with Josiah’s reform and support for Jeremiah. Babylon appoints him over the remnant rather than installing another king.
+v25: Ishmael’s royal descent may help explain opposition to a Babylonian-appointed governor. Jeremiah 40–41 gives a much fuller account of the assassination.
+v26: Flight to Egypt reverses the exodus trajectory: survivors of Judah return to the land from which Israel had once been delivered.
+v27: “lifted up the head” is an idiom of restored status. The final scene does not restore Judah’s kingdom but raises the captive Davidic king to honored life in Babylon.
+v27: Evil-Merodach is the biblical form of Amel-Marduk, successor of Nebuchadnezzar.
+v28–30: Kings ends not with full restoration but with a surviving Davidic descendant given honor, food, and a continual allowance. The ending leaves a modest opening beyond judgment.
 
 ##Vocabulary
 

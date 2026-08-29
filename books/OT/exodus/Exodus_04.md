@@ -52,7 +52,12 @@ v29: Then Moses and Aaron went and gathered together all the elders of the child
 v30: Aaron spoke all the words that the LORD had spoken to Moses and performed the signs in the sight of the people.
 v31: The people believed, and when they heard that the LORD had visited the children of Israel and had seen their affliction, they bowed their heads and worshiped.
 </p>
-##Notes
+## Notes
+v1: - **v1:** Moses anticipates that the Israelites will doubt his claim that Yahweh has appeared to him, expressing a lack of confidence that his message will be received as genuine.  
+v5: - **v5:** The manifestation of signs is purposed to confirm to the Israelites that Yahweh has indeed sent Moses.  
+v21: - **v21:** Yahweh foretells the hardening of Pharaoh's heart, a recurring theme that reveals the complexity of divine action and human freedom.  
+v24–26: - **v24-26:** This cryptic episode reveals the seriousness of covenantal obedience, suggesting that Moses' leadership requires compliance with divine commands.  
+v31: - **v31:** The belief of the people upon witnessing signs is significant, as it sets the stage for their subsequent journey and challenges in the wilderness.  
 
 ##Vocabulary
 

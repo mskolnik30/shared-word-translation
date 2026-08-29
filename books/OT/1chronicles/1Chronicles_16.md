@@ -153,7 +153,14 @@ v42: With them, Heman and Jeduthun had trumpets and cymbals for sounding aloud, 
 <p>
 v43: Then all the people went, each to his home, and David turned to bless his household.
 </p>
-##Notes
+## Notes
+v1: - **v1 — Offerings of well-being:** The Hebrew *shelamim* names sacrifices associated with wholeness, peace, and shared fellowship. “Offerings of well-being” preserves this range more fully than “peace offerings” alone.  
+v7–36: - **v7–36 — A woven song:** This thanksgiving composition closely parallels portions of Psalms 105, 96, and 106. In Chronicles, these materials are placed at the ark’s arrival to portray Israel’s worship as remembrance, proclamation, and hope.  
+v15: - **v15 — “A thousand generations”:** This expression emphasizes the enduring scope of God’s covenant faithfulness; it need not function as a numerical limit.  
+v22: - **v22 — “My anointed ones”:** In its immediate setting, the phrase refers to the ancestral family protected during its wandering (vv19–21), alongside “my prophets.” It should not be detached from that context as a general prohibition against questioning religious leaders.  
+v29: - **v29 — “In holy splendor”:** The Hebrew wording can evoke either the splendor belonging to holiness or worshipers’ holy adornment. The phrase leaves both the beauty and the awe of approaching God in view.  
+v35: - **v35 — “Gather us”:** The petition asks God to gather Israel from among the nations. Its placement after the call for all nations to praise the LORD holds together Israel’s particular deliverance and the wide horizon of worship.  
+v39–42: - **v39–42 — Two worship sites:** The ark is in Jerusalem, while the tabernacle and altar remain at Gibeon. The chapter does not conceal this divided arrangement; it describes ordered worship at both locations before the temple is built.  
 
 ##Vocabulary
 

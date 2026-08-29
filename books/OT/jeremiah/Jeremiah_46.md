@@ -184,9 +184,15 @@ of you I will not make a complete end.
 I will discipline you in justice,
 but I will certainly not leave you unpunished.”
 </p>
-##Notes
-
-v15: The Hebrew can be read “Why is your mighty one swept away?” and may also contain an allusion to Egypt’s sacred bull imagery.
+## Notes
+v02: The battle at Carchemish in 605 BCE decisively weakened Egyptian power in Syria-Palest and marked Babylon’s rise under Nebuchadnezzar.
+v07–08: Egypt’s military confidence is imagined through the Nile’s annual rising, but the flood-like boast collapses before the LORD’s judgment.
+v10: The language of “sacrifice” is applied to battlefield death, a severe prophetic metaphor in which the LORD’s judgment consumes Egypt’s army.
+v15: The Hebrew can be read “Why is your mighty one swept away?” and may also contain an allusion to Egypt’s sacred bull imagery. TSW preserves the broad martial image.
+v17: The nickname given Pharaoh is difficult. It portrays him as loud or tumultuous yet one who has missed the decisive appointed moment.
+v20: The Hebrew word translated “gadfly” can denote a stinging or destructive insect. Egypt the heifer is harassed by an attacker from the north.
+v25: “Amon of Thebes” is the major Egyptian deity Amun associated with Thebes. The judgment is directed toward Egypt’s religious and political centers together.
+v27–28: These verses closely parallel Jeremiah 30:10–11. Their placement after the Egypt oracle re-centers the wider judgments on the promise that Jacob will not be completely destroyed.
 
 ##Vocabulary
 

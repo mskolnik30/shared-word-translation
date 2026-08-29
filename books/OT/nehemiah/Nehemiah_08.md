@@ -40,11 +40,15 @@ v16: So the people went out and brought them and made booths for themselves, eac
 v17: The whole assembly of those who had returned from captivity made booths and lived in the booths. From the days of Joshua son of Nun until that day, the Israelites had not done so in this way. And there was very great joy.
 v18: Day by day, from the first day to the last, Ezra read from the book of the Torah of God. They kept the festival seven days, and on the eighth day there was a solemn assembly according to the prescribed manner.
 </p>
-##Notes
-
-v08: “clearly … gave the sense” — The Hebrew wording can refer to distinct reading, explanation, translation, or careful interpretation.
-
+## Notes
+v01: The people themselves request the Torah. The scene portrays public desire to hear the covenantal instruction that orders the restored community.
+v02–03: Men, women, and all capable of understanding are explicitly included in the assembly and hearing.
+v08: “clearly … gave the sense” — The Hebrew wording can refer to distinct reading, explanation, translation, or careful interpretation. TSW preserves both reading and making sense without specifying the exact pedagogical method.
+v09: Hearing the Torah produces grief, but the leaders redirect the day toward holiness and celebration rather than allowing mourning to become the final response.
+v10: “send portions” — Celebration includes provision for those who have nothing prepared; communal joy is not complete when the vulnerable are excluded.
 v10: “the joy of the LORD” may refer to joy in the LORD or joy given by the LORD. The concise Hebrew leaves the relation open.
+v14–17: The text emphasizes renewed observance of the Festival of Booths without claiming that no form of the festival had occurred since Joshua.
+v18: The eighth-day assembly corresponds to the festival’s concluding sacred gathering.
 
 ##Vocabulary
 

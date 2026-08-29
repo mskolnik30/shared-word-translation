@@ -102,9 +102,12 @@ v45: For I am the LORD who brought you up from the land of Egypt to be your God.
 v46: This is the law concerning animals, birds, every living creature that moves in the waters, and every creature that swarms on the ground,
 v47: to distinguish between the unclean and the clean, and between the living creature that may be eaten and the living creature that may not be eaten.
 </p>
-##Notes
-
-v13–19: Several bird names are uncertain because some Hebrew species terms cannot be identified securely.
+## Notes
+v03: The land-animal criteria combine two features: a fully divided hoof and chewing the cud. The categories are ritual, not a statement about moral worth or biological taxonomy.
+v13–19: Several bird names are uncertain because some Hebrew species terms cannot be identified securely. TSW follows conventional English identifications while retaining the list structure.
+v24–40: Contact with carcasses produces temporary ritual uncleanness. The text distinguishes such uncleanness from deliberate moral wrongdoing.
+v44–45: Holiness is grounded in the identity of the LORD and in Israel’s deliverance from Egypt, not simply in dietary classification itself.
+v47: The chapter’s stated purpose is discernment—learning to distinguish clean from unclean and permitted food from forbidden food.
 
 ##Vocabulary
 

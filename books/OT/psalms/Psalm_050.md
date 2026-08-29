@@ -118,7 +118,16 @@ to one who orders his way rightly
 
 I will show the salvation of God.”
 </p>
-##Notes
+## Notes
+v1–3: Theophany imagery—fire and storm—signals divine judgment; God appears not as passive observer but as active judge.
+v4–6: Cosmic witnesses (heavens and earth) frame the trial; covenant community stands under evaluation.
+v5: “Faithful ones” are defined covenantally—those bound by sacrifice, not merely sentiment.
+v7–13: The critique is not absence of sacrifice but misunderstanding of it; God’s ownership of creation nullifies any notion of divine need.
+v12: The rhetorical claim underscores divine self-sufficiency; worship is not provision for God.
+v14–15: True sacrifice is reoriented—thanksgiving, fulfilled vows, and reliance in trouble.
+v16–20: Ethical inconsistency exposes false worship; speech and conduct contradict covenant claims.
+v21: Divine silence has been misread as approval; judgment clarifies the error.
+v22–23: Final warning and promise—rightly ordered life and thanksgiving align with salvation.
 
 ##Vocabulary
 

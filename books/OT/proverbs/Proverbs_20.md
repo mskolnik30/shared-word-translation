@@ -171,7 +171,15 @@ cleanse away evil,
 and strokes reach
 the innermost parts.
 </p>
-##Notes
+## Notes
+v01: The warning concerns being mastered or led astray by intoxicating drink rather than treating wine itself as the entire subject.
+v05: Human intention can be difficult to access even to the person who carries it. Understanding includes the capacity to draw deep counsel into the open.
+v09: The rhetorical question resists claims of complete moral purity.
+v14: The proverb observes bargaining behavior: a buyer devalues an item while negotiating and praises the bargain afterward.
+v17: Deceptive gain tastes pleasant initially but becomes destructive once consumed.
+v22: The command refuses personal vengeance and relocates hope for justice in the LORD.
+v24: Human beings genuinely walk and choose, yet the full meaning of their way is not transparent even to themselves.
+v27: The human spirit becomes an instrument through which the LORD searches inward life.
 
 ##Vocabulary
 

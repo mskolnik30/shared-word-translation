@@ -111,7 +111,14 @@ Turn again; my righteousness is still in this.
 v30: Is there injustice on my tongue?
 Can my palate not discern calamity?”
 </p>
-##Notes
+## Notes
+v02–03: Job asks that grief and calamity be placed on scales. His “rash” words are explained by the disproportionate weight of suffering rather than dismissed as meaningless speech.
+v04: Job experiences God not as refuge but as an archer whose poisoned arrows are already inside him. The metaphor is intentionally unsettling.
+v08–10: Job again asks for death but insists that he has not denied the Holy One’s words. His desire to die and his claim to faithfulness coexist.
+v14: The Hebrew line is difficult. TSW follows the sense that a despairing person is owed loyal love by a friend even when faith itself is failing.
+v15–20: Seasonal wadis promise water from a distance but disappear when travelers most need them. Job uses the image for friends who have failed precisely when suffering made friendship necessary.
+v24: Job is willing to be taught if the friends can identify his actual wrongdoing. His protest is against accusation without demonstrated offense.
+v26: Job asks whether the friends are treating desperate speech itself as evidence, rather than hearing it as the speech of a person overwhelmed by suffering.
 
 ##Vocabulary
 

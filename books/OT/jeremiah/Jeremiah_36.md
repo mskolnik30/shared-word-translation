@@ -92,7 +92,14 @@ v31: I will attend to him, his offspring, and his servants for their guilt. I wi
 
 v32: Then Jeremiah took another scroll and gave it to Baruch son of Neriah the scribe, and he wrote on it from the mouth of Jeremiah all the words of the book that Jehoiakim king of Judah had burned in the fire. And many words like them were added to them.
 </p>
-##Notes
+## Notes
+v02: Jeremiah’s prophetic ministry is intentionally committed to writing. The scroll gathers years of speech into a form capable of being read beyond Jeremiah’s physical presence.
+
+v03, v07: Judgment is written and read in hope that hearing may produce turning and forgiveness. The scroll is not merely a fixed announcement of unavoidable destruction.
+v18: Baruch describes a straightforward scribal process: Jeremiah speaks, and Baruch writes with ink on a scroll.
+v23: Jehoiakim’s repeated cutting and burning creates a deliberate counter-image to Josiah’s response to a discovered book of instruction. The king destroys the written warning rather than tearing his own garments.
+v26: The king seeks to seize prophet and scribe, but the LORD hides them. The text does not specify how.
+v28–32: Destroying the scroll does not destroy the word. The text is rewritten and expanded, turning royal censorship into occasion for further preservation.
 
 ##Vocabulary
 

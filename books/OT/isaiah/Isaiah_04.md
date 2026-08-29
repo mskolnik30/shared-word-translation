@@ -19,7 +19,11 @@ v05: The LORD will create over the whole habitation of Mount Zion, and over her 
 for over all the glory will be a canopy.
 v06: There will be a pavilion for a shade in the daytime from the heat, and for a refuge and for a shelter from storm and from rain.
 </p>
-##Notes
+## Notes
+v2: “branch” — The Hebrew expression can describe growth or produce and becomes part of Isaiah’s larger language of renewed life after judgment.  
+v2: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
+v3: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v4: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.  
 
 ##Vocabulary
 

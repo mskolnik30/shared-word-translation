@@ -41,7 +41,15 @@ v17: At my table were one hundred fifty Jews and officials, besides those who ca
 v18: What was prepared each day was one ox and six choice sheep; birds were also prepared for me, and every ten days an abundance of every kind of wine. Yet with all this I did not demand the governor’s allowance, because the service was heavy on this people.
 v19: Remember me, my God, for good, according to all that I have done for this people.
 </p>
-##Notes
+## Notes
+v01: The crisis inside the community interrupts the wall narrative. External opposition is not the only threat to restoration; economic exploitation among fellow Jews becomes equally urgent.
+v05: Debt has moved from mortgaged property to the loss of children into debt servitude. The complaint emphasizes shared kinship: “our flesh is like the flesh of our relatives.”
+v07: “interest” — The Hebrew term can describe interest or usurious increase. The issue is lending that deepens the vulnerability of fellow community members.
+v08: Nehemiah contrasts redeeming Jews from foreign slavery with a system that effectively sells them again through internal debt.
+v11: “the hundredth part” likely refers to a recurring interest charge, often understood as approximately one percent for the relevant period of assessment.
+v13: Shaking out the garment enacts a symbolic curse: covenant-breaking is pictured as being emptied from household and property.
+v15: Nehemiah presents his refusal of customary governor support as an act shaped by fear of God and the people’s heavy burden.
+v19: The prayer “Remember me” recurs later in the book and places Nehemiah’s public conduct before God’s judgment.
 
 ##Vocabulary
 

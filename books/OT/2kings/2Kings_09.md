@@ -108,7 +108,18 @@ v36: They returned and told him. He said, “This is the word of the LORD that h
 
 v37: and the corpse of Jezebel shall be like dung on the face of the field in the territory of Jezreel, so that they shall not say, “This is Jezebel.”’”
 </p>
-##Notes
+## Notes
+v01–10: Jehu’s anointing fulfills earlier prophetic instruction concerning judgment on Ahab’s house. The mission is framed as vengeance for slain prophets and servants of the LORD.
+v11: The officers call the prophetic messenger a “madman,” reflecting a common social suspicion of ecstatic or disruptive prophetic figures.
+v13: Spreading garments beneath Jehu and sounding the horn create an improvised royal enthronement ritual.
+v20: Jehu’s driving is described as “madness,” signaling his recognizable intensity and urgency.
+v21: The confrontation occurs at Naboth’s property, connecting the fall of Ahab’s dynasty directly with the injustice of 1 Kings 21.
+v22: Jehu identifies Jezebel’s “prostitutions” and “sorceries” as ongoing signs of covenant corruption. The language is religious and political, not merely sexual.
+v25–26: The blood of Naboth’s sons is mentioned here though 1 Kings 21 does not narrate their deaths directly. The later tradition presents Ahab’s seizure as extending to Naboth’s household.
+v27–29: The chronology of Ahaziah’s reign and death is difficult when compared with 2 Chronicles 22. TSW follows Samuel-Kings’ sequence.
+v30: Jezebel’s cosmetics and arranged hair can signal royal composure, defiance, or preparation for confrontation; the text does not explicitly say she is attempting seduction.
+v31: Jezebel calls Jehu “Zimri,” comparing him to the short-lived usurper who murdered his king in 1 Kings 16.
+v33–37: Jezebel’s violent death and denied burial fulfill Elijah’s earlier oracle. TSW preserves the narrative’s severity without graphic expansion.
 
 ##Vocabulary
 

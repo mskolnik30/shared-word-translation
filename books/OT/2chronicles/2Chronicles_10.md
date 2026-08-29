@@ -72,7 +72,11 @@ v18: Then King Rehoboam sent Hadoram, who was over forced labor, but the childre
 
 v19: So Israel rebelled against the house of David to this day.
 </p>
-##Notes
+## Notes
+v01: Shechem is a historic covenant center and a politically significant location for northern Israel.
+v07: Chronicles phrases the elders’ counsel in terms of being good, pleasing, and speaking good words to the people.
+v11: “Scorpions” likely refers to a harsher whip or instrument of punishment rather than literal animals.
+v15: Human arrogance and divine purpose are held together without removing Rehoboam’s responsibility.
 
 ##Vocabulary
 

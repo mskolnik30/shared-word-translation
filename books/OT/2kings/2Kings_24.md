@@ -70,9 +70,18 @@ v20: For because of the anger of the LORD this happened in Jerusalem and Judah u
 
 And Zedekiah rebelled against the king of Babylon.
 </p>
-##Notes
-
-v08: 2 Chronicles 36:9 gives Jehoiachin’s age as eight in the Masoretic Text, likely a textual difference.
+## Notes
+v01: Jehoiakim moves from Egyptian vassalage to Babylonian vassalage and then rebels, placing Judah between collapsing and rising empires.
+v02: The narrator interprets even smaller raiding bands as instruments carrying out the prophetic word of judgment.
+v03–04: Manasseh’s idolatry and innocent blood remain the central historical charges explaining Judah’s approaching exile.
+v04: “the LORD was not willing to forgive” signals the narrative’s conviction that accumulated bloodguilt had reached an irreversible historical consequence.
+v07: Babylon’s control from the Wadi of Egypt to the Euphrates marks Egypt’s loss of its former territories in Syria-Palestine.
+v08: 2 Chronicles 36:9 gives Jehoiachin’s age as eight in the Masoretic Text, likely a textual difference. Kings’ eighteen fits the surrounding narrative and Jehoiachin’s royal household.
+v12: Jehoiachin’s surrender preserves the city temporarily but begins the major deportation of 597 BCE.
+v13: The dismantling of Solomon’s gold vessels signals reversal of the temple glory described in 1 Kings.
+v14–16: The deportation targets leadership, military strength, craftsmen, and skilled labor, leaving the poorest population behind. The overlapping totals likely describe categories rather than simple additive groups.
+v17: Mattaniah’s renaming as Zedekiah demonstrates Babylon’s authority over Judah’s throne, paralleling Pharaoh Neco’s renaming of Jehoiakim.
+v20: Zedekiah’s rebellion launches the final sequence leading to Jerusalem’s destruction in chapter 25.
 
 ##Vocabulary
 

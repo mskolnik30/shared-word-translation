@@ -52,9 +52,16 @@ v17: Nothing from what is devoted to destruction shall cling to your hand, so th
 
 v18: when you listen to the voice of the LORD your God, keeping all his commandments that I command you today and doing what is right in the eyes of the LORD your God.
 </p>
-##Notes
-
+## Notes
+v01–05: Even a fulfilled sign does not validate a prophet who directs Israel toward other gods. Covenant loyalty is the decisive test of prophetic legitimacy.
+v03: The LORD is said to “test” Israel through the false claimant, exposing whether love of God governs the community more deeply than miraculous experience.
+v05: The death penalty belongs to ancient Israel’s covenantal legal order. TSW preserves the law without generalizing it into a modern mandate for punishing religious disagreement.
+v06: The sequence moves through the closest possible relationships—sibling, child, spouse, intimate companion—to insist that covenant allegiance cannot be overridden by private loyalty.
+v09: The accuser’s hand being first reflects the gravity of testimony in capital cases and anticipates the legal requirement for witnesses elsewhere in Deuteronomy.
 v13: “worthless men” is a Hebrew idiom describing destructive or lawless people, not a claim that human beings lack inherent worth.
+v14: The required inquiry, search, and careful investigation places evidentiary restraint before communal punishment.
+v15–16: The *herem* command against an apostate city is extremely severe. It belongs to Deuteronomy’s particular covenantal polity and is not transferable as a general principle of religious violence.
+v17: Israel is forbidden to profit from the condemned city. Nothing placed under the ban may become private spoil.
 
 ##Vocabulary
 

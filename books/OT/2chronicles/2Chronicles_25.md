@@ -90,7 +90,12 @@ v27: From the time Amaziah turned away from following the LORD, they made a cons
 
 v28: They carried him on horses and buried him with his ancestors in the city of Judah.
 </p>
-##Notes
+## Notes
+v02: Amaziah’s reign is outwardly right but inwardly divided: “not with a whole heart.”
+v04: Chronicles explicitly cites the Mosaic instruction against executing children for their parents’ crimes.
+v12: The execution of captives by throwing them from a cliff is severe wartime violence. TSW preserves the narrative without presenting it as a normative model.
+v14–16: Amaziah’s worship of defeated Edomite gods is intentionally irrational and becomes the turning point of his reign.
+v20: His refusal to heed warning is interpreted as part of the divine judgment already determined.
 
 ##Vocabulary
 

@@ -230,11 +230,15 @@ produces blood,
 and pressing anger
 produces conflict.
 </p>
-##Notes
-
-v01: The Hebrew of the second half of the verse is unusually difficult. The Masoretic vocalization gives the names Ithiel and Ucal; other readings understand the words as a personal lament of exhaustion.
-
-v31: The Hebrew expression translated “strutting rooster” is uncertain and has been rendered in several ways, including greyhound or warhorse.
+## Notes
+v01: The Hebrew of the second half of the verse is unusually difficult. The Masoretic vocalization gives the names Ithiel and Ucal; other readings understand the words as a personal lament of exhaustion. TSW retains the traditional names without concealing the uncertainty.
+v04: The questions emphasize the limits of human wisdom before the Creator. The unexpected question concerning “the son” is retained without supplying an identity the proverb itself does not give.
+v05: “refined” uses the language of tested metal. God’s speech has passed the test and is dependable.
+v08–09: Agur does not pray primarily for abundance but for enough. Both wealth and poverty can create distinct spiritual dangers.
+v15–16: Numerical sayings allow the list to grow from three to four. The repeated theme is insatiability.
+v18–19: The four “ways” leave no lasting track that fully explains how passage occurred. Human intimacy is placed among the mysteries of movement.
+v24–28: Wisdom is discovered among creatures lacking obvious strength or authority. Smallness does not prevent effective adaptation.
+v31: The Hebrew expression translated “strutting rooster” is uncertain and has been rendered in several ways, including greyhound or warhorse. TSW retains a traditional animal interpretation while acknowledging the uncertainty.
 
 ##Vocabulary
 

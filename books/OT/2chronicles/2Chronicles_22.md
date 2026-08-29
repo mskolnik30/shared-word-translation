@@ -46,9 +46,12 @@ v11: But Jehoshabeath daughter of the king took Joash son of Ahaziah and stole h
 
 v12: He was with them hidden in the house of God six years while Athaliah reigned over the land.
 </p>
-##Notes
-
-v02: The Masoretic Text reads forty-two years, while 2 Kings 8:26 reads twenty-two. Forty-two is chronologically impossible if Jehoram died at forty, so many regard the Chronicles figure as a textual corruption.
+## Notes
+v02: The Masoretic Text reads forty-two years, while 2 Kings 8:26 reads twenty-two. Forty-two is chronologically impossible if Jehoram died at forty, so many regard the Chronicles figure as a textual corruption. TSW preserves the Masoretic reading and notes the issue.
+v03: Athaliah’s influence makes the Ahab dynasty’s theology and politics decisive in Judah’s royal house.
+v07: Chronicles interprets Ahaziah’s fatal alliance as a divinely governed downfall.
+v09: Ahaziah receives burial because of Jehoshaphat’s remembered faithfulness rather than his own reign.
+v11: Jehoshabeath preserves the Davidic line through an act of hidden courage.
 
 ##Vocabulary
 

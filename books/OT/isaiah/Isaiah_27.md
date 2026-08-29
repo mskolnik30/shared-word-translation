@@ -35,7 +35,9 @@ v13: It will happen in that day that a great trumpet will be blown;
 and those who were ready to perish in the land of Assyria, and those who were outcasts in the land of Egypt, will come;
 and they will worship the LORD in the holy mountain at Jerusalem.
 </p>
-##Notes
+## Notes
+v01: Leviathan is described through mythic sea-serpent imagery. Isaiah uses the image to portray divine victory over threatening chaos without explaining a zoological referent.
+v05: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
 
 ##Vocabulary
 

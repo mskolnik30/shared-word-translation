@@ -66,8 +66,16 @@ v41: Now the rest of the acts of Solomon, all that he did, and his wisdom—are 
 v42: The time that Solomon reigned in Jerusalem over all Israel was forty years.
 v43: Then Solomon lay with his ancestors and was buried in the city of David his father. Rehoboam his son became king in his place.
 </p>
-##Notes
-
+## Notes
+v1–39: - **11:1–2** The concern stated in the passage is not foreignness itself, but the turning of Israel’s heart toward other gods. The warning is framed in terms of covenant loyalty and worship.  
+- **11:4, 6** “Whole” and “fully” render related expressions of completeness. The passage contrasts Solomon’s divided heart with the undivided devotion attributed to David, while the larger narrative also records David’s failures.  
+- **11:7** A “high place” was a worship site, often situated on an elevated location. Here Solomon establishes sites for the worship of other deities in view of Jerusalem.  
+- **11:14, 23, 25** The Hebrew word rendered “adversary” can refer to a human opponent. In this passage Hadad and Rezon are political enemies raised up against Solomon; the term does not itself identify them with a supernatural being.  
+- **11:15–16** The account’s repeated statement that “every male” in Edom was struck down preserves the starkness of the narrative’s depiction of war.  
+- **11:24** “When David killed them” likely refers to the forces of Hadadezer, Rezon’s former lord. The compressed wording leaves the precise antecedent unstated.  
+- **11:31–36** The torn cloak embodies the tearing of the kingdom. Although ten tribes are assigned to Jeroboam and one to Solomon’s line, the tribal accounting reflects the political division rather than a simple numerical census of Israel’s tribes.  
+- **11:36** “Lamp” is an image of enduring dynastic life and presence. The promise restrains judgment without removing it.  
+- **11:38–39** The promise to Jeroboam is conditional: a “faithful house” depends on listening, walking, doing, and keeping. The affliction of David’s descendants is also limited by the words, “but not forever.”  
 v14: , 23, 25 The Hebrew word rendered “adversary” can refer to a human opponent. In this passage Hadad and Rezon are political enemies raised up against Solomon; the term does not itself identify them with a supernatural being.
 
 ##Vocabulary

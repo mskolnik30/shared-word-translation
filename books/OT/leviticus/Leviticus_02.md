@@ -43,9 +43,11 @@ v14: If you bring a grain offering of first produce to the LORD, you shall bring
 v15: You shall put oil on it and place frankincense on it. It is a grain offering.
 v16: The priest shall turn into smoke as its memorial portion some of the crushed grain and oil, together with all its frankincense. It is an offering by fire to the LORD.
 </p>
-##Notes
-
+## Notes
 v01: “grain offering” — The Hebrew *minchah* can mean a gift or tribute more broadly; in Leviticus it becomes a technical term for this non-animal offering.
+v02: “memorial portion” — Only part of the grain offering is burned; the remainder supports the priests. The Hebrew term links the burned portion with remembrance before God without explaining the mechanism.
+v11: Yeast and honey are excluded from what is turned into smoke on the altar, though v12 permits them in first-produce offerings.
+v13: “salt of the covenant” — Salt is associated with enduring covenantal obligation. The phrase is retained without reducing it to a single symbolic explanation.
 
 ##Vocabulary
 

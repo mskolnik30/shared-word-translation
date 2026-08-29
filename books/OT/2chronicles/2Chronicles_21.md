@@ -72,7 +72,12 @@ v19: And it happened after days upon days, at the time of the end of two years, 
 
 v20: He was thirty-two years old when he became king, and he reigned eight years in Jerusalem. He departed without being desired. They buried him in the city of David, but not in the tombs of the kings.
 </p>
-##Notes
+## Notes
+v02: Jehoshaphat is called “king of Israel” here although he ruled Judah, reflecting Chronicles’ occasional use of “Israel” for the whole covenant people.
+v04: Jehoram’s first act of secured rule is fratricide, contrasting sharply with the Davidic covenant he inherits.
+v07: The “lamp” promise preserves David’s line despite Jehoram’s evil.
+v12: Elijah’s letter is chronologically surprising because Elijah’s departure is narrated earlier in Kings. Chronicles preserves a prophetic letter without explaining the timing.
+v20: “He departed without being desired” is a stark summary of a king whose death produces no public affection.
 
 ##Vocabulary
 

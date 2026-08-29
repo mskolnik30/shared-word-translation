@@ -139,9 +139,14 @@ and let his terror not frighten me.
 v35: Then I would speak and not fear him,
 for in myself I am not so.”
 </p>
-##Notes
-
-v08: “heights of the sea” — The Hebrew *bamot yam* may mean waves, heights, or backs of the sea.
+## Notes
+v02: Job does not deny divine justice in the abstract; he asks how a human being could establish a case before a God whose power is incomparable.
+v08: “heights of the sea” — The Hebrew *bamot yam* may mean waves, heights, or backs of the sea. The image presents God walking above the chaotic waters.
+v09: The Hebrew names constellations familiar to ancient observers. Their exact correspondence with modern constellation names is traditional rather than certain in every case.
+v13: “Rahab” — Here Rahab is not the woman of Joshua but a mythic sea-monster or chaos power. Even its helpers bow beneath God.
+v17: Job uses *chinnam*, “without cause,” the same term used in the heavenly prologue. His claim therefore unexpectedly echoes the narrator’s privileged information.
+v22–24: Job pushes retribution theology to its breaking point by observing that blameless and wicked alike die and that the wicked may hold power in the world.
+v33: Job longs for an arbiter able to stand between himself and God and “lay a hand” upon both. The legal image expresses the impossibility Job feels in arguing his case directly.
 
 ##Vocabulary
 

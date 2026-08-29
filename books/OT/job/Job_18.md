@@ -84,7 +84,13 @@ v21: Surely these are the dwellings of the unjust,
 and this is the place
 of one who does not know God.”
 </p>
-##Notes
+## Notes
+v03: Bildad reacts defensively to Job’s criticism of the friends, interpreting it as though Job has treated them like ignorant animals.
+v04: Bildad accuses Job of expecting the moral order of creation to be changed for his individual case. He treats his own retributive framework as fixed like earth and rock.
+v05–10: A network of trap images depicts the wicked as caught by the consequences of their own path.
+v13: “firstborn of death” — A poetic personification, possibly meaning the most deadly disease or most terrible agent of death. The phrase is not further defined.
+v14: “king of terrors” personifies death or the power associated with death.
+v17–19: Bildad’s description includes loss of memory, name, children, and household—details that cut painfully close to Job’s actual losses and therefore function as implied accusation.
 
 ##Vocabulary
 

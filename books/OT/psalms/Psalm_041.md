@@ -90,11 +90,15 @@ the God of Israel,
 from everlasting to everlasting.
 Amen and Amen.
 </p>
-##Notes
-
-Superscription: “A psalm of David” — The superscription belongs to the Hebrew text and is not assigned a public verse number.
-
-v08: “A deadly thing has been poured upon him” — The Hebrew expression is difficult and literally involves a destructive or worthless “thing” being poured or fixed upon the sufferer.
+## Notes
+v01: “pays attention to the weak” — The Hebrew expression can carry the sense of considering, acting wisely toward, or giving careful attention to one who is weak or poor. The translation preserves both attentiveness and vulnerability without narrowing the term to economic poverty alone.
+v03: “you turn their whole bed” — The Hebrew expression is unusual. It may suggest tending, transforming, or restoring the sickbed. The concrete image is retained rather than replaced with an explanation.
+v06: “their heart gathers trouble” — The visitor outwardly speaks emptiness while inwardly collecting what can later be used against the psalmist.
+v08: “A deadly thing has been poured upon him” — The Hebrew expression is difficult and literally involves a destructive or worthless “thing” being poured or fixed upon the sufferer. The enemies interpret the illness as final.
+v09: “has lifted the heel against me” — The image describes betrayal by someone who shared peace, trust, and bread with the psalmist. The physical metaphor is retained.
+v10: “so that I may repay them” — The request for restoration includes the expectation of answering the enemies. The translation does not soften the psalmist’s desire for recompense.
+v12: “before your face” — Divine presence is expressed through the concrete image of God’s face rather than being reduced to a more abstract expression.
+v13: The closing blessing functions as the doxology concluding the first major collection of the Psalter.
 
 ##Vocabulary
 

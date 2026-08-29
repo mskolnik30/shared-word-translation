@@ -49,8 +49,16 @@ v19: Why did you say, ‘She is my sister,’ so that I took her to be my wife? 
 <p>
 v20: And Pharaoh gave men orders concerning him; and they sent him away, along with his wife and all that he had.
 </p>
-##Notes
-
+## Notes
+v1–3: The call is issued before any evaluation of Abram. Command precedes promise, and promise precedes explanation. The movement of the promises expands outward—from land, to nation, to name, to blessing, to all the families of the earth—without specifying the means by which the blessing will occur.  
+v3: The verb form allows more than one reading (“shall be blessed” / “shall find blessing”). The text does not clarify whether Abram is the agent or the means of blessing; the ambiguity is preserved.  
+v4: Abram’s obedience is narrated without comment. The text records his action but offers no insight into motive, doubt, or deliberation.  
+v6: The notice that the Canaanites were in the land introduces tension. The promised land is already occupied, and fulfillment is delayed rather than denied.  
+v7–9: Abram marks his journey with altars and calling on the name of the LORD. Worship accompanies movement rather than settlement; promise is reaffirmed without possession.  
+v10: The land of promise immediately becomes a place of famine. No explanation or moral interpretation is supplied.  
+v11–13: Abram’s fear-driven strategy concerning Sarai is presented without divine approval or rebuke. The narrative withholds evaluation.  
+v17: The LORD intervenes to protect Sarai and the promise, not because of Abram’s faithfulness, but despite his actions.  
+v20: Abram departs Egypt wealthy but unresolved. The chapter closes without repentance, explanation, or moral conclusion, maintaining narrative restraint.  
 v03: The verb form allows more than one reading (“shall be blessed” / “shall find blessing”). The text does not clarify whether Abram is the agent or the means of blessing; the ambiguity is preserved.
 
 ##Vocabulary

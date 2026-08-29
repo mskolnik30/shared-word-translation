@@ -55,7 +55,18 @@ v18: to Abraham as a possession in the sight of the Hittites, before all who ent
 v19: After this, Abraham buried Sarah his wife in the cave of the field of Machpelah east of Mamre (that is, Hebron) in the land of Canaan.
 v20: Thus the field and the cave that is in it were transferred to Abraham from the Hittites as property for a burial place.
 </p>
-##Notes
+## Notes
+v1: Sarah is the first woman in Scripture whose age at death is recorded.  
+v2: Abraham’s mourning is described plainly and personally. The narrative gives space to grief before turning to practical concerns.  
+v4: Abraham identifies himself as both a sojourner and a foreigner despite the promises concerning the land.  
+v6: The Hittites honor Abraham publicly, calling him a “prince of God,” even though he does not yet possess the land.  
+v8–9: Abraham seeks legal ownership rather than temporary permission, emphasizing permanence and security.  
+v10–16: The negotiation follows customary public procedures. What appears as a gift becomes a formal purchase.  
+v15: Ephron’s mention of the price is framed politely, but the amount is substantial.  
+v16: The silver is weighed rather than counted, reflecting ancient commercial practice.  
+v17–18: The repeated legal details underscore the legitimacy of Abraham’s ownership.  
+v19–20: The burial site becomes the first piece of the promised land that Abraham actually possesses.  
+v20: The chapter ends not with conquest or inheritance but with a purchased grave, holding promise and mortality together.  
 
 ##Vocabulary
 

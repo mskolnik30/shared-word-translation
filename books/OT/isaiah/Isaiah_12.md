@@ -21,7 +21,11 @@ v05: Sing to the LORD, for he has done excellent things! Let this be known in al
 v06: Cry aloud and shout, you inhabitant of Zion;
 for the Holy One of Israel is great in the midst of you!"
 </p>
-##Notes
+## Notes
+v3: “draw water with joy” — Salvation is pictured as an inexhaustible source from which the community draws life.  
+v6: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v6: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v2: “salvation” — Hebrew *yeshuah* and related roots describe deliverance, rescue, and the saving action of the LORD.  
 
 ##Vocabulary
 

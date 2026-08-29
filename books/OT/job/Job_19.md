@@ -117,9 +117,14 @@ v29: fear the sword yourselves,
 for wrath brings the punishments of the sword,
 so that you may know there is judgment.”
 </p>
-##Notes
-
+## Notes
+v03: “ten times” is a conventional expression for repeated action rather than necessarily an exact count of ten speeches.
+v06: Job attributes his distorted circumstances directly to God, using imagery of being bent and trapped rather than merely abandoned.
+v13–20: Job’s suffering includes social death: family, household, servants, children, friends, and intimate relationships are all alienated from him.
 v20: “skin of my teeth” is an unusual Hebrew expression preserved nearly literally in English. Its precise anatomical or idiomatic sense is uncertain, but it conveys the narrowness of Job’s survival.
+v25: *Goel*, “redeemer,” ordinarily refers to a kinsman-defender who vindicates rights, recovers property, or avenges blood. Job claims that such a vindicator lives, but the text does not explicitly identify the figure.
+v26–27: These verses are among the most textually and syntactically difficult in Job. They can be understood in different ways concerning whether Job sees God in or apart from flesh and whether the vision occurs before or after death. TSW preserves the bodily language and Job’s intense expectation without forcing a later doctrinal resolution.
+v29: Job warns the friends that judgment is not a principle safely aimed only at him; their own accusing speech may place them under it.
 
 ##Vocabulary
 

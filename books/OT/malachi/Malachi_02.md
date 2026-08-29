@@ -121,7 +121,20 @@ and he delights in them,”
 or by asking,
 “Where is the God of justice?”
 </p>
-##Notes
+## Notes
+v1–9: The priests are rebuked for failing in their covenant responsibility to teach and model faithfulness.  
+v2: Honor for God's name remains the central concern introduced in chapter 1.  
+v3: The graphic imagery of sacrificial refuse symbolizes the disgrace awaiting corrupt priests.  
+v5–6: Levi is presented as an example of covenant faithfulness, reverence, and truthful instruction.  
+v7: Priests are entrusted with preserving knowledge and communicating God's instruction to the people.  
+v8: Corrupt teaching harms not only the teachers but also those who follow them.  
+v10: The argument moves from priestly failure to broader covenant unfaithfulness within Judah.  
+v11: Marriage with those devoted to foreign gods threatens covenant loyalty and spiritual identity.  
+v13–14: The people's worship is rejected because their treatment of their spouses contradicts covenant faithfulness.  
+v14: Marriage is described not merely as a social arrangement but as a covenant witnessed by God.  
+v15: Faithfulness in marriage is linked to God's desire for a faithful covenant community.  
+v16: The verse emphasizes God's opposition to covenant-breaking and relational violence.  
+v17: The chapter closes by exposing cynical attitudes that question God's justice and moral order.  
 
 ##Vocabulary
 

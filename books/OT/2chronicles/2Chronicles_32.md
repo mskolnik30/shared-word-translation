@@ -104,7 +104,13 @@ v32: Now the rest of the acts of Hezekiah and his steadfast deeds, look, they ar
 
 v33: Hezekiah lay down with his ancestors, and they buried him on the ascent to the tombs of the sons of David. All Judah and the inhabitants of Jerusalem honored him at his death. Manasseh his son became king in his place.
 </p>
-##Notes
+## Notes
+v01: “After these acts of faithfulness” deliberately prevents a simplistic equation of faithfulness with freedom from crisis.
+v08: The contrast is between Assyria’s “arm of flesh” and the LORD’s active presence.
+v12: As in 2 Kings 18, the Assyrian argument misreads Hezekiah’s removal of unauthorized high places as hostility toward Israel’s God.
+v21: Chronicles compresses the Assyrian disaster and Sennacherib’s later assassination into one theological summary.
+v25–26: Hezekiah’s story includes both pride and repentance; humility delays the coming wrath.
+v31: The Babylonian embassy becomes a divine test revealing what is in Hezekiah’s heart.
 
 ##Vocabulary
 

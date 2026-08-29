@@ -46,7 +46,20 @@ so that we may not perish.”
 <p>
 v10: When God saw what they did, how they turned from their evil way, God relented concerning the disaster that he had said he would bring upon them, and he did not do it.
 </p>
-##Notes
+## Notes
+v1: Jonah receives the prophetic commission a second time, demonstrating God's persistence and mercy toward his servant.  
+v2: Unlike chapter 1, Jonah now responds in obedience to the LORD's command.  
+v3: Nineveh is described as a remarkably large and important city.  
+v4: Jonah's message is brief and entirely focused on impending judgment.  
+v5: The people of Nineveh respond immediately with belief, repentance, and public mourning.  
+v5: Repentance begins among the people before the king responds.  
+v6–8: The king humbles himself publicly, exchanging royal dignity for signs of repentance.  
+v8: Genuine repentance includes both sorrow and a turning away from evil conduct.  
+v8: Violence is singled out as a defining characteristic of Nineveh's wrongdoing.  
+v9: The king appeals to God's mercy without presuming upon it.  
+v10: God responds not merely to words but to observable repentance and changed behavior.  
+v10: God's relenting does not indicate a change in character but demonstrates his consistent mercy toward those who turn from evil.  
+v10: The chapter highlights the contrast between Nineveh's readiness to repent and Jonah's earlier resistance to God's word.  
 
 ##Vocabulary
 

@@ -32,9 +32,13 @@ v11: Now three friends of Job heard of all this trouble that had come upon him. 
 v12: When they lifted their eyes from far away, they did not recognize him. They lifted their voices and wept. Each tore his robe, and they threw dust toward heaven upon their heads.
 v13: They sat with him on the ground seven days and seven nights, and no one spoke a word to him, for they saw that his pain was very great.
 </p>
-##Notes
-
-v10: Job distinguishes receiving “good” from receiving *ra*, a term that can mean evil, harm, or calamity.
+## Notes
+v03: “without cause” — The LORD uses the same Hebrew *chinnam* that the accuser used in 1:9. Job’s suffering is explicitly described as without cause in relation to his conduct.
+v04: “Skin for skin” — The proverb’s precise origin is uncertain. In context the accuser claims that loss of possessions and even family has not reached the deepest point of self-interest: one’s own bodily life.
+v07: The Hebrew *shechin ra* describes severe inflamed sores or boils. The text does not identify a modern diagnosis.
+v09: Job’s wife voices the response the accuser predicted. Her speech is brief, and the text does not narrate her own grief after the loss of the household.
+v10: Job distinguishes receiving “good” from receiving *ra*, a term that can mean evil, harm, or calamity. Here “trouble” avoids implying that God gives moral evil.
+v13: The friends’ finest act may be their silence. Seven days and nights resemble a formal mourning period and acknowledge the magnitude of Job’s suffering before argument begins.
 
 ##Vocabulary
 

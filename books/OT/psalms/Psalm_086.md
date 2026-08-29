@@ -83,7 +83,14 @@ v17: Show me a sign of your favor,
 that those who hate me may see and be put to shame,
 because you, LORD, have helped me and comforted me.
 </p>
-##Notes
+## Notes
+v1–4: The prayer is grounded in need and dependence, not entitlement.  
+v5–7: God’s character (goodness, forgiveness, steadfast love) underwrites the petition.  
+v8–10: Divine uniqueness expands toward universal worship.  
+v11: The request is for inner integration (“unite my heart”), not mere instruction.  
+v13: Deliverance from Sheol emphasizes life preserved from death’s domain.  
+v14–15: Human opposition is contrasted with divine mercy.  
+v16–17: The request for a “sign” is relational and vindicatory, not spectacular.  
 
 ##Vocabulary
 

@@ -59,12 +59,20 @@ I will say,
 and they will say,
 “The LORD is my God.”
 </p>
-##Notes
-
+## Notes
+v1: “a fountain” — Cleansing is pictured as an opened and continuing source of water. The verse places “sin” and ritual “impurity” beside one another without collapsing them into the same category.  
+v2: “the spirit of impurity” — The phrase may refer to an unclean spiritual power or to the disposition associated with false prophecy and idolatry. The translation preserves the expression without identifying it more narrowly.  
+v3: The severity of the response to false prophecy recalls covenantal laws concerning speech falsely given in the LORD’s name. Even family loyalty does not override faithfulness to the LORD within the imagery of the oracle.  
+v4: “hairy garment” — Prophets could be recognized by distinctive garments. Here the garment has become something that can be used to support a deceptive prophetic claim.  
+v5: “a man acquired me from my youth” — The Hebrew verb and construction are difficult. Proposed meanings include being acquired, employed, or connected with agricultural labor from youth. The translation preserves the language of acquisition rather than resolving the uncertain social setting.  
+v6: “between your hands” — The Hebrew expression can indicate the hands, arms, chest, or area between them. The precise location of the wounds is uncertain.  
+v6: “the house of those who loved me” — The answer is deliberately enigmatic. The text does not explain whether the wounds resulted from discipline, ritual practice, or some other setting.  
+v7: “my shepherd … my companion” — The shepherd stands in an unusually close relationship to the LORD. The command to strike the shepherd brings scattering upon the flock.  
+v7: “the little ones” — The Hebrew refers to those who are small or insignificant. The expression may refer to vulnerable members of the flock without defining them more precisely.  
+v8–9: Judgment and preservation are held together. The surviving third is not merely spared but brought through refining and testing before the covenantal exchange that closes the chapter.  
+v9: “They are my people … The LORD is my God” — The chapter ends with reciprocal covenant language, restoring the relationship between the LORD and the refined remnant.  
 v05: “a man acquired me from my youth” — The Hebrew verb and construction are difficult.
-
 v06: “between your hands” — The Hebrew expression can indicate the hands, arms, chest, or area between them. The precise location of the wounds is uncertain.
-
 v07: “the little ones” — The Hebrew refers to those who are small or insignificant. The expression may refer to vulnerable members of the flock without defining them more precisely.
 
 ##Vocabulary

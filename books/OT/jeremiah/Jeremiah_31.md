@@ -304,7 +304,24 @@ v40: The whole valley of the dead bodies and the ashes,
   shall be holy to the LORD.
   It shall not be plucked up or overthrown any more forever.”
 </p>
-##Notes
+## Notes
+v01: “all the clans… my people” — Restoration is covenant-wide and communal; God’s promise gathers scattered family-lines into one belonging.
+v02–03: “grace in the wilderness… everlasting love… steadfast love” — Exile is re-narrated as a wilderness where God’s love persists. The ground of return is not Israel’s merit but God’s enduring ḥesed.
+v04–06: tambourines / vineyards / watchmen — Restoration is embodied and economic: worship, agriculture, and communal vigilance return to normal life and joy.
+v08: “blind and lame… pregnant… in labor” — Return is inclusive and tender: the vulnerable are not left behind; God’s redemption is paced for those least able to keep up.
+v09–10: “streams… level path… father… shepherd” — God’s leadership is pastoral: guiding, protecting, and naming Israel as family.
+v11–14: “ransomed… radiant… watered garden… mourning into joy” — Redemption becomes abundance and renewed vitality; consolation is not vague comfort but replenished life.
+v15: Rachel weeps — Jeremiah holds grief without rushing past it; national catastrophe is pictured as maternal bereavement.
+v16–17: “keep… from weeping… hope for your future” — Hope is promised without denying tears. God honors the labor of sorrow and announces return as future.
+v18–19: Ephraim’s confession — Repentance is portrayed as being re-taught and re-formed; shame becomes honest ownership of the past.
+v20: “my inner being yearns… compassion” — One of Scripture’s most intimate portraits of divine mercy: God’s judgment does not erase God’s parental longing.
+v21: “road markers… return” — Restoration involves human participation: remember the way home; repentance is practical and directional.
+v22: “a new thing… a woman shall encompass a man” — A famously cryptic line. At minimum it signals reversal and new-creation surprise—God doing something socially unexpected that reorders old patterns.
+v29–30: “sour grapes” proverb — Responsibility is personalized: inherited blame is rejected; each life is accountable for its own wrongdoing.
+v31–34: “new covenant… write on hearts… all shall know… remember sin no more” — The center of the chapter: covenant renewal is internal and relational—God’s instruction becomes inscribed within, knowledge of the LORD is democratized, and forgiveness is definitive.
+v32: “though I was their husband” — Covenant is framed as faithful marital bond; betrayal is real, but God’s recommitment is stronger.
+v35–37: creation as guarantee — Sun, moon, stars, sea: cosmic regularity is invoked as covenant security. God stakes Israel’s continued peoplehood on creation’s enduring order.
+v38–40: rebuilt city / “shall be holy” — Restoration is spatial and public: the city is re-measured, reclaimed, and re-consecrated—places marked by death are promised holiness and permanence.
 
 ##Vocabulary
 

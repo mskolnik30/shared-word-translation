@@ -48,7 +48,10 @@ v29: The people of the land have oppressed and robbed, and have wronged the poor
 v30: And I sought for a man among them who would build up the wall and stand in the breach before me for the land, that I might not destroy it, but I found none.
 v31: Therefore I have poured out my indignation upon them. I have consumed them with the fire of my wrath. I have returned their way upon their heads, declares the LORD GOD."
 </p>
-##Notes
+## Notes
+v2: - **v2**: The "bloody city" refers to Jerusalem, accused of bloodshed and idolatry.  
+v18–22: - **v18-22**: The metaphor of dross and melting reflects Israel's impurities and judgment.  
+v26: - **v26**: The corruption of priests highlights the failure of religious leaders to maintain holiness.  
 
 ##Vocabulary
 

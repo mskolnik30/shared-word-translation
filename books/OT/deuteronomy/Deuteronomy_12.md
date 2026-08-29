@@ -96,7 +96,19 @@ v31: You shall not do so to the LORD your God, for every detestable thing that t
 
 v32: Everything that I command you, you shall be careful to do. You shall not add to it or take away from it.
 </p>
-##Notes
+## Notes
+v02–03: The destruction of Canaanite cult sites is directed against rival worship in the land, including altars, pillars, Asherah poles, and images.
+v05: “the place that the LORD will choose” is deliberately unnamed in Deuteronomy’s legislation. Later biblical history identifies Jerusalem as the central sanctuary, but TSW does not insert that later name here.
+v08: “whatever is right in his own eyes” here describes decentralized wilderness practice before settlement and sanctuary centralization; the phrase later becomes a negative refrain in Judges.
+
+v12, v18: Worship meals include sons, daughters, servants, and Levites. Sacred celebration is household and communal rather than restricted to elite males.
+v15: Ordinary meat slaughter is distinguished from sacrificial slaughter. The clean and unclean may both eat non-sacrificial meat.
+
+v16, v23: The blood prohibition is grounded in the claim that blood is the life. Life is returned to the ground rather than consumed.
+v19: Centralized worship could economically disadvantage Levites living throughout the towns, so the command repeatedly protects them.
+v20–22: Meat may be eaten locally when the chosen sanctuary is far away. Deuteronomy’s centralization concerns sacrifice, not all slaughter.
+v31: Child sacrifice is named as a detestable practice that must not be imitated in worship of the LORD.
+v32: The chapter closes by repeating the prohibition against adding to or subtracting from the command.
 
 ##Vocabulary
 

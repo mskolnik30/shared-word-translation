@@ -53,7 +53,12 @@ v23: During the seven days of the festival he shall provide as a burnt offering 
 v24: He shall provide a grain offering of an ephah for each bull and an ephah for each ram, with a hin of oil for each ephah.
 v25: In the seventh month, on the fifteenth day of the month, at the festival, he shall provide the same for the seven days: the same sin offering, burnt offering, grain offering, and oil.
 </p>
-##Notes
+## Notes
+v1: The “offering” is a portion of land set apart for the LORD. The language presents land itself as capable of being made holy through its dedication to God.  
+v7–9: The prince receives an assigned holding, but this provision is explicitly tied to the end of royal oppression. Political authority is given real space and responsibility, yet it is bounded so that the people’s inherited land is protected.  
+v10–12: Just weights and measures belong within the same vision as sanctuary worship and land distribution. Economic integrity is not treated as separate from holiness and justice.  
+v17: - v15, 17: The prince’s role includes supplying the offerings on behalf of the people. The text places public leadership under responsibility for the community’s worship and atonement, rather than permitting leadership to exploit the community.  
+v20: “Anyone who strays or acts unknowingly” may refer to unintentional or inadvertent wrongdoing, though the terms are broad enough to include those led astray through ignorance or simplicity. The rite extends the sanctuary’s purification to the effects of such sin among the people.  
 
 ##Vocabulary
 

@@ -98,8 +98,16 @@ Everyone who passes by her
 will hiss
 and shake a hand.
 </p>
-##Notes
-
+## Notes
+v1: The paired commands use the same Hebrew verb, creating an insistent summons: “Gather yourselves, yes, gather.” The final description may mean “without shame” or, less likely, “not desired”; the wording preserves the rebuke without fully settling the nuance.  
+v2: The images move quickly from a decree “giving birth” to a day passing like chaff. The compressed language conveys an approaching judgment whose arrival cannot be delayed.  
+v3: “Perhaps” does not turn seeking the LORD into a technique for securing safety. It holds together the call to righteousness and humility with the uncertainty proper to those facing the LORD’s anger.  
+v5: “Cherethites” identifies a people associated with the Philistine coast. The following address, “Canaan, land of the Philistines,” intensifies the oracle’s focus on that coastal region.  
+v7: The LORD’s “attending to” the remnant can carry the sense of visiting, caring for, or intervening on their behalf. The restoration of their fortunes reverses the devastation announced against the coast.  
+v9: “As I live” is an oath formula. The judgment of Moab and Ammon answers their contempt for Judah, yet the verse also anticipates that the remnant will receive what these nations lose.  
+v11: To “make all the gods of the earth waste away” depicts the stripping away of their power and worship. The resulting bowing comes from “all the coastlands of the nations,” extending the LORD’s claim beyond Israel.  
+v14: The identities of the two animals are uncertain; “desert owl” and “hedgehog” represent plausible renderings. The verse piles up sounds, abandoned architecture, and wild creatures to portray Nineveh’s reversal.  
+v15: Nineveh’s claim, “I am, and there is none besides me,” is an assertion of unmatched self-sufficiency. Its language stands in sharp contrast to the LORD’s unique sovereignty elsewhere in Scripture.  
 v01: The paired commands use the same Hebrew verb, creating an insistent summons: “Gather yourselves, yes, gather.” The final description may mean “without shame” or, less likely, “not desired”; the wording preserves the rebuke without fully settling the nuance.
 
 ##Vocabulary

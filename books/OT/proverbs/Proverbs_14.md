@@ -184,9 +184,15 @@ a servant who acts wisely,
 but wrath falls upon
 one who brings shame.
 </p>
-##Notes
-
-v09: The Hebrew is compact and can refer either to fools mocking guilt or to guilt itself mocking fools.
+## Notes
+v04: The clean manger presents a real advantage, but it comes at the cost of the productive strength of the ox. Wisdom recognizes that fruitful work often includes inconvenience and disorder.
+v09: The Hebrew is compact and can refer either to fools mocking guilt or to guilt itself mocking fools. TSW follows the former while retaining the contrast with favor among the upright.
+v10: The proverb recognizes the limits of another person’s access to inward experience. Both bitterness and joy retain a personal depth that cannot be completely shared.
+v12: Sincerity does not guarantee wisdom. A path can appear correct from within a person’s own judgment while nevertheless leading toward death.
+v20: The saying observes a painful social reality rather than endorsing it: wealth attracts relationships while poverty can produce isolation.
+v27: Fear of the LORD is again life-giving rather than merely frightening. Reverence turns the learner away from paths leading toward death.
+v31: Treatment of the poor is directly related to treatment of their Creator. Social conduct therefore becomes theological conduct.
+v34: Righteousness and sin have communal consequences. Proverbs does not restrict morality to individuals.
 
 ##Vocabulary
 

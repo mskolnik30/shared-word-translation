@@ -154,7 +154,18 @@ clap their hands over you,
 for upon whom has your evil
 not passed continually?
 </p>
-##Notes
+## Notes
+v01: “city of blood” — Nineveh is condemned not for one isolated act of violence but as a city characterized by bloodshed, deception, and plunder.
+v02–03: The Hebrew piles sound and movement upon one another. The short clauses imitate the pace and confusion of battle.
+v04: “prostitutions” — The metaphor portrays imperial seduction, exploitation, and betrayal. It is directed against Nineveh's political practices and is retained because the prophetic rhetoric depends upon the image.
+v05–06: The exposure imagery is intentionally humiliating and violent. TSW preserves the prophetic metaphor without presenting humiliation or sexualized violence as morally exemplary human behavior.
+v08: “No-Amon” — The Hebrew name refers to Thebes in Egypt. The city's waterways and international allies did not prevent its fall, making it a warning to Nineveh.
+v09: “Cush … Put … Libyans” — These names identify regions and peoples allied with or connected to Egypt. The verse stresses the breadth of Thebes' resources rather than providing a complete political map.
+v10: The destruction of infants reflects the brutal realities of ancient conquest. The text reports this violence as part of Thebes' devastation; it does not soften the horror.
+v13: “your troops … are like women” — This is an ancient military taunt using gendered assumptions about combat strength. TSW retains the source imagery as written rather than replacing or endorsing the cultural stereotype.
+v15–17: Locust imagery shifts rapidly. Nineveh is told to multiply like locusts, yet its merchants and officials also disappear like insects that strip a place and fly away.
+v18: “shepherds” — The term refers figuratively to Assyria's leaders. Their sleep is the stillness of failed or dead leadership while the people scatter without anyone to gather them.
+v19: The book closes with the nations applauding Assyria's fall because its violence had reached them repeatedly. The final question leaves Nineveh's judgment within the memory of widespread imperial harm.
 
 ##Vocabulary
 

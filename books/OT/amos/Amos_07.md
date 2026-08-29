@@ -127,7 +127,21 @@ in an unclean land,
 and Israel will surely go into exile
 away from its land.’”
 </p>
-##Notes
+## Notes
+v01: The “late crop after the king’s mowing” is difficult agricultural language. It may describe a second growth after a royal levy or mowing, leaving ordinary people especially vulnerable if locusts consume what remains.
+v02–03: Amos intercedes not by denying guilt but by pleading Jacob’s smallness. The LORD “relents,” and the announced locust destruction does not occur.
+v04: The fire consumes “the great deep” and then the “portion,” moving from cosmic waters toward the land allotted to Israel. The exact referent of “portion” is not stated.
+v06: A second judgment is halted after Amos’s intercession, establishing a pattern before the third vision.
+v07–08: Hebrew *anak* is traditionally understood as a plumb line or plummet, though the word is rare and has also been connected with tin or lead. TSW follows the architectural sense because the Lord stands beside a measured wall.
+v08: “I will no longer pass by him” means the LORD will no longer pass over Israel without judgment.
+v09: “Isaac” functions as a poetic name for Israel’s ancestral identity.
+v10: Amaziah turns prophetic speech into a political accusation of conspiracy against the king.
+v11: Amaziah’s report is not an exact quotation of Amos. Amos announced judgment against the “house of Jeroboam” in verse 9, while Amaziah says Amos declared that Jeroboam himself would die by the sword.
+v12: Amaziah treats prophecy as a livelihood—“eat bread there”—and attempts to relocate Amos outside the royal sanctuary.
+v13: Bethel is described as both “the king’s sanctuary” and “a royal house,” revealing the close alliance of worship and state power.
+v14: Amos denies belonging to a prophetic profession or guild. His earlier occupation combines livestock work with tending sycamore figs.
+v16: “drip words” is a poetic verb for prophetic speech, likely evoking speech falling like liquid.
+v17: The oracle against Amaziah is severe and includes his household, property, death, and Israel’s exile. TSW retains the text without expanding its violence.
 
 ##Vocabulary
 

@@ -77,7 +77,14 @@ v17: Let the favor of the Lord our God be upon us,
 and establish the work of our hands upon us—
 yes, establish the work of our hands.
 </p>
-##Notes
+## Notes
+v1–2: God is eternal and stable; humanity finds dwelling in him.  
+v3–6: Human life is brief and cyclical, contrasted with divine permanence.  
+v7–11: Mortality is interpreted through divine judgment, not randomness.  
+v10: Life expectancy is acknowledged without idealization.  
+v12: Wisdom arises from awareness of finitude.  
+v13–15: Petition seeks reversal—not removal of suffering, but balance and restoration.  
+v16–17: Human work gains meaning only through divine establishment.  
 
 ##Vocabulary
 

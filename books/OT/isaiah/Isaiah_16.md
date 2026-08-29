@@ -35,7 +35,11 @@ v13: This is the word that the LORD spoke concerning Moab in time past.
 v14: But now the LORD has spoken, saying, "Within three years, as a worker bound by contract would count them, the glory of Moab will be brought into contempt, with all his great multitude;
 and the remnant will be very small and feeble."
 </p>
-##Notes
+## Notes
+v5: “a throne will be established in steadfast love” — Political stability is linked with faithful love, justice, and righteousness rather than power alone.  
+v14: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
+v1: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v8: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
 ##Vocabulary
 

@@ -43,7 +43,11 @@ v20: Who are they among all the gods of these countries that have delivered thei
 v21: But they remained silent, and said nothing in reply, for the king's commandment was, "Don't answer him."
 v22: Then Eliakim the son of Hilkiah, who was over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, came to Hezekiah with their clothes torn, and told him the words of Rabshakeh.
 </p>
-##Notes
+## Notes
+v01: Isaiah 36–39 shifts largely into narrative prose and closely parallels material in 2 Kings 18–20 while retaining its place within Isaiah’s prophetic argument.
+v09: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.
+v18: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
+v16: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
 
 ##Vocabulary
 

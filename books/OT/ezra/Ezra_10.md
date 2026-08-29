@@ -122,9 +122,18 @@ v43: From the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, Joel,
 
 v44: All these had married foreign women, and there were among the women some who had borne children.
 </p>
-##Notes
-
-v25: The name Malchijah appears twice in the same family list in the Masoretic Text.
+## Notes
+v01: The assembly explicitly includes men, women, and children, and the whole community participates in public grief. The narrative does not reduce the crisis to a private decision by Ezra.
+v02: “foreign women” identifies wives from the surrounding peoples in the specific post-exilic covenant crisis described in Ezra 9–10. The text’s concern is covenant identity and practice; it should not be converted into a modern racial category.
+v03: The proposal to send away wives and children comes from Shecaniah and the gathered community; Ezra 9 records no direct divine command to divorce these specific marriages. The community understands its proposal as applying the instruction, but the narrative’s distinction between divine command, Ezra’s prayer, and Shecaniah’s proposed remedy should be retained.
+v03: “send away” translates a general verb meaning to bring out or cause to depart. The social and legal consequences for the women and children are severe even though the chapter does not describe their later circumstances.
+v08: Property forfeiture and exclusion from the assembly function as enforcement mechanisms for attendance at the communal hearing.
+v09: The heavy rain is not decorative detail. It contributes to the assembly’s physical trembling and to the practical argument that individual cases require time.
+v14–17: The community establishes a months-long judicial process rather than carrying out immediate mass action. Elders and judges from the cities participate in examining cases.
+v15: Jonathan and Jahzeiah “stood against” the proposal or procedure, with Meshullam and Shabbethai supporting them. The text does not explain their reasons.
+v19: The priests named first acknowledge guilt by giving their hand and bringing a guilt offering, joining marital action with cultic accountability.
+v25: The name Malchijah appears twice in the same family list in the Masoretic Text. TSW retains both occurrences rather than deleting one as accidental.
+v44: The Hebrew final clause is compressed but indicates that some of the foreign wives had borne children. The book ends with this stark human consequence rather than a narrative summary of restored harmony.
 
 ##Vocabulary
 

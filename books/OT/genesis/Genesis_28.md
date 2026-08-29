@@ -62,7 +62,15 @@ v21: so that I come again to my father’s house in peace, then the LORD shall b
 
 v22: and this stone, which I have set up for a pillar, shall be God’s house. And of all that you give me I will surely give a tenth to you.”
 </p>
-##Notes
+## Notes
+v1–4: The Abrahamic blessing is explicitly transferred, emphasizing continuity through Jacob rather than Esau.  
+v8–9: Esau’s action is reactive and partial—he recognizes the issue but does not fully align with covenantal intent.  
+v12: The stairway (or “ladder”) functions as a symbolic axis between heaven and earth, emphasizing divine accessibility.  
+v13–15: The covenant promise is reaffirmed with three elements: land, offspring, and universal blessing, now attached to Jacob.  
+v15: Divine presence (“I am with you”) becomes the dominant assurance, especially in exile.  
+v16–17: Jacob’s recognition reframes ordinary space as sacred; awareness, not location, defines holiness.  
+v18–19: The stone becomes a memorial marker, transforming a place of rest into a place of encounter.  
+v20–22: Jacob’s vow is conditional, reflecting a developing faith rather than settled trust.  
 
 ##Vocabulary
 

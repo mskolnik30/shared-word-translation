@@ -105,7 +105,14 @@ he does not afflict.
 v24: Therefore people fear him;
 he does not regard any who are wise in their own heart.”
 </p>
-##Notes
+## Notes
+v01–05: Elihu responds bodily to the storm: trembling and leaping heart. Thunder becomes “the voice” of God, bringing the divine speech closer.
+v06–10: Snow, rain, animal shelter, cold, and ice are all presented as responsive to divine command. Human labor pauses under weather people cannot control.
+v13: The storm may serve discipline, the needs of the land, or steadfast love. Elihu allows the same natural event to have different divine purposes rather than one simple interpretation.
+v14: “stand still and consider” is Elihu’s final direct summons to Job before the LORD himself begins asking Job to consider creation.
+v18: The skies are compared with a polished metal mirror, reflecting an ancient visual image of the firm, gleaming heavens rather than a technical scientific statement.
+v23: The final clause is textually difficult. TSW follows the sense that the Almighty does not violate justice by oppressive affliction, consistent with Elihu’s argument.
+v24: Elihu closes by contrasting fear of God with wisdom “in one’s own heart,” returning to the book’s concern with the limits of human self-certainty.
 
 ##Vocabulary
 

@@ -140,7 +140,24 @@ and let the wicked be no more.
 Bless the LORD, O my soul.
 Praise the LORD.
 </p>
-##Notes
+## Notes
+v1–4: The psalm opens with clothing and architectural imagery. Creation is described as God’s dwelling and adornment, not merely his work.  
+v2: “Stretching out the heavens like a tent” preserves the image of ordered space rather than abstract cosmos.  
+v3–4: Wind, cloud, and fire are presented as instruments of divine activity, blurring the distinction between creation and servant.  
+v5–9: The ordering of waters recalls primordial chaos. Boundaries are established through divine command rather than natural necessity.  
+v6–8: The movement of waters is described dynamically. The sequence is not strictly linear, preserving poetic compression.  
+v10–13: Provision is extended beyond humanity to all creatures. The ecosystem is sustained without hierarchy of concern.  
+v14–15: Human life is situated within provision, not above it. Joy (wine), radiance (oil), and sustenance (bread) are named together.  
+v16–18: Habitat is emphasized. Each creature is given a place suited to its life.  
+v19–23: Time is structured through celestial bodies. Human labor is placed alongside animal rhythms rather than in opposition.  
+v21: Even predation (“young lions”) is framed as seeking from God, preserving tension without resolution.  
+v24–26: The sea introduces scale and mystery. Leviathan is not opposed to God but formed within God’s creative intent.  
+v27–30: Dependence is total. Giving and withholding of breath define life and death.  
+v29–30: Breath (life) and Spirit (renewal) are held together, linking mortality and ongoing creation.  
+v31–32: Divine joy and power coexist. The same God who rejoices also unsettles creation.  
+v33–34: The psalmist’s response is lifelong praise and meditation, aligning human speech with divine work.  
+v35: The final petition introduces moral order into cosmic praise. The removal of wickedness is desired without elaboration.  
+v35: The psalm closes as it began, with personal summons to bless the LORD, now expanded into communal praise.  
 
 ##Vocabulary
 

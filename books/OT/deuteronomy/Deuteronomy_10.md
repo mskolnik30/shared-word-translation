@@ -68,7 +68,16 @@ v21: He is your praise, and he is your God, who did for you these great and fear
 
 v22: Your ancestors went down to Egypt with seventy persons, and now the LORD your God has made you as numerous as the stars of the heavens.
 </p>
-##Notes
+## Notes
+v01–05: Deuteronomy places the making of the wooden ark before Moses descends with the second tablets. Exodus gives a fuller sanctuary chronology. Each book arranges the memory for its own theological purpose.
+v06: The itinerary and place of Aaron’s death differ in sequence from Numbers 20 and 33. Deuteronomy compresses wilderness traditions; TSW preserves the received wording rather than harmonizing them.
+v08–09: Levi’s lack of territorial inheritance is interpreted positively: priestly service and the LORD himself are Levi’s portion.
+v12–13: Fear, walking, love, service, and obedience are gathered into one summary of covenant life, explicitly “for your good.”
+v14–15: Universal divine ownership does not erase particular election. The whole cosmos belongs to the LORD, yet the LORD set covenant affection upon Israel’s ancestors.
+v16: “circumcise the foreskin of your heart” transforms a bodily covenant sign into an image of removing inward resistance.
+v17: Divine impartiality is stated through legal language: God recognizes no faces and accepts no bribe.
+v18–19: Israel must imitate divine concern for the orphan, widow, and resident alien. Memory of Egypt grounds love of the outsider.
+v22: The seventy-person descent to Egypt and star-like multiplication connect Jacob’s family with the ancestral promise.
 
 ##Vocabulary
 

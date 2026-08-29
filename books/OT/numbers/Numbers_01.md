@@ -94,9 +94,12 @@ v52: The Israelites shall camp, each by their own camp and each by their own sta
 v53: But the Levites shall camp around the tabernacle of the testimony, so that wrath will not come upon the congregation of the Israelites. The Levites shall keep charge of the tabernacle of the testimony.”
 v54: The Israelites did so; according to all that the LORD commanded Moses, so they did.
 </p>
-##Notes
-
+## Notes
+v01: “second year” — The census is dated one month after the tabernacle was erected, placing the ordering of the camp within Israel’s continuing life at Sinai.
 v02: “ancestral houses” — The Hebrew expression literally refers to “fathers’ houses,” a kinship structure larger than the immediate household and smaller than the tribe.
+v03: The census counts males of military age rather than the total population. The Levites are later excluded because they are assigned a different service.
+v50: “tabernacle of the testimony” — The tabernacle is named in relation to the testimony kept within it, emphasizing the covenantal center of the camp.
+v51: “outsider” — The Hebrew *zar* refers here to someone unauthorized to approach the sacred service, not necessarily a person of foreign ethnicity.
 
 ##Vocabulary
 

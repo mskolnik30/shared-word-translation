@@ -105,11 +105,18 @@ The houses of ivory will perish,
 and many houses will come to an end,
 says the LORD.
 </p>
-##Notes
-
+## Notes
+v02: “known” is relational and covenantal, not merely intellectual. Israel’s election intensifies accountability rather than removing it.
 v03: The Hebrew can mean “unless they have agreed” or “unless they have met by appointment.” The proverb assumes a prior cause for walking together.
-
-v12: “bed in Damascus” is textually difficult.
+v03–06: The sequence of rhetorical questions argues from observable cause and effect toward the certainty that prophetic warning has a cause.
+v06: “disaster” translates *ra'ah*, which can mean calamity or harm. The verse speaks of public catastrophe under divine sovereignty, not of God committing moral evil.
+v07: “counsel” translates *sod*, a confidential deliberation or inner council. Prophetic speech arises because the LORD discloses what would otherwise remain hidden.
+v08: Amos presents prophecy as compelled response: once the divine lion roars, silence is no more natural than fearlessness before a lion.
+v09: Foreign powers are summoned as witnesses to Samaria’s injustice. Even nations outside Israel can recognize the disorder within the covenant people.
+v12: The shepherd’s tiny recovered pieces prove that an animal was lost rather than meaningfully rescuing it. The image therefore describes a remnant that barely survives judgment.
+v12: “bed in Damascus” is textually difficult. Some understand an ornamental fabric or a place-name rather than the city Damascus. TSW follows the Masoretic vocalization and notes the uncertainty.
+v14: The altar horns were sacred projecting corners. Their being cut off signals the destruction of Bethel’s cultic security.
+v15: Winter and summer houses, ivory decoration, and many residences expose elite luxury as part of the social world coming under judgment.
 
 ##Vocabulary
 

@@ -62,7 +62,11 @@ v20: A Redeemer will come to Zion, to those in Jacob who turn from transgression
 <p>
 v21: As for me, this is my covenant with them, says the LORD: my Spirit who is on you, and my words which I have put in your mouth, will not depart out of your mouth, nor out of the mouth of your seed, nor out of the mouth of your seed's seed, says the LORD, from henceforth and forever.
 </p>
-##Notes
+## Notes
+v16: The LORD sees that there is no human intercessor and acts directly. Divine salvation enters precisely where human justice has failed.  
+v20: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
+v20: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v21: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
 
 ##Vocabulary
 

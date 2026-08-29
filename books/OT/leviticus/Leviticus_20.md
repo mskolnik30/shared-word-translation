@@ -54,7 +54,12 @@ v25: Therefore you shall distinguish between the clean animal and the unclean, a
 v26: You shall be holy to me, for I the LORD am holy, and I have separated you from the peoples so that you may be mine.
 v27: A man or woman who is a medium or spiritist shall surely be put to death. They shall be stoned with stones; their blood is upon them.”
 </p>
-##Notes
+## Notes
+v02–05: The prohibition concerning Molech is addressed to Israelites and resident aliens alike, and communal refusal to act is itself treated as culpable.
+v06: Turning to mediums is described with the same prostitution metaphor used for idolatrous worship elsewhere in Leviticus.
+v09–21: The chapter moves from prohibitions stated in chapter 18 to specified penalties. TSW preserves the legal severity without attempting to harmonize these penalties with later legal or theological systems.
+v24–26: Israel’s separation from the nations is paired with the command to distinguish clean from unclean and culminates in belonging to the LORD.
+v27: The chapter ends where v06 began, with the prohibition of mediums and spiritists, forming a frame around the holiness and penalty material.
 
 ##Vocabulary
 

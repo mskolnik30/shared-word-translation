@@ -66,7 +66,11 @@ v21: the flowers, lamps, and tongs of gold, of the finest gold,
 
 v22: the snuffers, bowls, dishes, and firepans of pure gold, and the entrance of the house—its inner doors to the Most Holy Place and the doors of the house of the temple—of gold.
 </p>
-##Notes
+## Notes
+v02: The Sea is a large bronze basin associated with priestly washing.
+v03: Chronicles reads oxen beneath the rim where 1 Kings 7:24 reads gourds. This is a notable parallel-text difference.
+v05: Chronicles gives the Sea a capacity of 3,000 baths, while 1 Kings 7:26 gives 2,000. TSW preserves Chronicles’ figure.
+v11–18: The chapter emphasizes the abundance and craftsmanship of the bronze work.
 
 ##Vocabulary
 

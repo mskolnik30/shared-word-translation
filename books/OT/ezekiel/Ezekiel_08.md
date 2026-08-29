@@ -33,7 +33,12 @@ v16: And he brought me into the inner court of the house of the LORD. And behold
 v17: Then he said to me, “Have you seen this, son of man? Is it too light a thing for the house of Judah to commit the abominations that they commit here, that they should also fill the land with violence and provoke me further to anger? And behold, they are sending the branch to their nose.
 v18: Therefore I will also act in fury. My eye will not spare, nor will I have pity. Though they cry in my ears with a loud voice, I will not hear them.”
 </p>
-##Notes
+## Notes
+v1: - **v1** "hand of the Lord God" denotes divine agency and prophetic inspiration. The phrase initiates visions and revelations in prophetic literature.  
+v3: - **v3** "lock of my head" suggests the prophet's complete submission to God's will as he is transported in the spirit.  
+v5: - **v5** "image of jealousy" indicates an idolatrous object provoking God's jealousy, central to the depiction of Israel's unfaithfulness.  
+v14: - **v14** "weeping for Tammuz" describes a ritual mourning practice tied to pagan worship, underscoring the extent of Israel's apostasy.  
+v17: - **v17** "sending the branch to their nose" is a phrase whose exact significance is debated, possibly indicating an act of defiance or ritual pollution.  
 
 ##Vocabulary
 

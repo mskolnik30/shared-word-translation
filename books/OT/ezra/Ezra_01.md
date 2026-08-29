@@ -30,7 +30,11 @@ v09: And this was their number: thirty basins of gold, a thousand basins of silv
 v10: thirty bowls of gold, four hundred ten bowls of silver, and a thousand other vessels.
 v11: All the vessels of gold and of silver were five thousand four hundred. All these did Sheshbazzar bring up, when the exiles were brought up from Babylon to Jerusalem.
 </p>
-##Notes
+## Notes
+v1: **Cyrus king of Persia** — Cyrus is presented as an appointed agent for the fulfillment of divine prophecy (see Isaiah 44:28, 45:1) in effecting the return of the exiles to Jerusalem.  
+v2: **The LORD, the God of heaven** — This title for God emphasizes His sovereignty over all earthly realms and introduces the theological justification for Cyrus's decree.  
+v4: **each survivor** — Those remaining in exile were to support the returnees, reinforcing the collective responsibility and unity of the people toward the restoration of the temple.  
+v8: **Sheshbazzar** — Likely the same person as Zerubbabel, this figure leads the returned exiles and oversees the transportation of temple vessels, symbolizing continuity with pre-exilic leadership.  
 
 ##Vocabulary
 

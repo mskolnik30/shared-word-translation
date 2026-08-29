@@ -90,11 +90,25 @@ v26: “The vision of the evenings and mornings that was spoken is true. But you
 
 v27: Then I, Daniel, was exhausted and sick for days. Afterward I rose and did the king’s business. But I was appalled by the vision, and there was no one who understood it.
 </p>
-##Notes
-
-v12: The Hebrew syntax is difficult.
-
+## Notes
+v01: Daniel 8 returns to Hebrew after the Aramaic section of 2:4b–7:28.
+v02: Daniel is transported in vision to Susa in Elam, a city that later became a major Persian royal center. The text does not require that his body was physically present there.
+v03–04: The two-horned ram is explicitly interpreted in verse 20 as Media and Persia, with the later horn becoming higher.
+v05: The goat’s movement “without touching the ground” emphasizes extraordinary speed.
+v08: The great horn breaks at the height of its strength and is replaced by four, anticipating the division interpreted in verse 22.
+v09: “the Beautiful Land” is a poetic designation for the land of Israel.
+v10: Host and stars can symbolize heavenly beings, holy people, or both. Apocalyptic language intentionally lets earthly persecution and heavenly conflict overlap.
+v11: “Prince of the host” is a divine or heavenly title. The little horn’s attack reaches beyond political conquest into sanctuary and worship.
+v12: The Hebrew syntax is difficult. Transgression, host, and continual offering are entangled in a scene where truth itself is cast down.
+v14: “two thousand three hundred evenings and mornings” may count 2,300 full days or 1,150 pairs of evening-and-morning offerings. The text does not explicitly resolve the counting method.
 v14: “restored to its rightful state” translates a form of *tsadaq*, literally connected with being made right or vindicated. The phrase concerns sanctuary restoration.
+v16: Gabriel is the first angelic figure named in the Hebrew Bible.
+
+v17, v19: “time of the end” does not by itself specify the end of world history. In the immediate vision it marks the appointed end toward which the revealed conflict moves.
+v20–22: Unlike chapter 7, this vision explicitly names Media-Persia and Greece, providing its own historical identifications.
+v23–25: The fierce king is commonly associated with Antiochus IV Epiphanes in the second-century BCE crisis, but TSW leaves the main text within Daniel’s own symbolic description.
+v25: “broken—not by human hand” mirrors the non-human agency in chapter 2 and emphasizes that the arrogant king’s final defeat does not depend on ordinary human power.
+v27: Daniel returns to administrative service but remains physically and emotionally affected by revelation.
 
 ##Vocabulary
 

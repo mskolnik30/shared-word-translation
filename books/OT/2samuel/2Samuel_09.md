@@ -42,11 +42,17 @@ v12: Mephibosheth had a young son whose name was Mica. All who lived in Ziba’s
 
 v13: So Mephibosheth lived in Jerusalem, for he ate continually at the king’s table. He was crippled in both his feet.
 </p>
-##Notes
-
+## Notes
+v01: David’s action is explicitly grounded in his covenant relationship with Jonathan rather than in ordinary royal policy toward a former dynasty.
 v03: “steadfast love of God” can mean extraordinary covenant-like kindness or kindness shown in God’s presence. The phrase intensifies David’s commitment to Jonathan’s son.
 
+v03, v13: Mephibosheth’s disability is repeated as a narrative fact, not as a moral judgment. His place at the royal table is not conditioned on physical capacity.
+v04: Machir later appears as a supporter of David during Absalom’s rebellion, suggesting that Mephibosheth had been protected within a household of some means.
+v07: Restoration of Saul’s land and continual eating at David’s table combine economic provision with royal inclusion.
 v08: “dead dog” is an idiom of extreme self-abasement before a king, not a statement of Mephibosheth’s actual worth.
+v10: Ziba’s large household makes him capable of administering the restored estate.
+v11: “like one of the king’s sons” gives Mephibosheth a status at table resembling adoption into David’s royal household.
+v12: Mica preserves Jonathan’s line beyond Mephibosheth.
 
 ##Vocabulary
 

@@ -177,17 +177,21 @@ is in his holy temple.
 Let all the earth
 be silent before him.
 </p>
-##Notes
-
-v01: “what I will answer concerning my complaint” — The Hebrew may refer to what Habakkuk will answer when corrected, or what answer he will give regarding his complaint.
-
-v03: “it breathes toward the end” — The Hebrew verb can suggest panting, hastening, or speaking toward the appointed end.
-
+## Notes
+v01: “what I will answer concerning my complaint” — The Hebrew may refer to what Habakkuk will answer when corrected, or what answer he will give regarding his complaint. TSW preserves the first-person response language rather than resolving the direction of the exchange.
+v02: “so that the one who reads it may run” can picture a herald running with the written message or a reader able to move quickly because the inscription is clear. The text does not specify further.
+v03: “it breathes toward the end” — The Hebrew verb can suggest panting, hastening, or speaking toward the appointed end. TSW retains the living-motion imagery and notes the ambiguity.
+v04: “his life is puffed up” — The first line is difficult but clearly contrasts a distorted inward condition with the righteous person. The Hebrew *emunah* in the second line can mean faithfulness, reliability, or firmness. TSW renders “his faithfulness” while preserving the source-text pronoun.
 v04: The first line is difficult. The Hebrew *emunah* in the second line can mean “faithfulness,” “reliability,” or “firmness.”
-
-v05: The Hebrew syntax is unusually compressed.
-
+v05: The Hebrew syntax is unusually compressed. Wine, arrogance, restless appetite, Sheol, and death combine to portray imperial desire as insatiable.
+v06: “pledges” translates a rare expression that may refer to debts, collateral, or accumulated claims. The taunt intentionally plays on the conqueror becoming debtor to those he exploited.
+v11: The house built from unjust gain becomes a witness against its owner: stone and timber themselves cry out.
+v13–14: Human imperial labor is destined for fire and emptiness, while the earth’s final fullness is the knowledge of the LORD’s glory.
+v15: The Hebrew connects drink, wrath/poison, intoxication, and exposed nakedness in a deliberately degrading image. TSW preserves the accusation without expanding it.
 v16: “expose your uncircumcision” follows the Masoretic consonants and the shame imagery. The Hebrew form is unusual and has received several interpretations.
+v17: Lebanon and its animals are included within the accusation of violence. Human conquest is judged also for devastation of land and animal life.
+v18–19: The idol is simultaneously made by a craftsman and trusted as a teacher. The satire turns on the contradiction of asking a breathless object to speak.
+v20: The chapter closes not with another human taunt but with the LORD’s presence and a command for all the earth to be silent.
 
 ##Vocabulary
 

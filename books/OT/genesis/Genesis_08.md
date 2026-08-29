@@ -59,7 +59,18 @@ summer and winter,
 day and night,
 shall not cease.”
 </p>
-##Notes
+## Notes
+v1: “God remembered” does not imply prior forgetfulness. The phrase signals divine attention expressed through saving action.  
+v1: The wind passing over the waters recalls the wind or Spirit moving over the waters in Genesis 1, linking restoration with creation.  
+v2–3: The reversal of the flood begins through the closing of the sources that had overwhelmed creation.  
+v4: The ark comes to rest before the earth is habitable. Rest arrives before full restoration.  
+v7–12: The raven and dove function as signs of changing conditions. The repeated sending creates a patient rhythm of waiting and discernment.  
+v11: The olive leaf becomes evidence that life has begun to emerge again from beneath the waters.  
+v13–14: The narrative carefully marks time, emphasizing that restoration unfolds gradually rather than instantly.  
+v16–17: God’s command echoes the creation mandate. The renewed world is commissioned toward fruitfulness and multiplication.  
+v20: Noah’s first recorded action after leaving the ark is worship.  
+v21: The LORD’s resolve not to curse the ground again is made despite humanity’s continuing inclination toward evil.  
+v22: The closing poem affirms the stability of creation’s rhythms under divine preservation.  
 
 ##Vocabulary
 

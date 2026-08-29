@@ -32,7 +32,8 @@ v05: But those who turn aside to their crooked ways—
 the LORD will lead them away with those who do evil.
 Peace be upon Israel!
 </p>
-##Notes
+## Notes
+v03: The “scepter of wickedness” is an image of oppressive rule. The verse recognizes the moral pressure such rule can exert even on the righteous without excusing wrongdoing.
 
 ##Vocabulary
 

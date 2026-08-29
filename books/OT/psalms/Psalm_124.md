@@ -41,7 +41,12 @@ and we have escaped!
 v08: Our help is in the name of the LORD,
 who made heaven and earth.
 </p>
-##Notes
+## Notes
+v1–2: The psalm begins with conditional reflection—survival is attributed entirely to the LORD.  
+v3–5: Threat imagery escalates (being swallowed, overwhelmed by waters), emphasizing total vulnerability.  
+v6–7: Deliverance is described as escape, not victory—survival rather than domination.  
+v7: The broken snare signals divine intervention, not human skill.  
+v8: The conclusion grounds trust in creation theology—help comes from the Creator.  
 
 ##Vocabulary
 

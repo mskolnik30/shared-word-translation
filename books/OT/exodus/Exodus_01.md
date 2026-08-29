@@ -72,7 +72,18 @@ v21: And because the midwives feared God, he made them households.
 <p>
 v22: Then Pharaoh commanded all his people, “Every son that is born to the Hebrews you shall cast into the Nile, but you shall let every daughter live.”
 </p>
-##Notes
+## Notes
+v1–5: The opening recalls Genesis, anchoring continuity of identity and promise.  
+v7: Multiplication fulfills earlier blessing language, now set within tension.  
+v8: “Did not know Joseph” signals political discontinuity and selective memory.  
+v9–10: Fear drives policy; perceived threat leads to systemic control.  
+v11–14: Oppression intensifies from labor exploitation to dehumanizing conditions.  
+v12: Growth under affliction introduces a paradox—pressure amplifies increase.  
+v15–16: State violence targets generational continuity through male offspring.  
+v17: The midwives’ fear of God overrides royal authority, establishing a moral hierarchy.  
+v19: Their response blends truth and strategy, resisting power through speech.  
+v20–21: Divine favor aligns with those who resist injustice.  
+v22: Violence expands from targeted command to public decree, involving the whole society.  
 
 ##Vocabulary
 

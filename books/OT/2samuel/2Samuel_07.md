@@ -94,12 +94,19 @@ v28: And now, Lord GOD, you are God, and your words are truth, and you have spok
 
 v29: And now, be pleased to bless the house of your servant, so that it may continue forever before you. For you, Lord GOD, have spoken, and from your blessing the house of your servant will be blessed forever.”
 </p>
-##Notes
-
-v16: The phrase “before you” has textual variation; some witnesses read “before me.”
-
-v23: The Hebrew syntax is dense in the phrase about redemption, nations, land, and gods.
-
+## Notes
+v01: “rest” is a key covenantal term linking David’s royal security with Israel’s settlement and preparing for the temple question.
+v02: David’s concern is architectural asymmetry: he inhabits cedar while the ark remains under tent curtains.
+v03–05: Nathan initially approves David’s plan without a recorded oracle, but the LORD corrects the prophet that same night. Prophetic authority remains subject to divine speech.
+v05: The Hebrew question can be heard with surprise or challenge: David is not the one who determines when God requires a permanent house.
+v06–07: The LORD’s mobility with Israel is not portrayed as an inadequate stage demanding human correction. God has chosen to dwell in tent form without requesting cedar.
+v11: The central wordplay of the chapter turns “house” from temple to dynasty: David wants to build God a house, but the LORD promises to build David a house.
+v12: The immediate referent of David’s offspring is Solomon, while the promise’s “forever” language gives the covenant a horizon extending beyond one king.
+v14: Sonship language defines the king’s relationship with God while explicitly allowing discipline for wrongdoing.
+v15: The Davidic promise is contrasted with Saul: discipline will not mean the removal of steadfast love in the same manner.
+v16: The phrase “before you” has textual variation; some witnesses read “before me.” TSW follows the Masoretic form.
+v19: “this is instruction for humanity” is one of the most difficult phrases in the chapter. It has been rendered in several ways, including “this is the law for humanity” or “is this your usual way with humanity?” TSW keeps the Torah-related wording without over-resolving it.
+v23: The Hebrew syntax is dense in the phrase about redemption, nations, land, and gods. The theological center is Israel’s unique redemption from Egypt for God’s name.
 v27: “uncovered the ear” is a Hebrew idiom for revealing something privately or making it known.
 
 ##Vocabulary

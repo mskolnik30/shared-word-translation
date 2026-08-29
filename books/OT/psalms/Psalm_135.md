@@ -76,9 +76,8 @@ v21: Blessed be the LORD from Zion,
 the One who dwells in Jerusalem.
 Praise the LORD!
 </p>
-##Notes
-
-v14: The Hebrew verb can mean “judge” and, in this context, “vindicate” or defend the cause of God’s people.
+## Notes
+v14: The Hebrew verb can mean “judge” and, in this context, “vindicate” or defend the cause of God’s people. The following line of compassion clarifies the direction of the judgment.
 
 ##Vocabulary
 

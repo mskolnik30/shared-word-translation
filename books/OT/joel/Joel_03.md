@@ -146,15 +146,21 @@ v21: I will hold innocent their blood
 that I had not held innocent,
 and the LORD dwells in Zion.
 </p>
-##Notes
-
-v01: In the Masoretic Text this material is Joel 4 because English Joel 2:28–32 is Hebrew Joel 3:1–5.
-
+## Notes
+v01: Standard English chapter numbering begins Joel 3 here. In the Masoretic Text this material is Joel 4 because English Joel 2:28–32 is Hebrew Joel 3:1–5.
 v01: “restore the fortunes” — The Hebrew idiom can also be rendered “bring back the captivity.” Its range includes reversal of condition, restoration, and return.
-
+v02: “Valley of Jehoshaphat” — The name means “the LORD judges.” The text may use a symbolic name for the place of judgment rather than identifying a securely known geographic valley.
+v03: Human beings are reduced to commodities of trivial exchange. The imagery emphasizes the dehumanizing treatment of Judah’s people by the nations.
+v04: The repeated language of repayment establishes corresponding judgment: what was done to the LORD’s people returns upon those responsible.
+v06: “children of the Greeks” — Hebrew *Yevanim* refers to Ionians/Greeks. The verse describes Judeans sold into distant trafficking networks.
+v08: The reversal is stated in the same commercial language used against Judah. TSW preserves the text’s retaliatory imagery without softening it.
+v09–10: The nations reverse the peaceful imagery known elsewhere in the prophets: agricultural tools become weapons as the nations are summoned into judgment.
+v11: The short prayer “Bring down your warriors, O LORD!” interrupts the summons to the nations. The Hebrew *gibborim* could refer to divine warriors or mighty agents; TSW leaves the identity broad.
 v11: Hebrew *gibborim* can refer to mighty warriors and may here denote human or divine agents; the identity remains broad.
-
-v21: The Hebrew final clause concerning bloodguilt is difficult.
+v13: Harvest and winepress imagery transform judgment into a scene of ripeness and overflowing evil.
+v14: “Valley of Decision” — The Hebrew term concerns a decision or decree, not human indecision. The valley is the place where judgment is determined.
+v18: Restoration is imagined as superabundant fertility flowing outward from the house of the LORD. The “Valley of Shittim” is difficult to locate in relation to Jerusalem and may contribute to the visionary character of the scene.
+v21: The Hebrew final clause concerning bloodguilt is difficult. It can be rendered in senses such as “I will avenge their blood” or “I will cleanse their bloodguilt.” TSW preserves the juridical language of holding innocent while avoiding a more specific resolution than the Hebrew requires.
 
 ##Vocabulary
 

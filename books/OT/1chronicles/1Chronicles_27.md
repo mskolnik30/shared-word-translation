@@ -79,9 +79,12 @@ v33: Ahithophel was counselor to the king, and Hushai the Archite was the king�
 
 v34: After Ahithophel came Jehoiada son of Benaiah and Abiathar; and Joab was commander of the king’s army.
 </p>
-##Notes
-
-v32: The Hebrew word rendered “uncle” may also mean a close male relative.
+## Notes
+v1: - **27:1:** The divisions “came in and went out month by month,” describing a rotating system of service. Each division is said to contain twenty-four thousand, a pattern that presents Israel’s military administration as ordered and comprehensive.  
+v4: - **27:4:** The Hebrew wording links Mikloth closely with Dodai’s division but does not explicitly state his precise role. The translation understands him as its leader.  
+v6: - **27:6:** “The Thirty” refers to David’s elite corps of warriors. Benaiah is described both as one among this group and as having authority over it.  
+v23–24: - **27:23–24:** The account recalls the census associated with Joab and divine wrath. The text holds together David’s administrative ordering of Israel with the warning that numbering the people could become an act of presumption rather than trust in the LORD’s promise.  
+v32: - **27:32:** The Hebrew word rendered “uncle” may also mean a close male relative. The text identifies Jonathan as David’s *dod*, without specifying the exact family relationship.  
 
 ##Vocabulary
 

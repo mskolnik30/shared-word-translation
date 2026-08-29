@@ -100,11 +100,19 @@ so his Lord will leave his bloodguilt upon him
 and return his reproach
 upon him.
 </p>
-##Notes
-
+## Notes
+v01: Wind imagery portrays Ephraim’s diplomacy as both empty and destructive. The east wind in Israel’s climate is especially hot and damaging.
+v01: Assyria and Egypt appear together as competing diplomatic partners. Covenant and tribute replace trust in the LORD.
+v03–04: Hosea rereads Jacob’s birth and encounter with the divine messenger as part of Israel’s identity. The patriarch’s striving ultimately includes weeping and seeking favor.
+v04: “there he spoke with us” unexpectedly draws Hosea’s audience into the Bethel encounter, making ancestral revelation present to later Israel.
+v05: “memorial name” refers to the name by which the LORD is remembered and invoked across generations.
 v07: Hebrew *kena'an* can mean “Canaan” or “merchant.” Here the parallel with deceptive scales supports “merchant,” possibly with a polemical echo of Canaanite commerce.
-
-v11: The Hebrew opening may be read as a question or assertion concerning Gilead.
+v08: Ephraim treats wealth as proof against guilt. The prophet rejects prosperity as a reliable moral verdict.
+v09: Living in tents “as in the days of the appointed festival” may evoke the Festival of Booths and Israel’s wilderness memory. The precise festival reference is not named.
+v10: Prophetic speech is diverse: words, visions, and figurative comparisons all become forms of divine communication.
+v11: The Hebrew opening may be read as a question or assertion concerning Gilead. TSW retains the strong connection between wickedness and coming nothingness.
+v12–13: Jacob’s dependence while serving for a wife is placed beside Israel’s dependence upon prophetic leadership in the exodus.
+v14: Bloodguilt is not removed by wealth or cult. The consequences remain upon Ephraim.
 
 ##Vocabulary
 

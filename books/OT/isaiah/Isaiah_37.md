@@ -68,7 +68,11 @@ v36: The angel of the LORD went out and struck one hundred and eighty-five thous
 v37: So Sennacherib king of Assyria departed, went away, returned to Nineveh, and stayed there.
 v38: It happened, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons struck him with the sword; and they escaped into the land of Ararat. Esar Haddon his son reigned in his place.
 </p>
-##Notes
+## Notes
+v20: Hezekiah’s prayer does not merely ask for survival; it asks that the kingdoms of the earth may know that the LORD alone is God.  
+v23: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v16: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v4: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
 
 ##Vocabulary
 

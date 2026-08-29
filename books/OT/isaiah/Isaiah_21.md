@@ -41,7 +41,10 @@ v16: For the Lord said to me, "Within a year, as a worker bound by contract woul
 v17: and the residue of the number of the archers, the mighty men of the children of Kedar, will be few;
 for the LORD, the God of Israel, has spoken it."
 </p>
-##Notes
+## Notes
+v11: “Dumah” can be a place name and also sounds like the Hebrew word for silence. The oracle’s brevity preserves its enigmatic quality.  
+v10: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v16: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
 ##Vocabulary
 

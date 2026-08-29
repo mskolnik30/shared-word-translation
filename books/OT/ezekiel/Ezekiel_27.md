@@ -65,7 +65,11 @@ v34: Now you are shattered by the seas in the depths of the waters; your merchan
 v35: All the inhabitants of the coastlands are appalled at you, and their kings shudder with horror, their faces are distorted.
 v36: The merchants among the peoples hiss at you; you have become a horror and shall be no more forever.'"
 </p>
-##Notes
+## Notes
+v3: **v3**: The description of Tyre as claiming to be "perfect in beauty" echoes themes of arrogance and self-glorification throughout the prophecy.  
+v10: **v10**: The listing of Persia, Lud, and Put emphasizes the military strength and alliances that Tyre relied on, now turned to no avail.  
+v32: **v32**: The lament emphasizes Tyre's uniqueness and former glory, now contrasted with its silence and destruction.  
+  
 
 ##Vocabulary
 

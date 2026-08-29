@@ -52,7 +52,14 @@ but we rise and stand upright.
 v09: O LORD, save the king!
 May he answer us when we call.
 </p>
-##Notes
+## Notes
+v1–5: The psalm is communal intercession for a leader (likely the king).  
+v3: Worship (offerings) is connected to divine remembrance.  
+v4–5: Desire and plans are framed within dependence on God.  
+v6: Confidence shifts from petition to assurance.  
+v7: Central contrast—human military strength vs. divine reliance.  
+v8: Outcomes reflect the object of trust.  
+v9: Closing plea reinforces dependence on divine response.  
 
 ##Vocabulary
 

@@ -61,7 +61,9 @@ v18: Let them know that you alone—
 whose name is the LORD—
 are Most High over all the earth.
 </p>
-##Notes
+## Notes
+v06–08: The list gathers neighboring peoples and powers into a single poetic coalition. It should not be read as a chronological roster of one clearly identifiable historical campaign.
+v16: The petition for shame is not only punitive; it is ordered toward recognition of the LORD’s name, a tension preserved by the sequence of the psalm.
 
 ##Vocabulary
 

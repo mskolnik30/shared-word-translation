@@ -52,9 +52,11 @@ v16: He made chains in the inner sanctuary and put them on the tops of the pilla
 
 v17: He set up the pillars in front of the temple, one on the right and one on the left. He called the name of the one on the right Jachin and the name of the one on the left Boaz.
 </p>
-##Notes
-
-v04: The porch height of 120 cubits is unusually great and differs from some ancient textual traditions.
+## Notes
+v01: Chronicles identifies the temple site with Mount Moriah and Ornan’s threshing floor, explicitly linking Abrahamic, Davidic, and temple traditions.
+v04: The porch height of 120 cubits is unusually great and differs from some ancient textual traditions. TSW follows the Masoretic Text.
+v08: “Most Holy Place” is the innermost sanctuary.
+v17: Jachin and Boaz are the traditional names of the two temple pillars.
 
 ##Vocabulary
 

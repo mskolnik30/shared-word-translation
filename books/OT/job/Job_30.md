@@ -119,9 +119,14 @@ and my bones burn from heat.
 v31: My lyre has become mourning,
 and my pipe the voice of those who weep.”
 </p>
-##Notes
-
-v11: The Hebrew subject can be read as singular or plural depending on textual decisions.
+## Notes
+v01–08: Job describes those who now mock him in harsh social terms. His speech reflects the status hierarchies and prejudices of his setting even as it emphasizes the extremity of his reversal.
+v09: Job has moved from honored counselor in chapter 29 to the subject of mocking songs. Social reversal is as central as bodily suffering.
+v11: The Hebrew subject can be read as singular or plural depending on textual decisions. TSW understands God as the one who has loosened Job’s bowstring, enabling others to abandon restraint.
+v17–18: The Hebrew bodily and clothing imagery is difficult. The lines clearly portray constant nocturnal pain and constriction.
+v20: Job’s complaint is not that God is absent in every sense; he experiences God as looking on without answering.
+v21: Job directly addresses God as having “turned cruel.” The book permits this accusatory prayer to remain within Job’s speech.
+v25–26: Job contrasts his former compassion for sufferers with the good he expected and the calamity he received.
 
 ##Vocabulary
 

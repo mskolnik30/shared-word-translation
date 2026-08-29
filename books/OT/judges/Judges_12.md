@@ -46,9 +46,13 @@ v14: He had forty sons and thirty grandsons who rode on seventy donkeys. He judg
 
 v15: Then Abdon son of Hillel the Pirathonite died and was buried at Pirathon in the land of Ephraim, in the hill country of the Amalekites.
 </p>
-##Notes
-
-v03: “put my life in my hand” — The Hebrew idiom means risking one’s life.
+## Notes
+v01: Ephraim repeats the pattern of confronting a victorious judge for not including them in battle, as in Judges 8. This time the conflict escalates rather than being defused.
+v03: “put my life in my hand” — The Hebrew idiom means risking one’s life. Jephthah presents himself as acting under mortal danger when Ephraim did not help.
+v04: The insult against Gilead appears to question their tribal legitimacy or portray them as displaced Ephraimites. The exact force of the taunt is difficult.
+v06: “Shibboleth” — The word means an ear of grain or flowing stream. Here its importance is phonetic: dialect difference becomes a test of identity with lethal consequences.
+v06: The number forty-two thousand is extremely large in relation to the conflict and may reflect ancient numerical conventions that are difficult to reconstruct. TSW preserves the received number.
+v08–15: The notices concerning Ibzan, Elon, and Abdon emphasize family networks, marriage alliances, and status without recording major military deliverances.
 
 ##Vocabulary
 

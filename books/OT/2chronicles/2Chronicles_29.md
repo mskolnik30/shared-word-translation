@@ -102,7 +102,12 @@ v35: There were also burnt offerings in abundance, with the fat of the offerings
 
 v36: Hezekiah and all the people rejoiced over what God had prepared for the people, for the thing happened suddenly.
 </p>
-##Notes
+## Notes
+v03: Hezekiah begins reform in his first month by reopening and repairing the temple.
+v10: The renewal is explicitly covenantal, not merely architectural.
+v24: The sacrifices are said to make atonement for “all Israel,” reflecting Chronicles’ continuing concern for the whole covenant people beyond Judah.
+v25: Temple music is grounded in prophetic as well as Davidic authority.
+v34: Chronicles unexpectedly says the Levites were more upright in heart than the priests in consecrating themselves.
 
 ##Vocabulary
 

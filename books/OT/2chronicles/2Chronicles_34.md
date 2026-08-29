@@ -98,7 +98,12 @@ v32: He caused all who were found in Jerusalem and Benjamin to stand to it, and 
 
 v33: Josiah removed all the detestable things from all the lands that belonged to the children of Israel and made everyone found in Israel serve the LORD their God. All his days they did not turn away from following the LORD, the God of their ancestors.
 </p>
-##Notes
+## Notes
+v03: Josiah’s reform unfolds in stages: seeking God, cleansing the land, repairing the temple, discovering the book, and renewing covenant.
+v06–07: His reform extends into territories of the former northern kingdom, a distinct Chronicler emphasis.
+v14: Chronicles explicitly calls the discovered scroll “the instruction of the LORD given by the hand of Moses.”
+v24: Huldah identifies the coming disaster with the written covenant curses, making the discovered book interpret Judah’s history.
+v33: Josiah’s influence holds the people in public loyalty throughout his lifetime, though later chapters show that the reform does not permanently transform Judah.
 
 ##Vocabulary
 

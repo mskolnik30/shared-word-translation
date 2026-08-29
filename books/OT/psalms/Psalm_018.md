@@ -209,7 +209,17 @@ v50: Great salvation he brings to his king,
 and shows steadfast love to his anointed,
 to David and his offspring forever.
 </p>
-##Notes
+## Notes
+v1–3: Opening cluster of metaphors—God as refuge, strength, and deliverer.
+v4–6: Distress is overwhelming and total; prayer initiates the turning point.
+v7–15: Theophany imagery—cosmic upheaval signals divine intervention.
+v16–19: Rescue is personal and deliberate; rooted in divine delight.
+v20–24: Righteousness language reflects covenant fidelity, not perfectionism.
+v25–26: God’s dealings mirror human orientation.
+v27–30: God reverses status—humble lifted, proud brought low.
+v31–42: Empowerment for battle—God acts through the psalmist.
+v43–45: Expansion beyond survival to dominion.
+v46–50: Concluding praise—personal deliverance becomes public testimony.
 
 ##Vocabulary
 

@@ -73,7 +73,12 @@ v33: The person shall lay a hand on the head of the sin offering and slaughter i
 v34: The priest shall take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and pour all the rest of its blood at the base of the altar.
 v35: The priest shall remove all its fat, just as the fat of the lamb is removed from the sacrifice of well-being, and turn it into smoke on the altar upon the offerings by fire to the LORD. The priest shall make atonement for the person concerning the sin committed, and that person shall be forgiven.
 </p>
-##Notes
+## Notes
+v02: “unintentionally” — The Hebrew *bishgagah* refers to wrongdoing not characterized here as defiant or deliberate rebellion.
+v03: The anointed priest’s sin is described as bringing guilt upon the people, reflecting the representative responsibility of priestly office.
+v07: The blood of the priest’s and congregation’s offerings is brought into the Tent of Meeting, unlike the offerings for a leader or ordinary individual.
+v20: “shall be forgiven” — Forgiveness follows the prescribed act of atonement and is stated repeatedly throughout the chapter.
+v27: “people of the land” — Here the phrase refers broadly to ordinary members of the Israelite community rather than a distinct foreign population.
 
 ##Vocabulary
 

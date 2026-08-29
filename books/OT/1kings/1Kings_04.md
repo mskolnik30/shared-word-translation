@@ -73,8 +73,12 @@ v32: He spoke three thousand proverbs, and his songs numbered one thousand and f
 v33: He spoke about the trees, from the cedar that is in Lebanon to the hyssop that grows out of the wall. He spoke also about animals, birds, creeping things, and fish.
 v34: People came from all peoples to hear Solomon’s wisdom, from all the kings of the earth who had heard of his wisdom.
 </p>
-##Notes
-
+## Notes
+v5: — “The king’s friend.”: This is an official designation as well as a relational one. Zabud’s title places him among Solomon’s court officers, though the precise responsibilities of the role are not stated.  
+v6: — “Forced labor.”: The Hebrew term refers to labor levied by royal authority. The administrative list thus includes not only household and military oversight but also the machinery by which the king could compel labor.  
+v7: — Twelve governors.: The twelve districts are organized for supplying the royal household in monthly rotation. Their boundaries do not simply reproduce Israel’s tribal territories, reflecting a centralized royal administration.  
+v19: — “One governor who was in the land.”: The final phrase is compressed and syntactically uncertain. It may identify an additional governor over the territory just named, or indicate that there was one governor over the whole land.  
+v20: — “As numerous as the sand.”: The image echoes the promise of an innumerable people. Here it is joined to eating, drinking, and rejoicing, portraying abundance and well-being under Solomon’s reign.  
 v21–34: These verses correspond to 1 Kings 5:1–14 in the Hebrew chapter division.
 
 ##Vocabulary

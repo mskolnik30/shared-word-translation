@@ -42,7 +42,22 @@ v16: Then the men feared the LORD exceedingly, and they offered a sacrifice to t
 <p>
 v17: And the LORD appointed a great fish to swallow Jonah. And Jonah was in the belly of the fish three days and three nights.
 </p>
-##Notes
+## Notes
+v1–2: The book begins with a prophetic commission directing Jonah to Nineveh, the capital of Assyria.
+v3: Jonah's flight is not merely geographical. He attempts to escape the mission God has given him.
+v3: The repeated phrase “went down” highlights Jonah's downward trajectory away from obedience.
+v4: The storm is presented as a direct act of the LORD rather than a random natural event.
+v5: While the sailors pray, Jonah sleeps, creating a sharp contrast between pagan concern and prophetic indifference.
+v6: The captain unknowingly echoes the language of God's original command: “Arise.”
+v7: The casting of lots reveals Jonah's responsibility under God's providence.
+v9: Jonah's confession identifies the LORD as Creator of both sea and land, making his attempted escape especially ironic.
+v10: The sailors understand the seriousness of Jonah's actions more quickly than Jonah himself.
+v12: Jonah accepts responsibility for the storm, though he still does not directly obey God's original command.
+v13–14: The sailors show greater reluctance to shed innocent blood than Jonah showed in fleeing his mission.
+v15–16: The pagan sailors move from fear of the storm to fear of the LORD.
+v16: The sailors worship the LORD before Nineveh ever hears Jonah's message.
+v17: The great fish is presented as God's appointed means of preservation rather than judgment alone.
+v17: The three days and three nights become an important pattern later recalled elsewhere in Scripture.
 
 ##Vocabulary
 

@@ -56,9 +56,17 @@ v14: shall we again break your commandments and join ourselves with peoples who 
 
 v15: O LORD, God of Israel, you are righteous, for we remain as a remnant that has escaped, as it is this day. Look, we are before you in our guilt, for no one can stand before you because of this.”
 </p>
-##Notes
-
+## Notes
+v01–02: The issue is framed in the text as covenantal separation from “detestable practices,” not as a modern theory of biological race. The named peoples are traditional biblical categories, some of which no longer represented distinct political populations in Ezra’s period.
+v02: “holy offspring” translates *zera qodesh*, literally “holy seed.” The phrase expresses the returned community’s consecrated covenant identity. TSW uses “offspring” to avoid suggesting a biological doctrine absent from the text.
+v02: “unfaithfulness” translates *ma'al*, violation of a sacred trust. The officials’ participation makes the crisis one of leadership as well as household practice.
+v03: Ezra’s tearing of clothing and pulling hair are embodied acts of grief and shock. The narrative reports self-affliction without presenting it as a general prescription for repentance.
+v04: Those who “tremble at the words” of God are characterized by serious responsiveness to the covenant warning.
+v08: “stake in his holy place” is an image of a small but secure hold, like a tent peg or fixed point, after exile.
 v09: “wall of protection” translates a word literally meaning “wall.” Jerusalem’s physical wall was not yet fully rebuilt in Ezra’s setting; the phrase can therefore function more broadly for protective stability granted under Persian rule.
+v11–12: Ezra’s quotation is not a verbatim citation of one Torah passage. It gathers language and themes from several instructions concerning the land, intermarriage, covenant loyalty, and the surrounding peoples.
+v12: The command not to seek their “peace or prosperity” is part of Ezra’s covenant argument concerning these particular relationships. It should not be detached from its post-exilic setting into a generalized hostility toward outsiders; Ezra itself includes outsiders who turn to seek the LORD.
+v15: The prayer ends without requesting a specific remedy. Ezra places the community before God in acknowledged guilt, and chapter 10 narrates the community’s proposed response.
 
 ##Vocabulary
 

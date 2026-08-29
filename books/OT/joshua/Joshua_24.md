@@ -96,7 +96,15 @@ v32: The bones of Joseph, which the sons of Israel had brought up from Egypt, th
 
 v33: Eleazar son of Aaron died, and they buried him at Gibeah of Phinehas his son, which had been given to him in the hill country of Ephraim.
 </p>
-##Notes
+## Notes
+v1–3: The gathering at Shechem frames a formal covenant setting. History is rehearsed from divine perspective—“I took… I led… I gave.”
+v14–15: The call is exclusive and immediate—“choose this day.” Service is framed as a decisive allegiance.
+v15: Household declaration (“me and my house”) models leadership as representative commitment.
+v16–18: The people respond with historical memory—deliverance grounds their pledge.
+v19–20: Joshua destabilizes easy commitment. Divine holiness and jealousy expose the seriousness of the choice.
+v21–22: The people insist, and their words bind them—self-witness becomes covenantal accountability.
+v23–24: Internal and external alignment is required—removal of foreign gods and inclination of heart.
+v25: Covenant is formalized with legal language—statute and ordinance mark enduring obligation.
 
 ##Vocabulary
 

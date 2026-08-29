@@ -186,7 +186,22 @@ v36: Then Sennacherib king of Assyria set out and went and returned and lived at
 
 v37: And it happened as he was bowing down in the house of Nisroch his god that Adrammelech and Sharezer his sons struck him with the sword and escaped to the land of Ararat. Esar-Haddon his son became king in his place.
 </p>
-##Notes
+## Notes
+v03: The childbirth image portrays a crisis that has reached the decisive moment but lacks strength to complete deliverance.
+v04: Hezekiah calls the LORD “your God” when speaking through messengers to Isaiah, perhaps reflecting humility or reliance on the prophet’s standing rather than distance from God.
+v07: The promised “spirit” may be an inner impulse, disposition, or divine influence causing Sennacherib to respond to a report and return.
+v09: Tirhakah later became pharaoh of Egypt’s Twenty-Fifth Dynasty. At the time of this campaign he may not yet have held the title “king” in the later formal sense; Kings uses his known royal designation.
+v14: Hezekiah physically spreads the threatening document before the LORD, turning imperial propaganda into material for prayer.
+v15: Unlike Assyria’s theology of competing territorial gods, Hezekiah confesses the LORD as sole Creator and God over all kingdoms.
+v18: Assyria’s destruction of other gods is explained by their non-divinity: they were human-made wood and stone.
+v21: Zion is personified as an apparently vulnerable young woman who can nevertheless mock Assyria because the LORD speaks for her.
+v23–24: Sennacherib’s boast imagines unrestricted conquest over mountains, forests, waters, and Egypt.
+v25: The oracle sharply reverses perspective: Assyria’s achievements occurred within a purpose formed long before by the LORD.
+v28: Hook and bridle imagery turns the great Assyrian king into an animal controlled and led back by God, echoing Assyrian practices of leading captives with hooks.
+v29: The agricultural sign suggests disruption for two growing seasons before normal sowing and reaping resume in the third.
+v30: Root downward and fruit upward pictures the remnant’s renewed stability and productivity.
+v35: The enormous death toll is part of the received biblical account of miraculous deliverance. Assyrian records confirm Sennacherib’s campaign and Hezekiah’s confinement but interpret the outcome differently.
+v37: Sennacherib’s assassination occurred years after the Jerusalem campaign. The narrative moves directly from failed siege to eventual death without marking the intervening time.
 
 ##Vocabulary
 

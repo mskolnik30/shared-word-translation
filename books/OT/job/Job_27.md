@@ -88,7 +88,12 @@ he desperately flees from its hand.
 v23: It claps its hands at him
 and hisses him out of his place.”
 </p>
-##Notes
+## Notes
+v02: Job’s oath is striking: he invokes the living God while accusing that same God of taking away his justice and embittering his life.
+v05: “declare you righteous” — Job refuses to vindicate the friends by admitting guilt merely to make their theology work.
+v06: Job’s claim is not that he has never sinned in any sense, but that his conscience does not accuse him of the hidden wickedness alleged by the friends.
+v13–23: The speech suddenly sounds similar to the friends’ descriptions of the wicked. Some scholars have proposed displaced text or another speaker, but the received text assigns the discourse to Job. TSW preserves that arrangement.
+v18: The comparison may be to a moth’s fragile structure or to the temporary shelter of a watchman. Both emphasize instability.
 
 ##Vocabulary
 

@@ -84,7 +84,20 @@ v27: When the mourning was past, David sent and gathered her into his house, and
 
 But the thing that David had done was evil in the eyes of the LORD.
 </p>
-##Notes
+## Notes
+v01: The chapter opens with David absent from the battlefield “at the time when kings go out,” immediately creating contrast between royal duty and what follows in Jerusalem.
+v03: Bathsheba is identified through both father and husband before David acts, making her existing household relationships explicit.
+v04: “took her” is the same royal-power verb used for seizure elsewhere. The text records David initiating the entire encounter and does not state that Bathsheba had meaningful power to refuse the king. TSW therefore avoids romanticizing the episode as an affair between equals.
+v04: The note concerning purification indicates Bathsheba had completed menstrual impurity, clarifying the timing of conception and later exposing David as the father.
+v08: “wash your feet” can be ordinary hospitality but in context is likely part of David’s attempt to send Uriah home to sexual relations with Bathsheba.
+v11: Uriah’s solidarity with ark, troops, and commander contrasts sharply with David’s self-protective conduct.
+v13: David uses alcohol to try to overcome Uriah’s disciplined refusal, yet Uriah still does not go home.
+v14: Uriah unknowingly carries the written order for his own death, intensifying the narrative’s portrayal of David’s abuse of royal authority.
+v17: David’s scheme kills not only Uriah but other servants as collateral casualties.
+v21: “Jerubbesheth” is a shame-substitution form related to Jerubbaal, the name of Gideon. The story recalled is Judges 9:50–54.
+v25: David’s statement that “the sword devours one as well as another” disguises intentional murder as ordinary battlefield risk.
+v26: Bathsheba is still called “the wife of Uriah” after his death, preserving the moral identity of the marriage David destroyed.
+v27: The chapter withholds explicit divine commentary until the final line, where all David’s concealed actions are summarized as evil in the LORD’s eyes.
 
 ##Vocabulary
 

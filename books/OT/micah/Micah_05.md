@@ -108,7 +108,21 @@ I will execute vengeance
 upon the nations
 that did not obey.”
 </p>
-##Notes
+## Notes
+v1: The chapter begins with humiliation and siege before turning to future hope.
+v2: Bethlehem, though insignificant in size, is chosen as the birthplace of Israel's future ruler.
+v2: The ruler's origins are described as reaching back to ancient days, emphasizing divine purpose and continuity.
+v3: A period of abandonment precedes restoration and reunion.
+v4–5: The coming ruler combines royal authority with the imagery of a shepherd who provides security and peace.
+v4: His reign extends beyond Israel to the ends of the earth.
+v5–6: Assyria represents the threat of hostile world powers opposed to God's people.
+v7–8: The remnant becomes both a source of blessing and an instrument of strength among the nations.
+v7: Dew and rain symbolize life-giving refreshment that comes from God alone.
+v8: The lion imagery emphasizes power and victory granted by God.
+v10–14: God removes not only military dependence but also spiritual corruption from his people.
+v10–11: Horses, chariots, and fortified cities represent misplaced trust in human strength.
+v12–14: The purification of Israel includes the removal of occult practices and idolatry.
+v15: The chapter concludes with judgment upon nations that persist in rebellion against God.
 
 ##Vocabulary
 

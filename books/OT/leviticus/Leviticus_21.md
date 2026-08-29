@@ -48,9 +48,12 @@ v22: He may eat the food of his God, both from the most holy and from the holy t
 v23: But he shall not enter through the curtain or approach the altar, because he has a defect, so that he does not profane my holy places, for I am the LORD who makes them holy.”
 v24: So Moses spoke to Aaron and his sons and to all the Israelites.
 </p>
-##Notes
-
-v18–20: Several Hebrew terms for specific physical conditions are uncertain.
+## Notes
+v01–04: Priests have stricter restrictions concerning contact with the dead because of their sanctuary role, though close family exceptions remain.
+v06: “food of their God” is sacrificial language for altar offerings and does not imply that God depends upon food.
+v10–12: The high priest bears even stricter mourning restrictions than other priests because of his consecrated status.
+v17–23: Priests with physical defects remain priests and may eat holy portions; the restriction concerns particular sanctuary approaches and altar service, not exclusion from the priestly household.
+v18–20: Several Hebrew terms for specific physical conditions are uncertain. TSW uses cautious descriptive English rather than claiming medical precision not available from the text.
 
 ##Vocabulary
 

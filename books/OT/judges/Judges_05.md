@@ -179,9 +179,16 @@ when it rises in its strength.
 
 And the land had rest forty years.
 </p>
-##Notes
-
-v02: The Hebrew phrase translated “leaders let their hair flow” is difficult and may refer to leaders leading or people freely offering themselves.
+## Notes
+v02: The Hebrew phrase translated “leaders let their hair flow” is difficult and may refer to leaders leading or people freely offering themselves. The song celebrates voluntary participation in deliverance.
+v04–05: The LORD is portrayed as marching from the south in imagery of storm and earthquake. The song links Israel’s present deliverance with the divine manifestation at Sinai.
+v07: “mother in Israel” — Deborah describes her leadership through maternal imagery without reducing her role to a private domestic sphere.
+v08: “They chose new gods” — The line links idolatry with vulnerability to war, continuing Judges’ theological pattern.
+v15–17: The tribes are evaluated according to whether they joined the conflict. Reuben’s inward deliberation contrasts with the decisive action of Zebulun and Naphtali.
+v20: “the stars fought” — Cosmic imagery presents the battle as extending beyond human military action. The poem does not separate weather, providence, and heavenly warfare into modern categories.
+v23: Meroz is cursed for refusing to participate. The location is uncertain.
+v24–27: Jael’s violent act is celebrated within the victory song. The poem does not soften the brutality of ancient warfare.
+v30: The anticipated plunder includes captive women described as war spoils. The song exposes the expectations of Sisera’s household rather than endorsing such treatment.
 
 ##Vocabulary
 

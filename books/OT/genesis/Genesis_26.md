@@ -72,7 +72,19 @@ v33: He called it Shibah. Therefore the name of the city is Beersheba to this da
 v34: When Esau was forty years old, he took Judith the daughter of Beeri the Hittite as wife, and Basemath the daughter of Elon the Hittite.
 v35: And they made life bitter for Isaac and Rebekah.
 </p>
-##Notes
+## Notes
+v1–5: The promises given to Abraham are reaffirmed to Isaac. The covenant continues through generations rather than beginning anew.  
+v2: Unlike Abraham, Isaac is specifically instructed not to go to Egypt during famine.  
+v7–11: Isaac repeats his father's deception concerning his wife. The narrative highlights both continuity and weakness within the covenant family.  
+v12–14: Isaac's prosperity is explicitly attributed to the LORD's blessing rather than agricultural skill alone.  
+v15–22: The conflict over wells reflects the importance of water, land, and survival in the region.  
+v20–22: Isaac responds to repeated disputes by moving rather than escalating the conflict.  
+v22: Rehoboth marks a turning point where contention gives way to space and fruitfulness.  
+v24: God's reassurance echoes earlier covenant language: presence, blessing, and offspring.  
+v25: Isaac responds to divine appearance with worship, settlement, and continued work.  
+v28–29: Even those outside the covenant family recognize the LORD's blessing upon Isaac.  
+v30–31: A shared meal seals the peaceful relationship between Isaac and Abimelech.  
+v34–35: The chapter closes with Esau's marriages, introducing tensions that will continue in the family narrative.  
 
 ##Vocabulary
 

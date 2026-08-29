@@ -102,11 +102,19 @@ v30: That very night Belshazzar the Chaldean king was killed.
 
 v31: And Darius the Mede received the kingdom, being about sixty-two years old.
 </p>
-##Notes
-
+## Notes
+v01: Belshazzar was historically a son of Nabonidus, the last Babylonian king, and acted as coregent in Babylon. Biblical Aramaic uses “father” and “son” more broadly for dynastic or ancestral relationship, and Nebuchadnezzar need not be Belshazzar’s biological father.
+v02–04: The offense is not merely drinking but deliberate use of Jerusalem’s sacred vessels while praising manufactured gods.
+v05: The writing appears publicly on palace plaster near the lampstand, turning the banquet hall itself into a place of divine judgment.
+v07: “third in the kingdom” fits Belshazzar’s position under Nabonidus: the promised rank may be third after Nabonidus and Belshazzar, though the text itself does not explain the hierarchy.
+v10: “the queen” likely refers to a queen mother or senior royal woman, since Belshazzar’s wives and concubines are already present at the feast.
 v12: “solving of difficulties” is literally language of untying knots, an image for resolving perplexing problems.
-
+v17: Daniel’s refusal of gifts distinguishes revelation from purchased court service, even though he later receives the honors the king commands.
+v18–21: Daniel interprets Nebuchadnezzar’s earlier humiliation as a lesson Belshazzar should already know.
+v22: Belshazzar’s guilt is heightened by knowledge: “though you knew all this.”
+v23: Daniel contrasts lifeless idols with “the God in whose hand is your breath,” making dependence upon God immediate and bodily.
 v25–28: The written words are forms of Aramaic monetary/weight terms and simultaneously support verbal wordplay: numbered, weighed, and divided. “Parsin” is plural; “Peres” in the interpretation is singular and also sounds like “Persia.”
+v31: “Darius the Mede” is not securely identified in surviving external records. Proposed identifications vary. TSW preserves Daniel’s designation without harmonizing it with a reconstructed chronology.
 
 ##Vocabulary
 

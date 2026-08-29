@@ -85,15 +85,15 @@ for I shall again praise God,
 the saving help of my face
 and my God.
 </p>
-##Notes
-
-Superscription: “Maskil” — The precise function of the Hebrew term is uncertain. It may indicate a musical, literary, or instructional designation.
-
-Superscription: “sons of Korah” — The designation associates the psalm with a Levitical family known elsewhere for liturgical service.
-
-v05: “the saving help of God’s face” — The Hebrew wording differs slightly from the refrain in v11.
-
-v11: The repeated refrain does not eliminate the psalmist’s distress.
+## Notes
+v01–02: “longs … thirsts” — Physical need for water becomes the controlling image for longing for God. The metaphor is allowed to retain its bodily force.
+v02: “appear before the face of God” — The expression is associated with coming into divine presence, particularly in worship. The concrete language of God’s “face” is retained.
+v04: “leading them in procession” — The Hebrew verb is rare and difficult. The context suggests movement with a festival crowd toward the house of God.
+v05: “the saving help of God’s face” — The Hebrew wording differs slightly from the refrain in v11. The translation preserves that difference rather than harmonizing the two refrains.
+v06: “Mount Mizar” — The location is uncertain. The name is retained without identifying it with a known site.
+v07: “Deep calls to deep” — The language moves from thirst to overwhelming water. The psalmist who longed for streams now experiences the imagery of waters passing over them.
+v10: “As with a crushing in my bones” — The Hebrew construction is difficult and intensely physical. The translation preserves the image of inward bodily injury produced by the enemies’ reproach.
+v11: The repeated refrain does not eliminate the psalmist’s distress. Hope and turmoil remain together at the conclusion of the psalm.
 
 ##Vocabulary
 

@@ -86,15 +86,22 @@ v24: But the king said to Araunah, “No, but I will surely buy it from you for 
 
 v25: David built there an altar to the LORD and offered burnt offerings and offerings of well-being. Then the LORD was entreated for the land, and the plague was restrained from Israel.
 </p>
-##Notes
-
+## Notes
+v01: The chapter begins by saying the LORD incited David to count Israel, while 1 Chronicles 21:1 says an adversary/Satan stood against Israel and incited David. The two books frame the same event differently. TSW preserves Samuel’s wording.
+v02: The census focuses on military-age population, as shown by the final count of men who draw the sword.
+v03: Joab, often morally severe elsewhere, recognizes danger in the king’s desire to count the people and attempts to dissuade him.
+v06: “Tahtim-Hodshi” is a difficult place-name and may reflect a textual problem. TSW transliterates the Masoretic form.
 v06: “Tahtim-Hodshi” is a difficult place-name and may reflect a textual problem. The Masoretic form is transliterated.
-
-v10: “David’s heart struck him” is an idiom of inward conviction.
-
-v13: The Masoretic Text reads seven years of famine, while 1 Chronicles 21:12 and some ancient witnesses read three years, creating a three-three-three pattern.
-
-v23: The Hebrew can also be read “All these Araunah the king gives to the king,” which has led some to suggest Araunah was a local Jebusite ruler or that “king” is a textual intrusion.
+v09: The numbers differ from 1 Chronicles 21:5, which reports 1,100,000 for Israel and 470,000 for Judah. TSW preserves Samuel’s figures.
+v10: “David’s heart struck him” is an idiom of inward conviction. The narrative does not state precisely what made the census sinful—possible explanations include royal pride, military self-reliance, or failure to follow census law.
+v13: The Masoretic Text reads seven years of famine, while 1 Chronicles 21:12 and some ancient witnesses read three years, creating a three-three-three pattern. TSW follows the Masoretic seven.
+v14: David chooses divine judgment rather than human enemies because he trusts the LORD’s great compassion even while facing punishment.
+v16: The LORD “relents” at Jerusalem, limiting the plague before David’s altar is built. Divine mercy precedes David’s sacrificial response.
+v17: David identifies himself as guilty and the people as sheep, taking responsibility for the consequences of his royal decision.
+v18: Araunah is a Jebusite whose threshing floor becomes the location of the plague-ending altar. 1 Chronicles 22:1 later connects this site with the future temple.
+v23: The Hebrew can also be read “All these Araunah the king gives to the king,” which has led some to suggest Araunah was a local Jebusite ruler or that “king” is a textual intrusion. TSW follows the simpler address to David.
+v24: 1 Chronicles 21:25 reports six hundred shekels of gold for the site, while Samuel reports fifty shekels of silver for threshing floor and oxen. The accounts may describe different scopes of purchase, but TSW does not harmonize them.
+v25: The book closes with the LORD being entreated for the land and the plague restrained, echoing 21:14 and ending David’s story with altar, sacrifice, and mercy.
 
 ##Vocabulary
 

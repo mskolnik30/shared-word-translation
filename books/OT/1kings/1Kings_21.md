@@ -75,7 +75,13 @@ v28: Then the word of the LORD came to Elijah the Tishbite, saying,
 
 v29: “Have you seen how Ahab has humbled himself before me? Because he has humbled himself before me, I will not bring the disaster in his days; in the days of his son I will bring the disaster upon his house.”
 </p>
-##Notes
+## Notes
+v3–29: - **3. “The inheritance of my ancestors”:** Naboth’s refusal is not merely a personal attachment to property. The vineyard is an ancestral inheritance, language that evokes Israel’s received land and the responsibility to preserve it within the family.  
+- **10, 13. “Cursed God and the king”:** The Hebrew verb ordinarily means “blessed,” but here it functions as a reverential euphemism for cursing. Jezebel’s scheme turns a capital accusation against God and king into a weapon for taking Naboth’s land.  
+- **12. “At the head of the people”:** Naboth is given a prominent public position, apparently as part of the staged proceeding. The public fast and assembly lend religious and legal appearance to a false accusation.  
+- **19. “Have you murdered and also taken possession?”:** The question joins Naboth’s death and Ahab’s acquisition of the vineyard without explaining every degree of Ahab’s direct involvement. The prophetic charge nevertheless holds the king accountable for both murder and seizure.  
+- **21. “Whether bound or free”:** This difficult pair of terms is a conventional expression for the complete removal of a household’s male line. Its precise social distinctions are uncertain, but its force is comprehensive.  
+- **27–29. Ahab’s humbling:** Ahab’s acts of mourning and self-abasement lead to a postponement of disaster, not to the cancellation of the judgment announced against his house. The passage holds divine judgment and divine responsiveness together.  
 
 ##Vocabulary
 

@@ -76,7 +76,21 @@ new as well as old,
 which I have stored up for you,
 my beloved.
 </p>
-##Notes
+## Notes
+v1–5: The beloved's praise begins at the feet and moves upward, celebrating the bride's beauty as a unified whole.
+v1: “Noble daughter” expresses dignity and honor as well as affection.
+v2–4: Images of wine, wheat, lilies, ivory, and pools communicate abundance, beauty, and vitality.
+v4: Heshbon and Lebanon provide geographic imagery associated with strength, beauty, and prominence.
+v5: Carmel was renowned for its beauty and elevation, making it a fitting comparison.
+v5: The beloved is portrayed as captivated by the bride's beauty.
+v6: The praise culminates in delight not merely in appearance but in the person as a whole.
+v7–9: The palm tree imagery emphasizes fruitfulness, grace, and delight.
+v9: The imagery remains poetic and celebratory, expressing mutual affection within the relationship.
+v10: The bride's declaration parallels earlier statements of mutual belonging while emphasizing the beloved's desire for her.
+v11–13: The bride now takes the initiative, inviting the beloved into a setting of beauty, fruitfulness, and intimacy.
+v12: Vineyards and blossoms symbolize flourishing love and renewed delight.
+v13: Mandrakes were traditionally associated with love and fertility.
+v13: The chapter ends with the bride offering the treasures she has reserved for her beloved.
 
 ##Vocabulary
 

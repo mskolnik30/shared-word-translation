@@ -66,7 +66,16 @@ v12: My foot stands on level ground;
 
 in the assembly I will bless the LORD.
 </p>
-##Notes
+## Notes
+v1: “Vindicate” frames the psalm as a legal appeal; integrity is presented as consistent conduct, not isolated action.
+v2: The speaker invites examination—inner life (heart and mind) is subject to divine testing.
+v3: Ethical life is anchored in ḥesed and truth; perception (“before my eyes”) shapes behavior.
+v4–5: Refusal of association defines identity; “sit” signals settled belonging.
+v6–7: Ritual purity (washing hands) corresponds to public proclamation—worship is both enacted and voiced.
+v8: Love for the sanctuary reflects attachment to divine presence rather than structure alone.
+v9–10: Judgment imagery (“sweep away”) contrasts the fate of the speaker with that of the corrupt.
+v11: Integrity is maintained alongside dependence—redemption and grace are still required.
+v12: Stability (“level ground”) culminates in communal praise.
 
 ##Vocabulary
 

@@ -106,7 +106,13 @@ v52: All the gold of the contribution that they contributed to the LORD, from th
 v53: The men of war had each taken plunder for themselves.
 v54: Moses and Eleazar the priest took the gold from the commanders of thousands and hundreds and brought it into the Tent of Meeting as a remembrance for the Israelites before the LORD.
 </p>
-##Notes
+## Notes
+v02: The campaign is explicitly framed as vengeance for the events at Peor before Moses’ death. The narrative’s own explanation should not be generalized beyond this commanded setting.
+v16: The chapter attributes the Peor strategy to Balaam, supplying information not narrated explicitly in Numbers 22–24.
+v17–18: The commands concerning captives are among the most severe texts in Numbers. TSW renders them directly and does not soften the categories or supply a moral explanation absent from the text.
+v19–24: Victory does not eliminate corpse impurity. Warriors, captives, clothing, and objects all pass through purification before reentering ordinary camp life.
+v27–30: The plunder is divided between combatants and congregation, and each share contributes a different proportion to priestly or Levitical service.
+v49: The officers’ offering responds to the report that not one Israelite warrior is missing, turning survival into a memorial before the LORD.
 
 ##Vocabulary
 

@@ -214,9 +214,14 @@ with your hands on your head;
 for the LORD has rejected those in whom you trust,
 and you will not prosper through them.
 </p>
-##Notes
-
-v20: The Hebrew textual tradition preserves two readings for Israel’s declaration.
+## Notes
+v2: - **v2:** Jerusalem is addressed as a woman, and the memory of her “youth” and “bridal days” frames the covenant relationship in marital imagery. The tenderness of this opening intensifies the later accusations of betrayal.  
+v5: - **v5:** The Hebrew plays on *hebel*, “emptiness” or “vapor”: Israel went after what was empty and “became empty.” The indictment concerns not only false worship but the deforming effect of becoming like what one pursues.  
+v13: - **v13:** The two evils are placed in deliberate contrast: abandoning the ever-flowing source of living water and laboring to make cracked reservoirs that retain none. The image joins idolatry, self-reliance, and loss of life.  
+v20: - **v20:** The Hebrew textual tradition preserves two readings for Israel’s declaration. The reading translated here, “I will not serve,” fits the imagery of a broken yoke and Israel’s refusal of covenant service.  
+v24: - **v24:** The imagery is intentionally severe. Jerusalem is compared to a wild female donkey in heat, beyond restraint in her pursuit. The metaphor exposes the compulsive quality of her turning after other gods and powers.  
+v34: - **v34:** “On your skirts” evokes clothing stained with blood. The following line denies that the poor were killed while breaking in; their blood is not the result of a justified defense.  
+v37: - **v37:** Hands on the head are a gesture of grief, shame, or captivity. The political powers Judah trusts will not provide the security she seeks.  
 
 ##Vocabulary
 

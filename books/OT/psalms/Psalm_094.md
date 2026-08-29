@@ -66,7 +66,9 @@ v23: God will bring their iniquity back upon them
 and destroy them by their own evil;
 the LORD our God will destroy them.
 </p>
-##Notes
+## Notes
+v10: The final clause is elliptical in Hebrew: “the One who teaches humankind—knowledge.” The question “does God not know?” makes explicit the rhetorical force without adding a new theological claim.
+v20: “Throne of destruction” can also be understood as a corrupt or ruinous seat of rule. The following line identifies its practice: manufacturing injustice through law.
 
 ##Vocabulary
 

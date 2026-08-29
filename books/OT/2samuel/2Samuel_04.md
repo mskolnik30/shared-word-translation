@@ -44,11 +44,17 @@ v11: How much more when wicked men have killed a righteous man in his own house 
 
 v12: Then David commanded the young men, and they killed them and cut off their hands and feet and hung them beside the pool at Hebron. But they took the head of Ish-Bosheth and buried it in the grave of Abner at Hebron.
 </p>
-##Notes
-
-v01: “His hands grew weak” is an idiom for loss of courage and capacity.
-
-v06–07: The Masoretic text contains some repetition and difficulty in describing the assassins’ entry.
+## Notes
+v01: With Abner dead, Ish-Bosheth’s political power collapses immediately. “His hands grew weak” is an idiom for loss of courage and capacity.
+v02: Rechab and Baanah are Benjaminites and therefore members of the same tribe as Saul’s house, making their assassination an act of internal betrayal.
+v03: “to this day” reflects the narrator’s later perspective on the continuing Beerothite community at Gittaim.
+v04: Mephibosheth is introduced before Ish-Bosheth’s death closes Saul’s immediate kingship. His presence preserves another branch of Jonathan’s house for later narrative significance.
+v04: “crippled in his feet” describes the result of a childhood injury without moral judgment. The narrative later presents Mephibosheth as the recipient of David’s covenant loyalty.
+v06–07: The Masoretic text contains some repetition and difficulty in describing the assassins’ entry. TSW preserves both the apparent wheat pretext and the bedroom killing without trying to reconstruct a missing line.
+v08: Rechab and Baanah interpret murder as the LORD’s vengeance and expect David to reward them.
+v09: David’s response locates his deliverance in the LORD rather than in assassination of rivals.
+v11: David calls Ish-Bosheth “a righteous man” in the immediate context of being murdered defenseless in his own bed. The statement does not necessarily evaluate every aspect of Ish-Bosheth’s reign.
+v12: The mutilation and public hanging of the assassins’ bodies are punitive display practices from the ancient royal context. TSW reports them without treating them as a model for later justice.
 
 ##Vocabulary
 

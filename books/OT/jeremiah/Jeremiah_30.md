@@ -166,9 +166,14 @@ and established the purposes of his heart.
 In the latter days
 you will understand this.
 </p>
-##Notes
-
-v21: “pledged his heart” is a difficult Hebrew idiom, literally involving becoming surety for one’s heart or daring to draw near.
+## Notes
+v02: The command to write gathers the restoration promises into durable written testimony rather than leaving them only as spoken oracles.
+v06: Male bodies are described with the posture and pain of childbirth. The unexpected image conveys universal terror rather than making a claim about literal childbirth.
+v09: “David their king” can refer to renewed Davidic kingship rather than simply to the historical David returned from the dead. TSW preserves the name without resolving the figure more narrowly.
+v11: Restoration does not erase discipline. The LORD promises not to destroy Jacob completely while also refusing to call guilt innocent.
+v12–17: The same wound first declared incurable is later promised healing. The reversal depends on divine action rather than on a change in the wound’s human prognosis.
+v21: “pledged his heart” is a difficult Hebrew idiom, literally involving becoming surety for one’s heart or daring to draw near. TSW retains the language of deliberate commitment to approach God.
+v23–24: The storm oracle closely resembles Jeremiah 23:19–20, but here it stands after restoration promises. TSW preserves the repetition and placement rather than harmonizing the contexts.
 
 ##Vocabulary
 

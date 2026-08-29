@@ -68,7 +68,17 @@ v19: The officer had answered the man of God and said, “Look, even if the LORD
 
 v20: And so it happened to him, for the people trampled him in the gate, and he died.
 </p>
-##Notes
+## Notes
+v01: Elisha’s price prediction describes a sudden reversal from siege famine to ordinary abundance within one day.
+v02: The officer’s “windows in the heavens” echoes flood imagery and mocks the possibility that even overwhelming divine provision could produce the promised change.
+v03: People with *tsara'at* lived outside normal city life and therefore occupy the liminal space between besieged Samaria and the enemy camp.
+v04: Their decision is not heroic at first; every available option appears to end in death.
+v06: The Arameans hear a supernatural military sound and interpret it through plausible regional politics involving Hittite and Egyptian powers.
+v09: The first discoverers of abundance recognize that withholding life-saving news would create guilt. Their “good news” moves from private gain to public rescue.
+v12: The king’s suspicion is understandable militarily but shows how famine has made promised deliverance difficult to trust.
+v13: The Hebrew description of the surviving horses is repetitive and textually awkward. The point is that nearly everything is already lost, so risking a few animals costs little.
+v16: The exact prices fulfill the prophetic word, emphasizing the reliability of the LORD’s speech.
+v17–20: The officer sees the abundance but dies before eating it, precisely fulfilling Elisha’s warning.
 
 ##Vocabulary
 

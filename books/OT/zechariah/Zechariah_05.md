@@ -44,10 +44,16 @@ v10: Then I said to the angel who was speaking with me, “Where are they taking
 
 v11: And he said to me, “To build a house for it in the land of Shinar. When it is prepared, it will be set there on its base.”
 </p>
-##Notes
-
+## Notes
+v1–4: The flying scroll carries a curse against theft and false swearing. Judgment is pictured not merely as an announcement but as something that enters the offender’s house and consumes it.  
+v2: “twenty cubits … ten cubits” — The dimensions are unusually specific. The vision does not explain their symbolic significance.  
+v3: “one side … the other side” — The Hebrew is compact and may refer to the two sides of the scroll. The translation preserves the image without specifying how the writing was arranged.  
+v6: “This is their appearance” — The Masoretic Hebrew literally refers to “their eye” throughout the land. Ancient witnesses reflect a different reading associated with “iniquity.” The main text preserves the difficult Masoretic wording in an intelligible form without silently replacing it.  
+v6: “ephah” — An ephah is a dry-measure container. In the vision it becomes large enough to contain a woman, indicating that the imagery is symbolic rather than ordinary description.  
+v8: “This is Wickedness” — Wickedness is personified as a woman within the measuring container. The vision does not identify the woman as a particular historical person.  
+v9: “wings like the wings of a stork” — The women are described through striking visionary imagery. The text does not explain whether the stork imagery carries significance beyond their ability to carry the ephah.  
+v11: “Shinar” — An ancient biblical name associated with Mesopotamia and Babylon. Wickedness is carried away from the land and given a dwelling there.  
 v03: “one side … the other side” — The Hebrew is compact and may refer to the two sides of the scroll.
-
 v06: “This is their appearance” — The Masoretic Hebrew literally refers to “their eye” throughout the land. Ancient witnesses reflect a different reading associated with “iniquity.” The main text preserves the difficult Masoretic wording in an intelligible form without silently replacing it.
 
 ##Vocabulary

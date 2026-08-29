@@ -49,9 +49,12 @@ v14: But the LORD said to Moses, “If her father had merely spit in her face, w
 v15: So Miriam was shut outside the camp for seven days, and the people did not set out until Miriam was brought back.
 v16: Afterward the people set out from Hazeroth and camped in the wilderness of Paran.
 </p>
-##Notes
-
-v03: “humble” — The Hebrew can mean humble, afflicted, or meek.
+## Notes
+v01: “Cushite woman” — Cush normally refers to a region south of Egypt, but the woman is not otherwise identified. The text does not explain whether this reference concerns Zipporah or another wife.
+v02: Miriam and Aaron’s complaint begins with Moses’ marriage but quickly becomes a claim about prophetic authority. The LORD’s response addresses the second issue directly.
+v03: “humble” — The Hebrew can mean humble, afflicted, or meek. The statement sharply contrasts Moses’ posture with the challenge made against him.
+v06–08: The passage does not deny genuine prophecy through visions and dreams. It distinguishes Moses by the directness and faithfulness of his relationship within the LORD’s house.
+v10: The traditional rendering “leprous” can misleadingly suggest modern Hansen’s disease. The Hebrew term covers a range of serious skin conditions, so TSW uses “diseased.”
 
 ##Vocabulary
 

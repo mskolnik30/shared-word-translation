@@ -127,11 +127,17 @@ v22: unless you have utterly rejected us
 and are exceedingly angry
 with us.
 </p>
-##Notes
-
+## Notes
+v01: The chapter begins with a direct imperative to the LORD: “Remember.” The community asks not merely for recollection but for divine attention to its present humiliation.
+v02–04: Inheritance, houses, water, and wood—ordinary goods associated with life in the land—are now controlled by others or available only at a cost.
+v06: “gave the hand” — The idiom can describe submission, agreement, or appeal for support. Egypt and Assyria represent dependence upon foreign powers for basic survival.
+v07: The community distinguishes the sins of previous generations from its own experience while still confessing that it bears their consequences. The verse leaves unresolved the tension between inherited consequence and personal responsibility.
+v09: “the sword in the wilderness” — The expression is difficult and may refer to armed danger encountered while seeking food outside protected settlements.
+v11: The Hebrew verb describes sexual violation and humiliation. The translation states the violence directly without adding details not present in the text.
+v12: The precise manner in which the princes were “hung” is uncertain. The verse pairs their degradation with the refusal to honor elders.
+v16: Corporate confession appears without explaining every individual cause of the catastrophe: “we have sinned.”
+v19–22: The prayer sets the permanence of the LORD’s throne against the community’s experience of abandonment. The final verse remains unresolved, ending the book in tension rather than easy reassurance.
 v01–22: Chapter 5 contains twenty-two verses, matching the number of letters in the Hebrew alphabet, but unlike chapters 1–4 it does not follow an alphabetic acrostic.
-
-v06: “gave the hand” — The idiom can describe submission, agreement, or appeal for support.
 
 ##Vocabulary
 

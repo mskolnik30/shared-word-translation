@@ -50,9 +50,12 @@ v14: He said, “No, but I am commander of the army of the LORD. Now I have come
 
 v15: The commander of the LORD’s army said to Joshua, “Remove your sandal from your foot, for the place where you stand is holy.” And Joshua did so.
 </p>
-##Notes
-
+## Notes
+v02: “again a second time” — This does not imply that individuals were circumcised twice. The generation born in the wilderness had not received circumcision, so the covenantal practice is renewed for Israel as a people.
 v09: “Gilgal” — The name is linked by wordplay with the Hebrew verb “to roll.” The LORD “rolls away” the reproach of Egypt.
+v12: The ending of manna marks a transition from wilderness provision to eating from the land itself.
+v13–14: Joshua’s question assumes the figure must belong to one side or the other. The answer “No” refuses that framing and places Joshua under the LORD’s command rather than making the LORD’s commander an extension of Israel’s agenda.
+v15: The command to remove the sandal echoes Moses at the burning bush and marks the encounter as holy ground.
 
 ##Vocabulary
 

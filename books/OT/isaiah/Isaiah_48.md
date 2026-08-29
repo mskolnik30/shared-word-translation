@@ -68,7 +68,11 @@ he caused the waters to flow out of the rock for them;
 he split the rock also, and the waters gushed out.
 v22: There is no peace, says the LORD, to the wicked.
 </p>
-##Notes
+## Notes
+v10: “refined … not as silver” — Israel’s affliction is compared with refining, but the comparison is qualified; suffering is not reduced to a simple purification formula.  
+v17: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v2: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v20: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
 ##Vocabulary
 

@@ -44,7 +44,12 @@ v07: Oh, that salvation for Israel would come out of Zion!
 When the LORD restores the fortunes of his people,
 let Jacob rejoice, let Israel be glad.
 </p>
-##Notes
+## Notes
+v1: Denial of God is ethical, not merely intellectual.
+v2–3: Universal corruption is observed from divine perspective.
+v4: Exploitation is normalized (“eat…as bread”).
+v5–6: God’s presence distinguishes the righteous despite oppression.
+v7: Final hope is communal restoration.
 
 ##Vocabulary
 

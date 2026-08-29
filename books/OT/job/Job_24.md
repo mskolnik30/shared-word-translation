@@ -106,7 +106,13 @@ they are cut off like the heads of grain.
 v25: If it is not so, who will prove me a liar
 and make my word nothing?”
 </p>
-##Notes
+## Notes
+v01: Job asks why divine judgment is not visible in predictable “times.” The question concerns the apparent delay of justice, not ignorance of God’s sovereignty.
+v02–12: Job gives concrete examples of exploitation: land theft, seizure of animals, predatory lending, homelessness, hungry labor, and workers producing oil and wine they cannot enjoy.
+v12: The final line is difficult. Job’s point is that cries of suffering rise while God appears not to intervene or treat the injustice as an immediately punishable outrage.
+v13–17: Murderer, adulterer, and thief structure their lives around darkness, yet the imagery also shows a moral inversion in which they experience daylight as threat.
+v18–24: This section is among the most difficult in the book syntactically. It may continue Job’s description of wicked prosperity while acknowledging eventual death, or it may voice the traditional judgment his friends expect. TSW preserves the received clauses without over-resolving their speaker or logic.
+v25: Job closes by challenging anyone to falsify his observation of the world.
 
 ##Vocabulary
 

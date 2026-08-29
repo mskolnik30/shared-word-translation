@@ -35,8 +35,12 @@ v17: Look: what I have seen to be good and fitting is to eat and drink and see g
 v18: Also, every person to whom God has given wealth and possessions, and whom he has enabled to eat from them, to carry their portion, and to rejoice in their labor—this is God’s gift.
 v19: For they will not remember much the days of their life, because God answers with the joy of their heart.
 </p>
-##Notes
-
+## Notes
+v5: **5.5 — “the messenger”:** The Hebrew *malʾakh* can mean an angelic messenger or a human envoy. In this setting of vows, it may refer to an official connected with worship, but the text does not specify.  
+v6: **5.6 — “vapors”:** The word translated “vapors” is *hevel*, Ecclesiastes’ recurring image for what is fleeting, insubstantial, or elusive. Here it links excessive dreams and speech with the call to fear God.  
+v7: **5.7 — “one high official watches over another”:** The saying describes a layered hierarchy of power. It can explain why injustice persists, while also leaving open whether the higher oversight is merely bureaucratic or ultimately divine.  
+v8: **5.8 — “a king is served by a field”:** This compact and difficult line stresses the land’s basic importance. Even royal power depends upon cultivated ground and those who work it.  
+v19: **5.19 — “God answers with the joy of their heart”:** The verb may suggest that God answers, occupies, or keeps a person engaged through joy. The line does not deny life’s brevity; it presents gladness as God’s response within it.  
 v05: 5 — “the messenger”: The Hebrew *malʾakh* can mean an angelic messenger or a human envoy. In this setting of vows, it may refer to an official connected with worship, but the text does not specify.
 
 ##Vocabulary

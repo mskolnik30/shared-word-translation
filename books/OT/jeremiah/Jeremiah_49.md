@@ -256,9 +256,18 @@ that I will restore
 the fortunes of Elam,”
 says the LORD.
 </p>
-##Notes
-
-v03: The Hebrew place-name “Ai” is unexpected in an Ammonite oracle and may reflect a site now unknown or a textual difficulty.
+## Notes
+v01: The question concerning Gad assumes that Ammon has occupied Israelite territory east of the Jordan. Milcom is the deity associated with Ammon.
+v03: The Hebrew place-name “Ai” is unexpected in an Ammonite oracle and may reflect a site now unknown or a textual difficulty. TSW retains the received reading.
+v06: The Ammon oracle ends with restoration after judgment, a pattern also found in the Moab and Elam oracles.
+v07: Teman was associated with Edomite wisdom. The oracle begins by asking whether Edom’s renowned counsel has failed.
+v08–22: Much of the Edom material closely parallels Obadiah. TSW does not harmonize wording between the books but preserves Jeremiah’s received form.
+v11: The brief promise concerning orphans and widows stands unexpectedly within the severe Edom oracle and is preserved without qualification.
+v19: The lion-from-the-Jordan image is difficult in its pronouns and movements. The central claim is clear: no shepherd or ruler can stand before the LORD’s appointed action.
+v23–27: Damascus represents Aramean power, with Hamath and Arpad drawn into the same collapse.
+v28: Kedar and Hazor here refer to Arabian peoples and settlements rather than the Canaanite Hazor known from Joshua.
+v31: The target is portrayed as a community without fortified gates, living in apparent security and isolation.
+v34–39: Elam lay east of Babylon. The oracle begins with scattering to every direction but ends with restoration “in the latter days.”
 
 ##Vocabulary
 

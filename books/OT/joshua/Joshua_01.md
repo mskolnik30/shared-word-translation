@@ -56,7 +56,11 @@ v17: Just as we listened to Moses in everything, so we will listen to you. Only 
 
 v18: Whoever rebels against your command and does not listen to your words in all that you command shall be put to death. Only be strong and courageous.”
 </p>
-##Notes
+## Notes
+v01: Joshua is introduced in continuity with Moses but not as Moses’ replacement in every respect. He is “Moses’ assistant,” while Moses remains uniquely named “servant of the LORD.”
+v03: “have given” — The land is spoken of as already given even though Israel has not yet crossed the Jordan. Divine promise and human possession are held together.
+v07–08: Joshua’s success is tied not primarily to military skill but to sustained attention to the instruction given through Moses.
+v13–15: “rest” includes settled possession and security in the land. The eastern tribes have received their territory but remain obligated to assist the rest of Israel.
 
 ##Vocabulary
 

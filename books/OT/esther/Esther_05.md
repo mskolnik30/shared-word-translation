@@ -48,9 +48,15 @@ v13: Yet all this is worth nothing to me whenever I see Mordecai the Judean sitt
 <p>
 v14: Then Zeresh his wife and all his friends said to him, “Let a tree fifty cubits high be made, and in the morning say to the king that Mordecai should be hanged on it. Then go joyfully with the king to the feast.” The matter was good in Haman’s eyes, and he had the tree made.
 </p>
-##Notes
-
+## Notes
+v01: Esther’s royal clothing marks a transition from private fasting to public action. The text does not describe additional ritual preparation.
+v02: The gold scepter resolves the immediate danger Esther named in chapter 4. Her acceptance is expressed through the repeated theme of “favor.”
+v03: “even to half the kingdom” is a conventional royal expression of generosity, not a formal promise to transfer half the empire.
+v04–08: Esther delays her full request through two feasts. The text does not explain her strategy directly; the narrative allows timing, risk, and royal mood to unfold.
+v09: Haman’s emotional reversal is immediate. His joy in exceptional royal access is eclipsed by Mordecai’s refusal to show fear or honor.
+v11: Haman’s speech is self-focused: wealth, sons, promotion, rank, and exclusive access to Esther. The list exposes the scale of what he possesses before he declares it all worthless because of one man.
 v14: The Hebrew *ets* means “tree” or “wood” and can describe the structure used for execution or display. “Hanged” may include impalement or suspension; exact Persian practice is uncertain.
+v14: Fifty cubits is extraordinarily high, intensifying the public and excessive character of Haman’s intended humiliation of Mordecai.
 
 ##Vocabulary
 

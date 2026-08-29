@@ -42,7 +42,17 @@ as a joyful mother of children.
 
 Praise the LORD.
 </p>
-##Notes
+## Notes
+v1: The call to praise is addressed to “servants,” situating worship within belonging and service.  
+v1–3: Repetition structures the opening, extending praise across time (“from this time forth”) and space (“from the rising…to its setting”).  
+v4: Divine transcendence is emphasized—“high above all nations”—without diminishing relation to them.  
+v5–6: The rhetorical question (“Who is like…”) affirms incomparability. God’s exaltation is paired with attentiveness.  
+v6: “Looks far down” preserves the distance implied in divine height while affirming awareness.  
+v7–8: Social reversal echoes broader biblical patterns. Elevation of the poor is not incidental but characteristic of God’s action.  
+v7: “Dust” and “ash heap” retain concrete imagery of humiliation and marginalization.  
+v8: Seating with princes signals restored status without redefining hierarchy.  
+v9: The barren woman motif reflects transformation of absence into fullness. The image remains personal rather than abstract.  
+v9: The psalm closes as it began—with praise—framing the entire movement as response.  
 
 ##Vocabulary
 

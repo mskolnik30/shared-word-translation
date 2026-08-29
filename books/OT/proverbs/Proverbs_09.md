@@ -92,11 +92,17 @@ that the dead are there,
 that her guests
 are in the depths of Sheol.
 </p>
-##Notes
-
+## Notes
+v01: “seven pillars” — Seven often conveys fullness or completeness, but the text does not explain the architectural or symbolic significance of the number.
+v02–05: Wisdom is portrayed as a host preparing a feast and openly inviting the inexperienced to eat. Wisdom is therefore not merely information to be acquired but nourishment into which the learner is invited.
 v04: “lacking sense” — The Hebrew literally says “lacking heart.” Because the heart includes judgment and discernment, the expression describes someone deficient in practical understanding.
-
-v10: “the Holy One” — The Hebrew form is plural in appearance and has been interpreted in more than one way.
+v06: “Leave behind simplicity” — The simple are not condemned as irredeemably foolish. Wisdom calls them to leave their present condition and enter the way of understanding.
+v07–09: A person’s response to correction reveals character. Wisdom is shown not by never requiring correction but by receiving it and becoming wiser.
+v10: “the Holy One” — The Hebrew form is plural in appearance and has been interpreted in more than one way. Within the parallelism with “the LORD,” TSW renders the phrase as a divine designation without attempting to explain the grammatical form.
+v12: Wisdom and scoffing ultimately return consequences upon the person who embraces them. The verse emphasizes personal responsibility without denying the communal effects of wisdom or folly.
+v13–18: Folly deliberately imitates Wisdom’s invitation. Both call from prominent places and address the simple, but their destinations are opposite.
+v17: “Stolen water is sweet” — Folly presents secrecy and transgression as increasing pleasure. The metaphor exposes attraction to what is desirable precisely because it is forbidden.
+v18: The invited guest sees a meal; the narrator reveals a house filled with the dead. Folly conceals the destination of the path she offers.
 
 ##Vocabulary
 

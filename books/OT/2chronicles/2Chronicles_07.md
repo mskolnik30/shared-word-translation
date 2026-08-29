@@ -73,7 +73,11 @@ v21: And this house, which was exalted, everyone passing by it will be appalled 
 
 v22: Then they will say, ‘Because they abandoned the LORD, the God of their ancestors, who brought them out from the land of Egypt, and they took hold of other gods and bowed down to them and served them. Therefore he brought all this evil upon them.’”
 </p>
-##Notes
+## Notes
+v01–03: Fire and glory mark divine acceptance of the temple in imagery recalling the tabernacle and earlier sacrificial scenes.
+v14: The famous promise is addressed specifically to “my people who are called by my name” within the covenant setting of temple, land, prayer, and repentance.
+v16: God’s “eyes and heart” being at the temple is relational language for attentive presence, not physical containment.
+v20–22: The same temple that signifies divine presence can become a public sign of covenant judgment if the people abandon the LORD.
 
 ##Vocabulary
 

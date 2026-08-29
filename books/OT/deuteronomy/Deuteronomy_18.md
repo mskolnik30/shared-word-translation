@@ -68,7 +68,17 @@ v21: “And if you say in your heart, ‘How shall we know the word that the LOR
 
 v22: when a prophet speaks in the name of the LORD and the thing does not happen or come to pass, that is a word the LORD has not spoken. The prophet has spoken it presumptuously. You shall not fear him.
 </p>
-##Notes
+## Notes
+v01–02: Levi’s lack of territorial inheritance is again interpreted as priestly vocation rather than deprivation: the LORD himself is their inheritance.
+v03: The priestly portions listed here differ in detail from other Torah texts. TSW preserves Deuteronomy’s own allocation rather than harmonizing it.
+v06–08: A Levite from a local town may come freely to the chosen sanctuary and serve on equal terms with other Levites there.
+v08: The final clause is difficult and may refer to inherited property or family assets. TSW follows the common sense of ancestral property while noting the uncertainty.
+v10–11: Deuteronomy gathers a broad range of divinatory and necromantic practices under the category of detestable worship.
+v13: “blameless” means whole or undivided in covenant loyalty, not morally flawless in an abstract sense.
+v15–18: The promised prophet arises from Israel and continues Moses’ mediating role by speaking words placed in his mouth by the LORD.
+v19: The LORD personally holds accountable the one who refuses the true prophetic word.
+v20: The death penalty for false prophecy belongs to ancient Israel’s covenantal polity and should not be generalized into modern punishment for religious claims.
+v22: Fulfillment is one test of prophecy, but Deuteronomy 13 makes clear that even fulfilled signs cannot validate a message leading to other gods.
 
 ##Vocabulary
 

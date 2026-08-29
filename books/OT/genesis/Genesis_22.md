@@ -74,7 +74,16 @@ v23: (Bethuel fathered Rebekah.) These eight Milcah bore to Nahor, Abraham’s b
 
 v24: Moreover, his concubine, whose name was Reumah, bore Tebah, Gaham, Tahash, and Maacah.
 </p>
-##Notes
+## Notes
+v1: “Tested” frames the narrative explicitly; the event is not arbitrary but revelatory.  
+v2: “Your son, your only son, whom you love” intensifies the relational cost; the language echoes covenant promise.  
+v5: Abraham’s statement anticipates return, holding tension between obedience and trust.  
+v8: “God will provide” becomes the theological center of the passage.  
+v9: The binding (later termed the Aqedah) marks the climactic act of obedience.  
+v12: “Now I know that you fear God” defines obedience as reverent trust expressed in action.  
+v13: Substitution is introduced—a ram in place of the son.  
+v14: Naming the place interprets the event: provision belongs to the LORD.  
+v16–18: The oath reinforces covenant promises with heightened solemnity (“By myself I have sworn”).  
 
 ##Vocabulary
 

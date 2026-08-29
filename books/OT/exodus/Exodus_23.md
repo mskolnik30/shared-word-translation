@@ -104,9 +104,19 @@ v32: You shall make no covenant with them or with their gods.
 
 v33: They shall not live in your land, lest they cause you to sin against me, for if you serve their gods, it will surely become a snare to you.”
 </p>
-##Notes
-
-v28: “hornet” may refer to a literal stinging insect or function figuratively for terror and disruption.
+## Notes
+v01–03: Justice must resist both malicious accusation and social pressure. The poor are not to be oppressed, but neither may poverty itself become grounds for partial judgment.
+v04–05: Covenant justice reaches even into relationships of hostility. An enemy’s lost or burdened animal must still receive practical help.
+v09: Israel’s own experience as resident aliens is again made the basis for empathy: “you know the life” of the alien.
+v11: The seventh-year release of the land has ecological and social dimensions. The land rests, the poor eat, and wild animals receive what remains.
+v12: Sabbath rest explicitly includes working animals, servants, and resident aliens, extending rest beyond the household head.
+v14–17: The three pilgrimage festivals connect Israel’s worship to liberation, harvest, and ingathering.
+v19: “boil a young goat in its mother’s milk” is repeated elsewhere in the Torah. The immediate ritual or symbolic rationale is not explained in the text, so TSW preserves the prohibition without adding one.
+v20–21: The messenger carries unusual divine authority because the LORD’s “name is within him.” The text does not fully define the messenger’s identity.
+v28: “hornet” may refer to a literal stinging insect or function figuratively for terror and disruption. TSW retains the concrete image.
+v29–30: Conquest is explicitly gradual rather than instantaneous, with ecological consequences given as the reason.
+v31: “the River” refers to the Euphrates in this geographical formula.
+v32–33: The warning is theological as well as political: covenants with the peoples are dangerous because they lead toward service of their gods.
 
 ##Vocabulary
 

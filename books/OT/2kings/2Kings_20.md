@@ -70,9 +70,18 @@ v20: Now the rest of the acts of Hezekiah and all his might, and how he made the
 
 v21: Hezekiah lay down with his ancestors. Manasseh his son became king in his place.
 </p>
-##Notes
-
-v12: The Hebrew form here is Berodach-Baladan, with textual variation.
+## Notes
+v01: The command “put your house in order” concerns royal household and succession as Hezekiah faces death.
+v03: Hezekiah appeals to his faithful walk, consistent with the exceptionally positive royal evaluation in chapter 18. His prayer is not presented as a claim of sinless perfection.
+v04–06: The prophetic sentence changes before Isaiah has even left the palace complex, emphasizing divine responsiveness to prayer.
+v07: The fig cake functions as a physical treatment within a healing explicitly attributed to the LORD.
+v09–11: The “steps of Ahaz” may refer to a stairway, sundial-like structure, or another device for observing shadow. The text focuses on reversal of the shadow rather than the mechanism.
+v12: The Babylonian king is better known from Assyrian records as Merodach-Baladan. The Hebrew form here is Berodach-Baladan, with textual variation.
+v13: Hezekiah’s display may be diplomatic pride, alliance signaling, or simple hospitality. Isaiah’s response makes the exposed royal wealth prophetically significant.
+v17: Babylon, still distant and not yet Judah’s conqueror, becomes the announced destination of future temple and royal treasure.
+v18: “eunuchs” may mean castrated officials or palace servants more broadly. The prophecy emphasizes forced service in a foreign royal court.
+v19: Hezekiah’s response can sound selfish because he focuses on peace in his own lifetime, though it can also express submission to the LORD’s word. The narrative leaves the moral evaluation implicit.
+v20: Hezekiah’s waterworks are commonly associated with the tunnel bringing Gihon water into Jerusalem, known archaeologically from the Siloam Tunnel.
 
 ##Vocabulary
 

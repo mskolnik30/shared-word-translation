@@ -128,15 +128,16 @@ their little children will be dashed to pieces,
 and their pregnant women
 will be ripped open.
 </p>
-##Notes
-
-v02: The Hebrew phrase translated “those who sacrifice humans kiss calves” is notoriously difficult. It may refer to human sacrificers, people offering sacrifices, or worshipers kissing calf images.
-
+## Notes
+v01: Ephraim’s former prominence is contrasted with guilt through Baal. “Died” functions politically, spiritually, and rhetorically rather than requiring literal national nonexistence at that moment.
+v02: The Hebrew phrase translated “those who sacrifice humans kiss calves” is notoriously difficult. It may refer to human sacrificers, people offering sacrifices, or worshipers kissing calf images. TSW preserves the close connection among sacrifice, human beings, and calf-veneration without smoothing the difficulty away.
 v05: “burning heat” translates a rare wilderness term and may refer to drought, parched land, or intense thirst.
-
-v09: The Hebrew is compressed and can be read “It has destroyed you, Israel, that you are against me, against your help.”
-
-v14: The Hebrew can be read either as a promise to redeem from death or as rhetorical questions refusing redemption.
+v06: Satisfaction produces self-exaltation and forgetfulness, echoing Hosea’s repeated critique of prosperity detached from gratitude.
+v09: The Hebrew is compressed and can be read “It has destroyed you, Israel, that you are against me, against your help.” TSW follows the sense that Israel’s destruction is self-incurred while help remains in the LORD.
+v10–11: Kingship itself is judged through Israel’s demand and the instability of rulers. The language may look back to the origins of monarchy and also to the rapid succession of northern kings.
+v13: Ephraim is compared with a child who fails to emerge at the moment of birth, turning labor pain into an image of foolish refusal at a decisive moment.
+v14: The Hebrew can be read either as a promise to redeem from death or as rhetorical questions refusing redemption. The final line, “Compassion is hidden from my eyes,” pulls the verse toward judgment. TSW preserves the interrogative form rather than resolving the tension.
+v16: The closing violence is characteristic of ancient conquest language and is deliberately horrifying. TSW retains the text without expanding or softening it.
 
 ##Vocabulary
 

@@ -53,7 +53,11 @@ and I have created the waster to destroy.
 v17: No weapon that is formed against you will prosper;
 and every tongue that will rise against you in judgment you will condemn. This is the heritage of the servants of the LORD, and their righteousness which is of me, says the LORD.
 </p>
-##Notes
+## Notes
+v1: The barren woman becomes a figure of restored Zion. The prophetic image moves from shame and abandonment toward expansion, compassion, and covenant.  
+v5: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v5: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v17: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
 ##Vocabulary
 

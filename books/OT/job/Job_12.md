@@ -98,7 +98,13 @@ and makes them wander in a wasteland without a way.
 v25: They grope in darkness with no light,
 and he makes them wander like a drunken person.”
 </p>
-##Notes
+## Notes
+v02: Job’s sarcasm exposes the friends’ assumption that traditional wisdom belongs especially to them.
+v04: Job names himself “righteous and blameless,” echoing the narrator’s opening description. His complaint is that a person once known for answered prayer is now mocked.
+v06: Job again points to the observable prosperity of wrongdoers, challenging a simplistic claim that wickedness always produces immediate visible ruin.
+v07–10: Creation itself testifies to dependence upon divine power. Job can affirm God’s sovereignty while still contesting the friends’ interpretation of how that sovereignty operates.
+v09: “the hand of the LORD” — This is the only occurrence of the divine name YHWH in the poetic dialogue outside the prose framework, making the line especially notable.
+v16–25: Job describes divine sovereignty as destabilizing human hierarchies: counselors, judges, kings, priests, elders, nobles, and nations can all be overturned.
 
 ##Vocabulary
 

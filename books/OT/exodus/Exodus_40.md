@@ -106,7 +106,16 @@ v37: But if the cloud was not taken up, then they did not set out until the day 
 
 v38: For the cloud of the LORD was upon the dwelling by day, and fire was in it by night, in the sight of all the house of Israel throughout all their journeys.
 </p>
-##Notes
+## Notes
+v02: The dwelling is erected on the first day of the first month of the second year, placing sanctuary completion one year after the exodus calendar began.
+v09–15: The sanctuary, furnishings, altar, basin, Aaron, and Aaron’s sons are all consecrated. Holiness extends across space, objects, and persons.
+v16: “Moses did according to all that the LORD had commanded him” becomes the governing statement for the entire setup sequence.
+v20: “the testimony” refers to the covenant tablets placed inside the ark.
+v22–33: The repeated phrase “as the LORD had commanded Moses” demonstrates that the completed sanctuary corresponds to the revealed pattern and instructions.
+v33: “Moses completed the work” echoes creation-completion language and marks the end of the construction project.
+v34: The goal announced in Exodus 25:8 is fulfilled: the LORD’s glory fills the dwelling in Israel’s midst.
+v35: Even Moses cannot enter while the glory fills the dwelling, emphasizing that divine presence remains holy and sovereign rather than domesticated by the sanctuary.
+v36–38: The book closes with the same cloud and fire that guided Israel after Egypt now resting upon the dwelling. Divine presence becomes both sanctuary presence and continuing guidance.
 
 ##Vocabulary
 

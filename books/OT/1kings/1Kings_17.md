@@ -64,9 +64,13 @@ v23: Elijah took the child, brought him down from the upper room into the house,
 
 v24: Then the woman said to Elijah, “Now I know that you are a man of God, and that the word of the LORD in your mouth is truth.”
 </p>
-##Notes
-
-v18: “What is there between me and you?” is an anguished idiom of distance and protest.
+## Notes
+v1: [^v1]: “Before whom I stand” portrays Elijah as one who attends and serves in YHWH’s presence. His announcement of drought is therefore presented not as private power, but as speech spoken under the authority of Israel’s living God.  
+v12: [^v12]: The widow’s response makes the cost of Elijah’s request explicit. Her remaining flour and oil are not surplus; they are the last provision she expects to share with her son before death.  
+v15: [^v15]: The repeated pronouns—“she and he and her household”—draw attention to the unexpected scope of the provision. The widow’s household includes both the prophet and those dependent upon her.  
+v18: [^v18]: “What is there between me and you?” is an anguished idiom of distance and protest. The woman connects her son’s death with her own guilt, but the narrative does not confirm that her suffering is punishment for a particular sin.  
+v21: [^v21]: The word translated “life” can also refer to the living self or life-breath. Elijah asks that the child’s very life return “within him,” and the following verse answers the request in the same language.  
+v24: [^v24]: The chapter closes not merely with the child alive, but with the widow’s recognition that YHWH’s word in Elijah’s mouth is “truth.” The restoration confirms the reliability of the prophetic word spoken earlier about food, drought, and rain.  
 
 ##Vocabulary
 

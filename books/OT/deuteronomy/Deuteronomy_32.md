@@ -351,17 +351,29 @@ v51: because you acted unfaithfully against me in the midst of the children of I
 
 v52: For from a distance you shall see the land, but you shall not enter there, into the land that I am giving to the children of Israel.”
 </p>
-##Notes
-
-v08: The Masoretic Text reads “sons of Israel,” while important Dead Sea Scroll and Greek witnesses read “sons of God” or “angels of God.”
-
+## Notes
+v01–03: The song summons heavens and earth as witnesses, continuing Deuteronomy’s covenant courtroom imagery.
+v04: “The Rock” becomes a recurring divine title in the song, emphasizing stability, justice, and faithfulness.
+v05: The Hebrew line is difficult. TSW retains the contrast between God’s perfect work and a generation whose corruption marks them as distorted children.
+v08: The Masoretic Text reads “sons of Israel,” while important Dead Sea Scroll and Greek witnesses read “sons of God” or “angels of God.” TSW follows the older reading “sons of God” because it better explains the parallel with the nations and the LORD’s own portion in verse 9; the significant Masoretic reading is noted here.
 v10: “pupil of his eye” is literally “little man of his eye,” the reflected image seen in the center of the eye.
-
+v11: The eagle imagery portrays both disturbance of the nest and protective carrying, joining discipline and care.
+v15: “Jeshurun” is a poetic name for Israel, probably related to “upright one,” used ironically here as Israel grows fat and rebels.
+v17: “demons” translates *shedim*, rare beings explicitly distinguished from God and connected with illicit sacrifice.
+v18: Divine care includes both fathering and giving birth, using male and female parental imagery for God within the same verse.
+v20: “generation of reversals” translates a difficult phrase often rendered “perverse generation.” The emphasis is on instability and twisted faithlessness.
 v20: “Generation of reversals” translates a difficult Hebrew phrase often rendered “perverse generation.”
-
+v21: The judgment is reciprocal: Israel provokes God with “not-gods,” and God provokes Israel through “not-a-people.”
+v27: The LORD restrains total destruction because enemies might misread Israel’s defeat as proof of their own independent power.
+v30: Israel’s military collapse is interpreted as divine handing-over rather than enemy superiority alone.
+v35: The Hebrew text of this line is textually complex. “Vengeance belongs to me, and repayment” is well supported and preserves the central claim that retribution belongs to God.
+v36: “slave or free” translates an idiom whose literal sense is “restrained or released.” It signifies that no strength or person remains.
 v36: “slave or free” translates an idiom whose literal sense is “restrained or released,” describing the absence of remaining strength or people.
-
-v43: The line has significant textual variation. Dead Sea Scroll and Greek forms are longer than the Masoretic Text.
+v39: Death and life, wounding and healing, are held together under the singular sovereignty of the LORD.
+v42: The final phrase concerning the enemy’s “long-haired heads” is difficult and has several proposed translations. TSW preserves a concrete martial image without claiming certainty.
+v43: The line has significant textual variation. Dead Sea Scroll and Greek forms are longer than the Masoretic Text. TSW follows a form that includes the nations rejoicing with God’s people and the final atonement of land and people, while noting that manuscripts differ in detail.
+v47: Torah is explicitly called Israel’s “life,” refusing any separation between instruction and flourishing.
+v51: Unlike some earlier Deuteronomic retellings, the closing charge directly names Moses’ own unfaithfulness at Meribah as the reason he will not enter the land.
 
 ##Vocabulary
 

@@ -78,7 +78,15 @@ v26: They judged the people at all times. The difficult matter they brought to M
 
 v27: Then Moses sent his father-in-law away, and he went to his own land.
 </p>
-##Notes
+## Notes
+v02: “after Moses had sent her away” does not explain when or why Zipporah had been sent back. The narrative simply records her reunion with Moses through Jethro.
+v03–04: The names Gershom and Eliezer interpret major parts of Moses’ story: alien residence and divine help.
+v11: Jethro’s confession follows the exodus report. The final clause is compressed; the sense is that Egypt’s arrogant treatment of Israel became the arena of the LORD’s superiority.
+v12: Jethro participates in sacrificial worship and a meal “before God” with Aaron and Israel’s elders.
+v15: “seek God” can include seeking divine guidance, decision, or judgment through Moses.
+v17–18: The criticism is not of Moses’ concern for justice but of a structure that makes one person carry every case.
+v21: The qualifications combine competence, reverence, truthfulness, and resistance to corrupt gain.
+v23: Jethro’s counsel remains subject to divine command: “if … God commands you.” Administrative wisdom does not replace discernment.
 
 ##Vocabulary
 

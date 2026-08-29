@@ -110,7 +110,21 @@ v35: All his sons and all his daughters rose up to comfort him, but he refused t
 <p>
 v36: Meanwhile the Midianites sold him in Egypt to Potiphar, an officer of Pharaoh, the captain of the guard.
 </p>
-##Notes
+## Notes
+v2: Joseph’s “bad report” introduces tension—truth-telling or betrayal remains ambiguous.  
+v3: The robe marks status and distinction, functioning as a visible symbol of favor.  
+v4: Hatred escalates to the breakdown of basic relational speech (“could not speak peaceably”).  
+v5–8: Dreams function as revelation, but also intensify hostility due to their implications.  
+v9–11: The second dream expands scope from family hierarchy to cosmic symbolism.  
+v18–20: The brothers attempt to negate the future by eliminating the dreamer.  
+v21–22: Reuben’s intervention is partial—he resists murder but does not confront the system.  
+v25: The juxtaposition of violence and ordinary eating heightens moral dissonance.  
+v26–28: Judah reframes the act economically; violence becomes transaction.  
+v28: Silver introduces valuation—Joseph becomes commodified.  
+v29–30: Reuben’s grief is personal and self-referential.  
+v31–33: Deception mirrors earlier family patterns (Jacob and Isaac), reinforcing generational repetition.  
+v34–35: Mourning is prolonged and unresolved; Jacob refuses consolation.  
+v36: The narrative pivots toward Egypt, setting the stage for reversal.  
 
 ##Vocabulary
 

@@ -26,7 +26,11 @@ and the sword, not of humanity, will devour him. He will flee from the sword, an
 <p>
 v09: His rock will pass away by reason of terror, and his princes will be afraid of the banner," says the LORD, whose fire is in Zion, and his furnace in Jerusalem.
 </p>
-##Notes
+## Notes
+v1: The oracle does not condemn horses as such but exposes reliance on Egyptian military power in place of seeking the LORD.  
+v1: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v4: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v4: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
 
 ##Vocabulary
 

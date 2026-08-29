@@ -109,7 +109,25 @@ v49: There shall be one instruction for the native and for the resident alien wh
 v50: All the Israelites did just as the LORD commanded Moses and Aaron.
 v51: And on that very day the LORD brought the Israelites out of the land of Egypt by their divisions.
 </p>
-##Notes
+## Notes
+v2: “the beginning of months” — Liberation resets time itself; God’s deliverance becomes Israel’s calendar and identity marker.  
+v3–4: “each household… nearest neighbor” — The meal is communal and scalable; provision is shared so no household is left without participation.  
+v5: “without blemish” — The offering is set apart as whole; the ritual teaches reverence, not magical protection.  
+v7: “blood… on the doorposts” — The sign is public and located at the threshold: deliverance is marked at the boundary between death and life.  
+v11: “eat it in haste” — Redemption is not leisurely; the posture is readiness, as people prepared to move when God opens the way.  
+v12: “on all the gods of Egypt… judgments” — The plague narrative is also a theological confrontation: the LORD exposes and overturns Egypt’s claimed powers.  
+v13: “a sign for you” — The blood is described as sign for Israel (identity and belonging), not as information God lacks; it marks a people under protection.  
+v14–17: “day of remembrance… perpetual statute” — Memory is disciplined through embodied practice; worship forms communal story across generations.  
+v19: “resident alien or native” — The community’s boundaries are moral and covenantal, not merely ethnic; the instruction addresses both insider and sojourner.  
+v23: “will not allow the destroyer” — Deliverance is active protection; God both judges oppression and guards the vulnerable.  
+v26–27: “when your children say…” — Formation is intergenerational: the ritual demands interpretation, and parents become theologians for their children.  
+v29–30: “a great cry in Egypt” — The text does not sentimentalize judgment; it names the cost and terror of a world ordered by Pharaoh’s violence coming back upon Egypt.  
+v31–32: “Go, serve the LORD… bless me also” — Pharaoh’s collapse is total: he releases what he enslaved and asks blessing from those he harmed.  
+v35–36: “objects of silver and gold… favor” — The “plundering” functions as reparative transfer after generations of forced labor; God turns exploitation toward release.  
+v38: “a mixed multitude” — Exodus shapes a broader people than bloodline alone; deliverance gathers outsiders into Israel’s story.  
+v40–42: “four hundred thirty years… night of watching” — The long wait is not forgotten; redemption arrives “on that very day,” emphasizing God’s timing and fidelity.  
+v46: “you shall not break any of its bones” — The Passover becomes a marked sign of wholeness and protection; later biblical memory will hear deeper resonance here.  
+v49: “one instruction” — Covenant life is not two-tiered; the same instruction governs belonging for both native and resident alien within the community.  
 
 ##Vocabulary
 

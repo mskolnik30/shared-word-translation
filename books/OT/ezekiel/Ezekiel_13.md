@@ -58,7 +58,11 @@ v22: Because you have disheartened the righteous with falsehood when I have not 
 
 v23: therefore you shall no longer envision vanity nor practice divination. I will deliver my people out of your hand. Then you will know that I am the LORD."
 </p>
-##Notes
+## Notes
+v3: ### v3  
+"Woe": This prophetic pronouncement conveys lament, judgment, and impending doom upon the false prophets. It serves both as a warning and as an expression of grief for their misleading role.  
+v10: ### v10  
+"Peace": The repetition of "peace" highlights the false assurances given by the prophets while true peace is absent. The ideal of "peace" is central to Israel's hope and is the point of deceit here.  
 
 ##Vocabulary
 

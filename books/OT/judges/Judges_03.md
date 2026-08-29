@@ -88,15 +88,15 @@ v30: So Moab was subdued that day under the hand of Israel, and the land had res
 <p>
 v31: After him came Shamgar son of Anath, who struck six hundred Philistines with an oxgoad, and he also saved Israel.
 </p>
-##Notes
-
+## Notes
+v01–04: The nations are described both as remaining because Israel had not driven them out and as instruments through which Israel is tested. Judges holds human failure and divine testing together.
 v07: “Asheroth” — The Hebrew plural can refer to cultic objects associated with the goddess Asherah or to manifestations of the goddess herself.
-
-v15: “restricted in his right hand” — The Hebrew can mean left-handed or impaired in the right hand.
-
+v10: “Spirit of the LORD” — The Spirit equips Othniel for judgment and deliverance. Judges repeatedly connects the Spirit with particular acts of empowered leadership.
+v15: “restricted in his right hand” — The Hebrew can mean left-handed or impaired in the right hand. The story depends on Ehud’s use of his left hand and concealment of the weapon on the unexpected side.
 v19: “carved stones” — The Hebrew *pesilim* can mean carved images or idols. Their precise character at Gilgal is uncertain.
-
-v24: “covering his feet” — An idiom for relieving oneself.
+v22: The narrative is intentionally graphic and humiliating toward Eglon. The Hebrew final phrase is difficult, but the scene clearly emphasizes the complete penetration of the sword and bodily collapse.
+v24: “covering his feet” — An idiom for relieving oneself. The servants’ assumption delays discovery and enables Ehud’s escape.
+v31: Shamgar’s notice is brief and lacks the fuller cycle found elsewhere, yet he is explicitly said to have saved Israel.
 
 ##Vocabulary
 

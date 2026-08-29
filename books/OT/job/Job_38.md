@@ -172,7 +172,17 @@ v41: Who provides for the raven its prey
 when its young cry out to God
 and wander for lack of food?
 </p>
-##Notes
+## Notes
+v01: The LORD answers “from the storm,” the first direct divine speech since the prose opening. The answer is encounter and interrogation rather than a causal explanation of Job’s suffering.
+v02: “words without knowledge” challenges the scope of Job’s speech, but the verse does not repeat the friends’ accusations of hidden moral crimes.
+v04–11: Creation is portrayed as architecture and birth. Earth is founded like a building while sea bursts from a womb and is swaddled before receiving boundaries.
+v07: “sons of God” recalls the heavenly assembly of chapters 1–2, now portrayed rejoicing at creation rather than debating Job.
+v12–15: Dawn is imagined as taking the earth by its edges and shaking wicked people loose, while light gives shape to the world like a seal impressing clay.
+v16–21: Job is questioned about domains beyond human access: sea depths, Death, the breadth of earth, and the dwellings of light and darkness.
+v26–27: Rain falls even on uninhabited wilderness. Divine care therefore exceeds human usefulness and includes creation with no immediate human audience.
+v31–33: The constellation names are traditional identifications of ancient Hebrew star groups; precise correspondence is not certain in every case.
+v36: The Hebrew words rendered “inward parts” and “mind” are rare and disputed; proposed referents include human intellect or phenomena of the sky. TSW follows the common human-wisdom interpretation while preserving the uncertainty in this note.
+v39–41: The speech turns from cosmic order to wild animals, asking Job to consider creatures sustained outside human control.
 
 ##Vocabulary
 

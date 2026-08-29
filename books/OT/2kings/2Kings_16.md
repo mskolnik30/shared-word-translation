@@ -68,9 +68,17 @@ v19: Now the rest of the acts of Ahaz that he did, are they not written in the b
 
 v20: Ahaz lay down with his ancestors and was buried with his ancestors in the city of David. Hezekiah his son became king in his place.
 </p>
-##Notes
-
-v06: The Masoretic Text reads that Rezin restored Elath “to Aram,” followed by “Edomites” entering it.
+## Notes
+v03: “made his son pass through the fire” describes child sacrifice or a fire rite associated with prohibited worship. The phrase is condemned as a practice of the nations.
+v05: The siege by Rezin and Pekah is the Syro-Ephraimite crisis that also forms the setting of Isaiah 7.
+v06: The Masoretic Text reads that Rezin restored Elath “to Aram,” followed by “Edomites” entering it. Some manuscripts and translations read Edom in both places. TSW preserves the Masoretic first reading and the following Edomite occupation.
+v07: Ahaz’s words “your servant and your son” make Judah’s king a vassal of Assyria in exchange for military rescue.
+v08: Temple and palace wealth again become imperial tribute.
+v09: Assyria destroys Damascus and deports its population to Kir, reversing the restoration of Aram from Kir mentioned in Amos 9:7.
+v10–16: Ahaz imports an altar design from Damascus and directs Uriah to reorganize Jerusalem’s sacrificial practice around it. Royal authority reshapes temple worship.
+v15: “for me to inquire by” is difficult. The bronze altar may be reserved for divination or further royal consideration. TSW preserves the inquiry language.
+v17: Ahaz dismantles or relocates Solomon-era bronze furnishings, altering both their form and symbolic setting.
+v18: The exact identity of the Sabbath structure and royal entrance is uncertain. The changes are explicitly made “because of the king of Assyria,” showing imperial influence reaching temple architecture.
 
 ##Vocabulary
 

@@ -88,7 +88,19 @@ with which his mother crowned him
 on the day of his wedding,
 on the day of the gladness of his heart.
 </p>
-##Notes
+## Notes
+v1–4: The bride's nighttime search portrays longing, separation, and the determination of love.  
+v1–2: The repeated seeking and not finding heightens the emotional intensity of the scene.  
+v3: The watchmen serve as witnesses to her search through the city.  
+v4: The language shifts quickly from loss to joyful reunion.  
+v4: Bringing the beloved into her mother's house reflects acceptance, intimacy, and familial blessing.  
+v5: The recurring refrain emphasizes patience and proper timing in love.  
+v6–11: The scene transitions from private longing to a public celebration associated with royal marriage.  
+v6: Smoke, myrrh, and frankincense create imagery of splendor, honor, and festal procession.  
+v7–8: The sixty warriors emphasize dignity, protection, and royal majesty.  
+v9–10: The carriage displays wealth, beauty, and craftsmanship appropriate to a king.  
+v11: The chapter culminates in a wedding image marked by joy and celebration.  
+v11: The “gladness of his heart” highlights the delight of covenantal love.  
 
 ##Vocabulary
 

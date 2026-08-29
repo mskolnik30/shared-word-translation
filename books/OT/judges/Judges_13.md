@@ -82,9 +82,14 @@ v24: The woman gave birth to a son and called his name Samson. The boy grew, and
 
 v25: And the Spirit of the LORD began to stir him in Mahaneh-Dan, between Zorah and Eshtaol.
 </p>
-##Notes
-
-v18: “wonderful” — The Hebrew can mean wonderful, incomprehensible, or beyond ordinary understanding.
+## Notes
+v03: The announcement is made first to Manoah’s wife, who remains unnamed throughout the chapter but repeatedly displays clearer perception than her husband.
+v05: Samson’s calling is stated before conception: he will be a Nazirite “from the womb” and will “begin” to save Israel. The wording anticipates an incomplete deliverance.
+v07: The woman reports the Nazirite status as lasting “until the day of his death,” a phrase not included in the messenger’s first speech but consistent with the narrative’s trajectory.
+v12: Manoah asks about the boy’s “rule” and “work,” but the messenger redirects attention to the instructions already given to the woman.
+v18: “wonderful” — The Hebrew can mean wonderful, incomprehensible, or beyond ordinary understanding. The name is not supplied.
+v22–23: Manoah fears death after recognizing the encounter with God, while his wife reasons from the LORD’s acceptance of their offering and revelation that death cannot be the intended outcome.
+v25: The Spirit “began to stir” Samson. The verb suggests disturbance, movement, or prompting, introducing the tension-filled career that follows.
 
 ##Vocabulary
 

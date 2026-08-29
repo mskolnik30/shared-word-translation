@@ -38,7 +38,17 @@ v20: She said to them, “Do not call me Naomi; call me Mara, for the Almighty h
 v21: I went away full, and the LORD has brought me back empty. Why call me Naomi, when the LORD has testified against me and the Almighty has brought calamity upon me?”
 v22: So Naomi returned, and Ruth the Moabite her daughter-in-law with her, who returned from the fields of Moab. And they came to Bethlehem at the beginning of barley harvest.
 </p>
-##Notes
+## Notes
+v1: “In the days when the judges ruled” situates the story within a period marked by instability, though the narrative itself remains intimate and domestic.  
+v3–5: The repetition of loss (husband, then sons) intensifies Naomi’s vulnerability and narrows her social and economic future.  
+v6: “The LORD had attended to his people” introduces divine action indirectly—through provision rather than spectacle.  
+v8: Naomi invokes “steadfast kindness” (ḥesed), naming covenantal loyalty as the interpretive frame for human relationships.  
+v11–13: Naomi’s reasoning is legal and practical, grounded in levirate expectations, yet shaped by her perception of divine opposition.  
+v13: “The hand of the LORD has gone out against me” reflects Naomi’s interpretation; the text does not confirm or correct it.  
+v14: The contrast between Orpah and Ruth is understated; both act faithfully within their circumstances.  
+v16–17: Ruth’s speech binds place, people, and God together. Loyalty extends beyond kinship into identity and worship.  
+v19–21: Naomi’s renaming of herself (“Mara,” bitter) does not erase her given name but places her experience in tension with it.  
+v22: The note of “barley harvest” signals provision returning, though its significance unfolds gradually.  
 
 ##Vocabulary
 

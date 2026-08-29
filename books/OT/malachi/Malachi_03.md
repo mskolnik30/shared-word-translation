@@ -119,7 +119,18 @@ the distinction between the righteous and the wicked,
 between one who serves God
 and one who does not serve him.”
 </p>
-##Notes
+## Notes
+v6: God's unchanging character is the reason Israel continues to exist despite repeated covenant failures.
+v7: The call to return summarizes the covenant relationship: repentance is met with divine restoration.
+v8–9: The people's withholding of tithes is treated not merely as neglect but as robbery against God himself.
+v10: The challenge to “test” God is unique because God himself invites the people to verify his covenant faithfulness.
+v10–12: Material blessing is presented as a covenant sign of restored obedience and divine favor.
+v11: The “devourer” likely refers to agricultural destruction through pests, disease, or blight.
+v13–15: The people question whether serving God provides any benefit when the wicked appear to prosper.
+v16: A faithful remnant remains within the nation despite widespread cynicism.
+v16: The book of remembrance symbolizes God's perfect knowledge and care for those who fear him.
+v17: The faithful are described as God's treasured possession, language previously applied to Israel as a covenant people.
+v18: The final outcome will reveal a clear distinction between righteousness and wickedness, even when that distinction seems hidden in the present.
 
 ##Vocabulary
 

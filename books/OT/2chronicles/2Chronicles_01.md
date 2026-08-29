@@ -52,9 +52,11 @@ v16: Solomon’s horses were imported from Egypt and Kue; the king’s merchants
 
 v17: A chariot could be imported from Egypt for six hundred shekels of silver and a horse for one hundred fifty. So through them they exported them to all the kings of the Hittites and the kings of Aram.
 </p>
-##Notes
-
+## Notes
+v03: Chronicles emphasizes continuity between Moses’ tabernacle at Gibeon and Solomon’s later temple in Jerusalem.
+v05: The bronze altar links Solomon’s worship with Bezalel’s wilderness craftsmanship.
 v10: “go out and come in” is an idiom for active leadership.
+v16: “Kue” probably refers to Cilicia. The exact ancient trade arrangement is debated.
 
 ##Vocabulary
 

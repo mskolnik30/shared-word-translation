@@ -54,11 +54,13 @@ v28: so that the land does not vomit you out when you make it unclean, as it vom
 v29: For anyone who does any of these detestable things—the persons who do them shall be cut off from among their people.
 v30: You shall keep my charge, so that you do not practice any of the detestable customs practiced before you and do not make yourselves unclean by them. I am the LORD your God.”
 </p>
-##Notes
-
+## Notes
+v05: “shall live by them” — The statement joins obedience and life without explaining whether the language is primarily communal, temporal, covenantal, or more expansive.
 v06: “uncover nakedness” is a Hebrew idiom for sexual relations and is retained to preserve the repeated legal language of the chapter.
-
+v18: The Hebrew can be read as forbidding marriage to two sisters while both are alive, emphasizing rivalry; TSW retains that relational wording rather than generalizing the prohibition.
 v18: The Hebrew can be read as forbidding marriage to two sisters while both are alive; the syntax centers on taking one woman “as a rival” to her sister.
+v21: “Molech” — The precise nature of the practice implied by “pass over” and the identity of Molech remain debated. The text clearly prohibits giving offspring within this cultic practice.
+v25: The land is personified as vomiting out its inhabitants, portraying moral and ritual defilement as affecting the land itself.
 
 ##Vocabulary
 

@@ -25,10 +25,12 @@ v07: He taunted Israel, and Jonathan son of Shimea, David’s brother, struck hi
 
 v08: These were born to the Repha at Gath, and they fell by the hand of David and by the hand of his servants.
 </p>
-##Notes
-
+## Notes
+v2: “Their king” may refer to the Ammonite king, though the Hebrew form can also be read as the name of the Ammonite god Milcom. The narrative leaves the reference formally open.  
+v3: The wording about the captured people and the tools is difficult. The verb and the names of the implements can suggest forced labor or harsh treatment; the text does not spell out the precise action.  
+v4: “The Rephaim” is a traditional name associated with ancient, formidable people. Here and in the verses that follow, it marks the exceptional stature of Israel’s Philistine opponents.  
+v6: The Hebrew states literally that his “digits” were “six and six, twenty-four.” “Digits” can encompass fingers and toes, but the verse’s compressed wording does not explicitly describe each hand and foot.  
 v02: “Their king” may refer to the Ammonite king, though the Hebrew form can also be read as the name of the Ammonite god Milcom.
-
 v06: The Hebrew states literally that his “digits” were “six and six, twenty-four.” “Digits” can encompass fingers and toes, but the verse’s compressed wording does not explicitly describe each hand and foot.
 
 ##Vocabulary

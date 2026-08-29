@@ -128,9 +128,22 @@ v43: But his attendant said, “How can I set this before one hundred men?” He
 
 v44: So he set it before them, and they ate and had some left, according to the word of the LORD.
 </p>
-##Notes
-
+## Notes
+v01: Debt slavery threatens the widow’s sons after the death of a prophetic household head. Elisha’s miracle addresses both economic debt and family preservation.
+v02: The widow’s small amount of oil becomes the starting point of provision. The narrative repeatedly joins divine gift with ordinary household materials.
+v08: “great woman” can mean wealthy, influential, or socially prominent. Her hospitality is initiated without a request from Elisha.
+v13: The Shunammite declines royal advocacy, saying she lives securely “among my own people.” Her request is not initially material or political.
 v16: “according to the time of life” is an idiom for the same season in the following year, associated with the time of childbirth.
+v20: The child’s death in his mother’s arms is narrated with restraint and without diagnosis.
+v23: New moon and Sabbath appear as expected times for visiting a prophetic figure, suggesting regular religious consultation or instruction.
+v26: The Shunammite’s “It is well” does not describe the child’s actual condition; it postpones disclosure until she reaches Elisha.
+v27: Elisha openly admits that the LORD has hidden the matter from him, showing prophetic knowledge as received rather than automatic.
+v29–31: Gehazi’s use of the staff does not restore the child. The text does not explain why the delegated action fails.
+v34–35: Elisha’s bodily contact is part of the narrated restoration but is not presented as a transferable technique. He first prays to the LORD.
+v39: The wild gourd is often identified with colocynth, but exact botanical identification is uncertain.
+v41: The flour is used in the healing of the stew, but the narrative attributes prophetic authority to Elisha rather than describing a known antidote.
+v42: Firstfruits are brought to the man of God during famine, and the prophetic command redistributes them to the community.
+v43–44: The multiplication is explicitly grounded in the word of the LORD: the food proves sufficient and leaves a remainder.
 
 ##Vocabulary
 

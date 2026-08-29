@@ -64,9 +64,13 @@ v21: yes, thus says the LORD of Hosts, the God of Israel, concerning the vessels
 
 v22: They will be carried to Babylon, and there they will remain until the day I attend to them,” says the LORD. “Then I will bring them up and restore them to this place.”
 </p>
-##Notes
-
-v01: The Masoretic Text reads “Jehoiakim son of Josiah” in this verse, while the chapter’s setting and several ancient witnesses point to Zedekiah.
+## Notes
+v01: The Masoretic Text reads “Jehoiakim son of Josiah” in this verse, while the chapter’s setting and several ancient witnesses point to Zedekiah. TSW follows the contextual reading “Zedekiah” and records the textual issue rather than leaving an internally contradictory heading.
+v02: Jeremiah’s yoke is an embodied prophetic sign. Submission to Babylon is presented not as approval of Babylon but as acceptance of the LORD’s announced judgment.
+v05–07: The LORD’s claim over creation grounds the surprising authority given to Nebuchadnezzar. Babylonian power is temporary and remains under divine limitation.
+v09: The list gathers several forms of divination and prophetic claim. Their common error is promising escape from Babylonian service.
+v18: Jeremiah offers a test of the prophets’ claims: if they truly possess the word of the LORD, let their intercession prevent further temple loss.
+v22: The return of the temple vessels is promised, but not on the immediate timetable proclaimed by the false prophets.
 
 ##Vocabulary
 

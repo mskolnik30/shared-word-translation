@@ -22,7 +22,12 @@ v04: For the children of Israel will remain many days without king or prince, wi
 
 v05: Afterward the children of Israel will return and seek the LORD their God and David their king. They will come trembling to the LORD and to his goodness in the latter days.
 </p>
-##Notes
+## Notes
+v01: The woman is not named in this chapter. Whether she is Gomer from chapters 1–2 or another woman is not explicitly stated. TSW preserves that ambiguity.
+v01: “cakes of raisins” were associated with feasting and may have had cultic associations. The phrase is retained without assuming a specific ritual function.
+v02: The payment combines silver and barley. The precise social or legal status implied by the transaction is not explained in the text.
+v04: Israel’s deprivation includes both legitimate and illegitimate institutions: king, sacrifice, pillar, ephod, and household gods. The verse describes a period of absence rather than endorsing every item named.
+v05: “David their king” points to renewed Davidic rule while leaving open how the figure relates to the historical David and future kingship.
 
 ##Vocabulary
 

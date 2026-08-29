@@ -98,11 +98,18 @@ v30: You shall do likewise with your oxen and sheep. Seven days it shall be with
 
 v31: You shall be holy people to me. Therefore you shall not eat flesh torn by animals in the field; you shall throw it to the dogs.
 </p>
-##Notes
-
+## Notes
+v01: In the Masoretic Text this law is Exodus 21:37. Standard English numbering places it at Exodus 22:1. TSW follows public English numbering for website and shortcode compatibility.
 v01: This verse is numbered 21:37 in the Masoretic chapter division.
-
-v28: Hebrew *elohim* can mean God or, in some legal contexts, judges.
+v02–03: The law distinguishes a nighttime break-in from one occurring in daylight. Darkness makes the intruder’s intent and danger harder to assess; daylight creates greater bloodguilt for killing.
+v08–09: “before God” can also be understood as “before the judges,” since judicial decision is exercised under divine authority. TSW retains the theological wording.
+v16–17: The law places economic and marital obligation upon the man who seduces an unbetrothed virgin, while the father retains authority to refuse the marriage. The woman’s own voice is not recorded in the case law.
+v18–20: These short capital laws reflect Israel’s ancient covenantal order and its rejection of sorcery, bestiality, and sacrifice to other gods.
+v21: Israel’s own memory of alien status in Egypt becomes the ethical ground for refusing oppression of the resident alien.
+v22–24: The LORD identifies directly with the cry of widows and orphans. Their vulnerability is not peripheral to covenant justice.
+v25: The prohibition concerns interest charged to the poor within the covenant community, where lending is an act of support rather than commercial profit.
+v26–27: A pledged garment cannot be retained overnight if it is the borrower’s necessary covering. Economic right is limited by bodily need.
+v28: Hebrew *elohim* can mean God or, in some legal contexts, judges. TSW renders “God” because the parallel command concerns reverence within covenant order.
 
 ##Vocabulary
 

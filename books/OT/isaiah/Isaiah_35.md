@@ -29,7 +29,10 @@ but the redeemed will walk there.
 v10: The the LORD's ransomed ones will return, and come with singing to Zion;
 and everlasting joy will be on their heads. They will obtain gladness and joy, and sorrow and sighing will flee away."
 </p>
-##Notes
+## Notes
+v8: The Holy Way is a road of return. Holiness is pictured not as withdrawal from the world but as a protected path by which the redeemed come home.  
+v10: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+v2: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
 ##Vocabulary
 

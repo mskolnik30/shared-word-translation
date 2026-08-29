@@ -78,7 +78,17 @@ v24: Hazael king of Aram died, and Ben-Hadad his son became king in his place.
 
 v25: Then Jehoash son of Jehoahaz took back from the hand of Ben-Hadad son of Hazael the cities that he had taken in war from the hand of Jehoahaz his father. Three times Joash struck him and recovered the cities of Israel.
 </p>
-##Notes
+## Notes
+v01–03: Jehoahaz continues Jeroboam’s worship and experiences sustained Aramean domination under Hazael and Ben-Hadad.
+v04–05: Despite Jehoahaz’s evil, the LORD responds to Israel’s oppression when the king seeks divine favor. The identity of the “savior” is not named.
+v06: Political relief does not produce full religious reform; the Asherah remains in Samaria.
+v07: Israel’s army is reduced to a tiny remnant, described as dust crushed on a threshing floor.
+v14: Joash repeats Elisha’s own cry at Elijah’s departure in 2 Kings 2:12, identifying the dying prophet as Israel’s true chariot and horseman.
+v17: The eastward arrow points toward Aram and becomes a symbolic act interpreting Israel’s coming victories.
+v18–19: The king’s three strikes become the measure of limited victory. The text does not say Elisha had told him how many times to strike, leaving the prophet’s anger deliberately surprising.
+v21: The dead man’s revival occurs without Elisha’s conscious action and underscores that prophetic power belonged to God rather than to the prophet’s living technique.
+v23: Israel’s preservation is grounded in the ancestral covenant with Abraham, Isaac, and Jacob despite northern Israel’s persistent unfaithfulness.
+v25: The three recovered victories explicitly fulfill Elisha’s symbolic prophecy.
 
 ##Vocabulary
 

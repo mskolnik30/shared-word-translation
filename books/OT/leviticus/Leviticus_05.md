@@ -46,7 +46,12 @@ v17: If anyone sins by doing any of the things that the LORD has commanded not t
 v18: The person shall bring to the priest a ram without defect from the flock, according to the valuation, as a guilt offering. The priest shall make atonement for the person concerning the unintentional wrong committed without knowing it, and that person shall be forgiven.
 v19: It is a guilt offering; that person has certainly become guilty before the LORD.
 </p>
-##Notes
+## Notes
+v01: The opening case treats withheld testimony as a moral act rather than mere silence. Knowledge can create responsibility to speak.
+v05: Confession is explicitly named as part of the response to guilt before the sacrificial offering is presented.
+v07–13: The graduated offerings allow participation according to economic capacity, extending from livestock to birds to flour.
+v15: “acts unfaithfully” — The Hebrew *maal* carries the sense of breach of trust, especially in relation to what belongs to God.
+v17: Lack of awareness does not erase responsibility in this ritual framework, though the prescribed response differs from deliberate defiance.
 
 ##Vocabulary
 

@@ -64,7 +64,11 @@ v24: And the Spirit lifted me up and brought me in the vision by the Spirit of G
 <p>
 v25: And I told the exiles all the things that the LORD had shown me.
 </p>
-##Notes
+## Notes
+v1: - **v1**: Twenty-five men are described, drawing attention to their role and numbers, which may symbolize representative leadership or governance within the city.  
+v5: - **v5**: The Spirit falling upon Ezekiel underscores divine inspiration, indicating the prophetic message's authority.  
+v13: - **v13**: Pelatiah's death is an immediate fulfillment of the prophetic word, heightening the urgency and reality of divine judgment.  
+v19–20: - **v19-20**: The promise of a new heart and spirit highlights the transformative work of God, emphasizing inner renewal necessary for true obedience.  
 
 ##Vocabulary
 

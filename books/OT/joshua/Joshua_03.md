@@ -60,7 +60,16 @@ v16: the waters coming down from above stood and rose up in one heap very far aw
 <p>
 v17: Now the priests bearing the ark of the covenant of the LORD stood firmly on dry ground in the midst of the Jordan, and all Israel was passing over on dry ground, until all the nation finished passing over the Jordan.
 </p>
-##Notes
+## Notes
+v7: Joshua’s leadership is publicly confirmed—continuity with Moses is emphasized.
+v8: Priests initiate the action; obedience precedes visible change.
+v9–10: Knowledge of God is tied to action in history—presence is demonstrated through displacement of nations.
+v11: The ark signifies divine presence; “Lord of all the earth” universalizes authority.
+v12: Twelve representatives anticipate communal memory and participation.
+v13: The miracle mirrors creation and the sea crossing—waters “stand” as ordered.
+v15: The timing heightens the event—Jordan is at flood stage, increasing impossibility.
+v16: Specific geography grounds the event in real space; the stoppage is total and directional.
+v17: Stability (“stood firmly”) contrasts with flowing waters; the people cross in ordered completion.
 
 ##Vocabulary
 

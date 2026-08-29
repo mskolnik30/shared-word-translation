@@ -73,8 +73,17 @@ v31: Thus all the days of Lamech were seven hundred seventy-seven years, and he 
 <p>
 v32: After Noah was five hundred years old, Noah fathered Shem, Ham, and Japheth.
 </p>
-##Notes
-
+## Notes
+v1–2: The genealogy begins by recalling creation. Human identity is grounded not merely in ancestry but in God’s creative act and blessing.  
+v3: Adam’s son is described as being in Adam’s likeness and image. The language echoes Genesis 1 and highlights the transmission of humanity across generations.  
+v5: The repeated refrain “and he died” punctuates the chapter, reminding the reader of the consequence announced in Eden.  
+v6–20: The genealogy emphasizes continuity through birth, life, and death. Individual details are sparse, drawing attention to the pattern itself.  
+v21–24: Enoch interrupts the rhythm of the chapter. Instead of “and he died,” the text says that God took him.  
+v22: “Walked with God” suggests an ongoing relationship rather than a single act of devotion.  
+v24: The statement “he was no more” remains intentionally restrained. The text does not explain the manner of Enoch’s departure.  
+v29: Noah’s name is connected to comfort and relief from the cursed ground. The explanation anticipates the flood narrative that follows.  
+v31: Lamech’s lifespan of 777 years contrasts with his namesake in Cain’s line, who boasted of seventy-sevenfold vengeance.  
+v32: The genealogy slows at Noah, preparing for the transition from ancestral history to the flood narrative.  
 v05: The repeated refrain “and he died” punctuates the chapter and echoes the mortality announced in Eden.
 
 ##Vocabulary

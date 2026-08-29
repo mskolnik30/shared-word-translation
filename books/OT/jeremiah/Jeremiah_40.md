@@ -48,7 +48,12 @@ v15: Then Johanan son of Kareah spoke secretly to Gedaliah at Mizpah, saying, �
 
 v16: But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do this thing, for you are speaking falsehood concerning Ishmael.”
 </p>
-##Notes
+## Notes
+v01: The chapter’s opening says a word of the LORD came after Jeremiah’s release but does not immediately quote a new oracle. The phrase functions as a heading into the post-fall narrative.
+v02–03: Nebuzaradan, a Babylonian officer, interprets Jerusalem’s fall in terms closely resembling Jeremiah’s own preaching: the LORD spoke, Judah did not listen, and judgment came.
+v04–06: Jeremiah is offered unusual freedom of movement by the conquerors and chooses to remain with the remnant under Gedaliah rather than go to Babylon.
+v09–12: Gedaliah’s policy of submission to Babylon produces a brief period of agricultural recovery and the return of Judean refugees.
+v14–16: Gedaliah refuses to believe the warning concerning Ishmael. His refusal of preventive violence is followed in chapter 41 by the assassination Johanan predicted.
 
 ##Vocabulary
 

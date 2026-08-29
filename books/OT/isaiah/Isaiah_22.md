@@ -58,7 +58,11 @@ v24: They will hang on him all the glory of his father's house, the offspring an
 <p>
 v25: "In that day," says the LORD of Hosts, "the nail that was fastened in a sure place will give way. It will be cut down, and fall. The burden that was on it will be cut off, for the LORD has spoken it."
 </p>
-##Notes
+## Notes
+v22: The transfer from Shebna to Eliakim is expressed through clothing, keys, and household authority—concrete symbols of office rather than abstract titles alone.  
+v14: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v20: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+v18: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
 ##Vocabulary
 

@@ -76,9 +76,19 @@ v25: Now the rest of the acts of Amon that he did, are they not written in the b
 
 v26: They buried him in his tomb in the garden of Uzza. Josiah his son became king in his place.
 </p>
-##Notes
-
+## Notes
+v01: Manasseh’s fifty-five-year reign is the longest recorded for a king of Judah, yet Kings gives him one of its harshest evaluations.
+v03: Manasseh reverses Hezekiah’s reforms and imports practices associated both with Canaanite religion and with the northern house of Ahab.
+v04–05: The offense intensifies because rival altars are built inside the very temple where the LORD had placed his name.
+v06: “made his son pass through the fire” describes a condemned child-sacrifice or fire rite. Mediums, spiritists, divination, and astral worship broaden the chapter’s picture of prohibited religion.
+v07: The Asherah image stands within the temple itself, turning the chosen sanctuary into a site of the very worship Deuteronomy forbids.
+v09: Manasseh is said to lead Judah into evil exceeding even the nations previously expelled from the land.
 v12: “Both ears will tingle” is an idiom of shocking news, used elsewhere for catastrophic divine judgment.
+v13: Samaria and Ahab’s house become measuring standards for Jerusalem’s coming judgment: what happened to the north will now happen to Judah.
+v13: The dish image is deliberately domestic and humiliating: Jerusalem will be wiped clean and overturned.
+v16: Innocent blood is added to idolatry as a decisive charge against Manasseh’s reign.
+v18: 2 Chronicles 33 also narrates Manasseh’s captivity, repentance, and reforms. Kings does not include that material and maintains focus on the lasting consequences of his reign.
+v23–24: Palace conspiracy kills Amon, but the “people of the land” kill the conspirators and preserve dynastic continuity through Josiah.
 
 ##Vocabulary
 

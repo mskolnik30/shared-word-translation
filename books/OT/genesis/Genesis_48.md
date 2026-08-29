@@ -64,7 +64,20 @@ Thus he put Ephraim before Manasseh.
 v21: Then Israel said to Joseph, “Behold, I am about to die, but God will be with you and will bring you again to the land of your fathers.
 v22: Moreover, I have given to you one mountain slope more than to your brothers, which I took from the hand of the Amorite with my sword and with my bow.”
 </p>
-##Notes
+## Notes
+v3–4: Jacob recalls the covenant promises given at Bethel before addressing Joseph’s sons.  
+v5–6: Ephraim and Manasseh are adopted as Jacob’s own sons, effectively granting Joseph a double portion among the tribes.  
+v7: The remembrance of Rachel connects Joseph’s sons with their grandmother and the covenant family story.  
+v10: Jacob’s failing eyesight recalls Isaac’s blindness, though this scene reaches a different outcome.  
+v13–14: Joseph carefully arranges the sons according to birth order, but Jacob intentionally crosses his hands.  
+v15–16: The blessing summarizes Jacob’s life in terms of God’s guidance, provision, and redemption.  
+v15: God is described as a shepherd, one of Scripture’s earliest uses of this imagery.  
+v16: The “angel” is closely associated with God’s saving presence throughout Jacob’s life.  
+v17–19: Joseph assumes the crossed hands are a mistake, but Jacob insists that the younger son will surpass the older.  
+v19: Once again in Genesis, the younger receives preeminence over the firstborn.  
+v20: Ephraim’s name is placed before Manasseh’s in Israel’s future blessing formula.  
+v21–22: Jacob ends with confidence that God will bring his descendants back to the promised land.  
+v22: Joseph receives an additional inheritance portion through his two sons.  
 
 ##Vocabulary
 

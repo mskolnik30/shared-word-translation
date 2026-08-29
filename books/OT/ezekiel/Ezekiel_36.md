@@ -69,7 +69,14 @@ v36: Then the nations that remain around you will know that I, the LORD, have re
 v37: Thus says the LORD GOD: I will also allow the house of Israel to seek me for this: to do it for them. I will multiply them like a flock of people.
 v38: Like a holy flock, like the flock of Jerusalem at its appointed festivals, so the ruined cities will be filled with flocks of people. Then they will know that I am the LORD.
 </p>
-##Notes
+## Notes
+v1: The prophet is told to address the “mountains of Israel.” The land is treated as an audience because its devastation, restoration, and fruitfulness are bound up with the fate of Israel.  
+v5: “In the fire of my jealousy” presents the LORD’s response to the nations’ joyful seizure of the land. The language conveys passionate covenantal concern, not petty envy.  
+v17: The comparison to menstrual uncleanness draws on ritual language. It portrays Israel’s conduct as defiling the land before God; it does not identify bodily processes themselves as moral wrongdoing.  
+v20–23: Israel’s exile leads the nations to question the LORD’s name and power. Restoration is therefore described both as mercy toward Israel and as the public sanctifying of God’s holy name.  
+v25–27: Cleansing, a new heart, a new spirit, and the gift of God’s Spirit belong together. The passage holds divine action and Israel’s renewed obedience together: God gives what enables them to walk in God’s statutes.  
+v31–32: Restoration does not erase responsibility. Israel’s remembrance and self-loathing arise after God’s cleansing grace, while the repeated “not for your sake” keeps the focus on God’s holy name.  
+v37: Though God promises restoration, God also says that Israel will seek God for it. The verse preserves the tension between divine initiative and the people’s prayerful dependence.  
 
 ##Vocabulary
 

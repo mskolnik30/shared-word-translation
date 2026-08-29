@@ -59,9 +59,15 @@ v30: After him Hananiah son of Shelemiah and Hanun, the sixth son of Zalaph, rep
 v31: After him Malchijah, one of the goldsmiths, repaired as far as the house of the temple servants and merchants, opposite the Inspection Gate and as far as the upper room at the corner.
 v32: Between the upper room at the corner and the Sheep Gate, the goldsmiths and merchants repaired.
 </p>
-##Notes
-
+## Notes
+v01: “consecrated” — The priests treat the gate and adjacent wall not merely as civic infrastructure but as part of Jerusalem’s holy life.
 v05: “would not put their necks to the work” — The idiom pictures refusal to submit the shoulder or neck to a shared burden.
+v07: The Persian provincial administration remains present in the background even while Jerusalem’s local wall is rebuilt.
+v12: Shallum’s daughters are explicitly included among those participating in the work, an unusual detail in the otherwise male genealogical register.
+v13: “one thousand cubits” — Roughly a substantial stretch of wall; the ancient measure is retained rather than converted in the main text.
+v15: “Pool of Shelah” — The location is associated with the southern part of Jerusalem near the City of David.
+v20: “zealously repaired” — The Hebrew adds an expression of burning or earnest intensity to Baruch’s work.
+v26: “temple servants” — The *Nethinim* were a hereditary group assigned to service connected with the temple.
 
 ##Vocabulary
 

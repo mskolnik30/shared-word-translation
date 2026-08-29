@@ -60,15 +60,20 @@ v17: Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was
 
 v18: Benaiah son of Jehoiada was over the Cherethites and the Pelethites, and David’s sons were priests.
 </p>
-##Notes
+## Notes
+v01: “Metheg-Ammah” is a difficult place-name or phrase. 1 Chronicles 18:1 identifies Gath and its villages. TSW preserves Samuel’s wording.
+v02: David’s treatment of Moab is severe and unusual, with two measured groups put to death and one spared. The narrative does not explain the reason, and TSW does not attempt to justify the violence.
+v03: The exact meaning of Hadadezer’s effort “to restore his power” at the Euphrates is uncertain; it may refer to reestablishing a monument, border, or military control.
+v04: The Masoretic Text reads 1,700 horsemen, while 1 Chronicles 18:4 and some ancient witnesses read 7,000. TSW follows the Masoretic figure and records the variant.
+v04: Hamstringing horses prevents their future use in war. David retains only enough for one hundred chariots.
 
-v04: The Masoretic Text reads 1,700 horsemen, while 1 Chronicles 18:4 and some ancient witnesses read 7,000.
-
-v13: The Masoretic Text says Arameans, while 1 Chronicles 18:12 associates the Valley of Salt victory with Edomites.
-
-v17: The priestly names differ from some parallel lists and may reflect textual transmission or multiple offices.
-
-v18: The Hebrew *kohanim* can sometimes denote high royal officials, though priest is its ordinary meaning.
+v06, v14: The repeated theological refrain is that the LORD gives David victory wherever he goes, interpreting imperial expansion under divine favor.
+v10: Joram’s visit turns one foreign king’s conflict with Hadadezer into diplomatic alliance with David.
+v11: War spoils are consecrated to the LORD rather than kept solely as royal wealth.
+v13: The Masoretic Text says Arameans, while 1 Chronicles 18:12 associates the Valley of Salt victory with Edomites. The following verse concerns Edom. TSW preserves the Masoretic reading and notes the tension.
+v15: The chapter’s summary of conquest ends with justice and righteousness for “all his people,” presenting internal governance as part of kingship.
+v17: The priestly names differ from some parallel lists and may reflect textual transmission or multiple offices. TSW preserves Samuel’s form.
+v18: Calling David’s sons “priests” is surprising because they are not Levites. The Hebrew *kohanim* can sometimes denote high royal officials, though priest is its ordinary meaning. TSW retains “priests” and notes the issue.
 
 ##Vocabulary
 

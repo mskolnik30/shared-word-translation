@@ -50,9 +50,12 @@ v20: But anyone who is unclean and does not purify themselves—that person shal
 v21: It shall be a perpetual statute for them. The one who sprinkles the water of purification shall wash their clothes, and whoever touches the water of purification shall be unclean until evening.
 v22: Whatever the unclean person touches shall be unclean, and the person who touches it shall be unclean until evening.
 </p>
-##Notes
-
+## Notes
+v02: The heifer must be entirely suitable for the rite and never used for ordinary labor. The text calls this regulation a “statute of the instruction,” joining fixed ordinance and Torah.
+v03: The animal is slaughtered outside the camp rather than at the altar, yet its blood is oriented toward the Tent of Meeting.
+v07–10: Those who prepare the purifying ashes themselves become temporarily unclean. The rite holds together cleansing power and contact with the sphere of death.
 v09: “water of purification” — The Hebrew phrase literally means “water of impurity,” referring to water used to remove impurity, not water that is itself morally polluted.
+v11–22: Contact with human death creates a seven-day ritual impurity that must be resolved before ordinary access to the sanctuary community is restored.
 
 ##Vocabulary
 

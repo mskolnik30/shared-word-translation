@@ -58,7 +58,18 @@ v16: For the Judeans there was light and gladness, joy and honor.
 
 v17: In every province and in every city, wherever the king’s command and his law reached, there was gladness and joy among the Judeans, a feast and a good day. And many from the peoples of the land became Judeans, for fear of the Judeans had fallen upon them.
 </p>
-##Notes
+## Notes
+v01: Haman’s “house” includes his property and estate, which pass first to Esther and then into Mordecai’s administration.
+v02: The signet ring transfers the royal authority previously delegated to Haman. The narrative reversal is administrative as well as personal.
+v03–06: Haman’s death has not canceled his decree. Esther must plead a second time because the legal threat against her people remains in force.
+v05: Esther asks to “revoke” Haman’s letters, but verse 8 explains the empire’s legal problem: a document sealed in the king’s name cannot simply be revoked.
+v08: The solution is therefore not cancellation but a second royal decree granting the Judeans authority to defend themselves.
+v09: The new decree is explicitly multilingual, including the Judeans’ own script and language. Imperial administration accommodates linguistic diversity even while claiming centralized authority.
+v10: The exact terms for the royal courier horses are rare Persian-period expressions. TSW preserves the general sense of exceptionally swift animals belonging to the royal system.
+v11: Mordecai’s decree deliberately echoes the threefold violence of Haman’s decree in Esther 3:13. The permission is framed as defense against forces that attack the Judeans, but the language remains severe, including children, women, and plunder.
+v13: “take vengeance” names retaliatory justice against enemies rather than an unrestricted command to attack all surrounding peoples.
+v15–17: The chapter reverses the emotional ending of chapter 3: there the king and Haman drank while Susa was confused; here Mordecai is honored and Susa rejoices.
+v17: “became Judeans” can mean converted, identified themselves with the Judeans, or attached themselves publicly to them. The text attributes the movement to fear.
 
 ##Vocabulary
 

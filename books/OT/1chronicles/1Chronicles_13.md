@@ -40,7 +40,11 @@ v13: So David did not bring the ark to himself, to the City of David, but turned
 
 v14: The ark of God remained with the household of Obed-edom in his house for three months, and the LORD blessed the household of Obed-edom and all that belonged to him.
 </p>
-##Notes
+## Notes
+v2–4: - **2:** David’s proposal joins broad communal participation with the condition, “if it is from the LORD our God.” The people’s agreement in verse 4 confirms that the plan seems right to them, but the chapter’s later events leave open the question of how human consensus relates to faithful approach to God.  
+v6: - **6:** “The ark called by the Name” is a compact expression linking the ark with the divine Name. The wording does not identify the ark with God; rather, it marks it as the holy sign of God’s presence and reign among Israel.  
+v9–12: - **9–12:** The account does not question Uzzah’s apparent attempt to keep the ark from falling, yet it directly connects his death with his reaching out his hand against it. The sharp movement from public celebration to judgment, and then David’s fear, preserves the gravity and danger of drawing near to God without explaining away the event.  
+v11: - **11:** *Perez-uzzah* means “breach against Uzzah.” The place-name memorializes the LORD’s sudden “bursting out” against Uzzah, using the same Hebrew root.  
 
 ##Vocabulary
 

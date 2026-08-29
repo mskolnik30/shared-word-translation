@@ -70,7 +70,18 @@ v20: His servants arose and made a conspiracy and struck Joash at the house of M
 
 v21: Jozacar son of Shimeath and Jehozabad son of Shomer, his servants, struck him, and he died. They buried him with his ancestors in the city of David. Amaziah his son became king in his place.
 </p>
-##Notes
+## Notes
+v02: Joash’s faithfulness is explicitly linked to the period of Jehoiada’s instruction, a qualification developed more fully in 2 Chronicles 24.
+v03: The recurring note about high places shows that even otherwise positive kings leave decentralized worship unreformed.
+v04: The temple income categories likely include census-related money, valuation payments, and voluntary gifts.
+v06: The twenty-third-year delay exposes a breakdown in the original priest-managed repair system.
+v09–12: The chest creates a more transparent collection process involving both royal and priestly oversight.
+v10: “bind and count” may refer to wrapping the silver into measured bags after totaling it.
+v15: Formal accounting is waived because the workers are described as acting faithfully, echoing the trust language later used in Josiah’s repairs.
+v16: Money from guilt and sin offerings remains priestly income and is distinguished from building-repair funds.
+v18: Joash preserves Jerusalem by stripping both temple and palace treasuries to pay Hazael, a sharp contrast with the chapter’s earlier investment in the temple.
+v20–21: Joash dies by conspiracy from his own servants. 2 Chronicles 24 connects the assassination with the killing of Zechariah son of Jehoiada, but Kings does not supply that explanation.
+v20: “Millo” and “Silla” are topographic terms or place names whose exact identification is uncertain.
 
 ##Vocabulary
 

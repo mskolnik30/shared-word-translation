@@ -82,7 +82,13 @@ v39: Balaam went with Balak, and they came to Kiriath-huzoth.
 v40: Balak sacrificed cattle and sheep and sent portions to Balaam and to the leaders who were with him.
 v41: In the morning Balak took Balaam and brought him up to Bamoth-baal, and from there he saw the edge of the people.
 </p>
-##Notes
+## Notes
+v05: “the River” conventionally refers to the Euphrates. Pethor is associated with the region of upper Mesopotamia.
+v12: God’s first word is unambiguous: Israel is blessed and is not to be cursed.
+v20–22: God permits Balaam to go under a strict condition, yet anger burns when he goes. The narrative preserves this tension rather than explaining Balaam’s inward motive.
+v22: “adversary” — The Hebrew *satan* describes the angel’s role as an opponent in the road, not a proper name here.
+v28: The LORD opens the donkey’s mouth without explanation. The narrative’s irony is that the animal perceives the divine messenger before the professional seer does.
+v32: “reckless” — The Hebrew word is rare and difficult; it conveys a way that is perverse, rash, or contrary before the angel.
 
 ##Vocabulary
 

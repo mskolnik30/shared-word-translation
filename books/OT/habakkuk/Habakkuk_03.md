@@ -177,13 +177,25 @@ upon my heights.
 To the director,
 with my stringed instruments.
 </p>
-##Notes
-
-v01: “Shigionoth” — The Hebrew term is rare and probably indicates a musical or poetic mode.
-
-v04: “rays flash from his hand” — Hebrew *qarnayim* literally means “horns,” but in this poetic context likely describes rays or beams extending from divine brightness.
-
-v09: The Hebrew line translated “sworn were the shafts of your word” is one of the most difficult in the book. The nouns can mean oaths, rods, shafts, tribes, or speech in different combinations.
+## Notes
+v01: “Shigionoth” — The Hebrew term is rare and probably indicates a musical or poetic mode. Its precise meaning is unknown, so TSW transliterates it rather than inventing an explanation.
+v02: Habakkuk moves from questioning the LORD to praying that the LORD’s work be made alive and known. Judgment is not denied, but compassion is requested within wrath.
+v03: Teman and Mount Paran locate the divine coming in the south, evoking older traditions of the LORD’s appearance from the wilderness regions associated with Edom and Sinai.
+v03: “Selah” is a liturgical or musical notation whose precise function is uncertain. It is retained untranslated.
+v04: “rays flash from his hand” — Hebrew *qarnayim* literally means “horns,” but in this poetic context likely describes rays or beams extending from divine brightness. The metaphor retains an association between radiant power and horn-like projection.
+v05: Plague and pestilence are personified as attendants of the divine warrior.
+v06: The opening verbs are difficult and highly poetic. The LORD’s standing, looking, and action destabilize earth, nations, mountains, and hills.
+v07: “Cushan” is uncertain and may be a poetic designation associated with Cush, a regional name, or a place linked with Midian. TSW retains the received name.
+v08: Rivers and sea are addressed as though they were opponents, recalling divine victory over chaotic waters and acts of deliverance in Israel’s memory.
+v09: The Hebrew line translated “sworn were the shafts of your word” is one of the most difficult in the book. The nouns can mean oaths, rods, shafts, tribes, or speech in different combinations. TSW preserves the main lexical elements and leaves the exact relationship open.
+v10: The deep “lifts its hands” through waves or surging waters. The poem gives creation bodily response to the LORD’s arrival.
+v11: Sun and moon standing still may evoke Israel’s battle traditions, while arrows and spear are cosmic images of divine warfare.
+v13: “your anointed” can refer to the LORD’s chosen king, chosen people, or an anointed representative. The singular is retained without identifying the referent more narrowly.
+v13: “from the foundation to the neck” is a difficult architectural/body image of stripping the wicked house bare. TSW retains the strange movement rather than smoothing it.
+v14: The Hebrew is textually and syntactically difficult. TSW preserves the central reversal: the enemy’s own shafts become the means by which the head of his warriors is pierced.
+v16: Habakkuk’s body responds to revelation with trembling, quivering, and decay in the bones. Faith at the chapter’s end does not erase fear.
+v17–18: The confession of joy is made after a total agricultural collapse is imagined—fig, vine, olive, field, flock, and herd. Rejoicing is not dependent upon visible abundance.
+v19: “The LORD, my Lord” preserves both divine designations in the Hebrew. The closing musical instruction belongs to the received text of the verse and is retained within the chapter rather than treated as a later editorial heading.
 
 ##Vocabulary
 

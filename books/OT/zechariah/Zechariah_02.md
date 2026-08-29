@@ -65,11 +65,16 @@ v13: Be silent, all flesh, before the LORD,
 for the LORD has roused himself
 from his holy dwelling.
 </p>
-##Notes
-
+## Notes
 v01: The public English numbering of Zechariah differs from the traditional Masoretic chapter division at this point. The vision of the measuring line is Zechariah 2:5 in the Masoretic numbering; English Zechariah 1:18–21 corresponds to Masoretic Zechariah 2:1–4.
-
+v04: “villages without walls” — The Hebrew describes open or unwalled settlements. The image portrays growth so extensive that ordinary city walls can no longer define Jerusalem.
+v05: “a wall of fire” — Jerusalem’s security is grounded in the LORD’s presence rather than conventional fortification.
+v06: “like the four winds of heaven” — The Hebrew can describe scattering or spreading toward the four directions. The image emphasizes wide dispersion.
+v07: “daughter Babylon” — “Daughter” is a conventional poetic way of personifying a city or its population.
+v08: “After glory” — The Hebrew expression is difficult and has been understood in several ways. TSW retains its compact form rather than resolving the relationship between “glory,” the sending, and the nations.
 v08: “the pupil of his eye” — The Masoretic Hebrew reads “his eye.” Some ancient evidence and later interpretation support “my eye.” The main text preserves the Masoretic form.
+v11: The identity of the speaker shifts between divine speech and the language of one who has been “sent.” The translation preserves this tension rather than supplying an explanation.
+v13: “all flesh” — The expression refers broadly to living humanity in its creaturely condition.
 
 ##Vocabulary
 

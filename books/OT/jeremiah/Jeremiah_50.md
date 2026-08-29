@@ -366,9 +366,18 @@ the earth trembles,
 and the cry is heard
 among the nations.
 </p>
-##Notes
-
-v21: “Merathaim” and “Pekod” are Babylonian place names but also allow Hebrew wordplay with rebellion and visitation/punishment.
+## Notes
+v02: Bel and Marduk are Babylonian divine names; Marduk was the chief deity of Babylon. The oracle portrays Babylon’s fall as religious as well as imperial humiliation.
+v04–05: Israel and Judah are pictured returning together and entering an “everlasting covenant.” Restoration includes both geographical return and renewed covenant attachment.
+v06: The shepherds who should have guided the flock are blamed for causing the people to wander and forget their resting place.
+v15: “She has given her hand” can signify surrender or submission. The military image is followed immediately by the collapse of defenses.
+v20: Forgiveness is stated with striking legal imagery: guilt is sought but cannot be found because the LORD pardons the remnant.
+v21: “Merathaim” and “Pekod” are Babylonian place names but also allow Hebrew wordplay with rebellion and visitation/punishment. The oracle exploits both geography and sound.
+v23: Babylon, formerly the “hammer of the whole earth,” becomes itself shattered. Imperial violence returns upon the imperial instrument.
+v31–32: The Hebrew directly addresses a figure called “Pride” or “the Proud One,” personifying Babylon’s arrogance.
+v34: “Redeemer” is the kinship term *goel*. The LORD takes Israel’s case as the strong relative who acts to reclaim and defend.
+v38: The Hebrew word translated “terrors” is associated with frightening or senseless idols. The line portrays idolatry as a form of madness.
+v44–45: These lines closely parallel Jeremiah 49:19–20 concerning Edom. TSW preserves Jeremiah’s repetition rather than varying it for style.
 
 ##Vocabulary
 

@@ -56,11 +56,16 @@ v14: And the crowns shall be in the temple of the LORD as a memorial to Heldai, 
 
 v15: Those who are far away shall come and build the temple of the LORD, and you shall know that the LORD of Hosts has sent me to you. This shall happen if you diligently listen to the voice of the LORD your God.”
 </p>
-##Notes
-
+## Notes
+v01: “mountains of bronze” — The bronze mountains frame the departure of the chariots. The vision does not identify the mountains or explain the significance of the metal.
 v05: “four winds of heaven” — The Hebrew term *ruach* can mean “winds” or “spirits.” The chariots are heavenly agents who have stood before the Lord of all the earth.
-
+v06: “the white ones are going out after them” — The Hebrew says that the white horses go “after” the black horses. The translation preserves this wording rather than assigning them a compass direction not explicitly stated.
+v08: “have given my Spirit rest” — The phrase can also be understood as bringing God’s spirit or wrath to rest. The wording marks completion or satisfaction of divine purpose in the north without explaining the precise mechanism.
+v11: “make crowns … set a crown” — The Hebrew begins with a plural form, “crowns,” while the symbolic action centers upon Joshua. The plural is preserved where it appears rather than harmonized into a single crown throughout.
+v12: “Branch” — The title continues the image introduced in Zechariah 3. The Hebrew *tsemach* means a sprout or branch and carries associations of renewed leadership and restoration.
+v13: “There shall also be a priest by his throne” — The Hebrew describes royal and priestly roles standing in peaceful relationship. The verse has been interpreted in several ways; the translation preserves the distinction without resolving the identities beyond the wording of the text.
 v14: The Hebrew names associated with the memorial crowns vary slightly across textual traditions. The main text follows the Masoretic forms.
+v15: “Those who are far away” — Restoration of the temple widens beyond those already present in Jerusalem to people coming from a distance.
 
 ##Vocabulary
 

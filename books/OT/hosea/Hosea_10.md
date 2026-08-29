@@ -126,9 +126,18 @@ At dawn
 the king of Israel
 will be utterly cut off.
 </p>
-##Notes
-
-v07: The Hebrew image may mean foam, chip, or twig on water.
+## Notes
+v01: Israel’s fruitfulness becomes fuel for multiplying altars rather than gratitude. Prosperity intensifies misplaced worship.
+v02: “divided” can also carry the sense of smooth, deceitful, or slippery. The heart’s lack of integrity is followed by the dismantling of cultic structures.
+v04: Empty covenant-making produces “judgment” like toxic growth in cultivated land. Legal and agricultural imagery are deliberately joined.
+v05: “idolatrous priests” translates *kemarim*, a term used contemptuously for non-YHWH cultic priests.
+v07: The Hebrew image may mean foam, chip, or twig on water. The point is the fragility and disappearance of Samaria’s king.
+v08: The cry to mountains and hills expresses terror before judgment and the desire to disappear beneath creation itself.
+v09: Gibeah again functions as a memory of entrenched violence. Hosea sees continuity between that earlier corruption and present Israel.
+v10: “twofold guilt” is a difficult expression and may refer to two transgressions, double bondage, or another paired offense. TSW preserves the general sense without specifying the pair.
+v11: Threshing was easier than plowing and allowed the animal to eat while working. Ephraim’s former preference for easier service gives way to imposed labor imagery.
+v12: Agricultural repentance imagery reverses verse 13: righteousness is sown, steadfast love harvested, and hard ground broken open.
+v14: Shalman and Beth-Arbel are historically uncertain. The verse assumes a remembered atrocity without identifying it further.
 
 ##Vocabulary
 

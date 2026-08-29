@@ -189,8 +189,15 @@ because of all my transgressions.
 For my sighs are many,
 and my heart is faint.
 </p>
-##Notes
-
+## Notes
+v01: “How” — The Hebrew *ekhah* opens the lament with a cry of shock and grief. The same word gives the book its Hebrew title.
+v01: “forced labor” — The Hebrew *mas* can describe tribute, levy, or compulsory labor. The reversal is severe: the city once described as a princess has become subject to imposed service.
+v03: “in narrow places” — The Hebrew expression can describe literal constricted places and also distress or entrapment. The translation preserves the spatial image.
+v08–09: Jerusalem’s condition is expressed through imagery of ritual uncleanness, exposed nakedness, and soiled clothing. The poem does not separate public humiliation from theological judgment.
+v12: “Is it nothing to you?” — The Hebrew opening is compressed and has been interpreted in more than one way. The line addresses those passing by and demands that they look upon suffering without indifference.
+v14: “the yoke of my transgressions” — Wrongdoing is pictured as a burden bound together and placed upon the neck. The image joins responsibility and consequence.
+v18: “rebelled against his mouth” — The Hebrew names rebellion against the LORD’s “mouth,” preserving the concrete connection between divine speech and disobedience.
+v21–22: The speaker acknowledges the LORD’s judgment and at the same time asks for corresponding judgment upon enemies who rejoice over Jerusalem’s ruin. Confession and protest remain together.
 v01–22: The chapter is an alphabetic acrostic in Hebrew, with successive verses beginning with successive letters of the Hebrew alphabet. The English translation preserves the verse structure rather than attempting to recreate the acrostic.
 
 ##Vocabulary

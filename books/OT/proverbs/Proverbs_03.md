@@ -124,7 +124,17 @@ v34: Toward the scornful he is scornful,
 v35: The wise will inherit honor,
   but fools display dishonor.
 </p>
-##Notes
+## Notes
+v1–2: The opening parallels covenant language. Teaching is bound to length of days and well-being (shalom)—not as transaction, but as the shape of life rightly ordered.
+v3: Kindness (ḥesed) and faithfulness (ʾemet) are paired throughout the Hebrew Scriptures. The “tablet of your heart” anticipates Jeremiah 31’s promise of internalized covenant.
+v5–6: Two of the most frequently quoted verses in Hebrew wisdom literature. “Acknowledge” (yāḏaʿ) is the verb of intimate knowing rather than mere recognition.
+v7–8: Healing language is applied to wisdom itself. Discipline produces health, not depletion.
+v11–12: Discipline (mûsār) and reproof (toḵaḥaṯ) are framed as expressions of love rather than rejection. The verses are quoted in Hebrews 12.
+v13–18: Wisdom is personified with feminine grammar; her right hand and left hand together compose a royal portrait. The “tree of life” in v.18 recalls Genesis 2–3 without explicit reference.
+v19–20: The cosmic scope. Wisdom is not only useful for living, but is the means by which the world itself was made.
+v27–28: Practical generosity. The neighbor is owed not when it is convenient but when the means are present.
+v29: “Trustingly” renders the same Hebrew root used for security in vv. 23–24. The neighbor’s safety is bound to one’s own.
+v33–35: The closing four verses form an antithetical structure—wicked and righteous, scornful and humble, wise and fools. The categories are not flattened, but distinguished sharply.
 
 ##Vocabulary
 

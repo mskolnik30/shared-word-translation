@@ -116,7 +116,21 @@ If only I had died instead of you,
 Absalom, my son,
 my son!”
 </p>
-##Notes
+## Notes
+v02: Ittai the Gittite commands one third of David’s army despite being a recent foreign ally, showing the trust David now places in him.
+v03: The troops recognize David as the strategic target and refuse to risk him in open battle.
+v05: David’s public command to “deal gently” with Absalom creates the moral tension of the chapter. Every commander and soldier knows the king wants his son spared.
+v08: “the forest devoured more” may refer to terrain, pits, branches, confusion, and flight casualties. The forest itself is personified as an agent of death.
+v09: The text says Absalom’s “head” caught in the tree, not specifically his hair. His famous hair from chapter 14 may invite association, but TSW does not insert it.
+v09: Hanging “between the heavens and the earth” visually expresses Absalom’s suspended political and familial status: neither safely mounted nor grounded.
+v12–13: The unnamed soldier refuses a large reward because David’s command was public and because he does not trust Joab to protect him afterward.
+v14: The objects Joab thrusts into Absalom are literally “staffs” or “rods,” traditionally rendered darts. The following ten men complete the killing.
+v17: Absalom receives burial beneath a stone heap in the forest, contrasting with the monument he had built to preserve his name.
+v18: This verse says Absalom had no son, while 14:27 says three sons were born to him. They may have died before the monument was made, or the traditions may reflect different stages. TSW preserves both statements without harmonization.
+v19: Ahimaaz interprets victory as the LORD’s judicial deliverance, but Joab knows the king will not experience the news as simply good.
+v29: Ahimaaz evades David’s direct question about Absalom, whether from ignorance or unwillingness to speak the death.
+v32: The Cushite conveys Absalom’s death indirectly through a wish that all David’s enemies share his fate.
+v33: David’s lament is stripped of royal language and political analysis. He repeats only “my son” and wishes for substitutionary death.
 
 ##Vocabulary
 

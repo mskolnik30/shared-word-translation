@@ -37,7 +37,12 @@ upon all flesh,” says the LORD,
 “but I will give you your life as plunder
 in every place where you go.”
 </p>
-##Notes
+## Notes
+v01: The chapter returns chronologically to the fourth year of Jehoiakim and is closely connected with Baruch’s writing work in Jeremiah 36.
+v03: Baruch’s lament is preserved without rebuke for feeling grief. The divine response addresses the scale of his expectations amid a collapsing world.
+v04: “build” and “plant,” normally hopeful verbs in Jeremiah, are reversed by “tear down” and “uproot.” The whole land is undergoing the destructive side of Jeremiah’s prophetic commission.
+v05: The nature of the “great things” Baruch seeks is not specified. TSW preserves the open wording rather than guessing whether the concern was status, security, prophetic recognition, or something else.
+v05: Baruch is not promised escape from upheaval but preservation of life. The recurring phrase “life as plunder” describes survival when other gains cannot be secured.
 
 ##Vocabulary
 

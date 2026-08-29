@@ -113,9 +113,13 @@ and he will save the one of lowered eyes.
 v30: He will deliver even one who is not innocent;
 he will be delivered through the cleanness of your hands.”
 </p>
-##Notes
-
-v30: The Hebrew final verse is difficult.
+## Notes
+v05–09: Eliphaz moves from implication to explicit accusation, charging Job with economic exploitation, withholding food and water, and harming widows and orphans. None of these charges has been supported by the narrative.
+v13–14: Eliphaz puts a theology of divine remoteness into Job’s mouth, although Job’s complaint has usually been the opposite: God is painfully present and attentive.
+v15–20: The “ancient path” may allude to a remembered catastrophic judgment, perhaps the flood, but the reference is not explicit.
+v18: Eliphaz repeats Job’s own wording from 21:16—“the counsel of the wicked is far from me”—while embedding it within his contrary argument.
+v21–30: Eliphaz offers reconciliation with God through repentance and rejection of wealth. Much of the counsel could be sound for a guilty oppressor, but the speech presupposes Job is such a person.
+v30: The Hebrew final verse is difficult. It can imply that Job’s clean hands would become a means of deliverance even for someone guilty, an ironic anticipation of Job’s later intercession for the friends.
 
 ##Vocabulary
 

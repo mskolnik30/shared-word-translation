@@ -59,9 +59,8 @@ and their time would be forever.
 v16: I would feed Israel with the finest wheat,
 and with honey from the rock I would satisfy you.”
 </p>
-##Notes
-
-Superscription: “Gittith” is a musical or liturgical designation whose precise meaning is uncertain; it is retained rather than translated.
+## Notes
+v05: The shift to a first-person divine voice begins in the second half of the verse. The sudden transition is part of the psalm’s rhetoric and is retained.
 
 ##Vocabulary
 

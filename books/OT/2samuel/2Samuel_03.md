@@ -122,11 +122,20 @@ v38: The king said to his servants, “Do you not know that a prince and a great
 
 v39: And I am weak today, though anointed king, and these men, the sons of Zeruiah, are too severe for me. May the LORD repay the evildoer according to his evil.”
 </p>
-##Notes
-
+## Notes
+v01: The civil war is framed as a gradual transfer of strength from Saul’s house to David’s rather than a sudden seizure of the kingdom.
+v03: Chileab is called Daniel in 1 Chronicles 3:1. The reason for the alternate name is not explained.
+v07: Taking a former king’s concubine could carry a claim to royal authority. Ish-Bosheth’s accusation therefore has political as well as sexual implications.
 v08: Abner’s “dog’s head” insult is difficult in syntax but clearly expresses outrage at being treated as disloyal after supporting Saul’s house.
-
-v29: The term rendered “holds a spindle” is uncertain and has also been understood as one who leans on a staff.
+v09–10: Abner appeals to the LORD’s oath concerning David only after his rupture with Ish-Bosheth, making political interest and theological recognition difficult to separate.
+v13–16: Michal is transferred from Paltiel back to David without her own voice in the narrative. Her legal status as David’s earlier wife and her later marriage are subordinated to dynastic politics.
+v14: 1 Samuel 18:25 records Saul’s demand for one hundred Philistine foreskins, while David actually delivered two hundred. David here cites the original bride-price.
+v18: The exact earlier oracle quoted by Abner is not preserved elsewhere in this wording. The narrative presents David’s kingship as part of divine deliverance from enemies.
+v21: Abner leaves “in peace” three times emphasized across verses 21–23, intensifying Joab’s later violation of safe conduct.
+v27: Joab kills Abner at Hebron, which later becomes a city of refuge. The narrative explicitly identifies blood vengeance for Asahel as the motive.
+v29: David’s curse upon Joab’s house reflects ancient assumptions about household consequences and is severe. The term rendered “holds a spindle” is uncertain and has also been understood as one who leans on a staff.
+v30: Abishai is included in responsibility for Abner’s death although verse 27 narrates Joab as the direct killer.
+v39: David’s confession that the sons of Zeruiah are “too severe” exposes the limits of his control over his own military leaders.
 
 ##Vocabulary
 

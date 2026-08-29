@@ -68,7 +68,18 @@ v31: These are the sons of Shem, by their clans, their languages, their lands, a
 <p>
 v32: These are the clans of the sons of Noah, according to their generations, in their nations. And from these the nations spread abroad upon the earth after the flood.
 </p>
-##Notes
+## Notes
+v1: The chapter begins with the generations of Noah’s sons, shifting attention from a single family to the origins of the nations.  
+v2–5: Japheth’s descendants are associated with peoples spread across distant lands and coastlands.  
+v5: Languages are mentioned before the account of Babel in the next chapter. The genealogy arranges peoples by their later historical realities.  
+v8–12: Nimrod receives unusual attention within the genealogy. His identity is linked with power, cities, and kingship.  
+v9: “Before the LORD” may indicate prominence in the LORD’s sight, whether for honor or notoriety. The expression remains open-ended.  
+v10: Babel appears here before its role in the narrative of Genesis 11.  
+v13–14: The genealogy traces connections among peoples known throughout later biblical history, including the Philistines.  
+v15–19: The descendants of Canaan are described both by lineage and by territory.  
+v21: Eber receives special notice because his line will eventually lead to Abraham.  
+v25: The meaning of the earth being “divided” in Peleg’s days is not explained. The text leaves the nature of the division unstated.  
+v32: The chapter emphasizes both common ancestry and the diversity of nations spread across the earth.  
 
 ##Vocabulary
 

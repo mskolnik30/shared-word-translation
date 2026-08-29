@@ -67,9 +67,15 @@ v26: Now, O LORD, you are God, and you have spoken this good thing concerning yo
 
 v27: And now, may it please you to bless your servant’s house, that it may continue forever before you. For you, O LORD, have blessed it, and it is blessed forever.”
 </p>
-##Notes
-
-v17: The final phrase is difficult and has been translated in different ways. It may refer to the status of an exalted human being, to divine instruction concerning humanity, or to God’s unusual regard for David.
+## Notes
+v1: - v1: The contrast between David’s cedar house and the ark “under tent curtains” begins the chapter’s central reversal: David proposes to build a house for God, but God promises to build a “house” for David.  
+v5: - v5: “From tent to tent and from dwelling place to dwelling place” emphasizes God’s movement with Israel. The LORD’s presence has not depended on a permanent royal or sacred structure.  
+v10: - v10: “House” shifts from a building to a dynasty. The LORD’s promise that he will “build you a house” concerns David’s enduring royal line.  
+v13: - v13: “Steadfast love” translates *ḥesed*, God’s faithful covenant love. The wording contrasts David’s future descendant with “the one who was before you,” an indirect reference that recalls Saul without naming him.  
+v14: - v14: “My house and my kingdom” places the Davidic throne within God’s larger reign. The promise is not simply about David’s family’s political power but about God’s own kingdom and purpose.  
+v17: - v17: The final phrase is difficult and has been translated in different ways. It may refer to the status of an exalted human being, to divine instruction concerning humanity, or to God’s unusual regard for David. The translation preserves the phrase’s elevated and uncertain wording.  
+v21: - v21: David’s praise joins Israel’s redemption from Egypt with God’s reputation among the nations. The “great and awe-inspiring deeds” are associated with God’s deliverance of Israel and the driving out of nations before them.  
+v25: - v25: Literally, God has “uncovered the ear” of David’s servant. The expression describes a disclosure that gives David confidence to pray.  
 
 ##Vocabulary
 

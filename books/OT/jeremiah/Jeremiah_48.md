@@ -303,7 +303,17 @@ says the LORD.
 
 Thus far is the judgment on Moab.
 </p>
-##Notes
+## Notes
+v01–25: The oracle moves rapidly through Moabite cities and regions. The geography itself becomes a catalogue of judgment, and many locations are difficult to identify precisely.
+v07: Chemosh was the national god associated with Moab. His exile with priests and officials portrays the collapse of Moab’s religious and political order.
+v10: The curse against negligent performance of the LORD’s work is unusually severe because the “work” in this context is the announced act of judgment. TSW preserves the verse without turning it into a general endorsement of violence.
+v11–12: Moab is compared with wine left undisturbed on its sediment. Long stability has preserved its characteristic “taste” and “scent”; coming judgment is pictured as being poured out from vessel to vessel.
+v13: Bethel represents the northern kingdom’s misplaced religious confidence. Moab’s trust in Chemosh is said to end in comparable shame.
+v26: The imagery of drunkenness and vomit deliberately humiliates Moab after its self-exaltation against the LORD.
+v32: Sibmah’s vine extends beyond ordinary geography in poetic abundance. The destroyer reaches the very places from which prosperity came.
+v36: The LORD’s own heart is described as mourning for Moab even within an oracle of judgment. Judgment and lament are not separated.
+v45: The language echoes an older poem associated with Sihon and Moab. Jeremiah reuses inherited poetic material within the new judgment oracle.
+v47: The final promise of restored fortunes prevents Moab’s judgment from being the final word.
 
 ##Vocabulary
 

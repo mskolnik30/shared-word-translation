@@ -96,9 +96,22 @@ v31: to establish these days of Purim at their appointed times, just as Mordecai
 
 v32: Esther’s command established these matters of Purim, and it was written in the book.
 </p>
-##Notes
+## Notes
+v01: The verse states the book’s central reversal explicitly: the day expected to bring Judean destruction becomes the day their enemies are overcome.
+v02: The Judeans gather against those “who sought their harm,” preserving the defensive framework established by the second decree.
+v05: “did as they pleased” is broad victory language. The repeated refusal to take plunder in verses 10, 15, and 16 places a deliberate limit upon the material benefit of the violence.
 
-v29: “with full authority” translates a phrase literally associated with strength.
+v06, v15–16: The numbers of those killed are very large and part of the Masoretic narrative’s received account. TSW preserves them without attempting to reduce or harmonize them.
+v10: The ten sons of Haman are killed before their bodies are ordered hanged in verse 13. Hanging therefore functions as postmortem public display as well as execution imagery elsewhere in the book.
+v13: Esther requests a second day of authorized action in Susa. The text does not state her rationale beyond continuation of the existing law.
+v16: “rest from their enemies” is covenantally resonant language, transforming survival into settled relief.
+v19: The differing dates reflect the additional day of conflict in Susa. Rural towns celebrate on the fourteenth, while Susa rests on the fifteenth.
+v22: Purim remembrance is expressed through feasting, mutual food gifts, and gifts to the poor. Communal joy therefore includes economic sharing.
+v24: “Pur” is singular; “Purim” is its plural form, “lots.” A tool intended to choose the day of destruction becomes the name of the festival remembering reversal.
+v25: The summary compresses earlier events and says that when “it” came before the king, the evil scheme was returned on Haman’s head. Esther’s own agency is less explicit in this retrospective summary than in chapters 7–8.
+v27: “all who joined them” opens observance beyond those born into the Judean community to those who attach themselves to it.
+v29: “with full authority” translates a phrase literally associated with strength. Esther and Mordecai jointly confirm the observance.
+v31: Fasting and “their cry” are incorporated into the later memory of Purim, connecting celebration with the earlier communal distress.
 
 ##Vocabulary
 

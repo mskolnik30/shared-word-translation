@@ -42,7 +42,17 @@ as the people of the God of Abraham.
 For the shields of the earth belong to God;
 he is highly exalted.
 </p>
-##Notes
+## Notes
+v1: The summons extends to “all peoples,” widening the scope beyond Israel to the nations.  
+v2: “Most High” emphasizes God’s supremacy, while “fearsome” preserves the sense of awe before divine power.  
+v3–4: The language of subduing and inheritance reflects Israel’s historical memory, held here within a liturgical setting.  
+v4: “The pride of Jacob” may refer either to the land or to the people themselves. The ambiguity is retained.  
+v5: “God has gone up” likely reflects a liturgical or symbolic ascent, possibly associated with enthronement imagery.  
+v6–7: Repetition of “sing praises” sustains the rhythm of communal worship rather than seeking stylistic variation.  
+v7: “With understanding” suggests ordered or skillful praise, not merely emotional expression.  
+v8: God’s reign is both universal (“over the nations”) and particular (“his holy throne”).  
+v9: The gathering of “princes” alongside “the people of the God of Abraham” suggests inclusion without erasing distinction.  
+v9: “Shields” functions as a metonym for rulers or powers. Authority ultimately belongs to God.  
 
 ##Vocabulary
 

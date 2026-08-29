@@ -77,7 +77,11 @@ for I will contend with the one who contends with you, and I will save your chil
 v26: I will feed those who oppress you with their own flesh;
 and they will be drunken with their own blood, as with sweet wine: and all flesh will know that I, the LORD, am your Savior, and your Redeemer, the Mighty One of Jacob.
 </p>
-##Notes
+## Notes
+v15: Maternal imagery is retained without qualification: the LORD’s faithfulness is compared with, and then declared even more enduring than, a nursing mother’s remembrance.  
+v7: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+v7: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
+v3: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
 ##Vocabulary
 

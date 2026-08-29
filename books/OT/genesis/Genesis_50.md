@@ -80,7 +80,18 @@ v25: Then Joseph made the sons of Israel swear, saying, “God will surely visit
 
 v26: So Joseph died, being 110 years old. They embalmed him, and he was put in a coffin in Egypt.
 </p>
-##Notes
+## Notes
+v1–3: Egyptian burial practices frame the narrative, situating Israel within a foreign cultural context.  
+v4–6: Joseph operates through mediated authority, respecting Egyptian court protocol.  
+v7–9: The funeral procession is royal in scale, reflecting Joseph’s status.  
+v10–11: Mourning is publicly visible and culturally interpreted, even by outsiders.  
+v13: The burial in Machpelah reinforces continuity with Abrahamic promise and land claim.  
+v15–17: The brothers’ fear persists despite reconciliation, revealing unresolved guilt.  
+v19: Joseph refuses divine prerogative—judgment belongs to God alone.  
+v20: Human intention and divine purpose are held together without collapsing one into the other.  
+v21: Provision replaces retribution; reconciliation is enacted materially.  
+v24–25: “God will surely visit you” anticipates Exodus, linking Genesis to future deliverance.  
+v26: The coffin in Egypt marks an unresolved ending—promise awaits fulfillment.
 
 ##Vocabulary
 

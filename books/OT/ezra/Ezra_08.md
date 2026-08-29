@@ -100,15 +100,19 @@ v35: The returned exiles who had come from captivity offered burnt offerings to 
 
 v36: They delivered the king’s commissions to the king’s satraps and to the governors of the province Beyond the River, and they supported the people and the house of God.
 </p>
-##Notes
-
-v05: The Hebrew text lacks an explicit personal name before “son of Jahaziel.” Some ancient witnesses preserve a name.
-
-v10: Likewise, the Masoretic wording gives “the son of Josiphiah” without an explicit first name.
-
+## Notes
+v01: Ezra shifts into first-person narration, giving the travel account the form of a personal report embedded within the larger book.
+v02–14: The genealogy identifies household leaders and the male members traveling with them. As in Ezra 2, the list is part of the community’s concern for continuity and accountable identity.
+v05: The Hebrew text lacks an explicit personal name before “son of Jahaziel.” Some ancient witnesses preserve a name. TSW follows the Masoretic wording without supplying one.
+v10: Likewise, the Masoretic wording gives “the son of Josiphiah” without an explicit first name. TSW preserves the textual form rather than importing a name from another tradition.
+v15: Ezra finds priests among the travelers but no Levites, prompting a deliberate effort to recruit ministers for temple service.
 v17: “I put in their mouths the words” is a concrete Hebrew idiom for giving precise instructions about what to say.
-
+v21: The requested “straight way” includes the whole traveling community—adults, little children, and possessions—not merely Ezra’s personal safety.
+v22: Ezra’s reluctance to request military protection arises from his public testimony concerning God’s hand. The narrative presents the fast as dependence upon that confession, not as a universal rejection of governmental protection.
 v24: The syntax of the list is compressed. The twelve leading priests are distinguished from Sherebiah, Hashabiah, and their Levite brothers, though English punctuation can make the grouping appear uncertain.
+v26–27: The quantities represent an extraordinarily valuable trust. The emphasis falls on weighing, holiness, guarding, and later accounting.
+v31: The successful journey is attributed to the hand of God after the community had fasted and sought him.
+v35: Twelve bulls and twelve male goats represent “all Israel,” even though the returned community is drawn primarily from Judah and Benjamin. The restored community understands itself within the twelve-tribe identity.
 
 ##Vocabulary
 

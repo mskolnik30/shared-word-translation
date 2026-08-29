@@ -42,7 +42,14 @@ v18: I told them how the good hand of my God had been upon me and also the words
 v19: But when Sanballat the Horonite, Tobiah the Ammonite servant, and Geshem the Arabian heard, they mocked us and despised us and said, “What is this thing you are doing? Are you rebelling against the king?”
 v20: I answered them and said, “The God of heaven will give us success. We, his servants, will rise up and build. But you have no portion, right, or memorial in Jerusalem.”
 </p>
-##Notes
+## Notes
+v01: “Nisan” — The first month in the later Judean calendar. Several months have passed since the report in Kislev in chapter 1.
+v04: Nehemiah’s brief prayer occurs within the royal conversation. The narrative places deliberate planning and immediate prayer beside one another.
+v07: “Beyond the River” — A Persian administrative designation for territory west of the Euphrates.
+v08: “the good hand of my God” — A recurring expression in Ezra–Nehemiah for divine favor expressed through concrete circumstances.
+v10: “Ammonite servant” — “Servant” may be an official title or a term of status; the text does not define Tobiah’s office precisely.
+v13–15: The nighttime inspection lets Nehemiah assess the damage before publicly announcing the project.
+v20: “portion, right, or memorial” — The three terms deny Sanballat, Tobiah, and Geshem a recognized claim within Jerusalem’s restored civic-religious community.
 
 ##Vocabulary
 

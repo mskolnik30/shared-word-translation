@@ -88,12 +88,18 @@ v29: Therefore I make a decree that any people, nation, or language that speaks 
 
 v30: Then the king caused Shadrach, Meshach, and Abednego to prosper in the province of Babylon.
 </p>
-##Notes
-
+## Notes
+v01: The image’s dimensions—sixty cubits high and six cubits wide—produce an unusually tall, narrow form. The text does not identify whether it depicts the king, a deity, or another imperial symbol.
+v02–03: The repeated official titles and the repeated phrase “the image that King Nebuchadnezzar had set up” create an intentionally bureaucratic and ceremonial rhythm.
 v05: Several musical instrument names are Greek loanwords in the Aramaic text, reflecting international court culture. Exact identification of every instrument is uncertain.
-
 v08: “maliciously accused” is literally an idiom involving “eating the pieces” of the Judeans, a vivid Aramaic expression for slanderous accusation.
-
+v12: The accusation combines religious refusal with political disrespect: “they pay no attention to you.”
+v17–18: The men confess both divine ability and their own willingness to remain faithful even if rescue does not occur. Their loyalty is not conditional upon deliverance.
+v25: “like a son of the gods” is Nebuchadnezzar’s pagan royal description of the fourth figure. Verse 28 later calls the rescuer God’s “messenger.” TSW does not replace the king’s wording with a later theological identification.
+v27: The deliverance is total: body, hair, clothing, and even smell remain untouched.
+v28: “gave up their bodies” emphasizes embodied loyalty. They prefer death to worship of another god.
+v29: Nebuchadnezzar responds to miraculous deliverance with another coercive imperial decree. The narrative does not present his threat of dismemberment as a model of faithful worship.
+v23: The Greek form of Daniel inserts the Prayer of Azariah and Song of the Three Young Men between verses 23 and 24. These additions are not part of the Masoretic/Aramaic form and therefore are not placed in the TSW main text.
 v23: The Greek form of Daniel inserts the Prayer of Azariah and Song of the Three Young Men between verses 23 and 24. These additions are not part of the Masoretic/Aramaic form.
 
 ##Vocabulary

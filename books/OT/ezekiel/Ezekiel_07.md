@@ -52,7 +52,9 @@ v25: Anguish comes, and they will seek peace, but there will be none.
 v26: Disaster upon disaster will come, and rumor shall be upon rumor. They will seek a vision from the prophet, but the law will perish from the priest and counsel from the elders.
 v27: The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will tremble. According to their way, I will deal with them, and by their judgments, I will judge them. Then they shall know that I am the LORD."
 </p>
-##Notes
+## Notes
+v3: v3 The transition "now the end is upon you," with the use of "now," signals urgency and immediacy in the unveiling of divine judgment.  
+v9: v9 The repetition of the expression "my eye will not spare, nor will I have pity," emphasizes the completeness and rigidity of Yahweh's judgment.  
 
 ##Vocabulary
 

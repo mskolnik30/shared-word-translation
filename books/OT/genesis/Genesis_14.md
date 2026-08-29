@@ -57,7 +57,18 @@ v22: But Abram said to the king of Sodom, “I have lifted my hand to the LORD, 
 v23: that I would not take a thread or a sandal strap or anything that is yours, lest you should say, ‘I have made Abram rich.’
 v24: I will take nothing except what the young men have eaten and the share of the men who went with me. Let Aner, Eshcol, and Mamre take their share.”
 </p>
-##Notes
+## Notes
+v1–4: The chapter places Abram within a wider political world of kings, alliances, tribute, and rebellion.
+v5–7: The campaign of Chedorlaomer demonstrates the power of the eastern coalition before the battle reaches Sodom.
+v12: Lot’s capture results from his association with Sodom. His location now has consequences beyond personal prosperity.
+v13: Abram is called “the Hebrew,” one of the earliest uses of the designation in Scripture.
+v14–16: Abram’s victory comes through a small household force. The narrative highlights effectiveness without attributing it to military strength alone.
+v17–20: Melchizedek appears suddenly and without genealogy. The text offers no explanation of his origins or later history.
+v18: Melchizedek combines kingship and priesthood, a rare pairing within the biblical narrative.
+v19–20: The blessing identifies God as “maker of heaven and earth,” locating Abram’s victory within God’s sovereignty.
+v20: Abram’s gift of a tenth acknowledges Melchizedek’s priestly role and God’s provision.
+v21–24: Abram refuses enrichment from the king of Sodom. His prosperity is to be attributed to God rather than political obligation.
+v22–23: The contrast between Melchizedek and the king of Sodom shapes the conclusion of the chapter. Abram receives blessing but rejects dependence.
 
 ##Vocabulary
 

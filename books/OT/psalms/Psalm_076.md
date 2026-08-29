@@ -48,9 +48,9 @@ bring gifts to the One who is to be feared.
 v12: God cuts off the spirit of princes
 and is fearsome to the kings of the earth.
 </p>
-##Notes
-
-v04: “Mountains of prey” is the Masoretic reading.
+## Notes
+v04: “Mountains of prey” is the Masoretic reading. The image is abrupt, and some ancient witnesses reflect different wording.
+v10: The second line is difficult. The Hebrew may describe God restraining, girding on, or being adorned by the remainder of human wrath. The main text preserves the concrete image without forcing a single explanation.
 
 ##Vocabulary
 

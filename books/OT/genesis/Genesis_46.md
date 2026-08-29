@@ -68,7 +68,21 @@ v32: The men are shepherds, for they have been keepers of livestock, and they ha
 v33: And when Pharaoh calls you and says, ‘What is your occupation?’
 v34: you shall say, ‘Your servants have been keepers of livestock from our youth even until now, both we and our fathers,’ so that you may dwell in the land of Goshen, for every shepherd is an abomination to the Egyptians.”
 </p>
-##Notes
+## Notes
+v1: Jacob pauses at Beersheba, a place closely associated with Abraham and Isaac, before leaving the promised land.  
+v2–4: God's reassurance addresses the fear that moving to Egypt might conflict with the covenant promises.  
+v3: Egypt will become the place where Israel grows into a great nation.  
+v4: The promise that God will go with Jacob anticipates God's continuing presence during Israel's time in Egypt.  
+v4: Joseph closing Jacob's eyes refers to being present at his father's death.  
+v5–7: The migration includes the entire covenant family and marks a major transition in biblical history.  
+v8–27: The genealogy emphasizes that the family entering Egypt is already becoming a people.  
+v15, v18, v22, v25: The descendants are grouped according to the four mothers of the tribes of Israel.  
+v27: The number seventy symbolizes fullness and completeness while also providing a historical census.  
+v28: Judah again appears in a leadership role, guiding the family toward Joseph.  
+v29: The long-awaited reunion between Joseph and Jacob is marked by deep emotion.  
+v30: Jacob's words express contentment after years of grief and uncertainty.  
+v31–34: Joseph wisely prepares his family for their audience with Pharaoh.  
+v34: Goshen provides a suitable region for shepherding while maintaining some separation from Egyptian society.  
 
 ##Vocabulary
 

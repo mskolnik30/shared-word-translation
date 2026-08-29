@@ -99,7 +99,13 @@ v25: I chose their way and sat as chief;
 I lived like a king among his troops,
 like one who comforts mourners.”
 </p>
-##Notes
+## Notes
+v02–06: Job remembers former blessing not merely as wealth but as divine protection, family presence, and a sense of intimate counsel with God.
+v07: The city gate was a place of legal judgment and communal leadership. Job’s seat there signifies public responsibility, not private prestige alone.
+v12–17: Job provides concrete evidence against Eliphaz’s accusations in chapter 22: he delivered the poor, defended the fatherless, encouraged widows, aided disabled people, and investigated unfamiliar cases.
+v14: Righteousness and justice are pictured as clothing, not occasional actions. They characterize Job’s public identity.
+v18–20: Job expected his faithful life to continue into a secure old age. His former expectation resembles the outcome the friends insist righteousness should produce.
+v23: Counsel is compared to seasonal rain needed for life and harvest, showing how the community once valued Job’s words.
 
 ##Vocabulary
 

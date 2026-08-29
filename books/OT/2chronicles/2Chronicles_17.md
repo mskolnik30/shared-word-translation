@@ -60,9 +60,11 @@ v18: next to him Jehozabad, and with him one hundred eighty thousand equipped fo
 
 v19: These served the king besides those whom the king had put in the fortified cities throughout all Judah.
 </p>
-##Notes
-
+## Notes
 v03: “Earlier ways of David” may distinguish David’s faithful period from later failures or may reflect a textual variant.
+v06: “His heart was courageous” describes inward boldness in pursuing the LORD’s ways.
+v09: The royal teaching mission centers on the written “book of the instruction of the LORD.”
+v10: Military security is attributed to the “fear of the LORD” falling upon surrounding kingdoms.
 
 ##Vocabulary
 

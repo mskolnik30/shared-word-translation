@@ -83,7 +83,14 @@ and on his own skull his violence descends.
 v17: I will give thanks to the LORD according to his righteousness,
 and I will sing praise to the name of the LORD Most High.
 </p>
-##Notes
+## Notes
+v1–2: Refuge language frames the psalm—threat is immediate and violent.  
+v3–5: The psalmist invites judgment if guilty—confidence rests on integrity.  
+v6–9: Appeal shifts from personal defense to divine justice over all peoples.  
+v9: God is described as examiner of “minds and hearts,” internal as well as external.  
+v10–13: Divine judgment is active and prepared, not passive.  
+v14–16: Evil is self-generating and self-destructive—violence returns to its source.  
+v17: The psalm ends in praise grounded in God’s righteousness, not circumstances.  
 
 ##Vocabulary
 

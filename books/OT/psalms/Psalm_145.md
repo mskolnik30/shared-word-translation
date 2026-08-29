@@ -92,7 +92,16 @@ but all the wicked he will destroy.
 v21: My mouth will speak the praise of the LORD,
 and let all flesh bless his holy name forever and ever.
 </p>
-##Notes
+## Notes
+v1–3: Praise is continuous and rooted in God’s immeasurable greatness.  
+v4–7: Testimony is generational—faith is transmitted through speech.  
+v8–9: God’s character echoes earlier formulations (Exodus tradition).  
+v10–13: Praise expands to all creation and centers on God’s kingdom.  
+v13: Divine rule is enduring across time.  
+v14–16: God’s care is both personal and universal—sustaining all life.  
+v17–20: Righteousness and mercy coexist with judgment.  
+v18: Nearness is relational, conditioned by truth.  
+v21: Final expansion—individual praise becomes universal.  
 
 ##Vocabulary
 

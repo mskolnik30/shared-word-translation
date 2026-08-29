@@ -84,9 +84,19 @@ v26: When the king of Moab saw that the battle was too strong for him, he took w
 
 v27: Then he took his firstborn son, who was to reign in his place, and offered him as a burnt offering upon the wall. And there was great wrath against Israel, so they withdrew from him and returned to the land.
 </p>
-##Notes
-
-v27: The phrase “great wrath against Israel” is ambiguous: it may refer to divine wrath, Moabite fury, or another overwhelming reaction.
+## Notes
+v01–03: Jehoram removes one Baal pillar yet continues Jeroboam’s rival worship system. Reform is partial and does not amount to covenant faithfulness.
+v04: Mesha’s role as sheep breeder and his large wool tribute correspond broadly with Moab’s pastoral economy. The Mesha Inscription provides an external Moabite account of conflict with Israel but differs in perspective and detail.
+v07: Jehoshaphat repeats the alliance language he used with Ahab in 1 Kings 22.
+v09: The army’s chosen route through Edom creates logistical difficulty, making water the immediate crisis before battle begins.
+v11: “poured water on the hands of Elijah” is servant-language, indicating Elisha’s close attendance upon Elijah.
+v13: Elisha sharply distances himself from Ahab’s prophetic world and says he is engaging the coalition only because of Jehoshaphat.
+v15: Music accompanies the coming of the LORD’s hand upon Elisha. The text does not explain whether the music induces prophecy or prepares the prophet.
+v17: The water arrives without visible rain or wind, emphasizing divine provision beyond ordinary observation.
+v19: The instruction to fell good trees conflicts with the general siege law of Deuteronomy 20:19–20. The narrative does not explain the relationship; TSW preserves the tension.
+v22–23: Sunrise reflecting from the water produces the deceptive appearance of blood, which Moab interprets through the fragile alliance of the three kings.
+v25: Kir-Hareseth is Moab’s remaining fortified center after systematic devastation of the surrounding land.
+v27: The human sacrifice is the climax of the chapter’s horror. The phrase “great wrath against Israel” is ambiguous: it may refer to divine wrath, Moabite fury, or another overwhelming reaction. TSW does not identify the source beyond the text.
 
 ##Vocabulary
 

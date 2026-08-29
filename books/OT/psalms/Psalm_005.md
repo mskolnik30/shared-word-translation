@@ -73,7 +73,14 @@ that those who love your name may exult in you.
 v12: For you bless the righteous, O LORD;
 you cover him with favor as with a shield.
 </p>
-##Notes
+## Notes
+v1–3: Prayer is persistent and ordered—morning establishes orientation toward God.
+v4–6: God’s character excludes evil; holiness defines access.
+v7: Entry into God’s presence is grounded in steadfast love, not merit.
+v8: Guidance is needed because of opposition; righteousness is the path.
+v9: The wicked are described in terms of speech—falsehood, flattery, destruction.
+v10: Judgment is framed as consequence (“fall by their own counsels”).
+v11–12: Refuge produces joy; protection is relational (“spread your protection”).
 
 ##Vocabulary
 

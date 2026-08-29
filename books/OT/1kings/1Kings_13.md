@@ -112,10 +112,13 @@ v33: After this, Jeroboam did not turn from his evil way. Again he made from all
 <p>
 v34: This matter became sin for the house of Jeroboam, leading to its destruction and removal from the face of the earth.
 </p>
-##Notes
-
+## Notes
+v2–33: - **v2 — “Josiah by name”:** The oracle names a future Davidic king long before the narrative introduces him. The named future judgment gives the altar at Bethel—and the worship it represents—a horizon beyond Jeroboam’s present reign.  
+v3–5: - **v3, v5 — “sign”:** The altar’s immediate rupture confirms the spoken word. The sign does not merely display power; it embodies the announced judgment upon the altar.  
+v18: - **v18 — “But he lied to him”:** The narrative states the old prophet’s deception plainly. The man of God faces competing claims made “by the word of the LORD,” yet the chapter does not soften the seriousness of departing from the command he had received.  
 v21: “Rebelled against the command” is literally “rebelled against the mouth of the LORD.”
-
+v24–28: - **v24–28 — the lion and the donkey:** The lion kills the man but neither consumes the body nor attacks the donkey. This unusual scene marks the death as more than an ordinary animal attack and corresponds to the word of judgment.  
+v33: - **v33 — “ordained”:** Literally, Jeroboam “filled the hand” of anyone who wished, an idiom for installing someone in priestly office. The verse stresses the indiscriminate character of his appointments.  
 v33: “ordained”: Literally, Jeroboam “filled the hand” of anyone who wished, an idiom for installing someone in priestly office.
 
 ##Vocabulary

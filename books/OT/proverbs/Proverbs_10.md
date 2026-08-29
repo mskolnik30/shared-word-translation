@@ -145,9 +145,19 @@ v32: The lips of the righteous know what is pleasing,
 but the mouth of the wicked
 what is perverse.
 </p>
-##Notes
-
-v22: The syntax of the second line permits discussion over whether sorrow is added by the LORD or whether human toil adds nothing to the blessing.
+## Notes
+v01: Chapter 10 begins the collection explicitly identified as “Proverbs of Solomon” and shifts primarily to short, paired sayings.
+v02: “righteousness delivers from death” — The proverb contrasts accumulated wealth gained wrongly with righteousness. It does not explain the precise circumstances or timing of the promised deliverance.
+v03: The saying describes the LORD’s moral ordering of life in proverbial form. Proverbs characteristically states general patterns with compressed force rather than cataloging every exception.
+v06: The Hebrew phrase translated “conceals violence” can also be punctuated or understood differently. Its repetition in v11 strengthens the contrast between life-giving righteous speech and violent wicked speech.
+v09: Integrity creates a way that can be walked without concealment. Crooked conduct eventually becomes visible.
+v12: “love covers all offenses” — Covering does not necessarily mean denying wrongdoing. The contrast is with hatred that repeatedly agitates conflict.
+v15: The proverb observes the real social effects of wealth and poverty without necessarily presenting the inequality itself as morally desirable.
+v17: The Hebrew allows the final clause to describe either the person wandering or causing others to wander. TSW preserves the outward consequence: rejection of correction does not remain isolated.
+v19: Wisdom includes restraint in speech. The danger arises not from language itself but from ungoverned abundance of words.
+v22: The syntax of the second line permits discussion over whether sorrow is added by the LORD or whether human toil adds nothing to the blessing. TSW preserves the primary contrast between divine blessing and sorrow.
+v25: The storm image contrasts temporary stability with a foundation capable of enduring upheaval.
+v29: The same “way of the LORD” is experienced differently according to one’s relationship to it: security for integrity and destruction for wrongdoing.
 
 ##Vocabulary
 

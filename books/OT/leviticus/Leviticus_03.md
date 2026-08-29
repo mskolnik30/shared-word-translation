@@ -36,7 +36,11 @@ v15: the two kidneys with the fat on them near the loins, and the appendage of t
 v16: The priest shall turn them into smoke on the altar as food, an offering by fire for a pleasing aroma. All the fat belongs to the LORD.
 v17: This shall be a perpetual statute throughout your generations, in all your dwellings: you shall eat neither fat nor blood.”
 </p>
-##Notes
+## Notes
+v01: “sacrifice of well-being” — The Hebrew *shelamim* is related to *shalom* and can carry senses of well-being, wholeness, or peace. TSW uses “well-being” to preserve that wider range.
+v03–04: The portions assigned to the altar are described with anatomical precision, emphasizing that the offering follows a prescribed ritual order.
+v11: “food” — Sacrificial language can speak of altar portions as God’s “food” without implying literal divine need.
+v17: The prohibition of eating blood becomes especially important in Leviticus 17, where blood is explicitly associated with life.
 
 ##Vocabulary
 

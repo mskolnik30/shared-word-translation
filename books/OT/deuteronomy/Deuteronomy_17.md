@@ -60,7 +60,18 @@ v19: It shall be with him, and he shall read in it all the days of his life, so 
 
 v20: so that his heart is not lifted up above his brothers and so that he does not turn aside from the commandment to the right or to the left, in order that he may prolong days over his kingdom, he and his sons, in the midst of Israel.
 </p>
-##Notes
+## Notes
+v01: Sacrificial wholeness expresses the honor due to the LORD. A defective offering is called a detestable thing because it withholds proper devotion.
+v02–07: Capital punishment for idolatry belongs to ancient Israel’s covenantal legal structure. TSW preserves the law while not extending its civil penalty to modern religious difference.
+v04: Careful investigation precedes judgment, echoing Deuteronomy 13 and emphasizing evidentiary restraint.
+v06: Two or three witnesses are required in a capital case; one witness cannot establish a death sentence.
+v08: The categories “blood and blood,” “claim and claim,” and “injury and injury” are legal idioms for difficult distinctions within homicide, civil disputes, and bodily injury.
+v09–12: Priestly and judicial authorities at the chosen place function as a higher court for cases local judges cannot resolve.
+v14: Deuteronomy anticipates monarchy without presenting the desire to be “like all the nations” as the foundation of faithful kingship.
+v16: The king’s power is restricted militarily and economically. Horses symbolize military buildup and dangerous dependence on Egypt.
+v17: Multiplication of wives and wealth is prohibited because royal accumulation threatens covenant loyalty and equality.
+v18: The king is placed under written instruction. He does not create Torah; he copies, reads, learns, and obeys it.
+v20: The king remains a “brother” among Israelites. Torah is intended to prevent royal self-exaltation.
 
 ##Vocabulary
 

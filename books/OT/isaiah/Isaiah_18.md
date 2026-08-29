@@ -19,7 +19,10 @@ v05: For before the harvest, when the blossom is over, and the flower becomes a 
 v06: They will be left together for the ravenous birds of the mountains, and for the animals of the earth. The ravenous birds will summer on them, and all the animals of the earth will winter on them.
 v07: In that time, a present will be brought to the LORD of Hosts from a people tall and smooth, even from a people awesome from their beginning onward, a nation that measures out and treads down, whose land the rivers divide, to the place of the name of the LORD of Hosts, Mount Zion.
 </p>
-##Notes
+## Notes
+v1: The identity of the land beyond the rivers of Cush is described poetically; the oracle resists easy reduction to one modern geography.  
+v7: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+v7: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
 
 ##Vocabulary
 
