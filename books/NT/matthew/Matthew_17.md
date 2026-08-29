@@ -71,6 +71,7 @@ v9: Silence is commanded until after the resurrection. Understanding is explicit
 v11–13: Elijah’s coming is affirmed and reinterpreted through suffering rather than restoration alone. Recognition, not arrival, is the point of failure.
 v17: Jesus’ lament addresses a “generation,” broadening the failure beyond the disciples without isolating blame.
 v20: “Little trust” names deficiency in degree, not absence. The mustard seed metaphor emphasizes disproportion rather than magnitude.
+v20: Some manuscripts add after this verse a saying that this kind does not come out except by prayer and fasting. The earliest textual witnesses omit the added verse traditionally numbered v21.
 v21: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add a saying about prayer and fasting. Public verse numbering is retained without supplying the later reading in the main text.
 v22–23: The passion prediction is stated plainly. The emotional response of the disciples is recorded without commentary.
 v26–27: Freedom and concession are held together. Jesus asserts status while choosing accommodation, without resolving the tension.

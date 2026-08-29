@@ -126,7 +126,9 @@ v18: put the hair on the fire — The offering returns what marked the vow back 
 v19: the priest shall take the boiled shoulder — The ritual includes shared participation between priest and Nazirite.
 v20: the Nazirite may drink wine — Ordinary life resumes. The vow ends without diminishing what came before.
 v21: this is the law for the Nazirite vow — The repetition emphasizes clarity and accountability rather than flexibility.
+v22–23: The blessing is introduced as the LORD’s own command to Moses for Aaron and his sons. Priestly speech mediates a blessing whose source remains God.
 v23: Speak to Aaron and his sons — Blessing is entrusted to human voices, carried within communal leadership.
+v24–26: The three lines repeat the divine name and move through keeping, gracious presence, favorable attention, and peace. “Lift up the face” is an idiom of favorable regard, while “peace” (*shalom*) carries the wider sense of wholeness and well-being.
 v27: they shall put my name on the Israelites — God’s name signifies belonging and identity, not control.
 v27: and I will bless them — The final word is divine action. Blessing originates with God, not ritual performance.
 

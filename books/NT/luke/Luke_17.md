@@ -130,8 +130,9 @@ v25: Suffering precedes revelation.
 v26–29: Ordinary life continues until sudden judgment.
 v32: Lot’s wife embodies backward attachment.
 v33: Life is preserved through loss, not grasping.
-v37: The final saying emphasizes inevitability and visibility of judgment.
+v35: The paired sayings place separation within ordinary shared settings. Some manuscripts add a further example in which two are in a field and one is taken while the other is left.
 v36: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add wording parallel to Matthew 24:40. Public verse numbering is retained.
+v37: The final saying emphasizes inevitability and visibility of judgment.
 
 ##Vocabulary
 

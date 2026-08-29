@@ -80,5 +80,9 @@ v7: — Twelve governors.: The twelve districts are organized for supplying the 
 v19: — “One governor who was in the land.”: The final phrase is compressed and syntactically uncertain. It may identify an additional governor over the territory just named, or indicate that there was one governor over the whole land.  
 v20: — “As numerous as the sand.”: The image echoes the promise of an innumerable people. Here it is joined to eating, drinking, and rejoicing, portraying abundance and well-being under Solomon’s reign.  
 v21–34: These verses correspond to 1 Kings 5:1–14 in the Hebrew chapter division.
+v22: A *cor* was a large dry measure. The text leaves the quantities in ancient units rather than converting them, emphasizing the scale of the royal household’s daily provisions.
+v25: “Each under their vine and under their fig tree” is an image of settled security, household abundance, and freedom from threat. The description of peace extends from political stability into ordinary life.
+v29: “Breadth of heart” describes expansive discernment and capacity for understanding. In biblical Hebrew, the heart can denote thought, judgment, and purpose as well as feeling.
+v32: The Hebrew says literally, “his song was one thousand and five.” The singular can function collectively; the sense is a count of songs.
 
 ##Vocabulary

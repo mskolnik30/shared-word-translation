@@ -39,9 +39,9 @@ v06: Oh, that salvation for Israel would come out of Zion!
 When God restores the fortunes of his people,
 Jacob will rejoice; Israel will be glad.
 </p>
-##Notes
-
-Superscription: "Mahalath" — The exact meaning and significance are uncertain, possibly a musical term or tune.
+## Notes
+v3: “Not even one” intensifies the universal scope of the psalm’s accusation: the claim concerns the whole human field being surveyed, not merely a particular group of evildoers.
+v5: The phrase “where there was no fear” makes the terror strikingly disproportionate to any visible cause, locating the reversal in God’s action rather than in the enemy’s apparent circumstances.
 
 ##Vocabulary
 

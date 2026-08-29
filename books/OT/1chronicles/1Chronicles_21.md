@@ -120,6 +120,7 @@ v15: **21:15** “Relented” describes a change in God’s action concerning th
 v17: **21:17** David calls the people “sheep,” accepting responsibility as their leader and pleading that judgment fall on him and his household rather than on them.  
 v24: **21:24** David refuses an offering that costs him nothing. The purchase makes the altar site an act of costly repentance rather than merely a gift received from Ornan.  
 v25: **21:25** The six hundred shekels are given “for the place,” likely indicating the larger site rather than only the threshing floor and its immediate equipment.  
+v29–30: The narrative contrasts the established sanctuary and altar at Gibeon with the newly recognized altar at Ornan’s threshing floor. David’s fear of the angel’s sword prevents him from approaching the former site.
 
 ##Vocabulary
 

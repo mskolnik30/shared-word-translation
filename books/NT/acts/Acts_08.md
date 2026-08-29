@@ -159,8 +159,9 @@ v26–29: Divine guidance directs mission at specific moments.
 v30–31: Understanding Scripture requires guided interpretation.  
 v32–33: Isaiah text frames Jesus’ suffering.  
 v35: Christ is proclaimed from Scripture.  
-v39–40: Mission continues beyond individual encounter.  
+v36: Some manuscripts add a verse between vv36 and 38 in which Philip asks about wholehearted belief and the eunuch confesses Jesus Christ as the Son of God. The earliest textual witnesses omit this verse.
 v37: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add a confession of faith before baptism. Public verse numbering is retained.
+v39–40: Mission continues beyond individual encounter.  
 
 ##Vocabulary
 

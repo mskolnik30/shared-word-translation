@@ -52,11 +52,12 @@ v18: Moses entered the midst of the cloud and went up on the mountain. And Moses
 v1: “Come up to the LORD” — The LORD speaks, yet Moses is told to come up “to the LORD.” The third-person reference preserves narrative distance and emphasizes divine transcendence rather than resolving it.
 v7: “we will do, and we will hear” — The order is striking. Obedience precedes full comprehension. The sequence is preserved rather than adjusted for modern expectation.
 v8: “the blood of the covenant that the LORD has cut” — The Hebrew idiom is literally “cut a covenant.” The imagery of cutting is retained conceptually, echoing ancient covenant-making practices.
+v08: “the blood of the covenant that the LORD has cut” — The Hebrew idiom is literally “cut a covenant.” The imagery of cutting is retained conceptually, echoing ancient covenant-making practices.
 v10: “they saw the God of Israel” — The text states this directly without qualification, even as other passages insist that God cannot be seen. The tension is preserved.
 v11: “he did not stretch out his hand” — A common idiom for judgment or destruction. Its negation underscores the unexpected survival of those who “saw God.”
 v12: “the instruction and the commandment” — “Instruction” renders *torah*, which carries the sense of teaching or guidance, not merely legislation.
 v16: “the glory of the LORD” — The term signals visible divine presence. The text describes appearance without defining essence, preserving mystery.
-v08: “the blood of the covenant that the LORD has cut” — The Hebrew idiom is literally “cut a covenant.” The imagery of cutting is retained conceptually, echoing ancient covenant-making practices.
+v18: “Forty days and forty nights” is a recurring biblical period associated with preparation, testing, and divine encounter. The narrative does not explain its significance here.
 
 ##Vocabulary
 

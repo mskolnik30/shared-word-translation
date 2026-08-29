@@ -77,6 +77,7 @@ v15: You shall sow but not reap; you shall tread olives but not anoint yourselve
 v16: For you have kept the statutes of Omri, and all the practices of the house of Ahab; you have followed their counsel. Therefore I will make you a desolation, and your inhabitants an object of scorn; you shall bear the disgrace of my people.
 </p>
 ## Notes
+v1–2: The courtroom imagery establishes a covenant lawsuit. The mountains and enduring foundations of the earth serve as witnesses, giving the dispute a public and long-standing horizon.
 v3: The questions are not accusations but invitations. The Holy One speaks with the language of wounded relationship, asking the people to name how the covenant has been experienced as burden rather than gift.
 v4–5: Memory is central to the case. Liberation from slavery, faithful leadership, and protection along the journey are recalled to reorient the people toward the character and saving action of the Holy One.
 v6–7: These verses give voice to anxious religiosity. The escalating offerings reveal a belief that reconciliation must be earned through excess, culminating in the distortion that imagines God as desiring harm rather than life.

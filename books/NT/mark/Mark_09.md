@@ -157,9 +157,11 @@ v31: Passive “is being handed over” leaves agency open (divine, human, or bo
 v34–35: Greatness is inverted, not eliminated; hierarchy is redefined through service.
 v37: Receiving the child mediates reception of both Jesus and the one who sent him.
 v40: Boundary of belonging is widened without dissolving identity.
-v49–50: “Salted with fire” combines preservation and purification without clarification.
+v42: The commands concerning hand, foot, and eye use deliberately extreme bodily imagery to intensify the danger of causing stumbling and entering judgment.
+v43: Some manuscripts repeat the saying about the undying worm and unquenched fire after the sayings about the hand and the foot, producing the traditional vv44 and 46. The earliest textual witnesses omit those repetitions.
 v44: Verses 44 and 46 are absent from the earliest and strongest Greek witnesses; later manuscripts repeat the wording of verse 48. Public verse numbering is retained.
 v46: Verses 44 and 46 are absent from the earliest and strongest Greek witnesses; later manuscripts repeat the wording of verse 48. Public verse numbering is retained.
+v49–50: “Salted with fire” combines preservation and purification without clarification.
 
 ##Vocabulary
 

@@ -83,6 +83,7 @@ v2: “entrusted with the oracles of God”
 The verb emphasizes responsibility rather than privilege. Israel’s role is custodial, not self-justifying.
 v3: “the faithfulness of God”
 The contrast between human unfaithfulness and God’s faithfulness establishes the chapter’s controlling theme and anticipates the later reference to the faithfulness of Jesus Christ.
+v4: The citation from the Psalms is forensic in tone: God is shown to be true and vindicated in judgment even as human faithlessness is exposed.
 v9: “under the power of sin”
 Sin is depicted as a ruling force rather than a series of individual acts, preparing for later language of dominion and liberation.
 v19–20: “every mouth may be stopped”

@@ -73,6 +73,7 @@ v30: because he came close to death for the work of Christ, risking his life to 
 v1–2: Unity is grounded in shared participation in Christ, not enforced agreement. Paul names relational realities before issuing exhortation.
 v3–4: Humility is defined relationally. The call is not self-negation but a reorientation of attention toward others.
 v5: The “mind” of Christ signals a pattern of life to be embodied, not merely admired.
+v6–8: The movement of vv6–8 is downward: equality is not treated as something to exploit, but is followed by self-emptying, servanthood, humility, and obedience to death. Christ’s identity is narrated through self-giving rather than self-assertion.
 v08–10: Exaltation follows obedience. God’s vindication does not erase the cross but confirms its meaning.
 v11–12: Responsibility and divine agency are held together. The community works out what God is already working within.
 v13–15: Communal life is a public witness. Absence of grumbling signals a deeper transformation of shared life.

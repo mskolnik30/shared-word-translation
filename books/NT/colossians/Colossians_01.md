@@ -108,6 +108,7 @@ v15–18: Christ’s identity is cosmic and ecclesial. Creation and church are h
 v16: “Through him” and “for him” establish both agency and purpose.  
 v18: “Firstborn from the dead” connects resurrection with new creation.  
 v19–20: Reconciliation extends to “all things,” without explanation of scope or limitation.  
+v22–23: The conditional clause “if indeed you continue in the faith” remains grammatically connected to the purpose of reconciliation in v22. Paul holds the completed act of reconciliation together with continuing, grounded faith.
 v24: “Fill up what is lacking” introduces tension without explanation.  
 v27: “Christ in you” reverses expectation—presence within rather than distance.  
 

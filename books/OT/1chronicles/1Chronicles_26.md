@@ -121,9 +121,12 @@ v31: Of the Hebronites, Jerijah was chief among the Hebronites according to his 
 v32: His brothers were capable men, two thousand seven hundred heads of ancestral houses. King David appointed them over the Reubenites, the Gadites, and the half-tribe of Manasseh, for every matter of God and every matter of the king.
 </p>
 ## Notes
+v10: Shimri is called “the chief” even though he was not the firstborn. The text does not explain the appointment, but explicitly distinguishes appointed leadership from birth order.
 v13: Casting lots distributes the gate assignments among “small and great alike.” The phrase emphasizes that status did not determine placement; each ancestral house received a gate assignment.  
 v16: “Guard post alongside guard post” preserves the compact Hebrew expression, which likely describes corresponding or opposite watch stations.  
 v18: *Parbar* is a location or structure associated with the western side of the temple complex. Its precise meaning and location are uncertain.  
+v26–28: The treasuries include things dedicated by David and other leaders, including goods from war and spoil. These materials are presented as consecrated for strengthening the house of the LORD.
+v29–32: Levitical service extends beyond temple gates and treasuries into public administration. Their work concerns both “every matter of God” and “every matter of the king,” holding religious and royal responsibilities together without collapsing them.
 
 ##Vocabulary
 

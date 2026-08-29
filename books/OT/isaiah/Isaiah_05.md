@@ -158,8 +158,9 @@ and the light is darkened by its clouds.
 v1: **5:1**: "my beloved's song concerning his vineyard": This introduces a parabolic narrative where the vineyard symbolizes the house of Israel and God is the beloved caring for it.  
 v4: **5:4**: "What more was there to do for my vineyard": A rhetorical question emphasizing the owner's (God's) exhaustive efforts and the vineyard's (Israel's) failure to produce.  
 v7: **5:7**: "justice...bloodshed; righteousness...outcry": A wordplay in Hebrew between "mishpat" (justice) and "mishpach" (bloodshed), "tsedaqah" (righteousness) and "tse‘aqah" (outcry), emphasizing the people's moral failure.  
-v20: **5:20**: "Woe to those who call evil good": This verse addresses the reversal of moral values, showing the people's deep corruption.  
 v07: The Hebrew uses wordplay between *mishpat* (“justice”) and *mispach* (“bloodshed”), and between *tsedaqah* (“righteousness”) and *tseaqah* (“outcry”).
+v20: **5:20**: "Woe to those who call evil good": This verse addresses the reversal of moral values, showing the people's deep corruption.  
+v25: “For all this his anger has not turned away, and his hand is stretched out still” functions as a recurring refrain in Isaiah, extending the announcement of judgment beyond a single act of punishment.
 
 ##Vocabulary
 

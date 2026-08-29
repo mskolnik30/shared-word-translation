@@ -70,11 +70,11 @@ and those who hate the righteous will be held guilty.
 v22: The LORD redeems the life of his servants,
 and none of those who take refuge in him will be held guilty.
 </p>
-##Notes
-
-Superscription: The superscription connects this psalm with David’s escape from a Philistine ruler.
-
+## Notes
 v05: “They looked to him” has no explicit subject in Hebrew. It may refer broadly to those who, like the psalmist, turn to the LORD in need.
+v7: “The angel of the LORD” presents the LORD’s protection in personal, encircling imagery. The verse does not explain the precise identity of this messenger.
+v19–20: The promise of deliverance does not deny the righteous person’s many troubles. The language of unbroken bones intensifies the claim of God’s preserving care.
+v21–22: The same Hebrew root associated with guilt closes both verses: those who hate the righteous incur guilt, while those who take refuge in the LORD are not held guilty.
 
 ##Vocabulary
 
