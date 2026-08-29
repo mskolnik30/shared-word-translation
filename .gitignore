@@ -15,3 +15,7 @@ audit/notes_recovery_backups/
 
 # Temporary irregular-mapping backups
 *.before-irregular-mappings
+
+# Final unresolved-notes review and backups
+audit/UNRESOLVED_NOTES_REVIEW.md
+audit/final_note_patch_backups/
