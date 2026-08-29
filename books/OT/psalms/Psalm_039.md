@@ -49,7 +49,12 @@ a resident alien, like all my ancestors.
 v13: Look away from me, that I may brighten,
 before I go and am no more.”
 </p>
-##Notes
+## Notes
+v01–03: The psalm moves from a resolve to restrain speech into inward heat and finally speech addressed to God. Silence is not presented as simple virtue; it becomes a pressure that must be brought before the LORD.
+v05–06: “Breath” and “image” portray human life as insubstantial and passing. The poem does not deny human activity, but exposes its fragility before God and the uncertainty surrounding accumulated wealth.
+v09: The speaker’s silence is grounded in the confession, “you have done it.” The psalm holds divine agency and personal suffering together without explaining the precise cause of the affliction.
+v11: The moth image emphasizes how swiftly what is precious can be consumed. The closing repetition of “breath” echoes v05 and broadens the speaker’s experience into a reflection on every human being.
+v12: Calling oneself a “sojourner” and “resident alien” expresses both vulnerability and belonging: the speaker lives as one without permanent claim, yet does so “with” God.
 
 ##Vocabulary
 

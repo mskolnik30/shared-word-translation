@@ -73,5 +73,11 @@ v30: because he came close to death for the work of Christ, risking his life to 
 v1–2: Unity is grounded in shared participation in Christ, not enforced agreement. Paul names relational realities before issuing exhortation.
 v3–4: Humility is defined relationally. The call is not self-negation but a reorientation of attention toward others.
 v5: The “mind” of Christ signals a pattern of life to be embodied, not merely admired.
+v08–10: Exaltation follows obedience. God’s vindication does not erase the cross but confirms its meaning.
+v11–12: Responsibility and divine agency are held together. The community works out what God is already working within.
+v13–15: Communal life is a public witness. Absence of grumbling signals a deeper transformation of shared life.
+v16–17: Paul interprets his suffering as offering. Joy is not dependent on outcome but on participation in shared faith.
+v18–23: Timothy embodies the pattern just described. His concern for others contrasts with self-seeking tendencies.
+v24–29: Epaphroditus is honored not for success but for costly faithfulness. Risk and near loss become markers of service in Christ.
 
 ##Vocabulary

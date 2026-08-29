@@ -39,7 +39,11 @@ v11: But the king shall rejoice in God;
   all who swear by him shall exult,
   for the mouths of liars shall be stopped.
 </p>
-##Notes
+## Notes
+v01: "my soul thirsts" — Using the metaphor of thirst, the psalmist conveys deep yearning for communion with God.
+v03: "steadfast love" — A term often translated from the Hebrew *chesed*, referring to God's covenantal loyalty and love.
+v04: "richest of foods" — Symbolizes abundance and satisfaction found in God's presence, contrasting with the physical thirst of v01.
+v08: "your right hand upholds me" — Indicates strength and support, a common biblical image for divine assistance.
 
 ##Vocabulary
 

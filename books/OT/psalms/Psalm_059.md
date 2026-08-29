@@ -60,9 +60,8 @@ v16: But I will sing of your strength;
 v17: O my strength, I will sing praises to you,
     for God is my fortress, the God of steadfast love.
 </p>
-##Notes
-
-Superscription: The Hebrew terms translated “Do not destroy” and “Miktam” are traditional superscriptional terms whose precise musical or literary functions are uncertain.
+## Notes
+v11: *lest my people forget* — Implies that the destruction of the enemies should serve as a memorial of God's deliverance and protection.
 
 ##Vocabulary
 
