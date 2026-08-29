@@ -98,40 +98,80 @@ v29: Give thanks to the LORD, for the LORD is good;
   for the LORD’s steadfast love endures forever.
 </p>
 ## Notes
-v01–04: “steadfast love endures forever” — The psalm begins with a litany: gratitude is taught by communal repetition, grounding praise in covenant loyalty (ḥesed), not in mood.
-v05: “distress… broad place” — Deliverance is pictured as spaciousness: the LORD moves the psalmist from constriction to room to breathe and live.
-v05: מֵצַר (metsar) — distress; narrow place; constriction
-v05: מֶרְחָב (merchav) — broad place; spaciousness
-v06: “What can mortals do to me?” — Not naïve invulnerability; it is re-centered fear. Human threat is real, but not ultimate.
-v06: יָרֵא (yare) — to fear; to be afraid
-v08–09: “better… refuge… than to trust in mortals… princes” — A core TSW theme: trust belongs first to the LORD; even good leaders are not reliable foundations.
-v10–12: “surrounded… like bees… in the name of the LORD” — The refrain is not self-confidence but God-centered resistance; “the name” signals dependence on the LORD’s authority and presence.
-v14: “strength and my song… my salvation” — Salvation is not abstract; it becomes embodied strength and public praise.
-v14: עֹז (ʿoz) — strength; might
-v14: יְשׁוּעָה (yeshu‘ah) — salvation; deliverance
-v17: “I shall not die, but live… tell of the deeds” — Life is given for witness; survival turns outward into testimony.
-v18: “disciplined… but not… over to death” — The psalm holds hardship with mercy: severe correction is not abandonment.
-v18: יָסַר (yasar) — to discipline; to instruct by correction
-v19–20: “gates of righteousness” — Worship is entry into a way of life; righteousness is not a private virtue but a communal, public path before God.
-v22–23: “rejected stone… cornerstone” — God’s reversals redefine what counts as strength and legitimacy; what is dismissed becomes foundational by the LORD’s action.
-v24: “This is the day…” — Joy is anchored in God’s making, not in ideal conditions; rejoicing is a practice of recognition.
-v25: “save… grant us success” — Praise and petition belong together; worship includes urgent, present-tense dependence.
-v25: אָנָּא (’anna) — please; we pray
-v25: יָשַׁע (yashaʿ) — to save; to deliver
-v25: צָלַח (tsalaḥ) — to succeed; to prosper; to advance
-v26: “comes in the name of the LORD” — Blessing is spoken over those who arrive as God’s representatives; hospitality becomes liturgy.
-v27: “given us light… festal procession… altar” — Deliverance culminates in worshipful procession: light leads the people toward thanksgiving and offering.
 
+v01–04: “steadfast love endures forever” — The psalm begins with a litany: gratitude is taught by communal repetition, grounding praise in covenant loyalty (ḥesed), not in mood.
+
+v05: “distress… broad place” — Deliverance is pictured as spaciousness: the LORD moves the psalmist from constriction to room to breathe and live.
+
+v06: “What can mortals do to me?” — Not naïve invulnerability; it is re-centered fear. Human threat is real, but not ultimate.
+
+v08–09: “better… refuge… than to trust in mortals… princes” — A core TSW theme: trust belongs first to the LORD; even good leaders are not reliable foundations.
+
+v10–12: “surrounded… like bees… in the name of the LORD” — The refrain is not self-confidence but God-centered resistance; “the name” signals dependence on the LORD’s authority and presence.
+
+v14: “strength and my song… my salvation” — Salvation is not abstract; it becomes embodied strength and public praise.
+
+v17: “I shall not die, but live… tell of the deeds” — Life is given for witness; survival turns outward into testimony.
+
+v18: “disciplined… but not… over to death” — The psalm holds hardship with mercy: severe correction is not abandonment.
+
+v19–20: “gates of righteousness” — Worship is entry into a way of life; righteousness is not a private virtue but a communal, public path before God.
+
+v22–23: “rejected stone… cornerstone” — God’s reversals redefine what counts as strength and legitimacy; what is dismissed becomes foundational by the LORD’s action.
+
+v24: “This is the day…” — Joy is anchored in God’s making, not in ideal conditions; rejoicing is a practice of recognition.
+
+v25: “save… grant us success” — Praise and petition belong together; worship includes urgent, present-tense dependence.
+
+v26: “comes in the name of the LORD” — Blessing is spoken over those who arrive as God’s representatives; hospitality becomes liturgy.
+
+v27: “given us light… festal procession… altar” — Deliverance culminates in worshipful procession: light leads the people toward thanksgiving and offering.
 
 ## Vocabulary
 
+v01: יָדָה (yadah) — to give thanks; to praise
+
 v01: טוֹב (tov) — good
+
+v01: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
+
+v05: מֵצַר (metsar) — distress; narrow place; constriction
+
+v05: מֶרְחָב (merchav) — broad place; spaciousness
+
+v06: יָרֵא (yare) — to fear; to be afraid
+
+v08: חָסָה (chasah) — to take refuge
+
+v10: סָבַב (savav) — to surround; to encircle
 
 v12: דְּבוֹרָה (devorah) — bee
 
 v12: קוֹץ (qots) — thorn
 
+v13: דָּחָה (dachah) — to push; to thrust down
+
+v14: עֹז (ʿoz) — strength; might
+
+v14: יְשׁוּעָה (yeshu‘ah) — salvation; deliverance
+
+v18: יָסַר (yasar) — to discipline; to instruct by correction
+
+v19: צֶדֶק (tsedeq) — righteousness; justice; rightness
+
+v22: מָאַס (ma’as) — to reject; to despise
+
+v22: רֹאשׁ פִּנָּה (rosh pinnah) — chief cornerstone; head of the corner
+
+v25: אָנָּא (’anna) — please; we pray
+
+v25: יָשַׁע (yashaʿ) — to save; to deliver
+
+v25: צָלַח (tsalaḥ) — to succeed; to prosper; to advance
+
 v27: אוֹר (’or) — light
+
+v27: חַג (ḥag) — festival; pilgrim feast
 
 v01: יָדָה (yadah)
 “To give thanks; to praise.”

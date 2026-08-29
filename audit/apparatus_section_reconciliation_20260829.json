@@ -1,0 +1,121 @@
+{
+  "source_ref": "c1ced84cf9ee3f81bf11f05898bce0dc59cc284b",
+  "backup": "/workspaces/shared-word-translation-apparatus-section-backups-20260829",
+  "files": [
+    {
+      "path": "books/OT/psalms/Psalm_040.md",
+      "historical_source": 17,
+      "notes_before": 28,
+      "notes_after": 12,
+      "misplaced_vocabulary_moved_from_notes": 16,
+      "source_already_in_vocabulary": 0,
+      "historical_entries_restored_from_source": 1,
+      "legitimate_newer_vocabulary_preserved": 4,
+      "vocabulary_before": 4,
+      "vocabulary_after": 21
+    },
+    {
+      "path": "books/OT/psalms/Psalm_116.md",
+      "historical_source": 24,
+      "notes_before": 27,
+      "notes_after": 12,
+      "misplaced_vocabulary_moved_from_notes": 15,
+      "source_already_in_vocabulary": 3,
+      "historical_entries_restored_from_source": 6,
+      "legitimate_newer_vocabulary_preserved": 4,
+      "vocabulary_before": 7,
+      "vocabulary_after": 28
+    },
+    {
+      "path": "books/OT/psalms/Psalm_022.md",
+      "historical_source": 25,
+      "notes_before": 22,
+      "notes_after": 15,
+      "misplaced_vocabulary_moved_from_notes": 7,
+      "source_already_in_vocabulary": 3,
+      "historical_entries_restored_from_source": 15,
+      "legitimate_newer_vocabulary_preserved": 4,
+      "vocabulary_before": 7,
+      "vocabulary_after": 29
+    },
+    {
+      "path": "books/OT/psalms/Psalm_045.md",
+      "historical_source": 21,
+      "notes_before": 21,
+      "notes_after": 10,
+      "misplaced_vocabulary_moved_from_notes": 11,
+      "source_already_in_vocabulary": 1,
+      "historical_entries_restored_from_source": 9,
+      "legitimate_newer_vocabulary_preserved": 4,
+      "vocabulary_before": 5,
+      "vocabulary_after": 25
+    },
+    {
+      "path": "books/OT/psalms/Psalm_130.md",
+      "historical_source": 14,
+      "notes_before": 21,
+      "notes_after": 8,
+      "misplaced_vocabulary_moved_from_notes": 13,
+      "source_already_in_vocabulary": 0,
+      "historical_entries_restored_from_source": 1,
+      "legitimate_newer_vocabulary_preserved": 4,
+      "vocabulary_before": 4,
+      "vocabulary_after": 18
+    },
+    {
+      "path": "books/OT/psalms/Psalm_118.md",
+      "historical_source": 22,
+      "notes_before": 23,
+      "notes_after": 14,
+      "misplaced_vocabulary_moved_from_notes": 9,
+      "source_already_in_vocabulary": 4,
+      "historical_entries_restored_from_source": 9,
+      "legitimate_newer_vocabulary_preserved": 4,
+      "vocabulary_before": 8,
+      "vocabulary_after": 26
+    },
+    {
+      "path": "books/OT/isaiah/Isaiah_53.md",
+      "historical_source": 27,
+      "notes_before": 38,
+      "notes_after": 13,
+      "misplaced_vocabulary_moved_from_notes": 25,
+      "source_already_in_vocabulary": 0,
+      "historical_entries_restored_from_source": 2,
+      "legitimate_newer_vocabulary_preserved": 4,
+      "vocabulary_before": 4,
+      "vocabulary_after": 31
+    }
+  ],
+  "summary": {
+    "historical_source": 150,
+    "notes_before": 180,
+    "notes_after": 84,
+    "misplaced_vocabulary_moved_from_notes": 96,
+    "source_already_in_vocabulary": 11,
+    "historical_entries_restored_from_source": 43,
+    "legitimate_newer_vocabulary_preserved": 28,
+    "vocabulary_before": 39,
+    "vocabulary_after": 178
+  },
+  "validation_results": {
+    "files": 1189,
+    "notes": 10406,
+    "vocabulary": 13271,
+    "invalid_vocabulary_references": 0,
+    "duplicates": 0,
+    "malformed_entries": 0,
+    "notes_vocabulary_exact_overlaps": 0,
+    "noncanonical_apparatus_headings": 0,
+    "scripture_prefix_changes": 0
+  },
+  "historical_chapter_comparison": {
+    "historical_total": 11960,
+    "current_total": 13271,
+    "net_surplus": 1311,
+    "chapters_with_surplus": 451,
+    "chapters_with_deficit": 0,
+    "chapters_equal": 738,
+    "gross_deficit": 0
+  }
+}

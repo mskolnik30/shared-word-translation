@@ -72,32 +72,70 @@ v17: I will cause your name to be remembered in all generations;
   therefore the peoples will praise you forever and ever.
 </p>
 ## Notes
-v01: “overflows with a good word” — The psalm begins as crafted praise: public poetry offered as a gift, not flattery for hire.
-v01: רָחַשׁ (raḥash) — to stir; to overflow; to bubble up
-v01: דָּבָר (davar) — word; message; matter
-v01: עֵט (ʿet) — stylus; pen
-v04: “for the sake of truth and humility and righteousness” — Royal power is judged by moral purpose; victory is legitimate only when ordered toward truth, humility, and right-making.
-v04: עֲנָוָה (ʿanavah) — humility; gentleness
-v06: “Your throne, O God” — The psalm uses exalted language for the king; later readers hear more than royal ceremony here, but the immediate claim is that the throne’s authority is grounded in God’s rule.
-v06: “scepter of equity” — The measure of kingship is justice: fair dealing, honest judgments, and protection of the vulnerable.
-v06: כִּסֵּא (kisse’) — throne
-v06: שֵׁבֶט (shevet) — scepter; staff; tribe (context)
-v06: מֵישָׁרִים (mesharim) — equity; uprightness; fairness
-v07: “God, your God, has anointed you” — The king is not divine by nature; he is appointed and empowered by God for a holy task.
-v07: מָשַׁח (mashach) — to anoint
-v07: שֶׁמֶן (shemen) — oil
-v08–09: “ivory palaces… queen… gold of Ophir” — Courtly splendor is not the point; it is a backdrop for covenant ideals and the public responsibilities of leadership.
-v10: “forget your people… father’s house” — Marriage here signals a new loyalty and identity; the bride’s primary allegiance shifts as she enters a new household.
-v10: נָטָה (natah) — to incline; to turn toward
-v10: שָׁכַח (shakhaḥ) — to forget
-v11: “Since he is your lord, bow down to him” — This reflects ancient royal protocol and social hierarchy; in TSW we read it descriptively (what the court expects), not as a timeless mandate for marriage or gender relations.
-v16: “In place of your fathers… your sons” — The psalm blesses continuity and stability; leadership succession is pictured as a gift to the people.
-v17: “name… remembered… praise” — The closing aim is enduring public remembrance, not private romance: the reign is meant to become a long witness to righteous rule.
 
+v01: “overflows with a good word” — The psalm begins as crafted praise: public poetry offered as a gift, not flattery for hire.
+
+v04: “for the sake of truth and humility and righteousness” — Royal power is judged by moral purpose; victory is legitimate only when ordered toward truth, humility, and right-making.
+
+v06: “Your throne, O God” — The psalm uses exalted language for the king; later readers hear more than royal ceremony here, but the immediate claim is that the throne’s authority is grounded in God’s rule.
+
+v06: “scepter of equity” — The measure of kingship is justice: fair dealing, honest judgments, and protection of the vulnerable.
+
+v07: “God, your God, has anointed you” — The king is not divine by nature; he is appointed and empowered by God for a holy task.
+
+v08–09: “ivory palaces… queen… gold of Ophir” — Courtly splendor is not the point; it is a backdrop for covenant ideals and the public responsibilities of leadership.
+
+v10: “forget your people… father’s house” — Marriage here signals a new loyalty and identity; the bride’s primary allegiance shifts as she enters a new household.
+
+v11: “Since he is your lord, bow down to him” — This reflects ancient royal protocol and social hierarchy; in TSW we read it descriptively (what the court expects), not as a timeless mandate for marriage or gender relations.
+
+v16: “In place of your fathers… your sons” — The psalm blesses continuity and stability; leadership succession is pictured as a gift to the people.
+
+v17: “name… remembered… praise” — The closing aim is enduring public remembrance, not private romance: the reign is meant to become a long witness to righteous rule.
 
 ## Vocabulary
 
+v01: רָחַשׁ (raḥash) — to stir; to overflow; to bubble up
+
+v01: דָּבָר (davar) — word; message; matter
+
+v01: עֵט (ʿet) — stylus; pen
+
+v02: יָפָה (yafah) — to be beautiful; fair
+
+v02: חֵן (ḥen) — favor; grace; charm
+
+v03: גִּבּוֹר (gibbor) — mighty one; warrior
+
+v04: עֲנָוָה (ʿanavah) — humility; gentleness
+
+v06: כִּסֵּא (kisse’) — throne
+
+v06: שֵׁבֶט (shevet) — scepter; staff; tribe (context)
+
+v06: מֵישָׁרִים (mesharim) — equity; uprightness; fairness
+
+v07: מָשַׁח (mashach) — to anoint
+
+v07: שֶׁמֶן (shemen) — oil
+
 v08: מוֹר (mor) — myrrh
+
+v08: אֲהָלוֹת (’ahālōt) — aloes (fragrant wood)
+
+v09: אוֹפִיר (’Ophir) — Ophir (region known for gold)
+
+v10: נָטָה (natah) — to incline; to turn toward
+
+v10: שָׁכַח (shakhaḥ) — to forget
+
+v13: כָּבוֹד (kavod) — glory; honor; weightiness
+
+v14: רָקַם (raqam) — to embroider; to weave with patterns
+
+v15: שִׂמְחָה (simḥah) — joy; gladness
+
+v17: זָכַר (zakar) — to remember; to call to mind
 
 v01: רָחַשׁ (raḥash)
 “To stir; to overflow; to bubble up.”

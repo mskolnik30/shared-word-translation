@@ -117,37 +117,88 @@ v31: They will come and proclaim the LORD’s righteousness
   that the LORD has done it.
 </p>
 ## Notes
+
 v01–02: “My God… why…?” — Lament is faithful speech. The psalm does not stop believing; it argues from relationship (“my God”) while naming felt abandonment and silence.
+
 v03: “Yet you are holy… enthroned on the praises” — The hinge: the psalmist anchors despair in God’s character and Israel’s worship memory.
-v03: קָדוֹשׁ (qadosh) — holy; set apart
+
 v04–05: “our ancestors trusted” — Communal testimony becomes a contested hope: “You delivered them—will you deliver me?”
+
 v06–08: mockery and “Trust in the LORD” — The enemies weaponize theology; ridicule targets trust itself, not only the psalmist’s pain.
+
 v09–10: “you made me trust… from the womb” — The plea is rooted in lifelong belonging; the psalmist appeals to a history of God’s care prior to conscious faith.
+
 v11: “no one to help” — Isolation intensifies suffering; the psalm refuses to romanticize loneliness.
-v11: עֶזְרָה (ʿezrah) — help
+
 v12–18: bulls, lions, dogs; bones; garments — Vivid metaphors portray violent surround and public humiliation. The stripping and gambling signal total dehumanization.
+
 v16: “They have pierced my hands and my feet” — The line is textually complex in Hebrew traditions, but the sense here is assault and bodily violation within the larger picture of being encircled and attacked.
-v16: כֶּלֶב (kelev) — dog
-v16: עֵדָה (ʿedah) — assembly; company
+
 v19–21: “do not be far… hurry… you have answered me” — The prayer turns urgent and then pivots: a note of answered rescue breaks into the lament.
+
 v22: “declare your name… assembly” — Deliverance produces testimony; private rescue becomes public worship and communal strengthening.
-v22: שֵׁם (shem) — name
+
 v24: “has not despised… has heard” — The psalm corrects the opening fear: God’s holiness is not distance; God hears the afflicted.
-v24: עָנִי (ʿani) — afflicted; poor; oppressed
-v24: שָׁוַע (shavaʿ) — to cry for help; to plead
+
 v26: “The afflicted shall eat” — Salvation is tangible: the vulnerable are fed and satisfied, not merely comforted with words.
+
 v27–28: “all the ends… nations… kingship” — The horizon expands from one sufferer to global worship; the LORD’s reign is the engine of mission.
+
 v29: “prosperous… and… those who go down to the dust” — All classes and conditions are gathered: wealth and weakness alike bow before the LORD.
+
 v31: “to a people yet unborn… the LORD has done it” — The closing is generational proclamation: the story becomes gospel-like announcement—God has acted decisively.
-  
 
 ## Vocabulary
+
+v01: עָזַב (ʿazav) — to forsake; to abandon
+
+v01: שָׁאַג (sha’ag) — to roar; to cry out
+
+v03: קָדוֹשׁ (qadosh) — holy; set apart
+
+v04: בָּטַח (bataḥ) — to trust; to rely on
+
+v05: פָּלַט (palat) — to deliver; to rescue
+
+v06: תּוֹלָעַת (tolaʿat) — worm; maggot
+
+v07: לָעַג (laʿag) — to mock; to deride
+
+v08: גָּלַל (galal) — to roll (as in “commit/roll yourself onto”)
+
+v11: עֶזְרָה (ʿezrah) — help
+
+v12: אַבִּיר (’abbir) — strong one; mighty bull
+
+v12: בָּשָׁן (Bashan) — Bashan (region known for strong cattle)
+
+v14: שָׁפַךְ (shafakh) — to pour out
+
+v15: כֹּחַ (koach) — strength; power
 
 v15: לָשׁוֹן (lashon) — tongue
 
 v15: עָפָר (ʿafar) — dust
 
+v16: כֶּלֶב (kelev) — dog
+
+v16: עֵדָה (ʿedah) — assembly; company
+
+v18: בֶּגֶד (beged) — garment; clothing
+
+v18: גּוֹרָל (goral) — lot (cast lots)
+
+v22: שֵׁם (shem) — name
+
+v24: עָנִי (ʿani) — afflicted; poor; oppressed
+
+v24: שָׁוַע (shavaʿ) — to cry for help; to plead
+
 v27: זָכַר (zakar) — to remember
+
+v28: מָשַׁל (mashal) — to rule; to govern
+
+v31: צֶדֶק (tsedeq) — righteousness; justice; rightness
 
 v01: עָזַב (ʿazav)
 “To forsake; to abandon.”

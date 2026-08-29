@@ -84,37 +84,66 @@ v17: But I am poor and needy;
   O my God, do not delay!
 </p>
 ## Notes
+
 v01: “I waited and waited” — The doubled language stresses long endurance; trust is practiced over time, not proved in a moment.
-v01: קָוָה (qavah) — to wait for; to hope in
-v01: נָטָה (natah) — to bend/lean toward; to incline
+
 v02: “pit of roaring… mud and mire” — The imagery is both danger and stuckness: chaos below and no footing beneath; deliverance is stabilization.
-v02: שָׁאוֹן (sha’on) — roaring; tumult; crashing noise
-v02: טִיט (ṭit) — mud; mire; clay
-v02: צוּר (tsur) — rock; cliff; firm rock
+
 v03: “a new song… Many will see… and trust” — Praise becomes testimony; personal rescue is meant to widen communal trust.
-v03: שִׁיר (shir) — song
-v03: בָּטַח (bataḥ) — to trust; to rely on
+
 v04: “makes the LORD their trust” — Trust is not a mood but a chosen center of gravity; the psalm contrasts trust with social pressure and deception.
-v04: אַשְׁרֵי (’ashrei) — happy; blessed; flourishing
+
 v06: “you opened my ears” — God desires responsive obedience over ritual performance; the core offering is a listening life.
-v06: זֶבַח (zevaḥ) — sacrifice
-v06: אָזַן (’azan) — ear; to listen; to give ear
+
 v08: “your instruction is within my heart” — Not mere external compliance; God’s teaching becomes internal orientation and desire.
-v08: תּוֹרָה (torah) — instruction; teaching
+
 v09: “proclaimed good news of righteousness” — Righteousness is not private; the psalmist goes public with God’s right-making action.
-v09: בָּשַׂר (basar) — to announce good news; to proclaim
+
 v10: “steadfast love and… truth” — Covenant language: God’s loyal love and reliability are the content of proclamation.
-v10: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
-v10: אֱמֶת (’emet) — truth; reliability; faithfulness
+
 v12: “my iniquities have overtaken me” — The trouble is not only enemies “out there” but sin “within”; the psalm holds moral honesty with urgent prayer.
-v12: עָוֹן (ʿavon) — iniquity; guilt; twisted wrongdoing
+
 v13: “hurry to help me” — Boldness in prayer is permitted; need does not require polished speech.
-v13: נָצַל (natsal) — to deliver; to rescue
+
 v16: “love your salvation… ‘The LORD is great!’” — The community of seekers is named by joy and praise, not by triumphalism.
+
 v17: “poor and needy… the Lord takes thought for me” — The closing posture is humility and confidence: the Lord’s attention is the psalmist’s security, even before circumstances change.
 
-
 ## Vocabulary
+
+v01: קָוָה (qavah) — to wait for; to hope in
+
+v01: נָטָה (natah) — to bend/lean toward; to incline
+
+v02: שָׁאוֹן (sha’on) — roaring; tumult; crashing noise
+
+v02: טִיט (ṭit) — mud; mire; clay
+
+v02: צוּר (tsur) — rock; cliff; firm rock
+
+v03: שִׁיר (shir) — song
+
+v03: בָּטַח (bataḥ) — to trust; to rely on
+
+v04: אַשְׁרֵי (’ashrei) — happy; blessed; flourishing
+
+v06: זֶבַח (zevaḥ) — sacrifice
+
+v06: אָזַן (’azan) — ear; to listen; to give ear
+
+v08: תּוֹרָה (torah) — instruction; teaching
+
+v09: בָּשַׂר (basar) — to announce good news; to proclaim
+
+v10: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
+
+v10: אֱמֶת (’emet) — truth; reliability; faithfulness
+
+v12: עָוֹן (ʿavon) — iniquity; guilt; twisted wrongdoing
+
+v13: נָצַל (natsal) — to deliver; to rescue
+
+v17: אֶבְיוֹן (’evyon) — poor; needy; vulnerable
 
 v03: בָּטַח (bataḥ)
 “To trust; to rely on.”
