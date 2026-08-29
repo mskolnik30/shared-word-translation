@@ -91,3 +91,33 @@ v3: κενοδοξία (kenodoxia)
 
 v5: φρόνημα (phronēma)  
 “Mind” or “mindset.” Indicates a pattern of thinking that shapes action and communal life.
+
+v6: μορφή (morphē)  
+“Form.” Suggests the true nature or essential expression of something, not merely outward appearance.
+
+v7: ἐκένωσεν (ekenōsen)  
+“Emptied himself.” Indicates self-giving rather than loss of identity.
+
+v8: ταπεινόω (tapeinoō)  
+“To humble.” A voluntary lowering, not imposed humiliation.
+
+v9: ὑπερύψωσεν (hyperypsōsen)  
+“Highly exalted.” Intensified elevation, emphasizing divine action.
+
+v10: κάμπτω (kamptō)  
+“To bend.” Used of kneeling, indicating recognition of authority.
+
+v12: κατεργάζομαι (katergazomai)  
+“To work out.” To bring something to full expression or completion.
+
+v13: ἐνεργέω (energeō)  
+“To work in.” Denotes active, effective power at work within.
+
+v14: γογγυσμός (gongysmos)  
+“Murmuring” or “grumbling.” Low-level communal dissatisfaction that erodes unity.
+
+v17: σπένδομαι (spendomai)  
+“To be poured out.” Drawn from sacrificial language, indicating offering of life.
+
+v30: παραβολεύομαι (paraboleuomai)  
+“To risk.” To expose oneself to danger, especially for the sake of another.

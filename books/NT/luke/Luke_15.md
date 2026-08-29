@@ -129,3 +129,21 @@ Translated as “disordered living” or “reckless living,” the adverb descr
 
 v17: εἰς ἑαυτὸν δὲ ἐλθὼν (eis heauton de elthōn)
 Literally, “coming to himself.” The phrase signals recovery of self-understanding before moral correction. Repentance begins with re-remembered identity.
+
+v20: σπλαγχνίζομαι (splagchnizomai)
+“To be moved with compassion.” This verb denotes visceral, embodied mercy. Luke frequently uses it to describe divine response rather than human calculation.
+
+v22: στολὴν τὴν πρώτην (stolēn tēn prōtēn)
+“The first robe” or “best robe.” The phrase signals honor and restored status, not mere clothing. The son is publicly re-clothed into belonging.
+
+v24, v32: ἀναζάω (anazaō)
+“To live again.” The verb frames restoration in resurrection language. Luke allows the metaphor to carry theological weight without explanation.
+
+v25: συμφωνία (symphōnia)
+Often translated “music,” the term suggests harmonious sound rather than background noise. Celebration is full-bodied and audible, impossible to ignore.
+
+v28: παρακαλέω (parakaleō)
+“To urge,” “to plead,” or “to come alongside.” The father’s action toward the elder son mirrors earlier compassion, showing that invitation extends to the resistant as well as the lost.
+
+v31: τέκνον (teknon)
+Translated “child,” this term conveys intimacy rather than rank. The father does not address the elder son as servant or heir, but as one who belongs.

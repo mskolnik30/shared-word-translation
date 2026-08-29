@@ -163,6 +163,8 @@ v19: διαλογίζομαι (dialogizomai) — to ponder; to reason through
 
 v20: διακρίνω (diakrinō) — to hesitate; to make distinctions; to doubt (context)
 
+v23: ξενίζω (xenizō) — to show hospitality; to lodge/host
+
 v28: ἀθέμιτος (athemitos) — unlawful; forbidden by custom
 
 v34: προσωπολήμπτης (prosōpolēmptēs) — one who shows partiality

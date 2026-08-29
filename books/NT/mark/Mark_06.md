@@ -181,6 +181,8 @@ v4: προφήτης (prophētēs) — prophet; one who speaks forth
 
 v5: δύναμις (dynamis) — deed of power; mighty work
 
+v6: ἀπιστία (apistia) — unbelief; lack of trust
+
 v7: ἀποστέλλειν (apostellein) — to send out
 
 v7: ἐξουσία (exousia) — authority; delegated power
