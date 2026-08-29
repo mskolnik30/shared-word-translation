@@ -1,0 +1,533 @@
+{
+  "removed_count": 123,
+  "files_changed": 7,
+  "files": [
+    {
+      "path": "books/OT/psalms/Psalm_040.md",
+      "removed": [
+        {
+          "ref": "v01",
+          "body": "קָוָה (qavah) — to wait for; to hope in"
+        },
+        {
+          "ref": "v01",
+          "body": "נָטָה (natah) — to bend/lean toward; to incline"
+        },
+        {
+          "ref": "v02",
+          "body": "שָׁאוֹן (sha’on) — roaring; tumult; crashing noise"
+        },
+        {
+          "ref": "v02",
+          "body": "צוּר (tsur) — rock; cliff; firm rock"
+        },
+        {
+          "ref": "v03",
+          "body": "בָּטַח (bataḥ) — to trust; to rely on"
+        },
+        {
+          "ref": "v04",
+          "body": "אַשְׁרֵי (’ashrei) — happy; blessed; flourishing"
+        },
+        {
+          "ref": "v06",
+          "body": "אָזַן (’azan) — ear; to listen; to give ear"
+        },
+        {
+          "ref": "v08",
+          "body": "תּוֹרָה (torah) — instruction; teaching"
+        },
+        {
+          "ref": "v09",
+          "body": "בָּשַׂר (basar) — to announce good news; to proclaim"
+        },
+        {
+          "ref": "v10",
+          "body": "חֶסֶד (ḥesed) — steadfast love; covenant loyalty"
+        },
+        {
+          "ref": "v10",
+          "body": "אֱמֶת (’emet) — truth; reliability; faithfulness"
+        },
+        {
+          "ref": "v12",
+          "body": "עָוֹן (ʿavon) — iniquity; guilt; twisted wrongdoing"
+        },
+        {
+          "ref": "v13",
+          "body": "נָצַל (natsal) — to deliver; to rescue"
+        },
+        {
+          "ref": "v17",
+          "body": "אֶבְיוֹן (’evyon) — poor; needy; vulnerable"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/psalms/Psalm_116.md",
+      "removed": [
+        {
+          "ref": "v01",
+          "body": "תַּחֲנוּן (taḥanun) — plea for mercy; supplication"
+        },
+        {
+          "ref": "v02",
+          "body": "נָטָה (natah) — to incline; to lean toward"
+        },
+        {
+          "ref": "v03",
+          "body": "חֶבֶל (ḥevel) — cord; rope; snare"
+        },
+        {
+          "ref": "v03",
+          "body": "שְׁאוֹל (she’ol) — sheol; the grave; the realm of the dead"
+        },
+        {
+          "ref": "v04",
+          "body": "קָרָא (qara) — to call; to cry out"
+        },
+        {
+          "ref": "v04",
+          "body": "נֶפֶשׁ (nefesh) — life; throat; whole being"
+        },
+        {
+          "ref": "v05",
+          "body": "צַדִּיק (tsaddiq) — righteous; just"
+        },
+        {
+          "ref": "v05",
+          "body": "רַחוּם (raḥum) — compassionate; merciful"
+        },
+        {
+          "ref": "v06",
+          "body": "פֶּתִי (peti) — simple; unguarded; inexperienced"
+        },
+        {
+          "ref": "v07",
+          "body": "מְנוּחָה (menuḥah) — rest; repose"
+        },
+        {
+          "ref": "v08",
+          "body": "דָּחָה (dachah) — to stumble; to be pushed down"
+        },
+        {
+          "ref": "v10",
+          "body": "אָמַן (’aman) — to trust; to be firm"
+        },
+        {
+          "ref": "v13",
+          "body": "יְשׁוּעָה (yeshu‘ah) — salvation; deliverance"
+        },
+        {
+          "ref": "v15",
+          "body": "יָקָר (yaqar) — precious; weighty; costly"
+        },
+        {
+          "ref": "v16",
+          "body": "עֶבֶד (ʿeved) — servant; slave"
+        },
+        {
+          "ref": "v16",
+          "body": "מוֹסֵר (moser) — bond; fetter; restraint"
+        },
+        {
+          "ref": "v17",
+          "body": "תּוֹדָה (todah) — thanksgiving; thank-offering"
+        },
+        {
+          "ref": "v19",
+          "body": "הַלְלוּ־יָהּ (hallelu-yah) — “praise the lord!”"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/psalms/Psalm_022.md",
+      "removed": [
+        {
+          "ref": "v01",
+          "body": "עָזַב (ʿazav) — to forsake; to abandon"
+        },
+        {
+          "ref": "v01",
+          "body": "שָׁאַג (sha’ag) — to roar; to cry out"
+        },
+        {
+          "ref": "v03",
+          "body": "קָדוֹשׁ (qadosh) — holy; set apart"
+        },
+        {
+          "ref": "v04",
+          "body": "בָּטַח (bataḥ) — to trust; to rely on"
+        },
+        {
+          "ref": "v05",
+          "body": "פָּלַט (palat) — to deliver; to rescue"
+        },
+        {
+          "ref": "v06",
+          "body": "תּוֹלָעַת (tolaʿat) — worm; maggot"
+        },
+        {
+          "ref": "v07",
+          "body": "לָעַג (laʿag) — to mock; to deride"
+        },
+        {
+          "ref": "v08",
+          "body": "גָּלַל (galal) — to roll (as in “commit/roll yourself onto”)"
+        },
+        {
+          "ref": "v12",
+          "body": "אַבִּיר (’abbir) — strong one; mighty bull"
+        },
+        {
+          "ref": "v12",
+          "body": "בָּשָׁן (bashan) — bashan (region known for strong cattle)"
+        },
+        {
+          "ref": "v14",
+          "body": "שָׁפַךְ (shafakh) — to pour out"
+        },
+        {
+          "ref": "v15",
+          "body": "כֹּחַ (koach) — strength; power"
+        },
+        {
+          "ref": "v16",
+          "body": "עֵדָה (ʿedah) — assembly; company"
+        },
+        {
+          "ref": "v18",
+          "body": "בֶּגֶד (beged) — garment; clothing"
+        },
+        {
+          "ref": "v18",
+          "body": "גּוֹרָל (goral) — lot (cast lots)"
+        },
+        {
+          "ref": "v24",
+          "body": "עָנִי (ʿani) — afflicted; poor; oppressed"
+        },
+        {
+          "ref": "v24",
+          "body": "שָׁוַע (shavaʿ) — to cry for help; to plead"
+        },
+        {
+          "ref": "v28",
+          "body": "מָשַׁל (mashal) — to rule; to govern"
+        },
+        {
+          "ref": "v31",
+          "body": "צֶדֶק (tsedeq) — righteousness; justice; rightness"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/psalms/Psalm_045.md",
+      "removed": [
+        {
+          "ref": "v01",
+          "body": "רָחַשׁ (raḥash) — to stir; to overflow; to bubble up"
+        },
+        {
+          "ref": "v01",
+          "body": "דָּבָר (davar) — word; message; matter"
+        },
+        {
+          "ref": "v02",
+          "body": "יָפָה (yafah) — to be beautiful; fair"
+        },
+        {
+          "ref": "v02",
+          "body": "חֵן (ḥen) — favor; grace; charm"
+        },
+        {
+          "ref": "v03",
+          "body": "גִּבּוֹר (gibbor) — mighty one; warrior"
+        },
+        {
+          "ref": "v04",
+          "body": "עֲנָוָה (ʿanavah) — humility; gentleness"
+        },
+        {
+          "ref": "v06",
+          "body": "שֵׁבֶט (shevet) — scepter; staff; tribe (context)"
+        },
+        {
+          "ref": "v06",
+          "body": "מֵישָׁרִים (mesharim) — equity; uprightness; fairness"
+        },
+        {
+          "ref": "v08",
+          "body": "אֲהָלוֹת (’ahālōt) — aloes (fragrant wood)"
+        },
+        {
+          "ref": "v09",
+          "body": "אוֹפִיר (’ophir) — ophir (region known for gold)"
+        },
+        {
+          "ref": "v10",
+          "body": "נָטָה (natah) — to incline; to turn toward"
+        },
+        {
+          "ref": "v13",
+          "body": "כָּבוֹד (kavod) — glory; honor; weightiness"
+        },
+        {
+          "ref": "v14",
+          "body": "רָקַם (raqam) — to embroider; to weave with patterns"
+        },
+        {
+          "ref": "v15",
+          "body": "שִׂמְחָה (simḥah) — joy; gladness"
+        },
+        {
+          "ref": "v17",
+          "body": "זָכַר (zakar) — to remember; to call to mind"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/psalms/Psalm_130.md",
+      "removed": [
+        {
+          "ref": "v01",
+          "body": "מַעֲמַקִּים (maʿamaqim) — depths; deep places"
+        },
+        {
+          "ref": "v01",
+          "body": "קָרָא (qara) — to call; to cry out"
+        },
+        {
+          "ref": "v02",
+          "body": "תְּחִנּוּנִים (teḥinnunim) — pleas; supplications for mercy"
+        },
+        {
+          "ref": "v03",
+          "body": "עָוֹן (ʿavon) — iniquity; guilt; twisted wrongdoing"
+        },
+        {
+          "ref": "v03",
+          "body": "שָׁמַר (shamar) — to keep; to watch; to mark/observe (context)"
+        },
+        {
+          "ref": "v03",
+          "body": "עָמַד (ʿamad) — to stand; to endure"
+        },
+        {
+          "ref": "v04",
+          "body": "סְלִיחָה (seliḥah) — forgiveness; pardon"
+        },
+        {
+          "ref": "v04",
+          "body": "יָרֵא (yare) — to fear; to hold in awe; reverence"
+        },
+        {
+          "ref": "v05",
+          "body": "קָוָה (qavah) — to wait for; to hope in"
+        },
+        {
+          "ref": "v05",
+          "body": "דָּבָר (davar) — word; promise; matter"
+        },
+        {
+          "ref": "v06",
+          "body": "שָׁמַר (shamar) — to watch; to keep vigil"
+        },
+        {
+          "ref": "v07",
+          "body": "חֶסֶד (ḥesed) — steadfast love; covenant loyalty"
+        },
+        {
+          "ref": "v07",
+          "body": "פְּדוּת (pedut) — redemption; ransom; release"
+        },
+        {
+          "ref": "v08",
+          "body": "גָּאַל (ga’al) — to redeem; to reclaim as kin-redeemer"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/psalms/Psalm_118.md",
+      "removed": [
+        {
+          "ref": "v01",
+          "body": "יָדָה (yadah) — to give thanks; to praise"
+        },
+        {
+          "ref": "v01",
+          "body": "חֶסֶד (ḥesed) — steadfast love; covenant loyalty"
+        },
+        {
+          "ref": "v05",
+          "body": "מֵצַר (metsar) — distress; narrow place; constriction"
+        },
+        {
+          "ref": "v05",
+          "body": "מֶרְחָב (merchav) — broad place; spaciousness"
+        },
+        {
+          "ref": "v06",
+          "body": "יָרֵא (yare) — to fear; to be afraid"
+        },
+        {
+          "ref": "v08",
+          "body": "חָסָה (chasah) — to take refuge"
+        },
+        {
+          "ref": "v10",
+          "body": "סָבַב (savav) — to surround; to encircle"
+        },
+        {
+          "ref": "v13",
+          "body": "דָּחָה (dachah) — to push; to thrust down"
+        },
+        {
+          "ref": "v14",
+          "body": "יְשׁוּעָה (yeshu‘ah) — salvation; deliverance"
+        },
+        {
+          "ref": "v18",
+          "body": "יָסַר (yasar) — to discipline; to instruct by correction"
+        },
+        {
+          "ref": "v19",
+          "body": "צֶדֶק (tsedeq) — righteousness; justice; rightness"
+        },
+        {
+          "ref": "v22",
+          "body": "מָאַס (ma’as) — to reject; to despise"
+        },
+        {
+          "ref": "v22",
+          "body": "רֹאשׁ פִּנָּה (rosh pinnah) — chief cornerstone; head of the corner"
+        },
+        {
+          "ref": "v25",
+          "body": "אָנָּא (’anna) — please; we pray"
+        },
+        {
+          "ref": "v25",
+          "body": "יָשַׁע (yashaʿ) — to save; to deliver"
+        },
+        {
+          "ref": "v25",
+          "body": "צָלַח (tsalaḥ) — to succeed; to prosper; to advance"
+        },
+        {
+          "ref": "v27",
+          "body": "חַג (ḥag) — festival; pilgrim feast"
+        }
+      ]
+    },
+    {
+      "path": "books/OT/isaiah/Isaiah_53.md",
+      "removed": [
+        {
+          "ref": "v01",
+          "body": "אָמַן (’aman) — to trust; to be firm; to stand fast"
+        },
+        {
+          "ref": "v01",
+          "body": "זְרוֹעַ (zeroaʿ) — arm (symbol of power)"
+        },
+        {
+          "ref": "v02",
+          "body": "יוֹנֵק (yoneq) — young plant; tender shoot"
+        },
+        {
+          "ref": "v03",
+          "body": "בָּזָה (bazah) — to despise; to treat with contempt"
+        },
+        {
+          "ref": "v03",
+          "body": "חָדַל (ḥadal) — to be rejected; to be forsaken; to cease (context)"
+        },
+        {
+          "ref": "v03",
+          "body": "מַכְאוֹב (mak’ov) — pain; sorrow"
+        },
+        {
+          "ref": "v03",
+          "body": "חֹלִי (ḥoli) — sickness; grief; affliction"
+        },
+        {
+          "ref": "v04",
+          "body": "נָשָׂא (nasa) — to bear; to carry; to lift"
+        },
+        {
+          "ref": "v04",
+          "body": "סָבַל (saval) — to carry a heavy load; to endure"
+        },
+        {
+          "ref": "v05",
+          "body": "חָלַל (ḥalal) — to pierce; to wound; to profane (context)"
+        },
+        {
+          "ref": "v05",
+          "body": "דָּכָא (daka) — to crush; to break"
+        },
+        {
+          "ref": "v05",
+          "body": "מוּסָר (musar) — discipline; correction; chastisement"
+        },
+        {
+          "ref": "v05",
+          "body": "שָׁלוֹם (shalom) — peace; wholeness"
+        },
+        {
+          "ref": "v05",
+          "body": "חַבּוּרָה (ḥabburah) — wound; stripe; bruise"
+        },
+        {
+          "ref": "v06",
+          "body": "תָּעָה (ta‘ah) — to wander; to go astray"
+        },
+        {
+          "ref": "v06",
+          "body": "פָּגַע (pagaʿ) — to lay upon; to cause to meet; to intercede (range)"
+        },
+        {
+          "ref": "v07",
+          "body": "נֶאֱלָם (ne’elam) — to be silent; to be mute"
+        },
+        {
+          "ref": "v08",
+          "body": "עֹצֶר (ʿotser) — oppression; restraint"
+        },
+        {
+          "ref": "v08",
+          "body": "גָּזַר (gazar) — to cut off; to sever"
+        },
+        {
+          "ref": "v09",
+          "body": "חָמָס (ḥamas) — violence; wrong"
+        },
+        {
+          "ref": "v09",
+          "body": "מִרְמָה (mirmah) — deceit; treachery"
+        },
+        {
+          "ref": "v10",
+          "body": "אָשָׁם (’asham) — guilt offering; reparation offering"
+        },
+        {
+          "ref": "v11",
+          "body": "צַדִּיק (tsaddiq) — righteous; just"
+        },
+        {
+          "ref": "v11",
+          "body": "צָדַק (tsadaq) — to make righteous; to declare right; to justify"
+        },
+        {
+          "ref": "v12",
+          "body": "פָּשַׁע (pashaʿ) — rebellion; transgression"
+        },
+        {
+          "ref": "v12",
+          "body": "פָּגַע (pagaʿ) — to intercede; to plead (context)"
+        }
+      ]
+    }
+  ]
+}

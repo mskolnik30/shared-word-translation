@@ -57,36 +57,6 @@ v07: פְּדוּת (pedut) — redemption; ransom; release
 v08: “from all its iniquities” — The deepest deliverance is moral and spiritual renewal; redemption reaches beyond external threat to the roots of brokenness.
 
   ## Vocabulary
-
-v01: מַעֲמַקִּים (maʿamaqim) — depths; deep places
-
-v01: קָרָא (qara) — to call; to cry out
-
-v02: תְּחִנּוּנִים (teḥinnunim) — pleas; supplications for mercy
-
-v03: עָוֹן (ʿavon) — iniquity; guilt; twisted wrongdoing
-
-v03: שָׁמַר (shamar) — to keep; to watch; to mark/observe (context)
-
-v03: עָמַד (ʿamad) — to stand; to endure
-
-v04: סְלִיחָה (seliḥah) — forgiveness; pardon
-
-v04: יָרֵא (yare) — to fear; to hold in awe; reverence
-
-v05: קָוָה (qavah) — to wait for; to hope in
-
-v05: דָּבָר (davar) — word; promise; matter
-
-v06: שָׁמַר (shamar) — to watch; to keep vigil
-
-v07: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
-
-v07: פְּדוּת (pedut) — redemption; ransom; release
-
-v08: גָּאַל (ga’al) — to redeem; to reclaim as kin-redeemer
-
-  
 ##Vocabulary
 
 v02: תְּחִנּוּנִים (teḥinnunim)

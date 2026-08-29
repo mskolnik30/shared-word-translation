@@ -116,40 +116,11 @@ v17: “poor and needy… the Lord takes thought for me” — The closing postu
 
   ## Vocabulary
 
-v01: קָוָה (qavah) — to wait for; to hope in
-
-v01: נָטָה (natah) — to bend/lean toward; to incline
-
-v02: שָׁאוֹן (sha’on) — roaring; tumult; crashing noise
-
 v02: טִיט (ṭit) — mud; mire; clay
-
-v02: צוּר (tsur) — rock; cliff; firm rock
 
 v03: שִׁיר (shir) — song
 
-v03: בָּטַח (bataḥ) — to trust; to rely on
-
-v04: אַשְׁרֵי (’ashrei) — happy; blessed; flourishing
-
 v06: זֶבַח (zevaḥ) — sacrifice
-
-v06: אָזַן (’azan) — ear; to listen; to give ear
-
-v08: תּוֹרָה (torah) — instruction; teaching
-
-v09: בָּשַׂר (basar) — to announce good news; to proclaim
-
-v10: חֶסֶד (ḥesed) — steadfast love; covenant loyalty
-
-v10: אֱמֶת (’emet) — truth; reliability; faithfulness
-
-v12: עָוֹן (ʿavon) — iniquity; guilt; twisted wrongdoing
-
-v13: נָצַל (natsal) — to deliver; to rescue
-
-v17: אֶבְיוֹן (’evyon) — poor; needy; vulnerable
-  
 ##Vocabulary
 
 v03: בָּטַח (bataḥ)
