@@ -12,3 +12,6 @@ audit/notes_recovery_backups/
 
 # Temporary versification-recovery backups
 *.before-reference-fix
+
+# Temporary irregular-mapping backups
+*.before-irregular-mappings

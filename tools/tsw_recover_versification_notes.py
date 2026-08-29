@@ -8,10 +8,8 @@ import re
 
 SOURCE = "81bcb9f75c59a375e72d2d27f68671eb0259ce1b"
 
-# Only chapters whose versification shift has been established by
-# high-confidence exact-text matching. Ezekiel 21 is intentionally
-# excluded because its historical notes contain inconsistent internal
-# verse labels and should be reviewed separately.
+# Chapters with a verified systematic versification shift.
+# Ezekiel 21 remains intentionally excluded for manual/recreation review.
 OFFSETS = {
     "books/NT/philippians/Philippians_02.md": -1,
     "books/OT/1chronicles/1Chronicles_06.md": 15,
@@ -27,6 +25,36 @@ OFFSETS = {
     "books/OT/psalms/Psalm_075.md": -1,
 }
 
+# Individually verified exact-text mappings that do not belong to a
+# sufficiently reliable chapter-wide offset. Psalm 53 is intentionally
+# excluded because its historical note was judged too generic to retain.
+IRREGULAR = {
+    "books/NT/luke/Luke_15.md": {
+        "source_path": "books/NT/luke/Luke_15.md",
+        "refs": {
+            "v23–24": "v22–23",
+            "v25–27": "v24–26",
+            "v28–30": "v27–29",
+            "v31": "v30",
+            "v32": "v31",
+        },
+    },
+    "books/OT/genesis/Genesis_35.md": {
+        "source_path": "books/OT/genesis/Genesis_35.md",
+        "refs": {
+            "v28–30": "v27–29",
+        },
+    },
+    "books/OT/psalms/Psalm_021.md": {
+        "source_path": "books/OT/psalms/Psalm_21.md",
+        "refs": {
+            "v3": "v02",
+            "v6": "v05",
+            "v7": "v06",
+        },
+    },
+}
+
 APPLY = "--apply" in sys.argv
 
 spec = importlib.util.spec_from_file_location(
@@ -40,6 +68,14 @@ INLINE_REF_RE = re.compile(
     r"\bv(\d{1,3})(?:\s*[–-]\s*(\d{1,3}))?\b",
     re.I
 )
+
+
+def note_signature(entry):
+    """Compare note substance while ignoring verse-label/Markdown cleanup."""
+    s = recover.normalize_note_body(entry)
+    s = INLINE_REF_RE.sub(" ", s)
+    s = re.sub(r'[*_`#>:“”"‘’.,;()\[\]{}—–-]+', " ", s)
+    return " ".join(s.split())
 
 
 def map_ref(ref, offset):
@@ -79,20 +115,17 @@ def remap_inline_refs(text, offset):
 
 
 def clean_duplicate_leading_ref(body, old_ref):
-    # Some historical apparatus entries were malformed like:
-    #   v16: - v16: “After the ark came to rest” ...
-    # Remove only a duplicate copy of the entry's own leading reference.
     escaped = re.escape(old_ref)
     return re.sub(
         rf"^\s*-\s*{escaped}\s*:\s*",
         "",
         body,
         count=1,
-        flags=re.I
+        flags=re.I,
     )
 
 
-def remap_entry(entry, new_ref, offset):
+def remap_entry(entry, new_ref, offset=None, remap_internal=True):
     block = list(entry.block)
     if not block:
         return None
@@ -103,16 +136,16 @@ def remap_entry(entry, new_ref, offset):
         return None
 
     indent = first[:len(first) - len(first.lstrip())]
-    body = m.group(2)
+    body = clean_duplicate_leading_ref(m.group(2), entry.ref)
 
-    body = clean_duplicate_leading_ref(body, entry.ref)
-    body = remap_inline_refs(body, offset)
+    if remap_internal and offset is not None:
+        body = remap_inline_refs(body, offset)
 
     block[0] = f"{indent}{new_ref}: {body}"
 
-    # Remap verse references in continuation lines too.
-    for i in range(1, len(block)):
-        block[i] = remap_inline_refs(block[i], offset)
+    if remap_internal and offset is not None:
+        for i in range(1, len(block)):
+            block[i] = remap_inline_refs(block[i], offset)
 
     return recover.NoteEntry(new_ref, block)
 
@@ -136,16 +169,46 @@ def exact_text_match(old_verses, new_verses, old_ref, new_ref):
     )
 
 
+def write_if_needed(rel, current, current_entries, additions):
+    if not additions:
+        return 0
+
+    merged = current_entries + additions
+
+    def sort_key(entry):
+        nums = recover.ref_numbers(entry.ref)
+        return nums[0] if nums else 9999
+
+    merged.sort(key=sort_key)
+    new_text = recover.replace_notes_section(current, merged)
+
+    # Safety invariant: nothing outside Notes may change.
+    def without_notes(text):
+        lines = text.splitlines()
+        bounds = recover.section_bounds(lines, "Notes")
+        if not bounds:
+            return "\n".join(lines).rstrip()
+        a, z = bounds
+        return "\n".join(lines[:a] + lines[z:]).rstrip()
+
+    if without_notes(current) != without_notes(new_text):
+        raise RuntimeError(f"Safety invariant failed for {rel}")
+
+    Path(rel).write_text(new_text)
+    return 1
+
+
 total = 0
 changed_files = 0
 
+# 1. Systematic mappings.
 for rel, offset in OFFSETS.items():
     path = Path(rel)
     current = path.read_text()
 
     historical = subprocess.check_output(
         ["git", "show", f"{SOURCE}:{rel}"],
-        text=True
+        text=True,
     )
 
     old_verses = recover.extract_verses(historical)
@@ -154,17 +217,11 @@ for rel, offset in OFFSETS.items():
     current_entries = recover.parse_note_entries(current)
     historical_entries = recover.parse_note_entries(historical)
 
-    current_bodies = {
-        recover.normalize_note_body(e)
-        for e in current_entries
-    }
-
+    current_signatures = {note_signature(e) for e in current_entries}
     additions = []
 
     for note in historical_entries:
-        body = recover.normalize_note_body(note)
-
-        if body in current_bodies:
+        if note_signature(note) in current_signatures:
             continue
 
         new_ref = map_ref(note.ref, offset)
@@ -175,51 +232,112 @@ for rel, offset in OFFSETS.items():
             old_verses,
             new_verses,
             note.ref,
-            new_ref
+            new_ref,
         ):
             continue
 
-        mapped = remap_entry(note, new_ref, offset)
-        if mapped:
+        mapped = remap_entry(
+            note,
+            new_ref,
+            offset=offset,
+            remap_internal=True,
+        )
+
+        if mapped and note_signature(mapped) not in current_signatures:
             additions.append(mapped)
-            current_bodies.add(body)
+            current_signatures.add(note_signature(mapped))
 
-    if not additions:
-        continue
-
-    print(f"{rel}: {len(additions)} notes")
-    for note in additions:
-        print(f"  {note.ref}: {recover.normalize_note_body(note)[:90]}")
-
-    total += len(additions)
-
-    if APPLY:
-        merged = current_entries + additions
-
-        def sort_key(entry):
-            nums = recover.ref_numbers(entry.ref)
-            return nums[0] if nums else 9999
-
-        merged.sort(key=sort_key)
-
-        new_text = recover.replace_notes_section(current, merged)
-
-        # Safety invariant: nothing outside Notes may change.
-        def without_notes(text):
-            lines = text.splitlines()
-            bounds = recover.section_bounds(lines, "Notes")
-            if not bounds:
-                return "\n".join(lines).rstrip()
-            a, z = bounds
-            return "\n".join(lines[:a] + lines[z:]).rstrip()
-
-        if without_notes(current) != without_notes(new_text):
-            raise RuntimeError(
-                f"Safety invariant failed for {rel}"
+    if additions:
+        print(f"{rel}: {len(additions)} notes")
+        for note in additions:
+            print(
+                f"  {note.ref}: "
+                f"{recover.normalize_note_body(note)[:90]}"
             )
 
-        path.write_text(new_text)
-        changed_files += 1
+        total += len(additions)
+
+        if APPLY:
+            changed_files += write_if_needed(
+                rel,
+                current,
+                current_entries,
+                additions,
+            )
+
+
+# 2. Explicit irregular mappings.
+for rel, config in IRREGULAR.items():
+    path = Path(rel)
+    current = path.read_text()
+    source_rel = config["source_path"]
+    mappings = config["refs"]
+
+    historical = subprocess.check_output(
+        ["git", "show", f"{SOURCE}:{source_rel}"],
+        text=True,
+    )
+
+    old_verses = recover.extract_verses(historical)
+    new_verses = recover.extract_verses(current)
+
+    current_entries = recover.parse_note_entries(current)
+    historical_entries = recover.parse_note_entries(historical)
+
+    current_signatures = {note_signature(e) for e in current_entries}
+    additions = []
+
+    for note in historical_entries:
+        new_ref = mappings.get(note.ref)
+        if not new_ref:
+            continue
+
+        if note_signature(note) in current_signatures:
+            continue
+
+        if not exact_text_match(
+            old_verses,
+            new_verses,
+            note.ref,
+            new_ref,
+        ):
+            raise RuntimeError(
+                f"Approved irregular mapping no longer matches text: "
+                f"{rel} {note.ref} -> {new_ref}"
+            )
+
+        # These nine approved notes contain no secondary verse references
+        # requiring remapping, so only the primary apparatus reference is
+        # changed.
+        mapped = remap_entry(
+            note,
+            new_ref,
+            offset=None,
+            remap_internal=False,
+        )
+
+        if mapped and note_signature(mapped) not in current_signatures:
+            additions.append(mapped)
+            current_signatures.add(note_signature(mapped))
+
+    if additions:
+        print(f"{rel}: {len(additions)} irregular notes")
+        for note in additions:
+            print(
+                f"  {note.ref}: "
+                f"{recover.normalize_note_body(note)[:90]}"
+            )
+
+        total += len(additions)
+
+        if APPLY:
+            changed_files += write_if_needed(
+                rel,
+                current,
+                current_entries,
+                additions,
+            )
+
 
 print()
 print(f"Recoverable remapped notes: {total}")
