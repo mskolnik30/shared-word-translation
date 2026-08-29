@@ -72,9 +72,14 @@ v21: She called the boy Ichabod, saying, “Glory has gone into exile from Israe
 
 v22: She said, “Glory has gone into exile from Israel, for the ark of God has been captured.”
 </p>
-##Notes
-
-v21–22: The Hebrew verb translated “gone into exile” can also mean “departed.”
+## Notes
+v03: Israel treats the ark as though its physical presence can guarantee victory. The narrative does not present their decision as an act of obedient trust.
+v04: The title “LORD of Hosts, who sits above the cherubim” intensifies the contrast between God’s sovereignty and Israel’s attempt to use the ark.
+v08: The Philistines speak of Israel’s God in plural language according to their own religious categories. TSW preserves their perspective rather than correcting their grammar.
+v10–11: The scale of defeat and capture of the ark overturn Israel’s confidence that sacred objects can control divine power.
+v18: Eli’s death occurs specifically when he hears that the ark has been captured, not merely at the news of his sons.
+v21: “Ichabod” is traditionally associated with “no glory” or “where is the glory?” The mother interprets the name through the departure of glory.
+v21–22: The Hebrew verb translated “gone into exile” can also mean “departed.” TSW retains the exile sense because the ark itself has been carried away.
 
 ##Vocabulary
 

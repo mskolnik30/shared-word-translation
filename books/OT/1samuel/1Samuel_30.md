@@ -96,7 +96,17 @@ v30: those in Hormah, those in Bor-Ashan, those in Athach,
 
 v31: those in Hebron, and to all the places where David and his men had walked.
 </p>
-##Notes
+## Notes
+v06: David’s crisis is total—home destroyed, family taken, followers turning against him—yet the narrative says he “strengthened himself in the LORD his God.”
+v08: The oracle promises not merely military pursuit but successful rescue.
+v10: The two hundred men remain behind because of exhaustion, not cowardice.
+v11–15: David’s men first feed the abandoned Egyptian before learning that he can guide them, contrasting their treatment with the Amalekite master who left him sick.
+v17: The battle duration is difficult in Hebrew but describes an extended strike from twilight into the following day.
+v18–19: The repeated “rescued” and “nothing missing” emphasize complete reversal of the loss at Ziklag.
+v22: The text explicitly calls the men who want to exclude the exhausted soldiers “evil and worthless.”
+v23: David’s redistribution principle begins with theology: the spoil is what “the LORD has given us.”
+v24–25: Those guarding the baggage receive the same share as those in direct combat, making support roles part of the common military enterprise.
+v26–31: David’s gifts renew relationships across Judah and also establish a network of political goodwill immediately before he becomes king there.
 
 ##Vocabulary
 

@@ -80,7 +80,15 @@ v22: David said to Abiathar, “I knew on that day, because Doeg the Edomite was
 
 v23: Stay with me. Do not fear, for the one who seeks my life seeks your life. With me you shall be under protection.”
 </p>
-##Notes
+## Notes
+v01–02: David’s followers are drawn from people under social and economic pressure, forming an alternative community around a fugitive leader.
+v03: David entrusts his parents to Moab, possibly drawing on ancestral ties through Ruth, though the text itself does not make that connection explicit.
+v06–08: Saul frames loyalty in patronage terms—land, offices, and Benjaminite advantage—and interprets Jonathan’s covenant with David as conspiracy.
+v10: Doeg’s report includes Ahimelech inquiring of the LORD for David, something not narrated explicitly in chapter 21. The traditions are allowed to stand together.
+v14: Ahimelech’s defense portrays David as one of Saul’s most trusted and honored servants, underscoring that the priest had no reason to suspect treason.
+v17: Saul’s own servants refuse to kill the priests, drawing a moral boundary that Doeg crosses.
+v18–19: The slaughter of priests and the entire city of Nob is among Saul’s darkest acts. TSW preserves the severity without softening it.
+v22: David accepts a degree of responsibility because he knew Doeg had seen him and anticipated that Doeg might report him.
 
 ##Vocabulary
 

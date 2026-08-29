@@ -42,9 +42,14 @@ v11: David did not keep alive man or woman to bring to Gath, saying, “Lest the
 
 v12: Achish trusted David, saying, “He has surely made himself odious among his people Israel, and he shall be my servant forever.”
 </p>
-##Notes
-
-v08: The precise identification of the Girzites is uncertain, and some manuscripts/readings differ.
+## Notes
+v01: Despite Saul’s promise in chapter 26, David concludes inwardly that remaining within Saul’s reach will eventually kill him.
+v02: David returns to Achish of Gath, but unlike chapter 21 he now arrives as leader of six hundred men and their households.
+v06: The narrator’s “to this day” reflects a later period when Ziklag remained associated with Judah’s monarchy.
+v08: The precise identification of the Girzites is uncertain, and some manuscripts/readings differ. TSW follows the Masoretic form.
+v09–11: David’s raids include total killing of local populations specifically to prevent witnesses from exposing his deception. The narrative reports this severe violence without explicitly commending it.
+v10: David tells Achish that his raids were against groups associated with Judah, creating the appearance that he has permanently alienated Israel.
+v12: Achish’s trust rests on a false conclusion produced by David’s deception.
 
 ##Vocabulary
 

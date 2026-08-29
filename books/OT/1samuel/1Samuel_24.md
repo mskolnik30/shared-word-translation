@@ -66,11 +66,16 @@ v21: And now swear to me by the LORD that you will not cut off my offspring afte
 
 v22: David swore to Saul. Then Saul went to his house, but David and his men went up to the stronghold.
 </p>
-##Notes
-
-v07: The verb translated “restrained” is strong and can mean tear apart with words or rebuke sharply.
-
+## Notes
+v03: “Cover his feet” is a Hebrew euphemism for relieving oneself, placing Saul in an unusually vulnerable position.
+v04: David’s men interpret circumstance as divine permission. David does not accept their theological conclusion automatically.
+v05: David’s conscience troubles him even for cutting Saul’s robe, because the robe symbolizes royal status and because Saul remains the LORD’s anointed.
+v07: The verb translated “restrained” is strong and can mean tear apart with words or rebuke sharply. David prevents his men from acting.
+v10: The Masoretic Text literally says “he said to kill you,” with an unclear subject; some ancient witnesses read “I said.” TSW uses the contextually broad “some said.”
 v10: The Masoretic Text literally says “he said to kill you,” with an unclear subject; some ancient witnesses read “I said.” said.”
+v12: David leaves vengeance to the LORD while refusing to become the agent of personal retaliation.
+v20: Saul openly acknowledges David’s future kingship, even while the pursuit resumes later.
+v22: David does not return with Saul but goes back to the stronghold, showing that verbal reconciliation has not yet produced trustworthy safety.
 
 ##Vocabulary
 

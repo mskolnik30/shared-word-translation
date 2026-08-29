@@ -84,11 +84,16 @@ v26: They arose early, and it happened at the breaking of dawn that Samuel calle
 
 v27: As they were going down to the edge of the city, Samuel said to Saul, “Say to the young man that he should pass on before us”—and he passed on—“but you stand here now, so that I may make you hear the word of God.”
 </p>
-##Notes
-
+## Notes
+v01: Kish is called a “mighty man of wealth,” which may describe social standing, wealth, or ability rather than military fame alone.
+v02: Saul’s height and appearance introduce the kind of visible qualities Israel might associate with kingship.
+v06–10: The search for ordinary lost property becomes the providential path toward royal anointing.
+v09: The narrator explains an older use of the title “seer,” indicating awareness of changes in prophetic terminology.
 v15: “Uncovered Samuel’s ear” is a Hebrew idiom for privately revealing information.
-
+v16: The LORD describes Saul’s royal role first as saving Israel from Philistine oppression, showing compassion toward the same people whose demand for monarchy was criticized in chapter 8.
 v17: “Restrain my people” can mean govern, hold back, or exercise rule. The verb is less common than ordinary royal terminology.
+v20: “All that is desirable in Israel” is ambiguous and may refer to Israel’s desire turning toward Saul, or to Israel’s desirable possessions. TSW retains the broad wording.
+v21: Saul’s humility draws on Benjamin’s recent history as a small tribe and his clan’s modest place within it.
 
 ##Vocabulary
 

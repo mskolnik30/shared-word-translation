@@ -64,11 +64,15 @@ v20: All Israel from Dan to Beersheba knew that Samuel was established as a prop
 
 v21: The LORD continued to appear at Shiloh, for the LORD revealed himself to Samuel at Shiloh by the word of the LORD.
 </p>
-##Notes
-
+## Notes
+v01: The rarity of the LORD’s word prepares for Samuel’s emergence as prophet. The problem is not divine inability to speak but a period without widespread revelation.
+v03: “The lamp of God had not yet gone out” gives the nighttime setting and may also carry symbolic force within a chapter of renewed revelation.
+v07: Samuel “did not yet know the LORD” means he had not yet encountered the LORD through prophetic revelation; it does not require complete religious ignorance.
+v10: The LORD “came and stood,” making the fourth call more explicit than the first three.
 v11: “Both ears … will tingle” is an idiom for news so shocking that hearing it has a physical effect.
-
-v13: The Masoretic Text says Eli’s sons were “bringing a curse upon themselves.” Some ancient witnesses read that they were “blaspheming God.”
+v13: The Masoretic Text says Eli’s sons were “bringing a curse upon themselves.” Some ancient witnesses read that they were “blaspheming God.” TSW follows the Masoretic form and notes the significant variant.
+v18: Eli’s response accepts the LORD’s judgment without attempting to deny Samuel’s report.
+v19: “Let none of his words fall to the ground” means Samuel’s prophetic words proved reliable.
 
 ##Vocabulary
 
