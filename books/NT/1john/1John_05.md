@@ -59,15 +59,26 @@ v20: And we know that the Son of God has come and has given us understanding so 
 <p>
 v21: Little children, guard yourselves from idols.
 </p>
-##Notes
-
-v07–08: “there are three that testify” — Later manuscripts contain an expanded Trinitarian wording often called the *Comma Johanneum*, referring to testimony in heaven by the Father, the Word, and the Holy Spirit. This expansion is absent from the earliest and strongest Greek witnesses and is therefore not included in the main text.
-
-v08: “the three agree as one” — The Greek literally draws the three witnesses “into the one.” The wording expresses their united testimony without defining the nature of their relationship beyond the immediate context.
-
+## Notes
+v1: “has been born of God” — Birth language describes identity as originating in God. Trust that Jesus is the Christ, love of God, and love for those born of God are held together rather than treated as separate marks of faith.  
+v3: “the commandments are not burdensome” — The statement does not deny the cost of obedience. The following verse grounds it in birth from God and the overcoming of the world.  
+v4: “our trust” — The noun πίστις (pistis) appears here after repeated use of the verb “trust.” The victory is not presented as human achievement but as the trust characteristic of those born of God.  
+v6: “water and blood” — The images are stated without explanation. Interpretations have included Jesus’ baptism and death as well as other sacramental and christological readings. The translation retains the language without choosing among them.  
+v6: “not in the water only” — The repetition of water and blood is emphatic. The author resists separating the coming of Jesus Christ from the blood while leaving the precise controversy behind the statement unstated.  
+v7–8: “there are three that testify” — Later manuscripts contain an expanded Trinitarian wording often called the *Comma Johanneum*, referring to testimony in heaven by the Father, the Word, and the Holy Spirit. This expansion is absent from the earliest and strongest Greek witnesses and is therefore not included in the main text.  
+v8: “the three agree as one” — The Greek literally draws the three witnesses “into the one.” The wording expresses their united testimony without defining the nature of their relationship beyond the immediate context.  
+v9–10: “testimony of God” — The language deliberately repeats “testimony” and “testify.” Trust in the Son is presented as receiving God’s own testimony concerning the Son.  
+v11–12: “life is in the Son” — Eternal life is not treated simply as future duration. It is located relationally in the Son, so that having the Son and having life are held together.  
+v13: “so that you may know” — The purpose of the writing is assurance. Eternal life is described as something the recipients may know they possess in the present.  
+v14: “according to God’s will” — Confidence in prayer is joined to God’s will rather than presented as an unrestricted guarantee that every request will be granted as desired.  
+v16: “sin not leading to death” — The chapter distinguishes sin leading to death from sin not leading to death but does not define either category explicitly. The translation leaves the distinction unresolved.  
 v16: “God will give life” — The Greek leaves the subject of “will give” implicit. The context strongly associates life with God, but the compressed syntax permits discussion about the precise relationship between the prayer and the giving of life.
-
-v18: Some manuscript traditions also read “keeps himself.” The main text preserves the distinction reflected in the critical text.
+v18: “the one who was born of God keeps them” — The verse shifts from the perfect form, “has been born of God,” to an aorist expression, “was born of God.” This may distinguish the believer from the Son of God, though the wording has been understood in more than one way. Some manuscript traditions also read “keeps himself.” The main text preserves the distinction reflected in the critical text.  
+v19: “lies in the power of the evil one” — The Greek states that the whole world “lies in the evil one.” “In the power of” makes the relationship intelligible in English without implying that the evil one possesses ultimate authority.  
+v20: “This one is the true God and eternal life” — The antecedent of “this one” can be discussed grammatically and theologically. It may point most immediately to Jesus Christ or back to the True One already named. The translation preserves the pronoun rather than resolving the reference.  
+v21: “guard yourselves from idols” — The letter ends abruptly with a command concerning idols. No explanation is supplied, allowing the warning to stand as the final word of the letter.  
+v07–08: “there are three that testify” — Later manuscripts contain an expanded Trinitarian wording often called the *Comma Johanneum*, referring to testimony in heaven by the Father, the Word, and the Holy Spirit. This expansion is absent from the earliest and strongest Greek witnesses and is therefore not included in the main text.
+v08: “the three agree as one” — The Greek literally draws the three witnesses “into the one.” The wording expresses their united testimony without defining the nature of their relationship beyond the immediate context.
 
 ##Vocabulary
 

@@ -32,7 +32,18 @@ v09: If we confess our sins, he is faithful and just to forgive us our sins and 
 
 v10: If we say that we have not sinned, we make him a liar, and his word is not in us.
 </p>
-##Notes
+## Notes
+v1: The opening is descriptive without naming the subject directly.  
+v1–2: Sensory language accumulates, emphasizing experience.  
+v2: Manifestation is repeated without explanation of mechanism.  
+v3: Proclamation establishes shared participation.  
+v4: Writing is oriented toward completion of joy.  
+v5: God is defined through contrast, not analogy.  
+v6–7: Walking functions as a metaphor for conduct.  
+v7: Cleansing is continuous, not punctiliar.  
+v8–10: Conditional statements expose self-deception without gradation.  
+v9: Forgiveness and cleansing are paired without separation.  
+v10: Denial of sin redefines relationship with God.  
 
 ##Vocabulary
 
