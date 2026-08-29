@@ -97,13 +97,20 @@ v32: For the Gentiles seek all these things; and your heavenly Father knows that
 v33: But seek first his kingdom and his righteousness, and all these things will be added to you.
 v34: So do not be anxious about tomorrow, for tomorrow will be anxious for itself. Today’s trouble is enough for today.
 </p>
-##Notes
-
-v01: A textual question stands here.
-
+## Notes
+v1: A textual question stands here. Some manuscripts read “your alms” (ἐλεημοσύνη) rather than “your righteousness” (δικαιοσύνη). The earlier and broader reading is “righteousness,” which the verse then specifies in the three practices that follow: almsgiving, prayer, fasting.  
+v2: “Have received their reward in full” (ἀπέχουσιν) is a commercial term meaning “paid in full.” The hypocrites’ visibility is itself the wage.  
+v6: The “room” (ταμεῖον) is an inner chamber, often a storeroom—a place neither public nor decorated.  
+v7: “Empty phrases” (βατταλογήσητε) is onomatopoeic in Greek; the word names the sound of stammering or babbling.  
+v9–13: The prayer is offered as a model, not a script. Its formal features—address, petitions toward God, petitions for the community, petitions for protection—structure the prayer rather than dictate its words.  
+v11: “Daily” (ἐπιούσιος) is an unresolved word in Greek; it appears almost nowhere outside this prayer. Possible meanings include “for today,” “for tomorrow,” and “necessary for existence.” The translation preserves the traditional rendering without claiming certainty.  
 v12: “Debts” (ὀφειλήματα) is rendered literally; the financial register is left intact rather than smoothed to “trespasses” or “sins.” The word for trespass (παραπτώματα) appears in the next verses.
-
+v13: The traditional doxology (“for yours is the kingdom and the power and the glory”) appears in many manuscripts and liturgical traditions but is not present in the earliest witnesses. It is not included in the main text.  
+v22–23: “Single” (ἁπλοῦς) and “evil” (πονηρός) carry idiomatic weight in Hebrew thought, where the “single” or “good” eye refers to generosity and the “evil” eye to greed. The literal translation is preserved; the idiom is left for the reader to hear.  
 v22–23: “Single” (ἁπλοῦς) and “evil” (πονηρός) carry idiomatic weight. In a Semitic idiom, a “good” or “single” eye can suggest generosity, while an “evil” eye can suggest greed.
+v24: “Wealth” renders Mammon (μαμωνᾶ), an Aramaic word for property or possessions. The personification is intentional; wealth is treated as a rival lord.  
+v25–34: The repeated command “do not be anxious” (μὴ μεριμνᾶτε) frames the section. The argument moves from analogy (birds, lilies) to identity (you are more) to reorientation (seek first).  
+v01: A textual question stands here.
 
 ##Vocabulary
 

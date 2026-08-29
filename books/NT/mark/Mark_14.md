@@ -204,7 +204,23 @@ v71: But he began to curse and to swear, “I do not know this man of whom you s
 
 v72: And immediately the rooster crowed a second time. And Peter remembered the word, how Jesus had said to him, “Before the rooster crows twice, you will deny me three times.” And breaking down, he wept.
 </p>
-##Notes
+## Notes
+v1–2: The leaders seek death by stealth, showing both hostility and fear of the people.
+v3: The woman’s act is extravagant and embodied; the broken jar makes the gift irreversible.
+v6–9: Jesus interprets her action in relation to burial and memory, not efficiency.
+v10–11: Judas’ betrayal is narrated economically; motive is left relatively restrained.
+v18: Betrayal is intensified by table fellowship.
+v21: Scripture and human responsibility are held together without harmonization.
+v22–24: Bread and cup interpret Jesus’ death as covenantal self-giving.
+v27–28: Scattering is predicted, but Galilee is promised beyond failure.
+v36: Gethsemane preserves both Jesus’ desire and obedience; neither is diminished.
+v38: Watchfulness and prayer are linked to endurance under testing.
+v41: “The hour” arrives as divine timing and human betrayal converge.
+v49: Fulfillment does not make the violence innocent.
+v51–52: The fleeing young man embodies abandonment in stark physical terms.
+v61–62: Jesus’ answer joins messianic identity with Son of Man authority and suffering.
+v64–65: Condemnation is followed immediately by mockery, exposing the council’s violence.
+v72: Peter’s grief fulfills Jesus’ word and leaves repentance unresolved within the scene.
 
 ##Vocabulary
 

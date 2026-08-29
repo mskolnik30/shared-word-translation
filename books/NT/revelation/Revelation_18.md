@@ -160,7 +160,25 @@ v24: And in her was found the blood of prophets and of saints,
 
 and of all who have been slain on the earth.”
 </p>
-##Notes
+## Notes
+v1: The angel’s authority is expressed through effect (“the earth was made bright”).
+v2: The fall is declared before narrated; repetition intensifies certainty.
+v2–3: Corruption is described through habitation imagery.
+v4: Separation is commanded; participation is relational, not incidental.
+v5: Sin is depicted cumulatively (“heaped high”).
+v6–7: Judgment is reciprocal and proportional.
+v7: Self-perception contrasts with outcome.
+v8: Suddenness (“in a single day”) emphasizes reversal.
+v9–10: Distance marks fear; association becomes liability.
+v11–13: The cargo list accumulates without hierarchy, ending with human lives.
+v14: Loss is total and irreversible.
+v15–17: Wealth is undone rapidly; reaction is external.
+v18–19: Comparison underscores uniqueness without explanation.
+v20: Perspective shifts; judgment becomes cause for rejoicing.
+v21: The symbolic act interprets the event.
+v22–23: Absence is repeated; life is systematically removed.
+v23: Deception is attributed to influence rather than force.
+v24: Violence is comprehensive; responsibility is total.
 
 ##Vocabulary
 

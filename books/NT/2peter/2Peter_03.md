@@ -48,7 +48,23 @@ v17: You therefore, beloved, knowing this beforehand, take care that you are not
 
 v18: But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be glory both now and to the day of eternity. Amen.
 </p>
-##Notes
+## Notes
+v1: Writing functions as reminder rather than new instruction.  
+v2: Authority is distributed across prophets and apostles.  
+v3–4: Scoffing is grounded in perceived continuity.  
+v5: Ignorance is described as intentional.  
+v6–7: Past and future judgment are linked by the same word.  
+v8: Time is relativized, not measured.  
+v9: Delay is reframed as patience.  
+v10: The day arrives unexpectedly; destruction is total.  
+v11–12: Ethical response is derived from anticipated outcome.  
+v12: Participation (“hastening”) is stated without mechanism.  
+v13: Promise directs expectation rather than observation.  
+v14: Diligence is oriented toward being found.  
+v15–16: Interpretation is acknowledged as difficult.  
+v16: Scripture is treated as a unified body without explanation.  
+v17: Stability is something that can be lost.  
+v18: Growth is ongoing; conclusion returns to doxology.  
 
 ##Vocabulary
 

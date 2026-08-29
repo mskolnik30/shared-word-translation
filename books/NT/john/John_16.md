@@ -116,7 +116,23 @@ v32: Behold, an hour is coming, and has come, when you will be scattered each to
 <p>
 v33: These things I have spoken to you so that in me you may have peace. In the world you have tribulation; but take courage, I have overcome the world.”
 </p>
-##Notes
+## Notes
+v1–2: Forewarning aims at stability, not avoidance of suffering.
+v3: Ignorance of God underlies persecution.
+v7: Jesus’ departure is necessary for the Spirit’s arrival.
+v8–11: The Spirit interprets reality in terms of sin, righteousness, and judgment.
+v9: Unbelief is defined as the core sin.
+v10: Righteousness is validated by Jesus’ return to the Father.
+v11: Judgment is already initiated against the ruler of this world.
+v12–13: Progressive revelation is mediated by the Spirit.
+v14–15: The Spirit’s role is derivative and Christ-centered.
+v16–22: Absence and presence frame sorrow and joy.
+v21: Birth imagery interprets suffering as transitional.
+v23–24: Prayer is reoriented through Jesus’ name.
+v25: Transition from figurative to direct revelation.
+v27: Direct relationship with the Father is affirmed.
+v31–32: Confession is incomplete; failure is anticipated.
+v33: Peace is located in Jesus despite ongoing tribulation.
 
 ##Vocabulary
 

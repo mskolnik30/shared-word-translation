@@ -54,7 +54,17 @@ v14: and Adam was not deceived, but the woman, having been deceived, became a tr
 <p>
 v15: Yet she will be saved through childbearing—if they continue in faith and love and holiness with self-control.
 </p>
-##Notes
+## Notes
+v1–2: Prayer is expansive (“for all people”) yet directed toward social conditions (“peaceful and quiet life”).  
+v3–4: God’s desire is universal in scope, though its outworking is not explained.  
+v5–6: The singularity of God and mediator structures the theological claim.  
+v6: “Ransom for all” is stated without specifying mechanism.  
+v7: Paul’s authority is asserted emphatically.  
+v8: Prayer is linked with relational integrity (“without anger or dispute”).  
+v9–10: External adornment is relativized in favor of ethical expression.  
+v11–12: Instruction regarding women is stated without qualification or contextual explanation, creating interpretive tension.  
+v13–14: The appeal to creation and deception grounds the instruction but does not resolve its application.  
+v15: “Saved through childbearing” is ambiguous. The condition (“if they continue…”) shifts the focus to perseverance in faith.  
 
 ##Vocabulary
 

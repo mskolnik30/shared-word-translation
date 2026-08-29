@@ -58,7 +58,17 @@ v17: Now the Lord is the Spirit, and where the Spirit of the Lord is, there is f
 
 v18: And all of us, with unveiled face, seeing the glory of the Lord as in a mirror, are being transformed into the same image from glory to glory, just as from the Lord, the Spirit.
 </p>
-##Notes
+## Notes
+v1–3: Paul redefines recommendation. The community itself functions as living testimony, written not externally but internally.  
+v3: The contrast between stone and hearts echoes covenant imagery. The emphasis falls on the medium of inscription, not the abolition of law.  
+v5–6: Sufficiency is explicitly denied as self-derived. The contrast between “letter” and “Spirit” is functional, not dismissive of scripture.  
+v7–8: Paul reframes Sinai imagery. The glory associated with the earlier ministry is acknowledged but described as transient.  
+v9–11: The argument moves by comparison rather than rejection. The earlier ministry is not denied glory; it is surpassed.  
+v12–13: Boldness is grounded in hope. The veil imagery introduces concealment and partial perception.  
+v14–15: The veil shifts from Moses’ face to the people’s perception. The obstruction is internalized.  
+v16: Turning to the Lord is described as the moment of unveiling, without elaboration of process.  
+v17: The identification of the Lord with the Spirit is stated without qualification, emphasizing presence and agency.  
+v18: Transformation is ongoing (“are being transformed”) and communal (“all of us”), moving from one degree of glory to another.  
 
 ##Vocabulary
 

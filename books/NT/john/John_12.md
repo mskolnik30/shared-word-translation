@@ -184,7 +184,24 @@ v49: For I have not spoken from myself, but the Father who sent me has himself g
 <p>
 v50: And I know that his commandment is eternal life; therefore the things I speak, just as the Father has said to me, so I speak.”
 </p>
-##Notes
+## Notes
+v3: Extravagant devotion anticipates burial.
+v6: Judas’ objection reveals internal corruption.
+v7–8: Timing of Jesus’ presence reframes priorities.
+v10–11: Opposition expands to include Lazarus as evidence.
+v13–15: Kingship is affirmed but in humble form.
+v16: Understanding follows glorification.
+v23: “Hour” marks transition to death and glorification.
+v24: Death is necessary for multiplication of life.
+v25–26: Life is preserved through self-loss and service.
+v27–28: Distress is resolved through submission to divine purpose.
+v31–32: Judgment and drawing occur through being “lifted up.”
+v33: Crucifixion is the means of exaltation.
+v35–36: Light requires response within limited time.
+v37–40: Unbelief is framed within prophetic fulfillment.
+v42–43: Fear of exclusion suppresses confession.
+v46–47: Mission is defined as salvation, not immediate judgment.
+v48–50: Final judgment is mediated through Jesus’ word.
 
 ##Vocabulary
 

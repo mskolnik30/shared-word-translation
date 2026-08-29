@@ -54,7 +54,14 @@ v13: Let us walk properly, as in the day, not in revelry and drunkenness, not in
 
 v14: But put on the Lord Jesus Christ, and make no provision for the flesh, for its desires.
 </p>
-##Notes
+## Notes
+v1–2: Authority is framed as divinely ordered.
+v3–4: Government functions as moral restraint.
+v5: Submission includes internal (conscience) and external (wrath) motives.
+v6–7: Civic obligations are expressions of order.
+v8–10: Love fulfills the intent of the law.
+v11–12: Eschatological urgency shapes ethical conduct.
+v13–14: Moral transformation is expressed through conduct and identity in Christ.
 
 ##Vocabulary
 

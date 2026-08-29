@@ -46,7 +46,21 @@ v12: Though I have much to write to you, I would rather not use paper and ink. I
 
 v13: The children of your elect sister greet you.
 </p>
-##Notes
+## Notes
+v1: “The elder” remains unnamed; authority is relational rather than formal.  
+v1: “Elect lady” is not clarified; identity remains open.  
+v2: Truth is described as abiding, not merely known.  
+v3: Blessing is framed as ongoing presence (“will be with us”).  
+v4: Walking is used to describe lived conduct.  
+v5: The command is not new; continuity is emphasized.  
+v6: Love is defined through action rather than feeling.  
+v7: Deception is doctrinal and relational.  
+v7: “Antichrist” is applied functionally, not exclusively.  
+v8: Loss is possible; vigilance is required.  
+v9: Abiding determines relationship with God.  
+v10–11: Association is treated as participation.  
+v12: Presence is preferred over writing.  
+v13: The closing maintains relational connection without expansion.  
 
 ##Vocabulary
 

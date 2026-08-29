@@ -59,7 +59,21 @@ v23: When he was reviled, he did not revile in return; when he suffered, he did 
 v24: He himself bore our sins in his body on the tree, so that we might die to sin and live to righteousness. By his wounds you have been healed.
 v25: For you were straying like sheep, but have now returned to the shepherd and overseer of your souls.
 </p>
-##Notes
+## Notes
+v1: The vice list is comprehensive and communal; the focus is relational distortion rather than isolated acts.  
+v2–3: Growth is framed as desire; nourishment is something to be longed for, not merely received.  
+v4–5: The metaphor shifts from individual to collective—stones become a structure, identity becomes shared.  
+v6–8: Scripture is layered to hold both assurance and stumbling without resolving the tension between them.  
+v8: “Destined” is stated without elaboration, preserving ambiguity regarding divine purpose and human response.  
+v9–10: Identity is described through contrast—what was and what is now—without detailing the process of change.  
+v11: “Sojourners and exiles” frames ethical instruction within identity rather than circumstance alone.  
+v12: Conduct functions as witness; perception by others becomes part of the theological horizon.  
+v13–17: Submission is framed “for the Lord’s sake,” holding tension between divine allegiance and human authority.  
+v18–20: The text distinguishes between suffering for wrongdoing and suffering for good, without denying the reality of injustice.  
+v21: Christ’s suffering is both redemptive and exemplary, shaping both identity and conduct.  
+v23: Non-retaliation is grounded in trust in divine judgment rather than passivity.  
+v24: The language of bearing sins and healing is held together without systematizing atonement.  
+v25: The return to the shepherd reframes identity as restoration rather than mere correction.  
 
 ##Vocabulary
 

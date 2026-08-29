@@ -84,7 +84,23 @@ v25: but the word of the Lord remains forever.”
 
 And this word is the good news that was preached to you.
 </p>
-##Notes
+## Notes
+v1: Identity is framed as both chosen and scattered.  
+v2: Divine action is described across Father, Spirit, and Son without explanation.  
+v3: New birth is attributed to divine mercy, not human action.  
+v4: The inheritance is defined negatively (what it is not).  
+v5: Salvation is both present and future.  
+v6–7: Trials function as testing, not interruption.  
+v8–9: Faith operates without sight; joy precedes completion.  
+v10–12: Prophetic inquiry is directed toward future fulfillment.  
+v12: Angels are observers, not participants.  
+v13: Preparation is internal before external action.  
+v14–16: Holiness is grounded in divine character.  
+v17: Judgment is impartial; conduct reflects awareness.  
+v18–19: Redemption is contrasted between perishable and imperishable.  
+v20–21: Foreknowledge precedes manifestation.  
+v22–23: New birth results in relational obligation.  
+v24–25: Human transience contrasts with enduring word.  
 
 ##Vocabulary
 

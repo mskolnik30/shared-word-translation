@@ -158,7 +158,30 @@ v49: And those reclining with him began to say among themselves, “Who is this 
 
 v50: And he said to the woman, “Your faith has saved you; go in peace.”
 </p>
-##Notes
+## Notes
+v2: The slave is described as “valuable,” indicating relational regard beyond mere utility.
+v4–5: The elders appeal to the centurion’s worthiness, grounded in benefaction and loyalty.
+v6–7: The centurion rejects claims of worthiness, shifting the focus to Jesus’ authority.
+v8: Military command becomes the analogy for faith in Jesus’ word.
+v9: Jesus’ amazement marks the centurion’s faith as exceptional, especially as an outsider.
+v11–13: The widow’s situation (widow, only son) intensifies vulnerability and loss.
+v13: Compassion precedes request; the initiative is entirely Jesus’.
+v14–15: Touching the bier crosses impurity boundaries and interrupts death itself.
+v16: The crowd interprets the act prophetically, not yet fully messianically.
+v18–20: John’s question reflects uncertainty without rejecting his prior witness.
+v22: Jesus answers with deeds rather than direct claim, echoing Isaiah.
+v23: “Not offended” suggests stumbling over Jesus’ unexpected form of ministry.
+v28: John is affirmed as greatest within one order, yet surpassed within the kingdom.
+v29–30: Response to John reveals acceptance or rejection of God’s purpose.
+v32: The generation is portrayed as resistant to both austerity and celebration.
+v33–34: Opposite criticisms of John and Jesus expose inconsistency rather than discernment.
+v35: Wisdom is vindicated not by argument but by outcome.
+v37–38: The woman’s actions are excessive, embodied, and public.
+v39: The Pharisee’s objection assumes prophetic distance from impurity.
+v41–43: Debt imagery frames forgiveness in relational and affective terms.
+v44–46: Hospitality omissions contrast with the woman’s abundance of devotion.
+v47: Love is evidence of forgiveness, not its cause.
+v48–50: Authority to forgive sins is again central; faith is named as the means of salvation.
 
 ##Vocabulary
 

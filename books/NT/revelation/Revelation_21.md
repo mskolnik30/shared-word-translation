@@ -66,7 +66,26 @@ v26: They will bring into it the glory and the honor of the nations.
 
 v27: But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb’s book of life.
 </p>
-##Notes
+## Notes
+v1: The new creation replaces the former; continuity is not explained.
+v1: The absence of the sea signals removal of prior instability.
+v2: The city is described relationally (“as a bride”), not structurally alone.
+v3: Dwelling is mutual; presence defines relationship.
+v4: Suffering is removed through negation rather than transformation described.
+v5: Renewal is declared ongoing (“making”), not only completed.
+v6: “It is done” parallels earlier declarations without repetition of context.
+v6: Gift is given without cost; qualification is not specified.
+v7: Relationship is expressed in covenantal terms.
+v8: Exclusion is listed without gradation; outcome is shared.
+v9–10: The bride and city are identified without separation.
+v11: Radiance is described comparatively, not defined.
+v12–14: Twelve-fold structure integrates multiple traditions.
+v15–17: Measurement signifies order; scale exceeds ordinary experience.
+v18–21: Materials are described cumulatively without interpretation.
+v22: Absence of temple is explained through presence.
+v23: Light is internal, not external.
+v24–26: Nations remain but are reoriented.
+v27: Entry is restricted by identity, not access alone.
 
 ##Vocabulary
 

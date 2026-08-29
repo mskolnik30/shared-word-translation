@@ -63,8 +63,17 @@ v22: I have sent him to you for this very purpose, that you may know how we are,
 v23: Peace be to the brothers and sisters, and love with faith, from God the Father and the Lord Jesus Christ.
 v24: Grace be with all who love our Lord Jesus Christ with love incorruptible.
 </p>
-##Notes
-
+## Notes
+v1: Some manuscripts omit “in the Lord.” The phrase is preserved here on the strength of the broader witness; the qualification narrows obedience to what is consistent with allegiance to Christ.  
+v2–3: The quotation is from the Decalogue (Exodus 20 and Deuteronomy 5). Paul reads it as the first commandment with a promise, even though its placement in the sequence depends on numbering traditions.  
+v5: The translation renders δοῦλοι as “slaves” without softening to “servants.” The household codes address persons in the actual conditions of Greco-Roman slavery. The translation does not endorse or normalize the institution; it preserves the address as written. The reorientation of authority in v.9 (“stop your threatening… there is no partiality”) belongs to the same passage.  
+v9: “Stop your threatening” is a present imperative; the form names ongoing practice that must end.  
+v12: “Cosmic powers of this present darkness” renders κοσμοκράτορας τοῦ σκότους τούτου. The language is mythic and political at once; the powers named are both invisible and historically operative.  
+v14–17: The armor list draws on Isaiah’s images of the LORD’s own armor (Isaiah 11, 59). The believer is not equipped with weapons of empire but with attributes that originate in God.  
+v17: “The sword of the Spirit, which is the word of God” identifies the sword with the spoken word (ῥῆμα), not with Scripture as a whole; the term names what is uttered.  
+v18: Prayer is named four ways—with prayer, with petition, in the Spirit, with perseverance. The verse refuses to narrow prayer to a single mode.  
+v21: Tychicus is named also in Colossians 4 and 2 Timothy 4. He functions as a courier and a bearer of personal news between the apostle and the churches.  
+v24: “Love incorruptible” (ἐν ἀφθαρσίᾳ) closes the letter on a word usually applied to resurrection bodies. The quality is not earthly endurance but divine permanence.  
 v01: Some manuscripts omit “in the Lord.” The phrase is preserved here on the strength of the broader witness; the qualification narrows obedience to what is consistent with allegiance to Christ.
 
 ##Vocabulary

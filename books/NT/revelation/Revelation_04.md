@@ -42,7 +42,18 @@ for you created all things,
 
 and by your will they existed and were created.”
 </p>
-##Notes
+## Notes
+v1: The open door signals access granted rather than achieved; transition is initiated from above.
+v2: “In the Spirit” again marks the mode of perception without explanation.
+v2–3: The one on the throne is described only in appearance, not identity, preserving distance.
+v4: The twenty-four elders are presented symbolically without identification.
+v5: Storm imagery (lightning, thunder) evokes divine presence without direct citation.
+v5: “Seven spirits” is retained without clarification, maintaining symbolic tension.
+v6: The “sea of glass” suggests stability rather than chaos, reversing common imagery.
+v7–8: The living creatures combine multiple forms, resisting singular interpretation.
+v8: Repetition (“holy, holy, holy”) intensifies rather than explains.
+v9–11: Worship is responsive and continuous; action and speech are intertwined.
+v11: Creation is attributed to divine will without philosophical expansion.
 
 ##Vocabulary
 

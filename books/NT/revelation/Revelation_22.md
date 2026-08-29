@@ -33,7 +33,24 @@ v19: and if anyone takes away from the words of the book of this prophecy, God w
 v20: He who testifies to these things says, “Surely I am coming soon.” Amen. Come, Lord Jesus!
 v21: The grace of the Lord Jesus be with all. Amen.
 </p>
-##Notes
+## Notes
+v03: The removal of the curse is stated without explanation of process.
+v04: Direct vision replaces mediated encounter.
+v05: Light is internalized; external sources are unnecessary.
+v06: Authority is grounded in continuity with prior revelation.
+v07: Immediacy (“coming soon”) functions exhortatively.
+v08–09: Worship is redirected; distinction between messenger and God is maintained.
+v10: Unlike earlier instructions, the words are not sealed.
+v11: Conditions are allowed to continue; no immediate correction is imposed.
+v12: Recompense is individual and proportional.
+v13: Titles accumulate without explanation.
+v14: Access is described conditionally without mechanism.
+v15: Exclusion is stated without gradation.
+v16: Identity is expressed through multiple images.
+v17: Invitation is extended universally without cost.
+v18–19: The warning preserves the integrity of the text.
+v20: Response echoes promise; tension remains unresolved.
+v21: The conclusion returns to grace rather than judgment.
 
 ##Vocabulary
 

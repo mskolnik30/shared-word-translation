@@ -158,7 +158,24 @@ v79: to give light to those who sit in darkness and in the shadow of death, to g
 <p>
 v80: And the child grew and became strong in spirit, and he was in the wilderness until the day he appeared publicly to Israel.
 </p>
-##Notes
+## Notes
+v1–4: “orderly account… certainty” — Luke frames faith as public testimony grounded in careful investigation, not rumor or private vision alone.  
+v6–7: “righteous… yet… no child” — The text refuses simplistic moral math; faithfulness does not shield people from grief or long delay.  
+v13: “your prayer has been heard” — God’s hearing may be revealed late; unanswered prayer is not the same as unheard prayer.  
+v15: “filled with the Holy Spirit… from… womb” — John’s life is marked as vocation before achievement; calling precedes performance.  
+v17: “turn the hearts… make ready” — Preparation for the Lord is relational and moral: repaired households and renewed wisdom, not merely religious excitement.  
+v20: “because you did not trust my words” — Zechariah’s silence is both sign and mercy: discipline that preserves the promise “in its time.”  
+v25: “take away my disgrace” — The line names social shame attached to barrenness; God’s compassion touches both personal sorrow and communal stigma.  
+v28–30: “favored one… Do not fear” — Grace is unsettling; divine favor often arrives with holy disturbance, not sentimental ease.  
+v34–35: “How can this be… Holy Spirit… overshadow” — Mary’s question is not cynicism but wonder; the conception is framed as God’s creative action, not human control.  
+v37: “nothing will be impossible with God” — Not a blank check for every desire, but a claim about God’s capacity to keep promises.  
+v38: “let it be… according to your word” — Mary models trusting consent; her agency is real, and her yes is courageous.  
+v41–45: “filled with the Holy Spirit… blessed is she who trusted” — The Spirit interprets events as promise-fulfillment; blessing is tied to trust, not status.  
+v46–55: Mary’s song — A revolutionary hymn: God lifts the lowly, feeds the hungry, and unsettles the proud and powerful; mercy is social and covenantal.  
+v64: “his tongue freed” — Speech returns with praise; when trust is restored, worship is released.  
+v68–75: “visited and redeemed… covenant… oath” — Zechariah reads the moment through Israel’s story: God acts now in continuity with ancient promises.  
+v77: “forgiveness of their sins” — Salvation is not only political rescue; it is moral renewal and restored relationship with God.  
+v78–79: “dawn from on high… way of peace” — The closing image is illumination and guidance: God’s mercy breaks like morning light into shadowed lives.  
 
 ##Vocabulary
 

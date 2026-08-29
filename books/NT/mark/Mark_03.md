@@ -102,7 +102,12 @@ v34: And looking around at those sitting in a circle around him, he said, “Beh
 
 v35: Whoever does the will of God, this one is my brother and sister and mother.”
 </p>
-##Notes
+## Notes
+v5: Anger and grief are held together; opposition is not merely legal but moral.  
+v6: Alliance between Pharisees and Herodians signals political as well as religious threat.  
+v12: Silence is imposed on demons; identity is not revealed on their terms.  
+v27: The “strong man” image frames exorcism as invasion and liberation.  
+v29: The warning concerns persistent misrecognition of God’s work as evil.  
 
 ##Vocabulary
 

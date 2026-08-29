@@ -88,7 +88,17 @@ v22: The faith that you have, have it to yourself before God. Blessed is the one
 
 v23: But the one who doubts is condemned if he eats, because it is not from faith; and whatever is not from faith is sin.
 </p>
-##Notes
+## Notes
+v1–4: Community includes differing levels of conviction.
+v5–6: Individual practices are oriented toward the Lord.
+v7–9: Belonging to the Lord governs life and death.
+v10–12: Final judgment belongs to God alone.
+v13: Responsibility shifts from judging to preventing harm.
+v14: Moral status is shaped by conscience.
+v15–17: Love prioritizes the well-being of others over freedom.
+v17: Kingdom values transcend external practices.
+v19–21: Edification governs ethical decisions.
+v22–23: Faith and conscience must align; violation produces sin.
 
 ##Vocabulary
 

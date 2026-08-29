@@ -84,7 +84,14 @@ and you shall be sons and daughters to me,
 
 says the Lord Almighty.”
 </p>
-##Notes
+## Notes
+v1–2: “Now” carries urgency. Grace is not abstract but time-bound in reception.  
+v3–5: Paul lists external hardships without commentary, letting accumulation convey credibility.  
+v6–7: Internal qualities and divine empowerment are paired with external endurance.  
+v8–10: Paradox structures identity. Opposites are held together without resolution.  
+v11–13: The barrier is relational, not doctrinal. Paul locates restriction within the community’s response.  
+v14–16: The language of separation is framed through incompatible pairings.  
+v16–18: Scriptural citations ground identity in God’s dwelling presence rather than institutional form.  
 
 ##Vocabulary
 

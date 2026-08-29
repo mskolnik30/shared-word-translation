@@ -45,7 +45,22 @@ v18: And Jesus came near and spoke to them, saying, “All authority in heaven a
 v19: Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
 v20: teaching them to keep all that I have commanded you. And look—I am with you always, to the end of the age.”
 </p>
-##Notes
+## Notes
+v1: “after the Sabbath… began to dawn” — Matthew frames resurrection as a new beginning: dawn after rest, new creation light breaking in.  
+v2–3: earthquake / angel / lightning-white — Apocalyptic signs signal God’s decisive action. The stone is rolled away not to let Jesus out, but to let witnesses in.  
+v4–5: guards “like dead” / women “do not fear” — A reversal: armed power collapses, while vulnerable witnesses are steadied and commissioned.  
+v6: “He has been raised… just as he said” — Resurrection is presented as fulfillment of Jesus’ own word; the empty tomb is tied to trust in Jesus’ promise.  
+v7: “going ahead… to Galilee” — The mission returns to the place of early discipleship. Galilee suggests renewal, recommissioning, and public ministry rather than private triumph.  
+v8: “fear and great joy” — The proper emotional mix: awe that unsettles and joy that propels obedience.  
+v9: “took hold… worshiped” — Resurrection is embodied and worship-inducing; Jesus receives reverence as the risen Lord.  
+v10: “tell my sisters and brothers” — Reconciliation is implied: those who fled are addressed as family and called back into the story.  
+v11–15: bribed guards / alternate narrative — Matthew shows how power manages truth: money crafts a counter-story. The resurrection creates not only faith but propaganda resistance.  
+v16: “the eleven” — Matthew is honest about loss; the community is recommissioned as imperfect, reduced, and still chosen.  
+v17: “worshiped… but some doubted” — Doubt is not hidden. The commission is given to worshipers who are still sorting their fear and uncertainty.  
+v18: “All authority” — The mission is grounded in Jesus’ universal authority, not the church’s competence or cultural dominance.  
+v19: “make disciples… all nations” — The goal is apprenticeship to Jesus across peoples; baptism marks belonging into the triune name.  
+v20: “teaching them to keep” — Discipleship is obedience-shaped formation, not merely information transfer.  
+v20: “I am with you always” — Matthew ends with presence: Emmanuel fulfilled. The church’s mission is sustained by Jesus’ ongoing nearness “to the end of the age.”  
 
 ##Vocabulary
 

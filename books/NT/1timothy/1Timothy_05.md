@@ -86,7 +86,21 @@ v24: The sins of some are evident, going before them to judgment, but those of o
 
 v25: Likewise also good works are evident, and even those that are otherwise cannot remain hidden.
 </p>
-##Notes
+## Notes
+v1–2: Correction is framed relationally. Age and gender shape the mode of exhortation.  
+v3–4: Family responsibility precedes institutional care.  
+v5–6: “True widow” is defined by dependence on God, not only circumstance.  
+v8: Provision for one’s household is treated as essential to faithfulness.  
+v9–10: Enrollment criteria emphasize character and history, not need alone.  
+v11–15: Younger widows are addressed with concern for vulnerability and social stability.  
+v13: Idleness is linked with social disruption (“gossips…busybodies”).  
+v16: The church’s resources are directed toward those without support.  
+v17–18: “Double honor” includes material support as well as respect.  
+v19: Accusations require verification. Leadership is protected from unsubstantiated claims.  
+v20: Public rebuke functions as communal warning.  
+v21–22: Impartiality and caution are emphasized in leadership decisions.  
+v23: Personal instruction is inserted without transition, reflecting practical concern.  
+v24–25: Hiddenness is temporary. Both sin and good works are ultimately revealed.  
 
 ##Vocabulary
 

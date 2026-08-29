@@ -114,7 +114,26 @@ v37: of Methuselah, of Enoch, of Jared, of Mahalaleel, of Cainan,
 
 v38: of Enos, of Seth, of Adam, of God.
 </p>
-##Notes
+## Notes
+v1–2: Luke locates John’s ministry within imperial, regional, and priestly authority, but the decisive event is that “the word of God came” in the wilderness.
+v2: John’s prophetic vocation is framed by divine initiative rather than institutional appointment.
+v3: Baptism, repentance, and forgiveness are held together as a public summons to reorientation.
+v4–6: Isaiah’s wilderness imagery presents preparation for the Lord as cosmic leveling and universal disclosure.
+v6: “All flesh” widens the horizon beyond Israel without detaching salvation from Israel’s scriptures.
+v7: John’s address to the crowds is severe; baptism does not exempt them from judgment.
+v8: Ancestry from Abraham is not denied, but it cannot replace repentance.
+v9: The axe imagery makes judgment immediate and agricultural: root, fruit, tree, fire.
+v10–14: Repentance is translated into concrete economic and social practices, not merely inward remorse.
+v11: Sharing clothing and food makes repentance visible in ordinary material life.
+v12–13: Tax collectors are not told to abandon their office but to cease exploitation within it.
+v14: Soldiers are addressed through restraint: no extortion, no false accusation, no discontented violence.
+v15–17: John refuses messianic speculation about himself by pointing to one stronger who brings Spirit and fire.
+v17: The winnowing image joins gathering and burning, salvation and judgment.
+v18: Luke calls John’s severe proclamation “good news,” refusing to separate warning from mercy.
+v19–20: Herod’s imprisonment of John shows that prophetic speech confronts public power.
+v21–22: Jesus is baptized with the people, but heaven’s opening and the Spirit’s descent mark him uniquely.
+v22: The voice names Jesus as Son before any public act of ministry in Luke.
+v23–38: The genealogy moves backward from Jesus to Adam and God, emphasizing universal human scope.
 
 ##Vocabulary
 

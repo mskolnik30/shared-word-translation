@@ -78,7 +78,21 @@ v22: These refer to things that perish with use, according to human commands and
 <p>
 v23: These have indeed an appearance of wisdom in self-made religion and humility and severe treatment of the body, but they are of no value against the indulgence of the flesh.
 </p>
-##Notes
+## Notes
+v1–2: Paul’s “struggle” is relational and unseen. Its aim is internal strengthening and communal unity.
+v2: “Mystery…which is Christ” compresses content into person rather than system.
+v3: Wisdom and knowledge are located in Christ, not accessed independently.
+v4: Deception is linked to persuasion, not obvious falsehood.
+v6–7: Reception and walking are continuous. The metaphors (rooted, built, established) emphasize stability.
+v8: “Taken captive” frames false teaching as loss of freedom.
+v9–10: Fullness is located in Christ and shared with believers. Participation replaces deficiency.
+v11–12: Circumcision and baptism are interpreted together. Physical and symbolic categories intersect.
+v13–14: Forgiveness is described as cancellation of debt, using legal imagery.
+v15: The cross is portrayed as victory over powers, not defeat.
+v16–17: Practices are relativized as “shadow.” Christ is named as the “substance.”
+v18–19: Disconnection from the head results in disordered growth.
+v20–22: Regulations are tied to perishable realities and human authority.
+v23: External discipline lacks power to transform internal desire.
 
 ##Vocabulary
 

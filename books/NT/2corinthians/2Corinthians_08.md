@@ -86,7 +86,22 @@ v23: As for Titus, he is my partner and fellow worker for your sake; and as for 
 <p>
 v24: Therefore show them the proof of your love and of our boasting about you before the churches.
 </p>
-##Notes
+## Notes
+v1–2: “Grace” frames generosity. Giving is not reduced to obligation but described as divine activity within the community.  
+v2: Affliction and poverty are not removed; they become the context in which generosity emerges.  
+v3–5: The Macedonians’ giving exceeds expectation both in amount and in willingness. Their self-giving precedes material giving.  
+v4: Participation in giving is described as a “favor,” reversing normal assumptions about burden and privilege.  
+v6–7: The Corinthians are urged to align this act of giving with their existing strengths, not treat it as separate.  
+v8: Paul avoids command, framing the appeal as a test of authenticity rather than compliance.  
+v9: Christ’s “poverty” and “richness” are stated relationally. The movement from one to the other is not explained but presented as pattern.  
+v10–11: Desire and action are held together. Incomplete intention is not dismissed but brought toward completion.  
+v12: Acceptability is measured by proportion, not comparison. Capacity governs expectation.  
+v13–14: Equality is situational and reciprocal. Present abundance and need are expected to shift over time.  
+v15: The citation from the wilderness narrative reframes provision as shared sufficiency rather than accumulation.  
+v16–17: Titus’s initiative is both divinely prompted and personally enacted.  
+v18–21: Transparency is emphasized. Financial administration is conducted with accountability before both God and others.  
+v22–23: The credibility of the messengers is grounded in tested character and communal recognition.  
+v24: The act of giving becomes public confirmation of love and of Paul’s prior confidence in the community.  
 
 ##Vocabulary
 

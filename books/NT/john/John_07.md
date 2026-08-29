@@ -142,8 +142,29 @@ v52: They answered and said to him, “Are you also from Galilee? Search and see
 <p>
 v53: And each went to his own house.
 </p>
-##Notes
-
+## Notes
+v1: Movement is governed by threat. Jesus’ location is shaped by opposition.
+v2: The Feast of Booths situates the scene within a setting of remembrance and expectation.
+v3–5: The brothers speak in terms of visibility and recognition, yet do not believe. Their logic reflects worldly criteria.
+v6–8: “My time” contrasts with “your time.” Jesus’ actions are ordered, not reactive.
+v10: Hiddenness and presence coexist. Jesus goes up, but not as expected.
+v12–13: Public opinion is divided, yet constrained by fear.
+v14–18: Authority is grounded in sending. Teaching is validated by alignment with God’s will rather than formal learning.
+v19–24: The law is invoked not as possession but as standard. Jesus exposes inconsistency in its application.
+v24: Judgment is reframed from appearance to righteousness.
+v25–27: Knowledge of origin becomes a barrier to recognition. Familiarity obscures identity.
+v28–29: Jesus affirms and denies their knowledge simultaneously, preserving tension.
+v30: Failure to seize him is attributed to timing, not inability.
+v31: Signs provoke belief but do not settle identity conclusively.
+v33–34: Departure language introduces separation. Seeking does not guarantee finding.
+v35–36: Misunderstanding is literalized. The audience interprets spatially what is relational.
+v37–38: Invitation is extended universally (“If anyone thirsts”). The imagery of water suggests internal transformation.
+v39: The Spirit is linked to glorification, placing present promise within future fulfillment.
+v40–44: Identification remains contested. Scriptural expectation both guides and confuses.
+v45–46: The officers respond to speech rather than command. Authority is recognized experientially.
+v47–49: The leaders dismiss both the crowd and the officers, appealing to status and knowledge.
+v50–51: Nicodemus appeals to the law’s own procedure, introducing internal dissent.
+v52: Dismissal persists despite counterpoint. Regional prejudice shapes judgment.
 v53: John 7:53–8:11 is absent from the earliest and strongest Greek witnesses and appears in different locations in some later manuscripts. It is retained here as an ancient textual tradition with its textual status stated explicitly.
 
 ##Vocabulary

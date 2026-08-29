@@ -96,7 +96,16 @@ v28: For he is not a Jew who is one outwardly, nor is circumcision outward in th
 
 v29: but he is a Jew who is one inwardly, and circumcision is of the heart, in spirit, not in letter, whose praise is not from men but from God.
 </p>
-##Notes
+## Notes
+v1–3: Judgment exposes shared guilt rather than superiority.
+v4: Divine kindness aims at repentance, not presumption.
+v5–6: Judgment is stored and rendered according to works.
+v7–10: Universal principle applies to Jew and Greek alike.
+v11: God’s judgment is impartial.
+v12–16: Accountability extends beyond possession of the law.
+v17–24: Possession of the law without obedience results in hypocrisy.
+v25–27: External markers are nullified by disobedience.
+v28–29: True identity is inward and spiritual, not merely external.
 
 ##Vocabulary
 

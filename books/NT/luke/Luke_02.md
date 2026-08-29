@@ -132,20 +132,20 @@ v50: But they did not understand what he was saying to them.
 v51: Then he went down with them and came to Nazareth, and he was subject to them. And his mother treasured all these things in her heart.
 v52: And Jesus grew in wisdom and in stature, and in favor with God and with people.
 </p>
-##Notes
-
-v07: “guest room” — The Greek κατάλυμα (katalyma) can refer to a lodging place or guest room. Luke uses a different term for a commercial inn elsewhere.
-
+## Notes
+v02: “the first registration” — The Greek wording can also be understood in relation to the registration associated with Quirinius. The historical relationship between Luke’s chronology and other ancient evidence remains debated, so the translation does not attempt to resolve the question within the main text.
+v07: “guest room” — The Greek κατάλυμα (katalyma) can refer to a lodging place or guest room. Luke uses a different term for a commercial inn elsewhere. “Guest room” avoids introducing an innkeeper or commercial inn not mentioned in the text.
+v11: “Savior … Messiah … Lord” — Three titles appear together. “Messiah” renders χριστός (christos), “anointed one,” while “Lord” preserves κύριος (kyrios) without reducing its range of meaning.
 v14: “peace among those whom God favors” — Ancient manuscripts differ in the form of the final Greek word, producing readings commonly rendered either “among those whom God favors” or “goodwill among people.” The main text follows the critical reading reflected here.
-
+v19: “treasured … pondered” — The two verbs distinguish keeping these events carefully from actively bringing them together in reflection. The wording does not imply that Mary fully understood their meaning.
 v22: “their purification” — The critical Greek text reads “their purification,” although manuscript traditions vary. The wording is retained rather than silently changing the plural to refer only to Mary.
-
+v25: “consolation of Israel” — παράκλησις (paraklēsis) can signify consolation, encouragement, or comfort. Here it expresses expectation of God’s promised restoration of Israel.
 v32: “nations” — The Greek ἔθνη (ethnē) can be rendered “nations” or “Gentiles.” “Nations” preserves the broader sense of the term and the parallel with Israel.
-
-v37: “to the age of eighty-four” — The Greek can be understood as describing Anna as eighty-four years old, though it has also been read as saying that she had lived as a widow for eighty-four years.
-
+v34: “falling and rising” — The Greek deliberately places falling and rising together. The translation preserves both the order and the tension without specifying whether the same or different people are in view.
+v37: “to the age of eighty-four” — The Greek can be understood as describing Anna as eighty-four years old, though it has also been read as saying that she had lived as a widow for eighty-four years. The main text follows the former reading.
+v38: “redemption of Jerusalem” — The expression speaks of deliverance or release associated with Jerusalem. The translation preserves the communal and geographic language rather than replacing it with a more generalized expression of salvation.
 v49: “in my Father’s house” — The Greek phrase can be rendered “in my Father’s house,” “among the things of my Father,” or in a sense such as “about my Father’s affairs.” The immediate temple setting supports the wording in the main text, while the Greek retains a degree of ambiguity.
-
+v51: “he was subject to them” — The verb describes Jesus placing himself under the ordering of his parents. Luke holds this statement beside Jesus’ declaration concerning his Father without explaining away the tension.
 v52: “stature” — The Greek ἡλικία (hēlikia) can refer to physical stature or maturity/age. The translation retains “stature,” while the wider sense of maturation remains possible.
 
 ##Vocabulary

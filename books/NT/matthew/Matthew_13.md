@@ -190,7 +190,21 @@ v57: And they took offense at him. But Jesus said to them, “A prophet is not w
 
 v58: And he did not do many mighty works there, because of their unbelief.
 </p>
-##Notes
+## Notes
+v3–9: The sower parable centers not on seed but reception; variability lies in response.  
+v11: “Mysteries” indicates revealed realities, not hidden puzzles.  
+v12: Possession is dynamic; receptivity increases capacity.  
+v13–15: Perception failure is moral as well as cognitive.  
+v19–23: Interpretation identifies hearing as insufficient without understanding and endurance.  
+v24–30: Coexistence of good and evil is permitted temporarily; separation is deferred.  
+v31–33: Kingdom growth is disproportionate and often hidden.  
+v35: Parables disclose by concealing; revelation is mediated.  
+v38: Field universalized—scope extends beyond Israel.  
+v41–43: Judgment framed as removal from the kingdom, not merely punishment.  
+v44–46: Value recognition leads to total reorientation of possession.  
+v47–50: Sorting is inevitable; inclusion now does not guarantee final status.  
+v52: Continuity and innovation are held together in kingdom teaching.  
+v57–58: Familiarity obstructs recognition; unbelief limits reception, not power itself.
 
 ##Vocabulary
 

@@ -144,7 +144,19 @@ v47: And he was teaching daily in the temple. But the chief priests and the scri
 
 v48: and they were not finding what they might do, for all the people were hanging on him, listening.
 </p>
-##Notes
+## Notes
+v3–6: Zacchaeus’ initiative is met by Jesus’ initiative; encounter precedes reform.
+v8: Repentance is expressed in restitution and redistribution.
+v10: Jesus defines his mission in terms of seeking and saving.
+v11: The parable addresses mistaken expectations of immediate kingdom arrival.
+v13–26: Faithfulness is measured in stewardship during absence.
+v26: Possession is dynamic, not static.
+v27: Rejection of kingship has consequences within the parable’s logic.
+v28–40: The entry presents kingship in humble form yet public acclaim.
+v38: Peace is proclaimed in heaven, anticipating tension on earth.
+v41–44: Jesus’ lament connects judgment with missed recognition.
+v46: Temple action aligns with prophetic critique of misuse.
+v47–48: Authority draws both devotion and opposition.
 
 ##Vocabulary
 

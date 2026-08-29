@@ -75,9 +75,12 @@ v23: Now the words “it was counted to him” were not written for his sake alo
 v24: but also for ours, to whom it will be counted—to us who trust in the one who raised Jesus our Lord from the dead,
 v25: who was handed over for our trespasses and raised for our setting right.
 </p>
-##Notes
-
-v17: “calls the things that do not exist as though they exist” — The Greek expression can carry more than one nuance, including calling what does not exist into existence or speaking of what is not yet as though it were.
+## Notes
+v13: “heir of the world” — Paul uses “world” rather than repeating the language of a particular land. The expression broadens the wording of the Abrahamic promise without explaining how that relationship is to be understood.
+v17: “calls the things that do not exist as though they exist” — The Greek expression can carry more than one nuance, including calling what does not exist into existence or speaking of what is not yet as though it were. TSW preserves the expression without resolving the ambiguity.
+v18: “Against hope, in hope” — The wording preserves Paul’s deliberate repetition of “hope,” holding the apparent absence of hope together with Abraham’s continuing hope.
+v19: “he considered his own body” — Some manuscripts read “he did not consider his own body.” Other witnesses also include “already” before “as good as dead.” TSW follows the critical-text reading reflected in the main text.
+v25: “for our trespasses… for our setting right” — The same Greek construction is used in both clauses. The repeated “for” preserves the parallel relationship without further defining how Jesus’ being handed over and raised relate to trespasses and setting right.
 
 ##Vocabulary
 

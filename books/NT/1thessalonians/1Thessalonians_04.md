@@ -62,7 +62,19 @@ v17: Then we who are alive, who remain, will be caught up together with them in 
 
 v18: Therefore encourage one another with these words.
 </p>
-##Notes
+## Notes
+v1–2: Ethical instruction builds on prior teaching. Growth is continuous (“abound more and more”).  
+v3: “Holiness” is specified concretely. The will of God is not abstract.  
+v4–5: Self-possession is contrasted with uncontrolled desire. Knowledge of God shapes conduct.  
+v6: Ethical violation is relational (“exploit”) and accountable before the Lord.  
+v7–8: Calling defines identity. Rejection of instruction is framed as rejection of God, not merely human authority.  
+v9–10: Love is already present but not complete. Growth is expected even where obedience exists.  
+v11–12: Quiet living and manual labor are framed as witness before outsiders.  
+v13: Grief is not denied but distinguished by the presence of hope.  
+v14: Resurrection of Jesus functions as the basis for future expectation.  
+v15–17: Sequence is described without full explanation. Priority is given to the dead in Christ.  
+v17: “Caught up” imagery is presented without interpretation. Emphasis falls on being “with the Lord.”  
+v18: Eschatological teaching is given for encouragement, not speculation.  
 
 ##Vocabulary
 

@@ -60,7 +60,17 @@ v16: All Scripture is God-breathed and profitable for teaching, for reproof, for
 
 v17: so that the person of God may be complete, equipped for every good work.
 </p>
-##Notes
+## Notes
+v1–5: The list describes disordered love. Orientation toward self and pleasure displaces devotion to God.  
+v5: “Appearance of godliness” indicates external conformity without internal power.  
+v6–7: Vulnerability is exploited through deception. Learning without transformation is emphasized.  
+v8–9: Opposition to truth is framed historically. Exposure is eventual.  
+v10–11: Timothy is contrasted with others through imitation of Paul’s life and teaching.  
+v12: Persecution is presented as normative for godly living.  
+v13: Deception is reciprocal—those who deceive are also deceived.  
+v14–15: Continuity in learning is grounded in trusted relationships and early formation.  
+v15: Scripture is linked with wisdom leading to salvation, not knowledge alone.  
+v16–17: Scripture is described functionally. Its purpose is formation and equipping.  
 
 ##Vocabulary
 

@@ -52,9 +52,20 @@ v19: And we have the prophetic word made more sure, to which you do well to pay 
 v20: knowing this first of all, that no prophecy of scripture comes from one’s own interpretation.
 v21: For no prophecy was ever borne by the will of a human being, but human beings spoke from God as they were carried along by the Holy Spirit.
 </p>
-##Notes
-
+## Notes
+v1: “received a trust equal in honor to ours” — *Pistis* is rendered “trust” in keeping with TSW practice. The equality described is not hierarchical but participatory, grounded “in the righteousness of our God and Savior Jesus Christ.”  
+v1: “our God and Savior Jesus Christ” — The Greek construction links both titles to Jesus Christ. The phrasing is preserved without expansion.  
+v4: “sharers in the divine nature” — A striking phrase. The text speaks of participation without explaining mechanism. The language is retained without theological qualification.  
+v5–7: The virtue sequence — The ordered chain is preserved without smoothing. Each term builds upon the previous, suggesting growth rather than replacement.  
+v9: “blind, being short-sighted” — The paired terms intensify one another. The repetition is retained rather than reduced.  
+v10: “confirm your calling and election” — The text exhorts action in relation to divine initiative. The tension between divine election and human diligence is left unresolved.  
+v11: “richly provided… an entrance” — The passive phrasing preserves divine agency in the granting of entrance.  
+v13–14: “this tent” — A metaphor for the body. The imagery is retained without interpretation, echoing transience rather than despair.  
+v16: “cleverly devised myths” — The contrast is between fabricated narrative and eyewitness testimony. The polemic tone is preserved.  
+v19: “the prophetic word made more sure” — The comparative force of the phrase is debated. The wording is retained without adjudicating whether the prophecy confirms the experience or is confirmed by it.  
+v20: “no prophecy of scripture comes from one’s own interpretation” — The phrase may refer to the origin of prophecy rather than the reader’s activity. The ambiguity is preserved.  
 v20: “no prophecy of scripture comes from one’s own interpretation” — The phrase may refer to the origin of prophecy rather than to private interpretive activity. The syntax remains ambiguous.
+v21: “carried along by the Holy Spirit” — A dynamic image suggesting divine initiative without mechanical dictation. The metaphor is left intact.  
 
 ##Vocabulary
 

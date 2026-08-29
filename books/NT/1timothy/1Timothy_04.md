@@ -56,7 +56,20 @@ v15: Practice these things, immerse yourself in them, so that your progress may 
 
 v16: Pay close attention to yourself and to the teaching; continue in these things, for by doing so you will save both yourself and those who hear you.
 </p>
-##Notes
+## Notes
+v1–2: Departure from faith is linked to attention and influence, not sudden rejection.  
+v2: “Seared conscience” suggests loss of sensitivity rather than absence of knowledge.  
+v3–5: Ascetic prohibitions are rejected. Creation is affirmed as good when received rightly.  
+v6: Teaching involves both content and nourishment.  
+v7: Training is intentional and ongoing, not incidental.  
+v8: Bodily discipline is acknowledged but relativized.  
+v10: Hope is directed toward the “living God,” not abstract belief.  
+v10: “Savior of all…especially believers” introduces tension without resolution.  
+v12: Leadership is expressed through example, not age.  
+v13: Public reading is central to communal life.  
+v14: Gift is communal in origin and recognition.  
+v15: Progress is expected to be visible.  
+v16: Personal life and teaching are inseparable.  
 
 ##Vocabulary
 

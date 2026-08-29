@@ -72,7 +72,23 @@ v20: I have been crucified with Christ; and it is no longer I who live, but Chri
 <p>
 v21: I do not set aside the grace of God; for if righteousness comes through the law, then Christ died for nothing.
 </p>
-##Notes
+## Notes
+v1–2: Paul’s return to Jerusalem is both divinely prompted (“according to a revelation”) and strategically executed (“privately”). Public mission and private discernment are held together.  
+v3: Titus functions as a test case. His uncircumcised status becomes a concrete instance of the theological question.  
+v4–5: “Freedom” and “enslavement” frame the conflict. The refusal to yield preserves “the truth of the good news” for the community.  
+v6: Paul relativizes status (“those who seemed to be something”) without denying their role. Divine impartiality governs evaluation.  
+v7–8: Parallel commissions are affirmed. Unity does not require uniformity of mission.  
+v9: Recognition is mutual and enacted through fellowship. “Grace given” is the basis, not institutional rank.  
+v10: “Remember the poor” stands as the only stated requirement, linking gospel proclamation to material concern.  
+v11: Confrontation is direct and public. Authority does not exempt from correction.  
+v12: Cephas’s withdrawal is attributed to fear, not conviction. Social pressure shapes behavior.  
+v13: Hypocrisy spreads. Even Barnabas is affected, indicating the communal reach of inconsistency.  
+v14: “Not walking straight” introduces a metaphor of alignment. Behavior is measured against the truth of the gospel.  
+v15–16: The argument shifts from narrative to theological claim. Justification is defined negatively (not by works of the law) and positively (through faith).  
+v17–18: The rhetorical question exposes a potential misunderstanding. Paul rejects the implication without elaboration.  
+v19: “Died to the law through the law” compresses paradox. The law participates in the transition it cannot complete.  
+v20: Identity is reconfigured. The self is not erased but redefined in relation to Christ.  
+v21: The logic is final and stark. If righteousness comes through the law, Christ’s death is emptied of purpose.  
 
 ##Vocabulary
 

@@ -138,7 +138,19 @@ v43: And calling his disciples to him, he said to them, “Truly I say to you, t
 
 v44: For they all put in out of their abundance, but she out of her poverty put in everything she had, her whole life.”
 </p>
-##Notes
+## Notes
+v1: The vineyard imagery evokes Israel’s scriptural tradition without needing explicit identification.
+v6: “Beloved son” echoes earlier divine language while functioning within the parable’s story.
+v9: Judgment leads to transfer, not abandonment of the vineyard.
+v13: Pharisees and Herodians again unite around opposition, despite differing political instincts.
+v16–17: The coin bears Caesar’s image; Jesus’ response leaves unstated what bears God’s image.
+v24: Error is traced to ignorance of both scripture and divine power.
+v26–27: Resurrection is argued from God’s continuing covenant identity with the patriarchs.
+v29–31: Love of God and love of neighbor are distinguished but inseparable.
+v34: “Not far” affirms insight without declaring arrival.
+v35–37: Jesus complicates messianic categories rather than denying Davidic sonship.
+v38–40: Public honor and private exploitation are held together as one corruption.
+v44: The widow’s gift is total; the phrase “whole life” preserves the severity of her act.
 
 ##Vocabulary
 

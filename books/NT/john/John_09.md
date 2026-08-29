@@ -85,9 +85,27 @@ v39: And Jesus said, “For judgment I came into this world, so that those who d
 v40: Those of the Pharisees who were with him heard these things and said to him, “We are not blind too, are we?”
 v41: Jesus said to them, “If you were blind, you would not have sin. But now you say, ‘We see.’ Your sin remains.”
 </p>
-##Notes
-
+## Notes
+v2: “who sinned” — Reflects a common assumption linking suffering to moral cause; the question itself is left uncorrected until Jesus responds.  
+v3: “so that the works of God might be revealed” — Redirects the discussion from causation to disclosure without assigning blame.  
+v4: “while it is day” — Introduces urgency without specifying duration; the metaphor governs the action that follows.  
+v5: “I am the light of the world” — Interprets the healing as sign, not merely remedy.  
+v7: “Siloam (which means Sent)” — Links the act of washing to the theme of sending that runs through the Gospel.  
+v9: “I am the man” — A simple assertion of identity that resists communal confusion and denial.  
+v14: “it was a sabbath day” — Establishes the conflict frame without commentary; timing becomes interpretive pressure.  
+v16: “there was a division” — Signals that discernment produces fracture rather than consensus.  
+v17: “He is a prophet” — Marks growth in testimony without final confession.  
+v22: “put out of the synagogue” — Names social and religious cost without evaluating it.  
+v24: “Give glory to God” — Functions as an oath formula rather than a call to praise.  
+v25: “One thing I do know” — Centers testimony in experience rather than doctrine.  
+v27: “Do you also want to become his disciples?” — Irony exposes the instability of the interrogators’ position.  
+v30: “Here is an astonishing thing!” — Reverses assumed authority; the healed man becomes the interpreter.  
+v34: “born entirely in sins” — Reasserts the original accusation in dismissive form.  
 v35: “Son of Man” — Some manuscripts read “Son of God.” The critical text reads “Son of Man,” supported by early and diverse witnesses.
+v37: “You have seen him” — Sight and recognition are joined without explanation.  
+v38: “he worshiped him” — Narrative culmination; response precedes theological clarification.  
+v39: “for judgment” — Judgment is described as consequence rather than sentence.  
+v41: “your sin remains” — Responsibility is tied to claimed sight, not to blindness itself.  
 
 ##Vocabulary
 

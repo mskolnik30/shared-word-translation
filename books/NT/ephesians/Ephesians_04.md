@@ -108,7 +108,27 @@ v31: Let all bitterness and wrath and anger and shouting and slander be removed 
 <p>
 v32: And be kind to one another, tenderhearted, forgiving one another, just as God in Christ forgave you.
 </p>
-##Notes
+## Notes
+v1: “Walk worthy” links identity (“calling”) with conduct. The ethical appeal is grounded in prior divine action.  
+v2–3: Humility, gentleness, patience, and love are relational practices that sustain unity rather than create it.  
+v3: Unity is “of the Spirit,” not manufactured. The task is preservation, not invention.  
+v4–6: The repeated “one” establishes theological unity across diverse realities.  
+v7: Grace is individualized (“to each one”) while remaining sourced in Christ.  
+v8–10: Ascending and descending are interpreted Christologically. Movement language frames authority and presence.  
+v11–12: Leadership roles are given for equipping, not hierarchy. Ministry is distributed.  
+v13: Maturity is defined corporately, not individually.  
+v14: Instability is linked to susceptibility to teaching shaped by human manipulation.  
+v15: Truth and love are not separated. Growth requires both.  
+v16: The body metaphor emphasizes interdependence. Growth arises from coordinated participation.  
+v17–18: “Futility” and “darkened understanding” describe orientation rather than intellectual capacity.  
+v19: Desire and practice reinforce one another, forming a pattern.  
+v20–21: Learning Christ is relational and embodied, not merely informational.  
+v22–24: “Put off…be renewed…put on” presents transformation as both decisive and ongoing.  
+v25–32: Ethical instructions are grounded in communal identity (“members of one another”).  
+v26–27: Anger is not denied but bounded.  
+v29: Speech is evaluated by its effect—whether it builds up and gives grace.  
+v30: The Spirit’s sealing links present conduct with future redemption.  
+v31–32: Negative dispositions are named collectively and replaced with relational practices rooted in God’s action.  
 
 ##Vocabulary
 

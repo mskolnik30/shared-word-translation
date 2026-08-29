@@ -78,9 +78,28 @@ v29: Or is God the God of Jews only? Is God not the God of Gentiles also? Yes, o
 v30: since God is one, who will set right the circumcised from trust and the uncircumcised through trust.
 v31: Do we then overthrow the law through trust? By no means! On the contrary, we uphold the law.
 </p>
-##Notes
-
+## Notes
+v2: “entrusted with the oracles of God”
+The verb emphasizes responsibility rather than privilege. Israel’s role is custodial, not self-justifying.
+v3: “the faithfulness of God”
+The contrast between human unfaithfulness and God’s faithfulness establishes the chapter’s controlling theme and anticipates the later reference to the faithfulness of Jesus Christ.
+v9: “under the power of sin”
+Sin is depicted as a ruling force rather than a series of individual acts, preparing for later language of dominion and liberation.
+v19–20: “every mouth may be stopped”
+The law’s function is diagnostic, not curative. Silence before God signals accountability rather than despair.
+v21: “But now”
+Marks a decisive shift in the argument. The phrase signals eschatological disclosure rather than a change in divine intention.
+v22: “through the faithfulness of Jesus Christ, for all who trust”
+The Greek permits a subjective genitive. This rendering presents Christ’s faithful action as the ground of justification while preserving human trust as response.
 v22: The Greek phrase *pistis Iēsou Christou* can be understood as “trust in Jesus Christ” or “the faithfulness of Jesus Christ.” The genitive construction does not by itself resolve the relation.
+v25: “a place of atonement”
+The term evokes the mercy seat without specifying mechanism. The translation resists resolving debates about sacrifice or satisfaction.
+v26: “the one who sets right those who live from the faithfulness of Jesus”
+Holds together divine justice and mercy. Justification is grounded in Christ’s faithfulness rather than human performance.
+v27: “the law of trust”
+“Law” functions metaphorically as a governing principle. Trust excludes boasting by its very nature.
+v31: “we uphold the law”
+Paul refuses antinomian conclusions. The law is honored when its true purpose is fulfilled.
 
 ##Vocabulary
 

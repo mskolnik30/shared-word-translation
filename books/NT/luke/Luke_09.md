@@ -202,7 +202,23 @@ v61: And another also said, “I will follow you, Lord, but first allow me to sa
 
 v62: But Jesus said to him, “No one who puts his hand to the plow and looks back is fit for the kingdom of God.”
 </p>
-##Notes
+## Notes
+v1–2: Authority is delegated; the mission of the twelve extends Jesus’ own activity.
+v3–5: Dependence and reception define the mission more than provision.
+v7–9: Herod’s confusion reflects unresolved identity questions surrounding Jesus.
+v10–17: The feeding miracle involves disciples directly; provision flows through their obedience.
+v16: Blessing, breaking, and giving anticipate later meal patterns.
+v20: “The Christ of God” marks a turning point in recognition.
+v22: Suffering is presented as necessity, not accident.
+v23–26: Discipleship is framed in terms of loss, shame, and ultimate reversal.
+v28–36: The transfiguration reveals glory yet directs attention back to Jesus alone.
+v31: “Departure” (exodus) frames Jesus’ death within salvation history.
+v41: Jesus’ rebuke addresses generational failure, not only individual inability.
+v44–45: The disciples’ misunderstanding is both cognitive and divinely concealed.
+v48: Greatness is redefined through reception of the least.
+v51: The journey to Jerusalem marks a major structural turning point in Luke.
+v54–56: Zeal for judgment is corrected by Jesus’ rebuke.
+v57–62: Following Jesus demands priority over security, obligation, and social ties.
 
 ##Vocabulary
 

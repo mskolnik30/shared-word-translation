@@ -84,7 +84,24 @@ v28: Therefore let us be grateful for receiving a kingdom that cannot be shaken,
 
 v29: for our God is a consuming fire.
 </p>
-##Notes
+## Notes
+v1–2: The race metaphor frames endurance as ongoing effort.  
+v2: Completion is linked to both suffering and position.  
+v3–4: Comparison moderates perception of struggle.  
+v5–6: Discipline is grounded in relationship.  
+v7–8: Absence of discipline signals lack of belonging.  
+v9–10: Earthly and divine discipline are contrasted.  
+v11: Outcome is delayed but productive.  
+v12–13: Physical imagery represents moral restoration.  
+v14–15: Holiness is necessary for vision of the Lord.  
+v15: Defilement spreads relationally.  
+v16–17: Example functions as warning without expansion.  
+v18–21: Past encounter is described through sensory intensity.  
+v22–24: Present reality is described as accessible but unseen.  
+v24: Blood is personified as speaking.  
+v25–27: Warning is intensified through comparison.  
+v27: Stability is defined through what remains.  
+v28–29: Worship is grounded in response to permanence.  
 
 ##Vocabulary
 

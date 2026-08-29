@@ -56,7 +56,16 @@ v14: for we have heard him saying that this Jesus the Nazarene will destroy this
 <p>
 v15: And all those sitting in the council, looking intently at him, saw his face like the face of an angel.
 </p>
-##Notes
+## Notes
+v1: Internal tension arises from cultural-linguistic divisions within the community.  
+v2–4: Apostolic priorities distinguish between word ministry and logistical service.  
+v3: Qualification emphasizes character and Spirit-empowerment, not merely skill.  
+v5–6: Communal selection and apostolic commissioning function together.  
+v7: Structural adjustment results in continued growth.  
+v8: Stephen’s ministry combines proclamation and signs.  
+v9–10: Opposition fails at the level of argument.  
+v11–14: Accusation escalates through false testimony and distortion.  
+v15: Stephen’s appearance signals divine presence and vindication.  
 
 ##Vocabulary
 

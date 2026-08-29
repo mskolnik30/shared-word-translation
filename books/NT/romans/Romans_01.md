@@ -104,7 +104,16 @@ v31: senseless, faithless, heartless, ruthless.
 <p>
 v32: Though they know the righteous decree of God, that those practicing such things are worthy of death, they not only do them but also approve of those who practice them.
 </p>
-##Notes
+## Notes
+v1–4: Gospel centers on Jesus’ Davidic lineage and resurrection vindication.
+v5: Apostleship aims at obedience of faith among nations.
+v11–12: Mutual strengthening defines community.
+v16–17: Gospel reveals God’s righteousness through faith.
+v18–20: General revelation renders humanity accountable.
+v21–23: Idolatry is the fundamental exchange.
+v24–28: “God gave them over” marks judicial consequence.
+v29–31: Moral breakdown is comprehensive.
+v32: Approval of sin compounds guilt.
 
 ##Vocabulary
 

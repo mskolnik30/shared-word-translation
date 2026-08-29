@@ -78,7 +78,20 @@ v22: And he put all things under his feet and gave him as head over all things t
 
 v23: which is his body, the fullness of the one who fills all in all.
 </p>
-##Notes
+## Notes
+v3–6: The sentence unfolds as a sustained blessing. Action is attributed entirely to God, with repeated emphasis on divine initiative (“chose,” “predestined,” “graced”).  
+v4: “Before the foundation of the world” situates election outside temporal sequence.  
+v5: Adoption is relational language. It frames salvation as belonging, not only status.  
+v6: Repetition of “praise…glory…grace” structures the passage liturgically.  
+v7–8: Redemption and forgiveness are grounded in “riches of grace,” not merit.  
+v9–10: “Mystery” is not hidden permanently but revealed in time. The scope extends to “all things.”  
+v10: “Sum up all things” suggests integration rather than replacement.  
+v11–12: Inheritance is both given and purposed. Identity is oriented toward praise.  
+v13–14: Hearing, believing, and sealing form a sequence without rigid separation.  
+v14: The Spirit as “first pledge” holds present experience and future fulfillment together.  
+v18: “Eyes of your heart” blends cognition and perception.  
+v19–21: Power is defined by resurrection and exaltation, not coercion.  
+v22–23: The church is described as “body” and “fullness,” linking Christ’s authority with communal identity.  
 
 ##Vocabulary
 

@@ -54,7 +54,24 @@ v23: Whatever you do, work from the heart, as for the Lord and not for people,
 v24: knowing that from the Lord you will receive the inheritance as your reward. You serve the Lord Christ.
 v25: For the wrongdoer will be repaid for the wrong they have done, and there is no partiality.
 </p>
-##Notes
+## Notes
+v1–4: raised / seek / hidden / revealed — Identity is resurrection-shaped: the community’s “location” is with Christ, and present hiddenness will become public glory.  
+v2: “set your mind” — Not escapism, but a re-aimed imagination: habits, priorities, and values are trained by Christ’s reign.  
+v5: “put to death… greed… idolatry” — Sin is treated as lethal, not cute; greed is named as worship-disorder—desire turned into a god.  
+v6–7: “wrath… once walked” — Paul warns without denying the past: the community is not shamed for what was, but called not to live there now.  
+v8: anger cluster / speech sins — Transformation is social: the old self damages others through rage, malice, and mouth.  
+v9–10: “stripped off… put on… being renewed” — The change is both decisive and ongoing: a new identity is donned, yet renewal is continual formation into God’s image.  
+v11: “no Greek and Judean… slave and free” — The gospel dismantles hierarchy-as-identity. Distinctions remain socially real, but they no longer determine belonging or worth in the body.  
+v12: “chosen… holy… beloved” — Ethics flow from belovedness: these virtues are not self-improvement but fitting clothing for God’s people.  
+v13: “bear with… forgive… as the Lord forgave” — Forgiveness is patterned on Christ: costly, initiative-taking, and relationally restorative.  
+v14: “love… binds… in completeness” — Love is the integrating virtue; it holds the community together and matures everything else.  
+v15: “peace… rule… one body” — Peace is an umpire for communal life, guiding decisions and conflicts toward unity rather than rivalry.  
+v16: “word… dwell richly… teach… sing” — Formation is corporate and lyrical: wisdom is practiced through mutual instruction and sung theology.  
+v17: “in the name… giving thanks” — The comprehensive frame is gratitude and representation: daily life is lived as Jesus’ authorized people.  
+v18–19: wives/husbands — These household lines have been misused. Paul’s trajectory here is Christlike love and non-harshness as the controlling ethic; authority is constrained by self-giving care, not domination.  
+v20–21: children/fathers — Parents are warned against crushing leadership; discipleship at home includes emotional responsibility (“lest they become discouraged”).  
+v22–24: slaves/masters language — Paul addresses people within an unjust institution without endorsing it as good. The stress falls on dignity, sincerity, and belonging to Christ—yet the larger gospel logic (v11) presses toward a community where slavery cannot be justified.  
+v25: “no partiality” — A final leveling: God’s justice is not swayed by status; wrongdoing is named and answered without favoritism.  
 
 ##Vocabulary
 

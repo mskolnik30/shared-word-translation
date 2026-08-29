@@ -92,7 +92,18 @@ v27: And arriving and gathering the church together, they reported all that God 
 
 v28: And they stayed no little time with the disciples.
 </p>
-##Notes
+## Notes
+v1–2: Belief and opposition arise simultaneously.  
+v3: Bold proclamation is accompanied by divine confirmation.  
+v4–7: Division leads to mission expansion.  
+v8–10: Faith is recognized and responds to command.  
+v11–13: Misinterpretation of power leads to idolatry.  
+v14–15: Apostles reject divine status and redirect to the Creator.  
+v16–17: General revelation testifies through providence.  
+v19–20: Reversal from exaltation to persecution highlights volatility.  
+v21–22: Strengthening includes preparing for suffering.  
+v23: Leadership is established through communal and spiritual processes.  
+v26–28: Mission report centers on God’s activity, not human achievement.  
 
 ##Vocabulary
 

@@ -172,8 +172,22 @@ v55: And the women who had come with him from Galilee followed and saw the tomb 
 
 v56: And returning, they prepared spices and ointments. And on the Sabbath they rested according to the commandment.
 </p>
-##Notes
-
+## Notes
+v2: Accusations are framed politically to secure Roman action.
+v4–5: Pilate repeatedly affirms Jesus’ innocence but yields to pressure.
+v8–9: Herod seeks spectacle, not truth.
+v11: Mockery includes symbolic clothing, parodying kingship.
+v26: Simon participates involuntarily in carrying the cross.
+v28–31: Jesus redirects lament toward coming judgment.
+v34: Forgiveness is extended amid ignorance and violence.
+v35–38: Mockery centers on the demand for self-saving power.
+v39–43: The contrast between the criminals highlights recognition of innocence and kingship.
+v43: Immediate promise of “paradise” reframes death.
+v44–45: Cosmic and temple signs accompany death.
+v46: Final words express trust, not defeat.
+v47: The centurion recognizes righteousness, not yet full identity.
+v50–53: Burial is conducted with care and honor by a council member.
+v56: Sabbath observance continues even in grief.
 v17: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add an explanatory statement about releasing a prisoner at the festival. Public verse numbering is retained.
 
 ##Vocabulary

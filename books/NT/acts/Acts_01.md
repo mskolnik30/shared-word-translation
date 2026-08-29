@@ -76,7 +76,22 @@ v25: to take the place in this ministry and apostleship from which Judas turned 
 
 v26: And they cast lots for them, and the lot fell on Matthias, and he was numbered with the eleven apostles.
 </p>
-##Notes
+## Notes
+v1–2: “Began to do and to teach” implies continuation. The present account does not replace the former but extends it.  
+v3: The resurrection is presented through “many proofs,” yet these are not detailed. The emphasis falls on presence and instruction.  
+v4–5: Waiting is commanded. The promise is not seized but received, and it is tied explicitly to the Father’s action.  
+v6: The question reflects expectation of restoration to Israel. The concern is not dismissed but redirected.  
+v7–8: Knowledge of timing is withheld, but mission is given. Power and witness define the community’s role.  
+v8: The geographic movement (Jerusalem → Judea → Samaria → ends of the earth) provides a structural horizon for the narrative that follows.  
+v9–11: The ascension is narrated without elaboration. The focus rests on departure and promised return rather than description of heaven.  
+v11: “In the same way” preserves continuity without specifying detail. The mode of return remains open.  
+v12–14: The community is named and gathered. Prayer and shared presence precede action.  
+v14: The inclusion of women and Jesus’ family situates the group beyond the eleven. The community is broader than apostolic leadership.  
+v16–17: Scripture is interpreted as fulfilled within events. Judas’ role is neither erased nor excused.  
+v18–19: The account of Judas’ death is presented without harmonization with other traditions. The narrative stands as given.  
+v20: The use of Psalms frames replacement as continuity rather than innovation.  
+v21–22: Apostolic qualification is tied to sustained witness—from John’s baptism to the ascension—and specifically to the resurrection.  
+v24–26: The selection process combines prayer and lot. Divine choice is sought rather than assumed, and communal discernment remains limited.  
 
 ##Vocabulary
 

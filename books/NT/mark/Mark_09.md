@@ -144,10 +144,21 @@ v49: For everyone will be salted with fire.
 
 v50: Salt is good; but if the salt becomes unsalty, with what will you season it? Have salt in yourselves, and be at peace with one another.”
 </p>
-##Notes
-
+## Notes
+v1: “Kingdom… come in power” remains undefined, allowing multiple referents (transfiguration, resurrection, or beyond).
+v2–4: Moses and Elijah represent law and prophets without explicit interpretation; presence itself carries meaning.
+v7: The command “listen to him” shifts authority from prior revelation to present speech without negating it.
+v9–10: The prohibition preserves timing; understanding is deferred, not denied.
+v12–13: Elijah is both affirmed and reinterpreted; fulfillment does not resolve expectation cleanly.
+v19: “Faithless generation” addresses both disciples and crowd, expanding the scope of rebuke.
+v23–24: Faith and unbelief coexist; the father’s cry embodies unresolved trust rather than certainty.
+v29: Prayer is not technique but dependence; failure is relational, not procedural.
+v31: Passive “is being handed over” leaves agency open (divine, human, or both).
+v34–35: Greatness is inverted, not eliminated; hierarchy is redefined through service.
+v37: Receiving the child mediates reception of both Jesus and the one who sent him.
+v40: Boundary of belonging is widened without dissolving identity.
+v49–50: “Salted with fire” combines preservation and purification without clarification.
 v44: Verses 44 and 46 are absent from the earliest and strongest Greek witnesses; later manuscripts repeat the wording of verse 48. Public verse numbering is retained.
-
 v46: Verses 44 and 46 are absent from the earliest and strongest Greek witnesses; later manuscripts repeat the wording of verse 48. Public verse numbering is retained.
 
 ##Vocabulary

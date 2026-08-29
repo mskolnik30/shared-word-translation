@@ -86,7 +86,21 @@ v20: And the beast was captured, and with it the false prophet who in its presen
 
 v21: And the rest were slain by the sword that came from the mouth of the one who was sitting on the horse, and all the birds were filled with their flesh.
 </p>
-##Notes
+## Notes
+v11: The rider is identified by titles rather than name alone; action is grounded in righteousness.
+v12: The unknown name remains undisclosed; knowledge is limited.
+v13: The robe is already blood-marked before battle, not after.
+v13: “Word of God” identifies function rather than explaining nature.
+v14: The armies follow; their role is not described in action.
+v15: The sword proceeds from the mouth, linking judgment with speech.
+v15: Multiple images (rod, winepress) accumulate without harmonization.
+v16: Titles are stated without commentary; authority is asserted.
+v17–18: The “supper” mirrors earlier imagery but reverses expectation.
+v18: Social distinctions are collapsed in death.
+v19: Opposition gathers but is not described in strategy.
+v20: The beast and false prophet are removed without extended conflict.
+v20: The lake of fire is introduced without explanation.
+v21: The rest are slain by word; action remains singular.
 
 ##Vocabulary
 

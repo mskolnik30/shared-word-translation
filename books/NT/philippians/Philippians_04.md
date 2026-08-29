@@ -68,7 +68,16 @@ v21: Greet every saint in Christ Jesus. The brothers and sisters who are with me
 v22: All the saints greet you, especially those of the emperor’s household.
 v23: The grace of the Lord Jesus Christ be with your spirit.
 </p>
-##Notes
+## Notes
+v1: Affection and exhortation are intertwined. Stability (“stand firm”) emerges from relational belonging, not abstract command.  
+v2–3: Conflict is addressed directly but communally. Unity is not avoidance of tension but shared work toward reconciliation.  
+v4–7: Rejoicing, gentleness, prayer, and peace form a coherent pattern of life. Anxiety is not denied but redirected through trust.  
+v8–9: Thought and practice are inseparable. What is held in mind shapes what is lived out, and both are grounded in received tradition.  
+v10–13: Contentment is learned, not assumed. It is not tied to circumstance but to reliance on Christ’s sustaining presence.  
+v14–17: Generosity is reframed. The value lies not in the gift itself but in the shared participation and its fruit.  
+v18–19: Giving is interpreted sacrificially. Material support becomes an act of worship, and provision is grounded in God’s abundance.  
+v20: The doxology recenters all activity in God’s glory. The letter’s concerns resolve in praise.  
+v21–23: The closing emphasizes connection across distance. The mention of the emperor’s household signals the gospel’s reach into unexpected places.  
 
 ##Vocabulary
 

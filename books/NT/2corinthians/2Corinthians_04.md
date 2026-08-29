@@ -60,7 +60,20 @@ v17: For this light affliction is preparing for us an eternal weight of glory be
 
 v18: as we look not to the things that are seen but to the things that are unseen; for the things that are seen are temporary, but the things that are unseen are eternal.
 </p>
-##Notes
+## Notes
+v1: “Do not lose heart” frames the chapter. The endurance of ministry is grounded in mercy, not resilience alone.  
+v2: Paul contrasts hidden manipulation with open truth. Integrity is defined as transparency before God and others.  
+v3–4: The veil imagery returns, now linked to blindness. The obstruction is described as both internal and influenced by “the god of this age.”  
+v5: The distinction between proclaiming Christ and proclaiming oneself is explicit. Apostolic identity is subordinated to service.  
+v6: Creation language (“Let light shine…”) reframes conversion as divine illumination, not human discovery.  
+v7: “Clay jars” emphasizes fragility. The contrast between vessel and treasure highlights divine power rather than human capacity.  
+v8–9: The paired contrasts maintain tension. Affliction is real but not ultimate.  
+v10–11: The pattern of death and life is embodied. The life of Jesus is revealed not apart from suffering but within it.  
+v12: The relationship between Paul’s suffering and the community’s life is stated without explanation.  
+v13–14: Faith leads to speech. Resurrection hope grounds both proclamation and endurance.  
+v16: Outer decay and inner renewal are held together without resolving the tension.  
+v17: “Light affliction” is not a denial of suffering but a comparative statement relative to “eternal weight of glory.”  
+v18: The seen/unseen contrast reframes perception. Temporal visibility is not treated as ultimate reality.  
 
 ##Vocabulary
 

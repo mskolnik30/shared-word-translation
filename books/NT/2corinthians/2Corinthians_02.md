@@ -60,7 +60,17 @@ v16: to the one a fragrance from death to death, to the other a fragrance from l
 <p>
 v17: For we are not like so many, peddling the word of God; but as from sincerity, but as from God, in the presence of God, we speak in Christ.
 </p>
-##Notes
+## Notes
+v1–3: Paul’s decision not to visit is framed relationally, not strategically. Presence would intensify sorrow rather than restore joy.
+v4: The letter itself is an act of love, even though it causes grief. Paul holds emotional pain and pastoral intention together.
+v5–7: Discipline is treated as communal, but so is restoration. The concern shifts from punishment to the danger of overwhelming sorrow.
+v8: Love must be reaffirmed publicly. Restoration is not assumed; it is enacted.
+v9: Obedience is tested not only in correction but in forgiveness.
+v10–11: Forgiveness is communal and spiritual. The threat is not only division but vulnerability to destructive forces.
+v12–13: Even with open opportunity for ministry, Paul’s internal unrest redirects him. Mission is not detached from relational concern.
+v14–16: The imagery of fragrance carries both attraction and division. The same message produces different outcomes without being altered.
+v16: The rhetorical question underscores the weight of ministry rather than resolving it.
+v17: Paul contrasts sincere proclamation with manipulation. Speech “in Christ” is defined by accountability to God rather than effectiveness alone.
 
 ##Vocabulary
 

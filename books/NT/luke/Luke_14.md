@@ -108,7 +108,15 @@ v34: “Salt is good; but if even the salt loses its taste, with what will it be
 
 v35: It is fit neither for the soil nor for the manure pile; they throw it out. The one who has ears to hear, let him hear.”
 </p>
-##Notes
+## Notes
+v1–6: Sabbath healing exposes selective application of compassion.
+v7–11: Honor is reframed as something received, not seized.
+v12–14: Hospitality without reciprocity reflects kingdom logic.
+v16–24: Refusal by the invited opens inclusion to the excluded.
+v23: “Compel” reflects urgency, not coercion for domination.
+v26–27: Discipleship demands absolute priority over all relational claims.
+v28–33: Counting cost is integral, not optional, to following.
+v34–35: Loss of distinctiveness renders discipleship ineffective.
 
 ##Vocabulary
 

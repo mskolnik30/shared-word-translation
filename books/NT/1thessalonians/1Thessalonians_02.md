@@ -72,7 +72,22 @@ v19: For what is our hope or joy or crown of boasting before our Lord Jesus at h
 
 v20: For you are our glory and joy.
 </p>
-##Notes
+## Notes
+v1–2: Ministry is validated by endurance under opposition, not by ease or acceptance.  
+v2: “Boldness in our God” locates courage as derivative, not self-generated.  
+v3–4: Motive is central. Paul contrasts divine approval with human persuasion.  
+v4: “God who tests our hearts” places inner intention under divine scrutiny.  
+v5–6: Negative assertions (no flattery, no greed, no seeking glory) define the integrity of the message.  
+v7–8: Maternal imagery (“nursing mother”) emphasizes tenderness and self-giving.  
+v9: Manual labor reinforces independence from financial burden.  
+v10–12: Conduct and exhortation are paired. Paternal imagery complements earlier maternal imagery.  
+v12: Calling is directed toward “kingdom and glory,” linking present conduct with future reality.  
+v13: The word is received as divine, not human, and is described as active within believers.  
+v14–16: Suffering aligns the Thessalonians with earlier communities. Opposition is framed historically and theologically.  
+v16: “Fill up their sins” introduces cumulative judgment language without elaboration.  
+v17–18: Physical absence contrasts with emotional presence. Desire for reunion remains strong.  
+v18: Hindrance is attributed to Satan, introducing unseen opposition.  
+v19–20: The community itself is Paul’s “crown,” redefining success relationally rather than institutionally.  
 
 ##Vocabulary
 

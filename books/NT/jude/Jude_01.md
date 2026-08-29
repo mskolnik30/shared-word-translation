@@ -82,7 +82,26 @@ v24: Now to the one who is able to keep you from stumbling and to present you bl
 
 v25: to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.
 </p>
-##Notes
+## Notes
+v1: Identity is relational (“servant,” “brother”), not positional.
+v2: Blessing is cumulative and expansive.
+v3: The shift from intention to necessity frames urgency.
+v4: Entry is described as unnoticed, not open.
+v5: Past acts are recalled without full narrative.
+v6: Judgment is delayed but certain.
+v7: Example functions as warning without expansion.
+v8: Behavior is linked to internal sources (“dreams”).
+v9: Authority is deferred, not assumed.
+v10: Knowledge without understanding leads to destruction.
+v11: Multiple examples are combined without explanation.
+v12–13: Metaphors accumulate without resolution.
+v14–15: Prophecy is cited without contextualization.
+v16: Speech reveals character and intention.
+v17–18: Apostolic prediction is presented as fulfilled pattern.
+v19: Division is attributed to absence of the Spirit.
+v20–21: Action is continuous and relational.
+v22–23: Responses vary without systematization.
+v24–25: The doxology attributes all agency to God.
 
 ##Vocabulary
 

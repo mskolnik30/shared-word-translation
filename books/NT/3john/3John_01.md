@@ -50,7 +50,21 @@ v14: I hope to see you soon, and we will speak face to face.
 
 v15: Peace be to you. The friends greet you. Greet the friends, each by name.
 </p>
-##Notes
+## Notes
+v1: “The elder” is not further identified; authority is assumed.  
+v1: Love is qualified (“in truth”), not generalized.  
+v2: Physical and spiritual well-being are held together.  
+v3–4: Joy is tied to observed conduct, not abstract belief.  
+v5: Faithfulness is demonstrated through action toward others.  
+v6: Hospitality is framed as participation in divine purpose.  
+v7: “The Name” is used without explicit identification.  
+v8: Support creates shared involvement, not passive agreement.  
+v9: Opposition is internal rather than external.  
+v10: Speech and action are linked; resistance is active.  
+v11: Imitation is moral and relational, not theoretical.  
+v12: Testimony is cumulative and affirmed.  
+v13–14: Written communication is secondary to presence.  
+v15: Naming is personal; relationship is specific.  
 
 ##Vocabulary
 

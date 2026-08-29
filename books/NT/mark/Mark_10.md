@@ -146,7 +146,19 @@ v51: And answering him, Jesus said, “What do you want me to do for you?” And
 
 v52: And Jesus said to him, “Go; your faith has saved you.” And immediately he saw again and was following him on the way.
 </p>
-##Notes
+## Notes
+v2: The question is framed as a legal test rather than a pastoral inquiry.
+v5: Jesus locates divorce legislation within hardness of heart, treating concession and creation as distinct.
+v6–9: Appeal to creation precedes appeal to law, grounding marriage in divine joining.
+v14: Jesus’ indignation marks the exclusion of children as a serious misunderstanding of the kingdom.
+v15: The child functions as an image of reception, not innocence or sentimentality.
+v21: Jesus’ command arises from love; dispossession is presented as invitation rather than contempt.
+v23–27: Wealth is treated as spiritual peril, not merely social privilege.
+v30: Promise and persecution are held together; discipleship is not romanticized.
+v32: Jesus goes ahead toward Jerusalem; leadership is embodied as movement toward suffering.
+v38: “Cup” and “baptism” anticipate suffering without explaining it abstractly.
+v43–45: Greatness is inverted through service, with the Son of Man as pattern and ground.
+v52: Bartimaeus receives sight and then follows “on the way,” linking healing to discipleship.
 
 ##Vocabulary
 

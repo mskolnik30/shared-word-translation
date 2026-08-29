@@ -84,7 +84,14 @@ v24: But Jesus himself was not entrusting himself to them, because he knew all p
 
 v25: and because he had no need that anyone should testify concerning man, for he himself knew what was in man.
 </p>
-##Notes
+## Notes
+v4: “My hour” introduces the timeline of revelation and glorification.
+v6: Purification jars signal transition from old ritual structures to new reality.
+v11: “Signs” reveal glory and generate belief.
+v15–16: Temple action asserts authority and redefines sacred space.
+v17: Zeal connects Jesus’ action to scriptural fulfillment.
+v19–21: Temple is reinterpreted as Jesus’ body.
+v23–25: Belief based on signs is distinguished from full trust.
 
 ##Vocabulary
 

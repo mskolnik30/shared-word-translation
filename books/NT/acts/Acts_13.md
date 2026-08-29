@@ -186,7 +186,18 @@ v51: But they shook off the dust from their feet against them and went to Iconiu
 
 v52: And the disciples were filled with joy and with the Holy Spirit.
 </p>
-##Notes
+## Notes
+v2: Mission originates through Spirit direction.  
+v6–12: Opposition from false power contrasts with true authority.  
+v9: Name shift from Saul to Paul marks mission context.  
+v16–41: Paul’s sermon traces redemptive history to Jesus.  
+v27–29: Rejection fulfills Scripture.  
+v30–31: Resurrection validates Jesus’ identity.  
+v38–39: Justification is contrasted with the law.  
+v46–47: Mission expands decisively to Gentiles.  
+v48: Belief is linked with divine appointment.  
+v50–51: Rejection leads to relocation, not cessation.  
+v52: Joy and Spirit persist amid opposition.  
 
 ##Vocabulary
 

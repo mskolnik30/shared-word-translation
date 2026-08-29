@@ -66,7 +66,24 @@ v20: Now to the one who is able to do beyond all things exceedingly more than we
 
 v21: to him be the glory in the church and in Christ Jesus to all generations, forever and ever. Amen.
 </p>
-##Notes
+## Notes
+v1: “Prisoner of Christ Jesus” reframes imprisonment as belonging rather than merely circumstance.  
+v2: “Stewardship of grace” presents Paul’s role as entrusted responsibility, not personal possession.  
+v3–5: “Mystery” is defined by its temporal movement—from hidden to revealed—without implying prior absence.  
+v6: The content of the mystery is communal inclusion. “Fellow heirs…same body…sharers” emphasizes shared status.  
+v7: Service is grounded in grace and empowered by divine action.  
+v8: Paul’s self-description (“least”) contrasts with the magnitude of his commission.  
+v9–10: The revelation of the mystery is not only for human communities but extends to “rulers and authorities.”  
+v10: The church functions as the medium through which divine wisdom is displayed.  
+v11: The purpose is “eternal,” yet realized in historical action (“accomplished in Christ”).  
+v12: “Boldness” and “access” redefine relationship with God in terms of confidence rather than distance.  
+v13: Paul interprets his suffering as beneficial for others, not as contradiction.  
+v14–16: The prayer shifts from explanation to petition. Strength is located in the “inner person.”  
+v17: Indwelling (“Christ…in your hearts”) is linked with stability (“rooted and grounded”).  
+v18–19: Comprehension is both cognitive and experiential. The dimensions of Christ’s love are named but not measured.  
+v19: The paradox remains: to “know” what surpasses knowledge.  
+v20: Divine action exceeds human request and imagination without specification.  
+v21: Glory is located both “in the church” and “in Christ,” holding communal and Christological focus together.  
 
 ##Vocabulary
 

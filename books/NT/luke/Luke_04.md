@@ -156,7 +156,16 @@ v43: But he said to them, “I must proclaim the good news of the kingdom of God
 
 v44: And he was proclaiming in the synagogues of Judea.
 </p>
-##Notes
+## Notes
+v1–2: The Spirit leads Jesus into testing, not away from it.
+v3–12: Each test concerns identity and trust rather than mere power.
+v13: The devil’s departure “until an opportune time” anticipates future conflict.
+v18–19: Isaiah defines Jesus’ mission in terms of proclamation and release.
+v21: Fulfillment is declared in the present moment, not deferred.
+v23–27: Jesus reframes expectation through prophetic precedent that includes outsiders.
+v28–30: Rejection escalates quickly from admiration to violence.
+v32: Authority is located in the word itself, not external validation.
+v34: Demonic recognition contrasts with human misunderstanding.
 
 ##Vocabulary
 

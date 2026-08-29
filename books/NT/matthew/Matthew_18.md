@@ -92,8 +92,23 @@ v34: And in anger his master delivered him to the jailers, until he should pay a
 
 v35: So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart.”
 </p>
-##Notes
-
+## Notes
+v3: “Turn” indicates reorientation, not imitation alone; entry requires transformation.  
+v4: Greatness defined by voluntary lowering, not achieved status.  
+v6: Causing “little ones” to stumble carries severe consequence; relational harm is weighty.  
+v7: Necessity of stumbling blocks does not remove responsibility for causing them.  
+v8–9: Radical imagery underscores seriousness of sin; priority is life over wholeness.  
+v10: “Their angels” implies divine attention and advocacy, not hierarchy.  
+v12–14: Value of the one reframes majority logic; pursuit overrides efficiency.  
+v15–17: Process is progressive—private, small group, communal—aimed at restoration.  
+v18: Communal discernment participates in heavenly alignment.  
+v19–20: Agreement and presence tied to gathered identity, not mere number.  
+v22: Forgiveness quantified beyond calculability; limit removed.  
+v24: “Ten thousand talents” signals incalculable debt—beyond repayment.  
+v27: Forgiveness is grounded in compassion, not obligation.  
+v28–30: Contrast exposes inconsistency between received mercy and enacted judgment.  
+v33: Mercy becomes expectation once received; ethical reciprocity.  
+v35: Forgiveness must be internal (“from your heart”), not procedural.  
 v11: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add a saying corresponding to Luke 19:10. Public verse numbering is retained.
 
 ##Vocabulary

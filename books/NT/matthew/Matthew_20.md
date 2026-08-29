@@ -88,7 +88,18 @@ v33: They said to him, “Lord, let our eyes be opened.”
 
 v34: And Jesus, moved with compassion, touched their eyes, and immediately they recovered their sight and followed him.
 </p>
-##Notes
+## Notes
+v1–7: Hiring pattern disrupts expectation; inclusion extends beyond early privilege.  
+v8–12: Payment order reveals perception of fairness tied to comparison, not agreement.  
+v15: “Evil eye” reflects resentment toward generosity, not injustice.  
+v16: Reversal principle applied concretely to reward structures.  
+v18–19: Prediction includes full sequence—religious rejection, Gentile involvement, execution, resurrection.  
+v22: “Cup” signifies participation in suffering, not merely status.  
+v23: Roles in the kingdom are prepared, not claimed.  
+v25–27: Authority redefined from dominance to service; inversion of hierarchy.  
+v28: “Ransom” frames death as substitutionary and liberating.  
+v30–31: Persistence overcomes social suppression; recognition precedes healing.  
+v34: Compassion leads to touch; healing results in following.  
 
 ##Vocabulary
 

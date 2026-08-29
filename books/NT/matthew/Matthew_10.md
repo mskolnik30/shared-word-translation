@@ -124,7 +124,25 @@ v41: The one who receives a prophet because he is a prophet will receive a proph
 
 v42: And whoever gives one of these little ones even a cup of cold water because he is a disciple, truly, I tell you, he will by no means lose his reward.”
 </p>
-##Notes
+## Notes
+v1: Authority is delegated, not inherent to the disciples; it mirrors Jesus’ own activity.  
+v5–6: The mission is initially restricted, emphasizing sequence rather than exclusion.  
+v7: Proclamation centers on nearness, not systematized teaching.  
+v8: Gift and giving are held together; reception determines distribution.  
+v10: Dependence replaces self-sufficiency; provision is relational, not stored.  
+v13: Peace is depicted as transferable yet reversible, not static.  
+v16: Wisdom and innocence are paired without synthesis; tension is maintained.  
+v19–20: Speech is reframed as given rather than generated; agency is shared.  
+v21–22: Division reaches into primary kinship structures; allegiance is redefined.  
+v23: Urgency remains unresolved; the timeline is intentionally compressed.  
+v25: Identification with the teacher includes sharing in accusation.  
+v26–27: Hiddenness is temporary; disclosure is assumed, not argued.  
+v28: Fear is redirected rather than eliminated; proper object is redefined.  
+v29–31: Divine attention extends to the insignificant; valuation is reassigned.  
+v34–36: Peace is not immediate harmony but conflict arising from allegiance.  
+v38: The cross is introduced prior to the narrative of crucifixion; meaning precedes event.  
+v39: Loss and finding are inversely structured; identity is reconfigured through surrender.  
+v40: Representation is layered; reception of messengers participates in divine reception.  
 
 ##Vocabulary
 

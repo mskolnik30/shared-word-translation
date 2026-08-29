@@ -92,8 +92,16 @@ v26: but now made manifest, and through the prophetic Scriptures made known to a
 <p>
 v27: to the only wise God, through Jesus Christ, to whom be the glory forever. Amen.
 </p>
-##Notes
-
+## Notes
+v1–2: Phoebe is commended as servant and benefactor.
+v3–16: Network of co-workers reflects distributed leadership.
+v7: Early witnesses include those prominent among apostles.
+v16: Mutual greeting reinforces communal unity.
+v17–18: Warning targets internal disruption and deception.
+v19–20: Ethical discernment combines wisdom and innocence.
+v20: Final victory over evil is assured.
+v21–23: Broader mission network is acknowledged.
+v25–27: Doxology summarizes gospel as revealed mystery for all nations.
 v24: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts repeat the grace benediction. Public verse numbering is retained.
 
 ##Vocabulary

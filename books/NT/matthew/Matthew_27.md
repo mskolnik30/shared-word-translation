@@ -161,7 +161,31 @@ v64: Therefore order the tomb to be made secure until the third day, lest his di
 v65: Pilate said to them, “You have a guard; go, make it as secure as you know how.”
 v66: So they went and made the tomb secure by sealing the stone and setting the guard.
 </p>
-##Notes
+## Notes
+v1–2: “took counsel… delivered… to Pilate” — Religious leadership and imperial power collaborate; “handing over” is how unjust systems launder responsibility.
+v3–5: Judas “regretted… hanged himself” — Regret (metamelomai) is not the same as repentance; the text portrays despair and moral collapse without romanticizing it.
+v6–10: “blood money… potter’s field… fulfilled” — Leaders keep ritual scruples while funding death; Matthew frames this as scripture-patterned irony and judgment on hypocrisy.
+v11–14: Jesus’ silence — Not weakness but refusal to play a rigged courtroom game; his restraint exposes the trial’s injustice and Pilate’s impotence.
+v15–18: “custom… envy” — The crowd-choice scene reveals scapegoating dynamics: public pressure and elite envy converge to eliminate the righteous.
+v19: Pilate’s wife’s dream — A Gentile warning heightens the moral clarity: even outsiders perceive Jesus as “righteous.”
+v20–23: “persuaded the crowds… crucified!” — Manipulated consensus is still culpable; mob certainty is not moral truth.
+v24: “washed his hands” — A performance of innocence that cannot cleanse complicity; bureaucracy’s favorite lie is “I had no choice.”
+v25: “His blood be on us…” — This line has been weaponized for anti-Jewish hatred. Read it as Matthew’s in-house conflict language, not a warrant to blame Jews across history (or today). The crucifixion is a convergence of many actors and powers, and the gospel’s aim is repentance and reconciliation, not ethnic condemnation.
+v26: scourging and delivery — The state’s violence is normalized procedure; Matthew makes us see how routine brutality becomes “legal.”
+v27–31: mock kingship — The crown, robe, reed, spitting: imperial satire. They “crown” him to deny him, yet their parody unintentionally speaks truth.
+v32: Simon of Cyrene — Discipleship is foreshadowed as forced cross-bearing; the crucifixion draws others into Jesus’ burden.
+v33–35: Golgotha / gall / lots — Pain is intensified, dignity stripped, and the righteous is treated as property; Psalm echoes (garments/lot) deepen the theological frame.
+v37: “King of the Judeans” — The charge is political: Rome executes a perceived rival king; the sign becomes proclamation in spite of itself.
+v39–44: “save yourself… come down” — The taunts misunderstand salvation: the Messiah saves not by self-rescue but by self-giving. “Trust” is demanded on the world’s terms.
+v45: darkness — Creation imagery marks cosmic grief and judgment; the cross is not private tragedy but world-shaking event.
+v46: “My God… why have you forsaken me?” — Jesus prays Psalm 22 from the depths; lament remains faithful speech even when God feels absent.
+v50: “yielded up his spirit” — Not accidental death but deliberate surrender; Matthew emphasizes agency within suffering.
+v51: temple curtain torn — A sign of access and upheaval: the old barrier is ripped from top to bottom, as if God acts from above.
+v52–53: tombs opened / saints raised — Matthew’s apocalyptic sign-language: the cross begins new-creation realities that overflow even death’s boundaries.
+v54: centurion’s confession — Irony sharpened: a Gentile soldier speaks the truth many insiders resist—“Truly this was God’s Son.”
+v55–56: women watching — Faithful presence in the dark; they become crucial witnesses when many disciples have fled.
+v57–61: Joseph’s tomb — Honor is given at burial, preserving the reality of death while preparing for the reality of resurrection (a known tomb, a sealed stone).
+v62–66: guard and seal — Attempts to secure death become evidence of resurrection; the powers treat Jesus’ promise as threat and try to control the narrative in advance.
 
 ##Vocabulary
 

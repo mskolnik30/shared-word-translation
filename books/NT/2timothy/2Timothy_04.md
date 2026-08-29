@@ -84,7 +84,22 @@ v21: Make every effort to come before winter. Eubulus sends greetings to you, an
 <p>
 v22: The Lord be with your spirit. Grace be with you.
 </p>
-##Notes
+## Notes
+v1–2: The charge is framed eschatologically. Preaching is grounded in future judgment and present responsibility.  
+v2: “In season and out of season” removes dependence on favorable conditions.  
+v3–4: Rejection of truth is linked to desire. Teaching is selected to match preference.  
+v5: Timothy’s role is comprehensive—sobriety, endurance, proclamation, completion.  
+v6: “Poured out” presents Paul’s life as offering, not loss.  
+v7: The metaphors (fight, race, faith) summarize a completed vocation.  
+v8: Reward is future and communal, not exclusive.  
+v10: “Love of the present age” explains desertion.  
+v11: Mark’s usefulness contrasts with earlier tensions (unspoken here).  
+v13: Practical needs (cloak, scrolls) ground the letter in ordinary reality.  
+v14–15: Opposition is acknowledged, with judgment deferred to the Lord.  
+v16–17: Human abandonment contrasts with divine presence.  
+v17: The purpose of strengthening is proclamation, not preservation.  
+v18: Rescue is framed eschatologically (“bring me safely into his heavenly kingdom”).  
+v19–21: The network of relationships remains active despite Paul’s isolation.  
 
 ##Vocabulary
 

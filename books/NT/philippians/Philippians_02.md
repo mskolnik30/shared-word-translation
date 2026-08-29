@@ -69,6 +69,9 @@ v28: I am all the more eager to send him, therefore, so that you may rejoice at 
 v29: Welcome him then in the Lord with all joy, and honor such people,
 v30: because he came close to death for the work of Christ, risking his life to complete what was lacking in your service to me.
 </p>
-##Notes
+## Notes
+v1–2: Unity is grounded in shared participation in Christ, not enforced agreement. Paul names relational realities before issuing exhortation.
+v3–4: Humility is defined relationally. The call is not self-negation but a reorientation of attention toward others.
+v5: The “mind” of Christ signals a pattern of life to be embodied, not merely admired.
 
 ##Vocabulary

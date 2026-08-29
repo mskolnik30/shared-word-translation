@@ -76,7 +76,27 @@ v37: “For yet a very little while, and the one who is coming will come and wil
 v38: but my righteous one will live by trust, and if they shrink back, my soul takes no pleasure in them.”
 v39: But we are not among those who shrink back to destruction, but among those who have trust to the preserving of the soul.
 </p>
-##Notes
+## Notes
+v1: “shadow… not the true form” — The law’s sacrificial system points beyond itself; repetition signals incompletion, not failure of God’s promise.  
+v3: “reminder of sins” — The sacrifices function as annual memory: they name sin, but they cannot finally remove it.  
+v4: “impossible… to take away sins” — The issue is not sincerity but capacity; animal blood cannot accomplish the deep cleansing humanity needs.  
+v5–7: “a body you prepared for me… to do your will” — The shift is from repeated ritual to embodied obedience; God’s will is carried out in the person of Christ.  
+v10: “made holy… once for all” — Holiness is received, not earned; a single offering decisively sets people apart for God.  
+v12: “he sat down” — The seated Christ signals completion and royal priestly authority; the work is finished, not endlessly repeated.  
+v14: “made complete… those who are being made holy” — A deliberate tension: a decisive status (“made complete”) alongside an ongoing formation (“being made holy”).  
+v16–17: “laws in their hearts… remember… no more” — The new covenant internalizes God’s instruction and ends the sin-accounting; forgiveness is a new relationship, not mere amnesty.  
+v19–20: “confidence… new and living way… through the curtain” — Access to God is opened, not guarded; the barrier imagery becomes a doorway through Christ’s self-giving life.  
+v22: “full assurance of trust… conscience… washed” — Trust has content and consequence: inner cleansing and embodied belonging, not just mental agreement.  
+v23: “the one who promised is trustworthy” — The basis of hope is God’s reliability, not the community’s emotional steadiness.  
+v24: “provoke… to love and good works” — The community is meant to be catalytic; encouragement includes holy agitation toward tangible love.  
+v25: “not neglecting to meet… as you see the Day” — Gathering is framed as mutual strengthening under eschatological pressure; encouragement is a communal discipline, not a consumer preference.  
+v26–27: “sinning deliberately… no longer remains a sacrifice” — The warning targets hardened repudiation, not struggling believers; rejecting the remedy leaves no alternate cure.  
+v29: “trampled… treated as common… insulted the Spirit of grace” — Threefold description of contempt: rejecting Christ’s lordship, profaning covenant blood, and resisting grace itself.  
+v31: “fearful… hands of the living God” — God is not a manageable concept; the living God is morally serious and personally present.  
+v32–34: “remember… endured… compassion… plundering” — The author argues from their history: they have already lived courageous trust, costly solidarity, and joyful relinquishment.  
+v35–36: “do not throw away… need of endurance” — Confidence is something to guard; endurance is not passive waiting but faithful persistence in doing God’s will.  
+v38: “will live by trust” — The core posture is trust-shaped life; shrinking back is portrayed as withdrawal from that posture, not merely fearfulness.  
+v39: “not… shrink back… but… trust” — The closing line names communal identity: a people defined by persevering trust that preserves life.  
 
 ##Vocabulary
 

@@ -114,7 +114,12 @@ v42: And immediately the girl rose and began to walk, for she was twelve years o
 
 v43: And he strictly ordered them that no one should know this, and he told them to give her something to eat.
 </p>
-##Notes
+## Notes
+v9: Naming (“Legion”) reveals multiplicity and occupation.  
+v19: Mission begins at home; restoration leads to witness.  
+v30: Power is depicted as proceeding from Jesus without diminishment.  
+v34: “Saved” (σέσωκέν) holds healing and restoration together.  
+v41: Aramaic is preserved; immediacy of command is emphasized.  
 
 ##Vocabulary
 

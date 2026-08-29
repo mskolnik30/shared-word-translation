@@ -66,7 +66,25 @@ v29: Jesus said to him, “Have you trusted because you have seen me? Blessed ar
 v30: Now Jesus did many other signs in the presence of his disciples, which are not written in this book;
 v31: but these are written so that you may trust that Jesus is the Christ, the Son of God, and so that by trusting you may have life in his name.
 </p>
-##Notes
+## Notes
+v1: “first day… still dark” — Resurrection dawn breaks into darkness; John signals new creation beginning while grief still feels like night.  
+v2: “They have taken the Lord” — Mary assumes theft, not resurrection. The empty tomb is ambiguous without encounter and interpretation.  
+v5–7: linen cloths / face cloth “rolled up” — Details imply intentionality, not hurried grave-robbing; the scene quietly points to resurrection order.  
+v8–9: “he saw and trusted… did not yet understand” — John distinguishes early trust from full comprehension; faith can precede detailed understanding of scripture.  
+v11–13: Mary weeping / angels — The story honors grief; heavenly presence does not scold tears but asks what the tears mean.  
+v15: “Whom are you looking for?” — A recurring Johannine question: desire directs perception. Mary’s longing is real, even if mis-aimed at first.  
+v16: “Mary” — Recognition comes through personal address; resurrection is not only event but relationship restored.  
+v17: “Do not hold on… go to my sisters and brothers” — The risen Jesus redirects attachment toward mission. The disciples are re-named as family, and Jesus’ ascension frames a new mode of presence.  
+v19: “doors locked… fear… Peace” — Resurrection meets anxious enclosure with shalom; Jesus enters not by force but by gift.  
+v20: wounds shown / rejoicing — John holds continuity: the risen Jesus is the crucified Jesus. Joy is grounded in embodied reality.  
+v21: “As… sent… so I send” — Mission flows from the Father’s sending of the Son; the church’s identity is a sent community.  
+v22: “breathed on them” — New-creation imagery (breath/spirit). The Spirit is given as life and vocation, not merely power.  
+v23: forgive/retain sins — The community participates in God’s reconciling work: announcing forgiveness and naming what remains unresolved when repentance is refused. This is pastoral authority meant for restoration, not control.  
+v24–25: Thomas’ demand — Thomas represents honest skepticism and the need for tangible evidence; John does not shame questions but brings them to Jesus.  
+v27: “Do not be faithless, but trusting” — The issue is not intellect but allegiance; Thomas is invited from suspicion to trust.  
+v28: “My Lord and my God!” — John’s high Christology peaks in confession: the risen Jesus is worshiped with divine address.  
+v29: “Blessed… not seen… trusted” — The gospel blesses later believers; trust can be real without direct sight, grounded in apostolic witness.  
+v31: “written so that you may trust… have life” — John states his purpose: signs are selected to generate trust and life—life defined as participation in Jesus’ name and identity.  
 
 ##Vocabulary
 

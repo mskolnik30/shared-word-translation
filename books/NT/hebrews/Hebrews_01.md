@@ -80,7 +80,20 @@ until I make your enemies a footstool for your feet”?
 
 v14: Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?
 </p>
-##Notes
+## Notes
+v1: Revelation is described as varied in form and time.  
+v2: The Son is presented as final and comprehensive.  
+v2: Creation is attributed through the Son.  
+v3: Multiple descriptions accumulate without reduction.  
+v3: Action (“upholds,” “sat down”) follows identity.  
+v4: Superiority is comparative, not absolute in isolation.  
+v5–13: Argument proceeds through citation rather than explanation.  
+v6: Worship is directed toward the Son.  
+v7: Angels are described functionally.  
+v8–9: The Son is addressed directly with royal language.  
+v10–12: Creation is contrasted with permanence.  
+v13: Position at the right hand signifies authority.  
+v14: Angels serve; they are not central actors.  
 
 ##Vocabulary
 

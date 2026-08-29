@@ -138,7 +138,18 @@ v32: so that I may come to you in joy by the will of God and be refreshed togeth
 <p>
 v33: Now the God of peace be with you all. Amen.
 </p>
-##Notes
+## Notes
+v1–3: Strength is expressed through bearing others’ weakness.
+v4: Scripture sustains endurance and hope.
+v5–7: Unity results in unified glorification of God.
+v8–12: Christ fulfills promises and extends mercy to Gentiles.
+v13: Hope is Spirit-empowered.
+v16: Ministry is priestly, offering Gentiles to God.
+v18–19: Mission is Christ-centered and Spirit-empowered.
+v20–21: Priority is unreached regions.
+v25–27: Material support reflects spiritual partnership.
+v30–32: Mission depends on communal prayer.
+v33: Peace frames the conclusion.
 
 ##Vocabulary
 

@@ -94,7 +94,21 @@ v26: When the Helper comes, whom I will send to you from the Father, the Spirit 
 
 v27: And you also bear witness, because you have been with me from the beginning.
 </p>
-##Notes
+## Notes
+v1–2: Fruitfulness is the central criterion of connection to the vine.
+v3: Cleansing is effected through Jesus’ word.
+v4–5: Mutual indwelling defines discipleship.
+v6: Separation from the vine leads to destruction.
+v7–8: Prayer is conditioned by abiding.
+v9–10: Love is maintained through obedience.
+v11: Joy is the intended outcome of obedience and abiding.
+v12–13: Love is defined sacrificially.
+v15: Revelation elevates disciples from servants to friends.
+v16: Election precedes fruit-bearing mission.
+v18–19: Opposition reflects alignment, not failure.
+v22–24: Revelation increases accountability.
+v25: Hatred fulfills scriptural pattern.
+v26–27: The Spirit and the disciples jointly bear witness.
 
 ##Vocabulary
 

@@ -70,7 +70,22 @@ v24: and so do Mark, Aristarchus, Demas, and Luke, my fellow workers.
 
 v25: The grace of the Lord Jesus Christ be with your spirit.
 </p>
-##Notes
+## Notes
+v1–3: Greeting expands beyond individual to household and church.
+v1: Identity is framed through relationship and condition.
+v4–7: Thanksgiving emphasizes observed conduct.
+v6: Effectiveness of faith is tied to recognition.
+v8–9: Authority is present but not exercised directly.
+v10–11: Relationship reframes prior status.
+v12: Personal language intensifies appeal.
+v13–14: Voluntary action is preferred over obligation.
+v15–16: Separation is reinterpreted without certainty.
+v16: Status shift is relational rather than structural.
+v17–19: Substitution is offered without condition.
+v20: Appeal is personal and direct.
+v21: Expectation exceeds explicit request.
+v22: Future visit adds implicit accountability.
+v23–25: Closing maintains relational network.
 
 ##Vocabulary
 

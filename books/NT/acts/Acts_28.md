@@ -130,8 +130,18 @@ v30: And he stayed two whole years in his own rented lodging and was welcoming a
 
 v31: proclaiming the kingdom of God and teaching the things concerning the Lord Jesus Christ with all boldness, without hindrance.
 </p>
-##Notes
-
+## Notes
+v1–2: Deliverance leads to provision and hospitality.  
+v3–6: Divine protection reverses human judgment.  
+v7–10: Healing ministry continues in new context.  
+v14–16: Arrival in Rome fulfills narrative trajectory.  
+v17–20: Paul frames his situation within Israel’s hope.  
+v21–22: Christianity is widely opposed yet not formally defined.  
+v23: Scripture remains the foundation for persuasion.  
+v24–25: Division persists in response to the message.  
+v26–27: Isaiah explains persistent unbelief.  
+v28: Mission focus shifts decisively to Gentiles.  
+v30–31: Narrative concludes with unhindered proclamation.  
 v29: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add that the Jews departed while disputing among themselves. Public verse numbering is retained.
 
 ##Vocabulary

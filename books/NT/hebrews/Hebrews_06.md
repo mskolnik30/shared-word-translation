@@ -52,7 +52,24 @@ v19: We have this as a sure and steadfast anchor of the soul, a hope that enters
 
 v20: where Jesus has gone as a forerunner on our behalf, having become a high priest forever after the order of Melchizedek.
 </p>
-##Notes
+## Notes
+v1–2: Foundational teachings are listed without expansion.  
+v1: Movement toward maturity is assumed, not defined.  
+v3: Progress is conditioned by divine permission.  
+v4–6: Description accumulates without resolving the impossibility.  
+v6: Falling away is framed as reenactment, not mere departure.  
+v7–8: Agricultural imagery contrasts outcomes without explanation.  
+v8: Worthlessness leads to destruction; process is not described.  
+v9: Tone shifts from warning to assurance.  
+v10: Divine justice includes recognition of action.  
+v11–12: Diligence is sustained over time.  
+v12: Inheritance is linked to both faith and patience.  
+v13–15: Example is introduced without narrative detail.  
+v16: Oath establishes certainty in human terms.  
+v17–18: Divine assurance is emphasized through repetition.  
+v18: Refuge is conceptual rather than spatial.  
+v19: Hope is described metaphorically.  
+v20: Access is mediated; role is defined through prior category.  
 
 ##Vocabulary
 

@@ -54,7 +54,16 @@ v11: To this end we always pray for you, that our God may make you worthy of his
 
 v12: so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.
 </p>
-##Notes
+## Notes
+v3: Growth is emphasized in both faith and love. Development, not mere stability, marks the community.  
+v4: Endurance under persecution becomes the ground of boasting, redefining honor.  
+v5: Suffering is interpreted as participation in the kingdom, not contradiction of it.  
+v6–7: Divine justice is reciprocal. Affliction and relief are reversed across time.  
+v7–8: Revelation of Jesus is described in apocalyptic terms, emphasizing visibility and authority.  
+v8: Judgment is framed relationally (“do not know God”) and ethically (“do not obey”).  
+v9: “Destruction” is defined as separation from the presence of the Lord.  
+v10: The focus shifts from judgment to glorification. Believers participate in the display of Christ’s glory.  
+v11–12: Worthiness is both given and enacted. Prayer seeks alignment between calling and conduct.  
 
 ##Vocabulary
 

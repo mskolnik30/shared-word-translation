@@ -92,7 +92,17 @@ v24: But the word of God was increasing and multiplying.
 
 v25: And Barnabas and Saul returned from Jerusalem when they had completed their service, taking with them John, who is called Mark.
 </p>
-##Notes
+## Notes
+v1–3: Political violence aligns with popular approval.  
+v5: Corporate prayer contrasts with imprisonment.  
+v7–10: Deliverance occurs through divine intervention without resistance.  
+v11: Recognition follows deliverance.  
+v12–16: Community response mixes faith and disbelief.  
+v17: Leadership communication ensures continuity.  
+v18–19: Human authority fails to control outcomes.  
+v23: Judgment falls on refusal to glorify God.  
+v24: The word advances despite opposition.  
+v25: Mission continues through returning workers.  
 
 ##Vocabulary
 

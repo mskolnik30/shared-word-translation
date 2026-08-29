@@ -100,7 +100,21 @@ v30: But he said, ‘No, father Abraham, but if someone goes to them from the de
 
 v31: But he said to him, ‘If they do not hear Moses and the Prophets, neither will they be persuaded if someone rises from the dead.’”
 </p>
-##Notes
+## Notes
+v1–8: The steward is commended for shrewdness, not dishonesty; foresight is the focus.
+v9: “Wealth of unrighteousness” is to be redirected toward eternal ends.
+v10–12: Faithfulness in small matters reveals character for greater trust.
+v13: Divided allegiance is impossible; loyalty is exclusive.
+v14–15: External justification contrasts with divine knowledge of the heart.
+v16: Transition from Law to kingdom proclamation marks a shift in emphasis, not abolition.
+v17: The Law’s enduring validity is affirmed.
+v18: Ethical instruction is stated without elaboration, emphasizing seriousness.
+v19–21: The contrast between abundance and neglect frames the parable.
+v22–23: Reversal occurs after death, not within the present life.
+v25: Memory becomes part of judgment.
+v26: Separation is fixed and irreversible.
+v29: Scripture is sufficient witness.
+v31: Refusal to hear Scripture anticipates refusal to believe resurrection.
 
 ##Vocabulary
 

@@ -142,7 +142,16 @@ v35: “Or who has given to him first, and it will be repaid to him?”
 <p>
 v36: For from him and through him and to him are all things. To him be the glory forever. Amen.
 </p>
-##Notes
+## Notes
+v1–2: God’s covenantal faithfulness remains intact.
+v5–6: Grace excludes works as a basis.
+v7–10: Hardening fulfills Scripture.
+v11–15: Israel’s rejection serves Gentile inclusion and future restoration.
+v16–24: Olive tree imagery explains inclusion and warning.
+v25–27: Mystery involves partial hardening and future salvation.
+v28–29: Election and promise remain operative.
+v32: Universal disobedience sets stage for universal mercy.
+v33–36: Theology culminates in doxology.
 
 ##Vocabulary
 

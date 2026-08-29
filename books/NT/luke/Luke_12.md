@@ -196,7 +196,27 @@ v58: For as you go with your accuser to the magistrate, make an effort to settle
 
 v59: I tell you, you will certainly not come out from there until you have paid the last coin.”
 </p>
-##Notes
+## Notes
+v1: Hypocrisy is described as “leaven,” indicating hidden but pervasive influence.
+v2–3: Revelation reverses secrecy; hidden speech becomes public exposure.
+v4–5: Fear is redirected from human threat to divine authority.
+v6–7: Divine care is detailed and personal, grounding the command not to fear.
+v8–9: Public acknowledgment carries eschatological consequence.
+v10: Distinction is made between speaking against the Son of Man and blaspheming the Spirit.
+v11–12: The Spirit provides speech under pressure, not pre-scripted defense.
+v15: Life is explicitly detached from possession.
+v16–21: The rich fool’s error is self-reference without reference to God.
+v20: Death interrupts assumed continuity of control.
+v22–31: Anxiety is countered by creation analogies and trust in the Father’s knowledge.
+v31: The kingdom is the organizing priority that reorders need.
+v32: The kingdom is given, not achieved.
+v33–34: Treasure language links economic practice to inner orientation.
+v35–40: Watchfulness is active readiness, not passive waiting.
+v42–48: Accountability increases with knowledge and entrusted responsibility.
+v49–50: Fire and baptism frame Jesus’ mission as both judgment and suffering.
+v51–53: Division is presented as a consequence of allegiance, not its goal.
+v56: Failure to interpret the present moment is called hypocrisy.
+v57–59: Urgency in reconciliation reflects impending judgment.
 
 ##Vocabulary
 

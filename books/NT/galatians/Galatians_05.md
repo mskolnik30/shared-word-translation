@@ -69,7 +69,18 @@ v24: And those who belong to Christ Jesus have crucified the flesh with its pass
 v25: If we live by the Spirit, let us also walk by the Spirit.
 v26: Let us not become conceited, provoking one another, envying one another.
 </p>
-##Notes
+## Notes
+v1: The double sense of freedom is preserved—both the destination (“for freedom”) and the means (Christ has set us free). The verse reads as a thesis for the rest of the letter.
+v4: “Severed” (κατηργήθητε) is a strong term; it names being cut off from a relation rather than merely losing a benefit.
+v6: “Faith working through love” (πίστις δι’ ἀγάπης ἐνεργουμένη) holds together what later traditions sometimes set against each other. Faith is named as active, and love is named as the medium of faith’s activity.
+v9: The leaven proverb appears also in 1 Corinthians 5. The image is contagion—small influence spreading through the whole.
+v12: A jarring sentence. Paul’s polemic is sharp; the translation does not soften the wordplay (those calling for circumcision should go further and emasculate themselves).
+v13: The same word for slavery (δουλεία) named in v.1 returns here as “serve.” The opposition is not between freedom and service, but between two kinds of binding.
+v14: Paul cites Leviticus 19:18 as a summary of the law. The single word that fulfills the whole is “neighbor.”
+v17: The conflict described is real but not deterministic; the translation renders the result clause without softening (“to keep you from doing the things you would”).
+v19–21: The list of vices is representative, not exhaustive. The closing phrase “things like these” signals openness.
+v22–23: The fruit is singular (καρπός) and the qualities are not separate fruits but facets of one. The list resists segmentation.
+v24: Crucifixion language is used as an event in the past tense; what was once future demand is named as accomplished reality.
 
 ##Vocabulary
 

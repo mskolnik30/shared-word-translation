@@ -74,7 +74,19 @@ v19: holding faith and a good conscience. By rejecting this, some have suffered 
 
 v20: among whom are Hymenaeus and Alexander, whom I have handed over to Satan so that they may be taught not to blaspheme.
 </p>
-##Notes
+## Notes
+v3–4: False teaching is characterized by deviation (“different doctrine”) and distraction (“myths…genealogies”).  
+v5: The aim of instruction is relational and ethical—love grounded in inner integrity.  
+v6–7: Misuse of the law arises from lack of understanding combined with confidence.  
+v8–9: The law is affirmed as good but limited in function.  
+v9–10: The list reflects behaviors contrary to ordered life, not an exhaustive catalog.  
+v11: The good news frames the law, not the reverse.  
+v12–13: Paul’s past is acknowledged fully. Mercy is grounded in ignorance, not innocence.  
+v14: Grace is described as overflowing, paired with faith and love.  
+v15: “Foremost” is not comparative ranking but rhetorical emphasis.  
+v16: Paul’s life functions as an example of divine patience.  
+v18–19: Faith and conscience are linked. Their rejection results in collapse (“shipwreck”).  
+v20: Discipline is severe but corrective in aim (“that they may be taught”).  
 
 ##Vocabulary
 

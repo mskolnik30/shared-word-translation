@@ -97,7 +97,20 @@ v45: And they were selling their possessions and belongings and distributing the
 v46: And day by day, attending the temple together and breaking bread in their homes, they received their food with gladness and simplicity of heart,
 v47: praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved.
 </p>
-##Notes
+## Notes
+v1–4: The Spirit’s coming is marked by sensory imagery—sound, sight, speech—without collapsing into explanation.  
+v6–8: The miracle is heard as much as seen; understanding occurs within each listener’s own language.  
+v12–13: Wonder and dismissal coexist; the same event generates divergent interpretations.  
+v17–21: Joel’s prophecy frames the moment as expansive—across age, gender, and status—without narrowing its scope.  
+v23: Divine purpose and human responsibility are held together without resolution.  
+v24: “It was not possible” expresses necessity without specifying mechanism.  
+v29–31: Peter interprets David not as speaking of himself but beyond himself, reframing scripture through resurrection.  
+v33: The visible event (Pentecost) is interpreted as evidence of exaltation.  
+v36: The declaration “Lord and Christ” gathers authority and identity into a single claim.  
+v37: “Pierced to the heart” signals recognition that is both emotional and moral.  
+v38: Repentance and baptism are paired as response; forgiveness and the Spirit are given, not achieved.  
+v39: The promise extends outward without defined boundary, grounded in divine calling.  
+v42–47: The community is described through practices rather than structure; devotion precedes organization.  
 
 ##Vocabulary
 

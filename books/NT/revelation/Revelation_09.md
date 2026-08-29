@@ -54,7 +54,25 @@ v20: The rest of mankind, who were not killed by these plagues, did not repent o
 
 v21: nor did they repent of their murders or their sorceries or their sexual immorality or their thefts.
 </p>
-##Notes
+## Notes
+v1: The “star” is described as fallen and then acts, leaving identity undefined.
+v2: Smoke obscures light, reversing expected order of revelation.
+v3: Locust imagery draws from known patterns but exceeds them in form and function.
+v4: Harm is restricted; those sealed are distinguished without visible explanation here.
+v5–6: Torment is limited in duration but intensified in experience.
+v6: Death becomes inaccessible, not absent.
+v7–10: Composite imagery resists singular identification; description accumulates rather than clarifies.
+v11: Naming (Abaddon/Apollyon) identifies function (“destroyer”) rather than origin.
+v12: “Woe” structures the sequence, marking escalation.
+v13: The voice comes from the altar, linking judgment to prior offering.
+v14: Release follows prior restraint; timing is governed rather than spontaneous.
+v15: Specificity of time underscores intentionality.
+v16: The number is heard, not verified by sight.
+v17–18: Plagues proceed from the creatures themselves, not external forces.
+v19: Power is duplicated (mouth and tail), extending capacity rather than concentrating it.
+v20–21: Lack of repentance is emphasized despite severity; response does not match event.
+v20: Idols are described by material and limitation, not by name.
+v21: Actions are listed without hierarchy, presenting a pattern rather than sequence.
 
 ##Vocabulary
 

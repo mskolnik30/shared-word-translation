@@ -108,7 +108,26 @@ v45: Then he will answer them, saying, ‘Truly, I say to you, as you did not do
 
 v46: And these will go away into eternal punishment, but the righteous into eternal life.”
 </p>
-##Notes
+## Notes
+v1: Eschatological delay reframes readiness as sustained preparedness.  
+v3–4: Oil functions as non-transferable readiness resource.  
+v10: Entry determined by readiness at moment of arrival.  
+v12: Recognition language tied to relational knowledge, not proximity.  
+v13: Watchfulness grounded in epistemic limitation.  
+v14: Entrustment proportional, not equal—based on capacity.  
+v19: Delay introduces accountability interval.  
+v21–23: Faithfulness evaluated relative to assignment, not scale.  
+v24–25: Misperception of master produces inaction.  
+v26–27: Judgment exposes internal inconsistency.  
+v29: Kingdom economy operates on intensification, not equilibrium.  
+v30: Exclusion framed in spatial and sensory imagery.  
+v31: Son of Man assumes judicial kingship.  
+v32: Universal scope—“all nations.”  
+v34: Kingdom prepared prior to human action.  
+v35–36: Ethical response defined concretely and relationally.  
+v40: Identification of the king with “the least” is decisive.  
+v41: Parallel structure of blessing and curse.  
+v46: Binary outcome—eternal punishment vs eternal life.  
 
 ##Vocabulary
 

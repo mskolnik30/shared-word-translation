@@ -53,7 +53,26 @@ v18: And if “the righteous are scarcely saved,” where will the ungodly and t
 <p>
 v19: Therefore let those who suffer according to God’s will entrust their lives to a faithful Creator while doing good.
 </p>
-##Notes
+## Notes
+v1: “arm yourselves… same purpose” — Suffering is framed as spiritual formation and resolve; the posture is not victimhood but disciplined allegiance shaped by Christ.  
+v1: “ceased from sin” — Not sinless perfection, but a break in sin’s ruling power; suffering can clarify loyalties and interrupt old patterns.  
+v2: “no longer… passions… but… will of God” — The core shift is re-directed desire: embodied life is re-aimed toward God’s will.  
+v3: “time… is enough” — Peter legitimizes a clean break from former ways; disciples do not need to keep proving they can “fit in.”  
+v4: “they speak evil of you” — Social backlash is expected; refusing the old flood feels like judgment to those still caught in it.  
+v5: “give account” — The moral horizon is eschatological: final accountability belongs to God, so believers do not need to repay slander with retaliation.  
+v6: “good news… to the dead” — A difficult line; it affirms God’s reach beyond human limits and frames judgment as not the last word for God’s saving purpose.  
+v7: “end… drawn near… clear-minded… for prayers” — Nearness of the end fuels sobriety and prayerful attentiveness, not panic.  
+v8: “love covers a multitude of sins” — Love is not denial; it is the covenant practice of forgiveness, restraint, and repairing rather than exposing for sport.  
+v9: “hospitality… without grumbling” — Open homes test the heart; welcome is spiritual discipline, not mere friendliness.  
+v10: “gift… serve… stewards” — Gifts are entrusted resources for the body’s good, not personal platforms; grace is varied and distributed.  
+v11: “speaks… words of God… serves… strength God supplies” — Ministry is framed as dependent: speaking with reverence and serving from God’s provision so that glory returns to God.  
+v12: “fiery ordeal… to test you” — Trials are interpreted as refining rather than absurd; the surprise is not suffering, but the temptation to treat it as abnormal.  
+v13: “share… rejoice” — Joy is tethered to participation with Christ and future revelation; it is not joy in pain but joy in belonging and coming vindication.  
+v14: “insulted… Spirit… rests on you” — Shame is reversed: the Spirit’s presence marks dishonored believers as blessed.  
+v15: “not… as murderer… thief… meddler” — Peter distinguishes faithful suffering from consequences of wrongdoing; not all suffering is sanctifying.  
+v16: “as a Christian… not ashamed” — Identity becomes the battleground: believers are called to resist shame and to honor God openly.  
+v17: “judgment… begins at the house of God” — God’s purifying evaluation starts with God’s own people; holiness is not optional.  
+v19: “entrust… faithful Creator… while doing good” — The final posture: radical trust and steady obedience—hand your life to God and keep doing the good that love requires.  
 
 ##Vocabulary
 

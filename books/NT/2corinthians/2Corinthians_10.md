@@ -58,7 +58,21 @@ v17: “Let the one who boasts, boast in the Lord.”
 
 v18: For it is not the one who commends himself who is approved, but the one whom the Lord commends.
 </p>
-##Notes
+## Notes
+v1: Paul invokes “meekness and gentleness” as the basis of appeal, reframing strength away from dominance.  
+v1–2: The contrast between presence and absence reflects accusations against Paul. He does not deny the perception but reinterprets it.  
+v3–4: “According to the flesh” defines the mode of conflict. Paul distinguishes embodied existence from fleshly methods.  
+v4: “Strongholds” are not specified as physical or mental, leaving the scope open.  
+v5: The movement from arguments to thoughts shifts from public reasoning to internal orientation.  
+v6: Discipline is conditional. Communal obedience precedes corrective action.  
+v7: “What is before your eyes” suggests that perception itself is at issue.  
+v8: Authority is defined teleologically—given “for building up,” not self-assertion.  
+v9–10: The reported critique separates Paul’s letters from his presence. The tension is acknowledged without resolution.  
+v11: Consistency between speech and action is asserted, not demonstrated.  
+v12: Self-comparison is treated as a closed system that produces distortion.  
+v13–14: “Measure” and “sphere” establish boundaries for ministry, resisting expansion through appropriation.  
+v15–16: Expansion is tied to the community’s growth, not competitive ambition.  
+v17–18: Boasting is redirected from self-commendation to divine commendation.  
 
 ##Vocabulary
 

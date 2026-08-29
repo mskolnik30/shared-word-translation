@@ -100,7 +100,16 @@ v28: Him we proclaim, warning everyone and teaching everyone with all wisdom, so
 
 v29: For this I labor, striving according to his working that works in me in power.
 </p>
-##Notes
+## Notes
+v5–6: Hope, faith, and love are linked causally. Hope grounds the others rather than follows them.  
+v9–10: Knowledge is not abstract but directed toward “walking worthy.”  
+v13: Salvation is framed as transfer of domain, not only forgiveness.  
+v15–18: Christ’s identity is cosmic and ecclesial. Creation and church are held together.  
+v16: “Through him” and “for him” establish both agency and purpose.  
+v18: “Firstborn from the dead” connects resurrection with new creation.  
+v19–20: Reconciliation extends to “all things,” without explanation of scope or limitation.  
+v24: “Fill up what is lacking” introduces tension without explanation.  
+v27: “Christ in you” reverses expectation—presence within rather than distance.  
 
 ##Vocabulary
 

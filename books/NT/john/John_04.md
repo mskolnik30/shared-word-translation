@@ -96,7 +96,19 @@ v52: So he asked them the hour when he began to recover, and they said to him, �
 v53: The father realized that this was the hour when Jesus had said to him, “Your son lives.” So he himself trusted, along with his whole household.
 v54: Now this was the second sign that Jesus did after coming from Judea to Galilee.
 </p>
-##Notes
+## Notes
+v4: had to pass through Samaria — Signals narrative necessity rather than geography alone; the verb carries theological weight in John.  
+v10: living water — Intentionally ambiguous; can denote flowing water or life-giving water. The double sense is preserved.  
+v14: in them — Interior language emphasizes indwelling rather than external provision.  
+v18: not your husband — States relational fact without moral commentary; avoids interpretive expansion.  
+v21: the hour is coming — Johannine eschatological marker; collapse of future and present begins here.  
+v23: spirit and truth — Not oppositional to place but redefines worship as participation in God’s own life and reality.  
+v26: I am — Absolute self-identification (ἐγώ εἰμι); echoes divine self-disclosure without explicit title.  
+v34: my food — Metaphor for obedience and alignment with God’s sending purpose.  
+v35: fields are ripe — Visual immediacy; urgency grounded in present readiness, not future expectation.  
+v42: Savior of the world — Expansive confession voiced by Samaritans; boundary-crossing christological claim.  
+v48: signs and wonders — Critique of trust dependent on proof rather than word.  
+v50: trusted the word — Trust precedes verification; belief is grounded in hearing, not seeing.  
 
 ##Vocabulary
 

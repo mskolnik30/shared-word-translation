@@ -33,7 +33,19 @@ v12: For though by this time you ought to be teachers, you need someone to teach
 v13: For everyone who lives on milk is inexperienced in the word of righteousness, since they are a child.
 v14: But solid food is for the mature—for those whose powers of discernment have been trained by practice to distinguish good from evil.
 </p>
-##Notes
+## Notes
+v1: “appointed… on behalf of mortals” — Priesthood is representative: a mediator stands with people before God, carrying gifts and sins into worship.  
+v2: “deal gently… surrounded by weakness” — The capacity for gentleness is grounded in shared frailty; spiritual leadership is disqualified by contempt.  
+v3: “for their own sins” — Human priests are not saviors; they require atonement too. The system itself confesses the mediator’s limits.  
+v4: “called by God” — Authority in worship is vocational, not self-asserted; the role is received as a calling, not seized as a status.  
+v5–6: “Christ… appointed… priest forever… Melchizedek” — Jesus’ priesthood is rooted in divine appointment and enduring scope; it is not temporary, hereditary, or merely institutional.  
+v7: “loud cries and tears… he was heard” — Jesus’ prayer is embodied and anguished; being “heard” does not mean avoidance of suffering, but faithful reception and vindication through the Father.  
+v8: “learned obedience through what he suffered” — Not moral improvement from disobedience, but obedience fully enacted under real pressure; suffering becomes the arena of faithful trust.  
+v9: “made complete… source of eternal salvation” — “Complete” signals vocational completion—fully qualified as priest and redeemer; salvation is durable and life-giving.  
+v9: “for all who obey him” — Hebrews links trust and obedience: saving relationship is not mere assent but allegiance expressed in lived faithfulness.  
+v11–12: “dull in hearing… need milk” — The problem is not lack of information but stalled receptivity; regression requires relearning the basics.  
+v13: “word of righteousness” — Maturity is moral and practical: learning God’s ways in a manner that reshapes life, not just expands knowledge.  
+v14: “trained by practice” — Discernment is cultivated skill, developed through repeated obedience; maturity grows by doing, not only by studying.  
 
 ##Vocabulary
 

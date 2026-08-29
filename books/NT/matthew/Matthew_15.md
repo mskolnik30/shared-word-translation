@@ -106,7 +106,19 @@ v38: Those who ate were four thousand men, besides women and children.
 
 v39: And after sending away the crowds, he got into the boat and went to the region of Magadan.
 </p>
-##Notes
+## Notes
+v3–6: Tradition becomes distortion when it overrides explicit command; “Corban”-type logic nullifies obligation.  
+v8–9: External conformity without internal alignment is treated as emptiness, not partial obedience.  
+v11: Defilement redefined from ritual impurity to moral output rooted in the heart.  
+v13–14: Illegitimate authority structures are temporary; blindness is both condition and leadership failure.  
+v17–20: Internal source (heart) governs ethical consequence; speech reveals interior reality.  
+v24: Mission priority articulated without denying future expansion.  
+v26–27: Tension language tests persistence; metaphor reframed by the woman rather than rejected.  
+v28: Faith identified with persistence, humility, and clarity of appeal.  
+v31: Healing results in glorifying “the God of Israel,” marking outsider inclusion.  
+v32: Compassion includes foresight; physical need is not secondary.  
+v36: “Give thanks” parallels earlier feeding; pattern consistency reinforces meaning.  
+v37: Numerical variation (seven baskets) signals distinct event, not duplication.  
 
 ##Vocabulary
 

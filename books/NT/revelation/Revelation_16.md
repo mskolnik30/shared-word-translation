@@ -62,7 +62,24 @@ v20: And every island fled away, and no mountains were to be found.
 
 v21: And great hailstones, about a talent in weight, fell from heaven on people, and they cursed God for the plague of the hail, because the plague was exceedingly great.
 </p>
-##Notes
+## Notes
+v1: Command originates from the sanctuary; action proceeds from presence.
+v2: The mark distinguishes recipients; effect is targeted, not universal.
+v3: The sea is transformed fully; life within it is extinguished.
+v4–6: Judgment is interpreted within the vision itself; response affirms justice.
+v6: Reciprocity (“blood for blood”) is stated without mitigation.
+v7: The altar joins the declaration, linking prior sacrifice and present judgment.
+v8–9: Authority over plagues is acknowledged but resisted; no repentance follows.
+v10–11: Darkness affects the seat of power; response remains unchanged.
+v12: Drying of the river prepares rather than concludes.
+v13–14: Spirits function as agents of gathering, not independent actors.
+v15: Interruption addresses the reader directly; vigilance is emphasized.
+v16: The place is named but not explained.
+v17: Finality is declared (“It is done”) before full description unfolds.
+v18: Cosmic disturbance exceeds prior events without comparison.
+v19: Babylon is remembered, not introduced.
+v20: Geography is undone; stability is removed.
+v21: Severity increases; response remains resistance rather than repentance.
 
 ##Vocabulary
 

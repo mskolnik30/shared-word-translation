@@ -142,9 +142,34 @@ v54: And when they got out of the boat, people at once recognized him,
 v55: and ran about that whole region and began to bring the sick on mats to wherever they heard he was.
 v56: And wherever he entered villages, or cities, or countryside, they laid the sick in the marketplaces and begged him that they might touch even the fringe of his cloak; and all who touched it were healed.
 </p>
-##Notes
+## Notes
+v1–3: Jesus returns to his hometown, but recognition does not lead to trust. Familiarity becomes a stumbling block. The questions asked by the crowd are not neutral; they register astonishment mixed with resistance.
+v3: “The carpenter” preserves the ordinary social location assigned to Jesus. “Son of Mary” may simply identify him through family relation, though the wording remains striking in a culture where paternal identification was more common.
+v4: Jesus speaks a proverb rather than a defense. Rejection is named as part of the prophetic pattern, and the narrowing circles—hometown, kin, house—intensify the nearness of the offense.
+v5–6: The text does not explain the relation between unbelief and the limitation of deeds of power. It leaves the tension in place. Jesus heals some, yet the setting remains marked by resistance.
 
+v6b–9: The sending of the twelve is communal and stripped down. Their dependence is not accidental but integral to the mission. The instructions preserve urgency and vulnerability together.
+v10–11: Hospitality and refusal are both anticipated. The shaking off of dust functions as a testimony rather than an act of revenge.
+v12–13: Proclamation, exorcism, anointing, and healing are held together. Repentance is announced not as abstraction but in the midst of embodied restoration.
+v14–16: Herod hears reports of Jesus through a field of speculation. The repeated attempts to identify Jesus signal both his growing public significance and the inadequacy of easy explanation.
+v17–20: John’s imprisonment is political and personal at once. Herod is divided: he fears John, protects him, is perplexed by him, and yet continues to listen to him.
+v21–29: The banquet scene exposes how power, spectacle, oath, and public pressure converge. John’s death is narrated without embellishment, which sharpens rather than softens its force.
 v22: Some manuscripts read “his daughter Herodias,” while others may imply “the daughter of Herodias.” The main text follows the traditional reading without pressing the issue beyond what the text permits.
+v29: John’s disciples perform the burial that Herod’s court would not. The action is brief and dignified.
+v30: Mark briefly names the returning disciples as apostles, emphasizing those who were sent and now return to report. Doing and teaching are paired without evaluation, holding action and accountability together.
+v31: Jesus invites them to withdraw together to rest, yet the rest named is limited and fragile. Ongoing demand presses so heavily that basic needs, even eating, are disrupted.
+v32: The boat becomes a space of movement and attempted separation. The “deserted place” is sought as a place of withdrawal, though not secured.
+v33: The crowd recognizes Jesus and responds with urgency. Their movement overtakes the disciples’ attempt at rest, creating tension without commentary.
+v34: Jesus’ response begins with seeing, then compassion. The crowd is described as vulnerable rather than blameworthy. Teaching follows compassion, even as the earlier need for rest remains unresolved.
+v35–37: The disciples name the practical problem accurately, but Jesus places responsibility back into their hands. The command, “You give them something to eat,” exposes both their limits and the scope of the need.
+v38–40: The smallness of what they have is not denied. The ordered seating on the green grass gives shape to the crowd and prepares for shared provision rather than chaos.
+v41: The sequence—took, blessed, broke, gave—carries the force of deliberate action without requiring later sacramental conclusions to be imposed upon the scene.
+v42–44: The meal is sufficient for all. The count of “five thousand men” likely reflects an ancient mode of numbering rather than the full composition of the crowd.
+v45–46: Jesus sends the disciples ahead and dismisses the crowd, then withdraws alone to pray. Solitude here follows both ministry and miracle.
+v48: “He intended to pass by them” is left as written. The phrase may evoke divine self-disclosure, but the text does not explain it directly and should not be reduced to mere indifference.
+v50: “I am” preserves the compact force of the Greek and allows both ordinary reassurance and deeper resonance to remain open in the hearing.
+v51–52: The disciples’ astonishment is tied not only to the storm but also to their failure to understand the loaves. The chapter links bread, fear, and perception more tightly than they themselves yet grasp.
+v53–56: The closing scene gathers villages, cities, and countryside into one widening field of response. The urgency of the crowds continues, but now the emphasis falls on recognition, touch, and healing.
 
 ##Vocabulary
 

@@ -70,7 +70,21 @@ v20: Therefore we are ambassadors for Christ, since God is making an appeal thro
 
 v21: The one who knew no sin, God made to be sin for us, so that in him we might become the righteousness of God.
 </p>
-##Notes
+## Notes
+v1–3: The contrast between “tent” and “building” frames mortality and permanence. The language remains metaphorical rather than descriptive.  
+v4: Paul clarifies that the desire is not disembodiment but transformation. “Swallowed up by life” emphasizes completion, not escape.  
+v5: The Spirit is again described as a “first pledge,” linking present experience to future fulfillment.  
+v6–8: Confidence coexists with absence. Presence with the Lord is desired, but life in the body remains the present condition.  
+v10: Judgment is stated plainly and universally. Paul does not elaborate criteria, leaving the tension intact.  
+v11: “Fear of the Lord” functions as motivation for persuasion, not as private piety alone.  
+v12: The issue of boasting is reframed as a defense against superficial measures of authority.  
+v13: Paul acknowledges perceptions of instability but interprets them in relation to God and the community.  
+v14–15: Christ’s death is described as representative and transformative. The conclusion (“therefore all have died”) is stated without qualification.  
+v16: Perception “according to the flesh” is set aside. A new mode of regard is implied but not fully defined.  
+v17: “New creation” is stated as reality, not process, even as its implications unfold.  
+v18–19: Reconciliation is initiated by God and extended outward. The community participates by carrying the message, not originating it.  
+v20: The language of ambassadorship emphasizes representation. The appeal is God’s, mediated through human speech.  
+v21: The exchange is stated starkly. Paul does not explain how this occurs, preserving the density of the claim.  
 
 ##Vocabulary
 

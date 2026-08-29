@@ -116,7 +116,27 @@ v38: But new wine must be put into fresh wineskins.
 
 v39: And no one drinking old wine desires new, for he says, ‘The old is good.’”
 </p>
-##Notes
+## Notes
+v1: Luke identifies Jesus’ teaching as “the word of God,” giving his speech prophetic and divine weight from the outset of the scene.
+v4–5: Simon’s obedience follows failed labor. The catch is not a reward for skill but a response to Jesus’ word.
+v8: Peter’s confession of sin arises before Jesus’ holiness and abundance; miracle produces humility rather than self-confidence.
+v10: “Catching people” redirects Simon’s vocation without severing it from his former life.
+v11: “Leaving everything” repeats the cost of discipleship in concrete form.
+v12: The man is “full of leprosy,” intensifying both his condition and the significance of Jesus’ touch.
+v13: Jesus heals by touch and word together, crossing the boundary of uncleanness without becoming unclean.
+v14: The command to show himself to the priest honors Torah rather than bypassing it.
+v15–16: Growing public demand is met by Jesus’ withdrawal for prayer; ministry and solitude are held together.
+v17: The gathered authorities widen the conflict from local curiosity to regional scrutiny.
+v20: Jesus responds to “their faith,” making the friends’ action part of the healing scene.
+v21: The charge of blasphemy turns the healing into a question of divine authority.
+v24: “Son of Man” is linked to authority on earth, especially authority to forgive sins.
+v25–26: The healed man’s movement and the crowd’s praise make forgiveness visible through bodily restoration.
+v27–28: Levi’s call mirrors the fishermen’s call: Jesus speaks, the called one leaves, rises, and follows.
+v29–32: Table fellowship becomes a visible sign of Jesus’ mission to sinners.
+v32: Repentance here is not opposed to grace; it is the form taken by Jesus’ call.
+v34–35: Fasting is interpreted by the presence or absence of the bridegroom, not by abstract religious regularity.
+v36–38: The garment and wineskin images warn against forcing the new work of Jesus into old structures.
+v39: The final saying preserves resistance to the new; preference for the old is named without immediate condemnation.
 
 ##Vocabulary
 

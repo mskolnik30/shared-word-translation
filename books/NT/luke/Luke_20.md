@@ -156,7 +156,17 @@ v46: “Beware of the scribes, who desire to walk around in long robes and love 
 
 v47: who devour the houses of widows and for appearance make long prayers; these will receive greater condemnation.”
 </p>
-##Notes
+## Notes
+v1–8: Authority is contested through counter-question, exposing unwillingness to answer truthfully.
+v9–16: The vineyard parable indicts leadership through narrative of rejection and violence.
+v13: The “beloved son” introduces escalation and final appeal.
+v17–18: The rejected stone becomes central, reversing expectation.
+v20–26: The tax question attempts entrapment but results in distinction of spheres.
+v25: Obligation to God is not diminished by civic obligation.
+v27–36: Resurrection is described as transformation, not continuation of present structures.
+v37–38: Scripture is interpreted to affirm present life before God.
+v41–44: The identity of the Christ exceeds simple lineage categories.
+v45–47: Public piety is exposed when paired with exploitation.
 
 ##Vocabulary
 
