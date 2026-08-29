@@ -61,7 +61,10 @@ v12: For you will put them to flight;
 v13: Be exalted, LORD, in your strength;
     we will sing and praise your power.
 </p>
-##Notes
+## Notes
+v02: "Desire of his heart" and "request of his lips" emphasize a harmonious alignment between the king's expressed wishes and God's gracious response.
+v05: "Glory," "majesty," and "splendor" contribute to the elevated portrayal of the king, underscoring divine favor as the source of true kingly authority.
+v06: "Most blessed forever" indicates divine favor and the enduring legacy conferred by divine presence and blessing.
 
 ##Vocabulary
 

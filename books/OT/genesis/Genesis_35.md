@@ -93,5 +93,6 @@ v11: The promise expands from a single nation to a company of nations and future
 v14–15: Jacob responds with worship, memorializing the place where God spoke with him.
 v16–20: Benjamin's birth is intertwined with Rachel's death. Joy and sorrow arrive together.
 v18: Rachel's name for her son reflects her suffering, while Jacob's name points toward future hope and strength.
+v27–29: Isaac's death closes another generation of the patriarchal story. Esau and Jacob are united in honoring their father.
 
 ##Vocabulary

@@ -99,5 +99,10 @@ v12–13: The younger son’s departure is described spatially and relationally.
 v14–16: Hunger becomes the turning point. Luke does not present moral awakening first, but embodied need. The son’s degradation is total: famine, foreign land, unclean animals, and isolation converge without rescue.
 v17: “He came to himself” signals recovery of identity before repentance. The movement toward home begins not with guilt, but with remembered belonging.
 v18–19: The son’s rehearsed speech is carefully structured, naming sin against heaven and father, and requesting reduced status. Luke presents it as sincere, but incomplete—it anticipates survival, not restoration.
+v22–23: The father narrates the son’s condition as death and resurrection, loss and recovery. Identity is re-named by the father, not negotiated by the son.
+v24–26: The elder son is introduced outside the celebration. His distance mirrors the earlier complaint of the Pharisees and scribes. Music and dancing become sounds of exclusion rather than invitation.
+v27–29: The elder son’s anger is rooted in comparison and accounting. His language reduces relationship to labor and reward. Notably, he speaks of “this son of yours,” refusing familial language.
+v30: The father addresses him as “child,” affirming belonging without contesting the complaint. Presence, not performance, is named as the elder son’s inheritance.
+v31: The final line reframes necessity: celebration is not optional sentiment but required response. The story ends without resolution, leaving the listener—especially the grumbling ones—inside the unanswered question of whether they will enter the joy.
 
 ##Vocabulary
