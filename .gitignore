@@ -1,0 +1,11 @@
+# Python-generated files
+__pycache__/
+*.pyc
+
+# TSW notes recovery generated reports/backups
+audit/NOTES_HISTORY_COUNTS.csv
+audit/notes_recovery/
+audit/notes_recovery_backups/
+
+# Temporary recovery-script backups
+*.before-conflict-fix
