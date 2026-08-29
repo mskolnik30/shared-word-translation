@@ -45,6 +45,20 @@ v05: 5 — “the messenger”: The Hebrew *malʾakh* can mean an angelic messen
 
 ##Vocabulary
 
+v3: — נֶדֶר (*neder*), “vow”:: A vowed commitment to God is not treated as casual speech. The passage emphasizes that words spoken before God create a real obligation.  
+
+v5: — מַלְאָךְ (*malʾakh*), “messenger”:: The term retains ambiguity here: it may name an angelic messenger or a human representative who receives or assesses a vow.  
+
+v6: — הֶבֶל (*hevel*), “vapor”:: A central Ecclesiastes word for what slips away or cannot be grasped. It characterizes the unreliability of multiplying dreams and words.  
+
+v7: — מִשְׁפָּט (*mishpat*), “justice,” and צֶדֶק (*tsedeq*), “righteousness”:: Together these terms name the public ordering of life that should protect the vulnerable but is here subject to robbery.  
+
+v8: — יִתְרוֹן (*yitron*), “advantage”:: Ecclesiastes repeatedly asks what lasting gain remains from human activity. Here the term turns attention to the indispensable value of the cultivated land.  
+
+v15: — רוּחַ (*ruach*), “wind”:: Laboring “for the wind” evokes effort spent on what cannot be held or retained, echoing the chapter’s concern with wealth that disappears.  
+
+v17: — חֵלֶק (*cheleq*), “portion”:: One’s portion is not an accumulation secured against loss, but the received capacity to enjoy food, drink, and labor within the life God gives.  
+
 v03: נֶדֶר (neder)
 “A vowed commitment to God is not treated as casual speech.”
 

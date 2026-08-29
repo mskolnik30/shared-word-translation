@@ -71,14 +71,22 @@ v19: v19 — “Vapor” continues Ecclesiastes’ recurring image of *hevel*: w
 
 ##Vocabulary
 
+v1: v1 — **זְמָן (*zĕman*)**: “season.” Alongside “time” (*ʿēt*), it introduces the chapter’s attention to fitting or appointed occasions within life’s changing rhythms.  
+
+v1: v1 — **חֵפֶץ (*ḥēphets*)**: “matter.” The word can also carry senses such as desire, purpose, or undertaking. Here it encompasses every human concern “under the heavens.”  
+
+v11: עוֹלָם (ʿolam)
+“eternity.” God gives human beings an awareness extending beyond the immediate moment, even as they cannot comprehend God’s work in its entirety.
+
+v19: v19 — **הֶבֶל (*hevel*)**: “vapor.” The image conveys transience and elusiveness. In this passage, it intensifies the Teacher’s observation that death overtakes both humans and animals.  
+
+v19–21: רוּחַ (ruaḥ)
+“breath” or “spirit.” The shared ruaḥ of v19 marks mortal creatureliness; in v21 the same word sustains the unresolved question about what becomes of human and animal spirit.
+
+v22: v22 — **חֵלֶק (*ḥēleq*)**: “portion.” A person’s portion is the share available to them within life: the capacity to rejoice in their work rather than to possess knowledge of what comes afterward.  
+
 v01: זְמָן (zĕman)
 “season.” Alongside “time” (ʿēt), it introduces the chapter’s attention to fitting or appointed occasions within life’s changing rhythms.
 
 v01: חֵפֶץ (ḥēphets)
 “matter.” The word can also carry senses such as desire, purpose, or undertaking. Here it encompasses every human concern “under the heavens.”
-
-v11: עוֹלָם (ʿolam)
-“eternity.” God gives human beings an awareness extending beyond the immediate moment, even as they cannot comprehend God’s work in its entirety.
-
-v19–21: רוּחַ (ruaḥ)
-“breath” or “spirit.” The shared ruaḥ of v19 marks mortal creatureliness; in v21 the same word sustains the unresolved question about what becomes of human and animal spirit.

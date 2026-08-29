@@ -42,6 +42,17 @@ v17: - **v17** "sending the branch to their nose" is a phrase whose exact signif
 
 ##Vocabulary
 
+v1: - **v1 "hand of the Lord God" (יְהֹוִה יָד, yad Adonai):** In prophetic literature, this phrase signals divine empowerment or control, often leading prophets to visions or commissioning tasks.  
+
+v3: - **v3 "Spirit" (רוּחַ, ruach):** Often denotes God's active presence or energy accomplishing divine purposes, especially in visions or prophetic action.  
+
+v4: - **v4 "glory" (כָּבוֹד, kavod):** Refers to the visible manifestation of God's majesty and holiness, often experienced in visions or the temple context.  
+
+v17: - **v17 "the branch" (הַזְּמוֹרָה, ha-zemorah):** This term’s meaning is uncertain, possibly indicating a gesture with cultic or idolatrous connotations.  
+
+v17: הַזְּמוֹרָה (ha-zemorah)
+“The branch.” The precise cultic gesture described by the phrase is uncertain.
+
 v01: יַד אֲדֹנָי יְהוִה (yad Adonai YHWH)
 “Hand of the Lord GOD.” A prophetic idiom for divine action upon the prophet.
 
@@ -50,6 +61,3 @@ v03: רוּחַ (ruach)
 
 v04: כָּבוֹד (kavod)
 “Glory; weight; honor.” Here it names the visible glory associated with the God of Israel.
-
-v17: הַזְּמוֹרָה (ha-zemorah)
-“The branch.” The precise cultic gesture described by the phrase is uncertain.

@@ -66,6 +66,16 @@ v12: “Glory” may refer to the speaker’s honor, inner self, or whole being.
 
 ##Vocabulary
 
+v4: **שְׁאוֹל — *she’ol***: Sheol is the realm of the dead, named here with “the Pit” to portray the speaker’s nearness to death and God’s rescue.  
+
+v5: **חָסִיד — *ḥasid***: “Faithful ones” names those bound to the LORD in covenant loyalty; they are summoned to join the individual’s thanksgiving.  
+
+v6: **רָצוֹן — *ratson***: “Favor” denotes God’s goodwill or acceptance. In this verse it stands in deliberate contrast to divine anger.  
+
+v8: **פָּנִים — *panim***: Literally “face,” God’s face expresses attentive, life-giving presence. Its concealment leaves the speaker dismayed.  
+
+v12: **מָחוֹל — *maḥol***: “Dancing” is the embodied counterpart to mourning, expressing the reversal God has brought about.  
+
 v03: שְׁאוֹל (she’ol)
 “Sheol; realm of the dead.” Here paired conceptually with the Pit and nearness to death.
 

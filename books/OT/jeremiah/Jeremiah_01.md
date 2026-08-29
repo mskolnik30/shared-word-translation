@@ -91,6 +91,8 @@ v18: - **v18 fortified city, iron pillar, bronze walls**: These metaphors convey
 
 ##Vocabulary
 
+v1: - **v1 דִּבְרֵ֥י (da.var)**: The translated "words" refers broadly to the collected messages and prophecies of Jeremiah.  
+
 v9: - **v10 נְתַתִּי (na.tan)**: Rendered "appointed," it is a decision to confer a role or responsibility, emphasizing divine commissioning.  
 
 v11: - **v11 מַקֵּ֥ל (maq.qel)**: Meaning "branch," here it plays on its sound similarity with "watching," indicating alignment with divine purpose.  

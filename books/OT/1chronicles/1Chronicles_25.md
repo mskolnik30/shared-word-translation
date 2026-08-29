@@ -85,6 +85,18 @@ v06: The phrase “under the direction of the king” may refer broadly to David
 
 ##Vocabulary
 
+v1: - **v1 — נָבָא (*navaʾ*)**: “to prophesy.” Here the term characterizes the ministry performed with instruments, presenting temple music as a vehicle of inspired proclamation.  
+
+v3: - **v3 — יָדָה (*yadah*)**: “to give thanks.” Jeduthun’s prophetic ministry is specifically directed toward thanksgiving and praise to the LORD.  
+
+v5: - **v5 — חֹזֶה (*chozeh*)**: “seer.” Heman is identified as the king’s seer in matters concerning God, linking his musical household with revelatory service.  
+
+v5: - **v5 — קֶרֶן (*qeren*)**: “horn.” Used figuratively for strength, honor, or elevated standing; the image gives theological weight to God’s blessing of Heman.  
+
+v8: - **v8 — גּוֹרָל (*goral*)**: “lot.” The lots assign the worship divisions, expressing an ordered distribution not based merely on human status.  
+
+v8: - **v8 — תַּלְמִיד (*talmid*)**: “student.” The term places learners alongside the skilled, showing that the musical ministry included formation as well as performance.  
+
 v01: נָבָא (navaʾ)
 “to prophesy.” Here the term characterizes the ministry performed with instruments, presenting temple music as a vehicle of inspired proclamation.
 

@@ -45,5 +45,7 @@ v5: The phrase “where there was no fear” makes the terror strikingly disprop
 
 ##Vocabulary
 
+v3: אֱלֹהִים (e.lo.him) — A plural form often used with singular verbs, indicating majesty, emphasizes divine omnipresence and involvement.
+
 v02: אֱלֹהִים (elohim)
 “God.” The common Hebrew designation for God; grammatically plural in form but often used with singular reference to Israel’s God.

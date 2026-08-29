@@ -58,6 +58,8 @@ v9: v9 The repetition of the expression "my eye will not spare, nor will I have 
 
 ##Vocabulary
 
+v1: v1 דָבָר (da.var) - The word rendered as "word" signifies not only speech but also a communication bearing weight and authority, often associated with divine messages.  
+
 v2: v2 קֵץ (qets) - Translated as "end," this term suggests finality and the irreversible conclusion against which the people's iniquity is brought to account.  
 
 v26: v26 חָזוֹן (cha.zon) - Meaning "vision," this refers to revelation typically received by prophets. The absence of vision indicates a dire spiritual drought.  

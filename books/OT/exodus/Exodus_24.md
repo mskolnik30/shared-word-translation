@@ -75,6 +75,14 @@ v10: לָבֵנָה (*lavenah*) — brick, pavement; here describing the sapphir
 
 v16: כָּבוֹד (*kavod*) — glory; weight, honor, manifest presence.
 
+v17: אֵשׁ אֹכֶלֶת (*esh okhelet*) — consuming fire; image of divine holiness and intensity.
+
+v17: Now the appearance of the glory of the LORD was like a consuming fire on the top of the mountain in the sight of the people of Israel.
+
+v18: אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה (*arba'im yom ve'arba'im laylah*) — forty days and forty nights; recurring period of testing and encounter.
+
+v18: Moses entered the midst of the cloud and went up on the mountain. And Moses was on the mountain forty days and forty nights.
+
 v05: שְׁלָמִים (shelamim)
 “Offerings of well-being.” Traditionally “peace offerings,” conveying wholeness and restored relationship.
 

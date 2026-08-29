@@ -123,8 +123,18 @@ v21: **30:21 "the arm of Pharaoh"** - In ancient imagery, the arm symbolizes pow
 
 ##Vocabulary
 
+v10: 10 נְבוּכַדְרֶאצַּ֥ר (ne.vu.khad.nets.tsar)  
+
+v10: "Nebuchadnezzar" - The Babylonian king, representative of God's chosen instrument for judgment against Egypt.  
+
 v10: נְבוּכַדְרֶאצַּ֥ר (nevukhadnetstsar)
 “Nebuchadnezzar" - The Babylonian king, representative of God's chosen instrument for judgment against Egypt.
+
+v16: 16 סִין (sin)  
+
+v15: "Pelusium" - A fortress and stronghold in northeastern Egypt, symbolizing the defenses of the nation.  
+
+v21: 21 פַּרְעֹה (par.oh)  
 
 v21: פַּרְעֹה (paroh)
 “Pharaoh" - The title for the king of Egypt, here referring to the decisive defeat of Egyptian leadership by divine intervention.

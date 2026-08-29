@@ -80,6 +80,10 @@ v37: Though God promises restoration, God also says that Israel will seek God fo
 
 ##Vocabulary
 
+v5: קִנְאָה (*qin'ah*) — “jealousy.” Here it expresses the LORD’s zealous concern for the land and people bound to God’s name when other nations claim them as their own.  
+
+v17: טֻמְאָה (*tum'ah*) — “uncleanness” or “defilement.” The term frames Israel’s way and deeds as contaminating the land before God.  
+
 v20: חָלַל (chalal)
 “profane.” Israel’s exile causes God’s holy name to be treated as dishonored among the nations.
 

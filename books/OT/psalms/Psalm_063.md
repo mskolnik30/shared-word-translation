@@ -47,6 +47,10 @@ v08: "your right hand upholds me" — Indicates strength and support, a common b
 
 ##Vocabulary
 
+v4: חַסְדְּךָ (chasdecha): "steadfast love" — Reflects God's enduring loyalty and kindness, foundational to the psalmist's praise.
+
+v8: צֵל (tsel): "shadow" — Implies protection and security, as one would find refuge under the shadow of God's wings.
+
 v03: חַסְדְּךָ (chasdecha)
 “steadfast love" — Reflects God's enduring loyalty and kindness, foundational to the psalmist's praise.
 

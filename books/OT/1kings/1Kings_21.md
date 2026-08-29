@@ -85,14 +85,24 @@ v3–29: - **3. “The inheritance of my ancestors”:** Naboth’s refusal is n
 
 ##Vocabulary
 
-v03: נַחֲלָה (nachalah)
-“Inheritance; ancestral possession.”
+v3: - **3. נַחֲלָה (*naḥalah*) — inheritance:** Naboth calls the vineyard his ancestors’ *inheritance*. The word presents the land as a received familial trust rather than simply a commodity available for royal purchase.  
+
+v10: - **10. בְּלִיַּעַל (*beliyya‘al*) — worthlessness:** The two witnesses are called “men of worthlessness,” marking their testimony as morally corrupt even as the public proceeding gives it an appearance of legitimacy.  
 
 v10: בְּלִיַּעַל (beliyyaal)
 “Worthlessness; lawlessness.”
 
+v20–25: - **20, 25. מָכַר (*makhar*) — sell:** Ahab has “sold himself” to do evil. The expression depicts his evil not as an isolated act but as a self-giving over to wrongdoing.  
+
 v20–25: מָכַר (makhar)
 “To sell.” The expression “sold himself” describes giving oneself over to wrongdoing.
 
+v26: - **26. גִּלּוּלִים (*gillulim*) — idols:** This term for idols is deliberately contemptuous, portraying them as vile and degrading objects rather than true gods.  
+
 v26: גִּלּוּלִים (gillulim)
 “Idols.” A deliberately contemptuous Hebrew term.
+
+v29: - **29. כָּנַע (*kana‘*) — humble oneself:** Ahab’s humbling before the LORD is outwardly expressed through mourning practices and is acknowledged by God, though the announced disaster is deferred rather than removed.  
+
+v03: נַחֲלָה (nachalah)
+“Inheritance; ancestral possession.”

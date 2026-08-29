@@ -119,6 +119,21 @@ v25: **v25.** The wording connects Solomon’s offerings, incense, and completio
 
 ##Vocabulary
 
+v3: — שֵׁם (*shem*), “name.”: Here the LORD puts the divine name in the temple. The name signifies God’s claimed presence and reputation associated with this house without confining God to it.  
+
+v4: — תֹּם (*tom*), “integrity.”: Solomon is called to walk before the LORD with wholeness of heart, joined with uprightness and obedience rather than mere outward success.  
+
+v7: — מָשָׁל (*mashal*), “proverb.”: Israel’s downfall would become a publicly repeated saying, a warning recognized among the peoples.  
+
+v15: — מַס (*mas*), “forced labor.”: The term names labor levied by the king for construction. It exposes the coercive machinery supporting Solomon’s projects.  
+
+v21: — חָרַם (*ḥaram*), “devote to destruction.”: The verb refers to placing a people or thing under irrevocable ban. Here the text says Israel had not been able to carry this out against the remaining peoples.  
+
+v25: שְׁלָמִים (shelamim)
+“well-being offerings.” These sacrifices are associated with wholeness, peace, and shared fellowship before God.
+
+v26: — יַם־סוּף (*yam suf*), “Sea of Reeds.”: The name links Solomon’s maritime enterprise geographically to Edom while echoing the sea associated with Israel’s exodus story.  
+
 v03: שֵׁם (shem)
 “Name.” Here the LORD places the divine name at the temple, marking it as the place publicly associated with that name.
 
@@ -127,6 +142,3 @@ v04: תֹּם (tom)
 
 v07: מָשָׁל (mashal)
 “proverb.” Israel’s downfall would become a publicly repeated saying, a warning recognized among the peoples.
-
-v25: שְׁלָמִים (shelamim)
-“well-being offerings.” These sacrifices are associated with wholeness, peace, and shared fellowship before God.

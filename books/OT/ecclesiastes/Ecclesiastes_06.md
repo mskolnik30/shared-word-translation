@@ -42,6 +42,15 @@ v10: “Whatever has been already has its name” speaks of human life as alread
 
 ##Vocabulary
 
+v2: נֶפֶשׁ (*nephesh*) — “appetite” here is the desiring self. Wealth may satisfy outward lack while leaving the person unable to receive or enjoy what they possess.  
+
+v3: נֵפֶל (*nephel*) — “stillborn child.” The term names one who comes into the world without entering its visible life, intensifying the passage’s painful comparison between rest and an unsatisfied life.  
+
+v9: רְעוּת רוּחַ (*reʿut ruaḥ*) — “a chasing after wind.” The phrase evokes futile pursuit: desire reaches after what cannot be grasped or retained.  
+
+v11: הֶבֶל (hevel)
+“vapor.” In this chapter, hevel describes the elusive and insubstantial character of wealth, desire, and even multiplying words.
+
 v02: נֶפֶשׁ (nephesh)
 “appetite” here is the desiring self. Wealth may satisfy outward lack while leaving the person unable to receive or enjoy what they possess.
 
@@ -50,6 +59,3 @@ v03: נֵפֶל (nephel)
 
 v09: רְעוּת רוּחַ (reʿut ruaḥ)
 “a chasing after wind.” The phrase evokes futile pursuit: desire reaches after what cannot be grasped or retained.
-
-v11: הֶבֶל (hevel)
-“vapor.” In this chapter, hevel describes the elusive and insubstantial character of wealth, desire, and even multiplying words.

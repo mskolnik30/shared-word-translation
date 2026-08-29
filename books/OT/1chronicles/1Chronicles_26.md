@@ -130,8 +130,7 @@ v29–32: Levitical service extends beyond temple gates and treasuries into publ
 
 ##Vocabulary
 
-v01: מַחֲלֹקֶת (maḥăloqet)
-“division.” The term frames the chapter’s ordered distribution of gatekeeping, treasury, and administrative responsibilities.
+v1: - **v1: מַחֲלֹקֶת (*maḥăloqet*)** — “division.” The term frames the chapter’s ordered distribution of gatekeeping, treasury, and administrative responsibilities.  
 
 v12: מִשְׁמֶרֶת (mishmeret)
 “duty,” “charge,” or “watch.” Here it describes an assigned responsibility in the house of the LORD, not merely standing guard.
@@ -139,5 +138,16 @@ v12: מִשְׁמֶרֶת (mishmeret)
 v13: גּוֹרָל (goral)
 “lot.” The lots allocate service assignments across the ancestral houses, from the small to the great.
 
+v20: - **v20: אוֹצָר (*’otsar*)** — “treasury” or “storehouse.” The chapter distinguishes treasuries of the house of God from treasuries holding consecrated things.  
+
 v26: קֹדֶשׁ (qodesh)
 “holiness,” “holy thing.” The dedicated materials are treated as belonging to the sphere of what is set apart for God.
+
+v27: - **v27: חָזַק (*ḥazaq*)** — “to strengthen.” Spoil dedicated from war serves to strengthen or support the house of the LORD.  
+
+v29: - **v29: מְלָאכָה (*mela’khah*)** — “work” or “service.” The Levites’ “outside work” places some of their vocation in the wider life and administration of Israel.  
+
+v32: - **v32: דְּבַר (*davar*)** — “word,” “matter,” or “affair.” The closing phrase encompasses both matters of God and matters of the king.  
+
+v01: מַחֲלֹקֶת (maḥăloqet)
+“division.” The term frames the chapter’s ordered distribution of gatekeeping, treasury, and administrative responsibilities.

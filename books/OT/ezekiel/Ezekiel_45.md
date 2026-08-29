@@ -62,6 +62,17 @@ v20: “Anyone who strays or acts unknowingly” may refer to unintentional or i
 
 ##Vocabulary
 
+v1: **תְּרוּמָה — *terumah***: An offering set apart or raised up for God. Here it is not a movable gift but a sacred portion of the land, establishing holiness at the center of Israel’s restored life.  
+
+v3: **קֹדֶשׁ קָדָשִׁים — *qodesh qodashim***: “Most holy place.” The repeated form intensifies holiness and identifies the sanctuary as the concentrated center of the sacred land.  
+
+v8: **יָנָה — *yanah***: To oppress, exploit, or mistreat. The prince’s allotted land is intended to prevent rulers from taking property and power at the expense of God’s people.  
+
+v9: **מִשְׁפָּט וּצְדָקָה — *mishpat utsedaqah***: “Justice and righteousness.” Together these terms call for right judgment and faithful, equitable action in Israel’s public life.  
+
+v17: כִּפֶּר (kipper)
+“To make atonement or effect purification.” In this passage, the offerings address the community’s standing before God and the holiness of the sanctuary among them.
+
 v01: תְּרוּמָה (terumah)
 “An offering set apart or raised up for God.” Here it is not a movable gift but a sacred portion of the land, establishing holiness at the center of Israel’s restored life.
 
@@ -70,6 +81,3 @@ v03: קֹדֶשׁ קָדָשִׁים (qodesh qodashim)
 
 v09: מִשְׁפָּט וּצְדָקָה (mishpat u-tsedaqah)
 “Justice and righteousness.” A paired expression for right judgment and right action.
-
-v17: כִּפֶּר (kipper)
-“To make atonement or effect purification.” In this passage, the offerings address the community’s standing before God and the holiness of the sanctuary among them.

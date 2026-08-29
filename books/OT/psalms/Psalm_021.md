@@ -71,6 +71,12 @@ v13: The closing imperative turns from the king’s deliverance to direct praise
 
 ##Vocabulary
 
+v2: יְהוָ֗ה (Yahweh) — The divine name, indicating the covenantal relationship central to Israel's faith and the foundation for the king's praise and trust.
+
+v6: כְּבוֹד (κά.wod) — Translated as "glory," this term speaks to honor, respect, and the king's reputation, significantly enhanced by divine salvation.
+
+v8: חֶ֫סֶד (che.sed) — "Steadfast love" embodies God's faithful, covenantal loyalty, crucial for understanding divine-human relationships and the king's security.
+
 v01: יְהוָ֗ה (Yahweh)
 “LORD.” The divine name, represented in English by small-capital LORD.
 

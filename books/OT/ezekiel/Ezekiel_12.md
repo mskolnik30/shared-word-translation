@@ -56,11 +56,17 @@ v22–23: **v22-23**: The proverb being repealed suggests that doubt in propheti
 
 ##Vocabulary
 
+v10: **v10**: אֲדֹנָי יְהֹוִה (a.do.nai ye.ho.vih) — Often translated "Lord GOD," this phrase underscores divine authority and sovereignty.  
+
 v10: אֲדֹנָי יְהֹוִה (adonai yehovih)
 “Lord GOD.” The combined divine title represents *Adonai YHWH*.
 
+v12: **v12**: נָשִׂיא (na.si) — Translated as "prince," refers to the ruler or leader in Jerusalem, often representing the political or royal authority.  
+
 v12: נָשִׂיא (nasi)
 “Prince.” Refers to the ruler or leader in Jerusalem, often representing the political or royal authority.
+
+v24: **v24**: מִקְסָם (miq.sam) — Translated "divination," a practice severely criticized in the prophetic literature, associated with misleading messages contrary to divine revelation.  
 
 v24: מִקְסָם (miqsam)
 “Divination.” A practice of seeking hidden knowledge by ritual or omen.

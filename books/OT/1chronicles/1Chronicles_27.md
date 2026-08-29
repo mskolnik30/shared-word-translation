@@ -88,14 +88,20 @@ v32: - **27:32:** The Hebrew word rendered “uncle” may also mean a close mal
 
 ##Vocabulary
 
-v01: מַחֲלֹקֶת (maḥăloqet)
-“A division or assigned group.” In this chapter it names the rotating military units that serve the king month by month.
+v1: - **27:1 — מַחֲלֹקֶת (*maḥăloqet*):** A division or assigned group. In this chapter it names the rotating military units that serve the king month by month.  
 
-v01: שָׁרַת (sharat)
-“To serve in an appointed capacity.”
+v1: - **27:1 — שָׁרַת (*sharat*):** To serve in an appointed capacity. The word emphasizes organized service to the king rather than merely military activity.  
 
 v23: כּוֹכָב (kokhav)
 “Star.” Israel’s promised multiplication “as the stars of heaven” echoes the language of divine promise and frames the census within that promise.
 
 v24: קֶצֶף (qetseph)
 “Wrath or indignation.” Here it marks the grave consequence that came upon Israel in connection with the unfinished census.
+
+v31: - **27:31 — רְכוּשׁ (*rekhush*):** Property, possessions, or wealth. The term gathers the fields, animals, produce, and storehouses under David’s royal estate.  
+
+v01: מַחֲלֹקֶת (maḥăloqet)
+“A division or assigned group.” In this chapter it names the rotating military units that serve the king month by month.
+
+v01: שָׁרַת (sharat)
+“To serve in an appointed capacity.”

@@ -126,6 +126,29 @@ v51: **7:51** The chapter closes not merely with completed construction but with
 
 ##Vocabulary
 
+v7: 14 — חָכְמָה (*ḥokmâ*)  
+“wisdom.” Here it is practical, skilled discernment for bronze work, not only intellectual insight.  
+
+v7: 14 — תְּבוּנָה (*tevûnâ*)  
+“understanding.” Together with wisdom and knowledge, it describes Hiram’s full capacity to carry out complex sacred craftsmanship.  
+
+v7: 21 — יָכִין (*Yāḵîn*)  
+“Jachin.” The name is related to the verb “to establish,” though the text itself does not interpret it.  
+
+v7: 21 — בֹּעַז (*Boʿaz*)  
+“Boaz.” The name of the other entrance pillar; its precise meaning is uncertain.  
+
+v7: 23 — יָם (*yām*)  
+“Sea.” The term names the enormous bronze basin and carries the imagery of the sea into the temple’s ordered worship.  
+
+v7: 48 — לֶחֶם הַפָּנִים (*leḥem happānîm*)  
+“bread of the Presence.” Literally, “bread of the face,” bread placed before the LORD.  
+
+v7: 50 — קֹדֶשׁ הַקֳּדָשִׁים (*qōdeš haqqodāšîm*)  
+“most holy place.” The doubled expression marks the inner sanctuary as the highest degree of holiness.  
+
+v14–50: <!-- Approved lexical decisions: none supplied. -->  
+
 v07: חָכְמָה (ḥokmâ)
 “wisdom.” Here it is practical, skilled discernment for bronze work, not only intellectual insight.
 

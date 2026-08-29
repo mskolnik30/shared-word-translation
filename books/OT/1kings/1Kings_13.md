@@ -125,14 +125,24 @@ v33: “ordained”: Literally, Jeroboam “filled the hand” of anyone who wis
 
 ##Vocabulary
 
+v1–2: - **v1 — אִישׁ־אֱלֹהִים (*’ish-’elohim*), “man of God”:** This designation frames the unnamed messenger as one sent under God’s authority. It recurs through the chapter, even after his disobedience and death.  
+
+v2: - **v2 — בָּמָה (*bamah*), “high place”:** Here the term refers to elevated or local worship sites associated with unauthorized priesthood and sacrifice. The altar at Bethel becomes a focal point of judgment against this worship.  
+
+v3: - **v3 — מוֹפֵת (*mophet*), “sign”:** A confirming, portentous act that makes the LORD’s word publicly visible. The torn altar and spilled ashes are the sign given in this passage.  
+
+v18: כָּחַשׁ (kachash)
+“lie.” The narrator’s direct verdict on the old prophet’s claim of angelic revelation. It exposes the conflict between his words and the command previously given to the man of God.
+
+v21: - **v21 — מָרָה (*marah*), “rebel”:** A strong term for resisting or defying authority. The chapter applies it to the man of God’s failure to keep the LORD’s command.  
+
+v34: - **v34 — חַטָּאת (*chatta’t*), “sin”:** Jeroboam’s actions are not merely a political or cultic error; they become the sin of his house, bringing its eventual removal.  
+
+v34: חַטָּאת (chatta’t)
+“Sin.” The term names the offense associated with Jeroboam’s house.
+
 v01–02: אִישׁ־אֱלֹהִים (’ish-’elohim)
 “man of God.” This designation frames the unnamed messenger as one sent under God’s authority. It recurs through the chapter, even after his disobedience and death.
 
 v02: בָּמָה (bamah)
 “high place.” Here the term refers to elevated or local worship sites associated with unauthorized priesthood and sacrifice. The altar at Bethel becomes a focal point of judgment against this worship.
-
-v18: כָּחַשׁ (kachash)
-“lie.” The narrator’s direct verdict on the old prophet’s claim of angelic revelation. It exposes the conflict between his words and the command previously given to the man of God.
-
-v34: חַטָּאת (chatta’t)
-“Sin.” The term names the offense associated with Jeroboam’s house.

@@ -78,6 +78,16 @@ v21–22: The same Hebrew root associated with guilt closes both verses: those w
 
 ##Vocabulary
 
+v5: **דָּרַשׁ — *darash***: “I sought.” Here seeking the LORD is an active turning toward God for answer and deliverance.  
+
+v8: **חָנָה — *chanah***: “encamps.” The verb evokes a military camp set around those who fear the LORD, portraying protective presence.  
+
+v9: **חָסָה — *chasah***: “takes refuge.” This recurring psalm-language describes entrusting oneself to the LORD for shelter and safety.  
+
+v12: **יִרְאָה — *yirah***: “fear.” The fear of the LORD is taught as a life-shaping reverence expressed through speech, conduct, and the pursuit of peace.  
+
+v19: **דַּכָּא — *dakka***: “crushed.” Paired with the brokenhearted, it names those inwardly crushed or brought low; the LORD is near to them.  
+
 v04: דָּרַשׁ (darash)
 “I sought.” Here seeking the LORD is an active turning toward God for answer and deliverance.
 

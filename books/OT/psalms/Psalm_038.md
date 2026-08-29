@@ -78,6 +78,16 @@ v17: “Ready to fall” can evoke a physical limp or collapse as well as immine
 
 ##Vocabulary
 
+v1: **לְהַזְכִּיר — *lehazkîr***: “for remembrance.” This heading term frames the psalm as an appeal brought before God, not merely as private recollection.  
+
+v5: **עָוֺן — *ʿāwōn***: “iniquity.” Here the word names guilt as a burden that has risen over the psalmist’s head and become too heavy to bear.  
+
+v6: **אִוֶּלֶת — *ʾiwwelet***: “foolishness.” The term describes not simple lack of knowledge but culpable, destructive folly.  
+
+v10: **תַּאֲוָה — *taʾăwâ***: “longing.” The psalmist’s deepest desire, alongside groaning, remains fully open before the Lord.  
+
+v21: **שָׂטַן — *śāṭan***: “accuse” or “oppose.” Those who should answer good with good instead set themselves against the psalmist for pursuing what is good.  
+
 v01: לְהַזְכִּיר (lehazkîr)
 “for remembrance.” This heading term frames the psalm as an appeal brought before God, not merely as private recollection.
 

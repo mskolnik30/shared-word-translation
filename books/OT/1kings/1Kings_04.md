@@ -86,3 +86,15 @@ v29: “Breadth of heart” describes expansive discernment and capacity for und
 v32: The Hebrew says literally, “his song was one thousand and five.” The singular can function collectively; the sense is a count of songs.
 
 ##Vocabulary
+
+v7: — נִצָּבִים (*niṣṣābîm*)  
+“governors” or “officials.” In this chapter, the term names the regional administrators responsible for supplying Solomon’s court.  
+
+v7: — כּוּל (*kûl*)  
+“provide” or “sustain.” The governors sustain the king and his household through an ordered monthly rotation.  
+
+v6: — מַס (*mas*)  
+“forced labor.” It denotes labor imposed for the king’s projects and stands alongside the other structures of royal administration.  
+
+v20: — חוֹל (*ḥôl*)  
+“sand.” The people’s number is compared with the sand by the sea, an image of abundance that recalls God’s promises concerning Israel.

@@ -39,11 +39,20 @@ v11: The closing acclamation voices the conclusion that righteousness is not fut
 
 ##Vocabulary
 
+v2: אֵ֣לֶם (e.lem)  
+Here translated as “silent,” suggesting inactivity or failure to act, in contrast with the expectation of just verdicts from those expected to judge righteously.  
+
+v11: צַ֭דִּיק (tsad.diq)  
+"The righteous" in this passage refers to those who align with God’s ways and justice, contrasting with the wicked whose actions bring divine retribution.  
+
+v11: אֱ֝לֹהִ֗ים (elohim)
+“God.” Here the term refers to the judge who renders judgment on earth.
+
+v12: אֱ֝לֹהִ֗ים (e.lo.him)  
+Emphasizes God’s role as ultimate judge, reinforcing divine sovereignty over earthly justice.  
+
 v01: אֵ֣לֶם (elem)
 “Silent.” The difficult Hebrew form may describe silence or failure to render judgment.
 
 v10: צַ֭דִּיק (tsaddiq)
 “The righteous" in this passage refers to those who align with God’s ways and justice, contrasting with the wicked whose actions bring divine retribution.
-
-v11: אֱ֝לֹהִ֗ים (elohim)
-“God.” Here the term refers to the judge who renders judgment on earth.

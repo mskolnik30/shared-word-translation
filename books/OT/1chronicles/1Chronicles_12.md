@@ -173,3 +173,20 @@ v33: The Hebrew expression behind “without a divided heart” repeats the word
 v38–40: The military lists culminate in communal celebration rather than battle. Israel’s unity in making David king is expressed through shared food, drink, provision, and joy.
 
 ##Vocabulary
+
+v18: — שָׁלוֹם (*shalom*)  
+
+v18: David asks whether the visitors have come “in peace.” Here *shalom* means more than the absence of conflict; it concerns trustworthy intention, loyalty, and well-being between David and those joining him.  
+
+v19: — רוּחַ (*ruach*)  
+“Spirit.” The spirit clothes Amasai and empowers his declaration of allegiance. The term can denote wind or breath, but here it marks a divine force directing speech and action.  
+
+v23: — מַחֲנֶה אֱלֹהִים (*machaneh elohim*)  
+
+v23: “Camp of God.” The phrase compares David’s growing company to a vast, awe-inspiring camp associated with God.  
+
+v34: — לֵב (*lev*)  
+“Heart.” In this passage the heart is the center of intention and resolve. Zebulun’s warriors come without “heart and heart,” without divided loyalty.  
+
+v39: — לֵבָב שָׁלֵם (*levav shalem*)  
+“Whole heart.” The expression describes the unified purpose with which the warriors come to Hebron: they are fully committed to making David king.

@@ -68,6 +68,15 @@ v04: The same Hebrew word, *nephesh*, can mean “life,” “self,” or “per
 
 ##Vocabulary
 
+v4: 4 נֶפֶשׁ (*nephesh*)  
+— In Elijah’s plea, the word refers to his life or very self: “Take my life.” It recurs in the chapter’s threats and fears, binding Jezebel’s vow, Elijah’s despair, and his complaint that others seek his life.  
+
+v19: 12 דְּמָמָה דַקָּה (*demamah daqqah*)  
+— Literally, “thin silence” or “fine stillness.” The phrase follows the wind, earthquake, and fire, marking the elusive and restrained manner in which Elijah encounters the divine voice.  
+
+v19: 13 אַדֶּרֶת (*ʾadderet*)  
+— A mantle or outer cloak. Elijah covers his face with it before going to the cave’s entrance, and later throws it over Elisha. The garment becomes a tangible sign linking the prophet’s encounter with God to Elisha’s call.  
+
 v19: קָנָא (qanaʾ)
 “Be zealous.” Elijah intensifies the word—“I have been very zealous”—as he describes Israel’s abandonment of the covenant. His zeal is directed toward the LORD, the God of hosts, yet it is spoken from isolation and exhaustion.
 
@@ -76,6 +85,9 @@ v19: דְּמָמָה דַקָּה (demamah daqqah)
 
 v19: אַדֶּרֶת (ʾadderet)
 “A mantle or outer cloak.” Elijah covers his face with it before going to the cave’s entrance, and later throws it over Elisha.
+
+v18: 18 בַּעַל (*Baal*)  
+— The name of the deity whose worship has shaped the conflict of the preceding chapter. Kneeling and kissing are named as acts of allegiance that the faithful remnant has refused.  
 
 v18: בַּעַל (Baal)
 “Baal.” The name of the deity whose worship dominates the preceding conflict.

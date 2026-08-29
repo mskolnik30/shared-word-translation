@@ -93,3 +93,16 @@ v23: The Hebrew noun can be associated with “redemption” or “ransom,” wh
 v26: What is “an abomination to the Egyptians” may refer to animals regarded as unsuitable for sacrifice or as sacred. Moses does not specify the offerings, but insists that Israel’s worship cannot simply be contained within Pharaoh’s terms.
 
 ##Vocabulary
+
+v8: 13 — כִּנִּים (*kinnim*)  
+
+v8: 15 — אֶצְבַּע אֱלֹהִים (*’etsbaʿ ’elohim*)  
+“The finger of God.” The magicians’ confession recognizes a power beyond their secret arts, even though Pharaoh does not yield.  
+
+v8: 17 — עָרֹב (*ʿarov*)  
+“Swarm.” The word leaves the plague’s exact nature open while portraying an invading mass that fills houses and ruins the land.  
+
+v8: 19 — פְּדוּת (*peduth*)  
+“Redemption” or “ransom.” Here the LORD establishes *peduth* between Israel and Egypt, marking the preservation of his people as an act of deliverance.  
+
+v13: Small insects that arise from the dust and cover humans and livestock. The term’s uncertain identification contributes to the plague’s unsettling, all-encompassing character.

@@ -225,6 +225,24 @@ v37: - **v37:** Hands on the head are a gesture of grief, shame, or captivity. T
 
 ##Vocabulary
 
+v2: - **v2 — חֶסֶד (*chesed*):** “devotion” here describes the loyal, covenantal affection remembered from Israel’s early relationship with the LORD. The word carries both relational love and faithfulness.  
+
+v5: - **v5 — הֶבֶל (*hebel*):** “emptiness.” Israel follows what is insubstantial and becomes insubstantial herself; the word conveys futility, vapor, and worthlessness.  
+
+v8: - **v8 — תּוֹרָה (*torah*):** “law” or instruction. Those entrusted with the LORD’s teaching are charged with failing to know the LORD whose instruction they handle.  
+
+v13: - **v13 — מְקוֹר מַיִם חַיִּים (*meqor mayim chayyim*):** “spring of living water.” The phrase refers to a fresh, flowing source rather than stored water, portraying the LORD as the source of life and sustenance.  
+
+v19: - **v19 — מְשׁוּבָה (*meshûbah*):** “turning away.” The term can describe apostasy or defection; Israel’s own acts of departure become the means of her rebuke.  
+
+v21: זֶרַע אֱמֶת (zeraʿ ʾemet)
+“faithful seed.” Israel was planted as a vine of genuine stock, making her transformation into a foreign vine especially grievous.
+
+v22: - **v22 — עָוֹן (*ʿawon*):** “guilt.” It can include both wrongdoing and its burden or consequence. No cleansing agent can remove Israel’s guilt before God.  
+
+v35: נִשְׁפָּט (nishpat)
+“I am bringing … into judgment.” The language is judicial: the LORD confronts Jerusalem not simply for sin, but for denying that she has sinned.
+
 v02: חֶסֶד (chesed)
 “devotion” here describes the loyal, covenantal affection remembered from Israel’s early relationship with the LORD. The word carries both relational love and faithfulness.
 
@@ -233,9 +251,3 @@ v05: הֶבֶל (hebel)
 
 v08: תּוֹרָה (torah)
 “law” or instruction. Those entrusted with the LORD’s teaching are charged with failing to know the LORD whose instruction they handle.
-
-v21: זֶרַע אֱמֶת (zeraʿ ʾemet)
-“faithful seed.” Israel was planted as a vine of genuine stock, making her transformation into a foreign vine especially grievous.
-
-v35: נִשְׁפָּט (nishpat)
-“I am bringing … into judgment.” The language is judicial: the LORD confronts Jerusalem not simply for sin, but for denying that she has sinned.

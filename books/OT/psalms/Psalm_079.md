@@ -75,6 +75,15 @@ v11: “Those doomed to die” literally evokes “children of death,” an imag
 
 ##Vocabulary
 
+v5: **קִנְאָה — *qin'ah***: “jealousy” describes God’s ardent commitment to the covenant relationship and to the honor of God’s name; it is pictured here as fire.  
+
+v8: **רַחֲמִים — *raḥamim***: “mercies” names God’s compassionate response to the deeply afflicted. The plural form gathers mercy’s many expressions.  
+
+v9: **כִּפֶּר — *kipper***: “atone” asks God to deal with the people’s sins so that the barrier created by their wrongdoing is removed.  
+
+v13: מַרְעִית (mar‘it)
+“pasture” completes the image of God’s people as sheep, dependent on God’s sustaining care.
+
 v05: קִנְאָה (qin'ah)
 “Jealousy; ardor.”
 
@@ -83,6 +92,3 @@ v08: רַחֲמִים (raḥamim)
 
 v09: כִּפֶּר (kipper)
 “atone” asks God to deal with the people’s sins so that the barrier created by their wrongdoing is removed.
-
-v13: מַרְעִית (mar‘it)
-“pasture” completes the image of God’s people as sheep, dependent on God’s sustaining care.

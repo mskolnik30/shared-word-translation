@@ -47,8 +47,7 @@ v13–14: - **10:13–14** The chapter closes by interpreting Saul’s death in 
 
 ##Vocabulary
 
-v03: חוּל (chul)
-“To writhe; tremble; be in anguish.” The verb describes Saul’s distress when the archers reach him.
+v3: - **10:3 חוּל** (*chul*): Here the verb describes Saul’s response when the archers reach him. It conveys intense distress and may evoke trembling, anguish, or writhing under the pressure of battle.  
 
 v13: מַעַל (ma'al)
 “Unfaithfulness” describes a breach of loyalty, especially covenant loyalty toward the LORD. Saul’s death is interpreted as flowing from this betrayal.
@@ -58,3 +57,6 @@ v13: אוֹב (ʾov)
 
 v14: דָּרַשׁ (darash)
 “Seek” or “seek guidance.” The repeated verb contrasts Saul’s consultation of a medium with his failure to seek the LORD.
+
+v03: חוּל (chul)
+“To writhe; tremble; be in anguish.” The verb describes Saul’s distress when the archers reach him.

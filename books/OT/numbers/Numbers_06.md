@@ -181,6 +181,12 @@ v12: יָמִים הָרִאשֹׁנִים (yāmîm hāriʾšōnîm) — former 
 
 v13: תּוֹרָה (tōrāh) — instruction or law; guidance shaping lived faithfulness.
 
+v14: עֹלָה (ʿōlāh) — burnt offering; complete surrender to God.
+
+v14: חַטָּאת (ḥaṭṭāʾt) — purification offering; addresses ritual disruption rather than moral wrongdoing.
+
+v14: שֶׁלֶם (šelem) — offering of well-being; expresses restored relationship and communal wholeness.
+
 v15: מִנְחָה (minḥāh) — grain offering; gift acknowledging provision and dependence.
 
 v18: גִּלַּח (gillaḥ) — to shave; marks the formal conclusion of consecration.
@@ -192,6 +198,16 @@ v19: זְרוֹעַ (zerōaʿ) — shoulder; portion shared in ritual participat
 v20: נוּף (nûp̄) — to wave; gesture of offering and presentation before God.
 
 v20: אַחַר (ʾaḥar) — afterward; signals reintegration into ordinary life.
+
+v22: בָּרַךְ (bārak) — to bless; to confer life, protection, and favor.
+
+v24: שָׁמַר (šāmar) — to keep or guard; protective attentiveness rather than restriction.
+
+v25: אוֹר (ʾôr) — light; symbol of presence, favor, and life.
+
+v25: חָנַן (ḥānan) — to be gracious; unearned kindness flowing from relationship.
+
+v26: שָׁלוֹם (šālôm) — peace; wholeness, stability, and restored order.
 
 v27: שֵׁם (šēm) — name; identity, belonging, and claimed relationship.
 

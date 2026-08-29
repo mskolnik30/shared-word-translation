@@ -65,8 +65,7 @@ v35: The city’s final name, “The LORD Is There,” answers the central conce
 
 ##Vocabulary
 
-v08: תְּרוּמָה (terumah)
-“A contribution set apart or lifted up for the LORD.” In this chapter it names the centrally located sacred tract of land.
+v8: תְּרוּמָה (*terumah*) — a contribution set apart or lifted up for the LORD. In this chapter it names the centrally located sacred tract of land.  
 
 v11: מִשְׁמֶרֶת (mishmeret)
 “Charge, duty, or entrusted responsibility.” The priests of Zadok are identified as those who guarded the LORD’s charge.
@@ -76,3 +75,10 @@ v12: קֹדֶשׁ קָדָשִׁים (qodesh qodashim)
 
 v15: חֹל (chol)
 “Common or ordinary.” It marks city land as distinct from the holy land without suggesting that the city lies outside God’s purposes.
+
+v21: נָשִׂיא (*nasi’*) — prince or leader. The prince’s land lies beside the sacred and civic center, placing political authority near, but not within, the sanctuary.  
+
+v35: שָׁמָּה (*shammah*) — there. Joined to the divine name, it forms the climactic name of the city: “The LORD Is There.”  
+
+v08: תְּרוּמָה (terumah)
+“A contribution set apart or lifted up for the LORD.” In this chapter it names the centrally located sacred tract of land.

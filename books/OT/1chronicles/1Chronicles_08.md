@@ -162,8 +162,9 @@ v33–40: The genealogy reaches Saul’s family and continues through Jonathan�
 
 ##Vocabulary
 
-v06: רָאשֵׁי אָבוֹת (rashei avot)
-“heads of ancestral houses.” This designation identifies persons who represent and lead extended kinship groups within Benjamin.
+v6: - **v06: רָאשֵׁי אָבוֹת (*rashei avot*)** — “heads of ancestral houses.” This designation identifies persons who represent and lead extended kinship groups within Benjamin.  
+
+v12: - **v12: בְּנוֹתֶיהָ (*benoteha*)** — literally, “its daughters.” Applied to Lod, the word refers to dependent villages or settlements surrounding the city.  
 
 v12: בְּנוֹתֶיהָ (benoteha)
 “Its daughters.”
@@ -173,3 +174,6 @@ v28: תּוֹלְדוֹתָם (toledotam)
 
 v40: גִּבֹּרֵי חַיִל (gibborei chayil)
 “mighty warriors.” The phrase describes Ulam’s descendants as capable fighters and gives military weight to the closing Benjaminite lineage.
+
+v06: רָאשֵׁי אָבוֹת (rashei avot)
+“heads of ancestral houses.” This designation identifies persons who represent and lead extended kinship groups within Benjamin.

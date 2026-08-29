@@ -135,14 +135,24 @@ v18: The oracle returns directly to Pharaoh. Assyria’s fall is not simply a hi
 
 ##Vocabulary
 
-v04: תְּהוֹם (tehom)
-“the Deep.”: Here the Deep is the source of the waters that make the cedar flourish. In v15, the same Deep is restrained and made to mourn, showing that the abundance sustaining imperial life is under God’s command.
+v4: תְּהוֹם (*tehom*) — “the Deep.”: Here the Deep is the source of the waters that make the cedar flourish. In v15, the same Deep is restrained and made to mourn, showing that the abundance sustaining imperial life is under God’s command.  
 
-v08: גַּן־אֱלֹהִים (gan ʾelohim)
-“garden of God.”: The phrase places the cedar’s beauty in a setting of unsurpassed fertility and splendor. Its use intensifies the contrast between exaltation and judgment.
+v8: גַּן־אֱלֹהִים (*gan ʾelohim*) — “garden of God.”: The phrase places the cedar’s beauty in a setting of unsurpassed fertility and splendor. Its use intensifies the contrast between exaltation and judgment.  
+
+v10: לֵבָב (*levav*) — “heart.”: The cedar’s heart is “lifted up” because of its height. In this passage, the heart names the inward posture that turns received greatness into pride.  
+
+v14: אֶרֶץ תַּחְתִּית (*ʾerets taḥtit*) — “land below.”: This phrase describes the destination of the proud trees and is paired with Sheol and the Pit. It emphasizes the downward movement that counters their towering stature.  
 
 v14: אֶרֶץ תַּחְתִּית (ʾerets taḥtit)
 “land below.”: This phrase describes the destination of the proud trees and is paired with Sheol and the Pit.
 
 v15: שְׁאוֹל (sheʾol)
 “Sheol.”: Sheol is the realm to which the cedar descends with those slain by the sword. The term preserves the text’s grave, shadowed vision of death without specifying more than the passage itself does.
+
+v18: עֲרֵלִים (*ʿarelim*) — “the uncircumcised.”: In Ezekiel’s judgment language, this term marks those brought down in dishonor among the slain. Pharaoh’s fate is thereby placed among peoples Egypt would have regarded as dishonored or defeated.  
+
+v04: תְּהוֹם (tehom)
+“the Deep.”: Here the Deep is the source of the waters that make the cedar flourish. In v15, the same Deep is restrained and made to mourn, showing that the abundance sustaining imperial life is under God’s command.
+
+v08: גַּן־אֱלֹהִים (gan ʾelohim)
+“garden of God.”: The phrase places the cedar’s beauty in a setting of unsurpassed fertility and splendor. Its use intensifies the contrast between exaltation and judgment.

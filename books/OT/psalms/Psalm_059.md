@@ -65,6 +65,14 @@ v11: *lest my people forget* — Implies that the destruction of the enemies sho
 
 ##Vocabulary
 
+v2: אֱלֹהִים (*e.lo.him*) — "God" here denotes the deity as powerful and supreme, emphasizing his role as protector and deliverer.
+
+v11: חֶ֫סֶד (*che.sed*) — Usually translating as "steadfast love" or "lovingkindness," this denotes God's persistent and unconditional mercy and loyalty towards his people.
+
+v13: גָּאוֹן (*ga.on*) — "Pride" in this context refers to the arrogance of the enemies whom God is asked to judge.
+
+v17: מִשְׂגָּב (*mis.gav*) — "Fortress" conveys the idea of God being a strong and secure refuge for those who seek protection.
+
 v01: אֱלֹהִים (elohim)
 “God.” The common Hebrew term for God.
 

@@ -73,6 +73,25 @@ v22–23: **47:22–23** Resident sojourners who live among Israel and have fami
 
 ##Vocabulary
 
+v5: נַחַל (*naḥal*)  
+— “river” or “wadi.” Here it names the growing, uncrossable stream flowing from the temple, in contrast to a seasonal or limited channel.  
+
+v8: רָפָא (*raphaʾ*)  
+
+v8: — “to heal.” The waters are healed, and the verb frames the river’s effect as restoration from death-bearing salinity to life.  
+
+v9: נֶפֶשׁ חַיָּה (*nephesh ḥayyah*)  
+— “living creature.” The phrase evokes animate life in its fullness; the river causes creatures wherever it reaches to live.  
+
+v13: נָחַל (naḥal)
+“to receive as an inheritance.” The land is not merely territory to occupy but a gift apportioned among the tribes.
+
+v22: גֵּר (*ger*)  
+— “sojourner” or resident foreigner. In this passage, sojourners residing among Israel are included in the distribution of inheritance.  
+
+v22: נַחֲלָה (*naḥalah*)  
+— “inheritance.” The term connects land, belonging, and God’s gift; here it is expressly shared with resident sojourners.  
+
 v05: נַחַל (naḥal)
 “river” or “wadi.” Here it names the growing, uncrossable stream flowing from the temple, in contrast to a seasonal or limited channel.
 
@@ -81,6 +100,3 @@ v08: רָפָא (raphaʾ)
 
 v09: נֶפֶשׁ חַיָּה (nephesh ḥayyah)
 “living creature.” The phrase evokes animate life in its fullness; the river causes creatures wherever it reaches to live.
-
-v13: נָחַל (naḥal)
-“to receive as an inheritance.” The land is not merely territory to occupy but a gift apportioned among the tribes.

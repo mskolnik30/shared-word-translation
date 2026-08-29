@@ -57,6 +57,14 @@ v9: The closing prayer joins images of inheritance, shepherding, and carrying. G
 
 ##Vocabulary
 
+v1: **צוּר — *tsur***: “Rock” names the LORD as the psalmist’s secure and enduring refuge, set against the threat of descending to the Pit.  
+
+v2: **דְּבִיר — *devir***: “Inner sanctuary” refers to the most holy interior of the sanctuary, the direction toward which the psalmist raises their hands in prayer.  
+
+v8: **מָשִׁיחַ — *mashiach***: “Anointed one” commonly denotes the king consecrated for God’s service. Here the term stands alongside the plural “them,” linking the LORD’s saving strength with both ruler and people.  
+
+v9: **רָעָה — *ra'ah***: “Shepherd” portrays God’s sustaining rule and care for the people who are called God’s inheritance.  
+
 v01: צוּר (tsur)
 “Rock” names the LORD as the psalmist’s secure and enduring refuge, set against the threat of descending to the Pit.
 

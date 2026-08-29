@@ -86,3 +86,5 @@ v09: שְׁמָמָה (shemamah)
 
 v11: קִנְאָה (qinʾah)
 “envy; jealousy.” Here it names the resentful desire displayed in Edom’s hatred toward Israel and Judah.
+
+v12: **נָאָצָה** (*naʾatsah*), “contemptuous speech.” Edom’s words against Israel’s mountains are heard by the LORD; the chapter treats hostile speech as accountable action.

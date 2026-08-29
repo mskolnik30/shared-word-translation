@@ -74,8 +74,17 @@ v24: [^v24]: The chapter closes not merely with the child alive, but with the wi
 
 ##Vocabulary
 
-v01: יְהוָה (YHWH)
-“LORD.” The divine name, represented in English by small-capital LORD.
+v1: יְהוָה (*YHWH*)  
+— The personal name of Israel’s God frames Elijah’s oath, the divine commands, the provision in famine, and the child’s restoration. The chapter repeatedly identifies its acts of provision and life with YHWH rather than with Elijah.  
+
+v1: עָמַד (*ʿāmad*, “stand”)  
+— In “before whom I stand,” the verb expresses Elijah’s posture of attendance before YHWH. It marks him as a servant speaking under divine commission.  
+
+v4: כּוּל (*kûl*, “provide, sustain”)  
+— YHWH “commands” both ravens and a widow to sustain Elijah. The same verb joins these strikingly different agents of provision.  
+
+v18: עָוֹן (*ʿāwōn*, “guilt, iniquity”)  
+— The widow fears that her guilt has been brought to remembrance through her son’s death. Her accusation voices a theological fear that the narrative leaves unresolved at that point.  
 
 v18: עָוֹן(ʿāwōn)
 “guilt, iniquity.” The widow fears that her guilt has been brought to remembrance through her son’s death.
@@ -83,5 +92,11 @@ v18: עָוֹן(ʿāwōn)
 v18: אִישׁ הָאֱלֹהִים(ʾîš hāʾĕlōhîm)
 “man of God.” The woman’s address identifies Elijah by his relation to God. In her distress, that relation appears threatening; by the chapter’s end, it becomes the basis for her trust in his message.
 
+v21: נֶפֶשׁ (*nephesh*, “life, living self”)  
+— Elijah asks for the child’s *nephesh* to return within him. The term describes the child’s living vitality, whose return is immediately expressed by, “and he lived.”  
+
 v24: אֱמֶת(ʾĕmet)
 “truth, faithfulness.” The widow declares that YHWH’s word in Elijah’s mouth is truth: dependable and shown true in what has taken place.
+
+v01: יְהוָה (YHWH)
+“LORD.” The divine name, represented in English by small-capital LORD.

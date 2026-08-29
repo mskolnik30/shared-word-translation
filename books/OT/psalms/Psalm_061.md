@@ -39,6 +39,14 @@ v06: "Prolong the days of the king" likely refers to a desire for longevity and 
 
 ##Vocabulary
 
+v2: אֱלֹהִים (e.lo.him) — Traditionally translated as "God," this plural form carries a sense of majesty and sovereign power. It emphasizes both the nearness and transcendence of God as the psalmist makes his plea. 
+
+v3: צוּר (tsur) — Meaning "rock," this term is a common biblical metaphor for stability and security. The plea for guidance to a rock "higher than I" suggests seeking divine protection in a place unattainable by human strength alone.
+
+v8: חֶסֶד (che.sed) — Often translated as "steadfast love" or "lovingkindness," this word denotes a committed love that is reliable and faithful, essential for covenantal relationships. 
+
+v8: אֱמֶת (e.met) — Translated "faithfulness" or "truth," it underscores reliability or dependability, together with "chesed" forming a pair that denotes attributes of God’s character, ensuring divine protection.
+
 v01: אֱלֹהִים (elohim)
 “God.” The common Hebrew designation for God.
 

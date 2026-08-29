@@ -44,14 +44,20 @@ v17: “Fear of him” may refer to fear of David, whose name has spread through
 
 ##Vocabulary
 
-v02: מַלְכוּת (malkhut)
-“kingdom.” David’s royal rule is not merely strengthened; it is raised high for the sake of Israel, the LORD’s people.
+v2: - v2: מַלְכוּת (*malkhut*) — “kingdom.” David’s royal rule is not merely strengthened; it is raised high for the sake of Israel, the LORD’s people.  
 
-v08: מָשַׁח (mashach)
-“anoint.” David’s anointing as king over all Israel becomes the occasion for Philistine opposition.
+v8: - v8: מָשַׁח (*mashach*) — “anoint.” David’s anointing as king over all Israel becomes the occasion for Philistine opposition.  
 
 v11: פָּרַץ (parats)
 “burst through, break out.” David uses this verb for God’s decisive breaking through against his enemies, and the place name Baal-perazim echoes it.
 
 v14: בָּכָא (baka)
 “baca.” The term names the trees by which David is to approach; its precise botanical identification is uncertain.
+
+v17: - v17: פַּחַד (*pachad*) — “fear, dread.” The LORD extends David’s reputation among the nations by placing fear upon them.  
+
+v02: מַלְכוּת (malkhut)
+“kingdom.” David’s royal rule is not merely strengthened; it is raised high for the sake of Israel, the LORD’s people.
+
+v08: מָשַׁח (mashach)
+“anoint.” David’s anointing as king over all Israel becomes the occasion for Philistine opposition.

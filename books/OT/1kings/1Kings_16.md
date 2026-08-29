@@ -92,8 +92,8 @@ v34: Hiel’s rebuilding of Jericho is presented as the fulfillment of the word 
 
 ##Vocabulary
 
-v03: בָּעַר (baʿar)
-“to burn, consume, sweep away.” In the judgment against Baasha’s house, the participle evokes a thorough consuming removal.
+v3: בָּעַר (*baʿar*)  
+— “to burn, consume, sweep away.” In the judgment against Baasha’s house, the participle evokes a thorough consuming removal.  
 
 v13: הֶבֶל (hebel)
 “breath, vapor, worthlessness.” Baasha and Elah provoke the LORD through their hebalim, with a sense of the emptiness of their idolatrous practices.
@@ -103,3 +103,12 @@ v16: מַחֲנֶה (maḥaneh)
 
 v24: שֹׁמְרוֹן (Shomron)
 “Samaria.” The account deliberately connects the city’s name with Shemer, the former owner of the hill.
+
+v31: בַּעַל (*Baʿal*)  
+— “Baal.” Here the name identifies the deity whom Ahab serves and before whom he bows, marking a decisive intensification of Israel’s unfaithfulness.  
+
+v33: אֲשֵׁרָה (*Asherah*)  
+— “Asherah.” The term may refer to a goddess, a cultic image, or a sacred installation associated with her worship; the passage does not specify its precise form.  
+
+v03: בָּעַר (baʿar)
+“to burn, consume, sweep away.” In the judgment against Baasha’s house, the participle evokes a thorough consuming removal.

@@ -62,14 +62,24 @@ v19: - **19:** To “set your heart and your whole being” is to direct the who
 
 ##Vocabulary
 
-v01: עֹלָה (ʿolah)
-“Burnt offering.” In this verse the altar is specifically identified as the place for the offering that is wholly given over to God.
+v1: - **1 — עֹלָה (*ʿolah*):** “Burnt offering.” In this verse the altar is specifically identified as the place for the offering that is wholly given over to God.  
 
-v08: דָּמִים (damim)
-“Bloods.”
+v2: - **2 — גֵּר (*ger*):** “Resident foreigner.” These are non-Israelites living within Israel’s land; here they are gathered for work connected with the temple.  
+
+v5: - **5 — תִּפְאָרָה (*tiph’arah*):** “Splendor” or “beauty.” The temple is to possess a visible magnificence that makes the LORD’s name known among the nations.  
+
+v8: - **8 — דָּמִים (*damim*):** Literally “bloods,” an intensive plural expressing the abundance of bloodshed attributed to David.  
+
+v9: - **9 — מְנוּחָה (*menuḥah*):** “Rest.” Solomon is described as a “man of rest,” in contrast to David’s life of warfare.  
 
 v12: תּוֹרָה (torah)
 “Instruction.” The LORD’s torah is the covenantal teaching that Solomon must keep as he leads Israel.
 
 v19: בְּרִית (berit)
 “Covenant.” The ark embodies the LORD’s covenantal relationship with Israel and is to be brought into the sanctuary.
+
+v01: עֹלָה (ʿolah)
+“Burnt offering.” In this verse the altar is specifically identified as the place for the offering that is wholly given over to God.
+
+v08: דָּמִים (damim)
+“Bloods.”

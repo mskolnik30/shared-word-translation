@@ -53,6 +53,16 @@ v11–12: The prayer closes with both a plea for protection and a declaration of
 
 ##Vocabulary
 
+v2: **פֶּשַׁע — *peshaʿ***: “transgression” is personified as giving an utterance or oracle. Its voice stands in direct contrast to the fear of God.  
+
+v6: **חֶסֶד — *ḥesed***: “steadfast love” names God’s faithful, covenantal goodness. In this psalm it is expansive, protective, and life-giving.  
+
+v7: **מִשְׁפָּט — *mishpat***: “judgments” can refer to God’s acts of justice and governing decisions. Their comparison to the great deep emphasizes both their depth and their vastness.  
+
+v9: **עֵדֶן — *ʿeden***: “delights” evokes luxuriant pleasure and abundance. The plural form intensifies the river imagery.  
+
+v10: **מְקוֹר חַיִּים — *meqor ḥayyim***: “fountain of life” presents life as flowing from God. The following line links this life-giving source with divine light.  
+
 v01: פֶּשַׁע (peshaʿ)
 “transgression” is personified as giving an utterance or oracle. Its voice stands in direct contrast to the fear of God.
 

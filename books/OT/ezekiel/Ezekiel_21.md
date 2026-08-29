@@ -84,3 +84,9 @@ v13: The Hebrew of the line containing “testing” is compressed and difficult
 v27: The threefold “ruin” intensifies the announcement of overthrow. The following clause postpones resolution until the arrival of one “whose right it is,” without identifying that figure within the verse.
 
 ##Vocabulary
+
+v5: - **v5 אֲדֹנָ֣י יְהוִ֑ה (Adonai Yahweh)** - This divine title combines the sovereignty and covenant name of God, underscoring His authority and faithfulness.  
+
+v8: - **v8 חֶ֫רֶב (che.rev)** - Referring to the "sword," this imagery functions as a central symbol of divine judgment throughout the chapter.  
+
+v9: - **v9 רָשָׁע (ra.sha)** - Meaning "wicked," it characterizes those subject to divine judgment, juxtaposed with the "righteous" to highlight moral discernment in God's actions.

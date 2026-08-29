@@ -98,8 +98,7 @@ v31–32: **9:31–32:** The brief crop report explains why the hail destroyed s
 
 ##Vocabulary
 
-v04: פָּלָה (pālāh)
-“Make a distinction.” The LORD’s distinction between Israel’s livestock and Egypt’s livestock makes the plague a sign of discernment, not indiscriminate disaster.
+v4: **9:4 — פָּלָה (*pālāh*):** “Make a distinction.” The LORD’s distinction between Israel’s livestock and Egypt’s livestock makes the plague a sign of discernment, not indiscriminate disaster.  
 
 v12: חָזַק (ḥāzaq)
 “Strengthen.” Applied to Pharaoh’s heart, the word describes the reinforcing of his settled resistance.
@@ -107,5 +106,14 @@ v12: חָזַק (ḥāzaq)
 v14: מַגֵּפָה (maggēpâ)
 “Plague” or “blow.” Here the plural, “my plagues,” gathers the judgments into a direct confrontation with Pharaoh’s heart.
 
+v16: **9:16 — כֹּחַ (*kōaḥ*):** “Power.” The LORD’s power is displayed in the preservation of Pharaoh as well as in the judgment brought upon Egypt.  
+
+v17: **9:17 — סָלַל (*sālal*):** “Exalt oneself” or “raise oneself up.” Pharaoh’s refusal is portrayed as self-exaltation over the people whom the LORD claims as “my people.”  
+
+v24: **9:24 — מִתְלַקַּחַת (*mitlaqqaḥat*):** “Flashing” or “seizing itself.” The word depicts fire moving or flashing within the hail, intensifying the storm’s terrifying imagery.  
+
 v27: צַדִּיק (ṣaddîq)
 “Righteous.” Pharaoh acknowledges that the LORD is in the right, in contrast to himself and his people as “wicked.”
+
+v04: פָּלָה (pālāh)
+“Make a distinction.” The LORD’s distinction between Israel’s livestock and Egypt’s livestock makes the plague a sign of discernment, not indiscriminate disaster.

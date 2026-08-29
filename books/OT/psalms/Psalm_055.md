@@ -116,6 +116,12 @@ v22: "Cast your burden on the Lord" — An invitation to trust in God as sustain
 
 ##Vocabulary
 
+v11: יוֹמָם וָלַ֗יְלָה (yo.mam va.la'yla) — "Day and night" captures the continual unrest and vigilance surrounding the city.  
+
+v18: עֶ֤רֶב וָבֹ֣קֶר וְצָהֳרַיִם (e.rev va.vo.qer va.tso.ho.rayim) — "Evening and morning and at noon" signifies all times of prayer, emphasizing a life committed to persistent prayer.  
+
+v23: יְהָבְךָ֮ (ye.hav'kha) — "your burden" refers to the anxiety, troubles, or challenges an individual might carry, which are to be entrusted to God.  
+
 v10: יוֹמָם וָלַ֗יְלָה (yomam vala'yla)
 “Day and night" captures the continual unrest and vigilance surrounding the city.
 

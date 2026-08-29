@@ -128,3 +128,9 @@ v18: בֶּן־אוֹנִי (Ben-ʾÔnî)
 
 v18: בִּנְיָמִין (Binyāmîn)
 “Benjamin.” Commonly understood as “son of the right hand.”
+
+v29: אָסַף אֶל־עַמָּיו (ʾāsaph ʾel-ʿammāyw)
+“Gathered to his people.” A traditional expression for death and reunion with one's ancestors.
+
+v30: שָׂבֵעַ יָמִים (śāḇēaʿ yāmîm)
+“Full of days.” A description of a long and complete life.

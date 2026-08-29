@@ -108,6 +108,18 @@ v01: The written form of Jashub’s name differs from its traditional reading. T
 
 ##Vocabulary
 
+v2: - **7:2 — תּוֹלְדוֹת (*toledot*)**: “generations” or “family records.” Here it organizes Tola’s descendants as a recognized ancestral line and provides the framework for the military count.  
+
+v2: - **7:2 — גִּבּוֹרֵי חַיִל (*gibbore chayil*)**: “warriors of strength.” The expression denotes capable, valiant fighting men and recurs throughout the chapter as an honorific for tribal households.  
+
+v5: - **7:5 — הִתְיַחֵשׂ (*hityaches*)**: “to enroll by genealogy.” The term describes formal registration according to family descent, linking belonging within Israel to a recorded lineage.  
+
+v28: אֲחֻזָּה (achuzzah)
+“possession” or “holding.” It refers to land held as an inherited territorial claim, not simply a place of residence.
+
+v40: בְּרוּרִים (berurim)
+“chosen” or “selected.” The Asherites are presented as distinguished warriors and leading household heads, set apart within the tribal register.
+
 v02: תּוֹלְדוֹת (toledot)
 “generations” or “family records.” Here it organizes Tola’s descendants as a recognized ancestral line and provides the framework for the military count.
 
@@ -116,9 +128,3 @@ v02: גִּבּוֹרֵי חַיִל (gibbore chayil)
 
 v05: הִתְיַחֵשׂ (hityaches)
 “to enroll by genealogy.” The term describes formal registration according to family descent, linking belonging within Israel to a recorded lineage.
-
-v28: אֲחֻזָּה (achuzzah)
-“possession” or “holding.” It refers to land held as an inherited territorial claim, not simply a place of residence.
-
-v40: בְּרוּרִים (berurim)
-“chosen” or “selected.” The Asherites are presented as distinguished warriors and leading household heads, set apart within the tribal register.

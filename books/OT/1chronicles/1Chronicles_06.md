@@ -213,3 +213,17 @@ v57: “Cities of refuge” were places of protection for one who had caused a d
 v61: The phrase “from the family of the tribe” is compressed and somewhat difficult. It likely refers to the remaining Kohathite clans receiving cities from one tribal portion, specifically the half-tribe of Manasseh.
 
 ##Vocabulary
+
+v16: - v16: שִׁיר (*shir*) — “song.” Here song is not incidental accompaniment but a named form of service in the house of the LORD.  
+
+v17: - v17: מִשְׁכָּן (*mishkan*) — “tabernacle” or “dwelling place.” In this passage it identifies the sacred tent where the singers ministered before the temple existed.  
+
+v33: - v33: עֲבֹדָה (*avodah*) — “service” or “work.” The term frames Levitical duties as dedicated service in the house of God.  
+
+v34: - v34: קֹדֶשׁ הַקֳּדָשִׁים (*qodesh ha-qodashim*) — “the most holy place.” The doubled holiness marks the distinct sphere of Aaron’s altar ministry.  
+
+v34: - v34: כִּפֶּר (*kipper*) — “make atonement.” The verb describes the priestly action performed on behalf of Israel according to God’s command through Moses.  
+
+v39: - v39: גּוֹרָל (*goral*) — “lot.” The lot identifies the allotted cities and presents their distribution as ordered rather than merely negotiated.  
+
+v40: - v40: מִגְרָשׁ (*migrash*) — “pastureland.” Repeated throughout the city lists, it refers to the open land surrounding a city, provided along with the city itself.

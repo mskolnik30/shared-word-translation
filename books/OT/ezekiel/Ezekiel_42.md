@@ -63,8 +63,13 @@ v03: “gallery faced gallery”: The repeated word describes a structural featu
 
 ##Vocabulary
 
-v01: לִשְׁכָּה (lishkah)
-“A chamber or designated room within the temple complex.” In this chapter these chambers are not incidental storage spaces; they order priestly movement, food, garments, and holy offerings.
+v1: **42:1 — לִשְׁכָּה (*lishkah*):** A chamber or designated room within the temple complex. In this chapter these chambers are not incidental storage spaces; they order priestly movement, food, garments, and holy offerings.  
+
+v1: **42:1 — גִּזְרָה (*gizrah*):** “Separate area.” The term identifies a restricted section of the temple precinct, reinforcing the chapter’s repeated concern with ordered and differentiated space.  
+
+v3: **42:3 — אַתִּיק (*attiq*):** A gallery or projecting architectural feature. Its repetition in the description conveys the layered, facing arrangement of the building.  
+
+v13: **42:13 — אָשָׁם (*asham*):** Guilt offering. The term carries the sense of an offering associated with guilt and reparation, and its inclusion underscores the seriousness of priestly care for sacrificial gifts.  
 
 v13: קֹדֶשׁ (qodesh)
 “Holiness, or that which is set apart for God.” The word recurs throughout the chapter for chambers, offerings, garments, and space, binding the architectural details to Israel’s worship.
@@ -74,3 +79,8 @@ v13: קָדְשֵׁי הַקֳּדָשִׁים (qodshei haqqodashim)
 
 v13: מִנְחָה (minchah)
 “Grain offering.” Here it is named with the sin offering and guilt offering as food or sacred material to be handled within the holy place.
+
+v20: **42:20 — חֹל (*chol*):** What is common or ordinary, in contrast to what is holy. The final boundary wall makes visible this distinction that governs the whole chapter.  
+
+v01: לִשְׁכָּה (lishkah)
+“A chamber or designated room within the temple complex.” In this chapter these chambers are not incidental storage spaces; they order priestly movement, food, garments, and holy offerings.

@@ -99,14 +99,30 @@ v33: The festival date is said to be one Jeroboam “devised from his own heart,
 
 ##Vocabulary
 
+v4: עֹל (*ʿol*) — “yoke.”: The yoke names the political and economic burden placed on the people under Solomon and threatened anew by Rehoboam.  
+
+v7: עֶבֶד (*ʿeved*) — “servant.”: The elders call the king to serve the people so that they may become his servants; the reversal frames authority as service rather than domination.  
+
+v15: סִבָּה (sibbâ)
+“turn of events.”: The word identifies the kingdom’s rupture as an occurrence coming from the LORD and serving the establishment of the LORD’s earlier word.
+
+v16: נַחֲלָה (*naḥălâ*) — “inheritance.”: Israel’s cry denies any inherited share in the Davidic house, expressing a break in covenantal and political belonging.  
+
+v18: מַס (*mas*) — “forced labor.”: The term identifies the labor levy administered by Adoram, linking the revolt to the people’s complaint about oppressive service.  
+
+v28: אֱלֹהִים (*ʾĕlōhîm*) — “gods.”: Though grammatically plural, the word in Jeroboam’s proclamation may evoke the traditional exodus declaration; the plural form preserves the text’s deliberate echo and ambiguity.  
+
+v30: חַטָּאת (*ḥaṭṭāʾt*) — “sin.”: The narrator directly characterizes Jeroboam’s calf arrangement as sin, setting the theological judgment alongside its political purpose.  
+
+v30: חַטָּאת (ḥaṭṭāʾt)
+“Sin.” The narrator applies the term directly to Jeroboam’s calf arrangement.
+
+v31: בָּמָה (*bāmâ*) — “high place.”: These worship sites become part of Jeroboam’s alternative religious order, together with priests not drawn from Levi.  
+
+v33: לֵב (*lēv*) — “heart.”: Jeroboam devises the festival “from his own heart,” where the heart denotes inner thought, intention, and resolve.  
+
 v04: עֹל (ʿol)
 “yoke.”: The yoke names the political and economic burden placed on the people under Solomon and threatened anew by Rehoboam.
 
 v07: עֶבֶד (ʿeved)
 “servant.”: The elders call the king to serve the people so that they may become his servants; the reversal frames authority as service rather than domination.
-
-v15: סִבָּה (sibbâ)
-“turn of events.”: The word identifies the kingdom’s rupture as an occurrence coming from the LORD and serving the establishment of the LORD’s earlier word.
-
-v30: חַטָּאת (ḥaṭṭāʾt)
-“Sin.” The narrator applies the term directly to Jeroboam’s calf arrangement.

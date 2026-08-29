@@ -124,14 +124,36 @@ v29–30: The narrative contrasts the established sanctuary and altar at Gibeon 
 
 ##Vocabulary
 
+v1: 1 — שָׂטָן (*satan*)  
+“adversary” or “accuser.” In this chapter Satan stands against Israel and incites David’s census.  
+
+v3: 3 — אַשְׁמָה (*ashmah*)  
+“guilt” or “culpability.” Joab fears that David’s command will bring communal guilt upon Israel.  
+
+v21: 26 — שְׁלָמִים (*shelamim*)  
+
+v21: עָוֺן (avon)
+“guilt,” “iniquity,” or the burden of wrongdoing. David asks God to take away the guilt of his servant.
+
+v12: 12 — דֶּבֶר (*dever*)  
+“pestilence” or “plague.” It is one of the three judgments placed before David and becomes the judgment sent upon Israel.  
+
+v13: 13 — רַחֲמִים (*rachamim*)  
+“mercies” or “compassion.” David appeals to the abundance of the LORD’s mercies while choosing divine judgment over human enemies.  
+
+v15: 15 — נָחַם (*nacham*)  
+to relent, be moved with regret, or change one’s course of action. The LORD sees the destruction and turns from the disaster.  
+
+v17: 17 — מַגֵּפָה (*maggephah*)  
+“plague” or “striking blow.” David asks that the plague not remain upon the people.  
+
+v24: עֹלָה (olah)
+“burnt offering,” an offering wholly given over on the altar. David refuses to offer one to the LORD without personal cost.
+
+v26: “offerings of well-being.” These offerings accompany the burnt offerings as David calls upon the LORD.  
+
 v01: שָׂטָן (satan)
 “adversary” or “accuser.” In this chapter Satan stands against Israel and incites David’s census.
 
 v03: אַשְׁמָה (ashmah)
 “guilt” or “culpability.” Joab fears that David’s command will bring communal guilt upon Israel.
-
-v21: עָוֺן (avon)
-“guilt,” “iniquity,” or the burden of wrongdoing. David asks God to take away the guilt of his servant.
-
-v24: עֹלָה (olah)
-“burnt offering,” an offering wholly given over on the altar. David refuses to offer one to the LORD without personal cost.

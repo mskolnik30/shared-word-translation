@@ -47,6 +47,14 @@ v7–9: Sea, rivers, and mountains are summoned as worshipers because the LORD i
 
 ##Vocabulary
 
+v2: **צְדָקָה — *tsedaqah***: “righteousness” is revealed before the nations as God’s public, saving faithfulness and right ordering of the world.  
+
+v3: **חֶסֶד — *chesed***: “steadfast love” names the LORD’s enduring covenant loyalty toward the house of Israel.  
+
+v3: **אֱמוּנָה — *’emunah***: “faithfulness” emphasizes God’s dependability, paired here with steadfast love.  
+
+v9: **שָׁפַט — *shaphat***: “judge” denotes active rule as well as judicial decision. The LORD’s coming judgment is defined by righteousness and equity.  
+
 v02: צְדָקָה (tsedaqah)
 “righteousness” is revealed before the nations as God’s public, saving faithfulness and right ordering of the world.
 

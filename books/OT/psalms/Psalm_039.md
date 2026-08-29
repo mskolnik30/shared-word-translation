@@ -58,6 +58,16 @@ v12: Calling oneself a “sojourner” and “resident alien” expresses both v
 
 ##Vocabulary
 
+v2: **מַחְסוֹם — *maḥsôm***: “Muzzle” is a concrete restraint placed over the mouth. The word intensifies the speaker’s determination not merely to speak carefully but to prevent speech altogether.  
+
+v6: **הֶבֶל — *hevel***: “Breath” names what is vapor-like, fleeting, and unsubstantial. Its repeated use in this psalm frames human life and striving as radically transient.  
+
+v7: **צֶלֶם — *tselem***: “Image” can evoke a likeness, form, or shadowy appearance. Here it portrays a person’s passing movement through life without defining precisely what that appearance signifies.  
+
+v13: **גֵּר — *ger***: “Sojourner” identifies one living away from an inherited home and dependent on the protection of others. In this prayer, the term expresses the speaker’s unsettled life before God.  
+
+v13: **תּוֹשָׁב — *tôshav***: “Resident alien” complements “sojourner,” stressing a person who dwells in a place without full permanence or possession.  
+
 v01: מַחְסוֹם (maḥsôm)
 “Muzzle” is a concrete restraint placed over the mouth. The word intensifies the speaker’s determination not merely to speak carefully but to prevent speech altogether.
 

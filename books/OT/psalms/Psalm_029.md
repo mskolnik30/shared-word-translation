@@ -48,6 +48,17 @@ v01: “Sons of gods” is a literal rendering of a phrase that may refer to hea
 
 ##Vocabulary
 
+v1: **בְּנֵי אֵלִים — *bene ʾelim***: “sons of gods.” This expression places the LORD above all heavenly powers summoned to ascribe glory to him.  
+
+v3: **קוֹל — *qol***: “voice.” Repeated seven times in vv. 3–9, the LORD’s voice is heard in the thunderstorm and portrayed as active throughout creation.  
+
+v3: **כָּבוֹד — *kavod***: “glory.” The word conveys weight, splendor, and manifest honor. The God of glory thunders, and all in his temple answer, “Glory!”  
+
+v10: **מַבּוּל — *mabbul***: “flood.” This distinctive term recalls the cosmic waters of the flood narrative, emphasizing that the LORD reigns even over chaos.  
+
+v10: מַבּוּל (mabbul)
+“flood.” This distinctive term recalls the cosmic waters of the flood narrative, with a sense of that the LORD reigns even over chaos.
+
 v01: בְּנֵי אֵלִים (bene elim)
 “Sons of gods/divine beings.” A plural expression for members of the heavenly assembly.
 
@@ -56,6 +67,3 @@ v03: קוֹל (qol)
 
 v03: כָּבוֹד (kavod)
 “glory.” The word conveys weight, splendor, and manifest honor. The God of glory thunders, and all in his temple answer, “Glory!”
-
-v10: מַבּוּל (mabbul)
-“flood.” This distinctive term recalls the cosmic waters of the flood narrative, with a sense of that the LORD reigns even over chaos.

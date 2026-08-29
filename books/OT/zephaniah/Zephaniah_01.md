@@ -121,6 +121,22 @@ v03: The phrase “the stumbling blocks along with the wicked” is syntacticall
 
 ##Vocabulary
 
+v2: **אָסַף — *ʾāsap***: “to gather” or “to sweep away.” Its repeated use here turns gathering into a comprehensive removal from the earth.  
+
+v3: **מַכְשֵׁלָה — *makšēlâ***: “stumbling block.” In this judgment oracle, it names what is bound up with wickedness and leads toward ruin.  
+
+v4: **כְּמָרִים — *kemārîm***: “idolatrous priests.” The term distinguishes cult personnel connected with unauthorized worship from the ordinary term for priests.  
+
+v5: **צָבָא — *ṣābāʾ***: “host” or “army.” “The host of the heavens” refers to the celestial bodies worshiped as divine powers.  
+
+v7: **זֶבַח — *zevaḥ***: “sacrifice.” The word frames the day of the LORD as a sacrificial feast, while leaving the identity of the sacrifice chillingly implicit.  
+
+v12: **שֶׁמֶר — *šemer***: “dregs” or “sediment.” The wine image describes people who have become fixed and inactive in complacency.  
+
+v15: **עֶבְרָה — *ʿebrâ***: “wrath.” Here it characterizes the day as the active outworking of the LORD’s judgment.  
+
+v18: **קִנְאָה — *qinʾâ***: “jealousy” or “zeal.” In this passage it expresses the LORD’s consuming response to covenantal betrayal and idolatry.  
+
 v02: אָסַף (ʾāsap)
 “to gather” or “to sweep away.” Its repeated use here turns gathering into a comprehensive removal from the earth.
 

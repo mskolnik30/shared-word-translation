@@ -112,6 +112,27 @@ v01: The paired commands use the same Hebrew verb, creating an insistent summons
 
 ##Vocabulary
 
+v1: קָשַׁשׁ (*qāshash*)  
+— The repeated imperative presses the shameless nation to collect or gather itself before judgment comes.  
+
+v3: עָנָו (*ʿānāw*)  
+— “Humble” names those who live under the LORD’s justice, not merely those with a modest temperament. The verse calls them to seek both righteousness and humility.  
+
+v7: שְׁאֵרִית (*sheʾērît*)  
+— “Remnant” identifies those of Judah who remain after loss. Their future on the coast contrasts with the removal of its former inhabitants.  
+
+v7: פָּקַד (*pāqad*)  
+— Rendered “attend to,” this verb can describe the LORD’s decisive visitation, whether in judgment or care. Here it grounds the remnant’s restoration.  
+
+v9: נְאֻם (*neʾum*)  
+— “Declares” introduces the LORD’s solemn pronouncement and gives the oath in this verse prophetic authority.  
+
+v10: גָּאוֹן (*gāʾôn*)  
+— “Pride” is the exaltation of Moab and Ammon over the LORD’s people. Their self-magnifying speech becomes the stated reason for judgment.  
+
+v11: רָזָה (*rāzāh*)  
+— “Make … waste away” pictures the LORD reducing the gods of the earth to weakness and lack, exposing their inability to rival him.  
+
 v01: קָשַׁשׁ (qāshash)
 “To gather; collect.” The repeated imperative creates an insistent summons.
 
