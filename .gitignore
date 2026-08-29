@@ -9,3 +9,6 @@ audit/notes_recovery_backups/
 
 # Temporary recovery-script backups
 *.before-conflict-fix
+
+# Temporary versification-recovery backups
+*.before-reference-fix
