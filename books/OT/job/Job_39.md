@@ -119,12 +119,19 @@ its eyes see from far away.
 v30: Its young suck blood,
 and where the slain are, there it is.”
 </p>
+
 ## Notes
+
 v01–04: The LORD directs Job toward hidden processes of wild birth that occur without human supervision. Knowledge and care exist outside human observation.
+
 v05–12: Wild donkey and wild ox are valuable precisely because they are not domesticated. The speech celebrates creaturely freedom that does not serve human economic purposes.
+
 v09: The “wild ox” is Hebrew *re'em*, probably the extinct aurochs rather than the mythical unicorn found in some older translations.
+
 v13–18: The ostrich passage is playful and paradoxical: limited apparent wisdom coexists with remarkable speed. Creaturely value is not reduced to one standard of intelligence.
+
 v19–25: The warhorse’s fearlessness is described with admiration even though warfare itself is dangerous. The animal embodies a power Job did not create.
+
 v26–30: Hawk and eagle act through capacities not derived from human wisdom or command, extending the theme of creation’s independence from human governance.
 
 ## Vocabulary

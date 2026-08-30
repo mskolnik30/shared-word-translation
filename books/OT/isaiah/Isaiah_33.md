@@ -54,10 +54,15 @@ v22: For the LORD is our judge. the LORD is our lawgiver. the LORD is our king. 
 v23: Your rigging is untied. They could not strengthen the foot of their mast. They could not spread the sail. Then the prey of a great spoil was divided. The lame took the prey.
 v24: The inhabitant will not say, "I am sick." The people who dwell in it will be forgiven their iniquity.
 </p>
+
 ## Notes
+
 v17: The chapter moves from present threat to a vision of the king in beauty and a secure Zion, holding crisis and future hope in one horizon.  
+
 v08: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
+
 v05: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+
 v03: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
 ## Vocabulary
@@ -76,4 +81,3 @@ v03: גּוֹיִם (goyim)
 
 v05: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-

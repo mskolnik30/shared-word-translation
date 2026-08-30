@@ -97,16 +97,27 @@ I will cut off your prey from the earth,
 and the voice of your messengers
 will be heard no more.”
 </p>
+
 ## Notes
+
 v01: “shatterer” — The Hebrew participle can describe one who scatters, smashes, or breaks apart. The identity of the attacker is not named in the verse; the focus is the imminent assault upon Nineveh.
+
 v02: “restoring the majesty of Jacob” — The Hebrew verb can mean restore or turn back. Assyria's destruction is placed within the LORD's restoration of a people previously plundered.
+
 v03: “cypress spears” — The Hebrew noun refers to fir, cypress, or another conifer. The line is difficult and may describe spears being shaken or brandished amid the preparation for battle.
+
 v05: “He remembers his nobles” — The subject is not explicitly named. Within the siege scene it most naturally refers to Nineveh's ruler summoning or recalling officers as the attack intensifies.
+
 v06: “river gates” — Nineveh stood on the Tigris and was intersected by watercourses. The verse does not explain whether the gates are literal hydraulic defenses or part of the vision's imagery of collapse.
+
 v07: “It is decreed” — The Hebrew word is difficult and has sometimes been taken as a proper name. TSW follows the sense of a determined or fixed judgment while acknowledging the uncertainty.
+
 v08: “like a pool of water” — Nineveh's former stability and abundance are contrasted with water suddenly draining away. The city's population or strength flees despite commands to stop.
+
 v10: “Empty, emptied, and devastated” — The Hebrew uses a threefold sound pattern. TSW preserves the accumulation even though the wordplay cannot be reproduced fully in English.
+
 v11–12: Assyria's royal and military power is pictured through lions feeding without fear. The question “Where is the lions' den?” announces the collapse of that previously secure predatory order.
+
 v13: “LORD of Hosts” — The title places Nineveh's military power under the authority of the LORD who commands the heavenly armies.
 
 ## Vocabulary

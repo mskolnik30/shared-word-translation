@@ -340,23 +340,41 @@ v65: You will give them hardness of heart;
 v66: You will pursue them in anger and destroy them
   from under the heavens of the LORD.
 </p>
+
 ## Notes
+
 v01–03: “affliction… darkness… again and again” — The lament is relentless and personal; suffering is narrated as sustained divine pressure, not a single bad day.
+
 v07–09: “walled me in… shuts out my prayer… blocked my ways” — The poet names the terror of divine silence and confinement: no exit, no hearing, no clear path.
+
 v10–13: bear / lion / target — God is imagined as hunter and archer; these metaphors are not doctrinal claims but grief-speech that tells the truth of felt experience.
+
 v14–18: “laughingstock… wormwood… hope… perished” — Social shame compounds inner agony; bitterness becomes bodily, and hope feels extinguished.
+
 v21: “this I call to mind” — The hinge is memory: not denial of pain, but a deliberate reorientation of attention.
+
 v22–24: “steadfast love… mercies… new every morning… portion” — Covenant language breaks through despair. Hope is grounded in God’s character and daily renewed compassion, not in immediate circumstance.
+
 v26: “wait quietly” — Quiet waiting is framed as strength, not passivity: a disciplined refusal to panic or self-save.
+
 v27–30: “bear the yoke… mouth in the dust… cheek to the striker” — These are hard sayings. The point is endurance under suffering without retaliatory violence, holding open the possibility of hope.
+
 v31–33: “not reject forever… not… from his heart” — The poem insists grief is not God’s final word; compassion is deeper than judgment, and affliction is not God’s delight.
+
 v34–36: “deny justice… the Lord does not approve” — Even amid divine judgment, God is not aligned with oppression. Injustice is condemned as contrary to the Most High.
+
 v37–38: “unless the Lord has commanded… calamity and good” — A high view of God’s sovereignty is voiced without neat explanations; the text refuses a world where suffering is outside God’s awareness.
+
 v40–42: “examine… return… rebelled” — Lament turns communal: confession and return are named as fitting responses, without pretending they instantly erase consequences.
+
 v43–45: “wrapped… anger… prayer cannot pass” — The sense of blocked prayer returns; alienation is pictured as cosmic weather—clouded heavens.
+
 v48–51: “streams of tears… until the LORD looks down” — Persistent weeping becomes intercession; the poet prays through tears toward God’s seeing.
+
 v55–58: “called… from the pit… you came near… redeemed” — The second major turning: God’s nearness breaks in, not as abstraction but as reassurance (“Do not fear”) and rescue.
+
 v59–63: “judge my case… you have seen… you have heard” — The poet appeals to God as witness and judge; justice is entrusted to God’s sight and hearing.
+
 v64–66: repayment / curse — The ending is raw. It voices the desire for moral reckoning rather than personal revenge, placing vengeance in God’s hands—even while the language remains fierce and unresolved.
 
 ## Vocabulary

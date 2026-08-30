@@ -63,14 +63,23 @@ v34: Hadid, Zeboim, Neballat;
 v35: Lod and Ono, the Valley of Craftsmen.
 v36: Some divisions of the Levites of Judah were assigned to Benjamin.
 </p>
+
 ## Notes
+
 v01: Resettling Jerusalem required people as well as walls. The lot distributes the burden of inhabiting the restored city among the wider population.
+
 v02: Those who volunteer receive communal blessing, suggesting that residence in Jerusalem involved sacrifice as well as privilege.
+
 v03: “holy city” — Jerusalem’s civic resettlement is framed within its sacred identity.
+
 v16: “outside work” — The Levites’ responsibilities extended beyond liturgical acts to practical administration connected with the temple complex.
+
 v17: Mattaniah’s role links prayer with organized thanksgiving and the inherited musical tradition associated with Asaph.
+
 v23: Persian royal administration appears even in the support of temple singers, showing that restoration occurs within imperial structures.
+
 v25–35: The geographic list broadens the chapter from Jerusalem to the settlements of Judah and Benjamin, depicting a restored network of inhabited communities.
+
 v36: The terse final verse preserves the overlapping settlement of Levitical divisions across tribal territory.
 
 ## Vocabulary

@@ -50,17 +50,29 @@ v12: and may the Lord make you increase and abound in love for one another and f
 <p>
 v13: so that he may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all his holy ones.
 </p>
+
 ## Notes
+
 v01–02: Paul’s decision to remain alone underscores the urgency of sending Timothy. Presence is redistributed for the sake of strengthening the community.  
+
 v02: Timothy is described in layered terms—brother, coworker, servant—indicating relational and functional identity.  
+
 v03–04: Affliction is not unexpected but “appointed.” Suffering is integrated into the community’s formation.  
+
 v05: Concern centers on the possibility that temptation could render prior labor “in vain,” linking perseverance to outcome.  
+
 v06: Timothy’s report functions as mediation. Faith and love are confirmed through testimony.  
+
 v07: The community’s stability provides comfort to Paul, reversing expected direction of encouragement.  
+
 v08: “Now we live” expresses dependence. Paul’s sense of vitality is tied to their steadfastness.  
+
 v09–10: Thanksgiving is described as insufficient to match joy. Prayer seeks completion where something is “lacking.”  
+
 v11: Direction of travel is placed under divine agency, not personal planning alone.  
+
 v12: Love is expansive—“for one another and for all”—without boundary.  
+
 v13: Holiness is oriented toward a future event (“the coming of our Lord Jesus”), linking present formation with eschatological expectation.  
 
 ## Vocabulary

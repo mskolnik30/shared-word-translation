@@ -97,14 +97,23 @@ and seek my face.
 In their distress
 they will seek me earnestly.
 </p>
+
 ## Notes
+
 v01: Mizpah and Tabor may represent cultic or political centers where leaders became a “snare” rather than guides. The exact historical practices are not specified.
+
 v02: The Hebrew of this verse is difficult. TSW follows the sense that rebellion has become deeply connected with slaughter while the LORD announces discipline.
+
 v04: “Their deeds do not allow them to return” portrays accumulated behavior as shaping moral incapacity. The people are not merely making isolated mistakes.
+
 v07: “foreign children” likely refers to a generation formed outside covenant faithfulness, though the phrase may also carry marital or cultic overtones.
+
 v10: Moving a boundary marker was an act of theft and violation of inherited land. Judah’s leaders are compared to those who erase rightful boundaries.
+
 v11: The final word translated “command” is uncertain and may refer to a human command, idol, or oppressive decree. TSW retains the broad term.
+
 v13: “great king” translates a difficult royal designation, likely referring to the Assyrian king as a powerful imperial ruler.
+
 v15: The LORD’s withdrawal is purposeful and temporary: judgment continues “until” guilt is acknowledged and the divine face is sought.
 
 ## Vocabulary

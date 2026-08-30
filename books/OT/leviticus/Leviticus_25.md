@@ -111,14 +111,23 @@ v53: The person shall be with the buyer like a worker hired year by year. The bu
 v54: If the person is not redeemed by these means, that person and the children with them shall go free in the Year of Jubilee.
 v55: For the Israelites are servants to me. They are my servants whom I brought out of the land of Egypt. I am the LORD your God.
 </p>
+
 ## Notes
+
 v02–07: The land itself is commanded to keep Sabbath. The rest is not only for landowners but provides food for servants, hired workers, resident aliens, livestock, and wild animals.
+
 v10: “liberty” renders דְּרוֹר (deror), release from binding economic conditions. The Jubilee joins return to family with return to ancestral property.
+
 v14–17: Because land returns in the Jubilee, a sale is valued according to the number of harvests remaining rather than as permanent alienation of the land.
+
 v23: “The land is mine” provides the theological ground for the land laws. Israel possesses the land while remaining “resident aliens and temporary residents” with the LORD.
+
 v25: “redeemer” refers to a close relative responsible for restoring family property when possible. The legal role is tied to kinship and preservation of inheritance.
+
 v35–43: An impoverished Israelite who enters service is not to be treated as a permanent slave. The exodus grounds the restriction: Israelites belong as servants to the LORD.
+
 v44–46: The text explicitly distinguishes foreign slaves from Israelite debt-servants and permits foreign slaves to be held as inheritable property. TSW retains the legal distinction without softening or harmonizing it with later moral or theological judgments.
+
 v47–55: Even when an Israelite has sold themselves to a prosperous resident alien, kinship redemption and the Jubilee prevent permanent loss of freedom within Israel.
 
 ## Vocabulary

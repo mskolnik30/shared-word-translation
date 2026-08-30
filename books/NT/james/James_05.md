@@ -64,22 +64,39 @@ v19: My brothers, if anyone among you wanders from the truth and someone brings 
 
 v20: let him know that whoever brings back a sinner from his wandering will save his soul from death and will cover a multitude of sins.
 </p>
+
 ## Notes
+
 v01: Judgment is announced before explanation.  
+
 v02–03: Wealth is depicted as decaying rather than stable.  
+
 v03: Corrosion becomes testimony.  
+
 v04: Injustice is personified as crying out.  
+
 v05: Present indulgence is linked to future judgment.  
+
 v06: The righteous are passive; no defense is described.  
+
 v07–08: Patience is illustrated through agricultural timing.  
+
 v08: Nearness is asserted without specification.  
+
 v09: Judgment is imminent; behavior is adjusted accordingly.  
+
 v10–11: Past examples function as models without expansion.  
+
 v12: Speech is simplified; complexity is removed.  
+
 v13–16: Prayer is applied across varied conditions.  
+
 v15: Physical and spiritual outcomes are paired.  
+
 v16: Confession is communal, not private only.  
+
 v17–18: Example shows continuity between past and present.  
+
 v19–20: Restoration is relational; outcome is preservation.  
 
 ## Vocabulary

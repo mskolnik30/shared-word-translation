@@ -78,19 +78,33 @@ v30: Now Sarai was barren; she had no child.
 v31: Terah took Abram his son, and Lot the son of Haran, his grandson, and Sarai his daughter-in-law, his son Abram’s wife, and they went out together from Ur of the Chaldeans to go into the land of Canaan. But when they came to Haran, they settled there.
 v32: The days of Terah were two hundred five years, and Terah died in Haran.
 </p>
+
 ## Notes
+
 v01: Human unity is described through shared language and speech. The narrative presents this unity as a significant source of collective power.  
+
 v03–04: The project centers on human achievement, security, and reputation. The repeated “for ourselves” highlights self-directed ambition.  
+
 v04: The desire to avoid being scattered stands in tension with God’s purpose that humanity fill the earth.  
+
 v05: The LORD “comes down” to see the tower. The irony is deliberate: a tower reaching heaven still requires divine descent to be examined.  
+
 v06–07: The problem is not human creativity itself but humanity united in a project detached from divine purposes.  
+
 v08–09: Scattering and linguistic diversity become the means through which God restrains human self-exaltation.  
+
 v09: The name Babel is linked to the confusion of language. The narrative employs a wordplay between Babel and the verb “to confuse.”  
+
 v10–26: The genealogy narrows the focus from the nations of the earth to the family line through which the Abraham narrative will unfold.  
+
 v27–32: The account of Terah’s family bridges primeval history and the story of Abram.  
+
 v30: Sarai’s barrenness is introduced before God’s promises, establishing a central tension in the chapters that follow.  
+
 v31: The movement toward Canaan begins with Terah, though the journey pauses in Haran.  
+
 v32: The chapter ends with death and incompletion, creating anticipation for the call of Abram.  
+
 v09: The narrative employs a wordplay between Babel and the verb “to confuse.”
 
 ## Vocabulary
@@ -136,4 +150,3 @@ v01: שָׂפָה (śāpâ)
 
 v04: שֵׁם (šēm)
 “Name.” Often can denote reputation, identity, or lasting significance.
-

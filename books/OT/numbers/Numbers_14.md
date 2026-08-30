@@ -89,12 +89,19 @@ v43: For the Amalekites and the Canaanites are there before you, and you will fa
 v44: But they presumed to go up to the heights of the hill country, though the ark of the covenant of the LORD and Moses did not move from the midst of the camp.
 v45: Then the Amalekites and the Canaanites who lived in that hill country came down, struck them, and beat them down as far as Hormah.
 </p>
+
 ## Notes
+
 v03–04: Fear of the land becomes a desire to reverse the exodus itself. The rebellion is therefore not only refusal of Canaan but rejection of the journey out of Egypt.
+
 v09: “they are bread for us” — Joshua and Caleb reverse the spies’ language of a land that “devours” its inhabitants. The feared peoples are instead pictured as consumable before Israel.
+
 v18: Moses appeals to the LORD’s own self-description, holding forgiveness and judgment together rather than invoking mercy as denial of justice.
+
 v20: Pardon does not erase every consequence. The LORD forgives the people yet judges the generation that refuses to enter the land.
+
 v34: The forty years correspond to the forty days of exploration. The Hebrew word translated “opposition” can also convey rejection or alienation.
+
 v40–45: The people’s attempted obedience comes after the command has changed. Presumption is not transformed into faith merely by repeating the action previously refused.
 
 ## Vocabulary

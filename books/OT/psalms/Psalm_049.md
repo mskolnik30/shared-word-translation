@@ -71,8 +71,11 @@ who will never again see light.
 v20: A human being in honor, yet without understanding,
 is like the beasts that perish.
 </p>
+
 ## Notes
+
 v05: The Hebrew phrase rendered “those at my heels” is compact and may describe pursuers, deceivers, or the iniquity that surrounds the speaker. The ambiguity is not fully resolved in the main text.
+
 v11: The consonantal Hebrew permits difficulty in the first phrase. “Their graves are their homes forever” follows a common reading that fits the surrounding contrast between wealth and mortality.
 
 ## Vocabulary

@@ -115,23 +115,41 @@ v35: There will be two grinding together; one will be taken and the other left.�
 <p>
 v37: And answering, they say to him, “Where, Lord?” And he said to them, “Where the body is, there also the vultures will be gathered.”
 </p>
+
 ## Notes
+
 v01–02: Stumbling is inevitable, but responsibility for causing it is severe.
+
 v03–04: Forgiveness is repeated and responsive to repentance.
+
 v05–06: Faith is measured by efficacy, not quantity.
+
 v07–10: Obedience does not create entitlement; duty remains duty.
+
 v11–14: Healing occurs in obedience before visible change.
+
 v15–16: Gratitude distinguishes the one who returns.
+
 v18: The outsider (Samaritan) becomes the model responder.
+
 v19: “Saved” extends beyond physical healing to restored relationship.
+
 v20–21: The kingdom is present but not observable by conventional signs.
+
 v24: The coming of the Son of Man will be unmistakable.
+
 v25: Suffering precedes revelation.
+
 v26–29: Ordinary life continues until sudden judgment.
+
 v32: Lot’s wife embodies backward attachment.
+
 v33: Life is preserved through loss, not grasping.
+
 v35: The paired sayings place separation within ordinary shared settings. Some manuscripts add a further example in which two are in a field and one is taken while the other is left.
+
 v36: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add wording parallel to Matthew 24:40. Public verse numbering is retained.
+
 v37: The final saying emphasizes inevitability and visibility of judgment.
 
 ## Vocabulary
@@ -219,4 +237,3 @@ v33: ψυχή (psychē)
 v37: ἀετός (aetos)
 
 “Vulture.”
-

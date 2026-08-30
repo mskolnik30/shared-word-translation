@@ -39,10 +39,15 @@ v11: Look, the LORD has proclaimed to the end of the earth, Say you to the daugh
 look, his reward is with him, and his recompense before him.
 v12: They will call them The holy people, The redeemed of the LORD: and you will be called Sought out, A city not forsaken.
 </p>
+
 ## Notes
+
 v04: The new names reverse Zion’s former abandonment. Naming is part of restoration, not merely a change of reputation.  
+
 v01: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+
 v01: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
+
 v02: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
 ## Vocabulary
@@ -61,4 +66,3 @@ v01: צְדָקָה (tsedaqah)
 
 v01: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-

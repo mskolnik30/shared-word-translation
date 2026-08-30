@@ -60,15 +60,25 @@ v16: “Go, gather all the Judeans who are found in Susa and fast for me. Do not
 
 v17: So Mordecai passed on and did according to all that Esther had commanded him.
 </p>
+
 ## Notes
+
 v01–03: Public mourning spreads wherever the extermination decree arrives. Sackcloth, ashes, fasting, weeping, and lamentation form a communal response before any political solution appears.
+
 v04: Esther’s first response is to send clothing, perhaps because she does not yet know the cause of Mordecai’s mourning or because sackcloth cannot enter the royal gate.
+
 v08: Mordecai’s instruction brings Esther’s hidden identity into direct tension with her royal position. She must now act “for her people.”
+
 v11: The danger Esther describes is institutional, not hypothetical. Unauthorized approach to the king can result in death unless the king extends the scepter.
+
 v13: “Do not imagine in your life” is a Hebrew idiom meaning do not suppose inwardly that palace status guarantees safety.
+
 v14: “relief and deliverance will arise … from another place” is one of Esther’s most suggestive lines. The Hebrew book never explicitly names God, and TSW does not insert a divine name here. Mordecai expresses confidence in deliverance without identifying its source in the sentence.
+
 v14: “Who knows” preserves uncertainty rather than claiming Mordecai possesses direct prophetic knowledge of Esther’s purpose.
+
 v16: Esther’s three-day fast makes her action a communal act of solidarity and dependence. The Hebrew text does not explicitly mention prayer, so TSW does not add it.
+
 v16: “If I perish, I perish” is neither despair nor certainty of death; it is Esther’s acceptance of the risk attached to action.
 
 ## Vocabulary

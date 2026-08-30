@@ -132,21 +132,37 @@ v46: And buying a linen cloth, taking him down, he wrapped him in the linen clot
 
 v47: And Mary Magdalene and Mary the mother of Joses were watching where he was laid.
 </p>
+
 ## Notes
+
 v01: Jesus is handed from religious authority to imperial authority; responsibility is shared without being flattened.
+
 v02: “You say so” is neither simple denial nor ordinary confession.
+
 v05: Jesus’ silence continues the passion pattern of restraint before accusation.
+
 v10–15: Pilate recognizes envy yet acts to satisfy the crowd, exposing political cowardice.
+
 v17–20: Mock kingship ironically speaks the truth it intends to ridicule.
+
 v21: Simon is compelled into the way of the cross without prior explanation.
+
 v24: The division of garments emphasizes public humiliation and dispossession.
+
 v29–32: The mockery turns Jesus’ saving mission into a demand for self-preservation.
+
 v34: The Aramaic cry preserves the rawness of abandonment while echoing scripture.
+
 v38: The torn curtain signals divine action, but the text does not over-explain its meaning.
+
 v39: The centurion’s confession arises at the moment of death, not after a visible triumph.
+
 v40–41: The women are named as witnesses and disciples through following and service.
+
 v43: Joseph’s courage contrasts with the fear and flight surrounding Jesus’ death.
+
 v47: The burial location is witnessed, preparing for the resurrection narrative.
+
 v28: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add a fulfillment statement citing Isaiah 53:12. Public verse numbering is retained.
 
 ## Vocabulary
@@ -234,4 +250,3 @@ v43: εὐσχήμων (euschēmōn)
 v46: μνημεῖον (mnēmeion)
 
 “Tomb.” Burial place, often cut from rock.
-

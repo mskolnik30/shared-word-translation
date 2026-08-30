@@ -33,8 +33,11 @@ they will wash their feet in the blood of the wicked.
 v11: And people will say, "Surely there is a reward for the righteous;
 surely there is a God who judges on earth."
 </p>
+
 ## Notes
+
 v09: The Hebrew of the thorn-and-pot image is difficult. The line emphasizes the swiftness of judgment before the cooking fire can take effect, while the precise sense of the terms describing the thorns remains uncertain.
+
 v11: The closing acclamation voices the conclusion that righteousness is not futile and that there is a God who judges on the earth.
 
 ## Vocabulary

@@ -108,17 +108,29 @@ v45: until your brother’s anger turns away from you and he forgets what you ha
 <p>
 v46: Then Rebekah said to Isaac, “I am weary of my life because of the Hittite women. If Jacob takes a wife from the Hittite women like these, from the women of the land, what good will my life be to me?”
 </p>
+
 ## Notes
+
 v01–04: Isaac seeks to bestow the blessing privately upon Esau despite earlier divine words concerning the older and younger sons.  
+
 v05–17: Rebekah's actions are driven by her understanding of the promise, yet the narrative does not explicitly approve the deception.  
+
 v20: Jacob invokes the LORD in support of a lie, intensifying the seriousness of the deception.  
+
 v22–27: Isaac's uncertainty is repeated throughout the encounter. Hearing, touch, smell, and taste all play roles in the mistaken identification.  
+
 v28–29: The blessing includes fertility, prosperity, authority, and protection. It echoes themes from God's promises to Abraham.  
+
 v30–33: Isaac recognizes that the blessing cannot simply be revoked. The spoken blessing carries enduring force.  
+
 v34–38: Esau's grief is portrayed vividly and sympathetically. The narrative does not reduce him to a mere antagonist.  
+
 v36: Esau connects the loss of the blessing with the earlier transfer of the birthright, though the circumstances of the two events differ.  
+
 v39–40: Esau receives a future marked by struggle, dependence, and eventual resistance.  
+
 v41–45: The deception secures the blessing but fractures the family. Promise and conflict remain intertwined.  
+
 v46: Rebekah frames Jacob's departure in terms of marriage, providing a reason Isaac can readily support.  
 
 ## Vocabulary
@@ -159,4 +171,3 @@ v45: “To forget.” Here referring to the hoped-for fading of resentment.
 
 v46: קוּץ (qûṣ)  
 “To be weary” or “loathe.” A strong expression of distress or dissatisfaction.  
-

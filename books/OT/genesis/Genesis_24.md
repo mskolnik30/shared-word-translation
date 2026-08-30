@@ -184,14 +184,23 @@ v66: And the servant told Isaac all the things that he had done.
 
 v67: Then Isaac brought her into the tent of Sarah his mother and took Rebekah, and she became his wife, and he loved her. So Isaac was comforted after his mother’s death.
 </p>
+
 ## Notes
+
 v03–04: Marriage is framed as covenant continuity, not merely social arrangement.  
+
 v12–14: The servant’s prayer seeks providential alignment, not arbitrary sign.  
+
 v21: Silent observation reflects discernment rather than immediate assumption.  
+
 v27: “Steadfast love and faithfulness” (hesed and emet) define covenant reliability.  
+
 v50–51: Recognition of divine origin removes human negotiation.  
+
 v58: Rebekah’s consent is explicit—she participates actively in the covenant unfolding.  
+
 v63: Isaac’s “meditation” suggests reflective attentiveness, possibly prayer.  
+
 v67: Love is named explicitly, rare in Genesis narratives, paired with comfort.
 
 ## Vocabulary
@@ -231,4 +240,3 @@ v58: הָלַךְ (hālak)
 v67: אָהַב (ʾāhav)  
 
 “To love.” Relational attachment, often covenantal.  
-

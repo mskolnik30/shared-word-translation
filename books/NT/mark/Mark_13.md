@@ -112,20 +112,35 @@ v36: lest coming suddenly he find you sleeping.
 
 v37: And what I say to you I say to all: Watch.”
 </p>
+
 ## Notes
+
 v01–02: Admiration for temple grandeur is met with a word of dismantling.
+
 v03: The Mount of Olives setting places the discourse opposite the temple, physically and symbolically.
+
 v05: The first command is not to calculate but to avoid deception.
+
 v07–08: Wars and disasters are not treated as the end itself but as preliminary anguish.
+
 v09–11: Persecution becomes occasion for witness; speech is promised as gift.
+
 v13: Endurance is tied to salvation without reducing salvation to human stamina.
+
 v14: “Let the reader understand” interrupts the discourse and signals discernment.
+
 v15–16: Urgency is expressed through refusal to retrieve possessions.
+
 v19–20: Distress is extreme, but divine shortening preserves life for the elect.
+
 v21–23: Signs and wonders do not guarantee truth; discernment is necessary even amid power.
+
 v24–27: Cosmic imagery frames the Son of Man’s coming as public and apocalyptic.
+
 v30–31: The tension between nearness and permanence is maintained rather than resolved.
+
 v32: The Son’s not knowing is stated without qualification; the text preserves distinction within obedience.
+
 v33–37: Watchfulness replaces date-setting as the proper posture of discipleship.
 
 ## Vocabulary
@@ -198,4 +213,3 @@ v33: ἀγρυπνέω (agrypneō)
 v37: γρηγορέω (grēgoreō)
 
 “To watch.” Vigilant readiness.
-

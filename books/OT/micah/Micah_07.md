@@ -141,21 +141,37 @@ and steadfast love to Abraham,
 as you swore to our fathers
 from the days of old.
 </p>
+
 ## Notes
+
 v01–06: Micah laments the moral collapse of society, where corruption affects every level of human relationships.  
+
 v02: The disappearance of the faithful echoes prophetic themes of widespread covenant unfaithfulness.  
+
 v03: Political, judicial, and social leaders cooperate in injustice rather than restraining it.  
+
 v05–06: Sin has become so pervasive that even family relationships are fractured.  
+
 v07: The prophet responds to societal collapse not with despair but with trust in God.  
+
 v08–09: The speaker acknowledges guilt while remaining confident in God's eventual vindication.  
+
 v09: Divine discipline and divine salvation are held together within the covenant relationship.  
+
 v11–12: The restoration of Zion includes the gathering of people from distant lands.  
+
 v14: The imagery of shepherding recalls God's covenant care for Israel throughout its history.  
+
 v15: The future deliverance is compared to the exodus from Egypt.  
+
 v16–17: The nations are humbled before God's power and saving acts.  
+
 v18: The book concludes by focusing on God's character rather than Israel's failures.  
+
 v18: Micah's name means “Who is like the LORD?” and the closing question echoes that theme.  
+
 v19: The casting of sins into the depths of the sea portrays complete forgiveness and removal of guilt.  
+
 v20: The final verses root future hope in God's covenant promises to Abraham and Jacob.  
 
 ## Vocabulary
@@ -195,4 +211,3 @@ v19: רָחַם (rāḥam)
 
 v20: אֱמֶת (ʾĕmeṯ)  
 “Faithfulness” or “truth.” Reliability and covenant dependability.  
-

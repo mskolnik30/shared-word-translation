@@ -43,11 +43,17 @@ v14: For the life of every flesh is its blood; its blood is its life. Therefore 
 v15: Anyone, whether native-born or resident alien, who eats an animal that died by itself or was torn by animals shall wash their clothes, bathe in water, and be unclean until evening; then that person shall be clean.
 v16: But if the person does not wash the clothes and bathe the body, that person shall bear guilt.”
 </p>
+
 ## Notes
+
 v03–07: The chapter centralizes sacrificial slaughter at the sanctuary and explicitly opposes sacrifices made to “goat-demons.”
+
 v04: “bloodguilt” — The slaughter is treated as unlawful bloodshed when the animal that belongs within sacrificial practice is not brought to the sanctuary as commanded.
+
 v07: “goat-demons” — The Hebrew *se'irim* literally means “goats” or “hairy ones” and here refers to illicit cultic beings. The unusual imagery is retained rather than generalized to “idols.”
+
 v11: The verse grounds the prohibition of blood in the identification of blood with life and in blood’s assigned altar function.
+
 v13: Blood from hunted food animals is poured out and covered rather than brought to the altar, preserving respect for life outside the sacrificial system.
 
 ## Vocabulary

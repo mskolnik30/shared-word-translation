@@ -77,14 +77,23 @@ v33: The owner shall not examine whether it is good or bad and shall not exchang
 <p>
 v34: These are the commandments that the LORD commanded Moses for the Israelites on Mount Sinai.
 </p>
+
 ## Notes
+
 v02–08: The valuations assign fixed monetary amounts according to age and sex within the vow system. The text does not state that these valuations measure the intrinsic worth or dignity of the persons involved.
+
 v08: Poverty is explicitly taken into account. The priest adjusts the valuation according to the actual means of the person who made the vow.
+
 v09–13: Once an acceptable sacrificial animal is given to the LORD, exchanging it does not undo its holiness; both animals become holy. An unclean animal can instead be valued and redeemed.
+
 v16–24: The value of dedicated land is tied to both its agricultural capacity and the years remaining until Jubilee, preserving the larger principle that ancestral land is not permanently alienated.
+
 v25: The sanctuary shekel provides the standard measure. TSW retains the ancient units rather than replacing them with modern monetary equivalents.
+
 v26: A firstborn animal cannot be newly dedicated because the firstborn already belongs to the LORD by prior claim.
+
 v28–29: חֵרֶם (cherem) names an irrevocable category of devotion to the LORD that can include destruction. Verse 29 is severe and the chapter does not explain the circumstances by which a human being enters this category. TSW retains the legal statement without expanding or harmonizing it.
+
 v30–33: The tithe is described as already belonging to the LORD. Selection of every tenth herd animal is not to be manipulated by assessing its quality.
 
 ## Vocabulary

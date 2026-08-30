@@ -91,12 +91,19 @@ v54: You shall distribute the land by lot according to your clans. To a larger g
 v55: But if you do not drive out the inhabitants of the land from before you, then those whom you allow to remain shall become barbs in your eyes and thorns in your sides, and they shall harass you in the land where you live.
 v56: And then, as I intended to do to them, so I will do to you.”
 </p>
+
 ## Notes
+
 v01–02: The itinerary is presented as a written record made by Moses at the LORD’s command. Repetition is part of its archival and liturgical character and is retained rather than compressed.
+
 v03: “with a high hand” describes Israel’s bold or defiant departure in full view of Egypt after Passover.
+
 v16–36: Many stations in the wilderness itinerary do not appear elsewhere in the narrative. The list preserves a fuller memory of the journey than the selected episodes narrated in Exodus and Numbers.
+
 v38: Aaron’s death is one of the few itinerary entries supplied with an exact date, marking the transition near the end of the wilderness generation.
+
 v52: The objects named include carved or figured stones, cast images, and elevated cultic sites. The command concerns destruction of the land’s rival worship structures.
+
 v55–56: The warning reverses the conquest command: failure to remove the inhabitants will result in ongoing affliction, and Israel itself can become the object of the judgment intended for others.
 
 ## Vocabulary

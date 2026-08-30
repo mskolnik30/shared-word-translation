@@ -51,10 +51,15 @@ then the house, the house of the LORD, was filled with a cloud.
 
 v14: The priests were not able to stand to minister because of the cloud, for the glory of the LORD filled the house of God.
 </p>
+
 ## Notes
+
 v03: The seventh-month festival is the Festival of Booths.
+
 v10: Chronicles, like 1 Kings, says only the two stone tablets were in the ark at this point.
+
 v11–13: Chronicles strongly emphasizes organized Levitical music and united worship at the temple dedication.
+
 v14: The cloud signifies divine presence and recalls the tabernacle in Exodus 40.
 
 ## Vocabulary

@@ -118,21 +118,37 @@ v46: For if you love those who love you, what reward do you have? Do not even th
 v47: And if you greet only your brothers and sisters, what more are you doing than others? Do not even the Gentiles do the same?
 v48: Be perfect, therefore, as your heavenly Father is perfect.
 </p>
+
 ## Notes
+
 v01–02: Matthew frames Jesus as teacher from the mountain, evoking Sinai imagery without explicit identification. Authority is conveyed through posture and setting rather than title. Jesus appears as the new law giver (Moses) on the mountain. This ties to "fulfilling the law and the prophets" from later in his "sermon" and Moses (law) and Elijah (prophets) appearing during the Transfiguration.  
+
 v03–10: The blessings are declarative, not conditional. They name realities already claimed by God rather than virtues to be achieved.  
+
 v03: “Poor in spirit” names dependence rather than deficiency. The blessing addresses those who know their need, not those who lack faith.  
+
 v05: “Meek” does not mean passive. The inheritance of the earth echoes covenant promise rather than private reward.  
+
 v10–12: Persecution is linked to righteousness and to prophetic lineage. Suffering is contextualized within continuity, not exception.  
+
 v13–16: Salt and light are not private qualities but public realities. Visibility is assumed, not optional.  
+
 v17–20: Fulfillment is not cancellation. Jesus intensifies the law by relocating it within lived faithfulness.  
+
 v22: The progression of anger, insult, and condemnation traces how internal rupture leads to communal harm.  
+
 v23–24: Reconciliation is prioritized over ritual. Relationship becomes the condition for worship.  
+
 v27–30: Hyperbolic language is used to name seriousness, not to prescribe literal self-harm. The issue is orientation, not anatomy.  
+
 v31–32: The teaching addresses power imbalance and social consequence, not abstract legality.  
+
 v33–37: Truthfulness is framed as integrity of speech rather than mastery of oaths.  
+
 v38–42: Non-retaliation resists escalation. The examples press beyond fairness into costly generosity.  
+
 v43–45: Enemy-love is grounded in God’s indiscriminate generosity, not moral superiority.  
+
 v48: “Perfect” signals completeness or wholeness. The call is toward undivided love that mirrors God’s own way of being.  
 
 ## Vocabulary
@@ -163,4 +179,3 @@ v39: ἀντιστῆναι (antistēnai)
 
 v48: τέλειος (teleios)  
 “Perfect,” meaning whole, complete, or brought to maturity.  
-

@@ -35,8 +35,11 @@ v07: I am for peace;
 but when I speak,
 they are for war.
 </p>
+
 ## Notes
+
 v05: Meshech and Kedar are geographically distant from one another. Their pairing functions poetically as life among far-off or hostile peoples rather than as a precise travel itinerary.
+
 v07: The Hebrew begins simply, “I—peace.” “I am for peace” preserves the compressed self-identification while remaining intelligible in English.
 
 ## Vocabulary

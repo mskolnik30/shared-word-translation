@@ -32,9 +32,13 @@ v09: together with the cities set apart for the children of Ephraim within the i
 
 v10: But they did not drive out the Canaanites who lived in Gezer. So the Canaanites have lived in the midst of Ephraim to this day and became forced labor.
 </p>
+
 ## Notes
+
 v01–04: The allotment of Joseph is introduced before Ephraim and Manasseh are treated separately, preserving their shared identity as Joseph’s descendants.
+
 v09: Ephraim holds enclaves within Manasseh’s wider territory, showing that tribal boundaries did not always form simple continuous blocks.
+
 v10: Ephraim’s inability or unwillingness to drive out Gezer ends in forced labor rather than complete displacement, a pattern repeated in Judges 1.
 
 ## Vocabulary

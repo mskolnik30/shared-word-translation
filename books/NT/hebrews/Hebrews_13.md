@@ -68,13 +68,21 @@ v24: Greet all your leaders and all the saints. Those who come from Italy send y
 
 v25: Grace be with all of you.
 </p>
+
 ## Notes
+
 v18–19: Request for prayer is grounded in self-assessment rather than proof.  
+
 v20–21: Benediction combines resurrection, covenant, and present action.  
+
 v20: Titles accumulate without explanation.  
+
 v21: Divine action operates within human activity.  
+
 v22: Brevity is stated despite density of content.  
+
 v23–24: Personal details are included without expansion.  
+
 v25: Conclusion returns to grace.  
 
 ## Vocabulary

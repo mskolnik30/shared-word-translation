@@ -92,6 +92,7 @@ and my eyes a fountain of tears,
 that I might weep day and night
 for the slain of the daughter of my people.
 </p>
+
 ## Notes
 
 v13: The final clause is difficult. The Hebrew is brief and may refer to something appointed by God that will “pass over” or sweep over the people.

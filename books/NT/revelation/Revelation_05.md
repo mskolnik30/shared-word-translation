@@ -60,20 +60,35 @@ forever and ever!”
 
 v14: And the four living creatures said, “Amen!” and the elders fell down and worshiped.
 </p>
+
 ## Notes
+
 v01: The scroll is fully written (“within and on the back”), suggesting completeness rather than partial disclosure.
+
 v02: Worthiness is posed as a question before it is identified, creating tension.
+
 v03: The scope (“heaven…earth…under the earth”) emphasizes total inability.
+
 v04: Weeping signals the weight of withheld revelation.
+
 v05: Titles (“Lion,” “Root”) are declared before being visually reframed.
+
 v06: The expected Lion appears as a slain Lamb; imagery is juxtaposed rather than resolved.
+
 v06: “Seven horns” and “seven eyes” combine power and perception symbolically.
+
 v07: The act of taking the scroll marks transition from potential to action.
+
 v08: Prayers are depicted materially (“bowls of incense”), linking worship and petition.
+
 v09–10: Redemption is described corporately, spanning divisions without distinction.
+
 v11: Number language (“myriads”) signals magnitude beyond counting.
+
 v12: The sevenfold ascription accumulates without hierarchy.
+
 v13: Worship extends to all creation, not limited to heavenly beings.
+
 v14: The response concludes with affirmation (“Amen”) and embodied worship.
 
 ## Vocabulary
@@ -117,4 +132,3 @@ v12: δύναμις (dynamis)
 v13: κράτος (kratos)
 
 “Dominion.” Manifested power or ruling strength.
-

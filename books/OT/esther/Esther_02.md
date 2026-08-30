@@ -70,16 +70,27 @@ v22: The matter became known to Mordecai, and he told Queen Esther. Esther told 
 
 v23: The matter was investigated and found to be so, and the two were hanged on a tree. It was written in the book of the chronicles before the king.
 </p>
+
 ## Notes
+
 v05: Mordecai is introduced explicitly as Judean and Benjaminite, locating the coming conflict within Israel’s exilic identity.
+
 v06: Grammatically, the relative clause can attach the exile statement to Kish or Mordecai. The chronology makes an ancestral connection likely, but TSW preserves the traditional narrative flow without overexplaining it in the main text.
+
 v07: “Hadassah” is Esther’s Hebrew name; “Esther” is the name used in the Persian court setting.
+
 v08: Esther is “taken” into the royal system. The narrative does not describe the gathering as a voluntary beauty contest; imperial power over the young women should remain visible.
+
 v09: “favor” is a key narrative theme. Esther repeatedly receives favor within structures she does not control.
+
 v10: Esther’s hidden identity becomes central to the plot. Mordecai’s reason for commanding secrecy is not stated.
+
 v12–14: The text describes a royal harem system in which women spend one night with the king and afterward move to the house of concubines unless summoned again. TSW reports the structure without romanticizing it.
+
 v17: “steadfast kindness” translates *hesed*, an unusual term in a Persian court setting. Esther receives both favor and loyal kindness in the king’s eyes.
+
 v19: The second gathering of virgins is unexplained. TSW retains the statement without attempting to reconstruct a missing event.
+
 v23: “hanged on a tree” can refer to hanging, impalement, or exposure upon a wooden structure. Persian execution practices make precise reconstruction uncertain.
 
 ## Vocabulary

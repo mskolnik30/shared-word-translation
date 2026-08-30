@@ -123,18 +123,31 @@ v23: They die for lack of discipline,
 and because of their great folly
 they wander away.
 </p>
+
 ## Notes
+
 v03: “strange woman” — The Hebrew does not primarily identify ethnicity. In Proverbs the expression describes a woman outside the proper covenantal and marital relationship.  
+
 v03–04: The movement from honey and oil to wormwood and sword contrasts immediate attraction with eventual consequence.  
+
 v05: “Sheol” — The Hebrew term for the realm of the dead is retained rather than replaced with later theological language.  
+
 v06: “her ways wander” — The Hebrew can suggest instability or wandering. The woman who diverts another from the path of life is herself described as moving without a stable path.  
+
 v09–14: The warning includes social, economic, bodily, and communal consequences. Sexual unfaithfulness is not treated as a private act isolated from the rest of life.  
+
 v14: “assembly and congregation” — Shame reaches the public community. The two Hebrew terms overlap and intensify the social setting.  
+
 v15–18: Water imagery becomes an extended metaphor for marital sexuality. What belongs within the covenant of marriage is pictured as a private source of life and delight.  
+
 v16: The Hebrew may be read either as a statement or as a rhetorical question. TSW reads it as a question within the argument that the intimate “waters” of marriage should not be dispersed outside the covenant.  
+
 v18: “wife of your youth” — The expression emphasizes enduring delight within a long-standing covenant rather than the pursuit of novelty.  
+
 v19: The erotic language is explicit and positive within the marriage relationship. Proverbs does not treat bodily desire itself as the problem.  
+
 v21: Human behavior that may appear hidden is nevertheless fully visible to the LORD.  
+
 v22: Sin becomes its own restraint. The wrongdoer is pictured as tied by cords created from their own conduct.  
 
 ## Vocabulary
@@ -168,4 +181,3 @@ v21: פָּלַס (palas)
 
 v22: עָוֹן (avon)
 “Iniquity,” “wrong,” or “guilt.” Wrongdoing that can also carry its own consequence.
-

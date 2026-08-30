@@ -47,29 +47,42 @@ v21: So what advantage did you then get from the things of which you are now ash
 v22: But now that you have been freed from sin and enslaved to God, the advantage you get is sanctification. The end is eternal life.
 v23: For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.
 </p>
+
 ## Notes
+
 v05: “united with him”
 The verb signals participation rather than imitation. Paul describes a shared reality grounded in Christ’s death and resurrection, not a metaphor for moral effort.
+
 v06: “the body of sin”
 This phrase does not identify the physical body as evil. It names the self as organized under sin’s power, which is rendered powerless through participation in Christ’s death.
+
 v07: “freed from sin”
 Freedom is stated as an accomplished reality, not a future goal. The logic is declarative before it becomes imperative.
+
 v09: “death no longer exercises dominion”
 Dominion language continues the thread from Romans 5. Death is personified as a ruling power whose authority has been broken in Christ.
+
 v11: “consider yourselves”
 The verb calls for alignment of perception with reality, not self-persuasion. The exhortation rests on what God has already done.
+
 v12–13: “do not let sin exercise dominion”
 The imperatives respond to a changed status. Resistance to sin flows from liberation, not from fear of condemnation.
+
 v14: “not under law but under grace”
 This contrast marks a change in governing sphere, not the abolition of moral concern. Grace names the power under which obedience becomes possible.
+
 v16: “slaves of the one whom you obey”
 Paul rejects autonomy as an option. The choice is between rival dominions, not between slavery and freedom as such.
+
 v17: “obedient from the heart”
 Obedience is redefined as responsive formation rather than external compliance. The heart names orientation, not emotion.
+
 v19: “I am speaking in human terms”
 Paul acknowledges the limits of the slavery metaphor. The analogy is illustrative, not exhaustive.
+
 v22: “enslaved to God”
 The paradox is deliberate. Belonging to God is framed as true freedom because the outcome is life rather than death.
+
 v23: “wages” / “free gift”
 The contrast is asymmetrical. Death is earned; life is given. Eternal life is not the natural result of moral improvement but the gift of God in Christ.
 
@@ -107,4 +120,3 @@ v23: χάρισμα (charisma)
 
 v05: σύμφυτος (symphytos)
 “United with.” Conveys organic participation or shared life, not mere association or imitation.
-

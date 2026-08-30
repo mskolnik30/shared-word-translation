@@ -102,12 +102,19 @@ v28: So Balak took Balaam to the top of Peor, which overlooks the wasteland.
 v29: Balaam said to Balak, “Build seven altars for me here and prepare seven bulls and seven rams for me here.”
 v30: Balak did as Balaam had said and offered a bull and a ram on each altar.
 </p>
+
 ## Notes
+
 v03: “bare height” — The Hebrew expression is uncertain and may describe an exposed or high place. TSW preserves the spatial sense without making it a technical cultic term.
+
 v07: “oracle” — The Hebrew *mashal* can mean proverb, saying, or poetic oracle. Here it introduces Balaam’s elevated poetic speech.
+
 v09: “dwelling alone” expresses Israel’s distinctive identity in the oracle; it need not imply geographical isolation from all other peoples.
+
 v19: The comparison denies human unreliability to God. The language is specifically about truthfulness and fulfillment of spoken promise.
+
 v21: The Hebrew can refer to trouble/iniquity and misery/toil. TSW retains the language of calamity rather than resolving the line into a claim of sinlessness.
+
 v23: Balaam’s own profession of divination is relativized by the oracle: no technique can overturn what God has done for Israel.
 
 ## Vocabulary

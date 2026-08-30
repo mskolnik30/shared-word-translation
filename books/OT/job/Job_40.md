@@ -96,14 +96,23 @@ it is confident though the Jordan rushes against its mouth.
 v24: Can one take it by its eyes
 or pierce its nose with snares?
 </p>
+
 ## Notes
+
 v02: The LORD characterizes Job as one who contends with and corrects the Almighty. The question focuses on Job’s attempt to litigate divine governance rather than repeating the friends’ accusations of secret social crimes.
+
 v04–05: Job’s first response is restraint, not a full retraction. He calls himself “small” and stops adding words.
+
 v08: The central challenge is whether Job must condemn God in order to establish his own righteousness. This sharpens the tension between Job’s valid integrity claim and his broader accusations about divine justice.
+
 v10–14: The LORD invites Job hypothetically to exercise universal moral governance—humbling all pride and wickedness—if Job claims the authority to judge God’s rule.
+
 v15: “Behemoth” is the Hebrew plural-form name *behemot*, related to the ordinary word for beast or cattle. The description is poetic and extraordinary; proposals to identify it strictly with a hippopotamus or another known animal do not exhaust the imagery.
+
 v17: The cedar-like tail is part of the poetic magnification of Behemoth’s power. TSW retains the image rather than adjusting it to fit a proposed zoological identification.
+
 v19: “first of the ways of God” portrays Behemoth as a chief or extraordinary work of creation, yet still a creature whose Maker remains sovereign over it.
+
 v24: Standard English numbering ends Job 40 here. In the Masoretic Text, the material corresponding to English Job 41:1–8 continues as Job 40:25–32.
 
 ## Vocabulary

@@ -83,39 +83,73 @@ v29: But just as at that time the one born according to the flesh persecuted the
 v30: But what does the scripture say? “Cast out the slave woman and her son, for the son of the slave shall not inherit with the son of the free woman.”
 v31: So then, brothers and sisters, we are not children of the slave but of the free woman.
 </p>
+
 ## Notes
+
 v01: heir…child…slave — Paul uses a household/legal analogy. The point is not that heirs “aren’t really heirs,” but that while they are minors their lived status can resemble slavery: constrained, managed, and not yet exercising inheritance.  
+
 v02: guardians and stewards — These are not “villains.” They represent legitimate, temporary authority within an ordered household, underscoring Paul’s argument about a time-limited arrangement.  
+
 v03: children…enslaved — Paul widens the analogy: immaturity becomes a metaphor for being held under powers that govern life “until” God’s decisive action.  
+
 v03: elemental powers of the world — Paul’s phrase is deliberately broad. It can name religious systems, cosmic/spiritual powers, and the basic “rules” by which the world manages belonging and worth.  
+
 v04: fullness of time — The emphasis is timing and fulfillment, not mere chronology. Paul frames Jesus’ coming as God’s decisive moment within history.  
+
 v04: sent the Son — “Sent” carries mission language. The Son’s coming is God’s initiative, not humanity’s achievement.  
+
 v04: born of a woman — Paul stresses real human birth and solidarity. The phrase is plain and concrete, not poetic distance.  
+
 v04: born under the law — Jesus enters the covenantal situation fully, inside the obligations and limits Paul has been describing.  
+
 v05: redeem — Redemption is pictured as liberation from an existing condition (“under the law”), not simply forgiveness of individual wrongs. The goal is a new status and belonging.  
+
 v05: adoption as children — Paul uses legal-family language to describe changed standing: not tolerated servants but recognized children with inheritance.  
+
 v06: because you are children — The logic matters: the Spirit is not a reward for becoming God’s children; the Spirit is given as the lived confirmation of that reality.  
+
 v06: crying, “Abba! Father!” — Paul pairs an Aramaic address with its Greek equivalent. The prayer is intimate and direct, and it is the Spirit’s cry in the community, not merely private sentiment.  
+
 v07: no longer a slave but a child — Paul’s conclusion is identity language. The change is status, relationship, and future—grounded “through God,” not through performance.  
+
 v08–09: not gods…known by God — Paul sharpens the contrast: former “gods” lack reality, while true knowledge is reversed—being known by God defines belonging.  
+
 v09: turning back — The danger is regression. Paul treats returning to structured religious systems as a re-entry into bondage, not progress.  
+
 v10: days and months and seasons and years — Likely refers to calendrical observances. Paul’s concern is not timekeeping itself but reliance on such practices as markers of status before God.  
+
 v11: labored in vain — Paul names pastoral risk. The issue is not disagreement but the possibility that their transformation is being undone.  
+
 v12: become as I am — Paul appeals relationally, not abstractly. His authority is embodied in shared life, not imposed from distance.  
+
 v13–14: weakness of the flesh — Paul recalls vulnerability at his first visit. The gospel arrived not with strength but through embodied limitation, which the Galatians received with grace.  
+
 v15: blessing…eyes — A vivid memory of devotion. Paul contrasts their former affection with present suspicion.  
+
 v16: telling you the truth — Truth here creates tension. Paul reframes conflict as the cost of faithfulness, not betrayal.  
+
 v17: eager for you — Rival teachers pursue influence, but their aim is control (“shut you out”), not genuine good.  
+
 v19: in the pain of childbirth — Paul shifts metaphors. Leadership becomes labor: ongoing, costly, and oriented toward formation, not mere instruction.  
+
 v19: Christ formed in you — The goal is not conformity to a system but the internal shaping of Christ’s life within the community.  
+
 v21: do you not listen to the law? — Paul argues from within the very authority his opponents claim, reframing “law” as a narrative that points beyond itself.  
+
 v23: according to the flesh…through promise — Paul contrasts two modes of existence: human arrangement versus God’s initiating promise.  
+
 v24: interpreted allegorically — Paul signals a figurative reading. He is not denying history but drawing theological meaning from it.  
+
 v25: present Jerusalem — Represents the current system centered on law-observance, characterized here as ongoing slavery.  
+
 v26: Jerusalem above — A theological reality, not merely a place. It names a community defined by freedom and promise.  
+
 v27: barren…rejoice — Quoted scripture reinforces reversal: fruitfulness comes not from human capacity but from God’s action.  
+
 v29: persecution — The pattern repeats. Conflict between “flesh” and “Spirit” is not incidental but recurring.  
+
 v30: cast out — The language is stark. Paul emphasizes that inheritance and slavery are not compatible categories.  
+
 v31: not children of the slave — Final identity claim. Paul closes where he began: the community’s status is defined by freedom, not constraint.  
 
 ## Vocabulary

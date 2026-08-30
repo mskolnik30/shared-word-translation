@@ -196,21 +196,37 @@ beyond Damascus,
 says the LORD,
 whose name is the God of Hosts.
 </p>
+
 ## Notes
+
 v02: Israel is personified as a fallen young woman lying without anyone to raise her. The lament announces death-like collapse before the judgment has fully occurred.
+
 v05: “Bethel will become nothing” uses wordplay with *aven* (“trouble,” “wickedness,” or “nothingness”), echoing Amos’s polemical treatment of Bethel.
+
 v07: Wormwood is intensely bitter. Turning justice into wormwood makes what should sustain community bitter and destructive.
+
 v08: “Pleiades and Orion” are conventional identifications of two ancient Hebrew constellation names. Exact astronomical equivalence is not completely certain.
+
 v09: The Hebrew verb translated “flashes destruction” is rare and difficult. The line clearly portrays sudden ruin reaching strongholds.
+
 v10–12: The city gate is the place of public legal judgment. Hatred of truthful correction and exploitation of poor people therefore corrupt the justice system itself.
+
 v11: “grain tax” may refer to an imposed levy, rent, or exaction taken from the poor. The exact economic mechanism is less clear than the exploitation.
+
 v13: The prudent person’s silence may describe self-protection in a corrupt society rather than commend silence in the face of injustice.
+
 v15: “Perhaps” preserves prophetic restraint. Reform is required, but the prophet does not present divine grace as mechanically controlled by human action.
+
 v18–20: Amos overturns the expectation that “the day of the LORD” will automatically mean victory for Israel. For an unjust covenant people it is darkness.
+
 v21–24: The LORD’s rejection is directed not at worship as such but at worship severed from justice and righteousness.
+
 v24: “ever-flowing stream” refers to a watercourse that does not dry up seasonally, making justice continuous rather than occasional.
+
 v25: The rhetorical question about wilderness sacrifices has several interpretations in relation to Torah’s sacrificial traditions. TSW leaves it as a question rather than resolving the theological tension.
+
 v26: “Sikkuth” and “Kiyyun” are difficult names or titles, probably associated with astral deities or cult objects. Ancient versions differ, and later citation traditions render the names differently. TSW transliterates the Masoretic forms.
+
 v27: Exile “beyond Damascus” moves the northern kingdom farther than its familiar Syrian horizon, pointing toward Assyrian deportation.
 
 ## Vocabulary

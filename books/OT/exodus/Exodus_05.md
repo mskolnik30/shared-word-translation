@@ -96,6 +96,7 @@ v22: Then Moses returned to the LORD and said, “Lord, why have you brought har
 <p>
 v23: For since I came to Pharaoh to speak in your name, he has brought harm upon this people, and you have not delivered your people at all.”
 </p>
+
 ## Notes
 
 ## Vocabulary

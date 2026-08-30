@@ -135,12 +135,19 @@ and fire consumes the tents of bribery.
 v35: They conceive trouble and give birth to harm,
 and their womb prepares deceit.”
 </p>
+
 ## Notes
+
 v02: Eliphaz answers Job’s claim to wisdom with sarcasm, accusing him of filling himself with the hot, destructive “east wind.”
+
 v04: Eliphaz now charges Job’s speech itself with undermining reverence and prayer before God, intensifying his criticism from earlier speeches.
+
 v08: “council of God” — The phrase evokes privileged access to divine deliberation. Ironically, the reader has seen a heavenly council in chapters 1–2, but Job and Eliphaz have not.
+
 v14–16: Eliphaz argues from universal human impurity to Job’s guilt. His claim about human limitation is broader than the specific conclusion he draws about Job.
+
 v17–19: Eliphaz appeals again to traditional wisdom passed down through an uncontaminated ancestral line.
+
 v20–35: The speech gives an extended portrait of the wicked person living in fear and ending in ruin. Its implied application to Job is challenged by the book’s prologue and by Job’s observations of prosperous wrongdoers.
 
 ## Vocabulary

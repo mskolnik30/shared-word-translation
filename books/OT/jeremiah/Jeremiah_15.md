@@ -96,6 +96,7 @@ v20: I will make you to this people a fortified wall of bronze. They will fight 
 <p>
 v21: “I will deliver you from the hand of the wicked, and redeem you from the grasp of the ruthless.”
 </p>
+
 ## Notes
 
 v11: The Hebrew of the first clause is difficult, and ancient witnesses and translations reflect differing understandings.

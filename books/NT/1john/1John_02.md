@@ -108,24 +108,43 @@ v28: And now, little children, abide in him, so that when he appears we may have
 
 v29: If you know that he is righteous, you may be sure that everyone who practices righteousness has been born of him.
 </p>
+
 ## Notes
+
 v01: The purpose of writing is preventative, not reactive.  
+
 v01: Advocacy is relational, not procedural.  
+
 v02: Scope extends beyond the immediate group.  
+
 v03–05: Knowledge is demonstrated through obedience, not assertion.  
+
 v06: Walking is patterned after prior example.  
+
 v07–08: Old and new are held together without resolution.  
+
 v08: Light is already present, not future only.  
+
 v09–11: Love and hate function as indicators of position.  
+
 v11: Darkness affects perception, not only location.  
+
 v12–14: Repetition reinforces identity rather than progression.  
+
 v15–17: The world is defined by its desires, not its structure.  
+
 v17: Permanence is linked to doing the will of God.  
+
 v18–19: Departure reveals origin rather than causing it.  
+
 v20–21: Knowledge is affirmed, not introduced.  
+
 v22–23: Denial is relational and theological.  
+
 v24–25: Abiding sustains promise, not initiates it.  
+
 v26–27: Teaching is internalized rather than externalized.  
+
 v28–29: Confidence is tied to abiding, not achievement.  
 
 ## Vocabulary

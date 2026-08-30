@@ -85,15 +85,25 @@ let the nations be judged before you!
 v20: Put them in fear, O LORD;
 let the nations know that they are but human. Selah.
 </p>
+
 ## Notes
+
 v01–02: Praise is comprehensive—heart, memory, and proclamation.  
+
 v03–06: Past victories are interpreted as acts of divine justice.  
+
 v07–08: God’s reign is enduring and judicial—justice defines kingship.  
+
 v09–10: God is both refuge and relationally known (“those who know your name”).  
+
 v11–12: Testimony extends outward; God remembers the afflicted.  
+
 v13–14: Personal deliverance is tied to public praise.  
+
 v15–16: The wicked are undone by their own schemes—justice is reflexive.  
+
 v17–18: Judgment and hope coexist—wicked perish, needy endure.  
+
 v19–20: Final appeal centers on human limitation before divine authority.  
 
 ## Vocabulary
@@ -139,4 +149,3 @@ v18: אֶבְיוֹן (evyon)
 
 v20: אֱנוֹשׁ (‘enosh)  
 “Human.” Mortal person.  
-

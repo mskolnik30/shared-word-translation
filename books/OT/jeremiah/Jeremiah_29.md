@@ -70,17 +70,29 @@ v30: Then the word of the LORD came to Jeremiah:
 v31: Send to all the exiles, saying, Thus says the LORD concerning Shemaiah of Nehelam: Because Shemaiah has prophesied to you when I did not send him, and has made you trust in a lie,
 v32: therefore thus says the LORD: I am about to punish Shemaiah of Nehelam and his offspring. He shall not have anyone among this people to see the good that I am doing for my people, declares the LORD, for he has spoken rebellion against the LORD.
 </p>
+
 ## Notes
+
 v01–03: The chapter opens as a letter, with diplomatic care. The named bearers and the named recipients matter: this is correspondence carried between living people, not a generalized prophecy. The exile is dated and located.  
+
 v05–07: The instructions are concrete and ordinary—houses, gardens, marriages, children. The prophet refuses both rebellion and despair. The exiles are told to invest in the city that holds them captive, and to pray for it. The verb "seek" (dārash) is the same verb used in v.13 for seeking God.  
+
 v07: "In its welfare you will find your welfare" (shalom) joins the city's flourishing to the people's. The prophet does not promise that Babylon will become Israel; he promises that flourishing is shared.  
+
 v08–09: False prophets and dreamers are rebuked together. The phrase "the dreams that you cause to be dreamed" (a Hiphil form) hints at a community shaping its own consolations.  
+
 v10: "Seventy years" is a long horizon. It outlasts most of the first hearers. The promise is real, but it is not for the impatient.  
+
 v11: The famous verse. "Plans" (maḥshabôt) carries the weight of considered intent, not casual thought. "Future and hope" pairs aḥarît (latter end, outcome) with tiqwâ (cord, expectancy). The verse is addressed to a community in exile, not to individuals seeking personal optimism. The promise is communal and long.  
+
 v13: The "all your heart" of v.13 is the answer to the seeking that the city, in v.7, was the object of. Both are the same verb. To seek Babylon's welfare and to seek God are not opposed.  
+
 v14: "Restore your fortunes" (shûv shevût) is a phrase that sounds in itself like return upon return. Hebrew folds the rescue into the verb.  
+
 v17: Rotten figs recall the vision of Jeremiah 24, where the figs that cannot be eaten symbolize those who remained.  
+
 v22–23: A grim memorial. The names of the false prophets become a curse formula. The text does not soften the judgment, nor does it linger over it.  
+
 v32: "He shall not have anyone among this people to see the good that I am doing for my people" — the punishment is exclusion from the very future Jeremiah has promised. To prophesy falsely is to lose the right to inherit the consolation.  
 
 ## Vocabulary

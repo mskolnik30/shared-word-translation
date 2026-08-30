@@ -30,11 +30,17 @@ v10: As for me, my eye will not spare, nor will I have pity. I will bring their 
 <p>
 v11: And behold, the man clothed in linen, who had the writing case at his waist, brought word, saying, "I have done as you commanded me."
 </p>
+
 ## Notes
+
 v01: "destructive weapon" — The Hebrew term implies an instrument intended for acts of ruin or violence. This sets the tone for the judgment about to be executed.  
+
 v04: "put a mark on the foreheads" — This marking serves as a symbol of divine protection, differentiating between those who lament over sin and those complicit in the city's abominations.  
+
 v06: "Begin at my sanctuary" — Judgment starts where holiness is most expected, at the house of God, highlighting the seriousness of defilement among the religious leaders.  
+
 v08: "Ah, Lord Yahweh!" — Ezekiel's cry reflects the theological tension between divine justice and mercy. This invocation acknowledges God as sovereign while pleading for the survival of the remnant.  
+
 v09: The people’s claim that “the LORD has forsaken the land” and “does not see” is reported within a description of bloodshed and injustice. The narrative presents perceived divine absence as part of the moral world of the city, not as the LORD’s own verdict.
 
 ## Vocabulary

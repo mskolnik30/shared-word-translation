@@ -100,14 +100,23 @@ and Judah multiplied fortified cities.
 But I will send fire upon his cities,
 and it will devour her palaces.
 </p>
+
 ## Notes
+
 v01: The eagle may represent an invading imperial power, likely Assyria. Its speed and predatory character frame the covenant violation as exposed to attack.
+
 v02: Israel claims knowledge of God, but the surrounding verses deny that confession through covenant rebellion and rejected instruction.
+
 v04: Kingship and political appointment are criticized not because government itself is illegitimate but because Israel’s political choices proceed without recognition of the LORD.
+
 v05–06: The calf of Samaria is exposed as manufactured rather than divine. The contrast between craftsman and God is central to Hosea’s critique of idolatry.
+
 v07: “sow wind … reap whirlwind” expresses disproportionate consequence: empty practice grows into destructive result.
+
 v09: The wild donkey normally resists domestication and travels independently. Ephraim’s image is ironic because the one “wandering alone” is simultaneously purchasing alliances.
+
 v12: The Hebrew may refer to “ten thousand” or “many” instructions. The point is that even abundant divine teaching is treated as alien.
+
 v13: “return to Egypt” can invoke literal exile, symbolic return to bondage, or both. Hosea repeatedly uses Egypt as the place from which Israel was once delivered.
 
 ## Vocabulary

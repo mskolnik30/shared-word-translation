@@ -84,17 +84,29 @@ v27: Blessed be the LORD, the God of our ancestors, who put such a thing as this
 
 v28: and who extended steadfast love to me before the king, his counselors, and all the king’s powerful officials. I took courage because the hand of the LORD my God was upon me, and I gathered leaders from Israel to go up with me.
 </p>
+
 ## Notes
+
 v01–05: Ezra’s genealogy places him in the priestly line of Aaron through Eleazar and Phinehas. The genealogy is selective rather than an exhaustive father-to-son list across every generation.
+
 v06: “skilled scribe” describes Ezra as an expert in the instruction of Moses, not merely a copyist. His royal access is interpreted through the hand of God upon him.
+
 v09: The journey from Babylon to Jerusalem takes four months by the chapter’s dates. Its success is attributed to “the good hand” of God.
+
 v10: Ezra’s vocation is ordered as seeking, doing, and teaching. Study is joined to embodied obedience before public instruction.
+
 v11: Verse 11 is Hebrew. The royal letter beginning in verse 12 shifts again into Aramaic and remains Aramaic through verse 26. Hebrew resumes at verse 27.
+
 v12: The Aramaic greeting includes a difficult term often understood as “perfect,” “complete,” or part of a formal salutation. TSW uses “complete peace” to preserve the fullness of the greeting without treating the adjective as a theological description of God.
+
 v14: The “seven counselors” fit Persian court imagery of a privileged royal advisory group.
+
 v22: Talent, cor, and bath are ancient units of weight and volume. TSW retains the units rather than converting them into modern measurements within the Scripture text.
+
 v23: Persian royal support is again framed in concern that the God of heaven not bring wrath upon the king’s dynasty.
+
 v25–26: Ezra receives both teaching and judicial authority under Persian authorization. The penalties listed belong to the imperial decree and range from death to imprisonment.
+
 v27–28: Ezra interprets the king’s policy as the LORD’s work in the royal heart, bringing the narrative back from imperial Aramaic to Hebrew praise.
 
 ## Vocabulary

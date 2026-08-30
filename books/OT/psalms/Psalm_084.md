@@ -58,8 +58,11 @@ from those who walk with integrity.
 v12: O LORD of Hosts,
 happy is the one who trusts in you.
 </p>
+
 ## Notes
+
 v05: “In whose heart are the highways” is compressed Hebrew. It evokes pilgrimage routes internalized as desire and direction toward Zion.
+
 v06: “Baca” may be a place-name or may evoke weeping or balsam trees. The ambiguity is preserved by retaining the name.
 
 ## Vocabulary

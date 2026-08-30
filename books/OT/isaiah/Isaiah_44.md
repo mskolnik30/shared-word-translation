@@ -70,10 +70,15 @@ who says of Jerusalem, 'She will be inhabited;' and of the cities of Judah, 'The
 v27: who says to the deep, 'Be dry,' and 'I will dry up your rivers;'
 v28: Who says of Cyrus, 'He is my shepherd, and will perform all my pleasure,' even saying of Jerusalem, 'She will be built;' and of the temple, 'Your foundation will be laid.'"
 </p>
+
 ## Notes
+
 v09: The extended satire of idol-making exposes the contradiction of using the same material for ordinary fuel and for an object of worship.  
+
 v06: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+
 v06: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
+
 v01: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
 ## Vocabulary
@@ -92,4 +97,3 @@ v03: רוּחַ (ruach)
 
 v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-

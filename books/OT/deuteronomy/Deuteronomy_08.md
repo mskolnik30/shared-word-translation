@@ -53,14 +53,23 @@ v19: And it shall be, if you forget—utterly forget—the LORD your God, and go
 <p>
 v20: Like the nations that the LORD is destroying before you, so you shall perish, because you do not listen to the voice of the LORD your God.
 </p>
+
 ## Notes
+
 v07–09: The land is described in abundance and diversity—water, agriculture, and mineral wealth. Provision replaces wilderness scarcity.  
+
 v10: Satisfaction leads to blessing; gratitude is the proper response to fullness.  
+
 v11: Forgetting is defined ethically—failure to keep commands is not ignorance but neglect.  
+
 v12–14: Prosperity generates risk. “Lifted heart” signals pride that erases memory of deliverance.  
+
 v15–16: The wilderness is reinterpreted as formative—danger, provision, and testing serve a purpose.  
+
 v16: Humbling and testing are not punitive but oriented toward eventual good.  
+
 v17: The internal narrative of self-sufficiency is explicitly rejected.  
+
 v18: Memory restores truth—capacity itself is a gift. Wealth is tied to covenant continuity.  
 
 ## Vocabulary

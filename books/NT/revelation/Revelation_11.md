@@ -72,23 +72,41 @@ and for destroying the destroyers of the earth.”
 
 v19: Then God’s temple in heaven was opened, and the ark of his covenant was seen within his temple. There were flashes of lightning, rumblings, peals of thunder, an earthquake, and heavy hail.
 </p>
+
 ## Notes
+
 v01: Measuring marks distinction; inclusion and exclusion are both intentional.
+
 v02: The outer court is relinquished, not overlooked.
+
 v02–03: Time is expressed in differing forms (months, days) without harmonization.
+
 v04: Symbolic identification is given without explanation.
+
 v05: Speech functions as instrument of judgment.
+
 v06: Authority is patterned after earlier prophetic acts without explicit reference.
+
 v07: The beast emerges only when testimony is complete.
+
 v08: The city is named symbolically; multiple identities are layered.
+
 v09–10: Public exposure replaces burial; reaction is communal and inverted.
+
 v11: Life is restored without process; origin is attributed directly to God.
+
 v12: Ascent mirrors earlier patterns without explanation.
+
 v13: Partial destruction leads to partial response; not all resist.
+
 v14: “Woe” continues to structure the sequence.
+
 v15: The proclamation is stated as completed reality.
+
 v17: Divine identity is condensed; future element is not repeated.
+
 v18: Judgment and reward are presented together without sequencing.
+
 v19: The temple is opened; what was hidden is now seen.
 
 ## Vocabulary
@@ -131,4 +149,3 @@ v15: βασιλεία (basileia)
 v18: ὀργή (orgē)
 
 “Wrath.” Directed response, not uncontrolled anger.
-

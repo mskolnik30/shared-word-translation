@@ -97,11 +97,17 @@ v47: from thirty years old up to fifty years old, everyone who entered to perfor
 v48: those counted were eight thousand five hundred eighty.
 v49: According to the command of the LORD through Moses, each was counted according to service and burden. Thus they were counted, as the LORD commanded Moses.
 </p>
+
 ## Notes
+
 v03: The service census counts Levites from thirty to fifty years old, a narrower group than the broader Levitical census in chapter 3.
+
 v06: The Hebrew term for the outer covering is uncertain and traditionally has been rendered “badger skins,” “goatskins,” or another kind of durable leather. TSW uses the restrained expression “fine leather.”
+
 v15: The Kohathites carry the most holy furnishings but do not prepare or uncover them. Priestly covering protects both the sacred objects and the Levites who transport them.
+
 v20: Even looking upon the uncovered holy objects is prohibited. The text emphasizes boundaries of access rather than treating holiness as ordinary visibility.
+
 v49: Work is assigned person by person, joining communal service with particular responsibility.
 
 ## Vocabulary

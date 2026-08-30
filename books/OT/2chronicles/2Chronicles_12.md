@@ -54,11 +54,17 @@ v15: Now the acts of Rehoboam, first and last, are they not written in the words
 
 v16: Rehoboam lay down with his ancestors and was buried in the city of David. Abijah his son became king in his place.
 </p>
+
 ## Notes
+
 v01: Rehoboam’s strength becomes the setting for abandoning Torah, continuing Chronicles’ theme that prosperity can produce unfaithfulness.
+
 v06: “The LORD is righteous” is a concise confession accepting divine judgment.
+
 v08: Foreign domination becomes a lesson contrasting service to the LORD with service to earthly kingdoms.
+
 v09–10: Gold shields replaced by bronze visually symbolize the reduction of Solomon’s former glory.
+
 v14: Chronicles summarizes Rehoboam’s failure as not setting his heart to seek the LORD.
 
 ## Vocabulary

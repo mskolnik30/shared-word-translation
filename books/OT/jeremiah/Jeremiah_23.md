@@ -189,15 +189,23 @@ v39: therefore look, I will surely forget you and cast you away from my presence
 
 v40: I will place upon you everlasting reproach and everlasting humiliation that will not be forgotten.”
 </p>
+
 ## Notes
+
 v01–04: Kings and leaders are addressed as “shepherds.” Their failure is measured by what happens to the flock entrusted to them.
+
 v05: “Branch” translates *tsemach*, a growth image used for renewed Davidic rule. TSW retains the metaphor rather than replacing it with a later title.
+
 v06: “The LORD Is Our Righteousness” is a royal name or designation that wordplays with Zedekiah’s name, which is formed from the same Hebrew roots in reverse relationship.
+
 v09: Jeremiah’s bodily response to the LORD’s words resembles intoxication but arises from the weight of prophetic revelation rather than wine.
 
 v18, v22: The “council of the LORD” portrays genuine prophecy as participation in divine deliberation and hearing, contrasted with speech generated from the prophet’s own heart.
+
 v23–24: Divine nearness is not limitation. The LORD is both near and far and cannot be escaped through secrecy.
+
 v28–29: Dream and word are not simply equated. The contrast is between straw and grain, while the LORD’s word is also fire and a hammer.
+
 v33–40: Hebrew *massa* can mean both “oracle/burden” and a literal burden. The passage turns the people’s repeated demand for “the burden of the LORD” back upon them through wordplay.
 
 ## Vocabulary

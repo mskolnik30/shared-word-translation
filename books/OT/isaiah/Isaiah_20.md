@@ -18,9 +18,13 @@ v05: They will be dismayed and confounded, because of Ethiopia their expectation
 <p>
 v06: The inhabitants of this coast land will say in that day, 'Look, this is our expectation, where we fled for help to be delivered from the king of Assyria. And we, how will we escape?'"
 </p>
+
 ## Notes
+
 v02: Isaiah’s embodied sign-act makes prophetic speech visible. The sign concerns Egypt and Cush and warns Judah against misplaced political confidence.  
+
 v03: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+
 v05: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
 ## Vocabulary
@@ -33,4 +37,3 @@ v03: עֶבֶד (eved)
 
 v05: כָּבוֹד (kavod)  
 “Glory.” Weight, honor, or manifest splendor.  
-

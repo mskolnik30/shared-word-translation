@@ -114,7 +114,9 @@ v26: I will scatter the Egyptians among the nations
 and disperse them through the lands.
 Then they will know that I am the LORD."
 </p>
+
 ## Notes
+
 v03: **30:3 "a day of clouds"** - The imagery of clouds signifies a time of divine judgment and chaos, typically associated with the presence of God.  
   
 v06: **30:6 "Migdol to Syene"** - These cities denote the northernmost and southernmost boundaries of Egypt, indicating total destruction throughout the land.  

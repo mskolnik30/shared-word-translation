@@ -44,12 +44,17 @@ v15: The name of Hebron formerly was Kiriath-Arba. Arba was the greatest man amo
 
 And the land had rest from war.
 </p>
+
 ## Notes
+
 v02: The land is distributed “by lot,” placing territorial allocation under a process understood as discerning divine apportionment rather than mere human preference.
+
 v06: Caleb is called a Kenizzite while also standing within Judah. The text preserves this ancestral designation without explaining its relationship to tribal identity.
 
 v08, v14: “fully followed” literally carries the sense of filling up or following completely after the LORD. Caleb’s faithfulness is contrasted with the discouraging report of the other spies.
+
 v10: Caleb’s age links the present distribution of the land with the wilderness generation and the earlier promise at Kadesh-Barnea.
+
 v12: Caleb’s confidence remains qualified by dependence: “Perhaps the LORD will be with me.” His strength does not replace the need for divine presence.
 
 ## Vocabulary

@@ -161,17 +161,29 @@ v31: but those who wait for the LORD
   they shall run and not be weary;
   they shall walk and not faint.
 </p>
+
 ## Notes
+
 v01: The doubled imperative “comfort, comfort” (naḥamû naḥamû) opens what is often called the second part of Isaiah. The address is plural; comfort is a communal task.
+
 v02: “Double for all her sins” (kiplayim) has been read both as exact compensation and as full measure. The Hebrew is ambiguous; the translation preserves the doubled image without quantifying it.
+
 v03: The verse is quoted in all four Gospels, applied to John the Baptist. In its original setting, the highway is for the LORD’s return to a people in exile.
+
 v06–08: A poetic interruption. The contrast between flesh and word frames the whole oracle that follows.
+
 v06: “Loyalty” (ḥesed) is contested in this verse. Some witnesses read “glory.” The translation preserves “loyalty” for its sharper edge—what passes is not only beauty but covenant fidelity at the human level.
+
 v09: “Herald of good news” (məbasseret) is the source of the word that becomes “evangelist” through the Septuagint.
+
 v11: Pastoral imagery sits beside imperial imagery (v.10). The LORD comes with might and carries lambs.
+
 v12–17: A sequence of unanswerable questions. No subject is supplied; the comparisons themselves serve as the answer.
+
 v22: “The circle of the earth” (ḥûg hāʾāreṣ) names a horizon, not a globe; ancient cosmology rather than modern geography.
+
 v26: To call the stars “by name” names them as known. The verse adapts royal court imagery to the cosmos.
+
 v31: “Wait for the LORD” renders qāwâ, the verb of expectant trust. The promise is not invulnerability but renewed strength in continuing.
 
 ## Vocabulary

@@ -147,11 +147,17 @@ v63: These were those counted by Moses and Eleazar the priest, who counted the I
 v64: But among these there was not one of those counted by Moses and Aaron the priest when they counted the Israelites in the wilderness of Sinai.
 v65: For the LORD had said concerning them, “They shall surely die in the wilderness.” Not one of them remained except Caleb son of Jephunneh and Joshua son of Nun.
 </p>
+
 ## Notes
+
 v02: Like the first census, this count includes those of military age. Its narrative purpose is different: it identifies the generation that will receive the land.
+
 v10–11: Korah’s rebellion becomes a “sign,” yet the explicit notice that Korah’s sons did not die prevents the judgment from being read as total erasure of his line.
+
 v33: Zelophehad’s daughters are named within the census before their inheritance case is heard in chapter 27, integrating them into the land-allotment narrative.
+
 v53–56: Population determines the relative size of tribal inheritance, while the lot determines location. Deliberate allocation and divinely received lot are held together.
+
 v64–65: The census confirms the fulfillment of the wilderness judgment: only Caleb and Joshua remain from the earlier counted generation.
 
 ## Vocabulary

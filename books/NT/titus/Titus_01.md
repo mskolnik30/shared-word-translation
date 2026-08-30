@@ -48,23 +48,41 @@ v15: To the pure, all things are pure, but to the defiled and unbelieving nothin
 
 v16: They profess to know God, but they deny him by their works. They are detestable, disobedient, unfit for any good work.
 </p>
+
 ## Notes
+
 v01–03: Purpose, promise, and proclamation are linked without separation.
+
 v02: Divine reliability is asserted without argument.
+
 v03: Timing is described as appropriate, not explained.
+
 v04: Relationship is framed as familial and shared.
+
 v05: Ordering is incomplete and ongoing.
+
 v06–08: Qualifications are primarily negative and relational.
+
 v07: Role is defined as stewardship, not authority alone.
+
 v08: Positive traits are listed without hierarchy.
+
 v09: Teaching and correction are paired functions.
+
 v10–11: Opposition is internal and disruptive.
+
 v11: Motivation is attributed to gain.
+
 v12–13: External testimony is incorporated without qualification.
+
 v13: Correction is intended to restore, not exclude.
+
 v14: False teaching is tied to deviation from truth.
+
 v15: Purity is internal rather than external.
+
 v15: Defilement affects perception.
+
 v16: Confession and action are contrasted.
 
 ## Vocabulary
@@ -119,4 +137,3 @@ v15: καθαρός (katharos)
 v16: ἀδόκιμος (adokimos)
 
 “Unfit.” Not approved.
-

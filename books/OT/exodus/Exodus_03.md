@@ -70,20 +70,35 @@ v21: And I will give this people favor in the sight of the Egyptians; and when y
 
 v22: but each woman shall ask of her neighbor, and any woman who lives in her house, for silver and gold jewelry, and for clothing. You shall put them on your sons and on your daughters. So you shall plunder the Egyptians.”
 </p>
+
 ## Notes
+
 v01: “Mountain of God” anticipates its later significance (Sinai/Horeb).  
+
 v02–03: The unconsumed fire signals divine presence that sustains without destroying.  
+
 v04: The double call (“Moses, Moses”) marks urgency and personal address.  
+
 v05: Holiness redefines space—ordinary ground becomes sacred by divine presence.  
+
 v06: The patriarchal formula anchors continuity with covenant history.  
+
 v07–08: God’s response is multi-sensory: seeing, hearing, knowing, and acting.  
+
 v10: Deliverance is mediated—God sends a human agent.  
+
 v11: Moses’ objection centers on inadequacy of self.  
+
 v12: The promise of presence (“I will be with you”) answers the question of identity.  
+
 v14: The divine name resists reduction—being itself is central.  
+
 v15: The name is both revelation and memorial, sustaining identity across generations.  
+
 v16–18: The message integrates past promise with present action.  
+
 v19–20: Resistance is anticipated; deliverance requires confrontation.  
+
 v21–22: Departure includes reversal—those oppressed leave with provision.  
 
 ## Vocabulary

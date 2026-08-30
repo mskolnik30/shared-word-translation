@@ -106,11 +106,17 @@ v36: He ordered them that they should tell no one. But the more he ordered them,
 
 v37: They were exceedingly astonished, saying, “He has done all things well. He even makes the deaf hear and the mute speak.”
 </p>
+
 ## Notes
+
 v08: Tension between commandment and tradition is not resolved abstractly but concretely.
+
 v15: Defilement is reoriented from external contact to internal source.
+
 v27–28: The exchange preserves tension; boundaries are tested but not erased.
+
 v29: The woman’s “word” becomes the turning point.
+
 v16: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add, “If anyone has ears to hear, let him hear.” Public verse numbering is retained.
 
 ## Vocabulary

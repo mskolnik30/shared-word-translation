@@ -33,12 +33,19 @@ all the days of your life!
 v06: May you see your children’s children!
 Peace be upon Israel!
 </p>
+
 ## Notes
+
 v01: “Fear of the LORD” frames the entire psalm—reverence expressed through lived obedience.  
+
 v02: Blessing is depicted in ordinary life: labor, provision, stability.  
+
 v03: Household imagery (vine, olive shoots) signals fertility, continuity, and rootedness.  
+
 v04: The blessing is not exceptional but normative for those aligned with God.  
+
 v05–06: Personal blessing expands to communal well-being (Zion, Jerusalem, Israel).  
+
 v06: Generational continuity (“children’s children”) marks fullness of life.  
 
 ## Vocabulary
@@ -66,4 +73,3 @@ v05: בָּרַךְ (barakh)
 
 v06: שָׁלוֹם (shalom)  
 “Peace.” Wholeness and completeness.  
-

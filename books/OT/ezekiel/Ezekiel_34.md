@@ -128,6 +128,7 @@ v30: Then they will know that I, the LORD their God, am with them, and that they
 <p>
 v31: You are my flock, the flock of my pasture. You are human beings, and I am your God, declares the LORD GOD.”
 </p>
+
 ## Notes
 
 ## Vocabulary

@@ -75,11 +75,17 @@ v30: Therefore say to them: ‘When you have contributed the best of it, then th
 v31: You may eat it in any place, you and your households, for it is your wages in return for your service at the Tent of Meeting.
 v32: You shall bear no sin because of it when you contribute the best of it. You shall not profane the holy gifts of the Israelites, so that you do not die.’”
 </p>
+
 ## Notes
+
 v01: “bear the iniquity” — Priestly responsibility includes accountability for violations connected with sacred space and priestly office; the phrase does not mean that priests become morally guilty for every Israelite act.
+
 v06–07: Both Levites and priesthood are described as gifts, but their boundaries of service remain distinct.
+
 v19: “covenant of salt” — Salt is associated with permanence and covenantal offerings. The phrase emphasizes enduring obligation without explaining a separate salt ritual here.
+
 v20: The priests’ lack of territorial inheritance is answered by the LORD’s declaration, “I am your portion and your inheritance.”
+
 v26: Levites who receive Israel’s tithe are themselves required to give a tithe from what they receive, preserving the pattern of contribution within their own provision.
 
 ## Vocabulary

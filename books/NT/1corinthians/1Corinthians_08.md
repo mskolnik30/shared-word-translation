@@ -48,13 +48,21 @@ v12: And thus, sinning against the brothers and wounding their weak conscience, 
 <p>
 v13: Therefore, if food causes my brother to stumble, I will never eat meat forever, so that I may not cause my brother to stumble.
 </p>
+
 ## Notes
+
 v01: Knowledge without love leads to pride.  
+
 v03: True knowledge is relational—being known by God.  
+
 v04–06: Monotheism reframes idol discussion.  
+
 v07: Conscience varies in strength and awareness.  
+
 v08: Food has no intrinsic spiritual value.  
+
 v09–12: Freedom must be governed by concern for others.  
+
 v13: Love limits personal rights to prevent harm.  
 
 ## Vocabulary

@@ -30,11 +30,17 @@ v08: Beyond the Jordan east of Jericho they appointed Bezer in the wilderness on
 
 v09: These were the appointed cities for all the children of Israel and for the resident alien living among them, so that anyone who struck a person unintentionally might flee there and not die by the hand of the avenger of blood before standing before the congregation.
 </p>
+
 ## Notes
+
 v03: The cities distinguish accidental killing from intentional murder. Refuge interrupts immediate blood vengeance long enough for communal judgment.
+
 v04: The city gate is the setting for legal hearing. Protection is not automatic concealment but begins with presenting the case before elders.
+
 v05: “did not hate him previously” identifies prior hostility as relevant to discerning intent.
+
 v06: The manslayer remains in the refuge city until judgment and, if protected, until the death of the high priest. The text links legal protection with a temporal boundary not fully explained here.
+
 v09: Access is explicitly extended to both Israelite and resident alien, showing that the refuge system protects people across status distinctions within the land.
 
 ## Vocabulary

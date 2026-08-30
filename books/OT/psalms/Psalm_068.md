@@ -172,28 +172,51 @@ the God of Israel—he gives power and strength to his people.
 
 Blessed be God.
 </p>
+
 ## Notes
+
 v01–03: The opening echoes traditional battle language. Divine arising results immediately in scattering, without narrative delay.  
+
 v02: The paired images (smoke, wax) emphasize transience and inevitability rather than struggle.  
+
 v04: “Rides through the deserts” preserves imagery of divine mobility, not confinement to cultivated space.  
+
 v05–06: God’s kingship is expressed through social reversal—care for the vulnerable and relocation of the isolated.  
+
 v06: Prosperity and desolation are held together without explanation. The rebellious are not integrated into the blessing.  
+
 v07–08: The wilderness tradition is recalled with cosmic effects—earthquake and storm—linking history and creation imagery.  
+
 v08: “This Sinai” is abrupt and compressed, preserving the density of the Hebrew.  
+
 v09–10: Provision is described as restoration of what had languished. Divine care is both sustaining and renewing.  
+
 v11–12: The “word” produces proclamation. Military defeat is announced in language that collapses battle and report.  
+
 v12: Women dividing spoil reflects traditional victory scenes, without commentary.  
+
 v13: The imagery shifts abruptly (sheepfolds, dove), retaining poetic compression rather than clarifying transitions.  
+
 v14: The comparison to snow at Zalmon is left uninterpreted, preserving its evocative but uncertain force.  
+
 v15–16: Bashan’s mountains are personified as envious. The chosen dwelling is defined by divine decision, not natural grandeur.  
+
 v17: Sinai is transposed into the sanctuary, collapsing past revelation into present worship.  
+
 v18: The ascent combines victory and reception. “Even among the rebellious” preserves tension within the gathering.  
+
 v19–20: Salvation is described both as daily sustaining and as deliverance from death.  
+
 v21–23: Violent imagery is retained without mitigation. Judgment is presented in stark, embodied terms.  
+
 v24–27: The procession enacts communal worship. Named tribes situate praise within Israel’s corporate identity.  
+
 v28–31: Petition turns outward toward the nations. Power is both requested and recognized.  
+
 v30: Animal imagery (“beast,” “bulls”) functions metaphorically for political powers.  
+
 v31: Egypt and Cush represent distant nations drawn into acknowledgment of God.  
+
 v32–35: The closing summons returns to universal praise. God’s transcendence (“ancient heavens”) and immediacy (“gives power”) are held together.  
 
 ## Vocabulary
@@ -242,4 +265,3 @@ v33: נָתַן קוֹל (natan qol)
 
 v35: עֹז (ʿoz)  
 “Strength.” A recurring term for divine power given to the people.  
-

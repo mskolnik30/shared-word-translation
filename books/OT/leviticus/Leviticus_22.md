@@ -65,11 +65,17 @@ v31: You shall keep my commandments and do them. I am the LORD.
 v32: You shall not profane my holy name, and I will be made holy among the Israelites. I am the LORD who makes you holy,
 v33: who brought you out from the land of Egypt to be your God. I am the LORD.”
 </p>
+
 ## Notes
+
 v02: The priests are told to “be careful with” the holy things. The Hebrew verb can carry the sense of separating oneself or treating something with guarded restraint.
+
 v10–13: Access to priestly food follows household status rather than simply ethnic identity, reflecting the economic structure of the priestly household.
+
 v19–25: Animals dedicated to the altar must be without defect, distinguishing sacrificial fitness from the human priestly restrictions of chapter 21.
+
 v27: The eighth-day threshold parallels other Levitical transitions in which a seven-day period is completed before entry into a new ritual status.
+
 v32–33: The call not to profane the LORD’s name is grounded in Israel’s exodus and in the LORD’s ongoing act of making the people holy.
 
 ## Vocabulary

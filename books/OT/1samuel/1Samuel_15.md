@@ -128,17 +128,27 @@ v34: Then Samuel went to Ramah, and Saul went up to his house at Gibeah of Saul.
 
 v35: Samuel did not see Saul again until the day of his death, but Samuel mourned for Saul. And the LORD regretted that he had made Saul king over Israel.
 </p>
+
 ## Notes
+
 v02–03: The command against Amalek reaches back to the attack on vulnerable Israelites in Exodus 17 and Deuteronomy 25. The *herem* command is severe and comprehensive and should not be generalized into later religious or ethnic violence.
+
 v09: Saul’s obedience is selective: what is economically desirable is spared while what is worthless is destroyed, reversing the logic of total devotion.
+
 v11: The LORD “regrets” making Saul king, while verse 29 says the Glory of Israel does not “change his mind.” The same Hebrew root is used in different relational contexts. TSW preserves the tension rather than harmonizing it away.
+
 v12: Saul’s monument “for himself” sharply contrasts the earlier Ebenezer stone that memorialized the LORD’s help.
 
 v15, v21: Saul shifts responsibility to “the people” while also presenting disobedient spoil as worship.
+
 v22: Sacrifice cannot substitute for hearing and obeying the divine word.
+
 v23: “Presumption” translates a difficult term often rendered stubbornness or insubordination. The parallel presents rebellion and self-willed resistance as religiously serious.
+
 v29: “Glory of Israel” is a divine title emphasizing God’s enduring reliability.
+
 v32: Agag’s statement is difficult and can mean he comes cheerfully/confidently or in chains, and that death’s bitterness has surely passed or surely arrived. TSW follows one plausible reading and notes the ambiguity.
+
 v33: Samuel’s execution of Agag is presented as retributive judgment for Agag’s own violence.
 
 ## Vocabulary

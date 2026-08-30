@@ -100,18 +100,31 @@ v37: The incense that you make according to its composition you shall not make f
 
 v38: Whoever makes any like it to smell it shall be cut off from his people.”
 </p>
+
 ## Notes
+
 v01–10: The incense altar is distinct from the bronze altar of burnt offering. Its regular service is fragrant incense morning and evening.
+
 v06: The altar stands before the veil, oriented toward the ark and the place of divine meeting beyond it.
+
 v09: “strange incense” means incense unauthorized for this altar, not merely incense from a foreign culture.
+
 v10: Annual atonement on the altar’s horns anticipates the later Day of Atonement ritual.
+
 v12: The census payment is called a “ransom for his life.” Counting the people is thus accompanied by acknowledgment that Israel’s lives belong to the LORD.
+
 v15: Rich and poor give the same half-shekel, creating equality in the census atonement contribution.
+
 v18–21: Priestly washing is required under threat of death, showing that bodily cleansing is part of approaching sacred space.
+
 v23–25: Identification of ancient aromatic substances is not always certain. TSW uses conventional names for the spices while retaining the given proportions.
+
 v29: “whatever touches them shall become holy” marks the furnishings as intensely sacred rather than available for ordinary use.
+
 v32–33: The anointing oil’s formula is restricted. Holiness includes protection of sacred use from imitation.
+
 v34: Stacte, onycha, and galbanum are traditional identifications of rare Hebrew aromatic terms; precise botanical or mineral equivalence remains uncertain.
+
 v35: “salted” may describe the incense as seasoned with salt or otherwise ritually prepared. TSW retains the concrete term.
 
 ## Vocabulary

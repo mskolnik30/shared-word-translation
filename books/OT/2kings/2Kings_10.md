@@ -110,18 +110,31 @@ v35: Jehu lay down with his ancestors, and they buried him in Samaria. Jehoahaz 
 
 v36: The days that Jehu reigned over Israel in Samaria were twenty-eight years.
 </p>
+
 ## Notes
+
 v01: “sons” can include male descendants or royal princes under Ahab’s dynasty rather than only biological sons.
+
 v06–07: Jehu forces Samaria’s leaders to participate in the destruction of Ahab’s house, binding them to his new regime through bloodshed.
+
 v09: Jehu calls the people “righteous” while publicly acknowledging his own conspiracy and shifting attention to the wider fulfillment of prophetic judgment.
+
 v10: The chapter repeatedly interprets Jehu’s violent purge as fulfillment of Elijah’s oracle, while later Hosea 1:4 announces judgment upon Jehu’s house for the blood of Jezreel. Biblical texts preserve this tension rather than flattening Jehu into a simple hero.
+
 v14: The killing of Ahaziah’s relatives widens Jehu’s purge beyond Ahab’s northern dynasty and is not accompanied here by a direct prophetic command.
+
 v15: Jehonadab son of Rechab represents a strict Yahwistic group later associated with abstinence and covenant loyalty in Jeremiah 35.
+
 v16: Jehu calls his actions “zeal for the LORD,” inviting Jehonadab to witness them. The narrative later qualifies Jehu’s faithfulness.
+
 v18–27: Jehu destroys Baal worship through deliberate deception and mass killing. TSW preserves the episode without presenting deceit or religious slaughter as a general model.
+
 v27: Turning the Baal temple into a latrine is deliberate cultic humiliation.
+
 v29–31: Jehu eliminates Baal but preserves Jeroboam’s calf sanctuaries, showing that religious reform can be selective and politically convenient.
+
 v30: Jehu receives a four-generation dynastic promise because of his role in Ahab’s judgment, even while the following verse criticizes his incomplete obedience.
+
 v32–33: The political cost of Jehu’s reign includes territorial losses to Hazael in the east.
 
 ## Vocabulary

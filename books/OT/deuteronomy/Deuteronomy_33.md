@@ -247,25 +247,45 @@ Your enemies will cringe before you,
 and you will tread
 upon their heights.”
 </p>
+
 ## Notes
+
 v01: Moses is called “the man of God,” a title identifying him by prophetic intimacy and service rather than royal office.
+
 v02: Sinai, Seir, and Paran place the divine appearance in the southern wilderness. The imagery echoes older poetic traditions of the LORD’s coming.
+
 v02: “fiery instruction” translates a very difficult Hebrew phrase. The consonantal text is unusual, and ancient versions differ. TSW preserves the close association of fire and divine instruction while noting the uncertainty.
+
 v03: “peoples” may refer broadly to Israel’s tribes or to peoples/nations more generally. The next lines focus on the holy ones receiving words at God’s feet.
+
 v05: The subject of “became king in Jeshurun” is debated. It may refer to the LORD or, less likely, Moses. TSW leaves the grammatical subject implicit in English as much as possible while the wider poem points toward divine kingship.
+
 v06: Reuben receives a brief blessing for survival despite small numbers.
+
 v08–11: Levi’s blessing links priestly discernment, loyalty, teaching, incense, sacrifice, and defense.
+
 v09: The language of disregarding father, mother, brothers, and sons recalls Levite loyalty in covenant crises. Priestly allegiance to the LORD takes precedence over kinship.
+
 v12: “between his shoulders he dwells” may picture the LORD dwelling in Benjamin’s territory, traditionally associated with Jerusalem’s temple region, or Benjamin sheltered between divine shoulders. TSW preserves the poetic ambiguity.
+
 v13–17: Joseph’s blessing is the most agriculturally abundant, gathering dew, deep waters, sun, months, mountains, hills, earth, and divine favor.
+
 v16: “the one who dwelt in the bush” recalls Moses’ encounter at the burning bush and applies that divine favor to Joseph.
+
 v17: Ephraim receives “ten thousands” and Manasseh “thousands,” reflecting Ephraim’s later prominence despite Manasseh’s firstborn status.
+
 v19: “hidden treasures of the sand” may refer to coastal resources, trade, shellfish products, or other maritime wealth. The poem does not specify.
+
 v21: Gad’s “commander’s portion” likely refers to the eastern territory secured before the crossing and to Gad’s participation with Israel’s leaders.
+
 v23: The geographic terms translated “west and south” have been understood in other ways, including sea and south. TSW follows the common territorial sense.
+
 v25: “as your days, so shall your strength be” translates a rare final word whose exact meaning is uncertain. Alternatives include security or rest. TSW preserves the traditional blessing sense.
+
 v27: “dwelling place” can also mean refuge. The image of everlasting arms underneath Israel is one of enduring divine support.
+
 v28: “fountain of Jacob” may refer to Jacob’s offspring as a source or to Israel dwelling apart. TSW preserves the compressed poetic syntax.
+
 v29: The blessing ends with the LORD as shield and sword, making Israel’s safety depend upon divine deliverance rather than military self-sufficiency.
 
 ## Vocabulary

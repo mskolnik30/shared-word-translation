@@ -39,13 +39,21 @@ Then the LORD said to Moses, “Pharaoh will not listen to you, so that my signs
 v10: 10
 Moses and Aaron performed all these signs before Pharaoh. But the LORD strengthened Pharaoh’s heart, and he did not send the children of Israel out of his land.
 </p>
+
 ## Notes
+
 v01: **11:1 — “one more blow”:** The word translated “blow” can refer to an affliction or a striking. It gathers the coming death of the firstborn into the sequence of judgments already brought upon Pharaoh and Egypt.  
+
 v02: **11:2 — “ask”:** The Hebrew verb ordinarily means “ask” or “request,” not necessarily “borrow.” The text presents the Israelites receiving silver and gold articles from their Egyptian neighbors as they prepare to leave.  
+
 v05: **11:5 — “the slave woman behind the millstones”:** The movement from Pharaoh on the throne to an enslaved woman at the grinding stones reaches across Egypt’s social order. The judgment described is not limited to the royal household.  
+
 v07: **11:7 — “not even a dog will sharpen its tongue”:** This vivid expression depicts complete quiet and absence of threat among Israel, in contrast to the great cry throughout Egypt.  
+
 v08: **11:8 — “the people at your feet”:** The phrase may refer to those who follow Moses or are under his leadership. Its bodily image portrays the whole people gathered to depart with him.  
+
 v10: **11:10 — “strengthened Pharaoh’s heart”:** The chapter closes by naming the LORD as the one who strengthened Pharaoh’s heart, while also recounting Pharaoh’s refusal to send Israel away. The narrative holds divine purpose and Pharaoh’s resistance together without explaining away either.  
+
 v08: “the people at your feet”: The phrase may refer to those who follow Moses or are under his leadership.
 
 ## Vocabulary

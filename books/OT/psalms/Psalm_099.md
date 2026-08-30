@@ -41,6 +41,7 @@ v09: Exalt the LORD our God,
   and bow down at his holy mountain;
   for the LORD our God is holy.
 </p>
+
 ## Notes
 
 v04: “The strength of the king loves justice” — The Hebrew syntax is compact and slightly ambiguous.
@@ -65,7 +66,6 @@ v08: נֹשֵׂא (*nose’*) — forgiving, bearing away; participial form sugg
 
 v08: נֹקֵם (*noqem*) — avenger; one who executes justice or retribution.
   
-
 v03: קָדוֹשׁ (qadosh)
 “Holy; set apart, distinct, wholly other.”
 

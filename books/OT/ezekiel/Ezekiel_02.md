@@ -30,10 +30,15 @@ v09: And I looked, and behold, a hand was extended to me, and there was a scroll
 
 v10: He spread it before me, and it was written on the front and on the back, and written on it were lamentations, mourning, and woe.
 </p>
+
 ## Notes
+
 v01: <sup>2:1</sup> Son of man: A title emphasizing the prophet's humanity, often used to contrast with divine authority.  
+
 v02: <sup>2:2</sup> Spirit entered: Refers to the divine empowerment of the prophet, enabling him to perform his role.  
+
 v05: <sup>2:5</sup> Rebellious house: A phrase characterizing the stubborn resistance of Israel to God's messages through His prophets.  
+
 v06: <sup>2:6</sup> Do not fear: A recurring biblical exhortation indicating reassurance in the face of daunting circumstances.  
 
 ## Vocabulary

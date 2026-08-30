@@ -45,12 +45,19 @@ v07: For the LORD is righteous;
 he loves righteous deeds;
 the upright shall behold his face.
 </p>
+
 ## Notes
+
 v01: Refuge in the LORD is contrasted with the impulse to flee.
+
 v02–03: The threat is real and systemic (“foundations destroyed”).
+
 v04: God’s position is fixed—enthroned, observing, and evaluating.
+
 v05: Testing distinguishes the righteous; violence defines the wicked.
+
 v06: Judgment imagery is elemental—fire, sulfur, and wind.
+
 v07: The final promise is relational—“behold his face.”
 
 ## Vocabulary
@@ -90,4 +97,3 @@ v07: יָשָׁר (yashar)
 
 v07: פָּנִים (panim)  
 “Face.” Presence.
-

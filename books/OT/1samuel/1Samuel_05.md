@@ -46,13 +46,21 @@ v11: So they sent and gathered all the rulers of the Philistines and said, “Se
 
 v12: The men who did not die were struck with tumors, and the cry of the city went up to the heavens.
 </p>
+
 ## Notes
+
 v02–04: The ark is placed beside Dagon as a captured divine object, but the repeated fall of Dagon reverses the apparent hierarchy of victor and captive.
+
 v04: Dagon’s severed head and hands symbolize defeated authority and power. The same body parts are used elsewhere in ancient warfare as signs of conquered enemies.
+
 v05: The threshold custom is narrated as continuing into the writer’s own time.
+
 v06: The exact medical nature of the “tumors” is uncertain. The Hebrew word describes swellings; later tradition has often associated the plague with the groin.
+
 v08: The Philistine “rulers” are the five *seranim*, leaders of the city-states.
+
 v09: “Panic” can describe confusion, terror, or destructive turmoil under divine judgment.
+
 v11: The Philistines recognize that moving the ark from city to city merely relocates the crisis.
 
 ## Vocabulary

@@ -91,19 +91,33 @@ declares the LORD.
 v14: And the LORD stirred up the spirit of Zerubbabel son of Shealtiel, governor of Judah, and the spirit of Joshua son of Jehozadak, the high priest, and the spirit of all the remnant of the people. And they came and worked on the house of the LORD of Hosts, their God,
 v15: on the twenty-fourth day of the month, in the sixth month, in the second year of King Darius.
 </p>
+
 ## Notes
+
 v01: The book is carefully dated, rooting Haggai's ministry within a specific historical setting after the exile.  
+
 v01: Zerubbabel represents the civil leadership of Judah, while Joshua represents its priestly leadership.  
+
 v02: The people justify delay by claiming the proper time for rebuilding has not yet arrived.  
+
 v04: The contrast between paneled houses and the ruined temple exposes misplaced priorities.  
+
 v05–06: Economic frustration is interpreted as a covenant consequence rather than mere misfortune.  
+
 v05: “Consider your ways” becomes a central theme of the chapter.  
+
 v08: Rebuilding the temple is connected with God's glory and pleasure.  
+
 v09–11: The drought and poor harvests are presented as divine discipline intended to awaken repentance.  
+
 v12: The people respond positively to the prophetic message, unlike many earlier generations.  
+
 v12: Fear of the LORD here reflects reverence, submission, and renewed covenant loyalty.  
+
 v13: God's promise, “I am with you,” addresses the deepest need of the community.  
+
 v14: The work begins because God himself stirs the hearts of the leaders and the people.  
+
 v14–15: Genuine repentance results in concrete action rather than words alone.  
 
 ## Vocabulary
@@ -146,4 +160,3 @@ v14: עוּר (ʿûr)
 
 v14: רוּחַ (rûaḥ)
 “Spirit.” The inner disposition, will, or motivating power of a person.
-

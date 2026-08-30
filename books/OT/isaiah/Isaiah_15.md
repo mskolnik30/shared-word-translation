@@ -30,8 +30,11 @@ its wailing to Eglaim, and its wailing to Beer Elim.
 v09: For the waters of Dimon are full of blood;
 for I will bring yet more on Dimon, a lion on those of Moab who escape, and on the remnant of the land.
 </p>
+
 ## Notes
+
 v05: The abrupt place names and cries of Moab give the oracle the texture of communal lament as well as judgment.  
+
 v09: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
 
 ## Vocabulary
@@ -44,4 +47,3 @@ v01: דָּבָר (davar)
 
 v01: רָאָה (ra'ah)  
 “To see.” Used literally and prophetically for perception or vision.  
-

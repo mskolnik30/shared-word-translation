@@ -148,17 +148,29 @@ v41: Therefore they went out from the presence of the council, rejoicing that th
 
 v42: And every day, in the temple and from house to house, they were not ceasing to teach and proclaim Jesus as the Christ.
 </p>
+
 ## Notes
+
 v03–04: Deception is framed as lying to the Spirit and to God.  
+
 v05–11: Immediate judgment establishes seriousness of community integrity.  
+
 v11: “Church” appears as defined community under divine authority.  
+
 v12–16: Signs both attract and create reverent distance.  
+
 v17–18: Opposition is motivated by jealousy, not doctrinal concern.  
+
 v19–21: Divine intervention redirects mission, not escape.  
+
 v29: Obedience hierarchy is explicitly defined.  
+
 v31: Exaltation links leadership, salvation, repentance, and forgiveness.  
+
 v33: Conviction does not necessarily lead to repentance.  
+
 v34–39: Gamaliel introduces a pragmatic test of divine origin.  
+
 v41–42: Suffering is reinterpreted as honor; proclamation continues without interruption.  
 
 ## Vocabulary

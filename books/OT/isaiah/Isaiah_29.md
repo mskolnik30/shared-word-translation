@@ -56,10 +56,15 @@ v22: Therefore thus says the LORD, who redeemed Abraham, concerning the house of
 v23: But when he sees his children, the work of my hands, in the midst of him, they will sanctify my name. Yes, they will sanctify the Holy One of Jacob, and will stand in awe of the God of Israel.
 v24: They also who err in spirit will come to understanding, and those who grumble will receive instruction."
 </p>
+
 ## Notes
+
 v01: “Ariel” is a poetic name for Jerusalem whose precise sense is debated; possible associations include “lion of God” and an altar hearth.  
+
 v19: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+
 v06: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+
 v08: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
 
 ## Vocabulary

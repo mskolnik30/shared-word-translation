@@ -35,6 +35,7 @@ v10: For forty years I was weary of that generation,
 v11: Therefore I swore in my anger,
   “They shall not enter my rest.”
 </p>
+
 ## Notes
 
 ## Vocabulary

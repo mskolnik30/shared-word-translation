@@ -140,15 +140,25 @@ v40: For we are in danger of being accused of rioting concerning today, there be
 <p>
 v41: And having said these things, he dismissed the assembly.
 </p>
+
 ## Notes
+
 v02–07: Clarification of baptism aligns disciples with Jesus and the Spirit.
+
 v08–10: Transition from synagogue to public teaching broadens reach.
+
 v11–12: Extraordinary works authenticate message.
+
 v13–16: Misuse of Jesus’ name exposes lack of relationship and authority.
+
 v17–20: Fear, confession, and renunciation mark genuine transformation.
+
 v21–22: Mission planning is Spirit-directed.
+
 v23–27: Economic interests drive opposition.
+
 v28–34: Crowd behavior is driven by emotion and identity.
+
 v35–41: Civic authority restores order through legal reasoning.
 
 ## Vocabulary
@@ -228,4 +238,3 @@ v35: γραμματεύς (grammateus)
 v40: στάσις (stasis)
 
 “Riot.”
-

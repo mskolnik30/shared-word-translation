@@ -72,18 +72,31 @@ v29: When the time drew near that Israel must die, he called his son Joseph and 
 v30: But let me lie with my fathers. Carry me out of Egypt and bury me in their burial place.” He answered, “I will do as you have said.”
 v31: And he said, “Swear to me.” So he swore to him. Then Israel bowed himself upon the head of the bed.
 </p>
+
 ## Notes
+
 v01–06: Pharaoh grants Jacob’s family favorable settlement in Goshen, providing security during the famine.  
+
 v07–10: Jacob blesses Pharaoh both upon entering and departing. The greater covenant bearer blesses the ruler of Egypt.  
+
 v09: Jacob describes his life as one of sojourning, echoing the experience of Abraham and Isaac.  
+
 v11–12: Joseph uses his position to preserve and provide for his family.  
+
 v13–26: The famine reshapes Egypt’s economy and land ownership through Joseph’s administration.  
+
 v20: The transfer of land to Pharaoh centralizes royal authority in an unprecedented way.  
+
 v24: The twenty-percent tax becomes a permanent arrangement within Egypt.  
+
 v25: The Egyptians view Joseph’s policies as life-saving rather than oppressive because they preserve the population through the famine.  
+
 v27: While Egypt struggles under famine, Israel continues to be fruitful and multiply, echoing earlier covenant promises.  
+
 v28: Jacob spends seventeen years in Egypt, the same number of years Joseph had lived with him before being sold.  
+
 v29–31: Jacob’s concern is not merely burial but identification with the covenant land promised by God.  
+
 v29: The oath ceremony recalls similar arrangements made by Abraham regarding covenant obligations.  
 
 ## Vocabulary

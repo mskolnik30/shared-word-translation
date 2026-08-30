@@ -70,15 +70,25 @@ v22: “And if a man has committed a sin deserving death and he is put to death 
 
 v23: his corpse shall not remain all night on the tree, but you shall surely bury him that day, for one hanged is a curse of God. You shall not defile your ground that the LORD your God is giving you as an inheritance.
 </p>
+
 ## Notes
+
 v01–09: Unsolved bloodshed still creates communal responsibility. The ritual does not identify a murderer but addresses innocent blood in the land.
+
 v04: The heifer’s neck is broken rather than sacrificed on an altar. The ritual occurs in an uncultivated valley, distinguishing it from ordinary sanctuary sacrifice.
+
 v05: Priests appear as authoritative witnesses to legal and ritual resolution even though local elders carry out the rite.
+
 v10–14: The captive woman is protected from immediate sexual appropriation by a required period of mourning and by marriage status. The law remains embedded in an ancient war-captive system and does not erase the coercion inherent in captivity.
+
 v14: If the husband rejects her, she must be released freely and cannot be sold. The text explicitly forbids turning her into merchandise after he has humbled her.
+
 v15: “loved” and “hated” describe relative marital preference, not necessarily absolute hatred. The law protects inheritance rights from favoritism.
+
 v17: The firstborn receives a double portion as the “first of his strength.”
+
 v18–21: The law concerning the rebellious son is extremely severe and belongs to ancient Israel’s covenantal legal order. The parents cannot privately execute him; the case must go to city elders and the community.
+
 v23: The corpse must be removed the same day so that execution does not continue as prolonged public defilement of the land.
 
 ## Vocabulary

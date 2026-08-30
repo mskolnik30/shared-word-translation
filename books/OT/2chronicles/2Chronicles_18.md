@@ -109,11 +109,17 @@ v33: But a man drew his bow in innocence and struck the king of Israel between t
 
 v34: The battle increased that day, and the king of Israel was propped up in the chariot facing Aram until evening. He died at the time of sunset.
 </p>
+
 ## Notes
+
 v01: Jehoshaphat’s marriage alliance with Ahab becomes the beginning of a dangerous entanglement with the northern dynasty.
+
 v14: Micaiah initially gives a sarcastic answer matching the court prophets, and Ahab recognizes it as insincere.
+
 v18–22: The heavenly-council vision portrays Ahab’s chosen deception becoming the means of judgment. The scene is intentionally difficult and holds divine sovereignty together with prophetic falsehood.
+
 v31: Chronicles adds explicit divine help for Jehoshaphat when he cries out.
+
 v33: “In innocence” means without deliberately targeting Ahab; the apparently random arrow fulfills the true prophecy.
 
 ## Vocabulary

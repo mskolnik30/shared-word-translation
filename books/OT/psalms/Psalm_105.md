@@ -177,14 +177,23 @@ v45: that they might keep his statutes
 and observe his laws.
 Praise the LORD!
 </p>
+
 ## Notes
+
 v01–05: Praise is linked to proclamation and memory.  
+
 v06–11: Covenant is central—rooted in promise, not circumstance.  
+
 v12–15: God protects even when the people are vulnerable.  
+
 v16–22: Joseph’s story reframes suffering as preparation.  
+
 v23–25: Even opposition is integrated into God’s purposes.  
+
 v26–36: The plagues demonstrate divine power over creation.  
+
 v37–41: Deliverance is material and sustained.  
+
 v42–45: Fulfillment leads to responsibility—obedience to God’s law.  
 
 ## Vocabulary
@@ -218,4 +227,3 @@ v41: בָּקַע (baqa)
 
 v44: נָחַל (nachal)  
 “To inherit.” Receive possession.  
-

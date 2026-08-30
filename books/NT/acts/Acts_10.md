@@ -104,26 +104,47 @@ v46: For they heard them speaking in tongues and extolling God. Then Peter said,
 v47: “Can anyone withhold the water for baptizing these people, who have received the Holy Spirit just as we have?”
 v48: So Peter ordered them to be baptized in the name of Jesus Christ. Then they asked him to remain for some days.
 </p>
+
 ## Notes
+
 v01–02: Cornelius “fears God… prays… gives to the poor” — Luke portrays a Gentile already oriented toward Israel’s God; piety and generosity prepare the ground, though the gospel still must be proclaimed (v22, v33–43).
+
 v04: “ascended as a memorial” — Prayer and almsgiving are pictured as rising before God; God’s attention precedes human initiative.
+
 v06: “Simon… a tanner” — Peter is already living near boundary-crossing impurity (tanning), signaling that God has been softening his social and ritual instincts.
+
 v10–16: sheet vision / “common or unclean” — The point is bigger than food laws: God is re-forming Peter’s imagination about purity and people (explicit in v28).
+
 v15: “What God has made clean” — Purity is declared by God’s action, not human gatekeeping; the church receives God’s verdict rather than enforcing old boundaries.
+
 v17–20: “without hesitation” — The Spirit does not merely permit; the Spirit commands crossing the line. Obedience requires speed and trust.
+
 v25–26: Cornelius worships / Peter refuses — A key correction: the gospel does not create a new human mediator class. Peter insists on shared humanity under God.
+
 v28: “any human being common or unclean” — The moral center of the chapter: God’s holiness now presses toward inclusive fellowship, dismantling dehumanizing categories.
+
 v33: “in the presence of God… to hear” — A model posture for seekers and communities: gathered, attentive, ready to obey what the Lord commands.
+
 v34: “no partiality” — Theological earthquake. God’s judgment and mercy are not bound to ethnicity or status; God is impartial in welcome and in accountability.
+
 v35: “acceptable… fears God… does what is right” — Not “works salvation,” but describing the kind of receptivity God honors. The content of salvation is still anchored in Jesus (v36–43).
+
 v36: “good news of peace… Lord of all” — Peace is not merely inner calm but reconciled order under Jesus’ universal lordship.
+
 v38: “anointed… doing good… healing… oppressed” — The gospel summary emphasizes Jesus’ Spirit-filled, justice-shaped ministry: goodness, healing, liberation.
+
 v39: “hanging him on a tree” — Deuteronomy resonance: shameful execution becomes the place where God overturns curse and death.
+
 v41: “ate and drank with him” — Resurrection is embodied and communal; witness is grounded in shared table fellowship, not private visions only.
+
 v42: “judge of the living and the dead” — Jesus’ lordship includes final justice; the good news is also a warning to oppressors and a hope for the harmed.
+
 v43: “everyone who trusts… forgiveness” — The invitation is radically widened: forgiveness is offered to “everyone” through trust in Jesus’ name.
+
 v44–46: Spirit falls “while… still speaking” — God interrupts the sermon. The Spirit’s timing prevents the church from controlling access.
+
 v45: “even on the Gentiles” — The shock is the point: God gives the same gift without requiring cultural conversion first.
+
 v47–48: “withhold the water… baptized” — Baptism follows God’s initiative; the church recognizes what God has already done and then publicly names belonging.
 
 ## Vocabulary

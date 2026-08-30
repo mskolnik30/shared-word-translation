@@ -122,6 +122,7 @@ v26: I myself will also lift your skirts over your face, and your shame will be 
 <p>
 v27: Your adulteries, your lustful neighings, your shameless prostitution—on the hills in the field I have seen your detestable things. Woe to you, Jerusalem! Will you not be made clean? How long yet?”
 </p>
+
 ## Notes
 
 v16: The Hebrew text includes a form with a traditional reading that clarifies the final clause; the translation follows that reading.

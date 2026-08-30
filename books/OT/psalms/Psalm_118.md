@@ -97,6 +97,7 @@ v28: You are my God, and I will give you thanks;
 v29: Give thanks to the LORD, for the LORD is good;
   for the LORD’s steadfast love endures forever.
 </p>
+
 ## Notes
 
 v01–04: “steadfast love endures forever” — The psalm begins with a litany: gratitude is taught by communal repetition, grounding praise in covenant loyalty (ḥesed), not in mood.

@@ -102,11 +102,17 @@ v36: You shall have honest balances, honest weights, an honest ephah, and an hon
 
 v37: You shall keep all my statutes and all my judgments and do them. I am the LORD.
 </p>
+
 ## Notes
+
 v01–02: Holiness is derivative—Israel reflects the character of the LORD. The command is communal (“all the congregation”).
+
 v15: Justice resists both partiality toward the poor and deference to the powerful. Righteousness is even-handed.
+
 v16: Speech is regulated alongside action—slander and passive complicity in harm are both prohibited.
+
 v17: Interior disposition matters; hatred is addressed before it manifests outwardly. Reproof is framed as responsibility.
+
 v18: The prohibition of vengeance culminates in positive command—love defines covenantal ethics. “As yourself” establishes measure and scope.
 
 ## Vocabulary
@@ -154,4 +160,3 @@ v18: אָהַב (ʾāhaḇ)
 v18: רֵעַ (rēaʿ)  
 
 “Neighbor.” Fellow member of the community.
-

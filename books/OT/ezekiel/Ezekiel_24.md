@@ -162,6 +162,7 @@ and you shall speak and be no longer mute.
 Thus you shall be a sign to them,
 and they shall know that I am the LORD.
 </p>
+
 ## Notes
 
 ## Vocabulary

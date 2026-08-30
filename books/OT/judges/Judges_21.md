@@ -74,15 +74,23 @@ v24: The children of Israel departed from there at that time, each to his tribe 
 
 v25: In those days there was no king in Israel. Everyone did what was right in their own eyes.
 </p>
+
 ## Notes
+
 v01: Israel’s oath creates the crisis that drives the chapter. A vow made in anger becomes a constraint that the people attempt to solve without reconsidering the violence of the vow itself.
+
 v03: Israel laments the possible loss of Benjamin after having nearly destroyed the tribe. Grief follows the consequences of their own collective action.
 
 v05, v10–12: A second oath becomes the justification for destroying Jabesh-Gilead. The attempt to repair one act of violence generates another.
+
 v11: The sexual wording is deliberately explicit in the Hebrew because virginity becomes the criterion by which women are spared and reassigned.
+
 v13: “proclaimed peace” — Israel makes peace with the surviving Benjaminites while simultaneously securing wives for them through violence against another community.
+
 v19–23: The plan concerning the women of Shiloh avoids technically “giving” daughters to Benjamin by permitting their seizure. The legal maneuver does not resolve the moral violence of the act.
+
 v22: The elders’ reasoning focuses on avoiding liability under the oath. The women’s consent is absent from the narrative.
+
 v25: The final refrain closes the book without resolving its disorder. “Right in their own eyes” summarizes a world in which tribal loyalty, vows, worship, sexuality, and violence have become detached from coherent covenant faithfulness.
 
 ## Vocabulary

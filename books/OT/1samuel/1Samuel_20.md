@@ -122,15 +122,25 @@ v41: The boy went, and David arose from beside the south side, fell on his face 
 
 v42: Jonathan said to David, “Go in peace, because we have both sworn in the name of the LORD, saying, ‘The LORD shall be between me and you and between my offspring and your offspring forever.’” Then David arose and went, and Jonathan went into the city.
 </p>
+
 ## Notes
+
 v02: Jonathan initially cannot believe Saul would act without informing him, showing how rapidly Saul’s intentions have become hidden even from his son.
+
 v08: David grounds his appeal in the covenant Jonathan himself established with him.
+
 v14–17: Jonathan recognizes the possibility that David will survive and become dominant and seeks enduring covenant loyalty for his household.
+
 v16: The Hebrew wording of Jonathan’s covenant formula is difficult. It may invoke judgment upon David’s enemies or upon David if he breaks the covenant. TSW preserves the received wording without over-resolving it.
+
 v19: “The day of the deed” is obscure and may refer to the earlier hiding episode in chapter 19 or another known event. “Stone Ezel” is also uncertain as a place-name.
+
 v25: The Hebrew seating description is difficult. TSW preserves the basic order without trying to reconstruct the room in detail.
+
 v30: Saul’s insult attacks both Jonathan and his mother and is intended to shame Jonathan for choosing David over dynastic self-interest.
+
 v31: “Son of death” means one condemned or deserving death.
+
 v41: “Until David exceeded” is a difficult phrase. It may mean David wept more greatly or that the emotion became overwhelming. TSW preserves the comparative sense.
 
 ## Vocabulary

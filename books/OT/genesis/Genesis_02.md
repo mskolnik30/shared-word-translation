@@ -70,27 +70,49 @@ for out of Human this one was taken.”
 v24: Therefore a human leaves father and mother and clings to a woman, and they become one flesh.
 v25: And the two of them were naked, the human and the woman, and they were not ashamed.
 </p>
+
 ## Notes
+
 v01: Creation is named complete without evaluation or hierarchy.  
+
 v02: God’s rest signifies completion, not fatigue; rest belongs to creation’s order.  
+
 v03: Time is made holy before place or people.  
+
 v04: v04: A new telling begins without harmonizing with Genesis 1. This chapter consistently uses the divine name ‘the LORD God’ (YHWH Elohim), marking a shift in address and tone.  
+
 v05: Absence is emphasized. Human work is framed as participation, not control.  
+
 v06: Provision precedes labor.  
+
 v07: The human is both fragile (dust) and dignified (breath).  
+
 v08: The human is placed in the garden as recipient before caretaker.  
+
 v09: Desire and sustenance are named together; the trees stand without moral explanation.  
+
 v10–14: Abundance flows outward; the garden resists possession.  
+
 v15: Work is cultivation and care, not domination.  
+
 v16: Freedom is stated before boundary.  
+
 v17: Consequence is named without mechanism; tension is preserved.  
+
 v18: The first “not good” names isolation. ‘Ezer kenegdo (“helper as a counterpart”) denotes strength and correspondence, not subordination. The noun ‘ezer is used predominantly of God as help in the Hebrew scriptures (e.g., Exod 18:4; Deut 33; Psalms 20, 33, 70, 121), identifying powerful rescue and sustaining aid. Within this usage, the woman is introduced as an equal partner of strength—a sign of elevation from the beginning, not subjugation.  
+
 v19: Naming animals does not resolve aloneness.  
+
 v20: Authority does not produce companionship.  
+
 v21: The deep sleep is God-initiated and unexplained.  
+
 v22: God “builds” the woman from the human’s side; intention and care are emphasized.  
+
 v23: Recognition and delight are voiced poetically; shared substance precedes difference.  
+
 v24: A theological reflection on mutual attachment, not a command.  
+
 v25: Nakedness without shame depicts trust and peace, not naivety.  
 
 ## Vocabulary

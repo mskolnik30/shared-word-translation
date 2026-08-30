@@ -60,12 +60,19 @@ v17: They went and stayed at Geruth-Chimham, which is near Bethlehem, intending 
 
 v18: because of the Chaldeans, for they were afraid of them because Ishmael son of Nethaniah had struck Gedaliah son of Ahikam, whom the king of Babylon had appointed over the land.
 </p>
+
 ## Notes
+
 v01: Ishmael’s royal ancestry may help explain his opposition to Gedaliah, whose authority came from Babylon rather than from the Davidic line.
+
 v05: The pilgrims’ mourning practices show continuing devotion connected with the ruined temple. Their arrival from former northern Israel also suggests a wider continuing attachment to Jerusalem.
+
 v06–07: Ishmael uses deceptive grief to lure the pilgrims before killing them, intensifying the betrayal.
+
 v08: Ten men survive by revealing hidden food supplies, showing the continuing scarcity and value of agricultural stores after the invasion.
+
 v09: An older defensive cistern from the days of Asa becomes a mass grave, turning a structure once associated with protecting Judah into a monument of internal violence.
+
 v17–18: The survivors move toward Egypt out of fear of Babylonian retaliation for Gedaliah’s assassination, setting up the prophetic conflict of chapters 42–44.
 
 ## Vocabulary

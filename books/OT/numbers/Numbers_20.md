@@ -65,12 +65,19 @@ v27: Moses did as the LORD commanded. They went up Mount Hor before the eyes of 
 v28: Moses stripped Aaron of his garments and put them on Eleazar his son. Aaron died there on the top of the mountain. Then Moses and Eleazar came down from the mountain.
 v29: When the whole congregation saw that Aaron had died, all the house of Israel wept for Aaron thirty days.
 </p>
+
 ## Notes
+
 v01: Miriam’s death is reported with striking brevity at Kadesh, where the generation of the wilderness is approaching its end.
+
 v08–12: The LORD commands Moses to speak to the rock. Moses instead strikes it twice. The LORD names the central failure as not trusting and not treating the LORD as holy before Israel.
+
 v10: “Shall we bring water” places Moses and Aaron rhetorically in the foreground of an act whose power belongs to the LORD.
+
 v13: “Meribah” is related to the Hebrew verb “to quarrel.” The place name becomes a memorial of both Israel’s contention and the LORD’s holiness.
+
 v14: Calling Edom “your brother” invokes the ancestral relationship of Jacob/Israel and Esau/Edom.
+
 v28: Aaron’s garments pass to Eleazar before Aaron dies, visibly transferring the high-priestly office rather than leaving a gap in priestly leadership.
 
 ## Vocabulary

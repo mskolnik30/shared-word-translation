@@ -80,23 +80,41 @@ v30: Do all have gifts of healings? Do all speak in tongues? Do all interpret?
 
 v31: But earnestly desire the greater gifts. And yet I show you a still more excellent way.
 </p>
+
 ## Notes
+
 v01: “Spiritual matters” broadens the scope beyond specific gifts, indicating a wider concern with Spirit-related life.  
+
 v02: The past is described in terms of being led, emphasizing lack of agency and contrast with Spirit-led speech.  
+
 v03: Confession (“Jesus is Lord”) is presented as Spirit-enabled. Speech reveals source.  
+
 v04–06: The triadic pattern (Spirit, Lord, God) frames diversity within unity without collapsing distinctions.  
+
 v07: Gifts are oriented toward the “common good,” not individual status.  
+
 v08–10: The list is representative rather than exhaustive. Variety is emphasized through repetition.  
+
 v11: Distribution is personal and purposeful, governed by the Spirit’s will rather than human control.  
+
 v12–13: The body metaphor grounds unity in shared participation in the Spirit, crossing social and ethnic divisions.  
+
 v13: “Made to drink of one Spirit” complements baptism imagery, emphasizing ongoing participation.  
+
 v14–20: The imagined speech of body parts exposes false conclusions about belonging.  
+
 v18: Placement within the body is attributed to divine arrangement, not human choice.  
+
 v21–24: The logic of honor is reversed. What seems weaker or less presentable receives greater care.  
+
 v25–26: Unity is expressed through mutual participation in suffering and honor.  
+
 v27: Identity is both corporate (“body”) and particular (“members”).  
+
 v28: The ordering of roles is given without explanation, preserving structure without hierarchy of value.  
+
 v29–30: Rhetorical questions resist uniform expectation. Not all share the same function.  
+
 v31: Desire for “greater gifts” is affirmed, but immediately reframed toward “a more excellent way,” preparing for what follows.  
 
 ## Vocabulary
@@ -163,4 +181,3 @@ v28: ἀπόστολος (apostolos)
 
 v31: ζηλόω (zēloō)  
 “To desire earnestly.” Can imply zeal or strong longing.  
-

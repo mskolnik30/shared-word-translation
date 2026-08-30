@@ -56,12 +56,19 @@ v17: Then the children of Ammon were gathered together and camped in Gilead. The
 
 v18: The people, the leaders of Gilead, said to one another, “Who is the man who will begin to fight against the children of Ammon? He shall become head over all the inhabitants of Gilead.”
 </p>
+
 ## Notes
+
 v01–05: Tola and Jair receive only brief notices, yet both are said to judge Israel. The quiet summaries contrast with the violent instability surrounding Abimelech and Jephthah.
+
 v04: Jair’s thirty sons, donkeys, and towns communicate wealth and social standing. The Hebrew name *Havvoth-Jair* means “villages of Jair.”
+
 v06: The list of gods is unusually broad, portraying Israel’s unfaithfulness as comprehensive rather than limited to a single cult.
+
 v10–14: Israel’s confession initially receives a severe response. The LORD points to repeated deliverances followed by repeated abandonment.
+
 v16: “his soul became impatient over the misery of Israel” — The Hebrew is strikingly anthropomorphic and literally describes the LORD’s *nefesh* becoming short or unable to endure Israel’s suffering. TSW preserves the emotional force.
+
 v18: The chapter ends with a leadership vacuum. The question is not yet who the LORD will raise up, but who will begin the fight and thereby become head over Gilead.
 
 ## Vocabulary

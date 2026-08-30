@@ -67,10 +67,15 @@ will give thanks to you forever;
 from generation to generation
 we will tell of your praise.
 </p>
+
 ## Notes
+
 v05: The question “How long?” gives voice to faith under divine anger without denying either the devastation of the people or their continuing claim upon the LORD.  
+
 v08–09: The prayer asks both for mercy and for atonement. Deliverance is sought not as a claim of innocence but for the glory and sake of God’s name.  
+
 v10: The psalm joins the public vindication of God’s name with justice for the blood of God’s servants. The repeated phrase “among the nations” intensifies the plea that this justice be visible.  
+
 v11: “Those doomed to die” literally evokes “children of death,” an image for people held under a sentence of death or facing certain destruction.
 
 ## Vocabulary

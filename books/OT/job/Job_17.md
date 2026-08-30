@@ -67,12 +67,19 @@ And my hope—who will see it?
 v16: Will it go down to the bars of Sheol?
 Shall we descend together into the dust?”
 </p>
+
 ## Notes
+
 v01: Job speaks as though death is immediately before him. His body, time, and future all seem exhausted.
+
 v03: Job asks God to provide the pledge for Job’s own case. The legal image is paradoxical: God is both the one with whom Job disputes and the only possible guarantor.
+
 v05: The Hebrew proverb is difficult. It appears to condemn betrayal of friends for gain and warns that such betrayal has consequences extending to one’s household.
+
 v06: Job’s suffering has become public humiliation; he is not merely ill but socially transformed into a proverb and object of contempt.
+
 v08–09: Job imagines the truly upright being appalled by his treatment rather than joining the friends’ accusations. Righteousness persists by holding to the way.
+
 v13–16: Hope is reduced to the possibility of Sheol as home and kinship with pit and worm. Job asks whether any hope can survive such descent.
 
 ## Vocabulary

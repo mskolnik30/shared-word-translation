@@ -42,12 +42,19 @@ v09: to execute on them the judgment written.
 This is honor for all his faithful ones.
 Praise the LORD!
 </p>
+
 ## Notes
+
 v01: “New song” signals renewed recognition of God’s action.
+
 v02–03: Worship is embodied—joy expressed through movement and music.
+
 v04: Divine pleasure is directed toward the humble, not the powerful.
+
 v05: Joy extends into private space (“on their beds”), not only public worship.
+
 v06–09: Tension between praise and violence—faithful participation in divine judgment.
+
 v09: “Judgment written” suggests alignment with divine decree, not autonomous action.
 
 Overall: The psalm holds together celebration, identity, and participation in God’s justice.
@@ -95,4 +102,3 @@ v08: אֲסוּרִים (asurim)
 
 v09: מִשְׁפָּט (mishpat)  
 “Judgment.” Justice or decree.
-

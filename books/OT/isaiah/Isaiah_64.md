@@ -34,10 +34,15 @@ v11: Our holy and our beautiful house, where our fathers praised you, is burned 
 and all our pleasant places are laid waste.
 v12: Will you refrain yourself for these things, the LORD? will you hold your peace, and afflict us very sore?
 </p>
+
 ## Notes
+
 v06: The Hebrew image commonly rendered “filthy rags” uses language associated with menstrual cloth. TSW should preserve the force without turning ritual imagery into contempt for the body.
+
 v10: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.
+
 v02: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
+
 v05: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
 
 ## Vocabulary

@@ -90,15 +90,25 @@ v15: As for me, I shall behold your face in righteousness;
 
 when I awake, I shall be satisfied with your likeness.
 </p>
+
 ## Notes
+
 v01–02: The appeal rests on integrity; “just cause” frames the prayer as a legal plea before God.
+
 v03: Testing imagery (trial, night visitation) presents examined character rather than claimed innocence.
+
 v04: “Word of your lips” functions as guard—divine speech shapes ethical restraint.
+
 v05: Stability language (held fast, not slipped) mirrors covenantal fidelity.
+
 v07: “Steadfast love” (ḥesed) appears as active rescue; God’s right hand signals power and protection.
+
 v08: Dual imagery—eye and wings—combines intimacy and shelter.
+
 v10–12: The enemy is characterized by hardness, arrogance, and predatory intent; lion imagery intensifies threat.
+
 v13–14: Judgment is requested as divine intervention; contrast emerges between those satisfied in this life and the speaker.
+
 v15: Final hope is not material but relational—seeing God’s face and bearing likeness.
 
 ## Vocabulary
@@ -162,4 +172,3 @@ v14: חֵלֶק (ḥēleq)
 v15: תְּמוּנָה (tĕmûnāh)  
 
 “Likeness.” Form, visible representation.
-

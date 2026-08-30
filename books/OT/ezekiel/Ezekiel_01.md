@@ -45,10 +45,15 @@ v26: And above the expanse over their heads there was the likeness of a throne, 
 v27: And upward from what had the appearance of his waist I saw, as it were, gleaming metal, like the appearance of fire enclosed all around. And downward from what had the appearance of his waist, I saw, as it were, the appearance of fire, and there was brightness around him.
 v28: Like the appearance of the bow that is in the cloud on the day of rain, so was the appearance of the brightness all around. Such was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell on my face, and I heard the voice of one speaking.
 </p>
+
 ## Notes
+
 v01: - **v01**: The mention of "the thirtieth year" is debated among scholars, with some interpreting it as Ezekiel's age while others see it as a reference to a Jubilee cycle. The text remains ambiguous, highlighting a specific timing of divine vision.  
+
 v03: - **v03**: "The hand of the Lord was upon him" suggests a significant divine interaction, a moment of commissioning and empowerment for Ezekiel's prophetic task.  
+
 v04–28: - **v04-28**: This section describes a theophany — an appearance of God, marked by awe-inspiring imagery. The visions reveal the glory of God in transcendent, symbolic terms, packed with rich visual and auditory details.  
+
 v24–25: - **v24-28**: The repeated mention of sound emphasizes the powerful presence of the divine voice accompanying the visual phenomena, symbolizing authority and revelation.  
 
 ## Vocabulary

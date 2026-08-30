@@ -152,6 +152,7 @@ v48: Then he brought me to the vestibule of the temple and measured the gatepost
 <p>
 v49: The length of the vestibule was twenty cubits, and its width was eleven cubits. There were steps by which they went up to it, and pillars stood beside the gateposts, one on this side and one on that side.
 </p>
+
 ## Notes
 
 v44: The Hebrew can be read as referring either to chambers “for singers” or to chambers situated in relation to those who sing.

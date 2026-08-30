@@ -44,11 +44,17 @@ do not let the hand of the wicked drive me away.
 v12: There the workers of trouble have fallen;
 they are thrust down and cannot rise.
 </p>
+
 ## Notes
+
 v01: The Hebrew has a difficult first-person expression, “within my heart,” even though the surrounding lines concern the wicked person. The syntax has produced differing construals, and the tension should not be resolved too quickly.
+
 v02: The wording is compressed. Self-flattery is portrayed as preventing the wicked from discovering and hating their own guilt.
+
 v05–06: The psalm answers the confined world of the wicked with the immeasurable scale of God’s steadfast love, faithfulness, righteousness, and judgments; the imagery moves from the heavens and mountains to the great deep.
+
 v07–08: The refuge of God’s wings is joined with abundance, nourishment, and flowing water. The imagery gathers protection and delight without reducing them to a single setting.
+
 v11–12: The prayer closes with both a plea for protection and a declaration of the evildoers’ downfall. “There” points dramatically to the place of their collapse without specifying it.
 
 ## Vocabulary

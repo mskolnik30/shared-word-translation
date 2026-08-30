@@ -38,10 +38,15 @@ v15: The LORD will utterly destroy the tongue of the Egyptian sea;
 and with his scorching wind he will wave his hand over the River, and will split it into seven streams, and cause men to march over in sandals.
 v16: There will be a highway for the remnant that is left of his people from Assyria, like there was for Israel in the day that he came up out of the land of Egypt.
 </p>
+
 ## Notes
+
 v01: “stump of Jesse” — New growth emerges from what appears cut down. The image links royal hope with David’s family while emphasizing renewed beginning.  
+
 v11: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
+
 v10: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+
 v04: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
 
 ## Vocabulary
@@ -57,4 +62,3 @@ v11: שְׁאָר (she'ar)
 
 v10: גּוֹיִם (goyim)
 “Nations” or “peoples.” Peoples beyond Israel.
-

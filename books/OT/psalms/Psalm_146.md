@@ -31,6 +31,7 @@ v10: the LORD will reign forever,
     your God, O Zion, to all generations.
     Hallelujah!
 </p>
+
 ## Notes
 
 ## Vocabulary

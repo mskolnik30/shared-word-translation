@@ -69,18 +69,31 @@ v34: For the one whom God has sent speaks the words of God, for God gives the Sp
 v35: The Father loves the Son and has placed all things in his hand.
 v36: Whoever trusts in the Son has eternal life; whoever refuses the Son will not see life, but the wrath of God remains upon him.”
 </p>
+
 ## Notes
+
 v01–02: Nicodemus comes “by night,” a narrative detail that signals both caution and incomplete understanding without explicit judgment.  
+
 v03: “Born from above” deliberately carries double meaning (from above / again). Jesus does not resolve the ambiguity, and Nicodemus hears it concretely.  
+
 v05: “Water and Spirit” is presented without explanation or ritual definition. The text does not specify mechanism or sequence.  
+
 v06–08: Flesh and Spirit are contrasted as sources of life. The wind/Spirit metaphor emphasizes freedom and invisibility rather than control or predictability.  
+
 v11–12: The shift to first-person plural (“we speak…”) broadens testimony beyond Jesus alone, without identifying its scope.  
+
 v13: The Son of Man is defined by descent rather than ascent. Authority is grounded in origin, not achievement.  
+
 v14–15: The serpent image links lifting up with healing and trust, not explanation of atonement. The necessity (“must”) is stated, not justified.  
+
 v16: God’s love is directed toward the world, not restricted to the faithful. Trust, not knowledge or achievement, is named as the response.  
+
 v17: Salvation is framed as God’s purpose; condemnation is not God’s stated aim.  
+
 v18–21: Judgment is described as exposure to light rather than an imposed sentence. Human response to light reveals allegiance.  
+
 v29–30: John the Baptist interprets his role relationally, not competitively. Decrease is named as fulfillment, not loss.  
+
 v31–36: Heavenly origin and testimony are emphasized repeatedly. Trust and refusal are presented as present realities, not merely future outcomes.  
 
 ## Vocabulary

@@ -37,6 +37,7 @@ Elohim, hasten to me.
 My help and my deliverer are you;
 LORD, do not delay.
 </p>
+
 ## Notes
 
 ## Vocabulary

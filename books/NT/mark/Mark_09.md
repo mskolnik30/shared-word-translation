@@ -144,23 +144,41 @@ v49: For everyone will be salted with fire.
 
 v50: Salt is good; but if the salt becomes unsalty, with what will you season it? Have salt in yourselves, and be at peace with one another.”
 </p>
+
 ## Notes
+
 v01: “Kingdom… come in power” remains undefined, allowing multiple referents (transfiguration, resurrection, or beyond).
+
 v02–04: Moses and Elijah represent law and prophets without explicit interpretation; presence itself carries meaning.
+
 v07: The command “listen to him” shifts authority from prior revelation to present speech without negating it.
+
 v09–10: The prohibition preserves timing; understanding is deferred, not denied.
+
 v12–13: Elijah is both affirmed and reinterpreted; fulfillment does not resolve expectation cleanly.
+
 v19: “Faithless generation” addresses both disciples and crowd, expanding the scope of rebuke.
+
 v23–24: Faith and unbelief coexist; the father’s cry embodies unresolved trust rather than certainty.
+
 v29: Prayer is not technique but dependence; failure is relational, not procedural.
+
 v31: Passive “is being handed over” leaves agency open (divine, human, or both).
+
 v34–35: Greatness is inverted, not eliminated; hierarchy is redefined through service.
+
 v37: Receiving the child mediates reception of both Jesus and the one who sent him.
+
 v40: Boundary of belonging is widened without dissolving identity.
+
 v42: The commands concerning hand, foot, and eye use deliberately extreme bodily imagery to intensify the danger of causing stumbling and entering judgment.
+
 v43: Some manuscripts repeat the saying about the undying worm and unquenched fire after the sayings about the hand and the foot, producing the traditional vv44 and 46. The earliest textual witnesses omit those repetitions.
+
 v44: Verses 44 and 46 are absent from the earliest and strongest Greek witnesses; later manuscripts repeat the wording of verse 48. Public verse numbering is retained.
+
 v46: Verses 44 and 46 are absent from the earliest and strongest Greek witnesses; later manuscripts repeat the wording of verse 48. Public verse numbering is retained.
+
 v49–50: “Salted with fire” combines preservation and purification without clarification.
 
 ## Vocabulary

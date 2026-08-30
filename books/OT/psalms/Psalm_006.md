@@ -47,14 +47,23 @@ the LORD accepts my prayer.
 v10: All my enemies shall be ashamed and greatly troubled;
 they shall turn back and be put to shame in a moment.
 </p>
+
 ## Notes
+
 v01–02: The psalm distinguishes between discipline and destructive wrath.  
+
 v02–03: Physical and internal distress are intertwined (bones, soul).  
+
 v03: The unresolved “how long?” marks the depth of suffering.  
+
 v04–05: Appeal is grounded in God’s steadfast love, not worthiness.  
+
 v05: Praise is tied to life—death is framed as silence.  
+
 v06–07: Grief is expressed in embodied, repetitive imagery.  
+
 v08–09: The turning point—confidence emerges through being heard.  
+
 v10: Enemies’ reversal mirrors the psalmist’s earlier distress.  
 
 ## Vocabulary
@@ -94,4 +103,3 @@ v09: תְּחִנָּה (techinnah)
 
 v10: בּוֹשׁ (bosh)  
 “To be ashamed.” Disgraced.  
-

@@ -183,19 +183,33 @@ v35: He will accept no compensation
 and will not be willing,
 though you multiply the gift.
 </p>
+
 ## Notes
+
 v01: “surety” — The warning concerns becoming personally responsible for another person’s debt or obligation. The issue is not generosity itself but entering an obligation capable of placing one’s freedom in another’s hands.  
+
 v03–05: The urgency of escaping the pledge is intensified through commands to lose sleep and through images of prey escaping a hunter.  
+
 v06–08: The ant has no visible authority compelling its labor. Its preparation arises from attentiveness to season and need.  
+
 v10–11: The repetition of “a little” portrays decline not necessarily as one dramatic decision but as accumulated neglect.  
+
 v12: “worthless person” — The Hebrew literally says a “person of Belial,” an expression for worthlessness or destructive wickedness.
+
 v13: The eyes, feet, and fingers all become instruments of deceptive communication. Wrongdoing involves the whole body.  
+
 v16: “Six things … seven” — This numerical pattern is a characteristic wisdom device. The second number completes and intensifies the list rather than correcting the first.  
+
 v17–19: The list moves through eyes, tongue, hands, heart, feet, speech, and communal relationships. The LORD’s concern encompasses both individual violence and the destruction of community.  
+
 v23: Commandment and instruction are compared with lamp and light. Correction is therefore not merely punitive but a means of seeing and remaining on the path of life.  
+
 v26: The Hebrew is compressed and its exact syntax is debated. The contrast distinguishes the consequences associated with prostitution from the potentially life-destroying consequences of adultery with another person’s spouse.  
+
 v27–29: Fire imagery rejects the assumption that adultery can be approached without consequence.  
+
 v30–35: Theft prompted by hunger may evoke human understanding even though restitution remains required. Adultery, by contrast, creates relational injury that money cannot simply repay.  
+
 v34: “jealousy” — The term describes the intense reaction of a spouse whose covenant has been violated; the text does not commend uncontrolled violence.  
 
 ## Vocabulary
@@ -229,4 +243,3 @@ v32: נָאַף (na'af)
 
 v34: קִנְאָה (qin'ah)  
 “Jealousy” or “zeal.” Intense passion arising here from marital betrayal.  
-

@@ -37,7 +37,9 @@ v10: The wicked see it and are angry;
 they gnash their teeth and melt away.
 The desire of the wicked will perish.
 </p>
+
 ## Notes
+
 v04: The adjectives “gracious, compassionate, and righteous” grammatically describe the light or the upright one in a compressed line. Their echo of language normally used for God is retained without resolving the syntax more narrowly.
 
 ## Vocabulary

@@ -74,18 +74,31 @@ v32: They served him by himself, and them by themselves, and the Egyptians who a
 v33: And they sat before him, the firstborn according to his birthright and the youngest according to his youth. And the men looked at one another in amazement.
 v34: Portions were taken to them from before him, but Benjamin’s portion was five times greater than any of theirs. And they drank and were merry with him.
 </p>
+
 ## Notes
+
 v01–05: The continuing famine forces Jacob to confront the condition Joseph had set for future grain purchases.  
+
 v08–09: Judah emerges as the spokesman and guarantor for Benjamin, marking a significant development in his character.  
+
 v14: Jacob entrusts the outcome to God Almighty, combining faith with resignation.  
+
 v16–17: Joseph's invitation to his house creates anxiety for the brothers because they assume judgment is coming.  
+
 v18–22: The brothers' concern over the silver reveals a growing sensitivity to guilt and accountability.  
+
 v23: The steward unexpectedly attributes their safety to God's provision.  
+
 v26: The brothers bow before Joseph again, continuing the fulfillment of his earlier dreams.  
+
 v27–30: Joseph's questions reveal his continuing concern for his father and Benjamin.  
+
 v30: Joseph's emotional response shows that reconciliation remains his deeper desire despite the ongoing tests.  
+
 v32: The meal reflects the cultural separation that existed between Egyptians and Hebrews.  
+
 v33: The brothers are seated according to birth order, something that appears impossible from their perspective and leaves them astonished.  
+
 v34: Benjamin receives special favor, creating a situation similar to Joseph's earlier favored status. The brothers' response will become important in what follows.  
 
 ## Vocabulary
@@ -129,4 +142,3 @@ v34: מַשְׂאֵת (maśśēʾṯ)
 
 v34: שָׁתָה (šāṯâ)  
 “To drink.” Here associated with feasting and celebration.  
-

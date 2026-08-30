@@ -171,15 +171,25 @@ and stinkweed instead of barley.”
 
 The words of Job are ended.
 </p>
+
 ## Notes
+
 v01: Job’s “covenant with my eyes” is a self-imposed discipline concerning sexual desire. His oath moves from inward gaze to outward conduct.
+
 v05–06: Job invites divine examination in “honest scales,” reversing the friends’ claim that his suffering already proves guilt.
+
 v13–15: Job grounds fair treatment of servants in shared creation: master and servant were both formed by the same God in the womb. This is a striking equality claim within an ancient household structure.
+
 v16–23: Job directly answers the social accusations of Eliphaz. He claims sustained care for poor, widow, fatherless, and inadequately clothed people.
+
 v26–28: Gesturing worshipfully toward sun or moon is treated as denial of God. Job denies hidden astral worship as well as visible idolatry.
+
 v29–30: Job denies rejoicing over enemies or cursing them to death, broadening integrity beyond public justice into response toward adversaries.
+
 v33: The phrase “like Adam” may mean “like a human” or refer specifically to Adam. TSW retains the traditional personal name while acknowledging the lexical possibility.
+
 v35: “my mark” — Hebrew *tav* can mean a mark or signature. Job effectively signs his legal deposition and demands an answering indictment.
+
 v38–40: Even land and labor relations are included in Job’s oath. Exploiting landholders or workers would cause the earth itself to testify against him.
 
 ## Vocabulary

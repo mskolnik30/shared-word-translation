@@ -126,6 +126,7 @@ v29: The LORD spoke to Moses, saying, “I am the LORD. Speak to Pharaoh king of
 <p>
 v30: But Moses said before the LORD, “Look, I am uncircumcised of lips; how then will Pharaoh listen to me?”
 </p>
+
 ## Notes
 
 v09: “Their spirit was broken” renders a phrase literally involving “shortness of spirit.” Israel’s inability to listen is attributed not to indifference but to the crushing effects of harsh slavery.

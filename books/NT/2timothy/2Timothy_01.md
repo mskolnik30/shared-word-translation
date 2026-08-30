@@ -68,20 +68,35 @@ v17: but when he arrived in Rome he searched for me earnestly and found me—
 
 v18: may the Lord grant him to find mercy from the Lord on that day—and you well know all the service he rendered at Ephesus.
 </p>
+
 ## Notes
+
 v01: Apostleship is linked to “the promise of life,” not merely authority.  
+
 v03: Conscience connects present service with ancestral continuity.  
+
 v05: Faith is described as transmitted across generations yet personally held.  
+
 v06: The gift requires active cultivation (“fan into flame”).  
+
 v07: Fear is contrasted with power, love, and self-control—defining the Spirit’s effect.  
+
 v08–09: Suffering is aligned with calling and grace, not opposed to them.  
+
 v09: Grace is located before time, emphasizing divine initiative.  
+
 v10: The appearing of Christ reveals what was already purposed.  
+
 v10: “Abolished death” is stated without explanation, but paired with revelation of life.  
+
 v12: Confidence rests in relationship (“I know the one”) rather than doctrine alone.  
+
 v13–14: Sound teaching is both pattern and deposit—received and guarded.  
+
 v14: The Spirit enables preservation, not merely initial reception.  
+
 v15: Abandonment is acknowledged without elaboration.  
+
 v16–18: Onesiphorus exemplifies loyalty and courage in contrast to others.  
 
 ## Vocabulary

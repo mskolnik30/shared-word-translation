@@ -92,18 +92,31 @@ v35: And when the men of that place recognized him, they sent around to all that
 
 v36: and implored him that they might only touch the fringe of his garment. And as many as touched it were made well.
 </p>
+
 ## Notes
+
 v02: Herod interprets Jesus through guilt; resurrection is framed as threat.  
+
 v03–04: John’s confrontation is legal and moral, not political.  
+
 v06–11: Rash oath + public pressure overrides justice; power collapses into spectacle.  
+
 v14: Compassion precedes miracle; healing and provision are linked.  
+
 v16: Disciples are implicated in provision, not mere observers.  
+
 v19: Sequence (take–bless–break–give) anticipates later meal patterns.  
+
 v20: Abundance exceeds need; leftovers signify surplus, not waste.  
+
 v25: “Fourth watch” places the event in deepest night—symbolic tension.  
+
 v27: “I am” carries resonance beyond identification; presence answers fear.  
+
 v30–31: Fear shifts perception from Jesus to circumstance; doubt is destabilizing attention.  
+
 v33: Confession emerges from encounter, not abstraction.  
+
 v36: Healing mediated through contact; faith expressed physically.  
 
 ## Vocabulary

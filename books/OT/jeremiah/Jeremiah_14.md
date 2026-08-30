@@ -120,6 +120,7 @@ Are you not the one, the LORD our God?
 We wait for you,
 for you have made all these things.
 </p>
+
 ## Notes
 
 ## Vocabulary

@@ -70,19 +70,33 @@ v32: For your servant became surety for the boy to my father, saying, ‘If I do
 v33: Now therefore, please let your servant remain instead of the boy as a slave to my lord, and let the boy go up with his brothers.
 v34: For how can I go up to my father if the boy is not with me? I fear to see the evil that would come upon my father.”
 </p>
+
 ## Notes
+
 v01–02: Joseph's silver cup becomes the instrument of his final test of his brothers.  
+
 v05: Joseph's reference to divination reflects his Egyptian public role. The narrative does not attribute Joseph's knowledge to divination but to God's providence.  
+
 v07–09: The brothers respond with confidence because they believe themselves innocent.  
+
 v12: The search proceeds from oldest to youngest, heightening the suspense and emphasizing the apparent certainty of Benjamin's guilt.  
+
 v13: Tearing garments is a traditional expression of grief and distress. Unlike their treatment of Joseph years earlier, the brothers do not abandon Benjamin.  
+
 v16: Judah interprets the situation in theological terms, seeing God's hand exposing hidden guilt from the past.  
+
 v17: Joseph's proposal creates a situation parallel to his own experience as a favored son separated from his father.  
+
 v18–34: Judah's speech is one of the longest and most persuasive speeches in Genesis.  
+
 v20: Judah repeats Jacob's belief that Joseph is dead, unaware that he is speaking to Joseph himself.  
+
 v30–31: The speech emphasizes the deep bond between Jacob and Benjamin.  
+
 v32: Judah accepts personal responsibility for Benjamin's safety.  
+
 v33: Judah offers himself in Benjamin's place. This marks a dramatic contrast with the brothers' earlier willingness to sacrifice Joseph.  
+
 v34: The chapter ends with Judah's self-sacrificial plea, preparing for Joseph's revelation in the next chapter.  
 
 ## Vocabulary
@@ -122,4 +136,3 @@ v32: עָרַב (ʿāraḇ)
 
 v33: תַּחַת (taḥaṯ)  
 “In place of” or “instead of.” Language of substitution that is central to Judah's appeal.  
-

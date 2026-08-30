@@ -73,12 +73,19 @@ for I wait for you.
 v22: Redeem Israel, O God,
 from all its troubles.
 </p>
+
 ## Notes
+
 v01–22: The psalm is shaped as an alphabetic acrostic, though its sequence is not entirely regular. The form gives ordered expression to a prayer that moves repeatedly between trust, instruction, confession, and distress.  
+
 v06–07: The prayer asks the LORD both to “remember” enduring compassion and not to remember the speaker’s earlier sins. In this passage, remembrance is active: it concerns how God will act toward the petitioner.  
+
 v10: “Covenant” and “testimonies” describe a relationship in which the LORD’s steadfast love and faithfulness are encountered by those who keep the covenant’s obligations.  
+
 v14: “Counsel” can suggest confidential counsel or intimate fellowship. The line joins reverence for the LORD with being given knowledge of the covenant.  
+
 v22: The final petition widens the individual prayer into an appeal for Israel’s redemption from all its troubles.  
+
 v01–22: The psalm is shaped as an alphabetic acrostic, though its sequence is not entirely regular.
 
 ## Vocabulary

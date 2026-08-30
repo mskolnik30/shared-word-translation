@@ -62,13 +62,21 @@ v15: But the spiritual person discerns all things, yet he himself is discerned b
 <p>
 v16: For “Who has known the mind of the Lord so as to instruct him?” But we have the mind of Christ.
 </p>
+
 ## Notes
+
 v01–02: Message centers exclusively on Christ crucified.  
+
 v03–05: Weakness serves to highlight divine power.  
+
 v06–08: True wisdom is hidden from worldly rulers.  
+
 v10–12: The Spirit reveals divine realities.  
+
 v13: Spiritual truth requires Spirit-taught expression.  
+
 v14–15: Distinction between natural and spiritual perception.  
+
 v16: Believers participate in the mind of Christ.  
 
 ## Vocabulary

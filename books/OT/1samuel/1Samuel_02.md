@@ -133,28 +133,51 @@ v35: And I will raise up for myself a faithful priest, who shall do according to
 
 v36: And everyone who is left in your house shall come to implore him for a piece of silver or a loaf of bread and shall say, ‘Please put me in one of the priest’s places, that I may eat a morsel of bread.’”
 </p>
+
 ## Notes
+
 v01–10: Hannah’s prayer moves from personal deliverance to cosmic reversal. Individual experience becomes theological proclamation.  
+
 v02: “None besides you” emphasizes exclusivity of divine identity without philosophical abstraction.  
+
 v03: Speech is addressed directly. Pride and knowledge are contrasted under divine evaluation.  
+
 v04–08: Reversal language dominates. Strength, hunger, fertility, and status are overturned without explanation.  
+
 v06: Life and death are attributed equally to the LORD, preserving tension rather than resolving causation.  
+
 v08: Creation imagery (“pillars of the earth”) grounds social reversal in cosmic order.  
+
 v09: Security is located in divine guarding, not human strength.  
+
 v10: Reference to “his king” and “his anointed” anticipates monarchy before its narrative establishment.  
+
 v12: “Did not know the LORD” describes relational failure, not lack of information.  
+
 v13–17: Priestly abuse is detailed concretely. Ritual violation becomes moral corruption.  
+
 v17: Contempt for offering is treated as sin against the LORD, not merely improper practice.  
+
 v18–21: Samuel’s growth is interwoven with Hannah’s restoration. Faithfulness and blessing develop together.  
+
 v22–25: Eli rebukes but does not restrain. His words recognize severity without effecting change.  
+
 v25: Divine judgment is stated alongside human refusal, without resolving their relation.  
+
 v26: Samuel’s growth parallels earlier description of Jesus (Luke 2:52), linking favor with both God and people.  
+
 v27–28: The prophetic speech recalls election and privilege as grounds for judgment.  
+
 v29: Eli’s failure is framed as misplaced honor—elevating his sons above God.  
+
 v30: Divine promise is reinterpreted conditionally. Honor and contempt are reciprocated.  
+
 v31–33: Judgment unfolds as generational diminishment, not immediate removal alone.  
+
 v34: The death of Hophni and Phinehas functions as a confirming sign.  
+
 v35: The “faithful priest” is promised without identification, leaving its fulfillment open.  
+
 v36: Reversal continues: those once privileged become dependent.  
 
 ## Vocabulary
@@ -212,4 +235,3 @@ v35: אֱמוּן (emun)
 
 v36: כִּכָּר (kikkar)  
 “Loaf.” A unit of bread or food portion.  
-

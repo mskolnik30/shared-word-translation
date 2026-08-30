@@ -60,14 +60,23 @@ v14: Samuel said to the people, “Come, let us go to Gilgal and renew the kings
 
 v15: So all the people went to Gilgal, and there they made Saul king before the LORD at Gilgal. There they sacrificed offerings of well-being before the LORD, and there Saul and all the men of Israel rejoiced greatly.
 </p>
+
 ## Notes
+
 v01: Jabesh-Gilead had an earlier bond with Benjamin in Judges 21, making Saul’s rescue especially significant for a Benjaminite king.
+
 v02: Removing the right eye would humiliate the city and also impair ancient shield-and-weapon combat.
+
 v06: Saul’s first major act as king begins with the Spirit of God and anger directed toward oppression.
+
 v07: The dismembered oxen echo earlier covenant-mobilization gestures in Judges, but here the threat concerns property rather than bodies.
+
 v08: The separate count for Judah anticipates the later political distinction between Judah and the wider Israelite tribes.
+
 v10: The men of Jabesh use deliberately ambiguous language, allowing the Ammonites to think they are surrendering while Saul approaches.
+
 v13: Saul refuses to turn victory into domestic vengeance and attributes salvation to the LORD.
+
 v14–15: Gilgal becomes the place where Saul’s kingship is publicly renewed after demonstrated deliverance.
 
 ## Vocabulary

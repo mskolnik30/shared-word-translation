@@ -64,19 +64,33 @@ v17: And say to Archippus, “See that you fulfill the ministry that you receive
 <p>
 v18: I, Paul, write this greeting with my own hand. Remember my chains. Grace be with you.
 </p>
+
 ## Notes
+
 v01: Authority is reframed. Masters are addressed under a higher authority, introducing accountability.  
+
 v02: Prayer is described as ongoing (“continue steadfastly”) and attentive (“watchful”).  
+
 v03–04: The request is not for release but for clarity in proclamation.  
+
 v05: “Those outside” introduces relational distinction without hostility.  
+
 v05: Time is treated as opportunity requiring intentional use.  
+
 v06: Speech is both gracious and discerning. “Seasoned with salt” suggests preservation and sharpness.  
+
 v07–09: Personal representatives carry both information and encouragement.  
+
 v10–11: The mention of “only ones of the circumcision” highlights the limited Jewish participation in Paul’s circle.  
+
 v12: Prayer is described as “striving,” indicating effort and persistence.  
+
 v12: Maturity is linked with assurance in God’s will, not independence from it.  
+
 v16: Circulation of letters reflects shared authority across communities.  
+
 v17: Ministry is received and must be fulfilled. Responsibility is personal and public.  
+
 v18: “Remember my chains” reconnects the letter to Paul’s embodied condition.  
 
 ## Vocabulary

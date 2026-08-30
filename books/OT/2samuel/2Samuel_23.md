@@ -140,23 +140,41 @@ v39: Uriah the Hittite.
 
 Thirty-seven in all.
 </p>
+
 ## Notes
+
 v01: “last words” presents this poem as David’s concluding royal testimony, though later narrative material follows in chapter 24.
+
 v01: The Hebrew phrase rendered “pleasant singer of Israel’s songs” is difficult and can mean beloved/pleasant in Israel’s songs or singer of Israel’s pleasant songs. TSW follows the traditional association with Davidic song.
+
 v02: David explicitly attributes his royal-poetic speech to the Spirit of the LORD and divine word upon his tongue.
+
 v03–04: Righteous rule under the fear of God is compared with clear morning light that produces new growth after rain.
+
 v05: The Davidic covenant from chapter 7 is described as everlasting, ordered, and secure even as David’s own household history has been deeply troubled.
+
 v08: The name and title of the first mighty man are textually difficult. 1 Chronicles 11:11 calls him Jashobeam son of Hachmoni and gives three hundred rather than eight hundred slain. TSW follows Samuel’s Masoretic form.
+
 v09–12: The heroic stories repeatedly conclude that “the LORD brought about a great victory,” refusing to detach warrior courage from divine agency.
+
 v13: The phrase “three of the thirty leaders” is textually difficult; some translations read “three of the thirty chief men.” The relationship between the Three and the Thirty varies in the received lists.
+
 v15–17: David’s spoken longing is fulfilled at enormous risk by his men. His refusal to drink transforms the water into an offering because their lives were placed in danger to obtain it.
+
 v17: Calling the water “blood” equates it with the life-risk of the men, not literal blood.
+
 v18–19: Abishai is highly honored but does not attain the status of the elite Three, showing ranked memory within David’s warrior tradition.
+
 v20: “sons of Ariel of Moab” is uncertain; *Ariel* may be a title meaning lion-like champions or a proper name.
+
 v21: The parallel in 1 Chronicles 11:23 describes the Egyptian as five cubits tall and his weapon differently. Samuel’s shorter description is preserved here.
+
 v24–39: Names and spellings differ in places from the parallel list in 1 Chronicles 11. TSW preserves Samuel’s textual form.
+
 v34: Eliam son of Ahithophel may be the same Eliam named as Bathsheba’s father in 11:3, potentially making Ahithophel Bathsheba’s grandfather. The text itself does not draw the connection.
+
 v39: The list ends with Uriah the Hittite, placing the man David had arranged to kill among the remembered heroes who sustained his kingdom.
+
 v39: The count “thirty-seven” is difficult to reconcile simply with all the names because the list includes the Three, commanders, and members who may have changed over time. TSW retains the received total.
 
 ## Vocabulary

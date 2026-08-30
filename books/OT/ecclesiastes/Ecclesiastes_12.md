@@ -69,6 +69,7 @@ v13: The end of the matter; all has been heard: fear God and keep his commandmen
 <p>
 v14: For God will bring every deed into judgment, with every hidden thing, whether good or evil.
 </p>
+
 ## Notes
 
 v01: — “your Creator.” The Hebrew form is plural, literally “your Creators,” though it takes a singular sense here. The plural may heighten the majesty and fullness of God as Creator.

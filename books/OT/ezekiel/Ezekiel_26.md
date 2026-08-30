@@ -68,6 +68,7 @@ v20: then I will bring you down with those who go down to the pit, to the people
 <p>
 v21: I will make you a terror, and you shall be no more; you will be sought, but you will never be found again, declares the LORD GOD."
 </p>
+
 ## Notes
 
 ## Vocabulary

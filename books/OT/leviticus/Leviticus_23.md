@@ -94,12 +94,19 @@ v42: You shall live in booths seven days. Every native-born Israelite shall live
 v43: so that your generations may know that I made the Israelites live in booths when I brought them out of the land of Egypt. I am the LORD your God.”
 v44: So Moses declared to the Israelites the appointed times of the LORD.
 </p>
+
 ## Notes
+
 v02: “appointed times” — The Hebrew *mo'ed* refers to fixed times of meeting or observance, not merely festivals in a generic sense.
+
 v11: “the day after the Sabbath” has generated different Jewish calendrical interpretations. TSW preserves the wording rather than resolving which Sabbath is intended.
+
 v17: Unlike most grain offerings placed on the altar, the two festival loaves are baked with yeast and function as first produce.
+
 v22: The harvest calendar pauses to repeat the gleaning command, joining worship and provision for the poor and resident alien.
+
 v24: The Hebrew speaks of a “memorial of trumpet blast,” without specifying in this verse the later name by which the day became known.
+
 v40: Several plant identifications are uncertain. The ritual action and rejoicing are clearer than the precise botanical species.
 
 ## Vocabulary

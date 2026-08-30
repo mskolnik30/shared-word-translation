@@ -93,20 +93,35 @@ Our couch is luxuriant.
 v17: The beams of our house are cedars;
 our rafters are cypresses.
 </p>
+
 ## Notes
+
 v01: The title “Song of Songs” expresses supreme excellence, meaning “the greatest song.”  
+
 v02: The book begins with desire and affection rather than narrative introduction.  
+
 v02–04: Love is celebrated as a gift marked by joy, delight, and mutual attraction.  
+
 v03: A person's “name” refers to reputation, character, and identity.  
+
 v04: The royal imagery introduces themes that continue throughout the song.  
+
 v05–06: The bride acknowledges her sun-darkened appearance without shame while explaining her labor in the vineyards.  
+
 v06: The neglected vineyard becomes a metaphor for her own care and circumstances.  
+
 v07: The bride's search reveals both longing and devotion.  
+
 v08: The beloved responds with reassurance rather than rebuke.  
+
 v09: The comparison to a mare among Pharaoh's chariots emphasizes beauty, dignity, and attention-commanding presence.  
+
 v12–14: Fragrance imagery repeatedly symbolizes attraction, delight, and cherished presence.  
+
 v14: En-gedi was famous for its fertile oasis and vineyards near the Dead Sea.
+
 v15–17: The chapter concludes with mutual admiration rather than one-sided praise.  
+
 v16–17: The imagery of house, cedar, and cypress conveys stability, beauty, and flourishing love.  
 
 ## Vocabulary
@@ -149,4 +164,3 @@ v15: יוֹנָה (yônâ)
 
 v17: אֶרֶז (ʾerez)  
 “Cedar.” A durable and valuable tree associated with strength and majesty.  
-

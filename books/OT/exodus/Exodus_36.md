@@ -104,12 +104,19 @@ v37: He made a screen for the entrance of the tent of blue, purple, and scarlet 
 
 v38: with its five pillars and their hooks. He overlaid their tops and bands with gold, but their five bases were bronze.
 </p>
+
 ## Notes
+
 v01–03: The movement from command to construction is explicit: the same divine wisdom that commissioned the artisans now becomes actual work.
+
 v03: Contributions continue “morning by morning,” suggesting sustained enthusiasm rather than a single collection.
+
 v05–07: The unusual problem is abundance. Moses must command the people to stop giving because the materials exceed the need.
+
 v08–38: Much of the chapter closely repeats the design instructions of Exodus 26, but the verbal shift matters: what was commanded is now made. TSW preserves the repetition rather than abbreviating it.
+
 v19: As in chapter 26, the identity of the outer leather material is uncertain. “Fine leather” keeps the material broad.
+
 v29: The corner construction remains technically difficult to reconstruct; TSW follows the received wording without inventing missing structural details.
 
 ## Vocabulary

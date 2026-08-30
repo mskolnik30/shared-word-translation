@@ -50,21 +50,37 @@ v16: As it is, you boast in your arrogance. All such boasting is evil.
 
 v17: So whoever knows the right thing to do and fails to do it, for him it is sin.
 </p>
+
 ## Notes
+
 v01: Conflict is traced to internal desire, not external cause.  
+
 v02–03: Lack is linked to both action and intention.  
+
 v04: Worldliness is framed relationally, not structurally.  
+
 v05: The citation is introduced without clear source.  
+
 v06: Grace is set in opposition to pride.  
+
 v07–08: Movement toward God is reciprocal.  
+
 v08: External and internal cleansing are paired.  
+
 v09: Emotional reversal is commanded, not explained.  
+
 v10: Exaltation follows humility without specified timing.  
+
 v11–12: Judgment is limited to God; human judgment is constrained.  
+
 v13–14: Planning assumes control that is not possessed.  
+
 v14: Life is described as transient.  
+
 v15: Dependence is expressed verbally.  
+
 v16: Boasting is identified with arrogance.  
+
 v17: Knowledge increases responsibility.  
 
 ## Vocabulary

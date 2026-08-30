@@ -43,10 +43,15 @@ v10: Who is this King of glory?
 The LORD of Hosts—
 he is the King of glory. Selah
 </p>
+
 ## Notes
+
 v04: The Hebrew reads “my life,” though the surrounding description concerns the person with clean hands and a pure heart. A traditional marginal reading has “his life.” The retained wording preserves the text’s striking shift in voice.  
+
 v06: The verse moves between “those who seek him” and “your face,” then ends with “Jacob.” The final word may be read in more than one way; the Hebrew does not explicitly supply “God of” Jacob.  
+
 v07–10: The gates and ancient doors are addressed as though they can raise themselves to welcome the King of glory. The repeated exchange gives the passage the character of an entrance liturgy.  
+
 ## Vocabulary
 
 v01: **מְלֹא — *meloʾ***: “all that fills it” presents the earth not as empty territory but as belonging wholly to the LORD, together with everything within it.  

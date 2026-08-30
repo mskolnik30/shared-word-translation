@@ -86,14 +86,23 @@ v23: The grace of the Lord Jesus be with you.
 
 v24: My love be with you all in Christ Jesus. Amen.
 </p>
+
 ## Notes
+
 v01–04: Structured giving reflects communal responsibility.  
+
 v05–09: Mission planning is flexible under divine guidance.  
+
 v09: Opportunity and opposition coexist.  
+
 v10–12: Leadership cooperation is affirmed.  
+
 v13–14: Final exhortations summarize ethical posture.  
+
 v15–18: Recognition of devoted service reinforces community structure.  
+
 v19–20: Network of churches emphasizes unity.  
+
 v21–24: Closing combines warning, hope, grace, and love.  
 
 ## Vocabulary

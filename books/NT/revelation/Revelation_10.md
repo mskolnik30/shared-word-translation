@@ -30,18 +30,31 @@ v10: And I took the little scroll from the hand of the angel and ate it. It was 
 
 v11: And I was told, “You must again prophesy about many peoples and nations and languages and kings.”
 </p>
+
 ## Notes
+
 v01: The angel’s description combines multiple symbolic elements without identifying the figure.
+
 v02: The open scroll contrasts with the sealed scroll of chapter 5.
+
 v02: Placement on sea and land suggests total scope rather than division.
+
 v03: The voice is compared (“like a lion”) without equating identity.
+
 v03–04: The seven thunders speak but are withheld; revelation is partial.
+
 v04: John is explicitly restrained from recording, preserving hidden content.
+
 v05–06: Oath language grounds authority in the creator rather than the messenger.
+
 v06: “No more delay” introduces urgency without specifying timeline.
+
 v07: “Mystery of God” is announced as fulfillment, not explained.
+
 v08–10: Eating the scroll internalizes the message; experience precedes proclamation.
+
 v09–10: Sweetness and bitterness coexist, not resolved.
+
 v11: The commission extends outward (“peoples…nations…languages…kings”) without limitation.
 
 ## Vocabulary
@@ -77,4 +90,3 @@ v10: πικραίνω (pikrainō)
 v11: προφητεύω (prophēteuō)
 
 “To prophesy.” To speak forth what is given, not self-generated.
-

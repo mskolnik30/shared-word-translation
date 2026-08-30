@@ -78,24 +78,43 @@ v28: And I will give him the morning star.
 
 v29: The one who has an ear, let him hear what the Spirit says to the churches.
 </p>
+
 ## Notes
+
 v01: Authority is framed spatially (“holds,” “walks”), emphasizing presence among the churches.
+
 v02–03: Endurance is affirmed without qualification before correction is introduced.
+
 v04: “Abandoned” signals relational loss rather than doctrinal error.
+
 v05: Memory, repentance, and action are held together; removal of the lampstand implies loss of witness.
+
 v07: Promise imagery (“tree of life”) draws from Genesis without explanation.
+
 v09: Poverty and richness are contrasted without resolving the tension.
+
 v10: Suffering is limited (“ten days”) yet not minimized.
+
 v11: “Second death” is introduced without definition, functioning as warning and promise.
+
 v13: Location (“where Satan’s throne is”) is named but not clarified.
+
 v14–15: Historical references (Balaam, Nicolaitans) are invoked without elaboration.
+
 v16: Judgment proceeds through speech (“sword of my mouth”), not physical weapon.
+
 v17: Symbolic rewards remain opaque (“white stone,” “new name”), resisting reduction.
+
 v19: Growth is acknowledged (“latter works exceed the first”) even within critique.
+
 v20–23: Judgment language is severe and public, emphasizing accountability.
+
 v24: “Deep things” are named without validation; the phrase is left contested.
+
 v26–27: Authority is shared, derived from prior authority received.
+
 v28: “Morning star” is given without interpretation, functioning symbolically.
+
 v29: The refrain universalizes each message beyond its immediate audience.
 
 ## Vocabulary
@@ -139,4 +158,3 @@ v23: νεφροί (nephroi)
 v26: ἐξουσία (exousia)
 
 “Authority.” Delegated power grounded in prior grant.
-

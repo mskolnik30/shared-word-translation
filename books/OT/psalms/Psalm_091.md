@@ -58,16 +58,27 @@ v15: When he calls to me, I will answer him;
 v16: With long life I will satisfy him
   and show him my salvation.”
 </p>
+
 ## Notes
+
 v01: Two divine titles open the psalm: ʿElyon (Most High) and Shaddai (Almighty). Both are ancient names for God, evocative of a sovereignty older than the covenant titles. The opening voice describes a posture rather than naming a person.
+
 v02: The voice shifts to first person without warning. The psalmist is the one who sits in the shelter, and now speaks the confession that the rest of the psalm will commend.
+
 v04: The bird and the battlefield stand side by side. God shelters with feathers and stands as rampart. The psalm refuses to choose between tenderness and defense.
+
 v05–06: Four threats are paired across the hours of the day—terror by night, arrow by day, pestilence in the dark, destruction at noon. No hour is excluded; no hour is the cause of fear.
+
 v07: The numbers are extravagant. The verse does not promise that no one will fall, but that the falling does not reach the one who shelters.
+
 v08: A difficult verse. Witness, not satisfaction, is what is named. The text does not invite delight in the recompense of the wicked; it only describes what is seen.
+
 v09: The address pivots back to the speaker before God himself speaks in the closing verses.
+
 v11–12: These verses are quoted in the temptation narratives (Matthew 4 and Luke 4). The psalm offers protection to the one who shelters, not assurance to the one who would test the protection.
+
 v13: The pairings—lion and cobra, young lion and serpent—recall the imagery of Genesis 3 without naming it. Threats both regal and reptilian are placed beneath the foot.
+
 v14–16: God speaks. The promise is not immunity from trouble. "I will be with him in trouble" is the heart of the assurance—presence rather than removal.
 
 ## Vocabulary

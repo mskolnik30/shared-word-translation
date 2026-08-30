@@ -124,15 +124,23 @@ v47: But six hundred men turned and fled toward the wilderness to the rock of Ri
 
 v48: Then the men of Israel turned back against the children of Benjamin and struck them with the edge of the sword, from the city to the animals and all that was found. They also set on fire every city they came to.
 </p>
+
 ## Notes
+
 v01: “as one man” — The phrase emphasizes national unity, but the unity forms around vengeance and soon becomes civil war.
+
 v04–06: The Levite’s account omits his own action in handing over the concubine and presents the attack as directed primarily toward himself. The narrator allows the discrepancy with chapter 19 to remain visible.
+
 v13: Israel uses covenantal language of “removing evil” but Benjamin responds with tribal solidarity rather than surrendering the perpetrators.
+
 v16: Like Ehud, the selected Benjaminite warriors are described with the unusual phrase concerning the right hand. Here it is paired with extraordinary slinging accuracy.
+
 v18–28: Israel repeatedly seeks the LORD yet suffers devastating defeats before the third battle. Inquiry of God does not make the conflict morally simple or remove the consequences of civil war.
+
 v27–28: The mention of the ark and Phinehas places the episode within Israel’s priestly and covenantal structures, intensifying the dissonance between sacred institutions and national violence.
 
 v35, v46: The totals differ slightly because the narrative reports the decisive battle from different perspectives and stages. TSW preserves the received figures rather than harmonizing them.
+
 v48: Israel’s response moves beyond defeating Benjamin’s army to destroying cities, inhabitants, animals, and property. The victory therefore becomes another stage in the book’s escalating violence.
 
 ## Vocabulary

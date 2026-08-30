@@ -79,16 +79,27 @@ v41: Whenever the stronger of the flock were breeding, Jacob would lay the rods 
 v42: But for the weaker of the flock he would not lay them there. So the weaker became Laban’s, and the stronger Jacob’s.
 v43: Thus the man increased greatly and had large flocks and female servants and male servants and camels and donkeys.
 </p>
+
 ## Notes
+
 v01–08: Rachel and Leah's rivalry shapes the narrative of the tribes' origins. The births are interpreted through the sisters' competing hopes and frustrations.  
+
 v02: Jacob recognizes that fertility ultimately belongs to God, though his answer offers little comfort.  
+
 v06–24: The names of the children often reflect wordplays, prayers, struggles, or interpretations of events surrounding their births.  
+
 v14–16: The mandrake episode highlights the desperation and complexity surrounding fertility within the household.  
+
 v17: Leah's conception is attributed to God's attention rather than human arrangements.  
+
 v22: The phrase “God remembered Rachel” signals divine action rather than prior forgetfulness.  
+
 v24: Joseph's name looks both backward and forward—God has taken away reproach and may yet add another son.  
+
 v27–30: Laban openly acknowledges that his prosperity has come through the LORD's blessing upon Jacob.  
+
 v31–43: The account focuses on Jacob's management of the flocks, yet the broader narrative attributes his success to divine blessing.  
+
 v43: The chapter closes with Jacob's increasing wealth, preparing for the growing tension between Jacob and Laban.  
 
 ## Vocabulary
@@ -128,4 +139,3 @@ v27: נָחַשׁ (nāḥaš)
 
 v43: פָּרַץ (pāraṣ)  
 “To increase greatly” or “break forth.” A term describing rapid expansion and prosperity.  
-

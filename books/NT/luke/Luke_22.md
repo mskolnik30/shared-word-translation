@@ -228,20 +228,35 @@ v70: And they all said, “Are you then the Son of God?” And he said to them, 
 
 v71: And they said, “What further need do we have of testimony? For we ourselves have heard it from his mouth.”
 </p>
+
 ## Notes
+
 v03: Satan’s entry into Judas frames betrayal as both human and spiritual.
+
 v15–16: Passover is interpreted in light of coming suffering and fulfillment.
+
 v19–20: Bread and cup redefine covenant identity around Jesus’ body and blood.
+
 v22: Divine determination and human responsibility coexist.
+
 v25–27: Authority is redefined through service.
+
 v31–32: Intercession precedes failure; restoration is anticipated.
+
 v36–38: Shift in instruction reflects changing mission context.
+
 v42: Submission to the Father’s will defines obedience under distress.
+
 v44: Agony is intensified yet directed into prayer.
+
 v47–48: Betrayal is marked by intimacy turned against Jesus.
+
 v51: Healing interrupts violence even in arrest.
+
 v53: Darkness is granted a defined “hour.”
+
 v61–62: Recognition leads to repentance through grief.
+
 v66–71: The trial centers on identity claims tied to divine authority.
 
 ## Vocabulary
@@ -305,4 +320,3 @@ v64: προφητεύω (prophēteuō)
 v69: δύναμις (dynamis)
 
 “Power.”
-

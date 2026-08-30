@@ -71,24 +71,43 @@ v36: Simon Peter said to him, “Lord, where are you going?” Jesus answered hi
 v37: Peter said to him, “Lord, why can I not follow you now? I will lay down my life for you.”
 v38: Jesus answered, “Will you lay down your life for me? Truly, truly, I tell you: the rooster will not crow until you have denied me three times.”
 </p>
+
 ## Notes
+
 v01: “he loved them to the end” — Love is defined by endurance and completion; the coming cross is framed as love’s full reach, not tragedy alone.  
+
 v02–03: “betray… all things into his hands” — Jesus serves from security, not insecurity; betrayal is real, yet Jesus’ authority and origin remain clear.  
+
 v04–05: “laid aside… towel… wash” — The Lord’s glory takes the form of embodied humility; leadership is redefined as costly service.  
+
 v06–08: Peter’s protest — Refusing to be served can be pride disguised as reverence; receiving Jesus’ cleansing is part of belonging to him.  
+
 v10–11: “clean… though not all” — The community contains both genuine belonging and hidden betrayal; Jesus is not naïve about mixed motives.  
+
 v14–15: “wash one another’s feet” — This is not mere ritual reenactment but a pattern: mutual, low-status service as normal discipleship.  
+
 v16–17: “slave… not greater… happy… if you do” — Knowledge without practice is incomplete; blessing is tied to obedience shaped like humility.  
+
 v18: “lifted his heel” — Betrayal arises from within the table fellowship; scripture is used not to excuse evil but to locate it within God’s foreknown story.  
+
 v19: “so that… you may trust that I am he” — Jesus interprets the coming rupture as trust-formation: foretelling is pastoral, meant to stabilize disciples after shock.  
+
 v20: “whoever receives the one I send” — Hospitality becomes Christology: receiving Christ’s messengers is receiving Christ, and receiving Christ is receiving the Father.  
+
 v21: “troubled in spirit” — Jesus is not stoic; divine love includes real anguish in the face of treachery.  
+
 v23: “the one Jesus loved” — Nearness is pictured as attentive relationship; discipleship includes intimacy and listening.  
+
 v27–30: “Satan entered… And it was night” — John layers moral and spiritual darkness; Judas’ exit is both physical departure and symbolic descent.  
+
 v31–32: “glorified” — Glory is paradoxical: it arrives through surrender and the cross, not through dominance.  
+
 v33: “little children” — Tender address in a moment of looming absence; leadership speaks with affection, not only command.  
+
 v34: “a new commandment… as I have loved you” — The newness is the measure: love patterned on Jesus’ self-giving becomes the community’s defining ethic.  
+
 v35: “everyone will know” — The church’s credibility is relational; love is the public marker of discipleship, not performance or power.  
+
 v36–38: Peter’s confidence and denial — Zeal is not the same as endurance; Jesus names failure without abandoning Peter, framing denial within “afterward” hope.  
 
 ## Vocabulary

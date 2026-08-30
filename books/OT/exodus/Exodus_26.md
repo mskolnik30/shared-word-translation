@@ -98,14 +98,23 @@ v36: You shall make a screen for the entrance of the tent of blue, purple, and s
 
 v37: You shall make five pillars of acacia wood for the screen and overlay them with gold. Their hooks shall be gold, and you shall cast five bronze bases for them.
 </p>
+
 ## Notes
+
 v01: “dwelling” translates *mishkan*, emphasizing a place where the LORD dwells rather than merely a portable tent structure.
+
 v01: The inner curtains combine fine linen, royal colors, and cherubim, marking the interior as sacred space.
+
 v07: The goats’ hair curtains form a second layer described as a “tent” over the dwelling. The chapter distinguishes the inner dwelling from the protective tent layers.
+
 v14: The Hebrew term for the outermost leather covering is uncertain. TSW uses “fine leather,” preserving material ambiguity rather than identifying a specific animal.
+
 v17: “tenons” translates a word literally meaning “hands,” describing paired projecting supports that fit into the bases.
+
 v24: The corner-frame construction is technically difficult to reconstruct from the Hebrew. TSW stays close to the received instructions without inventing a modern architectural solution.
+
 v30: As in chapter 25, the dwelling is to be erected according to the revealed plan shown on the mountain.
+
 v33: The veil creates graded sacred space, separating the Holy Place from the Most Holy Place.
 
 ## Vocabulary

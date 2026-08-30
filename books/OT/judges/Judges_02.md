@@ -70,12 +70,19 @@ v22: in order to test Israel by them, whether they will keep the way of the LORD
 
 v23: So the LORD left those nations, not driving them out quickly, and he did not give them into the hand of Joshua.
 </p>
+
 ## Notes
+
 v01: “messenger of the LORD” — The Hebrew *malakh YHWH* can mean “messenger” or “angel of the LORD.” TSW uses “messenger” to preserve the ordinary lexical sense while leaving the figure’s identity open.
+
 v03: The Hebrew of the first consequence can be understood as the remaining peoples becoming adversaries or thorns at Israel’s sides. The main point is that tolerated peoples and their gods become sources of entanglement.
+
 v10: “did not know the LORD” — In context this is not merely lack of information. The new generation lacks the covenantal recognition shaped by memory of what the LORD had done.
+
 v11–19: These verses provide the theological pattern repeated throughout Judges: abandonment, oppression, crying out, deliverance through a judge, and renewed corruption.
+
 v17: “prostituted themselves” — The strong metaphor describes covenant unfaithfulness expressed through worship of other gods. The translation retains its force.
+
 v18: “was moved by their groaning” — The Hebrew verb expresses relenting or being moved with compassion in response to suffering.
 
 ## Vocabulary

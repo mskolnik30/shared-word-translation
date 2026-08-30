@@ -39,17 +39,29 @@ v14: Then the LORD said to Moses, “Write this as a remembrance in a book and r
 v15: And Moses built an altar and named it, The LORD Is My Banner.
 v16: He said, “A hand upon the throne of the LORD! The LORD will have war with Amalek from generation to generation.”
 </p>
+
 ## Notes
+
 v01: “Journeyed by stages” underscores ordered movement under the LORD’s command; the crisis arises not from disobedience but within obedience.  
+
 v02: “Quarreled” (rib) signals a legal dispute; the people place Moses—and by extension the LORD—on trial.  
+
 v03: The complaint escalates to an accusation of lethal intent, echoing earlier wilderness murmuring and intensifying the charge against God.  
+
 v05–06: The staff that struck the Nile now strikes the rock; an instrument of judgment becomes an instrument of provision, without explanation or justification.  
+
 v06: “I will be standing there before you” places the LORD at the site of the blow; divine presence is implicated in the act that brings water.  
+
 v07: Massah (“testing”) and Meribah (“quarreling”) memorialize the question, not the miracle: “Is the LORD among us or not?”  
+
 v09: Joshua’s first appearance frames leadership as delegated and embodied, while Moses’ role becomes intercessory and symbolic.  
+
 v11: The raised and lowered hand links the outcome of battle to sustained dependence rather than military strength alone.  
+
 v12: Aaron and Hur’s support portrays leadership as communal; perseverance requires shared burden-bearing.  
+
 v14: The command to write establishes memory as an act of obedience; the future is shaped by what is remembered aloud.  
+
 v16: The closing saying is terse and ambiguous; the gesture toward the LORD’s throne and the declaration of ongoing conflict resist full clarification.  
 
 ## Vocabulary

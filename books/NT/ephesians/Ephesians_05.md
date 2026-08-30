@@ -79,23 +79,41 @@ v32: This mystery is great, and I am speaking with reference to Christ and the c
 <p>
 v33: Each of you, however, should love his wife as himself, and a wife should respect her husband.
 </p>
+
 ## Notes
+
 v01: “imitators of God” — Grounds ethical instruction in participation rather than moral achievement.  
+
 v02: “gave himself up for us” — Frames love through self-giving action, not sentiment.  
+
 v03: “must not even be named” — Signals communal boundaries rather than private moral surveillance.  
+
 v05: “reign of Christ and of God” — Unites Christ and God within a single sphere of authority without explanation.  
+
 v08: “once you were darkness” — Describes identity, not behavior; transformation is presented as ontological.  
+
 v10: “discern what is pleasing” — Emphasizes ongoing attentiveness rather than fixed rule-following.  
+
 v13: “everything exposed by the light becomes visible” — Light is portrayed as transformative, not merely revealing.  
+
 v14: Quoted saying — Likely a liturgical or baptismal fragment; its origin is not specified.  
+
 v16: “the days are evil” — Provides context for urgency without apocalyptic detail.  
+
 v18: “be filled with the Spirit” — Passive construction emphasizes reception rather than control.  
+
 v21: “submitting to one another” — Functions as a hinge verse governing what follows.  
+
 v22: Absence of an explicit verb — Relies grammatically on v21; submission is framed relationally, not independently.  
+
 v25: “as Christ loved the church” — Defines authority through self-giving love rather than domination.  
+
 v27: “to present the church” — Uses cultic and marital imagery without collapsing them.  
+
 v31: Quotation of Genesis — Grounds the argument in scripture without harmonization.  
+
 v32: “this mystery is great” — Acknowledges excess of meaning rather than resolving it.  
+
 v33: Love and respect — Maintains asymmetry in exhortation without explaining or justifying it.  
 
 ## Vocabulary

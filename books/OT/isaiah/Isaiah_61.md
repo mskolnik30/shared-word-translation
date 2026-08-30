@@ -35,10 +35,15 @@ for he has clothed me with the garments of salvation, he has covered me with the
 v11: For as the earth brings forth its bud, and as the garden causes the things that are sown in it to spring forth;
 so the Lord GOD will cause righteousness and praise to spring forth before all the nations.
 </p>
+
 ## Notes
+
 v01: “anointed” is verbal rather than a title here. The speaker’s vocation is marked by the Spirit and directed toward good news, release, comfort, and restoration.  
+
 v08: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
+
 v03: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+
 v06: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
 ## Vocabulary
@@ -57,4 +62,3 @@ v06: גּוֹיִם (goyim)
 
 v03: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-

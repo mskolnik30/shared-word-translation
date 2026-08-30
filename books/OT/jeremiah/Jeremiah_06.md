@@ -224,6 +224,7 @@ but the wicked are not removed.
 v30: They call them rejected silver,
 for the LORD has rejected them.”
 </p>
+
 ## Notes
 
 v06: “must be punished”: The Hebrew verb can mean “visited,” whether for care, inspection, or judgment.

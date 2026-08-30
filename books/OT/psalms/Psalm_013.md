@@ -41,11 +41,17 @@ my heart shall rejoice in your saving help.
 v06: I will sing to the LORD,
 because the LORD has dealt bountifully with me.
 </p>
+
 ## Notes
+
 v01: “How long” — The question is repeated throughout the opening lament. The repetition is preserved as the psalmist addresses divine absence, inner sorrow, and the apparent triumph of an enemy.
+
 v02: “carry counsel in my soul” — The Hebrew describes continually placing or taking counsel within oneself. The expression suggests inward deliberation under distress without specifying whether the counsel is planning, questioning, or anxious reflection.
+
 v03: “Give light to my eyes” — The image contrasts renewed vitality with the “sleep of death” that follows. The metaphor is retained rather than explained in the main text.
+
 v05: “steadfast love” — The Hebrew ḥesed names faithful, enduring love grounded in relationship. The turn toward trust does not erase the lament that precedes it.
+
 v06: “dealt bountifully with me” — The final line speaks of the LORD’s action toward the psalmist as the ground of praise. The Hebrew verb can carry the sense of dealing fully or generously with someone.
 
 ## Vocabulary

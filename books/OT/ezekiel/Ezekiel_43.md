@@ -114,6 +114,7 @@ v26: For seven days they shall make atonement for the altar, cleanse it, and con
 <p>
 v27: When they have completed the days, from the eighth day onward the priests shall offer on the altar your burnt offerings and your well-being offerings. Then I will accept you, declares the LORD GOD.”
 </p>
+
 ## Notes
 
 v26: “Consecrate it” literally reflects the idiom “fill its hand,” an expression used for installation into sacred service.

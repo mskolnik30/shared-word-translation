@@ -122,17 +122,29 @@ v15: Their king will go into exile,
 he and his officials together,
 says the LORD.
 </p>
+
 ## Notes
+
 v01: Amos is identified with Tekoa in Judah, yet most of his prophetic work in the book is directed toward the northern kingdom of Israel.
+
 v01: “shepherds” translates a rare Hebrew term associated elsewhere with sheep breeders. It may imply more than ordinary hired shepherding, but the exact social status of Amos is uncertain.
+
 v01: The earthquake was memorable enough to date Amos’s ministry and is recalled again in Zechariah 14:5, but its precise historical date remains uncertain.
+
 v03: The repeated formula “for three transgressions … and for four” is a rhetorical pattern indicating accumulated guilt rather than a literal count of exactly four offenses.
+
 v03: “I will not turn it back” leaves the object unstated in Hebrew. It may mean the LORD will not turn back punishment, wrath, or the announced judgment. TSW preserves the source ambiguity.
+
 v03: “threshed Gilead with sledges of iron” is an image of extreme military violence. It may evoke literal torture or metaphorically describe devastating conquest.
+
 v05: “Valley of Aven” and “Beth-Eden” are geographic names with possible wordplay. Their exact locations are debated.
+
 v09: “covenant of brothers” may refer to treaty obligations, longstanding kinship-like relations, or both. The text does not specify a single historical treaty.
+
 v11: Edom’s violence is described as violence against “his brother,” evoking the ancestral relation between Edom/Esau and Israel/Jacob.
+
 v13: The violence against pregnant women is presented as an atrocity committed for territorial expansion. TSW retains the severity without graphic amplification.
+
 v15: Hebrew *malkam* can mean “their king” and also resembles the name of the Ammonite deity Milcom. TSW renders the ordinary royal sense while noting the possible wordplay.
 
 ## Vocabulary

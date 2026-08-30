@@ -59,11 +59,17 @@ v28: An earthen vessel in which it is boiled shall be broken, but if it is boile
 v29: Every male among the priests may eat it. It is most holy.
 v30: But no sin offering shall be eaten if any of its blood has been brought into the Tent of Meeting to make atonement in the Holy Place. It shall be burned with fire.
 </p>
+
 ## Notes
+
 v02: Wrong done to a neighbor is described simultaneously as unfaithfulness against the LORD, joining social ethics and worship.
+
 v05: Restitution precedes the guilt offering and includes an added fifth, making repair of material harm part of the response to guilt.
+
 v13: The repeated command that the altar fire “shall not go out” emphasizes continuity in the sanctuary’s service.
+
 v18: “Whatever touches them shall become holy” expresses the contagious quality of holiness in this ritual context; it does not mean casual contact is permitted.
+
 v30: Sin offerings whose blood enters the sanctuary are treated differently from those eaten by the priests.
 
 ## Vocabulary

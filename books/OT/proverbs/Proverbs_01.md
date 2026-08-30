@@ -149,20 +149,35 @@ will dwell securely
 and will be at ease,
 without dread of harm.”
 </p>
+
 ## Notes
+
 v01: “proverbs” — The Hebrew *mashal* can refer to a proverb, comparison, saying, or figurative teaching. The collection includes several literary forms beyond short proverbial sentences.
+
 v02–06: The opening verses accumulate terms for wisdom, discipline, understanding, prudence, knowledge, and guidance. The overlap is deliberate; the introduction presents wisdom as a formed way of perceiving and living rather than a single intellectual skill.
+
 v07: “fear of the LORD” — Fear here includes reverence, awe, and recognition of the LORD’s authority. It is named as the beginning or foundational starting point of knowledge.
+
 v08: “my child” — The Hebrew literally says “my son.” Within the instructional setting, the address identifies the learner in a parent-child relationship. TSW uses “my child” where the teaching functions generically rather than referring to a particular male individual.
+
 v12: “Sheol” — The Hebrew name for the realm of the dead is retained rather than replaced with “hell,” which would introduce later theological associations not required by the text.
+
 v17–18: The bird can see the trap being prepared, yet the violent conspirators fail to recognize that their own scheme ultimately becomes an ambush against themselves.
+
 v19: “unjust gain” — The Hebrew expression refers to gain acquired through violence, exploitation, or wrongful advantage. The proverb depicts such gain as taking the life of the one who seeks it.
+
 v20: “Wisdom” — Wisdom is personified as a woman who speaks publicly. The grammatical gender and poetic personification are preserved rather than reduced to an abstract quality.
+
 v21: “city gates” — Gates were places of public gathering, commerce, judgment, and civic decision. Wisdom therefore speaks in the places where communal life is conducted.
+
 v23: “pour out my spirit” — The Hebrew can describe pouring out one’s spirit or thoughts. The image conveys an abundant disclosure of wisdom’s speech without requiring identification with later uses of “Spirit.”
+
 v26: Wisdom’s laughter is part of the poem’s severe portrayal of rejected instruction and its consequences. The translation does not soften the image or turn it into divine delight in suffering.
+
 v28: The refusal to answer follows repeated refusal to hear. The poem portrays a point at which the consequences of persistent rejection can no longer be avoided simply by seeking relief from them.
+
 v31: “fruit of their way” — Conduct is pictured as producing its own harvest. The consequences grow out of the path that has been chosen.
+
 v33: Security is contrasted with the dread that overtakes those who reject wisdom. The verse does not promise absence of all hardship, but freedom from the destructive end described in the preceding speech.
 
 ## Vocabulary

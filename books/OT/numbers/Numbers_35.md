@@ -75,12 +75,19 @@ v32: You shall accept no ransom for one who has fled to a city of refuge to allo
 v33: You shall not pollute the land in which you live, for blood pollutes the land, and no atonement can be made for the land for the blood shed upon it except by the blood of the one who shed it.
 v34: You shall not defile the land in which you live, in whose midst I dwell, for I, the LORD, dwell in the midst of the Israelites.”
 </p>
+
 ## Notes
+
 v04–05: The measurements describe pastureland extending beyond the city, though the relationship between the one-thousand-cubit statement and the two-thousand-cubit measurements has been understood in different ways. TSW preserves both measurements.
+
 v11: The refuge is for unintentional killing, not for shielding a murderer from judgment.
+
 v12: The accused manslayer is protected until communal judgment, limiting immediate private vengeance.
+
 v19: “avenger of blood” is a kinship role responsible for responding to bloodshed. The cities of refuge place that role within judicial boundaries.
+
 v25: The manslayer’s return is tied to the death of the high priest without an explanation of why that death changes the legal status. TSW retains the connection without supplying a theory.
+
 v33–34: Bloodshed is not only a crime against a person; it pollutes the land where the LORD dwells among Israel.
 
 ## Vocabulary

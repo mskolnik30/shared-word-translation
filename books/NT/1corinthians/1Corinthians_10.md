@@ -108,14 +108,23 @@ v32: Give no offense either to Jews or to Greeks or to the church of God,
 
 v33: just as I also please all people in all things, not seeking my own advantage, but that of the many, so that they may be saved.
 </p>
+
 ## Notes
+
 v01–05: Shared privilege does not guarantee divine approval.  
+
 v06–10: Israel’s failures serve as warnings.  
+
 v11–12: Instruction is directed toward those in the final age.  
+
 v13: God provides both limitation and escape in temptation.  
+
 v14–22: Idolatry involves participation with spiritual realities.  
+
 v23–24: Freedom is governed by benefit and edification.  
+
 v25–30: Conscience shapes application of freedom.  
+
 v31–33: All actions are oriented toward God’s glory and others’ salvation.  
 
 ## Vocabulary

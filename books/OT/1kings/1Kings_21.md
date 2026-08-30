@@ -75,7 +75,9 @@ v28: Then the word of the LORD came to Elijah the Tishbite, saying,
 
 v29: “Have you seen how Ahab has humbled himself before me? Because he has humbled himself before me, I will not bring the disaster in his days; in the days of his son I will bring the disaster upon his house.”
 </p>
+
 ## Notes
+
 v03–29: - **3. “The inheritance of my ancestors”:** Naboth’s refusal is not merely a personal attachment to property. The vineyard is an ancestral inheritance, language that evokes Israel’s received land and the responsibility to preserve it within the family.  
 - **10, 13. “Cursed God and the king”:** The Hebrew verb ordinarily means “blessed,” but here it functions as a reverential euphemism for cursing. Jezebel’s scheme turns a capital accusation against God and king into a weapon for taking Naboth’s land.  
 - **12. “At the head of the people”:** Naboth is given a prominent public position, apparently as part of the staged proceeding. The public fast and assembly lend religious and legal appearance to a false accusation.  

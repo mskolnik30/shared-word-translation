@@ -125,6 +125,7 @@ To draw near in order to listen is better
 than for fools to offer sacrifice,
 for they do not know that they are doing evil.
 </p>
+
 ## Notes
 
 v17: In many English Bibles this verse is numbered Ecclesiastes 5:1, following a different chapter division. The Hebrew chapter numbering places it here.

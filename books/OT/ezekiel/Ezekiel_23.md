@@ -86,8 +86,11 @@ v47: And the company will stone them with stones and hack them with their swords
 v48: Thus I will put an end to lewdness from the land, so that all women may be taught not to practice lewdness as you have practiced.
 v49: They will repay you for your lewdness, and you will bear the sins of your idolatry. Then you will know that I am the LORD GOD.”
 </p>
+
 ## Notes
+
 v02: **son of man** — A term often used to address Ezekiel, signifying his human status and prophetic role in receiving divine messages.  
+
 v40: **bathed yourself, painted your eyes, adorned yourself with ornaments** — These actions describe preparation and ornamentation as part of the allure used in awaiting the arrival of lovers, symbolizing Israel's readiness to engage in idolatrous practices.  
 
 ## Vocabulary

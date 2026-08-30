@@ -158,21 +158,37 @@ v32: The field and the cave that is in it were purchased from the Hittites.”
 <p>
 v33: When Jacob finished commanding his sons, he drew up his feet into the bed and breathed his last and was gathered to his people.
 </p>
+
 ## Notes
+
 v01–02: Jacob's words combine blessing, prophecy, and evaluation of his sons and their future tribes.  
+
 v03–04: Reuben loses firstborn preeminence because of his earlier violation of his father's bed (Genesis 35:22).  
+
 v05–07: Simeon and Levi are judged for the violence displayed at Shechem (Genesis 34).  
+
 v08–12: Judah receives the longest and most exalted blessing, anticipating leadership and royal authority.  
+
 v09: The lion imagery becomes permanently associated with the tribe of Judah.  
+
 v10: The scepter and ruler's staff point to enduring kingship arising from Judah.  
+
 v11–12: Images of abundant wine and prosperity portray extraordinary blessing and fruitfulness.  
+
 v16–18: Dan's blessing emphasizes cunning and survival rather than military strength.  
+
 v18: Jacob interrupts the blessings with a direct expression of hope in the LORD's salvation.  
+
 v22–26: Joseph receives the most extensive blessing, reflecting God's preservation and favor throughout his life.  
+
 v24: God is described through several important titles: the Mighty One of Jacob, the Shepherd, and the Stone of Israel.  
+
 v27: Benjamin is portrayed as fierce and successful in battle.  
+
 v28: The sons are now viewed as the ancestors of the tribes of Israel.  
+
 v29–32: Jacob's final concern remains burial in the promised land alongside the covenant family.  
+
 v33: The phrase “gathered to his people” expresses continuity with previous generations beyond death.  
 
 ## Vocabulary
@@ -215,4 +231,3 @@ v26: נָזִיר (nāzîr)
 
 v33: אָסַף אֶל־עַמָּיו (ʾāsap̄ ʾel-ʿammāyw)  
 “Gathered to his people.” A traditional expression for death and reunion with one's ancestors.  
-

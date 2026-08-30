@@ -39,8 +39,11 @@ v06: Oh, that salvation for Israel would come out of Zion!
 When God restores the fortunes of his people,
 Jacob will rejoice; Israel will be glad.
 </p>
+
 ## Notes
+
 v03: “Not even one” intensifies the universal scope of the psalm’s accusation: the claim concerns the whole human field being surveyed, not merely a particular group of evildoers.
+
 v05: The phrase “where there was no fear” makes the terror strikingly disproportionate to any visible cause, locating the reversal in God’s action rather than in the enemy’s apparent circumstances.
 
 ## Vocabulary

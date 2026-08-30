@@ -33,6 +33,7 @@ v07: O Israel, hope in the LORD!
 v08: The LORD will redeem Israel
   from all its iniquities.
 </p>
+
 ## Notes
 
 v01: “Out of the depths” — A prayer from disorientation and overwhelm; faith begins here with honest address, not composed strength.

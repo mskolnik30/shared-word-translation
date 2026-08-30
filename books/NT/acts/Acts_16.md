@@ -138,18 +138,31 @@ v39: and coming, they appealed to them, and bringing them out, they were asking 
 <p>
 v40: And going out from the prison, they went to Lydia, and seeing the brothers, they encouraged them and departed.
 </p>
+
 ## Notes
+
 v03: Circumcision here is strategic, not salvific.  
+
 v06–08: Mission is directed by restriction as well as permission.  
+
 v09–10: Vision clarifies geographic direction.  
+
 v14: Conversion is attributed to divine initiative.  
+
 v16–18: Spiritual authority confronts exploitative systems.  
+
 v19–24: Economic loss motivates persecution.  
+
 v25–26: Worship occurs in suffering and precedes deliverance.  
+
 v27–28: Preservation of life overrides opportunity for escape.  
+
 v30–31: Salvation is defined through belief in Jesus.  
+
 v33–34: Immediate response includes care, baptism, and joy.  
+
 v37–39: Legal status is asserted to expose injustice.  
+
 v40: Community strengthening continues after release.  
 
 ## Vocabulary

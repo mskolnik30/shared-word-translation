@@ -45,18 +45,31 @@ v19: the land of the Kenites, the Kenizzites, the Kadmonites,
 v20: the Hittites, the Perizzites, the Rephaim,
 v21: the Amorites, the Canaanites, the Girgashites, and the Jebusites.”
 </p>
+
 ## Notes
+
 v01: The promise begins with reassurance. God presents himself as Abram’s protection before speaking of reward.  
+
 v02–03: Abram’s question arises from the tension between divine promise and present reality. The promised offspring has not yet appeared.  
+
 v05: The stars become a visible sign of an otherwise invisible future.  
+
 v06: Abram’s trust is counted as righteousness. The verse emphasizes reliance upon God rather than personal achievement.  
+
 v07–08: Abram responds to the promise of land with a request for assurance. His question is not condemned but answered.  
+
 v09–10: The covenant ceremony reflects ancient practices associated with solemn agreements and binding commitments.  
+
 v12: The deep sleep recalls earlier moments of divine action in Genesis. Abram becomes a recipient rather than an actor in what follows.  
+
 v13–16: The promise includes both suffering and deliverance. Future blessing is not separated from a long period of affliction.  
+
 v16: The delay is connected to the unfinished iniquity of the Amorites. Divine judgment is portrayed as patient rather than arbitrary.  
+
 v17: Only the smoking fire pot and flaming torch pass between the pieces. The covenant is established through God's action.  
+
 v18: The covenant promise now includes defined territorial boundaries in addition to descendants.  
+
 v19–21: The list of peoples emphasizes that the promised land is already inhabited and that its future possession lies in God's purposes rather than Abram's power.  
 
 ## Vocabulary
@@ -96,4 +109,3 @@ v18: נָתַן (nāṯan)
 
 v18: נָהָר (nāhār)  
 “River.” Used here of major geographical boundaries that define the promised land.  
-

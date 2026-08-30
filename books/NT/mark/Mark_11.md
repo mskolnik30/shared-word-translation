@@ -106,19 +106,33 @@ v32: But shall we say, ‘From human beings’?” They feared the crowd, for al
 
 v33: And answering Jesus, they said, “We do not know.” And Jesus said to them, “Neither do I tell you by what authority I do these things.”
 </p>
+
 ## Notes
+
 v01–06: The colt episode emphasizes preparation and authority before Jesus enters the city.
+
 v09–10: The acclamation joins pilgrimage language with royal hope, but without full understanding.
+
 v11: Jesus’ first act in the temple is inspection, not immediate disruption.
+
 v13: The note that it was not the season for figs intensifies the symbolic force rather than softening it.
+
 v14: The disciples hear the curse, making the fig tree a teaching sign.
+
 v15–17: Temple action is framed by scripture; judgment concerns the distortion of worship.
+
 v17: “For all the nations” is retained, keeping the temple’s outward vocation visible.
+
 v18: The leaders’ fear arises from public astonishment, linking conflict with authority.
+
 v22–24: Faith is directed toward God, not toward technique or self-generated certainty.
+
 v25: Prayer and forgiveness are joined; vertical appeal cannot be separated from communal repair.
+
 v28: The authority question is legitimate in form but hostile in intent.
+
 v30–33: Jesus exposes their unwillingness to answer truthfully rather than merely their ignorance.
+
 v26: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add a saying corresponding to Matthew 6:15. Public verse numbering is retained.
 
 ## Vocabulary
@@ -175,4 +189,3 @@ v28: ἐξουσία (exousia)
 
 v32: προφήτης (prophētēs)
 “Prophet.” One who speaks with divine authority.
-

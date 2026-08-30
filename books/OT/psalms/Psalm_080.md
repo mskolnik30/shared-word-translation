@@ -88,16 +88,25 @@ v19: Restore us, O LORD God of hosts;
 let your face shine,
 that we may be saved.
 </p>
+
 ## Notes
+
 v01–02: God is addressed as shepherd and king. Care and authority are held together.
 
 v3,7,19: The repeated refrain structures the psalm. Restoration is tied to divine presence (“face shine”).
+
 v04–06: Suffering is interpreted as divine displeasure, not random misfortune.
+
 v05: “Bread of tears” intensifies the imagery of sustained grief.
+
 v08–11: Israel is portrayed as a vine—chosen, planted, and flourishing.
+
 v12–13: Destruction is framed as reversal of divine protection.
+
 v14–15: The appeal is grounded in God’s prior action (“your right hand planted”).
+
 v17: “Man of your right hand” introduces a figure of restoration, left undefined.
+
 v18: Renewal leads to renewed faithfulness.
 
 ## Vocabulary
@@ -128,4 +137,3 @@ v17: יָמִין (yamin)
 
 v19: יָשַׁע (yasha)
 “To save.” Deliver or rescue.
-

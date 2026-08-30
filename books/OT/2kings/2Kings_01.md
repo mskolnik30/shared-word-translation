@@ -60,13 +60,21 @@ v17: So he died according to the word of the LORD that Elijah had spoken. Jehora
 
 v18: Now the rest of the acts of Ahaziah that he did, are they not written in the book of the chronicles of the kings of Israel?
 </p>
+
 ## Notes
+
 v01: Moab’s rebellion forms the political background to the opening of 2 Kings and becomes the main subject of chapter 3.
+
 v02: “Baal-Zebub” is the name of the god of Ekron in the Masoretic Text. The form may preserve a polemical alteration of a title meaning “Baal the prince” or similar, but TSW retains the received name.
+
 v03: The issue is not merely foreign consultation but the king’s implicit denial that Israel has a God whose word can be sought.
+
 v08: “hairy man” can describe Elijah’s body or his garment. The leather belt is the identifying feature in the messengers’ report.
+
 v09–12: The fire episodes are severe prophetic judgment scenes. TSW preserves them without generalizing them into a pattern for religious coercion.
+
 v13–15: The third captain approaches with humility rather than royal command. The messenger of the LORD then instructs Elijah not to fear and to go with him.
+
 v17: The regnal synchronism is textually and chronologically difficult because multiple kings named Jehoram/Joram overlap in Israel and Judah. TSW follows the Masoretic wording.
 
 ## Vocabulary

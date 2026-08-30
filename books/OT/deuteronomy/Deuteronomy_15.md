@@ -70,17 +70,27 @@ v22: Within your gates you may eat it; the unclean and the clean alike may eat i
 
 v23: Only you shall not eat its blood; you shall pour it out upon the ground like water.
 </p>
+
 ## Notes
+
 v01–03: The seventh-year “release” concerns debts within the covenant community. The precise extent—temporary suspension or cancellation—has been debated, but the text emphasizes freedom from creditor pressure.
 
 v04, v11: The chapter holds an ideal and a social reality together: “there should be no poor” under covenant blessing, yet “the poor will never cease.” The command therefore makes generosity permanent.
+
 v07: Hard heart and closed hand are paired. Economic refusal is treated as a spiritual condition.
+
 v09: The approaching release year must not become an excuse to stop lending to the poor. The law protects access to credit precisely when repayment seems uncertain.
+
 v10: Giving is commanded without inward resentment, joining action and heart.
+
 v12: Both Hebrew men and women are explicitly included in release from debt-servitude.
+
 v14–15: The released servant receives material provision from the master’s own blessed resources. Exodus memory transforms release into generous restoration rather than bare emancipation.
+
 v17: The ear-piercing rite resembles Exodus 21 but explicitly applies also to the female servant here.
+
 v18: “twice the wages” may mean the servant’s six-year labor had economic value equivalent to twice that of a hired worker over comparable time. The exact calculation is not specified.
+
 v19–23: Firstborn livestock are consecrated, but defective animals are treated as ordinary meat rather than sacrificed.
 
 ## Vocabulary

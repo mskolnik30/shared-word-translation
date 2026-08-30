@@ -97,23 +97,41 @@ v33: So Paul went out from their midst.
 
 v34: But some men joined him and believed, among whom also were Dionysius the Areopagite and a woman named Damaris and others with them.
 </p>
+
 ## Notes
+
 v02–03: Paul’s method is described as reasoning “from the Scriptures,” not merely appealing to them. Explanation and demonstration are held together.  
+
 v03: “It was necessary” signals theological necessity, not mere circumstance. Suffering and resurrection belong to the identity of the Christ.  
+
 v05–07: The charge against Paul is political: allegiance to “another king.” The gospel is heard as a rival claim to imperial authority.  
+
 v06: “Turned the world upside down” reflects perception rather than endorsement. The accusation captures the disruptive force of the message.  
+
 v11: The Bereans are commended not for immediate agreement but for examination. Receptivity and discernment are held together.  
+
 v16: Paul’s provocation is internal before it becomes public. The sight of idolatry unsettles him at the level of spirit.  
+
 v18: “Babbler” suggests one who picks up scraps of ideas. The dismissal reflects both curiosity and contempt.  
+
 v22: “Very religious” preserves ambiguity. The statement can be heard as acknowledgment or critique.  
+
 v23: The “unknown god” becomes a point of contact, not affirmation. Paul begins within their frame but redirects it.  
+
 v24–25: God is described in terms that resist containment and dependence. Creator language undercuts temple-centered assumptions.  
+
 v26: Unity of origin (“from one”) grounds the diversity of nations without erasing distinction.  
+
 v27: The language of seeking is tentative (“perhaps”), yet the nearness of God is asserted without qualification.  
+
 v28: Paul appropriates Greek poetry without endorsing its full framework. The line is recontextualized within his proclamation.  
+
 v29: Idolatry is critiqued not only as false worship but as a reduction of divine reality to human fabrication.  
+
 v30: “Overlooked” does not imply indifference but delayed judgment. The present moment is marked by a new summons.  
+
 v31: Resurrection functions as both assurance and boundary. It confirms the appointed judge and provokes division.  
+
 v32–34: Responses vary—mockery, delay, belief. The text does not resolve the outcome into a single pattern.  
 
 ## Vocabulary
@@ -160,4 +178,3 @@ v34: κολλάομαι (kollaomai)
 
 v03: δεῖ (dei)
 “It is necessary.” Often signals divine or scriptural necessity within Luke-Acts.
-

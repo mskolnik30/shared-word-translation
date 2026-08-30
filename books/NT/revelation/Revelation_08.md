@@ -38,17 +38,29 @@ v12: The fourth angel sounded, and a third of the sun was struck, and a third of
 
 v13: Then I looked, and I heard an eagle crying with a loud voice as it flew in midheaven, “Woe, woe, woe to those who dwell on the earth, at the blasts of the remaining trumpets that the three angels are about to sound!”
 </p>
+
 ## Notes
+
 v01: Silence interrupts the sequence; response is suspended rather than continued.
+
 v02: The angels are presented as standing before God, emphasizing position rather than origin.
+
 v03–04: Prayers are joined with incense, linking petition and offering without distinction.
+
 v05: The same source (altar fire) moves from offering to judgment.
+
 v06: Preparation precedes action; the sounding is deliberate, not sudden.
+
 v07–12: Each trumpet affects a “third,” indicating limitation rather than totality.
+
 v07: Elements are combined (hail, fire, blood) without explanation of mechanism.
+
 v08: The “mountain” is described comparatively, not identified.
+
 v10–11: Naming (“Wormwood”) interprets effect (bitterness) rather than origin.
+
 v12: Cosmic bodies are partially darkened, not extinguished.
+
 v13: The eagle’s cry anticipates escalation; judgment intensifies rather than concludes.
 
 ## Vocabulary
@@ -92,4 +104,3 @@ v11: ἄψινθος (apsinthos)
 v13: οὐρανόθεν (ouranothen)
 
 “Midheaven.” The highest visible point, signaling universal proclamation.
-

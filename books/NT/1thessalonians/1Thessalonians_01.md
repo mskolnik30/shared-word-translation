@@ -44,15 +44,25 @@ v09: For they themselves report about us what kind of reception we had among you
 <p>
 v10: and to wait for his Son from heaven, whom he raised from the dead—Jesus, who rescues us from the coming wrath.
 </p>
+
 ## Notes
+
 v01: The church is located “in God… and the Lord Jesus Christ,” framing identity as relational rather than geographic alone.  
+
 v02–03: Faith, love, and hope are expressed through action (“work,” “labor,” “steadfastness”), not abstraction.  
+
 v04: “Election” is stated without explanation, grounded in God’s love.  
+
 v05: The good news is not merely spoken but enacted in power, Spirit, and conviction.  
+
 v05: Paul appeals to the community’s own experience (“you know”) as evidence.  
+
 v06: Affliction and joy are held together. Reception of the word includes both.  
+
 v07–08: The community becomes a model. Influence spreads without deliberate strategy.  
+
 v09: Conversion is described as turning—from idols to God—indicating both rejection and reorientation.  
+
 v10: Waiting is active expectation. Hope is directed toward a future event grounded in resurrection.  
 
 ## Vocabulary

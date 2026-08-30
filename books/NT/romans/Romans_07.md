@@ -88,14 +88,23 @@ v24: Wretched man that I am! Who will rescue me from this body of death?
 
 v25: Thanks be to God through Jesus Christ our Lord! So then, I myself with the mind serve the law of God, but with the flesh the law of sin.
 </p>
+
 ## Notes
+
 v01–03: Marriage analogy illustrates binding authority of law.
+
 v04: Death with Christ results in new belonging.
+
 v05–06: Transition from law to Spirit redefines service.
+
 v07–12: Law reveals sin but is not itself sinful.
+
 v13: Sin exploits the good to produce death.
+
 v14–20: Internal conflict exposes inability of flesh.
+
 v21–23: Competing “laws” describe moral struggle.
+
 v24–25: Deliverance is located in Christ, not self-effort.
 
 ## Vocabulary
@@ -164,4 +173,3 @@ v24: ταλαίπωρος (talaipōros)
 
 v25: χάρις (charis)
 “Thanks, grace.”
-

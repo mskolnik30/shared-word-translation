@@ -94,18 +94,31 @@ v31: But the servants of David had struck down from Benjamin and the men of Abne
 
 v32: They lifted up Asahel and buried him in his father’s tomb, which was in Bethlehem. Joab and his men walked all night, and the day dawned upon them at Hebron.
 </p>
+
 ## Notes
+
 v01: David begins his kingship by inquiring of the LORD rather than immediately moving to seize political opportunity.
+
 v04: David is first anointed king over Judah only. The kingdom remains divided between David’s house and Saul’s surviving dynasty.
+
 v05–07: David honors Jabesh-Gilead for burying Saul and seeks their support without denouncing their loyalty to Saul.
+
 v08: The name “Ish-Bosheth” means “man of shame.” 1 Chronicles preserves the form Eshbaal, “man of Baal.” The Samuel form likely reflects later substitution of “shame” for the divine element Baal.
+
 v09: “Ashurites” is textually uncertain and may refer to the Asherites or another regional group. TSW follows the Masoretic form.
+
 v14: “play” is grimly ironic. What begins as a contest between selected young men becomes mutual killing and then full civil battle.
+
 v16: “Helkath-Hazzurim” is a difficult place-name, traditionally associated with the “field of sharp edges” or “field of swords.”
+
 v21–23: Abner repeatedly tries to avoid killing Asahel because he recognizes the likely blood feud with Joab. Asahel’s refusal turns pursuit into personal tragedy.
+
 v23: The spear’s “butt end” may have been sharpened or fitted with a point. The Hebrew emphasizes that it passes through Asahel.
+
 v26: Abner’s question “Shall the sword devour forever?” names the self-consuming character of Israelite civil war.
+
 v27: Joab’s response is difficult and may mean the pursuit would have ceased earlier if Abner had spoken sooner. TSW preserves the basic cessation sense.
+
 v29: “Bithron” may be a geographic region or route east of the Jordan; its exact location is uncertain.
 
 ## Vocabulary

@@ -58,13 +58,21 @@ v20: “You shall command the children of Israel to bring you pure beaten olive 
 
 v21: In the tent of meeting, outside the veil that is before the testimony, Aaron and his sons shall tend it from evening until morning before the LORD. It shall be a perpetual statute throughout their generations from the children of Israel.
 </p>
+
 ## Notes
+
 v01–08: The bronze altar stands outside the tent and is the primary altar for burnt offerings. Its portability is built into the design through rings and poles.
+
 v02: Altar “horns” are projecting corners associated with the altar’s sacred and ritual identity.
+
 v08: The altar, like the dwelling and furnishings, is made according to what Moses was shown on the mountain.
+
 v09–18: The court creates a bounded sacred precinct around the dwelling while remaining more accessible than the tent’s interior rooms.
+
 v16: The entrance screen uses the same sacred colors seen in the dwelling, marking transition from ordinary space into the sanctuary court.
+
 v20: “beaten olive oil” refers to high-quality oil produced from crushed olives, suitable for a clear-burning sanctuary light.
+
 v21: The lamp burns through the night under priestly care. “Tent of meeting” emphasizes the sanctuary as a place of encounter between the LORD and Israel.
 
 ## Vocabulary

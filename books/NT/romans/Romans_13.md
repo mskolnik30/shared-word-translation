@@ -54,13 +54,21 @@ v13: Let us walk properly, as in the day, not in revelry and drunkenness, not in
 
 v14: But put on the Lord Jesus Christ, and make no provision for the flesh, for its desires.
 </p>
+
 ## Notes
+
 v01–02: Authority is framed as divinely ordered.
+
 v03–04: Government functions as moral restraint.
+
 v05: Submission includes internal (conscience) and external (wrath) motives.
+
 v06–07: Civic obligations are expressions of order.
+
 v08–10: Love fulfills the intent of the law.
+
 v11–12: Eschatological urgency shapes ethical conduct.
+
 v13–14: Moral transformation is expressed through conduct and identity in Christ.
 
 ## Vocabulary
@@ -120,4 +128,3 @@ v13: κῶμος (kōmos)
 v14: πρόνοια (pronoia)
 
 “Provision.”
-

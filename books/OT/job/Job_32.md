@@ -84,12 +84,19 @@ and let me not flatter any human.
 v22: For I do not know how to flatter;
 if I did, my Maker would soon carry me away.”
 </p>
+
 ## Notes
+
 v01–05: Elihu enters only after the three friends stop speaking. The narrator records his anger both at Job and at the friends: Job for justifying himself, the friends for condemning without an answer.
+
 v02: “righteous rather than God” — The Hebrew can mean Job justified himself more than God or at God’s expense. Elihu frames the dispute as involving the character of God as well as Job.
+
 v08: Elihu qualifies the wisdom of age by appealing to the divine spirit and breath that give understanding. Wisdom is not simply accumulated years.
+
 v13: Elihu warns the friends not to retreat into the claim that only God could answer Job after their own arguments have failed.
+
 v18–20: The imagery of fermenting wine in sealed skins depicts Elihu’s intense compulsion to speak, but the narrative does not itself declare his coming speech inspired.
+
 v21–22: Elihu claims impartiality, a significant concern in a book dominated by legal and judicial imagery.
 
 ## Vocabulary

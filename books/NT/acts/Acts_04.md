@@ -128,13 +128,21 @@ v36: And Joseph, who was called by the apostles Barnabas (which means, being tra
 
 v37: having a field, sold it and brought the money and laid it at the feet of the apostles.
 </p>
+
 ## Notes
+
 v28: Divine sovereignty frames even hostile actions.  
+
 v29–30: Prayer seeks boldness, not protection.  
+
 v31: Spirit-filling results in continued proclamation.  
+
 v32: Unity is expressed both internally (“heart and soul”) and materially.  
+
 v33: Resurrection testimony remains central.  
+
 v34–35: Economic sharing removes need within the community.  
+
 v36–37: Barnabas exemplifies voluntary generosity.  
 
 ## Vocabulary

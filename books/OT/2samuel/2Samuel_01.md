@@ -105,16 +105,27 @@ surpassing the love of women.
 v27: How the mighty have fallen,
 and the weapons of war have perished!
 </p>
+
 ## Notes
+
 v06–10: The Amalekite’s account differs from 1 Samuel 31, where Saul falls on his own sword after his armor-bearer refuses to kill him. The narrative does not explain whether the Amalekite is telling the truth, lying for reward, or describing a final moment after Saul’s self-inflicted wound. TSW preserves the tension.
+
 v09: “agony” translates a rare Hebrew term whose exact sense is uncertain; it may describe dizziness, anguish, or convulsion.
+
 v12: David’s mourning includes Saul, Jonathan, the people of the LORD, and the whole house of Israel. Personal rivalry does not erase Saul’s covenantal place in David’s grief.
+
 v14: Saul is still called “the LORD’s anointed” after his death, preserving David’s long-standing refusal to seize the kingship by killing him.
+
 v16: David judges the Amalekite according to his own testimony, whether or not that testimony is historically accurate.
+
 v18: “The Bow” may be the title of the lament, an instruction connected with archery, or a heading whose precise function is no longer known. The Book of Jashar is also cited in Joshua 10:13 but is otherwise lost.
+
 v19: “Your glory” translates a Hebrew word that can mean beauty, gazelle, or glory. TSW uses the abstract sense appropriate to Saul and Jonathan as Israel’s fallen splendor.
+
 v21: “fields of offerings” is difficult. The line may refer to fertile fields producing grain offerings or to fields deprived of blessing. TSW preserves the cultic agricultural wording.
+
 v23: David’s lament speaks generously of Saul despite Saul’s hostility toward him. The poem is public mourning, not a complete historical evaluation of Saul’s reign.
+
 v26: David compares Jonathan’s covenantal love with the love of women. The verse celebrates extraordinary loyalty and affection without specifying a sexual relationship.
 
 ## Vocabulary

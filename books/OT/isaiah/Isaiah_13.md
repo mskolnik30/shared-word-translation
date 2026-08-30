@@ -51,10 +51,15 @@ v20: It will never be inhabited, neither will it be lived in from generation to 
 v21: But wild animals of the desert will lie there, and their houses will be full of jackals. Ostriches will dwell there, and wild goats will frolic there.
 v22: Wolves will cry in their castles, and jackals in the pleasant palaces. Her time is near to come, and her days will not be prolonged.
 </p>
+
 ## Notes
+
 v01: The oracle turns from historical Babylon toward cosmic and universal imagery, allowing political judgment and the day of the LORD to overlap.  
+
 v04: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+
 v04: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+
 v06: “day of the LORD” — The expression names decisive divine intervention in judgment and restoration without reducing it to a single chronological scheme.  
 
 ## Vocabulary
@@ -73,4 +78,3 @@ v19: כָּבוֹד (kavod)
 
 v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-

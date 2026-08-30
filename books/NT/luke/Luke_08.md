@@ -174,22 +174,39 @@ v55: And her spirit returned, and she rose immediately, and he ordered that some
 
 v56: And her parents were amazed, but he ordered them to tell no one what had happened.
 </p>
+
 ## Notes
+
 v01–03: Women are named as active participants in the mission, not peripheral observers.
+
 v04–08: The sower scatters broadly; the difference lies in reception, not distribution.
+
 v10: Parables both reveal and conceal, depending on hearing.
+
 v15: Fruitfulness is linked to endurance, not initial response.
+
 v18: Hearing is an active responsibility with consequences.
+
 v21: Kinship is redefined around obedience to the word.
+
 v24: Jesus rebukes natural forces as he does spirits, extending authority over creation.
+
 v25: The disciples move from fear of danger to fear of Jesus himself.
+
 v30: “Legion” signals overwhelming occupation, not merely individual affliction.
+
 v35: Restoration is described as social and mental (“clothed… right mind”).
+
 v37: Fear leads to rejection rather than faith.
+
 v39: The healed man becomes a witness within his own community.
+
 v43–48: The woman’s hidden act becomes public confession.
+
 v48: “Saved” integrates healing and restoration.
+
 v50: Faith is directed against fear, not against death itself.
+
 v55: The return of spirit emphasizes full restoration, not mere resuscitation.
 
 ## Vocabulary
@@ -237,4 +254,3 @@ v48: πίστις (pistis)
 
 v55: πνεῦμα (pneuma)
 “Spirit.”
-

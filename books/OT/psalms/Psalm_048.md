@@ -58,6 +58,7 @@ so that you may tell the next generation:
 v14: This is God, our God forever and ever;
 God will guide us until death.
 </p>
+
 ## Notes
 
 v14: The final Hebrew expression can be read “until death.” Its form is unusual, and ancient and modern witnesses have understood it in more than one way; the main text preserves the Masoretic wording without expanding it.

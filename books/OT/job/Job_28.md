@@ -108,13 +108,21 @@ v28: And he said to humanity:
 ‘Look, the fear of the Lord—that is wisdom,
 and turning away from evil is understanding.’”
 </p>
+
 ## Notes
+
 v01–11: The poem begins with human technological ingenuity. People penetrate darkness, excavate mountains, redirect water, and uncover materials hidden from animals.
+
 v12: The contrast is not between knowledge and ignorance generally but between extraordinary human ability to find material treasure and inability to locate wisdom by the same methods.
+
 v13: The Hebrew term translated “value” can also mean price or proper estimate. Human beings do not possess even the measure by which wisdom could be priced.
+
 v15–19: The accumulation of precious materials emphasizes that wisdom is not a commodity available through sufficient wealth.
+
 v22: Even Death and Abaddon possess only a “report” of wisdom. The realm beyond ordinary human life does not itself contain the answer.
+
 v23–27: God knows wisdom because God knows and orders the whole creation. Wisdom is rooted in the Creator’s understanding of reality.
+
 v28: The poem concludes by translating cosmic wisdom into human vocation: fear of the Lord and turning from evil. The wording echoes the narrator’s description of Job in 1:1.
 
 ## Vocabulary

@@ -58,25 +58,45 @@ v20: For I fear that perhaps when I come I may find you not as I wish, and that 
 
 v21: I fear that when I come again my God may humble me before you, and I may mourn over many of those who have sinned before and have not repented of the impurity and sexual immorality and sensuality that they have practiced.
 </p>
+
 ## Notes
+
 v01: “Necessary to boast” frames the section with tension. Paul continues a mode he has already undermined.  
+
 v02–04: The account is distanced (“a man in Christ”), preserving both truth and restraint. Experience is affirmed without full explanation.  
+
 v02–03: The repeated uncertainty (“whether in the body…God knows”) preserves ambiguity rather than resolving it.  
+
 v04: “Inexpressible words” are heard but not transmitted. Revelation is limited in its communicability.  
+
 v05–06: Boasting is redirected. Truth is not denied, but its use is constrained.  
+
 v07: The “thorn” is unnamed. Its function (preventing exaltation) is emphasized over its identity.  
+
 v07: Repetition (“so that I might not be exalted beyond measure”) underscores purpose.  
+
 v08–09: Prayer is answered not by removal but by reinterpretation. Grace reframes weakness.  
+
 v09: “Power is brought to completion in weakness” inverts expected associations between strength and success.  
+
 v10: Weakness becomes the condition for participation in Christ’s power.  
+
 v11: Paul names the irony of his position. The Corinthians’ failure to commend him forces his self-defense.  
+
 v12: Apostolic authenticity is grounded in endurance as well as signs.  
+
 v13: “Forgive me this wrong” is ironic, exposing their distorted expectations.  
+
 v14–15: Parental imagery frames Paul’s relationship to the community. Giving is directed toward persons, not possessions.  
+
 v16: The charge of deceit is acknowledged rhetorically without being affirmed.  
+
 v17–18: Appeal is made to consistency of conduct among Paul and his co-workers.  
+
 v19: Defense is reframed as speech before God, oriented toward the community’s building up.  
+
 v20–21: Anticipation of conflict and sin shapes Paul’s concern. The list of vices is communal, not merely individual.  
+
 v21: Mourning replaces triumph. Failure to repent remains unresolved at the chapter’s end.  
 
 ## Vocabulary
@@ -138,4 +158,3 @@ v20: ζῆλος (zēlos)
 
 v21: μετάνοια (metanoia)  
 “Repentance.” A change of mind and direction.  
-

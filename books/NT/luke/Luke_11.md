@@ -174,26 +174,47 @@ v53: And as he went out from there, the scribes and the Pharisees began to press
 
 v54: lying in wait for him, to catch something from his mouth.
 </p>
+
 ## Notes
+
 v01–04: Prayer is taught as address (“Father”) and dependence, not technique.
+
 v03: “Daily bread” frames provision as ongoing reliance.
+
 v04: Forgiveness is reciprocal but not symmetrical; divine forgiveness grounds human practice.
+
 v08: Persistence functions not as manipulation but as refusal to withdraw.
+
 v13: The gift climaxes not in provision but in the Holy Spirit.
+
 v14–16: Exorcism becomes the site of accusation and testing.
+
 v20: “Finger of God” signals divine agency breaking into present reality.
+
 v21–22: The stronger one image frames Jesus’ work as decisive conflict and victory.
+
 v23: Neutrality toward Jesus is denied.
+
 v24–26: Absence of evil is insufficient without positive filling.
+
 v28: True blessedness is located in hearing and keeping the word.
+
 v29–32: The demand for signs is answered with prophetic precedent and warning.
+
 v31–32: Outsiders (Nineveh, queen of the South) expose insider failure.
+
 v34–36: Perception determines moral and spiritual illumination.
+
 v39–41: External purity without internal transformation is rejected.
+
 v42: Precision in minor matters does not excuse neglect of central ones.
+
 v44: Hidden corruption defiles others unknowingly.
+
 v46: Legal burden without participation exposes hypocrisy.
+
 v52: Knowledge is treated as access that can be withheld or obstructed.
+
 v53–54: Opposition intensifies into active entrapment.
 
 ## Vocabulary
@@ -272,4 +293,3 @@ v52: κλεὶς (kleis)
 v54: θηρεύω (thēreuō)
 
 “To trap.”
-

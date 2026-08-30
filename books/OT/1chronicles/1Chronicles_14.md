@@ -35,11 +35,17 @@ v15: When you hear the sound of marching in the tops of the baca trees, then go 
 v16: David did as God commanded him, and they struck down the camp of the Philistines from Gibeon as far as Gezer.
 v17: David’s name went out through all the lands, and the LORD put fear of him on all the nations.
 </p>
+
 ## Notes
+
 v01–17: - v1: The Hebrew text presents two forms of the king’s name, *Hiram* and *Huram*. “Hiram” is used here, while “Huram” appears elsewhere in Chronicles.  
+
 v11: Baal-perazim is named from David’s image of God “bursting through” the enemy like floodwaters breaking through a barrier. The place name preserves the same wordplay.  
+
 v12: The wording joins David’s command with the burning of the abandoned gods. The text does not identify who carried out the command.  
+
 v14–15: The identity of the *baca* tree is uncertain. The passage focuses on the sound in its treetops as the sign that God has gone ahead of David.  
+
 v17: “Fear of him” may refer to fear of David, whose name has spread through the lands, while the LORD is the one who brings that fear upon the nations.  
 
 ## Vocabulary

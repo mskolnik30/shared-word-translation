@@ -34,8 +34,11 @@ v11: Look, all you who kindle a fire, who gird yourselves about with firebrands;
 walk you in the flame of your fire, and among the brands that you have kindled. This will you have of my hand;
 you will lie down in sorrow.
 </p>
+
 ## Notes
+
 v04: The servant’s speech begins with listening. The capacity to sustain the weary grows from an ear repeatedly awakened to receive instruction.  
+
 v10: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
 ## Vocabulary
@@ -48,4 +51,3 @@ v04: דָּבָר (davar)
 
 v10: עֶבֶד (eved)
 “Servant.” One who serves another; used in Isaiah for several figures and for Israel.
-

@@ -74,6 +74,7 @@ v16: Zadok son of Ahitub and Abimelech son of Abiathar were priests; Shavsha was
 <p>
 v17: and Benaiah son of Jehoiada was over the Kerethites and the Pelethites. David’s sons were foremost at the king’s side.
 </p>
+
 ## Notes
 
 ## Vocabulary

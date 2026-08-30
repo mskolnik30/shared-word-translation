@@ -126,22 +126,39 @@ v37: And during the days he was teaching in the temple, but at night he would go
 
 v38: And all the people were coming early in the morning to him in the temple to hear him.
 </p>
+
 ## Notes
+
 v01–04: The widow’s offering is evaluated by proportion, not amount.
+
 v04: “All the life she had” intensifies totality of giving.
+
 v05–06: Temple permanence is denied despite visible grandeur.
+
 v08: False claims and premature conclusions are warned against.
+
 v09: Turmoil does not equal immediate end.
+
 v12–15: Persecution becomes the setting for testimony and divine provision.
+
 v16–17: Division extends into closest relationships.
+
 v18–19: Preservation is defined through endurance, not avoidance.
+
 v20–24: Jerusalem’s destruction is framed as fulfillment and judgment.
+
 v24: The “times of the Gentiles” introduces extended historical scope.
+
 v25–28: Cosmic disturbance accompanies revelation of the Son of Man.
+
 v28: Fear is countered with hope of redemption.
+
 v29–31: Natural observation becomes analogy for discernment.
+
 v32–33: The permanence of Jesus’ words contrasts with cosmic transience.
+
 v34–36: Watchfulness includes moral alertness and prayer.
+
 v37–38: Teaching continues publicly despite increasing tension.
 
 ## Vocabulary
@@ -214,4 +231,3 @@ v35: παγίς (pagis)
 v36: κατισχύω (katischyō)
 
 “To prevail, be strong.”
-

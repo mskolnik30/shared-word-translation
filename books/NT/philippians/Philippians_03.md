@@ -63,18 +63,31 @@ v19: Their end is destruction; their god is the belly; their glory is in their s
 v20: But our citizenship is in heaven, and from there we await a Savior, the Lord Jesus Christ.
 v21: He will transform the body of our humiliation so that it may be conformed to the body of his glory, by the power that enables him to bring all things under his rule.
 </p>
+
 ## Notes
+
 v01: Repetition is framed as protection. Joy is not emotional excess but a stabilizing orientation in the Lord.  
+
 v02: The sharp language (“dogs,” “evil workers”) is polemical, exposing distortions of the gospel that re-center identity on external markers.  
+
 v03: True identity is redefined around worship in the Spirit and boasting in Christ. Confidence is relocated away from human achievement.  
+
 v04–06: Paul’s credentials are not dismissed as insignificant; they are fully acknowledged before being re-evaluated.  
+
 v07–08: Value is recalculated. What once counted as gain is now loss in light of knowing Christ.  
+
 v09: Righteousness is received, not constructed. Trust replaces law as the basis of right standing before God.  
+
 v10–11: Knowing Christ includes both resurrection power and shared suffering. Participation, not avoidance, defines discipleship.  
+
 v12–13: Maturity is marked by ongoing pursuit, not completion. The tension between being claimed and still striving is held together.  
+
 v14–16: The community is oriented forward. Unity is grounded not in uniformity but in shared direction and faithful persistence.  
+
 v17: Imitation is communal. Patterns of life are learned through embodied examples, not abstract instruction.  
+
 v18–19: Paul names grief alongside warning. Opposition to the cross is revealed through misplaced desire and distorted priorities.  
+
 v20–21: Citizenship reframes belonging. Hope is located not in present structures but in Christ’s transforming power.  
 
 ## Vocabulary
@@ -114,4 +127,3 @@ v20: πολίτευμα (politeuma)
 
 v21: μετασχηματίζω (metaschēmatizō)  
 “To transform.” Indicates a change in form aligned with Christ’s glory.  
-

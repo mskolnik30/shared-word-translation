@@ -184,14 +184,23 @@ is instruction in wisdom,
 and before honor
 comes humility.
 </p>
+
 ## Notes
+
 v01: The proverb does not merely commend being quiet. It contrasts speech capable of de-escalating anger with speech that intensifies it.  
+
 v03: Divine awareness encompasses both evil and good. Nothing in the moral life lies outside the LORD’s attention.  
+
 v08: Religious sacrifice cannot substitute for upright life. The prayer of the upright is preferred to worship offered from wickedness.  
+
 v11: “Abaddon” means destruction and is paired with Sheol as a poetic designation of the realm of death.  
+
 v16–17: Both sayings relativize material abundance. Reverence and love can make little preferable to wealth accompanied by fear or hatred.  
+
 v24: Wisdom is again presented as directional movement: life goes upward, away from the realm of death below.  
+
 v25: The LORD’s opposition to pride is paired with protection of a widow’s land boundary, a concrete matter of economic vulnerability.  
+
 v30: Bodily imagery describes the effect of encouragement. Good news reaches beyond thought into the whole person.  
 
 ## Vocabulary
@@ -219,4 +228,3 @@ v27: בֶּצַע (betsa)
 
 v33: עֲנָוָה (anavah)  
 “Humility.” Lowliness or modesty that precedes true honor.  
-

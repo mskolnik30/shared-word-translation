@@ -105,17 +105,29 @@ v53: The God of Abraham and the God of Nahor, the God of their father, judge bet
 v54: And Jacob offered a sacrifice in the hill country and called his kinsmen to eat bread. They ate bread and spent the night in the hill country.
 v55: Early in the morning Laban rose and kissed his grandchildren and his daughters and blessed them. Then Laban departed and returned to his place.
 </p>
+
 ## Notes
+
 v01–03: The change in Laban's attitude coincides with God's command for Jacob to return to Canaan.
+
 v07: Jacob interprets his prosperity not as personal skill but as God's protection against Laban's manipulation.
+
 v13: The God who appeared at Bethel identifies himself through Jacob's earlier vow, linking past promise and present guidance.
+
 v14–16: Rachel and Leah surprisingly stand united, viewing their father as having treated them as property rather than heirs.
+
 v19: Rachel's theft of the household gods is reported without explanation. The narrative leaves her motives unstated.
+
 v24: God's warning limits Laban's actions before the confrontation even begins.
+
 v31–32: Jacob's confidence in his innocence becomes ironic because he does not know what Rachel has done.
+
 v34–35: Rachel successfully conceals the household gods, and Laban's search ends in failure.
+
 v36–42: Jacob's speech is his longest recorded address in Genesis and serves as a defense of his years of labor and suffering.
+
 v42: “The Fear of Isaac” is a unique title for God, emphasizing reverence and covenant loyalty.
+
 v44–55: The covenant establishes boundaries rather than partnership. Peace is maintained through separation.
 
 ## Vocabulary
@@ -155,4 +167,3 @@ v49: מִצְפָּה (Miṣpâ)
 
 v52: עֵד (ʿēḏ)
 “Witness.” One who testifies to the truth of an agreement or event.
-

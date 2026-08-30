@@ -77,16 +77,27 @@ v25: But the one who looks into the perfect law, the law of liberty, and continu
 v26: If anyone thinks himself religious and does not bridle his tongue but deceives his own heart, this person’s religion is empty.
 v27: Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world.
 </p>
+
 ## Notes
+
 v01: “The dispersion” (διασπορά) names a specific geographic and cultural reality—Jewish believers scattered outside the land. The greeting addresses them as still gathered, even when far apart.  
+
 v02–04: The verbs build on one another: trials test, testing produces endurance, endurance does its full work. Joy is named not because trials are pleasant but because they produce.  
+
 v05: “Without reproach” (μὴ ὀνειδίζοντος) marks the manner of God’s giving. The hesitation of the petitioner is anticipated and refused as ground for divine refusal.  
+
 v08: “Double-minded” (δίψυχος) appears for the first time in surviving Greek literature in James. The image is of a soul split rather than divided in two equal halves.  
+
 v12: “Crown of life” evokes the wreath given to victors in athletic competition. The metaphor is honorific rather than royal.  
+
 v13–15: The genealogy of sin is named in three stages—desire, sin, death. The progression resists collapsing the stages into one moment.  
+
 v17: “Father of lights” evokes the heavenly bodies but does not personify them. The contrast is between God’s constancy and the variations of light, shadow, and season.  
+
 v19–20: The triad—quick to hear, slow to speak, slow to anger—is sequential. Hearing first, then speech, then disposition.  
+
 v25: “Law of liberty” (νόμος ἐλευθερίας) is unusual phrasing. The combination resists framing law and freedom as opposites.  
+
 v27: “Religion” (θρησκεία) is the word for cultic practice. The verse reorients ritual outward, toward the most exposed members of the community.  
 
 ## Vocabulary

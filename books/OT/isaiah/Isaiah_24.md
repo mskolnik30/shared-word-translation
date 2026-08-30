@@ -58,10 +58,15 @@ v23: Then the moon will be confounded, and the sun ashamed;
 for the LORD of Hosts will reign on Mount Zion, and in Jerusalem;
 and before his elders will be glory.
 </p>
+
 ## Notes
+
 v05: The chapter repeatedly links human transgression with the disruption of the earth itself; social, covenantal, and cosmic disorder are not separated.  
+
 v05: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
+
 v23: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+
 v02: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
 
 ## Vocabulary
@@ -83,4 +88,3 @@ v02: עֶבֶד (eved)
 
 v05: בְּרִית (berit)  
 “Covenant.” A binding relationship shaped by promise and obligation.  
-

@@ -135,6 +135,7 @@ v29: Now the acts of King David, from first to last, are written in the records 
 <p>
 v30: together with all his reign and his power, and the times that passed over him and over Israel and over all the kingdoms of the lands.
 </p>
+
 ## Notes
 
 v05: “Fill their hand” is an idiom associated with consecration and commissioning.

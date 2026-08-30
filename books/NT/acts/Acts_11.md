@@ -98,18 +98,31 @@ v29: So the disciples, each according to his ability, determined to send relief 
 
 v30: which they also did, sending it to the elders by the hand of Barnabas and Saul.
 </p>
+
 ## Notes
+
 v01–03: Inclusion of Gentiles creates tension within existing identity structures.  
+
 v04–10: Vision redefines categories of clean and unclean.  
+
 v12: “No distinction” becomes a governing principle.  
+
 v15–17: Spirit reception validates Gentile inclusion.  
+
 v18: Repentance is extended beyond Israel.  
+
 v19–21: Persecution continues to drive mission expansion.  
+
 v20: Gospel proclamation crosses ethnic boundaries.  
+
 v22–24: Barnabas functions as encourager and stabilizer.  
+
 v25–26: Antioch becomes a center of teaching and identity formation.  
+
 v26: “Christians” marks external identification of the community.  
+
 v27–28: Prophetic activity directs communal awareness.  
+
 v29–30: Material support expresses unity across regions.  
 
 ## Vocabulary

@@ -31,6 +31,7 @@ v09: Then all people will fear;
 v10: The righteous will rejoice in LORD and take refuge in him;
     all the upright in heart will glory.
 </p>
+
 ## Notes
 
 ## Vocabulary

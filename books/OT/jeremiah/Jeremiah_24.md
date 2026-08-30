@@ -36,11 +36,17 @@ v09: I will make them a horror, a disaster to all the kingdoms of the earth, a r
 
 v10: I will send against them sword, famine, and plague until they are consumed from the land that I gave to them and to their ancestors.”
 </p>
+
 ## Notes
+
 v01: Jeconiah is another form of Jehoiachin. The vision is set after the deportation of 597 BCE, when the royal court and skilled workers were taken to Babylon.
+
 v05: The surprising judgment of the vision is that the exiles, not those who remained securely in Judah, are identified as the “good figs.”
+
 v06: “build … plant” recalls the commission language of Jeremiah 1. The verbs of destruction are reversed into restoration.
+
 v07: Restoration includes not only return to land but a transformed capacity to know the LORD and return with the whole heart.
+
 v08–10: The “bad figs” include those who remained in Jerusalem and those who fled to Egypt. Physical location does not itself determine faithfulness or security.
 
 ## Vocabulary

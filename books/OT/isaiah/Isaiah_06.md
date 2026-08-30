@@ -28,10 +28,15 @@ v11: Then I said, "Lord, how long?" He answered, "Until cities are waste without
 v12: And the LORD has removed men far away, and the forsaken places are many in the midst of the land.
 v13: If there is a tenth left in it, that also will in turn be consumed: as a terebinth, and as an oak, whose stock remains when they are felled; so the holy seed is its stock."
 </p>
+
 ## Notes
+
 v05: “unclean lips” — Isaiah’s response to the vision is expressed through speech and communal belonging: his own lips and the lips of the people are named together.  
+
 v05: “Woe” — Hebrew *hoy* is a cry of lament, warning, or judgment whose precise force is governed by its prophetic context.  
+
 v03: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+
 v03: “glory” — Hebrew *kavod* carries the sense of weight, honor, and manifest splendor; in Isaiah it frequently marks the revealed presence of the LORD.  
 
 ## Vocabulary
@@ -50,4 +55,3 @@ v02: שָׂרָף (saraf)
 
 v03: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-

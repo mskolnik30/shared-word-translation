@@ -117,14 +117,23 @@ because of the rage of their tongue.
 This will be their mockery
 in the land of Egypt.
 </p>
+
 ## Notes
+
 v01: The LORD’s desire to heal exposes rather than hides Ephraim’s corruption. Healing begins with the unveiling of what has been denied.
+
 v04–07: The repeated oven imagery portrays political conspiracy and uncontrolled desire as heat building beneath the surface until it consumes rulers.
+
 v05: “the day of our king” may refer to a royal celebration or accession festival. The text associates political festivity with intoxication and mocking companions.
+
 v08: A flat cake baked on one side but not turned is burned on one surface and uncooked on the other. Ephraim’s mixture with the nations is pictured as malformed and incomplete.
+
 v09: “gray hairs” symbolize unnoticed decline. Ephraim is aging toward collapse without recognizing the signs.
+
 v11: Egypt and Assyria represent competing imperial alliances. Ephraim’s diplomatic movement is compared with a naïve bird lacking judgment.
+
 v14: The Hebrew phrase concerning grain and new wine is textually difficult and may describe gathering, gashing themselves, or assembling for food. TSW follows the gathering sense while noting the uncertainty.
+
 v16: “not upward” is a compressed Hebrew expression. It may mean they return, but not to the Most High, or that their turning is unreliable. TSW keeps the directional metaphor.
 
 ## Vocabulary

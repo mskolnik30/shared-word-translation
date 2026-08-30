@@ -112,14 +112,23 @@ v39: Then Gideon said to God, “Do not let your anger burn against me. Let me s
 
 v40: And God did so that night. The fleece alone was dry, and there was dew on all the ground.
 </p>
+
 ## Notes
+
 v11: Gideon threshes wheat in a winepress, an unusual place for threshing, because he is hiding produce from Midian. The setting embodies Israel’s fear before Gideon is called “mighty warrior.”
+
 v13: Gideon’s question directly challenges the apparent contradiction between the LORD’s promised presence and Israel’s present suffering. The text allows the protest to stand.
+
 v14: “this strength of yours” — Gideon has not yet displayed military strength. The command places divine sending before visible qualification.
+
 v22–23: Gideon fears death after seeing the messenger of the LORD. The response “Peace to you” becomes the basis for the altar’s name.
+
 v25–32: Gideon’s first conflict is not against Midian but against idolatry within his own household and town.
+
 v34: “clothed Gideon” — The Hebrew literally says the Spirit “clothed” Gideon, portraying divine empowerment as something enveloping him.
+
 v34: The Hebrew literally says that the Spirit “clothed” Gideon.
+
 v36–40: Gideon’s signs with the fleece follow an explicit promise already given. The narrative portrays his continuing need for assurance rather than presenting fleece-testing as a universal method for discernment.
 
 ## Vocabulary

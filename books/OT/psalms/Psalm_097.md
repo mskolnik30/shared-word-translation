@@ -46,8 +46,11 @@ and joy for the upright in heart.
 v12: Rejoice in the LORD, you righteous,
 and give thanks to God’s holy remembrance.
 </p>
+
 ## Notes
+
 v11: The Masoretic Text reads “light is sown,” an agricultural metaphor of light planted for a future harvest. Some ancient witnesses read “light dawns,” but the Hebrew image is retained.
+
 v12: Literally, “give thanks to the remembrance of God’s holiness.” The expression can refer to the holy name by which God is remembered and invoked.
 
 ## Vocabulary

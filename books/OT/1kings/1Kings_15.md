@@ -83,6 +83,7 @@ v33: In the third year of Asa king of Judah, Baasha son of Ahijah became king ov
 
 v34: He did what was evil in the eyes of the LORD and walked in the way of Jeroboam and in his sin, by which he caused Israel to sin.
 </p>
+
 ## Notes
 
 v19: Asa calls the payment of temple and palace wealth a “gift,” but the Hebrew word can also mean “bribe.” The wording exposes the political character of the proposed alliance.

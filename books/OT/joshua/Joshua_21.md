@@ -130,13 +130,19 @@ v44: The LORD gave them rest on every side, according to all that he had sworn t
 
 v45: Not one word failed from all the good words that the LORD had spoken to the house of Israel. All came to pass.
 </p>
+
 ## Notes
+
 v01–03: The Levites receive cities within tribal territories rather than one continuous land allotment. Their presence is therefore distributed throughout Israel.
 
 v13, v21, v27, v32, v38: Several Levitical cities are also cities of refuge, joining priestly presence with the legal protection established in chapter 20.
+
 v25: The place-name Gath-Rimmon is textually difficult here and may reflect a variant tradition concerning Ibleam or another Manassite city. TSW retains the received form.
+
 v36–37: Some Hebrew manuscript traditions omit these verses, while ancient versions and many textual traditions include the Reubenite cities. TSW includes them as part of the standard public verse numbering.
+
 v36–37: Some Hebrew manuscript traditions omit these verses, while ancient versions and many textual traditions include the Reubenite cities. The verses are retained in the standard public numbering.
+
 v43–45: The chapter closes with a strong fulfillment summary. Later narratives still describe remaining peoples and conflicts, so “all the land” functions as covenantal fulfillment language rather than a denial of every unfinished local struggle.
 
 ## Vocabulary

@@ -177,6 +177,7 @@ For they have devoured Jacob;
 they have devoured him and brought him to an end,
 and they have made his dwelling place desolate.
 </p>
+
 ## Notes
 
 v05: The image is literally like a “palm tree of a cucumber field,” an expression whose precise picture is uncertain.

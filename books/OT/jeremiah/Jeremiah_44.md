@@ -92,14 +92,23 @@ v29: “And this will be the sign for you,” says the LORD, “that I am attend
 
 v30: Thus says the LORD: Look, I am giving Pharaoh Hophra king of Egypt into the hand of his enemies and into the hand of those who seek his life, just as I gave Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, his enemy who sought his life.”
 </p>
+
 ## Notes
+
 v01: The locations show a widely dispersed Judean population in Egypt, from the northeastern Delta to Pathros in Upper Egypt.
+
 v09: Responsibility is distributed across ancestors, kings, royal women, men, and women. Jeremiah does not isolate idolatry within one gender or social class.
+
 v15–19: The people offer an alternative interpretation of Judah’s history: they remember prosperity during worship of the Queen of Heaven and disaster after ceasing it. Jeremiah directly contests their causal reading.
+
 v17: “Queen of Heaven” is a title whose precise deity is debated, often associated with a major Mesopotamian or West Semitic goddess. TSW retains the title rather than identifying her by a reconstructed name.
+
 v19: The women insist their husbands knew of and participated in the ritual practice, resisting any attempt to place responsibility upon women alone.
+
 v25: Jeremiah’s command to “establish your vows” is ironic judgment, not approval of the vows. Their insistence on the practice is allowed to run toward its announced consequence.
+
 v28: A small number will return, preserving an exception inside an otherwise severe judgment oracle.
+
 v30: Pharaoh Hophra—Apries in Greek sources—becomes the confirming sign that Egypt itself cannot provide the security the Judean refugees sought.
 
 ## Vocabulary

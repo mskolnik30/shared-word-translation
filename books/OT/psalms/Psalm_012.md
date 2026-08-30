@@ -42,13 +42,21 @@ you will guard us from this generation forever.
 v08: On every side the wicked prowl,
 as vileness is exalted among the children of humanity.
 </p>
+
 ## Notes
+
 v01–02: Social breakdown is defined by the collapse of truth and trust.
+
 v02: Speech reveals inner division (“double heart”).
+
 v03–04: Human speech becomes an assertion of autonomy and power.
+
 v05: God’s response is triggered by injustice—he arises for the oppressed.
+
 v06: Divine speech contrasts human speech—pure, refined, reliable.
+
 v07: Preservation is both individual and communal.
+
 v08: The environment remains corrupt even after divine assurance—tension persists.
 
 ## Vocabulary
@@ -91,4 +99,3 @@ v08: רָשָׁע (rasha)
 
 v08: זֻלּוּת (zullut)  
 “Vileness.” Worthlessness.
-

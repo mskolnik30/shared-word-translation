@@ -173,20 +173,35 @@ v36: At that time my reason returned to me, and for the glory of my kingdom my m
 
 v37: Now I, Nebuchadnezzar, praise, exalt, and honor the King of the heavens, for all his works are truth and his ways are justice, and those who walk in pride he is able to humble.”
 </p>
+
 ## Notes
+
 v01: In the Masoretic chapter division Daniel 4 begins at English 3:31. Standard English Bibles number this royal proclamation as Daniel 4:1–3. TSW follows public English numbering.
+
 v04: “flourishing” translates an Aramaic adjective suggesting vigorous, luxuriant growth, preparing for the tree imagery that follows.
+
 v08–09: Nebuchadnezzar describes Daniel with pagan court language, “the spirit of the holy gods.” Daniel’s own interpretation consistently attributes sovereignty to the Most High.
+
 v13: “watcher” is a distinctive Aramaic term for a heavenly being who watches and announces divine judgment.
+
 v16: “seven times” is intentionally unspecific. It can denote seven periods or seasons; the text does not define their precise duration.
+
 v17: The watchers announce the decree, but verse 24 calls it “the decree of the Most High,” keeping heavenly agency subordinate to divine sovereignty.
+
 v19: Daniel’s alarm shows concern for the king even while announcing judgment against him.
+
 v22: The tree represents Nebuchadnezzar and the extensive reach of his empire, including provision and shelter for many peoples.
+
 v26: “the heavens rule” is a reverential way of speaking of God’s rule, not a claim that impersonal heavens exercise independent sovereignty.
+
 v27: Daniel calls the king toward righteousness expressed concretely through mercy to the poor. The exact relationship between repentance and a possible delay of judgment is left open in “perhaps.”
+
 v30: Nebuchadnezzar’s boast attributes Babylon to his own power and glory, directly contradicting the chapter’s repeated claim that the Most High gives kingdoms.
+
 v33: The narrative describes Nebuchadnezzar in animal-like terms without naming a modern medical diagnosis.
+
 v34: Restoration begins when the king “lifts his eyes to the heavens,” reversing the self-exalting perspective of verse 30.
+
 v37: The chapter closes with the central theme: God can humble those who walk in pride.
 
 ## Vocabulary

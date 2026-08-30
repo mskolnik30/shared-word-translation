@@ -114,15 +114,25 @@ v34: But whenever Moses went in before the LORD to speak with him, he removed th
 
 v35: The children of Israel saw the face of Moses, that the skin of Moses’ face was shining. Then Moses put the veil back over his face until he went in to speak with him.
 </p>
+
 ## Notes
+
 v01: The second tablets restore the covenant testimony after Moses shattered the first set in response to the golden calf.
+
 v05–07: The LORD’s self-proclamation holds compassion and accountability together. Steadfast love, faithfulness, and forgiveness are not separated from judgment.
+
 v07: The language of guilt reaching later generations describes the extended consequences of covenant wrongdoing. It should not be reduced to a mechanical doctrine that innocent descendants are personally guilty for ancestors’ sins.
+
 v09: Moses asks the LORD to go in Israel’s midst precisely while acknowledging Israel’s stubbornness. Presence is requested as grace, not as reward for an ideal people.
+
 v14: “Jealous” is given as a divine name. In covenant context the term concerns exclusive relational claim, not petty insecurity.
+
 v15–16: Marital and cultic language overlap because intermarriage is presented here specifically as a pathway into worship of other gods.
+
 v28: “Ten Words” translates Hebrew *aseret ha-devarim*, traditionally called the Ten Commandments.
+
 v29: The verb describing Moses’ face is related to the Hebrew word for “horn” and literally suggests emitting rays. Ancient interpretation sometimes represented Moses with horns; the context clearly describes radiance.
+
 v33–35: The veil regulates the people’s exposure to the radiance associated with Moses’ encounter with the LORD; it is removed when Moses enters to speak with God.
 
 ## Vocabulary

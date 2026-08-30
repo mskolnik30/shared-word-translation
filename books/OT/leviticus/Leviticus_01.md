@@ -39,11 +39,17 @@ v15: The priest shall bring it to the altar, pinch off its head, and turn the he
 v16: The priest shall remove its crop with its contents and throw it beside the altar on the east side, in the place for ashes.
 v17: The priest shall tear it open by its wings without dividing it completely. Then the priest shall turn it into smoke on the altar, upon the wood that is on the fire. It is a burnt offering, an offering by fire, a pleasing aroma to the LORD.
 </p>
+
 ## Notes
+
 v01: Leviticus begins with the LORD speaking from the Tent of Meeting, continuing directly from the completion of the tabernacle at the end of Exodus.
+
 v03: “burnt offering” — The Hebrew *olah* refers to an offering that “goes up,” both in its presentation and in the smoke rising from the altar.
+
 v04: “lay a hand” — The gesture establishes identification between the offerer and the animal without the text fully explaining every dimension of that relationship.
+
 v04: “make atonement” — The Hebrew *kipper* has a broad ritual range involving atonement, purgation, or restoration. TSW retains the traditional term “atonement.”
+
 v09: “pleasing aroma” — The phrase describes the offering’s acceptance before the LORD and is repeated throughout the sacrificial instructions.
 
 ## Vocabulary

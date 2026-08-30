@@ -68,11 +68,17 @@ and the Almighty has terrified me,
 v17: yet I am not silenced by the darkness
 or by the thick darkness that covers my face.”
 </p>
+
 ## Notes
+
 v03–07: Job imagines a formal hearing before God’s seat. He believes an actual encounter could produce attention and vindication rather than simply overpowering force.
+
 v08–09: God is inaccessible in every direction. Job’s problem is no longer only that God attacks him but that the God he wants to address cannot be located.
+
 v10: The line can mean that God knows Job’s way even when Job cannot find God. Job expects testing to reveal rather than create his integrity: he will emerge as gold.
+
 v12: The Hebrew final phrase is difficult and can mean “more than my portion,” “more than my prescribed food,” or “within my breast.” TSW follows the food comparison while preserving the sense of valuing divine words intensely.
+
 v13–16: The same divine sovereignty that could vindicate Job also terrifies him because God’s purpose cannot be redirected by human power.
 
 ## Vocabulary

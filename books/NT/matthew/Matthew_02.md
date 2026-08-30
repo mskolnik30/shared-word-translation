@@ -80,20 +80,35 @@ v22: But when he heard that Archelaus was reigning over Judea in place of his fa
 
 v23: And he went and lived in a city called Nazareth, so that what had been spoken by the prophets might be fulfilled, that he would be called a Nazarene.
 </p>
+
 ## Notes
+
 v01: “Bethlehem of Judea” locates the birth within Davidic geography; the narrative remains tightly bound to royal expectation.  
+
 v02: “King of the Jews” comes from Gentile lips; recognition arises from outside Israel’s leadership.  
+
 v03: Herod’s disturbance spreads to “all Jerusalem,” suggesting political instability tied to messianic expectation.  
+
 v06: The citation merges prophetic texts, emphasizing rule as shepherding rather than domination.  
+
 v08: Herod’s language mimics worship but conceals intent; duplicity is framed in liturgical terms.  
+
 v11: The movement from house (not manger) suggests elapsed time; homage is structured, deliberate, and costly.  
+
 v12: Divine warning redirects Gentile obedience; revelation is not confined to Israel.  
+
 v13: “Destroy him” introduces explicit threat; kingship is contested from the outset.  
+
 v15: “Out of Egypt” recasts Israel’s story in the life of Jesus; he embodies the people’s narrative.  
+
 v16: Violence expands beyond the individual to the region; opposition to the Messiah produces collateral suffering.  
+
 v18: Rachel functions as symbolic mother of Israel; lament is national, not merely local.  
+
 v20: The death of the tyrant does not end risk entirely; guidance remains necessary.  
+
 v22: Political succession (Archelaus) continues instability; prudence governs movement.  
+
 v23: “Nazarene” likely summarizes prophetic themes of lowliness and marginality rather than citing a single text.
 
 ## Vocabulary

@@ -27,6 +27,7 @@ v11: in God I trust; I will not be afraid. What can humans do to me?
 v12: O God, I must perform my vows to you; I will render thank offerings to you.
 v13: For you have delivered my soul from death, indeed my feet from falling, so that I may walk before God in the light of life.
 </p>
+
 ## Notes
 
 Superscription: "Miktam" - A term whose precise meaning is uncertain, possibly a literary or musical notation associated with Davidic psalms.

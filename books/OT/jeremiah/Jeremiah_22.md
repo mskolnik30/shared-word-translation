@@ -162,12 +162,19 @@ for none of his offspring will prosper
 sitting on the throne of David
 and ruling again in Judah.”
 </p>
+
 ## Notes
+
 v10–12: “Shallum” is generally identified with Jehoahaz son of Josiah, who was taken to Egypt. Jeremiah calls for mourning not primarily over Josiah’s death but over the king who will never return.
+
 v13–17: Royal architecture is judged through labor practices and concern for the poor. Jeremiah identifies knowing the LORD with practicing justice toward the poor and needy.
+
 v15–16: The comparison with Josiah does not condemn ordinary royal provision; it contrasts cedar display with the justice that characterized faithful rule.
+
 v19: “burial of a donkey” is an image of denied royal honor and exposure outside the city rather than a formal burial rite.
+
 v24: Coniah is another form of the name Jehoiachin. The image of a signet ring communicates extraordinary closeness and value before the abrupt declaration of removal.
+
 v30: “childless” does not mean Coniah had no biological children; the verse explains the term through the failure of his descendants to prosper as reigning Davidic kings in Judah.
 
 ## Vocabulary

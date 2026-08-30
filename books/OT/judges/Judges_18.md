@@ -86,13 +86,21 @@ v30: The children of Dan set up the carved image for themselves. Jonathan son of
 
 v31: So they set up for themselves Micah’s carved image that he had made, all the days that the house of God was at Shiloh.
 </p>
+
 ## Notes
+
 v01: Dan’s search for land reflects the tribe’s failure to secure its earlier allotment. The migration becomes an alternative to confronting the powers that had restricted Dan in Judges 1.
+
 v05–06: The Danites seek divine guidance through a priest serving in an unauthorized household sanctuary. The priest’s confident blessing is not accompanied by narrative confirmation that the cult itself is legitimate.
+
 v07: Laish is selected precisely because its people are isolated and unsuspecting. Dan’s “inheritance” is obtained through attack on a peaceful community rather than through the earlier mandate concerning Canaanite strongholds.
+
 v19–20: The Levite readily exchanges loyalty to one household for higher status with an entire tribe. Religious office is treated as advancement.
+
 v24: Micah’s cry, “You have taken my gods that I made,” captures the irony of a deity that can be manufactured and then stolen.
+
 v30: The Masoretic Text traditionally writes the name “Manasseh” with a suspended letter, while an older reading reflected by the consonants is “Moses.” TSW follows “Moses,” a significant textual detail connecting the priestly line with Moses’ family.
+
 v31: The chapter ends by contrasting Dan’s private image with the house of God at Shiloh, reinforcing the disorder of competing worship centers.
 
 ## Vocabulary

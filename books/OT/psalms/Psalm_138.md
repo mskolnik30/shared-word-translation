@@ -66,13 +66,21 @@ your steadfast love, O LORD, endures forever.
 
 Do not forsake the work of your hands.
 </p>
+
 ## Notes
+
 v01–02: Thanksgiving is public and total (“whole heart…before the gods”).
+
 v02: God’s word is elevated—suggesting reliability surpassing reputation.
+
 v03: Answered prayer produces inner strength, not merely external change.
+
 v04–05: Personal experience expands to universal recognition.
+
 v06: God’s transcendence is paired with attentiveness to the lowly.
+
 v07: Preservation occurs within trouble, not apart from it.
+
 v08: Confidence rests in God’s ongoing purpose, not human control.
 
 ## Vocabulary
@@ -116,4 +124,3 @@ v07: יָשַׁע (yasha)
 v08: גָּמַר (gamar)  
 
 “To complete.” Bring to fulfillment.
-

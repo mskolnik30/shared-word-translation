@@ -83,12 +83,19 @@ v40: Moses gave Gilead to Machir son of Manasseh, and he lived in it.
 v41: Jair son of Manasseh went and captured their villages and called them Havvoth-jair.
 v42: Nobah went and captured Kenath and its villages and called it Nobah after his own name.
 </p>
+
 ## Notes
+
 v05: The request “Do not make us cross the Jordan” initially sounds to Moses like a refusal of the promised land, explaining the severity of his response.
+
 v07: “discourage the hearts” — Literally to hinder or turn away the heart, echoing the effect of the spies’ report in Numbers 13–14.
+
 v20–22: Moses repeatedly says the tribes will cross “before the LORD,” framing the military obligation as covenant responsibility rather than merely assistance to other tribes.
+
 v23: “your sin will find you” personifies wrongdoing as something that eventually overtakes the person who attempts to leave it behind.
+
 v33: The half-tribe of Manasseh appears in the final territorial grant although the initial request is made by Reuben and Gad.
+
 v38: The note that names were changed is retained without reconstructing all earlier cultic associations or identifying which new names replaced them.
 
 ## Vocabulary

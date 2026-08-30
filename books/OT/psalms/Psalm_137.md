@@ -44,8 +44,11 @@ for what you have done to us.
 v09: Happy is the one who seizes your little ones
 and dashes them against the rock.
 </p>
+
 ## Notes
+
 v05: The Hebrew ends the line with “let my right hand forget,” without supplying what the hand forgets. The translation preserves the ellipsis rather than adding “its skill.”
+
 v08–09: The psalm ends with retaliatory blessing language born from the violence of exile. The translation does not soften the image or turn it into a moral lesson; the horror of the petition remains part of the prayer as received.
 
 ## Vocabulary

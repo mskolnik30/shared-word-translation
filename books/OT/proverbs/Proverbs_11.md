@@ -157,20 +157,35 @@ v31: If the righteous receive their due on earth,
 how much more
 the wicked and the sinner!
 </p>
+
 ## Notes
+
 v01: Accurate commercial measures are explicitly treated as a theological matter. Economic honesty belongs within faithfulness to the LORD.
+
 v02: Pride and humility are not merely internal attitudes; each produces a corresponding social and moral outcome.
+
 v04: Wealth loses its supposed power at the point of ultimate crisis. Righteousness, rather than accumulated resources, is named as delivering from death.
+
 v09: “godless” — The Hebrew term can describe one who is profane or morally corrupt, not merely someone who lacks religious belief.
+
 v10–11: The conduct of individuals shapes the whole city. Wisdom literature therefore refuses to treat righteousness and wickedness as merely private matters.
+
 v13: “faithful in spirit” — Faithfulness is demonstrated by the ability to hold another person’s confidential matter rather than turning knowledge into social currency.
+
 v14: The proverb commends multiple counselors rather than isolated confidence in one person’s judgment.
+
 v16: The Hebrew text of the second line differs across ancient witnesses, making the full contrast difficult. TSW retains the Masoretic wording concerning ruthless people acquiring wealth without assuming that such wealth constitutes true honor.
+
 v17: Steadfast love and cruelty rebound upon the person practicing them. Character shapes the life of the one who acts as well as the lives of others.
+
 v22: The comparison deliberately combines something valuable and beautiful with a context that renders it grotesquely misplaced. Beauty without discernment is presented as similarly disordered.
+
 v24–25: Generosity appears paradoxical: giving does not necessarily diminish the giver. The proverbs describe a social and moral economy in which open-handedness creates flourishing.
+
 v26: Grain hoarding is condemned when withholding harms the community for personal advantage. Selling grain appropriately, by contrast, brings blessing.
+
 v30: “gains lives” — The Hebrew phrase can also be translated “takes lives/souls,” but within the positive parallelism TSW understands it as wisely winning or gaining people rather than violently taking life.
+
 v31: The closing saying argues from lesser to greater: if even the righteous experience consequences within earthly life, the wicked cannot presume escape.
 
 ## Vocabulary

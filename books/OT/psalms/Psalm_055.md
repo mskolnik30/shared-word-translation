@@ -108,10 +108,15 @@ Men of blood and deceit
 will not live out half their days.
 But I will trust in you.
 </p>
+
 ## Notes
+
 v09: "Confuse, O Lord, divide their tongues" — This echoes the story of Babel, where language confusion scatters humanity, symbolizing division among evildoers.
+
 v12–13: "not an enemy... you—a person of my equal" — The psalmist highlights the deep betrayal by a close friend, contrasting it with the pain of a usual adversary.
+
 v15–16: "Let death seize them; let them go down to Sheol alive" — A strong petition for divine justice against those who persistently work evil.
+
 v22: "Cast your burden on the Lord" — An invitation to trust in God as sustainer, who provides stability amidst life's uncertainties.
 
 ## Vocabulary

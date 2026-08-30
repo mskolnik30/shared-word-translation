@@ -111,19 +111,33 @@ v18: Why did I come out from the womb
 to see toil and sorrow,
 and spend my days in shame?
 </p>
+
 ## Notes
+
 v01–02: Jeremiah’s prophetic speech provokes institutional punishment. The opposition comes from within the temple administration itself.  
+
 v03: The renaming of Pashhur turns his identity into a prophetic sign. “Terror on Every Side” becomes both judgment and public reversal.  
+
 v04–06: Judgment is specific and historical: Judah, Jerusalem, Babylon, exile, sword, plunder, and death.  
+
 v06: False prophecy is not treated as private error but as speech that endangers the community.  
+
 v07: Jeremiah’s complaint is unusually direct. The language of being enticed and overpowered preserves the violence Jeremiah feels in his prophetic calling.  
+
 v08: Jeremiah cannot speak the LORD’s word without announcing disaster, and that word isolates him.  
+
 v09: Silence is impossible. The word becomes internal fire—painful to contain and impossible to suppress.  
+
 v10: The phrase “Terror on every side” returns mockingly. The judgment-name attached to Pashhur becomes the atmosphere around Jeremiah.  
+
 v11: Confidence interrupts lament. The LORD is not gentle consolation here but a “mighty warrior” against persecutors.  
+
 v12: “Kidneys and heart” names the inner person—desire, conscience, and intention.  
+
 v13: Praise appears before the final lament, creating unresolved movement rather than simple emotional progression.  
+
 v14–18: The chapter ends in despair, not resolution. Jeremiah’s anguish is allowed to stand within the prophetic book.  
+
 v18: The final question gathers the chapter’s tension: prophetic vocation has brought toil, sorrow, and shame.  
 
 ## Vocabulary
@@ -193,4 +207,3 @@ v18: יָגוֹן (yagon)
 
 v18: בֹּשֶׁת (bosheth)  
 “Shame.” Public disgrace or humiliation.  
-

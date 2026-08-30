@@ -88,21 +88,37 @@ v27: I adjure you by the Lord that this letter be read to all the brothers and s
 
 v28: The grace of our Lord Jesus Christ be with you.
 </p>
+
 ## Notes
+
 v01–02: Knowledge of the “day of the Lord” does not eliminate uncertainty. Its timing remains disruptive.  
+
 v02–03: The contrast between expectation (“peace and security”) and suddenness emphasizes unpredictability.  
+
 v04–05: Identity (“children of light”) reframes vulnerability. Belonging determines orientation.  
+
 v06–08: Wakefulness and sobriety are ethical metaphors grounded in identity, not mere vigilance.  
+
 v08: Faith, love, and hope reappear as protective imagery, not only virtues.  
+
 v09–10: Salvation is framed teleologically. Christ’s death secures shared life “whether awake or asleep.”  
+
 v11: Encouragement and building up are communal responsibilities already in practice.  
+
 v12–13: Leadership is acknowledged functionally (“labor…admonish”), not hierarchically.  
+
 v14–15: Responses are differentiated: idle, fainthearted, weak. Care is not uniform.  
+
 v16–18: Rejoicing, prayer, and thanksgiving are continual practices, not situational reactions.  
+
 v19–21: Openness and discernment are held together. The Spirit is not suppressed, but expressions are tested.  
+
 v22: “Every form of evil” remains undefined, requiring discernment.  
+
 v23: Sanctification is both comprehensive and divine in origin.  
+
 v24: Assurance rests on God’s faithfulness, not human consistency.  
+
 v27: Public reading ensures communal reception and accountability.  
 
 ## Vocabulary

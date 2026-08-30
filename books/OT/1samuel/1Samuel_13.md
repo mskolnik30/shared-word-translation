@@ -72,14 +72,23 @@ v22: So it happened on the day of battle that neither sword nor spear was found 
 
 v23: And a garrison of the Philistines went out to the pass of Michmash.
 </p>
+
 ## Notes
+
 v01: The Masoretic Text is defective in this verse: the number for Saul’s age is missing, and the length of his reign is incomplete. Ancient witnesses differ. TSW preserves the textual break rather than supplying a conjectural age or reign.
+
 v03: Jonathan’s attack initiates open conflict, but Saul’s announcement frames the action under royal leadership.
+
 v05: The Masoretic Text reads “thirty thousand chariots,” an exceptionally large number. Some ancient witnesses and many interpreters propose “three thousand,” but TSW follows the received text and notes the issue.
+
 v08: Samuel’s seven-day instruction recalls 1 Samuel 10:8.
+
 v12: Saul describes his action as something he “forced” himself to do, but Samuel interprets it as disobedience rather than necessity.
+
 v14: “A man according to his heart” describes the one God seeks for the royal vocation; it does not imply moral perfection.
+
 v19–22: Philistine control of metalworking creates military dependence and explains why Israel enters battle with almost no swords or spears.
+
 v21: “Pim” is an ancient weight/payment term confirmed by archaeological finds; the exact pricing syntax remains difficult.
 
 ## Vocabulary

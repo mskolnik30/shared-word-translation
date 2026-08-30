@@ -44,19 +44,33 @@ v13: She who is in Babylon, who is likewise chosen, sends you greetings, and so 
 
 v14: Greet one another with the kiss of love. Peace to all of you who are in Christ.
 </p>
+
 ## Notes
+
 v01: Authority is shared (“fellow elder”), not elevated.  
+
 v01: Witness and participation are held together.  
+
 v02–03: Leadership is defined negatively and positively.  
+
 v04: Reward is future and unfading.  
+
 v05: Humility is communal, not individual alone.  
+
 v06–07: Exaltation follows humility; timing is not controlled by the individual.  
+
 v08: The adversary is active; vigilance is required.  
+
 v09: Suffering is shared globally, not isolated.  
+
 v10: Restoration is attributed directly to God.  
+
 v11: Doxology concludes instruction.  
+
 v12: Writing is both exhortation and affirmation.  
+
 v13: “Babylon” is used without explanation.  
+
 v14: Peace is relational and located “in Christ.”  
 
 ## Vocabulary

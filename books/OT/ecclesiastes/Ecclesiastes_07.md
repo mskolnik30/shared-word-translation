@@ -116,6 +116,7 @@ v29: Only see this: I found
 that God made humanity upright,
 but they have sought out many schemes.”
 </p>
+
 ## Notes
 
 ## Vocabulary

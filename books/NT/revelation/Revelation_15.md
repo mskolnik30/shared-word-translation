@@ -62,18 +62,31 @@ v07: And one of the four living creatures gave to the seven angels seven golden 
 
 v08: and the sanctuary was filled with smoke from the glory of God and from his power, and no one could enter the sanctuary until the seven plagues of the seven angels were finished.
 </p>
+
 ## Notes
+
 v01: The plagues are identified as final; completion is emphasized rather than sequence.
+
 v01: “Sign” again frames the vision as symbolic.
+
 v02: The sea is altered (“mixed with fire”), not replaced.
+
 v02: Conquering is described without method; outcome is assumed.
+
 v03: The song joins two traditions (Moses and the Lamb) without distinction.
+
 v03–04: Praise focuses on works and ways, not explanation.
+
 v04: Universality (“all nations”) is declared without process.
+
 v05: The sanctuary is opened, reversing earlier restriction.
+
 v06: Clothing signals role but is not interpreted.
+
 v07: The bowls are given, not taken; wrath is mediated.
+
 v08: Access is denied; presence excludes approach.
+
 v08: Completion of plagues precedes renewed access.
 
 ## Vocabulary
@@ -117,4 +130,3 @@ v08: καπνός (kapnos)
 v08: δύναμις (dynamis)
 
 “Power.” Active force or capacity.
-

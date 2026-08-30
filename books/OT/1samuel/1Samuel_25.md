@@ -140,17 +140,29 @@ v43: David had also taken Ahinoam from Jezreel, and the two of them became his w
 
 v44: But Saul had given Michal his daughter, David’s wife, to Palti son of Laish, who was from Gallim.
 </p>
+
 ## Notes
+
 v01: Samuel’s death removes the prophet who had anointed both Saul and David and marks another transition in the narrative.
+
 v03: “Nabal” sounds like the Hebrew word for fool, a wordplay Abigail herself makes explicit in verse 25.
+
 v07–08: David’s men have functioned as protection for Nabal’s shepherds and request customary generosity at the festive time of shearing.
+
 v10: Nabal reduces David to a runaway servant, deliberately refusing his growing public status.
+
 v22: “One who urinates against a wall” is a coarse Hebrew idiom referring to males. TSW retains the idiom because it expresses the violence of David’s vow without making it more explicit than the source.
+
 v26–31: Abigail’s argument is theological as well as practical: David’s future kingship should not be burdened by needless bloodguilt or self-vindication.
+
 v29: The “bundle of the living” and sling imagery contrast God’s secure keeping of David with the casting away of enemies.
+
 v31: Abigail anticipates the problem of David “saving himself with his own hand,” a theme also central to his refusal to kill Saul.
+
 v37: Nabal’s heart “died” and he became like stone. The language may describe paralysis, stroke, or another catastrophic condition, but the text does not diagnose it.
+
 v39: David interprets Nabal’s death as the LORD taking up his case, confirming Abigail’s counsel not to avenge himself.
+
 v44: Saul’s transfer of Michal to another husband further complicates David’s marital and dynastic relationships.
 
 ## Vocabulary

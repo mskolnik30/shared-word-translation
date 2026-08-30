@@ -134,6 +134,7 @@ Let them be made to stumble before you;
 in the time of your anger,
 act against them.
 </p>
+
 ## Notes
 
 ## Vocabulary

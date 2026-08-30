@@ -120,19 +120,33 @@ v37: And there was much weeping among all, and falling upon Paul’s neck, they 
 
 v38: being distressed especially because of the word he had spoken, that they would see his face no more. And they were accompanying him to the ship.
 </p>
+
 ## Notes
+
 v01–03: Travel is shaped by both encouragement and opposition.  
+
 v07: Gathering on the first day reflects emerging pattern.  
+
 v09–12: Restoration of life affirms authority and encourages community.  
+
 v16: Urgency is governed by mission priorities.  
+
 v18–21: Ministry combines humility, teaching, and witness.  
+
 v22–23: Future suffering is anticipated, not avoided.  
+
 v24: Mission is valued above personal preservation.  
+
 v27: Full disclosure of God’s counsel defines faithful leadership.  
+
 v28–30: Leadership responsibility includes guarding against internal and external threats.  
+
 v31: Admonition is persistent and relational.  
+
 v32: God’s word is the sustaining and building agent.  
+
 v33–35: Financial integrity supports credibility.  
+
 v36–38: Emotional farewell reflects deep relational bonds.  
 
 ## Vocabulary

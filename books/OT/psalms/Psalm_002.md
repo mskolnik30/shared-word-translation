@@ -60,12 +60,19 @@ lest he be angry, and you perish in the way,
 for his wrath is quickly kindled.
 Blessed are all who take refuge in him.
 </p>
+
 ## Notes
+
 v01–03: Human resistance is collective and deliberate, yet described as futile.  
+
 v04–06: Divine response is not reactive but sovereign—God has already established his king.  
+
 v07–09: The “son” language introduces royal identity tied to divine authority.  
+
 v08: Dominion is universal, extending to the ends of the earth.  
+
 v10–12: The psalm shifts to exhortation—political power is called to submission.  
+
 v12: Refuge, not resistance, is the path to blessing.  
 
 ## Vocabulary
@@ -96,4 +103,3 @@ v11: יָרֵא (yare)
 
 v12: חָסָה (chasah)  
 “To take refuge.” Seek protection.  
-

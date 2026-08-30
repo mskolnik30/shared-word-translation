@@ -78,16 +78,27 @@ v23: Then, when the copy of King Artaxerxes’ document was read before Rehum, S
 
 v24: Then the work on the house of God in Jerusalem stopped and remained stopped until the second year of the reign of Darius king of Persia.
 </p>
+
 ## Notes
+
 v01–05: The first opposition belongs to the early Persian period under Cyrus and Darius and concerns the temple project directly.
+
 v02: The claim by neighboring peoples that they “seek your God” reflects the complex religious population created by Assyrian resettlement. The returned leaders reject joint control of the rebuilding project.
+
 v06–23: The narrative moves forward to later reigns under Ahasuerus and Artaxerxes and then returns in verse 24 to the earlier temple chronology. Ezra groups opposition thematically rather than maintaining a simple chronological sequence.
+
 v07: From this point through Ezra 6:18 the book shifts from Hebrew into Imperial Aramaic, the administrative language of the Persian Empire. TSW translates the Aramaic directly while retaining the public English verse numbering.
+
 v07: The phrase commonly rendered “written in Aramaic and translated in Aramaic” likely signals both the script/language and the beginning of the Aramaic documentary section.
+
 v09: Several ethnic and administrative names in the Aramaic list are difficult to identify precisely. TSW uses functional English where the terms appear to be offices and transliterates recognizable peoples and places.
+
 v10: “Beyond the River” is the Persian administrative designation for the province west of the Euphrates River.
+
 v14: “eat the salt of the palace” is an idiom of dependence or loyalty to the royal administration.
+
 v15: The letter is politically strategic: Jerusalem’s earlier independence and rebellions are selected as evidence that rebuilding threatens Persian revenue and control.
+
 v23: “force and power” makes clear that opposition escalates beyond administrative correspondence into coercive intervention.
 
 ## Vocabulary

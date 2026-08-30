@@ -78,16 +78,27 @@ be acceptable in your sight,
 
 O LORD, my rock and my redeemer.
 </p>
+
 ## Notes
+
 v01–04: Creation communicates without audible speech; its universality establishes a form of non-verbal revelation.
+
 v04–06: The sun serves as a visible agent of this revelation—ordered, joyful, and inescapable.
+
 v07–09: A shift occurs from general revelation to specific instruction; multiple terms (law, testimony, precepts, commandment, fear, judgments) present a comprehensive vision of divine teaching.
+
 v07: “Restoring the soul” suggests returning or reviving life, not merely informing.
+
 v08: Instruction produces internal effects—joy and clarity.
+
 v09: “Fear of the LORD” functions as reverent orientation, enduring beyond circumstance.
+
 v10: Value is expressed in both economic and sensory terms—gold and honey.
+
 v11: Instruction both warns and rewards; it shapes perception and action.
+
 v12–13: The focus turns inward—hidden faults and willful sins distinguish unintentional from defiant wrongdoing.
+
 v14: The closing prayer aligns speech and thought with divine acceptance; “rock” and “redeemer” anchor identity in stability and rescue.
 
 ## Vocabulary
@@ -158,4 +169,3 @@ v14: רָצוֹן (rāṣôn)
 v14: גֹּאֵל (gōʾēl)  
 
 “Redeemer.” One who rescues or restores.
-

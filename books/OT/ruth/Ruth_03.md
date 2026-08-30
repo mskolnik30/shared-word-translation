@@ -40,18 +40,31 @@ v16: And when she came to her mother-in-law, she said, “How did it go, my daug
 v17: saying, “These six measures of barley he gave to me, for he said to me, ‘You must not go back empty-handed to your mother-in-law.’”
 v18: She replied, “Wait, my daughter, until you learn how the matter turns out, for the man will not rest but will settle the matter today.”
 </p>
+
 ## Notes
+
 v01: Naomi's concern shifts from daily provision to Ruth's long-term security and future.  
+
 v02–04: Naomi's instructions reflect customs connected with kinship redemption and marriage, though the exact details are culturally specific.  
+
 v05: Ruth again demonstrates faithful obedience and trust.  
+
 v09: Ruth's request goes beyond protection. She explicitly asks Boaz to act as redeemer and marry her.  
+
 v09: The imagery of spreading a garment echoes the earlier image of finding refuge under God's wings (2:12).  
+
 v10: Boaz interprets Ruth's request as an act of covenant loyalty rather than personal ambition.  
+
 v11: Ruth's reputation for noble character is publicly recognized within Bethlehem.  
+
 v12–13: Boaz is willing to redeem Ruth but insists on following the proper legal order.  
+
 v13: Boaz's oath demonstrates both integrity and commitment.  
+
 v14: The careful handling of the situation protects the reputations of both Ruth and Boaz.  
+
 v15: The gift of barley serves as both provision and a tangible sign of Boaz's promise.  
+
 v18: Naomi expresses confidence that Boaz will act decisively and honorably.  
 
 ## Vocabulary
@@ -91,4 +104,3 @@ v17: רֵיקָם (rêqām)
 
 v18: שָׁקַט (šāqaṭ)  
 “To be quiet” or “at rest.” Here contrasted with Boaz's determination to act promptly.  
-

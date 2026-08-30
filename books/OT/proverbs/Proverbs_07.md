@@ -141,19 +141,33 @@ whom she has killed.
 v27: Her house is the way to Sheol,
 descending to the chambers of death.
 </p>
+
 ## Notes
+
 v02: “pupil of your eye” — The Hebrew literally refers to the little or central part of the eye, something instinctively guarded because of its vulnerability and value.
+
 v03: “tablet of your heart” — Wisdom is to become internal rather than remaining an external set of instructions.
+
 v04: “sister … close relative” — Wisdom and understanding are pictured as intimate family relationships. The learner is to cultivate closeness with wisdom rather than with the seductive stranger.
+
 v07: “lacking sense” — The Hebrew literally says “lacking heart.” Because the heart includes judgment and discernment, the expression describes deficient practical wisdom.
+
 v09: Darkness is described in accumulating terms. The physical setting mirrors the young man’s lack of perception.
+
 v10: “crafty in heart” — The Hebrew phrase is difficult and can suggest a guarded, concealed, or cunning heart. The emphasis is that her intentions are not transparent.
+
 v14: “sacrifices of well-being” — Such offerings could involve a meal eaten from part of the sacrifice. The statement may imply that food is available for the encounter, while giving the invitation a religious surface.
+
 v19: “the man” — The woman refers to her husband indirectly rather than using relational language such as “my husband.”
+
 v20: “full moon” — The Hebrew expression refers to a fixed or full-moon time, suggesting that the husband’s absence is expected to last long enough for secrecy.
+
 v22: The second comparison in the Hebrew is difficult. The text clearly portrays the young man as moving willingly toward restraint and destruction without comprehending the outcome.
+
 v23: “liver” — The image is deliberately bodily and fatal. The young man discovers too late that what appeared to promise pleasure threatens life itself.
+
 v26: The warning widens beyond one inexperienced young man. The narrative is presented as one example within a repeated human pattern.
+
 v27: The house that promised pleasure is finally identified as a road descending toward death.
 
 ## Vocabulary

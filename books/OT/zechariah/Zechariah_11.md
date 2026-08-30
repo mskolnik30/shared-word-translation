@@ -76,19 +76,33 @@ and his right eye!
 May his arm wither completely,
 and his right eye become utterly blind!”
 </p>
+
 ## Notes
+
 v01–03: The opening poem portrays the collapse of Lebanon, Bashan, and the Jordan thickets through the destruction of their most imposing vegetation. The imagery prepares for the condemnation of failed shepherds.  
+
 v04: “flock doomed to slaughter” — The Hebrew literally describes sheep associated with slaughter. The flock is vulnerable to exploitation by buyers, sellers, and shepherds alike.  
+
 v05: Economic gain is accompanied by religious language: those profiting from the flock invoke the LORD’s blessing even while participating in its destruction.  
+
 v07: “the afflicted of the flock” — The Hebrew expression is difficult but appears to distinguish the most vulnerable members of the already endangered flock.  
+
 v07: “Favor … Union” — The names of the staffs interpret the symbolic action. Their later breaking represents the withdrawal of favor and the dissolution of unity.  
+
 v08: “three shepherds in one month” — The text does not identify the three shepherds. Attempts to assign them to specific historical figures remain uncertain.  
+
 v10: “my covenant … with all the peoples” — The identity of the “peoples” and the precise nature of this covenant are not explained within the vision.  
+
 v12: “thirty pieces of silver” — The amount is deliberately presented as the shepherd’s valuation or wages. The following verse treats the valuation with irony.  
+
 v13: “potter” — The Masoretic Hebrew reads a word normally meaning “potter.” Some have proposed a different reading related to the treasury, but TSW retains the Masoretic wording.  
+
 v14: The breaking of the staff Union represents the dissolution of kinship or solidarity between Judah and Israel.  
+
 v16: The foolish shepherd is defined by the inversion of expected pastoral care: the vulnerable are neglected while the flock is consumed for the shepherd’s benefit.  
+
 v17: The shepherd’s arm and eye symbolize capacity to act and capacity to see. The judgment strikes the very faculties required for faithful shepherding.  
+
 v04: “flock doomed to slaughter” — The Hebrew literally describes sheep associated with slaughter.
 
 ## Vocabulary
@@ -119,4 +133,3 @@ v15: אֱוִיל (evil)
 
 v17: אֱלִיל (elil)  
 “Worthless.” Empty, ineffective, or of no value; here describing the failed shepherd.  
-

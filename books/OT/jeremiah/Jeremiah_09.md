@@ -117,6 +117,7 @@ v24: Look, days are coming, declares the LORD, when I will punish everyone circu
 <p>
 v25: Egypt, Judah, Edom, the Ammonites, Moab, and all those who clip the edge of their hair, who live in the wilderness. For all the nations are uncircumcised, and all the house of Israel is uncircumcised in heart.
 </p>
+
 ## Notes
 
 ## Vocabulary

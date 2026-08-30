@@ -136,15 +136,25 @@ for the channels of water have dried up,
 and fire has consumed
 the pastures of the wilderness.
 </p>
+
 ## Notes
+
 v01: “Joel” — The Hebrew name *Yoel* means “the LORD is God.” The book gives no further biographical information about Joel son of Pethuel.
+
 v04: The four Hebrew terms for locusts may identify species, developmental stages, or poetic descriptions of successive swarms. Their exact distinctions are uncertain. TSW preserves four different English descriptors rather than collapsing them into one term.
+
 v06: “a nation” — The locust invasion is described with the language of a military force. Joel allows agricultural disaster and invading army imagery to overlap without immediately resolving the relationship.
+
 v08: “husband of her youth” — The image is one of profound bereavement. The young woman’s loss becomes the pattern for communal lament.
+
 v10–12: Land, crops, trees, and human joy wither together. Joel does not separate ecological devastation from economic, liturgical, and emotional life.
+
 v14: The response to catastrophe is communal and liturgical: fasting, assembly, elders, inhabitants, temple, and prayer are gathered into one act of turning toward the LORD.
+
 v15: “destruction from the Almighty” — The Hebrew uses wordplay between *shod* (“destruction”) and *Shaddai* (“Almighty”). The sound relationship cannot be reproduced fully in English.
+
 v17: The Hebrew vocabulary concerning seeds, clods, storehouses, and granaries is unusually difficult. The verse clearly depicts seed and storage failing because the grain has dried up.
+
 v19–20: Fire imagery may describe literal burning, the scorching effects of drought, or the devastation of the locust plague. The poem does not require these images to be separated.
 
 ## Vocabulary

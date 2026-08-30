@@ -84,12 +84,19 @@ v31: And the LORD did according to the word of Moses, and he removed the swarm f
 
 v32: But Pharaoh hardened his heart this time also, and he did not send the people away.
 </p>
+
 ## Notes
+
 v01–04: These verses are numbered 7:26–29 in the Hebrew tradition. Public English verse numbering is retained here.
+
 v09: Moses’ unusual reply gives Pharaoh the privilege of naming when prayer should be made. Pharaoh chooses the time, but the LORD alone removes the frogs.
+
 v17: The precise identity of the Hebrew *kinnim* is uncertain; it may refer to gnats, lice, or another small biting insect. The translation conveys the pervasive nuisance without claiming certainty about the species.
+
 v21: The Hebrew word rendered as a “swarm” does not identify the creatures precisely. It may denote a mixture of insects or a particular kind of biting fly; the emphasis falls on their overwhelming presence.
+
 v23: The Hebrew noun can be associated with “redemption” or “ransom,” while some ancient witnesses support a sense like “distinction” or “separation.” The clause marks the LORD’s differentiated treatment of Israel and Egypt.
+
 v26: What is “an abomination to the Egyptians” may refer to animals regarded as unsuitable for sacrifice or as sacred. Moses does not specify the offerings, but insists that Israel’s worship cannot simply be contained within Pharaoh’s terms.
 
 ## Vocabulary

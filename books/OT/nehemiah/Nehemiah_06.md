@@ -43,14 +43,23 @@ v17: Also in those days the nobles of Judah sent many letters to Tobiah, and Tob
 v18: For many in Judah were bound to him by oath, because he was son-in-law to Shecaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berechiah.
 v19: They also spoke of his good deeds before me and reported my words to him. And Tobiah sent letters to make me afraid.
 </p>
+
 ## Notes
+
 v02: Ono lay outside Jerusalem. The repeated invitations attempt to remove Nehemiah from the work and from the security of the city.
+
 v05: “open letter” — An unsealed letter could make its accusations public as it traveled, turning correspondence into political pressure.
+
 v06–07: The accusations frame rebuilding as rebellion against Persia. The charge exploits the political vulnerability of a restored Jerusalem.
+
 v09: Nehemiah answers intimidation with a brief prayer embedded directly in the narrative: “strengthen my hands.”
+
 v11: Access to the inner temple was restricted. Nehemiah’s refusal is not only courage but a refusal to seek safety through an unauthorized sacred act.
+
 v12–13: Prophetic speech is tested by its source and by the act it urges. Nehemiah concludes that fear was being used to lead him into sin.
+
 v15: “fifty-two days” — The compressed rebuilding period intensifies the narrative’s claim that the achievement cannot be explained simply by ordinary political strength.
+
 v18–19: Opposition is not only external. Kinship and oath relationships give Tobiah influence within Judah’s noble families.
 
 ## Vocabulary

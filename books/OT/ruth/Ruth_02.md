@@ -55,18 +55,31 @@ v21: And Ruth the Moabite said, “He also said to me, ‘Stay close by my young
 v22: And Naomi said to Ruth her daughter-in-law, “It is good, my daughter, that you go out with his young women, lest in another field you be harmed.”
 v23: So she stayed close to the young women of Boaz, gleaning until the end of the barley harvest and wheat harvest. And she lived with her mother-in-law.
 </p>
+
 ## Notes
+
 v01: Boaz is introduced as both a relative of Elimelech and a worthy man, preparing for his later role in the story.  
+
 v03: Ruth “happens” to arrive at Boaz's field, yet the narrative quietly highlights God's providential direction.  
+
 v04: Boaz's greeting reveals a household shaped by covenant faith and mutual blessing.  
+
 v08–09: Boaz provides Ruth protection, provision, and dignity beyond what the law required.  
+
 v10: Ruth remains conscious of her status as a foreigner and outsider.  
+
 v11–12: Boaz commends Ruth's covenant loyalty toward Naomi and her trust in the God of Israel.  
+
 v12: The image of refuge under God's wings becomes a central theological theme in the book.  
+
 v14: Ruth receives a place at the meal alongside the workers, an act of remarkable generosity.  
+
 v15–16: Boaz intentionally increases Ruth's provision by instructing the workers to leave grain for her.  
+
 v17: An ephah was a substantial amount of grain, far more than a typical day's gleaning.  
+
 v20: Naomi recognizes Boaz as a potential redeemer and begins to see God's kindness at work again.  
+
 v23: The chapter ends with Ruth continuing faithfully in her work while God's larger plan unfolds.  
 
 ## Vocabulary
@@ -106,4 +119,3 @@ v20: גֹּאֵל (gōʾēl)
 
 v23: קָצִיר (qāṣîr)  
 “Harvest.” The gathering of mature grain crops.  
-

@@ -64,23 +64,41 @@ v17: From now on let no one cause me trouble, for I bear in my body the marks of
 
 v18: The grace of our Lord Jesus Christ be with your spirit, brothers and sisters. Amen.
 </p>
+
 ## Notes
+
 v01: Restoration is communal and corrective, but governed by gentleness. The warning (“watching yourself”) prevents moral superiority.  
+
 v02: “Law of Christ” is not defined, but enacted through burden-bearing rather than codified instruction.  
+
 v03: Self-deception is linked to inflated self-perception. The contrast is not between pride and humility alone, but between illusion and reality.  
+
 v04–05: “Examine” and “bear” create tension. Personal responsibility does not negate communal responsibility.  
+
 v05: “Load” differs from “burdens” (v2), suggesting distinct kinds of responsibility.  
+
 v06: Instruction and material support are linked. Teaching is not abstract but sustained through shared resources.  
+
 v07–08: Agricultural imagery returns. The outcome corresponds to orientation (“flesh” or “Spirit”), not isolated acts.  
+
 v08: “Corruption” and “eternal life” are presented as trajectories rather than immediate results.  
+
 v09: Perseverance is required. The promise of harvest is conditional on endurance.  
+
 v10: The scope is universal (“to all”) but ordered (“especially…household of faith”).  
+
 v11: The shift to Paul’s own handwriting signals emphasis and personal investment.  
+
 v12–13: Motives are exposed as social and self-protective. External conformity masks internal inconsistency.  
+
 v14: Boasting is reoriented entirely to the cross. Mutual crucifixion (“the world…to me, and I…to the world”) defines separation.  
+
 v15: Identity markers are relativized. “New creation” becomes the decisive category.  
+
 v16: “This rule” is not specified in detail, but refers back to the redefinition of identity and life in Christ.  
+
 v17: “Marks of Jesus” are likely bodily signs of suffering, functioning as embodied testimony.  
+
 v18: The letter closes with grace directed toward the community’s “spirit,” maintaining relational and theological focus.  
 
 ## Vocabulary

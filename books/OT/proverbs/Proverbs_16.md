@@ -185,14 +185,23 @@ v33: The lot is cast into the lap,
 but every decision from it
 is from the LORD.
 </p>
+
 ## Notes
+
 v01–03: Human planning and divine sovereignty are placed beside one another without eliminating either. People plan and work; the LORD remains decisive.
+
 v04: The proverb affirms divine ordering even in relation to the wicked without saying that wickedness itself is morally created or commanded by God.
+
 v06: “steadfast love and faithfulness” can describe faithful covenantal conduct. The verse connects restored relationship with a life that turns from evil.
+
 v10: The king’s authority creates heightened responsibility for justice. “Oracle” does not make every royal statement divinely inspired.
+
 v11: Honest commerce belongs to the LORD. Even ordinary weights used in trade fall within divine moral concern.
+
 v18: The familiar saying places collapse after self-exaltation. Pride distorts judgment before destruction becomes visible.
+
 v32: Mastery of one’s own anger is valued above military conquest.
+
 v33: Even a practice that appears random remains, in the proverb’s theological vision, under the LORD’s sovereignty.
 
 ## Vocabulary

@@ -60,25 +60,45 @@ v19: We love because God first loved us.
 v20: If someone says, “I love God,” and hates a brother or sister, that person is a liar; for the one who does not love a brother or sister whom they have seen cannot love God whom they have not seen.
 v21: And this commandment we have from God: whoever loves God must also love a brother or sister.
 </p>
+
 ## Notes
+
 v01: “test the spirits” — Discernment is required rather than indiscriminate acceptance of spiritual claims. The criterion is whether the spirit is “from God,” language that frames the entire section.  
+
 v02: “Jesus Christ has come in the flesh” — The perfect form emphasizes an event with continuing significance. The confession joins the identity of Jesus Christ with genuine embodied existence rather than treating the flesh as incidental.  
+
 v03: “does not confess Jesus” — Some manuscripts expand the wording to repeat more explicitly the confession of Jesus Christ coming in the flesh. The shorter reading reflected in the critical text is retained here.  
+
 v03: “antichrist” — The term describes opposition to Christ rather than identifying a particular later historical figure. The text speaks both of what was expected to come and what was already present.  
+
 v04: “have overcome them” — The victory is grounded not in the strength of the community but in the greater one who is in them.  
+
 v06: “Spirit of truth and the spirit of error” — The contrast summarizes the preceding discernment. “Error” refers to wandering or deception rather than merely an intellectual mistake.  
+
 v07–08: “God is love” — The statement does not simply say that God acts lovingly. Love is named as characteristic of God’s own reality, while the surrounding verses define that love through God’s action in sending the Son.  
+
 v09: “the only Son” — The Greek μονογενής (monogenēs) emphasizes the Son’s unique relationship to the Father. The verse presents the sending of the Son as the manifestation of God’s love.  
+
 v10: “atoning sacrifice” — The Greek ἱλασμός (hilasmos) has a range of meaning associated with dealing with sin and restoring relationship with God. “Atoning sacrifice” preserves that sacrificial dimension without specifying a single theory of atonement.  
+
 v12: “No one has ever seen God” — The statement recalls the opening of John’s Gospel. The unseen God becomes known within the community as God’s love reaches its intended fullness in their love for one another.  
+
 v13: “given us from the Spirit” — The Greek expression speaks of God giving “from” the Spirit. The wording emphasizes participation in the Spirit without defining the manner of that gift.  
+
 v14: “Savior of the world” — The scope of the Son’s sending is expressed universally. “World” retains the same term that elsewhere in the letter can describe the sphere opposed to God.  
+
 v15: “God remains in them, and they in God” — Mutual remaining is central to the letter. Confession of Jesus as the Son of God is placed within this reciprocal relationship.  
+
 v16: “know and trust the love” — Knowledge and trust are held together. The community does not merely know about divine love but entrusts itself to the love God has for them.  
+
 v17: “as he is, so also are we in this world” — The comparison is stated without further explanation. The text connects present likeness to Christ with confidence concerning future judgment.  
+
 v18: “perfect love casts out fear” — The verse concerns fear associated with punishment and judgment. It does not make a general claim that every form of fear is incompatible with faithful life.  
+
 v20: “whom they have seen … whom they have not seen” — The contrast makes visible love of another person the testing ground for a claimed love of the unseen God.  
+
 v21: “must also love” — Love of God and love of another are not presented as separate obligations. The commandment joins them together.  
+
 v03: The shorter reading reflected in the critical text is retained here.
 
 ## Vocabulary
@@ -130,4 +150,3 @@ v18: κόλασις (kolasis)
 
 v21: ἐντολή (entolē)  
 “Commandment.” An authoritative instruction; here the command to love God is inseparably joined to love for a brother or sister.  
-

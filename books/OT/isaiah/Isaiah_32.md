@@ -46,10 +46,15 @@ v18: My people will abide in a peaceful habitation, in safe dwellings, and in qu
 v19: Though hail flattens the forest, and the city is leveled completely.
 v20: Blessed are you who sow beside all waters, who send out the feet of the ox and the donkey.
 </p>
+
 ## Notes
+
 v15: The transition comes when the Spirit is poured from on high: wilderness, justice, righteousness, and peace are transformed together.
+
 v15: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
+
 v01: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.
+
 v01: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
 
 ## Vocabulary

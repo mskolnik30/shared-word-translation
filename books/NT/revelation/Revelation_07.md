@@ -62,19 +62,33 @@ v16: They shall hunger no more, neither thirst anymore; the sun shall not strike
 
 v17: For the Lamb in the midst of the throne will shepherd them and lead them to springs of living water, and God will wipe away every tear from their eyes.”
 </p>
+
 ## Notes
+
 v01: The “four corners” expresses totality rather than geography; restraint precedes judgment.
+
 v02–03: Harm is delayed; sealing marks protection before release.
+
 v04: The number is heard, not seen, creating distinction from what follows.
+
 v05–08: The tribal list is structured but not identical to traditional listings, without explanation.
+
 v09: The multitude is seen, not counted, contrasting with the numbered group.
+
 v09–10: Scope expands universally without replacing the prior group.
+
 v12: The sevenfold praise accumulates without hierarchy.
+
 v13–14: Understanding is mediated; John does not interpret independently.
+
 v14: Washing in blood reverses expected imagery without clarification.
+
 v15: Presence (“before the throne”) defines identity more than location.
+
 v16: Absence of suffering is described through negation rather than explanation.
+
 v17: The Lamb is both shepherd and central figure; roles are combined.
+
 v17: Restoration is expressed relationally (“wipe away every tear”) rather than abstractly.
 
 ## Vocabulary
@@ -117,4 +131,3 @@ v17: ποιμαίνω (poimainō)
 v17: δάκρυον (dakryon)
 
 “Tear.” Expression of suffering, here removed.
-

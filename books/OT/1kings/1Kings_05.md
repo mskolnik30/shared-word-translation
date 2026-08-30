@@ -37,11 +37,17 @@ v16: besides Solomon’s chief officers over the work: three thousand three hund
 v17: At the king’s command they quarried large stones, costly stones, to lay the foundation of the house with dressed stones.
 v18: Solomon’s builders and Hiram’s builders, along with the Gebalites, shaped the timber and the stones to build the house.
 </p>
+
 ## Notes
+
 v01: The Hebrew chapter division begins this material at 5:15; common English versification begins 1 Kings 5 here.
+
 v03: The written form reads “under the soles of his feet,” while the traditional reading gives “under the soles of my feet.” The latter fits Solomon’s speech and is followed here.
+
 v04: “Rest” does not simply mean private quietness. It names freedom from surrounding conflict, creating the conditions in which the house for the LORD’s name may be built.
+
 v12: The chapter attributes Solomon’s wisdom to the LORD, yet it also shows that wisdom working through diplomacy, trade, shared labor, and covenant-making.
+
 v13: The same royal building project associated with wisdom and peace also depends on compulsory labor from Israel. The narrative preserves both the achievement and its human cost.
 
 ## Vocabulary

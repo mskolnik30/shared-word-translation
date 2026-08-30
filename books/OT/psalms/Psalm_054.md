@@ -32,9 +32,13 @@ I will praise your name, O Lord, for it is good.
 v07: For he has delivered me from every trouble,
 and my eye has looked in triumph on my enemies.
 </p>
+
 ## Notes
+
 v01: "by your name" - This invocation appeals to God's character and authority for salvation.
+
 v03: "strangers" and "ruthless men" - These may refer to enemies who are both external and internal, emphasizing the breadth of opposition faced.
+
 v07: "my eye has looked" - A poetic expression for having seen or experienced deliverance, indicating confidence in God's protection.
 
 ## Vocabulary

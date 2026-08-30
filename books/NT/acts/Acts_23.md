@@ -120,16 +120,27 @@ v34: And reading it, he asked from what province he was, and learning that he wa
 
 v35: he said, “I will hear you fully when your accusers also arrive.” And he commanded him to be kept in Herod’s praetorium.
 </p>
+
 ## Notes
+
 v01: Conscience is presented as foundational to conduct.  
+
 v02–05: Conflict highlights tension between law and authority.  
+
 v06–09: Resurrection becomes the dividing issue.  
+
 v10: Roman intervention preserves order.  
+
 v11: Mission trajectory toward Rome is divinely confirmed.  
+
 v12–15: Religious zeal manifests in violent conspiracy.  
+
 v16–22: Protection comes through unexpected human means.  
+
 v23–24: Significant resources are used to preserve Paul’s life.  
+
 v27–30: Roman authority frames the issue as internal dispute.  
+
 v34–35: Legal process is deferred pending formal accusation.  
 
 ## Vocabulary

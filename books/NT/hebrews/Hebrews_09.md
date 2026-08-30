@@ -72,23 +72,41 @@ v27: And just as it is appointed for man to die once, and after that comes judgm
 
 v28: so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him.
 </p>
+
 ## Notes
+
 v01–05: Description is selective and not exhaustive.  
+
 v05: Detail is intentionally limited.  
+
 v06–07: Access is restricted and structured.  
+
 v07: Blood mediates entry.  
+
 v08–09: Present arrangement is symbolic, not final.  
+
 v09–10: External regulations do not affect the inner conscience.  
+
 v11–12: Contrast shifts from earthly to heavenly.  
+
 v12: Entry is singular and complete.  
+
 v13–14: Argument moves from lesser to greater.  
+
 v14: Conscience is the focal point of purification.  
+
 v15–17: Covenant is linked with death.  
+
 v18–22: Blood is central to inauguration and maintenance.  
+
 v22: Forgiveness is conditioned without exception stated.  
+
 v23–24: Copies and realities are distinguished.  
+
 v25–26: Repetition is contrasted with finality.  
+
 v27–28: Human pattern is used as analogy.  
+
 v28: Future appearance shifts purpose from sin to salvation.  
 
 ## Vocabulary

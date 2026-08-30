@@ -116,11 +116,17 @@ v37: For what can a person give in exchange for his life?
 
 v38: For whoever is ashamed of me and of my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him when he comes in the glory of his Father with the holy messengers.”
 </p>
+
 ## Notes
+
 v02: Compassion is grounded in sustained presence (“three days”).
+
 v12: Refusal of a sign resists coercive proof.
+
 v15: “Leaven” functions as a metaphor for influence.
+
 v17: Failure to understand is framed as perceptual and moral.
+
 v29: “Christ” is confessed without immediate clarification.
 
 ## Vocabulary

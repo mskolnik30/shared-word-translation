@@ -71,11 +71,17 @@ v32: The priest who is anointed and whose hand is filled to serve as priest in h
 v33: and make atonement for the holy sanctuary, the Tent of Meeting, and the altar; he shall make atonement for the priests and for all the people of the assembly.
 v34: This shall be a perpetual statute for you, to make atonement for the Israelites because of all their sins once each year.” And it was done as the LORD commanded Moses.
 </p>
+
 ## Notes
+
 v02: “atonement cover” — The Hebrew *kapporet* names the cover of the ark and is related to the language of atonement. TSW avoids the traditional “mercy seat,” which adds interpretive content not explicit in the noun itself.
+
 v08: “Azazel” — The Hebrew term is difficult and may refer to a wilderness figure, a place, or another concept. TSW retains the name rather than resolving it as “scapegoat.”
+
 v16: Atonement is made not only for people but for sacred space, because the sanctuary dwells among a people marked by uncleanness and sin.
+
 v21–22: The live goat carries the confessed iniquities away from the community. The action is described concretely without a separate explanation of its symbolism.
+
 v29: “humble yourselves” — The Hebrew literally speaks of afflicting one’s *nefesh*. In this context it became associated with fasting and self-denial, but the broader wording is retained.
 
 ## Vocabulary

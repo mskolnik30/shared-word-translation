@@ -102,14 +102,21 @@ v34: The children of Israel did not remember the LORD their God, who had deliver
 
 v35: nor did they show steadfast love to the house of Jerubbaal—that is, Gideon—in return for all the good that he had done for Israel.
 </p>
+
 ## Notes
+
 v02: Gideon diffuses Ephraim’s anger through a proverb-like comparison that praises their later contribution above his own earlier victory.
 
 v07, v16: Gideon’s threatened punishment of Succoth is carried out with thorns and briers. The narrative reports the violence without explicitly commending it.
+
 v17: Penuel’s refusal of support results in the destruction of its tower and the killing of its men, marking a severe turn in Gideon’s leadership toward fellow Israelites.
+
 v19: Gideon’s killing of Zebah and Zalmunna is tied to blood vengeance for his brothers, adding personal retaliation to the public war against Midian.
+
 v22–23: Gideon verbally refuses hereditary kingship and affirms the LORD’s rule, yet the following actions accumulate wealth, royal ornaments, multiple wives, and a son named Abimelech, meaning “my father is king.”
+
 v27: The ephod becomes a snare and object of unfaithful devotion. A victory associated with rejection of Baal ends with a new religious failure centered on Gideon’s own legacy.
+
 v33: “Baal-Berith” means “Baal of the covenant,” showing how covenant language itself could be redirected toward another deity.
 
 ## Vocabulary

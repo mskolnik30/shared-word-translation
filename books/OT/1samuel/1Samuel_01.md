@@ -65,12 +65,19 @@ v26: And she said, "O my lord, as you live, my lord, I am the woman who was stan
 v27: For this child I prayed, and the LORD has granted me my petition that I made to him.
 v28: Therefore I have lent him to the LORD. As long as he lives, he is lent to the LORD." And he worshiped the LORD there.
 </p>
+
 ## Notes
+
 v01: **v01**: **Ramathaim-zophim**: An indication of the region from which Elkanah originates, adding to the geographical context of the narrative.  
+
 v02: **v02**: **two wives**: References to polygamy in ancient Israel, illustrating the domestic tensions explored in the narrative.  
+
 v04–05: **v04-05**: **portions** and **double portion**: Reflects the cultural practices concerning family and religious rituals, enriching understanding of familial privilege and favor.  
+
 v11: **v11**: **vow**: Hanna's commitment, highlighting the gravity of her prayer and her profound relationship with Yahweh.  
+
 v20: **v20**: **Samuel**: The name holds significance hinting to Hannah's interpretation of her prayer being heard by Yahweh.  
+
 v28: “Lent” continues the chapter’s wordplay on the Hebrew root for asking or requesting: the child asked from the LORD is now given over to the LORD for his lifetime.
 
 ## Vocabulary

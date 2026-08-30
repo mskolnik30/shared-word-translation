@@ -173,13 +173,21 @@ v56: Thus God returned the evil of Abimelech that he had done to his father by k
 
 v57: And God returned all the evil of the men of Shechem upon their heads, and the curse of Jotham son of Jerubbaal came upon them.
 </p>
+
 ## Notes
+
 v02: “your bone and your flesh” — Abimelech appeals to kinship with Shechem through his mother’s family, using family loyalty as the basis for political power.
+
 v08–15: Jotham’s fable contrasts fruitful trees that refuse kingship with the bramble, which offers useless shade and threatens fire. The fable exposes Abimelech’s kingship as destructive rather than fruitful.
+
 v23: “evil spirit” — The phrase describes a destructive spirit sent by God to produce division. The text presents the resulting conflict as judgment upon violence already committed.
+
 v27: The political conspiracy unfolds during a cultic festival in the house of Shechem’s god, linking civic rebellion and religious allegiance.
+
 v45: “sowed it with salt” — The act symbolizes devastation and perhaps permanent ruin. The text does not require that the salt have been intended literally to sterilize all soil.
+
 v53–54: Abimelech’s concern is not merely death but the shame, in his cultural setting, of being remembered as killed by a woman. His attempt to control the story fails; the narrative preserves the cause of his mortal wound.
+
 v56–57: The chapter explicitly interprets the destruction of both Abimelech and Shechem as corresponding judgment for their shared violence.
 
 ## Vocabulary

@@ -112,19 +112,33 @@ v15: so he shall startle many nations;
   For that which had not been told them they shall see,
   and that which they had not heard they shall understand.
 </p>
+
 ## Notes
+
 v01–02: “Awake… put on strength… loose the bonds” — Salvation is pictured as rousing dignity and freedom: Zion is addressed as captive-but-called, summoned to stand up into a new identity.
+
 v03: “redeemed without money” — Liberation is not purchased by Israel’s resources; it is sheer divine rescue, breaking the logic of debt and exploitation.
+
 v04–05: Egypt and Assyria — The LORD names a pattern of oppression “for nothing”; history’s humiliations are brought into the courtroom of God’s justice.
+
 v06: “my people shall know my name… Here am I” — Deliverance is relational revelation: God’s name becomes known not as concept but as presence and speech.
+
 v07: “beautiful… feet… brings good news… ‘Your God reigns’” — Gospel language before the gospel: the core announcement is God’s kingship bringing peace, salvation, and public reversal.
+
 v08: “watchmen… eye to eye” — Restoration is not rumor; it is witnessed clarity. Joy rises as those tasked with vigilance see God’s return.
+
 v09: “ruins… comforted… redeemed” — God’s consolation is not denial of devastation; the ruins are named, and then addressed with song.
+
 v10: “bared his holy arm… all nations… ends of the earth” — Salvation is public and missional: God acts in a way the nations can see, widening the horizon beyond Israel.
+
 v11: “Depart… be clean… carry the vessels” — Exodus imagery returns: liberation includes holiness. Those who bear the LORD’s things must embody separation from what defiles.
+
 v12: “not… in haste… the LORD… before… rear guard” — Unlike the first exodus’ urgency, this departure is guarded and ordered; God surrounds the people—leading and protecting.
+
 v13: “my servant… high and lifted up” — The Servant’s exaltation is announced before the suffering is described; glory is coming, but by a surprising path.
+
 v14: “marred… beyond mortals” — The text insists on real disfigurement and humiliation; whatever follows is not triumphalism but costly identification with human damage.
+
 v15: “startle many nations… kings… shut their mouths” — The Servant’s impact is global and silencing: power structures are rendered speechless as God’s unexpected work is seen and understood.
 
 ## Vocabulary

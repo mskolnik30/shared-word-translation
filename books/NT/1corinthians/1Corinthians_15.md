@@ -186,15 +186,25 @@ v57: but thanks be to God, who gives us the victory through our Lord Jesus Chris
 <p>
 v58: Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that your labor in the Lord is not in vain.
 </p>
+
 ## Notes
+
 v01–04: Gospel defined by death, burial, and resurrection.  
+
 v12–19: Denial of resurrection undermines the entire faith.  
+
 v20–23: Christ as firstfruits establishes sequence.  
+
 v24–28: Final subjection culminates in God’s total reign.  
+
 v29–34: Ethical implications flow from resurrection reality.  
+
 v35–44: Resurrection body differs in nature and glory.  
+
 v45–49: Adam–Christ contrast defines transformation.  
+
 v50–57: Victory over death is eschatological and complete.  
+
 v58: Resurrection hope grounds perseverance.  
 
 ## Vocabulary

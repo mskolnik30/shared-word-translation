@@ -96,6 +96,7 @@ v16: And if they truly learn the ways of my people, to swear by my name, “As t
 <p>
 v17: But if they will not listen, I will uproot that nation, uprooting and destroying it, declares the LORD.
 </p>
+
 ## Notes
 
 v05: The “swelling of the Jordan” may refer to the river’s floodwaters or to its luxuriant, dangerous riverbank growth.

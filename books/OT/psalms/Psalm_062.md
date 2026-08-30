@@ -44,6 +44,7 @@ v12: and to you, O Lord, belongs steadfast love,
 for you will repay everyone
 according to their work.
 </p>
+
 ## Notes
 
 ## Vocabulary

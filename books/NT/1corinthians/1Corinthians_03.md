@@ -82,13 +82,21 @@ v22: whether Paul or Apollos or Cephas or the world or life or death or things p
 
 v23: and you are Christ’s, and Christ is God’s.
 </p>
+
 ## Notes
+
 v01–03: Spiritual immaturity is evidenced by division.  
+
 v05–09: Ministers are instruments; God is the source of growth.  
+
 v10–11: Christ alone is the foundation.  
+
 v12–15: Works are tested and evaluated.  
+
 v16–17: Community identity as God’s temple carries responsibility.  
+
 v18–20: Human wisdom is inverted under divine evaluation.  
+
 v21–23: Believers belong to Christ, transcending factionalism.  
 
 ## Vocabulary

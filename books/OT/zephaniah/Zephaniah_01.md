@@ -105,18 +105,31 @@ for he will make a complete end—
 indeed, a terrifying end—
 of all the inhabitants of the earth.”
 </p>
+
 ## Notes
+
 v02: The doubled expression translated “I will sweep away, sweep away” intensifies the announcement. The scope is deliberately total: “everything” is taken “from the face of the earth.”  
+
 v03: The sequence of humans, animals, birds, and fish reverses the familiar order of creation. The phrase “the stumbling blocks along with the wicked” is syntactically compressed and may refer either to the things that cause ruin or to the consequences of wickedness themselves.  
+
 v04: “Idolatrous priests” translates *kemarim*, a term used for non-Yahwistic cult personnel. The following “priests” may broaden the indictment beyond them, though the exact relation between the two groups remains open.  
+
 v05: Milcom is the name of an Ammonite deity. The verse condemns divided allegiance: people swear by the LORD while also swearing by another god.  
+
 v07: The LORD prepares a “sacrifice,” but the invited guests are consecrated rather than the sacrifice itself. The image is ominously open: those summoned may be participants in judgment or those set apart for it.  
+
 v09: “Leap over the threshold” may allude to a ritual practice, but the verse immediately associates these people with violence and deceit filling their masters’ houses.  
+
 v11: “The Mortar” likely names a district of Jerusalem, perhaps a low-lying market area. “People of Canaan” can also function as a designation for traders, fitting the reference to those who weigh out silver.  
+
 v12: Those “congealed on their dregs” are compared to wine left undisturbed until it thickens on its sediment. The image portrays settled complacency and the conviction that the LORD will neither act for good nor for harm.  
+
 v14: The repeated word “near” and the abrupt cry “bitter!” heighten the urgency of the coming day. Even the warrior, ordinarily a figure of strength, cries out.  
+
 v15: The relentless repetition of “a day” gives the description a litany-like force. Darkness, cloud, and thick darkness evoke both catastrophe and the fearful divine presence.  
+
 v18: “The fire of his jealousy” portrays the LORD’s intense covenantal opposition to unfaithfulness. Silver and gold, the usual means of securing safety, cannot rescue those under judgment.  
+
 v03: The phrase “the stumbling blocks along with the wicked” is syntactically compressed and may refer either to the things that cause ruin or to the consequences of wickedness themselves.
 
 ## Vocabulary

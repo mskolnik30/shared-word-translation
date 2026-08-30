@@ -132,14 +132,23 @@ because they did not listen to him,
 and they will become wanderers
 among the nations.
 </p>
+
 ## Notes
+
 v01: Threshing floors were places of agricultural celebration and could also become settings for fertility rites. Hosea interprets Israel’s joy there through the metaphor of prostitution.
+
 v03: “land of the LORD” stresses that Israel’s land is not autonomous property. Exile is described as removal from the LORD’s land and return to conditions of uncleanness.
+
 v04: “bread of mourning” refers to food associated with contact with death and therefore ritual impurity. Exile disrupts both sacrifice and ordinary eating.
+
 v07: The verse may quote hostile accusations against prophets—“the prophet is a fool”—or may describe false prophetic figures. The surrounding hostility toward the true prophet keeps the line deliberately tense.
+
 v09: “days of Gibeah” recalls the sexual violence and tribal catastrophe of Judges 19–21. Hosea treats that memory as a paradigm of deep corruption.
+
 v10: Baal-Peor recalls Numbers 25. “Shame” is a contemptuous substitution for Baal, and the worshipers become like the object of their love.
+
 v11–16: Fertility, once understood as blessing, is reversed through barrenness, miscarriage, bereavement, and dried roots. The imagery is severe and deliberately bodily.
+
 v15: Gilgal, once associated with covenant renewal and Israel’s entry into the land, has become a place identified with evil in Hosea’s polemic.
 
 ## Vocabulary

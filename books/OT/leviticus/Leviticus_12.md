@@ -22,10 +22,15 @@ v06: When the days of her purification are completed, whether for a son or for a
 v07: The priest shall present them before the LORD and make atonement for her, and she shall be clean from the flow of her blood. This is the law for the woman who gives birth to a male or a female child.
 v08: If she cannot afford a sheep, she shall take two turtledoves or two young pigeons, one for a burnt offering and the other for a sin offering. The priest shall make atonement for her, and she shall be clean.”
 </p>
+
 ## Notes
+
 v02: The chapter addresses ritual uncleanness associated with childbirth; it does not describe childbirth or the mother as morally sinful.
+
 v03: Circumcision on the eighth day is stated within the purification instructions without further explanation.
+
 v05: The longer period after the birth of a daughter is preserved without supplying a rationale that the text itself does not give.
+
 v08: The reduced offering makes the purification rite accessible to a household unable to afford a lamb.
 
 ## Vocabulary

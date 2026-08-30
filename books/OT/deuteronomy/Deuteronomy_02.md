@@ -112,13 +112,21 @@ v36: From Aroer, which is on the edge of the Wadi Arnon, and the city that is in
 
 v37: Only to the land of the children of Ammon you did not draw near: all the side of the Wadi Jabbok, the cities of the hill country, and wherever the LORD our God had commanded us not to go.
 </p>
+
 ## Notes
+
 v14–15: The thirty-eight years mark the passing of the wilderness generation condemned after Kadesh-Barnea.
+
 v21–22: The LORD is described as giving victory to Ammon and Edom over earlier inhabitants, again locating Israel within a broader theology of nations and land.
+
 v23: Caphtor is associated with the origins of the Philistines and other Aegean-related peoples.
+
 v25: The fear of Israel is said to spread before the battle with Sihon, preparing the way for conquest.
+
 v26: Moses first sends “words of peace,” showing that battle with Sihon follows refused passage rather than unannounced attack.
+
 v30: Sihon’s hardened spirit and stubborn heart echo Pharaoh. Divine hardening and human refusal remain together in the narrative.
+
 v34: The *herem* language is severe and comprehensive, including noncombatants. TSW preserves the ancient conquest account without turning it into a general authorization of religious violence.
 
 ## Vocabulary

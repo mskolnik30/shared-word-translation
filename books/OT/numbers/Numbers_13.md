@@ -63,12 +63,19 @@ v31: But the men who had gone up with him said, “We are not able to go up agai
 v32: So they brought to the Israelites a bad report about the land they had explored, saying, “The land through which we passed to explore is a land that devours its inhabitants, and all the people we saw in it are people of great stature.
 v33: There we saw the Nephilim—the descendants of Anak come from the Nephilim—and we seemed to ourselves like grasshoppers, and so we seemed to them.”
 </p>
+
 ## Notes
+
 v02: The Hebrew verb can mean “spy out” or “explore.” TSW uses “explore” because the mission includes evaluating land, crops, settlements, and people rather than military intelligence alone.
+
 v16: Hoshea and Joshua are related forms of the same name. The change adds an explicit reference to the LORD within the name Joshua.
+
 v22: The statement comparing Hebron and Zoan is retained as part of the narrative’s geographical memory without explaining its chronological purpose.
+
 v27: “flows with milk and honey” describes abundance and fertility; it does not imply literal rivers of those substances.
+
 v32: “bad report” — The Hebrew can describe a report that maligns or discredits. The problem is not merely that the spies report danger but that their interpretation turns the land itself into an object of fear.
+
 v33: The relationship between the Nephilim and descendants of Anak is stated as part of the spies’ report. The translation does not treat the report as an independent explanation of the identity of the Nephilim.
 
 ## Vocabulary

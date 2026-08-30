@@ -98,25 +98,45 @@ v34: So the name of that place was called Kibroth-hattaavah, because there they 
 
 v35: From Kibroth-hattaavah the people journeyed to Hazeroth, and they remained at Hazeroth.
 </p>
+
 ## Notes
+
 v01: Complaint is described as “evil” in the hearing of the LORD. The issue is not merely dissatisfaction but its character before God.
+
 v01–03: Fire functions both as judgment and as boundary, consuming “the edge of the camp.”
+
 v04: The “mixed multitude” introduces internal complexity. Desire spreads beyond origin.
+
 v05–06: Memory of Egypt is reshaped by hunger. Former oppression is recalled as abundance.
+
 v06: “Our soul is dried up” preserves the embodied sense of depletion.
+
 v07–09: The detailed description of manna stands in contrast to its rejection. Provision is neither hidden nor insufficient.
+
 v10: Weeping is communal yet fragmented—“each at the entrance of his tent.”
+
 v11–15: Moses’ complaint mirrors the people’s, but it is directed toward God. Leadership is expressed as burden rather than privilege.
+
 v12: Parental imagery (conceiving, bearing, nursing) is used and resisted. Moses rejects total responsibility for the people.
+
 v16–17: The burden is redistributed, not removed. The Spirit is shared without diminishing its source.
+
 v18–20: The promised meat becomes judgment. Desire is granted beyond satisfaction, turning to revulsion.
+
 v21–23: Moses questions provision in material terms. The LORD responds by reframing the question around divine capacity.
+
 v23: “Is the LORD’s hand shortened?” challenges perception rather than supply.
+
 v25: The elders prophesy as a sign of the Spirit’s resting, not as a permanent role.
+
 v26–29: Eldad and Medad receive the Spirit outside expected structures. Moses resists restriction, expressing an expansive vision.
+
 v29: The wish that “all the LORD’s people were prophets” anticipates wider participation without redefining present order.
+
 v31–33: Provision and judgment coincide. The same gift (quail) becomes the occasion of plague.
+
 v34: Naming (“graves of craving”) interprets the event through its cause.
+
 v35: Movement continues. The narrative does not resolve tension before proceeding.
 
 ## Vocabulary
@@ -168,4 +188,3 @@ v34: קִבְרוֹת הַתַּאֲוָה (Kivrot ha-taʾavah)
 
 v35: חָצֵרוֹת (Hazerot)
 “Hazeroth.” A location marking the next stage of the journey.
-

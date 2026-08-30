@@ -112,22 +112,39 @@ v34: Jerusalem, Jerusalem, the one who kills the prophets and stones those sent 
 
 v35: Behold, your house is left to you. And I say to you, you will certainly not see me until it comes when you say, ‘Blessed is the one who comes in the name of the Lord.’”
 </p>
+
 ## Notes
+
 v01–05: Jesus rejects causal links between suffering and greater sin, redirecting all toward repentance.
+
 v03: Repentance is universalized; no one stands outside the warning.
+
 v06–09: The fig tree parable balances judgment with delayed mercy.
+
 v09: Fruit remains the decisive expectation.
+
 v11–13: The woman’s condition is both physical and spiritual (“spirit of infirmity”).
+
 v16: Sabbath healing is framed as release from bondage, aligning with Sabbath purpose.
+
 v18–21: Kingdom growth is disproportionate to its beginnings.
+
 v21: Hidden influence (leaven) transforms the whole.
+
 v24: Entry requires striving; access is not assumed.
+
 v25–27: Familiarity with Jesus does not equal recognition by him.
+
 v28–29: Inclusion expands beyond expected boundaries.
+
 v30: Reversal remains a defining kingdom pattern.
+
 v32: Jesus’ mission proceeds on divine schedule, not political threat.
+
 v33: Jerusalem is identified as the locus of prophetic rejection.
+
 v34: The lament expresses both desire and refusal.
+
 v35: Judgment and future recognition are held together.
 
 ## Vocabulary
@@ -206,4 +223,3 @@ v34: ἐπισυνάγω (episynagō)
 v35: οἶκος (oikos)
 
 “House.”
-

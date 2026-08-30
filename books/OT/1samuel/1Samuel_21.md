@@ -55,15 +55,25 @@ v14: Achish said to his servants, “Look, you see a man acting mad. Why have yo
 
 v15: Do I lack madmen, that you have brought this one to act mad before me? Shall this one come into my house?”
 </p>
+
 ## Notes
+
 v01: Nob is a priestly center. David arrives alone and immediately raises suspicion.
+
 v02: David deceives Ahimelech by presenting his flight as a secret royal mission. The lie later contributes to disastrous consequences for the priests of Nob.
+
 v04–06: The “holy bread” is the bread of the Presence normally associated with priestly use. Ahimelech allows David access under conditions of ritual purity.
+
 v05: “Vessels” can refer literally to equipment or euphemistically to bodies. TSW preserves the broader term.
+
 v07: Doeg’s presence is narrated before his later report to Saul, creating tension within the scene.
+
 v09: Goliath’s sword has moved from battlefield trophy to sacred storage and then becomes David’s weapon while he flees from Saul.
+
 v10: David seeks refuge in Gath, Goliath’s own Philistine city, showing how desperate his flight has become.
+
 v11: The Philistine servants call David “king of the land” before he is king over Israel, likely reflecting his reputation rather than formal office.
+
 v13: David’s feigned madness is an act of survival. The exact action translated “made marks” is uncertain and may mean scratched or scribbled.
 
 ## Vocabulary

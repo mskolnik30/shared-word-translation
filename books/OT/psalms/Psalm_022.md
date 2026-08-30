@@ -116,6 +116,7 @@ v31: They will come and proclaim the LORD’s righteousness
   to a people yet unborn,
   that the LORD has done it.
 </p>
+
 ## Notes
 
 v01–02: “My God… why…?” — Lament is faithful speech. The psalm does not stop believing; it argues from relationship (“my God”) while naming felt abandonment and silence.

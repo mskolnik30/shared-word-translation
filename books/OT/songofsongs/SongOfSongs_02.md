@@ -104,21 +104,37 @@ and be like a gazelle
 or a young stag
 upon the rugged mountains.
 </p>
+
 ## Notes
+
 v01: Sharon and the valleys evoke images of natural beauty and flourishing.  
+
 v02: The beloved distinguishes the woman from all others, comparing her to a lily among thorns.  
+
 v03: The bride responds with a corresponding comparison, emphasizing delight, protection, and nourishment.  
+
 v04: The house of wine symbolizes celebration, abundance, and joy.  
+
 v04: The banner of love conveys public affection and belonging.  
+
 v05: Love is portrayed as an overwhelming experience affecting the whole person.  
+
 v06: The embrace expresses intimacy, affection, and security.  
+
 v07: The repeated refrain urges patience and proper timing in matters of love.  
+
 v08–13: The beloved's arrival is associated with springtime, renewal, and new life.  
+
 v11–12: The passing of winter symbolizes the arrival of joy and opportunity.  
+
 v14: The dove imagery emphasizes beauty, gentleness, and cherished affection.  
+
 v15: The little foxes likely symbolize small threats that can damage a flourishing relationship.  
+
 v16: Mutual belonging stands at the center of the relationship.  
+
 v17: The chapter closes with longing and anticipation rather than final fulfillment.  
+
 ## Vocabulary
 
 v01: חֲבַצֶּלֶת (ḥăḇaṣṣeleṯ)  
@@ -156,4 +172,3 @@ v16: רָעָה (rāʿâ)
 
 v17: נָס (nās)  
 “To flee away.” To disappear or pass from view.  
-

@@ -50,9 +50,13 @@ v22: Yet behold, some survivors will be left in it, sons and daughters, who will
 <p>
 v23: They will console you when you see their ways and their deeds, and you will know that I have not done all that I have done in it without cause, declares the LORD GOD."
 </p>
+
 ## Notes
+
 v03: **idols into their hearts** — This phrase emphasizes inward rebellion against the Lord rather than merely external actions. The heart, in biblical thought, is the center of will and desire.  
+
 v14: **Noah, Daniel, and Job** — These three are exemplars of righteousness in the biblical tradition, suggesting unimaginable sinfulness in the land when even their righteousness would be ineffective to save others. Their inclusion here serves as a rhetorical device to emphasize the inescapability of the divine judgment being described.  
+
 v21: **four dreadful judgments** — A summary of the comprehensive nature of the judgments God can send: sword (conflict), famine, wild beasts, and pestilence. This expression reinforces the totality of the devastation decreed upon the land for its faithlessness.  
 
 ## Vocabulary

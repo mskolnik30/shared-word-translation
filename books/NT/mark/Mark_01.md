@@ -132,32 +132,59 @@ v44: and said to him, “See that you say nothing to anyone, but go, show yourse
 <p>
 v45: But he went out and began to proclaim it freely and to spread the matter around, so that Jesus could no longer openly enter a town, but was outside in desolate places; and people were coming to him from everywhere.
 </p>
+
 ## Notes
+
 v01: “good news” is not merely uplifting information; it is a public announcement that God’s reign is arriving in and through Jesus.  
+
 v01: “Christ” is a title—“Anointed One” (Messiah)—not Jesus’s last name.  
+
 v01: “Son of God” is Mark’s opening claim; the identity that will be disclosed through Jesus’s authority, conflict, and the cross.  
+
 v02–03: John is framed as the promised forerunner: a messenger who prepares a people for the Lord’s arrival.  
+
 v04: John’s baptism is a public turning (repentance) oriented toward forgiveness—release and restoration into a new future.  
+
 v07: “Stronger than I” locates John as witness, not center; he names a difference in authority and power.  
+
 v08: “Baptize…with the Holy Spirit” points beyond external washing to God’s own life remaking people from within.  
+
 v10: The heavens are “torn open”—barrier-ripping imagery that signals God is not distant or sealed off.  
+
 v11: Belovedness comes before achievement; identity precedes vocation.  
+
 v12: The Spirit “drove” Jesus into the wilderness—God’s leading includes confrontation, not only comfort.  
+
 v13: Wilderness is both threat and provision: wild animals present danger; angels’ service signals holy sustaining.  
+
 v15: “The kingdom of God has drawn near” means God’s rule is approaching now in Jesus, not only later or elsewhere.  
+
 v15: “Repent, and trust” pairs reorientation with reliance—turning toward God and entrusting oneself to the good news.  
+
 v17: “Fishers of people” is a new vocation of gathering and restoration, not manipulation.  
+
 v18: Mark’s repeated “immediately” underscores decisive obedience that is concrete and costly.  
+
 v22: Jesus’s “authority” is experienced as weight and truth, not credential or institutional status.  
+
 v24: “Holy One of God” shows that hostile powers can “know” who Jesus is; knowledge without allegiance is not faithfulness.  
+
 v25: “Be silent” signals Jesus’s refusal of distorted publicity; his identity will be revealed on his terms.  
+
 v31: “Raised her up” resonates with resurrection language; healing functions as a sign of the coming restoration.  
+
 v31: “She began to serve” depicts restored strength and participation in the household, not diminishment.  
+
 v35: Solitude and prayer are not escape; they are alignment—ministry flows from communion with God.  
+
 v38: Jesus resists being captured by demand; mission governs schedule.  
+
 v41: Compassion is gut-level mercy that moves Jesus to act, not a detached sentiment.  
+
 v41: Jesus “touched” the man—holiness moves outward to cleanse rather than quarantining the unclean.  
+
 v44: Jesus honors Torah’s communal pathway of restoration; healing includes re-entry into shared life.  
+
 v45: Mercy spreads, but it also disrupts; the man’s proclamation changes Jesus’s mobility and ministry pattern.  
 
 ## Vocabulary

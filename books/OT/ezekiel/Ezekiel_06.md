@@ -27,9 +27,13 @@ v12: He who is far off shall die of pestilence; he who is near shall fall by the
 v13: And you shall know that I am the LORD, when their slain are among their idols, around their altars, on every high hill, on all the mountaintops, under every green tree, and under every leafy oak, the places where they offered pleasing aromas to all their idols.
 v14: And I will stretch out my hand against them and make the land desolate and waste, from the wilderness of Diblah wherever they dwell. Then they shall know that I am the LORD.'"
 </p>
+
 ## Notes
+
 v03: v03 "Mountains of Israel": The prophetic word is directed against the geographical high places, often sites of idol worship, symbolizing the nation's apostasy.  
+
 v05: v05 "corpses of the Israelites before their idols": This imagery links the physical and spiritual downfall of Israel with its idolatry, vividly depicting judgment.  
+
 v07: v07 "you shall know that I am the Lord": This repeated refrain emphasizes the ultimate goal of the judgment: a renewed recognition of Yahweh's sovereignty.  
 
 ## Vocabulary

@@ -90,14 +90,23 @@ v21: But concerning Israel he says,
 
 “All day long I stretched out my hands to a disobedient and contrary people.”
 </p>
+
 ## Notes
+
 v01–02: Zeal without knowledge results in misdirected pursuit.
+
 v03–04: Christ fulfills and terminates the law’s role in righteousness.
+
 v06–08: Salvation is not achieved by effort but received by faith.
+
 v09–10: Confession and belief function together.
+
 v11–13: Salvation is universally available without distinction.
+
 v14–15: Proclamation is necessary for belief.
+
 v16–17: Faith is generated through hearing the proclaimed word.
+
 v18–21: Israel’s rejection fulfills Scripture and opens way for Gentiles.
 
 ## Vocabulary
@@ -160,4 +169,3 @@ v19: παραζηλόω (parazēloō)
 v21: ἀπειθέω (apeitheō)
 
 “To be disobedient.”
-

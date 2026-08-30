@@ -101,15 +101,25 @@ v38: of whom the world was not worthy—wandering over deserts and mountains, in
 v39: And all these, though commended for their faith, did not receive what was promised,
 v40: since God had provided something better for us, that apart from us they should not be made complete.
 </p>
+
 ## Notes
+
 v01: “Substance” renders ὑπόστασις, which can also mean “assurance” or “underlying reality.” The double sense—objective foundation and subjective confidence—is preserved.  
+
 v03: “Ages” (αἰῶνας) is plural; the writer’s scope is more than the material world. The sentence asserts both that creation is the work of God’s word and that what is visible does not arise from prior visible matter.  
+
 v04–07: The first three witnesses come from the period before Abraham. Each is named with the formula “By faith,” which structures the rest of the chapter.  
+
 v11: A textual question stands here. Some manuscripts read Sarah as the subject; others read Abraham, with Sarah’s involvement implicit. The translation reflects the reading that takes Sarah as subject.  
+
 v13–16: The chapter pauses to interpret. The witnesses are named not as those who arrived but as those who saw and greeted from afar.  
+
 v17–19: The phrase “only son” (μονογενής) recalls John 1. Abraham’s reasoning and what he “figuratively received back” are stated without further comment.  
+
 v23–28: The Moses cycle is treated with unusual care. The “reproach of Christ” in v.26 brings the writer’s convictions into the patriarchal narrative.  
+
 v32–38: The list shifts from named individuals to a sweep of unnamed witnesses. The structure changes from “by faith X did” to “they did” and finally to “they suffered.”  
+
 v40: “Made complete” (τελειωθῶσιν) is a key word in Hebrews. Completion is communal, not individual; those who came before are not made complete apart from those who come after.  
 
 ## Vocabulary

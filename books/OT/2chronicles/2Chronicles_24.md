@@ -88,11 +88,17 @@ v26: These are those who conspired against him: Zabad son of Shimeath the Ammoni
 
 v27: As for his sons, the many pronouncements against him, and the foundation of the house of God, look, they are written in the commentary of the book of the kings. Amaziah his son became king in his place.
 </p>
+
 ## Notes
+
 v02: Joash’s faithfulness is explicitly limited to “all the days of Jehoiada,” preparing for the reversal after the priest’s death.
+
 v06: Chronicles interprets the temple levy through the wilderness tabernacle contribution associated with Moses.
+
 v16: Jehoiada receives burial among kings because of his service to Israel, God, and the temple.
+
 v20: “The Spirit of God clothed Zechariah” is a vivid idiom for prophetic empowerment.
+
 v22: Joash’s murder of Jehoiada’s son is presented as a betrayal of covenant loyalty toward the very household that preserved his life.
 
 ## Vocabulary

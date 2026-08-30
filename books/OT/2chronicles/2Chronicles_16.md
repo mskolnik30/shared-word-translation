@@ -46,10 +46,15 @@ v13: Asa lay down with his ancestors and died in the forty-first year of his rei
 
 v14: They buried him in his own tomb that he had cut for himself in the city of David. They laid him on a bier filled with spices and various blended ointments, and they made a very great burning for him.
 </p>
+
 ## Notes
+
 v01: The thirty-sixth-year date is difficult when compared with Kings’ chronology of Baasha. Some understand Chronicles as counting from the division of the kingdom rather than Asa’s personal accession.
+
 v03: Asa uses temple treasure to purchase Aramean intervention against fellow Israelites.
+
 v07–09: Hanani contrasts Asa’s earlier reliance on the LORD with his new reliance on Aram.
+
 v12: The criticism is not the mere use of physicians but the explicit statement that Asa did not seek the LORD in his illness.
 
 ## Vocabulary

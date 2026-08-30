@@ -158,11 +158,17 @@ v62: Nibshan, the City of Salt, and En-Gedi: six cities with their villages.
 <p>
 v63: But the Jebusites, the inhabitants of Jerusalem, the children of Judah could not drive out. So the Jebusites live with the children of Judah in Jerusalem to this day.
 </p>
+
 ## Notes
+
 v01–12: Judah’s inheritance is defined by detailed geographic boundaries. The accumulation of place names reflects land as concrete inheritance rather than abstract territory.
+
 v13–19: Caleb’s taking of Hebron and the account of Achsah and Othniel repeat material also preserved in Judges 1, linking the land allotment with stories of actual possession.
+
 v19: Achsah’s request recognizes that land in the Negev requires water to be viable. The “blessing” she requests is therefore materially specific.
+
 v32: The stated total of twenty-nine cities does not correspond simply to the number of names preserved in the received list. TSW retains both the names and the traditional total without harmonization.
+
 v63: The chapter closes by acknowledging incomplete possession in Jerusalem, anticipating later narratives in Judges and Samuel.
 
 ## Vocabulary

@@ -77,13 +77,21 @@ v19: Then the Spirit of the LORD rushed upon him, and he went down to Ashkelon a
 
 v20: And Samson’s wife was given to his companion, who had been his best man.
 </p>
+
 ## Notes
+
 v03: “right in my eyes” — The phrase is especially important in Judges, where what is “right in one’s own eyes” increasingly marks unrestrained desire rather than covenantal discernment.
+
 v04: The narrator states that the marriage conflict would become an occasion against the Philistines while also making clear that Samson’s parents did not perceive this. Divine purpose operates through morally complicated human motives.
+
 v06: The Spirit’s empowerment is connected with extraordinary physical strength. Samson’s secrecy about the event contributes to the riddle that follows.
+
 v08–09: Samson takes honey from a carcass despite his Nazirite consecration, which was associated with avoiding corpse impurity. The narrative does not pause to comment on the violation.
+
 v15: The threat against Samson’s wife and her household anticipates the violence that later overtakes them. Philistine pressure frames her betrayal.
+
 v18: “plowed with my heifer” — Samson’s crude metaphor accuses the men of using his wife to obtain what they could not discover themselves.
+
 v19: Spirit-empowered action and Samson’s personal anger appear in the same verse. Judges repeatedly refuses to make Samson morally uncomplicated merely because the Spirit empowers him.
 
 ## Vocabulary

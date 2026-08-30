@@ -92,15 +92,25 @@ v28: “At the end of every three years you shall bring out all the tithe of you
 
 v29: Then the Levite, because he has no portion or inheritance with you, and the resident alien, the orphan, and the widow who are within your gates shall come and eat and be satisfied, so that the LORD your God may bless you in all the work of your hand that you do.
 </p>
+
 ## Notes
+
 v01: Israel’s identity as “children of the LORD” grounds the prohibition of mourning practices associated with cutting and ritual baldness.
+
 v02: Holiness and election are repeated from Deuteronomy 7:6, framing dietary practice as identity rather than merely nutrition.
+
 v05: Identification of several wild animals is uncertain. TSW uses conventional English names without claiming exact zoological certainty.
+
 v07: Ancient classification describes the hare and rock badger as chewing the cud according to observable jaw movement. The text uses Israel’s traditional animal categories rather than modern biological taxonomy.
+
 v12–18: Several bird names are rare and difficult to identify precisely. TSW follows common English equivalents while preserving the list structure.
+
 v21: The distinction between Israelite, resident alien, and foreigner reflects differing covenantal food obligations in the land. The resident alien here may receive carrion even though other Torah texts apply some food rules differently; TSW preserves Deuteronomy’s wording.
+
 v21: The prohibition on boiling a young goat in its mother’s milk is repeated from Exodus. The text itself does not provide a reason.
+
 v22–27: The tithe is consumed as a celebratory meal before the LORD. If distance makes transport impractical, produce may be converted into silver and reconverted into food and drink at the chosen place.
+
 v28–29: The third-year tithe is local and explicitly supports Levites, resident aliens, orphans, and widows.
 
 ## Vocabulary

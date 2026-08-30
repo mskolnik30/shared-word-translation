@@ -190,22 +190,39 @@ harms their own life;
 all who hate me
 love death.”
 </p>
+
 ## Notes
+
 v01: Wisdom continues the feminine personification already present in Proverbs 1. She speaks publicly rather than revealing knowledge only to an elite group.
+
 v02–03: Wisdom takes her place at roads, crossroads, gates, and entrances—the spaces where people make choices and where public life occurs.
+
 v04: Wisdom’s invitation extends broadly to humanity. The teaching is not presented as secret knowledge reserved for a few.
+
 v05: “understanding heart” — The heart is again the center of judgment and discernment rather than merely emotion.
+
 v10–11: Wisdom is repeatedly valued above precious metals and jewels. Material wealth is not denied value, but it cannot substitute for the capacity to live wisely.
+
 v13: “fear of the LORD” is defined ethically: reverence for the LORD includes hatred of evil, pride, arrogance, destructive conduct, and distorted speech.
+
 v15–16: Political authority is accountable to wisdom and justice. Rule is not portrayed as self-legitimating merely because power has been obtained.
+
 v18: Wealth associated with Wisdom is joined to righteousness. The text does not commend wealth detached from just conduct.
+
 v22: “possessed me” — The Hebrew verb *qanah* can mean acquire, possess, or, in some contexts, create or bring forth. The verse has played a significant role in later theological debate. TSW uses “possessed” while leaving the wider lexical range visible in the note rather than resolving the text through later doctrinal concerns.
+
 v23: “established” — The Hebrew verb is unusual in this context and can carry meanings such as being installed, set up, or poured out. The translation preserves the sense of Wisdom being present from before creation.
+
 v24–25: “brought forth” — Birth imagery is used twice for Wisdom’s existence before the ordered world. The metaphor is retained without defining its metaphysical implications.
+
 v27: “a circle on the face of the deep” — The image reflects ancient poetic description of God establishing order over the waters. The text does not function as a technical account of cosmology.
+
 v29: “would not cross the command” — The sea is assigned a boundary within creation. Creation is pictured as ordered through divine command rather than uncontrolled water.
+
 v30: “master worker” — The Hebrew *amon* is exceptionally difficult. It has been understood as master worker, artisan, confidant, or child/nursling. TSW uses “master worker” while recognizing that the precise sense remains uncertain.
+
 v30–31: Creation is accompanied by delight. Wisdom rejoices before the LORD and particularly delights in the inhabited world and humanity.
+
 v35–36: The chapter concludes by placing life and death in relation to Wisdom. Finding Wisdom means finding life; rejecting her is ultimately self-destructive.
 
 ## Vocabulary

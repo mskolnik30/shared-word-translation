@@ -117,15 +117,25 @@ v33: So Jehoiachin changed his prison garments and ate bread continually before 
 
 v34: And for his allowance, a continual allowance was given to him by the king of Babylon, a daily portion, until the day of his death, all the days of his life.
 </p>
+
 ## Notes
+
 v01–30: Much of this chapter closely parallels the account of Jerusalem’s fall in 2 Kings 24–25. Jeremiah preserves its own form and several distinct chronological and numerical details; TSW does not harmonize the parallel accounts.
+
 v03: Zedekiah’s rebellion against Babylon is placed within the larger theological statement that Jerusalem and Judah came under judgment because of the LORD’s anger.
+
 v07: The phrase “the city was broken through” refers to the breach of Jerusalem’s defenses that made escape possible.
+
 v10–11: Zedekiah sees the execution of his sons and officials before being blinded, creating a brutal fulfillment of Jeremiah’s warnings concerning his capture.
+
 v15–16: The exile again creates social reversal: many are deported, while some of the poorest inhabitants remain to work vineyards and fields.
+
 v17–23: The detailed inventory of temple bronze slows the narrative at the point of destruction. Objects associated with Solomon’s temple are measured and counted even as they are dismantled and carried away.
+
 v20: The received Hebrew text associates the twelve bronze bulls with the stands in a syntactically difficult phrase. The broader temple tradition associates the bulls particularly with the bronze sea. TSW preserves the Masoretic wording rather than silently harmonizing it.
+
 v28–30: The deportation figures differ from totals reported elsewhere in Kings. They may count different groups or use different chronological systems. TSW retains Jeremiah’s figures.
+
 v31–34: Jeremiah ends not with Jerusalem restored but with Jehoiachin released, honored, and sustained at the Babylonian court. The modest change leaves the Davidic line alive within exile without resolving Israel’s larger loss.
 
 ## Vocabulary

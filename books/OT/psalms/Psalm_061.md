@@ -32,9 +32,13 @@ v07: May he sit enthroned before God forever; appoint steadfast love and faithfu
 <p>
 v08: So I will sing praise to your name forever, to fulfill my vows day after day.
 </p>
+
 ## Notes
+
 v02: "From the end of the earth" signifies an expression of extreme distance or distress, emphasizing the psalmist's feeling of being far from God's presence but still calling out to God.
+
 v03: "Refuge" and "strong tower" are metaphors describing God's protection. They evoke images of safety and fortification amidst threats.
+
 v06: "Prolong the days of the king" likely refers to a desire for longevity and continued stability under the king's reign, hinting at a messianic hope extending through the Davidic dynasty.
 
 ## Vocabulary

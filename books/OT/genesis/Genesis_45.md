@@ -82,18 +82,31 @@ v27: But when they told him all the words of Joseph, which he had said to them, 
 
 v28: And Israel said, “It is enough; Joseph my son is still alive. I will go and see him before I die.”
 </p>
+
 ## Notes
+
 v01: Joseph’s restraint collapses—revelation requires privacy and vulnerability.  
+
 v03: “I am Joseph” is both identity disclosure and narrative reversal.  
+
 v05–08: Joseph reframes human betrayal within divine purpose, asserting providence without denying agency.  
+
 v07: “Remnant” language anticipates preservation theology central to later biblical tradition.  
+
 v08: Joseph’s status is described relationally (“father to Pharaoh”), indicating advisory authority.  
+
 v09–11: The movement toward Goshen consolidates family identity within Egypt.  
+
 v14–15: Physical reconciliation (embrace, tears) precedes restored speech.  
+
 v16–20: Pharaoh’s response extends political favor, integrating Joseph’s family into imperial provision.  
+
 v22: Unequal gifts to Benjamin echo earlier favoritism, though now without recorded conflict.  
+
 v24: “Do not quarrel” acknowledges lingering tension among the brothers.  
+
 v26–27: Jacob’s disbelief gives way to recognition through tangible evidence (wagons).  
+
 v28: The naming “Israel” marks renewed identity and forward movement.  
 
 ## Vocabulary

@@ -51,10 +51,15 @@ v20: Come, my people, enter into your chambers, and shut your doors behind you. 
 <p>
 v21: For, look, the LORD comes forth out of his place to punish the inhabitants of the earth for their iniquity. The earth also will disclose her blood, and will no longer cover her slain.
 </p>
+
 ## Notes
+
 v19: “your dead will live” — The verse uses resurrection-like imagery within a communal song of hope without explaining the mechanism or scope of the promised life.
+
 v09: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
+
 v09: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
+
 v01: “salvation” — Hebrew *yeshuah* and related roots describe deliverance, rescue, and the saving action of the LORD.
 
 ## Vocabulary

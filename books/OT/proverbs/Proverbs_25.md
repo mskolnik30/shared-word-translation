@@ -167,15 +167,25 @@ and without walls
 is a person
 without self-control.
 </p>
+
 ## Notes
+
 v01: The heading identifies a later stage in the preservation of Solomonic wisdom during the reign of Hezekiah.  
+
 v02: Concealment and investigation are not opposites in value. God’s mystery and a ruler’s responsibility to investigate are each given their own glory.  
+
 v11: The exact objects described by “apples of gold” are uncertain; the image clearly emphasizes beauty, craftsmanship, and appropriateness.  
+
 v11: The exact objects described by “apples of gold” are uncertain.
+
 v13: “snow” likely refers to coolness brought from snow-covered regions rather than snow falling during harvest.  
+
 v15: The “gentle tongue” breaking bone is deliberate paradox: soft, persistent speech can accomplish what force cannot.  
+
 v20: The Hebrew comparison involving vinegar and soda describes a reaction that is inappropriate and disruptive, matching insensitive cheerfulness in the presence of grief.  
+
 v21–22: Care for an enemy replaces retaliation. The “burning coals” image has been understood as shame, conviction, or judgment; TSW leaves the metaphor intact.  
+
 v28: Self-control functions like a city wall: it protects inward life from uncontrolled intrusion and destruction.  
 
 ## Vocabulary
@@ -203,4 +213,3 @@ v19: בָּטַח (batach)
 
 v28: מַעְצָר (maatsar)  
 “Restraint” or “control.” The capacity to govern oneself.  
-

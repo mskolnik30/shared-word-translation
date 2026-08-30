@@ -48,8 +48,11 @@ and from the snares of those who do evil.
 v10: Let the wicked fall into their own nets together,
 while I pass by safely.
 </p>
+
 ## Notes
+
 v05–07: The Hebrew is difficult, especially the transition from welcomed righteous rebuke to the fate of hostile judges. The translation follows the Masoretic wording and sequence rather than rearranging the lines to create a smoother argument.
+
 v06: “Thrown down beside the rock” is a stark and uncertain image. Some translations reconstruct a different sense, but the received consonantal text is retained here.
 
 ## Vocabulary

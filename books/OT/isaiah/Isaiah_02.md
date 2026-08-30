@@ -53,10 +53,15 @@ v21: To go into the caverns of the rocks, and into the clefts of the ragged rock
 v22: Stop trusting in man, whose breath is in his nostrils;
 for of what account is he?
 </p>
+
 ## Notes
+
 v04: “swords into plowshares” — Instruments of war are transformed into agricultural tools; peace is pictured as a reordering of learned practice as well as weapons.  
+
 v12: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+
 v12: “day of the LORD” — The expression names decisive divine intervention in judgment and restoration without reducing it to a single chronological scheme.  
+
 v03: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
 
 ## Vocabulary

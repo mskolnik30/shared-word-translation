@@ -80,20 +80,35 @@ v32: Yet when we are judged by the Lord, we are disciplined so that we may not b
 v33: So then, my sisters and brothers, when you come together to eat, wait for one another.
 v34: If anyone is hungry, let them eat at home, so that when you come together it will not be for judgment. And the rest I will set in order when I come.
 </p>
+
 ## Notes
+
 v01: “imitators… as I… of Christ” — Paul anchors his authority in imitation that is derivative; the pattern is Christ, not personality.  
+
 v02: “hold firmly to the traditions” — “Tradition” here is received teaching meant to form communal worship and ethics, not mere preference.  
+
 v03: “head” — In this chapter, “head” (kephalē) operates in an honor/shame and relational-order frame; it is not a license for domination, and the passage itself will qualify any one-way dependence (v11–12).  
+
 v05: “woman… prays or prophesies” — Women are pictured as active speakers in worship; whatever this text means, it assumes women’s Spirit-given participation.  
+
 v10: “ought to have authority over her head” — The phrase is striking: it frames the covering in terms of “authority,” not inferiority; the meaning is debated, but the wording resists a simple subordination reading.  
+
 v11–12: “not independent… all things are from God” — Paul rebalances creation arguments with mutuality and God as the ultimate source; dependence is reciprocal in the Lord.  
+
 v16: “no such custom” — Paul signals limits: not every local practice deserves endless contention; the church’s unity matters.  
+
 v17–18: “not for the better but for the worse… divisions” — Worship can become spiritually harmful when social fractures are carried into the gathering.  
+
 v21–22: “one is hungry… another is drunk… shame those who have nothing” — The issue is economic injustice at the table; the meal contradicts the gospel when it reenacts status and scarcity.  
+
 v23–26: “received… handed on… remembrance… proclaim” — The Supper is traditioned practice: Jesus’ self-giving is re-presented in memory and proclamation, shaping the church’s identity until his coming.  
+
 v27–29: “unworthy manner… examine… discerning the body” — The warning targets the manner of participation—failure to recognize Christ’s body in the community, especially the vulnerable; discernment is social and spiritual.  
+
 v30–32: “weak and ill… disciplined” — Paul reads communal harm as serious; God’s judgment here is corrective, aimed at rescue from condemnation.  
+
 v33: “wait for one another” — The practical remedy is radical in its simplicity: shared timing, shared regard, shared table—love made concrete.  
+
 v34: “eat at home” — The gathering is not for private consumption; the Lord’s Table is meant to embody communion, not amplify inequality.  
 
 ## Vocabulary

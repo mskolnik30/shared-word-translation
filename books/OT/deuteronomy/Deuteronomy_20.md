@@ -64,15 +64,25 @@ v19: “When you besiege a city many days, fighting against it to capture it, yo
 
 v20: Only a tree that you know is not a tree for food you may destroy and cut down, and you may build siegeworks against the city that makes war with you until it falls.
 </p>
+
 ## Notes
+
 v01–04: Israel’s military confidence is grounded in the exodus and the presence of the LORD, not in parity of horses, chariots, or numbers.
+
 v05–07: House, vineyard, and marriage represent unfinished ordinary life. The law permits men to return rather than lose these beginnings in battle.
+
 v08: Fear is treated as socially contagious; the fainthearted soldier may return so that panic does not spread through the army.
+
 v10–15: The command to offer peace applies to distant cities outside the Canaanite conquest zone. Submission results in forced labor rather than destruction.
+
 v11: “forced labor” reflects an ancient imperial labor arrangement. The text regulates warfare in its historical setting and should not be used to justify modern enslavement.
+
 v16–18: The *herem* command concerning Canaanite cities is one of Deuteronomy’s most severe texts. TSW preserves the conquest language without universalizing it into later religious or ethnic violence.
+
 v18: The rationale given is cultic: Israel must not learn the nations’ worship practices.
+
 v19: The Hebrew question about the tree is syntactically difficult. TSW follows the sense that fruit trees are not combatants and therefore should not be destroyed as if they were part of the besieged population.
+
 v20: Non-fruit trees may be used for siegeworks, distinguishing military necessity from indiscriminate ecological destruction.
 
 ## Vocabulary

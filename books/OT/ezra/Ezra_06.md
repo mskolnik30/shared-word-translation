@@ -70,16 +70,27 @@ v21: The children of Israel who had returned from exile ate it, along with every
 
 v22: They kept the Festival of Unleavened Bread seven days with joy, for the LORD had made them joyful and had turned the heart of the king of Assyria toward them, strengthening their hands for the work of the house of God, the God of Israel.
 </p>
+
 ## Notes
+
 v02: The decree is found not in Babylon but at Ecbatana, the Median royal center. Imperial administration could store records across multiple royal sites.
+
 v03: The dimensions in Cyrus’s memorandum differ from the dimensions associated with Solomon’s temple. TSW preserves the figures as recorded in the Aramaic document.
+
 v08–10: Darius goes beyond permitting the rebuilding: Persian provincial revenues are ordered to fund construction and ongoing sacrifices, including prayer for the king and his sons.
+
 v11: The punishment described in the decree is severe and reflects ancient imperial legal rhetoric. The Aramaic verb may refer to impalement or another form of execution involving the house beam.
+
 v12: “caused his name to dwell there” uses biblical sanctuary language within a Persian royal decree as preserved by Ezra.
+
 v14: Artaxerxes is named alongside Cyrus and Darius even though the temple was completed in Darius’s reign. The verse may summarize the broader Persian support for the restored community rather than provide a strictly chronological list of temple-building decrees.
+
 v15: The temple is completed in the sixth year of Darius, commonly dated to 515 BCE.
+
 v18: With this verse the extended Aramaic section that began at Ezra 4:8 ends. Ezra 6:19 resumes in Hebrew.
+
 v21: Participation in Passover includes returned Israelites and others who separated themselves from the uncleanness of the surrounding peoples to seek the LORD. The defining movement is toward covenant worship.
+
 v22: Darius is unexpectedly called “king of Assyria.” The title may view Persian rule as inheriting the older imperial dominion over the region. TSW retains the received designation.
 
 ## Vocabulary

@@ -71,6 +71,7 @@ v16: In place of your fathers will be your sons;
 v17: I will cause your name to be remembered in all generations;
   therefore the peoples will praise you forever and ever.
 </p>
+
 ## Notes
 
 v01: “overflows with a good word” — The psalm begins as crafted praise: public poetry offered as a gift, not flattery for hire.

@@ -80,17 +80,29 @@ v21: which some have professed and in so doing have wandered away from the faith
 
 Grace be with you.
 </p>
+
 ## Notes
+
 v01–02: Social roles are addressed pragmatically. The concern is the reputation of God’s name and teaching.  
+
 v03–05: False teaching is diagnosed as both intellectual and moral distortion.  
+
 v06–08: Contentment reframes gain. Sufficiency replaces accumulation.  
+
 v09–10: Desire for wealth is treated as a trajectory leading to ruin, not a neutral pursuit.  
+
 v10: “Love of money” is the root, not money itself.  
+
 v11–12: Timothy is called to active resistance (“flee,” “pursue,” “fight”).  
+
 v13–14: The charge is framed in the presence of God and Christ, elevating its seriousness.  
+
 v15–16: God is described in exalted, inaccessible terms, emphasizing transcendence.  
+
 v17–19: Wealth is reoriented toward generosity and future stability.  
+
 v19: “Take hold of what is truly life” reframes present choices in light of ultimate reality.  
+
 v20–21: Guarding the entrusted message requires discernment and avoidance of false knowledge.  
 
 ## Vocabulary

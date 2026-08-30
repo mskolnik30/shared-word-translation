@@ -76,21 +76,37 @@ v40: He went away again across the Jordan to the place where John had been bapti
 v41: And many came to him. And they were saying, “John did no sign, but everything that John said about this man was true.”
 v42: And many believed in him there.
 </p>
+
 ## Notes
+
 v01–05: The contrast between shepherd and intruder establishes legitimacy through relationship rather than force or access.  
+
 v03: “Calls his own sheep by name” emphasizes particularity; belonging is not abstract but personal.  
+
 v06: The narrative marks misunderstanding without resolving it, allowing the discourse to unfold interpretively.  
+
 v07–09: “I am the door” reframes access—not merely guidance but entry itself is located in Jesus.  
+
 v10: “Life in abundance” is qualitative, not merely extended duration.  
+
 v11–15: The shepherd imagery intensifies into self-giving; knowledge and sacrifice are held together.  
+
 v16: “Other sheep” expands the scope beyond the immediate audience without specifying boundaries.  
+
 v17–18: Authority over life and death is presented as both given and enacted, holding divine commission and agency together.  
+
 v19–21: Division arises not from obscurity alone but from competing interpretations of the same signs.  
+
 v25–27: Belief is linked to recognition; hearing and following are relational, not merely cognitive.  
+
 v28–29: Security is expressed through layered belonging—held in both the Son’s and the Father’s hand.  
+
 v30: “I and the Father are one” is stated without elaboration, leaving its implications contested within the narrative.  
+
 v34–36: Jesus appeals to Scripture to destabilize the charge of blasphemy without offering a direct doctrinal clarification.  
+
 v37–38: Works function as interpretive evidence, though they do not compel belief.  
+
 v40–42: The return beyond the Jordan recalls earlier testimony, linking present recognition to prior witness.  
 
 ## Vocabulary
@@ -124,4 +140,3 @@ v28: ἁρπάζω (harpazō)
 
 v30: ἕν (hen)  
 “One.” Unity without specification of form, leaving the nature of oneness open within the text.  
-

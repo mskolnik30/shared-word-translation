@@ -46,6 +46,7 @@ because you have done it.
 I will wait for your name,
 for it is good, in the presence of your faithful ones.
 </p>
+
 ## Notes
 
 ## Vocabulary

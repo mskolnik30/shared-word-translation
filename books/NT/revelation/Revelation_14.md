@@ -58,27 +58,49 @@ v19: So the angel swung his sickle over the earth and gathered the harvest of th
 
 v20: And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse’s bridle, for about 1,600 stadia.
 </p>
+
 ## Notes
+
 v01: The Lamb stands rather than appears; presence replaces motion.
+
 v01: Dual naming (“his name and his Father’s name”) marks belonging.
+
 v02: Sound imagery accumulates without resolving into a single source.
+
 v03: The song is restricted; knowledge is limited, not universal.
+
 v04: Description is layered and not reduced to a single trait.
+
 v04: “Firstfruits” signals priority, not completeness.
+
 v05: Blamelessness is stated without qualification.
+
 v06: The gospel is described as eternal; scope is universal.
+
 v07: Creation grounds the call to worship, not abstract theology.
+
 v08: The fall of Babylon is declared before narrated.
+
 v09–11: Warning is direct and without mitigation.
+
 v10: Wrath is described as unmixed, not moderated.
+
 v11: Duration (“forever and ever”) is stated without explanation.
+
 v12: Endurance is defined by keeping and faith together.
+
 v13: Blessing is pronounced on the dead, reversing expectation.
+
 v14: The figure is described comparatively (“like a son of man”).
+
 v15: Ripeness determines action; timing is not arbitrary.
+
 v16: The harvest is completed without resistance.
+
 v17–18: Multiple agents act without hierarchy being clarified.
+
 v19: Harvest shifts from grain to grapes, altering imagery.
+
 v20: The scale is extreme and unqualified.
 
 ## Vocabulary
@@ -126,4 +148,3 @@ v19: ληνός (lēnos)
 v20: στάδιον (stadion)
 
 “A measure of distance.” Used to express extent.
-

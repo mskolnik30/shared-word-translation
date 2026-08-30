@@ -137,22 +137,39 @@ until their appetite is satisfied,
 but the belly of the wicked
 goes hungry.
 </p>
+
 ## Notes
+
 v01: Wisdom is again defined by responsiveness to correction. The scoffer’s defining failure is refusal to listen.  
+
 v02–03: Speech produces consequences for both speaker and others. Guarding the mouth is therefore described as guarding one’s own life.  
+
 v04: The same Hebrew word for “appetite” or “life” appears in both lines. Desire alone produces nothing when it is separated from diligent action.  
+
 v07: Visible economic status can be deceptive in either direction. Wisdom does not equate appearance with actual condition.  
+
 v08: Wealth can make a person vulnerable to ransom demands or extortion, while poverty may leave nothing worth threatening to seize. The proverb observes one paradoxical relationship between possessions and danger.  
+
 v09: Light and lamp represent vitality, future, and flourishing. The righteous light rejoices while the wicked lamp is extinguished.  
+
 v11: The Hebrew expression translated “gained too quickly” literally refers to wealth gained from vapor or emptiness and may imply dishonest or insubstantial acquisition.
+
 v12: The proverb recognizes the bodily and emotional toll of delayed hope. Fulfilled longing is compared with the life-giving tree already familiar from Proverbs.  
+
 v14: Wise teaching is not merely informative; it actively turns the learner away from traps leading toward death.  
+
 v15: “the way of the treacherous is hard” — The Hebrew adjective is difficult and could describe enduring, harsh, or rugged conditions. TSW follows the common contextual sense of a difficult way.  
+
 v17: A messenger’s character affects the welfare of those represented. Faithful communication can bring healing rather than merely accurate information.  
+
 v20: Character is formed relationally. Those with whom a person walks help determine the direction in which wisdom or folly develops.  
+
 v22: The proverb imagines goodness creating benefit beyond one generation. The contrast with the sinner’s wealth emphasizes the instability of possessions detached from righteousness.  
+
 v23: “through injustice” — The Hebrew text is difficult but most naturally points to food or resources being lost because justice is absent. Poverty is therefore not automatically interpreted as the result of laziness or moral failure.  
+
 v24: “rod” — The rod is an image of parental correction within the ancient setting. The point of the proverb is the responsibility to form and correct a child rather than indifference disguised as love; it does not require treating physical violence as the essence of discipline.  
+
 v25: The chapter closes with satisfied and unsatisfied appetite, returning bodily need to the larger moral pattern of righteousness and wickedness.  
 
 ## Vocabulary
@@ -192,4 +209,3 @@ v24: שֵׁבֶט (shevet)
 
 v24: מוּסָר (musar)
 “Discipline,” “instruction,” or “correction.” Intentional formation toward wisdom.
-

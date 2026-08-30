@@ -114,16 +114,27 @@ v22: Let your steadfast love, O LORD, be upon us,
 
 even as we hope in you.
 </p>
+
 ## Notes
+
 v01–03: Worship is communal, vocal, and skillful; joy and artistry are appropriate responses to God.
+
 v04–05: The LORD’s “word” and “work” are aligned—speech and action share integrity.
+
 v06–07: Creation arises from divine speech and breath; ordering chaos (waters, deeps) reflects sovereign control.
+
 v08–09: Universal summons—fear and awe arise from the effectiveness of divine command.
+
 v10–11: Human plans are contingent; divine counsel is enduring and generational.
+
 v12: Election language (“chosen,” “heritage”) frames identity as given, not achieved.
+
 v13–15: Divine perception is total—God forms hearts and evaluates deeds.
+
 v16–17: Military power is relativized; conventional means of security are exposed as insufficient.
+
 v18–19: The LORD’s “eye” signals attentive care toward those who fear and hope.
+
 v20–22: The community responds with waiting, trust, and petition; hope and steadfast love are mutually oriented.
 
 ## Vocabulary
@@ -227,4 +238,3 @@ v20: מָגֵן (māgēn)
 v22: רָצוֹן (rāṣôn)  
 
 “Favor.” Acceptance, goodwill.
-

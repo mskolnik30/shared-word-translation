@@ -90,19 +90,33 @@ v22: Then the LORD God said, “See, the human has become like one of us, knowin
 v23: therefore the LORD God sent the human out from the garden of Eden, to till the ground from which the human was taken.
 v24: God drove out the human; and at the east of the garden of Eden God placed the cherubim, and a flaming sword that turned every way, to guard the way to the tree of life.
 </p>
+
 ## Notes
+
 v01: The serpent is described as crafty, not evil. The text offers no origin story or moral explanation, allowing ambiguity about motive and role.  
+
 v03: The prohibition is expanded in the woman’s speech (“nor shall you touch it”). The text does not explain why, preserving tension around memory, interpretation, and fear.  
+
 v06: Desire, perception, and wisdom are named together. The human pair act in shared presence; responsibility is not isolated to one alone.  
+
 v07: Awareness follows eating, but shame is learned rather than imposed. Covering is self-made, not commanded.  
+
 v08: God is portrayed as present and moving within the garden. Hiding marks a relational rupture rather than mere rule-breaking.  
+
 v09: “Where are you?” is a relational question, not a request for information. God’s first word is address, not accusation.  
+
 v12–13: Blame moves outward—from self to other to circumstance. The text narrates this movement without comment.  
+
 v14–19: The words spoken are consequences, not explanations. Each address names a fractured relationship: creature and creature, human and human, human and ground.  
+
 v15: Enmity is named without resolution. The verse is left open-ended, resisting later theological closure.  
+
 v16: The dynamics described are not prescribed as good. Desire and domination are named as conditions of a broken world.  
+
 v21: God clothes the human pair. Care is shown without undoing consequence.  
+
 v22: The divine speech acknowledges expanded knowledge while limiting immortality. The tension between likeness to God and creaturely boundary is preserved.  
+
 v23–24: Expulsion is paired with protection. The way to life is guarded, not destroyed, leaving the story open rather than finished.  
 
 ## Vocabulary

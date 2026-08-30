@@ -309,22 +309,39 @@ to his anointed,
 to David and to his offspring
 forever.
 </p>
+
 ## Notes
+
 v01: This song closely parallels Psalm 18 but contains numerous small textual and stylistic differences. TSW translates 2 Samuel’s received form rather than importing the Psalm wording.
+
 v02–03: Rock, stronghold, shield, horn, fortress, refuge, and savior accumulate military and topographic images of protection.
+
 v05–06: Death and Sheol are personified as waters, cords, and traps enclosing David.
+
 v08–16: The divine appearance uses storm-theophany imagery: earthquake, smoke, fire, darkness, cherub, wind, thunder, lightning, and exposed sea channels.
+
 v11: The LORD rides on a cherub, imagery associated elsewhere with the divine throne and sanctuary.
+
 v12: “booths around him” is a distinctive Samuel reading where Psalm 18 has darkness as a covering. The Hebrew wording is difficult, and TSW preserves the shelter image.
+
 v17: “drew me out” sounds like Moses’ name in Hebrew, though the text does not explicitly make the wordplay.
+
 v21–25: David speaks of righteousness and clean hands in the song’s poetic perspective. Read within Samuel’s larger narrative, these claims cannot mean moral perfection; they describe covenant integrity in the conflicts from which he was delivered.
+
 v26–27: The repeated reflexive pattern describes God responding correspondingly to human character, while the final line portrays divine shrewdness toward the twisted.
+
 v29: The LORD as David’s “lamp” resonates with David himself being called Israel’s lamp in 21:17.
+
 v31: “refined” pictures metal tested and purified by fire, applied to the LORD’s word.
+
 v36: The Hebrew phrase translated “your answering care” is difficult and differs from Psalm 18’s “your gentleness.” TSW follows the Samuel consonants in a relational sense without claiming certainty.
+
 v42: Enemies cry even to the LORD without answer, emphasizing that invoking God is not a guarantee of rescue apart from right relation.
+
 v44: David’s deliverance extends from internal disputes to international rule, joining national kingship and imperial reach.
+
 v48: The song celebrates divine vengeance in the context of David’s enemies. TSW preserves the royal-warrior theology without making personal vengeance a general command.
+
 v51: The song closes by linking David’s deliverance to the enduring covenant with his offspring from chapter 7.
 
 ## Vocabulary

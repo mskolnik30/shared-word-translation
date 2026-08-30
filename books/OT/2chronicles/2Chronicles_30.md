@@ -82,11 +82,17 @@ v26: There was great gladness in Jerusalem, for from the days of Solomon son of 
 
 v27: Then the Levitical priests arose and blessed the people, and their voice was heard, and their prayer came to his holy dwelling, to the heavens.
 </p>
+
 ## Notes
+
 v02–03: The second-month Passover follows the provision of Numbers 9 for those unable to celebrate in the first month.
+
 v06–09: The invitation deliberately reaches remnants of the former northern kingdom after Assyrian devastation.
+
 v10–11: Responses range from mockery to humility, preserving human freedom within the call to return.
+
 v18–20: Hezekiah’s prayer prioritizes a heart set on seeking God while acknowledging ritual irregularity; the LORD responds by healing.
+
 v23: The spontaneous second week makes the celebration unusually extended.
 
 ## Vocabulary

@@ -98,21 +98,37 @@ v32: Absalom said to Joab, “Look, I sent to you, saying, ‘Come here, so that
 
 v33: So Joab went to the king and told him. He called Absalom, and he came to the king and bowed down on his face to the ground before the king, and the king kissed Absalom.
 </p>
+
 ## Notes
+
 v01: Joab recognizes David’s unresolved longing toward Absalom and attempts to engineer reconciliation without directly confronting the king.
+
 v02: The “wise woman” functions similarly to Nathan in chapter 12, using a crafted case to draw David into judging his own situation.
+
 v07: The “coal that remains” is an image of the widow’s surviving son as the last ember preserving her dead husband’s family name.
+
 v11: David’s oath protects the woman’s fictional son from the avenger of blood and becomes the basis for her challenge concerning Absalom.
+
 v13: The woman argues that David’s refusal to restore Absalom harms “the people of God,” likely because the royal succession and national stability are at stake.
+
 v14: “God does not take away life” sits within a complex argument, since Scripture elsewhere plainly describes divine judgment resulting in death. Here the woman’s point is that God also devises means for restoration of the banished.
+
 v17: Comparing David to a “messenger of God” flatters his judicial discernment and prepares for his recognition of Joab’s scheme.
+
 v20: “change the face of the matter” means reshape how David sees the situation through an analogous story.
+
 v24: Absalom is physically restored to Jerusalem but relationally excluded from the king’s presence. The incomplete reconciliation becomes part of the later rebellion.
+
 v25–26: Absalom’s beauty and extraordinary hair are emphasized before the political rise that follows. The heavy hair later becomes narratively significant.
+
 v26: “two hundred shekels by the king’s weight” is very heavy by ordinary reckoning. Ancient weight standards varied, and the figure may be stylized or reflect a different royal standard.
+
 v27: Absalom’s daughter is named Tamar, likely honoring his sister whose violation drove his vengeance against Amnon.
+
 v30: Burning Joab’s barley field is coercive destruction designed to force access to the king’s intermediary.
+
 v32: Absalom frames the unresolved situation starkly: either restore him fully or judge him openly.
+
 v33: The king’s kiss marks formal reconciliation, but the narrative records no conversation, confession, or resolution of the underlying family violence.
 
 ## Vocabulary

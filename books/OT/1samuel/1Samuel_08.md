@@ -66,13 +66,21 @@ v21: Samuel heard all the words of the people and spoke them in the ears of the 
 
 v22: The LORD said to Samuel, “Listen to their voice and make a king for them.” Samuel said to the men of Israel, “Go, each man to his city.”
 </p>
+
 ## Notes
+
 v03: Samuel’s sons repeat the pattern of failed hereditary leadership seen earlier in Eli’s house, especially through greed and corrupted judgment.
+
 v05: Israel’s request combines a legitimate concern about leadership succession with the desire to be “like all the nations.”
+
 v07: The LORD interprets the request fundamentally as rejection of divine kingship, not merely rejection of Samuel.
+
 v09: “Judgment of the king” can mean the king’s customary practice or the way royal power will operate, not a divine endorsement of every act listed.
+
 v11–17: The repeated verb “take” defines Samuel’s warning. Kingship will concentrate people, land, labor, produce, and wealth around the royal house.
+
 v18: The warning culminates in loss of freedom: the people who ask for a king will themselves become royal servants.
+
 v20: The people want the king not only to judge but to lead military action, transferring visible security toward monarchy.
 
 ## Vocabulary

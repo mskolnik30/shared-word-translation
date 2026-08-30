@@ -114,6 +114,7 @@ and in your bedroom do not curse the rich;
 for a bird of the air may carry the sound,
 and a winged creature may tell the matter.
 </p>
+
 ## Notes
 
 v10: The Hebrew speaks literally of not sharpening the “face” of the iron—that is, its cutting edge.

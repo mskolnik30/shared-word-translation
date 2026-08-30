@@ -150,6 +150,7 @@ for we have sinned against the LORD our God—
 we and our ancestors—from our youth until this day,
 and we have not listened to the voice of the LORD our God.”
 </p>
+
 ## Notes
 
 v19: The Hebrew textual tradition preserves both masculine and feminine forms in this verse.

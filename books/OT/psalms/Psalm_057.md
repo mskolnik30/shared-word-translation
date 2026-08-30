@@ -54,6 +54,7 @@ v10: For your steadfast love is great to the heavens,
 v11: Be exalted, O God, above the heavens;
     let your glory be over all the earth.
 </p>
+
 ## Notes
 
 ## Vocabulary

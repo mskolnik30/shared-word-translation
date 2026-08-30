@@ -100,19 +100,33 @@ v27: And when he wanted to go across to Achaia, the brothers encouraged him and 
 
 v28: for he was vigorously refuting the Jews in public, demonstrating through the Scriptures that Jesus is the Christ.
 </p>
+
 ## Notes
+
 v02–03: Shared trade supports sustained ministry presence.  
+
 v04–05: Reasoning and testimony function together in proclamation.  
+
 v06: Turning to Gentiles follows sustained rejection.  
+
 v08: Household belief reflects communal conversion patterns.  
+
 v09–10: Divine assurance stabilizes mission in hostile context.  
+
 v11: Extended teaching establishes foundational community.  
+
 v12–16: Roman authority declines involvement in internal disputes.  
+
 v17: Violence occurs without legal intervention.  
+
 v18: Vow indicates continued Jewish practice within mission.  
+
 v23: Strengthening remains an ongoing priority.  
+
 v24–25: Partial knowledge still enables effective proclamation.  
+
 v26: Instruction corrects and completes understanding.  
+
 v27–28: Scripture-based argumentation confirms identity of Jesus.  
 
 ## Vocabulary

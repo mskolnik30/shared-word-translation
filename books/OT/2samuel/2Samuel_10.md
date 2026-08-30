@@ -62,17 +62,29 @@ v18: But Aram fled before Israel, and David killed from Aram the men of seven hu
 
 v19: When all the kings who were servants of Hadadezer saw that they had been struck before Israel, they made peace with Israel and served them. And Aram was afraid to save the children of Ammon any more.
 </p>
+
 ## Notes
+
 v02: David’s attempt to show *hesed* to Hanun begins the chapter. The war grows from suspicion and humiliation rather than from an initial attack by David.
+
 v03: Hanun’s advisers interpret diplomatic consolation as espionage, turning a gesture of loyalty into a perceived threat.
+
 v04: Shaving half the beard and cutting garments to expose the body are calculated acts of public humiliation against royal envoys.
+
 v06: “made themselves odious” is literally “made themselves stink,” an idiom for becoming hated or offensive.
+
 v06: The army totals and group names vary somewhat in the parallel account in 1 Chronicles 19. TSW follows 2 Samuel’s received figures.
+
 v08: Ammon holds the fortified city entrance while its hired Aramean allies fight separately in the field.
+
 v11: Joab and Abishai establish mutual aid rather than independent glory: whichever front weakens receives help from the other.
+
 v12: Joab’s courage is framed by both human responsibility—“let us be strong”—and divine freedom—“may the LORD do what is good in his eyes.”
+
 v16: “the River” refers to the Euphrates. Hadadezer draws Aramean forces from beyond it.
+
 v18: The Masoretic Text reads seven hundred chariot units and forty thousand horsemen. 1 Chronicles 19:18 has seven thousand charioteers and forty thousand foot soldiers. TSW preserves Samuel’s text and notes the parallel difference.
+
 v19: David’s victory changes the regional alliance system: kings formerly subordinate to Hadadezer make peace with Israel.
 
 ## Vocabulary

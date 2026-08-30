@@ -41,13 +41,21 @@ you break the teeth of the wicked.
 v08: Salvation belongs to the LORD;
 your blessing be upon your people! Selah.
 </p>
+
 ## Notes
+
 v01–02: Opposition is both external (“foes”) and internalized (“no salvation”).  
+
 v03: God is described relationally—shield, glory, and restorer of dignity.  
+
 v04: Prayer connects distress to divine response.  
+
 v05: Sleep becomes an act of trust, not vulnerability.  
+
 v06: Confidence is not based on reduced threat but on divine presence.  
+
 v07: Deliverance is expressed in vivid, physical imagery.  
+
 v08: Salvation is claimed as belonging to the LORD, not the individual.  
 
 ## Vocabulary
@@ -81,4 +89,3 @@ v07: נָכָה (nakah)
 
 v08: יְשׁוּעָה (yeshuah)  
 “Salvation.” Deliverance.  
-

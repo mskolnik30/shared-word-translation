@@ -69,14 +69,23 @@ v19: God split open the hollow place that is at Lehi, and water came out from it
 
 v20: And he judged Israel in the days of the Philistines twenty years.
 </p>
+
 ## Notes
+
 v03: Samson claims innocence before launching retaliation. The narrative increasingly portrays violence as reciprocal escalation, with each side answering injury with greater injury.
+
 v04: The Hebrew animal *shu'al* can mean fox or jackal. Jackals may fit the group-catching described, but TSW retains the traditional “foxes.”
+
 v06: Samson’s wife suffers the very form of violence threatened against her in chapter 14, though now because of Samson’s retaliation.
+
 v08: “hip and thigh” — The idiom describes a severe beating or slaughter; its exact origin is uncertain.
+
 v11: Judah has accommodated Philistine domination to such a degree that Samson’s resistance is treated as the greater threat to stability.
+
 v14–15: Samson’s weapon is an animal jawbone, again bringing his Nazirite consecration into contact with death impurity without explicit narrative comment.
+
 v18: Samson acknowledges the victory as a deliverance given by God, even after boasting in verse 16 about his own feat.
+
 v19: The place-name En-Hakkore means “spring of the caller,” remembering Samson’s cry to God for water.
 
 ## Vocabulary

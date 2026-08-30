@@ -38,15 +38,25 @@ v05: Your testimonies are very sure;
 holiness befits your house, O LORD,
 for length of days.
 </p>
+
 ## Notes
+
 v01: The psalm opens with a declarative enthronement formula (“The LORD reigns”), not an argument but a proclamation.  
+
 v01: Clothing imagery (“clothed with majesty,” “girded with strength”) presents kingship as both visible and active.  
+
 v01: The stability of the world is linked to divine reign, not to natural permanence.  
+
 v02: The throne is “established from of old,” yet God is “from everlasting.” The distinction preserves both historical imagery and divine transcendence.  
+
 v03–04: The floods are personified and intensified through repetition. Their rising voice evokes chaos without narrating a specific event.  
+
 v04: The comparison does not deny the power of the waters but places it within a greater hierarchy—“the LORD on high is mighty.”  
+
 v05: “Testimonies” may refer to divine decrees or covenantal witness. Their reliability parallels the stability named earlier.  
+
 v05: Holiness is not abstract but fitting (“befits”) to God’s house, linking divine character with sacred space.  
+
 v05: “For length of days” suggests enduring order rather than a measured duration.  
 
 ## Vocabulary
@@ -83,4 +93,3 @@ v05: קֹדֶשׁ (qodesh)
 
 v05: אֹרֶךְ יָמִים (ʾorekh yamim)  
 “Length of days.” A phrase expressing enduring duration or permanence.  
-

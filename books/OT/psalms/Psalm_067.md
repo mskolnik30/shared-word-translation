@@ -44,12 +44,19 @@ v07: God shall bless us;
 
 let all the ends of the earth fear him!
 </p>
+
 ## Notes
+
 v01: The blessing echoes priestly language; divine favor is expressed as grace, blessing, and shining presence.
+
 v02: Israel’s blessing is missional—knowledge of God extends outward to “all nations.”
+
 v03–05: Refrain structure universalizes praise; repetition emphasizes inclusion of all peoples.
+
 v04: Divine rule is characterized by equity and guidance; governance is both just and directional.
+
 v06: Agricultural yield is interpreted as divine provision; material blessing points beyond itself.
+
 v07: The psalm closes with global scope—fear of the LORD extends to the ends of the earth.
 
 ## Vocabulary
@@ -109,4 +116,3 @@ v07: יָרֵא (yārēʾ)
 v07: קָצֶה (qāṣeh)  
 
 “End.” Extremity, boundary.
-

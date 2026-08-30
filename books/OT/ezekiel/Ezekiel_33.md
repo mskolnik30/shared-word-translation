@@ -79,13 +79,21 @@ v31: They come to you as people come, and they sit before you as my people. They
 v32: Look, you are to them like a song of desire, beautifully voiced and well played on an instrument. They hear your words, but they do not do them.
 v33: When this comes—and look, it is coming—then they will know that a prophet has been among them.”
 </p>
+
 ## Notes
+
 v06: The watchman image holds together personal responsibility and communal responsibility. Those who refuse a warning remain accountable for their own guilt, yet the watchman is accountable for withholding the warning entrusted to him.  
+
 v11: “I take no pleasure” does not deny judgment; the surrounding passage speaks plainly of death and judgment. It reveals that judgment is not the LORD’s desired end: the repeated summons is, “Turn back … and live.”  
+
 v12–16: The passage resists treating either former righteousness or former wickedness as a fixed status that determines the present. Turning is expressed not only in leaving sin but in concrete restoration, justice, and righteousness.  
+
 v17–20: The people charge that the Lord’s way is “not right.” The response does not offer an abstract explanation of divine justice, but returns attention to the actual ways of those being judged.  
+
 v21–22: The report of Jerusalem’s fall marks a major transition in Ezekiel’s ministry. His mouth, previously restrained, is opened as the message moves from warning before the city’s fall toward testimony among the exiles after it.  
+
 v25: Eating “with the blood” evokes the biblical prohibition against consuming blood. It stands alongside idolatry and bloodshed as evidence that the survivors’ claim to the land is morally false.  
+
 v30–32: The people value Ezekiel’s words as an attractive performance while refusing to enact them. “Desire” and “song of desire” preserve the passage’s language of sensual attraction, set in contrast with hearts pursuing unjust gain.  
 
 ## Vocabulary

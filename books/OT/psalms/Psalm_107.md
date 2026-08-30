@@ -166,15 +166,24 @@ and all wickedness shuts its mouth.
 v43: Whoever is wise, let him attend to these things;
 let them consider the steadfast love of the LORD.
 </p>
+
 ## Notes
+
 v01–03: Redemption is communal and gathered from dispersion.  
+
 v04–32: Four repeated cycles:  
 distress → cry → deliverance → thanksgiving.  
+
 v04–09: Lost wanderers are guided and satisfied.  
+
 v10–16: Captivity is both consequence and context for deliverance.  
+
 v17–22: Affliction leads to healing through God’s word.  
+
 v23–32: Chaos (sea/storm) is subject to divine command.  
+
 v33–42: God reverses conditions—judgment and blessing reshape the land and people.  
+
 v43: Wisdom is defined as recognizing patterns of divine steadfast love.  
 
 ## Vocabulary
@@ -208,4 +217,3 @@ v35: הָפַךְ (haphakh)
 
 v43: בִּין (bin)  
 “To understand.” Discern.  
-

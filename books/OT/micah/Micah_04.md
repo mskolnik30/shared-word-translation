@@ -113,21 +113,37 @@ You shall crush many peoples,
 and devote their gain to the LORD,
 their wealth to the Lord of all the earth.
 </p>
+
 ## Notes
+
 v01–03: The chapter opens with a vision of the future reign of God that contrasts sharply with the judgment announced in chapter 3.
+
 v01: The exaltation of the LORD's mountain symbolizes the supremacy of God's kingdom among the nations.
+
 v02: The nations come willingly to receive God's instruction rather than resisting his rule.
+
 v03: Peace is established through God's righteous judgment rather than through human power.
+
 v03: The transformation of weapons into agricultural tools symbolizes the end of warfare.
+
 v04: The vine and fig tree represent security, prosperity, and covenant blessing.
+
 v05: Israel's commitment to walk in the LORD's name contrasts with the devotion of other nations to their gods.
+
 v06–07: God gathers the weak, afflicted, and scattered rather than the powerful and self-sufficient.
+
 v07: The remnant theme remains central to Micah's message of hope.
+
 v08: The promise points toward the restoration of royal rule in Zion.
+
 v09–10: Jerusalem will experience suffering and exile before restoration arrives.
+
 v10: Babylon is mentioned long before Judah's eventual exile there, highlighting the prophetic nature of the passage.
+
 v10: The place of exile will also become the place from which God delivers his people.
+
 v11–12: The nations misunderstand God's purposes and become instruments within his larger plan.
+
 v13: Zion's victory comes through God's empowerment rather than its own strength.
 
 ## Vocabulary
@@ -167,4 +183,3 @@ v13: דּוּשׁ (dûš)
 
 v13: חֵרֶם (ḥērem)
 “To devote.” To set apart completely for God, often in the context of judgment.
-

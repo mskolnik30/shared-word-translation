@@ -40,10 +40,15 @@ and all the trees of the fields will clap their hands.
 v13: Instead of the thorn will come up the fir tree;
 and instead of the brier will come up the myrtle tree: and it will be to the LORD for a name, for an everlasting sign that will not be cut off.
 </p>
+
 ## Notes
+
 v11: The word of the LORD is compared with rain and snow that accomplish the purpose for which they are sent; speech and creation are held together.
+
 v05: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.
+
 v03: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
+
 v12: “peace” — Hebrew *shalom* describes wholeness, well-being, and restored order, not merely the absence of conflict.
 
 ## Vocabulary

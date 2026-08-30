@@ -52,6 +52,7 @@ v10: Remove vexation from your heart,
 and put away harm from your flesh,
 for youth and the dawn of life are vapor.
 </p>
+
 ## Notes
 
 ## Vocabulary

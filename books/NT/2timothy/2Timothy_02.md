@@ -94,19 +94,33 @@ v25: correcting opponents with gentleness. God may perhaps grant them repentance
 <p>
 v26: and they may come to their senses and escape from the snare of the devil, having been captured by him to do his will.
 </p>
+
 ## Notes
+
 v01–02: Strength is located in grace and extended through transmission. Teaching is generational.  
+
 v03–06: Multiple metaphors (soldier, athlete, farmer) frame discipline, focus, and reward.  
+
 v07: Understanding is both human reflection and divine gift.  
+
 v08–09: The contrast between Paul’s chains and the unchained word emphasizes the freedom of the message.  
+
 v10: Endurance is oriented toward others’ salvation.  
+
 v11–13: The saying balances promise and warning. Faithlessness does not negate Christ’s faithfulness.  
+
 v14–15: Right handling of the word contrasts with destructive disputes.  
+
 v16–18: False teaching spreads and corrupts, compared to disease.  
+
 v19: Divine knowledge and human responsibility are held together.  
+
 v20–21: The household metaphor emphasizes differentiation and potential transformation.  
+
 v22: Fleeing and pursuing define ethical movement.  
+
 v24–25: Correction is relational and patient, not combative.  
+
 v26: Deception is described as captivity, requiring awakening.  
 
 ## Vocabulary

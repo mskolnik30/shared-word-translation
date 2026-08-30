@@ -113,12 +113,19 @@ and they too shall come to destruction.”
 <p>
 v25: Then Balaam rose and went and returned to his place, and Balak also went his way.
 </p>
+
 ## Notes
+
 v01: Balaam stops seeking omens once the repeated divine blessing has become clear. The Spirit’s coming in v02 shifts the oracle away from divinatory procedure.
+
 v03: “whose eye is opened” — The Hebrew form is rare and has been read in more than one way, including “closed” or “opened.” The following “eyes uncovered” supports a theme of granted perception.
+
 v07: The Masoretic Text reads “Agag,” a royal name associated elsewhere with Amalek. Some ancient witnesses differ. TSW retains the Masoretic reading.
+
 v17: “star” and “scepter” are royal images. The oracle does not name the ruler or specify the historical horizon of fulfillment.
+
 v17: “sons of Seth” is an unusual expression and may refer broadly to humanity or to a particular people. The main text retains the Hebrew designation.
+
 v24: “Kittim” is a geographical term associated first with Cyprus and later more broadly with western maritime powers. The oracle leaves the historical referent open.
 
 ## Vocabulary

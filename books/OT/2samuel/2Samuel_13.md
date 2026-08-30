@@ -120,21 +120,37 @@ v38: Absalom fled and went to Geshur and was there three years.
 
 v39: The spirit of King David longed to go out to Absalom, for he was comforted concerning Amnon, since he was dead.
 </p>
+
 ## Notes
+
 v01: Tamar is introduced as Absalom’s sister before being named as Amnon’s object of desire, placing her within the royal household web that will later fracture.
+
 v02: Amnon’s “love” is immediately shown to be self-focused desire. The narrative’s later contrast between love and hatred exposes that he does not seek Tamar’s good.
+
 v05: Jonadab’s shrewdness is morally corrupt. He uses insight to devise a setting in which Tamar can be isolated.
+
 v12: Tamar names the act as humiliation and a “disgraceful thing” in Israel. Her speech provides the chapter’s clearest moral interpretation before the assault occurs.
+
 v13: Tamar’s proposal that Amnon ask the king may be a desperate attempt to prevent immediate violence rather than evidence that such sibling marriage would actually have been lawful.
+
 v14: The Hebrew says Amnon was stronger than Tamar and “humiliated” her. TSW retains the direct power imbalance and does not euphemize the rape.
+
 v15: Amnon’s hatred exceeds his previous “love,” revealing the destructive character of possessive desire once it has taken what it wanted.
+
 v18: The exact design of Tamar’s garment is uncertain. The Hebrew describes a distinctive robe worn by virgin royal daughters; “long robe with sleeves” is a conventional rendering.
+
 v20: Absalom’s instruction to be silent may be intended as immediate protection or emotional containment, but it also leaves Tamar without public justice. She is said to remain “desolate.”
+
 v21: David becomes angry but the Masoretic Text records no action. Some ancient witnesses add that he did not punish Amnon because he loved him as firstborn. TSW follows the Masoretic Text and notes the shorter form.
+
 v22: Absalom’s silence toward Amnon is not forgiveness; the narrator explicitly says he hates him.
+
 v23–29: Absalom waits two years and then uses a festive setting and intoxication to arrange Amnon’s death, echoing the use of deception in Tamar’s assault.
+
 v32: Jonadab, who designed the circumstances of Tamar’s rape, now displays remarkable knowledge of Absalom’s long-standing intent.
+
 v37: Geshur is the homeland of Absalom’s mother Maacah, making his maternal grandfather Talmai a natural refuge.
+
 v39: The Hebrew syntax is difficult and can be understood either as David longing to go to Absalom or as David’s hostility toward Absalom being exhausted. TSW follows the longing sense while noting the ambiguity.
 
 ## Vocabulary

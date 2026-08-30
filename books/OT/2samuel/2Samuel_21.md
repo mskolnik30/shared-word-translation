@@ -72,18 +72,31 @@ v21: He taunted Israel, and Jonathan son of Shimei, David’s brother, struck hi
 
 v22: These four were descended from the giant in Gath, and they fell by the hand of David and by the hand of his servants.
 </p>
+
 ## Notes
+
 v01: The famine is interpreted as connected with Saul’s violation of Israel’s oath to the Gibeonites. The episode reaches back to the covenant made with Gibeon in Joshua 9.
+
 v03: “make atonement” uses the ordinary Hebrew atonement verb, but the mechanism here is negotiated with the wronged Gibeonites rather than sanctuary sacrifice.
+
 v06: The execution of Saul’s descendants is a severe instance of ancient bloodguilt and dynastic accountability. TSW preserves the narrative without treating inherited execution as a transferable model of justice.
+
 v07: Mephibosheth son of Jonathan is protected because David’s oath to Jonathan remains binding even amid the attempt to address Saulide bloodguilt.
+
 v08: The Masoretic Text reads “Michal daughter of Saul,” but Michal is elsewhere said to have had no child, and 1 Samuel 18:19 identifies Merab as Adriel’s wife. Many textual traditions therefore read Merab here. TSW follows the contextual correction “Merab” and records the Masoretic difficulty.
+
 v10: Rizpah’s long vigil over the exposed bodies is an act of maternal loyalty and protest against desecration, lasting from barley harvest until rain.
+
 v12: Jabesh-Gilead had recovered Saul and Jonathan’s bodies after the Philistines displayed them at Beth-Shan. David now gathers their remains for formal family burial.
+
 v14: The statement that God was entreated for the land comes only after burial of Saul’s house, suggesting that proper treatment of the dead belongs to the resolution of the bloodguilt crisis.
+
 v16: “descendants of the giant” translates a term likely related to the Rephaim. The exact ancestral designation is uncertain.
+
 v17: David is called “the lamp of Israel,” shifting his role from warrior to indispensable symbol of national continuity.
+
 v19: The Masoretic Text says Elhanan killed Goliath, while 1 Chronicles 20:5 says he killed Lahmi brother of Goliath. The Samuel text likely reflects a textual difficulty. TSW preserves the Masoretic wording and notes the parallel.
+
 v20: The twenty-four digits are presented as a sign of extraordinary stature within the giant-warrior tradition.
 
 ## Vocabulary

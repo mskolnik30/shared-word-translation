@@ -118,6 +118,7 @@ v27: Then the king answered and said, “Give her the living child, and by no me
 <p>
 v28: All Israel heard the judgment that the king had given, and they stood in awe of the king, for they saw that the wisdom of God was within him to do justice.
 </p>
+
 ## Notes
 
 v11: “The life of your enemies” is an idiom for their death or destruction.

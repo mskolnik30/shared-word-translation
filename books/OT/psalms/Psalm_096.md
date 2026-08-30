@@ -60,12 +60,19 @@ for he comes to judge the earth.
 He will judge the world in righteousness,
 and the peoples in his faithfulness.
 </p>
+
 ## Notes
+
 v01–03: Praise is expansive and ongoing (“new song…day to day…among the nations”).  
+
 v04–06: Divine uniqueness is contrasted with idols; creation grounds authority.  
+
 v07–09: Worship is both verbal (“ascribe”) and embodied (“bring…come…tremble”).  
+
 v10: God’s reign stabilizes the world and defines justice.  
+
 v11–12: Creation participates in praise, not merely observes it.  
+
 v13: Judgment is framed positively—as righteousness and faithfulness.  
 
 ## Vocabulary
@@ -96,4 +103,3 @@ v13: שָׁפַט (shaphat)
 
 v13: אֱמוּנָה (emunah)
 “Faithfulness.” Reliability.
-

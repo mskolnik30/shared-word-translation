@@ -92,14 +92,23 @@ v30: Thus the LORD saved Israel that day from the hand of the Egyptians, and Isr
 
 v31: Israel saw the great power that the LORD used against the Egyptians, so the people feared the LORD, and they trusted in the LORD and in Moses his servant.
 </p>
+
 ## Notes
+
 v19–20: The divine presence shifts position—from leading to guarding—indicating tactical protection. Light and darkness function simultaneously, dividing the two camps.
+
 v21: The “east wind” (ruach) evokes both natural force and divine agency; creation imagery is implicit in the dividing of waters.
+
 v22: “Wall” language heightens the miraculous structure of the passage—order imposed on chaos.
+
 v23–25: Egyptian pursuit mirrors Israel’s path, but the same space yields opposite outcomes. Divine “looking down” signals intervention.
+
 v25: Recognition comes too late—Egypt names the theological reality: “the LORD fights.”
+
 v26–28: Reversal is total. The sea that opened now closes; the means of deliverance becomes the means of judgment.
+
 v29: Repetition reinforces contrast—Israel passes safely where Egypt perishes.
+
 v30–31: The sequence is theological: deliverance → perception → fear → trust. Faith emerges from witnessed action.
 
 ## Vocabulary

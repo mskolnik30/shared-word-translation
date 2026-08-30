@@ -66,21 +66,37 @@ v17: Therefore he had to be made like his brothers in every respect, so that he 
 
 v18: For because he himself has suffered when tempted, he is able to help those who are being tempted.
 </p>
+
 ## Notes
+
 v01: Attention is framed as preventative; drifting is gradual.  
+
 v02: Past reliability establishes present accountability.  
+
 v03: Neglect, not rejection, is the concern.  
+
 v04: Witness is multi-layered: human and divine.  
+
 v05: The world to come is distinguished from the present.  
+
 v06–08: Citation is introduced without precise source.  
+
 v08: Fulfillment is partial; tension remains.  
+
 v09: Identification with humanity is temporary but purposeful.  
+
 v10: Suffering is presented as fitting, not accidental.  
+
 v11: Unity is asserted without explanation of mechanism.  
+
 v12–13: Relationship is expressed through shared identity.  
+
 v14–15: Death is both means and target.  
+
 v16: Scope is specified; assistance is selective.  
+
 v17: Likeness enables role; role defines function.  
+
 v18: Experience grounds capacity to help.  
 
 ## Vocabulary

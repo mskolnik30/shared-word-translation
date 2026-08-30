@@ -44,20 +44,35 @@ v13: All the saints greet you.
 <p>
 v14: The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.
 </p>
+
 ## Notes
+
 v01: The citation of “two or three witnesses” frames the coming visit in juridical terms. Presence will confirm what has been warned.
+
 v02: Warning is repeated across visits and absence. Time does not lessen accountability.
+
 v03: The Corinthians’ demand for “proof” is turned back on them. Christ’s power is already “among” them.
+
 v04: Weakness and power are held together in Christ’s crucifixion and life. Paul extends this pattern to apostolic life.
+
 v05: Self-examination is required. The question is not Paul’s legitimacy alone but their participation in the faith.
+
 v06–07: Approval is relativized. What matters is that the community does what is right, even if Paul appears discredited.
+
 v08: Truth is not a tool at Paul’s disposal but a boundary he cannot cross.
+
 v09: Weakness is reinterpreted as aligned with the community’s strength. Restoration, not vindication, is the aim.
+
 v10: Authority is defined by purpose—“building up,” not destruction—though severity remains possible.
+
 v11: A series of imperatives gathers communal life into restoration, unity, and peace.
+
 v11: The promise of God’s presence is tied to the practice of these dispositions.
+
 v12: The “holy kiss” functions as embodied reconciliation and mutual recognition.
+
 v13: “All the saints” situates the community within a wider fellowship.
+
 v14: The closing blessing names grace, love, and fellowship without collapsing them, preserving distinction within unity.
 
 ## Vocabulary
@@ -106,4 +121,3 @@ v14: χάρις (charis)
 
 v14: κοινωνία (koinōnia)
 “Fellowship.” Shared participation and communion.
-

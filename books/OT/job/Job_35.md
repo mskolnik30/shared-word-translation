@@ -68,12 +68,19 @@ and he does not greatly recognize arrogance,
 v16: Job opens his mouth in emptiness;
 without knowledge he multiplies words.”
 </p>
+
 ## Notes
+
 v02–03: Elihu interprets Job’s questions about the value of righteousness as though Job claims superiority over God. Job’s actual argument has been more specifically about the apparent lack of moral correspondence in the world.
+
 v05–08: Elihu emphasizes divine transcendence: human behavior does not enrich or diminish God as it affects fellow humans. The point does not mean God is indifferent to morality.
+
 v09–13: Elihu acknowledges widespread oppression and unanswered cries but attributes failure of response to pride and empty appeal. The explanation risks sounding similar to the friends’ assumptions about sufferers.
+
 v10: “songs in the night” portrays God as capable of giving praise or hope within darkness, though Elihu does not show how this applies to Job’s present experience.
+
 v14: Elihu tells Job that the case he wants is already before God and that waiting, rather than demanding immediate visibility, is required.
+
 v15: The Hebrew is difficult, especially the final term translated “arrogance.” TSW preserves the broad sense of Elihu’s claim that delayed judgment has contributed to Job’s bold speech.
 
 ## Vocabulary

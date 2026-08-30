@@ -74,6 +74,7 @@ v22: I will enter into judgment with him through pestilence and bloodshed. Torre
 <p>
 v23: I will show myself great and holy, and make myself known in the sight of many nations. Then they will know that I am the LORD.’
 </p>
+
 ## Notes
 
 v02–03: “Chief prince of Meshech and Tubal” follows the traditional reading of *rosh* as “chief.” The Hebrew may also be read as a place-name, “prince of Rosh, Meshech, and Tubal.” The text does not identify Gog with a contemporary nation; it gathers distant peoples into a symbolic hostile force.

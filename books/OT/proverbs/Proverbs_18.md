@@ -138,14 +138,23 @@ may come to ruin,
 but there is a friend
 who sticks closer than a sibling.
 </p>
+
 ## Notes
+
 v01: Isolation becomes destructive when it serves only private desire and refuses the corrective wisdom of others.
+
 v08: Gossip is attractive precisely because it tastes good to the listener. The proverb recognizes why destructive speech spreads so effectively.
+
 v10–11: Two sources of security are placed beside one another: the LORD’s name as genuine refuge and wealth as an imagined high wall.
+
 v13: Wisdom requires listening before response. Rapid certainty without hearing is treated as both foolish and shameful.
+
 v17: A persuasive first account can appear decisive until it is subjected to examination. Justice requires hearing more than one side.
+
 v19: Relational injury can create defenses more difficult to cross than military fortifications.
+
 v21: Speech is not treated as harmless. Words can participate in both life-giving and destructive realities.
+
 v24: A large social network is not necessarily equivalent to loyal friendship.
 
 ## Vocabulary

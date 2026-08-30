@@ -83,6 +83,7 @@ v17: But I am poor and needy;
   You are my help and my deliverer;
   O my God, do not delay!
 </p>
+
 ## Notes
 
 v01: “I waited and waited” — The doubled language stresses long endurance; trust is practiced over time, not proved in a moment.

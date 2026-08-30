@@ -40,12 +40,19 @@ v14: And let our people learn to devote themselves to good works, so as to help 
 
 v15: All who are with me send greetings to you. Greet those who love us in the faith. Grace be with you all.
 </p>
+
 ## Notes
+
 v09: Disputes are evaluated by usefulness rather than content.
+
 v10–11: Division is addressed through measured warning and separation.
+
 v11: Condition is described as self-determined.
+
 v12–13: Movement and coordination are assumed without explanation.
+
 v14: Good works are directed toward practical need.
+
 v15: Closing maintains relational continuity and shared identity.
 
 ## Vocabulary
@@ -87,4 +94,3 @@ v14: ἄκαρπος (akarpos)
 
 v15: χάρις (charis)
 “Grace.” Favor given freely.
-

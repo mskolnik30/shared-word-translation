@@ -62,20 +62,35 @@ v19: So then the Lord Jesus, after speaking to them, was taken up into heaven an
 
 v20: And they went out and proclaimed everywhere, while the Lord worked with them and confirmed the word through the signs that followed.
 </p>
+
 ## Notes
+
 v01: The women come to anoint a dead body; their faithfulness does not yet anticipate resurrection.
+
 v02: “The first day of the week” marks a new temporal beginning without explicit theological exposition.
+
 v03–04: The practical question about the stone is answered before any announcement is heard.
+
 v05: The young man’s presence inside the tomb turns the place of death into a place of revelation.
+
 v06: “He has been raised” uses passive language, leaving God’s action implied.
+
 v07: Peter is named separately, preserving hope after denial.
+
 v08: Fear and silence leave the earliest ending unresolved and rhetorically open.
+
 v09–20: These verses are absent from some of the earliest manuscripts and are widely regarded as a later ending to Mark. They are included here as part of the received textual tradition, with the textual issue acknowledged.
+
 v11: The first report of resurrection is met with unbelief, continuing Mark’s pattern of failed perception.
+
 v15: The scope expands to “all creation,” giving the proclamation cosmic breadth.
+
 v16: Belief and baptism are joined, while condemnation is attached to unbelief.
+
 v17–18: Signs accompany proclamation but are not presented as the center of the commission.
+
 v19–20: The longer ending concludes with exaltation and continuing divine confirmation.
+
 v09–20: The longer ending is absent from the earliest and strongest Greek witnesses. It is retained here as an ancient textual tradition with its textual status stated explicitly.
 
 ## Vocabulary

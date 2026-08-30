@@ -82,11 +82,17 @@ v28: He made the poles of acacia wood and overlaid them with gold.
 
 v29: He made the holy anointing oil and the pure fragrant incense, the work of a perfumer.
 </p>
+
 ## Notes
+
 v01–29: The chapter deliberately repeats much of the commanded design from Exodus 25 and 30. The repetition verifies that the artisans made the sacred objects according to the revealed pattern.
+
 v06: *Kapporet* is rendered “cover,” as in Exodus 25. Its ritual significance later includes atonement, but the object itself is the gold cover over the ark.
+
 v07–09: The cherubim are formed from the same hammered gold as the cover, visually joining the ark’s cover and the throne-associated heavenly figures.
+
 v17–24: The lampstand again combines floral imagery with hammered gold, producing a crafted form that resembles living growth.
+
 v29: Bezalel’s work includes not only metal and wood but also the compounded anointing oil and incense, showing craftsmanship across multiple materials.
 
 ## Vocabulary

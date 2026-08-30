@@ -97,20 +97,35 @@ v23: Jesus went throughout Galilee, teaching in their synagogues and proclaiming
 v24: So his fame spread throughout all Syria, and they brought to him all the sick, those afflicted with various diseases and pains, demoniacs, epileptics, and paralytics, and he cured them.
 v25: And great crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and from beyond the Jordan.
 </p>
+
 ## Notes
+
 v01: Jesus is led by the Spirit into the wilderness. Testing is not opposed to God’s will; it occurs within it. The text does not explain purpose or outcome in advance.
+
 v02: Hunger is named plainly. Jesus’ vulnerability is real, not symbolic.
+
 v03: The first temptation addresses identity: “If you are the Son of God.” The question presses Jesus to secure identity through power rather than trust.
+
 v04: Jesus responds with Scripture, not argument. Life is defined as dependence, not self-sufficiency.
+
 v05–06: Scripture itself is used as temptation. The issue is not citation, but misuse—forcing God’s faithfulness rather than receiving it.
+
 v07: Jesus refuses to test God. Trust is distinguished from spectacle.
+
 v08–09: The final temptation offers dominion without suffering. Power is separated from obedience and offered as a shortcut.
+
 v10: Jesus’ refusal is decisive. Worship and service are named as exclusive, not negotiable.
+
 v11: Angels attend Jesus after the testing, not before. Provision follows endurance.
+
 v12: Jesus withdraws upon hearing of John’s arrest. Withdrawal here is movement toward vocation, not avoidance.
+
 v17: Jesus’ proclamation echoes John’s, but the nearness of the kingdom now accompanies his presence.
+
 v18–22: The call of the disciples is immediate and disruptive. Following involves leaving real relationships and livelihoods.
+
 v23: Teaching, proclamation, and healing are held together. No single activity defines Jesus’ ministry.
+
 v25: Crowds gather from diverse regions. The ministry draws beyond expected boundaries without explanation.
 
 ## Vocabulary

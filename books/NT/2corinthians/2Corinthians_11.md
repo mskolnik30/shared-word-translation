@@ -108,23 +108,41 @@ v32: In Damascus, the governor under King Aretas was guarding the city of the Da
 
 v33: but I was let down in a basket through a window in the wall and escaped his hands.
 </p>
+
 ## Notes
+
 v01–02: “Foolishness” frames Paul’s rhetoric. He adopts the category he critiques in order to expose it.  
+
 v02: “Divine jealousy” is covenantal language. The community is imagined relationally, not institutionally.  
+
 v03: The reference to Eve introduces deception as misdirection of thought, not merely action.  
+
 v04: Multiplicity (“another Jesus…different spirit…different good news”) signals distortion without specifying content.  
+
 v05–06: Paul concedes rhetorical weakness while asserting epistemic clarity.  
+
 v07–09: Refusal of support is interpreted by opponents as weakness; Paul reframes it as intentional.  
+
 v08: “Robbed” is ironic. Support from other churches enabled service without burdening Corinth.  
+
 v12: Paul’s strategy is preventative—removing grounds for comparison.  
+
 v13–15: Disguise is central. Appearance and reality are not aligned.  
+
 v16–18: Paul marks his own speech as “not according to the Lord,” signaling rhetorical distance even as he proceeds.  
+
 v19–21: Irony intensifies. The community tolerates domination while questioning Paul’s restraint.  
+
 v22–23: Identity claims are matched and then exceeded through suffering rather than status.  
+
 v24–27: The accumulation of hardships functions as evidence, not complaint.  
+
 v28: External suffering is paired with internal pressure (“concern for all the churches”).  
+
 v29: Identification with others’ weakness defines Paul’s posture.  
+
 v30: Boasting is inverted. Weakness becomes the legitimate ground.  
+
 v32–33: The escape from Damascus concludes with vulnerability rather than triumph.  
 
 ## Vocabulary

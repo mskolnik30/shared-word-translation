@@ -62,14 +62,23 @@ v16: Then this Sheshbazzar came and laid the foundations of the house of God in 
 <p>
 v17: “And now, if it seems good to the king, let a search be made in the royal treasury there in Babylon to see whether a decree was issued by King Cyrus to rebuild this house of God in Jerusalem. Then let the king send us his decision concerning this matter.”
 </p>
+
 ## Notes
+
 v01: Haggai and Zechariah are the same prophetic figures whose books preserve oracles connected with the rebuilding of the temple.
+
 v02: The rebuilding resumes through the combined action of civic leaders and prophets. Prophecy is described not merely as speech but as active support for the work.
+
 v03: “complete this structure” translates an Aramaic term whose precise architectural sense is debated; it can refer to the structure, walls, or finishing of the building.
+
 v05: “the eye of their God was upon the elders” is an image of protective divine attention. Persian officials investigate, but the work is allowed to continue while the matter is appealed.
+
 v06: The chapter remains in Aramaic, continuing the imperial-document section that began in Ezra 4:8.
+
 v11–12: The Judean elders interpret exile theologically rather than simply politically: Babylon succeeded because Israel’s ancestors provoked the God of heaven.
+
 v13: Cyrus is called “king of Babylon” here because Babylon was among the territories under his rule after its conquest. Elsewhere he is more commonly called king of Persia.
+
 v14–16: Sheshbazzar is credited with receiving the temple vessels and laying the foundation. Ezra 3 emphasizes Zerubbabel and Jeshua in the rebuilding. TSW preserves both traditions without collapsing the figures into one person.
 
 ## Vocabulary

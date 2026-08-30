@@ -35,20 +35,35 @@ v14: Since then we have a great priest who has passed through the heavens—Jesu
 v15: For we do not have a priest who is unable to sympathize with our weaknesses, but one who in every way has been tested as we are, yet without sin.
 v16: Let us therefore draw near with confidence to the throne of grace, so that we may receive mercy and find grace for timely help.
 </p>
+
 ## Notes
+
 v01: “promise… still stands… let us fear” — The warning is pastoral, not panic: treat the promise as real and the drift as real.  
+
 v02: “good news… did not benefit… not united with trust” — Hearing alone is insufficient; the message becomes effective when joined to trust and responsive obedience.  
+
 v03: “we who have trusted enter” — Rest is entered by trust, not earned by spiritual labor, even as perseverance is required.  
+
 v04–05: “God rested… ‘They shall not enter’” — Scripture is read as a unified witness: God’s rest is ancient, yet some are barred by hard-hearted refusal.  
+
 v06: “failed… because of disobedience” — The barrier is not lack of information but resistant will; unbelief shows itself as disobedience.  
+
 v07: “Today… do not harden your hearts” — The invitation is present-tense; “today” names the urgency of responsiveness while the door is open.  
+
 v08: “if Joshua had given… rest” — The conquest did not exhaust God’s promise; rest is more than land, more than political settlement.  
+
 v09: “a Sabbath rest remains” — Hope is still alive; God’s people are oriented toward a deeper Sabbath reality, not merely a weekly pause.  
+
 v10–11: “rested from their works… make every effort” — A deliberate paradox: we strive to enter rest. The “effort” is persevering trust that refuses the old pattern of hardening.  
+
 v12: “word of God… living… discerning” — God’s word is not only comfort; it is surgical truth that exposes the inner life—thoughts, motives, self-deception.  
+
 v13: “naked and laid bare… give account” — The passage intensifies accountability: nothing is hidden, so honesty is the only viable posture before God.  
+
 v14: “great priest… passed through the heavens” — Jesus’ priesthood is cosmic in scope; he mediates access beyond earthly sanctuary limits.  
+
 v15: “sympathize… tested… without sin” — Jesus’ solidarity is real, not theoretical; he knows the pressure of testing while remaining faithful.  
+
 v16: “draw near with confidence… throne of grace” — The climax is invitation: because of Jesus, bold access replaces avoidance, and grace is promised as “timely help” in actual need.  
 
 ## Vocabulary

@@ -154,16 +154,27 @@ v40: but Paul chose Silas and went out, being commended by the brothers to the g
 <p>
 v41: And he was passing through Syria and Cilicia, strengthening the churches.
 </p>
+
 ## Notes
+
 v01–02: Central issue concerns the basis of salvation.  
+
 v07–11: Peter affirms equality through grace and Spirit.  
+
 v10: Law is described as an unbearable yoke.  
+
 v12: Signs validate Gentile inclusion.  
+
 v13–18: Scripture confirms present events.  
+
 v19–21: Minimal requirements preserve unity without imposing law.  
+
 v28: Decision is attributed jointly to Spirit and community.  
+
 v30–31: Reception produces encouragement and joy.  
+
 v36–41: Mission continues despite relational division.  
+
 v34: This verse is absent from the earliest and strongest Greek witnesses; later manuscripts add that Silas decided to remain. Public verse numbering is retained.
 
 ## Vocabulary

@@ -84,15 +84,25 @@ v29: When he came to his house, he took a knife, took hold of his concubine, and
 
 v30: Everyone who saw it said, “Nothing like this has happened or been seen from the day the children of Israel came up from the land of Egypt until this day. Consider it, take counsel, and speak.”
 </p>
+
 ## Notes
+
 v01: The refrain “there was no king in Israel” frames the narrative as part of Judges’ final portrayal of social and covenantal collapse.
+
 v02: The Hebrew verb describing the concubine’s action is textually difficult. It can be read as sexual unfaithfulness or as anger/estrangement. TSW follows the traditional reading while recognizing the uncertainty.
+
 v03: “speak to her heart” — The idiom means to speak tenderly or persuasively. The narrative does not tell us her response.
+
 v12: The Levite refuses to stay in a foreign city because he expects greater safety among Israelites. What follows overturns that expectation.
+
 v22: “know him” — The verb *yada* can be a euphemism for sexual relations. The surrounding violence makes the sexual threat explicit.
+
 v24–25: The offering and abuse of the women are narrated as part of the chapter’s moral horror, not as acceptable hospitality practice. The text exposes a social order in which vulnerable women are treated as expendable.
+
 v25: The repeated sexual violence is stated directly but without graphic expansion beyond the Hebrew narrative.
+
 v29: The dismemberment of the concubine transforms her violated body into a summons to national outrage. The narrative offers no explicit word of grief from the Levite.
+
 v30: The response deliberately reaches back to the exodus as the horizon of Israel’s shared memory. The event is presented as unprecedented within Israel’s life.
 
 ## Vocabulary

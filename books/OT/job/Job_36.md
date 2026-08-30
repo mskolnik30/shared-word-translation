@@ -130,13 +130,21 @@ and commands it concerning the target.
 v33: His thunder declares his presence;
 the cattle also declare what is coming.
 </p>
+
 ## Notes
+
 v03: Elihu’s stated purpose is to “give righteousness” to his Maker—to defend God’s justice. This self-understanding distinguishes his speech from Job’s attempt to vindicate himself.
+
 v05: “does not reject” is a striking claim after Job repeatedly experienced rejection. Elihu describes divine might as compatible with attention rather than indifference.
+
 v08–12: Elihu interprets suffering as a means through which God exposes arrogance and opens the ear to discipline. The framework remains corrective and pedagogical.
+
 v15: “delivers the afflicted through their affliction” is Elihu’s most concise theology of suffering: suffering can become the very medium of deliverance rather than only punishment.
+
 v18–21: The Hebrew of these lines is difficult. The general warning is against allowing anger, wealth, or longing for escape to draw Job away from faithful endurance.
+
 v27–33: Elihu turns from moral argument toward weather and divine power. This transition prepares literarily for the LORD’s coming speech from the storm.
+
 v33: The final Hebrew line is especially obscure. TSW follows the sense that animals perceive or announce the approaching storm.
 
 ## Vocabulary

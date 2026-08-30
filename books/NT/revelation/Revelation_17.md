@@ -52,23 +52,41 @@ v17: for God has put it into their hearts to carry out his purpose by being of o
 
 v18: And the woman that you saw is the great city that has dominion over the kings of the earth.”
 </p>
+
 ## Notes
+
 v01: The vision is framed as judgment before explanation.
+
 v01–02: The woman’s influence is relational and pervasive.
+
 v03: The setting shifts to wilderness, contrasting prior imagery.
+
 v04: External adornment contrasts with internal corruption.
+
 v05: The name is presented as “mystery,” not resolved immediately.
+
 v06: Violence is internalized; the woman is sustained by what she consumes.
+
 v07: Interpretation is mediated; John is corrected rather than affirmed.
+
 v08: Temporal language (“was…is not…is to come”) is patterned but unresolved.
+
 v09–10: Symbols are partially interpreted; overlap is not resolved.
+
 v11: The sequence expands without clarifying structure.
+
 v12: Authority is temporary and shared.
+
 v13: Unity is directed toward a single purpose.
+
 v14: Conflict with the Lamb is decisive but not described in detail.
+
 v15: The waters are explicitly identified, unlike earlier symbols.
+
 v16: Destruction turns inward; allies become agents.
+
 v17: Divine purpose operates through human intention without explanation.
+
 v18: The woman is identified as a city, but meaning remains layered.
 
 ## Vocabulary
@@ -120,4 +138,3 @@ v17: σκοπός (skopos)
 v18: πόλις (polis)
 
 “City.” Organized center of power or influence.
-

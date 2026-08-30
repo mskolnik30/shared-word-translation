@@ -49,10 +49,15 @@ and bless your inheritance;
 shepherd them and carry them
 forever.
 </p>
+
 ## Notes
+
 v01: The plea moves from God’s apparent deafness to God’s silence. Both images express the terror of being left without an answer, a condition likened to joining those who descend to the Pit.  
+
 v04–05: The request for recompense is grounded in the opponents’ disregard for the LORD’s works. Their destructive end mirrors their failure to recognize what God does and makes.  
+
 v08: “For them” is plural, while “his anointed one” is singular. The verse may hold together the people and their king without specifying precisely how they relate.  
+
 v09: The closing prayer joins images of inheritance, shepherding, and carrying. God’s saving care is asked not only for present rescue but “forever.”  
 
 ## Vocabulary

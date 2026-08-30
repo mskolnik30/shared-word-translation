@@ -48,15 +48,25 @@ v12: all the valiant men arose and walked all night. They took the body of Saul 
 
 v13: They took their bones and buried them under the tamarisk tree at Jabesh, and they fasted seven days.
 </p>
+
 ## Notes
+
 v01–06: The book ends Saul’s reign not with a palace scene but in military collapse on Mount Gilboa, where Jonathan and Saul’s other sons also die.
+
 v03: The Hebrew can mean Saul was badly wounded or greatly terrified by the archers. TSW follows the wound sense.
+
 v04: Saul’s fear is not only death but postmortem or pre-death abuse by Philistine enemies.
+
 v04–05: 2 Samuel 1 preserves a different account from an Amalekite who claims to have killed Saul after Saul requested it. 1 Samuel 31 states that Saul fell on his own sword. TSW preserves both narratives without harmonization.
+
 v06: “All his men” likely refers to those immediately around Saul rather than every Israelite soldier, since survivors remain elsewhere.
+
 v09: Philistine proclamation turns Saul’s death into religious propaganda within the temples of their gods.
+
 v10: 1 Chronicles 10:10 places Saul’s head in the house of Dagon and his armor in a divine house. The parallel account differs in detail.
+
 v12: Burning the bodies may have been necessary because of mutilation or may represent an unusual funerary response. Cremation is not the normal Israelite burial practice.
+
 v11–13: Jabesh-Gilead repays Saul’s earlier rescue in chapter 11 through courageous recovery and burial of his remains.
 
 ## Vocabulary

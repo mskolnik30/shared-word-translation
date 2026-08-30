@@ -58,11 +58,17 @@ v18: Jeremiah said to the house of the Rechabites, “Thus says the LORD of Host
 
 v19: therefore thus says the LORD of Hosts, the God of Israel: Jonadab son of Rechab will never lack a man to stand before me all the days.”
 </p>
+
 ## Notes
+
 v02–05: Jeremiah’s offer of wine is a prophetic test, not an invitation to disobey the LORD. The Rechabites’ refusal becomes an enacted comparison with Judah’s refusal to hear divine instruction.
+
 v06–10: The Rechabite way of life includes abstention from wine, agriculture, permanent houses, and land possession. The chapter reports this ancestral discipline without making it a universal command for Israel.
+
 v11: Their residence in Jerusalem is an emergency adaptation to war, not abandonment of their ancestral commitment.
+
 v14: The contrast turns on listening: the Rechabites obey a human ancestor across generations, while Judah refuses repeated speech from the LORD.
+
 v19: “stand before me” can describe enduring service or recognized standing in the LORD’s presence. The precise institutional form of the promise is not specified.
 
 ## Vocabulary

@@ -47,10 +47,15 @@ v17: O the LORD, why do you make us to err from your ways, and harden our heart 
 v18: Your holy people possessed it but a little while: our adversaries have trodden down your sanctuary.
 v19: We are become as they over whom you never bear rule, as those who were not called by your name.
 </p>
+
 ## Notes
+
 v03: The warrior’s blood-red garments are explained through the winepress image of judgment. The poetry is intentionally violent and is retained without softening.  
+
 v17: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+
 v16: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
+
 v01: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
 
 ## Vocabulary
@@ -66,4 +71,3 @@ v17: עֶבֶד (eved)
 
 v16: גֹּאֵל (go'el)
 “Redeemer.” One who reclaims, defends, or restores within a family or legal relationship.
-

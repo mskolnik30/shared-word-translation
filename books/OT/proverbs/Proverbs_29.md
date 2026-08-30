@@ -154,14 +154,23 @@ is an abomination to the righteous,
 and one whose way is upright
 is an abomination to the wicked.
 </p>
+
 ## Notes
+
 v01: Repeated correction can cease to be effective when resistance itself becomes habitual.
+
 v04: Justice stabilizes political life, while rule organized around gifts or exactions consumes the land.
+
 v07: Righteousness includes understanding the legal and material claims of the poor.
+
 v11: Wisdom is not emotional absence but the capacity to govern expression rather than being governed by it.
+
 v18: “Vision” refers to prophetic revelation, not simply personal ambition or strategic planning. When divine instruction is absent or ignored, social restraint breaks down.
+
 v21: The Hebrew final noun is rare and uncertain. It may refer to the servant becoming an heir or otherwise assuming an inappropriate status within the household.
+
 v24: The person associated with a thief becomes trapped: speaking exposes complicity, while silence under oath carries guilt.
+
 v25: Fear of human approval or retaliation can become captivity; trust in the LORD provides a different security.
 
 ## Vocabulary

@@ -67,8 +67,11 @@ v20: God has not dealt this way with any other nation;
 as for the judgments, they have not known them.
 Praise the LORD!
 </p>
+
 ## Notes
+
 v10: The parallelism contrasts military strength—warhorse and warrior—with the reverent trust that delights the LORD. The verse does not condemn bodily strength in itself.
+
 v17: The Hebrew compares hail or ice to scattered morsels. “Crumbs” preserves the small-piece image while the next line stresses the severity of the cold.
 
 ## Vocabulary

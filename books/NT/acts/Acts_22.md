@@ -106,15 +106,25 @@ v29: Therefore those who were about to examine him withdrew from him immediately
 <p>
 v30: And on the next day, wanting to know the certainty of why he was being accused by the Jews, he released him and commanded the chief priests and all the council to assemble, and bringing Paul down, he set him before them.
 </p>
+
 ## Notes
+
 v01–02: Use of Hebrew language establishes connection with audience.  
+
 v03–05: Paul grounds his authority in shared Jewish credentials.  
+
 v06–11: Encounter with Jesus redefines prior zeal.  
+
 v14–15: Calling includes revelation and universal witness.  
+
 v16: Baptism is linked with cleansing and invocation of Jesus’ name.  
+
 v17–21: Mission to Gentiles is divinely directed.  
+
 v22: Rejection is triggered specifically by Gentile inclusion.  
+
 v25–29: Roman citizenship functions as legal protection.  
+
 v30: Authority seeks formal clarification through council procedure.  
 
 ## Vocabulary

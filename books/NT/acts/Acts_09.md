@@ -144,17 +144,29 @@ v42: And it became known throughout all Joppa, and many believed in the Lord.
 
 v43: And it happened that he stayed many days in Joppa with a certain Simon, a tanner.
 </p>
+
 ## Notes
+
 v03–06: Encounter with Jesus redefines persecution as opposition to him personally.
+
 v09: Blindness prepares for reorientation.
+
 v15–16: Calling includes both mission and suffering.
+
 v17–18: Healing, Spirit reception, and baptism form a unified initiation.
+
 v20–22: Immediate proclamation demonstrates transformed identity.
+
 v23–25: Early opposition mirrors prior activity of Saul.
+
 v27: Barnabas functions as mediator of acceptance.
+
 v31: Peace and growth occur simultaneously.
+
 v34–35: Healing leads to widespread turning.
+
 v40–41: Resurrection parallels earlier apostolic patterns.
+
 v42–43: Signs result in belief and extended presence.
 
 ## Vocabulary
@@ -225,4 +237,3 @@ v40: ἀνίστημι (anistēmi)
 v42: πιστεύω (pisteuō)
 
 “To believe.”
-

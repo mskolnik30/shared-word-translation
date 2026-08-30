@@ -76,6 +76,7 @@ for God’s steadfast love endures forever.
 v26: Give thanks to the God of heaven,
 for God’s steadfast love endures forever.
 </p>
+
 ## Notes
 
 Structure: Every verse ends with the same Hebrew refrain.

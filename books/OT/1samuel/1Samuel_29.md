@@ -39,13 +39,21 @@ v10: And now rise early in the morning, you and the servants of your lord who ca
 
 v11: So David arose early, he and his men, to go in the morning to return to the land of the Philistines. And the Philistines went up to Jezreel.
 </p>
+
 ## Notes
+
 v03: Achish’s confidence in David is the product of David’s long-running deception concerning his raids.
+
 v04: The Philistine commanders fear that battle with Israel would give David the perfect opportunity to regain Saul’s favor by turning against them.
+
 v05: The song that first provoked Saul’s jealousy now makes David unacceptable to Philistine leadership.
+
 v06: Achish swears “as the LORD lives,” using Israel’s divine name while speaking to David. Whether this reflects genuine recognition or accommodation is unclear.
+
 v08: David’s protest remains carefully ambiguous. He calls the opponents “the enemies of my lord the king” without explicitly naming whom he would fight.
+
 v09: “Like a messenger of God” is extravagant praise for David’s perceived reliability in Achish’s eyes.
+
 v11: David’s removal from the Philistine army prevents him from having to fight Israel in the battle that will kill Saul and Jonathan.
 
 ## Vocabulary

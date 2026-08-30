@@ -28,13 +28,21 @@ v09: but if you return to me and keep my commandments and do them, even if your 
 v10: They are your servants and your people, whom you redeemed by your great power and your strong hand.
 v11: Please, O Lord, let your ear be attentive to the prayer of your servant and to the prayer of your servants who delight to fear your name. Give success to your servant today and grant compassion before this man.” Now I was cupbearer to the king.
 </p>
+
 ## Notes
+
 v01: “Kislev” — The ninth month of the Judean calendar falls roughly in late autumn or early winter.
+
 v01: “the twentieth year” — The narrative dates events by the reign of Artaxerxes. The king is named explicitly in 2:1.
+
 v03: “great trouble and disgrace” — The physical condition of Jerusalem’s defenses carries social and communal shame as well as practical vulnerability.
+
 v05: “keeps covenant and steadfast love” — The prayer joins covenant faithfulness with *ḥesed*, enduring relational loyalty.
+
 v06: Nehemiah confesses corporately, identifying himself and his ancestral house with Israel’s sin rather than placing guilt only on earlier generations.
+
 v08–09: The prayer recalls covenantal warnings and promises associated especially with Deuteronomy. It appeals to the LORD’s own word rather than presenting restoration as entitlement.
+
 v11: “cupbearer” — The role placed Nehemiah in close proximity to the Persian king and involved significant trust.
 
 ## Vocabulary

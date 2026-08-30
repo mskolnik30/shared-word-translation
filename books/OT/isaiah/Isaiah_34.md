@@ -44,10 +44,15 @@ v16: Search in the book of the LORD, and read: not one of these will be missing.
 <p>
 v17: He has cast the lot for them, and his hand has divided it to them with a measuring line. They will possess it forever. From generation to generation they will dwell in it.
 </p>
+
 ## Notes
+
 v14: Several animal and wilderness terms are rare and difficult. The poetry intentionally depicts Edom’s judgment as a reversal from inhabited land to untamed desolation.  
+
 v08: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+
 v01: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+
 v16: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
 
 ## Vocabulary
@@ -63,4 +68,3 @@ v16: רוּחַ (ruach)
 
 v08: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-

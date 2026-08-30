@@ -108,25 +108,45 @@ v55: Now the Passover of the Judeans was near, and many went up to Jerusalem fro
 v56: They were looking for Jesus and saying to one another as they stood in the temple, “What do you think—that he will not come to the festival at all?”
 v57: Now the chief priests and the Pharisees had given orders that if anyone knew where Jesus was, they should report it, so that they might arrest him.
 </p>
+
 ## Notes
+
 v03: “the one you love is ill” — The appeal is relational, not transactional; need is voiced inside love.  
+
 v04: “for the glory of God… so that the Son of God may be glorified” — Glory here is not spectacle; it is God’s life-giving purpose revealed through loss and reversal.  
+
 v06: “he stayed two days longer” — Jesus’ delay is not indifference; the narrative forces a deeper question of trust when God’s timing feels wrong.  
+
 v09–10: “walks in the day… light… in them” — Jesus frames the journey as obedience in light; fear does not get the final vote in discernment.  
+
 v11–15: “fallen asleep… Lazarus has died… so that you may come to trust” — Jesus names death plainly, yet directs the moment toward deeper trust, not denial.  
+
 v16: Thomas: “Let us also go, that we may die with him” — Courage can be sincere and still incomplete; devotion mixes with misunderstanding.  
+
 v21–22: “If you had been here…” — Grief speaks truthfully to Jesus; lament and trust are allowed to coexist in the same breath.  
+
 v25–26: “I am the resurrection and the life… Do you trust this?” — The claim is personal before it is doctrinal: resurrection is not only an event, but Jesus’ own life shared.  
+
 v27: “I trust that you are the Christ” — Martha’s confession is a trust-statement in the midst of unresolved pain, not after everything is fixed.  
+
 v33: “deeply moved… troubled” — Jesus is not detached; he is shaken at death’s intrusion and the sorrow it causes.  
+
 v35: “Jesus wept” — The shortest line carries massive weight: divine compassion is embodied, not theoretical.  
+
 v39: “there will be a stench” — The text insists on the full reality of death; this is not a symbolic problem but a physical one.  
+
 v40: “if you trust, you will see the glory of God” — Trust is positioned as the doorway to perception; glory is seen on the far side of obedience.  
+
 v41–42: Jesus’ prayer — Jesus’ intimacy with the Father is public for the crowd’s sake, so that trust may be awakened in witnesses.  
+
 v44: “Unbind him, and let him go” — New life often requires communal participation; liberation includes practical, embodied unbinding.  
+
 v48: “everyone will trust in him” — Fear of losing power masquerades as public concern; institutions can oppose life when they feel threatened.  
+
 v51–52: Caiaphas “prophesied” — The gospel exposes ironic truth: God can speak through compromised motives to announce saving purpose.  
+
 v53–54: “they made plans… Jesus no longer walked openly” — The raising of Lazarus accelerates the conflict; life-giving power provokes lethal resistance.  
+
 v57: “report it… arrest him” — The chapter closes with surveillance and control; the powers of death reorganize in response to the sign of life.  
 
 ## Vocabulary

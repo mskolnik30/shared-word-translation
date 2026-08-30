@@ -58,12 +58,19 @@ Against Ashkelon
 and against the seacoast—
 there he has appointed it.”
 </p>
+
 ## Notes
+
 v01: The oracle is dated only relative to an Egyptian attack on Gaza; the specific historical campaign is uncertain.
+
 v02: An invading army is portrayed as floodwaters rising from the north, a recurring Jeremiah image for imperial invasion.
+
 v03: The scene deliberately violates expected parental response: terror is so complete that fathers do not turn back even for their children.
+
 v04: “Caphtor” is associated elsewhere with the ancestral homeland of the Philistines, commonly connected with the Aegean world or Crete.
+
 v05: Shaving the head and cutting the body are mourning practices. The verse portrays Philistine cities as already embodied in grief.
+
 v06–07: The prophet addresses the LORD’s sword as though it could choose to rest, but the answer insists that it moves under divine command.
 
 ## Vocabulary

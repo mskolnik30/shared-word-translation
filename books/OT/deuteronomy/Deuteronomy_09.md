@@ -82,16 +82,27 @@ v28: lest the land from which you brought us say, “Because the LORD was not ab
 
 v29: Yet they are your people and your inheritance, whom you brought out by your great power and your outstretched arm.’
 </p>
+
 ## Notes
+
 v01: “today” is rhetorical covenant time: Moses speaks on the threshold of crossing, even though the book contains an extended final address.
+
 v03: The LORD is called a “consuming fire,” echoing Deuteronomy 4:24, now in relation to conquest.
+
 v04–06: Moses explicitly denies that Israel receives the land because of its righteousness. The argument holds together the wickedness of the nations, the ancestral promise, and Israel’s own stubbornness.
+
 v07: “remember; do not forget” is deliberately repetitive. Covenant identity depends upon remembering not only deliverance but also Israel’s failures.
+
 v09–11: The tablets are called “tablets of the covenant,” identifying the Ten Words as the written core of the Horeb covenant.
+
 v18: Moses’ second forty-day fast is presented as intercession after the calf. Deuteronomy compresses and arranges the Sinai material to emphasize Moses’ mediating prayer.
+
 v20: Deuteronomy uniquely emphasizes that Aaron himself stood under threat of destruction and was preserved through Moses’ intercession.
+
 v21: The calf is called “your sin,” identifying the physical image with the covenant violation it embodies.
+
 v22: Taberah, Massah, and Kibroth-Hattaavah summarize multiple wilderness rebellions without retelling them.
+
 v26–29: Moses appeals to redemption, ancestral memory, divine reputation among nations, and Israel’s status as the LORD’s inheritance.
 
 ## Vocabulary

@@ -41,6 +41,7 @@ so that I may give thanks to your name.
 The righteous will gather around me
 because you deal bountifully with me.
 </p>
+
 ## Notes
 
 Superscription: “Maskil” is a literary or musical designation of uncertain meaning.

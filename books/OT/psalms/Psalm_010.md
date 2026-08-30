@@ -83,14 +83,23 @@ you will incline your ear
 v18: to do justice to the fatherless and the oppressed,
 so that man who is of the earth may strike terror no more.
 </p>
+
 ## Notes
+
 v01: The psalm opens with perceived divine absence.  
+
 v02–11: Extended description of the wicked—internal thoughts, speech, and actions.  
+
 v04: The denial of God is functional (“does not seek”), not merely intellectual.  
+
 v08–10: Predatory imagery emphasizes systemic exploitation of the vulnerable.  
+
 v11: The core illusion—God does not see.  
+
 v12–15: The psalmist counters by calling God to act in visible justice.  
+
 v14: Affirmation interrupts complaint—God does see and take notice.  
+
 v16–18: Final reorientation—God’s kingship ensures justice for the oppressed.  
 
 ## Vocabulary
@@ -139,4 +148,3 @@ v16: מֶלֶךְ (melekh)
 
 v18: שָׁפַט (shaphat)
 “To judge.” Execute justice.
-

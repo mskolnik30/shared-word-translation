@@ -48,10 +48,15 @@ they will not deliver themselves from the power of the flame: it will not be a c
 v15: Thus will the things be to you in which you have labored: those who have trafficked with you from your youth will wander everyone to his quarter;
 there will be none to save you.
 </p>
+
 ## Notes
+
 v01: Babylon is addressed as a royal woman brought suddenly from privilege to humiliation. The imagery targets imperial security and self-exaltation.  
+
 v04: “Holy One of Israel” — A characteristic Isaianic designation for the LORD, joining divine holiness with the LORD’s particular relationship to Israel.  
+
 v04: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+
 v04: “Redeemer” — The Hebrew *go’el* is a family and legal term for one who acts to reclaim, defend, or restore another; Isaiah applies it repeatedly to the LORD.  
 
 ## Vocabulary
@@ -70,4 +75,3 @@ v04: גֹּאֵל (go'el)
 
 v04: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-

@@ -81,20 +81,35 @@ v27: And Jacob came to Isaac his father at Mamre, at Kiriath-arba (that is, Hebr
 v28: Now the days of Isaac were one hundred eighty years.
 v29: And Isaac breathed his last and died and was gathered to his people, old and full of days. And Esau and Jacob his sons buried him.
 </p>
+
 ## Notes
+
 v01–04: The return to Bethel involves both physical movement and spiritual renewal. Foreign gods are removed before worship.
+
 v03: Jacob describes God as the one who answered him in distress and remained with him throughout his journeys.
+
 v05: The protection of Jacob's family is attributed directly to divine intervention.
+
 v07: Bethel becomes a place of remembrance, linking Jacob's present worship with God's earlier appearance.
+
 v08: Deborah's death is recorded briefly, yet the naming of the oak suggests deep mourning.
+
 v09–12: God renews the covenant promises given to Abraham and Isaac, now confirming them to Israel.
+
 v10: The renaming of Jacob as Israel is reaffirmed, emphasizing his transformed identity.
+
 v11: The promise expands from a single nation to a company of nations and future kings.
+
 v14–15: Jacob responds with worship, memorializing the place where God spoke with him.
+
 v16–20: Benjamin's birth is intertwined with Rachel's death. Joy and sorrow arrive together.
+
 v18: Rachel's name for her son reflects her suffering, while Jacob's name points toward future hope and strength.
+
 v22: Reuben’s act violates his father’s household and authority. The narrative records that Israel heard of it but gives no immediate response.
+
 v23–26: The completed list of twelve sons gathers Jacob’s household into the ancestral framework of the tribes of Israel.
+
 v27–29: Isaac's death closes another generation of the patriarchal story. Esau and Jacob are united in honoring their father.
 
 ## Vocabulary

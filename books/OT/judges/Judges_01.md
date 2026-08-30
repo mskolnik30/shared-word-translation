@@ -96,12 +96,19 @@ v35: The Amorites persisted in living in Mount Heres, Aijalon, and Shaalbim, but
 
 v36: The border of the Amorites was from the ascent of Akrabbim, from Sela and upward.
 </p>
+
 ## Notes
+
 v01: “Who shall go up first” — The question assumes that the land remains contested after Joshua’s death. Judges begins not with settled possession but with unfinished obedience and continuing conflict.
+
 v06–07: Adoni-Bezek interprets his mutilation as recompense corresponding to what he had inflicted on others. The narrative reports his interpretation without explicitly presenting the act as a general legal principle.
+
 v16: “Kenite” — The Kenites are associated with Moses’ father-in-law and later appear in close relationship with Israel while retaining a distinct identity.
+
 v19: “iron chariots” — The verse places the LORD’s presence beside Judah’s inability to drive out the inhabitants of the plain. The narrative does not explain away the tension.
+
 v24: “show you steadfast love” — The Hebrew *hesed* can describe covenant loyalty, kindness, or faithful dealing. Here it concerns sparing the man and his household in exchange for his help.
+
 v27–36: The repeated phrase “did not drive out” becomes the dominant pattern. The chapter moves from initial victories toward incomplete possession and accommodation.
 
 ## Vocabulary

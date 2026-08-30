@@ -58,12 +58,19 @@ v14: Look, these are only the edges of his ways,
 and what a whisper of a word we hear of him!
 But the thunder of his power—who can understand?”
 </p>
+
 ## Notes
+
 v02–04: Job’s opening is biting sarcasm. Bildad’s short speech has not actually helped, saved, counseled, or illuminated him.
+
 v05: “shades” — Hebrew *Rephaim* refers poetically to the dead. Even the realm beneath the waters trembles before God.
+
 v07: The poetic images of north, emptiness, earth, and nothingness present creation as suspended entirely by divine power rather than as a technical cosmology.
+
 v10: The “circle” marks the horizon or boundary where light and darkness meet over the waters.
+
 v12–13: Rahab and the fleeing serpent are chaos-monster imagery. God’s ordering power is portrayed through victory over the sea and cosmic serpent.
+
 v14: Job insists that even these vast divine acts are merely “edges” and a whisper of God’s ways. Human speech about divine power remains radically partial.
 
 ## Vocabulary

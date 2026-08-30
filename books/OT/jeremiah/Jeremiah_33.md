@@ -105,13 +105,21 @@ v25: Thus says the LORD: If my covenant with day and night does not stand, if I 
 
 v26: then I would reject the offspring of Jacob and David my servant, not taking from his offspring rulers over the offspring of Abraham, Isaac, and Jacob. For I will restore their fortunes and have compassion on them.”
 </p>
+
 ## Notes
+
 v03: The Hebrew term translated “inaccessible” literally describes things fortified or enclosed. The promise is of knowledge beyond Jeremiah’s present reach.
+
 v06: “healing and cure” extends the wound imagery of Jeremiah 30. Restoration is described as both bodily healing and revelation of abundant peace and faithfulness.
+
 v11: The thanksgiving refrain echoes liturgical language found elsewhere in Israel’s worship and places restored temple praise in the streets once silenced by judgment.
+
 v15–16: The Branch promise parallels Jeremiah 23:5–6, but here the name “The LORD Is Our Righteousness” is applied to Jerusalem rather than directly to the king.
+
 v17–18: Davidic kingship and Levitical priesthood are set together as enduring institutions within the promise.
+
 v20–26: The regularity of day, night, heaven, and earth becomes the analogy for divine covenant faithfulness.
+
 v14–26: These verses are absent from the ancient Greek form of Jeremiah, which is substantially shorter than the Masoretic form. TSW follows the Masoretic Text as its primary source and notes the significant textual difference.
 
 ## Vocabulary

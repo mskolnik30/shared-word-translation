@@ -101,36 +101,67 @@ v40: But Martha was distracted by much serving; and she came up and said, “Lor
 v41: But the Lord answered her, “Martha, Martha, you are anxious and troubled about many things;
 v42: but one thing is necessary. Mary has chosen the good portion, which will not be taken away from her.”
 </p>
+
 ## Notes
+
 v01: “seventy-two… in pairs” — The mission is communal, not heroic; witness is validated and sustained through shared labor.  
+
 v02: “ask the Lord of the harvest” — The first “strategy” is prayer; mission begins with dependence, not control.  
+
 v03: “lambs among wolves” — Jesus does not romanticize the work; vulnerability is assumed, not avoided.  
+
 v04: “carry no purse… greet no one” — This is urgent, focused travel and practiced reliance; the mission is not funded by anxiety.  
+
 v05–06: “Peace… child of peace” — Peace is offered as a gift, not forced as an outcome; it rests where it is received.  
+
 v07: “remain… the laborer deserves wages” — Stability matters; do not treat hospitality as a ladder for better options. Mutual provision is honored, not shamed.  
+
 v08–09: “eat what is set… heal… kingdom… near” — Table fellowship and embodied mercy carry the announcement; the reign of God comes with tangible care.  
+
 v10–11: “wipe off the dust… yet know this” — Even rejection becomes testimony; the message remains true even when unwelcome.  
+
 v12–15: “more bearable… woe… brought down” — Accountability is proportionate to light received; privilege without response becomes judgment.  
+
 v16: “listens to you… listens to me” — The emissaries represent Christ’s own presence; to dismiss them is to dismiss the Sender.  
+
 v17–20: “even the demons… names… written in heaven” — Power is not the ground of joy; identity and belonging with God are.  
+
 v18: “Satan fall like lightning” — Jesus frames their ministry as participation in a larger defeat of evil, not a personal achievement.  
+
 v19: “authority… nothing will harm you” — This is vocational assurance, not a guarantee of comfort; mission authority is real, but not a promise of risk-free discipleship.  
+
 v21: “rejoiced in the Holy Spirit… revealed to infants” — God’s disclosure is not a merit badge for intelligence; it is gift, received by the humble and open.  
+
 v22: “no one knows… except” — The passage holds a high Christology: the Son uniquely reveals the Father, and revelation is relational, not merely informational.  
+
 v23–24: “blessed are the eyes” — The disciples stand in a moment longed for across generations; gratitude, not entitlement, is the proper response.  
+
 v25: “to test him” — The question is framed as debate, but Jesus turns it toward life.  
+
 v26: “How do you read?” — Scripture interpretation is not neutral; the reader’s posture matters as much as the text.  
+
 v27: “love… heart… soul… strength… mind… neighbor” — Whole-person devotion to God is inseparable from practical love of neighbor.  
+
 v28: “do this, and you will live” — Not works-righteousness rhetoric, but covenantal clarity: life with God is enacted, not merely discussed.  
+
 v29: “wanting to justify himself” — The impulse is boundary-making: reducing neighbor-love to something manageable.  
+
 v30: “down from Jerusalem to Jericho” — The road signals danger and exposure; the victim is anonymous, so compassion cannot be filtered through affinity.  
+
 v31–32: “priest… Levite… passed by” — Religious proximity to holiness does not guarantee mercy; piety can coexist with avoidance.  
+
 v33: “a Samaritan… moved with compassion” — The expected outsider becomes the faithful neighbor; mercy is redefined beyond tribe, purity, and reputation.  
+
 v34–35: “bound up… oil and wine… two denarii… repay” — Compassion is costly, practical, and accountable; love spends, interrupts, and follows through.  
+
 v36–37: “proved to be a neighbor… Go, and do likewise” — The question shifts from “Who qualifies?” to “Who will I become?” Neighbor is a vocation, not a category.  
+
 v38: “welcomed him” — Hospitality is real discipleship, not a lesser calling; receiving Christ is a holy work.  
+
 v39: “sat at the Lord’s feet” — Mary is pictured in the posture of a disciple; Jesus welcomes her attentiveness as legitimate learning.  
+
 v40: “distracted… much serving” — Service becomes distorted when it is driven by anxiety and comparison rather than love.  
+
 v41–42: “anxious… one thing… good portion” — Jesus does not shame service; he names disordered urgency. The “one thing” is attentive communion that re-centers everything else.  
 
 ## Vocabulary

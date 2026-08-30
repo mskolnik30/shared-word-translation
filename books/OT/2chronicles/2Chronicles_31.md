@@ -68,11 +68,17 @@ v20: Thus Hezekiah did throughout all Judah. He did what was good and right and 
 
 v21: In every work that he began in the service of the house of God, and in the instruction and the commandment, to seek his God, he did it with all his heart and prospered.
 </p>
+
 ## Notes
+
 v01: The Passover renewal leads directly into broader reform across Judah and parts of the former northern kingdom.
+
 v04: Material support for priests and Levites is explicitly tied to their ability to devote themselves to Torah.
+
 v10: The surplus is interpreted as evidence of divine blessing rather than inefficient collection.
+
 v18: Households are included in the distribution system, reflecting the economic realities of priestly and Levitical service.
+
 v21: The chapter summarizes Hezekiah through whole-hearted seeking expressed in temple service, Torah, and commandment.
 
 ## Vocabulary

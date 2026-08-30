@@ -45,6 +45,7 @@ v22: Thus says the LORD GOD: "I will also take of the lofty top of the cedar and
 v23: On the high mountain of Israel I will plant it, that it may bear branches and produce fruit, and become a majestic cedar. Birds of every kind will dwell under it; they will dwell in the shade of its branches.
 v24: All the trees of the field will know that I am the LORD; I bring low the high tree, exalt the low tree, dry up the green tree, and make the dry tree flourish. I, the LORD, have spoken, and I will do it."
 </p>
+
 ## Notes
 
 ## Vocabulary

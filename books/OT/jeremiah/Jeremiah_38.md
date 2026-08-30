@@ -91,14 +91,23 @@ v28: Jeremiah remained in the court of the guard until the day Jerusalem was cap
 
 And it happened when Jerusalem was captured—
 </p>
+
 ## Notes
+
 v02: Jeremiah’s public message of survival through surrender is interpreted by officials as military demoralization. The same words can appear as treason politically and obedience prophetically.
+
 v05: Zedekiah’s statement exposes his political weakness: though king, he claims inability to resist his own officials.
+
 v06: The cistern contains mud rather than water, turning an ordinary water-storage structure into a place of slow death.
+
 v07: Ebed-Melech is identified as Cushite and as a court official. A foreign member of the royal household acts more justly toward the prophet than Judah’s leaders.
+
 v11–12: The worn rags placed under Jeremiah’s arms are an unusually detailed act of practical compassion within the violence of the siege.
+
 v17–23: Jeremiah’s counsel remains unchanged even in private: surrender is the path to life. Zedekiah’s fear of humiliation prevents him from accepting the offered path.
+
 v22: The women’s taunt reuses the image of sinking in mud, now applied metaphorically to Zedekiah’s political collapse after Jeremiah literally experienced the cistern mud.
+
 v28: The final phrase begins a transition that is completed in chapter 39. TSW retains the abrupt narrative hinge.
 
 ## Vocabulary

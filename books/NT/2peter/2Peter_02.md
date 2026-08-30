@@ -60,24 +60,43 @@ and,
 
 “The washed sow returns to wallowing in the mud.”
 </p>
+
 ## Notes
+
 v01: False teachers are paralleled with earlier false prophets; continuity is assumed.  
+
 v01: Destruction is self-incurred, not externally imposed alone.  
+
 v02: Influence spreads through imitation, not coercion.  
+
 v03: Judgment is portrayed as already determined.  
+
 v04–06: Past examples are cumulative, not sequentially explained.  
+
 v07–08: Righteousness is expressed through distress, not separation.  
+
 v09: Rescue and judgment are paired as parallel actions.  
+
 v10: Authority is rejected internally, not externally alone.  
+
 v10–11: Contrast between human presumption and angelic restraint.  
+
 v12: Ignorance is active, not passive.  
+
 v13: Corruption is visible within communal life.  
+
 v14: Desire is continuous and unrestrained.  
+
 v15–16: Example is invoked without full narrative expansion.  
+
 v17: Emptiness is described through absence of function.  
+
 v18: Speech is used to entice, not instruct.  
+
 v19: Freedom is redefined as slavery.  
+
 v20–21: Knowledge increases accountability rather than reducing it.  
+
 v22: Proverbial imagery summarizes without interpretation.  
 
 ## Vocabulary

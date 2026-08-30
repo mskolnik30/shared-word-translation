@@ -61,10 +61,15 @@ for it cannot rest, and its waters cast up mire and dirt.
 <p>
 v21: There is no peace, says my God, to the wicked.
 </p>
+
 ## Notes
+
 v15: Divine transcendence and nearness are placed side by side: the high and holy One also dwells with the crushed and lowly in spirit.
+
 v15: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
+
 v08: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
+
 v12: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.
 
 ## Vocabulary

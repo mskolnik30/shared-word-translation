@@ -113,17 +113,29 @@ v16: Even the stout-hearted among the warriors
 will flee naked on that day,
 says the LORD.
 </p>
+
 ## Notes
+
 v01: Burning a dead king’s bones to lime is condemned as a desecration extending violence beyond death. The precise historical event is unknown.
+
 v04: Judah’s offense is described directly as rejection of the LORD’s instruction and statutes, placing covenant disobedience alongside the international atrocities of the surrounding nations.
+
 v04: “their lies” may refer to idols, false gods, or deceptive religious traditions inherited from their ancestors. TSW retains the broader term.
+
 v06: Selling “the righteous for silver” may describe corrupt courts, debt slavery, or both. The parallel with the needy and sandals emphasizes how cheaply vulnerable people are treated.
+
 v07: The phrase “pant after the dust of the earth upon the head of the poor” is one of Amos’s difficult lines. It may describe trampling the poor into dust, coveting even the dust placed on mourners’ heads, or another image of predatory exploitation. TSW preserves the unusual imagery.
+
 v07: “the same young woman” may describe sexual exploitation of a female servant, cultic sexual activity, or another prohibited relationship. The text emphasizes profanation of the LORD’s holy name.
+
 v08: Israel’s worship is funded and accompanied by economic exploitation: pledged garments and wine obtained through fines are used at religious sites.
+
 v09: The Amorite’s cedar-like height is poetic imagery for formidable strength, not a precise biological description.
+
 v11: Prophets and Nazirites represent distinct forms of divinely raised vocation within Israel.
+
 v12: Israel’s opposition to revelation is active: Nazirites are pressured to violate their vow, and prophets are ordered not to speak.
+
 v13: The Hebrew verb and image are difficult. It may mean the LORD presses Israel down, causes the ground beneath them to groan, or is himself pressed by them as a loaded cart. TSW follows the judgment sense while preserving the cart imagery.
 
 ## Vocabulary

@@ -180,6 +180,7 @@ v43: Moza fathered Binea; his son was Rephaiah, his son Eleasah, and his son Aze
 <p>
 v44: Azel had six sons, and these were their names: Azrikam, Bokeru, Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel.
 </p>
+
 ## Notes
 
 ## Vocabulary

@@ -125,11 +125,17 @@ v36: He joined with him to make ships to go to Tarshish, and they made the ships
 
 v37: Then Eliezer son of Dodavahu from Mareshah prophesied against Jehoshaphat, saying, “Because you joined yourself with Ahaziah, the LORD has broken your works.” So the ships were wrecked and were not able to go to Tarshish.
 </p>
+
 ## Notes
+
 v03–04: Jehoshaphat’s fear leads directly to seeking the LORD and calling the entire kingdom to fast.
+
 v12: “We do not know what we should do, but our eyes are upon you” is the theological center of the prayer.
+
 v15–17: Judah is commanded to stand and witness divine deliverance rather than win the battle through military force.
+
 v21–22: Worship goes before the army, and the divine ambush begins as praise begins.
+
 v35–37: The chapter closes by qualifying Jehoshaphat’s faithfulness through another alliance with a wicked northern king.
 
 ## Vocabulary

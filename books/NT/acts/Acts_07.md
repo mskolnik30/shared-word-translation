@@ -108,19 +108,33 @@ v58: Then they cast him out of the city and stoned him. And the witnesses laid d
 v59: And as they were stoning Stephen, he called out, “Lord Jesus, receive my spirit.”
 v60: And falling to his knees he cried out with a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep.
 </p>
+
 ## Notes
+
 v02: “The God of glory” introduces the speech with emphasis on divine initiative prior to land or temple.  
+
 v05: Promise is given before possession; inheritance remains future even within the land.  
+
 v09–10: “God was with him” reframes Joseph’s suffering as accompanied rather than avoided.  
+
 v17–19: Growth of the people leads to threat, linking blessing with vulnerability.  
+
 v25: Moses’ assumption of recognition contrasts with Israel’s misunderstanding.  
+
 v30–34: Divine revelation occurs outside established sacred space, emphasizing God’s freedom.  
+
 v35: Rejection and commissioning are held together; the one refused becomes the one sent.  
+
 v39–41: Idolatry is described as turning “in their hearts,” locating the issue internally before externally.  
+
 v44–50: The tension between God’s presence and human structures is left unresolved; the temple is both affirmed and relativized.  
+
 v51: The accusation shifts from narrative to direct address, collapsing past and present resistance.  
+
 v55–56: Stephen’s vision parallels exaltation language, though presented as immediate perception rather than doctrine.  
+
 v58: Saul is introduced without explanation, marking a narrative thread that continues beyond the scene.  
+
 v59–60: Stephen’s final words echo Jesus’ own, linking witness and imitation without explicit commentary.  
 
 ## Vocabulary
@@ -158,4 +172,3 @@ v56: υἱὸς τοῦ ἀνθρώπου (huios tou anthrōpou)
 
 v02: δόξα (doxa)
 “Glory.” Honor, splendor, or manifest radiance; here in the title “God of glory.”
-

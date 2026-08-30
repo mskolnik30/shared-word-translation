@@ -74,9 +74,13 @@ and while they are yet speaking, I will hear.
 v25: The wolf and the lamb will feed together;
 the lion will eat straw like the ox, and dust will be the serpent’s food. They will not hurt or destroy on all my holy mountain, says the LORD.
 </p>
+
 ## Notes
+
 v17: “new heavens and a new earth” — Creation language frames restoration on a scale larger than political return while the following verses remain concretely social and earthly.  
+
 v08: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+
 v14: “Spirit” — Hebrew *ruach* can mean spirit, wind, or breath. Context determines the sense, and Isaiah sometimes exploits the breadth of the term.
 
 ## Vocabulary
@@ -89,4 +93,3 @@ v08: עֶבֶד (eved)
 
 v14: רוּחַ (ruach)
 “Spirit,” “wind,” or “breath.” A term whose sense is determined by context.
-

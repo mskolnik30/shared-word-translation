@@ -116,17 +116,29 @@ v17: Will he therefore keep emptying his net
 and continually killing nations
 without compassion?
 </p>
+
 ## Notes
+
 v01: “oracle” — Hebrew *massa* can mean an oracle or a burden. Habakkuk is said to “see” it, joining prophetic speech and vision.
+
 v02–04: Habakkuk’s first complaint concerns violence and failed justice within his own horizon. The prophet does not begin by asking why foreign nations are wicked, but why the LORD allows injustice to persist.
+
 v04: “instruction grows numb” — The Hebrew verb can mean become slack, weak, or paralyzed. TSW preserves the bodily metaphor rather than simply saying that the law “fails.”
+
 v05: “trust” — The Hebrew verb is the ordinary verb for believing or trusting. The statement emphasizes that the coming work would be difficult to receive even if announced.
+
 v06: “Chaldeans” — The term refers here to the Babylonian imperial power that the LORD is raising as an instrument of judgment.
+
 v07: “their judgment and their dignity come from themselves” — The Chaldeans recognize no higher authority for the order and status they impose. The two Hebrew nouns permit several English nuances, including justice, judgment, dignity, or authority.
+
 v09: “the direction of their faces is forward” — The Hebrew phrase is difficult and has been rendered in several ways, including language of an east wind. TSW retains a directional sense without resolving the image more narrowly.
+
 v11: “this strength of theirs is their god” — The Hebrew is compressed. The line can be read as identifying the invader’s own military power as the object of his allegiance.
+
 v12: “We shall not die” — The Masoretic Text reads “we shall not die.” A traditional scribal note preserves awareness of a reading understood as “you do not die,” apparently altered out of reverence for God. TSW follows the Masoretic reading and notes the significant textual tradition.
+
 v13: Habakkuk’s second complaint presses the problem created by the LORD’s answer: how can a pure God use a nation more wicked than Judah as the instrument of judgment?
+
 v15–16: Hook, net, and dragnet portray nations as helpless fish. The conqueror then worships the very instruments by which wealth and power are acquired.
 
 ## Vocabulary

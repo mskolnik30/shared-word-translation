@@ -60,20 +60,35 @@ v16: but the earth came to the help of the woman, and the earth opened its mouth
 
 v17: Then the dragon became enraged with the woman and went off to make war on the rest of her offspring, those who keep the commandments of God and hold to the testimony of Jesus.
 </p>
+
 ## Notes
+
 v01: The “sign” signals symbolic vision rather than literal description.
+
 v01–02: The woman is depicted with cosmic imagery, not identified.
+
 v03: The dragon’s features accumulate without explanation.
+
 v04: The sweeping of stars is described without clarification of meaning.
+
 v05: The child’s role is stated through scriptural language without naming identity.
+
 v06: The wilderness functions as both refuge and testing space.
+
 v07–09: Conflict is narrated without strategic detail; outcome is decisive.
+
 v09: Multiple names are given without harmonization, expanding identification.
+
 v10–11: Victory is attributed to both divine action and human witness.
+
 v11: Conquering is linked to death rather than avoidance of it.
+
 v12: Time is shortened but not quantified.
+
 v14: The time expression is symbolic and not aligned with prior units.
+
 v15–16: Creation responds; the earth acts without explanation.
+
 v17: The focus shifts from the woman to her offspring without transition.
 
 ## Vocabulary
@@ -120,4 +135,3 @@ v14: καιρός (kairos)
 v17: σπέρμα (sperma)
 
 “Offspring.” Descendants or continuation.
-

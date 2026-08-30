@@ -54,16 +54,27 @@ v14: A copy of the document was to be issued as law in every province, publicly 
 
 v15: The couriers went out hurried by the king’s command, and the law was issued in the citadel of Susa. Then the king and Haman sat down to drink, but the city of Susa was thrown into confusion.
 </p>
+
 ## Notes
+
 v01: “Agagite” links Haman by name with Agag, the Amalekite king in 1 Samuel 15. Combined with Mordecai’s Benjaminite genealogy through Kish, the designation gives the conflict an older biblical resonance without explicitly narrating a biological genealogy.
+
 v02: The text does not state why Mordecai refuses to bow. Bowing to human officials is not universally forbidden elsewhere in Scripture, so TSW does not supply an unstated religious reason.
+
 v04: Mordecai identifies himself as Judean, making his ethnic identity part of the conflict at the gate.
+
 v06: Haman’s response escalates from personal wounded pride to a plan for collective extermination of an entire people.
+
 v07: “Pur” is a Persian loanword meaning “lot.” The lot determines the date, and its plural *Purim* later becomes the festival’s name.
+
 v08: Haman turns cultural and legal distinctiveness into an accusation of political disloyalty. The rhetoric deliberately collapses difference into danger.
+
 v09: Ten thousand talents of silver is an enormous sum, underscoring the scale of the proposed destruction and its economic dimension.
+
 v10: Giving the signet ring delegates royal authority to Haman. The king’s personal distance from the decree does not lessen the decree’s legal power.
+
 v13: The threefold language “destroy, kill, and annihilate” leaves no ambiguity about the genocidal intent of the decree. The inclusion of children and women makes its totalizing violence explicit.
+
 v15: The king and Haman drink while the city is confused. The juxtaposition is a deliberate narrative indictment of imperial detachment.
 
 ## Vocabulary

@@ -40,9 +40,13 @@ to judge the earth.
 He will judge the world with righteousness
 and the peoples with equity.
 </p>
+
 ## Notes
+
 v01: “His right hand and his holy arm” portray the LORD’s saving power in bodily imagery. The phrase “have won salvation for him” preserves the Hebrew’s striking reflexive sense: God’s victory is God’s own accomplishment.  
+
 v02–03: The psalm joins God’s faithfulness to Israel with the public disclosure of God’s saving righteousness before all nations. Israel’s particular story becomes visible to the whole earth.  
+
 v07–09: Sea, rivers, and mountains are summoned as worshipers because the LORD is coming to judge. Here judgment is celebrated as the arrival of righteous and equitable rule.  
 
 ## Vocabulary

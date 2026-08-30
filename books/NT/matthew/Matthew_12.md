@@ -152,21 +152,37 @@ v49: And stretching out his hand toward his disciples, he said, “Here are my m
 
 v50: For whoever does the will of my Father in heaven is my brother and sister and mother.”
 </p>
+
 ## Notes
+
 v03–05: Scriptural precedent reframes law through purpose; exceptions expose underlying priorities.  
+
 v06: “Greater than the temple” shifts locus of divine presence from place to person.  
+
 v07: Mercy is not opposed to sacrifice abstractly but prioritized over misapplied judgment.  
+
 v08: Authority over Sabbath redefines its interpretation, not its existence.  
+
 v12: Human value is asserted without dismantling the analogy; reasoning moves from lesser to greater.  
+
 v14: Opposition escalates from questioning to intent to destroy.  
+
 v17–21: The servant is characterized by restraint; power is expressed without spectacle.  
+
 v24: Attribution to demonic power marks a decisive interpretive rejection.  
+
 v28: The kingdom’s arrival is not future only; it is present in action.  
+
 v30: Neutrality is denied; alignment is binary.  
+
 v31–32: The unforgivable sin is framed as persistent misattribution of divine work.  
+
 v33–37: Speech is treated as diagnostic; words reveal internal condition.  
+
 v39–40: The sign of Jonah is temporal and typological; interpretation is required, not spectacle.  
+
 v43–45: Emptiness without transformation invites return; absence of evil is insufficient.  
+
 v48–50: Kinship is redefined around obedience; relational identity is reconstituted.  
 
 ## Vocabulary

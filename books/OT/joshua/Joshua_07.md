@@ -80,13 +80,21 @@ v25: Joshua said, “Why have you brought trouble upon us? The LORD will bring t
 
 v26: They raised over him a great heap of stones that remains to this day. Then the LORD turned from his burning anger. Therefore the name of that place was called the Valley of Achor to this day.
 </p>
+
 ## Notes
+
 v01: Achan acts individually, yet the verse says “Israel acted unfaithfully.” The chapter treats covenant identity corporately without erasing Achan’s specific responsibility.
+
 v03: The scouts’ confidence after Jericho contains no recorded inquiry of the LORD. The easy victory they expect becomes defeat.
+
 v07–09: Joshua’s lament questions the crossing itself but finally appeals to the LORD’s “great name.” The prayer is allowed to include fear, protest, and concern for divine reputation.
+
 v11: The series “taken … stolen … deceived … put among their goods” intensifies the violation. What belonged under divine claim has been converted into private possession.
+
 v21: Achan’s sequence—“I saw … I desired … I took”—compresses the movement from perception to coveting to action.
+
 v25: The account of Achan and his household is one of the chapter’s most difficult features. TSW preserves the corporate punishment as narrated without attempting to resolve questions the text does not answer.
+
 v26: “Achor” is linked with the verb “to trouble.” The place-name memorializes the crisis and its resolution.
 
 ## Vocabulary

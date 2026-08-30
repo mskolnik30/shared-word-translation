@@ -61,11 +61,17 @@ v23: There was a row of masonry around them, around all four; and places for boi
 
 v24: He said to me, “These are the cooking places where the servants of the house shall boil the sacrifices of the people.”
 </p>
+
 ## Notes
+
 v01: The east-facing inner gate is normally closed but opened for Sabbaths and new moons. The rhythm of closure and opening marks sacred time within the temple's ordered life.  
+
 v09: Those entering by one gate must leave by the opposite gate. The instruction creates a forward movement through the worshiping assembly: no one turns back by the way they came.  
+
 v13–15: “Every morning” is deliberately repeated. The daily offering is not merely a general requirement but a continual practice sustaining the temple's worship.  
+
 v16–18: The prince's authority is explicitly limited. Gifts to servants are temporary, and the prince may not seize land from the people. The vision links just rule with the protection of each person's inherited possession.  
+
 v20: The concern is not that holiness is harmful, but that holy sacrificial food is handled within its proper space. The temple's boundaries order access to what is holy.  
 
 ## Vocabulary

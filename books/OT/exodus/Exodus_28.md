@@ -120,17 +120,29 @@ v42: You shall make linen undergarments for them to cover naked flesh; they shal
 
 v43: They shall be on Aaron and on his sons when they enter the tent of meeting or when they approach the altar to minister in the Holy Place, so that they do not bear guilt and die. It shall be a perpetual statute for him and for his offspring after him.
 </p>
+
 ## Notes
+
 v02: The priestly garments are made “for glory and for beauty.” Their visual richness is part of the sanctuary’s theology of holiness rather than personal luxury alone.
+
 v03: “wise of heart” describes skilled artisans whose craftsmanship is understood as a gift of divine wisdom.
+
 v06: The ephod is a priestly garment of uncertain exact shape. TSW retains the traditional term rather than reconstructing a modern equivalent.
+
 v09–12: Aaron carries Israel’s names on his shoulders as “stones of remembrance,” embodying the priest’s representative role before the LORD.
+
 v15: “breastpiece of judgment” links the priestly garment with discernment and decision, especially through the Urim and Thummim in verse 30.
+
 v17–20: Identification of several ancient gemstones is uncertain. TSW uses conventional English names while recognizing that exact mineral equivalence cannot always be established.
+
 v30: The Urim and Thummim were priestly means of discerning divine judgment. The text does not describe their physical form or exact method of use.
+
 v35: The robe’s bells make Aaron’s movement audible within sacred space. The warning “so that he does not die” underscores the danger and seriousness of priestly approach.
+
 v36: “Holy to the LORD” is engraved on the gold plate worn on Aaron’s forehead, making consecration visible at the point of priestly representation.
+
 v38: Aaron “bears the guilt” associated with Israel’s holy gifts. The verse portrays the high priest as carrying responsibility so that offerings may be accepted.
+
 v41: “fill their hands” is the Hebrew idiom for ordaining or installing priests into service.
 
 ## Vocabulary

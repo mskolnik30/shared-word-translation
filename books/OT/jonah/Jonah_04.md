@@ -58,20 +58,35 @@ in which there are more than one hundred twenty thousand persons
 who do not know their right hand from their left,
 and also many animals?”
 </p>
+
 ## Notes
+
 v01: Jonah responds to Nineveh's repentance not with joy but with anger.  
+
 v02: Jonah reveals that God's mercy was the very reason he fled in chapter 1.  
+
 v02: The description of God echoes the covenant declaration first given after the golden calf incident (Exodus 34:6–7).  
+
 v03: Jonah values judgment upon Nineveh more than his own continued life.  
+
 v04: God's first response is a question designed to expose Jonah's heart.  
+
 v05: Jonah still waits outside the city, apparently hoping that judgment may yet fall.  
+
 v06: The plant is presented as another divinely appointed means of instruction.  
+
 v06: Jonah rejoices more over the plant than he did over Nineveh's repentance.  
+
 v07–08: God appoints the worm and the scorching wind just as he previously appointed the fish.  
+
 v09: Jonah remains more concerned about his own comfort than the fate of an entire city.  
+
 v10–11: God's final lesson contrasts Jonah's concern for a temporary plant with God's concern for human lives.  
+
 v11: The reference to those who do not know their right hand from their left likely emphasizes the city's spiritual ignorance and vulnerability.  
+
 v11: The mention of animals broadens the scope of God's compassion to all living creatures affected by judgment.  
+
 v11: The book ends with an unanswered question, inviting readers to consider whether they share God's compassion for the lost.  
 
 ## Vocabulary
@@ -114,4 +129,3 @@ v11: נִינְוֵה (Nînĕwēh)
 
 v11: בְּהֵמָה (bĕhēmâ)  
 “Animal” or “beast.” Domestic livestock included within God's concern.  
-

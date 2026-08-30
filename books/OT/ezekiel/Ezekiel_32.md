@@ -164,6 +164,7 @@ and he will be laid among the uncircumcised with those slain by the sword—
 Pharaoh and all his multitude,
 declares the LORD GOD.
 </p>
+
 ## Notes
 
 v27: The syntax and reference of the warriors in this verse are difficult.

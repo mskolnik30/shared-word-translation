@@ -72,10 +72,15 @@ v20: He took the commanders of hundreds, the nobles, the rulers of the people, a
 
 v21: All the people of the land rejoiced, and the city was quiet after Athaliah had been put to death with the sword.
 </p>
+
 ## Notes
+
 v01–03: Jehoiada’s conspiracy is framed not merely as palace politics but as restoration of the Davidic promise.
+
 v06: Chronicles emphasizes Levitical holiness and temple boundaries more strongly than the parallel in 2 Kings 11.
+
 v11: “The testimony” may be a covenant document or royal copy of instruction; its precise form is not stated.
+
 v18: Temple worship is deliberately reestablished according to both Moses and David.
 
 ## Vocabulary

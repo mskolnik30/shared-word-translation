@@ -68,10 +68,15 @@ you will no more drink it again:
 v23: and I will put it into the hand of those who afflict you, who have said to your soul, Bow down, that we may go over;
 and you have laid your back as the ground, and as the street, to those who go over.
 </p>
+
 ## Notes
+
 v09: “Rahab” here is a poetic name for a defeated chaos power, not the person named Rahab in Joshua. The sea-dragon imagery recalls divine victory over threatening waters.  
+
 v15: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+
 v03: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+
 v04: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.  
 
 ## Vocabulary
@@ -93,4 +98,3 @@ v04: מִשְׁפָּט (mishpat)
 
 v03: צִיּוֹן (tsiyyon)
 “Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
-

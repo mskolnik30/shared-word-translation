@@ -142,27 +142,49 @@ v50: the master of that servant will come on a day when he does not expect him a
 
 v51: and will cut him in pieces and put him with the hypocrites. In that place there will be weeping and gnashing of teeth.
 </p>
+
 ## Notes
+
 v02: Total destruction framed in absolute architectural terms.  
+
 v03: Threefold question merges temple, παρουσία, and τέλος.  
+
 v08: “Birth pains” indicates beginning, not culmination.  
+
 v09–12: Social and covenantal breakdown internal and external.  
+
 v13: Endurance defined temporally and covenantally.  
+
 v14: Gospel proclamation precedes τέλος.  
+
 v15: Danielic reference assumes interpretive literacy.  
+
 v16–18: Urgency excludes normal deliberation.  
+
 v21: Unparalleled tribulation language marks intensification.  
+
 v22: Divine limitation preserves the elect.  
+
 v24: Deception escalates to near-impossibility threshold.  
+
 v27: Visibility and universality of παρουσία emphasized.  
+
 v28: Judgment inevitability expressed proverbially.  
+
 v29: Cosmic disturbance signals transition.  
+
 v30: Son of Man imagery echoes Daniel 7.  
+
 v31: Gathering motif parallels restoration themes.  
+
 v34: “Generation” remains interpretively compressed.  
+
 v36: Knowledge asymmetry—Father alone.  
+
 v37–39: Normalcy precedes sudden disruption.  
+
 v42–44: Watchfulness grounded in ignorance of timing.  
+
 v45–51: Ethical readiness expressed through stewardship fidelity.  
 
 ## Vocabulary

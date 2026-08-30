@@ -100,16 +100,27 @@ v18: And the LORD has declared today that you are his treasured people, as he sp
 
 v19: and that he will set you high above all the nations that he has made, for praise, fame, and honor, and that you will be a people holy to the LORD your God, as he spoke.”
 </p>
+
 ## Notes
+
 v02–10: The firstfruits ritual joins land possession to remembered history. Agricultural abundance is confessed as the end of a story beginning with vulnerable ancestry and slavery.
+
 v05: “A wandering Aramean was my father” most naturally refers to Jacob or the ancestral family connected with Aram. The Hebrew can also be parsed in other ways, but TSW follows the traditional subject.
+
 v05: “wandering” can mean perishing, straying, or unsettled. The confession emphasizes ancestral vulnerability.
+
 v07: The exodus begins with divine hearing and seeing of oppression before the acts of deliverance are named.
+
 v10: The worshiper moves from communal history—“we”—to personal gratitude—“you have given me”—without separating the individual from Israel’s shared story.
+
 v11: The firstfruits celebration explicitly includes the Levite and resident alien.
+
 v12–15: The third-year tithe confession makes care for Levite, alien, orphan, and widow part of worship accountability before God.
+
 v14: The references to mourning, uncleanness, and the dead distinguish the holy tithe from uses associated with impurity or funerary practice.
+
 v17–18: The reciprocal declarations form covenant language: Israel declares the LORD as God, and the LORD declares Israel as treasured people.
+
 v19: Israel’s elevation is vocational and holy, directed toward praise, fame, and honor under the LORD’s command.
 
 ## Vocabulary

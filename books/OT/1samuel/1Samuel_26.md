@@ -80,17 +80,29 @@ v24: And look, as your life was great in my eyes this day, so may my life be gre
 
 v25: Saul said to David, “Blessed are you, my son David. You will surely do and surely prevail.” Then David went on his way, and Saul returned to his place.
 </p>
+
 ## Notes
+
 v01: The chapter deliberately echoes the pursuit in chapter 23 and the cave episode in chapter 24, presenting another opportunity for David to kill Saul.
+
 v05: The “camp circle” can refer to a wagon barricade, circular encampment, or central camp area. Saul lies at the protected center.
+
 v08: Abishai interprets opportunity as divine authorization, just as David’s men did in chapter 24. David again refuses the conclusion.
+
 v10: David names three possible ways Saul may die, all leaving the outcome to God rather than David’s hand.
+
 v12: The “deep sleep from the LORD” explains how David and Abishai move through the camp undetected.
+
 v16: “Sons of death” means deserving death for failure to protect the king.
+
 v19: David’s complaint is theological: expulsion from Israel’s land threatens exclusion from the LORD’s inheritance and pressures him toward the sphere of other gods.
+
 v19: “Let him smell an offering” is sacrificial idiom meaning may an offering appease or address divine displeasure.
+
 v20: The partridge image portrays Saul’s royal pursuit as disproportionate hunting of insignificant prey.
+
 v23: David appeals to the LORD’s reciprocal justice: righteousness and faithfulness are to be returned by God.
+
 v25: Unlike earlier reconciliation scenes, David and Saul separate permanently after this encounter.
 
 ## Vocabulary

@@ -40,11 +40,17 @@ v23: It came to pass, in the course of those many days, that the king of Egypt d
 v24: God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.
 v25: God saw the people of Israel, and God knew.
 </p>
+
 ## Notes
+
 v02: <v2> "good" - The Hebrew word "tov" (ט֣וֹב) can denote physical appearance, inherent quality, or suitability, suggesting the child's intrinsic worth or a divine calling.  
+
 v03: <v3> "basket made of bulrushes" - The word "tebah" (תֵּבַת) is more commonly associated with Noah's ark, invoking themes of divine preservation and rescue amid chaos.  
+
 v10: <v10> "Moses" - Taken from the Hebrew verb "mashah" (מָשָׁה), meaning "to draw out," reflecting both his rescue from the water and possibly his future role in leading Israel out of Egypt.  
+
 v21: <v21> "Zipporah" - Moses' wife, whose presence and role in his life highlight the significance of family and community in sustaining his mission.  
+
 v25: <v25> "God knew" - Encompasses awareness, empathy, and a resolution to act, asserting God's attentive and relational involvement in Israel's plight.  
 
 ## Vocabulary

@@ -50,15 +50,25 @@ v15: In all the land no women were found as beautiful as Job’s daughters, and 
 v16: After this Job lived one hundred forty years and saw his children and his children’s children, four generations.
 v17: Then Job died, old and full of days.
 </p>
+
 ## Notes
+
 v03–04: Job quotes the LORD’s own questions back to God. His response acknowledges the limits of what he understood when speaking beyond his knowledge.
+
 v06: The Hebrew is famously ambiguous. The verb *ma'as* can mean reject or despise but does not explicitly state what Job rejects; *nichamti* can mean repent, relent, or be comforted; and “dust and ashes” can mark mortality or mourning. TSW renders “I reject and relent concerning dust and ashes,” preserving the lack of an explicit object rather than adding “myself” or “my words.”
+
 v05: Job’s transformation is grounded in encounter: hearing has become seeing. The text does not say that God supplied the causal explanation Job repeatedly requested.
+
 v07–08: The LORD explicitly says the three friends did not speak rightly concerning God “as my servant Job has.” This divine evaluation places a limit on reading the friends’ retribution theology as the book’s final answer.
+
 v08–09: Job becomes intercessor for the very friends who accused him. The LORD’s acceptance is expressed idiomatically as “accepting the face” of Job.
+
 v10: Restoration comes “when he prayed for his friends,” but the narrative does not present the new blessings as replacing the children who died or making the earlier suffering insignificant.
+
 v13: Job receives again seven sons and three daughters rather than double the number of children. The text treats children differently from livestock and possessions in the restoration count.
+
 v15: Job’s daughters receive inheritance “among their brothers,” an unusual and notable provision in the ancient setting.
+
 v17: “full of days” is a traditional expression for a life reaching mature completion. The book closes with Job’s mortality, not escape from human creatureliness.
 
 ## Vocabulary

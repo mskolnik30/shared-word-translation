@@ -220,21 +220,37 @@ v70: Jesus answered them, “Did I not choose you, the twelve? And one of you is
 
 v71: Now he was speaking of Judas, the son of Simon Iscariot, for this one, one of the twelve, was about to betray him.
 </p>
+
 ## Notes
+
 v05–06: Testing reveals understanding, not ignorance in Jesus.
+
 v11–13: Abundance exceeds need, emphasizing provision.
+
 v14–15: Misinterpretation of the sign leads to political expectation.
+
 v20: “I am” echoes divine self-identification.
+
 v26–27: Motivation for seeking Jesus is exposed.
+
 v29: Belief is defined as the central “work.”
+
 v32–33: True bread is personal, not merely provision.
+
 v35: Hunger and thirst are resolved in relation to Jesus.
+
 v37–40: Security is grounded in the Father’s will.
+
 v44–45: Divine drawing precedes human coming.
+
 v51–58: Eating and drinking express participation in Jesus’ life and sacrifice.
+
 v60–66: Hard teaching divides followers.
+
 v63: Spirit contrasts with flesh as source of life.
+
 v68–69: Confession centers on Jesus as exclusive source of life.
+
 v70–71: Choice of the twelve includes internal betrayal.
 
 ## Vocabulary
@@ -306,4 +322,3 @@ v69: ἅγιος (hagios)
 v70: διάβολος (diabolos)
 
 “Devil.”
-

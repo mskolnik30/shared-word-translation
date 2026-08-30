@@ -110,15 +110,25 @@ v31: and going aside, they were speaking to one another, saying, “This man is 
 <p>
 v32: And Agrippa said to Festus, “This man could have been released if he had not appealed to Caesar.”
 </p>
+
 ## Notes
+
 v03: Audience awareness shapes rhetorical approach.  
+
 v06–08: Resurrection remains central theological issue.  
+
 v09–11: Former opposition heightens credibility of transformation.  
+
 v16–18: Commission defines mission to Gentiles in salvific terms.  
+
 v20: Repentance is demonstrated through action.  
+
 v22–23: Message is continuous with Scripture.  
+
 v24–25: Perception of madness contrasts with claimed truth.  
+
 v28–29: Personal appeal extends beyond defense to evangelism.  
+
 v32: Appeal to Caesar prevents immediate release.  
 
 ## Vocabulary

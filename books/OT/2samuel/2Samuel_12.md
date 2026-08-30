@@ -104,20 +104,35 @@ v30: He took the crown of their king from his head. Its weight was a talent of g
 
 v31: He brought out the people who were in it and put them to saws, iron picks, and iron axes, and made them pass through the brick kiln. Thus he did to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem.
 </p>
+
 ## Notes
+
 v01–04: Nathan’s parable leads David to condemn a rich man for taking what he did not need from a poor man. The emotional center is not only theft but the destruction of a cherished relationship.
+
 v05–06: David’s fourfold repayment echoes Torah’s restitution law for stolen sheep, while his death sentence exceeds that law and exposes the intensity of his moral judgment before recognizing himself.
+
 v07: “You are the man” collapses the distance created by the parable and identifies royal abuse as the very injustice David condemned.
+
 v08: The statement about Saul’s wives uses royal-household transfer language. It should not be detached from ancient dynastic practice into a claim that women are mere divine property.
+
 v09: Nathan holds David directly responsible for Uriah’s death even though the Ammonites physically killed him: “you killed him with the sword of the children of Ammon.”
+
 v11–12: The announced judgment of David’s wives anticipates Absalom’s public seizure of David’s concubines in 2 Samuel 16. The text describes reciprocal humiliation within ancient royal conflict; it does not morally approve sexual violation.
+
 v13: David’s confession is brief and without self-defense. Nathan immediately announces forgiveness from the death penalty while not removing all consequences.
+
 v14: The Masoretic Text literally says David has “made the enemies of the LORD utterly despise” or “blaspheme.” Some ancient traditions soften the wording to avoid directly saying David despised the LORD. TSW follows the sense of the received euphemistic form.
+
 v15: Bathsheba is again called “Uriah’s wife” at the point where the child is struck, keeping Uriah’s violated marriage in view.
+
 v16–23: David’s fasting is petition rather than magical technique. Once the child dies, he accepts that the outcome cannot be changed.
+
 v23: “I am going to him” most directly refers to David eventually joining the child in death. The verse by itself does not fully describe the afterlife.
+
 v24–25: Solomon’s name is associated with peace, while Jedidiah means “beloved of the LORD.” The narrative marks divine love after a chapter of judgment.
+
 v30: The Hebrew can mean the crown of “their king” or of Milcom, the Ammonite deity. TSW follows the royal reading while noting the ambiguity.
+
 v31: The treatment of Ammonite captives is textually and morally difficult. The Masoretic wording can describe forced labor with saws and iron tools or execution by them; the brick-kiln phrase is also uncertain. TSW preserves the harsh labor wording without escalating it beyond the Hebrew’s ambiguity.
 
 ## Vocabulary

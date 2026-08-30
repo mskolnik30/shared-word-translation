@@ -76,15 +76,25 @@ v15: You shall sow but not reap; you shall tread olives but not anoint yourselve
 <p>
 v16: For you have kept the statutes of Omri, and all the practices of the house of Ahab; you have followed their counsel. Therefore I will make you a desolation, and your inhabitants an object of scorn; you shall bear the disgrace of my people.
 </p>
+
 ## Notes
+
 v01–02: The courtroom imagery establishes a covenant lawsuit. The mountains and enduring foundations of the earth serve as witnesses, giving the dispute a public and long-standing horizon.
+
 v03: The questions are not accusations but invitations. The Holy One speaks with the language of wounded relationship, asking the people to name how the covenant has been experienced as burden rather than gift.
+
 v04–05: Memory is central to the case. Liberation from slavery, faithful leadership, and protection along the journey are recalled to reorient the people toward the character and saving action of the Holy One.
+
 v06–07: These verses give voice to anxious religiosity. The escalating offerings reveal a belief that reconciliation must be earned through excess, culminating in the distortion that imagines God as desiring harm rather than life.
+
 v08: This verse functions as the theological center of the chapter. Justice, faithful kindness, and humble walking are presented not as new demands but as a clear restatement of what has always defined covenant faithfulness.
+
 v09: The prophetic voice addresses the city as a collective body. Wisdom here is linked to reverence, suggesting that moral clarity begins with recognizing the Holy One’s claim on communal life.
+
 v10–12: Economic injustice is named concretely. Dishonest measures, violence, and deceit are not isolated moral failures but systemic practices that shape the life of the community.
+
 v13–15: The consequences described reflect moral disorder rather than arbitrary punishment. Effort without fulfillment mirrors a society that has severed justice from daily practice.
+
 v16: The reference to Omri and Ahab situates the present crisis within a legacy of corrupt leadership. The resulting disgrace is communal, underscoring that injustice leaves enduring marks on a people’s shared life.
 
 ## Vocabulary

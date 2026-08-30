@@ -130,6 +130,7 @@ v30: The first of all the firstfruits of everything, and every contribution from
 <p>
 v31: The priests shall not eat anything, bird or animal, that dies of itself or is torn by beasts.
 </p>
+
 ## Notes
 
 ## Vocabulary

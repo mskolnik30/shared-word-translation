@@ -176,6 +176,7 @@ v42: He said to him, “Thus says the LORD: ‘Because you have let go from your
 <p>
 v43: The king of Israel went to his house sullen and troubled, and came to Samaria.
 </p>
+
 ## Notes
 
 ## Vocabulary

@@ -66,15 +66,25 @@ v18: how he met you on the way and cut off all the stragglers behind you when yo
 
 v19: Therefore when the LORD your God gives you rest from all your enemies around you in the land that the LORD your God is giving you as an inheritance to possess, you shall wipe out the memory of Amalek from under the heavens. You shall not forget.
 </p>
+
 ## Notes
+
 v01–03: Corporal punishment is limited by number. The explicit rationale is protection of the offender’s dignity as “your brother,” even after conviction.
+
 v03: Forty is the maximum, not the required number. The judge must match the punishment to the offense and stop before degrading excess.
+
 v04: The threshing ox must be allowed access to the grain while working, embedding animal welfare within agricultural labor.
+
 v05–10: The levirate law seeks to preserve the dead brother’s name and household line. The widow’s public action at the gate provides a remedy when the brother refuses.
+
 v06: “stand in the name” means the firstborn child carries forward the deceased brother’s household identity and inheritance.
+
 v09: Sandal removal and spitting create a public ritual of shame, but the refusing brother is not forced into the marriage.
+
 v11–12: The bodily penalty is exceptional within Deuteronomy’s case law. The verse addresses deliberate seizure of male reproductive organs during a fight; TSW does not broaden it beyond the stated case.
+
 v13–16: Commercial fraud is treated as a covenantal abomination. Economic honesty is tied directly to life in the land.
+
 v17–19: Amalek is condemned for attacking the exhausted and vulnerable at Israel’s rear. The command to erase Amalek belongs to Israel’s ancient warfare memory and should not be reapplied to modern peoples.
 
 ## Vocabulary

@@ -122,19 +122,33 @@ v21: Their children come to honor, and they do not know it;
 v22: They feel only the pain of their own body,
   and their own being mourns.
 </p>
+
 ## Notes
+
 v01–02: “short of days… like a shadow” — Job begins with anthropology under pressure: human life is brief, fragile, and difficult; mortality is not theoretical.
+
 v03: “do you fix your gaze… bring me into judgment” — Job challenges the asymmetry: why would the Holy One litigate against a creature so small and fleeting?
+
 v04: “clean… out of unclean” — Not cynicism about creation, but a cry about human limits: how can flawed mortals produce purity on demand?
+
 v05–06: “days… determined… look away” — Job interprets life as bounded by God; his plea is for respite—space to breathe within limits.
+
 v07–09: “hope for a tree” — Nature becomes a parable of resilience; Job envies the tree’s capacity for renewal.
+
 v10–12: “but a human dies… does not rise” — In Job’s moment, death feels final and irreversible; the poetry voices the dread without smoothing it.
+
 v13: “hide me in Sheol… remember me” — A paradoxical prayer: Job asks for concealment from wrath and also for God’s remembering—judgment paused, relationship preserved.
+
 v14–15: “If… dies… live again?… You would call” — Job’s hope flickers: not a developed doctrine, but a longing for renewed communion—God calling, Job answering.
+
 v16–17: “not keep watch… sealed… cover over” — Job imagines mercy as God’s decision not to audit sin; forgiveness is pictured as closed files and covered guilt.
+
 v18–19: “mountain falls… water wears away stones” — The world’s slow erosions become an image of how hope is ground down over time.
+
 v20: “You prevail… send them away” — Job names the terrifying feeling that God’s power is not only shelter but also overwhelming force.
+
 v21: “children… they do not know” — Death severs participation in the future; honor and loss happen beyond one’s awareness.
+
 v22: “pain… mourns” — The chapter ends in embodied sorrow: suffering collapses the horizon to the body and the self’s grief.
 
 ## Vocabulary

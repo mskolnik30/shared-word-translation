@@ -81,14 +81,23 @@ the righteous walk in them,
 but transgressors
 stumble in them.
 </p>
+
 ## Notes
+
 v01: The book’s final call returns to Hosea’s central verb: “return.” Israel’s stumbling is traced to guilt, but the command assumes return remains possible.
+
 v02: “fruit of our lips” follows the Masoretic reading. Some ancient witnesses support “bulls of our lips,” an image of verbal praise replacing animal sacrifice. TSW follows the Masoretic vocalization while noting the textual history.
+
 v03: Repentance is expressed politically, militarily, and religiously: no reliance on Assyria, horses, or manufactured gods.
+
 v03: The orphan becomes the model of one without ordinary social protection who nevertheless finds compassion in the LORD.
+
 v04: “love them freely” emphasizes love that is given without payment or manipulation. Divine anger turns away as turning-away itself is healed.
+
 v05–07: Restoration is pictured through dew, lily, roots, olive tree, grain, vine, and wine. The earlier agricultural judgments are reversed into abundance.
+
 v08: The Hebrew voices in this verse are compressed, and interpreters differ over which clauses are spoken by Ephraim and which by the LORD. TSW distinguishes Ephraim’s rejection of idols from the LORD’s answering, watching, and fruit-giving.
+
 v09: The closing wisdom saying turns the whole book into a path to be understood and walked. The same ways of the LORD sustain the righteous and expose transgressors.
 
 ## Vocabulary

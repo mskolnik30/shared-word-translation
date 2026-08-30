@@ -108,17 +108,29 @@ v35: And if one man’s ox injures another’s ox so that it dies, they shall se
 
 v36: Or if it was known that the ox was accustomed to gore in the past and its owner did not restrain it, he shall surely make restitution, ox for ox, and the dead animal shall become his.
 </p>
+
 ## Notes
+
 v01: “judgments” introduces a collection of case laws that applies covenant principles to concrete social disputes.
+
 v02: “servant” translates Hebrew *eved*, which can denote a range of dependent labor statuses. These laws regulate Israelite debt-servitude in an ancient economy and should not be collapsed into the later race-based chattel slavery familiar from modern history.
+
 v04: The woman and children remaining with the master reflects the legal household structure assumed by the law. The text regulates this institution rather than resolving its moral distance from modern expectations.
+
 v06: “bring him to God” may refer to a sanctuary setting or to judges acting under divine authority. The doorpost rite marks permanent attachment to the household.
+
 v07–11: The female-servant law is oriented toward marriage or concubinage and therefore provides different release protections from those in verses 2–6. Food, clothing, and marital rights may not be reduced.
+
 v13: Accidental killing is distinguished from deliberate murder. The “place” anticipates the later system of refuge.
+
 v16: Kidnapping and selling a human being are treated as capital offenses.
+
 v20–21: The servant-protection law remains morally severe by modern standards. The master may be punished if the servant dies immediately, while survival for a time changes the legal presumption because the servant is treated as economic property. TSW preserves the ancient legal logic without endorsing it.
+
 v22: “her children come out” can describe premature birth or miscarriage. The following phrase “no further harm” leaves the exact outcome debated. TSW preserves the broad childbirth language rather than deciding the medical detail.
+
 v23–25: “life for life, eye for eye” sets proportional limits upon retaliation. The formula restrains punishment from exceeding the injury.
+
 v29–30: An owner who knowingly leaves a dangerous animal unrestrained bears heightened responsibility, though ransom may substitute for death when imposed.
 
 ## Vocabulary

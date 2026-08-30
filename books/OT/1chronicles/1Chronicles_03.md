@@ -43,7 +43,9 @@ v22: The sons of Shecaniah: Shemaiah and the sons of Shemaiah: Hattush, Igal, Ba
 v23: The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three.
 v24: The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.
 </p>
+
 ## Notes
+
 v01–24: 1. **David's Sons in Hebron (v1-4):** The first part of the genealogy, detailing the sons born to David during his time in Hebron, emphasizes his early period of kingship and alliances through marriage.  
 2. **Sons Born in Jerusalem (v5-9):** The genealogy continues with sons born in Jerusalem, highlighting the sovereignty and continuation of David's lineage in the established capital.  
 3. **David's Lineage and Rule (v10-16):** The genealogical record maintains the focus on royal succession, leading from Solomon to Josiah and his sons, showing the dynastic continuity.  

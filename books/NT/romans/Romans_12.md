@@ -64,27 +64,49 @@ for in doing so you will heap burning coals on his head.”
 
 v21: Do not be overcome by evil, but overcome evil with good.
 </p>
+
 ## Notes
+
 v01: “Therefore” connects exhortation to the preceding argument. Response is grounded in “the mercies of God,” not in obligation alone.  
+
 v01: “Living sacrifice” reconfigures sacrificial language. The offering is ongoing and embodied rather than terminal.  
+
 v01: “Bodies” emphasizes concrete life, not merely inward disposition.  
+
 v02: Conformity and transformation are contrasted. Renewal of mind enables discernment rather than mere rule-following.  
+
 v03: Grace governs both speech and self-perception. Thinking “with sober judgment” resists both pride and self-negation.  
+
 v04–05: The body metaphor grounds unity in diversity. Mutual belonging (“members of one another”) extends beyond shared identity.  
+
 v06–08: Gifts are given and exercised within limits (“according to…”). Function is not generalized but particular.  
+
 v08: Manner matters: generosity, diligence, and cheerfulness qualify the exercise of gifts.  
+
 v09: Love is defined negatively (“without hypocrisy”) and then directed toward moral discernment.  
+
 v10: Honor is made competitive in reverse—seeking to give rather than receive.  
+
 v11: Zeal and service are held together, preventing both apathy and misdirected fervor.  
+
 v12: The triad (hope, affliction, prayer) situates endurance within expectation.  
+
 v13: Hospitality is described as pursuit, not occasional act.  
+
 v14: Blessing replaces retaliation at the level of speech.  
+
 v15: Shared emotional life reflects communal participation rather than individual isolation.  
+
 v16: Unity of mind is paired with humility. Association with the lowly resists status formation.  
+
 v17–18: Ethical action considers both internal conviction and public perception.  
+
 v18: Peace is qualified—“if possible”—acknowledging limits without abandoning pursuit.  
+
 v19: Vengeance is relinquished to God. The citation grounds restraint in divine justice.  
+
 v20: The proverb introduces ambiguity (“burning coals”) without interpretation, preserving its tension.  
+
 v21: The final exhortation frames the entire section: good actively resists and overcomes evil.  
 
 ## Vocabulary
@@ -148,4 +170,3 @@ v21: νικάω (nikaō)
 
 v01: θυσία (thysia)
 “Sacrifice; offering.” Here the ritual term is applied metaphorically to embodied life.
-

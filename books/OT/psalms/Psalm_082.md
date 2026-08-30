@@ -36,8 +36,11 @@ and like one of the princes you shall fall.”
 v08: Rise up, O God; judge the earth,
 for you shall inherit all the nations.
 </p>
+
 ## Notes
+
 v01: The Hebrew describes God standing in the assembly of El and judging “in the midst of gods.” The main text preserves the divine-council language rather than replacing it with a human court.
+
 v06: The address “you are gods” remains intentionally direct. The psalm’s point is not clarified by identifying these figures more narrowly than the Hebrew does.
 
 ## Vocabulary

@@ -70,12 +70,19 @@ v22: None of the Anakim was left in the land of the children of Israel; only in 
 
 v23: So Joshua took the whole land according to all that the LORD had spoken to Moses. Joshua gave it as an inheritance to Israel according to their divisions by their tribes. And the land had rest from war.
 </p>
+
 ## Notes
+
 v04: The northern coalition is described as overwhelming in number and military technology, particularly horses and chariots.
+
 v06: Hamstringing the horses and burning chariots prevents Israel from incorporating the enemy’s military system into its own power.
+
 v13: The phrase “cities standing on their mounds” refers to established sites built upon earlier settlement layers. Hazor alone is explicitly burned among these northern cities.
+
 v18: “many days” qualifies the compressed conquest summaries. The campaign is not portrayed as a single brief event.
+
 v20: The hardening of the kings’ hearts is a severe theological statement. The narrative attributes their decision to fight both to divine purpose and to their own military action without resolving the tension.
+
 v23: “the whole land” is followed by later chapters describing land still remaining. The summary speaks from the perspective of decisive regional victory rather than claiming every settlement has already been occupied.
 
 ## Vocabulary

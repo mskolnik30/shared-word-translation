@@ -58,27 +58,49 @@ v17: so that no one can buy or sell unless he has the mark, that is, the name of
 <p>
 v18: This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.
 </p>
+
 ## Notes
+
 v01: The beast rises from the sea, signaling emergence from chaos rather than stable origin.
+
 v01–02: Features combine earlier symbolic elements without resolving identity.
+
 v02: Authority is received, not inherent.
+
 v03: The healed wound provokes global response; restoration leads to allegiance.
+
 v04: Worship is directed through mediated authority (dragon → beast).
+
 v05: Speech is emphasized as instrument of influence and opposition.
+
 v05: Time is limited (“forty-two months”), not indefinite.
+
 v06: Blasphemy extends to both God and those associated with God.
+
 v07: Conquest is permitted; authority is described as given.
+
 v08: Worship is universal in scope but not without distinction.
+
 v08: The “book of life” introduces prior belonging without explanation.
+
 v09–10: The saying functions as warning and recognition rather than instruction.
+
 v10: Endurance is framed within inevitability, not avoidance.
+
 v11: The second beast appears similar to a lamb but speaks differently, creating dissonance.
+
 v12: Authority is derivative; action reinforces prior allegiance.
+
 v13–14: Signs function as instruments of deception rather than revelation.
+
 v14: The image is constructed in response to perceived power.
+
 v15: Breath is given, but source authority remains external.
+
 v16–17: The mark regulates participation in economic life.
+
 v17: Identity is reduced to name or number without clarification.
+
 v18: The number is presented as requiring interpretation, not immediate recognition.
 
 ## Vocabulary
@@ -130,4 +152,3 @@ v16: χάραγμα (charagma)
 v18: ἀριθμός (arithmos)
 
 “Number.” Value requiring interpretation.
-

@@ -51,8 +51,11 @@ praise for all the faithful ones,
 for the children of Israel, a people near to God.
 Praise the LORD!
 </p>
+
 ## Notes
+
 v08: The Hebrew word rendered “smoke” is often translated “mist” or “vapor.” In the sequence with fire, hail, and snow, it names another atmospheric phenomenon summoned to praise.
+
 v14: “Horn” is a conventional image of strength and dignity raised up by God for the people.
 
 ## Vocabulary

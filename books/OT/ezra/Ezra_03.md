@@ -52,14 +52,23 @@ v12: But many of the priests, Levites, and heads of ancestral houses, old people
 
 v13: The people could not distinguish the sound of the shout of joy from the sound of the people’s weeping, for the people shouted with a great shout, and the sound was heard far away.
 </p>
+
 ## Notes
+
 v01: The seventh month was central to Israel’s festival calendar. Worship is restored before the temple building itself is restored.
+
 v02: Rebuilding begins with the altar and with practices grounded in the instruction of Moses, establishing continuity between the returned community and Israel’s received covenantal order.
+
 v03: The Hebrew can be understood as the altar being established “because of” fear of surrounding peoples or “despite” that fear. TSW follows the sense that worship proceeds in the presence of fear.
+
 v04–06: The sequence emphasizes ordered worship: Festival of Booths, daily offerings, new moons, appointed festivals, and freewill offerings.
+
 v07: The timber arrangements recall the building of Solomon’s temple, where cedar also came from Lebanon through Phoenician cooperation.
+
 v08: Levites from age twenty are appointed to supervise the temple work. This differs from some Pentateuchal age thresholds for Levitical service and reflects the particular work described here.
+
 v11: The refrain “for he is good, for his steadfast love endures forever” is familiar from Israel’s liturgical tradition and ties rebuilding to worship rather than merely construction.
+
 v12–13: The same event produces both grief and joy. Ezra does not require one emotion to cancel the other; memory of the former temple and hope in the new foundation sound together.
 
 ## Vocabulary

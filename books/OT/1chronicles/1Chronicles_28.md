@@ -53,14 +53,23 @@ v20: Then David said to Solomon his son, “Be strong and courageous, and do it.
 
 v21: And see: the divisions of the priests and the Levites are for every service of God’s house. With you, for every kind of work, is every willing person skilled in every kind of service. The officials and all the people are wholly at your command.”
 </p>
+
 ## Notes
+
 v02: - **2.** A “house of rest” for the ark evokes the LORD’s dwelling among the people. David calls the ark both the sign of the covenant and the “footstool” of God, holding together God’s nearness and God’s majesty.  
+
 v03: - **3.** David’s exclusion from building the temple is stated plainly: he is “a man of battles” who has shed blood. The passage does not deny David’s election or his service to God, but distinguishes his calling from Solomon’s temple-building task.  
+
 v05: - **5.** “The throne of the kingship of the LORD” presents Israel’s human king as ruling under, and belonging to, the LORD’s own reign.  
+
 v07: - **7.** The promise to establish Solomon’s kingship “forever” is joined to an “if” clause. The chapter keeps divine election and the king’s continuing obedience together without reducing either one.  
+
 v09: - **9.** “Heart” and “soul” describe the inward whole of the person. The LORD’s searching of hearts includes “every inclination of the thoughts,” reaching beneath outward service to intention and desire.  
+
 v12: - **12.** The phrase translated “all that was with him in spirit” may refer to David’s inward conception of the plan or to a plan given through God’s Spirit. The wording leaves the source of David’s insight closely connected with God’s direction.  
+
 v16: - **16.** “The arrangement” refers to the ordered setting out of bread before the LORD. The text emphasizes not only the temple’s structure but also its ongoing worship.  
+
 v19: - **19.** David attributes the plan to “the hand of the LORD” and says that he was given understanding. The temple is thus presented as a work carefully prepared by human hands under divine instruction.  
 
 ## Vocabulary

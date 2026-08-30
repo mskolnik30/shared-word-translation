@@ -32,13 +32,21 @@ the LORD will keep your life.
 v08: The LORD will keep your going out and your coming in
 from this time on and forevermore.
 </p>
+
 ## Notes
+
 v01: The psalm opens with a question rather than a confession. Help is not assumed but sought, creating space for trust to be named rather than presumed.
+
 v02: The answer to the question comes immediately and decisively. Help is located not in the hills themselves but in the LORD, identified as creator of heaven and earth.
+
 v03–04: The imagery of guarding contrasts human vulnerability with divine attentiveness. The LORD’s refusal to slumber or sleep emphasizes constancy rather than urgency.
+
 v05: The LORD is named explicitly as “keeper,” shifting from description to direct assurance. The second-person address personalizes the psalm without narrowing its communal use.
+
 v06: Day and night function as a totality. Protection is framed comprehensively rather than situationally.
+
 v07: “Keeping” is repeated and intensified. The LORD guards not only from harm but also preserves life itself, without specifying the means.
+
 v08: “Going out and coming in” names the whole rhythm of life. Time is expanded from the present moment to an open-ended future, grounding trust beyond immediate circumstances.
 
 ## Vocabulary

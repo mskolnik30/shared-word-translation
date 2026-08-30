@@ -64,21 +64,37 @@ v17: I, Paul, write this greeting with my own hand, which is the mark in every l
 
 v18: The grace of our Lord Jesus Christ be with you all.
 </p>
+
 ## Notes
+
 v01: The word is personified (“may run and be glorified”), emphasizing its active spread.  
+
 v02: Deliverance is requested not from suffering generally but from specific opposition.  
+
 v03: Divine faithfulness grounds confidence more than human consistency.  
+
 v04: Obedience is assumed and expected. Confidence is relational and theological.  
+
 v05: Direction of the heart is central. Love and steadfastness are not self-generated.  
+
 v06: “Keep away” introduces boundary-setting within the community.  
+
 v07–08: Paul’s example is practical—manual labor and refusal to burden others.  
+
 v09: Authority is acknowledged but voluntarily limited for the sake of example.  
+
 v10: The principle ties provision to willingness, not capacity alone.  
+
 v11: Disorder is defined as misdirected activity, not mere inactivity.  
+
 v12: Quiet work contrasts with disruptive behavior.  
+
 v13: Perseverance in good is addressed to the faithful, not only the idle.  
+
 v14–15: Discipline aims at restoration, not exclusion. Shame functions as corrective, not punitive.  
+
 v16: Peace is both given and comprehensive (“at all times in every way”).  
+
 v17: The handwritten closing authenticates the letter.  
 
 ## Vocabulary

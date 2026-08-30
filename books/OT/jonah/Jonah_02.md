@@ -55,19 +55,33 @@ Salvation belongs to the LORD.”
 <p>
 v10: Then the LORD spoke to the fish, and it vomited Jonah out upon the dry land.
 </p>
+
 ## Notes
+
 v01: Jonah's prayer comes after his descent into the sea and confinement within the fish.
+
 v02: The prayer describes Jonah's experience as a descent toward death while affirming that God heard him.
+
 v02: “The belly of Sheol” is poetic language portraying extreme peril and nearness to death.
+
 v03: Jonah acknowledges that the storm and his plunge into the sea ultimately came under God's sovereign direction.
+
 v04: Though feeling cast away, Jonah expresses hope that he will again worship before God.
+
 v05–06: The imagery depicts complete helplessness, surrounded by the forces of death and chaos.
+
 v06: Jonah's descent reaches its lowest point before God reverses it and brings up his life.
+
 v07: Remembering the LORD becomes the turning point of the prayer.
+
 v08: Jonah contrasts trust in the LORD with devotion to idols.
+
 v09: Thanksgiving and sacrifice are presented as fitting responses to divine deliverance.
+
 v09: “Salvation belongs to the LORD” expresses the theological center of the book.
+
 v10: The fish acts in obedience to God's command, in contrast to Jonah's earlier disobedience.
+
 v10: Jonah's deliverance prepares him for a renewed commission in the following chapter.
 
 ## Vocabulary
@@ -113,4 +127,3 @@ v10: קִיא (qîʾ)
 
 v04: הֵיכַל קָדְשֶׁךָ (hêḵal qodšeḵā)
 “Your holy temple.” The sanctuary toward which the prayer is directed.
-

@@ -100,11 +100,17 @@ v55: for a diseased condition in a garment or a house,
 v56: for a swelling, scab, or bright spot,
 v57: to teach when something is unclean and when it is clean. This is the law concerning serious diseased conditions.
 </p>
+
 ## Notes
+
 v02: The priest goes outside the camp to examine the healed person, so restoration begins before the person has returned to ordinary community life.
+
 v05: “fresh water” — The Hebrew literally says “living water,” meaning flowing or fresh water rather than stagnant water.
+
 v14–18: The application of blood and oil to ear, hand, and foot closely echoes the ordination of priests in chapter 8, though the text does not state that the cleansed person becomes priestly.
+
 v34: The LORD is said to “put” the diseased condition in a house. The text presents the condition within divine sovereignty without explaining why a particular house is affected.
+
 v45: A persistently affected house is dismantled entirely, showing that ritual contamination can attach to built space as well as persons and garments.
 
 ## Vocabulary

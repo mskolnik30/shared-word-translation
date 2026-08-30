@@ -68,11 +68,17 @@ v23: For the LORD your God dried up the waters of the Jordan before you until yo
 
 v24: so that all the peoples of the earth may know that the hand of the LORD is strong, and so that you may fear the LORD your God all the days.”
 </p>
+
 ## Notes
+
 v06–07: The stones are intentionally pedagogical. Israel’s memory is to be renewed through children asking questions about visible signs.
+
 v09: Joshua sets up another set of stones in the Jordan itself. The relationship between these and the twelve stones carried to Gilgal is preserved without harmonizing the two actions.
+
 v14: Joshua’s public exaltation is explicitly attributed to the LORD and parallels Moses’ recognized authority.
+
 v23: The crossing of the Jordan is interpreted through the earlier crossing of the Sea of Reeds. New deliverance is remembered in continuity with old deliverance.
+
 v24: The sign has both outward and inward purposes: the nations are to know the LORD’s strong hand, and Israel is to fear the LORD.
 
 ## Vocabulary

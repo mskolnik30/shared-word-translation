@@ -122,6 +122,7 @@ v28: Pharaoh said to him, “Go away from me! Watch yourself—do not ever again
 <p>
 v29: Moses said, “You have spoken rightly. I will never again see your face.”
 </p>
+
 ## Notes
 
 v21: The final Hebrew phrase is difficult and vivid, literally, “and darkness may be felt.”

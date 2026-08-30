@@ -189,15 +189,25 @@ there was no one who escaped or survived.
 Those whom I cared for and raised,
 my enemy consumed.
 </p>
+
 ## Notes
+
 v01: “footstool” — The image is commonly associated with the sanctuary or the place of divine presence. The poem emphasizes that even what belonged to sacred worship was not spared in the day of anger.
+
 v03: “horn” — Horn is a common biblical image of strength, vitality, or power. Cutting off every horn portrays the collapse of Israel’s capacity to resist.
+
 v06–07: Festival, Sabbath, altar, sanctuary, king, and priest are all drawn into the lament. Political, liturgical, and communal structures collapse together.
+
 v08: “measuring line” — A measuring line can signify construction elsewhere, but here it marks deliberate destruction. The same image can serve opposite purposes according to context.
+
 v11: “my liver is poured out” — The liver, like the heart and inward parts, can represent deep interior emotion in Hebrew poetry. The visceral imagery is retained.
+
 v14: False prophecy is condemned not only because it was inaccurate but because it failed to expose guilt in a way that might have opened a path toward restoration.
+
 v18: The grammar shifts abruptly into direct address to Zion’s wall. The poem personifies the ruined city and even its defenses as participants in grief.
+
 v20: The question concerning women eating their children reflects the extremity of famine under siege. The text is deliberately horrifying and is not softened.
+
 v01–22: Like chapters 1 and 4, chapter 2 is an alphabetic acrostic in Hebrew. The order of two Hebrew letters differs from the usual alphabetic sequence in this chapter.
 
 ## Vocabulary

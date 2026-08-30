@@ -98,17 +98,29 @@ v28: Now the rest of the acts of Jeroboam and all that he did and his might, how
 
 v29: Jeroboam lay down with his ancestors, with the kings of Israel. Zechariah his son became king in his place.
 </p>
+
 ## Notes
+
 v03: Amaziah is positively evaluated but explicitly falls short of David, continuing the book’s graded assessment of Judah’s kings.
+
 v06: The narrator directly cites Deuteronomy 24:16 to explain why Amaziah does not execute the children of his father’s assassins.
+
 v07: Sela means “rock” and is often associated with Edomite territory near later Petra. Amaziah renames it Joktheel.
+
 v08: “look one another in the face” is a challenge to military confrontation.
+
 v09: Jehoash’s thornbush-and-cedar parable mocks Amaziah as a small ruler inflated by victory over Edom.
+
 v13: Breaching Jerusalem’s wall and taking temple and palace treasure publicly reverse Amaziah’s pride.
+
 v21: Azariah is also known as Uzziah in the biblical tradition. Kings commonly uses Azariah in regnal notices.
+
 v25: Jonah son of Amittai is the same name and hometown associated with the prophet in the book of Jonah. Here his prophecy concerns restoration of Israel’s northern border.
+
 v26: “neither slave nor free” is an idiom for no one remaining to help, not a social census.
+
 v27: Jeroboam II is religiously condemned yet politically used as an instrument of the LORD’s compassion toward suffering Israel.
+
 v28: The Hebrew phrase concerning Damascus and Hamath is difficult. It may refer to recovering territories formerly belonging to Judah/Israel. TSW preserves the Masoretic wording without harmonizing its geography.
 
 ## Vocabulary

@@ -22,7 +22,9 @@ praise God with clashing cymbals!
 v06: Let everything that has breath praise the LORD!
 Praise the LORD!
 </p>
+
 ## Notes
+
 v01: The Hebrew word for “firmament” can mean the expanse or dome of the heavens. Here it forms a cosmic counterpart to the earthly sanctuary: praise sounds in God’s holy place and across the expanse of divine power.
 
 ## Vocabulary

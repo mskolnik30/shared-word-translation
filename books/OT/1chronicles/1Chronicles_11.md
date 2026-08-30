@@ -194,6 +194,7 @@ v46: Eliel the Mahavite; Jeribai and Joshaviah, sons of Elnaam; and Ithmah the M
 <p>
 v47: Eliel, Obed, and Jaasiel the Mezobaite.
 </p>
+
 ## Notes
 
 v22: The expression translated “the two Ariels of Moab” is uncertain. *Ariel* may be a personal or clan designation, or it may evoke “lion-like men”; the text does not explain the phrase.

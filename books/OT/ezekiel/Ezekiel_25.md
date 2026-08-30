@@ -30,7 +30,9 @@ v15: Thus says the LORD GOD: Because the Philistines acted in revenge and took v
 v16: therefore, thus says the LORD GOD: Behold, I will stretch out my hand against the Philistines and will cut off the Cherethites and destroy the remnant of the seacoast.
 v17: I will execute great vengeance upon them with wrathful rebukes. Then they will know that I am the LORD, when I lay my vengeance upon them."
 </p>
+
 ## Notes
+
 v01–17: - **Word of the Lord** (v1): Ezekiel often begins his prophecy with this phrase, emphasizing the divine origin of the message.  
 - **Son of man** (v2): A title used for Ezekiel, highlighting his humanity in contrast to the divine.  
 - **Aha!** (v3): An expression of triumph or delight over the misfortune of others, illustrating Ammon's malicious gloating over Judah’s downfall.  

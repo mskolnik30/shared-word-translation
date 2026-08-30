@@ -120,19 +120,33 @@ v45: If then David calls him Lord, how is he his son?”
 
 v46: And no one was able to answer him a word, nor from that day did anyone dare to ask him any more questions.
 </p>
+
 ## Notes
+
 v03–06: Refusal escalates from indifference to violence; rejection intensifies.  
+
 v07: Judgment framed as response to mistreatment of the king’s representatives.  
+
 v09–10: Invitation expands beyond original recipients; inclusion widens indiscriminately.  
+
 v11–13: Presence alone is insufficient; appropriate response (“garment”) required.  
+
 v14: Calling is broad; choosing involves discernment or response.  
+
 v17: Question designed as political trap—either disloyalty or compromise.  
+
 v21: Distinction without separation; dual obligation clarified.  
+
 v29: Error traced to ignorance of both text and divine capability.  
+
 v30: Resurrection life differs categorically, not merely quantitatively.  
+
 v32: Present tense (“I am”) grounds argument for ongoing life.  
+
 v37–40: Love functions as interpretive center of the law.  
+
 v41–45: Messiah exceeds simple lineage categories; identity is expanded.  
+
 v46: Silence indicates argumentative closure, not agreement.  
 
 ## Vocabulary

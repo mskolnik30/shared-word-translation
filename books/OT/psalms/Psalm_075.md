@@ -46,12 +46,19 @@ I will sing praises to the God of Jacob.
 v10: All the horns of the wicked I will cut off,
 but the horns of the righteous will be exalted.
 </p>
+
 ## Notes
+
 v01: The repetition of giving thanks emphasizes the community's recognition of God's proximity and continuous acts.
+
 v02–03: God's announcement of judgment highlights divine sovereignty over creation amid instability—a reassurance of divine order.
+
 v04–05: Warnings to the boastful and wicked not to lift their horn—a symbol of strength or pride—serve as admonitions not to exalt themselves improperly.
+
 v06–07: Exaltation and judgment come from God alone, defying human expectations or regional powers.
+
 v08: The imagery of the cup signifies God's judgment. The robust mixed wine symbolizes the intensity of divine retribution, which the wicked must fully drink.
+
 v09–10: The psalmist's declaration of praise juxtaposes the fate of the wicked and the righteous, affirming God's ultimate justice.
 
 ## Vocabulary

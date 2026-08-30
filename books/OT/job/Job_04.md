@@ -88,13 +88,21 @@ without anyone noticing, they perish forever.
 v21: Is not their tent-cord pulled up within them?
 They die, and not in wisdom.’”
 </p>
+
 ## Notes
+
 v02: Eliphaz begins cautiously but soon moves toward a principle he treats as obvious: suffering corresponds to wrongdoing. The book will increasingly test that principle.
+
 v03–05: Eliphaz appeals to Job’s former role as a comforter and implies that Job should now apply to himself the counsel he gave others.
+
 v07: The rhetorical questions reveal Eliphaz’s theology of retribution: the innocent do not perish and the upright are not cut off. Job’s experience immediately puts the claim under pressure.
+
 v08: Agricultural imagery turns conduct into seed and consequence into harvest.
+
 v12–16: Eliphaz grounds part of his argument in a mysterious nocturnal revelation. The experience is presented vividly but is not independently authenticated by the narrator.
+
 v17: The Hebrew can ask whether a mortal is righteous “before” God or “more righteous than” God. TSW uses the less comparative wording while the larger speech stresses human frailty before the Creator.
+
 v18: “messengers” renders Hebrew *malakhim*, which can mean angels. The poetic claim portrays even heavenly servants as insufficiently reliable before God.
 
 ## Vocabulary

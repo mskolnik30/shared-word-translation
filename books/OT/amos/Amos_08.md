@@ -135,22 +135,39 @@ and,
 they will fall
 and never rise again.
 </p>
+
 ## Notes
+
 v01–02: Amos’s fourth vision turns on Hebrew wordplay: *qayits* means “summer fruit,” while *qets* means “end.” The similar sounds cannot be fully reproduced in English, so the note preserves the connection.
+
 v02: “I will no longer pass by him” repeats Amos 7:8. The time for passing over judgment has ended.
+
 v03: Hebrew *heikhal* can mean temple or palace. In the context of Samaria and elite judgment, TSW uses “palace,” while recognizing that “temple songs” is also possible.
+
 v03: The short final command “Silence!” interrupts the corpse imagery abruptly and may signal horror, fear, or forbidden speech in the presence of judgment.
+
 v04–06: The merchants resent sacred time because it interrupts profit. Their corruption includes false measures, inflated currency valuation, debt exploitation, and selling inferior grain.
+
 v05: The ephah is a dry measure; making it small cheats the buyer. Making the shekel “great” increases the amount of silver demanded.
+
 v06: “sweepings of the grain” refers to low-quality residue or refuse sold as though it were food.
+
 v07: “Pride of Jacob” may be a title for the LORD, something in which Jacob takes pride, or a deliberately ambiguous oath formula. Because the LORD is the one swearing, TSW capitalizes it as a divine designation while preserving the phrase.
+
 v07: “Pride of Jacob” may be a title for the LORD, something in which Jacob takes pride, or a deliberately ambiguous oath formula. The phrase remains open to these possibilities.
+
 v08: The land is compared with the Nile rising and falling, turning the earth itself into something unstable under judgment.
+
 v09: Noon darkness makes the ordinary order of day collapse and turns public judgment into cosmic sign.
+
 v10: Mourning for an only child is used as the strongest image of personal grief.
+
 v11: The coming famine is not absence of prophetic need but absence of access to the LORD’s word after Israel repeatedly resisted it.
+
 v12: “from north to east” is unusual; a more symmetrical compass formula might be expected. TSW retains the Masoretic directions rather than correcting them.
+
 v14: “guilt of Samaria” may denote a deity, idol, or cultic object regarded by the prophet as Samaria’s guilt.
+
 v14: “the way of Beersheba” is an unusual oath formula and may refer to pilgrimage practice or a cultic power associated with the route. TSW preserves the wording.
 
 ## Vocabulary

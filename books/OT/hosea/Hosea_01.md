@@ -42,12 +42,19 @@ v10: Yet the number of the children of Israel shall be like the sand of the sea,
 
 v11: The people of Judah and the people of Israel shall be gathered together, and they shall appoint one leader and shall come up from the land, for great shall be the day of Jezreel.
 </p>
+
 ## Notes
+
 v02: The term "whoredom" relates to unfaithfulness, symbolizing Israel's infidelity to God.  
+
 v04: Jezreel refers to a location and symbolic event associated with judgment against the house of Jehu.  
+
 v06: Lo-ruhama means "not pitied" or "not shown mercy," indicating the withdrawal of God's compassion from Israel.  
+
 v09: Lo-ammi means "not my people," signifying the broken covenant relationship.  
+
 v10: The promise recalls Abrahamic covenant imagery of descendants as numerous as the sand on the seashore.  
+
 v10–11: These verses are numbered 2:1–2 in the Hebrew chapter division.
 
 ## Vocabulary

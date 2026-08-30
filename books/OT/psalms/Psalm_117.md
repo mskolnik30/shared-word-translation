@@ -14,6 +14,7 @@ v02: For great over us is God’s steadfast love,
 and the faithfulness of the LORD endures forever.
 Praise the LORD!
 </p>
+
 ## Notes
 
 ## Vocabulary

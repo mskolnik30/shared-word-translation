@@ -127,11 +127,17 @@ v42: Joshua captured all these kings and their land at one time, because the LOR
 
 v43: Then Joshua returned, and all Israel with him, to the camp at Gilgal.
 </p>
+
 ## Notes
+
 v08–11: The victory is repeatedly attributed to the LORD through promise, confusion of the enemy, and hailstones, even as Israel fights and pursues.
+
 v12–14: The language of the sun and moon standing still is poetic and extraordinary. The chapter presents the event as unique and as evidence that the LORD fought for Israel.
+
 v13: “Book of Jashar” — An ancient source also named elsewhere in the Hebrew Bible. The work itself has not been preserved.
+
 v24: Placing feet on the kings’ necks is a public image of military subjugation. The narrative uses the act to strengthen Israel’s commanders for further battle.
+
 v28–40: The repeated *herem* language is severe. TSW preserves the conquest account’s own terminology without attempting to harmonize it with later ethical frameworks.
 
 ## Vocabulary

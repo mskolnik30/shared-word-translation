@@ -33,14 +33,23 @@ v06: Surely goodness and steadfast love shall pursue me
   and I shall dwell in the house of the LORD
   for length of days.
 </p>
+
 ## Notes
+
 v01: “my shepherd” — Establishes a relational metaphor of guidance and provision without royal or military imagery.
+
 v03: “restores my life” — Uses a verb of return or renewal; avoids specifying emotional or moral repair.
+
 v03: “paths of righteousness” — Refers to right or reliable paths; the text does not frame righteousness as moral achievement.
+
 v04: “valley of deepest darkness” — Preserves metaphorical breadth rather than narrowing the phrase to death alone.
+
 v04: Shift to second person — Marks a relational turn from speaking about the LORD to speaking directly to the LORD.
+
 v05: “in the presence of my enemies” — Affirms abundance without the removal of threat.
+
 v06: “pursue me” — Retains the active verb; goodness is depicted as relentless rather than passive.
+
 v06: “for length of days” — Expresses enduring trust without specifying time beyond what the text states.
 
 ## Vocabulary

@@ -36,10 +36,15 @@ v05: For the LORD is good;
 his steadfast love endures forever,
 and his faithfulness to all generations.
 </p>
+
 ## Notes
+
 v01–02: Worship is communal and global (“all the earth”) and marked by joy.
+
 v03: Identity is defined by belonging—created and claimed by God.
+
 v04: Movement into worship is intentional (“enter…give thanks…bless”).
+
 v05: God’s character (goodness, steadfast love, faithfulness) grounds praise.
 
 ## Vocabulary
@@ -67,4 +72,3 @@ v05: חֶסֶד (chesed)
 
 v05: אֱמוּנָה (emunah)
 “Faithfulness.” Reliability.
-

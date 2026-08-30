@@ -69,24 +69,43 @@ v21: Corresponding to this, baptism now saves you—not as a removal of dirt fro
 
 v22: who is at the right hand of God, having gone into heaven, with angels and authorities and powers having been subjected to him.
 </p>
+
 ## Notes
+
 v01–02: Conduct is given priority over speech. The possibility of being “won without a word” does not deny proclamation but situates witness within embodied life.  
+
 v03–04: External adornment is not condemned absolutely but relativized. The contrast directs attention to what is “imperishable,” locating worth in what endures before God.  
+
 v05–06: The appeal to “holy women” situates present instruction within a remembered pattern. Sarah functions as an exemplar, though not without tension.  
+
 v06: “Do not fear anything that is frightening” holds courage and obedience together. The exhortation does not deny fear but resists its rule.  
+
 v07: “According to knowledge” suggests informed, attentive living rather than mere awareness. Honor is grounded in shared inheritance (“co-heirs”), not hierarchy alone.  
+
 v07: The hindering of prayer links relational conduct with spiritual life. Ethical failure is not isolated from worship.  
+
 v08–09: The community ethic is described through a cluster of relational terms. Blessing in response to harm is presented as vocation, not strategy.  
+
 v10–12: The citation frames the exhortation within scriptural witness. Speech, action, and divine attention are held in relation.  
+
 v13–14: The rhetorical question acknowledges general expectation while allowing for exception. Suffering does not negate blessedness.  
+
 v15: “Regard Christ as holy as Lord” centers allegiance internally (“in your hearts”) before it is expressed outwardly.  
+
 v15: “Defense” does not imply hostility but reasoned articulation. Hope is something that can be spoken, though not reduced to argument.  
+
 v16: Gentleness and reverent fear qualify the manner of response. Integrity of life undergirds credibility of speech.  
+
 v17: Suffering is evaluated not by its presence but by its cause. The distinction between doing good and doing evil remains decisive.  
+
 v18: “Once for sins” emphasizes finality. The pairing of “righteous” and “unrighteous” is not symmetrical but purposeful—directed toward reconciliation (“bring you to God”).  
+
 v18–19: “In the flesh” and “in the spirit” mark modes of existence, not simple opposites. The transition introduces the difficult statement that follows.  
+
 v19–20: The “spirits in prison” and the days of Noah are presented without explanation. The text preserves its own opacity rather than resolving it.  
+
 v21: Baptism is clarified by negation (“not…”) and redefinition. The focus falls on relational appeal and resurrection rather than physical washing.  
+
 v22: The final image is one of exaltation and subjection. Authority is universalized, yet grounded in the risen Christ.  
 
 ## Vocabulary
@@ -133,4 +152,3 @@ v21: ἐπερώτημα (eperōtēma)
 
 v22: ὑποτάσσω (hypotassō)  
 “To subject.” Reappears here in relation to cosmic powers under Christ’s authority.  
-

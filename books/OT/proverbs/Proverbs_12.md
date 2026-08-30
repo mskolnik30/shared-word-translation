@@ -155,20 +155,35 @@ is life,
 and along its pathway
 there is no death.
 </p>
+
 ## Notes
+
 v01: The contrast is intentionally severe: refusing correction is not portrayed as independence but as a rejection of the knowledge that discipline can produce.
+
 v04: “capable spouse” — The Hebrew literally says “a woman of strength.” The immediate reference is to a wife, though the quality being praised is capability, strength, and worthy character.
+
 v09: The Hebrew has a textual and interpretive difficulty concerning whether the person is “lightly regarded” or presents themselves as insignificant. The central contrast is between modest status with enough to live and impressive status without necessities.
+
 v10: Righteousness is visible even in treatment of animals. The proverb extends moral concern beyond interpersonal relationships.
+
 v11: “empty things” — The Hebrew can refer to worthless pursuits or people. The contrast is between sustained productive labor and chasing what produces nothing.
+
 v12: The first line is difficult and may describe the wicked desiring the net, prey, or stronghold of evildoers. TSW retains the image of desired gain produced through evil while preserving the contrast with the fruitful root of the righteous.
+
 v16: Prudence does not require answering every insult. The capacity not to react immediately is treated as strength rather than weakness.
+
 v18: Speech can inflict wounds comparable to a weapon or provide healing. Words are treated as actions with real consequences.
+
 v20: “counsel peace” — Peace is not passive absence of conflict. The phrase describes people intentionally planning toward wholeness and reconciliation.
+
 v21: Like many proverbs, the verse describes the normal moral order in strongly stated form rather than claiming that righteous people never experience suffering.
+
 v23: Wisdom does not require displaying everything one knows. Fools expose their lack of discernment through uncontrolled self-disclosure.
+
 v25: The Hebrew verb describes anxiety or care pressing the heart downward. A good word can reverse that inward weight.
+
 v26: The Hebrew text of the first line is difficult and permits multiple readings. TSW follows the sense of the righteous carefully guiding or discerning the way for a neighbor.
+
 v27: The precise image is debated, but the proverb clearly contrasts laziness that fails to make use of what is obtained with diligence that values and completes its work.
 
 ## Vocabulary

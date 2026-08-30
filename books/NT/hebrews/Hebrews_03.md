@@ -66,22 +66,39 @@ v18: And to whom did he swear that they would not enter his rest, but to those w
 
 v19: So we see that they were unable to enter because of unbelief.
 </p>
+
 ## Notes
+
 v01: Identity is communal and participatory.  
+
 v01: Jesus is described through dual roles without explanation.  
+
 v02–06: Comparison with Moses establishes continuity and distinction.  
+
 v03: Value is measured relationally, not absolutely.  
+
 v05–06: Servant and son are contrasted in function.  
+
 v06: Participation is conditional, not assumed.  
+
 v07–11: Citation is authoritative and present.  
+
 v08: Hardening is internal, not imposed.  
+
 v09–10: Experience does not guarantee understanding.  
+
 v11: Exclusion is declared without mitigation.  
+
 v12: Falling away is relational, not merely behavioral.  
+
 v13: Exhortation is continual and mutual.  
+
 v14: Sharing is sustained through endurance.  
+
 v15: Repetition reinforces urgency.  
+
 v16–19: Questions lead to conclusion rather than argument.  
+
 v19: Unbelief is identified as the root condition.  
 
 ## Vocabulary

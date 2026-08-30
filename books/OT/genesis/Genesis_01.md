@@ -101,26 +101,47 @@ v30: And to every beast of the earth and to every bird of the heavens and to eve
 
 v31: And God saw everything that he had made, and behold, it was very good. And there was evening, and there was morning—the sixth day.
 </p>
+
 ## Notes
+
 v01: “In the beginning” introduces not a sequence within time but the origin of ordered existence. The statement stands without explanation.  
+
 v02: “Formless and empty” names unstructured potential rather than absolute nothingness. Darkness and the deep are present but not opposed to God.  
+
 v02: The Spirit “hovering” suggests readiness and presence prior to speech.  
+
 v03–05: Creation begins with speech. Light is called forth without mediation and then named and ordered.  
+
 v05: “Evening…morning” establishes a rhythmic structure that governs the entire chapter.  
+
 v06–08: Separation continues. The expanse orders waters without eliminating them, preserving layered creation.  
+
 v08: “Heavens” names the ordered space rather than a distant realm.  
+
 v09–10: Gathering and appearing introduce stability. Land and sea are distinguished and named.  
+
 v11–13: The earth is commanded to “bring forth,” indicating delegated productivity. Life emerges according to kinds without further elaboration.  
+
 v14–19: Lights are assigned function (signs, seasons, time) rather than identity. Their roles govern order, not worship.  
+
 v16: The greater and lesser lights are described functionally, avoiding their common names.  
+
 v20–23: Waters and skies are filled with life. Multiplication is introduced as blessing rather than necessity.  
+
 v21: Creation includes “great sea creatures,” retaining the presence of what might otherwise be feared.  
+
 v24–25: Land animals are differentiated but not hierarchically ranked.  
+
 v26: “Let us make” introduces plurality without explanation. The image of God is relational and functional.  
+
 v27: The poetic form emphasizes identity. Male and female together bear the image.  
+
 v28: Dominion is given as vocation. Rule is framed within blessing and multiplication.  
+
 v29–30: Provision is comprehensive. Food is given to both humans and animals, establishing a shared dependence.  
+
 v31: “Very good” gathers all prior judgments. The whole creation is affirmed, not merely its parts.  
+
 v31: The sixth day concludes the sequence with completeness, preparing for the cessation that follows.  
 
 ## Vocabulary

@@ -59,20 +59,35 @@ v29: And now I have told you before it happens, so that when it does happen you 
 v30: I will no longer speak much with you, for the ruler of the world is coming. He has no claim on me,
 v31: but I do as the Father has commanded me, so that the world may know that I love the Father. Rise, let us go from here.”
 </p>
+
 ## Notes
+
 v01: “Do not let your hearts be troubled” addresses inner disturbance directly without removing its cause.  
+
 v02: “Many dwelling places” leaves the nature of these spaces undefined, emphasizing presence over structure.  
+
 v06: “The way, and the truth, and the life” gathers multiple claims without separating them; access to the Father is relationally defined.  
+
 v07–11: Mutual indwelling between Father and Son is asserted without explanation, inviting recognition rather than analysis.  
+
 v12: “Greater works” are promised without specification, creating expectation without detail.  
+
 v13–14: Asking “in my name” ties prayer to alignment rather than formula.  
+
 v16–17: The Advocate is both given and known; presence is described as both with and in.  
+
 v18: “I will not leave you as orphans” frames departure in relational terms rather than spatial absence.  
+
 v20: The layered “in” language (Father, Son, disciples) resists simplification.  
+
 v23: Divine dwelling shifts from place to person; presence becomes internal rather than localized.  
+
 v27: Peace is distinguished from worldly peace without defining either fully.  
+
 v28: “The Father is greater than I” stands alongside earlier unity statements without resolution.  
+
 v30: The “ruler of the world” is introduced without elaboration, functioning as a looming presence rather than a defined figure.  
+
 v31: Love is expressed through obedience, linking relationship and action.  
 
 ## Vocabulary
@@ -106,4 +121,3 @@ v27: εἰρήνη (eirēnē)
 
 v30: ἄρχων (archōn)  
 “Ruler.” One who exercises authority; here undefined in scope.  
-

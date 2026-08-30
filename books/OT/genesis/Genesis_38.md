@@ -62,17 +62,29 @@ v28: And when she was giving birth, one put out a hand, and the midwife took and
 v29: But as he drew back his hand, behold, his brother came out. And she said, “What a breach you have made for yourself!” Therefore his name was called Perez.
 v30: Afterward his brother came out, the one who had the scarlet thread on his hand, and his name was called Zerah.
 </p>
+
 ## Notes
+
 v01: The chapter temporarily leaves Joseph’s story and follows Judah, who will later emerge as a central figure among Jacob’s sons.  
+
 v07–10: The deaths of Er and Onan are attributed directly to their wickedness before the LORD.  
+
 v08: The duty described here later becomes formalized in Israel as levirate marriage, preserving a deceased brother’s family line.  
+
 v11: Judah delays giving Shelah to Tamar, leaving her in an uncertain and vulnerable position.  
+
 v14: Tamar acts because Judah has failed to fulfill his obligation toward her.  
+
 v15–18: Judah unknowingly provides the very evidence that will later expose his own involvement.  
+
 v24: Judah initially judges Tamar harshly without recognizing his own responsibility.  
+
 v25–26: Tamar does not accuse Judah directly but presents the evidence and allows him to identify it himself.  
+
 v26: Judah’s confession marks a significant turning point in his character. He acknowledges both Tamar’s righteousness and his own failure.  
+
 v27–30: The birth narrative echoes earlier Genesis reversals in which the expected firstborn does not emerge first.  
+
 v29: Perez becomes a significant ancestor in the lineage that eventually leads to King David.  
 
 ## Vocabulary
@@ -116,4 +128,3 @@ v30: שָׁנִי (šānî)
 
 v08: יָבַם (yāḇam)
 “To perform the duty of a brother-in-law.” To raise offspring for a deceased brother through marriage to his widow.
-

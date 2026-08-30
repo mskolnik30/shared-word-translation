@@ -100,24 +100,43 @@ v28: There is no Jew or Greek, there is no slave or free, there is no male and f
 <p>
 v29: And if you are Christ’s, then you are Abraham’s offspring, heirs according to the promise.
 </p>
+
 ## Notes
+
 v01: “Bewitched” suggests distortion of perception rather than simple error. The issue is not lack of information but altered vision.  
+
 v01: “Publicly portrayed as crucified” grounds theology in a shared proclamation, not private insight.  
+
 v02–05: The repeated question (“by works…or by hearing with faith?”) structures the argument. Experience of the Spirit becomes evidence.  
+
 v03: Beginning and completion are contrasted. The shift from Spirit to flesh is treated as regression.  
+
 v04: Suffering is invoked as interpretive evidence. Its value depends on continuity with the gospel.  
+
 v06–07: Abraham functions as precedent. Faith defines lineage more than ethnicity.  
+
 v08: Scripture is personified as foreseeing and proclaiming. The promise precedes its fulfillment.  
+
 v10–12: The law is described in absolute terms. Partial compliance is insufficient within its own framework.  
+
 v13: Christ’s becoming a curse is stated without explanation, preserving the density of the claim.  
+
 v14: The movement is from curse to blessing, from law to Spirit, unified through faith.  
+
 v15–16: Paul’s argument turns on the singular “offspring.” The reading is precise and contested, yet asserted without defense.  
+
 v17–18: Temporal sequence establishes priority. The later law cannot invalidate the earlier promise.  
+
 v19–20: The law is temporary and mediated. The role of angels and a mediator introduces complexity without resolution.  
+
 v21–22: The law is not opposed to promise but limited. Scripture’s “imprisonment” creates the condition for promise.  
+
 v23–25: Custody imagery frames the law as restrictive but provisional.  
+
 v24: “Guardian” suggests supervision and discipline, not final authority.  
+
 v26–28: Identity is reconstituted in Christ. Social and ethnic distinctions are neither erased nor determinative.  
+
 v29: Inheritance follows belonging. Promise, not law, defines heirs.  
 
 ## Vocabulary

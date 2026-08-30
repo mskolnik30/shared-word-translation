@@ -48,14 +48,23 @@ than they have when their grain and wine abound.
 v08: In peace I will both lie down and sleep;
 for you alone, O LORD, make me dwell in safety.
 </p>
+
 ## Notes
+
 v01: Past deliverance grounds present appeal (“you have given me relief”).
+
 v02: The conflict centers on honor/shame and truth/falsehood.
+
 v03: Being “set apart” defines identity before action.
+
 v04: Anger is acknowledged but bounded—reflection leads to restraint.
+
 v05: Proper worship is linked with trust, not mere ritual.
+
 v06: The desire for “good” is redirected toward God’s presence.
+
 v07: Inner joy surpasses external prosperity.
+
 v08: Peace and sleep function as expressions of trust.
 
 ## Vocabulary
@@ -95,4 +104,3 @@ v08: שָׁלוֹם (shalom)
 
 v08: בֶּטַח (betach)  
 “Safety.” Security.
-

@@ -48,11 +48,17 @@ v21: Sometimes the cloud remained from evening until morning, and when the cloud
 v22: Whether two days, a month, or a longer time, as long as the cloud remained over the tabernacle, resting upon it, the Israelites remained in camp and did not set out; but when it lifted, they set out.
 v23: At the command of the LORD they camped, and at the command of the LORD they set out. They kept the charge of the LORD according to the command of the LORD through Moses.
 </p>
+
 ## Notes
+
 v06–08: The men’s impurity is not treated as rebellion. Their question opens a space for further instruction, and Moses waits for a word from the LORD rather than improvising an answer.
+
 v10–12: The second-month Passover allows participation after unavoidable impurity or travel without making the appointed feast optional.
+
 v13: “cut off” — The Hebrew phrase marks serious exclusion or judgment, but the text does not specify the precise social or divine mechanism in every occurrence.
+
 v14: The resident alien who participates in Passover follows the same ritual statute as the native-born Israelite.
+
 v18–23: The repeated phrases “at the command of the LORD” and “when the cloud lifted” make Israel’s movement dependent upon divine presence rather than a fixed human schedule.
 
 ## Vocabulary

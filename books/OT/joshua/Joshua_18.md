@@ -76,11 +76,17 @@ v27: Rekem, Irpeel, Taralah,
 
 v28: Zelah, Haeleph, the Jebusite—that is, Jerusalem—Gibeah, and Kiriath: fourteen cities with their villages. This was the inheritance of the children of Benjamin according to their clans.
 </p>
+
 ## Notes
+
 v01: Shiloh becomes the location of the tent of meeting and the administrative center for the remaining allotments.
+
 v03: Joshua interprets delay in receiving the remaining land as slackness. Gift does not remove the need to enter and possess.
+
 v04–10: The land is surveyed and written in a scroll before lots are cast. Administrative description and sacred lot-casting work together in the distribution.
+
 v07: Levi’s “inheritance” is again defined through priestly service rather than a continuous tribal territory.
+
 v11–20: Benjamin’s territory lies between Judah and Joseph, giving the tribe a geographically strategic position in Israel’s central highlands.
 
 ## Vocabulary

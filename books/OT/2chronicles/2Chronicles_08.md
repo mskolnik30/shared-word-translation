@@ -62,10 +62,15 @@ v17: Then Solomon went to Ezion-Geber and to Eloth on the shore of the sea in th
 
 v18: Huram sent him by the hand of his servants ships and servants who knew the sea. They went with Solomon’s servants to Ophir and took from there four hundred fifty talents of gold and brought it to King Solomon.
 </p>
+
 ## Notes
+
 v08: Chronicles distinguishes forced labor imposed on surviving non-Israelite populations from military and administrative service assigned to Israelites.
+
 v11: The explanation concerning Pharaoh’s daughter reflects Chronicles’ strong concern for the holiness of spaces associated with the ark.
+
 v13–14: Solomon’s worship program is presented as continuity with both Moses and David.
+
 v18: The location of Ophir remains uncertain. It was renowned as a source of gold.
 
 ## Vocabulary

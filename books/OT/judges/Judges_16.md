@@ -101,14 +101,23 @@ v30: Samson said, “Let my life die with the Philistines.” Then he bowed with
 
 v31: Then his brothers and all his father’s household came down, carried him away, brought him up, and buried him between Zorah and Eshtaol in the tomb of Manoah his father. He had judged Israel twenty years.
 </p>
+
 ## Notes
+
 v01–03: Samson again combines sexual risk with extraordinary strength. Carrying Gaza’s gate away publicly humiliates a fortified Philistine city.
+
 v05: The promised payment is enormous, showing both the rulers’ fear of Samson and the economic incentive placed before Delilah.
+
 v13–14: Samson’s hair enters the deception before he finally reveals the truth, showing him moving progressively closer to disclosing the sign of his consecration.
+
 v16: “his soul became impatient to the point of death” — The same idiom of a shortened or unbearable *nefesh* used elsewhere conveys extreme inward pressure.
+
 v17: Samson identifies his uncut hair with his Nazirite consecration, not as magic in itself. His strength finally leaves when the consecration is violated and the LORD departs.
+
 v20: The tragic line “he did not know that the LORD had departed from him” marks the collapse of Samson’s confidence that previous experience can simply be repeated.
+
 v28: Samson’s final prayer seeks divine strength but also explicitly seeks personal vengeance for his eyes. Deliverance and retaliation remain intertwined.
+
 v30: Samson’s greatest destruction occurs in his own death. He “begins” Israel’s deliverance from the Philistines, as announced in chapter 13, but does not complete it.
 
 ## Vocabulary

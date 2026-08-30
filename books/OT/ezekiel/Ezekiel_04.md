@@ -34,10 +34,15 @@ v15: Then he said to me, "Behold, I have given you cow dung instead of human dun
 v16: He also said to me, "Son of man, behold, I will break the supply of bread in Jerusalem. They shall eat bread by weight and in anxiety, and drink water by measure and in dismay.
 v17: Because they lack bread and water, they will look at each other in dismay and waste away because of their iniquity."
 </p>
+
 ## Notes
+
 v04–06: The prophet Ezekiel is commanded to symbolize Israel's and Judah's iniquity through his lying on different sides, with each day representing a year of their iniquity.  
+
 v09: "Emmer" (כֻּסֶּמֶת, kusemet) is a type of ancient wheat.  
+
 v12: The striking image of bread baked on human dung underscores the depth of Israel's defilement. Ezekiel's protest emphasizes his personal purity within this symbolic act.  
+
 v13: Use of "unclean" signifies ritual impurity, highlighting the spiritual and physical separation from God that exile entails.  
 
 ## Vocabulary

@@ -36,9 +36,13 @@ v08: He was twenty-five years old when he became king, and he reigned sixteen ye
 
 v09: Jotham lay down with his ancestors, and they buried him in the city of David. Ahaz his son became king in his place.
 </p>
+
 ## Notes
+
 v02: Jotham avoids his father Uzziah’s temple transgression, yet popular corruption continues despite the king’s faithfulness.
+
 v05: Tribute from Ammon demonstrates political strength but is not made the theological center of the chapter.
+
 v06: Jotham’s strength is explicitly grounded in ordering his ways before the LORD.
 
 ## Vocabulary

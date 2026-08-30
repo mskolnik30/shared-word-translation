@@ -72,13 +72,21 @@ v23: So God subdued Jabin king of Canaan before the sons of Israel on that day.
 
 v24: And the hand of the sons of Israel pressed harder and harder against Jabin king of Canaan until they cut off Jabin king of Canaan.
 </p>
+
 ## Notes
+
 v01–02: The cyclical pattern resumes—apostasy leads to subjugation. “Sold into the hand” frames oppression as covenantal consequence.
+
 v03: Military superiority (iron chariots) intensifies the imbalance; prolonged oppression provokes renewed dependence.
+
 v04–05: Deborah’s role is both prophetic and judicial. Authority is exercised in a public, accessible setting.
+
 v06–07: The command is framed as already given—Barak is being recalled to obedience, not newly commissioned.
+
 v07: Divine agency governs the outcome; Sisera is “drawn out” into a predetermined defeat.
+
 v08: Barak’s hesitation ties obedience to presence—he seeks assurance through Deborah.
+
 v09: The narrative redirects honor. Victory will come, but not in expected form—gender reversal marks divine initiative.
 
 ## Vocabulary
@@ -134,4 +142,3 @@ v08: הָלַךְ (hālaḵ)
 v09: תִּפְאֶרֶת (tip̄ʾereṯ)  
 
 “Glory/honor.” Public recognition or renown.
-

@@ -68,6 +68,7 @@ and no cry of distress in our streets.
 v15: Happy are the people for whom it is so;
 happy are the people whose God is the LORD.
 </p>
+
 ## Notes
 
 v02: The final verb can be read “subdues my people under me” or, with ancient witnesses and a different vocalization, “subdues peoples under me.” The plural “peoples” is used here while the textual question is acknowledged.

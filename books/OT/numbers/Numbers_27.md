@@ -53,13 +53,21 @@ v21: He shall stand before Eleazar the priest, who shall inquire for him by the 
 v22: Moses did as the LORD commanded him. He took Joshua and had him stand before Eleazar the priest and before the whole congregation.
 v23: He laid his hands on him and commissioned him, as the LORD had spoken through Moses.
 </p>
+
 ## Notes
+
 v04: The daughters’ request is simultaneously about land and name. Without inheritance, their father’s line would disappear from its place within the clan.
+
 v05: Moses does not decide the unprecedented case from personal authority; he brings it before the LORD.
+
 v07: The LORD’s response begins by affirming the women’s speech as right, and their case becomes the basis for a broader inheritance statute.
+
 v16: Moses uses the title “God of the spirits of all flesh,” previously used in intercession in Numbers 16:22, now in a request for a successor appropriate to the whole congregation.
+
 v18: “in whom is the Spirit” may refer to divine Spirit or spirit/capacity given by God. The capitalization in English reflects the commissioning context while the Hebrew itself does not mark capitalization.
+
 v18: Hebrew *ruach* can mean “spirit,” “breath,” or “wind.” In this commissioning context it may refer to divine Spirit or to spirit/capacity given by God.
+
 v20: Joshua receives “some” of Moses’ authority, preserving both continuity and distinction between the two leaders.
 
 ## Vocabulary

@@ -100,18 +100,31 @@ v26: At the same time he was hoping that money would be given to him by Paul; th
 <p>
 v27: But when two years had been completed, Felix was succeeded by Porcius Festus, and wishing to gain favor with the Jews, Felix left Paul in custody.
 </p>
+
 ## Notes
+
 v02–04: Formal rhetoric seeks to gain favor before presenting accusation.  
+
 v05: Charges include political, social, and religious disruption.  
+
 v10–13: Defense emphasizes lack of evidence.  
+
 v14–15: Paul frames his faith as continuity with Jewish tradition.  
+
 v15: Resurrection remains the central doctrinal issue.  
+
 v16: Ethical integrity is rooted in conscience before God and people.  
+
 v17–18: Purpose of visit is charitable and religious, not disruptive.  
+
 v22–23: Delay reflects both knowledge and political caution.  
+
 v24–25: Gospel reasoning confronts moral and eschatological realities.  
+
 v26: Corruption influences judicial handling.  
+
 v27: Political expediency prolongs imprisonment.  
+
 v07: Verse 7 and related words extending from verses 6 to 8 are absent from the earliest and strongest Greek witnesses; later manuscripts expand the account of Lysias taking Paul from the crowd. Public verse numbering is retained.
 
 ## Vocabulary

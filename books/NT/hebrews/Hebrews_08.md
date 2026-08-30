@@ -70,19 +70,33 @@ and I will remember their sins no more.”
 
 v13: In speaking of a new covenant, he makes the first obsolete. And what is becoming obsolete and growing old is ready to vanish away.
 </p>
+
 ## Notes
+
 v01: Summary is stated explicitly rather than inferred.  
+
 v01–02: Location defines role; heavenly context is emphasized.  
+
 v03–04: Priesthood requires offering; role is functional.  
+
 v05: Earthly service is described as derivative.  
+
 v05: Pattern precedes construction.  
+
 v06: Superiority is comparative across ministry, covenant, and promises.  
+
 v07: Second covenant implies insufficiency of the first.  
+
 v08–12: Citation is extended without interruption.  
+
 v09: Discontinuity is attributed to failure to continue.  
+
 v10: Internalization replaces external instruction.  
+
 v11: Knowledge becomes universal within the group.  
+
 v12: Forgiveness includes removal of memory.  
+
 v13: Obsolescence is gradual, not instantaneous.  
 
 ## Vocabulary

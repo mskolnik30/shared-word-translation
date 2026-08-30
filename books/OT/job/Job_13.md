@@ -110,13 +110,21 @@ you mark the soles of my feet.
 v28: And he wastes away like something rotten,
 like a garment eaten by moths.”
 </p>
+
 ## Notes
+
 v03: Job explicitly asks to argue his case with God rather than continue debating the friends. Legal language increasingly structures his prayer.
+
 v04: “worthless physicians” — The friends claim to diagnose Job’s condition but their treatment is based on what Job calls lies.
+
 v07–10: Job argues that defending God through falsehood is itself an offense against God. Divine honor does not require dishonest advocacy.
+
 v15: The Hebrew consonantal text can be read “Though he kill me, I will hope in him,” while the traditional marginal reading yields “I have no hope.” Both fit aspects of Job’s speech. TSW follows the well-known hopeful reading while noting the textual ambiguity.
+
 v16: Job’s confidence is paradoxical: the very willingness to approach God with his case becomes evidence that he is not godless.
+
 v20–22: Job asks for two conditions for a fair hearing: relief from divine force and relief from terror. Only then can speech occur without coercion.
+
 v23: Rather than denying the possibility of all sin, Job asks for specific charges. His complaint is against disproportionate or unexplained punishment.
 
 ## Vocabulary

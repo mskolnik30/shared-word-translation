@@ -43,10 +43,15 @@ v20: These were the living beings I had seen beneath the God of Israel by the ri
 v21: Each had four faces and each one four wings; and the likeness of human hands was under their wings.
 v22: As for the likeness of their faces, they were the same faces whose appearance I had seen by the river Kebar. Each went straight forward.
 </p>
+
 ## Notes
+
 v01: The "expanse" and "throne" maintain imagery from previous visions of divine presence associated with God's rule and authority.  
+
 v07: The repetition highlights the ordered and purposeful movement and actions of the cherubim and wheels, emphasizing obedience and synchronicity in divine service.  
+
 v13: The term "whirling wheels" suggests both their function and appearance, enhancing the imagery of dynamic movement characteristic to this vision.  
+
 v18: The movement of the LORD's glory signifies a transition and often marks shifts in divine presence or action within the narrative arc.  
 
 ## Vocabulary

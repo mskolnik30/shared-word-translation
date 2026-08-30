@@ -68,23 +68,41 @@ v25: Righteous Father, even though the world does not know you, I know you, and 
 
 v26: I made known to them your name, and I will make it known, so that the love with which you have loved me may be in them, and I in them.
 </p>
+
 ## Notes
+
 v01: “The hour has come” gathers the passion, glorification, and return to the Father into a single moment.  
+
 v02: Authority is described in relation to gift: the Son gives life to those given to him.  
+
 v03: Eternal life is defined relationally as knowing God and the sent one, not merely as unending duration.  
+
 v04–05: Glory moves between earth and divine presence. Jesus speaks of completed work before the passion, anticipating its fulfillment.  
+
 v06–08: The disciples’ faith is framed as reception: they have received the words, known their source, and believed the sending.  
+
 v09–10: Jesus distinguishes his prayer for the disciples from prayer for the world, while still holding the disciples within God’s ownership.  
+
 v11: Unity is grounded in the relation of Father and Son. The prayer is not for sameness but for shared belonging.  
+
 v12: “Son of destruction” marks Judas by outcome and scriptural fulfillment without reducing his role to explanation.  
+
 v13: Jesus speaks “in the world” so that joy may be fulfilled within the disciples, not postponed beyond their present life.  
+
 v14–16: The disciples remain in the world while not belonging to it. Separation is vocational rather than spatial.  
+
 v17: Sanctification is located “in the truth,” and truth is identified with God’s word.  
+
 v18–19: The sending of the disciples mirrors the sending of Jesus. His self-sanctification is for their consecration.  
+
 v20–21: The prayer widens beyond the immediate disciples to future believers who come through apostolic witness.  
+
 v21–23: Unity is missional: the world is to know the Father’s sending and love through the visible communion of believers.  
+
 v24: The desire of Jesus is that those given to him should be with him and behold his glory. Presence and vision are held together.  
+
 v25: “Righteous Father” names God’s faithfulness in contrast to the world’s ignorance.  
+
 v26: The chapter closes with continuing revelation of the Father’s name, so that divine love may dwell in the disciples.  
 
 ## Vocabulary
@@ -142,4 +160,3 @@ v25: δίκαιος (dikaios)
 
 v26: ἀγάπη (agapē)  
 “Love.” The love of the Father for the Son, shared with and dwelling in the disciples.  
-

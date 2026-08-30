@@ -134,11 +134,17 @@ v39: Paul said, “I am a Jewish man from Tarsus in Cilicia, a citizen of no ins
 
 v40: When he had given permission, Paul stood on the steps and motioned with his hand to the people. When a great silence came, he addressed them in the Hebrew language, saying:
 </p>
+
 ## Notes
+
 v13: Commitment to mission includes readiness for death.
+
 v20–24: Tension between Jewish practice and Gentile mission is managed strategically.
+
 v25: Jerusalem decree remains in force for Gentiles.
+
 v27–29: False assumptions escalate conflict.
+
 v30–36: Roman intervention prevents immediate execution.
 
 ## Vocabulary
@@ -190,4 +196,3 @@ v36: αἴρω (airō)
 
 v04: διὰ τοῦ πνεύματος (dia tou pneumatos)
 “Through the Spirit.”
-

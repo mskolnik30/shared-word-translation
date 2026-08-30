@@ -70,18 +70,31 @@ believed in the world,
 
 taken up in glory.
 </p>
+
 ## Notes
+
 v01: Leadership is framed as “work,” not status.  
+
 v02–03: Qualifications emphasize character over skill, with teaching as the primary functional ability.  
+
 v04–05: Household management is used as a testing ground for communal leadership.  
+
 v06: Spiritual maturity is required. Premature elevation leads to distortion (“puffed up”).  
+
 v07: Reputation beyond the community matters, linking internal and external perception.  
+
 v08–10: Servants are assessed similarly, though without emphasis on teaching.  
+
 v09: “Mystery of the faith” is held with integrity, not merely understood.  
+
 v10: Testing precedes recognition, establishing process.  
+
 v11: The role of women is stated briefly and ambiguously, without clear definition of function.  
+
 v13: Service leads to both standing and confidence, not prestige alone.  
+
 v15: The church is described structurally (“household”) and functionally (“pillar…of truth”).  
+
 v16: The poetic confession summarizes Christ’s movement from incarnation to exaltation.  
 
 ## Vocabulary

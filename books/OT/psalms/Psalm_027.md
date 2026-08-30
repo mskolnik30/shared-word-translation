@@ -71,15 +71,25 @@ v14: Wait for the LORD;
   be strong, and let your heart take courage;
   wait for the LORD.
 </p>
+
 ## Notes
+
 v01: Light and salvation pair what is often kept apart—illumination and rescue. Light here is not a metaphor for understanding, but for the LORD’s nearness.
+
 v02: The metaphor of being eaten (“to devour my flesh”) names a violence that is total, not measured.
+
 v04: The single petition is striking against the backdrop of military threat. What is asked for is not victory but presence.
+
 v05: The shelter and tent imagery returns to the wilderness sanctuary, where divine presence and refuge coincide.
+
 v08: A textual difficulty stands here. The Hebrew is uneven, and may be read as God’s command (“Seek my face!”) followed by the speaker’s response. The translation preserves the most widely received reading.
+
 v10: The sentence is conditional in form but absolute in claim. Even the most foundational human bond is named as possibly failing; the LORD remains.
+
 v13: The Hebrew opens with an emphatic word that resists smooth translation. Some scribal traditions mark it as if missing, suggesting that the verse breaks off and resumes. The translation reads the line as written.
+
 v14: The closing “wait” frames the whole psalm. The petitioner does not yet hold what was asked for in v.4; trust is sustained, not resolved.
+
 v08: A textual difficulty stands here. The Hebrew is uneven, and may be read as God’s command (“Seek my face!”) followed by the speaker’s response.
 
 ## Vocabulary

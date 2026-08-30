@@ -42,20 +42,35 @@ v16: calling to the mountains and rocks, “Fall on us and hide us from the face
 
 v17: for the great day of their wrath has come, and who is able to stand?”
 </p>
+
 ## Notes
+
 v01: Each seal is opened by the Lamb, but the summons (“Come”) is issued by the living creatures.
+
 v02: The rider’s conquest is stated without clarification of identity or method.
+
 v04: Violence is described as permitted, not self-originating.
+
 v05–06: Economic imagery signals scarcity; value is distorted rather than absent.
+
 v06: The preservation of oil and wine introduces asymmetry without explanation.
+
 v08: Death and Hades are paired, linking event and domain.
+
 v08: Authority is partial (“a fourth”), not total.
+
 v09: The slain are located “under the altar,” associating death with offering.
+
 v10: The cry for justice remains unanswered in timing, not denied.
+
 v11: Completion is required before resolution; suffering is not isolated.
+
 v12–14: Cosmic imagery disrupts creation without interpretation.
+
 v15: Social distinctions collapse under shared fear.
+
 v16: The “wrath of the Lamb” juxtaposes expected categories.
+
 v17: The question remains open; no answer is provided.
 
 ## Vocabulary
@@ -99,4 +114,3 @@ v14: βιβλίον (biblion)
 v17: ὀργή (orgē)
 
 “Wrath.” Directed response, not uncontrolled anger.
-

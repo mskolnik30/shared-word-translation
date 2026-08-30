@@ -74,12 +74,19 @@ v23: He went there, to Naioth in Ramah. The Spirit of God came upon him also, an
 
 v24: He also stripped off his garments, and he too prophesied before Samuel and lay naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?”
 </p>
+
 ## Notes
+
 v01–07: Jonathan argues for David through innocence, loyal service, and the LORD’s deliverance, temporarily reversing Saul’s death order.
+
 v09: The “evil spirit from the LORD” continues the difficult theology introduced in 1 Samuel 16:14. The text attributes Saul’s torment to a destructive spirit under divine sovereignty.
+
 v11–17: Michal acts decisively to save David but then tells Saul that David threatened her. The narrative does not disclose whether this is self-protection or reflects another motive.
+
 v13: The household idol (*teraphim*) is large enough here to simulate a person in bed, showing that such objects varied in size.
+
 v20–21: Three groups sent to arrest David are overtaken by prophetic activity instead, turning coercive royal power into involuntary participation in prophecy.
+
 v24: “Naked” can mean stripped of outer garments rather than completely unclothed. The scene humiliates Saul and repeats the proverb from 10:12 in a darker context.
 
 ## Vocabulary

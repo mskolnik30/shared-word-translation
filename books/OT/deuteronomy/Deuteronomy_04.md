@@ -138,19 +138,31 @@ v48: from Aroer, which is on the edge of the Wadi Arnon, as far as Mount Sion—
 
 v49: and all the Arabah beyond the Jordan toward the sunrise, as far as the Sea of the Arabah, under the slopes of Pisgah.
 </p>
+
 ## Notes
+
 v02: Moses forbids both adding to and subtracting from the commanded word, framing obedience as faithful reception rather than creative expansion.
+
 v06–08: Israel’s instruction is intended to become visible wisdom before surrounding peoples, not merely an internal legal code.
 
 v12, v15: The repeated claim “you saw no form” grounds the prohibition of images in Israel’s actual Sinai experience: the people heard a voice without seeing a divine shape.
+
 v13: “Ten Words” is the Hebrew phrase traditionally rendered “Ten Commandments.”
+
 v19: The statement that heavenly bodies were “allotted to all the peoples” is difficult. In context, Israel must not worship them; the verse does not endorse astral worship for other nations.
+
 v20: Egypt is called an “iron furnace,” an image of intense affliction and refining heat.
+
 v24: “consuming fire” and “jealous God” describe the danger of covenant betrayal in the presence of exclusive divine holiness.
+
 v29: Exile does not end the possibility of return. Seeking with the whole heart and life is promised an answer.
+
 v31: The ground of hope after judgment is the LORD’s compassion and faithfulness to the ancestral covenant.
+
 v34: The exodus is described as a uniquely public act of divine intervention involving signs, wonders, war, and terrifying power.
+
 v37: “by his presence” translates “before his face/presence,” emphasizing personal divine involvement in the exodus.
+
 v41–43: The cities of refuge interrupt the theological discourse with a concrete legal action, linking Moses’ teaching with actual social provision.
 
 ## Vocabulary

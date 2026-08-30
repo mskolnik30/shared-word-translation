@@ -72,10 +72,15 @@ so he will not always be threshing it. Although he drives the wheel of his thres
 <p>
 v29: This also comes forth from the LORD of Hosts, who is wonderful in counsel, and excellent in wisdom.
 </p>
+
 ## Notes
+
 v16: “a tested stone” — Zion’s foundation is pictured as reliable precisely in contrast to the false refuge and covenant named around it.  
+
 v16: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+
 v05: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+
 v15: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.  
 
 ## Vocabulary
@@ -97,4 +102,3 @@ v06: מִשְׁפָּט (mishpat)
 
 v05: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-

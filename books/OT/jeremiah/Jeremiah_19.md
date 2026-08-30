@@ -66,6 +66,7 @@ v14: Then Jeremiah came from Topheth, where the LORD had sent him to prophesy. H
 <p>
 v15: Thus says the LORD of Hosts, the God of Israel: Look, I am bringing on this city and on all its towns all the disaster that I have spoken against it, because they stiffened their neck so as not to listen to my words.
 </p>
+
 ## Notes
 
 ## Vocabulary

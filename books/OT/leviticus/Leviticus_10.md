@@ -54,11 +54,17 @@ v18: Look, its blood was not brought inside the sanctuary. You certainly should 
 v19: Aaron said to Moses, “Look, today they presented their sin offering and their burnt offering before the LORD, and such things as these have happened to me. If I had eaten the sin offering today, would it have been good in the eyes of the LORD?”
 v20: When Moses heard this, it was good in his eyes.
 </p>
+
 ## Notes
+
 v01: “unauthorized fire” — The Hebrew literally says “strange fire,” defined immediately as fire the LORD had not commanded. The text does not specify the exact procedural violation beyond that.
+
 v03: Aaron’s silence is left uninterpreted. The narrative does not tell the reader whether it reflects grief, submission, shock, or another response.
+
 v09–11: The prohibition of alcohol is directly tied to priestly discernment and teaching, not stated here as a general prohibition for all Israelites.
+
 v10: “holy/common” and “unclean/clean” are distinct pairs. Ritual categories are not simply synonyms for moral good and evil.
+
 v19–20: Aaron’s argument is accepted by Moses, showing that ritual instruction is applied within the reality of catastrophic grief rather than mechanically detached from circumstance.
 
 ## Vocabulary

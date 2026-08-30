@@ -107,20 +107,35 @@ v51: While he was blessing them, he withdrew from them and was carried up into h
 v52: And they worshiped him, and returned to Jerusalem with great joy,
 v53: and they were continually in the temple blessing God.
 </p>
+
 ## Notes
+
 v05–06: “Why do you seek the living among the dead?” — The resurrection reframes expectation; the question exposes how easily hope is still located in places of death.  
+
 v11: “like nonsense… they did not trust them” — Testimony of resurrection first appears as implausible; disbelief is not dismissed but named as part of the process.  
+
 v16: “their eyes were kept” — Recognition is not merely intellectual; perception is given, not achieved.  
+
 v21: “we had hoped” — The line holds grief and disappointment; resurrection meets people inside collapsed expectations.  
+
 v25–27: “slow of heart… interpreted” — Jesus does not replace scripture but rereads it; suffering is not an interruption of God’s work but part of its pattern.  
+
 v30–31: “took… blessed… broke… gave” — Recognition occurs in shared practice; the meal becomes a site of revelation.  
+
 v32: “hearts burning” — Understanding is experiential as well as cognitive; truth is felt before it is fully grasped.  
+
 v36: “Peace to you” — The first word is not correction but peace; presence precedes explanation.  
+
 v39: “touch me and see” — Resurrection is embodied, not abstract; continuity and transformation are held together.  
+
 v41: “for all their joy they still did not trust” — Joy does not eliminate uncertainty; faith and hesitation coexist.  
+
 v45: “opened their minds” — Understanding scripture is an act of divine illumination, not merely study.  
+
 v47: “repentance and forgiveness… to all nations” — The scope widens outward; resurrection leads to proclamation, not containment.  
+
 v49: “clothed with power” — Mission is not self-generated; it depends on what is given.  
+
 v51–53: “blessed them… great joy” — The departure of Jesus is not loss alone; it becomes the ground of worship and sustained joy.  
 
 ## Vocabulary

@@ -86,6 +86,7 @@ are heard more than the cry of a ruler among fools.
 v18: Wisdom is better than weapons of war,
 but one sinner destroys much good.
 </p>
+
 ## Notes
 
 v04: The written form has an unusual verb that may mean “is chosen,” while the traditional reading understands “is joined.” The latter fits the contrast between those still among the living and the dead.

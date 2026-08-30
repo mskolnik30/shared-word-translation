@@ -60,15 +60,25 @@ v27: And the rain fell, and the floods came, and the winds blew and struck that 
 v28: And when Jesus finished these words, the crowds were astonished at his teaching,
 v29: for he was teaching them as one having authority, and not as their scribes.
 </p>
+
 ## Notes
+
 v01–02: Judgment is framed reflexively; the measure used returns upon the one who uses it.  
+
 v03–05: The exaggerated imagery exposes moral blindness rather than offering technique.  
+
 v06: Discernment remains necessary; prohibition of judgment is not indiscriminate openness.  
+
 v07–11: Repetition reinforces persistence without reducing prayer to method.  
+
 v12: The Law and the Prophets are gathered, not replaced.  
+
 v13–14: The contrast is qualitative; the way of life is described as constrained rather than merely rare.  
+
 v15–20: Fruit names observable outcome over time rather than immediate appearance.  
+
 v21–23: Confession and activity are insufficient apart from relationship.  
+
 v24–27: The distinction lies in doing; both hear, only one acts.  
 
 ## Vocabulary

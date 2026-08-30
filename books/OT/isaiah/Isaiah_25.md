@@ -28,10 +28,15 @@ v10: For in this mountain the hand of the LORD will rest. Moab will be trodden d
 v11: He will spread out his hands in its midst, like one who swims spreads out hands to swim, but his pride will be humbled together with the craft of his hands.
 v12: He has brought the high fortress of your walls down, laid low, and brought to the ground, even to the dust.
 </p>
+
 ## Notes
+
 v08: “swallow up death” — Death itself becomes the object consumed by the LORD, reversing the repeated biblical image of death swallowing the living.  
+
 v06: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.  
+
 v03: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
+
 v09: “salvation” — Hebrew *yeshuah* and related roots describe deliverance, rescue, and the saving action of the LORD.  
 
 ## Vocabulary
@@ -50,4 +55,3 @@ v09: יְשׁוּעָה (yeshuah)
 
 v06: יְהוָה צְבָאוֹת (YHWH tseva'ot)
 “LORD of Hosts.” A title joining the divine name to “hosts/armies.”
-

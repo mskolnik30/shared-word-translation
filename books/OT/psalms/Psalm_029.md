@@ -38,12 +38,19 @@ the LORD sits enthroned as king forever.
 v11: May the LORD give strength to his people;
 may the LORD bless his people with peace.
 </p>
+
 ## Notes
+
 v01: “Sons of gods” is a literal rendering of a phrase that may refer to heavenly beings. The psalm opens by summoning even the divine council to acknowledge the LORD’s incomparable glory and strength.  
+
 v02: “Holy splendor” can also be understood as “the splendor of holiness.” The phrase holds together the LORD’s holiness and the fitting beauty of worship offered to him.  
+
 v03–09: The repeated “voice of the LORD” evokes a thunderstorm moving from the waters and Lebanon toward the wilderness of Kadesh. The storm imagery declares the LORD’s sovereign power over creation.  
+
 v09: The final clause may refer to all within the LORD’s temple, or more broadly to everything in it. The response to the LORD’s terrifying voice is the single cry, “Glory!”  
+
 v10: “The flood” uses a word otherwise associated with the great flood of Genesis. The LORD’s kingship is set over the most overwhelming waters and endures forever.  
+
 v01: “Sons of gods” is a literal rendering of a phrase that may refer to heavenly beings.
 
 ## Vocabulary

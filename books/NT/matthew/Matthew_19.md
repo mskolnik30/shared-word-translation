@@ -84,21 +84,37 @@ v29: And everyone who has left houses or brothers or sisters or father or mother
 
 v30: But many who are first will be last, and the last first.”
 </p>
+
 ## Notes
+
 v03: Test framed around legal permissibility; Jesus reframes toward creation intent.  
+
 v04–06: Genesis citation establishes unity as primary category, not contract.  
+
 v08: Concession (Moses) distinguished from intention (creation); hardness of heart drives allowance.  
+
 v09: Exception clause tied to sexual breach of covenant unity.  
+
 v11–12: Singleness is vocational, not universal; capacity varies and is “given.”  
+
 v12: “Eunuch” used metaphorically for renunciation, not only literal condition.  
+
 v14: Children represent receptivity and dependence, not innocence idealized.  
+
 v17: Goodness located in God alone; moral inquiry redirected.  
+
 v21: “Complete” (teleios) implies wholeness through relinquishment and following.  
+
 v22: Possession is revealed as attachment; sorrow signals divided allegiance.  
+
 v24: Hyperbolic image emphasizes impossibility within human systems of security.  
+
 v26: Salvation reframed from human achievement to divine action.  
+
 v28: “Renewal” signals eschatological restoration, not mere continuation.  
+
 v29: Loss reinterpreted as multiplication; inheritance language retained.  
+
 v30: Reversal principle destabilizes status assumptions.  
 
 ## Vocabulary

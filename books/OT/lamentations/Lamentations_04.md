@@ -146,17 +146,29 @@ he will not continue to exile you.
 He will attend to your guilt, daughter Edom;
 he will uncover your sins.
 </p>
+
 ## Notes
+
 v01: “holy stones” — The phrase may refer to precious stones associated with the sanctuary or, metaphorically, to the people of Zion themselves. The poem leaves the image open.
+
 v02: The children of Zion move in a single verse from the value of fine gold to the fragility of ordinary clay vessels.
+
 v03: The Hebrew animal term is traditionally understood as jackals. The contrast is severe: even wild animals nurse their young, while siege has distorted ordinary human compassion.
+
 v06: Sodom’s destruction was sudden; Jerusalem’s suffering is portrayed as prolonged and therefore, in the poem’s judgment, even more severe.
+
 v07: The Hebrew term rendered “consecrated ones” can also mean Nazirites. The verse remembers people once marked by health, purity, and distinction before describing their famine-altered appearance.
+
 v10: The verse records the extremity of siege famine in deliberately unbearable language. Compassionate women are driven into acts opposite to their former character.
+
 v13: Prophets and priests, figures expected to guard truth and holiness, are accused of shedding righteous blood. The poem locates responsibility within religious leadership as well as external invasion.
+
 v16: “The face of the LORD scattered them” — The Hebrew uses the LORD’s “face” or presence as the agent of scattering, an inversion of the face as blessing or favor.
+
 v20: “the anointed of the LORD” — The phrase most naturally refers to the king. The community had imagined survival among the nations under his protection, pictured as living in his shadow.
+
 v21–22: Edom’s temporary rejoicing is followed by the announcement that the same cup of judgment will reach her. Zion’s punishment is described as reaching completion.
+
 v01–22: The chapter is an alphabetic acrostic in Hebrew. As in chapter 2, two Hebrew letters appear in an order different from the standard alphabetic sequence.
 
 ## Vocabulary

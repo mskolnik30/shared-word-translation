@@ -109,17 +109,29 @@ and go out by it.
 Their king passes on before them,
 the LORD at their head.
 </p>
+
 ## Notes
+
 v01–02: The chapter opens with a condemnation of deliberate injustice. The wealthy plan oppression before carrying it out.  
+
 v02: Land seizure violates Israel's inheritance system and threatens the covenant structure of society.  
+
 v03: God responds to their schemes with a judgment that mirrors their own plotting.  
+
 v04–05: Those who stole inheritances will themselves lose their place in the land.  
+
 v06: The people reject prophetic warnings and prefer messages of security.  
+
 v07: God's words bring blessing to those who walk uprightly; the problem lies not with the message but with the hearers.  
+
 v08–09: The oppression described affects vulnerable people, including women and children.  
+
 v10: The land itself can no longer function as a place of rest because it has been defiled by injustice.  
+
 v11: False prophets gain acceptance by promising comfort and prosperity rather than truth.  
+
 v12–13: The chapter closes unexpectedly with hope. God promises to gather a remnant after judgment.  
+
 v13: The LORD himself leads his people like a king and shepherd, bringing them out into freedom.  
 
 ## Vocabulary
@@ -159,4 +171,3 @@ v12: שְׁאֵרִית (šĕʾērîṯ)
 
 v13: פָּרַץ (pāraṣ)  
 “To break through.” To burst forth or open a way through an obstacle.  
-

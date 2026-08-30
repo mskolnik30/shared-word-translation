@@ -76,35 +76,51 @@ v37: No, in all these things we are more than conquerors through the one who lov
 v38: For I am convinced that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers,
 v39: nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.
 </p>
+
 ## Notes
+
 v01: “no condemnation”
 This declaration is absolute, not provisional. It answers the question raised by Romans 6: whether participation in Christ reintroduces anxiety about judgment.
+
 v02: “the law of the Spirit of life”
 “Law” functions metaphorically as a governing power. The contrast is between rival dominions, not between rules and freedom.
+
 v03: “God has done what the law could not do”
 The subject of the sentence is emphatic. Liberation is grounded in God’s action through the Son, not in human obedience empowered by effort.
+
 v04: “fulfilled in us”
 The fulfillment is participatory rather than meritorious. The law’s requirement is met through life in the Spirit, not by replication of legal performance.
+
 v09: “Spirit of God” / “Spirit of Christ”
 The interchange underscores unity of divine action without collapsing distinction. Belonging to Christ is defined by indwelling, not achievement.
+
 v11: “will give life to your mortal bodies”
 Resurrection is bodily and future-oriented, resisting spiritualized readings of salvation.
+
 v14–15: “children of God” / “Spirit of adoption”
 Adoption is received status, not earned position. The cry “Abba” signals intimacy without presumption.
+
 v17: “if indeed we suffer with him”
 Suffering is not a qualifying test but a shared condition of life in Christ. Glory is promised, not conditioned on endurance.
+
 v18: “not worth comparing”
 Paul does not minimize suffering. He relativizes it eschatologically without explaining it.
+
 v19–21: “creation waits”
 Salvation is cosmic in scope. Human redemption and creation’s renewal are inseparable.
+
 v26: “the Spirit intercedes”
 Prayer is sustained by God’s own action when human capacity fails. Weakness is assumed, not corrected.
+
 v28: “God works together for good”
 The promise is not that all events are good, but that God’s purpose is not thwarted by them.
+
 v29–30: “foreknew … predestined … glorified”
 The sequence is God-centered and pastoral, intended to secure assurance rather than outline a system.
+
 v33–34: “Who will bring any charge?”
 Legal language returns, but now as reassurance. God’s justifying action silences accusation.
+
 v35–39: “nothing will separate us”
 The climactic assurance rests entirely on God’s love in Christ. Human trust is not named here, because it is not the ground of security.
 
@@ -148,4 +164,3 @@ v29: εἰκών (eikōn)
 
 v37: ὑπερνικάω (hypernikaō)
 “To prevail completely.” Victory is described as decisive and derivative, accomplished “through the one who loved us.”
-

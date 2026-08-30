@@ -80,15 +80,25 @@ v23: But I call God as witness against my soul, that it was to spare you that I 
 
 v24: Not that we lord it over your faith, but we are coworkers for your joy, for you stand firm in the faith.
 </p>
+
 ## Notes
+
 v03–04: Comfort is not private consolation only. Paul frames comfort as something received from God and then shared with others in affliction.  
+
 v05: The sufferings and comfort of Christ both “overflow.” Paul holds hardship and consolation together rather than treating comfort as escape from suffering.  
+
 v08–09: Paul’s affliction is described in severe terms, but the theological emphasis falls on trust being displaced from the self to God who raises the dead.  
+
 v10: The movement from past rescue to future rescue creates a pattern of hope grounded in God’s prior action.  
+
 v12: Paul’s defense rests on conscience, sincerity, and grace, not rhetorical self-protection.  
+
 v15–17: The issue is not travel logistics alone but Paul’s reliability. A changed plan has raised questions about his integrity.  
+
 v18–20: Paul answers doubts about his own word by pointing to God’s faithfulness in Christ. The reliability of apostolic speech is grounded in the reliability of the gospel.  
+
 v21–22: Establishing, anointing, sealing, and giving the Spirit all belong to God’s action. Paul emphasizes divine initiative rather than ministerial status.  
+
 v23–24: Paul explains his delayed visit as restraint, not avoidance. Authority is defined as working for the community’s joy, not domination over faith.  
 
 ## Vocabulary

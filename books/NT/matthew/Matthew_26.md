@@ -184,30 +184,55 @@ v73: After a little while the bystanders came up and said to Peter, “Certainly
 v74: Then he began to invoke a curse on himself and to swear, “I do not know the man!” And immediately a rooster crowed.
 v75: And Peter remembered the word Jesus had spoken: “Before the rooster crows, you will deny me three times.” And he went out and wept bitterly.
 </p>
+
 ## Notes
+
 v02: “the Son of Man is handed over” — Matthew places divine foreknowledge and human treachery side by side. Jesus is not overtaken by events; he names them before they unfold.
+
 v04–05: “by stealth… not during the festival” — The leaders are not restrained by justice but by optics. Their timing is governed by crowd management, not truth.
+
 v07: “poured it on his head” — Matthew presents the act in royal as well as burial-shaped terms. Anointing and death already stand together.
+
 v10: “a beautiful work” — Jesus names as beautiful what others dismiss as impractical. Devotion is not measured only by efficiency.
+
 v11: “you always have the poor with you” — This is not a dismissal of the poor but a recognition of the moment. Jesus refuses to let true concern become a weapon against love.
+
 v13: “in memory of her” — The woman’s act becomes part of the gospel’s telling. Faithful love is remembered alongside the passion itself.
+
 v15: “thirty pieces of silver” — The betrayal is given a price. Matthew makes the transaction stark and concrete.
+
 v21–22: “one of you… Surely not I?” — The table becomes a place of self-examination. Betrayal is not imagined as only external to the community.
+
 v23–25: “The one who dipped… You have said so” — Nearness to Jesus does not guarantee faithfulness. Shared bread and shared presence can coexist with betrayal.
+
 v26–28: “this is my body… my blood of the covenant” — Jesus interprets his death before it happens. The meal is not escape from the cross but participation in its meaning.
+
 v28: “poured out for many for the forgiveness of sins” — Matthew binds covenant, sacrifice, and forgiveness together. Jesus’ death is given not as accident but as redemptive self-offering.
+
 v29: “drink it new with you” — The supper is framed by future hope. Even on the edge of death, Jesus speaks of shared joy yet to come.
+
 v31–32: “fall away… I will go before you into Galilee” — Jesus names both failure and restoration. Scattering is real, but it is not the final word.
+
 v36–39: Gethsemane — Jesus does not move toward death with numb detachment. Obedience includes anguish, honest prayer, and surrender.
+
 v40–41: “keep watch… the spirit indeed is willing, but the flesh is weak” — Vigil is communal and spiritual. Desire alone is insufficient without prayerful endurance.
+
 v45: “the hour has drawn near” — The turning point has arrived. Jesus rises from prayer not confused but resolved.
+
 v48–50: Judas’ kiss — The sign of greeting becomes the instrument of betrayal. Evil often works through gestures that mimic intimacy.
+
 v52: “all who take the sword will perish by the sword” — Jesus refuses violent defense, not because injustice is unreal, but because the kingdom is not secured by coercion.
+
 v53–54: “twelve legions of angels… the scriptures be fulfilled” — Restraint is not weakness. Jesus’ surrender is chosen within the larger obedience of God’s purpose.
+
 v56: “all the disciples left him and fled” — The failure is collective. Matthew does not preserve the dignity of the disciples at the expense of truth.
+
 v59–60: “false testimony” — The trial is shaped by the appearance of legality while lacking justice. Institutions can be orderly and still corrupt.
+
 v63–64: “the Christ, the Son of God… seated at the right hand of Power” — Jesus answers with both affirmation and apocalyptic exaltation. The condemned one speaks as the coming judge.
+
 v67–68: mockery and violence — The one who is truly king is treated as disposable. Matthew lets humiliation stand in full view.
+
 v69–75: Peter’s denial — Bold promises collapse under pressure. Yet Peter’s bitter weeping shows that failure, though grave, has not ended in hardness.
 
 ## Vocabulary

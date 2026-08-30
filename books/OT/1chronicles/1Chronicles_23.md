@@ -132,6 +132,7 @@ v31: and for every offering of burnt offerings to the LORD on the Sabbaths, at t
 <p>
 v32: They were to keep the charge of the tent of meeting, the charge of the holy place, and the charge of the sons of Aaron, their relatives, for the service of the house of the LORD.
 </p>
+
 ## Notes
 
 v09: The Hebrew textual tradition preserves a variation in the first name in Shimei’s line: *Shelomoth* is read here, while another form, *Shelomith*, appears in the written tradition.

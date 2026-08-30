@@ -40,15 +40,25 @@ v09: Then Harbona, one of the eunuchs before the king, said, “Look, the tree t
 
 v10: So they hanged Haman on the tree that he had prepared for Mordecai. Then the king’s fury subsided.
 </p>
+
 ## Notes
+
 v03: Esther finally identifies herself with the threatened people: “my life” and “my people” are one petition.
+
 v04: Esther repeats the exact threefold extermination language of Haman’s decree, making the legal threat unmistakable to the king.
+
 v04: The final clause is difficult. It can mean that enslavement would not justify disturbing the king or that the adversary could not compensate for the king’s loss. TSW follows the first sense while noting the uncertainty.
+
 v05: The king’s question displays either ignorance or rhetorical shock concerning a decree authorized with his own signet. The narrative does not resolve how fully he remembers his earlier participation.
+
 v06: Haman, previously described as “enemy of the Judeans,” is now named before the king as Esther’s personal adversary and enemy.
+
 v07: Haman “seeks his life” from Esther, reversing his earlier control over the lives of the Judeans.
+
 v08: Haman’s fall upon Esther’s couch may be desperate pleading rather than assault, but the returning king interprets the scene in the worst possible way. The narrative does not pause to correct his interpretation.
+
 v08: Covering Haman’s face likely marks a condemned person’s transition toward execution.
+
 v09–10: Haman dies on the same structure prepared for Mordecai, completing one of Esther’s central reversals.
 
 ## Vocabulary

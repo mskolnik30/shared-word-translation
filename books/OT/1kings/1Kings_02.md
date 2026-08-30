@@ -127,6 +127,7 @@ v46: Then the king commanded Benaiah son of Jehoiada, and he went out and struck
 
 And the kingdom was established in Solomon’s hand.
 </p>
+
 ## Notes
 
 ## Vocabulary

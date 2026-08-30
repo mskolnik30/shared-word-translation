@@ -124,16 +124,27 @@ v45: You returned and wept before the LORD, but the LORD did not listen to your 
 
 v46: So you remained at Kadesh many days, according to the days that you remained there.
 </p>
+
 ## Notes
+
 v01: Deuteronomy opens with geographic markers east of the Jordan. Several place names are difficult to identify with certainty.
+
 v05: “explain this instruction” presents the book as Moses’ authoritative exposition of the instruction already received.
+
 v09–18: Moses retells the appointment of judges, emphasizing the impossibility of one leader carrying Israel’s full burden alone.
+
 v17: “the judgment belongs to God” places judicial authority under divine accountability and directly forbids favoritism based on social status.
+
 v22: Moses’ retelling emphasizes that the proposal to send spies came from the people, while Numbers 13 presents the mission through divine command. TSW preserves each book’s own narrative emphasis.
+
 v26: “rebelled against the mouth of the LORD” is a concrete Hebrew idiom for resisting spoken divine command.
+
 v27: Israel interprets deliverance through the lens of fear and concludes that the LORD hates them, directly reversing the exodus story.
+
 v31: The LORD carrying Israel “as a man carries his son” introduces parental imagery into Moses’ description of wilderness care.
+
 v37: Moses says the LORD was angry with him “because of you,” while Numbers 20 narrates Moses’ own failure at Meribah. Deuteronomy emphasizes the communal context without eliminating Moses’ accountability elsewhere.
+
 v41–44: The people’s confession does not turn a forbidden action into obedience. Going up after the LORD has said not to go is another act of presumption.
 
 ## Vocabulary

@@ -204,16 +204,27 @@ from everlasting to everlasting!
 And let all the people say, “Amen!”
 Praise the LORD!
 </p>
+
 ## Notes
+
 v01–03: Praise is framed as both declaration and ethical life.  
+
 v06–07: Confession is corporate and continuous across generations.  
+
 v08–12: Salvation is grounded in God’s name, not human merit.  
+
 v13–33: Repeated cycle: forgetting → rebellion → judgment → partial repentance.  
+
 v20: Idolatry is described as exchange—trading glory for image.  
+
 v23: Intercession (Moses) interrupts judgment.  
+
 v28–31: Zeal (Phinehas) is framed as covenant faithfulness.  
+
 v34–39: Assimilation leads to moral collapse and violence.  
+
 v40–46: Judgment and mercy coexist; covenant persists despite failure.  
+
 v47–48: The psalm ends with petition and communal affirmation.  
 
 ## Vocabulary
@@ -247,4 +258,3 @@ v40: תָּעַב (ta‘av)
 
 v45: נָחַם (nacham)  
 “To relent.” Change course.  
-

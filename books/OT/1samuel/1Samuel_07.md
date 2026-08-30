@@ -64,13 +64,21 @@ v16: He went year by year in circuit to Bethel, Gilgal, and Mizpah, and he judge
 
 v17: Then he returned to Ramah, for his house was there, and there he judged Israel. And he built there an altar to the LORD.
 </p>
+
 ## Notes
+
 v02: “Lamented after the LORD” describes prolonged yearning or mourning that opens into repentance.
+
 v03: Returning to the LORD is defined through both removal of rival gods and inward direction of the heart.
+
 v06: The pouring out of water is not explained elsewhere as a standard rite. In context it accompanies fasting and confession.
+
 v09: Samuel’s intercession and sacrifice precede deliverance, emphasizing dependence upon the LORD.
+
 v10: The LORD’s thunder reverses the military situation without Israel first gaining strategic superiority.
+
 v12: “Ebenezer” means “stone of help.” The same place-name appeared earlier at Israel’s defeat, but Samuel now gives a theological memorial to divine help.
+
 v14: The statement about peace with the Amorites likely refers to local Canaanite populations living alongside Israel.
 
 ## Vocabulary

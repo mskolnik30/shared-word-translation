@@ -178,15 +178,25 @@ v69: According to their ability they gave to the treasury for the work sixty-one
 
 v70: So the priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants lived in their cities, and all Israel in their cities.
 </p>
+
 ## Notes
+
 v01: “the province” reflects Judah’s status within the Persian imperial system. The chapter simultaneously remembers the return as restoration to ancestral cities.
+
 v02: Several names in this leadership list also appear elsewhere in Ezra–Nehemiah, but the text does not require that every repeated name refer to the same individual.
+
 v03–35: The list alternates between family names and place names. TSW preserves this uneven structure rather than converting all entries into one category.
+
 v36–42: Priests, Levites, singers, and gatekeepers are counted separately because restoration includes the reconstitution of temple worship as well as resettlement.
+
 v43: “temple servants” translates Hebrew *Nethinim*, a designation for a hereditary group assigned to service connected with the sanctuary.
+
 v59–63: Genealogical uncertainty has particular consequences for priesthood because priestly service and access to holy food depend upon established descent.
+
 v63: Urim and Thummim were priestly means of seeking divine decision. Ezra does not report that such a priest later appeared; the statement leaves the matter pending.
+
 v64: The total of 42,360 is larger than the sum of the individual numbers preserved in the list. The same phenomenon appears in the related list in Nehemiah 7. TSW retains both the received total and the individual figures rather than harmonizing them.
+
 v69: “darics” names a Persian gold coin. The underlying Hebrew monetary term is rare, and the precise historical coinage represented by the list has been discussed.
 
 ## Vocabulary

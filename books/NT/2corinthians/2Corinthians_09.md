@@ -60,21 +60,37 @@ v14: And in their prayer for you, they long for you because of the surpassing gr
 
 v15: Thanks be to God for his indescribable gift.
 </p>
+
 ## Notes
+
 v01–02: Paul minimizes instruction while simultaneously reinforcing expectation. The community’s prior readiness becomes present accountability.  
+
 v02: “Zeal” functions contagiously. One community’s action shapes another’s.  
+
 v03–04: Boasting operates as relational risk. Preparedness protects both Paul’s claim and the community’s integrity.  
+
 v05: The gift is framed as “blessing” rather than extraction. Timing shapes whether giving is experienced as grace or pressure.  
+
 v06: Agricultural imagery governs the logic. Outcome corresponds to manner, not merely amount.  
+
 v07: The internal decision (“in the heart”) is primary. External compliance without interior consent is rejected.  
+
 v07: Cheerfulness is not emotional display but willingness free from coercion.  
+
 v08: “All…in everything…at all times” accumulates to emphasize sufficiency sourced in God rather than scarcity.  
+
 v09: The citation links generosity with enduring righteousness, not temporary effect.  
+
 v10: Provision and multiplication are attributed to God. Human action participates within divine supply.  
+
 v11: Enrichment is directed toward generosity, not self-retention.  
+
 v12: The act of giving produces both material provision and liturgical response (thanksgiving).  
+
 v13: Generosity is interpreted as obedience to the gospel, not merely social virtue.  
+
 v14: Reciprocal prayer binds the communities relationally across distance.  
+
 v15: The closing shifts from human gift to divine gift, without specifying its full content.  
 
 ## Vocabulary

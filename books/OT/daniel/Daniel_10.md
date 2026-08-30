@@ -74,20 +74,35 @@ v20: Then he said, “Do you know why I have come to you? And now I will return 
 
 v21: But I will tell you what is inscribed in the book of truth. There is no one who strengthens himself with me against these except Michael, your prince.”
 </p>
+
 ## Notes
+
 v01: The “great conflict” can also be rendered “great warfare” or “a great host.” The chapter prepares for the extended conflict revealed in chapters 11–12.
+
 v02–03: Daniel’s three-week mourning includes abstention from rich foods, meat, wine, and ordinary anointing. The text does not identify a specific liturgical fast.
+
 v04: The “great river” is explicitly identified as the Tigris, locating the vision within the Persian imperial world.
+
 v05–06: The glorious man combines priestly linen, precious metal, gemstone, lightning, fire, bronze, and overwhelming sound. His exact identity is not explicitly named.
+
 v07: Daniel’s companions do not see the vision but experience its effect through terror, showing a distinction between revelation and its surrounding impact.
+
 v08: “my splendor was turned into ruin” is a difficult Hebrew idiom often rendered “my complexion changed” or “my beauty was turned to corruption.” TSW preserves the stronger transformation image.
+
 v11: Daniel is again called “greatly beloved,” linking this revelation with Daniel 9.
+
 v12: The messenger says Daniel’s words were heard from the first day, while the visible answer is delayed. The delay is attributed not to divine indifference but to conflict in the unseen realm.
+
 v13: “prince of the kingdom of Persia” is a heavenly or supra-human power associated with Persia. Michael is likewise described as one of the chief princes.
+
 v13: “I was left there with the kings of Persia” is textually and syntactically difficult. It may mean the messenger remained beside the Persian kings or was left in the conflict there. TSW preserves the received form.
+
 v14: “latter days” in Daniel’s visions refers to the future horizon of the revealed conflict and should not automatically be reduced to one modern eschatological timetable.
+
 v16: “one in the likeness of the children of humanity” is a human-like heavenly figure and should not be automatically identified with the “one like a son of man” in Daniel 7.
+
 v20: Persia and Greece are portrayed both as earthly empires and as having associated heavenly princes, giving political history an unseen dimension.
+
 v21: “book of truth” is a heavenly record of the conflict about to be revealed. The text does not describe its physical form.
 
 ## Vocabulary

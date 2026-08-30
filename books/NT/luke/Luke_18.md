@@ -134,24 +134,43 @@ v42: And Jesus said to him, “See again; your faith has saved you.”
 
 v43: And immediately he saw again and was following him, glorifying God. And all the people, seeing it, gave praise to God.
 </p>
+
 ## Notes
+
 v01–05: Persistence in prayer is grounded in trust in divine justice, not divine reluctance.
+
 v06–08: The contrast between unjust judge and God emphasizes certainty of response.
+
 v08: The question of faith shifts focus from timing to endurance.
+
 v09–14: Justification is grounded in humility, not comparative righteousness.
+
 v11–12: The Pharisee’s prayer is self-referential, not petitionary.
+
 v13: The tax collector’s posture reflects dependence and confession.
+
 v14: Reversal of expectation defines divine judgment.
+
 v15–17: Children model receptivity, not merit.
+
 v18–23: The rich ruler’s obedience is incomplete at the level of attachment.
+
 v22: Selling and giving are not general law but diagnostic demand.
+
 v24–25: Wealth presents structural difficulty for kingdom entry.
+
 v27: Divine possibility overturns human impossibility.
+
 v28–30: Loss for the kingdom is met with both present and future recompense.
+
 v31–33: Passion prediction emphasizes fulfillment of Scripture.
+
 v34: Understanding is withheld despite clarity of statement.
+
 v38–39: The blind man sees more clearly than the crowd in recognizing Jesus.
+
 v42: Faith again links healing and salvation.
+
 v43: Restoration leads to following and public praise.
 
 ## Vocabulary
@@ -234,4 +253,3 @@ v38: ἐλεέω (eleeō)
 v42: ἀναβλέπω (anablepō)
 
 “To see again.”
-

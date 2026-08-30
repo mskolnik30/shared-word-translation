@@ -69,10 +69,15 @@ v13: The meadows clothe themselves with flocks,
   the valleys deck themselves with grain;
   they shout and sing together for joy.
 </p>
+
 ## Notes
+
 v01: "Silence and praise await you" — The dual notion of silence and praise in one phrase suggests a reverent anticipation for God's presence.
+
 v05: "O God of our salvation" — This title emphasizes God's saving power and his protection over the people.
+
 v09: "The river of God" — This metaphor conveys God's abundant provision and care for the earth.
+
 v11: "You crown the year with your bounty" — Indicating God's provision and blessing throughout the agricultural year.
 
 ## Vocabulary

@@ -201,15 +201,25 @@ v80: From the tribe of Gad: Ramoth in Gilead and its pasturelands, and Mahanaim 
 
 v81: Heshbon and its pasturelands, and Jazer and its pasturelands.
 </p>
+
 ## Notes
+
 v01–15: These verses are numbered 5:27–41 in the Hebrew chapter division.
+
 v31: “After the ark came to rest” marks a transition from the ark’s movement to settled worship. David’s appointments for song are therefore linked with the ark’s resting place, before the temple was built.
+
 v32: The singers serve first before the tent of meeting and then in the context of Solomon’s temple. The verse holds together continuity in worship and a change in its physical setting.
+
 v39: “At his right hand” and “on the left” in v44 describe the ordered placement of the Levitical singers around Heman. The genealogies establish not only descent but also worshiping roles.
+
 v48: “Assigned” is literally “given.” The Levites are presented as people set apart for the whole work of God’s dwelling place.
+
 v49: The text distinguishes the broader Levitical service from Aaron’s priestly work at the altars. “Make atonement for Israel” names the representative purpose of this service while grounding it in Moses’ command.
+
 v54: “Encampments” can also be understood as settlements or places of residence. The language recalls Israel’s wilderness ordering while describing Levitical dwelling places in the land.
+
 v57: “Cities of refuge” were places of protection for one who had caused a death, pending legal judgment. Their inclusion among priestly cities joins sanctuary, justice, and communal life.
+
 v61: The phrase “from the family of the tribe” is compressed and somewhat difficult. It likely refers to the remaining Kohathite clans receiving cities from one tribal portion, specifically the half-tribe of Manasseh.
 
 ## Vocabulary

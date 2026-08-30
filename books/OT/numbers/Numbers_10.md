@@ -84,12 +84,19 @@ v36: And whenever it came to rest, he said:
 “Return, O LORD,
 to the countless thousands of Israel.”
 </p>
+
 ## Notes
+
 v02–10: The trumpets coordinate assembly, movement, warfare, and worship. The same instrument gathers the community and marks its dependence upon the LORD.
+
 v11: Israel leaves Sinai nearly one year after arriving there, moving from the extended period of instruction toward the wilderness journey.
+
 v21: The sanctuary’s structure travels ahead of the Kohathites so that it can be erected before the holy furnishings arrive.
+
 v29: The Hebrew relationship in “Hobab son of Reuel the Midianite, Moses’ father-in-law” is grammatically compressed. Other passages identify Reuel/Jethro as Moses’ father-in-law, and the precise kinship designation of Hobab is debated.
+
 v31: Hobab’s practical knowledge of the wilderness does not replace the guiding cloud. Human experience and divine guidance are placed beside one another rather than treated as rivals.
+
 v35–36: These short sayings frame the ark’s movement and rest as the movement and rest of the LORD among Israel.
 
 ## Vocabulary

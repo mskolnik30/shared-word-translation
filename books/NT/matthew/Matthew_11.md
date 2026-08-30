@@ -90,19 +90,33 @@ v29: Take my yoke upon you, and learn from me, for I am gentle and lowly in hear
 
 v30: For my yoke is easy, and my burden is light.”
 </p>
+
 ## Notes
+
 v02–03: John’s question arises not from ignorance alone but from dissonance between expectation and unfolding reality.  
+
 v05: Jesus answers with signs rather than assertion; recognition is mediated through fulfillment patterns.  
+
 v06: “Not offended” frames response as relational alignment rather than intellectual agreement.  
+
 v11: Greatness is relativized; kingdom belonging reorders comparative status.  
+
 v12: The statement about violence remains compressed and ambiguous; access to the kingdom is contested.  
+
 v13–14: John is positioned as both culmination and transition; prophetic expectation converges in him.  
+
 v16–17: The generation is critiqued for inconsistency; rejection persists regardless of approach.  
+
 v19: Wisdom is vindicated not by claim but by outcome.  
+
 v20: Mighty works do not compel repentance; response is not guaranteed by exposure.  
+
 v23: Exaltation and descent are juxtaposed; assumed status is overturned.  
+
 v25–26: Revelation is depicted as selective yet purposeful; hiddenness and disclosure are both active.  
+
 v27: Knowledge is relational and mediated; access to the Father is not generalized.  
+
 v28–30: Rest is offered not as escape but as reorientation under a different yoke.  
 
 ## Vocabulary

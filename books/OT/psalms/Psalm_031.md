@@ -102,22 +102,39 @@ v23: Love the LORD, all you his faithful ones!
 v24: Be strong, and let your heart take courage,
   all you who wait for the LORD.
 </p>
+
 ## Notes
+
 v01: “take refuge… in your righteousness deliver me” — The psalm grounds rescue in God’s rightness, not the psalmist’s deserving; shame is answered by God’s faithful action.
+
 v02–03: “rock… fortress… for your name’s sake” — Protection is personal and covenantal; God’s reputation (“name”) is tied to God’s saving care.
+
 v04: “net… hidden” — Threat is portrayed as covert and manipulative; deliverance includes being pulled out of traps you cannot see.
+
 v05: “Into your hand I commit my spirit” — The decisive act is entrustment. The line is both surrender and confidence, rooted in God as “faithful.”
+
 v06: “worthless idols… I trust” — Trust is exclusive allegiance: refusing false supports is part of refuge in the LORD.
+
 v07–08: “you have seen… known… broad place” — God’s salvation includes attention: seen affliction, known distress, and then widened space to stand and breathe.
+
 v09–10: “eye wastes away… bones waste away” — Suffering is bodily; grief depletes strength and time. The psalm gives language to somatic sorrow.
+
 v11–13: “reproach… dread… whispering… terror” — Social isolation and reputational collapse intensify the crisis; the enemy’s strategy is fear and rumor.
+
 v14: “But I trust… You are my God” — The turning point is not circumstances changing but allegiance clarified in the middle of threat.
+
 v15: “My times are in your hand” — Time itself is entrusted to God: seasons, outcomes, and duration are placed under divine care.
+
 v16: “Make your face shine” — Priestly blessing language becomes personal plea: salvation is experienced as God’s favorable presence.
+
 v17–18: shame and “lying lips” — The psalm seeks moral reversal: not mere vindictiveness, but that truth would silence slander.
+
 v19–20: “goodness stored up… shelter of your presence” — God’s goodness is pictured as kept-in-reserve and actively deployed; protection is intimacy—hidden “in” God, not just shielded “by” God.
+
 v21–22: “besieged city… I said in my alarm… nevertheless” — Faith includes panic speech; the psalm honors the realism of fear while insisting God heard anyway.
+
 v23: “preserves… repays the proud” — Covenant ethics: God guards the faithful and confronts arrogance; pride is not stable ground.
+
 v24: “Be strong… heart take courage… wait” — The ending shifts to communal exhortation: waiting is active courage, sustained hope under pressure.
 
 ## Vocabulary

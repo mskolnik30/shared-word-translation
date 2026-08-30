@@ -99,11 +99,17 @@ v38: also one male goat as a sin offering, besides the regular burnt offering, i
 v39: “These you shall offer to the LORD at your appointed festivals, besides your vow offerings and freewill offerings, whether your burnt offerings, grain offerings, drink offerings, or sacrifices of well-being.”
 v40: Moses spoke to the Israelites according to all that the LORD commanded Moses.
 </p>
+
 ## Notes
+
 v01: The seventh month begins with a sacred assembly marked by trumpet blasts, not ordinary labor.
+
 v07: “humble yourselves” is the same language commonly rendered “afflict yourselves” for the Day of Atonement; it describes intentional self-denial before God.
+
 v12–34: The number of bulls decreases by one each day of the seven-day festival, from thirteen to seven, while the two rams and fourteen lambs remain constant.
+
 v35: The eighth day is a distinct solemn assembly after the seven-day festival sequence.
+
 v39: The prescribed communal offerings do not cancel voluntary or vow offerings; ordered worship and free offering coexist.
 
 ## Vocabulary

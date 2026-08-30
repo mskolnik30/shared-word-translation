@@ -227,19 +227,33 @@ as the LORD has said,
 and among the survivors
 those whom the LORD calls.
 </p>
+
 ## Notes
+
 v01: The ram’s horn functions as an alarm rather than a festive signal. Zion itself is warned of the approaching day of the LORD.
+
 v02–11: The advancing force is described through locust, army, fire, cavalry, siege, and cosmic imagery. Joel does not clearly separate these images into distinct events.
+
 v11: The force is called the LORD’s “army,” making the coming devastation an instrument of divine judgment rather than an independent power.
+
 v12–13: The summons to return reaches beyond public signs of mourning to the heart. Yet garments, fasting, weeping, and assembly are not rejected; inward and communal turning are joined.
+
 v13: The description “gracious and compassionate, slow to anger and abundant in steadfast love” echoes Israel’s foundational confession of the LORD’s character.
+
 v14: “Who knows?” preserves prophetic restraint. Repentance is not treated as a technique that mechanically compels divine action.
+
 v18: The Hebrew shifts from imperative appeal to a narrative statement of the LORD’s jealousy and compassion, marking the poem’s turn toward restoration.
+
 v20: “the northern one” — The Hebrew uses a singular designation whose referent is debated. It may continue the locust-army imagery or gesture toward an invading force. TSW preserves the ambiguity.
+
 v23: “early rain for righteousness” — The Hebrew *moreh litsedaqah* can be understood in relation to the early rain given rightly, in proper measure, or “for righteousness.” Some traditions have read *moreh* as “teacher.” TSW preserves the rain imagery while noting the lexical tension.
+
 v25: The four locust terms return from 1:4 but in a different order. Their precise species or developmental distinctions remain uncertain.
+
 v28–32: In the Masoretic chapter division these five verses form Joel 3:1–5. Standard English Bibles number them Joel 2:28–32. TSW follows the public English numbering while preserving the Masoretic textual sequence.
+
 v28: “all flesh” deliberately widens the scope of the Spirit’s outpouring across gender, age, and social status.
+
 v32: Calling upon the name of the LORD and the LORD’s calling of survivors stand together at the chapter’s conclusion.
 
 ## Vocabulary

@@ -42,9 +42,13 @@ v14: who gave himself for us that he might redeem us from all iniquity and purif
 
 v15: Declare these things; exhort and rebuke with all authority. Let no one disregard you.
 </p>
+
 ## Notes
+
 v15: Instruction, encouragement, and correction are held together.
+
 v15: Authority is exercised without qualification or mitigation.
+
 v15: Reception is not left to preference; disregard is addressed directly.
 
 ## Vocabulary

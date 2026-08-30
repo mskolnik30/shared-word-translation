@@ -34,16 +34,27 @@ v10: If we say that we have not sinned, we make him a liar, and his word is not 
 </p>
 
 ## Notes
+
 v01: The opening is descriptive without naming the subject directly.  
+
 v01–02: Sensory language accumulates, emphasizing experience.  
+
 v02: Manifestation is repeated without explanation of mechanism.  
+
 v03: Proclamation establishes shared participation.  
+
 v04: Writing is oriented toward completion of joy.  
+
 v05: God is defined through contrast, not analogy.  
+
 v06–07: Walking functions as a metaphor for conduct.  
+
 v07: Cleansing is continuous, not punctiliar.  
+
 v08–10: Conditional statements expose self-deception without gradation.  
+
 v09: Forgiveness and cleansing are paired without separation.  
+
 v10: Denial of sin redefines relationship with God.  
 
 ## Vocabulary

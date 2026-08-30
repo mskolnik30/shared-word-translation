@@ -71,16 +71,27 @@ v25: And if you make for me an altar of stones, you shall not build it of cut st
 <p>
 v26: And you shall not go up by steps to my altar, so that your nakedness is not uncovered upon it.
 </p>
+
 ## Notes
+
 v01–02: Command is grounded in deliverance. Identity precedes obligation.  
+
 v03: Exclusive allegiance is primary—no rival loyalties in the presence of the LORD.  
+
 v04: The prohibition of images resists reduction of the divine to created form.  
+
 v07: Misuse of the name is framed as emptiness—invoking God without weight or truth.  
+
 v08–09: Sabbath remembrance orders time; holiness is embedded in rhythm.  
+
 v12: Honor extends covenantal structure into the household, linking family and land.  
+
 v13–16: Short prohibitions mark clear ethical boundaries—life, fidelity, property, truth.  
+
 v17: Desire itself is addressed; the law penetrates interior intention, not only action.  
+
 v18–19: Theophany produces distance; mediated speech becomes necessary.  
+
 v20: Fear is reframed—not terror, but sustaining reverence that restrains sin.  
 
 ## Vocabulary

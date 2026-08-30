@@ -65,13 +65,21 @@ v25: But they were unfaithful to the God of their fathers and played the harlot 
 <p>
 v26: So the God of Israel stirred up the spirit of Pul king of Assyria and the spirit of Tiglath-Pileser king of Assyria, and he took them into exile, namely, the Reubenites, the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and the river of Gozan to this day.
 </p>
+
 ## Notes
+
 v01–26: - **v1: Reuben, the firstborn of Israel**: The text underscores Reuben's status deteriorating from the firstborn due to his transgression, transferring the birthright to Joseph.  
+
 v02: Judah prevailed over his brothers: Suggests the prominence of Judah’s line through which a ruler, David, arose, albeit the birthright was designated to Joseph.  
+
 v04–06: Joel, Shemaiah, Beerah: Genealogical records linking Reuben’s descendants to historical events, such as the exile at the hands of Tiglath-Pileser.  
+
 v20: Cried out to God... trusted in Him: Illustrates reliance on divine assistance in battle, revealing a moment of faith in God during warfare.  
+
 v25: Unfaithful… played the harlot: A metaphor for idolatry, illustrating the people's spiritual infidelity affecting their covenant relationship with God.  
+
 v26: Pul and Tiglath-Pileser: Reflects the impact of Assyrian kings on Israel's history, particularly the exile of the northern tribes.  
+
 v26: The Hebrew chapter division continues with the Levitical genealogy at 5:27; common English versification begins that genealogy in chapter 6.
 
 ## Vocabulary

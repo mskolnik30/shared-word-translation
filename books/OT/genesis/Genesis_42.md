@@ -73,19 +73,33 @@ v36: And Jacob their father said to them, “You have bereaved me of my children
 v37: Then Reuben said to his father, “You may put my two sons to death if I do not bring him back to you. Put him in my hand, and I will return him to you.”
 v38: But he said, “My son shall not go down with you, for his brother is dead, and he alone is left. If harm should befall him on the journey that you are to make, then you would bring down my gray hair in sorrow to Sheol.”
 </p>
+
 ## Notes
+
 v01–05: The famine that Joseph predicted now reaches Canaan, drawing his brothers toward Egypt.  
+
 v06: Joseph's brothers bow before him, fulfilling the dreams that seemed impossible years earlier.  
+
 v07–09: Joseph immediately recognizes his brothers, but they do not recognize him because of time, language, clothing, and status.  
+
 v09: Joseph's remembrance of the dreams connects the present events directly to God's earlier revelation.  
+
 v14–20: Joseph's accusations and tests are not simple revenge. The narrative gradually reveals his desire to discern the condition of his brothers.  
+
 v18: Joseph identifies himself as one who fears God, providing the first indication that his actions are governed by more than political authority.  
+
 v21–22: The brothers interpret their troubles through the lens of their guilt concerning Joseph.  
+
 v23: Joseph's use of an interpreter allows him to hear their unguarded conversation.  
+
 v24: Joseph's tears reveal deep emotion beneath his stern exterior.  
+
 v25: The returned silver creates a crisis of conscience and fear for the brothers.  
+
 v28: The brothers begin to recognize God's hand at work in events they cannot explain.  
+
 v36: Jacob interprets events through loss and grief, unable yet to see the larger purpose unfolding.  
+
 v38: Benjamin occupies the place of special concern once held by Joseph, reflecting Jacob's continuing sorrow.  
 
 ## Vocabulary
@@ -125,4 +139,3 @@ v28: חָרַד (ḥāraḏ)
 
 v38: שְׁאוֹל (Šĕʾôl)
 “Sheol.” The realm of the dead, often associated with mourning and mortality.
-

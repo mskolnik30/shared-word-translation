@@ -76,8 +76,11 @@ v41: These named above, during the time of King Hezekiah of Judah, came and atta
 v42: Some of them, five hundred men from the sons of Simeon, went to Mount Seir with Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi, at their head.
 v43: They defeated the remaining Amalekites who had escaped, and they have lived there to this day.
 </p>
+
 ## Notes
+
 v01: The genealogy introduced in this verse traces the lineage of Judah, one of the twelve tribes of Israel.  
+
 v10: The prayer of Jabez highlights his desire for God's blessing and presence, portraying his concern for God's protection and his territory's expansion. The narrative emphasizes God's willingness to respond to such requests, engaging the themes of divine blessing and human petition.  
 
 ## Vocabulary

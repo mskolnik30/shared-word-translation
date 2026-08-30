@@ -111,31 +111,57 @@ v44: And the one who falls on this stone will be broken to pieces; but the one o
 v45: And when the chief priests and the Pharisees heard his parables, they knew that he was speaking about them.
 v46: And although they were seeking to seize him, they feared the crowds, because the crowds regarded him as a prophet.
 </p>
+
 ## Notes
+
 v01: “Mount of Olives” — The setting carries prophetic weight; Jesus approaches Jerusalem from the ridge associated with God’s promised deliverance and kingship.  
+
 v02–03: “The Lord has need of them” — Jesus acts with calm authority and purposeful humility; even the borrowing of an animal serves the sign of his reign.  
+
 v04–05: “to fulfill… ‘gentle… mounted on a donkey’” — The entry is a deliberate redefinition of kingship: not coercive power, but humble, peace-shaped authority.  
+
 v06–07: “did as Jesus directed… laid their cloaks” — Discipleship is concrete obedience; honor is offered with what they have, not with ideal resources.  
+
 v08: “spread their cloaks… branches” — The crowd enacts royal welcome; public hopes rise and the city becomes a stage of expectation.  
+
 v09: “Hosanna… Son of David… in the name of the Lord” — The shout is prayer and proclamation (“Save, we pray!”) with messianic language; the crowd reaches for deliverance, even if they do not yet grasp its cost.  
+
 v09: “Hosanna in the highest” — Praise stretches from street-level longing to heavenward worship, framing Jesus’ arrival as both political and spiritual upheaval.  
+
 v10: “the whole city was stirred up” — Jesus’ arrival is not private spirituality; it disrupts the public order and forces a question of identity.  
+
 v11: “the prophet Jesus” — The crowd’s language is true but partial; Matthew will press beyond “prophet” toward messianic authority.  
+
 v12–13: temple cleansing — This is not a critique of commerce in general but of worship corrupted: prayer displaced by exploitation. “Den of robbers” signals systemic injustice under a religious cover.  
+
 v14: “the blind and the lame… he healed them” — After judgment comes mercy; the temple is reclaimed for those often pushed out or overlooked.  
+
 v15–16: “children… Hosanna… they were angry” — Praise from the least protected exposes the hardness of the powerful; Jesus receives their worship as fitting.  
+
 v19: fig tree — A living sign-act of judgment: impressive leaves without fruit. In Matthew’s flow, it mirrors the temple’s appearance without justice.  
+
 v21–22: “trust… this mountain” — The point is not spiritual showmanship; trust empowers God-directed action beyond human capacity, expressed through prayerful dependence.  
+
 v23: “By what authority…?” — The leaders’ question is political and theological: who has the right to reorder the temple and teach the people?  
+
 v25–27: John’s baptism — Jesus exposes their posture: they calculate consequences instead of seeking truth. Refusing John’s authority reveals their refusal of God’s.  
+
 v28–31: two sons — Manuscripts differ in the order of the sons’ responses and in which son is identified as doing the father’s will. TSW follows the reading in which the first son refuses, later changes his mind and goes; the second agrees but does not go; and “the first” is identified as doing the father’s will.  
+
 v28–32: two sons — The contrast is between public compliance and actual obedience. Repentance is pictured as a changed direction, not a polished promise.  
+
 v31: “tax collectors and prostitutes” — The scandal is grace’s order: those judged “outside” enter first when they respond to God with trust.  
+
 v33–39: tenants kill the son — The parable narrates Israel’s story of rejected messengers and anticipates Jesus’ own death at the hands of those guarding the vineyard.  
+
 v41: “They will… lease… to other tenants” — Judgment is not the end of the vineyard; stewardship is transferred to those who will produce the fruit of the kingdom.  
+
 v42: rejected stone / cornerstone — God’s reversal is the interpretive key: what leaders discard becomes foundational in God’s construction.  
+
 v43: “producing its fruits” — The kingdom is not a possession to protect but a vocation to bear fruit: justice, mercy, and faithful allegiance.  
+
 v44: “the one who falls on this stone” — This verse is absent from some manuscripts, particularly witnesses of the Western text, but is present in a broad range of other witnesses and is retained here.  
+
 v45–46: “they knew… speaking about them… feared the crowds” — Recognition does not produce repentance; fear of people replaces fear of God, and the plot tightens around Jesus.  
 
 ## Vocabulary

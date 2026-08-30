@@ -180,17 +180,29 @@ they shall dwell there and possess it.
 v36: The children of his servants shall inherit it,
 and those who love his name shall dwell in it.
 </p>
+
 ## Notes
+
 v04: “those who hate me without cause” — The psalmist describes hostility that exceeds any offense claimed against him. The following question concerning what he did not steal intensifies the sense of unjust accusation.
+
 v09: “zeal for your house has consumed me” — Zeal for God’s house becomes a source of suffering for the psalmist. The metaphor is preserved without reducing the “house” to a later theological interpretation.
+
 v13: “at an acceptable time” — The prayer appeals to a time of divine favor without specifying when that time will come.
+
 v14–15: “mire … depths … flood … deep … pit” — Images of engulfing waters and confinement accumulate as descriptions of danger. The psalm moves between literal-sounding peril and metaphor without distinguishing them.
+
 v20: “Reproach has broken my heart” — The language places the wound of public shame within the inner life of the psalmist. The absence of pity and comfort deepens the isolation.
+
 v21: “They gave me poison for food … vinegar to drink” — Food and drink, normally means of sustaining life, become signs of hostility and abandonment.
+
 v22–28: These verses contain a sustained imprecation against the psalmist’s enemies. The prayer asks God to judge rather than softening or resolving the psalmist’s anger. The language is retained as part of the psalm’s movement from suffering toward an appeal for divine justice.
+
 v28: “book of the living” — The image portrays the living as enrolled before God. The psalm does not further define the image or describe its relationship to later uses of similar language.
+
 v30–31: Praise and thanksgiving are presented as more pleasing to the LORD than an animal offering. The comparison does not reject sacrifice but emphasizes the value of grateful praise.
+
 v32–33: The psalmist’s deliverance widens into encouragement for the humble and those who seek God. Personal lament becomes communal hope.
+
 v35–36: The conclusion expands beyond the individual psalmist to Zion, Judah, and the descendants of God’s servants. Restoration is described in terms of dwelling, inheritance, and continuing belonging.
 
 ## Vocabulary

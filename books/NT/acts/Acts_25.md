@@ -102,16 +102,27 @@ v26: But I have nothing definite to write to my lord about him. Therefore I have
 <p>
 v27: For it seems unreasonable to me, in sending a prisoner, not also to indicate the charges against him.”
 </p>
+
 ## Notes
+
 v02–03: Persistent hostility continues through legal channels.  
+
 v03: Ambush reveals intent behind formal request.  
+
 v07: Accusations remain unsubstantiated.  
+
 v08: Paul asserts innocence across religious and civil categories.  
+
 v09: Political pressure influences judicial options.  
+
 v11: Appeal to Caesar invokes imperial jurisdiction.  
+
 v16: Roman procedure emphasizes fair hearing.  
+
 v19: Core issue centers on Jesus’ death and claimed resurrection.  
+
 v21: Appeal transfers authority to the Emperor.  
+
 v25–27: Legal process requires defined charges.  
 
 ## Vocabulary

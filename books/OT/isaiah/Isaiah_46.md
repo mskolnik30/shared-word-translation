@@ -41,10 +41,15 @@ v12: Listen to me, you stout-hearted, who are far from righteousness:
 v13: I bring near my righteousness, it will not be far off, and my salvation will not wait;
 and I will place salvation in Zion for Israel my glory.
 </p>
+
 ## Notes
+
 v01: Bel and Nebo, major Babylonian deities, are portrayed as burdens carried by animals, in deliberate contrast to the LORD who carries Israel.  
+
 v03: “remnant” — Isaiah repeatedly speaks of those who remain through judgment. The term holds survival and renewed calling together.  
+
 v13: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+
 v12: “righteousness” — Hebrew *tsedaqah* concerns rightness in relationship and faithful ordering, not merely private moral innocence.  
 
 ## Vocabulary
@@ -69,4 +74,3 @@ v01: בֵּל (Bel)
 
 v01: נְבוֹ (Nebo)
 “Nebo.” A Babylonian divine name.
-

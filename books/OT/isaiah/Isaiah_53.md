@@ -90,6 +90,7 @@ v12: Therefore I will allot him a portion with the many,
   yet he bore the sin of many
   and made intercession for the rebels.
 </p>
+
 ## Notes
 
 v01: “Who has trusted…?” — The opening is a lament over unbelief: God’s saving work is revealed, yet often not received as such.

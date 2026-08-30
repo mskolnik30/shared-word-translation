@@ -94,22 +94,39 @@ and those of integrity will remain in it,
 v22: but the wicked will be cut off from the land,
 and the treacherous will be torn from it.
 </p>
+
 ## Notes
+
 v01–05: The repeated “if” clauses make the search for wisdom active and sustained: receiving, treasuring, listening, calling, seeking, and searching culminate in understanding the fear of the LORD and finding knowledge of God.  
+
 v02: “heart” — In Hebrew anthropology the heart is not merely the location of emotion. It includes thought, intention, discernment, and will.  
+
 v04: “like silver … hidden treasures” — Wisdom is not pictured as inaccessible but as valuable enough to justify deliberate searching.  
+
 v05: “knowledge of God” — Knowledge is relational as well as intellectual. The parallel with “fear of the LORD” places knowing God within reverent, faithful life.  
+
 v06: Wisdom is both something the learner diligently seeks and something the LORD gives. The poem holds human pursuit and divine gift together without treating them as competitors.  
+
 v07: “sound wisdom” — The Hebrew term is uncommon and can refer to effective wisdom, resourcefulness, or enduring success. The context associates it with uprightness rather than mere achievement.  
+
 v08: “faithful ones” — The Hebrew term *chasidim* describes those characterized by covenant faithfulness or steadfast loyalty.  
+
 v09: “righteousness and justice and equity” — The same cluster introduced in Proverbs 1:3 returns here. Wisdom forms discernment about the full range of right communal conduct.  
+
 v10–11: Wisdom moves from something sought externally to something entering the heart. Once internalized, wisdom and discretion become guardians of the learner.  
+
 v12–15: Evil is repeatedly described as a “way,” “paths,” and “ways.” Moral life is portrayed spatially as movement along a course that shapes where a person arrives.  
+
 v16: “strange woman … foreign woman” — The Hebrew terms can describe a woman outside the expected covenantal or marital relationship. In this instructional context the focus is her role in seduction and unfaithfulness, not her ethnicity.  
+
 v17: “companion of her youth” — The expression most naturally refers to a marriage partner. Abandoning that relationship is placed beside forgetting covenant with God.  
+
 v18: “the dead” — The Hebrew *rephaim* refers to the departed or shades associated with the realm of death.  
+
 v19: The statement uses deliberately absolute warning language. The path of seduction is portrayed as leading away from life toward a point from which return cannot be presumed.  
+
 v21–22: Dwelling in the land is connected with uprightness and integrity, while wickedness leads to removal. Wisdom instruction draws upon Israel’s covenantal language of land, faithfulness, and judgment.  
+
 v07: “sound wisdom” — The Hebrew term is uncommon and can refer to effective wisdom, resourcefulness, or enduring success.
 
 ## Vocabulary
@@ -158,4 +175,3 @@ v20: אֹרַח (orach)
 
 v22: בָּגַד (bagad)  
 “To act treacherously” or “betray.” To violate trust or deal faithlessly.  
-

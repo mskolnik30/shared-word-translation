@@ -66,8 +66,11 @@ they close in on me together.
 v18: You have put friend and neighbor far from me;
 my companions are darkness.
 </p>
+
 ## Notes
+
 v05: The word rendered “abandoned” is literally “free” among the dead. In context it conveys being released from ordinary human bonds and cut off from life.
+
 v18: The Hebrew closes abruptly with “my acquaintances—darkness.” The translation preserves that stark identification rather than adding resolution.
 
 ## Vocabulary

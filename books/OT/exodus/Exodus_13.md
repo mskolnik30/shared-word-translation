@@ -64,15 +64,23 @@ v21: The LORD went before them by day in a pillar of cloud to lead them on the w
 
 v22: The pillar of cloud by day and the pillar of fire by night did not depart from before the people.
 </p>
+
 ## Notes
+
 v02: “first opens the womb” is the Hebrew idiom for the firstborn offspring. Consecration links Israel’s future family life to the deliverance remembered in the Passover.
+
 v03: “house of slavery” is a recurring covenantal name for Egypt and frames the exodus as liberation from forced service.
+
 v08: The parent speaks in the first person—“what the LORD did for me”—so that each generation receives the exodus as its own communal memory.
 
 v09, v16: The sign on hand and between the eyes expresses embodied remembrance and instruction. The text itself does not specify in this chapter the later physical form of these signs.
+
 v13: A donkey, being unsuitable for sacrifice, is redeemed with a lamb. The law distinguishes redemption from sacrifice while preserving the LORD’s claim upon the firstborn.
+
 v17: God’s route is intentionally indirect. The nearer road is rejected because the newly freed people are not yet prepared for immediate war.
+
 v18: “Sea of Reeds” translates Hebrew *yam suf*. The traditional “Red Sea” remains familiar, but the Hebrew expression itself refers to reeds.
+
 v19: Carrying Joseph’s bones fulfills the oath from Genesis and makes the exodus an act of continuity with the ancestral promises.
 
 ## Vocabulary

@@ -69,6 +69,7 @@ v19: in the courts of the LORD’s house,
   in your midst, O Jerusalem.
   Praise the LORD!
 </p>
+
 ## Notes
 
 v01–02: “I love… because the LORD has heard… inclined an ear” — Love is grounded in experienced mercy; prayer becomes lifelong practice because God listens.

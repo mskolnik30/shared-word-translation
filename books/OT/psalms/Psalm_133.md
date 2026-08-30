@@ -24,12 +24,19 @@ which falls on the mountains of Zion!
 For there the LORD has commanded the blessing,
 life forevermore.
 </p>
+
 ## Notes
+
 v01: Unity is described as both “good” (moral) and “pleasant” (experiential).  
+
 v02: Anointing oil imagery connects unity with consecration and priestly identity.  
+
 v02: The downward flow (head → beard → garments) emphasizes abundance and continuity.  
+
 v03: Dew imagery signals refreshment, life, and quiet provision.  
+
 v03: Hermon (north) and Zion (south) are brought together—unity bridges distance.  
+
 v03: Blessing is commanded, not assumed; unity becomes the context for life.  
 
 ## Vocabulary
@@ -63,4 +70,3 @@ v03: בְּרָכָה (berakhah)
 
 v03: חַיִּים (chayyim)  
 “Life.” Vital existence.  
-

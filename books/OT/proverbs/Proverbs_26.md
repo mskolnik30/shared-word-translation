@@ -163,14 +163,23 @@ hates those it crushes,
 and a flattering mouth
 brings ruin.
 </p>
+
 ## Notes
+
 v04–05: The paired sayings intentionally give opposite instructions. Wisdom requires discerning whether answering would reproduce folly or expose it.  
+
 v08: The Hebrew image is unusual; a stone fixed improperly in a sling defeats the instrument’s purpose. Honor given to a fool is similarly misplaced.  
+
 v10: The Hebrew is difficult and has produced several translations. The central image is indiscriminate damage caused by entrusting responsibility without discernment.  
+
 v11: Repeated folly is depicted in deliberately repulsive imagery.  
+
 v12: Self-assured pseudo-wisdom is presented as even more resistant to correction than ordinary folly.  
+
 v17: Meddling in a conflict that does not belong to you is compared with grabbing an unfamiliar dog by the ears: once begun, danger becomes difficult to escape.  
+
 v18–19: Harm does not disappear because the person causing it later calls it humor.  
+
 v23: Attractive speech can function like a thin layer of precious metal hiding a cheap or fragile interior.  
 
 ## Vocabulary
@@ -198,4 +207,3 @@ v24: נָכַר (nakhar)
 
 v28: חָלַק (chalaq)  
 “To flatter” or “make smooth.” Smooth speech used manipulatively.  
-

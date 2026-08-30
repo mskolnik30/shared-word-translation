@@ -104,6 +104,7 @@ v24: All the Egyptians dug around the Nile for water to drink, because they coul
 <p>
 v25: Seven days were completed after the LORD struck the Nile.
 </p>
+
 ## Notes
 
 v25: The Hebrew chapter division continues the announcement of the frogs as 7:26–29; common English versification places that material at 8:1–4.

@@ -70,17 +70,29 @@ v20: Therefore look, I am gathering you to your ancestors, and you shall be gath
 
 Then they returned the word to the king.
 </p>
+
 ## Notes
+
 v02: Josiah’s evaluation echoes Deuteronomy’s command not to turn aside to the right or left, presenting him as exceptionally Torah-shaped.
+
 v03–07: Like Joash, Josiah begins with temple repair, and trusted workers again receive funds without detailed accounting because they act faithfully.
+
 v08: “book of the instruction” is traditionally identified with some form of Deuteronomy, though the narrative itself does not name its exact contents.
+
 v10: The book moves from priest to scribe to king, and public authority is confronted by written covenant instruction.
+
 v11: Josiah’s immediate response is embodied grief rather than defensive argument.
+
 v13: The king interprets the discovered book not as an antiquarian object but as a living covenant witness explaining present divine anger.
+
 v14: Huldah is the prophet consulted by the king’s highest officials. Her gender is noted by the text without diminishing her authority to deliver the LORD’s word.
+
 v14: The “Second Quarter” is a district of Jerusalem whose exact boundaries are uncertain.
+
 v16–17: Huldah confirms that the book’s announced judgment will come because Judah’s long history of idolatry has reached a point of no return.
+
 v19: Josiah’s tender heart, humility, torn clothing, and tears are explicitly said to be heard by the LORD.
+
 v20: Josiah later dies violently in battle in chapter 23. “Gathered … in peace” therefore refers to being spared from seeing Jerusalem’s final catastrophe rather than necessarily dying without violence.
 
 ## Vocabulary

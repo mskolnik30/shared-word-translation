@@ -60,10 +60,15 @@ v23: From new moon to new moon and from Sabbath to Sabbath, all flesh will come 
 v24: They will go out and look upon the corpses of those who rebelled against me, for their worm will not die and their fire will not be quenched;
 they will be an abhorrence to all flesh.
 </p>
+
 ## Notes
+
 v13: The LORD’s comfort is explicitly maternal. The image belongs to Isaiah’s own language for God and is retained without qualification.  
+
 v14: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.  
+
 v08: “Zion” — The name can refer to Jerusalem, its people, or the city personified. Isaiah often allows those senses to overlap.  
+
 v03: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.  
 
 ## Vocabulary

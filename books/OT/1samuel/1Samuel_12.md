@@ -49,17 +49,29 @@ v23: Moreover, far be it from me that I should sin against the LORD by ceasing t
 v24: Only fear the LORD and serve him faithfully with all your heart, for consider what great things he has done for you.
 v25: But if you still do evil, both you and your king will be swept away.”
 </p>
+
 ## Notes
+
 v01–02: Samuel presents the monarchy as a completed public act. His repeated “see” forces Israel to recognize both the new king and Samuel’s own completed role before them.  
+
 v03–05: Samuel’s integrity is tested in covenantal terms. The questions focus on abuse of power, economic exploitation, and judicial corruption.  
+
 v06–08: Israel’s history is framed as the LORD’s action. Moses and Aaron are instruments, but deliverance belongs to God.  
+
 v09–11: The pattern of forgetting, oppression, crying out, and deliverance summarizes the period of the judges without smoothing its disorder.  
+
 v12: Israel’s request for a king is not treated as politically neutral. The demand exposes a failure to trust the LORD’s kingship.  
+
 v14–15: The monarchy does not replace covenant obedience. Both people and king remain under the command of the LORD.  
+
 v16–18: Thunder and rain during wheat harvest function as a sign of divine displeasure. The unusual weather makes visible the seriousness of Israel’s request.  
+
 v19: The people confess the evil of asking for a king, but the monarchy is not revoked. The text holds judgment and accommodation together.  
+
 v20–22: Samuel does not minimize the evil, but he directs the people away from despair and back toward faithful service.  
+
 v23: Samuel understands prayerlessness as sin. His prophetic role continues through intercession and instruction.  
+
 v24–25: The chapter closes with both mercy and warning. The king shares the fate of the people under covenant accountability.  
 
 ## Vocabulary
@@ -99,4 +111,3 @@ v23: פָּלַל (pālal)
 
 v25: סָפָה (sāphâ)  
 “To sweep away” or “be consumed.” The warning includes both people and king under the same divine judgment.  
-

@@ -121,19 +121,33 @@ This is my beloved,
 and this is my friend,
 O daughters of Jerusalem.
 </p>
+
 ## Notes
+
 v01: The beloved accepts the bride's invitation from the previous chapter and enters the garden.  
+
 v01: The imagery of eating and drinking celebrates mutual delight and covenant joy.  
+
 v02–08: The scene resembles a dream sequence marked by longing, delay, separation, and searching.  
+
 v02: The titles “my sister,” “my love,” “my dove,” and “my perfect one” express deep affection.  
+
 v04: The bride's hesitation gives way to desire and action.  
+
 v06: The beloved's absence creates a renewed experience of longing.  
+
 v07: The harsh treatment by the watchmen heightens the emotional intensity of the search.  
+
 v08: The bride's lovesickness reflects deep attachment rather than physical illness.  
+
 v09: The daughters of Jerusalem invite the bride to explain why her beloved is unique.  
+
 v10–16: The bride responds with an extended description celebrating the beloved's excellence.  
+
 v10: “Distinguished among ten thousand” emphasizes unmatched worth and admiration.  
+
 v11–15: Precious materials such as gold, ivory, sapphire, marble, and cedar communicate dignity, beauty, and value.  
+
 v16: The chapter concludes by combining romantic affection with friendship, highlighting the fullness of their relationship.  
 
 ## Vocabulary
@@ -176,4 +190,3 @@ v16: מַמְתַקִּים (mamtāqqîm)
 
 v16: רֵעַ (rēaʿ)  
 “Friend.” A companion marked by affection, loyalty, and closeness.  
-

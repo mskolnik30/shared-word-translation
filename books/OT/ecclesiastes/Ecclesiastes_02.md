@@ -108,6 +108,7 @@ v25: For who can eat, and who can enjoy, apart from me?
 <p>
 v26: For to the person who is good before him, God gives wisdom, knowledge, and joy; but to the sinner he gives the task of gathering and collecting, to give to the one who is good before God. This too is vapor and a chasing after wind.
 </p>
+
 ## Notes
 
 v08: Its precise reference is uncertain; it may concern women in a royal household, though other explanations have been proposed.

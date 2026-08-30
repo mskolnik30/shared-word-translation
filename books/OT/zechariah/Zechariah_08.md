@@ -149,20 +149,35 @@ v23: Thus says the LORD of Hosts:
 
 “In those days ten people from every language of the nations shall take hold of the robe of a Jewish person, saying, ‘Let us go with you, for we have heard that God is with you.’”
 </p>
+
 ## Notes
+
 v02: “jealous” — The Hebrew *qana* describes intense, exclusive commitment. The same word can carry the senses of jealousy and zeal; the surrounding language emphasizes the LORD’s passionate commitment to Zion.
+
 v03: “City of Truth” — “Truth” can also carry the sense of faithfulness or reliability. The restored city is characterized by the qualities expected of the LORD and the renewed community.
+
 v04–05: Restoration is pictured through ordinary public life: elderly people living long enough to sit safely in the streets and children able to play there.
+
 v06: “marvelous” — The Hebrew can mean extraordinary, difficult, or beyond ordinary possibility. What appears impossible to the remnant is not thereby impossible for the LORD.
+
 v07: “land of the sunrise … land of the setting sun” — East and west function together to describe the broad reach of the LORD’s gathering work.
+
 v08: “They shall be my people, and I will be their God” — Covenant language is renewed within the promise of return and dwelling.
+
 v10: “I set everyone against their neighbor” — The instability preceding restoration is described not only as external conflict but as social fragmentation within the community.
+
 v12: “a sowing of peace” — The Hebrew phrase is compressed and unusual. Peace is associated with the renewed fertility of vine, ground, and heavens.
+
 v13: “a curse … a blessing” — The community’s former reputation among the nations is reversed. Restoration is expressed in language recalling earlier biblical promises concerning blessing.
+
 v16: “in your gates” — City gates served as places of judgment and public decision. Truth and peace are therefore to shape concrete communal institutions, not merely private conduct.
+
 v19: The four fasts correspond to stages in Jerusalem’s destruction and its aftermath. The answer to the question raised in chapter 7 is not simply that fasting stops; days of mourning are transformed into communal joy.
+
 v19: “love truth and peace” — The transformation of religious practice is inseparable from the ethical life demanded in the preceding verses.
+
 v21–22: The nations do not merely observe Zion’s restoration. They actively seek the LORD and invite one another to make the journey.
+
 v23: “ten people” — Ten functions as an image of abundance rather than necessarily as a limit. People from the nations recognize God’s presence with the restored people and seek to accompany them.
 
 ## Vocabulary

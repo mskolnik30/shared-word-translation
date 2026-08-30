@@ -71,9 +71,13 @@ my God, do not be far from me.
 v22: Hurry to help me,
 Lord, my salvation.
 </p>
+
 ## Notes
+
 v01–03: The psalmist relates bodily anguish, divine indignation, and personal sin without offering a general explanation that every illness results from a particular sin. The prayer holds confession and suffering together before God.
+
 v13–15: The psalmist’s silence before hostile speech is not resignation. It becomes an act of waiting for the LORD’s answer.
+
 v17: “Ready to fall” can evoke a physical limp or collapse as well as imminent disaster, fitting the psalm’s interwoven bodily and social distress.
 
 ## Vocabulary

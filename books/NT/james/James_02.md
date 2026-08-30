@@ -68,23 +68,41 @@ v25: And in the same way was not also Rahab the prostitute justified by works wh
 
 v26: For as the body apart from the spirit is dead, so also faith apart from works is dead.
 </p>
+
 ## Notes
+
 v01: Faith is qualified by practice; partiality contradicts confession.  
+
 v02–04: Social distinction reveals internal judgment.  
+
 v05: Divine choice reverses expected status.  
+
 v06–07: Behavior of the rich contradicts their assumed position.  
+
 v08: The law is summarized relationally.  
+
 v09–10: Violation is unified; failure in part implicates the whole.  
+
 v11: Commandments are linked without hierarchy.  
+
 v12: Freedom is paired with judgment, not opposed to it.  
+
 v13: Mercy is both criterion and outcome.  
+
 v14–17: Faith is evaluated by visible effect.  
+
 v18: Faith and works are not separated in practice.  
+
 v19: Belief without transformation is insufficient.  
+
 v20: Uselessness is asserted, not argued abstractly.  
+
 v21–23: Example is drawn from action completing belief.  
+
 v24: Justification is expressed in relational terms, not defined.  
+
 v25: Parallel example extends beyond a single figure.  
+
 v26: Analogy equates absence of works with death.  
 
 ## Vocabulary

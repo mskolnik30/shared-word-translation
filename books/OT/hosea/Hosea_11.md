@@ -99,14 +99,23 @@ with deceit;
 but Judah still wanders with God,
 and with the Holy One who is faithful.
 </p>
+
 ## Notes
+
 v01: The LORD describes Israel through parent-child language rather than marital language. Love precedes deliverance from Egypt.
+
 v02: The Hebrew subjects are compressed and can be rendered “the more I called them” or “the more they called them.” TSW preserves the plural calling in the received form while the surrounding context makes Israel’s departure from the LORD clear.
+
 v03–04: Divine care is pictured through teaching a child to walk, carrying by the arms, healing, loosening a yoke, and feeding. The accumulation of intimate images intensifies Israel’s failure to recognize the caregiver.
+
 v05: The Hebrew wording begins with “he will not return to Egypt,” yet verse 11 later speaks of return from Egypt. The immediate contrast is that Assyria, rather than Egypt, will become the imperial ruler because Israel refused to return to the LORD.
+
 v07: The final clause is difficult. It may mean that though Israel is called to the Most High, no one exalts him, or that no one can raise the people from their condition. TSW preserves the rescue-oriented sense while noting the ambiguity.
+
 v08: Admah and Zeboiim were cities associated with Sodom and Gomorrah’s destruction. The LORD’s questions evoke total judgment only to recoil from carrying it through against Ephraim.
+
 v08–09: The text attributes inner turning and heated compassion to God. TSW retains the anthropomorphic emotional language rather than flattening it into abstract doctrine.
+
 v12: Standard English numbering places this verse in Hosea 11; the Masoretic chapter division begins the next chapter here. The Hebrew of the final line is also difficult and has been understood either positively or negatively concerning Judah. TSW follows the reading that contrasts Judah’s continuing relation to God with Ephraim’s deceit, while noting the ambiguity.
 
 ## Vocabulary

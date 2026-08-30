@@ -56,10 +56,15 @@ v21: Manasseh, Ephraim;
 and Ephraim, Manasseh;
 and they together will be against Judah. For all this his anger is not turned away, but his hand is stretched out still.
 </p>
+
 ## Notes
+
 v06: The royal titles accumulate without explanation. TSW preserves their force without resolving how each title functions within the immediate royal oracle or later interpretation.
+
 v07: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
+
 v07: “justice” — Hebrew *mishpat* includes judgment, legal right, and the ordering of communal life according to what is right.
+
 v01: “nations” — The Hebrew *goyim* refers to peoples beyond Israel and can carry political, geographic, and theological force depending on context.
 
 ## Vocabulary

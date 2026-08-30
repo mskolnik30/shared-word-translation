@@ -57,11 +57,17 @@ v12: so that glory may sing praise to you and not be silent.
 LORD my God,
 I will give thanks to you forever.
 </p>
+
 ## Notes
+
 v03: “Sheol” and “the Pit” evoke the realm of death and the grave. The speaker describes deliverance as restoration from the edge of death.
+
 v05: The briefness of anger and the endurance of favor are set beside the movement from nighttime weeping to morning rejoicing. The verse does not deny suffering; it places it within a larger confession of restoring favor.
+
 v07: “My mountain” is an image of established security and strength. When God hides the divine face, that apparent stability is exposed as dependent on God’s favor.
+
 v09: The questions appeal to the loss of praise that death would bring. They express the psalmist’s urgent plea for life rather than offering a full account of life after death.
+
 v12: “Glory” may refer to the speaker’s honor, inner self, or whole being. The open wording allows the final praise to gather the psalmist’s restored life into thanksgiving.
 
 ## Vocabulary

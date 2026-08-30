@@ -99,19 +99,33 @@ v25: Sheva was scribe; Zadok and Abiathar were priests;
 
 v26: and Ira the Jairite also was priest to David.
 </p>
+
 ## Notes
+
 v01: Sheba’s cry repeats the tribal rupture language later associated with the northern secession under Rehoboam. David’s restored kingdom remains fragile.
+
 v01: “worthless man” is the Hebrew *ish beliyya'al*, an idiom for destructive lawlessness.
+
 v03: The ten concubines were publicly taken by Absalom in chapter 16. David provides for them but permanently withdraws sexual relations, leaving them in a widow-like condition despite his continuing life. The narrative exposes the long-term cost borne by women used in royal conflict.
+
 v04–06: David had promised Amasa command in place of Joab, but Amasa’s delay immediately creates a military crisis and opens the way for Joab’s return.
+
 v08: The description of Joab’s sword and its falling is difficult. It may depict deliberate manipulation of a loosely carried weapon rather than an accident.
+
 v09–10: Joab repeats the pattern of killing under the guise of greeting, as with Abner. Amasa is both kin and newly appointed rival.
+
 v11–13: The army’s loyalty is redirected to Joab while Amasa’s body blocks the road, showing how rapidly practical military authority overrides David’s appointment.
+
 v14: “Berites” is uncertain as a group name and may reflect a regional population near Abel-Beth-Maacah.
+
 v18: The proverb about Abel likely remembers the city as a place renowned for wise consultation or legal resolution.
+
 v19: The woman calls the city “a mother in Israel,” presenting its destruction as violence against a life-giving center of the community.
+
 v21–22: The city is spared by sacrificing the rebel leader alone. The wise woman accomplishes through negotiation what a siege might otherwise have achieved through mass destruction.
+
 v23–26: The closing administrative list largely resembles 2 Samuel 8:15–18 but reflects changes in personnel and offices after years of conflict.
+
 v26: Ira is called David’s “priest,” though he is identified as Jairite rather than Levite. As with David’s sons in 8:18, the title may denote a high royal minister, but TSW retains the ordinary wording.
 
 ## Vocabulary

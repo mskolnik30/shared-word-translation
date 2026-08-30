@@ -56,11 +56,17 @@ v17: Joshua spoke to the house of Joseph, to Ephraim and Manasseh, saying, “Yo
 
 v18: But the hill country shall be yours. Though it is a forest, you shall clear it, and its farthest limits shall be yours. For you shall drive out the Canaanites, though they have iron chariots and though they are strong.”
 </p>
+
 ## Notes
+
 v03–06: The daughters of Zelophehad receive land in accordance with the earlier ruling given through Moses. Their inheritance is integrated into the tribal distribution rather than treated as an exception outside it.
+
 v05: The “ten portions” count Manasseh’s family divisions west of the Jordan while distinguishing the eastern territory already assigned.
+
 v11: Manasseh’s cities lie within the broader territories of Issachar and Asher, demonstrating the complexity of tribal geography.
+
 v12–13: As elsewhere, failure to drive out the Canaanites becomes coexistence and forced labor rather than full possession.
+
 v14–18: Joseph’s descendants appeal to their numerical strength as reason for more land. Joshua responds by turning their claimed strength into a responsibility to clear and possess difficult territory.
 
 ## Vocabulary

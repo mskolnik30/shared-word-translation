@@ -78,24 +78,43 @@ v27: He has no need, like those high priests, to offer sacrifices daily, first f
 
 v28: For the law appoints men in their weakness as high priests, but the word of the oath, which came later than the law, appoints a Son who has been made perfect forever.
 </p>
+
 ## Notes
+
 v01–03: Description of Melchizedek is selective and not contextualized.  
+
 v02: Name interpretation guides meaning rather than narrative.  
+
 v03: Timelessness is asserted without explanation.  
+
 v04–10: Argument proceeds through inference rather than direct statement.  
+
 v07: Hierarchy is assumed in blessing.  
+
 v08: Life is attributed differently without clarification.  
+
 v11–12: Change in priesthood necessitates change in law.  
+
 v13–14: Tribal distinction highlights discontinuity.  
+
 v15–17: New priesthood is grounded in different basis.  
+
 v16: Life, not lineage, determines role.  
+
 v18–19: Former system is set aside without detailed critique.  
+
 v19: Access to God is emphasized over structure.  
+
 v20–22: Oath establishes permanence.  
+
 v23–25: Continuity contrasts with mortality.  
+
 v25: Intercession is ongoing.  
+
 v26–28: Character replaces ritual necessity.  
+
 v27: Sacrifice is singular and complete.  
+
 v28: Appointment is contrasted between law and oath.  
 
 ## Vocabulary

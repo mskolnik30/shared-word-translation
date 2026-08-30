@@ -38,19 +38,33 @@ v18: and the living one. I was dead, and behold, I am alive forever and ever, an
 v19: Write therefore what you have seen, what is, and what is about to take place after these things.
 v20: As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.
 </p>
+
 ## Notes
+
 v01: “Revelation” (singular) frames the work as disclosure rather than collection; what is revealed is mediated through a chain (God → Christ → angel → John → servants).  
+
 v02: Witness language binds vision and testimony; seeing is not separated from proclamation.  
+
 v03: The blessing joins reading, hearing, and keeping, resisting reduction to information alone.  
+
 v04–05: The triadic greeting expands temporally (“who is…was…to come”) and relationally across divine agents without explanation.  
+
 v05–06: Status (“kingdom, priests”) is declared before ethical instruction, grounding identity in divine action.  
+
 v07: Scriptural echoes converge without citation, allowing resonance rather than resolution.  
+
 v08: “Alpha and Omega” frames totality; the title is not explained but asserted.  
+
 v09: Affliction, kingdom, and endurance are held together without hierarchy or sequence.  
+
 v10: “In the Spirit” marks the mode of perception without defining its mechanism.  
+
 v12–16: The vision layers images drawn from multiple scriptural traditions; no single source controls interpretation.  
+
 v17–18: Fear is met with self-identification; authority is grounded in death and life held together.  
+
 v19: The temporal triad (“what you have seen…what is…what is to come”) structures the book without resolving chronology.  
+
 v20: Interpretation is given selectively; symbols are explained, but not exhaustively.  
 
 ## Vocabulary
@@ -87,4 +101,3 @@ v20: μυστήριον (mystērion)
 
 v01: ἀποκάλυψις (apokalypsis)
 “Revelation” or “unveiling.” Marks disclosure rather than prediction.
-

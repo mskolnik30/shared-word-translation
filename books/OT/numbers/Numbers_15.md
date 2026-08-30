@@ -84,11 +84,17 @@ v39: It shall be a tassel for you to look at and remember all the commandments o
 v40: so that you may remember and do all my commandments and be holy to your God.
 v41: I am the LORD your God, who brought you out from the land of Egypt to be your God. I am the LORD your God.”
 </p>
+
 ## Notes
+
 v02: The chapter speaks of offerings “when you enter the land” immediately after the judgment of chapter 14, preserving the promise of a future beyond the wilderness generation.
+
 v15–16: The resident alien who brings offerings is governed by the same ritual instruction as the native-born Israelite.
+
 v22–31: The text sharply distinguishes unintentional failure from action done “with a high hand,” an idiom for defiant, deliberate rebellion.
+
 v34: The man is held while the community seeks a ruling, showing that the penalty is not improvised by those who discover the violation.
+
 v39: “prostitute yourselves” — The Hebrew uses sexual-infidelity language metaphorically for following heart and eyes away from the LORD.
 
 ## Vocabulary

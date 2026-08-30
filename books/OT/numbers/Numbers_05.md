@@ -59,11 +59,17 @@ v29: This is the instruction concerning jealousy, when a wife under her husband 
 v30: or when a spirit of jealousy comes over a man and he becomes jealous of his wife. He shall have the woman stand before the LORD, and the priest shall carry out for her all this instruction.
 v31: The man shall be free from guilt, but the woman shall bear her guilt.”
 </p>
+
 ## Notes
+
 v02: The exclusions concern ritual impurity rather than a declaration that illness itself is moral guilt. The camp is ordered around the LORD’s dwelling in its midst.
+
 v07: Confession is joined to material restitution. Wrongdoing against another person is also described in v06 as unfaithfulness against the LORD.
+
 v12–31: The procedure addresses a case in which adultery is suspected but cannot be established by witnesses. The text places adjudication outside private retaliation and before the sanctuary.
+
 v21: “thigh to fall” — The Hebrew expression is difficult and likely functions as a bodily euphemism. TSW preserves the wording rather than specifying an anatomical diagnosis the text does not state.
+
 v28: The innocent outcome includes freedom from the curse and the ability to conceive, making the ritual’s purpose one of public resolution as well as judgment.
 
 ## Vocabulary

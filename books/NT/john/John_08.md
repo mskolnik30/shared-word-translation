@@ -194,22 +194,39 @@ v58: Jesus said to them, “Truly, truly, I say to you, before Abraham came to b
 <p>
 v59: Therefore they picked up stones to throw at him, but Jesus hid himself and went out of the temple.
 </p>
+
 ## Notes
+
 v06–08: Jesus’ writing shifts focus from accusation to self-examination.
+
 v07: Judgment is redirected to personal sinfulness.
+
 v11: Mercy does not negate the call to holiness.
+
 v12: Light imagery frames revelation and guidance.
+
 v14–18: Witness includes both Jesus and the Father.
+
 v20: “Hour” again controls timing of opposition.
+
 v24: Belief in “I am” is essential for life.
+
 v28: “Lifted up” connects crucifixion with revelation.
+
 v31–32: Freedom is linked to abiding in Jesus’ word.
+
 v34–36: Sin is framed as slavery; the Son grants true freedom.
+
 v37–44: Lineage is redefined by action and allegiance.
+
 v44: The devil is characterized by falsehood and violence.
+
 v51: Death is reinterpreted in light of relationship to Jesus.
+
 v58: “I am” expresses preexistence and divine identity.
+
 v59: Reaction confirms perceived blasphemy.
+
 v01–11: John 7:53–8:11 is absent from the earliest and strongest Greek witnesses and appears in different locations in some later manuscripts. It is retained here as an ancient textual tradition with its textual status stated explicitly.
 
 ## Vocabulary
@@ -275,4 +292,3 @@ v56: ἀγαλλιάω (agalliaō)
 v58: εἰμί (eimi)
 
 “To be.”
-

@@ -184,25 +184,45 @@ v48: he is like a man building a house, who dug deep and laid the foundation on 
 
 v49: But the one who hears and does not do is like a man who built a house on the ground without a foundation, against which the river burst, and immediately it fell, and the ruin of that house was great.”
 </p>
+
 ## Notes
+
 v01–05: The Sabbath controversy turns on interpretation of law through need and authority, not rejection of Sabbath itself.
+
 v05: “Son of Man” asserts authority over Sabbath without abolishing its significance.
+
 v07–11: The question of healing becomes a question of life versus destruction; neutrality is not permitted.
+
 v11: Opposition intensifies from observation to intent to act.
+
 v12: The selection of the twelve is grounded in prayer, not strategy.
+
 v13: “Apostles” marks those sent, not merely those present.
+
 v17: The “level place” contrasts with mountain settings, emphasizing accessibility.
+
 v19: Power flows outward from Jesus, depicting healing as emanation rather than effort.
+
 v20–23: Blessings address present conditions with future reversal.
+
 v24–26: Woes mirror blessings, exposing the instability of present security.
+
 v27–30: Love of enemies is defined through concrete actions, not sentiment.
+
 v31: The reciprocal ethic is grounded in shared human desire.
+
 v35–36: Divine character (“kind,” “merciful”) becomes the pattern for human action.
+
 v37–38: Judgment and generosity are reciprocal; human action participates in divine measure.
+
 v39–40: Discipleship is imitation, not independence.
+
 v41–42: Self-examination precedes correction of others.
+
 v43–45: Fruit imagery links internal disposition with external speech.
+
 v46: Verbal acknowledgment (“Lord, Lord”) is insufficient without obedience.
+
 v47–49: The foundation metaphor frames obedience as structural, not optional.
 
 ## Vocabulary
@@ -298,4 +318,3 @@ v45: θησαυρός (thēsauros)
 v48: θεμέλιος (themelios)
 
 “Foundation.”
-

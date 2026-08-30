@@ -52,10 +52,15 @@ v14: They struck all the cities around Gerar, for the terror of the LORD was upo
 
 v15: They also struck the tents of the livestock and carried away sheep in abundance and camels. Then they returned to Jerusalem.
 </p>
+
 ## Notes
+
 v01: “Rest” is repeated as a sign of divine favor and covenant stability.
+
 v05: Chronicles’ account of Asa’s removal of high places differs from 1 Kings 15:14, which says the high places were not removed. The traditions may distinguish different periods or types of high places; TSW preserves Chronicles’ statement.
+
 v09: “Cushite” may refer to a Nubian/Ethiopian or southern military leader; the precise identity of Zerah is uncertain.
+
 v11: Asa’s prayer centers on the LORD’s ability to help regardless of human numerical strength.
 
 ## Vocabulary
