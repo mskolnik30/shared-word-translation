@@ -32,6 +32,7 @@ v09: If we confess our sins, he is faithful and just to forgive us our sins and 
 
 v10: If we say that we have not sinned, we make him a liar, and his word is not in us.
 </p>
+
 ## Notes
 v01: The opening is descriptive without naming the subject directly.  
 v01–02: Sensory language accumulates, emphasizing experience.  
