@@ -1,0 +1,41 @@
+{
+  "book": "Ruth",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "DRAFTED_REVIEW_REQUIRED",
+  "canonical_tsw_sha": "1b449177872f8fafb26975d421bc69793dcb5cc8",
+  "source": "OSHB/WLC Ruth 2, revision 6a5db28",
+  "key_decisions": [
+    {
+      "verse": 1,
+      "delta": "F2",
+      "decision": "gibbôr ḥayil → man of standing"
+    },
+    {
+      "verse": 3,
+      "delta": "F2",
+      "decision": "As it happened; do not insert providence into verse"
+    },
+    {
+      "verse": 12,
+      "delta": "F0/F1",
+      "decision": "preserve wings/refuge imagery"
+    },
+    {
+      "verse": 15,
+      "delta": "F2",
+      "decision": "do not shame her"
+    },
+    {
+      "verse": 20,
+      "delta": "F0",
+      "decision": "retain steadfast love / redeemers"
+    },
+    {
+      "verse": 21,
+      "delta": "F0/F1",
+      "decision": "retain young men in Ruth's quotation; Naomi answers young women"
+    }
+  ],
+  "apparatus": "Canonical TSW Notes/Vocabulary from main carried forward unchanged pending later shared-apparatus Core migration."
+}
