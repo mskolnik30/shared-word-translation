@@ -1,0 +1,85 @@
+{
+  "book": "Ruth",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "canonical_tsw_sha": "9696cb4d227ee724e04cd8b36d95fa729450cf6c",
+  "source": "OSHB/WLC Ruth 3, revision 6a5db28",
+  "key_decisions": [
+    {
+      "verse": 1,
+      "delta": "F1/F2",
+      "decision": "retain rest",
+      "note": "Links back to Naomi's prayer for rest in Ruth 1:9 and forward to household/security themes."
+    },
+    {
+      "verse": 3,
+      "delta": "F2",
+      "decision": "do not let him know you are there",
+      "note": "Naturalizes 'do not make yourself known to the man' without adding motive."
+    },
+    {
+      "verse": 7,
+      "delta": "F2",
+      "decision": "he was in good spirits",
+      "note": "Natural rendering of 'his heart was good/merry'; does not add drunkenness."
+    },
+    {
+      "verse": 9,
+      "delta": "F2/F3",
+      "decision": "spread the corner of your garment over your servant",
+      "note": "Preserves concrete garment sense of kanaph while the apparatus maintains the wing/refuge echo from 2:12."
+    },
+    {
+      "verse": 10,
+      "delta": "F2",
+      "decision": "greater steadfast love",
+      "note": "Promotes hesed to the established book-level lexical anchor rather than generic kindness."
+    },
+    {
+      "verse": 11,
+      "delta": "F2",
+      "decision": "woman of standing",
+      "note": "Preserves lexical parallel between gibbôr ḥayil in 2:1 and ʾēšet ḥayil here."
+    },
+    {
+      "verse": 14,
+      "delta": "F1",
+      "decision": "Boaz said",
+      "note": "Clarifies the speaker where English pronoun reference could be unclear."
+    },
+    {
+      "verse": 16,
+      "delta": "F3_RETAIN_TSW",
+      "decision": "How did it go, my daughter?",
+      "note": "Hebrew literally asks 'Who are you, my daughter?' TSW interprets idiomatically from context; Fluent retains that decision pending book-level review."
+    },
+    {
+      "verse": 17,
+      "delta": "F0",
+      "decision": "empty-handed",
+      "note": "Preserves the literary reversal of Naomi's 'empty' language from Ruth 1:21."
+    },
+    {
+      "verse": 18,
+      "delta": "F1/F2",
+      "decision": "Wait ... the man will not rest",
+      "note": "Preserves the rest/not-rest wordplay as much as natural English allows."
+    }
+  ],
+  "apparatus_review": [
+    {
+      "verse": 9,
+      "status": "SHARED_NOTE_REVIEW",
+      "note": "Current TSW note says Ruth explicitly asks Boaz to marry her. The narrative strongly carries marital implications, but the Hebrew request itself says to spread his kanaph because he is a redeemer. Consider revising the shared note to distinguish explicit request from narrative implication."
+    }
+  ],
+  "apparatus": "Canonical TSW Notes/Vocabulary from main carried forward for now; v9 note flagged for later shared-apparatus review.",
+  "publication_allowed": false,
+  "book_qa": {
+    "version": "1.0",
+    "reviewer": "OpenAI-assisted editorial review under Fluent v2.0 rules",
+    "f3_disposition": "resolved in RUTH_FLUENT_BOOK_QA.json",
+    "book_level_consistency": "passed"
+  }
+}

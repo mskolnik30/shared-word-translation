@@ -1,0 +1,92 @@
+{
+  "book": "Ruth",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "canonical_tsw_sha": "02ace0c3c6c12697b43cf580773c70ece722e81e",
+  "source": "OSHB/WLC Ruth 4, revision 6a5db28",
+  "key_decisions": [
+    {
+      "verse": 1,
+      "delta": "F2/F3",
+      "decision": "so-and-so",
+      "note": "Hebrew peloni almoni deliberately withholds the nearer redeemer's name. TSW 'friend' is smoother but loses the literary anonymity. Fluent preserves the anonymity explicitly."
+    },
+    {
+      "verses": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "delta": "F1/F2",
+      "decision": "preserve redeem / redeemer / redemption lexical network",
+      "note": "This network structures the chapter and should not be varied for elegance."
+    },
+    {
+      "verse": 5,
+      "delta": "F1/F2",
+      "decision": "acquire Ruth the Moabite",
+      "note": "Retains the legal transaction language without replacing it with explanatory modern concepts. Apparatus should provide cultural/legal context."
+    },
+    {
+      "verse": 7,
+      "delta": "F2",
+      "decision": "agreement was formally confirmed",
+      "note": "Naturalizes 'manner of attestation' while preserving legal function."
+    },
+    {
+      "verse": 11,
+      "delta": "F2",
+      "decision": "prosper in Ephrathah and make a name for yourself in Bethlehem",
+      "note": "Natural English for the blessing while preserving house/name vocabulary."
+    },
+    {
+      "verse": 13,
+      "delta": "F2",
+      "decision": "He slept with her",
+      "note": "Natural contemporary English for the Hebrew sexual euphemism 'went in to her'; no added detail."
+    },
+    {
+      "verse": 13,
+      "delta": "F2",
+      "decision": "the LORD enabled her to conceive",
+      "note": "Naturalizes 'gave her conception' while preserving explicit divine agency."
+    },
+    {
+      "verse": 15,
+      "delta": "F1/F2",
+      "decision": "restore your life",
+      "note": "Preserves shuv-nephesh and echoes the book's larger return/restoration pattern."
+    },
+    {
+      "verse": 16,
+      "delta": "F2_REVIEW",
+      "decision": "became his caregiver",
+      "note": "Hebrew omeneth can denote a nurse/caretaker/foster role. 'Caregiver' avoids implying wet-nursing without evidence."
+    },
+    {
+      "verse": 17,
+      "delta": "F1",
+      "decision": "He became the father of Jesse, the father of David",
+      "note": "Makes genealogical relation natural without changing sequence."
+    }
+  ],
+  "book_level_findings": [
+    "ḥesed should remain steadfast love in Ruth 1:8, 2:20, and 3:10.",
+    "go'el / ga'al / ge'ullah should remain visibly connected through redeemer / redeem / redemption.",
+    "rest language in Ruth 1:9 and 3:1/18 should remain a thematic network.",
+    "empty / empty-handed / restoration should remain visible across 1:21, 3:17, and 4:15.",
+    "Boaz as a man of standing (2:1) and Ruth as a woman of standing (3:11) should remain lexically paired."
+  ],
+  "apparatus": "Canonical TSW Notes/Vocabulary from main carried forward unchanged for now; book-level apparatus audit should follow completion of Ruth.",
+  "publication_allowed": false,
+  "book_qa": {
+    "version": "1.0",
+    "reviewer": "OpenAI-assisted editorial review under Fluent v2.0 rules",
+    "f3_disposition": "resolved in RUTH_FLUENT_BOOK_QA.json",
+    "book_level_consistency": "passed"
+  }
+}
