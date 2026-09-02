@@ -1,0 +1,12 @@
+{
+  "book":"Jonah","chapter":3,"translation":"FLUENT","status":"QA_PASSED","publication_allowed":false,
+  "canonical_tsw_sha":"494f64ea0e6a7f289ea4e55238eb0159037e2bfd",
+  "source":{"id":"OT.OSHB.WLC.2.2","revision":"6a5db28","text":"WLC 4.20 / OSHB v2.2"},
+  "key_decisions":[
+    {"location":"3:1-3","delta":"F1/F2","decision":"Preserve get up / got up commission-response repetition."},
+    {"location":"3:3","delta":"F3","decision":"Retain exceedingly great city; Hebrew 'great to God' remains noted."},
+    {"location":"3:4","delta":"F2","decision":"Forty more days; preserve overthrown and overturning resonance."},
+    {"location":"3:8-10","delta":"F2","decision":"Preserve turn / relent structure and violence emphasis."},
+    {"location":"3:10","delta":"F3_THEOLOGICAL_RESTRAINT","decision":"Do not explain divine relenting beyond what verse states."}
+  ]
+}

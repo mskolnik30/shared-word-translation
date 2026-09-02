@@ -1,0 +1,13 @@
+{
+  "book":"Jonah","chapter":4,"translation":"FLUENT","status":"QA_PASSED","publication_allowed":false,
+  "canonical_tsw_sha":"9e49d381f579efe64da252a93ba73018c24e37f3",
+  "source":{"id":"OT.OSHB.WLC.2.2","revision":"6a5db28","text":"WLC 4.20 / OSHB v2.2"},
+  "key_decisions":[
+    {"location":"4:1","delta":"F2/F3","decision":"Greatly displeased; apparatus preserves ra'ah wordplay."},
+    {"location":"4:2","delta":"F1/F2","decision":"Gracious and compassionate; abundant in steadfast love; relents from disaster."},
+    {"location":"4:6","delta":"F2","decision":"Relieve discomfort; apparatus preserves ra'ah connection."},
+    {"location":"4:6-8","delta":"F1","decision":"Preserve appoint repetition across plant, worm, wind."},
+    {"location":"4:10-11","delta":"F1","decision":"Preserve compassion parallel."},
+    {"location":"4:11","delta":"F3_OPEN","decision":"Retain right-hand/left-hand idiom without deciding one interpretation."}
+  ]
+}

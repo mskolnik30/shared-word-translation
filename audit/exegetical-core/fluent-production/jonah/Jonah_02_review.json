@@ -1,0 +1,11 @@
+{
+  "book":"Jonah","chapter":2,"translation":"FLUENT","status":"QA_PASSED","publication_allowed":false,
+  "canonical_tsw_sha":"d449a6b22943dc2fcbb636dcdeb45d2072814d8f",
+  "source":{"id":"OT.OSHB.WLC.2.2","revision":"6a5db28","text":"WLC 4.20 / OSHB v2.2","versification_note":"Public Jonah 2:1-10 are WLC Jonah 2:2-11."},
+  "key_decisions":[
+    {"location":"2:2-7","delta":"F1/F2","decision":"Naturalize poetic syntax without flattening descent/death imagery."},
+    {"location":"2:8","delta":"F3","decision":"Retain TSW covenant-loyalty reading while marking Hebrew ambiguity."},
+    {"location":"2:9","delta":"F1","decision":"Retain Salvation belongs to the LORD."},
+    {"location":"2:1-10","delta":"F3_SOURCE_MAPPING","decision":"Public 2:1-10 map to WLC 2:2-11."}
+  ]
+}
