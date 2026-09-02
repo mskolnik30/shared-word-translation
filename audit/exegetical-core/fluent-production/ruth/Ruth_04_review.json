@@ -2,7 +2,7 @@
   "book": "Ruth",
   "chapter": 4,
   "translation": "FLUENT",
-  "status": "DRAFTED_REVIEW_REQUIRED",
+  "status": "QA_PASSED",
   "canonical_tsw_sha": "02ace0c3c6c12697b43cf580773c70ece722e81e",
   "source": "OSHB/WLC Ruth 4, revision 6a5db28",
   "key_decisions": [
@@ -81,5 +81,12 @@
     "empty / empty-handed / restoration should remain visible across 1:21, 3:17, and 4:15.",
     "Boaz as a man of standing (2:1) and Ruth as a woman of standing (3:11) should remain lexically paired."
   ],
-  "apparatus": "Canonical TSW Notes/Vocabulary from main carried forward unchanged for now; book-level apparatus audit should follow completion of Ruth."
+  "apparatus": "Canonical TSW Notes/Vocabulary from main carried forward unchanged for now; book-level apparatus audit should follow completion of Ruth.",
+  "publication_allowed": false,
+  "book_qa": {
+    "version": "1.0",
+    "reviewer": "OpenAI-assisted editorial review under Fluent v2.0 rules",
+    "f3_disposition": "resolved in RUTH_FLUENT_BOOK_QA.json",
+    "book_level_consistency": "passed"
+  }
 }

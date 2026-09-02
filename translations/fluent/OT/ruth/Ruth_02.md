@@ -3,7 +3,7 @@ book: Ruth
 testament: OT
 chapter: 2
 translation: FLUENT
-status: DRAFTED
+status: QA_PASSED
 ---
 
 ## Ruth Gleans in the Field of Boaz
@@ -61,7 +61,7 @@ v23: So Ruth stayed close to the young women of Boaz, gleaning until the end of 
 
 v01: Boaz is introduced as both a relative of Elimelech and a worthy man, preparing for his later role in the story.
 
-v03: Ruth “happens” to arrive at Boaz's field, yet the narrative quietly highlights God's providential direction.
+v03: Ruth “happens” to arrive at Boaz's field. The narrator presents the event as chance from Ruth's perspective without explicitly naming divine action.
 
 v04: Boaz's greeting reveals a household shaped by covenant faith and mutual blessing.
 

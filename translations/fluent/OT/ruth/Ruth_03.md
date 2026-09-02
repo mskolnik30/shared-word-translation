@@ -3,7 +3,7 @@ book: Ruth
 testament: OT
 chapter: 3
 translation: FLUENT
-status: DRAFTED
+status: QA_PASSED
 ---
 
 ## Naomi’s Plan
@@ -50,7 +50,7 @@ v02–04: Naomi's instructions reflect customs connected with kinship redemption
 
 v05: Ruth again demonstrates faithful obedience and trust.
 
-v09: Ruth's request goes beyond protection. She explicitly asks Boaz to act as redeemer and marry her.
+v09: Ruth asks Boaz to spread his garment over her and appeals to his role as redeemer. Within the narrative context, the request carries marital as well as redemption implications.
 
 v09: The imagery of spreading a garment echoes the earlier image of finding refuge under God's wings (2:12).
 

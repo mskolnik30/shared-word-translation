@@ -3,7 +3,7 @@ book: Ruth
 testament: OT
 chapter: 4
 translation: FLUENT
-status: DRAFTED
+status: QA_PASSED
 ---
 
 ## Boaz Redeems Ruth
@@ -40,7 +40,7 @@ v15: He will restore your life and sustain you in your old age, because your dau
 </p>
 
 <p>
-v16: Naomi took the child, held him close, and became his caregiver.
+v16: Naomi took the child, held him close, and cared for him.
 v17: The neighborhood women gave him a name, saying, “A son has been born to Naomi.” They named him Obed. He became the father of Jesse, the father of David.
 </p>
 

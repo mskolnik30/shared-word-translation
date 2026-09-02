@@ -3,7 +3,7 @@ book: Ruth
 testament: OT
 chapter: 1
 translation: FLUENT
-status: DRAFTED
+status: QA_PASSED
 ---
 
 ## Famine and Loss
@@ -49,7 +49,53 @@ v18: When Naomi saw that Ruth was determined to go with her, she stopped urging 
 
 <p>
 v19: So the two of them went on until they came to Bethlehem. When they entered Bethlehem, the whole town was stirred because of them, and the women asked, “Is this Naomi?”
-v20: She said to them, “Do not call me Naomi. Call me Mara, because Shaddai has dealt very bitterly with me.
-v21: I went away full, but the LORD has brought me back empty. Why call me Naomi when the LORD has testified against me and Shaddai has brought calamity upon me?”
+v20: She said to them, “Do not call me Naomi. Call me Mara, because the Almighty has dealt very bitterly with me.
+v21: I went away full, but the LORD has brought me back empty. Why call me Naomi when the LORD has testified against me and the Almighty has brought calamity upon me?”
 v22: So Naomi returned, and with her Ruth the Moabite, her daughter-in-law, who returned from the country of Moab. They came to Bethlehem at the beginning of the barley harvest.
-</p>
+</p>\n\n## Notes
+
+v01: “In the days when the judges ruled” situates the story within a period marked by instability, though the narrative itself remains intimate and domestic.  
+
+v03–05: The repetition of loss (husband, then sons) intensifies Naomi’s vulnerability and narrows her social and economic future.  
+
+v06: “The LORD had attended to his people” introduces divine action indirectly—through provision rather than spectacle.  
+
+v08: Naomi invokes ḥesed, covenantal loyalty expressed as steadfast love in the main text.  
+
+v11–13: Naomi’s reasoning is legal and practical, grounded in levirate expectations, yet shaped by her perception of divine opposition.  
+
+v13: “The hand of the LORD has gone out against me” reflects Naomi’s interpretation; the text does not confirm or correct it.  
+
+v14: The contrast between Orpah and Ruth is understated; both act faithfully within their circumstances.  
+
+v16–17: Ruth’s speech binds place, people, and God together. Loyalty extends beyond kinship into identity and worship.  
+
+v19–21: Naomi’s renaming of herself (“Mara,” bitter) does not erase her given name but places her experience in tension with it.  
+
+v22: The note of “barley harvest” signals provision returning, though its significance unfolds gradually.  
+
+## Vocabulary
+
+v08: חֶסֶד (ḥesed)  
+“Steadfast love,” “steadfast kindness,” or “loyal love.” A covenantal term describing faithful, enduring commitment within relationships.  
+
+v11: בֵּן (ben)
+“Son.” In this context, tied to social structure and inheritance, not only biological relation.
+
+v13: יַד (yad)
+“Hand.” Often can denote power or agency; here associated with perceived divine action.
+
+v16: עַם (‘am)
+“People.” Denotes communal belonging—social, ethnic, and covenantal identity.
+
+v16: אֱלֹהִים (Elohim)  
+“God.” Ruth’s use marks a shift from Moabite identity toward Israel’s God.  
+
+v20: מָרָא (Mara)  
+“Bitter.” A self-designation reflecting lived experience rather than formal renaming.  
+
+v21: שַׁדַּי (Shaddai)  
+“The Almighty.” A divine title emphasizing power, here associated with affliction rather than deliverance.  
+
+v22: קָצִיר (qatsir)  
+“Harvest.” Signals provision and transition, often marking turning points in narrative movement.\n

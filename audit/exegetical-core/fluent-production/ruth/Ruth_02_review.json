@@ -2,7 +2,7 @@
   "book": "Ruth",
   "chapter": 2,
   "translation": "FLUENT",
-  "status": "DRAFTED_REVIEW_REQUIRED",
+  "status": "QA_PASSED",
   "canonical_tsw_sha": "1b449177872f8fafb26975d421bc69793dcb5cc8",
   "source": "OSHB/WLC Ruth 2, revision 6a5db28",
   "key_decisions": [
@@ -37,5 +37,12 @@
       "decision": "retain young men in Ruth's quotation; Naomi answers young women"
     }
   ],
-  "apparatus": "Canonical TSW Notes/Vocabulary from main carried forward unchanged pending later shared-apparatus Core migration."
+  "apparatus": "Canonical TSW Notes/Vocabulary from main carried forward unchanged pending later shared-apparatus Core migration.",
+  "publication_allowed": false,
+  "book_qa": {
+    "version": "1.0",
+    "reviewer": "OpenAI-assisted editorial review under Fluent v2.0 rules",
+    "f3_disposition": "resolved in RUTH_FLUENT_BOOK_QA.json",
+    "book_level_consistency": "passed"
+  }
 }
