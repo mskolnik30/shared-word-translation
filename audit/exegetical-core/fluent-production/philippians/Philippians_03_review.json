@@ -1,0 +1,53 @@
+{
+  "book": "Philippians",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_sha": "5a9f5c9ad9858996a2514c93952d44577da968bc",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Phil.txt",
+    "file_blob_sha": "c97991ef6d1bd1f236ea4bb81dc9230df895bc7b"
+  },
+  "key_decisions": [
+    {
+      "location": "3:2",
+      "delta": "F1",
+      "decision": "Preserve sharp polemical dogs / evil workers / mutilation without interpretive heading."
+    },
+    {
+      "location": "3:7-8",
+      "delta": "F1/F2",
+      "decision": "Preserve accounting gain/loss network."
+    },
+    {
+      "location": "3:9",
+      "delta": "F3_CROSS_BOOK",
+      "decision": "Render pistis Christou as faithfulness of Christ, following Romans 3 project decision; flag current TSW discrepancy."
+    },
+    {
+      "location": "3:12",
+      "delta": "F2",
+      "decision": "Preserve katalambanō repetition: take hold because Christ took hold."
+    },
+    {
+      "location": "3:15",
+      "delta": "F2",
+      "decision": "Mature for teleioi while noting same root as made complete in v12."
+    },
+    {
+      "location": "3:20",
+      "delta": "F2/F3",
+      "decision": "Citizenship in heaven; explicitly connect politeuma with 1:27 civic verb."
+    },
+    {
+      "location": "3:21",
+      "delta": "F2",
+      "decision": "Our humiliated body / his glorious body preserves bodily transformation contrast."
+    }
+  ],
+  "apparatus": "Canonical TSW apparatus used as comparator, with duplicates, formatting defects, over-interpretive headings, lexical inaccuracies, and translation-specific claims corrected for Fluent."
+}
