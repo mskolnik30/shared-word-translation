@@ -1,0 +1,111 @@
+{
+  "book": "Philippians",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_status": "READY_FOR_PR_AFTER_INSTALL",
+  "chapter_counts": {
+    "1": 30,
+    "2": 30,
+    "3": 21,
+    "4": 23
+  },
+  "verse_total": 104,
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Phil.txt",
+    "file_blob_sha": "c97991ef6d1bd1f236ea4bb81dc9230df895bc7b"
+  },
+  "book_level_anchors": [
+    {
+      "id": "PHIL.PHRONEO",
+      "decision": "Keep mind/mindset language visible across the letter, especially 2:2-5, 3:15/19, and 4:2."
+    },
+    {
+      "id": "PHIL.KOINONIA",
+      "decision": "Preserve partnership/participation network across gospel partnership, Spirit, suffering, trouble, and financial support."
+    },
+    {
+      "id": "PHIL.CITIZENSHIP",
+      "decision": "Render 1:27 with civic language and preserve 3:20 citizenship to maintain politeuomai/politeuma link."
+    },
+    {
+      "id": "PHIL.JOY",
+      "decision": "Preserve deliberate rejoice/joy repetition rather than stylistically varying it away."
+    },
+    {
+      "id": "PHIL.GAIN_LOSS",
+      "decision": "Preserve gain/loss/accounting language from 1:21 through 3:7-8 and 4:15-18."
+    },
+    {
+      "id": "PHIL.HUMILITY_EXALTATION",
+      "decision": "Preserve the downward movement of 2:6-8 and divine exaltation in 2:9-11, with bodily conformity echoed in 3:21."
+    },
+    {
+      "id": "PHIL.PISTIS_CHRISTOU",
+      "decision": "Follow established Romans 3 project policy: render pistis Christou as Christ’s faithfulness while preserving human trust separately and noting the grammatical alternative."
+    }
+  ],
+  "f3_decisions": [
+    {
+      "location": "1:13",
+      "decision": "imperial guard for praitōrion; broader administrative sense noted",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "1:19",
+      "decision": "deliverance for sōtēria; salvation/vindication range preserved",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "2:6",
+      "decision": "something to be exploited for harpagmos",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "2:7",
+      "decision": "emptied himself without ontological expansion",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "2:16",
+      "decision": "holding firmly to; holding out noted as alternative",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "3:9",
+      "decision": "faithfulness of Christ, aligned with Romans 3 project policy",
+      "disposition": "APPROVE_AND_FLAG_TSW_RECONCILIATION"
+    },
+    {
+      "location": "3:20",
+      "decision": "citizenship in heaven without escape-from-earth paraphrase",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "4:5",
+      "decision": "The Lord is near left semantically open",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "4:12",
+      "decision": "mueō, not mystērion, in Vocabulary",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "4:13",
+      "decision": "retain all things; explain immediate circumstances in note rather than paraphrasing text",
+      "disposition": "APPROVE"
+    }
+  ],
+  "tsw_reconciliation_flags": [
+    "Philippians 1 Vocabulary duplicates koinōnia.",
+    "Philippians 2 Vocabulary lists phronēma at v5 although the text uses phroneō.",
+    "Philippians 3 contains malformed heading placement in the Markdown.",
+    "Philippians 3 heading about those who take the Law too seriously is interpretive and should not be propagated.",
+    "Philippians 3:9 current TSW uses trust in Christ while Romans 3 project policy renders pistis Christou as Christ’s faithfulness.",
+    "Philippians 4 Vocabulary duplicates eirēnē.",
+    "Philippians 4:12 current TSW Vocabulary lists mystērion though the Greek verb is mueō / memyēmai."
+  ]
+}

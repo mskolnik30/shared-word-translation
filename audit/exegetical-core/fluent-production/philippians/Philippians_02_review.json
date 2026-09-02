@@ -1,0 +1,53 @@
+{
+  "book": "Philippians",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_sha": "2823c2b8b792abe891f8edb965da993a7b3375d3",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Phil.txt",
+    "file_blob_sha": "c97991ef6d1bd1f236ea4bb81dc9230df895bc7b"
+  },
+  "key_decisions": [
+    {
+      "location": "2:5",
+      "delta": "F2",
+      "decision": "Use mindset and establish phroneō as a book-level anchor."
+    },
+    {
+      "location": "2:6",
+      "delta": "F3",
+      "decision": "Render harpagmos as something to be exploited; preserve lexical debate."
+    },
+    {
+      "location": "2:7",
+      "delta": "F3",
+      "decision": "Retain emptied himself without importing a kenosis theory."
+    },
+    {
+      "location": "2:12-13",
+      "delta": "F3_THEOLOGICAL_RESTRAINT",
+      "decision": "Keep communal human working and divine working together without resolving systematics in translation."
+    },
+    {
+      "location": "2:16",
+      "delta": "F3",
+      "decision": "Select holding firmly to; preserve holding out as alternative."
+    },
+    {
+      "location": "2:25",
+      "delta": "F2/F3",
+      "decision": "Render apostolos as messenger in context; note envoy/apostle range."
+    },
+    {
+      "location": "2:30",
+      "delta": "F2",
+      "decision": "Risking his life for paraboleusamenos."
+    }
+  ],
+  "apparatus": "Canonical TSW apparatus used as comparator, with duplicates, formatting defects, over-interpretive headings, lexical inaccuracies, and translation-specific claims corrected for Fluent."
+}
