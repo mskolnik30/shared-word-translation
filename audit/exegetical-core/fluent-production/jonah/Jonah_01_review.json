@@ -1,0 +1,13 @@
+{
+  "book":"Jonah","chapter":1,"translation":"FLUENT","status":"QA_PASSED","publication_allowed":false,
+  "canonical_tsw_sha":"ed6eeb982ebe2ebc59ac5a96ccd9d51dba9ae8ab",
+  "source":{"id":"OT.OSHB.WLC.2.2","revision":"6a5db28","text":"WLC 4.20 / OSHB v2.2","versification_note":"Public Jonah 1:17 is WLC Jonah 2:1."},
+  "key_decisions":[
+    {"location":"1:2-3","delta":"F2","decision":"Get up / got up preserves qûm repetition while using natural English."},
+    {"location":"1:3","delta":"F1/F2","decision":"Preserve went down repetition and presence-of-the-LORD language."},
+    {"location":"1:4","delta":"F1","decision":"Retain vivid hurl language and repeated great."},
+    {"location":"1:6","delta":"F2","decision":"Perhaps your god will take notice of us; contextual naturalization."},
+    {"location":"1:7-8","delta":"F2","decision":"Trouble rather than moral evil in sailor speech; apparatus retains ra'ah network."},
+    {"location":"1:17","delta":"F3_SOURCE_MAPPING","decision":"Public 1:17 maps to WLC 2:1."}
+  ]
+}
