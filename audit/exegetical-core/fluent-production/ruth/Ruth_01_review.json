@@ -1,0 +1,80 @@
+{
+  "book": "Ruth",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "DRAFTED_REVIEW_REQUIRED",
+  "publication_allowed": false,
+  "source_basis": [
+    "Masoretic Hebrew text of Ruth 1 independently verified from Sefaria/Mechon-Mamre",
+    "OSHB/WLC production source lock still required in repository workflow"
+  ],
+  "important_decisions": [
+    {
+      "verse": 6,
+      "classification": "F2_REVIEW",
+      "rendering": "the LORD had attended to his people by giving them food",
+      "note": "Hebrew paqad has a range including attend to/visit/take notice of; review against TSW lexical policy."
+    },
+    {
+      "verse": 8,
+      "classification": "PROPOSED_BOOK_LEXEME_ANCHOR",
+      "rendering": "steadfast love",
+      "lemma": "חֶסֶד",
+      "note": "Key thematic term in Ruth; preserve across 1:8, 2:20, 3:10 unless context requires otherwise."
+    },
+    {
+      "verse": 9,
+      "classification": "F2_REVIEW",
+      "rendering": "rest in the home of a husband",
+      "lemma": "מְנוּחָה",
+      "note": "Rest can carry security/home implications; main text preserves the image rather than replacing it with explanation."
+    },
+    {
+      "verse": 13,
+      "classification": "F1_F2_REVIEW",
+      "rendering": "the hand of the LORD has gone out against me",
+      "note": "Preserve Naomi's own interpretation and the concrete biblical image."
+    },
+    {
+      "verse": 14,
+      "classification": "PROPOSED_BOOK_LEXEME_ANCHOR",
+      "rendering": "Ruth clung to her",
+      "lemma": "דבק",
+      "note": "The verb is thematically significant; do not soften to merely stayed."
+    },
+    {
+      "verse": 15,
+      "classification": "F3_REVIEW",
+      "rendering": "her gods",
+      "note": "Hebrew אלהיה can be read numerically plural or, contextually, as a singular divine reference. Review against current TSW."
+    },
+    {
+      "verses": [
+        16,
+        17
+      ],
+      "classification": "F2_REVIEW",
+      "rendering": "Where you go, I will go ...",
+      "note": "Retain covenantal/oath force without turning Ruth's speech into explanatory prose."
+    },
+    {
+      "verse": 20,
+      "classification": "PROPOSED_DIVINE_NAME_POLICY",
+      "rendering": "Shaddai",
+      "note": "Traditional 'Almighty' is interpretive and the etymology is uncertain. Review whether Fluent should teach the divine name directly."
+    },
+    {
+      "verse": 21,
+      "classification": "F2_REVIEW",
+      "rendering": "the LORD has testified against me",
+      "note": "Preserves Naomi's legal metaphor and her perspective rather than converting it to narrator theology."
+    },
+    {
+      "verse": 22,
+      "classification": "PROPOSED_LITERARY_ANCHOR",
+      "rendering": "Naomi returned ... Ruth ... who returned",
+      "note": "Preserve repeated shuv/return language even though English style might prefer variation."
+    }
+  ],
+  "apparatus_policy": "No public Notes/Vocabulary inserted yet because canonical shared TSW apparatus for Ruth 1 was not recovered. Proposed apparatus remains in this review ledger until Core reconciliation."
+}
