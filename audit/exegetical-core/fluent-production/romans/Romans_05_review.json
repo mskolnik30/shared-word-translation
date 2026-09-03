@@ -1,0 +1,177 @@
+{
+  "book": "Romans",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "public_verse_slots": 21,
+  "included_verse_labels": 21,
+  "critical_text_gap": [],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt"
+  },
+  "tsw_comparator": {
+    "path": "books/NT/romans/Romans_05.md",
+    "blob_sha": "ae5511eb9b9578bf957d650adb026d75bb01fda4"
+  },
+  "publication_allowed": false,
+  "deployment": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt",
+    "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Romans 5:1",
+        "source_chapter": 5,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "58749cb0b37f07f2c0dad7307cb0ecba722ca560287ae710ab4e132c06c2f901"
+      },
+      "2": {
+        "source_ref": "Romans 5:2",
+        "source_chapter": 5,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "f7d5fd826cd5988911d9507cf15303fe35b25bff1b94bb5e9d612d117961747a"
+      },
+      "3": {
+        "source_ref": "Romans 5:3",
+        "source_chapter": 5,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "df1c98f6626f0d0ee3e96492a0c582ade9b4d30389b6b3723c21c2fd9fb135ed"
+      },
+      "4": {
+        "source_ref": "Romans 5:4",
+        "source_chapter": 5,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "81aa8a51bf5cdcf48dfd6a095e128e91ac301d041df278941946944ba6117582"
+      },
+      "5": {
+        "source_ref": "Romans 5:5",
+        "source_chapter": 5,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "69e852ae57c05ce163726eb565d1ccdda243fecdd2422dc9ca1938002868d628"
+      },
+      "6": {
+        "source_ref": "Romans 5:6",
+        "source_chapter": 5,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "0b92def88f6e68a8992feea95d74a9f6b21e9e23147d870aaedd4036c68e85ff"
+      },
+      "7": {
+        "source_ref": "Romans 5:7",
+        "source_chapter": 5,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "60b84bdd4624bd5b573ea1d139b96d067c73113da66d6341b3ecff7bdaeb2203"
+      },
+      "8": {
+        "source_ref": "Romans 5:8",
+        "source_chapter": 5,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "22693e6052e8332f4421e435a2e61f126f592daf5002795950400b0f10259319"
+      },
+      "9": {
+        "source_ref": "Romans 5:9",
+        "source_chapter": 5,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "e88bf0a28533ae20a48315ac7d9d9cb79635053251d34c8359d9b15216427213"
+      },
+      "10": {
+        "source_ref": "Romans 5:10",
+        "source_chapter": 5,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "69637964839c9faa9af56cdb9ada26cef34ac95e9f63ad71caf0dffe81f46233"
+      },
+      "11": {
+        "source_ref": "Romans 5:11",
+        "source_chapter": 5,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "19d802ef39205178298afdffcf4e9d2a5b51cc2b485aa4594e080782a486c988"
+      },
+      "12": {
+        "source_ref": "Romans 5:12",
+        "source_chapter": 5,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "b63f32db7f5783c132a891fba3ab36e9131fc6db54d185247d30aca63a7695a5"
+      },
+      "13": {
+        "source_ref": "Romans 5:13",
+        "source_chapter": 5,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "7ac04931c49526aaff0cbde12cb561a435227161aee5394128d9608b759b0350"
+      },
+      "14": {
+        "source_ref": "Romans 5:14",
+        "source_chapter": 5,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "03c58eadf6a6a097761685e74dfd003e051eb215de107a5428c91614003b9b1f"
+      },
+      "15": {
+        "source_ref": "Romans 5:15",
+        "source_chapter": 5,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "f003f6b68d00a99bf694c34c7cdd1f85e59e8c766e995d2851c97c301a8d2f05"
+      },
+      "16": {
+        "source_ref": "Romans 5:16",
+        "source_chapter": 5,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "2f943a720be30a2952a3edc284807ca7bf967f9e9a916e1af17f531350fd1f17"
+      },
+      "17": {
+        "source_ref": "Romans 5:17",
+        "source_chapter": 5,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "65e571e3505093dd7996625d528455a318e4b3581e8affae2c7ce11929e3ec43"
+      },
+      "18": {
+        "source_ref": "Romans 5:18",
+        "source_chapter": 5,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "a09d9898a56da7e4afc0f08ffbe5da2fb125f4ee8f49f24b6a576c9854c59f71"
+      },
+      "19": {
+        "source_ref": "Romans 5:19",
+        "source_chapter": 5,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "d40362125793780d4d8a62d7d24a9113389b650b21df011bc83a80c7ba9f7d6d"
+      },
+      "20": {
+        "source_ref": "Romans 5:20",
+        "source_chapter": 5,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "367e8ee4e5179c28af5cd0c044316cb174939b448b129b07ba66ca0d65e5be46"
+      },
+      "21": {
+        "source_ref": "Romans 5:21",
+        "source_chapter": 5,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "bad37f690aa498913a91e9ec15993a6532aac2f9f0284b75861b76b0be9f0d82"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

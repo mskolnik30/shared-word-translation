@@ -1,0 +1,303 @@
+{
+  "book": "Romans",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_status": "RETAINED_FOR_BATCH_DEPLOYMENT",
+  "chapter_count": 16,
+  "public_verse_slots": 433,
+  "included_verse_labels": 430,
+  "critical_text_absent_public_verses": {
+    "16": [
+      25,
+      26,
+      27
+    ]
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt"
+  },
+  "book_level_anchors": [
+    {
+      "id": "ROM.GOOD_NEWS",
+      "decision": "Preserve good-news/gospel language as the controlling announcement of God’s saving action."
+    },
+    {
+      "id": "ROM.RIGHTEOUSNESS",
+      "decision": "Preserve dikaiosynē as righteousness and the repeated God-righteousness network rather than replacing it with a single explanatory paraphrase."
+    },
+    {
+      "id": "ROM.SET_RIGHT",
+      "decision": "Render dikaioō as set right where the forensic/restorative sense is active, with contextual exceptions such as Romans 6:7 where freed/acquitted is demanded by the death-to-slavery argument."
+    },
+    {
+      "id": "ROM.PISTIS",
+      "decision": "Preserve pistis as trust/faithfulness according to grammatical subject and context; do not flatten every occurrence to intellectual belief."
+    },
+    {
+      "id": "ROM.PISTIS_CHRISTOU",
+      "decision": "Romans 3:22 follows the project’s frozen subjective-genitive decision: through the faithfulness of Jesus Christ, for all who trust."
+    },
+    {
+      "id": "ROM.ATONEMENT",
+      "decision": "Romans 3:25 hilastērion = a place of atonement, preserving mercy-seat and sacrificial resonances without choosing one later atonement theory."
+    },
+    {
+      "id": "ROM.SIN_POWER",
+      "decision": "Preserve singular Sin as a ruling power across Romans 3–8, including reign/slavery/dominion imagery."
+    },
+    {
+      "id": "ROM.FLESH_SPIRIT",
+      "decision": "Preserve flesh/Spirit as contrasting spheres/orientations without treating physical embodiment itself as evil."
+    },
+    {
+      "id": "ROM.LAW",
+      "decision": "Preserve the Law’s multiple functions and Paul’s positive statements about it; do not paraphrase Romans as simple Law-versus-grace abolitionism."
+    },
+    {
+      "id": "ROM.ISRAEL",
+      "decision": "Romans 9–11 must remain anti-supersessionist in translation: God has not rejected his people, Gentiles are grafted into Israel’s tree, natural branches can be grafted back, and God’s gifts/calling are irrevocable."
+    },
+    {
+      "id": "ROM.MERCY",
+      "decision": "Preserve mercy as the climactic theological movement of Romans 9–11."
+    },
+    {
+      "id": "ROM.ONE_BODY",
+      "decision": "Preserve mutual belonging, gifts, hospitality, enemy-love, and strong/weak table fellowship as the embodied communal result of the gospel."
+    },
+    {
+      "id": "ROM.NATIONS",
+      "decision": "Preserve Jew/Gentile and Israel/nations distinctions while affirming the one Lord and universal gospel invitation."
+    },
+    {
+      "id": "ROM.OBEDIENCE_TRUST",
+      "decision": "Preserve the obedience-of-trust/faith phrase at Romans 1:5. The familiar matching phrase in the Romans 16 doxology belongs to an ancient textual tradition not present in the pinned SBLGNT main text."
+    }
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:17",
+      "decision": "compressed ek pisteōs eis pistin rendered from faithfulness to trust; note preserves debate"
+    },
+    {
+      "location": "1:26-27",
+      "decision": "translate male/female and natural/contrary-to-nature language directly without importing modern identity categories"
+    },
+    {
+      "location": "2:13",
+      "decision": "dikaioō future passive = will be set right"
+    },
+    {
+      "location": "2:17-29",
+      "decision": "preserve intra-Jewish rhetorical address; do not generalize into Gentile anti-Jewish polemic"
+    },
+    {
+      "location": "3:22",
+      "decision": "faithfulness of Jesus Christ, for all who trust"
+    },
+    {
+      "location": "3:25",
+      "decision": "hilastērion = a place of atonement"
+    },
+    {
+      "location": "3:26",
+      "decision": "keep Jesus’ faithfulness central in compressed final phrase"
+    },
+    {
+      "location": "4:19",
+      "decision": "follow SBLGNT considered his body reading; trust is not denial of bodily facts"
+    },
+    {
+      "location": "5:12",
+      "decision": "because all sinned left uninterpreted regarding transmission of Adamic sin"
+    },
+    {
+      "location": "5:18",
+      "decision": "retain all/all parallel without narrowing scope in translation"
+    },
+    {
+      "location": "6:7",
+      "decision": "dikaioō contextualized as freed/acquitted from sin"
+    },
+    {
+      "location": "7:9-25",
+      "decision": "do not identify rhetorical I exclusively with one autobiographical/systematic theory"
+    },
+    {
+      "location": "8:1",
+      "decision": "short SBLGNT text; later walk-according-to-Spirit expansion excluded"
+    },
+    {
+      "location": "8:28",
+      "decision": "God works all things together for good; do not call all events good"
+    },
+    {
+      "location": "9:5",
+      "decision": "follow Christ-who-is-over-all-God punctuation; note punctuation debate"
+    },
+    {
+      "location": "9:6",
+      "decision": "not all from Israel are Israel without replacement-theology gloss"
+    },
+    {
+      "location": "9:22-23",
+      "decision": "preserve passive prepared-for-destruction vs active prepared-beforehand-for-glory asymmetry"
+    },
+    {
+      "location": "10:4",
+      "decision": "telos = goal, with end/culmination range noted"
+    },
+    {
+      "location": "10:14",
+      "decision": "allow hearing Christ through proclamation rather than forcing heard-about-him"
+    },
+    {
+      "location": "11:1",
+      "decision": "God has not rejected his people — emphatic controlling statement"
+    },
+    {
+      "location": "11:11",
+      "decision": "stumble not final irrecoverable fall"
+    },
+    {
+      "location": "11:17-24",
+      "decision": "Gentiles grafted into Israel’s tree; explicit anti-boasting warning retained"
+    },
+    {
+      "location": "11:25",
+      "decision": "partial hardening until fullness of Gentiles"
+    },
+    {
+      "location": "11:26",
+      "decision": "and in this way all Israel will be saved; do not replace with then or remnant paraphrase"
+    },
+    {
+      "location": "11:28-29",
+      "decision": "beloved according to election; gifts and calling irrevocable"
+    },
+    {
+      "location": "12:1",
+      "decision": "logikos = fitting worship"
+    },
+    {
+      "location": "13:1-7",
+      "decision": "translate governing-authority norm directly; apparatus rejects absolutizing every ruler/action as morally approved"
+    },
+    {
+      "location": "14:10",
+      "decision": "SBLGNT God’s judgment seat; Christ variant noted if needed"
+    },
+    {
+      "location": "15:8",
+      "decision": "Christ serves circumcised to confirm ancestral promises before Gentile-mercy sequence"
+    },
+    {
+      "location": "15:26-27",
+      "decision": "Jerusalem contribution preserves Gentile material indebtedness to Jewish believers"
+    },
+    {
+      "location": "16:1",
+      "decision": "Phoebe = deacon/diakonos of Cenchreae church"
+    },
+    {
+      "location": "16:2",
+      "decision": "Phoebe = benefactor/patron prostatis"
+    },
+    {
+      "location": "16:7",
+      "decision": "Junia feminine; outstanding among apostles main reading"
+    },
+    {
+      "location": "16:24",
+      "decision": "pinned SBLGNT includes the grace benediction; WH/Treg/NA28 omission noted"
+    },
+    {
+      "location": "16:25-27",
+      "decision": "public-number gaps in pinned SBLGNT main text; traditional doxology retained in apparatus, not continuous Fluent main text"
+    }
+  ],
+  "deployment": "Include with Luke, John, and Acts in NT Batch 01. Installer must retrieve and bind all 430 included Romans public verse labels dynamically to pinned SBLGNT before commit.",
+  "source_record_count": 430,
+  "deployment_audit": {
+    "source_git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
+    "source_binding_count": 430,
+    "unique_source_record_count": 430,
+    "public_verse_slots": 433,
+    "ledger_summary": {
+      "F0": 24,
+      "F1": 191,
+      "F2": 136,
+      "F3": 82
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/romans/Romans_01.md",
+        "blob_sha": "bb7a31a768ae306b417cf12d0d2985bc4a575188"
+      },
+      "02": {
+        "path": "books/NT/romans/Romans_02.md",
+        "blob_sha": "9bc1f3e87da96fca04db97a1c8ef7b671f92fbe1"
+      },
+      "03": {
+        "path": "books/NT/romans/Romans_03.md",
+        "blob_sha": "b43a54e834704f5e47d5d04cec404b65ce62eaa2"
+      },
+      "04": {
+        "path": "books/NT/romans/Romans_04.md",
+        "blob_sha": "f6aa28e6341a86cd70492d03991c41907f4d9de8"
+      },
+      "05": {
+        "path": "books/NT/romans/Romans_05.md",
+        "blob_sha": "ae5511eb9b9578bf957d650adb026d75bb01fda4"
+      },
+      "06": {
+        "path": "books/NT/romans/Romans_06.md",
+        "blob_sha": "1f83d2ee0e304be51bb33a544d15640c1aae1615"
+      },
+      "07": {
+        "path": "books/NT/romans/Romans_07.md",
+        "blob_sha": "a75c3455bc4a5dc2630d5487540546ea1a5ab62a"
+      },
+      "08": {
+        "path": "books/NT/romans/Romans_08.md",
+        "blob_sha": "5bfb16149b0a9805dec58e520c3b5d7c3ad03ed0"
+      },
+      "09": {
+        "path": "books/NT/romans/Romans_09.md",
+        "blob_sha": "45de948cb825aedc4c6cb98e8868e2b424ca07cf"
+      },
+      "10": {
+        "path": "books/NT/romans/Romans_10.md",
+        "blob_sha": "9985881da9cfb3a01b0b53c42bca1f3f370d84fe"
+      },
+      "11": {
+        "path": "books/NT/romans/Romans_11.md",
+        "blob_sha": "b8b0ff5f492cf43df7b9cbbe7eb7c9c46ef5f023"
+      },
+      "12": {
+        "path": "books/NT/romans/Romans_12.md",
+        "blob_sha": "b3f2ecb95773cf901792b65d9511dd9fe623973b"
+      },
+      "13": {
+        "path": "books/NT/romans/Romans_13.md",
+        "blob_sha": "4bfb32263d15a11bffb766ae1f7485e58c7cdb0c"
+      },
+      "14": {
+        "path": "books/NT/romans/Romans_14.md",
+        "blob_sha": "6d55fd77722d24374c2165041bf95774f742c4dd"
+      },
+      "15": {
+        "path": "books/NT/romans/Romans_15.md",
+        "blob_sha": "52226f8e1727d300e3c8eea16934d87bbcc28972"
+      },
+      "16": {
+        "path": "books/NT/romans/Romans_16.md",
+        "blob_sha": "540c7ab8a941dc0ec33a317f7fc150218440bb85"
+      }
+    }
+  }
+}

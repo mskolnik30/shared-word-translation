@@ -1,0 +1,177 @@
+{
+  "book": "Romans",
+  "chapter": 10,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "public_verse_slots": 21,
+  "included_verse_labels": 21,
+  "critical_text_gap": [],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt"
+  },
+  "tsw_comparator": {
+    "path": "books/NT/romans/Romans_10.md",
+    "blob_sha": "9985881da9cfb3a01b0b53c42bca1f3f370d84fe"
+  },
+  "publication_allowed": false,
+  "deployment": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt",
+    "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Romans 10:1",
+        "source_chapter": 10,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "731a78178a06d3f4244a97329c5244965c26c8f3477ad3964b16e3f838b64d93"
+      },
+      "2": {
+        "source_ref": "Romans 10:2",
+        "source_chapter": 10,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "709c56f7bb2ed7560e382b84065f00b8dbb548234004bf8286cb0f21b8e35e9b"
+      },
+      "3": {
+        "source_ref": "Romans 10:3",
+        "source_chapter": 10,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "cd112d076a7b83419d953dcf29fa71858f93de0affaec3b798cd00a1f9f96b43"
+      },
+      "4": {
+        "source_ref": "Romans 10:4",
+        "source_chapter": 10,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "202b49da45c026738a76a79acf47acf0b031ecb87e505c0be7ee39e063c58c6c"
+      },
+      "5": {
+        "source_ref": "Romans 10:5",
+        "source_chapter": 10,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "b8e597c61aaa02c2ffa38e88c36d381a09c907a3b7f366936a7fe8a4e55a08ff"
+      },
+      "6": {
+        "source_ref": "Romans 10:6",
+        "source_chapter": 10,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "8f583625382153be4fa908c5149cdb20580491ecdc13dd0948be2bf16ba5bc8d"
+      },
+      "7": {
+        "source_ref": "Romans 10:7",
+        "source_chapter": 10,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "56c245ed3c1ccef3fd6018987a0f24e288872bd31bf5f226a5e51d299b50fa44"
+      },
+      "8": {
+        "source_ref": "Romans 10:8",
+        "source_chapter": 10,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "f33155d6bfb09f4b190a343829f242cf81131cdbbcf929be741cfd7b801e7c93"
+      },
+      "9": {
+        "source_ref": "Romans 10:9",
+        "source_chapter": 10,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "e697c53f7e7a6ee94b252bb7d4b5f727da314ec9794af2f135b89bb9fce18fd0"
+      },
+      "10": {
+        "source_ref": "Romans 10:10",
+        "source_chapter": 10,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "1021018d6343f481d1409c5a1511f1e8fd647cae6767322c2ea3c3a49a4db6a5"
+      },
+      "11": {
+        "source_ref": "Romans 10:11",
+        "source_chapter": 10,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "e2dc68219b2fb0e0aea68cbc5b9312dfb739a9dda6d89a950c03761162904167"
+      },
+      "12": {
+        "source_ref": "Romans 10:12",
+        "source_chapter": 10,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "0b90cf5dc766531b0ebfe205819241137305477980eb2f0a8bdd33e7c13d2b02"
+      },
+      "13": {
+        "source_ref": "Romans 10:13",
+        "source_chapter": 10,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "35b7e6627706ec9f9cfd3078ab05a8a7f8704268f01523dfa6eaafb27bfc5474"
+      },
+      "14": {
+        "source_ref": "Romans 10:14",
+        "source_chapter": 10,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "86c683442992a4ee675dda988944eab2af4ee6114ea4f5790ddaae5d8c93bd3f"
+      },
+      "15": {
+        "source_ref": "Romans 10:15",
+        "source_chapter": 10,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "bea27a7c1961f002d05174d6a5fb26dc728aaab94783ce1b6d16f28e939bc85c"
+      },
+      "16": {
+        "source_ref": "Romans 10:16",
+        "source_chapter": 10,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "3e2c33f61bac479996cd3bb18db77efa7033a3583aa90e17a6d6707123c65584"
+      },
+      "17": {
+        "source_ref": "Romans 10:17",
+        "source_chapter": 10,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "6288d93d65e28e9e096fb681c9ae86fa2f4ab31a8a33a794508aac9b98ce7b5f"
+      },
+      "18": {
+        "source_ref": "Romans 10:18",
+        "source_chapter": 10,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "1b3db0bc9556cbf931a32844f420f8f476f5c3e1bcf54c86bdddbcf0b67a6701"
+      },
+      "19": {
+        "source_ref": "Romans 10:19",
+        "source_chapter": 10,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "dc0832d200a30e69e569b275746f30121c40df308455d791e47c23bdb1b86b4a"
+      },
+      "20": {
+        "source_ref": "Romans 10:20",
+        "source_chapter": 10,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "53605982345926ab7dc00c99972fc5bb8f15fa9d5a3caf2444f1dca46d848c03"
+      },
+      "21": {
+        "source_ref": "Romans 10:21",
+        "source_chapter": 10,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "6d82f49b8061aa73a296a45b6e56ab74201cbfbbeee0b92af92d15bbfe4f2d5d"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

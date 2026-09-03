@@ -1,0 +1,233 @@
+{
+  "book": "Romans",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "public_verse_slots": 29,
+  "included_verse_labels": 29,
+  "critical_text_gap": [],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt"
+  },
+  "tsw_comparator": {
+    "path": "books/NT/romans/Romans_02.md",
+    "blob_sha": "9bc1f3e87da96fca04db97a1c8ef7b671f92fbe1"
+  },
+  "publication_allowed": false,
+  "deployment": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt",
+    "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Romans 2:1",
+        "source_chapter": 2,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "fa352709150165b184da6f03affafeb1cdfd0e5e6dbbf62ec5b7a9682ee17b06"
+      },
+      "2": {
+        "source_ref": "Romans 2:2",
+        "source_chapter": 2,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "8b4f6601743a3121d18223a0b2750dab69d802039d5148dcb115c9d83d91a195"
+      },
+      "3": {
+        "source_ref": "Romans 2:3",
+        "source_chapter": 2,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "0e5f46c9005cba103d68fb44fb89d24f88c57ae75c421c1b720d2518b74a709b"
+      },
+      "4": {
+        "source_ref": "Romans 2:4",
+        "source_chapter": 2,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "986e860ab7d0cbd9f32e5725bf0dd5131256c55601049638ae4b3b8a5a52351c"
+      },
+      "5": {
+        "source_ref": "Romans 2:5",
+        "source_chapter": 2,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "769d0b1aef98e25eade75a652ad85c3c44605fc8e1f3d87acae505b187908c82"
+      },
+      "6": {
+        "source_ref": "Romans 2:6",
+        "source_chapter": 2,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "7bc566b358ced39f04176de0075e7650f302fac44f74cb3ea70bc02e3e9fd6c7"
+      },
+      "7": {
+        "source_ref": "Romans 2:7",
+        "source_chapter": 2,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "00773a57dae01104904d0b5bb9abd8b32e163a340898d787cef3ff275a29b6fc"
+      },
+      "8": {
+        "source_ref": "Romans 2:8",
+        "source_chapter": 2,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "fcd98ea395796077768d6f5e9f6a72d059ffd09d8177fff7451334e6a3eab9d6"
+      },
+      "9": {
+        "source_ref": "Romans 2:9",
+        "source_chapter": 2,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "6ea03a06e3a04ce7b222a23190996a524c82e1b5e9a94e81a83200cff2f4a389"
+      },
+      "10": {
+        "source_ref": "Romans 2:10",
+        "source_chapter": 2,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "1ac7231e54b785f8cbedf4f1393dfda0e64a2304e26758f79ceff1d422402568"
+      },
+      "11": {
+        "source_ref": "Romans 2:11",
+        "source_chapter": 2,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "2cd9322ef8e372c24a22a7a328f76734bc44741a6549cc531d2f8123cc02662d"
+      },
+      "12": {
+        "source_ref": "Romans 2:12",
+        "source_chapter": 2,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "a71096704e58e35dacf2c63e2765483b342cbca597173e498e42bace7f44edf0"
+      },
+      "13": {
+        "source_ref": "Romans 2:13",
+        "source_chapter": 2,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "ed8a9ccc33ff0090d5526c97ee795ab89a762d8d9d3ef312dabd748c42635067"
+      },
+      "14": {
+        "source_ref": "Romans 2:14",
+        "source_chapter": 2,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "d74714976b8610cb2853af10b3f59b86b3f0ef1b597532d9d250277482b63d86"
+      },
+      "15": {
+        "source_ref": "Romans 2:15",
+        "source_chapter": 2,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "9a29a1f7cfb531c10a4ebb6e42df40b15831802336822a08748f796be038b821"
+      },
+      "16": {
+        "source_ref": "Romans 2:16",
+        "source_chapter": 2,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "7abf371cabe8f56c461e7b5dca2d958d9e65d2d6299f7af5c9e7bea95ea1183a"
+      },
+      "17": {
+        "source_ref": "Romans 2:17",
+        "source_chapter": 2,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "706374e9673b34f75fa5329a227d583213e7616d627c85eafad164705091ce7b"
+      },
+      "18": {
+        "source_ref": "Romans 2:18",
+        "source_chapter": 2,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "87c8a2dd6d5d492c02a27f78c2186a170bae946d3df8693fe755e8222caea8a9"
+      },
+      "19": {
+        "source_ref": "Romans 2:19",
+        "source_chapter": 2,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "dbc7e423712c5dd3297897dae98251958fc81a58a99abdeeb82c84ac1d840c7b"
+      },
+      "20": {
+        "source_ref": "Romans 2:20",
+        "source_chapter": 2,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "b7ea8ff0d1fd5d60beafb57751741bce1c73feeb0d76bb8fdc17702be722d537"
+      },
+      "21": {
+        "source_ref": "Romans 2:21",
+        "source_chapter": 2,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "d35a560e5d8483e0a7e3c5f6a7878ee186d269949154a52dd62eb395f39489bd"
+      },
+      "22": {
+        "source_ref": "Romans 2:22",
+        "source_chapter": 2,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "6c3da55cda4de8ae0676fc962f566387a7b8a68cf0a642d8836dca305e8bca89"
+      },
+      "23": {
+        "source_ref": "Romans 2:23",
+        "source_chapter": 2,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "eab196c320a22c2ada994626bf39700a32fcb12c372d1c06ba97b38af7524d30"
+      },
+      "24": {
+        "source_ref": "Romans 2:24",
+        "source_chapter": 2,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "f2039eeb0368713b251d89779f28c23ab353033bfcceb48dd3e39d320255ca13"
+      },
+      "25": {
+        "source_ref": "Romans 2:25",
+        "source_chapter": 2,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "5597e57afe64711749b3676b26ba4fbfb448ed5977e9a8e621b1a81a0a6b8115"
+      },
+      "26": {
+        "source_ref": "Romans 2:26",
+        "source_chapter": 2,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "cb0edddc54abf177b001d0126d77e516dd8d110dedd27fcea44c822db6fad20f"
+      },
+      "27": {
+        "source_ref": "Romans 2:27",
+        "source_chapter": 2,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "dd2d615b54b64c42797680834f732d222a1e7f3f560390267c178e6f820b8bfa"
+      },
+      "28": {
+        "source_ref": "Romans 2:28",
+        "source_chapter": 2,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "acee5a95b900cf251c19785b90a4e0101157e56cffbe366804dd9f0c63470c7a"
+      },
+      "29": {
+        "source_ref": "Romans 2:29",
+        "source_chapter": 2,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "950f839f278b9dababa3626650ed840d25fbd44f75f18e5b01a8c7c4029b8db0"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

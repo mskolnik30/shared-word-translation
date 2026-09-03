@@ -1,0 +1,205 @@
+{
+  "book": "Romans",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "public_verse_slots": 25,
+  "included_verse_labels": 25,
+  "critical_text_gap": [],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt"
+  },
+  "tsw_comparator": {
+    "path": "books/NT/romans/Romans_04.md",
+    "blob_sha": "f6aa28e6341a86cd70492d03991c41907f4d9de8"
+  },
+  "publication_allowed": false,
+  "deployment": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt",
+    "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Romans 4:1",
+        "source_chapter": 4,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "0da538cc813c39f863dc508ab08e978e05d990c39850ac0998f830f4d8926616"
+      },
+      "2": {
+        "source_ref": "Romans 4:2",
+        "source_chapter": 4,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "f71930365914c46d93842f722a0aaf73ee0f9172d2c2fa99bb7b34680d6e9620"
+      },
+      "3": {
+        "source_ref": "Romans 4:3",
+        "source_chapter": 4,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "df7c5a93e917fde5135e8529d7231f771f0f7c8e5f7d030bb0354f00d3d51a77"
+      },
+      "4": {
+        "source_ref": "Romans 4:4",
+        "source_chapter": 4,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "751d345be7a95e27faefb185090b83dcbc5f605541f6486cf1fedfacd85e6c59"
+      },
+      "5": {
+        "source_ref": "Romans 4:5",
+        "source_chapter": 4,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "2019fb9eebc90432c5cd87cc7f2f3890969390b97c9477caafbaf7328c1137ab"
+      },
+      "6": {
+        "source_ref": "Romans 4:6",
+        "source_chapter": 4,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "aba296aca62dd14ead74533664fc6b696f13a2da0a9e1357310b8f8ddd064c69"
+      },
+      "7": {
+        "source_ref": "Romans 4:7",
+        "source_chapter": 4,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "3c531cbc91a88edcd6cc56b39a7308c282a08a79a202ff9ae9ebc4a6953afdc1"
+      },
+      "8": {
+        "source_ref": "Romans 4:8",
+        "source_chapter": 4,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "e564041dc986458c623aa6e9cb7fd7dfe99cdd8753e928ba82e57b0c506611b6"
+      },
+      "9": {
+        "source_ref": "Romans 4:9",
+        "source_chapter": 4,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "b896a1667a85ff32009ff1ff1a2e1d57bf8c7857d7f3b63d6368a9680c703f21"
+      },
+      "10": {
+        "source_ref": "Romans 4:10",
+        "source_chapter": 4,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "28ab775506c68f470dbf7976b8f3ba5c4f717b8f62778e70594d4f7903e8fe14"
+      },
+      "11": {
+        "source_ref": "Romans 4:11",
+        "source_chapter": 4,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "ec0ace72dbb88b7de191d1dc7cb59d3a003d0c2cecdfbc22b75ec1a66c8c72c2"
+      },
+      "12": {
+        "source_ref": "Romans 4:12",
+        "source_chapter": 4,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "1a0520c584d0976551cc57de40ef5b09817b40903b2f84f1c9ff8ca349eca7b5"
+      },
+      "13": {
+        "source_ref": "Romans 4:13",
+        "source_chapter": 4,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "8509d1f37987e6b94003a71e41ab4769a7e1ac7e64d1daea866d066a3bd75cde"
+      },
+      "14": {
+        "source_ref": "Romans 4:14",
+        "source_chapter": 4,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "f3f394e59e686ac4da8c025ebb1fa9e7597d703b8feb1af03f55221da1e7f090"
+      },
+      "15": {
+        "source_ref": "Romans 4:15",
+        "source_chapter": 4,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "fb4b767b4f41ca019dcd2fa3f7925c639b69b6bdf2967ee4f14467220e82327a"
+      },
+      "16": {
+        "source_ref": "Romans 4:16",
+        "source_chapter": 4,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "a2f95ae44b90a6391a05efff41a7160ebf30e2b13c2f08f0d6c0ef52ea4c9541"
+      },
+      "17": {
+        "source_ref": "Romans 4:17",
+        "source_chapter": 4,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "42e242fadab5220dc3697e46251ef35c2e06289a8469730b01ab5b71a40f9264"
+      },
+      "18": {
+        "source_ref": "Romans 4:18",
+        "source_chapter": 4,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "4ea023b1ef2bcc75443cc0a67ee6ba99405226497b3f9de0a1d66845d8e4a11f"
+      },
+      "19": {
+        "source_ref": "Romans 4:19",
+        "source_chapter": 4,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "e5d6c3a5cc04db27d87fe25535fc7de91f47fc7bbbcc50f30725a2cc43c37ebd"
+      },
+      "20": {
+        "source_ref": "Romans 4:20",
+        "source_chapter": 4,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "6566b285b25c3bf73761cbc3bd208339f4c213f8d53367fa6203740e756c67f9"
+      },
+      "21": {
+        "source_ref": "Romans 4:21",
+        "source_chapter": 4,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "885b439826130e58d5ac16c2e08cb3bf6af3bbeff9ce86905ad9ed63b971668d"
+      },
+      "22": {
+        "source_ref": "Romans 4:22",
+        "source_chapter": 4,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "f7f6f4987f74f6aa7416c05ac176fa484d1c0ec878516ee802adf6ce2d701fdc"
+      },
+      "23": {
+        "source_ref": "Romans 4:23",
+        "source_chapter": 4,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "0c69113e809ebd34041bbe718078112b43b9d5d9ccd9755d6c68b9eac12fd2ab"
+      },
+      "24": {
+        "source_ref": "Romans 4:24",
+        "source_chapter": 4,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "d93529343ff903b330554821ae886f3a415c3175519b5b33ffd247967200b1b9"
+      },
+      "25": {
+        "source_ref": "Romans 4:25",
+        "source_chapter": 4,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "119c7cf32b55a375334359ee9ed50fcf7816f45402275c77dba67a2135077a0b"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
