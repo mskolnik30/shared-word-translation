@@ -1,0 +1,296 @@
+{
+  "book": "Acts",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 39,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_08.md",
+    "blob_sha": "db063e65d18320ea676d74b5ee59cf3604394636"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 8:1",
+        "source_chapter": 8,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "894537aad352c89ac81c5e27d98f976f9b8c5b5e99d53707ccf1789ef35e8fb1"
+      },
+      "2": {
+        "source_ref": "Acts 8:2",
+        "source_chapter": 8,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "e99be877e1bd7c6bd2c762480cb9adf0b0d88f2509b00fe252d589559c99ddab"
+      },
+      "3": {
+        "source_ref": "Acts 8:3",
+        "source_chapter": 8,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "f90a0422206ac2cc6ee35f661d0df3a675aad87fdb7e294e8868937c962ca34a"
+      },
+      "4": {
+        "source_ref": "Acts 8:4",
+        "source_chapter": 8,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "96556c3ce9a070ada9f696e18884fbf9eee81b4139b63bcc7571106c477087c9"
+      },
+      "5": {
+        "source_ref": "Acts 8:5",
+        "source_chapter": 8,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "41fce143c1889c7615b304cab025468502e05b36d217508fcec5eb336b52d94a"
+      },
+      "6": {
+        "source_ref": "Acts 8:6",
+        "source_chapter": 8,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "c2edcbae7a66f42124fbe1a991f497a4850294e0d7514f9ba8d4507313fbdf96"
+      },
+      "7": {
+        "source_ref": "Acts 8:7",
+        "source_chapter": 8,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "17499334a79d1e0456c06bd85c98fc4aecabb7b9791b25c2fb645ac5ee7ce7ca"
+      },
+      "8": {
+        "source_ref": "Acts 8:8",
+        "source_chapter": 8,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "a9d40057281170bd6b403517b19cc45607271022d4d86ccecc08de9505167cf3"
+      },
+      "9": {
+        "source_ref": "Acts 8:9",
+        "source_chapter": 8,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "91b6c0e6f0c51a9af8e8463e48968617ecaa30a9b2ebd3fa717da84282d0990e"
+      },
+      "10": {
+        "source_ref": "Acts 8:10",
+        "source_chapter": 8,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "8e3a9c18a8537527c1d450233f337ae139d7b861d4dd46791a9322ade902955b"
+      },
+      "11": {
+        "source_ref": "Acts 8:11",
+        "source_chapter": 8,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "2011121141c228bf2236149a3112bc3aff7db29b8610c56b05e11e7ce66ef43f"
+      },
+      "12": {
+        "source_ref": "Acts 8:12",
+        "source_chapter": 8,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "7d45eb6c6623fe69e9e22de94a033a8ef4e308193a90703549be3c222a3a00f6"
+      },
+      "13": {
+        "source_ref": "Acts 8:13",
+        "source_chapter": 8,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "1e0582e7a203fed5c41de0ff5b513c844d219aafeb0bbcb71ab0fde9fcd8356a"
+      },
+      "14": {
+        "source_ref": "Acts 8:14",
+        "source_chapter": 8,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "b805e15f37ed8aa780fbb4e674894f96859d90b5dc72c7bc7041d3b7677ec19f"
+      },
+      "15": {
+        "source_ref": "Acts 8:15",
+        "source_chapter": 8,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "b2ad644834c0c16b0d64ca0a93706fddd148bb7e0e18452711e3b33f2f82205b"
+      },
+      "16": {
+        "source_ref": "Acts 8:16",
+        "source_chapter": 8,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "8cadab66f1a2bdac3de8f16fca76ee98d556e4dfc8be12bc14e0419d80db800b"
+      },
+      "17": {
+        "source_ref": "Acts 8:17",
+        "source_chapter": 8,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "5234176a05bcdb9ce4d998c52976fb3f5c3e2d4757c7c88f3b53282ba071f599"
+      },
+      "18": {
+        "source_ref": "Acts 8:18",
+        "source_chapter": 8,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "8a55142b41083cef35e41fa8fa13593428263f79c0584eb780030c153471b8a3"
+      },
+      "19": {
+        "source_ref": "Acts 8:19",
+        "source_chapter": 8,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "edacc282a9d4054580c98b784b38a9be24424ca0574dfbb691845e0c6e2ed12f"
+      },
+      "20": {
+        "source_ref": "Acts 8:20",
+        "source_chapter": 8,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "93e7bc4a9ca8631670231301dfefe06909a2841069e2dcdf93218b77b02d2a17"
+      },
+      "21": {
+        "source_ref": "Acts 8:21",
+        "source_chapter": 8,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "66869f56502a4bf00308abe5538fa66bda0798cc2c0f1b3798845dfd2c843d5c"
+      },
+      "22": {
+        "source_ref": "Acts 8:22",
+        "source_chapter": 8,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "8265c9c25acbb36730486fdfb0e4eb6ed505932b32ea542785f0799388d82b23"
+      },
+      "23": {
+        "source_ref": "Acts 8:23",
+        "source_chapter": 8,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "08484917c35a6e80a840f0e421cd4c92ec46b85238a351f265d3cfb37ad846d1"
+      },
+      "24": {
+        "source_ref": "Acts 8:24",
+        "source_chapter": 8,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "b5cd60c51e0a2593e9349670bc5c42e8f339006d7d2cb427573e97cf1ea48106"
+      },
+      "25": {
+        "source_ref": "Acts 8:25",
+        "source_chapter": 8,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "b619ab81f936a56bf93d276a6663df29430f23af649726605d6bacabd830d80c"
+      },
+      "26": {
+        "source_ref": "Acts 8:26",
+        "source_chapter": 8,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "65dc5262f2b9bdc24f0aaa586bb2b9c10eb646a700568f4b378324f4718b3863"
+      },
+      "27": {
+        "source_ref": "Acts 8:27",
+        "source_chapter": 8,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "a078057e73f3cb58ac0cc0c8e096a3b4906f94fd62b63ff234baac43dde56161"
+      },
+      "28": {
+        "source_ref": "Acts 8:28",
+        "source_chapter": 8,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "da10a236d1623844d48769a6abe17e20b918fd2fdb9ed64e255639309791498e"
+      },
+      "29": {
+        "source_ref": "Acts 8:29",
+        "source_chapter": 8,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "79109095d035760e45278e98305562599ce71b2baf8de5dbadc9644769a28e79"
+      },
+      "30": {
+        "source_ref": "Acts 8:30",
+        "source_chapter": 8,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "558b80645884c59ba9d28620fb04ddb85a5321bd70242b86b57ee915795d0268"
+      },
+      "31": {
+        "source_ref": "Acts 8:31",
+        "source_chapter": 8,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "3da1c05e00aade76bb8697eec4ff14666e4e3e0baa686401a78fcbf5792dd7e7"
+      },
+      "32": {
+        "source_ref": "Acts 8:32",
+        "source_chapter": 8,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "d9a66c2db0b7f8c05c901505c806236f83e9de409b9c5599f86fae1557373bf4"
+      },
+      "33": {
+        "source_ref": "Acts 8:33",
+        "source_chapter": 8,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "84a7ecd9025d3f517c6c32cf5da3fb723d39c5e5d71ea8dad5e133ed1ac336cc"
+      },
+      "34": {
+        "source_ref": "Acts 8:34",
+        "source_chapter": 8,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "8594e3fdd39a916dd0a423b9470a05d93885a66cc842aef75d502f1122a074ae"
+      },
+      "35": {
+        "source_ref": "Acts 8:35",
+        "source_chapter": 8,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "7c479e91f3bd67b4b2ae51f9f9d9b26c91f219a119fc27effc425a2f839cda1e"
+      },
+      "36": {
+        "source_ref": "Acts 8:36",
+        "source_chapter": 8,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "3ab752a7b2c4018866e35ce77eabb8fbed72f8a61cd0a319599b448a9286b684"
+      },
+      "38": {
+        "source_ref": "Acts 8:38",
+        "source_chapter": 8,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "647b29312cbd2c0d4313f43bd018a03fef4cba4d638a1f50df7e0b9acd2811d8"
+      },
+      "39": {
+        "source_ref": "Acts 8:39",
+        "source_chapter": 8,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "75a6d2a1c48b5bf0c24439b8bbc069d0820f1e824751b68320c3358413f214f6"
+      },
+      "40": {
+        "source_ref": "Acts 8:40",
+        "source_chapter": 8,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "50b3a664839612400b15238cfee455f244c0ca3a50a345a09e73910ae0462cce"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

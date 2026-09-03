@@ -1,0 +1,303 @@
+{
+  "book": "Acts",
+  "chapter": 21,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 40,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_21.md",
+    "blob_sha": "6effe3fc68dc864bc35be8d773a7390b793dde81"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 21:1",
+        "source_chapter": 21,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "441703d047f07f661d4143a99e81435ad8b61a55498a15ccb7d485a740ed7a62"
+      },
+      "2": {
+        "source_ref": "Acts 21:2",
+        "source_chapter": 21,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "e330a60c1444ba22249f5ad3211e533f7fb6b249a41cab00d87d46354809b8ab"
+      },
+      "3": {
+        "source_ref": "Acts 21:3",
+        "source_chapter": 21,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "43e7877efbe793df09941305a43ca3d2634900d5226a02fea277a449f71ee63c"
+      },
+      "4": {
+        "source_ref": "Acts 21:4",
+        "source_chapter": 21,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "b7e53f25370f1b6e06dafa47addd72763ff9429fadf280a3586ff3060e5d244d"
+      },
+      "5": {
+        "source_ref": "Acts 21:5",
+        "source_chapter": 21,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "bd960e899054630a5245ef1c3c30566b15c940f7ba354af75fa31c3790a18b4d"
+      },
+      "6": {
+        "source_ref": "Acts 21:6",
+        "source_chapter": 21,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "779a2253f08e50157a89a95a58c01048f4d3e9499f2a3efefe9afd6e46c8f9a6"
+      },
+      "7": {
+        "source_ref": "Acts 21:7",
+        "source_chapter": 21,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "a7789ada9137a1b4bbbd62ebc3f6299f2ae52b6e18a182fd364096e0c70b2e0c"
+      },
+      "8": {
+        "source_ref": "Acts 21:8",
+        "source_chapter": 21,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "01736efdbcb08a7df4fe109716666ec427b5502f3a114494f0d7695416e4f200"
+      },
+      "9": {
+        "source_ref": "Acts 21:9",
+        "source_chapter": 21,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "3bc06e739ab937b98205b9eadc71280c086454b7df2e46ff4d23fdc502cc86d4"
+      },
+      "10": {
+        "source_ref": "Acts 21:10",
+        "source_chapter": 21,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "32a7b7f664394424cf511950b8e3759cb4b26e82751d41322b198986948f9bc9"
+      },
+      "11": {
+        "source_ref": "Acts 21:11",
+        "source_chapter": 21,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "49a052054bbc4bb2a0f268c9fb6d8379f53606176ecda36809d77bac8fa8e679"
+      },
+      "12": {
+        "source_ref": "Acts 21:12",
+        "source_chapter": 21,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "ae8488db385727abfe410ebca33a557284f23c1ebf40cbefca2fa329ecfcb16b"
+      },
+      "13": {
+        "source_ref": "Acts 21:13",
+        "source_chapter": 21,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "4ea5b899b44fc3917866d0c1f97f45e5b29ce360f6a446532105cc8e9825a367"
+      },
+      "14": {
+        "source_ref": "Acts 21:14",
+        "source_chapter": 21,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "577611fd2b0e0f7febcdbef0c6132ee248eb31cd5d07af0cd82787eb52c3a99b"
+      },
+      "15": {
+        "source_ref": "Acts 21:15",
+        "source_chapter": 21,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "985c70f36445e951e17a342d4c416f1c54b0a507a861003f8377d3d323b6a2fe"
+      },
+      "16": {
+        "source_ref": "Acts 21:16",
+        "source_chapter": 21,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "8c374a3bf9096ee137a8d15fb5b1def84d0257e882451d98b4b89e31edc5ea2a"
+      },
+      "17": {
+        "source_ref": "Acts 21:17",
+        "source_chapter": 21,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "b432c5e67131132b11661c20115fb47f7a953c2828541cd73410c48ba514577b"
+      },
+      "18": {
+        "source_ref": "Acts 21:18",
+        "source_chapter": 21,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "7a3e325eebda2a38b2e8a432e3e793d20beab361dbd2d38e134363021e39c2ec"
+      },
+      "19": {
+        "source_ref": "Acts 21:19",
+        "source_chapter": 21,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "db3d2194d7be2180303ca97ec38861f39462624b2bc923d6a5018a644cf74590"
+      },
+      "20": {
+        "source_ref": "Acts 21:20",
+        "source_chapter": 21,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "982aa7da3ac2b7dbcffba74a4445d87f88d0ecfe156b47dee36046e97df3b3ac"
+      },
+      "21": {
+        "source_ref": "Acts 21:21",
+        "source_chapter": 21,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "427725bc9a03d4a14e071b645ea7ab59d62efdab659da4c4606435c5c6fee480"
+      },
+      "22": {
+        "source_ref": "Acts 21:22",
+        "source_chapter": 21,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "b2c02f177eedd9cf107a9c9de6962a7883ad5ef3a39640f37c36899277163b3f"
+      },
+      "23": {
+        "source_ref": "Acts 21:23",
+        "source_chapter": 21,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "09755b1d7570524fe4ff001714fa3d018da8fa95194b56ef5656d475b50e57c0"
+      },
+      "24": {
+        "source_ref": "Acts 21:24",
+        "source_chapter": 21,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "10abc3aaf4d1fae7c59e55ed719a365bb888f415de91104242f45de96cd2d4f7"
+      },
+      "25": {
+        "source_ref": "Acts 21:25",
+        "source_chapter": 21,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "ab83ed4d0793dc91e35cf2fe1f94514f12a95b52594be3c8b0f8909a8e30b208"
+      },
+      "26": {
+        "source_ref": "Acts 21:26",
+        "source_chapter": 21,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "48d2e6977bb7df8b518a387b22ed3784d44d8b8f90e5ebd952bffb25d6a9a248"
+      },
+      "27": {
+        "source_ref": "Acts 21:27",
+        "source_chapter": 21,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "97ef1d55bdddd225ca8500e7813b7211cb7813fc541c6ece58a38b040191508c"
+      },
+      "28": {
+        "source_ref": "Acts 21:28",
+        "source_chapter": 21,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "d7ece684bdf09501373a6237dfd75f0ceed359732832cfd02a231f36b4402ebd"
+      },
+      "29": {
+        "source_ref": "Acts 21:29",
+        "source_chapter": 21,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "904474d02c29b2fc10f3866fd688153e7350230cdd5b0a9f6f63f7f6a6c73c55"
+      },
+      "30": {
+        "source_ref": "Acts 21:30",
+        "source_chapter": 21,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "847355e6a6e10fcc715e545831a4883ce5322dea394ce1d8063e1232c7de5ffb"
+      },
+      "31": {
+        "source_ref": "Acts 21:31",
+        "source_chapter": 21,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "f6197b4f02ebd7e235cbf85315e401ddb37f8310ee11e096cc39146a82a7eed5"
+      },
+      "32": {
+        "source_ref": "Acts 21:32",
+        "source_chapter": 21,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "9b5954e77cc2426bd4cb7a4bbba4c3496d1a2f5840d09add0780f351f33e2656"
+      },
+      "33": {
+        "source_ref": "Acts 21:33",
+        "source_chapter": 21,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "af45101e9a847fbe517cafa03221890617cdd71dd17464026eae769ccfc3467b"
+      },
+      "34": {
+        "source_ref": "Acts 21:34",
+        "source_chapter": 21,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "3eb434c6060cd78502da1405419da9edd4862735a2bb6401112b942f2e2aa851"
+      },
+      "35": {
+        "source_ref": "Acts 21:35",
+        "source_chapter": 21,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "68100d3f82ce915fb023c20f188c413c5450c94463c2de3a0ddf1bc573f17438"
+      },
+      "36": {
+        "source_ref": "Acts 21:36",
+        "source_chapter": 21,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "5a2307e236cd1d67c715d34a0bc6cc60367e49eea9a063e28e19fa4147f3b979"
+      },
+      "37": {
+        "source_ref": "Acts 21:37",
+        "source_chapter": 21,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "e93b605a750b1cf2239c8e6f77549f23189b38ad17f97f16afd9b3095a299544"
+      },
+      "38": {
+        "source_ref": "Acts 21:38",
+        "source_chapter": 21,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "10c319f07db96457a6e928b09dab74c011df0f1e24fe8c29898ca8adc5ab61e6"
+      },
+      "39": {
+        "source_ref": "Acts 21:39",
+        "source_chapter": 21,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "62c3da3ed4e5063b59cb85534a06debba6a2b1d45ea8528507a636e86aba7403"
+      },
+      "40": {
+        "source_ref": "Acts 21:40",
+        "source_chapter": 21,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "4b04d3a8d53df3634de36235ae64825985bb35ea978f390a349ba63f4f9df571"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

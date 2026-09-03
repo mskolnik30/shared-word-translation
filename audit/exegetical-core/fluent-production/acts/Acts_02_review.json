@@ -1,0 +1,352 @@
+{
+  "book": "Acts",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 47,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_02.md",
+    "blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 2:1",
+        "source_chapter": 2,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "e4af3dd6a35accfe9866f967314ae37093369894d2041e638609120c1903a699"
+      },
+      "2": {
+        "source_ref": "Acts 2:2",
+        "source_chapter": 2,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "8a02d01cfc24fd2a5638ccebbda411c5dbb3867c65e764b7ac9002f0563da6bf"
+      },
+      "3": {
+        "source_ref": "Acts 2:3",
+        "source_chapter": 2,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "ab6f62cad1ba713bf3829dc0f5acb9679e27c2021c7793f205cc12fbe344f6f9"
+      },
+      "4": {
+        "source_ref": "Acts 2:4",
+        "source_chapter": 2,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "dbc83b64c053ae58a52e4a5dd2bd8379133553697522618e4f86998c4ca29494"
+      },
+      "5": {
+        "source_ref": "Acts 2:5",
+        "source_chapter": 2,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "a299e2f1aaaa128557d0339a09f332354f7a3cd80151664a541c0d6c197c5354"
+      },
+      "6": {
+        "source_ref": "Acts 2:6",
+        "source_chapter": 2,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "1fd0395d667afb0cdd07486293b5f628d740051ef70d33a554548e937c102f80"
+      },
+      "7": {
+        "source_ref": "Acts 2:7",
+        "source_chapter": 2,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "b4a2c45477cdd32801bbd49b03e357174fae16786546bd97c7cd133a98b9a6f2"
+      },
+      "8": {
+        "source_ref": "Acts 2:8",
+        "source_chapter": 2,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "f15a2cd1ce4911d05af84e2e4d0bf97f788f80eb1cba42455f22098fc65ea86d"
+      },
+      "9": {
+        "source_ref": "Acts 2:9",
+        "source_chapter": 2,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "0264094278c36fb13b08a42ff07e590ae64e6298663a3633fd7fdb6ef714d36e"
+      },
+      "10": {
+        "source_ref": "Acts 2:10",
+        "source_chapter": 2,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "090c773078da306e66a0f0e813996f294fe26f095f7e6395b44f383c8a3a1d9f"
+      },
+      "11": {
+        "source_ref": "Acts 2:11",
+        "source_chapter": 2,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "4226f3bca34fccc05158d30cf3df5ea02885d9567c529d0e8f0a9d16e69ff446"
+      },
+      "12": {
+        "source_ref": "Acts 2:12",
+        "source_chapter": 2,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "884dee96cc957ee777274bfd2e204ecc2094e38e1f6a608630f7f32a2e52960c"
+      },
+      "13": {
+        "source_ref": "Acts 2:13",
+        "source_chapter": 2,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "a85c9cf6beeead9ffa1f2eb4b667911dfd28350e33831b18c48a7839e3aa8c40"
+      },
+      "14": {
+        "source_ref": "Acts 2:14",
+        "source_chapter": 2,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "9105a7910d1daba614a1f0358c7797a9c4c194c5cd0b90f05239a654597b7a10"
+      },
+      "15": {
+        "source_ref": "Acts 2:15",
+        "source_chapter": 2,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "dbc4ef4c7cd8c8248bedf5b58477c509dfe9d799956870cb0a97ad159b6d039c"
+      },
+      "16": {
+        "source_ref": "Acts 2:16",
+        "source_chapter": 2,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "6b08a7a1a23c3087784b98db0646c948c925231690521c1cdac9433a6728940b"
+      },
+      "17": {
+        "source_ref": "Acts 2:17",
+        "source_chapter": 2,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "f38b381806dd35a72290163c6bccf0676ecfb25c14f233b69def214e316fe49b"
+      },
+      "18": {
+        "source_ref": "Acts 2:18",
+        "source_chapter": 2,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "2d5ca3863c73b433dc8c5caa9264aea418cf79386d6770c283a6b08454e1a03e"
+      },
+      "19": {
+        "source_ref": "Acts 2:19",
+        "source_chapter": 2,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "83ce745440b76e0b4ff088ff9f8611fcbd9032067c77f8ca7ea8dec5584e7d5c"
+      },
+      "20": {
+        "source_ref": "Acts 2:20",
+        "source_chapter": 2,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "d2068980fa5f2130cb1332f2017c802316ebff1a3d08eac1a3df8ee155548d03"
+      },
+      "21": {
+        "source_ref": "Acts 2:21",
+        "source_chapter": 2,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "52504f2163f3aa9e515929c1e4418b4294016511d0400c582f3b92b7a7dc91d9"
+      },
+      "22": {
+        "source_ref": "Acts 2:22",
+        "source_chapter": 2,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "ea183a699401ba28c2fa1ea50f5e1fdce66bb499a0bebc6b497495fecb766dec"
+      },
+      "23": {
+        "source_ref": "Acts 2:23",
+        "source_chapter": 2,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "5860f686400846623870bc5a9663d65ea516158bc78b2e8d003e58746cdc3ffb"
+      },
+      "24": {
+        "source_ref": "Acts 2:24",
+        "source_chapter": 2,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "37f2984b66c29be6ab0fc779e0b2b458bb009f7c127e7bdad644485bcb2b5a97"
+      },
+      "25": {
+        "source_ref": "Acts 2:25",
+        "source_chapter": 2,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "af2ad6114547cab4a37fe9068175d33cac2a3dafae6c3de250fd7bf4bdb71472"
+      },
+      "26": {
+        "source_ref": "Acts 2:26",
+        "source_chapter": 2,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "ba19809d94880d001bb7458bb178170afe33c33b8def4d88170d1ddc176ab5a9"
+      },
+      "27": {
+        "source_ref": "Acts 2:27",
+        "source_chapter": 2,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "472de36e95d25b46a5fed7e57ec0c0209e886278ff83aa3f2633fe5d30481a33"
+      },
+      "28": {
+        "source_ref": "Acts 2:28",
+        "source_chapter": 2,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "9cc0b171c84dc2fc6a9b28baea64f536e2b533adba4edebbc844edc50d1fef93"
+      },
+      "29": {
+        "source_ref": "Acts 2:29",
+        "source_chapter": 2,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "0679d82e7a6e84f7aee9dea9f9a00998ef363ea715d68143cbc007ca31159017"
+      },
+      "30": {
+        "source_ref": "Acts 2:30",
+        "source_chapter": 2,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "a7662fd736d8961c0e104467b2b4d0584eb62634075a13b2ff0ce0f21e26e923"
+      },
+      "31": {
+        "source_ref": "Acts 2:31",
+        "source_chapter": 2,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "6bbc335ea4b96c3d1012d2d41f3082a3579c07eee589d7c5ddfb1e262474185c"
+      },
+      "32": {
+        "source_ref": "Acts 2:32",
+        "source_chapter": 2,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "9a82e34ebdf3a66df4ca887f292b56eaf0b5f1239087630259fa545771837044"
+      },
+      "33": {
+        "source_ref": "Acts 2:33",
+        "source_chapter": 2,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "ccfd5cd4e16fb052375c59621e4650177bd67970f3e4d47ede42467e28f18c22"
+      },
+      "34": {
+        "source_ref": "Acts 2:34",
+        "source_chapter": 2,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "e9c1173f0e7c9a50b26b34fafb5d8add4c5eeb7b308a913db63a71830c7c7788"
+      },
+      "35": {
+        "source_ref": "Acts 2:35",
+        "source_chapter": 2,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "8f03d0dbba1e441061757c0907ec3ad79a899d8aa6b13998fef2efb0417b8f73"
+      },
+      "36": {
+        "source_ref": "Acts 2:36",
+        "source_chapter": 2,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "1b83a535a81a261f1eb00b7c449a1b4a8072f1544a9f7ebf988a4d692c905860"
+      },
+      "37": {
+        "source_ref": "Acts 2:37",
+        "source_chapter": 2,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "6a936d344c2879d6b92c6e66bfbdd50241223fab28b36e9f47c493539c669bfa"
+      },
+      "38": {
+        "source_ref": "Acts 2:38",
+        "source_chapter": 2,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "3e45de734a93f9041d2f06de9d06c2168efcafc1d0727defe910db647a1711ac"
+      },
+      "39": {
+        "source_ref": "Acts 2:39",
+        "source_chapter": 2,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "b4a04645892222a279c7e6d3c47c7140f674c2d8ea9993dd11b37b5ac44ca4d6"
+      },
+      "40": {
+        "source_ref": "Acts 2:40",
+        "source_chapter": 2,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "1546e9f846e2c63e61fd3121be8746c7c015b959f9419aaaf357574b00b4a613"
+      },
+      "41": {
+        "source_ref": "Acts 2:41",
+        "source_chapter": 2,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "579aad20e587b38c550f1f9da2dd8c9da143d318c0a06df2b498195e02c682eb"
+      },
+      "42": {
+        "source_ref": "Acts 2:42",
+        "source_chapter": 2,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "92f583e24edf61b92999a2ae1155fccf947cb2ce9954e4d3e9b76558d9170dae"
+      },
+      "43": {
+        "source_ref": "Acts 2:43",
+        "source_chapter": 2,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "aaf52e400a44b736fdde60127c9eca433d65051370b0349fc7d8b4ddb2c0a311"
+      },
+      "44": {
+        "source_ref": "Acts 2:44",
+        "source_chapter": 2,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "b744acc5f234809df21f3f6ef5186d11e87d4153cb2dd08b7b9c18af7c1e32f5"
+      },
+      "45": {
+        "source_ref": "Acts 2:45",
+        "source_chapter": 2,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "abe905decbb1c9532b55b80e499c50527ce7121d9edcdd5b9b3cde32daf18491"
+      },
+      "46": {
+        "source_ref": "Acts 2:46",
+        "source_chapter": 2,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "4b4753ba30a5769c81291e4991480223b7895c40a9c30b850e228766ab56a2af"
+      },
+      "47": {
+        "source_ref": "Acts 2:47",
+        "source_chapter": 2,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "b9b8eb43076256f299bc2792e44ede99248048927be84f2badb7f4fc41e38e53"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

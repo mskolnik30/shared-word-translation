@@ -1,0 +1,219 @@
+{
+  "book": "Acts",
+  "chapter": 18,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 28,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_18.md",
+    "blob_sha": "c0f1c2bfad25dd411c063951594f99cb9431174f"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 18:1",
+        "source_chapter": 18,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "dc21b84bd540c8c7f89bbb69efad596b5c06c5afcc397b63569ae6597731b508"
+      },
+      "2": {
+        "source_ref": "Acts 18:2",
+        "source_chapter": 18,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "826ed8e26cb5dcf1d5953f7e09783f69677551b4d79439d64ecb00d3260af4a8"
+      },
+      "3": {
+        "source_ref": "Acts 18:3",
+        "source_chapter": 18,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "7de497e37c85f293f1a5ee67b06b00e080e01cdd6a6a955b07eac5773f65d03a"
+      },
+      "4": {
+        "source_ref": "Acts 18:4",
+        "source_chapter": 18,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "1e866a50facab671167753d00e98d8cb66c11c574deea9f278cf3cbbe3a526d3"
+      },
+      "5": {
+        "source_ref": "Acts 18:5",
+        "source_chapter": 18,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "04674b79b09b815fcbe7ad482ea3cc0d835525d0668cd99863f10f38a0f6f325"
+      },
+      "6": {
+        "source_ref": "Acts 18:6",
+        "source_chapter": 18,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "d3f5dba303465841625c1a20eeeeb798996e333015acb4bd0228e1dd2a2813bf"
+      },
+      "7": {
+        "source_ref": "Acts 18:7",
+        "source_chapter": 18,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "60a839454e43e5b4bddc02a8295153aa6d5ab5396b13fa1c887376059469460c"
+      },
+      "8": {
+        "source_ref": "Acts 18:8",
+        "source_chapter": 18,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "5cb7ed411434d213f8cb581f10f5059dab05e062fda412e30024e4ac48d570d8"
+      },
+      "9": {
+        "source_ref": "Acts 18:9",
+        "source_chapter": 18,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "72a2ffb290f4f603e9d02287c648afa2e80803799d0c31bcdec9a46d307a53c0"
+      },
+      "10": {
+        "source_ref": "Acts 18:10",
+        "source_chapter": 18,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "db5f3ac3ede6ffa79a763cf941c6828f96a204ad50270f1fa4c5459f220167ad"
+      },
+      "11": {
+        "source_ref": "Acts 18:11",
+        "source_chapter": 18,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "529d6f8e65156127d019d0985c3574daaec1f88677404502b01892e91687ef09"
+      },
+      "12": {
+        "source_ref": "Acts 18:12",
+        "source_chapter": 18,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "c194dfc1dc539dfb2aa329c635db4bc08f2ecdb1d06c8b404e9c991f8e7d31b6"
+      },
+      "13": {
+        "source_ref": "Acts 18:13",
+        "source_chapter": 18,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "89b1af9624f9d18f2549f150c1bc43f6025acd556cc1405d6717df0a7439ce37"
+      },
+      "14": {
+        "source_ref": "Acts 18:14",
+        "source_chapter": 18,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "772ac2b07c7b5a79acb19ec6d2efcdffeff1d92d9bca18cdd928737f048c29ec"
+      },
+      "15": {
+        "source_ref": "Acts 18:15",
+        "source_chapter": 18,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "bfbd94ede11f0a484d3ced73bc1e40f37c4272c212134243f48dcb09c1ec86d6"
+      },
+      "16": {
+        "source_ref": "Acts 18:16",
+        "source_chapter": 18,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "56fc7f78f0a3ce47d871965563504346fcfd0f333bba41f780407614c42f1220"
+      },
+      "17": {
+        "source_ref": "Acts 18:17",
+        "source_chapter": 18,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "a5e516c9c35d846a4453c25b971b50ec220a3566cbe02eb18808116ce2bb4b0e"
+      },
+      "18": {
+        "source_ref": "Acts 18:18",
+        "source_chapter": 18,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "0583828e7857ca7ef9c80aae878a7434d87705dba5fb0fe4d382bf4a397f3853"
+      },
+      "19": {
+        "source_ref": "Acts 18:19",
+        "source_chapter": 18,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "a8d43c6953b890f9b9a7557204df7ec62ba6cb87640166ccbada937558bafc4b"
+      },
+      "20": {
+        "source_ref": "Acts 18:20",
+        "source_chapter": 18,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "36e536570c371b7f0146a72436e8207851ebefd95553c423959d86b2e0c9b579"
+      },
+      "21": {
+        "source_ref": "Acts 18:21",
+        "source_chapter": 18,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "e38daa20575ea1974dfbcbd41be830bbfe7c13aae7e259d4b7cec6a341850540"
+      },
+      "22": {
+        "source_ref": "Acts 18:22",
+        "source_chapter": 18,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "e5b6d10fdc3700167353e0e6f13d8b67c530f4bbfec917c9c6c3f0e0ed702b36"
+      },
+      "23": {
+        "source_ref": "Acts 18:23",
+        "source_chapter": 18,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "e57662de87498ca0202bf29366bf1da030a3d0418222b58b8453a74e294accf1"
+      },
+      "24": {
+        "source_ref": "Acts 18:24",
+        "source_chapter": 18,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "f49b645e712c58b95e91623e342e8d1fd2f8902e1c6e93d0dcabb4705fc79610"
+      },
+      "25": {
+        "source_ref": "Acts 18:25",
+        "source_chapter": 18,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "f6ffdde69c592715ca88f975a74a071421375d0d8fecf1d56e06c3b0f9bdf636"
+      },
+      "26": {
+        "source_ref": "Acts 18:26",
+        "source_chapter": 18,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "fe607e4ab4bd8b2dacd075aa2a984b1e442fab0b69b82f1b95da8a403337beb6"
+      },
+      "27": {
+        "source_ref": "Acts 18:27",
+        "source_chapter": 18,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "1197eb54876a72ef124fad266c89b43a65b25cbd4c88eba1c9b92c188a57a205"
+      },
+      "28": {
+        "source_ref": "Acts 18:28",
+        "source_chapter": 18,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "26d3b4bb3b753d5f4658d0219a899d4bed6bce99de6b0c8d9c52170d7c6d28d0"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

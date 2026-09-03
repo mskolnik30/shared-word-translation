@@ -1,0 +1,233 @@
+{
+  "book": "Acts",
+  "chapter": 28,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 30,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_28.md",
+    "blob_sha": "f04622b3f8eaf6e0b2b0dadee79aa28fb54785d5"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 28:1",
+        "source_chapter": 28,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "df661f2f18eedca6d44f6bde6695a99187e16e846b0d746e035bf643e8ef8c5b"
+      },
+      "2": {
+        "source_ref": "Acts 28:2",
+        "source_chapter": 28,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "9d6e7411d11028c83269d95c6cd2a47b94a92c1dd8480e66be3f1a60f7b88cca"
+      },
+      "3": {
+        "source_ref": "Acts 28:3",
+        "source_chapter": 28,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "6c0db8df1674ed0dc5b92490701ad9d79d00dbfe7264bc8a8e0c3a5f8da2aca3"
+      },
+      "4": {
+        "source_ref": "Acts 28:4",
+        "source_chapter": 28,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "adced7083c0941ecaec73ac5311badbe830683eb936c65db1926c55b4da7d1a1"
+      },
+      "5": {
+        "source_ref": "Acts 28:5",
+        "source_chapter": 28,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "240f7f07d9bc6a283233574c6a3ed570d590bd642dc9f3da62c65e1175e99ce3"
+      },
+      "6": {
+        "source_ref": "Acts 28:6",
+        "source_chapter": 28,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "1584790fc8664743b3c0918579ec8bc4e7ecacf4e15f02e221ea583718504062"
+      },
+      "7": {
+        "source_ref": "Acts 28:7",
+        "source_chapter": 28,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "04390c534602e2f071b75d0ddd2d8ef5d1963e976b0b9bdbc53b140d895e1252"
+      },
+      "8": {
+        "source_ref": "Acts 28:8",
+        "source_chapter": 28,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "e1989dd81d8c92d5c09e0a4869f1ad39e1fe4c46866f081bf90e66bcb955da44"
+      },
+      "9": {
+        "source_ref": "Acts 28:9",
+        "source_chapter": 28,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "8b6a15d28c9ff4b0a3a580dfe257bec4ec6d7de7c5352605de2dff7518363944"
+      },
+      "10": {
+        "source_ref": "Acts 28:10",
+        "source_chapter": 28,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "a79f36fa99b8f530f6809afce10cecf67cf5c3b57475197188d80372f2d31d20"
+      },
+      "11": {
+        "source_ref": "Acts 28:11",
+        "source_chapter": 28,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "7830de27b950e1a2cecf486c69dcd1db72511d30da476a64720c2b70b7a22d52"
+      },
+      "12": {
+        "source_ref": "Acts 28:12",
+        "source_chapter": 28,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "ca77b3d14ea3686fd1cea19949ddfc9a9bbb92d2aef01451acc41427d2877f9e"
+      },
+      "13": {
+        "source_ref": "Acts 28:13",
+        "source_chapter": 28,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "9afceae93127c37502985f0538d4ce1f2e2dc6d307bf3ab437992fe038bec277"
+      },
+      "14": {
+        "source_ref": "Acts 28:14",
+        "source_chapter": 28,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "d7f40296d8154cd03d6a1ed7772c34dbf60e643785786719f41cd98888382847"
+      },
+      "15": {
+        "source_ref": "Acts 28:15",
+        "source_chapter": 28,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "99cc150f545579e31fc726cb3314e3ab985e704dda4f0b582080f00ff40f1a8e"
+      },
+      "16": {
+        "source_ref": "Acts 28:16",
+        "source_chapter": 28,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "57e466b42cf1f47343a31a5c0d16e1757001f9684b833d523919b6e0cba029f5"
+      },
+      "17": {
+        "source_ref": "Acts 28:17",
+        "source_chapter": 28,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "d50df0f051e610a6f060cf0304e6177268f165573914fbc4d9736f8aa4d1cd2b"
+      },
+      "18": {
+        "source_ref": "Acts 28:18",
+        "source_chapter": 28,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "8d5f659a1b3ba03c0dbec671e706621b5dad945bda643a2434a3e8920d576113"
+      },
+      "19": {
+        "source_ref": "Acts 28:19",
+        "source_chapter": 28,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "7e4f688876b8391cb1c4d5cb393978c1b92d6261fefe55d20b7ccf6b8965bd9d"
+      },
+      "20": {
+        "source_ref": "Acts 28:20",
+        "source_chapter": 28,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "7e6e8121d9a3fd6da8bad3d59138f340c25e103f63b36d1b736065b79ad70d60"
+      },
+      "21": {
+        "source_ref": "Acts 28:21",
+        "source_chapter": 28,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "4d675bc5bc27fffec9cef8451813d0631dac8f92d0906c2d7e0207efd3e5fce7"
+      },
+      "22": {
+        "source_ref": "Acts 28:22",
+        "source_chapter": 28,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "d35179d5ea51e24f980ce8022110bb58b4834b5aca0fa7182da6258c391e7fd6"
+      },
+      "23": {
+        "source_ref": "Acts 28:23",
+        "source_chapter": 28,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "e0b6035216d9ac55db50b41ceb73e888456d8ca40901fbea83454a9d3e6d24a4"
+      },
+      "24": {
+        "source_ref": "Acts 28:24",
+        "source_chapter": 28,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "8bee5afcd0dc437359f2d03e95fd2fe7485122dec1712ff1a5d59d1c7a2dd90f"
+      },
+      "25": {
+        "source_ref": "Acts 28:25",
+        "source_chapter": 28,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "5acc720e98b78fd81bfae002574b84f295c8cbbe541837d47aacad9ddccba133"
+      },
+      "26": {
+        "source_ref": "Acts 28:26",
+        "source_chapter": 28,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "3fcffececbf2c31063dead0af24d38ae9852a24d7fb7f245155976ae4d2d9145"
+      },
+      "27": {
+        "source_ref": "Acts 28:27",
+        "source_chapter": 28,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "d0796291edbaef1d9217e7630249c919e564cca1cf448138aeaa403c790b86a5"
+      },
+      "28": {
+        "source_ref": "Acts 28:28",
+        "source_chapter": 28,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "282ac1b84eb6f6dc269b16fdee8b592bc3de4ea3da263444192c8ee9f2b1b037"
+      },
+      "30": {
+        "source_ref": "Acts 28:30",
+        "source_chapter": 28,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "0dbea259db214466f9b7956a05e239e2815b35fa67ac2816dec20b1c1b87f7ce"
+      },
+      "31": {
+        "source_ref": "Acts 28:31",
+        "source_chapter": 28,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "a0b5e08fe41977d364e395402a43dcd4f96924b766d384232c2931c9d9852f06"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

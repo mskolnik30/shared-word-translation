@@ -1,0 +1,261 @@
+{
+  "book": "Acts",
+  "chapter": 17,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 34,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_17.md",
+    "blob_sha": "4d1e89a701451110680006a8dd2550c23f6bf3e4"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 17:1",
+        "source_chapter": 17,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "4e6dd15aaf912153407010b189600b73ce020186ea332625c07cc18977391a03"
+      },
+      "2": {
+        "source_ref": "Acts 17:2",
+        "source_chapter": 17,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "80df9cf68a879f032a2c77ddff18f9b9cf01cb371937383e3790bbced4f0ae6d"
+      },
+      "3": {
+        "source_ref": "Acts 17:3",
+        "source_chapter": 17,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "ae31bcf85bc2f703d25f6b294451c0f9550c9ba925f398ba1f0faea3d9781af5"
+      },
+      "4": {
+        "source_ref": "Acts 17:4",
+        "source_chapter": 17,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "6584b1a8bcd2247e35fe19045bd74659750d45511be5a1d39c0ae619c45cb362"
+      },
+      "5": {
+        "source_ref": "Acts 17:5",
+        "source_chapter": 17,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "b84955baca355453564983de51cbc26c32faf9bdebb9460555526411ed45c30a"
+      },
+      "6": {
+        "source_ref": "Acts 17:6",
+        "source_chapter": 17,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "3943f7b8c5b8b599bef25f605aed229b69c0ac62fb51e0d024004a5c8ebb2948"
+      },
+      "7": {
+        "source_ref": "Acts 17:7",
+        "source_chapter": 17,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "9d539d4771207a3ebfaa1e30ac003f8d7a3b136a8928d5ce0f3bb1c0547e86ef"
+      },
+      "8": {
+        "source_ref": "Acts 17:8",
+        "source_chapter": 17,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "e078a5dcc00a8c2d59d150b3320fae8782550f96bde23afcbcf45a972a9ecaf4"
+      },
+      "9": {
+        "source_ref": "Acts 17:9",
+        "source_chapter": 17,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "12764ce94a7ec4825a96e66807a2075c7d28d8dfbc85e1474b464860a793718a"
+      },
+      "10": {
+        "source_ref": "Acts 17:10",
+        "source_chapter": 17,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "62bd7b83c48a9eb85b11a19354a823c4530b30a43deb4042d8a5b6699a8347be"
+      },
+      "11": {
+        "source_ref": "Acts 17:11",
+        "source_chapter": 17,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "6be37f3f31e7611e9272595b7fcfd83f3affc2b602c5d837f7a28ecb90a2d968"
+      },
+      "12": {
+        "source_ref": "Acts 17:12",
+        "source_chapter": 17,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "ae387e2606f14f5b6089085d984929bc043e28ae492d2da4d3bf3853512845f8"
+      },
+      "13": {
+        "source_ref": "Acts 17:13",
+        "source_chapter": 17,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "49954215ccc4f7b4a808294e06a78702136be73462c65e2877338b7c3cddcfec"
+      },
+      "14": {
+        "source_ref": "Acts 17:14",
+        "source_chapter": 17,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "30d06d96a395cd471d090f11e1a51dd1357b384685cc2c2d1b157e49cc51c54b"
+      },
+      "15": {
+        "source_ref": "Acts 17:15",
+        "source_chapter": 17,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "b1caedf297e28c2a01ebf97ef6ae3712c246477f5dfb26955138365a55a717a8"
+      },
+      "16": {
+        "source_ref": "Acts 17:16",
+        "source_chapter": 17,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "0b5ef18234d4c16cdce512bca1283e1de222527f85b2111eec501642ffee01ca"
+      },
+      "17": {
+        "source_ref": "Acts 17:17",
+        "source_chapter": 17,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "94160e4999660e2c2ff7fa1468f4d7706a9012fe57df5ae8d72c439c5008722b"
+      },
+      "18": {
+        "source_ref": "Acts 17:18",
+        "source_chapter": 17,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "db8eb45259bc94b0c5adbcd01ca10012acbde1cc3e3253fab3c94e8c49da3ff2"
+      },
+      "19": {
+        "source_ref": "Acts 17:19",
+        "source_chapter": 17,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "df22c2485d7f31a94273d3016cd4b2aed76a66d0838d6cbe1838fed560052618"
+      },
+      "20": {
+        "source_ref": "Acts 17:20",
+        "source_chapter": 17,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "3f45aaa86bb05364ad287c4e82f819676daf4a8d0bc22e5618d30d25ad23171b"
+      },
+      "21": {
+        "source_ref": "Acts 17:21",
+        "source_chapter": 17,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "55744686efbe3821560f3244cb21317861cda65002d57ed2297d3c9b75486c6a"
+      },
+      "22": {
+        "source_ref": "Acts 17:22",
+        "source_chapter": 17,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "01afc9d99c507eb3c980c9e046199df53b36c7abdf1b007a0ad1425abb144531"
+      },
+      "23": {
+        "source_ref": "Acts 17:23",
+        "source_chapter": 17,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "b1bafcd384dc7c8800e2fafb3b97ab05c6ce48b188a0b16fc1006ea25f7e1516"
+      },
+      "24": {
+        "source_ref": "Acts 17:24",
+        "source_chapter": 17,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "e095b43f922e59357178e2e60420e4d0ef8145f0ca395da97fded91ee451921a"
+      },
+      "25": {
+        "source_ref": "Acts 17:25",
+        "source_chapter": 17,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "60ff8d4d61f583e66b90d5d6774d9fbfc7ab98894062ad20814dddebccf40a6e"
+      },
+      "26": {
+        "source_ref": "Acts 17:26",
+        "source_chapter": 17,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "334859f9c9c70754d9a151fab03fb9c41d004b7868a5825c325010d3828b2a85"
+      },
+      "27": {
+        "source_ref": "Acts 17:27",
+        "source_chapter": 17,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "8dbf04517c93abde93c4a90141f34121f781d8dcfd9e96365f0c35ea6b6d7253"
+      },
+      "28": {
+        "source_ref": "Acts 17:28",
+        "source_chapter": 17,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "5463298400d9a8064ebf82277127822382282e924a7916e088c4d2048e33f9af"
+      },
+      "29": {
+        "source_ref": "Acts 17:29",
+        "source_chapter": 17,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "4ca9db51865734191c8084d8da38285a963f7aeaaf3e630ac06b7fa3537401b3"
+      },
+      "30": {
+        "source_ref": "Acts 17:30",
+        "source_chapter": 17,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "13e03712f34fdaef825ef8a5ce71451df0de51ae613dc983e4691164fb298182"
+      },
+      "31": {
+        "source_ref": "Acts 17:31",
+        "source_chapter": 17,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "333cf4fba57d0472bc877252348ac7563a99d1894f3141131970709c67a56ff3"
+      },
+      "32": {
+        "source_ref": "Acts 17:32",
+        "source_chapter": 17,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "3d25518fa52fe05528894068596fc08a1c283dade728c7d7532aa310a300eb6d"
+      },
+      "33": {
+        "source_ref": "Acts 17:33",
+        "source_chapter": 17,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "de37cbb30d2d5da204d92c5817a78eebc559395f89e9bf9f093d3c8798bfd5c8"
+      },
+      "34": {
+        "source_ref": "Acts 17:34",
+        "source_chapter": 17,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "39d06285962685ba480d5d1abac2cca78a463f9abc15114a507b8fbc9b5ea62c"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

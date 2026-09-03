@@ -1,0 +1,331 @@
+{
+  "book": "Acts",
+  "chapter": 27,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 44,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_27.md",
+    "blob_sha": "d261bf25d1f39f5c556d0beb476e6050610f48dd"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 27:1",
+        "source_chapter": 27,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "a5fa211cc9a395d1db0ea3db6329f4c9826ef5bbc7de439d8371f9ef1f17930a"
+      },
+      "2": {
+        "source_ref": "Acts 27:2",
+        "source_chapter": 27,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "4787495ef95ec35aa9b805cea4956411526c1eeadb8aa2380b420c9a789bc5c9"
+      },
+      "3": {
+        "source_ref": "Acts 27:3",
+        "source_chapter": 27,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "9e135317bd8fb0fce4ae315fed0975ffcdb39e4798e0ab608cb2b7c976ffc5f1"
+      },
+      "4": {
+        "source_ref": "Acts 27:4",
+        "source_chapter": 27,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "95ddfdc626c189bcd6d5e6086a6afa994e766237d85d56b41ab5b570978e2520"
+      },
+      "5": {
+        "source_ref": "Acts 27:5",
+        "source_chapter": 27,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "cbf2bcaa15de54cf0c1d409688a37680da29979abe2aae9e4f44ae3823bbb3d1"
+      },
+      "6": {
+        "source_ref": "Acts 27:6",
+        "source_chapter": 27,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "a926cabae27f2addcb2a9478f5dd097f6586a64af7504dff63c8a5f0a60e69d2"
+      },
+      "7": {
+        "source_ref": "Acts 27:7",
+        "source_chapter": 27,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "aa042f7c407eb7a8c8b56cdcfbf9f345d2b09c52222a4aff1e7c31d6e5a92cbe"
+      },
+      "8": {
+        "source_ref": "Acts 27:8",
+        "source_chapter": 27,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "57c5551fcc6fca457fb5bc90d44b48b9c32e9ff2e0d5a361a79d83a8f505754a"
+      },
+      "9": {
+        "source_ref": "Acts 27:9",
+        "source_chapter": 27,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "1f0be536a6fe9fa38b50899559e8a46cb0af2f4e11fddc550971df94a4bee97d"
+      },
+      "10": {
+        "source_ref": "Acts 27:10",
+        "source_chapter": 27,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "bd1bf0809d44446b6acc0ca1b044d6f24e198be526686842821cd0ed2b70852e"
+      },
+      "11": {
+        "source_ref": "Acts 27:11",
+        "source_chapter": 27,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "f365c013fcfcb6f95a68383fdc123d5c4473ec4721d2f77c5b41784bd4182778"
+      },
+      "12": {
+        "source_ref": "Acts 27:12",
+        "source_chapter": 27,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "c7391ae89f5fcbf9e3c560031d6bbd7361399d7b4e794378cd255087c9298d12"
+      },
+      "13": {
+        "source_ref": "Acts 27:13",
+        "source_chapter": 27,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "53afcc7d7b60a0c106b778978e35d5dd3ab251a7d8f193d97df56deb8513957a"
+      },
+      "14": {
+        "source_ref": "Acts 27:14",
+        "source_chapter": 27,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "203794f6748dba5207eb7a3d101f89f5278eb514d71a63cbbc9f9812a0fc7604"
+      },
+      "15": {
+        "source_ref": "Acts 27:15",
+        "source_chapter": 27,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "c7db585306ac441b65fc729b41e35567984f00f31a212a837511413913c40603"
+      },
+      "16": {
+        "source_ref": "Acts 27:16",
+        "source_chapter": 27,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "6a0e54ef1bc13b7668c7137b8797af1223f309b527d58002bd1dac966ccff1a8"
+      },
+      "17": {
+        "source_ref": "Acts 27:17",
+        "source_chapter": 27,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "e9f5966742f0f6c26afaf4bb6b10d734aa467e0f817f884bf9ba8552e049ba74"
+      },
+      "18": {
+        "source_ref": "Acts 27:18",
+        "source_chapter": 27,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "d3c3c55b9132467c522a56e59c5c8023be2ece3f505b24c116c0d3dd2c99930a"
+      },
+      "19": {
+        "source_ref": "Acts 27:19",
+        "source_chapter": 27,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "c6eff1419c2cc05d8b4f21cbf6bce511cfb160ae575d8be6a5bcf089d2609f1b"
+      },
+      "20": {
+        "source_ref": "Acts 27:20",
+        "source_chapter": 27,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "a75b45c5ac477ef521c39e8975172bd2877fbc8d00c76d7a676d0109ce3f5a2d"
+      },
+      "21": {
+        "source_ref": "Acts 27:21",
+        "source_chapter": 27,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "122718f12e64dccf1ffdb002c093b23744a384dde6bd9180b1c71fa988230edc"
+      },
+      "22": {
+        "source_ref": "Acts 27:22",
+        "source_chapter": 27,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "5afe46fa774ce13bf3bc4f0fc36f60b07df199645ed1d4a0227cba7bcf27bade"
+      },
+      "23": {
+        "source_ref": "Acts 27:23",
+        "source_chapter": 27,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "4ba547ceedcf51cc0007b3d8daea8d4ecd64064383a93692699ce0f5ea0830a3"
+      },
+      "24": {
+        "source_ref": "Acts 27:24",
+        "source_chapter": 27,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "05b3b5f8c2bd643f912d61da31395aa49e5779ba0553a9fae8ae99ed9018cff2"
+      },
+      "25": {
+        "source_ref": "Acts 27:25",
+        "source_chapter": 27,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "df8896950cfb4da40c98683a522547751acdf0fc3cee9f69066f140371671d94"
+      },
+      "26": {
+        "source_ref": "Acts 27:26",
+        "source_chapter": 27,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "5a4a239201813130fe07058dae78bbde6ee1a2bb3f67757f247e69c0e429d557"
+      },
+      "27": {
+        "source_ref": "Acts 27:27",
+        "source_chapter": 27,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "86571fcdebd2b796b1278a3b59f97ec4c7e0bdc8ebcfec0ae2585f7850dd30af"
+      },
+      "28": {
+        "source_ref": "Acts 27:28",
+        "source_chapter": 27,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "1ec88ecceae79d7d3dc0b277d2dc7896b19dc252c19ab0966094d0822b36708b"
+      },
+      "29": {
+        "source_ref": "Acts 27:29",
+        "source_chapter": 27,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "510e0af7254a2beb5d52bf9265f999bf507da91d071b5b78689502f3db4d7f19"
+      },
+      "30": {
+        "source_ref": "Acts 27:30",
+        "source_chapter": 27,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "68c188b1a8f79ae5c6c1a30d6e7a577a153da238d9b2a33eb18baeca38c19e0a"
+      },
+      "31": {
+        "source_ref": "Acts 27:31",
+        "source_chapter": 27,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "c163e7f5eb6dfa1c253d8809267c5d534eab8c97ee953312740b314695bbb6ba"
+      },
+      "32": {
+        "source_ref": "Acts 27:32",
+        "source_chapter": 27,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "e8f2ea5840edd8e7136cf5e8d6e94d830dd271c24e9a3e79759c9db89d6e633d"
+      },
+      "33": {
+        "source_ref": "Acts 27:33",
+        "source_chapter": 27,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "f5520fc35204cdd188a60382937625d90ae8c17101591d70388af93418b10e4b"
+      },
+      "34": {
+        "source_ref": "Acts 27:34",
+        "source_chapter": 27,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "e3f28bf6c99af070219c5fedfa5a9978a8d25f40355648ed803f0b5f5f94a4e2"
+      },
+      "35": {
+        "source_ref": "Acts 27:35",
+        "source_chapter": 27,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "5e27e95189f89ca86893d2e740220c71e1236888a87a7e30ec7bb6441f41415d"
+      },
+      "36": {
+        "source_ref": "Acts 27:36",
+        "source_chapter": 27,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "40b9c3511405d16a95fa8656aab86c265a56c133cb24086dcb067c98da683e65"
+      },
+      "37": {
+        "source_ref": "Acts 27:37",
+        "source_chapter": 27,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "171b998498727ab50b96621fab4335616aa8908cdb60d17011142d0a08ab7d01"
+      },
+      "38": {
+        "source_ref": "Acts 27:38",
+        "source_chapter": 27,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "1b6e71efcd495fe9ce0d051e06bfaa461d89ee62ada22ac7442bfd1a5920d4c3"
+      },
+      "39": {
+        "source_ref": "Acts 27:39",
+        "source_chapter": 27,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "e745fe71a16da537960a25dd6a2322d106463e7eac61dd18eb89459eda175f4c"
+      },
+      "40": {
+        "source_ref": "Acts 27:40",
+        "source_chapter": 27,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "1a9c281505f617be1002b78cfd28b5d3c59357ecf60fcfc22f2bfd764550e4a3"
+      },
+      "41": {
+        "source_ref": "Acts 27:41",
+        "source_chapter": 27,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "3ec92fe983fc59169d85f17aa5059b983d1ded844cedab31953a2cfc71022c0c"
+      },
+      "42": {
+        "source_ref": "Acts 27:42",
+        "source_chapter": 27,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "b2536b4e553a92f28e635d5ad7e51c23a6353380626a507be8ded56083d8f546"
+      },
+      "43": {
+        "source_ref": "Acts 27:43",
+        "source_chapter": 27,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "aa352c89ed634b38a83856c278c225f6a5c9a12da4fddcc9f7026c237c27d416"
+      },
+      "44": {
+        "source_ref": "Acts 27:44",
+        "source_chapter": 27,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "e78d58b7723227f855e1e05423dc4bf026413dc97317fbe721869d47951a0e21"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
