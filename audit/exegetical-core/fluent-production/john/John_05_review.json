@@ -1,0 +1,344 @@
+{
+  "book": "John",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 46,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 5:1",
+        "source_chapter": 5,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "457db006c1965c66365bae6b70cc18aa636f7d4ac5b00e04aaf5ce4ce5d04357"
+      },
+      "2": {
+        "source_ref": "John 5:2",
+        "source_chapter": 5,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "428e46cb951e5a8077ccd960f1634fed0d192466b3620dc820d3f0a1a0eaf062"
+      },
+      "3": {
+        "source_ref": "John 5:3",
+        "source_chapter": 5,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "69db5c159a7d2d234a240df8895a823e5b8f4e94c377698c0caedb1a84417400"
+      },
+      "5": {
+        "source_ref": "John 5:5",
+        "source_chapter": 5,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "f538462fa51e9302f037f298b6a32c42556ee28e2cc54ba14669c80755d16c77"
+      },
+      "6": {
+        "source_ref": "John 5:6",
+        "source_chapter": 5,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "56618415b7395a8f78662415056607637bc2c37bbe92899ae07f5e378e682c0a"
+      },
+      "7": {
+        "source_ref": "John 5:7",
+        "source_chapter": 5,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "c9f0a4019810b01e1605abda1637696a024ec21c192ab35b5feb7a5a15b3b387"
+      },
+      "8": {
+        "source_ref": "John 5:8",
+        "source_chapter": 5,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "23b76fea9db201c92428114fdd95af3a00c698fcd8014e4076086b556c772723"
+      },
+      "9": {
+        "source_ref": "John 5:9",
+        "source_chapter": 5,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "e5acd02f73e0614e6f947a3977f17b11abce2b3ee9611624dbf1a06fec41d654"
+      },
+      "10": {
+        "source_ref": "John 5:10",
+        "source_chapter": 5,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "9af301e4c30dca57be3ddcdf329b7eea833a58d769ce1b5fe2cc073d48328038"
+      },
+      "11": {
+        "source_ref": "John 5:11",
+        "source_chapter": 5,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "4b3015a75621679ffa1894f783f119fb6e07951ce74b85dc9a264fa8c9b1c63a"
+      },
+      "12": {
+        "source_ref": "John 5:12",
+        "source_chapter": 5,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "b3601ae7e1ea72cbde98cdc9d8dd8728f53659572c1b742761053100cf7adedb"
+      },
+      "13": {
+        "source_ref": "John 5:13",
+        "source_chapter": 5,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "b4148d0525c15bff8509f45ff81a00edf36bfd56076d70fdbd2e3697bcc51f16"
+      },
+      "14": {
+        "source_ref": "John 5:14",
+        "source_chapter": 5,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "d70567cb2e2e68c4bffc02e90767d4c8bc6bb93ec9b6479b9688adcdb502d853"
+      },
+      "15": {
+        "source_ref": "John 5:15",
+        "source_chapter": 5,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "b8967dcb5b8cf4682a4fc231d8eee067e471c88ea411cb345884e0ca585bac77"
+      },
+      "16": {
+        "source_ref": "John 5:16",
+        "source_chapter": 5,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "071b2bfb6fed309b22a93007f2c2db8393f1c181f5421f14e62c69af63ec9ebd"
+      },
+      "17": {
+        "source_ref": "John 5:17",
+        "source_chapter": 5,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "64c6533992c3388fe2382a744768b9278ffad4fc6c320bb2e1ab2b42cdb76b06"
+      },
+      "18": {
+        "source_ref": "John 5:18",
+        "source_chapter": 5,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "dac1b1391fdb6a9bdc410becc46eb7d5f94c2390db08489c8885dd455e899151"
+      },
+      "19": {
+        "source_ref": "John 5:19",
+        "source_chapter": 5,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "35631f63c4653066f92d915013dcc5b8cf6e8f274222b95ff2238b8dfd23bd8a"
+      },
+      "20": {
+        "source_ref": "John 5:20",
+        "source_chapter": 5,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "36b0384266a0e7cf5f5704990f7652d7856893280ad3d3527366573fed30ac18"
+      },
+      "21": {
+        "source_ref": "John 5:21",
+        "source_chapter": 5,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "4eb0ffa828f7137817e8ec6947763f99f5d99cdedad1e49ecc68413eb4d44ab6"
+      },
+      "22": {
+        "source_ref": "John 5:22",
+        "source_chapter": 5,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "7c2ba3cbc34d93b977d9659f45724cb4b239dab9794e8838b0dc6d31159a0e74"
+      },
+      "23": {
+        "source_ref": "John 5:23",
+        "source_chapter": 5,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "20d5981a0aa46e4c9019aeeecf81b390d856c182391334ef9504d389eb9b8006"
+      },
+      "24": {
+        "source_ref": "John 5:24",
+        "source_chapter": 5,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "afd06124526a309838672f66f4b2d3f4c632441212ef67ec4e78c99d5fe00ac0"
+      },
+      "25": {
+        "source_ref": "John 5:25",
+        "source_chapter": 5,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "e4147f384cd86fa2fae199c0527de6c236ac7cde7d8d096e6e76a475ccfe4f01"
+      },
+      "26": {
+        "source_ref": "John 5:26",
+        "source_chapter": 5,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "0b6a253cbdf9ff9aecf696763d1b9f3582e6382f3d371a4a293323a560309689"
+      },
+      "27": {
+        "source_ref": "John 5:27",
+        "source_chapter": 5,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "aa06f508e2908ddc6daa078b40458d9a2e114ca5b3afd2932c2a2239171caf5e"
+      },
+      "28": {
+        "source_ref": "John 5:28",
+        "source_chapter": 5,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "46019bcce8eca0d2a8126105e3365f2493f3dacab618ed193a8366b58efb747e"
+      },
+      "29": {
+        "source_ref": "John 5:29",
+        "source_chapter": 5,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "7a5ee0e9bae9538e983e2b7327d45c59f8b0b6e5e3734339d5df8942babc5205"
+      },
+      "30": {
+        "source_ref": "John 5:30",
+        "source_chapter": 5,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "d2cc8e301a213d0ae729eb969434535a88965525a3c2aa694c55380afe3e46a4"
+      },
+      "31": {
+        "source_ref": "John 5:31",
+        "source_chapter": 5,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "e7782cd79d0b8fa16ed535ed2826604a2d172694cea23b606f6d438554fe174c"
+      },
+      "32": {
+        "source_ref": "John 5:32",
+        "source_chapter": 5,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "e91033b071beb000b61e3c6dd5a03e092094838b32086e9409726e380d04df5f"
+      },
+      "33": {
+        "source_ref": "John 5:33",
+        "source_chapter": 5,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "4341d5f7e0dd845a76926bafbb202394294df2880b9c8e6233d844fa3081e17e"
+      },
+      "34": {
+        "source_ref": "John 5:34",
+        "source_chapter": 5,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "c99e6d34b072c88fb8268bea29f1edd57f340aea82791424ce341a6f3d667602"
+      },
+      "35": {
+        "source_ref": "John 5:35",
+        "source_chapter": 5,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "e413194f1529eade873f3fb62c013a222819ab3b947c42c81ec267056ae83319"
+      },
+      "36": {
+        "source_ref": "John 5:36",
+        "source_chapter": 5,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "f73eb7951a3657bea2afd2c89be38352090e640474de460cc0de79ce1d7a46ca"
+      },
+      "37": {
+        "source_ref": "John 5:37",
+        "source_chapter": 5,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "912f97f5152c2d9f251c3ffe04dde324ef96ea8265043e22925bb961b5b2b6b8"
+      },
+      "38": {
+        "source_ref": "John 5:38",
+        "source_chapter": 5,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "b7d6d9c474298683e5866e0f494a99e8c733e59ea46f124ff762eba719a0efb0"
+      },
+      "39": {
+        "source_ref": "John 5:39",
+        "source_chapter": 5,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "36e3d80ee614c476ca5bf942b93f79718d6cb1ddaa00424d0990f90a3ee31699"
+      },
+      "40": {
+        "source_ref": "John 5:40",
+        "source_chapter": 5,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "634851b6f7268c197af944b2f01a952e2afbfc06125f670c81fbc1575bcad59a"
+      },
+      "41": {
+        "source_ref": "John 5:41",
+        "source_chapter": 5,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "98f57379b3ae0effd7b5802794935f939ff378bfe3085422e95f1fce8f787505"
+      },
+      "42": {
+        "source_ref": "John 5:42",
+        "source_chapter": 5,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "4da72927c7dfda8adf5a259e55e6b6b5ea96429a81ce7879adf49353e1d18c80"
+      },
+      "43": {
+        "source_ref": "John 5:43",
+        "source_chapter": 5,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "a3817cc857c395c3d493d3d1cc834db1b3431373252d649aec0f269f542fe8f5"
+      },
+      "44": {
+        "source_ref": "John 5:44",
+        "source_chapter": 5,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "5d16987e0660241cdeffa227d8166f33065d92bb0192937517709e0cc1c5dd9b"
+      },
+      "45": {
+        "source_ref": "John 5:45",
+        "source_chapter": 5,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "c5a6f61d712853947e85aa5d8830e49d00f9e2ccb649d51cd975df1bb23a27cd"
+      },
+      "46": {
+        "source_ref": "John 5:46",
+        "source_chapter": 5,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "f86c7f5d592bf40b1e37f36c41fd4eed5da719cd8b136007ec8522ddd85a4508"
+      },
+      "47": {
+        "source_ref": "John 5:47",
+        "source_chapter": 5,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "4f1a973627ea583454844956687cd1ea5a1b938494f47a30cf65e8d0c12a8515"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_05.md",
+    "blob_sha": "88f19ceb2732e0608b312aaa68083570b0aa9c45"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

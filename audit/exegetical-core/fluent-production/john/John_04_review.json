@@ -1,0 +1,400 @@
+{
+  "book": "John",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 54,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 4:1",
+        "source_chapter": 4,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "7b5ba90ca43465c3e11751a2ccc4d9d2bc2b0fc719db87ec472639e9be1bbd45"
+      },
+      "2": {
+        "source_ref": "John 4:2",
+        "source_chapter": 4,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "2857ecec43af08a1e39ec144aee2485e76826c765abcbc3263efc0aa7e901e8f"
+      },
+      "3": {
+        "source_ref": "John 4:3",
+        "source_chapter": 4,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "56e496effbc1013556f952ea8fbb8dd9ed3e400da8918e3c46a519fa12449dfc"
+      },
+      "4": {
+        "source_ref": "John 4:4",
+        "source_chapter": 4,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "27f231bebc83d3a22b03bdd4b5917b32d1db45d48bc94344ac3ecbcdb97c59a1"
+      },
+      "5": {
+        "source_ref": "John 4:5",
+        "source_chapter": 4,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "d0ae2396ef55b52980ae01e2461673edae9c71d024a4e5fe743ec2168c3d5f3f"
+      },
+      "6": {
+        "source_ref": "John 4:6",
+        "source_chapter": 4,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "d6440221d7f23d5ec0845b70d215b94978934b794d30190904e7f0be4ed7a81a"
+      },
+      "7": {
+        "source_ref": "John 4:7",
+        "source_chapter": 4,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "2910a6f1e65ca762bb0585f3d122cbfcbdaa13c2f3890fbfe86e0c329b595160"
+      },
+      "8": {
+        "source_ref": "John 4:8",
+        "source_chapter": 4,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "5e405a4647cdcd66d004ae4d32897741a4625ebcfdb67e0ed8baaad2c0eb89cf"
+      },
+      "9": {
+        "source_ref": "John 4:9",
+        "source_chapter": 4,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "e27f4b882e0d18032abe7ab2f7c5f48591ed5793c19dd4fb1a0cf37565cfddea"
+      },
+      "10": {
+        "source_ref": "John 4:10",
+        "source_chapter": 4,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "1fbd18f97a7ded1ef019dbaedc77dcec49786bacd313bb18c0d20dfa873462a2"
+      },
+      "11": {
+        "source_ref": "John 4:11",
+        "source_chapter": 4,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "b827abb44bdefd3a243c303b06de5087850d973135965295f32499b207ed979a"
+      },
+      "12": {
+        "source_ref": "John 4:12",
+        "source_chapter": 4,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "b6e362bb2646289b13642b9e0607ce0b8dd85f39d429d78079ab163b4231a8c9"
+      },
+      "13": {
+        "source_ref": "John 4:13",
+        "source_chapter": 4,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "da770659bf788eaa03e2f4f74f179adbbc91334e11e0abdaa91db4fc684e14fb"
+      },
+      "14": {
+        "source_ref": "John 4:14",
+        "source_chapter": 4,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "4b36747aa5e4861876d6e23d00ea28430fc30d1b47d6944b2761142003bccc68"
+      },
+      "15": {
+        "source_ref": "John 4:15",
+        "source_chapter": 4,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "e6e3d64e9649d4bc493e3f85e6cffa1a1e398519532a4adbda50f985df723a69"
+      },
+      "16": {
+        "source_ref": "John 4:16",
+        "source_chapter": 4,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "8897c86cb0d16f8588c9feca0bd3027eaaaf568097736f55e8b4d0fb32faad5f"
+      },
+      "17": {
+        "source_ref": "John 4:17",
+        "source_chapter": 4,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "f090c19390cd1fb87a160857dcc438f7579746bbaa0f6a1e5d06ce2b1ca3d4f1"
+      },
+      "18": {
+        "source_ref": "John 4:18",
+        "source_chapter": 4,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "4c80668b3962a782853004389f1e0f427ef1502b57efc1da3becf3a50ba34620"
+      },
+      "19": {
+        "source_ref": "John 4:19",
+        "source_chapter": 4,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "57ff5306649637ef07ca778565df6d78209317326fe02d30af142be38946340c"
+      },
+      "20": {
+        "source_ref": "John 4:20",
+        "source_chapter": 4,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "d91e30ca5927dfcf32531d6fbf3d9986882f494d6fc259c047b2c50dff3e1f9b"
+      },
+      "21": {
+        "source_ref": "John 4:21",
+        "source_chapter": 4,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "f53cdd3bc333c482343ed5e23009358dacc80883fa9efa14a53d3035ddf4d99d"
+      },
+      "22": {
+        "source_ref": "John 4:22",
+        "source_chapter": 4,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "6c4fca7217d4d260d1c605c3157a5c811d851c2c2cd7773bc07e92d70be3fb52"
+      },
+      "23": {
+        "source_ref": "John 4:23",
+        "source_chapter": 4,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "ff93d5229aa7b4bb56c39f58c0218754b12c78b909d329f7da18c28acba54068"
+      },
+      "24": {
+        "source_ref": "John 4:24",
+        "source_chapter": 4,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "84f1f4d9aa6b74651139a3636bc2c8b9ddc0662308a0f7e74f86d1e12c4f3929"
+      },
+      "25": {
+        "source_ref": "John 4:25",
+        "source_chapter": 4,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "6ac90ba4d458305d92fc971051fba2cf377a21091e0078ed1aaf95557c1c9d7c"
+      },
+      "26": {
+        "source_ref": "John 4:26",
+        "source_chapter": 4,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "d17554f5eb5177bb6d555fdcf9222fcf7c29ce85c6ba1b105dcc8b2b33a6c63d"
+      },
+      "27": {
+        "source_ref": "John 4:27",
+        "source_chapter": 4,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "42f5c64f3b86f69cd0c4c1f1395ded2fb8624ac5259186f277042997c9d8418d"
+      },
+      "28": {
+        "source_ref": "John 4:28",
+        "source_chapter": 4,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "3268c0ea72e9fad3cdb6934f4a944bf7aaab14212f4abdd8ca7386c87b4bfa1a"
+      },
+      "29": {
+        "source_ref": "John 4:29",
+        "source_chapter": 4,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "468c6b9e7683da106624d39b723e573a102c0141ebd5afab8ce3f36e896fcea7"
+      },
+      "30": {
+        "source_ref": "John 4:30",
+        "source_chapter": 4,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "de1db608e53e00a67381e1010534e8d0db40bf52d59e81bc4f354682f39c9e33"
+      },
+      "31": {
+        "source_ref": "John 4:31",
+        "source_chapter": 4,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "2e9060a83b3afceb68625e4049022c950c6a5a98a6e72b380626837fb9bc3fd1"
+      },
+      "32": {
+        "source_ref": "John 4:32",
+        "source_chapter": 4,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "1c3d425c08f392856eba309448d203178b21f4cb2cb79c5b3dbe06a58c718424"
+      },
+      "33": {
+        "source_ref": "John 4:33",
+        "source_chapter": 4,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "9dbcb320926025e0fc8c4d5de8027f442cb54f677f6ff392c8ef0aaf84c9b292"
+      },
+      "34": {
+        "source_ref": "John 4:34",
+        "source_chapter": 4,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "44dac9e2d658aefdc4165d4275391f1b86decefe3d5ffe6a2232b7324117da4f"
+      },
+      "35": {
+        "source_ref": "John 4:35",
+        "source_chapter": 4,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "436c08e99b3b951f6d5a403873f5f5baed81bfe7fa1ceb85418d3797c0cdeb0d"
+      },
+      "36": {
+        "source_ref": "John 4:36",
+        "source_chapter": 4,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "1f8035df8d346c1f990c0c5b14637c0b5c74e2b7fb876d730547ed8f8e4921e4"
+      },
+      "37": {
+        "source_ref": "John 4:37",
+        "source_chapter": 4,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "84f38ffa4a9ee7ab83dab2f628f7784aa3962a0555a64c847de26a67796f231a"
+      },
+      "38": {
+        "source_ref": "John 4:38",
+        "source_chapter": 4,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "b6d5c6289376ba36136f056ee897a33cc6e4a6cc54cb2a38944c662d89f5b389"
+      },
+      "39": {
+        "source_ref": "John 4:39",
+        "source_chapter": 4,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "964759eeb1bf0d83b9c79fd34acbb2963c1e3a7dcde92a5c219d22596ebff483"
+      },
+      "40": {
+        "source_ref": "John 4:40",
+        "source_chapter": 4,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "4f088e95cf73d4a354b5921f10ab5e2928cf449e0c0d0595669ae5050ec38a0d"
+      },
+      "41": {
+        "source_ref": "John 4:41",
+        "source_chapter": 4,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "97666143020cc3846555c07fcc3635ebeaf8ef48b4c604bf48afe80a75136489"
+      },
+      "42": {
+        "source_ref": "John 4:42",
+        "source_chapter": 4,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "900ddbd961920a3eea2301cfeff877077f4b93c0f98f796ac654b2eed3740214"
+      },
+      "43": {
+        "source_ref": "John 4:43",
+        "source_chapter": 4,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "719e822813f01c7ec8df266b3ddac3e1508e5c5cba03f5f1147c48c8c8d585f2"
+      },
+      "44": {
+        "source_ref": "John 4:44",
+        "source_chapter": 4,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "2fc4cf9cc67ed26f28978d5ca17d5aabe6b6065ced98103f4448958593c6cbf3"
+      },
+      "45": {
+        "source_ref": "John 4:45",
+        "source_chapter": 4,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "ba5a0c1de80181e6f17c36941f8b5e03749631bd53834b6a9bef665688742a1d"
+      },
+      "46": {
+        "source_ref": "John 4:46",
+        "source_chapter": 4,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "ba030e72e28a7883120e6ce0e277074e15186b3a593cbf74bd9ad54307202c21"
+      },
+      "47": {
+        "source_ref": "John 4:47",
+        "source_chapter": 4,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "a045bb38953200d8ceb68831809f4a1898dfd4151c3e7488c8175d8ea6989a32"
+      },
+      "48": {
+        "source_ref": "John 4:48",
+        "source_chapter": 4,
+        "source_verse": 48,
+        "segment_mode": "whole_record",
+        "sha256": "dd2f2f91296d32c42acb9fb25fa0a2541c757f098f9d03f8869090b3c7cb92f9"
+      },
+      "49": {
+        "source_ref": "John 4:49",
+        "source_chapter": 4,
+        "source_verse": 49,
+        "segment_mode": "whole_record",
+        "sha256": "3f3c281eca0fe4923392aa68b93980ee7d4707e1952cc9cc1f385282a3a7b117"
+      },
+      "50": {
+        "source_ref": "John 4:50",
+        "source_chapter": 4,
+        "source_verse": 50,
+        "segment_mode": "whole_record",
+        "sha256": "2cb55830e230dce29b29e17d431694b0471e96793fea0468ff86213a788c0b64"
+      },
+      "51": {
+        "source_ref": "John 4:51",
+        "source_chapter": 4,
+        "source_verse": 51,
+        "segment_mode": "whole_record",
+        "sha256": "8e558732052047c0a5a20bc1ee2e458c7775ecc799d03bcd734f5849c4c0f1db"
+      },
+      "52": {
+        "source_ref": "John 4:52",
+        "source_chapter": 4,
+        "source_verse": 52,
+        "segment_mode": "whole_record",
+        "sha256": "2b078dae34141405bac0027f2943b4b9fbfaaa607b32de135b23638122409e02"
+      },
+      "53": {
+        "source_ref": "John 4:53",
+        "source_chapter": 4,
+        "source_verse": 53,
+        "segment_mode": "whole_record",
+        "sha256": "63cbaf932aba95e73bc72516094c6097a1fa99eed9e2f46120d6ca7ef76ef688"
+      },
+      "54": {
+        "source_ref": "John 4:54",
+        "source_chapter": 4,
+        "source_verse": 54,
+        "segment_mode": "whole_record",
+        "sha256": "03c4c2d205a7bafb419a58c5c6bafafd7967f1ad4c3c8727ac1936f1e081ecd9"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_04.md",
+    "blob_sha": "d83be611f456ca56c5b74fc90120750711eed66b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

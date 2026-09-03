@@ -1,0 +1,197 @@
+{
+  "book": "John",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 25,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 2:1",
+        "source_chapter": 2,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "8bae14c6fa5680061e1eeda16be1fccf9c7934cb3fe1e740fa102506cdeaa074"
+      },
+      "2": {
+        "source_ref": "John 2:2",
+        "source_chapter": 2,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "013f70471fc156218f8f43516cfa49f3e618d98042f10a61b3a23c2f5f917291"
+      },
+      "3": {
+        "source_ref": "John 2:3",
+        "source_chapter": 2,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "a682e6ee3e03ec2347d317ad55881a8ce4d590ad8e661d7f0c5bf4af42cfff6c"
+      },
+      "4": {
+        "source_ref": "John 2:4",
+        "source_chapter": 2,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "6cb194a4364ffb552dcd960128266598ec0421f5ca3d7c740b4fb4736073c3cc"
+      },
+      "5": {
+        "source_ref": "John 2:5",
+        "source_chapter": 2,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "d04a4fabe1f285afca16091439f162b440b7fd5689ad9a0036f34b27b7bf52e3"
+      },
+      "6": {
+        "source_ref": "John 2:6",
+        "source_chapter": 2,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "8079a93374ef03f1e6b5195c5640bd51054f7576617c18407f980083459503cf"
+      },
+      "7": {
+        "source_ref": "John 2:7",
+        "source_chapter": 2,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "88e0a53c28c5c98663890bc67108b28cb1c163439562a0d98ada64ad8e1e9622"
+      },
+      "8": {
+        "source_ref": "John 2:8",
+        "source_chapter": 2,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "c46414ab6ebfcb6fae46432e52e2a1d17f57cd783e0d23737743271ed2f3dd0b"
+      },
+      "9": {
+        "source_ref": "John 2:9",
+        "source_chapter": 2,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "102e59fca27faba4996aaae7cfdf300b032a805bf7764a5f8eded294e47fccd2"
+      },
+      "10": {
+        "source_ref": "John 2:10",
+        "source_chapter": 2,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "f32503faff90cce9078d757c5d3d608ab93042e924a47e1da4b2b8242e0aed66"
+      },
+      "11": {
+        "source_ref": "John 2:11",
+        "source_chapter": 2,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "a3f7db366982aa0d7c6560325fa8b457374797e39be9a9df64c384f45dfb917b"
+      },
+      "12": {
+        "source_ref": "John 2:12",
+        "source_chapter": 2,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "f0e58e9568ff58ff0553a7f9f62670b15bac584c3d937a16b533a7ffa088059c"
+      },
+      "13": {
+        "source_ref": "John 2:13",
+        "source_chapter": 2,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "6c471402cafd12db35a785ba0beeaeb3edc9525a3d154dc3837df33fc79bbb12"
+      },
+      "14": {
+        "source_ref": "John 2:14",
+        "source_chapter": 2,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "dbcb9e821e565f4c4d75e2fc31db73bc9b0e6d648afaf3c3c95c104747043ac0"
+      },
+      "15": {
+        "source_ref": "John 2:15",
+        "source_chapter": 2,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "0cc370b3a8194b28443220cfbf78abd2e37a7473fa5d6b242dc35c1711919841"
+      },
+      "16": {
+        "source_ref": "John 2:16",
+        "source_chapter": 2,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "4b06061df35ce58d497c096985d02a1c4420bf30c8683e5f75caf158340f4ed6"
+      },
+      "17": {
+        "source_ref": "John 2:17",
+        "source_chapter": 2,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "88734cb60e8999368fe17e9c972ad2aa4ba8185018ec43fb7001875af9c1ef8b"
+      },
+      "18": {
+        "source_ref": "John 2:18",
+        "source_chapter": 2,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "d30bec64a03eb38b22ee39f4efc95ca11fff2a5226d1f45d87021f7972bb02c9"
+      },
+      "19": {
+        "source_ref": "John 2:19",
+        "source_chapter": 2,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "eae4b7e8d7251818594395399e76ca7aa3cd539ca752d26771ffb2df9a452f8f"
+      },
+      "20": {
+        "source_ref": "John 2:20",
+        "source_chapter": 2,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "3a471d4697b310c8518a7fcec3c4790cd23c956147908aa3525b46c4e7124b64"
+      },
+      "21": {
+        "source_ref": "John 2:21",
+        "source_chapter": 2,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "4f53780025b81deec7324ddbf7870b85487ab4aa218105106d6284856559a662"
+      },
+      "22": {
+        "source_ref": "John 2:22",
+        "source_chapter": 2,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "9e42da780aea2fd5e0bc3206baa907df007fb20fc0f25d8f3ed0003daed7b986"
+      },
+      "23": {
+        "source_ref": "John 2:23",
+        "source_chapter": 2,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "d107d00abf3367b3bec37839019fe6b5824a090c02af352fa4b733d390bf1b44"
+      },
+      "24": {
+        "source_ref": "John 2:24",
+        "source_chapter": 2,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "f8f62e0d123948495b104a2409011bba5e805ba3e2a0a64c4ce67d42506bcf12"
+      },
+      "25": {
+        "source_ref": "John 2:25",
+        "source_chapter": 2,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "e66a68aad7a49046bc0e6c1558227cd4c37c3a8dc7781ae25b0c21ea00a79542"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_02.md",
+    "blob_sha": "57cddaa85434573dbb1675aa0a4963f963909bea"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

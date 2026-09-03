@@ -1,0 +1,309 @@
+{
+  "book": "John",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 41,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 9:1",
+        "source_chapter": 9,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "81c38de2f00b78e284b43c1db1aeda2c690b55799eb8b8c98525a6f39373ba66"
+      },
+      "2": {
+        "source_ref": "John 9:2",
+        "source_chapter": 9,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "dec55514b2bf411b7c0099aa479de66f5fa1cfb74d6f83845249d04f392c2988"
+      },
+      "3": {
+        "source_ref": "John 9:3",
+        "source_chapter": 9,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "2a1cd3d2dea2566c5d1fc6004147314eb81d850704c9a26476314e359c8a8061"
+      },
+      "4": {
+        "source_ref": "John 9:4",
+        "source_chapter": 9,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "beaeb7fbbe2d259f14dab3ab6351f5d3b417cbcb544420cc1320933a8421fd48"
+      },
+      "5": {
+        "source_ref": "John 9:5",
+        "source_chapter": 9,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "f5f3f4cd121c7cca803aebd1efac55a802db38e13ebc68519ad9bd33d4e99435"
+      },
+      "6": {
+        "source_ref": "John 9:6",
+        "source_chapter": 9,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "266fa0a9fd4240d428706ce874d2f068e73d3ffea875b3ef7c65486b81b8e096"
+      },
+      "7": {
+        "source_ref": "John 9:7",
+        "source_chapter": 9,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "7cfe0360ee9537c750103ae80c306ecbed1269f7d0919ea26f6ed161f42f8c7a"
+      },
+      "8": {
+        "source_ref": "John 9:8",
+        "source_chapter": 9,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "2d39da30db18aeedb8c0020c0764811b3a554d4c9a84a658c4626fd2af28140c"
+      },
+      "9": {
+        "source_ref": "John 9:9",
+        "source_chapter": 9,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "3cf90815b4a7a7f3debb0c87abebfc85b468f3f9f692a22d806dc9e1ba00125a"
+      },
+      "10": {
+        "source_ref": "John 9:10",
+        "source_chapter": 9,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "b29c0dfc0fe44bb9c33f6695b9006439b2d6f7d9c50d49a0dfd6f50f160d2d86"
+      },
+      "11": {
+        "source_ref": "John 9:11",
+        "source_chapter": 9,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "8d2f5afefe9cfe603b40aea72e0882a35a8451695dfaf27bb24e2c0203a4d5ab"
+      },
+      "12": {
+        "source_ref": "John 9:12",
+        "source_chapter": 9,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "71816ddf96aaa2ac4e532712a8ca0c1e903650a78a87c4d7c3bc4f89438be7cd"
+      },
+      "13": {
+        "source_ref": "John 9:13",
+        "source_chapter": 9,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "3e3034d35d4e06cb73334d8e05596b0f2b37b65593cac5cc220580ef1d99d5c3"
+      },
+      "14": {
+        "source_ref": "John 9:14",
+        "source_chapter": 9,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "978d562e0d4bf9704e37d76f6f47ff34d1dfc4f1e1cad1a5ce587d6a08ec1663"
+      },
+      "15": {
+        "source_ref": "John 9:15",
+        "source_chapter": 9,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "a91e0cf95ec3b892ef2aef179858736c38b86b1b7ef1d72471413f5f9a25fae8"
+      },
+      "16": {
+        "source_ref": "John 9:16",
+        "source_chapter": 9,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "b339cd1187178bfa982421bc634fd4a5bf8e04fc09b1eab6bac96cf922b8a01e"
+      },
+      "17": {
+        "source_ref": "John 9:17",
+        "source_chapter": 9,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "d80bd071a2f2b8d4c3b589d9b484fd36ff389faac1520a259dbebb969fe5d324"
+      },
+      "18": {
+        "source_ref": "John 9:18",
+        "source_chapter": 9,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "d14cb64ae91d66151928f32bcf506cb71ccef83dc6483f078e73f4958ab7ae30"
+      },
+      "19": {
+        "source_ref": "John 9:19",
+        "source_chapter": 9,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "d66626cd524dd4d3bc627e27fcc26fc698627b7e3058cff45c705a547b9544dc"
+      },
+      "20": {
+        "source_ref": "John 9:20",
+        "source_chapter": 9,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "100fbcf504c4e78befbd13f59f004726410a8a8a952ed6933fbf43a4b0ac8202"
+      },
+      "21": {
+        "source_ref": "John 9:21",
+        "source_chapter": 9,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "aa76897495f6410096f1ac6ff7f55cbc3a00c504721294cc7701f7402cf5a446"
+      },
+      "22": {
+        "source_ref": "John 9:22",
+        "source_chapter": 9,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "7a4f61da4e22910405f4bc56ae7a616f630299e440b3486e0cce91d0a2805892"
+      },
+      "23": {
+        "source_ref": "John 9:23",
+        "source_chapter": 9,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "11e7921cf9bc7f675478c5c81f86d572333347e4ddaa429453c1f91f00842fe4"
+      },
+      "24": {
+        "source_ref": "John 9:24",
+        "source_chapter": 9,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "1ff7d89885fa85bdba4cbdbae9742f5bb276ee153948294b29592d098f7eadb9"
+      },
+      "25": {
+        "source_ref": "John 9:25",
+        "source_chapter": 9,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "74bc3cb8ac142659dbfe6fe1ba544154875bfb1aef969590eb7870b7c381467d"
+      },
+      "26": {
+        "source_ref": "John 9:26",
+        "source_chapter": 9,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "a481efe4f306b2ce7d7c8ba3b7774f96887d2d6ade848839e55b5517212bf75a"
+      },
+      "27": {
+        "source_ref": "John 9:27",
+        "source_chapter": 9,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "be2c276c745855c324c1f263abaecfd96b23772d61d9100045520b05df920b87"
+      },
+      "28": {
+        "source_ref": "John 9:28",
+        "source_chapter": 9,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "3c5046367a6715675fe4ba7203c90e086974717f7e1d788e7bfd106db52e8701"
+      },
+      "29": {
+        "source_ref": "John 9:29",
+        "source_chapter": 9,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "32fbb361a02b1ab728a7ff7cf9cc0373abd5e5bc7012c6b56e5d4a14e22c8019"
+      },
+      "30": {
+        "source_ref": "John 9:30",
+        "source_chapter": 9,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "137b00eaecb39ad2e9384bd8cac155b1ba8ec003841187b16fbe040e9feae909"
+      },
+      "31": {
+        "source_ref": "John 9:31",
+        "source_chapter": 9,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "5647a0db53f998250fda2bc3486643d1937fbfe38e1c7c015d44d077391b629e"
+      },
+      "32": {
+        "source_ref": "John 9:32",
+        "source_chapter": 9,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "00f355661e355e1ccccb1afd1c58579699a4a8c0bdbe7e7d0548044b2b9d1588"
+      },
+      "33": {
+        "source_ref": "John 9:33",
+        "source_chapter": 9,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "7aac864b875ae7d211aa88aa30867ec275bc9ee57b12523d64decacbef97879c"
+      },
+      "34": {
+        "source_ref": "John 9:34",
+        "source_chapter": 9,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "d6daffc5d54735529fb610770b256d466758cd3f5b77e6c752708b37e6b8910d"
+      },
+      "35": {
+        "source_ref": "John 9:35",
+        "source_chapter": 9,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "687f1f9f19d64c9c0f99c006b556a0c7dbc1efbdb95189d6d7f594e844abf624"
+      },
+      "36": {
+        "source_ref": "John 9:36",
+        "source_chapter": 9,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "e8fb5ab7c9748fdb9b6ef1d180cabf2eb10cadc571fb4415c53a12e15a7bbea5"
+      },
+      "37": {
+        "source_ref": "John 9:37",
+        "source_chapter": 9,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "6c1c903341b3b93daf80ed3482b4f56ba09a55fd625f295287713d48d1e7551d"
+      },
+      "38": {
+        "source_ref": "John 9:38",
+        "source_chapter": 9,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "7556e1dad9150098f9e453cafb33c45191174013623433c1ccf2f26d9df51c53"
+      },
+      "39": {
+        "source_ref": "John 9:39",
+        "source_chapter": 9,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "a160d6bf1f6a7e862568779bb18f452c05b39996404696ab7c128fac463823ff"
+      },
+      "40": {
+        "source_ref": "John 9:40",
+        "source_chapter": 9,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "4dfe34c45be5bb1e35310a2edee75fa5f7f3f7fe8ebf83417d6b8e0146dc405d"
+      },
+      "41": {
+        "source_ref": "John 9:41",
+        "source_chapter": 9,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "847673172e50f63e303f898d0947f1b003d218adfa3647f6637941d0ffea7a99"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_09.md",
+    "blob_sha": "042cd4e7bb49178a89de1b1e8a61f635e92c1fe9"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

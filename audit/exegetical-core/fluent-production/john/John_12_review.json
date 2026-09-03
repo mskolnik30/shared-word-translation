@@ -1,0 +1,372 @@
+{
+  "book": "John",
+  "chapter": 12,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 50,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 12:1",
+        "source_chapter": 12,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "f6500f323d42c143b9112bb5315015f9c93e7af085b275e6d67eb15ec2edd38b"
+      },
+      "2": {
+        "source_ref": "John 12:2",
+        "source_chapter": 12,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "bf5ab6f5a5b831714b1695d65f28ddda48f31b290f01cc86176559c89d28bd3b"
+      },
+      "3": {
+        "source_ref": "John 12:3",
+        "source_chapter": 12,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "14fe676d49eba4311c674d41eb82e3b324fa932765153fc45d91687763f0fa68"
+      },
+      "4": {
+        "source_ref": "John 12:4",
+        "source_chapter": 12,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "79be186fac0510a414de6fe7f13ab1fbc61019070794c627388bc54725274d74"
+      },
+      "5": {
+        "source_ref": "John 12:5",
+        "source_chapter": 12,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "9e4904409f3a56283271213408d31e6eb48495fcaba152425f11e4174ac7a928"
+      },
+      "6": {
+        "source_ref": "John 12:6",
+        "source_chapter": 12,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "8c8211f3a3eac622f8d60b9dcd2f1a96b579b95d63f04b1909ae77dec81a6715"
+      },
+      "7": {
+        "source_ref": "John 12:7",
+        "source_chapter": 12,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "1096399257c7f600f7ba53aed0967a38f1de479182567e44d98203796eb3e2ea"
+      },
+      "8": {
+        "source_ref": "John 12:8",
+        "source_chapter": 12,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "53101941dd06fa2a2673fe33b5bda0d65cacd9b7108379f63cb4363c48b4f11d"
+      },
+      "9": {
+        "source_ref": "John 12:9",
+        "source_chapter": 12,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "455d222ce6f4a61731acc1f5360e2a6ebc4ebf70c4c1c92007cf834caf60f9c1"
+      },
+      "10": {
+        "source_ref": "John 12:10",
+        "source_chapter": 12,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "3045e5537e390da0dae8e4370c509e93851de19ed22a59b5a9d5141b3f03c621"
+      },
+      "11": {
+        "source_ref": "John 12:11",
+        "source_chapter": 12,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "ba607ef69fd134ff00540c1400346c1a588cdcad8bcb8a48fca32d44d377112b"
+      },
+      "12": {
+        "source_ref": "John 12:12",
+        "source_chapter": 12,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "a239606df1836f4c1f505196cb2a8eeb5d11c8d46dbdb651d5a84831dfb21a1b"
+      },
+      "13": {
+        "source_ref": "John 12:13",
+        "source_chapter": 12,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "f41a1207dfcd13b88de043eccf1e1a600177f17c7e03b8cc60336a30a6828223"
+      },
+      "14": {
+        "source_ref": "John 12:14",
+        "source_chapter": 12,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "9963810a2cc63a50e7c3d96f42a4ca4f34b69fe8d57658a4e5aee113c8b4a98f"
+      },
+      "15": {
+        "source_ref": "John 12:15",
+        "source_chapter": 12,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "4adfdf3a7a7f26f04f508db41052b62ce36c59f44eca637ab807694ce6d48e98"
+      },
+      "16": {
+        "source_ref": "John 12:16",
+        "source_chapter": 12,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "f937caac5a846fb9dc4093d6f7471347eafeab89d1a101af6ed20b8cfb2f502e"
+      },
+      "17": {
+        "source_ref": "John 12:17",
+        "source_chapter": 12,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "a1cee2a104ae018aae528ec4df9a4e4ebba0acc8aa075c7d24bbc3d5674633d9"
+      },
+      "18": {
+        "source_ref": "John 12:18",
+        "source_chapter": 12,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "a4ba444e02b3e57b5643f064cfedbe67441090fa698bfbaad00515195c6181a8"
+      },
+      "19": {
+        "source_ref": "John 12:19",
+        "source_chapter": 12,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "fd2b2aceca776d41e6ec42d6cbdabbd8fbe5ecc07e30be7c6aa9eac9cd091352"
+      },
+      "20": {
+        "source_ref": "John 12:20",
+        "source_chapter": 12,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "74a04c481a94d1666a97f3b318ad9ab9f850adaecf1e89c541b5d140305ec5e2"
+      },
+      "21": {
+        "source_ref": "John 12:21",
+        "source_chapter": 12,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "714b8b5604bb90ede572992f948dc40293c1e99b24c7c89b567be3df3224de6f"
+      },
+      "22": {
+        "source_ref": "John 12:22",
+        "source_chapter": 12,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "b475bcd856f22a7c5132f9957b668ee5995501e0068e8b3bc31621b60861dd85"
+      },
+      "23": {
+        "source_ref": "John 12:23",
+        "source_chapter": 12,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "39aea082027624403e299abd156c19d5a3c667b612058e5977c1ca5c81924f74"
+      },
+      "24": {
+        "source_ref": "John 12:24",
+        "source_chapter": 12,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "4da6b6725d5fb349e34732061d6212e1eca39110ea8d2b68b90e34ae08e1fa33"
+      },
+      "25": {
+        "source_ref": "John 12:25",
+        "source_chapter": 12,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "10482163ca270fd389ad7a11615a1923a43dd0b94a5fbd68d47af619cf6de4c4"
+      },
+      "26": {
+        "source_ref": "John 12:26",
+        "source_chapter": 12,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "a77e65937e8e8179a19951b19d6c95ad8c6bdcec2f317ab6e10e9ad0d4539bdd"
+      },
+      "27": {
+        "source_ref": "John 12:27",
+        "source_chapter": 12,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "4e48a640bf806fa5952b7d8f616aa9cbf3ac72eb7fa0490baf94fd209765f4a9"
+      },
+      "28": {
+        "source_ref": "John 12:28",
+        "source_chapter": 12,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "c71c6db642b28d5f8b53b11c2e3d72f091fc6ec25fd34c42f89480e32192306c"
+      },
+      "29": {
+        "source_ref": "John 12:29",
+        "source_chapter": 12,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "7e22a64f89b966c2977fe088b17d611168bc1d92ce8896b2243f7a7a71d73a28"
+      },
+      "30": {
+        "source_ref": "John 12:30",
+        "source_chapter": 12,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "cc8e5301dec7e7280d70f62e9748052a047a48b9bb485554f30334459307a4ce"
+      },
+      "31": {
+        "source_ref": "John 12:31",
+        "source_chapter": 12,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "3d5a2bc5c55e70bcd1beb2f490a340d0a88e741448c0c98e2e42db3c84775ccf"
+      },
+      "32": {
+        "source_ref": "John 12:32",
+        "source_chapter": 12,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "5560ff99753d0ad84260947ddcc30c8934ef738e62470ee57eecc942e09f078c"
+      },
+      "33": {
+        "source_ref": "John 12:33",
+        "source_chapter": 12,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "97d2f5e79eb3f955f05b53293a1417ef6e6d45d20491372856621821789d40a2"
+      },
+      "34": {
+        "source_ref": "John 12:34",
+        "source_chapter": 12,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "883fb4da6b891049243b4d8249d7ac3dbea644a30893fc986a2bbbbd9135f6bd"
+      },
+      "35": {
+        "source_ref": "John 12:35",
+        "source_chapter": 12,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "6251f34c2d782e24266edfc70903b0ff48eb604375eec01dbaf8999f52ec0cf7"
+      },
+      "36": {
+        "source_ref": "John 12:36",
+        "source_chapter": 12,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "ac536663cd29a0ba19e48bc3c027a9fb50d2ea2769834436f78659f0d735f2ec"
+      },
+      "37": {
+        "source_ref": "John 12:37",
+        "source_chapter": 12,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "efe9352393667235e72f6634003eb736aaee5871cab527264c3913b2ead38f2d"
+      },
+      "38": {
+        "source_ref": "John 12:38",
+        "source_chapter": 12,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "8cc19928ec252bdd5baf9fc80200e307863fb944e718770118f75f98a802175d"
+      },
+      "39": {
+        "source_ref": "John 12:39",
+        "source_chapter": 12,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "08847b98f748bb3d5fcfb86d6e6f9446840ff101612be2208a19b116038c8732"
+      },
+      "40": {
+        "source_ref": "John 12:40",
+        "source_chapter": 12,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "550b8858deeb99e6fafaca03eec43bfecb05f33aaadfae62c1bb99ee65a48081"
+      },
+      "41": {
+        "source_ref": "John 12:41",
+        "source_chapter": 12,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "fbbb65f11ff3049b6cc5edab7ba3f051ac748934303b7745db5167df7513192a"
+      },
+      "42": {
+        "source_ref": "John 12:42",
+        "source_chapter": 12,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "86f77ee22413be76db576ea6a9b71077d85c65423c441e87dca1517579a32fda"
+      },
+      "43": {
+        "source_ref": "John 12:43",
+        "source_chapter": 12,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "1c835011237fe6c36cfda31b28f66c295f362230825da6a2eaeb43c480a1a994"
+      },
+      "44": {
+        "source_ref": "John 12:44",
+        "source_chapter": 12,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "9a1b5f36fe2ebd7d2884b772a39012deda412e9e0f1a057fecd68004b9a85762"
+      },
+      "45": {
+        "source_ref": "John 12:45",
+        "source_chapter": 12,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "4992bb9dd1c53b51e4e7d7b862338d8928ec62734eb32b61e25cdee04013149d"
+      },
+      "46": {
+        "source_ref": "John 12:46",
+        "source_chapter": 12,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "98b212499525f0d48567ff985dfae1734134ccb2069071b88f87509390b70812"
+      },
+      "47": {
+        "source_ref": "John 12:47",
+        "source_chapter": 12,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "c1f536c7878815d807ca2980b89169fb43a553c9ac85690bb29b1740b2f11faa"
+      },
+      "48": {
+        "source_ref": "John 12:48",
+        "source_chapter": 12,
+        "source_verse": 48,
+        "segment_mode": "whole_record",
+        "sha256": "7393a7abed5c6cb360458914a9d6c126f122491579be0140d371fdf156cb6f32"
+      },
+      "49": {
+        "source_ref": "John 12:49",
+        "source_chapter": 12,
+        "source_verse": 49,
+        "segment_mode": "whole_record",
+        "sha256": "40dd294b8c3b7b5c4fb35a28b1a2b76fbb52108d5610595f418235bdd45505df"
+      },
+      "50": {
+        "source_ref": "John 12:50",
+        "source_chapter": 12,
+        "source_verse": 50,
+        "segment_mode": "whole_record",
+        "sha256": "426bd32d19ea0e005fb874fed5db11289d90420295d94c24cc88e95eba3ae06e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_12.md",
+    "blob_sha": "3688a8e9451c90731203cab31fec18ccf7f53b83"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

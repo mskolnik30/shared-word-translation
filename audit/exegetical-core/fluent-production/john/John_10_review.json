@@ -1,0 +1,316 @@
+{
+  "book": "John",
+  "chapter": 10,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 42,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 10:1",
+        "source_chapter": 10,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "4225ada3a2b8745bc09a3f2262133e382b8a3ab71ec7fa7f8d6a8f9653d93bc5"
+      },
+      "2": {
+        "source_ref": "John 10:2",
+        "source_chapter": 10,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "31098bf18ecdc1da3b1750abc60317047797263652795cf73e640c9bc046abdd"
+      },
+      "3": {
+        "source_ref": "John 10:3",
+        "source_chapter": 10,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "221e20b1cd49ee29aa3d1a7f5dc78c2bcc2236bc08ce5571ac33e0eb20c72b44"
+      },
+      "4": {
+        "source_ref": "John 10:4",
+        "source_chapter": 10,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "f845661cb8f82157be0941c8198f0f21c8b4cbabf17255a093eb7345ce72abda"
+      },
+      "5": {
+        "source_ref": "John 10:5",
+        "source_chapter": 10,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "ef37cc55d246e27f3a734a642cbd1413a08c24a1eb6f3cf10de6587cd7f8931f"
+      },
+      "6": {
+        "source_ref": "John 10:6",
+        "source_chapter": 10,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "b78343df1a41a1b29a93519421952d4874d0aa73cb1a25059ff4d8471f64eb23"
+      },
+      "7": {
+        "source_ref": "John 10:7",
+        "source_chapter": 10,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "86355fc4938d64c8e7e0a2b361e346159f48f58223e7b7195a9904855501255d"
+      },
+      "8": {
+        "source_ref": "John 10:8",
+        "source_chapter": 10,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "b2d67ba64081dcf3b7af4206dec03578cd3d44cdb3770d5e9f343b2f68a6f31a"
+      },
+      "9": {
+        "source_ref": "John 10:9",
+        "source_chapter": 10,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "3227c84cdc62f317e4c0e5c9cbe7a0d89b5ce19d1f2a473bcf706f317dad9cd9"
+      },
+      "10": {
+        "source_ref": "John 10:10",
+        "source_chapter": 10,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "b5c8520dfa2ff6aee7f49ef8e5e595bc1b9421cec4340bbf7380427c01d9ecb7"
+      },
+      "11": {
+        "source_ref": "John 10:11",
+        "source_chapter": 10,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "75538d56cc564077ead8e08a0746f9fb973b15831ca97b507ec805e4c3853653"
+      },
+      "12": {
+        "source_ref": "John 10:12",
+        "source_chapter": 10,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "9f28b482f566f2f8eaa9c3302d77337b6e41b3edb7ecbc9383a775a35b3a9797"
+      },
+      "13": {
+        "source_ref": "John 10:13",
+        "source_chapter": 10,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "dc824abbaf32d03af1cc474d6b2977d939365329bec533298e006b17efbcfb01"
+      },
+      "14": {
+        "source_ref": "John 10:14",
+        "source_chapter": 10,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "85f3b3f5f732fa0e4cda9bcdd19618bff71f36aa3a6d52fca5f7ffcecf429096"
+      },
+      "15": {
+        "source_ref": "John 10:15",
+        "source_chapter": 10,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "a5c69387282d49d79ef045353147fded4d1ff6dfcdcde2da97ec437000a1ea1f"
+      },
+      "16": {
+        "source_ref": "John 10:16",
+        "source_chapter": 10,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "8a1ba374c997086d27a7876fa8ae4582f69bac0862079dbb24bc598b5f045877"
+      },
+      "17": {
+        "source_ref": "John 10:17",
+        "source_chapter": 10,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "f4738ac43a930c8ee3f943b6cf404cc9504efb55d29f7a2028663a7994bef62f"
+      },
+      "18": {
+        "source_ref": "John 10:18",
+        "source_chapter": 10,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "63301b77a36f9df1aa27822ac8a55776fa8bd8e4942fc03bd8f60ec317dbd1a0"
+      },
+      "19": {
+        "source_ref": "John 10:19",
+        "source_chapter": 10,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "dc5eacbf31d6a06cabfb21472de7be964db9ae06647fcab5fb371893304f453e"
+      },
+      "20": {
+        "source_ref": "John 10:20",
+        "source_chapter": 10,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "17623e17e7ed2d35060b5eb77a4f18aa7cd1256de3a2efcf43da08b26cf8c7a8"
+      },
+      "21": {
+        "source_ref": "John 10:21",
+        "source_chapter": 10,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "4dc8b93f4bfb8b9a338f9794f4d7d3b0f64e16a53b3e603885f6e729dd99fb64"
+      },
+      "22": {
+        "source_ref": "John 10:22",
+        "source_chapter": 10,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "914cff936632a7ee28fb5e0e4e576d1ce427f378c38033446142a41e361d8fcd"
+      },
+      "23": {
+        "source_ref": "John 10:23",
+        "source_chapter": 10,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "40101746d56ca5ab00b68e807eb93a65761df49d979194c347e8e199aed1f570"
+      },
+      "24": {
+        "source_ref": "John 10:24",
+        "source_chapter": 10,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "639b72d092b886d13eb8bae6d51a1ddc528362cf2bf13f436ced6de3ea5a5a21"
+      },
+      "25": {
+        "source_ref": "John 10:25",
+        "source_chapter": 10,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "39bf5d5d003ce55344805bfeeb97e916f71e196cb5081dc1b6406f87b7c20a12"
+      },
+      "26": {
+        "source_ref": "John 10:26",
+        "source_chapter": 10,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "9e3eb7da904ae2dd113e6d777170cede2644a5daa968b947520f2ed8668d03fb"
+      },
+      "27": {
+        "source_ref": "John 10:27",
+        "source_chapter": 10,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "f25faf3b723cc25ee1fa09cc081bfa5a56b57c0514e3c64b05ceb1c7b3e3f2b6"
+      },
+      "28": {
+        "source_ref": "John 10:28",
+        "source_chapter": 10,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "c492f8280760cf20113823a0376d805ee513f22a0cdd7c20536bf0a97af4511a"
+      },
+      "29": {
+        "source_ref": "John 10:29",
+        "source_chapter": 10,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "71bfe4f072bd0311676927fe3b9704a9bf711c0b03dabe31085f92e93701e637"
+      },
+      "30": {
+        "source_ref": "John 10:30",
+        "source_chapter": 10,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "876b21c28d4620d947626ca875f81a7d3b3e632d7ddf6a4c179b78da5513f450"
+      },
+      "31": {
+        "source_ref": "John 10:31",
+        "source_chapter": 10,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "66e4341d40f6a8f98edd5f94be72764dff926a18ef90c0347c9f00c0016586d8"
+      },
+      "32": {
+        "source_ref": "John 10:32",
+        "source_chapter": 10,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "a9c4a2efac414b056cdf2ab87579b96253e310e245d9f847e1f5e580ed63e450"
+      },
+      "33": {
+        "source_ref": "John 10:33",
+        "source_chapter": 10,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "abd42a8c019d3094783a75109c041b68470b830babb58fb65e4b787187a0349d"
+      },
+      "34": {
+        "source_ref": "John 10:34",
+        "source_chapter": 10,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "867b234764890372045854f98e3ec198ce572952d22adad47b1912e6d309e9ef"
+      },
+      "35": {
+        "source_ref": "John 10:35",
+        "source_chapter": 10,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "5582623a8e434487152597fed87f635d7f2496f55f4432183a97fc92d5e675ca"
+      },
+      "36": {
+        "source_ref": "John 10:36",
+        "source_chapter": 10,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "a085eaf2b9b75295a61e230228c0d2ea740131d2ba36bc2a071191088d55cbeb"
+      },
+      "37": {
+        "source_ref": "John 10:37",
+        "source_chapter": 10,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "27b5cd2a6d5539cb6ac386d38ef83428a6a40d54ba131f135abf202b98bfec2e"
+      },
+      "38": {
+        "source_ref": "John 10:38",
+        "source_chapter": 10,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "47dcf5ea0f3ae55aa8fef357934d08c306e64dff3efe29d672474b19f14a8797"
+      },
+      "39": {
+        "source_ref": "John 10:39",
+        "source_chapter": 10,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "b3beb7f0422f57c1421a256d36c5d9a994e6d9e3db26f11c9d93339488464d08"
+      },
+      "40": {
+        "source_ref": "John 10:40",
+        "source_chapter": 10,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "b90be3d95bd35bc9798ecfddc6002da4ae3ace901d16b017de69a145d8e24552"
+      },
+      "41": {
+        "source_ref": "John 10:41",
+        "source_chapter": 10,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "488fded6f4b9d3df4b0aa4e527283ad30b8aee561b2ed02939a0f18aa59a0047"
+      },
+      "42": {
+        "source_ref": "John 10:42",
+        "source_chapter": 10,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "9e1595396d64ff1c57098ed9f0b5c2589c4c723c2022517d66cb7899753ed7cf"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_10.md",
+    "blob_sha": "470718ef2099e775039ebf7d25debf100718e2c9"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

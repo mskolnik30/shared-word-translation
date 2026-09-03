@@ -1,0 +1,421 @@
+{
+  "book": "John",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 57,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 11:1",
+        "source_chapter": 11,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "04e04a1ea033f03c8a6d504f2159498f833474cc2692f336a3ee92bf5dedc42c"
+      },
+      "2": {
+        "source_ref": "John 11:2",
+        "source_chapter": 11,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "a13b9758a84f9424dabafb26e23ab5f559d9afc4c6e4b4d4bdf0eaec18da84b5"
+      },
+      "3": {
+        "source_ref": "John 11:3",
+        "source_chapter": 11,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "3d1c8f0c970613e956c256f56a3caea8d6b1e96bd1fa32c85dcdd8658b4361ac"
+      },
+      "4": {
+        "source_ref": "John 11:4",
+        "source_chapter": 11,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "9693c0a23816bb4de3cb664be4740cbbf94004a18fc4c2cb465bbb918f9af7c7"
+      },
+      "5": {
+        "source_ref": "John 11:5",
+        "source_chapter": 11,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "2a4a5c7bdd8035502bb8ee52b43edc5ddfe1eeaff556c022f57ec67bd8bc36d6"
+      },
+      "6": {
+        "source_ref": "John 11:6",
+        "source_chapter": 11,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "5e9dcaf90a841cf6692dc9b6482adfbe471ab6ffa301c03aaaa7410ff4fd80ad"
+      },
+      "7": {
+        "source_ref": "John 11:7",
+        "source_chapter": 11,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "6706e0db2a2d3d165c03520e61c1f27d8dca98d364291e4434cac618d15dcbda"
+      },
+      "8": {
+        "source_ref": "John 11:8",
+        "source_chapter": 11,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "ab98be07c0caef895567787e9c137d9035788ce84ae279e20b7f5f29bed86c64"
+      },
+      "9": {
+        "source_ref": "John 11:9",
+        "source_chapter": 11,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "609787f3ecb1d87896d0414bd44dce4baed2e1421726404b2361e96c2781bad3"
+      },
+      "10": {
+        "source_ref": "John 11:10",
+        "source_chapter": 11,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "a575eaae319b7d4963529e10b4e666dc658077a4fc05655a297cf795ef4de2f7"
+      },
+      "11": {
+        "source_ref": "John 11:11",
+        "source_chapter": 11,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "503fb8e8f4bb458c82788a51f42a86613470650616d12d50a853992ccf16cc3f"
+      },
+      "12": {
+        "source_ref": "John 11:12",
+        "source_chapter": 11,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "40197ac1516d6a19e409e823c68c1a68ba5aaedf47eea7ce1ef758e3645cf7ac"
+      },
+      "13": {
+        "source_ref": "John 11:13",
+        "source_chapter": 11,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "d9f64a3844ee1f4e81e8eea1f2eed6d9646592cf1f790fa47189b6f9546bf7d8"
+      },
+      "14": {
+        "source_ref": "John 11:14",
+        "source_chapter": 11,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "0479e28cb1ad0824a2454ccc0e517a221bc6c22d327196c048f8a210e72c02e0"
+      },
+      "15": {
+        "source_ref": "John 11:15",
+        "source_chapter": 11,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "381ffda96acde1eea7021f7ebc35ae33206a0ff37ad107db585b0d5371e5b9c2"
+      },
+      "16": {
+        "source_ref": "John 11:16",
+        "source_chapter": 11,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "af2038157cfd21b2d22127ab116e4a3f538958bceed31667344d9d66b60d1c5c"
+      },
+      "17": {
+        "source_ref": "John 11:17",
+        "source_chapter": 11,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "32b3851f4540c83fc69475cdba8cf15accf9b59a997772aeecfa132270c503a1"
+      },
+      "18": {
+        "source_ref": "John 11:18",
+        "source_chapter": 11,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "b6fb5273838e354f6aedfeda76643d4ce1e91df733c6f8746e9232b83ea8778a"
+      },
+      "19": {
+        "source_ref": "John 11:19",
+        "source_chapter": 11,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "4bd88ec827c0bfd27d74984cf7c714bfc9a116a30c23c6057d9975c48bb0a1d6"
+      },
+      "20": {
+        "source_ref": "John 11:20",
+        "source_chapter": 11,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "ae42da845a258e937d0dc13fe3b211b2312099fe4955bc202ad81f8a524d32f7"
+      },
+      "21": {
+        "source_ref": "John 11:21",
+        "source_chapter": 11,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "9da841885220235e502876c161757c3cb90ae48027baaa7db0a4749c2befddd5"
+      },
+      "22": {
+        "source_ref": "John 11:22",
+        "source_chapter": 11,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "6f3df60f75be08a7a3615866da2177fd9fb884a5687f8afa4c6a6cd5988015a7"
+      },
+      "23": {
+        "source_ref": "John 11:23",
+        "source_chapter": 11,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "82d4f366845abffe64e88d5f525a501af321ba05f1737e9a86bd14e0c75def51"
+      },
+      "24": {
+        "source_ref": "John 11:24",
+        "source_chapter": 11,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "e0d13cc6828b0f3f683033a3b8bed068144dda2a8664589ca67dbfad2b61a112"
+      },
+      "25": {
+        "source_ref": "John 11:25",
+        "source_chapter": 11,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "6667415e13b46371c5d9a81ab5a7bf923c1b7e00c2ebb71781b6958379f548e2"
+      },
+      "26": {
+        "source_ref": "John 11:26",
+        "source_chapter": 11,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "a0e554bfe905aa2951b1024f143a2bb1b859162cc657e72eb35d09e3fbda46e3"
+      },
+      "27": {
+        "source_ref": "John 11:27",
+        "source_chapter": 11,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "c4bf0a695e06d2f02cb95adb904f0a4fb8f1f23c667c9da8b40c388a05e02265"
+      },
+      "28": {
+        "source_ref": "John 11:28",
+        "source_chapter": 11,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "9c5008baf2243fdaf8cc5f9c2ee4979116637d40f4efc6eb5fccf1b9c4448ee5"
+      },
+      "29": {
+        "source_ref": "John 11:29",
+        "source_chapter": 11,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "0f121b2652e81a3e21165e35d40b8453269d179b5b7c151efc9845543828e0d9"
+      },
+      "30": {
+        "source_ref": "John 11:30",
+        "source_chapter": 11,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "d1ef99a327c0e6ff84edcf2fb531eb9c7e3c10c6eb0a30ddc27846b5ebed40e5"
+      },
+      "31": {
+        "source_ref": "John 11:31",
+        "source_chapter": 11,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "869bd108da0ac341c123632aa3cc0ebf70e9b29065e60b421b6112b6583f3e4d"
+      },
+      "32": {
+        "source_ref": "John 11:32",
+        "source_chapter": 11,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "3174f5dae0aaed2409d956016743e5786f4198bfc248443265080cba2b77db89"
+      },
+      "33": {
+        "source_ref": "John 11:33",
+        "source_chapter": 11,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "da7c1d08a292329966dcfe8a638e1c8da39d7cf0c6586be4d246e682539d2e80"
+      },
+      "34": {
+        "source_ref": "John 11:34",
+        "source_chapter": 11,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "98b9027be37f5d84471af010145ffd354ac73904b1ce85c4550d119a79860835"
+      },
+      "35": {
+        "source_ref": "John 11:35",
+        "source_chapter": 11,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "d9f4983cbd6d1ec85f3affcf996b5ce849222b5b708ebf73af1b8ebcc4eb79bb"
+      },
+      "36": {
+        "source_ref": "John 11:36",
+        "source_chapter": 11,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "0c3f1b1296cf0ccdba0033742a66e80d907d94cb4feb774887979a6470edea4f"
+      },
+      "37": {
+        "source_ref": "John 11:37",
+        "source_chapter": 11,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "e5f534bec4f0e610482332390701d3bedb35aa8d9eb8ce555f8c0b7ce2191fef"
+      },
+      "38": {
+        "source_ref": "John 11:38",
+        "source_chapter": 11,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "50e9709a17748a1ebeb90cfb241937d9b0d4ee43b82efc406d30a4edaf37d9d5"
+      },
+      "39": {
+        "source_ref": "John 11:39",
+        "source_chapter": 11,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "ccfb87b3d4af94d730e5823709ec7b1cc8e8c72cf67bd7de834b67bdb90edf65"
+      },
+      "40": {
+        "source_ref": "John 11:40",
+        "source_chapter": 11,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "287e0d7fb15a31573c094ecaaad3cd34fcbf34c4965ab16075a364a788750cab"
+      },
+      "41": {
+        "source_ref": "John 11:41",
+        "source_chapter": 11,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "03c68613a544e4c42b64546d54d59c49e18e733751391a81f34d2bf019d286ff"
+      },
+      "42": {
+        "source_ref": "John 11:42",
+        "source_chapter": 11,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "f8545a031d77e20bd1a7854c458590f7390b224fa3301edda98f8930727ccf49"
+      },
+      "43": {
+        "source_ref": "John 11:43",
+        "source_chapter": 11,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "3ff56a0cb2289e1f4511c5706240921f410cde964bb1a0b5da38d10c6bebc84a"
+      },
+      "44": {
+        "source_ref": "John 11:44",
+        "source_chapter": 11,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "eed2ba3b844af5633c1c370daf8ee782a8070a39ee4fc62acbae9d7f20307c95"
+      },
+      "45": {
+        "source_ref": "John 11:45",
+        "source_chapter": 11,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "4d9dbaeae5c9e95a3d0b74fe831195d4763fc7df7f76abcfd2f8ac037487253f"
+      },
+      "46": {
+        "source_ref": "John 11:46",
+        "source_chapter": 11,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "d4652e1a594245bd27a9c73b17d959ef9cd66d6eb546018e2629795673bc946f"
+      },
+      "47": {
+        "source_ref": "John 11:47",
+        "source_chapter": 11,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "907ea34320d89452e52b9ac98f592272e75057097495cc808ed78fffe4d298d2"
+      },
+      "48": {
+        "source_ref": "John 11:48",
+        "source_chapter": 11,
+        "source_verse": 48,
+        "segment_mode": "whole_record",
+        "sha256": "7233356ea6dea3b2ccc430e145302be047e065aa37476ef839ff2a4cfe9075c0"
+      },
+      "49": {
+        "source_ref": "John 11:49",
+        "source_chapter": 11,
+        "source_verse": 49,
+        "segment_mode": "whole_record",
+        "sha256": "b65309e307b59eb2523f1427620fdfc8cfe614e8afe769585900cff0c227b4a6"
+      },
+      "50": {
+        "source_ref": "John 11:50",
+        "source_chapter": 11,
+        "source_verse": 50,
+        "segment_mode": "whole_record",
+        "sha256": "ef49abec4f9c89de6c1e246d71744d7dc5beca9b3b0ecfc5016ef3f629df9944"
+      },
+      "51": {
+        "source_ref": "John 11:51",
+        "source_chapter": 11,
+        "source_verse": 51,
+        "segment_mode": "whole_record",
+        "sha256": "cb77dfb1581c10248805c18986d2cdca36dfcb7f1f0dd6a451549c3c2ca19a69"
+      },
+      "52": {
+        "source_ref": "John 11:52",
+        "source_chapter": 11,
+        "source_verse": 52,
+        "segment_mode": "whole_record",
+        "sha256": "4c7e5c31aef7debdd6ced91156d8afa30ec64ad2b48d7017139718ca43a3077f"
+      },
+      "53": {
+        "source_ref": "John 11:53",
+        "source_chapter": 11,
+        "source_verse": 53,
+        "segment_mode": "whole_record",
+        "sha256": "f05fbba04c41949a30de3859863073b7db2b6b9ece8c8bb0400fc2ced1615720"
+      },
+      "54": {
+        "source_ref": "John 11:54",
+        "source_chapter": 11,
+        "source_verse": 54,
+        "segment_mode": "whole_record",
+        "sha256": "6e1892ccc2248eb420087491735aedd67769bd7edb129bc3df95aaa0d633b089"
+      },
+      "55": {
+        "source_ref": "John 11:55",
+        "source_chapter": 11,
+        "source_verse": 55,
+        "segment_mode": "whole_record",
+        "sha256": "f260bffc2c0b0f5e4361f69d97274a30bdc3993576ff52d8f92f42036e24b73a"
+      },
+      "56": {
+        "source_ref": "John 11:56",
+        "source_chapter": 11,
+        "source_verse": 56,
+        "segment_mode": "whole_record",
+        "sha256": "9430b4a131fca22dc70b2997ef7c410df1f96b695ffd8df0db606a7c50208754"
+      },
+      "57": {
+        "source_ref": "John 11:57",
+        "source_chapter": 11,
+        "source_verse": 57,
+        "segment_mode": "whole_record",
+        "sha256": "2a4d1cad416269dc8fa4baf5258bbebef6f109e2fc69bd14d7f184d5a2d65281"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_11.md",
+    "blob_sha": "7279b05093fcea971b5fecba720c648523416e53"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

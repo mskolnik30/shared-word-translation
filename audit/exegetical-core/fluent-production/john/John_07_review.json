@@ -1,0 +1,393 @@
+{
+  "book": "John",
+  "chapter": 7,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 53,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 7:1",
+        "source_chapter": 7,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "8d12bf21b0361fa73570e9bb6d43cbc0a519f0101733e91e60df4014fb63ecc5"
+      },
+      "2": {
+        "source_ref": "John 7:2",
+        "source_chapter": 7,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "64ded063ba4af5d27b9f2ca923585ac4ad44421a83ee7cb31a40e9f878b8d959"
+      },
+      "3": {
+        "source_ref": "John 7:3",
+        "source_chapter": 7,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "2b71aa582c53012eadb9576f420478273f7c43da138c537f26940e40a6560e51"
+      },
+      "4": {
+        "source_ref": "John 7:4",
+        "source_chapter": 7,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "41ca35d9950c4bd951dd03ecbd76da0cbedaf4f977a6043dd940ec1c590a6651"
+      },
+      "5": {
+        "source_ref": "John 7:5",
+        "source_chapter": 7,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "3afdd6fb27d8ee31724e10502915aba86130d1117b45bba4bcacd8e9407388ae"
+      },
+      "6": {
+        "source_ref": "John 7:6",
+        "source_chapter": 7,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "da1cb467fa9f35be569c2326fb18e85276309d23ac0a9938937204c69c3e152d"
+      },
+      "7": {
+        "source_ref": "John 7:7",
+        "source_chapter": 7,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "0665546488b49a5541a74a36613be129d124adcd87945854a4f2aeeab95d1898"
+      },
+      "8": {
+        "source_ref": "John 7:8",
+        "source_chapter": 7,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "749597d854debdb7f8a33691ea11d130a2366e4208f89239cc7b102e4fd1bcb6"
+      },
+      "9": {
+        "source_ref": "John 7:9",
+        "source_chapter": 7,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "bd0c3ab17cf97297bd016eeabc9f98578709fae3e7d0e79eed4179eeb95a3c71"
+      },
+      "10": {
+        "source_ref": "John 7:10",
+        "source_chapter": 7,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "241280948cca3b6ea8da2fbce3a08b1f175e8561c85d137b393b9089eca5f1a2"
+      },
+      "11": {
+        "source_ref": "John 7:11",
+        "source_chapter": 7,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "4eb344424aa55fa6c2933005f20cad3365dddf1f7270be53b139ef13a22b4213"
+      },
+      "12": {
+        "source_ref": "John 7:12",
+        "source_chapter": 7,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "e0f8265163fde6fa644312147f44813a59761b245ff93a0da078a6e4d7492cb9"
+      },
+      "13": {
+        "source_ref": "John 7:13",
+        "source_chapter": 7,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "82dd542e7b1da52113ee0328d9610ed818549dd1ae7e1188b357c987ec4e9b58"
+      },
+      "14": {
+        "source_ref": "John 7:14",
+        "source_chapter": 7,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "12eabab04a64dcd618bdd018b07b769d4252d9f60e2e5fc73e9b53e8855ae275"
+      },
+      "15": {
+        "source_ref": "John 7:15",
+        "source_chapter": 7,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "aeebcf5598df1c53a2631286eeb6fd8d6027411aab892928efb166c488377c81"
+      },
+      "16": {
+        "source_ref": "John 7:16",
+        "source_chapter": 7,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "d32f345f10dc973cd6c7b7b5209416f34d8b2338e2dba570ef545ab5db38220e"
+      },
+      "17": {
+        "source_ref": "John 7:17",
+        "source_chapter": 7,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "85059c6d788f6bb4d9dda67245bf0f02e7253ea6bea337670f3cd9fbf554aac2"
+      },
+      "18": {
+        "source_ref": "John 7:18",
+        "source_chapter": 7,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "a85622b1438e1f0ceff96f01f6fec031810768e88acb3882ebdede4d80cf358b"
+      },
+      "19": {
+        "source_ref": "John 7:19",
+        "source_chapter": 7,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "ac067998c873324fc86c6854b20425111c843225e2aaf360b8ac44a4f6d947d8"
+      },
+      "20": {
+        "source_ref": "John 7:20",
+        "source_chapter": 7,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "8591305921ea63150c3fd949c1a40382c6e4c142a54008d5b8ec2079b2b50244"
+      },
+      "21": {
+        "source_ref": "John 7:21",
+        "source_chapter": 7,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "f7456c0fc2708340f7e88e43ee5ece0142f80d599ea0184c6dbe77b7fb84a2c3"
+      },
+      "22": {
+        "source_ref": "John 7:22",
+        "source_chapter": 7,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "3909b6e09822711b7ab019fd4766424bf7f599a0e150adbb9206b6131352ec68"
+      },
+      "23": {
+        "source_ref": "John 7:23",
+        "source_chapter": 7,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "df50e70b49955f9058e47b78388c3820e524f7d0650c82eac4182461ec54953e"
+      },
+      "24": {
+        "source_ref": "John 7:24",
+        "source_chapter": 7,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "e8f9bcd07f9fa6dc57a963afce1aab4864cc8d246e854236777df80cc3eb73f0"
+      },
+      "25": {
+        "source_ref": "John 7:25",
+        "source_chapter": 7,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "a716e6f3b0eef605a5333a46c43c99e7e36d61881d9e97a4dfa6debcb00f8a7a"
+      },
+      "26": {
+        "source_ref": "John 7:26",
+        "source_chapter": 7,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "906c7e6e2f302623f84ea5494349adfb2451ab72bd29471728ad389156cbea08"
+      },
+      "27": {
+        "source_ref": "John 7:27",
+        "source_chapter": 7,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "4fbf305ad4794fbac3829b5f4f5c900ce59b1f8174fb27e664accb15e49d72b3"
+      },
+      "28": {
+        "source_ref": "John 7:28",
+        "source_chapter": 7,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "c238e52238cdf037922c9a86914c7eba3bf9a1e4ff3544837b6c13167c231cdf"
+      },
+      "29": {
+        "source_ref": "John 7:29",
+        "source_chapter": 7,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "42a187f61b1d51c9e58a09b375826cbd7656f63da060408529aeaff1c19384c9"
+      },
+      "30": {
+        "source_ref": "John 7:30",
+        "source_chapter": 7,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "13b8d703cabc9c009567821e3ee5fb111aa5cbbaefc98865b9c2490da49ef730"
+      },
+      "31": {
+        "source_ref": "John 7:31",
+        "source_chapter": 7,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "8db0c2ff3ca167617b12c0325c63fe26c5fa5f56bf2d76ba623d80e81990973d"
+      },
+      "32": {
+        "source_ref": "John 7:32",
+        "source_chapter": 7,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "c9a5ab0ec22846577c6d3c4a026a3a6e51cca2dd9901ffa1938f9982533c77bc"
+      },
+      "33": {
+        "source_ref": "John 7:33",
+        "source_chapter": 7,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "dbe42427ac34bc6dd998a73994f68b6ff8a6df4ab3d827aa0814ab6b463aa1a7"
+      },
+      "34": {
+        "source_ref": "John 7:34",
+        "source_chapter": 7,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "9f3c6cb65ad6106232d7e8efd6fc3ac3b352f3f76218acec26a03a3ee1ed7b58"
+      },
+      "35": {
+        "source_ref": "John 7:35",
+        "source_chapter": 7,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "23cdcf202ff3f88eda8ce5b4660d4bd2acbf25d726017cb6d67e4dc0109383e2"
+      },
+      "36": {
+        "source_ref": "John 7:36",
+        "source_chapter": 7,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "99e3ff4b2ee4f1f53992c4bb5da874d7ad12c4bfa72c1833ecce208c5de4628c"
+      },
+      "37": {
+        "source_ref": "John 7:37",
+        "source_chapter": 7,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "96ffe004ae4ef29339270cac018935f79e1d2a5019788e2fe9bda683ece0e038"
+      },
+      "38": {
+        "source_ref": "John 7:38",
+        "source_chapter": 7,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "e4f50e7854812e1f22906ee5dbfa23e220eda2de5526d61eb69d8c3eda2f46b1"
+      },
+      "39": {
+        "source_ref": "John 7:39",
+        "source_chapter": 7,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "924aa8acb3dab31cd436e5bd19a58d2cdd0aacd8c8128029c8162aba469bff55"
+      },
+      "40": {
+        "source_ref": "John 7:40",
+        "source_chapter": 7,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "f30f33822eae16ba714c9bda78b31a1f7a8551e2a5c5114ba2a6ea039cad5832"
+      },
+      "41": {
+        "source_ref": "John 7:41",
+        "source_chapter": 7,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "0c2449b71bf43283af7f8b8768edee5c63bc46410a05cb8f05a7d39fef84d1e0"
+      },
+      "42": {
+        "source_ref": "John 7:42",
+        "source_chapter": 7,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "b4a185de1ee5723105545bd6360f0bc971fe4523733ac2fd658fd1585a93bb2a"
+      },
+      "43": {
+        "source_ref": "John 7:43",
+        "source_chapter": 7,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "957110090e99e3fe5df674279bf3ce0d81a8f8f65f3bb6ccec98d40dc02273fc"
+      },
+      "44": {
+        "source_ref": "John 7:44",
+        "source_chapter": 7,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "af14738613bdaeb619b50f120bf67680315c150e1d469803b05e38a88a7deb52"
+      },
+      "45": {
+        "source_ref": "John 7:45",
+        "source_chapter": 7,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "5011e01559d42942fe3dbf277650ec98cb1339eeab8af1e63eac248ca3a2c8d6"
+      },
+      "46": {
+        "source_ref": "John 7:46",
+        "source_chapter": 7,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "473f437bb1d74cdb1be86364304eed5554449f90efe1b316f03cfaa743bc4945"
+      },
+      "47": {
+        "source_ref": "John 7:47",
+        "source_chapter": 7,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "39ae166c93c9ff0009afbc533a8685f5ae0e7139ae82044b70e907fd2d6ead45"
+      },
+      "48": {
+        "source_ref": "John 7:48",
+        "source_chapter": 7,
+        "source_verse": 48,
+        "segment_mode": "whole_record",
+        "sha256": "c83c334f56e21d110dbe22fa517a0575b7f156d4bc02862f062b590a68e22d9c"
+      },
+      "49": {
+        "source_ref": "John 7:49",
+        "source_chapter": 7,
+        "source_verse": 49,
+        "segment_mode": "whole_record",
+        "sha256": "17e41c7abe71b0a6ae8f29b3d7ca97fc3654f189347aba817f37025538a1af71"
+      },
+      "50": {
+        "source_ref": "John 7:50",
+        "source_chapter": 7,
+        "source_verse": 50,
+        "segment_mode": "whole_record",
+        "sha256": "64dcd36bb225461c920eccf30e7a6783fec137c08c91af0d0dd194d808435752"
+      },
+      "51": {
+        "source_ref": "John 7:51",
+        "source_chapter": 7,
+        "source_verse": 51,
+        "segment_mode": "whole_record",
+        "sha256": "2cc0ab26d143da8fb51d2c97c5e5516410bc1cd16b07e06eec941a7eebe226c0"
+      },
+      "52": {
+        "source_ref": "John 7:52",
+        "source_chapter": 7,
+        "source_verse": 52,
+        "segment_mode": "whole_record",
+        "sha256": "258e2fc9ceb601c2e299a084ecc3f0effd29fb0beea7407e5896c323eda836e4"
+      },
+      "53": {
+        "source_ref": "John 7:53",
+        "source_chapter": 7,
+        "source_verse": 53,
+        "segment_mode": "whole_record",
+        "sha256": "e43e46fd0c1f99e9afdbba07abbab0ce9ac458b187dcd9b6de5aeb40efa0d9c7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_07.md",
+    "blob_sha": "c790d9227f4fb74e5416ac28aa5ef1ed578c7498"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
