@@ -1,0 +1,295 @@
+{
+  "book": "Luke",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 39,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt",
+    "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Luke 5:1",
+        "source_chapter": 5,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "c4a504552a93a47051b8fec3a98afcf7d968d21d0cbcb648c005beec72dc18bb"
+      },
+      "2": {
+        "source_ref": "Luke 5:2",
+        "source_chapter": 5,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "27249022c03a623b046858a9d5207285de64049cedfed2c88dd95999fe0bcfaa"
+      },
+      "3": {
+        "source_ref": "Luke 5:3",
+        "source_chapter": 5,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "2852498bc32b7ff3b50f32721ee021f04a987c30e588c3f5263b0ad66d13c4fc"
+      },
+      "4": {
+        "source_ref": "Luke 5:4",
+        "source_chapter": 5,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "36ddb206f75f47955dacd365d56b51717b4c192e557c7fc39ed1d02615738dc3"
+      },
+      "5": {
+        "source_ref": "Luke 5:5",
+        "source_chapter": 5,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "2488bc52af85af652dbafd10dcef7f9deaa21584f7a54220e316d70e237569d3"
+      },
+      "6": {
+        "source_ref": "Luke 5:6",
+        "source_chapter": 5,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "f744b31f3af999ad5d3b65fa48c1e596263ae00dd9ed108c180003885ec62aa8"
+      },
+      "7": {
+        "source_ref": "Luke 5:7",
+        "source_chapter": 5,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "0633a47b011910be983a97853efc1665ea9f98440d80a91a8885c5336011249d"
+      },
+      "8": {
+        "source_ref": "Luke 5:8",
+        "source_chapter": 5,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "8db0edfecb64087dba2462c8f3e38833b648b76d83a5b04f383fc79101b69ecf"
+      },
+      "9": {
+        "source_ref": "Luke 5:9",
+        "source_chapter": 5,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "9f53a93fe9178206195cf5b780443d7ec9d66d3de6e0043c9fab0748793b11e0"
+      },
+      "10": {
+        "source_ref": "Luke 5:10",
+        "source_chapter": 5,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "52c6b0de37d425b9bdc463f073bf81617486f116c72fbe322c5656359d5964ab"
+      },
+      "11": {
+        "source_ref": "Luke 5:11",
+        "source_chapter": 5,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "01fcdbb135b073331cf8218c9d768060d734ef3b993a9a0276003c824e86e383"
+      },
+      "12": {
+        "source_ref": "Luke 5:12",
+        "source_chapter": 5,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "edb3851517ed545cd6ad0ee91f3a5cb509580a9eddf414f20a8d8fe6a7a66956"
+      },
+      "13": {
+        "source_ref": "Luke 5:13",
+        "source_chapter": 5,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "fb8fcbd92059987b9fd25f1b1d471f1f4fc4af68a09023579dd042de49aafd1a"
+      },
+      "14": {
+        "source_ref": "Luke 5:14",
+        "source_chapter": 5,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "de8d0d0f8aa3dc5178e9a5b66ac6a5b203365f47d78ef93efa4bec23096aa4a7"
+      },
+      "15": {
+        "source_ref": "Luke 5:15",
+        "source_chapter": 5,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "b2dd98159e2ae217ffd9c931c9a581df12debd2f3351ac6af343542fb1275510"
+      },
+      "16": {
+        "source_ref": "Luke 5:16",
+        "source_chapter": 5,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "639359c98e57f74545c1a1ed80d4d0205901d069e0fcc3a3f03817df96f08ba3"
+      },
+      "17": {
+        "source_ref": "Luke 5:17",
+        "source_chapter": 5,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "0332545b9cb82df09ae9f2f318bd1d1aac5e953e9c9cc40b90374b6a979e8a4e"
+      },
+      "18": {
+        "source_ref": "Luke 5:18",
+        "source_chapter": 5,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "8329128eefce60e221102e0155933b0a2f48c6d37c7cd4d376269672fc57f135"
+      },
+      "19": {
+        "source_ref": "Luke 5:19",
+        "source_chapter": 5,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "9d1f76573147f749658a283b00b364b497a045eec8e1d07901fa030e9357d2cd"
+      },
+      "20": {
+        "source_ref": "Luke 5:20",
+        "source_chapter": 5,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "2b424f5e5d99da2778f92e70d6593651f149b24d6b4451e4efbed9ff80cfa1f2"
+      },
+      "21": {
+        "source_ref": "Luke 5:21",
+        "source_chapter": 5,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "c61c0fa9e04c72b0fe6617d8aeb20308acaf58e67a84ba8f68f2455ce9d99dd3"
+      },
+      "22": {
+        "source_ref": "Luke 5:22",
+        "source_chapter": 5,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "c0b98d6db10fc86a6f5bd37ba12a764b5a09e93c4675b18dfa0eddd0adcee539"
+      },
+      "23": {
+        "source_ref": "Luke 5:23",
+        "source_chapter": 5,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "f56c064494c095a5c6fdc9312b21f55569e80ab6d74cf1d7fcffb7a5c272dfdc"
+      },
+      "24": {
+        "source_ref": "Luke 5:24",
+        "source_chapter": 5,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "d73903e6ec79a5acd7b1504735a5f84a4283725161d2774a8edbc953ce6b9682"
+      },
+      "25": {
+        "source_ref": "Luke 5:25",
+        "source_chapter": 5,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "962d839250523d4d74dda58a43f5b0fc66c99ce1c0e6387987b88fa4ce6a26ba"
+      },
+      "26": {
+        "source_ref": "Luke 5:26",
+        "source_chapter": 5,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "82d2ba485f04aabb48c81832da11add53cf911edd88efa2bf39d1a1fbeb5b3b0"
+      },
+      "27": {
+        "source_ref": "Luke 5:27",
+        "source_chapter": 5,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "98b4464ad4c6da0679fb86a07ba33167e3af48bdbea3371ac86519e0009b6075"
+      },
+      "28": {
+        "source_ref": "Luke 5:28",
+        "source_chapter": 5,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "019b57cd8b4867580e042233ce74e3b2de8cfe430895445caa3d56c2fdd71102"
+      },
+      "29": {
+        "source_ref": "Luke 5:29",
+        "source_chapter": 5,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "f33d45dc2e6d076b2ff12be7b74a41a3cd30936200cedb309a7eef04360f2437"
+      },
+      "30": {
+        "source_ref": "Luke 5:30",
+        "source_chapter": 5,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "0a21a8bc7a95e0db6b062d054d4a98d73e7ace36eec052ba1a81c6db5fd26cb3"
+      },
+      "31": {
+        "source_ref": "Luke 5:31",
+        "source_chapter": 5,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "56f08858eb86ac5be69c66f7a2c03a84f191130def16d2e5b6662f976d666e54"
+      },
+      "32": {
+        "source_ref": "Luke 5:32",
+        "source_chapter": 5,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "ee8bf385d5cf69fe136766d41a7b8e6241186faa6f0f0c3d267302a4bce03a45"
+      },
+      "33": {
+        "source_ref": "Luke 5:33",
+        "source_chapter": 5,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "d2a2afbaf272e645977b093fb711dd707cdf46061dc34fa23e326ebac2012b92"
+      },
+      "34": {
+        "source_ref": "Luke 5:34",
+        "source_chapter": 5,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "b1c6046b186f785f7f48af2314bc31f3d3a4091b8dd5d57f65061c3d9bae877a"
+      },
+      "35": {
+        "source_ref": "Luke 5:35",
+        "source_chapter": 5,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "6e1f17172cf8046e9dfc71035a13d1b9fcd6396a0805270377935d29a3ba2fc1"
+      },
+      "36": {
+        "source_ref": "Luke 5:36",
+        "source_chapter": 5,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "181c4933a7442228e5d3b4dad8d57e14d00803526afafdbc77928d9c86af0890"
+      },
+      "37": {
+        "source_ref": "Luke 5:37",
+        "source_chapter": 5,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "63e75dc18a2fd777835590ce8ba65c0bb4c4079043151fed510fbc9de91f28a3"
+      },
+      "38": {
+        "source_ref": "Luke 5:38",
+        "source_chapter": 5,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "6898efb69a4993042e3de628adf9e5661749f9959abfb23a55480ed6759b2f42"
+      },
+      "39": {
+        "source_ref": "Luke 5:39",
+        "source_chapter": 5,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "399a30d57e194837e05ff937709578d1cc277897de9855bce3b9f6066b3c682f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/luke/Luke_05.md",
+    "blob_sha": "fc834bcb848cba5d7bae82ad668a9b76a664842e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

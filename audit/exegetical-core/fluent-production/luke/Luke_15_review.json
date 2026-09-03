@@ -1,0 +1,246 @@
+{
+  "book": "Luke",
+  "chapter": 15,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 32,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt",
+    "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Luke 15:1",
+        "source_chapter": 15,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "41b6ae560195aec6c0b55cdb0f5904beec223a14590db5524130e8e5edfe9846"
+      },
+      "2": {
+        "source_ref": "Luke 15:2",
+        "source_chapter": 15,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "f8aa0781edb1c0c59955b33f34fa870b3442d9fef36afa87353bd1925b62619f"
+      },
+      "3": {
+        "source_ref": "Luke 15:3",
+        "source_chapter": 15,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "43fe8af8343eca8ef1c78666455b09eb7f4dd80b92515f3515ce16e00bf256ad"
+      },
+      "4": {
+        "source_ref": "Luke 15:4",
+        "source_chapter": 15,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "aff4905f4f5cff2ce62f99c75715da27bf92611708fce57ab00e3536a721f020"
+      },
+      "5": {
+        "source_ref": "Luke 15:5",
+        "source_chapter": 15,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "f855b32a4ec495e7b9fb34ad6a1d069b3ad132948a1541f00de27148781ed47e"
+      },
+      "6": {
+        "source_ref": "Luke 15:6",
+        "source_chapter": 15,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "06a89c2f20b47aa566a541256a0f403b0ca373adedf2cb1b292478977fbb1c0b"
+      },
+      "7": {
+        "source_ref": "Luke 15:7",
+        "source_chapter": 15,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "1f8d5693c8eb494607b7b5d3304f68c72af98a5f8593497be9b9d62411bdffb7"
+      },
+      "8": {
+        "source_ref": "Luke 15:8",
+        "source_chapter": 15,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "2cde3d54ad6e375fee6d44f3e63417ab1785867dfeef02701f7289f75ad3d735"
+      },
+      "9": {
+        "source_ref": "Luke 15:9",
+        "source_chapter": 15,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "e34fed97a66b4cccaf51aefb4ce2c122ff043a1bb809ee24858291e4038c4cbe"
+      },
+      "10": {
+        "source_ref": "Luke 15:10",
+        "source_chapter": 15,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "c9a9703821282586d983eb8c13d52bac6820eb4402aa453608237f56d49958b7"
+      },
+      "11": {
+        "source_ref": "Luke 15:11",
+        "source_chapter": 15,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "a450eea36d2021a2e8f4667383eb136eea08464474a639154f2a72def8c872b4"
+      },
+      "12": {
+        "source_ref": "Luke 15:12",
+        "source_chapter": 15,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "11c3efbe6189ad88bb916f7ae6a11f0a33a65e5802e13148974e2c35af8d241f"
+      },
+      "13": {
+        "source_ref": "Luke 15:13",
+        "source_chapter": 15,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "249f8ad2e047beea3c554d0a4cab91843015abc5a63c79c098042390578f366b"
+      },
+      "14": {
+        "source_ref": "Luke 15:14",
+        "source_chapter": 15,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "845d5da4124102dccd1aafd2efad7758fff75cd0fe4dee63fab805af74a0ce54"
+      },
+      "15": {
+        "source_ref": "Luke 15:15",
+        "source_chapter": 15,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "044805ee3107b50a6a8d14a3e408c03e30fff209c58e190038c7604b5d21caa3"
+      },
+      "16": {
+        "source_ref": "Luke 15:16",
+        "source_chapter": 15,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "848b9e2b419073af012fc9263df573959f60c87b926ac9ecaf6a845c46a2f440"
+      },
+      "17": {
+        "source_ref": "Luke 15:17",
+        "source_chapter": 15,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "c84b492c2e4b2b40cf9509c0ea167737d09b88b4fd43f8b9574e437dcf3936c2"
+      },
+      "18": {
+        "source_ref": "Luke 15:18",
+        "source_chapter": 15,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "88317dff780b53f0ce21474f231c3e8638ac119168eac70b42b77881bca6a819"
+      },
+      "19": {
+        "source_ref": "Luke 15:19",
+        "source_chapter": 15,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "3bf56ce93d99c3fcc7756740035b131e13134691d45b051955b014e502d2025c"
+      },
+      "20": {
+        "source_ref": "Luke 15:20",
+        "source_chapter": 15,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "f4dd33b7b62cb9d186a0803c5d6259cbf79f4c96f770b971a2e44f67fc149678"
+      },
+      "21": {
+        "source_ref": "Luke 15:21",
+        "source_chapter": 15,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "00e897ea61892fca529cf8130f53d8cfcb953fe781d92159b54d1209a19a7327"
+      },
+      "22": {
+        "source_ref": "Luke 15:22",
+        "source_chapter": 15,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "a344a59365c45aba50296981eaaa8e9552c2aa632f28d764ec3923d102e07ebd"
+      },
+      "23": {
+        "source_ref": "Luke 15:23",
+        "source_chapter": 15,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "b6f4afe6bc8d54dbbb5fe1010112ec616845b6a150479643cfe10b0219238da3"
+      },
+      "24": {
+        "source_ref": "Luke 15:24",
+        "source_chapter": 15,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "d55b459f4516cff078898b8e3e3d5b31bc66ee76ddbaff3289edef2ca3b59666"
+      },
+      "25": {
+        "source_ref": "Luke 15:25",
+        "source_chapter": 15,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "cca975c641c11198ddf68e4c3ace3906a810c921c74e67ec3e4a64dea949aa1c"
+      },
+      "26": {
+        "source_ref": "Luke 15:26",
+        "source_chapter": 15,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "90501de6e40e6d03e3406bfe2360e1abc6c7351144901ef083d0122c847fa1ec"
+      },
+      "27": {
+        "source_ref": "Luke 15:27",
+        "source_chapter": 15,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "c6650b7b9f069c351e56eff8c5ecaa4e4087cb3faeadc651021bf3c3c604d8c7"
+      },
+      "28": {
+        "source_ref": "Luke 15:28",
+        "source_chapter": 15,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "5656324f8682448af1e52b7ab261894a44d5b905d4c4114db6b66fd9fb91305d"
+      },
+      "29": {
+        "source_ref": "Luke 15:29",
+        "source_chapter": 15,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "652b4da21d51abcadcb5fb363591b7beadaceee571b0e12291bc3ff6ecd37378"
+      },
+      "30": {
+        "source_ref": "Luke 15:30",
+        "source_chapter": 15,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "0f6db9d4aad7edfbb6f5157102e162e9938ea9517051177baa05b6252288b9e4"
+      },
+      "31": {
+        "source_ref": "Luke 15:31",
+        "source_chapter": 15,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "6c6a30d43c4f2cfdfac823cd36b5e8367a39ba6d3f9535028577ee464c4274be"
+      },
+      "32": {
+        "source_ref": "Luke 15:32",
+        "source_chapter": 15,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "86bfe3ae5687f127e06d450aec67df71c6f866e971cb255be20c1ec34412e324"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/luke/Luke_15.md",
+    "blob_sha": "61898edde98ef04eda49a6523224edfab2ea7d5c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

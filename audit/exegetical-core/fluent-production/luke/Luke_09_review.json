@@ -1,0 +1,456 @@
+{
+  "book": "Luke",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 62,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt",
+    "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Luke 9:1",
+        "source_chapter": 9,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "85bf4676cc7ebde04576de89593abe6ae3a17999df805ee8730fe2000829ea7d"
+      },
+      "2": {
+        "source_ref": "Luke 9:2",
+        "source_chapter": 9,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "4a8b94c199903015ce87f753828fa4f6870156d25a3f2cb4f7d962fc40b783fe"
+      },
+      "3": {
+        "source_ref": "Luke 9:3",
+        "source_chapter": 9,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "4c0ed25044bcb5d0ce36800d4cc5dee6f70209325c38ad36ea2858de9fd8eb72"
+      },
+      "4": {
+        "source_ref": "Luke 9:4",
+        "source_chapter": 9,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "78c79f7721f0a61b2277f243aa46cbe9750929503bab13c839e34cf73f2b3b45"
+      },
+      "5": {
+        "source_ref": "Luke 9:5",
+        "source_chapter": 9,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "a6f1fa39186502f17b2f1c1c74994eaba1330b90a75f9baeaa493edd36f5cf04"
+      },
+      "6": {
+        "source_ref": "Luke 9:6",
+        "source_chapter": 9,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "14989739420b6f096d039d3b28353482ff390e47fa5799f177eb741b6e8e7fd0"
+      },
+      "7": {
+        "source_ref": "Luke 9:7",
+        "source_chapter": 9,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "83a9e2d3e0e6c5091eba50a76574085d7ed3dc5ab4a2f38f17224ec33cc1aa54"
+      },
+      "8": {
+        "source_ref": "Luke 9:8",
+        "source_chapter": 9,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "c9dafe8e15160d17182088c5c89911315cb9ef2d872924c4135c79ce871ccb4c"
+      },
+      "9": {
+        "source_ref": "Luke 9:9",
+        "source_chapter": 9,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "46b8c4c0c7b257c8157ee7a0ab5e657a02361fb080decd8f87599b3518788ffc"
+      },
+      "10": {
+        "source_ref": "Luke 9:10",
+        "source_chapter": 9,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "9ca7f6678eea5fdbb0a9e71d105ac229ae3d6b9fcb32143dbd50399329e19737"
+      },
+      "11": {
+        "source_ref": "Luke 9:11",
+        "source_chapter": 9,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "3fcd3da96914861e823488bc3da49a1ffa672e44d8c731aee1d133549dfec5df"
+      },
+      "12": {
+        "source_ref": "Luke 9:12",
+        "source_chapter": 9,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "932cdb6063efe7e9135f278609a575ca7d48d87a18f1efaa0e4eba5662914858"
+      },
+      "13": {
+        "source_ref": "Luke 9:13",
+        "source_chapter": 9,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "057b345ab03492b55d351c7ba1de6606bdf35cf88146ce675a9e70c67f8d7ff0"
+      },
+      "14": {
+        "source_ref": "Luke 9:14",
+        "source_chapter": 9,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "d388f78f5cd7d5b572deff03949eb48feb7512263b71c6de5806f21d18690abe"
+      },
+      "15": {
+        "source_ref": "Luke 9:15",
+        "source_chapter": 9,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "63ce30d0d1a810c5a652b2b79495f9afc6b066b95f40d401f30298a31748ac67"
+      },
+      "16": {
+        "source_ref": "Luke 9:16",
+        "source_chapter": 9,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "74622560759bde9fa6f65ca04f6789bd96d669181abd3343cbf66ab1947d2473"
+      },
+      "17": {
+        "source_ref": "Luke 9:17",
+        "source_chapter": 9,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "b45b443006b8ec2c1636bd8dcdb3c460d17626c6309621190924ab2aff3b2293"
+      },
+      "18": {
+        "source_ref": "Luke 9:18",
+        "source_chapter": 9,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "0275e7e8a7101a0fa799feef00677cf0fc3a70d3af953bf2e25555bbe35a4de8"
+      },
+      "19": {
+        "source_ref": "Luke 9:19",
+        "source_chapter": 9,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "e034968658c61e6b483b5290e5eca8386f766e8f75138b06a524fb01e24e07f2"
+      },
+      "20": {
+        "source_ref": "Luke 9:20",
+        "source_chapter": 9,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "55a65d5588ad636af5db0b30f3c14144da81492e2b949908660d23669761c561"
+      },
+      "21": {
+        "source_ref": "Luke 9:21",
+        "source_chapter": 9,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "a01bf3d79a401a1d068ef30725b1abf6783da69fb385e5aa62c5cf6f396bd0bb"
+      },
+      "22": {
+        "source_ref": "Luke 9:22",
+        "source_chapter": 9,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "ce817acc992c772d1458065b80edc97cac7f25daece46cb6eeccc3af9f65752b"
+      },
+      "23": {
+        "source_ref": "Luke 9:23",
+        "source_chapter": 9,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "eeab0f93ad05bd77968f1f6bb60b1577594f5c55acd91082bc0df36b842d2b3e"
+      },
+      "24": {
+        "source_ref": "Luke 9:24",
+        "source_chapter": 9,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "97cf41f899267f34453e985c9586f6c098ecce138f337903c307840698cc1a85"
+      },
+      "25": {
+        "source_ref": "Luke 9:25",
+        "source_chapter": 9,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "e1247a0cbabcae9b5133b2b886ed106bda441c9a49a1ad13c53b020a23bf08d2"
+      },
+      "26": {
+        "source_ref": "Luke 9:26",
+        "source_chapter": 9,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "6e80e7d85f310407214b4c6459ce5a1da6e1f7e5701af0c1f9e2465bdaf2ea53"
+      },
+      "27": {
+        "source_ref": "Luke 9:27",
+        "source_chapter": 9,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "7b1e6a82910abc41bd87a98f4bc8ea2ea68589018f9c9837b1d75301a3213f54"
+      },
+      "28": {
+        "source_ref": "Luke 9:28",
+        "source_chapter": 9,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "78d56b98653302192f1ca180db679b35fce028c95c41c953c9995e96909a4b6f"
+      },
+      "29": {
+        "source_ref": "Luke 9:29",
+        "source_chapter": 9,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "fc5fb4d07346b1fd783ea12e9c7d289b99a0ab4aa5d402614b677addafa7518a"
+      },
+      "30": {
+        "source_ref": "Luke 9:30",
+        "source_chapter": 9,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "1e7a5689729b49630e8c21468677b2bf6dbdf683ac33341fe89105a03151f09d"
+      },
+      "31": {
+        "source_ref": "Luke 9:31",
+        "source_chapter": 9,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "ddc64a5df5572494ef5541c92ab0c18116d43c7d3dda8007366b06de327327b2"
+      },
+      "32": {
+        "source_ref": "Luke 9:32",
+        "source_chapter": 9,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "7046534207c4d851c46a00dc9d3475940342e71730b67ba61efa407945bc7c3a"
+      },
+      "33": {
+        "source_ref": "Luke 9:33",
+        "source_chapter": 9,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "ad406455e41bd6ab726410e2ddafb1c82ef9b751355ff76aef7730eedfbccceb"
+      },
+      "34": {
+        "source_ref": "Luke 9:34",
+        "source_chapter": 9,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "6e1362a7be42220781838cc60c2fa7dd2de95108fd9d61664cb826c2385aba73"
+      },
+      "35": {
+        "source_ref": "Luke 9:35",
+        "source_chapter": 9,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "77f930ac40dfd2a9ec8f48d74fb0293429901189334bd4fb9e5addbf4427a1e5"
+      },
+      "36": {
+        "source_ref": "Luke 9:36",
+        "source_chapter": 9,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "65d80098ae19315de4a148fcaccfed3ddf16302f9d503b45e676e5609e05393e"
+      },
+      "37": {
+        "source_ref": "Luke 9:37",
+        "source_chapter": 9,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "23af0f283509be28d36a2c48fa6a1e4d53a14c495ecb9ea01076ff9a44f883d8"
+      },
+      "38": {
+        "source_ref": "Luke 9:38",
+        "source_chapter": 9,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "1284b230687146b0f83f96b253a77f8fce828013304b2a4e9566e31ac3d673ea"
+      },
+      "39": {
+        "source_ref": "Luke 9:39",
+        "source_chapter": 9,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "9d2b175feadb1cf34996279c8742edf3f4bda16a9e77a8078356848d43f9178e"
+      },
+      "40": {
+        "source_ref": "Luke 9:40",
+        "source_chapter": 9,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "c89d7d2c707c245d5fa4f876d4da49e577355dc6dfe19d976b1c0020aaced2ef"
+      },
+      "41": {
+        "source_ref": "Luke 9:41",
+        "source_chapter": 9,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "ef71a03ef9c91811466a77e4b52f550e5a9b3420a4db800838cbc78691a78d49"
+      },
+      "42": {
+        "source_ref": "Luke 9:42",
+        "source_chapter": 9,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "aa9c804170279d553c2b3f52e6ae98dbdb762898c659d51944e302b6aa1d7940"
+      },
+      "43": {
+        "source_ref": "Luke 9:43",
+        "source_chapter": 9,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "1db22d9ac9a4df268206d7061588b95218adade30b7f4e78eebfb81a99382387"
+      },
+      "44": {
+        "source_ref": "Luke 9:44",
+        "source_chapter": 9,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "0529d566482ae78b7ebf8e2a8d73b83760c211a97c0982f5e0b63897464807ec"
+      },
+      "45": {
+        "source_ref": "Luke 9:45",
+        "source_chapter": 9,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "b6238e4a9eb025171ff5cafae0d0377a09073e18f06836b0f0ebbc182e237769"
+      },
+      "46": {
+        "source_ref": "Luke 9:46",
+        "source_chapter": 9,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "8856170ebc744c07bdfa8cbf82e24fadedd20dc3207132877bf5728a6699adc7"
+      },
+      "47": {
+        "source_ref": "Luke 9:47",
+        "source_chapter": 9,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "79050a1e88bd9bd99135dcbf3b92b3c096560224324bf2ed1dae0ef9b4aa7e40"
+      },
+      "48": {
+        "source_ref": "Luke 9:48",
+        "source_chapter": 9,
+        "source_verse": 48,
+        "segment_mode": "whole_record",
+        "sha256": "04c64536084010ca0f4ee193d801435a162617e45e158133a261b4076a883901"
+      },
+      "49": {
+        "source_ref": "Luke 9:49",
+        "source_chapter": 9,
+        "source_verse": 49,
+        "segment_mode": "whole_record",
+        "sha256": "c7c2fcfa927a2e150ee1585dffda8abedee4dc50976378617928c286d2919205"
+      },
+      "50": {
+        "source_ref": "Luke 9:50",
+        "source_chapter": 9,
+        "source_verse": 50,
+        "segment_mode": "whole_record",
+        "sha256": "5ec5f7a0807fab0f437cdf36736b8a1de6e93cd79ddb59bdc96b9d0d97b527e4"
+      },
+      "51": {
+        "source_ref": "Luke 9:51",
+        "source_chapter": 9,
+        "source_verse": 51,
+        "segment_mode": "whole_record",
+        "sha256": "f86d217f351527a79a09f36d654d47ee0caa2b252e44c1e94566215aa3f71b32"
+      },
+      "52": {
+        "source_ref": "Luke 9:52",
+        "source_chapter": 9,
+        "source_verse": 52,
+        "segment_mode": "whole_record",
+        "sha256": "58b029a727527b6fa2e4460e9dfdc4cd56929c42882a93eab091d9a188186f8c"
+      },
+      "53": {
+        "source_ref": "Luke 9:53",
+        "source_chapter": 9,
+        "source_verse": 53,
+        "segment_mode": "whole_record",
+        "sha256": "2ea4b7fdfb2d9595a71671be4378c609034fed184d211252b8ed9230b245a3d7"
+      },
+      "54": {
+        "source_ref": "Luke 9:54",
+        "source_chapter": 9,
+        "source_verse": 54,
+        "segment_mode": "whole_record",
+        "sha256": "553b8511996e2e75b2eb238f3bdf83dea221a6da0dafa362526ce75859dc51b9"
+      },
+      "55": {
+        "source_ref": "Luke 9:55",
+        "source_chapter": 9,
+        "source_verse": 55,
+        "segment_mode": "whole_record",
+        "sha256": "9413438a49cb425b8f023591634288dd47686e1c9384393cce4bc6baa4917f9a"
+      },
+      "56": {
+        "source_ref": "Luke 9:56",
+        "source_chapter": 9,
+        "source_verse": 56,
+        "segment_mode": "whole_record",
+        "sha256": "95a91110a62f1bd70a6af29b71c2d8137af64389371d13ac1282f3e5f73d6028"
+      },
+      "57": {
+        "source_ref": "Luke 9:57",
+        "source_chapter": 9,
+        "source_verse": 57,
+        "segment_mode": "whole_record",
+        "sha256": "8da2b9ebf8a4f55bbb4636b2de8a3f88430d7025d727165888eebd5eb0550980"
+      },
+      "58": {
+        "source_ref": "Luke 9:58",
+        "source_chapter": 9,
+        "source_verse": 58,
+        "segment_mode": "whole_record",
+        "sha256": "36f763355fa64b7197366c688f5b0d3282711ed2a04d0eff879a285ac7bb236a"
+      },
+      "59": {
+        "source_ref": "Luke 9:59",
+        "source_chapter": 9,
+        "source_verse": 59,
+        "segment_mode": "whole_record",
+        "sha256": "e48f1665141e31a0e60cc0eaea88bd0b209fd761e3882d6891d0f491bb2ffc79"
+      },
+      "60": {
+        "source_ref": "Luke 9:60",
+        "source_chapter": 9,
+        "source_verse": 60,
+        "segment_mode": "whole_record",
+        "sha256": "d714159dbcefe9c8eaa7ccbaa234b361fd6655f9b3fae3d06ba7c17a88143063"
+      },
+      "61": {
+        "source_ref": "Luke 9:61",
+        "source_chapter": 9,
+        "source_verse": 61,
+        "segment_mode": "whole_record",
+        "sha256": "e87b8dc0b8f0a2487a63fe237d845e459d007b8764d2e7a5e11b45a9b3a2fe36"
+      },
+      "62": {
+        "source_ref": "Luke 9:62",
+        "source_chapter": 9,
+        "source_verse": 62,
+        "segment_mode": "whole_record",
+        "sha256": "1980d86e3014337a5d28abcd6b90e5b6ac0cdea03313e05a3f8d1edc14f19e56"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/luke/Luke_09.md",
+    "blob_sha": "fb11ff56ba8fce4f9ea55b68380af7aee4cd2ae2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
