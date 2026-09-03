@@ -1,0 +1,247 @@
+{
+  "book": "Romans",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "public_verse_slots": 31,
+  "included_verse_labels": 31,
+  "critical_text_gap": [],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt"
+  },
+  "tsw_comparator": {
+    "path": "books/NT/romans/Romans_03.md",
+    "blob_sha": "b43a54e834704f5e47d5d04cec404b65ce62eaa2"
+  },
+  "publication_allowed": false,
+  "deployment": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt",
+    "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Romans 3:1",
+        "source_chapter": 3,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "20cc1392fda4e8cb794cf6671241ec39d88b8959cd66927e0de203b86390c15c"
+      },
+      "2": {
+        "source_ref": "Romans 3:2",
+        "source_chapter": 3,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "ce24fea06ff559aa8d7838368fc5084265145159f04fce847ff53cbd4f93959e"
+      },
+      "3": {
+        "source_ref": "Romans 3:3",
+        "source_chapter": 3,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "3bca75355e60b416ed2ba48d325ddb8c33d1c15747038cb26e47864f62491771"
+      },
+      "4": {
+        "source_ref": "Romans 3:4",
+        "source_chapter": 3,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "74ed1011ae2e7e1395cdab4f29749e730f83178a457e2cb1989cd1261f41482b"
+      },
+      "5": {
+        "source_ref": "Romans 3:5",
+        "source_chapter": 3,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "08f0398d5df0b4bb2322446e6caa26bdf07e08fceaac793710c5a53b8c9ffe83"
+      },
+      "6": {
+        "source_ref": "Romans 3:6",
+        "source_chapter": 3,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "6548b8e9c9e57700997e185205c7da5bcf07476f485a81c39e4e17b52a8c7f03"
+      },
+      "7": {
+        "source_ref": "Romans 3:7",
+        "source_chapter": 3,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "ba5a2edb032623026ec6f907cbe3f2ba063575f6f13c51a0832691c571cc5327"
+      },
+      "8": {
+        "source_ref": "Romans 3:8",
+        "source_chapter": 3,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "dae88275005fa7377d3a77f732bdfae053e3c059dc93b31a9093942d81c0be44"
+      },
+      "9": {
+        "source_ref": "Romans 3:9",
+        "source_chapter": 3,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "ff19e280d4ca3932fe448062d0e0e094fd961de71fe2d16d21ed7fd09b86fdd3"
+      },
+      "10": {
+        "source_ref": "Romans 3:10",
+        "source_chapter": 3,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "14d349ab97553b4f05242f434e73519a83052c867cbe7f959ef2854f853d23a1"
+      },
+      "11": {
+        "source_ref": "Romans 3:11",
+        "source_chapter": 3,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "e54b216b61f92919f6b1682788ce89afca661528b047fb5b08835e361e34eb5a"
+      },
+      "12": {
+        "source_ref": "Romans 3:12",
+        "source_chapter": 3,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "00b915b220e8c63cdd7ef4b615b8a8c8795f79db03621c098e4bbe56f07eb562"
+      },
+      "13": {
+        "source_ref": "Romans 3:13",
+        "source_chapter": 3,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "0937a964efb5ddae7b95ad4d5ef430b05659f37982bc351aa6bd03f55fe9863f"
+      },
+      "14": {
+        "source_ref": "Romans 3:14",
+        "source_chapter": 3,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "03617550d80d3355e2270cb72372ed98bbfca51aee5c06910ca8b11907da2b58"
+      },
+      "15": {
+        "source_ref": "Romans 3:15",
+        "source_chapter": 3,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "2f636f380f8cdc5687f8178b7b0fd718f62c9e82eacb267ffdb6b95ef99a96e6"
+      },
+      "16": {
+        "source_ref": "Romans 3:16",
+        "source_chapter": 3,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "fa050f7dfa9643094c74855a6c4d47b3ee22849ea18d19284eb6ee71e799946c"
+      },
+      "17": {
+        "source_ref": "Romans 3:17",
+        "source_chapter": 3,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "da146eb9ee63b7b77c367b4231824629e2b2dd5c1b24a209f57a248c5d0226d1"
+      },
+      "18": {
+        "source_ref": "Romans 3:18",
+        "source_chapter": 3,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "955f7844435a7532b74f71b1300b8aad78452cbda86d2f7f828271659331507b"
+      },
+      "19": {
+        "source_ref": "Romans 3:19",
+        "source_chapter": 3,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "7ae8aa5b81a322fbdcfa6a91b8ae87111894ef2b273c24d1aa7863b4680a8010"
+      },
+      "20": {
+        "source_ref": "Romans 3:20",
+        "source_chapter": 3,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "68e20bbedb2e398fb488a3fe699bb4178231ea7440e747dfd2d4a6397595de75"
+      },
+      "21": {
+        "source_ref": "Romans 3:21",
+        "source_chapter": 3,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "7278562e48fdca439c2c831e1b5bf7ce5c68f8cc6aada722b58ea9e01ce1c392"
+      },
+      "22": {
+        "source_ref": "Romans 3:22",
+        "source_chapter": 3,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "d03d7b0429cbd62824951f0074d2deb74027c13883d76b9de287db3205ce645f"
+      },
+      "23": {
+        "source_ref": "Romans 3:23",
+        "source_chapter": 3,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "c8473bae746024d3461a603c2561c6a4341fd0bff24134f60662a11bf9525d16"
+      },
+      "24": {
+        "source_ref": "Romans 3:24",
+        "source_chapter": 3,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "0320b642514549c80ad03318e1ff8cf2b282b0a0a013be1f1e3c943f0883fbc5"
+      },
+      "25": {
+        "source_ref": "Romans 3:25",
+        "source_chapter": 3,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "c2a8c2f40d49511142df76294a42912a7beaa9789526d1f8cf21ef60c67367fe"
+      },
+      "26": {
+        "source_ref": "Romans 3:26",
+        "source_chapter": 3,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "00f59eee621aef6ec7d74c5aa5399c6a0edb1a606a1a45ef6f48cd2bf6fff9a9"
+      },
+      "27": {
+        "source_ref": "Romans 3:27",
+        "source_chapter": 3,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "7fe2fbfb8537d2a888251a1155681f0cd4cb19e2bcd8b8f871d7fdd76416d27e"
+      },
+      "28": {
+        "source_ref": "Romans 3:28",
+        "source_chapter": 3,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "4ceeeab57d1b544112baad8430b6c860dde86b1bcdfe101a16cee1962c22ad97"
+      },
+      "29": {
+        "source_ref": "Romans 3:29",
+        "source_chapter": 3,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "151ec006e203872c9cb7f4cdb5bc6cfef336f629e0852cfb6b874ecb788cac2c"
+      },
+      "30": {
+        "source_ref": "Romans 3:30",
+        "source_chapter": 3,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "9f86026ac0326f9859bffeaa0ddee34ad657b32e74b3e9a6973811cf81ee9a3a"
+      },
+      "31": {
+        "source_ref": "Romans 3:31",
+        "source_chapter": 3,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "d8491bf905790f0dee63fe70058bab13b0ac126b8df412bfd81c9f1daaea04d4"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

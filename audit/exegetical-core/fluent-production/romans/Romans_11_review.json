@@ -1,0 +1,282 @@
+{
+  "book": "Romans",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "public_verse_slots": 36,
+  "included_verse_labels": 36,
+  "critical_text_gap": [],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt"
+  },
+  "tsw_comparator": {
+    "path": "books/NT/romans/Romans_11.md",
+    "blob_sha": "b8b0ff5f492cf43df7b9cbbe7eb7c9c46ef5f023"
+  },
+  "publication_allowed": false,
+  "deployment": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt",
+    "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Romans 11:1",
+        "source_chapter": 11,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "a0d07b3ca3d9e7945bff78d7e11a87b9e003d1ab2b1bc770462d1a7576d6b6df"
+      },
+      "2": {
+        "source_ref": "Romans 11:2",
+        "source_chapter": 11,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "a8c9d721364fc67d16d71764235a765e2ccc4717fa59ee70e5005b7e017fac0b"
+      },
+      "3": {
+        "source_ref": "Romans 11:3",
+        "source_chapter": 11,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "aa190f7459ee0797ac9900cfa1acf24e28b6ad9dbc8d52958bb84abb863c65a8"
+      },
+      "4": {
+        "source_ref": "Romans 11:4",
+        "source_chapter": 11,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "be85509c0ca947ff7c5b7cc3647cb58f4ab19a1e507f17d2f69d0c8de5efd4e1"
+      },
+      "5": {
+        "source_ref": "Romans 11:5",
+        "source_chapter": 11,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "ae2017b32914bbeba7d7ad7dd24810bc0f15bc553128bfdade4927542711d49e"
+      },
+      "6": {
+        "source_ref": "Romans 11:6",
+        "source_chapter": 11,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "f8e9e9542e39fd3a4d844e4add96617af45765d0e1d346f7c195ffdada1c9523"
+      },
+      "7": {
+        "source_ref": "Romans 11:7",
+        "source_chapter": 11,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "e819d8615240f25b06d851796187c456ddcd25da9982b6cfbe842e42a2f52a92"
+      },
+      "8": {
+        "source_ref": "Romans 11:8",
+        "source_chapter": 11,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "69b5a3d65e0b2d132d3d8766b04036498d0c3014081d90067de7d6b27ba6708f"
+      },
+      "9": {
+        "source_ref": "Romans 11:9",
+        "source_chapter": 11,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "1a5e96eadad989c14a702ce997aac2cb5c3494e016c5617719968bfc19de464e"
+      },
+      "10": {
+        "source_ref": "Romans 11:10",
+        "source_chapter": 11,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "b7c016cf21197701b2493b4a433c53016ef922a1f47e4ac53979ad8e655434f8"
+      },
+      "11": {
+        "source_ref": "Romans 11:11",
+        "source_chapter": 11,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "801f68104bdbcaf5284dfbc60b6e92ba553cb08c9504a9fc4f4dd1ee35fe83e7"
+      },
+      "12": {
+        "source_ref": "Romans 11:12",
+        "source_chapter": 11,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "ed22fea91af6db3ef9efaaa64d4b2d91e759751d63b7ac2bfa86f97a96a13722"
+      },
+      "13": {
+        "source_ref": "Romans 11:13",
+        "source_chapter": 11,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "864e34165b567898dbcfa4be48ce9749deefeb52eed21a7a12b71022cfa75e31"
+      },
+      "14": {
+        "source_ref": "Romans 11:14",
+        "source_chapter": 11,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "4ab9d344f85a7a0e94087efd65dbcd12d8593433f8c8a4b9d178b2a084a3d76b"
+      },
+      "15": {
+        "source_ref": "Romans 11:15",
+        "source_chapter": 11,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "849d981450f448015cf1ee1253ba8208596f5b04d970ae656f26054206e79aa0"
+      },
+      "16": {
+        "source_ref": "Romans 11:16",
+        "source_chapter": 11,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "87408aeeefa21f86e613282407fdc14bafb21fcc3c6c7d73230320efa326cf4c"
+      },
+      "17": {
+        "source_ref": "Romans 11:17",
+        "source_chapter": 11,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "62ab43fd6e4b0a30f5ce397fd0bb3ffca476c614766ec1895a80c43c2f50d0ea"
+      },
+      "18": {
+        "source_ref": "Romans 11:18",
+        "source_chapter": 11,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "94ca79b64d9b1e2e7822a8fe81da4c39b45e821524ab9178bf49aa314f07cf5b"
+      },
+      "19": {
+        "source_ref": "Romans 11:19",
+        "source_chapter": 11,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "09089ceed2ab6d7cb479f4c50ee92cc6046f4efcd0c5bbb79827c2a3edb9dd54"
+      },
+      "20": {
+        "source_ref": "Romans 11:20",
+        "source_chapter": 11,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "c50818d19c2dd6124856251ab58312bd4ea021dadfb41652e5a4d8dd045d115d"
+      },
+      "21": {
+        "source_ref": "Romans 11:21",
+        "source_chapter": 11,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "312a425ec7fc1127fb7540f9b38be251527919c7578efc3a4cec5b54142c1e34"
+      },
+      "22": {
+        "source_ref": "Romans 11:22",
+        "source_chapter": 11,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "1d123a920e853f204ef813f89e7b8382c48b6e558df3ba73e41dff7a3ebfa6b3"
+      },
+      "23": {
+        "source_ref": "Romans 11:23",
+        "source_chapter": 11,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "f471b6a87713af6fdcdb950b318b0dd7e1bab52a5457b526841e2593c5c2e357"
+      },
+      "24": {
+        "source_ref": "Romans 11:24",
+        "source_chapter": 11,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "538ef3856e2a02ac2495c6630f73d852db3b1f621b458984c8782b8d7602cb30"
+      },
+      "25": {
+        "source_ref": "Romans 11:25",
+        "source_chapter": 11,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "7ad7184115538e122dfcef26b32baaa7a829ccb7e6546f2e97f599a10dfcee72"
+      },
+      "26": {
+        "source_ref": "Romans 11:26",
+        "source_chapter": 11,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "69c66a13e8ab12ed90ac5a08b6167babf3eb54b54c4079aa3fec8ff90c50f718"
+      },
+      "27": {
+        "source_ref": "Romans 11:27",
+        "source_chapter": 11,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "b6c1344cb53f4b4a2219092963d1429f02c0a8bfd361b694211c0bc4329c57e2"
+      },
+      "28": {
+        "source_ref": "Romans 11:28",
+        "source_chapter": 11,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "b2cd7f77edd8b6e950304f82206d21d3fad3e507ccdaa760641223a090d6617c"
+      },
+      "29": {
+        "source_ref": "Romans 11:29",
+        "source_chapter": 11,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "16f5199d34c31fcde3313936a106f548c5d47ae1d82babbf3888acc189faa471"
+      },
+      "30": {
+        "source_ref": "Romans 11:30",
+        "source_chapter": 11,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "9605b927ebfb94a701b256b70c984670309b1620e7cbb580993d959285d45e66"
+      },
+      "31": {
+        "source_ref": "Romans 11:31",
+        "source_chapter": 11,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "595fe915247649489a115b619a21580ad61bc9f4f9e77eeeb2c9be984b85b586"
+      },
+      "32": {
+        "source_ref": "Romans 11:32",
+        "source_chapter": 11,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "6fba58a119795b1fe006052a5735c9dcf7a36d395f1eeb54fe4f7627ee2c0ee2"
+      },
+      "33": {
+        "source_ref": "Romans 11:33",
+        "source_chapter": 11,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "e8697a5a63e1c4cc015749a78dcde3c10b46e09f0da2460f88af6f1888a98381"
+      },
+      "34": {
+        "source_ref": "Romans 11:34",
+        "source_chapter": 11,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "97b37fd1fd4b36d7216d90aa73b4e9b3fe93301864a46d4461af0fb43491d679"
+      },
+      "35": {
+        "source_ref": "Romans 11:35",
+        "source_chapter": 11,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "86dbb9bcb3aa819a797ec2ff90b514e46ee4ea2a95723975c5dfd5f5cdd19e8d"
+      },
+      "36": {
+        "source_ref": "Romans 11:36",
+        "source_chapter": 11,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "1fc9ecc85c5b52d1600899736a695c99b652d296bb5cf9e5c2157c8931158182"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

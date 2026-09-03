@@ -1,0 +1,261 @@
+{
+  "book": "Romans",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "public_verse_slots": 33,
+  "included_verse_labels": 33,
+  "critical_text_gap": [],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt"
+  },
+  "tsw_comparator": {
+    "path": "books/NT/romans/Romans_09.md",
+    "blob_sha": "45de948cb825aedc4c6cb98e8868e2b424ca07cf"
+  },
+  "publication_allowed": false,
+  "deployment": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt",
+    "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Romans 9:1",
+        "source_chapter": 9,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "819b5b4fcdcdd72cf1a811bb1f8538f5b79e145f2046ea4b80d19235eb77bd40"
+      },
+      "2": {
+        "source_ref": "Romans 9:2",
+        "source_chapter": 9,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "eade862c3aaed91aa36136a715d7d97be235c7fc8931ff4bbab6669323185b98"
+      },
+      "3": {
+        "source_ref": "Romans 9:3",
+        "source_chapter": 9,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "09b9d91abc5e540625ee9e50d3ce0fe8c9d7a58aa64160570afc4d916d705a8a"
+      },
+      "4": {
+        "source_ref": "Romans 9:4",
+        "source_chapter": 9,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "0dc6d696bc36fbfb045ac57254905df30b403e1814609fc266c1ab25ed914a56"
+      },
+      "5": {
+        "source_ref": "Romans 9:5",
+        "source_chapter": 9,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "4883e1dc9775ff4e22600b364e88ff95a12d924fcf3b030eef13024d1eeefac7"
+      },
+      "6": {
+        "source_ref": "Romans 9:6",
+        "source_chapter": 9,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "c4e414c52e0c75d671838c745e8984fe5676fcf73273cfd327d52c1cd7d9612b"
+      },
+      "7": {
+        "source_ref": "Romans 9:7",
+        "source_chapter": 9,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "5d3dcbec4c467a9ddc55ecb827b64af3300a4f7fc99c67ef035a07e4e2eb8d0d"
+      },
+      "8": {
+        "source_ref": "Romans 9:8",
+        "source_chapter": 9,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "6b274ebfa19a79df74b436199fd438acc6e0ccfbabf854f391ea488fed1eba61"
+      },
+      "9": {
+        "source_ref": "Romans 9:9",
+        "source_chapter": 9,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "87098815137eec35361cf910fb9aaaa4a61714a6e234e04ccba859c0517b49fe"
+      },
+      "10": {
+        "source_ref": "Romans 9:10",
+        "source_chapter": 9,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "747717a2028ba1975025da2fe47e1987f5986080a6e8836d005e1f8222880751"
+      },
+      "11": {
+        "source_ref": "Romans 9:11",
+        "source_chapter": 9,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "58f3cd1a42191238ad16df2ec14f9651fcefb86d5ae91c3e5d96f092d2a7425a"
+      },
+      "12": {
+        "source_ref": "Romans 9:12",
+        "source_chapter": 9,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "302d38df3343554525d57a3f055f3f87946ed916b1d14f658ea5144e2faca4c8"
+      },
+      "13": {
+        "source_ref": "Romans 9:13",
+        "source_chapter": 9,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "d713917f2d6105af6497afedd2052783d6eed525010ddf36b2ceca0dcfc87b87"
+      },
+      "14": {
+        "source_ref": "Romans 9:14",
+        "source_chapter": 9,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "6d434f0bd8333f8ef723a4b4ec495b0fdb925a4e2bb20e040944a898cc66814d"
+      },
+      "15": {
+        "source_ref": "Romans 9:15",
+        "source_chapter": 9,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "07b6b5224a37b8e84fb9098245aea558d0568a771d28d1850577f7a374245358"
+      },
+      "16": {
+        "source_ref": "Romans 9:16",
+        "source_chapter": 9,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "42ca4d5312371e42ab05534521d1c90eb6510685fcd8121cfaea707f3d5a2b89"
+      },
+      "17": {
+        "source_ref": "Romans 9:17",
+        "source_chapter": 9,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "ff3cd6899d3b45f6af4465139f0e152c96f4b9d2100b551174fabfcb82e16eda"
+      },
+      "18": {
+        "source_ref": "Romans 9:18",
+        "source_chapter": 9,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "cebfb213115a54bc1e9d0fcb54cd6d160c548eba2ce61095d8960b42c925538d"
+      },
+      "19": {
+        "source_ref": "Romans 9:19",
+        "source_chapter": 9,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "93f5a870ef21002d75491ebda89ec0071ab844793ef71e983e566bb8495d0d2b"
+      },
+      "20": {
+        "source_ref": "Romans 9:20",
+        "source_chapter": 9,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "8ff7ae5809dc3937734c05ceeac8c9905058745090dadffff18dcac6ea238a8e"
+      },
+      "21": {
+        "source_ref": "Romans 9:21",
+        "source_chapter": 9,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "f566f7ba03bc36801d7d8cfc34d34c43da2be2c172871caf317953af6146e75a"
+      },
+      "22": {
+        "source_ref": "Romans 9:22",
+        "source_chapter": 9,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "d44a09bf82b6ce5fcc269e4efe15b1f30b318cbfc8638c5c6183d0aaf15af69b"
+      },
+      "23": {
+        "source_ref": "Romans 9:23",
+        "source_chapter": 9,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "1e377ee142969df8a4de5b2e4c7313590073fb2b041d7c722c598b9c37c22a4d"
+      },
+      "24": {
+        "source_ref": "Romans 9:24",
+        "source_chapter": 9,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "60bd13ddd8d391d7b2a10ae99b8b8b5459dcd36c764042b151dc373e94ae96aa"
+      },
+      "25": {
+        "source_ref": "Romans 9:25",
+        "source_chapter": 9,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "0241b37b3005f04a5ea24313f67f1c57a117312b8df68629edf8187ea9796776"
+      },
+      "26": {
+        "source_ref": "Romans 9:26",
+        "source_chapter": 9,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "4d411562169ee994c8cc4d48e771f718d12ae9c08508efc2a062c6065df14afb"
+      },
+      "27": {
+        "source_ref": "Romans 9:27",
+        "source_chapter": 9,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "b777721cd94c20b37998065581ad546d54f566148b4ebc25fcc0b79b3089903c"
+      },
+      "28": {
+        "source_ref": "Romans 9:28",
+        "source_chapter": 9,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "01762affb17a4bb008b2cfe7e6bab95d6faf1dc610b82ac66a40716bae9565fa"
+      },
+      "29": {
+        "source_ref": "Romans 9:29",
+        "source_chapter": 9,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "562f11e450157bb1a5d3315b72a74843459522819b0904294c0fce51daaafce9"
+      },
+      "30": {
+        "source_ref": "Romans 9:30",
+        "source_chapter": 9,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "d08038d51d45252c8acd26c530f7d789dcadc81559c3633b9da48f38ec9dbc8e"
+      },
+      "31": {
+        "source_ref": "Romans 9:31",
+        "source_chapter": 9,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "bc8120e6e9715ad6a1dbc0979d2acaf7829d73b40f9446b8699c5bb81ddd7922"
+      },
+      "32": {
+        "source_ref": "Romans 9:32",
+        "source_chapter": 9,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "4a04a99919209566ea259e8ae4d86ce17527dc1891eca6378499a3b1bbfc3b44"
+      },
+      "33": {
+        "source_ref": "Romans 9:33",
+        "source_chapter": 9,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "957e240fc61130698bd16394f7d7aff4424e2e38e01dc0f0047485cfcbf0d0ce"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

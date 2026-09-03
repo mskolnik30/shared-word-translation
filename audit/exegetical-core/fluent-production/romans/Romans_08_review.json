@@ -1,0 +1,303 @@
+{
+  "book": "Romans",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "public_verse_slots": 39,
+  "included_verse_labels": 39,
+  "critical_text_gap": [],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt"
+  },
+  "tsw_comparator": {
+    "path": "books/NT/romans/Romans_08.md",
+    "blob_sha": "5bfb16149b0a9805dec58e520c3b5d7c3ad03ed0"
+  },
+  "publication_allowed": false,
+  "deployment": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt",
+    "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Romans 8:1",
+        "source_chapter": 8,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "490c0a6b54fa10b949947590338ad47d0f8c01c175cf8a730c5ede71fd469945"
+      },
+      "2": {
+        "source_ref": "Romans 8:2",
+        "source_chapter": 8,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "2464897c642366af8632026ec5cefb1d0682d5509e098394b5d073d37f9f4e01"
+      },
+      "3": {
+        "source_ref": "Romans 8:3",
+        "source_chapter": 8,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "b7eb3c53e9b0337aba46f6f1e5854e1aaeff7994fc7a449ebe010fe01586acdb"
+      },
+      "4": {
+        "source_ref": "Romans 8:4",
+        "source_chapter": 8,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "3a23f3766b1b5c7b5bd5c2a2a11cdf58985d9681f789c1253eecd9b19097749b"
+      },
+      "5": {
+        "source_ref": "Romans 8:5",
+        "source_chapter": 8,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "723046c955beb1336930d5ac70c164a79cda1c3f2c140fe035d9113fa3cf7a81"
+      },
+      "6": {
+        "source_ref": "Romans 8:6",
+        "source_chapter": 8,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "b32a49b8a479811ec71ee1d5f4dd4ac200beb01935dae3ca52830f2f54454354"
+      },
+      "7": {
+        "source_ref": "Romans 8:7",
+        "source_chapter": 8,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "215eb0298c6ebe8c5202a6ddf1add92a305f94e6ea1aa360328da036cfe52438"
+      },
+      "8": {
+        "source_ref": "Romans 8:8",
+        "source_chapter": 8,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "3df9cbdd8af671797d69a107e19cdf9fddc92e7bf2926303c86b109659cce148"
+      },
+      "9": {
+        "source_ref": "Romans 8:9",
+        "source_chapter": 8,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "bbd93a45e4961149cfebe5ab060c6de7210f25392a702b11e238ece40f70dd70"
+      },
+      "10": {
+        "source_ref": "Romans 8:10",
+        "source_chapter": 8,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "3b48cd0228f2b3d45c7963f3c4fb1e4b61ba97e34f01593bf51827511a615cb0"
+      },
+      "11": {
+        "source_ref": "Romans 8:11",
+        "source_chapter": 8,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "8e3967d67c4458d0fcaff5316a9e8b50bcda8f80df85a920a6481729600fd900"
+      },
+      "12": {
+        "source_ref": "Romans 8:12",
+        "source_chapter": 8,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "4b039ee5abbc8915db2f70d194ef0c69fbfbc82e3d29f091abb527fe82a3117c"
+      },
+      "13": {
+        "source_ref": "Romans 8:13",
+        "source_chapter": 8,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "7b17f896aa5d2ed5b136ebf2a6407e461420c5b5c99ced03be54c7c09398f7f0"
+      },
+      "14": {
+        "source_ref": "Romans 8:14",
+        "source_chapter": 8,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "b7a9ad8f97d179357751cd05d835a8c90685133c777f44b77ea73d60aa9b6c08"
+      },
+      "15": {
+        "source_ref": "Romans 8:15",
+        "source_chapter": 8,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "9b50cd41bb34fc291dc73d4389bd880e4d7abfe9d2b8a4ff8e618d6fcd8b568e"
+      },
+      "16": {
+        "source_ref": "Romans 8:16",
+        "source_chapter": 8,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "7829527e9925b67d779c0db5ce56c871639e0df3584b6c4170d3a121ad1da8ca"
+      },
+      "17": {
+        "source_ref": "Romans 8:17",
+        "source_chapter": 8,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "0b7dd03ec47abbc80e667df4dd8fa5b75b9845e2ce1190d8eb5af0df8aa4d6fe"
+      },
+      "18": {
+        "source_ref": "Romans 8:18",
+        "source_chapter": 8,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "f4e6a0884deacd90c5ce9e3a07a5f42bc7af5215105abf2e6ca0511d4943f949"
+      },
+      "19": {
+        "source_ref": "Romans 8:19",
+        "source_chapter": 8,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "3bb732335bacecc8fe90bad9e549f43b1500f7feab97247414181b09d6d46728"
+      },
+      "20": {
+        "source_ref": "Romans 8:20",
+        "source_chapter": 8,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "a0f139428c01f4e599daf4169dd424d593dacbeb68b33866cf0f15ed53693a7a"
+      },
+      "21": {
+        "source_ref": "Romans 8:21",
+        "source_chapter": 8,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "5c7200994ac2e0ec0386e03b8fb9f30dfb3413dd7b41d0afac286cff92941449"
+      },
+      "22": {
+        "source_ref": "Romans 8:22",
+        "source_chapter": 8,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "80f13c93d4c6493fecf70fbc7dc64ebefe2c61764c0f0164bc7793a3a3107b27"
+      },
+      "23": {
+        "source_ref": "Romans 8:23",
+        "source_chapter": 8,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "ec31fb25e942d14177123552ea6c7c7df2139a6637bd8b98e2f819c84b12d716"
+      },
+      "24": {
+        "source_ref": "Romans 8:24",
+        "source_chapter": 8,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "002f77062f3acd62109c6b33fc0c0334b919587621da71326ced1059a4efe7a9"
+      },
+      "25": {
+        "source_ref": "Romans 8:25",
+        "source_chapter": 8,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "ad8f3c73cb2acc1ea19e7c7bb8f710b749098510d2d8b794a34dde725402784c"
+      },
+      "26": {
+        "source_ref": "Romans 8:26",
+        "source_chapter": 8,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "f337a993cce0bef0b234557a30b3eddfb725b7e37925cafdef57d7c620c4c1a8"
+      },
+      "27": {
+        "source_ref": "Romans 8:27",
+        "source_chapter": 8,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "9c2bd3fa71786f2a4131ec3f946e03fe33c602c2de3277aa6b054a4076769f48"
+      },
+      "28": {
+        "source_ref": "Romans 8:28",
+        "source_chapter": 8,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "86f388816238c528fa38689016041c9efb712c6f54beb94f31d1e6e29dd7afc1"
+      },
+      "29": {
+        "source_ref": "Romans 8:29",
+        "source_chapter": 8,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "7e2c34d7a2cf375b8e2bbecc1083ea0cec14de42244555a4396f1cfbbdff8d44"
+      },
+      "30": {
+        "source_ref": "Romans 8:30",
+        "source_chapter": 8,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "8d565f3974dcea2ec038971fabea3c5ebf174de7942cdb2348717838a8c5e153"
+      },
+      "31": {
+        "source_ref": "Romans 8:31",
+        "source_chapter": 8,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "3eb50b023434a60f7799b51fc39ff94d0ecfffa161bd841e1a67ac613b3b5caf"
+      },
+      "32": {
+        "source_ref": "Romans 8:32",
+        "source_chapter": 8,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "0fcc73ca379fe29c9427c58277921a51e2bb37453621102c3b1753994ea345c0"
+      },
+      "33": {
+        "source_ref": "Romans 8:33",
+        "source_chapter": 8,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "39706d54c1191334d982c3a74130ebebcdae6f1ba5a8f364420e1b3f8c7dd184"
+      },
+      "34": {
+        "source_ref": "Romans 8:34",
+        "source_chapter": 8,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "602f78befb9626425b1fa982a8c89d6c343c58804acc9008e74571b773de9d36"
+      },
+      "35": {
+        "source_ref": "Romans 8:35",
+        "source_chapter": 8,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "d9d09779d9648d9348adc60266c075cab3caaccc4025113fb600f672b8a1199d"
+      },
+      "36": {
+        "source_ref": "Romans 8:36",
+        "source_chapter": 8,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "70c2c47deb19aa33704f49e2cbe139da85af41c2bb21c490914efc9a71772a00"
+      },
+      "37": {
+        "source_ref": "Romans 8:37",
+        "source_chapter": 8,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "ff227a8f46cef362ea6a89958b1eb72ae5db7bff080d2a97fcb47d4efc6b6a9b"
+      },
+      "38": {
+        "source_ref": "Romans 8:38",
+        "source_chapter": 8,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "0e4b979f26d2faada7445e7aca7dca16000a306ccaf1d7bf20bdbf90f1215243"
+      },
+      "39": {
+        "source_ref": "Romans 8:39",
+        "source_chapter": 8,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "29d16eee3b242572b0ac9d81e1d8d8586c75b906dc4e4080d9bd472e01de1374"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

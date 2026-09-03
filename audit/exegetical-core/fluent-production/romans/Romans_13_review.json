@@ -1,0 +1,128 @@
+{
+  "book": "Romans",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "public_verse_slots": 14,
+  "included_verse_labels": 14,
+  "critical_text_gap": [],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt"
+  },
+  "tsw_comparator": {
+    "path": "books/NT/romans/Romans_13.md",
+    "blob_sha": "4bfb32263d15a11bffb766ae1f7485e58c7cdb0c"
+  },
+  "publication_allowed": false,
+  "deployment": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rom.txt",
+    "git_blob_sha": "9782d917928719056708db2b1849eb8cfe65a6c5",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Romans 13:1",
+        "source_chapter": 13,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "aba3ae254aba33ae30393c2716aa77f1ab4077ad2a9631377268e092902b3ad0"
+      },
+      "2": {
+        "source_ref": "Romans 13:2",
+        "source_chapter": 13,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "84c167aaf312c5935d170ca203b60f620d80a35b84fd8a6e25094529a96ae670"
+      },
+      "3": {
+        "source_ref": "Romans 13:3",
+        "source_chapter": 13,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "bf13cdaeb06f7710bc2145ea3914641495bfd1cda4b0dc4a981ae5f9ee2c2173"
+      },
+      "4": {
+        "source_ref": "Romans 13:4",
+        "source_chapter": 13,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "0fe96fa1b7872d73d4117ef7ca5b4e42e77e93fbaff7773ca16e569049a87baa"
+      },
+      "5": {
+        "source_ref": "Romans 13:5",
+        "source_chapter": 13,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "fa51d46a52719a042e6e4976698bb4c9e8c53c49ab96bb01583547df43043301"
+      },
+      "6": {
+        "source_ref": "Romans 13:6",
+        "source_chapter": 13,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "603ea6691a79c6c0df025406868ecd1b7218a1cf6a90e0198d6f9211383e4afe"
+      },
+      "7": {
+        "source_ref": "Romans 13:7",
+        "source_chapter": 13,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "cc6737075f4bc37e55de14f77b6779b2d1df9169301dd878b368934d3ade1aed"
+      },
+      "8": {
+        "source_ref": "Romans 13:8",
+        "source_chapter": 13,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "db4b7623f1047a6b855849403f4f0915f965561d71b9aa3f9b3a972665bff691"
+      },
+      "9": {
+        "source_ref": "Romans 13:9",
+        "source_chapter": 13,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "0f0a03ef5a7c119019506a682244788981ae7950a48eded2236f5dafc795fa8f"
+      },
+      "10": {
+        "source_ref": "Romans 13:10",
+        "source_chapter": 13,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "711130faf796c77b6f2ebfe689829d73d7cec0bd197732f3134ed7233aa8a47d"
+      },
+      "11": {
+        "source_ref": "Romans 13:11",
+        "source_chapter": 13,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "2b8caa884632952ff7d49a0882d52d248871b7f26306c92f2af914645a3ef727"
+      },
+      "12": {
+        "source_ref": "Romans 13:12",
+        "source_chapter": 13,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "0ff553862fb1ae551eca1360ba75cde08ede35589573322fb1bcbc2f7e63c7d0"
+      },
+      "13": {
+        "source_ref": "Romans 13:13",
+        "source_chapter": 13,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "201d3b236ee6b45b96ac42df095461474480f691b44ab638820bc1e474356283"
+      },
+      "14": {
+        "source_ref": "Romans 13:14",
+        "source_chapter": 13,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "936541aaa8c6b9a502ae7b4114a865d02781a73c576666ca8c669bc57c8cf71d"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
