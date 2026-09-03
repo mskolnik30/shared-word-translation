@@ -1,0 +1,400 @@
+{
+  "book": "Luke",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 54,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt",
+    "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Luke 11:1",
+        "source_chapter": 11,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "39e6917910b6c4966c92fa87f55949d519a286a4b0ee6b0c9808012e8231bc2b"
+      },
+      "2": {
+        "source_ref": "Luke 11:2",
+        "source_chapter": 11,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "76e5e26708816337cf7951a07a44dcbcf8a069fc7bfa026985bb4e2e5747ab66"
+      },
+      "3": {
+        "source_ref": "Luke 11:3",
+        "source_chapter": 11,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "b35b753ea7d24a11f0ea52f416ff255573e885a9be9b3cf84654ebc65777de96"
+      },
+      "4": {
+        "source_ref": "Luke 11:4",
+        "source_chapter": 11,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "01365f48febc8383735331753bb257c8e7e99c040eb298ae83d36804814559e7"
+      },
+      "5": {
+        "source_ref": "Luke 11:5",
+        "source_chapter": 11,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "de270f32e7bc23de9dcd23daa20a080ebbc22226eabd9d091a5eb233569c59d9"
+      },
+      "6": {
+        "source_ref": "Luke 11:6",
+        "source_chapter": 11,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "6117b0444ed819f91447f8d60ef8f780bb61f3fe1e1ba455549b579ea6a8b08d"
+      },
+      "7": {
+        "source_ref": "Luke 11:7",
+        "source_chapter": 11,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "aa2c490ae3184dcc62e2326289a17698d0fccd1a8ae1550485ce7e1ab3fc852e"
+      },
+      "8": {
+        "source_ref": "Luke 11:8",
+        "source_chapter": 11,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "cb5fad1af16c659112b35d4ecb29243bd6fb45e53c6e617565fc29aac6fe270a"
+      },
+      "9": {
+        "source_ref": "Luke 11:9",
+        "source_chapter": 11,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "21d821641b48deb5022853de9f266ec49ea3add4e6fdaf946ee22fda7bc4ecc6"
+      },
+      "10": {
+        "source_ref": "Luke 11:10",
+        "source_chapter": 11,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "a2dad56fd8a588dd9e1f32fbde22dcb2c769e95e2d5e5c4299f405e982664ff7"
+      },
+      "11": {
+        "source_ref": "Luke 11:11",
+        "source_chapter": 11,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "5f520aa273f65dfadd558df72a7e39ac074007cad2dc0d59c98a29c9d4f1e9fe"
+      },
+      "12": {
+        "source_ref": "Luke 11:12",
+        "source_chapter": 11,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "dfb312ba6e5385ea78b418a92376e6cfeb1a32b4c46119d0fd729ec23da72a3c"
+      },
+      "13": {
+        "source_ref": "Luke 11:13",
+        "source_chapter": 11,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "799251e7fda3055e71924f5506b253cf71f7a4f03c1c8f3375e61de9553fc305"
+      },
+      "14": {
+        "source_ref": "Luke 11:14",
+        "source_chapter": 11,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "348cd23f8312e33790243c5550add482f2f8270eac99a513ded4eafa1000b3a8"
+      },
+      "15": {
+        "source_ref": "Luke 11:15",
+        "source_chapter": 11,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "d80dd8a43a293f586452d6a67aa1dbac9a4818560e63effacea28bbe4c6f523f"
+      },
+      "16": {
+        "source_ref": "Luke 11:16",
+        "source_chapter": 11,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "ad6e0c07e5539df3bde88f4d2c3bc9328f78a55b39de616c0a1d0aa823839db9"
+      },
+      "17": {
+        "source_ref": "Luke 11:17",
+        "source_chapter": 11,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "5d84efd0af24014279f64bea5f2a9d438e172e6eece8f0c117764c2e66289694"
+      },
+      "18": {
+        "source_ref": "Luke 11:18",
+        "source_chapter": 11,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "c0cdd3fc582f2746cfb70443cac023d800fa8e0deb6d2c1c8cadd6b0816f10f1"
+      },
+      "19": {
+        "source_ref": "Luke 11:19",
+        "source_chapter": 11,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "843a6102070fbd4c7d747dbc3d73069ea46af4eda20facf24da78a9d96cd3e15"
+      },
+      "20": {
+        "source_ref": "Luke 11:20",
+        "source_chapter": 11,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "418b2d3e1a40068ea044d2fa5abc4cc3c013acd996ebc6a04caadbd44d2b35a3"
+      },
+      "21": {
+        "source_ref": "Luke 11:21",
+        "source_chapter": 11,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "a8b0923dc0f530ee756c644706567cf494e67c0fb71e197ce0ca58c55208c8da"
+      },
+      "22": {
+        "source_ref": "Luke 11:22",
+        "source_chapter": 11,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "2184f600bcf1968c6dce19cb43ed634b93c2e3e7cfd855c55ab117dceea3adc3"
+      },
+      "23": {
+        "source_ref": "Luke 11:23",
+        "source_chapter": 11,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "d52282e16159d9b4cbbe81642ef5ccdb63c113381b84009a1bc22e548b4bd2d8"
+      },
+      "24": {
+        "source_ref": "Luke 11:24",
+        "source_chapter": 11,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "abbe4a36dd1f237b4bc344985b4f21f8ff8580127a354d8393ebc509b8a013b3"
+      },
+      "25": {
+        "source_ref": "Luke 11:25",
+        "source_chapter": 11,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "c14e3d72ee45abdb2247b1e41322e13be185b6a0057d9651b1f336d54b0cd578"
+      },
+      "26": {
+        "source_ref": "Luke 11:26",
+        "source_chapter": 11,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "971f6da6a50611ccef1c8c828b01acdd66cb284d81ab58a96961c2fc0bc5c46e"
+      },
+      "27": {
+        "source_ref": "Luke 11:27",
+        "source_chapter": 11,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "687f2151d9a3a39556108a32a9fc2d1d7d7d303227eb96838bd4d39a1a21931a"
+      },
+      "28": {
+        "source_ref": "Luke 11:28",
+        "source_chapter": 11,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "c04fa3a018d5c5aff1ac8c8865d249a943f99b65a1140f357d7aff05d5331ca2"
+      },
+      "29": {
+        "source_ref": "Luke 11:29",
+        "source_chapter": 11,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "134126c2daf99d7d72308dc613f5f0c34145c6228da50ceb73aabd242113cbe5"
+      },
+      "30": {
+        "source_ref": "Luke 11:30",
+        "source_chapter": 11,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "dc62d3f45354943bf9f72cd379e8c041bd93e0814709b81aa1446173559ca7db"
+      },
+      "31": {
+        "source_ref": "Luke 11:31",
+        "source_chapter": 11,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "049ac9e5cb71d2eec414e494ca74c4bb1c3a753f92e9e458e87e3e191c5835d3"
+      },
+      "32": {
+        "source_ref": "Luke 11:32",
+        "source_chapter": 11,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "fbbfc40f13b631bbdaef956c90e66f7cd2e8c9bb105fefedecf8b6ecad8c1585"
+      },
+      "33": {
+        "source_ref": "Luke 11:33",
+        "source_chapter": 11,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "7c1e0d57cb2b4621b88e8bd1080d3c590902d874b7fc48aad15b2fd99e9c7e81"
+      },
+      "34": {
+        "source_ref": "Luke 11:34",
+        "source_chapter": 11,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "ca811d1e80376f7eb0c2548cfa50ca410758d6b7a4e84b03290578d188ff0830"
+      },
+      "35": {
+        "source_ref": "Luke 11:35",
+        "source_chapter": 11,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "f0716f94b0f1cae35c9745f5033ec1aef39be1c0d0289a427b9ace43b40fb321"
+      },
+      "36": {
+        "source_ref": "Luke 11:36",
+        "source_chapter": 11,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "0cfb2f187239c33fdd2f16aafbcfe2ceac0f65ceb2f25b5877123a5fff42f5a1"
+      },
+      "37": {
+        "source_ref": "Luke 11:37",
+        "source_chapter": 11,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "ed4e921456eff33720d5dcd934ed413bfe42bc6d84740a6f8460620d51396293"
+      },
+      "38": {
+        "source_ref": "Luke 11:38",
+        "source_chapter": 11,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "98190aee81fa854544a63b420bdfca4a50c1c4432f93526d78dd96e53828c998"
+      },
+      "39": {
+        "source_ref": "Luke 11:39",
+        "source_chapter": 11,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "999565484a82cec01c29136a3cd9a669b09028b028e540d765a234010c6ffb4e"
+      },
+      "40": {
+        "source_ref": "Luke 11:40",
+        "source_chapter": 11,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "8f7a01d36bb90094d59f43b1fdcd283897abd8415f3518c4a8b3cd0784136eef"
+      },
+      "41": {
+        "source_ref": "Luke 11:41",
+        "source_chapter": 11,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "a93866bfec29f6fe536f84fe533740a1f47d1dedda2364338f3c6a9f122266d0"
+      },
+      "42": {
+        "source_ref": "Luke 11:42",
+        "source_chapter": 11,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "399eb4e05e7ceec4e497721e26ea715f7b40a5180dbe765cc48fffad09dfcd49"
+      },
+      "43": {
+        "source_ref": "Luke 11:43",
+        "source_chapter": 11,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "3401c0be3841c6620dce324faaad0616b5cc0518b4ccd886aa4cfd9d58691a4e"
+      },
+      "44": {
+        "source_ref": "Luke 11:44",
+        "source_chapter": 11,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "2b578a339ed4c7f081fe88e53ca820028c7794a119afd89c261e6f174b32be85"
+      },
+      "45": {
+        "source_ref": "Luke 11:45",
+        "source_chapter": 11,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "0319e1e7732ff7f23d64753756b6fb4351ee3c94e6f9a06434a10876c84a72e0"
+      },
+      "46": {
+        "source_ref": "Luke 11:46",
+        "source_chapter": 11,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "97a3e61e059ed6e351aadae43bd4e6e648da916e78688e87a10cf8c91321af5b"
+      },
+      "47": {
+        "source_ref": "Luke 11:47",
+        "source_chapter": 11,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "81d2dce24599a3b41eae2e8620e9f877ad4ea8bef74c941c5918e1154802807a"
+      },
+      "48": {
+        "source_ref": "Luke 11:48",
+        "source_chapter": 11,
+        "source_verse": 48,
+        "segment_mode": "whole_record",
+        "sha256": "f3f1b3840e34786a66f107291f38821f570558b321cb8e68fea1e9ee42b0cffa"
+      },
+      "49": {
+        "source_ref": "Luke 11:49",
+        "source_chapter": 11,
+        "source_verse": 49,
+        "segment_mode": "whole_record",
+        "sha256": "513e51e2e954f7fd5082e9627d28e44a3a39df2f0e6067c99f6850e83fcd89f5"
+      },
+      "50": {
+        "source_ref": "Luke 11:50",
+        "source_chapter": 11,
+        "source_verse": 50,
+        "segment_mode": "whole_record",
+        "sha256": "0c44fc70ead167719803ca72232277f78c5919cc9c35202eeac684ce6ef08bda"
+      },
+      "51": {
+        "source_ref": "Luke 11:51",
+        "source_chapter": 11,
+        "source_verse": 51,
+        "segment_mode": "whole_record",
+        "sha256": "53ab490e2a1cb74ceafc997613f6ba3e95380dc825bc5582e0d40808d9cc7aa2"
+      },
+      "52": {
+        "source_ref": "Luke 11:52",
+        "source_chapter": 11,
+        "source_verse": 52,
+        "segment_mode": "whole_record",
+        "sha256": "37619b08f274f23bcbac62cb1b2e26f204f4c95ebcf617fdba94266173bc1e06"
+      },
+      "53": {
+        "source_ref": "Luke 11:53",
+        "source_chapter": 11,
+        "source_verse": 53,
+        "segment_mode": "whole_record",
+        "sha256": "b76d92d27b1716c15b4d7988ca943beafacfcaad4994fdfbe7aaa9bd6ca4217d"
+      },
+      "54": {
+        "source_ref": "Luke 11:54",
+        "source_chapter": 11,
+        "source_verse": 54,
+        "segment_mode": "whole_record",
+        "sha256": "5478c5706b446b2324bc643187160e181b7506f600308f6b6f0f868c853ed0f2"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/luke/Luke_11.md",
+    "blob_sha": "3f1ad23f41a4ab6d2172a250cf5843dbd372c13c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

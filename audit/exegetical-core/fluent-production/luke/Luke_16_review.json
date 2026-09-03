@@ -1,0 +1,239 @@
+{
+  "book": "Luke",
+  "chapter": 16,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 31,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt",
+    "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Luke 16:1",
+        "source_chapter": 16,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "3e5785ffc664bb8b11e0f20b59c3aefc426315e85722a18737bc4ea5e20071b3"
+      },
+      "2": {
+        "source_ref": "Luke 16:2",
+        "source_chapter": 16,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "c70a4213af06f319c21eab9583c63b26e548a9549f927d01a4c0ba3c14fd3569"
+      },
+      "3": {
+        "source_ref": "Luke 16:3",
+        "source_chapter": 16,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "9c4577a2bdd0f3492af9bffa4e6d98c748b051c968d0698dc7793738d739c1b8"
+      },
+      "4": {
+        "source_ref": "Luke 16:4",
+        "source_chapter": 16,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "74307c36193cad48ae0f788d8ffac1cf59ead69c1c606b2319b49075f523d630"
+      },
+      "5": {
+        "source_ref": "Luke 16:5",
+        "source_chapter": 16,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "387c3a02a5abbb86060c4c34caaf302b1f99778463c157fa0af6e8b7c8dc4c9f"
+      },
+      "6": {
+        "source_ref": "Luke 16:6",
+        "source_chapter": 16,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "fff065fc97fa599a5b75ddcdcd3f8202cd0ca3f1a823c2731576dd9005c6ac3b"
+      },
+      "7": {
+        "source_ref": "Luke 16:7",
+        "source_chapter": 16,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "600c68e93c19ddc9780d7552004704495fca76284e4a5696c3d8a00054598981"
+      },
+      "8": {
+        "source_ref": "Luke 16:8",
+        "source_chapter": 16,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "6416b40b268b277f519a81c2661a27878b42d1120ec6f7a772ec8cd39bd20fff"
+      },
+      "9": {
+        "source_ref": "Luke 16:9",
+        "source_chapter": 16,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "4b8fe45e50e62708fca4df6febc9ccde991e3fd745ba25df6684c8a787db391d"
+      },
+      "10": {
+        "source_ref": "Luke 16:10",
+        "source_chapter": 16,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "85970ae0344b2949a7d19620c25f9bc21c77e634fcca29fbe7c3213c7dc24490"
+      },
+      "11": {
+        "source_ref": "Luke 16:11",
+        "source_chapter": 16,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "07036c592b1a59c5e9cd1e25aa7619ceb675822be177ee86d08ac41588ebc70d"
+      },
+      "12": {
+        "source_ref": "Luke 16:12",
+        "source_chapter": 16,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "4384c737bf635885a1751ce2d38193e7aa017a123bea87d121c7d9fd8132ac6e"
+      },
+      "13": {
+        "source_ref": "Luke 16:13",
+        "source_chapter": 16,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "7b815a31a4d541c0cbf1c12305c08fed2afb13ff37b36246cff23d18de4ccae6"
+      },
+      "14": {
+        "source_ref": "Luke 16:14",
+        "source_chapter": 16,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "3caba2df6020262b7be90f6280e9380319a63d1b459d9d348bcd979bc9ae13b1"
+      },
+      "15": {
+        "source_ref": "Luke 16:15",
+        "source_chapter": 16,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "059f9a15ed577c4ca34bdad4acb684318b708e619b1e12d4af9163e4737f3a5b"
+      },
+      "16": {
+        "source_ref": "Luke 16:16",
+        "source_chapter": 16,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "ecbe308e90e754a670c3facb6b2743d7e5e08ad946f429af3b03e9da28139384"
+      },
+      "17": {
+        "source_ref": "Luke 16:17",
+        "source_chapter": 16,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "a0fee0018b5127e9a6758bfe9629db20a11f4f300267adc1633cc4c6a2ae3eb7"
+      },
+      "18": {
+        "source_ref": "Luke 16:18",
+        "source_chapter": 16,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "01091569dfd75b24eb023d29b8e3ad069645314315e57a81f05015b8aa6ed9b2"
+      },
+      "19": {
+        "source_ref": "Luke 16:19",
+        "source_chapter": 16,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "ab1db752c1c5a09e9a787b7d3a15851521d7d4245401a2d680fe6897850ed78e"
+      },
+      "20": {
+        "source_ref": "Luke 16:20",
+        "source_chapter": 16,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "3fdd87cb5fd6f1ca00adacc2885d7ff77372158eebe98909b45c03159e2a0795"
+      },
+      "21": {
+        "source_ref": "Luke 16:21",
+        "source_chapter": 16,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "9a57789acd1077bb39ff9adb1f6b2c59a55945bdd4ae105dcdb3e1d449e76fb6"
+      },
+      "22": {
+        "source_ref": "Luke 16:22",
+        "source_chapter": 16,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "8c6f3993cb242ff580d1713b845e7dacb505eaaf038d3304532126041c099ad3"
+      },
+      "23": {
+        "source_ref": "Luke 16:23",
+        "source_chapter": 16,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "e5b47b1ed65b7ddcaf4d8b4c50813111813c7d8a508a5a79719759ad8832916e"
+      },
+      "24": {
+        "source_ref": "Luke 16:24",
+        "source_chapter": 16,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "424c279dc004509149c1a7cf7e13e79e811b2ac4b4470388865378d90479c228"
+      },
+      "25": {
+        "source_ref": "Luke 16:25",
+        "source_chapter": 16,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "6eeda5bbd91c5d7a56a87efa48cd72ceb7f786b4e71e49e11edf9303ba4f2888"
+      },
+      "26": {
+        "source_ref": "Luke 16:26",
+        "source_chapter": 16,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "1a33cfa6a42cf8d92cf53b868892397200c0e0f6370beab903845426f35b0902"
+      },
+      "27": {
+        "source_ref": "Luke 16:27",
+        "source_chapter": 16,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "49048254b68bafcbc8557d948af91e035fb3275d7b22f1e2f9e106d8eec30037"
+      },
+      "28": {
+        "source_ref": "Luke 16:28",
+        "source_chapter": 16,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "851ea6334902686bf01ccdac5f64430b4b3086075fdafadbf0303d74d62422a4"
+      },
+      "29": {
+        "source_ref": "Luke 16:29",
+        "source_chapter": 16,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "aca7222cb79c46b550cc64d602670699b205fa25285a6547144e21ac04fd503b"
+      },
+      "30": {
+        "source_ref": "Luke 16:30",
+        "source_chapter": 16,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "443ce9452b9933340dbfdf5e38d924275381844548e48ef9682461de676754c9"
+      },
+      "31": {
+        "source_ref": "Luke 16:31",
+        "source_chapter": 16,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "c5cb417357d243b4f1335465437b7fad1bdd4fca05c49d4de677416d03a1b676"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/luke/Luke_16.md",
+    "blob_sha": "85ace4a68c1fb1422cb509926a86ad2a798d5052"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

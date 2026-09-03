@@ -1,0 +1,582 @@
+{
+  "book": "Luke",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 80,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt",
+    "git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Luke 1:1",
+        "source_chapter": 1,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "9d5aaa0d294955fe317f1ca32b761e58606fea6f9887d891cdc0b5b6d43009d2"
+      },
+      "2": {
+        "source_ref": "Luke 1:2",
+        "source_chapter": 1,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "1d7e94c5d6f8d599cd6321bf372f556136981775f8a397f2eeed10331f497627"
+      },
+      "3": {
+        "source_ref": "Luke 1:3",
+        "source_chapter": 1,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "036f1292b27d3b0406b61ee2b2bdf231595df9b75577549d2b4f1d9cb23fb4af"
+      },
+      "4": {
+        "source_ref": "Luke 1:4",
+        "source_chapter": 1,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "d3cf9046e012ea72f92d61f8eebd38ec5b3edde28784f30a608889e52ef39173"
+      },
+      "5": {
+        "source_ref": "Luke 1:5",
+        "source_chapter": 1,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "0c37682cf541393bc3ec54d89b74bb677716a1b846eeee0a9daba66d94ad1e5b"
+      },
+      "6": {
+        "source_ref": "Luke 1:6",
+        "source_chapter": 1,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "b5233abf84db16f062e0aa33c7f81064c34ac45b86b24cbc8463e7b0e27fa098"
+      },
+      "7": {
+        "source_ref": "Luke 1:7",
+        "source_chapter": 1,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "a3a45592a54dd0759251d020c7bf79dc3a25f9476db9d9a322bd5ca568b27b57"
+      },
+      "8": {
+        "source_ref": "Luke 1:8",
+        "source_chapter": 1,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "37e6e16c474b9cacf05f5f08893be9fc3690954d0c960a3964ce4e06f2950ad9"
+      },
+      "9": {
+        "source_ref": "Luke 1:9",
+        "source_chapter": 1,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "da743d891d498a45cf219010fc22038d1daab712489547bd8985d565f4589623"
+      },
+      "10": {
+        "source_ref": "Luke 1:10",
+        "source_chapter": 1,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "77755820aca4c9335bb335f357033dc9f65e9bf088e1b3ea59e180edc75cf570"
+      },
+      "11": {
+        "source_ref": "Luke 1:11",
+        "source_chapter": 1,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "b51b3e45a6e1a4f222806349e7e9068d773633f2778fffc90ce5d0939c524e0c"
+      },
+      "12": {
+        "source_ref": "Luke 1:12",
+        "source_chapter": 1,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "35c3892f59748b5731caba40f09e36924ba87bc61fd4a89e3ec7bfb82314d4b5"
+      },
+      "13": {
+        "source_ref": "Luke 1:13",
+        "source_chapter": 1,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "6e68ded0d93318496c52d1ed7339ea3e1eafbc94190b1f966369a6490d232b89"
+      },
+      "14": {
+        "source_ref": "Luke 1:14",
+        "source_chapter": 1,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "8c93b311632466022c7bd95e9a9fbbc0713dfce7cd22e5d31901e23bc914bdba"
+      },
+      "15": {
+        "source_ref": "Luke 1:15",
+        "source_chapter": 1,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "5138d8e6140d8cc130d6ca3d402907eab2e51e39ef27b7c8950fae1e3c4a9cc8"
+      },
+      "16": {
+        "source_ref": "Luke 1:16",
+        "source_chapter": 1,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "8a8659e83f36b554d4e21508d9ed216727cb135b546fb1915456f14b3ead8388"
+      },
+      "17": {
+        "source_ref": "Luke 1:17",
+        "source_chapter": 1,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "8d575d7a2e59a859fc94e517a25e3ad9a6159a586d5418006c083be20cf5a8f2"
+      },
+      "18": {
+        "source_ref": "Luke 1:18",
+        "source_chapter": 1,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "e55fa345050627bc5c53923ea47aa2fdfd9a58d0d0a48cabbc05a48329351606"
+      },
+      "19": {
+        "source_ref": "Luke 1:19",
+        "source_chapter": 1,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "7686e8b6e8c9240f75f4d9aab83f25797af55acae890ae0e0b4ffb1a6adeb571"
+      },
+      "20": {
+        "source_ref": "Luke 1:20",
+        "source_chapter": 1,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "1a08bec0ea2656b0cc76e7c88aa1477f284749a39ac3044dab92549c99c66f5b"
+      },
+      "21": {
+        "source_ref": "Luke 1:21",
+        "source_chapter": 1,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "34baad20e3d25a29ad6b33e36e3fcb0a282b460b3d28907b0393bda6c4a2f3e7"
+      },
+      "22": {
+        "source_ref": "Luke 1:22",
+        "source_chapter": 1,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "fc5f6bebb00fab5fa3b330f22986fa8a5d25599a07d3f2506240b05ae6a64725"
+      },
+      "23": {
+        "source_ref": "Luke 1:23",
+        "source_chapter": 1,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "ae640053bcc86ebb3e20c2ee0f4f21e94d62f3536241a7373f70b4368a90fa86"
+      },
+      "24": {
+        "source_ref": "Luke 1:24",
+        "source_chapter": 1,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "c03f58f02256588a3f7c7794b36584945bec5c0622eee28361872168637f4575"
+      },
+      "25": {
+        "source_ref": "Luke 1:25",
+        "source_chapter": 1,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "6e241dd1e7617bf89b80d616d885a4970c1801795bbff75fb46571c1a77ce02c"
+      },
+      "26": {
+        "source_ref": "Luke 1:26",
+        "source_chapter": 1,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "110d364097353b5416bcba16a6a512183a5165c016da391202ae3f59ac132e2b"
+      },
+      "27": {
+        "source_ref": "Luke 1:27",
+        "source_chapter": 1,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "2e2a7d3594102568ece55233dccc672350854b6ff73e3490799515afefef293b"
+      },
+      "28": {
+        "source_ref": "Luke 1:28",
+        "source_chapter": 1,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "503aeaa69f16673b922e46c18ce83c2f3a126533d9963951742603b8c670fa15"
+      },
+      "29": {
+        "source_ref": "Luke 1:29",
+        "source_chapter": 1,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "8b6b0b5db08e1c84d465c653c6f53e675fd37846f7478a81e9caed03b5b4b6a3"
+      },
+      "30": {
+        "source_ref": "Luke 1:30",
+        "source_chapter": 1,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "bb58abc5aa3dd5d9f626af0f8b58022d9805f514c59d5681cc3838b02366092d"
+      },
+      "31": {
+        "source_ref": "Luke 1:31",
+        "source_chapter": 1,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "5b3123538f3be91822f70007f4ff5f689b65d99f17411bc2a8d7d58503c480de"
+      },
+      "32": {
+        "source_ref": "Luke 1:32",
+        "source_chapter": 1,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "b2a6b919f5d13e03de05d9ff9c23f678aaab390bbfd679676f56faa4982c9936"
+      },
+      "33": {
+        "source_ref": "Luke 1:33",
+        "source_chapter": 1,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "daa829add2ac2ff615ad354d1dc5f435fe3cd17ae4d139cf43383c889dd67eb2"
+      },
+      "34": {
+        "source_ref": "Luke 1:34",
+        "source_chapter": 1,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "e8f5c83f67c2ac28a5c5039f24904299c22c38e0580b024a7558fc927233cecf"
+      },
+      "35": {
+        "source_ref": "Luke 1:35",
+        "source_chapter": 1,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "bcc3f5b9997b53d8ec0f87c7c214804e6951d9ac8a2c41f63060ed35e447989d"
+      },
+      "36": {
+        "source_ref": "Luke 1:36",
+        "source_chapter": 1,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "0214a1a0d561edd46b60df6bccf593ce3e92d5bdf6dd438fad302cef1f410b4b"
+      },
+      "37": {
+        "source_ref": "Luke 1:37",
+        "source_chapter": 1,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "92f1b98e55021341e6f877980f11c1c01cb03f145f82e6be7c5279f253bc07bf"
+      },
+      "38": {
+        "source_ref": "Luke 1:38",
+        "source_chapter": 1,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "a52d55f729649f3f5c82a207a1b33903a52d0f71799f71e38b7b0ae8c6f81ab0"
+      },
+      "39": {
+        "source_ref": "Luke 1:39",
+        "source_chapter": 1,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "a2d6e8f8b3f5f15f03b0bf6b94db6b74f43036b0a359d2dd38fc48a8eef4eab1"
+      },
+      "40": {
+        "source_ref": "Luke 1:40",
+        "source_chapter": 1,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "10cc8e717c39d220460dd1defdb7a8926c4212eeea7c2ae863a9a26d6bca0578"
+      },
+      "41": {
+        "source_ref": "Luke 1:41",
+        "source_chapter": 1,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "2a8c83fe54cb60b75c4ab4df1e2b41d7ac2287bde5a1f9792c1848c10bd9f917"
+      },
+      "42": {
+        "source_ref": "Luke 1:42",
+        "source_chapter": 1,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "4682d98712dec2c6df8f30b1a9880d6919a002dcb5c7a6c705d209d41c263bab"
+      },
+      "43": {
+        "source_ref": "Luke 1:43",
+        "source_chapter": 1,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "f699f9fea75cdcff950cc299d0010ff51f732149c342ac197f47903237455126"
+      },
+      "44": {
+        "source_ref": "Luke 1:44",
+        "source_chapter": 1,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "fff9e1a3fe3cdb14acc3870f9bbd510bb0d0ceea5ce026e9f471efa8ad274863"
+      },
+      "45": {
+        "source_ref": "Luke 1:45",
+        "source_chapter": 1,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "5b3101004639a4ebc4a279dd2fb02f085de455302f69f10e4f95f596543135e8"
+      },
+      "46": {
+        "source_ref": "Luke 1:46",
+        "source_chapter": 1,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "1cf86340900d795da758359f934fd97289a5cdcce3905558960ad0edfa378085"
+      },
+      "47": {
+        "source_ref": "Luke 1:47",
+        "source_chapter": 1,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "eda1823150e89669828991e1ff141860617daedc1c2f158a8c501be9a3a925f5"
+      },
+      "48": {
+        "source_ref": "Luke 1:48",
+        "source_chapter": 1,
+        "source_verse": 48,
+        "segment_mode": "whole_record",
+        "sha256": "2d80d689703495e079dbdb7b0afbff2814ae3009d5da29f5d852bb014979d1bd"
+      },
+      "49": {
+        "source_ref": "Luke 1:49",
+        "source_chapter": 1,
+        "source_verse": 49,
+        "segment_mode": "whole_record",
+        "sha256": "70f62729563fe0b000d3355ef21d4def7c66923dc82e1a16efd4a7f08d0a498f"
+      },
+      "50": {
+        "source_ref": "Luke 1:50",
+        "source_chapter": 1,
+        "source_verse": 50,
+        "segment_mode": "whole_record",
+        "sha256": "15d3be03862a0f874069ff23ba6b24b77bb15433edf38c8e4479db0fcf2a2283"
+      },
+      "51": {
+        "source_ref": "Luke 1:51",
+        "source_chapter": 1,
+        "source_verse": 51,
+        "segment_mode": "whole_record",
+        "sha256": "aba6dccbe46f3aacc92e3219053062b6dba89f5b6093a8340ba2f280d1bc945d"
+      },
+      "52": {
+        "source_ref": "Luke 1:52",
+        "source_chapter": 1,
+        "source_verse": 52,
+        "segment_mode": "whole_record",
+        "sha256": "16cf4b06d2b47ee563ae9902d758e7f880d6a5ebf739bb41a83d238636d8ac8c"
+      },
+      "53": {
+        "source_ref": "Luke 1:53",
+        "source_chapter": 1,
+        "source_verse": 53,
+        "segment_mode": "whole_record",
+        "sha256": "0df240357371413629c5d04af189b4ceb0942975396ea95811443435297ab8c4"
+      },
+      "54": {
+        "source_ref": "Luke 1:54",
+        "source_chapter": 1,
+        "source_verse": 54,
+        "segment_mode": "whole_record",
+        "sha256": "f2476522c82fee247cb9f6ca7ea2ff73e1a23893df993ca278e652b23743155a"
+      },
+      "55": {
+        "source_ref": "Luke 1:55",
+        "source_chapter": 1,
+        "source_verse": 55,
+        "segment_mode": "whole_record",
+        "sha256": "de8afa41b58b737658d33a5e58002357025fa95dda812ba91b9af3e18054eee5"
+      },
+      "56": {
+        "source_ref": "Luke 1:56",
+        "source_chapter": 1,
+        "source_verse": 56,
+        "segment_mode": "whole_record",
+        "sha256": "4459f724686f08c1c65d21727610f9065d99fe72326ded87869cb30120e16fa6"
+      },
+      "57": {
+        "source_ref": "Luke 1:57",
+        "source_chapter": 1,
+        "source_verse": 57,
+        "segment_mode": "whole_record",
+        "sha256": "79422997f064f03dc540ef7e3453f8da63eaec79f7dd20ed49cc93de0f70f28a"
+      },
+      "58": {
+        "source_ref": "Luke 1:58",
+        "source_chapter": 1,
+        "source_verse": 58,
+        "segment_mode": "whole_record",
+        "sha256": "3c158d36105d070acd4c640f71af4ece877caf9c5581655e46864b71b1ac11e5"
+      },
+      "59": {
+        "source_ref": "Luke 1:59",
+        "source_chapter": 1,
+        "source_verse": 59,
+        "segment_mode": "whole_record",
+        "sha256": "6c156212e96f81b059de01d694dc22a5252ab674a1bea2ecb42369dd6d1395d7"
+      },
+      "60": {
+        "source_ref": "Luke 1:60",
+        "source_chapter": 1,
+        "source_verse": 60,
+        "segment_mode": "whole_record",
+        "sha256": "c58484c87ff4f1fe5b372f63dd8a406ecf0e20ddcd8ad53a6a4d96bc6ed5cbb5"
+      },
+      "61": {
+        "source_ref": "Luke 1:61",
+        "source_chapter": 1,
+        "source_verse": 61,
+        "segment_mode": "whole_record",
+        "sha256": "c6e31edfb46362ca9bb16c2cf050b03af6263d332348ac4f71342b523856d24e"
+      },
+      "62": {
+        "source_ref": "Luke 1:62",
+        "source_chapter": 1,
+        "source_verse": 62,
+        "segment_mode": "whole_record",
+        "sha256": "722bc20e33fd6684024f3b6d20743beb662caadf0c640997376ff36be016ff6a"
+      },
+      "63": {
+        "source_ref": "Luke 1:63",
+        "source_chapter": 1,
+        "source_verse": 63,
+        "segment_mode": "whole_record",
+        "sha256": "1cae6e825be34b522e3a940714f7072c951ad4059ef581f39a0c03aa2f835367"
+      },
+      "64": {
+        "source_ref": "Luke 1:64",
+        "source_chapter": 1,
+        "source_verse": 64,
+        "segment_mode": "whole_record",
+        "sha256": "bbda032601250a0ac96c79b91002c610dc9b0928278ddcfa75473a91fe4a119a"
+      },
+      "65": {
+        "source_ref": "Luke 1:65",
+        "source_chapter": 1,
+        "source_verse": 65,
+        "segment_mode": "whole_record",
+        "sha256": "cd7bd82fc179d4340546b9ffe831b325c3575acca56b42ca960ced0960efd7ef"
+      },
+      "66": {
+        "source_ref": "Luke 1:66",
+        "source_chapter": 1,
+        "source_verse": 66,
+        "segment_mode": "whole_record",
+        "sha256": "4ba9d6d83eefbc17d2d7731eb9407ffd34c9498bf553e0992fd5a90a5bd3fca1"
+      },
+      "67": {
+        "source_ref": "Luke 1:67",
+        "source_chapter": 1,
+        "source_verse": 67,
+        "segment_mode": "whole_record",
+        "sha256": "3e0328275dda071f86645925fdadc2d4f4795eb76ec288f0fc242f306b1391a9"
+      },
+      "68": {
+        "source_ref": "Luke 1:68",
+        "source_chapter": 1,
+        "source_verse": 68,
+        "segment_mode": "whole_record",
+        "sha256": "ba9e95d227c733f8b3073db1cc1d3ed5950924cc3a83ef5c90fc100287642506"
+      },
+      "69": {
+        "source_ref": "Luke 1:69",
+        "source_chapter": 1,
+        "source_verse": 69,
+        "segment_mode": "whole_record",
+        "sha256": "cb62ea9cdae41ac7714aef4213e48fab551cfe56a079133edc7a407368aa11fc"
+      },
+      "70": {
+        "source_ref": "Luke 1:70",
+        "source_chapter": 1,
+        "source_verse": 70,
+        "segment_mode": "whole_record",
+        "sha256": "ddbebb69cf2afa8e01124c902486d07e33b2356e2ed71d5445799b0d85496b1f"
+      },
+      "71": {
+        "source_ref": "Luke 1:71",
+        "source_chapter": 1,
+        "source_verse": 71,
+        "segment_mode": "whole_record",
+        "sha256": "58fbc7185ac00c6ece94b937e55fcaa51169931bbed532c758537acf4e7bbd0e"
+      },
+      "72": {
+        "source_ref": "Luke 1:72",
+        "source_chapter": 1,
+        "source_verse": 72,
+        "segment_mode": "whole_record",
+        "sha256": "90422d169f00d517bfe32945fd4f56a392a9f6caaa8f6e67582a7f3d0b9036f5"
+      },
+      "73": {
+        "source_ref": "Luke 1:73",
+        "source_chapter": 1,
+        "source_verse": 73,
+        "segment_mode": "whole_record",
+        "sha256": "a37701ffb88033ab04cfc1c9882a3065fdc23963a856ef7025d00bc2180175b7"
+      },
+      "74": {
+        "source_ref": "Luke 1:74",
+        "source_chapter": 1,
+        "source_verse": 74,
+        "segment_mode": "whole_record",
+        "sha256": "4b6a5c22277ea5a9f8eace23270f9a277e3ae5924dbd3f223132e7e392b4c173"
+      },
+      "75": {
+        "source_ref": "Luke 1:75",
+        "source_chapter": 1,
+        "source_verse": 75,
+        "segment_mode": "whole_record",
+        "sha256": "641c6dac5cfedb09e70f840506822d72027b56c526035427c765c8a3980524af"
+      },
+      "76": {
+        "source_ref": "Luke 1:76",
+        "source_chapter": 1,
+        "source_verse": 76,
+        "segment_mode": "whole_record",
+        "sha256": "0e25b6772cb9c9acad206fc6f7982cb1f8dc5d3b9665ac1c5fb25824cec1793b"
+      },
+      "77": {
+        "source_ref": "Luke 1:77",
+        "source_chapter": 1,
+        "source_verse": 77,
+        "segment_mode": "whole_record",
+        "sha256": "e67c959726ee81b74709bd91ab019b7a42152f8169aa323df12b62141d6937c1"
+      },
+      "78": {
+        "source_ref": "Luke 1:78",
+        "source_chapter": 1,
+        "source_verse": 78,
+        "segment_mode": "whole_record",
+        "sha256": "ba590ebdd4ee0f298ffb86edcd7d113709b83324d4a510e77aeeb2fc7c1a3b96"
+      },
+      "79": {
+        "source_ref": "Luke 1:79",
+        "source_chapter": 1,
+        "source_verse": 79,
+        "segment_mode": "whole_record",
+        "sha256": "4d795c8033e5e229cc02a5c53bd4f88d2881a372aa4b694fd28b8b7704c2b14d"
+      },
+      "80": {
+        "source_ref": "Luke 1:80",
+        "source_chapter": 1,
+        "source_verse": 80,
+        "segment_mode": "whole_record",
+        "sha256": "1ddbb2f85dacb115ff7436444978d329affa213e71757dc4077f3f51c5edd673"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/luke/Luke_01.md",
+    "blob_sha": "93dc6e4a6c4110656cd75d26ffd821aebd88baac"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

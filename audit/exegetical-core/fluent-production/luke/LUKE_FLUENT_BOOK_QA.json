@@ -1,0 +1,392 @@
+{
+  "book": "Luke",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_status": "RETAINED_FOR_BATCH_DEPLOYMENT",
+  "chapter_count": 24,
+  "public_verse_slots": 1151,
+  "included_verse_labels": 1149,
+  "critical_text_absent_public_verses": {
+    "17": [
+      36
+    ],
+    "23": [
+      17
+    ]
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Luke.txt"
+  },
+  "book_level_anchors": [
+    "Spirit/Holy Spirit",
+    "prayer",
+    "today",
+    "salvation/save",
+    "good news to the poor",
+    "rich/poor and low/high reversal",
+    "table fellowship",
+    "mercy/compassion",
+    "journey toward Jerusalem",
+    "lost/found",
+    "witness",
+    "Scripture fulfillment and divine necessity",
+    "women, Samaritans, tax collectors, Gentiles and other outsiders"
+  ],
+  "deployment": "NT_BATCH_01",
+  "curated_f3_decisions": [
+    {
+      "location": "1:28",
+      "decision": "favored one; do not insert later ecclesial titles"
+    },
+    {
+      "location": "1:34",
+      "decision": "naturalize know-a-man idiom as sexual relations"
+    },
+    {
+      "location": "1:46-55",
+      "decision": "preserve Magnificat social reversal"
+    },
+    {
+      "location": "2:2",
+      "decision": "translate pinned text; chronology remains historically debated"
+    },
+    {
+      "location": "2:7",
+      "decision": "guest room/lodging place, not commercial inn"
+    },
+    {
+      "location": "2:14",
+      "decision": "peace among people of God's favor"
+    },
+    {
+      "location": "2:22",
+      "decision": "retain their purification critical reading"
+    },
+    {
+      "location": "2:49",
+      "decision": "Father's house main; Father's affairs range noted"
+    },
+    {
+      "location": "3:10-14",
+      "decision": "retain concrete economic content of repentance"
+    },
+    {
+      "location": "4:5-12",
+      "decision": "preserve Luke's temptation order; do not harmonize to Matthew"
+    },
+    {
+      "location": "4:18-21",
+      "decision": "good news/release/sight/oppression and today fulfillment"
+    },
+    {
+      "location": "5:10",
+      "decision": "zōgreō = catching people alive"
+    },
+    {
+      "location": "6:20-26",
+      "decision": "direct poor/rich blessings and woes; no Matthew harmonization"
+    },
+    {
+      "location": "6:36",
+      "decision": "merciful, not Matthew's complete/perfect"
+    },
+    {
+      "location": "7:29",
+      "decision": "dikaioō = acknowledge/vindicate God as right"
+    },
+    {
+      "location": "7:47",
+      "decision": "love as evidence of forgiveness, not causal payment"
+    },
+    {
+      "location": "8:43",
+      "decision": "follow shorter SBLGNT text; physician-spending expansion excluded"
+    },
+    {
+      "location": "9:23",
+      "decision": "retain Luke's daily cross"
+    },
+    {
+      "location": "9:31",
+      "decision": "exodos/departure retained in apparatus and Jerusalem frame"
+    },
+    {
+      "location": "9:35",
+      "decision": "Chosen One pinned reading; Beloved variant noted"
+    },
+    {
+      "location": "9:51",
+      "decision": "set his face toward Jerusalem as structural turn"
+    },
+    {
+      "location": "10:1",
+      "decision": "seventy-two pinned reading; seventy variant noted"
+    },
+    {
+      "location": "10:29-37",
+      "decision": "neighbor becomes vocation; Samaritan remains outsider-protagonist"
+    },
+    {
+      "location": "10:42",
+      "decision": "one thing is necessary pinned reading"
+    },
+    {
+      "location": "11:2-4",
+      "decision": "shorter Lukan Lord's Prayer; no Matthew harmonization"
+    },
+    {
+      "location": "11:13",
+      "decision": "Father gives Holy Spirit; preserve Luke's climax"
+    },
+    {
+      "location": "11:20",
+      "decision": "finger of God, not Matthew's Spirit of God"
+    },
+    {
+      "location": "12:20",
+      "decision": "psychē = life in rich-fool context"
+    },
+    {
+      "location": "12:32-33",
+      "decision": "kingdom as Father's gift before sell/give command"
+    },
+    {
+      "location": "13:1-5",
+      "decision": "reject suffering=greater-sin inference; universal repentance warning"
+    },
+    {
+      "location": "14:23",
+      "decision": "anankazō = strongly urge/compel; explicitly not warrant for coerced conversion"
+    },
+    {
+      "location": "14:26",
+      "decision": "retain severe hate language with priority note"
+    },
+    {
+      "location": "15:13",
+      "decision": "reckless living; do not import elder brother's prostitute allegation"
+    },
+    {
+      "location": "15:17",
+      "decision": "retain came to himself"
+    },
+    {
+      "location": "15:20-22",
+      "decision": "father compassion precedes confession; hired-worker request not completed"
+    },
+    {
+      "location": "15:30-32",
+      "decision": "this son of yours answered by this brother of yours; we had to celebrate"
+    },
+    {
+      "location": "16:8-9",
+      "decision": "shrewdness, not dishonesty, is commended"
+    },
+    {
+      "location": "16:16",
+      "decision": "kingdom pressing/forceful language left open"
+    },
+    {
+      "location": "16:19-31",
+      "decision": "rich man unnamed; Abraham's side; Scripture-hearing climax"
+    },
+    {
+      "location": "17:10",
+      "decision": "achreios = servants without a claim"
+    },
+    {
+      "location": "17:19",
+      "decision": "sōzō extends beyond cleansing for returning Samaritan"
+    },
+    {
+      "location": "17:21",
+      "decision": "kingdom in your midst main; within-you range noted"
+    },
+    {
+      "location": "17:36",
+      "decision": "public-number gap; absent from pinned SBLGNT main text"
+    },
+    {
+      "location": "18:13-14",
+      "decision": "hilaskomai mercy/atonement; dikaioō = set right"
+    },
+    {
+      "location": "18:35",
+      "decision": "Luke approaches Jericho; do not harmonize geography to Mark/Matthew"
+    },
+    {
+      "location": "19:5,9",
+      "decision": "preserve today + divine necessity + salvation"
+    },
+    {
+      "location": "19:27",
+      "decision": "violent action remains within parable, not discipleship command"
+    },
+    {
+      "location": "21:20",
+      "decision": "Jerusalem surrounded by armies; do not substitute Synoptic abomination wording"
+    },
+    {
+      "location": "22:19-20",
+      "decision": "include pinned bracketed long Supper text with textual note"
+    },
+    {
+      "location": "22:36-38",
+      "decision": "do not convert sword saying into general armed-defense doctrine"
+    },
+    {
+      "location": "22:43-44",
+      "decision": "include pinned bracketed angel/agony verses with textual note"
+    },
+    {
+      "location": "22:51",
+      "decision": "retain unique healing of severed ear"
+    },
+    {
+      "location": "23:17",
+      "decision": "public-number gap; absent from pinned SBLGNT main text"
+    },
+    {
+      "location": "23:34",
+      "decision": "include pinned bracketed Father-forgive-them saying with textual note"
+    },
+    {
+      "location": "23:43",
+      "decision": "today you will be with me in paradise"
+    },
+    {
+      "location": "23:47",
+      "decision": "centurion = righteous, not harmonized to Son-of-God Synoptic wording"
+    },
+    {
+      "location": "24:12",
+      "decision": "include pinned bracketed Peter-at-tomb verse with textual note"
+    },
+    {
+      "location": "24:40",
+      "decision": "include pinned bracketed hands/feet verse with textual note"
+    },
+    {
+      "location": "24:51-52",
+      "decision": "include pinned bracketed ascension/worship clauses with textual note"
+    },
+    {
+      "location": "24:44-49",
+      "decision": "Law/Prophets/Psalms fulfillment, repentance/forgiveness, nations, Jerusalem, witness, promise/power form bridge to Acts"
+    }
+  ],
+  "deployment_audit": {
+    "source_git_blob_sha": "735aca6a87f3339d806e5330461cb4c7a7d46d9c",
+    "source_binding_count": 1149,
+    "unique_source_record_count": 1149,
+    "public_verse_slots": 1151,
+    "ledger_summary": {
+      "F0": 40,
+      "F1": 520,
+      "F2": 458,
+      "F3": 133
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/luke/Luke_01.md",
+        "blob_sha": "93dc6e4a6c4110656cd75d26ffd821aebd88baac"
+      },
+      "02": {
+        "path": "books/NT/luke/Luke_02.md",
+        "blob_sha": "809c3633c8f7ef70c7f9bbccffeec2eb441eeaa3"
+      },
+      "03": {
+        "path": "books/NT/luke/Luke_03.md",
+        "blob_sha": "d3e2955dc8d9ceb1de576c83119d96b0cd875118"
+      },
+      "04": {
+        "path": "books/NT/luke/Luke_04.md",
+        "blob_sha": "d110f3b419fe345d6705777535c696e57138f403"
+      },
+      "05": {
+        "path": "books/NT/luke/Luke_05.md",
+        "blob_sha": "fc834bcb848cba5d7bae82ad668a9b76a664842e"
+      },
+      "06": {
+        "path": "books/NT/luke/Luke_06.md",
+        "blob_sha": "ce2038f3af7cd3ac92e72193f5f6f5a7e62bfcdd"
+      },
+      "07": {
+        "path": "books/NT/luke/Luke_07.md",
+        "blob_sha": "50553eb7f8ee67c4ab8a534e770cff867e8c2f31"
+      },
+      "08": {
+        "path": "books/NT/luke/Luke_08.md",
+        "blob_sha": "5c8642074788edd4449d6b84d0aad14944236595"
+      },
+      "09": {
+        "path": "books/NT/luke/Luke_09.md",
+        "blob_sha": "fb11ff56ba8fce4f9ea55b68380af7aee4cd2ae2"
+      },
+      "10": {
+        "path": "books/NT/luke/Luke_10.md",
+        "blob_sha": "8116c8099691f91b7e39ebffc7a13ca9efe6246e"
+      },
+      "11": {
+        "path": "books/NT/luke/Luke_11.md",
+        "blob_sha": "3f1ad23f41a4ab6d2172a250cf5843dbd372c13c"
+      },
+      "12": {
+        "path": "books/NT/luke/Luke_12.md",
+        "blob_sha": "5882663beaa64fee4d34eee9f33bad86925abf30"
+      },
+      "13": {
+        "path": "books/NT/luke/Luke_13.md",
+        "blob_sha": "977f909e39459586d499fb1c4d8cb1b98f8cd797"
+      },
+      "14": {
+        "path": "books/NT/luke/Luke_14.md",
+        "blob_sha": "acf6e83e478c6e1f3cddd5e1de753c25fb156e3b"
+      },
+      "15": {
+        "path": "books/NT/luke/Luke_15.md",
+        "blob_sha": "61898edde98ef04eda49a6523224edfab2ea7d5c"
+      },
+      "16": {
+        "path": "books/NT/luke/Luke_16.md",
+        "blob_sha": "85ace4a68c1fb1422cb509926a86ad2a798d5052"
+      },
+      "17": {
+        "path": "books/NT/luke/Luke_17.md",
+        "blob_sha": "dc7dfd3f353b1bb91883fb31da189c688ef35b22"
+      },
+      "18": {
+        "path": "books/NT/luke/Luke_18.md",
+        "blob_sha": "66c40f43338a8b173cde0a215ed495a3f89ba78a"
+      },
+      "19": {
+        "path": "books/NT/luke/Luke_19.md",
+        "blob_sha": "8c48856591bd1944e7f7c018e1ec9f2c45e6fdf3"
+      },
+      "20": {
+        "path": "books/NT/luke/Luke_20.md",
+        "blob_sha": "19ccb63493c4622e51b107be2e784e2c53575a0e"
+      },
+      "21": {
+        "path": "books/NT/luke/Luke_21.md",
+        "blob_sha": "abae95129a798262a3dd3ea2f4125c37417075ec"
+      },
+      "22": {
+        "path": "books/NT/luke/Luke_22.md",
+        "blob_sha": "c72fde9adcc8e79eec1064da5ce79aa1a77189df"
+      },
+      "23": {
+        "path": "books/NT/luke/Luke_23.md",
+        "blob_sha": "de466df6f67a3fb4aab737b66de0b8677bf823cc"
+      },
+      "24": {
+        "path": "books/NT/luke/Luke_24.md",
+        "blob_sha": "5f6f2bb6b70bd6ba77baca82c1951fae9cc16ea1"
+      }
+    }
+  }
+}
