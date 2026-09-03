@@ -1,0 +1,171 @@
+{
+  "book": "Mark",
+  "translation": "FLUENT",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Mark.txt",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Mark.txt"
+  },
+  "public_chapter_counts": {
+    "1": 45,
+    "2": 28,
+    "3": 35,
+    "4": 41,
+    "5": 43,
+    "6": 56,
+    "7": 37,
+    "8": 38,
+    "9": 50,
+    "10": 52,
+    "11": 33,
+    "12": 44,
+    "13": 37,
+    "14": 72,
+    "15": 47,
+    "16": 20
+  },
+  "critical_text_absent_public_verses": {
+    "7": [
+      16
+    ],
+    "9": [
+      44,
+      46
+    ],
+    "11": [
+      26
+    ],
+    "15": [
+      28
+    ]
+  },
+  "public_verse_slots": 678,
+  "critical_or_included_verse_labels": 673,
+  "anchors": [
+    {
+      "id": "MARK.EUTHYS",
+      "decision": "Preserve Mark’s immediately/at-once urgency selectively where it structures scenes; do not mechanically reproduce every conjunction."
+    },
+    {
+      "id": "MARK.GOOD_NEWS",
+      "decision": "Use good news for euangelion and keep the proclamation network visible from 1:1 through 16."
+    },
+    {
+      "id": "MARK.KINGDOM",
+      "decision": "Use kingdom of God as the main familiar biblical rendering for basileia, with reign/rule preserved in apparatus."
+    },
+    {
+      "id": "MARK.HAND_OVER",
+      "decision": "Preserve paradidōmi as hand over across John, Judas, Jesus’ predictions, arrest, trial, and discipleship warnings."
+    },
+    {
+      "id": "MARK.AUTHORITY",
+      "decision": "Preserve exousia/authority from teaching and exorcism through the Jerusalem authority dispute."
+    },
+    {
+      "id": "MARK.FOLLOW_WAY",
+      "decision": "Preserve follow/come after and hodos/way so the journey to Jerusalem and discipleship remain lexically connected."
+    },
+    {
+      "id": "MARK.SON_OF_MAN",
+      "decision": "Retain Son of Man without paraphrasing the title into one interpretation."
+    },
+    {
+      "id": "MARK.SAVE",
+      "decision": "Preserve the sōzō network while allowing contextually natural save/heal/restore/made-well renderings."
+    },
+    {
+      "id": "MARK.CLEAN_UNCLEAN",
+      "decision": "Preserve clean/unclean and defilement language as a major purity/restoration network."
+    },
+    {
+      "id": "MARK.PERCEPTION",
+      "decision": "Preserve seeing/hearing/understanding/hardened-heart language, especially across bread, blindness, confession, and discipleship."
+    },
+    {
+      "id": "MARK.SECRECY",
+      "decision": "Preserve commands to silence, failed silence, and gradual disclosure without turning them into a single explanatory theory."
+    },
+    {
+      "id": "MARK.SERVICE",
+      "decision": "Preserve servant/slave/greatness/ransom vocabulary culminating in 10:42–45."
+    },
+    {
+      "id": "MARK.PASSION",
+      "decision": "Preserve cross-bearing, cup, hand-over, mock kingship, saving irony, and abandonment language without doctrinal expansion."
+    },
+    {
+      "id": "MARK.ENDING",
+      "decision": "Treat 16:1–8 as SBLGNT continuous main text and 16:9–20 as clearly separated ancient textual tradition; note the shorter ending in apparatus."
+    }
+  ],
+  "f3": {
+    "1:1": "SBLGNT main text lacks Son of God; important variant recorded in apparatus.",
+    "1:41": "Pinned SBLGNT reads moved with anger; compassion is an important textual variant and current TSW reading.",
+    "2:26": "Abiathar reference retained without harmonization to Samuel.",
+    "3:21": "hoi par’ autou and the subject of they were saying are syntactically open; close associates used without forcing family.",
+    "3:29": "Eternal-sin warning kept in immediate narrative context of attributing Spirit-work to an unclean spirit.",
+    "4:12": "Isaiah quotation retains Mark’s so-that structure without smoothing purpose/result tension.",
+    "6:22": "Pinned SBLGNT supports Herodias’s own daughter; current TSW wording flagged for reconciliation.",
+    "6:48": "He intended to pass by them retained; possible theophanic resonance left open.",
+    "6:50": "egō eimi retained as I am, allowing ordinary reassurance and scriptural resonance.",
+    "7:16": "Verse absent from SBLGNT; public numbering gap retained.",
+    "7:19": "katharizōn construction rendered as making all foods clean; grammatical force noted.",
+    "7:27": "kynaria/dogs retained without removing the rhetorical and social tension.",
+    "8:22-25": "Two-stage healing preserved and not turned into an explicit allegory of the disciples.",
+    "8:31": "Son of Man must suffer retained; necessity not reduced to one explanatory category.",
+    "8:35-37": "psychē rendered life within save/lose/gain/exchange network, avoiding body-soul foreclosure.",
+    "9:1": "Kingdom having come with power retained without selecting one exhaustive referent.",
+    "9:23": "Compact Greek punctuation handled as echo of if you can; alternate construal acknowledged.",
+    "9:29": "SBLGNT reads prayer; later fasting expansion excluded from main text.",
+    "9:44": "Verse absent from SBLGNT; public numbering gap retained.",
+    "9:46": "Verse absent from SBLGNT; public numbering gap retained.",
+    "9:49": "Everyone will be salted with fire retained without selecting one disputed interpretation.",
+    "10:24": "SBLGNT lacks later phrase those who trust in riches; critical text followed.",
+    "10:45": "lytron rendered ransom; atonement mechanism not expanded into main text.",
+    "11:13": "Not the season for figs retained; symbolic difficulty not edited away.",
+    "11:23-24": "Faith/prayer sayings kept under Have faith in God, avoiding technique/guarantee paraphrase.",
+    "11:26": "Verse absent from SBLGNT; public numbering gap retained.",
+    "12:17": "Render/give-back saying retained without importing a complete political theology.",
+    "12:41-44": "Poor widow scene given a neutral heading because commendation versus temple-critique framing is debated.",
+    "13:14": "Abomination of desolation and reader aside retained without identifying one exclusive historical referent.",
+    "13:29": "Compressed it/he is near rendered it is near; referent left open.",
+    "13:30": "This generation retained without eschatological harmonization.",
+    "13:32": "The Son does not know the day/hour retained without theological qualification in main text.",
+    "14:24": "SBLGNT reads blood of the covenant, not expanded new covenant.",
+    "14:36": "Cup saying preserves genuine desire and obedience together.",
+    "14:41": "apechei rendered Enough; lexical difficulty noted.",
+    "14:62": "Jesus’ I am retained with Son of Man/cloud imagery.",
+    "14:68": "First rooster crow retained following SBLGNT; manuscript variation noted.",
+    "14:72": "epiballō rendered broke down and wept; lexical uncertainty noted.",
+    "15:2": "You say so retained as indirect response.",
+    "15:28": "Verse absent from SBLGNT; public numbering gap retained.",
+    "15:34": "Aramaic abandonment cry and translation both retained.",
+    "15:39": "Centurion confession rendered God’s Son; scene tied to manner of Jesus’ death.",
+    "16:8": "SBLGNT continuous main text ends here in fear/silence; shorter ending noted separately.",
+    "16:9-20": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8."
+  },
+  "f2": {
+    "1:15": "Kingdom idiom and pisteuō naturalized while preserving biblical vocabulary.",
+    "1:24": "Semitic confrontation idiom naturalized as What do you want with us.",
+    "2:19": "Sons of wedding chamber naturalized as wedding guests.",
+    "4:26-29": "Growing-seed syntax naturalized while preserving autonomous-growth imagery.",
+    "5:23-34": "sōzō healing/save network kept visible in natural narrative English.",
+    "6:6": "Public verse 6b integrated under v06 instead of left as unnumbered prose.",
+    "6:56": "sōzō summarized as made well while lexical link is documented.",
+    "7:2-5": "Purity idiom naturalized without reducing the dispute to hygiene.",
+    "8:34": "Inclusive natural English used while preserving deny-self/cross/follow structure.",
+    "10:15": "Child comparison left focused on receiving rather than supplied trait.",
+    "12:44": "bios rendered everything she had—all she had to live on.",
+    "13:6": "egō eimi false-claimant context naturalized as I am he.",
+    "16:16": "Trust/baptism wording naturalized while keeping condemnation attached explicitly to unbelief."
+  },
+  "longer_ending": {
+    "range": "16:9-20",
+    "status": "ANCIENT_TEXTUAL_TRADITION",
+    "main_continuous_text_ends": "16:8"
+  },
+  "source_license": "SBLGNT text used under CC BY 4.0; Faithlife/SBLGNT repository attribution retained."
+}

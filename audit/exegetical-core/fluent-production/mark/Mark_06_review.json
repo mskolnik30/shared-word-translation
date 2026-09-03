@@ -1,0 +1,525 @@
+{
+  "book": "Mark",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Mark.txt",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Mark.txt",
+    "source_file_sha256": "fe1b5a4c15db71e7e30f33fb67966ca93baffae377085ece0b88f66316729638"
+  },
+  "verse_count_public_slots": 56,
+  "verse_count_included": 56,
+  "critical_text_absent_public_verses": [],
+  "verse_ledger": [
+    {
+      "verse": 1,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "cc6afb58a56c631d8d166de3cf442aedaa8b161de9c1faa2913d3392ec1c1733",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "818be6c7225b22e2ac1a2a1a145f755b74ec9833c46f78060e191cfc93b3671b",
+      "tsw_text_sha256": "b4df51403c18cb8e75cc3c75a0bcc0e97c04924eded08ca07e4fbe7c80ba0dbe"
+    },
+    {
+      "verse": 2,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "40fbef4c29775fc5ecae24d7f5e565adeb8e459d5e3ac7c33f2e17f1a8134aa6",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "b129cd554073ee680844a43bd6e1f23032eb29e5c0189577c71330c4e7a2f787",
+      "tsw_text_sha256": "b04533bda12b88fc1b6f0ebc20b85a3c19e4cdd9049f9a3ec37e08e3c8b2425d"
+    },
+    {
+      "verse": 3,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "78798358f306bb475dbaed14570a1586f824e7ce024db3aa264ac7e820301ed2",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "e6a4eafe6c8e5e31ffe3389a4ee700df884c23486597b47f36cc650865ba1a03",
+      "tsw_text_sha256": "92c85e57d588c3ad8668d7ca64db6a96fc64def8085d5a1779770525cd3d1c41"
+    },
+    {
+      "verse": 4,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "15a73750a4937a3b819e2ec9cb11879ac957253c59e0306c2b1e2c20d0c6af53",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "8acb46a732a29aa88953a879aa4fe25e6433d45c23864afee04c7437d54b5927",
+      "tsw_text_sha256": "1e6585cca5c2a11ca71ec54554abf0e17c4cd1023d092e1b4859b945ac904f1a"
+    },
+    {
+      "verse": 5,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "eac45f4a92c10a1b45dc81c7b7b51cd4269a6ef606df9fbd3f76dc8b0585430f",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "8fefe5140d0133a4daa0bf2719f4be49357b4b2c80f0ee4a352381a8f355c52f",
+      "tsw_text_sha256": "e8ef15b9c7b840bc3b569f4b1e0d5b7f59666fa720c7fe2796122959aa2edca0"
+    },
+    {
+      "verse": 6,
+      "classification": "F2",
+      "rationale": "Public verse 6b integrated under v06 instead of left as unnumbered prose.",
+      "source_sha256": "73275ade8b613f4629a7336b00a7f071bbcb5fe04ff7ca784aa480d22a3deeca",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "adcc1ebb0e7bd59d670e62dcaeed6f7326f94fe25af7c297aff9c9695373126e",
+      "tsw_text_sha256": "3a47b5b32e6b52483cc9016ce9b100d8cdee83551d3ef85966c686fa271dcbd6"
+    },
+    {
+      "verse": 7,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "795d19ca509655b8a29d10ed7317f727671770ec5e011a6d5b7efc666dec2f45",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "51e2303c3bb2c59773ee482398b589799d5decfc2c6c3a7a3b840997ecd3e424",
+      "tsw_text_sha256": "655fca180ff236f2a66b0e08e973d9ea6d3717bb69067cc69ead2a3f77cea85d"
+    },
+    {
+      "verse": 8,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "27bff5965d5eefe9bb10a5405161fe319f682796c8e644e98774412287bab0ef",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "4986b51d248d69314df5bf17c9576d227da01d6597e3db9282425d4e322a7cb3",
+      "tsw_text_sha256": "20f0b9b525a59cc10e977782e79031d4a24dd085a69e2067b97fd64d88642dff"
+    },
+    {
+      "verse": 9,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "21c1a261d99dc5a5df5e9bb64f44bf36913fda963151fc3b550bf0eeab9a5919",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "1fe721454a8d18c77751b2f41eed701f8e7a9ac802c8032eeb52bc48857f7c93",
+      "tsw_text_sha256": "9050e2bff69836d08ebf2886ad759ed2a48bc76ade3b33c8bf6a47acdbf85b27"
+    },
+    {
+      "verse": 10,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "5eafbf3a334bdfaa7f05066b0cd48cf24040cb6b1f9527e1b7820713b304d8c1",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "db0f5862e633b6d9379c78bdc8ea6fa7101d75baac76f74897ee96cfce80a492",
+      "tsw_text_sha256": "73425c62e924ada003d8f0c38db47a79d1e128b0273c5123925281d24560fa2f"
+    },
+    {
+      "verse": 11,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "ea5547daa53d3ef678484cedcce4276e0311d28e8261a044c924519b2674e04c",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "749bb0ae8221c72462e5354f052ffd664544503986f983e6e5de69fde97474c4",
+      "tsw_text_sha256": "e0190eafd77875ba0bbe5ef1b8a84092e7fd8a2f2b31133d0d550bafa351ca39"
+    },
+    {
+      "verse": 12,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "241b66c7c3697edbf48b39a74d032528215891c655507ab466e95927abe22003",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "7096cd9ccae9b211116433542d15d65dd31dd7987a05986bcf830aca65d8cf76",
+      "tsw_text_sha256": "70e74f1ee4fec4ab4036bc5e776879c19a4f92c9736a9eacab11d3767ba8939d"
+    },
+    {
+      "verse": 13,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "1b46bd364046dc44dc81afda003566673034ca883d0ab7440e07bc0b9ad17c89",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "93fd2b57a0b07d450139ded334ebbec4310f91e6a9278fa3a512397270492fa3",
+      "tsw_text_sha256": "b07911cbc1b5ffc759c58f33baec29ce0ad794ae43ca8363a711bf1bd4f88c4c"
+    },
+    {
+      "verse": 14,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "58e1912ed6d31588549e7bb1aa03e44f6a6d79bad1e3d4d72f2c15ad836becf8",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "addc2a8abd2d5331a9c593056033527fa7d62297fcb3096ceb60b8b98666b6a7",
+      "tsw_text_sha256": "203a7c4594458b6167b22ec55d7f1748a4575a2de6cff4590bf9e6cd56e1272b"
+    },
+    {
+      "verse": 15,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "b626636a8816789a491318407052c5e45f718d9855a8d63d07c6cb54792905bc",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "8a1195b7ee3e8488879c1b43e93a4286305d31a22d847726a89a5dd35af1de6f",
+      "tsw_text_sha256": "cf83cd2fe8e704322961c2005f3fe5e8538b7b85ce98280ea35333872c9c35d7"
+    },
+    {
+      "verse": 16,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "ca7c1fec245c930b8afc6b935da96bb4d4dcf588c0d7c68f267ae022adc92b84",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "ad693974ba9240284717e4b7187f3b99c0b5ea657510baeb6355dea6c03f585b",
+      "tsw_text_sha256": "10f4ca58ceb8ea37a28c44dcd2910634221049a3d1bcc63aadec55edf688c680"
+    },
+    {
+      "verse": 17,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "26f689bc35eb8677514fe9ed0f6538afc0aba0eb3c5587d0d0c40bac14b941c5",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "a080e7b758ddc4e53cf3a553856eeb2aa40c00033862e2805b5a3aeff942a3d3",
+      "tsw_text_sha256": "e2cafc30f8cdbf0637a008ac4d01e1c5e98060383cbd081831fef7a3834a2732"
+    },
+    {
+      "verse": 18,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "8cdcea2ef4861c4e9f4aa13617ad0f5c0f3d02252cc97209356a19cbd3f1bc90",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "23054d76e6e1028037368184a0903bf4225ab67589f2266a2cb26e6079c413f1",
+      "tsw_text_sha256": "ccc255de7fac6622cbe64e1f78962aa7604d7d9a7028a032cb1a1bd3979df6a6"
+    },
+    {
+      "verse": 19,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "ad0628e832007ee3c806e8f3a8010abb805129e2889b0f8bd5ea2d70457f7b88",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "244067b7616386096fa6a4394bb44c4de54ba9d2da87f7d1febeebe91975c0bf",
+      "tsw_text_sha256": "fd5b6e626de8cf39116501b6fa48923e91833b0a58330139ee3c62517b40cd8c"
+    },
+    {
+      "verse": 20,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "59ad5189ea82584109a569452e08d0d22890bf633c1965c1f4ad1920332f6df1",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "b8c8218167e0e2d02806b27ee1d914207df8b6441b12cf1f22db184388a719da",
+      "tsw_text_sha256": "b5f24aa646502924886396142abd8f60a62997f5d92f91e57aa259fbfb022892"
+    },
+    {
+      "verse": 21,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "eac29d0ce9b123b5be91792352bc6dd777612dcd1372f25a1d06ff83f7dcb2cf",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "72601ee49ad2b6e1d92150d17a4767e86fc44ee67e7499485d48895db8cec6a8",
+      "tsw_text_sha256": "437825d2b9da726d276056f3535097cb229bf74e7780b869b9e178ec4b1912a2"
+    },
+    {
+      "verse": 22,
+      "classification": "F3",
+      "rationale": "Pinned SBLGNT supports Herodias’s own daughter; current TSW wording flagged for reconciliation.",
+      "source_sha256": "e07eb5c9da5ea9db09e432b2d7bb5fd4f38a0712cc7d95d8e8666dd52b5fcabb",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "583516e3d3628711ec0a57f2c58fe8ae1ba429a77ad12441f4cf665c5e62d64e",
+      "tsw_text_sha256": "dc00483533f848125ed210e469b4584921ecb994721f2661fb8ecb81290acc9a"
+    },
+    {
+      "verse": 23,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "47c834e7a8ab556f0e9a1992fbade79bc01f67365c1735e9cedf00e742cd678b",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "b401100e784e8c0eae7b39df8af507fa981767ff926d50e49bd90e0ff4a4b0d3",
+      "tsw_text_sha256": "2401ec98234be2a7b8fc02b5e9c0e30b799f142965e5a2c08f9660bdbc0ef63b"
+    },
+    {
+      "verse": 24,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "363ae217f1d802a3e735ee0af5f087d78d43d00b7cf807e00d33df37643416ec",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "7f5ef1cc9f071db2de6244e61835d0996fb68b591988ab0b9cf1e0f6e0daeb6e",
+      "tsw_text_sha256": "cadb6ebc48d6855bb5c5e59b9af6e3afbc91be66da5e4687f6b4bdb3d2ea1ff0"
+    },
+    {
+      "verse": 25,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "8132791fab32a1168761eaf39952e8fd8e46be1b5cdd34b0711dd576820d7a23",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "df6161f7a1b3c4cb277395c41f779ffac79e037fff0a0a37c2470fd48927e032",
+      "tsw_text_sha256": "db2a8e2d150645fe47d52ee50da2e8edefa74ce79523f271047d401c16e0f519"
+    },
+    {
+      "verse": 26,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "0711b45f97b20f8f8f4deb5ae56acd07786a33970b192e69db8d9ab203c07554",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "bedb407d5e628877f73eb65b84408e1d82aa709bace0e52043edc19d4d900caa",
+      "tsw_text_sha256": "6d384d7874c67227a10e21494e597a4456533ec9abca512fa477b08784b92a61"
+    },
+    {
+      "verse": 27,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "cc42e09bd7ab64fe2324fe68917067a3525ecbbd3a4e98e9778f6b2288ea8a9e",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "7267612d1ed812b1d274d74783f15adc0d35518e0d71630b7b2f59e90ac2a43c",
+      "tsw_text_sha256": "1a42fe2767fbadc22798bd1759d34bbb28e6c0f49d5a7e4397181ede4ec9e192"
+    },
+    {
+      "verse": 28,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "ae213bc02f9fe6755ed1ce88657a8c41228f8e1e5835501e441584ce8a8a5f4f",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "46535a0e0819f1d23e898b623065a6c9fb9a35b65f1b78783a1e341c8055d18c",
+      "tsw_text_sha256": "0274928fc00ca44aebb32b1386a75ec2948fb5560afd217c21d543b3edda4b0d"
+    },
+    {
+      "verse": 29,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "9ef29316c08f86296b13637f08310d8e9cfae1850b77b84eba9f50dfe633c189",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "90b4e3c0181789f93669c58a6b9996e22baef0861539c61144af6dcf9206e9e8",
+      "tsw_text_sha256": "6d7c8ae71dbb855a4cd65e0d81d3f700798da26df297a59ff2e357bf517ab6ac"
+    },
+    {
+      "verse": 30,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "451a6213108a52193b0e906743857aa9708df3d6d1fa1d00ffd07ecb4b69ee3a",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "5f3b11b47c3774b6838607f664e8817a35b380403a716957b06394e546e01bcf",
+      "tsw_text_sha256": "0e9309202519f05cdd1f5cd13da548268cda3cdaedcbf5e7aec08abe0e0930f8"
+    },
+    {
+      "verse": 31,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "49e57742470be9a47652f4baa2e9c24bf309ef17525ee46023372b71934772b4",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "405569c703f4785bb6aceb6381ab9f47e7713d00ea682feecb76db46a0d357f0",
+      "tsw_text_sha256": "af67009709c367d940ce11b44bd93a053fdbb47478fc6922f39b82e76086129e"
+    },
+    {
+      "verse": 32,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "fc10a3bb0fb9ec57033058ad2ae184ea4aef53f5489a7cb7880103df270e6698",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "3652cff33200de64d139f30114f9d3d2cdb4a7282c658b6798288dd98aa7601f",
+      "tsw_text_sha256": "d3750a7df99f3202993152582d50f2e4de5c64166486fd19334b2c353b26785f"
+    },
+    {
+      "verse": 33,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "45c5bee680027d3fcc344c919637bfac9ec11837959665eb295d457a50a08e5e",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "92f27f261098042b731d94c25c562d9025891e54e2cdbaac1980f6e503163dc1",
+      "tsw_text_sha256": "bbc0e623d2457b29f691fad723feea64651715bcae5f2a13c890fe1ead3a3b05"
+    },
+    {
+      "verse": 34,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "a7c79430ac00e6944b813bf77c841bdb4d8a4bc27bf232c814a06ce6257633b3",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "3a06dfe441fcf75e944e3075dadf8fcf804bfbcb99725b2eff4e6ebd1115cbb6",
+      "tsw_text_sha256": "5e5d6dd5fa68129b3a1a05708365aaa665c9b8dc7ac205381d862f67ab9fd363"
+    },
+    {
+      "verse": 35,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "597adf9ed1943834ce95565ee7e5e2600927cd3779a09d50f2528239f3a6fad2",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "65d80e6fa9b6f094ac34a367a1ca438d1f300c0a907180e3492a0636d2fc3bb2",
+      "tsw_text_sha256": "01f3ba993c0a4ae24a84a384a3828c5554f5664abaa270fd64b4d8f7330179bb"
+    },
+    {
+      "verse": 36,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "dc11a7b0f45cc7fcef2626da70a2827423d83c3b9bd3d26bd6ffaa61f686682e",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "8492baaaf0c8d74431db811132b4f4caf2bf4c851bcb86cfbd79e40ae52a44b1",
+      "tsw_text_sha256": "40cc59b98f580f44b0fe66a9ce8300814879b90c7603b08a663a062e31d52db7"
+    },
+    {
+      "verse": 37,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "a17b1f4b07541bea621f66a6e31cb1d403c27e414c3d402cf28e16581b62b9d4",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "8dcc69e478f73a7a15a99af20c420d9af0906f5e6aa69a4a17bfa04c8feb85ff",
+      "tsw_text_sha256": "01f7066aa109e9327b8ea4d6fc58b48b3dd5a759d7eb32dee2b4143b495ecea0"
+    },
+    {
+      "verse": 38,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "f403c884b844c4bba8bf05dd2531d0fc34abc080320e6f127c0b4409e9bcce01",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "47cdffc8b20112c2847c111b04b6a77d4e0792d24cb9c199d655c0ae1d465625",
+      "tsw_text_sha256": "d01f0e60c2e48af0eb496b10a61c2d70be8927d00393c00e1f76b1a9898ae39b"
+    },
+    {
+      "verse": 39,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "0f73f47aea794747826c93e87af2368e14cb529fa991e0363a116f1dc29d5a83",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "ea2b08d9f505750eb8e6cbc9dd84861f39cd8f9784cf1273437369546c473019",
+      "tsw_text_sha256": "0fa5df54f9111e3228202c0cf6f2277f8750c93a8e290bd3640f824c5f25c717"
+    },
+    {
+      "verse": 40,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "51cad68ff8aff717624e55497ebf752ba5a21a4f0b4399cefee231ef76c5453b",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "889908be4132887d14f54a07c74e58e23107e0fde4ad409f8c61da564ac4f0a1",
+      "tsw_text_sha256": "117a74fb58ef3e445fae7fc61d843c025e1e680d31c2b25243f078df5b3e3a97"
+    },
+    {
+      "verse": 41,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "4022de4d344a3713d8bc56c5d45c6fb973fae2254972433a10c04537572a4ec8",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "ea6c347b7cdb45ce79cac5b1de491d947aa1b569072d2bd9aa0ef53755e14e42",
+      "tsw_text_sha256": "3a7dc5e0e9624bf5c2a33923ba1743ef05082e2676b2b9705d231b7d80e30bde"
+    },
+    {
+      "verse": 42,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "1937b1741e1a0dbcc0fafc8b3e92198a80e661dd60ce20d8f0cd086464f260a5",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "58580581f31c661afa2bbc6cac845d0ab117a43ec6f39fc7acae4402f5acb880",
+      "tsw_text_sha256": "3e101e40de90aefad5b4f9018bde3d352fa80679f81fbd1e24a9924a049b815f"
+    },
+    {
+      "verse": 43,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "73d95d80d80dfabda6546aee8549335881d482468040a75f7a764ec29bd73301",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "89e69494e8faa8032812ca6875da11e325c5066db2b569b04a7e55dc81e8f977",
+      "tsw_text_sha256": "927113e246f5de8305edea13b2d12b9e9aa2997cf79de3971d6a94f6520ea44b"
+    },
+    {
+      "verse": 44,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "372427f10152c0d060864271529d476cce45dbc63d2dcbacfca69dd30960708b",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "1386d45be7a9feba72a31b5b27dd482fe57b481b0b99e73c932db1a2ccca3ca7",
+      "tsw_text_sha256": "f374dbcffe3fe9d1c8e5c83d81042e277641e38b5aa449d7336368b509503070"
+    },
+    {
+      "verse": 45,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "64644cefe67312baee0ff11a89a30fdcdee4d533a547dfd25259fd8774d2e1b2",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "f7cac5b5ea2c718ec88fb391b9ca9e1240331ef90685c6951a7159057952c728",
+      "tsw_text_sha256": "f2de9fd692a4184c19a27a9d8b683918c7611b5893a8468d20bd6981b3156353"
+    },
+    {
+      "verse": 46,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "5848a839107b0970b7b0cd059e6ab6e464e933df49947b69f4496880ef473a8c",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "7f07e55ec4b6cd25ffa32dd8ce3d9388dc4b95db1a4beaac0d0c80ca87644772",
+      "tsw_text_sha256": "dd9bb7e91634870a83a6d5798fb1afb71a553fc2643a71695fdd11c6374d1fea"
+    },
+    {
+      "verse": 47,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "b8490dfa98ebc6c2560d247152f9aace4351442c5d9c4bd8888d58af9b79287a",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "eeb77ec28c1ff8865810265e69ace6269c4b5a8feb2554c2d7a14df77fe5fb1a",
+      "tsw_text_sha256": "41296cd4b3717d6047ad450f75500817aa959fb841f8e8c300656a4b53d1c3d5"
+    },
+    {
+      "verse": 48,
+      "classification": "F3",
+      "rationale": "He intended to pass by them retained; possible theophanic resonance left open.",
+      "source_sha256": "94a62d5e97c5b94c0a9dd000f2f2cc8517fa7106cf1f0eec93d19513653876d3",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "14dbb88bb676e8392eb1acba125b6089a18d11d9739f09dec7c14b1537a129dc",
+      "tsw_text_sha256": "9ede2b8b39411d20366658e87a8d2c571454b63462d00fb9c073d14963bcacb1"
+    },
+    {
+      "verse": 49,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "503a5ebed01dfea5be9ef39e4fc9f4b870437afcf7c556330aff9133c29b56c7",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "f3a71fd283ee6ac0a109cb63bdeb12e1166be35eca4d91c33c05bcb3ed61ea23",
+      "tsw_text_sha256": "cb2bab37f8df20844e4819be3123ecc09ba0eeab3bb768fb15241de24119f546"
+    },
+    {
+      "verse": 50,
+      "classification": "F3",
+      "rationale": "egō eimi retained as I am, allowing ordinary reassurance and scriptural resonance.",
+      "source_sha256": "6c4c665330328f4b3a731b2930917fcb86703ad48e4b7b77abd58aca9ed46dd7",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "c8605e055128fb52661531a9ebd0558ef1d7903b3c979377a8918a6f53fc1ed3",
+      "tsw_text_sha256": "e5328f80c998e2c115d08abc1aedcbcc8c25a1687a38277004ca3d93350147d1"
+    },
+    {
+      "verse": 51,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "f26359cb68da79b04cde2779c9fe84fb5c32f636a448c9f4b9856ad0ccf00fa4",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "bc37cf492650705949a9b6043bc231ea0c69c8896e2ffc9b10ca680e5e52b96e",
+      "tsw_text_sha256": "99c7b7c2da94996f9f562fd71d148cdcfafa79d4e30864bd880f02a90fc993f8"
+    },
+    {
+      "verse": 52,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "d127b62bc8999ca6a133e8f5e7112ac4377a632a74f03b0e175ad44663c85f3a",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "228f76e53e80f1c9fc66562cab8afd5021c0fe5b4fff6d85d5b9f5a9e281223b",
+      "tsw_text_sha256": "53f131dbfd46c40146ff1e68a0032af02dd6df3eb6a81e1894ce443a34f9c92d"
+    },
+    {
+      "verse": 53,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "0e3e3a9b9e4e0b66761662ae86aa87526f6892c7f9ba05bfadba9a9e447cfa28",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "b045d04ed4e5bdfa2bab6cb03c2f5b41d308fb57158a20acbc53126473fe879c",
+      "tsw_text_sha256": "8450c72d90f7d49d9bf9ccc140f244a8c066740bd117d2ad6bd9f1c9e97b079c"
+    },
+    {
+      "verse": 54,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "6ffe571ddbe0f6f08becf564525be4ecd54ab9ef32a43a1164e2c661fd34bb97",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "19be9bc71f10d24d210443ce8c46c2934a0940ea36f9d714b98dbb4a8ea986c8",
+      "tsw_text_sha256": "ae93d7583109083501085d3560fd3bdaf53054266e4922e9046c4a1511b5da3a"
+    },
+    {
+      "verse": 55,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "49ced8dfdd9fd526fce8ace3632c7e7031d567378fe210628c8d64096cb18f62",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "2a22af0247ff674acfdfc85737f76dba309dbd2b34f29740b84e27a9b0476ccb",
+      "tsw_text_sha256": "053854abaade934221235207fa0ee555a1c7889465bf0cc60447ad6714ffc93f"
+    },
+    {
+      "verse": 56,
+      "classification": "F2",
+      "rationale": "sōzō summarized as made well while lexical link is documented.",
+      "source_sha256": "0e103a3aa813781c8e1d0223a1dc578ff4275fd3574bf3828b7121c2d6d031a3",
+      "tsw_main_blob_sha": "1ebbf218da5c65d8c4ed794495dc6e48d89b388f",
+      "fluent_text_sha256": "c0c59c0b51904744690d9daab56c0fdde8a7411cdf8d48f407254372b664119d",
+      "tsw_text_sha256": "52a7ffd2591e4eb8533e10e78a3158c73c2164f7c85baa70a8c152a03741471d"
+    }
+  ]
+}
