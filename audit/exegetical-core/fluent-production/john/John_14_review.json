@@ -1,0 +1,239 @@
+{
+  "book": "John",
+  "chapter": 14,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 31,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 14:1",
+        "source_chapter": 14,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "dc088822ee1f72a91c0f39d03db0314b4992599e317a0026e5b29ea624089605"
+      },
+      "2": {
+        "source_ref": "John 14:2",
+        "source_chapter": 14,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "0740a298507370e0958197fc69e681aecac852874c59c41f71d0397492c3b881"
+      },
+      "3": {
+        "source_ref": "John 14:3",
+        "source_chapter": 14,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "a62a430cfa0e73a8c28995e394b966a1a0121a39b4257d90f681a619955a447f"
+      },
+      "4": {
+        "source_ref": "John 14:4",
+        "source_chapter": 14,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "dc7bd65c6ae44d3cccf488b76e6b0cfc7430c4faeeb2ab61c7e90652f543b540"
+      },
+      "5": {
+        "source_ref": "John 14:5",
+        "source_chapter": 14,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "50deddcf1fd2426809dbb3c5a865a02ff0a226e097892ca67b7ae4dfe975f181"
+      },
+      "6": {
+        "source_ref": "John 14:6",
+        "source_chapter": 14,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "144bc587a277ec3ac581619940aa303a173cd4c679ea1e29594032ef76dc9260"
+      },
+      "7": {
+        "source_ref": "John 14:7",
+        "source_chapter": 14,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "f42e9c942103fe52ee40655ccf4be4720535765d7459f796a7ddbf73b1a2096a"
+      },
+      "8": {
+        "source_ref": "John 14:8",
+        "source_chapter": 14,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "93c7b9307d22e489c1e497d71b26bb4a4e320877aebc34ea52288f92d3390ca5"
+      },
+      "9": {
+        "source_ref": "John 14:9",
+        "source_chapter": 14,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "32b4d9ca9ac437cf4073c862be9bf801214b2991389ae539ac907f42e8159006"
+      },
+      "10": {
+        "source_ref": "John 14:10",
+        "source_chapter": 14,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "121d44923185cf8850b1617e73f45ae9b2cb58794192588fa007f83a36a71b69"
+      },
+      "11": {
+        "source_ref": "John 14:11",
+        "source_chapter": 14,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "57b0ed60e6336d51ea276e5651ad079c8a5bbb258c58fcebe7332b6b0c6eef8b"
+      },
+      "12": {
+        "source_ref": "John 14:12",
+        "source_chapter": 14,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "5499b0ed4db33612ddbb6117ad5e874746e4bba4342b11f7a7cdde72ea7ef9b0"
+      },
+      "13": {
+        "source_ref": "John 14:13",
+        "source_chapter": 14,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "e37918f3b78700f4451b6abea71c05e6c01e79a2d2e43cfc64e0c59c4c78caf7"
+      },
+      "14": {
+        "source_ref": "John 14:14",
+        "source_chapter": 14,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "2cd7a72dd5c6cf2d66c459c0babfc56468c4fb83a50754dbf5b66e49d5f78f50"
+      },
+      "15": {
+        "source_ref": "John 14:15",
+        "source_chapter": 14,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "9e5df86abc89edd2e76939890eb765b66d9181eeb233925de2c9eac4d4a5a794"
+      },
+      "16": {
+        "source_ref": "John 14:16",
+        "source_chapter": 14,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "4dc03f7e8a9a0fa0a615a808d79b5ca0f6aa89e0757340b556c58dbbf2123d8d"
+      },
+      "17": {
+        "source_ref": "John 14:17",
+        "source_chapter": 14,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "497fdc8f60732dcd76347ecb4392296e5c6aaacd3659f1787a3c173c96f629d8"
+      },
+      "18": {
+        "source_ref": "John 14:18",
+        "source_chapter": 14,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "1646907353a6edfed60072d97c1333fe5a9a7422888c3f646d8366483ec60bd3"
+      },
+      "19": {
+        "source_ref": "John 14:19",
+        "source_chapter": 14,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "c019a1f143fafc2606841a49ca3382f5637f8095e03661a61692094850355f79"
+      },
+      "20": {
+        "source_ref": "John 14:20",
+        "source_chapter": 14,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "322e3d02e9f430f54b9b26774fa27810a8d7e810cb26bb6ccd3054232c18aead"
+      },
+      "21": {
+        "source_ref": "John 14:21",
+        "source_chapter": 14,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "49f891dbfd0ae877801789a1f0c64e00547fbe6c679b0a1e962ef74310bd4f2f"
+      },
+      "22": {
+        "source_ref": "John 14:22",
+        "source_chapter": 14,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "ae7df6e437b4d9eec09cbf5359c8f86d69c61bcfad002bbd66354ce40f96feba"
+      },
+      "23": {
+        "source_ref": "John 14:23",
+        "source_chapter": 14,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "949ecd2661ccecfb26a76a464df2f3379b3322b57d0b954e2da23816dd180852"
+      },
+      "24": {
+        "source_ref": "John 14:24",
+        "source_chapter": 14,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "17d80838e8651ad96669112fe682e3606202f6b065d1cbc38b1500c7439077a8"
+      },
+      "25": {
+        "source_ref": "John 14:25",
+        "source_chapter": 14,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "3263eed3cf64f158ef502b989cd3966f5a70f392b2384700a34f975b2b9f4ba1"
+      },
+      "26": {
+        "source_ref": "John 14:26",
+        "source_chapter": 14,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "662d7ae496308330df536e5aec64ba78fe8f310c6c897c37b84b48982fa28def"
+      },
+      "27": {
+        "source_ref": "John 14:27",
+        "source_chapter": 14,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "ef2e68e42d0637544ee4c80ad365d68c725d28b26f3508180fdf18e71f43620c"
+      },
+      "28": {
+        "source_ref": "John 14:28",
+        "source_chapter": 14,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "778dfc3ce40649d81c50b78ed062664e2ccb4f05137fc52e33171861c41ac2ac"
+      },
+      "29": {
+        "source_ref": "John 14:29",
+        "source_chapter": 14,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "d71437f2958405bf13fa2c479726a8b8b2d7e79937e3f2e53fdd0be75cec4eaa"
+      },
+      "30": {
+        "source_ref": "John 14:30",
+        "source_chapter": 14,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "8f52cb66a68d360e277b017f9097e7a0c7a41bc1a61013f35ea57c7988e82343"
+      },
+      "31": {
+        "source_ref": "John 14:31",
+        "source_chapter": 14,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "ec2681266b1ef13b75f8bcfa44efcb4e987ea7972ddfe679190e55b5eed97e85"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_14.md",
+    "blob_sha": "4905ae7b47a5ba4802f1e5becc2898c8b17f00b7"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

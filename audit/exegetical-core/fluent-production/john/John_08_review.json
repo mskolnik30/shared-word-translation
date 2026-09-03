@@ -1,0 +1,435 @@
+{
+  "book": "John",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 59,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 8:1",
+        "source_chapter": 8,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "242eaca1d85291880b3d9de822352d8d31d7487b6532efee54b25b4fde9ce8aa"
+      },
+      "2": {
+        "source_ref": "John 8:2",
+        "source_chapter": 8,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "578c8dbff0d466cbae9476b82157bbd53f1c7e7a1c383519590f96dcca8ebe9e"
+      },
+      "3": {
+        "source_ref": "John 8:3",
+        "source_chapter": 8,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "281470dd1c7f789f6b5807b130e6f2c6fb1e3728558559b1bc8b93a698837edf"
+      },
+      "4": {
+        "source_ref": "John 8:4",
+        "source_chapter": 8,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "1fa1195a56167b9c368dbb847ea817376fd33398185d894130a9d997aa0d1c59"
+      },
+      "5": {
+        "source_ref": "John 8:5",
+        "source_chapter": 8,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "3f1f7b36ccad9d83ffc377e641c7394572d3511be3b8a25cea6a869205a1c83e"
+      },
+      "6": {
+        "source_ref": "John 8:6",
+        "source_chapter": 8,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "2906822cef72120bb2a9d177f3f93f0e87ad9801209207486f723336dab2863c"
+      },
+      "7": {
+        "source_ref": "John 8:7",
+        "source_chapter": 8,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "86fac814fe258682c524538921c8d986f97bd4ea2f78d1ad0800c6698e649562"
+      },
+      "8": {
+        "source_ref": "John 8:8",
+        "source_chapter": 8,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "5c8572edb301490eb11d65af9cdcf9773dadbcd97db6f4932657e9799820c75f"
+      },
+      "9": {
+        "source_ref": "John 8:9",
+        "source_chapter": 8,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "989ab28668de39e587dbc3650f02017896790e520f715563540389a53b8f8634"
+      },
+      "10": {
+        "source_ref": "John 8:10",
+        "source_chapter": 8,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "e3fcb305cfbbe5f5b0e78bde14b217ff9735116f402af942c1a812e14543b782"
+      },
+      "11": {
+        "source_ref": "John 8:11",
+        "source_chapter": 8,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "52e2a39b5c726d15c390d7eac51a44d7bc61543b76b6741b97c73191e2848df2"
+      },
+      "12": {
+        "source_ref": "John 8:12",
+        "source_chapter": 8,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "b7c0b5fbb44b757bfbe63dbca1aeffeb63df49fd53ed0fcca42d8006f493eed2"
+      },
+      "13": {
+        "source_ref": "John 8:13",
+        "source_chapter": 8,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "7c0a8d3df029006ed008c7a143a46d87eebc6ea95ac2db24eaa47614d57c969b"
+      },
+      "14": {
+        "source_ref": "John 8:14",
+        "source_chapter": 8,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "a678c6a1bdf19725e1f445a4070952aa50717819dc829556b3eb873772790530"
+      },
+      "15": {
+        "source_ref": "John 8:15",
+        "source_chapter": 8,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "ce4c244c26775cbbc12e2df9f6beff94b8d96cf4fb300758f9c979f34c48beb2"
+      },
+      "16": {
+        "source_ref": "John 8:16",
+        "source_chapter": 8,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "06e75627ffcee8e405bb39a4d106f9aaec6038e4cc24087d09af3ab2f076f282"
+      },
+      "17": {
+        "source_ref": "John 8:17",
+        "source_chapter": 8,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "1ed782b53b1dc38f7fe44dec97010a6f1e5ba5192fef0ee3ceb14b5931d24292"
+      },
+      "18": {
+        "source_ref": "John 8:18",
+        "source_chapter": 8,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "f7a10b1820de782a7753a9eaedb9f491beb1d7f089349f7bf76481d515326aad"
+      },
+      "19": {
+        "source_ref": "John 8:19",
+        "source_chapter": 8,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "3896746e821fa37db5750b38fa601aa7f00bdff3467d2e89b3743b084aedd806"
+      },
+      "20": {
+        "source_ref": "John 8:20",
+        "source_chapter": 8,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "44b9107ae8452da126c1e2312085c0bb1319385d4f7116bf5fc1a39c1a87a1a1"
+      },
+      "21": {
+        "source_ref": "John 8:21",
+        "source_chapter": 8,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "89576e8532b9fc1ac84c9752207ee09eb5997777f50984de907b3291b9b9f068"
+      },
+      "22": {
+        "source_ref": "John 8:22",
+        "source_chapter": 8,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "6713410be1fc4c4644b24ac660139f1594cae765c84866395be0c02cf09b8dd5"
+      },
+      "23": {
+        "source_ref": "John 8:23",
+        "source_chapter": 8,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "068815c2dde495be60c5c2c8ab1ec035cf6c17a224785850bffc878bdbcd7dfb"
+      },
+      "24": {
+        "source_ref": "John 8:24",
+        "source_chapter": 8,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "ae41b4165868d95c0629c441df2313830e1f344b42f41a661abb2be8c2c55307"
+      },
+      "25": {
+        "source_ref": "John 8:25",
+        "source_chapter": 8,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "b8a8542213d2050b07f172e601f2e9c9663b3d0435f95636102dd56e9d25e884"
+      },
+      "26": {
+        "source_ref": "John 8:26",
+        "source_chapter": 8,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "f3ea095d9774db82999d94aefa2f9b94de5e62be1b8440ca2c2b63f11310b60a"
+      },
+      "27": {
+        "source_ref": "John 8:27",
+        "source_chapter": 8,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "23eb0d14f23f164c6ee7a2a2e38edc16837f20e16f3fae92ef49c47d4f7ce50c"
+      },
+      "28": {
+        "source_ref": "John 8:28",
+        "source_chapter": 8,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "be457e04ac0108e246cb996a62e7988123dba188d71b8e08c0154f3150e8fd7b"
+      },
+      "29": {
+        "source_ref": "John 8:29",
+        "source_chapter": 8,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "4cb61c40c435c01e67bb302070e84968ae8803ffa583fa0c6217f6fb7ed77c01"
+      },
+      "30": {
+        "source_ref": "John 8:30",
+        "source_chapter": 8,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "ca57adf080e238c60aa85d471203ebd24a0be2ef6f726456fe9c660918981402"
+      },
+      "31": {
+        "source_ref": "John 8:31",
+        "source_chapter": 8,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "37b6f3c42b4de5a9cdf630c73e46e2abc228ea92ff7ab2b73bf1e6a1312b98ca"
+      },
+      "32": {
+        "source_ref": "John 8:32",
+        "source_chapter": 8,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "f174bdbfa7375a7db43d84445176101359db91c66f9e10a0d26ac578a762fed9"
+      },
+      "33": {
+        "source_ref": "John 8:33",
+        "source_chapter": 8,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "b4dc1292c06e83630d276682c54bd621f8e014bcfd53ed4c2f4ba729f697a42c"
+      },
+      "34": {
+        "source_ref": "John 8:34",
+        "source_chapter": 8,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "641168d9b46ff5f25e8867d3cfc23a3bd8a0ef0e5141929259d1d4df348b9765"
+      },
+      "35": {
+        "source_ref": "John 8:35",
+        "source_chapter": 8,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "d0ed5ea49a701bcd517b365aa06cc6a8419d8f2f7b6d5997818373a918109c93"
+      },
+      "36": {
+        "source_ref": "John 8:36",
+        "source_chapter": 8,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "fa6d9e238693c6170eb8c457be24ae45f017a653e745fe2cf88f40af5ad47d96"
+      },
+      "37": {
+        "source_ref": "John 8:37",
+        "source_chapter": 8,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "4e34b447fa9dfd91948b4af5920cd9b1257b0845c9f80b0ad08c6d0c928a30a1"
+      },
+      "38": {
+        "source_ref": "John 8:38",
+        "source_chapter": 8,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "e233156afa269ad17e3e2918d360b18802166b4db02572e01ecf87341127ed34"
+      },
+      "39": {
+        "source_ref": "John 8:39",
+        "source_chapter": 8,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "a6d9ff8f151eaebf356cbf4fa7da3db3b5fbf817eaf153d1c9c0b866c971ac7c"
+      },
+      "40": {
+        "source_ref": "John 8:40",
+        "source_chapter": 8,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "c55f3705344b68ecfd6da0a67dd7c8528dd130f7f2f8940ba1430c23ba00608a"
+      },
+      "41": {
+        "source_ref": "John 8:41",
+        "source_chapter": 8,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "5b7cf789cb9614c7abdfe73d2cda2eb0aafe841da696609de0ede7005027a252"
+      },
+      "42": {
+        "source_ref": "John 8:42",
+        "source_chapter": 8,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "271c60efbc8c8eed906162cd2fbb101b65ddfe5a35ed964eaf425090c8b59372"
+      },
+      "43": {
+        "source_ref": "John 8:43",
+        "source_chapter": 8,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "beef54f950f1aefba39313f248f0c6ae45c4b98ab1b1fc40d0dabc95d5135ba7"
+      },
+      "44": {
+        "source_ref": "John 8:44",
+        "source_chapter": 8,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "a45255dff6065ed8d808b516e76fc8ce8dc9f4d84cfecc96219e33b55b48538b"
+      },
+      "45": {
+        "source_ref": "John 8:45",
+        "source_chapter": 8,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "c79701aa7bfbd519715730962d53346ae547191ec99f32318b882e4d10b3a0df"
+      },
+      "46": {
+        "source_ref": "John 8:46",
+        "source_chapter": 8,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "907a79bc3364775afcaf2e0416cc05a1c5a4b074d975e9d9eb5857bed88cfb5d"
+      },
+      "47": {
+        "source_ref": "John 8:47",
+        "source_chapter": 8,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "eacf15459a388da9318b9906d8f0aaf1f7811136c3fc017c98b299d06fe9b359"
+      },
+      "48": {
+        "source_ref": "John 8:48",
+        "source_chapter": 8,
+        "source_verse": 48,
+        "segment_mode": "whole_record",
+        "sha256": "c9da17d078ce00ef61006c8e44d44d19c7113e6beee1fbf009794b5199b5049d"
+      },
+      "49": {
+        "source_ref": "John 8:49",
+        "source_chapter": 8,
+        "source_verse": 49,
+        "segment_mode": "whole_record",
+        "sha256": "3b4f5b07aa2d35b6468cea4ee4094b7ea34e73822d00ab356f001148e107abcb"
+      },
+      "50": {
+        "source_ref": "John 8:50",
+        "source_chapter": 8,
+        "source_verse": 50,
+        "segment_mode": "whole_record",
+        "sha256": "5819c1102f5a0da6e0a6d4fbdf85aa1ef30333074f2abe2169abe729aa48e0fc"
+      },
+      "51": {
+        "source_ref": "John 8:51",
+        "source_chapter": 8,
+        "source_verse": 51,
+        "segment_mode": "whole_record",
+        "sha256": "bd63b54fa8060e1e493a589d25458b5c011e798624a3c28a3fd58966aac60023"
+      },
+      "52": {
+        "source_ref": "John 8:52",
+        "source_chapter": 8,
+        "source_verse": 52,
+        "segment_mode": "whole_record",
+        "sha256": "c6b4a42fe6a4763e6876dd966afbbcb20b5e9ea3513fe3e4bbbe286215322dd7"
+      },
+      "53": {
+        "source_ref": "John 8:53",
+        "source_chapter": 8,
+        "source_verse": 53,
+        "segment_mode": "whole_record",
+        "sha256": "6692e968da3a1b1e671b302f7d3454df0173c529282c57c6eb70d655675f21d2"
+      },
+      "54": {
+        "source_ref": "John 8:54",
+        "source_chapter": 8,
+        "source_verse": 54,
+        "segment_mode": "whole_record",
+        "sha256": "e1257709f8fcb7f0855fd1c40b44166917fee741631532f77e293a24a968eda0"
+      },
+      "55": {
+        "source_ref": "John 8:55",
+        "source_chapter": 8,
+        "source_verse": 55,
+        "segment_mode": "whole_record",
+        "sha256": "b4766359528b2326993b495ad153cd039ac82cd7dd3e58e8aedc9591bf93dbde"
+      },
+      "56": {
+        "source_ref": "John 8:56",
+        "source_chapter": 8,
+        "source_verse": 56,
+        "segment_mode": "whole_record",
+        "sha256": "ad84fe0c55f483ab4111d6ed30f0fa1f5cbcf808cdb7d2cc9732ace3bd32f24c"
+      },
+      "57": {
+        "source_ref": "John 8:57",
+        "source_chapter": 8,
+        "source_verse": 57,
+        "segment_mode": "whole_record",
+        "sha256": "44eb554c74aa3f0740d97f997d8c3a13cb0130e25cef6266818f641656e730a5"
+      },
+      "58": {
+        "source_ref": "John 8:58",
+        "source_chapter": 8,
+        "source_verse": 58,
+        "segment_mode": "whole_record",
+        "sha256": "0206d2d8959660c2408efa75e4d7a442fcd307867add21ae05fbc32787b24a9a"
+      },
+      "59": {
+        "source_ref": "John 8:59",
+        "source_chapter": 8,
+        "source_verse": 59,
+        "segment_mode": "whole_record",
+        "sha256": "f9a45500561c9c74cc9a4ea46bde418fbdae33906254a4d3ec6862ff50c76bb9"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_08.md",
+    "blob_sha": "4bfaeec0c6dcfe2f12cd2beb38ce8cd3ba5f71ba"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

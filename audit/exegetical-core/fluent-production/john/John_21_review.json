@@ -1,0 +1,197 @@
+{
+  "book": "John",
+  "chapter": 21,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 25,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 21:1",
+        "source_chapter": 21,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "790effa59eaae5bafee5f51dad73bdcb8076e0ddfc43bde697c50e029cfcf2ab"
+      },
+      "2": {
+        "source_ref": "John 21:2",
+        "source_chapter": 21,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "1eea0b220d68cb860bb685872bf42ac2081ac49cc4c438706325869d42a1a6e6"
+      },
+      "3": {
+        "source_ref": "John 21:3",
+        "source_chapter": 21,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "2c16f05303540dc784cf4957115a08b61ca882b7258a77cf5d58393b098e0d2c"
+      },
+      "4": {
+        "source_ref": "John 21:4",
+        "source_chapter": 21,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "96a607950b15fa1e4d7e3d63623abb660b9bff3edf4576a36604458bc908c108"
+      },
+      "5": {
+        "source_ref": "John 21:5",
+        "source_chapter": 21,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "dce01adaf58c9129476b7a7b4ea1780b430e6f3f405eb5ac848e51fd909d9f81"
+      },
+      "6": {
+        "source_ref": "John 21:6",
+        "source_chapter": 21,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "18f33dbf7075bd8ad1b2560f8195f68d8ee443689db4b5c85491e9bb5505e189"
+      },
+      "7": {
+        "source_ref": "John 21:7",
+        "source_chapter": 21,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "13f98ace3a1be32ca8bcc3705255f87652055038e7458433b422e57da0701fbe"
+      },
+      "8": {
+        "source_ref": "John 21:8",
+        "source_chapter": 21,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "8c931ffe412d12490a153782462d138a1717cf63af469b9dbc94cc43d71594e0"
+      },
+      "9": {
+        "source_ref": "John 21:9",
+        "source_chapter": 21,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "fc1625f16f66851cc28685c4e8e2f063d131a3cc004270ea6f7b7e082efe5bb9"
+      },
+      "10": {
+        "source_ref": "John 21:10",
+        "source_chapter": 21,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "e5c5ac192d0e20a4da56035d3073fa53d13833fcb0bffa9df027e31dd187b45a"
+      },
+      "11": {
+        "source_ref": "John 21:11",
+        "source_chapter": 21,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "fd0ca8271f74b844f9d150509f0a430c4cb3560aa6ca33727b5ec0703a8c68b0"
+      },
+      "12": {
+        "source_ref": "John 21:12",
+        "source_chapter": 21,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "e5959ecac231b409d3280a31db5e327eacb2a517bd6e464d5183c3f1aef0cd62"
+      },
+      "13": {
+        "source_ref": "John 21:13",
+        "source_chapter": 21,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "5583b0d0325925c9ac712c6be9ab6530127c9255eef6eb66d96c527248eb1fdc"
+      },
+      "14": {
+        "source_ref": "John 21:14",
+        "source_chapter": 21,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "e044a6ca15c51974e12cbe03d8c00ff98ab0e3beac8d01572a4d301fa3adea05"
+      },
+      "15": {
+        "source_ref": "John 21:15",
+        "source_chapter": 21,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "464af6af0dfba1b6b40d1ab79077592f1ee7d13aa5abb6b11390368b25913a7c"
+      },
+      "16": {
+        "source_ref": "John 21:16",
+        "source_chapter": 21,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "9ef5acf4af98351195be79496e4fff481dfe677445f33a475b5f9ff7442974b3"
+      },
+      "17": {
+        "source_ref": "John 21:17",
+        "source_chapter": 21,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "0334dd2aa7494f90bf4d174345332bcbdf0c70af30504b49211a5a5dd620a104"
+      },
+      "18": {
+        "source_ref": "John 21:18",
+        "source_chapter": 21,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "edf4a6dbf8a523f6eb60d941dcb3612b506e957b1a7249beec7736e5205a9fac"
+      },
+      "19": {
+        "source_ref": "John 21:19",
+        "source_chapter": 21,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "cfe676f949d6e81a2b105ef7e2aba64ae2ba50fff7b27ef470ecac5b803cf15f"
+      },
+      "20": {
+        "source_ref": "John 21:20",
+        "source_chapter": 21,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "55a3bd02de36e61f9cce69ec2d7304ad6cb98d7d72310d34cd657650e0dfd959"
+      },
+      "21": {
+        "source_ref": "John 21:21",
+        "source_chapter": 21,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "eccf897830d807b15d519163d685f544eaae1748e1795ff6796c630e4aff13f6"
+      },
+      "22": {
+        "source_ref": "John 21:22",
+        "source_chapter": 21,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "99323045b64a87cbef70133de91a5966086a487a9f19c2a4c146909282e2b241"
+      },
+      "23": {
+        "source_ref": "John 21:23",
+        "source_chapter": 21,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "3980c4f7438b75dfe9463661e602f741245ae2a29a0109f2b5b055a1c052ab68"
+      },
+      "24": {
+        "source_ref": "John 21:24",
+        "source_chapter": 21,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "983ddaabba51239eb2a2d19d10f0096cf5e5e2f1b83bed6ee63b120004cc692b"
+      },
+      "25": {
+        "source_ref": "John 21:25",
+        "source_chapter": 21,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "e594e0ee207421215b0b700d9cc724caec636284fccaa41dbe1bfbba6646076d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_21.md",
+    "blob_sha": "cef55322d0353d01220d4cecf6c0b3323bfd11c3"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

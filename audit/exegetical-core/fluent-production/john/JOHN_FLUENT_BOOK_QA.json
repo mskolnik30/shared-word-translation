@@ -1,0 +1,292 @@
+{
+  "book": "John",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_status": "RETAINED_FOR_BATCH_DEPLOYMENT",
+  "chapter_count": 21,
+  "public_verse_slots": 879,
+  "included_verse_labels": 878,
+  "critical_text_absent_public_verses": {
+    "5": [
+      4
+    ]
+  },
+  "ancient_textual_traditions": [
+    {
+      "range": "7:53-8:11",
+      "treatment": "included, explicitly labeled ancient textual tradition"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt"
+  },
+  "book_level_anchors": [
+    "Word",
+    "life",
+    "light/darkness",
+    "world",
+    "trust",
+    "testimony/witness",
+    "signs",
+    "glory",
+    "hour",
+    "remain/abide",
+    "truth",
+    "sent/sender",
+    "Father/Son",
+    "Spirit",
+    "eternal life",
+    "lifting up",
+    "love",
+    "I am sayings"
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:1",
+      "decision": "the Word was God"
+    },
+    {
+      "location": "1:5",
+      "decision": "overcome main; comprehend/grasp range retained"
+    },
+    {
+      "location": "1:9",
+      "decision": "true light coming into the world"
+    },
+    {
+      "location": "1:14",
+      "decision": "made his dwelling among us; monogenēs = one and only"
+    },
+    {
+      "location": "1:16",
+      "decision": "grace upon grace"
+    },
+    {
+      "location": "1:18",
+      "decision": "SBLGNT one and only God; Son variant noted"
+    },
+    {
+      "location": "1:34",
+      "decision": "God's Chosen One pinned reading"
+    },
+    {
+      "location": "3:3",
+      "decision": "born from above main; again wordplay noted"
+    },
+    {
+      "location": "4:22",
+      "decision": "salvation is from the Jews retained"
+    },
+    {
+      "location": "5:4",
+      "decision": "public-number gap; absent from SBLGNT main text"
+    },
+    {
+      "location": "6:20",
+      "decision": "I am retained"
+    },
+    {
+      "location": "6:51-58",
+      "decision": "flesh/blood participation language not reduced to one interpretive theory"
+    },
+    {
+      "location": "6:69",
+      "decision": "Holy One of God pinned reading"
+    },
+    {
+      "location": "7:8",
+      "decision": "I am not going up pinned reading; not-yet variant noted"
+    },
+    {
+      "location": "7:39",
+      "decision": "Spirit was not yet retained rather than silently inserting 'given'"
+    },
+    {
+      "location": "7:53-8:11",
+      "decision": "included as ancient textual tradition, clearly separated from continuous critical text"
+    },
+    {
+      "location": "8:24,28,58",
+      "decision": "absolute/near-absolute I am language retained"
+    },
+    {
+      "location": "9:35",
+      "decision": "Son of Man pinned reading; Son of God variant noted"
+    },
+    {
+      "location": "10:30",
+      "decision": "I and the Father are one; no later technical definition inserted"
+    },
+    {
+      "location": "11:25",
+      "decision": "I am the resurrection and the life"
+    },
+    {
+      "location": "12:27",
+      "decision": "John's hour-prayer retained without importing Gethsemane"
+    },
+    {
+      "location": "12:32",
+      "decision": "draw everyone retained"
+    },
+    {
+      "location": "13:34",
+      "decision": "new commandment defined by just-as-I-loved-you"
+    },
+    {
+      "location": "14:6",
+      "decision": "way, truth, life retained as coordinated self-identification"
+    },
+    {
+      "location": "14:16",
+      "decision": "paraklētos = Advocate main; helper/counselor range noted"
+    },
+    {
+      "location": "15:4-10",
+      "decision": "menō repetition preserved architecturally"
+    },
+    {
+      "location": "16:8",
+      "decision": "Spirit exposes world concerning sin/righteousness/judgment"
+    },
+    {
+      "location": "17:21-23",
+      "decision": "unity patterned on Father/Son and directed toward mission"
+    },
+    {
+      "location": "18:28",
+      "decision": "John's Passover chronology preserved, not harmonized"
+    },
+    {
+      "location": "18:36",
+      "decision": "kingdom not from this world = source/character, not world-irrelevance"
+    },
+    {
+      "location": "19:15",
+      "decision": "chief-priest Caesar statement not generalized to Jewish people"
+    },
+    {
+      "location": "19:30",
+      "decision": "It is completed"
+    },
+    {
+      "location": "20:22",
+      "decision": "John's Spirit-gift chronology preserved, not harmonized to Acts 2"
+    },
+    {
+      "location": "20:28",
+      "decision": "My Lord and my God"
+    },
+    {
+      "location": "21:15-17",
+      "decision": "love verbs translated consistently as love; lexical variation noted"
+    },
+    {
+      "location": "21:22-23",
+      "decision": "beloved disciple rumor explicitly corrected"
+    }
+  ],
+  "deployment": "NT_BATCH_01",
+  "deployment_audit": {
+    "source_git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "source_binding_count": 878,
+    "unique_source_record_count": 878,
+    "public_verse_slots": 879,
+    "ledger_summary": {
+      "F0": 37,
+      "F1": 457,
+      "F2": 318,
+      "F3": 67
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/john/John_01.md",
+        "blob_sha": "c65432967cdec1c0951f02948fc872a89dc447f2"
+      },
+      "02": {
+        "path": "books/NT/john/John_02.md",
+        "blob_sha": "57cddaa85434573dbb1675aa0a4963f963909bea"
+      },
+      "03": {
+        "path": "books/NT/john/John_03.md",
+        "blob_sha": "b317e0b7ea46bcbf45eb48317af737a49f582336"
+      },
+      "04": {
+        "path": "books/NT/john/John_04.md",
+        "blob_sha": "d83be611f456ca56c5b74fc90120750711eed66b"
+      },
+      "05": {
+        "path": "books/NT/john/John_05.md",
+        "blob_sha": "88f19ceb2732e0608b312aaa68083570b0aa9c45"
+      },
+      "06": {
+        "path": "books/NT/john/John_06.md",
+        "blob_sha": "9c5eb82c9d18c841a2c5fb55dad7114c29651d07"
+      },
+      "07": {
+        "path": "books/NT/john/John_07.md",
+        "blob_sha": "c790d9227f4fb74e5416ac28aa5ef1ed578c7498"
+      },
+      "08": {
+        "path": "books/NT/john/John_08.md",
+        "blob_sha": "4bfaeec0c6dcfe2f12cd2beb38ce8cd3ba5f71ba"
+      },
+      "09": {
+        "path": "books/NT/john/John_09.md",
+        "blob_sha": "042cd4e7bb49178a89de1b1e8a61f635e92c1fe9"
+      },
+      "10": {
+        "path": "books/NT/john/John_10.md",
+        "blob_sha": "470718ef2099e775039ebf7d25debf100718e2c9"
+      },
+      "11": {
+        "path": "books/NT/john/John_11.md",
+        "blob_sha": "7279b05093fcea971b5fecba720c648523416e53"
+      },
+      "12": {
+        "path": "books/NT/john/John_12.md",
+        "blob_sha": "3688a8e9451c90731203cab31fec18ccf7f53b83"
+      },
+      "13": {
+        "path": "books/NT/john/John_13.md",
+        "blob_sha": "261caad72f182a0ab2e94c84ab64819fce7b48e6"
+      },
+      "14": {
+        "path": "books/NT/john/John_14.md",
+        "blob_sha": "4905ae7b47a5ba4802f1e5becc2898c8b17f00b7"
+      },
+      "15": {
+        "path": "books/NT/john/John_15.md",
+        "blob_sha": "23d9b24cfc6cdc768f643a9a2393c5a13cf11eac"
+      },
+      "16": {
+        "path": "books/NT/john/John_16.md",
+        "blob_sha": "cc3ce7010ead18f410f26071d8e178133a1a7ce1"
+      },
+      "17": {
+        "path": "books/NT/john/John_17.md",
+        "blob_sha": "3d95459c3de5157baa133504849b25efda0997ba"
+      },
+      "18": {
+        "path": "books/NT/john/John_18.md",
+        "blob_sha": "4a659f01ade9df0b5a6577e422d72400a40fec7a"
+      },
+      "19": {
+        "path": "books/NT/john/John_19.md",
+        "blob_sha": "ceb7af0b00c62fc7a5d358f93cf3abe7035c633b"
+      },
+      "20": {
+        "path": "books/NT/john/John_20.md",
+        "blob_sha": "5ae4685c9dfb1085c2f49e4d15715691b922ca48"
+      },
+      "21": {
+        "path": "books/NT/john/John_21.md",
+        "blob_sha": "cef55322d0353d01220d4cecf6c0b3323bfd11c3"
+      }
+    }
+  }
+}

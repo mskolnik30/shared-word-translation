@@ -1,0 +1,274 @@
+{
+  "book": "John",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 36,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 3:1",
+        "source_chapter": 3,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "09a5cf860b20e1cbb476fe2b8e439ee5c4545133efa4df26e17af0f8ab16f5d5"
+      },
+      "2": {
+        "source_ref": "John 3:2",
+        "source_chapter": 3,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "b9d36e823eeedafa266a136ace14faba6440ca7e70e25105978cde7260a5ef0f"
+      },
+      "3": {
+        "source_ref": "John 3:3",
+        "source_chapter": 3,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "5e1282212f25efb20b9ed5d38397dc1f973e42ec6ef9120b46c884f9b9488394"
+      },
+      "4": {
+        "source_ref": "John 3:4",
+        "source_chapter": 3,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "52acaf04878e6825d0ab47290bf6ed665abb492c4669f7dfab17993bddd488fe"
+      },
+      "5": {
+        "source_ref": "John 3:5",
+        "source_chapter": 3,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "f508973b6555632276fe7ee55555f7ae0bbfe05bcbdd85fd0eb9ba87747dee61"
+      },
+      "6": {
+        "source_ref": "John 3:6",
+        "source_chapter": 3,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "957b5e7e293b8c0c809d26f67ca342855e70ff111328ba43304731446be94123"
+      },
+      "7": {
+        "source_ref": "John 3:7",
+        "source_chapter": 3,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "86057620db80cf1391a674142ec70883703478b1220bb2afbbc40b1244605a18"
+      },
+      "8": {
+        "source_ref": "John 3:8",
+        "source_chapter": 3,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "4b5b95dbb754646eaa7d7cff4cd04d2dc4390b7cc3c46c3d57ee43e5267e7b40"
+      },
+      "9": {
+        "source_ref": "John 3:9",
+        "source_chapter": 3,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "396e04ea42ef6188c7b24e5370711962e3b062b8cfafe02d8452b46839fb37d6"
+      },
+      "10": {
+        "source_ref": "John 3:10",
+        "source_chapter": 3,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "7804cbb01ab55b4c850a40698edf17a9a3db5f8425db3dc5475575e9849c464a"
+      },
+      "11": {
+        "source_ref": "John 3:11",
+        "source_chapter": 3,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "d236f1d43198a457193b6ce45ccbf3c28913752311c44388a2a18ef35ba1e7ff"
+      },
+      "12": {
+        "source_ref": "John 3:12",
+        "source_chapter": 3,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "7cf58ee49892a50d857ad2ecc783bf2bb257b1725f708dff82e9ed18aa6bf2ff"
+      },
+      "13": {
+        "source_ref": "John 3:13",
+        "source_chapter": 3,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "7f3e077c4f59e8b9d61c56e80818d2e7e3c4e8326507d2ea624bde9fd4bde324"
+      },
+      "14": {
+        "source_ref": "John 3:14",
+        "source_chapter": 3,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "4cc8d251d4298d31de5211ae35ef3a1ad2e715bb698814f68b95cccfd3cfe626"
+      },
+      "15": {
+        "source_ref": "John 3:15",
+        "source_chapter": 3,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "423237083eecb109caf15cd9fb9b5a3e7677d58d0b76176b168ecb23cb3bef65"
+      },
+      "16": {
+        "source_ref": "John 3:16",
+        "source_chapter": 3,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "c33b0c90386497ef943ea75bd1f1d679cd19aa98a2365f174717a99389d7735e"
+      },
+      "17": {
+        "source_ref": "John 3:17",
+        "source_chapter": 3,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "b19b53348f133c6ffaf10b54c5886c7f8972225bfeb1cd3ce811ab6eb2c2bf81"
+      },
+      "18": {
+        "source_ref": "John 3:18",
+        "source_chapter": 3,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "a25f5255e3a7c0541b8eec47eeb1598c2b3f6874e4680970a1b0603c3dd9712c"
+      },
+      "19": {
+        "source_ref": "John 3:19",
+        "source_chapter": 3,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "4d740587b3c5dc986377ea282d2ce0fe71b605e43678f7a706b2a9d22bf693a3"
+      },
+      "20": {
+        "source_ref": "John 3:20",
+        "source_chapter": 3,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "7704c50c7c55394b5a67adec8676a30193e237726972b907fe8e7a3666353773"
+      },
+      "21": {
+        "source_ref": "John 3:21",
+        "source_chapter": 3,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "1c22604bb26cb1a0691905a4be92ee8127ef898c9465bc758ba137799f734a84"
+      },
+      "22": {
+        "source_ref": "John 3:22",
+        "source_chapter": 3,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "9d6dbc62a037874c417b9aa46bade8d34c82b09d75ac4adb36512e9edf1aa32b"
+      },
+      "23": {
+        "source_ref": "John 3:23",
+        "source_chapter": 3,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "4484c858c1a8453d07fe370ad121949954a84fd17323cd6a69533f0145797051"
+      },
+      "24": {
+        "source_ref": "John 3:24",
+        "source_chapter": 3,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "b2a69cbf6e938f6fcb57181c5e4a348ccbd67d4d5161fa90c270ddc64e4d460e"
+      },
+      "25": {
+        "source_ref": "John 3:25",
+        "source_chapter": 3,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "88ad51a18ff75ce9a896c41fb5a7bee86dd9251fdb1e655cdc67a9c8a69468e4"
+      },
+      "26": {
+        "source_ref": "John 3:26",
+        "source_chapter": 3,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "2af005bef08f7b36891bc3b07127af2412af2002061a4a4a18c517975558d4c7"
+      },
+      "27": {
+        "source_ref": "John 3:27",
+        "source_chapter": 3,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "40f0c5f886dde7c9a408fc5de704216c8045750ce405cda56103a9b55b0d8636"
+      },
+      "28": {
+        "source_ref": "John 3:28",
+        "source_chapter": 3,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "467c56b57bb409847b81fd2f411586f7051cd124e9b71e85c12e07c6a456964f"
+      },
+      "29": {
+        "source_ref": "John 3:29",
+        "source_chapter": 3,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "f98f1e6b8d4119a303331f79c9b3193d546152426e4149bdf8208535942d503f"
+      },
+      "30": {
+        "source_ref": "John 3:30",
+        "source_chapter": 3,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "ee55d270d4d8e0795e86e6f7197e6a6689b2902915d38d00a26725b631af6b96"
+      },
+      "31": {
+        "source_ref": "John 3:31",
+        "source_chapter": 3,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "ef71d95f647f04679e20b9609f4fa88c086f8b44674c9e79000358e1838e0ea5"
+      },
+      "32": {
+        "source_ref": "John 3:32",
+        "source_chapter": 3,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "e955d407666285a0e2ba0ece601639d80ef1555a985bbda3d86e1084aa7b08f0"
+      },
+      "33": {
+        "source_ref": "John 3:33",
+        "source_chapter": 3,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "ee4ebbed22de8c3d943160163d37f81a23bfa7452b8cc99e013c85e0a0555909"
+      },
+      "34": {
+        "source_ref": "John 3:34",
+        "source_chapter": 3,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "a0e1bf8bddf1aed8fc853927f5c4888aa3b5addf35579463f60064f4ccee189a"
+      },
+      "35": {
+        "source_ref": "John 3:35",
+        "source_chapter": 3,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "f5528c485e30a43b7e5b6353b516428f215d06880191457ebd83b025886b2361"
+      },
+      "36": {
+        "source_ref": "John 3:36",
+        "source_chapter": 3,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "7bf888539af04aa3fdfdc13916d9251699d014631939341c6f2b7fc541c34d45"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_03.md",
+    "blob_sha": "b317e0b7ea46bcbf45eb48317af737a49f582336"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,211 @@
+{
+  "book": "John",
+  "chapter": 15,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 27,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 15:1",
+        "source_chapter": 15,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "d53eb2f3be5d2445233043ddd9c25808f5cc75eb22f0677b4581b08bfc7356ec"
+      },
+      "2": {
+        "source_ref": "John 15:2",
+        "source_chapter": 15,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "4c154722e47877d530032ef71d37a1bec2c7eeaffcd34c8b5209906f4e495a71"
+      },
+      "3": {
+        "source_ref": "John 15:3",
+        "source_chapter": 15,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "c600aef4365d93eb670dafea0e4ac94d3d038286cce18f7c65c8e561f775576e"
+      },
+      "4": {
+        "source_ref": "John 15:4",
+        "source_chapter": 15,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "6750f3d3f552a2feb32c836913cf7c05fbd50c937a0d3e4e9299b1c886e2d4b2"
+      },
+      "5": {
+        "source_ref": "John 15:5",
+        "source_chapter": 15,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "69d94a9e15accb069ccefe22cdb065edafb456ae8951b23b5cd9eac55cb2a2ea"
+      },
+      "6": {
+        "source_ref": "John 15:6",
+        "source_chapter": 15,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "353423ca2f7b02b3419d62ebe0bcfe6b4dcdffd49f4c1a510c33799a325b7c4c"
+      },
+      "7": {
+        "source_ref": "John 15:7",
+        "source_chapter": 15,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "ad0f8278b1db65e9755de7011e047ea349d27d9682d435d5f10e93d8ea4a7de7"
+      },
+      "8": {
+        "source_ref": "John 15:8",
+        "source_chapter": 15,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "c568ac658dcfdde21b3045dae066e74d7b85b79eaafeef2509066c29828d0410"
+      },
+      "9": {
+        "source_ref": "John 15:9",
+        "source_chapter": 15,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "9b75ae05cc8952debaab45cf0a954ba3ec1e8e993d59975566a4c1e478556f7e"
+      },
+      "10": {
+        "source_ref": "John 15:10",
+        "source_chapter": 15,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "b15b845cbf610a6fff6e4b5cac9d7135b1515fe83a54b8e6ca31b198ddaffb83"
+      },
+      "11": {
+        "source_ref": "John 15:11",
+        "source_chapter": 15,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "e0ed7c0a088a10d83746f2b7d20d09b99630f34cb9f7a1ea905786e5a4d171bb"
+      },
+      "12": {
+        "source_ref": "John 15:12",
+        "source_chapter": 15,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "a4681bd5db38320260b47a63aaa77b35cd52351cb707b4de45fc46e76dce5729"
+      },
+      "13": {
+        "source_ref": "John 15:13",
+        "source_chapter": 15,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "f579fdfe08e599adf75e8ea7dbc774889ee75735ad01eaae8b06902072bd0a32"
+      },
+      "14": {
+        "source_ref": "John 15:14",
+        "source_chapter": 15,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "d4fe6eda4cfc8991b071a5dac9ac78ddefc3b0f125befc15b51ced2e33994ca9"
+      },
+      "15": {
+        "source_ref": "John 15:15",
+        "source_chapter": 15,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "d5638eb6b5342fabe1518c942460d7a732ed4710ec887ba12fb74b444dde7c7f"
+      },
+      "16": {
+        "source_ref": "John 15:16",
+        "source_chapter": 15,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "5f88371544849aeac7dbe27523c894b9ccad655b59d276bdf6e3818bd4ebb364"
+      },
+      "17": {
+        "source_ref": "John 15:17",
+        "source_chapter": 15,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "ebf14853a3a70c359ac02f18bfdc7a1d9ba9d93d051b7c590dda21240d1417be"
+      },
+      "18": {
+        "source_ref": "John 15:18",
+        "source_chapter": 15,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "3a43e2d44c5a8958d6e9f0c2ee6b44abd52225ff4a688f7de52a2756d35f940a"
+      },
+      "19": {
+        "source_ref": "John 15:19",
+        "source_chapter": 15,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "5ba8d58274ba0e8c47c4e27df30fef9a50d71edbbabd0e7ce2eac10da54608a6"
+      },
+      "20": {
+        "source_ref": "John 15:20",
+        "source_chapter": 15,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "5f1fe185bcbba6afde39ab0754a43374f89f0482daf525f844efdbfdd1b3b5f9"
+      },
+      "21": {
+        "source_ref": "John 15:21",
+        "source_chapter": 15,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "ab4a06250412d96d0db65dfdd6060eb3c74c3e3771b266bea6de08ebd2ce2835"
+      },
+      "22": {
+        "source_ref": "John 15:22",
+        "source_chapter": 15,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "c3da8c8620527a324790e9ead4fa8671e13804611ed1ce56b1dfcbfd2651aafc"
+      },
+      "23": {
+        "source_ref": "John 15:23",
+        "source_chapter": 15,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "9e1b189da59cf3a907f2a77044599c73e90b103c02ddc0ffbb94df73fc6f559c"
+      },
+      "24": {
+        "source_ref": "John 15:24",
+        "source_chapter": 15,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "9c783f34b5e52fd98c19f15a88ce2114be280877049ae6829a26e78a131abda7"
+      },
+      "25": {
+        "source_ref": "John 15:25",
+        "source_chapter": 15,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "3a1d80a1dde6dd52d5e352233029655b22a5f8162af0de024c83062171d59129"
+      },
+      "26": {
+        "source_ref": "John 15:26",
+        "source_chapter": 15,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "7b83909257592674f38301d075e81439052e8bc2d865a29439d3abb7124000a0"
+      },
+      "27": {
+        "source_ref": "John 15:27",
+        "source_chapter": 15,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "4a50bfa12755e1496499c8924a4bc9cd60ab947a7aa18e2d7fe39f951eae10d0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_15.md",
+    "blob_sha": "23d9b24cfc6cdc768f643a9a2393c5a13cf11eac"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

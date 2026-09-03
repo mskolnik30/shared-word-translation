@@ -1,0 +1,239 @@
+{
+  "book": "John",
+  "chapter": 20,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 31,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 20:1",
+        "source_chapter": 20,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "ae4ec701d1f324a022618b31fa79a0f1955e9f3ad99b9fdf9901fee0f2b27405"
+      },
+      "2": {
+        "source_ref": "John 20:2",
+        "source_chapter": 20,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "061b0e878bf00431b1f22e62c69c55d39685ef801b5cef816660a9cd59796bd4"
+      },
+      "3": {
+        "source_ref": "John 20:3",
+        "source_chapter": 20,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "0a8a8669b6a454bcda7c1b0a4caf920172a37973f213ff7624c5007e1f267e4a"
+      },
+      "4": {
+        "source_ref": "John 20:4",
+        "source_chapter": 20,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "6a6097ad2b566569e862c0c3e0efb070e5e0d64c76cec7f82e99cdf6d86b90a7"
+      },
+      "5": {
+        "source_ref": "John 20:5",
+        "source_chapter": 20,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "80f1cbd43fcfba98e71c826f46a91da5f1eec0f05601366f77043f2ba96d999a"
+      },
+      "6": {
+        "source_ref": "John 20:6",
+        "source_chapter": 20,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "5c56a37e987cdc0b886a79921cf58c9421aaeb2822a42d4e06035dec9d50d5eb"
+      },
+      "7": {
+        "source_ref": "John 20:7",
+        "source_chapter": 20,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "06f42b8f8782694ff35aee17b3236751aa7525ecdaef131c64ce950e861ecdd8"
+      },
+      "8": {
+        "source_ref": "John 20:8",
+        "source_chapter": 20,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "cb646892cdedcff71abc082768196bdea7976808ab6e8d878596d1f443f2ec9e"
+      },
+      "9": {
+        "source_ref": "John 20:9",
+        "source_chapter": 20,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "2f2db3bb57a43affa5faa898fbd801f61a905f477ad603cc6a86e9527893b685"
+      },
+      "10": {
+        "source_ref": "John 20:10",
+        "source_chapter": 20,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "32079fd4270e394aa236d62d48761083ac071ce0796b17073c1396ead9b43e82"
+      },
+      "11": {
+        "source_ref": "John 20:11",
+        "source_chapter": 20,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "85674021bd4a9ddefb649f0acdda38ce57ef8f7024397af06e68583812837b5c"
+      },
+      "12": {
+        "source_ref": "John 20:12",
+        "source_chapter": 20,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "b30d738ca9eadf3ef7ca51eeb5e2fbf181a602db4450c728b3e487da8ca80079"
+      },
+      "13": {
+        "source_ref": "John 20:13",
+        "source_chapter": 20,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "a334766203e2ece19c53e11c5247a2254d7b2d79910308f1356bd387c77299f7"
+      },
+      "14": {
+        "source_ref": "John 20:14",
+        "source_chapter": 20,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "339fb78bb87fd009134661f76dfaebf1b36cb1c5a59d4a8610ad9ef2230e9218"
+      },
+      "15": {
+        "source_ref": "John 20:15",
+        "source_chapter": 20,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "384905425480a60f8b81394f2e95130e45419fba14d533c2ba32fb7b19bcbac8"
+      },
+      "16": {
+        "source_ref": "John 20:16",
+        "source_chapter": 20,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "efdb4dbc69ba9c3912e269ffa56be49cc7c69882e223e5577d305b6fc0b7ecae"
+      },
+      "17": {
+        "source_ref": "John 20:17",
+        "source_chapter": 20,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "e1e7deab0cb3d1296f12d5603e7d60c1e65d22586275617e85cdcf339cc35c3b"
+      },
+      "18": {
+        "source_ref": "John 20:18",
+        "source_chapter": 20,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "e14471977f2d4fdab942c65b216fd4d344b68d086a299d5d607ac722c1a8db9b"
+      },
+      "19": {
+        "source_ref": "John 20:19",
+        "source_chapter": 20,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "1928612df7c63cf4337b85ad954d6e74325301a6f50d9ff288a337c5946b89ac"
+      },
+      "20": {
+        "source_ref": "John 20:20",
+        "source_chapter": 20,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "7c704d57762fb6ca08d77e6b8ae23849e3f06f17cdef4b2698184a73516dba18"
+      },
+      "21": {
+        "source_ref": "John 20:21",
+        "source_chapter": 20,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "387b65bf62af90a785ca7754b987e0889de54344c524131ab8092e660457847c"
+      },
+      "22": {
+        "source_ref": "John 20:22",
+        "source_chapter": 20,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "af540e296bedc73e126bb311568cfc3368a9f54797a9d66c1182127211965774"
+      },
+      "23": {
+        "source_ref": "John 20:23",
+        "source_chapter": 20,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "8e677834fc7e8119017962be3dd3a608ad0778d9cfb63bc60bf50818826986bc"
+      },
+      "24": {
+        "source_ref": "John 20:24",
+        "source_chapter": 20,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "9308f039e53411febab049e224f66aec3eb801bad702a2c97cc16bb5e20b5d21"
+      },
+      "25": {
+        "source_ref": "John 20:25",
+        "source_chapter": 20,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "36bf38e1032c845cf6b77722d3deb11a0ddf987b26ab9974e7afd216bb67c995"
+      },
+      "26": {
+        "source_ref": "John 20:26",
+        "source_chapter": 20,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "87bf7427b68f77be5a87eba6ea5358bc05644656a2d715b75a65623c6f667969"
+      },
+      "27": {
+        "source_ref": "John 20:27",
+        "source_chapter": 20,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "304ab277b3a2d86c979a5403a8ba54170bf086192c5067291230fbc7ab79ed12"
+      },
+      "28": {
+        "source_ref": "John 20:28",
+        "source_chapter": 20,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "bf8dfea658fbe57e60a8cbf5cf6b91f9eaece09ca5c213ba770d79462cb4654f"
+      },
+      "29": {
+        "source_ref": "John 20:29",
+        "source_chapter": 20,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "e906461f8c007d62e1aad5716b044e379284882db04023387688c127cc6db894"
+      },
+      "30": {
+        "source_ref": "John 20:30",
+        "source_chapter": 20,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "9f3c00c2b0672b512555163a963021ce450c84c4005a074f46574aefbf987e8f"
+      },
+      "31": {
+        "source_ref": "John 20:31",
+        "source_chapter": 20,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "bc3cec1f1e9bd5612817085023eb85df248fad553ff8e882aefc57c1e3799e1d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_20.md",
+    "blob_sha": "5ae4685c9dfb1085c2f49e4d15715691b922ca48"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

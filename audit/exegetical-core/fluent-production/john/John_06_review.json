@@ -1,0 +1,519 @@
+{
+  "book": "John",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 71,
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/John.txt",
+    "git_blob_sha": "a79ae036447d48fd88c4db8e166c771b4fc57d93",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "John 6:1",
+        "source_chapter": 6,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "d2d3c00f0d7cefc67bf98f30ae0f6468d8dbb14846bf2dd8c3f42f450b1e7927"
+      },
+      "2": {
+        "source_ref": "John 6:2",
+        "source_chapter": 6,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "323c58d54e1702f7419a98ac4a213c344861c825278b9df82d6ec8d12d29d2ac"
+      },
+      "3": {
+        "source_ref": "John 6:3",
+        "source_chapter": 6,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "3a6559c71846bb591977c4fb2cdd3092232ee31ccf368a67a54208198dfa5eac"
+      },
+      "4": {
+        "source_ref": "John 6:4",
+        "source_chapter": 6,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "a4e5130b89153131c144a690739cd6edc243b4b73243da7917a1e81739125e27"
+      },
+      "5": {
+        "source_ref": "John 6:5",
+        "source_chapter": 6,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "1280fc44de2b73d059c9d8f2991777a47f9cf789607856fd6eea75ab4f110ab7"
+      },
+      "6": {
+        "source_ref": "John 6:6",
+        "source_chapter": 6,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "09f0aa5f5046418b2f633fff410d60780af0f5666d895890fe3fcc59e9251709"
+      },
+      "7": {
+        "source_ref": "John 6:7",
+        "source_chapter": 6,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "7f3d0cc6a3af8bc57d1d4595b9a45c85e68341c6d0159028216e8d796a8ea258"
+      },
+      "8": {
+        "source_ref": "John 6:8",
+        "source_chapter": 6,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "be67d53b5fd595565f827877f0d8a26fc8738eca4cd12e6ef94ffb6135487790"
+      },
+      "9": {
+        "source_ref": "John 6:9",
+        "source_chapter": 6,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "47a899fbf23cb925ffccf79d7634474a755bbc09a446127316006815ec9d8147"
+      },
+      "10": {
+        "source_ref": "John 6:10",
+        "source_chapter": 6,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "500008d64b241c77ba62bbb7e23db02fdf045c19671ba5d53efee0e6bca86328"
+      },
+      "11": {
+        "source_ref": "John 6:11",
+        "source_chapter": 6,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "5b25ffb31b58804c60afdf82f094e7c43ee64786d2c1dcbbf867123cbf1a1f1c"
+      },
+      "12": {
+        "source_ref": "John 6:12",
+        "source_chapter": 6,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "86a7b950d5bd836c8d1a9ff8cc2b02e17daa6eb5abf6ec0486554f725774b851"
+      },
+      "13": {
+        "source_ref": "John 6:13",
+        "source_chapter": 6,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "d23ce1aff814efd8497f7c9e64fcd95e7f23bd61bcde174576fa7432b96bebaf"
+      },
+      "14": {
+        "source_ref": "John 6:14",
+        "source_chapter": 6,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "e1263eaa415f7b62c162bfb13123ca521b106fa714a598c82cc6435997ee3214"
+      },
+      "15": {
+        "source_ref": "John 6:15",
+        "source_chapter": 6,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "b875c67df1d0ce4e741a7358ace780230632259fd5aa4b1436e0c5b4200778cd"
+      },
+      "16": {
+        "source_ref": "John 6:16",
+        "source_chapter": 6,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "4f44615f3bbd8016e0dd26372a182b9dc0b66c37df1b5098e05d0d9319b564a1"
+      },
+      "17": {
+        "source_ref": "John 6:17",
+        "source_chapter": 6,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "02031e443075860cc5775cc3173867396c0ed2206ad6258651910de8b5ebcc36"
+      },
+      "18": {
+        "source_ref": "John 6:18",
+        "source_chapter": 6,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "b79f2928473c0a8e1fbe3eb69a74492b0c5721f083d0aa5aaddecffabe7cd322"
+      },
+      "19": {
+        "source_ref": "John 6:19",
+        "source_chapter": 6,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "b117475860c3674d24142aee0d0a7be40716be2c81a6d24910c1c043b3799ac2"
+      },
+      "20": {
+        "source_ref": "John 6:20",
+        "source_chapter": 6,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "54a25e2dd1b621698292304b6be210e19dc332630c5395adda3559b7a469f0a6"
+      },
+      "21": {
+        "source_ref": "John 6:21",
+        "source_chapter": 6,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "83b55524f644905a6763bbc0899796d3e0e9b5cb13a7cbcd780d7c3d2297a5e3"
+      },
+      "22": {
+        "source_ref": "John 6:22",
+        "source_chapter": 6,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "6cc39d0aa9e040096afbea228442fc72d01f4d448bd0091422b0a5b16822fb6a"
+      },
+      "23": {
+        "source_ref": "John 6:23",
+        "source_chapter": 6,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "8ef9d0344830ddb893f3825f49cd3f17ce48248b42e411eec3ea4759de5df79c"
+      },
+      "24": {
+        "source_ref": "John 6:24",
+        "source_chapter": 6,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "648a4502ddc32b880cf13c986126185b49f211b7fa5aa78e5669c395a9ec1297"
+      },
+      "25": {
+        "source_ref": "John 6:25",
+        "source_chapter": 6,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "698d2949531aca364f3a5bfcf3f7856ab292be81bdb8abb96defe48e594bd9a2"
+      },
+      "26": {
+        "source_ref": "John 6:26",
+        "source_chapter": 6,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "f2ca65e88f9437245e1021dea4e94f9168595236c3928d7a44fe9462b8e543f0"
+      },
+      "27": {
+        "source_ref": "John 6:27",
+        "source_chapter": 6,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "7121a09da78aaf3e2b735dc57ca19d58f8db7b78fc99c89d8db0819b8c890c7f"
+      },
+      "28": {
+        "source_ref": "John 6:28",
+        "source_chapter": 6,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "ae9c9ba9f5e5b3a3e278e7a818c7b59c105755044b75a078a48dc5b10ec5d112"
+      },
+      "29": {
+        "source_ref": "John 6:29",
+        "source_chapter": 6,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "cf7ef4264707366fb8f8f20e265de4427d1bf928b8afe59f20e943b70ead97a9"
+      },
+      "30": {
+        "source_ref": "John 6:30",
+        "source_chapter": 6,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "a4b493e15e228b9c6ae2dd9ce159f75eb29893c0798869763f51680fbc7d96fe"
+      },
+      "31": {
+        "source_ref": "John 6:31",
+        "source_chapter": 6,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "057339e8fa9aaf731099e2a7c3cc840d2f0239d891935218ff8f174ac09422b6"
+      },
+      "32": {
+        "source_ref": "John 6:32",
+        "source_chapter": 6,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "51237a08288331b783691691a9fd84255f333f9d13201c12f5179033cd8afe91"
+      },
+      "33": {
+        "source_ref": "John 6:33",
+        "source_chapter": 6,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "b25b7b44d7f685662b48a54bef91994b279c564ffd699295df013e1f2e2196ed"
+      },
+      "34": {
+        "source_ref": "John 6:34",
+        "source_chapter": 6,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "b0cb3e449d1ddf2ce356fbd4bca32cc6ceaaccd9273b9218f9bc32147844f0fa"
+      },
+      "35": {
+        "source_ref": "John 6:35",
+        "source_chapter": 6,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "0ec6e24f5df9ae94158d38fc3f00824b02f2cc663c56bd3defa61b7e3b4e96c9"
+      },
+      "36": {
+        "source_ref": "John 6:36",
+        "source_chapter": 6,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "1eeddffdbe43eab1054edfa0b4cb2dc04c337a0d08f02dc799f8f84830361ce4"
+      },
+      "37": {
+        "source_ref": "John 6:37",
+        "source_chapter": 6,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "c8c12b45f5e87e02c0725961b795de34721b4240db74778b21f9bb9019720089"
+      },
+      "38": {
+        "source_ref": "John 6:38",
+        "source_chapter": 6,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "33c3f0d2f972bb3de76aeb333170ad80d7cadad93f059132d10d6ba8b99205b8"
+      },
+      "39": {
+        "source_ref": "John 6:39",
+        "source_chapter": 6,
+        "source_verse": 39,
+        "segment_mode": "whole_record",
+        "sha256": "8eeea435c25382ae94fbbfebf9fb542ccc7821d13cd1b2fe801f24f977c0c065"
+      },
+      "40": {
+        "source_ref": "John 6:40",
+        "source_chapter": 6,
+        "source_verse": 40,
+        "segment_mode": "whole_record",
+        "sha256": "e3313a6ce81c894c23f1faa90a6151b1bf3677204db69ba85172447e08c1b5cc"
+      },
+      "41": {
+        "source_ref": "John 6:41",
+        "source_chapter": 6,
+        "source_verse": 41,
+        "segment_mode": "whole_record",
+        "sha256": "0b4e476e0b4e6cb8feb632936a9f56a1bf27199b920e350a9ce3ebe695a1196a"
+      },
+      "42": {
+        "source_ref": "John 6:42",
+        "source_chapter": 6,
+        "source_verse": 42,
+        "segment_mode": "whole_record",
+        "sha256": "1e34ff6e74285861ed2ac640c823237e669e6e6caa341f83f38db0976cbee5a8"
+      },
+      "43": {
+        "source_ref": "John 6:43",
+        "source_chapter": 6,
+        "source_verse": 43,
+        "segment_mode": "whole_record",
+        "sha256": "b8ee2da948bf2fd7ce5bd74382814a7d9d6a473274a50b93228c786b8be25759"
+      },
+      "44": {
+        "source_ref": "John 6:44",
+        "source_chapter": 6,
+        "source_verse": 44,
+        "segment_mode": "whole_record",
+        "sha256": "22eb19a9f7061ec18e776d69d0fc3bab77ba08c9048ca6fe28efad6186cf3c40"
+      },
+      "45": {
+        "source_ref": "John 6:45",
+        "source_chapter": 6,
+        "source_verse": 45,
+        "segment_mode": "whole_record",
+        "sha256": "4fa70d85f053d865c6a488858156300770743d577437a9f4e1e64617b24b779b"
+      },
+      "46": {
+        "source_ref": "John 6:46",
+        "source_chapter": 6,
+        "source_verse": 46,
+        "segment_mode": "whole_record",
+        "sha256": "6085ce988f977ea9b0e3040833b05f892265ee5c182b4dc2b204830e0e47e935"
+      },
+      "47": {
+        "source_ref": "John 6:47",
+        "source_chapter": 6,
+        "source_verse": 47,
+        "segment_mode": "whole_record",
+        "sha256": "c24bebf5f96ae0a93b11c0bc50d35d0730063205333b3987f9e661d4dc110452"
+      },
+      "48": {
+        "source_ref": "John 6:48",
+        "source_chapter": 6,
+        "source_verse": 48,
+        "segment_mode": "whole_record",
+        "sha256": "ad3278c98b873384fd998422e92d8711037afc047767fc119ae1e2095706e244"
+      },
+      "49": {
+        "source_ref": "John 6:49",
+        "source_chapter": 6,
+        "source_verse": 49,
+        "segment_mode": "whole_record",
+        "sha256": "c7e5aba6c1b8abc89e46f4bc0b9be9864e601f3ad9901159d1d5f8a9cd2f076d"
+      },
+      "50": {
+        "source_ref": "John 6:50",
+        "source_chapter": 6,
+        "source_verse": 50,
+        "segment_mode": "whole_record",
+        "sha256": "6c260d875b66c27ab065ef98ea2bdddc98995283380c566525913d3e26d0354b"
+      },
+      "51": {
+        "source_ref": "John 6:51",
+        "source_chapter": 6,
+        "source_verse": 51,
+        "segment_mode": "whole_record",
+        "sha256": "06cb2b43cf5dd833eea1e67b7d5b99b46eed165f4060b4daa0dfb92bdca23938"
+      },
+      "52": {
+        "source_ref": "John 6:52",
+        "source_chapter": 6,
+        "source_verse": 52,
+        "segment_mode": "whole_record",
+        "sha256": "c46a6722c21079bebae5f9c5b1ed177b82d5d732b327135276841ac7e9236fca"
+      },
+      "53": {
+        "source_ref": "John 6:53",
+        "source_chapter": 6,
+        "source_verse": 53,
+        "segment_mode": "whole_record",
+        "sha256": "168c1c23b7933235eb36fe43432f42b81ab15a4d77eecebd66bc98f320f3294d"
+      },
+      "54": {
+        "source_ref": "John 6:54",
+        "source_chapter": 6,
+        "source_verse": 54,
+        "segment_mode": "whole_record",
+        "sha256": "680a9ceada05f4cb49518566079ddce8753df48e374cae7a737a82087f5d05f6"
+      },
+      "55": {
+        "source_ref": "John 6:55",
+        "source_chapter": 6,
+        "source_verse": 55,
+        "segment_mode": "whole_record",
+        "sha256": "66b90cc467abbf7c0ce5d0fe29a1ec911db6ab6572fb5d7703423d8407668755"
+      },
+      "56": {
+        "source_ref": "John 6:56",
+        "source_chapter": 6,
+        "source_verse": 56,
+        "segment_mode": "whole_record",
+        "sha256": "5f5c91e3f954b71c58417addd2fe4f6319a9894eb2256a3abc4f3e71c2acdf3d"
+      },
+      "57": {
+        "source_ref": "John 6:57",
+        "source_chapter": 6,
+        "source_verse": 57,
+        "segment_mode": "whole_record",
+        "sha256": "4d6224881327ea4bc886d521271c0f97b7423d2057cb6fc91220ecb973ef7d02"
+      },
+      "58": {
+        "source_ref": "John 6:58",
+        "source_chapter": 6,
+        "source_verse": 58,
+        "segment_mode": "whole_record",
+        "sha256": "6098e3815a464f981a93d38209c2d6b2fe6208ba29b8932960029ee31242832b"
+      },
+      "59": {
+        "source_ref": "John 6:59",
+        "source_chapter": 6,
+        "source_verse": 59,
+        "segment_mode": "whole_record",
+        "sha256": "28d1e8916fce877ff7df7d733d5c734af1fd0c36cf7f6dca3714ee78d2f94eac"
+      },
+      "60": {
+        "source_ref": "John 6:60",
+        "source_chapter": 6,
+        "source_verse": 60,
+        "segment_mode": "whole_record",
+        "sha256": "db1630c8d3577b440e102f8b9e842ec5351649654356fee3fade5832cb8f7814"
+      },
+      "61": {
+        "source_ref": "John 6:61",
+        "source_chapter": 6,
+        "source_verse": 61,
+        "segment_mode": "whole_record",
+        "sha256": "60ffa843fdc0d2fb7e81013f5a1d3334e9f4886b206b2b585306a8b7dfc32c65"
+      },
+      "62": {
+        "source_ref": "John 6:62",
+        "source_chapter": 6,
+        "source_verse": 62,
+        "segment_mode": "whole_record",
+        "sha256": "34a35c51dc4b5c4eb2aa4a61b00475f834645404d6d0b3eb99c699237601e08e"
+      },
+      "63": {
+        "source_ref": "John 6:63",
+        "source_chapter": 6,
+        "source_verse": 63,
+        "segment_mode": "whole_record",
+        "sha256": "bd71b3bdb5d1da3d83a1eb0905708180ca2b60a2c7738bd5e4c1a3bb7e8e9635"
+      },
+      "64": {
+        "source_ref": "John 6:64",
+        "source_chapter": 6,
+        "source_verse": 64,
+        "segment_mode": "whole_record",
+        "sha256": "57dc71cf1c607e5b65a7d000c1b2c37be970dab2a9663687cd1b8ec02e5d344f"
+      },
+      "65": {
+        "source_ref": "John 6:65",
+        "source_chapter": 6,
+        "source_verse": 65,
+        "segment_mode": "whole_record",
+        "sha256": "20a39d5d07e0270b80b9140672f3d4ab527faa744d721fcb66be506166613ad8"
+      },
+      "66": {
+        "source_ref": "John 6:66",
+        "source_chapter": 6,
+        "source_verse": 66,
+        "segment_mode": "whole_record",
+        "sha256": "5ce3428f942238e8ab5ac9fa4ec8a5d0cd499e6277ed5e3691d7c094f930ddd9"
+      },
+      "67": {
+        "source_ref": "John 6:67",
+        "source_chapter": 6,
+        "source_verse": 67,
+        "segment_mode": "whole_record",
+        "sha256": "f229bd211a8190e9d460a3f1e1c4d6a6e01bd3b4c759b389ad712b7dada900a5"
+      },
+      "68": {
+        "source_ref": "John 6:68",
+        "source_chapter": 6,
+        "source_verse": 68,
+        "segment_mode": "whole_record",
+        "sha256": "147d7168e47d76b8da5b6be623b504fc93f9f063a629f3505fc86975adaeaa94"
+      },
+      "69": {
+        "source_ref": "John 6:69",
+        "source_chapter": 6,
+        "source_verse": 69,
+        "segment_mode": "whole_record",
+        "sha256": "000b99886d5bf4a59fea408740babaa22b0ade937a5732f93886b21a568eb6d2"
+      },
+      "70": {
+        "source_ref": "John 6:70",
+        "source_chapter": 6,
+        "source_verse": 70,
+        "segment_mode": "whole_record",
+        "sha256": "fe1990bece9cda1e420447f9b8ecb6517dc932472cee2786c61ad9865a2d921f"
+      },
+      "71": {
+        "source_ref": "John 6:71",
+        "source_chapter": 6,
+        "source_verse": 71,
+        "segment_mode": "whole_record",
+        "sha256": "f9c0e2352acdc886340269abe404a90471f174e12578119abf8813e22258fc49"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/john/John_06.md",
+    "blob_sha": "9c5eb82c9d18c841a2c5fb55dad7114c29651d07"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
