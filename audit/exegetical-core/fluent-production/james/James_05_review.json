@@ -1,0 +1,57 @@
+{
+  "book": "James",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_sha": "32afbfa14905dd11da4c11eaef457601532e0953",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Jas.txt"
+  },
+  "key_decisions": [
+    {
+      "location": "5:3",
+      "delta": "F2",
+      "decision": "corrode for katioō; retain prophetic image."
+    },
+    {
+      "location": "5:4",
+      "delta": "F1/F2",
+      "decision": "Keep Lord of hosts as biblical title."
+    },
+    {
+      "location": "5:8-9",
+      "delta": "F3_OPEN",
+      "decision": "Nearness/judge-at-door language preserved without chronology."
+    },
+    {
+      "location": "5:11",
+      "delta": "F3",
+      "decision": "telos kyriou rendered Lord's purpose in the end; outcome range noted."
+    },
+    {
+      "location": "5:14",
+      "delta": "F3_OPEN",
+      "decision": "Anointing retained without deciding medicinal/symbolic/sacramental function."
+    },
+    {
+      "location": "5:15",
+      "delta": "F3",
+      "decision": "Keep save and raise distinct; healing/restoration context noted."
+    },
+    {
+      "location": "5:16",
+      "delta": "F3",
+      "decision": "Prayer participle rendered very powerful in its effect."
+    },
+    {
+      "location": "5:20",
+      "delta": "F3_OPEN",
+      "decision": "Avoid forcing ambiguous pronoun referent; 'save a life from death'."
+    }
+  ],
+  "apparatus": "Canonical TSW apparatus used as comparator; duplicated Vocabulary, over-compressed notes, lexical inaccuracies, and translation-specific claims corrected for Fluent."
+}

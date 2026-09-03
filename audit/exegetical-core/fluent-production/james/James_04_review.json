@@ -1,0 +1,47 @@
+{
+  "book": "James",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_sha": "581b6e3e23871cc3ec917107728de0b77b7e5631",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Jas.txt"
+  },
+  "key_decisions": [
+    {
+      "location": "4:4",
+      "delta": "F2",
+      "decision": "Adulterous people preserves covenant-infidelity metaphor in idiomatic English."
+    },
+    {
+      "location": "4:5",
+      "delta": "F3_OPEN",
+      "decision": "Difficult syntax/citation: main text takes God as subject; alternative spirit-subject reading required in note."
+    },
+    {
+      "location": "4:7-10",
+      "delta": "F1",
+      "decision": "Preserve dense imperative sequence."
+    },
+    {
+      "location": "4:8",
+      "delta": "F1",
+      "decision": "dipsychos links back to 1:8."
+    },
+    {
+      "location": "4:13-16",
+      "delta": "F2",
+      "decision": "Naturalize commercial planning while preserving arrogant-control critique."
+    },
+    {
+      "location": "4:17",
+      "delta": "F1",
+      "decision": "Omission of known good named as sin."
+    }
+  ],
+  "apparatus": "Canonical TSW apparatus used as comparator; duplicated Vocabulary, over-compressed notes, lexical inaccuracies, and translation-specific claims corrected for Fluent."
+}

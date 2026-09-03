@@ -1,0 +1,52 @@
+{
+  "book": "James",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_sha": "5d0ca0910c43c71e4872c9d3e68645448eb4fdae",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Jas.txt"
+  },
+  "key_decisions": [
+    {
+      "location": "1:2-4",
+      "delta": "F2",
+      "decision": "Preserve peirasmos/testing → endurance → teleios/completion chain."
+    },
+    {
+      "location": "1:6-8",
+      "delta": "F3",
+      "decision": "Render diakrinomenos as being divided while preserving doubting/wavering range."
+    },
+    {
+      "location": "1:12-15",
+      "delta": "F2/F3",
+      "decision": "Preserve peirasmos word-family across testing and temptation without flattening contexts."
+    },
+    {
+      "location": "1:18",
+      "delta": "F2",
+      "decision": "Preserve birth imagery that answers desire→sin→death sequence."
+    },
+    {
+      "location": "1:20",
+      "delta": "F3_THEOLOGICAL_RESTRAINT",
+      "decision": "Keep righteousness of God without explanatory paraphrase."
+    },
+    {
+      "location": "1:21",
+      "delta": "F2",
+      "decision": "Render save your souls/lives as save you; note anthropology left open."
+    },
+    {
+      "location": "1:25",
+      "delta": "F1/F2",
+      "decision": "Preserve law of freedom and doer/hearer network."
+    }
+  ],
+  "apparatus": "Canonical TSW apparatus used as comparator; duplicated Vocabulary, over-compressed notes, lexical inaccuracies, and translation-specific claims corrected for Fluent."
+}

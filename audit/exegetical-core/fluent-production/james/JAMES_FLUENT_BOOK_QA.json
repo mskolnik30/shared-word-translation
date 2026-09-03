@@ -1,0 +1,121 @@
+{
+  "book": "James",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_status": "READY_FOR_PR_AFTER_INSTALL",
+  "chapter_counts": {
+    "1": 27,
+    "2": 26,
+    "3": 18,
+    "4": 17,
+    "5": 20
+  },
+  "verse_total": 108,
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Jas.txt"
+  },
+  "book_level_anchors": [
+    {
+      "id": "JAS.PEIRASMOS",
+      "decision": "Preserve trial/testing/temptation word-family across James 1 without flattening contextual differences."
+    },
+    {
+      "id": "JAS.TELEIOS",
+      "decision": "Preserve complete/mature/completion network in 1:4, 1:17, 1:25, 2:22, and 3:2."
+    },
+    {
+      "id": "JAS.HEAR_DO",
+      "decision": "Preserve hearer/doer/action language and connect it with faith/works in chapter 2."
+    },
+    {
+      "id": "JAS.FAITH_WORKS",
+      "decision": "Allow James's faith/works argument to stand in its own context; do not harmonize it into Romans."
+    },
+    {
+      "id": "JAS.DIKAIOO",
+      "decision": "Use project term set right for dikaioō while apparatus preserves justify/vindicate/show-right range."
+    },
+    {
+      "id": "JAS.WISDOM",
+      "decision": "Preserve wisdom-from-above versus earthly wisdom contrast."
+    },
+    {
+      "id": "JAS.SPEECH",
+      "decision": "Preserve tongue/speech/teacher/br150idle networks across chapters 1, 3, and 4."
+    },
+    {
+      "id": "JAS.STATUS",
+      "decision": "Preserve rich/poor/status reversal and anti-partiality themes."
+    },
+    {
+      "id": "JAS.ENDURANCE",
+      "decision": "Preserve hypomonē/makrothymia endurance/patience motifs from trials to the Lord's coming."
+    },
+    {
+      "id": "JAS.PRAYER",
+      "decision": "Preserve prayer/confession/healing/restoration cluster in James 5 without mechanistic expansion."
+    }
+  ],
+  "f3_decisions": [
+    {
+      "location": "1:6",
+      "decision": "without being divided; doubting/wavering noted",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "2:14",
+      "decision": "Can that kind of faith save?",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "2:20",
+      "decision": "SBLGNT argē = useless/inactive",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "2:21-25",
+      "decision": "set right for dikaioō; no Romans harmonization",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "3:6",
+      "decision": "course of life for trochos tēs geneseōs",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "3:17",
+      "decision": "impartial for adiakritos; alternatives noted",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "4:5",
+      "decision": "God-subject reading in main text; spirit-subject alternative preserved",
+      "disposition": "APPROVE_WITH_OPEN_ALTERNATIVE"
+    },
+    {
+      "location": "5:11",
+      "decision": "Lord's purpose in the end; outcome range noted",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "5:15",
+      "decision": "retain save + raise in healing context",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "5:20",
+      "decision": "save a life from death to avoid forced pronoun referent",
+      "disposition": "APPROVE"
+    }
+  ],
+  "tsw_reconciliation_flags": [
+    "James 1–5 contain duplicated Vocabulary blocks that should be normalized later.",
+    "James 2 uses justify while project Romans vocabulary uses set right; shared lexical policy should be reconciled explicitly.",
+    "James 3:4 contains typo 'eventhough'.",
+    "James 4:5 current TSW chooses one difficult reading without exposing the major syntactic alternative.",
+    "James 5:3 Vocabulary gloss 'decay through use' is too narrow for katioō/corrosion."
+  ]
+}
