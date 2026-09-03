@@ -1,0 +1,43 @@
+{
+  "book": "1 John",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_sha": "c266d6d98cde5073bdc9fe7c345e6075fb5baa2c",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1John.txt",
+    "file_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb"
+  },
+  "key_decisions": [
+    {
+      "location": "3:2",
+      "delta": "F3_OPEN",
+      "decision": "Future likeness retained without defining extent/mechanism."
+    },
+    {
+      "location": "3:6-9",
+      "delta": "F3",
+      "decision": "Strong present-tense sin statements retained; no smoothing into systematic explanation."
+    },
+    {
+      "location": "3:9",
+      "delta": "F3_OPEN",
+      "decision": "God's seed metaphor left unidentified."
+    },
+    {
+      "location": "3:19-20",
+      "delta": "F3",
+      "decision": "Compressed syntax retained with reassurance/condemnation relation; punctuation dispute noted."
+    },
+    {
+      "location": "3:23",
+      "delta": "F1/F2",
+      "decision": "Singular commandment joins trust in Jesus and love one another."
+    }
+  ],
+  "apparatus": "Canonical TSW apparatus used as comparator; duplicated entries and over-specific claims normalized for Fluent while textual and syntactic uncertainty is retained."
+}

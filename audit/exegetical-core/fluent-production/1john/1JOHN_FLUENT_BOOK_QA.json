@@ -1,0 +1,132 @@
+{
+  "book": "1 John",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_status": "READY_FOR_PR_AFTER_INSTALL",
+  "chapter_counts": {
+    "1": 10,
+    "2": 29,
+    "3": 24,
+    "4": 21,
+    "5": 21
+  },
+  "verse_total": 105,
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1John.txt",
+    "file_blob_sha": "e4f7c05c3e7d6afb1fceff563bc443065df586eb"
+  },
+  "book_level_anchors": [
+    {
+      "id": "1J.MENO",
+      "decision": "Preserve remain/abide network throughout the letter; Fluent normally uses remain."
+    },
+    {
+      "id": "1J.KNOW",
+      "decision": "Preserve know language and distinctions between knowledge claims and embodied knowing."
+    },
+    {
+      "id": "1J.LOVE",
+      "decision": "Preserve love as divine origin, command, action, and communal test."
+    },
+    {
+      "id": "1J.LIGHT",
+      "decision": "Preserve light/darkness and walk imagery."
+    },
+    {
+      "id": "1J.TRUTH",
+      "decision": "Preserve truth/lie/confess/testimony networks."
+    },
+    {
+      "id": "1J.BIRTH",
+      "decision": "Preserve born-of-God family language."
+    },
+    {
+      "id": "1J.LIFE",
+      "decision": "Preserve eternal-life/life-in-the-Son language."
+    },
+    {
+      "id": "1J.OVERCOME",
+      "decision": "Preserve overcome/victory network."
+    },
+    {
+      "id": "1J.HILASMOS",
+      "decision": "Render hilasmos consistently as atoning sacrifice in 2:2 and 4:10 without mechanism foreclosure."
+    },
+    {
+      "id": "1J.MONOGENES",
+      "decision": "Render monogenēs as one and only/unique, aligned with Fluent John 1 policy."
+    }
+  ],
+  "f3_decisions": [
+    {
+      "location": "1:4",
+      "decision": "SBLGNT our joy; your joy variant noted",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "2:2/4:10",
+      "decision": "atoning sacrifice for hilasmos",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "2:20",
+      "decision": "all of you know; all-things variant noted",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "2:27",
+      "decision": "retain wording, contextualize against deceivers",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "3:6-9",
+      "decision": "retain strong sin language; do not systematize in main text",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "3:19-20",
+      "decision": "retain compressed syntax; punctuation issue noted",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "4:9",
+      "decision": "one and only Son for monogenēs",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "5:6",
+      "decision": "water and blood left open",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "5:7-8",
+      "decision": "exclude Comma Johanneum",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "5:16",
+      "decision": "sin leading to death left undefined",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "5:18",
+      "decision": "critical-text keeper distinction retained",
+      "disposition": "APPROVE"
+    },
+    {
+      "location": "5:20",
+      "decision": "This one antecedent not resolved",
+      "disposition": "APPROVE"
+    }
+  ],
+  "tsw_reconciliation_flags": [
+    "1 John 1 and 2 contain duplicated Vocabulary entries.",
+    "1 John 4 contains a duplicated v03 textual note.",
+    "Project-wide hilasmos policy should remain consistent with Romans 3 hilastērion restraint while recognizing different lexical forms.",
+    "1 John 4:9 should align monogenēs terminology with John 1 policy.",
+    "1 John 5:18 textual/interpretive alternatives should remain explicitly documented."
+  ]
+}
