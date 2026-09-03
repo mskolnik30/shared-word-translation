@@ -1,0 +1,39 @@
+{
+  "book": "Matthew",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_path": "books/NT/matthew/Matthew_04.md",
+  "canonical_tsw_sha": "dfd86c7f5598d9c5a68b544e55c3788f95b06ffe",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Matt.txt",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+  },
+  "chapter_focus": [
+    "testing/Deuteronomy",
+    "light/Galilee",
+    "discipleship/good news"
+  ],
+  "curated_f3": [
+    {
+      "location": "1",
+      "decision": "Spirit led, not Mark's drove"
+    },
+    {
+      "location": "3",
+      "decision": "If you are Son of God conditional force"
+    }
+  ],
+  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
+  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+  "verse_delta_summary": {
+    "F0": 2,
+    "F1": 4,
+    "F2": 16,
+    "F3": 3
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "book": "Matthew",
+  "chapter": 25,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_path": "books/NT/matthew/Matthew_25.md",
+  "canonical_tsw_sha": "cedf7c4b9583c91eda773e382efa916ffd544210",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Matt.txt",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+  },
+  "chapter_focus": [
+    "readiness",
+    "entrusted wealth",
+    "nations judgment",
+    "least of these"
+  ],
+  "curated_f3": [
+    {
+      "location": "15",
+      "decision": "talent monetary unit"
+    },
+    {
+      "location": "24",
+      "decision": "servant's harsh-master claim not automatically divine description"
+    },
+    {
+      "location": "40",
+      "decision": "least of these brothers/sisters referent open"
+    },
+    {
+      "location": "46",
+      "decision": "aiōnios parallel punishment/life"
+    }
+  ],
+  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
+  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+  "verse_delta_summary": {
+    "F0": 4,
+    "F1": 14,
+    "F2": 21,
+    "F3": 7
+  }
+}

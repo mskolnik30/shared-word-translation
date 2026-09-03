@@ -1,0 +1,44 @@
+{
+  "book": "Matthew",
+  "chapter": 7,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_path": "books/NT/matthew/Matthew_07.md",
+  "canonical_tsw_sha": "0c8367f050130d12ad0365007c0ed97a51756657",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Matt.txt",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+  },
+  "chapter_focus": [
+    "judgment/discernment",
+    "ask-seek-knock",
+    "fruit",
+    "hearing-and-doing"
+  ],
+  "curated_f3": [
+    {
+      "location": "1",
+      "decision": "judge in context of hypocritical judgment"
+    },
+    {
+      "location": "6",
+      "decision": "dogs/pearls saying left open"
+    },
+    {
+      "location": "13",
+      "decision": "gate/road textual variation"
+    }
+  ],
+  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
+  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+  "verse_delta_summary": {
+    "F0": 1,
+    "F1": 10,
+    "F2": 15,
+    "F3": 3
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "book": "Matthew",
+  "comparator": "Fluent Mark",
+  "policy": "source-led parallelism without harmonization",
+  "required_comparator_paths": [
+    "translations/fluent/NT/mark/Mark_01.md",
+    "translations/fluent/NT/mark/Mark_16.md"
+  ],
+  "principles": [
+    "When Matthew and Mark share close Greek wording, prefer compatible Fluent wording unless Matthew's discourse style or context requires different natural English.",
+    "Never copy a Mark reading over a Matthew textual, numerical, lexical, or narrative difference.",
+    "Preserve Matthew's kingdom of heaven, fulfillment citations, doubled characters, expanded teaching, and distinctive ecclesial language.",
+    "Record high-value parallels for later cross-Gospel QA rather than forcing exact English identity."
+  ],
+  "high_value_parallels": [
+    {
+      "matthew": "3:1-17",
+      "mark": "1:1-11",
+      "focus": "John, baptism, heavenly voice"
+    },
+    {
+      "matthew": "4:12-22",
+      "mark": "1:14-20",
+      "focus": "good news, kingdom, first disciples"
+    },
+    {
+      "matthew": "8:1-4",
+      "mark": "1:40-45",
+      "focus": "cleansing; Matthew lacks Mark 1:41 variant pressure"
+    },
+    {
+      "matthew": "8:23-27",
+      "mark": "4:35-41",
+      "focus": "storm, little faith, identity"
+    },
+    {
+      "matthew": "9:1-8",
+      "mark": "2:1-12",
+      "focus": "forgiveness, Son of Man authority"
+    },
+    {
+      "matthew": "12:1-14",
+      "mark": "2:23-3:6",
+      "focus": "Sabbath and mercy"
+    },
+    {
+      "matthew": "13:1-23",
+      "mark": "4:1-20",
+      "focus": "sower, hearing, understanding"
+    },
+    {
+      "matthew": "14:13-36",
+      "mark": "6:30-56",
+      "focus": "feeding, sea, sōzō; Matthew adds Peter"
+    },
+    {
+      "matthew": "15:21-28",
+      "mark": "7:24-30",
+      "focus": "Canaanite/Syrophoenician wording difference"
+    },
+    {
+      "matthew": "16:13-28",
+      "mark": "8:27-9:1",
+      "focus": "confession, suffering, cross"
+    },
+    {
+      "matthew": "17:1-13",
+      "mark": "9:2-13",
+      "focus": "transfiguration, Elijah"
+    },
+    {
+      "matthew": "19:1-30",
+      "mark": "10:1-31",
+      "focus": "marriage, children, rich man"
+    },
+    {
+      "matthew": "20:17-34",
+      "mark": "10:32-52",
+      "focus": "passion, service/ransom, blind men/Bartimaeus"
+    },
+    {
+      "matthew": "21:1-22",
+      "mark": "11:1-25",
+      "focus": "entry, temple, fig tree"
+    },
+    {
+      "matthew": "22:15-46",
+      "mark": "12:13-37",
+      "focus": "Caesar, resurrection, commandments, David"
+    },
+    {
+      "matthew": "24",
+      "mark": "13",
+      "focus": "apocalyptic discourse"
+    },
+    {
+      "matthew": "26",
+      "mark": "14",
+      "focus": "anointing, meal, Gethsemane, arrest/trial"
+    },
+    {
+      "matthew": "27",
+      "mark": "15",
+      "focus": "Pilate, crucifixion, death, burial"
+    },
+    {
+      "matthew": "28:1-10",
+      "mark": "16:1-8",
+      "focus": "empty tomb; Matthew continues beyond Mark's critical ending"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "book": "Matthew",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_path": "books/NT/matthew/Matthew_01.md",
+  "canonical_tsw_sha": "e136be1cb396a5ee881163fd1c40f4f343561f6a",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Matt.txt",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+  },
+  "chapter_focus": [
+    "genealogy/source names",
+    "birth/Emmanuel",
+    "save from sins"
+  ],
+  "curated_f3": [
+    {
+      "location": "1",
+      "decision": "genesis/genealogy opening; retain Genesis resonance"
+    },
+    {
+      "location": "7",
+      "decision": "SBLGNT Asaph genealogy reading"
+    },
+    {
+      "location": "10",
+      "decision": "SBLGNT Amos genealogy reading"
+    },
+    {
+      "location": "16",
+      "decision": "genealogy grammar shifts at Jesus"
+    },
+    {
+      "location": "23",
+      "decision": "Isaiah quotation virgin/Emmanuel"
+    }
+  ],
+  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
+  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+  "verse_delta_summary": {
+    "F0": 0,
+    "F1": 0,
+    "F2": 17,
+    "F3": 8
+  }
+}
