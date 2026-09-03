@@ -1,0 +1,247 @@
+{
+  "book": "Acts",
+  "chapter": 26,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 32,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_26.md",
+    "blob_sha": "4932cf29f0ea209703daf14de01ad7254f015c8f"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 26:1",
+        "source_chapter": 26,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "b28678b648286b00ed93b1383e5e173a3830d33e1bb348cbee59afda952e2876"
+      },
+      "2": {
+        "source_ref": "Acts 26:2",
+        "source_chapter": 26,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "7e8c5e9ba63d19ed1cb393999b96dbd4e0b1933fe795a273e6300f65ea8b1f4d"
+      },
+      "3": {
+        "source_ref": "Acts 26:3",
+        "source_chapter": 26,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "77cec52799d62616c12732039cb064aae12fbd9f4b573674080fcc9da29531cc"
+      },
+      "4": {
+        "source_ref": "Acts 26:4",
+        "source_chapter": 26,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "21903b704e041a8c71d4e05fce034c80b208b564aa1381a4c53abe7bf335c6ee"
+      },
+      "5": {
+        "source_ref": "Acts 26:5",
+        "source_chapter": 26,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "e5b8d97780cacfd3099262c68679b5219432f69d41d6f95dafe024fa362d1024"
+      },
+      "6": {
+        "source_ref": "Acts 26:6",
+        "source_chapter": 26,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "8b9187f83d748619953b7f07dca0ffb5151e451429e38a37556250e4b02668f1"
+      },
+      "7": {
+        "source_ref": "Acts 26:7",
+        "source_chapter": 26,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "5b265b8185371bcfd0a9ccb2e3eaada53a2aefbfb00e5dd0df9fec5151d49d03"
+      },
+      "8": {
+        "source_ref": "Acts 26:8",
+        "source_chapter": 26,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "f02404ff8d26d54fcdf85a3b3af8058fbb8f85dab32c0c1931a3936ea2b1f60c"
+      },
+      "9": {
+        "source_ref": "Acts 26:9",
+        "source_chapter": 26,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "401ea467abcd1b51f9e275c576143438ec2907688c1901d6d26527c4976c5e0f"
+      },
+      "10": {
+        "source_ref": "Acts 26:10",
+        "source_chapter": 26,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "4ab6cf80a10b2dbd7ef7546c58f985e28b897f7c89e4009bac109665668f5eaa"
+      },
+      "11": {
+        "source_ref": "Acts 26:11",
+        "source_chapter": 26,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "a43d7a42444710ac09a3aaf66fc706953f6a15f205e28fb6a5817e5bbeb854c4"
+      },
+      "12": {
+        "source_ref": "Acts 26:12",
+        "source_chapter": 26,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "654077a4d571fee5932dec2a8f5f88a7f423ec8c611af0e93ab0837012a37fd6"
+      },
+      "13": {
+        "source_ref": "Acts 26:13",
+        "source_chapter": 26,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "7c6e7d94a8d1f18bf83d6ba98373bcf4e840d01c6f44fdeb51d3b49208b1591b"
+      },
+      "14": {
+        "source_ref": "Acts 26:14",
+        "source_chapter": 26,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "b92f6435d38df4c74bd6c2f8fb14e72aa02b5c5c188dde32af48babfe1503499"
+      },
+      "15": {
+        "source_ref": "Acts 26:15",
+        "source_chapter": 26,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "264f85b13eae83b32a253fd1168accb661246934567b295dd679de1ce49f76de"
+      },
+      "16": {
+        "source_ref": "Acts 26:16",
+        "source_chapter": 26,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "51707bd8c30c975896441232872932bf6eab94b67f1ed0e6bc1cdbd5ae52a3bd"
+      },
+      "17": {
+        "source_ref": "Acts 26:17",
+        "source_chapter": 26,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "ebcff1a9a299fa03b686111f2f93762179be4670c17747eac8b97cd313a2498d"
+      },
+      "18": {
+        "source_ref": "Acts 26:18",
+        "source_chapter": 26,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "75b6342b028676f82f2c46094cd03ed079b6e8c882e152316e4070b3e9fd9869"
+      },
+      "19": {
+        "source_ref": "Acts 26:19",
+        "source_chapter": 26,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "83e684e7e7fd9e8fe09f49722c804a06c0251077014496c5f66f78394369ed2b"
+      },
+      "20": {
+        "source_ref": "Acts 26:20",
+        "source_chapter": 26,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "e1940deecfbccfe400b26eb8bf3c0667c29878599064994239d06687df2b77ba"
+      },
+      "21": {
+        "source_ref": "Acts 26:21",
+        "source_chapter": 26,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "575260a1fab06015043e36e2d7fabf4d50078bf993823ea686fb50f0b25eccde"
+      },
+      "22": {
+        "source_ref": "Acts 26:22",
+        "source_chapter": 26,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "ee034f3bc9c92863cd668b48f07a89146e72c508d1185a5836de1b0e39919f18"
+      },
+      "23": {
+        "source_ref": "Acts 26:23",
+        "source_chapter": 26,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "41bd2956ee946afaa55d0facc9e3701c60d8bdc7a62625f07bbe5e91df788fd4"
+      },
+      "24": {
+        "source_ref": "Acts 26:24",
+        "source_chapter": 26,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "d52e9a5f16ff249fc5eaa9797a1e9207abc1d65cd8e5ca33b72513ef1ab8963b"
+      },
+      "25": {
+        "source_ref": "Acts 26:25",
+        "source_chapter": 26,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "2ca751331d04c9493db39e4a818c0a4065ce4a07b2dc1d889757d557a7ff9993"
+      },
+      "26": {
+        "source_ref": "Acts 26:26",
+        "source_chapter": 26,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "95827bf3d28df69dbe3bc43f112d6dbcb172e22c435184e29547b3d0cc965160"
+      },
+      "27": {
+        "source_ref": "Acts 26:27",
+        "source_chapter": 26,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "828b08377c837ce3422a0c47292423d4270e7a823d48e5b37c3a7dc62695afe5"
+      },
+      "28": {
+        "source_ref": "Acts 26:28",
+        "source_chapter": 26,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "9ae43aba74808835c153acd00063106c801ef18c3c7336d8de79ff37299d4db2"
+      },
+      "29": {
+        "source_ref": "Acts 26:29",
+        "source_chapter": 26,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "3f19db8e157f5efa1c20df6bb84d3e7ac7a1786cfa11f2fed6888b00a362c6c6"
+      },
+      "30": {
+        "source_ref": "Acts 26:30",
+        "source_chapter": 26,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "064e3c2211afd06b6d5f8dd500b3de8249a04e7f1abb2f149e873686c99d6a02"
+      },
+      "31": {
+        "source_ref": "Acts 26:31",
+        "source_chapter": 26,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "017a68e4f9934ee7456f9703d4b723f03b4b37c03a15445742b904b80c526a45"
+      },
+      "32": {
+        "source_ref": "Acts 26:32",
+        "source_chapter": 26,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "31842eda7df9ef3348557440532059637f74271214c80ca9685617cd670902ee"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

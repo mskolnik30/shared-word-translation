@@ -1,0 +1,198 @@
+{
+  "book": "Acts",
+  "chapter": 12,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 25,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_12.md",
+    "blob_sha": "56a2eb923ef80a6aa4298da7bd7724f3226060f2"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 12:1",
+        "source_chapter": 12,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "24127c8f4c1f9895df0f4fe08d1e513a06eb3ca8376b6bdf14fd3ee231d5ada1"
+      },
+      "2": {
+        "source_ref": "Acts 12:2",
+        "source_chapter": 12,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "4040c06d0530d2124244b7285a4c5db74ee40a27ef542e55a8398ea962e015d9"
+      },
+      "3": {
+        "source_ref": "Acts 12:3",
+        "source_chapter": 12,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "7dd62758709897c621472a5ba295864d51913987b1bdb6bfc3bceae45f17ce75"
+      },
+      "4": {
+        "source_ref": "Acts 12:4",
+        "source_chapter": 12,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "81a388ee767d512c9f49c399875eaf0aef56412340638607818b1119d46b5470"
+      },
+      "5": {
+        "source_ref": "Acts 12:5",
+        "source_chapter": 12,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "749d9ae3f98505d65ef3e1d84e856b05ae6bc350595a9fdb7ba46b161aa545f2"
+      },
+      "6": {
+        "source_ref": "Acts 12:6",
+        "source_chapter": 12,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "fbce6e580f1e7b662207bcd2daab2208ff802c0d53a976aff41063c9b8a1b1af"
+      },
+      "7": {
+        "source_ref": "Acts 12:7",
+        "source_chapter": 12,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "707f4c632000377e5fa731cd0cb35d1f55c2b68bbcc2bfde8bd11c10dab3ff8a"
+      },
+      "8": {
+        "source_ref": "Acts 12:8",
+        "source_chapter": 12,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "b329a1c691bc29ea4f44271103533b00ac38664dced58ca338ca0507454091d8"
+      },
+      "9": {
+        "source_ref": "Acts 12:9",
+        "source_chapter": 12,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "573316cc710664efa8cc6d72c73a7fea67d1294c837802b542bfc28df96d2ef0"
+      },
+      "10": {
+        "source_ref": "Acts 12:10",
+        "source_chapter": 12,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "306400481249c17e64095094175add130c3feb11744c5f9be4d9c618f454dc8d"
+      },
+      "11": {
+        "source_ref": "Acts 12:11",
+        "source_chapter": 12,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "1a7cd18198cd900ed6e2748877bbb2d3207c87f31fb3a0c09a3b206636eac872"
+      },
+      "12": {
+        "source_ref": "Acts 12:12",
+        "source_chapter": 12,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "8f6d2df7e9b5c424fa6f49d2140c0d609e78c3737caacf3cc29ee27b13dbf05d"
+      },
+      "13": {
+        "source_ref": "Acts 12:13",
+        "source_chapter": 12,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "25d7346628cb956ee6493c902ce830b4f7e07d2d003a3b7dcb73faefd0318db6"
+      },
+      "14": {
+        "source_ref": "Acts 12:14",
+        "source_chapter": 12,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "dd28a8943dda0926279c9dfb1a7ab4a1578cbaa292088fe9e62dedf861668f87"
+      },
+      "15": {
+        "source_ref": "Acts 12:15",
+        "source_chapter": 12,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "963ed383b3cb15734befb7df793d69efa319bc8e31c3cd873c87555c420f71df"
+      },
+      "16": {
+        "source_ref": "Acts 12:16",
+        "source_chapter": 12,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "3480b6d63ad42b34d753c6efa898a263ec1dadb61eb0dac8911ab1ce6ebbf4bc"
+      },
+      "17": {
+        "source_ref": "Acts 12:17",
+        "source_chapter": 12,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "2cbc36850b73e08cef5074864a6d571d797a62ff221a091635badf8a689a09ff"
+      },
+      "18": {
+        "source_ref": "Acts 12:18",
+        "source_chapter": 12,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "fcde35e81b06bd7fc716fa2bd3ff5d01187ae3ba3b33e2036dfaa56a1a1826c3"
+      },
+      "19": {
+        "source_ref": "Acts 12:19",
+        "source_chapter": 12,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "f828db72905c62554c0062c3a7c6ffd09afb740aaa669f8e0ede930074d01589"
+      },
+      "20": {
+        "source_ref": "Acts 12:20",
+        "source_chapter": 12,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "55c4adb2e2c97398344923fcb36b78f238afc03e9deadebf604398232a0adfcb"
+      },
+      "21": {
+        "source_ref": "Acts 12:21",
+        "source_chapter": 12,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "1b62bb0c2e99ab09260aeb1488dbf7bc54c3a1cf4fd30b395f2687d0a2d12e90"
+      },
+      "22": {
+        "source_ref": "Acts 12:22",
+        "source_chapter": 12,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "b94deb128a8bda5feda9193cf061f163550ab3325f1921a7e62287b65bc8f4f6"
+      },
+      "23": {
+        "source_ref": "Acts 12:23",
+        "source_chapter": 12,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "de689f1b2b84dd1f714435209a6805a6284231c590588e08f9ec84bdb1848dc3"
+      },
+      "24": {
+        "source_ref": "Acts 12:24",
+        "source_chapter": 12,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "ab91e851d9daf4e5101573bfac3dc327975f5880409167292ec899a6bb8f7126"
+      },
+      "25": {
+        "source_ref": "Acts 12:25",
+        "source_chapter": 12,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "38132d8a31690efd385af13c98d2d5c3d376444ab7a22500dd5b8eb14fc0c1d5"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

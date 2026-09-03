@@ -1,0 +1,343 @@
+{
+  "book": "Acts",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_status": "RETAINED_FOR_BATCH_DEPLOYMENT",
+  "chapter_count": 28,
+  "public_verse_slots": 1007,
+  "included_verse_labels": 1003,
+  "critical_text_absent_public_verses": {
+    "8": [
+      37
+    ],
+    "15": [
+      34
+    ],
+    "24": [
+      7
+    ],
+    "28": [
+      29
+    ]
+  },
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt"
+  },
+  "book_level_anchors": [
+    "Spirit/Holy Spirit",
+    "witness/testimony",
+    "Jerusalem-Judea-Samaria-ends of earth",
+    "word/good news growth",
+    "prayer",
+    "bold speech",
+    "resurrection",
+    "name of Jesus",
+    "kingdom of God",
+    "Jew/Gentile inclusion without replacement",
+    "table fellowship",
+    "shared possessions and relief",
+    "repentance and forgiveness",
+    "the Way",
+    "Scripture fulfillment",
+    "suffering and mission",
+    "Rome and unhindered proclamation"
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:8",
+      "decision": "geographic witness program retained as structural horizon"
+    },
+    {
+      "location": "2:17-18",
+      "decision": "Joel all-flesh language preserves gender/age/status expansion"
+    },
+    {
+      "location": "3:21",
+      "decision": "restoration of all things left broad, not made a doctrinal universalism proof"
+    },
+    {
+      "location": "4:12",
+      "decision": "no other name salvation claim retained directly"
+    },
+    {
+      "location": "5:4",
+      "decision": "property remained under Ananias' authority; deception not compulsory communism is issue"
+    },
+    {
+      "location": "6:1",
+      "decision": "Hellenist/Hebrew conflict treated as internal Jewish cultural-linguistic divide"
+    },
+    {
+      "location": "7:14",
+      "decision": "seventy-five follows Greek-scriptural tradition, not harmonized to Hebrew Genesis count"
+    },
+    {
+      "location": "8:37",
+      "decision": "public-number gap; later baptism confession excluded from main text"
+    },
+    {
+      "location": "9:15-16",
+      "decision": "Saul's call includes Gentiles, kings, Israel, and suffering"
+    },
+    {
+      "location": "10:28",
+      "decision": "Peter explicitly applies clean/unclean vision to human beings"
+    },
+    {
+      "location": "10:34-35",
+      "decision": "God shows no partiality; acceptable language retained without works-salvation paraphrase"
+    },
+    {
+      "location": "10:44-48",
+      "decision": "Spirit precedes baptism; church recognizes divine initiative"
+    },
+    {
+      "location": "11:12",
+      "decision": "diakrinō = no distinctions/hesitation in Gentile crossing"
+    },
+    {
+      "location": "13:39",
+      "decision": "dikaioō = set right, aligned Romans lexical policy"
+    },
+    {
+      "location": "13:46-47",
+      "decision": "Gentile turn preserves Israel-first mission, not replacement"
+    },
+    {
+      "location": "15:9",
+      "decision": "God made no distinction, cleansing hearts by trust"
+    },
+    {
+      "location": "15:10",
+      "decision": "yoke concerns imposing Torah on Gentiles as salvation condition; Torah not called evil"
+    },
+    {
+      "location": "15:28",
+      "decision": "Spirit-and-community discernment retained"
+    },
+    {
+      "location": "15:34",
+      "decision": "public-number gap; Silas-remained expansion excluded"
+    },
+    {
+      "location": "16:3",
+      "decision": "Timothy circumcision strategic, not salvific"
+    },
+    {
+      "location": "16:31-32",
+      "decision": "household salvation promise paired with word spoken to all household members"
+    },
+    {
+      "location": "17:22",
+      "decision": "very religious ambiguity retained"
+    },
+    {
+      "location": "17:26",
+      "decision": "human unity from one with national diversity preserved"
+    },
+    {
+      "location": "18:26",
+      "decision": "Prisca before Aquila in teaching Apollos retained"
+    },
+    {
+      "location": "19:21",
+      "decision": "Jerusalem then Rome mission necessity preserved"
+    },
+    {
+      "location": "20:28",
+      "decision": "elders/overseers/shepherd overlap retained; church of God acquired with own blood preserved"
+    },
+    {
+      "location": "21:4,10-14",
+      "decision": "Spirit-guidance tension around Jerusalem left unresolved"
+    },
+    {
+      "location": "21:20-25",
+      "decision": "Jewish believers' Torah zeal and separate Gentile decree both retained"
+    },
+    {
+      "location": "22:21-22",
+      "decision": "crowd rupture tied specifically to far-away Gentile mission"
+    },
+    {
+      "location": "23:11",
+      "decision": "Rome witness marked by divine necessity"
+    },
+    {
+      "location": "24:7",
+      "decision": "public-number gap; later Lysias expansion excluded"
+    },
+    {
+      "location": "25:19",
+      "decision": "Festus outsider summary foregrounds Jesus dead/alive dispute"
+    },
+    {
+      "location": "26:18",
+      "decision": "forgiveness/inheritance by trust in Jesus retained"
+    },
+    {
+      "location": "27:31",
+      "decision": "divine survival promise and necessary human means held together"
+    },
+    {
+      "location": "28:20",
+      "decision": "Paul's chain explicitly for hope of Israel"
+    },
+    {
+      "location": "28:24",
+      "decision": "final Jewish response remains divided, not uniformly negative"
+    },
+    {
+      "location": "28:29",
+      "decision": "public-number gap; later departure/dispute expansion excluded"
+    },
+    {
+      "location": "28:31",
+      "decision": "book ends with kingdom and Jesus proclaimed boldly, without hindrance"
+    }
+  ],
+  "deployment": "NT_BATCH_01",
+  "source_record_count": 1002,
+  "source_numbering_map": {
+    "public_19:40": {
+      "source_record": "Acts 19:40",
+      "segment": "before 'καὶ ταῦτα εἰπὼν'",
+      "reason": "SBLGNT combines the standard public verses Acts 19:40–41 into one source record."
+    },
+    "public_19:41": {
+      "source_record": "Acts 19:40",
+      "segment": "from 'καὶ ταῦτα εἰπὼν' to end",
+      "reason": "SBLGNT combines the standard public verses Acts 19:40–41 into one source record."
+    }
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "source_binding_count": 1003,
+    "unique_source_record_count": 1002,
+    "public_verse_slots": 1007,
+    "ledger_summary": {
+      "F0": 7,
+      "F1": 298,
+      "F2": 644,
+      "F3": 58
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/acts/Acts_01.md",
+        "blob_sha": "fc48ad3d34ee53f3c56bac7a184ceed99777c6ab"
+      },
+      "02": {
+        "path": "books/NT/acts/Acts_02.md",
+        "blob_sha": "51fb7f70b695e603a99a3c4214d9e8c9268fe3b0"
+      },
+      "03": {
+        "path": "books/NT/acts/Acts_03.md",
+        "blob_sha": "70268e479c54ccc6e97ddb8e42ba72a76e101695"
+      },
+      "04": {
+        "path": "books/NT/acts/Acts_04.md",
+        "blob_sha": "0232418c630bc20a39aa9caf6539d1480776f6dc"
+      },
+      "05": {
+        "path": "books/NT/acts/Acts_05.md",
+        "blob_sha": "484cb98416b3e0d085864b0d358148509982e605"
+      },
+      "06": {
+        "path": "books/NT/acts/Acts_06.md",
+        "blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903"
+      },
+      "07": {
+        "path": "books/NT/acts/Acts_07.md",
+        "blob_sha": "c32c9314bda9537a2af695fabf365f7969f06342"
+      },
+      "08": {
+        "path": "books/NT/acts/Acts_08.md",
+        "blob_sha": "db063e65d18320ea676d74b5ee59cf3604394636"
+      },
+      "09": {
+        "path": "books/NT/acts/Acts_09.md",
+        "blob_sha": "03096dfd702d5e51007a499f2d8d9b951c97ffda"
+      },
+      "10": {
+        "path": "books/NT/acts/Acts_10.md",
+        "blob_sha": "51adf24bd39642cff5a0b0f4202ab85e2ae1ff2b"
+      },
+      "11": {
+        "path": "books/NT/acts/Acts_11.md",
+        "blob_sha": "b2812aac948b9ed3ffa3d670532da09ba7d0305a"
+      },
+      "12": {
+        "path": "books/NT/acts/Acts_12.md",
+        "blob_sha": "56a2eb923ef80a6aa4298da7bd7724f3226060f2"
+      },
+      "13": {
+        "path": "books/NT/acts/Acts_13.md",
+        "blob_sha": "6831ca6ea65b8a78a5aad59b8e56e1a48fc7fb92"
+      },
+      "14": {
+        "path": "books/NT/acts/Acts_14.md",
+        "blob_sha": "cf2476b4fb289beee238586883f0812653141ce3"
+      },
+      "15": {
+        "path": "books/NT/acts/Acts_15.md",
+        "blob_sha": "92ba4b3986912aeaa6b1efb0e054eeec3ef22571"
+      },
+      "16": {
+        "path": "books/NT/acts/Acts_16.md",
+        "blob_sha": "a85a392b74d94d345a35ed3b19f947772632a376"
+      },
+      "17": {
+        "path": "books/NT/acts/Acts_17.md",
+        "blob_sha": "4d1e89a701451110680006a8dd2550c23f6bf3e4"
+      },
+      "18": {
+        "path": "books/NT/acts/Acts_18.md",
+        "blob_sha": "c0f1c2bfad25dd411c063951594f99cb9431174f"
+      },
+      "19": {
+        "path": "books/NT/acts/Acts_19.md",
+        "blob_sha": "15c72184a4ac1dbc8e4c1d44845e12b1690feeeb"
+      },
+      "20": {
+        "path": "books/NT/acts/Acts_20.md",
+        "blob_sha": "fdb010952d02e7a708b8e8c97b29de2ac1611baf"
+      },
+      "21": {
+        "path": "books/NT/acts/Acts_21.md",
+        "blob_sha": "6effe3fc68dc864bc35be8d773a7390b793dde81"
+      },
+      "22": {
+        "path": "books/NT/acts/Acts_22.md",
+        "blob_sha": "27e2f26f5eb4e430ff2d2ea3e46ac635270e40ef"
+      },
+      "23": {
+        "path": "books/NT/acts/Acts_23.md",
+        "blob_sha": "02b85cb4a010810fc5f91c4d12876227ded77601"
+      },
+      "24": {
+        "path": "books/NT/acts/Acts_24.md",
+        "blob_sha": "0f2fd56d68814af433718a5fc14c8e5b7c5823ff"
+      },
+      "25": {
+        "path": "books/NT/acts/Acts_25.md",
+        "blob_sha": "54346f97e32c9f3d3db23dde9498e94049482c9a"
+      },
+      "26": {
+        "path": "books/NT/acts/Acts_26.md",
+        "blob_sha": "4932cf29f0ea209703daf14de01ad7254f015c8f"
+      },
+      "27": {
+        "path": "books/NT/acts/Acts_27.md",
+        "blob_sha": "d261bf25d1f39f5c556d0beb476e6050610f48dd"
+      },
+      "28": {
+        "path": "books/NT/acts/Acts_28.md",
+        "blob_sha": "f04622b3f8eaf6e0b2b0dadee79aa28fb54785d5"
+      }
+    }
+  }
+}

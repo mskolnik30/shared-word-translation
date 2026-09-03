@@ -1,0 +1,128 @@
+{
+  "book": "Acts",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 15,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_06.md",
+    "blob_sha": "4d62d1f314a8fe5f118caa16d2671b5f3474f903"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 6:1",
+        "source_chapter": 6,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "703c635e6688460cbe875eda2107caa83944162f5f53abc3ed9b11bf154f957c"
+      },
+      "2": {
+        "source_ref": "Acts 6:2",
+        "source_chapter": 6,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "cd9d531d0e223fd2972ba113e589c736408b3eb661e760321de5d94cd654b4f0"
+      },
+      "3": {
+        "source_ref": "Acts 6:3",
+        "source_chapter": 6,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "31832745f7389327654345cdc5288af2cbb704e6f3ca5bba79e2265b0bb597aa"
+      },
+      "4": {
+        "source_ref": "Acts 6:4",
+        "source_chapter": 6,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "095b876dcb8bd0d25c0efb7898d7509bbe79d90b00e90fd6bff129927eba2dad"
+      },
+      "5": {
+        "source_ref": "Acts 6:5",
+        "source_chapter": 6,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "68e9c3e8398da14b4c90b74e9fd77e3fc6ae019de40579ca8f6393c3b6117212"
+      },
+      "6": {
+        "source_ref": "Acts 6:6",
+        "source_chapter": 6,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "da4e1dced07d09c67cc0c69ad92cfc77bdfe4649503c0b5eb72fe27523438a63"
+      },
+      "7": {
+        "source_ref": "Acts 6:7",
+        "source_chapter": 6,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "d585d3e8b3798d5102ae46e73a36e97ac5c414d8fc100d43205f0a623442631c"
+      },
+      "8": {
+        "source_ref": "Acts 6:8",
+        "source_chapter": 6,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "bc347559971d72010b2c57ab6103f12a6c945aebe3ad3c132b539a00e160d996"
+      },
+      "9": {
+        "source_ref": "Acts 6:9",
+        "source_chapter": 6,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "31a45b35d21c37fa5f3d4485e8ac82a13c0295dbd55446a87acf1626bbcb16a8"
+      },
+      "10": {
+        "source_ref": "Acts 6:10",
+        "source_chapter": 6,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "28e8dc0cba01c894a41ffe5edc23fd291ca207c95d490062a3e2115c3e374cda"
+      },
+      "11": {
+        "source_ref": "Acts 6:11",
+        "source_chapter": 6,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "ea26985d10c2e7d3a4e1fdedaaef073e713e23abd5758044c8cd41ea6c0fa38a"
+      },
+      "12": {
+        "source_ref": "Acts 6:12",
+        "source_chapter": 6,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "ed0300586afea6ad0f644850580d49a413a060df3d7370a37526ec580be1e248"
+      },
+      "13": {
+        "source_ref": "Acts 6:13",
+        "source_chapter": 6,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "3dd023037b757d62d152910d965036005a3338d8ac4eac447c1545f6fa365b3b"
+      },
+      "14": {
+        "source_ref": "Acts 6:14",
+        "source_chapter": 6,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "99ec0b3fc41d172064e72b739bfcbfc44bca1e1762fdd8739bc89831bb2a893e"
+      },
+      "15": {
+        "source_ref": "Acts 6:15",
+        "source_chapter": 6,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "8a3e2d8a6fbe9d724441eb38660392e65548cbcd5fe4f825052e73538747fbe7"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

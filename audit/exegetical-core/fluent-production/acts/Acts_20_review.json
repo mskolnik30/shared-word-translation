@@ -1,0 +1,289 @@
+{
+  "book": "Acts",
+  "chapter": 20,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 38,
+  "source": "SBLGNT 1.2 pinned commit c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+  "tsw_comparator": {
+    "path": "books/NT/acts/Acts_20.md",
+    "blob_sha": "fdb010952d02e7a708b8e8c97b29de2ac1611baf"
+  },
+  "publication_allowed": false,
+  "deployment_batch": "NT_BATCH_01",
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Acts.txt",
+    "git_blob_sha": "4cdcc5176134a1b9802c87dbdf3a90ffb6c284aa",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Acts 20:1",
+        "source_chapter": 20,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "20dc7a9dd2291db903950e048e5ab7b140e0c364868172e95ed42f1fbc8de1eb"
+      },
+      "2": {
+        "source_ref": "Acts 20:2",
+        "source_chapter": 20,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "5f0d2e5d4d0cc68c2ab900578221b4a576afef189db8fbf4823ea5338f7d4512"
+      },
+      "3": {
+        "source_ref": "Acts 20:3",
+        "source_chapter": 20,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "dfc9ef11e3a41cca534309d5c64e7cb8767a9e6a4d110ad0aae735b8c3630cf9"
+      },
+      "4": {
+        "source_ref": "Acts 20:4",
+        "source_chapter": 20,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "67e925dcad06ab0cfe691cb7c4de2b6ef49224f54c33c720168366d4ca9b84f1"
+      },
+      "5": {
+        "source_ref": "Acts 20:5",
+        "source_chapter": 20,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "63d72b9723beaf409317735bc143c42f1fbe29c3cc79449ca785760014ef79a4"
+      },
+      "6": {
+        "source_ref": "Acts 20:6",
+        "source_chapter": 20,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "b5b0f8cc48e706b03981688f9a2ca2214f9154552145a055be4ddc958b663c25"
+      },
+      "7": {
+        "source_ref": "Acts 20:7",
+        "source_chapter": 20,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "7215ae0c93f6ecc61b0a971aaf83084b58ebf6a0f6dd104bfaf11bbcd70d200f"
+      },
+      "8": {
+        "source_ref": "Acts 20:8",
+        "source_chapter": 20,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "ea1025493d6d8598ef0c8e7e55ce537c43a7c5a143838e66eed91b94eeff3ba3"
+      },
+      "9": {
+        "source_ref": "Acts 20:9",
+        "source_chapter": 20,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "2aba59a9de5f71a8bf9861be190dc15b8934796cfc37afb7959b92eb100af032"
+      },
+      "10": {
+        "source_ref": "Acts 20:10",
+        "source_chapter": 20,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "d8609e9c52745251acc540049ef605ae3851cd5c5edb54f294a5f6e3fcd0124c"
+      },
+      "11": {
+        "source_ref": "Acts 20:11",
+        "source_chapter": 20,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "805b028322644538c1d7fa907ded0e294d0a4c6b8a3f93e469c37be88e1bf6b5"
+      },
+      "12": {
+        "source_ref": "Acts 20:12",
+        "source_chapter": 20,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "d7f8f36e4f0daa1e70813d082b010331867a1ef8d8930a1cfba6da46c5a9d0d7"
+      },
+      "13": {
+        "source_ref": "Acts 20:13",
+        "source_chapter": 20,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "0b9f76da693a7ff5bd86b6bea4d1310b0acf6cdc45bc800463428a6d36749164"
+      },
+      "14": {
+        "source_ref": "Acts 20:14",
+        "source_chapter": 20,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "d024bfae469ac5089f679bffcf4f807738c5beb55e939cc1a4c1abed071c5f99"
+      },
+      "15": {
+        "source_ref": "Acts 20:15",
+        "source_chapter": 20,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "b99f95e02d934520b86858f01ec5e635a8a4999570091230f75e7914821bdc75"
+      },
+      "16": {
+        "source_ref": "Acts 20:16",
+        "source_chapter": 20,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "7e6c2e29f49c96c8aef7b9fb639c084215751f91c40e514b56fc3ff89e82fda9"
+      },
+      "17": {
+        "source_ref": "Acts 20:17",
+        "source_chapter": 20,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "5caa25fbc35e4491ee52a92311bc98aa985c308d813f611fa9a34f76133007d6"
+      },
+      "18": {
+        "source_ref": "Acts 20:18",
+        "source_chapter": 20,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "95f0f0654014fa69287441b841d6b45e957c7a2260112ab37f4d8cd4d1d6067e"
+      },
+      "19": {
+        "source_ref": "Acts 20:19",
+        "source_chapter": 20,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "4c46d8036ef56673f583e1d3dc735a8b64b12e31bf7b05f3935601e7782164a6"
+      },
+      "20": {
+        "source_ref": "Acts 20:20",
+        "source_chapter": 20,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "9f087f812c3081122888627fca981e5b6c26afb967b2dee63c690a8b9fb50049"
+      },
+      "21": {
+        "source_ref": "Acts 20:21",
+        "source_chapter": 20,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "9ae829fdb6d277a6ea2f4948eb2ef4a388bcb5f87cef3f5742009450cb2b6a6d"
+      },
+      "22": {
+        "source_ref": "Acts 20:22",
+        "source_chapter": 20,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "054efa5511492ba36bdbc57fba19990c5a6e9b9dda9796f9928e3a2d6f1cbac3"
+      },
+      "23": {
+        "source_ref": "Acts 20:23",
+        "source_chapter": 20,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "9e60bed605bceac78d930d0064d7fe01296654144c83163578f0d39633c7826e"
+      },
+      "24": {
+        "source_ref": "Acts 20:24",
+        "source_chapter": 20,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "bb563647c6b1e6622af42336180fc76b1aeb9b56f6074a23ef60b5a4ce3cd7d4"
+      },
+      "25": {
+        "source_ref": "Acts 20:25",
+        "source_chapter": 20,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "adc92832342743ed0887adbaa2289d7dfaf3dbcddad3e5634207c2f3383d33cd"
+      },
+      "26": {
+        "source_ref": "Acts 20:26",
+        "source_chapter": 20,
+        "source_verse": 26,
+        "segment_mode": "whole_record",
+        "sha256": "0b987a7184ba26d263a60c4cb85cc5b743db5681ec745a63dc8e3ca81d92dae1"
+      },
+      "27": {
+        "source_ref": "Acts 20:27",
+        "source_chapter": 20,
+        "source_verse": 27,
+        "segment_mode": "whole_record",
+        "sha256": "6f145c3774086a17d215fb396a5d9086bc670aa50c93d98ed8687db8d10fa14c"
+      },
+      "28": {
+        "source_ref": "Acts 20:28",
+        "source_chapter": 20,
+        "source_verse": 28,
+        "segment_mode": "whole_record",
+        "sha256": "3d309366dc2d6f803d3abf398857dc927613e9fe9c98c984c9473bea87df95cc"
+      },
+      "29": {
+        "source_ref": "Acts 20:29",
+        "source_chapter": 20,
+        "source_verse": 29,
+        "segment_mode": "whole_record",
+        "sha256": "4e53a17d51656733c87829f2530473c5248cd3271ade1a73fcbf657a6e8c8b9e"
+      },
+      "30": {
+        "source_ref": "Acts 20:30",
+        "source_chapter": 20,
+        "source_verse": 30,
+        "segment_mode": "whole_record",
+        "sha256": "52340761af8351651445b7be50a2fb13dfd290678b1645363e7b24109caf1949"
+      },
+      "31": {
+        "source_ref": "Acts 20:31",
+        "source_chapter": 20,
+        "source_verse": 31,
+        "segment_mode": "whole_record",
+        "sha256": "6726069fa810f66b632977e0407de259235dca1e47643d5b9057858addbffef2"
+      },
+      "32": {
+        "source_ref": "Acts 20:32",
+        "source_chapter": 20,
+        "source_verse": 32,
+        "segment_mode": "whole_record",
+        "sha256": "5f52bd093011e0844ed40daaa7b509282e82424ac6a97d0325c1be79fddc6724"
+      },
+      "33": {
+        "source_ref": "Acts 20:33",
+        "source_chapter": 20,
+        "source_verse": 33,
+        "segment_mode": "whole_record",
+        "sha256": "49c9a55ac87fa3bffcb74f4146250ad041b60ddb2adb69311382c998ec2bb34b"
+      },
+      "34": {
+        "source_ref": "Acts 20:34",
+        "source_chapter": 20,
+        "source_verse": 34,
+        "segment_mode": "whole_record",
+        "sha256": "f29546a419feeb90552005b07bcb8f7ae1ba35c048e2873909523eec9da11786"
+      },
+      "35": {
+        "source_ref": "Acts 20:35",
+        "source_chapter": 20,
+        "source_verse": 35,
+        "segment_mode": "whole_record",
+        "sha256": "383828587854de6669e3f447e7aea1ef1e64d3e8cab3a04bdb77e158e68ace4c"
+      },
+      "36": {
+        "source_ref": "Acts 20:36",
+        "source_chapter": 20,
+        "source_verse": 36,
+        "segment_mode": "whole_record",
+        "sha256": "3927d8ffefa01967d5fef9d6117230772972b3b76785bfa8178b8684c66f1f49"
+      },
+      "37": {
+        "source_ref": "Acts 20:37",
+        "source_chapter": 20,
+        "source_verse": 37,
+        "segment_mode": "whole_record",
+        "sha256": "060fb1138a133e35bbf6b8c65a7fac943f042b39a32ff60054ad66884164774a"
+      },
+      "38": {
+        "source_ref": "Acts 20:38",
+        "source_chapter": 20,
+        "source_verse": 38,
+        "segment_mode": "whole_record",
+        "sha256": "701498ddfadaf9c7d4f92a5bf7179da11bd622874cfded6a18245ebc3ba7215c"
+      }
+    }
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
