@@ -1,0 +1,44 @@
+{
+  "book": "Matthew",
+  "chapter": 22,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_path": "books/NT/matthew/Matthew_22.md",
+  "canonical_tsw_sha": "04914caa297e6d0e2666d2dded7f77c41e9c1b6d",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Matt.txt",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+  },
+  "chapter_focus": [
+    "wedding banquet",
+    "Caesar/God",
+    "resurrection",
+    "great commandments"
+  ],
+  "curated_f3": [
+    {
+      "location": "11",
+      "decision": "wedding garment not interpreted"
+    },
+    {
+      "location": "21",
+      "decision": "give back Caesar/God"
+    },
+    {
+      "location": "37",
+      "decision": "psychē as life"
+    }
+  ],
+  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
+  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+  "verse_delta_summary": {
+    "F0": 3,
+    "F1": 15,
+    "F2": 21,
+    "F3": 7
+  }
+}

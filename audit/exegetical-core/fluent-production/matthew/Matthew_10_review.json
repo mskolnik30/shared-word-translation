@@ -1,0 +1,52 @@
+{
+  "book": "Matthew",
+  "chapter": 10,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_path": "books/NT/matthew/Matthew_10.md",
+  "canonical_tsw_sha": "37b3cfb71fb7fa38d9029919d73878ad3587668f",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Matt.txt",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Matt.txt"
+  },
+  "chapter_focus": [
+    "mission to Israel",
+    "hand-over/persecution",
+    "cross/life",
+    "receiving"
+  ],
+  "curated_f3": [
+    {
+      "location": "5",
+      "decision": "Israel-focused mission vs later universal mission"
+    },
+    {
+      "location": "8",
+      "decision": "raise dead present in SBLGNT"
+    },
+    {
+      "location": "23",
+      "decision": "Son of Man timing saying"
+    },
+    {
+      "location": "28",
+      "decision": "psychē life/self/soul"
+    },
+    {
+      "location": "34",
+      "decision": "sword as allegiance division, not command to violence"
+    }
+  ],
+  "apparatus": "Fluent apparatus is source- and book-oriented; canonical TSW is used as comparator, not as the translation source.",
+  "source_file_sha256": "4fa718540cbc6330591b233c99c68bbf52b85afc90016e4188efe5cd9719eeb0",
+  "verse_delta_summary": {
+    "F0": 1,
+    "F1": 12,
+    "F2": 23,
+    "F3": 6
+  }
+}
