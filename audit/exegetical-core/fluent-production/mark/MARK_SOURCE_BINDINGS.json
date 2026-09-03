@@ -1,0 +1,3406 @@
+{
+  "book": "Mark",
+  "translation": "FLUENT",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Mark.txt",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Mark.txt"
+  },
+  "source_file_sha256": "fe1b5a4c15db71e7e30f33fb67966ca93baffae377085ece0b88f66316729638",
+  "public_verse_slots": 678,
+  "included_verse_labels": 673,
+  "bindings": {
+    "1:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d697af0942b1c6d8a776a069aaaf1e4721f8a30dc9bfa33f7545d6e8a79d6e30",
+      "source_line_ref": "Mark 1:1"
+    },
+    "1:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b6f9e99365501338a669be8cb208e704a906e272c2708e82c2f4bc97ba52a9a1",
+      "source_line_ref": "Mark 1:2"
+    },
+    "1:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "931da51f53b317f62caa25ceae8b0d4699c371242046e118aa6d328f375c434d",
+      "source_line_ref": "Mark 1:3"
+    },
+    "1:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4bff43314cc34f87ec1e93c18531e33c02e2c79e2c9f3d89dac28e250ead0d47",
+      "source_line_ref": "Mark 1:4"
+    },
+    "1:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b1fa5ba5cc63936093fa29019d32366d84e1ddb81e747e65dee78dcf0c3c426a",
+      "source_line_ref": "Mark 1:5"
+    },
+    "1:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8ec05949fd4ee0e93a74893c74e770b4079c3aacb3ca3d8b2493850b4ce140f8",
+      "source_line_ref": "Mark 1:6"
+    },
+    "1:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4d3ec0b6c6cc4a97905af5b446feb73a1f438728fee7a09e03347f2c7b2c5856",
+      "source_line_ref": "Mark 1:7"
+    },
+    "1:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "42ad9a2de832c868203a0359f497cbf045a30e202c10d3d95c77d71752c58844",
+      "source_line_ref": "Mark 1:8"
+    },
+    "1:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cd2b4be6456670068af291959e5af66b8d2ac69b433d2ed57f8c62bdfbff4f27",
+      "source_line_ref": "Mark 1:9"
+    },
+    "1:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1b8f8ab45ded7b194442e37888bf1d1e26c9d6c08cafe3c08464bbaf36cc4d2a",
+      "source_line_ref": "Mark 1:10"
+    },
+    "1:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a3a1cce27f84897158ae593c4e37ef98fd0c86e9f25119fce41116b8e0651451",
+      "source_line_ref": "Mark 1:11"
+    },
+    "1:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c2011b6387882bb5a6d3252a297c12d604b9b81b2ed03032e7535b927256ad14",
+      "source_line_ref": "Mark 1:12"
+    },
+    "1:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fdcddf46bc232c2d18c1de9bdadec82a60776b898364a39e7c21fce154c11422",
+      "source_line_ref": "Mark 1:13"
+    },
+    "1:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d0205568931282ef3d1d320c4dcc7a1591094d5c9afb99e6b670111c1fda33c8",
+      "source_line_ref": "Mark 1:14"
+    },
+    "1:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "08b3eb5d293e5a67faff6874fb86e5afbc27eb126f29e9533510d1a294ef0b57",
+      "source_line_ref": "Mark 1:15"
+    },
+    "1:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "beb36c6fcb7786e9d366dc65d5c0248a2b0fb57a098f2122505dde3a3ab0b5b7",
+      "source_line_ref": "Mark 1:16"
+    },
+    "1:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d37bcb332795aef18263b7964a5518054859b8d9755118ff28bd1b917fcc7f98",
+      "source_line_ref": "Mark 1:17"
+    },
+    "1:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "850e7ecab43168a10828c0862faba9de595cfbfd4e38e96ca8ebcb0a15d9c2f9",
+      "source_line_ref": "Mark 1:18"
+    },
+    "1:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bd553d85d85c75e3c6a7b4588adbbf8e9684e029d697e6e9f348c09ff7559730",
+      "source_line_ref": "Mark 1:19"
+    },
+    "1:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "11db2e7b799a82081ee400d7a2bb228942bd17579a0b4140cce93de4dca71539",
+      "source_line_ref": "Mark 1:20"
+    },
+    "1:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e2a18abae32d71afea8f0b67b5f1b3393609f537213c8ea093d0977b5aedb381",
+      "source_line_ref": "Mark 1:21"
+    },
+    "1:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b9f1c251ca1075b40681f3aa05ed7753112cf94ab742d7216c02af9046aa6cac",
+      "source_line_ref": "Mark 1:22"
+    },
+    "1:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a0525e8f6d4f27b46d5709acdd2524bb079be299e4bb82bc52bf083bd1253100",
+      "source_line_ref": "Mark 1:23"
+    },
+    "1:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "29e3bd6cfbd8ba3150312188f79b3fb958b53113a03115270149b3de268d6bea",
+      "source_line_ref": "Mark 1:24"
+    },
+    "1:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4abbbd6b3919747434b0e358d2cc6e82efeb1ca1b5a9aa59d54928818a7ae6ba",
+      "source_line_ref": "Mark 1:25"
+    },
+    "1:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0b19f326f76cdd47955e4f6d1e156d50408f0d1231ab4a26e541194a3b9c96f5",
+      "source_line_ref": "Mark 1:26"
+    },
+    "1:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d246d4fb567a6dc75412d22ba864f59e0c2285323e0b2f62008f59d32ac3b8be",
+      "source_line_ref": "Mark 1:27"
+    },
+    "1:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "06481f838a0c431b0eca734a3f96f5cbcb24557c50215e63c2c6acaf5486892d",
+      "source_line_ref": "Mark 1:28"
+    },
+    "1:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bff070bb0a6e74212abc117e66c9d7742572c143b8b04d15472438a21e04ea9b",
+      "source_line_ref": "Mark 1:29"
+    },
+    "1:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e7a8840fb1b5c408c7b2b5af9e4080faba0c2bb665ee4f6744dc02a0f13576cd",
+      "source_line_ref": "Mark 1:30"
+    },
+    "1:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "45fb1649ffeaa99cd8f33faa298ed4a23229ba767e81e240b2a0c92249548b7f",
+      "source_line_ref": "Mark 1:31"
+    },
+    "1:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "67accfee9a975e3959df7c8e47956ac73e6d961a927343d1eb16814cc64977b7",
+      "source_line_ref": "Mark 1:32"
+    },
+    "1:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0a886491ae184f757fcf7bbc795adf73f8333a55026ef9544609276b906b2a24",
+      "source_line_ref": "Mark 1:33"
+    },
+    "1:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5d840b7be12138ad22df1c0d1e1d56522e011b3981908101ca80425890f6d809",
+      "source_line_ref": "Mark 1:34"
+    },
+    "1:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e8c2a9950fc4502753b81b611dd8e5ae8b343ceae497ecf73577b888015d5c6f",
+      "source_line_ref": "Mark 1:35"
+    },
+    "1:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "46c83cf4fdaa7af0a8c5fe51852cbeee0ab6064852713a25f2ea908a107c3af3",
+      "source_line_ref": "Mark 1:36"
+    },
+    "1:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6e8d2f332b18733ffd49c019f18efb7427283e6f54079b9fc15af6a80bfdb5c4",
+      "source_line_ref": "Mark 1:37"
+    },
+    "1:38": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "79c5634e35eda3072306d9d6750bbf9696da6c53911643cdbe090f0f24c208c0",
+      "source_line_ref": "Mark 1:38"
+    },
+    "1:39": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a19bff1454032a69c67251ebf8f1fc1b0f3c98c7cceb596b813331ed2939a551",
+      "source_line_ref": "Mark 1:39"
+    },
+    "1:40": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "52d157ed8cc3087b5e0929894de076f674d47fa9859e4eb1697f829a7af5faac",
+      "source_line_ref": "Mark 1:40"
+    },
+    "1:41": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8a45117e96666f733670a499b2a102daae86658d6c774b8b931de0344f4d71ef",
+      "source_line_ref": "Mark 1:41"
+    },
+    "1:42": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8631b77896b5a6912def352948cbbb8d933bb4c180aaebd9f0adcde80b4b2087",
+      "source_line_ref": "Mark 1:42"
+    },
+    "1:43": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "38a69dd6859940b81637859f7cf88ff57a6a37f63162b2ad5b11a49846b7dc83",
+      "source_line_ref": "Mark 1:43"
+    },
+    "1:44": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "78ea137fb6ea3c78c360cbaa9cca15429039c3f521c1084626812cfceb3236f5",
+      "source_line_ref": "Mark 1:44"
+    },
+    "1:45": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fcea809a04006aa9d549828f2a780ddb91bfa49b18fe9e33cb0557b4ac2ac2cd",
+      "source_line_ref": "Mark 1:45"
+    },
+    "2:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "68721824cd795158803d63e38123c2c82cc30ed5db182e0b31d1f759b308537e",
+      "source_line_ref": "Mark 2:1"
+    },
+    "2:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0207158f0789be36d186448f8e940557419742503f55c973ba266508b5cf52ac",
+      "source_line_ref": "Mark 2:2"
+    },
+    "2:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e65addb1de4aa00a5a7c22133e88485780c86414fd03aee86cb6d713b5848735",
+      "source_line_ref": "Mark 2:3"
+    },
+    "2:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7cb93d2f0ed7f9c98ff0c4bc1593004aa00dcc74f32bb1f7928330b36834d6dc",
+      "source_line_ref": "Mark 2:4"
+    },
+    "2:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c749ec0e90f5ecfafb3198379660e900abaa40c5d8337a13f020dbeda5d9ad80",
+      "source_line_ref": "Mark 2:5"
+    },
+    "2:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e032a59c1b3f74d4362c6706d0df916fff3b6816e1f9832898e59edac3cd60aa",
+      "source_line_ref": "Mark 2:6"
+    },
+    "2:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1060e01e724229eb11a3b4f4f8e04398d4eb9df740913b9edb4f92664ad62f48",
+      "source_line_ref": "Mark 2:7"
+    },
+    "2:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "919993ffdf4dbd0795cff0e357abf25efb6708a0e7af3ab7b7a59155f90428e3",
+      "source_line_ref": "Mark 2:8"
+    },
+    "2:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "076d2a45af00e4eba9a54b19acf0a72daa50345b375c47a44cbcb47d99006479",
+      "source_line_ref": "Mark 2:9"
+    },
+    "2:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a6705b72493590345074c08f7586ea3514f2a41cb10cff9c2bf2f4755267ce19",
+      "source_line_ref": "Mark 2:10"
+    },
+    "2:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c962625ab68d0ce264113503e903ac0bac99424b714830ef480ec047daaef1e7",
+      "source_line_ref": "Mark 2:11"
+    },
+    "2:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "69871f7145f2b2950a5c1cd2c6541d6d7ea2554ca3c7508772473ec586e2782b",
+      "source_line_ref": "Mark 2:12"
+    },
+    "2:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "34340174c610fefe401d827ec8e54e81cf5975ee91092e360598488182df226d",
+      "source_line_ref": "Mark 2:13"
+    },
+    "2:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a5584ecc611244276185f902135ec5bb9d04d0f885a3dc3898d2b2d2279c4429",
+      "source_line_ref": "Mark 2:14"
+    },
+    "2:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "92d60ab3eaf0f89625d0e8e76a756da0daac063db5adffe42a88e7296c50ac00",
+      "source_line_ref": "Mark 2:15"
+    },
+    "2:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "949150894d270da9c49c53c2527808b705d367b94b748a7c1f5bc1c5a1a08f31",
+      "source_line_ref": "Mark 2:16"
+    },
+    "2:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "93a454d8491f269855676b9630dcc66244aba966e6a2ceb8284ef2a93b45f6b0",
+      "source_line_ref": "Mark 2:17"
+    },
+    "2:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "49ed54915c9b5b6414ed6978d381fabbc027761b44f813fba9be5daf9c560553",
+      "source_line_ref": "Mark 2:18"
+    },
+    "2:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c52dbe5c05b31332b6dd5445fab7d035f53824c65dfc2d87aa1586191e5416ee",
+      "source_line_ref": "Mark 2:19"
+    },
+    "2:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "008e475a0fd2c156410ac6c5fa15bb6c415b55b717827f95393a70bbd32e41fd",
+      "source_line_ref": "Mark 2:20"
+    },
+    "2:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "44413b6bf7ba67907b2d666e7723e51e7ed8fc48511bd9492c053ef67f675b6f",
+      "source_line_ref": "Mark 2:21"
+    },
+    "2:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "45fe5f17ace160bc06cd0af010ee3e0901a5b431a2b6169838d818ead9f55221",
+      "source_line_ref": "Mark 2:22"
+    },
+    "2:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ca5069a25da75c7f7e0e24109e37a9ac2180989576027d0ef0c600ec1d1d24b4",
+      "source_line_ref": "Mark 2:23"
+    },
+    "2:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "67ffedae1861d18337ffff1937953eddb10fd3f927d2226585342d271f189155",
+      "source_line_ref": "Mark 2:24"
+    },
+    "2:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "95c7264707d0d82f8866f5e5ae8e00373a960b167e63878753007b3b07d7768c",
+      "source_line_ref": "Mark 2:25"
+    },
+    "2:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bcfeb2e594cee7de69dda89bb367b2af518db3f58ec53865b26f2e63d27c7133",
+      "source_line_ref": "Mark 2:26"
+    },
+    "2:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "40e9a7902f7afcaae1de37a33f3bc09aec10f6bb76949f11f31aadefecc73f8b",
+      "source_line_ref": "Mark 2:27"
+    },
+    "2:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b775604fdf5b1e2c991f95d91dcc884cafd24a7cce9fbfa5d99eb2994328efee",
+      "source_line_ref": "Mark 2:28"
+    },
+    "3:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "025ea15808c17134b9b6b58856e6f55056ce49536598d9b0b27766ac2a04af21",
+      "source_line_ref": "Mark 3:1"
+    },
+    "3:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cb6d6f4341b52c3992ba8e3e73996a9a175ce68adddc2b3c5fc99e3fcbc55ddf",
+      "source_line_ref": "Mark 3:2"
+    },
+    "3:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "92be42fb7ce167a009f2e599ea9bfb8923a9fc3c96490a43a765d8ae7aebc697",
+      "source_line_ref": "Mark 3:3"
+    },
+    "3:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7f2f2380d0cfa66be0fd8b57d48a371671abb4edcead6c06b01d956e5939d20b",
+      "source_line_ref": "Mark 3:4"
+    },
+    "3:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "76accb7a60cce42885c9a2a11d2ee8e1ff84e033e6d892b951615ec5ca3227dc",
+      "source_line_ref": "Mark 3:5"
+    },
+    "3:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "16ac1a313c78e8f731a7b691312c6de6a206f496641e5daf656c31311c11aed5",
+      "source_line_ref": "Mark 3:6"
+    },
+    "3:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "129f9941dc2981f0e70053cad766eeb2945b5f0a7e79f54698186dea0def6379",
+      "source_line_ref": "Mark 3:7"
+    },
+    "3:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e26b69cd639c82c0a1b2f5bd1793fd429876defc0dd79e3210c59bb3288f7b97",
+      "source_line_ref": "Mark 3:8"
+    },
+    "3:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "51e044554016261e661df7711432d666f817ce6898fec7144488d3598ee09d9e",
+      "source_line_ref": "Mark 3:9"
+    },
+    "3:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4f2b1767a3553ccb83f59191a7c0e3cb01f4f204a0c4f64aa67bac6b88576705",
+      "source_line_ref": "Mark 3:10"
+    },
+    "3:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9f79422ba67c6f56a577353e447c31acd354f8328fb95088e3e13e1906536223",
+      "source_line_ref": "Mark 3:11"
+    },
+    "3:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ce9fc3f4711258c215a3c54023f6648d65a2af024160d30d9f32092ddd61a0f8",
+      "source_line_ref": "Mark 3:12"
+    },
+    "3:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "dee78bef7004203855c52a58150e7b05fccfafbf6e88482571cf6ef3571283a7",
+      "source_line_ref": "Mark 3:13"
+    },
+    "3:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "31392a86706ae4a9ed6a56ee90327b46d9206cf6062ef387334844793463cc9a",
+      "source_line_ref": "Mark 3:14"
+    },
+    "3:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b4183e1ef5ba7e736e5c21e4b8a757ed3d0a4f4161c10fdc586cf63417993960",
+      "source_line_ref": "Mark 3:15"
+    },
+    "3:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "54c27676db7edc679e0eba2cf515329b32d33b05cf1229d69764a7189a2e1328",
+      "source_line_ref": "Mark 3:16"
+    },
+    "3:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5a479c928c753e15872f518019c0d795e8b4ed7b8c8ec0802b3040a4a225e857",
+      "source_line_ref": "Mark 3:17"
+    },
+    "3:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4d6528c52eb9127a6f67213dab2765ceb696ee1a24b43bc0878e09dbb03f1ee3",
+      "source_line_ref": "Mark 3:18"
+    },
+    "3:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ecff242408fbd6b050d0a0714f9c3f93d69b89aaf13c7fe68558efe183ca78ca",
+      "source_line_ref": "Mark 3:19"
+    },
+    "3:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ad516de27d755d560ede6abe07d9e0a2c5400a3eb71f61dc23d624c2d152ae9a",
+      "source_line_ref": "Mark 3:20"
+    },
+    "3:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bfbc6b03ebe4c40eb052c2bd491377984ead56e6860a8a1c2151e69d42b974bc",
+      "source_line_ref": "Mark 3:21"
+    },
+    "3:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f5f97e983bf01ad4d5e317a868569588442df499b2b311787ea99c9ea6f5680a",
+      "source_line_ref": "Mark 3:22"
+    },
+    "3:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7f5404b8db858ddc8e6fd03bb773c0e62dfe20d5f6448123d74605471fd11505",
+      "source_line_ref": "Mark 3:23"
+    },
+    "3:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bb7217a7c78be707f76e8fc516e3977ec008c4437844c1c1d864737fc2098c16",
+      "source_line_ref": "Mark 3:24"
+    },
+    "3:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "220ea0d881e445c984c84b31b92d7873e6caa81bb17d333150f28520a1e29d05",
+      "source_line_ref": "Mark 3:25"
+    },
+    "3:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cc04432ff135875eb2291d67e11cec47b33e8521259874b55a3c4315594c542b",
+      "source_line_ref": "Mark 3:26"
+    },
+    "3:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c8100ec95c16869a09ec43e424941906579d245fd47eb49b700cd5b8c6b518d1",
+      "source_line_ref": "Mark 3:27"
+    },
+    "3:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f0bc667c50f1f4eed7572303b11ac7c794a9b28468babbec0d7e2529795a40a6",
+      "source_line_ref": "Mark 3:28"
+    },
+    "3:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "aaf63c0b67aac444d84dd3fa10d99d93ff284c1f671de239c540cad1fd5ef5a5",
+      "source_line_ref": "Mark 3:29"
+    },
+    "3:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2ed7a7aeab60837fe8df9d5380f1565a169122703f7f56aa84cf0476eee8520b",
+      "source_line_ref": "Mark 3:30"
+    },
+    "3:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9d47099d4556a74fd0292bf9d4571b94b389779ac61c4e558e3c101fb72cf554",
+      "source_line_ref": "Mark 3:31"
+    },
+    "3:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2aae9a6e2203afc5c3faea4df4457eb40ba11b5fe1275a5ddc2ca3ca1486a5d7",
+      "source_line_ref": "Mark 3:32"
+    },
+    "3:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bddb08a5f4bda69588dfb5d0885651c0d2684f35dd7ba570c64d2ef91cd0ab9f",
+      "source_line_ref": "Mark 3:33"
+    },
+    "3:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c484fcadcd2cdb98ac9c631aa3140d561e72be8b1ba0c2130465f906a3b4fc5c",
+      "source_line_ref": "Mark 3:34"
+    },
+    "3:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "92cf30e2d02df85584e252fa0ec4cd41e1158ad8c81666b7cd6269345a2a99bf",
+      "source_line_ref": "Mark 3:35"
+    },
+    "4:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "490fc6c5e35946ca7d128c7e2bfe25ed18bb6f6f98c6c6dee0694190f13e60df",
+      "source_line_ref": "Mark 4:1"
+    },
+    "4:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "eec7bdbff0a2c90191326b9a58b3d38f1fe1d7e8469463c63007a6bb33d4b01b",
+      "source_line_ref": "Mark 4:2"
+    },
+    "4:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "64bb9f814d670b6c6df387c4612623ec68439170d2a20b461ec3d728afab7b92",
+      "source_line_ref": "Mark 4:3"
+    },
+    "4:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7c094026f062553e2aadc338c051319f974031c1366635798107b020ff63c25b",
+      "source_line_ref": "Mark 4:4"
+    },
+    "4:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "11a7416dc60f1aaeed2903f5bb08aad7aa9d3e9d90a73b7f5c0c848b478c2784",
+      "source_line_ref": "Mark 4:5"
+    },
+    "4:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "640284d502a8537121c07d7e453671f948a392ebedb1d0f05d2b820bcb36202d",
+      "source_line_ref": "Mark 4:6"
+    },
+    "4:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "65ec10cbd0c044c6da56e87c008b79d9937f49b42542a7c0b016afc222b75ffb",
+      "source_line_ref": "Mark 4:7"
+    },
+    "4:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fa70214c0f454fb2474c64941ac057f2f2a586f3af8526a271ab87eac05bc7c9",
+      "source_line_ref": "Mark 4:8"
+    },
+    "4:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1465f2c56ac2a9912de2244200a0c12845bf9bb2017196ade3662a2142f2ff23",
+      "source_line_ref": "Mark 4:9"
+    },
+    "4:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cc988b2ddef66f4d23ab5072c23bdd6e538940cf3f9e82a0b45cb3d3a351eb56",
+      "source_line_ref": "Mark 4:10"
+    },
+    "4:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "711ac2b5cc40e6dff85cf7937124b5d5a532e094d9e616fb540048638c5a88fa",
+      "source_line_ref": "Mark 4:11"
+    },
+    "4:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9ae36b69051454aae5a0189eba67a1934b815be472b22ef2200b76f5c1fd69ee",
+      "source_line_ref": "Mark 4:12"
+    },
+    "4:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5901b6102d0b1edc7a73d2fe8256098f974952a2cee7f0bab86c2e3ebf906428",
+      "source_line_ref": "Mark 4:13"
+    },
+    "4:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "744b3aa1e2489639f1a08caef326636c81608723e6f10aa8d042a98debc843dc",
+      "source_line_ref": "Mark 4:14"
+    },
+    "4:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "65fbee203642c5083a98f06f63d3819a951cb96c53812ef5655f2b58cb67e474",
+      "source_line_ref": "Mark 4:15"
+    },
+    "4:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "73b8a0a2185d2dad431056250b9264341ff13a988bbde41b34738cb75b8f16c3",
+      "source_line_ref": "Mark 4:16"
+    },
+    "4:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8eb56b5528e1a715b44dc7e70029dd0bb52fdd48118c6a97e7d5d117f1207779",
+      "source_line_ref": "Mark 4:17"
+    },
+    "4:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a5424072a6906c3f75e7222cb745be5c7b66b8779491fb7bd315b9b7ef2f48ce",
+      "source_line_ref": "Mark 4:18"
+    },
+    "4:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3fa90a15d45fa125c8db72876b332b71538f63b620f441d9cfff362a8ccd0de6",
+      "source_line_ref": "Mark 4:19"
+    },
+    "4:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "356b0422c7046b5c24c9abc162d3b51307ea9533e8ad9a05721b238010e58222",
+      "source_line_ref": "Mark 4:20"
+    },
+    "4:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e97bc2aca805bc0d8589c837d1267506dad562f1f413e4b805862a1cfcea5ee3",
+      "source_line_ref": "Mark 4:21"
+    },
+    "4:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d9bbf3e34ff7eebf86689b199cfcfa12a2226db206afd1d57a3a9ee63d516dc2",
+      "source_line_ref": "Mark 4:22"
+    },
+    "4:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a7265f89946c2873a030b83ac9626408bef2b53ac293e0aebeca42fa0617c1b8",
+      "source_line_ref": "Mark 4:23"
+    },
+    "4:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ba5f0ad6e47de9bb502d8eca4f8a3f548a8484f5ee4b03806d7e13df711ff489",
+      "source_line_ref": "Mark 4:24"
+    },
+    "4:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2a11d2cb4b2f0e0e704901d43eb4d480af4ed428a0e9ff753691f65f45e14e81",
+      "source_line_ref": "Mark 4:25"
+    },
+    "4:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9a0477fbaacd4879e3465a2ccd916b9d9ed230ed44e4b0cdfd0db7e9235818b4",
+      "source_line_ref": "Mark 4:26"
+    },
+    "4:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cd4c80b4eb19a05a02d450b0784835fa7dbc73d19c3bdd6cc094f12c1626c765",
+      "source_line_ref": "Mark 4:27"
+    },
+    "4:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6219727540fe882bf0b1fc34fb1d2b8697a237a6f51fd78fd7a5059828938f9b",
+      "source_line_ref": "Mark 4:28"
+    },
+    "4:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3c0839e58768d3916402fec72917e8d253fb6b5cd0ec8e73787e81209857b6e0",
+      "source_line_ref": "Mark 4:29"
+    },
+    "4:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5e00596922e09fcab007c60c97451d6de0f1fe46b5ac903e342836b0fc887284",
+      "source_line_ref": "Mark 4:30"
+    },
+    "4:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "92f69269d16fb5d919a3cee58364bee6bd76915819d3d7089df1fa5d4bce1817",
+      "source_line_ref": "Mark 4:31"
+    },
+    "4:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b8e9aaf111615f865a07ca9170104e928b737c33886793ff6c851ff632af2974",
+      "source_line_ref": "Mark 4:32"
+    },
+    "4:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "aa6d63d272aedfe0a93b96c47d76c1eb442de0012985ea19205da254382fbcd4",
+      "source_line_ref": "Mark 4:33"
+    },
+    "4:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b05b213516b0a4dd95c0031e5d8618c7a55f22b22d0c3fc8f21cf408e6ce6542",
+      "source_line_ref": "Mark 4:34"
+    },
+    "4:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "433ee819b48d82cdfe8c41d78c005e245004c5045bf5fd8eb40465481168187c",
+      "source_line_ref": "Mark 4:35"
+    },
+    "4:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "17f99afacaf83a13a1b93e58112b90d1243e70a58b559df6be5438b7866aa636",
+      "source_line_ref": "Mark 4:36"
+    },
+    "4:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "59dd0607bc78e414763e21d66bd7eba70bc91e0d38afb1cdf83f9977c0ad1a30",
+      "source_line_ref": "Mark 4:37"
+    },
+    "4:38": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f201609ed8d0ad0a8719520938e83a259bb1a8e08cf35255b760a542f9396dce",
+      "source_line_ref": "Mark 4:38"
+    },
+    "4:39": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "17c7fc71ce0711f3253fcce97e8c6e596451478370a2ff8f65bcd22d9e2d2a92",
+      "source_line_ref": "Mark 4:39"
+    },
+    "4:40": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "af63de69c4033a9c0dc02515e01ac6a5ad175fa0306f249b30f8de08d29a50ba",
+      "source_line_ref": "Mark 4:40"
+    },
+    "4:41": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "386bbfe793a53e0f697342b2eee8373f7692cc89a71799f02efeeb1c20c5c46d",
+      "source_line_ref": "Mark 4:41"
+    },
+    "5:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e79e7cb8f34caf20628809c0e5b5185173dc98a21e4fcabde76d38da6da724b5",
+      "source_line_ref": "Mark 5:1"
+    },
+    "5:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f9227080928e1991aaa40bfa9f972571af94b1f662ccf3576690604c653791af",
+      "source_line_ref": "Mark 5:2"
+    },
+    "5:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "49d2594d80ebf9b57f5534fb0bf12b72b7a7649743f56e42a538c6e4b4af486e",
+      "source_line_ref": "Mark 5:3"
+    },
+    "5:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5bfcf9a25f3c872df9664e1df6df95d941d9b793687e478741c4d9850501aa1e",
+      "source_line_ref": "Mark 5:4"
+    },
+    "5:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c23676337bbd6628fa8ec0f87e45daa344bc41e7df30998706999688da1d7313",
+      "source_line_ref": "Mark 5:5"
+    },
+    "5:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e2035e5b0f1bf707ae163cf4bcbdbe9410d49e63384b7714a1265538897ab95a",
+      "source_line_ref": "Mark 5:6"
+    },
+    "5:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "13f6c70ec1c2e84c26276de803440ac8eaab9ea64e4e0b6da78381f65a21fa53",
+      "source_line_ref": "Mark 5:7"
+    },
+    "5:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f27b2d5bfa912b12abeccc41618859957dec4c598b7696463a64dfa888fa9b0d",
+      "source_line_ref": "Mark 5:8"
+    },
+    "5:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f8391114b134116da80a85ee6e279060bdd8a24d9fd7c977a95488cf334cc805",
+      "source_line_ref": "Mark 5:9"
+    },
+    "5:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e6d03544a19cf68abe767c49432a6af83142906b048efb0fcd6cbd2a7a757cb2",
+      "source_line_ref": "Mark 5:10"
+    },
+    "5:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d259b88ebc413731597caa300f302121496283683f96753bbc1dcc789b1112d9",
+      "source_line_ref": "Mark 5:11"
+    },
+    "5:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "021e2ff9cdfa02b78bad76876b40853a69ea68fa04a8b93c04b12e0fa61a4c51",
+      "source_line_ref": "Mark 5:12"
+    },
+    "5:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3b5c84c8bcfd4aba58f3b863c49f3bf3720f8be6f3b70a948b5aee5c230fac63",
+      "source_line_ref": "Mark 5:13"
+    },
+    "5:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b53d642706477207e98ba9313710ede8379e7c70eeccbdcb3358911716100fc8",
+      "source_line_ref": "Mark 5:14"
+    },
+    "5:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "120b1fb680575d7646207f017b4b0da1a93f07ea3ac898631de07d6ba320f877",
+      "source_line_ref": "Mark 5:15"
+    },
+    "5:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "76405c91aa7fab84a468b161e76102eb144728a00e0090f677931142e209edd7",
+      "source_line_ref": "Mark 5:16"
+    },
+    "5:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c9044a6423292398f329510960786f767bd1e0bf36fa0acdf91ee55e07f4ea0d",
+      "source_line_ref": "Mark 5:17"
+    },
+    "5:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "716e81659ee7d51509ff4d6c0a0005588bbaab1f1da9e9ea4bf72096261aab00",
+      "source_line_ref": "Mark 5:18"
+    },
+    "5:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b16e3b763defd5eecce05d10091d50cabd0dab8c87f4b4a256257458920eff64",
+      "source_line_ref": "Mark 5:19"
+    },
+    "5:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "48872edcf21ec739d1084c039df1efa269e5a407a6a55d1b4b76be7d06bc8694",
+      "source_line_ref": "Mark 5:20"
+    },
+    "5:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "23b32bd9674cad2f735d5d82925a701cfa468a23be86fca540b840b9ad325edc",
+      "source_line_ref": "Mark 5:21"
+    },
+    "5:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "511a55817665a4372b09c3c5b571b8630fbef27d5992174135ba7ba98bc1531a",
+      "source_line_ref": "Mark 5:22"
+    },
+    "5:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1840e0e39932facdad44269da6130a9cbc672370b18c9f6f90926543a1ab1b68",
+      "source_line_ref": "Mark 5:23"
+    },
+    "5:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3b0b4258a9f4f479bb655f9e845457e7a410a80e3d5ec3a5f65bc2a751e72b82",
+      "source_line_ref": "Mark 5:24"
+    },
+    "5:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "959a3ed8876bd8419df04ece98acb4806caa4ea8b33f83c2e6152ed8cdb64c5f",
+      "source_line_ref": "Mark 5:25"
+    },
+    "5:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b6ab72ad6ead673018bd5ae73c169a0bd76f160edc22390ebad1f9ba01fb78b9",
+      "source_line_ref": "Mark 5:26"
+    },
+    "5:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f0fb702d6f1bc11dfd541005c26253c9131e62e9d1f93e73603001d88b187c76",
+      "source_line_ref": "Mark 5:27"
+    },
+    "5:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3b53a5820ac5ada652707d0d2a21270545525b2e245ecc35f91f43df4861264b",
+      "source_line_ref": "Mark 5:28"
+    },
+    "5:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a05bd803e5c29f960832e196e6d19a14afdcf10eb5357ded0a4443fdeaa0c562",
+      "source_line_ref": "Mark 5:29"
+    },
+    "5:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "218d00410f4a445be4126c815aff7c26887fbafa59d1436aabe9a9a73e817ad4",
+      "source_line_ref": "Mark 5:30"
+    },
+    "5:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ef80b516161414a0c81a520fbdd142686475b2138f76385a0232dde447b1f8cc",
+      "source_line_ref": "Mark 5:31"
+    },
+    "5:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ecd413ab1e62c210c90e320cc8a49a10e9c0208f7b6eb61c74795c1b6c7b0705",
+      "source_line_ref": "Mark 5:32"
+    },
+    "5:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c66bdc5e9c233c0ee23bc5e66da37ca73d5081432270ff287ca9f851bf6cbe2a",
+      "source_line_ref": "Mark 5:33"
+    },
+    "5:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4e38e6b8eca3817342e0d127cdc8407580a32a74eaa988ebe5de78d98efa1927",
+      "source_line_ref": "Mark 5:34"
+    },
+    "5:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d605e2f02c04db120daccc61354ed75657a1cae8ed5a8aeffa5d6dc3044a4ddb",
+      "source_line_ref": "Mark 5:35"
+    },
+    "5:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "35e47cd06e0967b3277131e35bf65178f57fd0403dad38d1987791d959e95d78",
+      "source_line_ref": "Mark 5:36"
+    },
+    "5:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5b13aab46ff3c041d252226dad2dd4255609461b50b00b4f4ae7ff896ed6e202",
+      "source_line_ref": "Mark 5:37"
+    },
+    "5:38": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e833ce7a1b6faa93353a6cb4278d8f3afe3baada4fcb947640bfd507fc8c23b0",
+      "source_line_ref": "Mark 5:38"
+    },
+    "5:39": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "59e15b57e924d409de2d19acb0225d7b58aafbcedb7d77258d19581b622400cb",
+      "source_line_ref": "Mark 5:39"
+    },
+    "5:40": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "757613679e56ad5c136b80d38c4b1a8a357d8ce93b88cf7193ba2334a8e016af",
+      "source_line_ref": "Mark 5:40"
+    },
+    "5:41": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cdfafebe37fe483c9211ad8e53e3dcdc9d99d34353f95c75a782f45dec5dcea5",
+      "source_line_ref": "Mark 5:41"
+    },
+    "5:42": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4cfb62203ca18bdae064503285902f1d3539eb81bfa2dbe2af21a612568e09bb",
+      "source_line_ref": "Mark 5:42"
+    },
+    "5:43": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "273c3e2b1c45654ddb74b9b5677cc048e36de544e751aae7986a241f3ce00b30",
+      "source_line_ref": "Mark 5:43"
+    },
+    "6:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cc6afb58a56c631d8d166de3cf442aedaa8b161de9c1faa2913d3392ec1c1733",
+      "source_line_ref": "Mark 6:1"
+    },
+    "6:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "40fbef4c29775fc5ecae24d7f5e565adeb8e459d5e3ac7c33f2e17f1a8134aa6",
+      "source_line_ref": "Mark 6:2"
+    },
+    "6:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "78798358f306bb475dbaed14570a1586f824e7ce024db3aa264ac7e820301ed2",
+      "source_line_ref": "Mark 6:3"
+    },
+    "6:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "15a73750a4937a3b819e2ec9cb11879ac957253c59e0306c2b1e2c20d0c6af53",
+      "source_line_ref": "Mark 6:4"
+    },
+    "6:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "eac45f4a92c10a1b45dc81c7b7b51cd4269a6ef606df9fbd3f76dc8b0585430f",
+      "source_line_ref": "Mark 6:5"
+    },
+    "6:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "73275ade8b613f4629a7336b00a7f071bbcb5fe04ff7ca784aa480d22a3deeca",
+      "source_line_ref": "Mark 6:6"
+    },
+    "6:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "795d19ca509655b8a29d10ed7317f727671770ec5e011a6d5b7efc666dec2f45",
+      "source_line_ref": "Mark 6:7"
+    },
+    "6:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "27bff5965d5eefe9bb10a5405161fe319f682796c8e644e98774412287bab0ef",
+      "source_line_ref": "Mark 6:8"
+    },
+    "6:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "21c1a261d99dc5a5df5e9bb64f44bf36913fda963151fc3b550bf0eeab9a5919",
+      "source_line_ref": "Mark 6:9"
+    },
+    "6:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5eafbf3a334bdfaa7f05066b0cd48cf24040cb6b1f9527e1b7820713b304d8c1",
+      "source_line_ref": "Mark 6:10"
+    },
+    "6:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ea5547daa53d3ef678484cedcce4276e0311d28e8261a044c924519b2674e04c",
+      "source_line_ref": "Mark 6:11"
+    },
+    "6:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "241b66c7c3697edbf48b39a74d032528215891c655507ab466e95927abe22003",
+      "source_line_ref": "Mark 6:12"
+    },
+    "6:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1b46bd364046dc44dc81afda003566673034ca883d0ab7440e07bc0b9ad17c89",
+      "source_line_ref": "Mark 6:13"
+    },
+    "6:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "58e1912ed6d31588549e7bb1aa03e44f6a6d79bad1e3d4d72f2c15ad836becf8",
+      "source_line_ref": "Mark 6:14"
+    },
+    "6:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b626636a8816789a491318407052c5e45f718d9855a8d63d07c6cb54792905bc",
+      "source_line_ref": "Mark 6:15"
+    },
+    "6:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ca7c1fec245c930b8afc6b935da96bb4d4dcf588c0d7c68f267ae022adc92b84",
+      "source_line_ref": "Mark 6:16"
+    },
+    "6:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "26f689bc35eb8677514fe9ed0f6538afc0aba0eb3c5587d0d0c40bac14b941c5",
+      "source_line_ref": "Mark 6:17"
+    },
+    "6:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8cdcea2ef4861c4e9f4aa13617ad0f5c0f3d02252cc97209356a19cbd3f1bc90",
+      "source_line_ref": "Mark 6:18"
+    },
+    "6:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ad0628e832007ee3c806e8f3a8010abb805129e2889b0f8bd5ea2d70457f7b88",
+      "source_line_ref": "Mark 6:19"
+    },
+    "6:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "59ad5189ea82584109a569452e08d0d22890bf633c1965c1f4ad1920332f6df1",
+      "source_line_ref": "Mark 6:20"
+    },
+    "6:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "eac29d0ce9b123b5be91792352bc6dd777612dcd1372f25a1d06ff83f7dcb2cf",
+      "source_line_ref": "Mark 6:21"
+    },
+    "6:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e07eb5c9da5ea9db09e432b2d7bb5fd4f38a0712cc7d95d8e8666dd52b5fcabb",
+      "source_line_ref": "Mark 6:22"
+    },
+    "6:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "47c834e7a8ab556f0e9a1992fbade79bc01f67365c1735e9cedf00e742cd678b",
+      "source_line_ref": "Mark 6:23"
+    },
+    "6:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "363ae217f1d802a3e735ee0af5f087d78d43d00b7cf807e00d33df37643416ec",
+      "source_line_ref": "Mark 6:24"
+    },
+    "6:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8132791fab32a1168761eaf39952e8fd8e46be1b5cdd34b0711dd576820d7a23",
+      "source_line_ref": "Mark 6:25"
+    },
+    "6:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0711b45f97b20f8f8f4deb5ae56acd07786a33970b192e69db8d9ab203c07554",
+      "source_line_ref": "Mark 6:26"
+    },
+    "6:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cc42e09bd7ab64fe2324fe68917067a3525ecbbd3a4e98e9778f6b2288ea8a9e",
+      "source_line_ref": "Mark 6:27"
+    },
+    "6:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ae213bc02f9fe6755ed1ce88657a8c41228f8e1e5835501e441584ce8a8a5f4f",
+      "source_line_ref": "Mark 6:28"
+    },
+    "6:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9ef29316c08f86296b13637f08310d8e9cfae1850b77b84eba9f50dfe633c189",
+      "source_line_ref": "Mark 6:29"
+    },
+    "6:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "451a6213108a52193b0e906743857aa9708df3d6d1fa1d00ffd07ecb4b69ee3a",
+      "source_line_ref": "Mark 6:30"
+    },
+    "6:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "49e57742470be9a47652f4baa2e9c24bf309ef17525ee46023372b71934772b4",
+      "source_line_ref": "Mark 6:31"
+    },
+    "6:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fc10a3bb0fb9ec57033058ad2ae184ea4aef53f5489a7cb7880103df270e6698",
+      "source_line_ref": "Mark 6:32"
+    },
+    "6:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "45c5bee680027d3fcc344c919637bfac9ec11837959665eb295d457a50a08e5e",
+      "source_line_ref": "Mark 6:33"
+    },
+    "6:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a7c79430ac00e6944b813bf77c841bdb4d8a4bc27bf232c814a06ce6257633b3",
+      "source_line_ref": "Mark 6:34"
+    },
+    "6:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "597adf9ed1943834ce95565ee7e5e2600927cd3779a09d50f2528239f3a6fad2",
+      "source_line_ref": "Mark 6:35"
+    },
+    "6:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "dc11a7b0f45cc7fcef2626da70a2827423d83c3b9bd3d26bd6ffaa61f686682e",
+      "source_line_ref": "Mark 6:36"
+    },
+    "6:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a17b1f4b07541bea621f66a6e31cb1d403c27e414c3d402cf28e16581b62b9d4",
+      "source_line_ref": "Mark 6:37"
+    },
+    "6:38": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f403c884b844c4bba8bf05dd2531d0fc34abc080320e6f127c0b4409e9bcce01",
+      "source_line_ref": "Mark 6:38"
+    },
+    "6:39": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0f73f47aea794747826c93e87af2368e14cb529fa991e0363a116f1dc29d5a83",
+      "source_line_ref": "Mark 6:39"
+    },
+    "6:40": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "51cad68ff8aff717624e55497ebf752ba5a21a4f0b4399cefee231ef76c5453b",
+      "source_line_ref": "Mark 6:40"
+    },
+    "6:41": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4022de4d344a3713d8bc56c5d45c6fb973fae2254972433a10c04537572a4ec8",
+      "source_line_ref": "Mark 6:41"
+    },
+    "6:42": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1937b1741e1a0dbcc0fafc8b3e92198a80e661dd60ce20d8f0cd086464f260a5",
+      "source_line_ref": "Mark 6:42"
+    },
+    "6:43": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "73d95d80d80dfabda6546aee8549335881d482468040a75f7a764ec29bd73301",
+      "source_line_ref": "Mark 6:43"
+    },
+    "6:44": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "372427f10152c0d060864271529d476cce45dbc63d2dcbacfca69dd30960708b",
+      "source_line_ref": "Mark 6:44"
+    },
+    "6:45": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "64644cefe67312baee0ff11a89a30fdcdee4d533a547dfd25259fd8774d2e1b2",
+      "source_line_ref": "Mark 6:45"
+    },
+    "6:46": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5848a839107b0970b7b0cd059e6ab6e464e933df49947b69f4496880ef473a8c",
+      "source_line_ref": "Mark 6:46"
+    },
+    "6:47": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b8490dfa98ebc6c2560d247152f9aace4351442c5d9c4bd8888d58af9b79287a",
+      "source_line_ref": "Mark 6:47"
+    },
+    "6:48": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "94a62d5e97c5b94c0a9dd000f2f2cc8517fa7106cf1f0eec93d19513653876d3",
+      "source_line_ref": "Mark 6:48"
+    },
+    "6:49": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "503a5ebed01dfea5be9ef39e4fc9f4b870437afcf7c556330aff9133c29b56c7",
+      "source_line_ref": "Mark 6:49"
+    },
+    "6:50": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6c4c665330328f4b3a731b2930917fcb86703ad48e4b7b77abd58aca9ed46dd7",
+      "source_line_ref": "Mark 6:50"
+    },
+    "6:51": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f26359cb68da79b04cde2779c9fe84fb5c32f636a448c9f4b9856ad0ccf00fa4",
+      "source_line_ref": "Mark 6:51"
+    },
+    "6:52": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d127b62bc8999ca6a133e8f5e7112ac4377a632a74f03b0e175ad44663c85f3a",
+      "source_line_ref": "Mark 6:52"
+    },
+    "6:53": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0e3e3a9b9e4e0b66761662ae86aa87526f6892c7f9ba05bfadba9a9e447cfa28",
+      "source_line_ref": "Mark 6:53"
+    },
+    "6:54": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6ffe571ddbe0f6f08becf564525be4ecd54ab9ef32a43a1164e2c661fd34bb97",
+      "source_line_ref": "Mark 6:54"
+    },
+    "6:55": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "49ced8dfdd9fd526fce8ace3632c7e7031d567378fe210628c8d64096cb18f62",
+      "source_line_ref": "Mark 6:55"
+    },
+    "6:56": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0e103a3aa813781c8e1d0223a1dc578ff4275fd3574bf3828b7121c2d6d031a3",
+      "source_line_ref": "Mark 6:56"
+    },
+    "7:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4d5dc5f1b059a34d6b00b75b53152e56f8e6617c459f9c3415478b4d8059fa61",
+      "source_line_ref": "Mark 7:1"
+    },
+    "7:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3c589dc58213ed148d44713c9b6fd6b258c34d318055c58fc986c4b1ae118d67",
+      "source_line_ref": "Mark 7:2"
+    },
+    "7:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2742fd8c98026f8717df8e3b871536adca60a4eecd69c85b371d83f23a6fdc81",
+      "source_line_ref": "Mark 7:3"
+    },
+    "7:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "339822661991e678d11452317a2b4758260ebad09a65b2b058100438e9b2743e",
+      "source_line_ref": "Mark 7:4"
+    },
+    "7:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2f54af9953b3282e5bf47fc99d3de5809186d4f1102fd610454e6ce988c3f135",
+      "source_line_ref": "Mark 7:5"
+    },
+    "7:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "19b343d3f6ab10adc4473086391dad2b20d701066e857ccac06818fc15b4efbf",
+      "source_line_ref": "Mark 7:6"
+    },
+    "7:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "35de73c00ce179792eddfa64fe15fd7343ca2cd4407e9af5d22fa73fdcdea561",
+      "source_line_ref": "Mark 7:7"
+    },
+    "7:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "11ee57fcfe4838e6d3dddb42cde683409120d778bc7e21cd7abb7214201237df",
+      "source_line_ref": "Mark 7:8"
+    },
+    "7:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7b235072f9e0e0cdc05c705aede2da3785df7adef955bb5cd8edb9b4f2f3ab83",
+      "source_line_ref": "Mark 7:9"
+    },
+    "7:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "47d0dbbf440ccbe3d0281e360f021591469afa60ef2be2f2c2463d9942931598",
+      "source_line_ref": "Mark 7:10"
+    },
+    "7:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f4b2b880aa9e64bb1b09df912743f41242588e393cdcea77359dcdbe2ac48d98",
+      "source_line_ref": "Mark 7:11"
+    },
+    "7:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4ff87c1b9bab0846d8328f889e53aa11dce5d38f672f23158bd0a34196662a91",
+      "source_line_ref": "Mark 7:12"
+    },
+    "7:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0be154cee8ea21fe4c811aaf383cea99c0a25d5afeef0ff75d2f6b57c4f22db7",
+      "source_line_ref": "Mark 7:13"
+    },
+    "7:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e52020803656c31a5a0ea20a1adebb3ee79407a6e5c6db88ce6657a249c241d1",
+      "source_line_ref": "Mark 7:14"
+    },
+    "7:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "36d02c5dc94bb728cad6bc4f5115b4d30df921784d0f85c0fe39bb09fdd44c0d",
+      "source_line_ref": "Mark 7:15"
+    },
+    "7:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b297ab1df50bc307f620541ed87acb335d65fab8d0f3e7612448846564e85b19",
+      "source_line_ref": "Mark 7:17"
+    },
+    "7:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cad4404ed50f078dd9e779451083c6e879748c0c5ca624f81c40873019ac3808",
+      "source_line_ref": "Mark 7:18"
+    },
+    "7:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d1bdbf7955fdd1d5df5839d67b3100b91e390cd9cfda5efac30f70ae68b8b24b",
+      "source_line_ref": "Mark 7:19"
+    },
+    "7:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "21fb52a6f6272b3fe74e3a1ea47d611525bd67e43796ad387d54c3a443d1239a",
+      "source_line_ref": "Mark 7:20"
+    },
+    "7:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8dbadae8543e8e53ec1f21f20a7532084553ecd9b83c22075499b22a488c6124",
+      "source_line_ref": "Mark 7:21"
+    },
+    "7:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "302bf011b097d02fb48c8a4fe8c76b107c3d10408de686671ecf547b2f5cd5fb",
+      "source_line_ref": "Mark 7:22"
+    },
+    "7:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fc34ddda61d33e7395ccb194d1a19b4137a8852e49b852351f8f0907b5ce7407",
+      "source_line_ref": "Mark 7:23"
+    },
+    "7:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d2e64cc8918cb1869e60d36047ea4afd22b865b239efc6fa89183bda2c5cd4ed",
+      "source_line_ref": "Mark 7:24"
+    },
+    "7:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "50a345240d6283e341d6f800542846d78c5c7b321c8bfabdd5b89d962aaa0766",
+      "source_line_ref": "Mark 7:25"
+    },
+    "7:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9104964b4eef6001b09583a73410ede8b3ec612b5a63e5b38997b74be487ec43",
+      "source_line_ref": "Mark 7:26"
+    },
+    "7:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "eba8406a594eb42e35ca21fd45195b56ed1a05a0bc4174c1fae804a28dc9cd0c",
+      "source_line_ref": "Mark 7:27"
+    },
+    "7:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "07f64ace22ca2d8e0015e127233011ea47cfb8a45c6ddcc792d1daa2f01dce6d",
+      "source_line_ref": "Mark 7:28"
+    },
+    "7:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "70c8f5361f8b5bacaebb5b54be4ec4f801972198304e9d660c80458cbc57310d",
+      "source_line_ref": "Mark 7:29"
+    },
+    "7:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "592f7bdca52d95edda2d68970be68215c30178fe6f773a37c068fc24eb1519a2",
+      "source_line_ref": "Mark 7:30"
+    },
+    "7:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "16bbd7f711cee167021959ff858c728195c9c857b59fe98a5a6204e9b1593751",
+      "source_line_ref": "Mark 7:31"
+    },
+    "7:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1e240734ad16d0d5850034ab07c533cf8f9a02886ff1336e27c4e67ae83da4cd",
+      "source_line_ref": "Mark 7:32"
+    },
+    "7:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ecd93ea87f4bd36dd632fe9d9b6c5e2387e3b624167abac85790cbe53d495c87",
+      "source_line_ref": "Mark 7:33"
+    },
+    "7:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "584da9a209df5699f7440efdeb4b7c95f4b5518aff1c14b810d9410d1bae1ca8",
+      "source_line_ref": "Mark 7:34"
+    },
+    "7:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "15ee9cf530258f758a8034e30f4dc646e053c0effdec4251217a5e2053a24717",
+      "source_line_ref": "Mark 7:35"
+    },
+    "7:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "79f183b238b03be9cb129d724bbc0ddacba46229b9d4915b265ba1bda8886f5d",
+      "source_line_ref": "Mark 7:36"
+    },
+    "7:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0b6923337dc2d718852f90a3e580b026094aeae07fe7abcc86853938da94377f",
+      "source_line_ref": "Mark 7:37"
+    },
+    "7:16": {
+      "status": "ABSENT_FROM_PINNED_SBLGNT",
+      "source_sha256": null,
+      "source_line_ref": null
+    },
+    "8:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "39dc92e46e0e8f0ff6068fbb2bfbd40e255cabe125efd50b7ddc85a0835fe5da",
+      "source_line_ref": "Mark 8:1"
+    },
+    "8:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2cc5dc2ff935e050ed77c3136bb9e278046fddebf30a13765d9eba3c8855073e",
+      "source_line_ref": "Mark 8:2"
+    },
+    "8:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a7ae864577ca7cff3e61228efd1115c660fb4b33be6f2aa6ce7d561e7d7071c5",
+      "source_line_ref": "Mark 8:3"
+    },
+    "8:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b1c0f2fe86986c82d49bbdc615efe47e0018fbbb51884d9b69cbcba1fdaa65fa",
+      "source_line_ref": "Mark 8:4"
+    },
+    "8:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cfab2031dc3905e570335556ee5086229f38609920ed817a96d12b45ed55e2a7",
+      "source_line_ref": "Mark 8:5"
+    },
+    "8:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4d91582744d875d69efb9e905f1cb6565066bcf8cf63b35489355ef42a8f4f88",
+      "source_line_ref": "Mark 8:6"
+    },
+    "8:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8954909ceea99deb60a9b153d6a102932fc61e69d499d89df5b88b2796f149c5",
+      "source_line_ref": "Mark 8:7"
+    },
+    "8:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5674073e4716550d1303284042d68f521301f956cdea22cae8dac742fab2e84e",
+      "source_line_ref": "Mark 8:8"
+    },
+    "8:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "dc6ebaafba00d98663b96b43b07169296a77bec777439dd41fa9f5b0895d8485",
+      "source_line_ref": "Mark 8:9"
+    },
+    "8:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "42402a36a8bc35fd25f03179fa427ab599fafc4fa60d5ca137f9894219b4d347",
+      "source_line_ref": "Mark 8:10"
+    },
+    "8:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b7545ad6cc342f0d9d8799679be31cd2879c0f4f97c617fb444def306484e074",
+      "source_line_ref": "Mark 8:11"
+    },
+    "8:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "433a43364a4f17c439b3a9b2430f8235f1e2349d6cf963de2b396d9853ab4f0e",
+      "source_line_ref": "Mark 8:12"
+    },
+    "8:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "37f64a43d6da2cdb4329fc8f60e22f50b64ff26661c50b54faa5c78960ea302e",
+      "source_line_ref": "Mark 8:13"
+    },
+    "8:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ad7de6410a09fb02580ea65b9c8814d034e9e066de9c18c8289da98e70b443b9",
+      "source_line_ref": "Mark 8:14"
+    },
+    "8:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a6af667d590d1aca72fd9ce4075ffd5c5af16123da95e1eaec3a488c936975a1",
+      "source_line_ref": "Mark 8:15"
+    },
+    "8:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b7ab930dbf105492cd2eab5f1af092dc13afaf8bff8fa304ee6a176da931b5a5",
+      "source_line_ref": "Mark 8:16"
+    },
+    "8:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "14326ae9a6ebc5c82337f4b44ff485bf9adcc96fa88c741ee262d1e4cbd7348d",
+      "source_line_ref": "Mark 8:17"
+    },
+    "8:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5d9bf3bf0d5f7454905873b0195cafe3bc61d1def53340088083105ca483959d",
+      "source_line_ref": "Mark 8:18"
+    },
+    "8:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "74cd96de6b332c66f6582d7d567b9421b6cff6e4fe8b6204853b08ac4f72add1",
+      "source_line_ref": "Mark 8:19"
+    },
+    "8:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a09c212eb6737c8b98e17eecbadfceef6ddde43c3463874b053e629dc2f842d4",
+      "source_line_ref": "Mark 8:20"
+    },
+    "8:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ff88723e0932066b9f4d578b9f13afd553ef9610e641453e98e5ad17131615c3",
+      "source_line_ref": "Mark 8:21"
+    },
+    "8:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fbd932688ca839b25cc38a03793b4f847125e83e1ea2d885a418e1527dd60663",
+      "source_line_ref": "Mark 8:22"
+    },
+    "8:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "dae456bccada07d7b05eb25b8e04ce0eba729e8319ae2cb5a65eb9a0c83e265e",
+      "source_line_ref": "Mark 8:23"
+    },
+    "8:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4c099565b5b593683409ab224b7606a59a378d56385178931f8093d266a6baf8",
+      "source_line_ref": "Mark 8:24"
+    },
+    "8:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5d3ac9fdf627c9998530b9277f7f44fbc1aefc5a3fd166e602be54f64f009a05",
+      "source_line_ref": "Mark 8:25"
+    },
+    "8:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "76f6d67da53f4a238ffd2aeba5374949e9fae573f52f3b28518f1368dfb912c9",
+      "source_line_ref": "Mark 8:26"
+    },
+    "8:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2e257940d8856d7e9cf48bbc8cc53c3b50a599f1e5ed83d3f311093080e2320a",
+      "source_line_ref": "Mark 8:27"
+    },
+    "8:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cc02c243eae9d5452cb32f5deabed0307be16b911779b7930e51f1d946b624ec",
+      "source_line_ref": "Mark 8:28"
+    },
+    "8:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "79195f53bd8420af36a1fba19aec1a1488c00aa77d61094b96be396a6d709e51",
+      "source_line_ref": "Mark 8:29"
+    },
+    "8:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c3aaf2485396be5f78c70bbb6897d09e5b4ed36b29d70f15a44623d2d2bb63f7",
+      "source_line_ref": "Mark 8:30"
+    },
+    "8:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0515977fadd2fde77515a0ef6676ff758d3c8fd32fb6f2f13306c36802a891c6",
+      "source_line_ref": "Mark 8:31"
+    },
+    "8:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cc7f68787a7da22291a7d0684e1ac98c337ac886366d488d5b873169ef198bb3",
+      "source_line_ref": "Mark 8:32"
+    },
+    "8:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7d95d86a63969b4322fc297ca7ba589e39d51701a1b0d0a2d449623939272310",
+      "source_line_ref": "Mark 8:33"
+    },
+    "8:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "71491c51bbd456a921392fdb50c26e67b0ac8bde0130cea390d651a8ebb7c8a3",
+      "source_line_ref": "Mark 8:34"
+    },
+    "8:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "737fc09f1055278b14482ac91569b424104bbcacc2f4156ef2cd86647c544f7b",
+      "source_line_ref": "Mark 8:35"
+    },
+    "8:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e1fae3deea79eda1c1d67cf1a7fba5c2c1f3553a479c3722a72df91cd2b8eabb",
+      "source_line_ref": "Mark 8:36"
+    },
+    "8:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4100ac0214753e29750a69330b198691febe965c3badacd276634d8194180f06",
+      "source_line_ref": "Mark 8:37"
+    },
+    "8:38": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "053c01474dcaad110ef15b52b2a4fd5881fca53aead9838f893e663bbdcdee7f",
+      "source_line_ref": "Mark 8:38"
+    },
+    "9:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8c444e063d65d1a51d659de27fbd61cf53d1a12b6d6eb7cdb935acffb8ae3c15",
+      "source_line_ref": "Mark 9:1"
+    },
+    "9:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6780c27b12fca86a2917d55d6eaf42c53d0b63f526cacd37ffc7d80b4373908d",
+      "source_line_ref": "Mark 9:2"
+    },
+    "9:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0b61c2ab0bf97e9305092e000b302a0329cad449488902efac3414036baf968e",
+      "source_line_ref": "Mark 9:3"
+    },
+    "9:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8f2ccedf4aef318b07881005942f8b3759f3f5e1710cf49fd44e7291a29392f3",
+      "source_line_ref": "Mark 9:4"
+    },
+    "9:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a42e69ebac5033dc226842d7012c9e4efbdaab572718ecd1a3bc36d2e92fa4a2",
+      "source_line_ref": "Mark 9:5"
+    },
+    "9:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6659d6ab8837b367b2427df63bea831abd6e53e436c4c0f3420d637e20552a92",
+      "source_line_ref": "Mark 9:6"
+    },
+    "9:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d41216ed3ee32cfb36326b23a762c738f09075089bd12521cb9c706f2a5873c7",
+      "source_line_ref": "Mark 9:7"
+    },
+    "9:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7d4321a277bbc7442cfa1fe5f1fc251bf87fbad3c9c6341f31fdbe73bae3f931",
+      "source_line_ref": "Mark 9:8"
+    },
+    "9:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8e1f09ff104b9c895d43c9b6d7e9cf013669fb99ab3ad9c9d7c112cd59db4ca7",
+      "source_line_ref": "Mark 9:9"
+    },
+    "9:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9cae9ace238f89b1856d29bef3fbdf6f46397667ee5f0de0100bd1bd5c76144e",
+      "source_line_ref": "Mark 9:10"
+    },
+    "9:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d8d975cba3a5831952f9f946a12be67d0a851af8a07244cba9b0b3b5fcda7b28",
+      "source_line_ref": "Mark 9:11"
+    },
+    "9:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9d43f673e7880bd61c000955e1dd7f36b20610e9fc4ae99312ba2398d862eece",
+      "source_line_ref": "Mark 9:12"
+    },
+    "9:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "09fb2c1cc1969c1145a1c43683f538214e781d6dd10510dd4e49c5bf8863c992",
+      "source_line_ref": "Mark 9:13"
+    },
+    "9:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8daf7a95d59f50b4d48d2787305a762a09a67ebbbe1547cd3406b7d29ea8103e",
+      "source_line_ref": "Mark 9:14"
+    },
+    "9:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4fee28770e96ab4835e6087957e9558d0d256a9a5eaa6a62aa9720efced33aa4",
+      "source_line_ref": "Mark 9:15"
+    },
+    "9:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "966a1de6d8a3649f0f137c3f553f755a7284a458edc13d5bbac54855929fa28a",
+      "source_line_ref": "Mark 9:16"
+    },
+    "9:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cad9c3aa6a951a1b9d89e269865174bbb5cf99e49dfe11df7ec99d1219f6c9bb",
+      "source_line_ref": "Mark 9:17"
+    },
+    "9:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e46a025384b90ebe80556e84dff6c7a5fa861e2a5a4c0de0b1d4e45be9aefe82",
+      "source_line_ref": "Mark 9:18"
+    },
+    "9:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ccf772f48e47b8d874ae2e3693b4cb527062a5396607a44ea3c02d4e8ae5125a",
+      "source_line_ref": "Mark 9:19"
+    },
+    "9:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d59b5c46bcaa41ca3cfac1e4bd8f868d4c0eee43b3e1a7e9dbe03cfe6c0859bb",
+      "source_line_ref": "Mark 9:20"
+    },
+    "9:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f03da3252042f615ea43dfcffa58c215fd6f5eef26c26f5c2112ad9c8b2e6323",
+      "source_line_ref": "Mark 9:21"
+    },
+    "9:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5de88ed086e9125dcbb61084124c14d0d7e95b56d554d21b912b37c3621d2c37",
+      "source_line_ref": "Mark 9:22"
+    },
+    "9:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8baf983cc3bbae51517308033ac1ad62d44be85ed3bd2def06ffe5377c1b638b",
+      "source_line_ref": "Mark 9:23"
+    },
+    "9:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cc194bf91cbe150fb4bade089c6565166d241c7271d19baeb316e5b28082625e",
+      "source_line_ref": "Mark 9:24"
+    },
+    "9:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fc271d85b531977ec474d77dcef145c4d9774f380b19c802ad0a0d00a14335b5",
+      "source_line_ref": "Mark 9:25"
+    },
+    "9:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "babdbacff2eb89969c11f73eef79ca765663c0611c13dbd2c7dd7ba6a03ed53f",
+      "source_line_ref": "Mark 9:26"
+    },
+    "9:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "12c4e6504950465d35d866427b0364955677846254a90780940adffed4cb6271",
+      "source_line_ref": "Mark 9:27"
+    },
+    "9:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "83242c3b102fe66105c4110e63107f5ee3f6d983a63cb8e5e4c1e5f67b801e86",
+      "source_line_ref": "Mark 9:28"
+    },
+    "9:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ba66cf3365547d5327cc7aa8fe0f1cc4e78d3899796e9b3e96d15dcd4429b837",
+      "source_line_ref": "Mark 9:29"
+    },
+    "9:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5833994c9c3d3571193c7edc6e1a92884239fa342a3e3d85590d5b3c4de38724",
+      "source_line_ref": "Mark 9:30"
+    },
+    "9:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "639b0e8d72b35bb43448969fa1010ac732a2dad72c26139cd229e2fd4e2c93d5",
+      "source_line_ref": "Mark 9:31"
+    },
+    "9:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "81e889a3652fa83dcf25474bd81819bdcd1d3abbe99abeb2ad3e6f438c614e48",
+      "source_line_ref": "Mark 9:32"
+    },
+    "9:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5576538d5af49a0d80d1e75fedeaf41b872c5cf0485421df73ed95f1e14f80aa",
+      "source_line_ref": "Mark 9:33"
+    },
+    "9:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "97e5b636b1028df69938b654763d05a90c7fd333315f5b9c658582e5eec2fb50",
+      "source_line_ref": "Mark 9:34"
+    },
+    "9:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "db634fc4dfff9df4f7c1c0fe58555cda62962f70e9b88207ead49012e17e174a",
+      "source_line_ref": "Mark 9:35"
+    },
+    "9:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "829a2cf46437fb0cb90000e5b73489a57ec44f11411bc7ab2c18af2fd5c5bdd5",
+      "source_line_ref": "Mark 9:36"
+    },
+    "9:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "154088a6679d2f3868bf1dea9056489ba61d1d6d659fcd380a1f2d320a129737",
+      "source_line_ref": "Mark 9:37"
+    },
+    "9:38": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fe3740590019a73006cad12d766eedbfd3540c166f817cd51ce297f393dcc757",
+      "source_line_ref": "Mark 9:38"
+    },
+    "9:39": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "754bb5823083b650da6e449471f97987f52c2ed0aad24cd8082868cb3b3a0b54",
+      "source_line_ref": "Mark 9:39"
+    },
+    "9:40": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d7abf2842e81f4db8446045d550cd0e6da71211fc213d4c42746e93d9ce6e91e",
+      "source_line_ref": "Mark 9:40"
+    },
+    "9:41": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8b5690cd8148775a3192bc5ef73c94c47b86dc530b708f7872a351badb86e3fc",
+      "source_line_ref": "Mark 9:41"
+    },
+    "9:42": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e827d658526977ccbf236b2118432eb6d71ef6f955f95eb7e9e33fd02f5c904f",
+      "source_line_ref": "Mark 9:42"
+    },
+    "9:43": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "045623da666f60cad33f9ef60c8738b89a21e7e6c1c7febe5863dc3711932727",
+      "source_line_ref": "Mark 9:43"
+    },
+    "9:45": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "937b7c097bef840285f228d80913def843dc49585cbebdd901952e718aece6e9",
+      "source_line_ref": "Mark 9:45"
+    },
+    "9:47": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "21fb7d4fba92186fa8ab805033ef5cbb3da0aa9d931f4ee1ec34830a71ef9e1a",
+      "source_line_ref": "Mark 9:47"
+    },
+    "9:48": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "566d415dcfd2add55d11049cc66bd01c01aa4f114ad4a67e118719ad1350395e",
+      "source_line_ref": "Mark 9:48"
+    },
+    "9:49": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "16fb10cf693bdaef9eaa97a3ca1a44cb14a8bd03bca63f2de8591234a55bfc58",
+      "source_line_ref": "Mark 9:49"
+    },
+    "9:50": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9df4cff8ee98c9468c55ee76b029394ffcc947c95f93c7e72e4bce4cfc933cf6",
+      "source_line_ref": "Mark 9:50"
+    },
+    "9:44": {
+      "status": "ABSENT_FROM_PINNED_SBLGNT",
+      "source_sha256": null,
+      "source_line_ref": null
+    },
+    "9:46": {
+      "status": "ABSENT_FROM_PINNED_SBLGNT",
+      "source_sha256": null,
+      "source_line_ref": null
+    },
+    "10:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "14dc9dfb2c55932f3505fec42fe06e5354f204260315932660791d5a3392d582",
+      "source_line_ref": "Mark 10:1"
+    },
+    "10:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "36a33f16fea03ef57c0b9df52eff6636ef7b9ca5ae9662b59a692c80aa2e39e1",
+      "source_line_ref": "Mark 10:2"
+    },
+    "10:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1108e8bf58b77ecebe1435729672f2b93b3c0fb386a8b0859495e34bd5dc9b4a",
+      "source_line_ref": "Mark 10:3"
+    },
+    "10:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2ed7c14144234dab49b757ba7e0131f77e52d025fb305885b25714d178fa4927",
+      "source_line_ref": "Mark 10:4"
+    },
+    "10:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0016741fc18d6ff20b8dda50529f542f910ed2e8ede2cc99dae6488e40811f79",
+      "source_line_ref": "Mark 10:5"
+    },
+    "10:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "824874aab9f2b8415d8b6d989be864906aa455ac46582b3501a0320bc0deca1a",
+      "source_line_ref": "Mark 10:6"
+    },
+    "10:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "251371398657d1f35ab10764e153bc14ccf3f213a131bdb2464e05a1deb6543e",
+      "source_line_ref": "Mark 10:7"
+    },
+    "10:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "25fc30dcabe160160d65a1fc5b5754c3e68689f1eebbc2dec5eb22d9fad75339",
+      "source_line_ref": "Mark 10:8"
+    },
+    "10:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "80140b9344476ac27f4fbe69e6dbd5a325161461cd0b79e8598d1c83dc0ef6df",
+      "source_line_ref": "Mark 10:9"
+    },
+    "10:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "344611f623b0aceb5c9d2092b30644475f172765dba1217d9b6133986c5ae7bb",
+      "source_line_ref": "Mark 10:10"
+    },
+    "10:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "be7cae6e05b5140a1d6a143a27eeb693dea4f46bc6aebad80b2cbadcb1b89876",
+      "source_line_ref": "Mark 10:11"
+    },
+    "10:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "23726c43e1c91882e47117e3ce2351c02e4a64ee781b608eee09491db27a0a45",
+      "source_line_ref": "Mark 10:12"
+    },
+    "10:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1965cc7ab4050f9378f561b449909d9c171deb3ce5fb1a97fbedb495e534fc0d",
+      "source_line_ref": "Mark 10:13"
+    },
+    "10:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "24639f409cc412efaadc9d0db99580c948e1d21dafc1ee579ba3597a8343c1c8",
+      "source_line_ref": "Mark 10:14"
+    },
+    "10:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "23bb49a7c26274ea666ec36aa1c9ee45dc04a42a6721f1f8089c6f594a042f58",
+      "source_line_ref": "Mark 10:15"
+    },
+    "10:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b76d028ce6093ef2b49361ab96f9af871698f96ab7053a6512fd53e84de6920e",
+      "source_line_ref": "Mark 10:16"
+    },
+    "10:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c87f0d0753ec9addbf50c97c4e43291dca40248aa5211286fb7e771456449a17",
+      "source_line_ref": "Mark 10:17"
+    },
+    "10:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2cf0d3826417396789dd307cf00733dc807e66019cd183cbc8777b880bb1b19a",
+      "source_line_ref": "Mark 10:18"
+    },
+    "10:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5147c06936b6b74982f4743f46ca6c5369881693de7d7de6943e0fc315e8dd73",
+      "source_line_ref": "Mark 10:19"
+    },
+    "10:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b57a590a24b2cfcddc1ddbfee44ca65486c021f06a628f6729266ae1a84e7b7f",
+      "source_line_ref": "Mark 10:20"
+    },
+    "10:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0a065a9485e3f7839ed2167f0be9df2a5c23094987f4a102ca1bcf556fa2f50c",
+      "source_line_ref": "Mark 10:21"
+    },
+    "10:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5b2e86a9a87e0c9737605c745c525176168cc7498d8cc35fd338ea9fd1da90e2",
+      "source_line_ref": "Mark 10:22"
+    },
+    "10:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bb97a4d08215b758ff9485d44313bf5c208c97cb54324421cd6009d3da2912ac",
+      "source_line_ref": "Mark 10:23"
+    },
+    "10:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "aac2f818054d413a3a130bb03b881443cd8837d7b68b37bfcbc93d1721a1de7c",
+      "source_line_ref": "Mark 10:24"
+    },
+    "10:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "32ebfb2afd1f45f22c56ce35995bf87733e54a20028f0f3dfecadf47239d27c9",
+      "source_line_ref": "Mark 10:25"
+    },
+    "10:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "822b420c09f180c23eddd09c642b2957862f1c0531a9afc79a17bc29ca9408da",
+      "source_line_ref": "Mark 10:26"
+    },
+    "10:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1efc098a3d2801db11fd912cacd0e51250c78ebb64bc0cd4404c036a2b77e9b4",
+      "source_line_ref": "Mark 10:27"
+    },
+    "10:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "16d9514605b131eb9d71a0cf8ac96d776be6c5ba4fe7b046a8895feca276d10b",
+      "source_line_ref": "Mark 10:28"
+    },
+    "10:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d30ec221653ee8f96ff91d1f81d34aacf9aed30b4dbc0e3ffc1c8771fd82d6b5",
+      "source_line_ref": "Mark 10:29"
+    },
+    "10:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9b1db837d66fbe4df3e1279dfe5d94bba10e642463dc4087a46f487ea57bcae1",
+      "source_line_ref": "Mark 10:30"
+    },
+    "10:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "63f0ddf450a536c94c788f8e87e02db2f59611917aeb96901805d7a7869cd1ba",
+      "source_line_ref": "Mark 10:31"
+    },
+    "10:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2da18fbbcc259e04239627a140face5864ab1b38049481ffa9049c82070061ab",
+      "source_line_ref": "Mark 10:32"
+    },
+    "10:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f8f7772a887dc7aa7fca029bbbf3ebddb2bac9341f4e82a5a816145c4747a667",
+      "source_line_ref": "Mark 10:33"
+    },
+    "10:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "26badf5112710bfb0a811aca4960b8dd3726e809ebf884fe1f0713e3c85a4d5c",
+      "source_line_ref": "Mark 10:34"
+    },
+    "10:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "33cbca3eae8828e6bbf4bf22f99ed907dd35b19b87c2999af55bc603d22818ff",
+      "source_line_ref": "Mark 10:35"
+    },
+    "10:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "752d44c61ec65b277b458bcc9c92321a8df88ffb28d1d0ceb65a0b385282879c",
+      "source_line_ref": "Mark 10:36"
+    },
+    "10:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f4610fbc3b931d4f4a5417f1dbd7ae3c30284a04face6139eb823b0c2d8818f4",
+      "source_line_ref": "Mark 10:37"
+    },
+    "10:38": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "41255d015d3f98fb683cb4d517230cc4b4bbfd1af0ac4b9794a07d0715aceff9",
+      "source_line_ref": "Mark 10:38"
+    },
+    "10:39": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fb9946bec41e72183e3c90981b3a23e7c489cd085cc8e7b851cfde250a1ff835",
+      "source_line_ref": "Mark 10:39"
+    },
+    "10:40": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ba97011f87e4bee75efec977b43405515331d0e601d864f18120c57686b2202c",
+      "source_line_ref": "Mark 10:40"
+    },
+    "10:41": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "238a20e221fa14564fdffd83595811535f8eaaa1661c85f83a414b8e516b07eb",
+      "source_line_ref": "Mark 10:41"
+    },
+    "10:42": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cf996b2cd0a4f78dce3ab47fffac817aa57bcb724002d9368ff9ad0c8ce1ac07",
+      "source_line_ref": "Mark 10:42"
+    },
+    "10:43": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7ba53d73b8021e666d610155a852827b0b7919eeb4e2a4bf5fae117f73098383",
+      "source_line_ref": "Mark 10:43"
+    },
+    "10:44": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d4ca61eb316c52a11361ea47b9d94937820f5b6df80f12feea888348220ca071",
+      "source_line_ref": "Mark 10:44"
+    },
+    "10:45": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c185bf150a509ea6d1d7dee31200f8e0605be37256223d04cfdbda04834f99e7",
+      "source_line_ref": "Mark 10:45"
+    },
+    "10:46": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5a9df938950bb73304448918977386f1e8e5648345130078324f0f406ffcbd86",
+      "source_line_ref": "Mark 10:46"
+    },
+    "10:47": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "da6418d96dc8d378a8abfd31ff2cdf315835da5af5e67a07f0bc045252a33a8c",
+      "source_line_ref": "Mark 10:47"
+    },
+    "10:48": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "45dd6fc019bfe8234c7b97bc8b984323cb3640a9cac313886f2e85ad2b255c3c",
+      "source_line_ref": "Mark 10:48"
+    },
+    "10:49": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "acea8ea08562d706c31dfef586733f34bca77a08ae3156463b6f44b2877d1003",
+      "source_line_ref": "Mark 10:49"
+    },
+    "10:50": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f9f48bb6448db665cbef9f72d7b58bb0be98120c72c39f4ea52d234fa7238ca0",
+      "source_line_ref": "Mark 10:50"
+    },
+    "10:51": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "99b178d4c52cc2512851d6fdc59a21ff0969bc5037f602a91fcb6281637db79e",
+      "source_line_ref": "Mark 10:51"
+    },
+    "10:52": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "76e9b154b0cd0311acd96753338f1d8cc28b791205bc0dde0c4deee4fa493bad",
+      "source_line_ref": "Mark 10:52"
+    },
+    "11:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f6cd49b6b24b2d699bc050760d048d8cb3c0724269c929fa1bf1617ea6903928",
+      "source_line_ref": "Mark 11:1"
+    },
+    "11:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "182f6730f351ab0d62d4c5585ae3b48546d619d222ce58370aa2037f7287d198",
+      "source_line_ref": "Mark 11:2"
+    },
+    "11:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e25864c290405d3d9dc69901f7f962f42fd358c91a9d53a272bc1959339c3a4a",
+      "source_line_ref": "Mark 11:3"
+    },
+    "11:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ec4abb21ac7b03facdc80847208b9e8e46a9d0a09e22d5862d4a39d670ef1a8c",
+      "source_line_ref": "Mark 11:4"
+    },
+    "11:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f8193c89d4ebfe59c61b95b63c79742007e7df6b3ab39f2582bb95e34947c38f",
+      "source_line_ref": "Mark 11:5"
+    },
+    "11:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "537fcac1ab62572db6282111dcfe57b2b54db3032573f1bd065e53f3644f7dff",
+      "source_line_ref": "Mark 11:6"
+    },
+    "11:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "709ebc620441a19afd0cef774a4fed7582d55886e87980a82ba5f63d26e9130c",
+      "source_line_ref": "Mark 11:7"
+    },
+    "11:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a75c5c676151b40566248f8ee6449f91892bb4e753473f95f79cbb14f8d203a2",
+      "source_line_ref": "Mark 11:8"
+    },
+    "11:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9c1092313b029aa72ac394312854a9f2ad043450fb2501549fc8ed3ec8f8cb95",
+      "source_line_ref": "Mark 11:9"
+    },
+    "11:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f9667df715cfabd79b575be8a0d8ed7910eee8f18f4dc8caf7579b0dc024f502",
+      "source_line_ref": "Mark 11:10"
+    },
+    "11:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5295328c89ad6758c3d1afbc22b5bd9942c22ff1dd7ec390b16a024378d5b1ef",
+      "source_line_ref": "Mark 11:11"
+    },
+    "11:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fd7dc5ed486c0c0ae5d1a571e89ead39811b2b0ce032fc5a5fc63bfeccb88ac7",
+      "source_line_ref": "Mark 11:12"
+    },
+    "11:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "eb540d2ce235b68335b64d918b8d7b6769000f4bb87fd43fb1647ddacac05cc2",
+      "source_line_ref": "Mark 11:13"
+    },
+    "11:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2e2bb12048fc4c6261051f6dc2319b18f757d76ebcd70c299d23617b698d2767",
+      "source_line_ref": "Mark 11:14"
+    },
+    "11:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9595d39a5bfa7f54ba3e1605b4cdc90f76676c3e057bb24f0c38e5ddf2069e59",
+      "source_line_ref": "Mark 11:15"
+    },
+    "11:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2cc0b22648d42a39d40e45551d029ed58c9dbd1e455e4c6cc60648739f0142f9",
+      "source_line_ref": "Mark 11:16"
+    },
+    "11:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "20e3fc69b2f64e196cf263ad653fcc704f75e8e03bafa272e9481c3ec356bc03",
+      "source_line_ref": "Mark 11:17"
+    },
+    "11:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "27584f6f7c5a3a0b1cace76a9b7af3bcbc1e20ead57df7cea0e85c9f169676c4",
+      "source_line_ref": "Mark 11:18"
+    },
+    "11:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d51256884e85d8ed8c7cd65ed2d2788168967f8903ecf3cfb1f8538b59f61d87",
+      "source_line_ref": "Mark 11:19"
+    },
+    "11:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "55926fac8bf60aed47f3429df0b9bf77af2364ac0338d4a4941047aa066534a0",
+      "source_line_ref": "Mark 11:20"
+    },
+    "11:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fdb182f321380e4c1d4e0514bdf6abd2b39c4aeeba27ec2e36f328910ede0ab0",
+      "source_line_ref": "Mark 11:21"
+    },
+    "11:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b269e4d44560ce199b6698745cea98478dc4eb2f01021a050f0540052371a886",
+      "source_line_ref": "Mark 11:22"
+    },
+    "11:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c8fdd2abae122f1fc77b8757f2c73559b6f121e27fc791b7a076c3910bfd1524",
+      "source_line_ref": "Mark 11:23"
+    },
+    "11:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "22e67a13a80b42d0dc027812a2f409f05f03c83cd8ed7a23e02cfd55c35cf916",
+      "source_line_ref": "Mark 11:24"
+    },
+    "11:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3cb3282153ac48fb6edb3cb77518d7e152099ff3a16899ad716e549dda0a849c",
+      "source_line_ref": "Mark 11:25"
+    },
+    "11:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4e46aa607faab38b0442a7494cfc259293f713e7fa030451eac9a75733fcdd58",
+      "source_line_ref": "Mark 11:27"
+    },
+    "11:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f2673f32d70bc3100628f7859f20d6e855c473a6ca4be3f8d6c616b4f0a1abcf",
+      "source_line_ref": "Mark 11:28"
+    },
+    "11:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "67362413789e3d1d455e56793ebf4ccee98babcff907b947c65ed516e6dece4a",
+      "source_line_ref": "Mark 11:29"
+    },
+    "11:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0c9b728812958f860e78812689b84faabc2c98c38a7b1e09a03e0435362daf60",
+      "source_line_ref": "Mark 11:30"
+    },
+    "11:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c669f7cd109b746ef300dcabf46e9bb24451d602d7fce43b51a2527058541843",
+      "source_line_ref": "Mark 11:31"
+    },
+    "11:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "eceb4ede3ce6dc1cdec166b392bb710a69fad89776e859cc7858fc855e10261d",
+      "source_line_ref": "Mark 11:32"
+    },
+    "11:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "58e35a458a9736865b49cd7158e5c81d913ffc4d522e67d12128294d44c470c4",
+      "source_line_ref": "Mark 11:33"
+    },
+    "11:26": {
+      "status": "ABSENT_FROM_PINNED_SBLGNT",
+      "source_sha256": null,
+      "source_line_ref": null
+    },
+    "12:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a487f3bf6ed1ed69f244dbdbbfcc4c73e0ae6c275fb189078df0091a88ec94d3",
+      "source_line_ref": "Mark 12:1"
+    },
+    "12:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b334ec7ffd7d3e8e524ee59f2c31903cd10b5e8b488d4d8384ee405553287d76",
+      "source_line_ref": "Mark 12:2"
+    },
+    "12:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "222c2844b13e80c00413577e3ff822278d636a7f4ec7c5c609d312d6313ec2b4",
+      "source_line_ref": "Mark 12:3"
+    },
+    "12:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "769725ef906bf400ee76e3ee5956d30c8d32e760009099900a498aa8003d9dd4",
+      "source_line_ref": "Mark 12:4"
+    },
+    "12:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ae6ba18fbae40fcd39829b23d491bfd693790271cee111754bdd4a17b48745a3",
+      "source_line_ref": "Mark 12:5"
+    },
+    "12:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4bc26a03c89788bc49e8653b5582300c98dd17c447924b76a72a384f5e342e3b",
+      "source_line_ref": "Mark 12:6"
+    },
+    "12:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e97259b0b878a7f2887946d9689dbed5acff580202e9127d8b17e73305eb3eba",
+      "source_line_ref": "Mark 12:7"
+    },
+    "12:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8dcfdf0f79c6ef8aae9181af530ffd2119196104e8ce1435f6bcaef0395c24c6",
+      "source_line_ref": "Mark 12:8"
+    },
+    "12:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "40f802025d24c71d8cf298d4117bb6de85981c13746e77a9dd3dd8c6331e3353",
+      "source_line_ref": "Mark 12:9"
+    },
+    "12:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "729b62dc78d55ac4b29c35804a59f793b1c269125c157fc593a481cbf2c8d23b",
+      "source_line_ref": "Mark 12:10"
+    },
+    "12:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "29a7862a22ce2f3203e4d8c8a89dfbf9b1b117507679d5b894b8c4bc07424ac2",
+      "source_line_ref": "Mark 12:11"
+    },
+    "12:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8a9fe5796687e59560c5c3490f958e360d24bcd8f1a11332520de2fadcf738fa",
+      "source_line_ref": "Mark 12:12"
+    },
+    "12:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4cf396479f97b3099c32da553c1e2899d3d9bdb6e60c2345d3033d152c2c740c",
+      "source_line_ref": "Mark 12:13"
+    },
+    "12:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2ad56ba0911dfa9e6844dc5c1c65da2b3ac16f68db01ecb0b189dcb1b2ce1ff4",
+      "source_line_ref": "Mark 12:14"
+    },
+    "12:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8476370e82918d231acbb15cbce099da5e1d8ce01f2a0274846e2cf7e5262699",
+      "source_line_ref": "Mark 12:15"
+    },
+    "12:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "eaa6c2cba84d4c31693b7c25f1b4f265dd121f4ca5f66d4b8d71dbc634a1bf5f",
+      "source_line_ref": "Mark 12:16"
+    },
+    "12:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e84f67cc8623b23e691ca0a3e33b0f31bcacf4a2d0a3199c1ede1ca1d89e5b9a",
+      "source_line_ref": "Mark 12:17"
+    },
+    "12:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7ec02442b78c00906eb9a1ff3da6d66d1dcecb38a1ee7e099c2172ed0592056d",
+      "source_line_ref": "Mark 12:18"
+    },
+    "12:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "64b722dd37cab6b30c6a98531275e4ed60aff2b0f6ca0885cf9fecdc1297b262",
+      "source_line_ref": "Mark 12:19"
+    },
+    "12:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "09c43bc38f361cc50cbf532ea88cd516194dda18b92666923886abe1927f9fe3",
+      "source_line_ref": "Mark 12:20"
+    },
+    "12:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9905934f0ff82355e3f6078016078c823503447ffece32d3128739534546e361",
+      "source_line_ref": "Mark 12:21"
+    },
+    "12:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "97a102d356492fc64ca180a1190ea36e56d62cc7700b51206a4748cac74b8add",
+      "source_line_ref": "Mark 12:22"
+    },
+    "12:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bc7fe913ef931fc5b281cd8b95cd32ebb67859acbf9d5098fa71fb49189bf90c",
+      "source_line_ref": "Mark 12:23"
+    },
+    "12:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a7f0fd5dda82cb209af8848c79c644e2d8f0617450d545575665cd2edbfecd5a",
+      "source_line_ref": "Mark 12:24"
+    },
+    "12:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1e08e42671432175865c316f7666516e16c62af717a734e790d5334c92d4ef72",
+      "source_line_ref": "Mark 12:25"
+    },
+    "12:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f278ed19c40b8814c1acd860e703be649e0081fc84846a04a3ba98344510b703",
+      "source_line_ref": "Mark 12:26"
+    },
+    "12:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1602134a882c5fb03b86f20b0721c87aea08a52914ef0459872e1d3081b00e39",
+      "source_line_ref": "Mark 12:27"
+    },
+    "12:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "119961a80f622a981a71cec7b907da4af1e422ecac5bfca9d10216c33b491264",
+      "source_line_ref": "Mark 12:28"
+    },
+    "12:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e788542edeb4e25e258c4228b5a76cbf8495df8853b500af2e86e6aff455c502",
+      "source_line_ref": "Mark 12:29"
+    },
+    "12:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b12af187c084643ec9adc6e45fc993cf9de51710a4ef88cba6cd28b364f576e2",
+      "source_line_ref": "Mark 12:30"
+    },
+    "12:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e07665f493daf68710fa38c1d443c1cc853652fc7d66a26e8d7f68eecbee997a",
+      "source_line_ref": "Mark 12:31"
+    },
+    "12:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f7aacbc454c54ce9f21b3d08439c990a41f6706bcd53f18e45d1b035883d9cca",
+      "source_line_ref": "Mark 12:32"
+    },
+    "12:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c1efdf5498cdd2d069da5c9ac91723e36206d5194449ea0c0e7541e1147f8e78",
+      "source_line_ref": "Mark 12:33"
+    },
+    "12:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9ac1edd6a2312192317b773b24420e7d8c0f6550d17bee8b2a109559378f28dc",
+      "source_line_ref": "Mark 12:34"
+    },
+    "12:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fe12940ce5c80b67f8a5bcee581b99869ff7e20719d2fa2125e422055f98be11",
+      "source_line_ref": "Mark 12:35"
+    },
+    "12:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bd317783d82ee4ca6004ce01f28fde289e373b8624fa3a1944f5ef091e985d2d",
+      "source_line_ref": "Mark 12:36"
+    },
+    "12:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d25a0df6904360da0a9ab1f12b86e8a2d8407642e27ac6c027cea05357459882",
+      "source_line_ref": "Mark 12:37"
+    },
+    "12:38": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "68e1382e32e73c41ae880fc56820c82df90d717e476ed2fcf709fb1930d6488e",
+      "source_line_ref": "Mark 12:38"
+    },
+    "12:39": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b17f3beb98decb4f53c8f4d925bea71f95f5467a7d5eef6de68b2024013d5ffa",
+      "source_line_ref": "Mark 12:39"
+    },
+    "12:40": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5c9013ad1e550bd9735a377ddf8cfbeafc0504d404a06ff90c4b81dc1ec49126",
+      "source_line_ref": "Mark 12:40"
+    },
+    "12:41": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5d5edcef6f52a84e1796add72c3b7b989ef9899feb5342d3cf3dbbfbdc310178",
+      "source_line_ref": "Mark 12:41"
+    },
+    "12:42": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a995c65753c65ad983b5692bb4472d445dd765a5d32a9b31acd87643658f2c93",
+      "source_line_ref": "Mark 12:42"
+    },
+    "12:43": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0415fdbbeefaa5155707b47fcea675b8ecaa614ad8ec0a89cb26f011fe3b8d6c",
+      "source_line_ref": "Mark 12:43"
+    },
+    "12:44": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "184a10bc4d32a644119b73658127a611a72855ab18b85a56b16b8f33f3ecde55",
+      "source_line_ref": "Mark 12:44"
+    },
+    "13:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c78c2bfe1a97c35a208eb5aba428b051b4b8b90df88df5b8530ec93895b38fea",
+      "source_line_ref": "Mark 13:1"
+    },
+    "13:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "51b51c834d885fec928c75748b315605dbdd8bfdac4bd5488ac0faec759a6cda",
+      "source_line_ref": "Mark 13:2"
+    },
+    "13:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "90c3f213f5a84e2c88401992f09e232231e127ddfbeeb9626500cf7de9799bd6",
+      "source_line_ref": "Mark 13:3"
+    },
+    "13:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "70a87c1d1ed2f5a21735030dbf13751731e49643c3b03a70b07599212d59cc4d",
+      "source_line_ref": "Mark 13:4"
+    },
+    "13:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6572445c090c11d3a8675ffbe3875866dfb322094cacc7de9e42ef0ca0991082",
+      "source_line_ref": "Mark 13:5"
+    },
+    "13:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d54f76b33c7be225c020fc27a33da80f0654e448145e7da361d8cd848033b286",
+      "source_line_ref": "Mark 13:6"
+    },
+    "13:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "45f19427a57cc608318a043c2c98ac378c26367fd254429ea15a25d17ada7665",
+      "source_line_ref": "Mark 13:7"
+    },
+    "13:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "00ce0601bb6f0d857d4a4ba53646e85231d6fdf383d5af86eefa37356dadd456",
+      "source_line_ref": "Mark 13:8"
+    },
+    "13:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ab2d8fbf90dac579d31b58bd175eb9943a7f37f610a6f9ddb19d06cafae07fb8",
+      "source_line_ref": "Mark 13:9"
+    },
+    "13:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c95bb59c35715eb1277808c0c3808ee03d2c434b3666434d5cb80d9d0c7138c1",
+      "source_line_ref": "Mark 13:10"
+    },
+    "13:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "13ac5aa87a3b9c2384017ec099baaa65d969dd51e99d9c23ce76c3ed74295978",
+      "source_line_ref": "Mark 13:11"
+    },
+    "13:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "78cce23a5a171886ba2ef9ad96c37d66479e425badbfb36aa7bccc93bdaa01ad",
+      "source_line_ref": "Mark 13:12"
+    },
+    "13:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "414201cb07ca3a332bac471834140607cd661863940759cae3613c5ea25ef038",
+      "source_line_ref": "Mark 13:13"
+    },
+    "13:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ea0ea19f42514fcdde52d1f3a8cdbd464f953201f893deb17af4a0ce54cf64cc",
+      "source_line_ref": "Mark 13:14"
+    },
+    "13:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2b8845977a476f40256bd0edd061a391cb7b40cdc6d06e564c91f6a9e2282903",
+      "source_line_ref": "Mark 13:15"
+    },
+    "13:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "52e376660069a1d9b96b0bd6ed6ed5cef8680bd5b1475254534a1ea67b7cfbb0",
+      "source_line_ref": "Mark 13:16"
+    },
+    "13:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "885e1e32b32455d5945ba92bcb83b7d3d9eeb3b98958988158ca221349ba5b7a",
+      "source_line_ref": "Mark 13:17"
+    },
+    "13:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "febbb1938d03a425781103f8975d6c780e0b857eb553235984288b196504c2b0",
+      "source_line_ref": "Mark 13:18"
+    },
+    "13:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "18fff81c2fb1d8c8ec50216522ec5c6043b5c66b09138ed8859f26105b21ef43",
+      "source_line_ref": "Mark 13:19"
+    },
+    "13:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c79afa32cc701435362121820ae22bc74871cea9a74828df339d89097287bc95",
+      "source_line_ref": "Mark 13:20"
+    },
+    "13:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7ee60f3c5b9a66e0197d03c977c7b177c1aab450346ea0a509fa0bc153f43e7f",
+      "source_line_ref": "Mark 13:21"
+    },
+    "13:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9ed8ec5dc59c0b6c2931ceba76450b6306357fe371443265379467dbab185147",
+      "source_line_ref": "Mark 13:22"
+    },
+    "13:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "aef51050c7a46b8d9b6f8f001aa26190f26b5cfc1523d3cd5e3baf35487621f8",
+      "source_line_ref": "Mark 13:23"
+    },
+    "13:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8efb68049bf679407643862e54eba2e204f35ea10f5d55fe01544dcc6f1d5531",
+      "source_line_ref": "Mark 13:24"
+    },
+    "13:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d5ddfe7dbd7ed5b8b6e5bf554f17d53f5906adf3f5c71e749214cea4ff71da66",
+      "source_line_ref": "Mark 13:25"
+    },
+    "13:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fae1fbcb8d930e59069e16d50f9dac5d0cb0abb436ed74d3d81b8e75fb840f11",
+      "source_line_ref": "Mark 13:26"
+    },
+    "13:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fac628888f844ea0ec0a905465af453742cbfebdc5cd0517db733cf305743d95",
+      "source_line_ref": "Mark 13:27"
+    },
+    "13:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0d627c70f62a518e87c45b26e621fe19412adbf4d46df295390ef1ff35a27160",
+      "source_line_ref": "Mark 13:28"
+    },
+    "13:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ebaa4bf810e677c9b0b84c726a34f8c4ed4a5986bd778dc5771dce5a33835b1e",
+      "source_line_ref": "Mark 13:29"
+    },
+    "13:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0aae7e070d186d4a04fcc6f0700b34f949ee068c7a4119a12dddcdbb75f20a59",
+      "source_line_ref": "Mark 13:30"
+    },
+    "13:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "79236b9c6c15550329e2589056f4cd3df4f6121bfdfdc926f43b8f7436f8be74",
+      "source_line_ref": "Mark 13:31"
+    },
+    "13:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "00dcbd3821b939b3f0e6e586d69dfa0f21df8b3d4ec71039508aadbc8ab66027",
+      "source_line_ref": "Mark 13:32"
+    },
+    "13:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "df3ac689b9453b1e18e692486253df33ac0d057990297c88103b5cb51162d2c1",
+      "source_line_ref": "Mark 13:33"
+    },
+    "13:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c9fe513bafab763d7f3f99b3559f996a1680df7b87d58089c00b908643992092",
+      "source_line_ref": "Mark 13:34"
+    },
+    "13:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "27ba99acc56b7f391cdd2f7daafffa0614783188c76cfdbcea2d8c8c43ae0329",
+      "source_line_ref": "Mark 13:35"
+    },
+    "13:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0954ee0be7569038eaf5973e67cc7f168190993891aacfd4b20fa7c71b0d4eb7",
+      "source_line_ref": "Mark 13:36"
+    },
+    "13:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c386f11c55ef9a595250977e4e59ea50128be1fb3de52debd943d7e5f35ab1e0",
+      "source_line_ref": "Mark 13:37"
+    },
+    "14:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "77486574f261342667333cc79bd92a5d1dc766cc9be326860de663ef46e9de5e",
+      "source_line_ref": "Mark 14:1"
+    },
+    "14:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fb6d33823fa713e592003eabd3c635d88487cabd4f9050841ce4433d6953c967",
+      "source_line_ref": "Mark 14:2"
+    },
+    "14:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2dc7e0662728d3ca478a3dbfaaa970ee4545fab35b318ce5fccba10b2af32bbf",
+      "source_line_ref": "Mark 14:3"
+    },
+    "14:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a63743d0c9f5b200426dfad8c03ba7e3d97e3c46950dd6094bc49499666bb4c0",
+      "source_line_ref": "Mark 14:4"
+    },
+    "14:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "aead0521bcb8a0f1756580dd1c643091d5169d52af613f5b7cea55384fd9b509",
+      "source_line_ref": "Mark 14:5"
+    },
+    "14:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4aa49fe165ebc0bc3fc0b4fac863453a4003787185f0029124eca73325c3376d",
+      "source_line_ref": "Mark 14:6"
+    },
+    "14:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ffcde728c8fecedc62d1af38e8fa582200b60cc78701d1649eb42bb27319a86e",
+      "source_line_ref": "Mark 14:7"
+    },
+    "14:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5126791a314be00c0822681a506f2ea59b4efad23bb05e506d978f809b6a5d3f",
+      "source_line_ref": "Mark 14:8"
+    },
+    "14:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bf5d449d975f2549259c10c88a6c2894a75ee5e104e30152514d122c83851797",
+      "source_line_ref": "Mark 14:9"
+    },
+    "14:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2ddd32c7678ad3fa195a70dc899e4192a7233dad95562e1932b5324fbcf5332f",
+      "source_line_ref": "Mark 14:10"
+    },
+    "14:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0680d8ebcb15c3e07ad7fe3acc2d78c582843e374ea069c58da4b06d00c8e025",
+      "source_line_ref": "Mark 14:11"
+    },
+    "14:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "30db09d6de55a57d431134d0414dda296b1dd8545d96372fb5b128b593cb9db7",
+      "source_line_ref": "Mark 14:12"
+    },
+    "14:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2a11915a1c6a22115625c722445937f450942c5ed2994f0ba81a6aff54190753",
+      "source_line_ref": "Mark 14:13"
+    },
+    "14:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cd5ffad379329e5996e7fc0fd19286460b8debf770bc683b8c2296e93146681b",
+      "source_line_ref": "Mark 14:14"
+    },
+    "14:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "aeb094f6c30d9bb4de3b35949d71c0ac41d639cddd329eac9201808e0b1a5305",
+      "source_line_ref": "Mark 14:15"
+    },
+    "14:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4d72ecd61232b0c6b2e61f88fb3933265407467545497b5a3ea7f04dc368c6fd",
+      "source_line_ref": "Mark 14:16"
+    },
+    "14:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "67bbb579c5a11fe02313659403d71abb655015809bc35dd9079b66a709bf5cfe",
+      "source_line_ref": "Mark 14:17"
+    },
+    "14:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "754678d692deb538fc584150891b22d2a279fbd9e342ee4df18c43b385158be1",
+      "source_line_ref": "Mark 14:18"
+    },
+    "14:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c43d31c03046b451497c9d92a86e4ab1de7cd4b4b7690ef2cf8fdd6cf06d7c7f",
+      "source_line_ref": "Mark 14:19"
+    },
+    "14:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "aca89d29c1cde453e8d23569b3889c742de4417d82110e09744334c35096f9e4",
+      "source_line_ref": "Mark 14:20"
+    },
+    "14:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b235a2d84a4e31a7a9bf217d59bda20d9801aec0f409d6e926458e86951f8d23",
+      "source_line_ref": "Mark 14:21"
+    },
+    "14:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "573f9c70f9ad8613740a9c11fda1370dd734936981ff8099391222abbf085d13",
+      "source_line_ref": "Mark 14:22"
+    },
+    "14:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1dc2360543137c1d8868c89f35b76c8072ec46f49d0bd5fac09d1d1043720bbd",
+      "source_line_ref": "Mark 14:23"
+    },
+    "14:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e951119068741ae7b52ae614854ab599d3e5dc85c44eff16fc5bb395f343acf5",
+      "source_line_ref": "Mark 14:24"
+    },
+    "14:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e4bba302a2520f950a37c720dceb0617b6eb2eced3259e6f8e0cb98baf64a4b3",
+      "source_line_ref": "Mark 14:25"
+    },
+    "14:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1f4030c3c8fa8b058d6048a9bb98f3075174cf95bc234314e920474be5bd4675",
+      "source_line_ref": "Mark 14:26"
+    },
+    "14:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "59188d491b4751566f0b5b18fe25cca7ce810a9720e8e025e8d4357c6b8d9c03",
+      "source_line_ref": "Mark 14:27"
+    },
+    "14:28": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ed9b93b7170d734052b2c866486bb6a9fb92baf6c4a13d2e9b8a64032b95b7d0",
+      "source_line_ref": "Mark 14:28"
+    },
+    "14:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0996e2d1a187b24df6651f87ad66ad51ca7e587fcedd79d9ae8e1d27563a5a70",
+      "source_line_ref": "Mark 14:29"
+    },
+    "14:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ba2f5b3f41f1af68e27fda92f1a7c24c87e67e03c6316d299ab18d0dcb4fe125",
+      "source_line_ref": "Mark 14:30"
+    },
+    "14:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c74091afcaf5be20db47a75d77304c8445e151ff88ca46af5d1be6bacf376d06",
+      "source_line_ref": "Mark 14:31"
+    },
+    "14:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "941a3ffbcce59b63bff612e126e45ddcc43cce27949d3eea1d4cc102de17f951",
+      "source_line_ref": "Mark 14:32"
+    },
+    "14:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f63b92811d2ceea43008abb0b36a796c11a3804c66f3ba163ecf14e67f706c17",
+      "source_line_ref": "Mark 14:33"
+    },
+    "14:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0b0d7d21ed11897db7188df59d8f9e5ce95774c2780baa484a3037b3b0d28c48",
+      "source_line_ref": "Mark 14:34"
+    },
+    "14:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6d3d6f2bdb83ffc479c1c3599ee3cfaa29b21c31aea71a8ff58744c6903738fb",
+      "source_line_ref": "Mark 14:35"
+    },
+    "14:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "622d64b009bdd169feb04079915572d570d59903604e356e32a1b00642d69679",
+      "source_line_ref": "Mark 14:36"
+    },
+    "14:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a3048307e2b108fa7e624b50829f2f0e8d27a0093a564c7033e83baa777a13a8",
+      "source_line_ref": "Mark 14:37"
+    },
+    "14:38": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3edc0423ba082cfdafe36a064bbf44cad5aab33649daf0f9fb24ba11a702c0f1",
+      "source_line_ref": "Mark 14:38"
+    },
+    "14:39": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "97c0884cfd134b24c1f2cdc25b8aba226df95351d5d63e06608cbdb8d04bc7fe",
+      "source_line_ref": "Mark 14:39"
+    },
+    "14:40": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3f65d6d9b2e79baf4a24c3c4c0ebbf31369f6b7b59edda98d0393f02af2fecdd",
+      "source_line_ref": "Mark 14:40"
+    },
+    "14:41": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8527b11bfc7366d3f7046c1d88be7f39de5e07b3196a6d1c52f7d87b41a82620",
+      "source_line_ref": "Mark 14:41"
+    },
+    "14:42": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0741c7a81471511ecaa4cbc55dfac97eeff4e3d2ffe621a75cc18188548ddd45",
+      "source_line_ref": "Mark 14:42"
+    },
+    "14:43": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "bb509cd12428b2b88c77de2e08419a1564716bb660e939e9a3fd471066c92081",
+      "source_line_ref": "Mark 14:43"
+    },
+    "14:44": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7caffc65b93b4b50f0baa20adda8945e198db9acc3234c0cc71ce6eeb6cfd805",
+      "source_line_ref": "Mark 14:44"
+    },
+    "14:45": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "72df302621cceb6f0e45bc728ab1f07a72fb3f10d80b95298bd1dca8883f1b42",
+      "source_line_ref": "Mark 14:45"
+    },
+    "14:46": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c12937a42db9770199dde86bce76697a017b16645e1a825c2f8a3238320246d0",
+      "source_line_ref": "Mark 14:46"
+    },
+    "14:47": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8c1711b4655912b175f9d66ca84115873e09efaddba952220528792f16d335d3",
+      "source_line_ref": "Mark 14:47"
+    },
+    "14:48": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ef2bfa36f10b20f44f91112d0504c442cf7d386815704c4341d277d846a534aa",
+      "source_line_ref": "Mark 14:48"
+    },
+    "14:49": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "dfdce4138fdedceda4cecd87b00ef55f7108f74e870d13c811c273f380d34d12",
+      "source_line_ref": "Mark 14:49"
+    },
+    "14:50": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2d5ab0338b75ca18ee97376b96f623cfa9b2b06738e021920f52b7744a022e4d",
+      "source_line_ref": "Mark 14:50"
+    },
+    "14:51": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3bef9b520fc5fad7600b68fed0f392c4fe4a8433eaa32d19a569d3e80ec3c44c",
+      "source_line_ref": "Mark 14:51"
+    },
+    "14:52": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8964c46bac8c8e74576f525d36c686e60afa36cfd1827dfd95f5754b53b7fccd",
+      "source_line_ref": "Mark 14:52"
+    },
+    "14:53": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1b85934489c3f8a637e1c32edab3f5335a9bc427a24c223e5623af7b9b0725ab",
+      "source_line_ref": "Mark 14:53"
+    },
+    "14:54": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7c7cff9f77c45513a299ead2041ae53978d67d402cb04c3f54622cc05985e052",
+      "source_line_ref": "Mark 14:54"
+    },
+    "14:55": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d01673aa2c0de28eb025e9ae90d450b981954e8e1a4c1e853b5e6232a320c6ee",
+      "source_line_ref": "Mark 14:55"
+    },
+    "14:56": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "13908ec90b3d410f8f892a1f7a02d42bee6e4d77d76ff9e5445802ffec58ce3d",
+      "source_line_ref": "Mark 14:56"
+    },
+    "14:57": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "77cc75970464d65a6bd5e43d407d7b543b367990df8fc2defc9b9c97f7ce15d1",
+      "source_line_ref": "Mark 14:57"
+    },
+    "14:58": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "491f86c59e85adf773cc3ca50e5aae85cbe75bddf519a7d801e0f24fba95d3ed",
+      "source_line_ref": "Mark 14:58"
+    },
+    "14:59": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "40df4335a5ee64c2b9a621bf2f7e0199a490f5237db90807187cbe487a47a58b",
+      "source_line_ref": "Mark 14:59"
+    },
+    "14:60": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5d5c08141e03091d2e7e22412d5b78847fa58dd5faa44f78057f11c4e121bb43",
+      "source_line_ref": "Mark 14:60"
+    },
+    "14:61": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6cab2316ad356f82c18e16efe08af4606b16c1fbc5ae315a332298b2b7943818",
+      "source_line_ref": "Mark 14:61"
+    },
+    "14:62": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2e98195498824ab8d0865003a1580bbee4c0923de20e23881a0f735889893afc",
+      "source_line_ref": "Mark 14:62"
+    },
+    "14:63": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d6b8588255f35b7f39f446cbb3a7e1ff6406bd63aa79de17177c6a6edf35f02e",
+      "source_line_ref": "Mark 14:63"
+    },
+    "14:64": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5d77f7d334d90ab3d8dc4a2ec26c363a554b0cd6b72757b059e1420ff41f617e",
+      "source_line_ref": "Mark 14:64"
+    },
+    "14:65": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f9f6847360f66b245817e0182ebbb31341b521f1d99b31a5799e17f36fc334da",
+      "source_line_ref": "Mark 14:65"
+    },
+    "14:66": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1d7dd32a46374393eac7142412176e7328eea32d1dcf96629e2616fd1690fc2c",
+      "source_line_ref": "Mark 14:66"
+    },
+    "14:67": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f36dd92d294054fdf9e4cac0b5a5db051c3e2355d0db0f716a477a0ecbd6759e",
+      "source_line_ref": "Mark 14:67"
+    },
+    "14:68": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2ed9dadcfebdd51bc86f8c34d27b7e848f0679a84e05a10033093cbe3c2c78c4",
+      "source_line_ref": "Mark 14:68"
+    },
+    "14:69": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2052feae703febc088be419f3710e059c1b2cc858d008a76b8fb7fb5f96ffe0a",
+      "source_line_ref": "Mark 14:69"
+    },
+    "14:70": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0d4c631cd3d8589b83d88dcb93d68e2ac51db644dbe97ae74bd6e4a6c23d490c",
+      "source_line_ref": "Mark 14:70"
+    },
+    "14:71": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f02fd9a86291ee018fe898e4926481e012270353fb80735ad7d0f8aec0536fa6",
+      "source_line_ref": "Mark 14:71"
+    },
+    "14:72": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a39f47f8fc00322c9f5d354fcb3482a266c55c02c85c0c61e41f84a26b4740af",
+      "source_line_ref": "Mark 14:72"
+    },
+    "15:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1ad6bed1b509428f3a343809517d48cdc4343ea04e75ac7532709ed6b1f44a43",
+      "source_line_ref": "Mark 15:1"
+    },
+    "15:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "be22fd185ee8a16ab76bfe76a0847c038fd3436aee3acacedcd6e837eea69fc7",
+      "source_line_ref": "Mark 15:2"
+    },
+    "15:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1f9082dd1e965150e2a94d9ca9bb6e507dc3ad5a0ab54b2bb2f0d1da69a2438a",
+      "source_line_ref": "Mark 15:3"
+    },
+    "15:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "129d6ec919b1a859db57b21bb613b5a84a9255c2f102568985cc7861e65af816",
+      "source_line_ref": "Mark 15:4"
+    },
+    "15:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e3b894c8d32d6a4a56c1f5ac4beadfde7e4dce55bebb2c58a7e4ee06cd3bd122",
+      "source_line_ref": "Mark 15:5"
+    },
+    "15:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "25dbb5ef686b8dd035cd00fdc0d04baedddaf6049f52dcfd119cd647b7383d7f",
+      "source_line_ref": "Mark 15:6"
+    },
+    "15:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7bebff2bbe70eb820ba7141a9c93f1f8071148a6e4977aeb3d8a485c1475476b",
+      "source_line_ref": "Mark 15:7"
+    },
+    "15:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4c7aafac209876321afc054d293d5144d22ba672c585828c7d09de64e10e2c39",
+      "source_line_ref": "Mark 15:8"
+    },
+    "15:9": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "16bbfb74b34d748de517523d73148f8aa22cc6e4f511be93f8f84c6a607dd468",
+      "source_line_ref": "Mark 15:9"
+    },
+    "15:10": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "dd30aa233ba7a352bb6da083c378fcc3cd5b05b450dc4ef30cbb7d777bad7e1b",
+      "source_line_ref": "Mark 15:10"
+    },
+    "15:11": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e231aed2f6f68b46095594bc7eecc78d4a7e38bd6342e1873ff5f8a8a7cb9cd5",
+      "source_line_ref": "Mark 15:11"
+    },
+    "15:12": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "0064eff70b2c622716bb4445b380cd0a7a8d7eed328e26f79ceb84a3b76aa7d6",
+      "source_line_ref": "Mark 15:12"
+    },
+    "15:13": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e9612a68bf7bf838a730e0557c563aacbb4071da71653f54b9e52945edbeb4f3",
+      "source_line_ref": "Mark 15:13"
+    },
+    "15:14": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "207d2d7c53dc59dfe8eca4d321925188a24eadefe311f75a87a21a0558b2f5af",
+      "source_line_ref": "Mark 15:14"
+    },
+    "15:15": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "017d9055966dcb2c48f21052c08ff1851a7f75077f84425e355d1fd29e19c561",
+      "source_line_ref": "Mark 15:15"
+    },
+    "15:16": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8096952dfc77aed374297394bd96269f82d96d82dca0f137abc6daaffbe4de87",
+      "source_line_ref": "Mark 15:16"
+    },
+    "15:17": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "42acf84e922bb6f6d90ec8d610d31639a7b85c2404648ff5bb71068037127c08",
+      "source_line_ref": "Mark 15:17"
+    },
+    "15:18": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1db65b99a3ef91431dbf294d5925277805a142f02ec6283520ef5424fb0e2bad",
+      "source_line_ref": "Mark 15:18"
+    },
+    "15:19": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "411709509a4161cfe83d450b62b6cfd2c5350a23ed33877a34f337ce818a9eef",
+      "source_line_ref": "Mark 15:19"
+    },
+    "15:20": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "c4d40d6bb44475f27aeb6917913e3faa375df4b49d15cd7784414b312ea8063e",
+      "source_line_ref": "Mark 15:20"
+    },
+    "15:21": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8cdd1b47581fb1345d9031227d82a4f5a14e7f61f837ee6e88c975a7a6d5428d",
+      "source_line_ref": "Mark 15:21"
+    },
+    "15:22": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b37c738944a2fe8204cd9a2c5078629e7dd19e3b18406cfec4a26d75dfc51e86",
+      "source_line_ref": "Mark 15:22"
+    },
+    "15:23": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "336055eb47499415659cbeb71bdfe11fbdd0fa6ff5e067c8b1c68bfb67a77609",
+      "source_line_ref": "Mark 15:23"
+    },
+    "15:24": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6ada5b3b76c70ecf788503211866e03d3728b8933bb102128a2880171005dcb4",
+      "source_line_ref": "Mark 15:24"
+    },
+    "15:25": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "56c2fdb9ee5cc7052ef9a31bb0e7868ae58aaf3131d5fb420046fc71b27b9511",
+      "source_line_ref": "Mark 15:25"
+    },
+    "15:26": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b3aa4d57869b0297f3e91599db8a050a4132771676bae2a32a335b6485f28891",
+      "source_line_ref": "Mark 15:26"
+    },
+    "15:27": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "ac2421d80a659385f38d6b17cb09d9842b15b8a407f58b9c2eca85befa7b6f0c",
+      "source_line_ref": "Mark 15:27"
+    },
+    "15:29": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cff75b3a8a3edd5bddc73f05384f3ac49b5bd7b6d951a696cf9fe25fcb73b78a",
+      "source_line_ref": "Mark 15:29"
+    },
+    "15:30": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7d4d2f66553df35607c38c90b8f8becc3bb39ae51a951681eab138e709b374de",
+      "source_line_ref": "Mark 15:30"
+    },
+    "15:31": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fac9588ab2ffc3cf40623a316423e901d85bf1fa83543e7efe2a603e459491b0",
+      "source_line_ref": "Mark 15:31"
+    },
+    "15:32": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "5da41fe6db79ce5f517d93ff59c9c29ff13fa13a8bc39bce3dfe5b01988d584b",
+      "source_line_ref": "Mark 15:32"
+    },
+    "15:33": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "16b3cab2220d3b9d0f0c8f3da53bba1999a030cbc70b422751fe65c1e97a7c3a",
+      "source_line_ref": "Mark 15:33"
+    },
+    "15:34": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "fad9fb4371bc286f04b86d615ff54165db0550e9f9c3412654921c6e1bc95f21",
+      "source_line_ref": "Mark 15:34"
+    },
+    "15:35": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "559a50651ce825e07e2326cc3e1c7e9b7b9e9b1ca314f9891754c26f08b4675e",
+      "source_line_ref": "Mark 15:35"
+    },
+    "15:36": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "93e807ae9adb441e6ae42653cb6ee865b43efd0c90c41d63bb2c91dc2c6ad534",
+      "source_line_ref": "Mark 15:36"
+    },
+    "15:37": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "f58cbab1eeba118b02d04e4424599f84dd6723b6766cd0f2f186a42f11585f22",
+      "source_line_ref": "Mark 15:37"
+    },
+    "15:38": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "e8577919c247e7bb7fa6a96305e32dff78798a2229da3fd4ce379a63c04252a3",
+      "source_line_ref": "Mark 15:38"
+    },
+    "15:39": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1addecf85b2936a9044a7f7643e4c3dfab2ece1287575a4661ec2b1d97f1d4ff",
+      "source_line_ref": "Mark 15:39"
+    },
+    "15:40": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "1e49208a93d2f61aae59a85c1d830c3b5a318c57ba76cae90fe726f6b409ccb0",
+      "source_line_ref": "Mark 15:40"
+    },
+    "15:41": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b192a9035d3959e380b1aa04a12043368aafc525bddddf1ef46633ecdeee8cc7",
+      "source_line_ref": "Mark 15:41"
+    },
+    "15:42": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b13d305ae0def23936b650be0d5a2b02b24a21c8151574df2c4e32a3a49a3acf",
+      "source_line_ref": "Mark 15:42"
+    },
+    "15:43": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b0974af2e30d6375fa0650568d4829e2d1bb38039d0da923712316c75cb72912",
+      "source_line_ref": "Mark 15:43"
+    },
+    "15:44": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "4814364d59e746140dfda887b5cf03954394799957ffc12579002071adea0e06",
+      "source_line_ref": "Mark 15:44"
+    },
+    "15:45": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "2638882f639be4c597b78f79038713d67c019563af3fbc6dc0d1bcf8caddf458",
+      "source_line_ref": "Mark 15:45"
+    },
+    "15:46": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "3cd3bb70dcefb17216eb7feea022249d273dd5de5a3d70719c18957c6c2fcfde",
+      "source_line_ref": "Mark 15:46"
+    },
+    "15:47": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "6defeaac9f6a7a5703ae75110467c5a7adadc17945b22627bf0b6de5f2cb5003",
+      "source_line_ref": "Mark 15:47"
+    },
+    "15:28": {
+      "status": "ABSENT_FROM_PINNED_SBLGNT",
+      "source_sha256": null,
+      "source_line_ref": null
+    },
+    "16:1": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "8dc057120885e18e918f529caebb1e0093b6b162b608768f0ba79c2a7200cb01",
+      "source_line_ref": "Mark 16:1"
+    },
+    "16:2": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "cb46b0addd5bd6380626da0efb984bbd8f8aea5e3b4c23e225137f203ad2d5f8",
+      "source_line_ref": "Mark 16:2"
+    },
+    "16:3": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "b6d3bbcf004978e258dc94f6a8bb0d75996558f06ea15670960f1ab99bd7a5b6",
+      "source_line_ref": "Mark 16:3"
+    },
+    "16:4": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "9ef19d461983f8816d4d2ac481119ff44e6537bb1f8b458c4aec7b0f6b546187",
+      "source_line_ref": "Mark 16:4"
+    },
+    "16:5": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "7503e4a62c89fb7ef325deefd0914a8f597f1820c473179cb3ba9eea58219e40",
+      "source_line_ref": "Mark 16:5"
+    },
+    "16:6": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "a9bb837e4f570bed3fb56fc8e8fc06e5e60d9b8ff5fd30f09a6a3b3527ee24b5",
+      "source_line_ref": "Mark 16:6"
+    },
+    "16:7": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "35014dc17ca4dc7730c3cb0a6085e024a9dfba2cb270fa1fd2bd7c5d26f665a1",
+      "source_line_ref": "Mark 16:7"
+    },
+    "16:8": {
+      "status": "PINNED_SBLGNT",
+      "source_sha256": "d0af01c2526e06cd9bd27ae368c6ed8b0c94c64c769f6485ab7a5a81f55eee6d",
+      "source_line_ref": "Mark 16:8"
+    },
+    "16:9": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "37cde69937b3e12e92bb4e94b3fbc20d327d8214830e60c9512940e5ab3a5ec4",
+      "source_line_ref": "Mark 16:9"
+    },
+    "16:10": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "d4d70a6e2714a793bf7c1f4e44f4b49bcbb3cce3189f720b51ca946bde1e60f7",
+      "source_line_ref": "Mark 16:10"
+    },
+    "16:11": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "c102bc7122a5bb2dd5773b288c935e89444dfe96204cc85a13375471ab599950",
+      "source_line_ref": "Mark 16:11"
+    },
+    "16:12": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "26753d7353b1780784b89308dfc2a0f5e9b5e0fe3f71a88184873e44cb59af79",
+      "source_line_ref": "Mark 16:12"
+    },
+    "16:13": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "0322946aef12d404608b4b6a8e967304f8416731ae459347ac588b8f4ffccafd",
+      "source_line_ref": "Mark 16:13"
+    },
+    "16:14": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "d0de44909cc09fbfd037598773d7f8401ee3a7e262974c354c846ba17d18944b",
+      "source_line_ref": "Mark 16:14"
+    },
+    "16:15": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "0f8cbcac645ef0c1ad0b7b49a3ba2c349fbcef1f285301b803cd604ab1355c8a",
+      "source_line_ref": "Mark 16:15"
+    },
+    "16:16": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "16d06877657086b36e0dd731aed573e5b688925817b05d945961d3f9dcbad8e0",
+      "source_line_ref": "Mark 16:16"
+    },
+    "16:17": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "abcb89a77793b9c74fbdd40682cbc16730591287fd02f835691509561263cff7",
+      "source_line_ref": "Mark 16:17"
+    },
+    "16:18": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "6ca4cb5309994f68648401a5627d158ce28c8fc30c9b5c1af025efb242a8dabf",
+      "source_line_ref": "Mark 16:18"
+    },
+    "16:19": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "7787e3ef020cd88eddb1b7c9b7b740dd93954c5715ebea62826dfdeac38629f8",
+      "source_line_ref": "Mark 16:19"
+    },
+    "16:20": {
+      "status": "ANCIENT_TEXTUAL_TRADITION",
+      "source_sha256": "80d27c3a2c679eb10cc5e609c1d95a3813284d21d7092fefbc2e064bd8a03a4f",
+      "source_line_ref": "Mark 16:20"
+    }
+  }
+}

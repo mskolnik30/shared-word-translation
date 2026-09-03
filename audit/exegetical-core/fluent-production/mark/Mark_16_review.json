@@ -1,0 +1,201 @@
+{
+  "book": "Mark",
+  "chapter": 16,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "publication_allowed": false,
+  "canonical_tsw_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Mark.txt",
+    "raw_url": "https://raw.githubusercontent.com/Faithlife/SBLGNT/c4d241a9c1c479a55b989ba35a4976c1d0b8052c/data/sblgnt/text/Mark.txt",
+    "source_file_sha256": "fe1b5a4c15db71e7e30f33fb67966ca93baffae377085ece0b88f66316729638"
+  },
+  "verse_count_public_slots": 20,
+  "verse_count_included": 20,
+  "critical_text_absent_public_verses": [],
+  "verse_ledger": [
+    {
+      "verse": 1,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "8dc057120885e18e918f529caebb1e0093b6b162b608768f0ba79c2a7200cb01",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "146cada03bd65cbebe622df252b9bb67002ce824684e55e5e44f13e4e0aa7e75",
+      "tsw_text_sha256": "948a542a7687d651957e192ca94e648666ae768da7441ca8c3ded65d05e9ff94"
+    },
+    {
+      "verse": 2,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "cb46b0addd5bd6380626da0efb984bbd8f8aea5e3b4c23e225137f203ad2d5f8",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "ca4221794a4c3adec9363d44c203e4dd181b7b0f8e552ac0205e8b7a30bf0ef9",
+      "tsw_text_sha256": "853a599e19f3b7e94de0799d8005dcb0e9ccac4db67722768470d9e129f15e63"
+    },
+    {
+      "verse": 3,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "b6d3bbcf004978e258dc94f6a8bb0d75996558f06ea15670960f1ab99bd7a5b6",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "87667f56e6f0c7c461aa885d90635743d7a162bf30671b0eadde03814d03b2d9",
+      "tsw_text_sha256": "73fcccd416921759aadd2e01418a37333aa7eddeba5f1f11bf2222e57fc674e5"
+    },
+    {
+      "verse": 4,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "9ef19d461983f8816d4d2ac481119ff44e6537bb1f8b458c4aec7b0f6b546187",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "3dae9ee0b3b318afd63b7647b9213c70d023c2be1553f3c90bf47bfd24bf5ed8",
+      "tsw_text_sha256": "cec8e013b070740342400b83818a426a72922534a8bf17be85926fc4c65bc5b9"
+    },
+    {
+      "verse": 5,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "7503e4a62c89fb7ef325deefd0914a8f597f1820c473179cb3ba9eea58219e40",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "e9201326bf18812dab0f792625e1ad2b90afbad854783aaf0d381773ecbe95df",
+      "tsw_text_sha256": "362ab92755a4c6a437c791ac813f82088de8381db55e13a8e79ede1936d644c7"
+    },
+    {
+      "verse": 6,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "a9bb837e4f570bed3fb56fc8e8fc06e5e60d9b8ff5fd30f09a6a3b3527ee24b5",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "4dc11f3ed3a84bbda775daffc72b675423ff3076fe4a8c73bd437e23962d7a3d",
+      "tsw_text_sha256": "59f42430911653e899a1d5098a038ab3e2605a4c4371f9951352f4e427143d51"
+    },
+    {
+      "verse": 7,
+      "classification": "F1",
+      "rationale": "Surface/narrative naturalization relative to TSW; no registered F2/F3 trigger for this verse.",
+      "source_sha256": "35014dc17ca4dc7730c3cb0a6085e024a9dfba2cb270fa1fd2bd7c5d26f665a1",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "9ea40ccf1e79219922fda08ad061ac33a6fcb4503114e31a180af2f8266656a9",
+      "tsw_text_sha256": "43bea37c077df1d0032586897d7341a5bc64eec52fe2f0db5369d07596d9fe6a"
+    },
+    {
+      "verse": 8,
+      "classification": "F3",
+      "rationale": "SBLGNT continuous main text ends here in fear/silence; shorter ending noted separately.",
+      "source_sha256": "d0af01c2526e06cd9bd27ae368c6ed8b0c94c64c769f6485ab7a5a81f55eee6d",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "ac67af90ca515e1d5083d94696fae9c8329863646c929e0525aa879fb8f390e9",
+      "tsw_text_sha256": "aa27a1cbe45b19c77be05131f432c567623f0ca5338d40e6199bee934ce858c7"
+    },
+    {
+      "verse": 9,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "37cde69937b3e12e92bb4e94b3fbc20d327d8214830e60c9512940e5ab3a5ec4",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "ab4e0b8f957638d5f220017f43fbdbedf7b65e5a620526f9f97cc5914198d14d",
+      "tsw_text_sha256": "884c33211191aebd6405d7dece8cbd2e0be5369b547969b6188820df83632df5"
+    },
+    {
+      "verse": 10,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "d4d70a6e2714a793bf7c1f4e44f4b49bcbb3cce3189f720b51ca946bde1e60f7",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "02292d67d24643fa157aac3fc0a9f4398445ddea634d0b9657d0581127b0624d",
+      "tsw_text_sha256": "4247d8d58035af366f1d245ae16637f6608322bc3222c210c265bbd83d6cf80c"
+    },
+    {
+      "verse": 11,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "c102bc7122a5bb2dd5773b288c935e89444dfe96204cc85a13375471ab599950",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "1c8ccd83654b1f32f16cc7e8d359f6c8dd3fe041bb6d1e674f5c80471a71c4bb",
+      "tsw_text_sha256": "4c8a000197725b1557444d4485dc8190c5dfb0434bcc2121f8fb4fa93168f5b3"
+    },
+    {
+      "verse": 12,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "26753d7353b1780784b89308dfc2a0f5e9b5e0fe3f71a88184873e44cb59af79",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "b7a1f07f62fe237976d590089945be721413184622b2d2624081e7177b3eae95",
+      "tsw_text_sha256": "4180b06c624514fb80e501dc6dc5615e24b8530e355721ac83c7b5dfb6e04382"
+    },
+    {
+      "verse": 13,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "0322946aef12d404608b4b6a8e967304f8416731ae459347ac588b8f4ffccafd",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "8082a1d7735c74e8e9eefea3aa791274ceddf4fc6fa9e7beaec44c91640863fa",
+      "tsw_text_sha256": "426fa917adf9f61c4b587950e04d3be238b2650cfa0a84b4c41b357bd6b516b7"
+    },
+    {
+      "verse": 14,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "d0de44909cc09fbfd037598773d7f8401ee3a7e262974c354c846ba17d18944b",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "5d55a904326198646afc496fa7a3ebf9b1930263df7a83607d98e0941c2e37be",
+      "tsw_text_sha256": "1ec6715816f7380798898c96a6f50dde237bf76aa080a5387fdf1e2343e8cbd2"
+    },
+    {
+      "verse": 15,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "0f8cbcac645ef0c1ad0b7b49a3ba2c349fbcef1f285301b803cd604ab1355c8a",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "8312c8507e9d4fec89474aafed8643fb385aad55baf150ff8560ff51d7ef879f",
+      "tsw_text_sha256": "fbaf1cf03457955d2c1a01787d81b0deef5b36038eda155e5d9055db3934c957"
+    },
+    {
+      "verse": 16,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "16d06877657086b36e0dd731aed573e5b688925817b05d945961d3f9dcbad8e0",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "01a2cdffc65e6221cdca761f47f036ec996baee7c3332a105a69f3a577eb0a26",
+      "tsw_text_sha256": "dec333175369ee24fc4f4db4f7ff66b4fdbec9e66b70afca96b70546c7f63e72"
+    },
+    {
+      "verse": 17,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "abcb89a77793b9c74fbdd40682cbc16730591287fd02f835691509561263cff7",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "f4d38afcde3e42d44ab79f33cfd1e66606f6793de626f7362b2ee8d59c01b1a8",
+      "tsw_text_sha256": "d8589aa9f798971d63a63c0e336923d6ee537e00a48973b751650ba1adbf9af1"
+    },
+    {
+      "verse": 18,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "6ca4cb5309994f68648401a5627d158ce28c8fc30c9b5c1af025efb242a8dabf",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "d337f7eb5b627cb09f4a64e2c68e0ae4424491a953b67e639e0baddc84afe60a",
+      "tsw_text_sha256": "c2f15bd9a1329242535fc354abd85e78dae29867363369ce3cc353ee7bd91619"
+    },
+    {
+      "verse": 19,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "7787e3ef020cd88eddb1b7c9b7b740dd93954c5715ebea62826dfdeac38629f8",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "cb1614b032ff0774ac0d3e22e9fd0785b7c273f79f6aa8faac387cd6e591d968",
+      "tsw_text_sha256": "0612fc1d0c432a77ff8feb75cf1674dc73ca816b050509f7f41f98e8408eaf4d"
+    },
+    {
+      "verse": 20,
+      "classification": "F3",
+      "rationale": "Longer ending included as clearly separated ancient textual tradition, not textually identical to 1:1–16:8.",
+      "source_sha256": "80d27c3a2c679eb10cc5e609c1d95a3813284d21d7092fefbc2e064bd8a03a4f",
+      "tsw_main_blob_sha": "f01e6945b26d5f8b28fb2751b24f3d290f0be6bc",
+      "fluent_text_sha256": "c96aa36c209fdae5525cbab838041e9f045d4766bc1e299b9a6f84c8443e8ee0",
+      "tsw_text_sha256": "28cf305b3ec81b20bb02a7c775a486588326b6c9dcde1f158d3ae3384849ca26"
+    }
+  ]
+}
