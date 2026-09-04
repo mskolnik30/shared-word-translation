@@ -1,0 +1,237 @@
+{
+  "book": "Judges",
+  "chapter": 17,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "17:1-21:25",
+      "decision": "Keep idolatry, sexual violence, dismemberment, civil war, abduction, and social collapse as indictment, not endorsement.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Judges 17:1",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 1,
+            "source_ref": "Judges 17:1",
+            "segment_mode": "whole",
+            "sha256": "32c1280ce06e6b48de11b51195edcdd5f3951a1a4d3cbd0ed5ee4cc82c9d53eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32c1280ce06e6b48de11b51195edcdd5f3951a1a4d3cbd0ed5ee4cc82c9d53eb"
+      },
+      "2": {
+        "source_ref": "Judges 17:2",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 2,
+            "source_ref": "Judges 17:2",
+            "segment_mode": "whole",
+            "sha256": "366088cc86974f06d233ea548fd721b9b605495cf724bec8f82eb346d23ad4e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "366088cc86974f06d233ea548fd721b9b605495cf724bec8f82eb346d23ad4e5"
+      },
+      "3": {
+        "source_ref": "Judges 17:3",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 3,
+            "source_ref": "Judges 17:3",
+            "segment_mode": "whole",
+            "sha256": "c6c13a488e04d01733d9d6d5c5f4a718078b38c5e95e40652a5e66a5773e1ff2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c6c13a488e04d01733d9d6d5c5f4a718078b38c5e95e40652a5e66a5773e1ff2"
+      },
+      "4": {
+        "source_ref": "Judges 17:4",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 4,
+            "source_ref": "Judges 17:4",
+            "segment_mode": "whole",
+            "sha256": "5e290fbeacefefc9a498341852d5d74c8e5589ae420776f1f33a44d799b4badc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e290fbeacefefc9a498341852d5d74c8e5589ae420776f1f33a44d799b4badc"
+      },
+      "5": {
+        "source_ref": "Judges 17:5",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 5,
+            "source_ref": "Judges 17:5",
+            "segment_mode": "whole",
+            "sha256": "9813b53ba6c6e7c321274a40a38f88cc86c04935903bfe0523c87046a4c61f99"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9813b53ba6c6e7c321274a40a38f88cc86c04935903bfe0523c87046a4c61f99"
+      },
+      "6": {
+        "source_ref": "Judges 17:6",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 6,
+            "source_ref": "Judges 17:6",
+            "segment_mode": "whole",
+            "sha256": "bbbca7e41a29498acd2951fb2015b22e61a3fe23b4b5b31979030dea1ecc456a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bbbca7e41a29498acd2951fb2015b22e61a3fe23b4b5b31979030dea1ecc456a"
+      },
+      "7": {
+        "source_ref": "Judges 17:7",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 7,
+            "source_ref": "Judges 17:7",
+            "segment_mode": "whole",
+            "sha256": "722c64647f8b10ea264d2f9e8d886a2f499fbf2f619dfff4dd0c514a0820d9ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "722c64647f8b10ea264d2f9e8d886a2f499fbf2f619dfff4dd0c514a0820d9ff"
+      },
+      "8": {
+        "source_ref": "Judges 17:8",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 8,
+            "source_ref": "Judges 17:8",
+            "segment_mode": "whole",
+            "sha256": "b8479fca52fc3c12524938a39d331669712d9c1b71c6760b53d01924926aa6d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8479fca52fc3c12524938a39d331669712d9c1b71c6760b53d01924926aa6d3"
+      },
+      "9": {
+        "source_ref": "Judges 17:9",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 9,
+            "source_ref": "Judges 17:9",
+            "segment_mode": "whole",
+            "sha256": "10d96f3f7b7fa8dc2dce1de77bf083e54e83ac51dc8c623ac1de88bf51d52f9a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10d96f3f7b7fa8dc2dce1de77bf083e54e83ac51dc8c623ac1de88bf51d52f9a"
+      },
+      "10": {
+        "source_ref": "Judges 17:10",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 10,
+            "source_ref": "Judges 17:10",
+            "segment_mode": "whole",
+            "sha256": "1ada9c6ae9397822a2c1c75cd35a26e122f5c9c26ffc7ffd92420d5fb934893b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ada9c6ae9397822a2c1c75cd35a26e122f5c9c26ffc7ffd92420d5fb934893b"
+      },
+      "11": {
+        "source_ref": "Judges 17:11",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 11,
+            "source_ref": "Judges 17:11",
+            "segment_mode": "whole",
+            "sha256": "a4c1a7fbd23908594bab3fa15aa7bec9146877a3bc71f50927601e81f09b5268"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a4c1a7fbd23908594bab3fa15aa7bec9146877a3bc71f50927601e81f09b5268"
+      },
+      "12": {
+        "source_ref": "Judges 17:12",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 12,
+            "source_ref": "Judges 17:12",
+            "segment_mode": "whole",
+            "sha256": "64415dffa249bb05ce3aedefef2a32d7f618d2883f53ad66d15da163c060295a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64415dffa249bb05ce3aedefef2a32d7f618d2883f53ad66d15da163c060295a"
+      },
+      "13": {
+        "source_ref": "Judges 17:13",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 13,
+            "source_ref": "Judges 17:13",
+            "segment_mode": "whole",
+            "sha256": "e8ada0776be07ab8c355192b23678d6d4796726da64003e8f9b5db07a303a5c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8ada0776be07ab8c355192b23678d6d4796726da64003e8f9b5db07a303a5c3"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/judges/Judges_17.md",
+    "blob_sha": "365b01f63a44c1a81b60fed8f5a1c85ff3824598"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,154 @@
+{
+  "book": "Judges",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 21,
+  "public_verse_slots": 618,
+  "included_verse_labels": 618,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 618,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-3:6",
+      "decision": "Keep incomplete conquest, accommodation, oppression, and the book's recurring cycle distinct; do not idealize the violence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:7-5:31",
+      "decision": "Preserve the diverse deliverers, including Deborah and Jael, while retaining the narratives' morally difficult violence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "6:1-8:35",
+      "decision": "Keep Gideon's fear, calling, deliverance, retaliation, refusal of kingship, and quasi-royal aftermath in tension.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:1-57",
+      "decision": "Retain Abimelech's violent kingship, Jotham's fable, civil conflict, and narrative judgment.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:1-40",
+      "decision": "Translate Jephthah's vow and his daughter's tragedy without presenting either the vow or its fulfillment as divinely approved.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:1-16:31",
+      "decision": "Preserve Samson's divine calling, appetites, violence, exploitation, and final act without turning him into a simple moral hero.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "17:1-21:25",
+      "decision": "Keep idolatry, sexual violence, dismemberment, civil war, abduction, and social collapse as indictment, not endorsement.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_05",
+  "deployment_audit": {
+    "source_git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4",
+    "source_binding_count": 618,
+    "unique_source_record_count": 618,
+    "public_verse_slots": 618,
+    "ledger_summary": {
+      "F0": 32,
+      "F1": 1,
+      "F2": 0,
+      "F3": 585
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/judges/Judges_01.md",
+        "blob_sha": "00b2ed9e6dd795efa560d84d7ff053b381c50e81"
+      },
+      "02": {
+        "path": "books/OT/judges/Judges_02.md",
+        "blob_sha": "7c713ffe3ad3a086ecec0a7ea875b4bfd3c3fe17"
+      },
+      "03": {
+        "path": "books/OT/judges/Judges_03.md",
+        "blob_sha": "56dbf7a49645eb5c1e8a8f3bca4cd5e0646de08a"
+      },
+      "04": {
+        "path": "books/OT/judges/Judges_04.md",
+        "blob_sha": "3b443d760e1a3877796915179503a33d5f3def6b"
+      },
+      "05": {
+        "path": "books/OT/judges/Judges_05.md",
+        "blob_sha": "3a46b8efbff6fb28ea35334b69a51e3b6618bcd6"
+      },
+      "06": {
+        "path": "books/OT/judges/Judges_06.md",
+        "blob_sha": "0a0a56dde273f23a3c3da1cb4a08c9c38556265e"
+      },
+      "07": {
+        "path": "books/OT/judges/Judges_07.md",
+        "blob_sha": "21faff0f99380578dd6790a85c4e3b992130d1a7"
+      },
+      "08": {
+        "path": "books/OT/judges/Judges_08.md",
+        "blob_sha": "6f4b8bf024cf6e13bbf804946d3a333e057129c9"
+      },
+      "09": {
+        "path": "books/OT/judges/Judges_09.md",
+        "blob_sha": "14a3c72708d4b1d844c5662149b4cfd66207e6e6"
+      },
+      "10": {
+        "path": "books/OT/judges/Judges_10.md",
+        "blob_sha": "1aad3bc419506f7eea73bca722887017804177f6"
+      },
+      "11": {
+        "path": "books/OT/judges/Judges_11.md",
+        "blob_sha": "555f85522fcdded9a5b95f3172974a295c0c532c"
+      },
+      "12": {
+        "path": "books/OT/judges/Judges_12.md",
+        "blob_sha": "67fe66739edf17ec023e0f4c5e28c2fc602be76e"
+      },
+      "13": {
+        "path": "books/OT/judges/Judges_13.md",
+        "blob_sha": "115cbb158dce9316ac31edade5339f1924ab3941"
+      },
+      "14": {
+        "path": "books/OT/judges/Judges_14.md",
+        "blob_sha": "7424b3d64b00ecc9a3947501c8c26d98a3fb23b8"
+      },
+      "15": {
+        "path": "books/OT/judges/Judges_15.md",
+        "blob_sha": "ecfa33a194f15368fab5dbe275d64b5db01d5b78"
+      },
+      "16": {
+        "path": "books/OT/judges/Judges_16.md",
+        "blob_sha": "0e793d1c84de8d6cba06791055fe8b7838a79941"
+      },
+      "17": {
+        "path": "books/OT/judges/Judges_17.md",
+        "blob_sha": "365b01f63a44c1a81b60fed8f5a1c85ff3824598"
+      },
+      "18": {
+        "path": "books/OT/judges/Judges_18.md",
+        "blob_sha": "8b4399e0d3403c2561a656c9f98261986be3840c"
+      },
+      "19": {
+        "path": "books/OT/judges/Judges_19.md",
+        "blob_sha": "325ff811d0adf9106bbcd1a9e3eef308650b154c"
+      },
+      "20": {
+        "path": "books/OT/judges/Judges_20.md",
+        "blob_sha": "c24a2e74ea676999c9c3af934fc9f8ef5054f5f6"
+      },
+      "21": {
+        "path": "books/OT/judges/Judges_21.md",
+        "blob_sha": "434ad4c8d001b8cc28bf47ca7c4afe2cff57cbab"
+      }
+    }
+  }
+}

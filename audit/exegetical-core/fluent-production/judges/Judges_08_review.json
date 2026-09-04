@@ -1,0 +1,561 @@
+{
+  "book": "Judges",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Judges 8:1",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "Judges 8:1",
+            "segment_mode": "whole",
+            "sha256": "9dd7c372ba5432a75098e6ebc2322ac38768c0ec4ed2655990af97bb67803026"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9dd7c372ba5432a75098e6ebc2322ac38768c0ec4ed2655990af97bb67803026"
+      },
+      "2": {
+        "source_ref": "Judges 8:2",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "Judges 8:2",
+            "segment_mode": "whole",
+            "sha256": "ee001a63eb04e8633160c30ec257d20365eb510f1362ed31dcddc54255f6f46a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee001a63eb04e8633160c30ec257d20365eb510f1362ed31dcddc54255f6f46a"
+      },
+      "3": {
+        "source_ref": "Judges 8:3",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "Judges 8:3",
+            "segment_mode": "whole",
+            "sha256": "70662abc0ddc17b4e4f6ad8bec62367a54163633fb921adaebdbe07554867eb5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70662abc0ddc17b4e4f6ad8bec62367a54163633fb921adaebdbe07554867eb5"
+      },
+      "4": {
+        "source_ref": "Judges 8:4",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "Judges 8:4",
+            "segment_mode": "whole",
+            "sha256": "12c6a3f9f641cb170599ead908e7f55b6a18dff9a82f0e4fea7edae6f815f4bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12c6a3f9f641cb170599ead908e7f55b6a18dff9a82f0e4fea7edae6f815f4bb"
+      },
+      "5": {
+        "source_ref": "Judges 8:5",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "Judges 8:5",
+            "segment_mode": "whole",
+            "sha256": "347366cde340e862cf4eae1166cd0165cdabc0447bab2f8de7f908ea50f3aa59"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "347366cde340e862cf4eae1166cd0165cdabc0447bab2f8de7f908ea50f3aa59"
+      },
+      "6": {
+        "source_ref": "Judges 8:6",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "Judges 8:6",
+            "segment_mode": "whole",
+            "sha256": "18a919ede742ee41adf0817b5f3a71672b463caf8a4695dabe898a2cd6584f46"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18a919ede742ee41adf0817b5f3a71672b463caf8a4695dabe898a2cd6584f46"
+      },
+      "7": {
+        "source_ref": "Judges 8:7",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "Judges 8:7",
+            "segment_mode": "whole",
+            "sha256": "8656ec3f9187cd39bb64ecd867c92e106a95e1b9e0bda2326629728cf7e5fc8e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8656ec3f9187cd39bb64ecd867c92e106a95e1b9e0bda2326629728cf7e5fc8e"
+      },
+      "8": {
+        "source_ref": "Judges 8:8",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "Judges 8:8",
+            "segment_mode": "whole",
+            "sha256": "19581f10f24c74c6afc416c236f3e0b11ebd3f26c4f5954c050d2bd9018ee60e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "19581f10f24c74c6afc416c236f3e0b11ebd3f26c4f5954c050d2bd9018ee60e"
+      },
+      "9": {
+        "source_ref": "Judges 8:9",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "Judges 8:9",
+            "segment_mode": "whole",
+            "sha256": "18b6dfc3f81337920204d512d3f75d5736fd982925552bf856f9ed506a2973d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18b6dfc3f81337920204d512d3f75d5736fd982925552bf856f9ed506a2973d2"
+      },
+      "10": {
+        "source_ref": "Judges 8:10",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "Judges 8:10",
+            "segment_mode": "whole",
+            "sha256": "8afcb2b93457f14b043168a6244c6abe01ab93d016a9b61de7fedba74e1109e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8afcb2b93457f14b043168a6244c6abe01ab93d016a9b61de7fedba74e1109e8"
+      },
+      "11": {
+        "source_ref": "Judges 8:11",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 11,
+            "source_ref": "Judges 8:11",
+            "segment_mode": "whole",
+            "sha256": "c3af94c729462b60166879ecdbb086670986aae87313cf2dbacbe047ba09e8df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3af94c729462b60166879ecdbb086670986aae87313cf2dbacbe047ba09e8df"
+      },
+      "12": {
+        "source_ref": "Judges 8:12",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 12,
+            "source_ref": "Judges 8:12",
+            "segment_mode": "whole",
+            "sha256": "c0df2e7ba0ac9fb51369a7b0227670e886272edc55cab6ab9ca6079c10c5c2b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0df2e7ba0ac9fb51369a7b0227670e886272edc55cab6ab9ca6079c10c5c2b6"
+      },
+      "13": {
+        "source_ref": "Judges 8:13",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 13,
+            "source_ref": "Judges 8:13",
+            "segment_mode": "whole",
+            "sha256": "4ef9e11716e077553d4f4dd6f33a8b2656210b7c1efa185bdc4def6e6e1035b8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ef9e11716e077553d4f4dd6f33a8b2656210b7c1efa185bdc4def6e6e1035b8"
+      },
+      "14": {
+        "source_ref": "Judges 8:14",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 14,
+            "source_ref": "Judges 8:14",
+            "segment_mode": "whole",
+            "sha256": "aa422e1acc0857d6fc7d2ae21aa80c75d272d8d83004302d13d8870565b75a27"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa422e1acc0857d6fc7d2ae21aa80c75d272d8d83004302d13d8870565b75a27"
+      },
+      "15": {
+        "source_ref": "Judges 8:15",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 15,
+            "source_ref": "Judges 8:15",
+            "segment_mode": "whole",
+            "sha256": "d1c00b3df20301b4dd774b44fd5fa4e12145b66719ea97400c45e7fe1861bff9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1c00b3df20301b4dd774b44fd5fa4e12145b66719ea97400c45e7fe1861bff9"
+      },
+      "16": {
+        "source_ref": "Judges 8:16",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 16,
+            "source_ref": "Judges 8:16",
+            "segment_mode": "whole",
+            "sha256": "77c66d5d54f1c58ff3b94aecea8e61e3939d4cc8178e6f5ceb6d9513ee656e40"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77c66d5d54f1c58ff3b94aecea8e61e3939d4cc8178e6f5ceb6d9513ee656e40"
+      },
+      "17": {
+        "source_ref": "Judges 8:17",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 17,
+            "source_ref": "Judges 8:17",
+            "segment_mode": "whole",
+            "sha256": "e1f755a9b62a84ff8203703c8e2057ab47687d0939429df3daa8871cbca3863a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1f755a9b62a84ff8203703c8e2057ab47687d0939429df3daa8871cbca3863a"
+      },
+      "18": {
+        "source_ref": "Judges 8:18",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 18,
+            "source_ref": "Judges 8:18",
+            "segment_mode": "whole",
+            "sha256": "4f11e66de238c14cb6a04656d181fed527a5e55ea946c6f58d65670d80f4e160"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f11e66de238c14cb6a04656d181fed527a5e55ea946c6f58d65670d80f4e160"
+      },
+      "19": {
+        "source_ref": "Judges 8:19",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 19,
+            "source_ref": "Judges 8:19",
+            "segment_mode": "whole",
+            "sha256": "8e4c7da4a9bb21118964d00929eeb7a35002d0833410899b330fbec356fe51be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e4c7da4a9bb21118964d00929eeb7a35002d0833410899b330fbec356fe51be"
+      },
+      "20": {
+        "source_ref": "Judges 8:20",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 20,
+            "source_ref": "Judges 8:20",
+            "segment_mode": "whole",
+            "sha256": "ace4b81c2027a0e52047209f9f2de81c614f3c66f2575888f5d6675cc2b33cc6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ace4b81c2027a0e52047209f9f2de81c614f3c66f2575888f5d6675cc2b33cc6"
+      },
+      "21": {
+        "source_ref": "Judges 8:21",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 21,
+            "source_ref": "Judges 8:21",
+            "segment_mode": "whole",
+            "sha256": "4647572d5622f9852fcbd49081b2690f2615d62a3ecb84c781d12b23db27a1c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4647572d5622f9852fcbd49081b2690f2615d62a3ecb84c781d12b23db27a1c4"
+      },
+      "22": {
+        "source_ref": "Judges 8:22",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 22,
+            "source_ref": "Judges 8:22",
+            "segment_mode": "whole",
+            "sha256": "85c82aa81c943d15a66d99da42744c19a7bbf620e093454ec124dd54615ec7c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "85c82aa81c943d15a66d99da42744c19a7bbf620e093454ec124dd54615ec7c1"
+      },
+      "23": {
+        "source_ref": "Judges 8:23",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 23,
+            "source_ref": "Judges 8:23",
+            "segment_mode": "whole",
+            "sha256": "e8f2ec5debcb7d180fd643abc570c663c65238a9517a5964c922d0e70c85fe28"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8f2ec5debcb7d180fd643abc570c663c65238a9517a5964c922d0e70c85fe28"
+      },
+      "24": {
+        "source_ref": "Judges 8:24",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 24,
+            "source_ref": "Judges 8:24",
+            "segment_mode": "whole",
+            "sha256": "8a664d92563c5bb1f683184f98e9f6782ff2a250cc293d5d7dd8ac29207ac68f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a664d92563c5bb1f683184f98e9f6782ff2a250cc293d5d7dd8ac29207ac68f"
+      },
+      "25": {
+        "source_ref": "Judges 8:25",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 25,
+            "source_ref": "Judges 8:25",
+            "segment_mode": "whole",
+            "sha256": "b3996f8313645febce05638a83bff3a9d1fdcfd7187a8878513733842dfa6f76"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b3996f8313645febce05638a83bff3a9d1fdcfd7187a8878513733842dfa6f76"
+      },
+      "26": {
+        "source_ref": "Judges 8:26",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 26,
+            "source_ref": "Judges 8:26",
+            "segment_mode": "whole",
+            "sha256": "6bf2b77b716b3ac62ccd4af1b01b77ae731fb1477bfee428b744b021058ef453"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6bf2b77b716b3ac62ccd4af1b01b77ae731fb1477bfee428b744b021058ef453"
+      },
+      "27": {
+        "source_ref": "Judges 8:27",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 27,
+            "source_ref": "Judges 8:27",
+            "segment_mode": "whole",
+            "sha256": "d3b5c2b3cf38838ff13c40ee8d3629201a3f43bab6e1f0bd51fb585863d01049"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3b5c2b3cf38838ff13c40ee8d3629201a3f43bab6e1f0bd51fb585863d01049"
+      },
+      "28": {
+        "source_ref": "Judges 8:28",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 28,
+            "source_ref": "Judges 8:28",
+            "segment_mode": "whole",
+            "sha256": "b01a21b45cc5f6c74b94e04f0310065d765bf9346d4439e3a9bb47c5d7b55af4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b01a21b45cc5f6c74b94e04f0310065d765bf9346d4439e3a9bb47c5d7b55af4"
+      },
+      "29": {
+        "source_ref": "Judges 8:29",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 29,
+            "source_ref": "Judges 8:29",
+            "segment_mode": "whole",
+            "sha256": "c1a47ba5e05943be50c4547674c22b112dccfe51475a7a9bc865d00b19408931"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1a47ba5e05943be50c4547674c22b112dccfe51475a7a9bc865d00b19408931"
+      },
+      "30": {
+        "source_ref": "Judges 8:30",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 30,
+            "source_ref": "Judges 8:30",
+            "segment_mode": "whole",
+            "sha256": "da270021a5552734ea90a257079aa4ea5ca10718e7fec89ab95017f774cb8396"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da270021a5552734ea90a257079aa4ea5ca10718e7fec89ab95017f774cb8396"
+      },
+      "31": {
+        "source_ref": "Judges 8:31",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 31,
+            "source_ref": "Judges 8:31",
+            "segment_mode": "whole",
+            "sha256": "b01f8dca20196487983a107dd0ab711eafe65a3b9e7b254e3c35d527980990aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b01f8dca20196487983a107dd0ab711eafe65a3b9e7b254e3c35d527980990aa"
+      },
+      "32": {
+        "source_ref": "Judges 8:32",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 32,
+            "source_ref": "Judges 8:32",
+            "segment_mode": "whole",
+            "sha256": "fea1de75b601a01af580d9d520eea9dab22d7841f94bd4074ac82ca133115f11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fea1de75b601a01af580d9d520eea9dab22d7841f94bd4074ac82ca133115f11"
+      },
+      "33": {
+        "source_ref": "Judges 8:33",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 33,
+            "source_ref": "Judges 8:33",
+            "segment_mode": "whole",
+            "sha256": "99c2c20ff1b364b37a81bacbdf5687726c120dbf073f58611be4312ec368d969"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "99c2c20ff1b364b37a81bacbdf5687726c120dbf073f58611be4312ec368d969"
+      },
+      "34": {
+        "source_ref": "Judges 8:34",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 34,
+            "source_ref": "Judges 8:34",
+            "segment_mode": "whole",
+            "sha256": "722fd4c49482eb53d40a8482a8d9949da73614f9f9e12c107a7e24dae46e4e11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "722fd4c49482eb53d40a8482a8d9949da73614f9f9e12c107a7e24dae46e4e11"
+      },
+      "35": {
+        "source_ref": "Judges 8:35",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 35,
+            "source_ref": "Judges 8:35",
+            "segment_mode": "whole",
+            "sha256": "4df503b27950fc82d8689cc39225717f90e2d3c8469a48e2fdfb98373415d6ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4df503b27950fc82d8689cc39225717f90e2d3c8469a48e2fdfb98373415d6ce"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/judges/Judges_08.md",
+    "blob_sha": "6f4b8bf024cf6e13bbf804946d3a333e057129c9"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

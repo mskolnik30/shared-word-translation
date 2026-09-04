@@ -1,0 +1,336 @@
+{
+  "book": "Judges",
+  "chapter": 14,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Judg.xml",
+    "git_blob_sha": "8732f355c2d6718aa2d0a8821c451ad0450eacb4",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Judges 14:1",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 1,
+            "source_ref": "Judges 14:1",
+            "segment_mode": "whole",
+            "sha256": "20c9c423fd35e367936bb47fc8127ace1fc03ad6f1a80199189902338b562c12"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "20c9c423fd35e367936bb47fc8127ace1fc03ad6f1a80199189902338b562c12"
+      },
+      "2": {
+        "source_ref": "Judges 14:2",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 2,
+            "source_ref": "Judges 14:2",
+            "segment_mode": "whole",
+            "sha256": "6c8f28ef5bb83e39e3442a3f1cf8af1d069db2c494ab834953480bfe4fb7418e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c8f28ef5bb83e39e3442a3f1cf8af1d069db2c494ab834953480bfe4fb7418e"
+      },
+      "3": {
+        "source_ref": "Judges 14:3",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 3,
+            "source_ref": "Judges 14:3",
+            "segment_mode": "whole",
+            "sha256": "e19f250ca2841f1a15aeef848c55efb74beee52965d6bb487e5777fec38787ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e19f250ca2841f1a15aeef848c55efb74beee52965d6bb487e5777fec38787ad"
+      },
+      "4": {
+        "source_ref": "Judges 14:4",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 4,
+            "source_ref": "Judges 14:4",
+            "segment_mode": "whole",
+            "sha256": "41982b0689cccd2f8746153c3a08eaf11964cf4db4c8c4159be449515e72d6e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41982b0689cccd2f8746153c3a08eaf11964cf4db4c8c4159be449515e72d6e7"
+      },
+      "5": {
+        "source_ref": "Judges 14:5",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 5,
+            "source_ref": "Judges 14:5",
+            "segment_mode": "whole",
+            "sha256": "ff9c03848209c19459293151369c7fc367193f84f0ef3d124d4fb63ce0725365"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff9c03848209c19459293151369c7fc367193f84f0ef3d124d4fb63ce0725365"
+      },
+      "6": {
+        "source_ref": "Judges 14:6",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 6,
+            "source_ref": "Judges 14:6",
+            "segment_mode": "whole",
+            "sha256": "1c1ae141a0015dc605f6d7ff6a1163d456afee67e7b8bd924821a44967d0a519"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1c1ae141a0015dc605f6d7ff6a1163d456afee67e7b8bd924821a44967d0a519"
+      },
+      "7": {
+        "source_ref": "Judges 14:7",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 7,
+            "source_ref": "Judges 14:7",
+            "segment_mode": "whole",
+            "sha256": "efef14ef959a432d92f09e610a97d81c67e0df0cee200f250bd42a643753259f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "efef14ef959a432d92f09e610a97d81c67e0df0cee200f250bd42a643753259f"
+      },
+      "8": {
+        "source_ref": "Judges 14:8",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 8,
+            "source_ref": "Judges 14:8",
+            "segment_mode": "whole",
+            "sha256": "92d89dda9c50b266c4a40c8f43e9f74f245d530f23c113d619e58c46d79069d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "92d89dda9c50b266c4a40c8f43e9f74f245d530f23c113d619e58c46d79069d3"
+      },
+      "9": {
+        "source_ref": "Judges 14:9",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 9,
+            "source_ref": "Judges 14:9",
+            "segment_mode": "whole",
+            "sha256": "0f15b3d9980038b04c4929c1b63f48bcabc8dbad52f9506ceddc9c7645257a71"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f15b3d9980038b04c4929c1b63f48bcabc8dbad52f9506ceddc9c7645257a71"
+      },
+      "10": {
+        "source_ref": "Judges 14:10",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 10,
+            "source_ref": "Judges 14:10",
+            "segment_mode": "whole",
+            "sha256": "6be2aee3a71be5a38bd62f083d6a041636e8140ab1c54b3efea86c03120ae926"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6be2aee3a71be5a38bd62f083d6a041636e8140ab1c54b3efea86c03120ae926"
+      },
+      "11": {
+        "source_ref": "Judges 14:11",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 11,
+            "source_ref": "Judges 14:11",
+            "segment_mode": "whole",
+            "sha256": "9821a38d0cef9a591e1ebc2b76f1a9e44b5460a4edfc60438b5724f1fd5f7b35"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9821a38d0cef9a591e1ebc2b76f1a9e44b5460a4edfc60438b5724f1fd5f7b35"
+      },
+      "12": {
+        "source_ref": "Judges 14:12",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 12,
+            "source_ref": "Judges 14:12",
+            "segment_mode": "whole",
+            "sha256": "4c8b64dd9c015515e8dcf4ec440afa03b662bd283672eaad70755951beaf4004"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c8b64dd9c015515e8dcf4ec440afa03b662bd283672eaad70755951beaf4004"
+      },
+      "13": {
+        "source_ref": "Judges 14:13",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 13,
+            "source_ref": "Judges 14:13",
+            "segment_mode": "whole",
+            "sha256": "d9036379634138e13c96767818fb1c10fe22475fc9121ea6a0b7c1377f628631"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9036379634138e13c96767818fb1c10fe22475fc9121ea6a0b7c1377f628631"
+      },
+      "14": {
+        "source_ref": "Judges 14:14",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 14,
+            "source_ref": "Judges 14:14",
+            "segment_mode": "whole",
+            "sha256": "011b665a1f01a3e3c35c045ecc0130e021995fb5c63761a5b2b2607e0dafdd5b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "011b665a1f01a3e3c35c045ecc0130e021995fb5c63761a5b2b2607e0dafdd5b"
+      },
+      "15": {
+        "source_ref": "Judges 14:15",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 15,
+            "source_ref": "Judges 14:15",
+            "segment_mode": "whole",
+            "sha256": "d3648f09926e5c73082c157f884476871e31dc9e04cf965bdab24048a8ab65e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3648f09926e5c73082c157f884476871e31dc9e04cf965bdab24048a8ab65e6"
+      },
+      "16": {
+        "source_ref": "Judges 14:16",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 16,
+            "source_ref": "Judges 14:16",
+            "segment_mode": "whole",
+            "sha256": "2229d06bfa0b66d2d13713c8617cd6b3c00102475f55271389493fc1754b78b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2229d06bfa0b66d2d13713c8617cd6b3c00102475f55271389493fc1754b78b5"
+      },
+      "17": {
+        "source_ref": "Judges 14:17",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 17,
+            "source_ref": "Judges 14:17",
+            "segment_mode": "whole",
+            "sha256": "10a37baf9ed59ce7d391515483f603d6de4e87c52d21713883f5af71fb9c6381"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10a37baf9ed59ce7d391515483f603d6de4e87c52d21713883f5af71fb9c6381"
+      },
+      "18": {
+        "source_ref": "Judges 14:18",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 18,
+            "source_ref": "Judges 14:18",
+            "segment_mode": "whole",
+            "sha256": "8acf5ac67e5f99dc872456bb40cef9d37e530703b47cac3777c26d942fd70f30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8acf5ac67e5f99dc872456bb40cef9d37e530703b47cac3777c26d942fd70f30"
+      },
+      "19": {
+        "source_ref": "Judges 14:19",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 19,
+            "source_ref": "Judges 14:19",
+            "segment_mode": "whole",
+            "sha256": "9c4f24f94b25a4bcae72bcd817d70708d40b4c2daf2dfada7aa0af9dd89e12c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c4f24f94b25a4bcae72bcd817d70708d40b4c2daf2dfada7aa0af9dd89e12c9"
+      },
+      "20": {
+        "source_ref": "Judges 14:20",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 20,
+            "source_ref": "Judges 14:20",
+            "segment_mode": "whole",
+            "sha256": "8ff6e12157d434d1178c8c314b343c1df337df394e46b1ef465c464278c1747e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ff6e12157d434d1178c8c314b343c1df337df394e46b1ef465c464278c1747e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/judges/Judges_14.md",
+    "blob_sha": "7424b3d64b00ecc9a3947501c8c26d98a3fb23b8"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
