@@ -1,0 +1,321 @@
+{
+  "book": "Hebrews",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Hebrews 3:1",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 1,
+            "source_ref": "Hebrews 3:1",
+            "segment_mode": "whole",
+            "sha256": "b70dade1fa9e110890ae16154b8e46f66dd15276b542c1f761ae94c0ad460a67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b70dade1fa9e110890ae16154b8e46f66dd15276b542c1f761ae94c0ad460a67"
+      },
+      "2": {
+        "source_ref": "Hebrews 3:2",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 2,
+            "source_ref": "Hebrews 3:2",
+            "segment_mode": "whole",
+            "sha256": "a8c1ff595d1eb2797c0e663aee585c19016a901b0afd538d639e3d4af50c0fbd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8c1ff595d1eb2797c0e663aee585c19016a901b0afd538d639e3d4af50c0fbd"
+      },
+      "3": {
+        "source_ref": "Hebrews 3:3",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 3,
+            "source_ref": "Hebrews 3:3",
+            "segment_mode": "whole",
+            "sha256": "0788d70961efb2ec854f0d1e8f249d9506c743796c8922154f628ab5ccd98f71"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0788d70961efb2ec854f0d1e8f249d9506c743796c8922154f628ab5ccd98f71"
+      },
+      "4": {
+        "source_ref": "Hebrews 3:4",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 4,
+            "source_ref": "Hebrews 3:4",
+            "segment_mode": "whole",
+            "sha256": "772dcda90c7ed4e00ffb1c6351189e29f171054d105f08fc6cf5b0448b2a8d77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "772dcda90c7ed4e00ffb1c6351189e29f171054d105f08fc6cf5b0448b2a8d77"
+      },
+      "5": {
+        "source_ref": "Hebrews 3:5",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 5,
+            "source_ref": "Hebrews 3:5",
+            "segment_mode": "whole",
+            "sha256": "5a50307451bc43a42483af64a0aab13c0602fdc942655b72c442550e3aaca6bc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a50307451bc43a42483af64a0aab13c0602fdc942655b72c442550e3aaca6bc"
+      },
+      "6": {
+        "source_ref": "Hebrews 3:6",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 6,
+            "source_ref": "Hebrews 3:6",
+            "segment_mode": "whole",
+            "sha256": "5309083aa7e1d41af2ba68d478ce7f2b7e9bbd5135822f13fe0e537825627564"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5309083aa7e1d41af2ba68d478ce7f2b7e9bbd5135822f13fe0e537825627564"
+      },
+      "7": {
+        "source_ref": "Hebrews 3:7",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 7,
+            "source_ref": "Hebrews 3:7",
+            "segment_mode": "whole",
+            "sha256": "38de98f8bc747e972eef4e10aa94490e87ad06600e7c096c985e575981759978"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "38de98f8bc747e972eef4e10aa94490e87ad06600e7c096c985e575981759978"
+      },
+      "8": {
+        "source_ref": "Hebrews 3:8",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 8,
+            "source_ref": "Hebrews 3:8",
+            "segment_mode": "whole",
+            "sha256": "9382848dbfc5807bf0ae174fdfb28d99f4221c388d154a8ff79ad64edc1bf3cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9382848dbfc5807bf0ae174fdfb28d99f4221c388d154a8ff79ad64edc1bf3cd"
+      },
+      "9": {
+        "source_ref": "Hebrews 3:9",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 9,
+            "source_ref": "Hebrews 3:9",
+            "segment_mode": "whole",
+            "sha256": "e210b3ed80bb4bd1bcad13c437fb03b57513cd555e70839bbb1498d801fbaf20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e210b3ed80bb4bd1bcad13c437fb03b57513cd555e70839bbb1498d801fbaf20"
+      },
+      "10": {
+        "source_ref": "Hebrews 3:10",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 10,
+            "source_ref": "Hebrews 3:10",
+            "segment_mode": "whole",
+            "sha256": "bb931524354ceaa5d508b2f1c1b7564b42432d12529c88879c20793331257195"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb931524354ceaa5d508b2f1c1b7564b42432d12529c88879c20793331257195"
+      },
+      "11": {
+        "source_ref": "Hebrews 3:11",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 11,
+            "source_ref": "Hebrews 3:11",
+            "segment_mode": "whole",
+            "sha256": "d7326393712299e60aa5de7ea3c7069a791b4dde7f7515df5ca0163ce87c7dfd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7326393712299e60aa5de7ea3c7069a791b4dde7f7515df5ca0163ce87c7dfd"
+      },
+      "12": {
+        "source_ref": "Hebrews 3:12",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 12,
+            "source_ref": "Hebrews 3:12",
+            "segment_mode": "whole",
+            "sha256": "8edf00bfaf9c61f3f83eb07060b834818196164d4fc1c02f30cf1584915c714a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8edf00bfaf9c61f3f83eb07060b834818196164d4fc1c02f30cf1584915c714a"
+      },
+      "13": {
+        "source_ref": "Hebrews 3:13",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 13,
+            "source_ref": "Hebrews 3:13",
+            "segment_mode": "whole",
+            "sha256": "60c212d22bcd10e0da863c69c8c443d923d37cd3a6e78f95d9d2905689443175"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60c212d22bcd10e0da863c69c8c443d923d37cd3a6e78f95d9d2905689443175"
+      },
+      "14": {
+        "source_ref": "Hebrews 3:14",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 14,
+            "source_ref": "Hebrews 3:14",
+            "segment_mode": "whole",
+            "sha256": "b2708bc5daff8b54d4155a93bb689c9292312011f15ecd56e35c1a696cb8acac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2708bc5daff8b54d4155a93bb689c9292312011f15ecd56e35c1a696cb8acac"
+      },
+      "15": {
+        "source_ref": "Hebrews 3:15",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 15,
+            "source_ref": "Hebrews 3:15",
+            "segment_mode": "whole",
+            "sha256": "44525d94add6bdf8f565693449c240b49266a82ac69cd5f3b38466525b27e1b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44525d94add6bdf8f565693449c240b49266a82ac69cd5f3b38466525b27e1b1"
+      },
+      "16": {
+        "source_ref": "Hebrews 3:16",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 16,
+            "source_ref": "Hebrews 3:16",
+            "segment_mode": "whole",
+            "sha256": "e27313ad0d9bfcd5402c9ca1b6b5f9ba624e3eb966b7fba5d2733011d0a45bc8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e27313ad0d9bfcd5402c9ca1b6b5f9ba624e3eb966b7fba5d2733011d0a45bc8"
+      },
+      "17": {
+        "source_ref": "Hebrews 3:17",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 17,
+            "source_ref": "Hebrews 3:17",
+            "segment_mode": "whole",
+            "sha256": "db38f4174b7639e0316a5538d5c8926d429f33edc5e3945931b2413a7cf159ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db38f4174b7639e0316a5538d5c8926d429f33edc5e3945931b2413a7cf159ea"
+      },
+      "18": {
+        "source_ref": "Hebrews 3:18",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 18,
+            "source_ref": "Hebrews 3:18",
+            "segment_mode": "whole",
+            "sha256": "09912419f4350a41ae9ff7e7af3522c3d78558299b6c235302d850b6c7ce2144"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09912419f4350a41ae9ff7e7af3522c3d78558299b6c235302d850b6c7ce2144"
+      },
+      "19": {
+        "source_ref": "Hebrews 3:19",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 19,
+            "source_ref": "Hebrews 3:19",
+            "segment_mode": "whole",
+            "sha256": "665c91d627ebe787e0ddeeab9f0611f17eb201fa02e2a59254a40ab7faeb833c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "665c91d627ebe787e0ddeeab9f0611f17eb201fa02e2a59254a40ab7faeb833c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/hebrews/Hebrews_03.md",
+    "blob_sha": "796927ae4203319d65265bb9f84708ce0aa76356"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
