@@ -47,6 +47,12 @@ Use these names consistently:
 - **The Shared Word Translation (TSW)** — the close-reading translation
 - **Fluent Translation** — the natural-reading translation
 - **Church Commons Bible Reader** — the shared reading interface
-- **Fluent Companion** — the future formational layer of introductions, context, reflection, prayer, and practices
+- **Fluent Companion** — the formational layer of introductions, context, reflection, prayer, and practices
+- **TSW Study Companion** — the study layer for language, contested interpretation, reception history, power, harm, and shared discernment
+- **Shared Biblical World** — translation-neutral people, places, maps, timelines, artifacts, and images used by both companions
 
 “The Shared Word Translation” should no longer be used as the umbrella name when both translations are meant.
+
+## Companion relationship
+
+Companions are not additional translations. Fluent Companion normally begins with the movement of the Fluent text and helps readers grow in biblical fluency. TSW Study Companion normally begins with the textual and interpretive pressures that TSW keeps visible. Both may reference the same translation-neutral biblical-world records rather than maintaining duplicate people, place, map, or image libraries.

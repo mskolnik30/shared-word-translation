@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "batch_id": "tsw-study-batch01",
+  "title": "TSW Study Companion Batch One",
+  "status": "APPROVED_FOR_PUBLICATION",
+  "dossier_count": 10,
+  "required_sections": [
+    "First Look",
+    "Why This Matters",
+    "Look Closely",
+    "More Than One Reading",
+    "Across Christian History",
+    "Power and Consequences",
+    "Consider Together",
+    "Shared Biblical World",
+    "Continue Exploring",
+    "Sources and Further Study"
+  ],
+  "dossiers": [
+    {
+      "id": "tsw-study-philippians-2-5-11",
+      "passage": "Philippians 2:5-11",
+      "file": "companions/tsw-study/dossiers/philippians-2-5-11.md",
+      "tsw_source": "books/NT/philippians/Philippians_02.md",
+      "review_focus": ["Greek", "Christology", "slavery language", "feminist and trauma-aware reception"]
+    },
+    {
+      "id": "tsw-study-genesis-1-26-28",
+      "passage": "Genesis 1:26-28",
+      "file": "companions/tsw-study/dossiers/genesis-1-26-28.md",
+      "tsw_source": "books/OT/genesis/Genesis_01.md",
+      "review_focus": ["Hebrew", "ancient royal imagery", "ecological interpretation", "disability theology"]
+    },
+    {
+      "id": "tsw-study-genesis-22-1-19",
+      "passage": "Genesis 22:1-19",
+      "file": "companions/tsw-study/dossiers/genesis-22-1-19.md",
+      "tsw_source": "books/OT/genesis/Genesis_22.md",
+      "review_focus": ["Hebrew", "Jewish Akedah reception", "child protection", "interreligious reception"]
+    },
+    {
+      "id": "tsw-study-exodus-3-13-15",
+      "passage": "Exodus 3:13-15",
+      "file": "companions/tsw-study/dossiers/exodus-3-13-15.md",
+      "tsw_source": "books/OT/exodus/Exodus_03.md",
+      "review_focus": ["Hebrew verbal aspect", "Jewish naming practice", "patristic metaphysics", "liberation theology"]
+    },
+    {
+      "id": "tsw-study-joshua-6-15-27",
+      "passage": "Joshua 6:15-27",
+      "file": "companions/tsw-study/dossiers/joshua-6-15-27.md",
+      "tsw_source": "books/OT/joshua/Joshua_06.md",
+      "review_focus": ["Hebrew herem", "archaeology", "war rhetoric", "Indigenous and Palestinian reception"]
+    },
+    {
+      "id": "tsw-study-psalm-22",
+      "passage": "Psalm 22",
+      "file": "companions/tsw-study/dossiers/psalm-22.md",
+      "tsw_source": "books/OT/psalms/Psalm_022.md",
+      "review_focus": ["Hebrew textual criticism", "Jewish reading", "Gospel reception", "trauma-aware interpretation"]
+    },
+    {
+      "id": "tsw-study-isaiah-7-10-17",
+      "passage": "Isaiah 7:10-17",
+      "file": "companions/tsw-study/dossiers/isaiah-7-10-17.md",
+      "tsw_source": "books/OT/isaiah/Isaiah_07.md",
+      "review_focus": ["Hebrew and Septuagint", "Syro-Ephraimite history", "Jewish-Christian relations", "Matthean reception"]
+    },
+    {
+      "id": "tsw-study-matthew-16-13-20",
+      "passage": "Matthew 16:13-20",
+      "file": "companions/tsw-study/dossiers/matthew-16-13-20.md",
+      "tsw_source": "books/NT/matthew/Matthew_16.md",
+      "review_focus": ["Greek and Aramaic wordplay", "Catholic reception", "Orthodox reception", "Protestant reception", "institutional accountability"]
+    },
+    {
+      "id": "tsw-study-romans-3-21-26",
+      "passage": "Romans 3:21-26",
+      "file": "companions/tsw-study/dossiers/romans-3-21-26.md",
+      "tsw_source": "books/NT/romans/Romans_03.md",
+      "review_focus": ["Greek genitives", "hilasterion", "Jew-Gentile context", "atonement and abuse"]
+    },
+    {
+      "id": "tsw-study-1-corinthians-14-33b-36",
+      "passage": "1 Corinthians 14:33b-36",
+      "file": "companions/tsw-study/dossiers/1-corinthians-14-33b-36.md",
+      "tsw_source": "books/NT/1corinthians/1Corinthians_14.md",
+      "review_focus": ["Greek", "manuscript transposition", "women in early assemblies", "history of harm"]
+    }
+  ],
+  "review_manifest": "audit/tsw-study/batch01_review.json"
+}

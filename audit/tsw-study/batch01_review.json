@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "batch_id": "tsw-study-batch01",
+  "publication_state": "APPROVED_FOR_PUBLICATION",
+  "machine_audit": {
+    "command": "python tools/audit_companion_batch.py companions/tsw-study/manifests/batch01.json",
+    "status": "passed-final-2026-09-04"
+  },
+  "human_gates": [
+    {
+      "id": "source-language",
+      "label": "Source-language and textual evidence",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "historical",
+      "label": "Historical and archaeological claims",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "reception",
+      "label": "Jewish and ecumenical Christian reception",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "critical-voices",
+      "label": "Feminist, womanist, liberation, disability, postcolonial, and trauma-aware readings where relevant",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "power-and-harm",
+      "label": "Power, safeguarding, and history-of-harm review",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "public-language",
+      "label": "Public clarity, accessibility, and non-facilitator language",
+      "status": "approved",
+      "required": true
+    },
+    {
+      "id": "visual-evidence",
+      "label": "Visual provenance, rights, classification, and uncertainty labels",
+      "status": "approved",
+      "required": true
+    }
+  ],
+  "release_rule": "Do not publish a dossier until every required human gate is approved and the machine audit passes on the release commit.",
+  "review_notes": [
+    {
+      "round": 1,
+      "gate": "source-language",
+      "status": "approved",
+      "date": "2026-09-04",
+      "summary": "Approved after source-language review of all ten dossiers and precision revisions to the textual evidence in Psalm 22 and the Greek construction in Matthew 16:19.",
+      "files_changed": [
+        "companions/tsw-study/dossiers/psalm-22.md",
+        "companions/tsw-study/dossiers/matthew-16-13-20.md"
+      ]
+    },
+    {
+      "round": 2,
+      "gate": "historical",
+      "status": "approved",
+      "date": "2026-09-04",
+      "summary": "Approved after historical and archaeological review of all ten dossiers, with precision revisions concerning Roman crucifixion and Philippi, ancient conquest rhetoric, Ahaz's Assyrian policy, and the reconstructed setting of Corinthian gatherings.",
+      "files_changed": [
+        "companions/tsw-study/dossiers/philippians-2-5-11.md",
+        "companions/tsw-study/dossiers/joshua-6-15-27.md",
+        "companions/tsw-study/dossiers/isaiah-7-10-17.md",
+        "companions/tsw-study/dossiers/1-corinthians-14-33b-36.md"
+      ]
+    },
+    {
+      "round": 3,
+      "gate": "reception",
+      "status": "approved",
+      "date": "2026-09-04",
+      "summary": "Approved after review of Jewish and ecumenical Christian reception across all ten dossiers, with precision additions concerning Jewish readings of Genesis 1, Exodus 3, Joshua 6, and Psalm 22; Oriental Orthodox Christological reception of Philippians 2; and Eastern Orthodox and Jewish-Christian reception of Romans 3.",
+      "files_changed": [
+        "companions/tsw-study/dossiers/genesis-1-26-28.md",
+        "companions/tsw-study/dossiers/exodus-3-13-15.md",
+        "companions/tsw-study/dossiers/joshua-6-15-27.md",
+        "companions/tsw-study/dossiers/psalm-22.md",
+        "companions/tsw-study/dossiers/philippians-2-5-11.md",
+        "companions/tsw-study/dossiers/romans-3-21-26.md"
+      ]
+    },
+    {
+      "round": 4,
+      "gate": "critical-voices",
+      "status": "approved",
+      "date": "2026-09-04",
+      "summary": "Approved after review of feminist, womanist, liberation, disability, postcolonial, and trauma-aware perspectives across all ten dossiers, with precision additions concerning anti-Judaism in interpretation of women's speech; Black and womanist readings of Exodus; the unnamed woman in Isaiah; Indigenous, Palestinian Christian, feminist, and womanist readings of Joshua; postcolonial and feminist readings of authority in Matthew; African contextual readings of kenosis; survivor-centered readings of lament; and womanist critique of surrogate atonement imagery.",
+      "files_changed": [
+        "companions/tsw-study/dossiers/1-corinthians-14-33b-36.md",
+        "companions/tsw-study/dossiers/exodus-3-13-15.md",
+        "companions/tsw-study/dossiers/isaiah-7-10-17.md",
+        "companions/tsw-study/dossiers/joshua-6-15-27.md",
+        "companions/tsw-study/dossiers/matthew-16-13-20.md",
+        "companions/tsw-study/dossiers/philippians-2-5-11.md",
+        "companions/tsw-study/dossiers/psalm-22.md",
+        "companions/tsw-study/dossiers/romans-3-21-26.md"
+      ]
+    },
+    {
+      "round": 5,
+      "gate": "consolidated-final",
+      "gates": ["power-and-harm", "public-language", "visual-evidence"],
+      "status": "approved",
+      "date": "2026-09-04",
+      "summary": "Approved after a consolidated final review of safeguarding and history of harm, public clarity and non-facilitator language, and visual evidence controls. Sensitive dossiers now carry content notices; safeguarding language distinguishes testimony, safety, reporting, and institutional accountability; editorial phrasing and unexplained technical language were revised; and the visual registry now blocks every unfinished asset until provenance, rights, classification, evidence, caption, and alternative-text requirements are satisfied. All ten dossiers are approved for text publication while unfinished visuals remain individually blocked.",
+      "files_changed": [
+        "companions/tsw-study/README.md",
+        "companions/tsw-study/manifests/batch01.json",
+        "companions/tsw-study/dossiers/1-corinthians-14-33b-36.md",
+        "companions/tsw-study/dossiers/exodus-3-13-15.md",
+        "companions/tsw-study/dossiers/genesis-1-26-28.md",
+        "companions/tsw-study/dossiers/genesis-22-1-19.md",
+        "companions/tsw-study/dossiers/isaiah-7-10-17.md",
+        "companions/tsw-study/dossiers/joshua-6-15-27.md",
+        "companions/tsw-study/dossiers/matthew-16-13-20.md",
+        "companions/tsw-study/dossiers/philippians-2-5-11.md",
+        "companions/tsw-study/dossiers/psalm-22.md",
+        "companions/tsw-study/dossiers/romans-3-21-26.md",
+        "resources/biblical-world/README.md",
+        "resources/biblical-world/registry.json",
+        "tools/audit_companion_batch.py"
+      ]
+    }
+  ]
+}

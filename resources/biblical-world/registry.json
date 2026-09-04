@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "records": [
+    {"id":"person-abraham","type":"person","label":"Abraham","status":"shared-record-needed"},
+    {"id":"person-isaac","type":"person","label":"Isaac","status":"shared-record-needed"},
+    {"id":"person-moses","type":"person","label":"Moses","status":"shared-record-needed"},
+    {"id":"person-rahab","type":"person","label":"Rahab","status":"shared-record-needed"},
+    {"id":"person-isaiah","type":"person","label":"Isaiah","status":"shared-record-needed"},
+    {"id":"person-ahaz","type":"person","label":"Ahaz","status":"shared-record-needed"},
+    {"id":"person-jesus","type":"person","label":"Jesus","status":"shared-record-needed"},
+    {"id":"person-simon-peter","type":"person","label":"Simon Peter","status":"shared-record-needed"},
+    {"id":"person-paul","type":"person","label":"Paul","status":"shared-record-needed"},
+    {"id":"place-philippi","type":"place","label":"Philippi","status":"shared-record-needed"},
+    {"id":"place-moriah","type":"place","label":"The land of Moriah","status":"shared-record-needed"},
+    {"id":"place-horeb-sinai","type":"place","label":"Horeb / Sinai","status":"shared-record-needed"},
+    {"id":"place-jericho","type":"place","label":"Jericho / Tell es-Sultan","status":"shared-record-needed"},
+    {"id":"place-jerusalem","type":"place","label":"Jerusalem","status":"shared-record-needed"},
+    {"id":"place-caesarea-philippi","type":"place","label":"Caesarea Philippi","status":"shared-record-needed"},
+    {"id":"place-rome","type":"place","label":"Rome","status":"shared-record-needed"},
+    {"id":"place-corinth","type":"place","label":"Corinth","status":"shared-record-needed"},
+    {"id":"context-roman-status","type":"context","label":"Status and benefaction in the Roman world","status":"shared-record-needed"},
+    {"id":"context-ancient-royal-image","type":"context","label":"Royal image language in the ancient Near East","status":"shared-record-needed"},
+    {"id":"context-child-sacrifice","type":"context","label":"Child sacrifice and firstborn offerings","status":"shared-record-needed"},
+    {"id":"context-divine-name","type":"context","label":"The divine name in Jewish and Christian tradition","status":"shared-record-needed"},
+    {"id":"context-ancient-war-rhetoric","type":"context","label":"Ancient war rhetoric and the ban","status":"shared-record-needed"},
+    {"id":"context-crucifixion","type":"context","label":"Roman crucifixion","status":"shared-record-needed"},
+    {"id":"context-syro-ephraimite-crisis","type":"context","label":"The Syro-Ephraimite crisis","status":"shared-record-needed"},
+    {"id":"context-second-temple-atonement","type":"context","label":"Atonement and the sanctuary in Second Temple Judaism","status":"shared-record-needed"},
+    {"id":"context-corinthian-assembly","type":"context","label":"Speech and order in the Corinthian assembly","status":"shared-record-needed"}
+  ],
+  "visual_requests": [
+    {"id":"visual-philippi-regional","record":"place-philippi","class":"geographic map","views":["far","regional","close"],"claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-moriah-traditions","record":"place-moriah","class":"schematic map","claim_label":"disputed","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-horeb-sinai-traditions","record":"place-horeb-sinai","class":"schematic map","claim_label":"disputed","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-jericho-archaeology","record":"place-jericho","class":"archaeological photograph","claim_label":"disputed","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-syro-ephraimite-region","record":"context-syro-ephraimite-crisis","class":"geographic map","views":["far","regional","close"],"claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-caesarea-philippi","record":"place-caesarea-philippi","class":"archaeological photograph","claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-mercy-seat","record":"context-second-temple-atonement","class":"evidence-based reconstruction","claim_label":"probable","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-corinth-assembly","record":"context-corinthian-assembly","class":"interpretive orientation image","claim_label":"interpretive","rights_status":"not-acquired","publication_status":"blocked","status":"needed"}
+  ]
+}
