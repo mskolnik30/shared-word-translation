@@ -1,0 +1,582 @@
+{
+  "book": "Exodus",
+  "chapter": 16,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "16:1-18:27",
+      "decision": "Preserve wilderness complaint, provision, Sabbath, conflict, and shared leadership.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 16:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 1,
+            "source_ref": "Exodus 16:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "415021ab2b44bbb555b3eb6cc38191aafb0ddbfd501e1f448a70c6f81cdae058"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "415021ab2b44bbb555b3eb6cc38191aafb0ddbfd501e1f448a70c6f81cdae058"
+      },
+      "2": {
+        "source_ref": "Exodus 16:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 2,
+            "source_ref": "Exodus 16:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b7a72b0a4ff67d0be39fab979749440cd471d4e243a80bf3ce8f1dfe184a7cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b7a72b0a4ff67d0be39fab979749440cd471d4e243a80bf3ce8f1dfe184a7cc"
+      },
+      "3": {
+        "source_ref": "Exodus 16:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 3,
+            "source_ref": "Exodus 16:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "593122be5d345338758a82e579b8f9584850f64954e7e31603f35c43a870b4f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "593122be5d345338758a82e579b8f9584850f64954e7e31603f35c43a870b4f2"
+      },
+      "4": {
+        "source_ref": "Exodus 16:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 4,
+            "source_ref": "Exodus 16:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7c38dc94e5f0a51dddc37561421127ed6441bb3429625bfb6545dd45d70ab15b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c38dc94e5f0a51dddc37561421127ed6441bb3429625bfb6545dd45d70ab15b"
+      },
+      "5": {
+        "source_ref": "Exodus 16:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 5,
+            "source_ref": "Exodus 16:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fdc36e12285502ddf705263572ab32dde248fde918b2a55b98f0b3e66503f999"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fdc36e12285502ddf705263572ab32dde248fde918b2a55b98f0b3e66503f999"
+      },
+      "6": {
+        "source_ref": "Exodus 16:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 6,
+            "source_ref": "Exodus 16:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "491f91e19c14f41357d96e42b0341a8e7516fa8de4e0df94321f84c9fab273bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "491f91e19c14f41357d96e42b0341a8e7516fa8de4e0df94321f84c9fab273bd"
+      },
+      "7": {
+        "source_ref": "Exodus 16:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 7,
+            "source_ref": "Exodus 16:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2ea04d70ac82e27b930dc73daa559dbc83b90d7c3dfb1f0785dd17e34fa6b38c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ea04d70ac82e27b930dc73daa559dbc83b90d7c3dfb1f0785dd17e34fa6b38c"
+      },
+      "8": {
+        "source_ref": "Exodus 16:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 8,
+            "source_ref": "Exodus 16:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0af57f6f24ec6fc3d3091af56e8a44f740d5252f52a33f8441b22ab9237a0d39"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0af57f6f24ec6fc3d3091af56e8a44f740d5252f52a33f8441b22ab9237a0d39"
+      },
+      "9": {
+        "source_ref": "Exodus 16:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 9,
+            "source_ref": "Exodus 16:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3109ed3c19a8df097f3a63f965b2e9bdae730213dbada9bea5a40d982d0a112e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3109ed3c19a8df097f3a63f965b2e9bdae730213dbada9bea5a40d982d0a112e"
+      },
+      "10": {
+        "source_ref": "Exodus 16:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 10,
+            "source_ref": "Exodus 16:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "312e0c5130f6abffca7ed7b15eaabbff16e54f85a1519be847aebe1fc659fb38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "312e0c5130f6abffca7ed7b15eaabbff16e54f85a1519be847aebe1fc659fb38"
+      },
+      "11": {
+        "source_ref": "Exodus 16:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 11,
+            "source_ref": "Exodus 16:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "12": {
+        "source_ref": "Exodus 16:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 12,
+            "source_ref": "Exodus 16:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5da2867aa76bc44bf0e681e9c1454a36165f449f544b8618a4d47f16781ba43d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5da2867aa76bc44bf0e681e9c1454a36165f449f544b8618a4d47f16781ba43d"
+      },
+      "13": {
+        "source_ref": "Exodus 16:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 13,
+            "source_ref": "Exodus 16:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e2681386a2f2f8f5aa3db9f9a0432708fa08a1c3302ab99ec15ab3252504314d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2681386a2f2f8f5aa3db9f9a0432708fa08a1c3302ab99ec15ab3252504314d"
+      },
+      "14": {
+        "source_ref": "Exodus 16:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 14,
+            "source_ref": "Exodus 16:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56ed266f7c709e0db7f4c23a0f2733cdd5210b7d92425565be8227d9fd7542a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56ed266f7c709e0db7f4c23a0f2733cdd5210b7d92425565be8227d9fd7542a4"
+      },
+      "15": {
+        "source_ref": "Exodus 16:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 15,
+            "source_ref": "Exodus 16:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5f388d19598703e21f59d0974f412a27d8d5dec24c9e4baa8e8bfebd0b18d15f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f388d19598703e21f59d0974f412a27d8d5dec24c9e4baa8e8bfebd0b18d15f"
+      },
+      "16": {
+        "source_ref": "Exodus 16:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 16,
+            "source_ref": "Exodus 16:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75022842cdb9b29644c7c2600ba3276f0ec7c01fa700eeb49934e11b905ad458"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75022842cdb9b29644c7c2600ba3276f0ec7c01fa700eeb49934e11b905ad458"
+      },
+      "17": {
+        "source_ref": "Exodus 16:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 17,
+            "source_ref": "Exodus 16:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a7576d516f56da4e5dbe22be2ce23e27cf881c3d8ac4c57acf6d6077171e193f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a7576d516f56da4e5dbe22be2ce23e27cf881c3d8ac4c57acf6d6077171e193f"
+      },
+      "18": {
+        "source_ref": "Exodus 16:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 18,
+            "source_ref": "Exodus 16:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "de2a53bf452f80e2f097cd2373a0c8f0d1b35024347746ac732bb0a3e611c666"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de2a53bf452f80e2f097cd2373a0c8f0d1b35024347746ac732bb0a3e611c666"
+      },
+      "19": {
+        "source_ref": "Exodus 16:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 19,
+            "source_ref": "Exodus 16:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dc114916b733c89c792568745203e77522c1a084b8648f9e4dcf13106918f6e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc114916b733c89c792568745203e77522c1a084b8648f9e4dcf13106918f6e6"
+      },
+      "20": {
+        "source_ref": "Exodus 16:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 20,
+            "source_ref": "Exodus 16:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "58a9d6d12f5150a31c1bf0c13fbd5f1864b555cbfe3168a5294cb493d0194d8f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "58a9d6d12f5150a31c1bf0c13fbd5f1864b555cbfe3168a5294cb493d0194d8f"
+      },
+      "21": {
+        "source_ref": "Exodus 16:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 21,
+            "source_ref": "Exodus 16:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e95c38054f3fdfc4e3aabecaa0f1310f70ae1e318d02285e9a2fe9f05075b8e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e95c38054f3fdfc4e3aabecaa0f1310f70ae1e318d02285e9a2fe9f05075b8e"
+      },
+      "22": {
+        "source_ref": "Exodus 16:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 22,
+            "source_ref": "Exodus 16:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e85718b5e6d941b85b524a570927311d88d784a4bc7bffd5a0bf78f034723ad0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e85718b5e6d941b85b524a570927311d88d784a4bc7bffd5a0bf78f034723ad0"
+      },
+      "23": {
+        "source_ref": "Exodus 16:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 23,
+            "source_ref": "Exodus 16:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7f5e31a829399940638ba725746e21e43c44511f010b20648c5d2a6faec64c0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f5e31a829399940638ba725746e21e43c44511f010b20648c5d2a6faec64c0c"
+      },
+      "24": {
+        "source_ref": "Exodus 16:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 24,
+            "source_ref": "Exodus 16:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f924021b3df6b9d0c5dd82d795b6a30d9e840fd292a2d3fed7b88ac6123061d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f924021b3df6b9d0c5dd82d795b6a30d9e840fd292a2d3fed7b88ac6123061d"
+      },
+      "25": {
+        "source_ref": "Exodus 16:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 25,
+            "source_ref": "Exodus 16:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "93c3bbf0ea8daacdca017820449793371a0d3939c2b73094da99ad73cd7002ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93c3bbf0ea8daacdca017820449793371a0d3939c2b73094da99ad73cd7002ed"
+      },
+      "26": {
+        "source_ref": "Exodus 16:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 26,
+            "source_ref": "Exodus 16:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aefed9432711c33c61dc8003386e3684ccae5bd9fb9de2fd011b53be4e0cb238"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aefed9432711c33c61dc8003386e3684ccae5bd9fb9de2fd011b53be4e0cb238"
+      },
+      "27": {
+        "source_ref": "Exodus 16:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 27,
+            "source_ref": "Exodus 16:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a662f290882a438ac9a543a9b80567b36098c5c6f4bdaa3b941d2c0b4e4313b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a662f290882a438ac9a543a9b80567b36098c5c6f4bdaa3b941d2c0b4e4313b"
+      },
+      "28": {
+        "source_ref": "Exodus 16:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 28,
+            "source_ref": "Exodus 16:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b6bc1f0c474dbbb7cc416018e2dd7c18326b3cfad132e71184b0f5623b5f141"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b6bc1f0c474dbbb7cc416018e2dd7c18326b3cfad132e71184b0f5623b5f141"
+      },
+      "29": {
+        "source_ref": "Exodus 16:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 29,
+            "source_ref": "Exodus 16:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "50523588a29e38cd0189fadf7456d3a84d0e92e5b14cd7006d1a8daa76aba890"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50523588a29e38cd0189fadf7456d3a84d0e92e5b14cd7006d1a8daa76aba890"
+      },
+      "30": {
+        "source_ref": "Exodus 16:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 30,
+            "source_ref": "Exodus 16:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c61786734c4e1f7d310fdca52b14ceb6676bf289829db798323c6d24d4fc460e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c61786734c4e1f7d310fdca52b14ceb6676bf289829db798323c6d24d4fc460e"
+      },
+      "31": {
+        "source_ref": "Exodus 16:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 31,
+            "source_ref": "Exodus 16:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cefced65aa0d4c7b2901aaf3f8a9ef22159b25ad64f09772ef2483e801ebbbdc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cefced65aa0d4c7b2901aaf3f8a9ef22159b25ad64f09772ef2483e801ebbbdc"
+      },
+      "32": {
+        "source_ref": "Exodus 16:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 32,
+            "source_ref": "Exodus 16:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6b97297ce3371c15fcfc34a3c6fad0b5fa16bec857d87375ce487bb6089fbcba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b97297ce3371c15fcfc34a3c6fad0b5fa16bec857d87375ce487bb6089fbcba"
+      },
+      "33": {
+        "source_ref": "Exodus 16:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 33,
+            "source_ref": "Exodus 16:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5c3992c0eae58ee427b2fe181cf8f57a8eec66b132eef3ee74a4239d75547b0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c3992c0eae58ee427b2fe181cf8f57a8eec66b132eef3ee74a4239d75547b0c"
+      },
+      "34": {
+        "source_ref": "Exodus 16:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 34,
+            "source_ref": "Exodus 16:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3d5e39fe4f0e6b23a70e85d19089102601cba9089d4de8b3f3c00b77c952b69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3d5e39fe4f0e6b23a70e85d19089102601cba9089d4de8b3f3c00b77c952b69"
+      },
+      "35": {
+        "source_ref": "Exodus 16:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 35,
+            "source_ref": "Exodus 16:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "42a201d25184cfb8612700997d2b30adfa61a3dfa08ae6898f1aab7da4d79a7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42a201d25184cfb8612700997d2b30adfa61a3dfa08ae6898f1aab7da4d79a7f"
+      },
+      "36": {
+        "source_ref": "Exodus 16:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 36,
+            "source_ref": "Exodus 16:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fa7c74d0dea1fd629e723440c050fcf1865894181b064b0b2354dea7023924bc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa7c74d0dea1fd629e723440c050fcf1865894181b064b0b2354dea7023924bc"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_16.md",
+    "blob_sha": "1fcc8e7ae8cc476c2c28b4d65eef33534f1c9a9e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

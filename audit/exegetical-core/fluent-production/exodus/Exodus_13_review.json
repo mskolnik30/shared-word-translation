@@ -1,0 +1,366 @@
+{
+  "book": "Exodus",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 13:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Exodus 13:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "2": {
+        "source_ref": "Exodus 13:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 2,
+            "source_ref": "Exodus 13:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ff17b1c8429f61f2f3312eba2b3209af336be2dfcd58aa2f1efc746dc7f51692"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff17b1c8429f61f2f3312eba2b3209af336be2dfcd58aa2f1efc746dc7f51692"
+      },
+      "3": {
+        "source_ref": "Exodus 13:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 3,
+            "source_ref": "Exodus 13:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ff82221d3f4b716cbc90bdca1ad5d4e44ee3a51beded7f47bf7b9a36728e3bbb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff82221d3f4b716cbc90bdca1ad5d4e44ee3a51beded7f47bf7b9a36728e3bbb"
+      },
+      "4": {
+        "source_ref": "Exodus 13:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 4,
+            "source_ref": "Exodus 13:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f8d875d94b55a09eb8229ea29246454bcc357b7040cecb386d2358eb553ec017"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8d875d94b55a09eb8229ea29246454bcc357b7040cecb386d2358eb553ec017"
+      },
+      "5": {
+        "source_ref": "Exodus 13:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 5,
+            "source_ref": "Exodus 13:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f5d8f924be905c247b9cd6a7f74fead7703ce5d488fb0b228c3c952bd77a4d91"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5d8f924be905c247b9cd6a7f74fead7703ce5d488fb0b228c3c952bd77a4d91"
+      },
+      "6": {
+        "source_ref": "Exodus 13:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Exodus 13:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a95c6abbe0356df410531042c8bb3b88d2d65fb9c8b20242a6c1e15f2bdad795"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a95c6abbe0356df410531042c8bb3b88d2d65fb9c8b20242a6c1e15f2bdad795"
+      },
+      "7": {
+        "source_ref": "Exodus 13:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 7,
+            "source_ref": "Exodus 13:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc6246de07bba539fbc2c8a0800c240800a4cd548bd96555ef4456db6a04dba2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc6246de07bba539fbc2c8a0800c240800a4cd548bd96555ef4456db6a04dba2"
+      },
+      "8": {
+        "source_ref": "Exodus 13:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 8,
+            "source_ref": "Exodus 13:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1f6ed9e437b10e6673ec1beb88e3ff3c0d5a80cf7c3d90743423356947ef507"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1f6ed9e437b10e6673ec1beb88e3ff3c0d5a80cf7c3d90743423356947ef507"
+      },
+      "9": {
+        "source_ref": "Exodus 13:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 9,
+            "source_ref": "Exodus 13:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "17bebd209e008c60e6462478a8165b98f72e9496180c6727eca32143ee1cc9eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17bebd209e008c60e6462478a8165b98f72e9496180c6727eca32143ee1cc9eb"
+      },
+      "10": {
+        "source_ref": "Exodus 13:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 10,
+            "source_ref": "Exodus 13:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac0b346d38d7e492c3185a919a34011c7f248c32243e4ddc87e311899d78a7b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac0b346d38d7e492c3185a919a34011c7f248c32243e4ddc87e311899d78a7b2"
+      },
+      "11": {
+        "source_ref": "Exodus 13:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 11,
+            "source_ref": "Exodus 13:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "67b129dc7e97f52b54d92d40561f7c421aae22ea6e5a09c372e31aae0cdab766"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67b129dc7e97f52b54d92d40561f7c421aae22ea6e5a09c372e31aae0cdab766"
+      },
+      "12": {
+        "source_ref": "Exodus 13:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 12,
+            "source_ref": "Exodus 13:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d8bec4cd8e27ee0ba5e155f9e30e6d3dc543f64d7ad34ff96e488eaab64df433"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8bec4cd8e27ee0ba5e155f9e30e6d3dc543f64d7ad34ff96e488eaab64df433"
+      },
+      "13": {
+        "source_ref": "Exodus 13:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 13,
+            "source_ref": "Exodus 13:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c04d1e65ce50d2a54e06e05d9686987754ec065b93f573c2528f90bd344fc1a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c04d1e65ce50d2a54e06e05d9686987754ec065b93f573c2528f90bd344fc1a6"
+      },
+      "14": {
+        "source_ref": "Exodus 13:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 14,
+            "source_ref": "Exodus 13:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "732cee3a38ff3d80126626c3a32759cf3cdca1f3b0f67ebed05c3c3b640ac3b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "732cee3a38ff3d80126626c3a32759cf3cdca1f3b0f67ebed05c3c3b640ac3b6"
+      },
+      "15": {
+        "source_ref": "Exodus 13:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 15,
+            "source_ref": "Exodus 13:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "98f0cd88e05809c3a5c83317ddb93b4c1568752b0dd267d5dda2ccae2a0027e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98f0cd88e05809c3a5c83317ddb93b4c1568752b0dd267d5dda2ccae2a0027e5"
+      },
+      "16": {
+        "source_ref": "Exodus 13:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 16,
+            "source_ref": "Exodus 13:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ad66d170a2c9efc2af9dee5076d865954b02169f859d98f05e79fb236fcd69bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ad66d170a2c9efc2af9dee5076d865954b02169f859d98f05e79fb236fcd69bb"
+      },
+      "17": {
+        "source_ref": "Exodus 13:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 17,
+            "source_ref": "Exodus 13:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6a1e50a8254549895f0f823bbf2c5a071734fb47c757e909f951fb131d0ccc81"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a1e50a8254549895f0f823bbf2c5a071734fb47c757e909f951fb131d0ccc81"
+      },
+      "18": {
+        "source_ref": "Exodus 13:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 18,
+            "source_ref": "Exodus 13:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4d3329005fc6d90a4b41e61b67de2ac24d8e1601f23ef18ea444fb3772bf7400"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4d3329005fc6d90a4b41e61b67de2ac24d8e1601f23ef18ea444fb3772bf7400"
+      },
+      "19": {
+        "source_ref": "Exodus 13:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 19,
+            "source_ref": "Exodus 13:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "12ffc645b97e1bab34c2d592ecd7129ba9eb0ed742c555587f63588ddcfa75a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12ffc645b97e1bab34c2d592ecd7129ba9eb0ed742c555587f63588ddcfa75a1"
+      },
+      "20": {
+        "source_ref": "Exodus 13:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 20,
+            "source_ref": "Exodus 13:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe9410b3e55bb7e357a3b67a5c5b3d33545d7d28ed07d6183c981ab4f193dbde"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe9410b3e55bb7e357a3b67a5c5b3d33545d7d28ed07d6183c981ab4f193dbde"
+      },
+      "21": {
+        "source_ref": "Exodus 13:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 21,
+            "source_ref": "Exodus 13:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a7f4d5a460b698ec52c4548d0241c8f71cb4baaa61f784016937ee9d2ada9c07"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a7f4d5a460b698ec52c4548d0241c8f71cb4baaa61f784016937ee9d2ada9c07"
+      },
+      "22": {
+        "source_ref": "Exodus 13:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 22,
+            "source_ref": "Exodus 13:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a980500914227e6d9c65d0a46929e5f4099d1b53702775ccc61e765682b20d24"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a980500914227e6d9c65d0a46929e5f4099d1b53702775ccc61e765682b20d24"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_13.md",
+    "blob_sha": "311c429e88dcd6ef397cedaaf1cef1b40cd28893"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

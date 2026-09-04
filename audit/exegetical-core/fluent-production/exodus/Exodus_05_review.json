@@ -1,0 +1,387 @@
+{
+  "book": "Exodus",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "5:1-15:21",
+      "decision": "Translate plagues, Passover, liberation, and lethal judgment plainly without making them warrants for modern violence.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 5:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "Exodus 5:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "420a68ae0026c0a99f972e96c5941cf5307954f94f27ccf3024a961c873eb47d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "420a68ae0026c0a99f972e96c5941cf5307954f94f27ccf3024a961c873eb47d"
+      },
+      "2": {
+        "source_ref": "Exodus 5:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "Exodus 5:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82e5ef5d4051aee7369b0a03dc713e9659fcb9c2fb4773660f619cf0a17d7772"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82e5ef5d4051aee7369b0a03dc713e9659fcb9c2fb4773660f619cf0a17d7772"
+      },
+      "3": {
+        "source_ref": "Exodus 5:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "Exodus 5:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f12a4bd6b4ff346a44ee11d1d2cec1de285354c962c9edecc3bf8609624d977"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f12a4bd6b4ff346a44ee11d1d2cec1de285354c962c9edecc3bf8609624d977"
+      },
+      "4": {
+        "source_ref": "Exodus 5:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "Exodus 5:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f84741d3463c17fbe6dd9d7658293b721d7258cb4d64bf8b2c12f4a7c6abbeee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f84741d3463c17fbe6dd9d7658293b721d7258cb4d64bf8b2c12f4a7c6abbeee"
+      },
+      "5": {
+        "source_ref": "Exodus 5:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "Exodus 5:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "243d2f50245c0a3951e8c9490c6ab9425559cee21dd686ef5511f380a7fd9259"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "243d2f50245c0a3951e8c9490c6ab9425559cee21dd686ef5511f380a7fd9259"
+      },
+      "6": {
+        "source_ref": "Exodus 5:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "Exodus 5:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6cfba53737b1dbfcc6182a2b323f1ee90f7ba068c83590143858e76b646d9124"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6cfba53737b1dbfcc6182a2b323f1ee90f7ba068c83590143858e76b646d9124"
+      },
+      "7": {
+        "source_ref": "Exodus 5:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "Exodus 5:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bbbd2a6988a43b5a26ddd5fa3177aaa66970113d6c741cbeb6972c85388e9711"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bbbd2a6988a43b5a26ddd5fa3177aaa66970113d6c741cbeb6972c85388e9711"
+      },
+      "8": {
+        "source_ref": "Exodus 5:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "Exodus 5:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "67804fe5714a18e1f38536d83de7dbd5fe171bd18b803a204f0964330a7d593e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67804fe5714a18e1f38536d83de7dbd5fe171bd18b803a204f0964330a7d593e"
+      },
+      "9": {
+        "source_ref": "Exodus 5:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "Exodus 5:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "21ad995241f2a187fbbbcc9853e44a6a103824b80d65f4e1bc6c2e66b6365374"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "21ad995241f2a187fbbbcc9853e44a6a103824b80d65f4e1bc6c2e66b6365374"
+      },
+      "10": {
+        "source_ref": "Exodus 5:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "Exodus 5:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "acd56a51dd7b8f2c91610fa344f415eaabd5e191e59abe6833596c969dc401e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "acd56a51dd7b8f2c91610fa344f415eaabd5e191e59abe6833596c969dc401e7"
+      },
+      "11": {
+        "source_ref": "Exodus 5:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "Exodus 5:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63f4369baa3f5b58052dd0aca245966150afcc7782e9ce34e47e7b161c4fb292"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63f4369baa3f5b58052dd0aca245966150afcc7782e9ce34e47e7b161c4fb292"
+      },
+      "12": {
+        "source_ref": "Exodus 5:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "Exodus 5:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2abc1a28e462f9bb8e44b13ddbf0a25c04aec9338641477c23a3391ceb698332"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2abc1a28e462f9bb8e44b13ddbf0a25c04aec9338641477c23a3391ceb698332"
+      },
+      "13": {
+        "source_ref": "Exodus 5:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "Exodus 5:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1359a85ce224ec9746d0fa301e690984f298131bb0c8e09f2effca9c1c4981e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1359a85ce224ec9746d0fa301e690984f298131bb0c8e09f2effca9c1c4981e2"
+      },
+      "14": {
+        "source_ref": "Exodus 5:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "Exodus 5:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "810ffe22e0750ae47f569305689c9dfd1fa281173055e9d520104e7e89de3e09"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "810ffe22e0750ae47f569305689c9dfd1fa281173055e9d520104e7e89de3e09"
+      },
+      "15": {
+        "source_ref": "Exodus 5:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 15,
+            "source_ref": "Exodus 5:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ef64556fec5b183f08be3318d61d43ffef466f3e7cf9570b2914234dc7998c1a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef64556fec5b183f08be3318d61d43ffef466f3e7cf9570b2914234dc7998c1a"
+      },
+      "16": {
+        "source_ref": "Exodus 5:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 16,
+            "source_ref": "Exodus 5:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c306a79b770f19ce2deff02a17b19ef10f1ca12dc2b6ccfced373de50063d6e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c306a79b770f19ce2deff02a17b19ef10f1ca12dc2b6ccfced373de50063d6e7"
+      },
+      "17": {
+        "source_ref": "Exodus 5:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 17,
+            "source_ref": "Exodus 5:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c9be63a7ddd4a6c34586562c80735b66af8729b0d9b2fb9b53423e7cae0205a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c9be63a7ddd4a6c34586562c80735b66af8729b0d9b2fb9b53423e7cae0205a"
+      },
+      "18": {
+        "source_ref": "Exodus 5:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 18,
+            "source_ref": "Exodus 5:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6e0e328fd6954e4316c08e4411d0398e2d8d7a84d62714102d22edcaa2848426"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e0e328fd6954e4316c08e4411d0398e2d8d7a84d62714102d22edcaa2848426"
+      },
+      "19": {
+        "source_ref": "Exodus 5:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 19,
+            "source_ref": "Exodus 5:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9f40ce839c2548ac02678f6656e1c7bcd49dd5d63969210e0258da792e5c4281"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f40ce839c2548ac02678f6656e1c7bcd49dd5d63969210e0258da792e5c4281"
+      },
+      "20": {
+        "source_ref": "Exodus 5:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 20,
+            "source_ref": "Exodus 5:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f420e6d3e72bda89879d5490d9254260b90a1f7a9884cf1e0f82edd64841cb66"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f420e6d3e72bda89879d5490d9254260b90a1f7a9884cf1e0f82edd64841cb66"
+      },
+      "21": {
+        "source_ref": "Exodus 5:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 21,
+            "source_ref": "Exodus 5:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32eebd12125ae4fe06b5058808768465fffab36420ead4e78c1b527fa3e2e9fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32eebd12125ae4fe06b5058808768465fffab36420ead4e78c1b527fa3e2e9fd"
+      },
+      "22": {
+        "source_ref": "Exodus 5:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 22,
+            "source_ref": "Exodus 5:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c4594e7af789eeef3004247d2432bf52c445f3804b5fa2c912b5838303a9f92"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c4594e7af789eeef3004247d2432bf52c445f3804b5fa2c912b5838303a9f92"
+      },
+      "23": {
+        "source_ref": "Exodus 5:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 23,
+            "source_ref": "Exodus 5:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7735e0fecd184f5de82b608a4f03195a2fbbd0f47d3ac02631400aeff6a73922"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7735e0fecd184f5de82b608a4f03195a2fbbd0f47d3ac02631400aeff6a73922"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_05.md",
+    "blob_sha": "567550daa0e1812760dc4930efa4c46491140aef"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

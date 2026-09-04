@@ -1,0 +1,230 @@
+{
+  "book": "Exodus",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 40,
+  "public_verse_slots": 1213,
+  "included_verse_labels": 1213,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 1213,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-4:31",
+      "decision": "Keep imperial oppression, resistance, the divine name, Moses' reluctance, and call together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:1-15:21",
+      "decision": "Translate plagues, Passover, liberation, and lethal judgment plainly without making them warrants for modern violence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "16:1-18:27",
+      "decision": "Preserve wilderness complaint, provision, Sabbath, conflict, and shared leadership.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "19:1-24:18",
+      "decision": "Keep covenant, Torah, holiness, communal responsibility, and divine presence together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "25:1-31:18",
+      "decision": "Retain the tabernacle's detailed material, priestly, artistic, and Sabbath instructions.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "32:1-34:35",
+      "decision": "Preserve idolatry, violence, intercession, divine freedom, covenant renewal, and radiance.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "35:1-40:38",
+      "decision": "Keep communal generosity, skilled work, Sabbath, completed dwelling, and divine presence central.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "source_binding_count": 1213,
+    "unique_source_record_count": 1213,
+    "public_verse_slots": 1213,
+    "ledger_summary": {
+      "F0": 5,
+      "F1": 1,
+      "F2": 0,
+      "F3": 1207
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/exodus/Exodus_01.md",
+        "blob_sha": "b907ef74518d1e84aa6bdbe95141fba7e40d1497"
+      },
+      "02": {
+        "path": "books/OT/exodus/Exodus_02.md",
+        "blob_sha": "7d5eacf49e0af1b943964ccfbfdf8d046ab1c771"
+      },
+      "03": {
+        "path": "books/OT/exodus/Exodus_03.md",
+        "blob_sha": "7ca5b1ab652f661ecef53068829d5899c2ea45e0"
+      },
+      "04": {
+        "path": "books/OT/exodus/Exodus_04.md",
+        "blob_sha": "e3ea949df27a881d334fc8ed6810aac0b013242c"
+      },
+      "05": {
+        "path": "books/OT/exodus/Exodus_05.md",
+        "blob_sha": "567550daa0e1812760dc4930efa4c46491140aef"
+      },
+      "06": {
+        "path": "books/OT/exodus/Exodus_06.md",
+        "blob_sha": "0706a1e9f1f14d97aa6ebae1555498c8a2248226"
+      },
+      "07": {
+        "path": "books/OT/exodus/Exodus_07.md",
+        "blob_sha": "609137e2c304553a47191ca01a7af7062987cd68"
+      },
+      "08": {
+        "path": "books/OT/exodus/Exodus_08.md",
+        "blob_sha": "d8c5d9c96f94cf2ad56e74989170743ea26f22c6"
+      },
+      "09": {
+        "path": "books/OT/exodus/Exodus_09.md",
+        "blob_sha": "4d41a7ccd3ed385339a824e2fa132f0504760263"
+      },
+      "10": {
+        "path": "books/OT/exodus/Exodus_10.md",
+        "blob_sha": "ff1031ea517695b9484add0feda62adec18e7f26"
+      },
+      "11": {
+        "path": "books/OT/exodus/Exodus_11.md",
+        "blob_sha": "c5194fc5ada7a7c3da16addd6805492296057720"
+      },
+      "12": {
+        "path": "books/OT/exodus/Exodus_12.md",
+        "blob_sha": "e4cc3e1f2f8a6b4119fc84e6f6885126e1bcfaa4"
+      },
+      "13": {
+        "path": "books/OT/exodus/Exodus_13.md",
+        "blob_sha": "311c429e88dcd6ef397cedaaf1cef1b40cd28893"
+      },
+      "14": {
+        "path": "books/OT/exodus/Exodus_14.md",
+        "blob_sha": "9d593f056072e232a0d2b5ca04bf7fa67093732b"
+      },
+      "15": {
+        "path": "books/OT/exodus/Exodus_15.md",
+        "blob_sha": "a22b6bcde6515279934b8fdd39ba9f5ca0859068"
+      },
+      "16": {
+        "path": "books/OT/exodus/Exodus_16.md",
+        "blob_sha": "1fcc8e7ae8cc476c2c28b4d65eef33534f1c9a9e"
+      },
+      "17": {
+        "path": "books/OT/exodus/Exodus_17.md",
+        "blob_sha": "8a32b904c0f4046299bef802376377c44fe128d1"
+      },
+      "18": {
+        "path": "books/OT/exodus/Exodus_18.md",
+        "blob_sha": "91ca43ca24148178eb727a83a169acca4ab127d8"
+      },
+      "19": {
+        "path": "books/OT/exodus/Exodus_19.md",
+        "blob_sha": "6c0154f0a4e3d21150b3f25c66751993915a7ef5"
+      },
+      "20": {
+        "path": "books/OT/exodus/Exodus_20.md",
+        "blob_sha": "c6884c9ef9de3fb8e7473533c7a8e0f5f5309909"
+      },
+      "21": {
+        "path": "books/OT/exodus/Exodus_21.md",
+        "blob_sha": "78587945626d171bbe0f66c22e85337fe175dc73"
+      },
+      "22": {
+        "path": "books/OT/exodus/Exodus_22.md",
+        "blob_sha": "030e7c91e9a404c46c53f4ddefa528a0725d48e2"
+      },
+      "23": {
+        "path": "books/OT/exodus/Exodus_23.md",
+        "blob_sha": "6a535849240af1dcf3aee2900d29c80343c2d163"
+      },
+      "24": {
+        "path": "books/OT/exodus/Exodus_24.md",
+        "blob_sha": "5795f23fc92b9fa81fc4fec058d69da9b78a91ac"
+      },
+      "25": {
+        "path": "books/OT/exodus/Exodus_25.md",
+        "blob_sha": "af21b47bcabbc1b33ceb4a61f715943f405e98ed"
+      },
+      "26": {
+        "path": "books/OT/exodus/Exodus_26.md",
+        "blob_sha": "940a4ca1955a14bcd06afd911ea5a953817b3b0a"
+      },
+      "27": {
+        "path": "books/OT/exodus/Exodus_27.md",
+        "blob_sha": "4949c7377cce63a935751c318d1f76f9f987db13"
+      },
+      "28": {
+        "path": "books/OT/exodus/Exodus_28.md",
+        "blob_sha": "f318cb9ee88eb61f43313fe4ccd6e1226496d3a4"
+      },
+      "29": {
+        "path": "books/OT/exodus/Exodus_29.md",
+        "blob_sha": "bc3915b2cecabff21d65cfdaa0fdf36f2f4729f6"
+      },
+      "30": {
+        "path": "books/OT/exodus/Exodus_30.md",
+        "blob_sha": "7370fe76265779d21f0ef1aa896b6416d923ea76"
+      },
+      "31": {
+        "path": "books/OT/exodus/Exodus_31.md",
+        "blob_sha": "2436ef3a4be180cd3b896ae139de383ce82ff81f"
+      },
+      "32": {
+        "path": "books/OT/exodus/Exodus_32.md",
+        "blob_sha": "6ad91ab41f939879fb742c9cf49afe93a3bc1551"
+      },
+      "33": {
+        "path": "books/OT/exodus/Exodus_33.md",
+        "blob_sha": "0da5f079ccacc47382fb488d447c02274de9f814"
+      },
+      "34": {
+        "path": "books/OT/exodus/Exodus_34.md",
+        "blob_sha": "047404bd151ee1a407a8bf71ca94f0c498799872"
+      },
+      "35": {
+        "path": "books/OT/exodus/Exodus_35.md",
+        "blob_sha": "e056158380d20666fc9c4422b570e616d81ceedc"
+      },
+      "36": {
+        "path": "books/OT/exodus/Exodus_36.md",
+        "blob_sha": "ae4a5286b7b377ce3735c2d2d5e8e622e746cba0"
+      },
+      "37": {
+        "path": "books/OT/exodus/Exodus_37.md",
+        "blob_sha": "cb872fa3571ae331d115607fd1a4e98c7bc3f0f9"
+      },
+      "38": {
+        "path": "books/OT/exodus/Exodus_38.md",
+        "blob_sha": "351f99c56a94adacc97d1676688d7074d5df0dc5"
+      },
+      "39": {
+        "path": "books/OT/exodus/Exodus_39.md",
+        "blob_sha": "db68a349c80ec11b7435d20db174d4d6a589bc9a"
+      },
+      "40": {
+        "path": "books/OT/exodus/Exodus_40.md",
+        "blob_sha": "4862661f77332460fd90229ad6751957cb1ee30f"
+      }
+    }
+  }
+}

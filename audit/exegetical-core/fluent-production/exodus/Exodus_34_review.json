@@ -1,0 +1,561 @@
+{
+  "book": "Exodus",
+  "chapter": 34,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 34:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 1,
+            "source_ref": "Exodus 34:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a4722b77172ed85f131aa65562d607c6961755441ba3c58d851866e7d031bd6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a4722b77172ed85f131aa65562d607c6961755441ba3c58d851866e7d031bd6"
+      },
+      "2": {
+        "source_ref": "Exodus 34:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 2,
+            "source_ref": "Exodus 34:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7f2731014746befce8088730b4096b1261a110fe8c3ce38d575b60b1b9af6cff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f2731014746befce8088730b4096b1261a110fe8c3ce38d575b60b1b9af6cff"
+      },
+      "3": {
+        "source_ref": "Exodus 34:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 3,
+            "source_ref": "Exodus 34:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f99b93f4a2c1d761533c8c040f5805d73a18e61ec9889ae2d89cd27090fc3a3e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f99b93f4a2c1d761533c8c040f5805d73a18e61ec9889ae2d89cd27090fc3a3e"
+      },
+      "4": {
+        "source_ref": "Exodus 34:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 4,
+            "source_ref": "Exodus 34:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac8289a25752d7e634d320a7f103b313ec8d7135555e952a13bc133fde676eea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac8289a25752d7e634d320a7f103b313ec8d7135555e952a13bc133fde676eea"
+      },
+      "5": {
+        "source_ref": "Exodus 34:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 5,
+            "source_ref": "Exodus 34:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "59e6cc046d84ad8e13081a3a7473702f508380d9dc8dde73cb1bc99997e80150"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59e6cc046d84ad8e13081a3a7473702f508380d9dc8dde73cb1bc99997e80150"
+      },
+      "6": {
+        "source_ref": "Exodus 34:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 6,
+            "source_ref": "Exodus 34:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb6af56de7e724d86432b25864d93d534bf9620869a4c08b86192b6372e85f67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb6af56de7e724d86432b25864d93d534bf9620869a4c08b86192b6372e85f67"
+      },
+      "7": {
+        "source_ref": "Exodus 34:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 7,
+            "source_ref": "Exodus 34:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "34e05a272f3a8591b3acf073360a1b67b943dc151999c5081f2572fedabe8c88"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34e05a272f3a8591b3acf073360a1b67b943dc151999c5081f2572fedabe8c88"
+      },
+      "8": {
+        "source_ref": "Exodus 34:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 8,
+            "source_ref": "Exodus 34:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5015c5397a025cf0c94a8dd14dedfd490d37ec4fcfd3fccba22df9d878880e50"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5015c5397a025cf0c94a8dd14dedfd490d37ec4fcfd3fccba22df9d878880e50"
+      },
+      "9": {
+        "source_ref": "Exodus 34:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 9,
+            "source_ref": "Exodus 34:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c360e273545ee9ec6feb1a4e65d7aa9e29e00cefaf058439d6d04d7ae5ccdd46"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c360e273545ee9ec6feb1a4e65d7aa9e29e00cefaf058439d6d04d7ae5ccdd46"
+      },
+      "10": {
+        "source_ref": "Exodus 34:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 10,
+            "source_ref": "Exodus 34:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "647ac286152e4ef412b3a049ffea5f2513f709b5415f92002c74d067a48f0fb9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "647ac286152e4ef412b3a049ffea5f2513f709b5415f92002c74d067a48f0fb9"
+      },
+      "11": {
+        "source_ref": "Exodus 34:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 11,
+            "source_ref": "Exodus 34:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4cb0324106c63babd4118826a7973ab2897ad1c57d6e0a2d9c7e7d74679dba21"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4cb0324106c63babd4118826a7973ab2897ad1c57d6e0a2d9c7e7d74679dba21"
+      },
+      "12": {
+        "source_ref": "Exodus 34:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 12,
+            "source_ref": "Exodus 34:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3f5cc526af57d6b92e44010251f43796ea8a0956ed8f35726a177a8ce153069f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f5cc526af57d6b92e44010251f43796ea8a0956ed8f35726a177a8ce153069f"
+      },
+      "13": {
+        "source_ref": "Exodus 34:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 13,
+            "source_ref": "Exodus 34:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8369831e53dd0acff89d77aba64636758d269e8a097d4b7be491a7a4af001e7a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8369831e53dd0acff89d77aba64636758d269e8a097d4b7be491a7a4af001e7a"
+      },
+      "14": {
+        "source_ref": "Exodus 34:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 14,
+            "source_ref": "Exodus 34:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "516d0d1312315801a0da6cbecb2659281344231720e1bb9d8e91349726b081d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "516d0d1312315801a0da6cbecb2659281344231720e1bb9d8e91349726b081d8"
+      },
+      "15": {
+        "source_ref": "Exodus 34:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 15,
+            "source_ref": "Exodus 34:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f2f66a12e0aede5ebe8bbc04e925c3f1e0eb89c1c12d53d3300b520ef44a55b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f2f66a12e0aede5ebe8bbc04e925c3f1e0eb89c1c12d53d3300b520ef44a55b"
+      },
+      "16": {
+        "source_ref": "Exodus 34:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 16,
+            "source_ref": "Exodus 34:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fd3e9696076b54324ff033d18b776e0e44a6ff21eb3cf265dfb9a5a5d6493325"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd3e9696076b54324ff033d18b776e0e44a6ff21eb3cf265dfb9a5a5d6493325"
+      },
+      "17": {
+        "source_ref": "Exodus 34:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 17,
+            "source_ref": "Exodus 34:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b66fd74e427199a611166dbe2123715d7e84c38979b43603694cc2f3e33f8a72"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b66fd74e427199a611166dbe2123715d7e84c38979b43603694cc2f3e33f8a72"
+      },
+      "18": {
+        "source_ref": "Exodus 34:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 18,
+            "source_ref": "Exodus 34:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cfad1855108b098a7d111caa722eab83cd49f8772d4ba4ed82b3c4e074de0e86"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cfad1855108b098a7d111caa722eab83cd49f8772d4ba4ed82b3c4e074de0e86"
+      },
+      "19": {
+        "source_ref": "Exodus 34:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 19,
+            "source_ref": "Exodus 34:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7ad0433cbe8d9e378bf650de7e5fd78430adf8f69aa5e70430b375e146f6c453"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ad0433cbe8d9e378bf650de7e5fd78430adf8f69aa5e70430b375e146f6c453"
+      },
+      "20": {
+        "source_ref": "Exodus 34:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 20,
+            "source_ref": "Exodus 34:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "565f46f65df9fc1409a7f1b65b3aa72393082101effaee1d7bba41874b41ef1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "565f46f65df9fc1409a7f1b65b3aa72393082101effaee1d7bba41874b41ef1c"
+      },
+      "21": {
+        "source_ref": "Exodus 34:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 21,
+            "source_ref": "Exodus 34:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c190fe2365447db0b6f7a1364459e397736be78697e1002cb8b4aeb353477e7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c190fe2365447db0b6f7a1364459e397736be78697e1002cb8b4aeb353477e7b"
+      },
+      "22": {
+        "source_ref": "Exodus 34:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 22,
+            "source_ref": "Exodus 34:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ff14ffece95d70c96d782036e5e252394ed7a18a49465dbf0b830db207bfb521"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff14ffece95d70c96d782036e5e252394ed7a18a49465dbf0b830db207bfb521"
+      },
+      "23": {
+        "source_ref": "Exodus 34:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 23,
+            "source_ref": "Exodus 34:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a194bf70b0949563040016cff8a3f95c5216237e8dc4d8517df15a147b91ce8f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a194bf70b0949563040016cff8a3f95c5216237e8dc4d8517df15a147b91ce8f"
+      },
+      "24": {
+        "source_ref": "Exodus 34:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 24,
+            "source_ref": "Exodus 34:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "68e2e102f75bbd53c2b6cdc6acbbbb027d162176a1128e184e9400bb93745b26"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68e2e102f75bbd53c2b6cdc6acbbbb027d162176a1128e184e9400bb93745b26"
+      },
+      "25": {
+        "source_ref": "Exodus 34:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 25,
+            "source_ref": "Exodus 34:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a0bb543f0fcb8ee7485369c01b7ce4ce063467e8dba5f4f2adc26b05d73c25cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a0bb543f0fcb8ee7485369c01b7ce4ce063467e8dba5f4f2adc26b05d73c25cf"
+      },
+      "26": {
+        "source_ref": "Exodus 34:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 26,
+            "source_ref": "Exodus 34:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35eb12d862be0f225d899d7f09ab9a41f2314909d2092fa4857f5c8eb75a7121"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35eb12d862be0f225d899d7f09ab9a41f2314909d2092fa4857f5c8eb75a7121"
+      },
+      "27": {
+        "source_ref": "Exodus 34:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 27,
+            "source_ref": "Exodus 34:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bcd7b04f9e05d389e36525edb20276bc141cf3b37233bd9549ba690fa1e104ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bcd7b04f9e05d389e36525edb20276bc141cf3b37233bd9549ba690fa1e104ba"
+      },
+      "28": {
+        "source_ref": "Exodus 34:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 28,
+            "source_ref": "Exodus 34:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36b3f0ea424ae0bf7a07a5197c5464c4669b61691729e247e756a69e39b4269e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36b3f0ea424ae0bf7a07a5197c5464c4669b61691729e247e756a69e39b4269e"
+      },
+      "29": {
+        "source_ref": "Exodus 34:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 29,
+            "source_ref": "Exodus 34:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1afab617c46c1a779a27f7f3fd4edd9ac1d4502cd2deb37282f3d5dc4db1d2ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1afab617c46c1a779a27f7f3fd4edd9ac1d4502cd2deb37282f3d5dc4db1d2ea"
+      },
+      "30": {
+        "source_ref": "Exodus 34:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 30,
+            "source_ref": "Exodus 34:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e09f288bac88a61ba136f853780420595d280735dd2da477d713fe975a5200a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e09f288bac88a61ba136f853780420595d280735dd2da477d713fe975a5200a9"
+      },
+      "31": {
+        "source_ref": "Exodus 34:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 31,
+            "source_ref": "Exodus 34:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7c724c060e68293cc927e729a29c8e8fc9a1ad9c6aa5adff7c750092428ed5f4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c724c060e68293cc927e729a29c8e8fc9a1ad9c6aa5adff7c750092428ed5f4"
+      },
+      "32": {
+        "source_ref": "Exodus 34:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 32,
+            "source_ref": "Exodus 34:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ee7e4a3a5a05bd4053b9b75052bb06243f41159f5908f495fcf888b107f296a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ee7e4a3a5a05bd4053b9b75052bb06243f41159f5908f495fcf888b107f296a"
+      },
+      "33": {
+        "source_ref": "Exodus 34:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 33,
+            "source_ref": "Exodus 34:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f268464e05656f7470a740f9a39c6e25f42671c94e63ec448570715789c0f5e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f268464e05656f7470a740f9a39c6e25f42671c94e63ec448570715789c0f5e0"
+      },
+      "34": {
+        "source_ref": "Exodus 34:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 34,
+            "source_ref": "Exodus 34:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dad84b1527cedb1afe870c8f59cb7c5a1f82ed32a17289eb1009294da5791a43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dad84b1527cedb1afe870c8f59cb7c5a1f82ed32a17289eb1009294da5791a43"
+      },
+      "35": {
+        "source_ref": "Exodus 34:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 35,
+            "source_ref": "Exodus 34:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6bb06d986623dfd62940423b79915b4a65ca110df9fd955ceab27b4c11eb8dee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6bb06d986623dfd62940423b79915b4a65ca110df9fd955ceab27b4c11eb8dee"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_34.md",
+    "blob_sha": "047404bd151ee1a407a8bf71ca94f0c498799872"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

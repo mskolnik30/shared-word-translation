@@ -1,0 +1,306 @@
+{
+  "book": "Exodus",
+  "chapter": 24,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 24:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 1,
+            "source_ref": "Exodus 24:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "31609620e53bfa787630fe9eb037ed988413ae503ef478b1fe0659505b253bad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "31609620e53bfa787630fe9eb037ed988413ae503ef478b1fe0659505b253bad"
+      },
+      "2": {
+        "source_ref": "Exodus 24:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 2,
+            "source_ref": "Exodus 24:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45b327ebcad5213fb7b399dc0b4422f84eb10aa3f973ecd420f7ffc3f5add1c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45b327ebcad5213fb7b399dc0b4422f84eb10aa3f973ecd420f7ffc3f5add1c9"
+      },
+      "3": {
+        "source_ref": "Exodus 24:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 3,
+            "source_ref": "Exodus 24:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b1287f3efc65f1aafee8fddda09a89504d28bb142f7127b3c613fc1c7eb17950"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b1287f3efc65f1aafee8fddda09a89504d28bb142f7127b3c613fc1c7eb17950"
+      },
+      "4": {
+        "source_ref": "Exodus 24:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 4,
+            "source_ref": "Exodus 24:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d812ed2f9a289f5c084bbd8e7f2578b0de34f20df33efb7a979b4a4dbe1a402b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d812ed2f9a289f5c084bbd8e7f2578b0de34f20df33efb7a979b4a4dbe1a402b"
+      },
+      "5": {
+        "source_ref": "Exodus 24:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 5,
+            "source_ref": "Exodus 24:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "46bb87427497d161476c7bfec709a1d0102dfde9cde255c770d166f6794e78e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46bb87427497d161476c7bfec709a1d0102dfde9cde255c770d166f6794e78e0"
+      },
+      "6": {
+        "source_ref": "Exodus 24:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 6,
+            "source_ref": "Exodus 24:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "57cbfb8beda6530ce0269bc51a330a53747e87b444dcea9f70c8bd0bcf42fa60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "57cbfb8beda6530ce0269bc51a330a53747e87b444dcea9f70c8bd0bcf42fa60"
+      },
+      "7": {
+        "source_ref": "Exodus 24:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 7,
+            "source_ref": "Exodus 24:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d0bedd73291928da517b13bfbd9c0efabaffd8e51b115a78d3fabfe422869fbd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0bedd73291928da517b13bfbd9c0efabaffd8e51b115a78d3fabfe422869fbd"
+      },
+      "8": {
+        "source_ref": "Exodus 24:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 8,
+            "source_ref": "Exodus 24:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "07fc08f1137901d8df4585232c5f088364af44a677b92b2df00675582c7ef492"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07fc08f1137901d8df4585232c5f088364af44a677b92b2df00675582c7ef492"
+      },
+      "9": {
+        "source_ref": "Exodus 24:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 9,
+            "source_ref": "Exodus 24:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f8ecb5268aef11615ba7d48700a4a8230885515dc87407d223a851128511a1e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8ecb5268aef11615ba7d48700a4a8230885515dc87407d223a851128511a1e0"
+      },
+      "10": {
+        "source_ref": "Exodus 24:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 10,
+            "source_ref": "Exodus 24:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f4446cce0248b8c0c372ebf0c066e7e08bb278b870be0d20b68cbd84fffad269"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4446cce0248b8c0c372ebf0c066e7e08bb278b870be0d20b68cbd84fffad269"
+      },
+      "11": {
+        "source_ref": "Exodus 24:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 11,
+            "source_ref": "Exodus 24:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b6e376b1304d801eb10185bdbed3e5814355ff05b7ef0102e54d7acea4ed0e9a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6e376b1304d801eb10185bdbed3e5814355ff05b7ef0102e54d7acea4ed0e9a"
+      },
+      "12": {
+        "source_ref": "Exodus 24:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 12,
+            "source_ref": "Exodus 24:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b3f073f6bf06c84927094effad3f7603446f9a7a407be139a56966800f525228"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b3f073f6bf06c84927094effad3f7603446f9a7a407be139a56966800f525228"
+      },
+      "13": {
+        "source_ref": "Exodus 24:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 13,
+            "source_ref": "Exodus 24:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2d1c88430b435c4154679d4476a91ee20f34bf7bea718957210fa0c381336ae4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d1c88430b435c4154679d4476a91ee20f34bf7bea718957210fa0c381336ae4"
+      },
+      "14": {
+        "source_ref": "Exodus 24:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 14,
+            "source_ref": "Exodus 24:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "abf5e24f6bc35726e28d9999f5c24d3f5d366188bfd5a9fb37bbc3ba9d64d4d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "abf5e24f6bc35726e28d9999f5c24d3f5d366188bfd5a9fb37bbc3ba9d64d4d7"
+      },
+      "15": {
+        "source_ref": "Exodus 24:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 15,
+            "source_ref": "Exodus 24:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eb4ac6edcee388b04a4265f56b601147da77a83f5443d2c71f58a1da4176578f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb4ac6edcee388b04a4265f56b601147da77a83f5443d2c71f58a1da4176578f"
+      },
+      "16": {
+        "source_ref": "Exodus 24:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 16,
+            "source_ref": "Exodus 24:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79710e749411c9455b19ea0802afe491059e95a37e7d24a05bbebbda36961360"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79710e749411c9455b19ea0802afe491059e95a37e7d24a05bbebbda36961360"
+      },
+      "17": {
+        "source_ref": "Exodus 24:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 17,
+            "source_ref": "Exodus 24:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca828e38c923b5a3c826706f3750be3f4e121775d911d6ef2494f50b9864648a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca828e38c923b5a3c826706f3750be3f4e121775d911d6ef2494f50b9864648a"
+      },
+      "18": {
+        "source_ref": "Exodus 24:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 18,
+            "source_ref": "Exodus 24:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63d13b5b9a76a8696c9e90d70c6cfaeed8a0076ce58ac7cf87dbc15d53d64487"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63d13b5b9a76a8696c9e90d70c6cfaeed8a0076ce58ac7cf87dbc15d53d64487"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_24.md",
+    "blob_sha": "5795f23fc92b9fa81fc4fec058d69da9b78a91ac"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

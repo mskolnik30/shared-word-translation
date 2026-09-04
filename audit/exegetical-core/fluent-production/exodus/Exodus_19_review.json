@@ -1,0 +1,417 @@
+{
+  "book": "Exodus",
+  "chapter": 19,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "19:1-24:18",
+      "decision": "Keep covenant, Torah, holiness, communal responsibility, and divine presence together.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 19:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 1,
+            "source_ref": "Exodus 19:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e1b63a81d944299e761ac22df03455c860c93883c278a2a8be3b03831fdaf640"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1b63a81d944299e761ac22df03455c860c93883c278a2a8be3b03831fdaf640"
+      },
+      "2": {
+        "source_ref": "Exodus 19:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 2,
+            "source_ref": "Exodus 19:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c78b7bbf8f0b02902480fb05875e8ea0a4796962e207ec705e21975c390541d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c78b7bbf8f0b02902480fb05875e8ea0a4796962e207ec705e21975c390541d7"
+      },
+      "3": {
+        "source_ref": "Exodus 19:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 3,
+            "source_ref": "Exodus 19:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "706f089f0fe4f3abf3c96bf024d1b27bd73438decf480c89080c3c8799789539"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "706f089f0fe4f3abf3c96bf024d1b27bd73438decf480c89080c3c8799789539"
+      },
+      "4": {
+        "source_ref": "Exodus 19:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 4,
+            "source_ref": "Exodus 19:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fff433f37a9e2572d169d925b2c1c6b85e75c4e1c7527315a93090582583c21e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fff433f37a9e2572d169d925b2c1c6b85e75c4e1c7527315a93090582583c21e"
+      },
+      "5": {
+        "source_ref": "Exodus 19:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 5,
+            "source_ref": "Exodus 19:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "67ca2306318bca6cd5cb9f27329a0c13064f63d186168f33e2b49dce77f25e8b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67ca2306318bca6cd5cb9f27329a0c13064f63d186168f33e2b49dce77f25e8b"
+      },
+      "6": {
+        "source_ref": "Exodus 19:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 6,
+            "source_ref": "Exodus 19:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b27159eb078551192dd8fd4069a491a3e7c0ab28a8da72a49c2ef04ba8760104"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b27159eb078551192dd8fd4069a491a3e7c0ab28a8da72a49c2ef04ba8760104"
+      },
+      "7": {
+        "source_ref": "Exodus 19:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 7,
+            "source_ref": "Exodus 19:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f6f717806535628ce49e4f68699f4bb20fd2172cfcfa0d148eb98699cddbb3ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f6f717806535628ce49e4f68699f4bb20fd2172cfcfa0d148eb98699cddbb3ce"
+      },
+      "8": {
+        "source_ref": "Exodus 19:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 8,
+            "source_ref": "Exodus 19:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d453833652b521909b1681cbb061d06487b7f0e286d33840f3b0eb8d0c23704"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d453833652b521909b1681cbb061d06487b7f0e286d33840f3b0eb8d0c23704"
+      },
+      "9": {
+        "source_ref": "Exodus 19:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 9,
+            "source_ref": "Exodus 19:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79afb1877057fd64c426cc977649e39d73ead5acf842b0f07159539aafdbde1e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79afb1877057fd64c426cc977649e39d73ead5acf842b0f07159539aafdbde1e"
+      },
+      "10": {
+        "source_ref": "Exodus 19:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 10,
+            "source_ref": "Exodus 19:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0596173b9e85fa6e7fab43ffec0cfa6caa45bf01f1f444a499a41e0e25ba99cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0596173b9e85fa6e7fab43ffec0cfa6caa45bf01f1f444a499a41e0e25ba99cb"
+      },
+      "11": {
+        "source_ref": "Exodus 19:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 11,
+            "source_ref": "Exodus 19:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5a696d143a86e749a0468ae2bfbcf775a9d9f40d5ae65cdfc6b8d004a6c58ba6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a696d143a86e749a0468ae2bfbcf775a9d9f40d5ae65cdfc6b8d004a6c58ba6"
+      },
+      "12": {
+        "source_ref": "Exodus 19:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 12,
+            "source_ref": "Exodus 19:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "428b2b1723c522d05169224d1be9520cb2f8e820eae1582aeb8cd0d775d518e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "428b2b1723c522d05169224d1be9520cb2f8e820eae1582aeb8cd0d775d518e6"
+      },
+      "13": {
+        "source_ref": "Exodus 19:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 13,
+            "source_ref": "Exodus 19:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "040dbfbe4c942293106a6b1b1e4ec4d88db3cc4155caf10059d71720e0ee6577"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "040dbfbe4c942293106a6b1b1e4ec4d88db3cc4155caf10059d71720e0ee6577"
+      },
+      "14": {
+        "source_ref": "Exodus 19:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 14,
+            "source_ref": "Exodus 19:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a0a82e3ca0c485f9dd8fe8693fd97ea943fc02d0b6c3ef6a588e75b731628c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a0a82e3ca0c485f9dd8fe8693fd97ea943fc02d0b6c3ef6a588e75b731628c6"
+      },
+      "15": {
+        "source_ref": "Exodus 19:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 15,
+            "source_ref": "Exodus 19:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b40fe5350798263a5e2777ca911546c35b94d95df66b6956d459e125c7d133ae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b40fe5350798263a5e2777ca911546c35b94d95df66b6956d459e125c7d133ae"
+      },
+      "16": {
+        "source_ref": "Exodus 19:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 16,
+            "source_ref": "Exodus 19:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2bf83ed5e0fe2e9a98f27828f1733813b73ff1e9ba26bca3948a9f3f99b609c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2bf83ed5e0fe2e9a98f27828f1733813b73ff1e9ba26bca3948a9f3f99b609c4"
+      },
+      "17": {
+        "source_ref": "Exodus 19:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 17,
+            "source_ref": "Exodus 19:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a79b5edadedee873a3d702c239a149ffa274ccea9d483c2b7609e2a8167ff307"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a79b5edadedee873a3d702c239a149ffa274ccea9d483c2b7609e2a8167ff307"
+      },
+      "18": {
+        "source_ref": "Exodus 19:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 18,
+            "source_ref": "Exodus 19:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ea5d4b1a8b1299700e702334933373f07a27b27cb145a80f1878d5f31bafd4de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea5d4b1a8b1299700e702334933373f07a27b27cb145a80f1878d5f31bafd4de"
+      },
+      "19": {
+        "source_ref": "Exodus 19:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 19,
+            "source_ref": "Exodus 19:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "98b7ef612dcb1505ae39733bee3aff47a316484d97c3bb3f1787feb3afe2d432"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98b7ef612dcb1505ae39733bee3aff47a316484d97c3bb3f1787feb3afe2d432"
+      },
+      "20": {
+        "source_ref": "Exodus 19:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 20,
+            "source_ref": "Exodus 19:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "34698e32fb3f3c5717ece8efd3f05ed309afb8cffd17e3dc6f8b1606316aa250"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34698e32fb3f3c5717ece8efd3f05ed309afb8cffd17e3dc6f8b1606316aa250"
+      },
+      "21": {
+        "source_ref": "Exodus 19:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 21,
+            "source_ref": "Exodus 19:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1ddb6ca532791250481af81e1cae9c1eaa0502ecea2e24a2a8881dfedc4d159"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1ddb6ca532791250481af81e1cae9c1eaa0502ecea2e24a2a8881dfedc4d159"
+      },
+      "22": {
+        "source_ref": "Exodus 19:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 22,
+            "source_ref": "Exodus 19:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "37099df09fe2825768d12b2f41baf6213614412a2ae305d6abf90df198170027"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37099df09fe2825768d12b2f41baf6213614412a2ae305d6abf90df198170027"
+      },
+      "23": {
+        "source_ref": "Exodus 19:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 23,
+            "source_ref": "Exodus 19:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c7a041e85ead203ac01e673f4ab97547ba713b88aebe10b8d885b05c6fe7f933"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c7a041e85ead203ac01e673f4ab97547ba713b88aebe10b8d885b05c6fe7f933"
+      },
+      "24": {
+        "source_ref": "Exodus 19:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 24,
+            "source_ref": "Exodus 19:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "968140394e1fb66d95e093219a5a5406ea80c0c1f1a848e38f73c64976d125c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "968140394e1fb66d95e093219a5a5406ea80c0c1f1a848e38f73c64976d125c0"
+      },
+      "25": {
+        "source_ref": "Exodus 19:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 25,
+            "source_ref": "Exodus 19:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aee5c123f508187e85d936752ec39c0ba7ccd700b0723682b60242f183847cbf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aee5c123f508187e85d936752ec39c0ba7ccd700b0723682b60242f183847cbf"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_19.md",
+    "blob_sha": "6c0154f0a4e3d21150b3f25c66751993915a7ef5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

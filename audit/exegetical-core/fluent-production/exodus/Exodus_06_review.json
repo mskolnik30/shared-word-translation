@@ -1,0 +1,486 @@
+{
+  "book": "Exodus",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Exod.xml",
+    "git_blob_sha": "9f1174a401696a1625e88c0d87ed2359889fb79e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Exodus 6:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 1,
+            "source_ref": "Exodus 6:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cab812c541e07d92cc053d8187dc213bece544c83afedcef63754984eb68ec8c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cab812c541e07d92cc053d8187dc213bece544c83afedcef63754984eb68ec8c"
+      },
+      "2": {
+        "source_ref": "Exodus 6:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 2,
+            "source_ref": "Exodus 6:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "736d74994a2f9be52ee8aca32776876fef0bac46d1927152577eb3d1db352f9a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "736d74994a2f9be52ee8aca32776876fef0bac46d1927152577eb3d1db352f9a"
+      },
+      "3": {
+        "source_ref": "Exodus 6:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 3,
+            "source_ref": "Exodus 6:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f56de5c754a033261e3d038c532d854aa68535780b5fd686167f9ff26b15e32"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f56de5c754a033261e3d038c532d854aa68535780b5fd686167f9ff26b15e32"
+      },
+      "4": {
+        "source_ref": "Exodus 6:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 4,
+            "source_ref": "Exodus 6:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "92a0cb068f37b1f5046a6431394e2c5855a686a75b6aeadd88bc0caf80e4e8f5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "92a0cb068f37b1f5046a6431394e2c5855a686a75b6aeadd88bc0caf80e4e8f5"
+      },
+      "5": {
+        "source_ref": "Exodus 6:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 5,
+            "source_ref": "Exodus 6:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b9f73d5489d9fa53832e70d453c1de38a9c4900ffe69812954d773d190f7a1dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b9f73d5489d9fa53832e70d453c1de38a9c4900ffe69812954d773d190f7a1dc"
+      },
+      "6": {
+        "source_ref": "Exodus 6:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 6,
+            "source_ref": "Exodus 6:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8086e1e1830520955e06e2cffcede27edefc6864e3f37bbc68ddc99bfbc64825"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8086e1e1830520955e06e2cffcede27edefc6864e3f37bbc68ddc99bfbc64825"
+      },
+      "7": {
+        "source_ref": "Exodus 6:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 7,
+            "source_ref": "Exodus 6:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2a019d37be4bca88e3909ed7bddeba07d23ef340df77b738de7e31f670714d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2a019d37be4bca88e3909ed7bddeba07d23ef340df77b738de7e31f670714d5"
+      },
+      "8": {
+        "source_ref": "Exodus 6:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 8,
+            "source_ref": "Exodus 6:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "60a97ea86ed0e2b16aed59eb0e49942f799b1a71f77b0341bb7c36fb40d685ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60a97ea86ed0e2b16aed59eb0e49942f799b1a71f77b0341bb7c36fb40d685ca"
+      },
+      "9": {
+        "source_ref": "Exodus 6:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 9,
+            "source_ref": "Exodus 6:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e766d6632e5d16ff8736397c2dc248e9fce02bae9aea9583ba352b0de4643cae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e766d6632e5d16ff8736397c2dc248e9fce02bae9aea9583ba352b0de4643cae"
+      },
+      "10": {
+        "source_ref": "Exodus 6:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 10,
+            "source_ref": "Exodus 6:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "11": {
+        "source_ref": "Exodus 6:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 11,
+            "source_ref": "Exodus 6:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e41c5d93b0d579533f08a275e33e469bc24b00a353270f5ffc988465672ed290"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e41c5d93b0d579533f08a275e33e469bc24b00a353270f5ffc988465672ed290"
+      },
+      "12": {
+        "source_ref": "Exodus 6:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 12,
+            "source_ref": "Exodus 6:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7b60ec80b39f1fa2728bf2275c9eb63d30314ec5c362854ded58470622632deb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b60ec80b39f1fa2728bf2275c9eb63d30314ec5c362854ded58470622632deb"
+      },
+      "13": {
+        "source_ref": "Exodus 6:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 13,
+            "source_ref": "Exodus 6:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec5b33366b828ef395596f662afe2fe437a0acc8bd34642b7a1b4d6d94bf2eb9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec5b33366b828ef395596f662afe2fe437a0acc8bd34642b7a1b4d6d94bf2eb9"
+      },
+      "14": {
+        "source_ref": "Exodus 6:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 14,
+            "source_ref": "Exodus 6:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aeb6e56597061cb356c090592e21bff588ceba54794c2d58a0ee6ec6a869d32c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aeb6e56597061cb356c090592e21bff588ceba54794c2d58a0ee6ec6a869d32c"
+      },
+      "15": {
+        "source_ref": "Exodus 6:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 15,
+            "source_ref": "Exodus 6:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c69d683fc3b3bfbec9cded00e5267732d4c8c665e49ddb38ba265123a01f870"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c69d683fc3b3bfbec9cded00e5267732d4c8c665e49ddb38ba265123a01f870"
+      },
+      "16": {
+        "source_ref": "Exodus 6:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 16,
+            "source_ref": "Exodus 6:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f91d05f8775e10a12cab6b7729d2a8da4d96d11b8de4196290a297394047381c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f91d05f8775e10a12cab6b7729d2a8da4d96d11b8de4196290a297394047381c"
+      },
+      "17": {
+        "source_ref": "Exodus 6:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 17,
+            "source_ref": "Exodus 6:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "93709cd615c8464f362511c09a22c4b25c6e931f145bec33f4971ef646d2f4c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93709cd615c8464f362511c09a22c4b25c6e931f145bec33f4971ef646d2f4c9"
+      },
+      "18": {
+        "source_ref": "Exodus 6:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 18,
+            "source_ref": "Exodus 6:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "12cb98e0c1cd66f6f49a8913b03c2ac4755ef83eb90b24e0be477fb8fc95cb49"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12cb98e0c1cd66f6f49a8913b03c2ac4755ef83eb90b24e0be477fb8fc95cb49"
+      },
+      "19": {
+        "source_ref": "Exodus 6:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 19,
+            "source_ref": "Exodus 6:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3d2e69834afd6da26d2f8c497339013da493d8a23c32e1d1ae1cbf9c8792dfc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3d2e69834afd6da26d2f8c497339013da493d8a23c32e1d1ae1cbf9c8792dfc"
+      },
+      "20": {
+        "source_ref": "Exodus 6:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 20,
+            "source_ref": "Exodus 6:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d24d24901107141a9739918c532337c7d58c0f65ad5a23622cf44ed437e9daba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d24d24901107141a9739918c532337c7d58c0f65ad5a23622cf44ed437e9daba"
+      },
+      "21": {
+        "source_ref": "Exodus 6:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 21,
+            "source_ref": "Exodus 6:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dda9174336c807e00be55dda280d9e12c6b60eb4d21365aa564d2b7e3f8178e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dda9174336c807e00be55dda280d9e12c6b60eb4d21365aa564d2b7e3f8178e5"
+      },
+      "22": {
+        "source_ref": "Exodus 6:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 22,
+            "source_ref": "Exodus 6:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74d488ea65905d5192c66aa298b0b098fc8d983d1e0f5a09cf2eefaaafa88827"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74d488ea65905d5192c66aa298b0b098fc8d983d1e0f5a09cf2eefaaafa88827"
+      },
+      "23": {
+        "source_ref": "Exodus 6:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 23,
+            "source_ref": "Exodus 6:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "68b6f508e99a773cc56eb0cb68d983cf22e8d4866faf1e14e4308d293da45e12"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68b6f508e99a773cc56eb0cb68d983cf22e8d4866faf1e14e4308d293da45e12"
+      },
+      "24": {
+        "source_ref": "Exodus 6:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 24,
+            "source_ref": "Exodus 6:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d74fbd67800b7e1453218e6a74e108335d0216ddf17920dfd2e950e9a991d6ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d74fbd67800b7e1453218e6a74e108335d0216ddf17920dfd2e950e9a991d6ba"
+      },
+      "25": {
+        "source_ref": "Exodus 6:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 25,
+            "source_ref": "Exodus 6:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3359b6b8b9f4969dc9194d8d9724725cd02a2181df1b838527a470afbb2dab29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3359b6b8b9f4969dc9194d8d9724725cd02a2181df1b838527a470afbb2dab29"
+      },
+      "26": {
+        "source_ref": "Exodus 6:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 26,
+            "source_ref": "Exodus 6:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "10c29fa8daf92f65caedfe8b37d636e570c6689c6203ec33b7ee22ecfc9dc5a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10c29fa8daf92f65caedfe8b37d636e570c6689c6203ec33b7ee22ecfc9dc5a7"
+      },
+      "27": {
+        "source_ref": "Exodus 6:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 27,
+            "source_ref": "Exodus 6:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cce242035e71982ba2df41994c635d88b59e8e873a1e67ba6ed6c8dd40e5b00a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cce242035e71982ba2df41994c635d88b59e8e873a1e67ba6ed6c8dd40e5b00a"
+      },
+      "28": {
+        "source_ref": "Exodus 6:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 28,
+            "source_ref": "Exodus 6:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0aef73da89de015f03c792404eee58f3c55c50976dc4e960893041193578a636"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0aef73da89de015f03c792404eee58f3c55c50976dc4e960893041193578a636"
+      },
+      "29": {
+        "source_ref": "Exodus 6:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 29,
+            "source_ref": "Exodus 6:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8e8b4fe25812c9768088837074edacf7fc58adbe2716891b248193ea3b9915c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8e8b4fe25812c9768088837074edacf7fc58adbe2716891b248193ea3b9915c"
+      },
+      "30": {
+        "source_ref": "Exodus 6:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 30,
+            "source_ref": "Exodus 6:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ce045b4ad7fc33677573dceb07ee21b16d7c95ef86f1808c30e5e84df73d0b93"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce045b4ad7fc33677573dceb07ee21b16d7c95ef86f1808c30e5e84df73d0b93"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/exodus/Exodus_06.md",
+    "blob_sha": "0706a1e9f1f14d97aa6ebae1555498c8a2248226"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
