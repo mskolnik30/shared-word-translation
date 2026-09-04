@@ -1,0 +1,336 @@
+{
+  "book": "Isaiah",
+  "chapter": 32,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 32:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 1,
+            "source_ref": "Isaiah 32:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "91bd8d70fc4d593693cc9a07affa2da871c7fcb1a50bc0d6911035b934c8b03b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91bd8d70fc4d593693cc9a07affa2da871c7fcb1a50bc0d6911035b934c8b03b"
+      },
+      "2": {
+        "source_ref": "Isaiah 32:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 2,
+            "source_ref": "Isaiah 32:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "163bf63c705c5e17e4cd42f5dd124fffaa312cc672575f7082b0a7b6a339ace4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "163bf63c705c5e17e4cd42f5dd124fffaa312cc672575f7082b0a7b6a339ace4"
+      },
+      "3": {
+        "source_ref": "Isaiah 32:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 3,
+            "source_ref": "Isaiah 32:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2fb7f47cfebd38d950aaf05223a6191c4d3ffb643d3fb80fa6abcbe0ad98679e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2fb7f47cfebd38d950aaf05223a6191c4d3ffb643d3fb80fa6abcbe0ad98679e"
+      },
+      "4": {
+        "source_ref": "Isaiah 32:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 4,
+            "source_ref": "Isaiah 32:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a4a57247b2b68f4f134fbe26a7af255a854f18ea4e5cf301879dfa516deda43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a4a57247b2b68f4f134fbe26a7af255a854f18ea4e5cf301879dfa516deda43"
+      },
+      "5": {
+        "source_ref": "Isaiah 32:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 5,
+            "source_ref": "Isaiah 32:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "634adc90ec7405fd0ff739700b69c5ccfb2b69bbdda9165cf4922df82378f8d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "634adc90ec7405fd0ff739700b69c5ccfb2b69bbdda9165cf4922df82378f8d7"
+      },
+      "6": {
+        "source_ref": "Isaiah 32:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 6,
+            "source_ref": "Isaiah 32:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71d56548e15e7aa35dc9e71f278cfe39420e8f74a0668ba65a2725c4793e861c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71d56548e15e7aa35dc9e71f278cfe39420e8f74a0668ba65a2725c4793e861c"
+      },
+      "7": {
+        "source_ref": "Isaiah 32:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 7,
+            "source_ref": "Isaiah 32:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "949331113c6fc6cc898142c7b55cabff038d5dfdc2e3422977e922fa3e7852fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "949331113c6fc6cc898142c7b55cabff038d5dfdc2e3422977e922fa3e7852fb"
+      },
+      "8": {
+        "source_ref": "Isaiah 32:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 8,
+            "source_ref": "Isaiah 32:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "444624c21bdb5c249fd41b0b08fcf5144d1c9f1b78294a926399035c635a3a06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "444624c21bdb5c249fd41b0b08fcf5144d1c9f1b78294a926399035c635a3a06"
+      },
+      "9": {
+        "source_ref": "Isaiah 32:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 9,
+            "source_ref": "Isaiah 32:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cd4e1b5317c2723db25cb003461352a13f4ad5f600c09027adf5688ed7c8e6c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd4e1b5317c2723db25cb003461352a13f4ad5f600c09027adf5688ed7c8e6c7"
+      },
+      "10": {
+        "source_ref": "Isaiah 32:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 10,
+            "source_ref": "Isaiah 32:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e327ddb342958ddaa7397d1a244f37019316c5fb03f98aacf49a5eef3d53be7e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e327ddb342958ddaa7397d1a244f37019316c5fb03f98aacf49a5eef3d53be7e"
+      },
+      "11": {
+        "source_ref": "Isaiah 32:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 11,
+            "source_ref": "Isaiah 32:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e53d33420ceff80d6064d3298bd13cfac2d9df4e834bb29fa853b98a3b14dcf8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e53d33420ceff80d6064d3298bd13cfac2d9df4e834bb29fa853b98a3b14dcf8"
+      },
+      "12": {
+        "source_ref": "Isaiah 32:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 12,
+            "source_ref": "Isaiah 32:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63f8a7661336e9d7c9b78334b1140366f04573be2ade9d03ab69a063104dc7c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63f8a7661336e9d7c9b78334b1140366f04573be2ade9d03ab69a063104dc7c3"
+      },
+      "13": {
+        "source_ref": "Isaiah 32:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 13,
+            "source_ref": "Isaiah 32:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dc71876dff930189a05bd3994c978137da6124ddb8499165b2ce50a4a5f82878"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc71876dff930189a05bd3994c978137da6124ddb8499165b2ce50a4a5f82878"
+      },
+      "14": {
+        "source_ref": "Isaiah 32:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 14,
+            "source_ref": "Isaiah 32:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f41a491687ba07107dd559714b363933c37b8b62bd50adacfc34da8d6fc181d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f41a491687ba07107dd559714b363933c37b8b62bd50adacfc34da8d6fc181d"
+      },
+      "15": {
+        "source_ref": "Isaiah 32:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 15,
+            "source_ref": "Isaiah 32:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dabfc3a6fa44e726354031ec4abc108c8e23a93b5ad2a488634941e5c46cc2d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dabfc3a6fa44e726354031ec4abc108c8e23a93b5ad2a488634941e5c46cc2d0"
+      },
+      "16": {
+        "source_ref": "Isaiah 32:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 16,
+            "source_ref": "Isaiah 32:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8cbaec07b21d0ff901c814bbeb92ddfbe4934e4fe02adeb220c0bfcfe8fed74b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8cbaec07b21d0ff901c814bbeb92ddfbe4934e4fe02adeb220c0bfcfe8fed74b"
+      },
+      "17": {
+        "source_ref": "Isaiah 32:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 17,
+            "source_ref": "Isaiah 32:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1fd2aa763efd47a949dda1fdeaadd9d189fb4f6b523613393da7673d731fbd82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1fd2aa763efd47a949dda1fdeaadd9d189fb4f6b523613393da7673d731fbd82"
+      },
+      "18": {
+        "source_ref": "Isaiah 32:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 18,
+            "source_ref": "Isaiah 32:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2eeeb46ea1e5745d5e72e31edb9f9bb6aeb4b0a6a7b96b4e5d28e3ec92efae56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2eeeb46ea1e5745d5e72e31edb9f9bb6aeb4b0a6a7b96b4e5d28e3ec92efae56"
+      },
+      "19": {
+        "source_ref": "Isaiah 32:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 19,
+            "source_ref": "Isaiah 32:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f81498cde560e31d22601964f92adcdbd9379c644e12fcd98218cbb61879905b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f81498cde560e31d22601964f92adcdbd9379c644e12fcd98218cbb61879905b"
+      },
+      "20": {
+        "source_ref": "Isaiah 32:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 32,
+            "verse": 20,
+            "source_ref": "Isaiah 32:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01a4d97d0f920d9e675f14da3c6073cbec6d151fa0ca049bd82d9c9e253e8e8d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01a4d97d0f920d9e675f14da3c6073cbec6d151fa0ca049bd82d9c9e253e8e8d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_32.md",
+    "blob_sha": "42dfefe40296710d769543930bcbee8f9324f214"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

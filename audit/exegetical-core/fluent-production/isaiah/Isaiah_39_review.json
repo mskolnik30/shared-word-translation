@@ -1,0 +1,156 @@
+{
+  "book": "Isaiah",
+  "chapter": 39,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 39:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 39,
+            "verse": 1,
+            "source_ref": "Isaiah 39:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cd0104eacca62c8b6cc9a1fc4aff1742f9fe812705d3fb1128e7118439964e4c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd0104eacca62c8b6cc9a1fc4aff1742f9fe812705d3fb1128e7118439964e4c"
+      },
+      "2": {
+        "source_ref": "Isaiah 39:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 39,
+            "verse": 2,
+            "source_ref": "Isaiah 39:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e51771af979daa0ab4d1ccbdc158cbec120a7dc0b7253692fe40d4f2edd8a167"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e51771af979daa0ab4d1ccbdc158cbec120a7dc0b7253692fe40d4f2edd8a167"
+      },
+      "3": {
+        "source_ref": "Isaiah 39:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 39,
+            "verse": 3,
+            "source_ref": "Isaiah 39:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6e3adac3c08873f2b0eaf1ae57dc762d328c82b5660af192e230f3b5ebfb91c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e3adac3c08873f2b0eaf1ae57dc762d328c82b5660af192e230f3b5ebfb91c7"
+      },
+      "4": {
+        "source_ref": "Isaiah 39:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 39,
+            "verse": 4,
+            "source_ref": "Isaiah 39:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "37923a42b359a708911108a0e8479824d2b3ceec5c63f6885c7e528e99c2231d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37923a42b359a708911108a0e8479824d2b3ceec5c63f6885c7e528e99c2231d"
+      },
+      "5": {
+        "source_ref": "Isaiah 39:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 39,
+            "verse": 5,
+            "source_ref": "Isaiah 39:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8afb249ec90d49a93c77385c0e4216d148b23ce87825909d3275029fc1c1a1fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8afb249ec90d49a93c77385c0e4216d148b23ce87825909d3275029fc1c1a1fd"
+      },
+      "6": {
+        "source_ref": "Isaiah 39:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 39,
+            "verse": 6,
+            "source_ref": "Isaiah 39:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "386d1accc092464f5efc07c1937adeaecdfe6a79ebe10507375e9c9572e5116b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "386d1accc092464f5efc07c1937adeaecdfe6a79ebe10507375e9c9572e5116b"
+      },
+      "7": {
+        "source_ref": "Isaiah 39:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 39,
+            "verse": 7,
+            "source_ref": "Isaiah 39:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "477eb7a908d0c8b744b6dec52536ff694494fd9316055de44c5424563084351b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "477eb7a908d0c8b744b6dec52536ff694494fd9316055de44c5424563084351b"
+      },
+      "8": {
+        "source_ref": "Isaiah 39:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 39,
+            "verse": 8,
+            "source_ref": "Isaiah 39:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a058f922e5761536e060e794125386cd79e6c0384baca3e92fa83c6183ad4b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a058f922e5761536e060e794125386cd79e6c0384baca3e92fa83c6183ad4b1"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_39.md",
+    "blob_sha": "fbe49ad27a09661e5578899b3477261cf85e85f6"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

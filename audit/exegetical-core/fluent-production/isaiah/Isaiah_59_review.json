@@ -1,0 +1,351 @@
+{
+  "book": "Isaiah",
+  "chapter": 59,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 59:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 1,
+            "source_ref": "Isaiah 59:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e562ec2036dac2b36d9c654a9e2cbe178c11f2457664385e896723c987a57427"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e562ec2036dac2b36d9c654a9e2cbe178c11f2457664385e896723c987a57427"
+      },
+      "2": {
+        "source_ref": "Isaiah 59:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 2,
+            "source_ref": "Isaiah 59:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f1f0d346415104e3794325fe4f601e76bf7d0f78a5e04ab12424596e183506b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f1f0d346415104e3794325fe4f601e76bf7d0f78a5e04ab12424596e183506b"
+      },
+      "3": {
+        "source_ref": "Isaiah 59:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 3,
+            "source_ref": "Isaiah 59:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7ebb0e8a1b7f875925b138b1a0f9cb2ee988379ff0d283446340db0f7da67024"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ebb0e8a1b7f875925b138b1a0f9cb2ee988379ff0d283446340db0f7da67024"
+      },
+      "4": {
+        "source_ref": "Isaiah 59:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 4,
+            "source_ref": "Isaiah 59:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f9493ef4c20787f41209e43a40dee8ede317c1681932e64e87974e29cc5ab730"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9493ef4c20787f41209e43a40dee8ede317c1681932e64e87974e29cc5ab730"
+      },
+      "5": {
+        "source_ref": "Isaiah 59:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 5,
+            "source_ref": "Isaiah 59:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0557a7111d82ff7dc3d802d023c506c75291ea41e60bcd3ca07b1d3507c1eeca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0557a7111d82ff7dc3d802d023c506c75291ea41e60bcd3ca07b1d3507c1eeca"
+      },
+      "6": {
+        "source_ref": "Isaiah 59:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 6,
+            "source_ref": "Isaiah 59:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8b5e0f7921b9ad860023641400e010f62b263449802acc14b4be6c7f6e1459ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b5e0f7921b9ad860023641400e010f62b263449802acc14b4be6c7f6e1459ce"
+      },
+      "7": {
+        "source_ref": "Isaiah 59:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 7,
+            "source_ref": "Isaiah 59:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5fcc13ae66334ff4fd4604d9eabfc61d94fd7408dc20d5fc5b2723f1c8fddeb2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5fcc13ae66334ff4fd4604d9eabfc61d94fd7408dc20d5fc5b2723f1c8fddeb2"
+      },
+      "8": {
+        "source_ref": "Isaiah 59:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 8,
+            "source_ref": "Isaiah 59:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a5bbdeab1463e86c597884415d95cc4f5831f0e1f3c807a2b32e57821259c58e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5bbdeab1463e86c597884415d95cc4f5831f0e1f3c807a2b32e57821259c58e"
+      },
+      "9": {
+        "source_ref": "Isaiah 59:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 9,
+            "source_ref": "Isaiah 59:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6a7f53d8ed6c27b02f8b4aff33e0a4420e396317808c804893da7bb6352cfb28"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a7f53d8ed6c27b02f8b4aff33e0a4420e396317808c804893da7bb6352cfb28"
+      },
+      "10": {
+        "source_ref": "Isaiah 59:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 10,
+            "source_ref": "Isaiah 59:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "13a7daa7632c1464fe67d16384e04081bca31eb85fe7ec2fcc2e88a2d4aab0a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "13a7daa7632c1464fe67d16384e04081bca31eb85fe7ec2fcc2e88a2d4aab0a4"
+      },
+      "11": {
+        "source_ref": "Isaiah 59:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 11,
+            "source_ref": "Isaiah 59:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b999b43b7bc38aec17096e25ea9ca0064adb18c92002134c78e521f627cf2ef5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b999b43b7bc38aec17096e25ea9ca0064adb18c92002134c78e521f627cf2ef5"
+      },
+      "12": {
+        "source_ref": "Isaiah 59:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 12,
+            "source_ref": "Isaiah 59:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35fb3b48ddf7147820358bbb5d380c8ef4b8b6238b27fcd0c19be79b06357b9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35fb3b48ddf7147820358bbb5d380c8ef4b8b6238b27fcd0c19be79b06357b9c"
+      },
+      "13": {
+        "source_ref": "Isaiah 59:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 13,
+            "source_ref": "Isaiah 59:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9e941d895f93861429e3997a16bc021dd307e12e9b988ce87aab198ac555444e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e941d895f93861429e3997a16bc021dd307e12e9b988ce87aab198ac555444e"
+      },
+      "14": {
+        "source_ref": "Isaiah 59:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 14,
+            "source_ref": "Isaiah 59:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d8b1735efe7508d129706d8dac3abe55fe35471aec16193bfafb61e24f7935be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8b1735efe7508d129706d8dac3abe55fe35471aec16193bfafb61e24f7935be"
+      },
+      "15": {
+        "source_ref": "Isaiah 59:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 15,
+            "source_ref": "Isaiah 59:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8b561fcd47d63c8eb5409f67839ec27dc24506b45b9e592dbb5fde91a5dc673"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8b561fcd47d63c8eb5409f67839ec27dc24506b45b9e592dbb5fde91a5dc673"
+      },
+      "16": {
+        "source_ref": "Isaiah 59:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 16,
+            "source_ref": "Isaiah 59:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b5b8a7b296366978f7e5afc3b943259b364e1bc8cd5a53b30ccdea39cafb708f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b5b8a7b296366978f7e5afc3b943259b364e1bc8cd5a53b30ccdea39cafb708f"
+      },
+      "17": {
+        "source_ref": "Isaiah 59:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 17,
+            "source_ref": "Isaiah 59:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc83c1eeef11fa387f27aa7b8acd599e1282df705e64e7a2b690a76c4ec9c11b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc83c1eeef11fa387f27aa7b8acd599e1282df705e64e7a2b690a76c4ec9c11b"
+      },
+      "18": {
+        "source_ref": "Isaiah 59:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 18,
+            "source_ref": "Isaiah 59:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2e509181093cb70083778742311a6829d5ed173aafb5ad17ba71fd7502970822"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e509181093cb70083778742311a6829d5ed173aafb5ad17ba71fd7502970822"
+      },
+      "19": {
+        "source_ref": "Isaiah 59:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 19,
+            "source_ref": "Isaiah 59:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c543d7b3bdf3a44a3ecb8c87c5bd08adead3df5c8ca258d4c9158a133c1c86b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c543d7b3bdf3a44a3ecb8c87c5bd08adead3df5c8ca258d4c9158a133c1c86b6"
+      },
+      "20": {
+        "source_ref": "Isaiah 59:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 20,
+            "source_ref": "Isaiah 59:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dcd38c5102c881d48d07f9e4b6937f9c93aff9140cdba4f74a799912d0495d5e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dcd38c5102c881d48d07f9e4b6937f9c93aff9140cdba4f74a799912d0495d5e"
+      },
+      "21": {
+        "source_ref": "Isaiah 59:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 21,
+            "source_ref": "Isaiah 59:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "17582763f0c575556cfcf95a7ba9458f0b49ef9b98d10fc33ed28103b4245ac8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17582763f0c575556cfcf95a7ba9458f0b49ef9b98d10fc33ed28103b4245ac8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_59.md",
+    "blob_sha": "c3a2eb377726e4c0557199b4ae9ee3499f2814dc"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

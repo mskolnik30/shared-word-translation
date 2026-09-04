@@ -1,0 +1,141 @@
+{
+  "book": "Isaiah",
+  "chapter": 18,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 18:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 1,
+            "source_ref": "Isaiah 18:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45caa5a36f025ffde03c2d8a267de12fb54dce92be6d89e5b2607a38a339af8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45caa5a36f025ffde03c2d8a267de12fb54dce92be6d89e5b2607a38a339af8a"
+      },
+      "2": {
+        "source_ref": "Isaiah 18:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 2,
+            "source_ref": "Isaiah 18:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "60a9f54e5c9de572776da3f2db9301285d711194f4865a078e5a8ed68ec7ec59"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60a9f54e5c9de572776da3f2db9301285d711194f4865a078e5a8ed68ec7ec59"
+      },
+      "3": {
+        "source_ref": "Isaiah 18:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 3,
+            "source_ref": "Isaiah 18:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d52e0d3641c6f24db0689aa3c7e4da8f689851734dd927f4338b5789ae5ad660"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d52e0d3641c6f24db0689aa3c7e4da8f689851734dd927f4338b5789ae5ad660"
+      },
+      "4": {
+        "source_ref": "Isaiah 18:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 4,
+            "source_ref": "Isaiah 18:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "908fb40b7cba9fd0d46968a9df680f178f4678bf348f2b479602b510823f1c5b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "908fb40b7cba9fd0d46968a9df680f178f4678bf348f2b479602b510823f1c5b"
+      },
+      "5": {
+        "source_ref": "Isaiah 18:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 5,
+            "source_ref": "Isaiah 18:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6138c7730c843c9f50230cd803caced346ee1467f718a96e1913fa5f5db8f646"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6138c7730c843c9f50230cd803caced346ee1467f718a96e1913fa5f5db8f646"
+      },
+      "6": {
+        "source_ref": "Isaiah 18:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 6,
+            "source_ref": "Isaiah 18:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "41738ccf113f53d6937332529179e518ecebef2415e824c404d0ac595ddf22d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41738ccf113f53d6937332529179e518ecebef2415e824c404d0ac595ddf22d0"
+      },
+      "7": {
+        "source_ref": "Isaiah 18:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 7,
+            "source_ref": "Isaiah 18:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "658dd76d05dbaa86b6c7faf99d602a9339a50ea179e3706ceb81593d9d11b268"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "658dd76d05dbaa86b6c7faf99d602a9339a50ea179e3706ceb81593d9d11b268"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_18.md",
+    "blob_sha": "136c89b64819d8ef146a612a4c074d77f40f529a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

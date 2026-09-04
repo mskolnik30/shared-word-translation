@@ -1,0 +1,201 @@
+{
+  "book": "Isaiah",
+  "chapter": 50,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 50:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 1,
+            "source_ref": "Isaiah 50:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b937dbb0117d4490e9e0c8a91986d4cc31835e4f8d5ffa3b1562b9d5e64de5d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b937dbb0117d4490e9e0c8a91986d4cc31835e4f8d5ffa3b1562b9d5e64de5d"
+      },
+      "2": {
+        "source_ref": "Isaiah 50:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 2,
+            "source_ref": "Isaiah 50:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f9aa9d7b983b8bc76710bdcb421e8840846fba5347a2794ac52956f38edf9bb6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9aa9d7b983b8bc76710bdcb421e8840846fba5347a2794ac52956f38edf9bb6"
+      },
+      "3": {
+        "source_ref": "Isaiah 50:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 3,
+            "source_ref": "Isaiah 50:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "46cdc90896a218aa6d2d2e21aeceef1c56102524a33fe39fc9a7f76c26a2ca81"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46cdc90896a218aa6d2d2e21aeceef1c56102524a33fe39fc9a7f76c26a2ca81"
+      },
+      "4": {
+        "source_ref": "Isaiah 50:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 4,
+            "source_ref": "Isaiah 50:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9daf8911b0a01ed7e409d15a96317ade48ab8b934b41f0df087aa439404e61a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9daf8911b0a01ed7e409d15a96317ade48ab8b934b41f0df087aa439404e61a"
+      },
+      "5": {
+        "source_ref": "Isaiah 50:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 5,
+            "source_ref": "Isaiah 50:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6e5efc3eaa36605a4e458c10b38d6794f8275baff71b7ebcabe4c219b31f90d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e5efc3eaa36605a4e458c10b38d6794f8275baff71b7ebcabe4c219b31f90d4"
+      },
+      "6": {
+        "source_ref": "Isaiah 50:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 6,
+            "source_ref": "Isaiah 50:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "48facbf6e04db4214d14f038f9fa5a9d8a22bf9c4803c2d678ba641fc43e97e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48facbf6e04db4214d14f038f9fa5a9d8a22bf9c4803c2d678ba641fc43e97e4"
+      },
+      "7": {
+        "source_ref": "Isaiah 50:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 7,
+            "source_ref": "Isaiah 50:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "68e6db42dea8f781e1e9076e5276754067ad278d11d6963f220e90fe4e452003"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68e6db42dea8f781e1e9076e5276754067ad278d11d6963f220e90fe4e452003"
+      },
+      "8": {
+        "source_ref": "Isaiah 50:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 8,
+            "source_ref": "Isaiah 50:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7d9c78204787086834ca6ed4cc78725bc3cf8b7762d5122501df550c1c7c390c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d9c78204787086834ca6ed4cc78725bc3cf8b7762d5122501df550c1c7c390c"
+      },
+      "9": {
+        "source_ref": "Isaiah 50:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 9,
+            "source_ref": "Isaiah 50:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df257a03be676d2b1f9ffa5a82c1e98b230b6eefcdc83e7cfc1a8d1d7088c0e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df257a03be676d2b1f9ffa5a82c1e98b230b6eefcdc83e7cfc1a8d1d7088c0e4"
+      },
+      "10": {
+        "source_ref": "Isaiah 50:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 10,
+            "source_ref": "Isaiah 50:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "25d4f3e10fee5845faa8b8f63db11e0443cadab046037507d4494382ad7e2c67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25d4f3e10fee5845faa8b8f63db11e0443cadab046037507d4494382ad7e2c67"
+      },
+      "11": {
+        "source_ref": "Isaiah 50:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 50,
+            "verse": 11,
+            "source_ref": "Isaiah 50:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "19204e93a53370d0b44b2a727fc011eb47ded75f7db3c3a75d04811a80b719d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "19204e93a53370d0b44b2a727fc011eb47ded75f7db3c3a75d04811a80b719d3"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_50.md",
+    "blob_sha": "10206033ca038c46fcb65176ed33ec443ef0eb50"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

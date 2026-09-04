@@ -1,0 +1,216 @@
+{
+  "book": "Isaiah",
+  "chapter": 25,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 25:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 1,
+            "source_ref": "Isaiah 25:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d5523690a455ea1c82655b0b8fcf579e4bd140bd10e76ae978ae082e89f61ea5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d5523690a455ea1c82655b0b8fcf579e4bd140bd10e76ae978ae082e89f61ea5"
+      },
+      "2": {
+        "source_ref": "Isaiah 25:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 2,
+            "source_ref": "Isaiah 25:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d6377ccdf695b030e805293f2dcdb0d41adfbdd395e73ab7d9c69a985a5e6522"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6377ccdf695b030e805293f2dcdb0d41adfbdd395e73ab7d9c69a985a5e6522"
+      },
+      "3": {
+        "source_ref": "Isaiah 25:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 3,
+            "source_ref": "Isaiah 25:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "84b710e96d20dab79589c6dd0034bb8046eb1ecb516569f98ea861804568b6f1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84b710e96d20dab79589c6dd0034bb8046eb1ecb516569f98ea861804568b6f1"
+      },
+      "4": {
+        "source_ref": "Isaiah 25:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 4,
+            "source_ref": "Isaiah 25:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "357143c8433f5f9d0fc3b3740da277358bc1a55ccc35b01d536a24ac83c681e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "357143c8433f5f9d0fc3b3740da277358bc1a55ccc35b01d536a24ac83c681e3"
+      },
+      "5": {
+        "source_ref": "Isaiah 25:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 5,
+            "source_ref": "Isaiah 25:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63aa018dd216cdd25c7a315be285814723cfda80865294c5188e006e84364ef7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63aa018dd216cdd25c7a315be285814723cfda80865294c5188e006e84364ef7"
+      },
+      "6": {
+        "source_ref": "Isaiah 25:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 6,
+            "source_ref": "Isaiah 25:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cbc9ee8cba067cab77059a4b36fce583af167cc7f5f646d62bde56b824951378"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cbc9ee8cba067cab77059a4b36fce583af167cc7f5f646d62bde56b824951378"
+      },
+      "7": {
+        "source_ref": "Isaiah 25:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 7,
+            "source_ref": "Isaiah 25:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b6a6f2de577b8ca6ef2e63bb1288f284900599c5f2a293abf05557c600b87538"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6a6f2de577b8ca6ef2e63bb1288f284900599c5f2a293abf05557c600b87538"
+      },
+      "8": {
+        "source_ref": "Isaiah 25:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 8,
+            "source_ref": "Isaiah 25:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7f3b46b318945f48f03282fd5962f7add47502abce9808e6b2574798f68d73c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f3b46b318945f48f03282fd5962f7add47502abce9808e6b2574798f68d73c1"
+      },
+      "9": {
+        "source_ref": "Isaiah 25:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 9,
+            "source_ref": "Isaiah 25:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3faa5d31a7759d3c231564d56ed4452584494bdc196fe997acc03384d5d43614"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3faa5d31a7759d3c231564d56ed4452584494bdc196fe997acc03384d5d43614"
+      },
+      "10": {
+        "source_ref": "Isaiah 25:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 10,
+            "source_ref": "Isaiah 25:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6a0a401bc754c51e11c00e1bb905183aa3a7eed4e03d59a1c7debe1e1eb8af8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6a0a401bc754c51e11c00e1bb905183aa3a7eed4e03d59a1c7debe1e1eb8af8"
+      },
+      "11": {
+        "source_ref": "Isaiah 25:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 11,
+            "source_ref": "Isaiah 25:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3ef61e585dded4ebb86ac22bf1607a8329e6a45e5c69ebfecd2491eee856a1e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ef61e585dded4ebb86ac22bf1607a8329e6a45e5c69ebfecd2491eee856a1e6"
+      },
+      "12": {
+        "source_ref": "Isaiah 25:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 12,
+            "source_ref": "Isaiah 25:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f3221945a91dbb6a16216ccce430458e5565cb41788556b26121d736d7bd4e52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3221945a91dbb6a16216ccce430458e5565cb41788556b26121d736d7bd4e52"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_25.md",
+    "blob_sha": "cb9442b1506c8890b0cc8a9b891697e1e2853c2e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

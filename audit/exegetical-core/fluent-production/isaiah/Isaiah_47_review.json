@@ -1,0 +1,261 @@
+{
+  "book": "Isaiah",
+  "chapter": 47,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 47:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 1,
+            "source_ref": "Isaiah 47:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4e0b019cc749dbeb9131726fc0747b8f03dd9b1b88c1d2a869d95d5ca9dfc90b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e0b019cc749dbeb9131726fc0747b8f03dd9b1b88c1d2a869d95d5ca9dfc90b"
+      },
+      "2": {
+        "source_ref": "Isaiah 47:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 2,
+            "source_ref": "Isaiah 47:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72eb52c0ca4935236f4bd42e6fdf3546dd13cb4fde9700f9cf97a6762fa591fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72eb52c0ca4935236f4bd42e6fdf3546dd13cb4fde9700f9cf97a6762fa591fa"
+      },
+      "3": {
+        "source_ref": "Isaiah 47:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 3,
+            "source_ref": "Isaiah 47:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d47e94c46ece511c559051803dceb3baffc5308e8beb693bba3bf8977dd2142"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d47e94c46ece511c559051803dceb3baffc5308e8beb693bba3bf8977dd2142"
+      },
+      "4": {
+        "source_ref": "Isaiah 47:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 4,
+            "source_ref": "Isaiah 47:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2733299b712589b950704d8ce9107692bed394115707dc36418a01246b83cc74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2733299b712589b950704d8ce9107692bed394115707dc36418a01246b83cc74"
+      },
+      "5": {
+        "source_ref": "Isaiah 47:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 5,
+            "source_ref": "Isaiah 47:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fec55cdc4716b80bd99fefef8609160a6ef0e78740f6f5492fde69af8f2cbff9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fec55cdc4716b80bd99fefef8609160a6ef0e78740f6f5492fde69af8f2cbff9"
+      },
+      "6": {
+        "source_ref": "Isaiah 47:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 6,
+            "source_ref": "Isaiah 47:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f2d552c7c5fd12bf9671c395abea96cf4c23332e327d1839328d768685ac8f4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2d552c7c5fd12bf9671c395abea96cf4c23332e327d1839328d768685ac8f4a"
+      },
+      "7": {
+        "source_ref": "Isaiah 47:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 7,
+            "source_ref": "Isaiah 47:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "820cef25a5b2ce49caf17784f4ad047bf1ee7c4277f9ca8d66faf2f3834ce2c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "820cef25a5b2ce49caf17784f4ad047bf1ee7c4277f9ca8d66faf2f3834ce2c4"
+      },
+      "8": {
+        "source_ref": "Isaiah 47:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 8,
+            "source_ref": "Isaiah 47:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "03ec317fbd311eb166dd3e4233c11c3f493029eaf3747b9a01efb1555e82ac56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03ec317fbd311eb166dd3e4233c11c3f493029eaf3747b9a01efb1555e82ac56"
+      },
+      "9": {
+        "source_ref": "Isaiah 47:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 9,
+            "source_ref": "Isaiah 47:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "feb63a8a00676f310ca91f1024bf1477857d2329098745ab3ceeb0a957f5ed48"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "feb63a8a00676f310ca91f1024bf1477857d2329098745ab3ceeb0a957f5ed48"
+      },
+      "10": {
+        "source_ref": "Isaiah 47:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 10,
+            "source_ref": "Isaiah 47:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f36cd9578d5de0e71382c3dc62b335eff384780bb30994860d6a0f932b20302c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f36cd9578d5de0e71382c3dc62b335eff384780bb30994860d6a0f932b20302c"
+      },
+      "11": {
+        "source_ref": "Isaiah 47:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 11,
+            "source_ref": "Isaiah 47:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b659b2d01d9a72ed69765263f36cc6bfcf19ccc6392ef74735404e011f7d4f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b659b2d01d9a72ed69765263f36cc6bfcf19ccc6392ef74735404e011f7d4f2"
+      },
+      "12": {
+        "source_ref": "Isaiah 47:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 12,
+            "source_ref": "Isaiah 47:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9f49ecf7e07645c2bd3c5d3e679b8b8caa393cacc271cbec95a6c8b689330ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9f49ecf7e07645c2bd3c5d3e679b8b8caa393cacc271cbec95a6c8b689330ad"
+      },
+      "13": {
+        "source_ref": "Isaiah 47:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 13,
+            "source_ref": "Isaiah 47:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a17125d3dec8e2c82744838be73da29aa0685738c1c47937e29339bd3db93bf1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a17125d3dec8e2c82744838be73da29aa0685738c1c47937e29339bd3db93bf1"
+      },
+      "14": {
+        "source_ref": "Isaiah 47:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 14,
+            "source_ref": "Isaiah 47:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "046380bb01e1dd9cab321a4c9e64ddd32f1f0b0ba69badb4b62cb5b62ff8de56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "046380bb01e1dd9cab321a4c9e64ddd32f1f0b0ba69badb4b62cb5b62ff8de56"
+      },
+      "15": {
+        "source_ref": "Isaiah 47:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 47,
+            "verse": 15,
+            "source_ref": "Isaiah 47:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3c5414c5637cd5831b14c6e3a9b9f89ed58804b2a2d39ccf91b724d6e300845f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c5414c5637cd5831b14c6e3a9b9f89ed58804b2a2d39ccf91b724d6e300845f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_47.md",
+    "blob_sha": "4d46c26427dbe806dde11e7dca36682e3a3a6601"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

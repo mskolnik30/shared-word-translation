@@ -1,0 +1,91 @@
+---
+book: Isaiah
+testament: OT
+chapter: 24
+translation: FLUENT
+status: QA_PASSED
+---
+
+## The Earth Laid Waste
+
+<p>
+v01: Look, the LORD makes the earth empty, makes it waste, turns it upside down, and scatters its inhabitants.
+v02: It will be as with the people, so with the priest;
+as with the servant, so with his master;
+as with the maid, so with her mistress;
+as with the buyer, so with the seller;
+as with the creditor, so with the debtor;
+as with the taker of interest, so with the giver of interest.
+v03: The earth will be utterly emptied and utterly laid waste;
+for the LORD has spoken this word.
+v04: The earth mourns and fades away. The world languishes and fades away. The lofty people of the earth languish.
+</p>
+
+<p>
+v05: The earth also is polluted under its inhabitants, because they have transgressed the laws, violated the statutes, and broken the everlasting covenant.
+v06: So the curse has devoured the earth, and people who dwell in it are found guilty. Therefore the inhabitants of the earth are burned, and few men left.
+v07: The new wine mourns. The vine languishes. All the merry-hearted sigh.
+v08: The mirth of tambourines ceases. The sound of people who rejoice ends. The joy of the harp ceases.
+</p>
+
+<p>
+v09: They will not drink wine with a song. Strong drink will be bitter to people who drink it.
+v10: The confused city is broken down. Every house is shut up, that no man may come in.
+v11: There is a crying in the streets because of the wine. All joy is darkened. The mirth of the land is gone.
+v12: The city is left in desolation, and the gate is struck with destruction.
+</p>
+
+<p>
+v13: For it will be so among the earth among the peoples, as the shaking of an olive tree, as the gleanings when the vintage is done.
+v14: These will lift up their voice. They will shout for the majesty of the LORD. They cry aloud from the sea.
+v15: So glorify the LORD in the east, even the name of the LORD, the God of Israel, in the islands of the sea!
+v16: From the uttermost part of the earth have we heard songs. Glory to the righteous! But I said, "I pine away! I pine away! woe is me!" The treacherous have dealt treacherously. Yes, the treacherous have dealt very treacherously.
+</p>
+
+<p>
+v17: Fear, the pit, and the snare, are on you who inhabitant the earth.
+v18: It will happen that the one who flees from the noise of the fear will fall into the pit;
+and the one who comes up out of the midst of the pit will be taken in the snare;
+for the windows on high are opened, and the foundations of the earth tremble.
+v19: The earth is utterly broken. The earth is torn apart. The earth is shaken violently.
+v20: The earth will stagger like a drunken man, and will sway back and forth like a hammock. Its disobedience will be heavy on it, and it will fall and not rise again.
+</p>
+
+<p>
+v21: It will happen on that day that the LORD will punish the army of the high ones on high, and the kings of the earth on the earth.
+v22: They will be gathered together, as prisoners are gathered in the pit, and will be shut up in the prison;
+and after many days will they be visited.
+v23: Then the moon will be confounded, and the sun ashamed;
+for the LORD of Hosts will reign on Mount Zion, and in Jerusalem;
+and before his elders will be glory.
+</p>
+
+## Notes
+
+v05: The chapter repeatedly links human transgression with the disruption of the earth itself; social, covenantal, and cosmic disorder are not separated.
+
+v05: “covenant” — The term names a binding relationship shaped by promise and obligation. Isaiah uses covenant language in both judgment and restoration.
+
+v23: “LORD of Hosts” — The title presents the LORD as sovereign over heavenly and earthly hosts and is especially prominent in Isaiah.
+
+v02: “servant” — Isaiah uses servant language in several contexts. TSW preserves the immediate wording rather than forcing every occurrence into a single later identification.
+
+## Vocabulary
+
+v23: יְהוָה צְבָאוֹת (YHWH tseva'ot)
+“LORD of Hosts.” A divine title emphasizing sovereign command.
+
+v23: צִיּוֹן (tsiyyon)
+“Zion.” Jerusalem and, by extension, the city’s people and theological identity.
+
+v23: יְהוָה צְבָאוֹת (YHWH tseva'ot)
+“LORD of Hosts.” A title joining the divine name to “hosts/armies.”
+
+v23: צִיּוֹן (tsiyyon)
+“Zion.” A name for Jerusalem, especially the city associated with the temple and Davidic rule.
+
+v02: עֶבֶד (eved)
+“Servant.” One who serves another; used in Isaiah for several figures and for Israel.
+
+v05: בְּרִית (berit)
+“Covenant.” A binding relationship shaped by promise and obligation.

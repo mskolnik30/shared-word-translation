@@ -1,0 +1,216 @@
+{
+  "book": "Isaiah",
+  "chapter": 53,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 53:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 1,
+            "source_ref": "Isaiah 53:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "de08d32bf9b917d5d56eb1341a5cddf0bac6617841ebac149dc1cab95353f1e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de08d32bf9b917d5d56eb1341a5cddf0bac6617841ebac149dc1cab95353f1e0"
+      },
+      "2": {
+        "source_ref": "Isaiah 53:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 2,
+            "source_ref": "Isaiah 53:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1962044fd10cb7005a171a297e50f5eec82fba33ab3991ccaa8bf015c658680d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1962044fd10cb7005a171a297e50f5eec82fba33ab3991ccaa8bf015c658680d"
+      },
+      "3": {
+        "source_ref": "Isaiah 53:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 3,
+            "source_ref": "Isaiah 53:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "978a821cff626f6026f639e5977d42a8128605c5389be123377aff8260433556"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "978a821cff626f6026f639e5977d42a8128605c5389be123377aff8260433556"
+      },
+      "4": {
+        "source_ref": "Isaiah 53:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 4,
+            "source_ref": "Isaiah 53:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fbd283c33839c660f0b73b9a51ffd178a69ec8727aa80420357d29deefc6911f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbd283c33839c660f0b73b9a51ffd178a69ec8727aa80420357d29deefc6911f"
+      },
+      "5": {
+        "source_ref": "Isaiah 53:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 5,
+            "source_ref": "Isaiah 53:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "101cbfe4e05993eddc2c8c2cb484bb5a49d7284af9d8dbeb729f37deeb3b343c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "101cbfe4e05993eddc2c8c2cb484bb5a49d7284af9d8dbeb729f37deeb3b343c"
+      },
+      "6": {
+        "source_ref": "Isaiah 53:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 6,
+            "source_ref": "Isaiah 53:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a453b7c25f0eaf2b801ddecebb7e9edf03c1da0de64447756c17fe491a85c1f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a453b7c25f0eaf2b801ddecebb7e9edf03c1da0de64447756c17fe491a85c1f"
+      },
+      "7": {
+        "source_ref": "Isaiah 53:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 7,
+            "source_ref": "Isaiah 53:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "136e7d5bd362e30ebb340b9e69863ee2a6c8e02727c6c6ff2d442dfeb058f29f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "136e7d5bd362e30ebb340b9e69863ee2a6c8e02727c6c6ff2d442dfeb058f29f"
+      },
+      "8": {
+        "source_ref": "Isaiah 53:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 8,
+            "source_ref": "Isaiah 53:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ff94ee03f0405c109bb7c327330fd8723b739aacc9f36dfcb7564af40e819e9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff94ee03f0405c109bb7c327330fd8723b739aacc9f36dfcb7564af40e819e9b"
+      },
+      "9": {
+        "source_ref": "Isaiah 53:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 9,
+            "source_ref": "Isaiah 53:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9bdde757211a7f5fa8cc02b5c47f5a532cc4693ffd207c6cbaa930fb464d8b9f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9bdde757211a7f5fa8cc02b5c47f5a532cc4693ffd207c6cbaa930fb464d8b9f"
+      },
+      "10": {
+        "source_ref": "Isaiah 53:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 10,
+            "source_ref": "Isaiah 53:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "518cdb4bbfc13f3877d2929bbac6312d38b876f636bffa20a5cea1ec0d59e3de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "518cdb4bbfc13f3877d2929bbac6312d38b876f636bffa20a5cea1ec0d59e3de"
+      },
+      "11": {
+        "source_ref": "Isaiah 53:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 11,
+            "source_ref": "Isaiah 53:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bbafc418d5e031f5d614ea06019aa2e890833e96272a9a4d7a83c54ab810ddcc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bbafc418d5e031f5d614ea06019aa2e890833e96272a9a4d7a83c54ab810ddcc"
+      },
+      "12": {
+        "source_ref": "Isaiah 53:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 12,
+            "source_ref": "Isaiah 53:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "574cb2e03c1667e2c9f18968f6f7b3a9552497be3a8a549cf4c2ec778f2ca311"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "574cb2e03c1667e2c9f18968f6f7b3a9552497be3a8a549cf4c2ec778f2ca311"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_53.md",
+    "blob_sha": "37e94271b7417422ca3e227bb89f64236cd07f9b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

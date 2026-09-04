@@ -1,0 +1,516 @@
+{
+  "book": "Isaiah",
+  "chapter": 14,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 14:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 1,
+            "source_ref": "Isaiah 14:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "24d4019557320707afbbfb242cf73e42af6b98a16efc5c02d6e456b6bf380317"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "24d4019557320707afbbfb242cf73e42af6b98a16efc5c02d6e456b6bf380317"
+      },
+      "2": {
+        "source_ref": "Isaiah 14:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 2,
+            "source_ref": "Isaiah 14:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cd105cf1fac0f17507e105e8531ded7f81b1bbc755ec0b4d2ba473069a42bcf9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd105cf1fac0f17507e105e8531ded7f81b1bbc755ec0b4d2ba473069a42bcf9"
+      },
+      "3": {
+        "source_ref": "Isaiah 14:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 3,
+            "source_ref": "Isaiah 14:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf207a2e16c0df351d0943833bba9b33297e14626a3bc5ab59177bf2194795ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf207a2e16c0df351d0943833bba9b33297e14626a3bc5ab59177bf2194795ce"
+      },
+      "4": {
+        "source_ref": "Isaiah 14:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 4,
+            "source_ref": "Isaiah 14:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e71f021807d996cc7345f0893f52539138eac9b02bd2a193346bf1001fe917e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e71f021807d996cc7345f0893f52539138eac9b02bd2a193346bf1001fe917e8"
+      },
+      "5": {
+        "source_ref": "Isaiah 14:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 5,
+            "source_ref": "Isaiah 14:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "65f39ceec298e522858e543d0ca72b871a252efdcdf5d6b98c1b8508d6b1bd5d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65f39ceec298e522858e543d0ca72b871a252efdcdf5d6b98c1b8508d6b1bd5d"
+      },
+      "6": {
+        "source_ref": "Isaiah 14:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 6,
+            "source_ref": "Isaiah 14:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b4beb8c650285ecd3d42a32e7adbad019513d8135551d7b5c85fde2a297ce2cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4beb8c650285ecd3d42a32e7adbad019513d8135551d7b5c85fde2a297ce2cd"
+      },
+      "7": {
+        "source_ref": "Isaiah 14:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 7,
+            "source_ref": "Isaiah 14:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "37c6c6a7d91a5fb36a01858641a447f632311979a39a21fb50cd1681f3fce87b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37c6c6a7d91a5fb36a01858641a447f632311979a39a21fb50cd1681f3fce87b"
+      },
+      "8": {
+        "source_ref": "Isaiah 14:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 8,
+            "source_ref": "Isaiah 14:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fc062d3fc1fdfa987a81f422e83d6739720f8be8e46b0b6cd579daeaf0948bf3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fc062d3fc1fdfa987a81f422e83d6739720f8be8e46b0b6cd579daeaf0948bf3"
+      },
+      "9": {
+        "source_ref": "Isaiah 14:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 9,
+            "source_ref": "Isaiah 14:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1e7e329f42c50ef625ea042679fa84564c0bd056b093ce5982ff4e29974d8ffc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e7e329f42c50ef625ea042679fa84564c0bd056b093ce5982ff4e29974d8ffc"
+      },
+      "10": {
+        "source_ref": "Isaiah 14:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 10,
+            "source_ref": "Isaiah 14:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7b622d49e9f3fa7b329bfed5c2156b3d033a3eb1435485c80b8819429c3cbb02"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b622d49e9f3fa7b329bfed5c2156b3d033a3eb1435485c80b8819429c3cbb02"
+      },
+      "11": {
+        "source_ref": "Isaiah 14:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 11,
+            "source_ref": "Isaiah 14:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8fd5c7f0f298e4c3faae550ddc4dab464d02f695632953b6c98e33a85b31c09d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fd5c7f0f298e4c3faae550ddc4dab464d02f695632953b6c98e33a85b31c09d"
+      },
+      "12": {
+        "source_ref": "Isaiah 14:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 12,
+            "source_ref": "Isaiah 14:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6b6b398fb647ba5d673b37829737eb969e0d846f1acb82e343b09522ab118142"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b6b398fb647ba5d673b37829737eb969e0d846f1acb82e343b09522ab118142"
+      },
+      "13": {
+        "source_ref": "Isaiah 14:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 13,
+            "source_ref": "Isaiah 14:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "20107e446e3a5b7220467f6523c352d0cf063862faf7fc0313b66aca86afd82e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "20107e446e3a5b7220467f6523c352d0cf063862faf7fc0313b66aca86afd82e"
+      },
+      "14": {
+        "source_ref": "Isaiah 14:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 14,
+            "source_ref": "Isaiah 14:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ab19a468c8ca69422abce3d900c07b8750832bd6e0531804439f79c289727b32"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab19a468c8ca69422abce3d900c07b8750832bd6e0531804439f79c289727b32"
+      },
+      "15": {
+        "source_ref": "Isaiah 14:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 15,
+            "source_ref": "Isaiah 14:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "84a6803b28992ac74001202306ae458ecc67bbe336e41fd98d13c6cd873cc13b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84a6803b28992ac74001202306ae458ecc67bbe336e41fd98d13c6cd873cc13b"
+      },
+      "16": {
+        "source_ref": "Isaiah 14:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 16,
+            "source_ref": "Isaiah 14:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e2380c6e86c39f714ca6796b977de71f9a36ea2129cbef0cc62cab90ea29e869"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2380c6e86c39f714ca6796b977de71f9a36ea2129cbef0cc62cab90ea29e869"
+      },
+      "17": {
+        "source_ref": "Isaiah 14:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 17,
+            "source_ref": "Isaiah 14:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a63c2e0341406b0a9f512dd353da004a58b3b52dec55eafb66df37671427b6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a63c2e0341406b0a9f512dd353da004a58b3b52dec55eafb66df37671427b6a"
+      },
+      "18": {
+        "source_ref": "Isaiah 14:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 18,
+            "source_ref": "Isaiah 14:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b8264c14682888d1b66ce5eda2beb49800999495e4ecbb9c7e1650663e6e1ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b8264c14682888d1b66ce5eda2beb49800999495e4ecbb9c7e1650663e6e1ca"
+      },
+      "19": {
+        "source_ref": "Isaiah 14:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 19,
+            "source_ref": "Isaiah 14:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6b6ef052fcb994d172d0447d45ca5039a2f2720c83c217941157f97ea1554588"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b6ef052fcb994d172d0447d45ca5039a2f2720c83c217941157f97ea1554588"
+      },
+      "20": {
+        "source_ref": "Isaiah 14:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 20,
+            "source_ref": "Isaiah 14:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ecfcb2eb603a6b5e63b347a01fa31cf639b8fb84d4eef2c7f351303e40e4c1a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ecfcb2eb603a6b5e63b347a01fa31cf639b8fb84d4eef2c7f351303e40e4c1a4"
+      },
+      "21": {
+        "source_ref": "Isaiah 14:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 21,
+            "source_ref": "Isaiah 14:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "09f56184fb0d15346d2f64c1a28279c1863d437ac429dbe432bfaaf7e87945bc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09f56184fb0d15346d2f64c1a28279c1863d437ac429dbe432bfaaf7e87945bc"
+      },
+      "22": {
+        "source_ref": "Isaiah 14:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 22,
+            "source_ref": "Isaiah 14:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1337d193ef8baefdadb2eb3c8b2426560983790757ad2b22910211dde52e63e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1337d193ef8baefdadb2eb3c8b2426560983790757ad2b22910211dde52e63e5"
+      },
+      "23": {
+        "source_ref": "Isaiah 14:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 23,
+            "source_ref": "Isaiah 14:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ec3331f6c54a2151798c54a54d9ac2e168f629e5efef3afde1b87cf48f1f290"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ec3331f6c54a2151798c54a54d9ac2e168f629e5efef3afde1b87cf48f1f290"
+      },
+      "24": {
+        "source_ref": "Isaiah 14:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 24,
+            "source_ref": "Isaiah 14:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3e95d77368d7292a327b7e471241b9b6a84711842096c1309f52b6f3bff631af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3e95d77368d7292a327b7e471241b9b6a84711842096c1309f52b6f3bff631af"
+      },
+      "25": {
+        "source_ref": "Isaiah 14:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 25,
+            "source_ref": "Isaiah 14:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a6c30bfec36189eb69e004ef19f9a068394a4b08e610047bf6c3a5289005b8d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a6c30bfec36189eb69e004ef19f9a068394a4b08e610047bf6c3a5289005b8d"
+      },
+      "26": {
+        "source_ref": "Isaiah 14:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 26,
+            "source_ref": "Isaiah 14:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "741619b46f95ae37b534f237ab469397b008987b26936bf5a9950b3a12abf517"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "741619b46f95ae37b534f237ab469397b008987b26936bf5a9950b3a12abf517"
+      },
+      "27": {
+        "source_ref": "Isaiah 14:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 27,
+            "source_ref": "Isaiah 14:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7dcceb352dd4eda393e5aae546ec314d53cb5329c689d48ce5b896aaeae6716c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7dcceb352dd4eda393e5aae546ec314d53cb5329c689d48ce5b896aaeae6716c"
+      },
+      "28": {
+        "source_ref": "Isaiah 14:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 28,
+            "source_ref": "Isaiah 14:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "665c02923bcf12e3af15669ce7711e6933f27c32c70f19ceeeef33a784fefa9a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "665c02923bcf12e3af15669ce7711e6933f27c32c70f19ceeeef33a784fefa9a"
+      },
+      "29": {
+        "source_ref": "Isaiah 14:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 29,
+            "source_ref": "Isaiah 14:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3163b64d86e460e6b1c065c6f2be475b0731a69bc5cc5c2ee24bef13575664d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3163b64d86e460e6b1c065c6f2be475b0731a69bc5cc5c2ee24bef13575664d3"
+      },
+      "30": {
+        "source_ref": "Isaiah 14:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 30,
+            "source_ref": "Isaiah 14:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0967824e087e17c2717599fcd63ecbfef15246b482e56ee582a8ca55b4d25f93"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0967824e087e17c2717599fcd63ecbfef15246b482e56ee582a8ca55b4d25f93"
+      },
+      "31": {
+        "source_ref": "Isaiah 14:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 31,
+            "source_ref": "Isaiah 14:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b0fac00e025dae1a9ca4c8cced0c78ed5b5214a3196dc783c680bf93af5fabf2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0fac00e025dae1a9ca4c8cced0c78ed5b5214a3196dc783c680bf93af5fabf2"
+      },
+      "32": {
+        "source_ref": "Isaiah 14:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 32,
+            "source_ref": "Isaiah 14:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d2537b36ea3fc1cfc5d058245e2ca45fc17888af7ef294c95c0793c5f8f951b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d2537b36ea3fc1cfc5d058245e2ca45fc17888af7ef294c95c0793c5f8f951b"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_14.md",
+    "blob_sha": "18f09fe2156d71c9ae42c27e2b98d9c19bef09a3"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

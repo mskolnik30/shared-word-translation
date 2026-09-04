@@ -1,0 +1,291 @@
+{
+  "book": "Isaiah",
+  "chapter": 34,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 34:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 1,
+            "source_ref": "Isaiah 34:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f4e22ccdfadbc60623daaadd679437e3920d1ab9fef7e87ea673444b13738769"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4e22ccdfadbc60623daaadd679437e3920d1ab9fef7e87ea673444b13738769"
+      },
+      "2": {
+        "source_ref": "Isaiah 34:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 2,
+            "source_ref": "Isaiah 34:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b53f3b72a4a5f7a809c5d06b5850fafa124bdb63877a1f090cf5064f1848c62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b53f3b72a4a5f7a809c5d06b5850fafa124bdb63877a1f090cf5064f1848c62"
+      },
+      "3": {
+        "source_ref": "Isaiah 34:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 3,
+            "source_ref": "Isaiah 34:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6ca1514c3af26e0277bc005a5719835cbfaf3e2a0d275eeee42b11c55816c373"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ca1514c3af26e0277bc005a5719835cbfaf3e2a0d275eeee42b11c55816c373"
+      },
+      "4": {
+        "source_ref": "Isaiah 34:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 4,
+            "source_ref": "Isaiah 34:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5fe217d85bb12c2fd115fce462e1286996005c26487a4e39c159e23d93e6c4b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5fe217d85bb12c2fd115fce462e1286996005c26487a4e39c159e23d93e6c4b5"
+      },
+      "5": {
+        "source_ref": "Isaiah 34:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 5,
+            "source_ref": "Isaiah 34:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b340365f688f0c384a5aa7dd096fda72ebea07c5aa30e5636f8ce9127e53ba83"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b340365f688f0c384a5aa7dd096fda72ebea07c5aa30e5636f8ce9127e53ba83"
+      },
+      "6": {
+        "source_ref": "Isaiah 34:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 6,
+            "source_ref": "Isaiah 34:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b4e6198a67c1ef4d18c14eaa70c8d09335b4a387a21e7279aa0ffea42a00050f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4e6198a67c1ef4d18c14eaa70c8d09335b4a387a21e7279aa0ffea42a00050f"
+      },
+      "7": {
+        "source_ref": "Isaiah 34:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 7,
+            "source_ref": "Isaiah 34:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f21f69a4a525f0702f0630c6b65ba0323020f480eea347f10ca59fc840a2ec1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f21f69a4a525f0702f0630c6b65ba0323020f480eea347f10ca59fc840a2ec1b"
+      },
+      "8": {
+        "source_ref": "Isaiah 34:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 8,
+            "source_ref": "Isaiah 34:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8c174bd66e1a642a3342f0d4af4965c37433bf210f08b46389ce409b1eb079ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c174bd66e1a642a3342f0d4af4965c37433bf210f08b46389ce409b1eb079ce"
+      },
+      "9": {
+        "source_ref": "Isaiah 34:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 9,
+            "source_ref": "Isaiah 34:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9fe57b662b87aa86a745bae70a53e345e5bbf29ca6d886ba6d5ba9bba5caa32"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9fe57b662b87aa86a745bae70a53e345e5bbf29ca6d886ba6d5ba9bba5caa32"
+      },
+      "10": {
+        "source_ref": "Isaiah 34:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 10,
+            "source_ref": "Isaiah 34:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36bf9e4b83a7f8f01b01651aaef273cbd493477912be8c2a4eeb56a693c75fbc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36bf9e4b83a7f8f01b01651aaef273cbd493477912be8c2a4eeb56a693c75fbc"
+      },
+      "11": {
+        "source_ref": "Isaiah 34:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 11,
+            "source_ref": "Isaiah 34:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f259f8bfc71574025a1bed6b1a7215cb87a3b2d750d641c6173538e6b417a86f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f259f8bfc71574025a1bed6b1a7215cb87a3b2d750d641c6173538e6b417a86f"
+      },
+      "12": {
+        "source_ref": "Isaiah 34:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 12,
+            "source_ref": "Isaiah 34:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "479702548f9de15d6351069fd590088bb020ae1ed1a9c3c90a4f9282a3b99a17"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "479702548f9de15d6351069fd590088bb020ae1ed1a9c3c90a4f9282a3b99a17"
+      },
+      "13": {
+        "source_ref": "Isaiah 34:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 13,
+            "source_ref": "Isaiah 34:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0abeb35663ffc702cdded2d1d167452bcd895acb4f7793a8c35c82cc64da1f38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0abeb35663ffc702cdded2d1d167452bcd895acb4f7793a8c35c82cc64da1f38"
+      },
+      "14": {
+        "source_ref": "Isaiah 34:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 14,
+            "source_ref": "Isaiah 34:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "406772fe6434b0b8758843ccba297e25af481af8b233b072348844b1ee5fd2f4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "406772fe6434b0b8758843ccba297e25af481af8b233b072348844b1ee5fd2f4"
+      },
+      "15": {
+        "source_ref": "Isaiah 34:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 15,
+            "source_ref": "Isaiah 34:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9e24dcee5423899f529ed8621be4e8f5969462ca3c7c97c97e90fc1882a34e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9e24dcee5423899f529ed8621be4e8f5969462ca3c7c97c97e90fc1882a34e9"
+      },
+      "16": {
+        "source_ref": "Isaiah 34:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 16,
+            "source_ref": "Isaiah 34:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7041770ad0a51db6a7b617b14d47146aff39d1b65a22e664ebd9b894d6620c78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7041770ad0a51db6a7b617b14d47146aff39d1b65a22e664ebd9b894d6620c78"
+      },
+      "17": {
+        "source_ref": "Isaiah 34:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 17,
+            "source_ref": "Isaiah 34:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "97d39f41e3da212d3d6c5d61f1504f56069d42fd86a84e2d2953efd63763d86f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "97d39f41e3da212d3d6c5d61f1504f56069d42fd86a84e2d2953efd63763d86f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_34.md",
+    "blob_sha": "e35ea7873f970589c7eaa4ec35644bf59d0824a5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

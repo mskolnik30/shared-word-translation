@@ -1,0 +1,291 @@
+{
+  "book": "Isaiah",
+  "chapter": 21,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 21:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 1,
+            "source_ref": "Isaiah 21:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b56f3704e018b4229110c4c5599ab507a6bb1113ca8e6053f099f25a2efbdf27"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b56f3704e018b4229110c4c5599ab507a6bb1113ca8e6053f099f25a2efbdf27"
+      },
+      "2": {
+        "source_ref": "Isaiah 21:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 2,
+            "source_ref": "Isaiah 21:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e371aabd949ca95bd13334b15a2b994745cb634aa598aa86bd0986347fdc06a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e371aabd949ca95bd13334b15a2b994745cb634aa598aa86bd0986347fdc06a4"
+      },
+      "3": {
+        "source_ref": "Isaiah 21:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 3,
+            "source_ref": "Isaiah 21:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2513689d4259e7b7e3128708a32b23d4683742e5f0522429963372924450f194"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2513689d4259e7b7e3128708a32b23d4683742e5f0522429963372924450f194"
+      },
+      "4": {
+        "source_ref": "Isaiah 21:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 4,
+            "source_ref": "Isaiah 21:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4c254a8bb28f23070ca34be4a2e4ad0f75fae731d82fb184e3e2af6149129fdb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c254a8bb28f23070ca34be4a2e4ad0f75fae731d82fb184e3e2af6149129fdb"
+      },
+      "5": {
+        "source_ref": "Isaiah 21:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 5,
+            "source_ref": "Isaiah 21:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a16222179ee000201ab87aa94e763c0cdabcdd00fd030e84aad9de3d862f4477"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a16222179ee000201ab87aa94e763c0cdabcdd00fd030e84aad9de3d862f4477"
+      },
+      "6": {
+        "source_ref": "Isaiah 21:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 6,
+            "source_ref": "Isaiah 21:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14add0690ddeeca6a6a48c04f029d9b38544fb0d91c8e8d5c9f08c02a4939e7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14add0690ddeeca6a6a48c04f029d9b38544fb0d91c8e8d5c9f08c02a4939e7d"
+      },
+      "7": {
+        "source_ref": "Isaiah 21:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 7,
+            "source_ref": "Isaiah 21:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ddf726fed7e1586db97f94353809f8b6f25ec4ed73102d7b1194248428b47e44"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ddf726fed7e1586db97f94353809f8b6f25ec4ed73102d7b1194248428b47e44"
+      },
+      "8": {
+        "source_ref": "Isaiah 21:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 8,
+            "source_ref": "Isaiah 21:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5509d2043c299946df50ff13459ddd8a278dc71f2e32a9d6ceaca2969f3cef65"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5509d2043c299946df50ff13459ddd8a278dc71f2e32a9d6ceaca2969f3cef65"
+      },
+      "9": {
+        "source_ref": "Isaiah 21:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 9,
+            "source_ref": "Isaiah 21:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d719130ca3dcc89d28c3d24c968fb1866a2ab839b2adbe07ce4fc9d75505474"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d719130ca3dcc89d28c3d24c968fb1866a2ab839b2adbe07ce4fc9d75505474"
+      },
+      "10": {
+        "source_ref": "Isaiah 21:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 10,
+            "source_ref": "Isaiah 21:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b52bb2d55b01613178858d8c843c6f166328cb40c9d185a0b6a1b7b8fd86342e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b52bb2d55b01613178858d8c843c6f166328cb40c9d185a0b6a1b7b8fd86342e"
+      },
+      "11": {
+        "source_ref": "Isaiah 21:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 11,
+            "source_ref": "Isaiah 21:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8f8a05581b171aae23d861163f3da4e2de50dbb18f55e35dd2c110e84cf5857d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f8a05581b171aae23d861163f3da4e2de50dbb18f55e35dd2c110e84cf5857d"
+      },
+      "12": {
+        "source_ref": "Isaiah 21:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 12,
+            "source_ref": "Isaiah 21:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b6859b42f7b152dc0d5425732ee92895635492101201e0f077e0aa3a53ed91d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b6859b42f7b152dc0d5425732ee92895635492101201e0f077e0aa3a53ed91d"
+      },
+      "13": {
+        "source_ref": "Isaiah 21:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 13,
+            "source_ref": "Isaiah 21:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "17b672bef5734ef814d3d725a26f240a8e1208d920a41fa4e2760bbf46b345ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17b672bef5734ef814d3d725a26f240a8e1208d920a41fa4e2760bbf46b345ce"
+      },
+      "14": {
+        "source_ref": "Isaiah 21:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 14,
+            "source_ref": "Isaiah 21:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ad29090653e50f19a4866a3554f2a5120718c01b4d99a560afded1178d944fbd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ad29090653e50f19a4866a3554f2a5120718c01b4d99a560afded1178d944fbd"
+      },
+      "15": {
+        "source_ref": "Isaiah 21:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 15,
+            "source_ref": "Isaiah 21:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7fa24d21643b35b63a3c4c6ef5529b918d701ac8669d2a3af4c89c2d7d8e19df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7fa24d21643b35b63a3c4c6ef5529b918d701ac8669d2a3af4c89c2d7d8e19df"
+      },
+      "16": {
+        "source_ref": "Isaiah 21:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 16,
+            "source_ref": "Isaiah 21:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "38da391e6aedfa98c5c6c95393cf06ab71ed52384accaff96a701eef37e26792"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "38da391e6aedfa98c5c6c95393cf06ab71ed52384accaff96a701eef37e26792"
+      },
+      "17": {
+        "source_ref": "Isaiah 21:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 17,
+            "source_ref": "Isaiah 21:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a13a5abab8f7ef7360f5a0f4b63404bb77aba537f47138fde7aa0741e36a2e0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a13a5abab8f7ef7360f5a0f4b63404bb77aba537f47138fde7aa0741e36a2e0f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_21.md",
+    "blob_sha": "43bca81a37cfb9362e58397dd2bb225c09e6499c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

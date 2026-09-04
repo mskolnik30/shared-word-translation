@@ -1,0 +1,546 @@
+{
+  "book": "Isaiah",
+  "chapter": 10,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 10:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 1,
+            "source_ref": "Isaiah 10:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "488fbe2cd172af5977d5c0f6efac4c1f36ee375c60255783b3b21c306deca4dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "488fbe2cd172af5977d5c0f6efac4c1f36ee375c60255783b3b21c306deca4dd"
+      },
+      "2": {
+        "source_ref": "Isaiah 10:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 2,
+            "source_ref": "Isaiah 10:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b52c51bdb33f2a7c3f643079b4fc04caa91287523b3d3fd90d9a17cc5264be81"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b52c51bdb33f2a7c3f643079b4fc04caa91287523b3d3fd90d9a17cc5264be81"
+      },
+      "3": {
+        "source_ref": "Isaiah 10:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 3,
+            "source_ref": "Isaiah 10:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7778d98ecd93095eec52f20c5ac53b77bbbf09cc1bd6255d43470d48d05138c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7778d98ecd93095eec52f20c5ac53b77bbbf09cc1bd6255d43470d48d05138c2"
+      },
+      "4": {
+        "source_ref": "Isaiah 10:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 4,
+            "source_ref": "Isaiah 10:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a64b0c6b8ba7ab82a8690be2024efb588ff6018468ea8081ce0a895a1ceaa18"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a64b0c6b8ba7ab82a8690be2024efb588ff6018468ea8081ce0a895a1ceaa18"
+      },
+      "5": {
+        "source_ref": "Isaiah 10:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 5,
+            "source_ref": "Isaiah 10:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b6a93ab6f4199a907baa2781390ce1a6111d960cb6eff577e0fb4c2b15071e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b6a93ab6f4199a907baa2781390ce1a6111d960cb6eff577e0fb4c2b15071e4"
+      },
+      "6": {
+        "source_ref": "Isaiah 10:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 6,
+            "source_ref": "Isaiah 10:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9e6417dbdbdff3ba70057acea396ae0e6a4b4837f376be31cf86b806484643f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e6417dbdbdff3ba70057acea396ae0e6a4b4837f376be31cf86b806484643f9"
+      },
+      "7": {
+        "source_ref": "Isaiah 10:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 7,
+            "source_ref": "Isaiah 10:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d40cf48b65e1ac52b1a66ecfb3a90da9180fcb6e1871061dbd5f47ec06054ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d40cf48b65e1ac52b1a66ecfb3a90da9180fcb6e1871061dbd5f47ec06054ec"
+      },
+      "8": {
+        "source_ref": "Isaiah 10:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 8,
+            "source_ref": "Isaiah 10:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "19df6bd7d9efce30d076e8631885368cec08621a8c5487996fcfcc05324db8fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "19df6bd7d9efce30d076e8631885368cec08621a8c5487996fcfcc05324db8fd"
+      },
+      "9": {
+        "source_ref": "Isaiah 10:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 9,
+            "source_ref": "Isaiah 10:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e291442c179500b2a3f0aa00ba4f2ef80e1fc40089fdbb62efe1bc069cfc3e36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e291442c179500b2a3f0aa00ba4f2ef80e1fc40089fdbb62efe1bc069cfc3e36"
+      },
+      "10": {
+        "source_ref": "Isaiah 10:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 10,
+            "source_ref": "Isaiah 10:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "973c7ffe53f6e9d03fd52496947ea3aeed2814b7a78d7f75da741bce1129b03b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "973c7ffe53f6e9d03fd52496947ea3aeed2814b7a78d7f75da741bce1129b03b"
+      },
+      "11": {
+        "source_ref": "Isaiah 10:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 11,
+            "source_ref": "Isaiah 10:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0891c96de112aeb2e934820c021e1020326cd09b89e151b560ceca90fafeaf96"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0891c96de112aeb2e934820c021e1020326cd09b89e151b560ceca90fafeaf96"
+      },
+      "12": {
+        "source_ref": "Isaiah 10:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 12,
+            "source_ref": "Isaiah 10:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7d876ab41857db365158d198e2d9b4c761624d9c84ea7bf2b3f4e7a3c84ab792"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d876ab41857db365158d198e2d9b4c761624d9c84ea7bf2b3f4e7a3c84ab792"
+      },
+      "13": {
+        "source_ref": "Isaiah 10:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 13,
+            "source_ref": "Isaiah 10:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6ebe9bde8662a9536535b68d07f563182d2c4ae3822c6b7187f89d1267e82c7c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ebe9bde8662a9536535b68d07f563182d2c4ae3822c6b7187f89d1267e82c7c"
+      },
+      "14": {
+        "source_ref": "Isaiah 10:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 14,
+            "source_ref": "Isaiah 10:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ead2011d8cd5a06fd2cc692c079966f9e0f11dab48f63f0e1c0ecf5b52e12389"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ead2011d8cd5a06fd2cc692c079966f9e0f11dab48f63f0e1c0ecf5b52e12389"
+      },
+      "15": {
+        "source_ref": "Isaiah 10:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 15,
+            "source_ref": "Isaiah 10:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "23350be04c354462ae4613a435f704029958e4ac5ce63dd2815a06aae0db93cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23350be04c354462ae4613a435f704029958e4ac5ce63dd2815a06aae0db93cf"
+      },
+      "16": {
+        "source_ref": "Isaiah 10:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 16,
+            "source_ref": "Isaiah 10:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9f2acce2d80e456594587d5fe3a3a84d0e50750a775044b4ea3fd86acc325fbf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f2acce2d80e456594587d5fe3a3a84d0e50750a775044b4ea3fd86acc325fbf"
+      },
+      "17": {
+        "source_ref": "Isaiah 10:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 17,
+            "source_ref": "Isaiah 10:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a1caff476f4c5dd9d53fc2b92d2aeb311ede87541727ca015a353cb48a483e64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1caff476f4c5dd9d53fc2b92d2aeb311ede87541727ca015a353cb48a483e64"
+      },
+      "18": {
+        "source_ref": "Isaiah 10:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 18,
+            "source_ref": "Isaiah 10:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "566b24fdef70a2206317f230aec32c85c0144e9a311f268f27f3440ffc45c907"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "566b24fdef70a2206317f230aec32c85c0144e9a311f268f27f3440ffc45c907"
+      },
+      "19": {
+        "source_ref": "Isaiah 10:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 19,
+            "source_ref": "Isaiah 10:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fd374d29a83c2e3e5f94d858b963a8ca27eb42ceef613f5fb22703545df54384"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd374d29a83c2e3e5f94d858b963a8ca27eb42ceef613f5fb22703545df54384"
+      },
+      "20": {
+        "source_ref": "Isaiah 10:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 20,
+            "source_ref": "Isaiah 10:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "57d8f91990c3d12f6bab897678d47d3be4920d490b4e8dd518104437aa0feef2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "57d8f91990c3d12f6bab897678d47d3be4920d490b4e8dd518104437aa0feef2"
+      },
+      "21": {
+        "source_ref": "Isaiah 10:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 21,
+            "source_ref": "Isaiah 10:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1bc2b98027406c7cf53245c53e32dc7ac87edf24424479d87c7dc5846c93f208"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1bc2b98027406c7cf53245c53e32dc7ac87edf24424479d87c7dc5846c93f208"
+      },
+      "22": {
+        "source_ref": "Isaiah 10:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 22,
+            "source_ref": "Isaiah 10:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ad1a69a6c9989d5e7208d3b893b11420e5a3f66fe335b332555ee6943c0e19d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ad1a69a6c9989d5e7208d3b893b11420e5a3f66fe335b332555ee6943c0e19d1"
+      },
+      "23": {
+        "source_ref": "Isaiah 10:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 23,
+            "source_ref": "Isaiah 10:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5ed2483add29d3247c08880de37e13f5170e71b0d29af4d8809b584c8e2d040b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ed2483add29d3247c08880de37e13f5170e71b0d29af4d8809b584c8e2d040b"
+      },
+      "24": {
+        "source_ref": "Isaiah 10:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 24,
+            "source_ref": "Isaiah 10:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "453172ba3fd83348088720dacde36e5536dc169589fa8422863d023f9836518d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "453172ba3fd83348088720dacde36e5536dc169589fa8422863d023f9836518d"
+      },
+      "25": {
+        "source_ref": "Isaiah 10:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 25,
+            "source_ref": "Isaiah 10:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a2227b7f3a748227b5fae9744f495a3bf1c60543877feb44bb5caee3e281a6c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a2227b7f3a748227b5fae9744f495a3bf1c60543877feb44bb5caee3e281a6c0"
+      },
+      "26": {
+        "source_ref": "Isaiah 10:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 26,
+            "source_ref": "Isaiah 10:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0b9f46b4d599362e902a6c13897f59554c48e95d077aeaa5c6dd110cb70d4468"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b9f46b4d599362e902a6c13897f59554c48e95d077aeaa5c6dd110cb70d4468"
+      },
+      "27": {
+        "source_ref": "Isaiah 10:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 27,
+            "source_ref": "Isaiah 10:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cfd80240af24cfa5c7462a3c50b059f52211b3f3be5dca96903770b8eca5f818"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cfd80240af24cfa5c7462a3c50b059f52211b3f3be5dca96903770b8eca5f818"
+      },
+      "28": {
+        "source_ref": "Isaiah 10:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 28,
+            "source_ref": "Isaiah 10:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "889e5a217607157536d1d04507039f776474ff039f407856ab28a3a889d8d983"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "889e5a217607157536d1d04507039f776474ff039f407856ab28a3a889d8d983"
+      },
+      "29": {
+        "source_ref": "Isaiah 10:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 29,
+            "source_ref": "Isaiah 10:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "870f895dd0a34f769c2281162dae32d3a26af377731beb8acc021f830441bd20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "870f895dd0a34f769c2281162dae32d3a26af377731beb8acc021f830441bd20"
+      },
+      "30": {
+        "source_ref": "Isaiah 10:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 30,
+            "source_ref": "Isaiah 10:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "baba72bd4317a08dd7d612554bf50375561927448b3dc3d8c23f6a206d08f80f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "baba72bd4317a08dd7d612554bf50375561927448b3dc3d8c23f6a206d08f80f"
+      },
+      "31": {
+        "source_ref": "Isaiah 10:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 31,
+            "source_ref": "Isaiah 10:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "504d66fef4ad66071492e6c848a43faedb6421074e4369c656b9854296287cb5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "504d66fef4ad66071492e6c848a43faedb6421074e4369c656b9854296287cb5"
+      },
+      "32": {
+        "source_ref": "Isaiah 10:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 32,
+            "source_ref": "Isaiah 10:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "da3c176fb850a48b769ebdca7b7f02fcf39f234659a37d73571aaf3a0b1b3a45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da3c176fb850a48b769ebdca7b7f02fcf39f234659a37d73571aaf3a0b1b3a45"
+      },
+      "33": {
+        "source_ref": "Isaiah 10:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 33,
+            "source_ref": "Isaiah 10:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "456626421e7a6bd4fc2cd8aa8a41cf0979357bfc8383b79c0628ca634111fd47"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "456626421e7a6bd4fc2cd8aa8a41cf0979357bfc8383b79c0628ca634111fd47"
+      },
+      "34": {
+        "source_ref": "Isaiah 10:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 34,
+            "source_ref": "Isaiah 10:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f3bad146967a1bac036a32cc1426d4f3ded1a3860824683f0a30b2599d3b5e2f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3bad146967a1bac036a32cc1426d4f3ded1a3860824683f0a30b2599d3b5e2f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_10.md",
+    "blob_sha": "716cbc6944e247b10131bdd6997416304c42ef14"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

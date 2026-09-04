@@ -1,0 +1,306 @@
+{
+  "book": "Isaiah",
+  "chapter": 23,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 23:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 1,
+            "source_ref": "Isaiah 23:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e4a139666dcf73867da682fec97c4457aa79ae173aa6b980824d6dc2238abb43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4a139666dcf73867da682fec97c4457aa79ae173aa6b980824d6dc2238abb43"
+      },
+      "2": {
+        "source_ref": "Isaiah 23:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 2,
+            "source_ref": "Isaiah 23:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f558125878ab0fcdf16ef6407822b84692d3e04159e20f717856a2a29039d9ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f558125878ab0fcdf16ef6407822b84692d3e04159e20f717856a2a29039d9ec"
+      },
+      "3": {
+        "source_ref": "Isaiah 23:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 3,
+            "source_ref": "Isaiah 23:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6a6da88717240f0fc67aaf6401bca03bb007233a2c8d4f16f3e19383f22e9979"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a6da88717240f0fc67aaf6401bca03bb007233a2c8d4f16f3e19383f22e9979"
+      },
+      "4": {
+        "source_ref": "Isaiah 23:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 4,
+            "source_ref": "Isaiah 23:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f7f77b627f8a6e74382e3a06b36a8ab028283c9c60c97687ea1f1f159143021"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f7f77b627f8a6e74382e3a06b36a8ab028283c9c60c97687ea1f1f159143021"
+      },
+      "5": {
+        "source_ref": "Isaiah 23:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 5,
+            "source_ref": "Isaiah 23:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01a521bdea8a2666fcd58fa729a88e439703d7d7fd8190f35540906c24e5466d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01a521bdea8a2666fcd58fa729a88e439703d7d7fd8190f35540906c24e5466d"
+      },
+      "6": {
+        "source_ref": "Isaiah 23:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 6,
+            "source_ref": "Isaiah 23:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ea80d3b10107fff1e58099acc0d26ff41f2370d862f3d8ca2b378a454d4fcb91"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea80d3b10107fff1e58099acc0d26ff41f2370d862f3d8ca2b378a454d4fcb91"
+      },
+      "7": {
+        "source_ref": "Isaiah 23:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 7,
+            "source_ref": "Isaiah 23:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71b5650ec4a26b08d925b6bef555635639b7709fb8aabdd48eb273ad64e9c9c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71b5650ec4a26b08d925b6bef555635639b7709fb8aabdd48eb273ad64e9c9c1"
+      },
+      "8": {
+        "source_ref": "Isaiah 23:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 8,
+            "source_ref": "Isaiah 23:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e0f345ba59f18182ca887902e4ca2458420cbda9cee0a2d918d024b327d48af3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e0f345ba59f18182ca887902e4ca2458420cbda9cee0a2d918d024b327d48af3"
+      },
+      "9": {
+        "source_ref": "Isaiah 23:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 9,
+            "source_ref": "Isaiah 23:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "21e4c9420536415601fff8e74cdd9ad397cf938cd2b1751e923a0da8b8ab35de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "21e4c9420536415601fff8e74cdd9ad397cf938cd2b1751e923a0da8b8ab35de"
+      },
+      "10": {
+        "source_ref": "Isaiah 23:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 10,
+            "source_ref": "Isaiah 23:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "925411ff39c476905e6dd8af0befc345713853c022db8e34d1286db84ee4cc60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "925411ff39c476905e6dd8af0befc345713853c022db8e34d1286db84ee4cc60"
+      },
+      "11": {
+        "source_ref": "Isaiah 23:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 11,
+            "source_ref": "Isaiah 23:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ec110cf1615aa153c8420b8496c1253002c068b1b26520c00fac00a7092395c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ec110cf1615aa153c8420b8496c1253002c068b1b26520c00fac00a7092395c"
+      },
+      "12": {
+        "source_ref": "Isaiah 23:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 12,
+            "source_ref": "Isaiah 23:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ba574b233a64489480a368aa3ecf4ea396843136d04e18974391ab24c85f3d0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba574b233a64489480a368aa3ecf4ea396843136d04e18974391ab24c85f3d0d"
+      },
+      "13": {
+        "source_ref": "Isaiah 23:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 13,
+            "source_ref": "Isaiah 23:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0867575a835b82fa5109317cde63cf2bca957f1611a703b62c678cd43b1c6a5e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0867575a835b82fa5109317cde63cf2bca957f1611a703b62c678cd43b1c6a5e"
+      },
+      "14": {
+        "source_ref": "Isaiah 23:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 14,
+            "source_ref": "Isaiah 23:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0fd31e1e34280a3f6e7839adaf5286bd53cf018df8e85cc2720ac97c17157cb4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0fd31e1e34280a3f6e7839adaf5286bd53cf018df8e85cc2720ac97c17157cb4"
+      },
+      "15": {
+        "source_ref": "Isaiah 23:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 15,
+            "source_ref": "Isaiah 23:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e2b5b7ee7cfa774873e479182f00fdf233b8d716c88c4f8622723137c0fd3283"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2b5b7ee7cfa774873e479182f00fdf233b8d716c88c4f8622723137c0fd3283"
+      },
+      "16": {
+        "source_ref": "Isaiah 23:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 16,
+            "source_ref": "Isaiah 23:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9053a6d08547b377a742a6d6fa8ce5e4d4daeaa41a806cbce6dbd369b8fdfd36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9053a6d08547b377a742a6d6fa8ce5e4d4daeaa41a806cbce6dbd369b8fdfd36"
+      },
+      "17": {
+        "source_ref": "Isaiah 23:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 17,
+            "source_ref": "Isaiah 23:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d8dbda3e6ef8b709e89788859d3df12bf67c035f98bc7f7bf877ced1ead870e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8dbda3e6ef8b709e89788859d3df12bf67c035f98bc7f7bf877ced1ead870e2"
+      },
+      "18": {
+        "source_ref": "Isaiah 23:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 18,
+            "source_ref": "Isaiah 23:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "00f18c1fdfe40f84c064dcbcbf5df1b9dbad1b4ea5001a54f3e7c5cfad9369f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00f18c1fdfe40f84c064dcbcbf5df1b9dbad1b4ea5001a54f3e7c5cfad9369f3"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_23.md",
+    "blob_sha": "bf5ce06057dec10f9ec18d45fb65fd3e8e018484"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

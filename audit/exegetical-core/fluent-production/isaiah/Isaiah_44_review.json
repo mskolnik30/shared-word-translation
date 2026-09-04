@@ -1,0 +1,456 @@
+{
+  "book": "Isaiah",
+  "chapter": 44,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 44:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 1,
+            "source_ref": "Isaiah 44:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "521b0395cbbe4104444271200478c8ecd5ce7a526584c6766324c3cfa476fbf1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "521b0395cbbe4104444271200478c8ecd5ce7a526584c6766324c3cfa476fbf1"
+      },
+      "2": {
+        "source_ref": "Isaiah 44:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 2,
+            "source_ref": "Isaiah 44:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ddc3066aa531069808634ecd8567917a0fc51a2025e5d8eed681ec1aa36aaa86"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ddc3066aa531069808634ecd8567917a0fc51a2025e5d8eed681ec1aa36aaa86"
+      },
+      "3": {
+        "source_ref": "Isaiah 44:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 3,
+            "source_ref": "Isaiah 44:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "020bf26aea411667a1422bf246eec8865c80e434e86bd4ef3ebde6c2424b3ca5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "020bf26aea411667a1422bf246eec8865c80e434e86bd4ef3ebde6c2424b3ca5"
+      },
+      "4": {
+        "source_ref": "Isaiah 44:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 4,
+            "source_ref": "Isaiah 44:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "05f4b09c1929eb311515691765fb89640019e202db0c81ba8565aed7e60222f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "05f4b09c1929eb311515691765fb89640019e202db0c81ba8565aed7e60222f3"
+      },
+      "5": {
+        "source_ref": "Isaiah 44:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 5,
+            "source_ref": "Isaiah 44:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb0c90664ddc5b70b28277719232efd20f9d4a83d63a87634f71d04b6673ec40"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb0c90664ddc5b70b28277719232efd20f9d4a83d63a87634f71d04b6673ec40"
+      },
+      "6": {
+        "source_ref": "Isaiah 44:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 6,
+            "source_ref": "Isaiah 44:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a5cc3c64cdc75fab143433df2ad519cfeea26aae8ae799e9e4d732c27ec80f1f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5cc3c64cdc75fab143433df2ad519cfeea26aae8ae799e9e4d732c27ec80f1f"
+      },
+      "7": {
+        "source_ref": "Isaiah 44:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 7,
+            "source_ref": "Isaiah 44:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d67ae4f3979e8625caed6427596495e9ead71651705f6a66814048e16077617c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d67ae4f3979e8625caed6427596495e9ead71651705f6a66814048e16077617c"
+      },
+      "8": {
+        "source_ref": "Isaiah 44:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 8,
+            "source_ref": "Isaiah 44:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "34d800ca574f964f5a734e5d1fe224605c77e0201ce589c4611905bc91976626"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34d800ca574f964f5a734e5d1fe224605c77e0201ce589c4611905bc91976626"
+      },
+      "9": {
+        "source_ref": "Isaiah 44:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 9,
+            "source_ref": "Isaiah 44:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a5eae2fdeb114c8ab65b27fd034b62d08af13e93416f6b850dcf4027e08f1c66"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5eae2fdeb114c8ab65b27fd034b62d08af13e93416f6b850dcf4027e08f1c66"
+      },
+      "10": {
+        "source_ref": "Isaiah 44:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 10,
+            "source_ref": "Isaiah 44:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f408ad67c1a2b0059901d699eabd13a3b8068cb764c31be8a746353b04f167f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f408ad67c1a2b0059901d699eabd13a3b8068cb764c31be8a746353b04f167f0"
+      },
+      "11": {
+        "source_ref": "Isaiah 44:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 11,
+            "source_ref": "Isaiah 44:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec18cd9d2be23e6165bcf65e2e3424577939b46ef214e162e1ef62c6429955d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec18cd9d2be23e6165bcf65e2e3424577939b46ef214e162e1ef62c6429955d1"
+      },
+      "12": {
+        "source_ref": "Isaiah 44:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 12,
+            "source_ref": "Isaiah 44:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9959b6edc2d47488e4f61dd64a1edf0d91a970c3ab3c535c95a3dd970795c1e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9959b6edc2d47488e4f61dd64a1edf0d91a970c3ab3c535c95a3dd970795c1e7"
+      },
+      "13": {
+        "source_ref": "Isaiah 44:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 13,
+            "source_ref": "Isaiah 44:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "615a49c1f33391762804417a11bbd8c2fc0693b82ee1952e099586975e48a5d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "615a49c1f33391762804417a11bbd8c2fc0693b82ee1952e099586975e48a5d3"
+      },
+      "14": {
+        "source_ref": "Isaiah 44:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 14,
+            "source_ref": "Isaiah 44:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fa9ed15dc986918e4391403d3d6c1726758457a5fcafd6da5f6004ea94386a6c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa9ed15dc986918e4391403d3d6c1726758457a5fcafd6da5f6004ea94386a6c"
+      },
+      "15": {
+        "source_ref": "Isaiah 44:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 15,
+            "source_ref": "Isaiah 44:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d13ad25a009ca454d2c3971126beb4899679a47346c2a8462cbdf3d154da515c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d13ad25a009ca454d2c3971126beb4899679a47346c2a8462cbdf3d154da515c"
+      },
+      "16": {
+        "source_ref": "Isaiah 44:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 16,
+            "source_ref": "Isaiah 44:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b3036a65edf6197aafc05ddf901ac5433ea5e32f01591f98d35abd7e3338e65"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b3036a65edf6197aafc05ddf901ac5433ea5e32f01591f98d35abd7e3338e65"
+      },
+      "17": {
+        "source_ref": "Isaiah 44:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 17,
+            "source_ref": "Isaiah 44:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "64221f9a612ba63321bd108cbfe18b13acb89753d0b665f61c50355d3f631951"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64221f9a612ba63321bd108cbfe18b13acb89753d0b665f61c50355d3f631951"
+      },
+      "18": {
+        "source_ref": "Isaiah 44:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 18,
+            "source_ref": "Isaiah 44:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b51f3e0d6f870c5a1268d18cc881ad7144d4578671403ed1e1e5e0f7958912f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b51f3e0d6f870c5a1268d18cc881ad7144d4578671403ed1e1e5e0f7958912f"
+      },
+      "19": {
+        "source_ref": "Isaiah 44:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 19,
+            "source_ref": "Isaiah 44:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8805efe95b1c938c3b5b3acf259743e46e63abd109400760228be619fcb78c69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8805efe95b1c938c3b5b3acf259743e46e63abd109400760228be619fcb78c69"
+      },
+      "20": {
+        "source_ref": "Isaiah 44:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 20,
+            "source_ref": "Isaiah 44:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe96c0e411dab2d8f5dc61867609bd108034cc61c74e9341167be9d712bfbffc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe96c0e411dab2d8f5dc61867609bd108034cc61c74e9341167be9d712bfbffc"
+      },
+      "21": {
+        "source_ref": "Isaiah 44:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 21,
+            "source_ref": "Isaiah 44:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "373708324609c52423c49f2952d18387d457ebddda33863bfa5bbdbaf0c398a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "373708324609c52423c49f2952d18387d457ebddda33863bfa5bbdbaf0c398a4"
+      },
+      "22": {
+        "source_ref": "Isaiah 44:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 22,
+            "source_ref": "Isaiah 44:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b9595523d068cb8d7f00f2394d6ea04eb41c3a9c0f60659b25d45db6f468de7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b9595523d068cb8d7f00f2394d6ea04eb41c3a9c0f60659b25d45db6f468de7d"
+      },
+      "23": {
+        "source_ref": "Isaiah 44:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 23,
+            "source_ref": "Isaiah 44:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6a551ac56b756a6dafc942b167a53cf76af682bfae865a3d92f784670308263a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a551ac56b756a6dafc942b167a53cf76af682bfae865a3d92f784670308263a"
+      },
+      "24": {
+        "source_ref": "Isaiah 44:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 24,
+            "source_ref": "Isaiah 44:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2d912ae4813d58c8c47a1c163df4d0472f60c2b71ed4b915503a2abf7f9dc891"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d912ae4813d58c8c47a1c163df4d0472f60c2b71ed4b915503a2abf7f9dc891"
+      },
+      "25": {
+        "source_ref": "Isaiah 44:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 25,
+            "source_ref": "Isaiah 44:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c4874edfd5ccd3a1219c3bdbf6b995b39d6b41c17d06be9bf5efedadf65f2196"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c4874edfd5ccd3a1219c3bdbf6b995b39d6b41c17d06be9bf5efedadf65f2196"
+      },
+      "26": {
+        "source_ref": "Isaiah 44:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 26,
+            "source_ref": "Isaiah 44:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b07c0b2603a6aeb4ecb132f45e4868d3133dc1596b5563880fc7dfdd3f6abeeb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b07c0b2603a6aeb4ecb132f45e4868d3133dc1596b5563880fc7dfdd3f6abeeb"
+      },
+      "27": {
+        "source_ref": "Isaiah 44:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 27,
+            "source_ref": "Isaiah 44:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "22041e6a7cbeb8728f6fcfb67a7a7a17b95e121071d6c4cdc360bec988551545"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "22041e6a7cbeb8728f6fcfb67a7a7a17b95e121071d6c4cdc360bec988551545"
+      },
+      "28": {
+        "source_ref": "Isaiah 44:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 44,
+            "verse": 28,
+            "source_ref": "Isaiah 44:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c76eee772763b33e5c51ea524579e02ae7c0e538714dcee15bc5033b3af50d20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c76eee772763b33e5c51ea524579e02ae7c0e538714dcee15bc5033b3af50d20"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_44.md",
+    "blob_sha": "c3b80219816859684ab692e9064e21efb83eed46"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

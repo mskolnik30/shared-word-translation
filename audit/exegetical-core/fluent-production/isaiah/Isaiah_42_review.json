@@ -1,0 +1,411 @@
+{
+  "book": "Isaiah",
+  "chapter": 42,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 42:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 1,
+            "source_ref": "Isaiah 42:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f13dfc2cf714d517f2708df0f18979a903daf40312d76264e57ab894d0908f83"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f13dfc2cf714d517f2708df0f18979a903daf40312d76264e57ab894d0908f83"
+      },
+      "2": {
+        "source_ref": "Isaiah 42:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 2,
+            "source_ref": "Isaiah 42:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6b4f44ffecd18de4cb1407b6847cb5bde923d849d6071a936e4a3425d6f4b17c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b4f44ffecd18de4cb1407b6847cb5bde923d849d6071a936e4a3425d6f4b17c"
+      },
+      "3": {
+        "source_ref": "Isaiah 42:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 3,
+            "source_ref": "Isaiah 42:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "520e5b8ce43a2b6d54bb663c15ba931f94071430159014c4a1ae76e537bdb8f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "520e5b8ce43a2b6d54bb663c15ba931f94071430159014c4a1ae76e537bdb8f3"
+      },
+      "4": {
+        "source_ref": "Isaiah 42:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 4,
+            "source_ref": "Isaiah 42:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3bd8390d147a9bd1b4204a7ff6179d4212e019f0324afd8250031fbf259f38ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3bd8390d147a9bd1b4204a7ff6179d4212e019f0324afd8250031fbf259f38ca"
+      },
+      "5": {
+        "source_ref": "Isaiah 42:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 5,
+            "source_ref": "Isaiah 42:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "65ec3822bcc9d0a69ea989d5d45e2d987f45996ecfaeb7b421899244947818f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65ec3822bcc9d0a69ea989d5d45e2d987f45996ecfaeb7b421899244947818f9"
+      },
+      "6": {
+        "source_ref": "Isaiah 42:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 6,
+            "source_ref": "Isaiah 42:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7c779efa0c8f1f5fce209c3d9257926dd7fb3c59a9089a8113ab85b49f3e83ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c779efa0c8f1f5fce209c3d9257926dd7fb3c59a9089a8113ab85b49f3e83ab"
+      },
+      "7": {
+        "source_ref": "Isaiah 42:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 7,
+            "source_ref": "Isaiah 42:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "39f9a5611e51ef38c406c6112aef657b33d16c2e6078b21a9cc612bd009992d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39f9a5611e51ef38c406c6112aef657b33d16c2e6078b21a9cc612bd009992d2"
+      },
+      "8": {
+        "source_ref": "Isaiah 42:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 8,
+            "source_ref": "Isaiah 42:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d800d964347eaaa8098bf7950959ecc8058f8320563160b1ec20f5a53053b5a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d800d964347eaaa8098bf7950959ecc8058f8320563160b1ec20f5a53053b5a4"
+      },
+      "9": {
+        "source_ref": "Isaiah 42:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 9,
+            "source_ref": "Isaiah 42:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a5a9bb0c42e0107b55cfabad9107feb596900665b68f8b013df7bb7a095af6fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5a9bb0c42e0107b55cfabad9107feb596900665b68f8b013df7bb7a095af6fb"
+      },
+      "10": {
+        "source_ref": "Isaiah 42:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 10,
+            "source_ref": "Isaiah 42:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9cc40c75d8a9f2cb67066638f583c9f902287bb09a322cb5c17910d0cae729dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9cc40c75d8a9f2cb67066638f583c9f902287bb09a322cb5c17910d0cae729dc"
+      },
+      "11": {
+        "source_ref": "Isaiah 42:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 11,
+            "source_ref": "Isaiah 42:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3e097984bc7e18606d2aa43b655bf15ce62131fa93a46c30aba3cb64bd86d63"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3e097984bc7e18606d2aa43b655bf15ce62131fa93a46c30aba3cb64bd86d63"
+      },
+      "12": {
+        "source_ref": "Isaiah 42:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 12,
+            "source_ref": "Isaiah 42:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d4a6948cf1bd26bca93ed982f77e63b847694429b2d2b51ffd01382bb849d704"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4a6948cf1bd26bca93ed982f77e63b847694429b2d2b51ffd01382bb849d704"
+      },
+      "13": {
+        "source_ref": "Isaiah 42:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 13,
+            "source_ref": "Isaiah 42:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "056c228bcf0dd2712519abb192f0189e85b7dcc5bcd535bf379590eee97ae141"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "056c228bcf0dd2712519abb192f0189e85b7dcc5bcd535bf379590eee97ae141"
+      },
+      "14": {
+        "source_ref": "Isaiah 42:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 14,
+            "source_ref": "Isaiah 42:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e0dc4f169bd8e264aa325afe903785782e27a34070b2101703e5da4f3913b682"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e0dc4f169bd8e264aa325afe903785782e27a34070b2101703e5da4f3913b682"
+      },
+      "15": {
+        "source_ref": "Isaiah 42:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 15,
+            "source_ref": "Isaiah 42:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9e79a7fbc3b332a2f4c6b480236684b053fcf76c0cf2386e5fe75f7b48c68f69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e79a7fbc3b332a2f4c6b480236684b053fcf76c0cf2386e5fe75f7b48c68f69"
+      },
+      "16": {
+        "source_ref": "Isaiah 42:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 16,
+            "source_ref": "Isaiah 42:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "40a2d88d6ca0630d6dd94e945cf82ec6fdf3be2838b38690a7f75a7c7c22cb06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40a2d88d6ca0630d6dd94e945cf82ec6fdf3be2838b38690a7f75a7c7c22cb06"
+      },
+      "17": {
+        "source_ref": "Isaiah 42:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 17,
+            "source_ref": "Isaiah 42:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "329c6f4bff6cae3ac30dbb4278a27ac9f762f123601ea70366e7fefbbc24eb01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "329c6f4bff6cae3ac30dbb4278a27ac9f762f123601ea70366e7fefbbc24eb01"
+      },
+      "18": {
+        "source_ref": "Isaiah 42:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 18,
+            "source_ref": "Isaiah 42:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "411c97af2e460f19cf26d659b1b41fe1372d1f83f278b02b813495714b0cbe9a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "411c97af2e460f19cf26d659b1b41fe1372d1f83f278b02b813495714b0cbe9a"
+      },
+      "19": {
+        "source_ref": "Isaiah 42:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 19,
+            "source_ref": "Isaiah 42:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d04b2108e218d1dad7d6b4cb72bc9643f894afbbde7d62c2c009978ed4707859"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d04b2108e218d1dad7d6b4cb72bc9643f894afbbde7d62c2c009978ed4707859"
+      },
+      "20": {
+        "source_ref": "Isaiah 42:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 20,
+            "source_ref": "Isaiah 42:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2bf28b2438bd30241906d67e011195cf5cf9ce6ead0310c6357ed9c060cd8862"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2bf28b2438bd30241906d67e011195cf5cf9ce6ead0310c6357ed9c060cd8862"
+      },
+      "21": {
+        "source_ref": "Isaiah 42:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 21,
+            "source_ref": "Isaiah 42:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f04eabcc4913b371de12b572e8bc41ea856446b3f9daa492d105b345fa010574"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f04eabcc4913b371de12b572e8bc41ea856446b3f9daa492d105b345fa010574"
+      },
+      "22": {
+        "source_ref": "Isaiah 42:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 22,
+            "source_ref": "Isaiah 42:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56b82cda359fbea8296d12d0430937a3e7d9797778009e84018c791de799d80e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56b82cda359fbea8296d12d0430937a3e7d9797778009e84018c791de799d80e"
+      },
+      "23": {
+        "source_ref": "Isaiah 42:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 23,
+            "source_ref": "Isaiah 42:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c93fe0cd10e749f37234ca2d9916c7acedfeabe5b393167e181ff1111a265fb9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c93fe0cd10e749f37234ca2d9916c7acedfeabe5b393167e181ff1111a265fb9"
+      },
+      "24": {
+        "source_ref": "Isaiah 42:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 24,
+            "source_ref": "Isaiah 42:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "afcfd79b2efa180f7bb23bb24a7632cc5b7af4a6a29379025d005c70652b29bc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "afcfd79b2efa180f7bb23bb24a7632cc5b7af4a6a29379025d005c70652b29bc"
+      },
+      "25": {
+        "source_ref": "Isaiah 42:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 25,
+            "source_ref": "Isaiah 42:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d7d3e9409e051892be64ba5d56f0fec0beb1af068c67971dd34b5f5ae43b173"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d7d3e9409e051892be64ba5d56f0fec0beb1af068c67971dd34b5f5ae43b173"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_42.md",
+    "blob_sha": "08f0c4f23d7e7eee8c52d89fbe0f2ecc0f4f305b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

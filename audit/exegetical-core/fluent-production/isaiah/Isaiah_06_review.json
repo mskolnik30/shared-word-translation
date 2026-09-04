@@ -1,0 +1,231 @@
+{
+  "book": "Isaiah",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 6:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 1,
+            "source_ref": "Isaiah 6:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "89e13643fa1a5874272f61424cdeff3fe3fa7d74dcc095cd3a93fa005cee9350"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89e13643fa1a5874272f61424cdeff3fe3fa7d74dcc095cd3a93fa005cee9350"
+      },
+      "2": {
+        "source_ref": "Isaiah 6:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 2,
+            "source_ref": "Isaiah 6:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5cb7b4ed55d656a5b3669ad7f78024e8b0871fcc13efe81736854ad52f5138c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5cb7b4ed55d656a5b3669ad7f78024e8b0871fcc13efe81736854ad52f5138c8"
+      },
+      "3": {
+        "source_ref": "Isaiah 6:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 3,
+            "source_ref": "Isaiah 6:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b6a94b0cc529b93c2865a4e04b7432da38570a4af69a10ab0803768dd836a31f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6a94b0cc529b93c2865a4e04b7432da38570a4af69a10ab0803768dd836a31f"
+      },
+      "4": {
+        "source_ref": "Isaiah 6:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 4,
+            "source_ref": "Isaiah 6:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7608e683b35cb8369433483437df5ff149bad1a8163c2885f9d99b656719016c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7608e683b35cb8369433483437df5ff149bad1a8163c2885f9d99b656719016c"
+      },
+      "5": {
+        "source_ref": "Isaiah 6:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 5,
+            "source_ref": "Isaiah 6:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3497f76f076eaa285332353d5126ec5ee32268c5f0628f076559908c3e842e0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3497f76f076eaa285332353d5126ec5ee32268c5f0628f076559908c3e842e0b"
+      },
+      "6": {
+        "source_ref": "Isaiah 6:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 6,
+            "source_ref": "Isaiah 6:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "642794ad3944f7178bb65d03030c40bdf8212adbbb25b3a02ad685fa455d5248"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "642794ad3944f7178bb65d03030c40bdf8212adbbb25b3a02ad685fa455d5248"
+      },
+      "7": {
+        "source_ref": "Isaiah 6:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 7,
+            "source_ref": "Isaiah 6:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bdccd224a4194cb229d5f620a501d55249f2dbf2898009cf0b66c70cfc9547dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bdccd224a4194cb229d5f620a501d55249f2dbf2898009cf0b66c70cfc9547dc"
+      },
+      "8": {
+        "source_ref": "Isaiah 6:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 8,
+            "source_ref": "Isaiah 6:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ea025c0dbd9de85024c008090aa527d1a8e47d22c2f81b482121b9483e789649"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea025c0dbd9de85024c008090aa527d1a8e47d22c2f81b482121b9483e789649"
+      },
+      "9": {
+        "source_ref": "Isaiah 6:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 9,
+            "source_ref": "Isaiah 6:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "567db3d67c537e58b97b1baf1d5018a85b242c99cfe8efa4a55fba12487c1e4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "567db3d67c537e58b97b1baf1d5018a85b242c99cfe8efa4a55fba12487c1e4e"
+      },
+      "10": {
+        "source_ref": "Isaiah 6:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 10,
+            "source_ref": "Isaiah 6:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c35d3574f5ee56ff8b5d7842ac999852894ac68ef27a41354672a4292ccec52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c35d3574f5ee56ff8b5d7842ac999852894ac68ef27a41354672a4292ccec52"
+      },
+      "11": {
+        "source_ref": "Isaiah 6:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 11,
+            "source_ref": "Isaiah 6:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "815ade4cc6f4367f04b59893869f14d2afaeef0be76487aca26532e74be7ea3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "815ade4cc6f4367f04b59893869f14d2afaeef0be76487aca26532e74be7ea3a"
+      },
+      "12": {
+        "source_ref": "Isaiah 6:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 12,
+            "source_ref": "Isaiah 6:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "356c5160b648ed21ac97f14dd74a5a0dcd0a3ddc376b9628fa4ca09aac751859"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "356c5160b648ed21ac97f14dd74a5a0dcd0a3ddc376b9628fa4ca09aac751859"
+      },
+      "13": {
+        "source_ref": "Isaiah 6:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 13,
+            "source_ref": "Isaiah 6:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a0279930df1b59908d65aa703b13148ff5e16c6fb0e4bb39171dba533abc0ffb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a0279930df1b59908d65aa703b13148ff5e16c6fb0e4bb39171dba533abc0ffb"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_06.md",
+    "blob_sha": "c58fa57996cc1726ef54d02bc71a26a688143a67"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

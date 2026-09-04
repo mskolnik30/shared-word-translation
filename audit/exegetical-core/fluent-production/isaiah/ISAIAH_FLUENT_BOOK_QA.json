@@ -1,0 +1,329 @@
+{
+  "book": "Isaiah",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 66,
+  "public_verse_slots": 1292,
+  "included_verse_labels": 1292,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 1291,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-12:6",
+      "decision": "Keep accusation, judgment, remnant hope, sign, royal expectation, and songs of trust together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:1-27:13",
+      "decision": "Preserve oracles against nations, imperial collapse, cosmic imagery, judgment, and feast without forcing modern identifications.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "28:1-39:8",
+      "decision": "Keep prophetic warning, Assyrian crisis, Immanuel traditions, deliverance, illness, and Babylonian threat connected.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "40:1-55:13",
+      "decision": "Preserve comfort, creation, Cyrus, servant poems, suffering, restoration, and invitation without collapsing every servant reference into one speaker.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "56:1-66:24",
+      "decision": "Keep inclusion, injustice, fasting, glory, lament, judgment, new creation, and difficult final imagery together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "63:19-64:1",
+      "decision": "Document the Hebrew 63:19 internal split that binds public Isaiah 63:19 and 64:1.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "source_binding_count": 1292,
+    "unique_source_record_count": 1291,
+    "public_verse_slots": 1292,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 1292
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/isaiah/Isaiah_01.md",
+        "blob_sha": "6d80942a44597fe224068b20b4052169e41a5234"
+      },
+      "02": {
+        "path": "books/OT/isaiah/Isaiah_02.md",
+        "blob_sha": "a62b677ea29b9c6ee322b7d51cc5834425d9fdb6"
+      },
+      "03": {
+        "path": "books/OT/isaiah/Isaiah_03.md",
+        "blob_sha": "44a8bbcdd6f898be26be53325d40c6d5ac92e8b3"
+      },
+      "04": {
+        "path": "books/OT/isaiah/Isaiah_04.md",
+        "blob_sha": "0213a322657d57755c8dc2e90a0617124306af30"
+      },
+      "05": {
+        "path": "books/OT/isaiah/Isaiah_05.md",
+        "blob_sha": "98b270a804295fad0ea13ab47527c52b8b46b18f"
+      },
+      "06": {
+        "path": "books/OT/isaiah/Isaiah_06.md",
+        "blob_sha": "c58fa57996cc1726ef54d02bc71a26a688143a67"
+      },
+      "07": {
+        "path": "books/OT/isaiah/Isaiah_07.md",
+        "blob_sha": "575891bf82a27982be61d5e440dfea3096182e33"
+      },
+      "08": {
+        "path": "books/OT/isaiah/Isaiah_08.md",
+        "blob_sha": "9e96e5d29fe0e02f71d640758335b18dce3771cf"
+      },
+      "09": {
+        "path": "books/OT/isaiah/Isaiah_09.md",
+        "blob_sha": "968a03f77ba1159c2bbc10dedc9ecda3ae49a83a"
+      },
+      "10": {
+        "path": "books/OT/isaiah/Isaiah_10.md",
+        "blob_sha": "716cbc6944e247b10131bdd6997416304c42ef14"
+      },
+      "11": {
+        "path": "books/OT/isaiah/Isaiah_11.md",
+        "blob_sha": "a9aba2da99e745fde26bc4ff0ac1dbbd03aeef6d"
+      },
+      "12": {
+        "path": "books/OT/isaiah/Isaiah_12.md",
+        "blob_sha": "f532dd7d67bc70a20dfa0316d6d4bbeb207914f3"
+      },
+      "13": {
+        "path": "books/OT/isaiah/Isaiah_13.md",
+        "blob_sha": "fd9ef848bc7d8bc9cd167c8ba884009eeb0c21f1"
+      },
+      "14": {
+        "path": "books/OT/isaiah/Isaiah_14.md",
+        "blob_sha": "18f09fe2156d71c9ae42c27e2b98d9c19bef09a3"
+      },
+      "15": {
+        "path": "books/OT/isaiah/Isaiah_15.md",
+        "blob_sha": "26546ec37bca4ccc013c2c14194158615606770d"
+      },
+      "16": {
+        "path": "books/OT/isaiah/Isaiah_16.md",
+        "blob_sha": "b99027981e32dbf9318d2b230d536873b4713e90"
+      },
+      "17": {
+        "path": "books/OT/isaiah/Isaiah_17.md",
+        "blob_sha": "2cc26afea652cc9b88bb9b2d8eb7d8e678f465e9"
+      },
+      "18": {
+        "path": "books/OT/isaiah/Isaiah_18.md",
+        "blob_sha": "136c89b64819d8ef146a612a4c074d77f40f529a"
+      },
+      "19": {
+        "path": "books/OT/isaiah/Isaiah_19.md",
+        "blob_sha": "461f47d7d532240373b1ab6596a40283e60506bc"
+      },
+      "20": {
+        "path": "books/OT/isaiah/Isaiah_20.md",
+        "blob_sha": "1585b6fd0c0159ab9b80cb1770051c43d5b4a0bb"
+      },
+      "21": {
+        "path": "books/OT/isaiah/Isaiah_21.md",
+        "blob_sha": "43bca81a37cfb9362e58397dd2bb225c09e6499c"
+      },
+      "22": {
+        "path": "books/OT/isaiah/Isaiah_22.md",
+        "blob_sha": "dfd0f43afb8db27bd7d3dfe3cc658bef0a9180cf"
+      },
+      "23": {
+        "path": "books/OT/isaiah/Isaiah_23.md",
+        "blob_sha": "bf5ce06057dec10f9ec18d45fb65fd3e8e018484"
+      },
+      "24": {
+        "path": "books/OT/isaiah/Isaiah_24.md",
+        "blob_sha": "5d9914f4cda4467effb777c8971d61a9ce438faa"
+      },
+      "25": {
+        "path": "books/OT/isaiah/Isaiah_25.md",
+        "blob_sha": "cb9442b1506c8890b0cc8a9b891697e1e2853c2e"
+      },
+      "26": {
+        "path": "books/OT/isaiah/Isaiah_26.md",
+        "blob_sha": "fbc97a4073fe5dd7f08917dc03672e405bc1351b"
+      },
+      "27": {
+        "path": "books/OT/isaiah/Isaiah_27.md",
+        "blob_sha": "91f7cac1f77baeea2aa92b94436b8143578bc613"
+      },
+      "28": {
+        "path": "books/OT/isaiah/Isaiah_28.md",
+        "blob_sha": "7a5f32a7569ddb756e2ddc60ff2c08df230a4135"
+      },
+      "29": {
+        "path": "books/OT/isaiah/Isaiah_29.md",
+        "blob_sha": "b2a350dd2bd242638a04175ce9fbba1684eb30f9"
+      },
+      "30": {
+        "path": "books/OT/isaiah/Isaiah_30.md",
+        "blob_sha": "cda11a524be4e8e47543ddd1ab64d9a27f0658f0"
+      },
+      "31": {
+        "path": "books/OT/isaiah/Isaiah_31.md",
+        "blob_sha": "e23b628b6036e6cb85d1819ae8ec7fabca492c86"
+      },
+      "32": {
+        "path": "books/OT/isaiah/Isaiah_32.md",
+        "blob_sha": "42dfefe40296710d769543930bcbee8f9324f214"
+      },
+      "33": {
+        "path": "books/OT/isaiah/Isaiah_33.md",
+        "blob_sha": "d1f66f76f3f63f1dcbb9686d98379ecf267ba7bd"
+      },
+      "34": {
+        "path": "books/OT/isaiah/Isaiah_34.md",
+        "blob_sha": "e35ea7873f970589c7eaa4ec35644bf59d0824a5"
+      },
+      "35": {
+        "path": "books/OT/isaiah/Isaiah_35.md",
+        "blob_sha": "e3bdb37702e5d33251b97ca854a43792b10d94b5"
+      },
+      "36": {
+        "path": "books/OT/isaiah/Isaiah_36.md",
+        "blob_sha": "e3d7c0fc7def0dffbfc5d1709d4a3963464aa7c8"
+      },
+      "37": {
+        "path": "books/OT/isaiah/Isaiah_37.md",
+        "blob_sha": "8488ff1a0d625896c43b1b668151550169fb70a3"
+      },
+      "38": {
+        "path": "books/OT/isaiah/Isaiah_38.md",
+        "blob_sha": "c1b001d807e07572178a8d7946c222891215727a"
+      },
+      "39": {
+        "path": "books/OT/isaiah/Isaiah_39.md",
+        "blob_sha": "fbe49ad27a09661e5578899b3477261cf85e85f6"
+      },
+      "40": {
+        "path": "books/OT/isaiah/Isaiah_40.md",
+        "blob_sha": "e1dae5baa254730479f4aedc6a45aaa0ff0270b7"
+      },
+      "41": {
+        "path": "books/OT/isaiah/Isaiah_41.md",
+        "blob_sha": "cafd78c399412fac581dff15c3d3fa69f3cd37d1"
+      },
+      "42": {
+        "path": "books/OT/isaiah/Isaiah_42.md",
+        "blob_sha": "08f0c4f23d7e7eee8c52d89fbe0f2ecc0f4f305b"
+      },
+      "43": {
+        "path": "books/OT/isaiah/Isaiah_43.md",
+        "blob_sha": "c9306ef139bba9d93138b9ab09f8f451e7b00556"
+      },
+      "44": {
+        "path": "books/OT/isaiah/Isaiah_44.md",
+        "blob_sha": "c3b80219816859684ab692e9064e21efb83eed46"
+      },
+      "45": {
+        "path": "books/OT/isaiah/Isaiah_45.md",
+        "blob_sha": "cae324e70fed55feea8d9e2784a110fc8f6e062e"
+      },
+      "46": {
+        "path": "books/OT/isaiah/Isaiah_46.md",
+        "blob_sha": "4f0838365cb64abff707a62f8a03f41e774ab717"
+      },
+      "47": {
+        "path": "books/OT/isaiah/Isaiah_47.md",
+        "blob_sha": "4d46c26427dbe806dde11e7dca36682e3a3a6601"
+      },
+      "48": {
+        "path": "books/OT/isaiah/Isaiah_48.md",
+        "blob_sha": "f7006a79a36b2779b39e57005e83b5c9c7407478"
+      },
+      "49": {
+        "path": "books/OT/isaiah/Isaiah_49.md",
+        "blob_sha": "52a026e67d241acaebc8524520dfa63bb308027b"
+      },
+      "50": {
+        "path": "books/OT/isaiah/Isaiah_50.md",
+        "blob_sha": "10206033ca038c46fcb65176ed33ec443ef0eb50"
+      },
+      "51": {
+        "path": "books/OT/isaiah/Isaiah_51.md",
+        "blob_sha": "252e97cb8f13e4e4017f061ac479f94afa1f1d92"
+      },
+      "52": {
+        "path": "books/OT/isaiah/Isaiah_52.md",
+        "blob_sha": "513f904904aea7baa56a98aad3a898f6a9bddf80"
+      },
+      "53": {
+        "path": "books/OT/isaiah/Isaiah_53.md",
+        "blob_sha": "37e94271b7417422ca3e227bb89f64236cd07f9b"
+      },
+      "54": {
+        "path": "books/OT/isaiah/Isaiah_54.md",
+        "blob_sha": "c10407b307cf442e335778874847ec653e62ce4e"
+      },
+      "55": {
+        "path": "books/OT/isaiah/Isaiah_55.md",
+        "blob_sha": "8534cf487a673dc25b791e81640a4d89b04f3b34"
+      },
+      "56": {
+        "path": "books/OT/isaiah/Isaiah_56.md",
+        "blob_sha": "d829b3b3c5f078f98e472f934cc8b42acd74a2a7"
+      },
+      "57": {
+        "path": "books/OT/isaiah/Isaiah_57.md",
+        "blob_sha": "c6742ad52a24910f2c7fc61024e061bc76cc422e"
+      },
+      "58": {
+        "path": "books/OT/isaiah/Isaiah_58.md",
+        "blob_sha": "3992c9c920de3d22aba73108a1f9dfd4a2a5c276"
+      },
+      "59": {
+        "path": "books/OT/isaiah/Isaiah_59.md",
+        "blob_sha": "c3a2eb377726e4c0557199b4ae9ee3499f2814dc"
+      },
+      "60": {
+        "path": "books/OT/isaiah/Isaiah_60.md",
+        "blob_sha": "bdc5e2b07702a3b0f3dd64675e046ba4f38bb511"
+      },
+      "61": {
+        "path": "books/OT/isaiah/Isaiah_61.md",
+        "blob_sha": "a5a50beb807b49030cb2d8fe9a9e4e5f77298467"
+      },
+      "62": {
+        "path": "books/OT/isaiah/Isaiah_62.md",
+        "blob_sha": "1e01af791cbd373dc483581b80b7b4dae7f30ac2"
+      },
+      "63": {
+        "path": "books/OT/isaiah/Isaiah_63.md",
+        "blob_sha": "ad6f0a388138fe3d4fed1a7247a873effa6a5fc0"
+      },
+      "64": {
+        "path": "books/OT/isaiah/Isaiah_64.md",
+        "blob_sha": "daf1fd33cb9dcf9ca8996c627693a56be9a4d4dc"
+      },
+      "65": {
+        "path": "books/OT/isaiah/Isaiah_65.md",
+        "blob_sha": "3a57925765d46663ae1b94c4089b4b0a43aaed7b"
+      },
+      "66": {
+        "path": "books/OT/isaiah/Isaiah_66.md",
+        "blob_sha": "8aa3f47a1c594e8cc7eeac825700ab8fe8b6f603"
+      }
+    }
+  }
+}

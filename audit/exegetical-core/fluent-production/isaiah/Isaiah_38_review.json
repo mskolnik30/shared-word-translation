@@ -1,0 +1,366 @@
+{
+  "book": "Isaiah",
+  "chapter": 38,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 38:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 1,
+            "source_ref": "Isaiah 38:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e0bd631739de20f00a98b22580d1b377e57070589c6cbc0ac187b828394f0275"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e0bd631739de20f00a98b22580d1b377e57070589c6cbc0ac187b828394f0275"
+      },
+      "2": {
+        "source_ref": "Isaiah 38:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 2,
+            "source_ref": "Isaiah 38:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5de5a049586fdb508ff93638bd5733487b934cadd274c21a6c1c7fbf0849ca92"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5de5a049586fdb508ff93638bd5733487b934cadd274c21a6c1c7fbf0849ca92"
+      },
+      "3": {
+        "source_ref": "Isaiah 38:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 3,
+            "source_ref": "Isaiah 38:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "34c5ce9aacf65bee4ffcf1fa621fff150244f876926de7278b2e6962b3fc504d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34c5ce9aacf65bee4ffcf1fa621fff150244f876926de7278b2e6962b3fc504d"
+      },
+      "4": {
+        "source_ref": "Isaiah 38:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 4,
+            "source_ref": "Isaiah 38:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "611f05c4bcdce275c858e06552a6e353aa9daaa5f5951fdc8b8ac37436586da4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "611f05c4bcdce275c858e06552a6e353aa9daaa5f5951fdc8b8ac37436586da4"
+      },
+      "5": {
+        "source_ref": "Isaiah 38:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 5,
+            "source_ref": "Isaiah 38:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "147910e1781523bbe414692bb24b8500b0ab7b633d40eba56d7827bb22d17aee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "147910e1781523bbe414692bb24b8500b0ab7b633d40eba56d7827bb22d17aee"
+      },
+      "6": {
+        "source_ref": "Isaiah 38:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 6,
+            "source_ref": "Isaiah 38:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8b9145180c2e4956960fb2f9465dd6aec198f14cb01fd40a8074b07f6ac82509"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b9145180c2e4956960fb2f9465dd6aec198f14cb01fd40a8074b07f6ac82509"
+      },
+      "7": {
+        "source_ref": "Isaiah 38:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 7,
+            "source_ref": "Isaiah 38:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73178912387b42a0aedf4d816132c919571882511c185432f2bbc53344505d18"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73178912387b42a0aedf4d816132c919571882511c185432f2bbc53344505d18"
+      },
+      "8": {
+        "source_ref": "Isaiah 38:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 8,
+            "source_ref": "Isaiah 38:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "838d581cef3b61c7a661dd4c71d6d1ffc1402441aa44a43626acb174126dcea7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "838d581cef3b61c7a661dd4c71d6d1ffc1402441aa44a43626acb174126dcea7"
+      },
+      "9": {
+        "source_ref": "Isaiah 38:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 9,
+            "source_ref": "Isaiah 38:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8f420eca53f0a2f0a2754d55a723f92881fddc3814898c5ea9375278f330d089"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f420eca53f0a2f0a2754d55a723f92881fddc3814898c5ea9375278f330d089"
+      },
+      "10": {
+        "source_ref": "Isaiah 38:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 10,
+            "source_ref": "Isaiah 38:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aac8a635124569f4ee62ef44f229a5155f3a8e33e0e53d916ed80abdced0847b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aac8a635124569f4ee62ef44f229a5155f3a8e33e0e53d916ed80abdced0847b"
+      },
+      "11": {
+        "source_ref": "Isaiah 38:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 11,
+            "source_ref": "Isaiah 38:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73f6238a507dd0d6427b6ced46b7958b4f5a329fe7c2a51b06927eadefb10d1e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73f6238a507dd0d6427b6ced46b7958b4f5a329fe7c2a51b06927eadefb10d1e"
+      },
+      "12": {
+        "source_ref": "Isaiah 38:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 12,
+            "source_ref": "Isaiah 38:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e5dc84fc047c113745845b0bd94893705b4bbad217d86632c64f515ac8417abf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5dc84fc047c113745845b0bd94893705b4bbad217d86632c64f515ac8417abf"
+      },
+      "13": {
+        "source_ref": "Isaiah 38:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 13,
+            "source_ref": "Isaiah 38:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d45303cd14b89ba0d8248377f5a599d4c01305fcf6746972014480eb3c644f7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d45303cd14b89ba0d8248377f5a599d4c01305fcf6746972014480eb3c644f7"
+      },
+      "14": {
+        "source_ref": "Isaiah 38:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 14,
+            "source_ref": "Isaiah 38:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c28721fdc35bec209eca66e8dc35a9b3e48fb795f60551f67465c6203b0881f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c28721fdc35bec209eca66e8dc35a9b3e48fb795f60551f67465c6203b0881f"
+      },
+      "15": {
+        "source_ref": "Isaiah 38:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 15,
+            "source_ref": "Isaiah 38:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fbcfc373983bd99a2bf0f753f6babf276f74ee03ce3ef39aa91214da5eb0a3b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbcfc373983bd99a2bf0f753f6babf276f74ee03ce3ef39aa91214da5eb0a3b3"
+      },
+      "16": {
+        "source_ref": "Isaiah 38:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 16,
+            "source_ref": "Isaiah 38:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "87ecca7cf3da053e9726db5331caf6da41f7a7d657fd52996f1345854f5b676f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87ecca7cf3da053e9726db5331caf6da41f7a7d657fd52996f1345854f5b676f"
+      },
+      "17": {
+        "source_ref": "Isaiah 38:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 17,
+            "source_ref": "Isaiah 38:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca5af6ed7c0e322fd3c25750091d2035e58fcd1d5ff1e1462e72a06b2db01bd1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca5af6ed7c0e322fd3c25750091d2035e58fcd1d5ff1e1462e72a06b2db01bd1"
+      },
+      "18": {
+        "source_ref": "Isaiah 38:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 18,
+            "source_ref": "Isaiah 38:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "93fcce57ff3d53cb4c96ff2c3aea3b9d96a7b423b080ae5630052026ac07cc23"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93fcce57ff3d53cb4c96ff2c3aea3b9d96a7b423b080ae5630052026ac07cc23"
+      },
+      "19": {
+        "source_ref": "Isaiah 38:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 19,
+            "source_ref": "Isaiah 38:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f41f6052fc5721e7645b1548cc5262963f562765fd0960d8d149567f71bee6e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f41f6052fc5721e7645b1548cc5262963f562765fd0960d8d149567f71bee6e1"
+      },
+      "20": {
+        "source_ref": "Isaiah 38:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 20,
+            "source_ref": "Isaiah 38:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "30d3d08452203cc0827b0685c817e91b1f0dc4ce8167aeb3d83ec05fd5512d8d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30d3d08452203cc0827b0685c817e91b1f0dc4ce8167aeb3d83ec05fd5512d8d"
+      },
+      "21": {
+        "source_ref": "Isaiah 38:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 21,
+            "source_ref": "Isaiah 38:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d0bf0de7320b64b6c2ea65a4da7d82dd715237660208f6a45e347981f7f16517"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0bf0de7320b64b6c2ea65a4da7d82dd715237660208f6a45e347981f7f16517"
+      },
+      "22": {
+        "source_ref": "Isaiah 38:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 22,
+            "source_ref": "Isaiah 38:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f5d4da18f93fdbe098f5ca9c3d34192b5a5c4fd0c5b2e7f664cfa641fd1b3de8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5d4da18f93fdbe098f5ca9c3d34192b5a5c4fd0c5b2e7f664cfa641fd1b3de8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_38.md",
+    "blob_sha": "c1b001d807e07572178a8d7946c222891215727a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

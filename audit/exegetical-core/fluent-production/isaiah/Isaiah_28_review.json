@@ -1,0 +1,477 @@
+{
+  "book": "Isaiah",
+  "chapter": 28,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "28:1-39:8",
+      "decision": "Keep prophetic warning, Assyrian crisis, Immanuel traditions, deliverance, illness, and Babylonian threat connected.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 28:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 1,
+            "source_ref": "Isaiah 28:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "94e62be3da0362e3214cb48a7050fde11062ff127d3f7172909e734789078ae6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94e62be3da0362e3214cb48a7050fde11062ff127d3f7172909e734789078ae6"
+      },
+      "2": {
+        "source_ref": "Isaiah 28:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 2,
+            "source_ref": "Isaiah 28:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "112484b8455e3c8f792a45f89d4b57394f1d5c2fb2d09fb861b57d7c11dd9f33"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "112484b8455e3c8f792a45f89d4b57394f1d5c2fb2d09fb861b57d7c11dd9f33"
+      },
+      "3": {
+        "source_ref": "Isaiah 28:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 3,
+            "source_ref": "Isaiah 28:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8b29d99b2df9eaa64b229452f8f074ac367b3ad90fbaee61d79edb31dd3851ee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b29d99b2df9eaa64b229452f8f074ac367b3ad90fbaee61d79edb31dd3851ee"
+      },
+      "4": {
+        "source_ref": "Isaiah 28:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 4,
+            "source_ref": "Isaiah 28:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e62ae141bd22c0b60e38cc3d51523d1a408f8212304d2bb930c7c1be15fc69aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e62ae141bd22c0b60e38cc3d51523d1a408f8212304d2bb930c7c1be15fc69aa"
+      },
+      "5": {
+        "source_ref": "Isaiah 28:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 5,
+            "source_ref": "Isaiah 28:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dad5257dd7585f4b23c4fcabac91f7bf35f06ca345b4384f43d401be22e453f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dad5257dd7585f4b23c4fcabac91f7bf35f06ca345b4384f43d401be22e453f6"
+      },
+      "6": {
+        "source_ref": "Isaiah 28:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 6,
+            "source_ref": "Isaiah 28:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6ac12312ddbd2414244fe23038c5c27835fcea645d82cda56fba942015651ec6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ac12312ddbd2414244fe23038c5c27835fcea645d82cda56fba942015651ec6"
+      },
+      "7": {
+        "source_ref": "Isaiah 28:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 7,
+            "source_ref": "Isaiah 28:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "902df4396fc67e68b6436632cde293b6fa190054edef8e6f9eb5189f3b83b41a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "902df4396fc67e68b6436632cde293b6fa190054edef8e6f9eb5189f3b83b41a"
+      },
+      "8": {
+        "source_ref": "Isaiah 28:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 8,
+            "source_ref": "Isaiah 28:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "39494143c804d08882590a98930d176cf16d02c73592f293099cb329a0b1fd97"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39494143c804d08882590a98930d176cf16d02c73592f293099cb329a0b1fd97"
+      },
+      "9": {
+        "source_ref": "Isaiah 28:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 9,
+            "source_ref": "Isaiah 28:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0734796f18c97ef5041a191bed8d596885871afe74438a35c8e3cf2a423aa2c5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0734796f18c97ef5041a191bed8d596885871afe74438a35c8e3cf2a423aa2c5"
+      },
+      "10": {
+        "source_ref": "Isaiah 28:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 10,
+            "source_ref": "Isaiah 28:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc32cd3e57d0bb541007144bc7c74bd9fd1ef70abd1de9a5da0be968262cce4f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc32cd3e57d0bb541007144bc7c74bd9fd1ef70abd1de9a5da0be968262cce4f"
+      },
+      "11": {
+        "source_ref": "Isaiah 28:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 11,
+            "source_ref": "Isaiah 28:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f7b7e8ca5b810af263d4c6759798f74be0901e6a9ebacc355ecfd789b26b0de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f7b7e8ca5b810af263d4c6759798f74be0901e6a9ebacc355ecfd789b26b0de"
+      },
+      "12": {
+        "source_ref": "Isaiah 28:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 12,
+            "source_ref": "Isaiah 28:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6df877d537b031950c969d47bac960b720bb4f07525068a9b9d57ae240e72e95"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6df877d537b031950c969d47bac960b720bb4f07525068a9b9d57ae240e72e95"
+      },
+      "13": {
+        "source_ref": "Isaiah 28:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 13,
+            "source_ref": "Isaiah 28:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a871a20b16d276ffe3a9fd05ad7bb98ea871f81e21227821ef1329beb1947d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a871a20b16d276ffe3a9fd05ad7bb98ea871f81e21227821ef1329beb1947d3"
+      },
+      "14": {
+        "source_ref": "Isaiah 28:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 14,
+            "source_ref": "Isaiah 28:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c297a2f40e5baf985d4b154d928b4532435617a15c24dc700f27f52d903ca365"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c297a2f40e5baf985d4b154d928b4532435617a15c24dc700f27f52d903ca365"
+      },
+      "15": {
+        "source_ref": "Isaiah 28:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 15,
+            "source_ref": "Isaiah 28:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8187f771d08f51cb8b372df758ddeb984402897b67ed21f40574e69959a93d45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8187f771d08f51cb8b372df758ddeb984402897b67ed21f40574e69959a93d45"
+      },
+      "16": {
+        "source_ref": "Isaiah 28:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 16,
+            "source_ref": "Isaiah 28:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "61d198a7307c578b381636cf40b320731ec59d46430962d134992e2dfaf62563"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "61d198a7307c578b381636cf40b320731ec59d46430962d134992e2dfaf62563"
+      },
+      "17": {
+        "source_ref": "Isaiah 28:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 17,
+            "source_ref": "Isaiah 28:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "750f9f290c90fd3fcf086fde25bed2d9b1b1b00ee69aca88b1f30ee6960df0ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "750f9f290c90fd3fcf086fde25bed2d9b1b1b00ee69aca88b1f30ee6960df0ff"
+      },
+      "18": {
+        "source_ref": "Isaiah 28:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 18,
+            "source_ref": "Isaiah 28:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "66a99c0a5df8d9cdbb0b6e187c531479857de5c8a12d4d6ef0554737817b86b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "66a99c0a5df8d9cdbb0b6e187c531479857de5c8a12d4d6ef0554737817b86b2"
+      },
+      "19": {
+        "source_ref": "Isaiah 28:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 19,
+            "source_ref": "Isaiah 28:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1cc5f6b9217e54d9c029367e3167b7b526a973342331fb3a764b6fddcd30e965"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1cc5f6b9217e54d9c029367e3167b7b526a973342331fb3a764b6fddcd30e965"
+      },
+      "20": {
+        "source_ref": "Isaiah 28:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 20,
+            "source_ref": "Isaiah 28:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b46d804b3ba6fb198fb65adf2e6ddbd5637a38a971b387914c967ca98c0cf93c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b46d804b3ba6fb198fb65adf2e6ddbd5637a38a971b387914c967ca98c0cf93c"
+      },
+      "21": {
+        "source_ref": "Isaiah 28:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 21,
+            "source_ref": "Isaiah 28:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8fcf72e064992bd96ea4962c0f308559a4acb54baf36d1baa619ef3c10fe2e00"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fcf72e064992bd96ea4962c0f308559a4acb54baf36d1baa619ef3c10fe2e00"
+      },
+      "22": {
+        "source_ref": "Isaiah 28:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 22,
+            "source_ref": "Isaiah 28:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2ed25723c364c0f28ac4cb80289169fdfec5f3f579c0913eb12f31c46413cfa7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ed25723c364c0f28ac4cb80289169fdfec5f3f579c0913eb12f31c46413cfa7"
+      },
+      "23": {
+        "source_ref": "Isaiah 28:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 23,
+            "source_ref": "Isaiah 28:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed092ae67b3a6023f053255910020708b602bfd163139188d511394ca9aa4321"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed092ae67b3a6023f053255910020708b602bfd163139188d511394ca9aa4321"
+      },
+      "24": {
+        "source_ref": "Isaiah 28:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 24,
+            "source_ref": "Isaiah 28:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "965d5866973b634c36dba006bcb7ddb90ab4442f99f9ee3a7c684760e962b444"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "965d5866973b634c36dba006bcb7ddb90ab4442f99f9ee3a7c684760e962b444"
+      },
+      "25": {
+        "source_ref": "Isaiah 28:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 25,
+            "source_ref": "Isaiah 28:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f3a3f15b3a9018b7bc55d37e0c7e40e51880ff3e241389dbb92cbb88d2f2f45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f3a3f15b3a9018b7bc55d37e0c7e40e51880ff3e241389dbb92cbb88d2f2f45"
+      },
+      "26": {
+        "source_ref": "Isaiah 28:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 26,
+            "source_ref": "Isaiah 28:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f899c6105fc248c5ffb4ad82a16e735634cca56e3e43e40a9c3084edaa98c2bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f899c6105fc248c5ffb4ad82a16e735634cca56e3e43e40a9c3084edaa98c2bb"
+      },
+      "27": {
+        "source_ref": "Isaiah 28:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 27,
+            "source_ref": "Isaiah 28:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d77144482caed3bd3ac4a6cd06fd200509943b01a29c2c45dbf95fbe4502f40c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d77144482caed3bd3ac4a6cd06fd200509943b01a29c2c45dbf95fbe4502f40c"
+      },
+      "28": {
+        "source_ref": "Isaiah 28:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 28,
+            "source_ref": "Isaiah 28:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a9dd77879845f2e92034e268cadd9b51e496e1b72fae9fb48c27db235d9b79f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a9dd77879845f2e92034e268cadd9b51e496e1b72fae9fb48c27db235d9b79f"
+      },
+      "29": {
+        "source_ref": "Isaiah 28:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 29,
+            "source_ref": "Isaiah 28:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b40aa66f4b21671ad49c46380f70a8cec8df0fe4fb5594eed533f288bc64e711"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b40aa66f4b21671ad49c46380f70a8cec8df0fe4fb5594eed533f288bc64e711"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_28.md",
+    "blob_sha": "7a5f32a7569ddb756e2ddc60ff2c08df230a4135"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

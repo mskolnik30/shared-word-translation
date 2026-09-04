@@ -1,0 +1,246 @@
+{
+  "book": "Isaiah",
+  "chapter": 58,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 58:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 1,
+            "source_ref": "Isaiah 58:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8c3e8b36aa6c4146cfbab968d887fe127b8f647732ee9ea11c5caa739da8bfa9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c3e8b36aa6c4146cfbab968d887fe127b8f647732ee9ea11c5caa739da8bfa9"
+      },
+      "2": {
+        "source_ref": "Isaiah 58:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 2,
+            "source_ref": "Isaiah 58:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ae241fec05a80ebcbfc655cb4a5379f4e2529058626e21fab5d7aa80cf5d1a85"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae241fec05a80ebcbfc655cb4a5379f4e2529058626e21fab5d7aa80cf5d1a85"
+      },
+      "3": {
+        "source_ref": "Isaiah 58:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 3,
+            "source_ref": "Isaiah 58:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8f5ada31aa8e02a23362cbeb5e800b8a0378afb2df4b4e299c8211f98edae9b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f5ada31aa8e02a23362cbeb5e800b8a0378afb2df4b4e299c8211f98edae9b6"
+      },
+      "4": {
+        "source_ref": "Isaiah 58:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 4,
+            "source_ref": "Isaiah 58:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a027ba0ed50b4b84ce78a8475d9f40a1d680d639720977645057a0b4673e239"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a027ba0ed50b4b84ce78a8475d9f40a1d680d639720977645057a0b4673e239"
+      },
+      "5": {
+        "source_ref": "Isaiah 58:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 5,
+            "source_ref": "Isaiah 58:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f7504130aa5209d1241113b194eadf2d483b8b804f135c367e0b4abfa3b108b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f7504130aa5209d1241113b194eadf2d483b8b804f135c367e0b4abfa3b108b3"
+      },
+      "6": {
+        "source_ref": "Isaiah 58:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 6,
+            "source_ref": "Isaiah 58:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "95d038e52acb43a1f3461ac7aed2190f9b8dac08afd2279f3481f88d80b01b3c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95d038e52acb43a1f3461ac7aed2190f9b8dac08afd2279f3481f88d80b01b3c"
+      },
+      "7": {
+        "source_ref": "Isaiah 58:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 7,
+            "source_ref": "Isaiah 58:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c25396ae6897682553f42112c5c7d0f6fc1664c949b0b50a9ca7e26a79d866ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c25396ae6897682553f42112c5c7d0f6fc1664c949b0b50a9ca7e26a79d866ea"
+      },
+      "8": {
+        "source_ref": "Isaiah 58:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 8,
+            "source_ref": "Isaiah 58:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "16051a91523b3e32a4829395324369bc91c5ed06ec7873838cbe2f627cc3e1f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16051a91523b3e32a4829395324369bc91c5ed06ec7873838cbe2f627cc3e1f8"
+      },
+      "9": {
+        "source_ref": "Isaiah 58:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 9,
+            "source_ref": "Isaiah 58:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "028f7e732531bfa31d4597a84aab96b0015644b2d40c7cd1e3726cc8ba61a514"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "028f7e732531bfa31d4597a84aab96b0015644b2d40c7cd1e3726cc8ba61a514"
+      },
+      "10": {
+        "source_ref": "Isaiah 58:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 10,
+            "source_ref": "Isaiah 58:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32cfdcb3188790009d4c4c62e7165cfef564b1708d8fb23736aeecfc082558f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32cfdcb3188790009d4c4c62e7165cfef564b1708d8fb23736aeecfc082558f6"
+      },
+      "11": {
+        "source_ref": "Isaiah 58:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 11,
+            "source_ref": "Isaiah 58:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6166b4f649bdc7bc3e89a7335bc1209006945af8a13c1cd46848627c2f09f964"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6166b4f649bdc7bc3e89a7335bc1209006945af8a13c1cd46848627c2f09f964"
+      },
+      "12": {
+        "source_ref": "Isaiah 58:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 12,
+            "source_ref": "Isaiah 58:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d821f9f2e12dece88d23db46dea675ca2371d9fad4bb0e58d6ecc25404314dcc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d821f9f2e12dece88d23db46dea675ca2371d9fad4bb0e58d6ecc25404314dcc"
+      },
+      "13": {
+        "source_ref": "Isaiah 58:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 13,
+            "source_ref": "Isaiah 58:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed33b7e6d85d91a86578672f06ec36cae4cbd5ac90fc251ed495a0663a1c3dec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed33b7e6d85d91a86578672f06ec36cae4cbd5ac90fc251ed495a0663a1c3dec"
+      },
+      "14": {
+        "source_ref": "Isaiah 58:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 14,
+            "source_ref": "Isaiah 58:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d0790fe4bdd561295f83ce0c120beff2d93f3f731be5d6883d0cfeab2f51514e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0790fe4bdd561295f83ce0c120beff2d93f3f731be5d6883d0cfeab2f51514e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_58.md",
+    "blob_sha": "3992c9c920de3d22aba73108a1f9dfd4a2a5c276"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
