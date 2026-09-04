@@ -1,0 +1,432 @@
+{
+  "book": "Jude",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Jude.txt",
+    "git_blob_sha": "acff675d2bda62ecbe081bb75a73788e71c521da"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:5",
+      "decision": "Retain the pinned SBLGNT reading naming Jesus as the one who saved a people from Egypt.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:6-9",
+      "decision": "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:14-15",
+      "decision": "Identify the Enochic citation in notes without treating translation as a canon ruling.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:22-23",
+      "decision": "Preserve the textual and pastoral tension among mercy, rescue, and fear.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Jude.txt",
+    "git_blob_sha": "acff675d2bda62ecbe081bb75a73788e71c521da",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Jude 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Jude 1:1",
+            "segment_mode": "whole",
+            "sha256": "e01d940abbfc8ef1f6397f8d19f69d741d1582e6487324ceeb3d6c60d4c06c02"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e01d940abbfc8ef1f6397f8d19f69d741d1582e6487324ceeb3d6c60d4c06c02"
+      },
+      "2": {
+        "source_ref": "Jude 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Jude 1:2",
+            "segment_mode": "whole",
+            "sha256": "9e7c6c2234c22975ce3cf2aeb656bac716b3d50ed46fe7c540df084e1639ed0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e7c6c2234c22975ce3cf2aeb656bac716b3d50ed46fe7c540df084e1639ed0d"
+      },
+      "3": {
+        "source_ref": "Jude 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Jude 1:3",
+            "segment_mode": "whole",
+            "sha256": "f89899c1535e7919366a2540922208f6431de772fae7b1c588fa2d81f86f1cce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f89899c1535e7919366a2540922208f6431de772fae7b1c588fa2d81f86f1cce"
+      },
+      "4": {
+        "source_ref": "Jude 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Jude 1:4",
+            "segment_mode": "whole",
+            "sha256": "50ca15a40b712535216e015067ab3a11d2918db7287f01f4ced321a6c26f83ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50ca15a40b712535216e015067ab3a11d2918db7287f01f4ced321a6c26f83ec"
+      },
+      "5": {
+        "source_ref": "Jude 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Jude 1:5",
+            "segment_mode": "whole",
+            "sha256": "aefcc9bc89a235a3fbf65634e60e05db8fad980d5ffa1372d02c5701c5956f77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aefcc9bc89a235a3fbf65634e60e05db8fad980d5ffa1372d02c5701c5956f77"
+      },
+      "6": {
+        "source_ref": "Jude 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Jude 1:6",
+            "segment_mode": "whole",
+            "sha256": "b239eebcc3db2bba1910346085971b4e6738c4a2d49bcebe23729e9f84751f85"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b239eebcc3db2bba1910346085971b4e6738c4a2d49bcebe23729e9f84751f85"
+      },
+      "7": {
+        "source_ref": "Jude 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Jude 1:7",
+            "segment_mode": "whole",
+            "sha256": "9289e40941ec75f1e7cdfb958aa227ade0533d25a4bf55e414ee1771640c0f01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9289e40941ec75f1e7cdfb958aa227ade0533d25a4bf55e414ee1771640c0f01"
+      },
+      "8": {
+        "source_ref": "Jude 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Jude 1:8",
+            "segment_mode": "whole",
+            "sha256": "4ed7d0cfcee17e3dde377bdda32f4f2bff2748ecd8eea68e72e3496d90c0fe93"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ed7d0cfcee17e3dde377bdda32f4f2bff2748ecd8eea68e72e3496d90c0fe93"
+      },
+      "9": {
+        "source_ref": "Jude 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Jude 1:9",
+            "segment_mode": "whole",
+            "sha256": "5d1b46211fc0a2a422b84ef13cde0a51cfba7ae90f28e860a3ab76478bf8382a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5d1b46211fc0a2a422b84ef13cde0a51cfba7ae90f28e860a3ab76478bf8382a"
+      },
+      "10": {
+        "source_ref": "Jude 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Jude 1:10",
+            "segment_mode": "whole",
+            "sha256": "f680d42dbc735226e88b88b6f5f7c68ae7b5db890fcf877b392fb67a83665792"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f680d42dbc735226e88b88b6f5f7c68ae7b5db890fcf877b392fb67a83665792"
+      },
+      "11": {
+        "source_ref": "Jude 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Jude 1:11",
+            "segment_mode": "whole",
+            "sha256": "b0917a1a49bbda51b703f6ec27db9dd3376f826ee89c0a9dc1b6f171c4f316fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0917a1a49bbda51b703f6ec27db9dd3376f826ee89c0a9dc1b6f171c4f316fd"
+      },
+      "12": {
+        "source_ref": "Jude 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Jude 1:12",
+            "segment_mode": "whole",
+            "sha256": "6a3d48946380316931c0655fe95220b2e831f1c1200e6e68d9fb920206dfcc5b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a3d48946380316931c0655fe95220b2e831f1c1200e6e68d9fb920206dfcc5b"
+      },
+      "13": {
+        "source_ref": "Jude 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Jude 1:13",
+            "segment_mode": "whole",
+            "sha256": "4e0f857f4564b4bf470e899ba62e0f3ab218e5664bf8cba9a83d477de9ea368f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e0f857f4564b4bf470e899ba62e0f3ab218e5664bf8cba9a83d477de9ea368f"
+      },
+      "14": {
+        "source_ref": "Jude 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Jude 1:14",
+            "segment_mode": "whole",
+            "sha256": "1b310a22eae5509d6cf519da91147fdfb0774689603752228ed748840f027b00"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b310a22eae5509d6cf519da91147fdfb0774689603752228ed748840f027b00"
+      },
+      "15": {
+        "source_ref": "Jude 1:15",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Jude 1:15",
+            "segment_mode": "whole",
+            "sha256": "7e85390f71fc3e4017a7b2700ae9c74ec08752730d4269186c51a54e591cae3d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e85390f71fc3e4017a7b2700ae9c74ec08752730d4269186c51a54e591cae3d"
+      },
+      "16": {
+        "source_ref": "Jude 1:16",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 16,
+            "source_ref": "Jude 1:16",
+            "segment_mode": "whole",
+            "sha256": "a90ceceeee1de4fc228afd57c64941935f5e4b6024555f4aa85cd3677877d3a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a90ceceeee1de4fc228afd57c64941935f5e4b6024555f4aa85cd3677877d3a0"
+      },
+      "17": {
+        "source_ref": "Jude 1:17",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 17,
+            "source_ref": "Jude 1:17",
+            "segment_mode": "whole",
+            "sha256": "53bd46ad7faacf62f7828b1bfdfc6c22c38965c1c24ce58e89612dfc67598ba6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "53bd46ad7faacf62f7828b1bfdfc6c22c38965c1c24ce58e89612dfc67598ba6"
+      },
+      "18": {
+        "source_ref": "Jude 1:18",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 18,
+            "source_ref": "Jude 1:18",
+            "segment_mode": "whole",
+            "sha256": "4eb74c64298462628004d3b7b1d71c7a08774f56aae4c864d126608517e23639"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4eb74c64298462628004d3b7b1d71c7a08774f56aae4c864d126608517e23639"
+      },
+      "19": {
+        "source_ref": "Jude 1:19",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 19,
+            "source_ref": "Jude 1:19",
+            "segment_mode": "whole",
+            "sha256": "03bcc99203290b0193af58be74349ad6c23babdd9af0de1a2b0929fea5559acd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03bcc99203290b0193af58be74349ad6c23babdd9af0de1a2b0929fea5559acd"
+      },
+      "20": {
+        "source_ref": "Jude 1:20",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 20,
+            "source_ref": "Jude 1:20",
+            "segment_mode": "whole",
+            "sha256": "519504e371aaa8a9ff53864912b6aad547bb232c15c0bb55cad460e30cfa6b3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "519504e371aaa8a9ff53864912b6aad547bb232c15c0bb55cad460e30cfa6b3a"
+      },
+      "21": {
+        "source_ref": "Jude 1:21",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 21,
+            "source_ref": "Jude 1:21",
+            "segment_mode": "whole",
+            "sha256": "69556db81c26526bc9978ba376196926e39d17ac30c410625eb91be070e59fbc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69556db81c26526bc9978ba376196926e39d17ac30c410625eb91be070e59fbc"
+      },
+      "22": {
+        "source_ref": "Jude 1:22",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 22,
+            "source_ref": "Jude 1:22",
+            "segment_mode": "whole",
+            "sha256": "9e15e6461fc01b0b31204ad560ec6f4bcda028e8a9ae8c30716a23aea0254ce0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e15e6461fc01b0b31204ad560ec6f4bcda028e8a9ae8c30716a23aea0254ce0"
+      },
+      "23": {
+        "source_ref": "Jude 1:23",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 23,
+            "source_ref": "Jude 1:23",
+            "segment_mode": "whole",
+            "sha256": "64543122e1f9da81252640a828432ad075e060c61e4996158866aa2ea5d6efd5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64543122e1f9da81252640a828432ad075e060c61e4996158866aa2ea5d6efd5"
+      },
+      "24": {
+        "source_ref": "Jude 1:24",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 24,
+            "source_ref": "Jude 1:24",
+            "segment_mode": "whole",
+            "sha256": "b90db82b8730530ebcd932ae5728c086cdb2d83c1ee47d4bcadabe46fbca94c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b90db82b8730530ebcd932ae5728c086cdb2d83c1ee47d4bcadabe46fbca94c0"
+      },
+      "25": {
+        "source_ref": "Jude 1:25",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 25,
+            "source_ref": "Jude 1:25",
+            "segment_mode": "whole",
+            "sha256": "9ae9a068356d8a451ed966706b982b7437a0850f2c4460a881be653e14eaa7ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ae9a068356d8a451ed966706b982b7437a0850f2c4460a881be653e14eaa7ab"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/jude/Jude_01.md",
+    "blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
