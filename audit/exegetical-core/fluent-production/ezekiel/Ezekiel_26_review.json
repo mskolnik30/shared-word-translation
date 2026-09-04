@@ -1,0 +1,351 @@
+{
+  "book": "Ezekiel",
+  "chapter": 26,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 26:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 1,
+            "source_ref": "Ezekiel 26:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "70cfc571d1314ef9bd3c20bc788c94b083440c42041690caab1b4cdd8df0e6ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70cfc571d1314ef9bd3c20bc788c94b083440c42041690caab1b4cdd8df0e6ac"
+      },
+      "2": {
+        "source_ref": "Ezekiel 26:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 2,
+            "source_ref": "Ezekiel 26:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ecc99aa96e8f260c2efd9595301218df0cd2ca976947e670ce3fd37ec4f65bed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ecc99aa96e8f260c2efd9595301218df0cd2ca976947e670ce3fd37ec4f65bed"
+      },
+      "3": {
+        "source_ref": "Ezekiel 26:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 3,
+            "source_ref": "Ezekiel 26:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a8b45e50a408f8328d2a8ffbef9edecf10f8f9ae75b45fe387b68f7e2025d4b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8b45e50a408f8328d2a8ffbef9edecf10f8f9ae75b45fe387b68f7e2025d4b2"
+      },
+      "4": {
+        "source_ref": "Ezekiel 26:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 4,
+            "source_ref": "Ezekiel 26:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "653425a6b6c64f0aed977a85adfd300452e550ecc9ba554b7f395686557391b8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "653425a6b6c64f0aed977a85adfd300452e550ecc9ba554b7f395686557391b8"
+      },
+      "5": {
+        "source_ref": "Ezekiel 26:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 5,
+            "source_ref": "Ezekiel 26:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c08c7a5838c2bfacdf9c4a07a5810d3da3563dea6b4767b750134e3adf55394"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c08c7a5838c2bfacdf9c4a07a5810d3da3563dea6b4767b750134e3adf55394"
+      },
+      "6": {
+        "source_ref": "Ezekiel 26:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 6,
+            "source_ref": "Ezekiel 26:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "43b4590a986b0f4be193372c6c766d19ca9e64c2cfcbf6813a8089a9c189c5cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43b4590a986b0f4be193372c6c766d19ca9e64c2cfcbf6813a8089a9c189c5cf"
+      },
+      "7": {
+        "source_ref": "Ezekiel 26:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 7,
+            "source_ref": "Ezekiel 26:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1cd9cec3ecf50ea85d473ddbbdfb719675bf8820ee77569d15c25759bcaeb85f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1cd9cec3ecf50ea85d473ddbbdfb719675bf8820ee77569d15c25759bcaeb85f"
+      },
+      "8": {
+        "source_ref": "Ezekiel 26:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 8,
+            "source_ref": "Ezekiel 26:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ddade67e145b684184697f1cc148124cdab78fe8bf71283f8d1c732f52a047fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ddade67e145b684184697f1cc148124cdab78fe8bf71283f8d1c732f52a047fa"
+      },
+      "9": {
+        "source_ref": "Ezekiel 26:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 9,
+            "source_ref": "Ezekiel 26:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e14119429043d44a2152bf6494ec715cec9bc81a899353694c8ebc51aff393a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e14119429043d44a2152bf6494ec715cec9bc81a899353694c8ebc51aff393a4"
+      },
+      "10": {
+        "source_ref": "Ezekiel 26:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 10,
+            "source_ref": "Ezekiel 26:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "65207dcceb8856c1077cf4e45baf122a8479e3aea1a322a1bcc4ba2532599df8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65207dcceb8856c1077cf4e45baf122a8479e3aea1a322a1bcc4ba2532599df8"
+      },
+      "11": {
+        "source_ref": "Ezekiel 26:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 11,
+            "source_ref": "Ezekiel 26:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8cba1f58eae2965764cfe177473e54144b05e7774838cd128e40eb8a0708ba23"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8cba1f58eae2965764cfe177473e54144b05e7774838cd128e40eb8a0708ba23"
+      },
+      "12": {
+        "source_ref": "Ezekiel 26:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 12,
+            "source_ref": "Ezekiel 26:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "31c683ccd3b52e5dc1e076ff8b29e41cfd1c51649ef9c78cb2cc3fc515dc510c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "31c683ccd3b52e5dc1e076ff8b29e41cfd1c51649ef9c78cb2cc3fc515dc510c"
+      },
+      "13": {
+        "source_ref": "Ezekiel 26:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 13,
+            "source_ref": "Ezekiel 26:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d34a0bfab50dbff7eafc2ba7fbbb8fb90663ec95a26a0e7458cbfc43856bfb6d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d34a0bfab50dbff7eafc2ba7fbbb8fb90663ec95a26a0e7458cbfc43856bfb6d"
+      },
+      "14": {
+        "source_ref": "Ezekiel 26:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 14,
+            "source_ref": "Ezekiel 26:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2101ae5ff939621a68f270999405e5657842d13872fc8e0d1eb36d4a33d98224"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2101ae5ff939621a68f270999405e5657842d13872fc8e0d1eb36d4a33d98224"
+      },
+      "15": {
+        "source_ref": "Ezekiel 26:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 15,
+            "source_ref": "Ezekiel 26:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "19320b300903d88c228af24390be04ac84ad846dce8d6ef9e0dc8a3bec31a387"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "19320b300903d88c228af24390be04ac84ad846dce8d6ef9e0dc8a3bec31a387"
+      },
+      "16": {
+        "source_ref": "Ezekiel 26:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 16,
+            "source_ref": "Ezekiel 26:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1e8b2327f868ba512ea1a02dcb5f4007b111b63cc5359231d3ddf04c834c1d95"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e8b2327f868ba512ea1a02dcb5f4007b111b63cc5359231d3ddf04c834c1d95"
+      },
+      "17": {
+        "source_ref": "Ezekiel 26:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 17,
+            "source_ref": "Ezekiel 26:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "426fcd807614fc1c7d9c5257b9fcd5a81000cdb003907653e3bfe156f5756894"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "426fcd807614fc1c7d9c5257b9fcd5a81000cdb003907653e3bfe156f5756894"
+      },
+      "18": {
+        "source_ref": "Ezekiel 26:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 18,
+            "source_ref": "Ezekiel 26:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2985ddabc0ee846b2b6d2c511e1de6e9bcc27e6037226f111e2abc5a8e43c136"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2985ddabc0ee846b2b6d2c511e1de6e9bcc27e6037226f111e2abc5a8e43c136"
+      },
+      "19": {
+        "source_ref": "Ezekiel 26:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 19,
+            "source_ref": "Ezekiel 26:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6aaeb9025f5c3697927ebb8b9557d5fe092456f5322392bdc1400728a1b525c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6aaeb9025f5c3697927ebb8b9557d5fe092456f5322392bdc1400728a1b525c8"
+      },
+      "20": {
+        "source_ref": "Ezekiel 26:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 20,
+            "source_ref": "Ezekiel 26:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "25c5af33ebee7bac512938ecb431eadaab6f3c8524ad32d9b5a2da6db10a2e7c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25c5af33ebee7bac512938ecb431eadaab6f3c8524ad32d9b5a2da6db10a2e7c"
+      },
+      "21": {
+        "source_ref": "Ezekiel 26:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 21,
+            "source_ref": "Ezekiel 26:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "67485a2a1412111b5cfbc82afbfcf9bf06e23fba4be42b896491b1421fbe5380"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67485a2a1412111b5cfbc82afbfcf9bf06e23fba4be42b896491b1421fbe5380"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_26.md",
+    "blob_sha": "86df2db67c4786810560c942791c779882c94b44"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

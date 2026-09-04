@@ -1,0 +1,246 @@
+{
+  "book": "Ezekiel",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 6:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 1,
+            "source_ref": "Ezekiel 6:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+      },
+      "2": {
+        "source_ref": "Ezekiel 6:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 2,
+            "source_ref": "Ezekiel 6:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6fafee7b552ebb1f87fe1176730bf88279754536013dddcb0f32a7f612ace999"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6fafee7b552ebb1f87fe1176730bf88279754536013dddcb0f32a7f612ace999"
+      },
+      "3": {
+        "source_ref": "Ezekiel 6:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 3,
+            "source_ref": "Ezekiel 6:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2857e93cae7f15e9bebbebd7438fdff4583df1b80754b4647357077bae448ea0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2857e93cae7f15e9bebbebd7438fdff4583df1b80754b4647357077bae448ea0"
+      },
+      "4": {
+        "source_ref": "Ezekiel 6:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 4,
+            "source_ref": "Ezekiel 6:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c5e777f59ae2eecd7ee5b6ff9b4e6f6146f8ff2a97b06b076e2c065b4a64ac85"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c5e777f59ae2eecd7ee5b6ff9b4e6f6146f8ff2a97b06b076e2c065b4a64ac85"
+      },
+      "5": {
+        "source_ref": "Ezekiel 6:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 5,
+            "source_ref": "Ezekiel 6:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d7f27325a2d4b15e96318742aed14f070d697d3e7399bf13230c2114fb1dcb3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d7f27325a2d4b15e96318742aed14f070d697d3e7399bf13230c2114fb1dcb3"
+      },
+      "6": {
+        "source_ref": "Ezekiel 6:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 6,
+            "source_ref": "Ezekiel 6:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c2663f9e398c0914d085a4ed43380b3bdf9fd960a87f8de70eb4faa63893f86e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2663f9e398c0914d085a4ed43380b3bdf9fd960a87f8de70eb4faa63893f86e"
+      },
+      "7": {
+        "source_ref": "Ezekiel 6:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 7,
+            "source_ref": "Ezekiel 6:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3dce7e50cd687b2fd2f84dd826587d92cbb47a7c4c0643e59b61b5280efb73c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3dce7e50cd687b2fd2f84dd826587d92cbb47a7c4c0643e59b61b5280efb73c1"
+      },
+      "8": {
+        "source_ref": "Ezekiel 6:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 8,
+            "source_ref": "Ezekiel 6:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8804967e2172ff5d8c82083b682b9ad91e79c57b45996299b072b37d6d0f27e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8804967e2172ff5d8c82083b682b9ad91e79c57b45996299b072b37d6d0f27e"
+      },
+      "9": {
+        "source_ref": "Ezekiel 6:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 9,
+            "source_ref": "Ezekiel 6:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36150a54a81d0b8f7ae3e4c5833f55d84db0c6b8f92fcb5456c1074fe337bf05"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36150a54a81d0b8f7ae3e4c5833f55d84db0c6b8f92fcb5456c1074fe337bf05"
+      },
+      "10": {
+        "source_ref": "Ezekiel 6:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 10,
+            "source_ref": "Ezekiel 6:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5275f34422918d12a183a76414aa2c05e7956503094cb5e7e141d3a5b2dab8f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5275f34422918d12a183a76414aa2c05e7956503094cb5e7e141d3a5b2dab8f9"
+      },
+      "11": {
+        "source_ref": "Ezekiel 6:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 11,
+            "source_ref": "Ezekiel 6:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "632c26b8260238c5b9df98078ae1ce3696357d847f0daffbaf03ab36b9d00122"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "632c26b8260238c5b9df98078ae1ce3696357d847f0daffbaf03ab36b9d00122"
+      },
+      "12": {
+        "source_ref": "Ezekiel 6:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 12,
+            "source_ref": "Ezekiel 6:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5fbace52f6701130da2bcb6792e74acd333c5b5d97d78b774b565edf0559ca2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5fbace52f6701130da2bcb6792e74acd333c5b5d97d78b774b565edf0559ca2c"
+      },
+      "13": {
+        "source_ref": "Ezekiel 6:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 13,
+            "source_ref": "Ezekiel 6:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d21fe2121168839870e5b61752781a4cf0c69dd9303a4dd33759fa472005a76"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d21fe2121168839870e5b61752781a4cf0c69dd9303a4dd33759fa472005a76"
+      },
+      "14": {
+        "source_ref": "Ezekiel 6:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 14,
+            "source_ref": "Ezekiel 6:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "89d08ad039d3ff4f65d03f3c8c6b22b4f8cfba39d741330622a7f3a3400e4473"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89d08ad039d3ff4f65d03f3c8c6b22b4f8cfba39d741330622a7f3a3400e4473"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_06.md",
+    "blob_sha": "9047db178a3393cd8e3869dfc1f81ac790a5e45b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

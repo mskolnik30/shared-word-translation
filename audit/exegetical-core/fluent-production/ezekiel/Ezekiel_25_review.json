@@ -1,0 +1,297 @@
+{
+  "book": "Ezekiel",
+  "chapter": 25,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "25:1-32:32",
+      "decision": "Keep oracles against nations, trade empires, pride, lament, and descent imagery historically situated.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 25:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 1,
+            "source_ref": "Ezekiel 25:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+      },
+      "2": {
+        "source_ref": "Ezekiel 25:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 2,
+            "source_ref": "Ezekiel 25:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d24609a0e1f7f556280ec88b9a4ddd915eceed0a076e0b64ab2c25b10eb8031a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d24609a0e1f7f556280ec88b9a4ddd915eceed0a076e0b64ab2c25b10eb8031a"
+      },
+      "3": {
+        "source_ref": "Ezekiel 25:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 3,
+            "source_ref": "Ezekiel 25:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74b677499192ddb8c00c28909d4e17861d63a3f89b15ff8fe36503511d6cff1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74b677499192ddb8c00c28909d4e17861d63a3f89b15ff8fe36503511d6cff1b"
+      },
+      "4": {
+        "source_ref": "Ezekiel 25:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 4,
+            "source_ref": "Ezekiel 25:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2f770ef314472cc9c10ac3f9a3cd2832ce9b18a95d3b62829b4bda3f795f62f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f770ef314472cc9c10ac3f9a3cd2832ce9b18a95d3b62829b4bda3f795f62f3"
+      },
+      "5": {
+        "source_ref": "Ezekiel 25:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 5,
+            "source_ref": "Ezekiel 25:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "034e803a1617d99135eae7f08a4454dc26240b4760fefdc0346d3a213acf9e44"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "034e803a1617d99135eae7f08a4454dc26240b4760fefdc0346d3a213acf9e44"
+      },
+      "6": {
+        "source_ref": "Ezekiel 25:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 6,
+            "source_ref": "Ezekiel 25:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "34a486e9e51e0c7573987088f9087905f16222eea9c255f53413dd760ba8a3af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34a486e9e51e0c7573987088f9087905f16222eea9c255f53413dd760ba8a3af"
+      },
+      "7": {
+        "source_ref": "Ezekiel 25:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 7,
+            "source_ref": "Ezekiel 25:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a9a4d5153545c9a3e9368feba159a7cc127a2d534412444d605e999da39d316f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9a4d5153545c9a3e9368feba159a7cc127a2d534412444d605e999da39d316f"
+      },
+      "8": {
+        "source_ref": "Ezekiel 25:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 8,
+            "source_ref": "Ezekiel 25:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ef5f45a977a85268022223b899957d121892d8d74f254f36c872e9b48750f77b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef5f45a977a85268022223b899957d121892d8d74f254f36c872e9b48750f77b"
+      },
+      "9": {
+        "source_ref": "Ezekiel 25:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 9,
+            "source_ref": "Ezekiel 25:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ff68b366b08d09a97340280119015026880a3c7a3a411c05835b137b3fe168b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff68b366b08d09a97340280119015026880a3c7a3a411c05835b137b3fe168b7"
+      },
+      "10": {
+        "source_ref": "Ezekiel 25:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 10,
+            "source_ref": "Ezekiel 25:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9bb9410bb8ad773db01fe24d758e0359b9354c40760e947042b30840ba901143"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9bb9410bb8ad773db01fe24d758e0359b9354c40760e947042b30840ba901143"
+      },
+      "11": {
+        "source_ref": "Ezekiel 25:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 11,
+            "source_ref": "Ezekiel 25:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c096d5d22c1dacc8c47faf8872d485dc9afdef7276df2affbc96136666305410"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c096d5d22c1dacc8c47faf8872d485dc9afdef7276df2affbc96136666305410"
+      },
+      "12": {
+        "source_ref": "Ezekiel 25:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 12,
+            "source_ref": "Ezekiel 25:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3218f8cdf63f5b7136729439a2cda8e5e34ae72b2423622f32813d45ac748ae7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3218f8cdf63f5b7136729439a2cda8e5e34ae72b2423622f32813d45ac748ae7"
+      },
+      "13": {
+        "source_ref": "Ezekiel 25:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 13,
+            "source_ref": "Ezekiel 25:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3be5bfb3ce498fefaa02d3f090cf956ea8d7a57ba624a521e6f946dd8e283b1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3be5bfb3ce498fefaa02d3f090cf956ea8d7a57ba624a521e6f946dd8e283b1c"
+      },
+      "14": {
+        "source_ref": "Ezekiel 25:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 14,
+            "source_ref": "Ezekiel 25:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "558d7230df3618ca25026e594e5f32ba71b4add3a7f9db6cfdbf12bde0e8e9de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "558d7230df3618ca25026e594e5f32ba71b4add3a7f9db6cfdbf12bde0e8e9de"
+      },
+      "15": {
+        "source_ref": "Ezekiel 25:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 15,
+            "source_ref": "Ezekiel 25:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d10aa9ad7f1e97a11fc23717decf9ac4a5d1eed53481421ab2206c112a74b0e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d10aa9ad7f1e97a11fc23717decf9ac4a5d1eed53481421ab2206c112a74b0e0"
+      },
+      "16": {
+        "source_ref": "Ezekiel 25:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 16,
+            "source_ref": "Ezekiel 25:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e93e5dbcc83fa900ca1ba2d96b8ba44880b5dd8ace13e1d40ac31571517a701b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e93e5dbcc83fa900ca1ba2d96b8ba44880b5dd8ace13e1d40ac31571517a701b"
+      },
+      "17": {
+        "source_ref": "Ezekiel 25:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 17,
+            "source_ref": "Ezekiel 25:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eb22b4464ce6087fefc26955cfc5aba53ccc405321c698ff5077fde5eb85c35f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb22b4464ce6087fefc26955cfc5aba53ccc405321c698ff5077fde5eb85c35f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_25.md",
+    "blob_sha": "6af8556bc0b5292b2275c54587f02b22018eaa85"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,381 @@
+{
+  "book": "Ezekiel",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 13:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Ezekiel 13:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+      },
+      "2": {
+        "source_ref": "Ezekiel 13:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 2,
+            "source_ref": "Ezekiel 13:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b583ef4600b328f45b9ac30b4814d104c2f1996f4a011ce29906940c0cc685d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b583ef4600b328f45b9ac30b4814d104c2f1996f4a011ce29906940c0cc685d1"
+      },
+      "3": {
+        "source_ref": "Ezekiel 13:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 3,
+            "source_ref": "Ezekiel 13:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7b1efebb4c4799991aef7e4f3556db5ce6cda2ca51f41cc43bb1b8bd2efc4f9f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b1efebb4c4799991aef7e4f3556db5ce6cda2ca51f41cc43bb1b8bd2efc4f9f"
+      },
+      "4": {
+        "source_ref": "Ezekiel 13:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 4,
+            "source_ref": "Ezekiel 13:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fcb43b88ee8309712aa8cf8bff8e8d00ca33f3bc1996fd99405cbd4d35c741f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fcb43b88ee8309712aa8cf8bff8e8d00ca33f3bc1996fd99405cbd4d35c741f8"
+      },
+      "5": {
+        "source_ref": "Ezekiel 13:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 5,
+            "source_ref": "Ezekiel 13:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f85808a637886b27cbcc25c96259b5fcb2c6df5001913cec2f2631fddbcab1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f85808a637886b27cbcc25c96259b5fcb2c6df5001913cec2f2631fddbcab1c"
+      },
+      "6": {
+        "source_ref": "Ezekiel 13:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Ezekiel 13:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "be67553ff6c7bddb599a50f852860faf55bdd91458a3cae801922bd0766bb986"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be67553ff6c7bddb599a50f852860faf55bdd91458a3cae801922bd0766bb986"
+      },
+      "7": {
+        "source_ref": "Ezekiel 13:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 7,
+            "source_ref": "Ezekiel 13:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3111931b682a818c75c80eb34bf1fb0c78c955450cf03fffaec0179b133cda39"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3111931b682a818c75c80eb34bf1fb0c78c955450cf03fffaec0179b133cda39"
+      },
+      "8": {
+        "source_ref": "Ezekiel 13:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 8,
+            "source_ref": "Ezekiel 13:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "be2358c156694bd1e9df479cc046dd844565ffcf99c2bc18f2ad7229253abc62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be2358c156694bd1e9df479cc046dd844565ffcf99c2bc18f2ad7229253abc62"
+      },
+      "9": {
+        "source_ref": "Ezekiel 13:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 9,
+            "source_ref": "Ezekiel 13:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5c92fde67e51adc4fec005c93d6ce6a6a2c005d8aa9d9fc20cb1fd12ce661cdc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c92fde67e51adc4fec005c93d6ce6a6a2c005d8aa9d9fc20cb1fd12ce661cdc"
+      },
+      "10": {
+        "source_ref": "Ezekiel 13:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 10,
+            "source_ref": "Ezekiel 13:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ad0096c1bff75fb2e388bff055d5959a98420b8d39aa94e1b7fe0498b273af0e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ad0096c1bff75fb2e388bff055d5959a98420b8d39aa94e1b7fe0498b273af0e"
+      },
+      "11": {
+        "source_ref": "Ezekiel 13:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 11,
+            "source_ref": "Ezekiel 13:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fa2d731a664676dc74e11c5ae74c87fd4d3f9798b195c952e774c12156a687c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa2d731a664676dc74e11c5ae74c87fd4d3f9798b195c952e774c12156a687c2"
+      },
+      "12": {
+        "source_ref": "Ezekiel 13:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 12,
+            "source_ref": "Ezekiel 13:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6b2b67c633f40ac0ac0168f4bae268337fdbb58e93eeb7e476e05e588d605024"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b2b67c633f40ac0ac0168f4bae268337fdbb58e93eeb7e476e05e588d605024"
+      },
+      "13": {
+        "source_ref": "Ezekiel 13:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 13,
+            "source_ref": "Ezekiel 13:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b1460ef867be9a836d46ad1251755fbe281f77a8385018c0901217067fb284a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b1460ef867be9a836d46ad1251755fbe281f77a8385018c0901217067fb284a"
+      },
+      "14": {
+        "source_ref": "Ezekiel 13:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 14,
+            "source_ref": "Ezekiel 13:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b4bb96ee1ede4680b902f439becde8a012efdecb191bf928d0c16e1dff967e0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4bb96ee1ede4680b902f439becde8a012efdecb191bf928d0c16e1dff967e0f"
+      },
+      "15": {
+        "source_ref": "Ezekiel 13:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 15,
+            "source_ref": "Ezekiel 13:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "709b69b42db4c26145ba6f22956328bdeb21bb7f8a754a0765e26f16a4ebe807"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "709b69b42db4c26145ba6f22956328bdeb21bb7f8a754a0765e26f16a4ebe807"
+      },
+      "16": {
+        "source_ref": "Ezekiel 13:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 16,
+            "source_ref": "Ezekiel 13:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "be3022abbb21f9ffad4def3b331805168cd0fc8099fe8b6caf18ca5b79a33ae1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be3022abbb21f9ffad4def3b331805168cd0fc8099fe8b6caf18ca5b79a33ae1"
+      },
+      "17": {
+        "source_ref": "Ezekiel 13:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 17,
+            "source_ref": "Ezekiel 13:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "52923566ec3997c627bfdc809d26a0ce11f38af26520ee685096fc370be200d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "52923566ec3997c627bfdc809d26a0ce11f38af26520ee685096fc370be200d4"
+      },
+      "18": {
+        "source_ref": "Ezekiel 13:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 18,
+            "source_ref": "Ezekiel 13:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4003f36bf860ca0eb531c220d9171f7b0d61502cffba0857106d1fcdb1a96641"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4003f36bf860ca0eb531c220d9171f7b0d61502cffba0857106d1fcdb1a96641"
+      },
+      "19": {
+        "source_ref": "Ezekiel 13:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 19,
+            "source_ref": "Ezekiel 13:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9b9893aacacef3a32068b0e7ce56380784e748feffc7741dc26dfcd2da8b3370"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b9893aacacef3a32068b0e7ce56380784e748feffc7741dc26dfcd2da8b3370"
+      },
+      "20": {
+        "source_ref": "Ezekiel 13:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 20,
+            "source_ref": "Ezekiel 13:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c2fd15a9d221cf07ae68a889c76c799106b26d31b7f84015be228784a3ed51a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c2fd15a9d221cf07ae68a889c76c799106b26d31b7f84015be228784a3ed51a"
+      },
+      "21": {
+        "source_ref": "Ezekiel 13:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 21,
+            "source_ref": "Ezekiel 13:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "31961ca87032f3f2ea6ecf3cfd4d64f0fcd190d00b9e4c8471df345853d9e0f4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "31961ca87032f3f2ea6ecf3cfd4d64f0fcd190d00b9e4c8471df345853d9e0f4"
+      },
+      "22": {
+        "source_ref": "Ezekiel 13:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 22,
+            "source_ref": "Ezekiel 13:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "29030f08a7a9b7691e2a5862f6a61d0c1f9e86fee3199aca98c41c50895b798e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "29030f08a7a9b7691e2a5862f6a61d0c1f9e86fee3199aca98c41c50895b798e"
+      },
+      "23": {
+        "source_ref": "Ezekiel 13:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 23,
+            "source_ref": "Ezekiel 13:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "634db0d441c83ee98b3858b3011374972ede43bac5dd0f47f2271bd4a6967259"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "634db0d441c83ee98b3858b3011374972ede43bac5dd0f47f2271bd4a6967259"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_13.md",
+    "blob_sha": "5d7ea9e40fee7221dc6e1613e1691a799deed90c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

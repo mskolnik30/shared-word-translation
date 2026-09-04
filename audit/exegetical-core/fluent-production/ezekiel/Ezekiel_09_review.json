@@ -1,0 +1,201 @@
+{
+  "book": "Ezekiel",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 9:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Ezekiel 9:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "050692ce55fedafaf7ded208cd6fbfedd6de02222217bd98b219adadda82595d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "050692ce55fedafaf7ded208cd6fbfedd6de02222217bd98b219adadda82595d"
+      },
+      "2": {
+        "source_ref": "Ezekiel 9:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Ezekiel 9:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63b8a05e48cce1132c5c97978966f5a5c538091e0e65f84c4d1f31592727f344"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63b8a05e48cce1132c5c97978966f5a5c538091e0e65f84c4d1f31592727f344"
+      },
+      "3": {
+        "source_ref": "Ezekiel 9:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Ezekiel 9:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "346f1521b5d162eba8442255f4ad02a325af911b9475bedd0a9d7a831c0c9330"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "346f1521b5d162eba8442255f4ad02a325af911b9475bedd0a9d7a831c0c9330"
+      },
+      "4": {
+        "source_ref": "Ezekiel 9:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Ezekiel 9:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b088699cfba929a34035513ca931235af93af374adaef011be4bab4444fbf6ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b088699cfba929a34035513ca931235af93af374adaef011be4bab4444fbf6ed"
+      },
+      "5": {
+        "source_ref": "Ezekiel 9:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Ezekiel 9:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14197ccf33b780607e0f0983b235bcf2d1e08d5b52e0c1ac2c92b35c2bf85070"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14197ccf33b780607e0f0983b235bcf2d1e08d5b52e0c1ac2c92b35c2bf85070"
+      },
+      "6": {
+        "source_ref": "Ezekiel 9:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Ezekiel 9:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a20732f0be070432223f00b9519d41750707de16f43769cdca62f5e9dab700e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a20732f0be070432223f00b9519d41750707de16f43769cdca62f5e9dab700e7"
+      },
+      "7": {
+        "source_ref": "Ezekiel 9:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Ezekiel 9:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5663eea45f4dea47ad263edc11c5cb8863948348716ed4a37fce250c47241227"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5663eea45f4dea47ad263edc11c5cb8863948348716ed4a37fce250c47241227"
+      },
+      "8": {
+        "source_ref": "Ezekiel 9:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Ezekiel 9:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "28cc2151f6e594b1154df784f7a90b194d5367de38db16807fd7b2f0537bd45f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "28cc2151f6e594b1154df784f7a90b194d5367de38db16807fd7b2f0537bd45f"
+      },
+      "9": {
+        "source_ref": "Ezekiel 9:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Ezekiel 9:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f71f1e6dc877c5d7ae764b78a8a466b7da5f4b6dc523350be13126136c92cd1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f71f1e6dc877c5d7ae764b78a8a466b7da5f4b6dc523350be13126136c92cd1c"
+      },
+      "10": {
+        "source_ref": "Ezekiel 9:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Ezekiel 9:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "24f907207e643e526e7fcf66de9dcd244ee8d90c6ef782729446dc09b92898b9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "24f907207e643e526e7fcf66de9dcd244ee8d90c6ef782729446dc09b92898b9"
+      },
+      "11": {
+        "source_ref": "Ezekiel 9:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Ezekiel 9:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82e8ea956d9fdaf6395aa145e086d7a1e098e38fbff2e5e6e326dd45de5a0eb9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82e8ea956d9fdaf6395aa145e086d7a1e098e38fbff2e5e6e326dd45de5a0eb9"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_09.md",
+    "blob_sha": "0c19474309a9d36826b5f439c2312a2e843143e7"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

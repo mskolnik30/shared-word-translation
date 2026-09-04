@@ -1,0 +1,771 @@
+{
+  "book": "Ezekiel",
+  "chapter": 23,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 23:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 1,
+            "source_ref": "Ezekiel 23:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+      },
+      "2": {
+        "source_ref": "Ezekiel 23:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 2,
+            "source_ref": "Ezekiel 23:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d5fb77da0727c1e8f1b9c0ac0eb9ee4e318e5b314a59f6907006244ace425a6c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d5fb77da0727c1e8f1b9c0ac0eb9ee4e318e5b314a59f6907006244ace425a6c"
+      },
+      "3": {
+        "source_ref": "Ezekiel 23:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 3,
+            "source_ref": "Ezekiel 23:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "106add97d4511dc64ad8bcfe9ca0797e0bfca3c7937f5c235f895efdfc135549"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "106add97d4511dc64ad8bcfe9ca0797e0bfca3c7937f5c235f895efdfc135549"
+      },
+      "4": {
+        "source_ref": "Ezekiel 23:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 4,
+            "source_ref": "Ezekiel 23:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e1a56d7f0c8d1bd976a5ad9c3eca832104e9b44fc323694329f9a8914671ec99"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1a56d7f0c8d1bd976a5ad9c3eca832104e9b44fc323694329f9a8914671ec99"
+      },
+      "5": {
+        "source_ref": "Ezekiel 23:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 5,
+            "source_ref": "Ezekiel 23:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6fe6eaebff8285a7e47b873e04df9277d21a33249fdfbc96b905d7c68a9e319f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6fe6eaebff8285a7e47b873e04df9277d21a33249fdfbc96b905d7c68a9e319f"
+      },
+      "6": {
+        "source_ref": "Ezekiel 23:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 6,
+            "source_ref": "Ezekiel 23:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "52c4a76ff28e58c7e8e80387fe12dfc0ea64866ec52dc7aae05553318357c03a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "52c4a76ff28e58c7e8e80387fe12dfc0ea64866ec52dc7aae05553318357c03a"
+      },
+      "7": {
+        "source_ref": "Ezekiel 23:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 7,
+            "source_ref": "Ezekiel 23:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "046068667c3b1a29f774724a24f5bd54921397447a7ed50c3f4bfc2c30843e11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "046068667c3b1a29f774724a24f5bd54921397447a7ed50c3f4bfc2c30843e11"
+      },
+      "8": {
+        "source_ref": "Ezekiel 23:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 8,
+            "source_ref": "Ezekiel 23:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ac25330ca6aea23880ddac5a0353ffbfcad170b16b316a7461dceccbd81ee74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ac25330ca6aea23880ddac5a0353ffbfcad170b16b316a7461dceccbd81ee74"
+      },
+      "9": {
+        "source_ref": "Ezekiel 23:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 9,
+            "source_ref": "Ezekiel 23:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca7e06755fe3a93e4ea99e19ee5604154c8022300f4677d992b16f706cd2d16b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca7e06755fe3a93e4ea99e19ee5604154c8022300f4677d992b16f706cd2d16b"
+      },
+      "10": {
+        "source_ref": "Ezekiel 23:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 10,
+            "source_ref": "Ezekiel 23:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8649c8253b5214fd0d75a72b91689839631ca3fc1feda1bac39bdae44c3ebb95"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8649c8253b5214fd0d75a72b91689839631ca3fc1feda1bac39bdae44c3ebb95"
+      },
+      "11": {
+        "source_ref": "Ezekiel 23:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 11,
+            "source_ref": "Ezekiel 23:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f3d385ef5f171e8b8b7cbf1022d173ade477d6e4c7e137acb6fbd979cafb5fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f3d385ef5f171e8b8b7cbf1022d173ade477d6e4c7e137acb6fbd979cafb5fc"
+      },
+      "12": {
+        "source_ref": "Ezekiel 23:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 12,
+            "source_ref": "Ezekiel 23:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75b5fd1b3c4f33261bab2a0110bee9116036d8d996b6e6407554571895f58e03"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75b5fd1b3c4f33261bab2a0110bee9116036d8d996b6e6407554571895f58e03"
+      },
+      "13": {
+        "source_ref": "Ezekiel 23:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 13,
+            "source_ref": "Ezekiel 23:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8995308bf1c329b66d203ba1bf1e234ede837d55d444b8e7e69f18f5d9718aac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8995308bf1c329b66d203ba1bf1e234ede837d55d444b8e7e69f18f5d9718aac"
+      },
+      "14": {
+        "source_ref": "Ezekiel 23:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 14,
+            "source_ref": "Ezekiel 23:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "47d94abc7f9ce80d3ec32959b1e98bde87db1b803a860ae1232eb9d5c0c3c8cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "47d94abc7f9ce80d3ec32959b1e98bde87db1b803a860ae1232eb9d5c0c3c8cf"
+      },
+      "15": {
+        "source_ref": "Ezekiel 23:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 15,
+            "source_ref": "Ezekiel 23:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d47a05d4c7cd9f335eee94bfd3c2ad5e79a4627607bf1840f30e6e6eb8432b74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d47a05d4c7cd9f335eee94bfd3c2ad5e79a4627607bf1840f30e6e6eb8432b74"
+      },
+      "16": {
+        "source_ref": "Ezekiel 23:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 16,
+            "source_ref": "Ezekiel 23:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "07a39e0ea0873c495477af6e799fdfeb7dc7b8ae828b69f4fc6362b623b7a87d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07a39e0ea0873c495477af6e799fdfeb7dc7b8ae828b69f4fc6362b623b7a87d"
+      },
+      "17": {
+        "source_ref": "Ezekiel 23:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 17,
+            "source_ref": "Ezekiel 23:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4a3b7fa73e1643a546c827ceb6cb80456decd02651486d9fdbded526c59089fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a3b7fa73e1643a546c827ceb6cb80456decd02651486d9fdbded526c59089fa"
+      },
+      "18": {
+        "source_ref": "Ezekiel 23:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 18,
+            "source_ref": "Ezekiel 23:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "375b882dda55e52d3253aa9f7c29503a27e176e7cf6d7f32021764c7dd52fbc6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "375b882dda55e52d3253aa9f7c29503a27e176e7cf6d7f32021764c7dd52fbc6"
+      },
+      "19": {
+        "source_ref": "Ezekiel 23:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 19,
+            "source_ref": "Ezekiel 23:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "745eaa715553c98111fb5f63e90665b5e724962155ba7cd17940b7e760cc5e3e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "745eaa715553c98111fb5f63e90665b5e724962155ba7cd17940b7e760cc5e3e"
+      },
+      "20": {
+        "source_ref": "Ezekiel 23:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 20,
+            "source_ref": "Ezekiel 23:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3a4efa20e449b1a3cf9a5295fcddefd934959c0c939204cee9a0badc2ea0c32"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3a4efa20e449b1a3cf9a5295fcddefd934959c0c939204cee9a0badc2ea0c32"
+      },
+      "21": {
+        "source_ref": "Ezekiel 23:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 21,
+            "source_ref": "Ezekiel 23:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c0ebbbabfef9d63fda431ae761429cc02870546fcfe43bedfadac4c08ffd642"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c0ebbbabfef9d63fda431ae761429cc02870546fcfe43bedfadac4c08ffd642"
+      },
+      "22": {
+        "source_ref": "Ezekiel 23:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 22,
+            "source_ref": "Ezekiel 23:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7e7c59b81867b5c1f958fac9f8ecb257fb471d8a7f4b1d42ac8c5aa9757a1764"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e7c59b81867b5c1f958fac9f8ecb257fb471d8a7f4b1d42ac8c5aa9757a1764"
+      },
+      "23": {
+        "source_ref": "Ezekiel 23:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 23,
+            "source_ref": "Ezekiel 23:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b1c0c4d6db8d3a9288d354df9cbc4393c8e35b2429fd0eb5ebd67f932f2f28ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b1c0c4d6db8d3a9288d354df9cbc4393c8e35b2429fd0eb5ebd67f932f2f28ec"
+      },
+      "24": {
+        "source_ref": "Ezekiel 23:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 24,
+            "source_ref": "Ezekiel 23:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7ccf838cc85d5863db4b0cec5e8f75ba85aa03efc03c519ebd61dc808fa1ecd3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ccf838cc85d5863db4b0cec5e8f75ba85aa03efc03c519ebd61dc808fa1ecd3"
+      },
+      "25": {
+        "source_ref": "Ezekiel 23:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 25,
+            "source_ref": "Ezekiel 23:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "38de3d2f514cf603d51157e81320d40c175e66ee787d879b6ae3b450b48a8a4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "38de3d2f514cf603d51157e81320d40c175e66ee787d879b6ae3b450b48a8a4e"
+      },
+      "26": {
+        "source_ref": "Ezekiel 23:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 26,
+            "source_ref": "Ezekiel 23:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1879f2f2499946139986562e0fbc05f92e1aeccfabc95d9d33385986405fd482"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1879f2f2499946139986562e0fbc05f92e1aeccfabc95d9d33385986405fd482"
+      },
+      "27": {
+        "source_ref": "Ezekiel 23:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 27,
+            "source_ref": "Ezekiel 23:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b9e1b9c545e7ccbc169e8712ecf8743ba7aae51d1765040877cd72ebf1fcde5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b9e1b9c545e7ccbc169e8712ecf8743ba7aae51d1765040877cd72ebf1fcde5"
+      },
+      "28": {
+        "source_ref": "Ezekiel 23:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 28,
+            "source_ref": "Ezekiel 23:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1486d29a6f346b9130fab659373891d4537755a9857dfa5e707971a700d9c25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1486d29a6f346b9130fab659373891d4537755a9857dfa5e707971a700d9c25"
+      },
+      "29": {
+        "source_ref": "Ezekiel 23:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 29,
+            "source_ref": "Ezekiel 23:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "10d2f043e4cb4bb3d1b3bef4c55fa6e846bcd79930141ca60aa44eeb614f1900"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10d2f043e4cb4bb3d1b3bef4c55fa6e846bcd79930141ca60aa44eeb614f1900"
+      },
+      "30": {
+        "source_ref": "Ezekiel 23:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 30,
+            "source_ref": "Ezekiel 23:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "221eb3dd5b74f093ea58a235df31e13b8b7e626e08d220dbcefc208f8d24d428"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "221eb3dd5b74f093ea58a235df31e13b8b7e626e08d220dbcefc208f8d24d428"
+      },
+      "31": {
+        "source_ref": "Ezekiel 23:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 31,
+            "source_ref": "Ezekiel 23:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a543973ef5d1c0260b0af703a0cef95c40ab75c4eb57813c6bbdc8753b792551"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a543973ef5d1c0260b0af703a0cef95c40ab75c4eb57813c6bbdc8753b792551"
+      },
+      "32": {
+        "source_ref": "Ezekiel 23:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 32,
+            "source_ref": "Ezekiel 23:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ae0b97629b6b3391e6e1836308477ff6c184ee1cbcc096bab28a0dc9febcfde6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae0b97629b6b3391e6e1836308477ff6c184ee1cbcc096bab28a0dc9febcfde6"
+      },
+      "33": {
+        "source_ref": "Ezekiel 23:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 33,
+            "source_ref": "Ezekiel 23:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01aa696993180ca65e6eef03a60c37ca00a740471f2425d0f96bb57a80678104"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01aa696993180ca65e6eef03a60c37ca00a740471f2425d0f96bb57a80678104"
+      },
+      "34": {
+        "source_ref": "Ezekiel 23:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 34,
+            "source_ref": "Ezekiel 23:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ee313bf2f946a7d71ac3f5a52abdc1cf26a8db8757bd93530be464c11c60186d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee313bf2f946a7d71ac3f5a52abdc1cf26a8db8757bd93530be464c11c60186d"
+      },
+      "35": {
+        "source_ref": "Ezekiel 23:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 35,
+            "source_ref": "Ezekiel 23:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "402f94a643e8892623086f446c351d86babbe9f63d34541a7594341478d72acc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "402f94a643e8892623086f446c351d86babbe9f63d34541a7594341478d72acc"
+      },
+      "36": {
+        "source_ref": "Ezekiel 23:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 36,
+            "source_ref": "Ezekiel 23:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a81c87aeff06fda5c67d879968b119475f8edbfc2f1e3807c5e302e0baeb7ab5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a81c87aeff06fda5c67d879968b119475f8edbfc2f1e3807c5e302e0baeb7ab5"
+      },
+      "37": {
+        "source_ref": "Ezekiel 23:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 37,
+            "source_ref": "Ezekiel 23:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac88ca4b250ab318baaf3216c6c57c5addf7fdc9437e9a8839fdc976ec535b98"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac88ca4b250ab318baaf3216c6c57c5addf7fdc9437e9a8839fdc976ec535b98"
+      },
+      "38": {
+        "source_ref": "Ezekiel 23:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 38,
+            "source_ref": "Ezekiel 23:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eea8242082dc0a59a5f5e17a784ca41c4158f5598e050f2a1cbfb614cdd8b971"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eea8242082dc0a59a5f5e17a784ca41c4158f5598e050f2a1cbfb614cdd8b971"
+      },
+      "39": {
+        "source_ref": "Ezekiel 23:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 39,
+            "source_ref": "Ezekiel 23:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e86461e67ab06bc95621a6849b63c146e76a61e9ab3a95104300cfb1e9c9f831"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e86461e67ab06bc95621a6849b63c146e76a61e9ab3a95104300cfb1e9c9f831"
+      },
+      "40": {
+        "source_ref": "Ezekiel 23:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 40,
+            "source_ref": "Ezekiel 23:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "30f9c04b75538f8174c2bd23681720aa5028d190dffec555c7c49589b23d9975"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30f9c04b75538f8174c2bd23681720aa5028d190dffec555c7c49589b23d9975"
+      },
+      "41": {
+        "source_ref": "Ezekiel 23:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 41,
+            "source_ref": "Ezekiel 23:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "22adad9de4a461dcd1c3c5a6cb42e4498883d70e1b4762f62d36e9bfc0591b82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "22adad9de4a461dcd1c3c5a6cb42e4498883d70e1b4762f62d36e9bfc0591b82"
+      },
+      "42": {
+        "source_ref": "Ezekiel 23:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 42,
+            "source_ref": "Ezekiel 23:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f3420457aeccb87e1a77d46ed33af0379441bb434b419cf81ba5219904db0827"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3420457aeccb87e1a77d46ed33af0379441bb434b419cf81ba5219904db0827"
+      },
+      "43": {
+        "source_ref": "Ezekiel 23:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 43,
+            "source_ref": "Ezekiel 23:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4335cc806dc6587e7f1e422130eafe97efaecd1eae8fd3690ae193ecefc4397a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4335cc806dc6587e7f1e422130eafe97efaecd1eae8fd3690ae193ecefc4397a"
+      },
+      "44": {
+        "source_ref": "Ezekiel 23:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 44,
+            "source_ref": "Ezekiel 23:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "44ed26ae6a9cb55226d043494be87b947741eb4d689ee460a0190d400be6b7a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44ed26ae6a9cb55226d043494be87b947741eb4d689ee460a0190d400be6b7a1"
+      },
+      "45": {
+        "source_ref": "Ezekiel 23:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 45,
+            "source_ref": "Ezekiel 23:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "125f0c0b20ed02882d0342bf9a716c43654cc0d601a743dd6414ead7696c9445"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "125f0c0b20ed02882d0342bf9a716c43654cc0d601a743dd6414ead7696c9445"
+      },
+      "46": {
+        "source_ref": "Ezekiel 23:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 46,
+            "source_ref": "Ezekiel 23:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "124e185699608d940d1a1bfbfa1715fcc61117743cac428d43ce85e4bc5de44f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "124e185699608d940d1a1bfbfa1715fcc61117743cac428d43ce85e4bc5de44f"
+      },
+      "47": {
+        "source_ref": "Ezekiel 23:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 47,
+            "source_ref": "Ezekiel 23:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ff5c1f74fda756fc6f1e1c815aef8c6b3f37d83b2de7673fdabcd6b21499df3f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff5c1f74fda756fc6f1e1c815aef8c6b3f37d83b2de7673fdabcd6b21499df3f"
+      },
+      "48": {
+        "source_ref": "Ezekiel 23:48 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 48,
+            "source_ref": "Ezekiel 23:48 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7021c06613f83226aa529f4e9ea322b20f327c17bcb3f2259c59e78bae79510"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7021c06613f83226aa529f4e9ea322b20f327c17bcb3f2259c59e78bae79510"
+      },
+      "49": {
+        "source_ref": "Ezekiel 23:49 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 49,
+            "source_ref": "Ezekiel 23:49 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "567cfacc58fe9048c40809c35398e003de7ceb86c6c1aeefa1509d2e1ba0e574"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "567cfacc58fe9048c40809c35398e003de7ceb86c6c1aeefa1509d2e1ba0e574"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_23.md",
+    "blob_sha": "54a91d2a818de51c01a2b8c4d6105ff05766c1f6"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

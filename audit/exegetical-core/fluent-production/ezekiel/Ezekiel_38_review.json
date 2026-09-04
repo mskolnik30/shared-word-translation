@@ -1,0 +1,381 @@
+{
+  "book": "Ezekiel",
+  "chapter": 38,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 38:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 1,
+            "source_ref": "Ezekiel 38:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+      },
+      "2": {
+        "source_ref": "Ezekiel 38:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 2,
+            "source_ref": "Ezekiel 38:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d4238120b23d694a03d0f61af45b3d4e37a2bc8322aebaae33e61f9ef939e95"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d4238120b23d694a03d0f61af45b3d4e37a2bc8322aebaae33e61f9ef939e95"
+      },
+      "3": {
+        "source_ref": "Ezekiel 38:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 3,
+            "source_ref": "Ezekiel 38:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dfeac2c4d97d6075eaa1641f413ce28544bae29855fdc2f980b573391c6722d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dfeac2c4d97d6075eaa1641f413ce28544bae29855fdc2f980b573391c6722d8"
+      },
+      "4": {
+        "source_ref": "Ezekiel 38:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 4,
+            "source_ref": "Ezekiel 38:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "39bdb7e7a4e99878e912f198a495e96a45a04bfde64637cd1a94a445e54e16d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39bdb7e7a4e99878e912f198a495e96a45a04bfde64637cd1a94a445e54e16d1"
+      },
+      "5": {
+        "source_ref": "Ezekiel 38:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 5,
+            "source_ref": "Ezekiel 38:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a571ceb55164b35c97d16643d826bd776a66e533ea05a7d596db228f5da60a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a571ceb55164b35c97d16643d826bd776a66e533ea05a7d596db228f5da60a9"
+      },
+      "6": {
+        "source_ref": "Ezekiel 38:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 6,
+            "source_ref": "Ezekiel 38:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c239a6253ba2dffe7a59e9884a48d2603fbd94b376136cba07e662b2a4500390"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c239a6253ba2dffe7a59e9884a48d2603fbd94b376136cba07e662b2a4500390"
+      },
+      "7": {
+        "source_ref": "Ezekiel 38:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 7,
+            "source_ref": "Ezekiel 38:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7ae90d4b401430c6fae2cfd7aeef3710f60ee87295f99e50856393ba3e4c5335"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ae90d4b401430c6fae2cfd7aeef3710f60ee87295f99e50856393ba3e4c5335"
+      },
+      "8": {
+        "source_ref": "Ezekiel 38:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 8,
+            "source_ref": "Ezekiel 38:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a577466c84ddd66ae87b63b11b2d9c47ecc1cf15bb9f45c7c1a9d8a2c55805ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a577466c84ddd66ae87b63b11b2d9c47ecc1cf15bb9f45c7c1a9d8a2c55805ef"
+      },
+      "9": {
+        "source_ref": "Ezekiel 38:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 9,
+            "source_ref": "Ezekiel 38:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7907d65392668e60faf8ef000ec9f6a2b632eb677ebb57ed9511608a42659044"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7907d65392668e60faf8ef000ec9f6a2b632eb677ebb57ed9511608a42659044"
+      },
+      "10": {
+        "source_ref": "Ezekiel 38:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 10,
+            "source_ref": "Ezekiel 38:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "02a3b408f4e69f061b66e4ba77b8207549ed1f22d04aa4b1a0aee322500c56a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02a3b408f4e69f061b66e4ba77b8207549ed1f22d04aa4b1a0aee322500c56a3"
+      },
+      "11": {
+        "source_ref": "Ezekiel 38:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 11,
+            "source_ref": "Ezekiel 38:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ba9935f59fc62c80b570663f4718c58aabafe1dbf513d5201dfb0632f9b35b42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba9935f59fc62c80b570663f4718c58aabafe1dbf513d5201dfb0632f9b35b42"
+      },
+      "12": {
+        "source_ref": "Ezekiel 38:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 12,
+            "source_ref": "Ezekiel 38:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4390e92cafdaedcc86cfb5a9ef363d26973bb10957809ab76d4318f511b66442"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4390e92cafdaedcc86cfb5a9ef363d26973bb10957809ab76d4318f511b66442"
+      },
+      "13": {
+        "source_ref": "Ezekiel 38:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 13,
+            "source_ref": "Ezekiel 38:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1656aad12226038b448b9e16356f0f19c805428401ea1485aa553065cd41bbf2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1656aad12226038b448b9e16356f0f19c805428401ea1485aa553065cd41bbf2"
+      },
+      "14": {
+        "source_ref": "Ezekiel 38:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 14,
+            "source_ref": "Ezekiel 38:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "81db92cca1b441c569cd585aaa59caa6ca8e2547ca9c64b51ace5813503e3241"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81db92cca1b441c569cd585aaa59caa6ca8e2547ca9c64b51ace5813503e3241"
+      },
+      "15": {
+        "source_ref": "Ezekiel 38:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 15,
+            "source_ref": "Ezekiel 38:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75a43d4f578f4aecd680213f6ef4a2d2ba11efdf07a3899cdae4006104d19a42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75a43d4f578f4aecd680213f6ef4a2d2ba11efdf07a3899cdae4006104d19a42"
+      },
+      "16": {
+        "source_ref": "Ezekiel 38:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 16,
+            "source_ref": "Ezekiel 38:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "42abc9719ec1a9b014ea08648e4c52b47f1b0634531f7cc8a3a604cc774fb4fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42abc9719ec1a9b014ea08648e4c52b47f1b0634531f7cc8a3a604cc774fb4fe"
+      },
+      "17": {
+        "source_ref": "Ezekiel 38:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 17,
+            "source_ref": "Ezekiel 38:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b5df425cfceb22e13602023ecd6c06bd569b7f5e40e525c6389e58729dbea13c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b5df425cfceb22e13602023ecd6c06bd569b7f5e40e525c6389e58729dbea13c"
+      },
+      "18": {
+        "source_ref": "Ezekiel 38:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 18,
+            "source_ref": "Ezekiel 38:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ae1aecab8cc9e9f4109da8dd5bcfb8624d9dc7a128e3ceab234811cac256e45a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae1aecab8cc9e9f4109da8dd5bcfb8624d9dc7a128e3ceab234811cac256e45a"
+      },
+      "19": {
+        "source_ref": "Ezekiel 38:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 19,
+            "source_ref": "Ezekiel 38:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b0597f9b7c95fd4803b9adb8d722ce2581e3c8181d05a2582d08728a6a58bf6e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0597f9b7c95fd4803b9adb8d722ce2581e3c8181d05a2582d08728a6a58bf6e"
+      },
+      "20": {
+        "source_ref": "Ezekiel 38:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 20,
+            "source_ref": "Ezekiel 38:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1736de9d941b0e8937e4418db5d2e6d24db9de25158d63bc14fe4d1a3851564"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1736de9d941b0e8937e4418db5d2e6d24db9de25158d63bc14fe4d1a3851564"
+      },
+      "21": {
+        "source_ref": "Ezekiel 38:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 21,
+            "source_ref": "Ezekiel 38:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "65f1fbbd59861fc88712e3b4c830885af7c211681db18f18c4e8ac4f7169add8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65f1fbbd59861fc88712e3b4c830885af7c211681db18f18c4e8ac4f7169add8"
+      },
+      "22": {
+        "source_ref": "Ezekiel 38:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 22,
+            "source_ref": "Ezekiel 38:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4aaae9e07933d3eab04d81e095bf77c992649bf5e5ec0a7af49da9599fbb8c20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4aaae9e07933d3eab04d81e095bf77c992649bf5e5ec0a7af49da9599fbb8c20"
+      },
+      "23": {
+        "source_ref": "Ezekiel 38:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 23,
+            "source_ref": "Ezekiel 38:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "505add0e97982b2c0c4e0e41f18f18c4cdc0285d203fb1382aff0ce245f4a445"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "505add0e97982b2c0c4e0e41f18f18c4cdc0285d203fb1382aff0ce245f4a445"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_38.md",
+    "blob_sha": "6ec631dc31f06082e2c52f44e8922c85c694d70b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

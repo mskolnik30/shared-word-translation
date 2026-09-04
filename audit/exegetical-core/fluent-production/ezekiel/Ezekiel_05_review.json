@@ -1,0 +1,291 @@
+{
+  "book": "Ezekiel",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 5:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "Ezekiel 5:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "584feb1dc5343622c60e0158c50110ea02a94d6e7861b6221654daf73b748f06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "584feb1dc5343622c60e0158c50110ea02a94d6e7861b6221654daf73b748f06"
+      },
+      "2": {
+        "source_ref": "Ezekiel 5:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "Ezekiel 5:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "60a6a157ab8f7aa5c717e6b51e6cbd7d36d98245459991a31cc71a5b43039b93"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60a6a157ab8f7aa5c717e6b51e6cbd7d36d98245459991a31cc71a5b43039b93"
+      },
+      "3": {
+        "source_ref": "Ezekiel 5:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "Ezekiel 5:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f48e8d33e8eca4a50f786120032939d8b9812db2aac160f4a4a04e640e10c95"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f48e8d33e8eca4a50f786120032939d8b9812db2aac160f4a4a04e640e10c95"
+      },
+      "4": {
+        "source_ref": "Ezekiel 5:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "Ezekiel 5:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "31b5bfde8795b28820316de7f094d11be4d8bc0022a54224bccfcb8a6bacef2d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "31b5bfde8795b28820316de7f094d11be4d8bc0022a54224bccfcb8a6bacef2d"
+      },
+      "5": {
+        "source_ref": "Ezekiel 5:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "Ezekiel 5:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01b59b075641e1ca15fe881e92da8e021d454e1c79e15a62f60a5ecb00eb526d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01b59b075641e1ca15fe881e92da8e021d454e1c79e15a62f60a5ecb00eb526d"
+      },
+      "6": {
+        "source_ref": "Ezekiel 5:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "Ezekiel 5:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cf12231f8747bd037e11381c08a96676f503f425bb1362d790e5ad0f28a8e676"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cf12231f8747bd037e11381c08a96676f503f425bb1362d790e5ad0f28a8e676"
+      },
+      "7": {
+        "source_ref": "Ezekiel 5:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "Ezekiel 5:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1b5a69ddbd270eedbc2cdf89a9fb06cd483c741c0f3692e3e0592f66fbe82b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1b5a69ddbd270eedbc2cdf89a9fb06cd483c741c0f3692e3e0592f66fbe82b3"
+      },
+      "8": {
+        "source_ref": "Ezekiel 5:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "Ezekiel 5:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "46301deb5c4493a0ab7c052469067c0ff05d70ccf0d067fe2850567120017f06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46301deb5c4493a0ab7c052469067c0ff05d70ccf0d067fe2850567120017f06"
+      },
+      "9": {
+        "source_ref": "Ezekiel 5:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "Ezekiel 5:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7374fececc699b20718efca407c3f9ff32f5d9a67fa1d23d65c0336335fb2c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7374fececc699b20718efca407c3f9ff32f5d9a67fa1d23d65c0336335fb2c7"
+      },
+      "10": {
+        "source_ref": "Ezekiel 5:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "Ezekiel 5:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "491eb11fb416ee35544ea371bf8ff3cf70c9504bae943dbfebfcc0c6381199c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "491eb11fb416ee35544ea371bf8ff3cf70c9504bae943dbfebfcc0c6381199c6"
+      },
+      "11": {
+        "source_ref": "Ezekiel 5:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "Ezekiel 5:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cee9cfcd5f86297ff81ddafce7b9b81e5b89c42567cc7974a338356cb7c69ea0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cee9cfcd5f86297ff81ddafce7b9b81e5b89c42567cc7974a338356cb7c69ea0"
+      },
+      "12": {
+        "source_ref": "Ezekiel 5:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "Ezekiel 5:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0d39e5ce9d79fd928022a5a510bf29848b0fdc69c0fac0ac6d01a095d6696adf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d39e5ce9d79fd928022a5a510bf29848b0fdc69c0fac0ac6d01a095d6696adf"
+      },
+      "13": {
+        "source_ref": "Ezekiel 5:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "Ezekiel 5:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cd0d057e050267de8bbf325b0863cf91d142251444fd161fce3916a72389a950"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd0d057e050267de8bbf325b0863cf91d142251444fd161fce3916a72389a950"
+      },
+      "14": {
+        "source_ref": "Ezekiel 5:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "Ezekiel 5:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d50abf43269c9d52b656533520380260af2c51f79f2956dd66ec2609cbd52552"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d50abf43269c9d52b656533520380260af2c51f79f2956dd66ec2609cbd52552"
+      },
+      "15": {
+        "source_ref": "Ezekiel 5:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 15,
+            "source_ref": "Ezekiel 5:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1103e62b2b03f1043ea37d18b279827b518bac0b4511fc00fcbf3a373fa7fc3c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1103e62b2b03f1043ea37d18b279827b518bac0b4511fc00fcbf3a373fa7fc3c"
+      },
+      "16": {
+        "source_ref": "Ezekiel 5:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 16,
+            "source_ref": "Ezekiel 5:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "533c7791f6bc075e9492aee3a7c9182a26fa493d3bcab939e3dcbb572a55522e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "533c7791f6bc075e9492aee3a7c9182a26fa493d3bcab939e3dcbb572a55522e"
+      },
+      "17": {
+        "source_ref": "Ezekiel 5:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 17,
+            "source_ref": "Ezekiel 5:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f3ef60473dd90e1120e15620468da0ec32e56f9e3b7b03447ff6753501c17966"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3ef60473dd90e1120e15620468da0ec32e56f9e3b7b03447ff6753501c17966"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_05.md",
+    "blob_sha": "b09a58602770076f7cf7604bd92378b3a9170701"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

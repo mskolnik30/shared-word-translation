@@ -1,0 +1,777 @@
+{
+  "book": "Ezekiel",
+  "chapter": 40,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "40:1-48:35",
+      "decision": "Keep measured temple, worship, land, water, boundaries, equitable inheritance, and the closing divine presence together.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 40:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 1,
+            "source_ref": "Ezekiel 40:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f909152357517d80fdb246bae0ff740f04953f1af344a80b95fb0fa9033eb7ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f909152357517d80fdb246bae0ff740f04953f1af344a80b95fb0fa9033eb7ea"
+      },
+      "2": {
+        "source_ref": "Ezekiel 40:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 2,
+            "source_ref": "Ezekiel 40:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e984901aea01044f4905f524d36f2bd4dacccd4f5f4f19ba8932b238563730e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e984901aea01044f4905f524d36f2bd4dacccd4f5f4f19ba8932b238563730e8"
+      },
+      "3": {
+        "source_ref": "Ezekiel 40:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 3,
+            "source_ref": "Ezekiel 40:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eeca583a15ab85a3e5bfd089cceb5a04b8b69fd07ec3388d7b5c7147eca60e6f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eeca583a15ab85a3e5bfd089cceb5a04b8b69fd07ec3388d7b5c7147eca60e6f"
+      },
+      "4": {
+        "source_ref": "Ezekiel 40:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 4,
+            "source_ref": "Ezekiel 40:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d22b35d00262d3686bd3b66d274ec17aa285f17e774bf9fd6f64d748c70a7fff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d22b35d00262d3686bd3b66d274ec17aa285f17e774bf9fd6f64d748c70a7fff"
+      },
+      "5": {
+        "source_ref": "Ezekiel 40:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 5,
+            "source_ref": "Ezekiel 40:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "db76d5b1e9d155e611dd81672bfbffcc9455c13a3561350b109d141a63e05b3c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db76d5b1e9d155e611dd81672bfbffcc9455c13a3561350b109d141a63e05b3c"
+      },
+      "6": {
+        "source_ref": "Ezekiel 40:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 6,
+            "source_ref": "Ezekiel 40:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0b8c7db7c022d4a28cbdbc7073ec4261b0032b5b2e101c9856172fabf1566f69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b8c7db7c022d4a28cbdbc7073ec4261b0032b5b2e101c9856172fabf1566f69"
+      },
+      "7": {
+        "source_ref": "Ezekiel 40:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 7,
+            "source_ref": "Ezekiel 40:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "787ef4f3c3eae143f5fbe1b92f8364a4521df5f5528c9f4690b1c4f970456341"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "787ef4f3c3eae143f5fbe1b92f8364a4521df5f5528c9f4690b1c4f970456341"
+      },
+      "8": {
+        "source_ref": "Ezekiel 40:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 8,
+            "source_ref": "Ezekiel 40:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "da6eef1007e499e1d9bdb91bbdb4aab6b040708f33c311264f1960078eefa2bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da6eef1007e499e1d9bdb91bbdb4aab6b040708f33c311264f1960078eefa2bd"
+      },
+      "9": {
+        "source_ref": "Ezekiel 40:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 9,
+            "source_ref": "Ezekiel 40:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36368fb6f88c22b6f79f981661d6b7877ea4d1c9014929862289fda87f66d20d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36368fb6f88c22b6f79f981661d6b7877ea4d1c9014929862289fda87f66d20d"
+      },
+      "10": {
+        "source_ref": "Ezekiel 40:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 10,
+            "source_ref": "Ezekiel 40:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "069cfec0bed26dff2964292177b2c1644755e531fbee869c963954cb3220d901"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "069cfec0bed26dff2964292177b2c1644755e531fbee869c963954cb3220d901"
+      },
+      "11": {
+        "source_ref": "Ezekiel 40:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 11,
+            "source_ref": "Ezekiel 40:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a9d2d816db3d132a9bb499056048a27a36c70a8c0aa4f767c29bc7e327f5bbcf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9d2d816db3d132a9bb499056048a27a36c70a8c0aa4f767c29bc7e327f5bbcf"
+      },
+      "12": {
+        "source_ref": "Ezekiel 40:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 12,
+            "source_ref": "Ezekiel 40:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3f76a023c7548c325fafde0ae729201a5ef2c7c8d6a9d3c18fa87ebeb77e4104"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f76a023c7548c325fafde0ae729201a5ef2c7c8d6a9d3c18fa87ebeb77e4104"
+      },
+      "13": {
+        "source_ref": "Ezekiel 40:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 13,
+            "source_ref": "Ezekiel 40:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73742af561a36757520ab8a90c352d7519000521e166535552b3ff5811db662b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73742af561a36757520ab8a90c352d7519000521e166535552b3ff5811db662b"
+      },
+      "14": {
+        "source_ref": "Ezekiel 40:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 14,
+            "source_ref": "Ezekiel 40:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2ff88982878d149d66a4fb8568885e5d09dc64460b59217cabf4cc2029155e98"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ff88982878d149d66a4fb8568885e5d09dc64460b59217cabf4cc2029155e98"
+      },
+      "15": {
+        "source_ref": "Ezekiel 40:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 15,
+            "source_ref": "Ezekiel 40:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "be538d00397814274061e7a1ea438062a5a3660d8a02d32ca831af4db4884899"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be538d00397814274061e7a1ea438062a5a3660d8a02d32ca831af4db4884899"
+      },
+      "16": {
+        "source_ref": "Ezekiel 40:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 16,
+            "source_ref": "Ezekiel 40:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "38923ba0fbfb2dc380914f8880d8901be6309cbf3e4311691da412fc49a64c1d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "38923ba0fbfb2dc380914f8880d8901be6309cbf3e4311691da412fc49a64c1d"
+      },
+      "17": {
+        "source_ref": "Ezekiel 40:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 17,
+            "source_ref": "Ezekiel 40:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "045fe4b98de65b09042783eb3b8ea1cb5ddf8fb0fac2e6965d5642fe4c0430b9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "045fe4b98de65b09042783eb3b8ea1cb5ddf8fb0fac2e6965d5642fe4c0430b9"
+      },
+      "18": {
+        "source_ref": "Ezekiel 40:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 18,
+            "source_ref": "Ezekiel 40:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a09e3bbd1a0feb77a6975bdebb1dfaccae469091978bccf5f9163b8b1ab799dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a09e3bbd1a0feb77a6975bdebb1dfaccae469091978bccf5f9163b8b1ab799dc"
+      },
+      "19": {
+        "source_ref": "Ezekiel 40:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 19,
+            "source_ref": "Ezekiel 40:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "808ea37455748673d177b8807671d262494f876f4fe45da42819e908bca3c046"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "808ea37455748673d177b8807671d262494f876f4fe45da42819e908bca3c046"
+      },
+      "20": {
+        "source_ref": "Ezekiel 40:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 20,
+            "source_ref": "Ezekiel 40:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74685a3902a9f67cede0f4300931760f9cc699a19ff7c4ffa9bdaa6909542b94"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74685a3902a9f67cede0f4300931760f9cc699a19ff7c4ffa9bdaa6909542b94"
+      },
+      "21": {
+        "source_ref": "Ezekiel 40:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 21,
+            "source_ref": "Ezekiel 40:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dbc19c3930ea621ab6bd08a38a0303a92fa2dc58e8f410ca28ccb2605a771465"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dbc19c3930ea621ab6bd08a38a0303a92fa2dc58e8f410ca28ccb2605a771465"
+      },
+      "22": {
+        "source_ref": "Ezekiel 40:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 22,
+            "source_ref": "Ezekiel 40:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "30c818336181abf68f4e59d22502e2dc2260700863595fcd6a5bdad0660c68b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30c818336181abf68f4e59d22502e2dc2260700863595fcd6a5bdad0660c68b4"
+      },
+      "23": {
+        "source_ref": "Ezekiel 40:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 23,
+            "source_ref": "Ezekiel 40:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "50b08677ba9dd2b9f03e7a6538d82d6abe6db44d7254556426e76550ad9539fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50b08677ba9dd2b9f03e7a6538d82d6abe6db44d7254556426e76550ad9539fc"
+      },
+      "24": {
+        "source_ref": "Ezekiel 40:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 24,
+            "source_ref": "Ezekiel 40:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd18d2fe60cdd2e725ef5cdafe447aeeb1359f0d20fad83c61a6e8862a47ee9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd18d2fe60cdd2e725ef5cdafe447aeeb1359f0d20fad83c61a6e8862a47ee9c"
+      },
+      "25": {
+        "source_ref": "Ezekiel 40:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 25,
+            "source_ref": "Ezekiel 40:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3935e4d3887cab7d236e63e4b2ea10ffb5c3226ce3c1f4b652b534cc09123da1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3935e4d3887cab7d236e63e4b2ea10ffb5c3226ce3c1f4b652b534cc09123da1"
+      },
+      "26": {
+        "source_ref": "Ezekiel 40:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 26,
+            "source_ref": "Ezekiel 40:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "927f64fa832b4e2ce5adfdf75042abeaff6276af8157914acf6f96eb6236493a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "927f64fa832b4e2ce5adfdf75042abeaff6276af8157914acf6f96eb6236493a"
+      },
+      "27": {
+        "source_ref": "Ezekiel 40:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 27,
+            "source_ref": "Ezekiel 40:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cd6d4d8b9a19032bb6c98d1955b15f83684ef33a226cf4938e0ec1ab34239af9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd6d4d8b9a19032bb6c98d1955b15f83684ef33a226cf4938e0ec1ab34239af9"
+      },
+      "28": {
+        "source_ref": "Ezekiel 40:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 28,
+            "source_ref": "Ezekiel 40:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "43095977ef73266fc4e4c8c47f76eea3cd884c530f572c6b47e4d6c66a2e18df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43095977ef73266fc4e4c8c47f76eea3cd884c530f572c6b47e4d6c66a2e18df"
+      },
+      "29": {
+        "source_ref": "Ezekiel 40:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 29,
+            "source_ref": "Ezekiel 40:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4350641c4e1a94ff992d7c34dfe395036a6d8947048a46865d8b14682b1626a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4350641c4e1a94ff992d7c34dfe395036a6d8947048a46865d8b14682b1626a6"
+      },
+      "30": {
+        "source_ref": "Ezekiel 40:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 30,
+            "source_ref": "Ezekiel 40:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c4ac2a4172207fd8ee68cbc5272718947a7149a053c09a3ad02e5db0a82d0dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c4ac2a4172207fd8ee68cbc5272718947a7149a053c09a3ad02e5db0a82d0dd"
+      },
+      "31": {
+        "source_ref": "Ezekiel 40:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 31,
+            "source_ref": "Ezekiel 40:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "69a5f6fc15edb32c575b9ece3572d584c769aacfc63fd547e9f6fb0e28e393d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69a5f6fc15edb32c575b9ece3572d584c769aacfc63fd547e9f6fb0e28e393d9"
+      },
+      "32": {
+        "source_ref": "Ezekiel 40:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 32,
+            "source_ref": "Ezekiel 40:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "24abbf2505897398c1adef3a651c8cb18bfaf23a4ebad783a5895fa171d4e2a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "24abbf2505897398c1adef3a651c8cb18bfaf23a4ebad783a5895fa171d4e2a2"
+      },
+      "33": {
+        "source_ref": "Ezekiel 40:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 33,
+            "source_ref": "Ezekiel 40:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7ef0152ae54ff35c2147f9b72261baeed7c2c4a574ce32b65dcb549251b5334b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ef0152ae54ff35c2147f9b72261baeed7c2c4a574ce32b65dcb549251b5334b"
+      },
+      "34": {
+        "source_ref": "Ezekiel 40:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 34,
+            "source_ref": "Ezekiel 40:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3c45c70f5bfb94725f9d193b587601c43d47342e2e7f5647d352aca3744ba51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3c45c70f5bfb94725f9d193b587601c43d47342e2e7f5647d352aca3744ba51"
+      },
+      "35": {
+        "source_ref": "Ezekiel 40:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 35,
+            "source_ref": "Ezekiel 40:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5fd0832c0028c2a3c74dede8efbe9aa5c4cc9b5291c6a63557bff56c5e598d08"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5fd0832c0028c2a3c74dede8efbe9aa5c4cc9b5291c6a63557bff56c5e598d08"
+      },
+      "36": {
+        "source_ref": "Ezekiel 40:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 36,
+            "source_ref": "Ezekiel 40:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b148483640615ed371b82d584f8490622f909d90f0ecb8a39cce4f37fde349d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b148483640615ed371b82d584f8490622f909d90f0ecb8a39cce4f37fde349d2"
+      },
+      "37": {
+        "source_ref": "Ezekiel 40:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 37,
+            "source_ref": "Ezekiel 40:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "46fdcb97710d2eecf36b0ff8e69a5057953f774542543a5eca73425a17703ac3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46fdcb97710d2eecf36b0ff8e69a5057953f774542543a5eca73425a17703ac3"
+      },
+      "38": {
+        "source_ref": "Ezekiel 40:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 38,
+            "source_ref": "Ezekiel 40:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6068172d6e51701b62cae5e2a93919991bd2e56cea90568b3370c1340a399787"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6068172d6e51701b62cae5e2a93919991bd2e56cea90568b3370c1340a399787"
+      },
+      "39": {
+        "source_ref": "Ezekiel 40:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 39,
+            "source_ref": "Ezekiel 40:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a5db5787078f8885c8b79f22dc48ee2b27c854b56f8095e9d480d216d9c49d9e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5db5787078f8885c8b79f22dc48ee2b27c854b56f8095e9d480d216d9c49d9e"
+      },
+      "40": {
+        "source_ref": "Ezekiel 40:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 40,
+            "source_ref": "Ezekiel 40:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d16e7f53b12ec663e87d88ffb8e128cbcf3fb6700cefbe42e4629d85e815c4a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d16e7f53b12ec663e87d88ffb8e128cbcf3fb6700cefbe42e4629d85e815c4a4"
+      },
+      "41": {
+        "source_ref": "Ezekiel 40:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 41,
+            "source_ref": "Ezekiel 40:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "894efc66d4b2da01c2b2c98239321d109460049d041006ec701fe3df772520d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "894efc66d4b2da01c2b2c98239321d109460049d041006ec701fe3df772520d0"
+      },
+      "42": {
+        "source_ref": "Ezekiel 40:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 42,
+            "source_ref": "Ezekiel 40:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dc5a4bf22c6d56771e15e38ee8a9743f79ad984eddd3ee2c06ad790e9331f412"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc5a4bf22c6d56771e15e38ee8a9743f79ad984eddd3ee2c06ad790e9331f412"
+      },
+      "43": {
+        "source_ref": "Ezekiel 40:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 43,
+            "source_ref": "Ezekiel 40:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d16455da85c01200e772230a3afefaee56163b13aaff89c2a5b87303071e6296"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d16455da85c01200e772230a3afefaee56163b13aaff89c2a5b87303071e6296"
+      },
+      "44": {
+        "source_ref": "Ezekiel 40:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 44,
+            "source_ref": "Ezekiel 40:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d5775d0e1658c62ee3e3266548dc3377521f357043aece204c212bbd45dea60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d5775d0e1658c62ee3e3266548dc3377521f357043aece204c212bbd45dea60"
+      },
+      "45": {
+        "source_ref": "Ezekiel 40:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 45,
+            "source_ref": "Ezekiel 40:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "333afcdfb70ec4900083e49cc66ca391477889cc08d50f5328fc614ac63827c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "333afcdfb70ec4900083e49cc66ca391477889cc08d50f5328fc614ac63827c8"
+      },
+      "46": {
+        "source_ref": "Ezekiel 40:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 46,
+            "source_ref": "Ezekiel 40:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bed93164afcb9eed389e56d7b96f89349e4affbdb64df97ea4d312eb5a29ed29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bed93164afcb9eed389e56d7b96f89349e4affbdb64df97ea4d312eb5a29ed29"
+      },
+      "47": {
+        "source_ref": "Ezekiel 40:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 47,
+            "source_ref": "Ezekiel 40:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "53ec7a5eabcf9527293e89d7155b858ce3cf6c5307148aca2b38a5a6674c3b29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "53ec7a5eabcf9527293e89d7155b858ce3cf6c5307148aca2b38a5a6674c3b29"
+      },
+      "48": {
+        "source_ref": "Ezekiel 40:48 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 48,
+            "source_ref": "Ezekiel 40:48 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6658f31b0ba42816626a7625c69470f447fb2ca87fd8eb6f8f27dced1fce493e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6658f31b0ba42816626a7625c69470f447fb2ca87fd8eb6f8f27dced1fce493e"
+      },
+      "49": {
+        "source_ref": "Ezekiel 40:49 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 49,
+            "source_ref": "Ezekiel 40:49 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4a45b4748f9434b47ea7302fc8f4cb2f40c1e79ecf4ea4f7720bfdf87bc65406"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a45b4748f9434b47ea7302fc8f4cb2f40c1e79ecf4ea4f7720bfdf87bc65406"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_40.md",
+    "blob_sha": "4ef327cb7311f663a9f19f8f588c6b63f0012cc2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
