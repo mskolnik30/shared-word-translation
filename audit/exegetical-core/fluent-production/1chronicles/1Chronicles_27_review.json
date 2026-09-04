@@ -1,0 +1,546 @@
+{
+  "book": "1 Chronicles",
+  "chapter": 27,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Chr.xml",
+    "git_blob_sha": "716bdee832d90d480eee6ef0518f29e982af100e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Chr.xml",
+    "git_blob_sha": "716bdee832d90d480eee6ef0518f29e982af100e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Chronicles 27:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 1,
+            "source_ref": "1 Chronicles 27:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f2ae6682f1b713a23a9d87820e1807563c1c6436a26db79fc842895ed0bcaf25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2ae6682f1b713a23a9d87820e1807563c1c6436a26db79fc842895ed0bcaf25"
+      },
+      "2": {
+        "source_ref": "1 Chronicles 27:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 2,
+            "source_ref": "1 Chronicles 27:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d9b07bf1980fa8970a8f99dbf38bf11e1dbb7bc6b421c2fcb351f7f4ffcb2bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d9b07bf1980fa8970a8f99dbf38bf11e1dbb7bc6b421c2fcb351f7f4ffcb2bd"
+      },
+      "3": {
+        "source_ref": "1 Chronicles 27:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 3,
+            "source_ref": "1 Chronicles 27:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36326ae5bb90206310d1b6687ee0c9ac72323e3006f0ca5a8cd89ad5cab23c76"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36326ae5bb90206310d1b6687ee0c9ac72323e3006f0ca5a8cd89ad5cab23c76"
+      },
+      "4": {
+        "source_ref": "1 Chronicles 27:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 4,
+            "source_ref": "1 Chronicles 27:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2f4b78d739f23fb073202b1e5240b3c29963edf938de7aa2c5d7daf4d23d366d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f4b78d739f23fb073202b1e5240b3c29963edf938de7aa2c5d7daf4d23d366d"
+      },
+      "5": {
+        "source_ref": "1 Chronicles 27:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 5,
+            "source_ref": "1 Chronicles 27:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d8f191daf46b188b666b1c097e0c55d1e2d4eaa3f9c5f608c7053e9bdfa2f25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d8f191daf46b188b666b1c097e0c55d1e2d4eaa3f9c5f608c7053e9bdfa2f25"
+      },
+      "6": {
+        "source_ref": "1 Chronicles 27:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 6,
+            "source_ref": "1 Chronicles 27:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "639bc6d44c8ee67391a58bd2b0f2c41201197fc6a7397216bd9d72971a5c8b0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "639bc6d44c8ee67391a58bd2b0f2c41201197fc6a7397216bd9d72971a5c8b0d"
+      },
+      "7": {
+        "source_ref": "1 Chronicles 27:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 7,
+            "source_ref": "1 Chronicles 27:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "67e073cc790049d06bcedf8b02d19d74cb177ea827b61d738e9cbe9bdaf5ac90"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67e073cc790049d06bcedf8b02d19d74cb177ea827b61d738e9cbe9bdaf5ac90"
+      },
+      "8": {
+        "source_ref": "1 Chronicles 27:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 8,
+            "source_ref": "1 Chronicles 27:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec4f13ed0bbafd8fa7bc0ee7550a7d6f2d69a7b104aa32c3e9230bf5f2760255"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec4f13ed0bbafd8fa7bc0ee7550a7d6f2d69a7b104aa32c3e9230bf5f2760255"
+      },
+      "9": {
+        "source_ref": "1 Chronicles 27:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 9,
+            "source_ref": "1 Chronicles 27:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a2802ba254002a65a35016ea3135cd49ae180aeaa9895e0f9d915888ef6c1039"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a2802ba254002a65a35016ea3135cd49ae180aeaa9895e0f9d915888ef6c1039"
+      },
+      "10": {
+        "source_ref": "1 Chronicles 27:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 10,
+            "source_ref": "1 Chronicles 27:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "744ad4a51d8da6ade629be1dcc114aa285b0f138bbe2b22642d24c25947fd855"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "744ad4a51d8da6ade629be1dcc114aa285b0f138bbe2b22642d24c25947fd855"
+      },
+      "11": {
+        "source_ref": "1 Chronicles 27:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 11,
+            "source_ref": "1 Chronicles 27:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b4eae5ba23cd5a1cbd7ff74a3dbe0eeb94493ad7ddf0df85372d41162dcf1380"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4eae5ba23cd5a1cbd7ff74a3dbe0eeb94493ad7ddf0df85372d41162dcf1380"
+      },
+      "12": {
+        "source_ref": "1 Chronicles 27:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 12,
+            "source_ref": "1 Chronicles 27:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "06f95cefde72613a9e93c1714da0ba2d2af3b92a99638876aa6e0115593dde72"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06f95cefde72613a9e93c1714da0ba2d2af3b92a99638876aa6e0115593dde72"
+      },
+      "13": {
+        "source_ref": "1 Chronicles 27:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 13,
+            "source_ref": "1 Chronicles 27:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ad50e3d024903bdd4470bc36737f4f8fcfd65cc028c8a70c39784da8b2521488"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ad50e3d024903bdd4470bc36737f4f8fcfd65cc028c8a70c39784da8b2521488"
+      },
+      "14": {
+        "source_ref": "1 Chronicles 27:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 14,
+            "source_ref": "1 Chronicles 27:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d878dd1a96ee502350b3556f64e81fd24788ff2e8061ee2eb4f731341a9b960c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d878dd1a96ee502350b3556f64e81fd24788ff2e8061ee2eb4f731341a9b960c"
+      },
+      "15": {
+        "source_ref": "1 Chronicles 27:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 15,
+            "source_ref": "1 Chronicles 27:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79eee7e3cbdc3285a63c98ff3ed03634a19174dd84b44275d20a3af610427ac1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79eee7e3cbdc3285a63c98ff3ed03634a19174dd84b44275d20a3af610427ac1"
+      },
+      "16": {
+        "source_ref": "1 Chronicles 27:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 16,
+            "source_ref": "1 Chronicles 27:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "15be27abf61cca808c1e05134ad50c72c8ec983659dc4fcac8bdcde64ad704ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "15be27abf61cca808c1e05134ad50c72c8ec983659dc4fcac8bdcde64ad704ca"
+      },
+      "17": {
+        "source_ref": "1 Chronicles 27:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 17,
+            "source_ref": "1 Chronicles 27:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62e4fef18eec927caf72a8f86da82c959dad872af506c0ae8070c787918beae2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62e4fef18eec927caf72a8f86da82c959dad872af506c0ae8070c787918beae2"
+      },
+      "18": {
+        "source_ref": "1 Chronicles 27:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 18,
+            "source_ref": "1 Chronicles 27:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3ca600069786c38ffceef11f4b673f6a9bd7b0943a3175492ed6a68dcd92fcf0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ca600069786c38ffceef11f4b673f6a9bd7b0943a3175492ed6a68dcd92fcf0"
+      },
+      "19": {
+        "source_ref": "1 Chronicles 27:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 19,
+            "source_ref": "1 Chronicles 27:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5d2d987b5b13b377f0bf1ccfc2fbdb57457698891bfb36d88313a813f188e23d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5d2d987b5b13b377f0bf1ccfc2fbdb57457698891bfb36d88313a813f188e23d"
+      },
+      "20": {
+        "source_ref": "1 Chronicles 27:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 20,
+            "source_ref": "1 Chronicles 27:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e5bfb4f6c14214acb8eafb3dcd5682d39c2a749409795fd5158c73df7acedb00"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5bfb4f6c14214acb8eafb3dcd5682d39c2a749409795fd5158c73df7acedb00"
+      },
+      "21": {
+        "source_ref": "1 Chronicles 27:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 21,
+            "source_ref": "1 Chronicles 27:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2da1c0d3e30398c01338ba0d6a915cb6e38a86124411b9d418b1e3f2042531be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2da1c0d3e30398c01338ba0d6a915cb6e38a86124411b9d418b1e3f2042531be"
+      },
+      "22": {
+        "source_ref": "1 Chronicles 27:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 22,
+            "source_ref": "1 Chronicles 27:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6c30c06d887774e9ca42facf72d032c2c598089bdcd6e0c7e34eb3107a9e83f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6c30c06d887774e9ca42facf72d032c2c598089bdcd6e0c7e34eb3107a9e83f"
+      },
+      "23": {
+        "source_ref": "1 Chronicles 27:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 23,
+            "source_ref": "1 Chronicles 27:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7d4e44eb02106f6e1cff008b74fbd6db69f523e42f7fbd0d58e2f3448aa28dd6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d4e44eb02106f6e1cff008b74fbd6db69f523e42f7fbd0d58e2f3448aa28dd6"
+      },
+      "24": {
+        "source_ref": "1 Chronicles 27:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 24,
+            "source_ref": "1 Chronicles 27:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d5d337db46f66438750665b03be46ec9b58de69b89688d1eec58e20c6374ca8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d5d337db46f66438750665b03be46ec9b58de69b89688d1eec58e20c6374ca8"
+      },
+      "25": {
+        "source_ref": "1 Chronicles 27:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 25,
+            "source_ref": "1 Chronicles 27:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c5c8c5dd1cfa2e2f5fc49c3635e18f84bbe028da61083d0d2142a77900c2866"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c5c8c5dd1cfa2e2f5fc49c3635e18f84bbe028da61083d0d2142a77900c2866"
+      },
+      "26": {
+        "source_ref": "1 Chronicles 27:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 26,
+            "source_ref": "1 Chronicles 27:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b25f30ad6280d20ddef0718f1758939c0c2d81863144829b9bd0a35122d6a2e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b25f30ad6280d20ddef0718f1758939c0c2d81863144829b9bd0a35122d6a2e6"
+      },
+      "27": {
+        "source_ref": "1 Chronicles 27:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 27,
+            "source_ref": "1 Chronicles 27:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8bdc3e8da70dacd8f23ec15393f82b108ee358215437764813ce4af3ebb47635"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8bdc3e8da70dacd8f23ec15393f82b108ee358215437764813ce4af3ebb47635"
+      },
+      "28": {
+        "source_ref": "1 Chronicles 27:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 28,
+            "source_ref": "1 Chronicles 27:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d060ed044be0096d08f0c3771dba345caf146fb4751d8d2d9bde79786be42e4c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d060ed044be0096d08f0c3771dba345caf146fb4751d8d2d9bde79786be42e4c"
+      },
+      "29": {
+        "source_ref": "1 Chronicles 27:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 29,
+            "source_ref": "1 Chronicles 27:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "106f1c04961c065aa178d9651b5d3d8835df95a5b3cc06212d18aafeb2485a12"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "106f1c04961c065aa178d9651b5d3d8835df95a5b3cc06212d18aafeb2485a12"
+      },
+      "30": {
+        "source_ref": "1 Chronicles 27:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 30,
+            "source_ref": "1 Chronicles 27:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9fd13ffbd2939e88afe35ae872a1a995ed829343f3cd76eea0fd23fbb7c952d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9fd13ffbd2939e88afe35ae872a1a995ed829343f3cd76eea0fd23fbb7c952d4"
+      },
+      "31": {
+        "source_ref": "1 Chronicles 27:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 31,
+            "source_ref": "1 Chronicles 27:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e76937ffb958564b0e8b196c64159e2feebbce9d328b91299d0fbc18857b1aaf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e76937ffb958564b0e8b196c64159e2feebbce9d328b91299d0fbc18857b1aaf"
+      },
+      "32": {
+        "source_ref": "1 Chronicles 27:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 32,
+            "source_ref": "1 Chronicles 27:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ba45c87a6af257bea0702ca05d4a36ef1bd64823e2efb8a4c4802ea70817ea34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba45c87a6af257bea0702ca05d4a36ef1bd64823e2efb8a4c4802ea70817ea34"
+      },
+      "33": {
+        "source_ref": "1 Chronicles 27:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 33,
+            "source_ref": "1 Chronicles 27:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cfd2f7b0fe0551b65d3a2c18b7d31291ad9ba7c00892686f2743fbccdb6deb71"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cfd2f7b0fe0551b65d3a2c18b7d31291ad9ba7c00892686f2743fbccdb6deb71"
+      },
+      "34": {
+        "source_ref": "1 Chronicles 27:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 34,
+            "source_ref": "1 Chronicles 27:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "78c6d87aa81b1393b5ef7648dcaf7b7603993721ab2c9339ef037da01188463a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "78c6d87aa81b1393b5ef7648dcaf7b7603993721ab2c9339ef037da01188463a"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1chronicles/1Chronicles_27.md",
+    "blob_sha": "592e21c194ec6c2fddadcd3fe8941d89c68c80c7"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
