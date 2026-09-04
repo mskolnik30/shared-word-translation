@@ -1,0 +1,327 @@
+{
+  "book": "Nahum",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Nah.xml",
+    "git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "3:1-19",
+      "decision": "Retain the brutal and sexualized humiliation imagery, name its ancient war-rhetoric setting in notes, and do not aim it at women or modern peoples.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Nah.xml",
+    "git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Nahum 3:1",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 1,
+            "source_ref": "Nahum 3:1",
+            "segment_mode": "whole",
+            "sha256": "d19bab9f7ca300903476dd736889a6258f4cfd3b2d9fed23fd4f3f826580c722"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d19bab9f7ca300903476dd736889a6258f4cfd3b2d9fed23fd4f3f826580c722"
+      },
+      "2": {
+        "source_ref": "Nahum 3:2",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 2,
+            "source_ref": "Nahum 3:2",
+            "segment_mode": "whole",
+            "sha256": "2801dab8fb679e470edeb6996c995012950de6b0cc0b55126252dde54354262c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2801dab8fb679e470edeb6996c995012950de6b0cc0b55126252dde54354262c"
+      },
+      "3": {
+        "source_ref": "Nahum 3:3",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 3,
+            "source_ref": "Nahum 3:3",
+            "segment_mode": "whole",
+            "sha256": "47da816dbc691271af59ac4d59a77d475f76b95d0388c344d7d1151e7595bb78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "47da816dbc691271af59ac4d59a77d475f76b95d0388c344d7d1151e7595bb78"
+      },
+      "4": {
+        "source_ref": "Nahum 3:4",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 4,
+            "source_ref": "Nahum 3:4",
+            "segment_mode": "whole",
+            "sha256": "0d4cc4427c5293113d9bcae2ccc67248089864edfde7dbfb941093b62f009716"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d4cc4427c5293113d9bcae2ccc67248089864edfde7dbfb941093b62f009716"
+      },
+      "5": {
+        "source_ref": "Nahum 3:5",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 5,
+            "source_ref": "Nahum 3:5",
+            "segment_mode": "whole",
+            "sha256": "2a5bc9a86c82e0536e6c8fcacfa76b768af41bb2a0e6939dab54d74f1ea36a3e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2a5bc9a86c82e0536e6c8fcacfa76b768af41bb2a0e6939dab54d74f1ea36a3e"
+      },
+      "6": {
+        "source_ref": "Nahum 3:6",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 6,
+            "source_ref": "Nahum 3:6",
+            "segment_mode": "whole",
+            "sha256": "b17483b65fec66e1ba8bbcfe4c44284d698a1450867182c3510a54d4c4e31d16"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b17483b65fec66e1ba8bbcfe4c44284d698a1450867182c3510a54d4c4e31d16"
+      },
+      "7": {
+        "source_ref": "Nahum 3:7",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 7,
+            "source_ref": "Nahum 3:7",
+            "segment_mode": "whole",
+            "sha256": "e6049302b72aead23b65cc395eb3dfc60b5546098096d0e6a3deebb6d5d8e5ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e6049302b72aead23b65cc395eb3dfc60b5546098096d0e6a3deebb6d5d8e5ec"
+      },
+      "8": {
+        "source_ref": "Nahum 3:8",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 8,
+            "source_ref": "Nahum 3:8",
+            "segment_mode": "whole",
+            "sha256": "07f9bd811f64735b0ad227f0912a376b1fec25526089475c0cfcf4cc28c38832"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07f9bd811f64735b0ad227f0912a376b1fec25526089475c0cfcf4cc28c38832"
+      },
+      "9": {
+        "source_ref": "Nahum 3:9",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 9,
+            "source_ref": "Nahum 3:9",
+            "segment_mode": "whole",
+            "sha256": "884f2665860339d53fe6cca3dae2ee14f76324c1b52b79d4d9a7af962d7a51e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "884f2665860339d53fe6cca3dae2ee14f76324c1b52b79d4d9a7af962d7a51e3"
+      },
+      "10": {
+        "source_ref": "Nahum 3:10",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 10,
+            "source_ref": "Nahum 3:10",
+            "segment_mode": "whole",
+            "sha256": "ccf4646e184ab74f6beceda7281f620303999c554072012f73259274ef0bda9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ccf4646e184ab74f6beceda7281f620303999c554072012f73259274ef0bda9c"
+      },
+      "11": {
+        "source_ref": "Nahum 3:11",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 11,
+            "source_ref": "Nahum 3:11",
+            "segment_mode": "whole",
+            "sha256": "99f1a4ea02d3a4004d754cc6e8885dc1f754747894fd2cd95faa1ae15fd342da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "99f1a4ea02d3a4004d754cc6e8885dc1f754747894fd2cd95faa1ae15fd342da"
+      },
+      "12": {
+        "source_ref": "Nahum 3:12",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 12,
+            "source_ref": "Nahum 3:12",
+            "segment_mode": "whole",
+            "sha256": "144dcc6a80318a49b68eae9c820ea04deac5c1e8ef01a74813f5bd328b95f9c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "144dcc6a80318a49b68eae9c820ea04deac5c1e8ef01a74813f5bd328b95f9c8"
+      },
+      "13": {
+        "source_ref": "Nahum 3:13",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 13,
+            "source_ref": "Nahum 3:13",
+            "segment_mode": "whole",
+            "sha256": "2110f173083b9a2581a43ad8f2cf16ba00d26a4dfaa1cfa465ae719c757a9c06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2110f173083b9a2581a43ad8f2cf16ba00d26a4dfaa1cfa465ae719c757a9c06"
+      },
+      "14": {
+        "source_ref": "Nahum 3:14",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 14,
+            "source_ref": "Nahum 3:14",
+            "segment_mode": "whole",
+            "sha256": "8e3614c9328595e271abdc001f4c1d710f9f455bd0b4b025cfbb097d6b4e1664"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e3614c9328595e271abdc001f4c1d710f9f455bd0b4b025cfbb097d6b4e1664"
+      },
+      "15": {
+        "source_ref": "Nahum 3:15",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 15,
+            "source_ref": "Nahum 3:15",
+            "segment_mode": "whole",
+            "sha256": "dc3e9d4b9b13a27527fc9c79798fefa5349609520d9be67ce89fb3e7c716821e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc3e9d4b9b13a27527fc9c79798fefa5349609520d9be67ce89fb3e7c716821e"
+      },
+      "16": {
+        "source_ref": "Nahum 3:16",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 16,
+            "source_ref": "Nahum 3:16",
+            "segment_mode": "whole",
+            "sha256": "952b2cb36dde31edfdb77731708f3c5691d2478566d534af91d875ba077c4283"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "952b2cb36dde31edfdb77731708f3c5691d2478566d534af91d875ba077c4283"
+      },
+      "17": {
+        "source_ref": "Nahum 3:17",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 17,
+            "source_ref": "Nahum 3:17",
+            "segment_mode": "whole",
+            "sha256": "07c559d1bdf6c582712a6938989fb8a51deabe781536045c6a54119ea3cf052e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07c559d1bdf6c582712a6938989fb8a51deabe781536045c6a54119ea3cf052e"
+      },
+      "18": {
+        "source_ref": "Nahum 3:18",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 18,
+            "source_ref": "Nahum 3:18",
+            "segment_mode": "whole",
+            "sha256": "a854577a9fb2607b203e6a384705d5021dc47846c0b02d224e4e18daa3b7a13f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a854577a9fb2607b203e6a384705d5021dc47846c0b02d224e4e18daa3b7a13f"
+      },
+      "19": {
+        "source_ref": "Nahum 3:19",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 19,
+            "source_ref": "Nahum 3:19",
+            "segment_mode": "whole",
+            "sha256": "1cc2a4e615be9b1081791d9a7eb4a0c9475975ffab1467f67fbcdb1a47f01f8f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1cc2a4e615be9b1081791d9a7eb4a0c9475975ffab1467f67fbcdb1a47f01f8f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/nahum/Nahum_03.md",
+    "blob_sha": "94fe7a1c5300c41c5ccead6cfbf5ca23003c7aa1"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

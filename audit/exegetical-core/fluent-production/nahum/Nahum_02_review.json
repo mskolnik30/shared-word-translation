@@ -1,0 +1,237 @@
+{
+  "book": "Nahum",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Nah.xml",
+    "git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "2:1-13",
+      "decision": "Translate Nineveh's collapse as poetic anti-imperial taunt without celebrating violence as an ordinary human good.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Nah.xml",
+    "git_blob_sha": "dc0341e8b053449e92daae8197cd28240fd57d00",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Nahum 2:2 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Nahum 2:2 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "34925f4cf106847b5833715e982ae9552569c94440a6967714fba81171dcbe21"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34925f4cf106847b5833715e982ae9552569c94440a6967714fba81171dcbe21"
+      },
+      "2": {
+        "source_ref": "Nahum 2:3 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Nahum 2:3 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "213f1952dfb77c698aedc96c728e273e8c9a50f8f153f73f7828866cfbaa4659"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "213f1952dfb77c698aedc96c728e273e8c9a50f8f153f73f7828866cfbaa4659"
+      },
+      "3": {
+        "source_ref": "Nahum 2:4 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Nahum 2:4 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "b045925e701d32dc62f0d970edad41a5d7dc679d3f6ecb2f8a4cb0998e28f6da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b045925e701d32dc62f0d970edad41a5d7dc679d3f6ecb2f8a4cb0998e28f6da"
+      },
+      "4": {
+        "source_ref": "Nahum 2:5 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "Nahum 2:5 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "834ab4f4f600b61270f19be3b3aa5979c324797432b73e0b45514ae292f24cbc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "834ab4f4f600b61270f19be3b3aa5979c324797432b73e0b45514ae292f24cbc"
+      },
+      "5": {
+        "source_ref": "Nahum 2:6 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "Nahum 2:6 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "1b67cbe17e30f3de29869cb08306985a25d01910a5ad9cca771db7461ef1ef92"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b67cbe17e30f3de29869cb08306985a25d01910a5ad9cca771db7461ef1ef92"
+      },
+      "6": {
+        "source_ref": "Nahum 2:7 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "Nahum 2:7 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "c074a26e7325a77d006e5520b271d15701b051c38cd4a381bc63d3bb0b37a255"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c074a26e7325a77d006e5520b271d15701b051c38cd4a381bc63d3bb0b37a255"
+      },
+      "7": {
+        "source_ref": "Nahum 2:8 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "Nahum 2:8 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "b856ec51e1646cc4fe6238d98f91c06d7a4bca1cbd2782de4879506f8a7ad591"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b856ec51e1646cc4fe6238d98f91c06d7a4bca1cbd2782de4879506f8a7ad591"
+      },
+      "8": {
+        "source_ref": "Nahum 2:9 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "Nahum 2:9 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "70bcb9c27e272ca5a09224d83ccae2f8d3ff72d7c5ba38d58d0e45d4732e7e16"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70bcb9c27e272ca5a09224d83ccae2f8d3ff72d7c5ba38d58d0e45d4732e7e16"
+      },
+      "9": {
+        "source_ref": "Nahum 2:10 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "Nahum 2:10 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "b186450df7a97982458ce2a1c237a009d29bce4b9566f5bc26f2918394fb3741"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b186450df7a97982458ce2a1c237a009d29bce4b9566f5bc26f2918394fb3741"
+      },
+      "10": {
+        "source_ref": "Nahum 2:11 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "Nahum 2:11 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "d63fc2c3b1d0389ff1d6ba52296c0c45046a67ad879ec449d6b6fbec1bc698a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d63fc2c3b1d0389ff1d6ba52296c0c45046a67ad879ec449d6b6fbec1bc698a4"
+      },
+      "11": {
+        "source_ref": "Nahum 2:12 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "Nahum 2:12 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "b34764670e34c3dd5c4d4c6cef9ed5ce8e08f5deb2ed26ab8f9db418793981fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b34764670e34c3dd5c4d4c6cef9ed5ce8e08f5deb2ed26ab8f9db418793981fd"
+      },
+      "12": {
+        "source_ref": "Nahum 2:13 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "Nahum 2:13 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "c8a7451c0cbf67273299cae460433405d55ea0520d9357e302857e74d715999e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c8a7451c0cbf67273299cae460433405d55ea0520d9357e302857e74d715999e"
+      },
+      "13": {
+        "source_ref": "Nahum 2:14 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "Nahum 2:14 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "7f5c058a4eda983e4cec36de451ed5ae5f94636e619b4205ac9168f4a4f751e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f5c058a4eda983e4cec36de451ed5ae5f94636e619b4205ac9168f4a4f751e3"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/nahum/Nahum_02.md",
+    "blob_sha": "4c997d3a5225e574620fdd56182d02ce3484a548"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
