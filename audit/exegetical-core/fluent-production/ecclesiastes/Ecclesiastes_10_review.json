@@ -1,0 +1,336 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 10,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ecclesiastes 10:1",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 1,
+            "source_ref": "Ecclesiastes 10:1",
+            "segment_mode": "whole",
+            "sha256": "bfe1270541727d064001f80fa438e2f40e70f9e46e4d3c2b44a7da13a086f339"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bfe1270541727d064001f80fa438e2f40e70f9e46e4d3c2b44a7da13a086f339"
+      },
+      "2": {
+        "source_ref": "Ecclesiastes 10:2",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 2,
+            "source_ref": "Ecclesiastes 10:2",
+            "segment_mode": "whole",
+            "sha256": "e9097f77d6b5d7cd3f093c7a2a318776155917f065b7dd59a56a7cbebcbaf24b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e9097f77d6b5d7cd3f093c7a2a318776155917f065b7dd59a56a7cbebcbaf24b"
+      },
+      "3": {
+        "source_ref": "Ecclesiastes 10:3",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 3,
+            "source_ref": "Ecclesiastes 10:3",
+            "segment_mode": "whole",
+            "sha256": "f6ac4fe8ab7385ecc1bea61877dea07d93c541277470134e61da04155a8db2d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f6ac4fe8ab7385ecc1bea61877dea07d93c541277470134e61da04155a8db2d3"
+      },
+      "4": {
+        "source_ref": "Ecclesiastes 10:4",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 4,
+            "source_ref": "Ecclesiastes 10:4",
+            "segment_mode": "whole",
+            "sha256": "4e3160735dbcfb9e2901f42a8b4c718ebc44d8feb3f8202d875379fa2bb4d36d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e3160735dbcfb9e2901f42a8b4c718ebc44d8feb3f8202d875379fa2bb4d36d"
+      },
+      "5": {
+        "source_ref": "Ecclesiastes 10:5",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 5,
+            "source_ref": "Ecclesiastes 10:5",
+            "segment_mode": "whole",
+            "sha256": "07b55813909b4eda858ad6f2d86b5bd27709246554df355cc9a55a104576a812"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07b55813909b4eda858ad6f2d86b5bd27709246554df355cc9a55a104576a812"
+      },
+      "6": {
+        "source_ref": "Ecclesiastes 10:6",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 6,
+            "source_ref": "Ecclesiastes 10:6",
+            "segment_mode": "whole",
+            "sha256": "d4e9215890fbb205e0fceb2f4602ea5905b8249914f5cae9460c000ae4f32679"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4e9215890fbb205e0fceb2f4602ea5905b8249914f5cae9460c000ae4f32679"
+      },
+      "7": {
+        "source_ref": "Ecclesiastes 10:7",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 7,
+            "source_ref": "Ecclesiastes 10:7",
+            "segment_mode": "whole",
+            "sha256": "34a08874f8668e1007127180b7b6eb7015db730eb814f4ec591e4cd2f8242e1d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34a08874f8668e1007127180b7b6eb7015db730eb814f4ec591e4cd2f8242e1d"
+      },
+      "8": {
+        "source_ref": "Ecclesiastes 10:8",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 8,
+            "source_ref": "Ecclesiastes 10:8",
+            "segment_mode": "whole",
+            "sha256": "dad21c7a728cae5ca5a830a31bf08781f7339f735cac6160919afd13ce376b0a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dad21c7a728cae5ca5a830a31bf08781f7339f735cac6160919afd13ce376b0a"
+      },
+      "9": {
+        "source_ref": "Ecclesiastes 10:9",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 9,
+            "source_ref": "Ecclesiastes 10:9",
+            "segment_mode": "whole",
+            "sha256": "ecec4861484ae0882e724361a25a0bb36fbcc8ab6472f32fa970d6384a8cc8d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ecec4861484ae0882e724361a25a0bb36fbcc8ab6472f32fa970d6384a8cc8d4"
+      },
+      "10": {
+        "source_ref": "Ecclesiastes 10:10",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 10,
+            "source_ref": "Ecclesiastes 10:10",
+            "segment_mode": "whole",
+            "sha256": "092346e4010787adfae232c6a44e20f657b0b11011091c868f7199f42b5b9bce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "092346e4010787adfae232c6a44e20f657b0b11011091c868f7199f42b5b9bce"
+      },
+      "11": {
+        "source_ref": "Ecclesiastes 10:11",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 11,
+            "source_ref": "Ecclesiastes 10:11",
+            "segment_mode": "whole",
+            "sha256": "b32c4a416cd92968a17017a3c2a6d176c8d7aea4f012b9458d9a8b0b5ff890e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b32c4a416cd92968a17017a3c2a6d176c8d7aea4f012b9458d9a8b0b5ff890e0"
+      },
+      "12": {
+        "source_ref": "Ecclesiastes 10:12",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 12,
+            "source_ref": "Ecclesiastes 10:12",
+            "segment_mode": "whole",
+            "sha256": "715d6efb8b1c67a6001473661d1413544a914f3acb8ab7c6d705563acdeff68e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "715d6efb8b1c67a6001473661d1413544a914f3acb8ab7c6d705563acdeff68e"
+      },
+      "13": {
+        "source_ref": "Ecclesiastes 10:13",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 13,
+            "source_ref": "Ecclesiastes 10:13",
+            "segment_mode": "whole",
+            "sha256": "57250ba5a4ca5aa35e9a18f130dc8ff1dca352dfd054127969d5787601c89621"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "57250ba5a4ca5aa35e9a18f130dc8ff1dca352dfd054127969d5787601c89621"
+      },
+      "14": {
+        "source_ref": "Ecclesiastes 10:14",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 14,
+            "source_ref": "Ecclesiastes 10:14",
+            "segment_mode": "whole",
+            "sha256": "84e86ef72e151fbb1ae565fd081a8c94e418694fc731001a1240c008c4ac5f46"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84e86ef72e151fbb1ae565fd081a8c94e418694fc731001a1240c008c4ac5f46"
+      },
+      "15": {
+        "source_ref": "Ecclesiastes 10:15",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 15,
+            "source_ref": "Ecclesiastes 10:15",
+            "segment_mode": "whole",
+            "sha256": "13e9e31b8214d2fc5c08f67076db3c4dd27796a7a0b5519ca54d6f348271d8bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "13e9e31b8214d2fc5c08f67076db3c4dd27796a7a0b5519ca54d6f348271d8bd"
+      },
+      "16": {
+        "source_ref": "Ecclesiastes 10:16",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 16,
+            "source_ref": "Ecclesiastes 10:16",
+            "segment_mode": "whole",
+            "sha256": "11d5feea5bff80c30d538ac2fb93680df5e622783e74fcf7d11db3d7b8ca9b65"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "11d5feea5bff80c30d538ac2fb93680df5e622783e74fcf7d11db3d7b8ca9b65"
+      },
+      "17": {
+        "source_ref": "Ecclesiastes 10:17",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 17,
+            "source_ref": "Ecclesiastes 10:17",
+            "segment_mode": "whole",
+            "sha256": "ffde860a195dbb15cc57401458f8bb9b173b15de918d1eb06b78f650a3048970"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ffde860a195dbb15cc57401458f8bb9b173b15de918d1eb06b78f650a3048970"
+      },
+      "18": {
+        "source_ref": "Ecclesiastes 10:18",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 18,
+            "source_ref": "Ecclesiastes 10:18",
+            "segment_mode": "whole",
+            "sha256": "26c9e09fd507ba121a37ba5a399784e373a6110744137fc34fa580781b7b4176"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26c9e09fd507ba121a37ba5a399784e373a6110744137fc34fa580781b7b4176"
+      },
+      "19": {
+        "source_ref": "Ecclesiastes 10:19",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 19,
+            "source_ref": "Ecclesiastes 10:19",
+            "segment_mode": "whole",
+            "sha256": "72c9f432d0cec6a6975f046897ecebcd3bf28491eea9b57e74f76fbd27b063ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72c9f432d0cec6a6975f046897ecebcd3bf28491eea9b57e74f76fbd27b063ad"
+      },
+      "20": {
+        "source_ref": "Ecclesiastes 10:20",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 20,
+            "source_ref": "Ecclesiastes 10:20",
+            "segment_mode": "whole",
+            "sha256": "9e09b40d6678c618a8c2f12aeec13fdac5d5fdb414f3551b7d5ff067ce24e019"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e09b40d6678c618a8c2f12aeec13fdac5d5fdb414f3551b7d5ff067ce24e019"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ecclesiastes/Ecclesiastes_10.md",
+    "blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

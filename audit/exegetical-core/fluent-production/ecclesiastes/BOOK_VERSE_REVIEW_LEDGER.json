@@ -1,0 +1,4901 @@
+{
+  "book": "Ecclesiastes",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 1:1",
+          "segment_mode": "whole",
+          "sha256": "c473553f8ad7834f76fd1ffada1af95da2b7ea3c55c944369d42637bd50b7b68"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c473553f8ad7834f76fd1ffada1af95da2b7ea3c55c944369d42637bd50b7b68",
+      "translation_sha256": "f5e3703f7b094c3a08888b2818318948981b9e10a45bc196ff893149be1dd409",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 1:2",
+          "segment_mode": "whole",
+          "sha256": "71d4562ce9d30b5f49d15910d81c8145921c64dbfa042aec527647bb3dbae657"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "71d4562ce9d30b5f49d15910d81c8145921c64dbfa042aec527647bb3dbae657",
+      "translation_sha256": "3d30e109a21458443464352b3d35a7e600f25180cc3c21ae94aba96d5ebf2962",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": [
+        "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 1:3",
+          "segment_mode": "whole",
+          "sha256": "2b0cef931e7604ce5bae37bf0b68c3c2981615ec67bab078a0a1c187f264913d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2b0cef931e7604ce5bae37bf0b68c3c2981615ec67bab078a0a1c187f264913d",
+      "translation_sha256": "c2d33b486a4a19881e31bb65785739079325bfd54dcc941398de393157dceafc",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": [
+        "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 1:4",
+          "segment_mode": "whole",
+          "sha256": "d9cce9e93d02787df1d9976d282edb12c84ee0695135196de674b431f0b7efbc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d9cce9e93d02787df1d9976d282edb12c84ee0695135196de674b431f0b7efbc",
+      "translation_sha256": "ec83bb5c51e98177435d21c5941adfc655db8431b3c0b13aac65b25a29e77796",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": [
+        "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 1:5",
+          "segment_mode": "whole",
+          "sha256": "ca3c163f26e9e35e31b4b914a0fb798a187e805d6b550f87cc7a2316e06b608b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ca3c163f26e9e35e31b4b914a0fb798a187e805d6b550f87cc7a2316e06b608b",
+      "translation_sha256": "f60bc0485b851279e6991e0b762f87c3868e951a7404f05f85b5f07c9fb89824",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": [
+        "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 1:6",
+          "segment_mode": "whole",
+          "sha256": "034cae5e4e0b758a1d582a8ec1dd2b740a8e79cfa2af482e2259d0115cd3d882"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "034cae5e4e0b758a1d582a8ec1dd2b740a8e79cfa2af482e2259d0115cd3d882",
+      "translation_sha256": "514b0ad58d3589e03bca107baedbd78f10fd75b5273c7ca63130e69e82dd105d",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": [
+        "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 1:7",
+          "segment_mode": "whole",
+          "sha256": "3ae778d6a8a893caa736da5145c9cd60019f027ce0e29b5e7dcbe17b33c26538"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3ae778d6a8a893caa736da5145c9cd60019f027ce0e29b5e7dcbe17b33c26538",
+      "translation_sha256": "f4269e5e891a54802ebed5b0a39e17c8849e87e748ee45026cf47e19b1192b5e",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": [
+        "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 1:8",
+          "segment_mode": "whole",
+          "sha256": "17ae1e5f1424519ff5f2244b65fd94920f425412430aeeaa72f832aae4b255d4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "17ae1e5f1424519ff5f2244b65fd94920f425412430aeeaa72f832aae4b255d4",
+      "translation_sha256": "1ff677749ac4656040f8734d08439a31750dd76f96a31fd7f2da86943f8995b5",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": [
+        "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 1:9",
+          "segment_mode": "whole",
+          "sha256": "8ce653bed0605395e28de19c2099a80293b5eda1ca8c5c79d760389df3c26a61"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8ce653bed0605395e28de19c2099a80293b5eda1ca8c5c79d760389df3c26a61",
+      "translation_sha256": "470221be99efa9ebd26272ec8a1c2676f75391e78404296229025be47c18103b",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": [
+        "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 1:10",
+          "segment_mode": "whole",
+          "sha256": "4a86ee20427754a64da057534e5e7f51ba60694601a62bc0c024920a26c6e6fb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4a86ee20427754a64da057534e5e7f51ba60694601a62bc0c024920a26c6e6fb",
+      "translation_sha256": "aeb704e81fa277189b39597c206b1df2aa3e630da1ba9f4952232e2245818394",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": [
+        "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 1:11",
+          "segment_mode": "whole",
+          "sha256": "8c7bddc18689382a3b67411a6400c573b3adac90d31c841d6a9767b5f5d7cd9a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8c7bddc18689382a3b67411a6400c573b3adac90d31c841d6a9767b5f5d7cd9a",
+      "translation_sha256": "bba55b622ed314a63642ff2d65d831c72e6f3e7a1ca93065bc4448b14a90bcab",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": [
+        "Preserve hebel as vapor, transience, and enigma rather than reducing the refrain to a claim that nothing matters."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 1:12",
+          "segment_mode": "whole",
+          "sha256": "07a2084610e8a3e7cd5e77ff0d0ef1e9cbeb5b7fb349698235d82b5db50383b5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "07a2084610e8a3e7cd5e77ff0d0ef1e9cbeb5b7fb349698235d82b5db50383b5",
+      "translation_sha256": "3f9cf2b3db8c3bde0c37a52b8bc2c79de5cbe90fd2fa255614908b3089304e8b",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Ecclesiastes 1:13",
+          "segment_mode": "whole",
+          "sha256": "a3c3e9389bb37d2780f42114bf35cdfd05592c656ec9f10c8157faa3299ac301"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a3c3e9389bb37d2780f42114bf35cdfd05592c656ec9f10c8157faa3299ac301",
+      "translation_sha256": "294d42a110ac0f6604283051ba4a29d1cdb57f0130ab31392d3e21a5b2fbcb03",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Ecclesiastes 1:14",
+          "segment_mode": "whole",
+          "sha256": "a63152ebe046225e5b30b478689da09c525dbcb4b2329e58a1b3d8482238d951"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a63152ebe046225e5b30b478689da09c525dbcb4b2329e58a1b3d8482238d951",
+      "translation_sha256": "ff99d513906d24b1d8fac8bb432088b0e0ab9cdada0ea48b0ac5b161c5003e8d",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Ecclesiastes 1:15",
+          "segment_mode": "whole",
+          "sha256": "9cf1d7a571a176c9c99afba978e8e71c7b497bda80baacda7f8d08e98c2c6e4a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9cf1d7a571a176c9c99afba978e8e71c7b497bda80baacda7f8d08e98c2c6e4a",
+      "translation_sha256": "abf23ee1d14fd40f0b8fbdd35048ce9b4f0cba15b4f3755a67ff5e0339b71e71",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Ecclesiastes 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "Ecclesiastes 1:16",
+          "segment_mode": "whole",
+          "sha256": "4392733ed83006f7cd25add5dd51c7859e15c08b5cf8b92c19fbee7d7c191c82"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4392733ed83006f7cd25add5dd51c7859e15c08b5cf8b92c19fbee7d7c191c82",
+      "translation_sha256": "b538efd50aaf36220e33302c6609c46eb11288082f41a956b4352cec2276613c",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "Ecclesiastes 1:17",
+          "segment_mode": "whole",
+          "sha256": "5dd552f8d6b04e952cb0c956de9a088adb7c71d056b556acd1e848fe9d00efed"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5dd552f8d6b04e952cb0c956de9a088adb7c71d056b556acd1e848fe9d00efed",
+      "translation_sha256": "0c8d1b19544890e7674ff00e6ce5c9eba23042b304a9b7c27b65625579555bf8",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 1:18",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 18,
+          "source_ref": "Ecclesiastes 1:18",
+          "segment_mode": "whole",
+          "sha256": "2f98091b96df6f200212bcad9998b9db7fd18fdd3c88230fac27f6dd7b1f7808"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2f98091b96df6f200212bcad9998b9db7fd18fdd3c88230fac27f6dd7b1f7808",
+      "translation_sha256": "236158faa7fd95b0db45df00bf68374f4543b6f1ab4f94c5fdc8202386b607e8",
+      "tsw_blob_sha": "d6d765e235851860ba1e1c636416bd00f59d9bda",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 2:1",
+          "segment_mode": "whole",
+          "sha256": "a5c83ef64bbea931385b072c1bda8cd3cfa986e1a2861f06b7188161cd1fe959"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a5c83ef64bbea931385b072c1bda8cd3cfa986e1a2861f06b7188161cd1fe959",
+      "translation_sha256": "117fa6ce06f06a28a32dd9651fa1263f0e11753f7e6241fc95dca5d596a5889b",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 2:2",
+          "segment_mode": "whole",
+          "sha256": "f4a53d92f4c1a343e89421525865ae43b1e7da01dc95d1f6c13424c972f9fe90"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f4a53d92f4c1a343e89421525865ae43b1e7da01dc95d1f6c13424c972f9fe90",
+      "translation_sha256": "3be139cbcc39ec872eb4da52f409b3c5401eb7c14a7fae946694abfbba432a9c",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 2:3",
+          "segment_mode": "whole",
+          "sha256": "af73f665da36979800743a5e1a3d7909b125dda4c155b992283fb62a9594fed5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "af73f665da36979800743a5e1a3d7909b125dda4c155b992283fb62a9594fed5",
+      "translation_sha256": "eea001860f63f1898db2e18f0a9c4b8983d33c48e34f417312663667d066a65d",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 2:4",
+          "segment_mode": "whole",
+          "sha256": "df1640f666e48791bcd2b044985f2ba0b4eced33cf0622706ef1b383343d5f3d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "df1640f666e48791bcd2b044985f2ba0b4eced33cf0622706ef1b383343d5f3d",
+      "translation_sha256": "4ccfe5bb1aa697b5d57bb7ee3afa61522961918e69f94c1b201b0432efc5f84b",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 2:5",
+          "segment_mode": "whole",
+          "sha256": "35c8088ef10a443c4ad4f7ee90d326d061de41c67c83ff00e2c2f23f6affb83d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "35c8088ef10a443c4ad4f7ee90d326d061de41c67c83ff00e2c2f23f6affb83d",
+      "translation_sha256": "6576afebd9a004d33119b5aeda2c3de33c645a151eddd5252f23b895bc9db061",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 2:6",
+          "segment_mode": "whole",
+          "sha256": "946db0264793713a1fe4ea61f779aef7c0c0b8870a6ea278f5868027b772078c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "946db0264793713a1fe4ea61f779aef7c0c0b8870a6ea278f5868027b772078c",
+      "translation_sha256": "5b4b4df97551ec14ee2901abe057b581cca07359fe631bf9e5fdbc2e62696aa7",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 2:7",
+          "segment_mode": "whole",
+          "sha256": "853861c4558746eeaf4e843f8dcbb306313d5f5461ca29ff01a8c11a48d39ece"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "853861c4558746eeaf4e843f8dcbb306313d5f5461ca29ff01a8c11a48d39ece",
+      "translation_sha256": "e2f617db44ded2f84e64b041a569f39db60f9afab046baa88dc8c5f7a084128c",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 2:8",
+          "segment_mode": "whole",
+          "sha256": "0bb753e7c1c965d6ae3732e06a55aa53973182c6005b1eddaefdf5f06acd67fa"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0bb753e7c1c965d6ae3732e06a55aa53973182c6005b1eddaefdf5f06acd67fa",
+      "translation_sha256": "5d2f2ea6ce572a1c7918c627fb4edb5bad9d10b716f7fbd184881a6e8f6c8e79",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 2:9",
+          "segment_mode": "whole",
+          "sha256": "5987d7a855be05ec3443401bff52babcbf3ba6106b9c5ec6edae55ec4119e25d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5987d7a855be05ec3443401bff52babcbf3ba6106b9c5ec6edae55ec4119e25d",
+      "translation_sha256": "b786b1f0dfb49d8299dc96ff262da5a00da031aa90a379f42e038e47a8b260b9",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 2:10",
+          "segment_mode": "whole",
+          "sha256": "4e01de6fe6e92921698c94dc4a4338e53844347c7df35b1e6e2c20c7d14245d3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4e01de6fe6e92921698c94dc4a4338e53844347c7df35b1e6e2c20c7d14245d3",
+      "translation_sha256": "4cb2390c61034c4da87ebd4266cd750ee39f63c79eb1b25fb16f1fc13b26e5f9",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 2:11",
+          "segment_mode": "whole",
+          "sha256": "15978989cb91f2b78f24b89998b0f2e8cec85da817514c4553b8e32e304f25ea"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "15978989cb91f2b78f24b89998b0f2e8cec85da817514c4553b8e32e304f25ea",
+      "translation_sha256": "91aeb68a38ab0bab4105101c3c2d9bb020544b8e0bc324efcbaefd7e648bba82",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 2:12",
+          "segment_mode": "whole",
+          "sha256": "61e50e096f9c94e65a4d94641ce3c2c32424c539e797e0658f276b61b7029c88"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "61e50e096f9c94e65a4d94641ce3c2c32424c539e797e0658f276b61b7029c88",
+      "translation_sha256": "40e1b077f3ef0b6c408b8f9932ea086331bc07ed7b1393b167588d93a16b8d6c",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Ecclesiastes 2:13",
+          "segment_mode": "whole",
+          "sha256": "516eea273acbe80e9cd1a26aa89ec26fe5ddc227bd76b384ddf5bf78321fecdd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "516eea273acbe80e9cd1a26aa89ec26fe5ddc227bd76b384ddf5bf78321fecdd",
+      "translation_sha256": "eb90f191d4b67a8f1029a4223606516f372373f0f1408fa3e23bf7494c75ad0e",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Ecclesiastes 2:14",
+          "segment_mode": "whole",
+          "sha256": "bc07232c4dc5d8486fce181f47d6de20e60913b129756a9c55831e8beaa63f4e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bc07232c4dc5d8486fce181f47d6de20e60913b129756a9c55831e8beaa63f4e",
+      "translation_sha256": "ecf24f22502267f830008fd915880fc1da137ec0ed1383df1c9c6eb9818086d7",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Ecclesiastes 2:15",
+          "segment_mode": "whole",
+          "sha256": "b21ed7a439f3808760898900d43be96c89191b0d5c1021633338bd04e06155f1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b21ed7a439f3808760898900d43be96c89191b0d5c1021633338bd04e06155f1",
+      "translation_sha256": "cd507ac3f29780c7102d6f6e56ebd59cb9f1cb06f87e03d70644a800edfcc400",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:16",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "Ecclesiastes 2:16",
+          "segment_mode": "whole",
+          "sha256": "ebaa4905f75a6a34f9f9bd9791d92fd14f034d56b482465d75d44045c7bd52e5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ebaa4905f75a6a34f9f9bd9791d92fd14f034d56b482465d75d44045c7bd52e5",
+      "translation_sha256": "fbb9d677d269366642001132ccf53c5423db906030b482c5f0092d17a4882d48",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:17",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "Ecclesiastes 2:17",
+          "segment_mode": "whole",
+          "sha256": "f67f7eca7c8fd983f15634dfe4ae786d54078acfb8308ba3fe95ff4eeccfb3e8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f67f7eca7c8fd983f15634dfe4ae786d54078acfb8308ba3fe95ff4eeccfb3e8",
+      "translation_sha256": "51fe56fc7bb0bc892de04ebd7453e7d40f4be2c4a49abbb3f1e656f7d736e8a6",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:18",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 18,
+          "source_ref": "Ecclesiastes 2:18",
+          "segment_mode": "whole",
+          "sha256": "56d514d4d18312996df2c44d682fa1ec2c8544d6b9febd1b1a50b947ab7f3964"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "56d514d4d18312996df2c44d682fa1ec2c8544d6b9febd1b1a50b947ab7f3964",
+      "translation_sha256": "3aeb1a0412f7c2d895f40e58028e40a5b8e42a3ac027a4ffcbaf715ea0d68820",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:19",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 19,
+          "source_ref": "Ecclesiastes 2:19",
+          "segment_mode": "whole",
+          "sha256": "90cc5acf0a0e256a12b1ef5346878d5ca3cbc67947de6c642768f5595823943b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "90cc5acf0a0e256a12b1ef5346878d5ca3cbc67947de6c642768f5595823943b",
+      "translation_sha256": "7b24caaa30309b0dd4d09bf2b07bebcb907dc97a4e4b9321a9bef14306260656",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:20",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 20,
+          "source_ref": "Ecclesiastes 2:20",
+          "segment_mode": "whole",
+          "sha256": "9e983f26cc658f4380ea2d882b9336c8f9d7e122ed7a8b6f118216e192c6e958"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9e983f26cc658f4380ea2d882b9336c8f9d7e122ed7a8b6f118216e192c6e958",
+      "translation_sha256": "3989673609a026ad693701ec142d12fe0dcbc9872b15df0fc857fa5ffb039538",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:21",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 21,
+          "source_ref": "Ecclesiastes 2:21",
+          "segment_mode": "whole",
+          "sha256": "f0dbaaa543be4ce75e210c15a71c5a5f28885363c3db61c761914329a4941b24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f0dbaaa543be4ce75e210c15a71c5a5f28885363c3db61c761914329a4941b24",
+      "translation_sha256": "7c3e68b47cf87b8e66fb638f0de0f55aae994434a13ddb2db12eb94bc448c85c",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:22",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 22,
+          "source_ref": "Ecclesiastes 2:22",
+          "segment_mode": "whole",
+          "sha256": "b5b7655b81e0911a143c66bc1f594f2d6d946df58811626d8740477997f0a823"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b5b7655b81e0911a143c66bc1f594f2d6d946df58811626d8740477997f0a823",
+      "translation_sha256": "a982a8225236fbe33b54677497055ebaba0de3eb76066615612381182d3f6e7d",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:23",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 23,
+          "source_ref": "Ecclesiastes 2:23",
+          "segment_mode": "whole",
+          "sha256": "1cb0cf4803696a42e6ba149dc0c61362f545e2d5b3a8c3e5c5281d2f69254e31"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1cb0cf4803696a42e6ba149dc0c61362f545e2d5b3a8c3e5c5281d2f69254e31",
+      "translation_sha256": "94ea13def7fe9fbc9e956ac30a924f9b36b5dea1b79ac1a5192fded55e42c562",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 24,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:24",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 24,
+          "source_ref": "Ecclesiastes 2:24",
+          "segment_mode": "whole",
+          "sha256": "e44a911d61614defa1ec9a39b1472ab635fcdcb2ac349a230e768b87ec9c8b27"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e44a911d61614defa1ec9a39b1472ab635fcdcb2ac349a230e768b87ec9c8b27",
+      "translation_sha256": "eacb3814b4b8df6afe871b4a7a128cecb694c52d2a1b0a848fa9dcb7eb94f7b5",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 25,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:25",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 25,
+          "source_ref": "Ecclesiastes 2:25",
+          "segment_mode": "whole",
+          "sha256": "14ce9159291e23b3bae11b5450d6047de15ed947a133452b45fa2962d8794410"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "14ce9159291e23b3bae11b5450d6047de15ed947a133452b45fa2962d8794410",
+      "translation_sha256": "102b9da0502c026566cafa1527979a5b5337af9838e18c0fe763d2ef47b28f17",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 26,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 2:26",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 26,
+          "source_ref": "Ecclesiastes 2:26",
+          "segment_mode": "whole",
+          "sha256": "16447af58cd904ce8222bf18cb22d51be866f2a00d6d56c181c9755860b18912"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "16447af58cd904ce8222bf18cb22d51be866f2a00d6d56c181c9755860b18912",
+      "translation_sha256": "d5686b40e2ae470ef13830b386aa0ef41792470153aa9721f01a65575d3bec3c",
+      "tsw_blob_sha": "5889ae918d8dbd84f30874a58ceb1814d3ea1c20",
+      "curated_decisions": [
+        "Keep pleasure, achievement, wisdom, work, death, and enjoyment in their unresolved rhetorical tension."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 3:1",
+          "segment_mode": "whole",
+          "sha256": "5d66f68129413d49716b0d603b3c89190ed58d2bdd088bd50a3799e6f23e196a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5d66f68129413d49716b0d603b3c89190ed58d2bdd088bd50a3799e6f23e196a",
+      "translation_sha256": "5237c5ca1f58938771d9eb97e5ed410c3b9b5be7aa1b2f1788424c23422fa098",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 3:2",
+          "segment_mode": "whole",
+          "sha256": "3f3af12784b5e356655985e56a56a8c75223db8106cf37903e09c088e2bf520c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3f3af12784b5e356655985e56a56a8c75223db8106cf37903e09c088e2bf520c",
+      "translation_sha256": "bc35bd14972b30bf0997db4762a1a7c032edae8294793bc8ecd0b308c1bf6adc",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 3:3",
+          "segment_mode": "whole",
+          "sha256": "8bb080be22887e0074594fb9f30f5e6fe5c482febd02be6c0b99e77b99165c7b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8bb080be22887e0074594fb9f30f5e6fe5c482febd02be6c0b99e77b99165c7b",
+      "translation_sha256": "bdb74996cce4bb549906155091bd181b689f906ba9982a4db9c8f4aa94a9a6f3",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 3:4",
+          "segment_mode": "whole",
+          "sha256": "235b2aea14343e282af33ca40b8ad3a73227ff34ad5f70dad90e3b88c3b64faf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "235b2aea14343e282af33ca40b8ad3a73227ff34ad5f70dad90e3b88c3b64faf",
+      "translation_sha256": "798df909f0e2711b7395f577e9165fc6722a8e65f248ce6a9901dce814f386bb",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 3:5",
+          "segment_mode": "whole",
+          "sha256": "024faad57dfc17913765d993c39941ab7f78affd77fa6e5785d923381822f294"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "024faad57dfc17913765d993c39941ab7f78affd77fa6e5785d923381822f294",
+      "translation_sha256": "7ade84798e39146884755c833985e168c1f8d0e810b2f92d8bec328d53c6a1a7",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 3:6",
+          "segment_mode": "whole",
+          "sha256": "d286db36c3808d6e43db55eb93340eabb0cc7091a970b5b454e87a59c674172d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d286db36c3808d6e43db55eb93340eabb0cc7091a970b5b454e87a59c674172d",
+      "translation_sha256": "4212a19d2511c37d32b4cc63f4b93136101996d04cb8c409792197ba43f91e74",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 3:7",
+          "segment_mode": "whole",
+          "sha256": "467b14c2c2e8530e902afbe0c6cc7721cb1c830dd4cce61dfc9577bf1ba0532f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "467b14c2c2e8530e902afbe0c6cc7721cb1c830dd4cce61dfc9577bf1ba0532f",
+      "translation_sha256": "578224451fcba645d7ca9fc26b2ef1d559f8351f7d255f3871bde3bfabf058d2",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 3:8",
+          "segment_mode": "whole",
+          "sha256": "1539e9a8d38e988382521b4fbbc3278bb30c3cae07b810a65ef452217260d0a5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1539e9a8d38e988382521b4fbbc3278bb30c3cae07b810a65ef452217260d0a5",
+      "translation_sha256": "4eed4be0b0b70909d2d588af993c61e9762be3923b7c0c57305b87e63ff42203",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 3:9",
+          "segment_mode": "whole",
+          "sha256": "b61c694ef203ef35c52dc40f0c0753f6a21d9363a4b8d67d9fcc1f5442ba6003"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b61c694ef203ef35c52dc40f0c0753f6a21d9363a4b8d67d9fcc1f5442ba6003",
+      "translation_sha256": "72e2c2b98ce7f3736f0b8349f3351641473386cf27522eed31bc7dc07b150817",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 3:10",
+          "segment_mode": "whole",
+          "sha256": "d5bccf31fdaec71a46443a3d5f163a09bff6e86d74c9f195a9ad83c364e36172"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d5bccf31fdaec71a46443a3d5f163a09bff6e86d74c9f195a9ad83c364e36172",
+      "translation_sha256": "a73f4113162703b0da988ae130dbdf80c07c5ad9fbefc545ffe45226863d06b2",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 3:11",
+          "segment_mode": "whole",
+          "sha256": "ea60c575a0ed0f6000175355c4bcedd7aa8c1fdc854ffeb6deade1de13a3c4c6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ea60c575a0ed0f6000175355c4bcedd7aa8c1fdc854ffeb6deade1de13a3c4c6",
+      "translation_sha256": "59eb555320c0c6289854f8fae1bc53bd2c63531d18f2349d3a19a49a182e474e",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:12",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 3:12",
+          "segment_mode": "whole",
+          "sha256": "027366701add1016c9237ba1536f4267ea6fc013e89ab01950d1fbf7b8fe2cc4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "027366701add1016c9237ba1536f4267ea6fc013e89ab01950d1fbf7b8fe2cc4",
+      "translation_sha256": "86a5302c0fc59a91e16acc9b09eac6a815c1ac0b5d287159d218aafb19e65942",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:13",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 13,
+          "source_ref": "Ecclesiastes 3:13",
+          "segment_mode": "whole",
+          "sha256": "9077dc46f11e98579d4d937d83d9bad6c10e43af47424888bfcb8375f7740886"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9077dc46f11e98579d4d937d83d9bad6c10e43af47424888bfcb8375f7740886",
+      "translation_sha256": "1a0c9ca8e93f2c2bd20d87382c73d5849d3c392899891949c65f667ff20ff476",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:14",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 14,
+          "source_ref": "Ecclesiastes 3:14",
+          "segment_mode": "whole",
+          "sha256": "76c8046dec186503c10b66a9784761b5026a477f3d6be66ac78f1b243e4a4627"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "76c8046dec186503c10b66a9784761b5026a477f3d6be66ac78f1b243e4a4627",
+      "translation_sha256": "6b46a5b75fe93ae598fcfb7a40dfc038dfc5596973657a3878558e65fed3e356",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:15",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 15,
+          "source_ref": "Ecclesiastes 3:15",
+          "segment_mode": "whole",
+          "sha256": "7b0e1532949c5243c11233540cd86a6b0548273cfb7364361b57d1fbed6b2a93"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7b0e1532949c5243c11233540cd86a6b0548273cfb7364361b57d1fbed6b2a93",
+      "translation_sha256": "232ca62c3c1c8b8441d19cf2d32913bfd0a420d5474738f0f23f633e43f383f0",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Preserve the time poem and divine sovereignty without turning every named event into an ethical command."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:16",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 16,
+          "source_ref": "Ecclesiastes 3:16",
+          "segment_mode": "whole",
+          "sha256": "af86f035829cc1cf9416e0b9a0e4f3c13cd59090c8c867f747ee989c7189020d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "af86f035829cc1cf9416e0b9a0e4f3c13cd59090c8c867f747ee989c7189020d",
+      "translation_sha256": "b63fe56b158f260c800000788ecf7e0cba1a47b4f9adf72e06ea880d816fc6f2",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:17",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 17,
+          "source_ref": "Ecclesiastes 3:17",
+          "segment_mode": "whole",
+          "sha256": "8f89e8eb90ac9d1ed156230a444a55b4011f0c367aa44b2cdac12c0062d442f7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8f89e8eb90ac9d1ed156230a444a55b4011f0c367aa44b2cdac12c0062d442f7",
+      "translation_sha256": "946cd4f53252c30ef0b1bb171f3f0a99ae88059d93432d3a77db4590859b0580",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:18",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 18,
+          "source_ref": "Ecclesiastes 3:18",
+          "segment_mode": "whole",
+          "sha256": "c0b57d1407fc037cb69c7eafb45cd0bf9e0e3a65463b57dd9f6f9c5ae12d725d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c0b57d1407fc037cb69c7eafb45cd0bf9e0e3a65463b57dd9f6f9c5ae12d725d",
+      "translation_sha256": "f19a9b5caaeeb5abb717b59615692b24cc56bd141ffea821fdef38d0379f72ef",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:19",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 19,
+          "source_ref": "Ecclesiastes 3:19",
+          "segment_mode": "whole",
+          "sha256": "f7708ebdaf8e636fc1fa8284b62da81219f11aa5f47e2bea9f81e4a74d19cc57"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f7708ebdaf8e636fc1fa8284b62da81219f11aa5f47e2bea9f81e4a74d19cc57",
+      "translation_sha256": "b959bd22ca1ada3487ac7aaa5341a8a5e04826e284dd8eb2e137ee5c41a32759",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:20",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 20,
+          "source_ref": "Ecclesiastes 3:20",
+          "segment_mode": "whole",
+          "sha256": "c2bfe4141cbddf1bcf21f78152e2fc5828ec30e15c55fb1210165df41a153155"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c2bfe4141cbddf1bcf21f78152e2fc5828ec30e15c55fb1210165df41a153155",
+      "translation_sha256": "faeb8c9560ee8dce5930ff964aac79043bea63015b809e16a8d16d972460bf28",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:21",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 21,
+          "source_ref": "Ecclesiastes 3:21",
+          "segment_mode": "whole",
+          "sha256": "ee6d299179a2305715497695fa9397d517d7e24ffc8acee82dd9e87ef7f222e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ee6d299179a2305715497695fa9397d517d7e24ffc8acee82dd9e87ef7f222e3",
+      "translation_sha256": "d3e3500160a66777232dfcc1f6b61bd993eda530ee9b42b345efba057fd1ada2",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 3:22",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 22,
+          "source_ref": "Ecclesiastes 3:22",
+          "segment_mode": "whole",
+          "sha256": "e1cac537ec33300f93688ce6a6445aad4806c2db8f8705b6772dfd72b255cc4e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e1cac537ec33300f93688ce6a6445aad4806c2db8f8705b6772dfd72b255cc4e",
+      "translation_sha256": "56bf2fd4afd0f22136501499b98ddb45249558923dcff4109f78f845e113ef52",
+      "tsw_blob_sha": "e5375dc7613326ad7eba1167e6f4ed9271d24728",
+      "curated_decisions": [
+        "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 4:1",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 4:1",
+          "segment_mode": "whole",
+          "sha256": "9e444a5ac24bfcf81cf40480df2c972a7679afc2b14b8f431fb484ae95914f22"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9e444a5ac24bfcf81cf40480df2c972a7679afc2b14b8f431fb484ae95914f22",
+      "translation_sha256": "be047ea56424e228b032dfb5b856be7bc8a11620cb3dc3f9888f6425c767137a",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": [
+        "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 4:2",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 4:2",
+          "segment_mode": "whole",
+          "sha256": "7ea6c1469773436f59f8d9846620daa74f2a08eaef2c7e32bec13c18c0697162"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7ea6c1469773436f59f8d9846620daa74f2a08eaef2c7e32bec13c18c0697162",
+      "translation_sha256": "1314bff5b930dbd9199665f51fd70fce4c29a7af1d33aea2dbcb6d64b7598482",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": [
+        "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 4:3",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 4:3",
+          "segment_mode": "whole",
+          "sha256": "8b06529698ca34cc31d5bf1a5df18cbc8ebd5ff0877c052981e2a51ca55a56f9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8b06529698ca34cc31d5bf1a5df18cbc8ebd5ff0877c052981e2a51ca55a56f9",
+      "translation_sha256": "98ceb50abd13ebce1afaaeb0a6c0428642741a03c551c8668657914a2b3b70a4",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": [
+        "Keep injustice, mortality, oppression, and grief central without making suffering itself virtuous."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Ecclesiastes 4:4",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 4:4",
+          "segment_mode": "whole",
+          "sha256": "f209da8d7cc6a048af5d9d27941626b518d2261ea5034918a3a1e1ad17267a90"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f209da8d7cc6a048af5d9d27941626b518d2261ea5034918a3a1e1ad17267a90",
+      "translation_sha256": "e8103475f1c6331863fdd517e445bdd5dd35cce26a89a80db328ba772e81fc1f",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:5",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 4:5",
+          "segment_mode": "whole",
+          "sha256": "bc6a35a79aa43b1a954f90b3647eafeaffb930a59a74ca5ea2a1b3137a8757b9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bc6a35a79aa43b1a954f90b3647eafeaffb930a59a74ca5ea2a1b3137a8757b9",
+      "translation_sha256": "a5a052de896737693dad6140b6e25f6a65ed8c480b19f925495dbe1e4bf9f5ca",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:6",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 4:6",
+          "segment_mode": "whole",
+          "sha256": "a22f67a9cfb1a2387148b691f6fa8f1b8693166be7083d46a60c39cafe629cea"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a22f67a9cfb1a2387148b691f6fa8f1b8693166be7083d46a60c39cafe629cea",
+      "translation_sha256": "09ec234a556e42a81c7399b24dea90a0fa4c561d5abb1234dba1c450231228bb",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:7",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 4:7",
+          "segment_mode": "whole",
+          "sha256": "645d1842e1c737477c3e849fc208d7932bde1d9d29084925ef9646174bd62e79"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "645d1842e1c737477c3e849fc208d7932bde1d9d29084925ef9646174bd62e79",
+      "translation_sha256": "435c41484dbb898518a21e685bd0384b25ac674a499b50045aa47b133314a1e6",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:8",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 4:8",
+          "segment_mode": "whole",
+          "sha256": "e0028155da9397f9bf894772213e0949a2ab2f7a32bf7a7618ca23c5e2b899b9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e0028155da9397f9bf894772213e0949a2ab2f7a32bf7a7618ca23c5e2b899b9",
+      "translation_sha256": "030acb3de9b136d40b5adfe17a6c645d35da4700f976ca36d648a570ee443eb0",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:9",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 4:9",
+          "segment_mode": "whole",
+          "sha256": "49ce3c9e3d180b8db1206c1918d2c4a7f083a21f6332ce4f5e8a38acc3d3f3d0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "49ce3c9e3d180b8db1206c1918d2c4a7f083a21f6332ce4f5e8a38acc3d3f3d0",
+      "translation_sha256": "a9603c1cac20869cc802a6ad6a24308085ae54428aa8383e274faae16d657797",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:10",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 4:10",
+          "segment_mode": "whole",
+          "sha256": "3d18946c92f33f218266db059a1e97e759f52a392ad62197800a7d4ee1b4f5c3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3d18946c92f33f218266db059a1e97e759f52a392ad62197800a7d4ee1b4f5c3",
+      "translation_sha256": "04579b51965b242f8208f266341eaca364193b459492a7ded8e4e4d1071a8f9e",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:11",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 4:11",
+          "segment_mode": "whole",
+          "sha256": "24450d49496810e921ff80e8334ab316c85cccea22fcfd035b184310e36a203a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "24450d49496810e921ff80e8334ab316c85cccea22fcfd035b184310e36a203a",
+      "translation_sha256": "09e39d50eb831aac1bc68a337986b10a68b6ca7528deb16ff7a08ce73139caee",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:12",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 4:12",
+          "segment_mode": "whole",
+          "sha256": "c17c39ba57676133b3744ccd5d10e878ba88747c9b0716e43e20a74b724b3599"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c17c39ba57676133b3744ccd5d10e878ba88747c9b0716e43e20a74b724b3599",
+      "translation_sha256": "7f4f27a94cfc10db79aa453b0f14eebc23e5aec741f73bb9f2994277ad4de829",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:13",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 13,
+          "source_ref": "Ecclesiastes 4:13",
+          "segment_mode": "whole",
+          "sha256": "77dce47ceaba9a3879dd52ec337c1a1865965b9c6c195eb42041da6c1e778943"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "77dce47ceaba9a3879dd52ec337c1a1865965b9c6c195eb42041da6c1e778943",
+      "translation_sha256": "046d86a34c52e24a99fc959f6d946edf4452220f12d96fc33fd9879410584d79",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:14",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 14,
+          "source_ref": "Ecclesiastes 4:14",
+          "segment_mode": "whole",
+          "sha256": "34ef0fde9d0cf5c2d5dca23acf3f63e696abbf89d2762b43d5dc3e4d55509c7d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "34ef0fde9d0cf5c2d5dca23acf3f63e696abbf89d2762b43d5dc3e4d55509c7d",
+      "translation_sha256": "1cdff2a4a9f3dc1c61f1adf9705446cbeabd23a37a35906400a45a5409fdaad6",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:15",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 15,
+          "source_ref": "Ecclesiastes 4:15",
+          "segment_mode": "whole",
+          "sha256": "ddd9c26357ef6939126f3552ce787407b961a07193b17b85e46d9a9b3500d285"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ddd9c26357ef6939126f3552ce787407b961a07193b17b85e46d9a9b3500d285",
+      "translation_sha256": "fbc34a0b9d7f2130b7109790d47cce05a6f1f5ea8dd88059668cd9c6e2cd3a24",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Ecclesiastes 4:16",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 16,
+          "source_ref": "Ecclesiastes 4:16",
+          "segment_mode": "whole",
+          "sha256": "e1c0501d2fb53f662cbf143a30e8c0e98348ba9132c48a8465b2373c24ff1472"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e1c0501d2fb53f662cbf143a30e8c0e98348ba9132c48a8465b2373c24ff1472",
+      "translation_sha256": "5612fba677c06e7124dc89bd278220910a9b7ccc6e8d86f99a0256a6e1496c49",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 4:17",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 17,
+          "source_ref": "Ecclesiastes 4:17",
+          "segment_mode": "whole",
+          "sha256": "b459e345a695a7f3168fcea9676689128c812337d7e77b90d5aa350f5be88922"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b459e345a695a7f3168fcea9676689128c812337d7e77b90d5aa350f5be88922",
+      "translation_sha256": "c2141f6f7d732e58cce97653c12dc2e80a858ef254770d010ae699acca38881b",
+      "tsw_blob_sha": "1a0aea0be7f45abb64c1b634ad04f6af0fbfad7f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 5:1",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 5:1",
+          "segment_mode": "whole",
+          "sha256": "9c7d4d792b4a8d25995aa96a0c5c6824ab3276ab879ed01c213a793936967cf8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9c7d4d792b4a8d25995aa96a0c5c6824ab3276ab879ed01c213a793936967cf8",
+      "translation_sha256": "63171961e45071e17f8e8b1421804048dd0cfd0bf49a4966b68e40c3158d8e83",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": [
+        "Retain the warning about speech, vows, and worship without treating silence as the only faithful posture."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 5:2",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 5:2",
+          "segment_mode": "whole",
+          "sha256": "371baca9cd6ba7498f0705df9aaf5ed4f9140a19e5d73db9af07b0c41371776f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "371baca9cd6ba7498f0705df9aaf5ed4f9140a19e5d73db9af07b0c41371776f",
+      "translation_sha256": "c27f82b4eee89543149af253fc8e2670a9b3f82a8be7e976a145a32861e2993f",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": [
+        "Retain the warning about speech, vows, and worship without treating silence as the only faithful posture."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 5:3",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 5:3",
+          "segment_mode": "whole",
+          "sha256": "c8e57e8206304882e9fd29f5379ce57c393e8ebcfd27364f265e0238fc1b6863"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c8e57e8206304882e9fd29f5379ce57c393e8ebcfd27364f265e0238fc1b6863",
+      "translation_sha256": "4589e0d74705e2a0fa8f951b2f5d6c93d77e5473903f4a78d74e9f6bf70fde3d",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": [
+        "Retain the warning about speech, vows, and worship without treating silence as the only faithful posture."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 5:4",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 5:4",
+          "segment_mode": "whole",
+          "sha256": "0e6fb1b307a1d7df9b566f0af0be3a04b001f183dd1cd21d301bf324bd5237ee"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0e6fb1b307a1d7df9b566f0af0be3a04b001f183dd1cd21d301bf324bd5237ee",
+      "translation_sha256": "184b8a914be5eca0b6f42625bfd97ec691806a157f91ccf2660c51a92f3a60b1",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": [
+        "Retain the warning about speech, vows, and worship without treating silence as the only faithful posture."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 5:5",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 5:5",
+          "segment_mode": "whole",
+          "sha256": "d64bac0b74398c080cb55fd307de37ee68c34776c33a0a1a383613a70c7332ee"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d64bac0b74398c080cb55fd307de37ee68c34776c33a0a1a383613a70c7332ee",
+      "translation_sha256": "5be13f27a33aa15be1ed08e0edc5d6242ab8c2efd3c772f5457824b4d2716f4c",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": [
+        "Retain the warning about speech, vows, and worship without treating silence as the only faithful posture."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 5:6",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 5:6",
+          "segment_mode": "whole",
+          "sha256": "c7f2a1edb20ae0f78f8b6a35dce1b3876e3c324e7cd8a829bb93feb86383db73"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c7f2a1edb20ae0f78f8b6a35dce1b3876e3c324e7cd8a829bb93feb86383db73",
+      "translation_sha256": "058a0590eb232161dfdd5291c45d2f04564f23881867385606673fa34297ea8f",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": [
+        "Retain the warning about speech, vows, and worship without treating silence as the only faithful posture."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 5:7",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 5:7",
+          "segment_mode": "whole",
+          "sha256": "6622eade7fb35cc631a5fe5e7a486a7a68661bde429a635d42823c57671ef24f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6622eade7fb35cc631a5fe5e7a486a7a68661bde429a635d42823c57671ef24f",
+      "translation_sha256": "8eaeff81a7fb123b98257ba1777c6a881cc2c92d74f84c68c0d30630fed26e75",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": [
+        "Retain the warning about speech, vows, and worship without treating silence as the only faithful posture."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:8",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 5:8",
+          "segment_mode": "whole",
+          "sha256": "49d11b61ce38c95e2892d14fbc05259815500f9cb548df06fe261b99a068a0fa"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "49d11b61ce38c95e2892d14fbc05259815500f9cb548df06fe261b99a068a0fa",
+      "translation_sha256": "5f9c10b0cca0af294e13a292597a78d35407e980ebd3af33f9d15e01494ae3c1",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:9",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 5:9",
+          "segment_mode": "whole",
+          "sha256": "ebd86719c18ec917da312ae477467cd95b9e582a9bffb662637dfc2ca625a888"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ebd86719c18ec917da312ae477467cd95b9e582a9bffb662637dfc2ca625a888",
+      "translation_sha256": "d7bde9d47919ca40fa578a43428df81056869874ea21f2961245a5eaeff341a2",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Ecclesiastes 5:10",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 5:10",
+          "segment_mode": "whole",
+          "sha256": "ead4143d748655e44d240b9af855d256e16c750391a6262fef02edc37a83dd2a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ead4143d748655e44d240b9af855d256e16c750391a6262fef02edc37a83dd2a",
+      "translation_sha256": "0119513c2e46c337a1519e903ce3af3a1716a6a6f3031570fbc609713bb51a95",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:11",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 5:11",
+          "segment_mode": "whole",
+          "sha256": "46aa3b91e15aad9c03ff30c0691967a94c54d801eac831d7f78fd6d6798d2b73"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "46aa3b91e15aad9c03ff30c0691967a94c54d801eac831d7f78fd6d6798d2b73",
+      "translation_sha256": "dc911008fcb24980e3eed70b9b6c21a4270c06609231ee10ca3e2aef83422aaa",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:12",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 5:12",
+          "segment_mode": "whole",
+          "sha256": "134e507ec2e7b9e59665868a0c74099ad4062490f8b85059095e01ba59a68cef"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "134e507ec2e7b9e59665868a0c74099ad4062490f8b85059095e01ba59a68cef",
+      "translation_sha256": "6d06cb9a51a6239222ecee1e4c6d4d70de73e303eab3efbb48d8b3fe942cf1df",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:13",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 13,
+          "source_ref": "Ecclesiastes 5:13",
+          "segment_mode": "whole",
+          "sha256": "9c0ba6c8929587f536fb0ab77ac4beaa5e3bf0dd139a555cbac76d8b30bf8ddb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9c0ba6c8929587f536fb0ab77ac4beaa5e3bf0dd139a555cbac76d8b30bf8ddb",
+      "translation_sha256": "9648fa525264e2e1bf8d6934850bd31f7986b847adfddd58fb4e5e5483d0d6f4",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:14",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 14,
+          "source_ref": "Ecclesiastes 5:14",
+          "segment_mode": "whole",
+          "sha256": "fac3d0b93a0b3f9852b7e102b1382a731fadbc0b050858b2fc6b23e9f44d13d2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fac3d0b93a0b3f9852b7e102b1382a731fadbc0b050858b2fc6b23e9f44d13d2",
+      "translation_sha256": "d7cbda8403f3fe45578ae75f90e91d925177d70407e6ac654b191022a5f757b7",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:15",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 15,
+          "source_ref": "Ecclesiastes 5:15",
+          "segment_mode": "whole",
+          "sha256": "d199243895f7f1dae8df236f6b634cf5ef1facf9193e1b4dd372e413f1bb35ee"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d199243895f7f1dae8df236f6b634cf5ef1facf9193e1b4dd372e413f1bb35ee",
+      "translation_sha256": "504cbd789f34af05c0a190990a635e277ce369d7bc32f10e3ee33702c5501999",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:16",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 16,
+          "source_ref": "Ecclesiastes 5:16",
+          "segment_mode": "whole",
+          "sha256": "a1b46ccb7120f6ad7dea7a17830aa63a8e476e609f373671b9244b41a9ac76ad"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a1b46ccb7120f6ad7dea7a17830aa63a8e476e609f373671b9244b41a9ac76ad",
+      "translation_sha256": "d68d604b2efc7a56c0a7d320cf38b7f6356ae72a248a25771ce9f33c41b59112",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:17",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 17,
+          "source_ref": "Ecclesiastes 5:17",
+          "segment_mode": "whole",
+          "sha256": "b19582d5bccd8ebba1e29d710feb8f2065ad6bb582e280ad057ba4e3cf37878b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b19582d5bccd8ebba1e29d710feb8f2065ad6bb582e280ad057ba4e3cf37878b",
+      "translation_sha256": "916bfa6aad6080df3d6b0db2098422aeb1d79ac540da7dbb5ab3d4ea47fa67f0",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:18",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 18,
+          "source_ref": "Ecclesiastes 5:18",
+          "segment_mode": "whole",
+          "sha256": "64f3750e26d326724cc787846725b10d2c872316ef2ac90df94e005b97cba2d0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "64f3750e26d326724cc787846725b10d2c872316ef2ac90df94e005b97cba2d0",
+      "translation_sha256": "494ccc8982ae646e6d9c2c8e53ee7eee1fbd17a578ef80776eabdfd9d7973399",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 5:19",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 19,
+          "source_ref": "Ecclesiastes 5:19",
+          "segment_mode": "whole",
+          "sha256": "1228f800ea7b3a46d7b9f0d68dbd0d0ee7bf604d864297972e579948199c9f1a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1228f800ea7b3a46d7b9f0d68dbd0d0ee7bf604d864297972e579948199c9f1a",
+      "translation_sha256": "2b3556a29e26949ddf61da7e336ec62ff28e617c00084cbcce6dbfbb6e78c40d",
+      "tsw_blob_sha": "8b4d65cffed98ab94eba17a4ade93eb70ed920ce",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:1",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 6:1",
+          "segment_mode": "whole",
+          "sha256": "0507776820baf85b7fe740f83fe6a56adef8d1280b091512b08a18752657870d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0507776820baf85b7fe740f83fe6a56adef8d1280b091512b08a18752657870d",
+      "translation_sha256": "994ccec96a015aaec4c86b653670ca534d97d2d3f3e2d6e5805166fea4bb07a5",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:2",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 6:2",
+          "segment_mode": "whole",
+          "sha256": "ff4b0b889ae32fd2dbabe5ed05cf6f552741d4c33d3171990859399a4bdaffdd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ff4b0b889ae32fd2dbabe5ed05cf6f552741d4c33d3171990859399a4bdaffdd",
+      "translation_sha256": "27d3967bc29cfa1a83663898327cf4e2a6944260a9188df308ff9bde18729d1d",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:3",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 6:3",
+          "segment_mode": "whole",
+          "sha256": "88e2e0f66ada73ce71fc23548f4c589e8e77914a4c7b78f2735aa299e7423491"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "88e2e0f66ada73ce71fc23548f4c589e8e77914a4c7b78f2735aa299e7423491",
+      "translation_sha256": "0b839cdedcc8fa361f1b25ea40078e45f61da559bf302a204526bc7740a97322",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:4",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 6:4",
+          "segment_mode": "whole",
+          "sha256": "1192882817b701cd7be9401c9716c72e3917a4ec642bc46f684cf420b39586e1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1192882817b701cd7be9401c9716c72e3917a4ec642bc46f684cf420b39586e1",
+      "translation_sha256": "3f6bb8f60966fe5512b0eb040fda88a1a390ea1cc0bda19a75f16871f1b3c61b",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:5",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 6:5",
+          "segment_mode": "whole",
+          "sha256": "727a6adf08f8551947b5479bd2bbf6444b38d8257f1ffa31e4a3eda8b92d2c24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "727a6adf08f8551947b5479bd2bbf6444b38d8257f1ffa31e4a3eda8b92d2c24",
+      "translation_sha256": "64aee881831c06775cbf770eedf7bf57d06e3244c630173f0c5146a19e5e69ff",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:6",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 6:6",
+          "segment_mode": "whole",
+          "sha256": "7a9eb3fc2696dd0745c5a129c547df183919bac5e78d8dc7705873f84fb4ee8c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7a9eb3fc2696dd0745c5a129c547df183919bac5e78d8dc7705873f84fb4ee8c",
+      "translation_sha256": "539093cb9c4cd0d5a3c48ea40653fdb624995a6cca722dccd46f9547822c818e",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:7",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 6:7",
+          "segment_mode": "whole",
+          "sha256": "5ee0ab289041f38feba320882f168786d7ce6c0e871f94c6f577c039aa191fd9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5ee0ab289041f38feba320882f168786d7ce6c0e871f94c6f577c039aa191fd9",
+      "translation_sha256": "e4f56dc158db89bc6cf70a784c7d412130392676047e003098e1d70363c16f90",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:8",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 6:8",
+          "segment_mode": "whole",
+          "sha256": "d5c08a561bb7809c7fda849dba911347cb0536f4581adf0c8d168c7e9f8257ad"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d5c08a561bb7809c7fda849dba911347cb0536f4581adf0c8d168c7e9f8257ad",
+      "translation_sha256": "d493e0db80d6433c803c70a944dbbab8323d32a7e870596dd531160505afd82f",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:9",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 6:9",
+          "segment_mode": "whole",
+          "sha256": "fbe7f8a05d99fa30b6248572c9307070dbae0991c0e66635dbab0dde41c8c225"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fbe7f8a05d99fa30b6248572c9307070dbae0991c0e66635dbab0dde41c8c225",
+      "translation_sha256": "aef0a862880e3fdfceb77860446d32f47d8a20d722b1d6b0a7fa71279f2b6361",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:10",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 6:10",
+          "segment_mode": "whole",
+          "sha256": "c5fca0817dd8e075c0405f68bbe9383cea17dff3c7b32c769b28989ab174eee1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c5fca0817dd8e075c0405f68bbe9383cea17dff3c7b32c769b28989ab174eee1",
+      "translation_sha256": "e75e63abc300880eb54bca797363b2d40ffac8877f42c0eccfe0d9f7c644f53e",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:11",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 6:11",
+          "segment_mode": "whole",
+          "sha256": "2580a3074863dc1be4c5ece5a67efb150fed91e293790670f17416fa11938a87"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2580a3074863dc1be4c5ece5a67efb150fed91e293790670f17416fa11938a87",
+      "translation_sha256": "eeae70651eb0a9144637dcf066847675fb979677f5a301951df117fdb23a163e",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 6:12",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 6:12",
+          "segment_mode": "whole",
+          "sha256": "0fa758e7f1149b736ad7cedb62923a1a2c8c39349708c28eeabd5440b469acfd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0fa758e7f1149b736ad7cedb62923a1a2c8c39349708c28eeabd5440b469acfd",
+      "translation_sha256": "61ac9425f72bf32f130d1ceaca67d4cd43583cb394f6fd41fbfbbcd01516a182",
+      "tsw_blob_sha": "95b806f2a600ee0724e84206d5b64c34f2b1f6ed",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:1",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 7:1",
+          "segment_mode": "whole",
+          "sha256": "2571a9fba05eac44831238b0b3b4c481e6f2bcd54a55d48f8bb78531de2950f8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2571a9fba05eac44831238b0b3b4c481e6f2bcd54a55d48f8bb78531de2950f8",
+      "translation_sha256": "340c65f9d5c26c904de11531b6622420f660a6403a5d8de853bb10d22571f545",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:2",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 7:2",
+          "segment_mode": "whole",
+          "sha256": "b59dd27f8ef563cae17987df64231982e4a885da525196a8feb2889f4c20bddb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b59dd27f8ef563cae17987df64231982e4a885da525196a8feb2889f4c20bddb",
+      "translation_sha256": "d2b11d2953d99fe3874f6774248f5a7e89583a103080f8ca0ef768dfe8e0cd7b",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:3",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 7:3",
+          "segment_mode": "whole",
+          "sha256": "841ddf5fdd7fc950fced0eb579e0023128e481f31fc6e0cf5f12cb57f086c164"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "841ddf5fdd7fc950fced0eb579e0023128e481f31fc6e0cf5f12cb57f086c164",
+      "translation_sha256": "7e7e385ce89e3d9ef00eead7d853abb19daf0cd84b04140330d0025388686e6a",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:4",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 7:4",
+          "segment_mode": "whole",
+          "sha256": "997f135ac1075bc32a8616b2571bda130f1e48f00c81ba9087f8e4da83bc8611"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "997f135ac1075bc32a8616b2571bda130f1e48f00c81ba9087f8e4da83bc8611",
+      "translation_sha256": "cbe7bfb0d6a28276587ee671331f992e6b9ed34b61d14d60013eb48da260b768",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:5",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 7:5",
+          "segment_mode": "whole",
+          "sha256": "0e5b682aa75f06d85ba84019876801aa58146ccddea558788754152a9736453d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0e5b682aa75f06d85ba84019876801aa58146ccddea558788754152a9736453d",
+      "translation_sha256": "f703b422e3238dbd574ce2a4e48672a56735be0b4385afaf84a4a7c59d89fd20",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:6",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 7:6",
+          "segment_mode": "whole",
+          "sha256": "721689e7f0a1ef69115de730de73897fa3f71d1516a4e8d1a09a95b3c258bbd7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "721689e7f0a1ef69115de730de73897fa3f71d1516a4e8d1a09a95b3c258bbd7",
+      "translation_sha256": "59c18efae9a8c5555dd78b2017f8ba41a6663967b48f1f166e2cdff90c333dd3",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:7",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 7:7",
+          "segment_mode": "whole",
+          "sha256": "d7e4eca1199bafd21d01784856ea8e3134243e5d5959b9c386ca56efe85b29a1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d7e4eca1199bafd21d01784856ea8e3134243e5d5959b9c386ca56efe85b29a1",
+      "translation_sha256": "7512d66229b714e7e834ca98f6208f26ba5cbbdb09bea3d5a69679aa729e0319",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:8",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 7:8",
+          "segment_mode": "whole",
+          "sha256": "74b6ddc8a9a2e22712a0496912cdf15f2b2b9bf2d3dfd92a244d28f47d7d1002"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "74b6ddc8a9a2e22712a0496912cdf15f2b2b9bf2d3dfd92a244d28f47d7d1002",
+      "translation_sha256": "d59567488aa2168e7a4118e83302334b0d8ecf1c648a63d13f4acead59b0dd41",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:9",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 7:9",
+          "segment_mode": "whole",
+          "sha256": "8f8ea0401088ee382f0e0376edb982c67d17f2e277a38d27a0eef273ae6b5ab0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8f8ea0401088ee382f0e0376edb982c67d17f2e277a38d27a0eef273ae6b5ab0",
+      "translation_sha256": "f70238d97c0069d0402b11edde9e3903f6add51ea151b054cfc266056c7a532b",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:10",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 7:10",
+          "segment_mode": "whole",
+          "sha256": "33e325a42e200cb0ddd55ba70a25845dac05a8df8a2e925af07c27a384fa23af"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "33e325a42e200cb0ddd55ba70a25845dac05a8df8a2e925af07c27a384fa23af",
+      "translation_sha256": "4f17613f23677931237954c7386f63830c24b59cce5b22f204a73414467983ac",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Ecclesiastes 7:11",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 7:11",
+          "segment_mode": "whole",
+          "sha256": "ebd4df953a08f9fe8aef110b56552853e47378667ba9827f9e2cd06efc6dae29"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ebd4df953a08f9fe8aef110b56552853e47378667ba9827f9e2cd06efc6dae29",
+      "translation_sha256": "92bacc3710a96a8f5cd1d6bd1d5e590d99d017e08cfa742e4f8ff6a70849f009",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:12",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 7:12",
+          "segment_mode": "whole",
+          "sha256": "1db7563561c28737e96adf76f37356b82f2c2650a6948a5abaa0ba74b57a2c36"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1db7563561c28737e96adf76f37356b82f2c2650a6948a5abaa0ba74b57a2c36",
+      "translation_sha256": "ef6078056138da49e2bd4876fe9f3f00fbb35bcb1a936e7b39ef94b447730063",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:13",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 13,
+          "source_ref": "Ecclesiastes 7:13",
+          "segment_mode": "whole",
+          "sha256": "a962b46e386298168cab2f7e7e1182ee9c8a07013c8e7d463595e9b34123be69"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a962b46e386298168cab2f7e7e1182ee9c8a07013c8e7d463595e9b34123be69",
+      "translation_sha256": "744e3d24326b1c8df2261496e67a3012c94225e2de854726352a8777e98c4aa2",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 7:14",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 14,
+          "source_ref": "Ecclesiastes 7:14",
+          "segment_mode": "whole",
+          "sha256": "e2e3e92714d00550e884f43e39bd58d5efc7f33641094dfc722a9ff6be9d8168"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e2e3e92714d00550e884f43e39bd58d5efc7f33641094dfc722a9ff6be9d8168",
+      "translation_sha256": "f1a7b40ff8106941364bc37d506cc211f295c800ee6a6247591d2f9130001dd6",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:15",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 15,
+          "source_ref": "Ecclesiastes 7:15",
+          "segment_mode": "whole",
+          "sha256": "b5fc24296241105af10c0029d7cd75bbbf4fe93947acad1188fb108935009322"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b5fc24296241105af10c0029d7cd75bbbf4fe93947acad1188fb108935009322",
+      "translation_sha256": "5154646cfbf575779c83352cc3ddb2e9a686cec41f3ab24bf007cbfbbed1e8f4",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:16",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 16,
+          "source_ref": "Ecclesiastes 7:16",
+          "segment_mode": "whole",
+          "sha256": "2df572141c8ccefb8c19987500b373ef88ea116348f92cf392a801d1e9ca8967"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2df572141c8ccefb8c19987500b373ef88ea116348f92cf392a801d1e9ca8967",
+      "translation_sha256": "ceb7670b8f8f783657237ee74b180881cd1f32f788723bac8be339397cca2bc5",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:17",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 17,
+          "source_ref": "Ecclesiastes 7:17",
+          "segment_mode": "whole",
+          "sha256": "7180a0bcf96aeefa4ad11a8a968962cfb7728935d2af47da24a4a20d35765cf2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7180a0bcf96aeefa4ad11a8a968962cfb7728935d2af47da24a4a20d35765cf2",
+      "translation_sha256": "466a02829d040f10d7fe9b767c74c7b4798aa3699015295a0cddbe753059e671",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:18",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 18,
+          "source_ref": "Ecclesiastes 7:18",
+          "segment_mode": "whole",
+          "sha256": "ecd8245012e242d6e96c2941a271c22a1d123824a4f6caf6e8ad0a837d2ee863"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ecd8245012e242d6e96c2941a271c22a1d123824a4f6caf6e8ad0a837d2ee863",
+      "translation_sha256": "e9d05db438e1d28f22892275f449a2511f8f6933ad007c38784678df3c60478f",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:19",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 19,
+          "source_ref": "Ecclesiastes 7:19",
+          "segment_mode": "whole",
+          "sha256": "22fbe8098733f7fff538c6219bf1f6a599c955353bf5713a76c9abbfb3ec9a23"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "22fbe8098733f7fff538c6219bf1f6a599c955353bf5713a76c9abbfb3ec9a23",
+      "translation_sha256": "578683853a4f3157664eddb88072dff9a47b3b7c5ee20eb9918dcaa706b03f69",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:20",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 20,
+          "source_ref": "Ecclesiastes 7:20",
+          "segment_mode": "whole",
+          "sha256": "6c07b14f80e106c12e4b7a1104ccddc8b2773aaed20567dde0907508a00295f2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6c07b14f80e106c12e4b7a1104ccddc8b2773aaed20567dde0907508a00295f2",
+      "translation_sha256": "c67468183e5429660a40eff4b177f9dfced0ce699677d2a8e44c04d407d3a415",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:21",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 21,
+          "source_ref": "Ecclesiastes 7:21",
+          "segment_mode": "whole",
+          "sha256": "22749184d2a194af4291c26c1cbc1b4440f20f0be4b54e67b756d67e5faa0c01"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "22749184d2a194af4291c26c1cbc1b4440f20f0be4b54e67b756d67e5faa0c01",
+      "translation_sha256": "d4d8224c1a5083d582763d02d7ee1cb27396c6cd7bda5ab0471e25adcfbee397",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:22",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 22,
+          "source_ref": "Ecclesiastes 7:22",
+          "segment_mode": "whole",
+          "sha256": "299c6d05a9b233688124272b871367f8a13806d45559756cad5f8a7eb39c7e44"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "299c6d05a9b233688124272b871367f8a13806d45559756cad5f8a7eb39c7e44",
+      "translation_sha256": "76238007676de84cf45836fc37d7b5feb483eefbf9374b290463feff2e7ee856",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:23",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 23,
+          "source_ref": "Ecclesiastes 7:23",
+          "segment_mode": "whole",
+          "sha256": "36813f01160eeef69282313aa7f6c2c6b7ef0b50806e0329e8ef9479ef249ddb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "36813f01160eeef69282313aa7f6c2c6b7ef0b50806e0329e8ef9479ef249ddb",
+      "translation_sha256": "70c915224aee78dd0015f9302ba0651baac784629068ef0e542d060ad029810c",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 24,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:24",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 24,
+          "source_ref": "Ecclesiastes 7:24",
+          "segment_mode": "whole",
+          "sha256": "a27f8e57fce7ccf5c520a882a2784ab343aa3a92156681e9772cf7456b6a741c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a27f8e57fce7ccf5c520a882a2784ab343aa3a92156681e9772cf7456b6a741c",
+      "translation_sha256": "a0587f7d37c27d96462c7ee7682ee4356626ca364885ecce4afe2c691e68efc4",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 25,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:25",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 25,
+          "source_ref": "Ecclesiastes 7:25",
+          "segment_mode": "whole",
+          "sha256": "734edefb5e9a21dddc1f0514040a989e815dfba37c967fdf16e95fe5bfc13e40"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "734edefb5e9a21dddc1f0514040a989e815dfba37c967fdf16e95fe5bfc13e40",
+      "translation_sha256": "8fd1a68828a55fad4774b99b4fc90699dc44f206b96e004995d1d948662dadb5",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 26,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:26",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 26,
+          "source_ref": "Ecclesiastes 7:26",
+          "segment_mode": "whole",
+          "sha256": "89627004512105eaa8d95afc709a3b66af5dc88c3f45dd27d7e0e53c23cadb26"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "89627004512105eaa8d95afc709a3b66af5dc88c3f45dd27d7e0e53c23cadb26",
+      "translation_sha256": "6d1df0c0b5b2faf79088afb46926f616ba440ad0aab4c458f49e1f75bfb3cbfc",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 27,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:27",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 27,
+          "source_ref": "Ecclesiastes 7:27",
+          "segment_mode": "whole",
+          "sha256": "8d6c35b4757307ddb147ee42b401f6e29eeb90c8de319f59c6ac0cb781b6966c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8d6c35b4757307ddb147ee42b401f6e29eeb90c8de319f59c6ac0cb781b6966c",
+      "translation_sha256": "d7809273279041aaba5d8d2eeee4aca1483b405d52e828cfd3ce84fb9ace8b70",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 28,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:28",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 28,
+          "source_ref": "Ecclesiastes 7:28",
+          "segment_mode": "whole",
+          "sha256": "1b67d53f07cf9267bbc9fc6ecff847f23ecc79007b2ed18e1a17ae1e26b43b00"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1b67d53f07cf9267bbc9fc6ecff847f23ecc79007b2ed18e1a17ae1e26b43b00",
+      "translation_sha256": "3e350492a4bdf7c4a9002e2ca354692f966f6566b966e45f3658d2996be66555",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 29,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 7:29",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 29,
+          "source_ref": "Ecclesiastes 7:29",
+          "segment_mode": "whole",
+          "sha256": "029c0d1b462695111f82a32eefa2dd9155d915ee8330c317aea1436dbff626f2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "029c0d1b462695111f82a32eefa2dd9155d915ee8330c317aea1436dbff626f2",
+      "translation_sha256": "0168f1a5a52e458a0ce4289aeaa34b5db17ea4a3cb105cd3639702a6b579815f",
+      "tsw_blob_sha": "24ac2130c6d867c3e66a1ea316aefb44343d9991",
+      "curated_decisions": [
+        "Preserve the difficult argument and its limits; do not turn one gendered saying into universal condemnation of women."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:1",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 8:1",
+          "segment_mode": "whole",
+          "sha256": "8a8486a99436833b90665710de0a4f7dc0bc034c2f0693e1d96f557d0d1a0269"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8a8486a99436833b90665710de0a4f7dc0bc034c2f0693e1d96f557d0d1a0269",
+      "translation_sha256": "27dbd9fba342872bda46450db861e6fc0b498697f558a32f59c957acb13d775a",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:2",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 8:2",
+          "segment_mode": "whole",
+          "sha256": "a3ebc3d78e93174429aa115cf5e5119f21ffea77b0b6299a89314b5137dc1eb9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a3ebc3d78e93174429aa115cf5e5119f21ffea77b0b6299a89314b5137dc1eb9",
+      "translation_sha256": "1020afc90054aa98caef544a447019b7aa5d6d7a28fd9b02b02acda1a988c74f",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:3",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 8:3",
+          "segment_mode": "whole",
+          "sha256": "a4dff740beb8f9503d62fb2cf3682cb7e53ea9f5b1de40c97ce38cb83943f446"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a4dff740beb8f9503d62fb2cf3682cb7e53ea9f5b1de40c97ce38cb83943f446",
+      "translation_sha256": "58cd56815cdfce1466f10a5e14db31d26ab460750fe4b3a4734419460be68275",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:4",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 8:4",
+          "segment_mode": "whole",
+          "sha256": "a95fbf0dd11451c4bf1119e2acdc980dab1d3774bc1ee5c9312cb59ee8972547"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a95fbf0dd11451c4bf1119e2acdc980dab1d3774bc1ee5c9312cb59ee8972547",
+      "translation_sha256": "fa550ddba0e55c84000a0b81521de12d5ad4eb0361419ee845af9a684b93a4e8",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:5",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 8:5",
+          "segment_mode": "whole",
+          "sha256": "aaa9f398f6fb155af207041ed8bd5758e1f818f1483c57dfe02b3b86dc9249d9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aaa9f398f6fb155af207041ed8bd5758e1f818f1483c57dfe02b3b86dc9249d9",
+      "translation_sha256": "379178ea3a3fd3eceb4787e0db1134b1ce36df5d1c99b38da4d95867d4683138",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:6",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 8:6",
+          "segment_mode": "whole",
+          "sha256": "81789c7be3898e4b56e79e45ae93f87002c0b278b0a09db6edfd9f4eddc217a1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "81789c7be3898e4b56e79e45ae93f87002c0b278b0a09db6edfd9f4eddc217a1",
+      "translation_sha256": "ad3d25eff7144a66d36f913c312c2cc7ee46726aa2045c75d1823be27435ce44",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:7",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 8:7",
+          "segment_mode": "whole",
+          "sha256": "3a15afbef105494cb597969b9546dc11c3ba47c9e4c5bb015839782aa59c4ef8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3a15afbef105494cb597969b9546dc11c3ba47c9e4c5bb015839782aa59c4ef8",
+      "translation_sha256": "4cbb5808b73d886390805f2a4f05af23fbac364b0bc45fe660ebbd93c1c87d77",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Ecclesiastes 8:8",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 8:8",
+          "segment_mode": "whole",
+          "sha256": "ac60bab5a6d930c4550807ee416609024dbb6473616c383bfefac0c2f09e5278"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ac60bab5a6d930c4550807ee416609024dbb6473616c383bfefac0c2f09e5278",
+      "translation_sha256": "479ba806ea160d6feadfb9c19c3f9f2ef3e6c7766e4e05c868645374dedf2ffa",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:9",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 8:9",
+          "segment_mode": "whole",
+          "sha256": "91f7f96268486fb7d9b31b3420890371d4f9217d5bda7f9240fd774ac62fd227"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "91f7f96268486fb7d9b31b3420890371d4f9217d5bda7f9240fd774ac62fd227",
+      "translation_sha256": "e8a7b2a9f694d286219307e47421996ba77bd5412648fd4c99a5c19a2ab35722",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:10",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 8:10",
+          "segment_mode": "whole",
+          "sha256": "f51d71a5b8009b64e00754fa5f32e603c9f3e5209b14e6d9b00527a3d163132e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f51d71a5b8009b64e00754fa5f32e603c9f3e5209b14e6d9b00527a3d163132e",
+      "translation_sha256": "5a14043460d6c50fc1fa58aeef672494e3d1d8a8cfb7c8b6800605ccd84fd60d",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:11",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 8:11",
+          "segment_mode": "whole",
+          "sha256": "ba75efb5fb3aaae5fe30d7f6b4e558a950ff02e864403bea10d8560b3694cff6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ba75efb5fb3aaae5fe30d7f6b4e558a950ff02e864403bea10d8560b3694cff6",
+      "translation_sha256": "3de5237fdbf534e124997189686a0ae95ccd915e24f8321801fa0e2e3ab0788f",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Ecclesiastes 8:12",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 8:12",
+          "segment_mode": "whole",
+          "sha256": "8ef1ffa96eac0c00935d129549e672e7798c09cf949694ecb7d08fe48f635675"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8ef1ffa96eac0c00935d129549e672e7798c09cf949694ecb7d08fe48f635675",
+      "translation_sha256": "9fd73aaac4ca6db0568aa083b97624624cf0d6f79ca0f4e7b406561f7f05bb1d",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:13",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 13,
+          "source_ref": "Ecclesiastes 8:13",
+          "segment_mode": "whole",
+          "sha256": "4efd5ea69ba4c0785a9c48ffca0ec23492785c292929f5e25f5a56f22a0afa84"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4efd5ea69ba4c0785a9c48ffca0ec23492785c292929f5e25f5a56f22a0afa84",
+      "translation_sha256": "9e479bf1763bb522a250535df29ee09a968909ecd5d0fd4b181004f2a909e686",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:14",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 14,
+          "source_ref": "Ecclesiastes 8:14",
+          "segment_mode": "whole",
+          "sha256": "9590e23ee018a77fddf5590f464c4369e59f70f08f2dd0405e498a28bcd59d53"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9590e23ee018a77fddf5590f464c4369e59f70f08f2dd0405e498a28bcd59d53",
+      "translation_sha256": "1c6b58ec8240bb7c4434a0a936cf0e084428673ae129401b582297989c0914de",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:15",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 15,
+          "source_ref": "Ecclesiastes 8:15",
+          "segment_mode": "whole",
+          "sha256": "d659a3bd8b6c6783f3a257c60dfbdba695466150d145f6d449497a85ea036c9b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d659a3bd8b6c6783f3a257c60dfbdba695466150d145f6d449497a85ea036c9b",
+      "translation_sha256": "4326184dee549da8589b2456d56f2e1ab1f4f82958dd6659693c5bc8d7fe8058",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:16",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 16,
+          "source_ref": "Ecclesiastes 8:16",
+          "segment_mode": "whole",
+          "sha256": "7d6482d3feb0384e2a78941ba9c77d72602f5b22c30908f6128a768764f84ea9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7d6482d3feb0384e2a78941ba9c77d72602f5b22c30908f6128a768764f84ea9",
+      "translation_sha256": "e9702fef4aaa91554b4cfd64aec02a25ea9df0aacdc0e316ecc9b2c02c187427",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 8,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 8:17",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 17,
+          "source_ref": "Ecclesiastes 8:17",
+          "segment_mode": "whole",
+          "sha256": "c8042b150acab00192af359f6104b7e015c53d4e44fdea3095882ce3cd747814"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c8042b150acab00192af359f6104b7e015c53d4e44fdea3095882ce3cd747814",
+      "translation_sha256": "a4b29b7a75d470e710ffb4026bbe7b364854c97042c872d0feb57d91334988b8",
+      "tsw_blob_sha": "700f5fa008e5266d4ca09a530fcc15f3b3ef382b",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:1",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 9:1",
+          "segment_mode": "whole",
+          "sha256": "3a871b287fbd1090d2c5cb68a2561a52e416103dc4766fb21852cd2c4d0644be"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3a871b287fbd1090d2c5cb68a2561a52e416103dc4766fb21852cd2c4d0644be",
+      "translation_sha256": "5724ee6e123ae284bd00d97b50b969673136552f6fa1aa4925704acd61691ce6",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:2",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 9:2",
+          "segment_mode": "whole",
+          "sha256": "8e8c88f0d8b5a613ee5ff496c020340655abe257eef0fc9ec1a427109a5b5654"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8e8c88f0d8b5a613ee5ff496c020340655abe257eef0fc9ec1a427109a5b5654",
+      "translation_sha256": "6069b2f726a0a7241a5a6b1331739aced9f5aa9092ccdeef470737a43316c4fb",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:3",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 9:3",
+          "segment_mode": "whole",
+          "sha256": "14526cd41ce0199603e7512130b80355db04465b43a6ebb7c5b896444cac67cd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "14526cd41ce0199603e7512130b80355db04465b43a6ebb7c5b896444cac67cd",
+      "translation_sha256": "bf907a3b9301cff88d014329d6ee7c81e33a959aefde642bb20eae7f335752d9",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:4",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 9:4",
+          "segment_mode": "whole",
+          "sha256": "db51a2bb9e1846b8138c66ed1a62f04ca4d0152b0e9c3000067c5a97cce22319"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "db51a2bb9e1846b8138c66ed1a62f04ca4d0152b0e9c3000067c5a97cce22319",
+      "translation_sha256": "30d78fb77004f1bbcbb1c131767a880fa7d93a06d579ed48ff2649a7cc4c9b24",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:5",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 9:5",
+          "segment_mode": "whole",
+          "sha256": "6c8305d1e8c9aa9dfffec40ab4515ea93db91762684a019b42df4ffede58e238"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6c8305d1e8c9aa9dfffec40ab4515ea93db91762684a019b42df4ffede58e238",
+      "translation_sha256": "ea77801ddbe3d99441b3c1c6116d97bfdcc4387bb9608c6509946c75069fd849",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:6",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 9:6",
+          "segment_mode": "whole",
+          "sha256": "55a2bb67476a63471a80ec1eae6fad63eef654a471fd8b9561aa09229b83107b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "55a2bb67476a63471a80ec1eae6fad63eef654a471fd8b9561aa09229b83107b",
+      "translation_sha256": "a107f05a69bd2dac804f0248ebeccc5872c47353ef389046dd150b5695c2a09d",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:7",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 9:7",
+          "segment_mode": "whole",
+          "sha256": "1d97b59fcd9a89633e31e24dda6a4e79fb32e7f92aaef25e9adae1ba450538a4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1d97b59fcd9a89633e31e24dda6a4e79fb32e7f92aaef25e9adae1ba450538a4",
+      "translation_sha256": "9ec2666278c75d471cf40511db4cdccc7309d87098e092a1639839e9fe2cfb91",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:8",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 9:8",
+          "segment_mode": "whole",
+          "sha256": "28ff150fb8b42693c18c099868740b8dd9870ae7286657d0bbe4160fb0bd036f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "28ff150fb8b42693c18c099868740b8dd9870ae7286657d0bbe4160fb0bd036f",
+      "translation_sha256": "a8ff29d6e2caf3dfca5bea20d88a85c4f429537da4effd520beaccaf09c4e284",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:9",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 9:9",
+          "segment_mode": "whole",
+          "sha256": "0b7d96de97f7e837a43b151849a297269e79d635a8017f6ce4b62392f4d9ac66"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0b7d96de97f7e837a43b151849a297269e79d635a8017f6ce4b62392f4d9ac66",
+      "translation_sha256": "d4cc94133166ccaef7022623d976b1f8291533423b494529ec3b7a17248814a9",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:10",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 9:10",
+          "segment_mode": "whole",
+          "sha256": "d2d492ffcf51a44fbaaa22125ceac37ae98ba037a6afbd2f2b082e58c06f3f7b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d2d492ffcf51a44fbaaa22125ceac37ae98ba037a6afbd2f2b082e58c06f3f7b",
+      "translation_sha256": "da0bd5b5608089c845537166198a475a25e16dcca213360ff9eaffa3fd36ff6f",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:11",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 9:11",
+          "segment_mode": "whole",
+          "sha256": "cd34814b1303881eaa64d86a8475ab204f2a737e97c2013aa665534225c9878f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cd34814b1303881eaa64d86a8475ab204f2a737e97c2013aa665534225c9878f",
+      "translation_sha256": "253b09d03c0ec06aeaa76e60252cebfefd25b252a673b50c2c2e64d5143385b8",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 9:12",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 9:12",
+          "segment_mode": "whole",
+          "sha256": "f831f0ebc9359aea6a2277207b2273b674386bffaa6c478584abb61a8d962ff7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f831f0ebc9359aea6a2277207b2273b674386bffaa6c478584abb61a8d962ff7",
+      "translation_sha256": "a164c1b8df54ef14301600812c2672d1199b8ce919f7f01ae0bce4a4a188c51a",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": [
+        "Keep death, love, enjoyment, work, contingency, and human limitation together."
+      ]
+    },
+    {
+      "chapter": 9,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 9:13",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 13,
+          "source_ref": "Ecclesiastes 9:13",
+          "segment_mode": "whole",
+          "sha256": "7ff5d633c9982349794e4c7929f2a96d5fd26937a90141a418356325538ad9f8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7ff5d633c9982349794e4c7929f2a96d5fd26937a90141a418356325538ad9f8",
+      "translation_sha256": "01c64ce03a9fafa0a1780e993e2aa784bab7e2f326e12794d4b92c8e6265a16e",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 9:14",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 14,
+          "source_ref": "Ecclesiastes 9:14",
+          "segment_mode": "whole",
+          "sha256": "2d7542c9e08a32f4cc3085d7f50d110769471dc3abf6456e77f4afdd4edabd56"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2d7542c9e08a32f4cc3085d7f50d110769471dc3abf6456e77f4afdd4edabd56",
+      "translation_sha256": "e1f3cf4d5d9e373faebe2bb6684ec9a8f4fbd19dc5260d93f42b4c85567fcb10",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 9:15",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 15,
+          "source_ref": "Ecclesiastes 9:15",
+          "segment_mode": "whole",
+          "sha256": "9e21e728e7c37154f1df66ad4de57736b1fcdb49332453d9ce1e25cbb2303cea"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9e21e728e7c37154f1df66ad4de57736b1fcdb49332453d9ce1e25cbb2303cea",
+      "translation_sha256": "1b6f6f1ce2fc277750ac50138ab2bb4f63b2b17bc9673264a7fd8e948f115f6a",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 9:16",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 16,
+          "source_ref": "Ecclesiastes 9:16",
+          "segment_mode": "whole",
+          "sha256": "ff3fe4cb78998cb925b7cd2a992e7d7325191e7c3fcbb4360bdd076872ee74e1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ff3fe4cb78998cb925b7cd2a992e7d7325191e7c3fcbb4360bdd076872ee74e1",
+      "translation_sha256": "d938e3814b7a344ab66bda223ec027512138d5611631fd82ebc0d45d0e31e284",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 9:17",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 17,
+          "source_ref": "Ecclesiastes 9:17",
+          "segment_mode": "whole",
+          "sha256": "da86c2e731a8836b49ad52d6838deb5c78c4229781e918af1d660d4c8c675f6e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "da86c2e731a8836b49ad52d6838deb5c78c4229781e918af1d660d4c8c675f6e",
+      "translation_sha256": "22a7b11523b03177c74576a480d45ff6e77b92ab544c6b3f486926acc713491e",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 9,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 9:18",
+      "source_records": [
+        {
+          "chapter": 9,
+          "verse": 18,
+          "source_ref": "Ecclesiastes 9:18",
+          "segment_mode": "whole",
+          "sha256": "0f9c869ea77e8793bfe3f07746303ebf925a0980a662b5e1506640c0aee6f364"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0f9c869ea77e8793bfe3f07746303ebf925a0980a662b5e1506640c0aee6f364",
+      "translation_sha256": "2f3335d34533b1d55994a3b7d65fed3325815953c3479849fee7ce4fc3714eda",
+      "tsw_blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:1",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 10:1",
+          "segment_mode": "whole",
+          "sha256": "bfe1270541727d064001f80fa438e2f40e70f9e46e4d3c2b44a7da13a086f339"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bfe1270541727d064001f80fa438e2f40e70f9e46e4d3c2b44a7da13a086f339",
+      "translation_sha256": "08bfd5491a1740477337f74f4764b564e3baf9315b2f6d3a043a09cb904180c3",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:2",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 10:2",
+          "segment_mode": "whole",
+          "sha256": "e9097f77d6b5d7cd3f093c7a2a318776155917f065b7dd59a56a7cbebcbaf24b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e9097f77d6b5d7cd3f093c7a2a318776155917f065b7dd59a56a7cbebcbaf24b",
+      "translation_sha256": "8db9a20dcfa944ee91eddcf591e5bacb5e98ad70ba330a99a7a16942e201bd0a",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:3",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 10:3",
+          "segment_mode": "whole",
+          "sha256": "f6ac4fe8ab7385ecc1bea61877dea07d93c541277470134e61da04155a8db2d3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f6ac4fe8ab7385ecc1bea61877dea07d93c541277470134e61da04155a8db2d3",
+      "translation_sha256": "3d11d8d453be7d2b369c22063b888806d7789369dc991dec112379a649989d6b",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:4",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 10:4",
+          "segment_mode": "whole",
+          "sha256": "4e3160735dbcfb9e2901f42a8b4c718ebc44d8feb3f8202d875379fa2bb4d36d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4e3160735dbcfb9e2901f42a8b4c718ebc44d8feb3f8202d875379fa2bb4d36d",
+      "translation_sha256": "ae5ede4f0ad4147a63060842172a15222e6da2a50eb7e6c34cd7d3b73b701dc0",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:5",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 10:5",
+          "segment_mode": "whole",
+          "sha256": "07b55813909b4eda858ad6f2d86b5bd27709246554df355cc9a55a104576a812"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "07b55813909b4eda858ad6f2d86b5bd27709246554df355cc9a55a104576a812",
+      "translation_sha256": "0823c21940b9a016ea8367ce7d9244546b1770aabc87d5d3229d020976e7d1ac",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:6",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 10:6",
+          "segment_mode": "whole",
+          "sha256": "d4e9215890fbb205e0fceb2f4602ea5905b8249914f5cae9460c000ae4f32679"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d4e9215890fbb205e0fceb2f4602ea5905b8249914f5cae9460c000ae4f32679",
+      "translation_sha256": "9a242047ce6915d00d9bb3180a02824b612f5026e7f132b3d01a84728f98df41",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:7",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 10:7",
+          "segment_mode": "whole",
+          "sha256": "34a08874f8668e1007127180b7b6eb7015db730eb814f4ec591e4cd2f8242e1d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "34a08874f8668e1007127180b7b6eb7015db730eb814f4ec591e4cd2f8242e1d",
+      "translation_sha256": "76b3c8fcda4e6b275887e72b12476491166ce2c18e0019d7ae1b48ae57bce408",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:8",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 10:8",
+          "segment_mode": "whole",
+          "sha256": "dad21c7a728cae5ca5a830a31bf08781f7339f735cac6160919afd13ce376b0a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dad21c7a728cae5ca5a830a31bf08781f7339f735cac6160919afd13ce376b0a",
+      "translation_sha256": "62f2661757b981c87654ce5d8f931167f95a82b9afc8f259e9686bf4524979ea",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:9",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 10:9",
+          "segment_mode": "whole",
+          "sha256": "ecec4861484ae0882e724361a25a0bb36fbcc8ab6472f32fa970d6384a8cc8d4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ecec4861484ae0882e724361a25a0bb36fbcc8ab6472f32fa970d6384a8cc8d4",
+      "translation_sha256": "d5e0a7c8e935c28fe4a819525894db4b53d912bc4c1859c0043de6084b006633",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:10",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 10:10",
+          "segment_mode": "whole",
+          "sha256": "092346e4010787adfae232c6a44e20f657b0b11011091c868f7199f42b5b9bce"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "092346e4010787adfae232c6a44e20f657b0b11011091c868f7199f42b5b9bce",
+      "translation_sha256": "7425db4dceed368043692dd1f10c577bd4284f26521f7c2b4956a052af82e46c",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:11",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 10:11",
+          "segment_mode": "whole",
+          "sha256": "b32c4a416cd92968a17017a3c2a6d176c8d7aea4f012b9458d9a8b0b5ff890e0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b32c4a416cd92968a17017a3c2a6d176c8d7aea4f012b9458d9a8b0b5ff890e0",
+      "translation_sha256": "5002a30165ca5f673e0297e4eaf0305ac24ca80d4d9f34f9896daa4a38a45271",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:12",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 10:12",
+          "segment_mode": "whole",
+          "sha256": "715d6efb8b1c67a6001473661d1413544a914f3acb8ab7c6d705563acdeff68e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "715d6efb8b1c67a6001473661d1413544a914f3acb8ab7c6d705563acdeff68e",
+      "translation_sha256": "a2107617b7d65ed1deac4328978606ffdc6d4a52633e91b51f960f06735d08f7",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:13",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 13,
+          "source_ref": "Ecclesiastes 10:13",
+          "segment_mode": "whole",
+          "sha256": "57250ba5a4ca5aa35e9a18f130dc8ff1dca352dfd054127969d5787601c89621"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "57250ba5a4ca5aa35e9a18f130dc8ff1dca352dfd054127969d5787601c89621",
+      "translation_sha256": "9d2d07f6ed41d7779943214fc1678bf458aadea0f5cc31330ca2412fc3a4c0d2",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:14",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 14,
+          "source_ref": "Ecclesiastes 10:14",
+          "segment_mode": "whole",
+          "sha256": "84e86ef72e151fbb1ae565fd081a8c94e418694fc731001a1240c008c4ac5f46"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "84e86ef72e151fbb1ae565fd081a8c94e418694fc731001a1240c008c4ac5f46",
+      "translation_sha256": "538ed3c860ce950838705092f4f3a53d84eeb1e8dcfe91116f6e727b244bee7c",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:15",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 15,
+          "source_ref": "Ecclesiastes 10:15",
+          "segment_mode": "whole",
+          "sha256": "13e9e31b8214d2fc5c08f67076db3c4dd27796a7a0b5519ca54d6f348271d8bd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "13e9e31b8214d2fc5c08f67076db3c4dd27796a7a0b5519ca54d6f348271d8bd",
+      "translation_sha256": "8f2f2cfc4a200fc091d7792fc325e9374e93a9e980bffd8b3a3da658ebeb3021",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:16",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 16,
+          "source_ref": "Ecclesiastes 10:16",
+          "segment_mode": "whole",
+          "sha256": "11d5feea5bff80c30d538ac2fb93680df5e622783e74fcf7d11db3d7b8ca9b65"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "11d5feea5bff80c30d538ac2fb93680df5e622783e74fcf7d11db3d7b8ca9b65",
+      "translation_sha256": "e09a0fd0366e50eea5fbe66310ed08bcfe83d9edba6bc9904238f08d9310f2b8",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:17",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 17,
+          "source_ref": "Ecclesiastes 10:17",
+          "segment_mode": "whole",
+          "sha256": "ffde860a195dbb15cc57401458f8bb9b173b15de918d1eb06b78f650a3048970"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ffde860a195dbb15cc57401458f8bb9b173b15de918d1eb06b78f650a3048970",
+      "translation_sha256": "1467a53b749006c6553a8e26cce7c6e290e2d43f442a0aac418e2dbba58c06c5",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:18",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 18,
+          "source_ref": "Ecclesiastes 10:18",
+          "segment_mode": "whole",
+          "sha256": "26c9e09fd507ba121a37ba5a399784e373a6110744137fc34fa580781b7b4176"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "26c9e09fd507ba121a37ba5a399784e373a6110744137fc34fa580781b7b4176",
+      "translation_sha256": "033c3a5113ef14ef044071a6fb6f6e6d7235acab6403acebff607c8d426c05cb",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:19",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 19,
+          "source_ref": "Ecclesiastes 10:19",
+          "segment_mode": "whole",
+          "sha256": "72c9f432d0cec6a6975f046897ecebcd3bf28491eea9b57e74f76fbd27b063ad"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "72c9f432d0cec6a6975f046897ecebcd3bf28491eea9b57e74f76fbd27b063ad",
+      "translation_sha256": "de023cc85520c54f73b85df214404442d81a0b81665e94efb4be0e8b9842dd48",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 10,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 10:20",
+      "source_records": [
+        {
+          "chapter": 10,
+          "verse": 20,
+          "source_ref": "Ecclesiastes 10:20",
+          "segment_mode": "whole",
+          "sha256": "9e09b40d6678c618a8c2f12aeec13fdac5d5fdb414f3551b7d5ff067ce24e019"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9e09b40d6678c618a8c2f12aeec13fdac5d5fdb414f3551b7d5ff067ce24e019",
+      "translation_sha256": "361cca51d3f4bfb76919cec9d3405aeae16e94be2c516096b269ecc41d4a6199",
+      "tsw_blob_sha": "b75ccf53d8c9dcd8c86e7e8b2017cecf51145839",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 11:1",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 11:1",
+          "segment_mode": "whole",
+          "sha256": "ad80e4168bfc50f52d47c6380003ab0348aebec9aa9673c4396f3ee228673596"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ad80e4168bfc50f52d47c6380003ab0348aebec9aa9673c4396f3ee228673596",
+      "translation_sha256": "d84f0b925679e29c47e22403a777c6db1c9e102205e02f899a82153a449b801d",
+      "tsw_blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 11:2",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 11:2",
+          "segment_mode": "whole",
+          "sha256": "831b144f2063f8180dd6faac7c41abcd2f58e9e115d38b6052ca93590bc8bff0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "831b144f2063f8180dd6faac7c41abcd2f58e9e115d38b6052ca93590bc8bff0",
+      "translation_sha256": "92c9574b4496234519ee9006556e88ef760dc33d8957891577da43a15626b346",
+      "tsw_blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 11:3",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 11:3",
+          "segment_mode": "whole",
+          "sha256": "abd956b3571d5bc13d022adf56433beba4872ec46b39040f14e424fb1afa0be1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "abd956b3571d5bc13d022adf56433beba4872ec46b39040f14e424fb1afa0be1",
+      "translation_sha256": "3fd70419b448be70ae46b2cd456e729ddc81477d2aa03a30ed2b1889c02db174",
+      "tsw_blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 11:4",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 11:4",
+          "segment_mode": "whole",
+          "sha256": "264e1907bde35016fe65dc6ecc745bf868f399b6e17369bbeb5fa10f60268e9e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "264e1907bde35016fe65dc6ecc745bf868f399b6e17369bbeb5fa10f60268e9e",
+      "translation_sha256": "452a7266cc854b08efa52ccaa238086e3f715e9a95575a28eef011772712d078",
+      "tsw_blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 11:5",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 11:5",
+          "segment_mode": "whole",
+          "sha256": "87acaf804b88dd10a8c77dfdbb68da98cbbc9cf929a2c84e39eab23eb7476663"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "87acaf804b88dd10a8c77dfdbb68da98cbbc9cf929a2c84e39eab23eb7476663",
+      "translation_sha256": "232fb28823bc0f4f95ead3d48bc90512580a7ac065331ec3dcc057763a92895a",
+      "tsw_blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 11:6",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 11:6",
+          "segment_mode": "whole",
+          "sha256": "50fc8f890de8e2653b4bdb04e68b4509385f474f87738cc49992db0a5051912e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "50fc8f890de8e2653b4bdb04e68b4509385f474f87738cc49992db0a5051912e",
+      "translation_sha256": "6aa0dd480a59cf9cfc00f8b5cf51dd9dde534dc228630551ced75f6c53c73bd3",
+      "tsw_blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 11:7",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 11:7",
+          "segment_mode": "whole",
+          "sha256": "177e309141345bef523c8b19f6306563b43d50db445550ef1697184e30eeddae"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "177e309141345bef523c8b19f6306563b43d50db445550ef1697184e30eeddae",
+      "translation_sha256": "ed4555feeea5bfd97916508d2920e4d63acb51d66cd06abbdd6d6d0087807501",
+      "tsw_blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 11:8",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 11:8",
+          "segment_mode": "whole",
+          "sha256": "498ee9d0ea03f0d47d32101cacc8d5ed79d70d4220828627a4122720ef7ebb91"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "498ee9d0ea03f0d47d32101cacc8d5ed79d70d4220828627a4122720ef7ebb91",
+      "translation_sha256": "59f920fc2a379711f072401b6661ea709981ee58b68b8c58349d782d33e200e0",
+      "tsw_blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 11:9",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 11:9",
+          "segment_mode": "whole",
+          "sha256": "adb59e36875caed476a84bd212129691c7f6f22d62846bdcf4c566d8d9fff473"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "adb59e36875caed476a84bd212129691c7f6f22d62846bdcf4c566d8d9fff473",
+      "translation_sha256": "97674436455cf0e98075eca8d1159153d65b1cf4445311e18073b6494016547b",
+      "tsw_blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 11,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Ecclesiastes 11:10",
+      "source_records": [
+        {
+          "chapter": 11,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 11:10",
+          "segment_mode": "whole",
+          "sha256": "3218b2078afbc927cfc6f89c36aecfb717a08dbe04a4f6e2837218a9a3765329"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3218b2078afbc927cfc6f89c36aecfb717a08dbe04a4f6e2837218a9a3765329",
+      "translation_sha256": "58e9a3bf332742f436dafb926d58bda222b90bb59835d6991276991126a7c044",
+      "tsw_blob_sha": "543797311c7528f1226c6a3d7e4cba478516d791",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 12,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:1",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 1,
+          "source_ref": "Ecclesiastes 12:1",
+          "segment_mode": "whole",
+          "sha256": "456e3507fc6fb33595d5e130a06749ee837e10169d0cebef5f2b57ac95f6cf29"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "456e3507fc6fb33595d5e130a06749ee837e10169d0cebef5f2b57ac95f6cf29",
+      "translation_sha256": "1e17af586524a0af6f97ad92e96e9e2c98bd28d4f1fb9324e6be018e4dc4b252",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:2",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 2,
+          "source_ref": "Ecclesiastes 12:2",
+          "segment_mode": "whole",
+          "sha256": "b05bad15316b42fbd7291f2083a20d161a6ce7ea315b93e63ee32cfde863a494"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b05bad15316b42fbd7291f2083a20d161a6ce7ea315b93e63ee32cfde863a494",
+      "translation_sha256": "1c4af921d4fce4beaec2f57656fc0ab1b91c9dea9a68f23dafa96fa16c6ce948",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:3",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 3,
+          "source_ref": "Ecclesiastes 12:3",
+          "segment_mode": "whole",
+          "sha256": "29375d7d081b30db1ce6e51cda0cee80f21eb72ffaf5df67e0b88eb3bfc87ace"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "29375d7d081b30db1ce6e51cda0cee80f21eb72ffaf5df67e0b88eb3bfc87ace",
+      "translation_sha256": "1af54ff27779b2398813f058026d114efd0108c1ed9d6be5c133ef572aa527f4",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:4",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 4,
+          "source_ref": "Ecclesiastes 12:4",
+          "segment_mode": "whole",
+          "sha256": "d9ff5438330484530e2eb4b6f3d7d4c9618171d40dd3f44a7feb5ed1fc4b2c14"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d9ff5438330484530e2eb4b6f3d7d4c9618171d40dd3f44a7feb5ed1fc4b2c14",
+      "translation_sha256": "e7c528997c7702b5e59c18707d1ea4c181b77b69cfe069248e284c01ebc4b38e",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:5",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 5,
+          "source_ref": "Ecclesiastes 12:5",
+          "segment_mode": "whole",
+          "sha256": "3a9117a34ab14aaff8fc2cf6e2ec129bebba836a680453ebff3b80a21e8ec494"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3a9117a34ab14aaff8fc2cf6e2ec129bebba836a680453ebff3b80a21e8ec494",
+      "translation_sha256": "87b6f7be461a0bc395ff3801bf5232b9e2284b62d774a42687df7f67d84ee146",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:6",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 6,
+          "source_ref": "Ecclesiastes 12:6",
+          "segment_mode": "whole",
+          "sha256": "1f3e9b5824fe656afabe5e552c20b433ee5466bddcb9a9ea88f4c8acc6dc7cda"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1f3e9b5824fe656afabe5e552c20b433ee5466bddcb9a9ea88f4c8acc6dc7cda",
+      "translation_sha256": "ad6d24fed618423b2d848c290c43745f0c01900d1de5bfe9a84c1fae223fee83",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:7",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 7,
+          "source_ref": "Ecclesiastes 12:7",
+          "segment_mode": "whole",
+          "sha256": "c72d712c3617633340965ecd6fe1bc279edec8b27cfe9e0cfbc35dc25090217f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c72d712c3617633340965ecd6fe1bc279edec8b27cfe9e0cfbc35dc25090217f",
+      "translation_sha256": "a6c7fa57716d4f4a2ef668f68657c602f046cc887d368f191f48a8990e4d14ad",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:8",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 8,
+          "source_ref": "Ecclesiastes 12:8",
+          "segment_mode": "whole",
+          "sha256": "5e45e6b94cda89adc7df224c7fb2e27a7b409782d5a41baff4b5d0c5691c6b75"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5e45e6b94cda89adc7df224c7fb2e27a7b409782d5a41baff4b5d0c5691c6b75",
+      "translation_sha256": "98f977f458c0e40857af1e78b80f9018c56bef6484f28edcc4fa175e9f7368a0",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:9",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 9,
+          "source_ref": "Ecclesiastes 12:9",
+          "segment_mode": "whole",
+          "sha256": "8856526923cf1cfab61dd204f577727d57c91e50607f966f6ebf12b576e20a1f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8856526923cf1cfab61dd204f577727d57c91e50607f966f6ebf12b576e20a1f",
+      "translation_sha256": "7a5cfe350cff3818928f0c90aed32ec618c433fd7bd0d0f394a4654082d8066f",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:10",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 10,
+          "source_ref": "Ecclesiastes 12:10",
+          "segment_mode": "whole",
+          "sha256": "d8b1069a25b051789dae6f77179d88c7d41b42a140a073155d7cec0b9aad847c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d8b1069a25b051789dae6f77179d88c7d41b42a140a073155d7cec0b9aad847c",
+      "translation_sha256": "f006d60393283b65ccdea52f73ae9d7cf8f3a162d93c8204ecead7d9c7229717",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:11",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 11,
+          "source_ref": "Ecclesiastes 12:11",
+          "segment_mode": "whole",
+          "sha256": "f4b56017ed6c6db70dada06b2b2952bac291b894bf32d2e6ef989a85f8cd900b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f4b56017ed6c6db70dada06b2b2952bac291b894bf32d2e6ef989a85f8cd900b",
+      "translation_sha256": "ef01f15d7397d4acd77ae27d6ad49c23993f5f29aa3ff9b1fe80566537037652",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:12",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 12,
+          "source_ref": "Ecclesiastes 12:12",
+          "segment_mode": "whole",
+          "sha256": "4350bcf2e111196ec6480baaf9b7844f586982a9b5e40b03276895cdc4a8b31a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4350bcf2e111196ec6480baaf9b7844f586982a9b5e40b03276895cdc4a8b31a",
+      "translation_sha256": "b9909553795c4da79b618c29ae234af3a2469ae7e09dcd5eb11112d81ba0a915",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:13",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 13,
+          "source_ref": "Ecclesiastes 12:13",
+          "segment_mode": "whole",
+          "sha256": "c01bcdd38f31453b7bc85fc40d084073e5cca61e07b02ba99eb91464c0a2398e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c01bcdd38f31453b7bc85fc40d084073e5cca61e07b02ba99eb91464c0a2398e",
+      "translation_sha256": "ac4c000f9bb2481ed40e18dab141ea57dfe360e81b541eac36081e2454b1901d",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    },
+    {
+      "chapter": 12,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Ecclesiastes 12:14",
+      "source_records": [
+        {
+          "chapter": 12,
+          "verse": 14,
+          "source_ref": "Ecclesiastes 12:14",
+          "segment_mode": "whole",
+          "sha256": "3796fc187ce7d6c168ff0fdee8e306dd9a83a56401bde2e6e2838fd9280f9097"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3796fc187ce7d6c168ff0fdee8e306dd9a83a56401bde2e6e2838fd9280f9097",
+      "translation_sha256": "fee6b8b5ff14c1655e802a4c2e32fec06647e59baf11ef3370e0220f0e738229",
+      "tsw_blob_sha": "61907c0a8b2ffcfcdff136a931d220d17bf7da79",
+      "curated_decisions": [
+        "Preserve the aging poem's images and distinguish the epilogue's framing voice from the Teacher's speech."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 106,
+    "F1": 7,
+    "F2": 0,
+    "F3": 109
+  },
+  "public_verse_slots": 222,
+  "included_source_bindings": 222
+}

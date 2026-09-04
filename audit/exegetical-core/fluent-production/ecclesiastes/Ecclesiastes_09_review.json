@@ -1,0 +1,312 @@
+{
+  "book": "Ecclesiastes",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "9:1-12",
+      "decision": "Keep death, love, enjoyment, work, contingency, and human limitation together.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Eccl.xml",
+    "git_blob_sha": "1e4a3ec665921e032a2ed1613dd7d9767d8acc80",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ecclesiastes 9:1",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Ecclesiastes 9:1",
+            "segment_mode": "whole",
+            "sha256": "3a871b287fbd1090d2c5cb68a2561a52e416103dc4766fb21852cd2c4d0644be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a871b287fbd1090d2c5cb68a2561a52e416103dc4766fb21852cd2c4d0644be"
+      },
+      "2": {
+        "source_ref": "Ecclesiastes 9:2",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Ecclesiastes 9:2",
+            "segment_mode": "whole",
+            "sha256": "8e8c88f0d8b5a613ee5ff496c020340655abe257eef0fc9ec1a427109a5b5654"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e8c88f0d8b5a613ee5ff496c020340655abe257eef0fc9ec1a427109a5b5654"
+      },
+      "3": {
+        "source_ref": "Ecclesiastes 9:3",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Ecclesiastes 9:3",
+            "segment_mode": "whole",
+            "sha256": "14526cd41ce0199603e7512130b80355db04465b43a6ebb7c5b896444cac67cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14526cd41ce0199603e7512130b80355db04465b43a6ebb7c5b896444cac67cd"
+      },
+      "4": {
+        "source_ref": "Ecclesiastes 9:4",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Ecclesiastes 9:4",
+            "segment_mode": "whole",
+            "sha256": "db51a2bb9e1846b8138c66ed1a62f04ca4d0152b0e9c3000067c5a97cce22319"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db51a2bb9e1846b8138c66ed1a62f04ca4d0152b0e9c3000067c5a97cce22319"
+      },
+      "5": {
+        "source_ref": "Ecclesiastes 9:5",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Ecclesiastes 9:5",
+            "segment_mode": "whole",
+            "sha256": "6c8305d1e8c9aa9dfffec40ab4515ea93db91762684a019b42df4ffede58e238"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c8305d1e8c9aa9dfffec40ab4515ea93db91762684a019b42df4ffede58e238"
+      },
+      "6": {
+        "source_ref": "Ecclesiastes 9:6",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Ecclesiastes 9:6",
+            "segment_mode": "whole",
+            "sha256": "55a2bb67476a63471a80ec1eae6fad63eef654a471fd8b9561aa09229b83107b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "55a2bb67476a63471a80ec1eae6fad63eef654a471fd8b9561aa09229b83107b"
+      },
+      "7": {
+        "source_ref": "Ecclesiastes 9:7",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Ecclesiastes 9:7",
+            "segment_mode": "whole",
+            "sha256": "1d97b59fcd9a89633e31e24dda6a4e79fb32e7f92aaef25e9adae1ba450538a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d97b59fcd9a89633e31e24dda6a4e79fb32e7f92aaef25e9adae1ba450538a4"
+      },
+      "8": {
+        "source_ref": "Ecclesiastes 9:8",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Ecclesiastes 9:8",
+            "segment_mode": "whole",
+            "sha256": "28ff150fb8b42693c18c099868740b8dd9870ae7286657d0bbe4160fb0bd036f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "28ff150fb8b42693c18c099868740b8dd9870ae7286657d0bbe4160fb0bd036f"
+      },
+      "9": {
+        "source_ref": "Ecclesiastes 9:9",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Ecclesiastes 9:9",
+            "segment_mode": "whole",
+            "sha256": "0b7d96de97f7e837a43b151849a297269e79d635a8017f6ce4b62392f4d9ac66"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b7d96de97f7e837a43b151849a297269e79d635a8017f6ce4b62392f4d9ac66"
+      },
+      "10": {
+        "source_ref": "Ecclesiastes 9:10",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Ecclesiastes 9:10",
+            "segment_mode": "whole",
+            "sha256": "d2d492ffcf51a44fbaaa22125ceac37ae98ba037a6afbd2f2b082e58c06f3f7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2d492ffcf51a44fbaaa22125ceac37ae98ba037a6afbd2f2b082e58c06f3f7b"
+      },
+      "11": {
+        "source_ref": "Ecclesiastes 9:11",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Ecclesiastes 9:11",
+            "segment_mode": "whole",
+            "sha256": "cd34814b1303881eaa64d86a8475ab204f2a737e97c2013aa665534225c9878f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd34814b1303881eaa64d86a8475ab204f2a737e97c2013aa665534225c9878f"
+      },
+      "12": {
+        "source_ref": "Ecclesiastes 9:12",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "Ecclesiastes 9:12",
+            "segment_mode": "whole",
+            "sha256": "f831f0ebc9359aea6a2277207b2273b674386bffaa6c478584abb61a8d962ff7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f831f0ebc9359aea6a2277207b2273b674386bffaa6c478584abb61a8d962ff7"
+      },
+      "13": {
+        "source_ref": "Ecclesiastes 9:13",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "Ecclesiastes 9:13",
+            "segment_mode": "whole",
+            "sha256": "7ff5d633c9982349794e4c7929f2a96d5fd26937a90141a418356325538ad9f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ff5d633c9982349794e4c7929f2a96d5fd26937a90141a418356325538ad9f8"
+      },
+      "14": {
+        "source_ref": "Ecclesiastes 9:14",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "Ecclesiastes 9:14",
+            "segment_mode": "whole",
+            "sha256": "2d7542c9e08a32f4cc3085d7f50d110769471dc3abf6456e77f4afdd4edabd56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d7542c9e08a32f4cc3085d7f50d110769471dc3abf6456e77f4afdd4edabd56"
+      },
+      "15": {
+        "source_ref": "Ecclesiastes 9:15",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "Ecclesiastes 9:15",
+            "segment_mode": "whole",
+            "sha256": "9e21e728e7c37154f1df66ad4de57736b1fcdb49332453d9ce1e25cbb2303cea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e21e728e7c37154f1df66ad4de57736b1fcdb49332453d9ce1e25cbb2303cea"
+      },
+      "16": {
+        "source_ref": "Ecclesiastes 9:16",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 16,
+            "source_ref": "Ecclesiastes 9:16",
+            "segment_mode": "whole",
+            "sha256": "ff3fe4cb78998cb925b7cd2a992e7d7325191e7c3fcbb4360bdd076872ee74e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff3fe4cb78998cb925b7cd2a992e7d7325191e7c3fcbb4360bdd076872ee74e1"
+      },
+      "17": {
+        "source_ref": "Ecclesiastes 9:17",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 17,
+            "source_ref": "Ecclesiastes 9:17",
+            "segment_mode": "whole",
+            "sha256": "da86c2e731a8836b49ad52d6838deb5c78c4229781e918af1d660d4c8c675f6e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da86c2e731a8836b49ad52d6838deb5c78c4229781e918af1d660d4c8c675f6e"
+      },
+      "18": {
+        "source_ref": "Ecclesiastes 9:18",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 18,
+            "source_ref": "Ecclesiastes 9:18",
+            "segment_mode": "whole",
+            "sha256": "0f9c869ea77e8793bfe3f07746303ebf925a0980a662b5e1506640c0aee6f364"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f9c869ea77e8793bfe3f07746303ebf925a0980a662b5e1506640c0aee6f364"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ecclesiastes/Ecclesiastes_09.md",
+    "blob_sha": "4534d4d90e1f49b0dd502f0abbf060a493c3ca5c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
