@@ -1,0 +1,59 @@
+{
+  "book": "Jude",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 1,
+  "public_verse_slots": 25,
+  "included_verse_labels": 25,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 25,
+  "source": {
+    "type": "sblgnt",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Jude.txt",
+    "git_blob_sha": "acff675d2bda62ecbe081bb75a73788e71c521da"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:5",
+      "decision": "Retain the pinned SBLGNT reading naming Jesus as the one who saved a people from Egypt.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:6-9",
+      "decision": "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:14-15",
+      "decision": "Identify the Enochic citation in notes without treating translation as a canon ruling.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:22-23",
+      "decision": "Preserve the textual and pastoral tension among mercy, rescue, and fear.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_03",
+  "deployment_audit": {
+    "source_git_blob_sha": "acff675d2bda62ecbe081bb75a73788e71c521da",
+    "source_binding_count": 25,
+    "unique_source_record_count": 25,
+    "public_verse_slots": 25,
+    "ledger_summary": {
+      "F0": 14,
+      "F1": 2,
+      "F2": 0,
+      "F3": 9
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/jude/Jude_01.md",
+        "blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5"
+      }
+    }
+  }
+}

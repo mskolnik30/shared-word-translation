@@ -1,0 +1,564 @@
+{
+  "book": "Jude",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Jude.txt",
+    "git_blob_sha": "acff675d2bda62ecbe081bb75a73788e71c521da"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Jude 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Jude 1:1",
+          "segment_mode": "whole",
+          "sha256": "e01d940abbfc8ef1f6397f8d19f69d741d1582e6487324ceeb3d6c60d4c06c02"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e01d940abbfc8ef1f6397f8d19f69d741d1582e6487324ceeb3d6c60d4c06c02",
+      "translation_sha256": "4c6369003753ea1e34a2134365901451bba415b966c2fd8ae1fd3b58c7cf74bb",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Jude 1:2",
+          "segment_mode": "whole",
+          "sha256": "9e7c6c2234c22975ce3cf2aeb656bac716b3d50ed46fe7c540df084e1639ed0d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9e7c6c2234c22975ce3cf2aeb656bac716b3d50ed46fe7c540df084e1639ed0d",
+      "translation_sha256": "0b7ae57db2fb17b59a13544f7ce09ca24896ea6e41f00c05d5e63a1a11253614",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Jude 1:3",
+          "segment_mode": "whole",
+          "sha256": "f89899c1535e7919366a2540922208f6431de772fae7b1c588fa2d81f86f1cce"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f89899c1535e7919366a2540922208f6431de772fae7b1c588fa2d81f86f1cce",
+      "translation_sha256": "a2a3485f40a8bfb18df3b7354cccfa7ef1895785ec7578fdaf5db8f23075f42a",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Jude 1:4",
+          "segment_mode": "whole",
+          "sha256": "50ca15a40b712535216e015067ab3a11d2918db7287f01f4ced321a6c26f83ec"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "50ca15a40b712535216e015067ab3a11d2918db7287f01f4ced321a6c26f83ec",
+      "translation_sha256": "204fa14318decb3e7047551cbcf2a21b8cd259a06f6818ea4f1ef4ecd72fc7e3",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Jude 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Jude 1:5",
+          "segment_mode": "whole",
+          "sha256": "aefcc9bc89a235a3fbf65634e60e05db8fad980d5ffa1372d02c5701c5956f77"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aefcc9bc89a235a3fbf65634e60e05db8fad980d5ffa1372d02c5701c5956f77",
+      "translation_sha256": "9e9b2fc9ad941cca5c0963b624a4e9ba958757d6c0d7509581d3de4c5a5320d0",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": [
+        "Retain the pinned SBLGNT reading naming Jesus as the one who saved a people from Egypt."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Jude 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Jude 1:6",
+          "segment_mode": "whole",
+          "sha256": "b239eebcc3db2bba1910346085971b4e6738c4a2d49bcebe23729e9f84751f85"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b239eebcc3db2bba1910346085971b4e6738c4a2d49bcebe23729e9f84751f85",
+      "translation_sha256": "50e77107d96b956a92020eec3120f3e09c3649e3abfe1d4984c2f8dba2afb555",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": [
+        "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Jude 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Jude 1:7",
+          "segment_mode": "whole",
+          "sha256": "9289e40941ec75f1e7cdfb958aa227ade0533d25a4bf55e414ee1771640c0f01"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9289e40941ec75f1e7cdfb958aa227ade0533d25a4bf55e414ee1771640c0f01",
+      "translation_sha256": "f3ebd6dedc733052e7bcfe007572440232301018dc95aea60c9c4f88102d239d",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": [
+        "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Jude 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Jude 1:8",
+          "segment_mode": "whole",
+          "sha256": "4ed7d0cfcee17e3dde377bdda32f4f2bff2748ecd8eea68e72e3496d90c0fe93"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4ed7d0cfcee17e3dde377bdda32f4f2bff2748ecd8eea68e72e3496d90c0fe93",
+      "translation_sha256": "fd2267022032b4624d6cfb226a7ec4682e2a915e7cf4056becd064b6e3dc3db5",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": [
+        "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Jude 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Jude 1:9",
+          "segment_mode": "whole",
+          "sha256": "5d1b46211fc0a2a422b84ef13cde0a51cfba7ae90f28e860a3ab76478bf8382a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5d1b46211fc0a2a422b84ef13cde0a51cfba7ae90f28e860a3ab76478bf8382a",
+      "translation_sha256": "e34adae47ff56dde2963254c6124a485cd1ddfa569cf3c73c4662d44284a45e8",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": [
+        "Preserve allusions to Jewish interpretive traditions without supplying narratives the letter leaves implicit."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Jude 1:10",
+          "segment_mode": "whole",
+          "sha256": "f680d42dbc735226e88b88b6f5f7c68ae7b5db890fcf877b392fb67a83665792"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f680d42dbc735226e88b88b6f5f7c68ae7b5db890fcf877b392fb67a83665792",
+      "translation_sha256": "29ec2fb33683def3f7900c65fb79312f747bf0908319ecb2cf7b03325f27bd63",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Jude 1:11",
+          "segment_mode": "whole",
+          "sha256": "b0917a1a49bbda51b703f6ec27db9dd3376f826ee89c0a9dc1b6f171c4f316fd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b0917a1a49bbda51b703f6ec27db9dd3376f826ee89c0a9dc1b6f171c4f316fd",
+      "translation_sha256": "d5fb90d40b9d5725a28d0d24d13bdf17c556ce1e36ce72cd98ba488a3232404e",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Jude 1:12",
+          "segment_mode": "whole",
+          "sha256": "6a3d48946380316931c0655fe95220b2e831f1c1200e6e68d9fb920206dfcc5b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6a3d48946380316931c0655fe95220b2e831f1c1200e6e68d9fb920206dfcc5b",
+      "translation_sha256": "d8f18845eaf69083ae6208eb16ca95409a575c7bf979ca29e61ccb6aa63df35a",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Jude 1:13",
+          "segment_mode": "whole",
+          "sha256": "4e0f857f4564b4bf470e899ba62e0f3ab218e5664bf8cba9a83d477de9ea368f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4e0f857f4564b4bf470e899ba62e0f3ab218e5664bf8cba9a83d477de9ea368f",
+      "translation_sha256": "fa3926c0df1617a147fde1e651ecf9f7452ad49cd8d4bb94dc58e653c25ac090",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Jude 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Jude 1:14",
+          "segment_mode": "whole",
+          "sha256": "1b310a22eae5509d6cf519da91147fdfb0774689603752228ed748840f027b00"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1b310a22eae5509d6cf519da91147fdfb0774689603752228ed748840f027b00",
+      "translation_sha256": "ac8fe793337629a93a0a319773fc8982ba5b4920ccd2525df0ce62b7a8deeba1",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": [
+        "Identify the Enochic citation in notes without treating translation as a canon ruling."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Jude 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Jude 1:15",
+          "segment_mode": "whole",
+          "sha256": "7e85390f71fc3e4017a7b2700ae9c74ec08752730d4269186c51a54e591cae3d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7e85390f71fc3e4017a7b2700ae9c74ec08752730d4269186c51a54e591cae3d",
+      "translation_sha256": "3c214ba655c84105838ba3b6a52cb03a0a5b42a453ff1a19cb8958fee835641e",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": [
+        "Identify the Enochic citation in notes without treating translation as a canon ruling."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "Jude 1:16",
+          "segment_mode": "whole",
+          "sha256": "a90ceceeee1de4fc228afd57c64941935f5e4b6024555f4aa85cd3677877d3a0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a90ceceeee1de4fc228afd57c64941935f5e4b6024555f4aa85cd3677877d3a0",
+      "translation_sha256": "fb2ed2b7d5fe92e1811e3cbde5b5ddee1e1333f20f8f4e8b6447d108e99e9d93",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "Jude 1:17",
+          "segment_mode": "whole",
+          "sha256": "53bd46ad7faacf62f7828b1bfdfc6c22c38965c1c24ce58e89612dfc67598ba6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "53bd46ad7faacf62f7828b1bfdfc6c22c38965c1c24ce58e89612dfc67598ba6",
+      "translation_sha256": "3972387fc7204bcf3a086db8900c597a46240b43eb032871b59804c530e0785e",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:18",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 18,
+          "source_ref": "Jude 1:18",
+          "segment_mode": "whole",
+          "sha256": "4eb74c64298462628004d3b7b1d71c7a08774f56aae4c864d126608517e23639"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4eb74c64298462628004d3b7b1d71c7a08774f56aae4c864d126608517e23639",
+      "translation_sha256": "c7492b74d87c790588cb488bcef0ba12bce3476b6bc7fbe07fe8c329d2690de5",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:19",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 19,
+          "source_ref": "Jude 1:19",
+          "segment_mode": "whole",
+          "sha256": "03bcc99203290b0193af58be74349ad6c23babdd9af0de1a2b0929fea5559acd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "03bcc99203290b0193af58be74349ad6c23babdd9af0de1a2b0929fea5559acd",
+      "translation_sha256": "0ce3a26fb5dcd5f02537757831ec5b9b1f05adc12a8ed76af3c38d7e54559d1d",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:20",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 20,
+          "source_ref": "Jude 1:20",
+          "segment_mode": "whole",
+          "sha256": "519504e371aaa8a9ff53864912b6aad547bb232c15c0bb55cad460e30cfa6b3a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "519504e371aaa8a9ff53864912b6aad547bb232c15c0bb55cad460e30cfa6b3a",
+      "translation_sha256": "02809c3ab21ed0bf204b669d5b2594cd319a269a660d4da33132350bbb697bc5",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:21",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 21,
+          "source_ref": "Jude 1:21",
+          "segment_mode": "whole",
+          "sha256": "69556db81c26526bc9978ba376196926e39d17ac30c410625eb91be070e59fbc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "69556db81c26526bc9978ba376196926e39d17ac30c410625eb91be070e59fbc",
+      "translation_sha256": "6e8616d27ce1d32d92f670b1dbc2d1078b2ecd4a8625fb2428b5cb884f650032",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Jude 1:22",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 22,
+          "source_ref": "Jude 1:22",
+          "segment_mode": "whole",
+          "sha256": "9e15e6461fc01b0b31204ad560ec6f4bcda028e8a9ae8c30716a23aea0254ce0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9e15e6461fc01b0b31204ad560ec6f4bcda028e8a9ae8c30716a23aea0254ce0",
+      "translation_sha256": "f0b0809ac275733ab6df4c8ddd30b9c1625f2b983052c05c8d45498a95855465",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": [
+        "Preserve the textual and pastoral tension among mercy, rescue, and fear."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Jude 1:23",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 23,
+          "source_ref": "Jude 1:23",
+          "segment_mode": "whole",
+          "sha256": "64543122e1f9da81252640a828432ad075e060c61e4996158866aa2ea5d6efd5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "64543122e1f9da81252640a828432ad075e060c61e4996158866aa2ea5d6efd5",
+      "translation_sha256": "eb5b8b4de6eb48d8b523433575a3ad19009c60e8293a626e19f1d282f4b2f9c4",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": [
+        "Preserve the textual and pastoral tension among mercy, rescue, and fear."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 24,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Jude 1:24",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 24,
+          "source_ref": "Jude 1:24",
+          "segment_mode": "whole",
+          "sha256": "b90db82b8730530ebcd932ae5728c086cdb2d83c1ee47d4bcadabe46fbca94c0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b90db82b8730530ebcd932ae5728c086cdb2d83c1ee47d4bcadabe46fbca94c0",
+      "translation_sha256": "d438cf1c31cb5c55ab2ff5062c958e88d7482e5088f3da3dffb1e96945452b59",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 25,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Jude 1:25",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 25,
+          "source_ref": "Jude 1:25",
+          "segment_mode": "whole",
+          "sha256": "9ae9a068356d8a451ed966706b982b7437a0850f2c4460a881be653e14eaa7ab"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9ae9a068356d8a451ed966706b982b7437a0850f2c4460a881be653e14eaa7ab",
+      "translation_sha256": "9640b9a1d9f13304b40f9525400122609c997a4c809fd0f54def646f0a1ea51e",
+      "tsw_blob_sha": "ab9024ae73810a82ad70c8f7dffebe2eae75d7d5",
+      "curated_decisions": []
+    }
+  ],
+  "summary": {
+    "F0": 14,
+    "F1": 2,
+    "F2": 0,
+    "F3": 9
+  },
+  "public_verse_slots": 25,
+  "included_source_bindings": 25
+}
