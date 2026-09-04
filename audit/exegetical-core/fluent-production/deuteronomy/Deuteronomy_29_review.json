@@ -1,0 +1,471 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 29,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Deuteronomy 28:69 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 69,
+            "source_ref": "Deuteronomy 28:69 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "92c7ccf402175e6b5557ee4ce5dc3f5b0fe8a3ad1b1e01b181526781ca784d4e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "92c7ccf402175e6b5557ee4ce5dc3f5b0fe8a3ad1b1e01b181526781ca784d4e"
+      },
+      "2": {
+        "source_ref": "Deuteronomy 29:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 1,
+            "source_ref": "Deuteronomy 29:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1b4368d7b1e7d5271deb8525590eefbef89fb3429533c51ee5b617f1bf07061b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1b4368d7b1e7d5271deb8525590eefbef89fb3429533c51ee5b617f1bf07061b"
+      },
+      "3": {
+        "source_ref": "Deuteronomy 29:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 2,
+            "source_ref": "Deuteronomy 29:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "42191d0875d7012b024530618d669641b4ccae7b0b88c104ac4716e5d23544d6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "42191d0875d7012b024530618d669641b4ccae7b0b88c104ac4716e5d23544d6"
+      },
+      "4": {
+        "source_ref": "Deuteronomy 29:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 3,
+            "source_ref": "Deuteronomy 29:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0fbf6ec0d8d33ab4f0c4cef57979c67c154f4514a6b79cf93f7c2cc674c928b6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0fbf6ec0d8d33ab4f0c4cef57979c67c154f4514a6b79cf93f7c2cc674c928b6"
+      },
+      "5": {
+        "source_ref": "Deuteronomy 29:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 4,
+            "source_ref": "Deuteronomy 29:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "60bd4d0c095c24a8c4caf8aa721f16bbcb5d606781c4722c9e0d93e8b34e8a5e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "60bd4d0c095c24a8c4caf8aa721f16bbcb5d606781c4722c9e0d93e8b34e8a5e"
+      },
+      "6": {
+        "source_ref": "Deuteronomy 29:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 5,
+            "source_ref": "Deuteronomy 29:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9260b22bceef87e13d0acbcb2e52cef24742eb96e5c7a977cc21615b4ad76d86"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9260b22bceef87e13d0acbcb2e52cef24742eb96e5c7a977cc21615b4ad76d86"
+      },
+      "7": {
+        "source_ref": "Deuteronomy 29:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 6,
+            "source_ref": "Deuteronomy 29:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d7c72ea68868a8df53d0cd26a145945068ff262f36480596e9cb87e37ceeaec5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d7c72ea68868a8df53d0cd26a145945068ff262f36480596e9cb87e37ceeaec5"
+      },
+      "8": {
+        "source_ref": "Deuteronomy 29:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 7,
+            "source_ref": "Deuteronomy 29:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9f8e346d2ab7ac2aa8f0c6b15a26a5b0e03330de51d191a95eb986fe2875b9bf"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9f8e346d2ab7ac2aa8f0c6b15a26a5b0e03330de51d191a95eb986fe2875b9bf"
+      },
+      "9": {
+        "source_ref": "Deuteronomy 29:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 8,
+            "source_ref": "Deuteronomy 29:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "998221204f65d66e8af09dd10df65ce2da182f219f524ef5df848559fd697c79"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "998221204f65d66e8af09dd10df65ce2da182f219f524ef5df848559fd697c79"
+      },
+      "10": {
+        "source_ref": "Deuteronomy 29:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 9,
+            "source_ref": "Deuteronomy 29:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f1d95443b61f7a5cbdb4bbda82c4a45b7a52aeff3e871738ea657410d91af973"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f1d95443b61f7a5cbdb4bbda82c4a45b7a52aeff3e871738ea657410d91af973"
+      },
+      "11": {
+        "source_ref": "Deuteronomy 29:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 10,
+            "source_ref": "Deuteronomy 29:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a397b83a031a65961bbc5b9d320ac3da7ce82790802a6259227f71a84f59b9fc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a397b83a031a65961bbc5b9d320ac3da7ce82790802a6259227f71a84f59b9fc"
+      },
+      "12": {
+        "source_ref": "Deuteronomy 29:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 11,
+            "source_ref": "Deuteronomy 29:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "03d34ac4bbaffa91947f220de649ae125be66bc245daeac5dcde7e291725f221"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "03d34ac4bbaffa91947f220de649ae125be66bc245daeac5dcde7e291725f221"
+      },
+      "13": {
+        "source_ref": "Deuteronomy 29:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 12,
+            "source_ref": "Deuteronomy 29:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2437a93d8c15e2230bb91325a10a436ea98acba0225b320979769dc16ab18715"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2437a93d8c15e2230bb91325a10a436ea98acba0225b320979769dc16ab18715"
+      },
+      "14": {
+        "source_ref": "Deuteronomy 29:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 13,
+            "source_ref": "Deuteronomy 29:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e6ff419b07ec576b2d61f2f461d2a63773652c963bb107ba773ed634b5fcea90"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e6ff419b07ec576b2d61f2f461d2a63773652c963bb107ba773ed634b5fcea90"
+      },
+      "15": {
+        "source_ref": "Deuteronomy 29:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 14,
+            "source_ref": "Deuteronomy 29:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0409f11fd14e7fd2967b3580d63babf18137a4b4ad91aaa36de50a466581668c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0409f11fd14e7fd2967b3580d63babf18137a4b4ad91aaa36de50a466581668c"
+      },
+      "16": {
+        "source_ref": "Deuteronomy 29:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 15,
+            "source_ref": "Deuteronomy 29:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3e283e4f03956ea0a2a5b1bb178569f51ca2c67cb3cca0a9990e601480476469"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3e283e4f03956ea0a2a5b1bb178569f51ca2c67cb3cca0a9990e601480476469"
+      },
+      "17": {
+        "source_ref": "Deuteronomy 29:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 16,
+            "source_ref": "Deuteronomy 29:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5fc698737f785a5adb37d4a594bce73347b0d46435b31037aab1c5ee82ca460a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5fc698737f785a5adb37d4a594bce73347b0d46435b31037aab1c5ee82ca460a"
+      },
+      "18": {
+        "source_ref": "Deuteronomy 29:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 17,
+            "source_ref": "Deuteronomy 29:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2b7f47e60273d2d19ea3812d4d50fbd8cd8471dbfd43fea1bcbfa1942376f708"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2b7f47e60273d2d19ea3812d4d50fbd8cd8471dbfd43fea1bcbfa1942376f708"
+      },
+      "19": {
+        "source_ref": "Deuteronomy 29:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 18,
+            "source_ref": "Deuteronomy 29:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "59174996064ea66b13f75ef828ba1f4d6211b2a0d2171962f3108831e1903f8d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "59174996064ea66b13f75ef828ba1f4d6211b2a0d2171962f3108831e1903f8d"
+      },
+      "20": {
+        "source_ref": "Deuteronomy 29:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 19,
+            "source_ref": "Deuteronomy 29:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b320fcca87ab9e79e7c42ab21e3e03050486e278ea73104c1c26701f79ec39cc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b320fcca87ab9e79e7c42ab21e3e03050486e278ea73104c1c26701f79ec39cc"
+      },
+      "21": {
+        "source_ref": "Deuteronomy 29:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 20,
+            "source_ref": "Deuteronomy 29:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6e3fb6a317beccfa6e96914d709b1e3c7ba39c2c889019244c0f84fe522510f2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6e3fb6a317beccfa6e96914d709b1e3c7ba39c2c889019244c0f84fe522510f2"
+      },
+      "22": {
+        "source_ref": "Deuteronomy 29:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 21,
+            "source_ref": "Deuteronomy 29:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "99abbd34ee590610a60d2f0e69b5090d7e26ca4e44dcb9bb67d2b283aad5f4ba"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "99abbd34ee590610a60d2f0e69b5090d7e26ca4e44dcb9bb67d2b283aad5f4ba"
+      },
+      "23": {
+        "source_ref": "Deuteronomy 29:22 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 22,
+            "source_ref": "Deuteronomy 29:22 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0853135890eaee53f5038a332a15e0c32d5073db578dbfc37fbbde7aee063ab6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0853135890eaee53f5038a332a15e0c32d5073db578dbfc37fbbde7aee063ab6"
+      },
+      "24": {
+        "source_ref": "Deuteronomy 29:23 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 23,
+            "source_ref": "Deuteronomy 29:23 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "52fe91e94a05a117919837bae6c30d797e2ec07e97812cb05ebda5ea2e44a90f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "52fe91e94a05a117919837bae6c30d797e2ec07e97812cb05ebda5ea2e44a90f"
+      },
+      "25": {
+        "source_ref": "Deuteronomy 29:24 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 24,
+            "source_ref": "Deuteronomy 29:24 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "04ecf39abc178551aef246eccd104e5eafeeb82cc0a3a96fe9f032af352a18ef"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "04ecf39abc178551aef246eccd104e5eafeeb82cc0a3a96fe9f032af352a18ef"
+      },
+      "26": {
+        "source_ref": "Deuteronomy 29:25 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 25,
+            "source_ref": "Deuteronomy 29:25 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d704de3e17b7774eb6639ff9452f39fd7a3182d087f1346f42d09fbe68fed518"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d704de3e17b7774eb6639ff9452f39fd7a3182d087f1346f42d09fbe68fed518"
+      },
+      "27": {
+        "source_ref": "Deuteronomy 29:26 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 26,
+            "source_ref": "Deuteronomy 29:26 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4e80147ad7699b36c44941b0c5e1bcc727acc563234bd6b164671fdcb49d67b5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4e80147ad7699b36c44941b0c5e1bcc727acc563234bd6b164671fdcb49d67b5"
+      },
+      "28": {
+        "source_ref": "Deuteronomy 29:27 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 27,
+            "source_ref": "Deuteronomy 29:27 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "677d7b439217176d67e28c12cd4089904666ebd4d4338b65f0bf7309d17bbbf6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "677d7b439217176d67e28c12cd4089904666ebd4d4338b65f0bf7309d17bbbf6"
+      },
+      "29": {
+        "source_ref": "Deuteronomy 29:28 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 29,
+            "verse": 28,
+            "source_ref": "Deuteronomy 29:28 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "179c3bd232d87e9fb6651416e6230f2b9c99e7fdf0308c43757ce6005d244eae"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "179c3bd232d87e9fb6651416e6230f2b9c99e7fdf0308c43757ce6005d244eae"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/deuteronomy/Deuteronomy_29.md",
+    "blob_sha": "f430c244590279401d506c881070dc65f68b5af0"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

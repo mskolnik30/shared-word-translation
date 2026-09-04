@@ -1,0 +1,336 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Deuteronomy 8:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "Deuteronomy 8:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "05ab1eb74e94147d5ec1dea3857f9ac69fa335e2b0fdd3663e7d141764c8d389"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "05ab1eb74e94147d5ec1dea3857f9ac69fa335e2b0fdd3663e7d141764c8d389"
+      },
+      "2": {
+        "source_ref": "Deuteronomy 8:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "Deuteronomy 8:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fd123bc2086e02f7d39fb44e6e8f2617d63ebda39acb28887e005fb006ae36a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd123bc2086e02f7d39fb44e6e8f2617d63ebda39acb28887e005fb006ae36a5"
+      },
+      "3": {
+        "source_ref": "Deuteronomy 8:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "Deuteronomy 8:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32b080f2ec21806c14a8088eefdacca069612542edf95fc33fa13c727e22b0e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32b080f2ec21806c14a8088eefdacca069612542edf95fc33fa13c727e22b0e1"
+      },
+      "4": {
+        "source_ref": "Deuteronomy 8:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "Deuteronomy 8:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "de7705c3f32af93b95a05efb8ab9104d34b7bfe5939722fb2265e655f035e5d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de7705c3f32af93b95a05efb8ab9104d34b7bfe5939722fb2265e655f035e5d0"
+      },
+      "5": {
+        "source_ref": "Deuteronomy 8:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "Deuteronomy 8:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5bb42fc178eea70a050839ac27cd5a25cacf77b5ca733fb793f3869aa18cd0c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5bb42fc178eea70a050839ac27cd5a25cacf77b5ca733fb793f3869aa18cd0c8"
+      },
+      "6": {
+        "source_ref": "Deuteronomy 8:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "Deuteronomy 8:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ddf19b92020e7fd79d9bcc0086157ca7f8f590b8acdb9350a812643e277e6d60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ddf19b92020e7fd79d9bcc0086157ca7f8f590b8acdb9350a812643e277e6d60"
+      },
+      "7": {
+        "source_ref": "Deuteronomy 8:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "Deuteronomy 8:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2cf1ba5f9b827cba18fb00ed5949ed723247b1a815e3082be0abe3df9d743a67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2cf1ba5f9b827cba18fb00ed5949ed723247b1a815e3082be0abe3df9d743a67"
+      },
+      "8": {
+        "source_ref": "Deuteronomy 8:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "Deuteronomy 8:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e471d3d04caa009b11bba23f4ae0cb6ae8a663ce6349e795a7eea0706053bc4b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e471d3d04caa009b11bba23f4ae0cb6ae8a663ce6349e795a7eea0706053bc4b"
+      },
+      "9": {
+        "source_ref": "Deuteronomy 8:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "Deuteronomy 8:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bcffc92dcd3454d29674bc6790b722c7e439c87e5bb7b93d47f2218fb0b42d2d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bcffc92dcd3454d29674bc6790b722c7e439c87e5bb7b93d47f2218fb0b42d2d"
+      },
+      "10": {
+        "source_ref": "Deuteronomy 8:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "Deuteronomy 8:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f666f6835d8bb656aee7d917716fe998ddb53d24d75132839d87ef63d5d0ba28"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f666f6835d8bb656aee7d917716fe998ddb53d24d75132839d87ef63d5d0ba28"
+      },
+      "11": {
+        "source_ref": "Deuteronomy 8:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 11,
+            "source_ref": "Deuteronomy 8:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc67bdc26e5a4356d045ada4a8f92e670aa712ec21adf4754838452d062e63a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc67bdc26e5a4356d045ada4a8f92e670aa712ec21adf4754838452d062e63a8"
+      },
+      "12": {
+        "source_ref": "Deuteronomy 8:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 12,
+            "source_ref": "Deuteronomy 8:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04bb0da494c7c87f9a3e76578024f910d45fb044fd836bfbc28688af6f8a00ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04bb0da494c7c87f9a3e76578024f910d45fb044fd836bfbc28688af6f8a00ef"
+      },
+      "13": {
+        "source_ref": "Deuteronomy 8:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 13,
+            "source_ref": "Deuteronomy 8:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7bbd72d72b1e7b888de1d9e41205e3e4005c1071c1e0bf72b66358625afd307d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7bbd72d72b1e7b888de1d9e41205e3e4005c1071c1e0bf72b66358625afd307d"
+      },
+      "14": {
+        "source_ref": "Deuteronomy 8:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 14,
+            "source_ref": "Deuteronomy 8:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8b3f2ad77a9f3bafb89b7e0aca508ef43e98cad9f7c0dbe34eb03263f8a4e54d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b3f2ad77a9f3bafb89b7e0aca508ef43e98cad9f7c0dbe34eb03263f8a4e54d"
+      },
+      "15": {
+        "source_ref": "Deuteronomy 8:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 15,
+            "source_ref": "Deuteronomy 8:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "05c221025ccaa38a2e750d79bcd2c614fc6df3da5117b0935ea2bfc5db056dbe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "05c221025ccaa38a2e750d79bcd2c614fc6df3da5117b0935ea2bfc5db056dbe"
+      },
+      "16": {
+        "source_ref": "Deuteronomy 8:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 16,
+            "source_ref": "Deuteronomy 8:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "500da50dd7c3ae08485782a32893f9504fed054e8c55fc7993d12c7c306f6709"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "500da50dd7c3ae08485782a32893f9504fed054e8c55fc7993d12c7c306f6709"
+      },
+      "17": {
+        "source_ref": "Deuteronomy 8:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 17,
+            "source_ref": "Deuteronomy 8:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e802c24dca7875731bbb75c9b98fb326d717c9a71ea79f37ef9601a7f477c964"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e802c24dca7875731bbb75c9b98fb326d717c9a71ea79f37ef9601a7f477c964"
+      },
+      "18": {
+        "source_ref": "Deuteronomy 8:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 18,
+            "source_ref": "Deuteronomy 8:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f9c3d265a56601abff3f3004743d41c527392108a34829c93f953d6eaa8a3e90"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9c3d265a56601abff3f3004743d41c527392108a34829c93f953d6eaa8a3e90"
+      },
+      "19": {
+        "source_ref": "Deuteronomy 8:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 19,
+            "source_ref": "Deuteronomy 8:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd076c9b187f8fd2b8647cae9348fed27a9c4e08b30cd125e210999f7c9ee422"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd076c9b187f8fd2b8647cae9348fed27a9c4e08b30cd125e210999f7c9ee422"
+      },
+      "20": {
+        "source_ref": "Deuteronomy 8:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 20,
+            "source_ref": "Deuteronomy 8:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e17106535c2a539511bd8f527370b11f9db47e66e5121545f812c553610ac9ee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e17106535c2a539511bd8f527370b11f9db47e66e5121545f812c553610ac9ee"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/deuteronomy/Deuteronomy_08.md",
+    "blob_sha": "0c9fbbd30a39411bd127b1415272c2a7a817c2c6"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

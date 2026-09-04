@@ -1,0 +1,522 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 12,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "12:1-18:22",
+      "decision": "Retain worship centralization, communal care, leadership limits, and prophetic testing in context.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Deuteronomy 12:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 1,
+            "source_ref": "Deuteronomy 12:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b71af0fb244f5b3301ed528c3dc33907bc90b77d0f64837ac9b62e4e1e95079"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b71af0fb244f5b3301ed528c3dc33907bc90b77d0f64837ac9b62e4e1e95079"
+      },
+      "2": {
+        "source_ref": "Deuteronomy 12:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 2,
+            "source_ref": "Deuteronomy 12:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9685ff40452af11562e209ad7e29ed90610f9b7de34035fb184b8a18714a650e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9685ff40452af11562e209ad7e29ed90610f9b7de34035fb184b8a18714a650e"
+      },
+      "3": {
+        "source_ref": "Deuteronomy 12:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 3,
+            "source_ref": "Deuteronomy 12:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2768a541ac470a514b790e49f68cf27a6802bb2744b11a58d39cae789b5d696d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2768a541ac470a514b790e49f68cf27a6802bb2744b11a58d39cae789b5d696d"
+      },
+      "4": {
+        "source_ref": "Deuteronomy 12:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 4,
+            "source_ref": "Deuteronomy 12:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "324b1113585336993d1e986fd26a6af65101c50f121ff99c09d1258142c96800"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "324b1113585336993d1e986fd26a6af65101c50f121ff99c09d1258142c96800"
+      },
+      "5": {
+        "source_ref": "Deuteronomy 12:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 5,
+            "source_ref": "Deuteronomy 12:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d1e4deb867ec9239c3b23bc98cc3cdb805bf2db3dad241554aa659a9eb93c2ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1e4deb867ec9239c3b23bc98cc3cdb805bf2db3dad241554aa659a9eb93c2ab"
+      },
+      "6": {
+        "source_ref": "Deuteronomy 12:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 6,
+            "source_ref": "Deuteronomy 12:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "69e0ba86decf2a651bde75077aeb72fbff895a99b374d4bc4d91ca7b00ee973c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69e0ba86decf2a651bde75077aeb72fbff895a99b374d4bc4d91ca7b00ee973c"
+      },
+      "7": {
+        "source_ref": "Deuteronomy 12:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 7,
+            "source_ref": "Deuteronomy 12:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7d391ee0440d7d4e8c385410dd324713afc5212c99b10bc1705df55a369429d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d391ee0440d7d4e8c385410dd324713afc5212c99b10bc1705df55a369429d6"
+      },
+      "8": {
+        "source_ref": "Deuteronomy 12:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 8,
+            "source_ref": "Deuteronomy 12:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "44c16471cf1ad9fbc545378920882a19c4a88509d215ba97f901441e2caa558c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44c16471cf1ad9fbc545378920882a19c4a88509d215ba97f901441e2caa558c"
+      },
+      "9": {
+        "source_ref": "Deuteronomy 12:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 9,
+            "source_ref": "Deuteronomy 12:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6897f819298d30db4dcf8145056f26e679755626ff3c0aab159917a22bbc938c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6897f819298d30db4dcf8145056f26e679755626ff3c0aab159917a22bbc938c"
+      },
+      "10": {
+        "source_ref": "Deuteronomy 12:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 10,
+            "source_ref": "Deuteronomy 12:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4dace980b58ab61547e6ff2757300986df8b3d2727bd5216c2bd0504cd180999"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4dace980b58ab61547e6ff2757300986df8b3d2727bd5216c2bd0504cd180999"
+      },
+      "11": {
+        "source_ref": "Deuteronomy 12:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 11,
+            "source_ref": "Deuteronomy 12:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1793f4e881be4e0bbf15810c38b68a895d751229f8c84816fda294e049a56361"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1793f4e881be4e0bbf15810c38b68a895d751229f8c84816fda294e049a56361"
+      },
+      "12": {
+        "source_ref": "Deuteronomy 12:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 12,
+            "source_ref": "Deuteronomy 12:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fffdc62bc80da9369d267430bf842de01fe213a5983f53623e585319888db561"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fffdc62bc80da9369d267430bf842de01fe213a5983f53623e585319888db561"
+      },
+      "13": {
+        "source_ref": "Deuteronomy 12:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 13,
+            "source_ref": "Deuteronomy 12:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df90a00043adcecc9c821cd4cdacc10b00fec86f38cb992a31fdf105d9b5607a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df90a00043adcecc9c821cd4cdacc10b00fec86f38cb992a31fdf105d9b5607a"
+      },
+      "14": {
+        "source_ref": "Deuteronomy 12:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 14,
+            "source_ref": "Deuteronomy 12:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ea85fefcb45c6b2a0f87f4cf440fadcadc2bcd8e076a272c01f928edb3df35f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ea85fefcb45c6b2a0f87f4cf440fadcadc2bcd8e076a272c01f928edb3df35f"
+      },
+      "15": {
+        "source_ref": "Deuteronomy 12:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 15,
+            "source_ref": "Deuteronomy 12:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb057c959ccba8c3e7668689d2f79e94233bf21002bddd6546324a6d8df391ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb057c959ccba8c3e7668689d2f79e94233bf21002bddd6546324a6d8df391ce"
+      },
+      "16": {
+        "source_ref": "Deuteronomy 12:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 16,
+            "source_ref": "Deuteronomy 12:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8149a2f8ac2ba6b06b78acef507e671f23e3a82214a32edfc8de8c823095e771"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8149a2f8ac2ba6b06b78acef507e671f23e3a82214a32edfc8de8c823095e771"
+      },
+      "17": {
+        "source_ref": "Deuteronomy 12:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 17,
+            "source_ref": "Deuteronomy 12:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "47d8083d4a0c343a1c8ff1d947657783a6fd53604b6bce8cce6775cbea888ce8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "47d8083d4a0c343a1c8ff1d947657783a6fd53604b6bce8cce6775cbea888ce8"
+      },
+      "18": {
+        "source_ref": "Deuteronomy 12:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 18,
+            "source_ref": "Deuteronomy 12:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a917ca700348c11d5e6699901563b77e49700180ebf008533c8e8d21d7b22a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a917ca700348c11d5e6699901563b77e49700180ebf008533c8e8d21d7b22a6"
+      },
+      "19": {
+        "source_ref": "Deuteronomy 12:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 19,
+            "source_ref": "Deuteronomy 12:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2902168f1611ff9797d4b613e243d377eb1d9a30df07591290b1b1c100371c7e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2902168f1611ff9797d4b613e243d377eb1d9a30df07591290b1b1c100371c7e"
+      },
+      "20": {
+        "source_ref": "Deuteronomy 12:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 20,
+            "source_ref": "Deuteronomy 12:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b57a7de685188ca064582971233d1048164d69e0c52403605443a94979826bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b57a7de685188ca064582971233d1048164d69e0c52403605443a94979826bf"
+      },
+      "21": {
+        "source_ref": "Deuteronomy 12:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 21,
+            "source_ref": "Deuteronomy 12:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b0487d97c14422a6601789484895d03d546d55a99df6acfdb97710e54f7adb8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b0487d97c14422a6601789484895d03d546d55a99df6acfdb97710e54f7adb8"
+      },
+      "22": {
+        "source_ref": "Deuteronomy 12:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 22,
+            "source_ref": "Deuteronomy 12:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eef9029b9a0a26ccfa82864568c6c7fa98b36b79acefedc0faf9415a5e5b23e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eef9029b9a0a26ccfa82864568c6c7fa98b36b79acefedc0faf9415a5e5b23e9"
+      },
+      "23": {
+        "source_ref": "Deuteronomy 12:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 23,
+            "source_ref": "Deuteronomy 12:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "936a145be21060269f2c9e93246fdc3998202410779e2e219c40875f66fa558e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "936a145be21060269f2c9e93246fdc3998202410779e2e219c40875f66fa558e"
+      },
+      "24": {
+        "source_ref": "Deuteronomy 12:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 24,
+            "source_ref": "Deuteronomy 12:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec02480f5bc1e878ae4d7e2053ef25a482459b7dc029637d58799eb3967088e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec02480f5bc1e878ae4d7e2053ef25a482459b7dc029637d58799eb3967088e4"
+      },
+      "25": {
+        "source_ref": "Deuteronomy 12:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 25,
+            "source_ref": "Deuteronomy 12:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ab6658e2ffee07457b9718b55f027be034489eab8eed0b3d04ab996e9aa486d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab6658e2ffee07457b9718b55f027be034489eab8eed0b3d04ab996e9aa486d8"
+      },
+      "26": {
+        "source_ref": "Deuteronomy 12:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 26,
+            "source_ref": "Deuteronomy 12:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c7461689f4a7d21d19e5962222dda62db74416e23c68ef737c8b5bb7121bc009"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c7461689f4a7d21d19e5962222dda62db74416e23c68ef737c8b5bb7121bc009"
+      },
+      "27": {
+        "source_ref": "Deuteronomy 12:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 27,
+            "source_ref": "Deuteronomy 12:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed300509620128e96a202985eeaba417b6b20994d42b9c78218a290c47a6fce0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed300509620128e96a202985eeaba417b6b20994d42b9c78218a290c47a6fce0"
+      },
+      "28": {
+        "source_ref": "Deuteronomy 12:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 28,
+            "source_ref": "Deuteronomy 12:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "204c8ed0b01669c60400f05cf25f763aa954a836400e22fcdade4e7bcbece8cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "204c8ed0b01669c60400f05cf25f763aa954a836400e22fcdade4e7bcbece8cf"
+      },
+      "29": {
+        "source_ref": "Deuteronomy 12:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 29,
+            "source_ref": "Deuteronomy 12:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c3e116070f2a4781f27cf649537d64864c332f864557964744212701f7358555"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3e116070f2a4781f27cf649537d64864c332f864557964744212701f7358555"
+      },
+      "30": {
+        "source_ref": "Deuteronomy 12:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 30,
+            "source_ref": "Deuteronomy 12:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ff40564dc1ba4c303e920de8037b4e1b7a35f206c6caea6b7e5e42fddfe1b005"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff40564dc1ba4c303e920de8037b4e1b7a35f206c6caea6b7e5e42fddfe1b005"
+      },
+      "31": {
+        "source_ref": "Deuteronomy 12:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 31,
+            "source_ref": "Deuteronomy 12:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32718686ef994d4b80b13ab48d0c4380aebf623a69f444b27108b7f4e91928e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32718686ef994d4b80b13ab48d0c4380aebf623a69f444b27108b7f4e91928e6"
+      },
+      "32": {
+        "source_ref": "Deuteronomy 13:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Deuteronomy 13:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5d6077aa10924e439246f9613df2b89c24079c2779add8cea5618b792b537672"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5d6077aa10924e439246f9613df2b89c24079c2779add8cea5618b792b537672"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/deuteronomy/Deuteronomy_12.md",
+    "blob_sha": "b10f9135f81305a07b941b38150062c598101ac0"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,336 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 20,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Deuteronomy 20:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 1,
+            "source_ref": "Deuteronomy 20:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb26faea5915d319907b71cd3886af77d137818491ea9c28d9dc41ef301de1c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb26faea5915d319907b71cd3886af77d137818491ea9c28d9dc41ef301de1c9"
+      },
+      "2": {
+        "source_ref": "Deuteronomy 20:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 2,
+            "source_ref": "Deuteronomy 20:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc1da82f8edd3da69122257c993105f9eac3b6ef12bfe61a0d7db555d8a862f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc1da82f8edd3da69122257c993105f9eac3b6ef12bfe61a0d7db555d8a862f8"
+      },
+      "3": {
+        "source_ref": "Deuteronomy 20:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 3,
+            "source_ref": "Deuteronomy 20:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b55110bdf91e238b0d2a6a97fedd8e7fab209843ecca0c3e35e745934e3efa36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b55110bdf91e238b0d2a6a97fedd8e7fab209843ecca0c3e35e745934e3efa36"
+      },
+      "4": {
+        "source_ref": "Deuteronomy 20:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 4,
+            "source_ref": "Deuteronomy 20:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aeefeaedb7830bf1f0a0b63a5e1b73e72e07ac06ff6acdf51e4294967b144b0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aeefeaedb7830bf1f0a0b63a5e1b73e72e07ac06ff6acdf51e4294967b144b0c"
+      },
+      "5": {
+        "source_ref": "Deuteronomy 20:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 5,
+            "source_ref": "Deuteronomy 20:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1305595299ad035e8d28e5b3b0f27695fd3373690d2c90800b919a727b142e39"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1305595299ad035e8d28e5b3b0f27695fd3373690d2c90800b919a727b142e39"
+      },
+      "6": {
+        "source_ref": "Deuteronomy 20:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 6,
+            "source_ref": "Deuteronomy 20:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "97a33d9018b7dcf5773a857b41ace99b5d34d3c13c584a8606cf5f87931f73a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "97a33d9018b7dcf5773a857b41ace99b5d34d3c13c584a8606cf5f87931f73a3"
+      },
+      "7": {
+        "source_ref": "Deuteronomy 20:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 7,
+            "source_ref": "Deuteronomy 20:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d1f28b6ce6905c80ef140ac1d099c3bf3e8d6a6b29331cb975d0802c0950707"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d1f28b6ce6905c80ef140ac1d099c3bf3e8d6a6b29331cb975d0802c0950707"
+      },
+      "8": {
+        "source_ref": "Deuteronomy 20:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 8,
+            "source_ref": "Deuteronomy 20:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fcd055ff8fbe23f866dcf82e82c2899b65c2bb535c8768e89288b6d196523954"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fcd055ff8fbe23f866dcf82e82c2899b65c2bb535c8768e89288b6d196523954"
+      },
+      "9": {
+        "source_ref": "Deuteronomy 20:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 9,
+            "source_ref": "Deuteronomy 20:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "045ea95c33aaee78e37d8feaa1998779705c10dfe4cbd5e186a7505d6720f042"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "045ea95c33aaee78e37d8feaa1998779705c10dfe4cbd5e186a7505d6720f042"
+      },
+      "10": {
+        "source_ref": "Deuteronomy 20:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 10,
+            "source_ref": "Deuteronomy 20:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2042b3f5b7aeb43a19ced34978cef91a5473dc584c7a22214b866c0901135a5e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2042b3f5b7aeb43a19ced34978cef91a5473dc584c7a22214b866c0901135a5e"
+      },
+      "11": {
+        "source_ref": "Deuteronomy 20:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 11,
+            "source_ref": "Deuteronomy 20:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e99baf584aa2209af31e6a3f8b0e67a0b11bb7563d117a4ed51006a3ac1832a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e99baf584aa2209af31e6a3f8b0e67a0b11bb7563d117a4ed51006a3ac1832a8"
+      },
+      "12": {
+        "source_ref": "Deuteronomy 20:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 12,
+            "source_ref": "Deuteronomy 20:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d6ae4a7765fda3fc66e9153f1f9e295eb88e0c5fc76a38f84f9f4e674662846f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6ae4a7765fda3fc66e9153f1f9e295eb88e0c5fc76a38f84f9f4e674662846f"
+      },
+      "13": {
+        "source_ref": "Deuteronomy 20:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 13,
+            "source_ref": "Deuteronomy 20:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2239989e8ba491df05d1f4d92f5e39673cf734bbe7fad4370f9be297f00589d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2239989e8ba491df05d1f4d92f5e39673cf734bbe7fad4370f9be297f00589d3"
+      },
+      "14": {
+        "source_ref": "Deuteronomy 20:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 14,
+            "source_ref": "Deuteronomy 20:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e923f826cea651f883dd83541e04ed8e7a503cca7c4c474c73c9cf6ca232dde2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e923f826cea651f883dd83541e04ed8e7a503cca7c4c474c73c9cf6ca232dde2"
+      },
+      "15": {
+        "source_ref": "Deuteronomy 20:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 15,
+            "source_ref": "Deuteronomy 20:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4163f9bb480a0d3e6451393b63bc9b33cecbe0ee2c1fc04844a55503c175a6a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4163f9bb480a0d3e6451393b63bc9b33cecbe0ee2c1fc04844a55503c175a6a8"
+      },
+      "16": {
+        "source_ref": "Deuteronomy 20:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 16,
+            "source_ref": "Deuteronomy 20:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d20da2d7d772229d6144c5b77842cff274432b04141a26f69e188cef07bc3c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d20da2d7d772229d6144c5b77842cff274432b04141a26f69e188cef07bc3c8"
+      },
+      "17": {
+        "source_ref": "Deuteronomy 20:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 17,
+            "source_ref": "Deuteronomy 20:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "027705bce65b7cc0ec4be6b600ae1f06c59ce0b73af7ee730ea8429da141784b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "027705bce65b7cc0ec4be6b600ae1f06c59ce0b73af7ee730ea8429da141784b"
+      },
+      "18": {
+        "source_ref": "Deuteronomy 20:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 18,
+            "source_ref": "Deuteronomy 20:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cdbb8c09129cb1c06d9eadb5c06d59d2259171e73f8c73b7778f5d11a516c8d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cdbb8c09129cb1c06d9eadb5c06d59d2259171e73f8c73b7778f5d11a516c8d0"
+      },
+      "19": {
+        "source_ref": "Deuteronomy 20:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 19,
+            "source_ref": "Deuteronomy 20:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3282518f2999c02c65564d86ff3649083e74a51a3261d88c6156059e38e0aab5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3282518f2999c02c65564d86ff3649083e74a51a3261d88c6156059e38e0aab5"
+      },
+      "20": {
+        "source_ref": "Deuteronomy 20:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 20,
+            "source_ref": "Deuteronomy 20:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3be8148262cbc4efcf54db45baa00089a8b75749ffb97746c7a11ed931064f51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3be8148262cbc4efcf54db45baa00089a8b75749ffb97746c7a11ed931064f51"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/deuteronomy/Deuteronomy_20.md",
+    "blob_sha": "943d80d30908f8dbf3b312dfcad07d99ea602d1a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

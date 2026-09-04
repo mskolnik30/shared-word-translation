@@ -1,0 +1,201 @@
+{
+  "book": "Deuteronomy",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 34,
+  "public_verse_slots": 959,
+  "included_verse_labels": 959,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 959,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-4:43",
+      "decision": "Preserve Moses' retrospective rhetoric, communal memory, warning, and mercy.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:1-11:32",
+      "decision": "Keep covenant command, love, memory, land, obedience, and grace together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "12:1-18:22",
+      "decision": "Retain worship centralization, communal care, leadership limits, and prophetic testing in context.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "19:1-26:19",
+      "decision": "Translate justice, refuge, warfare, labor, sexual law, family duty, and vulnerable people's protections accurately and historically.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "27:1-30:20",
+      "decision": "Keep covenant ceremony, blessing, curse, restoration, nearness of the word, and choice of life together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "31:1-34:12",
+      "decision": "Preserve succession, song, warning, blessing, Moses' death, and the narrator's closing assessment.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "source_binding_count": 959,
+    "unique_source_record_count": 959,
+    "public_verse_slots": 959,
+    "ledger_summary": {
+      "F0": 6,
+      "F1": 0,
+      "F2": 0,
+      "F3": 953
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/deuteronomy/Deuteronomy_01.md",
+        "blob_sha": "79243fbfc0222192bc2809cd305b6058406d18e7"
+      },
+      "02": {
+        "path": "books/OT/deuteronomy/Deuteronomy_02.md",
+        "blob_sha": "45e29f6015d0b41d68461e380c5a4c1da46d8679"
+      },
+      "03": {
+        "path": "books/OT/deuteronomy/Deuteronomy_03.md",
+        "blob_sha": "631428354e7ccd4091b6fe2af901b527a51ba50e"
+      },
+      "04": {
+        "path": "books/OT/deuteronomy/Deuteronomy_04.md",
+        "blob_sha": "9055d96de7c43c8ba7b835895afda981172e361f"
+      },
+      "05": {
+        "path": "books/OT/deuteronomy/Deuteronomy_05.md",
+        "blob_sha": "151a05cf8dd63d1700594ea36f5bac3f8ddf332c"
+      },
+      "06": {
+        "path": "books/OT/deuteronomy/Deuteronomy_06.md",
+        "blob_sha": "c3dda99733ba17fd70fdd5abbcaec8f342c66265"
+      },
+      "07": {
+        "path": "books/OT/deuteronomy/Deuteronomy_07.md",
+        "blob_sha": "e2f418a2af8d47bc58e804c40f5f1eec4b9c4811"
+      },
+      "08": {
+        "path": "books/OT/deuteronomy/Deuteronomy_08.md",
+        "blob_sha": "0c9fbbd30a39411bd127b1415272c2a7a817c2c6"
+      },
+      "09": {
+        "path": "books/OT/deuteronomy/Deuteronomy_09.md",
+        "blob_sha": "17230b15ab16ad0f3f25518f61b7e2a48535fd8b"
+      },
+      "10": {
+        "path": "books/OT/deuteronomy/Deuteronomy_10.md",
+        "blob_sha": "6bcf5a9eedfe9e6f2b5a08e88e7367c828c0c71d"
+      },
+      "11": {
+        "path": "books/OT/deuteronomy/Deuteronomy_11.md",
+        "blob_sha": "de17290c0170e593c5b4f978d1fe5c3d7beb8a48"
+      },
+      "12": {
+        "path": "books/OT/deuteronomy/Deuteronomy_12.md",
+        "blob_sha": "b10f9135f81305a07b941b38150062c598101ac0"
+      },
+      "13": {
+        "path": "books/OT/deuteronomy/Deuteronomy_13.md",
+        "blob_sha": "0084cb1a87c869d6644829063c744d13d6733415"
+      },
+      "14": {
+        "path": "books/OT/deuteronomy/Deuteronomy_14.md",
+        "blob_sha": "19266adcd4898566460021cd30f6b491c543fa7e"
+      },
+      "15": {
+        "path": "books/OT/deuteronomy/Deuteronomy_15.md",
+        "blob_sha": "83c5eea4cf02bc43c4bd7b13deb54351c1538c16"
+      },
+      "16": {
+        "path": "books/OT/deuteronomy/Deuteronomy_16.md",
+        "blob_sha": "45d859f509bcca40b4d529724c83659212c2e078"
+      },
+      "17": {
+        "path": "books/OT/deuteronomy/Deuteronomy_17.md",
+        "blob_sha": "942f81ab76788ae74caea0b019813ba9a222e3aa"
+      },
+      "18": {
+        "path": "books/OT/deuteronomy/Deuteronomy_18.md",
+        "blob_sha": "4984b544e82e2f55ce3b8b57388f06172687f2d3"
+      },
+      "19": {
+        "path": "books/OT/deuteronomy/Deuteronomy_19.md",
+        "blob_sha": "cf727c5c9895565a7698f702b21326d907dcf2be"
+      },
+      "20": {
+        "path": "books/OT/deuteronomy/Deuteronomy_20.md",
+        "blob_sha": "943d80d30908f8dbf3b312dfcad07d99ea602d1a"
+      },
+      "21": {
+        "path": "books/OT/deuteronomy/Deuteronomy_21.md",
+        "blob_sha": "6c1446ee6441aef0720cbf741b3f6534220b1033"
+      },
+      "22": {
+        "path": "books/OT/deuteronomy/Deuteronomy_22.md",
+        "blob_sha": "6559543a0c30d36fa494501f1f3f1adb3af132cf"
+      },
+      "23": {
+        "path": "books/OT/deuteronomy/Deuteronomy_23.md",
+        "blob_sha": "0289dc13b43d5cf45eb28b1ad007e7b17173190e"
+      },
+      "24": {
+        "path": "books/OT/deuteronomy/Deuteronomy_24.md",
+        "blob_sha": "6d29956dec2cc33dad9b66b1efeed44647e20140"
+      },
+      "25": {
+        "path": "books/OT/deuteronomy/Deuteronomy_25.md",
+        "blob_sha": "c2314c46d406c2cb33c8be9a5d5e7da2f421a0c6"
+      },
+      "26": {
+        "path": "books/OT/deuteronomy/Deuteronomy_26.md",
+        "blob_sha": "90e2485a21b81870a75304d11e03d9279d8dc6ab"
+      },
+      "27": {
+        "path": "books/OT/deuteronomy/Deuteronomy_27.md",
+        "blob_sha": "1e9d57d04a0e85fdfbd95e779480e0cece197f38"
+      },
+      "28": {
+        "path": "books/OT/deuteronomy/Deuteronomy_28.md",
+        "blob_sha": "a1a0d76a06895fd51bcc2194424bd7e0b67bb53f"
+      },
+      "29": {
+        "path": "books/OT/deuteronomy/Deuteronomy_29.md",
+        "blob_sha": "f430c244590279401d506c881070dc65f68b5af0"
+      },
+      "30": {
+        "path": "books/OT/deuteronomy/Deuteronomy_30.md",
+        "blob_sha": "d94b9f5849d6832e2b54f032b97977fd8c04dfbf"
+      },
+      "31": {
+        "path": "books/OT/deuteronomy/Deuteronomy_31.md",
+        "blob_sha": "9e84e9da4f315173f30a4f183a3cfc3e58ac5c1f"
+      },
+      "32": {
+        "path": "books/OT/deuteronomy/Deuteronomy_32.md",
+        "blob_sha": "5847a501b917ddd0fd87a2cf2f70a79312e7286a"
+      },
+      "33": {
+        "path": "books/OT/deuteronomy/Deuteronomy_33.md",
+        "blob_sha": "f0ce46729218a2b2604070c4876f6c4ad975c4fa"
+      },
+      "34": {
+        "path": "books/OT/deuteronomy/Deuteronomy_34.md",
+        "blob_sha": "a42e5a4a57d07ce8b400e905e1e5405f36499515"
+      }
+    }
+  }
+}

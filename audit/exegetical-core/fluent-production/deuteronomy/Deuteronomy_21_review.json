@@ -1,0 +1,381 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 21,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Deuteronomy 21:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 1,
+            "source_ref": "Deuteronomy 21:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "22c5b7b740745ed99389b76b7015faeac9588bee622c618235c6e24a4435c246"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "22c5b7b740745ed99389b76b7015faeac9588bee622c618235c6e24a4435c246"
+      },
+      "2": {
+        "source_ref": "Deuteronomy 21:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 2,
+            "source_ref": "Deuteronomy 21:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "28bb3494c0b069a44c1c0c677f7370f082221f47e85353d4f6b93e4fe8aaeb32"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "28bb3494c0b069a44c1c0c677f7370f082221f47e85353d4f6b93e4fe8aaeb32"
+      },
+      "3": {
+        "source_ref": "Deuteronomy 21:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 3,
+            "source_ref": "Deuteronomy 21:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2e7de4228c293678e72698c2f006f820582ec1b48e41abe0c2d4332f64fe1788"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e7de4228c293678e72698c2f006f820582ec1b48e41abe0c2d4332f64fe1788"
+      },
+      "4": {
+        "source_ref": "Deuteronomy 21:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 4,
+            "source_ref": "Deuteronomy 21:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4962d3480d2cca22cce9af1848804007ec987d7002cc5ca407d8f4bd6981ce6f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4962d3480d2cca22cce9af1848804007ec987d7002cc5ca407d8f4bd6981ce6f"
+      },
+      "5": {
+        "source_ref": "Deuteronomy 21:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 5,
+            "source_ref": "Deuteronomy 21:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "17046dd87bcbfb88eb672ddf6d6f0cfb1ec5b0d096b5a70da47c198cecf32c0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17046dd87bcbfb88eb672ddf6d6f0cfb1ec5b0d096b5a70da47c198cecf32c0b"
+      },
+      "6": {
+        "source_ref": "Deuteronomy 21:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 6,
+            "source_ref": "Deuteronomy 21:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f4d4104ef8658450e681c688089abb0773533d1abc33d1c0d727bde083c7c8f5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4d4104ef8658450e681c688089abb0773533d1abc33d1c0d727bde083c7c8f5"
+      },
+      "7": {
+        "source_ref": "Deuteronomy 21:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 7,
+            "source_ref": "Deuteronomy 21:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5871922f49674a5da02b3d8141b546e2dd4042bc38a558cb90109804f245b755"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5871922f49674a5da02b3d8141b546e2dd4042bc38a558cb90109804f245b755"
+      },
+      "8": {
+        "source_ref": "Deuteronomy 21:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 8,
+            "source_ref": "Deuteronomy 21:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62dad9c20063608b92baff999e73b99e87280ab6bb9419d5ee1d01a156d7246d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62dad9c20063608b92baff999e73b99e87280ab6bb9419d5ee1d01a156d7246d"
+      },
+      "9": {
+        "source_ref": "Deuteronomy 21:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 9,
+            "source_ref": "Deuteronomy 21:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fccecc8aee73643e924cb5b8c87c6e4622b240e2de29055e503dfb7a5903c17a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fccecc8aee73643e924cb5b8c87c6e4622b240e2de29055e503dfb7a5903c17a"
+      },
+      "10": {
+        "source_ref": "Deuteronomy 21:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 10,
+            "source_ref": "Deuteronomy 21:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "274bd89e695217913a08f7e8d7a658d9da4cc91dce5ce95d7e9fae537a2b1e35"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "274bd89e695217913a08f7e8d7a658d9da4cc91dce5ce95d7e9fae537a2b1e35"
+      },
+      "11": {
+        "source_ref": "Deuteronomy 21:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 11,
+            "source_ref": "Deuteronomy 21:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b60d547eaf4b0efef944709b9a5e4c673e54e30ab3429fa67b040d6a80ea7685"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b60d547eaf4b0efef944709b9a5e4c673e54e30ab3429fa67b040d6a80ea7685"
+      },
+      "12": {
+        "source_ref": "Deuteronomy 21:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 12,
+            "source_ref": "Deuteronomy 21:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6ee33c1dc0b413874524a6afb8ed2f1a222b766d760aba1f4282f6e7336eba91"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ee33c1dc0b413874524a6afb8ed2f1a222b766d760aba1f4282f6e7336eba91"
+      },
+      "13": {
+        "source_ref": "Deuteronomy 21:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 13,
+            "source_ref": "Deuteronomy 21:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35ff43f5086a51c6d77688f86895b38bcf06f597a0af9f627dc9d60f1dc0e744"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35ff43f5086a51c6d77688f86895b38bcf06f597a0af9f627dc9d60f1dc0e744"
+      },
+      "14": {
+        "source_ref": "Deuteronomy 21:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 14,
+            "source_ref": "Deuteronomy 21:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d13012aad878bc4c6fd97a179f5580cf183d0411d6335cec4abfa5b6fbb46e45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d13012aad878bc4c6fd97a179f5580cf183d0411d6335cec4abfa5b6fbb46e45"
+      },
+      "15": {
+        "source_ref": "Deuteronomy 21:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 15,
+            "source_ref": "Deuteronomy 21:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "38542cda7bc4f220cda0f62fba4341181e8e738dd5e183f2c9b641024e3ec961"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "38542cda7bc4f220cda0f62fba4341181e8e738dd5e183f2c9b641024e3ec961"
+      },
+      "16": {
+        "source_ref": "Deuteronomy 21:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 16,
+            "source_ref": "Deuteronomy 21:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "289fe668f056f0e612bed05f5370a58ac269c239ce71e5ce99a0e3555e58849c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "289fe668f056f0e612bed05f5370a58ac269c239ce71e5ce99a0e3555e58849c"
+      },
+      "17": {
+        "source_ref": "Deuteronomy 21:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 17,
+            "source_ref": "Deuteronomy 21:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dfeaffb09ec26fb5d39c6780ebed2058cdc5c0303b12b0e70683710ba912a860"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dfeaffb09ec26fb5d39c6780ebed2058cdc5c0303b12b0e70683710ba912a860"
+      },
+      "18": {
+        "source_ref": "Deuteronomy 21:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 18,
+            "source_ref": "Deuteronomy 21:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b900ec90199b2a46bdf3b62d4cbba80edb3adb035425224c37d7cdf5b74a03af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b900ec90199b2a46bdf3b62d4cbba80edb3adb035425224c37d7cdf5b74a03af"
+      },
+      "19": {
+        "source_ref": "Deuteronomy 21:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 19,
+            "source_ref": "Deuteronomy 21:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "258009b37415389ce9565d0f54ea6bd49d578bcc50ebc11b639d6062888df15d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "258009b37415389ce9565d0f54ea6bd49d578bcc50ebc11b639d6062888df15d"
+      },
+      "20": {
+        "source_ref": "Deuteronomy 21:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 20,
+            "source_ref": "Deuteronomy 21:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14db3698d21c76b5a9e7503e0bb20cddf15d3bb0570426989cfb77ce97c44e77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14db3698d21c76b5a9e7503e0bb20cddf15d3bb0570426989cfb77ce97c44e77"
+      },
+      "21": {
+        "source_ref": "Deuteronomy 21:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 21,
+            "source_ref": "Deuteronomy 21:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "26ea611e91f37331b638faba64e3a4419e109f235175fa80ee313604b7b8c2cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26ea611e91f37331b638faba64e3a4419e109f235175fa80ee313604b7b8c2cc"
+      },
+      "22": {
+        "source_ref": "Deuteronomy 21:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 22,
+            "source_ref": "Deuteronomy 21:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82c3bf3475f9599fc799e20daccc85cf24550f88bbfe0761bc4b4486c083e814"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82c3bf3475f9599fc799e20daccc85cf24550f88bbfe0761bc4b4486c083e814"
+      },
+      "23": {
+        "source_ref": "Deuteronomy 21:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 23,
+            "source_ref": "Deuteronomy 21:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5f5f8b0012b03a46b6693713285b9c20fb99e23efb2771e73e44ef7aa601a403"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f5f8b0012b03a46b6693713285b9c20fb99e23efb2771e73e44ef7aa601a403"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/deuteronomy/Deuteronomy_21.md",
+    "blob_sha": "6c1446ee6441aef0720cbf741b3f6534220b1033"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

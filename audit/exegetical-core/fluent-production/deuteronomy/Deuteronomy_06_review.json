@@ -1,0 +1,411 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Deuteronomy 6:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 1,
+            "source_ref": "Deuteronomy 6:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2126ccdfd6f9887851d4a7ae902f784665176f0ce8c8affff0b2502e814cd155"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2126ccdfd6f9887851d4a7ae902f784665176f0ce8c8affff0b2502e814cd155"
+      },
+      "2": {
+        "source_ref": "Deuteronomy 6:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 2,
+            "source_ref": "Deuteronomy 6:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a548cbe418c10a5d575d37bd8286fb1d105c9304dc1378db85548efba2d46a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a548cbe418c10a5d575d37bd8286fb1d105c9304dc1378db85548efba2d46a2"
+      },
+      "3": {
+        "source_ref": "Deuteronomy 6:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 3,
+            "source_ref": "Deuteronomy 6:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "631253575f31e86821f6343b0a6bbcc231e042bbff632a694891503a094003b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "631253575f31e86821f6343b0a6bbcc231e042bbff632a694891503a094003b5"
+      },
+      "4": {
+        "source_ref": "Deuteronomy 6:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 4,
+            "source_ref": "Deuteronomy 6:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b636e8a2b19f4e2a79be77a7080a0ed3c4c6dd85806800d5f02cd87ea59d2052"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b636e8a2b19f4e2a79be77a7080a0ed3c4c6dd85806800d5f02cd87ea59d2052"
+      },
+      "5": {
+        "source_ref": "Deuteronomy 6:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 5,
+            "source_ref": "Deuteronomy 6:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "00e39c26f7c205272e7ca365b8e39ae2e32955c8715937420beb0ba18e745700"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00e39c26f7c205272e7ca365b8e39ae2e32955c8715937420beb0ba18e745700"
+      },
+      "6": {
+        "source_ref": "Deuteronomy 6:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 6,
+            "source_ref": "Deuteronomy 6:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b69182278352585726509d0aea1970f0b3ed507175516a5c1792f280d6ce25e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b69182278352585726509d0aea1970f0b3ed507175516a5c1792f280d6ce25e6"
+      },
+      "7": {
+        "source_ref": "Deuteronomy 6:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 7,
+            "source_ref": "Deuteronomy 6:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7d554f87734fc62181de6f0da82685c361a88aea877b0d5e088519fd7780089f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d554f87734fc62181de6f0da82685c361a88aea877b0d5e088519fd7780089f"
+      },
+      "8": {
+        "source_ref": "Deuteronomy 6:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 8,
+            "source_ref": "Deuteronomy 6:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2ac514a122c1faa68b247b43e226a9be17c49653ddbcf2bb49fdb44650e00f95"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ac514a122c1faa68b247b43e226a9be17c49653ddbcf2bb49fdb44650e00f95"
+      },
+      "9": {
+        "source_ref": "Deuteronomy 6:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 9,
+            "source_ref": "Deuteronomy 6:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "09eab9c841fda80943f374c7ab56414e7ac1c66179af254f51c2f6f99ffb0766"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09eab9c841fda80943f374c7ab56414e7ac1c66179af254f51c2f6f99ffb0766"
+      },
+      "10": {
+        "source_ref": "Deuteronomy 6:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 10,
+            "source_ref": "Deuteronomy 6:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27827f940d679aa4812470ad06b3a50204dd6a32580a60cd64d73b65427e2440"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27827f940d679aa4812470ad06b3a50204dd6a32580a60cd64d73b65427e2440"
+      },
+      "11": {
+        "source_ref": "Deuteronomy 6:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 11,
+            "source_ref": "Deuteronomy 6:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79a598e9b5cf256a62ea6e571e9885d47391b26eaec99821713bb34d8ac8c9cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79a598e9b5cf256a62ea6e571e9885d47391b26eaec99821713bb34d8ac8c9cc"
+      },
+      "12": {
+        "source_ref": "Deuteronomy 6:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 12,
+            "source_ref": "Deuteronomy 6:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a4d2dbf0e405c92a7fcd8b320de20ab4ed69899f3e5535aaa08a90181e6f6af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a4d2dbf0e405c92a7fcd8b320de20ab4ed69899f3e5535aaa08a90181e6f6af"
+      },
+      "13": {
+        "source_ref": "Deuteronomy 6:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 13,
+            "source_ref": "Deuteronomy 6:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74c9cc756772a7dbd8bf8d3ee8cc5d612610192f355edd20dbdbb3098cfe8fe5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74c9cc756772a7dbd8bf8d3ee8cc5d612610192f355edd20dbdbb3098cfe8fe5"
+      },
+      "14": {
+        "source_ref": "Deuteronomy 6:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 14,
+            "source_ref": "Deuteronomy 6:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dc156c36c6db620de895706d55db8eebc7ed5681b90175ff565a6709e7520b3b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc156c36c6db620de895706d55db8eebc7ed5681b90175ff565a6709e7520b3b"
+      },
+      "15": {
+        "source_ref": "Deuteronomy 6:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 15,
+            "source_ref": "Deuteronomy 6:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c0054384220b4f316c72168184b5464ffdc22581263dd40b03c938c025dbcb60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0054384220b4f316c72168184b5464ffdc22581263dd40b03c938c025dbcb60"
+      },
+      "16": {
+        "source_ref": "Deuteronomy 6:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 16,
+            "source_ref": "Deuteronomy 6:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b6fd513738c30fbb99b86e7be98f08df42f9c12beebd5162377c5f7f0559922d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6fd513738c30fbb99b86e7be98f08df42f9c12beebd5162377c5f7f0559922d"
+      },
+      "17": {
+        "source_ref": "Deuteronomy 6:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 17,
+            "source_ref": "Deuteronomy 6:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0159504aca0347d3b4c1558eb6a989c025d5952a04a2468303f8043f0c596ecf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0159504aca0347d3b4c1558eb6a989c025d5952a04a2468303f8043f0c596ecf"
+      },
+      "18": {
+        "source_ref": "Deuteronomy 6:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 18,
+            "source_ref": "Deuteronomy 6:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1873fdbe19c054c6e17fac6e411d0a9b8e1822e1edba5a9b17b4248f97bb88a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1873fdbe19c054c6e17fac6e411d0a9b8e1822e1edba5a9b17b4248f97bb88a9"
+      },
+      "19": {
+        "source_ref": "Deuteronomy 6:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 19,
+            "source_ref": "Deuteronomy 6:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0cb75ed334fd7f5ae87cc840bb62d14b76062c6358559a914b77a88ea03a31aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0cb75ed334fd7f5ae87cc840bb62d14b76062c6358559a914b77a88ea03a31aa"
+      },
+      "20": {
+        "source_ref": "Deuteronomy 6:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 20,
+            "source_ref": "Deuteronomy 6:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c6f9787a8acf9d52416a8cbc318a040c327a3f4d5da28d43f2353d64fb803887"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c6f9787a8acf9d52416a8cbc318a040c327a3f4d5da28d43f2353d64fb803887"
+      },
+      "21": {
+        "source_ref": "Deuteronomy 6:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 21,
+            "source_ref": "Deuteronomy 6:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cebcfbee8cec0f0f9e0fd5e83f8a6e68d244fe972958f96f8819023fd0743157"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cebcfbee8cec0f0f9e0fd5e83f8a6e68d244fe972958f96f8819023fd0743157"
+      },
+      "22": {
+        "source_ref": "Deuteronomy 6:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 22,
+            "source_ref": "Deuteronomy 6:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "172fc1ad9cd1bf9ecbf732ae15d5715c2e06c7085d9447d5f7d9e03a936cb472"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "172fc1ad9cd1bf9ecbf732ae15d5715c2e06c7085d9447d5f7d9e03a936cb472"
+      },
+      "23": {
+        "source_ref": "Deuteronomy 6:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 23,
+            "source_ref": "Deuteronomy 6:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "305daa16f274fcccf1d289c091a6d9d10b584451c86d3203ee695f43dc3c7a9d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "305daa16f274fcccf1d289c091a6d9d10b584451c86d3203ee695f43dc3c7a9d"
+      },
+      "24": {
+        "source_ref": "Deuteronomy 6:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 24,
+            "source_ref": "Deuteronomy 6:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ae7a2895a41a2d8a699fbe793de3a40df511da44b97fc007a2c29cf4c92384d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae7a2895a41a2d8a699fbe793de3a40df511da44b97fc007a2c29cf4c92384d1"
+      },
+      "25": {
+        "source_ref": "Deuteronomy 6:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 25,
+            "source_ref": "Deuteronomy 6:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9d9b3b5303b2c0e54423a0899d068d1c6cc31d8c3577c69be07970ded7e43e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9d9b3b5303b2c0e54423a0899d068d1c6cc31d8c3577c69be07970ded7e43e5"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/deuteronomy/Deuteronomy_06.md",
+    "blob_sha": "c3dda99733ba17fd70fdd5abbcaec8f342c66265"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,321 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 25,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Deuteronomy 25:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 1,
+            "source_ref": "Deuteronomy 25:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "64ed93a1e2c76e8eeb2cef643b965ff6acf25827d180220de1de985bac6dfa62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64ed93a1e2c76e8eeb2cef643b965ff6acf25827d180220de1de985bac6dfa62"
+      },
+      "2": {
+        "source_ref": "Deuteronomy 25:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 2,
+            "source_ref": "Deuteronomy 25:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04bc3537941ebeb91f809a352e63df0136d8d0d12bfc7de6303335ab492c5019"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04bc3537941ebeb91f809a352e63df0136d8d0d12bfc7de6303335ab492c5019"
+      },
+      "3": {
+        "source_ref": "Deuteronomy 25:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 3,
+            "source_ref": "Deuteronomy 25:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62250322de0e043f2222ed0f0cdcbb0492082cedc1a4f1e84a7e5208d1e6bbb3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62250322de0e043f2222ed0f0cdcbb0492082cedc1a4f1e84a7e5208d1e6bbb3"
+      },
+      "4": {
+        "source_ref": "Deuteronomy 25:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 4,
+            "source_ref": "Deuteronomy 25:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d281f2287ed2d5383ff284a7b44f2d133c900669d210d1bb63cb11cec9c4d86"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d281f2287ed2d5383ff284a7b44f2d133c900669d210d1bb63cb11cec9c4d86"
+      },
+      "5": {
+        "source_ref": "Deuteronomy 25:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 5,
+            "source_ref": "Deuteronomy 25:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "921bb21d946eadf67236ac614a2837067113b4a3702ad9e7ff2c558bad06c08a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "921bb21d946eadf67236ac614a2837067113b4a3702ad9e7ff2c558bad06c08a"
+      },
+      "6": {
+        "source_ref": "Deuteronomy 25:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 6,
+            "source_ref": "Deuteronomy 25:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "24794743419584c38da6677b0893de9a745e2e3cbf0b9a629b60cd9d6aa395da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "24794743419584c38da6677b0893de9a745e2e3cbf0b9a629b60cd9d6aa395da"
+      },
+      "7": {
+        "source_ref": "Deuteronomy 25:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 7,
+            "source_ref": "Deuteronomy 25:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f3d447e1c8b746f5ee7ef30c16f2f2d2ac98ce76240b817f0d00d8a353d57d8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3d447e1c8b746f5ee7ef30c16f2f2d2ac98ce76240b817f0d00d8a353d57d8a"
+      },
+      "8": {
+        "source_ref": "Deuteronomy 25:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 8,
+            "source_ref": "Deuteronomy 25:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1de8fad0a3f4eb523c7ae781f711675c93bb15d3ecf6cefb66b290d4ceaa54c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1de8fad0a3f4eb523c7ae781f711675c93bb15d3ecf6cefb66b290d4ceaa54c9"
+      },
+      "9": {
+        "source_ref": "Deuteronomy 25:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 9,
+            "source_ref": "Deuteronomy 25:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f726fa1becfafad93db8fb3c9f4a3c7c53e0f79e0d2fd0ae30dff1c724ec3875"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f726fa1becfafad93db8fb3c9f4a3c7c53e0f79e0d2fd0ae30dff1c724ec3875"
+      },
+      "10": {
+        "source_ref": "Deuteronomy 25:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 10,
+            "source_ref": "Deuteronomy 25:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c73097c238cd744cc64d7a7bb60ecd68e5bd2a168202cda1123f32f93c545eb5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c73097c238cd744cc64d7a7bb60ecd68e5bd2a168202cda1123f32f93c545eb5"
+      },
+      "11": {
+        "source_ref": "Deuteronomy 25:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 11,
+            "source_ref": "Deuteronomy 25:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "51f8371111cf3a6d2f082c5ca76766c98a6a416c10a12d371d4afdda5dd7f708"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "51f8371111cf3a6d2f082c5ca76766c98a6a416c10a12d371d4afdda5dd7f708"
+      },
+      "12": {
+        "source_ref": "Deuteronomy 25:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 12,
+            "source_ref": "Deuteronomy 25:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a82c267cf695544efa101c55b19ded7dad760e22588fa0959889584e0487615a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a82c267cf695544efa101c55b19ded7dad760e22588fa0959889584e0487615a"
+      },
+      "13": {
+        "source_ref": "Deuteronomy 25:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 13,
+            "source_ref": "Deuteronomy 25:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d5269143bafab04c433e9bf58659db7a2d8bfaef4ff0d4b80ea324d34a4f9de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d5269143bafab04c433e9bf58659db7a2d8bfaef4ff0d4b80ea324d34a4f9de"
+      },
+      "14": {
+        "source_ref": "Deuteronomy 25:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 14,
+            "source_ref": "Deuteronomy 25:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2fb23f390a52b5757234868e1a027d42d2f7c39e7cfa6d019592a06e24c9cbdd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2fb23f390a52b5757234868e1a027d42d2f7c39e7cfa6d019592a06e24c9cbdd"
+      },
+      "15": {
+        "source_ref": "Deuteronomy 25:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 15,
+            "source_ref": "Deuteronomy 25:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c63381809e6bc36feb5fa9732fc840212e6ae5ded67517e2e49025066ffc4da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c63381809e6bc36feb5fa9732fc840212e6ae5ded67517e2e49025066ffc4da"
+      },
+      "16": {
+        "source_ref": "Deuteronomy 25:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 16,
+            "source_ref": "Deuteronomy 25:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "469af2e973faec1b7b81f66fada6a5e4f2e1ec6c903d7a94458deb37903ff1cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "469af2e973faec1b7b81f66fada6a5e4f2e1ec6c903d7a94458deb37903ff1cb"
+      },
+      "17": {
+        "source_ref": "Deuteronomy 25:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 17,
+            "source_ref": "Deuteronomy 25:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d89b5052b2c81eebb8ae9f7c750268e39b7409bb64a991abcde58257a533baa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d89b5052b2c81eebb8ae9f7c750268e39b7409bb64a991abcde58257a533baa"
+      },
+      "18": {
+        "source_ref": "Deuteronomy 25:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 18,
+            "source_ref": "Deuteronomy 25:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "312478fe047c569126d8920e56260b2a5f5830ad6143f49e49a27ee4da88b114"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "312478fe047c569126d8920e56260b2a5f5830ad6143f49e49a27ee4da88b114"
+      },
+      "19": {
+        "source_ref": "Deuteronomy 25:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 25,
+            "verse": 19,
+            "source_ref": "Deuteronomy 25:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd2b06a93cacf7b963e491d2f4a727b92d5718d5f79f5eac2ae51e3df84e7991"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd2b06a93cacf7b963e491d2f4a727b92d5718d5f79f5eac2ae51e3df84e7991"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/deuteronomy/Deuteronomy_25.md",
+    "blob_sha": "c2314c46d406c2cb33c8be9a5d5e7da2f421a0c6"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
