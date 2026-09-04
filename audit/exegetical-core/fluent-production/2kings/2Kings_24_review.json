@@ -1,0 +1,336 @@
+{
+  "book": "2 Kings",
+  "chapter": 24,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Kgs.xml",
+    "git_blob_sha": "256b2f42fcf86ac08d421f19edd960442a0b5d55"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Kgs.xml",
+    "git_blob_sha": "256b2f42fcf86ac08d421f19edd960442a0b5d55",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Kings 24:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 1,
+            "source_ref": "2 Kings 24:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "536728c8a63ffd90dfee1b5cec55e0d774c799cf9b3413f6a36c03e4339f6083"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "536728c8a63ffd90dfee1b5cec55e0d774c799cf9b3413f6a36c03e4339f6083"
+      },
+      "2": {
+        "source_ref": "2 Kings 24:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 2,
+            "source_ref": "2 Kings 24:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec7723cfd3e5e71a8d7526bb8bfaaefd331369a6b797e7d44c1cb2d4c71ce9cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec7723cfd3e5e71a8d7526bb8bfaaefd331369a6b797e7d44c1cb2d4c71ce9cd"
+      },
+      "3": {
+        "source_ref": "2 Kings 24:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 3,
+            "source_ref": "2 Kings 24:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8957ea7d11652070f39c4acda9f56792b4b150e34f1349de3467b3ab2d46971c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8957ea7d11652070f39c4acda9f56792b4b150e34f1349de3467b3ab2d46971c"
+      },
+      "4": {
+        "source_ref": "2 Kings 24:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 4,
+            "source_ref": "2 Kings 24:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "48fc32173f63ca95035a513a03ae24487bd4508f323cf24c22a7c0b93df60cc8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48fc32173f63ca95035a513a03ae24487bd4508f323cf24c22a7c0b93df60cc8"
+      },
+      "5": {
+        "source_ref": "2 Kings 24:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 5,
+            "source_ref": "2 Kings 24:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a7b752fb02ac396cacc696ba1fb36bcb727ba0340e3b49dd4b7f321b5bc4f9cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a7b752fb02ac396cacc696ba1fb36bcb727ba0340e3b49dd4b7f321b5bc4f9cb"
+      },
+      "6": {
+        "source_ref": "2 Kings 24:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 6,
+            "source_ref": "2 Kings 24:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dce9a48e8639de47c2616db3177e632b5a8186ad07d0375814b236c49b737f5c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dce9a48e8639de47c2616db3177e632b5a8186ad07d0375814b236c49b737f5c"
+      },
+      "7": {
+        "source_ref": "2 Kings 24:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 7,
+            "source_ref": "2 Kings 24:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7cb7bd9e1e48b349602ed6a8a94d5c5d2d37c614cd4c23d944c796a632c4f79e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7cb7bd9e1e48b349602ed6a8a94d5c5d2d37c614cd4c23d944c796a632c4f79e"
+      },
+      "8": {
+        "source_ref": "2 Kings 24:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 8,
+            "source_ref": "2 Kings 24:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "914603f36d9dee7a26f2fa4b710bb9b98c792b4bdbfe10dbd88cc0ceb9e7ba79"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "914603f36d9dee7a26f2fa4b710bb9b98c792b4bdbfe10dbd88cc0ceb9e7ba79"
+      },
+      "9": {
+        "source_ref": "2 Kings 24:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 9,
+            "source_ref": "2 Kings 24:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ccf5f2558d7e6a5ff916e35b24678fa6339bf4ec1a065c6e5e463f34cdeef04"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ccf5f2558d7e6a5ff916e35b24678fa6339bf4ec1a065c6e5e463f34cdeef04"
+      },
+      "10": {
+        "source_ref": "2 Kings 24:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 10,
+            "source_ref": "2 Kings 24:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "89475df82e5b759a313d60826c59c6df4499ed339c1674767c4d9d989b14d978"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89475df82e5b759a313d60826c59c6df4499ed339c1674767c4d9d989b14d978"
+      },
+      "11": {
+        "source_ref": "2 Kings 24:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 11,
+            "source_ref": "2 Kings 24:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b9c586d0700fd1622456ec990016732b00bd745743300a915e08088a23ccb482"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b9c586d0700fd1622456ec990016732b00bd745743300a915e08088a23ccb482"
+      },
+      "12": {
+        "source_ref": "2 Kings 24:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 12,
+            "source_ref": "2 Kings 24:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "419704729254fa2b6cebaeaa2c4bb6d4aec3e588b9e790cb649f326646a5ba53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "419704729254fa2b6cebaeaa2c4bb6d4aec3e588b9e790cb649f326646a5ba53"
+      },
+      "13": {
+        "source_ref": "2 Kings 24:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 13,
+            "source_ref": "2 Kings 24:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2eb3d4a759b56350346026274b1db95f1638e4d416e412e77cf8d5da39a4f0a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2eb3d4a759b56350346026274b1db95f1638e4d416e412e77cf8d5da39a4f0a"
+      },
+      "14": {
+        "source_ref": "2 Kings 24:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 14,
+            "source_ref": "2 Kings 24:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e54fb440796f5217554426893db44c1876b81c7bda544d6e0910ed2af210efe2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e54fb440796f5217554426893db44c1876b81c7bda544d6e0910ed2af210efe2"
+      },
+      "15": {
+        "source_ref": "2 Kings 24:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 15,
+            "source_ref": "2 Kings 24:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5da3bd0d18bf6ea8899f2294e265a81ed284b3648d6e0d45c91f01819064e2bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5da3bd0d18bf6ea8899f2294e265a81ed284b3648d6e0d45c91f01819064e2bb"
+      },
+      "16": {
+        "source_ref": "2 Kings 24:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 16,
+            "source_ref": "2 Kings 24:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "97598f8fa1bdb31ebe87e3019649a9a30cba4061cd3b96021479705d462f5e7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "97598f8fa1bdb31ebe87e3019649a9a30cba4061cd3b96021479705d462f5e7f"
+      },
+      "17": {
+        "source_ref": "2 Kings 24:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 17,
+            "source_ref": "2 Kings 24:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "772e83da6a9f9bb5a4b7b3ab69282fa496e353175f99d73526116645ec2e627c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "772e83da6a9f9bb5a4b7b3ab69282fa496e353175f99d73526116645ec2e627c"
+      },
+      "18": {
+        "source_ref": "2 Kings 24:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 18,
+            "source_ref": "2 Kings 24:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c7b977d2e62f1235c8a5b74c484146e08a9edd60f2e35b8c17d849ca85da8b03"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c7b977d2e62f1235c8a5b74c484146e08a9edd60f2e35b8c17d849ca85da8b03"
+      },
+      "19": {
+        "source_ref": "2 Kings 24:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 19,
+            "source_ref": "2 Kings 24:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "109d4cf0e9f2797512ba98dfeb5f68845836723ed9486501d1c453cbc95707c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "109d4cf0e9f2797512ba98dfeb5f68845836723ed9486501d1c453cbc95707c8"
+      },
+      "20": {
+        "source_ref": "2 Kings 24:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 24,
+            "verse": 20,
+            "source_ref": "2 Kings 24:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35d945260e019bfddf8ac2adf5077dbc6086c79d375c237a5070fa77987057b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35d945260e019bfddf8ac2adf5077dbc6086c79d375c237a5070fa77987057b6"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2kings/2Kings_24.md",
+    "blob_sha": "88ead6584c921eb000a3bd9c15437c521eeef524"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

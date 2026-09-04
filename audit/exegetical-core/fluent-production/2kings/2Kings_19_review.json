@@ -1,0 +1,591 @@
+{
+  "book": "2 Kings",
+  "chapter": 19,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Kgs.xml",
+    "git_blob_sha": "256b2f42fcf86ac08d421f19edd960442a0b5d55"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Kgs.xml",
+    "git_blob_sha": "256b2f42fcf86ac08d421f19edd960442a0b5d55",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Kings 19:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 1,
+            "source_ref": "2 Kings 19:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a5fdd852dcec2bfdd966cfae0fe682948b48feda8aeb4d5364a55bb87c8d573c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5fdd852dcec2bfdd966cfae0fe682948b48feda8aeb4d5364a55bb87c8d573c"
+      },
+      "2": {
+        "source_ref": "2 Kings 19:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 2,
+            "source_ref": "2 Kings 19:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1addb9cd9094868ec64ba4fbb4630f335688558d60fc39bfc0c33e959f8ba9ae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1addb9cd9094868ec64ba4fbb4630f335688558d60fc39bfc0c33e959f8ba9ae"
+      },
+      "3": {
+        "source_ref": "2 Kings 19:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 3,
+            "source_ref": "2 Kings 19:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "69dfafd7fa2d643163c72f9ab16a891e1138140f780caf63438977aa83e4935a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69dfafd7fa2d643163c72f9ab16a891e1138140f780caf63438977aa83e4935a"
+      },
+      "4": {
+        "source_ref": "2 Kings 19:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 4,
+            "source_ref": "2 Kings 19:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "624a1c3c066b1370aebb2fd4e7e238db34fcd145e4965159502cd78d84665d90"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "624a1c3c066b1370aebb2fd4e7e238db34fcd145e4965159502cd78d84665d90"
+      },
+      "5": {
+        "source_ref": "2 Kings 19:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 5,
+            "source_ref": "2 Kings 19:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "94a5093ed7a88268113eafbf50ade002d71902617a7bf1085872a1411e22c280"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94a5093ed7a88268113eafbf50ade002d71902617a7bf1085872a1411e22c280"
+      },
+      "6": {
+        "source_ref": "2 Kings 19:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 6,
+            "source_ref": "2 Kings 19:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7918d8ea075b49b839196022616adf8f856b0bc4de2192d7ef97dc55e5302748"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7918d8ea075b49b839196022616adf8f856b0bc4de2192d7ef97dc55e5302748"
+      },
+      "7": {
+        "source_ref": "2 Kings 19:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 7,
+            "source_ref": "2 Kings 19:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e89e9f9db1445f9dc242e34f765edaac5ed3d5ff82681b03280dd20c980a78d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e89e9f9db1445f9dc242e34f765edaac5ed3d5ff82681b03280dd20c980a78d7"
+      },
+      "8": {
+        "source_ref": "2 Kings 19:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 8,
+            "source_ref": "2 Kings 19:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3ab0295496352ed0f380b3aa59e4e135979a86cf92c24651cc289933f3c403c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3ab0295496352ed0f380b3aa59e4e135979a86cf92c24651cc289933f3c403c"
+      },
+      "9": {
+        "source_ref": "2 Kings 19:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 9,
+            "source_ref": "2 Kings 19:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62884927b8b6e76c592e0ec41bedffa7bd3bb3fa09ee4e13a6871de87f1851f7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62884927b8b6e76c592e0ec41bedffa7bd3bb3fa09ee4e13a6871de87f1851f7"
+      },
+      "10": {
+        "source_ref": "2 Kings 19:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 10,
+            "source_ref": "2 Kings 19:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8bdf7093e3f8bbff339d3fe5950f45b530a6ab58743414324545f609403370c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8bdf7093e3f8bbff339d3fe5950f45b530a6ab58743414324545f609403370c8"
+      },
+      "11": {
+        "source_ref": "2 Kings 19:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 11,
+            "source_ref": "2 Kings 19:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "03b4e8447531b6053bb35916f05937235c1fe93d57b59f1f30d6ecca30e2ecdd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03b4e8447531b6053bb35916f05937235c1fe93d57b59f1f30d6ecca30e2ecdd"
+      },
+      "12": {
+        "source_ref": "2 Kings 19:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 12,
+            "source_ref": "2 Kings 19:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a24b008bef40e4c37acb962852ff465dd82b2ce3cf445f7eec6bddd3e5d60af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a24b008bef40e4c37acb962852ff465dd82b2ce3cf445f7eec6bddd3e5d60af"
+      },
+      "13": {
+        "source_ref": "2 Kings 19:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 13,
+            "source_ref": "2 Kings 19:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "55ce78b1d06b39dae029a4a3734ea63dac6153d9be402b9b6ec64bde52752160"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "55ce78b1d06b39dae029a4a3734ea63dac6153d9be402b9b6ec64bde52752160"
+      },
+      "14": {
+        "source_ref": "2 Kings 19:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 14,
+            "source_ref": "2 Kings 19:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a2e9f9a3cd9d56d39cddc883132d5c19c2ac3c3a36d1444d4ab9e5d69b5a4af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a2e9f9a3cd9d56d39cddc883132d5c19c2ac3c3a36d1444d4ab9e5d69b5a4af"
+      },
+      "15": {
+        "source_ref": "2 Kings 19:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 15,
+            "source_ref": "2 Kings 19:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "555b0f1d56325bed2c705e80419010714e24811a60a0f62101221183e63953e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "555b0f1d56325bed2c705e80419010714e24811a60a0f62101221183e63953e0"
+      },
+      "16": {
+        "source_ref": "2 Kings 19:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 16,
+            "source_ref": "2 Kings 19:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dbb933939ada93bb3b38ef2f05d3c9f84d6629de120cbf594064a6e825f87a52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dbb933939ada93bb3b38ef2f05d3c9f84d6629de120cbf594064a6e825f87a52"
+      },
+      "17": {
+        "source_ref": "2 Kings 19:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 17,
+            "source_ref": "2 Kings 19:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf86b36b34f04263eee25de078cbd66f781c47f91eedccebd0c6be088964f2b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf86b36b34f04263eee25de078cbd66f781c47f91eedccebd0c6be088964f2b0"
+      },
+      "18": {
+        "source_ref": "2 Kings 19:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 18,
+            "source_ref": "2 Kings 19:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8c5d2421e40615b31b3ff384b160c889f65355903e0694431be3b33360d219c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c5d2421e40615b31b3ff384b160c889f65355903e0694431be3b33360d219c1"
+      },
+      "19": {
+        "source_ref": "2 Kings 19:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 19,
+            "source_ref": "2 Kings 19:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "17f993adac579104f0b040a228151c46d4a2759bf1f7966b6107d31152344d04"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17f993adac579104f0b040a228151c46d4a2759bf1f7966b6107d31152344d04"
+      },
+      "20": {
+        "source_ref": "2 Kings 19:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 20,
+            "source_ref": "2 Kings 19:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2a97cc7ce33656d1447e42d25f5ceef02f8c88cea0bf7b730ee2cc5a18571d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2a97cc7ce33656d1447e42d25f5ceef02f8c88cea0bf7b730ee2cc5a18571d9"
+      },
+      "21": {
+        "source_ref": "2 Kings 19:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 21,
+            "source_ref": "2 Kings 19:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4516c9b0cd1851c715be4184cae8bc1000e6dffa430e22b2f8f93b10917f59c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4516c9b0cd1851c715be4184cae8bc1000e6dffa430e22b2f8f93b10917f59c0"
+      },
+      "22": {
+        "source_ref": "2 Kings 19:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 22,
+            "source_ref": "2 Kings 19:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ed0abe6c40243d11869923b8f6d10504f90fbdcaa75d0de3fcf289ac5b61367"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ed0abe6c40243d11869923b8f6d10504f90fbdcaa75d0de3fcf289ac5b61367"
+      },
+      "23": {
+        "source_ref": "2 Kings 19:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 23,
+            "source_ref": "2 Kings 19:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bac64e5bb98e82e57ad5ddf63c688776175c54a4b8805533e6aca50c6bfe6534"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bac64e5bb98e82e57ad5ddf63c688776175c54a4b8805533e6aca50c6bfe6534"
+      },
+      "24": {
+        "source_ref": "2 Kings 19:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 24,
+            "source_ref": "2 Kings 19:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4a677a73bd1513f32ac8c3d4d69cb42692f578c6ff6262a51e79df9582dedb2d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a677a73bd1513f32ac8c3d4d69cb42692f578c6ff6262a51e79df9582dedb2d"
+      },
+      "25": {
+        "source_ref": "2 Kings 19:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 25,
+            "source_ref": "2 Kings 19:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "903058f60903fb64135198ba87f02ed7eb3d79cb474b525fd735b64e8c6f800d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "903058f60903fb64135198ba87f02ed7eb3d79cb474b525fd735b64e8c6f800d"
+      },
+      "26": {
+        "source_ref": "2 Kings 19:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 26,
+            "source_ref": "2 Kings 19:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dd977fe544ff4a2bfe10411ca31814c8f6c37ad4931007f9edd2fe3458543eca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd977fe544ff4a2bfe10411ca31814c8f6c37ad4931007f9edd2fe3458543eca"
+      },
+      "27": {
+        "source_ref": "2 Kings 19:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 27,
+            "source_ref": "2 Kings 19:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "10de81344938006ce733e9f91365094eb1a9c47b4b78910699acb12aaedcd89a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10de81344938006ce733e9f91365094eb1a9c47b4b78910699acb12aaedcd89a"
+      },
+      "28": {
+        "source_ref": "2 Kings 19:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 28,
+            "source_ref": "2 Kings 19:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "288c5ab08affe804f2823e4484bc0fcae3f1d08368027a8ec7bd1b7b1f3f0d0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "288c5ab08affe804f2823e4484bc0fcae3f1d08368027a8ec7bd1b7b1f3f0d0f"
+      },
+      "29": {
+        "source_ref": "2 Kings 19:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 29,
+            "source_ref": "2 Kings 19:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc98cdb2eebb04cf2591185e4eade3a8a7fd443a82f8c8ff0752c4799c01225a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc98cdb2eebb04cf2591185e4eade3a8a7fd443a82f8c8ff0752c4799c01225a"
+      },
+      "30": {
+        "source_ref": "2 Kings 19:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 30,
+            "source_ref": "2 Kings 19:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3c600f2636026d4e76e2c7475c204fd756e1dbf4f195e2c71ae6fdf3a3a2d509"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c600f2636026d4e76e2c7475c204fd756e1dbf4f195e2c71ae6fdf3a3a2d509"
+      },
+      "31": {
+        "source_ref": "2 Kings 19:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 31,
+            "source_ref": "2 Kings 19:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "707e5448228958cde97f89da7be09dcc3d38726518ac6ebe06883d5c8413f34d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "707e5448228958cde97f89da7be09dcc3d38726518ac6ebe06883d5c8413f34d"
+      },
+      "32": {
+        "source_ref": "2 Kings 19:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 32,
+            "source_ref": "2 Kings 19:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "226264a35fb8c37fe7798f3f6bfb0f16ff699c61dc033cc098cb93ff3ce89d5b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "226264a35fb8c37fe7798f3f6bfb0f16ff699c61dc033cc098cb93ff3ce89d5b"
+      },
+      "33": {
+        "source_ref": "2 Kings 19:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 33,
+            "source_ref": "2 Kings 19:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "76d5b4764812c940a3a8c4323dfaf3a80d804de1365b1aa0741adaf2810d87ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76d5b4764812c940a3a8c4323dfaf3a80d804de1365b1aa0741adaf2810d87ac"
+      },
+      "34": {
+        "source_ref": "2 Kings 19:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 34,
+            "source_ref": "2 Kings 19:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "24a0eb12e1f5ec972307f2964486de2c9b7fcc0c82373af9a030fac4a95d08e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "24a0eb12e1f5ec972307f2964486de2c9b7fcc0c82373af9a030fac4a95d08e1"
+      },
+      "35": {
+        "source_ref": "2 Kings 19:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 35,
+            "source_ref": "2 Kings 19:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eb3f7929366427febf6e840764484d2c5fd0127de35a5e4bcd49baf4ed265774"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb3f7929366427febf6e840764484d2c5fd0127de35a5e4bcd49baf4ed265774"
+      },
+      "36": {
+        "source_ref": "2 Kings 19:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 36,
+            "source_ref": "2 Kings 19:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b24395ffa5aabb647be69e1ef422de587453b27cb1f514b527471882fb6c1599"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b24395ffa5aabb647be69e1ef422de587453b27cb1f514b527471882fb6c1599"
+      },
+      "37": {
+        "source_ref": "2 Kings 19:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 37,
+            "source_ref": "2 Kings 19:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b14a598708590643ba0b33b91c68a72325678387b9da3d407bb703013825546"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b14a598708590643ba0b33b91c68a72325678387b9da3d407bb703013825546"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2kings/2Kings_19.md",
+    "blob_sha": "9c69f673081e8bf63545a8189b1f2b8ab33d0c86"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
