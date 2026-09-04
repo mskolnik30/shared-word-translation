@@ -1,0 +1,366 @@
+{
+  "book": "Job",
+  "chapter": 16,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 16:1",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 1,
+            "source_ref": "Job 16:1",
+            "segment_mode": "whole",
+            "sha256": "d4b4f8753b021c124e517816cc1b98bf4c05c507c751335caf559ca7fd69d97e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4b4f8753b021c124e517816cc1b98bf4c05c507c751335caf559ca7fd69d97e"
+      },
+      "2": {
+        "source_ref": "Job 16:2",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 2,
+            "source_ref": "Job 16:2",
+            "segment_mode": "whole",
+            "sha256": "648c610bc792865037b2fc5f4e07de261baf87ae6749eba397f17ab1e9300f5c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "648c610bc792865037b2fc5f4e07de261baf87ae6749eba397f17ab1e9300f5c"
+      },
+      "3": {
+        "source_ref": "Job 16:3",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 3,
+            "source_ref": "Job 16:3",
+            "segment_mode": "whole",
+            "sha256": "00cc8807bfdfea78578ffd1968074d404dbd49b5da735648d3b078e2c101cba5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00cc8807bfdfea78578ffd1968074d404dbd49b5da735648d3b078e2c101cba5"
+      },
+      "4": {
+        "source_ref": "Job 16:4",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 4,
+            "source_ref": "Job 16:4",
+            "segment_mode": "whole",
+            "sha256": "39e1ad10c29dbeb4a75bb84a45c6e989681893586baa1512725a622944d906f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39e1ad10c29dbeb4a75bb84a45c6e989681893586baa1512725a622944d906f2"
+      },
+      "5": {
+        "source_ref": "Job 16:5",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 5,
+            "source_ref": "Job 16:5",
+            "segment_mode": "whole",
+            "sha256": "f6ccfc1474c6f3258868ac6fc7e40da933d44c82b240424abe507fa7ae45a987"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f6ccfc1474c6f3258868ac6fc7e40da933d44c82b240424abe507fa7ae45a987"
+      },
+      "6": {
+        "source_ref": "Job 16:6",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 6,
+            "source_ref": "Job 16:6",
+            "segment_mode": "whole",
+            "sha256": "a1e23bc34f2607085e42a52b31d4df19f0ba56c7f488d7e945d52a6defac5099"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1e23bc34f2607085e42a52b31d4df19f0ba56c7f488d7e945d52a6defac5099"
+      },
+      "7": {
+        "source_ref": "Job 16:7",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 7,
+            "source_ref": "Job 16:7",
+            "segment_mode": "whole",
+            "sha256": "6a4f43d4c4f9bcdac0833e815d4a4cf21154849a11b115823635b41cc4c78968"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a4f43d4c4f9bcdac0833e815d4a4cf21154849a11b115823635b41cc4c78968"
+      },
+      "8": {
+        "source_ref": "Job 16:8",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 8,
+            "source_ref": "Job 16:8",
+            "segment_mode": "whole",
+            "sha256": "95b0cd7b3cacdb1ec664563e0a69832d8289e64278d58064180ded13216237d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95b0cd7b3cacdb1ec664563e0a69832d8289e64278d58064180ded13216237d8"
+      },
+      "9": {
+        "source_ref": "Job 16:9",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 9,
+            "source_ref": "Job 16:9",
+            "segment_mode": "whole",
+            "sha256": "2e45b3da31e4226f1adadcdccb4f4677ff46ebaabfc283e062cb9ad47ef80596"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e45b3da31e4226f1adadcdccb4f4677ff46ebaabfc283e062cb9ad47ef80596"
+      },
+      "10": {
+        "source_ref": "Job 16:10",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 10,
+            "source_ref": "Job 16:10",
+            "segment_mode": "whole",
+            "sha256": "a713cbad390600160baaf18cd4e0fceef17cc05a4f375caf234b7eb94d5c8c0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a713cbad390600160baaf18cd4e0fceef17cc05a4f375caf234b7eb94d5c8c0c"
+      },
+      "11": {
+        "source_ref": "Job 16:11",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 11,
+            "source_ref": "Job 16:11",
+            "segment_mode": "whole",
+            "sha256": "32da8dc60b8e504fc029d61516930e37f14ecc828b6c0afa1800af470ab88891"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32da8dc60b8e504fc029d61516930e37f14ecc828b6c0afa1800af470ab88891"
+      },
+      "12": {
+        "source_ref": "Job 16:12",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 12,
+            "source_ref": "Job 16:12",
+            "segment_mode": "whole",
+            "sha256": "9b4fe7c48a27fcc928381f3b7f9429b53ed5c32843539f847000efb8cdfb988e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b4fe7c48a27fcc928381f3b7f9429b53ed5c32843539f847000efb8cdfb988e"
+      },
+      "13": {
+        "source_ref": "Job 16:13",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 13,
+            "source_ref": "Job 16:13",
+            "segment_mode": "whole",
+            "sha256": "e203466de8e68fab6927047c74d4f7b6f5283e4530e30ca6cb4ac21d87d4113c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e203466de8e68fab6927047c74d4f7b6f5283e4530e30ca6cb4ac21d87d4113c"
+      },
+      "14": {
+        "source_ref": "Job 16:14",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 14,
+            "source_ref": "Job 16:14",
+            "segment_mode": "whole",
+            "sha256": "70b2b5276c3e38bb007def4c1b1fc1853ce2ee173116e091081485f2ac3c16d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70b2b5276c3e38bb007def4c1b1fc1853ce2ee173116e091081485f2ac3c16d9"
+      },
+      "15": {
+        "source_ref": "Job 16:15",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 15,
+            "source_ref": "Job 16:15",
+            "segment_mode": "whole",
+            "sha256": "4426d715fb7d94a812388428d76769c2125cc54f42ca3560c189f1358e0fda02"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4426d715fb7d94a812388428d76769c2125cc54f42ca3560c189f1358e0fda02"
+      },
+      "16": {
+        "source_ref": "Job 16:16",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 16,
+            "source_ref": "Job 16:16",
+            "segment_mode": "whole",
+            "sha256": "0ef43914209cf885d6537a81b4f042fca668474a207dfe7a5c657c89452f9326"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ef43914209cf885d6537a81b4f042fca668474a207dfe7a5c657c89452f9326"
+      },
+      "17": {
+        "source_ref": "Job 16:17",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 17,
+            "source_ref": "Job 16:17",
+            "segment_mode": "whole",
+            "sha256": "351a0b27721cd856c76c52516f2c1ac64007bd3824eb36edfd47fec8b026a16b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "351a0b27721cd856c76c52516f2c1ac64007bd3824eb36edfd47fec8b026a16b"
+      },
+      "18": {
+        "source_ref": "Job 16:18",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 18,
+            "source_ref": "Job 16:18",
+            "segment_mode": "whole",
+            "sha256": "7327ed6c973d34239b06c01e666788114bd0307de692f217866e2294a81a352c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7327ed6c973d34239b06c01e666788114bd0307de692f217866e2294a81a352c"
+      },
+      "19": {
+        "source_ref": "Job 16:19",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 19,
+            "source_ref": "Job 16:19",
+            "segment_mode": "whole",
+            "sha256": "ac7c05cdc4ff4dcaedbe85e807ba2a5ca5d15a331d3744d245b7e34b6a53874a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac7c05cdc4ff4dcaedbe85e807ba2a5ca5d15a331d3744d245b7e34b6a53874a"
+      },
+      "20": {
+        "source_ref": "Job 16:20",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 20,
+            "source_ref": "Job 16:20",
+            "segment_mode": "whole",
+            "sha256": "a55607ef315e089a192df927e602ea2d16cd40197c1f3e533d6b81f2e6fe0303"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a55607ef315e089a192df927e602ea2d16cd40197c1f3e533d6b81f2e6fe0303"
+      },
+      "21": {
+        "source_ref": "Job 16:21",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 21,
+            "source_ref": "Job 16:21",
+            "segment_mode": "whole",
+            "sha256": "0f738856bd6abaeeee7142adb72cc37c158a7d9c83b9a91da97eda753a99b1c5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f738856bd6abaeeee7142adb72cc37c158a7d9c83b9a91da97eda753a99b1c5"
+      },
+      "22": {
+        "source_ref": "Job 16:22",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 22,
+            "source_ref": "Job 16:22",
+            "segment_mode": "whole",
+            "sha256": "1e47751edd9736612b55eeab98c1e460e047a9ad7304d964e2f6a760d6f4edf2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e47751edd9736612b55eeab98c1e460e047a9ad7304d964e2f6a760d6f4edf2"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_16.md",
+    "blob_sha": "12e5478e184343a744ef99c52bec6276f1a23a38"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

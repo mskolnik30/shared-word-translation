@@ -1,0 +1,486 @@
+{
+  "book": "Job",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 6:1",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 1,
+            "source_ref": "Job 6:1",
+            "segment_mode": "whole",
+            "sha256": "d4b4f8753b021c124e517816cc1b98bf4c05c507c751335caf559ca7fd69d97e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4b4f8753b021c124e517816cc1b98bf4c05c507c751335caf559ca7fd69d97e"
+      },
+      "2": {
+        "source_ref": "Job 6:2",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 2,
+            "source_ref": "Job 6:2",
+            "segment_mode": "whole",
+            "sha256": "9c618cd7390d12cc12df863d84ec3b787f1aed78af5a39b65271e8b99eae3981"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c618cd7390d12cc12df863d84ec3b787f1aed78af5a39b65271e8b99eae3981"
+      },
+      "3": {
+        "source_ref": "Job 6:3",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 3,
+            "source_ref": "Job 6:3",
+            "segment_mode": "whole",
+            "sha256": "fabe422ed5ed20156a6dfdc2b114ab2692598aa645b246d2b444dcc22da561e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fabe422ed5ed20156a6dfdc2b114ab2692598aa645b246d2b444dcc22da561e4"
+      },
+      "4": {
+        "source_ref": "Job 6:4",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 4,
+            "source_ref": "Job 6:4",
+            "segment_mode": "whole",
+            "sha256": "bb7c70a43e7137d00d23834f5f52c61a7d4b0ced8ac197d02d57ef3ca8f13e20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb7c70a43e7137d00d23834f5f52c61a7d4b0ced8ac197d02d57ef3ca8f13e20"
+      },
+      "5": {
+        "source_ref": "Job 6:5",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 5,
+            "source_ref": "Job 6:5",
+            "segment_mode": "whole",
+            "sha256": "2713b33d1d397cdbbc810aa2420649c858636fdbe11b6fba84000ef133be8416"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2713b33d1d397cdbbc810aa2420649c858636fdbe11b6fba84000ef133be8416"
+      },
+      "6": {
+        "source_ref": "Job 6:6",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 6,
+            "source_ref": "Job 6:6",
+            "segment_mode": "whole",
+            "sha256": "40bbcf33cf25f5ab2cf609f0780638435b2b7518509af4de2f946020f492bfeb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40bbcf33cf25f5ab2cf609f0780638435b2b7518509af4de2f946020f492bfeb"
+      },
+      "7": {
+        "source_ref": "Job 6:7",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 7,
+            "source_ref": "Job 6:7",
+            "segment_mode": "whole",
+            "sha256": "d94bf7e8ddaaffbd2679e09ad2fcf99dfdef49610739f46f88573bf7a48aec3e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d94bf7e8ddaaffbd2679e09ad2fcf99dfdef49610739f46f88573bf7a48aec3e"
+      },
+      "8": {
+        "source_ref": "Job 6:8",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 8,
+            "source_ref": "Job 6:8",
+            "segment_mode": "whole",
+            "sha256": "cb8c980c6aaa6e19bddb2df91784596394a2d775ccbe28883c188698c5de1173"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb8c980c6aaa6e19bddb2df91784596394a2d775ccbe28883c188698c5de1173"
+      },
+      "9": {
+        "source_ref": "Job 6:9",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 9,
+            "source_ref": "Job 6:9",
+            "segment_mode": "whole",
+            "sha256": "834f4b6a82924d6d6dc9f5cfe0698f319cfc1da7d84c3f014795790ed8ee7d22"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "834f4b6a82924d6d6dc9f5cfe0698f319cfc1da7d84c3f014795790ed8ee7d22"
+      },
+      "10": {
+        "source_ref": "Job 6:10",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 10,
+            "source_ref": "Job 6:10",
+            "segment_mode": "whole",
+            "sha256": "2f29c6dc7519e24d5b39ca3212c575aa5204535223ddf41846268a130618af5c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f29c6dc7519e24d5b39ca3212c575aa5204535223ddf41846268a130618af5c"
+      },
+      "11": {
+        "source_ref": "Job 6:11",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 11,
+            "source_ref": "Job 6:11",
+            "segment_mode": "whole",
+            "sha256": "27bc5ca48efd863b4ce25f09ef8344d7ac4086ab74796398a3930a3c81679c5d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27bc5ca48efd863b4ce25f09ef8344d7ac4086ab74796398a3930a3c81679c5d"
+      },
+      "12": {
+        "source_ref": "Job 6:12",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 12,
+            "source_ref": "Job 6:12",
+            "segment_mode": "whole",
+            "sha256": "9532652540bb3e0f017d0f7d3b78a7a04e84a73a631b00e668758059b9947bab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9532652540bb3e0f017d0f7d3b78a7a04e84a73a631b00e668758059b9947bab"
+      },
+      "13": {
+        "source_ref": "Job 6:13",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 13,
+            "source_ref": "Job 6:13",
+            "segment_mode": "whole",
+            "sha256": "aedfafd8004f65b86e68f984072332953c357622d5ac023abb8fa4574948a77d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aedfafd8004f65b86e68f984072332953c357622d5ac023abb8fa4574948a77d"
+      },
+      "14": {
+        "source_ref": "Job 6:14",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 14,
+            "source_ref": "Job 6:14",
+            "segment_mode": "whole",
+            "sha256": "f957fb3a5d04a2ac923cb0b9f6e28248d709fa5049f1757ea50759e148b8a2da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f957fb3a5d04a2ac923cb0b9f6e28248d709fa5049f1757ea50759e148b8a2da"
+      },
+      "15": {
+        "source_ref": "Job 6:15",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 15,
+            "source_ref": "Job 6:15",
+            "segment_mode": "whole",
+            "sha256": "dc9668429c43c70734baadf29e53e2c0793dfbabbddc2278d1e0262d2d6d1c64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc9668429c43c70734baadf29e53e2c0793dfbabbddc2278d1e0262d2d6d1c64"
+      },
+      "16": {
+        "source_ref": "Job 6:16",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 16,
+            "source_ref": "Job 6:16",
+            "segment_mode": "whole",
+            "sha256": "8b22b68c65b2cd8fe33a3542696bc0e44a3b3a610fbc550c490c1a525bedf6ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b22b68c65b2cd8fe33a3542696bc0e44a3b3a610fbc550c490c1a525bedf6ec"
+      },
+      "17": {
+        "source_ref": "Job 6:17",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 17,
+            "source_ref": "Job 6:17",
+            "segment_mode": "whole",
+            "sha256": "e2210a45de521e62bfbf1de3262917b341fc09ca34b472085d384b11182475af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2210a45de521e62bfbf1de3262917b341fc09ca34b472085d384b11182475af"
+      },
+      "18": {
+        "source_ref": "Job 6:18",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 18,
+            "source_ref": "Job 6:18",
+            "segment_mode": "whole",
+            "sha256": "5a6cb4b4b2d17b684f14ecb96e132810de548318202d29147acf543592da7105"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a6cb4b4b2d17b684f14ecb96e132810de548318202d29147acf543592da7105"
+      },
+      "19": {
+        "source_ref": "Job 6:19",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 19,
+            "source_ref": "Job 6:19",
+            "segment_mode": "whole",
+            "sha256": "8fc530e96339581bef5f0e16a7b350546a5482353375b6e016e37833101d4452"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fc530e96339581bef5f0e16a7b350546a5482353375b6e016e37833101d4452"
+      },
+      "20": {
+        "source_ref": "Job 6:20",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 20,
+            "source_ref": "Job 6:20",
+            "segment_mode": "whole",
+            "sha256": "7e695951dad69fb1427d776e917a5b381f2ec42dde6ec1f6d6b62d7fd5cb1872"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e695951dad69fb1427d776e917a5b381f2ec42dde6ec1f6d6b62d7fd5cb1872"
+      },
+      "21": {
+        "source_ref": "Job 6:21",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 21,
+            "source_ref": "Job 6:21",
+            "segment_mode": "whole",
+            "sha256": "4f50d4776c70f081702fe74d18f6ca471b8f25d09d986bf684601f582d9960a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f50d4776c70f081702fe74d18f6ca471b8f25d09d986bf684601f582d9960a1"
+      },
+      "22": {
+        "source_ref": "Job 6:22",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 22,
+            "source_ref": "Job 6:22",
+            "segment_mode": "whole",
+            "sha256": "94c9a1710d8185d6c2025cee88c3334dc67f66e6e6e328108c632c724575e9bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94c9a1710d8185d6c2025cee88c3334dc67f66e6e6e328108c632c724575e9bb"
+      },
+      "23": {
+        "source_ref": "Job 6:23",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 23,
+            "source_ref": "Job 6:23",
+            "segment_mode": "whole",
+            "sha256": "c92a7b76476cba10bb2f1d5725047a8787b9bd0b6fb68a1291b5ebd5c6c85a9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c92a7b76476cba10bb2f1d5725047a8787b9bd0b6fb68a1291b5ebd5c6c85a9c"
+      },
+      "24": {
+        "source_ref": "Job 6:24",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 24,
+            "source_ref": "Job 6:24",
+            "segment_mode": "whole",
+            "sha256": "12c46da5e9df8eedf446ed5c3ebfdfc4646437998ff62a20b2f4f44f66035551"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12c46da5e9df8eedf446ed5c3ebfdfc4646437998ff62a20b2f4f44f66035551"
+      },
+      "25": {
+        "source_ref": "Job 6:25",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 25,
+            "source_ref": "Job 6:25",
+            "segment_mode": "whole",
+            "sha256": "637db969f1e7a84a4dbebf7639fa666916f312439de0cac79a64e997e6877916"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "637db969f1e7a84a4dbebf7639fa666916f312439de0cac79a64e997e6877916"
+      },
+      "26": {
+        "source_ref": "Job 6:26",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 26,
+            "source_ref": "Job 6:26",
+            "segment_mode": "whole",
+            "sha256": "5b69a85a8f9a97043d9608f842d92a2f05c05d671df0dcfe9d025002afcbf195"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b69a85a8f9a97043d9608f842d92a2f05c05d671df0dcfe9d025002afcbf195"
+      },
+      "27": {
+        "source_ref": "Job 6:27",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 27,
+            "source_ref": "Job 6:27",
+            "segment_mode": "whole",
+            "sha256": "add911195ef3ef146fdd18e7d1c626c60b7cf2530170a62153d0f3f57eacc9fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "add911195ef3ef146fdd18e7d1c626c60b7cf2530170a62153d0f3f57eacc9fb"
+      },
+      "28": {
+        "source_ref": "Job 6:28",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 28,
+            "source_ref": "Job 6:28",
+            "segment_mode": "whole",
+            "sha256": "ff0f4caa341dab7927010e0e9da139e0d4ae3114a1d4179b388170a4b5ad273d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff0f4caa341dab7927010e0e9da139e0d4ae3114a1d4179b388170a4b5ad273d"
+      },
+      "29": {
+        "source_ref": "Job 6:29",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 29,
+            "source_ref": "Job 6:29",
+            "segment_mode": "whole",
+            "sha256": "11093a2984e8066795c7a7ed38b2b3294a822b7a84fe2bd4fdfdc003625543bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "11093a2984e8066795c7a7ed38b2b3294a822b7a84fe2bd4fdfdc003625543bf"
+      },
+      "30": {
+        "source_ref": "Job 6:30",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 30,
+            "source_ref": "Job 6:30",
+            "segment_mode": "whole",
+            "sha256": "3a5f613cd3553c708f2d132cab4df22e50d4f160525bf7177e7ef4ecc4763d57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a5f613cd3553c708f2d132cab4df22e50d4f160525bf7177e7ef4ecc4763d57"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_06.md",
+    "blob_sha": "009541254842fcb520a3bad6a0c341562df778a9"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,441 @@
+{
+  "book": "Job",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 5:1",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "Job 5:1",
+            "segment_mode": "whole",
+            "sha256": "bbc667075f861f970b13f62bec1ef7dbb04cec5a9d1b6a0dd1b6aeecdba16561"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bbc667075f861f970b13f62bec1ef7dbb04cec5a9d1b6a0dd1b6aeecdba16561"
+      },
+      "2": {
+        "source_ref": "Job 5:2",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "Job 5:2",
+            "segment_mode": "whole",
+            "sha256": "9fbd5b5ba2d736ef9f6714206e6c28ac7a29f692e966b299b37181da523c6ffd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9fbd5b5ba2d736ef9f6714206e6c28ac7a29f692e966b299b37181da523c6ffd"
+      },
+      "3": {
+        "source_ref": "Job 5:3",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "Job 5:3",
+            "segment_mode": "whole",
+            "sha256": "a0536f15f293c684d8aa2ca3f5ef15ec65979645ce80e27f51572b0df45bcf28"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a0536f15f293c684d8aa2ca3f5ef15ec65979645ce80e27f51572b0df45bcf28"
+      },
+      "4": {
+        "source_ref": "Job 5:4",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "Job 5:4",
+            "segment_mode": "whole",
+            "sha256": "88936e8ad0fb05d5cd88ffce360df79aa4867b79e17d6ce5bf372db4933e1886"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88936e8ad0fb05d5cd88ffce360df79aa4867b79e17d6ce5bf372db4933e1886"
+      },
+      "5": {
+        "source_ref": "Job 5:5",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "Job 5:5",
+            "segment_mode": "whole",
+            "sha256": "0609c6aeae9fe91ed1cb2867dd74e2718e8f634cbc4cc350a7ee713ad486a887"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0609c6aeae9fe91ed1cb2867dd74e2718e8f634cbc4cc350a7ee713ad486a887"
+      },
+      "6": {
+        "source_ref": "Job 5:6",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "Job 5:6",
+            "segment_mode": "whole",
+            "sha256": "ad7b7d90d684c174748a060b9949955a2724cb80b57549b301219d617b91d069"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ad7b7d90d684c174748a060b9949955a2724cb80b57549b301219d617b91d069"
+      },
+      "7": {
+        "source_ref": "Job 5:7",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "Job 5:7",
+            "segment_mode": "whole",
+            "sha256": "b55e7cbd9165199d85a784bbe1085d42115438ca92b6cb8e7a88b9d321f85f42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b55e7cbd9165199d85a784bbe1085d42115438ca92b6cb8e7a88b9d321f85f42"
+      },
+      "8": {
+        "source_ref": "Job 5:8",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "Job 5:8",
+            "segment_mode": "whole",
+            "sha256": "41cfe5458f7f8814bf1a668ed48d6b5ad79f4b09fd3d86a172b1591329c51f66"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41cfe5458f7f8814bf1a668ed48d6b5ad79f4b09fd3d86a172b1591329c51f66"
+      },
+      "9": {
+        "source_ref": "Job 5:9",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "Job 5:9",
+            "segment_mode": "whole",
+            "sha256": "871220d29be4229b1ec4533e12d19823e8812f80d7e7043ca207fd6e8a9fe99e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "871220d29be4229b1ec4533e12d19823e8812f80d7e7043ca207fd6e8a9fe99e"
+      },
+      "10": {
+        "source_ref": "Job 5:10",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "Job 5:10",
+            "segment_mode": "whole",
+            "sha256": "d57dcdc67b283e5c55535bec8b07bb45d54154b4546eb7a9646e3d0c9067c7db"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d57dcdc67b283e5c55535bec8b07bb45d54154b4546eb7a9646e3d0c9067c7db"
+      },
+      "11": {
+        "source_ref": "Job 5:11",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "Job 5:11",
+            "segment_mode": "whole",
+            "sha256": "c8850d5a4ed85a2b029c429d7316512439308c04d90e6c2878bf640499a3ecac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c8850d5a4ed85a2b029c429d7316512439308c04d90e6c2878bf640499a3ecac"
+      },
+      "12": {
+        "source_ref": "Job 5:12",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "Job 5:12",
+            "segment_mode": "whole",
+            "sha256": "3042dd514a90f2b469b7794b6d40ec6c39ade014575e8a55d266335d00d7b4af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3042dd514a90f2b469b7794b6d40ec6c39ade014575e8a55d266335d00d7b4af"
+      },
+      "13": {
+        "source_ref": "Job 5:13",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "Job 5:13",
+            "segment_mode": "whole",
+            "sha256": "aef50f3d8e9e30e08684893cc486419ad2ea8a93de6d2da1002d12a1d99953e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aef50f3d8e9e30e08684893cc486419ad2ea8a93de6d2da1002d12a1d99953e4"
+      },
+      "14": {
+        "source_ref": "Job 5:14",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "Job 5:14",
+            "segment_mode": "whole",
+            "sha256": "c30d9cb2a23afcbaf7c83416212718ab45a8672e8d392e219aedb060322495dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c30d9cb2a23afcbaf7c83416212718ab45a8672e8d392e219aedb060322495dc"
+      },
+      "15": {
+        "source_ref": "Job 5:15",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 15,
+            "source_ref": "Job 5:15",
+            "segment_mode": "whole",
+            "sha256": "f9d69646277364a1c29bd20f4d77433b642e2e058403e9695cbfcbdd1a527e2e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9d69646277364a1c29bd20f4d77433b642e2e058403e9695cbfcbdd1a527e2e"
+      },
+      "16": {
+        "source_ref": "Job 5:16",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 16,
+            "source_ref": "Job 5:16",
+            "segment_mode": "whole",
+            "sha256": "54dbc03e0d5d354f4fd8d66e60af14298e40932611b472fc8b563acd29c162bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "54dbc03e0d5d354f4fd8d66e60af14298e40932611b472fc8b563acd29c162bf"
+      },
+      "17": {
+        "source_ref": "Job 5:17",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 17,
+            "source_ref": "Job 5:17",
+            "segment_mode": "whole",
+            "sha256": "1b799241e0d234ee4dac2bfef4a83c6eb90fe9884bb34c31b49553834cfcd06f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b799241e0d234ee4dac2bfef4a83c6eb90fe9884bb34c31b49553834cfcd06f"
+      },
+      "18": {
+        "source_ref": "Job 5:18",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 18,
+            "source_ref": "Job 5:18",
+            "segment_mode": "whole",
+            "sha256": "1cdcaeed877110c87c12b43a5947bf3aca59036170a6e30861aafd72e568fbcd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1cdcaeed877110c87c12b43a5947bf3aca59036170a6e30861aafd72e568fbcd"
+      },
+      "19": {
+        "source_ref": "Job 5:19",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 19,
+            "source_ref": "Job 5:19",
+            "segment_mode": "whole",
+            "sha256": "051e65ff15cb9ede30046d92ffc684a3b364aa9f2cf5f6897652ee19f37ce20d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "051e65ff15cb9ede30046d92ffc684a3b364aa9f2cf5f6897652ee19f37ce20d"
+      },
+      "20": {
+        "source_ref": "Job 5:20",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 20,
+            "source_ref": "Job 5:20",
+            "segment_mode": "whole",
+            "sha256": "5bc0ed786c1d000e7604997402e6ba4fc30c25d0ce4998811b9c411b7198a794"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5bc0ed786c1d000e7604997402e6ba4fc30c25d0ce4998811b9c411b7198a794"
+      },
+      "21": {
+        "source_ref": "Job 5:21",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 21,
+            "source_ref": "Job 5:21",
+            "segment_mode": "whole",
+            "sha256": "5ad98a3b5bb71c0787805498363a3d78b9f670a560022a26d00c1ad4fb977cc9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ad98a3b5bb71c0787805498363a3d78b9f670a560022a26d00c1ad4fb977cc9"
+      },
+      "22": {
+        "source_ref": "Job 5:22",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 22,
+            "source_ref": "Job 5:22",
+            "segment_mode": "whole",
+            "sha256": "5dea1e2f2f084b3b63691eaf14a9fc658b217e1bb0b7e6511c43237a96b0f316"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5dea1e2f2f084b3b63691eaf14a9fc658b217e1bb0b7e6511c43237a96b0f316"
+      },
+      "23": {
+        "source_ref": "Job 5:23",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 23,
+            "source_ref": "Job 5:23",
+            "segment_mode": "whole",
+            "sha256": "f28d59b810e08e04aeb7f9a97bdba9ef2d06c9dc7f96b578918211c7ae5c739b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f28d59b810e08e04aeb7f9a97bdba9ef2d06c9dc7f96b578918211c7ae5c739b"
+      },
+      "24": {
+        "source_ref": "Job 5:24",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 24,
+            "source_ref": "Job 5:24",
+            "segment_mode": "whole",
+            "sha256": "6f89f85b280a4acdfe27e4ecd9211418cc13c3a30b05377bddbc0fafa9ce85ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f89f85b280a4acdfe27e4ecd9211418cc13c3a30b05377bddbc0fafa9ce85ca"
+      },
+      "25": {
+        "source_ref": "Job 5:25",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 25,
+            "source_ref": "Job 5:25",
+            "segment_mode": "whole",
+            "sha256": "46d9d1372c8428ed825276319dc8a1ba57289f8847627e8287c5d8aba4308b0e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46d9d1372c8428ed825276319dc8a1ba57289f8847627e8287c5d8aba4308b0e"
+      },
+      "26": {
+        "source_ref": "Job 5:26",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 26,
+            "source_ref": "Job 5:26",
+            "segment_mode": "whole",
+            "sha256": "34efc6cf6ae41d04f5da59fe67ac19720c39cb64d3d1867db04ad58a9fdf4fd7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34efc6cf6ae41d04f5da59fe67ac19720c39cb64d3d1867db04ad58a9fdf4fd7"
+      },
+      "27": {
+        "source_ref": "Job 5:27",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 27,
+            "source_ref": "Job 5:27",
+            "segment_mode": "whole",
+            "sha256": "9102980b2a208c8b695ba375856b8ee424649defa29f8cb2b0f43537694cea01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9102980b2a208c8b695ba375856b8ee424649defa29f8cb2b0f43537694cea01"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_05.md",
+    "blob_sha": "18b5686bb89115a29fef7965a2a9dcc3be899191"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

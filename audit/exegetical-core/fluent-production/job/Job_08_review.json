@@ -1,0 +1,366 @@
+{
+  "book": "Job",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 8:1",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "Job 8:1",
+            "segment_mode": "whole",
+            "sha256": "78b986c6e7fa8329dd007cfe1ef2827abfd594dc944df894db946dba5f23b307"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "78b986c6e7fa8329dd007cfe1ef2827abfd594dc944df894db946dba5f23b307"
+      },
+      "2": {
+        "source_ref": "Job 8:2",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "Job 8:2",
+            "segment_mode": "whole",
+            "sha256": "f337b7580800ae44d7b30b359d4b08f5bd689482a516cd5a9e04c6f18e2222f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f337b7580800ae44d7b30b359d4b08f5bd689482a516cd5a9e04c6f18e2222f2"
+      },
+      "3": {
+        "source_ref": "Job 8:3",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "Job 8:3",
+            "segment_mode": "whole",
+            "sha256": "b01715c4c5a97223d122bd0ae3b167867e3e5e9fb0493703e94325ba932819be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b01715c4c5a97223d122bd0ae3b167867e3e5e9fb0493703e94325ba932819be"
+      },
+      "4": {
+        "source_ref": "Job 8:4",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "Job 8:4",
+            "segment_mode": "whole",
+            "sha256": "bf09d428262c9607ce682808e0e25a236c734e1748a7e536ce524e6f67ae024f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf09d428262c9607ce682808e0e25a236c734e1748a7e536ce524e6f67ae024f"
+      },
+      "5": {
+        "source_ref": "Job 8:5",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "Job 8:5",
+            "segment_mode": "whole",
+            "sha256": "4a3472d6001269e6ad12b0282138c6ef8175873d57b91ee28df69ee542b9e551"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a3472d6001269e6ad12b0282138c6ef8175873d57b91ee28df69ee542b9e551"
+      },
+      "6": {
+        "source_ref": "Job 8:6",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "Job 8:6",
+            "segment_mode": "whole",
+            "sha256": "2ae10080bddf785034088881c97146229b4b83f911b020732526dd892109e5d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ae10080bddf785034088881c97146229b4b83f911b020732526dd892109e5d7"
+      },
+      "7": {
+        "source_ref": "Job 8:7",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "Job 8:7",
+            "segment_mode": "whole",
+            "sha256": "d4e80a7641523f9eb89d4de322e4afdc92c3fb79e5d13c52f89bdb064349d9d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4e80a7641523f9eb89d4de322e4afdc92c3fb79e5d13c52f89bdb064349d9d4"
+      },
+      "8": {
+        "source_ref": "Job 8:8",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "Job 8:8",
+            "segment_mode": "whole",
+            "sha256": "16b0113ec9ef8d49eaf4f6f6fc2e7fe338a785253a1234fd74c47a65db4620bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16b0113ec9ef8d49eaf4f6f6fc2e7fe338a785253a1234fd74c47a65db4620bf"
+      },
+      "9": {
+        "source_ref": "Job 8:9",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "Job 8:9",
+            "segment_mode": "whole",
+            "sha256": "5247a27ea8f94dfd62ada484f027ddc993564658580ddc0f619f5a0f3a1580c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5247a27ea8f94dfd62ada484f027ddc993564658580ddc0f619f5a0f3a1580c3"
+      },
+      "10": {
+        "source_ref": "Job 8:10",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "Job 8:10",
+            "segment_mode": "whole",
+            "sha256": "47531565e3c3cf5026f4bbab7a0405f5a5df91571a78e38eedcb53fc0df44de1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "47531565e3c3cf5026f4bbab7a0405f5a5df91571a78e38eedcb53fc0df44de1"
+      },
+      "11": {
+        "source_ref": "Job 8:11",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 11,
+            "source_ref": "Job 8:11",
+            "segment_mode": "whole",
+            "sha256": "cddbc7d28e7a2f4fa6cc7a90af1442a42496ba41f4bdcc4e300506339bbccc22"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cddbc7d28e7a2f4fa6cc7a90af1442a42496ba41f4bdcc4e300506339bbccc22"
+      },
+      "12": {
+        "source_ref": "Job 8:12",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 12,
+            "source_ref": "Job 8:12",
+            "segment_mode": "whole",
+            "sha256": "181bbe7699924c24d6aa500d48b1b306ded1a4159a321eb296810e29f6a7f6fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "181bbe7699924c24d6aa500d48b1b306ded1a4159a321eb296810e29f6a7f6fb"
+      },
+      "13": {
+        "source_ref": "Job 8:13",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 13,
+            "source_ref": "Job 8:13",
+            "segment_mode": "whole",
+            "sha256": "97aa3f642dcd42cbca9e7297b643d3f69069de61aca06a592d0917df5ede0141"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "97aa3f642dcd42cbca9e7297b643d3f69069de61aca06a592d0917df5ede0141"
+      },
+      "14": {
+        "source_ref": "Job 8:14",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 14,
+            "source_ref": "Job 8:14",
+            "segment_mode": "whole",
+            "sha256": "9237e2cc53be359fdc68f1a40e6b1cfc77574a64c076fde42d0d164b5f340f4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9237e2cc53be359fdc68f1a40e6b1cfc77574a64c076fde42d0d164b5f340f4e"
+      },
+      "15": {
+        "source_ref": "Job 8:15",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 15,
+            "source_ref": "Job 8:15",
+            "segment_mode": "whole",
+            "sha256": "48b42a250fff16ca8f3201a61cac8691a443aa12bb39eb2a53063fc1e817a798"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48b42a250fff16ca8f3201a61cac8691a443aa12bb39eb2a53063fc1e817a798"
+      },
+      "16": {
+        "source_ref": "Job 8:16",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 16,
+            "source_ref": "Job 8:16",
+            "segment_mode": "whole",
+            "sha256": "1225199e1b916b2cc21648ea1b7468128ce20d741300279f76925634e66f1697"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1225199e1b916b2cc21648ea1b7468128ce20d741300279f76925634e66f1697"
+      },
+      "17": {
+        "source_ref": "Job 8:17",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 17,
+            "source_ref": "Job 8:17",
+            "segment_mode": "whole",
+            "sha256": "ea8afe67b20d652d55b3cd29f7eb0f48c1766c0f0ac04363bccb59b0897ae5e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea8afe67b20d652d55b3cd29f7eb0f48c1766c0f0ac04363bccb59b0897ae5e5"
+      },
+      "18": {
+        "source_ref": "Job 8:18",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 18,
+            "source_ref": "Job 8:18",
+            "segment_mode": "whole",
+            "sha256": "9c12cb0739d35fad46a99c181e61a19b5e6b2d5a174c17974bb81c5ee27c6e45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c12cb0739d35fad46a99c181e61a19b5e6b2d5a174c17974bb81c5ee27c6e45"
+      },
+      "19": {
+        "source_ref": "Job 8:19",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 19,
+            "source_ref": "Job 8:19",
+            "segment_mode": "whole",
+            "sha256": "9852b36a28c66d48d353044a095336b135087477c151f0cad3bdd09a1391ca2d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9852b36a28c66d48d353044a095336b135087477c151f0cad3bdd09a1391ca2d"
+      },
+      "20": {
+        "source_ref": "Job 8:20",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 20,
+            "source_ref": "Job 8:20",
+            "segment_mode": "whole",
+            "sha256": "a8599278962a46047d5dae0917c88bf9ed862210a0a928811aef584c44e4d5a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8599278962a46047d5dae0917c88bf9ed862210a0a928811aef584c44e4d5a2"
+      },
+      "21": {
+        "source_ref": "Job 8:21",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 21,
+            "source_ref": "Job 8:21",
+            "segment_mode": "whole",
+            "sha256": "5596a19f3945bf529bd0c13c87fe27bff748541510c0303e861a767c9c4fdfe7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5596a19f3945bf529bd0c13c87fe27bff748541510c0303e861a767c9c4fdfe7"
+      },
+      "22": {
+        "source_ref": "Job 8:22",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 22,
+            "source_ref": "Job 8:22",
+            "segment_mode": "whole",
+            "sha256": "b6ce6fe478e9d507507f7a1458d5327826d95bff11999c68021e472a74e6fa90"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6ce6fe478e9d507507f7a1458d5327826d95bff11999c68021e472a74e6fa90"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_08.md",
+    "blob_sha": "24992493d4c08e30897bb077d0a72ce6c9d156b5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

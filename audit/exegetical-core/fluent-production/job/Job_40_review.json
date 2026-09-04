@@ -1,0 +1,396 @@
+{
+  "book": "Job",
+  "chapter": 40,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 40:1",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 1,
+            "source_ref": "Job 40:1",
+            "segment_mode": "whole",
+            "sha256": "3c2bf489f22e2c200c9822dee09446c4a017ecada031d96c2e0172cd5e293f86"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c2bf489f22e2c200c9822dee09446c4a017ecada031d96c2e0172cd5e293f86"
+      },
+      "2": {
+        "source_ref": "Job 40:2",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 2,
+            "source_ref": "Job 40:2",
+            "segment_mode": "whole",
+            "sha256": "7ca9af13f005d0063e7689d4bcc74cd5787160436094491ca9baa4ed03efdaf6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ca9af13f005d0063e7689d4bcc74cd5787160436094491ca9baa4ed03efdaf6"
+      },
+      "3": {
+        "source_ref": "Job 40:3",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 3,
+            "source_ref": "Job 40:3",
+            "segment_mode": "whole",
+            "sha256": "899c4f9ca4981d0229ef9c2ad5ae373283a112911c5579ad1d9b7e74afebacff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "899c4f9ca4981d0229ef9c2ad5ae373283a112911c5579ad1d9b7e74afebacff"
+      },
+      "4": {
+        "source_ref": "Job 40:4",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 4,
+            "source_ref": "Job 40:4",
+            "segment_mode": "whole",
+            "sha256": "f5fe59e47c9e4d876b322981a0e4bfbad2f1268ddf2776892ee41b4e23afd07a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5fe59e47c9e4d876b322981a0e4bfbad2f1268ddf2776892ee41b4e23afd07a"
+      },
+      "5": {
+        "source_ref": "Job 40:5",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 5,
+            "source_ref": "Job 40:5",
+            "segment_mode": "whole",
+            "sha256": "ba8072122989d2dbb7fdb75777ef266e6b7295b9a69869c73d64abed3322402d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba8072122989d2dbb7fdb75777ef266e6b7295b9a69869c73d64abed3322402d"
+      },
+      "6": {
+        "source_ref": "Job 40:6",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 6,
+            "source_ref": "Job 40:6",
+            "segment_mode": "whole",
+            "sha256": "31d5af225707806011930c7a921297a258e1d4f4380b1c8ea56da88c0868b528"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "31d5af225707806011930c7a921297a258e1d4f4380b1c8ea56da88c0868b528"
+      },
+      "7": {
+        "source_ref": "Job 40:7",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 7,
+            "source_ref": "Job 40:7",
+            "segment_mode": "whole",
+            "sha256": "a44dbf7efde5ccf155e8d62fb78ba424e78ccae12e855f93613e3e5f22e77d06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a44dbf7efde5ccf155e8d62fb78ba424e78ccae12e855f93613e3e5f22e77d06"
+      },
+      "8": {
+        "source_ref": "Job 40:8",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 8,
+            "source_ref": "Job 40:8",
+            "segment_mode": "whole",
+            "sha256": "9ea5b07f3d53ea0507789590789cda0b7e08d45eedcd81dada6380aa1a827c9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ea5b07f3d53ea0507789590789cda0b7e08d45eedcd81dada6380aa1a827c9b"
+      },
+      "9": {
+        "source_ref": "Job 40:9",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 9,
+            "source_ref": "Job 40:9",
+            "segment_mode": "whole",
+            "sha256": "f98d101e195d5983740d5696865d7283ac09d3e96afe44653045de81308ac0bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f98d101e195d5983740d5696865d7283ac09d3e96afe44653045de81308ac0bd"
+      },
+      "10": {
+        "source_ref": "Job 40:10",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 10,
+            "source_ref": "Job 40:10",
+            "segment_mode": "whole",
+            "sha256": "fcc18f75c747ea2f0a92e939804ea9fcd79d260a505adf7eb72da2c2796010df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fcc18f75c747ea2f0a92e939804ea9fcd79d260a505adf7eb72da2c2796010df"
+      },
+      "11": {
+        "source_ref": "Job 40:11",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 11,
+            "source_ref": "Job 40:11",
+            "segment_mode": "whole",
+            "sha256": "85d10313f95c67ba98d7e1c888dc1cfab64eb2701b335328223943b07cebd352"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "85d10313f95c67ba98d7e1c888dc1cfab64eb2701b335328223943b07cebd352"
+      },
+      "12": {
+        "source_ref": "Job 40:12",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 12,
+            "source_ref": "Job 40:12",
+            "segment_mode": "whole",
+            "sha256": "16780110be4f5c95888f6315c093b7ad170fd4241263889f6088567c6e53b05a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16780110be4f5c95888f6315c093b7ad170fd4241263889f6088567c6e53b05a"
+      },
+      "13": {
+        "source_ref": "Job 40:13",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 13,
+            "source_ref": "Job 40:13",
+            "segment_mode": "whole",
+            "sha256": "fe5217e4f22ceb1d4a2afd844953102b842a83878c36a23c146622ffec71c191"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe5217e4f22ceb1d4a2afd844953102b842a83878c36a23c146622ffec71c191"
+      },
+      "14": {
+        "source_ref": "Job 40:14",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 14,
+            "source_ref": "Job 40:14",
+            "segment_mode": "whole",
+            "sha256": "2d6186f6d5ffae8a57cf598657355618d8a63c70933e4786a1cb3750ab3e1135"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d6186f6d5ffae8a57cf598657355618d8a63c70933e4786a1cb3750ab3e1135"
+      },
+      "15": {
+        "source_ref": "Job 40:15",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 15,
+            "source_ref": "Job 40:15",
+            "segment_mode": "whole",
+            "sha256": "179f10f3036d2f84607a32f7bf0196c86815d738aaccba5ce3fa0633358c70e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "179f10f3036d2f84607a32f7bf0196c86815d738aaccba5ce3fa0633358c70e2"
+      },
+      "16": {
+        "source_ref": "Job 40:16",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 16,
+            "source_ref": "Job 40:16",
+            "segment_mode": "whole",
+            "sha256": "d0ec46baae8968e67d325264d94cae681171882050037bb2fc5881a737960d0e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0ec46baae8968e67d325264d94cae681171882050037bb2fc5881a737960d0e"
+      },
+      "17": {
+        "source_ref": "Job 40:17",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 17,
+            "source_ref": "Job 40:17",
+            "segment_mode": "whole",
+            "sha256": "45c63b213aaebfdd2c1c2c00aa0f8d8d21fb19975f98aabdabb6909981334469"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45c63b213aaebfdd2c1c2c00aa0f8d8d21fb19975f98aabdabb6909981334469"
+      },
+      "18": {
+        "source_ref": "Job 40:18",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 18,
+            "source_ref": "Job 40:18",
+            "segment_mode": "whole",
+            "sha256": "2100fadd804768bd7850c432cafb39df44b76ffb911fa351a3e28508132f425c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2100fadd804768bd7850c432cafb39df44b76ffb911fa351a3e28508132f425c"
+      },
+      "19": {
+        "source_ref": "Job 40:19",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 19,
+            "source_ref": "Job 40:19",
+            "segment_mode": "whole",
+            "sha256": "a28720a7c10f9de8f94d18f3f4a4bb538b5f0c49c1706ae84c56b3235916355b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a28720a7c10f9de8f94d18f3f4a4bb538b5f0c49c1706ae84c56b3235916355b"
+      },
+      "20": {
+        "source_ref": "Job 40:20",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 20,
+            "source_ref": "Job 40:20",
+            "segment_mode": "whole",
+            "sha256": "4af683da1d8783739e3d29857aec72b3403c101fa3501ab8b53092e6321dfa3e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4af683da1d8783739e3d29857aec72b3403c101fa3501ab8b53092e6321dfa3e"
+      },
+      "21": {
+        "source_ref": "Job 40:21",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 21,
+            "source_ref": "Job 40:21",
+            "segment_mode": "whole",
+            "sha256": "40d4e530d35fb8f69de72eebcfb58cde9f0f143c690840598fb5335361a85720"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40d4e530d35fb8f69de72eebcfb58cde9f0f143c690840598fb5335361a85720"
+      },
+      "22": {
+        "source_ref": "Job 40:22",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 22,
+            "source_ref": "Job 40:22",
+            "segment_mode": "whole",
+            "sha256": "a8dd2636fef8c95f7e952142eb6f39e45ca580d80734073ac28c95c002e1c519"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8dd2636fef8c95f7e952142eb6f39e45ca580d80734073ac28c95c002e1c519"
+      },
+      "23": {
+        "source_ref": "Job 40:23",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 23,
+            "source_ref": "Job 40:23",
+            "segment_mode": "whole",
+            "sha256": "65ab52d35023c7680e3d8a9fa61e3830e235e8c4a68f770bd15861a701e7f6c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65ab52d35023c7680e3d8a9fa61e3830e235e8c4a68f770bd15861a701e7f6c3"
+      },
+      "24": {
+        "source_ref": "Job 40:24",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 24,
+            "source_ref": "Job 40:24",
+            "segment_mode": "whole",
+            "sha256": "0c3c550c3050e4bdd2c22495e7340b07f5a4e99dd978c9decd519757ba12350c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c3c550c3050e4bdd2c22495e7340b07f5a4e99dd978c9decd519757ba12350c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_40.md",
+    "blob_sha": "131fcce6f4191ce28afcff3629108e2764525c95"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

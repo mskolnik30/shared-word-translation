@@ -1,0 +1,456 @@
+{
+  "book": "Job",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 13:1",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Job 13:1",
+            "segment_mode": "whole",
+            "sha256": "2577538da511db46cbad9d8bfba1999420d8d8d242557d34f555e022154c6946"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2577538da511db46cbad9d8bfba1999420d8d8d242557d34f555e022154c6946"
+      },
+      "2": {
+        "source_ref": "Job 13:2",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 2,
+            "source_ref": "Job 13:2",
+            "segment_mode": "whole",
+            "sha256": "d71bd87ff7e5b59d0d68bccd4c43192b7f9e2b5c06d7c0808f1cd1bb0dbbc94b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d71bd87ff7e5b59d0d68bccd4c43192b7f9e2b5c06d7c0808f1cd1bb0dbbc94b"
+      },
+      "3": {
+        "source_ref": "Job 13:3",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 3,
+            "source_ref": "Job 13:3",
+            "segment_mode": "whole",
+            "sha256": "04bbaed0ab0b47810b0b2a590464c3df5c79412f914f9cc2778a82e4e54d9b8f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04bbaed0ab0b47810b0b2a590464c3df5c79412f914f9cc2778a82e4e54d9b8f"
+      },
+      "4": {
+        "source_ref": "Job 13:4",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 4,
+            "source_ref": "Job 13:4",
+            "segment_mode": "whole",
+            "sha256": "98bea00fe44065f6207e4f31e8f26c88e642cdf3dffc497d655587414448e2bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98bea00fe44065f6207e4f31e8f26c88e642cdf3dffc497d655587414448e2bb"
+      },
+      "5": {
+        "source_ref": "Job 13:5",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 5,
+            "source_ref": "Job 13:5",
+            "segment_mode": "whole",
+            "sha256": "a9a5188af95ae436ef8d3a62cbce7610aa5d7a79a8b05e476090e56401ddf79d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9a5188af95ae436ef8d3a62cbce7610aa5d7a79a8b05e476090e56401ddf79d"
+      },
+      "6": {
+        "source_ref": "Job 13:6",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Job 13:6",
+            "segment_mode": "whole",
+            "sha256": "ca4c27d5d4d7f73306e650e164c4e9b222a9a25ad4dc3695a0308c3e61b3b2ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca4c27d5d4d7f73306e650e164c4e9b222a9a25ad4dc3695a0308c3e61b3b2ec"
+      },
+      "7": {
+        "source_ref": "Job 13:7",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 7,
+            "source_ref": "Job 13:7",
+            "segment_mode": "whole",
+            "sha256": "f9030a4c6404f5bfe138a380423f26d25bc10984e221481090778ceb8bf3ecbf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9030a4c6404f5bfe138a380423f26d25bc10984e221481090778ceb8bf3ecbf"
+      },
+      "8": {
+        "source_ref": "Job 13:8",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 8,
+            "source_ref": "Job 13:8",
+            "segment_mode": "whole",
+            "sha256": "f56b1ba3d3152bcc7c097a2034ddc2e2be7ae6451031b78966f8af005925a637"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f56b1ba3d3152bcc7c097a2034ddc2e2be7ae6451031b78966f8af005925a637"
+      },
+      "9": {
+        "source_ref": "Job 13:9",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 9,
+            "source_ref": "Job 13:9",
+            "segment_mode": "whole",
+            "sha256": "bdc360fae913bcc21f486b9c000d5fef73c48339807cf345b6f0b8ebe653cd30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bdc360fae913bcc21f486b9c000d5fef73c48339807cf345b6f0b8ebe653cd30"
+      },
+      "10": {
+        "source_ref": "Job 13:10",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 10,
+            "source_ref": "Job 13:10",
+            "segment_mode": "whole",
+            "sha256": "a6bdb002aaacbb72aab422f876ac52481870337edd509c4f2af90c68a0e1e44f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6bdb002aaacbb72aab422f876ac52481870337edd509c4f2af90c68a0e1e44f"
+      },
+      "11": {
+        "source_ref": "Job 13:11",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 11,
+            "source_ref": "Job 13:11",
+            "segment_mode": "whole",
+            "sha256": "39ac465eaf72eb177ac0f70e9234df3f95bebfd00c43c2d5a0813af9a5362dcb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39ac465eaf72eb177ac0f70e9234df3f95bebfd00c43c2d5a0813af9a5362dcb"
+      },
+      "12": {
+        "source_ref": "Job 13:12",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 12,
+            "source_ref": "Job 13:12",
+            "segment_mode": "whole",
+            "sha256": "b844df5406fc947bb3ad58f03f59bc7704df96325159c4d99fc89035ebf92d0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b844df5406fc947bb3ad58f03f59bc7704df96325159c4d99fc89035ebf92d0b"
+      },
+      "13": {
+        "source_ref": "Job 13:13",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 13,
+            "source_ref": "Job 13:13",
+            "segment_mode": "whole",
+            "sha256": "179d6c6165052141db5eb27507e9448de466c96fff83fa5d28aad234aedc4816"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "179d6c6165052141db5eb27507e9448de466c96fff83fa5d28aad234aedc4816"
+      },
+      "14": {
+        "source_ref": "Job 13:14",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 14,
+            "source_ref": "Job 13:14",
+            "segment_mode": "whole",
+            "sha256": "4aaeaaf9f643623b09aca2ec8c795978833c5246221b70d94f876e96c07f1db2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4aaeaaf9f643623b09aca2ec8c795978833c5246221b70d94f876e96c07f1db2"
+      },
+      "15": {
+        "source_ref": "Job 13:15",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 15,
+            "source_ref": "Job 13:15",
+            "segment_mode": "whole",
+            "sha256": "c0d42fe2e245b8fd0d74497890419bf8a6817386483d67fb3da0c2e3385febec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0d42fe2e245b8fd0d74497890419bf8a6817386483d67fb3da0c2e3385febec"
+      },
+      "16": {
+        "source_ref": "Job 13:16",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 16,
+            "source_ref": "Job 13:16",
+            "segment_mode": "whole",
+            "sha256": "90b71cc6c5096585b5c4c08b70e713da838be50a82797054ca50aa0f07fbb45f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "90b71cc6c5096585b5c4c08b70e713da838be50a82797054ca50aa0f07fbb45f"
+      },
+      "17": {
+        "source_ref": "Job 13:17",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 17,
+            "source_ref": "Job 13:17",
+            "segment_mode": "whole",
+            "sha256": "c57a15e69eb2f54281118be0c0e37b9a1a3f14cf38059c33ecf318bbcd32aa02"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c57a15e69eb2f54281118be0c0e37b9a1a3f14cf38059c33ecf318bbcd32aa02"
+      },
+      "18": {
+        "source_ref": "Job 13:18",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 18,
+            "source_ref": "Job 13:18",
+            "segment_mode": "whole",
+            "sha256": "7568af4800ffa84eedf8fdb0d4a648d54b31944097598f21ad43f560d813bff1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7568af4800ffa84eedf8fdb0d4a648d54b31944097598f21ad43f560d813bff1"
+      },
+      "19": {
+        "source_ref": "Job 13:19",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 19,
+            "source_ref": "Job 13:19",
+            "segment_mode": "whole",
+            "sha256": "942f08d78f280b0ff3ddebef3976b84d60d28d7e44c2fd35a28b6c09b2a06f25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "942f08d78f280b0ff3ddebef3976b84d60d28d7e44c2fd35a28b6c09b2a06f25"
+      },
+      "20": {
+        "source_ref": "Job 13:20",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 20,
+            "source_ref": "Job 13:20",
+            "segment_mode": "whole",
+            "sha256": "ef26f2023d6ccd29040f924b2e49ee43d521270eefda2b5ef674bc8b25097561"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef26f2023d6ccd29040f924b2e49ee43d521270eefda2b5ef674bc8b25097561"
+      },
+      "21": {
+        "source_ref": "Job 13:21",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 21,
+            "source_ref": "Job 13:21",
+            "segment_mode": "whole",
+            "sha256": "2b1a414d55ff8b022d9d4e9d924d287c99c8f117393ddc8c98953422395de523"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b1a414d55ff8b022d9d4e9d924d287c99c8f117393ddc8c98953422395de523"
+      },
+      "22": {
+        "source_ref": "Job 13:22",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 22,
+            "source_ref": "Job 13:22",
+            "segment_mode": "whole",
+            "sha256": "f21802a796ea149a58f33ba2309d668e225245834cba7a44ffee0c956b2fb5be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f21802a796ea149a58f33ba2309d668e225245834cba7a44ffee0c956b2fb5be"
+      },
+      "23": {
+        "source_ref": "Job 13:23",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 23,
+            "source_ref": "Job 13:23",
+            "segment_mode": "whole",
+            "sha256": "7bb2c953b6d8846b2978f3f80e718e9c69328b947faf3e2a4a7a559d285a29a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7bb2c953b6d8846b2978f3f80e718e9c69328b947faf3e2a4a7a559d285a29a9"
+      },
+      "24": {
+        "source_ref": "Job 13:24",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 24,
+            "source_ref": "Job 13:24",
+            "segment_mode": "whole",
+            "sha256": "7fe34eb22d5ec064c9a52805c5db2fe38bc6af35b6376abd5e714704c24e4ff0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7fe34eb22d5ec064c9a52805c5db2fe38bc6af35b6376abd5e714704c24e4ff0"
+      },
+      "25": {
+        "source_ref": "Job 13:25",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 25,
+            "source_ref": "Job 13:25",
+            "segment_mode": "whole",
+            "sha256": "dd84c11dd3bee24f0d6f595afd6997d453f64ae5bd58377c3f480097d8805904"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd84c11dd3bee24f0d6f595afd6997d453f64ae5bd58377c3f480097d8805904"
+      },
+      "26": {
+        "source_ref": "Job 13:26",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 26,
+            "source_ref": "Job 13:26",
+            "segment_mode": "whole",
+            "sha256": "5bea4e8c06ba2e2c32d40e516566d4c6d5b7fdc631e2aadfefa25cc5efc6dc9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5bea4e8c06ba2e2c32d40e516566d4c6d5b7fdc631e2aadfefa25cc5efc6dc9c"
+      },
+      "27": {
+        "source_ref": "Job 13:27",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 27,
+            "source_ref": "Job 13:27",
+            "segment_mode": "whole",
+            "sha256": "0b939c47926782a3b3c004a611c09c1cbcd09543db23b213f21e8e7472b132cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b939c47926782a3b3c004a611c09c1cbcd09543db23b213f21e8e7472b132cf"
+      },
+      "28": {
+        "source_ref": "Job 13:28",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 28,
+            "source_ref": "Job 13:28",
+            "segment_mode": "whole",
+            "sha256": "45fa630464b99aae0d0d96ed419fc74061c00a8c8ffcada3fd0c57cda97c5335"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45fa630464b99aae0d0d96ed419fc74061c00a8c8ffcada3fd0c57cda97c5335"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_13.md",
+    "blob_sha": "bd1aa881f96343b721be2384803180bedd7e4f44"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

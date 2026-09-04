@@ -1,0 +1,253 @@
+{
+  "book": "Job",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 42,
+  "public_verse_slots": 1070,
+  "included_verse_labels": 1070,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 1070,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-2:13",
+      "decision": "Preserve the heavenly-court frame, the accuser's challenge, Job's integrity, devastating losses, and the friends' initial silence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-26",
+      "decision": "Let Job's curse and wish for nonexistence stand as lament without correcting him prematurely.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:1-27:23",
+      "decision": "Distinguish the friends' speeches and Job's replies while exposing the inadequacy of rigid retribution theology.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "28:1-28",
+      "decision": "Preserve the wisdom poem's voice and its contrast between human mining and wisdom known by God.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "29:1-31:40",
+      "decision": "Keep Job's memory, protest, ethics, and final legal challenge as one sustained defense.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "32:1-37:24",
+      "decision": "Retain Elihu's distinct voice, claims, anger, and preparation for the divine speeches without making him the uncontested solution.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "38:1-40:24",
+      "decision": "Preserve God's questions, creation imagery, and challenge to Job without reducing the speeches to a simple explanation of suffering.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "41:1-34",
+      "decision": "Bind public 41:1-8 to Hebrew 40:25-32 and 41:9-34 to Hebrew 41:1-26; retain Leviathan's poetic force.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "42:1-6",
+      "decision": "Preserve the lexical ambiguity around Job's retraction or repentance rather than overstating a confession of secret sin.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "42:7-17",
+      "decision": "Keep God's rebuke of the friends and Job's restoration while refusing to imply that new family and wealth erase prior deaths.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_05",
+  "deployment_audit": {
+    "source_git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "source_binding_count": 1070,
+    "unique_source_record_count": 1070,
+    "public_verse_slots": 1070,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 1070
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/job/Job_01.md",
+        "blob_sha": "a1107ad0765e06ed49358e968709cdc74f9d6096"
+      },
+      "02": {
+        "path": "books/OT/job/Job_02.md",
+        "blob_sha": "473acbd68d7213f0182b4f519c80ac1014b4421d"
+      },
+      "03": {
+        "path": "books/OT/job/Job_03.md",
+        "blob_sha": "28c3f542ebeadf0aca28adb4d1654c34a9615707"
+      },
+      "04": {
+        "path": "books/OT/job/Job_04.md",
+        "blob_sha": "89c40feda7f55402600abd7b05ea2605cc81554c"
+      },
+      "05": {
+        "path": "books/OT/job/Job_05.md",
+        "blob_sha": "18b5686bb89115a29fef7965a2a9dcc3be899191"
+      },
+      "06": {
+        "path": "books/OT/job/Job_06.md",
+        "blob_sha": "009541254842fcb520a3bad6a0c341562df778a9"
+      },
+      "07": {
+        "path": "books/OT/job/Job_07.md",
+        "blob_sha": "f3b192c8d26b2fb0bb8d37bb3e1c149d54dc01f8"
+      },
+      "08": {
+        "path": "books/OT/job/Job_08.md",
+        "blob_sha": "24992493d4c08e30897bb077d0a72ce6c9d156b5"
+      },
+      "09": {
+        "path": "books/OT/job/Job_09.md",
+        "blob_sha": "26046bcfce911a26b2f112b5c52afe2585b8b6bc"
+      },
+      "10": {
+        "path": "books/OT/job/Job_10.md",
+        "blob_sha": "2a9f1f6f154a9fe3e16cc22edbec3e13d18ce0e4"
+      },
+      "11": {
+        "path": "books/OT/job/Job_11.md",
+        "blob_sha": "3224f5b742e18cc50e5d07723ad58acf7f053bfb"
+      },
+      "12": {
+        "path": "books/OT/job/Job_12.md",
+        "blob_sha": "4719f381e3c3f0abf7ceef4a11a967a6d5259430"
+      },
+      "13": {
+        "path": "books/OT/job/Job_13.md",
+        "blob_sha": "bd1aa881f96343b721be2384803180bedd7e4f44"
+      },
+      "14": {
+        "path": "books/OT/job/Job_14.md",
+        "blob_sha": "a17ff2b30d67d31bd3aa7867c139304f313cbc2e"
+      },
+      "15": {
+        "path": "books/OT/job/Job_15.md",
+        "blob_sha": "a09023f39e3da8eab95f4e0af98b8d9b46a7c79f"
+      },
+      "16": {
+        "path": "books/OT/job/Job_16.md",
+        "blob_sha": "12e5478e184343a744ef99c52bec6276f1a23a38"
+      },
+      "17": {
+        "path": "books/OT/job/Job_17.md",
+        "blob_sha": "bb40113027b89029b1790f0767c315205f077031"
+      },
+      "18": {
+        "path": "books/OT/job/Job_18.md",
+        "blob_sha": "d83d6221ba522c7abdb2808590017269fe226888"
+      },
+      "19": {
+        "path": "books/OT/job/Job_19.md",
+        "blob_sha": "388756c3983c68ed446572f7364586685eca85b5"
+      },
+      "20": {
+        "path": "books/OT/job/Job_20.md",
+        "blob_sha": "290347e769a85bc5d190f4a1e9ebc679f140a591"
+      },
+      "21": {
+        "path": "books/OT/job/Job_21.md",
+        "blob_sha": "1e8bef9c74ee0c4265b64ed6876a3206be76b2b7"
+      },
+      "22": {
+        "path": "books/OT/job/Job_22.md",
+        "blob_sha": "8a2efebaf1a8ffccff094487f9a48ec41ddb9a75"
+      },
+      "23": {
+        "path": "books/OT/job/Job_23.md",
+        "blob_sha": "355b54a7da269575232dedf5fe438ca683dac4a1"
+      },
+      "24": {
+        "path": "books/OT/job/Job_24.md",
+        "blob_sha": "409baef8c14b87545acc00a065eab5d52f909934"
+      },
+      "25": {
+        "path": "books/OT/job/Job_25.md",
+        "blob_sha": "284812e203a293e12b767a7ff333db101daa2f50"
+      },
+      "26": {
+        "path": "books/OT/job/Job_26.md",
+        "blob_sha": "3747b7eb2393e0c3aadb3abce85eaa3e66ae3374"
+      },
+      "27": {
+        "path": "books/OT/job/Job_27.md",
+        "blob_sha": "004c93a83cde8b0a97adeef1b11571554250a523"
+      },
+      "28": {
+        "path": "books/OT/job/Job_28.md",
+        "blob_sha": "e3b07d3bf618b155034ba9eb3d5d9564613dde6c"
+      },
+      "29": {
+        "path": "books/OT/job/Job_29.md",
+        "blob_sha": "9098377dc94bdb4ae0b6809abff8cec8b9d66ff9"
+      },
+      "30": {
+        "path": "books/OT/job/Job_30.md",
+        "blob_sha": "923e9554693b703dff3a189710f7384a46513941"
+      },
+      "31": {
+        "path": "books/OT/job/Job_31.md",
+        "blob_sha": "7c65029a79cb0a1d7725e3b7bb282f3264830110"
+      },
+      "32": {
+        "path": "books/OT/job/Job_32.md",
+        "blob_sha": "c631554a220a33ed0574f95bf094d40254a4cd29"
+      },
+      "33": {
+        "path": "books/OT/job/Job_33.md",
+        "blob_sha": "639870b9104aea08561cdf98f59df72cdc0024c6"
+      },
+      "34": {
+        "path": "books/OT/job/Job_34.md",
+        "blob_sha": "1ded1e5972cacdcf354aaa117e35c26d4b9d6f3d"
+      },
+      "35": {
+        "path": "books/OT/job/Job_35.md",
+        "blob_sha": "4e37d0b840772add7b7dcdb5d764e51776413368"
+      },
+      "36": {
+        "path": "books/OT/job/Job_36.md",
+        "blob_sha": "f948b6b9e208e0cde1b9e45999682d975ce4d111"
+      },
+      "37": {
+        "path": "books/OT/job/Job_37.md",
+        "blob_sha": "08faed3810e5480a8a9418a2e11a8c7d4cb26250"
+      },
+      "38": {
+        "path": "books/OT/job/Job_38.md",
+        "blob_sha": "e580b1d3c5dd9c46b96649474d13f36d8dec5fb3"
+      },
+      "39": {
+        "path": "books/OT/job/Job_39.md",
+        "blob_sha": "8da480fad4618bbde2a576be95d2c6f4a145146f"
+      },
+      "40": {
+        "path": "books/OT/job/Job_40.md",
+        "blob_sha": "131fcce6f4191ce28afcff3629108e2764525c95"
+      },
+      "41": {
+        "path": "books/OT/job/Job_41.md",
+        "blob_sha": "7fa55dbc85c387f7b69ec10ceee496e46bc705f2"
+      },
+      "42": {
+        "path": "books/OT/job/Job_42.md",
+        "blob_sha": "1d58b32fad44e986a7644c939c7049f48c219e94"
+      }
+    }
+  }
+}

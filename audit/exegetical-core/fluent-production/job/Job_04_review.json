@@ -1,0 +1,357 @@
+{
+  "book": "Job",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "4:1-27:23",
+      "decision": "Distinguish the friends' speeches and Job's replies while exposing the inadequacy of rigid retribution theology.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 4:1",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "Job 4:1",
+            "segment_mode": "whole",
+            "sha256": "9660d7ac635ab82e958a78991f52d9d8e4220e57785242b524f55b44abfb06c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9660d7ac635ab82e958a78991f52d9d8e4220e57785242b524f55b44abfb06c8"
+      },
+      "2": {
+        "source_ref": "Job 4:2",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "Job 4:2",
+            "segment_mode": "whole",
+            "sha256": "20f23b5f949e74942df0a6c09528d47a3331820f587d16893370dcd0c1f31a45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "20f23b5f949e74942df0a6c09528d47a3331820f587d16893370dcd0c1f31a45"
+      },
+      "3": {
+        "source_ref": "Job 4:3",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "Job 4:3",
+            "segment_mode": "whole",
+            "sha256": "f9eee41e9855a9a41364c7ecb0a7af92dbd1eb7378b6e987b9420926e127f32c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9eee41e9855a9a41364c7ecb0a7af92dbd1eb7378b6e987b9420926e127f32c"
+      },
+      "4": {
+        "source_ref": "Job 4:4",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "Job 4:4",
+            "segment_mode": "whole",
+            "sha256": "f00aac8df39788ecea6d16accb60aaf293dab45b397e5ec13038933b816b7215"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f00aac8df39788ecea6d16accb60aaf293dab45b397e5ec13038933b816b7215"
+      },
+      "5": {
+        "source_ref": "Job 4:5",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "Job 4:5",
+            "segment_mode": "whole",
+            "sha256": "536281eafb93cdf20444d561e4f5a3dc875846fbfcbc5d503697a3363af57c6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "536281eafb93cdf20444d561e4f5a3dc875846fbfcbc5d503697a3363af57c6a"
+      },
+      "6": {
+        "source_ref": "Job 4:6",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "Job 4:6",
+            "segment_mode": "whole",
+            "sha256": "e4dca05831ec795ee3798431afd8f3e6acdb1ad2d9b8bfbe079db75242faac61"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4dca05831ec795ee3798431afd8f3e6acdb1ad2d9b8bfbe079db75242faac61"
+      },
+      "7": {
+        "source_ref": "Job 4:7",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "Job 4:7",
+            "segment_mode": "whole",
+            "sha256": "898552c95c7575b6837ade1b9ca364ebb1584a3f55c78f3125fe67f56db6ad3f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "898552c95c7575b6837ade1b9ca364ebb1584a3f55c78f3125fe67f56db6ad3f"
+      },
+      "8": {
+        "source_ref": "Job 4:8",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "Job 4:8",
+            "segment_mode": "whole",
+            "sha256": "3cafa8ac2e04f266a3b59694520a3fa90e67375c6e888c917caded6756ab64f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3cafa8ac2e04f266a3b59694520a3fa90e67375c6e888c917caded6756ab64f8"
+      },
+      "9": {
+        "source_ref": "Job 4:9",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "Job 4:9",
+            "segment_mode": "whole",
+            "sha256": "9dd93c5df616872f01ff42996b2c597d544c47dbd1e34403a8567d6c3d3635b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9dd93c5df616872f01ff42996b2c597d544c47dbd1e34403a8567d6c3d3635b1"
+      },
+      "10": {
+        "source_ref": "Job 4:10",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 10,
+            "source_ref": "Job 4:10",
+            "segment_mode": "whole",
+            "sha256": "b9069fd98a6632c4b128e81fb5984a1543929ff50e96c65e52e64afb9ed925a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b9069fd98a6632c4b128e81fb5984a1543929ff50e96c65e52e64afb9ed925a8"
+      },
+      "11": {
+        "source_ref": "Job 4:11",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 11,
+            "source_ref": "Job 4:11",
+            "segment_mode": "whole",
+            "sha256": "e79e314ff3c76f0fc852bdc9843bcfbf030b11271f4cedae6ee720cbb04b398f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e79e314ff3c76f0fc852bdc9843bcfbf030b11271f4cedae6ee720cbb04b398f"
+      },
+      "12": {
+        "source_ref": "Job 4:12",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 12,
+            "source_ref": "Job 4:12",
+            "segment_mode": "whole",
+            "sha256": "16178e8ae46a62ffa50f886cb6705842133b80948a3a88b97111d01ef7f1a279"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16178e8ae46a62ffa50f886cb6705842133b80948a3a88b97111d01ef7f1a279"
+      },
+      "13": {
+        "source_ref": "Job 4:13",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 13,
+            "source_ref": "Job 4:13",
+            "segment_mode": "whole",
+            "sha256": "b4d162ed3c3783919274da70c3423bfba3eea6ecdff2171cd320c1156e97cc28"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4d162ed3c3783919274da70c3423bfba3eea6ecdff2171cd320c1156e97cc28"
+      },
+      "14": {
+        "source_ref": "Job 4:14",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 14,
+            "source_ref": "Job 4:14",
+            "segment_mode": "whole",
+            "sha256": "b3893574a399f4c76bf278e5d4ece5f9b1e9e38e96593f795615d78782715a26"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b3893574a399f4c76bf278e5d4ece5f9b1e9e38e96593f795615d78782715a26"
+      },
+      "15": {
+        "source_ref": "Job 4:15",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 15,
+            "source_ref": "Job 4:15",
+            "segment_mode": "whole",
+            "sha256": "eceae2434df2b86ac4d882a7dccfc42a0578d0ab9772c409851ccba91e2a554c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eceae2434df2b86ac4d882a7dccfc42a0578d0ab9772c409851ccba91e2a554c"
+      },
+      "16": {
+        "source_ref": "Job 4:16",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 16,
+            "source_ref": "Job 4:16",
+            "segment_mode": "whole",
+            "sha256": "4b8b190f825c25b3490b6ebe1df2a7f6956dae841f0a079c7db8ab505bc10142"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b8b190f825c25b3490b6ebe1df2a7f6956dae841f0a079c7db8ab505bc10142"
+      },
+      "17": {
+        "source_ref": "Job 4:17",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 17,
+            "source_ref": "Job 4:17",
+            "segment_mode": "whole",
+            "sha256": "e157fd5884931bd45b59bbc558c1ec78839044e38ebaaef4e406101a5674c6b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e157fd5884931bd45b59bbc558c1ec78839044e38ebaaef4e406101a5674c6b7"
+      },
+      "18": {
+        "source_ref": "Job 4:18",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 18,
+            "source_ref": "Job 4:18",
+            "segment_mode": "whole",
+            "sha256": "5dccd03bf0ffe14ae72950528f6f82fc00a9931965457c9559fbffa39725df4d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5dccd03bf0ffe14ae72950528f6f82fc00a9931965457c9559fbffa39725df4d"
+      },
+      "19": {
+        "source_ref": "Job 4:19",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 19,
+            "source_ref": "Job 4:19",
+            "segment_mode": "whole",
+            "sha256": "3dd37b454066560ba23b032fe7c6fe83cdfe57a43cb238509e79b414f084b7d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3dd37b454066560ba23b032fe7c6fe83cdfe57a43cb238509e79b414f084b7d5"
+      },
+      "20": {
+        "source_ref": "Job 4:20",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 20,
+            "source_ref": "Job 4:20",
+            "segment_mode": "whole",
+            "sha256": "ce85b9c8f6711b5d14b69778e321f1b8ef240436bfa72b2405eed00caede40de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce85b9c8f6711b5d14b69778e321f1b8ef240436bfa72b2405eed00caede40de"
+      },
+      "21": {
+        "source_ref": "Job 4:21",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 21,
+            "source_ref": "Job 4:21",
+            "segment_mode": "whole",
+            "sha256": "ec3337ad215b9cba7bcc3bb3545a72e4860d19cb108b49df011ba00924dc5948"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec3337ad215b9cba7bcc3bb3545a72e4860d19cb108b49df011ba00924dc5948"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_04.md",
+    "blob_sha": "89c40feda7f55402600abd7b05ea2605cc81554c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

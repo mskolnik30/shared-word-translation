@@ -1,0 +1,231 @@
+{
+  "book": "Job",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 2:1",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Job 2:1",
+            "segment_mode": "whole",
+            "sha256": "6452a1234096754845d2e626bb349e3a7b0692208cade398e5e76e000ef18fb9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6452a1234096754845d2e626bb349e3a7b0692208cade398e5e76e000ef18fb9"
+      },
+      "2": {
+        "source_ref": "Job 2:2",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Job 2:2",
+            "segment_mode": "whole",
+            "sha256": "e5ab3ed6c40048192b4edbb453ceaad9f5efaee2a5a13e9a0f0d3776ccd5098c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5ab3ed6c40048192b4edbb453ceaad9f5efaee2a5a13e9a0f0d3776ccd5098c"
+      },
+      "3": {
+        "source_ref": "Job 2:3",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Job 2:3",
+            "segment_mode": "whole",
+            "sha256": "fdbf72e6d800edc3368a3a584020087f9810c5101d62bf06559961fabc01299b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fdbf72e6d800edc3368a3a584020087f9810c5101d62bf06559961fabc01299b"
+      },
+      "4": {
+        "source_ref": "Job 2:4",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Job 2:4",
+            "segment_mode": "whole",
+            "sha256": "1d113241ada1a716b52c8924721b20c5bb94a4a7dc09f500788996ae5a0ab487"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d113241ada1a716b52c8924721b20c5bb94a4a7dc09f500788996ae5a0ab487"
+      },
+      "5": {
+        "source_ref": "Job 2:5",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "Job 2:5",
+            "segment_mode": "whole",
+            "sha256": "4196dd2fe16330bc82fc6249a88f888e1ea4b725e65576466cc764f840c47a81"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4196dd2fe16330bc82fc6249a88f888e1ea4b725e65576466cc764f840c47a81"
+      },
+      "6": {
+        "source_ref": "Job 2:6",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "Job 2:6",
+            "segment_mode": "whole",
+            "sha256": "8e9d5973bc7cac2e4e5829c7897a1e6c6c784f3a83090b29492213f2cef30ea6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e9d5973bc7cac2e4e5829c7897a1e6c6c784f3a83090b29492213f2cef30ea6"
+      },
+      "7": {
+        "source_ref": "Job 2:7",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "Job 2:7",
+            "segment_mode": "whole",
+            "sha256": "b821022616bc517ee27a309b724a1b3aba0fda7528e2d62028888bfcce48d3c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b821022616bc517ee27a309b724a1b3aba0fda7528e2d62028888bfcce48d3c8"
+      },
+      "8": {
+        "source_ref": "Job 2:8",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "Job 2:8",
+            "segment_mode": "whole",
+            "sha256": "40462406734ab3c3d137aa43c18a2c74a44f85d89405640269e4f8e5af4facab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40462406734ab3c3d137aa43c18a2c74a44f85d89405640269e4f8e5af4facab"
+      },
+      "9": {
+        "source_ref": "Job 2:9",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "Job 2:9",
+            "segment_mode": "whole",
+            "sha256": "f2800d4724208457015c8519cd78b881f13a3481240c34bb6235ae6e2243d5ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2800d4724208457015c8519cd78b881f13a3481240c34bb6235ae6e2243d5ca"
+      },
+      "10": {
+        "source_ref": "Job 2:10",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "Job 2:10",
+            "segment_mode": "whole",
+            "sha256": "1fc8cabfb0956829f8421153b0e564ce676180187fa62396fc8b46cb9f2aef85"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1fc8cabfb0956829f8421153b0e564ce676180187fa62396fc8b46cb9f2aef85"
+      },
+      "11": {
+        "source_ref": "Job 2:11",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "Job 2:11",
+            "segment_mode": "whole",
+            "sha256": "85b524016486bb3311ede8a31b3abc0917842e79ef11e17cd986a1eab688bdfc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "85b524016486bb3311ede8a31b3abc0917842e79ef11e17cd986a1eab688bdfc"
+      },
+      "12": {
+        "source_ref": "Job 2:12",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "Job 2:12",
+            "segment_mode": "whole",
+            "sha256": "528e36936494d733594c67ae14cb69c6edf0ea7e326bc61e4cb775495a2b5e77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "528e36936494d733594c67ae14cb69c6edf0ea7e326bc61e4cb775495a2b5e77"
+      },
+      "13": {
+        "source_ref": "Job 2:13",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "Job 2:13",
+            "segment_mode": "whole",
+            "sha256": "b195db918d45a96575e5b4eb80959347750423c0c6e5766689e860dde5e0b4f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b195db918d45a96575e5b4eb80959347750423c0c6e5766689e860dde5e0b4f9"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_02.md",
+    "blob_sha": "473acbd68d7213f0182b4f519c80ac1014b4421d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
