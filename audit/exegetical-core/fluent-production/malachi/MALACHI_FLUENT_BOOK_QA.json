@@ -1,0 +1,81 @@
+{
+  "book": "Malachi",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 4,
+  "public_verse_slots": 55,
+  "included_verse_labels": 55,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 55,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mal.xml",
+    "git_blob_sha": "cbc6a0ee566e2911b2c8c4a229d8ee4af82b587b"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:2-5",
+      "decision": "Keep Jacob and Esau as covenantal and national language in the book's disputation, not a claim about modern ethnic worth.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:6-2:9",
+      "decision": "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:10-16",
+      "decision": "Retain covenant betrayal, intermarriage, violence, and the textually difficult divorce language; do not use the passage to trap people in abuse.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-5",
+      "decision": "Keep the messenger, divine arrival, refining judgment, and defense of vulnerable people connected.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:6-12",
+      "decision": "Translate tithes within covenant repair and communal provision, not as a guaranteed prosperity formula.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:1-6",
+      "decision": "Bind the public chapter to Hebrew 3:19-24 and preserve both the day, healing, Moses, Elijah, and intergenerational reconciliation.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_04",
+  "deployment_audit": {
+    "source_git_blob_sha": "cbc6a0ee566e2911b2c8c4a229d8ee4af82b587b",
+    "source_binding_count": 55,
+    "unique_source_record_count": 55,
+    "public_verse_slots": 55,
+    "ledger_summary": {
+      "F0": 5,
+      "F1": 3,
+      "F2": 0,
+      "F3": 47
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/malachi/Malachi_01.md",
+        "blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda"
+      },
+      "02": {
+        "path": "books/OT/malachi/Malachi_02.md",
+        "blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4"
+      },
+      "03": {
+        "path": "books/OT/malachi/Malachi_03.md",
+        "blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56"
+      },
+      "04": {
+        "path": "books/OT/malachi/Malachi_04.md",
+        "blob_sha": "ac34a80b4faf434b075656475754d0a2aaf40a6d"
+      }
+    }
+  }
+}

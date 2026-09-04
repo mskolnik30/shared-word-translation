@@ -1,0 +1,1270 @@
+{
+  "book": "Malachi",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mal.xml",
+    "git_blob_sha": "cbc6a0ee566e2911b2c8c4a229d8ee4af82b587b"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Malachi 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Malachi 1:1",
+          "segment_mode": "whole",
+          "sha256": "de90934bb2ce87c96965d57e5dd296c869f0889af57380799d4b2bbec7926cf7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "de90934bb2ce87c96965d57e5dd296c869f0889af57380799d4b2bbec7926cf7",
+      "translation_sha256": "af6bbe59bbab384d81d15b8e1ba542adefc260f52975e647a519270ef2e13e89",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Malachi 1:2",
+          "segment_mode": "whole",
+          "sha256": "718f85179477720203f91a4e4fe6a7255c1f5ff1a51f50b0a43ae7cc463e2f06"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "718f85179477720203f91a4e4fe6a7255c1f5ff1a51f50b0a43ae7cc463e2f06",
+      "translation_sha256": "d7fb0173902f7b48f6d9e49af21c47ae09ed008aa3cc2bcb55cb9ac207e22b91",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Keep Jacob and Esau as covenantal and national language in the book's disputation, not a claim about modern ethnic worth."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Malachi 1:3",
+          "segment_mode": "whole",
+          "sha256": "17facf4d9d9dbb04caafad1cc4aef4b352c4b2f33bedabfbca624cf81c538381"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "17facf4d9d9dbb04caafad1cc4aef4b352c4b2f33bedabfbca624cf81c538381",
+      "translation_sha256": "0932e793751890b10aedcc399d5bbd593857292eefda31ee595005645b1f186e",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Keep Jacob and Esau as covenantal and national language in the book's disputation, not a claim about modern ethnic worth."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Malachi 1:4",
+          "segment_mode": "whole",
+          "sha256": "d8339dca620d12d5ec8d175b2356eaa5b81790e52de217812c22e5cb7e46fb52"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d8339dca620d12d5ec8d175b2356eaa5b81790e52de217812c22e5cb7e46fb52",
+      "translation_sha256": "e9ee0fa0f2a0d0bbbc1bc25c9cb05ed4397642e84b4c6a18d978b368853544cb",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Keep Jacob and Esau as covenantal and national language in the book's disputation, not a claim about modern ethnic worth."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Malachi 1:5",
+          "segment_mode": "whole",
+          "sha256": "e78587f80ab3556926ec13c259e08da3db875c5b75055f83d0e2aeeb0b196ceb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e78587f80ab3556926ec13c259e08da3db875c5b75055f83d0e2aeeb0b196ceb",
+      "translation_sha256": "f5eee1aea270192f9e1e90494a3d5255fd1df6a4cc58505216ae6fe0d8d44ca8",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Keep Jacob and Esau as covenantal and national language in the book's disputation, not a claim about modern ethnic worth."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Malachi 1:6",
+          "segment_mode": "whole",
+          "sha256": "2bd8f57e4bf29baeb1f0f68ca19721f043296d54117ed7a399dc8267e0d7ab1a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2bd8f57e4bf29baeb1f0f68ca19721f043296d54117ed7a399dc8267e0d7ab1a",
+      "translation_sha256": "eca996a6ef31317aa7339b7a005c178d8a7079152d59a345e338abebca0b095e",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Malachi 1:7",
+          "segment_mode": "whole",
+          "sha256": "4e930d3e3e9983e2369955fdd8f59736d03d738c18920ba712c6c383bcbf0f13"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4e930d3e3e9983e2369955fdd8f59736d03d738c18920ba712c6c383bcbf0f13",
+      "translation_sha256": "31ffa8be39b7a763cf6696d5572a3bf0b109512de48b3e116e0496be914c614b",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Malachi 1:8",
+          "segment_mode": "whole",
+          "sha256": "f2154b8c745a63b6574cb5271a97d1c08071acffc164313e80b49f0f051c53b0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f2154b8c745a63b6574cb5271a97d1c08071acffc164313e80b49f0f051c53b0",
+      "translation_sha256": "b8f7577013feb48f20b557659ee206f5ddd06e5110eb71895faf348f2d21684a",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Malachi 1:9",
+          "segment_mode": "whole",
+          "sha256": "be42aa39b1af16013e91464216818820e4d9f8874112f08b9003b299db36a05c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "be42aa39b1af16013e91464216818820e4d9f8874112f08b9003b299db36a05c",
+      "translation_sha256": "597396d18f0b9050b8665ba3aa7ab88a96aeb62d943a5a1b3620a4f6726c9a97",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Malachi 1:10",
+          "segment_mode": "whole",
+          "sha256": "967345df170a6b3ef6a04b296f9b4d06465a5e5de6b3f7df90f925d2bbe7ee3d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "967345df170a6b3ef6a04b296f9b4d06465a5e5de6b3f7df90f925d2bbe7ee3d",
+      "translation_sha256": "61f6a1f38369baeeddff6ad09c5a244687fb77b08bb8183bff5369ba03cd802e",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Malachi 1:11",
+          "segment_mode": "whole",
+          "sha256": "a8fe8d1a89423fcb99751159a033d964c7e0e842c57116cc15048e805f2d9ee7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a8fe8d1a89423fcb99751159a033d964c7e0e842c57116cc15048e805f2d9ee7",
+      "translation_sha256": "5f71ad84e9a30c77fd89a620e983f82132451f121fa5f55a3bd3f86d1a14f849",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Malachi 1:12",
+          "segment_mode": "whole",
+          "sha256": "af8edd9ec67308187e8a0937c3e2f229d24ee5841c7071eac5105de46f408946"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "af8edd9ec67308187e8a0937c3e2f229d24ee5841c7071eac5105de46f408946",
+      "translation_sha256": "f110ef02116d89b3c64ff01536fbd55e8d8b5fb097930f965b2298044b47b7bf",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Malachi 1:13",
+          "segment_mode": "whole",
+          "sha256": "5c1b2fa095ba879439261aa31400d665cdc9ffec7bc3d401ea28287c46131eeb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5c1b2fa095ba879439261aa31400d665cdc9ffec7bc3d401ea28287c46131eeb",
+      "translation_sha256": "4dd52cec46f10092189ed3de4625c3237c7c3e5627d8c7f69bb06828b90eea96",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Malachi 1:14",
+          "segment_mode": "whole",
+          "sha256": "54a4eed301b6d463d760e723a2c3fb71727fc251177600f5b11dd72504a1b814"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "54a4eed301b6d463d760e723a2c3fb71727fc251177600f5b11dd72504a1b814",
+      "translation_sha256": "a9763e8959f3f6be2a1bc564a9b2612a7e1ce9a92498443d8cb227caf2486a3d",
+      "tsw_blob_sha": "b8a10e2fa749ad22ed35927032b279022b009cda",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Malachi 2:1",
+          "segment_mode": "whole",
+          "sha256": "2417ea3b96c637faafecebe1821bd74489c98b1946d0e99d622afbd0eecad7da"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2417ea3b96c637faafecebe1821bd74489c98b1946d0e99d622afbd0eecad7da",
+      "translation_sha256": "0c4433e5afbb771b44c54a815c6b544a1d93947a715ade6d46b59d5a4f3160a3",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Malachi 2:2",
+          "segment_mode": "whole",
+          "sha256": "321bb8d27d9edf0009c03695ff75f6e624a9250bb5025957c18789f3234807b7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "321bb8d27d9edf0009c03695ff75f6e624a9250bb5025957c18789f3234807b7",
+      "translation_sha256": "a315ec8e00655ac66efe236eaf42daf5409d994e4be12644c928e0856dcbd94b",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Malachi 2:3",
+          "segment_mode": "whole",
+          "sha256": "4d4cefe411ca690a5ae1aaed924aac8a5b0cbabc6e4ba7781aaaea6d748a1f7b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4d4cefe411ca690a5ae1aaed924aac8a5b0cbabc6e4ba7781aaaea6d748a1f7b",
+      "translation_sha256": "927639ce022e9a134a03b42774a3056f31367f033d3c168d75cb55546aa727d3",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Malachi 2:4",
+          "segment_mode": "whole",
+          "sha256": "d0be992b65d131e4399484abc1c6a3e1bba69aab18fbab3e90d0b1412de46b89"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d0be992b65d131e4399484abc1c6a3e1bba69aab18fbab3e90d0b1412de46b89",
+      "translation_sha256": "17ea47621228b5e749c60a58c208d873f1aa1ecec6b7f3346fb509402b2bfdf4",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Malachi 2:5",
+          "segment_mode": "whole",
+          "sha256": "4726caf30ead112cb1113c0b1b135e8e6774f00f5ccf5302b40e378d2bd2de2a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4726caf30ead112cb1113c0b1b135e8e6774f00f5ccf5302b40e378d2bd2de2a",
+      "translation_sha256": "c8ae257f768ac2cae33e2e7d6c6cf95d3b17bae6fa66e5e796961c57aeb2b090",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Malachi 2:6",
+          "segment_mode": "whole",
+          "sha256": "fbfc20479dec370307d981896238b5caed656673f7b883dbc15b82a776b32260"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fbfc20479dec370307d981896238b5caed656673f7b883dbc15b82a776b32260",
+      "translation_sha256": "4f5a65363c7d45376b63415b73ff0c6e60121fd06178cadcd9330e7a74c9e8bb",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Malachi 2:7",
+          "segment_mode": "whole",
+          "sha256": "d51b2a46d32ce8b87d3075090f056d7104dbb1f8b368b776bf5eb182b0ca50ea"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d51b2a46d32ce8b87d3075090f056d7104dbb1f8b368b776bf5eb182b0ca50ea",
+      "translation_sha256": "26d76c80f9739809634ad1dcc0ca9e026c10e52ead951ea00f88b6e439a17183",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Malachi 2:8",
+          "segment_mode": "whole",
+          "sha256": "bee3fa90dc14ccbb87613039eed1183465aecd3103270faf2fa91249fefd7b0c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bee3fa90dc14ccbb87613039eed1183465aecd3103270faf2fa91249fefd7b0c",
+      "translation_sha256": "bc1228ca2d94a3f766de0849d41fd86adef585b266d0699d21cad781f38a8a67",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Malachi 2:9",
+          "segment_mode": "whole",
+          "sha256": "118280924ddbb2105dd077ac97bc18bfcd338cfca39617fa94c106b824d0b0e1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "118280924ddbb2105dd077ac97bc18bfcd338cfca39617fa94c106b824d0b0e1",
+      "translation_sha256": "7a359f1074f432219d6115c06d6ba090093da3b04b93156cac930ea66438ce33",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Preserve the critique of priests who dishonor God, corrupt instruction, and show partiality."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Malachi 2:10",
+          "segment_mode": "whole",
+          "sha256": "26f6b82c02d916c597c14fe8f6d470e57156432c3bd7396b438e8169fc5a6624"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "26f6b82c02d916c597c14fe8f6d470e57156432c3bd7396b438e8169fc5a6624",
+      "translation_sha256": "ed5997026621094a1f9e21cd97da2e7bb09a3ccf588b01d8ecac8d39887be465",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Retain covenant betrayal, intermarriage, violence, and the textually difficult divorce language; do not use the passage to trap people in abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Malachi 2:11",
+          "segment_mode": "whole",
+          "sha256": "b9385e343153c50e6e87c98bce85616c8801bf5f272d68876e534640e5d58a86"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b9385e343153c50e6e87c98bce85616c8801bf5f272d68876e534640e5d58a86",
+      "translation_sha256": "1c3e45d1be448f989c35e6f7a253a62ac477cba31835680606f5cd2960410501",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Retain covenant betrayal, intermarriage, violence, and the textually difficult divorce language; do not use the passage to trap people in abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Malachi 2:12",
+          "segment_mode": "whole",
+          "sha256": "bc1ea71dbc0d3befb3cb2028df3179882a070f1938f17f8fb070cf460c07bb76"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bc1ea71dbc0d3befb3cb2028df3179882a070f1938f17f8fb070cf460c07bb76",
+      "translation_sha256": "6e5b52f17133af080f4921f51d96281167867690d4d77b88a66c62803dbcb37b",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Retain covenant betrayal, intermarriage, violence, and the textually difficult divorce language; do not use the passage to trap people in abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Malachi 2:13",
+          "segment_mode": "whole",
+          "sha256": "775c6fc54a7838a66639bd0d50d17aeddef95460bc5ff38b50248d21feafb395"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "775c6fc54a7838a66639bd0d50d17aeddef95460bc5ff38b50248d21feafb395",
+      "translation_sha256": "fc48c2dafbf3c1bcc5a8e540ce6049df5ed64e7e9885c44ec0e78bd5364a4c30",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Retain covenant betrayal, intermarriage, violence, and the textually difficult divorce language; do not use the passage to trap people in abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Malachi 2:14",
+          "segment_mode": "whole",
+          "sha256": "5502bc649432525af2338c31696df86a2f95a52b029a1a2d27127951b6c32a74"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5502bc649432525af2338c31696df86a2f95a52b029a1a2d27127951b6c32a74",
+      "translation_sha256": "76d42e1e670cab827bafc47a945ae457b9c1a35f17693b41c6e17aafd54dea54",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Retain covenant betrayal, intermarriage, violence, and the textually difficult divorce language; do not use the passage to trap people in abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Malachi 2:15",
+          "segment_mode": "whole",
+          "sha256": "4867161e046b5353bb893c23964cd92f71668d81781d2eb46b1293ea71b80d38"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4867161e046b5353bb893c23964cd92f71668d81781d2eb46b1293ea71b80d38",
+      "translation_sha256": "1d786d088f6c05bcd606c4eae7d7677316f06bdc95efa552f9b6b8bf1dfd3ae3",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Retain covenant betrayal, intermarriage, violence, and the textually difficult divorce language; do not use the passage to trap people in abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 2:16",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "Malachi 2:16",
+          "segment_mode": "whole",
+          "sha256": "4b41c3837ae582d13a0d6e17e84eef4ef5942b3dd578095801888856d902045c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4b41c3837ae582d13a0d6e17e84eef4ef5942b3dd578095801888856d902045c",
+      "translation_sha256": "af508efe19ba4184976368b1e1f2fa2fd525f6a39254fbf2ed967e3b5627573e",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": [
+        "Retain covenant betrayal, intermarriage, violence, and the textually difficult divorce language; do not use the passage to trap people in abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Malachi 2:17",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "Malachi 2:17",
+          "segment_mode": "whole",
+          "sha256": "0db4cf3697d7a40a13e05786db4cefd88e7f3e2cfd1700dbecca6e2d48544f4a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0db4cf3697d7a40a13e05786db4cefd88e7f3e2cfd1700dbecca6e2d48544f4a",
+      "translation_sha256": "3abbbeefba02147adee3d5b54fe7e9a84c0e6a34fba61b24ba5994daea9b2652",
+      "tsw_blob_sha": "d1f23f155b639caea72be2e90e9f8dfd4c2059b4",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Malachi 3:1",
+          "segment_mode": "whole",
+          "sha256": "17ad3f3cca8a10a8a0a2372cfc72b9cfeeb077f9ff9fcb632c4ffa636d510d48"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "17ad3f3cca8a10a8a0a2372cfc72b9cfeeb077f9ff9fcb632c4ffa636d510d48",
+      "translation_sha256": "3ca8631008980b87bc3218c05a8f828f721ac75b3354903bfcabcb1d2c9ed120",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Keep the messenger, divine arrival, refining judgment, and defense of vulnerable people connected."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Malachi 3:2",
+          "segment_mode": "whole",
+          "sha256": "e82050b3802b7e617ab621edf6b19b16d1cd0e25724d56c279f1ba9bd0b96e94"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e82050b3802b7e617ab621edf6b19b16d1cd0e25724d56c279f1ba9bd0b96e94",
+      "translation_sha256": "7780763ae5ed1695ded0d40f9d93a80180a5e7efa1df426482bfc09b1f756c6a",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Keep the messenger, divine arrival, refining judgment, and defense of vulnerable people connected."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Malachi 3:3",
+          "segment_mode": "whole",
+          "sha256": "3cbdff74dc54e7f03c7b4ac613e5a5963a403d92be27c998bd936cc53bdbc229"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3cbdff74dc54e7f03c7b4ac613e5a5963a403d92be27c998bd936cc53bdbc229",
+      "translation_sha256": "57e85b51f10e9aa1d529deb5a737eb8ad14936ff20fc7a6c056e187d91273218",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Keep the messenger, divine arrival, refining judgment, and defense of vulnerable people connected."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Malachi 3:4",
+          "segment_mode": "whole",
+          "sha256": "adb04b48b9d7666c284d890fa705785d0718c2c29a130467a754a09b93fd646a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "adb04b48b9d7666c284d890fa705785d0718c2c29a130467a754a09b93fd646a",
+      "translation_sha256": "7aab3f7842b87f5711e604d654efa1ecca2872a0ca413b6650c84c24ccf422c5",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Keep the messenger, divine arrival, refining judgment, and defense of vulnerable people connected."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Malachi 3:5",
+          "segment_mode": "whole",
+          "sha256": "6044672de9ea9a49941b0c2f05c8b2514844330b48fb79787c0a2bee44e0fe4a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6044672de9ea9a49941b0c2f05c8b2514844330b48fb79787c0a2bee44e0fe4a",
+      "translation_sha256": "7a85143d5ca63d1d125b1c825c121c5fff1a3e5c556f849bbc8e160301f86f44",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Keep the messenger, divine arrival, refining judgment, and defense of vulnerable people connected."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "Malachi 3:6",
+          "segment_mode": "whole",
+          "sha256": "aab831c3f712d661584e0a5f847beb545f1861a07d47501d7c016977ae441fab"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aab831c3f712d661584e0a5f847beb545f1861a07d47501d7c016977ae441fab",
+      "translation_sha256": "d333213364a214e79fa79ccab58e938b5634546450af3997e2e035d5e3b6e960",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Translate tithes within covenant repair and communal provision, not as a guaranteed prosperity formula."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "Malachi 3:7",
+          "segment_mode": "whole",
+          "sha256": "d54d8e2b08e9259911faf84ed629451b32fdc0c4d06dacc026d57f576f27c101"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d54d8e2b08e9259911faf84ed629451b32fdc0c4d06dacc026d57f576f27c101",
+      "translation_sha256": "737bd6792dc9fe0a89d4c09255d949f330b5431776449ad3eda01c7b22a4cdf2",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Translate tithes within covenant repair and communal provision, not as a guaranteed prosperity formula."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "Malachi 3:8",
+          "segment_mode": "whole",
+          "sha256": "9a4ea23ecfa521c473061d45fa56f3f84accd79bc749277e0ef9f969702753c7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9a4ea23ecfa521c473061d45fa56f3f84accd79bc749277e0ef9f969702753c7",
+      "translation_sha256": "269e847e12d05fe8451830a7b9314b6126a98e931df18cba635830a4d1e4fd15",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Translate tithes within covenant repair and communal provision, not as a guaranteed prosperity formula."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "Malachi 3:9",
+          "segment_mode": "whole",
+          "sha256": "7fca87d698084585f1d03d23772aaec59fa4c8b830d63f918b45a39440face70"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7fca87d698084585f1d03d23772aaec59fa4c8b830d63f918b45a39440face70",
+      "translation_sha256": "33eda8cabad41baea5fc0baef6ebfb3cc3e86608ec6fb8de586b94694edc807b",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Translate tithes within covenant repair and communal provision, not as a guaranteed prosperity formula."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "Malachi 3:10",
+          "segment_mode": "whole",
+          "sha256": "849852856cde3614d20140640b24e5840655315f78c8e71b33f6e18d49250b3f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "849852856cde3614d20140640b24e5840655315f78c8e71b33f6e18d49250b3f",
+      "translation_sha256": "684bc7391ad9c2e06d058feccba83db24c5fca7d83ed21afbcd5ca839ecd5d6a",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Translate tithes within covenant repair and communal provision, not as a guaranteed prosperity formula."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "Malachi 3:11",
+          "segment_mode": "whole",
+          "sha256": "c6edc3d5a9c51ca398f6c5c05ef0af25150263624b79c9c418833a288dd2aa8d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c6edc3d5a9c51ca398f6c5c05ef0af25150263624b79c9c418833a288dd2aa8d",
+      "translation_sha256": "b304c8243cfafbb3148fe478816924f418a8924315047d7b467cd33ec2d70fce",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Translate tithes within covenant repair and communal provision, not as a guaranteed prosperity formula."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:12",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 12,
+          "source_ref": "Malachi 3:12",
+          "segment_mode": "whole",
+          "sha256": "3bfde424061afe99c2e14551c634e11683b29cb03cde6a4a706999ee32131934"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3bfde424061afe99c2e14551c634e11683b29cb03cde6a4a706999ee32131934",
+      "translation_sha256": "39c4df01d0644bc6018169a0486455402d18022db75df3bd13c1e5376270b44a",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": [
+        "Translate tithes within covenant repair and communal provision, not as a guaranteed prosperity formula."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Malachi 3:13",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 13,
+          "source_ref": "Malachi 3:13",
+          "segment_mode": "whole",
+          "sha256": "5260046999b2307c93cf3a9a1e207b61934d12f69d960b59bafe36e44b4bace5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5260046999b2307c93cf3a9a1e207b61934d12f69d960b59bafe36e44b4bace5",
+      "translation_sha256": "2759d74dbab7f09e9a155766a4a1b7bb89ef3d145c517eeed9dc6c1cbe665c17",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Malachi 3:14",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 14,
+          "source_ref": "Malachi 3:14",
+          "segment_mode": "whole",
+          "sha256": "23c9ad3ef1e279a480e13ab2c1d3030ab13a6960068aaa60e4cf1908fbd004c1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "23c9ad3ef1e279a480e13ab2c1d3030ab13a6960068aaa60e4cf1908fbd004c1",
+      "translation_sha256": "8435255a21e9376a20d05fbddf13e1e703d176972c1bd2599f71379268c570bf",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Malachi 3:15",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 15,
+          "source_ref": "Malachi 3:15",
+          "segment_mode": "whole",
+          "sha256": "857a19ed1c16341de3ea57391e0b6e972e46364a163eaa2dd9c3b5e97038f6f9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "857a19ed1c16341de3ea57391e0b6e972e46364a163eaa2dd9c3b5e97038f6f9",
+      "translation_sha256": "a0b8b68efeb720997b4de70deb64682d220de60c6b8db4c7a982422787b6db50",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Malachi 3:16",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 16,
+          "source_ref": "Malachi 3:16",
+          "segment_mode": "whole",
+          "sha256": "4b8b00572bbf3fa46bba001bd6090b0ebae3dbef66e301703859749dbeef69d5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4b8b00572bbf3fa46bba001bd6090b0ebae3dbef66e301703859749dbeef69d5",
+      "translation_sha256": "5abb2e7e2e9b2bf4fd706683bbe1189eedf32610c36cc57276ac73802383ed96",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Malachi 3:17",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 17,
+          "source_ref": "Malachi 3:17",
+          "segment_mode": "whole",
+          "sha256": "555535c32d8a1d843c6eda388514e6766e386506e7303bc2ec4fdd3a727077e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "555535c32d8a1d843c6eda388514e6766e386506e7303bc2ec4fdd3a727077e3",
+      "translation_sha256": "b0d2e235b886d6f95e7536634f96474546b3ad8430855f968177197550c60690",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Malachi 3:18",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 18,
+          "source_ref": "Malachi 3:18",
+          "segment_mode": "whole",
+          "sha256": "3eaf400832455186615c20fc719a36a99db8bfb9e1d259d126f8d9b7f7138aec"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3eaf400832455186615c20fc719a36a99db8bfb9e1d259d126f8d9b7f7138aec",
+      "translation_sha256": "1dbd917a57b2b2f06f70f6f8ae378dec96c68cf83a09423c759dc46dade07fd5",
+      "tsw_blob_sha": "7f86c385975e3c3540cee6c0043eeb952ac1ce56",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:19 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 19,
+          "source_ref": "Malachi 3:19 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "1eff15b1a9ae17cecfc70a1f291ba59ee316651af806c8f9df7586fbabb37e0f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1eff15b1a9ae17cecfc70a1f291ba59ee316651af806c8f9df7586fbabb37e0f",
+      "translation_sha256": "b1a9f3c60d26613980569a9065064ff66e34e0ad95b03f9a6bc6a7239eb6f6fc",
+      "tsw_blob_sha": "ac34a80b4faf434b075656475754d0a2aaf40a6d",
+      "curated_decisions": [
+        "Bind the public chapter to Hebrew 3:19-24 and preserve both the day, healing, Moses, Elijah, and intergenerational reconciliation."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:20 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 20,
+          "source_ref": "Malachi 3:20 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "000ad9c7e9270ebfe8617d3833ad5a6f17f2ed7a39438222738b0bc8bd7353e2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "000ad9c7e9270ebfe8617d3833ad5a6f17f2ed7a39438222738b0bc8bd7353e2",
+      "translation_sha256": "368ef79deecd516d2d392e21cba7a56317c67c0f3de0cd5b741bcf132e26b6a1",
+      "tsw_blob_sha": "ac34a80b4faf434b075656475754d0a2aaf40a6d",
+      "curated_decisions": [
+        "Bind the public chapter to Hebrew 3:19-24 and preserve both the day, healing, Moses, Elijah, and intergenerational reconciliation."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:21 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 21,
+          "source_ref": "Malachi 3:21 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "2434b7bc6a7bd25908fbe4224abc9421896053947f6e08a518bf1c997ce96e49"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2434b7bc6a7bd25908fbe4224abc9421896053947f6e08a518bf1c997ce96e49",
+      "translation_sha256": "ab0aac0897e77acf11c134cff807a00f46372eb3a1ade9834d8d873db2394767",
+      "tsw_blob_sha": "ac34a80b4faf434b075656475754d0a2aaf40a6d",
+      "curated_decisions": [
+        "Bind the public chapter to Hebrew 3:19-24 and preserve both the day, healing, Moses, Elijah, and intergenerational reconciliation."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:22 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 22,
+          "source_ref": "Malachi 3:22 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "eac511992f062e2d085aba7b34e92c4c2e34d7cc6a25b6104e1740528525f1ca"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "eac511992f062e2d085aba7b34e92c4c2e34d7cc6a25b6104e1740528525f1ca",
+      "translation_sha256": "dd764d3b0f7b846dd032fb1078e7642f8ec3c86ca37dc879a49e02e237c5aa6d",
+      "tsw_blob_sha": "ac34a80b4faf434b075656475754d0a2aaf40a6d",
+      "curated_decisions": [
+        "Bind the public chapter to Hebrew 3:19-24 and preserve both the day, healing, Moses, Elijah, and intergenerational reconciliation."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:23 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 23,
+          "source_ref": "Malachi 3:23 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "74b1173884dd76a1e5a8511d572f732ae2c00ddcb0cd7892062e54b66a7ced4a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "74b1173884dd76a1e5a8511d572f732ae2c00ddcb0cd7892062e54b66a7ced4a",
+      "translation_sha256": "fd80355d4a44447f71098585a935488261ee4df62905d39b20327257618e63ff",
+      "tsw_blob_sha": "ac34a80b4faf434b075656475754d0a2aaf40a6d",
+      "curated_decisions": [
+        "Bind the public chapter to Hebrew 3:19-24 and preserve both the day, healing, Moses, Elijah, and intergenerational reconciliation."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Malachi 3:24 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 24,
+          "source_ref": "Malachi 3:24 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "a5b8a8f7e460d1c25fcebf32dcadda695b4fdf806baa9000bd370ec32073d2fc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a5b8a8f7e460d1c25fcebf32dcadda695b4fdf806baa9000bd370ec32073d2fc",
+      "translation_sha256": "e0567d3b1f76cdd77dd6dd4aabf32ebfab694277fdaceea61105822f4aff169a",
+      "tsw_blob_sha": "ac34a80b4faf434b075656475754d0a2aaf40a6d",
+      "curated_decisions": [
+        "Bind the public chapter to Hebrew 3:19-24 and preserve both the day, healing, Moses, Elijah, and intergenerational reconciliation."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 5,
+    "F1": 3,
+    "F2": 0,
+    "F3": 47
+  },
+  "public_verse_slots": 55,
+  "included_source_bindings": 55
+}
