@@ -1,0 +1,100 @@
+{
+  "book": "Colossians",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 4,
+  "public_verse_slots": 95,
+  "included_verse_labels": 95,
+  "critical_text_absent_public_verses": {},
+  "book_level_anchors": [
+    "Christ supremacy",
+    "image/firstborn",
+    "creation",
+    "reconciliation",
+    "fullness",
+    "mystery",
+    "Christ in you",
+    "baptism",
+    "elemental powers",
+    "new humanity",
+    "thanksgiving",
+    "wise speech"
+  ],
+  "deployment": "NT_BATCH_02",
+  "curated_f3_decisions": [
+    {
+      "location": "1:15",
+      "decision": "firstborn retained as status/inheritance language, not first-created paraphrase"
+    },
+    {
+      "location": "1:19",
+      "decision": "fullness wording retained without supplying unstated grammatical subject"
+    },
+    {
+      "location": "1:20",
+      "decision": "cosmic reconciliation scope preserved without adding universal-salvation conclusion"
+    },
+    {
+      "location": "1:24",
+      "decision": "lack in Christ afflictions kept in apostolic suffering frame, not atonement deficiency"
+    },
+    {
+      "location": "2:8,20",
+      "decision": "stoicheia = elemental powers; exact referent left open"
+    },
+    {
+      "location": "2:9",
+      "decision": "fullness of deity dwells bodily retained"
+    },
+    {
+      "location": "2:16",
+      "decision": "Jewish calendar practices retained without anti-Jewish generalization"
+    },
+    {
+      "location": "3:11",
+      "decision": "social distinctions relativized in Christ without erasure"
+    },
+    {
+      "location": "4:15",
+      "decision": "Nympha feminine/her house follows SBLGNT"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Col.txt",
+    "git_blob_sha": "06f9ee0bc5f86cd1f28f1e54867224f49e446380"
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "06f9ee0bc5f86cd1f28f1e54867224f49e446380",
+    "source_binding_count": 95,
+    "unique_source_record_count": 95,
+    "public_verse_slots": 95,
+    "ledger_summary": {
+      "F0": 7,
+      "F1": 47,
+      "F2": 31,
+      "F3": 10
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/colossians/Colossians_01.md",
+        "blob_sha": "82222350b1dcd26f41dc5b55185025440bd01623"
+      },
+      "02": {
+        "path": "books/NT/colossians/Colossians_02.md",
+        "blob_sha": "4475a55bba4371e878dd0faa244b5b998d8b2cf9"
+      },
+      "03": {
+        "path": "books/NT/colossians/Colossians_03.md",
+        "blob_sha": "c17b59142da2b524570eb58dd7a5616635fc0e3f"
+      },
+      "04": {
+        "path": "books/NT/colossians/Colossians_04.md",
+        "blob_sha": "ec440962a5c62b56c5d77af5426a5177f5dd65e3"
+      }
+    }
+  }
+}
