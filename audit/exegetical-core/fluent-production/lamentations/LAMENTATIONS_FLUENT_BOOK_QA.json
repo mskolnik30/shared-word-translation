@@ -1,0 +1,85 @@
+{
+  "book": "Lamentations",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 5,
+  "public_verse_slots": 154,
+  "included_verse_labels": 154,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 154,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lam.xml",
+    "git_blob_sha": "f40b01e621ebecb437793aa27fc7f487a58861df"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-22",
+      "decision": "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-22",
+      "decision": "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-39",
+      "decision": "Preserve the movement from individual affliction to remembered hope without making hope erase trauma.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:40-66",
+      "decision": "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:1-22",
+      "decision": "Translate siege, hunger, and cannibalism plainly but without sensationalism.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:1-22",
+      "decision": "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_05",
+  "deployment_audit": {
+    "source_git_blob_sha": "f40b01e621ebecb437793aa27fc7f487a58861df",
+    "source_binding_count": 154,
+    "unique_source_record_count": 154,
+    "public_verse_slots": 154,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 154
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/lamentations/Lamentations_01.md",
+        "blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1"
+      },
+      "02": {
+        "path": "books/OT/lamentations/Lamentations_02.md",
+        "blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19"
+      },
+      "03": {
+        "path": "books/OT/lamentations/Lamentations_03.md",
+        "blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331"
+      },
+      "04": {
+        "path": "books/OT/lamentations/Lamentations_04.md",
+        "blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a"
+      },
+      "05": {
+        "path": "books/OT/lamentations/Lamentations_05.md",
+        "blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b"
+      }
+    }
+  }
+}

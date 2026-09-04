@@ -1,0 +1,1037 @@
+{
+  "book": "Lamentations",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lam.xml",
+    "git_blob_sha": "f40b01e621ebecb437793aa27fc7f487a58861df"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "3:1-39",
+      "decision": "Preserve the movement from individual affliction to remembered hope without making hope erase trauma.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:40-66",
+      "decision": "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lam.xml",
+    "git_blob_sha": "f40b01e621ebecb437793aa27fc7f487a58861df",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Lamentations 3:1",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 1,
+            "source_ref": "Lamentations 3:1",
+            "segment_mode": "whole",
+            "sha256": "18d40001bde106a7555b8aaa6b1cd2ddf65c210cffeca363abb9ac8b9bc96471"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18d40001bde106a7555b8aaa6b1cd2ddf65c210cffeca363abb9ac8b9bc96471"
+      },
+      "2": {
+        "source_ref": "Lamentations 3:2",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 2,
+            "source_ref": "Lamentations 3:2",
+            "segment_mode": "whole",
+            "sha256": "923c8a1de0f44be985fbd05db117b9b1cc24b3ccbe729d32e63320e9214c0925"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "923c8a1de0f44be985fbd05db117b9b1cc24b3ccbe729d32e63320e9214c0925"
+      },
+      "3": {
+        "source_ref": "Lamentations 3:3",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 3,
+            "source_ref": "Lamentations 3:3",
+            "segment_mode": "whole",
+            "sha256": "a80bfb27c3fc17a80a9511eaef398597636f0064e8d5b2269ce806c599db66b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a80bfb27c3fc17a80a9511eaef398597636f0064e8d5b2269ce806c599db66b3"
+      },
+      "4": {
+        "source_ref": "Lamentations 3:4",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 4,
+            "source_ref": "Lamentations 3:4",
+            "segment_mode": "whole",
+            "sha256": "a6aef7baff133860a8b27f5ffb453cdf71655cab2e5e7b5d05b20ec4df4d0f65"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6aef7baff133860a8b27f5ffb453cdf71655cab2e5e7b5d05b20ec4df4d0f65"
+      },
+      "5": {
+        "source_ref": "Lamentations 3:5",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 5,
+            "source_ref": "Lamentations 3:5",
+            "segment_mode": "whole",
+            "sha256": "45f57b3470cc34feb896445d97cc3d45d59e9a266a6822a3fea87531f58a4cc4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45f57b3470cc34feb896445d97cc3d45d59e9a266a6822a3fea87531f58a4cc4"
+      },
+      "6": {
+        "source_ref": "Lamentations 3:6",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 6,
+            "source_ref": "Lamentations 3:6",
+            "segment_mode": "whole",
+            "sha256": "d140fce9e7a65866d3dc3ccf6451bc862ec84ae8b0fcff1518985e9fb7dfc266"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d140fce9e7a65866d3dc3ccf6451bc862ec84ae8b0fcff1518985e9fb7dfc266"
+      },
+      "7": {
+        "source_ref": "Lamentations 3:7",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 7,
+            "source_ref": "Lamentations 3:7",
+            "segment_mode": "whole",
+            "sha256": "6f0dc92b53b405b62ed0b35670274506d1062c9ecfb9d42fe7a7532e12e4cb2a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f0dc92b53b405b62ed0b35670274506d1062c9ecfb9d42fe7a7532e12e4cb2a"
+      },
+      "8": {
+        "source_ref": "Lamentations 3:8",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 8,
+            "source_ref": "Lamentations 3:8",
+            "segment_mode": "whole",
+            "sha256": "2e83a5282bbb2a61b0e0f6ac464c786912b6510032e49212ce5de1ed60d3aa6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e83a5282bbb2a61b0e0f6ac464c786912b6510032e49212ce5de1ed60d3aa6a"
+      },
+      "9": {
+        "source_ref": "Lamentations 3:9",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 9,
+            "source_ref": "Lamentations 3:9",
+            "segment_mode": "whole",
+            "sha256": "dc46735852bf973d35a4e0f1928ff15b272089fd8ef3df544818ff218f4fc6f1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc46735852bf973d35a4e0f1928ff15b272089fd8ef3df544818ff218f4fc6f1"
+      },
+      "10": {
+        "source_ref": "Lamentations 3:10",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 10,
+            "source_ref": "Lamentations 3:10",
+            "segment_mode": "whole",
+            "sha256": "96ffb684c9c5c825431f78e30049e592a8da338f81b208a3d6c9822c6820dcf7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96ffb684c9c5c825431f78e30049e592a8da338f81b208a3d6c9822c6820dcf7"
+      },
+      "11": {
+        "source_ref": "Lamentations 3:11",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 11,
+            "source_ref": "Lamentations 3:11",
+            "segment_mode": "whole",
+            "sha256": "ea2e4b0985359bd426a634236390e605a3ee701504f8a31b51d918321bced0fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea2e4b0985359bd426a634236390e605a3ee701504f8a31b51d918321bced0fc"
+      },
+      "12": {
+        "source_ref": "Lamentations 3:12",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 12,
+            "source_ref": "Lamentations 3:12",
+            "segment_mode": "whole",
+            "sha256": "d98aa47aaa532238596ca3fd8d2bea6fec7837e0f5a3de92e624716c24d2e146"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d98aa47aaa532238596ca3fd8d2bea6fec7837e0f5a3de92e624716c24d2e146"
+      },
+      "13": {
+        "source_ref": "Lamentations 3:13",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 13,
+            "source_ref": "Lamentations 3:13",
+            "segment_mode": "whole",
+            "sha256": "4fd0a49740b82f737bde43376e66a788c8e11ee4743ab69d7be3719d302d6a87"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4fd0a49740b82f737bde43376e66a788c8e11ee4743ab69d7be3719d302d6a87"
+      },
+      "14": {
+        "source_ref": "Lamentations 3:14",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 14,
+            "source_ref": "Lamentations 3:14",
+            "segment_mode": "whole",
+            "sha256": "7b9237a1c769d9027b0ee7a221a3c111abfbf9c353f6af7a8b12d8238615a328"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b9237a1c769d9027b0ee7a221a3c111abfbf9c353f6af7a8b12d8238615a328"
+      },
+      "15": {
+        "source_ref": "Lamentations 3:15",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 15,
+            "source_ref": "Lamentations 3:15",
+            "segment_mode": "whole",
+            "sha256": "8ab0f6fb7d6b49bbc2a4ee9f6c87383dcfa85c215f067eff2c987803b9156991"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ab0f6fb7d6b49bbc2a4ee9f6c87383dcfa85c215f067eff2c987803b9156991"
+      },
+      "16": {
+        "source_ref": "Lamentations 3:16",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 16,
+            "source_ref": "Lamentations 3:16",
+            "segment_mode": "whole",
+            "sha256": "427c064ef95cd18cdc1e27b710a85d6656fa5638b82b901f52e82c4c110d14b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "427c064ef95cd18cdc1e27b710a85d6656fa5638b82b901f52e82c4c110d14b2"
+      },
+      "17": {
+        "source_ref": "Lamentations 3:17",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 17,
+            "source_ref": "Lamentations 3:17",
+            "segment_mode": "whole",
+            "sha256": "ffbc8cefef7fdeff17e25dcaea04211029229572cebffcec708e2ff64d7f45a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ffbc8cefef7fdeff17e25dcaea04211029229572cebffcec708e2ff64d7f45a4"
+      },
+      "18": {
+        "source_ref": "Lamentations 3:18",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 18,
+            "source_ref": "Lamentations 3:18",
+            "segment_mode": "whole",
+            "sha256": "0e350f885153c4e87a0c978deedabd19758c8655b0d5de811787ef2064d1fe71"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e350f885153c4e87a0c978deedabd19758c8655b0d5de811787ef2064d1fe71"
+      },
+      "19": {
+        "source_ref": "Lamentations 3:19",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 19,
+            "source_ref": "Lamentations 3:19",
+            "segment_mode": "whole",
+            "sha256": "b588f7675881ea9f08fd7ab4c139ebb7bff875f10996c5e6d32eb7a3980f10f1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b588f7675881ea9f08fd7ab4c139ebb7bff875f10996c5e6d32eb7a3980f10f1"
+      },
+      "20": {
+        "source_ref": "Lamentations 3:20",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 20,
+            "source_ref": "Lamentations 3:20",
+            "segment_mode": "whole",
+            "sha256": "fa191051adcaf951600d6f52f1befcd7789adf77f8446aa2c50f808668f49663"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa191051adcaf951600d6f52f1befcd7789adf77f8446aa2c50f808668f49663"
+      },
+      "21": {
+        "source_ref": "Lamentations 3:21",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 21,
+            "source_ref": "Lamentations 3:21",
+            "segment_mode": "whole",
+            "sha256": "5af5d78418ece54023317a71132f48dc382bca420aceaa94243c4361c3eb8028"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5af5d78418ece54023317a71132f48dc382bca420aceaa94243c4361c3eb8028"
+      },
+      "22": {
+        "source_ref": "Lamentations 3:22",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 22,
+            "source_ref": "Lamentations 3:22",
+            "segment_mode": "whole",
+            "sha256": "a84dfe78207a37e6e92e1cddc7ace860f39eef1d40303b32c2da4d5c85e3ce63"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a84dfe78207a37e6e92e1cddc7ace860f39eef1d40303b32c2da4d5c85e3ce63"
+      },
+      "23": {
+        "source_ref": "Lamentations 3:23",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 23,
+            "source_ref": "Lamentations 3:23",
+            "segment_mode": "whole",
+            "sha256": "bb34ed648ed0304348431589bf81b6e41f3862e493612b06c82bbb53601299fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb34ed648ed0304348431589bf81b6e41f3862e493612b06c82bbb53601299fa"
+      },
+      "24": {
+        "source_ref": "Lamentations 3:24",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 24,
+            "source_ref": "Lamentations 3:24",
+            "segment_mode": "whole",
+            "sha256": "65678f64c65f4822ce38d528794fafff9974f39f761a46dfcc4c4028f55040e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65678f64c65f4822ce38d528794fafff9974f39f761a46dfcc4c4028f55040e4"
+      },
+      "25": {
+        "source_ref": "Lamentations 3:25",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 25,
+            "source_ref": "Lamentations 3:25",
+            "segment_mode": "whole",
+            "sha256": "30c5b2e6b2d304aea1deef7e745189c7d60194b7593fdf5a71c5b4f7c25ee40e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30c5b2e6b2d304aea1deef7e745189c7d60194b7593fdf5a71c5b4f7c25ee40e"
+      },
+      "26": {
+        "source_ref": "Lamentations 3:26",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 26,
+            "source_ref": "Lamentations 3:26",
+            "segment_mode": "whole",
+            "sha256": "79c516c552507bf8fa032cb07cf2aff989ed9261985a247a89ea8e854bec9250"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79c516c552507bf8fa032cb07cf2aff989ed9261985a247a89ea8e854bec9250"
+      },
+      "27": {
+        "source_ref": "Lamentations 3:27",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 27,
+            "source_ref": "Lamentations 3:27",
+            "segment_mode": "whole",
+            "sha256": "0048b5179c86725250216786a10775ea94a79cf529b65aeb28c8ffcf717c5787"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0048b5179c86725250216786a10775ea94a79cf529b65aeb28c8ffcf717c5787"
+      },
+      "28": {
+        "source_ref": "Lamentations 3:28",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 28,
+            "source_ref": "Lamentations 3:28",
+            "segment_mode": "whole",
+            "sha256": "a458a12550017820710735d28bc5186fc84f5bafd86a11cd253bf0823989e296"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a458a12550017820710735d28bc5186fc84f5bafd86a11cd253bf0823989e296"
+      },
+      "29": {
+        "source_ref": "Lamentations 3:29",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 29,
+            "source_ref": "Lamentations 3:29",
+            "segment_mode": "whole",
+            "sha256": "87dacd4adc1fcae226da45f529adc7e2e05e03b8f4231dc4cb25c53c788445b9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87dacd4adc1fcae226da45f529adc7e2e05e03b8f4231dc4cb25c53c788445b9"
+      },
+      "30": {
+        "source_ref": "Lamentations 3:30",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 30,
+            "source_ref": "Lamentations 3:30",
+            "segment_mode": "whole",
+            "sha256": "c71d4f8e7db7fb0779b570e8c3e57c06c03fbe39f8c803e3cf8cbfbaa318d998"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c71d4f8e7db7fb0779b570e8c3e57c06c03fbe39f8c803e3cf8cbfbaa318d998"
+      },
+      "31": {
+        "source_ref": "Lamentations 3:31",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 31,
+            "source_ref": "Lamentations 3:31",
+            "segment_mode": "whole",
+            "sha256": "64b473c38ccefbbc2980c2b86e30cced5b256dc4e2d58c3591dea1c2a8dcb3bb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64b473c38ccefbbc2980c2b86e30cced5b256dc4e2d58c3591dea1c2a8dcb3bb"
+      },
+      "32": {
+        "source_ref": "Lamentations 3:32",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 32,
+            "source_ref": "Lamentations 3:32",
+            "segment_mode": "whole",
+            "sha256": "60dff4f0e0e2183fd430301fcc9ddce4f6625cea4b9a731497de2694c95709dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60dff4f0e0e2183fd430301fcc9ddce4f6625cea4b9a731497de2694c95709dd"
+      },
+      "33": {
+        "source_ref": "Lamentations 3:33",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 33,
+            "source_ref": "Lamentations 3:33",
+            "segment_mode": "whole",
+            "sha256": "8b4ca6fbf60730b54e4c17e59d7aee756a650663906bc3f6f35b0fce0d1caa66"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b4ca6fbf60730b54e4c17e59d7aee756a650663906bc3f6f35b0fce0d1caa66"
+      },
+      "34": {
+        "source_ref": "Lamentations 3:34",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 34,
+            "source_ref": "Lamentations 3:34",
+            "segment_mode": "whole",
+            "sha256": "1e093a607c236b9626d7d93a10698d4b7eb1ad40211d6bdc8ff38ef406ed4bd4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e093a607c236b9626d7d93a10698d4b7eb1ad40211d6bdc8ff38ef406ed4bd4"
+      },
+      "35": {
+        "source_ref": "Lamentations 3:35",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 35,
+            "source_ref": "Lamentations 3:35",
+            "segment_mode": "whole",
+            "sha256": "f1d9cdf727467e9b6d89e28d7b94407865fb5edaf46476029f4ce255758248d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1d9cdf727467e9b6d89e28d7b94407865fb5edaf46476029f4ce255758248d6"
+      },
+      "36": {
+        "source_ref": "Lamentations 3:36",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 36,
+            "source_ref": "Lamentations 3:36",
+            "segment_mode": "whole",
+            "sha256": "f92768cdcafb70fbf01410c658b41f5bb1380e755c93d130e8c608a4cc016cd5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f92768cdcafb70fbf01410c658b41f5bb1380e755c93d130e8c608a4cc016cd5"
+      },
+      "37": {
+        "source_ref": "Lamentations 3:37",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 37,
+            "source_ref": "Lamentations 3:37",
+            "segment_mode": "whole",
+            "sha256": "d681cd5f7b476f3b20954cbb5597a3082e7481a7bf242805e608a248bcd970b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d681cd5f7b476f3b20954cbb5597a3082e7481a7bf242805e608a248bcd970b5"
+      },
+      "38": {
+        "source_ref": "Lamentations 3:38",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 38,
+            "source_ref": "Lamentations 3:38",
+            "segment_mode": "whole",
+            "sha256": "7713c1d8ab29d46981c276ba0778b09c624a4c70fa7134a22f000e3f874b3ad8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7713c1d8ab29d46981c276ba0778b09c624a4c70fa7134a22f000e3f874b3ad8"
+      },
+      "39": {
+        "source_ref": "Lamentations 3:39",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 39,
+            "source_ref": "Lamentations 3:39",
+            "segment_mode": "whole",
+            "sha256": "2cfa2c3911ad2f26992d6ff533cae1cae81fae656890633de9ac65e428739f7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2cfa2c3911ad2f26992d6ff533cae1cae81fae656890633de9ac65e428739f7d"
+      },
+      "40": {
+        "source_ref": "Lamentations 3:40",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 40,
+            "source_ref": "Lamentations 3:40",
+            "segment_mode": "whole",
+            "sha256": "5df9b0490569e4ad284988dfd350ef42d5ff894cebf62c9e5581315aca548533"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5df9b0490569e4ad284988dfd350ef42d5ff894cebf62c9e5581315aca548533"
+      },
+      "41": {
+        "source_ref": "Lamentations 3:41",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 41,
+            "source_ref": "Lamentations 3:41",
+            "segment_mode": "whole",
+            "sha256": "c82381cce0617842f92cd874ed27a9b1dac145dc803519a10dbf39fd4157f723"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c82381cce0617842f92cd874ed27a9b1dac145dc803519a10dbf39fd4157f723"
+      },
+      "42": {
+        "source_ref": "Lamentations 3:42",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 42,
+            "source_ref": "Lamentations 3:42",
+            "segment_mode": "whole",
+            "sha256": "f4d0d72e7050984b3d8ae6faafd898f19e44a1c01e6836547b05cdfe1a70dd53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4d0d72e7050984b3d8ae6faafd898f19e44a1c01e6836547b05cdfe1a70dd53"
+      },
+      "43": {
+        "source_ref": "Lamentations 3:43",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 43,
+            "source_ref": "Lamentations 3:43",
+            "segment_mode": "whole",
+            "sha256": "3e0d841196747616a132a6ae50407bd962e1c59e35eda790b10a99045b749003"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3e0d841196747616a132a6ae50407bd962e1c59e35eda790b10a99045b749003"
+      },
+      "44": {
+        "source_ref": "Lamentations 3:44",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 44,
+            "source_ref": "Lamentations 3:44",
+            "segment_mode": "whole",
+            "sha256": "94c499a6a089c6cfddf8ec7a7dafb78682bc451d27aa50025a98ed1b371b151e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94c499a6a089c6cfddf8ec7a7dafb78682bc451d27aa50025a98ed1b371b151e"
+      },
+      "45": {
+        "source_ref": "Lamentations 3:45",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 45,
+            "source_ref": "Lamentations 3:45",
+            "segment_mode": "whole",
+            "sha256": "be95f29de493bc11198c24158277f128265025cb00ddecb3f683a64c28d99d12"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be95f29de493bc11198c24158277f128265025cb00ddecb3f683a64c28d99d12"
+      },
+      "46": {
+        "source_ref": "Lamentations 3:46",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 46,
+            "source_ref": "Lamentations 3:46",
+            "segment_mode": "whole",
+            "sha256": "edba46541e2fc321e071351a577d441e70d156d39fbeb44e81fcab0ddec973ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "edba46541e2fc321e071351a577d441e70d156d39fbeb44e81fcab0ddec973ca"
+      },
+      "47": {
+        "source_ref": "Lamentations 3:47",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 47,
+            "source_ref": "Lamentations 3:47",
+            "segment_mode": "whole",
+            "sha256": "392f36a28be51b01c73e9b05b36ecea9ea2a6b049fdf6787b98c5064d96bf9b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "392f36a28be51b01c73e9b05b36ecea9ea2a6b049fdf6787b98c5064d96bf9b3"
+      },
+      "48": {
+        "source_ref": "Lamentations 3:48",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 48,
+            "source_ref": "Lamentations 3:48",
+            "segment_mode": "whole",
+            "sha256": "1624d1e4b0aec14e3147ba9aeb1a477ac3b47fa783f7cb112a88fd4b87197fb1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1624d1e4b0aec14e3147ba9aeb1a477ac3b47fa783f7cb112a88fd4b87197fb1"
+      },
+      "49": {
+        "source_ref": "Lamentations 3:49",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 49,
+            "source_ref": "Lamentations 3:49",
+            "segment_mode": "whole",
+            "sha256": "1404a0f051ee3ad160603fc1f09515b8f5844f63ab9f7d84124b840e257c2f77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1404a0f051ee3ad160603fc1f09515b8f5844f63ab9f7d84124b840e257c2f77"
+      },
+      "50": {
+        "source_ref": "Lamentations 3:50",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 50,
+            "source_ref": "Lamentations 3:50",
+            "segment_mode": "whole",
+            "sha256": "f2f024ff12fcd0e2888578d11eb44863a81891860b167c3108b3e9dd8974ee2e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2f024ff12fcd0e2888578d11eb44863a81891860b167c3108b3e9dd8974ee2e"
+      },
+      "51": {
+        "source_ref": "Lamentations 3:51",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 51,
+            "source_ref": "Lamentations 3:51",
+            "segment_mode": "whole",
+            "sha256": "b198f92160578faadc76acc8bc1de4c03d1890e91cc8f0a732d55b896da41aae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b198f92160578faadc76acc8bc1de4c03d1890e91cc8f0a732d55b896da41aae"
+      },
+      "52": {
+        "source_ref": "Lamentations 3:52",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 52,
+            "source_ref": "Lamentations 3:52",
+            "segment_mode": "whole",
+            "sha256": "2dc2a763962bfcfac089340e7398c7aa279604049eb026c69ca9329baf35ae77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2dc2a763962bfcfac089340e7398c7aa279604049eb026c69ca9329baf35ae77"
+      },
+      "53": {
+        "source_ref": "Lamentations 3:53",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 53,
+            "source_ref": "Lamentations 3:53",
+            "segment_mode": "whole",
+            "sha256": "2ebccfbcded4799cdaa13882e135a0bfa1bc3fb1e44e4115ad5f301c9c6928a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ebccfbcded4799cdaa13882e135a0bfa1bc3fb1e44e4115ad5f301c9c6928a2"
+      },
+      "54": {
+        "source_ref": "Lamentations 3:54",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 54,
+            "source_ref": "Lamentations 3:54",
+            "segment_mode": "whole",
+            "sha256": "59ee7629a80f54ed8aa0fa4ccb3908e4c94502db9bafd713ddb4972d0cb5cbcd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59ee7629a80f54ed8aa0fa4ccb3908e4c94502db9bafd713ddb4972d0cb5cbcd"
+      },
+      "55": {
+        "source_ref": "Lamentations 3:55",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 55,
+            "source_ref": "Lamentations 3:55",
+            "segment_mode": "whole",
+            "sha256": "f0e4507303f035b60737737607603d7db95d0f5570f2c5a4c1050b47f70aa41c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0e4507303f035b60737737607603d7db95d0f5570f2c5a4c1050b47f70aa41c"
+      },
+      "56": {
+        "source_ref": "Lamentations 3:56",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 56,
+            "source_ref": "Lamentations 3:56",
+            "segment_mode": "whole",
+            "sha256": "ecb50e09e9e7c29132be1ee0832f25d08bcd640454c09261d783a13cda98172a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ecb50e09e9e7c29132be1ee0832f25d08bcd640454c09261d783a13cda98172a"
+      },
+      "57": {
+        "source_ref": "Lamentations 3:57",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 57,
+            "source_ref": "Lamentations 3:57",
+            "segment_mode": "whole",
+            "sha256": "96b7631c4893d4eca78cd51bf7c9809548efd0d31047c9ab878eb93232c7720a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96b7631c4893d4eca78cd51bf7c9809548efd0d31047c9ab878eb93232c7720a"
+      },
+      "58": {
+        "source_ref": "Lamentations 3:58",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 58,
+            "source_ref": "Lamentations 3:58",
+            "segment_mode": "whole",
+            "sha256": "4f9e29d009c188075bcee4dee60b6439b71d7e4d0d97289f2c3ce2b6b25233f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f9e29d009c188075bcee4dee60b6439b71d7e4d0d97289f2c3ce2b6b25233f6"
+      },
+      "59": {
+        "source_ref": "Lamentations 3:59",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 59,
+            "source_ref": "Lamentations 3:59",
+            "segment_mode": "whole",
+            "sha256": "43ee5cdba76e1b638288b5b5f605a8f61b9be0633475aefc0d937ffc1f914467"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43ee5cdba76e1b638288b5b5f605a8f61b9be0633475aefc0d937ffc1f914467"
+      },
+      "60": {
+        "source_ref": "Lamentations 3:60",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 60,
+            "source_ref": "Lamentations 3:60",
+            "segment_mode": "whole",
+            "sha256": "e76dbfc569262ff51b6564559b003ff9aa17d4775670544f7662d3b053cd6b33"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e76dbfc569262ff51b6564559b003ff9aa17d4775670544f7662d3b053cd6b33"
+      },
+      "61": {
+        "source_ref": "Lamentations 3:61",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 61,
+            "source_ref": "Lamentations 3:61",
+            "segment_mode": "whole",
+            "sha256": "f19ef990c327d05a606a577dd70622c6bbf1ed1bb158f957e553b2e459437a12"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f19ef990c327d05a606a577dd70622c6bbf1ed1bb158f957e553b2e459437a12"
+      },
+      "62": {
+        "source_ref": "Lamentations 3:62",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 62,
+            "source_ref": "Lamentations 3:62",
+            "segment_mode": "whole",
+            "sha256": "13143d6f64409f6c11742db00546162c93a82080c0a0815b397320d20c399e7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "13143d6f64409f6c11742db00546162c93a82080c0a0815b397320d20c399e7f"
+      },
+      "63": {
+        "source_ref": "Lamentations 3:63",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 63,
+            "source_ref": "Lamentations 3:63",
+            "segment_mode": "whole",
+            "sha256": "1ad7cf7c359d3e8894d79cf75f120d1ce1a10010b94409f281b260efb58c3569"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ad7cf7c359d3e8894d79cf75f120d1ce1a10010b94409f281b260efb58c3569"
+      },
+      "64": {
+        "source_ref": "Lamentations 3:64",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 64,
+            "source_ref": "Lamentations 3:64",
+            "segment_mode": "whole",
+            "sha256": "da9c4a26e30cdb57bd35424c530c3cd6ce974a312fddd689c93d18a940c81799"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da9c4a26e30cdb57bd35424c530c3cd6ce974a312fddd689c93d18a940c81799"
+      },
+      "65": {
+        "source_ref": "Lamentations 3:65",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 65,
+            "source_ref": "Lamentations 3:65",
+            "segment_mode": "whole",
+            "sha256": "7444178cdf0dbe6d84ab311767912426010c2fc3182bab82e0cc45cad7e84459"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7444178cdf0dbe6d84ab311767912426010c2fc3182bab82e0cc45cad7e84459"
+      },
+      "66": {
+        "source_ref": "Lamentations 3:66",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 66,
+            "source_ref": "Lamentations 3:66",
+            "segment_mode": "whole",
+            "sha256": "9d7224317608c5941a350e586744992822a798a47a89719132e53b367feec0ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d7224317608c5941a350e586744992822a798a47a89719132e53b367feec0ef"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/lamentations/Lamentations_03.md",
+    "blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
