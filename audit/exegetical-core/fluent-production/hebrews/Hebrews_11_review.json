@@ -1,0 +1,642 @@
+{
+  "book": "Hebrews",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "11:1-40",
+      "decision": "Render pistis relationally as trust/faithfulness while preserving its future-oriented endurance.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Hebrews 11:1",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 1,
+            "source_ref": "Hebrews 11:1",
+            "segment_mode": "whole",
+            "sha256": "bf9071c7a40da90cbedb196a2a6c2dee6674620d8d8cf604a546fbf17ebb08ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf9071c7a40da90cbedb196a2a6c2dee6674620d8d8cf604a546fbf17ebb08ef"
+      },
+      "2": {
+        "source_ref": "Hebrews 11:2",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 2,
+            "source_ref": "Hebrews 11:2",
+            "segment_mode": "whole",
+            "sha256": "407be650973041faf12e8cc50aba451f7b936295054e83a8f52c816656d27150"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "407be650973041faf12e8cc50aba451f7b936295054e83a8f52c816656d27150"
+      },
+      "3": {
+        "source_ref": "Hebrews 11:3",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 3,
+            "source_ref": "Hebrews 11:3",
+            "segment_mode": "whole",
+            "sha256": "9e7496997d989df97adfb9e5097634403fd15725fcc2c607fca1eddd00ebc969"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e7496997d989df97adfb9e5097634403fd15725fcc2c607fca1eddd00ebc969"
+      },
+      "4": {
+        "source_ref": "Hebrews 11:4",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 4,
+            "source_ref": "Hebrews 11:4",
+            "segment_mode": "whole",
+            "sha256": "b0b68b003d4fb893cff8f9c19e122d8b74d10f88a3ba74e600bc28c18ccb850a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0b68b003d4fb893cff8f9c19e122d8b74d10f88a3ba74e600bc28c18ccb850a"
+      },
+      "5": {
+        "source_ref": "Hebrews 11:5",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 5,
+            "source_ref": "Hebrews 11:5",
+            "segment_mode": "whole",
+            "sha256": "c8473d0916612b318101ea81a83bf9a22f04af978977897ddd0be5c24e89dde4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c8473d0916612b318101ea81a83bf9a22f04af978977897ddd0be5c24e89dde4"
+      },
+      "6": {
+        "source_ref": "Hebrews 11:6",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 6,
+            "source_ref": "Hebrews 11:6",
+            "segment_mode": "whole",
+            "sha256": "dbec376861cf989a89ac173ab1ee7296e95f3e133068692ee1784512f90d0128"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dbec376861cf989a89ac173ab1ee7296e95f3e133068692ee1784512f90d0128"
+      },
+      "7": {
+        "source_ref": "Hebrews 11:7",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 7,
+            "source_ref": "Hebrews 11:7",
+            "segment_mode": "whole",
+            "sha256": "fd49e01eb3349152c427c7b522239aab032fcd748e2132f1cf653fcce14a73a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd49e01eb3349152c427c7b522239aab032fcd748e2132f1cf653fcce14a73a4"
+      },
+      "8": {
+        "source_ref": "Hebrews 11:8",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 8,
+            "source_ref": "Hebrews 11:8",
+            "segment_mode": "whole",
+            "sha256": "1dd266ec5e2523ae79957343d562d63097bb281ff3b03fc277358c4df7027d41"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1dd266ec5e2523ae79957343d562d63097bb281ff3b03fc277358c4df7027d41"
+      },
+      "9": {
+        "source_ref": "Hebrews 11:9",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 9,
+            "source_ref": "Hebrews 11:9",
+            "segment_mode": "whole",
+            "sha256": "f5cfd46012712ce83c79e8bae2ac62c45f9b3b46454b8660df5188387390d21a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5cfd46012712ce83c79e8bae2ac62c45f9b3b46454b8660df5188387390d21a"
+      },
+      "10": {
+        "source_ref": "Hebrews 11:10",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 10,
+            "source_ref": "Hebrews 11:10",
+            "segment_mode": "whole",
+            "sha256": "c3f14334aa250bc1c9af443222a7cb98b5aac69c952bb66d82e05379ba040081"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3f14334aa250bc1c9af443222a7cb98b5aac69c952bb66d82e05379ba040081"
+      },
+      "11": {
+        "source_ref": "Hebrews 11:11",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 11,
+            "source_ref": "Hebrews 11:11",
+            "segment_mode": "whole",
+            "sha256": "bff4501c68c73f4362a676730229f3afaab5426d9033dfe5557468c995069b34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bff4501c68c73f4362a676730229f3afaab5426d9033dfe5557468c995069b34"
+      },
+      "12": {
+        "source_ref": "Hebrews 11:12",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 12,
+            "source_ref": "Hebrews 11:12",
+            "segment_mode": "whole",
+            "sha256": "00d92fc6bb9f31b1abf7f5e6fa8035bb07849b26fb56851dc4285759ff1e44b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00d92fc6bb9f31b1abf7f5e6fa8035bb07849b26fb56851dc4285759ff1e44b1"
+      },
+      "13": {
+        "source_ref": "Hebrews 11:13",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 13,
+            "source_ref": "Hebrews 11:13",
+            "segment_mode": "whole",
+            "sha256": "40fea4db0088f0596a9c14a78fd43d64c9bcc140a36345346dba860c5ed2961b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40fea4db0088f0596a9c14a78fd43d64c9bcc140a36345346dba860c5ed2961b"
+      },
+      "14": {
+        "source_ref": "Hebrews 11:14",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 14,
+            "source_ref": "Hebrews 11:14",
+            "segment_mode": "whole",
+            "sha256": "c247b37478f33c05aad53482cf4cd2dd8b6a4b6b06ea3753c987e172f9ca0b85"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c247b37478f33c05aad53482cf4cd2dd8b6a4b6b06ea3753c987e172f9ca0b85"
+      },
+      "15": {
+        "source_ref": "Hebrews 11:15",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 15,
+            "source_ref": "Hebrews 11:15",
+            "segment_mode": "whole",
+            "sha256": "3fefda7266f273497b8da3ec7f8e9c9b3152333ceb0b53e15dcd77045e65cc0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3fefda7266f273497b8da3ec7f8e9c9b3152333ceb0b53e15dcd77045e65cc0f"
+      },
+      "16": {
+        "source_ref": "Hebrews 11:16",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 16,
+            "source_ref": "Hebrews 11:16",
+            "segment_mode": "whole",
+            "sha256": "05e548d98b78beb5e6e408c1bc9c697309711e3e3c544c7bfea0c52f6eb26c1a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "05e548d98b78beb5e6e408c1bc9c697309711e3e3c544c7bfea0c52f6eb26c1a"
+      },
+      "17": {
+        "source_ref": "Hebrews 11:17",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 17,
+            "source_ref": "Hebrews 11:17",
+            "segment_mode": "whole",
+            "sha256": "08785302942ddebbef1ad06d7c8f45e0af70f34a80b2009c110d081aa3dc807f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "08785302942ddebbef1ad06d7c8f45e0af70f34a80b2009c110d081aa3dc807f"
+      },
+      "18": {
+        "source_ref": "Hebrews 11:18",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 18,
+            "source_ref": "Hebrews 11:18",
+            "segment_mode": "whole",
+            "sha256": "573aee65a0a6b90e42dc776b258407fc185e2c53a7c7f3eae19d6dba2dd542e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "573aee65a0a6b90e42dc776b258407fc185e2c53a7c7f3eae19d6dba2dd542e9"
+      },
+      "19": {
+        "source_ref": "Hebrews 11:19",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 19,
+            "source_ref": "Hebrews 11:19",
+            "segment_mode": "whole",
+            "sha256": "3bb5dd260806f9b0f5c6557a912262a2d193a78f1527ba45a89435eb067c3e84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3bb5dd260806f9b0f5c6557a912262a2d193a78f1527ba45a89435eb067c3e84"
+      },
+      "20": {
+        "source_ref": "Hebrews 11:20",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 20,
+            "source_ref": "Hebrews 11:20",
+            "segment_mode": "whole",
+            "sha256": "a7e5a12150e967f49109728b080ae02fd6737691f3b2717d1d6723d54de44dca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a7e5a12150e967f49109728b080ae02fd6737691f3b2717d1d6723d54de44dca"
+      },
+      "21": {
+        "source_ref": "Hebrews 11:21",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 21,
+            "source_ref": "Hebrews 11:21",
+            "segment_mode": "whole",
+            "sha256": "8dd39e76ca86fbd240ff858c352d39b17afefa04e55fb96ae4313dd1fa7b3217"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8dd39e76ca86fbd240ff858c352d39b17afefa04e55fb96ae4313dd1fa7b3217"
+      },
+      "22": {
+        "source_ref": "Hebrews 11:22",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 22,
+            "source_ref": "Hebrews 11:22",
+            "segment_mode": "whole",
+            "sha256": "8d1a46ab2190b815536f78175cf0e971938c369542fd2b76aa23982fd2aaced3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d1a46ab2190b815536f78175cf0e971938c369542fd2b76aa23982fd2aaced3"
+      },
+      "23": {
+        "source_ref": "Hebrews 11:23",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 23,
+            "source_ref": "Hebrews 11:23",
+            "segment_mode": "whole",
+            "sha256": "7071643a57837d99abc27b289266836ef35b59878b5c0e2de32d2a346de22c02"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7071643a57837d99abc27b289266836ef35b59878b5c0e2de32d2a346de22c02"
+      },
+      "24": {
+        "source_ref": "Hebrews 11:24",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 24,
+            "source_ref": "Hebrews 11:24",
+            "segment_mode": "whole",
+            "sha256": "1dbed1e925e7459a1a966e7b503d92a31e8abc2f4711ea8e79f1b351a3c28ebd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1dbed1e925e7459a1a966e7b503d92a31e8abc2f4711ea8e79f1b351a3c28ebd"
+      },
+      "25": {
+        "source_ref": "Hebrews 11:25",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 25,
+            "source_ref": "Hebrews 11:25",
+            "segment_mode": "whole",
+            "sha256": "8e9d1fd8b35cf6ed96773bca93176899454ad53397a72521ebba1287fd6d23dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e9d1fd8b35cf6ed96773bca93176899454ad53397a72521ebba1287fd6d23dd"
+      },
+      "26": {
+        "source_ref": "Hebrews 11:26",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 26,
+            "source_ref": "Hebrews 11:26",
+            "segment_mode": "whole",
+            "sha256": "112bf54efc4245aed8d9553cb31a7e65c5e4e1d8f2f33ed58934f3a0b19840eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "112bf54efc4245aed8d9553cb31a7e65c5e4e1d8f2f33ed58934f3a0b19840eb"
+      },
+      "27": {
+        "source_ref": "Hebrews 11:27",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 27,
+            "source_ref": "Hebrews 11:27",
+            "segment_mode": "whole",
+            "sha256": "4dbd60d4d0cb25b4e4dd40d061f257761fd4afce4f0588207c3eebf09855a322"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4dbd60d4d0cb25b4e4dd40d061f257761fd4afce4f0588207c3eebf09855a322"
+      },
+      "28": {
+        "source_ref": "Hebrews 11:28",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 28,
+            "source_ref": "Hebrews 11:28",
+            "segment_mode": "whole",
+            "sha256": "8a4646a48ce9e6ff764a1fc90afc8f4cee9c44ede0ffd1f6852378ad2de55561"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a4646a48ce9e6ff764a1fc90afc8f4cee9c44ede0ffd1f6852378ad2de55561"
+      },
+      "29": {
+        "source_ref": "Hebrews 11:29",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 29,
+            "source_ref": "Hebrews 11:29",
+            "segment_mode": "whole",
+            "sha256": "b94c439489ca748d2226655afac5164d51cd18ef6ebb2b52883250c9a20ea795"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b94c439489ca748d2226655afac5164d51cd18ef6ebb2b52883250c9a20ea795"
+      },
+      "30": {
+        "source_ref": "Hebrews 11:30",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 30,
+            "source_ref": "Hebrews 11:30",
+            "segment_mode": "whole",
+            "sha256": "98cd296aa1ff820b27fe01a142ade70960c6ddba8f4b68cf4c942217689679e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98cd296aa1ff820b27fe01a142ade70960c6ddba8f4b68cf4c942217689679e7"
+      },
+      "31": {
+        "source_ref": "Hebrews 11:31",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 31,
+            "source_ref": "Hebrews 11:31",
+            "segment_mode": "whole",
+            "sha256": "8ece6b8277c30b99d8a43629131bde0427435e3e0afd78eb71d81934888ccbce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ece6b8277c30b99d8a43629131bde0427435e3e0afd78eb71d81934888ccbce"
+      },
+      "32": {
+        "source_ref": "Hebrews 11:32",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 32,
+            "source_ref": "Hebrews 11:32",
+            "segment_mode": "whole",
+            "sha256": "27c9a11950b7f752e9cfb5033073b0346ffa9c662718ba876f0ce1efb7ee5aa0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27c9a11950b7f752e9cfb5033073b0346ffa9c662718ba876f0ce1efb7ee5aa0"
+      },
+      "33": {
+        "source_ref": "Hebrews 11:33",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 33,
+            "source_ref": "Hebrews 11:33",
+            "segment_mode": "whole",
+            "sha256": "4fd28650fb7e47f788d058a65f99075113284ade779d98afcbc645f3151d4e29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4fd28650fb7e47f788d058a65f99075113284ade779d98afcbc645f3151d4e29"
+      },
+      "34": {
+        "source_ref": "Hebrews 11:34",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 34,
+            "source_ref": "Hebrews 11:34",
+            "segment_mode": "whole",
+            "sha256": "72496548bc583efc0c1a7d20bf4739f077525aef72a6a46054eac286fa7c1dfe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72496548bc583efc0c1a7d20bf4739f077525aef72a6a46054eac286fa7c1dfe"
+      },
+      "35": {
+        "source_ref": "Hebrews 11:35",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 35,
+            "source_ref": "Hebrews 11:35",
+            "segment_mode": "whole",
+            "sha256": "2e97beda8620a8faaae3c881a79e156567e32fd3f0a666c5a5aa11b409a5b6a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e97beda8620a8faaae3c881a79e156567e32fd3f0a666c5a5aa11b409a5b6a4"
+      },
+      "36": {
+        "source_ref": "Hebrews 11:36",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 36,
+            "source_ref": "Hebrews 11:36",
+            "segment_mode": "whole",
+            "sha256": "1597775583d4315ed084643a7dfaa5df80ae9abe88f2de7e53ed3ea162ac772a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1597775583d4315ed084643a7dfaa5df80ae9abe88f2de7e53ed3ea162ac772a"
+      },
+      "37": {
+        "source_ref": "Hebrews 11:37",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 37,
+            "source_ref": "Hebrews 11:37",
+            "segment_mode": "whole",
+            "sha256": "c2d85f429b0680f7af828e110350bc77075163676464d042229460662fb4cd33"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2d85f429b0680f7af828e110350bc77075163676464d042229460662fb4cd33"
+      },
+      "38": {
+        "source_ref": "Hebrews 11:38",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 38,
+            "source_ref": "Hebrews 11:38",
+            "segment_mode": "whole",
+            "sha256": "a6aa8b393a3f751cb5d829c95dea8eaf1e7f080a8281f3cefb8cea1791da0a21"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6aa8b393a3f751cb5d829c95dea8eaf1e7f080a8281f3cefb8cea1791da0a21"
+      },
+      "39": {
+        "source_ref": "Hebrews 11:39",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 39,
+            "source_ref": "Hebrews 11:39",
+            "segment_mode": "whole",
+            "sha256": "d03becd5e25cf02dadfb88a4622b6a00a007a7221a30de778ae7cb927525548d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d03becd5e25cf02dadfb88a4622b6a00a007a7221a30de778ae7cb927525548d"
+      },
+      "40": {
+        "source_ref": "Hebrews 11:40",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 40,
+            "source_ref": "Hebrews 11:40",
+            "segment_mode": "whole",
+            "sha256": "cf54a55995f68ba967c30d5294601ef2af02a6a35b0fd92173d5b1b6002f557d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cf54a55995f68ba967c30d5294601ef2af02a6a35b0fd92173d5b1b6002f557d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/hebrews/Hebrews_11.md",
+    "blob_sha": "c9d982986a98a10e5f750d737c15c0e9bf49a13e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,462 @@
+{
+  "book": "Hebrews",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "9:1-10:25",
+      "decision": "Translate cultic imagery carefully and avoid anti-Jewish caricature.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Hebrews 9:1",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Hebrews 9:1",
+            "segment_mode": "whole",
+            "sha256": "42f269379e9b7a5924ec9d725bcbe06faa05b172f1087e220c4857e61198286e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42f269379e9b7a5924ec9d725bcbe06faa05b172f1087e220c4857e61198286e"
+      },
+      "2": {
+        "source_ref": "Hebrews 9:2",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Hebrews 9:2",
+            "segment_mode": "whole",
+            "sha256": "6f26922ca1af5978b0035f60b05e94cf94807bd363fd9137ee1b0df28ddfc05b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f26922ca1af5978b0035f60b05e94cf94807bd363fd9137ee1b0df28ddfc05b"
+      },
+      "3": {
+        "source_ref": "Hebrews 9:3",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Hebrews 9:3",
+            "segment_mode": "whole",
+            "sha256": "27740a1c565649037a9fe22c40abc0b87b48417262bbedc66877bb3933c2c45b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27740a1c565649037a9fe22c40abc0b87b48417262bbedc66877bb3933c2c45b"
+      },
+      "4": {
+        "source_ref": "Hebrews 9:4",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Hebrews 9:4",
+            "segment_mode": "whole",
+            "sha256": "96384ad3d5f055ad8751d30933e2544f14c4f9f56db15c3c4403785626f0088e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96384ad3d5f055ad8751d30933e2544f14c4f9f56db15c3c4403785626f0088e"
+      },
+      "5": {
+        "source_ref": "Hebrews 9:5",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Hebrews 9:5",
+            "segment_mode": "whole",
+            "sha256": "3b4dbff05e1b8af50195277953ca926317a05c9d23cfd14196ec927f6387970a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b4dbff05e1b8af50195277953ca926317a05c9d23cfd14196ec927f6387970a"
+      },
+      "6": {
+        "source_ref": "Hebrews 9:6",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Hebrews 9:6",
+            "segment_mode": "whole",
+            "sha256": "700e30e11475c2402c79c15f82968bb3cf6f16b9eff872b6f8252b5b8f4034cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "700e30e11475c2402c79c15f82968bb3cf6f16b9eff872b6f8252b5b8f4034cd"
+      },
+      "7": {
+        "source_ref": "Hebrews 9:7",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Hebrews 9:7",
+            "segment_mode": "whole",
+            "sha256": "4a2c33744987b0712767961726d127a1af910e14655aa55465ee9af926cdf0f5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a2c33744987b0712767961726d127a1af910e14655aa55465ee9af926cdf0f5"
+      },
+      "8": {
+        "source_ref": "Hebrews 9:8",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Hebrews 9:8",
+            "segment_mode": "whole",
+            "sha256": "cfc5e33adef1272dbf3edf248b0cb42616a3a65393724d6e7b17d8c3b16129ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cfc5e33adef1272dbf3edf248b0cb42616a3a65393724d6e7b17d8c3b16129ff"
+      },
+      "9": {
+        "source_ref": "Hebrews 9:9",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Hebrews 9:9",
+            "segment_mode": "whole",
+            "sha256": "69998c98753d70fccc9b06a66648e95b51be7c66248f67bdcfbd2c93fb186465"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69998c98753d70fccc9b06a66648e95b51be7c66248f67bdcfbd2c93fb186465"
+      },
+      "10": {
+        "source_ref": "Hebrews 9:10",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Hebrews 9:10",
+            "segment_mode": "whole",
+            "sha256": "2fc05474c8864c3f87c599c909bfd0976b93eff0bde2f4dad887817b1c5fad13"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2fc05474c8864c3f87c599c909bfd0976b93eff0bde2f4dad887817b1c5fad13"
+      },
+      "11": {
+        "source_ref": "Hebrews 9:11",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Hebrews 9:11",
+            "segment_mode": "whole",
+            "sha256": "cd80cbac184e327381e53a8150ac96c7b33a8727f6bc427f40b42cdd9e5d5af9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd80cbac184e327381e53a8150ac96c7b33a8727f6bc427f40b42cdd9e5d5af9"
+      },
+      "12": {
+        "source_ref": "Hebrews 9:12",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "Hebrews 9:12",
+            "segment_mode": "whole",
+            "sha256": "d15e8767e3c754748748dffeb1ef31760bc3928cb9ad60cbb4bf3277ba9c46ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d15e8767e3c754748748dffeb1ef31760bc3928cb9ad60cbb4bf3277ba9c46ab"
+      },
+      "13": {
+        "source_ref": "Hebrews 9:13",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "Hebrews 9:13",
+            "segment_mode": "whole",
+            "sha256": "3d6d13be9ed272f0cb72cb835b662829c36bff207914412336ac2cefcbce2292"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d6d13be9ed272f0cb72cb835b662829c36bff207914412336ac2cefcbce2292"
+      },
+      "14": {
+        "source_ref": "Hebrews 9:14",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "Hebrews 9:14",
+            "segment_mode": "whole",
+            "sha256": "f1cc36e94409230a222194fe96e54a612ac4851a60b2cfa87935d191cc6ed79e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1cc36e94409230a222194fe96e54a612ac4851a60b2cfa87935d191cc6ed79e"
+      },
+      "15": {
+        "source_ref": "Hebrews 9:15",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "Hebrews 9:15",
+            "segment_mode": "whole",
+            "sha256": "b8977ae6ea0551a81d649bf569a5485a6f54854056a606ce10b9de52a36fd6b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8977ae6ea0551a81d649bf569a5485a6f54854056a606ce10b9de52a36fd6b0"
+      },
+      "16": {
+        "source_ref": "Hebrews 9:16",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 16,
+            "source_ref": "Hebrews 9:16",
+            "segment_mode": "whole",
+            "sha256": "db82d5c08b137bd4505ece84f9781aa7543f75e5b9b47e97c538386f8480c1c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db82d5c08b137bd4505ece84f9781aa7543f75e5b9b47e97c538386f8480c1c0"
+      },
+      "17": {
+        "source_ref": "Hebrews 9:17",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 17,
+            "source_ref": "Hebrews 9:17",
+            "segment_mode": "whole",
+            "sha256": "86faf992039ec2a8ad3a21aca1d68682fd99e799fd6c855871a8e7e4df37ffae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "86faf992039ec2a8ad3a21aca1d68682fd99e799fd6c855871a8e7e4df37ffae"
+      },
+      "18": {
+        "source_ref": "Hebrews 9:18",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 18,
+            "source_ref": "Hebrews 9:18",
+            "segment_mode": "whole",
+            "sha256": "149f6feb6cc3cf5b3675a3123471cd51064c74d9f063127fdfe3670bb753e787"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "149f6feb6cc3cf5b3675a3123471cd51064c74d9f063127fdfe3670bb753e787"
+      },
+      "19": {
+        "source_ref": "Hebrews 9:19",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 19,
+            "source_ref": "Hebrews 9:19",
+            "segment_mode": "whole",
+            "sha256": "b296525b72cf9c21192d17710389e4ce0bbcf566665e131dfa7d6015fe4b5d59"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b296525b72cf9c21192d17710389e4ce0bbcf566665e131dfa7d6015fe4b5d59"
+      },
+      "20": {
+        "source_ref": "Hebrews 9:20",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 20,
+            "source_ref": "Hebrews 9:20",
+            "segment_mode": "whole",
+            "sha256": "94893963f63d0955ea0ce0713704962e03d709f19c364367d2f0c94fb0356a94"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94893963f63d0955ea0ce0713704962e03d709f19c364367d2f0c94fb0356a94"
+      },
+      "21": {
+        "source_ref": "Hebrews 9:21",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 21,
+            "source_ref": "Hebrews 9:21",
+            "segment_mode": "whole",
+            "sha256": "f7da754f086f07718499c5788e214c879d7a903b1cf028cfad741fe3ea5f1da3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f7da754f086f07718499c5788e214c879d7a903b1cf028cfad741fe3ea5f1da3"
+      },
+      "22": {
+        "source_ref": "Hebrews 9:22",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 22,
+            "source_ref": "Hebrews 9:22",
+            "segment_mode": "whole",
+            "sha256": "09f43f94aa9372df11bc797a78fae3c510dc6f9bedb263296be0a1c9ccb555c5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09f43f94aa9372df11bc797a78fae3c510dc6f9bedb263296be0a1c9ccb555c5"
+      },
+      "23": {
+        "source_ref": "Hebrews 9:23",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 23,
+            "source_ref": "Hebrews 9:23",
+            "segment_mode": "whole",
+            "sha256": "bfad023ec80db9f7c70bc5ed763a15b7af06aca255094745195225c58a256026"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bfad023ec80db9f7c70bc5ed763a15b7af06aca255094745195225c58a256026"
+      },
+      "24": {
+        "source_ref": "Hebrews 9:24",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 24,
+            "source_ref": "Hebrews 9:24",
+            "segment_mode": "whole",
+            "sha256": "f9d6f903086aa6e5fbc65d1e59526544788c8b58c3e7c75b94c6e3a4611a13e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9d6f903086aa6e5fbc65d1e59526544788c8b58c3e7c75b94c6e3a4611a13e3"
+      },
+      "25": {
+        "source_ref": "Hebrews 9:25",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 25,
+            "source_ref": "Hebrews 9:25",
+            "segment_mode": "whole",
+            "sha256": "8cb0a4f0c2a0f9152d57cf8e2d65d415348c277ffc7a0515e009ed4b26838e25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8cb0a4f0c2a0f9152d57cf8e2d65d415348c277ffc7a0515e009ed4b26838e25"
+      },
+      "26": {
+        "source_ref": "Hebrews 9:26",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 26,
+            "source_ref": "Hebrews 9:26",
+            "segment_mode": "whole",
+            "sha256": "8fbc73f3d4a812c44de96f90b9eff32f7007f73a8a7bd924ec201b301c482d4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fbc73f3d4a812c44de96f90b9eff32f7007f73a8a7bd924ec201b301c482d4e"
+      },
+      "27": {
+        "source_ref": "Hebrews 9:27",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 27,
+            "source_ref": "Hebrews 9:27",
+            "segment_mode": "whole",
+            "sha256": "d6ff6b9f5e4970f3e36a7c9ebc891ef37808db86da852b84c2fc7d943e046895"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6ff6b9f5e4970f3e36a7c9ebc891ef37808db86da852b84c2fc7d943e046895"
+      },
+      "28": {
+        "source_ref": "Hebrews 9:28",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 28,
+            "source_ref": "Hebrews 9:28",
+            "segment_mode": "whole",
+            "sha256": "95bbb8d1c2c215be97397162eeb66958293a2fd171eff23ac787210f1d7af166"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95bbb8d1c2c215be97397162eeb66958293a2fd171eff23ac787210f1d7af166"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/hebrews/Hebrews_09.md",
+    "blob_sha": "6863a6359dd1dc67ac8e661c35fc4d320d1bfc50"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

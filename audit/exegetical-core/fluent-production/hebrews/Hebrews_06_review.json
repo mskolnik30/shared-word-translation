@@ -1,0 +1,342 @@
+{
+  "book": "Hebrews",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "6:4-12",
+      "decision": "Retain the warning's full severity without using the translation to settle later doctrinal systems.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Hebrews 6:1",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 1,
+            "source_ref": "Hebrews 6:1",
+            "segment_mode": "whole",
+            "sha256": "5c75c7e22dfc96d366c9ed746b9696cfce5ce3b8f4dc0d76313e002f2e36fe11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c75c7e22dfc96d366c9ed746b9696cfce5ce3b8f4dc0d76313e002f2e36fe11"
+      },
+      "2": {
+        "source_ref": "Hebrews 6:2",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 2,
+            "source_ref": "Hebrews 6:2",
+            "segment_mode": "whole",
+            "sha256": "4eef30420ab92763ce46f5d932ebe8e7aed55e4b513b634608b9161c17c0e00a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4eef30420ab92763ce46f5d932ebe8e7aed55e4b513b634608b9161c17c0e00a"
+      },
+      "3": {
+        "source_ref": "Hebrews 6:3",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 3,
+            "source_ref": "Hebrews 6:3",
+            "segment_mode": "whole",
+            "sha256": "44ef9437af829c6bacf540e27f3499ff2a777874637def1e7765c5835aaba54d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44ef9437af829c6bacf540e27f3499ff2a777874637def1e7765c5835aaba54d"
+      },
+      "4": {
+        "source_ref": "Hebrews 6:4",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 4,
+            "source_ref": "Hebrews 6:4",
+            "segment_mode": "whole",
+            "sha256": "403fb1a9eee6529517867d5112050dd024c4d0298f952271ee89a8f8c0d61897"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "403fb1a9eee6529517867d5112050dd024c4d0298f952271ee89a8f8c0d61897"
+      },
+      "5": {
+        "source_ref": "Hebrews 6:5",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 5,
+            "source_ref": "Hebrews 6:5",
+            "segment_mode": "whole",
+            "sha256": "58170db2d0ce805fbfcf40c145a8072650da04a515cd5785f450bf3ecad65881"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "58170db2d0ce805fbfcf40c145a8072650da04a515cd5785f450bf3ecad65881"
+      },
+      "6": {
+        "source_ref": "Hebrews 6:6",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 6,
+            "source_ref": "Hebrews 6:6",
+            "segment_mode": "whole",
+            "sha256": "46a017818f995d4f1714c521977291621e06cc25b47e40b301a7a0d4280a6da1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46a017818f995d4f1714c521977291621e06cc25b47e40b301a7a0d4280a6da1"
+      },
+      "7": {
+        "source_ref": "Hebrews 6:7",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 7,
+            "source_ref": "Hebrews 6:7",
+            "segment_mode": "whole",
+            "sha256": "23713a6779c7949097ca3024ad7c3b459abd1ff48a5333e454037400b5e7323c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23713a6779c7949097ca3024ad7c3b459abd1ff48a5333e454037400b5e7323c"
+      },
+      "8": {
+        "source_ref": "Hebrews 6:8",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 8,
+            "source_ref": "Hebrews 6:8",
+            "segment_mode": "whole",
+            "sha256": "fc2ea239340166476f0e7252fde1e67377c2447700b980ebcdd8c327182ec80d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fc2ea239340166476f0e7252fde1e67377c2447700b980ebcdd8c327182ec80d"
+      },
+      "9": {
+        "source_ref": "Hebrews 6:9",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 9,
+            "source_ref": "Hebrews 6:9",
+            "segment_mode": "whole",
+            "sha256": "939e4b0859575f204e76ac182864c0e6870b8e7be629f0fb78314252c4525930"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "939e4b0859575f204e76ac182864c0e6870b8e7be629f0fb78314252c4525930"
+      },
+      "10": {
+        "source_ref": "Hebrews 6:10",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 10,
+            "source_ref": "Hebrews 6:10",
+            "segment_mode": "whole",
+            "sha256": "e9a415cb08a4a17bee6c0b9ff6c509d02577101868af666036996d97a84fba59"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e9a415cb08a4a17bee6c0b9ff6c509d02577101868af666036996d97a84fba59"
+      },
+      "11": {
+        "source_ref": "Hebrews 6:11",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 11,
+            "source_ref": "Hebrews 6:11",
+            "segment_mode": "whole",
+            "sha256": "5eb17bef0af2efa76c07112d062ad9245120ecdf783f992bb4acb5d8101a1aed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5eb17bef0af2efa76c07112d062ad9245120ecdf783f992bb4acb5d8101a1aed"
+      },
+      "12": {
+        "source_ref": "Hebrews 6:12",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 12,
+            "source_ref": "Hebrews 6:12",
+            "segment_mode": "whole",
+            "sha256": "d62a872ca4aea03ed811b953d31ba7c7100bd1c045eec37293091774e66edca5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d62a872ca4aea03ed811b953d31ba7c7100bd1c045eec37293091774e66edca5"
+      },
+      "13": {
+        "source_ref": "Hebrews 6:13",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 13,
+            "source_ref": "Hebrews 6:13",
+            "segment_mode": "whole",
+            "sha256": "7c03d5288508cccc54558040ece770fb18e7a6639f9e7e5675e1cc3a168368c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c03d5288508cccc54558040ece770fb18e7a6639f9e7e5675e1cc3a168368c3"
+      },
+      "14": {
+        "source_ref": "Hebrews 6:14",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 14,
+            "source_ref": "Hebrews 6:14",
+            "segment_mode": "whole",
+            "sha256": "264a23d14ad74f9a2306bc2544e7e43c82fa0aff5216d0dcdb99639148d6127a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "264a23d14ad74f9a2306bc2544e7e43c82fa0aff5216d0dcdb99639148d6127a"
+      },
+      "15": {
+        "source_ref": "Hebrews 6:15",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 15,
+            "source_ref": "Hebrews 6:15",
+            "segment_mode": "whole",
+            "sha256": "639b600958491e5bc54d19a0ddacf4e941b5e0daab896270dcd5526c035ba67f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "639b600958491e5bc54d19a0ddacf4e941b5e0daab896270dcd5526c035ba67f"
+      },
+      "16": {
+        "source_ref": "Hebrews 6:16",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 16,
+            "source_ref": "Hebrews 6:16",
+            "segment_mode": "whole",
+            "sha256": "2560030d141864edc41331c74357ba4d0a319ce6a49dfc2e9281b88aaaebfb67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2560030d141864edc41331c74357ba4d0a319ce6a49dfc2e9281b88aaaebfb67"
+      },
+      "17": {
+        "source_ref": "Hebrews 6:17",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 17,
+            "source_ref": "Hebrews 6:17",
+            "segment_mode": "whole",
+            "sha256": "36a44f8ab46c46aa9118a6d4b05f95111f58e64f8a3900a87ac209fa3868b2dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36a44f8ab46c46aa9118a6d4b05f95111f58e64f8a3900a87ac209fa3868b2dd"
+      },
+      "18": {
+        "source_ref": "Hebrews 6:18",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 18,
+            "source_ref": "Hebrews 6:18",
+            "segment_mode": "whole",
+            "sha256": "c8f4e968fb8ebacff09e7de0d315ad0f4b27f87164e8fe827eaad24132473456"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c8f4e968fb8ebacff09e7de0d315ad0f4b27f87164e8fe827eaad24132473456"
+      },
+      "19": {
+        "source_ref": "Hebrews 6:19",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 19,
+            "source_ref": "Hebrews 6:19",
+            "segment_mode": "whole",
+            "sha256": "c118d29b74840f624557c6f41e015d5d6541e079029cee0051db4ed790d24f57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c118d29b74840f624557c6f41e015d5d6541e079029cee0051db4ed790d24f57"
+      },
+      "20": {
+        "source_ref": "Hebrews 6:20",
+        "source_records": [
+          {
+            "chapter": 6,
+            "verse": 20,
+            "source_ref": "Hebrews 6:20",
+            "segment_mode": "whole",
+            "sha256": "c666a15b36a8aabe7041ae11a62296b573bb0b89282932c61f4e9ff8f6ac07a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c666a15b36a8aabe7041ae11a62296b573bb0b89282932c61f4e9ff8f6ac07a8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/hebrews/Hebrews_06.md",
+    "blob_sha": "3c517b9ca44d6214f9a86db076922329104b4783"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

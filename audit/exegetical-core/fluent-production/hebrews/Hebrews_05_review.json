@@ -1,0 +1,246 @@
+{
+  "book": "Hebrews",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Hebrews 5:1",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "Hebrews 5:1",
+            "segment_mode": "whole",
+            "sha256": "3b05ce2efe9c4d5e76a62d4fe7442d89532c8388cb11529b3192384f5699d5a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b05ce2efe9c4d5e76a62d4fe7442d89532c8388cb11529b3192384f5699d5a0"
+      },
+      "2": {
+        "source_ref": "Hebrews 5:2",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "Hebrews 5:2",
+            "segment_mode": "whole",
+            "sha256": "61dacfc1f2f51d0d2039a8135ae7b6400ad3aedbc2a6f9372358cf126a99837f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "61dacfc1f2f51d0d2039a8135ae7b6400ad3aedbc2a6f9372358cf126a99837f"
+      },
+      "3": {
+        "source_ref": "Hebrews 5:3",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "Hebrews 5:3",
+            "segment_mode": "whole",
+            "sha256": "75293a1280f7e9a894e90c17bf09b0c5db5660efdc9eddb30153efd3bdae0a37"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75293a1280f7e9a894e90c17bf09b0c5db5660efdc9eddb30153efd3bdae0a37"
+      },
+      "4": {
+        "source_ref": "Hebrews 5:4",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "Hebrews 5:4",
+            "segment_mode": "whole",
+            "sha256": "5392bff3add8a32ae2a32146e1d41a23f7dbf9479ffff9cf5a1e48f35540f32d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5392bff3add8a32ae2a32146e1d41a23f7dbf9479ffff9cf5a1e48f35540f32d"
+      },
+      "5": {
+        "source_ref": "Hebrews 5:5",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "Hebrews 5:5",
+            "segment_mode": "whole",
+            "sha256": "4a00cafeb9159ca1dc10858ec00b3e07badcf18af459771d70f747312523e18c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a00cafeb9159ca1dc10858ec00b3e07badcf18af459771d70f747312523e18c"
+      },
+      "6": {
+        "source_ref": "Hebrews 5:6",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "Hebrews 5:6",
+            "segment_mode": "whole",
+            "sha256": "387ddcdd4de7b7b4ff3230ea0ebd4cb1f7e97ff77571f8b4101128ba493820c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "387ddcdd4de7b7b4ff3230ea0ebd4cb1f7e97ff77571f8b4101128ba493820c9"
+      },
+      "7": {
+        "source_ref": "Hebrews 5:7",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "Hebrews 5:7",
+            "segment_mode": "whole",
+            "sha256": "4c2f57f05ba6dda7642572089e107422fb291cdf1943c6c9e2d4d1f864a67b7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c2f57f05ba6dda7642572089e107422fb291cdf1943c6c9e2d4d1f864a67b7d"
+      },
+      "8": {
+        "source_ref": "Hebrews 5:8",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "Hebrews 5:8",
+            "segment_mode": "whole",
+            "sha256": "743295fb1dddbd8831c05689ae6aa22f5087749704da8bdefa228a02c03dd400"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "743295fb1dddbd8831c05689ae6aa22f5087749704da8bdefa228a02c03dd400"
+      },
+      "9": {
+        "source_ref": "Hebrews 5:9",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "Hebrews 5:9",
+            "segment_mode": "whole",
+            "sha256": "91f891a4c4ae6bee69c6ab5b7cda866496ba070804dda160e1aa55cbbb3ff062"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91f891a4c4ae6bee69c6ab5b7cda866496ba070804dda160e1aa55cbbb3ff062"
+      },
+      "10": {
+        "source_ref": "Hebrews 5:10",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "Hebrews 5:10",
+            "segment_mode": "whole",
+            "sha256": "c81f6a7409746b0112326c81194a993be659b73f5b260ec7b652497073e2356e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c81f6a7409746b0112326c81194a993be659b73f5b260ec7b652497073e2356e"
+      },
+      "11": {
+        "source_ref": "Hebrews 5:11",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "Hebrews 5:11",
+            "segment_mode": "whole",
+            "sha256": "fbb0f28c63f418baee70fbd2168c0b8498778ed7bf6cce26a524204999340b10"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbb0f28c63f418baee70fbd2168c0b8498778ed7bf6cce26a524204999340b10"
+      },
+      "12": {
+        "source_ref": "Hebrews 5:12",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "Hebrews 5:12",
+            "segment_mode": "whole",
+            "sha256": "15af292c5f1d692db8682aa002932cbae9bfab6f2af22e9989f71e14d31c06cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "15af292c5f1d692db8682aa002932cbae9bfab6f2af22e9989f71e14d31c06cb"
+      },
+      "13": {
+        "source_ref": "Hebrews 5:13",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "Hebrews 5:13",
+            "segment_mode": "whole",
+            "sha256": "2e0d511d29717aad95d4562d1928ab9d7a321fa8acca02e5159e2d21448f5556"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e0d511d29717aad95d4562d1928ab9d7a321fa8acca02e5159e2d21448f5556"
+      },
+      "14": {
+        "source_ref": "Hebrews 5:14",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "Hebrews 5:14",
+            "segment_mode": "whole",
+            "sha256": "0fb384b3ba60fe4752bc1dcd14cf0d7176dec16bea49da5b9d4c5824cdf59356"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0fb384b3ba60fe4752bc1dcd14cf0d7176dec16bea49da5b9d4c5824cdf59356"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/hebrews/Hebrews_05.md",
+    "blob_sha": "e730f93afcaa27b90a5a253bb6a2c1fb071e0b61"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

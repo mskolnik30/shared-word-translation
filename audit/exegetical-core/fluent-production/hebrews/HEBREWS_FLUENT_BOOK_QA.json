@@ -1,0 +1,127 @@
+{
+  "book": "Hebrews",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 13,
+  "public_verse_slots": 303,
+  "included_verse_labels": 303,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 303,
+  "source": {
+    "type": "sblgnt",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Heb.txt",
+    "git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-14",
+      "decision": "Preserve the Son's exalted identity and the catena's cumulative scriptural argument.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:12-16",
+      "decision": "Keep word, judgment, priestly sympathy, and confident approach connected.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "6:4-12",
+      "decision": "Retain the warning's full severity without using the translation to settle later doctrinal systems.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:1-28",
+      "decision": "Keep Melchizedek typology and priestly comparison distinct from historical speculation.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:1-10:25",
+      "decision": "Translate cultic imagery carefully and avoid anti-Jewish caricature.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "10:26-39",
+      "decision": "Retain warning and encouragement together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:1-40",
+      "decision": "Render pistis relationally as trust/faithfulness while preserving its future-oriented endurance.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "12:18-29",
+      "decision": "Preserve Sinai/Zion contrast as rhetorical movement within Israel's Scriptures, not replacement theology.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_03",
+  "deployment_audit": {
+    "source_git_blob_sha": "3a7e9b3f7f17aaae39976aae8661bfa5dba55db2",
+    "source_binding_count": 303,
+    "unique_source_record_count": 303,
+    "public_verse_slots": 303,
+    "ledger_summary": {
+      "F0": 85,
+      "F1": 43,
+      "F2": 0,
+      "F3": 175
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/hebrews/Hebrews_01.md",
+        "blob_sha": "be6af6a55da4969a79d80ee603b316e8976a4f0d"
+      },
+      "02": {
+        "path": "books/NT/hebrews/Hebrews_02.md",
+        "blob_sha": "dc31b605b555c1b179110dc54116d66752264a59"
+      },
+      "03": {
+        "path": "books/NT/hebrews/Hebrews_03.md",
+        "blob_sha": "796927ae4203319d65265bb9f84708ce0aa76356"
+      },
+      "04": {
+        "path": "books/NT/hebrews/Hebrews_04.md",
+        "blob_sha": "86fbb542173fd8c38f7bc05aaf2108e2a36a3d16"
+      },
+      "05": {
+        "path": "books/NT/hebrews/Hebrews_05.md",
+        "blob_sha": "e730f93afcaa27b90a5a253bb6a2c1fb071e0b61"
+      },
+      "06": {
+        "path": "books/NT/hebrews/Hebrews_06.md",
+        "blob_sha": "3c517b9ca44d6214f9a86db076922329104b4783"
+      },
+      "07": {
+        "path": "books/NT/hebrews/Hebrews_07.md",
+        "blob_sha": "dbb2af43b6a546b3e1572d9aa160017da1159782"
+      },
+      "08": {
+        "path": "books/NT/hebrews/Hebrews_08.md",
+        "blob_sha": "099c912d99dbaa3f31ab658ab65ac7eaa5248ded"
+      },
+      "09": {
+        "path": "books/NT/hebrews/Hebrews_09.md",
+        "blob_sha": "6863a6359dd1dc67ac8e661c35fc4d320d1bfc50"
+      },
+      "10": {
+        "path": "books/NT/hebrews/Hebrews_10.md",
+        "blob_sha": "8e117d89856ff76b7d37235ff4dc461eae912838"
+      },
+      "11": {
+        "path": "books/NT/hebrews/Hebrews_11.md",
+        "blob_sha": "c9d982986a98a10e5f750d737c15c0e9bf49a13e"
+      },
+      "12": {
+        "path": "books/NT/hebrews/Hebrews_12.md",
+        "blob_sha": "ebab84177508c96bd3fb206277f82e052ce2691f"
+      },
+      "13": {
+        "path": "books/NT/hebrews/Hebrews_13.md",
+        "blob_sha": "127a86797c8790934f5faf8fcadf45eaa0a6167c"
+      }
+    }
+  }
+}
