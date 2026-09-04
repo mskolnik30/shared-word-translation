@@ -1,0 +1,111 @@
+{
+  "book": "Psalms",
+  "chapter": 93,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 93:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 93,
+            "verse": 1,
+            "source_ref": "Psalms 93:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ee19995c82fb98931d9262d431dcd62e5af2799d23b2b5ed8541222d75f834f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ee19995c82fb98931d9262d431dcd62e5af2799d23b2b5ed8541222d75f834f"
+      },
+      "2": {
+        "source_ref": "Psalms 93:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 93,
+            "verse": 2,
+            "source_ref": "Psalms 93:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a8bd6088482cbb2e28775fa0069239828567e20418495930bd6c1b4fb14938c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8bd6088482cbb2e28775fa0069239828567e20418495930bd6c1b4fb14938c4"
+      },
+      "3": {
+        "source_ref": "Psalms 93:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 93,
+            "verse": 3,
+            "source_ref": "Psalms 93:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e0a9570f0072ef8a0180504fb726496a6f6b51580f16153fff255655d95ee127"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e0a9570f0072ef8a0180504fb726496a6f6b51580f16153fff255655d95ee127"
+      },
+      "4": {
+        "source_ref": "Psalms 93:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 93,
+            "verse": 4,
+            "source_ref": "Psalms 93:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "88f603d98fdddcb37134ecbbf242041c42ea9ffd30c83a7ce7489a5adb4d0be0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88f603d98fdddcb37134ecbbf242041c42ea9ffd30c83a7ce7489a5adb4d0be0"
+      },
+      "5": {
+        "source_ref": "Psalms 93:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 93,
+            "verse": 5,
+            "source_ref": "Psalms 93:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71f8697040c74aee231aeec87ba473ccf6224473ff771bb0eb8e058f749fabdb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71f8697040c74aee231aeec87ba473ccf6224473ff771bb0eb8e058f749fabdb"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_093.md",
+    "blob_sha": "7c03f6c8a52e8163edde6d2b53a81cbc23eb08a5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

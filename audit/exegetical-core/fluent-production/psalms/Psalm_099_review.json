@@ -1,0 +1,171 @@
+{
+  "book": "Psalms",
+  "chapter": 99,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 99:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 99,
+            "verse": 1,
+            "source_ref": "Psalms 99:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d34aaf9c462bcb2e2fb764e4a3fcb5dc402c54fc8a2730f3561e15e074d9421b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d34aaf9c462bcb2e2fb764e4a3fcb5dc402c54fc8a2730f3561e15e074d9421b"
+      },
+      "2": {
+        "source_ref": "Psalms 99:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 99,
+            "verse": 2,
+            "source_ref": "Psalms 99:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8aeddebe5b93b7f5aa69eabaa1923d129acacdf74fc78886755034e4d37f0c69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8aeddebe5b93b7f5aa69eabaa1923d129acacdf74fc78886755034e4d37f0c69"
+      },
+      "3": {
+        "source_ref": "Psalms 99:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 99,
+            "verse": 3,
+            "source_ref": "Psalms 99:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1e1a36c4456fc0251bcc0ae0e296d2614e3d8027b7ab48a541fde05bc1e82f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1e1a36c4456fc0251bcc0ae0e296d2614e3d8027b7ab48a541fde05bc1e82f8"
+      },
+      "4": {
+        "source_ref": "Psalms 99:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 99,
+            "verse": 4,
+            "source_ref": "Psalms 99:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9528869be01fff8f23f4ef08e2a5f278bcb0762ad5849e9433a019ce48e8a8d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9528869be01fff8f23f4ef08e2a5f278bcb0762ad5849e9433a019ce48e8a8d6"
+      },
+      "5": {
+        "source_ref": "Psalms 99:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 99,
+            "verse": 5,
+            "source_ref": "Psalms 99:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8228ec0ad21c88b4a48f53797566a86e4c769c5822c2a3cbf475e699d97d667b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8228ec0ad21c88b4a48f53797566a86e4c769c5822c2a3cbf475e699d97d667b"
+      },
+      "6": {
+        "source_ref": "Psalms 99:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 99,
+            "verse": 6,
+            "source_ref": "Psalms 99:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71263cb34ddb8a1b03b88bb63e66ff1bc788a4c720eb12442d3183c6b02c51a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71263cb34ddb8a1b03b88bb63e66ff1bc788a4c720eb12442d3183c6b02c51a5"
+      },
+      "7": {
+        "source_ref": "Psalms 99:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 99,
+            "verse": 7,
+            "source_ref": "Psalms 99:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "505b937e45c94ed82ea2bd283d2fd54fbc1dcf8b3458d1da6ca86fecb7f8695b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "505b937e45c94ed82ea2bd283d2fd54fbc1dcf8b3458d1da6ca86fecb7f8695b"
+      },
+      "8": {
+        "source_ref": "Psalms 99:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 99,
+            "verse": 8,
+            "source_ref": "Psalms 99:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f9fdd6c831fdf15211cbd997d14b3d2cac2ccf9dcbc71a6814c5c54edd753762"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9fdd6c831fdf15211cbd997d14b3d2cac2ccf9dcbc71a6814c5c54edd753762"
+      },
+      "9": {
+        "source_ref": "Psalms 99:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 99,
+            "verse": 9,
+            "source_ref": "Psalms 99:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ef71fcd81303da3cbedd7fb630f424c45aea8429c73449adc31892e083b90d99"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef71fcd81303da3cbedd7fb630f424c45aea8429c73449adc31892e083b90d99"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_099.md",
+    "blob_sha": "3cbd8938052dab75f762e84b743e38f05fb1335e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

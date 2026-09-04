@@ -1,0 +1,192 @@
+{
+  "book": "Psalms",
+  "chapter": 146,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "146:1-150:6",
+      "decision": "Preserve the final movement of trust, justice, creation, communal praise, and unrestrained doxology.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 146:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 146,
+            "verse": 1,
+            "source_ref": "Psalms 146:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1ba2b56c5d6663ce65c24d9c5971338f14279f60070fb6b0c2aa7c1cd9b258f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ba2b56c5d6663ce65c24d9c5971338f14279f60070fb6b0c2aa7c1cd9b258f3"
+      },
+      "2": {
+        "source_ref": "Psalms 146:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 146,
+            "verse": 2,
+            "source_ref": "Psalms 146:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7294b8fbe510a8f5af37c2e5aa92351e8c00da193fc0b12ec723e405ba6a6f30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7294b8fbe510a8f5af37c2e5aa92351e8c00da193fc0b12ec723e405ba6a6f30"
+      },
+      "3": {
+        "source_ref": "Psalms 146:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 146,
+            "verse": 3,
+            "source_ref": "Psalms 146:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "68e7b0eedbdc20689bfc5f8944a851ca8e26c209005286c2e2a5d01bad94b7fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68e7b0eedbdc20689bfc5f8944a851ca8e26c209005286c2e2a5d01bad94b7fe"
+      },
+      "4": {
+        "source_ref": "Psalms 146:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 146,
+            "verse": 4,
+            "source_ref": "Psalms 146:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6099dd35aa458110dc22a85d56b45c050130f7cc310774a310e2f151cba7f256"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6099dd35aa458110dc22a85d56b45c050130f7cc310774a310e2f151cba7f256"
+      },
+      "5": {
+        "source_ref": "Psalms 146:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 146,
+            "verse": 5,
+            "source_ref": "Psalms 146:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "02c3af85820f9b5c4fb22bea9bcf0a4c0fd02a06c8093f97ea3bf9908f2f5b11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02c3af85820f9b5c4fb22bea9bcf0a4c0fd02a06c8093f97ea3bf9908f2f5b11"
+      },
+      "6": {
+        "source_ref": "Psalms 146:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 146,
+            "verse": 6,
+            "source_ref": "Psalms 146:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "895d148f1b9f8727ed099f6d84dc0d2cdecc80f9d1c3c87fc74f58ac34227717"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "895d148f1b9f8727ed099f6d84dc0d2cdecc80f9d1c3c87fc74f58ac34227717"
+      },
+      "7": {
+        "source_ref": "Psalms 146:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 146,
+            "verse": 7,
+            "source_ref": "Psalms 146:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b3e7da06c555c6a63f8b5a20b63b0d80d913e21f0b814bc0ff8708d2edff8ed4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b3e7da06c555c6a63f8b5a20b63b0d80d913e21f0b814bc0ff8708d2edff8ed4"
+      },
+      "8": {
+        "source_ref": "Psalms 146:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 146,
+            "verse": 8,
+            "source_ref": "Psalms 146:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4854fd1bfcae488721d18a643e6d4b576b44919820560257fe412a074e36be50"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4854fd1bfcae488721d18a643e6d4b576b44919820560257fe412a074e36be50"
+      },
+      "9": {
+        "source_ref": "Psalms 146:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 146,
+            "verse": 9,
+            "source_ref": "Psalms 146:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "720ee1e42bfb46dac365e9f352e2f6d040f9cf5916d7846875bcb76f969f9d2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "720ee1e42bfb46dac365e9f352e2f6d040f9cf5916d7846875bcb76f969f9d2c"
+      },
+      "10": {
+        "source_ref": "Psalms 146:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 146,
+            "verse": 10,
+            "source_ref": "Psalms 146:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5d305e3b47c8ea7c20d79ddcc3445d19c7c65d794d9fddba6cf9b95ae953baf8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5d305e3b47c8ea7c20d79ddcc3445d19c7c65d794d9fddba6cf9b95ae953baf8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_146.md",
+    "blob_sha": "f326bca15bcaef7f647868c846c83962e1c39a87"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

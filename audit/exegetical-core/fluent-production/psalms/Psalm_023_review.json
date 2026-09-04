@@ -1,0 +1,133 @@
+{
+  "book": "Psalms",
+  "chapter": 23,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 23:1 (Hebrew; before kjv marker) + Psalms 23:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 1,
+            "source_ref": "Psalms 23:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "67bd4bf3daa97fd29e753273009bb29aa5c1f34a330149ee01a7624ec383067d"
+          },
+          {
+            "chapter": 23,
+            "verse": 1,
+            "source_ref": "Psalms 23:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7757c19efac7897e85d3c9fb200b9dfb2c037db4eb092821b5ce8c88465b4f59"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "de9ed4d467aeac2286487f4145212821c77ef85b8113e4d81b30e21ac16708c4"
+      },
+      "2": {
+        "source_ref": "Psalms 23:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 2,
+            "source_ref": "Psalms 23:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df9cb4a4cf48aed54256d75ad99b233b4eb8625fb8c1fc9bac388786ad1f6508"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df9cb4a4cf48aed54256d75ad99b233b4eb8625fb8c1fc9bac388786ad1f6508"
+      },
+      "3": {
+        "source_ref": "Psalms 23:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 3,
+            "source_ref": "Psalms 23:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "197ec257eea32f94c9ca8dbffce887c70d996cf188bbcd6684bcae169cae36c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "197ec257eea32f94c9ca8dbffce887c70d996cf188bbcd6684bcae169cae36c6"
+      },
+      "4": {
+        "source_ref": "Psalms 23:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 4,
+            "source_ref": "Psalms 23:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "31b7765177f6602ae7385c19cb3fce1664514a00b450ab8ac33366f350d2c36c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "31b7765177f6602ae7385c19cb3fce1664514a00b450ab8ac33366f350d2c36c"
+      },
+      "5": {
+        "source_ref": "Psalms 23:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 5,
+            "source_ref": "Psalms 23:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "887989572de5c2b20d18dd6aa5736e7fabffe2251d2a21b89d39e3e989e3b994"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "887989572de5c2b20d18dd6aa5736e7fabffe2251d2a21b89d39e3e989e3b994"
+      },
+      "6": {
+        "source_ref": "Psalms 23:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 6,
+            "source_ref": "Psalms 23:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "30b4fb104999ff7bcf5764aa42973e40daa2b6f74f4821b640a1bcec52e18d3d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30b4fb104999ff7bcf5764aa42973e40daa2b6f74f4821b640a1bcec52e18d3d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_023.md",
+    "blob_sha": "c76fe15cfbdded784ce4c2060ec0086611986956"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

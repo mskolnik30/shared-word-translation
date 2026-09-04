@@ -1,0 +1,171 @@
+{
+  "book": "Psalms",
+  "chapter": 113,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 113:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 113,
+            "verse": 1,
+            "source_ref": "Psalms 113:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4a7eaa8e2e576339bfe61fcdde50624ea344374dccae9c919629dac2ca65e302"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a7eaa8e2e576339bfe61fcdde50624ea344374dccae9c919629dac2ca65e302"
+      },
+      "2": {
+        "source_ref": "Psalms 113:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 113,
+            "verse": 2,
+            "source_ref": "Psalms 113:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2fff6e311cff9b79e5e07a33abcc3c7da7aedeec22edf804adf0a42e4817d4b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2fff6e311cff9b79e5e07a33abcc3c7da7aedeec22edf804adf0a42e4817d4b4"
+      },
+      "3": {
+        "source_ref": "Psalms 113:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 113,
+            "verse": 3,
+            "source_ref": "Psalms 113:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c72ce433ac6f2ea3b22bbd0ab1b7bd5410867d66b9b5fddb692f5370e4a78014"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c72ce433ac6f2ea3b22bbd0ab1b7bd5410867d66b9b5fddb692f5370e4a78014"
+      },
+      "4": {
+        "source_ref": "Psalms 113:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 113,
+            "verse": 4,
+            "source_ref": "Psalms 113:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c8f77f642011453384ae129884b3bd422acb46a904f4783912a6e52796006d82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c8f77f642011453384ae129884b3bd422acb46a904f4783912a6e52796006d82"
+      },
+      "5": {
+        "source_ref": "Psalms 113:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 113,
+            "verse": 5,
+            "source_ref": "Psalms 113:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "270fd796369cdba07f6a5c4d274893f3148e2272f94763fbcfff9a8be893b9a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "270fd796369cdba07f6a5c4d274893f3148e2272f94763fbcfff9a8be893b9a5"
+      },
+      "6": {
+        "source_ref": "Psalms 113:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 113,
+            "verse": 6,
+            "source_ref": "Psalms 113:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "88f93db0c01eb55ff066884a8c2404662800f888b34167e1175646528ae826a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88f93db0c01eb55ff066884a8c2404662800f888b34167e1175646528ae826a5"
+      },
+      "7": {
+        "source_ref": "Psalms 113:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 113,
+            "verse": 7,
+            "source_ref": "Psalms 113:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eb846c8cfe681bacecf7a3ebf7e9b60b618bc1195b5a63d088e45e870a3dca01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb846c8cfe681bacecf7a3ebf7e9b60b618bc1195b5a63d088e45e870a3dca01"
+      },
+      "8": {
+        "source_ref": "Psalms 113:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 113,
+            "verse": 8,
+            "source_ref": "Psalms 113:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "28beb252bfc0a496ac3822d5d06bfd0552b7ab037e34aef39dd09302944fbb7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "28beb252bfc0a496ac3822d5d06bfd0552b7ab037e34aef39dd09302944fbb7d"
+      },
+      "9": {
+        "source_ref": "Psalms 113:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 113,
+            "verse": 9,
+            "source_ref": "Psalms 113:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0ec6c5de8f07b8e2e5daaceb05dc6c41ad0f2f020f04f670dd5d7ce21b2149b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ec6c5de8f07b8e2e5daaceb05dc6c41ad0f2f020f04f670dd5d7ce21b2149b2"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_113.md",
+    "blob_sha": "c1038e8dd69f9b5155e2d148659a174110602adc"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

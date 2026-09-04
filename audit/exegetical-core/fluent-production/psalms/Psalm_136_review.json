@@ -1,0 +1,426 @@
+{
+  "book": "Psalms",
+  "chapter": 136,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 136:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 1,
+            "source_ref": "Psalms 136:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "768a5322639902fbdd9763b1d2944f956fc6bb8c41c3ed07b163d435deb122e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "768a5322639902fbdd9763b1d2944f956fc6bb8c41c3ed07b163d435deb122e6"
+      },
+      "2": {
+        "source_ref": "Psalms 136:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 2,
+            "source_ref": "Psalms 136:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "89eae8ed0749aba808fe463f878d96fe7c1c15bed0c32c0ee3d132e5c7879b2d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89eae8ed0749aba808fe463f878d96fe7c1c15bed0c32c0ee3d132e5c7879b2d"
+      },
+      "3": {
+        "source_ref": "Psalms 136:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 3,
+            "source_ref": "Psalms 136:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b611129c7f04f36ecf1a0599dd63b900902b580366885578ed59b90389e573c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b611129c7f04f36ecf1a0599dd63b900902b580366885578ed59b90389e573c8"
+      },
+      "4": {
+        "source_ref": "Psalms 136:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 4,
+            "source_ref": "Psalms 136:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1ae29ae4e957f736d54b52ee247c0a0efc1148c79bad9ce475b149800b026a27"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ae29ae4e957f736d54b52ee247c0a0efc1148c79bad9ce475b149800b026a27"
+      },
+      "5": {
+        "source_ref": "Psalms 136:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 5,
+            "source_ref": "Psalms 136:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "077ada527108c6130ae763ba695d6864a348628f4ada5ff6bac3435bcfeece07"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "077ada527108c6130ae763ba695d6864a348628f4ada5ff6bac3435bcfeece07"
+      },
+      "6": {
+        "source_ref": "Psalms 136:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 6,
+            "source_ref": "Psalms 136:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "43ba89665f5798e90ffe1544e1c6e3cae21388da3f222c3cda579089150263da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43ba89665f5798e90ffe1544e1c6e3cae21388da3f222c3cda579089150263da"
+      },
+      "7": {
+        "source_ref": "Psalms 136:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 7,
+            "source_ref": "Psalms 136:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14aefa6b39bc6ca5d572f99da13df2f7dcc8871fe14d1226e16336fcd6baf187"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14aefa6b39bc6ca5d572f99da13df2f7dcc8871fe14d1226e16336fcd6baf187"
+      },
+      "8": {
+        "source_ref": "Psalms 136:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 8,
+            "source_ref": "Psalms 136:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0e512013ab02d3ee36f2069cb89d8f2eb97c7428e789c26a34cfe61dedb88c1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e512013ab02d3ee36f2069cb89d8f2eb97c7428e789c26a34cfe61dedb88c1b"
+      },
+      "9": {
+        "source_ref": "Psalms 136:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 9,
+            "source_ref": "Psalms 136:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d106d65a14da2c97d360377213e26f36755b092a0aa697b5b078c96921bd3d3d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d106d65a14da2c97d360377213e26f36755b092a0aa697b5b078c96921bd3d3d"
+      },
+      "10": {
+        "source_ref": "Psalms 136:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 10,
+            "source_ref": "Psalms 136:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d1f06085aa2dfc69c134da6bc5cb2292f93c3c9b818e2c42e7e90125d524c80"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d1f06085aa2dfc69c134da6bc5cb2292f93c3c9b818e2c42e7e90125d524c80"
+      },
+      "11": {
+        "source_ref": "Psalms 136:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 11,
+            "source_ref": "Psalms 136:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a61059eaf0c20d9bf74bcca55075646bb2c302af29f9707a84a6c64e7a0c187"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a61059eaf0c20d9bf74bcca55075646bb2c302af29f9707a84a6c64e7a0c187"
+      },
+      "12": {
+        "source_ref": "Psalms 136:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 12,
+            "source_ref": "Psalms 136:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ecccfd4b3fde330381065716381d8b78fc36b0b45c4b58930fad42bf03d7fbba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ecccfd4b3fde330381065716381d8b78fc36b0b45c4b58930fad42bf03d7fbba"
+      },
+      "13": {
+        "source_ref": "Psalms 136:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 13,
+            "source_ref": "Psalms 136:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "228a30a451573ae2bd1033eda70a104813cbaebd9fe9874db0caf649e7e1be4b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "228a30a451573ae2bd1033eda70a104813cbaebd9fe9874db0caf649e7e1be4b"
+      },
+      "14": {
+        "source_ref": "Psalms 136:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 14,
+            "source_ref": "Psalms 136:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f84ec917a4a5e8982d0be73927e95afbc92c71d9b71c657997e9f561e64ca401"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f84ec917a4a5e8982d0be73927e95afbc92c71d9b71c657997e9f561e64ca401"
+      },
+      "15": {
+        "source_ref": "Psalms 136:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 15,
+            "source_ref": "Psalms 136:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f506e336268b4d6b47ae515f924cdc30346c3b0eff1219cd21d95ad79e4ba128"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f506e336268b4d6b47ae515f924cdc30346c3b0eff1219cd21d95ad79e4ba128"
+      },
+      "16": {
+        "source_ref": "Psalms 136:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 16,
+            "source_ref": "Psalms 136:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35c5e4decfa417611ffce35cdd1ad7e61aabb8dd156805e54807542731655a2a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35c5e4decfa417611ffce35cdd1ad7e61aabb8dd156805e54807542731655a2a"
+      },
+      "17": {
+        "source_ref": "Psalms 136:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 17,
+            "source_ref": "Psalms 136:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32ac7b7b4dd5aadf01b10c7bcb06a4296cac533218489190befaedee71f8aa7e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32ac7b7b4dd5aadf01b10c7bcb06a4296cac533218489190befaedee71f8aa7e"
+      },
+      "18": {
+        "source_ref": "Psalms 136:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 18,
+            "source_ref": "Psalms 136:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2706c4bcce2be9949538cb3f02c2483064d015a7317488943eadf3d4579b8f59"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2706c4bcce2be9949538cb3f02c2483064d015a7317488943eadf3d4579b8f59"
+      },
+      "19": {
+        "source_ref": "Psalms 136:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 19,
+            "source_ref": "Psalms 136:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac95170e56d3022266eb8dbdfc622f0812e4931978e9549ada6f7a50ffc31b1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac95170e56d3022266eb8dbdfc622f0812e4931978e9549ada6f7a50ffc31b1c"
+      },
+      "20": {
+        "source_ref": "Psalms 136:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 20,
+            "source_ref": "Psalms 136:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "69801f02b22cef3715cdc4d33cd6f988b07f5a3523c2f6101c90f785d61c94ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69801f02b22cef3715cdc4d33cd6f988b07f5a3523c2f6101c90f785d61c94ba"
+      },
+      "21": {
+        "source_ref": "Psalms 136:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 21,
+            "source_ref": "Psalms 136:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f7f665a54df8ac9edd72a7c2b17f5ee6b6d3d1010c174df44a5f48752546655d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f7f665a54df8ac9edd72a7c2b17f5ee6b6d3d1010c174df44a5f48752546655d"
+      },
+      "22": {
+        "source_ref": "Psalms 136:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 22,
+            "source_ref": "Psalms 136:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f688d3562ce699c1a4effe42c1302828c53754f93c72e232cdff1b17d9011b08"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f688d3562ce699c1a4effe42c1302828c53754f93c72e232cdff1b17d9011b08"
+      },
+      "23": {
+        "source_ref": "Psalms 136:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 23,
+            "source_ref": "Psalms 136:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ee49d95d9780695a32c6fe26ddeb23c7dc21bddbda2b9fd70bab8ffd8ee3cbd9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee49d95d9780695a32c6fe26ddeb23c7dc21bddbda2b9fd70bab8ffd8ee3cbd9"
+      },
+      "24": {
+        "source_ref": "Psalms 136:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 24,
+            "source_ref": "Psalms 136:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6e8edeabf017edaf303dab2f1644bb7c144f9b6884553690ab0cfbe77478352d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e8edeabf017edaf303dab2f1644bb7c144f9b6884553690ab0cfbe77478352d"
+      },
+      "25": {
+        "source_ref": "Psalms 136:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 25,
+            "source_ref": "Psalms 136:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a240655df51e26f4866583cc64f56c679c1ea5b3e78fbb091c52de9952eabb90"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a240655df51e26f4866583cc64f56c679c1ea5b3e78fbb091c52de9952eabb90"
+      },
+      "26": {
+        "source_ref": "Psalms 136:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 136,
+            "verse": 26,
+            "source_ref": "Psalms 136:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c42c756f2728105ba077739c74c4279ed20bb22357977f00df68be3a0dbf933d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c42c756f2728105ba077739c74c4279ed20bb22357977f00df68be3a0dbf933d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_136.md",
+    "blob_sha": "28de120f4c6b6deab9e647fbc626dfec8d5921a0"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

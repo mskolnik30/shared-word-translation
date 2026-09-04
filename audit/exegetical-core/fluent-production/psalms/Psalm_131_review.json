@@ -1,0 +1,88 @@
+{
+  "book": "Psalms",
+  "chapter": 131,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 131:1 (Hebrew; before kjv marker) + Psalms 131:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 131,
+            "verse": 1,
+            "source_ref": "Psalms 131:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "658e635b291314c2f3162d1ed5671454af13cc339191bb7b93a40bebcccd769b"
+          },
+          {
+            "chapter": 131,
+            "verse": 1,
+            "source_ref": "Psalms 131:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c59105b0b064fbde033502ac7d545d247748442b1723fe0fa4e3524dfc952c01"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "0721a84765f9c753912611414668a21c343e069b728f817485c77d4c7058a8ce"
+      },
+      "2": {
+        "source_ref": "Psalms 131:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 131,
+            "verse": 2,
+            "source_ref": "Psalms 131:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "279e4fde4406712a4e33db03654515682a2b8d93adf436b98c08bd0469a0360a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "279e4fde4406712a4e33db03654515682a2b8d93adf436b98c08bd0469a0360a"
+      },
+      "3": {
+        "source_ref": "Psalms 131:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 131,
+            "verse": 3,
+            "source_ref": "Psalms 131:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2610bd4452d88bbfb896438956a31a9c333effc6288cbdb67754b67ae122dac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2610bd4452d88bbfb896438956a31a9c333effc6288cbdb67754b67ae122dac"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_131.md",
+    "blob_sha": "af71f9838e147c7487e453850683e10745647b6d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

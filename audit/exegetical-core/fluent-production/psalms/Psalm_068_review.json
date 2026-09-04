@@ -1,0 +1,568 @@
+{
+  "book": "Psalms",
+  "chapter": 68,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 68:1 (Hebrew; whole) + Psalms 68:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 1,
+            "source_ref": "Psalms 68:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "541d7949262bcdf866b259f2f5cbddb9f38ccc98ada1e01d2058db838cf64229"
+          },
+          {
+            "chapter": 68,
+            "verse": 2,
+            "source_ref": "Psalms 68:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f3eb0bf8494e3cf685f704dcdb3c273de1d9b88b2c011fd1f8a943064c9a5b7b"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "a9c5bb3e1c60185d3a5af8c7340a37a24923160661ebfe984f01ec94c64c650d"
+      },
+      "2": {
+        "source_ref": "Psalms 68:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 3,
+            "source_ref": "Psalms 68:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "39c8a12c7befa60f2678962d18d1bee9dc560ac324a52d079d6ee979ff73771b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "39c8a12c7befa60f2678962d18d1bee9dc560ac324a52d079d6ee979ff73771b"
+      },
+      "3": {
+        "source_ref": "Psalms 68:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 4,
+            "source_ref": "Psalms 68:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "dd473f95e0e35c40f64246fc286436ee9b936bdb63560371d7dd92d32d91d978"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "dd473f95e0e35c40f64246fc286436ee9b936bdb63560371d7dd92d32d91d978"
+      },
+      "4": {
+        "source_ref": "Psalms 68:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 5,
+            "source_ref": "Psalms 68:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c194628a50c0ad9ab9071f8be37db68737b94668a1dec8e94ee4ffc93ae686be"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c194628a50c0ad9ab9071f8be37db68737b94668a1dec8e94ee4ffc93ae686be"
+      },
+      "5": {
+        "source_ref": "Psalms 68:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 6,
+            "source_ref": "Psalms 68:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f372c902f95de241c2e1aa3e7085499d5b2740b66f9d63d6be701dc75f59eec7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f372c902f95de241c2e1aa3e7085499d5b2740b66f9d63d6be701dc75f59eec7"
+      },
+      "6": {
+        "source_ref": "Psalms 68:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 7,
+            "source_ref": "Psalms 68:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ca16ad28387711b3edda551f5a76184aea8c47ce89ca1e4607b8732af2752aa0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ca16ad28387711b3edda551f5a76184aea8c47ce89ca1e4607b8732af2752aa0"
+      },
+      "7": {
+        "source_ref": "Psalms 68:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 8,
+            "source_ref": "Psalms 68:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d35635e6343a3c13e1832e12a969aab279cfd14261e1de00801800d72c5227a5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d35635e6343a3c13e1832e12a969aab279cfd14261e1de00801800d72c5227a5"
+      },
+      "8": {
+        "source_ref": "Psalms 68:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 9,
+            "source_ref": "Psalms 68:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "423b3a4271d11a96bd35dd6604ca0a87ed6d2372684b8c2063847bfad19fd428"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "423b3a4271d11a96bd35dd6604ca0a87ed6d2372684b8c2063847bfad19fd428"
+      },
+      "9": {
+        "source_ref": "Psalms 68:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 10,
+            "source_ref": "Psalms 68:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "88f33a3e73101f4956810f515967b6956c7bafc411cf879a34ba2fb9cf365e92"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "88f33a3e73101f4956810f515967b6956c7bafc411cf879a34ba2fb9cf365e92"
+      },
+      "10": {
+        "source_ref": "Psalms 68:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 11,
+            "source_ref": "Psalms 68:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a7ef63d768a6d360e0e672eb7a865e00ebadf25e0fc809bd524e70250f383c30"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a7ef63d768a6d360e0e672eb7a865e00ebadf25e0fc809bd524e70250f383c30"
+      },
+      "11": {
+        "source_ref": "Psalms 68:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 12,
+            "source_ref": "Psalms 68:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b232c691bb3cd2f11a931b49faada8d85af67e4d6d6b66a8502243a7379fbfbf"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b232c691bb3cd2f11a931b49faada8d85af67e4d6d6b66a8502243a7379fbfbf"
+      },
+      "12": {
+        "source_ref": "Psalms 68:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 13,
+            "source_ref": "Psalms 68:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "dd91f37ebe4a88fb5365e95c7d2e0937268b0f3d6889c66acd6bdf8e9f254d71"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "dd91f37ebe4a88fb5365e95c7d2e0937268b0f3d6889c66acd6bdf8e9f254d71"
+      },
+      "13": {
+        "source_ref": "Psalms 68:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 14,
+            "source_ref": "Psalms 68:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "09735db6cb35a9f1ccec3ad8fe2b6f7050f9df205658071f014209e9b472c241"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "09735db6cb35a9f1ccec3ad8fe2b6f7050f9df205658071f014209e9b472c241"
+      },
+      "14": {
+        "source_ref": "Psalms 68:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 15,
+            "source_ref": "Psalms 68:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "20d90e55026f1706b39674d2ef02a6f588759392b332360ce0b615f4b0ecad5a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "20d90e55026f1706b39674d2ef02a6f588759392b332360ce0b615f4b0ecad5a"
+      },
+      "15": {
+        "source_ref": "Psalms 68:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 16,
+            "source_ref": "Psalms 68:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7b01257abcc8599c26cad0b323db9c86cc57c110d6bbee25e208fcdd1a0aa8f9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7b01257abcc8599c26cad0b323db9c86cc57c110d6bbee25e208fcdd1a0aa8f9"
+      },
+      "16": {
+        "source_ref": "Psalms 68:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 17,
+            "source_ref": "Psalms 68:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b1df2bc68767b8d75211af9c9e232c592c149c6a7500dd5eec6a8851594b85b5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b1df2bc68767b8d75211af9c9e232c592c149c6a7500dd5eec6a8851594b85b5"
+      },
+      "17": {
+        "source_ref": "Psalms 68:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 18,
+            "source_ref": "Psalms 68:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "07a869f43746db94f48fedb0b578d0255ed7b7e92f18d5d887aaa4f5221471b5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "07a869f43746db94f48fedb0b578d0255ed7b7e92f18d5d887aaa4f5221471b5"
+      },
+      "18": {
+        "source_ref": "Psalms 68:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 19,
+            "source_ref": "Psalms 68:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "556e18eb0f2079d0dea25f7a42e8ec4a7c32f7b0ebfeb2428102f29255e0f2cc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "556e18eb0f2079d0dea25f7a42e8ec4a7c32f7b0ebfeb2428102f29255e0f2cc"
+      },
+      "19": {
+        "source_ref": "Psalms 68:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 20,
+            "source_ref": "Psalms 68:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fbc68cb4d4ec576546dcb8513325fbfce0f9fa1637ccaa647ab4ad59c56bbcab"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fbc68cb4d4ec576546dcb8513325fbfce0f9fa1637ccaa647ab4ad59c56bbcab"
+      },
+      "20": {
+        "source_ref": "Psalms 68:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 21,
+            "source_ref": "Psalms 68:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8f77e86cfc7719a8711306a583a2e35d06eb08394f84f91ce66ae96901a813a1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8f77e86cfc7719a8711306a583a2e35d06eb08394f84f91ce66ae96901a813a1"
+      },
+      "21": {
+        "source_ref": "Psalms 68:22 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 22,
+            "source_ref": "Psalms 68:22 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f69f9d45e2a4ef4c5f43dc154b37204e03ed7b463c75615ffb318362b3119e53"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f69f9d45e2a4ef4c5f43dc154b37204e03ed7b463c75615ffb318362b3119e53"
+      },
+      "22": {
+        "source_ref": "Psalms 68:23 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 23,
+            "source_ref": "Psalms 68:23 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e69aef43d5f1e22a7b9e530cd97816c282e019205d692fbfe9f2072b7d6fadf3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e69aef43d5f1e22a7b9e530cd97816c282e019205d692fbfe9f2072b7d6fadf3"
+      },
+      "23": {
+        "source_ref": "Psalms 68:24 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 24,
+            "source_ref": "Psalms 68:24 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8ceb110247b88eedcfead12523676e32224421a4291b4f150984e7d58ef6bfae"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8ceb110247b88eedcfead12523676e32224421a4291b4f150984e7d58ef6bfae"
+      },
+      "24": {
+        "source_ref": "Psalms 68:25 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 25,
+            "source_ref": "Psalms 68:25 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "eeef6f00bca82ecdd9dbb1a8b76527d298a9acc32bf723fadc6d8f04c08d1e6f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "eeef6f00bca82ecdd9dbb1a8b76527d298a9acc32bf723fadc6d8f04c08d1e6f"
+      },
+      "25": {
+        "source_ref": "Psalms 68:26 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 26,
+            "source_ref": "Psalms 68:26 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0ee0c4e23047f96117b5228e42e1f8939fbcb33a15ef6e67f9adcefb23e689f2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0ee0c4e23047f96117b5228e42e1f8939fbcb33a15ef6e67f9adcefb23e689f2"
+      },
+      "26": {
+        "source_ref": "Psalms 68:27 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 27,
+            "source_ref": "Psalms 68:27 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e53e3cb4a5ad7f2ac7e19d67eb3784d7b62be8099abcf2c258539b15c55d8021"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e53e3cb4a5ad7f2ac7e19d67eb3784d7b62be8099abcf2c258539b15c55d8021"
+      },
+      "27": {
+        "source_ref": "Psalms 68:28 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 28,
+            "source_ref": "Psalms 68:28 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "698e0e5e71034259aa830c610eddb848e7fe1e808fd85337133e067de66349af"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "698e0e5e71034259aa830c610eddb848e7fe1e808fd85337133e067de66349af"
+      },
+      "28": {
+        "source_ref": "Psalms 68:29 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 29,
+            "source_ref": "Psalms 68:29 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "dd3c90ed324d364bc41e41f7e98e972f0ae5c12e50d1cba480eb59567b2c6146"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "dd3c90ed324d364bc41e41f7e98e972f0ae5c12e50d1cba480eb59567b2c6146"
+      },
+      "29": {
+        "source_ref": "Psalms 68:30 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 30,
+            "source_ref": "Psalms 68:30 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1f537854b6d114b52a39e71b59e988d5ef06a9d65a86f5a21e357a500bcc1a0f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1f537854b6d114b52a39e71b59e988d5ef06a9d65a86f5a21e357a500bcc1a0f"
+      },
+      "30": {
+        "source_ref": "Psalms 68:31 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 31,
+            "source_ref": "Psalms 68:31 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "22f0bf42a6436060caba514461005587f567261cb6418a2b9b6c439a673199a1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "22f0bf42a6436060caba514461005587f567261cb6418a2b9b6c439a673199a1"
+      },
+      "31": {
+        "source_ref": "Psalms 68:32 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 32,
+            "source_ref": "Psalms 68:32 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "75a55303fccd3b63f2b84ee03a5771cf5b3b373f612dfabf186f39f7d0f0c38d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "75a55303fccd3b63f2b84ee03a5771cf5b3b373f612dfabf186f39f7d0f0c38d"
+      },
+      "32": {
+        "source_ref": "Psalms 68:33 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 33,
+            "source_ref": "Psalms 68:33 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e53fb0f4d5834d3a3950b9473083aedfa7c183c90d84c339f93af35af767ca2c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e53fb0f4d5834d3a3950b9473083aedfa7c183c90d84c339f93af35af767ca2c"
+      },
+      "33": {
+        "source_ref": "Psalms 68:34 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 34,
+            "source_ref": "Psalms 68:34 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e8747b23a8b531790ad473a232234480584699d156b926f975b5d4344dd94ec4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e8747b23a8b531790ad473a232234480584699d156b926f975b5d4344dd94ec4"
+      },
+      "34": {
+        "source_ref": "Psalms 68:35 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 35,
+            "source_ref": "Psalms 68:35 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d1c6bf7a48cd93dd54af4e8d3d9aaf98e0c834889c4492c759f116a0f439e0f3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d1c6bf7a48cd93dd54af4e8d3d9aaf98e0c834889c4492c759f116a0f439e0f3"
+      },
+      "35": {
+        "source_ref": "Psalms 68:36 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 68,
+            "verse": 36,
+            "source_ref": "Psalms 68:36 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0185abd1b7fdfdac5e7262e68f89d5957a278fb97eb6da07996570cc2bfeafec"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0185abd1b7fdfdac5e7262e68f89d5957a278fb97eb6da07996570cc2bfeafec"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_068.md",
+    "blob_sha": "72fa775324aa24fe34e87335b3ff00e569bb9a65"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

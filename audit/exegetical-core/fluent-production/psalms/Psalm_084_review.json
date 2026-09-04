@@ -1,0 +1,223 @@
+{
+  "book": "Psalms",
+  "chapter": 84,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 84:1 (Hebrew; whole) + Psalms 84:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 1,
+            "source_ref": "Psalms 84:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1fce4ab9c9eff8189a2e410930828a145a4947b4dc25bb19b82e1882d0eeec23"
+          },
+          {
+            "chapter": 84,
+            "verse": 2,
+            "source_ref": "Psalms 84:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4d92d17e220ce12f825749447c78608efd6ba1c9ca8d49762f835ed547121890"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "f72d4960b8c3be7037b0add54be1660df20022fcc70e9a205c6df749ac81a67c"
+      },
+      "2": {
+        "source_ref": "Psalms 84:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 3,
+            "source_ref": "Psalms 84:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "65c825c91ce2b9c14a0bade3660aa9d543ce3a40d88f7f925cc40529f37f4cc5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "65c825c91ce2b9c14a0bade3660aa9d543ce3a40d88f7f925cc40529f37f4cc5"
+      },
+      "3": {
+        "source_ref": "Psalms 84:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 4,
+            "source_ref": "Psalms 84:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e321d1683712aacbe68ccb7bc9eafead31d7edb846b43ba188c25620783dc94e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e321d1683712aacbe68ccb7bc9eafead31d7edb846b43ba188c25620783dc94e"
+      },
+      "4": {
+        "source_ref": "Psalms 84:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 5,
+            "source_ref": "Psalms 84:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "63b5af8e56001315ffcbcd07d68c11c25c243dfa690f9b292f605592fe29f98d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "63b5af8e56001315ffcbcd07d68c11c25c243dfa690f9b292f605592fe29f98d"
+      },
+      "5": {
+        "source_ref": "Psalms 84:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 6,
+            "source_ref": "Psalms 84:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e3499f4b61b2b24bba7572095a083b44be168eec4eef00a6c67b18d349156a78"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e3499f4b61b2b24bba7572095a083b44be168eec4eef00a6c67b18d349156a78"
+      },
+      "6": {
+        "source_ref": "Psalms 84:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 7,
+            "source_ref": "Psalms 84:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "747f278c7f36fa87d2b004bb319e4a1f18eb90ca514a197b00921bd51631c722"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "747f278c7f36fa87d2b004bb319e4a1f18eb90ca514a197b00921bd51631c722"
+      },
+      "7": {
+        "source_ref": "Psalms 84:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 8,
+            "source_ref": "Psalms 84:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "bbb25cd104cc7808cfe56e4471b81b0f5618df337fac051451c3b7abf31f3276"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "bbb25cd104cc7808cfe56e4471b81b0f5618df337fac051451c3b7abf31f3276"
+      },
+      "8": {
+        "source_ref": "Psalms 84:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 9,
+            "source_ref": "Psalms 84:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1a110cdff5292ad8f500a8b13185aae8b719bcff34b3abde65f97c9332002109"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1a110cdff5292ad8f500a8b13185aae8b719bcff34b3abde65f97c9332002109"
+      },
+      "9": {
+        "source_ref": "Psalms 84:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 10,
+            "source_ref": "Psalms 84:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7dea5d5d6c18817a9bbb7963a9d7a2dad340e142d9c7bbdc03bd4901deaedbc4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7dea5d5d6c18817a9bbb7963a9d7a2dad340e142d9c7bbdc03bd4901deaedbc4"
+      },
+      "10": {
+        "source_ref": "Psalms 84:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 11,
+            "source_ref": "Psalms 84:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "402635c5570b1b94819d631c98b7eae2f850c6026228e4414b91a52b99ef7929"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "402635c5570b1b94819d631c98b7eae2f850c6026228e4414b91a52b99ef7929"
+      },
+      "11": {
+        "source_ref": "Psalms 84:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 12,
+            "source_ref": "Psalms 84:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9c50737662516ae0a1b0b6a01ef613a8e55d56789f7fe42a10abab1a37e6fa6e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9c50737662516ae0a1b0b6a01ef613a8e55d56789f7fe42a10abab1a37e6fa6e"
+      },
+      "12": {
+        "source_ref": "Psalms 84:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 84,
+            "verse": 13,
+            "source_ref": "Psalms 84:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "22a8526942ac44120ee9f872614ec29bbada176473d588dbb8d2a010d2fdb1d5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "22a8526942ac44120ee9f872614ec29bbada176473d588dbb8d2a010d2fdb1d5"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_084.md",
+    "blob_sha": "08d81791ea992592434148457de2a172bc1272ed"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

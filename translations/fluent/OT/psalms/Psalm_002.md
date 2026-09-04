@@ -1,0 +1,106 @@
+---
+book: Psalms
+testament: OT
+chapter: 2
+translation: FLUENT
+status: QA_PASSED
+---
+
+## The Nations Rage
+<p>
+v01: Why do the nations rage
+and the peoples plot in vain?
+v02: The kings of the earth set themselves,
+and the rulers take counsel together,
+against the LORD and against his anointed, saying,
+</p>
+
+<p>
+v03: “Let us burst their bonds apart
+and cast away their cords from us.”
+</p>
+
+## The LORD Responds
+<p>
+v04: He who sits in the heavens laughs;
+the Lord holds them in derision.
+v05: Then he will speak to them in his wrath,
+and terrify them in his fury, saying,
+</p>
+
+<p>
+v06: “As for me, I have set my King
+on Zion, my holy hill.”
+</p>
+
+## The Decree of the LORD
+<p>
+v07: I will tell of the decree:
+The LORD said to me, “You are my Son;
+today I have begotten you.
+v08: Ask of me, and I will make the nations your heritage,
+and the ends of the earth your possession.
+</p>
+
+<p>
+v09: You will break them with a rod of iron
+and dash them in pieces like a potter’s vessel.”
+</p>
+
+## A Call to Wisdom
+<p>
+v10: Now therefore, O kings, be wise;
+be warned, O rulers of the earth.
+v11: Serve the LORD with fear,
+and rejoice with trembling.
+</p>
+
+<p>
+v12: Kiss the Son,
+lest he be angry, and you perish in the way,
+for his wrath is quickly kindled.
+Blessed are everyone who take refuge in him.
+</p>
+
+## Notes
+
+v01–03: Human resistance is collective and deliberate, yet described as futile.
+
+v04–06: Divine response is not reactive but sovereign—God has already established his king.
+
+v07–09: The “son” language introduces royal identity tied to divine authority.
+
+v08: Dominion is universal, extending to the ends of the earth.
+
+v10–12: The psalm shifts to exhortation—political power is called to submission.
+
+v12: Refuge, not resistance, is the path to blessing.
+
+## Vocabulary
+
+v01: רָגַשׁ (ragash)
+“To rage.” Be in tumult.
+
+v01: הָגָה (hagah)
+“To plot.” Meditate or scheme.
+
+v02: מָשִׁיחַ (mashiach)
+“Anointed.” One set apart.
+
+v04: שָׂחַק (sachaq)
+“To laugh.” Express derision.
+
+v06: נָסַךְ (nasakh)
+“To install.” Set in place.
+
+v07: יָלַד (yalad)
+“To beget.” Bring forth.
+
+v09: רָעַע (ra‘a)
+“To break.” Smash or shatter.
+
+v11: יָרֵא (yare)
+“To fear.” Reverence.
+
+v12: חָסָה (chasah)
+“To take refuge.” Seek protection.

@@ -1,0 +1,163 @@
+{
+  "book": "Psalms",
+  "chapter": 130,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 130:1 (Hebrew; before kjv marker) + Psalms 130:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 130,
+            "verse": 1,
+            "source_ref": "Psalms 130:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "c8b6cfef28dacfda6f0210b804ee3640b9e0d20cdd4464d1738fb2accd85e629"
+          },
+          {
+            "chapter": 130,
+            "verse": 1,
+            "source_ref": "Psalms 130:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "55166b21f8ef3e1e44cd9233b65261f58499966c052e288782ad097cce237fe1"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "7098d22c2103689cced51a516ba509f46bbbb65654916e7a48c36ba6bca26251"
+      },
+      "2": {
+        "source_ref": "Psalms 130:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 130,
+            "verse": 2,
+            "source_ref": "Psalms 130:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "20cd26a94a4932484d3bfd7e22636b25f9cff6a552f387ad122360db89edd1f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "20cd26a94a4932484d3bfd7e22636b25f9cff6a552f387ad122360db89edd1f6"
+      },
+      "3": {
+        "source_ref": "Psalms 130:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 130,
+            "verse": 3,
+            "source_ref": "Psalms 130:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d5632a4b5b70d18e0146617079d182b66a308adad03864dca3f60f20b3e6e58b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d5632a4b5b70d18e0146617079d182b66a308adad03864dca3f60f20b3e6e58b"
+      },
+      "4": {
+        "source_ref": "Psalms 130:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 130,
+            "verse": 4,
+            "source_ref": "Psalms 130:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45e66404c54dffa0f29b5330007aff8df6ef36250c018e1389806aa3448d02a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45e66404c54dffa0f29b5330007aff8df6ef36250c018e1389806aa3448d02a2"
+      },
+      "5": {
+        "source_ref": "Psalms 130:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 130,
+            "verse": 5,
+            "source_ref": "Psalms 130:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1da85a8b7cd71750ad3382dbcdd8551f183fc81a1ba02ab1ecd3e6e96593f147"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1da85a8b7cd71750ad3382dbcdd8551f183fc81a1ba02ab1ecd3e6e96593f147"
+      },
+      "6": {
+        "source_ref": "Psalms 130:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 130,
+            "verse": 6,
+            "source_ref": "Psalms 130:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9fc62f8d8a822630b44d5b42c72413a98aee6bc72c3fb27aef811b975368eb6f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9fc62f8d8a822630b44d5b42c72413a98aee6bc72c3fb27aef811b975368eb6f"
+      },
+      "7": {
+        "source_ref": "Psalms 130:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 130,
+            "verse": 7,
+            "source_ref": "Psalms 130:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "221a623b45549fb0f76716da69a038f74d10def828a5ed5ce1bc333ee94a19db"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "221a623b45549fb0f76716da69a038f74d10def828a5ed5ce1bc333ee94a19db"
+      },
+      "8": {
+        "source_ref": "Psalms 130:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 130,
+            "verse": 8,
+            "source_ref": "Psalms 130:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04b33d0914353589e0e87f933065e9c8217e9a5fb8b6f60b5cc1c2fe1fd7c002"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04b33d0914353589e0e87f933065e9c8217e9a5fb8b6f60b5cc1c2fe1fd7c002"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_130.md",
+    "blob_sha": "92d7fa155de0bb0162e97f71e301a24e7644d064"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

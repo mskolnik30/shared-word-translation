@@ -1,0 +1,88 @@
+{
+  "book": "Psalms",
+  "chapter": 134,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 134:1 (Hebrew; before kjv marker) + Psalms 134:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 134,
+            "verse": 1,
+            "source_ref": "Psalms 134:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "c03cb07c754ba37a5e6c0fdee3838c00fe736441d9f9b10920551a4f636433e0"
+          },
+          {
+            "chapter": 134,
+            "verse": 1,
+            "source_ref": "Psalms 134:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "eb728c8c671b904c3be22c9cd332f267ea3207bef45ef5f1475ca8393da05591"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "63cd4918e194737f31e765960fa89132866b6a676879e8fd26a0554fd77aae73"
+      },
+      "2": {
+        "source_ref": "Psalms 134:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 134,
+            "verse": 2,
+            "source_ref": "Psalms 134:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "126645127a89ef4fb11bad82ade493567ad656a34aa42e147cd703e51ed6021d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "126645127a89ef4fb11bad82ade493567ad656a34aa42e147cd703e51ed6021d"
+      },
+      "3": {
+        "source_ref": "Psalms 134:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 134,
+            "verse": 3,
+            "source_ref": "Psalms 134:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14c79d8982f745abeec9ba42ae48af8116c648718c16cf4586a65fc08af2d1b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14c79d8982f745abeec9ba42ae48af8116c648718c16cf4586a65fc08af2d1b0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_134.md",
+    "blob_sha": "b03d5b520d25665c93846d8c280d4ecd3bc30429"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,268 @@
+{
+  "book": "Psalms",
+  "chapter": 17,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 17:1 (Hebrew; before kjv marker) + Psalms 17:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 1,
+            "source_ref": "Psalms 17:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "8a3f0a67bf7a35a1beed7256493355aabcd3776897a98004e58eafae62440fc8"
+          },
+          {
+            "chapter": 17,
+            "verse": 1,
+            "source_ref": "Psalms 17:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9e698b87e59e683836a55520dd8ceaf7ba49f2d77b775b8f0a810bb2dce49cdf"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "b0c6bf058b5d6e9b690b7d66242e81ec7bee071e2fc0587aa9aa78a1dc23c9d0"
+      },
+      "2": {
+        "source_ref": "Psalms 17:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 2,
+            "source_ref": "Psalms 17:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d86b294b25aae7e1b09e7a92acb6deafaef85e905a985dbcfa59ec32ae8b00e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d86b294b25aae7e1b09e7a92acb6deafaef85e905a985dbcfa59ec32ae8b00e4"
+      },
+      "3": {
+        "source_ref": "Psalms 17:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 3,
+            "source_ref": "Psalms 17:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a677bdbc0d4b3455760a0d125eb6262b618c3eea4dd9e0d00a93d55e2d6f33b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a677bdbc0d4b3455760a0d125eb6262b618c3eea4dd9e0d00a93d55e2d6f33b"
+      },
+      "4": {
+        "source_ref": "Psalms 17:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 4,
+            "source_ref": "Psalms 17:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5e2c721030679ffb0a380f5ba4aff16f9d231c542f1d7c6c668125c020db5249"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e2c721030679ffb0a380f5ba4aff16f9d231c542f1d7c6c668125c020db5249"
+      },
+      "5": {
+        "source_ref": "Psalms 17:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 5,
+            "source_ref": "Psalms 17:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dcef60c2e604aaeeb1fd430c3ea2e6e390a21fa890a1db1796f4f9aeaf0608eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dcef60c2e604aaeeb1fd430c3ea2e6e390a21fa890a1db1796f4f9aeaf0608eb"
+      },
+      "6": {
+        "source_ref": "Psalms 17:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 6,
+            "source_ref": "Psalms 17:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7dcbe409e9b24bd6cf7b3f299eb0a282fa656e9c0c939081a0521841e5c6b086"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7dcbe409e9b24bd6cf7b3f299eb0a282fa656e9c0c939081a0521841e5c6b086"
+      },
+      "7": {
+        "source_ref": "Psalms 17:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 7,
+            "source_ref": "Psalms 17:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a0986dc3ba097ae56d1025257ef244138bd8907c6765d2b8ffc8d9fa30a411f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a0986dc3ba097ae56d1025257ef244138bd8907c6765d2b8ffc8d9fa30a411f"
+      },
+      "8": {
+        "source_ref": "Psalms 17:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 8,
+            "source_ref": "Psalms 17:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "29c02284472d615bd886780957833dabc7bddc5d0b0983fd54c976e351481550"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "29c02284472d615bd886780957833dabc7bddc5d0b0983fd54c976e351481550"
+      },
+      "9": {
+        "source_ref": "Psalms 17:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 9,
+            "source_ref": "Psalms 17:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cda9cb61955a616d22aec918950f65ba60a308ad34442054ad668c217fae2168"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cda9cb61955a616d22aec918950f65ba60a308ad34442054ad668c217fae2168"
+      },
+      "10": {
+        "source_ref": "Psalms 17:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 10,
+            "source_ref": "Psalms 17:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dc11252fbb36d592ef4781739481d851bdb39812f4b4447d00b3548bfd003590"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc11252fbb36d592ef4781739481d851bdb39812f4b4447d00b3548bfd003590"
+      },
+      "11": {
+        "source_ref": "Psalms 17:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 11,
+            "source_ref": "Psalms 17:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3793915a80cf568deb69b1c53c5fd965eea9039ebe607334075f57e98c209089"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3793915a80cf568deb69b1c53c5fd965eea9039ebe607334075f57e98c209089"
+      },
+      "12": {
+        "source_ref": "Psalms 17:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 12,
+            "source_ref": "Psalms 17:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e8b4f87e49b1b735d555c269e0d07101c40801bdae41d3d30614044cf9e38721"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8b4f87e49b1b735d555c269e0d07101c40801bdae41d3d30614044cf9e38721"
+      },
+      "13": {
+        "source_ref": "Psalms 17:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 13,
+            "source_ref": "Psalms 17:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ab881507d89b494582a545bd116851d0dcc72d1129ad7fdd443ae3ca7bfcbf7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab881507d89b494582a545bd116851d0dcc72d1129ad7fdd443ae3ca7bfcbf7b"
+      },
+      "14": {
+        "source_ref": "Psalms 17:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 14,
+            "source_ref": "Psalms 17:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "387e89dc63d42795c31238eee43fa9727fafd1b1c097b3d8346024b89048c0ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "387e89dc63d42795c31238eee43fa9727fafd1b1c097b3d8346024b89048c0ab"
+      },
+      "15": {
+        "source_ref": "Psalms 17:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 15,
+            "source_ref": "Psalms 17:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f63e5809b49b376b741c1a9424144675d79a06a4f1e2ee239ef9265ff13de80e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f63e5809b49b376b741c1a9424144675d79a06a4f1e2ee239ef9265ff13de80e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_017.md",
+    "blob_sha": "78f3759e4ce9d8e4618297e8e3d418b2262785bf"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

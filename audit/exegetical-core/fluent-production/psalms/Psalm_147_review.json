@@ -1,0 +1,336 @@
+{
+  "book": "Psalms",
+  "chapter": 147,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 147:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 1,
+            "source_ref": "Psalms 147:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b3a24cf93bd740752421d2f834f49d8e04627610acc152b7d4ae4e31c2cc1142"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b3a24cf93bd740752421d2f834f49d8e04627610acc152b7d4ae4e31c2cc1142"
+      },
+      "2": {
+        "source_ref": "Psalms 147:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 2,
+            "source_ref": "Psalms 147:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d44356e3dc12225354b47c7ce61e043671974cb8801a9e78d2341cc0c557589e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d44356e3dc12225354b47c7ce61e043671974cb8801a9e78d2341cc0c557589e"
+      },
+      "3": {
+        "source_ref": "Psalms 147:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 3,
+            "source_ref": "Psalms 147:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "34d32319342ad3c40aecd69be54ae225a929f9bc4497569fe6aa3c4de944a5d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34d32319342ad3c40aecd69be54ae225a929f9bc4497569fe6aa3c4de944a5d7"
+      },
+      "4": {
+        "source_ref": "Psalms 147:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 4,
+            "source_ref": "Psalms 147:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "563082d7c6a33c852c154b62e7e712041d142b6953fc6c47d76a6fe2495f7147"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "563082d7c6a33c852c154b62e7e712041d142b6953fc6c47d76a6fe2495f7147"
+      },
+      "5": {
+        "source_ref": "Psalms 147:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 5,
+            "source_ref": "Psalms 147:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d066786a791e49e6451175d23961666987c0cf5d746dae669e532f45fd0cc56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d066786a791e49e6451175d23961666987c0cf5d746dae669e532f45fd0cc56"
+      },
+      "6": {
+        "source_ref": "Psalms 147:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 6,
+            "source_ref": "Psalms 147:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a14f15161fed045949d390497f7fa33d7a49714e5000f68fe6ec4e0472e01a98"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a14f15161fed045949d390497f7fa33d7a49714e5000f68fe6ec4e0472e01a98"
+      },
+      "7": {
+        "source_ref": "Psalms 147:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 7,
+            "source_ref": "Psalms 147:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a402d7353e91dba85f1149425b3dc7404685828ee83b14819111e8fd0fc8b86b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a402d7353e91dba85f1149425b3dc7404685828ee83b14819111e8fd0fc8b86b"
+      },
+      "8": {
+        "source_ref": "Psalms 147:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 8,
+            "source_ref": "Psalms 147:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ceca523e21a48236c6896a043fc8025c5ce6e615e6aa5d11cd90295e80536eb7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ceca523e21a48236c6896a043fc8025c5ce6e615e6aa5d11cd90295e80536eb7"
+      },
+      "9": {
+        "source_ref": "Psalms 147:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 9,
+            "source_ref": "Psalms 147:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b21d411bfc1e09cde7d19772286875bec1db5e2da4374870215cb9a981c7a3b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b21d411bfc1e09cde7d19772286875bec1db5e2da4374870215cb9a981c7a3b3"
+      },
+      "10": {
+        "source_ref": "Psalms 147:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 10,
+            "source_ref": "Psalms 147:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "476ffd342662b1241f01de9ac2d562d0012e6a0a34ea81031bb301ff11423a9d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "476ffd342662b1241f01de9ac2d562d0012e6a0a34ea81031bb301ff11423a9d"
+      },
+      "11": {
+        "source_ref": "Psalms 147:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 11,
+            "source_ref": "Psalms 147:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2ce2d0dcc6272162d57866be2f66b4dc3c1cb707b8c88f44ce4a91fe15858375"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ce2d0dcc6272162d57866be2f66b4dc3c1cb707b8c88f44ce4a91fe15858375"
+      },
+      "12": {
+        "source_ref": "Psalms 147:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 12,
+            "source_ref": "Psalms 147:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "00e533273cb58ecd487f34ffeac3cc33a32ac47363fc50f834ec8f2d96984043"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00e533273cb58ecd487f34ffeac3cc33a32ac47363fc50f834ec8f2d96984043"
+      },
+      "13": {
+        "source_ref": "Psalms 147:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 13,
+            "source_ref": "Psalms 147:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "94f54fede8f7266169248360866bc9a18a198ab446c9005829fff86cd2e63dd4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94f54fede8f7266169248360866bc9a18a198ab446c9005829fff86cd2e63dd4"
+      },
+      "14": {
+        "source_ref": "Psalms 147:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 14,
+            "source_ref": "Psalms 147:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2065414a15ea5ae05ee9f286176c5823adc1f808d681142744ecab2ab2dfb88a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2065414a15ea5ae05ee9f286176c5823adc1f808d681142744ecab2ab2dfb88a"
+      },
+      "15": {
+        "source_ref": "Psalms 147:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 15,
+            "source_ref": "Psalms 147:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dae653d5d96e15336a5083f2c6def9772c02977cdc6963e7e88914bb8be894d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dae653d5d96e15336a5083f2c6def9772c02977cdc6963e7e88914bb8be894d4"
+      },
+      "16": {
+        "source_ref": "Psalms 147:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 16,
+            "source_ref": "Psalms 147:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "57643acf333c659e2f935ddc29c5a032d1be66b912d3c5f73080d75a04b71daf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "57643acf333c659e2f935ddc29c5a032d1be66b912d3c5f73080d75a04b71daf"
+      },
+      "17": {
+        "source_ref": "Psalms 147:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 17,
+            "source_ref": "Psalms 147:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d5fb6dccf4f137f2e27781fdd7c66aee08317f588085e0b0510374ef3a2f52c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d5fb6dccf4f137f2e27781fdd7c66aee08317f588085e0b0510374ef3a2f52c3"
+      },
+      "18": {
+        "source_ref": "Psalms 147:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 18,
+            "source_ref": "Psalms 147:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "20a632960aaa0e232bf0c24d0443056ce90b1dd43ce01c55f44646f3a5db8c21"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "20a632960aaa0e232bf0c24d0443056ce90b1dd43ce01c55f44646f3a5db8c21"
+      },
+      "19": {
+        "source_ref": "Psalms 147:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 19,
+            "source_ref": "Psalms 147:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e976cd43156da7933c0d5ed3e0229ea171a51ef55a172315df03ed0a865184a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e976cd43156da7933c0d5ed3e0229ea171a51ef55a172315df03ed0a865184a0"
+      },
+      "20": {
+        "source_ref": "Psalms 147:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 147,
+            "verse": 20,
+            "source_ref": "Psalms 147:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b1c3c23466f817c67117aa361fcdd24880d663d255788f3752ac573838f2aab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b1c3c23466f817c67117aa361fcdd24880d663d255788f3752ac573838f2aab"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_147.md",
+    "blob_sha": "288b253d03c81f0f596bb642eed27255e09f7a98"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

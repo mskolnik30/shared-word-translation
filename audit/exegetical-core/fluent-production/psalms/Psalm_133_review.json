@@ -1,0 +1,88 @@
+{
+  "book": "Psalms",
+  "chapter": 133,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 133:1 (Hebrew; before kjv marker) + Psalms 133:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 133,
+            "verse": 1,
+            "source_ref": "Psalms 133:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "fed4cca87fa3a7f6ba58c6861ce6d2c3db9e894ad7a0782c66fab2a67d852362"
+          },
+          {
+            "chapter": 133,
+            "verse": 1,
+            "source_ref": "Psalms 133:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "44b20a6b72c32a1f67a917c470a4d8ef9366e92781899b803c6365e71116a499"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "17e0cc01956f6bee3fbfb28be0fadd40d9431ec99f4208d660219d82abdc0df1"
+      },
+      "2": {
+        "source_ref": "Psalms 133:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 133,
+            "verse": 2,
+            "source_ref": "Psalms 133:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "88ad69a041957785c97f81614022b852502afe0914578c4e0877418710d54f27"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88ad69a041957785c97f81614022b852502afe0914578c4e0877418710d54f27"
+      },
+      "3": {
+        "source_ref": "Psalms 133:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 133,
+            "verse": 3,
+            "source_ref": "Psalms 133:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "00c096d16e05c3392ea008528aa277d5b96a919e439bb18a8658384c20440e06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00c096d16e05c3392ea008528aa277d5b96a919e439bb18a8658384c20440e06"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_133.md",
+    "blob_sha": "0e2cc9435b8901b97d539a28575ed1e61a99ca67"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

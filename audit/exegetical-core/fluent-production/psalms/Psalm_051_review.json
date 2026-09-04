@@ -1,0 +1,335 @@
+{
+  "book": "Psalms",
+  "chapter": 51,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 51:1 (Hebrew; whole) + Psalms 51:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 1,
+            "source_ref": "Psalms 51:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3709c84ffbe89a8cf1295028ec66554f059ffa134059cebdeca8bbc4f60575b"
+          },
+          {
+            "chapter": 51,
+            "verse": 3,
+            "source_ref": "Psalms 51:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3f82393efa359def1a85a7799945a16bbf6d0e503ae7806a36ec0cf00890ecfd"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "6baff8bf2035820e1c28a98548779e61802903273ca486ca2d2c686768746e86"
+      },
+      "2": {
+        "source_ref": "Psalms 51:2 (Hebrew; whole) + Psalms 51:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 2,
+            "source_ref": "Psalms 51:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a7cc914a8e57c7dfec976d766056eaa530cd0ce00b6bc3a6f5404e3c3ce99e3"
+          },
+          {
+            "chapter": 51,
+            "verse": 4,
+            "source_ref": "Psalms 51:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d0048918e1655c2f2810a638bc12ef3ae8a880a1742765d5358e60e025fccfdc"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "a123959ac20a328a7966c66d2c3d0b938fbbc32e42984bf053f831cb6982aa8c"
+      },
+      "3": {
+        "source_ref": "Psalms 51:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 5,
+            "source_ref": "Psalms 51:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "979e9d198a79e862d173c4cfdac80431ce1ccd42a31961e5e20bd0ed36d6f9a2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "979e9d198a79e862d173c4cfdac80431ce1ccd42a31961e5e20bd0ed36d6f9a2"
+      },
+      "4": {
+        "source_ref": "Psalms 51:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 6,
+            "source_ref": "Psalms 51:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8c4ccd542a3ebf3fc8fb882bc635270e69372fce38a75d749120219c6e389a6e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8c4ccd542a3ebf3fc8fb882bc635270e69372fce38a75d749120219c6e389a6e"
+      },
+      "5": {
+        "source_ref": "Psalms 51:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 7,
+            "source_ref": "Psalms 51:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "17c2c01d4d16142e4ea440515868cb3d221f0b4abc6660510f8af8c6cc56704b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "17c2c01d4d16142e4ea440515868cb3d221f0b4abc6660510f8af8c6cc56704b"
+      },
+      "6": {
+        "source_ref": "Psalms 51:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 8,
+            "source_ref": "Psalms 51:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f36bcf3bd9ff9e46a13568e676d5ae2988e5a11a406b71e0e859eaf7b3c6318f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f36bcf3bd9ff9e46a13568e676d5ae2988e5a11a406b71e0e859eaf7b3c6318f"
+      },
+      "7": {
+        "source_ref": "Psalms 51:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 9,
+            "source_ref": "Psalms 51:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "365730d290d9ccaeefd011b6f58303eb6e87d6c34de3136888863be447f35fad"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "365730d290d9ccaeefd011b6f58303eb6e87d6c34de3136888863be447f35fad"
+      },
+      "8": {
+        "source_ref": "Psalms 51:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 10,
+            "source_ref": "Psalms 51:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "de974eea903c15f01c9a44563db504153e95d57a164065f7df63062f2120d651"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "de974eea903c15f01c9a44563db504153e95d57a164065f7df63062f2120d651"
+      },
+      "9": {
+        "source_ref": "Psalms 51:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 11,
+            "source_ref": "Psalms 51:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "05b6ea8f6526d22804836eed6c9ac6d0d7c7bde3b5caa1ab9e67faf37a2589a1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "05b6ea8f6526d22804836eed6c9ac6d0d7c7bde3b5caa1ab9e67faf37a2589a1"
+      },
+      "10": {
+        "source_ref": "Psalms 51:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 12,
+            "source_ref": "Psalms 51:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e4c749d18023a7f81ea4db79abcdf92a9bc72ac5c08fcb46b9b4a327029004a8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e4c749d18023a7f81ea4db79abcdf92a9bc72ac5c08fcb46b9b4a327029004a8"
+      },
+      "11": {
+        "source_ref": "Psalms 51:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 13,
+            "source_ref": "Psalms 51:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "07c98a1c1aeadaa13b2caaa7da3de0d065e13f76ce480f15c5e9fc630523b77f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "07c98a1c1aeadaa13b2caaa7da3de0d065e13f76ce480f15c5e9fc630523b77f"
+      },
+      "12": {
+        "source_ref": "Psalms 51:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 14,
+            "source_ref": "Psalms 51:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "378789bae6b704175761d2a85ca418364bd0f216c0e925baf9b886f0ed879f7a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "378789bae6b704175761d2a85ca418364bd0f216c0e925baf9b886f0ed879f7a"
+      },
+      "13": {
+        "source_ref": "Psalms 51:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 15,
+            "source_ref": "Psalms 51:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f938b0a7b67620ecb867f88534db73b1e72e0411b2eac25741461ed8723375d8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f938b0a7b67620ecb867f88534db73b1e72e0411b2eac25741461ed8723375d8"
+      },
+      "14": {
+        "source_ref": "Psalms 51:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 16,
+            "source_ref": "Psalms 51:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "febe7553d157853394e68e1fdcbb842d0f4a1613755894560695596054a02e61"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "febe7553d157853394e68e1fdcbb842d0f4a1613755894560695596054a02e61"
+      },
+      "15": {
+        "source_ref": "Psalms 51:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 17,
+            "source_ref": "Psalms 51:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "612c5c3f1eeba68353936b5ae42bb581091e5fc128ccb2a7d1701ec34192f7c7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "612c5c3f1eeba68353936b5ae42bb581091e5fc128ccb2a7d1701ec34192f7c7"
+      },
+      "16": {
+        "source_ref": "Psalms 51:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 18,
+            "source_ref": "Psalms 51:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6abb4b4e6c68b77a819f02d3513375cd7036145bcba3d5258db75ef0247bf5af"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6abb4b4e6c68b77a819f02d3513375cd7036145bcba3d5258db75ef0247bf5af"
+      },
+      "17": {
+        "source_ref": "Psalms 51:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 19,
+            "source_ref": "Psalms 51:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "984cdb3bfd8fbbeb5f42e311518c653ef7f2bbcb5c0dc5a7567e60700ab818ae"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "984cdb3bfd8fbbeb5f42e311518c653ef7f2bbcb5c0dc5a7567e60700ab818ae"
+      },
+      "18": {
+        "source_ref": "Psalms 51:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 20,
+            "source_ref": "Psalms 51:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0362c9301305e4ace95579062c0d2815ed9b5c96b5fdfb48a5cafe9c7fe7dd1c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0362c9301305e4ace95579062c0d2815ed9b5c96b5fdfb48a5cafe9c7fe7dd1c"
+      },
+      "19": {
+        "source_ref": "Psalms 51:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 51,
+            "verse": 21,
+            "source_ref": "Psalms 51:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "bda71aba98faf8bfe83529ab5d82fa57a863ad305722272e38167f02a269c9a5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "bda71aba98faf8bfe83529ab5d82fa57a863ad305722272e38167f02a269c9a5"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_051.md",
+    "blob_sha": "7c6c0ed10c8fd658d0e5ce38bdfc9c7865327b3c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

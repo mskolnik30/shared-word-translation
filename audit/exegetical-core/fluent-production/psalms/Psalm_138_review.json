@@ -1,0 +1,163 @@
+{
+  "book": "Psalms",
+  "chapter": 138,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 138:1 (Hebrew; before kjv marker) + Psalms 138:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 138,
+            "verse": 1,
+            "source_ref": "Psalms 138:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "bbe22c1178d0cb123c3e7b43c499594d22fdd54dfd76ceffd44e8159a13a5172"
+          },
+          {
+            "chapter": 138,
+            "verse": 1,
+            "source_ref": "Psalms 138:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ac7b583d950c7487c624156ccdfed8d5bd4e75035e7a005cdd1ff60ace50e28a"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "e34f063fb56dd64f838ff2d88c87802727a3a5609b08c8c36e089b5201103794"
+      },
+      "2": {
+        "source_ref": "Psalms 138:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 138,
+            "verse": 2,
+            "source_ref": "Psalms 138:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1044c10e535f6e0c79a5d4111e7a6f9b07407d6a1fc1174c98d05fd7a33c9c0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1044c10e535f6e0c79a5d4111e7a6f9b07407d6a1fc1174c98d05fd7a33c9c0d"
+      },
+      "3": {
+        "source_ref": "Psalms 138:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 138,
+            "verse": 3,
+            "source_ref": "Psalms 138:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc141a85039c1030f9752dd7b0e8edcf550d86287d329f94d5df38a13bd2790b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc141a85039c1030f9752dd7b0e8edcf550d86287d329f94d5df38a13bd2790b"
+      },
+      "4": {
+        "source_ref": "Psalms 138:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 138,
+            "verse": 4,
+            "source_ref": "Psalms 138:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d8cc47216b3d9e2bb830bb362a16e53707547d2edf99d4cc2ce9ad1cc1b083a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8cc47216b3d9e2bb830bb362a16e53707547d2edf99d4cc2ce9ad1cc1b083a6"
+      },
+      "5": {
+        "source_ref": "Psalms 138:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 138,
+            "verse": 5,
+            "source_ref": "Psalms 138:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7f9bb615571435ab45a043ff8ff320bf3cffd6c0579d99e0b0942326c9907751"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f9bb615571435ab45a043ff8ff320bf3cffd6c0579d99e0b0942326c9907751"
+      },
+      "6": {
+        "source_ref": "Psalms 138:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 138,
+            "verse": 6,
+            "source_ref": "Psalms 138:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8c0dde70aa7a2344c46e2292284e14fd5daf6d068d0512cd590693ddc5430ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8c0dde70aa7a2344c46e2292284e14fd5daf6d068d0512cd590693ddc5430ca"
+      },
+      "7": {
+        "source_ref": "Psalms 138:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 138,
+            "verse": 7,
+            "source_ref": "Psalms 138:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "336bca5a3daab94170bb58d9be95267952dc7e0412aaf7a2445b7d166d884b0a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "336bca5a3daab94170bb58d9be95267952dc7e0412aaf7a2445b7d166d884b0a"
+      },
+      "8": {
+        "source_ref": "Psalms 138:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 138,
+            "verse": 8,
+            "source_ref": "Psalms 138:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bbc593e8aa03cb0952f7bc44935f59d4d739acba402f3a50ba00243a2022bf1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bbc593e8aa03cb0952f7bc44935f59d4d739acba402f3a50ba00243a2022bf1b"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_138.md",
+    "blob_sha": "a61a892b1833ca68c1e96d403f69384b45e7d19a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

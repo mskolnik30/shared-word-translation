@@ -1,0 +1,463 @@
+{
+  "book": "Psalms",
+  "chapter": 35,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 35:1 (Hebrew; before kjv marker) + Psalms 35:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 1,
+            "source_ref": "Psalms 35:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "dd125b0c4481b8da3e0db99e2c5f451f6ababf67dcf44c401128bc8137312240"
+          },
+          {
+            "chapter": 35,
+            "verse": 1,
+            "source_ref": "Psalms 35:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4f3f424311fab0238c842377c36d1f742c98ae9809a25d1f82cc8515e3cfb386"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "50bdcc0ce3dee6b030324aa0f8b5b266163037f8345f96b863f5e88d6b9c8e71"
+      },
+      "2": {
+        "source_ref": "Psalms 35:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 2,
+            "source_ref": "Psalms 35:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "10d3f5265cf0da14252ae59f00641dd76c6f3a87a3a1dd06f51fb04eb93ef96f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10d3f5265cf0da14252ae59f00641dd76c6f3a87a3a1dd06f51fb04eb93ef96f"
+      },
+      "3": {
+        "source_ref": "Psalms 35:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 3,
+            "source_ref": "Psalms 35:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d823bda4215554064021ee2df6cdf1536e1a80d6d81e02335807d6b923a78650"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d823bda4215554064021ee2df6cdf1536e1a80d6d81e02335807d6b923a78650"
+      },
+      "4": {
+        "source_ref": "Psalms 35:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 4,
+            "source_ref": "Psalms 35:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e4c6d617833815f3081bd7e53d4ce8ac210fc3d15ff7fc957600017a1b52a5d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4c6d617833815f3081bd7e53d4ce8ac210fc3d15ff7fc957600017a1b52a5d4"
+      },
+      "5": {
+        "source_ref": "Psalms 35:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 5,
+            "source_ref": "Psalms 35:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5ade371e129c534b325496a8f59942dee4ca696918b0d1861b862a8c2e4e0ec0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ade371e129c534b325496a8f59942dee4ca696918b0d1861b862a8c2e4e0ec0"
+      },
+      "6": {
+        "source_ref": "Psalms 35:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 6,
+            "source_ref": "Psalms 35:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb147cb31a5e494e8b13b5603eeae4b48375ff9821f64022ae2df4ad6efa4eee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb147cb31a5e494e8b13b5603eeae4b48375ff9821f64022ae2df4ad6efa4eee"
+      },
+      "7": {
+        "source_ref": "Psalms 35:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 7,
+            "source_ref": "Psalms 35:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df5107480491633f908f0d0692876c84bea217544b792cd2ed17277d216b865a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df5107480491633f908f0d0692876c84bea217544b792cd2ed17277d216b865a"
+      },
+      "8": {
+        "source_ref": "Psalms 35:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 8,
+            "source_ref": "Psalms 35:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b1b90e6224ef2537fa4347bad2ce2a1447613921f9ebab4fd993e216cd8585ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b1b90e6224ef2537fa4347bad2ce2a1447613921f9ebab4fd993e216cd8585ad"
+      },
+      "9": {
+        "source_ref": "Psalms 35:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 9,
+            "source_ref": "Psalms 35:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7512c883d70144ef49552f83922ec18b481291b253cfb1d23e2631347b72c8cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7512c883d70144ef49552f83922ec18b481291b253cfb1d23e2631347b72c8cb"
+      },
+      "10": {
+        "source_ref": "Psalms 35:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 10,
+            "source_ref": "Psalms 35:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aa85a8f78b0a6577108305d0e23ffcb8c3a1c1d9b1f847ebd5ef2f28d58258a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa85a8f78b0a6577108305d0e23ffcb8c3a1c1d9b1f847ebd5ef2f28d58258a7"
+      },
+      "11": {
+        "source_ref": "Psalms 35:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 11,
+            "source_ref": "Psalms 35:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a452e0289884540852aea697bd366d06e359905b9065ea24511588bf4584fca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a452e0289884540852aea697bd366d06e359905b9065ea24511588bf4584fca"
+      },
+      "12": {
+        "source_ref": "Psalms 35:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 12,
+            "source_ref": "Psalms 35:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8842146a252d6b44fb655f5a35222db9335c5d836b904f154ea9304d2afc89e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8842146a252d6b44fb655f5a35222db9335c5d836b904f154ea9304d2afc89e7"
+      },
+      "13": {
+        "source_ref": "Psalms 35:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 13,
+            "source_ref": "Psalms 35:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "259bcae7f5ddc31c9b92d808c41894541143e2654fc673c071913ebe27757742"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "259bcae7f5ddc31c9b92d808c41894541143e2654fc673c071913ebe27757742"
+      },
+      "14": {
+        "source_ref": "Psalms 35:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 14,
+            "source_ref": "Psalms 35:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5752f8027af312cfc3766ea3367cd192f150faa9cb9415d96caf04bdbaf6f2ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5752f8027af312cfc3766ea3367cd192f150faa9cb9415d96caf04bdbaf6f2ef"
+      },
+      "15": {
+        "source_ref": "Psalms 35:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 15,
+            "source_ref": "Psalms 35:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d2c07c70c14fbe6da8c14b48b28d0f1c22853427b31d753ec29402d361f7fa7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d2c07c70c14fbe6da8c14b48b28d0f1c22853427b31d753ec29402d361f7fa7"
+      },
+      "16": {
+        "source_ref": "Psalms 35:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 16,
+            "source_ref": "Psalms 35:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3775eb2367afbfd1f92a1f4250f237bf8ae072f580db432433e3cdf68857baf0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3775eb2367afbfd1f92a1f4250f237bf8ae072f580db432433e3cdf68857baf0"
+      },
+      "17": {
+        "source_ref": "Psalms 35:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 17,
+            "source_ref": "Psalms 35:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "93dad567d1c54e3e96ccd7225f3e5563e5e21de34279740c7d3d79161d0ba628"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93dad567d1c54e3e96ccd7225f3e5563e5e21de34279740c7d3d79161d0ba628"
+      },
+      "18": {
+        "source_ref": "Psalms 35:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 18,
+            "source_ref": "Psalms 35:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e38509b5c33bb0a2b9c884e81be1352fdbef7a03957e7cd5c186a4ec6ed4da9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e38509b5c33bb0a2b9c884e81be1352fdbef7a03957e7cd5c186a4ec6ed4da9c"
+      },
+      "19": {
+        "source_ref": "Psalms 35:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 19,
+            "source_ref": "Psalms 35:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8d307c03beed5bca29342048326bd0df6979cedff295592aed1ed0bad311485"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8d307c03beed5bca29342048326bd0df6979cedff295592aed1ed0bad311485"
+      },
+      "20": {
+        "source_ref": "Psalms 35:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 20,
+            "source_ref": "Psalms 35:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7da5897d56e0beee2d64dab0e2f271a7e2155e0b14242b33f8891b80dd298036"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7da5897d56e0beee2d64dab0e2f271a7e2155e0b14242b33f8891b80dd298036"
+      },
+      "21": {
+        "source_ref": "Psalms 35:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 21,
+            "source_ref": "Psalms 35:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "08283bb9253136b6023c4dfeea0238a84d9ecb062e3085a27e9fa0e23aa8aa4f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "08283bb9253136b6023c4dfeea0238a84d9ecb062e3085a27e9fa0e23aa8aa4f"
+      },
+      "22": {
+        "source_ref": "Psalms 35:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 22,
+            "source_ref": "Psalms 35:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e0985354f36005a49eb85c8bf560a50bef67de449a6667212edc31f79e661535"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e0985354f36005a49eb85c8bf560a50bef67de449a6667212edc31f79e661535"
+      },
+      "23": {
+        "source_ref": "Psalms 35:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 23,
+            "source_ref": "Psalms 35:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "952fcbd5698b7023f5deda2fdf340e15df1048bc13fcddc1cee1333304ccad6c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "952fcbd5698b7023f5deda2fdf340e15df1048bc13fcddc1cee1333304ccad6c"
+      },
+      "24": {
+        "source_ref": "Psalms 35:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 24,
+            "source_ref": "Psalms 35:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3719c4b6078beeb21287e213aee2900fbe0948928f61a804e0e7e5dfb9f4345f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3719c4b6078beeb21287e213aee2900fbe0948928f61a804e0e7e5dfb9f4345f"
+      },
+      "25": {
+        "source_ref": "Psalms 35:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 25,
+            "source_ref": "Psalms 35:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b13e4aafdeff6466ae72db15be38e2e0b50e8f5301deeaf26eb470e5c6b4cc45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b13e4aafdeff6466ae72db15be38e2e0b50e8f5301deeaf26eb470e5c6b4cc45"
+      },
+      "26": {
+        "source_ref": "Psalms 35:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 26,
+            "source_ref": "Psalms 35:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e89d2cc6fed03d2568ea9ae6311c86960ec245ed45e51c10d9c941ac06d3bf41"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e89d2cc6fed03d2568ea9ae6311c86960ec245ed45e51c10d9c941ac06d3bf41"
+      },
+      "27": {
+        "source_ref": "Psalms 35:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 27,
+            "source_ref": "Psalms 35:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "13a2afb8fa2b3e653e637ec0025a76cb838ba4fd1320807297d367e64152009d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "13a2afb8fa2b3e653e637ec0025a76cb838ba4fd1320807297d367e64152009d"
+      },
+      "28": {
+        "source_ref": "Psalms 35:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 28,
+            "source_ref": "Psalms 35:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "988f96cd2a8e67683da0a439a84c2b0d082036f835ea318cab191b10a4dd5142"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "988f96cd2a8e67683da0a439a84c2b0d082036f835ea318cab191b10a4dd5142"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_035.md",
+    "blob_sha": "82f7949a3247b6f61432c638a9bce373518044c1"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

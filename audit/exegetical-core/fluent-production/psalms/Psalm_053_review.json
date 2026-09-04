@@ -1,0 +1,133 @@
+{
+  "book": "Psalms",
+  "chapter": 53,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 53:1 (Hebrew; whole) + Psalms 53:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 1,
+            "source_ref": "Psalms 53:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "477ae6c8945975cf532a305253926e113d12ea0ff6b1e29c5e0846f29e14a99d"
+          },
+          {
+            "chapter": 53,
+            "verse": 2,
+            "source_ref": "Psalms 53:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "44602d7e0b1f4e54990fd11cf681e53a536964a73c84b6ec16f5a9d1f4881168"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "2d539c08eaf6721abbb40e9ae5f62e3200860933cec8a4d8da0919a10477aa8f"
+      },
+      "2": {
+        "source_ref": "Psalms 53:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 3,
+            "source_ref": "Psalms 53:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "cffe5b46700578836b57be6304e8c65dcb19ee92c4c98db397956fc343ce1be7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "cffe5b46700578836b57be6304e8c65dcb19ee92c4c98db397956fc343ce1be7"
+      },
+      "3": {
+        "source_ref": "Psalms 53:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 4,
+            "source_ref": "Psalms 53:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9dcd75a6a9f88af36737a23de1fac4bafbd8329e39c31bb0b96bff80c65fb19e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9dcd75a6a9f88af36737a23de1fac4bafbd8329e39c31bb0b96bff80c65fb19e"
+      },
+      "4": {
+        "source_ref": "Psalms 53:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 5,
+            "source_ref": "Psalms 53:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "254c092e344cf1a616fc121647d653d7bec4e74404057c49f61bc1cd63818d4c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "254c092e344cf1a616fc121647d653d7bec4e74404057c49f61bc1cd63818d4c"
+      },
+      "5": {
+        "source_ref": "Psalms 53:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 6,
+            "source_ref": "Psalms 53:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b56e0126ae411392a54fde9979f67ea6aa2131a73979b3f69403c9d0d62b9cb0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b56e0126ae411392a54fde9979f67ea6aa2131a73979b3f69403c9d0d62b9cb0"
+      },
+      "6": {
+        "source_ref": "Psalms 53:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 53,
+            "verse": 7,
+            "source_ref": "Psalms 53:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e7239a3b1d4c288cae41d6a2cf30a0264df26e69dd945370ec9355a17f0f3ba0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e7239a3b1d4c288cae41d6a2cf30a0264df26e69dd945370ec9355a17f0f3ba0"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_053.md",
+    "blob_sha": "d74c59a5e50d952cb2fc0de62b07bf1acb503df5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

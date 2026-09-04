@@ -1,0 +1,177 @@
+{
+  "book": "Psalms",
+  "chapter": 137,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "137:1-9",
+      "decision": "Translate exile's grief and the final violent imprecation honestly as traumatized prayer, not moral authorization.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 137:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 137,
+            "verse": 1,
+            "source_ref": "Psalms 137:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac0d0345ef75de421f729e0ce02dad9db59aed896b317a6279e323ff2dd41649"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac0d0345ef75de421f729e0ce02dad9db59aed896b317a6279e323ff2dd41649"
+      },
+      "2": {
+        "source_ref": "Psalms 137:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 137,
+            "verse": 2,
+            "source_ref": "Psalms 137:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35070bad3461f077fa8ecf0675ab2e1c21a10aa1a2632a3d0a09ea5680100541"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35070bad3461f077fa8ecf0675ab2e1c21a10aa1a2632a3d0a09ea5680100541"
+      },
+      "3": {
+        "source_ref": "Psalms 137:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 137,
+            "verse": 3,
+            "source_ref": "Psalms 137:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "984a0457adae609d29ec9c8aa1b3e3e8baf0594f2973506f08844601f1eb12af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "984a0457adae609d29ec9c8aa1b3e3e8baf0594f2973506f08844601f1eb12af"
+      },
+      "4": {
+        "source_ref": "Psalms 137:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 137,
+            "verse": 4,
+            "source_ref": "Psalms 137:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "209f435bd26204c8ebab1298a69c96c89aabb6ddbc12a52a6b0c4f1d3f7bcd1d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "209f435bd26204c8ebab1298a69c96c89aabb6ddbc12a52a6b0c4f1d3f7bcd1d"
+      },
+      "5": {
+        "source_ref": "Psalms 137:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 137,
+            "verse": 5,
+            "source_ref": "Psalms 137:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63dc6faf66d0bb2fdec3d6036f756c1877dd1b1748d26e154f7befc920d558d0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63dc6faf66d0bb2fdec3d6036f756c1877dd1b1748d26e154f7befc920d558d0"
+      },
+      "6": {
+        "source_ref": "Psalms 137:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 137,
+            "verse": 6,
+            "source_ref": "Psalms 137:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe189469b2e4d746fa7991dd47657f8a1b3b813569311114b08aef95a9c233b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe189469b2e4d746fa7991dd47657f8a1b3b813569311114b08aef95a9c233b7"
+      },
+      "7": {
+        "source_ref": "Psalms 137:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 137,
+            "verse": 7,
+            "source_ref": "Psalms 137:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "475322457494b1d2894b10fb713ab44d64fb1b8cfd7f3f2704a54a9cd2604b16"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "475322457494b1d2894b10fb713ab44d64fb1b8cfd7f3f2704a54a9cd2604b16"
+      },
+      "8": {
+        "source_ref": "Psalms 137:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 137,
+            "verse": 8,
+            "source_ref": "Psalms 137:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "97547d7dfc36ebd0668e08751cdca1ea0b562362069c00ff82484b7bacda0cc4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "97547d7dfc36ebd0668e08751cdca1ea0b562362069c00ff82484b7bacda0cc4"
+      },
+      "9": {
+        "source_ref": "Psalms 137:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 137,
+            "verse": 9,
+            "source_ref": "Psalms 137:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3f6fcfebebcf00ab1cd95a7ced9c45f2742c4b20d18d6741b499c78552ba9c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3f6fcfebebcf00ab1cd95a7ced9c45f2742c4b20d18d6741b499c78552ba9c7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_137.md",
+    "blob_sha": "56ab23bfbf1802345f47c1535d27cc81b7e84417"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

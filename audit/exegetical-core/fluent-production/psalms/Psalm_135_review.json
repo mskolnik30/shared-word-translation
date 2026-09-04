@@ -1,0 +1,351 @@
+{
+  "book": "Psalms",
+  "chapter": 135,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 135:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 1,
+            "source_ref": "Psalms 135:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b3656c0fc4b4d933e737b20c56d9ab324ffa475172c596e25bc3b27f9dd15ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b3656c0fc4b4d933e737b20c56d9ab324ffa475172c596e25bc3b27f9dd15ec"
+      },
+      "2": {
+        "source_ref": "Psalms 135:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 2,
+            "source_ref": "Psalms 135:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b191da4a8b48cdffbdf1e46472ce6857e60f7e0feaf8f969be74efa95e53d807"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b191da4a8b48cdffbdf1e46472ce6857e60f7e0feaf8f969be74efa95e53d807"
+      },
+      "3": {
+        "source_ref": "Psalms 135:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 3,
+            "source_ref": "Psalms 135:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "99b01f107a0a2d3abd5d3298abc13b3e34ea8f4d59b137ab8edcd933692e6879"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "99b01f107a0a2d3abd5d3298abc13b3e34ea8f4d59b137ab8edcd933692e6879"
+      },
+      "4": {
+        "source_ref": "Psalms 135:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 4,
+            "source_ref": "Psalms 135:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b4edc768277693e559fe34e8e12718426f5335ef29911040dd21191edd39ca5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b4edc768277693e559fe34e8e12718426f5335ef29911040dd21191edd39ca5"
+      },
+      "5": {
+        "source_ref": "Psalms 135:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 5,
+            "source_ref": "Psalms 135:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6fd918608baece3936c406ab9bff8ebda597a32a4fe66fcdc94cb3540ea1c8f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6fd918608baece3936c406ab9bff8ebda597a32a4fe66fcdc94cb3540ea1c8f2"
+      },
+      "6": {
+        "source_ref": "Psalms 135:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 6,
+            "source_ref": "Psalms 135:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0ca554cce45f2ef27763e40f8d9a548a5840818c58810c4a786928c252ad1147"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ca554cce45f2ef27763e40f8d9a548a5840818c58810c4a786928c252ad1147"
+      },
+      "7": {
+        "source_ref": "Psalms 135:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 7,
+            "source_ref": "Psalms 135:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "88d7e833c4b5f2b3fad305e3c9e59cecd7cea5aecd2217679f1d5a91580822ee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88d7e833c4b5f2b3fad305e3c9e59cecd7cea5aecd2217679f1d5a91580822ee"
+      },
+      "8": {
+        "source_ref": "Psalms 135:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 8,
+            "source_ref": "Psalms 135:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc61fcfaf49097e60dd1b607457d40fa8db1553652a73921d7aa01e0c16436aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc61fcfaf49097e60dd1b607457d40fa8db1553652a73921d7aa01e0c16436aa"
+      },
+      "9": {
+        "source_ref": "Psalms 135:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 9,
+            "source_ref": "Psalms 135:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "458380cd7f901e367553aa4d92fb0d42eda87e847c5dc90b49cf15faf18b80a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "458380cd7f901e367553aa4d92fb0d42eda87e847c5dc90b49cf15faf18b80a3"
+      },
+      "10": {
+        "source_ref": "Psalms 135:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 10,
+            "source_ref": "Psalms 135:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d5aa82f544bef1fc409a884dbfbd7650e8100cea2c88d82086a38eac4cfb79dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d5aa82f544bef1fc409a884dbfbd7650e8100cea2c88d82086a38eac4cfb79dc"
+      },
+      "11": {
+        "source_ref": "Psalms 135:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 11,
+            "source_ref": "Psalms 135:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6516d785b70fcce73e214fcb8f57c86856bbe01999650a89f49c2fbd58442510"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6516d785b70fcce73e214fcb8f57c86856bbe01999650a89f49c2fbd58442510"
+      },
+      "12": {
+        "source_ref": "Psalms 135:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 12,
+            "source_ref": "Psalms 135:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9703b858f6f5fa369037ad150262242671ccfe31f0251c38304ea1fc07d84b0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9703b858f6f5fa369037ad150262242671ccfe31f0251c38304ea1fc07d84b0b"
+      },
+      "13": {
+        "source_ref": "Psalms 135:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 13,
+            "source_ref": "Psalms 135:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a807b620df218844fc6fdf5c1d1eae52b7dd164b34581806892f439f70e25ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a807b620df218844fc6fdf5c1d1eae52b7dd164b34581806892f439f70e25ec"
+      },
+      "14": {
+        "source_ref": "Psalms 135:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 14,
+            "source_ref": "Psalms 135:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "02ba7a6d1e7feb4285ae6fb20e578ce2c5a80c17869f6a2a58665f108934a4e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02ba7a6d1e7feb4285ae6fb20e578ce2c5a80c17869f6a2a58665f108934a4e8"
+      },
+      "15": {
+        "source_ref": "Psalms 135:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 15,
+            "source_ref": "Psalms 135:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79cfc6c9efdcceda39ef477796e78dfed70b06a6ed3463c50243683a6cd5d64d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79cfc6c9efdcceda39ef477796e78dfed70b06a6ed3463c50243683a6cd5d64d"
+      },
+      "16": {
+        "source_ref": "Psalms 135:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 16,
+            "source_ref": "Psalms 135:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9638d94ce004f471f5da809fe52bea4adc97b2bc807d45081d36a233d07fa106"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9638d94ce004f471f5da809fe52bea4adc97b2bc807d45081d36a233d07fa106"
+      },
+      "17": {
+        "source_ref": "Psalms 135:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 17,
+            "source_ref": "Psalms 135:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b6a64623f80353d531b67ccbc61d353713486742256fba6d8500857ebcd0380"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b6a64623f80353d531b67ccbc61d353713486742256fba6d8500857ebcd0380"
+      },
+      "18": {
+        "source_ref": "Psalms 135:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 18,
+            "source_ref": "Psalms 135:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec77a686a1edacaa8c4d1acda32e04616c81ff4e5016bf66f5e6610426c18acb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec77a686a1edacaa8c4d1acda32e04616c81ff4e5016bf66f5e6610426c18acb"
+      },
+      "19": {
+        "source_ref": "Psalms 135:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 19,
+            "source_ref": "Psalms 135:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8fcaac52ac1a0c266f4e40d500dab16db94fee59ad9a4876c02c18484b69c308"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fcaac52ac1a0c266f4e40d500dab16db94fee59ad9a4876c02c18484b69c308"
+      },
+      "20": {
+        "source_ref": "Psalms 135:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 20,
+            "source_ref": "Psalms 135:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "42a2fdfe77dc392205048afa079a58af162c565468f1ad5780c89c9e489b85f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42a2fdfe77dc392205048afa079a58af162c565468f1ad5780c89c9e489b85f8"
+      },
+      "21": {
+        "source_ref": "Psalms 135:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 135,
+            "verse": 21,
+            "source_ref": "Psalms 135:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "770b01442bf80783aff8b1a9e2bb1254f80f64abc09944a0dfa9d6273a1e5deb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "770b01442bf80783aff8b1a9e2bb1254f80f64abc09944a0dfa9d6273a1e5deb"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_135.md",
+    "blob_sha": "c63044254c972037235c0fcc049cd7606597afcf"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

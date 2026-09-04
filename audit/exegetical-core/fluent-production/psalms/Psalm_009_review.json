@@ -1,0 +1,343 @@
+{
+  "book": "Psalms",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 9:1 (Hebrew; whole) + Psalms 9:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Psalms 9:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0eb9c9edd39935d843e8e157707bb4092b7e24702e99be31d6256f99f977845b"
+          },
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Psalms 9:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7218071c145c0547e803bb9a7d61efab5e32005cf3ba923a76bf05240d62e9b2"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "6bc1ef5c020675a70c4828e2a624dab11bb444a2ba5dbc1806057db2b50faa93"
+      },
+      "2": {
+        "source_ref": "Psalms 9:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Psalms 9:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f8734eeb05c68f50408795257eaf6d6203c8c8775bff14f03ac4e20c8e0b52d1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f8734eeb05c68f50408795257eaf6d6203c8c8775bff14f03ac4e20c8e0b52d1"
+      },
+      "3": {
+        "source_ref": "Psalms 9:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Psalms 9:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6a56fabd5a33fa3f099542d7d26171a28a7201af34226a31f373d60e328b4d29"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6a56fabd5a33fa3f099542d7d26171a28a7201af34226a31f373d60e328b4d29"
+      },
+      "4": {
+        "source_ref": "Psalms 9:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Psalms 9:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ea393c49e862be347e0e6c89a2c309239a249b97e70bfc3b6219cf32aa3739d4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ea393c49e862be347e0e6c89a2c309239a249b97e70bfc3b6219cf32aa3739d4"
+      },
+      "5": {
+        "source_ref": "Psalms 9:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Psalms 9:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "01e5a27eecf919fe3e3428ecd69cf772416acd94129c66f90630d3a4a397189b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "01e5a27eecf919fe3e3428ecd69cf772416acd94129c66f90630d3a4a397189b"
+      },
+      "6": {
+        "source_ref": "Psalms 9:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Psalms 9:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0696d10ae78ac3d43a0d20f958f665612cfafc29e63dd7117e1e0a1cae5e44d0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0696d10ae78ac3d43a0d20f958f665612cfafc29e63dd7117e1e0a1cae5e44d0"
+      },
+      "7": {
+        "source_ref": "Psalms 9:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Psalms 9:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8db43ff41943b904f379db51fc908680d1a48f0af4b456191fa5e121934769cb"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8db43ff41943b904f379db51fc908680d1a48f0af4b456191fa5e121934769cb"
+      },
+      "8": {
+        "source_ref": "Psalms 9:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Psalms 9:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "94bf473014e9229f0a6292a7021834c04957604537866c99da5a6ee3d1cee485"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "94bf473014e9229f0a6292a7021834c04957604537866c99da5a6ee3d1cee485"
+      },
+      "9": {
+        "source_ref": "Psalms 9:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Psalms 9:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "42a815d17897c4837a7aaa888a81c649ceca75decdbc925c63cd4e72d953ed4d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "42a815d17897c4837a7aaa888a81c649ceca75decdbc925c63cd4e72d953ed4d"
+      },
+      "10": {
+        "source_ref": "Psalms 9:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Psalms 9:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "82976e496c4997649f08ace0b3a6fba577b3f239a1b4d386b7b6d05a1de814a1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "82976e496c4997649f08ace0b3a6fba577b3f239a1b4d386b7b6d05a1de814a1"
+      },
+      "11": {
+        "source_ref": "Psalms 9:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "Psalms 9:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "cdad73da194c4c5eb2a179a40f28d096414c9559f5be1158b362be28173fbbb5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "cdad73da194c4c5eb2a179a40f28d096414c9559f5be1158b362be28173fbbb5"
+      },
+      "12": {
+        "source_ref": "Psalms 9:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "Psalms 9:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "695edb3dfb96020bf6fa98fe030e2d659ca1a6eb92c30aef513a712496192890"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "695edb3dfb96020bf6fa98fe030e2d659ca1a6eb92c30aef513a712496192890"
+      },
+      "13": {
+        "source_ref": "Psalms 9:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "Psalms 9:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "be5eb56e07e57726d7c2c0bdd36b50c2839bf92fb72a2fcea3d45ca95fa62b42"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "be5eb56e07e57726d7c2c0bdd36b50c2839bf92fb72a2fcea3d45ca95fa62b42"
+      },
+      "14": {
+        "source_ref": "Psalms 9:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "Psalms 9:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b847887562cdc14a5d4051110352f39c30153ba8df65082a58ddbdd62886847b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b847887562cdc14a5d4051110352f39c30153ba8df65082a58ddbdd62886847b"
+      },
+      "15": {
+        "source_ref": "Psalms 9:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 16,
+            "source_ref": "Psalms 9:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "bea1ad7eff4112eaba10632fa98af32f7c3f538c4d7989c83860d10dfe1dbd58"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "bea1ad7eff4112eaba10632fa98af32f7c3f538c4d7989c83860d10dfe1dbd58"
+      },
+      "16": {
+        "source_ref": "Psalms 9:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 17,
+            "source_ref": "Psalms 9:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "df69d4519f79b16e437c0e08af437095178775aa59b67aa860b6160307d61d18"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "df69d4519f79b16e437c0e08af437095178775aa59b67aa860b6160307d61d18"
+      },
+      "17": {
+        "source_ref": "Psalms 9:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 18,
+            "source_ref": "Psalms 9:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f87c3449be9b418227f834b448e0f2664163fcb0d1bc83a3366843f7fa779ec3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f87c3449be9b418227f834b448e0f2664163fcb0d1bc83a3366843f7fa779ec3"
+      },
+      "18": {
+        "source_ref": "Psalms 9:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 19,
+            "source_ref": "Psalms 9:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "246de4fc8a161f8d8c4f585f6d7048bfd1ee8d9f7220e1554eb80ff96e9f46b1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "246de4fc8a161f8d8c4f585f6d7048bfd1ee8d9f7220e1554eb80ff96e9f46b1"
+      },
+      "19": {
+        "source_ref": "Psalms 9:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 20,
+            "source_ref": "Psalms 9:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b93a7d0f2a7d702344876ea52e1645b3568cc6b8715d2ca84d796c5a75e771e2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b93a7d0f2a7d702344876ea52e1645b3568cc6b8715d2ca84d796c5a75e771e2"
+      },
+      "20": {
+        "source_ref": "Psalms 9:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 21,
+            "source_ref": "Psalms 9:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "71c7a9233b93470e17e1a6e9eac47cd7d6fe99bf2921958ef6b4680f7abdc733"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "71c7a9233b93470e17e1a6e9eac47cd7d6fe99bf2921958ef6b4680f7abdc733"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_009.md",
+    "blob_sha": "4e0bda3730b4b451f8d91852a575fba82794567e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

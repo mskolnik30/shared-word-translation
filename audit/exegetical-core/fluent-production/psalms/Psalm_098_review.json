@@ -1,0 +1,178 @@
+{
+  "book": "Psalms",
+  "chapter": 98,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 98:1 (Hebrew; before kjv marker) + Psalms 98:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 98,
+            "verse": 1,
+            "source_ref": "Psalms 98:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "eeeeca667c2ed5e1cf26e7be2c2d12e75be1acbf71ba7f7b628302a84c712e02"
+          },
+          {
+            "chapter": 98,
+            "verse": 1,
+            "source_ref": "Psalms 98:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5d1030640b806e3979ec7c23194883df21730a717139c9d2b31c8d6323784d5a"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "bacde206b45406bfe813b22529d2db8e6ba55d5bb274b5ba84502eb0c669c688"
+      },
+      "2": {
+        "source_ref": "Psalms 98:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 98,
+            "verse": 2,
+            "source_ref": "Psalms 98:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "18a9d1bc7563fa17d2e4e91190751c9f7c8dfa04ae0a1d8c7b0b09bbc5759d13"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18a9d1bc7563fa17d2e4e91190751c9f7c8dfa04ae0a1d8c7b0b09bbc5759d13"
+      },
+      "3": {
+        "source_ref": "Psalms 98:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 98,
+            "verse": 3,
+            "source_ref": "Psalms 98:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb6aefddcd04a8732b3c12c73abbe5a19b65786a618ba6d9994911d34c23bb2b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb6aefddcd04a8732b3c12c73abbe5a19b65786a618ba6d9994911d34c23bb2b"
+      },
+      "4": {
+        "source_ref": "Psalms 98:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 98,
+            "verse": 4,
+            "source_ref": "Psalms 98:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "69265d1c55d15c3a366be83253337ab5c2854961dfad4d40d37ab9eae7f557e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69265d1c55d15c3a366be83253337ab5c2854961dfad4d40d37ab9eae7f557e0"
+      },
+      "5": {
+        "source_ref": "Psalms 98:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 98,
+            "verse": 5,
+            "source_ref": "Psalms 98:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e15beb32a2bb52c5a4f924fa48a1520d941f325d97a4172dc96549e51d1fd17e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e15beb32a2bb52c5a4f924fa48a1520d941f325d97a4172dc96549e51d1fd17e"
+      },
+      "6": {
+        "source_ref": "Psalms 98:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 98,
+            "verse": 6,
+            "source_ref": "Psalms 98:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b69132252d85984d661adb81d14a32b9ecaeed029b6280ef8bfeff3c31bec4c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b69132252d85984d661adb81d14a32b9ecaeed029b6280ef8bfeff3c31bec4c1"
+      },
+      "7": {
+        "source_ref": "Psalms 98:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 98,
+            "verse": 7,
+            "source_ref": "Psalms 98:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36e8737a6bd93b0e8326f9a80fc4689e36ac00879055c05bbdf0c17b9d5964be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36e8737a6bd93b0e8326f9a80fc4689e36ac00879055c05bbdf0c17b9d5964be"
+      },
+      "8": {
+        "source_ref": "Psalms 98:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 98,
+            "verse": 8,
+            "source_ref": "Psalms 98:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6bbf3075a6767a1e6f3edf50fd5ef12cd8fb42c93e450d07c5b9a1fc3b354b43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6bbf3075a6767a1e6f3edf50fd5ef12cd8fb42c93e450d07c5b9a1fc3b354b43"
+      },
+      "9": {
+        "source_ref": "Psalms 98:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 98,
+            "verse": 9,
+            "source_ref": "Psalms 98:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a05bb1d4b36dbe292683b4616f0641c55227be1b7dd6f1472c357a687e8a8f38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a05bb1d4b36dbe292683b4616f0641c55227be1b7dd6f1472c357a687e8a8f38"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_098.md",
+    "blob_sha": "7802b661e4a578018dba7c2c4cc29cefe68b850c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

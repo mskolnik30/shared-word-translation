@@ -1,0 +1,118 @@
+{
+  "book": "Psalms",
+  "chapter": 100,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 100:1 (Hebrew; before kjv marker) + Psalms 100:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 100,
+            "verse": 1,
+            "source_ref": "Psalms 100:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "e3379d976532e448bb1d114964efdfabb122548c6192d8931f244c7c9d71516a"
+          },
+          {
+            "chapter": 100,
+            "verse": 1,
+            "source_ref": "Psalms 100:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3cb122fe31611985f2ba0442e0639034455af6885d26f7a591ab1d7b1dd980aa"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "b160b4bd963f002b4c548948659fc52a3eb6da745d6d4c8d6d598fa33d7c47ba"
+      },
+      "2": {
+        "source_ref": "Psalms 100:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 100,
+            "verse": 2,
+            "source_ref": "Psalms 100:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4a720dd49084135de3729308c4b5ac724356dafd77e55f3d214c59b756d197f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a720dd49084135de3729308c4b5ac724356dafd77e55f3d214c59b756d197f9"
+      },
+      "3": {
+        "source_ref": "Psalms 100:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 100,
+            "verse": 3,
+            "source_ref": "Psalms 100:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0ab9117b7df2acaa57853b0298d6ea46ada3f3ebe024aecfd14dd5533b18092b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ab9117b7df2acaa57853b0298d6ea46ada3f3ebe024aecfd14dd5533b18092b"
+      },
+      "4": {
+        "source_ref": "Psalms 100:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 100,
+            "verse": 4,
+            "source_ref": "Psalms 100:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b0dce51842f671601f05ee28b47b3fb978eeec72ada6b8339cf41bafad25bbce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0dce51842f671601f05ee28b47b3fb978eeec72ada6b8339cf41bafad25bbce"
+      },
+      "5": {
+        "source_ref": "Psalms 100:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 100,
+            "verse": 5,
+            "source_ref": "Psalms 100:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eca3e32c1528beb2f0c49a90ccfaaef968c26f0ee5f3a9bcacebe423386af6c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eca3e32c1528beb2f0c49a90ccfaaef968c26f0ee5f3a9bcacebe423386af6c6"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_100.md",
+    "blob_sha": "d4a3345e29293e8234b79d6f67ba46d4dadbbd2f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

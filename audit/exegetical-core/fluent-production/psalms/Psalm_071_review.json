@@ -1,0 +1,396 @@
+{
+  "book": "Psalms",
+  "chapter": 71,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 71:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 1,
+            "source_ref": "Psalms 71:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "06c04e2d4b3658a561f62dedba9df9ea00132cfa0ac0be266b934b67b157dfd3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06c04e2d4b3658a561f62dedba9df9ea00132cfa0ac0be266b934b67b157dfd3"
+      },
+      "2": {
+        "source_ref": "Psalms 71:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 2,
+            "source_ref": "Psalms 71:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2d43a36590a8c61a4a2b367fbce3637048c7762cf50475d1ec9a70e61ccc888c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d43a36590a8c61a4a2b367fbce3637048c7762cf50475d1ec9a70e61ccc888c"
+      },
+      "3": {
+        "source_ref": "Psalms 71:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 3,
+            "source_ref": "Psalms 71:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0d4e554709512a0138720641c62c8fb6e94db142a2c3fd1f4ce59567de74fd9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d4e554709512a0138720641c62c8fb6e94db142a2c3fd1f4ce59567de74fd9c"
+      },
+      "4": {
+        "source_ref": "Psalms 71:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 4,
+            "source_ref": "Psalms 71:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5ed5d17a2aa214b64c3c62fba1b6834f3cef2eeb65043c59dcbd7caa12b9ec60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ed5d17a2aa214b64c3c62fba1b6834f3cef2eeb65043c59dcbd7caa12b9ec60"
+      },
+      "5": {
+        "source_ref": "Psalms 71:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 5,
+            "source_ref": "Psalms 71:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "24154804c7e0742717f6f6bceae2275667a7f7a2ca75701de70da8d36813e9a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "24154804c7e0742717f6f6bceae2275667a7f7a2ca75701de70da8d36813e9a2"
+      },
+      "6": {
+        "source_ref": "Psalms 71:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 6,
+            "source_ref": "Psalms 71:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ee3d42cf02446454d9f23dd90aeadd77a4a188f392b2ac69e6c0e064c076bff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ee3d42cf02446454d9f23dd90aeadd77a4a188f392b2ac69e6c0e064c076bff"
+      },
+      "7": {
+        "source_ref": "Psalms 71:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 7,
+            "source_ref": "Psalms 71:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75e0869e260d5bda63e434e68455c6ccbe0e0dfa7f22fdd3bf7a08eccdc34997"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75e0869e260d5bda63e434e68455c6ccbe0e0dfa7f22fdd3bf7a08eccdc34997"
+      },
+      "8": {
+        "source_ref": "Psalms 71:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 8,
+            "source_ref": "Psalms 71:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72cf31ed90cec8667fe2d17a6875448791d7ad6110988a5505dcde18525cbf48"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72cf31ed90cec8667fe2d17a6875448791d7ad6110988a5505dcde18525cbf48"
+      },
+      "9": {
+        "source_ref": "Psalms 71:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 9,
+            "source_ref": "Psalms 71:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "894372f5ac8b6252081a9692bd93d51a6e41de486b05253425135846eb16babd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "894372f5ac8b6252081a9692bd93d51a6e41de486b05253425135846eb16babd"
+      },
+      "10": {
+        "source_ref": "Psalms 71:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 10,
+            "source_ref": "Psalms 71:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c2318e5e33b7a0f4049877040128edb827dce3654d5273ad0bd444bf91632dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c2318e5e33b7a0f4049877040128edb827dce3654d5273ad0bd444bf91632dd"
+      },
+      "11": {
+        "source_ref": "Psalms 71:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 11,
+            "source_ref": "Psalms 71:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74c33baff9917eedb83171a602ba5a85f4ade3f4d3c3b525186ffb9059b8d6ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74c33baff9917eedb83171a602ba5a85f4ade3f4d3c3b525186ffb9059b8d6ac"
+      },
+      "12": {
+        "source_ref": "Psalms 71:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 12,
+            "source_ref": "Psalms 71:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d48f5972f276c091663461e71ca5df5a9c9e1bdee7d044468fa8500f1cc8bcf8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d48f5972f276c091663461e71ca5df5a9c9e1bdee7d044468fa8500f1cc8bcf8"
+      },
+      "13": {
+        "source_ref": "Psalms 71:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 13,
+            "source_ref": "Psalms 71:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2493eda2530c8d944f3f1a21d06e5bc537e224e80a998bea32b14f91d0a3446f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2493eda2530c8d944f3f1a21d06e5bc537e224e80a998bea32b14f91d0a3446f"
+      },
+      "14": {
+        "source_ref": "Psalms 71:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 14,
+            "source_ref": "Psalms 71:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3ed7ccb5dd72440c932a3bbf23d7d6b90a93a018f0918ecb867da9608c0d2d1d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ed7ccb5dd72440c932a3bbf23d7d6b90a93a018f0918ecb867da9608c0d2d1d"
+      },
+      "15": {
+        "source_ref": "Psalms 71:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 15,
+            "source_ref": "Psalms 71:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d72dd1539c47cf8a1987f16fe5b5ef94145ba784c5b6ae1432fda28ee75808ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d72dd1539c47cf8a1987f16fe5b5ef94145ba784c5b6ae1432fda28ee75808ad"
+      },
+      "16": {
+        "source_ref": "Psalms 71:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 16,
+            "source_ref": "Psalms 71:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "523674a78cb4853eb0fa538bb70515b064b06894b58fb083c657590bf6100ccb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "523674a78cb4853eb0fa538bb70515b064b06894b58fb083c657590bf6100ccb"
+      },
+      "17": {
+        "source_ref": "Psalms 71:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 17,
+            "source_ref": "Psalms 71:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "084ff3fcaea2e811f908ee18f1099edb7c5ce429a6a18ea5d355fb23ed706c3e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "084ff3fcaea2e811f908ee18f1099edb7c5ce429a6a18ea5d355fb23ed706c3e"
+      },
+      "18": {
+        "source_ref": "Psalms 71:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 18,
+            "source_ref": "Psalms 71:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "adfbd62b286928baa42ba8cf7a4cc4f1831ac772e4e608ab5f7341f5dc27d13d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "adfbd62b286928baa42ba8cf7a4cc4f1831ac772e4e608ab5f7341f5dc27d13d"
+      },
+      "19": {
+        "source_ref": "Psalms 71:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 19,
+            "source_ref": "Psalms 71:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c90eb91a8551b81e774bc11818050a48feb30689f92f5f1828ed6d0f9c12e790"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c90eb91a8551b81e774bc11818050a48feb30689f92f5f1828ed6d0f9c12e790"
+      },
+      "20": {
+        "source_ref": "Psalms 71:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 20,
+            "source_ref": "Psalms 71:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4976b950d8faa936a3abcbcd7e62b4198c25d48f929872049c4415d68f411ced"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4976b950d8faa936a3abcbcd7e62b4198c25d48f929872049c4415d68f411ced"
+      },
+      "21": {
+        "source_ref": "Psalms 71:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 21,
+            "source_ref": "Psalms 71:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4815aefab514341503270ebbc501dc440fd207456a24ae0464a454741c23b32d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4815aefab514341503270ebbc501dc440fd207456a24ae0464a454741c23b32d"
+      },
+      "22": {
+        "source_ref": "Psalms 71:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 22,
+            "source_ref": "Psalms 71:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c14e464382451fbc6aab28aa1013871352f30b7b7091fdf703f230743ea38b07"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c14e464382451fbc6aab28aa1013871352f30b7b7091fdf703f230743ea38b07"
+      },
+      "23": {
+        "source_ref": "Psalms 71:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 23,
+            "source_ref": "Psalms 71:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a322aaedcba5f61b2e5056e10bcf322983a5269e0eedca5065225dcdad201d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a322aaedcba5f61b2e5056e10bcf322983a5269e0eedca5065225dcdad201d4"
+      },
+      "24": {
+        "source_ref": "Psalms 71:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 71,
+            "verse": 24,
+            "source_ref": "Psalms 71:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7174e6c18dc6f13001aadb1c76a0c26674c659bb0c0505908a176d468f4d207f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7174e6c18dc6f13001aadb1c76a0c26674c659bb0c0505908a176d468f4d207f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_071.md",
+    "blob_sha": "bb504bf18649f1c5064eb4aa828f43da41af667a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

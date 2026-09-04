@@ -1,0 +1,680 @@
+{
+  "book": "Psalms",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 150,
+  "public_verse_slots": 2461,
+  "included_verse_labels": 2461,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 2527,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-2:12",
+      "decision": "Read Psalms 1-2 as the collection's Torah-and-kingship doorway without erasing each poem's voice.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-41:13",
+      "decision": "Preserve Book I's movement among lament, trust, praise, protest, confession, and royal prayer.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:5-6",
+      "decision": "Document the two public clauses split inside Hebrew Psalm 13:6.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "42:1-72:20",
+      "decision": "Keep Book II's thirst, communal loss, royal hope, justice, and praise together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "73:1-89:52",
+      "decision": "Preserve Book III's crisis of justice, sanctuary insight, communal devastation, and covenant protest.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "90:1-106:48",
+      "decision": "Keep Book IV's answer in divine kingship, human frailty, creation, memory, and praise.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "107:1-145:21",
+      "decision": "Retain Book V's thanksgiving, Torah, pilgrimage, lament, royal hope, and acrostic praise.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "137:1-9",
+      "decision": "Translate exile's grief and the final violent imprecation honestly as traumatized prayer, not moral authorization.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "146:1-150:6",
+      "decision": "Preserve the final movement of trust, justice, creation, communal praise, and unrestrained doxology.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "source_binding_count": 2461,
+    "unique_source_record_count": 2527,
+    "public_verse_slots": 2461,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 2461
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "001": {
+        "path": "books/OT/psalms/Psalm_001.md",
+        "blob_sha": "508c2af2e9d583ec5f885dbdff5a27c700c65ac4"
+      },
+      "002": {
+        "path": "books/OT/psalms/Psalm_002.md",
+        "blob_sha": "c56a7338adafe7298e5928675b9a2fa38d7a77d3"
+      },
+      "003": {
+        "path": "books/OT/psalms/Psalm_003.md",
+        "blob_sha": "6cb928f8363013c1c4b371605acbd85c6eb82145"
+      },
+      "004": {
+        "path": "books/OT/psalms/Psalm_004.md",
+        "blob_sha": "e7e9a8a2415929474ffba8f37702651b6c3cf272"
+      },
+      "005": {
+        "path": "books/OT/psalms/Psalm_005.md",
+        "blob_sha": "bcc992431c6e9aff6b03c4c9315104b48f01abfa"
+      },
+      "006": {
+        "path": "books/OT/psalms/Psalm_006.md",
+        "blob_sha": "f9f1c36cd743193c74e97241fe177df2669b934c"
+      },
+      "007": {
+        "path": "books/OT/psalms/Psalm_007.md",
+        "blob_sha": "e6efb9d971edcfc9672f3c51f92d1302b15648e9"
+      },
+      "008": {
+        "path": "books/OT/psalms/Psalm_008.md",
+        "blob_sha": "f6d6106976aaaed0e2e400d0b35b080a0db934cb"
+      },
+      "009": {
+        "path": "books/OT/psalms/Psalm_009.md",
+        "blob_sha": "4e0bda3730b4b451f8d91852a575fba82794567e"
+      },
+      "010": {
+        "path": "books/OT/psalms/Psalm_010.md",
+        "blob_sha": "69c9adcf79ce80c6f0e906afafdd34cf55ef546d"
+      },
+      "011": {
+        "path": "books/OT/psalms/Psalm_011.md",
+        "blob_sha": "8106c22d20c16ea05fdef73b0590a803d9be15da"
+      },
+      "012": {
+        "path": "books/OT/psalms/Psalm_012.md",
+        "blob_sha": "c606436ac9b0a9d4e1ef6ed7ce2aabd492052e37"
+      },
+      "013": {
+        "path": "books/OT/psalms/Psalm_013.md",
+        "blob_sha": "9ae4584cf6f10c78e6f0a778750f9ca1bab99bdc"
+      },
+      "014": {
+        "path": "books/OT/psalms/Psalm_014.md",
+        "blob_sha": "29eea1ba7923a45179321644da0d8b5fdee901cd"
+      },
+      "015": {
+        "path": "books/OT/psalms/Psalm_015.md",
+        "blob_sha": "4114e25b294ef843c1c79da78e955bca185da3c3"
+      },
+      "016": {
+        "path": "books/OT/psalms/Psalm_016.md",
+        "blob_sha": "af45c14c60da5ffca6061bc22a5d6c1c6660234d"
+      },
+      "017": {
+        "path": "books/OT/psalms/Psalm_017.md",
+        "blob_sha": "78f3759e4ce9d8e4618297e8e3d418b2262785bf"
+      },
+      "018": {
+        "path": "books/OT/psalms/Psalm_018.md",
+        "blob_sha": "28f24d42e34bafd6cbcab9be3d175016f3c5c30b"
+      },
+      "019": {
+        "path": "books/OT/psalms/Psalm_019.md",
+        "blob_sha": "566ddcd2bff66f1d86680aa1714805affa8b2cae"
+      },
+      "020": {
+        "path": "books/OT/psalms/Psalm_020.md",
+        "blob_sha": "1c433aaafc50ebeb7335d0ec6777b99cf3996ad3"
+      },
+      "021": {
+        "path": "books/OT/psalms/Psalm_021.md",
+        "blob_sha": "764e5cefca5e097a3e7705388792354b05ef2dd3"
+      },
+      "022": {
+        "path": "books/OT/psalms/Psalm_022.md",
+        "blob_sha": "b61adc49cabb7c7eaf93561fa06d6ff036b6b4b7"
+      },
+      "023": {
+        "path": "books/OT/psalms/Psalm_023.md",
+        "blob_sha": "c76fe15cfbdded784ce4c2060ec0086611986956"
+      },
+      "024": {
+        "path": "books/OT/psalms/Psalm_024.md",
+        "blob_sha": "2f8f4188d4a1043b56f7e234d551494b00cc5f2b"
+      },
+      "025": {
+        "path": "books/OT/psalms/Psalm_025.md",
+        "blob_sha": "ed6d4d6f3b7167c4199b6e5f2a33e896fa5e19d0"
+      },
+      "026": {
+        "path": "books/OT/psalms/Psalm_026.md",
+        "blob_sha": "7061cd8f5851305601cc33574f266d76de77d30c"
+      },
+      "027": {
+        "path": "books/OT/psalms/Psalm_027.md",
+        "blob_sha": "6fcabeea5fff309bbe546e3c4c41f20633614722"
+      },
+      "028": {
+        "path": "books/OT/psalms/Psalm_028.md",
+        "blob_sha": "0944a41a7626aaa85bd6cdc5950146cac9e1b75b"
+      },
+      "029": {
+        "path": "books/OT/psalms/Psalm_029.md",
+        "blob_sha": "b0f3f768fdd9c8e78b583cb27677229e90d2822e"
+      },
+      "030": {
+        "path": "books/OT/psalms/Psalm_030.md",
+        "blob_sha": "a56bc3a378e78795e17ed6274371429994883100"
+      },
+      "031": {
+        "path": "books/OT/psalms/Psalm_031.md",
+        "blob_sha": "38b643e8014d4371439bdcd157b7276bc6fd7f82"
+      },
+      "032": {
+        "path": "books/OT/psalms/Psalm_032.md",
+        "blob_sha": "ab9d83cbe75e74685621ada40b43eee004a8e2b0"
+      },
+      "033": {
+        "path": "books/OT/psalms/Psalm_033.md",
+        "blob_sha": "7ac4e34f39213cedfca0b4b1e3ce5dbb4fb64b66"
+      },
+      "034": {
+        "path": "books/OT/psalms/Psalm_034.md",
+        "blob_sha": "6f387ccf9365e2ddb047ec43fbaa36c044a27adf"
+      },
+      "035": {
+        "path": "books/OT/psalms/Psalm_035.md",
+        "blob_sha": "82f7949a3247b6f61432c638a9bce373518044c1"
+      },
+      "036": {
+        "path": "books/OT/psalms/Psalm_036.md",
+        "blob_sha": "9d58115db1818033a54445c9e747e6349e46439b"
+      },
+      "037": {
+        "path": "books/OT/psalms/Psalm_037.md",
+        "blob_sha": "7aa368eabce490dc071e6e1fcdff735f048e1e8c"
+      },
+      "038": {
+        "path": "books/OT/psalms/Psalm_038.md",
+        "blob_sha": "69faa55ba30721eb95675a6b0567996670e98b55"
+      },
+      "039": {
+        "path": "books/OT/psalms/Psalm_039.md",
+        "blob_sha": "aa251e9ed0165ce8371efc397d5a2a1975b1ad0b"
+      },
+      "040": {
+        "path": "books/OT/psalms/Psalm_040.md",
+        "blob_sha": "6aba2193ac9323b42d8c2c569968f14829bac0c5"
+      },
+      "041": {
+        "path": "books/OT/psalms/Psalm_041.md",
+        "blob_sha": "ee2c9a88dd9d9fac1c9cf41d23b5cbbad7f44e29"
+      },
+      "042": {
+        "path": "books/OT/psalms/Psalm_042.md",
+        "blob_sha": "bd9450275106ea36b46b22c11dc16d7d18007919"
+      },
+      "043": {
+        "path": "books/OT/psalms/Psalm_043.md",
+        "blob_sha": "0e055b1eb55f21d689a2fbe1dec84d115262779c"
+      },
+      "044": {
+        "path": "books/OT/psalms/Psalm_044.md",
+        "blob_sha": "7a4462c3375802e2175a3653c974fc610c169c73"
+      },
+      "045": {
+        "path": "books/OT/psalms/Psalm_045.md",
+        "blob_sha": "f785bd44c1cefd3223781f0d40b1e787400e383a"
+      },
+      "046": {
+        "path": "books/OT/psalms/Psalm_046.md",
+        "blob_sha": "e3a6274486b62f57a9424709fc3548521d976c63"
+      },
+      "047": {
+        "path": "books/OT/psalms/Psalm_047.md",
+        "blob_sha": "46e9a516f1afec5f868d8fd7941518eb7468a0b7"
+      },
+      "048": {
+        "path": "books/OT/psalms/Psalm_048.md",
+        "blob_sha": "b407989ba2ab1ba60aa6a4197697ec402114e8f3"
+      },
+      "049": {
+        "path": "books/OT/psalms/Psalm_049.md",
+        "blob_sha": "6dbcd224c9c27affbfedaf1f80cfc4fdb4e2d4d6"
+      },
+      "050": {
+        "path": "books/OT/psalms/Psalm_050.md",
+        "blob_sha": "623e1a149d4b0b0b945a18505cf55ced1a5da341"
+      },
+      "051": {
+        "path": "books/OT/psalms/Psalm_051.md",
+        "blob_sha": "7c6c0ed10c8fd658d0e5ce38bdfc9c7865327b3c"
+      },
+      "052": {
+        "path": "books/OT/psalms/Psalm_052.md",
+        "blob_sha": "5171e0872ebe3c53f329f5200b43c48a18b7ffc7"
+      },
+      "053": {
+        "path": "books/OT/psalms/Psalm_053.md",
+        "blob_sha": "d74c59a5e50d952cb2fc0de62b07bf1acb503df5"
+      },
+      "054": {
+        "path": "books/OT/psalms/Psalm_054.md",
+        "blob_sha": "58f52132f9298ac8951ca16a32362e497857c888"
+      },
+      "055": {
+        "path": "books/OT/psalms/Psalm_055.md",
+        "blob_sha": "fabb6bb940c6cf6713d872e0552667381c166cdc"
+      },
+      "056": {
+        "path": "books/OT/psalms/Psalm_056.md",
+        "blob_sha": "9780aa4a29f268103041ad8e51373ad8a233151b"
+      },
+      "057": {
+        "path": "books/OT/psalms/Psalm_057.md",
+        "blob_sha": "d1d61573ef7c5ffe76e2d786d490a208319e2b98"
+      },
+      "058": {
+        "path": "books/OT/psalms/Psalm_058.md",
+        "blob_sha": "4c56053940ab40c82984c5c827a3e363c70af02b"
+      },
+      "059": {
+        "path": "books/OT/psalms/Psalm_059.md",
+        "blob_sha": "abe71ed4ccbb4981d018f4e76d121f0f73964d1d"
+      },
+      "060": {
+        "path": "books/OT/psalms/Psalm_060.md",
+        "blob_sha": "1e19de02cf0c492edc19934da392f41a38858d76"
+      },
+      "061": {
+        "path": "books/OT/psalms/Psalm_061.md",
+        "blob_sha": "479f177929ca50f97d9ce7765de3be71e0832434"
+      },
+      "062": {
+        "path": "books/OT/psalms/Psalm_062.md",
+        "blob_sha": "170ded2337c14df299ef34b4679d004f6ac15275"
+      },
+      "063": {
+        "path": "books/OT/psalms/Psalm_063.md",
+        "blob_sha": "fd81d593e4278e6a59bc79c961e46c331a67951c"
+      },
+      "064": {
+        "path": "books/OT/psalms/Psalm_064.md",
+        "blob_sha": "1159cb3ee9abf38a789295edd271c3a520e664ee"
+      },
+      "065": {
+        "path": "books/OT/psalms/Psalm_065.md",
+        "blob_sha": "64a0ee8330f78d315009dbe4d2a53dc0de25cdba"
+      },
+      "066": {
+        "path": "books/OT/psalms/Psalm_066.md",
+        "blob_sha": "78bad7cda14fe595d5a4c760910f87065e7cc6f2"
+      },
+      "067": {
+        "path": "books/OT/psalms/Psalm_067.md",
+        "blob_sha": "fc236c0ee8dad0ded5243d737c35d2f768271be7"
+      },
+      "068": {
+        "path": "books/OT/psalms/Psalm_068.md",
+        "blob_sha": "72fa775324aa24fe34e87335b3ff00e569bb9a65"
+      },
+      "069": {
+        "path": "books/OT/psalms/Psalm_069.md",
+        "blob_sha": "c0d4f77e628e3cb0292580fc51d2e0e816efa39a"
+      },
+      "070": {
+        "path": "books/OT/psalms/Psalm_070.md",
+        "blob_sha": "b1ac9d6938aa1273c98569248f99c772de88f728"
+      },
+      "071": {
+        "path": "books/OT/psalms/Psalm_071.md",
+        "blob_sha": "bb504bf18649f1c5064eb4aa828f43da41af667a"
+      },
+      "072": {
+        "path": "books/OT/psalms/Psalm_072.md",
+        "blob_sha": "402a278ac31a8d9ad582aed3ffc1c2a719e7af5c"
+      },
+      "073": {
+        "path": "books/OT/psalms/Psalm_073.md",
+        "blob_sha": "3afc0d8e9f63532f9bd233afe9b0b37b9c43d48d"
+      },
+      "074": {
+        "path": "books/OT/psalms/Psalm_074.md",
+        "blob_sha": "fc3892b96e802176d76763e6f9cac0d29c3fb799"
+      },
+      "075": {
+        "path": "books/OT/psalms/Psalm_075.md",
+        "blob_sha": "5b4dd47119af822ca1bc589fe624def2fe7485e5"
+      },
+      "076": {
+        "path": "books/OT/psalms/Psalm_076.md",
+        "blob_sha": "68317f2a2f24f86b7fbd51d222402b2d51ca32d2"
+      },
+      "077": {
+        "path": "books/OT/psalms/Psalm_077.md",
+        "blob_sha": "3d63e7a39e01ca0032cbe8b8d5ac99b00d3b684f"
+      },
+      "078": {
+        "path": "books/OT/psalms/Psalm_078.md",
+        "blob_sha": "2eeb87aacb318bd1c24ca8efc325a0bfd3ec432b"
+      },
+      "079": {
+        "path": "books/OT/psalms/Psalm_079.md",
+        "blob_sha": "25e0cceb73a38212a791dad547294dcf0fec767d"
+      },
+      "080": {
+        "path": "books/OT/psalms/Psalm_080.md",
+        "blob_sha": "64af139dc523a885cbd792bb9718149260f9739d"
+      },
+      "081": {
+        "path": "books/OT/psalms/Psalm_081.md",
+        "blob_sha": "84d42ba50cd0e7698b2e350d084c2f4fb555c215"
+      },
+      "082": {
+        "path": "books/OT/psalms/Psalm_082.md",
+        "blob_sha": "3aedc0977531a069c8c8d9b96d17651448ee471d"
+      },
+      "083": {
+        "path": "books/OT/psalms/Psalm_083.md",
+        "blob_sha": "86cb253b0b11fda4a0bffceaaf33a17d64147535"
+      },
+      "084": {
+        "path": "books/OT/psalms/Psalm_084.md",
+        "blob_sha": "08d81791ea992592434148457de2a172bc1272ed"
+      },
+      "085": {
+        "path": "books/OT/psalms/Psalm_085.md",
+        "blob_sha": "863e7af3a1e0a3a59742a9aaf2e4b99809a5ffa3"
+      },
+      "086": {
+        "path": "books/OT/psalms/Psalm_086.md",
+        "blob_sha": "783c7a2b5fd138e24b69afe1e734e8b76989c266"
+      },
+      "087": {
+        "path": "books/OT/psalms/Psalm_087.md",
+        "blob_sha": "df892145478be3968f6398d93ddbdcfb4a96e209"
+      },
+      "088": {
+        "path": "books/OT/psalms/Psalm_088.md",
+        "blob_sha": "72b90aed7173d8613e2a6ee4073d522d6719ef5a"
+      },
+      "089": {
+        "path": "books/OT/psalms/Psalm_089.md",
+        "blob_sha": "67047de48f4ef5cdda63f15673323a5f428ade01"
+      },
+      "090": {
+        "path": "books/OT/psalms/Psalm_090.md",
+        "blob_sha": "58e738d39716cdac08a96aac4f08cab3c22faaa1"
+      },
+      "091": {
+        "path": "books/OT/psalms/Psalm_091.md",
+        "blob_sha": "497552c91b19864585920f1d475e1b700707b335"
+      },
+      "092": {
+        "path": "books/OT/psalms/Psalm_092.md",
+        "blob_sha": "683ced75029333cea407b5d5275a543fd21b54e0"
+      },
+      "093": {
+        "path": "books/OT/psalms/Psalm_093.md",
+        "blob_sha": "7c03f6c8a52e8163edde6d2b53a81cbc23eb08a5"
+      },
+      "094": {
+        "path": "books/OT/psalms/Psalm_094.md",
+        "blob_sha": "baf0fd0d0d7f058a587a633ce3dd6bba03a533d9"
+      },
+      "095": {
+        "path": "books/OT/psalms/Psalm_095.md",
+        "blob_sha": "6bbf37bef70fd418dd9c7e8cbdfc4fe2034896be"
+      },
+      "096": {
+        "path": "books/OT/psalms/Psalm_096.md",
+        "blob_sha": "637e679410042b5898b018682eaaf941e1eb2a15"
+      },
+      "097": {
+        "path": "books/OT/psalms/Psalm_097.md",
+        "blob_sha": "367ec42f933a7a9fe5cc6f41260864ac2c9d9c7f"
+      },
+      "098": {
+        "path": "books/OT/psalms/Psalm_098.md",
+        "blob_sha": "7802b661e4a578018dba7c2c4cc29cefe68b850c"
+      },
+      "099": {
+        "path": "books/OT/psalms/Psalm_099.md",
+        "blob_sha": "3cbd8938052dab75f762e84b743e38f05fb1335e"
+      },
+      "100": {
+        "path": "books/OT/psalms/Psalm_100.md",
+        "blob_sha": "d4a3345e29293e8234b79d6f67ba46d4dadbbd2f"
+      },
+      "101": {
+        "path": "books/OT/psalms/Psalm_101.md",
+        "blob_sha": "7a673f30d488e2f55a0875870d956d59e10f097b"
+      },
+      "102": {
+        "path": "books/OT/psalms/Psalm_102.md",
+        "blob_sha": "95719443940140dbd020dbf4ae81230baab37749"
+      },
+      "103": {
+        "path": "books/OT/psalms/Psalm_103.md",
+        "blob_sha": "b135c5e9267e7a8b3fba46824987991245a0b55b"
+      },
+      "104": {
+        "path": "books/OT/psalms/Psalm_104.md",
+        "blob_sha": "11463c148ad8f86aae849cba8f9c2397d9ce9375"
+      },
+      "105": {
+        "path": "books/OT/psalms/Psalm_105.md",
+        "blob_sha": "effd0c7b4cd357556b4fbb84c63592e4d938e01a"
+      },
+      "106": {
+        "path": "books/OT/psalms/Psalm_106.md",
+        "blob_sha": "06f7c8db46f0dcc73b45dc7d81f050a4bdb81f23"
+      },
+      "107": {
+        "path": "books/OT/psalms/Psalm_107.md",
+        "blob_sha": "14d65b264c2d07f130033a116556685b65d758da"
+      },
+      "108": {
+        "path": "books/OT/psalms/Psalm_108.md",
+        "blob_sha": "7996d491ece45bf56c347368f5488de2f2e17400"
+      },
+      "109": {
+        "path": "books/OT/psalms/Psalm_109.md",
+        "blob_sha": "876347825c49457d3b4e8b9ea08ec3014da15d78"
+      },
+      "110": {
+        "path": "books/OT/psalms/Psalm_110.md",
+        "blob_sha": "a5655cfbcaf70199c541b295e947853c591894af"
+      },
+      "111": {
+        "path": "books/OT/psalms/Psalm_111.md",
+        "blob_sha": "6b4a2eaa5c64a85c6f5a30b229e51955f9ce4046"
+      },
+      "112": {
+        "path": "books/OT/psalms/Psalm_112.md",
+        "blob_sha": "1efed97756b7a80c0818ec2cfa2abd69181ffea6"
+      },
+      "113": {
+        "path": "books/OT/psalms/Psalm_113.md",
+        "blob_sha": "c1038e8dd69f9b5155e2d148659a174110602adc"
+      },
+      "114": {
+        "path": "books/OT/psalms/Psalm_114.md",
+        "blob_sha": "87addfe23f91fb29a9f25309b23de7eff1159ce8"
+      },
+      "115": {
+        "path": "books/OT/psalms/Psalm_115.md",
+        "blob_sha": "111b73b2169fbe292ce34938a52c8e90252e741d"
+      },
+      "116": {
+        "path": "books/OT/psalms/Psalm_116.md",
+        "blob_sha": "9df3a1f430ec6df6cc3f0e2ffaab7aa500a2a207"
+      },
+      "117": {
+        "path": "books/OT/psalms/Psalm_117.md",
+        "blob_sha": "a1ea2bf82ec6a965edfb676a9535c323ac1339bc"
+      },
+      "118": {
+        "path": "books/OT/psalms/Psalm_118.md",
+        "blob_sha": "28e8f9d025abc256dd3eb0f41d39fe22a8c8b183"
+      },
+      "119": {
+        "path": "books/OT/psalms/Psalm_119.md",
+        "blob_sha": "a0a0ea45913ea643a6be25ae29efab985627619a"
+      },
+      "120": {
+        "path": "books/OT/psalms/Psalm_120.md",
+        "blob_sha": "68f2e48272b90d033b8d77848fc99f6f3ce18124"
+      },
+      "121": {
+        "path": "books/OT/psalms/Psalm_121.md",
+        "blob_sha": "7c830bc5ca1dbdce0fc6bbbcf9ce540df9698616"
+      },
+      "122": {
+        "path": "books/OT/psalms/Psalm_122.md",
+        "blob_sha": "9602b5d87dbada6d4c3ca7f8974dede31f5c9cc0"
+      },
+      "123": {
+        "path": "books/OT/psalms/Psalm_123.md",
+        "blob_sha": "717cfd1e88814f1aa2cfbce1956d5cd417646b5d"
+      },
+      "124": {
+        "path": "books/OT/psalms/Psalm_124.md",
+        "blob_sha": "a116344674834679f39b6952f867804c7c0a209d"
+      },
+      "125": {
+        "path": "books/OT/psalms/Psalm_125.md",
+        "blob_sha": "e84a0241c959462c4802bc3efa16db153dbe3c70"
+      },
+      "126": {
+        "path": "books/OT/psalms/Psalm_126.md",
+        "blob_sha": "689544d1a2c3791fcfcef60f41efd5e7440df6da"
+      },
+      "127": {
+        "path": "books/OT/psalms/Psalm_127.md",
+        "blob_sha": "8c5c3912e296998eabf81ef45bdba43ee6998205"
+      },
+      "128": {
+        "path": "books/OT/psalms/Psalm_128.md",
+        "blob_sha": "7c1efdd3dc4ba2762e1a0b3ef734efb2347b1bb0"
+      },
+      "129": {
+        "path": "books/OT/psalms/Psalm_129.md",
+        "blob_sha": "6fc7204ad7b686692f6f4e4ea94b80a4f9c6292d"
+      },
+      "130": {
+        "path": "books/OT/psalms/Psalm_130.md",
+        "blob_sha": "92d7fa155de0bb0162e97f71e301a24e7644d064"
+      },
+      "131": {
+        "path": "books/OT/psalms/Psalm_131.md",
+        "blob_sha": "af71f9838e147c7487e453850683e10745647b6d"
+      },
+      "132": {
+        "path": "books/OT/psalms/Psalm_132.md",
+        "blob_sha": "2cb38cc68fdbd7eac559e100f96b2a35a18e3b68"
+      },
+      "133": {
+        "path": "books/OT/psalms/Psalm_133.md",
+        "blob_sha": "0e2cc9435b8901b97d539a28575ed1e61a99ca67"
+      },
+      "134": {
+        "path": "books/OT/psalms/Psalm_134.md",
+        "blob_sha": "b03d5b520d25665c93846d8c280d4ecd3bc30429"
+      },
+      "135": {
+        "path": "books/OT/psalms/Psalm_135.md",
+        "blob_sha": "c63044254c972037235c0fcc049cd7606597afcf"
+      },
+      "136": {
+        "path": "books/OT/psalms/Psalm_136.md",
+        "blob_sha": "28de120f4c6b6deab9e647fbc626dfec8d5921a0"
+      },
+      "137": {
+        "path": "books/OT/psalms/Psalm_137.md",
+        "blob_sha": "56ab23bfbf1802345f47c1535d27cc81b7e84417"
+      },
+      "138": {
+        "path": "books/OT/psalms/Psalm_138.md",
+        "blob_sha": "a61a892b1833ca68c1e96d403f69384b45e7d19a"
+      },
+      "139": {
+        "path": "books/OT/psalms/Psalm_139.md",
+        "blob_sha": "89b73c9cc5976e526b1b98afdd9f87d472581439"
+      },
+      "140": {
+        "path": "books/OT/psalms/Psalm_140.md",
+        "blob_sha": "d5b29838d8a9c902fbe5ac497de36e2f7a46e5f4"
+      },
+      "141": {
+        "path": "books/OT/psalms/Psalm_141.md",
+        "blob_sha": "65555fc1383bc905941d94513a1928e93725b4c7"
+      },
+      "142": {
+        "path": "books/OT/psalms/Psalm_142.md",
+        "blob_sha": "58f959f58c97d8a69f24a788ef95a7165e03b50a"
+      },
+      "143": {
+        "path": "books/OT/psalms/Psalm_143.md",
+        "blob_sha": "1729ea1aa1248b44f049d24b175bccef45b6786c"
+      },
+      "144": {
+        "path": "books/OT/psalms/Psalm_144.md",
+        "blob_sha": "8acd352fca0ab34ee4cbf16ec40d1be317a9c460"
+      },
+      "145": {
+        "path": "books/OT/psalms/Psalm_145.md",
+        "blob_sha": "c035e9885e2db0a01c1676530ced045e7e960aab"
+      },
+      "146": {
+        "path": "books/OT/psalms/Psalm_146.md",
+        "blob_sha": "f326bca15bcaef7f647868c846c83962e1c39a87"
+      },
+      "147": {
+        "path": "books/OT/psalms/Psalm_147.md",
+        "blob_sha": "288b253d03c81f0f596bb642eed27255e09f7a98"
+      },
+      "148": {
+        "path": "books/OT/psalms/Psalm_148.md",
+        "blob_sha": "fa7ceb55dd57f2923d915b29ac3902bd2d6e1dca"
+      },
+      "149": {
+        "path": "books/OT/psalms/Psalm_149.md",
+        "blob_sha": "7f396218ff4fe57be6c1d925711defdf6b0141d8"
+      },
+      "150": {
+        "path": "books/OT/psalms/Psalm_150.md",
+        "blob_sha": "c146ea25acf1eb4225a2fdd781b7088ae42176e4"
+      }
+    }
+  }
+}

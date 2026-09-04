@@ -1,0 +1,148 @@
+{
+  "book": "Psalms",
+  "chapter": 14,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 14:1 (Hebrew; before kjv marker) + Psalms 14:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 1,
+            "source_ref": "Psalms 14:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "2692c00a47f2223665d9631d155392ae767b7ded5f75f26cf03964757586617d"
+          },
+          {
+            "chapter": 14,
+            "verse": 1,
+            "source_ref": "Psalms 14:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "cb21c70aaf35e827c9d7f96baeeea2916751b13120a2283be7a3cb321a1bf3e5"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "d1f89fded2005948f58722ec8cbc1628ead4623a9167b5aebb91fa2a1d41ffaa"
+      },
+      "2": {
+        "source_ref": "Psalms 14:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 2,
+            "source_ref": "Psalms 14:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e44caee0e16bbfcf672700b3978e1498d7db6d780a2a9b36e57488b08c98352d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e44caee0e16bbfcf672700b3978e1498d7db6d780a2a9b36e57488b08c98352d"
+      },
+      "3": {
+        "source_ref": "Psalms 14:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 3,
+            "source_ref": "Psalms 14:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bbb080bd2047ee22a9a6a1d51ca9212dca494fc9b9390a7b8ea57dda15c7697b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bbb080bd2047ee22a9a6a1d51ca9212dca494fc9b9390a7b8ea57dda15c7697b"
+      },
+      "4": {
+        "source_ref": "Psalms 14:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 4,
+            "source_ref": "Psalms 14:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "941ad0635d3455317de4b01b970e035f5b7498fc67b2c0ccdf8bf2ea0ea8c442"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "941ad0635d3455317de4b01b970e035f5b7498fc67b2c0ccdf8bf2ea0ea8c442"
+      },
+      "5": {
+        "source_ref": "Psalms 14:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 5,
+            "source_ref": "Psalms 14:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e1f9123afa31786b56de290306c88aa324387dfc24866fc7214796610e8d3801"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1f9123afa31786b56de290306c88aa324387dfc24866fc7214796610e8d3801"
+      },
+      "6": {
+        "source_ref": "Psalms 14:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 6,
+            "source_ref": "Psalms 14:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fa49430e26d54bb44e69e4980eee212fc9ada518cc9eb40ede4faa9d3eb7f508"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa49430e26d54bb44e69e4980eee212fc9ada518cc9eb40ede4faa9d3eb7f508"
+      },
+      "7": {
+        "source_ref": "Psalms 14:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 7,
+            "source_ref": "Psalms 14:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb49c7ca2e75603c947a38533bfbf754e5716c9e6146c748d3b7b2f76f5743c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb49c7ca2e75603c947a38533bfbf754e5716c9e6146c748d3b7b2f76f5743c1"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_014.md",
+    "blob_sha": "29eea1ba7923a45179321644da0d8b5fdee901cd"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

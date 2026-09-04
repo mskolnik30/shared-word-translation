@@ -1,0 +1,208 @@
+{
+  "book": "Psalms",
+  "chapter": 57,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 57:1 (Hebrew; whole) + Psalms 57:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 1,
+            "source_ref": "Psalms 57:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "28713f656fbee7211b242a250ae2d2f3d5eed59bc4658bf7436e730726d5ac8e"
+          },
+          {
+            "chapter": 57,
+            "verse": 2,
+            "source_ref": "Psalms 57:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f2f6ada858016134ae5ff2363b4f11ae0f21fa754436308db56ccf7418542228"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "adc067b7e5996440e1d3d0947574d3a7688b7d0c5f169cb707cd0c48460d3117"
+      },
+      "2": {
+        "source_ref": "Psalms 57:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 3,
+            "source_ref": "Psalms 57:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9904f2f154251df8593c190ae1ac8c5d3e21a263df76a77ace488dff8b03d6aa"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9904f2f154251df8593c190ae1ac8c5d3e21a263df76a77ace488dff8b03d6aa"
+      },
+      "3": {
+        "source_ref": "Psalms 57:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 4,
+            "source_ref": "Psalms 57:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f40b876878938b5258c6d453384627c1080ae787509769920a0460f3a4f463db"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f40b876878938b5258c6d453384627c1080ae787509769920a0460f3a4f463db"
+      },
+      "4": {
+        "source_ref": "Psalms 57:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 5,
+            "source_ref": "Psalms 57:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ad0a21aae284dc8486fb853ed5bbd4fca2c8b8288aa8c05b07796151b6be7031"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ad0a21aae284dc8486fb853ed5bbd4fca2c8b8288aa8c05b07796151b6be7031"
+      },
+      "5": {
+        "source_ref": "Psalms 57:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 6,
+            "source_ref": "Psalms 57:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fb6e667bc5d74a7aca038171db1c8d1c8414167c061be90e3c2c060b77870860"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fb6e667bc5d74a7aca038171db1c8d1c8414167c061be90e3c2c060b77870860"
+      },
+      "6": {
+        "source_ref": "Psalms 57:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 7,
+            "source_ref": "Psalms 57:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "763772ce13c8469f3dcc26a0a7ac82cf82c2cbfa45271c20a5caedfebe67e313"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "763772ce13c8469f3dcc26a0a7ac82cf82c2cbfa45271c20a5caedfebe67e313"
+      },
+      "7": {
+        "source_ref": "Psalms 57:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 8,
+            "source_ref": "Psalms 57:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5e9fe17fb1e276d43827f4242162253ff4e30f1455354ddda425c75745373b75"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5e9fe17fb1e276d43827f4242162253ff4e30f1455354ddda425c75745373b75"
+      },
+      "8": {
+        "source_ref": "Psalms 57:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 9,
+            "source_ref": "Psalms 57:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "de6f1ef5d3c79d6a54a68c1d465752c740d8e3bff4b04f51a0f6b3fffc82f262"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "de6f1ef5d3c79d6a54a68c1d465752c740d8e3bff4b04f51a0f6b3fffc82f262"
+      },
+      "9": {
+        "source_ref": "Psalms 57:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 10,
+            "source_ref": "Psalms 57:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e3cd533ebf6c6e18c218fd2c993086a1ef48b5b7caac5b7249c459a654b0858a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e3cd533ebf6c6e18c218fd2c993086a1ef48b5b7caac5b7249c459a654b0858a"
+      },
+      "10": {
+        "source_ref": "Psalms 57:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 11,
+            "source_ref": "Psalms 57:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4e37ebde17ecc75e031263d3dc89e3e5c669497b859c7d9f386185439d1d2355"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4e37ebde17ecc75e031263d3dc89e3e5c669497b859c7d9f386185439d1d2355"
+      },
+      "11": {
+        "source_ref": "Psalms 57:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 57,
+            "verse": 12,
+            "source_ref": "Psalms 57:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "39a861e2e4cac4a319bba0adce3d042a54d0fab65cb37bbf64a07a8a0cf75807"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "39a861e2e4cac4a319bba0adce3d042a54d0fab65cb37bbf64a07a8a0cf75807"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_057.md",
+    "blob_sha": "d1d61573ef7c5ffe76e2d786d490a208319e2b98"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

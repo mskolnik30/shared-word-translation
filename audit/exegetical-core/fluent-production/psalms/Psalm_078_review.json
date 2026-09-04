@@ -1,0 +1,1123 @@
+{
+  "book": "Psalms",
+  "chapter": 78,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 78:1 (Hebrew; before kjv marker) + Psalms 78:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 1,
+            "source_ref": "Psalms 78:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "4dbd3ddf1b8a3bd25698cdb95b536e157ff69ff2dded38b7c8fc2c80f231b0d9"
+          },
+          {
+            "chapter": 78,
+            "verse": 1,
+            "source_ref": "Psalms 78:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "688799c9fb672c03ec9facb5d147a5c6dfce22c6250412c9359fcb5d6a58e4bc"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "0821841708b112d08a5287e050157658377079f973435e6b16a7aba9752db8b5"
+      },
+      "2": {
+        "source_ref": "Psalms 78:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 2,
+            "source_ref": "Psalms 78:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c212492bb39c1e298ed94503996eb757da4fba081f1a02cd1c66d58e5866654"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c212492bb39c1e298ed94503996eb757da4fba081f1a02cd1c66d58e5866654"
+      },
+      "3": {
+        "source_ref": "Psalms 78:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 3,
+            "source_ref": "Psalms 78:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8afca98259ae83cdfa4fe287c2878e0e497dc7821af35aeecd8bea022f92a04e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8afca98259ae83cdfa4fe287c2878e0e497dc7821af35aeecd8bea022f92a04e"
+      },
+      "4": {
+        "source_ref": "Psalms 78:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 4,
+            "source_ref": "Psalms 78:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ba0e6adbcd232452945097cda5790bc66bbcdd119c77360cf04dc1b914c691fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba0e6adbcd232452945097cda5790bc66bbcdd119c77360cf04dc1b914c691fc"
+      },
+      "5": {
+        "source_ref": "Psalms 78:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 5,
+            "source_ref": "Psalms 78:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71b8d8a2550655c914931fa3ba4911e387d6f1a367df405a090a747bb078507f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71b8d8a2550655c914931fa3ba4911e387d6f1a367df405a090a747bb078507f"
+      },
+      "6": {
+        "source_ref": "Psalms 78:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 6,
+            "source_ref": "Psalms 78:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d79c9d2e47f3f5fafbe3956bb29737627adb9e3d2e32c72e2aea8f8d5b6680c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d79c9d2e47f3f5fafbe3956bb29737627adb9e3d2e32c72e2aea8f8d5b6680c"
+      },
+      "7": {
+        "source_ref": "Psalms 78:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 7,
+            "source_ref": "Psalms 78:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3ad3024ae3e1dbda09f6d94191243ff77ed052d335aa7423781137e9fddc021"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3ad3024ae3e1dbda09f6d94191243ff77ed052d335aa7423781137e9fddc021"
+      },
+      "8": {
+        "source_ref": "Psalms 78:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 8,
+            "source_ref": "Psalms 78:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e948862a6e68ae6b1e897d378d38707882a82cd86551985667917871f0f56d21"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e948862a6e68ae6b1e897d378d38707882a82cd86551985667917871f0f56d21"
+      },
+      "9": {
+        "source_ref": "Psalms 78:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 9,
+            "source_ref": "Psalms 78:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c721a6e860b4278b86eaa94cb4d963ecb5258417177902297f99d06f70cb698e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c721a6e860b4278b86eaa94cb4d963ecb5258417177902297f99d06f70cb698e"
+      },
+      "10": {
+        "source_ref": "Psalms 78:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 10,
+            "source_ref": "Psalms 78:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b76ceaf3781cbdeac937254515e171d441bac4167c82af32d652b3594dc715d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b76ceaf3781cbdeac937254515e171d441bac4167c82af32d652b3594dc715d5"
+      },
+      "11": {
+        "source_ref": "Psalms 78:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 11,
+            "source_ref": "Psalms 78:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5f6c586db040fcf6004a0daae87729eadfd6d5a651bec343e6522cdc08ba74a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f6c586db040fcf6004a0daae87729eadfd6d5a651bec343e6522cdc08ba74a7"
+      },
+      "12": {
+        "source_ref": "Psalms 78:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 12,
+            "source_ref": "Psalms 78:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a96bc7f0173d95ca924b90d39a047a7cd1c95da0dda13a676839a01cf105b224"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a96bc7f0173d95ca924b90d39a047a7cd1c95da0dda13a676839a01cf105b224"
+      },
+      "13": {
+        "source_ref": "Psalms 78:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 13,
+            "source_ref": "Psalms 78:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "41901e4eed90aea7d6cd806af8e532b0f3c220ceb6969eb723ca494c6a460c2f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41901e4eed90aea7d6cd806af8e532b0f3c220ceb6969eb723ca494c6a460c2f"
+      },
+      "14": {
+        "source_ref": "Psalms 78:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 14,
+            "source_ref": "Psalms 78:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "05b07f5eb2678ade8ab262a5431f708124911dea542bcf4f22e423c0f5b61a91"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "05b07f5eb2678ade8ab262a5431f708124911dea542bcf4f22e423c0f5b61a91"
+      },
+      "15": {
+        "source_ref": "Psalms 78:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 15,
+            "source_ref": "Psalms 78:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "41d58c2249f9842590bcfe2e5622ac0705412b12bef5df487f3421b7764dd6e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41d58c2249f9842590bcfe2e5622ac0705412b12bef5df487f3421b7764dd6e1"
+      },
+      "16": {
+        "source_ref": "Psalms 78:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 16,
+            "source_ref": "Psalms 78:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "03f822041866a8f2b0c9e9ed00794401e548a09cccb0bde1f4723a6f99607d7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03f822041866a8f2b0c9e9ed00794401e548a09cccb0bde1f4723a6f99607d7f"
+      },
+      "17": {
+        "source_ref": "Psalms 78:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 17,
+            "source_ref": "Psalms 78:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "680700c50b54a9136d8cb27d397de171b106e5afc2eed5b732b1a9e42f38765e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "680700c50b54a9136d8cb27d397de171b106e5afc2eed5b732b1a9e42f38765e"
+      },
+      "18": {
+        "source_ref": "Psalms 78:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 18,
+            "source_ref": "Psalms 78:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2073fe7cc52c12e6480d8f0bd290bdc6150ec3af182ff53a805580d2c018e494"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2073fe7cc52c12e6480d8f0bd290bdc6150ec3af182ff53a805580d2c018e494"
+      },
+      "19": {
+        "source_ref": "Psalms 78:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 19,
+            "source_ref": "Psalms 78:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ddc1f1ad77db5b2b2a11987a5029316f4c500ac4551348adcce79d376eab81df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ddc1f1ad77db5b2b2a11987a5029316f4c500ac4551348adcce79d376eab81df"
+      },
+      "20": {
+        "source_ref": "Psalms 78:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 20,
+            "source_ref": "Psalms 78:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8dbd9223e3bb7316b18b12e66007f16266d297f6b3aa2320632047e839b1cecc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8dbd9223e3bb7316b18b12e66007f16266d297f6b3aa2320632047e839b1cecc"
+      },
+      "21": {
+        "source_ref": "Psalms 78:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 21,
+            "source_ref": "Psalms 78:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fa69291b6aaa713f63b725827ed64bdb4c4f48672c4573155faf83b99bf56b45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa69291b6aaa713f63b725827ed64bdb4c4f48672c4573155faf83b99bf56b45"
+      },
+      "22": {
+        "source_ref": "Psalms 78:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 22,
+            "source_ref": "Psalms 78:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4e0d6bcc2048c3847143bfe3a5bd01e9c7e1a627fff832354f8cb486e93c576f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e0d6bcc2048c3847143bfe3a5bd01e9c7e1a627fff832354f8cb486e93c576f"
+      },
+      "23": {
+        "source_ref": "Psalms 78:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 23,
+            "source_ref": "Psalms 78:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "038d756c6534d424d3e00297dd33067209c239a181ed63b51bfdca92f1aac290"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "038d756c6534d424d3e00297dd33067209c239a181ed63b51bfdca92f1aac290"
+      },
+      "24": {
+        "source_ref": "Psalms 78:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 24,
+            "source_ref": "Psalms 78:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "154bca4ec10cec38bc32b3185b46f1935f80aabc0e7eb214484165d0d28af138"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "154bca4ec10cec38bc32b3185b46f1935f80aabc0e7eb214484165d0d28af138"
+      },
+      "25": {
+        "source_ref": "Psalms 78:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 25,
+            "source_ref": "Psalms 78:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac21382a13fc8fe0626fb9752c055de5e8c406d50b00c6b905d1260a8b2f2aa2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac21382a13fc8fe0626fb9752c055de5e8c406d50b00c6b905d1260a8b2f2aa2"
+      },
+      "26": {
+        "source_ref": "Psalms 78:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 26,
+            "source_ref": "Psalms 78:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1e33fbb74103545470ba3ca733a360edf1919ad36e176b5a4bebbc7cd2f47cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1e33fbb74103545470ba3ca733a360edf1919ad36e176b5a4bebbc7cd2f47cd"
+      },
+      "27": {
+        "source_ref": "Psalms 78:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 27,
+            "source_ref": "Psalms 78:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "00a4277e24cb27ebaf54f20e5a236e9b3a6f6e1995888fdcf0056d2c0e49e821"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00a4277e24cb27ebaf54f20e5a236e9b3a6f6e1995888fdcf0056d2c0e49e821"
+      },
+      "28": {
+        "source_ref": "Psalms 78:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 28,
+            "source_ref": "Psalms 78:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aa0cb31c1403b642bee0d76ade8e238a02c448a8c8916fe59aab01d0d1d4b1fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa0cb31c1403b642bee0d76ade8e238a02c448a8c8916fe59aab01d0d1d4b1fb"
+      },
+      "29": {
+        "source_ref": "Psalms 78:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 29,
+            "source_ref": "Psalms 78:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8268d18a1ede27f624ae7d4b3abf84208e26658a5c4d6db81440a9be0173ead7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8268d18a1ede27f624ae7d4b3abf84208e26658a5c4d6db81440a9be0173ead7"
+      },
+      "30": {
+        "source_ref": "Psalms 78:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 30,
+            "source_ref": "Psalms 78:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73cff35dc71d9203e1db676c36edb10d58e9799cada496eba19688cf9c6ad310"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73cff35dc71d9203e1db676c36edb10d58e9799cada496eba19688cf9c6ad310"
+      },
+      "31": {
+        "source_ref": "Psalms 78:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 31,
+            "source_ref": "Psalms 78:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "93eff53622397a0a6fc6c324ec7c31e25b45dc491238e8e79904d8c8f0851c03"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93eff53622397a0a6fc6c324ec7c31e25b45dc491238e8e79904d8c8f0851c03"
+      },
+      "32": {
+        "source_ref": "Psalms 78:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 32,
+            "source_ref": "Psalms 78:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ff114ea57a3d4a940186490f5942efc9f637ada8f19a91fbed09137d7fc61718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff114ea57a3d4a940186490f5942efc9f637ada8f19a91fbed09137d7fc61718"
+      },
+      "33": {
+        "source_ref": "Psalms 78:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 33,
+            "source_ref": "Psalms 78:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4c5359b29d4e60a402d159366c754eea28f7605635162baa9b5923f117c3acb7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c5359b29d4e60a402d159366c754eea28f7605635162baa9b5923f117c3acb7"
+      },
+      "34": {
+        "source_ref": "Psalms 78:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 34,
+            "source_ref": "Psalms 78:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7af09fe06d0949101b5cb6cbd2443a9b9f198eb66d285b4b286788ca01962934"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7af09fe06d0949101b5cb6cbd2443a9b9f198eb66d285b4b286788ca01962934"
+      },
+      "35": {
+        "source_ref": "Psalms 78:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 35,
+            "source_ref": "Psalms 78:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "94bd23dbff76e67fecd766ff1492beb364f3b6075007b311de577afdce52dfa9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94bd23dbff76e67fecd766ff1492beb364f3b6075007b311de577afdce52dfa9"
+      },
+      "36": {
+        "source_ref": "Psalms 78:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 36,
+            "source_ref": "Psalms 78:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dfd2d30be80c9b2c4a11c108cfd6e46cc53a4756e8d7fd9ab61be61eca3bfc61"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dfd2d30be80c9b2c4a11c108cfd6e46cc53a4756e8d7fd9ab61be61eca3bfc61"
+      },
+      "37": {
+        "source_ref": "Psalms 78:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 37,
+            "source_ref": "Psalms 78:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf709ab9d1588b0822c493a1f12e0b1957a0b9255d3903e726056686744ab98c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf709ab9d1588b0822c493a1f12e0b1957a0b9255d3903e726056686744ab98c"
+      },
+      "38": {
+        "source_ref": "Psalms 78:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 38,
+            "source_ref": "Psalms 78:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "87f4cd071d25a412e2b2981e740d1c620d5c4090ad06829c6ac869925ce497c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87f4cd071d25a412e2b2981e740d1c620d5c4090ad06829c6ac869925ce497c8"
+      },
+      "39": {
+        "source_ref": "Psalms 78:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 39,
+            "source_ref": "Psalms 78:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "06f7564cb42cfcefddb31e02673c135a64ef57c98995fbc56a4ba99976f2cb6b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06f7564cb42cfcefddb31e02673c135a64ef57c98995fbc56a4ba99976f2cb6b"
+      },
+      "40": {
+        "source_ref": "Psalms 78:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 40,
+            "source_ref": "Psalms 78:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "86005a89118e91adb2919c2b3c3eb041afdb54b1d76a392108610d54dbab6efe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "86005a89118e91adb2919c2b3c3eb041afdb54b1d76a392108610d54dbab6efe"
+      },
+      "41": {
+        "source_ref": "Psalms 78:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 41,
+            "source_ref": "Psalms 78:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74affc8612edd2d80dacd99efd12a9ae2c5fa13e6fcf1bbd422903bb5c9de115"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74affc8612edd2d80dacd99efd12a9ae2c5fa13e6fcf1bbd422903bb5c9de115"
+      },
+      "42": {
+        "source_ref": "Psalms 78:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 42,
+            "source_ref": "Psalms 78:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "92488115e441450ab4f34e2e9c775648d0fc6bcb0c15ffa5ffe29ba7aa9ca649"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "92488115e441450ab4f34e2e9c775648d0fc6bcb0c15ffa5ffe29ba7aa9ca649"
+      },
+      "43": {
+        "source_ref": "Psalms 78:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 43,
+            "source_ref": "Psalms 78:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1df7813fe2438d66bd89c09a9b12372dcba64e07ad59d9a6a8884d0472d70963"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1df7813fe2438d66bd89c09a9b12372dcba64e07ad59d9a6a8884d0472d70963"
+      },
+      "44": {
+        "source_ref": "Psalms 78:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 44,
+            "source_ref": "Psalms 78:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5ac18b6b8686bb330c09fa078d40a0469a6dbe41ab109a32e53249af1cce7343"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ac18b6b8686bb330c09fa078d40a0469a6dbe41ab109a32e53249af1cce7343"
+      },
+      "45": {
+        "source_ref": "Psalms 78:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 45,
+            "source_ref": "Psalms 78:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "868279fd1d6c69721ddedb2c784ec2736a35942e919c7c62e57c6d4699d2caf1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "868279fd1d6c69721ddedb2c784ec2736a35942e919c7c62e57c6d4699d2caf1"
+      },
+      "46": {
+        "source_ref": "Psalms 78:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 46,
+            "source_ref": "Psalms 78:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2980780c6d65b870bef8a6d445fa0b7923f8e75bcef5537bf17422b7d4809ad3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2980780c6d65b870bef8a6d445fa0b7923f8e75bcef5537bf17422b7d4809ad3"
+      },
+      "47": {
+        "source_ref": "Psalms 78:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 47,
+            "source_ref": "Psalms 78:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "887c3930906160a95c571238fed62247c4d27a6d9731e22c413e6fca4dbc3927"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "887c3930906160a95c571238fed62247c4d27a6d9731e22c413e6fca4dbc3927"
+      },
+      "48": {
+        "source_ref": "Psalms 78:48 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 48,
+            "source_ref": "Psalms 78:48 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f5c43c0f352542405f32933e4f99af8d8f16cc10971ef25c6a7a71271b45265a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5c43c0f352542405f32933e4f99af8d8f16cc10971ef25c6a7a71271b45265a"
+      },
+      "49": {
+        "source_ref": "Psalms 78:49 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 49,
+            "source_ref": "Psalms 78:49 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45756e30aaf0747d68af647cbf0cc0bcb512898c47f625573ca3bae162cd9b9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45756e30aaf0747d68af647cbf0cc0bcb512898c47f625573ca3bae162cd9b9b"
+      },
+      "50": {
+        "source_ref": "Psalms 78:50 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 50,
+            "source_ref": "Psalms 78:50 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dd70c5117b74097943539792cd969195fb42f6ec1c7f77af9b0ecb2c618a54cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd70c5117b74097943539792cd969195fb42f6ec1c7f77af9b0ecb2c618a54cb"
+      },
+      "51": {
+        "source_ref": "Psalms 78:51 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 51,
+            "source_ref": "Psalms 78:51 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "076c3f568624b089288859914437f9f5e6e5b58ceb99961245dbc06485747037"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "076c3f568624b089288859914437f9f5e6e5b58ceb99961245dbc06485747037"
+      },
+      "52": {
+        "source_ref": "Psalms 78:52 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 52,
+            "source_ref": "Psalms 78:52 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4c554add783be9c7cdf5f179d0a0f140087ff03873e1c44b2a92849b6c10e29f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c554add783be9c7cdf5f179d0a0f140087ff03873e1c44b2a92849b6c10e29f"
+      },
+      "53": {
+        "source_ref": "Psalms 78:53 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 53,
+            "source_ref": "Psalms 78:53 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "638f4bf156fb37df4a2b4240d4a883fa3061fc5137af9c83c04aeb091be70ae3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "638f4bf156fb37df4a2b4240d4a883fa3061fc5137af9c83c04aeb091be70ae3"
+      },
+      "54": {
+        "source_ref": "Psalms 78:54 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 54,
+            "source_ref": "Psalms 78:54 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14c8b6fa0691926ca96bc254ac9a9fa60c88d755d02dc0cea652b898a15e7a1e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14c8b6fa0691926ca96bc254ac9a9fa60c88d755d02dc0cea652b898a15e7a1e"
+      },
+      "55": {
+        "source_ref": "Psalms 78:55 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 55,
+            "source_ref": "Psalms 78:55 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f0e711e8057adb67424377c69475d2b527f493d5efa2cbe3fa22ace94ef04132"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0e711e8057adb67424377c69475d2b527f493d5efa2cbe3fa22ace94ef04132"
+      },
+      "56": {
+        "source_ref": "Psalms 78:56 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 56,
+            "source_ref": "Psalms 78:56 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b0ec7dd54b5e3da0a6b7f41327b7863337032f3a5922c319d573b24a5103037f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0ec7dd54b5e3da0a6b7f41327b7863337032f3a5922c319d573b24a5103037f"
+      },
+      "57": {
+        "source_ref": "Psalms 78:57 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 57,
+            "source_ref": "Psalms 78:57 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aa76dd9e98b8c247210c88dea0041fa3100c6dbd792652dd8bc43415b79a96a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa76dd9e98b8c247210c88dea0041fa3100c6dbd792652dd8bc43415b79a96a6"
+      },
+      "58": {
+        "source_ref": "Psalms 78:58 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 58,
+            "source_ref": "Psalms 78:58 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c4f957f3f457a777d36372a12e4dbf5ac3f086ccc9d184114dfff1330f15d41"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c4f957f3f457a777d36372a12e4dbf5ac3f086ccc9d184114dfff1330f15d41"
+      },
+      "59": {
+        "source_ref": "Psalms 78:59 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 59,
+            "source_ref": "Psalms 78:59 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f04e2f679c380ed345e93bc6ca89934d01ac092ac00900e7d6d7b67c5411f6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f04e2f679c380ed345e93bc6ca89934d01ac092ac00900e7d6d7b67c5411f6a"
+      },
+      "60": {
+        "source_ref": "Psalms 78:60 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 60,
+            "source_ref": "Psalms 78:60 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9cb0ce1e0f7a74a9c969e3127ea35bbfc07d911c29825215ad58acae9ad66399"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9cb0ce1e0f7a74a9c969e3127ea35bbfc07d911c29825215ad58acae9ad66399"
+      },
+      "61": {
+        "source_ref": "Psalms 78:61 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 61,
+            "source_ref": "Psalms 78:61 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c5e1e5eea87347fc4b015f45b56d594aeee41a6025b50cbc029b1971c3a8997"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c5e1e5eea87347fc4b015f45b56d594aeee41a6025b50cbc029b1971c3a8997"
+      },
+      "62": {
+        "source_ref": "Psalms 78:62 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 62,
+            "source_ref": "Psalms 78:62 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac4eee2eaf71f36f22d5467607717d6f0a302de64b77cf92bc29f66572474956"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac4eee2eaf71f36f22d5467607717d6f0a302de64b77cf92bc29f66572474956"
+      },
+      "63": {
+        "source_ref": "Psalms 78:63 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 63,
+            "source_ref": "Psalms 78:63 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73fb75f8a1159cd26d5c9997664c6e168adb84a9dcbf8923573985432fed5e46"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73fb75f8a1159cd26d5c9997664c6e168adb84a9dcbf8923573985432fed5e46"
+      },
+      "64": {
+        "source_ref": "Psalms 78:64 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 64,
+            "source_ref": "Psalms 78:64 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d280f4f31ae9345717221328939f60670cb3fc12653822e2143a54a16eeec40e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d280f4f31ae9345717221328939f60670cb3fc12653822e2143a54a16eeec40e"
+      },
+      "65": {
+        "source_ref": "Psalms 78:65 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 65,
+            "source_ref": "Psalms 78:65 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3365b6e7aacb2d63b05e0a753076e1f3e24eecc77e98ce00cb0e1efb77651c2e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3365b6e7aacb2d63b05e0a753076e1f3e24eecc77e98ce00cb0e1efb77651c2e"
+      },
+      "66": {
+        "source_ref": "Psalms 78:66 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 66,
+            "source_ref": "Psalms 78:66 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "46868f97d9177c725898033e8734c8f262dd6d20102ef3c6a60d81de7f1dd3f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46868f97d9177c725898033e8734c8f262dd6d20102ef3c6a60d81de7f1dd3f3"
+      },
+      "67": {
+        "source_ref": "Psalms 78:67 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 67,
+            "source_ref": "Psalms 78:67 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6202641f8f2e6ce3f02ecb26835fb58b8915d96ba6426568dfa2bbd7d068092c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6202641f8f2e6ce3f02ecb26835fb58b8915d96ba6426568dfa2bbd7d068092c"
+      },
+      "68": {
+        "source_ref": "Psalms 78:68 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 68,
+            "source_ref": "Psalms 78:68 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "06499ec1a2e25cc44efabee6c3448939b806304727cfe21151b58f0b5ddcbca9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06499ec1a2e25cc44efabee6c3448939b806304727cfe21151b58f0b5ddcbca9"
+      },
+      "69": {
+        "source_ref": "Psalms 78:69 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 69,
+            "source_ref": "Psalms 78:69 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "adbebb37319604cd588974969594548ef52c15d32a3a4f0faf4f609311f34778"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "adbebb37319604cd588974969594548ef52c15d32a3a4f0faf4f609311f34778"
+      },
+      "70": {
+        "source_ref": "Psalms 78:70 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 70,
+            "source_ref": "Psalms 78:70 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "00b5eb2d638ce6ef837125ca3e1a8decefe927e66d592f17cf8eca88e563b086"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00b5eb2d638ce6ef837125ca3e1a8decefe927e66d592f17cf8eca88e563b086"
+      },
+      "71": {
+        "source_ref": "Psalms 78:71 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 71,
+            "source_ref": "Psalms 78:71 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "59fefac4b053d0c0369dc0a6525cc39d531b20f4663e051689c0d3c35c34effb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59fefac4b053d0c0369dc0a6525cc39d531b20f4663e051689c0d3c35c34effb"
+      },
+      "72": {
+        "source_ref": "Psalms 78:72 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 78,
+            "verse": 72,
+            "source_ref": "Psalms 78:72 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0428cd46c6e6aeed8f84d3e2ada1579ce48c0a7b963cc8959d4bbe7c93dfd64a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0428cd46c6e6aeed8f84d3e2ada1579ce48c0a7b963cc8959d4bbe7c93dfd64a"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_078.md",
+    "blob_sha": "2eeb87aacb318bd1c24ca8efc325a0bfd3ec432b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

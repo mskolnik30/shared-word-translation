@@ -1,0 +1,373 @@
+{
+  "book": "Psalms",
+  "chapter": 38,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 38:1 (Hebrew; whole) + Psalms 38:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 1,
+            "source_ref": "Psalms 38:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "334687ffaa1acc2d5e1736c42941478f52ba57913dd736ef173d6cd08ebf4c49"
+          },
+          {
+            "chapter": 38,
+            "verse": 2,
+            "source_ref": "Psalms 38:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6611c0aa276a46f1ce62f32e2e2891b3abee3eac71518e387cfd5ca0f7f1f49b"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "7b9b300f484ff2a4787d0604fac829f8fcf3764db953b3ac9001fee17f3f6ce8"
+      },
+      "2": {
+        "source_ref": "Psalms 38:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 3,
+            "source_ref": "Psalms 38:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9181b381c089c65f23d8703a8af53187ecde575bd6c844f34d17d570c9eab82c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9181b381c089c65f23d8703a8af53187ecde575bd6c844f34d17d570c9eab82c"
+      },
+      "3": {
+        "source_ref": "Psalms 38:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 4,
+            "source_ref": "Psalms 38:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "514bb9e66c32595d6c21039dd21f149bcea89dfdb460a5c35a7e61626a8af52b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "514bb9e66c32595d6c21039dd21f149bcea89dfdb460a5c35a7e61626a8af52b"
+      },
+      "4": {
+        "source_ref": "Psalms 38:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 5,
+            "source_ref": "Psalms 38:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c975fcf528c4b6f9a765314d4d03c51be39874575df368469d5a16e188240f8b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c975fcf528c4b6f9a765314d4d03c51be39874575df368469d5a16e188240f8b"
+      },
+      "5": {
+        "source_ref": "Psalms 38:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 6,
+            "source_ref": "Psalms 38:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "bc1d5dae2a85cc85fc7fa0c715671bdfa4e14f323e6b613fdfffd16244a714ab"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "bc1d5dae2a85cc85fc7fa0c715671bdfa4e14f323e6b613fdfffd16244a714ab"
+      },
+      "6": {
+        "source_ref": "Psalms 38:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 7,
+            "source_ref": "Psalms 38:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b41e84daed4d61f2767ccda5cf03e36bae145c9157da95960b5a43c81449b050"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b41e84daed4d61f2767ccda5cf03e36bae145c9157da95960b5a43c81449b050"
+      },
+      "7": {
+        "source_ref": "Psalms 38:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 8,
+            "source_ref": "Psalms 38:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "bba39dc74afc4e29109eb92220fb5f5bbb547a0c990e3d9870fa5a80e8d3f62c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "bba39dc74afc4e29109eb92220fb5f5bbb547a0c990e3d9870fa5a80e8d3f62c"
+      },
+      "8": {
+        "source_ref": "Psalms 38:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 9,
+            "source_ref": "Psalms 38:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8c497563cad32bb36e8af737a97be46c61a64ef119b3d75adc1bded16fc53264"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8c497563cad32bb36e8af737a97be46c61a64ef119b3d75adc1bded16fc53264"
+      },
+      "9": {
+        "source_ref": "Psalms 38:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 10,
+            "source_ref": "Psalms 38:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "03b371152825e9e08964205a53f77dd73d3587cf24e21b3f3d9dcad9ea7fee2b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "03b371152825e9e08964205a53f77dd73d3587cf24e21b3f3d9dcad9ea7fee2b"
+      },
+      "10": {
+        "source_ref": "Psalms 38:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 11,
+            "source_ref": "Psalms 38:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "485ad1a39fec822a5ae77c48caacfaff5d0bf21c945926d1da45f0251b24a08f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "485ad1a39fec822a5ae77c48caacfaff5d0bf21c945926d1da45f0251b24a08f"
+      },
+      "11": {
+        "source_ref": "Psalms 38:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 12,
+            "source_ref": "Psalms 38:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5ab5682b00b1f944414210d891722b200e8d1632b435966e8e8f47f6e3c4498c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5ab5682b00b1f944414210d891722b200e8d1632b435966e8e8f47f6e3c4498c"
+      },
+      "12": {
+        "source_ref": "Psalms 38:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 13,
+            "source_ref": "Psalms 38:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "868fc5f7aeeb739495930a2aae55038e6d7859028867d14523908f88ccd62f3a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "868fc5f7aeeb739495930a2aae55038e6d7859028867d14523908f88ccd62f3a"
+      },
+      "13": {
+        "source_ref": "Psalms 38:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 14,
+            "source_ref": "Psalms 38:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ddb0df1db59cf61e7d0133902885ce158c2c3e4e95acb893be99b189be6443ef"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ddb0df1db59cf61e7d0133902885ce158c2c3e4e95acb893be99b189be6443ef"
+      },
+      "14": {
+        "source_ref": "Psalms 38:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 15,
+            "source_ref": "Psalms 38:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "11460c6a9ac166f06e6ee9ff6c262392196c29096f01c49974abbb2e51fe81dd"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "11460c6a9ac166f06e6ee9ff6c262392196c29096f01c49974abbb2e51fe81dd"
+      },
+      "15": {
+        "source_ref": "Psalms 38:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 16,
+            "source_ref": "Psalms 38:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1e3108a77a9bac93cbf49c5e54697378c3c685a816209d909073e06882bea314"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1e3108a77a9bac93cbf49c5e54697378c3c685a816209d909073e06882bea314"
+      },
+      "16": {
+        "source_ref": "Psalms 38:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 17,
+            "source_ref": "Psalms 38:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3a226c41f47a4eb68dc3355260e20ec41a2012adef285785a35ee0b00f4365ee"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3a226c41f47a4eb68dc3355260e20ec41a2012adef285785a35ee0b00f4365ee"
+      },
+      "17": {
+        "source_ref": "Psalms 38:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 18,
+            "source_ref": "Psalms 38:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "16fe279a72515005059e97b17c13406d2e7549eb63519ab967b6368ea02d2332"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "16fe279a72515005059e97b17c13406d2e7549eb63519ab967b6368ea02d2332"
+      },
+      "18": {
+        "source_ref": "Psalms 38:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 19,
+            "source_ref": "Psalms 38:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "86be6d31400c54051dedc6c78afbd93426ca6b12755d4ffaa3c5dff262367d55"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "86be6d31400c54051dedc6c78afbd93426ca6b12755d4ffaa3c5dff262367d55"
+      },
+      "19": {
+        "source_ref": "Psalms 38:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 20,
+            "source_ref": "Psalms 38:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b1b546843f4bf21a3d28655f69e3d2ae021e1ad261835d297330a0814553983a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b1b546843f4bf21a3d28655f69e3d2ae021e1ad261835d297330a0814553983a"
+      },
+      "20": {
+        "source_ref": "Psalms 38:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 21,
+            "source_ref": "Psalms 38:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "74ba2836ea94d30e70c71bf83ebb50ad64bf9d9feb64163fbe87b4d9f2fa1dfc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "74ba2836ea94d30e70c71bf83ebb50ad64bf9d9feb64163fbe87b4d9f2fa1dfc"
+      },
+      "21": {
+        "source_ref": "Psalms 38:22 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 22,
+            "source_ref": "Psalms 38:22 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b31ed5c05711e1bc85f831d171df1043e6e057ed8ee7bc9839948688388701f5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b31ed5c05711e1bc85f831d171df1043e6e057ed8ee7bc9839948688388701f5"
+      },
+      "22": {
+        "source_ref": "Psalms 38:23 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 38,
+            "verse": 23,
+            "source_ref": "Psalms 38:23 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "aad8ae886066920b77bf221e91a47eb8aa30bf867ff16903f6e01671d3e79818"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "aad8ae886066920b77bf221e91a47eb8aa30bf867ff16903f6e01671d3e79818"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_038.md",
+    "blob_sha": "69faa55ba30721eb95675a6b0567996670e98b55"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

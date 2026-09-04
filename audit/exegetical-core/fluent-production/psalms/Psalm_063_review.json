@@ -1,0 +1,208 @@
+{
+  "book": "Psalms",
+  "chapter": 63,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 63:1 (Hebrew; whole) + Psalms 63:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 1,
+            "source_ref": "Psalms 63:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "211220ee3b7a58d69dc6bcf0303c1ef8077aea540865996faf08185275c956de"
+          },
+          {
+            "chapter": 63,
+            "verse": 2,
+            "source_ref": "Psalms 63:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "84e55113a25aeb46b6057f8474715eb7a737d3c0e8a0e52f6a96a645fa1f57ab"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "cc66b629b70f2b57dce8269caf6a17402f7bfe2c22dc185a0501f2bec4420829"
+      },
+      "2": {
+        "source_ref": "Psalms 63:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 3,
+            "source_ref": "Psalms 63:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "225f775a0268afb1de1f208688b4d1e1cb8314e9b5afa2cbbd6dde344d74e7fa"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "225f775a0268afb1de1f208688b4d1e1cb8314e9b5afa2cbbd6dde344d74e7fa"
+      },
+      "3": {
+        "source_ref": "Psalms 63:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 4,
+            "source_ref": "Psalms 63:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9a5ab7dea693125c3e288983b4b4b4fe01a719d108d9215cfae19c81d17f981d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9a5ab7dea693125c3e288983b4b4b4fe01a719d108d9215cfae19c81d17f981d"
+      },
+      "4": {
+        "source_ref": "Psalms 63:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 5,
+            "source_ref": "Psalms 63:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "bca1f0008c86086e705f70071f9f5397f688c7904f645ce5302ded2fa9d4c11c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "bca1f0008c86086e705f70071f9f5397f688c7904f645ce5302ded2fa9d4c11c"
+      },
+      "5": {
+        "source_ref": "Psalms 63:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 6,
+            "source_ref": "Psalms 63:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "98ab63dbefb8e006b061289fcd43df7e59648031b065a163b65119a7b46e4169"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "98ab63dbefb8e006b061289fcd43df7e59648031b065a163b65119a7b46e4169"
+      },
+      "6": {
+        "source_ref": "Psalms 63:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 7,
+            "source_ref": "Psalms 63:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4e3ed630b26b7fa72add7c9a09009e1707f6cdf50be79a64b4903cf5e97d0ed0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4e3ed630b26b7fa72add7c9a09009e1707f6cdf50be79a64b4903cf5e97d0ed0"
+      },
+      "7": {
+        "source_ref": "Psalms 63:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 8,
+            "source_ref": "Psalms 63:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "10a69157ce631302aff8af8c60468a77e75993793e566c194f50c1e146a52290"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "10a69157ce631302aff8af8c60468a77e75993793e566c194f50c1e146a52290"
+      },
+      "8": {
+        "source_ref": "Psalms 63:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 9,
+            "source_ref": "Psalms 63:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6896400d118c7318088081b1625dccffc946a18d2e99bf1f5f197aa4e3779c16"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6896400d118c7318088081b1625dccffc946a18d2e99bf1f5f197aa4e3779c16"
+      },
+      "9": {
+        "source_ref": "Psalms 63:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 10,
+            "source_ref": "Psalms 63:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3ca1b13e3bd66dd92f01a3547c7c7eadc0df929d9abb5d4ed054cf9fdbedc5e0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3ca1b13e3bd66dd92f01a3547c7c7eadc0df929d9abb5d4ed054cf9fdbedc5e0"
+      },
+      "10": {
+        "source_ref": "Psalms 63:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 11,
+            "source_ref": "Psalms 63:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d2a0e676c76cb153e2d255ab579a551a154bbccd1c5cf56e9a930de2dd69217a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d2a0e676c76cb153e2d255ab579a551a154bbccd1c5cf56e9a930de2dd69217a"
+      },
+      "11": {
+        "source_ref": "Psalms 63:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 12,
+            "source_ref": "Psalms 63:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "bc29b498bd7cc8492e501fb73bc0f81093d7b7ee76ffd2e3f3c9637ccea0cb74"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "bc29b498bd7cc8492e501fb73bc0f81093d7b7ee76ffd2e3f3c9637ccea0cb74"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_063.md",
+    "blob_sha": "fd81d593e4278e6a59bc79c961e46c331a67951c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

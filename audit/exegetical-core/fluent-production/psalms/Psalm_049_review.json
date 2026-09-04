@@ -1,0 +1,343 @@
+{
+  "book": "Psalms",
+  "chapter": 49,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 49:1 (Hebrew; whole) + Psalms 49:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 1,
+            "source_ref": "Psalms 49:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dd8918a72def31edde3bddf0939f2d8e74038f5df9be2f28fc86443e91789e97"
+          },
+          {
+            "chapter": 49,
+            "verse": 2,
+            "source_ref": "Psalms 49:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3e2d9cc4aedadfa096954dc8ef45ebf87425e7ca9fc63788ece8753b87477df0"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "cdc31a37124b1ae15b34a0339fb193dc53d6956e00d6988f30229bfd22a9ef1e"
+      },
+      "2": {
+        "source_ref": "Psalms 49:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 3,
+            "source_ref": "Psalms 49:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6c84bb02d81ba769c3f282082fbfc1b722bb5280c83828d3df5e393504e273b4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6c84bb02d81ba769c3f282082fbfc1b722bb5280c83828d3df5e393504e273b4"
+      },
+      "3": {
+        "source_ref": "Psalms 49:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 4,
+            "source_ref": "Psalms 49:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fe38b5e2ba2ed9d0a68a13cec3541902678c3f16e37995e55392b6d67bbda64d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fe38b5e2ba2ed9d0a68a13cec3541902678c3f16e37995e55392b6d67bbda64d"
+      },
+      "4": {
+        "source_ref": "Psalms 49:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 5,
+            "source_ref": "Psalms 49:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c104a19da83afd78fdf265fc1d4fa7f44bf812b38e92d661aa766560397dc912"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c104a19da83afd78fdf265fc1d4fa7f44bf812b38e92d661aa766560397dc912"
+      },
+      "5": {
+        "source_ref": "Psalms 49:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 6,
+            "source_ref": "Psalms 49:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "864602935639fa00de9784608d11aa708aba89573ee04d7ae672c62a5dcaba8c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "864602935639fa00de9784608d11aa708aba89573ee04d7ae672c62a5dcaba8c"
+      },
+      "6": {
+        "source_ref": "Psalms 49:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 7,
+            "source_ref": "Psalms 49:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4f9c6930feeff6c3c40e6f390c9f1904ada2f7c63577b30081f9a74ce7aaea92"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4f9c6930feeff6c3c40e6f390c9f1904ada2f7c63577b30081f9a74ce7aaea92"
+      },
+      "7": {
+        "source_ref": "Psalms 49:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 8,
+            "source_ref": "Psalms 49:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "45a0e821d214ad6853bf7f9a53ab861f445063beb3786e9dab343a027f31d4a6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "45a0e821d214ad6853bf7f9a53ab861f445063beb3786e9dab343a027f31d4a6"
+      },
+      "8": {
+        "source_ref": "Psalms 49:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 9,
+            "source_ref": "Psalms 49:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f27735adc7d7df4675779d3acadae3066f34a3ac4b10c4d40f18da1a602b903a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f27735adc7d7df4675779d3acadae3066f34a3ac4b10c4d40f18da1a602b903a"
+      },
+      "9": {
+        "source_ref": "Psalms 49:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 10,
+            "source_ref": "Psalms 49:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "976a9732bac7d32d8cbbc36d6e8edc9767fca9934042f8e6b24b350198de211c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "976a9732bac7d32d8cbbc36d6e8edc9767fca9934042f8e6b24b350198de211c"
+      },
+      "10": {
+        "source_ref": "Psalms 49:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 11,
+            "source_ref": "Psalms 49:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "68dbd3be58465646a63af2469d5bf7dc5940540efd57fa54aba0e1eb11f80737"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "68dbd3be58465646a63af2469d5bf7dc5940540efd57fa54aba0e1eb11f80737"
+      },
+      "11": {
+        "source_ref": "Psalms 49:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 12,
+            "source_ref": "Psalms 49:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0875dd2ef2a08a05e14a99c7f0218ca3bd7d021ce0293898de6f35a7044265c7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0875dd2ef2a08a05e14a99c7f0218ca3bd7d021ce0293898de6f35a7044265c7"
+      },
+      "12": {
+        "source_ref": "Psalms 49:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 13,
+            "source_ref": "Psalms 49:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7176a3dbd9c23af4bbc637d46abf0e935059e455effd117650ac1e8ade9521f6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7176a3dbd9c23af4bbc637d46abf0e935059e455effd117650ac1e8ade9521f6"
+      },
+      "13": {
+        "source_ref": "Psalms 49:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 14,
+            "source_ref": "Psalms 49:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d0722cc4045817a58a2af8725b67722564172c6af0709ad49a5c50112f1300ab"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d0722cc4045817a58a2af8725b67722564172c6af0709ad49a5c50112f1300ab"
+      },
+      "14": {
+        "source_ref": "Psalms 49:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 15,
+            "source_ref": "Psalms 49:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2432bd1551d57ddfe9ee41a283a91f37b1e298ada17f863d39b34a35151b2a80"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2432bd1551d57ddfe9ee41a283a91f37b1e298ada17f863d39b34a35151b2a80"
+      },
+      "15": {
+        "source_ref": "Psalms 49:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 16,
+            "source_ref": "Psalms 49:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fd1587db348a0096f548826b7e62f8b6f1c8d90e8141064bbf7740dec4a6f4a4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fd1587db348a0096f548826b7e62f8b6f1c8d90e8141064bbf7740dec4a6f4a4"
+      },
+      "16": {
+        "source_ref": "Psalms 49:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 17,
+            "source_ref": "Psalms 49:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4e8cd7d6b85d44ee83f843ab6a696b384038376b38d66ed5e4e8163d7a32dfc0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4e8cd7d6b85d44ee83f843ab6a696b384038376b38d66ed5e4e8163d7a32dfc0"
+      },
+      "17": {
+        "source_ref": "Psalms 49:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 18,
+            "source_ref": "Psalms 49:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f5bbf06ccc4a9992203518448595959ccc385d56793736bc793ff74b243f8639"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f5bbf06ccc4a9992203518448595959ccc385d56793736bc793ff74b243f8639"
+      },
+      "18": {
+        "source_ref": "Psalms 49:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 19,
+            "source_ref": "Psalms 49:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d31abd9d76dab17ed04ce86ce4ed071a3d3a6adcf228e50bc050b37edcf63051"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d31abd9d76dab17ed04ce86ce4ed071a3d3a6adcf228e50bc050b37edcf63051"
+      },
+      "19": {
+        "source_ref": "Psalms 49:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 20,
+            "source_ref": "Psalms 49:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "31ee9545361dbdba6188c634d7aa50ffb965c096479c5f66f7b44aa39aecc071"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "31ee9545361dbdba6188c634d7aa50ffb965c096479c5f66f7b44aa39aecc071"
+      },
+      "20": {
+        "source_ref": "Psalms 49:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 49,
+            "verse": 21,
+            "source_ref": "Psalms 49:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "36e2a77c387279ef171ae35248378aa9b70853126f8df2d0908cdb27874ea23b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "36e2a77c387279ef171ae35248378aa9b70853126f8df2d0908cdb27874ea23b"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_049.md",
+    "blob_sha": "6dbcd224c9c27affbfedaf1f80cfc4fdb4e2d4d6"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

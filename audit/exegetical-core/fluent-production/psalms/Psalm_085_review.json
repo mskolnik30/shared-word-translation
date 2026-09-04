@@ -1,0 +1,238 @@
+{
+  "book": "Psalms",
+  "chapter": 85,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 85:1 (Hebrew; whole) + Psalms 85:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 1,
+            "source_ref": "Psalms 85:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dd8918a72def31edde3bddf0939f2d8e74038f5df9be2f28fc86443e91789e97"
+          },
+          {
+            "chapter": 85,
+            "verse": 2,
+            "source_ref": "Psalms 85:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "33de3cc8cf7aa646f7533e927d8cd7c1f3934c764c44187e1da1dd7b16fccb11"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "77587d5c34475eff7954ac782b96be5147a3747cd9643e7cfcf6536f9cf365df"
+      },
+      "2": {
+        "source_ref": "Psalms 85:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 3,
+            "source_ref": "Psalms 85:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ecb9a8e370b866d648e968dcf61115211fec6301814f2e72b3ac7a64a42d5039"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ecb9a8e370b866d648e968dcf61115211fec6301814f2e72b3ac7a64a42d5039"
+      },
+      "3": {
+        "source_ref": "Psalms 85:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 4,
+            "source_ref": "Psalms 85:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4e03902d5a6cf7ad8038c0450f1b5ad13fcc7c9fbc4a104c24d708c9ff127c3d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4e03902d5a6cf7ad8038c0450f1b5ad13fcc7c9fbc4a104c24d708c9ff127c3d"
+      },
+      "4": {
+        "source_ref": "Psalms 85:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 5,
+            "source_ref": "Psalms 85:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f79ea79c705c1947eeb63050ef51ff660d5702346b6dff2dbb2044e0ed503d57"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f79ea79c705c1947eeb63050ef51ff660d5702346b6dff2dbb2044e0ed503d57"
+      },
+      "5": {
+        "source_ref": "Psalms 85:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 6,
+            "source_ref": "Psalms 85:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "33662a24c26d9ca3c2d2f91ea14cd7abf918cacc1ddb328ebcb10cb37a2a944e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "33662a24c26d9ca3c2d2f91ea14cd7abf918cacc1ddb328ebcb10cb37a2a944e"
+      },
+      "6": {
+        "source_ref": "Psalms 85:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 7,
+            "source_ref": "Psalms 85:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1d309f012eb8abd4c3be6939511d690e4da3e74aa9aef6ffe220589ff1a69aad"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1d309f012eb8abd4c3be6939511d690e4da3e74aa9aef6ffe220589ff1a69aad"
+      },
+      "7": {
+        "source_ref": "Psalms 85:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 8,
+            "source_ref": "Psalms 85:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ca882ecb45e0a72b9650ff8be704589d37019494c5c826949b67b343ed631f81"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ca882ecb45e0a72b9650ff8be704589d37019494c5c826949b67b343ed631f81"
+      },
+      "8": {
+        "source_ref": "Psalms 85:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 9,
+            "source_ref": "Psalms 85:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8ec8d091b679b6f0cc1349e642adecd4a97cb8690f7146feb4a3ef850549c622"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8ec8d091b679b6f0cc1349e642adecd4a97cb8690f7146feb4a3ef850549c622"
+      },
+      "9": {
+        "source_ref": "Psalms 85:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 10,
+            "source_ref": "Psalms 85:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e85873dc9573eb091468c00d8c56e38ff7fe7e902d5a51d395ff65d181a8b7c7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e85873dc9573eb091468c00d8c56e38ff7fe7e902d5a51d395ff65d181a8b7c7"
+      },
+      "10": {
+        "source_ref": "Psalms 85:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 11,
+            "source_ref": "Psalms 85:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0e050d71f919b06960e3692ec62979ff933cb86bdb0bc2b32eee245d5429e08e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0e050d71f919b06960e3692ec62979ff933cb86bdb0bc2b32eee245d5429e08e"
+      },
+      "11": {
+        "source_ref": "Psalms 85:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 12,
+            "source_ref": "Psalms 85:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a0fe842e80462184377890a3459cf7736c8cae3121b6ac4bf3e00984389038c7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a0fe842e80462184377890a3459cf7736c8cae3121b6ac4bf3e00984389038c7"
+      },
+      "12": {
+        "source_ref": "Psalms 85:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 13,
+            "source_ref": "Psalms 85:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "08ba30d55b726d979c4965def6602723ea6376edee41facce99f84458cd91c16"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "08ba30d55b726d979c4965def6602723ea6376edee41facce99f84458cd91c16"
+      },
+      "13": {
+        "source_ref": "Psalms 85:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 85,
+            "verse": 14,
+            "source_ref": "Psalms 85:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "55196ed75479291e554062e9f493fbb7dc703dfa7ce777aa580eca3d8be7016a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "55196ed75479291e554062e9f493fbb7dc703dfa7ce777aa580eca3d8be7016a"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_085.md",
+    "blob_sha": "863e7af3a1e0a3a59742a9aaf2e4b99809a5ffa3"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

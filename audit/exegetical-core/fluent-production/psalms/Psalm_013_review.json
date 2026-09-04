@@ -1,0 +1,139 @@
+{
+  "book": "Psalms",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "13:5-6",
+      "decision": "Document the two public clauses split inside Hebrew Psalm 13:6.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 13:1 (Hebrew; whole) + Psalms 13:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Psalms 13:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3709c84ffbe89a8cf1295028ec66554f059ffa134059cebdeca8bbc4f60575b"
+          },
+          {
+            "chapter": 13,
+            "verse": 2,
+            "source_ref": "Psalms 13:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c7126dc05b85e47f5e5a923479dcdee40dacbd96d97106af2787dba42eb37553"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "ba62f379cce883a19b25ba22a9ab0c60892426ca60ef1c56f45baf403070120a"
+      },
+      "2": {
+        "source_ref": "Psalms 13:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 3,
+            "source_ref": "Psalms 13:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a4dc585395cf853fdd5fa3475a61dbb4399672d90941aa89b56de6fd1c7b4ebc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a4dc585395cf853fdd5fa3475a61dbb4399672d90941aa89b56de6fd1c7b4ebc"
+      },
+      "3": {
+        "source_ref": "Psalms 13:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 4,
+            "source_ref": "Psalms 13:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c0c2c80731405c2feb06c19276c9fee5d466b21320d7e268ced105e608e3db69"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c0c2c80731405c2feb06c19276c9fee5d466b21320d7e268ced105e608e3db69"
+      },
+      "4": {
+        "source_ref": "Psalms 13:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 5,
+            "source_ref": "Psalms 13:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "de3e32c993bc86785dac07cec98c14d465fae290362474357ecb5fce7fd63642"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "de3e32c993bc86785dac07cec98c14d465fae290362474357ecb5fce7fd63642"
+      },
+      "5": {
+        "source_ref": "Psalms 13:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Psalms 13:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e5b8f612499ea3da4486c5053250b92d26de7d8ba1579762801b328b8257456a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e5b8f612499ea3da4486c5053250b92d26de7d8ba1579762801b328b8257456a"
+      },
+      "6": {
+        "source_ref": "Psalms 13:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Psalms 13:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b4861f15408d241b43a1f15f7e169c500c2e183a544fa5eba147eeebec9bcb07"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b4861f15408d241b43a1f15f7e169c500c2e183a544fa5eba147eeebec9bcb07"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_013.md",
+    "blob_sha": "9ae4584cf6f10c78e6f0a778750f9ca1bab99bdc"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,343 @@
+{
+  "book": "Psalms",
+  "chapter": 77,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 77:1 (Hebrew; whole) + Psalms 77:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 1,
+            "source_ref": "Psalms 77:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a87b95a3f928e0a795040c05305f6c337f3cfe378441bc0a39721630c25fd9ab"
+          },
+          {
+            "chapter": 77,
+            "verse": 2,
+            "source_ref": "Psalms 77:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "38a608384fad96c948d575e8da74df5783cce075ea883a169c99817b276cdc5f"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "1fbdff844e2c5cccb938dbe498703ed6684c1a14dced78463f84ec736cd7b273"
+      },
+      "2": {
+        "source_ref": "Psalms 77:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 3,
+            "source_ref": "Psalms 77:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fb926ed2100611b09a9dd12bd1607724e3889c440375a1eaf0d78bac857db60d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fb926ed2100611b09a9dd12bd1607724e3889c440375a1eaf0d78bac857db60d"
+      },
+      "3": {
+        "source_ref": "Psalms 77:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 4,
+            "source_ref": "Psalms 77:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d45e6c04cd1993d267b82f3a6a486c377e184f0f1a5d922f51f8507100f4b1c2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d45e6c04cd1993d267b82f3a6a486c377e184f0f1a5d922f51f8507100f4b1c2"
+      },
+      "4": {
+        "source_ref": "Psalms 77:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 5,
+            "source_ref": "Psalms 77:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d747f5509132d650ba65ea90e18049fbfff886026843696a720c2b7b52063b79"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d747f5509132d650ba65ea90e18049fbfff886026843696a720c2b7b52063b79"
+      },
+      "5": {
+        "source_ref": "Psalms 77:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 6,
+            "source_ref": "Psalms 77:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8156d9b0b7e674c83af6d2f70d6df93d92239ae394a0fc6b57328923662811ee"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8156d9b0b7e674c83af6d2f70d6df93d92239ae394a0fc6b57328923662811ee"
+      },
+      "6": {
+        "source_ref": "Psalms 77:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 7,
+            "source_ref": "Psalms 77:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6e71c5439e4fb280a8c191603c31905ad302628145286d144135e50990a6eea7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6e71c5439e4fb280a8c191603c31905ad302628145286d144135e50990a6eea7"
+      },
+      "7": {
+        "source_ref": "Psalms 77:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 8,
+            "source_ref": "Psalms 77:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "44c965b6f749749755dfda6312d1146caec185c0e45adad36cdb33dc383cdba0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "44c965b6f749749755dfda6312d1146caec185c0e45adad36cdb33dc383cdba0"
+      },
+      "8": {
+        "source_ref": "Psalms 77:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 9,
+            "source_ref": "Psalms 77:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "80e2c00e47cb94bb5f4e376ee8e1eb2069fa6ab0b61e5ba14e6084373c845141"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "80e2c00e47cb94bb5f4e376ee8e1eb2069fa6ab0b61e5ba14e6084373c845141"
+      },
+      "9": {
+        "source_ref": "Psalms 77:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 10,
+            "source_ref": "Psalms 77:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b1cfa3e462fbf5aab5d9367ea1e0f6d0f6c1f374cd103144c9fa9aba80daeb9a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b1cfa3e462fbf5aab5d9367ea1e0f6d0f6c1f374cd103144c9fa9aba80daeb9a"
+      },
+      "10": {
+        "source_ref": "Psalms 77:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 11,
+            "source_ref": "Psalms 77:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "92cec4b15641c7c52d093de28efaf6c19e2fe4731e6ab378273f00d3c48eb65c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "92cec4b15641c7c52d093de28efaf6c19e2fe4731e6ab378273f00d3c48eb65c"
+      },
+      "11": {
+        "source_ref": "Psalms 77:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 12,
+            "source_ref": "Psalms 77:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7daaa9dc80dd5872b8847d0a866b2046ca368e0bfbcbbd2496e665cf2f30fded"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7daaa9dc80dd5872b8847d0a866b2046ca368e0bfbcbbd2496e665cf2f30fded"
+      },
+      "12": {
+        "source_ref": "Psalms 77:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 13,
+            "source_ref": "Psalms 77:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "dd50ff5487920c313f26ba00cc72df5e97b9fa657a9339e258ffa79453c9e36c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "dd50ff5487920c313f26ba00cc72df5e97b9fa657a9339e258ffa79453c9e36c"
+      },
+      "13": {
+        "source_ref": "Psalms 77:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 14,
+            "source_ref": "Psalms 77:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2a3a0a14801d4a03ab13096e4451f29cdcc457f1646b0389a64f9b60ad39fe34"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2a3a0a14801d4a03ab13096e4451f29cdcc457f1646b0389a64f9b60ad39fe34"
+      },
+      "14": {
+        "source_ref": "Psalms 77:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 15,
+            "source_ref": "Psalms 77:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "03bff6baef2a8ec4f9351c9056f8753af03859f3f85b04055517e77000d5a741"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "03bff6baef2a8ec4f9351c9056f8753af03859f3f85b04055517e77000d5a741"
+      },
+      "15": {
+        "source_ref": "Psalms 77:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 16,
+            "source_ref": "Psalms 77:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3e203ebfcd29c96a96d74aae6abb9dd2f6e82b2ba617e25b3a091757d2d78227"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3e203ebfcd29c96a96d74aae6abb9dd2f6e82b2ba617e25b3a091757d2d78227"
+      },
+      "16": {
+        "source_ref": "Psalms 77:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 17,
+            "source_ref": "Psalms 77:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "0a32ffcdf40dd36da144d18177446ce813be9381700742a6ce2f997b2064f0c2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "0a32ffcdf40dd36da144d18177446ce813be9381700742a6ce2f997b2064f0c2"
+      },
+      "17": {
+        "source_ref": "Psalms 77:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 18,
+            "source_ref": "Psalms 77:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "687bd758ab95fc0b631c1d3e20ab0c72cf6fe93140f2700190feca7de1869596"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "687bd758ab95fc0b631c1d3e20ab0c72cf6fe93140f2700190feca7de1869596"
+      },
+      "18": {
+        "source_ref": "Psalms 77:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 19,
+            "source_ref": "Psalms 77:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "20082e869546323622e141889ad5f48e897dbda394b286e537c697c729b67790"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "20082e869546323622e141889ad5f48e897dbda394b286e537c697c729b67790"
+      },
+      "19": {
+        "source_ref": "Psalms 77:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 20,
+            "source_ref": "Psalms 77:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e94691dcdc490f35ecf1c2c1d33eabe7ca452b2aab47ba49a48301382a35ba11"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e94691dcdc490f35ecf1c2c1d33eabe7ca452b2aab47ba49a48301382a35ba11"
+      },
+      "20": {
+        "source_ref": "Psalms 77:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 77,
+            "verse": 21,
+            "source_ref": "Psalms 77:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4b20cf6c34b4d4fcfa2c9f69d4f8180493400863ebc2dc46337efc547b8fb26d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4b20cf6c34b4d4fcfa2c9f69d4f8180493400863ebc2dc46337efc547b8fb26d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_077.md",
+    "blob_sha": "3d63e7a39e01ca0032cbe8b8d5ac99b00d3b684f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

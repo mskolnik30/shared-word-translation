@@ -1,0 +1,66 @@
+{
+  "book": "Psalms",
+  "chapter": 117,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 117:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 117,
+            "verse": 1,
+            "source_ref": "Psalms 117:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "96497feffb659f8196efba7e4a0901c665579f783fa130458b6ba7538881be5f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96497feffb659f8196efba7e4a0901c665579f783fa130458b6ba7538881be5f"
+      },
+      "2": {
+        "source_ref": "Psalms 117:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 117,
+            "verse": 2,
+            "source_ref": "Psalms 117:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1a6c982d9a3d7a956e39080121499c27a065af5f4b3b7b104f5c48e438a3b42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1a6c982d9a3d7a956e39080121499c27a065af5f4b3b7b104f5c48e438a3b42"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_117.md",
+    "blob_sha": "a1ea2bf82ec6a965edfb676a9535c323ac1339bc"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,103 @@
+{
+  "book": "Psalms",
+  "chapter": 123,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 123:1 (Hebrew; before kjv marker) + Psalms 123:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 123,
+            "verse": 1,
+            "source_ref": "Psalms 123:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "c03cb07c754ba37a5e6c0fdee3838c00fe736441d9f9b10920551a4f636433e0"
+          },
+          {
+            "chapter": 123,
+            "verse": 1,
+            "source_ref": "Psalms 123:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f84788e73d106a54eeeaf3e6fe214a919ad482a3f4d6fbc367859c64a0f825e8"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "2e80ccb5f684db1320b727d1c32461b91a344c32208005c32381dafd9355a3dc"
+      },
+      "2": {
+        "source_ref": "Psalms 123:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 123,
+            "verse": 2,
+            "source_ref": "Psalms 123:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af8463dd048c202121b9920d6d7e7c793bdd8ce18b914537331f0b94970a1826"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af8463dd048c202121b9920d6d7e7c793bdd8ce18b914537331f0b94970a1826"
+      },
+      "3": {
+        "source_ref": "Psalms 123:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 123,
+            "verse": 3,
+            "source_ref": "Psalms 123:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "293ec437bf65550641d78d018cbc895a0116aa5ae6570cd3d8c94463658445b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "293ec437bf65550641d78d018cbc895a0116aa5ae6570cd3d8c94463658445b2"
+      },
+      "4": {
+        "source_ref": "Psalms 123:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 123,
+            "verse": 4,
+            "source_ref": "Psalms 123:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af517109630882ab4bd6e645401474fc144f2d97f90ea6ce6041c863eca751f5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af517109630882ab4bd6e645401474fc144f2d97f90ea6ce6041c863eca751f5"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_123.md",
+    "blob_sha": "717cfd1e88814f1aa2cfbce1956d5cd417646b5d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

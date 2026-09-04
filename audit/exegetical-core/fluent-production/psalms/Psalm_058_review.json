@@ -1,0 +1,208 @@
+{
+  "book": "Psalms",
+  "chapter": 58,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 58:1 (Hebrew; whole) + Psalms 58:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 1,
+            "source_ref": "Psalms 58:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc13886d1a6c118695dc3da4c46710ad4388553a210a80f837d9f7e2ef084d17"
+          },
+          {
+            "chapter": 58,
+            "verse": 2,
+            "source_ref": "Psalms 58:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f9a1d334a3cfbce6347af463c344cec6df52be929ef6ffc5032de80fe99d3951"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "4d500e994a4b95162f84e151de85f3fb58c3913f21fe72e4b85583f00d1f63f8"
+      },
+      "2": {
+        "source_ref": "Psalms 58:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 3,
+            "source_ref": "Psalms 58:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "529ff7567f22d221ea0bdda668e5b6c969d9e02b902aa2f12a92e77fe2ad630f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "529ff7567f22d221ea0bdda668e5b6c969d9e02b902aa2f12a92e77fe2ad630f"
+      },
+      "3": {
+        "source_ref": "Psalms 58:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 4,
+            "source_ref": "Psalms 58:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "233b7811e03d5cd4a8dc4e7c582484103646ba1adf456d8f69bce0bb81256c96"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "233b7811e03d5cd4a8dc4e7c582484103646ba1adf456d8f69bce0bb81256c96"
+      },
+      "4": {
+        "source_ref": "Psalms 58:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 5,
+            "source_ref": "Psalms 58:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "87d7e090693d76114d6f6e44156f53afd317165c3b287979f3baead4f88b8d06"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "87d7e090693d76114d6f6e44156f53afd317165c3b287979f3baead4f88b8d06"
+      },
+      "5": {
+        "source_ref": "Psalms 58:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 6,
+            "source_ref": "Psalms 58:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d02b1a8eaa2d744c32b02fc34e32b9aa88739cd8be08d54b3f658cece4040530"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d02b1a8eaa2d744c32b02fc34e32b9aa88739cd8be08d54b3f658cece4040530"
+      },
+      "6": {
+        "source_ref": "Psalms 58:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 7,
+            "source_ref": "Psalms 58:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a9477a12993e472f691ff9adb502e9581c59026890c000f1cdefe9d2660beaf5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a9477a12993e472f691ff9adb502e9581c59026890c000f1cdefe9d2660beaf5"
+      },
+      "7": {
+        "source_ref": "Psalms 58:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 8,
+            "source_ref": "Psalms 58:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "93b54c2f021c48745e9c55a2fba5c54c35c8f16521cc588c82723b3ee1aa933a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "93b54c2f021c48745e9c55a2fba5c54c35c8f16521cc588c82723b3ee1aa933a"
+      },
+      "8": {
+        "source_ref": "Psalms 58:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 9,
+            "source_ref": "Psalms 58:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "095382a14034eaca623afb19d6b02363c483d7ee10f315a6f28521cdd9a6a527"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "095382a14034eaca623afb19d6b02363c483d7ee10f315a6f28521cdd9a6a527"
+      },
+      "9": {
+        "source_ref": "Psalms 58:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 10,
+            "source_ref": "Psalms 58:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5e25760225f81ab58f5248caf2af43db77992b8deaad2644aedf473e2d7cc02a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5e25760225f81ab58f5248caf2af43db77992b8deaad2644aedf473e2d7cc02a"
+      },
+      "10": {
+        "source_ref": "Psalms 58:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 11,
+            "source_ref": "Psalms 58:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e78e74bd2fec8a6097897b67a46f5f55d55968b2cf4c8a47db82ae8218fc996e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e78e74bd2fec8a6097897b67a46f5f55d55968b2cf4c8a47db82ae8218fc996e"
+      },
+      "11": {
+        "source_ref": "Psalms 58:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 58,
+            "verse": 12,
+            "source_ref": "Psalms 58:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "38d02f8522052bd751af8f4a513623cf3e5a1084d08adfa1ae367df6445fd778"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "38d02f8522052bd751af8f4a513623cf3e5a1084d08adfa1ae367df6445fd778"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_058.md",
+    "blob_sha": "4c56053940ab40c82984c5c827a3e363c70af02b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

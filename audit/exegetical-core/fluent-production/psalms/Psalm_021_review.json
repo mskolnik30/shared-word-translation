@@ -1,0 +1,238 @@
+{
+  "book": "Psalms",
+  "chapter": 21,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 21:1 (Hebrew; whole) + Psalms 21:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 1,
+            "source_ref": "Psalms 21:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3709c84ffbe89a8cf1295028ec66554f059ffa134059cebdeca8bbc4f60575b"
+          },
+          {
+            "chapter": 21,
+            "verse": 2,
+            "source_ref": "Psalms 21:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2b84b4d9028853e2d5b22b3e75904407302da0e53389692499c7df7f847081d5"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "592455e52a64c7a9d77bdbddd2aa937e0ca4b7f2cffea506dae2a48a69d09be9"
+      },
+      "2": {
+        "source_ref": "Psalms 21:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 3,
+            "source_ref": "Psalms 21:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e57347af57160a1eefd1ffa9abeba061b17f3c3010bf2615e142a7d2be886ef9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e57347af57160a1eefd1ffa9abeba061b17f3c3010bf2615e142a7d2be886ef9"
+      },
+      "3": {
+        "source_ref": "Psalms 21:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 4,
+            "source_ref": "Psalms 21:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a2396c3b8b14da5b4b17e9f2a6b37eae620127dd147100f5c871662a93a23d93"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a2396c3b8b14da5b4b17e9f2a6b37eae620127dd147100f5c871662a93a23d93"
+      },
+      "4": {
+        "source_ref": "Psalms 21:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 5,
+            "source_ref": "Psalms 21:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3ccc4e4514dd3292aa4b4fbe7e4c2f271b9f5b1d8d4c370700da661ce7c46dee"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3ccc4e4514dd3292aa4b4fbe7e4c2f271b9f5b1d8d4c370700da661ce7c46dee"
+      },
+      "5": {
+        "source_ref": "Psalms 21:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 6,
+            "source_ref": "Psalms 21:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a06393ed8ce785d3d697db948d3811c141b3eb599a039984a260cc36893e0a32"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a06393ed8ce785d3d697db948d3811c141b3eb599a039984a260cc36893e0a32"
+      },
+      "6": {
+        "source_ref": "Psalms 21:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 7,
+            "source_ref": "Psalms 21:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "06a11f0069268f7b9195061bf59e6b65278f65c8cb402c30d30eae967b5cc20e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "06a11f0069268f7b9195061bf59e6b65278f65c8cb402c30d30eae967b5cc20e"
+      },
+      "7": {
+        "source_ref": "Psalms 21:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 8,
+            "source_ref": "Psalms 21:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d7529335fad5a0b29d76c8111531b766c0e88d14b33e688657d64ca0d759447d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d7529335fad5a0b29d76c8111531b766c0e88d14b33e688657d64ca0d759447d"
+      },
+      "8": {
+        "source_ref": "Psalms 21:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 9,
+            "source_ref": "Psalms 21:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "55838c74d1804b8982a37b81f2ab68a666e5fe019595a78070346152711fc3ef"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "55838c74d1804b8982a37b81f2ab68a666e5fe019595a78070346152711fc3ef"
+      },
+      "9": {
+        "source_ref": "Psalms 21:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 10,
+            "source_ref": "Psalms 21:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "570c1ae7063a00be55c61e682a81214d8d14e958e72adbe2fce1ff3c5de8902a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "570c1ae7063a00be55c61e682a81214d8d14e958e72adbe2fce1ff3c5de8902a"
+      },
+      "10": {
+        "source_ref": "Psalms 21:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 11,
+            "source_ref": "Psalms 21:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6cb38b3c24f2dd427455d774a91e7861570f9d6400764d15088b1bfd33fecd16"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6cb38b3c24f2dd427455d774a91e7861570f9d6400764d15088b1bfd33fecd16"
+      },
+      "11": {
+        "source_ref": "Psalms 21:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 12,
+            "source_ref": "Psalms 21:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ecf4e930b26970e9b51cbf8129c2be8aa696f6000ad0cf37034a9f12d966fab4"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ecf4e930b26970e9b51cbf8129c2be8aa696f6000ad0cf37034a9f12d966fab4"
+      },
+      "12": {
+        "source_ref": "Psalms 21:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 13,
+            "source_ref": "Psalms 21:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c2d9813c59480a72a111b19a5461b8479042bfed01bdd2d885399c7c3700ced2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c2d9813c59480a72a111b19a5461b8479042bfed01bdd2d885399c7c3700ced2"
+      },
+      "13": {
+        "source_ref": "Psalms 21:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 14,
+            "source_ref": "Psalms 21:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "84819166e1ac44aedd928fa5a21f2f94c955f843842af771a8d9a169e63cf4d1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "84819166e1ac44aedd928fa5a21f2f94c955f843842af771a8d9a169e63cf4d1"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_021.md",
+    "blob_sha": "764e5cefca5e097a3e7705388792354b05ef2dd3"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

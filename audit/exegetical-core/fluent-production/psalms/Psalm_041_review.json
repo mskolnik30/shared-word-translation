@@ -1,0 +1,238 @@
+{
+  "book": "Psalms",
+  "chapter": 41,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 41:1 (Hebrew; whole) + Psalms 41:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 1,
+            "source_ref": "Psalms 41:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3709c84ffbe89a8cf1295028ec66554f059ffa134059cebdeca8bbc4f60575b"
+          },
+          {
+            "chapter": 41,
+            "verse": 2,
+            "source_ref": "Psalms 41:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "582107923e58be7a3bf0e28a820f516570101965fcd4b2b61413d7c2397976ed"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "7b7d99ced8245b82b89d7a002160de906a734e2cdc27317a8a0ef688034a79fc"
+      },
+      "2": {
+        "source_ref": "Psalms 41:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 3,
+            "source_ref": "Psalms 41:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3159f81ce7170875cb94596467a76c9c1541f33d11884e1049ea7ddad73c9591"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3159f81ce7170875cb94596467a76c9c1541f33d11884e1049ea7ddad73c9591"
+      },
+      "3": {
+        "source_ref": "Psalms 41:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 4,
+            "source_ref": "Psalms 41:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "aeddcf227d387fdea23d87d7c720bdfb6fc6ae0828210ebdefe33e4a8ef678af"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "aeddcf227d387fdea23d87d7c720bdfb6fc6ae0828210ebdefe33e4a8ef678af"
+      },
+      "4": {
+        "source_ref": "Psalms 41:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 5,
+            "source_ref": "Psalms 41:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e29bb45bbb432419ff1e35b960ff5aca16491c0edc9435eb889d65331ee71e48"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e29bb45bbb432419ff1e35b960ff5aca16491c0edc9435eb889d65331ee71e48"
+      },
+      "5": {
+        "source_ref": "Psalms 41:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 6,
+            "source_ref": "Psalms 41:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "98c9ec05a077e47c5fb95294bb7f7be8aec2a4dfa14eb96bc853270685dfea52"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "98c9ec05a077e47c5fb95294bb7f7be8aec2a4dfa14eb96bc853270685dfea52"
+      },
+      "6": {
+        "source_ref": "Psalms 41:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 7,
+            "source_ref": "Psalms 41:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6a6cfb73140f1f0adc49d0ba270e0cb8ce53bcd01413cff754137a4d1a2409c2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6a6cfb73140f1f0adc49d0ba270e0cb8ce53bcd01413cff754137a4d1a2409c2"
+      },
+      "7": {
+        "source_ref": "Psalms 41:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 8,
+            "source_ref": "Psalms 41:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fe953865f7ac32e0b4b36d50c8779b6d2b3706aeadaa35840d26885e2ca8d722"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fe953865f7ac32e0b4b36d50c8779b6d2b3706aeadaa35840d26885e2ca8d722"
+      },
+      "8": {
+        "source_ref": "Psalms 41:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 9,
+            "source_ref": "Psalms 41:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4c0a7eee29c955de4581d1714488e67965cab94ce7334f406723d4781d77989d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4c0a7eee29c955de4581d1714488e67965cab94ce7334f406723d4781d77989d"
+      },
+      "9": {
+        "source_ref": "Psalms 41:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 10,
+            "source_ref": "Psalms 41:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1921d67f6386237c8e4a1e720594d14e373d757d794ddc4239f9dc7af20f36e3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1921d67f6386237c8e4a1e720594d14e373d757d794ddc4239f9dc7af20f36e3"
+      },
+      "10": {
+        "source_ref": "Psalms 41:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 11,
+            "source_ref": "Psalms 41:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "64067a7f9c416c8eb738e30be078a8ee6031b30d9687d758a176286079c5bdc2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "64067a7f9c416c8eb738e30be078a8ee6031b30d9687d758a176286079c5bdc2"
+      },
+      "11": {
+        "source_ref": "Psalms 41:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 12,
+            "source_ref": "Psalms 41:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "712cb4c4835cc4d956f7c422bb949100a1ff1d25e46d6d977ed96fd07fb7498f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "712cb4c4835cc4d956f7c422bb949100a1ff1d25e46d6d977ed96fd07fb7498f"
+      },
+      "12": {
+        "source_ref": "Psalms 41:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 13,
+            "source_ref": "Psalms 41:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "43dbd64338138cb6c8062b410c96c005bd94529bf5bcc095a0fc222f25c7a7a0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "43dbd64338138cb6c8062b410c96c005bd94529bf5bcc095a0fc222f25c7a7a0"
+      },
+      "13": {
+        "source_ref": "Psalms 41:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 14,
+            "source_ref": "Psalms 41:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ad09818d32847a74b2f9152ca1c7968aa4266bcb15062653980f070938355ec8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ad09818d32847a74b2f9152ca1c7968aa4266bcb15062653980f070938355ec8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_041.md",
+    "blob_sha": "ee2c9a88dd9d9fac1c9cf41d23b5cbbad7f44e29"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

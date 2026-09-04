@@ -1,0 +1,163 @@
+{
+  "book": "Psalms",
+  "chapter": 61,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 61:1 (Hebrew; whole) + Psalms 61:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 61,
+            "verse": 1,
+            "source_ref": "Psalms 61:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3cf3999e6bc130b272a027962086ab44ee0af30f5f465df40f310403b9273e99"
+          },
+          {
+            "chapter": 61,
+            "verse": 2,
+            "source_ref": "Psalms 61:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "622df79808bdc320e6c0421add74e7637679318eac157fe49a2311ef90b4d4c1"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "9f6641c0aca0054d4ee9b27ee7f0dc2234c0e93e6fade9ddcd6d89df9b8f69fa"
+      },
+      "2": {
+        "source_ref": "Psalms 61:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 61,
+            "verse": 3,
+            "source_ref": "Psalms 61:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9ced7e6f9f18f9751a0624b6b3a40b699394af61dd25e5f5d530f12fc2641ef0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9ced7e6f9f18f9751a0624b6b3a40b699394af61dd25e5f5d530f12fc2641ef0"
+      },
+      "3": {
+        "source_ref": "Psalms 61:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 61,
+            "verse": 4,
+            "source_ref": "Psalms 61:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4eb5e86456e84bb3218c75435366e8ea1c8b6548ff8ed72f4aff8230f76466fe"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4eb5e86456e84bb3218c75435366e8ea1c8b6548ff8ed72f4aff8230f76466fe"
+      },
+      "4": {
+        "source_ref": "Psalms 61:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 61,
+            "verse": 5,
+            "source_ref": "Psalms 61:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "06523ce34a96eb710f242632b795688438da6cc2b7553d96e66615e9d3860438"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "06523ce34a96eb710f242632b795688438da6cc2b7553d96e66615e9d3860438"
+      },
+      "5": {
+        "source_ref": "Psalms 61:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 61,
+            "verse": 6,
+            "source_ref": "Psalms 61:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a37fca2005e624f23cac47c834e24fcc6e88e95c195d6784e7697dbac25cc2bb"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a37fca2005e624f23cac47c834e24fcc6e88e95c195d6784e7697dbac25cc2bb"
+      },
+      "6": {
+        "source_ref": "Psalms 61:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 61,
+            "verse": 7,
+            "source_ref": "Psalms 61:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e57a0bbd46647b54bb8a66698c01fe7d703a6e6187247bfbef6d0e9e1d75bd9b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e57a0bbd46647b54bb8a66698c01fe7d703a6e6187247bfbef6d0e9e1d75bd9b"
+      },
+      "7": {
+        "source_ref": "Psalms 61:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 61,
+            "verse": 8,
+            "source_ref": "Psalms 61:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1f2ad676f4778b5188496f72d218a2d27ed9c51d995351b5a2b23415a0ed62e6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1f2ad676f4778b5188496f72d218a2d27ed9c51d995351b5a2b23415a0ed62e6"
+      },
+      "8": {
+        "source_ref": "Psalms 61:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 61,
+            "verse": 9,
+            "source_ref": "Psalms 61:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3af254aedd72cea380279793f6d44484f599a031674259a58f69d8ac41ce50a7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3af254aedd72cea380279793f6d44484f599a031674259a58f69d8ac41ce50a7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_061.md",
+    "blob_sha": "479f177929ca50f97d9ce7765de3be71e0832434"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

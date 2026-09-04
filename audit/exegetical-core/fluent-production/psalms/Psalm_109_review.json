@@ -1,0 +1,508 @@
+{
+  "book": "Psalms",
+  "chapter": 109,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 109:1 (Hebrew; before kjv marker) + Psalms 109:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 1,
+            "source_ref": "Psalms 109:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "16296f885553f608dc41dfa56fdc68e427d09a851562266d3d201f26d63685a8"
+          },
+          {
+            "chapter": 109,
+            "verse": 1,
+            "source_ref": "Psalms 109:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "05b9b932358e51b8b06ac802c942dab2c9c93b17366087c2291f1b29a5e61d96"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "c3de303b654d85dd611a166a3be4bcad6f1a060c7aad58e84dfc437f8aa5bbdc"
+      },
+      "2": {
+        "source_ref": "Psalms 109:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 2,
+            "source_ref": "Psalms 109:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6d37b5773d2bbdd84b5a7a6aaaa3487abbd5894c6ba881e7e3601f5d3638f35d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6d37b5773d2bbdd84b5a7a6aaaa3487abbd5894c6ba881e7e3601f5d3638f35d"
+      },
+      "3": {
+        "source_ref": "Psalms 109:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 3,
+            "source_ref": "Psalms 109:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe548aa869b4f137a7b995340643eb00ad9d89df228ed381b1a1505ba1ab9ce4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe548aa869b4f137a7b995340643eb00ad9d89df228ed381b1a1505ba1ab9ce4"
+      },
+      "4": {
+        "source_ref": "Psalms 109:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 4,
+            "source_ref": "Psalms 109:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "15b4521e34f3c8722259ce58bd90a28233a1da88be1a7d894e5c1733fda295c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "15b4521e34f3c8722259ce58bd90a28233a1da88be1a7d894e5c1733fda295c8"
+      },
+      "5": {
+        "source_ref": "Psalms 109:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 5,
+            "source_ref": "Psalms 109:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b6559ce852a5bae1330f06174fc58c288fec7c6d66cf8f62bb2c8c2128c1967"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b6559ce852a5bae1330f06174fc58c288fec7c6d66cf8f62bb2c8c2128c1967"
+      },
+      "6": {
+        "source_ref": "Psalms 109:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 6,
+            "source_ref": "Psalms 109:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7efdaab9db98c7844ed86735c814f78280ad37f3bed18a8dfd79b34b93bc45f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7efdaab9db98c7844ed86735c814f78280ad37f3bed18a8dfd79b34b93bc45f9"
+      },
+      "7": {
+        "source_ref": "Psalms 109:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 7,
+            "source_ref": "Psalms 109:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4e57acb9d5c7ea65fd4a8e3e35f564d475d6385beef9de05de83ef580e5f27bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e57acb9d5c7ea65fd4a8e3e35f564d475d6385beef9de05de83ef580e5f27bd"
+      },
+      "8": {
+        "source_ref": "Psalms 109:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 8,
+            "source_ref": "Psalms 109:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "60d7fef12e876b75a3567540b7a4174eef182a12c0c756a732b652aaa32cef11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60d7fef12e876b75a3567540b7a4174eef182a12c0c756a732b652aaa32cef11"
+      },
+      "9": {
+        "source_ref": "Psalms 109:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 9,
+            "source_ref": "Psalms 109:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5d6bd35e13cbe5ff7aaacc4de1498c5389247031e82f95c76fbb85cd2005b34e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5d6bd35e13cbe5ff7aaacc4de1498c5389247031e82f95c76fbb85cd2005b34e"
+      },
+      "10": {
+        "source_ref": "Psalms 109:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 10,
+            "source_ref": "Psalms 109:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b5bc4264c47171f474b8e1536ae050b3c6b6162902f135d2876d2a9ae893b9fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b5bc4264c47171f474b8e1536ae050b3c6b6162902f135d2876d2a9ae893b9fe"
+      },
+      "11": {
+        "source_ref": "Psalms 109:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 11,
+            "source_ref": "Psalms 109:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ea2487fa0afec5161893003acb668bcf83823ae21ef1395456ae357df971adca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea2487fa0afec5161893003acb668bcf83823ae21ef1395456ae357df971adca"
+      },
+      "12": {
+        "source_ref": "Psalms 109:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 12,
+            "source_ref": "Psalms 109:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb947ab308096cd952216ea1019f2ea03c87a60c95abf168965272a01f3d9d05"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb947ab308096cd952216ea1019f2ea03c87a60c95abf168965272a01f3d9d05"
+      },
+      "13": {
+        "source_ref": "Psalms 109:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 13,
+            "source_ref": "Psalms 109:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "589c77612c0eefcf97fca83e19e41eb83137beca3e5d564bfc88dcc54de395c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "589c77612c0eefcf97fca83e19e41eb83137beca3e5d564bfc88dcc54de395c6"
+      },
+      "14": {
+        "source_ref": "Psalms 109:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 14,
+            "source_ref": "Psalms 109:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c8b572be607a5f1b1768aa3f861e2b8d287713d233d0b1dedf43689feafde22b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c8b572be607a5f1b1768aa3f861e2b8d287713d233d0b1dedf43689feafde22b"
+      },
+      "15": {
+        "source_ref": "Psalms 109:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 15,
+            "source_ref": "Psalms 109:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "953edafeab2519f308486d3aa1b10524c3c8a32e90c29942ff6a2a903f92b0c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "953edafeab2519f308486d3aa1b10524c3c8a32e90c29942ff6a2a903f92b0c2"
+      },
+      "16": {
+        "source_ref": "Psalms 109:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 16,
+            "source_ref": "Psalms 109:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c7066ae6ff5c1c0702cb7662babe702323423cecc10327145d05a41acda60dd7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c7066ae6ff5c1c0702cb7662babe702323423cecc10327145d05a41acda60dd7"
+      },
+      "17": {
+        "source_ref": "Psalms 109:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 17,
+            "source_ref": "Psalms 109:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a4bbdf6320b62d0abdd82d28b7dc6bc2992ef83bd183dcb86cc801bcf0852ab3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a4bbdf6320b62d0abdd82d28b7dc6bc2992ef83bd183dcb86cc801bcf0852ab3"
+      },
+      "18": {
+        "source_ref": "Psalms 109:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 18,
+            "source_ref": "Psalms 109:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6ce800ee6b12ac50542747028d0208d819aaa567593e73d80a2d584e99c6ed3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ce800ee6b12ac50542747028d0208d819aaa567593e73d80a2d584e99c6ed3a"
+      },
+      "19": {
+        "source_ref": "Psalms 109:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 19,
+            "source_ref": "Psalms 109:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b201e18b9756ff5a70413fb76be72cc2b008df92eaafb027618440e5a51adb84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b201e18b9756ff5a70413fb76be72cc2b008df92eaafb027618440e5a51adb84"
+      },
+      "20": {
+        "source_ref": "Psalms 109:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 20,
+            "source_ref": "Psalms 109:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b02c339fab2f4df999cbb5a718e99d97cc14f83383b6f82a5206f6f4d176359a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b02c339fab2f4df999cbb5a718e99d97cc14f83383b6f82a5206f6f4d176359a"
+      },
+      "21": {
+        "source_ref": "Psalms 109:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 21,
+            "source_ref": "Psalms 109:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2fc04d570b0caa81de1cd7b0418d602841bf3b5e0ec3f9b4aca443b105522e8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2fc04d570b0caa81de1cd7b0418d602841bf3b5e0ec3f9b4aca443b105522e8a"
+      },
+      "22": {
+        "source_ref": "Psalms 109:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 22,
+            "source_ref": "Psalms 109:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dd020b4b7fded2e768146c2162b96c5d48d79dd9f983ae73c8cb58781fdd65a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd020b4b7fded2e768146c2162b96c5d48d79dd9f983ae73c8cb58781fdd65a1"
+      },
+      "23": {
+        "source_ref": "Psalms 109:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 23,
+            "source_ref": "Psalms 109:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eac6a63cf585169ce5212cfe5444f7cd6a7902337fe7bc1dcb3c24b7577ff75b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eac6a63cf585169ce5212cfe5444f7cd6a7902337fe7bc1dcb3c24b7577ff75b"
+      },
+      "24": {
+        "source_ref": "Psalms 109:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 24,
+            "source_ref": "Psalms 109:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8534303011832a794c00050a4595ff1b534d312ffeebeedf21849ff5bc0c36ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8534303011832a794c00050a4595ff1b534d312ffeebeedf21849ff5bc0c36ea"
+      },
+      "25": {
+        "source_ref": "Psalms 109:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 25,
+            "source_ref": "Psalms 109:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b25d13c286c5ec008012d2c643a9babf9db585d76b30f1a32f9df3d10bebe04f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b25d13c286c5ec008012d2c643a9babf9db585d76b30f1a32f9df3d10bebe04f"
+      },
+      "26": {
+        "source_ref": "Psalms 109:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 26,
+            "source_ref": "Psalms 109:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e9f4e424d3632b11baab375d0a74533c5558966b287f66a7e351462e9bc21fda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e9f4e424d3632b11baab375d0a74533c5558966b287f66a7e351462e9bc21fda"
+      },
+      "27": {
+        "source_ref": "Psalms 109:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 27,
+            "source_ref": "Psalms 109:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "31af87af71cf30564d9496fa01e28f9d8c720e6dbffff77aa8a6bcb87d19c616"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "31af87af71cf30564d9496fa01e28f9d8c720e6dbffff77aa8a6bcb87d19c616"
+      },
+      "28": {
+        "source_ref": "Psalms 109:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 28,
+            "source_ref": "Psalms 109:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1a54e5bc3006081e529166fc78438bfd1220906e8ba13050b0bcdf15a006d9d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a54e5bc3006081e529166fc78438bfd1220906e8ba13050b0bcdf15a006d9d3"
+      },
+      "29": {
+        "source_ref": "Psalms 109:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 29,
+            "source_ref": "Psalms 109:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "25edd14077362ff53b7819a1b3d38a21af59b7a864dfa5565857636a2ba8b409"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25edd14077362ff53b7819a1b3d38a21af59b7a864dfa5565857636a2ba8b409"
+      },
+      "30": {
+        "source_ref": "Psalms 109:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 30,
+            "source_ref": "Psalms 109:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8608ad020e420f479e9e611d31e88600a24112a91fbbe9d54ffd833e86ac36ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8608ad020e420f479e9e611d31e88600a24112a91fbbe9d54ffd833e86ac36ad"
+      },
+      "31": {
+        "source_ref": "Psalms 109:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 109,
+            "verse": 31,
+            "source_ref": "Psalms 109:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d0818ddf8d1ff80f9f3d34969bb449af4a0eaf945abd0c37f822862427f1798d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0818ddf8d1ff80f9f3d34969bb449af4a0eaf945abd0c37f822862427f1798d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_109.md",
+    "blob_sha": "876347825c49457d3b4e8b9ea08ec3014da15d78"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

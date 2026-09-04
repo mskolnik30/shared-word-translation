@@ -1,0 +1,148 @@
+{
+  "book": "Psalms",
+  "chapter": 67,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 67:1 (Hebrew; whole) + Psalms 67:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 67,
+            "verse": 1,
+            "source_ref": "Psalms 67:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f973bd384b1a320f2592458b020f61fc23eb94d6eed6b2be1d817065b5c35a31"
+          },
+          {
+            "chapter": 67,
+            "verse": 2,
+            "source_ref": "Psalms 67:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "46f224ecdce225eacecfae0e584eb292f161a8b37603a8ff7ac0a6c6fdcf4413"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "506ed55bfaca87f0636feb2db5eaf37825ebee66da094f770d6dbbe225718d4c"
+      },
+      "2": {
+        "source_ref": "Psalms 67:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 67,
+            "verse": 3,
+            "source_ref": "Psalms 67:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c6f97901e3d1cd7f7cafd4baa6d124879dff9b220d2f89e7f614118c75693f26"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c6f97901e3d1cd7f7cafd4baa6d124879dff9b220d2f89e7f614118c75693f26"
+      },
+      "3": {
+        "source_ref": "Psalms 67:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 67,
+            "verse": 4,
+            "source_ref": "Psalms 67:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "800dd7847fff4d2ec2598afa4f44cd27328dd1bd840b40389650a235e7095059"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "800dd7847fff4d2ec2598afa4f44cd27328dd1bd840b40389650a235e7095059"
+      },
+      "4": {
+        "source_ref": "Psalms 67:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 67,
+            "verse": 5,
+            "source_ref": "Psalms 67:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "aca6917e43e2cf08194b2b23de64d40f7de95fcbb860444feae7be918defeee7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "aca6917e43e2cf08194b2b23de64d40f7de95fcbb860444feae7be918defeee7"
+      },
+      "5": {
+        "source_ref": "Psalms 67:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 67,
+            "verse": 6,
+            "source_ref": "Psalms 67:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "800dd7847fff4d2ec2598afa4f44cd27328dd1bd840b40389650a235e7095059"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "800dd7847fff4d2ec2598afa4f44cd27328dd1bd840b40389650a235e7095059"
+      },
+      "6": {
+        "source_ref": "Psalms 67:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 67,
+            "verse": 7,
+            "source_ref": "Psalms 67:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ce179e7b007cc52e94184531c17ceb519d87637372b2a924b2453334de512b65"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ce179e7b007cc52e94184531c17ceb519d87637372b2a924b2453334de512b65"
+      },
+      "7": {
+        "source_ref": "Psalms 67:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 67,
+            "verse": 8,
+            "source_ref": "Psalms 67:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6723cca937975591fabdce77617fc317500916a21827fa36832bdab769592f0f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6723cca937975591fabdce77617fc317500916a21827fa36832bdab769592f0f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_067.md",
+    "blob_sha": "fc236c0ee8dad0ded5243d737c35d2f768271be7"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

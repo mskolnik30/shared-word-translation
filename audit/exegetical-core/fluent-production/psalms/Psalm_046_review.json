@@ -1,0 +1,208 @@
+{
+  "book": "Psalms",
+  "chapter": 46,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 46:1 (Hebrew; whole) + Psalms 46:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 1,
+            "source_ref": "Psalms 46:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fea171aa120ab87e3d7dc5ca9b0bc6656fd69e7e2ad3e49fe36cb7531aa9b0c4"
+          },
+          {
+            "chapter": 46,
+            "verse": 2,
+            "source_ref": "Psalms 46:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c0dd94d149701397126782444665b42d8d964e9c062bc1f504a1f88ae9225d46"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "f6733bc66606418b9ec81c8b841967dc842cf8b640e49f588f7497cdb790c565"
+      },
+      "2": {
+        "source_ref": "Psalms 46:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 3,
+            "source_ref": "Psalms 46:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "cb8e8d529bc73eb25f0f88d682fa382f02c2c058cf849d427d2fa600c78b943a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "cb8e8d529bc73eb25f0f88d682fa382f02c2c058cf849d427d2fa600c78b943a"
+      },
+      "3": {
+        "source_ref": "Psalms 46:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 4,
+            "source_ref": "Psalms 46:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "300585edc61571dd17c6817b8a9447d5f59269660a265b5b79c446c0ca7ea898"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "300585edc61571dd17c6817b8a9447d5f59269660a265b5b79c446c0ca7ea898"
+      },
+      "4": {
+        "source_ref": "Psalms 46:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 5,
+            "source_ref": "Psalms 46:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ee9a127adbc6a360a9f3470aaf823b87f753f434d1d88662fe37f213ca15b988"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ee9a127adbc6a360a9f3470aaf823b87f753f434d1d88662fe37f213ca15b988"
+      },
+      "5": {
+        "source_ref": "Psalms 46:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 6,
+            "source_ref": "Psalms 46:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f8b2b82931b43b846e6c535781db60a4e16e21ac919c9baca3344f08a53b2146"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f8b2b82931b43b846e6c535781db60a4e16e21ac919c9baca3344f08a53b2146"
+      },
+      "6": {
+        "source_ref": "Psalms 46:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 7,
+            "source_ref": "Psalms 46:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "72f749f96f5dad1c8b8b9d1f924915ba640588aed8732a71c3ca0432052a48e7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "72f749f96f5dad1c8b8b9d1f924915ba640588aed8732a71c3ca0432052a48e7"
+      },
+      "7": {
+        "source_ref": "Psalms 46:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 8,
+            "source_ref": "Psalms 46:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3b4dfa3a1d8aa48a4cda3624821be6fec6fadb3d0aecf7058e3f5777df9cffc8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3b4dfa3a1d8aa48a4cda3624821be6fec6fadb3d0aecf7058e3f5777df9cffc8"
+      },
+      "8": {
+        "source_ref": "Psalms 46:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 9,
+            "source_ref": "Psalms 46:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "330177cd77d506fec84f8e5940f276097054176d8b8671d67f04ffd8ddb4ea2a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "330177cd77d506fec84f8e5940f276097054176d8b8671d67f04ffd8ddb4ea2a"
+      },
+      "9": {
+        "source_ref": "Psalms 46:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 10,
+            "source_ref": "Psalms 46:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8e6a8beb944f863d4e71941cfc50058a0f3dcaf1cac331cad9eb0ce41938e773"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8e6a8beb944f863d4e71941cfc50058a0f3dcaf1cac331cad9eb0ce41938e773"
+      },
+      "10": {
+        "source_ref": "Psalms 46:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 11,
+            "source_ref": "Psalms 46:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "846c8d40ad5dd98cfe167ab87ebe72159537275b7a414604909ab5136a3cb0ff"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "846c8d40ad5dd98cfe167ab87ebe72159537275b7a414604909ab5136a3cb0ff"
+      },
+      "11": {
+        "source_ref": "Psalms 46:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 46,
+            "verse": 12,
+            "source_ref": "Psalms 46:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3b4dfa3a1d8aa48a4cda3624821be6fec6fadb3d0aecf7058e3f5777df9cffc8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3b4dfa3a1d8aa48a4cda3624821be6fec6fadb3d0aecf7058e3f5777df9cffc8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_046.md",
+    "blob_sha": "e3a6274486b62f57a9424709fc3548521d976c63"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,298 @@
+{
+  "book": "Psalms",
+  "chapter": 59,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 59:1 (Hebrew; whole) + Psalms 59:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 1,
+            "source_ref": "Psalms 59:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71d888d95638adfa471a47b6a6fed88fd8a6d073c3e1c542c314884d23d132c6"
+          },
+          {
+            "chapter": 59,
+            "verse": 2,
+            "source_ref": "Psalms 59:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d6e055f7106c67984fea9905f1cfa8dccb136ba6b157524de4ebad2a42c90fe4"
+          }
+        ],
+        "segment_mode": "whole+after_kjv_marker",
+        "sha256": "c4fb0451f5df0b6befbc250511bc62a5d96184aafaaab64557ab41b888fb58f0"
+      },
+      "2": {
+        "source_ref": "Psalms 59:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 3,
+            "source_ref": "Psalms 59:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "30dc219a2b532ddaad02222f4d7983e1eb8b1f3670070bc0145070992ce8de37"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "30dc219a2b532ddaad02222f4d7983e1eb8b1f3670070bc0145070992ce8de37"
+      },
+      "3": {
+        "source_ref": "Psalms 59:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 4,
+            "source_ref": "Psalms 59:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "198137534890f7ee3f54e5bd0ea870cf535833b2ab1943adab6d153254f34f05"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "198137534890f7ee3f54e5bd0ea870cf535833b2ab1943adab6d153254f34f05"
+      },
+      "4": {
+        "source_ref": "Psalms 59:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 5,
+            "source_ref": "Psalms 59:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "070a642f04ae0de6e9ac70d075ea22edfe3325dc643f5c338b72c2e713c36add"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "070a642f04ae0de6e9ac70d075ea22edfe3325dc643f5c338b72c2e713c36add"
+      },
+      "5": {
+        "source_ref": "Psalms 59:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 6,
+            "source_ref": "Psalms 59:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "cb6b3feb0af133285708b7879efacf9ce394aa011047bd817684c14381eb93b2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "cb6b3feb0af133285708b7879efacf9ce394aa011047bd817684c14381eb93b2"
+      },
+      "6": {
+        "source_ref": "Psalms 59:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 7,
+            "source_ref": "Psalms 59:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "54b2a2b809ac0be65848aa8e316c2187c9a5db04ac72aa765dd2bf7efa6e56a3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "54b2a2b809ac0be65848aa8e316c2187c9a5db04ac72aa765dd2bf7efa6e56a3"
+      },
+      "7": {
+        "source_ref": "Psalms 59:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 8,
+            "source_ref": "Psalms 59:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "06b7a82976e3db3e0ef12bd6b45e2d3be929d3738525558fb8d99be75b08959e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "06b7a82976e3db3e0ef12bd6b45e2d3be929d3738525558fb8d99be75b08959e"
+      },
+      "8": {
+        "source_ref": "Psalms 59:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 9,
+            "source_ref": "Psalms 59:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9effb911f0509a7cc8c2c2634ac01c5e4d319a011d3453b826e2af2e9fe4856c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9effb911f0509a7cc8c2c2634ac01c5e4d319a011d3453b826e2af2e9fe4856c"
+      },
+      "9": {
+        "source_ref": "Psalms 59:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 10,
+            "source_ref": "Psalms 59:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a83e63c44d694b2b402d864c088a896da17ab854746f934f8b6426e3890c56c3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a83e63c44d694b2b402d864c088a896da17ab854746f934f8b6426e3890c56c3"
+      },
+      "10": {
+        "source_ref": "Psalms 59:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 11,
+            "source_ref": "Psalms 59:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f5822e0bd968b0e843633ed4515a71aa9d247f377a893107f2468655d46ba200"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f5822e0bd968b0e843633ed4515a71aa9d247f377a893107f2468655d46ba200"
+      },
+      "11": {
+        "source_ref": "Psalms 59:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 12,
+            "source_ref": "Psalms 59:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2c19955a9f0b875671cbf76bf0982dd87e65dca88f43b7b90c10f198bda27fe1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2c19955a9f0b875671cbf76bf0982dd87e65dca88f43b7b90c10f198bda27fe1"
+      },
+      "12": {
+        "source_ref": "Psalms 59:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 13,
+            "source_ref": "Psalms 59:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9a13428c18ed2cdc3da10f846ebc8bc7fc0f9e0f6973d05f0041427fc2d18322"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9a13428c18ed2cdc3da10f846ebc8bc7fc0f9e0f6973d05f0041427fc2d18322"
+      },
+      "13": {
+        "source_ref": "Psalms 59:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 14,
+            "source_ref": "Psalms 59:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "dbd28194bd9a036564c7fc81dcc20ba1c2d423e5af009202f9985d4904f011ec"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "dbd28194bd9a036564c7fc81dcc20ba1c2d423e5af009202f9985d4904f011ec"
+      },
+      "14": {
+        "source_ref": "Psalms 59:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 15,
+            "source_ref": "Psalms 59:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "02fb5d18f2482bdef3f2e8f655ce53ecf03c5244125bb61acf3f7ab3372c8086"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "02fb5d18f2482bdef3f2e8f655ce53ecf03c5244125bb61acf3f7ab3372c8086"
+      },
+      "15": {
+        "source_ref": "Psalms 59:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 16,
+            "source_ref": "Psalms 59:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "86ab792957cbae288db13ddead07ceb4e850d3e89d970c1d2af3aafffec7b086"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "86ab792957cbae288db13ddead07ceb4e850d3e89d970c1d2af3aafffec7b086"
+      },
+      "16": {
+        "source_ref": "Psalms 59:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 17,
+            "source_ref": "Psalms 59:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c7c88b17db4871878f1397b0407ab0643127e57de9e55caac0b0dc232c07af9b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c7c88b17db4871878f1397b0407ab0643127e57de9e55caac0b0dc232c07af9b"
+      },
+      "17": {
+        "source_ref": "Psalms 59:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 59,
+            "verse": 18,
+            "source_ref": "Psalms 59:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6a1334cde31c996fcb034f080d027dc6a73747cbbcdcc4754f32a4292cf2a809"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6a1334cde31c996fcb034f080d027dc6a73747cbbcdcc4754f32a4292cf2a809"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_059.md",
+    "blob_sha": "abe71ed4ccbb4981d018f4e76d121f0f73964d1d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

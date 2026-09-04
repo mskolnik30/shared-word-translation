@@ -1,0 +1,178 @@
+{
+  "book": "Psalms",
+  "chapter": 28,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ps.xml",
+    "git_blob_sha": "aeef9be43fd1161be93e14973c088c9034e04edb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Psalms 28:1 (Hebrew; before kjv marker) + Psalms 28:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 1,
+            "source_ref": "Psalms 28:1 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "6eaada10832cf8bf7c5656574c45a7af0ccf3bc2a9d0fbaa89c003ce1cc7daa3"
+          },
+          {
+            "chapter": 28,
+            "verse": 1,
+            "source_ref": "Psalms 28:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "588cc7b403c3b86b9d9b730de78a113d5b95591ba081e183a658b4d45ca5a1f2"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "a51559c5e39b0aba98f009db8330d605e2b867578fe5422e3d05aa241efaef93"
+      },
+      "2": {
+        "source_ref": "Psalms 28:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 2,
+            "source_ref": "Psalms 28:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "02b58db0c57871c2f0e14e2eb1d57b6687f6dc23b75f6897d54a17046a2eeb5d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02b58db0c57871c2f0e14e2eb1d57b6687f6dc23b75f6897d54a17046a2eeb5d"
+      },
+      "3": {
+        "source_ref": "Psalms 28:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 3,
+            "source_ref": "Psalms 28:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b5b9d8dafff647c6d443cee561c8f1af3cb33c40d39a20d7738c9c195a9382f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b5b9d8dafff647c6d443cee561c8f1af3cb33c40d39a20d7738c9c195a9382f"
+      },
+      "4": {
+        "source_ref": "Psalms 28:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 4,
+            "source_ref": "Psalms 28:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dbe4f4f6702187aac5f5d7cc23628b9d688fbc8b8abef99a14586f8a31d0e8d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dbe4f4f6702187aac5f5d7cc23628b9d688fbc8b8abef99a14586f8a31d0e8d5"
+      },
+      "5": {
+        "source_ref": "Psalms 28:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 5,
+            "source_ref": "Psalms 28:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4f8ed6718ad2c9092a5173d9190278c2a9918d6131fb091bdfe31df395b95273"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f8ed6718ad2c9092a5173d9190278c2a9918d6131fb091bdfe31df395b95273"
+      },
+      "6": {
+        "source_ref": "Psalms 28:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 6,
+            "source_ref": "Psalms 28:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8c8a1e9a99612c55ca6ab225e9f2c82be358b337751028b94a5049b087d246ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c8a1e9a99612c55ca6ab225e9f2c82be358b337751028b94a5049b087d246ba"
+      },
+      "7": {
+        "source_ref": "Psalms 28:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 7,
+            "source_ref": "Psalms 28:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c82ed5e57950324ae747f369a4cf543453e26734660b0177dc5d81deb0d520a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c82ed5e57950324ae747f369a4cf543453e26734660b0177dc5d81deb0d520a1"
+      },
+      "8": {
+        "source_ref": "Psalms 28:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 8,
+            "source_ref": "Psalms 28:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6dafb5876e6937b96123fabef7343d5e084633b1ec0694505bfb48a80ca9568a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6dafb5876e6937b96123fabef7343d5e084633b1ec0694505bfb48a80ca9568a"
+      },
+      "9": {
+        "source_ref": "Psalms 28:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 9,
+            "source_ref": "Psalms 28:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f9dee104b34a486609424e73ae576e129ad9851fe3e5e06500e033d997245433"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9dee104b34a486609424e73ae576e129ad9851fe3e5e06500e033d997245433"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/psalms/Psalm_028.md",
+    "blob_sha": "0944a41a7626aaa85bd6cdc5950146cac9e1b75b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
