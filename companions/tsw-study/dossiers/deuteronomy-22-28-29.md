@@ -73,7 +73,7 @@ Recommended visual: a rights-cleared artifact or comparative-law table labeled p
 
 ## Sources and Further Study
 
-- Jonathan Ben-Dov and Liora Goldman, “The Seducer and the Rapist,” on Qumranic and rabbinic interpretations: https://doi.org/10.30965/21967954-00602005
-- Yael Landman, “The Provisions Regarding the Rape and Seduction of an Unbetrothed Girl”: https://doi.org/10.1163/15685330-bja10117
-- Bar-Ilan University research record for Landman's peer-reviewed article: https://cris.biu.ac.il/en/publications/the-provisions-regarding-the-rape-and-seduction-of-an-unbetrothed/
-- RAINN, “Understanding Consent,” for a present-day safeguarding distinction not supplied by the ancient law: https://rainn.org/articles/what-is-consent
+- Paul Heger, “The Seducer and the Rapist,” on Qumranic and rabbinic interpretations: https://doi.org/10.30965/21967954-00602005
+- Darabi Yuvat, “The Provisions Regarding the Rape and Seduction of an Unbetrothed Girl”: https://doi.org/10.1163/15685330-bja10117
+- Bar-Ilan University research record for Yuvat's peer-reviewed article: https://cris.biu.ac.il/en/publications/the-provisions-regarding-the-rape-and-seduction-of-an-unbetrothed/
+- RAINN, “Consent 101,” for a present-day safeguarding distinction not supplied by the ancient law: https://rainn.org/5-rules-for-getting-consent/

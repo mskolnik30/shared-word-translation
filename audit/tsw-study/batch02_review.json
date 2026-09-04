@@ -16,5 +16,22 @@
     {"id":"visual-evidence","label":"Visual provenance, rights, classification, and uncertainty labels","status":"pending","required":true}
   ],
   "release_rule": "Do not publish a dossier until every required human gate is approved and the machine audit passes on the release commit.",
-  "approval_plan": "One consolidated human approval may approve all seven gates after the complete ten-dossier batch has been reviewed."
+  "approval_plan": "One consolidated human approval may approve all seven gates after the complete ten-dossier batch has been reviewed.",
+  "consolidated_review_preparation": {
+    "status": "complete-ready-for-one-approval",
+    "date": "2026-09-04",
+    "scope": [
+      "all ten dossier texts",
+      "all source ledgers",
+      "all content notices and safeguarding language",
+      "all shared-world references and blocked visual requests",
+      "Batch One regression protection"
+    ],
+    "precision_revisions": [
+      "Corrected the authorship of both Deuteronomy 22 journal sources and updated the RAINN consent link.",
+      "Corrected the authorship and DOI presentation of the Zimbabwean Judges 19 study.",
+      "Corrected the authorship of two Jonah studies.",
+      "Replaced an unresolved James source URL with verified peer-reviewed sources and corrected the Orthodox Church in America link."
+    ]
+  }
 }
