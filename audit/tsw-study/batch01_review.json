@@ -4,7 +4,7 @@
   "publication_state": "BLOCKED_PENDING_HUMAN_REVIEW",
   "machine_audit": {
     "command": "python tools/audit_companion_batch.py companions/tsw-study/manifests/batch01.json",
-    "status": "passed-after-round1-2026-09-04"
+    "status": "passed-after-round2-2026-09-04"
   },
   "human_gates": [
     {
@@ -16,7 +16,7 @@
     {
       "id": "historical",
       "label": "Historical and archaeological claims",
-      "status": "pending",
+      "status": "approved",
       "required": true
     },
     {
@@ -61,6 +61,19 @@
       "files_changed": [
         "companions/tsw-study/dossiers/psalm-22.md",
         "companions/tsw-study/dossiers/matthew-16-13-20.md"
+      ]
+    },
+    {
+      "round": 2,
+      "gate": "historical",
+      "status": "approved",
+      "date": "2026-09-04",
+      "summary": "Approved after historical and archaeological review of all ten dossiers, with precision revisions concerning Roman crucifixion and Philippi, ancient conquest rhetoric, Ahaz's Assyrian policy, and the reconstructed setting of Corinthian gatherings.",
+      "files_changed": [
+        "companions/tsw-study/dossiers/philippians-2-5-11.md",
+        "companions/tsw-study/dossiers/joshua-6-15-27.md",
+        "companions/tsw-study/dossiers/isaiah-7-10-17.md",
+        "companions/tsw-study/dossiers/1-corinthians-14-33b-36.md"
       ]
     }
   ]

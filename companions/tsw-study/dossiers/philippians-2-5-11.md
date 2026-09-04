@@ -20,7 +20,7 @@ The movement is not included as a detached lesson in doctrine. Paul introduces i
 
 This passage has shaped Christian teaching about incarnation, Christ's divinity and humanity, humility, obedience, and the cross. It has also been used to demand self-erasure from people already denied dignity or safety. Reading carefully requires a distinction between freely refusing to exploit power and being forced to submit to another person's exploitation.
 
-The crucified person described here is not praised because humiliation is good. The Roman cross was an instrument of state terror and public degradation. The passage announces that Jesus' self-giving path, rather than imperial domination, reveals true lordship—and that God vindicates the one Rome shamed.
+The crucified person described here is not praised because humiliation is good. Roman crucifixion was a brutal public punishment and execution shaped by social status. In the Republican period it was used especially against enslaved people; under the Empire it was applied more broadly to freedpeople and noncitizens, while Roman citizens were ordinarily protected from it. The passage announces that Jesus' self-giving path, rather than imperial domination, reveals true lordship—and that God vindicates the one Rome shamed.
 
 ## Look Closely
 
@@ -82,6 +82,8 @@ Recommended visuals: a three-scale map of Philippi and the Via Egnatia; an archa
 
 ## Sources and Further Study
 
+- Archaeological Site of Philippi, UNESCO World Heritage Centre: https://whc.unesco.org/en/list/1517/
+- Mark D. Smith, “The Final Days of Jesus and the Realities of Roman Capital Punishment”: https://bibleinterp.arizona.edu/articles/2018/02/smi428014
 - Gordon D. Fee, “Philippians 2:5–11: Hymn or Exalted Pauline Prose?” https://scholarlypublishingcollective.org/psup/biblical-research/article/2/1/29/300554/Philippians-2-5-11-Hymn-or-Exalted-Pauline-Prose
 - Samuel F. B. Hoover, N. T. Wright, and J. C. O'Neill on *harpagmos*: https://www.cambridge.org/core/journals/harvard-theological-review/article/hoover-on-harpagmos-reviewed-with-a-modest-proposal-concerning-philippians-26/BB30B7B177C33F0AE33019E1A951F890 and https://scholarlypublishingcollective.org/sblpress/jbl/article/135/1/175/180360/Revisited-A-Philological-Reexamination-of-the-New
 - John Chrysostom, Homily 6 on Philippians: https://www.newadvent.org/fathers/230206.htm

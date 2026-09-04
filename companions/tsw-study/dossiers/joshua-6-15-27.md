@@ -28,7 +28,7 @@ The Hebrew root *hrm* can describe placing something beyond ordinary human use t
 
 The liturgical pattern—seven priests, seven trumpets, seven days, and a final shout—frames the city's fall as sacred action. That framing intensifies rather than removes the moral question. The passage does not portray an ordinary battle won by superior tactics.
 
-Ancient Near Eastern victory accounts often use sweeping claims of total destruction even when later texts assume the same populations remain. Some interpreters therefore understand Joshua's language as conventional hyperbole. That proposal can illuminate genre, but it cannot simply be used to make the words harmless. The narrative wants the reader to encounter totality.
+Some royal victory accounts from the ancient Near East use sweeping claims of annihilation as ideological rhetoric. Joshua likewise uses totalizing language, while later biblical passages still assume the presence of peoples described as removed. Some interpreters therefore understand Joshua's language as conventional hyperbole. That proposal can illuminate genre, but it cannot simply be used to make the words harmless. The narrative wants the reader to encounter totality.
 
 Jericho is commonly identified with Tell es-Sultan. Archaeological dating of destruction layers and the relation between material evidence and Joshua's chronology remain disputed. Archaeology can test historical reconstructions; it cannot by itself decide the theological or moral meaning of the received story.
 

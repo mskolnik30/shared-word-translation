@@ -70,7 +70,7 @@ Interpretive humility is not indecision. It means stating the textual facts accu
 ## Shared Biblical World
 
 - `person-paul` — letter writer, apostle, and participant in contested reception
-- `place-corinth` — Roman colony and network of house assemblies
+- `place-corinth` — Roman colony; domestic meeting patterns inferred from Paul's letters rather than established by archaeology
 - `context-corinthian-assembly` — prophecy, tongues, patronage, status, and ordered participation
 
 Recommended visuals: a manuscript-location diagram showing the common position and the Western transposition; a chapter flow marking all three silence commands; and an interpretive orientation image of a house assembly clearly labeled as imaginative, not documentary.
