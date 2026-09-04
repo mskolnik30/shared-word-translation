@@ -1,0 +1,67 @@
+{
+  "book": "2 Peter",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 3,
+  "public_verse_slots": 61,
+  "included_verse_labels": 61,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 61,
+  "source": {
+    "type": "sblgnt",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Pet.txt",
+    "git_blob_sha": "4e5e26aba20f43d1509afc828e96d90134e52e00"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:16-21",
+      "decision": "Preserve eyewitness, transfiguration, prophecy, and Spirit language without opposing Scripture to experience.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-22",
+      "decision": "Retain the polemical warning while refusing to map unnamed opponents onto modern groups.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:3-13",
+      "decision": "Translate cosmic judgment and new creation without manufacturing a timetable.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:15-16",
+      "decision": "Retain the early reference to Paul's letters and their misuse without overstating a closed canon.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_03",
+  "deployment_audit": {
+    "source_git_blob_sha": "4e5e26aba20f43d1509afc828e96d90134e52e00",
+    "source_binding_count": 61,
+    "unique_source_record_count": 61,
+    "public_verse_slots": 61,
+    "ledger_summary": {
+      "F0": 14,
+      "F1": 6,
+      "F2": 0,
+      "F3": 41
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/2peter/2Peter_01.md",
+        "blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f"
+      },
+      "02": {
+        "path": "books/NT/2peter/2Peter_02.md",
+        "blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87"
+      },
+      "03": {
+        "path": "books/NT/2peter/2Peter_03.md",
+        "blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d"
+      }
+    }
+  }
+}

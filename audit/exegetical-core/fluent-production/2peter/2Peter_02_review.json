@@ -1,0 +1,372 @@
+{
+  "book": "2 Peter",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Pet.txt",
+    "git_blob_sha": "4e5e26aba20f43d1509afc828e96d90134e52e00"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "2:1-22",
+      "decision": "Retain the polemical warning while refusing to map unnamed opponents onto modern groups.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Pet.txt",
+    "git_blob_sha": "4e5e26aba20f43d1509afc828e96d90134e52e00",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Peter 2:1",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "2 Peter 2:1",
+            "segment_mode": "whole",
+            "sha256": "db8d23e6d6d35f217832089535daf72553b078f15e72ae3cc8a57d0f69505781"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db8d23e6d6d35f217832089535daf72553b078f15e72ae3cc8a57d0f69505781"
+      },
+      "2": {
+        "source_ref": "2 Peter 2:2",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "2 Peter 2:2",
+            "segment_mode": "whole",
+            "sha256": "e901411038e25eb58f70aaab201a0acd9a0a4cbda86e8b94e6d3db3143b94bf0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e901411038e25eb58f70aaab201a0acd9a0a4cbda86e8b94e6d3db3143b94bf0"
+      },
+      "3": {
+        "source_ref": "2 Peter 2:3",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "2 Peter 2:3",
+            "segment_mode": "whole",
+            "sha256": "1df8f761adc6730832ebf20d2ae5532c3793679c013039b486bb397dc547e099"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1df8f761adc6730832ebf20d2ae5532c3793679c013039b486bb397dc547e099"
+      },
+      "4": {
+        "source_ref": "2 Peter 2:4",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "2 Peter 2:4",
+            "segment_mode": "whole",
+            "sha256": "9a563f73ac3fab262abab6e5831532e089cca29384c7118e41c77026173de462"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a563f73ac3fab262abab6e5831532e089cca29384c7118e41c77026173de462"
+      },
+      "5": {
+        "source_ref": "2 Peter 2:5",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "2 Peter 2:5",
+            "segment_mode": "whole",
+            "sha256": "464d745ab793d8669881505a5e9b6a858be9577b48a70de957264a1134abf4dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "464d745ab793d8669881505a5e9b6a858be9577b48a70de957264a1134abf4dc"
+      },
+      "6": {
+        "source_ref": "2 Peter 2:6",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "2 Peter 2:6",
+            "segment_mode": "whole",
+            "sha256": "91aa2f881db2d24f777b167560f93ae5d5ad560e35e72a842333d344c3aff18c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91aa2f881db2d24f777b167560f93ae5d5ad560e35e72a842333d344c3aff18c"
+      },
+      "7": {
+        "source_ref": "2 Peter 2:7",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "2 Peter 2:7",
+            "segment_mode": "whole",
+            "sha256": "8850014934a6a771cc3dd3a1734985bad20c9ec2680018a5778e5782d4878977"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8850014934a6a771cc3dd3a1734985bad20c9ec2680018a5778e5782d4878977"
+      },
+      "8": {
+        "source_ref": "2 Peter 2:8",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "2 Peter 2:8",
+            "segment_mode": "whole",
+            "sha256": "82d6d73250216146015e8c9308f79c1da28d2d652329819dd24a928fce036d1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82d6d73250216146015e8c9308f79c1da28d2d652329819dd24a928fce036d1c"
+      },
+      "9": {
+        "source_ref": "2 Peter 2:9",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "2 Peter 2:9",
+            "segment_mode": "whole",
+            "sha256": "009ce1dea1b749e5d04dfdf89c9c8068af98b1dda1dd51d477404f3e4b535f9d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "009ce1dea1b749e5d04dfdf89c9c8068af98b1dda1dd51d477404f3e4b535f9d"
+      },
+      "10": {
+        "source_ref": "2 Peter 2:10",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "2 Peter 2:10",
+            "segment_mode": "whole",
+            "sha256": "5ded77943ea3f7c3a245a2a60ae57b3a274b8777449df165eb9bd144ce5bc0b8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ded77943ea3f7c3a245a2a60ae57b3a274b8777449df165eb9bd144ce5bc0b8"
+      },
+      "11": {
+        "source_ref": "2 Peter 2:11",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "2 Peter 2:11",
+            "segment_mode": "whole",
+            "sha256": "bb9aad5eb7924347f2f22909a04ea6184f356b51cfa7fec27ba1e10348c0d4fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb9aad5eb7924347f2f22909a04ea6184f356b51cfa7fec27ba1e10348c0d4fd"
+      },
+      "12": {
+        "source_ref": "2 Peter 2:12",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "2 Peter 2:12",
+            "segment_mode": "whole",
+            "sha256": "053a090c50a6a086ee739c0567a59c16750466cd0fa734e2bf5bc2e7bd7ac645"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "053a090c50a6a086ee739c0567a59c16750466cd0fa734e2bf5bc2e7bd7ac645"
+      },
+      "13": {
+        "source_ref": "2 Peter 2:13",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "2 Peter 2:13",
+            "segment_mode": "whole",
+            "sha256": "06ef9ef62ece82816c4af7a65828c9077e39636e8e632d8ffdaac8a3830531a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06ef9ef62ece82816c4af7a65828c9077e39636e8e632d8ffdaac8a3830531a6"
+      },
+      "14": {
+        "source_ref": "2 Peter 2:14",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "2 Peter 2:14",
+            "segment_mode": "whole",
+            "sha256": "94085a28d6a613885406719d5302118f0f98db87e7785f7539c731aec9606bf7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94085a28d6a613885406719d5302118f0f98db87e7785f7539c731aec9606bf7"
+      },
+      "15": {
+        "source_ref": "2 Peter 2:15",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "2 Peter 2:15",
+            "segment_mode": "whole",
+            "sha256": "0c9ab7c8efbd8f0eb66e9eca31835ad89e9454e65bb8fef147e2f7c61629fe2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c9ab7c8efbd8f0eb66e9eca31835ad89e9454e65bb8fef147e2f7c61629fe2c"
+      },
+      "16": {
+        "source_ref": "2 Peter 2:16",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 16,
+            "source_ref": "2 Peter 2:16",
+            "segment_mode": "whole",
+            "sha256": "02d966076b23e44eb156d6940057cae2ba4087a017209caf1ba3d81f97ff13c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02d966076b23e44eb156d6940057cae2ba4087a017209caf1ba3d81f97ff13c1"
+      },
+      "17": {
+        "source_ref": "2 Peter 2:17",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 17,
+            "source_ref": "2 Peter 2:17",
+            "segment_mode": "whole",
+            "sha256": "e4ac3e7041d89b13c1720cbb1c7e4564f3812beedb0889bbbf1bbc299bc8b35f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4ac3e7041d89b13c1720cbb1c7e4564f3812beedb0889bbbf1bbc299bc8b35f"
+      },
+      "18": {
+        "source_ref": "2 Peter 2:18",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 18,
+            "source_ref": "2 Peter 2:18",
+            "segment_mode": "whole",
+            "sha256": "37d3f10e2db23445f66f0a5cc4635605f6257cb10ccf4df5c7e1ac6e43cd5af7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37d3f10e2db23445f66f0a5cc4635605f6257cb10ccf4df5c7e1ac6e43cd5af7"
+      },
+      "19": {
+        "source_ref": "2 Peter 2:19",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 19,
+            "source_ref": "2 Peter 2:19",
+            "segment_mode": "whole",
+            "sha256": "1792c8ebd7200007d2fb99eee0799f86f692f5c058d557d9a0bdb2e9392941ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1792c8ebd7200007d2fb99eee0799f86f692f5c058d557d9a0bdb2e9392941ba"
+      },
+      "20": {
+        "source_ref": "2 Peter 2:20",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 20,
+            "source_ref": "2 Peter 2:20",
+            "segment_mode": "whole",
+            "sha256": "c2b3c8dd0df4950dd31b958ce2123ee2287d8c874e052980af70713ecdcd3411"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2b3c8dd0df4950dd31b958ce2123ee2287d8c874e052980af70713ecdcd3411"
+      },
+      "21": {
+        "source_ref": "2 Peter 2:21",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 21,
+            "source_ref": "2 Peter 2:21",
+            "segment_mode": "whole",
+            "sha256": "489024beaa8cbc2bbd4c5a6e972fbec826ce18de7f93c837af35ed582ca3cd26"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "489024beaa8cbc2bbd4c5a6e972fbec826ce18de7f93c837af35ed582ca3cd26"
+      },
+      "22": {
+        "source_ref": "2 Peter 2:22",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 22,
+            "source_ref": "2 Peter 2:22",
+            "segment_mode": "whole",
+            "sha256": "ff61c19701029b991e5b1f0465ddd5a7671341a61756113254ae16965326279f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff61c19701029b991e5b1f0465ddd5a7671341a61756113254ae16965326279f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/2peter/2Peter_02.md",
+    "blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
