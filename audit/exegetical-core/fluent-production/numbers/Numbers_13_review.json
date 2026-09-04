@@ -1,0 +1,537 @@
+{
+  "book": "Numbers",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "13:1-14:45",
+      "decision": "Keep exploration, fear, communal refusal, minority testimony, judgment, and failed presumption distinct.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Numbers 13:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Numbers 13:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "2": {
+        "source_ref": "Numbers 13:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 2,
+            "source_ref": "Numbers 13:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e3605796f91981259a1571a188296b9b0e2813a9a621870dfbf2e1fed5aac22b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3605796f91981259a1571a188296b9b0e2813a9a621870dfbf2e1fed5aac22b"
+      },
+      "3": {
+        "source_ref": "Numbers 13:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 3,
+            "source_ref": "Numbers 13:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4041fd3fccec0eb452caf4fdffe4e1f3b9dd26fa5f89a441464d2dc109f49818"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4041fd3fccec0eb452caf4fdffe4e1f3b9dd26fa5f89a441464d2dc109f49818"
+      },
+      "4": {
+        "source_ref": "Numbers 13:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 4,
+            "source_ref": "Numbers 13:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f9a861c87fe84f1cef53e54ca41d9f84263290c636a0e0ad12b222af998a807b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9a861c87fe84f1cef53e54ca41d9f84263290c636a0e0ad12b222af998a807b"
+      },
+      "5": {
+        "source_ref": "Numbers 13:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 5,
+            "source_ref": "Numbers 13:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "31d8955795fcd1c3cea24cda916d54dfb28de75086a9309457cb8cf6d863e8cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "31d8955795fcd1c3cea24cda916d54dfb28de75086a9309457cb8cf6d863e8cf"
+      },
+      "6": {
+        "source_ref": "Numbers 13:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Numbers 13:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73fb0dfe26e37958b8f012fe0fab6a8a54419152792600b00bfc69f65c1595c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73fb0dfe26e37958b8f012fe0fab6a8a54419152792600b00bfc69f65c1595c3"
+      },
+      "7": {
+        "source_ref": "Numbers 13:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 7,
+            "source_ref": "Numbers 13:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ce5a50304f00f986215a52728a8d22df694a51386eab4ecad714c64f26107c67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce5a50304f00f986215a52728a8d22df694a51386eab4ecad714c64f26107c67"
+      },
+      "8": {
+        "source_ref": "Numbers 13:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 8,
+            "source_ref": "Numbers 13:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a58ebbf4fa80b411730a5edb6fcff3e6552f8db0c5d0733438c6f161880cac46"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a58ebbf4fa80b411730a5edb6fcff3e6552f8db0c5d0733438c6f161880cac46"
+      },
+      "9": {
+        "source_ref": "Numbers 13:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 9,
+            "source_ref": "Numbers 13:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "64b573943ad99fb774ef8255752162132ba57bf56ee7eee3940485ca59aa9218"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64b573943ad99fb774ef8255752162132ba57bf56ee7eee3940485ca59aa9218"
+      },
+      "10": {
+        "source_ref": "Numbers 13:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 10,
+            "source_ref": "Numbers 13:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "537826058d9a6479448f5c25783e303e22fe65227a50275c836cd5fa42ef0a52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "537826058d9a6479448f5c25783e303e22fe65227a50275c836cd5fa42ef0a52"
+      },
+      "11": {
+        "source_ref": "Numbers 13:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 11,
+            "source_ref": "Numbers 13:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "60039430d5ee0013ee058cead65fee69ab1528e85198ef0d81c571a462803563"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60039430d5ee0013ee058cead65fee69ab1528e85198ef0d81c571a462803563"
+      },
+      "12": {
+        "source_ref": "Numbers 13:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 12,
+            "source_ref": "Numbers 13:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7903d52791ed590482860a402a479a31c4370739025362ae972b2460728fe071"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7903d52791ed590482860a402a479a31c4370739025362ae972b2460728fe071"
+      },
+      "13": {
+        "source_ref": "Numbers 13:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 13,
+            "source_ref": "Numbers 13:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a312627474b947aa17274e24871965a4fd87e166932b317233c61eecc446013"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a312627474b947aa17274e24871965a4fd87e166932b317233c61eecc446013"
+      },
+      "14": {
+        "source_ref": "Numbers 13:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 14,
+            "source_ref": "Numbers 13:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "128829a2d280d3e47085002956fa647900a55efff6adccc23bf107eda6649821"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "128829a2d280d3e47085002956fa647900a55efff6adccc23bf107eda6649821"
+      },
+      "15": {
+        "source_ref": "Numbers 13:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 15,
+            "source_ref": "Numbers 13:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "332a615627bfb8d37d10262c4b2782c6a86efbc88f5a65fdbfd9d3801f6d93c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "332a615627bfb8d37d10262c4b2782c6a86efbc88f5a65fdbfd9d3801f6d93c8"
+      },
+      "16": {
+        "source_ref": "Numbers 13:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 16,
+            "source_ref": "Numbers 13:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d46ede03e97e6faceeaccbfb5bfc4b1fc82891ee02a84894ee7a936e18a982d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d46ede03e97e6faceeaccbfb5bfc4b1fc82891ee02a84894ee7a936e18a982d"
+      },
+      "17": {
+        "source_ref": "Numbers 13:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 17,
+            "source_ref": "Numbers 13:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7e13c68f28e5cba107b0f09af80cbf2e810fe3fc2334e4c07ee8e02b60ec26e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e13c68f28e5cba107b0f09af80cbf2e810fe3fc2334e4c07ee8e02b60ec26e3"
+      },
+      "18": {
+        "source_ref": "Numbers 13:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 18,
+            "source_ref": "Numbers 13:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "452b3eed749195dc3ddcc466f5ba4f2d19dcdafe2d1ea475c1a7b2ad99552cec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "452b3eed749195dc3ddcc466f5ba4f2d19dcdafe2d1ea475c1a7b2ad99552cec"
+      },
+      "19": {
+        "source_ref": "Numbers 13:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 19,
+            "source_ref": "Numbers 13:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7daf7c21bece525446f597e8a4365282edc18fc1742de31bde1a33063b317891"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7daf7c21bece525446f597e8a4365282edc18fc1742de31bde1a33063b317891"
+      },
+      "20": {
+        "source_ref": "Numbers 13:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 20,
+            "source_ref": "Numbers 13:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "98245837e3fefdf5ef6d0ad8cb3f3577fd33883f8c169c5740a9af941b4c761f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98245837e3fefdf5ef6d0ad8cb3f3577fd33883f8c169c5740a9af941b4c761f"
+      },
+      "21": {
+        "source_ref": "Numbers 13:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 21,
+            "source_ref": "Numbers 13:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b1e3d41abfeb1215aab6e94c8fe80b95caf74cce565b2174e385f6273863a29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b1e3d41abfeb1215aab6e94c8fe80b95caf74cce565b2174e385f6273863a29"
+      },
+      "22": {
+        "source_ref": "Numbers 13:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 22,
+            "source_ref": "Numbers 13:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c2049e1587533806a24172f45644b56f9665b506af41a237485785c41d348f84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2049e1587533806a24172f45644b56f9665b506af41a237485785c41d348f84"
+      },
+      "23": {
+        "source_ref": "Numbers 13:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 23,
+            "source_ref": "Numbers 13:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e27cfe5c430242d68eecdfaf21d8fefb2bf07e64ff765959ad742f3ace7ec84c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e27cfe5c430242d68eecdfaf21d8fefb2bf07e64ff765959ad742f3ace7ec84c"
+      },
+      "24": {
+        "source_ref": "Numbers 13:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 24,
+            "source_ref": "Numbers 13:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e3c6b70dcb84ebf269d77d2d7eb97ac6304cced74c087ee396527cf86f3bad2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e3c6b70dcb84ebf269d77d2d7eb97ac6304cced74c087ee396527cf86f3bad2"
+      },
+      "25": {
+        "source_ref": "Numbers 13:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 25,
+            "source_ref": "Numbers 13:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b530218cba0f75a6848cdfd015ba664bff18527a6c5f40935f18a5b78590a769"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b530218cba0f75a6848cdfd015ba664bff18527a6c5f40935f18a5b78590a769"
+      },
+      "26": {
+        "source_ref": "Numbers 13:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 26,
+            "source_ref": "Numbers 13:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d6c5ae636611773413381ff2da0e6d2a32142757b2714a08e242afc63381d587"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6c5ae636611773413381ff2da0e6d2a32142757b2714a08e242afc63381d587"
+      },
+      "27": {
+        "source_ref": "Numbers 13:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 27,
+            "source_ref": "Numbers 13:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c32f0d8be1c426a04970600776f5d1ca467616424c314719664238b4422f3152"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c32f0d8be1c426a04970600776f5d1ca467616424c314719664238b4422f3152"
+      },
+      "28": {
+        "source_ref": "Numbers 13:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 28,
+            "source_ref": "Numbers 13:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "92cf69928a525f74a4a13051cb8d28c91371befbccbc8facb21fab7ce3ac1d84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "92cf69928a525f74a4a13051cb8d28c91371befbccbc8facb21fab7ce3ac1d84"
+      },
+      "29": {
+        "source_ref": "Numbers 13:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 29,
+            "source_ref": "Numbers 13:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "146d82a1ebce65ab7825419b1efa6c66df8aae36eb82b55142ee007956329a3b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "146d82a1ebce65ab7825419b1efa6c66df8aae36eb82b55142ee007956329a3b"
+      },
+      "30": {
+        "source_ref": "Numbers 13:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 30,
+            "source_ref": "Numbers 13:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0da8295be7dd7ed5973344557b31c76b02bd16a20d403d0f1aecb8ea2c99d193"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0da8295be7dd7ed5973344557b31c76b02bd16a20d403d0f1aecb8ea2c99d193"
+      },
+      "31": {
+        "source_ref": "Numbers 13:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 31,
+            "source_ref": "Numbers 13:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c7756031cc4075f10580f871c355e3cf7ff38b0742bd4872dde93b1d3b854be2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c7756031cc4075f10580f871c355e3cf7ff38b0742bd4872dde93b1d3b854be2"
+      },
+      "32": {
+        "source_ref": "Numbers 13:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 32,
+            "source_ref": "Numbers 13:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "18e1b2dfaa389b4cdb0458e96ae40614b70a9390253d9443da0633698c7129c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18e1b2dfaa389b4cdb0458e96ae40614b70a9390253d9443da0633698c7129c7"
+      },
+      "33": {
+        "source_ref": "Numbers 13:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 33,
+            "source_ref": "Numbers 13:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4dbb8c00f225929b40984e3cea16638e4a4458862e88c9ad4c458f73d4abbc1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4dbb8c00f225929b40984e3cea16638e4a4458862e88c9ad4c458f73d4abbc1c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/numbers/Numbers_13.md",
+    "blob_sha": "a093720f92948b9f2eb9617bb92f135acc54aa44"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

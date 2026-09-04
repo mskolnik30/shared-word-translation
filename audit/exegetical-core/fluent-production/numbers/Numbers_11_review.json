@@ -1,0 +1,567 @@
+{
+  "book": "Numbers",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "11:1-20:13",
+      "decision": "Preserve complaint, provision, leadership strain, rebellion, judgment, grief, and Moses' failure.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Numbers 11:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 1,
+            "source_ref": "Numbers 11:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56b1a8641b849bfd0777007b24128c4cb7f03b8496b6fa0729c54a3c63b3ec9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56b1a8641b849bfd0777007b24128c4cb7f03b8496b6fa0729c54a3c63b3ec9b"
+      },
+      "2": {
+        "source_ref": "Numbers 11:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 2,
+            "source_ref": "Numbers 11:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9cf4549aa423a97d85575ccfbe941c0869daf95e83db9b4f9852fe592ed5c4ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9cf4549aa423a97d85575ccfbe941c0869daf95e83db9b4f9852fe592ed5c4ad"
+      },
+      "3": {
+        "source_ref": "Numbers 11:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 3,
+            "source_ref": "Numbers 11:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a9fd79bc54b4a00bc68aed27190d1b20dc16eb72f62226427ba9c63d83890e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a9fd79bc54b4a00bc68aed27190d1b20dc16eb72f62226427ba9c63d83890e6"
+      },
+      "4": {
+        "source_ref": "Numbers 11:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 4,
+            "source_ref": "Numbers 11:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a40b5e1df85151b04ee3f801c06bd5a63da152603c67eaf742c8c1de51452be0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a40b5e1df85151b04ee3f801c06bd5a63da152603c67eaf742c8c1de51452be0"
+      },
+      "5": {
+        "source_ref": "Numbers 11:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 5,
+            "source_ref": "Numbers 11:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7bcd5413166df916edbae428d2938ac3134d7a05a549614050837987b8f65c54"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7bcd5413166df916edbae428d2938ac3134d7a05a549614050837987b8f65c54"
+      },
+      "6": {
+        "source_ref": "Numbers 11:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 6,
+            "source_ref": "Numbers 11:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "691b74880eea4939dd971950db3143b4b74173ed1c1544745cfa500755ddebce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "691b74880eea4939dd971950db3143b4b74173ed1c1544745cfa500755ddebce"
+      },
+      "7": {
+        "source_ref": "Numbers 11:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 7,
+            "source_ref": "Numbers 11:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a89ff06f7b075b84f94be401bad72dbd8fb03110e730891119afc1b16b9d1efc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a89ff06f7b075b84f94be401bad72dbd8fb03110e730891119afc1b16b9d1efc"
+      },
+      "8": {
+        "source_ref": "Numbers 11:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 8,
+            "source_ref": "Numbers 11:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b358163609de99171dda98f054b8d52ac683200346a52c2b8841d9ee96f0e64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b358163609de99171dda98f054b8d52ac683200346a52c2b8841d9ee96f0e64"
+      },
+      "9": {
+        "source_ref": "Numbers 11:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 9,
+            "source_ref": "Numbers 11:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c1892cafc92f816f914f7953507351b92c25b03728dfca7902d81975bd96709"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c1892cafc92f816f914f7953507351b92c25b03728dfca7902d81975bd96709"
+      },
+      "10": {
+        "source_ref": "Numbers 11:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 10,
+            "source_ref": "Numbers 11:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4f9c41d17541161d959e756b03c3f16b1f0de3efb8d9c1743589a42007fd912d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f9c41d17541161d959e756b03c3f16b1f0de3efb8d9c1743589a42007fd912d"
+      },
+      "11": {
+        "source_ref": "Numbers 11:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 11,
+            "source_ref": "Numbers 11:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "450ac2e6a239ac1cf01b755ce91b44cd2b284f865451447e5a6a798970a374f7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "450ac2e6a239ac1cf01b755ce91b44cd2b284f865451447e5a6a798970a374f7"
+      },
+      "12": {
+        "source_ref": "Numbers 11:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 12,
+            "source_ref": "Numbers 11:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a846cb2fc18881f15fea7949ee1c9fec6e7fce62bedc8e85b727c01c7d5ecc4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a846cb2fc18881f15fea7949ee1c9fec6e7fce62bedc8e85b727c01c7d5ecc4"
+      },
+      "13": {
+        "source_ref": "Numbers 11:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 13,
+            "source_ref": "Numbers 11:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8301014b6374a0e82806541de970bc0aad0b23f4d09a3e360cfd42cf3823df1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8301014b6374a0e82806541de970bc0aad0b23f4d09a3e360cfd42cf3823df1b"
+      },
+      "14": {
+        "source_ref": "Numbers 11:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 14,
+            "source_ref": "Numbers 11:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c491d722ae91a48a491dc2446ff31c388c8067a02f88551b922e77f4c37615de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c491d722ae91a48a491dc2446ff31c388c8067a02f88551b922e77f4c37615de"
+      },
+      "15": {
+        "source_ref": "Numbers 11:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 15,
+            "source_ref": "Numbers 11:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3bf7ec388c70bbe505e90ab789ff3194da7b6dab2ba526b1c0a1828554c243b9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3bf7ec388c70bbe505e90ab789ff3194da7b6dab2ba526b1c0a1828554c243b9"
+      },
+      "16": {
+        "source_ref": "Numbers 11:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 16,
+            "source_ref": "Numbers 11:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "02b6290b0b282fb3e163fad66c77c0c71e22b0cf0811304c85b99ef0409ce810"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02b6290b0b282fb3e163fad66c77c0c71e22b0cf0811304c85b99ef0409ce810"
+      },
+      "17": {
+        "source_ref": "Numbers 11:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 17,
+            "source_ref": "Numbers 11:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d414414ef096afc40dbc325bfb9ff6140cd54126bbaeb4a9c1588214157709a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d414414ef096afc40dbc325bfb9ff6140cd54126bbaeb4a9c1588214157709a"
+      },
+      "18": {
+        "source_ref": "Numbers 11:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 18,
+            "source_ref": "Numbers 11:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c48fa86040b9d65d0d9a3deba69abf61727cae574c5aa12a671def01d47a994d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c48fa86040b9d65d0d9a3deba69abf61727cae574c5aa12a671def01d47a994d"
+      },
+      "19": {
+        "source_ref": "Numbers 11:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 19,
+            "source_ref": "Numbers 11:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5801df3349f478d51ad7f3ec043673d7e3fd5a5c737ea33ddb1f32d9447c56fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5801df3349f478d51ad7f3ec043673d7e3fd5a5c737ea33ddb1f32d9447c56fd"
+      },
+      "20": {
+        "source_ref": "Numbers 11:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 20,
+            "source_ref": "Numbers 11:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c4233670fb95853eb92f11b52911dfc2505cf76924f071d4e18bdf92c7460ad0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c4233670fb95853eb92f11b52911dfc2505cf76924f071d4e18bdf92c7460ad0"
+      },
+      "21": {
+        "source_ref": "Numbers 11:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 21,
+            "source_ref": "Numbers 11:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1a66a9a9a7ff1a48c714c0f61383ba9c1c59492042223272811af297a45c4d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1a66a9a9a7ff1a48c714c0f61383ba9c1c59492042223272811af297a45c4d1"
+      },
+      "22": {
+        "source_ref": "Numbers 11:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 22,
+            "source_ref": "Numbers 11:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b5111e9a842405aecb860f5330a6bf0b0136b81a30e7ef21d41d41fec210739"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b5111e9a842405aecb860f5330a6bf0b0136b81a30e7ef21d41d41fec210739"
+      },
+      "23": {
+        "source_ref": "Numbers 11:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 23,
+            "source_ref": "Numbers 11:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9b4e776a33bdc11c10ac0283ae2171c3e7a3bd7259a647ff6d896e804eefc3da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b4e776a33bdc11c10ac0283ae2171c3e7a3bd7259a647ff6d896e804eefc3da"
+      },
+      "24": {
+        "source_ref": "Numbers 11:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 24,
+            "source_ref": "Numbers 11:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ada9edebf59ec8bea04b8cc5990e734c1f9fc45f4dfb14f85d6b9dac13f28715"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ada9edebf59ec8bea04b8cc5990e734c1f9fc45f4dfb14f85d6b9dac13f28715"
+      },
+      "25": {
+        "source_ref": "Numbers 11:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 25,
+            "source_ref": "Numbers 11:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c6e1b6299062dc992b0aaf49dd776f859e75d4a76802b576049456c37f127c16"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c6e1b6299062dc992b0aaf49dd776f859e75d4a76802b576049456c37f127c16"
+      },
+      "26": {
+        "source_ref": "Numbers 11:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 26,
+            "source_ref": "Numbers 11:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d6c21153e84a5b3920f8bccac1fda30ab412c0635eb3282f9e70b198056c2ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d6c21153e84a5b3920f8bccac1fda30ab412c0635eb3282f9e70b198056c2ea"
+      },
+      "27": {
+        "source_ref": "Numbers 11:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 27,
+            "source_ref": "Numbers 11:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bec275a9ee6f02c28ca7352896770ac78df263371d9be1c61798c4cf9f9ec027"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bec275a9ee6f02c28ca7352896770ac78df263371d9be1c61798c4cf9f9ec027"
+      },
+      "28": {
+        "source_ref": "Numbers 11:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 28,
+            "source_ref": "Numbers 11:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a521d1f0e4510b2b0b65663a8424a29dad0caa5deda60cece221da981c51caee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a521d1f0e4510b2b0b65663a8424a29dad0caa5deda60cece221da981c51caee"
+      },
+      "29": {
+        "source_ref": "Numbers 11:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 29,
+            "source_ref": "Numbers 11:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "86bf6e199bd9bda8bd66a2a970a152dc5e8e51ae8529bbe02c642b4a2809eaf6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "86bf6e199bd9bda8bd66a2a970a152dc5e8e51ae8529bbe02c642b4a2809eaf6"
+      },
+      "30": {
+        "source_ref": "Numbers 11:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 30,
+            "source_ref": "Numbers 11:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "820317ad6b1bb22a3dba450a489160f81963287e85692b5ec758fde69a4d82c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "820317ad6b1bb22a3dba450a489160f81963287e85692b5ec758fde69a4d82c0"
+      },
+      "31": {
+        "source_ref": "Numbers 11:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 31,
+            "source_ref": "Numbers 11:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "864660ef12c99a6dfde597990c6017887786baa31860a7428f85538e81a80583"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "864660ef12c99a6dfde597990c6017887786baa31860a7428f85538e81a80583"
+      },
+      "32": {
+        "source_ref": "Numbers 11:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 32,
+            "source_ref": "Numbers 11:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "76374f67f47741d01fb7c21fa4780c46fe580077043b5adf8c9260b04ef8a644"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76374f67f47741d01fb7c21fa4780c46fe580077043b5adf8c9260b04ef8a644"
+      },
+      "33": {
+        "source_ref": "Numbers 11:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 33,
+            "source_ref": "Numbers 11:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e6c3ff075f567b2465dc2730dd3ea601e9f7e6732a398ff5c81d9624307dc709"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e6c3ff075f567b2465dc2730dd3ea601e9f7e6732a398ff5c81d9624307dc709"
+      },
+      "34": {
+        "source_ref": "Numbers 11:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 34,
+            "source_ref": "Numbers 11:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "276a57f61327cae519c6248733975d1f83dfcf8d00dfc5f2e79e7aba7904a0c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "276a57f61327cae519c6248733975d1f83dfcf8d00dfc5f2e79e7aba7904a0c8"
+      },
+      "35": {
+        "source_ref": "Numbers 11:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 35,
+            "source_ref": "Numbers 11:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dc1443ccf43ce0ab7d3960b4c4ad99d557329bb55788ae3f72d6a2a10ee8c570"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc1443ccf43ce0ab7d3960b4c4ad99d557329bb55788ae3f72d6a2a10ee8c570"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/numbers/Numbers_11.md",
+    "blob_sha": "ad9e640312728c78b391762550c5778dee6e2d68"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

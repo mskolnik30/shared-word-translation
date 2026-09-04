@@ -1,0 +1,231 @@
+{
+  "book": "Numbers",
+  "chapter": 17,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Numbers 17:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 16,
+            "source_ref": "Numbers 17:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ed61b0a090f76bf999abc8890ed9a00b686023b44f5b054b0aad753b73d16718"
+      },
+      "2": {
+        "source_ref": "Numbers 17:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 17,
+            "source_ref": "Numbers 17:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "fc6b80a44b5eee90ef6475fe9455acf97230eee3d34050f954024dbadc19ee7b"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "fc6b80a44b5eee90ef6475fe9455acf97230eee3d34050f954024dbadc19ee7b"
+      },
+      "3": {
+        "source_ref": "Numbers 17:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 18,
+            "source_ref": "Numbers 17:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d1911888315b7f12fb5a6c921e7a2555492a3d99050a6bcfa38d5b7cb0358288"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d1911888315b7f12fb5a6c921e7a2555492a3d99050a6bcfa38d5b7cb0358288"
+      },
+      "4": {
+        "source_ref": "Numbers 17:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 19,
+            "source_ref": "Numbers 17:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3ef4bf1e9e6f2e4ab79a1fa95ada54584e8380bbffa983d6f1114b37507a5797"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3ef4bf1e9e6f2e4ab79a1fa95ada54584e8380bbffa983d6f1114b37507a5797"
+      },
+      "5": {
+        "source_ref": "Numbers 17:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 20,
+            "source_ref": "Numbers 17:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f527e819a11590b2c2d8d287d77be063ff822908d6edabf89c3318815f80ce7e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f527e819a11590b2c2d8d287d77be063ff822908d6edabf89c3318815f80ce7e"
+      },
+      "6": {
+        "source_ref": "Numbers 17:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 21,
+            "source_ref": "Numbers 17:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "26f424ded038e48371b64bf612c5fec9164d063b25b151053a7025514c07df85"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "26f424ded038e48371b64bf612c5fec9164d063b25b151053a7025514c07df85"
+      },
+      "7": {
+        "source_ref": "Numbers 17:22 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 22,
+            "source_ref": "Numbers 17:22 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "87b69b56534ee5c05939952161f2b52168db6ecc1b8dd7801d932c8ecef03a09"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "87b69b56534ee5c05939952161f2b52168db6ecc1b8dd7801d932c8ecef03a09"
+      },
+      "8": {
+        "source_ref": "Numbers 17:23 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 23,
+            "source_ref": "Numbers 17:23 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6cbdbf00bbdb4e5e67fef5f314a17ab884d023228bcaaf75e2273e876f96b11c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6cbdbf00bbdb4e5e67fef5f314a17ab884d023228bcaaf75e2273e876f96b11c"
+      },
+      "9": {
+        "source_ref": "Numbers 17:24 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 24,
+            "source_ref": "Numbers 17:24 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2ab36d4f7ce5124917a14dcc34321c587ff831a50f4b9841b47fc48fe3e0268e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2ab36d4f7ce5124917a14dcc34321c587ff831a50f4b9841b47fc48fe3e0268e"
+      },
+      "10": {
+        "source_ref": "Numbers 17:25 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 25,
+            "source_ref": "Numbers 17:25 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "edec919e84995b7ef3dbc79f7784fecf315929ae17dde03c3fe651c607fa809f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "edec919e84995b7ef3dbc79f7784fecf315929ae17dde03c3fe651c607fa809f"
+      },
+      "11": {
+        "source_ref": "Numbers 17:26 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 26,
+            "source_ref": "Numbers 17:26 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f3563c2520a70ea84f282c9a260c521622162f9d80b63943e4f4ea86e20af7f1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f3563c2520a70ea84f282c9a260c521622162f9d80b63943e4f4ea86e20af7f1"
+      },
+      "12": {
+        "source_ref": "Numbers 17:27 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 27,
+            "source_ref": "Numbers 17:27 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "5c3e1e88ae4b4080f4a525832a5c32c44c9be0e5f365ebdcfd264a8cd2b3fe69"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "5c3e1e88ae4b4080f4a525832a5c32c44c9be0e5f365ebdcfd264a8cd2b3fe69"
+      },
+      "13": {
+        "source_ref": "Numbers 17:28 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 28,
+            "source_ref": "Numbers 17:28 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "15e29112edc6bd346d7c1158795d7ce35dcea73958f6c15102dc0de46619c453"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "15e29112edc6bd346d7c1158795d7ce35dcea73958f6c15102dc0de46619c453"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/numbers/Numbers_17.md",
+    "blob_sha": "ad8a716de64632c8297b45f7f4c9d7f8c9606f60"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

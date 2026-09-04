@@ -1,0 +1,231 @@
+{
+  "book": "Numbers",
+  "chapter": 36,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Num.xml",
+    "git_blob_sha": "2e7252db3bd33d510d2361a8b5016ac680b27dbb",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Numbers 36:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 1,
+            "source_ref": "Numbers 36:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5433dbed2822418c150190a056dd347db092069b6056219aee1991b2526a6925"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5433dbed2822418c150190a056dd347db092069b6056219aee1991b2526a6925"
+      },
+      "2": {
+        "source_ref": "Numbers 36:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 2,
+            "source_ref": "Numbers 36:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8731b51b74b7abb35eb24721687ec5ea7e374a71b8af8728554b98fa5c1f5b30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8731b51b74b7abb35eb24721687ec5ea7e374a71b8af8728554b98fa5c1f5b30"
+      },
+      "3": {
+        "source_ref": "Numbers 36:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 3,
+            "source_ref": "Numbers 36:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "748ee3f55abc2e00d697ac7042244e724e2ad7726e123c39ee4537cb8d9b6908"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "748ee3f55abc2e00d697ac7042244e724e2ad7726e123c39ee4537cb8d9b6908"
+      },
+      "4": {
+        "source_ref": "Numbers 36:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 4,
+            "source_ref": "Numbers 36:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c750829b52957a18adfedca9de24984d0fb638bf92e2b748445ddfcc3515ca36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c750829b52957a18adfedca9de24984d0fb638bf92e2b748445ddfcc3515ca36"
+      },
+      "5": {
+        "source_ref": "Numbers 36:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 5,
+            "source_ref": "Numbers 36:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "968fbcc3528afc0935d9c0aaa50902e0bad7afd3db8a04ac96bd0aebfce4c28c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "968fbcc3528afc0935d9c0aaa50902e0bad7afd3db8a04ac96bd0aebfce4c28c"
+      },
+      "6": {
+        "source_ref": "Numbers 36:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 6,
+            "source_ref": "Numbers 36:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "920b40297d58f1cbb169e00af987ed6a69146db1077d4fbaf77880901a02e720"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "920b40297d58f1cbb169e00af987ed6a69146db1077d4fbaf77880901a02e720"
+      },
+      "7": {
+        "source_ref": "Numbers 36:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 7,
+            "source_ref": "Numbers 36:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "20319896d802e56fa2993d2025e4bbb01be0c1d36c4271d810f59cc566e332f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "20319896d802e56fa2993d2025e4bbb01be0c1d36c4271d810f59cc566e332f8"
+      },
+      "8": {
+        "source_ref": "Numbers 36:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 8,
+            "source_ref": "Numbers 36:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4f4a49cc40d7a82045a142d63012e8f973e8bce6e71bdbf612bdc3544b11ab8c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f4a49cc40d7a82045a142d63012e8f973e8bce6e71bdbf612bdc3544b11ab8c"
+      },
+      "9": {
+        "source_ref": "Numbers 36:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 9,
+            "source_ref": "Numbers 36:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dee0d00e997414b747b8ac210072296d153f9472959965af60f93f556c5e1ea5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dee0d00e997414b747b8ac210072296d153f9472959965af60f93f556c5e1ea5"
+      },
+      "10": {
+        "source_ref": "Numbers 36:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 10,
+            "source_ref": "Numbers 36:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac83657260a10b1c4ad62f896408b299c37afd7fbe5e3c432a709fd24a07c4cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac83657260a10b1c4ad62f896408b299c37afd7fbe5e3c432a709fd24a07c4cf"
+      },
+      "11": {
+        "source_ref": "Numbers 36:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 11,
+            "source_ref": "Numbers 36:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "da295c67f5f03ff050fbd9b0a406ffd534361b8d0b485d4270c83dc278d0b8b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da295c67f5f03ff050fbd9b0a406ffd534361b8d0b485d4270c83dc278d0b8b3"
+      },
+      "12": {
+        "source_ref": "Numbers 36:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 12,
+            "source_ref": "Numbers 36:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8ba07a532666d1a17dc4f5e150c96e4ce47aa278726369ae622b1bce120823e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8ba07a532666d1a17dc4f5e150c96e4ce47aa278726369ae622b1bce120823e"
+      },
+      "13": {
+        "source_ref": "Numbers 36:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 36,
+            "verse": 13,
+            "source_ref": "Numbers 36:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe352e28826935155888b8d5151b2d24c7a742c119e35bd2c568e1caad390fdb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe352e28826935155888b8d5151b2d24c7a742c119e35bd2c568e1caad390fdb"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/numbers/Numbers_36.md",
+    "blob_sha": "2f65cc1fbc24f7b7477d2207839d132572b3275c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
