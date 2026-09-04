@@ -1,0 +1,347 @@
+{
+  "book": "Habakkuk",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hab.xml",
+    "git_blob_sha": "f64d893d18e79842e85b6457ea643008a81a8f9c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "2:2-5",
+      "decision": "Retain the contrast between the swollen person and the righteous person who lives by faithfulness.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:6-20",
+      "decision": "Keep the woes focused on plunder, predatory wealth, violence, exploitation, and idolatry.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hab.xml",
+    "git_blob_sha": "f64d893d18e79842e85b6457ea643008a81a8f9c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Habakkuk 2:1",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Habakkuk 2:1",
+            "segment_mode": "whole",
+            "sha256": "f8feb45c5795019f2b2dafd250a0b16bec6f9939718b51f14d0f49527aee9b34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8feb45c5795019f2b2dafd250a0b16bec6f9939718b51f14d0f49527aee9b34"
+      },
+      "2": {
+        "source_ref": "Habakkuk 2:2",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Habakkuk 2:2",
+            "segment_mode": "whole",
+            "sha256": "b6fd2164330889d0ce643e2a61dd1ac741688b48085dcd2de802b847d17f3832"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6fd2164330889d0ce643e2a61dd1ac741688b48085dcd2de802b847d17f3832"
+      },
+      "3": {
+        "source_ref": "Habakkuk 2:3",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Habakkuk 2:3",
+            "segment_mode": "whole",
+            "sha256": "a2dd8555118c8d5a29de78bafb706d4b503cabb79004a6aa577de3407012a755"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a2dd8555118c8d5a29de78bafb706d4b503cabb79004a6aa577de3407012a755"
+      },
+      "4": {
+        "source_ref": "Habakkuk 2:4",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Habakkuk 2:4",
+            "segment_mode": "whole",
+            "sha256": "65f388eadbf60e720996273a6fd7053f222f0d754cdef3a510496129ae8fa97b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65f388eadbf60e720996273a6fd7053f222f0d754cdef3a510496129ae8fa97b"
+      },
+      "5": {
+        "source_ref": "Habakkuk 2:5",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "Habakkuk 2:5",
+            "segment_mode": "whole",
+            "sha256": "173399a8fb6cc6346b54ba378d624c035cfe0a77ef74f2c9b5a37026f517123a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "173399a8fb6cc6346b54ba378d624c035cfe0a77ef74f2c9b5a37026f517123a"
+      },
+      "6": {
+        "source_ref": "Habakkuk 2:6",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "Habakkuk 2:6",
+            "segment_mode": "whole",
+            "sha256": "af76b769e8695e0a50fbb2d631be374698a7f9c3927823b6676e20ba029654a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af76b769e8695e0a50fbb2d631be374698a7f9c3927823b6676e20ba029654a0"
+      },
+      "7": {
+        "source_ref": "Habakkuk 2:7",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "Habakkuk 2:7",
+            "segment_mode": "whole",
+            "sha256": "efac5c295dff7c307a3f56eee91e4a6ea7205a98ec7681dfc326970b62d37491"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "efac5c295dff7c307a3f56eee91e4a6ea7205a98ec7681dfc326970b62d37491"
+      },
+      "8": {
+        "source_ref": "Habakkuk 2:8",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "Habakkuk 2:8",
+            "segment_mode": "whole",
+            "sha256": "0cf6520d28999ae303d54f7c92db3621fe8e2d4154ea4049c397d056e61b4f1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0cf6520d28999ae303d54f7c92db3621fe8e2d4154ea4049c397d056e61b4f1b"
+      },
+      "9": {
+        "source_ref": "Habakkuk 2:9",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "Habakkuk 2:9",
+            "segment_mode": "whole",
+            "sha256": "af65d6a0b3579f0ec26244dd0c55c7f008bdc84915a6ca8bf6d5dfbe89e334d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af65d6a0b3579f0ec26244dd0c55c7f008bdc84915a6ca8bf6d5dfbe89e334d3"
+      },
+      "10": {
+        "source_ref": "Habakkuk 2:10",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "Habakkuk 2:10",
+            "segment_mode": "whole",
+            "sha256": "fa710b8f8c6a04c1989c986298980c1b60ec21a7e37a3bc6e09335f54655c876"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa710b8f8c6a04c1989c986298980c1b60ec21a7e37a3bc6e09335f54655c876"
+      },
+      "11": {
+        "source_ref": "Habakkuk 2:11",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "Habakkuk 2:11",
+            "segment_mode": "whole",
+            "sha256": "30d5a46ffb103364cb2dfc325dd08b568e05807f533a0e0e3297d26726e18d49"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30d5a46ffb103364cb2dfc325dd08b568e05807f533a0e0e3297d26726e18d49"
+      },
+      "12": {
+        "source_ref": "Habakkuk 2:12",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "Habakkuk 2:12",
+            "segment_mode": "whole",
+            "sha256": "a5154c4ebabc1ff1a27cd75fc92f609b94151aa03d80fbe440b7ab10fb473471"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5154c4ebabc1ff1a27cd75fc92f609b94151aa03d80fbe440b7ab10fb473471"
+      },
+      "13": {
+        "source_ref": "Habakkuk 2:13",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "Habakkuk 2:13",
+            "segment_mode": "whole",
+            "sha256": "b872613bfa9117d4c3d9864e3fe0f9733f39a45ea4e807006b155523154e5b5a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b872613bfa9117d4c3d9864e3fe0f9733f39a45ea4e807006b155523154e5b5a"
+      },
+      "14": {
+        "source_ref": "Habakkuk 2:14",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "Habakkuk 2:14",
+            "segment_mode": "whole",
+            "sha256": "95efd0d3de092c73bde855fd6e2a179b7d705b56a6e2057c94021e97e917b0f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95efd0d3de092c73bde855fd6e2a179b7d705b56a6e2057c94021e97e917b0f6"
+      },
+      "15": {
+        "source_ref": "Habakkuk 2:15",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "Habakkuk 2:15",
+            "segment_mode": "whole",
+            "sha256": "8cef902cb41d5bfb6571e10583accc9a5dc3d77f35a2ed786692bfc854f49f2a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8cef902cb41d5bfb6571e10583accc9a5dc3d77f35a2ed786692bfc854f49f2a"
+      },
+      "16": {
+        "source_ref": "Habakkuk 2:16",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 16,
+            "source_ref": "Habakkuk 2:16",
+            "segment_mode": "whole",
+            "sha256": "69f0a9ed4dc6604eb66b8d4ed4cf18c24fcfc7e51958a35a030b1280cb54388f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69f0a9ed4dc6604eb66b8d4ed4cf18c24fcfc7e51958a35a030b1280cb54388f"
+      },
+      "17": {
+        "source_ref": "Habakkuk 2:17",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 17,
+            "source_ref": "Habakkuk 2:17",
+            "segment_mode": "whole",
+            "sha256": "fadf4873da75fb71a288a25cb90bcb07a5f4c489c653f61414fcfe6e1de0f0dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fadf4873da75fb71a288a25cb90bcb07a5f4c489c653f61414fcfe6e1de0f0dc"
+      },
+      "18": {
+        "source_ref": "Habakkuk 2:18",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 18,
+            "source_ref": "Habakkuk 2:18",
+            "segment_mode": "whole",
+            "sha256": "9e4b837539e79cfe00bb3a518b3cd3fa723906a4d1aa62f4e95503cb6466b12e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e4b837539e79cfe00bb3a518b3cd3fa723906a4d1aa62f4e95503cb6466b12e"
+      },
+      "19": {
+        "source_ref": "Habakkuk 2:19",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 19,
+            "source_ref": "Habakkuk 2:19",
+            "segment_mode": "whole",
+            "sha256": "baa79815476672a4d2437e0d5ba9080c8a27617441a35a3fa089ee03a1f08f89"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "baa79815476672a4d2437e0d5ba9080c8a27617441a35a3fa089ee03a1f08f89"
+      },
+      "20": {
+        "source_ref": "Habakkuk 2:20",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 20,
+            "source_ref": "Habakkuk 2:20",
+            "segment_mode": "whole",
+            "sha256": "0c964a410819db3e01eccb4c20b3b80c0b87db470afeb001b6ccdde4cf88be7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c964a410819db3e01eccb4c20b3b80c0b87db470afeb001b6ccdde4cf88be7d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/habakkuk/Habakkuk_02.md",
+    "blob_sha": "ee838adae94b18427fc044268b1f652cb8d1f89b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
