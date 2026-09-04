@@ -3,9 +3,10 @@ id: tsw-study-philippians-2-5-11
 title: Power That Does Not Exploit
 passage: Philippians 2:5-11
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 1
 shared_world: [person-jesus, person-paul, place-philippi, context-roman-status]
+content_notice: enslavement, execution, abuse, and coercive appeals to obedience
 ---
 
 # Power That Does Not Exploit

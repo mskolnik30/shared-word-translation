@@ -3,9 +3,10 @@ id: tsw-study-psalm-22
 title: Abandonment, Deliverance, and Christian Reception
 passage: Psalm 22
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 1
 shared_world: [person-jesus, context-crucifixion]
+content_notice: abandonment, bodily violence, public humiliation, trauma, and sexual abuse in a cited study
 ---
 
 # Abandonment, Deliverance, and Christian Reception
@@ -34,7 +35,7 @@ The turn toward praise does not necessarily mark a simple emotional improvement.
 
 ## More Than One Reading
 
-Historical readings ask what crisis an Israelite speaker or worshiping community voices. Royal readings hear a suffering king. Corporate readings hear Israel's suffering concentrated in one voice. Christian christological reading hears Jesus faithfully inhabiting Israel's prayer and the Gospel writers portraying the cross through it.
+Historical readings ask what crisis an Israelite speaker or worshiping community voices. Royal readings hear a suffering king. Communal, sometimes called corporate, readings hear Israel's suffering concentrated in one voice. Christian readings centered on Christ hear Jesus faithfully inhabiting Israel's prayer and the Gospel writers portraying the cross through it.
 
 These readings can be related without claiming that the psalm had no meaning until the crucifixion. Matthew and Mark quote its opening; other passion details echo mockery, divided garments, and public spectacle. The Gospels interpret Jesus through the psalm, and Jesus' use of its opening can summon the whole lament-to-praise movement without making his anguish unreal.
 

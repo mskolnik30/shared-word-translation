@@ -3,9 +3,10 @@ id: tsw-study-genesis-22-1-19
 title: Command, Testing, and the Bound Child
 passage: Genesis 22:1-19
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 1
 shared_world: [person-abraham, person-isaac, place-moriah, context-child-sacrifice]
+content_notice: threatened child sacrifice, family violence, and religiously justified harm
 ---
 
 # Command, Testing, and the Bound Child

@@ -3,7 +3,7 @@ id: tsw-study-matthew-16-13-20
 title: Rock, Church, and Authority
 passage: Matthew 16:13-20
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 1
 shared_world: [person-jesus, person-simon-peter, place-caesarea-philippi]
 ---
@@ -30,7 +30,7 @@ Matthew uses *ekklesia*—assembly or church—here and in Matthew 18:17; the te
 
 The “gates of Hades” are commonly imagined as demonic forces attacking a defensive church. Ancient gates represent a city's power, while Hades is the realm of the dead. The promise is more naturally about death's power not overcoming Christ's assembly than about “hell's gates” charging into battle.
 
-Keys evoke delegated stewardship, especially Isaiah 22:22. Binding and loosing can refer to authoritative decisions about teaching, permitted and forbidden practice, and community discipline. The Greek uses a rare periphrastic construction. TSW renders it with a future-perfect sense—what is bound or loosed on earth “shall have been” so in heaven—which foregrounds alignment with heaven rather than authority that compels heaven. Other scholars understand the construction as simultaneous or cooperative action, so its temporal force should not be presented as settled by grammar alone.
+Keys evoke delegated stewardship, especially Isaiah 22:22. Binding and loosing can refer to authoritative decisions about teaching, permitted and forbidden practice, and community discipline. The Greek uses a rare construction that combines a form of “to be” with a participle. TSW renders it with a future-perfect sense—what is bound or loosed on earth “shall have been” so in heaven—which foregrounds alignment with heaven rather than authority that compels heaven. Other scholars understand the construction as simultaneous or cooperative action, so its temporal force should not be presented as settled by grammar alone.
 
 ## More Than One Reading
 

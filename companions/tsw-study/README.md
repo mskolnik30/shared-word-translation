@@ -31,3 +31,10 @@ Each dossier uses these sections:
 - **Sources and Further Study** — a transparent source ledger.
 
 Machine validation is implemented by `tools/audit_companion_batch.py`. Passing the audit means a dossier is structurally ready for review; it does not mean its interpretive judgments have been approved.
+
+## Publication states
+
+- `DRAFTED_REVIEW_REQUIRED` means at least one required human gate remains pending and publication is blocked.
+- `APPROVED_FOR_PUBLICATION` means every required human gate is approved and the release audit passes.
+
+Approval of a text dossier does not approve unfinished visuals. A dossier may be published as text while requested images remain blocked in the shared biblical-world registry. Visuals become public only after their provenance, rights, classification, evidence label, caption, and alternative text pass their own record-level requirements.

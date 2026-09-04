@@ -3,9 +3,10 @@ id: tsw-study-1-corinthians-14-33b-36
 title: Women, Silence, and Textual Disruption
 passage: 1 Corinthians 14:33b-36
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 1
 shared_world: [person-paul, place-corinth, context-corinthian-assembly]
+content_notice: gender exclusion, coercive silence, and institutional responses to abuse
 ---
 
 # Women, Silence, and Textual Disruption
@@ -38,7 +39,7 @@ One reading treats the verses as Paul's universal restriction on women's authori
 
 Each proposal has pressure points. A universal ban must explain women praying and prophesying in chapter 11. A local-disruption reading must explain why the text never names the disruption. A quotation reading must explain the absence of a clear quotation marker. An interpolation reading must explain universal manuscript inclusion despite relocation.
 
-Public presentation should show these costs, not simply list conclusions as equal preferences.
+These costs matter. The readings are not merely equal preferences; each must be tested by how well it explains the whole passage and by the consequences it produces.
 
 ## Across Christian History
 
@@ -53,6 +54,8 @@ Defending women's speech must not be built on blaming Judaism for the prohibitio
 ## Power and Consequences
 
 Whatever conclusion a church reaches about liturgical office, these verses do not authorize suppressing testimony about abuse, coercion, crime, or danger. “Silence” cannot be imposed to protect an institution's reputation.
+
+No one should be pressured to disclose harm publicly or before the person who caused it. Churches need confidential reporting paths, immediate attention to safety, compliance with applicable reporting duties, and independent accountability when leaders or institutions are implicated.
 
 The whole chapter requires gifted speakers to regulate themselves for the good of others. Men who speak in tongues or prophesy are also told to be silent under stated conditions. An application aimed only at controlling women while leaving male speech, power, and disorder unexamined fails the chapter's stated purpose of edification and peace.
 

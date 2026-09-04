@@ -28,8 +28,50 @@ DISALLOWED_PUBLIC_PHRASES = (
     "tell participants",
     "instructor note",
     "teacher only",
+    "public presentation should",
+    "public materials should",
+    "a public companion should",
 )
 ALLOWED_REVIEW_STATUSES = {"pending", "approved"}
+DRAFT_STATUS = "DRAFTED_REVIEW_REQUIRED"
+APPROVED_STATUS = "APPROVED_FOR_PUBLICATION"
+ALLOWED_BATCH_STATUSES = {DRAFT_STATUS, APPROVED_STATUS}
+BLOCKED_PUBLICATION = "BLOCKED_PENDING_HUMAN_REVIEW"
+APPROVED_PUBLICATION = "APPROVED_FOR_PUBLICATION"
+REQUIRED_GATES = {
+    "source-language",
+    "historical",
+    "reception",
+    "critical-voices",
+    "power-and-harm",
+    "public-language",
+    "visual-evidence",
+}
+SENSITIVE_DOSSIERS = {
+    "tsw-study-1-corinthians-14-33b-36",
+    "tsw-study-genesis-22-1-19",
+    "tsw-study-joshua-6-15-27",
+    "tsw-study-philippians-2-5-11",
+    "tsw-study-psalm-22",
+    "tsw-study-romans-3-21-26",
+}
+ALLOWED_VISUAL_CLASSES = {
+    "archaeological photograph",
+    "artifact",
+    "geographic map",
+    "schematic map",
+    "evidence-based reconstruction",
+    "interpretive orientation image",
+    "symbolic art",
+}
+ALLOWED_CLAIM_LABELS = {
+    "established",
+    "probable",
+    "possible",
+    "disputed",
+    "unknown",
+    "interpretive",
+}
 
 
 def load_json(path: Path) -> dict:
@@ -71,9 +113,10 @@ def audit(manifest_path: Path) -> list[str]:
     manifest = load_json(manifest_path)
     dossiers = manifest.get("dossiers", [])
     required_sections = manifest.get("required_sections", [])
+    manifest_status = manifest.get("status")
 
-    if manifest.get("status") != "DRAFTED_REVIEW_REQUIRED":
-        errors.append("manifest status must be DRAFTED_REVIEW_REQUIRED")
+    if manifest_status not in ALLOWED_BATCH_STATUSES:
+        errors.append(f"manifest status must be one of {sorted(ALLOWED_BATCH_STATUSES)}")
     if manifest.get("dossier_count") != len(dossiers):
         errors.append("dossier_count does not match dossier entries")
     if len(dossiers) != 10:
@@ -81,6 +124,33 @@ def audit(manifest_path: Path) -> list[str]:
 
     shared = load_json(SHARED_REGISTRY)
     shared_ids = {record.get("id") for record in shared.get("records", [])}
+    visual_requests = shared.get("visual_requests", [])
+    seen_visual_ids: set[str] = set()
+    for visual in visual_requests:
+        visual_id = visual.get("id", "<missing-visual-id>")
+        if visual_id in seen_visual_ids:
+            errors.append(f"duplicate visual request id: {visual_id}")
+        seen_visual_ids.add(visual_id)
+        if visual.get("record") not in shared_ids:
+            errors.append(f"{visual_id}: unknown shared-world record")
+        if visual.get("class") not in ALLOWED_VISUAL_CLASSES:
+            errors.append(f"{visual_id}: missing or invalid visual class")
+        if visual.get("claim_label") not in ALLOWED_CLAIM_LABELS:
+            errors.append(f"{visual_id}: missing or invalid evidence claim label")
+        publication_status = visual.get("publication_status")
+        if publication_status == "ready":
+            if visual.get("rights_status") != "verified":
+                errors.append(f"{visual_id}: ready visual must have verified rights")
+            if visual.get("status") != "complete":
+                errors.append(f"{visual_id}: ready visual must be complete")
+            for field in ("creator", "source_url", "license", "caption", "alt_text"):
+                if not visual.get(field):
+                    errors.append(f"{visual_id}: ready visual is missing {field}")
+        elif publication_status == "blocked":
+            if visual.get("rights_status") not in {"not-acquired", "verified"}:
+                errors.append(f"{visual_id}: blocked visual has invalid rights status")
+        else:
+            errors.append(f"{visual_id}: publication status must be blocked or ready")
     seen_ids: set[str] = set()
     seen_passages: set[str] = set()
 
@@ -117,10 +187,14 @@ def audit(manifest_path: Path) -> list[str]:
             errors.append(f"{dossier_id}: passage mismatch")
         if front.get("translation") != "tsw":
             errors.append(f"{dossier_id}: translation must be tsw")
-        if front.get("status") != "DRAFTED_REVIEW_REQUIRED":
-            errors.append(f"{dossier_id}: status must require review")
+        if front.get("status") != manifest_status:
+            errors.append(f"{dossier_id}: status must match the batch manifest")
         if front.get("batch") != "1":
             errors.append(f"{dossier_id}: batch must be 1")
+        if dossier_id in SENSITIVE_DOSSIERS and not front.get("content_notice"):
+            errors.append(f"{dossier_id}: sensitive dossier requires a content notice")
+        if re.search(r"!\[[^\]]*\]\([^)]+\)", text):
+            errors.append(f"{dossier_id}: direct image embedding bypasses shared visual review")
 
         for section in required_sections:
             if f"## {section}" not in text:
@@ -155,15 +229,27 @@ def audit(manifest_path: Path) -> list[str]:
             errors.append(f"missing review manifest: {review_path_value}")
         else:
             review = load_json(review_path)
-            if review.get("publication_state") != "BLOCKED_PENDING_HUMAN_REVIEW":
-                errors.append("review manifest must block publication pending human review")
             gates = review.get("human_gates", [])
             if not gates:
                 errors.append("review manifest must define human review gates")
             elif any(gate.get("status") not in ALLOWED_REVIEW_STATUSES for gate in gates):
                 errors.append("human review gate status must be pending or approved")
-            elif not any(gate.get("status") == "pending" for gate in gates):
-                errors.append("blocked publication state requires at least one pending gate")
+            else:
+                gate_ids = {gate.get("id") for gate in gates}
+                if gate_ids != REQUIRED_GATES or len(gates) != len(REQUIRED_GATES):
+                    errors.append("review manifest does not contain the required human gates")
+                pending = [gate for gate in gates if gate.get("status") == "pending"]
+                publication_state = review.get("publication_state")
+                if pending:
+                    if publication_state != BLOCKED_PUBLICATION:
+                        errors.append("pending human gates require blocked publication state")
+                    if manifest_status != DRAFT_STATUS:
+                        errors.append("pending human gates require drafted-review batch status")
+                else:
+                    if publication_state != APPROVED_PUBLICATION:
+                        errors.append("all approved human gates require approved publication state")
+                    if manifest_status != APPROVED_STATUS:
+                        errors.append("all approved human gates require approved batch status")
 
     return errors
 
@@ -196,7 +282,10 @@ def main() -> int:
     approved = sum(gate.get("status") == "approved" for gate in review["human_gates"])
     pending = sum(gate.get("status") == "pending" for gate in review["human_gates"])
     print(f"Human review gates: {approved} approved; {pending} pending")
-    print("Publication gate: blocked pending remaining human review")
+    if pending:
+        print("Publication gate: blocked pending remaining human review")
+    else:
+        print("Publication gate: approved for text publication")
     print("PASSED")
     return 0
 

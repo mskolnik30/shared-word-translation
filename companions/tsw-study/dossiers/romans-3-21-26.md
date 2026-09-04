@@ -1,14 +1,15 @@
 ---
 id: tsw-study-romans-3-21-26
-title: God's Justice and the Meaning of Hilasterion
+title: God's Justice and the Place of Atonement
 passage: Romans 3:21-26
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 1
 shared_world: [person-jesus, person-paul, place-rome, context-second-temple-atonement]
+content_notice: execution, sacrificial blood imagery, abuse, and coerced suffering
 ---
 
-# God's Justice and the Meaning of *Hilasterion*
+# God's Justice and the Place of Atonement
 
 ## First Look
 
@@ -26,7 +27,7 @@ The passage has also been abstracted from Paul's Jew–Gentile argument and used
 
 The Greek *dikaiosyne theou* can mean God's righteousness, God's justice, a righteous status from God, or God's covenantally faithful saving action. TSW keeps “righteousness of God” and uses “set right” for related verbs so readers can hear the family resemblance without forcing every occurrence into one English legal term.
 
-The genitive phrase *pistis Iesou Christou* is genuinely ambiguous. It may mean faith in Jesus Christ (an objective genitive) or the faithfulness of Jesus Christ (a subjective genitive). TSW chooses Christ's faithfulness and then renders the following participle as those “who trust,” preserving both divine initiative in Christ and human response. Grammar alone does not end the debate.
+The phrase *pistis Iesou Christou* is genuinely ambiguous. Grammatically, Jesus Christ can be understood either as the object of faith—faith in Jesus Christ—or as the one whose faithfulness is named—the faithfulness of Jesus Christ. TSW chooses Christ's faithfulness and then renders the following participle as those “who trust,” preserving both divine initiative in Christ and human response. Grammar alone does not end the debate.
 
 “Redemption” evokes release at a cost from slavery or captivity. It is an image of liberation before it becomes a technical theological formula.
 
@@ -46,7 +47,7 @@ These debates should not be arranged as though one metaphor must defeat every ot
 
 Augustine read Paul within grace's healing of the will. Anselm's satisfaction account, Aquinas's sacramental and participatory synthesis, and Reformation accounts of justification and penal substitution all drew on this paragraph while combining it with other texts.
 
-Eastern Orthodox reception commonly places atonement within the larger work of salvation: forgiveness, reconciliation, the defeat of death, participation in divine life, and theosis. This does not erase Paul's judicial or sacrificial language; it resists making any one metaphor the whole account.
+Eastern Orthodox reception commonly places atonement within the larger work of salvation: forgiveness, reconciliation, the defeat of death, and participation in divine life, often called theosis. This does not erase Paul's judicial or sacrificial language; it resists making any one metaphor the whole account.
 
 Luther's emphasis on justification by faith liberated many consciences but was sometimes joined to a caricature of Jewish law. Modern Jewish–Christian dialogue and “New Perspective” interpreters have challenged the portrayal of Judaism as a religion of self-earned merit and re-centered covenant membership, Jewish identity, and the Jew–Gentile problem. Apocalyptic readings emphasize God's invasion of sin's enslaved world.
 

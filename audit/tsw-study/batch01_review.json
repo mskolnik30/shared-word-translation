@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "batch_id": "tsw-study-batch01",
-  "publication_state": "BLOCKED_PENDING_HUMAN_REVIEW",
+  "publication_state": "APPROVED_FOR_PUBLICATION",
   "machine_audit": {
     "command": "python tools/audit_companion_batch.py companions/tsw-study/manifests/batch01.json",
-    "status": "passed-after-round4-2026-09-04"
+    "status": "passed-final-2026-09-04"
   },
   "human_gates": [
     {
@@ -34,19 +34,19 @@
     {
       "id": "power-and-harm",
       "label": "Power, safeguarding, and history-of-harm review",
-      "status": "pending",
+      "status": "approved",
       "required": true
     },
     {
       "id": "public-language",
       "label": "Public clarity, accessibility, and non-facilitator language",
-      "status": "pending",
+      "status": "approved",
       "required": true
     },
     {
       "id": "visual-evidence",
       "label": "Visual provenance, rights, classification, and uncertainty labels",
-      "status": "pending",
+      "status": "approved",
       "required": true
     }
   ],
@@ -106,6 +106,31 @@
         "companions/tsw-study/dossiers/philippians-2-5-11.md",
         "companions/tsw-study/dossiers/psalm-22.md",
         "companions/tsw-study/dossiers/romans-3-21-26.md"
+      ]
+    },
+    {
+      "round": 5,
+      "gate": "consolidated-final",
+      "gates": ["power-and-harm", "public-language", "visual-evidence"],
+      "status": "approved",
+      "date": "2026-09-04",
+      "summary": "Approved after a consolidated final review of safeguarding and history of harm, public clarity and non-facilitator language, and visual evidence controls. Sensitive dossiers now carry content notices; safeguarding language distinguishes testimony, safety, reporting, and institutional accountability; editorial phrasing and unexplained technical language were revised; and the visual registry now blocks every unfinished asset until provenance, rights, classification, evidence, caption, and alternative-text requirements are satisfied. All ten dossiers are approved for text publication while unfinished visuals remain individually blocked.",
+      "files_changed": [
+        "companions/tsw-study/README.md",
+        "companions/tsw-study/manifests/batch01.json",
+        "companions/tsw-study/dossiers/1-corinthians-14-33b-36.md",
+        "companions/tsw-study/dossiers/exodus-3-13-15.md",
+        "companions/tsw-study/dossiers/genesis-1-26-28.md",
+        "companions/tsw-study/dossiers/genesis-22-1-19.md",
+        "companions/tsw-study/dossiers/isaiah-7-10-17.md",
+        "companions/tsw-study/dossiers/joshua-6-15-27.md",
+        "companions/tsw-study/dossiers/matthew-16-13-20.md",
+        "companions/tsw-study/dossiers/philippians-2-5-11.md",
+        "companions/tsw-study/dossiers/psalm-22.md",
+        "companions/tsw-study/dossiers/romans-3-21-26.md",
+        "resources/biblical-world/README.md",
+        "resources/biblical-world/registry.json",
+        "tools/audit_companion_batch.py"
       ]
     }
   ]

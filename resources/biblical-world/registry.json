@@ -29,13 +29,13 @@
     {"id":"context-corinthian-assembly","type":"context","label":"Speech and order in the Corinthian assembly","status":"shared-record-needed"}
   ],
   "visual_requests": [
-    {"id":"visual-philippi-regional","record":"place-philippi","class":"geographic map","views":["far","regional","close"],"status":"needed"},
-    {"id":"visual-moriah-traditions","record":"place-moriah","class":"schematic map","claim_label":"disputed","status":"needed"},
-    {"id":"visual-horeb-sinai-traditions","record":"place-horeb-sinai","class":"schematic map","claim_label":"disputed","status":"needed"},
-    {"id":"visual-jericho-archaeology","record":"place-jericho","class":"archaeological photograph","status":"needed"},
-    {"id":"visual-syro-ephraimite-region","record":"context-syro-ephraimite-crisis","class":"geographic map","views":["far","regional","close"],"status":"needed"},
-    {"id":"visual-caesarea-philippi","record":"place-caesarea-philippi","class":"archaeological photograph","status":"needed"},
-    {"id":"visual-mercy-seat","record":"context-second-temple-atonement","class":"evidence-based reconstruction","status":"needed"},
-    {"id":"visual-corinth-assembly","record":"context-corinthian-assembly","class":"interpretive orientation image","status":"needed"}
+    {"id":"visual-philippi-regional","record":"place-philippi","class":"geographic map","views":["far","regional","close"],"claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-moriah-traditions","record":"place-moriah","class":"schematic map","claim_label":"disputed","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-horeb-sinai-traditions","record":"place-horeb-sinai","class":"schematic map","claim_label":"disputed","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-jericho-archaeology","record":"place-jericho","class":"archaeological photograph","claim_label":"disputed","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-syro-ephraimite-region","record":"context-syro-ephraimite-crisis","class":"geographic map","views":["far","regional","close"],"claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-caesarea-philippi","record":"place-caesarea-philippi","class":"archaeological photograph","claim_label":"established","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-mercy-seat","record":"context-second-temple-atonement","class":"evidence-based reconstruction","claim_label":"probable","rights_status":"not-acquired","publication_status":"blocked","status":"needed"},
+    {"id":"visual-corinth-assembly","record":"context-corinthian-assembly","class":"interpretive orientation image","claim_label":"interpretive","rights_status":"not-acquired","publication_status":"blocked","status":"needed"}
   ]
 }

@@ -17,3 +17,19 @@ Every visual must be identified as one of:
 - symbolic art.
 
 Maps must separate established, probable, possible, disputed, and unknown claims. Where scale matters, the preferred set is far view, regional view, and close view.
+
+## Publication requirements for visuals
+
+A requested visual is not a published visual. Every visual remains blocked until its shared record includes:
+
+- creator or responsible organization;
+- original source URL;
+- license or other permission basis;
+- an explicit rights-verification result;
+- one of the approved visual classes above;
+- an evidence label: established, probable, possible, disputed, unknown, or interpretive;
+- a factual caption that distinguishes evidence from reconstruction;
+- alternative text that communicates the visual's purpose; and
+- publication status marked `ready`.
+
+Generated or commissioned art must be labeled as interpretive, symbolic, schematic, or reconstructed rather than documentary. A companion dossier may be published without its requested visuals; it must not embed a placeholder or unverified image while those visual records remain blocked.

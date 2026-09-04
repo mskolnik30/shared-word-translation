@@ -3,7 +3,7 @@ id: tsw-study-exodus-3-13-15
 title: The Name Given in the Work of Liberation
 passage: Exodus 3:13-15
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 1
 shared_world: [person-moses, place-horeb-sinai, context-divine-name]
 ---
@@ -20,7 +20,7 @@ The name is disclosed inside a larger declaration: God has seen forced labor, he
 
 The phrase in verse 14 has shaped Jewish reverence for the divine name, Christian teaching about God's being, philosophical accounts of existence, and liberation theology. English “I AM WHO I AM” is familiar and defensible, but Hebrew verbal aspect also permits “I WILL BE WHO I WILL BE” or “I WILL BE WHAT I WILL BE.” The choice affects whether readers first hear timeless being, sovereign freedom, promised presence, or some combination.
 
-The passage also demands care because Christians have often treated Jewish avoidance of pronouncing YHWH as a problem to overcome. It is instead a living practice of reverence. Public materials should normally follow the translation's “LORD,” explain YHWH when needed, and never claim certainty about the ancient pronunciation beyond the evidence.
+The passage also demands care because Christians have often treated Jewish avoidance of pronouncing YHWH as a problem to overcome. It is instead a living practice of reverence. This companion follows the translation's “LORD,” explains YHWH when needed, and does not claim certainty about the ancient pronunciation beyond the evidence.
 
 ## Look Closely
 
@@ -34,7 +34,7 @@ The Greek Septuagint rendered the phrase *ego eimi ho on*, roughly “I am the o
 
 ## More Than One Reading
 
-Metaphysical readings hear a declaration of self-existence, constancy, or the One whose being depends on nothing else. Promise-centered readings hear “I will be with you as I will be,” connecting the answer to God's active presence. Freedom-centered readings hear a refusal to be contained: God will be who God will be. Some interpreters think the phrase is deliberately elusive because Moses' request cannot reduce God to a usable label.
+Metaphysical readings—readings about God's very being—hear a declaration of self-existence, constancy, or the One whose being depends on nothing else. Promise-centered readings hear “I will be with you as I will be,” connecting the answer to God's active presence. Freedom-centered readings hear a refusal to be contained: God will be who God will be. Some interpreters think the phrase is deliberately elusive because Moses' request cannot reduce God to a usable label.
 
 These readings overlap. The living God is not controlled by Pharaoh, Moses, or an interpreter; the same God binds divine identity to the suffering people and to the promise of presence.
 

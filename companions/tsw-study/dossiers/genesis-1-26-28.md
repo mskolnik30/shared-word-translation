@@ -3,7 +3,7 @@ id: tsw-study-genesis-1-26-28
 title: Image, Dominion, and Human Vocation
 passage: Genesis 1:26-28
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 1
 shared_world: [context-ancient-royal-image]
 ---

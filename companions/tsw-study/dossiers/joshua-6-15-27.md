@@ -3,9 +3,10 @@ id: tsw-study-joshua-6-15-27
 title: Conquest, Judgment, and Holy War
 passage: Joshua 6:15-27
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 1
 shared_world: [person-rahab, place-jericho, context-ancient-war-rhetoric]
+content_notice: mass killing, warfare, colonization, and the endangerment of civilians
 ---
 
 # Conquest, Judgment, and Holy War
@@ -20,7 +21,7 @@ The narrative presents victory as God's action rather than Israel's military ach
 
 Joshua has been read as divine judgment, fulfillment of promise, ancient conquest rhetoric, theological saga, and a morally dangerous account of sacred violence. The book has also been invoked by colonizing societies to identify themselves as a chosen people entering promised land. Indigenous peoples and other dispossessed communities have borne the consequences of that interpretation.
 
-A public companion should not protect readers from the text's difficulty or pretend that one historical observation resolves its theological problem. It should also refuse direct mappings in which a modern nation becomes Israel and another people becomes Canaan.
+Readers should not be protected from the text's difficulty or be told that one historical observation resolves its theological problem. Direct mappings in which a modern nation becomes Israel and another people becomes Canaan must also be refused.
 
 ## Look Closely
 

@@ -3,7 +3,7 @@ id: tsw-study-isaiah-7-10-17
 title: The Sign of Immanuel
 passage: Isaiah 7:10-17
 translation: tsw
-status: DRAFTED_REVIEW_REQUIRED
+status: APPROVED_FOR_PUBLICATION
 batch: 1
 shared_world: [person-isaiah, person-ahaz, place-jerusalem, context-syro-ephraimite-crisis]
 ---
@@ -20,7 +20,7 @@ The sign therefore has a near political horizon. It promises that the immediate 
 
 Debate often collapses the whole passage into one lexical question: does the Hebrew word *almah* mean “virgin”? That question matters, but the passage asks more. Who is the woman? Who is the child? How can the child's development mark time for Ahaz? Is Immanuel reassurance, warning, or both? How does Matthew reread Isaiah through the Greek Scriptures?
 
-Christian claims about Jesus should not require false claims about Hebrew or contempt for Jewish interpretation. The Christian reading arises through the Septuagint and Matthew's figural use of Israel's Scripture; it need not pretend that Isaiah's eighth-century crisis never existed.
+Christian claims about Jesus should not require false claims about Hebrew or contempt for Jewish interpretation. The Christian reading arises through the ancient Greek translation and Matthew's use of Isaiah as a pattern that reaches a fuller expression in Jesus; it need not pretend that Isaiah's eighth-century crisis never existed.
 
 ## Look Closely
 
@@ -36,7 +36,7 @@ The child's diet of curds and honey can sound idyllic when isolated, but the fol
 
 Proposals for the child include a royal child, often linked with Hezekiah; a child in Isaiah's own household; an otherwise unknown child born in the crisis; a symbolic or ideal Davidic ruler; and a pattern whose final Christian fulfillment is Jesus. Chronological and genealogical difficulties attend several identifications, so no historical proposal should be presented as effortless certainty.
 
-Jewish interpretation normally reads the sign within Ahaz's historical world and does not regard *almah* as a prediction of a virgin birth. Christian interpretation, following Matthew, reads the passage canonically and christologically. The two communities are not simply answering the same historical question with different levels of honesty.
+Jewish interpretation normally reads the sign within Ahaz's historical world and does not regard *almah* as a prediction of a virgin birth. Christian interpretation, following Matthew, reads the passage within the whole Christian Bible and in relation to Christ. The two communities are not simply answering the same historical question with different levels of honesty.
 
 ## Across Christian History
 
@@ -44,7 +44,7 @@ Matthew made Isaiah 7:14 central to Christian proclamation of Jesus as Emmanuel.
 
 Jewish-Christian controversy often turned the verse into a charge that Jews had mistranslated, altered, or refused their own Scripture. That legacy requires explicit correction. The Masoretic Hebrew and the Septuagint are ancient textual witnesses; translation and reception explain the difference more responsibly than conspiracy.
 
-Modern historical criticism restored the Syro-Ephraimite crisis to the center. Contemporary canonical and figural readers ask how a text can have a real first historical reference and also participate in a later scriptural pattern without canceling either horizon.
+Modern historical criticism restored the Syro-Ephraimite crisis to the center. Contemporary whole-Bible and pattern-based readings ask how a text can have a real first historical reference and also participate in a later scriptural pattern without canceling either setting.
 
 ## Power and Consequences
 
