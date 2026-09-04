@@ -1,12 +1,12 @@
 # Fluent Companion Batch 0 Source Provenance Reconciliation
 
-**Status:** Candidate repository repair
+**Status:** Exact source objects reconciled; Ruth human source-lock review approved
 **Date:** September 4, 2026
 **Base commit:** `b0542f9a4cc64cbc39016832fd1dfb70a0755409`
 
 ## Purpose
 
-This record closes exact source-provenance gaps discovered during the Fluent Companion corpus inventory. It records only source identities that can be resolved directly from the pinned Git repositories. It does not change any translation text, settle any exegetical question, approve Companion material, or authorize publication.
+This record closes exact source-provenance gaps discovered during the Fluent Companion corpus inventory. It records only source identities that can be resolved directly from the pinned Git repositories. The follow-up Ruth review records the qualified human decision required by the original reconciliation. It does not change translation text, approve Companion material, or authorize publication.
 
 ## Resolved source objects
 
@@ -36,13 +36,15 @@ The existing QA records identify the repository, exact commit, source file, raw 
 
 ### Ruth
 
-The exact OSHB/WLC candidate source object is now recorded, but the QA record remains `QA_APPROVED_FOR_BRANCH`. The Ruth 1 chapter review states that the OSHB/WLC production source lock still required repository-workflow review. For that reason:
+The exact OSHB/WLC source object was reviewed against all four Fluent chapters. Matthew J. Skolnik approved the exact source lock on September 4, 2026. The completed review established that:
 
-- `source_lock_status` is `CANDIDATE_PENDING_TEXTUAL_REVIEW`;
-- the book is not promoted to `QA_PASSED`;
-- the translation and chapter-review set must be checked against the pinned Ruth blob; and
-- a human textual reviewer must record the disposition before Ruth becomes eligible for Companion candidate drafting.
+- the source commit and Git blob match the pinned QA record;
+- all 85 OSHB/WLC verses match all 85 Fluent verse labels;
+- all four chapter-review records remain `QA_PASSED`;
+- no F4 material is present;
+- the stale Ruth 1 source-lock warning and Ruth 4:16 wording record are reconciled; and
+- the book is promoted to `QA_PASSED` with `source_lock_status` set to `HUMAN_APPROVED_EXACT_SOURCE_LOCK`.
 
 ## Companion effect
 
-After this repair, Jonah, James, Mark, and Matthew have complete strict source packages for Companion binding. Ruth's provenance object is complete, but its nonpassing QA status remains a deliberate blocker. The representative reader-test and template gates remain closed for all mass Companion drafting and publication.
+After the human Ruth review, Jonah, Ruth, James, Mark, and Matthew have complete strict source packages for Companion binding. Ruth's former source-package blocker is closed. The representative reader-test, accessibility, and template gates remain closed for all mass Companion drafting and publication.

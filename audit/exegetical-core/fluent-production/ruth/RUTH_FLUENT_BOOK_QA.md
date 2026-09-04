@@ -1,8 +1,12 @@
 # Ruth — Fluent Book-Level QA
 
-**Ruth 1–4: QA approved for the Fluent development branch.**
+**Ruth 1–4: QA passed.**
 
 The book contains 85 canonical verses: 22 + 23 + 18 + 22.
+
+## Exact source lock
+
+Matthew J. Skolnik approved the exact source lock on September 4, 2026, after review against `openscriptures/morphhb` commit `6a5db284c715c18b239422e57bb89684e6a19f00`, file `wlc/Ruth.xml`, Git blob `e4aea25dfc593685e7e8f7ec995b96789f5c7060`. The review matched all 85 OSHB/WLC verses to all 85 Fluent verse labels, confirmed all four chapter reviews as `QA_PASSED`, and found no F4 material.
 
 ## Frozen book-level lexical decisions
 - **ḥesed → steadfast love** in 1:8, 2:20, 3:10.
@@ -24,4 +28,4 @@ The book contains 85 canonical verses: 22 + 23 + 18 + 22.
 - Ruth 2:3 no longer states providence as narrator-explicit.
 - Ruth 3:9 distinguishes the explicit garment/redeemer request from its marital implication.
 
-The book remains **not published** until this QA commit is pushed and the Ruth branch is merged to `main`.
+This approval promotes the book QA to `QA_PASSED`. It does not authorize Companion publication.
