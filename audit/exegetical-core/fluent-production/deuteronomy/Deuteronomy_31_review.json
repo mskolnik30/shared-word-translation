@@ -1,0 +1,492 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 31,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "31:1-34:12",
+      "decision": "Preserve succession, song, warning, blessing, Moses' death, and the narrator's closing assessment.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Deuteronomy 31:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 1,
+            "source_ref": "Deuteronomy 31:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c2d50046c6fe9f7dce8d9170f1fb0906b89fdfce5e55e396f845976a922df146"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2d50046c6fe9f7dce8d9170f1fb0906b89fdfce5e55e396f845976a922df146"
+      },
+      "2": {
+        "source_ref": "Deuteronomy 31:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 2,
+            "source_ref": "Deuteronomy 31:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "647f49add61f92232f1e66a2c0fe5865bd5f93381a06cd158334dc915013129a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "647f49add61f92232f1e66a2c0fe5865bd5f93381a06cd158334dc915013129a"
+      },
+      "3": {
+        "source_ref": "Deuteronomy 31:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 3,
+            "source_ref": "Deuteronomy 31:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "21544948a5fb1e9950e0a78190107b594b6505befb9d291378bc9488b80106dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "21544948a5fb1e9950e0a78190107b594b6505befb9d291378bc9488b80106dd"
+      },
+      "4": {
+        "source_ref": "Deuteronomy 31:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 4,
+            "source_ref": "Deuteronomy 31:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ffc4b2b9614a64a8395f2aafe342b7f29c278dbeb8ef1c8fcd78d2b9939dbf1b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ffc4b2b9614a64a8395f2aafe342b7f29c278dbeb8ef1c8fcd78d2b9939dbf1b"
+      },
+      "5": {
+        "source_ref": "Deuteronomy 31:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 5,
+            "source_ref": "Deuteronomy 31:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d465147d6c1c4af69e63160be385e4bd3bc52e02880da4a74bf27b23e1848da7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d465147d6c1c4af69e63160be385e4bd3bc52e02880da4a74bf27b23e1848da7"
+      },
+      "6": {
+        "source_ref": "Deuteronomy 31:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 6,
+            "source_ref": "Deuteronomy 31:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c90a2d87d480dbd2aa6addaa337bc003f675bdf060758619dbe811be9c4cd4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c90a2d87d480dbd2aa6addaa337bc003f675bdf060758619dbe811be9c4cd4e"
+      },
+      "7": {
+        "source_ref": "Deuteronomy 31:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 7,
+            "source_ref": "Deuteronomy 31:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "69f49252c6c407acc5f89d991b5a4f0d5159ae3eebeba3bd899e08c4d8647b1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69f49252c6c407acc5f89d991b5a4f0d5159ae3eebeba3bd899e08c4d8647b1c"
+      },
+      "8": {
+        "source_ref": "Deuteronomy 31:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 8,
+            "source_ref": "Deuteronomy 31:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1fcfa0aee97e4a368406be1e1eaf67f9f77315f980437f2ea6e4559e4dc982b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1fcfa0aee97e4a368406be1e1eaf67f9f77315f980437f2ea6e4559e4dc982b"
+      },
+      "9": {
+        "source_ref": "Deuteronomy 31:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 9,
+            "source_ref": "Deuteronomy 31:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7edab2470c1a3f946112babfc3cfb8fa7f033d68a7722a0fe4f72c08a92738e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7edab2470c1a3f946112babfc3cfb8fa7f033d68a7722a0fe4f72c08a92738e4"
+      },
+      "10": {
+        "source_ref": "Deuteronomy 31:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 10,
+            "source_ref": "Deuteronomy 31:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "111a46c317cdb57dcfdc3ae537d55af41e8a53583fac9e557f12ed014b247734"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "111a46c317cdb57dcfdc3ae537d55af41e8a53583fac9e557f12ed014b247734"
+      },
+      "11": {
+        "source_ref": "Deuteronomy 31:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 11,
+            "source_ref": "Deuteronomy 31:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d82e82a09bde06379ae34010ef0bdc70f77bfcdb655bfefd32804ec9a0f0ba63"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d82e82a09bde06379ae34010ef0bdc70f77bfcdb655bfefd32804ec9a0f0ba63"
+      },
+      "12": {
+        "source_ref": "Deuteronomy 31:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 12,
+            "source_ref": "Deuteronomy 31:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "706f51a9650de21153b9a95071228089a097f79e06900d052b671ee02844e371"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "706f51a9650de21153b9a95071228089a097f79e06900d052b671ee02844e371"
+      },
+      "13": {
+        "source_ref": "Deuteronomy 31:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 13,
+            "source_ref": "Deuteronomy 31:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c5af8c33a9ebb4819645cd55e048b08d207285340bc3bd7f5e9970cf2737c7a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c5af8c33a9ebb4819645cd55e048b08d207285340bc3bd7f5e9970cf2737c7a4"
+      },
+      "14": {
+        "source_ref": "Deuteronomy 31:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 14,
+            "source_ref": "Deuteronomy 31:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f4aae088c032e0d8a11cfe104b6128cd60640706fe459e355474248ed184b243"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4aae088c032e0d8a11cfe104b6128cd60640706fe459e355474248ed184b243"
+      },
+      "15": {
+        "source_ref": "Deuteronomy 31:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 15,
+            "source_ref": "Deuteronomy 31:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0e30a3ef49018797d25a8df5534ea50d7b1f2a35358be29996445d4cc381819f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e30a3ef49018797d25a8df5534ea50d7b1f2a35358be29996445d4cc381819f"
+      },
+      "16": {
+        "source_ref": "Deuteronomy 31:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 16,
+            "source_ref": "Deuteronomy 31:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8f37626996f4ad9bd61f5521a1d744152afed69f44a7defe41e1429fa881c366"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f37626996f4ad9bd61f5521a1d744152afed69f44a7defe41e1429fa881c366"
+      },
+      "17": {
+        "source_ref": "Deuteronomy 31:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 17,
+            "source_ref": "Deuteronomy 31:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4dcf2428117221554788e2fbba95594f59d8d1c8c5ff26b27eae7c4c93a7ff67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4dcf2428117221554788e2fbba95594f59d8d1c8c5ff26b27eae7c4c93a7ff67"
+      },
+      "18": {
+        "source_ref": "Deuteronomy 31:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 18,
+            "source_ref": "Deuteronomy 31:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "07af1fefb0629ec8a70e492bf30788149a1049c3f87182d249716f1a249bc3ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07af1fefb0629ec8a70e492bf30788149a1049c3f87182d249716f1a249bc3ec"
+      },
+      "19": {
+        "source_ref": "Deuteronomy 31:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 19,
+            "source_ref": "Deuteronomy 31:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d4f5b4d29b5c6db8ae026c98a4a9976a697e30419f1b50cf7b7759832b974c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d4f5b4d29b5c6db8ae026c98a4a9976a697e30419f1b50cf7b7759832b974c2"
+      },
+      "20": {
+        "source_ref": "Deuteronomy 31:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 20,
+            "source_ref": "Deuteronomy 31:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eb2d72d53fecf924cf27d1c57c63d5e6548913175a1ca4ed408e2bd6043100e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb2d72d53fecf924cf27d1c57c63d5e6548913175a1ca4ed408e2bd6043100e6"
+      },
+      "21": {
+        "source_ref": "Deuteronomy 31:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 21,
+            "source_ref": "Deuteronomy 31:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bde705b82b0290d75979b8e3d0662a02a7f2dfacecb7134d0e02d0f56cb5cbd0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bde705b82b0290d75979b8e3d0662a02a7f2dfacecb7134d0e02d0f56cb5cbd0"
+      },
+      "22": {
+        "source_ref": "Deuteronomy 31:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 22,
+            "source_ref": "Deuteronomy 31:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "830d159a38d8fba5a4f6f06b1da604341ef63e802b6bab3bfd0e99d33ae3102b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "830d159a38d8fba5a4f6f06b1da604341ef63e802b6bab3bfd0e99d33ae3102b"
+      },
+      "23": {
+        "source_ref": "Deuteronomy 31:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 23,
+            "source_ref": "Deuteronomy 31:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c30e4d870ef4d926925b0a71ee7c9d9a239a1883650f2ab1d689ef237abfb949"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c30e4d870ef4d926925b0a71ee7c9d9a239a1883650f2ab1d689ef237abfb949"
+      },
+      "24": {
+        "source_ref": "Deuteronomy 31:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 24,
+            "source_ref": "Deuteronomy 31:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d1bff7d9ea286904854b4f912a1707ebb298b88704982c732b535cc4bdd0f13c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1bff7d9ea286904854b4f912a1707ebb298b88704982c732b535cc4bdd0f13c"
+      },
+      "25": {
+        "source_ref": "Deuteronomy 31:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 25,
+            "source_ref": "Deuteronomy 31:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e9971b65ed4fb6cfef8c94adbea082724b848aef35ebff6cac5dd3c94176962b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e9971b65ed4fb6cfef8c94adbea082724b848aef35ebff6cac5dd3c94176962b"
+      },
+      "26": {
+        "source_ref": "Deuteronomy 31:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 26,
+            "source_ref": "Deuteronomy 31:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8162df1891056488ba6e34c887263687661363d1d75d0ca5fba0d5fcbccab617"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8162df1891056488ba6e34c887263687661363d1d75d0ca5fba0d5fcbccab617"
+      },
+      "27": {
+        "source_ref": "Deuteronomy 31:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 27,
+            "source_ref": "Deuteronomy 31:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7c1cf1012975738cda76ec4195ed5ab1ea47712563673d183ae965efa1f5712e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c1cf1012975738cda76ec4195ed5ab1ea47712563673d183ae965efa1f5712e"
+      },
+      "28": {
+        "source_ref": "Deuteronomy 31:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 28,
+            "source_ref": "Deuteronomy 31:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1494d2011c44865aa6980b4f6ee0afefcd3153483a6ceb9cd0eb8cbd80c9c795"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1494d2011c44865aa6980b4f6ee0afefcd3153483a6ceb9cd0eb8cbd80c9c795"
+      },
+      "29": {
+        "source_ref": "Deuteronomy 31:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 29,
+            "source_ref": "Deuteronomy 31:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d2f2e58d47be21e12344bccc01af4596e7680bd0e3eaf0665977eab3f4d49d64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2f2e58d47be21e12344bccc01af4596e7680bd0e3eaf0665977eab3f4d49d64"
+      },
+      "30": {
+        "source_ref": "Deuteronomy 31:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 30,
+            "source_ref": "Deuteronomy 31:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9431d4f7267fb7c6490228d21e4f0d684bb1bb6739dc7712a854f2052c88f65e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9431d4f7267fb7c6490228d21e4f0d684bb1bb6739dc7712a854f2052c88f65e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/deuteronomy/Deuteronomy_31.md",
+    "blob_sha": "9e84e9da4f315173f30a4f183a3cfc3e58ac5c1f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

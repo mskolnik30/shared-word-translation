@@ -1,0 +1,471 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 33,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Deuteronomy 33:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 1,
+            "source_ref": "Deuteronomy 33:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c8ef84f0ff2055e6501148576d649b5ab552192570f89c59c1a3abae784f33d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c8ef84f0ff2055e6501148576d649b5ab552192570f89c59c1a3abae784f33d"
+      },
+      "2": {
+        "source_ref": "Deuteronomy 33:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 2,
+            "source_ref": "Deuteronomy 33:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3fe3c8c0dcf3bdb41ac71f08c03777c0110f5d398ffb992d4fa1e86b1191d554"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3fe3c8c0dcf3bdb41ac71f08c03777c0110f5d398ffb992d4fa1e86b1191d554"
+      },
+      "3": {
+        "source_ref": "Deuteronomy 33:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 3,
+            "source_ref": "Deuteronomy 33:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e24d00858a9ca37234eb54404573dc4895a610d401cadddf3076956e131c879e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e24d00858a9ca37234eb54404573dc4895a610d401cadddf3076956e131c879e"
+      },
+      "4": {
+        "source_ref": "Deuteronomy 33:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 4,
+            "source_ref": "Deuteronomy 33:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f8186dbdc786838180971f29520e0f0ab996c947d1dca4111c5e2c88da90741"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f8186dbdc786838180971f29520e0f0ab996c947d1dca4111c5e2c88da90741"
+      },
+      "5": {
+        "source_ref": "Deuteronomy 33:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 5,
+            "source_ref": "Deuteronomy 33:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d31bddadeb86ec7fea10719e3e284cdaa9efab532700eb23f6d12a1faca8679f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d31bddadeb86ec7fea10719e3e284cdaa9efab532700eb23f6d12a1faca8679f"
+      },
+      "6": {
+        "source_ref": "Deuteronomy 33:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 6,
+            "source_ref": "Deuteronomy 33:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a7e29aa1d5463431215436e878137c84d04fb0a31f0dc060612aade8c653d2a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a7e29aa1d5463431215436e878137c84d04fb0a31f0dc060612aade8c653d2a"
+      },
+      "7": {
+        "source_ref": "Deuteronomy 33:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 7,
+            "source_ref": "Deuteronomy 33:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5cbfd4d12d67d52a1244651a6554128d07e895c5cc7a0971e0daf075434f5170"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5cbfd4d12d67d52a1244651a6554128d07e895c5cc7a0971e0daf075434f5170"
+      },
+      "8": {
+        "source_ref": "Deuteronomy 33:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 8,
+            "source_ref": "Deuteronomy 33:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01a45aaa9d6b5c403e82f3fc31fee55a2a81dec205f974d624e8d60ae5a95a83"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01a45aaa9d6b5c403e82f3fc31fee55a2a81dec205f974d624e8d60ae5a95a83"
+      },
+      "9": {
+        "source_ref": "Deuteronomy 33:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 9,
+            "source_ref": "Deuteronomy 33:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2b67a73a87f4dcf0f88b3f400ad35b282ebec1f5af364f75787c6235e8bd137"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2b67a73a87f4dcf0f88b3f400ad35b282ebec1f5af364f75787c6235e8bd137"
+      },
+      "10": {
+        "source_ref": "Deuteronomy 33:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 10,
+            "source_ref": "Deuteronomy 33:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc209fa2be7a5d3c414da84110804b02120836a14b92782f582b67b6c49313e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc209fa2be7a5d3c414da84110804b02120836a14b92782f582b67b6c49313e4"
+      },
+      "11": {
+        "source_ref": "Deuteronomy 33:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 11,
+            "source_ref": "Deuteronomy 33:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "65b4e556cc22188cb2c87f1520cbfa787820c695d2a2a4e5c451175b101d1884"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65b4e556cc22188cb2c87f1520cbfa787820c695d2a2a4e5c451175b101d1884"
+      },
+      "12": {
+        "source_ref": "Deuteronomy 33:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 12,
+            "source_ref": "Deuteronomy 33:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ce8553d6a98d92f7eff8168abd71ff68cca49c15bfd6491ad51f6509caea3792"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce8553d6a98d92f7eff8168abd71ff68cca49c15bfd6491ad51f6509caea3792"
+      },
+      "13": {
+        "source_ref": "Deuteronomy 33:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 13,
+            "source_ref": "Deuteronomy 33:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "77396e5eeafef0fd684ea7c47350c94feafa0ecb89c444cf2ac55ce66ed003c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77396e5eeafef0fd684ea7c47350c94feafa0ecb89c444cf2ac55ce66ed003c7"
+      },
+      "14": {
+        "source_ref": "Deuteronomy 33:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 14,
+            "source_ref": "Deuteronomy 33:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75a487a90e7ecbfc7a5a1f82eaae993dfb1e440d4ffa4983a48c4a12d9bc49b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75a487a90e7ecbfc7a5a1f82eaae993dfb1e440d4ffa4983a48c4a12d9bc49b7"
+      },
+      "15": {
+        "source_ref": "Deuteronomy 33:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 15,
+            "source_ref": "Deuteronomy 33:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1342b5550031c73b69d2055228b8aa9b4fa03d17d6389183c0bfb1e6934c369b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1342b5550031c73b69d2055228b8aa9b4fa03d17d6389183c0bfb1e6934c369b"
+      },
+      "16": {
+        "source_ref": "Deuteronomy 33:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 16,
+            "source_ref": "Deuteronomy 33:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "19a61122489b66f5510fbabc2858a973d9f4fbc780792e2d23dfbfcbe5e573cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "19a61122489b66f5510fbabc2858a973d9f4fbc780792e2d23dfbfcbe5e573cd"
+      },
+      "17": {
+        "source_ref": "Deuteronomy 33:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 17,
+            "source_ref": "Deuteronomy 33:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7356754cc87b184fdfe2e810ecb0b1cc70b1b83cb0484078e148bc7b3014c7af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7356754cc87b184fdfe2e810ecb0b1cc70b1b83cb0484078e148bc7b3014c7af"
+      },
+      "18": {
+        "source_ref": "Deuteronomy 33:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 18,
+            "source_ref": "Deuteronomy 33:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fbed3afb3deb9b49b1ab7b2f161e4d01c2d2e0b3902a0d9d04509d69ecb3e720"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbed3afb3deb9b49b1ab7b2f161e4d01c2d2e0b3902a0d9d04509d69ecb3e720"
+      },
+      "19": {
+        "source_ref": "Deuteronomy 33:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 19,
+            "source_ref": "Deuteronomy 33:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb8591128052cfe376903fe2f698a74ecdbe4de0e7fb7cb18400800dbc9a4f29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb8591128052cfe376903fe2f698a74ecdbe4de0e7fb7cb18400800dbc9a4f29"
+      },
+      "20": {
+        "source_ref": "Deuteronomy 33:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 20,
+            "source_ref": "Deuteronomy 33:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1ae60caf88399b87369b0691abec0747882965569607efbd249ad08058e1070f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ae60caf88399b87369b0691abec0747882965569607efbd249ad08058e1070f"
+      },
+      "21": {
+        "source_ref": "Deuteronomy 33:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 21,
+            "source_ref": "Deuteronomy 33:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5e66abb9e9d00bc8b1643a2a18aa464a2d141b48f136380dbbf71d65adde4dbb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e66abb9e9d00bc8b1643a2a18aa464a2d141b48f136380dbbf71d65adde4dbb"
+      },
+      "22": {
+        "source_ref": "Deuteronomy 33:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 22,
+            "source_ref": "Deuteronomy 33:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6820838db506e2b2688ba80a69206a2b61ef569353197cabb9ba6d7807e6878e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6820838db506e2b2688ba80a69206a2b61ef569353197cabb9ba6d7807e6878e"
+      },
+      "23": {
+        "source_ref": "Deuteronomy 33:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 23,
+            "source_ref": "Deuteronomy 33:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9c1d58677442d4a244de719f8661f1f04dfe4f140e311872913bfd306da80546"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c1d58677442d4a244de719f8661f1f04dfe4f140e311872913bfd306da80546"
+      },
+      "24": {
+        "source_ref": "Deuteronomy 33:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 24,
+            "source_ref": "Deuteronomy 33:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dff745398e3e036df80888a9fd741b2a5fc8f5d7a5cc8ea5d5da338c61a3cc82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dff745398e3e036df80888a9fd741b2a5fc8f5d7a5cc8ea5d5da338c61a3cc82"
+      },
+      "25": {
+        "source_ref": "Deuteronomy 33:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 25,
+            "source_ref": "Deuteronomy 33:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c1a7b2410843726c47df598d8b415b979b69957cea061e1994df1b6e53dbbc1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c1a7b2410843726c47df598d8b415b979b69957cea061e1994df1b6e53dbbc1"
+      },
+      "26": {
+        "source_ref": "Deuteronomy 33:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 26,
+            "source_ref": "Deuteronomy 33:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9433769303e1ef2cb346c62370d315ff4d03efb6ee3eae128f80ee63676dff92"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9433769303e1ef2cb346c62370d315ff4d03efb6ee3eae128f80ee63676dff92"
+      },
+      "27": {
+        "source_ref": "Deuteronomy 33:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 27,
+            "source_ref": "Deuteronomy 33:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e01428bad93d037d4b51fcd8c97f384a7c31bb3ec9bd799aeb9b81beb6268b80"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e01428bad93d037d4b51fcd8c97f384a7c31bb3ec9bd799aeb9b81beb6268b80"
+      },
+      "28": {
+        "source_ref": "Deuteronomy 33:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 28,
+            "source_ref": "Deuteronomy 33:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7573dbefa3e8d72fe5727fffb2725b12d5b8584d8a91062ef88c7f868342911b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7573dbefa3e8d72fe5727fffb2725b12d5b8584d8a91062ef88c7f868342911b"
+      },
+      "29": {
+        "source_ref": "Deuteronomy 33:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 33,
+            "verse": 29,
+            "source_ref": "Deuteronomy 33:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aa7600ef3765f0ec8136e88b6f6b3cf68462cd1799e9f770661cb13d04ea2431"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa7600ef3765f0ec8136e88b6f6b3cf68462cd1799e9f770661cb13d04ea2431"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/deuteronomy/Deuteronomy_33.md",
+    "blob_sha": "f0ce46729218a2b2604070c4876f6c4ad975c4fa"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

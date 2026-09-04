@@ -1,0 +1,366 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 16,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Deut.xml",
+    "git_blob_sha": "5317431fd1d1fb5848d7f9f1d22d0753152f9991",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Deuteronomy 16:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 1,
+            "source_ref": "Deuteronomy 16:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "da78eadd15cf61676c1a84ea18ce2c653b1da68d02025a4a29ff9c92097c21b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da78eadd15cf61676c1a84ea18ce2c653b1da68d02025a4a29ff9c92097c21b5"
+      },
+      "2": {
+        "source_ref": "Deuteronomy 16:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 2,
+            "source_ref": "Deuteronomy 16:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f7288f6da2f040fb800131c80df5bf5fb3f9bedd1892700aaa0419a4ab3d7947"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f7288f6da2f040fb800131c80df5bf5fb3f9bedd1892700aaa0419a4ab3d7947"
+      },
+      "3": {
+        "source_ref": "Deuteronomy 16:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 3,
+            "source_ref": "Deuteronomy 16:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "de0023879e131c78c8fb1ca8eb411c71457e77ee4cf5732738636f342c179040"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de0023879e131c78c8fb1ca8eb411c71457e77ee4cf5732738636f342c179040"
+      },
+      "4": {
+        "source_ref": "Deuteronomy 16:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 4,
+            "source_ref": "Deuteronomy 16:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "67b1e202316cac696a2a46caff544120a1fc5abb79249ab30a980c3b35316d52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67b1e202316cac696a2a46caff544120a1fc5abb79249ab30a980c3b35316d52"
+      },
+      "5": {
+        "source_ref": "Deuteronomy 16:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 5,
+            "source_ref": "Deuteronomy 16:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "76555f6187a0a016ce8beb8880d11da2f4ff33dc0c3f8927cf9c8760bb6bd3bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76555f6187a0a016ce8beb8880d11da2f4ff33dc0c3f8927cf9c8760bb6bd3bf"
+      },
+      "6": {
+        "source_ref": "Deuteronomy 16:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 6,
+            "source_ref": "Deuteronomy 16:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82a43d15ad7b6cd4d10253284a3f625808393fcbf102348b5d6bea82e934a651"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82a43d15ad7b6cd4d10253284a3f625808393fcbf102348b5d6bea82e934a651"
+      },
+      "7": {
+        "source_ref": "Deuteronomy 16:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 7,
+            "source_ref": "Deuteronomy 16:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "876f0a1970dee2d8a369efcebe33af84d5a86e4af93730b128cda9ed6e7e6b1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "876f0a1970dee2d8a369efcebe33af84d5a86e4af93730b128cda9ed6e7e6b1c"
+      },
+      "8": {
+        "source_ref": "Deuteronomy 16:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 8,
+            "source_ref": "Deuteronomy 16:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a742ca33195384ff4e35afb3e682f5c8748a7c56d596dcbf56d4fc92e3f8a49b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a742ca33195384ff4e35afb3e682f5c8748a7c56d596dcbf56d4fc92e3f8a49b"
+      },
+      "9": {
+        "source_ref": "Deuteronomy 16:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 9,
+            "source_ref": "Deuteronomy 16:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dd1b969ac0035b26e9be6e3ff2184528efaa6156ab3da679afb71187f04a3ff8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd1b969ac0035b26e9be6e3ff2184528efaa6156ab3da679afb71187f04a3ff8"
+      },
+      "10": {
+        "source_ref": "Deuteronomy 16:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 10,
+            "source_ref": "Deuteronomy 16:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "253b1b05adca2ff7bdbffbc72fdeaaffd5470e8ba5a2c0c4a7271eae3ba2833f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "253b1b05adca2ff7bdbffbc72fdeaaffd5470e8ba5a2c0c4a7271eae3ba2833f"
+      },
+      "11": {
+        "source_ref": "Deuteronomy 16:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 11,
+            "source_ref": "Deuteronomy 16:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "abe323f1519736bcf583f50d4b4baea070d6600a0b05a8135d3e98a4f3c6abc3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "abe323f1519736bcf583f50d4b4baea070d6600a0b05a8135d3e98a4f3c6abc3"
+      },
+      "12": {
+        "source_ref": "Deuteronomy 16:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 12,
+            "source_ref": "Deuteronomy 16:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d2ae8b3dd823fda7588b3e127c488dc52a9e0316100de16dc3cadd7d8eef7e0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2ae8b3dd823fda7588b3e127c488dc52a9e0316100de16dc3cadd7d8eef7e0b"
+      },
+      "13": {
+        "source_ref": "Deuteronomy 16:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 13,
+            "source_ref": "Deuteronomy 16:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a81fa3a6af69ba99aa1c8d3edad66dfc4213643729f26806e6884d12996a3899"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a81fa3a6af69ba99aa1c8d3edad66dfc4213643729f26806e6884d12996a3899"
+      },
+      "14": {
+        "source_ref": "Deuteronomy 16:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 14,
+            "source_ref": "Deuteronomy 16:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3186b2b5173a97b7c2c34a56e551247426c2261ad54bc3c2a44238f6b814b417"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3186b2b5173a97b7c2c34a56e551247426c2261ad54bc3c2a44238f6b814b417"
+      },
+      "15": {
+        "source_ref": "Deuteronomy 16:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 15,
+            "source_ref": "Deuteronomy 16:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f8528f193d26a0db462fb8a6bcc7f8893a7291847422e181d3d748483fe76ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f8528f193d26a0db462fb8a6bcc7f8893a7291847422e181d3d748483fe76ab"
+      },
+      "16": {
+        "source_ref": "Deuteronomy 16:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 16,
+            "source_ref": "Deuteronomy 16:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4aa2e05eafa1d3fd51d57c8490901c3714260b977f58b1cb6cac9c80d3489f23"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4aa2e05eafa1d3fd51d57c8490901c3714260b977f58b1cb6cac9c80d3489f23"
+      },
+      "17": {
+        "source_ref": "Deuteronomy 16:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 17,
+            "source_ref": "Deuteronomy 16:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "be98cdb1f7220f83e6fda2ad89f97b24fb1c68411d0da761a958eb4552818cb3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be98cdb1f7220f83e6fda2ad89f97b24fb1c68411d0da761a958eb4552818cb3"
+      },
+      "18": {
+        "source_ref": "Deuteronomy 16:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 18,
+            "source_ref": "Deuteronomy 16:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e9fb304f8ce6d0ae6422e0b3d5a4670b2e6c5161258c358c02dbc68aa071aba8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e9fb304f8ce6d0ae6422e0b3d5a4670b2e6c5161258c358c02dbc68aa071aba8"
+      },
+      "19": {
+        "source_ref": "Deuteronomy 16:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 19,
+            "source_ref": "Deuteronomy 16:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5ad00bb49ac5aa841c408360bf3d4214740002b2091dc6e9d9c0fc1e1dd379fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ad00bb49ac5aa841c408360bf3d4214740002b2091dc6e9d9c0fc1e1dd379fe"
+      },
+      "20": {
+        "source_ref": "Deuteronomy 16:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 20,
+            "source_ref": "Deuteronomy 16:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b7f31ae0166d2fe6fa0647d35e28fec245c02511221e3b01b76cfaf24e8a4af4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7f31ae0166d2fe6fa0647d35e28fec245c02511221e3b01b76cfaf24e8a4af4"
+      },
+      "21": {
+        "source_ref": "Deuteronomy 16:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 21,
+            "source_ref": "Deuteronomy 16:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e0b3540e2f9f60ab650d9965e213698a38f44911b2d0de64709ede5fb0279aab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e0b3540e2f9f60ab650d9965e213698a38f44911b2d0de64709ede5fb0279aab"
+      },
+      "22": {
+        "source_ref": "Deuteronomy 16:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 22,
+            "source_ref": "Deuteronomy 16:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "816c5fb0fa6c8caca8fcf58ac7d574bb3128611658644162c64c4f870e90fabd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "816c5fb0fa6c8caca8fcf58ac7d574bb3128611658644162c64c4f870e90fabd"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/deuteronomy/Deuteronomy_16.md",
+    "blob_sha": "45d859f509bcca40b4d529724c83659212c2e078"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
