@@ -1,0 +1,276 @@
+{
+  "book": "Job",
+  "chapter": 35,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 35:1",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 1,
+            "source_ref": "Job 35:1",
+            "segment_mode": "whole",
+            "sha256": "ffb768f9e5628a325056afe02477b2f384e55e67f1f5b1f366c470fd6e769eb3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ffb768f9e5628a325056afe02477b2f384e55e67f1f5b1f366c470fd6e769eb3"
+      },
+      "2": {
+        "source_ref": "Job 35:2",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 2,
+            "source_ref": "Job 35:2",
+            "segment_mode": "whole",
+            "sha256": "268d18a199fc57a06a88b5199004f854e3835f126c6c1be10a6fb8601c5055dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "268d18a199fc57a06a88b5199004f854e3835f126c6c1be10a6fb8601c5055dd"
+      },
+      "3": {
+        "source_ref": "Job 35:3",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 3,
+            "source_ref": "Job 35:3",
+            "segment_mode": "whole",
+            "sha256": "94c9d1add5e2f9cab13acd281b27936e2a1f51327c4aa1e6a7e6943d4b5b0471"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94c9d1add5e2f9cab13acd281b27936e2a1f51327c4aa1e6a7e6943d4b5b0471"
+      },
+      "4": {
+        "source_ref": "Job 35:4",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 4,
+            "source_ref": "Job 35:4",
+            "segment_mode": "whole",
+            "sha256": "96edfc320c62e6a4bb327dde3d291db8d3b757269f981a79baf2aa24348aaf49"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96edfc320c62e6a4bb327dde3d291db8d3b757269f981a79baf2aa24348aaf49"
+      },
+      "5": {
+        "source_ref": "Job 35:5",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 5,
+            "source_ref": "Job 35:5",
+            "segment_mode": "whole",
+            "sha256": "b28c92672b5dddafbe999db161b42f35621166cbac297761a6322391c7afdfc3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b28c92672b5dddafbe999db161b42f35621166cbac297761a6322391c7afdfc3"
+      },
+      "6": {
+        "source_ref": "Job 35:6",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 6,
+            "source_ref": "Job 35:6",
+            "segment_mode": "whole",
+            "sha256": "47c428759868357f67debb03352dc63a7631487f8816326f04678b82d67f680b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "47c428759868357f67debb03352dc63a7631487f8816326f04678b82d67f680b"
+      },
+      "7": {
+        "source_ref": "Job 35:7",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 7,
+            "source_ref": "Job 35:7",
+            "segment_mode": "whole",
+            "sha256": "eec622487a02b1789a0778c86cd340ad6fd13e2b3965e85ddc2ca8a1d6efd245"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eec622487a02b1789a0778c86cd340ad6fd13e2b3965e85ddc2ca8a1d6efd245"
+      },
+      "8": {
+        "source_ref": "Job 35:8",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 8,
+            "source_ref": "Job 35:8",
+            "segment_mode": "whole",
+            "sha256": "4cb4f881ad7f72c8a6957627a663677cbad9fe6febeb43c076c53617d5f697b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4cb4f881ad7f72c8a6957627a663677cbad9fe6febeb43c076c53617d5f697b1"
+      },
+      "9": {
+        "source_ref": "Job 35:9",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 9,
+            "source_ref": "Job 35:9",
+            "segment_mode": "whole",
+            "sha256": "4347fed49f3f0a93c7b3d51e490d0660d19badfe21fca12896dd6ae6a1cd73e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4347fed49f3f0a93c7b3d51e490d0660d19badfe21fca12896dd6ae6a1cd73e2"
+      },
+      "10": {
+        "source_ref": "Job 35:10",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 10,
+            "source_ref": "Job 35:10",
+            "segment_mode": "whole",
+            "sha256": "0fc0ebf47405427a4be05d51ae8b2a6c84b7bf7878405fd0d27a6eee9a9beccb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0fc0ebf47405427a4be05d51ae8b2a6c84b7bf7878405fd0d27a6eee9a9beccb"
+      },
+      "11": {
+        "source_ref": "Job 35:11",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 11,
+            "source_ref": "Job 35:11",
+            "segment_mode": "whole",
+            "sha256": "9ca0f28cdc26a9150f06a9655bdb25951b9f4342ebb527ef89edf3b1ee3496e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ca0f28cdc26a9150f06a9655bdb25951b9f4342ebb527ef89edf3b1ee3496e0"
+      },
+      "12": {
+        "source_ref": "Job 35:12",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 12,
+            "source_ref": "Job 35:12",
+            "segment_mode": "whole",
+            "sha256": "9d74a69d7c14e776a4364b6687a55fecb053a98fe3a8fa300870a23a20940069"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d74a69d7c14e776a4364b6687a55fecb053a98fe3a8fa300870a23a20940069"
+      },
+      "13": {
+        "source_ref": "Job 35:13",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 13,
+            "source_ref": "Job 35:13",
+            "segment_mode": "whole",
+            "sha256": "86907beaeba05df1ff236acd94f81524e43287ce6b4558cffc09f5f9dc9e9e37"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "86907beaeba05df1ff236acd94f81524e43287ce6b4558cffc09f5f9dc9e9e37"
+      },
+      "14": {
+        "source_ref": "Job 35:14",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 14,
+            "source_ref": "Job 35:14",
+            "segment_mode": "whole",
+            "sha256": "eaabe88853f3f1869f26d7a8afc8d83105e85a945fbc7867750251fe99f3f7a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eaabe88853f3f1869f26d7a8afc8d83105e85a945fbc7867750251fe99f3f7a7"
+      },
+      "15": {
+        "source_ref": "Job 35:15",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 15,
+            "source_ref": "Job 35:15",
+            "segment_mode": "whole",
+            "sha256": "e3a8c38b09f6568aacdbba88db14581df1d9ee2451a29b34d989a03f92d9f613"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3a8c38b09f6568aacdbba88db14581df1d9ee2451a29b34d989a03f92d9f613"
+      },
+      "16": {
+        "source_ref": "Job 35:16",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 16,
+            "source_ref": "Job 35:16",
+            "segment_mode": "whole",
+            "sha256": "05cd54155cc8c4a20007f2232a72cc760e3f63d03f2c9512cc15ae865a08608e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "05cd54155cc8c4a20007f2232a72cc760e3f63d03f2c9512cc15ae865a08608e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_35.md",
+    "blob_sha": "4e37d0b840772add7b7dcdb5d764e51776413368"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

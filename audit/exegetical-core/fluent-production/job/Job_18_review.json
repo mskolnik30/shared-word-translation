@@ -1,0 +1,351 @@
+{
+  "book": "Job",
+  "chapter": 18,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 18:1",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 1,
+            "source_ref": "Job 18:1",
+            "segment_mode": "whole",
+            "sha256": "dbed744f621541088d702030f854403f0219e2995936003b0f36571c316d1f64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dbed744f621541088d702030f854403f0219e2995936003b0f36571c316d1f64"
+      },
+      "2": {
+        "source_ref": "Job 18:2",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 2,
+            "source_ref": "Job 18:2",
+            "segment_mode": "whole",
+            "sha256": "a59a08e8cc4a928dd4c8151bc9f69d063a9256833082f3b65b5f63e1f5de5dfc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a59a08e8cc4a928dd4c8151bc9f69d063a9256833082f3b65b5f63e1f5de5dfc"
+      },
+      "3": {
+        "source_ref": "Job 18:3",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 3,
+            "source_ref": "Job 18:3",
+            "segment_mode": "whole",
+            "sha256": "fd69c33b6f4f56421c82fd820832804028df82d91adfe80772a63470a0a97934"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd69c33b6f4f56421c82fd820832804028df82d91adfe80772a63470a0a97934"
+      },
+      "4": {
+        "source_ref": "Job 18:4",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 4,
+            "source_ref": "Job 18:4",
+            "segment_mode": "whole",
+            "sha256": "0a675f79a8170f8d8782c6415f199f1b0df941ec185d86a9f0ac1ad2ea663eca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a675f79a8170f8d8782c6415f199f1b0df941ec185d86a9f0ac1ad2ea663eca"
+      },
+      "5": {
+        "source_ref": "Job 18:5",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 5,
+            "source_ref": "Job 18:5",
+            "segment_mode": "whole",
+            "sha256": "2520498da886c4a2031340eb8e6a050aa66cbe9f0e45833b27609acd05be4d87"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2520498da886c4a2031340eb8e6a050aa66cbe9f0e45833b27609acd05be4d87"
+      },
+      "6": {
+        "source_ref": "Job 18:6",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 6,
+            "source_ref": "Job 18:6",
+            "segment_mode": "whole",
+            "sha256": "39b06e4835e047bcb808b524b1c66ff22b1a0d65a2e5668a9cdd4007d5a22150"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39b06e4835e047bcb808b524b1c66ff22b1a0d65a2e5668a9cdd4007d5a22150"
+      },
+      "7": {
+        "source_ref": "Job 18:7",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 7,
+            "source_ref": "Job 18:7",
+            "segment_mode": "whole",
+            "sha256": "5a53ac5d0f0f9b3af3aabc4e1fc4c82538449fc8ecbd3728d5656282606e1e74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a53ac5d0f0f9b3af3aabc4e1fc4c82538449fc8ecbd3728d5656282606e1e74"
+      },
+      "8": {
+        "source_ref": "Job 18:8",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 8,
+            "source_ref": "Job 18:8",
+            "segment_mode": "whole",
+            "sha256": "3ae0f7112ac670d9b1fd58ab15f206520591b79e435a7a6f6d8d73d411c86b98"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ae0f7112ac670d9b1fd58ab15f206520591b79e435a7a6f6d8d73d411c86b98"
+      },
+      "9": {
+        "source_ref": "Job 18:9",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 9,
+            "source_ref": "Job 18:9",
+            "segment_mode": "whole",
+            "sha256": "adb8dee42465c861c97e19271b2260e7003d5251bd3f2814cca6321bc9d2fa78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "adb8dee42465c861c97e19271b2260e7003d5251bd3f2814cca6321bc9d2fa78"
+      },
+      "10": {
+        "source_ref": "Job 18:10",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 10,
+            "source_ref": "Job 18:10",
+            "segment_mode": "whole",
+            "sha256": "db09f6d431410865d23c14ad9c577cec100e3d976898ec1fa484c276e822ddc8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db09f6d431410865d23c14ad9c577cec100e3d976898ec1fa484c276e822ddc8"
+      },
+      "11": {
+        "source_ref": "Job 18:11",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 11,
+            "source_ref": "Job 18:11",
+            "segment_mode": "whole",
+            "sha256": "60e6cc73572185b169fa8ee40e8c72576448bfd79e69d32b7e748f0b8d4ef35e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60e6cc73572185b169fa8ee40e8c72576448bfd79e69d32b7e748f0b8d4ef35e"
+      },
+      "12": {
+        "source_ref": "Job 18:12",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 12,
+            "source_ref": "Job 18:12",
+            "segment_mode": "whole",
+            "sha256": "e37fe915982b6d6ab576af7a52867679e9bfb2acbd3aef3d52cf2785f115b0d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e37fe915982b6d6ab576af7a52867679e9bfb2acbd3aef3d52cf2785f115b0d2"
+      },
+      "13": {
+        "source_ref": "Job 18:13",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 13,
+            "source_ref": "Job 18:13",
+            "segment_mode": "whole",
+            "sha256": "da8085bcea61a79e542e97ae0a522773caf6c58400a842aff82006f259f3045b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da8085bcea61a79e542e97ae0a522773caf6c58400a842aff82006f259f3045b"
+      },
+      "14": {
+        "source_ref": "Job 18:14",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 14,
+            "source_ref": "Job 18:14",
+            "segment_mode": "whole",
+            "sha256": "2437d2768935e3327c40704159ed021fd4ec2d82c2539fd32ff52e3fc46bcfdf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2437d2768935e3327c40704159ed021fd4ec2d82c2539fd32ff52e3fc46bcfdf"
+      },
+      "15": {
+        "source_ref": "Job 18:15",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 15,
+            "source_ref": "Job 18:15",
+            "segment_mode": "whole",
+            "sha256": "c7ed1ef25888ce964f25100c424b2757838966f6fc73d30e9ab357ffeaa3d49f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c7ed1ef25888ce964f25100c424b2757838966f6fc73d30e9ab357ffeaa3d49f"
+      },
+      "16": {
+        "source_ref": "Job 18:16",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 16,
+            "source_ref": "Job 18:16",
+            "segment_mode": "whole",
+            "sha256": "ce4a9b92bade8e8089aa24629a13c91dd8b98a71d3073fdec4cfd9ae0b5b4355"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce4a9b92bade8e8089aa24629a13c91dd8b98a71d3073fdec4cfd9ae0b5b4355"
+      },
+      "17": {
+        "source_ref": "Job 18:17",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 17,
+            "source_ref": "Job 18:17",
+            "segment_mode": "whole",
+            "sha256": "25c102607bef6fb92069ae35846b5acc9990b3f7b2fb029c50a61aaf8f7f546b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25c102607bef6fb92069ae35846b5acc9990b3f7b2fb029c50a61aaf8f7f546b"
+      },
+      "18": {
+        "source_ref": "Job 18:18",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 18,
+            "source_ref": "Job 18:18",
+            "segment_mode": "whole",
+            "sha256": "69ba80d614d2954fcfdba515606e8bdbb31c66fbf87ce5b57b83a883275203a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69ba80d614d2954fcfdba515606e8bdbb31c66fbf87ce5b57b83a883275203a4"
+      },
+      "19": {
+        "source_ref": "Job 18:19",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 19,
+            "source_ref": "Job 18:19",
+            "segment_mode": "whole",
+            "sha256": "a372ff9e3449101a17988de1cc8b70b9c151da46dd2f5da5b15631fa83689fa0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a372ff9e3449101a17988de1cc8b70b9c151da46dd2f5da5b15631fa83689fa0"
+      },
+      "20": {
+        "source_ref": "Job 18:20",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 20,
+            "source_ref": "Job 18:20",
+            "segment_mode": "whole",
+            "sha256": "60f00fc38197218442a59229e7dec22f4b77e733ab18644aad63c0ad73fb8fea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60f00fc38197218442a59229e7dec22f4b77e733ab18644aad63c0ad73fb8fea"
+      },
+      "21": {
+        "source_ref": "Job 18:21",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 21,
+            "source_ref": "Job 18:21",
+            "segment_mode": "whole",
+            "sha256": "14a6db8587ea0aea8cec9cd0a9c2fff44bc1ce1e9c769ec231818c0aae665a11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14a6db8587ea0aea8cec9cd0a9c2fff44bc1ce1e9c769ec231818c0aae665a11"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_18.md",
+    "blob_sha": "d83d6221ba522c7abdb2808590017269fe226888"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

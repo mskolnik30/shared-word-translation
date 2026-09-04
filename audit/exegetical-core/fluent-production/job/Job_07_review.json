@@ -1,0 +1,351 @@
+{
+  "book": "Job",
+  "chapter": 7,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 7:1",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 1,
+            "source_ref": "Job 7:1",
+            "segment_mode": "whole",
+            "sha256": "35a4e48d9885342f6be66c59ac15601ab707a4d47030cca6341b530c6e747b60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35a4e48d9885342f6be66c59ac15601ab707a4d47030cca6341b530c6e747b60"
+      },
+      "2": {
+        "source_ref": "Job 7:2",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 2,
+            "source_ref": "Job 7:2",
+            "segment_mode": "whole",
+            "sha256": "c416f95d737bb9dba45a52ddcb56be621047aa24ca9428404dab498bccb9869b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c416f95d737bb9dba45a52ddcb56be621047aa24ca9428404dab498bccb9869b"
+      },
+      "3": {
+        "source_ref": "Job 7:3",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 3,
+            "source_ref": "Job 7:3",
+            "segment_mode": "whole",
+            "sha256": "854ffe8dfa86b37ee2d2e8293fcaf26ccb45caac96f429ab12b7c09e8c108dfa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "854ffe8dfa86b37ee2d2e8293fcaf26ccb45caac96f429ab12b7c09e8c108dfa"
+      },
+      "4": {
+        "source_ref": "Job 7:4",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 4,
+            "source_ref": "Job 7:4",
+            "segment_mode": "whole",
+            "sha256": "1363ec461cab733b1b0a32e03864e9e08000fd1b9b6003f44048e22364ced3f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1363ec461cab733b1b0a32e03864e9e08000fd1b9b6003f44048e22364ced3f6"
+      },
+      "5": {
+        "source_ref": "Job 7:5",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 5,
+            "source_ref": "Job 7:5",
+            "segment_mode": "whole",
+            "sha256": "4d7c4074dd9ed3f4342a7f3a45b12c8429d0aa81358d58f866caa6c3a2800b69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4d7c4074dd9ed3f4342a7f3a45b12c8429d0aa81358d58f866caa6c3a2800b69"
+      },
+      "6": {
+        "source_ref": "Job 7:6",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 6,
+            "source_ref": "Job 7:6",
+            "segment_mode": "whole",
+            "sha256": "8b673f072009faf4ef8478dc8f32cd98e4990edcd6e905e7273fc86344aa4292"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b673f072009faf4ef8478dc8f32cd98e4990edcd6e905e7273fc86344aa4292"
+      },
+      "7": {
+        "source_ref": "Job 7:7",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 7,
+            "source_ref": "Job 7:7",
+            "segment_mode": "whole",
+            "sha256": "268292725f77a378bb5013f91c785138316e7eb20bed45178d928d65cea52fbb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "268292725f77a378bb5013f91c785138316e7eb20bed45178d928d65cea52fbb"
+      },
+      "8": {
+        "source_ref": "Job 7:8",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 8,
+            "source_ref": "Job 7:8",
+            "segment_mode": "whole",
+            "sha256": "e08b305ce81d5275ae46d4af1c232329bc3e4ca9d1b712080a807444c4a77a0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e08b305ce81d5275ae46d4af1c232329bc3e4ca9d1b712080a807444c4a77a0c"
+      },
+      "9": {
+        "source_ref": "Job 7:9",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 9,
+            "source_ref": "Job 7:9",
+            "segment_mode": "whole",
+            "sha256": "bec3c409d403cc868ec09716990f332d88da596de22b18d59a783aa68276f012"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bec3c409d403cc868ec09716990f332d88da596de22b18d59a783aa68276f012"
+      },
+      "10": {
+        "source_ref": "Job 7:10",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 10,
+            "source_ref": "Job 7:10",
+            "segment_mode": "whole",
+            "sha256": "5bcc629437e0af2f4c3ebe60f12b3054e3d6ab88b8b9b4cd70f230b8d9efea73"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5bcc629437e0af2f4c3ebe60f12b3054e3d6ab88b8b9b4cd70f230b8d9efea73"
+      },
+      "11": {
+        "source_ref": "Job 7:11",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 11,
+            "source_ref": "Job 7:11",
+            "segment_mode": "whole",
+            "sha256": "51c4fb4a7106cad6c8b8a6059d25f8f2b54be273e62aaa647b3a8bef2828e1c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "51c4fb4a7106cad6c8b8a6059d25f8f2b54be273e62aaa647b3a8bef2828e1c7"
+      },
+      "12": {
+        "source_ref": "Job 7:12",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 12,
+            "source_ref": "Job 7:12",
+            "segment_mode": "whole",
+            "sha256": "07491dac6abbabca9959060bb9bd8f36cb05b5210d9752b2a590e11593e0879e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07491dac6abbabca9959060bb9bd8f36cb05b5210d9752b2a590e11593e0879e"
+      },
+      "13": {
+        "source_ref": "Job 7:13",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 13,
+            "source_ref": "Job 7:13",
+            "segment_mode": "whole",
+            "sha256": "fd2428aa72c10c35c126901eef7f2824f9cebdf9b914dfd96ecb17e948fc7c19"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd2428aa72c10c35c126901eef7f2824f9cebdf9b914dfd96ecb17e948fc7c19"
+      },
+      "14": {
+        "source_ref": "Job 7:14",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 14,
+            "source_ref": "Job 7:14",
+            "segment_mode": "whole",
+            "sha256": "8bfc0ee831a94f4007d215abd6ee7802b0efc5f18a4fbb18d02e7c66152ce423"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8bfc0ee831a94f4007d215abd6ee7802b0efc5f18a4fbb18d02e7c66152ce423"
+      },
+      "15": {
+        "source_ref": "Job 7:15",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 15,
+            "source_ref": "Job 7:15",
+            "segment_mode": "whole",
+            "sha256": "7b70d1d85db5bc41f39ecca5ee963630054f5a5785d4727a3d15575b400f6291"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b70d1d85db5bc41f39ecca5ee963630054f5a5785d4727a3d15575b400f6291"
+      },
+      "16": {
+        "source_ref": "Job 7:16",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 16,
+            "source_ref": "Job 7:16",
+            "segment_mode": "whole",
+            "sha256": "04a746d45a8c2de64e5ca2b57dc9f1b86b90c29d710410d37d08168e689557d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04a746d45a8c2de64e5ca2b57dc9f1b86b90c29d710410d37d08168e689557d9"
+      },
+      "17": {
+        "source_ref": "Job 7:17",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 17,
+            "source_ref": "Job 7:17",
+            "segment_mode": "whole",
+            "sha256": "b839944627ff4c09725d8fcf06b291a91db301472543875364271c01b6ddda54"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b839944627ff4c09725d8fcf06b291a91db301472543875364271c01b6ddda54"
+      },
+      "18": {
+        "source_ref": "Job 7:18",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 18,
+            "source_ref": "Job 7:18",
+            "segment_mode": "whole",
+            "sha256": "c14bb99185f06853f0494aa7ef0a28ba5291d05bfec7f488b7cff6c7f71daa34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c14bb99185f06853f0494aa7ef0a28ba5291d05bfec7f488b7cff6c7f71daa34"
+      },
+      "19": {
+        "source_ref": "Job 7:19",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 19,
+            "source_ref": "Job 7:19",
+            "segment_mode": "whole",
+            "sha256": "d08a93ff18655e56d63c68bdfe88c178bacdbf5d4969d7393dcb5524ece9cbe2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d08a93ff18655e56d63c68bdfe88c178bacdbf5d4969d7393dcb5524ece9cbe2"
+      },
+      "20": {
+        "source_ref": "Job 7:20",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 20,
+            "source_ref": "Job 7:20",
+            "segment_mode": "whole",
+            "sha256": "09579a3a6d3d040f0298cbc99413c5c1df971de908b67beb4a4f7142e6e0f950"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09579a3a6d3d040f0298cbc99413c5c1df971de908b67beb4a4f7142e6e0f950"
+      },
+      "21": {
+        "source_ref": "Job 7:21",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 21,
+            "source_ref": "Job 7:21",
+            "segment_mode": "whole",
+            "sha256": "27747328f2cffd789bdb1ad7d9fc610d3479402878ad477d6bc9d885e335a204"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27747328f2cffd789bdb1ad7d9fc610d3479402878ad477d6bc9d885e335a204"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_07.md",
+    "blob_sha": "f3b192c8d26b2fb0bb8d37bb3e1c149d54dc01f8"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

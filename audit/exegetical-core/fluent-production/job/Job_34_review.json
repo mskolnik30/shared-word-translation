@@ -1,0 +1,591 @@
+{
+  "book": "Job",
+  "chapter": 34,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 34:1",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 1,
+            "source_ref": "Job 34:1",
+            "segment_mode": "whole",
+            "sha256": "78f012f0b2542f95a04b49f4d9d28f163d5cef8fb3627940f328021ad86169e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "78f012f0b2542f95a04b49f4d9d28f163d5cef8fb3627940f328021ad86169e7"
+      },
+      "2": {
+        "source_ref": "Job 34:2",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 2,
+            "source_ref": "Job 34:2",
+            "segment_mode": "whole",
+            "sha256": "d7c8c0e913d52e6137f30edbd826a5a2f065c283efe8c4e1f2e1b74d380f289d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7c8c0e913d52e6137f30edbd826a5a2f065c283efe8c4e1f2e1b74d380f289d"
+      },
+      "3": {
+        "source_ref": "Job 34:3",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 3,
+            "source_ref": "Job 34:3",
+            "segment_mode": "whole",
+            "sha256": "240e54d38580f663875384d74cf5fbe977d8540b291af7187a416f85caf2d569"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "240e54d38580f663875384d74cf5fbe977d8540b291af7187a416f85caf2d569"
+      },
+      "4": {
+        "source_ref": "Job 34:4",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 4,
+            "source_ref": "Job 34:4",
+            "segment_mode": "whole",
+            "sha256": "8c7061aa47bf708f0826ad669b48aa6f10d6774a110a4b41ac8cdfd39d4b2a50"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c7061aa47bf708f0826ad669b48aa6f10d6774a110a4b41ac8cdfd39d4b2a50"
+      },
+      "5": {
+        "source_ref": "Job 34:5",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 5,
+            "source_ref": "Job 34:5",
+            "segment_mode": "whole",
+            "sha256": "e752ca768417d64d84b5e8d77c520703746dfb1a3f87bcd5717aa43165a4925c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e752ca768417d64d84b5e8d77c520703746dfb1a3f87bcd5717aa43165a4925c"
+      },
+      "6": {
+        "source_ref": "Job 34:6",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 6,
+            "source_ref": "Job 34:6",
+            "segment_mode": "whole",
+            "sha256": "1b474d224dbe2e89120c495b2df84199c4f0fc001998bb764a56fa14fd7a7a44"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b474d224dbe2e89120c495b2df84199c4f0fc001998bb764a56fa14fd7a7a44"
+      },
+      "7": {
+        "source_ref": "Job 34:7",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 7,
+            "source_ref": "Job 34:7",
+            "segment_mode": "whole",
+            "sha256": "c5c5defb55272504409fe8cb6a26e01dbd85123931eb49c9581c952f7cd0a15d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c5c5defb55272504409fe8cb6a26e01dbd85123931eb49c9581c952f7cd0a15d"
+      },
+      "8": {
+        "source_ref": "Job 34:8",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 8,
+            "source_ref": "Job 34:8",
+            "segment_mode": "whole",
+            "sha256": "07f15bfe161c3b34c000f932d4632b04bd41aea220883ccb2756f8a5f9bd6144"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07f15bfe161c3b34c000f932d4632b04bd41aea220883ccb2756f8a5f9bd6144"
+      },
+      "9": {
+        "source_ref": "Job 34:9",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 9,
+            "source_ref": "Job 34:9",
+            "segment_mode": "whole",
+            "sha256": "3222489d5268e5b30b3cb837db8dd75a26f18342e7991ab8d43efd58a28c2ad4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3222489d5268e5b30b3cb837db8dd75a26f18342e7991ab8d43efd58a28c2ad4"
+      },
+      "10": {
+        "source_ref": "Job 34:10",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 10,
+            "source_ref": "Job 34:10",
+            "segment_mode": "whole",
+            "sha256": "8f4e8456dfbdff4afb0eef8557f81ff9d1d963673c88660e8749dabc673c9f67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f4e8456dfbdff4afb0eef8557f81ff9d1d963673c88660e8749dabc673c9f67"
+      },
+      "11": {
+        "source_ref": "Job 34:11",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 11,
+            "source_ref": "Job 34:11",
+            "segment_mode": "whole",
+            "sha256": "45aec3184fb6ff76a3d55829dc846b5af532d4e7a55a8ed8efad4fc67df8b2a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45aec3184fb6ff76a3d55829dc846b5af532d4e7a55a8ed8efad4fc67df8b2a0"
+      },
+      "12": {
+        "source_ref": "Job 34:12",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 12,
+            "source_ref": "Job 34:12",
+            "segment_mode": "whole",
+            "sha256": "65bb3c7d43afa33c37be274c450ab2437b7094c231a0d1be3fdd0d2a2d491fd3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65bb3c7d43afa33c37be274c450ab2437b7094c231a0d1be3fdd0d2a2d491fd3"
+      },
+      "13": {
+        "source_ref": "Job 34:13",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 13,
+            "source_ref": "Job 34:13",
+            "segment_mode": "whole",
+            "sha256": "910be5ae90f4a341c5289e1d960ace346a9ad0da573ad3cc61769ec14fd013ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "910be5ae90f4a341c5289e1d960ace346a9ad0da573ad3cc61769ec14fd013ec"
+      },
+      "14": {
+        "source_ref": "Job 34:14",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 14,
+            "source_ref": "Job 34:14",
+            "segment_mode": "whole",
+            "sha256": "f0056b07397fbf2845e6265d0db9fb9651f255fbb04acb4a0cbb3d2757dfc169"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0056b07397fbf2845e6265d0db9fb9651f255fbb04acb4a0cbb3d2757dfc169"
+      },
+      "15": {
+        "source_ref": "Job 34:15",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 15,
+            "source_ref": "Job 34:15",
+            "segment_mode": "whole",
+            "sha256": "758ae2b2c3544b79e288ceb45a3321d28d3579b7641d3d920cec9a72994906c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "758ae2b2c3544b79e288ceb45a3321d28d3579b7641d3d920cec9a72994906c6"
+      },
+      "16": {
+        "source_ref": "Job 34:16",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 16,
+            "source_ref": "Job 34:16",
+            "segment_mode": "whole",
+            "sha256": "a2460cd232f471e41c475317aeedf1841c23fd795b3e4221088bff7238669a31"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a2460cd232f471e41c475317aeedf1841c23fd795b3e4221088bff7238669a31"
+      },
+      "17": {
+        "source_ref": "Job 34:17",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 17,
+            "source_ref": "Job 34:17",
+            "segment_mode": "whole",
+            "sha256": "8acbc43f1a0048204cd790558509d9edd1ecdfe9266c61a4ccbdd62cfa0e43e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8acbc43f1a0048204cd790558509d9edd1ecdfe9266c61a4ccbdd62cfa0e43e8"
+      },
+      "18": {
+        "source_ref": "Job 34:18",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 18,
+            "source_ref": "Job 34:18",
+            "segment_mode": "whole",
+            "sha256": "723896b540a5f28092aa70f372ea31808bf6c2c9fb6eca8caff6476e7b8071f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "723896b540a5f28092aa70f372ea31808bf6c2c9fb6eca8caff6476e7b8071f2"
+      },
+      "19": {
+        "source_ref": "Job 34:19",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 19,
+            "source_ref": "Job 34:19",
+            "segment_mode": "whole",
+            "sha256": "7164ed6ee3e22fb79203da2a1f3335cb9f99435a13cc7e42b262ee376e0f39db"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7164ed6ee3e22fb79203da2a1f3335cb9f99435a13cc7e42b262ee376e0f39db"
+      },
+      "20": {
+        "source_ref": "Job 34:20",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 20,
+            "source_ref": "Job 34:20",
+            "segment_mode": "whole",
+            "sha256": "0aca1aefe5aab0486777dcf366a1c781080eb8ec4785ced469c405a68b098e63"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0aca1aefe5aab0486777dcf366a1c781080eb8ec4785ced469c405a68b098e63"
+      },
+      "21": {
+        "source_ref": "Job 34:21",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 21,
+            "source_ref": "Job 34:21",
+            "segment_mode": "whole",
+            "sha256": "c2ec12a6c5352a59de64e96d608fe6b7373c991be1118e3d116fc64867760605"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2ec12a6c5352a59de64e96d608fe6b7373c991be1118e3d116fc64867760605"
+      },
+      "22": {
+        "source_ref": "Job 34:22",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 22,
+            "source_ref": "Job 34:22",
+            "segment_mode": "whole",
+            "sha256": "a67bdfa60089385b98ed8d771c0d5be5b1873741fb09b95365eefb0f93a4b89c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a67bdfa60089385b98ed8d771c0d5be5b1873741fb09b95365eefb0f93a4b89c"
+      },
+      "23": {
+        "source_ref": "Job 34:23",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 23,
+            "source_ref": "Job 34:23",
+            "segment_mode": "whole",
+            "sha256": "b6a59239b12dd8bbb689b2c9070158ffae89489ba03cf7fc404394546f1bd8c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6a59239b12dd8bbb689b2c9070158ffae89489ba03cf7fc404394546f1bd8c7"
+      },
+      "24": {
+        "source_ref": "Job 34:24",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 24,
+            "source_ref": "Job 34:24",
+            "segment_mode": "whole",
+            "sha256": "9df5758b683fd153d710efe7f06e47fd4b5583658f1b18274f220e46e902d202"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9df5758b683fd153d710efe7f06e47fd4b5583658f1b18274f220e46e902d202"
+      },
+      "25": {
+        "source_ref": "Job 34:25",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 25,
+            "source_ref": "Job 34:25",
+            "segment_mode": "whole",
+            "sha256": "7c3d3d317810d8caba3b284d2e5133e7378e1e2db9466a2fc03b4d6c530170bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c3d3d317810d8caba3b284d2e5133e7378e1e2db9466a2fc03b4d6c530170bf"
+      },
+      "26": {
+        "source_ref": "Job 34:26",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 26,
+            "source_ref": "Job 34:26",
+            "segment_mode": "whole",
+            "sha256": "2904c87090d09e02da7197a1bcee7d3490d20cf8fbdb76ffaa1e2ce25d22ed65"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2904c87090d09e02da7197a1bcee7d3490d20cf8fbdb76ffaa1e2ce25d22ed65"
+      },
+      "27": {
+        "source_ref": "Job 34:27",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 27,
+            "source_ref": "Job 34:27",
+            "segment_mode": "whole",
+            "sha256": "628ee3d0a955259c1abf6d2869470c59e62938a5d22eba60ed99c833f8ecb5a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "628ee3d0a955259c1abf6d2869470c59e62938a5d22eba60ed99c833f8ecb5a2"
+      },
+      "28": {
+        "source_ref": "Job 34:28",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 28,
+            "source_ref": "Job 34:28",
+            "segment_mode": "whole",
+            "sha256": "edd303a239cba71ffcc7b152aad0d4382c2294d827b6094c25b1ba4996727290"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "edd303a239cba71ffcc7b152aad0d4382c2294d827b6094c25b1ba4996727290"
+      },
+      "29": {
+        "source_ref": "Job 34:29",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 29,
+            "source_ref": "Job 34:29",
+            "segment_mode": "whole",
+            "sha256": "83197f0dee30b79fb56ac1849836a0ae20a889bc3442f28230f35bd0e69041f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83197f0dee30b79fb56ac1849836a0ae20a889bc3442f28230f35bd0e69041f2"
+      },
+      "30": {
+        "source_ref": "Job 34:30",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 30,
+            "source_ref": "Job 34:30",
+            "segment_mode": "whole",
+            "sha256": "2135d1097e86a9e91a4cab5073fafe7a1d5b4fdadc5b349cc023e29d65761c90"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2135d1097e86a9e91a4cab5073fafe7a1d5b4fdadc5b349cc023e29d65761c90"
+      },
+      "31": {
+        "source_ref": "Job 34:31",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 31,
+            "source_ref": "Job 34:31",
+            "segment_mode": "whole",
+            "sha256": "8fc1b9b085fa1b8bf87bc15937daec16f888c53703466db8103cb1b462a9072a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fc1b9b085fa1b8bf87bc15937daec16f888c53703466db8103cb1b462a9072a"
+      },
+      "32": {
+        "source_ref": "Job 34:32",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 32,
+            "source_ref": "Job 34:32",
+            "segment_mode": "whole",
+            "sha256": "a1288a6b4de6ea7eebfc451ad1480c1638f0f22158cea8c23be3ff312271d80d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1288a6b4de6ea7eebfc451ad1480c1638f0f22158cea8c23be3ff312271d80d"
+      },
+      "33": {
+        "source_ref": "Job 34:33",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 33,
+            "source_ref": "Job 34:33",
+            "segment_mode": "whole",
+            "sha256": "a22b4dadbcf1161bc4df5eb396556fc7f6b166a6452f31ec794659e3d14ea99b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a22b4dadbcf1161bc4df5eb396556fc7f6b166a6452f31ec794659e3d14ea99b"
+      },
+      "34": {
+        "source_ref": "Job 34:34",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 34,
+            "source_ref": "Job 34:34",
+            "segment_mode": "whole",
+            "sha256": "5f76282e0aef579722f91513398357881bafcee7fc0379ec0cfd48cdef9d0c76"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f76282e0aef579722f91513398357881bafcee7fc0379ec0cfd48cdef9d0c76"
+      },
+      "35": {
+        "source_ref": "Job 34:35",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 35,
+            "source_ref": "Job 34:35",
+            "segment_mode": "whole",
+            "sha256": "40c6ca5100c34c5075c01c99186888fdb2fbbb459d8abfc997fc149f1d4c9434"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40c6ca5100c34c5075c01c99186888fdb2fbbb459d8abfc997fc149f1d4c9434"
+      },
+      "36": {
+        "source_ref": "Job 34:36",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 36,
+            "source_ref": "Job 34:36",
+            "segment_mode": "whole",
+            "sha256": "d633b89c2ebe0c65c2773aa576c2658e08fe8cf5c30be185d2bc254571aeff2e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d633b89c2ebe0c65c2773aa576c2658e08fe8cf5c30be185d2bc254571aeff2e"
+      },
+      "37": {
+        "source_ref": "Job 34:37",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 37,
+            "source_ref": "Job 34:37",
+            "segment_mode": "whole",
+            "sha256": "d99c76c80dc6195987172c4c7255f6dfa5033bd3c3e4d1622817b02136f9f261"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d99c76c80dc6195987172c4c7255f6dfa5033bd3c3e4d1622817b02136f9f261"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_34.md",
+    "blob_sha": "1ded1e5972cacdcf354aaa117e35c26d4b9d6f3d"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

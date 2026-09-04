@@ -1,0 +1,552 @@
+{
+  "book": "Job",
+  "chapter": 41,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "41:1-34",
+      "decision": "Bind public 41:1-8 to Hebrew 40:25-32 and 41:9-34 to Hebrew 41:1-26; retain Leviathan's poetic force.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 40:25 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 25,
+            "source_ref": "Job 40:25 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "80141e72b42e442651a3cd36c25ee887aa4b9a478d7621c151a04a3d9e27b0fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "80141e72b42e442651a3cd36c25ee887aa4b9a478d7621c151a04a3d9e27b0fa"
+      },
+      "2": {
+        "source_ref": "Job 40:26 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 26,
+            "source_ref": "Job 40:26 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "c527dc01f3fa90c11b67d1f42b7dc03c6d1a0c850fbc64604569bab48a432420"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c527dc01f3fa90c11b67d1f42b7dc03c6d1a0c850fbc64604569bab48a432420"
+      },
+      "3": {
+        "source_ref": "Job 40:27 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 27,
+            "source_ref": "Job 40:27 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "1dc32e245f081af5918fc774aa09029d467c71efac6812e49ae76b7884864350"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1dc32e245f081af5918fc774aa09029d467c71efac6812e49ae76b7884864350"
+      },
+      "4": {
+        "source_ref": "Job 40:28 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 28,
+            "source_ref": "Job 40:28 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "153f5d314d4228dda7a960a53860e914447aee4e6b7fcd7a218a0698009ebda8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "153f5d314d4228dda7a960a53860e914447aee4e6b7fcd7a218a0698009ebda8"
+      },
+      "5": {
+        "source_ref": "Job 40:29 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 29,
+            "source_ref": "Job 40:29 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "4c1e7227369415ee7e660439950d62c330bc83df93878c8b449fad0658bcb840"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c1e7227369415ee7e660439950d62c330bc83df93878c8b449fad0658bcb840"
+      },
+      "6": {
+        "source_ref": "Job 40:30 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 30,
+            "source_ref": "Job 40:30 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "d58029b8a53cbc110d9940c65432456eed85ff23540c36d96beee626b4e7c17d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d58029b8a53cbc110d9940c65432456eed85ff23540c36d96beee626b4e7c17d"
+      },
+      "7": {
+        "source_ref": "Job 40:31 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 31,
+            "source_ref": "Job 40:31 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "428eea6c057a711c9a2d1d43439cf5213ebe30ed4479eac97281fb5da56aafcc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "428eea6c057a711c9a2d1d43439cf5213ebe30ed4479eac97281fb5da56aafcc"
+      },
+      "8": {
+        "source_ref": "Job 40:32 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 40,
+            "verse": 32,
+            "source_ref": "Job 40:32 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "fdceab99f2fa5d1d5c15eca3c856c5b0d21ba090a76aa9fb450656f6302cc523"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fdceab99f2fa5d1d5c15eca3c856c5b0d21ba090a76aa9fb450656f6302cc523"
+      },
+      "9": {
+        "source_ref": "Job 41:1 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 1,
+            "source_ref": "Job 41:1 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "7152ef17cc125bd44c37a6c8bbf9235a663854d4e982e6f06389d84de8ac2ffe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7152ef17cc125bd44c37a6c8bbf9235a663854d4e982e6f06389d84de8ac2ffe"
+      },
+      "10": {
+        "source_ref": "Job 41:2 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 2,
+            "source_ref": "Job 41:2 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "efb1b46677a126c6704757952d5d045c8087b6964cd805f661afba5145cd796a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "efb1b46677a126c6704757952d5d045c8087b6964cd805f661afba5145cd796a"
+      },
+      "11": {
+        "source_ref": "Job 41:3 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 3,
+            "source_ref": "Job 41:3 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "c06d46f79d1f63dd101e95603acb2c6350dec650235cfb8f21a55fcf57e2f473"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c06d46f79d1f63dd101e95603acb2c6350dec650235cfb8f21a55fcf57e2f473"
+      },
+      "12": {
+        "source_ref": "Job 41:4 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 4,
+            "source_ref": "Job 41:4 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "7c3f35fc435c50f624ea66a29efa054fc044f15a15fb4cb38aa87e663c858bdf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c3f35fc435c50f624ea66a29efa054fc044f15a15fb4cb38aa87e663c858bdf"
+      },
+      "13": {
+        "source_ref": "Job 41:5 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 5,
+            "source_ref": "Job 41:5 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "d1dd7ad29f2cedf786c1adbcfe8b3c2b5bcb7b8cce1a54c39dc5caa59aee66ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1dd7ad29f2cedf786c1adbcfe8b3c2b5bcb7b8cce1a54c39dc5caa59aee66ac"
+      },
+      "14": {
+        "source_ref": "Job 41:6 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 6,
+            "source_ref": "Job 41:6 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "9ea5e4ffa644e7a6c3f77e722e1d111151e733131e45d5655f7886badc9012b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ea5e4ffa644e7a6c3f77e722e1d111151e733131e45d5655f7886badc9012b4"
+      },
+      "15": {
+        "source_ref": "Job 41:7 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 7,
+            "source_ref": "Job 41:7 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "1507937c6e5d9075c1eaf24082f56c5a44f62cce04b62d6dfc1c8dc8f81e0d06"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1507937c6e5d9075c1eaf24082f56c5a44f62cce04b62d6dfc1c8dc8f81e0d06"
+      },
+      "16": {
+        "source_ref": "Job 41:8 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 8,
+            "source_ref": "Job 41:8 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "58c0a2e4badbfc855f5df22804c959e4d4e52be4a3b79a9ef379c61dd0f5d2c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "58c0a2e4badbfc855f5df22804c959e4d4e52be4a3b79a9ef379c61dd0f5d2c4"
+      },
+      "17": {
+        "source_ref": "Job 41:9 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 9,
+            "source_ref": "Job 41:9 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "a8530db2371949be8bda33170621fd802d3d39c2695030c021659ac4105d8486"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8530db2371949be8bda33170621fd802d3d39c2695030c021659ac4105d8486"
+      },
+      "18": {
+        "source_ref": "Job 41:10 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 10,
+            "source_ref": "Job 41:10 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "40e451d74143f7b266c011850933d58f1905d61592c029cebea5dd3c97847ea2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40e451d74143f7b266c011850933d58f1905d61592c029cebea5dd3c97847ea2"
+      },
+      "19": {
+        "source_ref": "Job 41:11 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 11,
+            "source_ref": "Job 41:11 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "88da2b1d7eb91ddc9127c497c65bb05287d68b371c7e0418f083c73768c2bf53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88da2b1d7eb91ddc9127c497c65bb05287d68b371c7e0418f083c73768c2bf53"
+      },
+      "20": {
+        "source_ref": "Job 41:12 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 12,
+            "source_ref": "Job 41:12 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "4235cc581582e2a5bae1258a74e5f0407cccafb03fd9e595a8adb12e75d75286"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4235cc581582e2a5bae1258a74e5f0407cccafb03fd9e595a8adb12e75d75286"
+      },
+      "21": {
+        "source_ref": "Job 41:13 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 13,
+            "source_ref": "Job 41:13 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "159b1e0dbb75969e5b4f93a27dc8df1645c8c40845c5d8f3b0718caabf9c4993"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "159b1e0dbb75969e5b4f93a27dc8df1645c8c40845c5d8f3b0718caabf9c4993"
+      },
+      "22": {
+        "source_ref": "Job 41:14 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 14,
+            "source_ref": "Job 41:14 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "82aaf318fb75cbca3f2b5dbe2e60338c6a508ac798a379ffa5fa6ca9621fb57a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82aaf318fb75cbca3f2b5dbe2e60338c6a508ac798a379ffa5fa6ca9621fb57a"
+      },
+      "23": {
+        "source_ref": "Job 41:15 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 15,
+            "source_ref": "Job 41:15 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "1521ede6cc035cfffa8d7112efa5d6e9efeda314ca32e72ddd9612ece94f8f33"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1521ede6cc035cfffa8d7112efa5d6e9efeda314ca32e72ddd9612ece94f8f33"
+      },
+      "24": {
+        "source_ref": "Job 41:16 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 16,
+            "source_ref": "Job 41:16 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "b3736b1d0d2f2c884b309efa9407b6b516c5efcd52125abedd6799cec37652fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b3736b1d0d2f2c884b309efa9407b6b516c5efcd52125abedd6799cec37652fa"
+      },
+      "25": {
+        "source_ref": "Job 41:17 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 17,
+            "source_ref": "Job 41:17 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "0c2d0776f48f6031f5ef5f650f8831f5d854cf56c3d0c667c05cb71fd37b23ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c2d0776f48f6031f5ef5f650f8831f5d854cf56c3d0c667c05cb71fd37b23ea"
+      },
+      "26": {
+        "source_ref": "Job 41:18 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 18,
+            "source_ref": "Job 41:18 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "e90dd2293133af3100a1eabe75589dcab741633ffd3b2eb60d2bd246991912b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e90dd2293133af3100a1eabe75589dcab741633ffd3b2eb60d2bd246991912b6"
+      },
+      "27": {
+        "source_ref": "Job 41:19 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 19,
+            "source_ref": "Job 41:19 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "79ada2b207c12dd5d63afebb93333824aec4a334c3bbeaa7733b4abf32a5284f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79ada2b207c12dd5d63afebb93333824aec4a334c3bbeaa7733b4abf32a5284f"
+      },
+      "28": {
+        "source_ref": "Job 41:20 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 20,
+            "source_ref": "Job 41:20 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "aa33b893f1be62ab8ffa739c3dd20e7fe7126b42bdd4d9662620fb3b1ec27637"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa33b893f1be62ab8ffa739c3dd20e7fe7126b42bdd4d9662620fb3b1ec27637"
+      },
+      "29": {
+        "source_ref": "Job 41:21 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 21,
+            "source_ref": "Job 41:21 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "60b6d9bb3cc9fc5223b6b5af19ba862ed43d0b3398dc6c6d542d8a5520f58a8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60b6d9bb3cc9fc5223b6b5af19ba862ed43d0b3398dc6c6d542d8a5520f58a8a"
+      },
+      "30": {
+        "source_ref": "Job 41:22 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 22,
+            "source_ref": "Job 41:22 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "8601e162d5a0e235124da949ac0692670fac9501025f223cf7814b8463b9bd14"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8601e162d5a0e235124da949ac0692670fac9501025f223cf7814b8463b9bd14"
+      },
+      "31": {
+        "source_ref": "Job 41:23 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 23,
+            "source_ref": "Job 41:23 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "58c4167560b359e354e678a53a9da10b0037b333724622a928821fbfb9bcfce5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "58c4167560b359e354e678a53a9da10b0037b333724622a928821fbfb9bcfce5"
+      },
+      "32": {
+        "source_ref": "Job 41:24 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 24,
+            "source_ref": "Job 41:24 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "593e47d2918e06643f992bcf3dece082d47de9c02578fb6a6e37f0cdd2dd3de0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "593e47d2918e06643f992bcf3dece082d47de9c02578fb6a6e37f0cdd2dd3de0"
+      },
+      "33": {
+        "source_ref": "Job 41:25 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 25,
+            "source_ref": "Job 41:25 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "53f46e6702b7853043fd558eec4c8c784ccb82c271ccc423a796af9faf0a62e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "53f46e6702b7853043fd558eec4c8c784ccb82c271ccc423a796af9faf0a62e8"
+      },
+      "34": {
+        "source_ref": "Job 41:26 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 41,
+            "verse": 26,
+            "source_ref": "Job 41:26 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "1ab42591125a3e223d2ba9b6832d1c7f330384e6242f24ba7b4f13246fc33b8b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ab42591125a3e223d2ba9b6832d1c7f330384e6242f24ba7b4f13246fc33b8b"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_41.md",
+    "blob_sha": "7fa55dbc85c387f7b69ec10ceee496e46bc705f2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

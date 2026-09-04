@@ -1,0 +1,501 @@
+{
+  "book": "Job",
+  "chapter": 30,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 30:1",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 1,
+            "source_ref": "Job 30:1",
+            "segment_mode": "whole",
+            "sha256": "dec2ae7588a332f8dac6373b63421999f7eb1045ec36d1b5d764351b510af28f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dec2ae7588a332f8dac6373b63421999f7eb1045ec36d1b5d764351b510af28f"
+      },
+      "2": {
+        "source_ref": "Job 30:2",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 2,
+            "source_ref": "Job 30:2",
+            "segment_mode": "whole",
+            "sha256": "9fc576fcbab6c1167effca60b1f5d603dbdd74f7b6be56f15884b68a61a064dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9fc576fcbab6c1167effca60b1f5d603dbdd74f7b6be56f15884b68a61a064dc"
+      },
+      "3": {
+        "source_ref": "Job 30:3",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 3,
+            "source_ref": "Job 30:3",
+            "segment_mode": "whole",
+            "sha256": "914b33967a044d730257e9a4d98e668db328b9112270cd3f7436565404c77312"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "914b33967a044d730257e9a4d98e668db328b9112270cd3f7436565404c77312"
+      },
+      "4": {
+        "source_ref": "Job 30:4",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 4,
+            "source_ref": "Job 30:4",
+            "segment_mode": "whole",
+            "sha256": "ef18f560626e855d521062e83f01a2e326c61e706a9edd2f18ffc9a2e23870d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef18f560626e855d521062e83f01a2e326c61e706a9edd2f18ffc9a2e23870d7"
+      },
+      "5": {
+        "source_ref": "Job 30:5",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 5,
+            "source_ref": "Job 30:5",
+            "segment_mode": "whole",
+            "sha256": "dd5574cbc1b6d15902fa518454adc0862f255c7a196474769c4bcaed661e1842"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd5574cbc1b6d15902fa518454adc0862f255c7a196474769c4bcaed661e1842"
+      },
+      "6": {
+        "source_ref": "Job 30:6",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 6,
+            "source_ref": "Job 30:6",
+            "segment_mode": "whole",
+            "sha256": "81ffbeb8e16782849b4fdb6583e03ae0d23ae3c716273553dfeb12895a1c77f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81ffbeb8e16782849b4fdb6583e03ae0d23ae3c716273553dfeb12895a1c77f8"
+      },
+      "7": {
+        "source_ref": "Job 30:7",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 7,
+            "source_ref": "Job 30:7",
+            "segment_mode": "whole",
+            "sha256": "f256e74104e65bdb942a184a32094c4d9115f6f61d88bee4d2f2af1cfed09d73"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f256e74104e65bdb942a184a32094c4d9115f6f61d88bee4d2f2af1cfed09d73"
+      },
+      "8": {
+        "source_ref": "Job 30:8",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 8,
+            "source_ref": "Job 30:8",
+            "segment_mode": "whole",
+            "sha256": "e6b617fb17402a816e06f0c2909f5edf767d5468c8f98b3e8b9927a9aeb40e39"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e6b617fb17402a816e06f0c2909f5edf767d5468c8f98b3e8b9927a9aeb40e39"
+      },
+      "9": {
+        "source_ref": "Job 30:9",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 9,
+            "source_ref": "Job 30:9",
+            "segment_mode": "whole",
+            "sha256": "0cdf768f4d90821fbe36530cdefa1cfce01fa0a7edc1afa53ec32e2caddf1026"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0cdf768f4d90821fbe36530cdefa1cfce01fa0a7edc1afa53ec32e2caddf1026"
+      },
+      "10": {
+        "source_ref": "Job 30:10",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 10,
+            "source_ref": "Job 30:10",
+            "segment_mode": "whole",
+            "sha256": "172c24903a18853fdd777c602f2a5eafa22fe03e20dadee2d1a8adc7e6d4fedd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "172c24903a18853fdd777c602f2a5eafa22fe03e20dadee2d1a8adc7e6d4fedd"
+      },
+      "11": {
+        "source_ref": "Job 30:11",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 11,
+            "source_ref": "Job 30:11",
+            "segment_mode": "whole",
+            "sha256": "ef1b78fc0597f793952b85c65b7976b33689244998c43c94d22cc9cfd398eb74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef1b78fc0597f793952b85c65b7976b33689244998c43c94d22cc9cfd398eb74"
+      },
+      "12": {
+        "source_ref": "Job 30:12",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 12,
+            "source_ref": "Job 30:12",
+            "segment_mode": "whole",
+            "sha256": "610a414cae8e0ffb23278b0464dfce5b459d956c2c426957ff31ef97fbfb64b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "610a414cae8e0ffb23278b0464dfce5b459d956c2c426957ff31ef97fbfb64b3"
+      },
+      "13": {
+        "source_ref": "Job 30:13",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 13,
+            "source_ref": "Job 30:13",
+            "segment_mode": "whole",
+            "sha256": "300d74ede2c6f287754e3fc11f4810c0269bd86b5f8647c80f84321858ea59fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "300d74ede2c6f287754e3fc11f4810c0269bd86b5f8647c80f84321858ea59fb"
+      },
+      "14": {
+        "source_ref": "Job 30:14",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 14,
+            "source_ref": "Job 30:14",
+            "segment_mode": "whole",
+            "sha256": "349625836ce242f0f58dc47f2c3ea8ce57c5f3c511b3db2603631bc302b9d804"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "349625836ce242f0f58dc47f2c3ea8ce57c5f3c511b3db2603631bc302b9d804"
+      },
+      "15": {
+        "source_ref": "Job 30:15",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 15,
+            "source_ref": "Job 30:15",
+            "segment_mode": "whole",
+            "sha256": "ae4740ac93bee345c98d7d8a94fa8c30a9b8c44bb7a78b4a3b10a77afb7cea77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae4740ac93bee345c98d7d8a94fa8c30a9b8c44bb7a78b4a3b10a77afb7cea77"
+      },
+      "16": {
+        "source_ref": "Job 30:16",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 16,
+            "source_ref": "Job 30:16",
+            "segment_mode": "whole",
+            "sha256": "eecfb1c2b871282beb0f1e7e3c716adfc5dcfb6a008c01b060c09de4db4912ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eecfb1c2b871282beb0f1e7e3c716adfc5dcfb6a008c01b060c09de4db4912ab"
+      },
+      "17": {
+        "source_ref": "Job 30:17",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 17,
+            "source_ref": "Job 30:17",
+            "segment_mode": "whole",
+            "sha256": "eb831808f53bed7a691d10caf1d998db04f95d345eba968d6bf79e5930cccf73"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb831808f53bed7a691d10caf1d998db04f95d345eba968d6bf79e5930cccf73"
+      },
+      "18": {
+        "source_ref": "Job 30:18",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 18,
+            "source_ref": "Job 30:18",
+            "segment_mode": "whole",
+            "sha256": "434ad1a1189ca63eac88dbcb15358253b09644a7d1eb2c05ece04ab0957ec013"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "434ad1a1189ca63eac88dbcb15358253b09644a7d1eb2c05ece04ab0957ec013"
+      },
+      "19": {
+        "source_ref": "Job 30:19",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 19,
+            "source_ref": "Job 30:19",
+            "segment_mode": "whole",
+            "sha256": "71f2c7149392b4d39523a6146e803a6abdd65662351bd59a642a64a57a44d8b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71f2c7149392b4d39523a6146e803a6abdd65662351bd59a642a64a57a44d8b7"
+      },
+      "20": {
+        "source_ref": "Job 30:20",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 20,
+            "source_ref": "Job 30:20",
+            "segment_mode": "whole",
+            "sha256": "7375ab6cfcf2157896193aca1d1b1c3fee119c67cf29ccd78d9f3a43886ddddc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7375ab6cfcf2157896193aca1d1b1c3fee119c67cf29ccd78d9f3a43886ddddc"
+      },
+      "21": {
+        "source_ref": "Job 30:21",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 21,
+            "source_ref": "Job 30:21",
+            "segment_mode": "whole",
+            "sha256": "48b41020466f6145d4e17484c613af1f12d01a63767e439ef18127b04da56ac6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48b41020466f6145d4e17484c613af1f12d01a63767e439ef18127b04da56ac6"
+      },
+      "22": {
+        "source_ref": "Job 30:22",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 22,
+            "source_ref": "Job 30:22",
+            "segment_mode": "whole",
+            "sha256": "1473e4cc7c8a2aeb73e0fe290112dd2351d851a296c6f9a90edb73df9f349e47"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1473e4cc7c8a2aeb73e0fe290112dd2351d851a296c6f9a90edb73df9f349e47"
+      },
+      "23": {
+        "source_ref": "Job 30:23",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 23,
+            "source_ref": "Job 30:23",
+            "segment_mode": "whole",
+            "sha256": "b63d21c4b207f0b19d6af588daacf1680e1a280b32e6dd5f8b3c8cdffe1be07e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b63d21c4b207f0b19d6af588daacf1680e1a280b32e6dd5f8b3c8cdffe1be07e"
+      },
+      "24": {
+        "source_ref": "Job 30:24",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 24,
+            "source_ref": "Job 30:24",
+            "segment_mode": "whole",
+            "sha256": "8d3db3516948744204a3507245f5ce97479e578f8d05a65e3a8aeab9c1ff80e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d3db3516948744204a3507245f5ce97479e578f8d05a65e3a8aeab9c1ff80e5"
+      },
+      "25": {
+        "source_ref": "Job 30:25",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 25,
+            "source_ref": "Job 30:25",
+            "segment_mode": "whole",
+            "sha256": "fea6519b5e1cff9ccccb31c97a797a14cd70548f92a950854e9252b80d5dcefc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fea6519b5e1cff9ccccb31c97a797a14cd70548f92a950854e9252b80d5dcefc"
+      },
+      "26": {
+        "source_ref": "Job 30:26",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 26,
+            "source_ref": "Job 30:26",
+            "segment_mode": "whole",
+            "sha256": "743698dece5776a128034ac32a8214acf5f5a76cb3fb292f1e3e1ac6ca6ffddb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "743698dece5776a128034ac32a8214acf5f5a76cb3fb292f1e3e1ac6ca6ffddb"
+      },
+      "27": {
+        "source_ref": "Job 30:27",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 27,
+            "source_ref": "Job 30:27",
+            "segment_mode": "whole",
+            "sha256": "2fa3a82e5aaccf79e055a0082713464e84dec1682d1ac10ab4ed05d6e9471fa0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2fa3a82e5aaccf79e055a0082713464e84dec1682d1ac10ab4ed05d6e9471fa0"
+      },
+      "28": {
+        "source_ref": "Job 30:28",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 28,
+            "source_ref": "Job 30:28",
+            "segment_mode": "whole",
+            "sha256": "c9f472b74ca1b287437ff1cc6d9e9a75b4c2045384597ac6d44a69386b632de8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9f472b74ca1b287437ff1cc6d9e9a75b4c2045384597ac6d44a69386b632de8"
+      },
+      "29": {
+        "source_ref": "Job 30:29",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 29,
+            "source_ref": "Job 30:29",
+            "segment_mode": "whole",
+            "sha256": "03f521cda7ea6aef98a3b97605951a26b8a1ea5ee5db3e6d2b7507659e4b9e2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03f521cda7ea6aef98a3b97605951a26b8a1ea5ee5db3e6d2b7507659e4b9e2c"
+      },
+      "30": {
+        "source_ref": "Job 30:30",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 30,
+            "source_ref": "Job 30:30",
+            "segment_mode": "whole",
+            "sha256": "5a58295c8621fdd15da57ecaa9d01d98ca70dab9dae2fa41c93be663e545297b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a58295c8621fdd15da57ecaa9d01d98ca70dab9dae2fa41c93be663e545297b"
+      },
+      "31": {
+        "source_ref": "Job 30:31",
+        "source_records": [
+          {
+            "chapter": 30,
+            "verse": 31,
+            "source_ref": "Job 30:31",
+            "segment_mode": "whole",
+            "sha256": "d868b1c2bd170fb14e0023e311893373192f9799a166547417718e64bc879069"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d868b1c2bd170fb14e0023e311893373192f9799a166547417718e64bc879069"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_30.md",
+    "blob_sha": "923e9554693b703dff3a189710f7384a46513941"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

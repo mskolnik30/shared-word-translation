@@ -1,0 +1,561 @@
+{
+  "book": "Job",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Job.xml",
+    "git_blob_sha": "942b8a028c3f7bac5f841c166a5a684d54bb164e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Job 9:1",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Job 9:1",
+            "segment_mode": "whole",
+            "sha256": "d4b4f8753b021c124e517816cc1b98bf4c05c507c751335caf559ca7fd69d97e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4b4f8753b021c124e517816cc1b98bf4c05c507c751335caf559ca7fd69d97e"
+      },
+      "2": {
+        "source_ref": "Job 9:2",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Job 9:2",
+            "segment_mode": "whole",
+            "sha256": "1e0d98e67572c68ffcb51283d80be15594b5d74132b6d0236726d6153e026493"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e0d98e67572c68ffcb51283d80be15594b5d74132b6d0236726d6153e026493"
+      },
+      "3": {
+        "source_ref": "Job 9:3",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Job 9:3",
+            "segment_mode": "whole",
+            "sha256": "e65afcd02551da08dcea175e090a27db0e9e90487ca3247542eaa260a660a36d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e65afcd02551da08dcea175e090a27db0e9e90487ca3247542eaa260a660a36d"
+      },
+      "4": {
+        "source_ref": "Job 9:4",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Job 9:4",
+            "segment_mode": "whole",
+            "sha256": "41e65c3d8cf093af5cdec385e2d72cadc6d8c2ba639eed877ed198ca0b43106f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41e65c3d8cf093af5cdec385e2d72cadc6d8c2ba639eed877ed198ca0b43106f"
+      },
+      "5": {
+        "source_ref": "Job 9:5",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Job 9:5",
+            "segment_mode": "whole",
+            "sha256": "ec72a30408e80fb153f91059659a34bf4d3cca402e648ffe35944ac00fbecaf1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec72a30408e80fb153f91059659a34bf4d3cca402e648ffe35944ac00fbecaf1"
+      },
+      "6": {
+        "source_ref": "Job 9:6",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Job 9:6",
+            "segment_mode": "whole",
+            "sha256": "73c69d3810e9d19b49b0e7aa4310d7400069a039ece25bf61b3cd6e7fb6f093d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73c69d3810e9d19b49b0e7aa4310d7400069a039ece25bf61b3cd6e7fb6f093d"
+      },
+      "7": {
+        "source_ref": "Job 9:7",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Job 9:7",
+            "segment_mode": "whole",
+            "sha256": "a8e634d18beffb8f032a272c69dd37ec525a40b55d1717adc0e00827bc2023ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8e634d18beffb8f032a272c69dd37ec525a40b55d1717adc0e00827bc2023ff"
+      },
+      "8": {
+        "source_ref": "Job 9:8",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Job 9:8",
+            "segment_mode": "whole",
+            "sha256": "00703a218a51e06e145b9d7c8c1f1796ab725060b628c7de696f1abce4bb551d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00703a218a51e06e145b9d7c8c1f1796ab725060b628c7de696f1abce4bb551d"
+      },
+      "9": {
+        "source_ref": "Job 9:9",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Job 9:9",
+            "segment_mode": "whole",
+            "sha256": "233c671dd6c24a649c5157d4a746ed188f4e59c5b697cea9bc887a0df17e4253"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "233c671dd6c24a649c5157d4a746ed188f4e59c5b697cea9bc887a0df17e4253"
+      },
+      "10": {
+        "source_ref": "Job 9:10",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Job 9:10",
+            "segment_mode": "whole",
+            "sha256": "574b2d8474a1d252d5de5358430c2145794a3b698fb8d8a0a7444fcc6c8d3d09"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "574b2d8474a1d252d5de5358430c2145794a3b698fb8d8a0a7444fcc6c8d3d09"
+      },
+      "11": {
+        "source_ref": "Job 9:11",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Job 9:11",
+            "segment_mode": "whole",
+            "sha256": "3a7e10628d6c039d0b0d1c1ab699bd75388dab93af50cf713f9e6ceed92a5b67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a7e10628d6c039d0b0d1c1ab699bd75388dab93af50cf713f9e6ceed92a5b67"
+      },
+      "12": {
+        "source_ref": "Job 9:12",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "Job 9:12",
+            "segment_mode": "whole",
+            "sha256": "bdf4fe596dfcd8af7988049d315b5c532e7d2c991ea78da6f300be8be92c1486"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bdf4fe596dfcd8af7988049d315b5c532e7d2c991ea78da6f300be8be92c1486"
+      },
+      "13": {
+        "source_ref": "Job 9:13",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "Job 9:13",
+            "segment_mode": "whole",
+            "sha256": "9f44d871cf4c832c2beae897928a9cc0d60c89596ec697d8a9852211aaa9e0f4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f44d871cf4c832c2beae897928a9cc0d60c89596ec697d8a9852211aaa9e0f4"
+      },
+      "14": {
+        "source_ref": "Job 9:14",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "Job 9:14",
+            "segment_mode": "whole",
+            "sha256": "246e68266c35786cb4d6d2a83b5a3f3b5ad73b64fe1c2377ad99df4d8820341e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "246e68266c35786cb4d6d2a83b5a3f3b5ad73b64fe1c2377ad99df4d8820341e"
+      },
+      "15": {
+        "source_ref": "Job 9:15",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "Job 9:15",
+            "segment_mode": "whole",
+            "sha256": "89aaf8a0ba6ccbab03bfb4d1fae838699d62b75010c929014b8c955e76b5dc6e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89aaf8a0ba6ccbab03bfb4d1fae838699d62b75010c929014b8c955e76b5dc6e"
+      },
+      "16": {
+        "source_ref": "Job 9:16",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 16,
+            "source_ref": "Job 9:16",
+            "segment_mode": "whole",
+            "sha256": "99bc3987f59a866f1cc4378a9d62cfd0bf6438cb8b021179236120620e83a134"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "99bc3987f59a866f1cc4378a9d62cfd0bf6438cb8b021179236120620e83a134"
+      },
+      "17": {
+        "source_ref": "Job 9:17",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 17,
+            "source_ref": "Job 9:17",
+            "segment_mode": "whole",
+            "sha256": "cadcc7ea14c7c2fc47312ae4887768b7d8733b6249df023b0b8eee145c46990a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cadcc7ea14c7c2fc47312ae4887768b7d8733b6249df023b0b8eee145c46990a"
+      },
+      "18": {
+        "source_ref": "Job 9:18",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 18,
+            "source_ref": "Job 9:18",
+            "segment_mode": "whole",
+            "sha256": "54664478333917c67c97c85f8fce6ec65fddf63fb40deb20bb7a2930301387cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "54664478333917c67c97c85f8fce6ec65fddf63fb40deb20bb7a2930301387cf"
+      },
+      "19": {
+        "source_ref": "Job 9:19",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 19,
+            "source_ref": "Job 9:19",
+            "segment_mode": "whole",
+            "sha256": "b367caa4b68ae23a4550ac613e657ca132fea7b350aeb64898fbe21e0f8ffecd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b367caa4b68ae23a4550ac613e657ca132fea7b350aeb64898fbe21e0f8ffecd"
+      },
+      "20": {
+        "source_ref": "Job 9:20",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 20,
+            "source_ref": "Job 9:20",
+            "segment_mode": "whole",
+            "sha256": "2a7449f62054271fb5b08517fdf0cf2cf82e29b9934636ee22945d95fc718542"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2a7449f62054271fb5b08517fdf0cf2cf82e29b9934636ee22945d95fc718542"
+      },
+      "21": {
+        "source_ref": "Job 9:21",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 21,
+            "source_ref": "Job 9:21",
+            "segment_mode": "whole",
+            "sha256": "6c4ce879847fcf98b303a43f081ca95bb0291f6060a7d578e2a9b0c464bccc9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c4ce879847fcf98b303a43f081ca95bb0291f6060a7d578e2a9b0c464bccc9c"
+      },
+      "22": {
+        "source_ref": "Job 9:22",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 22,
+            "source_ref": "Job 9:22",
+            "segment_mode": "whole",
+            "sha256": "208c03efb43b5af06c1e9f9876b09c3cec5b0ea0e32f9c7b2d681cd41a01484c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "208c03efb43b5af06c1e9f9876b09c3cec5b0ea0e32f9c7b2d681cd41a01484c"
+      },
+      "23": {
+        "source_ref": "Job 9:23",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 23,
+            "source_ref": "Job 9:23",
+            "segment_mode": "whole",
+            "sha256": "4f6ebdae6eeefe463578f4537627b056c9c792ed3eeb97d2450dacfbeb76f4b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f6ebdae6eeefe463578f4537627b056c9c792ed3eeb97d2450dacfbeb76f4b4"
+      },
+      "24": {
+        "source_ref": "Job 9:24",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 24,
+            "source_ref": "Job 9:24",
+            "segment_mode": "whole",
+            "sha256": "bb5d534f46feefaba1a3599464d7e53460eb3e92de4b1a6601044f9e9c2c0f41"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb5d534f46feefaba1a3599464d7e53460eb3e92de4b1a6601044f9e9c2c0f41"
+      },
+      "25": {
+        "source_ref": "Job 9:25",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 25,
+            "source_ref": "Job 9:25",
+            "segment_mode": "whole",
+            "sha256": "e325d47ce45325388bdae4f3d6d2533402d93e9d7dae7b1c5489b949d428f457"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e325d47ce45325388bdae4f3d6d2533402d93e9d7dae7b1c5489b949d428f457"
+      },
+      "26": {
+        "source_ref": "Job 9:26",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 26,
+            "source_ref": "Job 9:26",
+            "segment_mode": "whole",
+            "sha256": "33dc7b03bef07b6c186b988352dcc5ba9266f7759066787fba5405f200d8a399"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "33dc7b03bef07b6c186b988352dcc5ba9266f7759066787fba5405f200d8a399"
+      },
+      "27": {
+        "source_ref": "Job 9:27",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 27,
+            "source_ref": "Job 9:27",
+            "segment_mode": "whole",
+            "sha256": "98ffdef44e311fb54e5ad676d7a0aa23733d980bebbe6e7c1ac8e1cae7e16930"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98ffdef44e311fb54e5ad676d7a0aa23733d980bebbe6e7c1ac8e1cae7e16930"
+      },
+      "28": {
+        "source_ref": "Job 9:28",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 28,
+            "source_ref": "Job 9:28",
+            "segment_mode": "whole",
+            "sha256": "148882900b098ea13265a6584f6c95b7fe49ebffb1a0c54cfde5959ea2e7f97e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "148882900b098ea13265a6584f6c95b7fe49ebffb1a0c54cfde5959ea2e7f97e"
+      },
+      "29": {
+        "source_ref": "Job 9:29",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 29,
+            "source_ref": "Job 9:29",
+            "segment_mode": "whole",
+            "sha256": "876f11af0e594ae905f9b7d9f6280da885d145b2a6e493a263cec1049a3df95f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "876f11af0e594ae905f9b7d9f6280da885d145b2a6e493a263cec1049a3df95f"
+      },
+      "30": {
+        "source_ref": "Job 9:30",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 30,
+            "source_ref": "Job 9:30",
+            "segment_mode": "whole",
+            "sha256": "5b1c6b5723e826439189fa604ea3ac8c3ef63b9fb0435e83029a62935111db34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b1c6b5723e826439189fa604ea3ac8c3ef63b9fb0435e83029a62935111db34"
+      },
+      "31": {
+        "source_ref": "Job 9:31",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 31,
+            "source_ref": "Job 9:31",
+            "segment_mode": "whole",
+            "sha256": "2dbcac884c115c2fc1db5633bf0fccda786a707063cb5cc7fdc8e032fad84c15"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2dbcac884c115c2fc1db5633bf0fccda786a707063cb5cc7fdc8e032fad84c15"
+      },
+      "32": {
+        "source_ref": "Job 9:32",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 32,
+            "source_ref": "Job 9:32",
+            "segment_mode": "whole",
+            "sha256": "ebead55ff0b04a3d917b9aa31125029499263cc48cef4996f5c98efbd6a09c72"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ebead55ff0b04a3d917b9aa31125029499263cc48cef4996f5c98efbd6a09c72"
+      },
+      "33": {
+        "source_ref": "Job 9:33",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 33,
+            "source_ref": "Job 9:33",
+            "segment_mode": "whole",
+            "sha256": "948c22bf7525ae823bee8b8527d0bdd758aba1b4b7e8b7dc1ee53955b77542ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "948c22bf7525ae823bee8b8527d0bdd758aba1b4b7e8b7dc1ee53955b77542ca"
+      },
+      "34": {
+        "source_ref": "Job 9:34",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 34,
+            "source_ref": "Job 9:34",
+            "segment_mode": "whole",
+            "sha256": "5893c30ca7d20d5d3ef6677e20e5cc6a994a7b358a7f9c3da2eade41c66943f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5893c30ca7d20d5d3ef6677e20e5cc6a994a7b358a7f9c3da2eade41c66943f9"
+      },
+      "35": {
+        "source_ref": "Job 9:35",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 35,
+            "source_ref": "Job 9:35",
+            "segment_mode": "whole",
+            "sha256": "a6130625f4d7d4a222fb196aa63278e4e0be1b2a301de48e7de8aa5cb02f3cfb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6130625f4d7d4a222fb196aa63278e4e0be1b2a301de48e7de8aa5cb02f3cfb"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/job/Job_09.md",
+    "blob_sha": "26046bcfce911a26b2f112b5c52afe2585b8b6bc"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
