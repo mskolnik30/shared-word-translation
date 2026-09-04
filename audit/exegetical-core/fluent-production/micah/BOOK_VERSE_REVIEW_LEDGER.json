@@ -1,0 +1,2292 @@
+{
+  "book": "Micah",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mic.xml",
+    "git_blob_sha": "91f1eb9525085bdf34d5554d93e38943ea350452"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Micah 1:1",
+          "segment_mode": "whole",
+          "sha256": "d2a0efe81777425bbb27f154d6a4276615c06cdb4f62cb91348ab5d700170868"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d2a0efe81777425bbb27f154d6a4276615c06cdb4f62cb91348ab5d700170868",
+      "translation_sha256": "367b81b0f52adb9c01b65da7651609a4ab34600170136376ce537dfb783449d2",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Micah 1:2",
+          "segment_mode": "whole",
+          "sha256": "f771b0eda3d4b95b14e6b3bfc8e898dff1f069dd7667f5a8d88b7e74277e7082"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f771b0eda3d4b95b14e6b3bfc8e898dff1f069dd7667f5a8d88b7e74277e7082",
+      "translation_sha256": "e1a073504f09552d9a1344ec7d450cf0fdb4a4aea46a65f66df42d2da7ce496d",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Micah 1:3",
+          "segment_mode": "whole",
+          "sha256": "ff2f72211ab2286b2eae38e6a8333363abb4efface0fa5f78b2b3b7eaf789b63"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ff2f72211ab2286b2eae38e6a8333363abb4efface0fa5f78b2b3b7eaf789b63",
+      "translation_sha256": "66d49ea4a12839fd37aa52b649761b20403f6b408ed3e4b40006bc338c14fbf1",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Micah 1:4",
+          "segment_mode": "whole",
+          "sha256": "0562e0404b1788e77308fef931fb71c9ef3f0042484137fd38013ab6979f6f9e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0562e0404b1788e77308fef931fb71c9ef3f0042484137fd38013ab6979f6f9e",
+      "translation_sha256": "b249a42f02e3708acc1118d3602da7ea2dbbf0a44b05ad9af1556c85a7819854",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Micah 1:5",
+          "segment_mode": "whole",
+          "sha256": "8a56716f0248762a5765aaaf43890d4f383881bcce0abc0daffb0138a607e171"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8a56716f0248762a5765aaaf43890d4f383881bcce0abc0daffb0138a607e171",
+      "translation_sha256": "2e3d42760ff3d28c3625586415c5d53aa971db8d0768d96a74399166bcfff358",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Micah 1:6",
+          "segment_mode": "whole",
+          "sha256": "a589d509f204e0eadf19fef19a4a65f551608b431c9132a88578f954ce00a3d4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a589d509f204e0eadf19fef19a4a65f551608b431c9132a88578f954ce00a3d4",
+      "translation_sha256": "1c73c3ac5f58ab8366bb0462a0b26b25807fde294c187a1eb8b3d2a84efa1f63",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Micah 1:7",
+          "segment_mode": "whole",
+          "sha256": "3d80538808b61954aa0a626fe858418b99f058e16b99a8a24509bd530255e348"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3d80538808b61954aa0a626fe858418b99f058e16b99a8a24509bd530255e348",
+      "translation_sha256": "6b4728c90c09bce9a7b66b6ef120b4f7c56b6efef4a4aa1bca2aaa4ca6df94fd",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Micah 1:8",
+          "segment_mode": "whole",
+          "sha256": "f027084f49eb82b22bee17ebfa5ae4bdae8fef98b2fbb97b41d4225ad0ca0448"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f027084f49eb82b22bee17ebfa5ae4bdae8fef98b2fbb97b41d4225ad0ca0448",
+      "translation_sha256": "097fe29ae422d958cb6aa0cbd84ced4cfdf3bb1629b9dd6b67f94d98169e05a8",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Micah 1:9",
+          "segment_mode": "whole",
+          "sha256": "3c48844cbd282e89ecf242a8525fd5e80eb4e40168f5982b92e783d31f560458"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3c48844cbd282e89ecf242a8525fd5e80eb4e40168f5982b92e783d31f560458",
+      "translation_sha256": "9548a88d4ec028e42bbacca98eea1d1ed330dbe123e4869a7e32011d2a4ca46b",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Micah 1:10",
+          "segment_mode": "whole",
+          "sha256": "ee20a369690288dce490e0b2c1ed4b9639c2478dac6d1df6a75fe1c3960ca706"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ee20a369690288dce490e0b2c1ed4b9639c2478dac6d1df6a75fe1c3960ca706",
+      "translation_sha256": "dd47869908f61a1bcc44dbb934481b02733ffc130502be8ce38da01369086213",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Micah 1:11",
+          "segment_mode": "whole",
+          "sha256": "214bcf3e5d477b029a743fc4dd29b8f7ae72a1096ed5a45c56ea2f8134504c40"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "214bcf3e5d477b029a743fc4dd29b8f7ae72a1096ed5a45c56ea2f8134504c40",
+      "translation_sha256": "1b76f0cd8c2dbe29b67f3558e70b5d77e4b5df0c43306c226643e0718337960c",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Micah 1:12",
+          "segment_mode": "whole",
+          "sha256": "a63aac06a6108e7671585fb417e8bbbf27716bb8f26b13953c004b5519097db8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a63aac06a6108e7671585fb417e8bbbf27716bb8f26b13953c004b5519097db8",
+      "translation_sha256": "34e3bbeaa002c2e53673acb54a488803161d81002a085602e2d4ffd2b30fda4d",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Micah 1:13",
+          "segment_mode": "whole",
+          "sha256": "cd2ba2b9a9a287cb88a4defd96435b8b4f9776a6b8062b7b83995a3b9c088729"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cd2ba2b9a9a287cb88a4defd96435b8b4f9776a6b8062b7b83995a3b9c088729",
+      "translation_sha256": "738cf955be8e1d936c407145f0f45b839871805cbe4c9ad6520a7e3940528cc3",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Micah 1:14",
+          "segment_mode": "whole",
+          "sha256": "628870561f31b423c6fb332a90ca6ff038a629416de2ca5847b555947004ffe8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "628870561f31b423c6fb332a90ca6ff038a629416de2ca5847b555947004ffe8",
+      "translation_sha256": "6fc6cff5bda9c40afd85ae3055b5c95ff96f4c0820e3d6b0d801cd14d89bafc4",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Micah 1:15",
+          "segment_mode": "whole",
+          "sha256": "4c60a0686b38c94314bf26e0004f7501d6bb17362d58534b5261310843c7b684"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4c60a0686b38c94314bf26e0004f7501d6bb17362d58534b5261310843c7b684",
+      "translation_sha256": "e18fadcd1589d5df3f5729a9a19fbd62f4aa233ad66f546083af03c1d6ed7621",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "Micah 1:16",
+          "segment_mode": "whole",
+          "sha256": "5976d41a4e067ca626f86b0009fbd1304b20e7250c21860802dea10c9bb60011"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5976d41a4e067ca626f86b0009fbd1304b20e7250c21860802dea10c9bb60011",
+      "translation_sha256": "d9b0b6b73bc3ab98f89c1870be0216768c2d3b11dd992a4e9b24d9b9668d4070",
+      "tsw_blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Micah 2:1",
+          "segment_mode": "whole",
+          "sha256": "3075f17ca25f20e9a72491253f7d7b6e76fdab99ee8dcc070198a724f03349e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3075f17ca25f20e9a72491253f7d7b6e76fdab99ee8dcc070198a724f03349e3",
+      "translation_sha256": "469cd525ab96d046eaabf732c1e149b8fe1fffeccb65d6214bb94240274caf65",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": [
+        "Keep planned land seizure and dispossession at the center of the accusation."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Micah 2:2",
+          "segment_mode": "whole",
+          "sha256": "a59cbba38367f386b513444a5c834fade0b7d14693796acc79e92bb888cd03ce"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a59cbba38367f386b513444a5c834fade0b7d14693796acc79e92bb888cd03ce",
+      "translation_sha256": "e30467b444569ee413d4ec4b211e73e129381181cb65342157f085eff032377f",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": [
+        "Keep planned land seizure and dispossession at the center of the accusation."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Micah 2:3",
+          "segment_mode": "whole",
+          "sha256": "7c6dcabf74dbeb663e768c20f00c4c8de6afcdc8e9870dcde64321ac9b8bf87d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7c6dcabf74dbeb663e768c20f00c4c8de6afcdc8e9870dcde64321ac9b8bf87d",
+      "translation_sha256": "48df3e0e1e00727f1e893e6c3ab8623c5fc8346334db67a6b24c46a975f71167",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": [
+        "Keep planned land seizure and dispossession at the center of the accusation."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Micah 2:4",
+          "segment_mode": "whole",
+          "sha256": "98c02dba1b0a1ca7cab9ec4bf9e0c9976f2ccf39811cc86753d3ce60d392e4d0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "98c02dba1b0a1ca7cab9ec4bf9e0c9976f2ccf39811cc86753d3ce60d392e4d0",
+      "translation_sha256": "af3942136369fb85372278f2f988edee8c7b2b69443e5ef38e7e804e7a3a0d5d",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": [
+        "Keep planned land seizure and dispossession at the center of the accusation."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Micah 2:5",
+          "segment_mode": "whole",
+          "sha256": "4b49a12a4568b868c6aadecfbce0bc8d30690091fd81dbd4050803bf9cda5ddb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4b49a12a4568b868c6aadecfbce0bc8d30690091fd81dbd4050803bf9cda5ddb",
+      "translation_sha256": "c7f17bcea78910ee777de296cb2e74a2f197c7fc6905c3a49abd2fa1bc068280",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": [
+        "Keep planned land seizure and dispossession at the center of the accusation."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Micah 2:6",
+          "segment_mode": "whole",
+          "sha256": "7e349165bb893681f95bae075ab9e2e60e4f7134ad5b11178af4a504c620079f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7e349165bb893681f95bae075ab9e2e60e4f7134ad5b11178af4a504c620079f",
+      "translation_sha256": "8ffa151bc3623bb3ac3d78c9b2c831749f0ce92c9265c57c5fd1b873f4e8a5bf",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Micah 2:7",
+          "segment_mode": "whole",
+          "sha256": "f0a780524e07144b250a59ed3d29f09dad9eccc0317e91274229f82b16f1b043"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f0a780524e07144b250a59ed3d29f09dad9eccc0317e91274229f82b16f1b043",
+      "translation_sha256": "cd64c8afd835679583ced73131653264026c2050567f905d4c547d10d483e910",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Micah 2:8",
+          "segment_mode": "whole",
+          "sha256": "e46e6ce56f69bb685e01105d25bf313793352f23e2c2f39586eba1e7d0487963"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e46e6ce56f69bb685e01105d25bf313793352f23e2c2f39586eba1e7d0487963",
+      "translation_sha256": "4f57c6a3a21c87410fea2a34371be087fba292976fc770d2e211c2641460cf5d",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Micah 2:9",
+          "segment_mode": "whole",
+          "sha256": "b40cbc4adac742a6c9a1805846d64e138ba521a61b088eadb73ead6e32568d38"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b40cbc4adac742a6c9a1805846d64e138ba521a61b088eadb73ead6e32568d38",
+      "translation_sha256": "0b1404260485c91eeb238d9b95d613490444e620d2df0e35ffec7e1db9022582",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Micah 2:10",
+          "segment_mode": "whole",
+          "sha256": "77c51896ad38daf7835ab0c55ee909d012fdd44460c2e8b03ed8c420376d8641"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "77c51896ad38daf7835ab0c55ee909d012fdd44460c2e8b03ed8c420376d8641",
+      "translation_sha256": "2e1a3b95886d76397e1d7907071ea9517014a0a9cec285fa31516e0c3d6f4aa3",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Micah 2:11",
+          "segment_mode": "whole",
+          "sha256": "f198b38713721a479b1f0d33749702112653cf0eddaf2796905dc14d45cb58f0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f198b38713721a479b1f0d33749702112653cf0eddaf2796905dc14d45cb58f0",
+      "translation_sha256": "eef66de4b0b2609d38c0af046a705a367689fc8fe509d62c89b6de115e2d0f5a",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Micah 2:12",
+          "segment_mode": "whole",
+          "sha256": "5f368907d79d20b0b857b452cba3dbc5013da43dd28851186ac035be8a839b22"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5f368907d79d20b0b857b452cba3dbc5013da43dd28851186ac035be8a839b22",
+      "translation_sha256": "c195292f432df40cbaca321c930757fc6a6805fdee3f27036fc28e3be49b334b",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Micah 2:13",
+          "segment_mode": "whole",
+          "sha256": "84222d158791b434fb5c455931c93f2781cc4b915b98d2d376b4564b41e901cd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "84222d158791b434fb5c455931c93f2781cc4b915b98d2d376b4564b41e901cd",
+      "translation_sha256": "2e391aad4d9436b77ba210c962b57c63f900de90850976746a1d73f7091f6185",
+      "tsw_blob_sha": "2e6c625913a06befa8a7c526258b8c607627a926",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Micah 3:1",
+          "segment_mode": "whole",
+          "sha256": "41470caddaeb1c9d3631a1ceb3ab33968e5777730c88400e5f43f8b4a787a6c6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "41470caddaeb1c9d3631a1ceb3ab33968e5777730c88400e5f43f8b4a787a6c6",
+      "translation_sha256": "3feca5ccf742807f9a9bd7ab7b4be7462592fa5bcfd20d64c87ab7ac26b25304",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Micah 3:2",
+          "segment_mode": "whole",
+          "sha256": "f652fdfbe273c03fd0588f1a1b94977d000af26aad3ec85762e813894e48c640"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f652fdfbe273c03fd0588f1a1b94977d000af26aad3ec85762e813894e48c640",
+      "translation_sha256": "2b05e6f7fd61d000e3218b41606432e5e30578d30d3f5d9e3c4934b30dab6d12",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Micah 3:3",
+          "segment_mode": "whole",
+          "sha256": "852a8ccdbcf5aa3a9fe94eb81d1306224b9525eb5fab8e35969ddc1b8bba0348"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "852a8ccdbcf5aa3a9fe94eb81d1306224b9525eb5fab8e35969ddc1b8bba0348",
+      "translation_sha256": "f9a20a6ed3c5645b44e678482f8a04091642e0f92208c9b5a98980b9f4634ae8",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Micah 3:4",
+          "segment_mode": "whole",
+          "sha256": "9617fff18265192468aef464893a9bd7bb0cc3d6cab83f0e8558f121c9d6615f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9617fff18265192468aef464893a9bd7bb0cc3d6cab83f0e8558f121c9d6615f",
+      "translation_sha256": "137f1b5250644f3ff3d31bedec24e74f7709cde277c9c29ada3c5c4718c4c341",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Micah 3:5",
+          "segment_mode": "whole",
+          "sha256": "661dbfeefba35ac7a8aed701f25c5587be64a3c59c0cd8447018e453698c8c3a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "661dbfeefba35ac7a8aed701f25c5587be64a3c59c0cd8447018e453698c8c3a",
+      "translation_sha256": "f99fb863e1ac772c2810d213f96fbd7890b6ca55eb5d0f595d183db272cfffe6",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "Micah 3:6",
+          "segment_mode": "whole",
+          "sha256": "a9a14945f03e31b2e02c0152b255d40bd3c1c6e4009d89775b9805be1723b791"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a9a14945f03e31b2e02c0152b255d40bd3c1c6e4009d89775b9805be1723b791",
+      "translation_sha256": "43711bc4adb941db49bf70a83a8975add7695cbe60f52f528b2b1f36f59d9827",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "Micah 3:7",
+          "segment_mode": "whole",
+          "sha256": "a4606565aa6be14356d35a76a2ac12e787f881bb42822bb88dac7094f7532887"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a4606565aa6be14356d35a76a2ac12e787f881bb42822bb88dac7094f7532887",
+      "translation_sha256": "9316f90edf925693ada4b607b35fb8b39f523210acf48cf6575bb45c182d961d",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "Micah 3:8",
+          "segment_mode": "whole",
+          "sha256": "871884004b5be95ae6d847d0b8cd089cc56b3a6055dcc57f151b840af18b86a7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "871884004b5be95ae6d847d0b8cd089cc56b3a6055dcc57f151b840af18b86a7",
+      "translation_sha256": "96acc49d9be18a0d192ecdae78922025221479c611aa1a3e42820b43a00b67cc",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "Micah 3:9",
+          "segment_mode": "whole",
+          "sha256": "9bea5d13225595b1990e6094ca66aa389ecec4c0bbdb815a5e51479722957872"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9bea5d13225595b1990e6094ca66aa389ecec4c0bbdb815a5e51479722957872",
+      "translation_sha256": "34f19237a13810d9cd267b76f29abb469bb341b64292153f2e749d8bff05c5e9",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "Micah 3:10",
+          "segment_mode": "whole",
+          "sha256": "59f521d8c1ce5966818a280a22ccd064d92efcf44cd6dab81fad1dd0c9f29f79"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "59f521d8c1ce5966818a280a22ccd064d92efcf44cd6dab81fad1dd0c9f29f79",
+      "translation_sha256": "b62520769c32ffe3a7124aca7bb37bbb01d0eaf437216eeb9758636e3a2a1a00",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "Micah 3:11",
+          "segment_mode": "whole",
+          "sha256": "cde9c0abae8044cb5008420a586a27df8f625d28169bfe53370bbfed6db271b5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cde9c0abae8044cb5008420a586a27df8f625d28169bfe53370bbfed6db271b5",
+      "translation_sha256": "922bded7b8d3cabc95b31440e1cc66525d8b113631a3f1b9a9b7f43c35db1b0e",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 3:12",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 12,
+          "source_ref": "Micah 3:12",
+          "segment_mode": "whole",
+          "sha256": "460e19aa3c41b4214f9a13945edef600c73728dfeaae9316d39625772502e297"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "460e19aa3c41b4214f9a13945edef600c73728dfeaae9316d39625772502e297",
+      "translation_sha256": "03a92a9a67f5772738db41ad4737dc5af8916206637938752b8ef9750ee343a6",
+      "tsw_blob_sha": "f809bd2f7e93954c4f1969f347150a2b81ea4909",
+      "curated_decisions": [
+        "Retain the graphic critique of rulers, prophets, and priests who exploit people while presuming divine protection."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 4:1",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "source_ref": "Micah 4:1",
+          "segment_mode": "whole",
+          "sha256": "c116fbbbeaa4ce3d99a0b48bb6ed851c9a5e3da123f69896d1a2860b34be90f3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c116fbbbeaa4ce3d99a0b48bb6ed851c9a5e3da123f69896d1a2860b34be90f3",
+      "translation_sha256": "69a37ac0a578cc3f2dd2d6c289cdfe57eee3f748399cbc799920c727f6ef9cc1",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": [
+        "Preserve the nations' pilgrimage, learned peace, economic security, and faithful particularity."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 4:2",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 2,
+          "source_ref": "Micah 4:2",
+          "segment_mode": "whole",
+          "sha256": "c648a8f078b127cb8d86955a64d252fbcacf8cb1a329b1efe0dbae627ca39454"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c648a8f078b127cb8d86955a64d252fbcacf8cb1a329b1efe0dbae627ca39454",
+      "translation_sha256": "966b5eb202fa45bdea768fb3cf87bbee05f3511b0d080258a8016d33f844997f",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": [
+        "Preserve the nations' pilgrimage, learned peace, economic security, and faithful particularity."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 4:3",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 3,
+          "source_ref": "Micah 4:3",
+          "segment_mode": "whole",
+          "sha256": "daeb37dbc469ef92c5ab5046c062c3894b97ebcb5748d77f77e759014d6b6004"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "daeb37dbc469ef92c5ab5046c062c3894b97ebcb5748d77f77e759014d6b6004",
+      "translation_sha256": "11ca4478b11d65dd9ad3f9c8d7a2edca54b75a033d13fdb66097f8d01ab56fae",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": [
+        "Preserve the nations' pilgrimage, learned peace, economic security, and faithful particularity."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 4:4",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 4,
+          "source_ref": "Micah 4:4",
+          "segment_mode": "whole",
+          "sha256": "5bd62d2ac71d83cb2c4fa324870fb4734304926a09cc2ad9ebcbe8b09148d2ef"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5bd62d2ac71d83cb2c4fa324870fb4734304926a09cc2ad9ebcbe8b09148d2ef",
+      "translation_sha256": "bb020fc276a3638175b940e010a759933e23a6802fb24e3a92abb70eb0e4fa60",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": [
+        "Preserve the nations' pilgrimage, learned peace, economic security, and faithful particularity."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 4:5",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 5,
+          "source_ref": "Micah 4:5",
+          "segment_mode": "whole",
+          "sha256": "ef611fef2ce4466d89b44805deada2e6f0074cfcc586100aede91ea5cb870c7c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ef611fef2ce4466d89b44805deada2e6f0074cfcc586100aede91ea5cb870c7c",
+      "translation_sha256": "96ffd85e82a854ee7839054f661da54e8d11f67be03c2569d39bc5ce219002a6",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": [
+        "Preserve the nations' pilgrimage, learned peace, economic security, and faithful particularity."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 4:6",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 6,
+          "source_ref": "Micah 4:6",
+          "segment_mode": "whole",
+          "sha256": "ca015e5abbe19d4538c96fd9fa0481fbc1653c976ca4101415a6fc1ad025f9c1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ca015e5abbe19d4538c96fd9fa0481fbc1653c976ca4101415a6fc1ad025f9c1",
+      "translation_sha256": "a76e635d1cc33478ca67db553ab52be1a0a3c64574704eccea81ed3148d0ad2f",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 4:7",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 7,
+          "source_ref": "Micah 4:7",
+          "segment_mode": "whole",
+          "sha256": "6f0aa8936e7e84c6d853a0bbddf5c2d077c45f36f5830260bb17350d4b2742b6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6f0aa8936e7e84c6d853a0bbddf5c2d077c45f36f5830260bb17350d4b2742b6",
+      "translation_sha256": "b7e1bb0adae895a2aedb1c930bb8c6d9039b87d27b875d296c3f19d2d04a9257",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 4:8",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 8,
+          "source_ref": "Micah 4:8",
+          "segment_mode": "whole",
+          "sha256": "ce4409e13b8a446ea9782fe2c05b115ac590b15751e2ae9580fe31738fcffd1d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ce4409e13b8a446ea9782fe2c05b115ac590b15751e2ae9580fe31738fcffd1d",
+      "translation_sha256": "8afce363b520b85931c0494e6da562af2fa737f43dd7027353f06f28f4486082",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 4:9",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 9,
+          "source_ref": "Micah 4:9",
+          "segment_mode": "whole",
+          "sha256": "dcbac9566e09d93576903ea79108efe64f5fe893502f13733a8e44520a4f7b2a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dcbac9566e09d93576903ea79108efe64f5fe893502f13733a8e44520a4f7b2a",
+      "translation_sha256": "d90a3a54cb4de5fb91cf9063efb9ae838b54ac4af44c0ef861fb58106aa6e021",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 4:10",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 10,
+          "source_ref": "Micah 4:10",
+          "segment_mode": "whole",
+          "sha256": "503a1791bb7211fdd92c113210930b1a55fd56ca5facf254bf19391f52159f4d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "503a1791bb7211fdd92c113210930b1a55fd56ca5facf254bf19391f52159f4d",
+      "translation_sha256": "5593447ab23a9cbd90361c10a3b845b63c2f2cf401e440a8638ef80aa459ae0c",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 4:11",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 11,
+          "source_ref": "Micah 4:11",
+          "segment_mode": "whole",
+          "sha256": "f20e7e6ca0e5742ac1bf3e357713a391b2b05532ed8abd064c9fe4a791ee0329"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f20e7e6ca0e5742ac1bf3e357713a391b2b05532ed8abd064c9fe4a791ee0329",
+      "translation_sha256": "f3ace2fea6a089b6d7828035edb0d33466ccb6808e1b3fcef6ccb64da371b1c3",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 4:12",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 12,
+          "source_ref": "Micah 4:12",
+          "segment_mode": "whole",
+          "sha256": "aff4157be462b9f7ddbaf0fc5d6b6f135a211bef4a3b08e6c0c836b983adb2d0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aff4157be462b9f7ddbaf0fc5d6b6f135a211bef4a3b08e6c0c836b983adb2d0",
+      "translation_sha256": "06b5e22771b6de5c80ff037664ef8afa50fffec7eff4d6a5b1262a72d8353cb0",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F2",
+      "source_ref": "Micah 4:13",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 13,
+          "source_ref": "Micah 4:13",
+          "segment_mode": "whole",
+          "sha256": "5cdceb87a3f08fccac6717454ad1168703ee6a9cfdbe2ebc70d4f7369a054ac9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5cdceb87a3f08fccac6717454ad1168703ee6a9cfdbe2ebc70d4f7369a054ac9",
+      "translation_sha256": "a8ab33b7b4bc630d5c8dd50d6b4153d3cf01c9968e3e9d3b8917cb42a3e5c95a",
+      "tsw_blob_sha": "7438d8e97c23f7c8919402bd11335d7fe62f4050",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 4:14 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 14,
+          "source_ref": "Micah 4:14 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "7e3bed9e6ec6308bfd9eec36099611e25afeee103ab91c71764afcfa63a45474"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7e3bed9e6ec6308bfd9eec36099611e25afeee103ab91c71764afcfa63a45474",
+      "translation_sha256": "9d27b4d339e2e87fecbbbcde7c45579feb2298a007cfa503735bab48c64d363c",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": [
+        "Bind public 5:1 to Hebrew 4:14 and preserve the ruler-from-Bethlehem hope in its immediate literary setting."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 5:1 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "source_ref": "Micah 5:1 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "75175bcce77b42d6b8091d28ee87e64682838974c43edf35aad8cbb5ed83465e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "75175bcce77b42d6b8091d28ee87e64682838974c43edf35aad8cbb5ed83465e",
+      "translation_sha256": "638ab4c06abacc5a3178f1e039f58761ce24e35cf792c1358a7eafcd47ec747b",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": [
+        "Bind public 5:1 to Hebrew 4:14 and preserve the ruler-from-Bethlehem hope in its immediate literary setting."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 5:2 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 2,
+          "source_ref": "Micah 5:2 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "3c08524179410ee3a4ed8f3ba964d30d1005ef726a258c572e5c7e8d35756def"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3c08524179410ee3a4ed8f3ba964d30d1005ef726a258c572e5c7e8d35756def",
+      "translation_sha256": "bfdfb295651f0e57f9b3ca4d3b505f5be6a0078b69bdfda9b402882ebabecfb2",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": [
+        "Bind public 5:1 to Hebrew 4:14 and preserve the ruler-from-Bethlehem hope in its immediate literary setting."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 5:3 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 3,
+          "source_ref": "Micah 5:3 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "de11b6889586d9f06f0118157fc28c47814b7e72421b65c650b4977048bfc4c2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "de11b6889586d9f06f0118157fc28c47814b7e72421b65c650b4977048bfc4c2",
+      "translation_sha256": "13dd76f224c8a1b1ff6d75569a0324db58ef63214a2acfa5518780a1067c2abd",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": [
+        "Bind public 5:1 to Hebrew 4:14 and preserve the ruler-from-Bethlehem hope in its immediate literary setting."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 5:4 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 4,
+          "source_ref": "Micah 5:4 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "4c096d3736cc56318ce73ce0575c2ace7c32259138d4e14adad4e1a45d23e799"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4c096d3736cc56318ce73ce0575c2ace7c32259138d4e14adad4e1a45d23e799",
+      "translation_sha256": "a20ded4c51ba95506e93dd19ff8e560127c5b4b75f7f309439552c9e89c3b0dd",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": [
+        "Bind public 5:1 to Hebrew 4:14 and preserve the ruler-from-Bethlehem hope in its immediate literary setting."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 5:5 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 5,
+          "source_ref": "Micah 5:5 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "af8328cbef203e12f69d2974717111362f57709bce2d97dd38f128f93f517f4a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "af8328cbef203e12f69d2974717111362f57709bce2d97dd38f128f93f517f4a",
+      "translation_sha256": "e1dad4123fc066617a75aa70f01954231f3913e094d144b00e2640b5d9c5de90",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 5:6 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 6,
+          "source_ref": "Micah 5:6 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "daea635aeed5354b6106317287344b080ff3d602f09aa97e57a3299c073a0fb5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "daea635aeed5354b6106317287344b080ff3d602f09aa97e57a3299c073a0fb5",
+      "translation_sha256": "0cad995d02ec0116655809c6406876ec641ffba5ec11bcc6c5b139eaea32617b",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F2",
+      "source_ref": "Micah 5:7 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 7,
+          "source_ref": "Micah 5:7 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "95f87a1f744424d7a895ac3a5c2277500fddeb7cde08c3054a35abd3402a62f6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "95f87a1f744424d7a895ac3a5c2277500fddeb7cde08c3054a35abd3402a62f6",
+      "translation_sha256": "0ad8b3e2139e10dd03588b8d3d0fade14d20c3e714e6e3428c5f7d8319bb92ec",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 5:8 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 8,
+          "source_ref": "Micah 5:8 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "26ae292cad40ca58873269282698b9bfa046d8131a9040fca38421bb1914ae35"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "26ae292cad40ca58873269282698b9bfa046d8131a9040fca38421bb1914ae35",
+      "translation_sha256": "9abbefd919f06284b5479e3d9efa7ad49f044c2b2e6823d94ee5488dea81ee18",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 5:9 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 9,
+          "source_ref": "Micah 5:9 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "555d0330b9dc3774bac04b67eb550d2049660dbd386c43e266ab38f862840bf7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "555d0330b9dc3774bac04b67eb550d2049660dbd386c43e266ab38f862840bf7",
+      "translation_sha256": "30d7a4a19805492feedb153b086cb441f4d02f5be26a3f26abf8a006f78cdba3",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 5:10 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 10,
+          "source_ref": "Micah 5:10 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "4e07c841104694e6285a8ebbc335718e3f5926f52499ea42a3181fa3ad524bef"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4e07c841104694e6285a8ebbc335718e3f5926f52499ea42a3181fa3ad524bef",
+      "translation_sha256": "b13ec4c1b458453bd803de817930782188ef8f02872cd72b65bae9e8790126d0",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 5:11 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 11,
+          "source_ref": "Micah 5:11 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "f1caf159079ae78e4fd85a8af1d6bf1e28e83af020b8914be9245a951e8e91cb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f1caf159079ae78e4fd85a8af1d6bf1e28e83af020b8914be9245a951e8e91cb",
+      "translation_sha256": "8acaf1880a7b90c4d3779ef2f7641add042be19a0bf87d9f373e03772106f141",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 5:12 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 12,
+          "source_ref": "Micah 5:12 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "f17186dc2e8e2c032c73d7a689fef691689e538c81dc14b891c4086433ea5424"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f17186dc2e8e2c032c73d7a689fef691689e538c81dc14b891c4086433ea5424",
+      "translation_sha256": "a60204f72c48f09c94aa2c5e21b29887a5cfcffbc73a7fce604847107ad35fb0",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 5:13 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 13,
+          "source_ref": "Micah 5:13 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "5c607ac764a5f7c0ff369ef4acc35e45386c735d20066a9684058dd75881ede0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5c607ac764a5f7c0ff369ef4acc35e45386c735d20066a9684058dd75881ede0",
+      "translation_sha256": "d8e75ebd5d1836977a9a19cd00186ca88c9a04d578843135ce5e9e5204e00f47",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 5:14 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 14,
+          "source_ref": "Micah 5:14 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "c616994d6a6bfe5ea3002726597b8a22012e70610fc2fefc6c7af72d5a81b35e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c616994d6a6bfe5ea3002726597b8a22012e70610fc2fefc6c7af72d5a81b35e",
+      "translation_sha256": "d4f0b687631931a5711dd9e33b600cb7c8e168cbf8d77aec9e1e056aadc074d8",
+      "tsw_blob_sha": "91005205a61ea723b1755999d2cb8194f4df6c15",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 6:1",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "source_ref": "Micah 6:1",
+          "segment_mode": "whole",
+          "sha256": "ffb6af07aa342361a1b24486bde60c420f3762160936c1b8da32eb7df985e1f4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ffb6af07aa342361a1b24486bde60c420f3762160936c1b8da32eb7df985e1f4",
+      "translation_sha256": "5bdb931284ab2a1155563b5e19dbc26fc3e4a0fa3259a459f3c9496ffedb3d34",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 6:2",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 2,
+          "source_ref": "Micah 6:2",
+          "segment_mode": "whole",
+          "sha256": "b2c5c5dce9eb16b0fcd5c8b568e523aeee5364a2522a40f20cf76db4d22fc4ad"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b2c5c5dce9eb16b0fcd5c8b568e523aeee5364a2522a40f20cf76db4d22fc4ad",
+      "translation_sha256": "1624da66ebbaa44e926ae9e62a36224f80f8734cbd8942609342d977e58c1e48",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 6:3",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 3,
+          "source_ref": "Micah 6:3",
+          "segment_mode": "whole",
+          "sha256": "983795875682f5acf25ad98a853816aeb09ec79154e687bef55dd503c41a2b22"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "983795875682f5acf25ad98a853816aeb09ec79154e687bef55dd503c41a2b22",
+      "translation_sha256": "54dfbf88f091dcdfbd44a663e7f00720848a5439307150e571f68510b9cad685",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 6:4",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 4,
+          "source_ref": "Micah 6:4",
+          "segment_mode": "whole",
+          "sha256": "b1105c575a641fe663e51e3dd31fbfa03cdd5045c81b81ddb3b5f9e626b506cd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b1105c575a641fe663e51e3dd31fbfa03cdd5045c81b81ddb3b5f9e626b506cd",
+      "translation_sha256": "c75c618a433ff842ce1fd30d42403dfdaca94241dc5c21810bebe2521c01d029",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 6:5",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 5,
+          "source_ref": "Micah 6:5",
+          "segment_mode": "whole",
+          "sha256": "a00cff921b6037c21664cd1da9abbd49de0959f7ef39adcf20f6ca6b67c4a80b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a00cff921b6037c21664cd1da9abbd49de0959f7ef39adcf20f6ca6b67c4a80b",
+      "translation_sha256": "8b0fab63c4e35a0d920fd7a388eeec33bf0099abd410cdeb3bb10a8a741a8ad7",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 6:6",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 6,
+          "source_ref": "Micah 6:6",
+          "segment_mode": "whole",
+          "sha256": "bea0e688bbd58f3432164fa3fa49de3638c91d814c2cd106dafc2a0042c8e983"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bea0e688bbd58f3432164fa3fa49de3638c91d814c2cd106dafc2a0042c8e983",
+      "translation_sha256": "bbd90fbbc50688a4f58201b5ae1dd872ec1f3a44099262a2551c2f77e5197451",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": [
+        "Keep justice, steadfast love, and humble attentiveness to God as covenantal life rather than a generic slogan."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 6:7",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 7,
+          "source_ref": "Micah 6:7",
+          "segment_mode": "whole",
+          "sha256": "314e2aabb9bc55cc2a3e56251db5d1ffcf120a32f6f072c04861513a7ca8607b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "314e2aabb9bc55cc2a3e56251db5d1ffcf120a32f6f072c04861513a7ca8607b",
+      "translation_sha256": "bce4e48547675dbc6909e836b2c52e43256a12f00762859c112a9f4aad0c3ed4",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": [
+        "Keep justice, steadfast love, and humble attentiveness to God as covenantal life rather than a generic slogan."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 6:8",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 8,
+          "source_ref": "Micah 6:8",
+          "segment_mode": "whole",
+          "sha256": "0c1316a6d3d45e7d437eb212b27572e658c8da7823f4e0e289e6baf55eeedea2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0c1316a6d3d45e7d437eb212b27572e658c8da7823f4e0e289e6baf55eeedea2",
+      "translation_sha256": "aef386d8fe50f3d035e6f4f8218616665e660fffb7546ffde49131555621e1f4",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": [
+        "Keep justice, steadfast love, and humble attentiveness to God as covenantal life rather than a generic slogan."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 6:9",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 9,
+          "source_ref": "Micah 6:9",
+          "segment_mode": "whole",
+          "sha256": "f2230f2cb656505e1856ef4c73255fa3239b909a531b311394c36f1f405eecb9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f2230f2cb656505e1856ef4c73255fa3239b909a531b311394c36f1f405eecb9",
+      "translation_sha256": "ac98e854e21a77b4d9250f4a6902b08cfc0789f686424b04796d60a73f1475b3",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 6:10",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 10,
+          "source_ref": "Micah 6:10",
+          "segment_mode": "whole",
+          "sha256": "fa6af7d5fa3264622a2f27f2933b050f416c170ed71267cceeaf34424c326579"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fa6af7d5fa3264622a2f27f2933b050f416c170ed71267cceeaf34424c326579",
+      "translation_sha256": "3f9e240a9d36de62f9b1d99159f1045b00192086ea391b982e46abd4eac31122",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 6:11",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 11,
+          "source_ref": "Micah 6:11",
+          "segment_mode": "whole",
+          "sha256": "6efa9857448995195b9bbcec847c7d366bb4e1c5cbc4cc18485fb9d20938555e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6efa9857448995195b9bbcec847c7d366bb4e1c5cbc4cc18485fb9d20938555e",
+      "translation_sha256": "9852ec9fe3b130309486fa06d1b999b8085abc79adb0a75319be45a13a174838",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 6:12",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 12,
+          "source_ref": "Micah 6:12",
+          "segment_mode": "whole",
+          "sha256": "a1ed8c984e3003c8b9561486f74908b045f23134de484b833fbe76fb4f1f7fc4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a1ed8c984e3003c8b9561486f74908b045f23134de484b833fbe76fb4f1f7fc4",
+      "translation_sha256": "b08a92c7d2b64a485405e986990fa9daedb94c85710e0500689ecb5f2f9e80f8",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 6:13",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 13,
+          "source_ref": "Micah 6:13",
+          "segment_mode": "whole",
+          "sha256": "0f0713f76d1f3b0be1ef433ccdc3b36ae234e44366c44c74f83a56d37acc5eb4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0f0713f76d1f3b0be1ef433ccdc3b36ae234e44366c44c74f83a56d37acc5eb4",
+      "translation_sha256": "5ca7ca65e1ef33219092573af66c01d222e108fc4be2dba9f80a9294b3299803",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 6:14",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 14,
+          "source_ref": "Micah 6:14",
+          "segment_mode": "whole",
+          "sha256": "01a1f872cf97490736f1be0cbedd4205c1a6f019d2ce65e2e789e02f0551bb1a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "01a1f872cf97490736f1be0cbedd4205c1a6f019d2ce65e2e789e02f0551bb1a",
+      "translation_sha256": "83827f54554814edaec5e2228fa3af3727246cc27b8c14443d7f71f5a3877117",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 6:15",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 15,
+          "source_ref": "Micah 6:15",
+          "segment_mode": "whole",
+          "sha256": "dcb0ffebca06bed2137044728a0804049c139ce0eb44d01a35d780b20f231e1d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dcb0ffebca06bed2137044728a0804049c139ce0eb44d01a35d780b20f231e1d",
+      "translation_sha256": "1341dfe063fb4c85ca0370964867a44da4bf49e5cec779626c93cf8e773f901c",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 6,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 6:16",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 16,
+          "source_ref": "Micah 6:16",
+          "segment_mode": "whole",
+          "sha256": "fb6621eae932d22c1cc7294e7f6d9820c3099122d257e0bda6e6e5b77fee43a6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fb6621eae932d22c1cc7294e7f6d9820c3099122d257e0bda6e6e5b77fee43a6",
+      "translation_sha256": "c4a412c6fe9e10d2a6b05fef41eeb70a471aba8ddf15d94f95e01dec449d0f61",
+      "tsw_blob_sha": "03b31307bee674e62d36625c786ff150d9dccbdb",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 7:1",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "source_ref": "Micah 7:1",
+          "segment_mode": "whole",
+          "sha256": "3c1608f1817a039a43b14b5bd2a6c1a14cc4a59b3609008b4e5b39be8dedb049"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3c1608f1817a039a43b14b5bd2a6c1a14cc4a59b3609008b4e5b39be8dedb049",
+      "translation_sha256": "8ed61aec5b8c8271700bd3b9fb7d62c105b9ccdc609fa309b6d447273218104f",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 7:2",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 2,
+          "source_ref": "Micah 7:2",
+          "segment_mode": "whole",
+          "sha256": "bedd5d34de77c36ad6f0f5acfda308ec46160edaade5673cea41538efde7381c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bedd5d34de77c36ad6f0f5acfda308ec46160edaade5673cea41538efde7381c",
+      "translation_sha256": "01d994f90caa2479d9c7d330b36861702af7f03ac1af509badadd49b4c3a2dce",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 7:3",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 3,
+          "source_ref": "Micah 7:3",
+          "segment_mode": "whole",
+          "sha256": "67f3947536dd401d5b5003daed5d2bd580157022c9594fcb39fd56e8379843b9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "67f3947536dd401d5b5003daed5d2bd580157022c9594fcb39fd56e8379843b9",
+      "translation_sha256": "d1cec02976b5755a66c24ff3f3cb3c57264e989c1f6deb5e5f31dc58e09d2900",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 7:4",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 4,
+          "source_ref": "Micah 7:4",
+          "segment_mode": "whole",
+          "sha256": "dad1575d0312d7652012a39fa8c4df2fb59078096965c525fe0a596bcac62e7c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dad1575d0312d7652012a39fa8c4df2fb59078096965c525fe0a596bcac62e7c",
+      "translation_sha256": "184f114ed906f9f3d1378ecfbc6efd5d6d86b13665b467048df97a74a52c961e",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 7:5",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 5,
+          "source_ref": "Micah 7:5",
+          "segment_mode": "whole",
+          "sha256": "ed2846f67ab7fce210d8c684dc1976feec1cf1ae2960957db8ff125f02586214"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ed2846f67ab7fce210d8c684dc1976feec1cf1ae2960957db8ff125f02586214",
+      "translation_sha256": "d13d9a7836764178e6cb1443947a5a1ecfd37b327f14c40d623d372f38b9735e",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 7:6",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 6,
+          "source_ref": "Micah 7:6",
+          "segment_mode": "whole",
+          "sha256": "449f8444b29108160c8ca324e396eeb40cf3eb47dd07491996ba91fa0d41dee9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "449f8444b29108160c8ca324e396eeb40cf3eb47dd07491996ba91fa0d41dee9",
+      "translation_sha256": "14757674ce638bb76f14f7ed0a26d0a7f6b38c0024fdf83b41429b169d3e684c",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 7:7",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 7,
+          "source_ref": "Micah 7:7",
+          "segment_mode": "whole",
+          "sha256": "542ac172c25809c38035de2d2f8c3fcbe18b8bbc795638b542b870ee57af4823"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "542ac172c25809c38035de2d2f8c3fcbe18b8bbc795638b542b870ee57af4823",
+      "translation_sha256": "646ec2067bf045606feaa4012d15d8ed3a73867143dbeee0e1251424c9f1b59f",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 7:8",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 8,
+          "source_ref": "Micah 7:8",
+          "segment_mode": "whole",
+          "sha256": "59cc9176a1c6215811e922f39ab4a0005960b7d62053506f05734380db620ec8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "59cc9176a1c6215811e922f39ab4a0005960b7d62053506f05734380db620ec8",
+      "translation_sha256": "7d9a015e5476519ea0458fde03c6189a637a491a160232e2e55075f1d96bd965",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 7:9",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 9,
+          "source_ref": "Micah 7:9",
+          "segment_mode": "whole",
+          "sha256": "6ed682a8ab0c56ef2851c96c0012c3e553ae9b6448ce3dd4cee1f9d3b76090ab"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6ed682a8ab0c56ef2851c96c0012c3e553ae9b6448ce3dd4cee1f9d3b76090ab",
+      "translation_sha256": "d0393681ea7503061bc11b79dfa1687617cbe28d2013fb53059bb069ff64b543",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 7:10",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 10,
+          "source_ref": "Micah 7:10",
+          "segment_mode": "whole",
+          "sha256": "031198f1da8a050db4f764c18103f37e315e6fefcaa9e200ecd3d622456cbd6c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "031198f1da8a050db4f764c18103f37e315e6fefcaa9e200ecd3d622456cbd6c",
+      "translation_sha256": "d324f0d5c6f7348826651aa66eeb1ba8049accdddaae55ee394042e957eef554",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 7:11",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 11,
+          "source_ref": "Micah 7:11",
+          "segment_mode": "whole",
+          "sha256": "de885b5adae041214327e3ceaf2897cded53756dd9a82ac73b24b9e330858a28"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "de885b5adae041214327e3ceaf2897cded53756dd9a82ac73b24b9e330858a28",
+      "translation_sha256": "e391b5c921badd9975a8005a1dceb27bec3b13e1c51db93a84251d524219cfd5",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 7:12",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 12,
+          "source_ref": "Micah 7:12",
+          "segment_mode": "whole",
+          "sha256": "ca0fddf68bc32ea7fc6bdf65a80e87e0cacf0361e0f060c073862d65b15be101"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ca0fddf68bc32ea7fc6bdf65a80e87e0cacf0361e0f060c073862d65b15be101",
+      "translation_sha256": "3a49dd06455fd58d3660811204349bf0752edcc64aeacd82898b8a2d5cdb89dd",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 7:13",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 13,
+          "source_ref": "Micah 7:13",
+          "segment_mode": "whole",
+          "sha256": "37caa3ca74a56e5449a8353969b1b22fac3f44459e6b746e7af3263467e078b5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "37caa3ca74a56e5449a8353969b1b22fac3f44459e6b746e7af3263467e078b5",
+      "translation_sha256": "559c82fd6312871ed4a1cfa8b97aa746b9cf758e1b5d87ac918798b8b4701491",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 7:14",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 14,
+          "source_ref": "Micah 7:14",
+          "segment_mode": "whole",
+          "sha256": "946d87e7d4e27d86adc7c85be993f1f19489789cae9b17b96c24fa49c74dbec2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "946d87e7d4e27d86adc7c85be993f1f19489789cae9b17b96c24fa49c74dbec2",
+      "translation_sha256": "78ff1dad5cc81cdb58b058a80fdc4ce668431a1d4864e58448f7da5bf042c5da",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "Micah 7:15",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 15,
+          "source_ref": "Micah 7:15",
+          "segment_mode": "whole",
+          "sha256": "89e4bf7b87b1f14362e6643506beaef049e19474cda29eb54fd0a199403e6ab1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "89e4bf7b87b1f14362e6643506beaef049e19474cda29eb54fd0a199403e6ab1",
+      "translation_sha256": "f9d76bb9acf910e96820945b250211f7e7f0072ae7e9825c2c4acbc4c00005b0",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "Micah 7:16",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 16,
+          "source_ref": "Micah 7:16",
+          "segment_mode": "whole",
+          "sha256": "280eaab0acc4b2c1ea6d98c55ffbce250eb705e42e878ee6f6d5e82538d48327"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "280eaab0acc4b2c1ea6d98c55ffbce250eb705e42e878ee6f6d5e82538d48327",
+      "translation_sha256": "bfa69066a9502f7115bb90219ea5fb2ddc3e7a48284267fc3a01d0e9bf24dc99",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F2",
+      "source_ref": "Micah 7:17",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 17,
+          "source_ref": "Micah 7:17",
+          "segment_mode": "whole",
+          "sha256": "48e8beaee6941d8693c1c0f14ecb7fe95d1228f7f2b15067ed5f85c60450af53"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "48e8beaee6941d8693c1c0f14ecb7fe95d1228f7f2b15067ed5f85c60450af53",
+      "translation_sha256": "b5813341189b2063454ab6892c52814bac68b7c6e9c8c5478a225517a148e164",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 7,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 7:18",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 18,
+          "source_ref": "Micah 7:18",
+          "segment_mode": "whole",
+          "sha256": "a051553be8315709719b42b9ef744195fb114f13550c48a49b7092859adf1cae"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a051553be8315709719b42b9ef744195fb114f13550c48a49b7092859adf1cae",
+      "translation_sha256": "043b1586a34207a460038b0c4a1e294fc8177ab3210b556560e8fbf6f676a9ff",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": [
+        "Let forgiveness, steadfast love, and covenant faithfulness provide the final word."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 7:19",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 19,
+          "source_ref": "Micah 7:19",
+          "segment_mode": "whole",
+          "sha256": "8e40791a6125c661d2d3f174cb50d5798d74b74c6dce65afb01a666b1948ec53"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8e40791a6125c661d2d3f174cb50d5798d74b74c6dce65afb01a666b1948ec53",
+      "translation_sha256": "bf018f471e6320fc5521c11634fe0a27da8b15e56f6bcbb0ff2c13646eaa2af0",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": [
+        "Let forgiveness, steadfast love, and covenant faithfulness provide the final word."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Micah 7:20",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 20,
+          "source_ref": "Micah 7:20",
+          "segment_mode": "whole",
+          "sha256": "70e5dd4ac6366a25389819025f86bf78ec1067e4aadeb6ffe95917874d2bd31f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "70e5dd4ac6366a25389819025f86bf78ec1067e4aadeb6ffe95917874d2bd31f",
+      "translation_sha256": "9559f0ba27d04cf8206abad6f5766d005a837e4cfec062cbe2607c86c83fb0f8",
+      "tsw_blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e",
+      "curated_decisions": [
+        "Let forgiveness, steadfast love, and covenant faithfulness provide the final word."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 40,
+    "F1": 29,
+    "F2": 3,
+    "F3": 33
+  },
+  "public_verse_slots": 105,
+  "included_source_bindings": 105
+}

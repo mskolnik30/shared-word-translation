@@ -1,0 +1,276 @@
+{
+  "book": "Micah",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mic.xml",
+    "git_blob_sha": "91f1eb9525085bdf34d5554d93e38943ea350452"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mic.xml",
+    "git_blob_sha": "91f1eb9525085bdf34d5554d93e38943ea350452",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Micah 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Micah 1:1",
+            "segment_mode": "whole",
+            "sha256": "d2a0efe81777425bbb27f154d6a4276615c06cdb4f62cb91348ab5d700170868"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2a0efe81777425bbb27f154d6a4276615c06cdb4f62cb91348ab5d700170868"
+      },
+      "2": {
+        "source_ref": "Micah 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Micah 1:2",
+            "segment_mode": "whole",
+            "sha256": "f771b0eda3d4b95b14e6b3bfc8e898dff1f069dd7667f5a8d88b7e74277e7082"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f771b0eda3d4b95b14e6b3bfc8e898dff1f069dd7667f5a8d88b7e74277e7082"
+      },
+      "3": {
+        "source_ref": "Micah 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Micah 1:3",
+            "segment_mode": "whole",
+            "sha256": "ff2f72211ab2286b2eae38e6a8333363abb4efface0fa5f78b2b3b7eaf789b63"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff2f72211ab2286b2eae38e6a8333363abb4efface0fa5f78b2b3b7eaf789b63"
+      },
+      "4": {
+        "source_ref": "Micah 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Micah 1:4",
+            "segment_mode": "whole",
+            "sha256": "0562e0404b1788e77308fef931fb71c9ef3f0042484137fd38013ab6979f6f9e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0562e0404b1788e77308fef931fb71c9ef3f0042484137fd38013ab6979f6f9e"
+      },
+      "5": {
+        "source_ref": "Micah 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Micah 1:5",
+            "segment_mode": "whole",
+            "sha256": "8a56716f0248762a5765aaaf43890d4f383881bcce0abc0daffb0138a607e171"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a56716f0248762a5765aaaf43890d4f383881bcce0abc0daffb0138a607e171"
+      },
+      "6": {
+        "source_ref": "Micah 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Micah 1:6",
+            "segment_mode": "whole",
+            "sha256": "a589d509f204e0eadf19fef19a4a65f551608b431c9132a88578f954ce00a3d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a589d509f204e0eadf19fef19a4a65f551608b431c9132a88578f954ce00a3d4"
+      },
+      "7": {
+        "source_ref": "Micah 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Micah 1:7",
+            "segment_mode": "whole",
+            "sha256": "3d80538808b61954aa0a626fe858418b99f058e16b99a8a24509bd530255e348"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d80538808b61954aa0a626fe858418b99f058e16b99a8a24509bd530255e348"
+      },
+      "8": {
+        "source_ref": "Micah 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Micah 1:8",
+            "segment_mode": "whole",
+            "sha256": "f027084f49eb82b22bee17ebfa5ae4bdae8fef98b2fbb97b41d4225ad0ca0448"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f027084f49eb82b22bee17ebfa5ae4bdae8fef98b2fbb97b41d4225ad0ca0448"
+      },
+      "9": {
+        "source_ref": "Micah 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Micah 1:9",
+            "segment_mode": "whole",
+            "sha256": "3c48844cbd282e89ecf242a8525fd5e80eb4e40168f5982b92e783d31f560458"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c48844cbd282e89ecf242a8525fd5e80eb4e40168f5982b92e783d31f560458"
+      },
+      "10": {
+        "source_ref": "Micah 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Micah 1:10",
+            "segment_mode": "whole",
+            "sha256": "ee20a369690288dce490e0b2c1ed4b9639c2478dac6d1df6a75fe1c3960ca706"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee20a369690288dce490e0b2c1ed4b9639c2478dac6d1df6a75fe1c3960ca706"
+      },
+      "11": {
+        "source_ref": "Micah 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Micah 1:11",
+            "segment_mode": "whole",
+            "sha256": "214bcf3e5d477b029a743fc4dd29b8f7ae72a1096ed5a45c56ea2f8134504c40"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "214bcf3e5d477b029a743fc4dd29b8f7ae72a1096ed5a45c56ea2f8134504c40"
+      },
+      "12": {
+        "source_ref": "Micah 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Micah 1:12",
+            "segment_mode": "whole",
+            "sha256": "a63aac06a6108e7671585fb417e8bbbf27716bb8f26b13953c004b5519097db8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a63aac06a6108e7671585fb417e8bbbf27716bb8f26b13953c004b5519097db8"
+      },
+      "13": {
+        "source_ref": "Micah 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Micah 1:13",
+            "segment_mode": "whole",
+            "sha256": "cd2ba2b9a9a287cb88a4defd96435b8b4f9776a6b8062b7b83995a3b9c088729"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd2ba2b9a9a287cb88a4defd96435b8b4f9776a6b8062b7b83995a3b9c088729"
+      },
+      "14": {
+        "source_ref": "Micah 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Micah 1:14",
+            "segment_mode": "whole",
+            "sha256": "628870561f31b423c6fb332a90ca6ff038a629416de2ca5847b555947004ffe8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "628870561f31b423c6fb332a90ca6ff038a629416de2ca5847b555947004ffe8"
+      },
+      "15": {
+        "source_ref": "Micah 1:15",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Micah 1:15",
+            "segment_mode": "whole",
+            "sha256": "4c60a0686b38c94314bf26e0004f7501d6bb17362d58534b5261310843c7b684"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c60a0686b38c94314bf26e0004f7501d6bb17362d58534b5261310843c7b684"
+      },
+      "16": {
+        "source_ref": "Micah 1:16",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 16,
+            "source_ref": "Micah 1:16",
+            "segment_mode": "whole",
+            "sha256": "5976d41a4e067ca626f86b0009fbd1304b20e7250c21860802dea10c9bb60011"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5976d41a4e067ca626f86b0009fbd1304b20e7250c21860802dea10c9bb60011"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/micah/Micah_01.md",
+    "blob_sha": "6dd87b6b16dedf5564727e48bcbf775e5d538e7c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,342 @@
+{
+  "book": "Micah",
+  "chapter": 7,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mic.xml",
+    "git_blob_sha": "91f1eb9525085bdf34d5554d93e38943ea350452"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "7:18-20",
+      "decision": "Let forgiveness, steadfast love, and covenant faithfulness provide the final word.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Mic.xml",
+    "git_blob_sha": "91f1eb9525085bdf34d5554d93e38943ea350452",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Micah 7:1",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 1,
+            "source_ref": "Micah 7:1",
+            "segment_mode": "whole",
+            "sha256": "3c1608f1817a039a43b14b5bd2a6c1a14cc4a59b3609008b4e5b39be8dedb049"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c1608f1817a039a43b14b5bd2a6c1a14cc4a59b3609008b4e5b39be8dedb049"
+      },
+      "2": {
+        "source_ref": "Micah 7:2",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 2,
+            "source_ref": "Micah 7:2",
+            "segment_mode": "whole",
+            "sha256": "bedd5d34de77c36ad6f0f5acfda308ec46160edaade5673cea41538efde7381c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bedd5d34de77c36ad6f0f5acfda308ec46160edaade5673cea41538efde7381c"
+      },
+      "3": {
+        "source_ref": "Micah 7:3",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 3,
+            "source_ref": "Micah 7:3",
+            "segment_mode": "whole",
+            "sha256": "67f3947536dd401d5b5003daed5d2bd580157022c9594fcb39fd56e8379843b9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67f3947536dd401d5b5003daed5d2bd580157022c9594fcb39fd56e8379843b9"
+      },
+      "4": {
+        "source_ref": "Micah 7:4",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 4,
+            "source_ref": "Micah 7:4",
+            "segment_mode": "whole",
+            "sha256": "dad1575d0312d7652012a39fa8c4df2fb59078096965c525fe0a596bcac62e7c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dad1575d0312d7652012a39fa8c4df2fb59078096965c525fe0a596bcac62e7c"
+      },
+      "5": {
+        "source_ref": "Micah 7:5",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 5,
+            "source_ref": "Micah 7:5",
+            "segment_mode": "whole",
+            "sha256": "ed2846f67ab7fce210d8c684dc1976feec1cf1ae2960957db8ff125f02586214"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed2846f67ab7fce210d8c684dc1976feec1cf1ae2960957db8ff125f02586214"
+      },
+      "6": {
+        "source_ref": "Micah 7:6",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 6,
+            "source_ref": "Micah 7:6",
+            "segment_mode": "whole",
+            "sha256": "449f8444b29108160c8ca324e396eeb40cf3eb47dd07491996ba91fa0d41dee9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "449f8444b29108160c8ca324e396eeb40cf3eb47dd07491996ba91fa0d41dee9"
+      },
+      "7": {
+        "source_ref": "Micah 7:7",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 7,
+            "source_ref": "Micah 7:7",
+            "segment_mode": "whole",
+            "sha256": "542ac172c25809c38035de2d2f8c3fcbe18b8bbc795638b542b870ee57af4823"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "542ac172c25809c38035de2d2f8c3fcbe18b8bbc795638b542b870ee57af4823"
+      },
+      "8": {
+        "source_ref": "Micah 7:8",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 8,
+            "source_ref": "Micah 7:8",
+            "segment_mode": "whole",
+            "sha256": "59cc9176a1c6215811e922f39ab4a0005960b7d62053506f05734380db620ec8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59cc9176a1c6215811e922f39ab4a0005960b7d62053506f05734380db620ec8"
+      },
+      "9": {
+        "source_ref": "Micah 7:9",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 9,
+            "source_ref": "Micah 7:9",
+            "segment_mode": "whole",
+            "sha256": "6ed682a8ab0c56ef2851c96c0012c3e553ae9b6448ce3dd4cee1f9d3b76090ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ed682a8ab0c56ef2851c96c0012c3e553ae9b6448ce3dd4cee1f9d3b76090ab"
+      },
+      "10": {
+        "source_ref": "Micah 7:10",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 10,
+            "source_ref": "Micah 7:10",
+            "segment_mode": "whole",
+            "sha256": "031198f1da8a050db4f764c18103f37e315e6fefcaa9e200ecd3d622456cbd6c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "031198f1da8a050db4f764c18103f37e315e6fefcaa9e200ecd3d622456cbd6c"
+      },
+      "11": {
+        "source_ref": "Micah 7:11",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 11,
+            "source_ref": "Micah 7:11",
+            "segment_mode": "whole",
+            "sha256": "de885b5adae041214327e3ceaf2897cded53756dd9a82ac73b24b9e330858a28"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de885b5adae041214327e3ceaf2897cded53756dd9a82ac73b24b9e330858a28"
+      },
+      "12": {
+        "source_ref": "Micah 7:12",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 12,
+            "source_ref": "Micah 7:12",
+            "segment_mode": "whole",
+            "sha256": "ca0fddf68bc32ea7fc6bdf65a80e87e0cacf0361e0f060c073862d65b15be101"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca0fddf68bc32ea7fc6bdf65a80e87e0cacf0361e0f060c073862d65b15be101"
+      },
+      "13": {
+        "source_ref": "Micah 7:13",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 13,
+            "source_ref": "Micah 7:13",
+            "segment_mode": "whole",
+            "sha256": "37caa3ca74a56e5449a8353969b1b22fac3f44459e6b746e7af3263467e078b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37caa3ca74a56e5449a8353969b1b22fac3f44459e6b746e7af3263467e078b5"
+      },
+      "14": {
+        "source_ref": "Micah 7:14",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 14,
+            "source_ref": "Micah 7:14",
+            "segment_mode": "whole",
+            "sha256": "946d87e7d4e27d86adc7c85be993f1f19489789cae9b17b96c24fa49c74dbec2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "946d87e7d4e27d86adc7c85be993f1f19489789cae9b17b96c24fa49c74dbec2"
+      },
+      "15": {
+        "source_ref": "Micah 7:15",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 15,
+            "source_ref": "Micah 7:15",
+            "segment_mode": "whole",
+            "sha256": "89e4bf7b87b1f14362e6643506beaef049e19474cda29eb54fd0a199403e6ab1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89e4bf7b87b1f14362e6643506beaef049e19474cda29eb54fd0a199403e6ab1"
+      },
+      "16": {
+        "source_ref": "Micah 7:16",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 16,
+            "source_ref": "Micah 7:16",
+            "segment_mode": "whole",
+            "sha256": "280eaab0acc4b2c1ea6d98c55ffbce250eb705e42e878ee6f6d5e82538d48327"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "280eaab0acc4b2c1ea6d98c55ffbce250eb705e42e878ee6f6d5e82538d48327"
+      },
+      "17": {
+        "source_ref": "Micah 7:17",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 17,
+            "source_ref": "Micah 7:17",
+            "segment_mode": "whole",
+            "sha256": "48e8beaee6941d8693c1c0f14ecb7fe95d1228f7f2b15067ed5f85c60450af53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48e8beaee6941d8693c1c0f14ecb7fe95d1228f7f2b15067ed5f85c60450af53"
+      },
+      "18": {
+        "source_ref": "Micah 7:18",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 18,
+            "source_ref": "Micah 7:18",
+            "segment_mode": "whole",
+            "sha256": "a051553be8315709719b42b9ef744195fb114f13550c48a49b7092859adf1cae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a051553be8315709719b42b9ef744195fb114f13550c48a49b7092859adf1cae"
+      },
+      "19": {
+        "source_ref": "Micah 7:19",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 19,
+            "source_ref": "Micah 7:19",
+            "segment_mode": "whole",
+            "sha256": "8e40791a6125c661d2d3f174cb50d5798d74b74c6dce65afb01a666b1948ec53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e40791a6125c661d2d3f174cb50d5798d74b74c6dce65afb01a666b1948ec53"
+      },
+      "20": {
+        "source_ref": "Micah 7:20",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 20,
+            "source_ref": "Micah 7:20",
+            "segment_mode": "whole",
+            "sha256": "70e5dd4ac6366a25389819025f86bf78ec1067e4aadeb6ffe95917874d2bd31f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70e5dd4ac6366a25389819025f86bf78ec1067e4aadeb6ffe95917874d2bd31f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/micah/Micah_07.md",
+    "blob_sha": "7cf5050e46828a7025cb287e9f349c36cfeae29e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
