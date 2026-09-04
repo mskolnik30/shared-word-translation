@@ -1,0 +1,3563 @@
+{
+  "book": "Lamentations",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Lam.xml",
+    "git_blob_sha": "f40b01e621ebecb437793aa27fc7f487a58861df"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Lamentations 1:1",
+          "segment_mode": "whole",
+          "sha256": "ef8e920b2606b4789e5483705555788016ad058f310d61dc1de9c5a2e050158c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ef8e920b2606b4789e5483705555788016ad058f310d61dc1de9c5a2e050158c",
+      "translation_sha256": "652d96542f87d6a12448f1eb6184d21db35af5ea8270e0fcce66b79b07dc3733",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Lamentations 1:2",
+          "segment_mode": "whole",
+          "sha256": "50c23304eeceed1bf56b41148728ef9e785b950e91155410b02adbcef315d322"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "50c23304eeceed1bf56b41148728ef9e785b950e91155410b02adbcef315d322",
+      "translation_sha256": "d99d06261e9a071314f1da119293f5276ab9428bcc161462f25d03f654db9fef",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Lamentations 1:3",
+          "segment_mode": "whole",
+          "sha256": "6db722eaf9e26f050e30b6cb63c893713eef14d118a8cf10e0bdedaf01773e45"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6db722eaf9e26f050e30b6cb63c893713eef14d118a8cf10e0bdedaf01773e45",
+      "translation_sha256": "d00d8756d84fe50e972cb7b5f86de752f52e855cbee7e98b12110ac96a4baf32",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Lamentations 1:4",
+          "segment_mode": "whole",
+          "sha256": "3225a097ecd91c255e4c02e11d71be25f27c32a0b950cebcd016fca576b76225"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3225a097ecd91c255e4c02e11d71be25f27c32a0b950cebcd016fca576b76225",
+      "translation_sha256": "08e3879483602ddeac1cdd8502a482ab05939f5da20e542dada23f7ce0b44ff5",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Lamentations 1:5",
+          "segment_mode": "whole",
+          "sha256": "6afcdf49f8ad8123a3ede2858b6ce4da1b1c28ff47b7f32394a181f5f91fec5f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6afcdf49f8ad8123a3ede2858b6ce4da1b1c28ff47b7f32394a181f5f91fec5f",
+      "translation_sha256": "69720a4c2ee5635acfa9c48f94373359fe4dbe21b137f9e4adea8623fec5d157",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Lamentations 1:6",
+          "segment_mode": "whole",
+          "sha256": "d823ec70acd9b04a1e23129dcac95d5030b09e669de046e8eec5f4e47689beb7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d823ec70acd9b04a1e23129dcac95d5030b09e669de046e8eec5f4e47689beb7",
+      "translation_sha256": "1b8d4378b31a5370ecb63bca088e2dbfe969f500251122005f362c701bff5bef",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Lamentations 1:7",
+          "segment_mode": "whole",
+          "sha256": "acb19d4524de1cccd9f2e09a6ff716b2dc279aca983ec0c3952d3d70a8fddd7c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "acb19d4524de1cccd9f2e09a6ff716b2dc279aca983ec0c3952d3d70a8fddd7c",
+      "translation_sha256": "f4aa298bf04256b8c37331034acc4cc49cfe9177e5c0f79e42447426cbe47a5a",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Lamentations 1:8",
+          "segment_mode": "whole",
+          "sha256": "eff490aa1792aa02ca91530102dc8b0fcafa83dc9299d0126d163a15c671f872"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "eff490aa1792aa02ca91530102dc8b0fcafa83dc9299d0126d163a15c671f872",
+      "translation_sha256": "ed790a93f55f6d5dd9e7eb75a6133c80990a77f47293d3c71a4bac389bfeb832",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Lamentations 1:9",
+          "segment_mode": "whole",
+          "sha256": "b4b85b9858071c2bf9b800dfa6f37b8d3ce30439905cbe7a66209cf47ec628b3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b4b85b9858071c2bf9b800dfa6f37b8d3ce30439905cbe7a66209cf47ec628b3",
+      "translation_sha256": "9747d418926397e98e26ea993c7beaa7e563676fa1b3cf110532731846079ff6",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Lamentations 1:10",
+          "segment_mode": "whole",
+          "sha256": "f7fe3779675eeb33011e5ae4c337f5195a575381dc77e0a4f786b2fa98de5805"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f7fe3779675eeb33011e5ae4c337f5195a575381dc77e0a4f786b2fa98de5805",
+      "translation_sha256": "8b6f5aaabc6b49e86287b7f097bd7997ad057fec1933a6f80e1a0a9e4817779b",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Lamentations 1:11",
+          "segment_mode": "whole",
+          "sha256": "0ce7548ec90bae1ea677f681ea89febb335920fcc8487ed2832c34af309db452"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0ce7548ec90bae1ea677f681ea89febb335920fcc8487ed2832c34af309db452",
+      "translation_sha256": "f5f1af93aa23219f2b4aad2781288af6c5cd0ec8e019179fb76472d0bf7860cc",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Lamentations 1:12",
+          "segment_mode": "whole",
+          "sha256": "f944296f32a2f46ef417cc9e67f1cae4a5e1a7c35743ce8891b07cb1184faa3c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f944296f32a2f46ef417cc9e67f1cae4a5e1a7c35743ce8891b07cb1184faa3c",
+      "translation_sha256": "303c7d748b533dc21e5f05c543160e9b61090a3ff33a56c5ac4be16f2c63e42e",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Lamentations 1:13",
+          "segment_mode": "whole",
+          "sha256": "3d2566b828e19cf90c1e009a16ede1382131ddbc89f351f8f9f5c919688082ec"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3d2566b828e19cf90c1e009a16ede1382131ddbc89f351f8f9f5c919688082ec",
+      "translation_sha256": "767ec709ee4c23771943e51b99e288f6f83fff6335ad11a0ade4e75015736435",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Lamentations 1:14",
+          "segment_mode": "whole",
+          "sha256": "50fa2b7440338a9bd00431d59b0dd4875a7208ef069f03b1543061521ca3d4f1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "50fa2b7440338a9bd00431d59b0dd4875a7208ef069f03b1543061521ca3d4f1",
+      "translation_sha256": "38fa5e82f5e69de20704c862028b1bf5d32049d9eeb05435d893fde32b3393f9",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Lamentations 1:15",
+          "segment_mode": "whole",
+          "sha256": "b87f74bd373461a09ba36e73670d2f87976638d77cf6d40ec55175f75fc5f7d3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b87f74bd373461a09ba36e73670d2f87976638d77cf6d40ec55175f75fc5f7d3",
+      "translation_sha256": "e0c74c5d92bf9ebc4fd7d7554b224871d62fe6c9f57a3680064cb0051f5b6efd",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "Lamentations 1:16",
+          "segment_mode": "whole",
+          "sha256": "1252206c5918a7590435621c1a2ad4534010f0d38b6533566c9606a5d83daefe"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1252206c5918a7590435621c1a2ad4534010f0d38b6533566c9606a5d83daefe",
+      "translation_sha256": "240f0c409a77a0a98be6c27b876674490e4294da635e9e51e5e0eca792cdbcf9",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "Lamentations 1:17",
+          "segment_mode": "whole",
+          "sha256": "43e95fcf0208d0f7cdb22ba6995563ac3726150ce025eba46e586a3d0b6f7e3f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "43e95fcf0208d0f7cdb22ba6995563ac3726150ce025eba46e586a3d0b6f7e3f",
+      "translation_sha256": "37a60d2e1e77826c2ecd6d7e4efbe916d4d38fcffba7528868817ebd48731b43",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:18",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 18,
+          "source_ref": "Lamentations 1:18",
+          "segment_mode": "whole",
+          "sha256": "25e50050c0e8f7dd3543e7a4384e2e7b0084747109fe319c7a6c7e7f197fae47"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "25e50050c0e8f7dd3543e7a4384e2e7b0084747109fe319c7a6c7e7f197fae47",
+      "translation_sha256": "b9386fd7a14118faa0da1d5b8183c5143922646071514a2a0fd26811ccabaa43",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:19",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 19,
+          "source_ref": "Lamentations 1:19",
+          "segment_mode": "whole",
+          "sha256": "0acfc9842c55c5de50e84f08fd553da15aac4875c05bb3636a09535a4fb3b2fb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0acfc9842c55c5de50e84f08fd553da15aac4875c05bb3636a09535a4fb3b2fb",
+      "translation_sha256": "bf32c709181e4fbb4a591fa2b43dc8fdfd1c0308f75b7c289c0f6a1f8484df1b",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:20",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 20,
+          "source_ref": "Lamentations 1:20",
+          "segment_mode": "whole",
+          "sha256": "55861d51f5753578735d19b87c692eb15ad005fbcc2930875fe4ea3e62086167"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "55861d51f5753578735d19b87c692eb15ad005fbcc2930875fe4ea3e62086167",
+      "translation_sha256": "74fb2b29e23d2713d7c0796438cbfc12f425f045279325471bb62be064122ed3",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:21",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 21,
+          "source_ref": "Lamentations 1:21",
+          "segment_mode": "whole",
+          "sha256": "9beb36e7f08ac0a67120ad034ad88d731f45092f51196964506d737ca7084950"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9beb36e7f08ac0a67120ad034ad88d731f45092f51196964506d737ca7084950",
+      "translation_sha256": "16e4492df9bdb3c4c7b9a626a8b0c261eecc485ae8d751e5f05342c127f719ec",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 1:22",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 22,
+          "source_ref": "Lamentations 1:22",
+          "segment_mode": "whole",
+          "sha256": "dd2bb5fba1228c526878a6ff47f724244020d174ef9293f23724289ca7234a1b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dd2bb5fba1228c526878a6ff47f724244020d174ef9293f23724289ca7234a1b",
+      "translation_sha256": "66947363c0c7d6b285050b5fd3117ba2f6d133ca7af54a7129cbbed578b3ede2",
+      "tsw_blob_sha": "a94ade2e81ab283b11afc9464289e31fb4edfde1",
+      "curated_decisions": [
+        "Retain the city's personified voice, public devastation, isolation, and protest without blaming survivors for violence done to them."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Lamentations 2:1",
+          "segment_mode": "whole",
+          "sha256": "a2ae06d2d7b8c72c8077284df0addc3ed1310da9ef6d388edab0556cddea8c7c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a2ae06d2d7b8c72c8077284df0addc3ed1310da9ef6d388edab0556cddea8c7c",
+      "translation_sha256": "13467f3e6b4d0b15a10c263e01d0fc23651c327bc4194104fca66af8d65a8fe4",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Lamentations 2:2",
+          "segment_mode": "whole",
+          "sha256": "f02ee14b06e5735f1f5f256eca59c4cce23dee7420bd594b6971274d6077cf61"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f02ee14b06e5735f1f5f256eca59c4cce23dee7420bd594b6971274d6077cf61",
+      "translation_sha256": "c4f86a68a15c32be170d31846c30c76f24f127fa3c795bbc551d42a2dd34769d",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Lamentations 2:3",
+          "segment_mode": "whole",
+          "sha256": "c82c615d2d399a0367457e1aac57dcc65d647d76affdc7601cc4931d5e56f7ad"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c82c615d2d399a0367457e1aac57dcc65d647d76affdc7601cc4931d5e56f7ad",
+      "translation_sha256": "b1ae666263202c913e0231bea2af997c8baec210c07d3c5c716a085f8ab6aee0",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Lamentations 2:4",
+          "segment_mode": "whole",
+          "sha256": "b240f2497cd57af3266cfbcb00724f2439bff8027c07c3f50d6f49e463f61d0c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b240f2497cd57af3266cfbcb00724f2439bff8027c07c3f50d6f49e463f61d0c",
+      "translation_sha256": "0c5bc3f7bcd084f5b2682ff88fb20a080b5685bb9c7090f43200a2cba9e1c1ee",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Lamentations 2:5",
+          "segment_mode": "whole",
+          "sha256": "f0940e9f213e100ade8b2bb951fe37cd9a2bd23455e80e9aac207b32d5825dec"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f0940e9f213e100ade8b2bb951fe37cd9a2bd23455e80e9aac207b32d5825dec",
+      "translation_sha256": "66bf63c71463a3da43c55d52ef00721c2ca7454775a8e5a1cc0a6eba8a1a9e1f",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Lamentations 2:6",
+          "segment_mode": "whole",
+          "sha256": "9689c1f2223fd7f1aec8ec148b9b879fe416c3a036f8393826183fbd986bccbe"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9689c1f2223fd7f1aec8ec148b9b879fe416c3a036f8393826183fbd986bccbe",
+      "translation_sha256": "6384c9cc2e3150a1dd630d51562058895dd354b1c1f00ae1f358ca4422a1679b",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Lamentations 2:7",
+          "segment_mode": "whole",
+          "sha256": "742d277cbd37837ab93a38e8a9673555d6e74ec1a5c27b8b30baec89512e53d6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "742d277cbd37837ab93a38e8a9673555d6e74ec1a5c27b8b30baec89512e53d6",
+      "translation_sha256": "f29c999f5a8e56d3560ef3441c88d8c92ddaba26d8ace44042e91c56e36efb80",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Lamentations 2:8",
+          "segment_mode": "whole",
+          "sha256": "8523c17eabe62ce121efa5a6bb3eac30ef9c50a9aa2c6f0a69b757ea478aa01a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8523c17eabe62ce121efa5a6bb3eac30ef9c50a9aa2c6f0a69b757ea478aa01a",
+      "translation_sha256": "a17d4c7cebef6b4308dfd1bf369de777827f99c35fe68853edc93c55e7b7124b",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Lamentations 2:9",
+          "segment_mode": "whole",
+          "sha256": "982c0eb04101da2ff825dc861633a9eeecda48acfadb5936b40a1cc7473b5755"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "982c0eb04101da2ff825dc861633a9eeecda48acfadb5936b40a1cc7473b5755",
+      "translation_sha256": "eb67149c77f734d38aec0e5c8b22551e5e19f57ab1859a3a10285351681d5ede",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Lamentations 2:10",
+          "segment_mode": "whole",
+          "sha256": "65627d6e14c0ae5f9bddba0ba80babef6fdd68b3d8a22f8fea78f6e42b041e78"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "65627d6e14c0ae5f9bddba0ba80babef6fdd68b3d8a22f8fea78f6e42b041e78",
+      "translation_sha256": "d2b82a88e85c6789d82da26b0c65ad0241d20d38c0270d65b5003ef8a7f28696",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Lamentations 2:11",
+          "segment_mode": "whole",
+          "sha256": "48ad00999d9f47098479839e5e514ae06fdb15556bec9230a8dd7e39c7b6ad09"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "48ad00999d9f47098479839e5e514ae06fdb15556bec9230a8dd7e39c7b6ad09",
+      "translation_sha256": "9828ac10375aff5c2c02c36ceedc35a83ba551a69eebd45a00677e83c941b4d7",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Lamentations 2:12",
+          "segment_mode": "whole",
+          "sha256": "354069d6071b59ca64f5488af7e18171e9a2e48b2dfeccfc58fa47224073dded"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "354069d6071b59ca64f5488af7e18171e9a2e48b2dfeccfc58fa47224073dded",
+      "translation_sha256": "fcd7231b3b96b54799188a7a39f8c94e7d4a3dd09bb6b6602f0982b887e1ad0d",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Lamentations 2:13",
+          "segment_mode": "whole",
+          "sha256": "b5fbec4ee18a2db4e838685d128042f29eb65d8be26c40bad0f6e58a30249d93"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b5fbec4ee18a2db4e838685d128042f29eb65d8be26c40bad0f6e58a30249d93",
+      "translation_sha256": "86ffea7da4c710c8bcea4f6fd04040dee2732308fca5aee6a356b9cecf73f097",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Lamentations 2:14",
+          "segment_mode": "whole",
+          "sha256": "b168dc770426b79de5645cc9af0d5664bc1c76741ee91262848ff71aa63a7e26"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b168dc770426b79de5645cc9af0d5664bc1c76741ee91262848ff71aa63a7e26",
+      "translation_sha256": "59d22c3ad5a5246ab9f85d3c90fb3676a632e6fa4b1c0181b00f31608ff84456",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Lamentations 2:15",
+          "segment_mode": "whole",
+          "sha256": "7dd5bad872b3a077e69e53008f93e4a147b03451083320e44155f67b9f20ed20"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7dd5bad872b3a077e69e53008f93e4a147b03451083320e44155f67b9f20ed20",
+      "translation_sha256": "dc5962c8608bbaea5732597543157da7eaef4946c566e2f1abd43d2d5e7406c9",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:16",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "Lamentations 2:16",
+          "segment_mode": "whole",
+          "sha256": "6f72e385743dc3b9dd7e5c795adce20fe72384783567c50402f2b8e8f427c9d5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6f72e385743dc3b9dd7e5c795adce20fe72384783567c50402f2b8e8f427c9d5",
+      "translation_sha256": "8e77403c26b5d205c996cdd70f9f275bb4934ec5cab828a2d9c00220be815b47",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:17",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "Lamentations 2:17",
+          "segment_mode": "whole",
+          "sha256": "aa29e7a43a84e4a97fe654f87978fc62dd471b836668e6e21b915fddd5d1d831"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aa29e7a43a84e4a97fe654f87978fc62dd471b836668e6e21b915fddd5d1d831",
+      "translation_sha256": "eaec38aad48ceb926e4db63596bcc932d855982bcf09ba8dbbf9873b2d253177",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:18",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 18,
+          "source_ref": "Lamentations 2:18",
+          "segment_mode": "whole",
+          "sha256": "950b2357e2f0996375452f1e884924b5e54f2d64406bcc46626172032f39b2e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "950b2357e2f0996375452f1e884924b5e54f2d64406bcc46626172032f39b2e3",
+      "translation_sha256": "e1758019778f732740c69794f76e4bfddba6878b984f7d46916e4083d3fdd480",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:19",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 19,
+          "source_ref": "Lamentations 2:19",
+          "segment_mode": "whole",
+          "sha256": "e003895a9ad14173791197df42d9f8fc0c087f9e741aa041779a79a071ddf424"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e003895a9ad14173791197df42d9f8fc0c087f9e741aa041779a79a071ddf424",
+      "translation_sha256": "2484acb13a07a25174292e9101d3c36d04cb5b5a5fa2362754da29ac670eb965",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:20",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 20,
+          "source_ref": "Lamentations 2:20",
+          "segment_mode": "whole",
+          "sha256": "ebccb75c42a7aa7f02d66d8337e708549c336cb016422753c9a6354e77975544"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ebccb75c42a7aa7f02d66d8337e708549c336cb016422753c9a6354e77975544",
+      "translation_sha256": "a74f0336f503fc91814dc5d7131a5c2924b2dba1b9e5365070771e95546222fc",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:21",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 21,
+          "source_ref": "Lamentations 2:21",
+          "segment_mode": "whole",
+          "sha256": "b9b39b31ec930879443c9a16771972fb071fb443b50792cb6f994f98cd5f4f21"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b9b39b31ec930879443c9a16771972fb071fb443b50792cb6f994f98cd5f4f21",
+      "translation_sha256": "0c9d0320659c5631b3815b744ceb2542da8160612bbb69b3e36081946938e80f",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 2:22",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 22,
+          "source_ref": "Lamentations 2:22",
+          "segment_mode": "whole",
+          "sha256": "6b8d34219fd10d9661ac14327a87e6a91343f375a6c257a577065c84843fd5bd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6b8d34219fd10d9661ac14327a87e6a91343f375a6c257a577065c84843fd5bd",
+      "translation_sha256": "9604e8bef9eccb666be9e58b7c1c7716d5810c8b4f634bf1d9302d17a47a70e6",
+      "tsw_blob_sha": "3fbadf6640c63be615ed27ae49c9ebfe01befb19",
+      "curated_decisions": [
+        "Keep divine agency, siege trauma, failed leadership, and lament together without sanitizing the poem."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Lamentations 3:1",
+          "segment_mode": "whole",
+          "sha256": "18d40001bde106a7555b8aaa6b1cd2ddf65c210cffeca363abb9ac8b9bc96471"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "18d40001bde106a7555b8aaa6b1cd2ddf65c210cffeca363abb9ac8b9bc96471",
+      "translation_sha256": "290f37beb0f23e6ecbde4e495bbc9b1204171ef9678df2562d633368ec3cd736",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Lamentations 3:2",
+          "segment_mode": "whole",
+          "sha256": "923c8a1de0f44be985fbd05db117b9b1cc24b3ccbe729d32e63320e9214c0925"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "923c8a1de0f44be985fbd05db117b9b1cc24b3ccbe729d32e63320e9214c0925",
+      "translation_sha256": "deed793ea13dad273afb75d510086555f046e2cbfa62fe02e3041c8640bc4fe3",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Lamentations 3:3",
+          "segment_mode": "whole",
+          "sha256": "a80bfb27c3fc17a80a9511eaef398597636f0064e8d5b2269ce806c599db66b3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a80bfb27c3fc17a80a9511eaef398597636f0064e8d5b2269ce806c599db66b3",
+      "translation_sha256": "c90f5b658926271061427baeb45e99851e336e36c56e278fd55c031ae9bac52b",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Lamentations 3:4",
+          "segment_mode": "whole",
+          "sha256": "a6aef7baff133860a8b27f5ffb453cdf71655cab2e5e7b5d05b20ec4df4d0f65"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a6aef7baff133860a8b27f5ffb453cdf71655cab2e5e7b5d05b20ec4df4d0f65",
+      "translation_sha256": "3089e43bdd97ab8d0903b4942cb783697387b4035262cd734dca05ab2c880c67",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Lamentations 3:5",
+          "segment_mode": "whole",
+          "sha256": "45f57b3470cc34feb896445d97cc3d45d59e9a266a6822a3fea87531f58a4cc4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "45f57b3470cc34feb896445d97cc3d45d59e9a266a6822a3fea87531f58a4cc4",
+      "translation_sha256": "32d3bfb67d5b4452c33a3ec0d5c1aa47eb5efefd2e46b29f986e172411152a50",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "Lamentations 3:6",
+          "segment_mode": "whole",
+          "sha256": "d140fce9e7a65866d3dc3ccf6451bc862ec84ae8b0fcff1518985e9fb7dfc266"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d140fce9e7a65866d3dc3ccf6451bc862ec84ae8b0fcff1518985e9fb7dfc266",
+      "translation_sha256": "67c8b3412d25d4871daa9c5aaf58d96a585caebc2b5797144def6e8c51e8f42c",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "Lamentations 3:7",
+          "segment_mode": "whole",
+          "sha256": "6f0dc92b53b405b62ed0b35670274506d1062c9ecfb9d42fe7a7532e12e4cb2a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6f0dc92b53b405b62ed0b35670274506d1062c9ecfb9d42fe7a7532e12e4cb2a",
+      "translation_sha256": "d3fa49b34db0113e2571b103f09315c22beab1acfdc5664d617e7345676ccb30",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "Lamentations 3:8",
+          "segment_mode": "whole",
+          "sha256": "2e83a5282bbb2a61b0e0f6ac464c786912b6510032e49212ce5de1ed60d3aa6a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2e83a5282bbb2a61b0e0f6ac464c786912b6510032e49212ce5de1ed60d3aa6a",
+      "translation_sha256": "8d88078c90c39e7cebdf925b740ad9e5f367dbc29425a18616a6297e71acac4b",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "Lamentations 3:9",
+          "segment_mode": "whole",
+          "sha256": "dc46735852bf973d35a4e0f1928ff15b272089fd8ef3df544818ff218f4fc6f1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dc46735852bf973d35a4e0f1928ff15b272089fd8ef3df544818ff218f4fc6f1",
+      "translation_sha256": "3f5cbd5240eb17b20ffdcc83d7ac2dc8b29e5d47bd1c090a760448878a5fb2ea",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "Lamentations 3:10",
+          "segment_mode": "whole",
+          "sha256": "96ffb684c9c5c825431f78e30049e592a8da338f81b208a3d6c9822c6820dcf7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "96ffb684c9c5c825431f78e30049e592a8da338f81b208a3d6c9822c6820dcf7",
+      "translation_sha256": "7ca7f5c7aaaf3f423c2e6cc49956025b889096379a1e728bdcbf5b7bcfe6a896",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "Lamentations 3:11",
+          "segment_mode": "whole",
+          "sha256": "ea2e4b0985359bd426a634236390e605a3ee701504f8a31b51d918321bced0fc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ea2e4b0985359bd426a634236390e605a3ee701504f8a31b51d918321bced0fc",
+      "translation_sha256": "ab316f04b0ba21bfa9cac484876550ebcf8a1ed579f562c6c183b35b3340738d",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:12",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 12,
+          "source_ref": "Lamentations 3:12",
+          "segment_mode": "whole",
+          "sha256": "d98aa47aaa532238596ca3fd8d2bea6fec7837e0f5a3de92e624716c24d2e146"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d98aa47aaa532238596ca3fd8d2bea6fec7837e0f5a3de92e624716c24d2e146",
+      "translation_sha256": "6b94c22884c95c0ee8349d4b06376691a5df772f075df244ffdd23502c9549e5",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:13",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 13,
+          "source_ref": "Lamentations 3:13",
+          "segment_mode": "whole",
+          "sha256": "4fd0a49740b82f737bde43376e66a788c8e11ee4743ab69d7be3719d302d6a87"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4fd0a49740b82f737bde43376e66a788c8e11ee4743ab69d7be3719d302d6a87",
+      "translation_sha256": "6129da1fcedb6e19e86ff585504c12a1a06b2404a3f1aaeaf330d25485ccac6f",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:14",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 14,
+          "source_ref": "Lamentations 3:14",
+          "segment_mode": "whole",
+          "sha256": "7b9237a1c769d9027b0ee7a221a3c111abfbf9c353f6af7a8b12d8238615a328"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7b9237a1c769d9027b0ee7a221a3c111abfbf9c353f6af7a8b12d8238615a328",
+      "translation_sha256": "4460caa672c786a64d18281790695aa3e17e68c937b6f1705015d6ca9dde9b4b",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:15",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 15,
+          "source_ref": "Lamentations 3:15",
+          "segment_mode": "whole",
+          "sha256": "8ab0f6fb7d6b49bbc2a4ee9f6c87383dcfa85c215f067eff2c987803b9156991"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8ab0f6fb7d6b49bbc2a4ee9f6c87383dcfa85c215f067eff2c987803b9156991",
+      "translation_sha256": "518a7b8a47ab73c8ef626c7c9db70826d853edacac723511ceec5b393524b9b6",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:16",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 16,
+          "source_ref": "Lamentations 3:16",
+          "segment_mode": "whole",
+          "sha256": "427c064ef95cd18cdc1e27b710a85d6656fa5638b82b901f52e82c4c110d14b2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "427c064ef95cd18cdc1e27b710a85d6656fa5638b82b901f52e82c4c110d14b2",
+      "translation_sha256": "91d603ee071232e6e190dc950f5d727e1f5ebf5d43cb41629f5eb9f3fd414db0",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:17",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 17,
+          "source_ref": "Lamentations 3:17",
+          "segment_mode": "whole",
+          "sha256": "ffbc8cefef7fdeff17e25dcaea04211029229572cebffcec708e2ff64d7f45a4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ffbc8cefef7fdeff17e25dcaea04211029229572cebffcec708e2ff64d7f45a4",
+      "translation_sha256": "2fcd7db1d4a8b5d142070d65f1fe894d5d5c8b2851e85214847f4b3d43a28fb5",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:18",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 18,
+          "source_ref": "Lamentations 3:18",
+          "segment_mode": "whole",
+          "sha256": "0e350f885153c4e87a0c978deedabd19758c8655b0d5de811787ef2064d1fe71"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0e350f885153c4e87a0c978deedabd19758c8655b0d5de811787ef2064d1fe71",
+      "translation_sha256": "169092333f57b57976478da3c755efd1944bf7de099ce0c7d4f9e09dd7d5d7ba",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:19",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 19,
+          "source_ref": "Lamentations 3:19",
+          "segment_mode": "whole",
+          "sha256": "b588f7675881ea9f08fd7ab4c139ebb7bff875f10996c5e6d32eb7a3980f10f1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b588f7675881ea9f08fd7ab4c139ebb7bff875f10996c5e6d32eb7a3980f10f1",
+      "translation_sha256": "eb3921417ae642c69409bb61e48719ff00920b3e00ab04812d3303703972a804",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:20",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 20,
+          "source_ref": "Lamentations 3:20",
+          "segment_mode": "whole",
+          "sha256": "fa191051adcaf951600d6f52f1befcd7789adf77f8446aa2c50f808668f49663"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fa191051adcaf951600d6f52f1befcd7789adf77f8446aa2c50f808668f49663",
+      "translation_sha256": "edbbbb8c11d775fd8f3dbc0738cdc4a4e3c939e40bbbf426a93a65e68024fc9e",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:21",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 21,
+          "source_ref": "Lamentations 3:21",
+          "segment_mode": "whole",
+          "sha256": "5af5d78418ece54023317a71132f48dc382bca420aceaa94243c4361c3eb8028"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5af5d78418ece54023317a71132f48dc382bca420aceaa94243c4361c3eb8028",
+      "translation_sha256": "1b2576b19578bd4a342158ab1bbed5540bf689766555f56b28448be20c68394e",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:22",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 22,
+          "source_ref": "Lamentations 3:22",
+          "segment_mode": "whole",
+          "sha256": "a84dfe78207a37e6e92e1cddc7ace860f39eef1d40303b32c2da4d5c85e3ce63"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a84dfe78207a37e6e92e1cddc7ace860f39eef1d40303b32c2da4d5c85e3ce63",
+      "translation_sha256": "ca2c2fe494eb4ccd6b4afec2da08a22c88a4443e055b081b842c160ec090bb16",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:23",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 23,
+          "source_ref": "Lamentations 3:23",
+          "segment_mode": "whole",
+          "sha256": "bb34ed648ed0304348431589bf81b6e41f3862e493612b06c82bbb53601299fa"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bb34ed648ed0304348431589bf81b6e41f3862e493612b06c82bbb53601299fa",
+      "translation_sha256": "7af5842029517fed3293b60af26cd45181913233c577715ab45a8628754efe81",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 24,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:24",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 24,
+          "source_ref": "Lamentations 3:24",
+          "segment_mode": "whole",
+          "sha256": "65678f64c65f4822ce38d528794fafff9974f39f761a46dfcc4c4028f55040e4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "65678f64c65f4822ce38d528794fafff9974f39f761a46dfcc4c4028f55040e4",
+      "translation_sha256": "9bb6926fdee1b26b13ed019a00ef147fe4a3170f404da67a806e0691a0d382be",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 25,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:25",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 25,
+          "source_ref": "Lamentations 3:25",
+          "segment_mode": "whole",
+          "sha256": "30c5b2e6b2d304aea1deef7e745189c7d60194b7593fdf5a71c5b4f7c25ee40e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "30c5b2e6b2d304aea1deef7e745189c7d60194b7593fdf5a71c5b4f7c25ee40e",
+      "translation_sha256": "4f5a99f304e15c2f4fb32de4800fcdf3cb09e5da41d7aa5ba71f023231f36dcd",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 26,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:26",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 26,
+          "source_ref": "Lamentations 3:26",
+          "segment_mode": "whole",
+          "sha256": "79c516c552507bf8fa032cb07cf2aff989ed9261985a247a89ea8e854bec9250"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "79c516c552507bf8fa032cb07cf2aff989ed9261985a247a89ea8e854bec9250",
+      "translation_sha256": "7dbc9b61ad347996dfac9a733e2632cfdac539b2542d1deb5722ce5da900a85e",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 27,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:27",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 27,
+          "source_ref": "Lamentations 3:27",
+          "segment_mode": "whole",
+          "sha256": "0048b5179c86725250216786a10775ea94a79cf529b65aeb28c8ffcf717c5787"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0048b5179c86725250216786a10775ea94a79cf529b65aeb28c8ffcf717c5787",
+      "translation_sha256": "6ec1df5bc1fecafdef823963f72dd0b402ffb1f076d6f0eee6b2496c8024a2f4",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 28,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:28",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 28,
+          "source_ref": "Lamentations 3:28",
+          "segment_mode": "whole",
+          "sha256": "a458a12550017820710735d28bc5186fc84f5bafd86a11cd253bf0823989e296"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a458a12550017820710735d28bc5186fc84f5bafd86a11cd253bf0823989e296",
+      "translation_sha256": "961809874e4036463f931daeebcdddd782131e52eb6683a9b4eee7775c489be6",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 29,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:29",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 29,
+          "source_ref": "Lamentations 3:29",
+          "segment_mode": "whole",
+          "sha256": "87dacd4adc1fcae226da45f529adc7e2e05e03b8f4231dc4cb25c53c788445b9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "87dacd4adc1fcae226da45f529adc7e2e05e03b8f4231dc4cb25c53c788445b9",
+      "translation_sha256": "726d6819d37609e34a77b664c97374877a69064d1e940d36929d5a8c84fd103e",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 30,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:30",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 30,
+          "source_ref": "Lamentations 3:30",
+          "segment_mode": "whole",
+          "sha256": "c71d4f8e7db7fb0779b570e8c3e57c06c03fbe39f8c803e3cf8cbfbaa318d998"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c71d4f8e7db7fb0779b570e8c3e57c06c03fbe39f8c803e3cf8cbfbaa318d998",
+      "translation_sha256": "e5653af7c206fa30cfa25c39a25e6006f3f9fbe787daa33d00cdac65d803b867",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 31,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:31",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 31,
+          "source_ref": "Lamentations 3:31",
+          "segment_mode": "whole",
+          "sha256": "64b473c38ccefbbc2980c2b86e30cced5b256dc4e2d58c3591dea1c2a8dcb3bb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "64b473c38ccefbbc2980c2b86e30cced5b256dc4e2d58c3591dea1c2a8dcb3bb",
+      "translation_sha256": "2d198e7e74b7e9b9b414bfa2f980de6254facfe27ca13ff243dd468a80f55a0a",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 32,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:32",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 32,
+          "source_ref": "Lamentations 3:32",
+          "segment_mode": "whole",
+          "sha256": "60dff4f0e0e2183fd430301fcc9ddce4f6625cea4b9a731497de2694c95709dd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "60dff4f0e0e2183fd430301fcc9ddce4f6625cea4b9a731497de2694c95709dd",
+      "translation_sha256": "9835dff407c39880a131b362f9e775eab166d6341bc75c9e93b07cc7ecfeb394",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 33,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:33",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 33,
+          "source_ref": "Lamentations 3:33",
+          "segment_mode": "whole",
+          "sha256": "8b4ca6fbf60730b54e4c17e59d7aee756a650663906bc3f6f35b0fce0d1caa66"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8b4ca6fbf60730b54e4c17e59d7aee756a650663906bc3f6f35b0fce0d1caa66",
+      "translation_sha256": "c66843b8cbdd58759efce31f8d35651c7d567f40db82ce8daf3ba35daf69ec76",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 34,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:34",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 34,
+          "source_ref": "Lamentations 3:34",
+          "segment_mode": "whole",
+          "sha256": "1e093a607c236b9626d7d93a10698d4b7eb1ad40211d6bdc8ff38ef406ed4bd4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1e093a607c236b9626d7d93a10698d4b7eb1ad40211d6bdc8ff38ef406ed4bd4",
+      "translation_sha256": "9ad2d58b9fedd7bfbd2681c8541b92e122818c99f144238d7cac24707b853a91",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 35,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:35",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 35,
+          "source_ref": "Lamentations 3:35",
+          "segment_mode": "whole",
+          "sha256": "f1d9cdf727467e9b6d89e28d7b94407865fb5edaf46476029f4ce255758248d6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f1d9cdf727467e9b6d89e28d7b94407865fb5edaf46476029f4ce255758248d6",
+      "translation_sha256": "bcf6282b593dc65947793b8523d7074dc2dd7ef2a846bd183f0d35fb08ee5f92",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 36,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:36",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 36,
+          "source_ref": "Lamentations 3:36",
+          "segment_mode": "whole",
+          "sha256": "f92768cdcafb70fbf01410c658b41f5bb1380e755c93d130e8c608a4cc016cd5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f92768cdcafb70fbf01410c658b41f5bb1380e755c93d130e8c608a4cc016cd5",
+      "translation_sha256": "fd2ae382ff3281655a033d7e305f4c55c2fb7cab19994e8ff72132c8e2735e03",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 37,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:37",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 37,
+          "source_ref": "Lamentations 3:37",
+          "segment_mode": "whole",
+          "sha256": "d681cd5f7b476f3b20954cbb5597a3082e7481a7bf242805e608a248bcd970b5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d681cd5f7b476f3b20954cbb5597a3082e7481a7bf242805e608a248bcd970b5",
+      "translation_sha256": "b07ae3591ff49a3444f766587f9fe031886f1f6453ad65103ed241814d8ac1fc",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 38,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:38",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 38,
+          "source_ref": "Lamentations 3:38",
+          "segment_mode": "whole",
+          "sha256": "7713c1d8ab29d46981c276ba0778b09c624a4c70fa7134a22f000e3f874b3ad8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7713c1d8ab29d46981c276ba0778b09c624a4c70fa7134a22f000e3f874b3ad8",
+      "translation_sha256": "fa656ad406d21e83301b7b1d41f1397f57554165131b39d2cf1b7ffd8fd0b8d0",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 39,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:39",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 39,
+          "source_ref": "Lamentations 3:39",
+          "segment_mode": "whole",
+          "sha256": "2cfa2c3911ad2f26992d6ff533cae1cae81fae656890633de9ac65e428739f7d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2cfa2c3911ad2f26992d6ff533cae1cae81fae656890633de9ac65e428739f7d",
+      "translation_sha256": "d5588510535606931d2979d72eacecc412d57badb2ab659949570bcd17c86444",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Preserve the movement from individual affliction to remembered hope without making hope erase trauma."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 40,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:40",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 40,
+          "source_ref": "Lamentations 3:40",
+          "segment_mode": "whole",
+          "sha256": "5df9b0490569e4ad284988dfd350ef42d5ff894cebf62c9e5581315aca548533"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5df9b0490569e4ad284988dfd350ef42d5ff894cebf62c9e5581315aca548533",
+      "translation_sha256": "f98cb03d0b5c116ef85591358caaab2ae30b78a8b1f9b3d0d186e44b50b2a4f9",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 41,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:41",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 41,
+          "source_ref": "Lamentations 3:41",
+          "segment_mode": "whole",
+          "sha256": "c82381cce0617842f92cd874ed27a9b1dac145dc803519a10dbf39fd4157f723"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c82381cce0617842f92cd874ed27a9b1dac145dc803519a10dbf39fd4157f723",
+      "translation_sha256": "e2fefdebfca563bc5a66736a59e8719f21b21e553a05ad56d9da5fc2244d39b3",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 42,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:42",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 42,
+          "source_ref": "Lamentations 3:42",
+          "segment_mode": "whole",
+          "sha256": "f4d0d72e7050984b3d8ae6faafd898f19e44a1c01e6836547b05cdfe1a70dd53"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f4d0d72e7050984b3d8ae6faafd898f19e44a1c01e6836547b05cdfe1a70dd53",
+      "translation_sha256": "2a3a83e88dcbe50cef77aaa872390b1c81581f8ba4d4f0216d053262978b4eb5",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 43,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:43",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 43,
+          "source_ref": "Lamentations 3:43",
+          "segment_mode": "whole",
+          "sha256": "3e0d841196747616a132a6ae50407bd962e1c59e35eda790b10a99045b749003"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3e0d841196747616a132a6ae50407bd962e1c59e35eda790b10a99045b749003",
+      "translation_sha256": "ffc18893b97a10bd7d9c611dc9895d8cc870cccc0f6ef0192180f5879bc14bba",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 44,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:44",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 44,
+          "source_ref": "Lamentations 3:44",
+          "segment_mode": "whole",
+          "sha256": "94c499a6a089c6cfddf8ec7a7dafb78682bc451d27aa50025a98ed1b371b151e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "94c499a6a089c6cfddf8ec7a7dafb78682bc451d27aa50025a98ed1b371b151e",
+      "translation_sha256": "3f05b885856016371087ea89b6b07419cce304065a8ea180c80d84d80dde0907",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 45,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:45",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 45,
+          "source_ref": "Lamentations 3:45",
+          "segment_mode": "whole",
+          "sha256": "be95f29de493bc11198c24158277f128265025cb00ddecb3f683a64c28d99d12"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "be95f29de493bc11198c24158277f128265025cb00ddecb3f683a64c28d99d12",
+      "translation_sha256": "17ea8ae79be5396f201bd4cf83260586c7ac039b7ddcaa0d235a565c9027a15f",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 46,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:46",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 46,
+          "source_ref": "Lamentations 3:46",
+          "segment_mode": "whole",
+          "sha256": "edba46541e2fc321e071351a577d441e70d156d39fbeb44e81fcab0ddec973ca"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "edba46541e2fc321e071351a577d441e70d156d39fbeb44e81fcab0ddec973ca",
+      "translation_sha256": "0777848cae54659a323c1e28bcc3cafb315961196581ea9c281fa25b054ec7d2",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 47,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:47",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 47,
+          "source_ref": "Lamentations 3:47",
+          "segment_mode": "whole",
+          "sha256": "392f36a28be51b01c73e9b05b36ecea9ea2a6b049fdf6787b98c5064d96bf9b3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "392f36a28be51b01c73e9b05b36ecea9ea2a6b049fdf6787b98c5064d96bf9b3",
+      "translation_sha256": "cd0ad5858606de23820eb7964e8c8cb8b873415b13c1b63e32c6a2768e37b5e4",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 48,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:48",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 48,
+          "source_ref": "Lamentations 3:48",
+          "segment_mode": "whole",
+          "sha256": "1624d1e4b0aec14e3147ba9aeb1a477ac3b47fa783f7cb112a88fd4b87197fb1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1624d1e4b0aec14e3147ba9aeb1a477ac3b47fa783f7cb112a88fd4b87197fb1",
+      "translation_sha256": "00923c3bbe03eb71f7d6e31102502ee9f199764c26a4c225894422fced68cd0a",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 49,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:49",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 49,
+          "source_ref": "Lamentations 3:49",
+          "segment_mode": "whole",
+          "sha256": "1404a0f051ee3ad160603fc1f09515b8f5844f63ab9f7d84124b840e257c2f77"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1404a0f051ee3ad160603fc1f09515b8f5844f63ab9f7d84124b840e257c2f77",
+      "translation_sha256": "f7c253911b7fad077e1337e1029e627c577148510e7be6ff4b342e5139d5ef75",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 50,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:50",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 50,
+          "source_ref": "Lamentations 3:50",
+          "segment_mode": "whole",
+          "sha256": "f2f024ff12fcd0e2888578d11eb44863a81891860b167c3108b3e9dd8974ee2e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f2f024ff12fcd0e2888578d11eb44863a81891860b167c3108b3e9dd8974ee2e",
+      "translation_sha256": "bb4c5960af298d5307abc5cff4ad8a026c17eb5a19aa3d73b30b61b3f1228d79",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 51,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:51",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 51,
+          "source_ref": "Lamentations 3:51",
+          "segment_mode": "whole",
+          "sha256": "b198f92160578faadc76acc8bc1de4c03d1890e91cc8f0a732d55b896da41aae"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b198f92160578faadc76acc8bc1de4c03d1890e91cc8f0a732d55b896da41aae",
+      "translation_sha256": "41403a9fc062a4a1c748dcc2fe07a0ab2c3f847c8c0a757081c1e2ae8575327e",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 52,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:52",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 52,
+          "source_ref": "Lamentations 3:52",
+          "segment_mode": "whole",
+          "sha256": "2dc2a763962bfcfac089340e7398c7aa279604049eb026c69ca9329baf35ae77"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2dc2a763962bfcfac089340e7398c7aa279604049eb026c69ca9329baf35ae77",
+      "translation_sha256": "7f89d507a16eeb6f414e7189b0646c70a0d388a51e011b60d6c87cd6aa833485",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 53,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:53",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 53,
+          "source_ref": "Lamentations 3:53",
+          "segment_mode": "whole",
+          "sha256": "2ebccfbcded4799cdaa13882e135a0bfa1bc3fb1e44e4115ad5f301c9c6928a2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2ebccfbcded4799cdaa13882e135a0bfa1bc3fb1e44e4115ad5f301c9c6928a2",
+      "translation_sha256": "8f63392e002e854ad2081d462a10f47802a6cb7ef4d7e9fbb21093c1e127f61d",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 54,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:54",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 54,
+          "source_ref": "Lamentations 3:54",
+          "segment_mode": "whole",
+          "sha256": "59ee7629a80f54ed8aa0fa4ccb3908e4c94502db9bafd713ddb4972d0cb5cbcd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "59ee7629a80f54ed8aa0fa4ccb3908e4c94502db9bafd713ddb4972d0cb5cbcd",
+      "translation_sha256": "0ee28ab56c2da107768d44cbd51a09b8eda98ea15f92c8df803dce2e9e01d9d6",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 55,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:55",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 55,
+          "source_ref": "Lamentations 3:55",
+          "segment_mode": "whole",
+          "sha256": "f0e4507303f035b60737737607603d7db95d0f5570f2c5a4c1050b47f70aa41c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f0e4507303f035b60737737607603d7db95d0f5570f2c5a4c1050b47f70aa41c",
+      "translation_sha256": "4a2db44232e48f269132a089d51d2993f29138040483580c2694cb846229adbd",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 56,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:56",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 56,
+          "source_ref": "Lamentations 3:56",
+          "segment_mode": "whole",
+          "sha256": "ecb50e09e9e7c29132be1ee0832f25d08bcd640454c09261d783a13cda98172a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ecb50e09e9e7c29132be1ee0832f25d08bcd640454c09261d783a13cda98172a",
+      "translation_sha256": "27503cbf80f23d4135efe27aed6f5871d920b3ae7b46b590cec1969206fd8229",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 57,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:57",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 57,
+          "source_ref": "Lamentations 3:57",
+          "segment_mode": "whole",
+          "sha256": "96b7631c4893d4eca78cd51bf7c9809548efd0d31047c9ab878eb93232c7720a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "96b7631c4893d4eca78cd51bf7c9809548efd0d31047c9ab878eb93232c7720a",
+      "translation_sha256": "0969015494eb833614a697dec8d2fdcfbf163c7884fca0850aa01a034a821da8",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 58,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:58",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 58,
+          "source_ref": "Lamentations 3:58",
+          "segment_mode": "whole",
+          "sha256": "4f9e29d009c188075bcee4dee60b6439b71d7e4d0d97289f2c3ce2b6b25233f6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4f9e29d009c188075bcee4dee60b6439b71d7e4d0d97289f2c3ce2b6b25233f6",
+      "translation_sha256": "cd28424b1c8ba3bf5138e1074c75e7b5b16be1b291941ddb0076aa2c85d3dce2",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 59,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:59",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 59,
+          "source_ref": "Lamentations 3:59",
+          "segment_mode": "whole",
+          "sha256": "43ee5cdba76e1b638288b5b5f605a8f61b9be0633475aefc0d937ffc1f914467"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "43ee5cdba76e1b638288b5b5f605a8f61b9be0633475aefc0d937ffc1f914467",
+      "translation_sha256": "ca6d3abc95990a2971127fecea5e2644af0b4ae802c8a5a12b57b044b229e2b5",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 60,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:60",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 60,
+          "source_ref": "Lamentations 3:60",
+          "segment_mode": "whole",
+          "sha256": "e76dbfc569262ff51b6564559b003ff9aa17d4775670544f7662d3b053cd6b33"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e76dbfc569262ff51b6564559b003ff9aa17d4775670544f7662d3b053cd6b33",
+      "translation_sha256": "39763da442a59e6eb60554aa9f023672718b1eb4d4fa6b18cdbed0b3158693fe",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 61,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:61",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 61,
+          "source_ref": "Lamentations 3:61",
+          "segment_mode": "whole",
+          "sha256": "f19ef990c327d05a606a577dd70622c6bbf1ed1bb158f957e553b2e459437a12"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f19ef990c327d05a606a577dd70622c6bbf1ed1bb158f957e553b2e459437a12",
+      "translation_sha256": "ac277a8eb01284bdc8f0d415ca8e67bd834fc37458022bac02ba0d895700f6d6",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 62,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:62",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 62,
+          "source_ref": "Lamentations 3:62",
+          "segment_mode": "whole",
+          "sha256": "13143d6f64409f6c11742db00546162c93a82080c0a0815b397320d20c399e7f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "13143d6f64409f6c11742db00546162c93a82080c0a0815b397320d20c399e7f",
+      "translation_sha256": "eed6e02671a1e2b69c486a34bf217ccc5b01860ef2915ccd6bcb5a51996b9e76",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 63,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:63",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 63,
+          "source_ref": "Lamentations 3:63",
+          "segment_mode": "whole",
+          "sha256": "1ad7cf7c359d3e8894d79cf75f120d1ce1a10010b94409f281b260efb58c3569"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1ad7cf7c359d3e8894d79cf75f120d1ce1a10010b94409f281b260efb58c3569",
+      "translation_sha256": "0aef016ce80b1418b82953c99e77de5b23bb17c4f35a3085ce26b99409cfcf3a",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 64,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:64",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 64,
+          "source_ref": "Lamentations 3:64",
+          "segment_mode": "whole",
+          "sha256": "da9c4a26e30cdb57bd35424c530c3cd6ce974a312fddd689c93d18a940c81799"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "da9c4a26e30cdb57bd35424c530c3cd6ce974a312fddd689c93d18a940c81799",
+      "translation_sha256": "04facb4c7f1ac5e65688a5ae868d9b9fb3d2497bd69abdd2e858a20a68188b4e",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 65,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:65",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 65,
+          "source_ref": "Lamentations 3:65",
+          "segment_mode": "whole",
+          "sha256": "7444178cdf0dbe6d84ab311767912426010c2fc3182bab82e0cc45cad7e84459"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7444178cdf0dbe6d84ab311767912426010c2fc3182bab82e0cc45cad7e84459",
+      "translation_sha256": "65d1904c2732d6f47686f1e2bcca3d98fadb616b779dceb62d6a98d0533dd60f",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 66,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 3:66",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 66,
+          "source_ref": "Lamentations 3:66",
+          "segment_mode": "whole",
+          "sha256": "9d7224317608c5941a350e586744992822a798a47a89719132e53b367feec0ef"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9d7224317608c5941a350e586744992822a798a47a89719132e53b367feec0ef",
+      "translation_sha256": "33048fe1dad23f753909c1a2d5193b43b0aa43102f7f72013db80019f0282dd9",
+      "tsw_blob_sha": "d4c2c9284275df44338404e8e1fe533289f48331",
+      "curated_decisions": [
+        "Retain communal self-examination, petition, protest, and enemy language as lament rather than a license for revenge."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:1",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "source_ref": "Lamentations 4:1",
+          "segment_mode": "whole",
+          "sha256": "2afd489c885304432213d98748437b16293539624d13d92d13943567645d497b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2afd489c885304432213d98748437b16293539624d13d92d13943567645d497b",
+      "translation_sha256": "29bd1336f5d225cfd76917d071ccefe034cb0bbd814c2d4d5c9e55f29fa140d0",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:2",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 2,
+          "source_ref": "Lamentations 4:2",
+          "segment_mode": "whole",
+          "sha256": "86c7bfe56953455fa8e9dcd38c02049b3cd2e8843efa94327c49a506ddc97ee1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "86c7bfe56953455fa8e9dcd38c02049b3cd2e8843efa94327c49a506ddc97ee1",
+      "translation_sha256": "e9a383ea42069aa7a9c5c67dba9f148bd756eb463b96d2a0ef3088facc8cc685",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:3",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 3,
+          "source_ref": "Lamentations 4:3",
+          "segment_mode": "whole",
+          "sha256": "d01a07b5e7bb5253c14e56cc9648eeea733e33fc4e1693eee737b493e8990dbb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d01a07b5e7bb5253c14e56cc9648eeea733e33fc4e1693eee737b493e8990dbb",
+      "translation_sha256": "4ecad694f6c108f023751cba2e572e1788beb8a48a5e1096e4f3791239cdb877",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:4",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 4,
+          "source_ref": "Lamentations 4:4",
+          "segment_mode": "whole",
+          "sha256": "c7df2373d339aef3fd2267060def80e37933a4b59046808a7135ef5d32dea0f9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c7df2373d339aef3fd2267060def80e37933a4b59046808a7135ef5d32dea0f9",
+      "translation_sha256": "d8cea4d15cc3ee30ba87eee5b3412a38d4e447f86d1199bf4edd630c5a3f1322",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:5",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 5,
+          "source_ref": "Lamentations 4:5",
+          "segment_mode": "whole",
+          "sha256": "f9aadfcdc3a198512afaff455d7fe59e2e216201ee93759395e3d9fe7b34c307"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f9aadfcdc3a198512afaff455d7fe59e2e216201ee93759395e3d9fe7b34c307",
+      "translation_sha256": "50eef8ebdd547e67b60cb9104fa109bcfd9f54552d1f80bb1fd14afc3d88f7e5",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:6",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 6,
+          "source_ref": "Lamentations 4:6",
+          "segment_mode": "whole",
+          "sha256": "016299e6620aa071d270d4186bbaac290fad9d1d9a3b187f3cfb3530ab09b02f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "016299e6620aa071d270d4186bbaac290fad9d1d9a3b187f3cfb3530ab09b02f",
+      "translation_sha256": "88fff075fa2d0cd03e11913d2e1915c478f2e3c1270fb3a3ff2f436b421c18ee",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:7",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 7,
+          "source_ref": "Lamentations 4:7",
+          "segment_mode": "whole",
+          "sha256": "327c8f8dfec9094dd98086f5ea82d3bca05406cd1da718b770e8a16edf3b372e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "327c8f8dfec9094dd98086f5ea82d3bca05406cd1da718b770e8a16edf3b372e",
+      "translation_sha256": "6b0f7b3b6d682114bbd51ef127ee7c83cca9b41bdebf53bdc44f88a6f5447f60",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:8",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 8,
+          "source_ref": "Lamentations 4:8",
+          "segment_mode": "whole",
+          "sha256": "400470f12ce13e2095941a7fb6b223b85fd0a4abcae83a02017825cf42649f18"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "400470f12ce13e2095941a7fb6b223b85fd0a4abcae83a02017825cf42649f18",
+      "translation_sha256": "bb0ebc1a7e4c56db511f240a195998448cace17a05794d8d56bdd4d11a9aef3b",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:9",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 9,
+          "source_ref": "Lamentations 4:9",
+          "segment_mode": "whole",
+          "sha256": "f2a4ffef64f37333233a8e15b24ed130e05bf7259d8fc7dd391c2a4b414c5b2b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f2a4ffef64f37333233a8e15b24ed130e05bf7259d8fc7dd391c2a4b414c5b2b",
+      "translation_sha256": "d7867a98d9e5e5d8ba3ffde5cfd96be590c01147553f1c0657ee6ebd1bae1013",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:10",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 10,
+          "source_ref": "Lamentations 4:10",
+          "segment_mode": "whole",
+          "sha256": "47a9f80a4e2db3e28364ed9ecda3e66b66a1087a3bfcc6d35962ff95eb455837"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "47a9f80a4e2db3e28364ed9ecda3e66b66a1087a3bfcc6d35962ff95eb455837",
+      "translation_sha256": "34da314cdc479527486dea4488acbd8ea105a74179e1226844c4f4ee380dc3b2",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:11",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 11,
+          "source_ref": "Lamentations 4:11",
+          "segment_mode": "whole",
+          "sha256": "47ec072b591c57df361e1031b9959d85dc99f98764f794973db4c47a65552327"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "47ec072b591c57df361e1031b9959d85dc99f98764f794973db4c47a65552327",
+      "translation_sha256": "f4bb69fdd7c0997cd42c5285a40dbbc101c68c87a323fb56bf8f9c26101b3c8b",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:12",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 12,
+          "source_ref": "Lamentations 4:12",
+          "segment_mode": "whole",
+          "sha256": "807ed42a42c5ca00a1f665db9716f314faac94055da93c20a936db8321252ffc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "807ed42a42c5ca00a1f665db9716f314faac94055da93c20a936db8321252ffc",
+      "translation_sha256": "68f17d88fc67f112686110bb2d4c81071a5b1c82900ad32e211127d6897727d4",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:13",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 13,
+          "source_ref": "Lamentations 4:13",
+          "segment_mode": "whole",
+          "sha256": "0f0f27f8a7ca671e3a92f2b4e50e37467b631a8ce93dfacd638c876f70b76a00"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0f0f27f8a7ca671e3a92f2b4e50e37467b631a8ce93dfacd638c876f70b76a00",
+      "translation_sha256": "7747dc3ef220c2ba63e31b7a1d38a2505bcf3e591e012c6c00ae602c6904420e",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:14",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 14,
+          "source_ref": "Lamentations 4:14",
+          "segment_mode": "whole",
+          "sha256": "710cfb61a6ccf7424e0a6a8a7dddf633a03c80fd0090709c5494fb581a24f4fc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "710cfb61a6ccf7424e0a6a8a7dddf633a03c80fd0090709c5494fb581a24f4fc",
+      "translation_sha256": "74d14dbb1c4d08ffb739f51a8e0371be446f4cc3a12f91791c536491dde10992",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:15",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 15,
+          "source_ref": "Lamentations 4:15",
+          "segment_mode": "whole",
+          "sha256": "2a24ba050407e4b0e61185b995867d3a4cd4b3995df24c1f7f5372506dfc5b21"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2a24ba050407e4b0e61185b995867d3a4cd4b3995df24c1f7f5372506dfc5b21",
+      "translation_sha256": "609cc5fb5690df1a9df6e3b5c6aa5f5982ecdd803ae932ef38d223fa9904f589",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:16",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 16,
+          "source_ref": "Lamentations 4:16",
+          "segment_mode": "whole",
+          "sha256": "e1601748921e9ee73b0e0451dff9aa649f451c1b274d9b033231126be86a4751"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e1601748921e9ee73b0e0451dff9aa649f451c1b274d9b033231126be86a4751",
+      "translation_sha256": "bcbbf3239c78087f976eb9703f52bfa62be954e3f2dff98ff24ce4e0333e3e34",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:17",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 17,
+          "source_ref": "Lamentations 4:17",
+          "segment_mode": "whole",
+          "sha256": "0c574f50633b91efa06399d2207a2e1a2218bab2e53de76ee52ad05ba020f9e6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0c574f50633b91efa06399d2207a2e1a2218bab2e53de76ee52ad05ba020f9e6",
+      "translation_sha256": "88d97185c264dce917f88c7f889f5ac88b54e598c6c6b4469bdb12eefb741112",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:18",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 18,
+          "source_ref": "Lamentations 4:18",
+          "segment_mode": "whole",
+          "sha256": "124a6c0b747093c3bbea4c23c8466c93029f316de7c05221484209a97e879955"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "124a6c0b747093c3bbea4c23c8466c93029f316de7c05221484209a97e879955",
+      "translation_sha256": "cc700c2e9f24adbabb5da9a65e920bd94d18e02377995609109d9bc2c7f8fa7d",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:19",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 19,
+          "source_ref": "Lamentations 4:19",
+          "segment_mode": "whole",
+          "sha256": "814f09e1627d3201361bd5eb8bdc01850e726fe0deccd76b28e62ea61b59a41a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "814f09e1627d3201361bd5eb8bdc01850e726fe0deccd76b28e62ea61b59a41a",
+      "translation_sha256": "bbef87eaddb5931b36fe4f9916d6da655278f2c84c8db340453668cbe4b31c12",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:20",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 20,
+          "source_ref": "Lamentations 4:20",
+          "segment_mode": "whole",
+          "sha256": "52a1ec48f50a7dba5ec53631deae1f8837e3352a554f8d43306ad9c5fa59b61f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "52a1ec48f50a7dba5ec53631deae1f8837e3352a554f8d43306ad9c5fa59b61f",
+      "translation_sha256": "91e265390ff81b042e963cdefb8338e0c2d765490320f5e08998090c54f82bf3",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:21",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 21,
+          "source_ref": "Lamentations 4:21",
+          "segment_mode": "whole",
+          "sha256": "8c7c4bbe9dd401b4fb552fd2ab4726b2cc5e28d6755bb1d494c7c1273ac2bbf7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8c7c4bbe9dd401b4fb552fd2ab4726b2cc5e28d6755bb1d494c7c1273ac2bbf7",
+      "translation_sha256": "b1bc80f0b0905464c3bad96f3db522884fa1b53105f525a48bc1c577fe936d56",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 4:22",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 22,
+          "source_ref": "Lamentations 4:22",
+          "segment_mode": "whole",
+          "sha256": "80434225151aeb2a08cd6fa4235aceabb1ce97d339f344af22b243a08d861125"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "80434225151aeb2a08cd6fa4235aceabb1ce97d339f344af22b243a08d861125",
+      "translation_sha256": "c4128d7c1c29daf5cd9854eb766598f28d2bd8d24769dd01b3e3aa568996edcb",
+      "tsw_blob_sha": "e38dd6243d01f8cbd1ee78c8427e96b71d19222a",
+      "curated_decisions": [
+        "Translate siege, hunger, and cannibalism plainly but without sensationalism."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:1",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "source_ref": "Lamentations 5:1",
+          "segment_mode": "whole",
+          "sha256": "96ec4d6e1dd23e420f7ffafd81cc0d3eb50150efd1e8ac4c0a2a53a4cb1e4b8a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "96ec4d6e1dd23e420f7ffafd81cc0d3eb50150efd1e8ac4c0a2a53a4cb1e4b8a",
+      "translation_sha256": "e13b9c97f6dad1d18e69e7b5e8faa7b2dcfc91628456db6514e64be587c7e17a",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:2",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 2,
+          "source_ref": "Lamentations 5:2",
+          "segment_mode": "whole",
+          "sha256": "68f3738e9eaf8b5cbe997a880698b575f33fde9e3c413ffedf52e443f33c56e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "68f3738e9eaf8b5cbe997a880698b575f33fde9e3c413ffedf52e443f33c56e3",
+      "translation_sha256": "72313a5d1b768cfc6bc45d7a3a87333b69ea085249b183919b58ef54cf4a337b",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:3",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 3,
+          "source_ref": "Lamentations 5:3",
+          "segment_mode": "whole",
+          "sha256": "cc44dcd7d53e19d0929c447e1c145c6d103e548026f7374641293ee30c6fc5cb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cc44dcd7d53e19d0929c447e1c145c6d103e548026f7374641293ee30c6fc5cb",
+      "translation_sha256": "af2c6a491dc2c7d907fe5e0a8421f54a4fd1571d1e24fcb1006e20203b947e43",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:4",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 4,
+          "source_ref": "Lamentations 5:4",
+          "segment_mode": "whole",
+          "sha256": "031ceb6a66753de4ab6f6a8de64ed19960df8d4758fd9ba66d6052279425887b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "031ceb6a66753de4ab6f6a8de64ed19960df8d4758fd9ba66d6052279425887b",
+      "translation_sha256": "463796eb7669254078d42c39ee0fc9a5f2c47dfcd9fef2a175d6ca4d6c1c8601",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:5",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 5,
+          "source_ref": "Lamentations 5:5",
+          "segment_mode": "whole",
+          "sha256": "1e457684e9be0c63371bfd4aefbcd7376cb1d6323b2181a698b0225f805eb18b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1e457684e9be0c63371bfd4aefbcd7376cb1d6323b2181a698b0225f805eb18b",
+      "translation_sha256": "07f741e3ebd54b6769c02b0fb9448740b281d36893cb4f9bc4ed969e66212f8f",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:6",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 6,
+          "source_ref": "Lamentations 5:6",
+          "segment_mode": "whole",
+          "sha256": "54e4f3d956cb70635873fb0edfd4d1dba2dd70d2fff9deffe443e624d8cf398c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "54e4f3d956cb70635873fb0edfd4d1dba2dd70d2fff9deffe443e624d8cf398c",
+      "translation_sha256": "13fe2954bcb1e2e9bf7b11fcef341cbdf022e3847c36cf2698020dc2749e11ca",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:7",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 7,
+          "source_ref": "Lamentations 5:7",
+          "segment_mode": "whole",
+          "sha256": "ce1780bb5d2c950495e2797781e49f39b974033fe3a9b63151527cec3c78cb38"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ce1780bb5d2c950495e2797781e49f39b974033fe3a9b63151527cec3c78cb38",
+      "translation_sha256": "b799efd0f8f97cfa2cb8f924a635800eff886d5ec821c2dccb57f9324218c92c",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:8",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 8,
+          "source_ref": "Lamentations 5:8",
+          "segment_mode": "whole",
+          "sha256": "e2ca9e19d46a7764cd0ec2eb6493d0735047c393b0b6c7826df0ef42e774dec7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e2ca9e19d46a7764cd0ec2eb6493d0735047c393b0b6c7826df0ef42e774dec7",
+      "translation_sha256": "fa62797c152fa9a46ba479d8c9e0f827f871789ed88bd6494c1d38e6b45592bc",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:9",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 9,
+          "source_ref": "Lamentations 5:9",
+          "segment_mode": "whole",
+          "sha256": "8dca2b0ae6ba600d6d5d4dffc5d8c3bf2de21eae8291e4b77f583795d5a19ca3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8dca2b0ae6ba600d6d5d4dffc5d8c3bf2de21eae8291e4b77f583795d5a19ca3",
+      "translation_sha256": "a424299774f75def519884024170abf53415868a97d1d69d77c23c6fa68901dd",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:10",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 10,
+          "source_ref": "Lamentations 5:10",
+          "segment_mode": "whole",
+          "sha256": "0c17993526065ab2f8a5698a8c53f419de254974ea418a94d6e6440d6c7f02ea"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0c17993526065ab2f8a5698a8c53f419de254974ea418a94d6e6440d6c7f02ea",
+      "translation_sha256": "d7165f3ce18703710d2ed316069994497c6aab85a41a12d198730b35b189acbf",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:11",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 11,
+          "source_ref": "Lamentations 5:11",
+          "segment_mode": "whole",
+          "sha256": "5b312adc1e88228319254e5c4e5a2a05444aed03e3b320a687934ea71b56908a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5b312adc1e88228319254e5c4e5a2a05444aed03e3b320a687934ea71b56908a",
+      "translation_sha256": "9e50bcd5f7d542c8e12db10f90d168ecf4379f68a13c7c11f0fc9cd34f73bce1",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:12",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 12,
+          "source_ref": "Lamentations 5:12",
+          "segment_mode": "whole",
+          "sha256": "aaa76d9e67bd6541a6946b4ea864981d0c17acbd38a45abf8aaf913d94625058"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "aaa76d9e67bd6541a6946b4ea864981d0c17acbd38a45abf8aaf913d94625058",
+      "translation_sha256": "c31c7dce9572aaa3e476fcaaab685c11801e54cc46a70a354842e5c08f98a38b",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:13",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 13,
+          "source_ref": "Lamentations 5:13",
+          "segment_mode": "whole",
+          "sha256": "60c4b0840973f9a01bbe810150ab234316bae6ac39da03bbee53172546df4f09"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "60c4b0840973f9a01bbe810150ab234316bae6ac39da03bbee53172546df4f09",
+      "translation_sha256": "54c64dd78f1788c5f2d17c0a57478b3afcadda12dca3b3a4caa7bc202fd8cb28",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:14",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 14,
+          "source_ref": "Lamentations 5:14",
+          "segment_mode": "whole",
+          "sha256": "253a3bdca96838aff1bfb7f4ae356f165f35d36cef7d72f13a69ed323c95966b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "253a3bdca96838aff1bfb7f4ae356f165f35d36cef7d72f13a69ed323c95966b",
+      "translation_sha256": "52caa161c81e0f2e94eabb1b5b6558624a07a9cc04dbdaf67e070628153e02d4",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:15",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 15,
+          "source_ref": "Lamentations 5:15",
+          "segment_mode": "whole",
+          "sha256": "3739596ec4182bbca4e9736ace6ffd57d45ccecde376ae2a30490785b9b83806"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3739596ec4182bbca4e9736ace6ffd57d45ccecde376ae2a30490785b9b83806",
+      "translation_sha256": "01c0d551a0f04f7d0e810ca82438eab7f5f7d5b516aed11294d0369f4ce59095",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:16",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 16,
+          "source_ref": "Lamentations 5:16",
+          "segment_mode": "whole",
+          "sha256": "7fbd98e95604cf901bd2606ca5f25072d0ad299c25088e1d628c89efbbbc9180"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7fbd98e95604cf901bd2606ca5f25072d0ad299c25088e1d628c89efbbbc9180",
+      "translation_sha256": "efa19d4bc895b4e762d083d7ac9123c7721be530c1937a24ce5da4d8ab7d23bf",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:17",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 17,
+          "source_ref": "Lamentations 5:17",
+          "segment_mode": "whole",
+          "sha256": "18131f3786f53ae7a3609fa68aed64dd3872e7f7e9888a24aecedab6a4aaa862"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "18131f3786f53ae7a3609fa68aed64dd3872e7f7e9888a24aecedab6a4aaa862",
+      "translation_sha256": "65f7e56bbcea2fc775140ede9369071b7887635396c632c447365f38e3c4d203",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:18",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 18,
+          "source_ref": "Lamentations 5:18",
+          "segment_mode": "whole",
+          "sha256": "f6b270f8e1a7e5d3e7edcad4f2625cd1321dae5e66a0d7b9e0e1bc2c1d9e4e07"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f6b270f8e1a7e5d3e7edcad4f2625cd1321dae5e66a0d7b9e0e1bc2c1d9e4e07",
+      "translation_sha256": "d944039ecd8f5362ab2ade2d0689629055bd754080695e3302004bedb9c53281",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:19",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 19,
+          "source_ref": "Lamentations 5:19",
+          "segment_mode": "whole",
+          "sha256": "4fdcf3aaacaf49d00f6cf3dccd1c12e30d4b7dc8af65f9fa7aeba8f226d5f1dc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4fdcf3aaacaf49d00f6cf3dccd1c12e30d4b7dc8af65f9fa7aeba8f226d5f1dc",
+      "translation_sha256": "21610bb82e6e78a6261b82ab8d611a9546c3c0700713649bf8ee312e5d94ef5a",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:20",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 20,
+          "source_ref": "Lamentations 5:20",
+          "segment_mode": "whole",
+          "sha256": "6cac10600bfffcd2fe5a693021b3326d36a3a4493adbf003c44687350bc2da93"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6cac10600bfffcd2fe5a693021b3326d36a3a4493adbf003c44687350bc2da93",
+      "translation_sha256": "022945f66f258ca70e7f1dd6afad39544085085abde3d5bc287a87e936f30f4e",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:21",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 21,
+          "source_ref": "Lamentations 5:21",
+          "segment_mode": "whole",
+          "sha256": "ee01e80ab767b8942d0940d1dd42563e6d46b65eaee7987aaa7bd4274da5441d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ee01e80ab767b8942d0940d1dd42563e6d46b65eaee7987aaa7bd4274da5441d",
+      "translation_sha256": "74cb3b0c645aa0a07e42d09c00196fce8164be5ff575e44937e6b4e3496ae7b6",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Lamentations 5:22",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 22,
+          "source_ref": "Lamentations 5:22",
+          "segment_mode": "whole",
+          "sha256": "be264f6bd8d4a1ff8a89395a902bc5107bf5cb394f4c7255a106109a5029cfdf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "be264f6bd8d4a1ff8a89395a902bc5107bf5cb394f4c7255a106109a5029cfdf",
+      "translation_sha256": "b633309428c3620d28710c3f612cc15bbba8a7f0064760c2544267e1e880b61a",
+      "tsw_blob_sha": "b54c48e50e589d3ffa89d49b443bb2768dd8968b",
+      "curated_decisions": [
+        "Keep the communal appeal and unresolved ending, including the possibility of continued divine rejection."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 0,
+    "F1": 0,
+    "F2": 0,
+    "F3": 154
+  },
+  "public_verse_slots": 154,
+  "included_source_bindings": 154
+}
