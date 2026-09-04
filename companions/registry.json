@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "project": "shared-word",
+  "resource_layers": [
+    {
+      "id": "fluent-companion",
+      "name": "Fluent Companion",
+      "translation_affinity": "fluent",
+      "purpose": "Orientation, sustained reading, formation, prayer, and biblical fluency.",
+      "content_root": null,
+      "status": "maintained-outside-this-repository"
+    },
+    {
+      "id": "tsw-study",
+      "name": "TSW Study Companion",
+      "translation_affinity": "tsw",
+      "purpose": "Language, contested interpretation, reception history, power, harm, and shared discernment.",
+      "content_root": "companions/tsw-study",
+      "status": "batch-one-draft"
+    },
+    {
+      "id": "shared-biblical-world",
+      "name": "Shared Biblical World",
+      "translation_affinity": "neutral",
+      "purpose": "Reusable people, places, contexts, maps, timelines, artifacts, and images for both companions.",
+      "content_root": "resources/biblical-world",
+      "status": "foundation"
+    }
+  ]
+}

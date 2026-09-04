@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "batch_id": "tsw-study-batch01",
+  "publication_state": "BLOCKED_PENDING_HUMAN_REVIEW",
+  "machine_audit": {
+    "command": "python tools/audit_companion_batch.py companions/tsw-study/manifests/batch01.json",
+    "status": "passed-on-draft-2026-09-04"
+  },
+  "human_gates": [
+    {
+      "id": "source-language",
+      "label": "Source-language and textual evidence",
+      "status": "pending",
+      "required": true
+    },
+    {
+      "id": "historical",
+      "label": "Historical and archaeological claims",
+      "status": "pending",
+      "required": true
+    },
+    {
+      "id": "reception",
+      "label": "Jewish and ecumenical Christian reception",
+      "status": "pending",
+      "required": true
+    },
+    {
+      "id": "critical-voices",
+      "label": "Feminist, womanist, liberation, disability, postcolonial, and trauma-aware readings where relevant",
+      "status": "pending",
+      "required": true
+    },
+    {
+      "id": "power-and-harm",
+      "label": "Power, safeguarding, and history-of-harm review",
+      "status": "pending",
+      "required": true
+    },
+    {
+      "id": "public-language",
+      "label": "Public clarity, accessibility, and non-facilitator language",
+      "status": "pending",
+      "required": true
+    },
+    {
+      "id": "visual-evidence",
+      "label": "Visual provenance, rights, classification, and uncertainty labels",
+      "status": "pending",
+      "required": true
+    }
+  ],
+  "release_rule": "Do not publish a dossier until every required human gate is approved and the machine audit passes on the release commit.",
+  "review_notes": []
+}

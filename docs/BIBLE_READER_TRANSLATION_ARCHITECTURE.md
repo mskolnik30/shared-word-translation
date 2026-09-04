@@ -83,6 +83,14 @@ Requirements:
 
 “Everywhere a Bible passage appears” therefore means every interactive passage surface becomes translation-aware, while authored quotations retain editorial integrity.
 
+## Companion and shared-world resources
+
+Translation switching and companion switching are separate controls. TSW and Fluent are translations; TSW Study Companion and Fluent Companion are public resource layers associated with those translations. The reader must not add companions to the translation selector or imply that a companion is another biblical text.
+
+Both companions may reference stable records from `resources/biblical-world/` for people, places, historical settings, maps, timelines, artifacts, and images. Shared records own factual identity, provenance, rights, and uncertainty labels. Companion pages may provide different interpretive framing without duplicating those underlying assets.
+
+TSW Study Companion dossiers remain unpublished while their manifest status is `DRAFTED_REVIEW_REQUIRED` or their review record says `BLOCKED_PENDING_HUMAN_REVIEW`.
+
 ## Interface language
 
 The selector should identify both name and posture without ranking readers:

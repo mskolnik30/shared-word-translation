@@ -14,8 +14,11 @@ This repository contains the canonical source files for both translations. See [
 - `books/` — canonical TSW chapter files
 - `translations/fluent/` — canonical Fluent chapter files
 - `translations/registry.json` — machine-readable translation definitions for consumers
+- `companions/` — translation-affiliated public reading and study layers
+- `resources/biblical-world/` — shared people, places, contexts, maps, timelines, artifacts, and images
 - `audit/exegetical-core/fluent-production/` — Fluent review records and source attribution
 - `tools/audit_translation_family.py` — structural parity and front-matter audit
+- `tools/audit_companion_batch.py` — structural and publication-gate audit for companion batches
 
 ## Deploying to Church Commons (WordPress)
 
@@ -53,3 +56,9 @@ python tools/audit_translation_family.py
 ```
 
 The audit verifies book/chapter parity, required front matter, translation identifiers, Fluent QA status, and public verse-label parity.
+
+Draft TSW Study Companion batches have a separate audit. Passing it confirms structure, shared-world references, source-ledger presence, and a blocking human-review gate; it does not approve the theology or exegesis:
+
+```bash
+python tools/audit_companion_batch.py companions/tsw-study/manifests/batch01.json
+```
