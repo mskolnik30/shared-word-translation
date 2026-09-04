@@ -1,0 +1,546 @@
+{
+  "book": "1 Kings",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Kings 4:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "1 Kings 4:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01a6054af86b72c14198c54ac89abca5ab33b9c7e6f99deeae0c6848eff6fb8e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01a6054af86b72c14198c54ac89abca5ab33b9c7e6f99deeae0c6848eff6fb8e"
+      },
+      "2": {
+        "source_ref": "1 Kings 4:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "1 Kings 4:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "113e4c59dc3a6c1c210c810a4b550254cbff1781e72b403a59006640cae2eb8f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "113e4c59dc3a6c1c210c810a4b550254cbff1781e72b403a59006640cae2eb8f"
+      },
+      "3": {
+        "source_ref": "1 Kings 4:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "1 Kings 4:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0cc2e60e62805a5d14f6157e7535772993121ad373bbb8e324178eb30791a207"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0cc2e60e62805a5d14f6157e7535772993121ad373bbb8e324178eb30791a207"
+      },
+      "4": {
+        "source_ref": "1 Kings 4:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "1 Kings 4:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c6fb9f3ad120c30ab42c2af9620d228de539241a536a765110ac3049dde19c17"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c6fb9f3ad120c30ab42c2af9620d228de539241a536a765110ac3049dde19c17"
+      },
+      "5": {
+        "source_ref": "1 Kings 4:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "1 Kings 4:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a8ddb2ff2655924ebe9007051b1d5cc0a73ac7f355214db3634df476970edb1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a8ddb2ff2655924ebe9007051b1d5cc0a73ac7f355214db3634df476970edb1"
+      },
+      "6": {
+        "source_ref": "1 Kings 4:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "1 Kings 4:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "18d8436cd1b7ea2f31d7bbbbbc9f0a3ee314735366ce311622801f293bf9184f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18d8436cd1b7ea2f31d7bbbbbc9f0a3ee314735366ce311622801f293bf9184f"
+      },
+      "7": {
+        "source_ref": "1 Kings 4:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "1 Kings 4:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cbf8b6b69fc568712ad37abaff31bb189acd9633e7fe110af7094288194dc2e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cbf8b6b69fc568712ad37abaff31bb189acd9633e7fe110af7094288194dc2e8"
+      },
+      "8": {
+        "source_ref": "1 Kings 4:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "1 Kings 4:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5422ff05639cd9c78f24fbb1ae780fc6f80d1594ec8163eac2758fb8eaa7e094"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5422ff05639cd9c78f24fbb1ae780fc6f80d1594ec8163eac2758fb8eaa7e094"
+      },
+      "9": {
+        "source_ref": "1 Kings 4:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "1 Kings 4:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4e698792762594cc99ba113da457306e44b9aafbc01e08573d5f9ad002c630db"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e698792762594cc99ba113da457306e44b9aafbc01e08573d5f9ad002c630db"
+      },
+      "10": {
+        "source_ref": "1 Kings 4:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 10,
+            "source_ref": "1 Kings 4:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ce0ce07a6473763993e9e9b7c1b8f1d9221d099f9014c4f41d43e024ddd45f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ce0ce07a6473763993e9e9b7c1b8f1d9221d099f9014c4f41d43e024ddd45f2"
+      },
+      "11": {
+        "source_ref": "1 Kings 4:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 11,
+            "source_ref": "1 Kings 4:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1117d1af850569377d489225d6f87ba95b5ad5babece654be4dd20759dd42b8c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1117d1af850569377d489225d6f87ba95b5ad5babece654be4dd20759dd42b8c"
+      },
+      "12": {
+        "source_ref": "1 Kings 4:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 12,
+            "source_ref": "1 Kings 4:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bda4d8c84563324469b29533344d42201d7bb0a67fe9964388f32e8cf3077ea4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bda4d8c84563324469b29533344d42201d7bb0a67fe9964388f32e8cf3077ea4"
+      },
+      "13": {
+        "source_ref": "1 Kings 4:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 13,
+            "source_ref": "1 Kings 4:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b9d99241b8c47ba67228a22a0ea0992f8ccc2f67276f6f60c6a7d4aa157a40c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b9d99241b8c47ba67228a22a0ea0992f8ccc2f67276f6f60c6a7d4aa157a40c"
+      },
+      "14": {
+        "source_ref": "1 Kings 4:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 14,
+            "source_ref": "1 Kings 4:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "17e41e4652424456526a7d8a2be06e33b38d2b311fb573952911390199bfc717"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17e41e4652424456526a7d8a2be06e33b38d2b311fb573952911390199bfc717"
+      },
+      "15": {
+        "source_ref": "1 Kings 4:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 15,
+            "source_ref": "1 Kings 4:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2483d511116fc19be17e70a9b32a2c6793f24b0d18553d7846cbf860b46d004c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2483d511116fc19be17e70a9b32a2c6793f24b0d18553d7846cbf860b46d004c"
+      },
+      "16": {
+        "source_ref": "1 Kings 4:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 16,
+            "source_ref": "1 Kings 4:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cbfe02f47e7af0d196c63aa29127e1f84ae510caeb6efb19aecf231e97049927"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cbfe02f47e7af0d196c63aa29127e1f84ae510caeb6efb19aecf231e97049927"
+      },
+      "17": {
+        "source_ref": "1 Kings 4:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 17,
+            "source_ref": "1 Kings 4:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9181b98f4f9c2b9e51b074e98b1744ea9b899cdb0add0413782b678b448e8e3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9181b98f4f9c2b9e51b074e98b1744ea9b899cdb0add0413782b678b448e8e3a"
+      },
+      "18": {
+        "source_ref": "1 Kings 4:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 18,
+            "source_ref": "1 Kings 4:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fb14916993a7fe680819b38655daa4be474c35dc6edc972bf0ea8937860a609c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb14916993a7fe680819b38655daa4be474c35dc6edc972bf0ea8937860a609c"
+      },
+      "19": {
+        "source_ref": "1 Kings 4:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 19,
+            "source_ref": "1 Kings 4:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "409ea5c28dd7c54856e3e619b0b641214c6854e04137841d923f959eaa3502ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "409ea5c28dd7c54856e3e619b0b641214c6854e04137841d923f959eaa3502ec"
+      },
+      "20": {
+        "source_ref": "1 Kings 4:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 20,
+            "source_ref": "1 Kings 4:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "588513df1dc913d4905a0e1ff3b48d9ba0dab54fe090db3b7e7930b1b7654c55"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "588513df1dc913d4905a0e1ff3b48d9ba0dab54fe090db3b7e7930b1b7654c55"
+      },
+      "21": {
+        "source_ref": "1 Kings 5:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "1 Kings 5:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "dd1a4a6b94dbab2403ee0eab175155d277ed85255df5dfd747e233a4244eead8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "dd1a4a6b94dbab2403ee0eab175155d277ed85255df5dfd747e233a4244eead8"
+      },
+      "22": {
+        "source_ref": "1 Kings 5:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "1 Kings 5:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "e6461b26a136f921bd28f06aabfb8bbeb04920b4fd48c16dd19d7aa1bae3624d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "e6461b26a136f921bd28f06aabfb8bbeb04920b4fd48c16dd19d7aa1bae3624d"
+      },
+      "23": {
+        "source_ref": "1 Kings 5:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "1 Kings 5:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "298ddc0c7cb99eb7f4645d8fdd16c399e692e1ed9a8f6029ec3021a099f2e299"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "298ddc0c7cb99eb7f4645d8fdd16c399e692e1ed9a8f6029ec3021a099f2e299"
+      },
+      "24": {
+        "source_ref": "1 Kings 5:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "1 Kings 5:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a7e7a20f9bac43d59300bf94b0b77d4fee7aa0fed730aa715315a876ce69a893"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a7e7a20f9bac43d59300bf94b0b77d4fee7aa0fed730aa715315a876ce69a893"
+      },
+      "25": {
+        "source_ref": "1 Kings 5:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "1 Kings 5:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ec6ae4893c4558a6621de75e816595fd0a5b6d7e84f0be4b53209a95dd155ab3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ec6ae4893c4558a6621de75e816595fd0a5b6d7e84f0be4b53209a95dd155ab3"
+      },
+      "26": {
+        "source_ref": "1 Kings 5:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "1 Kings 5:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "952e21713ff1b2b574988a62cab2d0a8ee8053247c3bc892daa3ea0e57afa0b9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "952e21713ff1b2b574988a62cab2d0a8ee8053247c3bc892daa3ea0e57afa0b9"
+      },
+      "27": {
+        "source_ref": "1 Kings 5:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "1 Kings 5:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "477d9db14ee0d5e87463ec9276858d6b4495ef235ffd2feb3850883c62db29a6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "477d9db14ee0d5e87463ec9276858d6b4495ef235ffd2feb3850883c62db29a6"
+      },
+      "28": {
+        "source_ref": "1 Kings 5:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "1 Kings 5:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "095a917b5336ba79cbee469cc2b8324d2d520e61cb4dcfd80d5c7c5c0ca69d53"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "095a917b5336ba79cbee469cc2b8324d2d520e61cb4dcfd80d5c7c5c0ca69d53"
+      },
+      "29": {
+        "source_ref": "1 Kings 5:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "1 Kings 5:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a715bba66254a4a8497e648f1d2f2bd692785910553f106f4b8f641a9442dbbd"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a715bba66254a4a8497e648f1d2f2bd692785910553f106f4b8f641a9442dbbd"
+      },
+      "30": {
+        "source_ref": "1 Kings 5:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "1 Kings 5:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7cae11ce521be9d79d7b4c95903e478cf0898c2ebcdd13beae62594375c29dc9"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7cae11ce521be9d79d7b4c95903e478cf0898c2ebcdd13beae62594375c29dc9"
+      },
+      "31": {
+        "source_ref": "1 Kings 5:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "1 Kings 5:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d704d4fad9bc12202739eca2fec423f9e31a6bf08ff2b96976d13f9b38861055"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d704d4fad9bc12202739eca2fec423f9e31a6bf08ff2b96976d13f9b38861055"
+      },
+      "32": {
+        "source_ref": "1 Kings 5:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "1 Kings 5:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "483cc8dd41c0055a3fd08e2f867a4ceb44e1cc809246fc8c375a69949848aca2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "483cc8dd41c0055a3fd08e2f867a4ceb44e1cc809246fc8c375a69949848aca2"
+      },
+      "33": {
+        "source_ref": "1 Kings 5:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "1 Kings 5:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "310c9cf01cdc7d805aabbee41cada3203f8ec458154fad4e8d21fa3f2fbffe26"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "310c9cf01cdc7d805aabbee41cada3203f8ec458154fad4e8d21fa3f2fbffe26"
+      },
+      "34": {
+        "source_ref": "1 Kings 5:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "1 Kings 5:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7944e3f4e845878f74cc8077d9c7ca8253f87ad50113a45db220f48b4a4e275e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7944e3f4e845878f74cc8077d9c7ca8253f87ad50113a45db220f48b4a4e275e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1kings/1Kings_04.md",
+    "blob_sha": "8e8cb83f68c9ccbe2248e2ddf79aad290c530342"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

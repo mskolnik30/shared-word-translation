@@ -1,0 +1,351 @@
+{
+  "book": "1 Kings",
+  "chapter": 19,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Kings 19:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 1,
+            "source_ref": "1 Kings 19:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dc315d8287165ab0e102e166d4db7b1d4fed0c405f0bb1b66d2af6689001aec5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc315d8287165ab0e102e166d4db7b1d4fed0c405f0bb1b66d2af6689001aec5"
+      },
+      "2": {
+        "source_ref": "1 Kings 19:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 2,
+            "source_ref": "1 Kings 19:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "255d5bdf53d1f5c1f7b333d6a1b247ccdbd91d5b4d7b00024205789cd1915d80"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "255d5bdf53d1f5c1f7b333d6a1b247ccdbd91d5b4d7b00024205789cd1915d80"
+      },
+      "3": {
+        "source_ref": "1 Kings 19:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 3,
+            "source_ref": "1 Kings 19:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a168588d9920da1d045e7d53c86de241024c680e41ff6ce1977e31506df3e869"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a168588d9920da1d045e7d53c86de241024c680e41ff6ce1977e31506df3e869"
+      },
+      "4": {
+        "source_ref": "1 Kings 19:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 4,
+            "source_ref": "1 Kings 19:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "809a0dd3820363b8fa14f147a8c597d9864128f659d9cef0a0116f40b9cc1967"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "809a0dd3820363b8fa14f147a8c597d9864128f659d9cef0a0116f40b9cc1967"
+      },
+      "5": {
+        "source_ref": "1 Kings 19:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 5,
+            "source_ref": "1 Kings 19:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "77916554375bdb13ece4c75b1b847b222067c5892fa46628a51d3fa23cb14f2f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77916554375bdb13ece4c75b1b847b222067c5892fa46628a51d3fa23cb14f2f"
+      },
+      "6": {
+        "source_ref": "1 Kings 19:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 6,
+            "source_ref": "1 Kings 19:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0823f299b0621fb712104113817db090101ba249f929dbdfb43f382d34cef796"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0823f299b0621fb712104113817db090101ba249f929dbdfb43f382d34cef796"
+      },
+      "7": {
+        "source_ref": "1 Kings 19:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 7,
+            "source_ref": "1 Kings 19:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04c8ea37075813eb42d96c0b701380aa9ed7228c43132182b138246029c55c33"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04c8ea37075813eb42d96c0b701380aa9ed7228c43132182b138246029c55c33"
+      },
+      "8": {
+        "source_ref": "1 Kings 19:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 8,
+            "source_ref": "1 Kings 19:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7afa01fc0a09a61d438a3afd9bda91677445b74d4902841d62acbfeaad8cde13"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7afa01fc0a09a61d438a3afd9bda91677445b74d4902841d62acbfeaad8cde13"
+      },
+      "9": {
+        "source_ref": "1 Kings 19:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 9,
+            "source_ref": "1 Kings 19:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3caf71aa661b32e7201f74fe314208b70dd5748a78a322dc43342b42b1f17f81"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3caf71aa661b32e7201f74fe314208b70dd5748a78a322dc43342b42b1f17f81"
+      },
+      "10": {
+        "source_ref": "1 Kings 19:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 10,
+            "source_ref": "1 Kings 19:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7f6bca61152477e15c1339748fffb74dfac5434212c7d0dde3653d0a53b56b30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f6bca61152477e15c1339748fffb74dfac5434212c7d0dde3653d0a53b56b30"
+      },
+      "11": {
+        "source_ref": "1 Kings 19:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 11,
+            "source_ref": "1 Kings 19:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b9bb6bd6283f0e662ba858774fcada2a4cbf4b9c4389e909326d1144eb7a62c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b9bb6bd6283f0e662ba858774fcada2a4cbf4b9c4389e909326d1144eb7a62c"
+      },
+      "12": {
+        "source_ref": "1 Kings 19:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 12,
+            "source_ref": "1 Kings 19:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f56455820b6186e172fd4c1b6eb8683ff8f9052e53715a698aea4cad16e5e209"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f56455820b6186e172fd4c1b6eb8683ff8f9052e53715a698aea4cad16e5e209"
+      },
+      "13": {
+        "source_ref": "1 Kings 19:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 13,
+            "source_ref": "1 Kings 19:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01d11c5c3a2bf8e4444e2e375d11ffa9efa06bcc0fc17c91c59ce125bd5ac5b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01d11c5c3a2bf8e4444e2e375d11ffa9efa06bcc0fc17c91c59ce125bd5ac5b6"
+      },
+      "14": {
+        "source_ref": "1 Kings 19:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 14,
+            "source_ref": "1 Kings 19:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eee169ff8f5482608291dc2d3a6470a112ffa5a8b0b2499cf1b3e34bccdd5cbb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eee169ff8f5482608291dc2d3a6470a112ffa5a8b0b2499cf1b3e34bccdd5cbb"
+      },
+      "15": {
+        "source_ref": "1 Kings 19:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 15,
+            "source_ref": "1 Kings 19:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d4b1d9723b012345ecc8ffbbdecf24b9ef01bfc050bb4f9ddd031c82f8920121"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4b1d9723b012345ecc8ffbbdecf24b9ef01bfc050bb4f9ddd031c82f8920121"
+      },
+      "16": {
+        "source_ref": "1 Kings 19:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 16,
+            "source_ref": "1 Kings 19:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73a7a70fb805769390c115e06f14654ca78a2e238708fd0d23e0376a8fb409e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73a7a70fb805769390c115e06f14654ca78a2e238708fd0d23e0376a8fb409e9"
+      },
+      "17": {
+        "source_ref": "1 Kings 19:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 17,
+            "source_ref": "1 Kings 19:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fa8c4af9572807acaa5e9dfd15817ac773fa4a29567c829624513a0c9e10b09c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa8c4af9572807acaa5e9dfd15817ac773fa4a29567c829624513a0c9e10b09c"
+      },
+      "18": {
+        "source_ref": "1 Kings 19:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 18,
+            "source_ref": "1 Kings 19:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2d9f2ea4902c5291b7e10cfdfb9a40208d21ab549902964ec6bdeb25a9f24e86"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d9f2ea4902c5291b7e10cfdfb9a40208d21ab549902964ec6bdeb25a9f24e86"
+      },
+      "19": {
+        "source_ref": "1 Kings 19:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 19,
+            "source_ref": "1 Kings 19:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36b1ab01a671136c99dcd6f85759bef77b5befe486804fe2009de6b7616b96e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36b1ab01a671136c99dcd6f85759bef77b5befe486804fe2009de6b7616b96e6"
+      },
+      "20": {
+        "source_ref": "1 Kings 19:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 20,
+            "source_ref": "1 Kings 19:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7eebdf9b25de3ec3a7057f760ac521d3dac056996edf3742ecc3d3f9528dd4e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7eebdf9b25de3ec3a7057f760ac521d3dac056996edf3742ecc3d3f9528dd4e6"
+      },
+      "21": {
+        "source_ref": "1 Kings 19:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 21,
+            "source_ref": "1 Kings 19:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5a851197c5e39ae4f80aa3156589d58bc3da26aff2180eb611c8890f968bb3ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a851197c5e39ae4f80aa3156589d58bc3da26aff2180eb611c8890f968bb3ff"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1kings/1Kings_19.md",
+    "blob_sha": "a6c83779a1f15ae6460ae1223bb326745d9a345b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

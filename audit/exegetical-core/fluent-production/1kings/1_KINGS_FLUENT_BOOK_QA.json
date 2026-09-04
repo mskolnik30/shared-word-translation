@@ -1,0 +1,158 @@
+{
+  "book": "1 Kings",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 22,
+  "public_verse_slots": 816,
+  "included_verse_labels": 816,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 817,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-2:46",
+      "decision": "Keep succession intrigue, constrained agency, executions, and dynastic consolidation morally visible.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-11:43",
+      "decision": "Preserve Solomon's wisdom, temple, wealth, forced labor, international power, and eventual unfaithfulness in tension.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "12:1-16:34",
+      "decision": "Keep division, exploitative policy, rival worship, coups, and prophetic judgment historically situated.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "17:1-19:21",
+      "decision": "Preserve Elijah's dependence, miracles, contest, lethal zeal, fear, encounter, and succession.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "20:1-22:40",
+      "decision": "Keep Ahab's wars, Naboth's murder, prophetic conflict, and the difficult heavenly-court scene without making deception a general divine norm.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "22:21-22",
+      "decision": "Document the Hebrew 22:21 internal split that binds public 22:21 and public 22:22.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "22:41-53",
+      "decision": "Preserve the final royal notices and the split public 22:43 binding marked in the Hebrew source.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e",
+    "source_binding_count": 816,
+    "unique_source_record_count": 817,
+    "public_verse_slots": 816,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 816
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/1kings/1Kings_01.md",
+        "blob_sha": "fd4c501a9f918676cadcf29fe8e9905040ceae86"
+      },
+      "02": {
+        "path": "books/OT/1kings/1Kings_02.md",
+        "blob_sha": "0bbc8a5044ec152d0cc603b45efd2e6083f14e28"
+      },
+      "03": {
+        "path": "books/OT/1kings/1Kings_03.md",
+        "blob_sha": "ffd263ec84b9970c196dd802728e4a7870fc6490"
+      },
+      "04": {
+        "path": "books/OT/1kings/1Kings_04.md",
+        "blob_sha": "8e8cb83f68c9ccbe2248e2ddf79aad290c530342"
+      },
+      "05": {
+        "path": "books/OT/1kings/1Kings_05.md",
+        "blob_sha": "caeeb6494a654faff87962df9df7431d5e6fa631"
+      },
+      "06": {
+        "path": "books/OT/1kings/1Kings_06.md",
+        "blob_sha": "b8028fbd0882f006907b110d102058298402a923"
+      },
+      "07": {
+        "path": "books/OT/1kings/1Kings_07.md",
+        "blob_sha": "90fef90a2e7b6da9983de1d2acdb39aa050c3ec9"
+      },
+      "08": {
+        "path": "books/OT/1kings/1Kings_08.md",
+        "blob_sha": "bde4c4d59dcfe123a7aefd64927e75d44f8e1e92"
+      },
+      "09": {
+        "path": "books/OT/1kings/1Kings_09.md",
+        "blob_sha": "7a7f23883069027a8f17055676391192b82f5a76"
+      },
+      "10": {
+        "path": "books/OT/1kings/1Kings_10.md",
+        "blob_sha": "ec649b06d46a6124d6dbd90bccae7da9db78c8db"
+      },
+      "11": {
+        "path": "books/OT/1kings/1Kings_11.md",
+        "blob_sha": "d40e96b3e9c5396a49a67f3f8505a936539521cb"
+      },
+      "12": {
+        "path": "books/OT/1kings/1Kings_12.md",
+        "blob_sha": "64a949a2fdffdf908cd6297c8401e4886a8042f1"
+      },
+      "13": {
+        "path": "books/OT/1kings/1Kings_13.md",
+        "blob_sha": "ee13ada32251b5ca33d220f161608f472e7fedf3"
+      },
+      "14": {
+        "path": "books/OT/1kings/1Kings_14.md",
+        "blob_sha": "bbcda51930c85290a141c72174377c09d3a15aa3"
+      },
+      "15": {
+        "path": "books/OT/1kings/1Kings_15.md",
+        "blob_sha": "2969e0cf405751955ecbedb28ea056839637281d"
+      },
+      "16": {
+        "path": "books/OT/1kings/1Kings_16.md",
+        "blob_sha": "13aaa8336d92a1414997a14126778d81271999d4"
+      },
+      "17": {
+        "path": "books/OT/1kings/1Kings_17.md",
+        "blob_sha": "8eadade6929625ad49ba93685306924e30b40a57"
+      },
+      "18": {
+        "path": "books/OT/1kings/1Kings_18.md",
+        "blob_sha": "e4ec5f28f620c6f91d38a511e5c7e85fbec6dc26"
+      },
+      "19": {
+        "path": "books/OT/1kings/1Kings_19.md",
+        "blob_sha": "a6c83779a1f15ae6460ae1223bb326745d9a345b"
+      },
+      "20": {
+        "path": "books/OT/1kings/1Kings_20.md",
+        "blob_sha": "f4c2c1c28c0eddc0881e6d1664256013d90bd129"
+      },
+      "21": {
+        "path": "books/OT/1kings/1Kings_21.md",
+        "blob_sha": "6ddb8de879455619bed9af77e6c7a95b621a98f9"
+      },
+      "22": {
+        "path": "books/OT/1kings/1Kings_22.md",
+        "blob_sha": "459beeb67d2df70e743e1c676c7d35bc2ee169d0"
+      }
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "book": "1 Kings",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Kings 5:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 15,
+            "source_ref": "1 Kings 5:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1689ab5e200f0de684d7dacce631a38dc70fe3d85d708752d215c16ad7f4a161"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1689ab5e200f0de684d7dacce631a38dc70fe3d85d708752d215c16ad7f4a161"
+      },
+      "2": {
+        "source_ref": "1 Kings 5:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 16,
+            "source_ref": "1 Kings 5:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "18ff40e80dab48fdd0b08eecd2e04fef8d46cc6179c8081eed512f403194e016"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "18ff40e80dab48fdd0b08eecd2e04fef8d46cc6179c8081eed512f403194e016"
+      },
+      "3": {
+        "source_ref": "1 Kings 5:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 17,
+            "source_ref": "1 Kings 5:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ab421d235137f879530a2c8559019f168f6ac7e603977489bd77217a69732960"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ab421d235137f879530a2c8559019f168f6ac7e603977489bd77217a69732960"
+      },
+      "4": {
+        "source_ref": "1 Kings 5:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 18,
+            "source_ref": "1 Kings 5:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4e6b2c4fe7cf5cf236e7b75cdcba117009b27fbe9316606029366316a314d973"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4e6b2c4fe7cf5cf236e7b75cdcba117009b27fbe9316606029366316a314d973"
+      },
+      "5": {
+        "source_ref": "1 Kings 5:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 19,
+            "source_ref": "1 Kings 5:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "98aec08c6c05a5bb8fa31b83ca4916efff82d4cde9e23718e35fd90abb957ffc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "98aec08c6c05a5bb8fa31b83ca4916efff82d4cde9e23718e35fd90abb957ffc"
+      },
+      "6": {
+        "source_ref": "1 Kings 5:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 20,
+            "source_ref": "1 Kings 5:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "80ed780c37ac05e2d7be4bcc52d979db88ffd339406aa7dd7bb04e7777aeeab3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "80ed780c37ac05e2d7be4bcc52d979db88ffd339406aa7dd7bb04e7777aeeab3"
+      },
+      "7": {
+        "source_ref": "1 Kings 5:21 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 21,
+            "source_ref": "1 Kings 5:21 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "1e691beca6e7324c4e6acafc57ee3fb4b91a5eebc4e2e6a59fec74c6b2131900"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "1e691beca6e7324c4e6acafc57ee3fb4b91a5eebc4e2e6a59fec74c6b2131900"
+      },
+      "8": {
+        "source_ref": "1 Kings 5:22 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 22,
+            "source_ref": "1 Kings 5:22 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "80b1a8b2d62fe1165a81032ba6d1a2be7471f6e349ce7ae03ab5d1360f32154c"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "80b1a8b2d62fe1165a81032ba6d1a2be7471f6e349ce7ae03ab5d1360f32154c"
+      },
+      "9": {
+        "source_ref": "1 Kings 5:23 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 23,
+            "source_ref": "1 Kings 5:23 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "45a122377db20eac65ac454a7d4c03c364a9350ae9066b1b8f71b2051b4a27cd"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "45a122377db20eac65ac454a7d4c03c364a9350ae9066b1b8f71b2051b4a27cd"
+      },
+      "10": {
+        "source_ref": "1 Kings 5:24 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 24,
+            "source_ref": "1 Kings 5:24 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "48f43e71fdf5b418c53a39e6b811b018ce0fe10788478ce53450f005b0c444de"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "48f43e71fdf5b418c53a39e6b811b018ce0fe10788478ce53450f005b0c444de"
+      },
+      "11": {
+        "source_ref": "1 Kings 5:25 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 25,
+            "source_ref": "1 Kings 5:25 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "93ec25b2771aee8ba9e191324dc579782e14bb9ad9d66ca566a34117c2cb7fac"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "93ec25b2771aee8ba9e191324dc579782e14bb9ad9d66ca566a34117c2cb7fac"
+      },
+      "12": {
+        "source_ref": "1 Kings 5:26 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 26,
+            "source_ref": "1 Kings 5:26 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2b85e7dcb6b0c48457a3b60c18cc77d7892e40307c453326a07a5ddcdd13a7eb"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2b85e7dcb6b0c48457a3b60c18cc77d7892e40307c453326a07a5ddcdd13a7eb"
+      },
+      "13": {
+        "source_ref": "1 Kings 5:27 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 27,
+            "source_ref": "1 Kings 5:27 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6debd9faaaf0824a8f89a01bb745d713d4ee67b4835a7e5af1d9bac8540095cd"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6debd9faaaf0824a8f89a01bb745d713d4ee67b4835a7e5af1d9bac8540095cd"
+      },
+      "14": {
+        "source_ref": "1 Kings 5:28 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 28,
+            "source_ref": "1 Kings 5:28 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b07f7b8acbcebfd341581f17a6aec4d2d4a54884095afe297836128a12e435a0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b07f7b8acbcebfd341581f17a6aec4d2d4a54884095afe297836128a12e435a0"
+      },
+      "15": {
+        "source_ref": "1 Kings 5:29 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 29,
+            "source_ref": "1 Kings 5:29 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a0377522af65531defa13a2a17f2090ab031c173fd6644af378b65c3288a6ff6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a0377522af65531defa13a2a17f2090ab031c173fd6644af378b65c3288a6ff6"
+      },
+      "16": {
+        "source_ref": "1 Kings 5:30 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 30,
+            "source_ref": "1 Kings 5:30 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "65cdace176dac42e63f309e94b4614c54b409116f70b85cd211d5dd069001695"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "65cdace176dac42e63f309e94b4614c54b409116f70b85cd211d5dd069001695"
+      },
+      "17": {
+        "source_ref": "1 Kings 5:31 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 31,
+            "source_ref": "1 Kings 5:31 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "dda42e38d1bff48cf2af111b24d49a59a495aee350172440b4d53570860b9ea5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "dda42e38d1bff48cf2af111b24d49a59a495aee350172440b4d53570860b9ea5"
+      },
+      "18": {
+        "source_ref": "1 Kings 5:32 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 32,
+            "source_ref": "1 Kings 5:32 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "931069ecb99615a2f888d3262d7c4182451a06059b0543de8103dbfb55078411"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "931069ecb99615a2f888d3262d7c4182451a06059b0543de8103dbfb55078411"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1kings/1Kings_05.md",
+    "blob_sha": "caeeb6494a654faff87962df9df7431d5e6fa631"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
