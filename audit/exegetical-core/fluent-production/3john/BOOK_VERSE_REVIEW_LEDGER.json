@@ -1,0 +1,348 @@
+{
+  "book": "3 John",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/3John.txt",
+    "git_blob_sha": "023c167c50535f735e9b15d564f1bd83e10b7d6d"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "3 John 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "3 John 1:1",
+          "segment_mode": "whole",
+          "sha256": "bbfe2a4bc447e1cea9872bd069ac337fa646ad8bcb14deddde262b5e0ae8374c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bbfe2a4bc447e1cea9872bd069ac337fa646ad8bcb14deddde262b5e0ae8374c",
+      "translation_sha256": "cb8b500a9d18d882e332635f197520d0c6d44a3abfd15eec3ee52e66d4b82749",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "3 John 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "3 John 1:2",
+          "segment_mode": "whole",
+          "sha256": "cf78ac7d3c373a422426039a971a8ed882c474ecfa0277180b5afb30bb819877"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cf78ac7d3c373a422426039a971a8ed882c474ecfa0277180b5afb30bb819877",
+      "translation_sha256": "ba93ac2d7f35e85a2b8000642e6fa6311b365107a52a132726d936d13d2591dc",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "3 John 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "3 John 1:3",
+          "segment_mode": "whole",
+          "sha256": "222c60816c2e95ab7be7ef093f0e7d95c8ee1083f11b39fa2775f5f35948c25d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "222c60816c2e95ab7be7ef093f0e7d95c8ee1083f11b39fa2775f5f35948c25d",
+      "translation_sha256": "440c04c620b29dc5c8ca1d548a5ab5226392df0e0b4c7501a2e86dc26b5542d1",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "3 John 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "3 John 1:4",
+          "segment_mode": "whole",
+          "sha256": "deaa2fa0a6faaa386f3805923b9c6ba47e9c4b95dcc21dbca1ddafd3b77f6df1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "deaa2fa0a6faaa386f3805923b9c6ba47e9c4b95dcc21dbca1ddafd3b77f6df1",
+      "translation_sha256": "3ec9f7e761a7f2152e18c3e4e9ab6ecbd9ecd26ab348637b3db0114c32f5da60",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "3 John 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "3 John 1:5",
+          "segment_mode": "whole",
+          "sha256": "0ad21fc7455ffdbbeb03b08375f18e62d0f6e65042b309e2f6a11b57b0afe5a9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0ad21fc7455ffdbbeb03b08375f18e62d0f6e65042b309e2f6a11b57b0afe5a9",
+      "translation_sha256": "a4b1d2909fcbc3a45c59856e89deb19f7bedb2bc85880ec7e2845bb08a031e2e",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": [
+        "Frame hospitality as active participation in the truth."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "3 John 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "3 John 1:6",
+          "segment_mode": "whole",
+          "sha256": "f996df1cdb512159a97fbc43094efa513470e4a92215b5c142bf4dbe55284315"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f996df1cdb512159a97fbc43094efa513470e4a92215b5c142bf4dbe55284315",
+      "translation_sha256": "8e5ea5d3f4ce715e995f0e2bf644b0405092bb5373c7754539316fe0d92bc3d6",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": [
+        "Frame hospitality as active participation in the truth."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "3 John 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "3 John 1:7",
+          "segment_mode": "whole",
+          "sha256": "b21cb1fc9630fd2dada23c4a4dda20a0bf1a7025a4d96dfd6323f6c17390a5a7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b21cb1fc9630fd2dada23c4a4dda20a0bf1a7025a4d96dfd6323f6c17390a5a7",
+      "translation_sha256": "394dcd7d8ba5ce2a3a42cc5c7d3d2e8efc0c408d648a4740c5173a3f1b0c209a",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": [
+        "Frame hospitality as active participation in the truth."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "3 John 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "3 John 1:8",
+          "segment_mode": "whole",
+          "sha256": "cc44e2ccc5e8d202869f93ca6fa63f2ce9d98f304e90c124ad89d1132a3e5ecc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cc44e2ccc5e8d202869f93ca6fa63f2ce9d98f304e90c124ad89d1132a3e5ecc",
+      "translation_sha256": "a357266ec77114b0dc5804b4f9bfcce1bc340419345285249a27624f8c569d06",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": [
+        "Frame hospitality as active participation in the truth."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "3 John 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "3 John 1:9",
+          "segment_mode": "whole",
+          "sha256": "90d1ae74824edbd6c679993ae1c348152dde39aefa8e2c07674b84f330047f6c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "90d1ae74824edbd6c679993ae1c348152dde39aefa8e2c07674b84f330047f6c",
+      "translation_sha256": "995623ffdef2b4db62b57e3b200e6050e5ab25cf4eedbd1e3fe730bfad042e9d",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": [
+        "Keep Diotrephes' love of preeminence tied to exclusionary speech and action."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "3 John 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "3 John 1:10",
+          "segment_mode": "whole",
+          "sha256": "d3f80dd4e13d37c327fac4fa61a7b6f467bd55ffaba6e7ea8c10118d7370f371"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d3f80dd4e13d37c327fac4fa61a7b6f467bd55ffaba6e7ea8c10118d7370f371",
+      "translation_sha256": "dabac156ceddebb7ddca423da732121b92160303461ecb604c24f9ac9973ad2c",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": [
+        "Keep Diotrephes' love of preeminence tied to exclusionary speech and action."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "3 John 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "3 John 1:11",
+          "segment_mode": "whole",
+          "sha256": "a869d3ab550754e0b1ad4c8ff7aabc4c15444edbcb22b3b753f037098be14135"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a869d3ab550754e0b1ad4c8ff7aabc4c15444edbcb22b3b753f037098be14135",
+      "translation_sha256": "3cd78a4bab4dd1665d9020874b905b0827c225ba33e7c08335120f5a58ec6acc",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "3 John 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "3 John 1:12",
+          "segment_mode": "whole",
+          "sha256": "ee11ee5fca2583c2c21b2b2c8065b6c2950f4c62f55c7c0f556194ed59b40101"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ee11ee5fca2583c2c21b2b2c8065b6c2950f4c62f55c7c0f556194ed59b40101",
+      "translation_sha256": "c2eb2b915d44d909647a77e38f9522354b194a4faf84b58cdfae16b1bcafbe65",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "3 John 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "3 John 1:13",
+          "segment_mode": "whole",
+          "sha256": "80883a2f72850253cf42e2605d0ca7b6ff72b6bfb2f9f31b8dd7ff90f4021f9c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "80883a2f72850253cf42e2605d0ca7b6ff72b6bfb2f9f31b8dd7ff90f4021f9c",
+      "translation_sha256": "361d0c16088f832b13385ef5ca8f7c565bd1b48527e34b3254730f94f71ac00a",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "3 John 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "3 John 1:14",
+          "segment_mode": "whole",
+          "sha256": "197069a9030d447e0898850405a83b0be0a5dbf2cc89ab0fc94c9ea1945758a7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "197069a9030d447e0898850405a83b0be0a5dbf2cc89ab0fc94c9ea1945758a7",
+      "translation_sha256": "98fc1ee9228e3856c89558abb96eb390313bb38e86fb5a107d1b5396ecbd0ec4",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "3 John 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "3 John 1:15",
+          "segment_mode": "whole",
+          "sha256": "d071e170ef2ab66c809aa2f7d7fca1504b4ea3c81e7728ea041309baaf177aa3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d071e170ef2ab66c809aa2f7d7fca1504b4ea3c81e7728ea041309baaf177aa3",
+      "translation_sha256": "83fd2b166194027e36adcd38493140d6b306d6f98aeed4c79dc9828168b56a72",
+      "tsw_blob_sha": "7428a74bd477dbcd25213ebe2715a3336110b1d8",
+      "curated_decisions": []
+    }
+  ],
+  "summary": {
+    "F0": 8,
+    "F1": 1,
+    "F2": 0,
+    "F3": 6
+  },
+  "public_verse_slots": 15,
+  "included_source_bindings": 15
+}
