@@ -1,0 +1,711 @@
+{
+  "book": "Daniel",
+  "chapter": 11,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Dan.xml",
+    "git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Dan.xml",
+    "git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Daniel 11:1",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 1,
+            "source_ref": "Daniel 11:1",
+            "segment_mode": "whole",
+            "sha256": "bd7fe9ee7f186750bb4904da5cb38298a0202eb5ab2a488e9cde5903f7c17c02"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd7fe9ee7f186750bb4904da5cb38298a0202eb5ab2a488e9cde5903f7c17c02"
+      },
+      "2": {
+        "source_ref": "Daniel 11:2",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 2,
+            "source_ref": "Daniel 11:2",
+            "segment_mode": "whole",
+            "sha256": "c92c1e8202cd41ed242cf492de0e2ab7cdfb2ddf76648b51230ac2b18872f829"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c92c1e8202cd41ed242cf492de0e2ab7cdfb2ddf76648b51230ac2b18872f829"
+      },
+      "3": {
+        "source_ref": "Daniel 11:3",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 3,
+            "source_ref": "Daniel 11:3",
+            "segment_mode": "whole",
+            "sha256": "d28258d27150addf6df5d99c6159713804d742e50195a1c327a95fd784bf280a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d28258d27150addf6df5d99c6159713804d742e50195a1c327a95fd784bf280a"
+      },
+      "4": {
+        "source_ref": "Daniel 11:4",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 4,
+            "source_ref": "Daniel 11:4",
+            "segment_mode": "whole",
+            "sha256": "48d6e7e1b8d60396993b60c4a50aa1a42fc7cbf0a0d7df9d065489643b9f0b90"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48d6e7e1b8d60396993b60c4a50aa1a42fc7cbf0a0d7df9d065489643b9f0b90"
+      },
+      "5": {
+        "source_ref": "Daniel 11:5",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 5,
+            "source_ref": "Daniel 11:5",
+            "segment_mode": "whole",
+            "sha256": "2bb93d873f6d047034eec4763914b99b3083668dc95decffb17a3cf7be1b78b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2bb93d873f6d047034eec4763914b99b3083668dc95decffb17a3cf7be1b78b7"
+      },
+      "6": {
+        "source_ref": "Daniel 11:6",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 6,
+            "source_ref": "Daniel 11:6",
+            "segment_mode": "whole",
+            "sha256": "770de3d72cee13b4020489bdc5fc60615c0b9ac4fc190a25cbe007fef8fbb7b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "770de3d72cee13b4020489bdc5fc60615c0b9ac4fc190a25cbe007fef8fbb7b0"
+      },
+      "7": {
+        "source_ref": "Daniel 11:7",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 7,
+            "source_ref": "Daniel 11:7",
+            "segment_mode": "whole",
+            "sha256": "ec042155f7d3fbcc3f4277b4b1660f7914ab6ea41885119e29d11329abd12221"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec042155f7d3fbcc3f4277b4b1660f7914ab6ea41885119e29d11329abd12221"
+      },
+      "8": {
+        "source_ref": "Daniel 11:8",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 8,
+            "source_ref": "Daniel 11:8",
+            "segment_mode": "whole",
+            "sha256": "e818051df38d32bf55e47c4ee1944f1f241b2b2dfeba6266a26e9bc7fcb9924a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e818051df38d32bf55e47c4ee1944f1f241b2b2dfeba6266a26e9bc7fcb9924a"
+      },
+      "9": {
+        "source_ref": "Daniel 11:9",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 9,
+            "source_ref": "Daniel 11:9",
+            "segment_mode": "whole",
+            "sha256": "36bc3728af99f6b30d48097e0c9cb492662fd1c1603279072874d3339530c3b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36bc3728af99f6b30d48097e0c9cb492662fd1c1603279072874d3339530c3b1"
+      },
+      "10": {
+        "source_ref": "Daniel 11:10",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 10,
+            "source_ref": "Daniel 11:10",
+            "segment_mode": "whole",
+            "sha256": "61e0947e505ef2900c82b4f695484678b4fa64ddea1d4cfdd34747b8779480e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "61e0947e505ef2900c82b4f695484678b4fa64ddea1d4cfdd34747b8779480e2"
+      },
+      "11": {
+        "source_ref": "Daniel 11:11",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 11,
+            "source_ref": "Daniel 11:11",
+            "segment_mode": "whole",
+            "sha256": "05e2b7f829b631791560d556f5712f9a92186f62d4ab3a4dfcf1c6d30e9da27e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "05e2b7f829b631791560d556f5712f9a92186f62d4ab3a4dfcf1c6d30e9da27e"
+      },
+      "12": {
+        "source_ref": "Daniel 11:12",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 12,
+            "source_ref": "Daniel 11:12",
+            "segment_mode": "whole",
+            "sha256": "776685bb11017843292687582d351b98888b71d03f6d569d8a1ac921759ad499"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "776685bb11017843292687582d351b98888b71d03f6d569d8a1ac921759ad499"
+      },
+      "13": {
+        "source_ref": "Daniel 11:13",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 13,
+            "source_ref": "Daniel 11:13",
+            "segment_mode": "whole",
+            "sha256": "4cdc4c3004e28e93abbe27586df308fc289350b2e9bd2d8ee43249d17372fc08"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4cdc4c3004e28e93abbe27586df308fc289350b2e9bd2d8ee43249d17372fc08"
+      },
+      "14": {
+        "source_ref": "Daniel 11:14",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 14,
+            "source_ref": "Daniel 11:14",
+            "segment_mode": "whole",
+            "sha256": "0bb1c7d1c47e778c33acb1423b37c3e82c4503d3b64f5099e08688258b201816"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0bb1c7d1c47e778c33acb1423b37c3e82c4503d3b64f5099e08688258b201816"
+      },
+      "15": {
+        "source_ref": "Daniel 11:15",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 15,
+            "source_ref": "Daniel 11:15",
+            "segment_mode": "whole",
+            "sha256": "84404a92eadd4a01d62b8d87f525f1e5ebbe7c5385fff352231f9976817b4000"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "84404a92eadd4a01d62b8d87f525f1e5ebbe7c5385fff352231f9976817b4000"
+      },
+      "16": {
+        "source_ref": "Daniel 11:16",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 16,
+            "source_ref": "Daniel 11:16",
+            "segment_mode": "whole",
+            "sha256": "2386dd7afae765eb15b6cf1b008078681369ed2b35412f92499c8f2f9831124a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2386dd7afae765eb15b6cf1b008078681369ed2b35412f92499c8f2f9831124a"
+      },
+      "17": {
+        "source_ref": "Daniel 11:17",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 17,
+            "source_ref": "Daniel 11:17",
+            "segment_mode": "whole",
+            "sha256": "82d3322069a1f5145fd1799421dcacd513f61caedc84ab0599d0df0d9b0a7ecb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82d3322069a1f5145fd1799421dcacd513f61caedc84ab0599d0df0d9b0a7ecb"
+      },
+      "18": {
+        "source_ref": "Daniel 11:18",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 18,
+            "source_ref": "Daniel 11:18",
+            "segment_mode": "whole",
+            "sha256": "6d2af4b2a7e4814f11e8413cf3c882068f73b7709576ebe16c7c80a8aaa5d585"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6d2af4b2a7e4814f11e8413cf3c882068f73b7709576ebe16c7c80a8aaa5d585"
+      },
+      "19": {
+        "source_ref": "Daniel 11:19",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 19,
+            "source_ref": "Daniel 11:19",
+            "segment_mode": "whole",
+            "sha256": "5a7de82e2a63db4cb62e502d29131e06dfc19d114f7e765f33f3a39057aa245b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a7de82e2a63db4cb62e502d29131e06dfc19d114f7e765f33f3a39057aa245b"
+      },
+      "20": {
+        "source_ref": "Daniel 11:20",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 20,
+            "source_ref": "Daniel 11:20",
+            "segment_mode": "whole",
+            "sha256": "bdcaea3031d65342b512ef44191377ca88d2f70e23ce1ce6a83876a0a2e60052"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bdcaea3031d65342b512ef44191377ca88d2f70e23ce1ce6a83876a0a2e60052"
+      },
+      "21": {
+        "source_ref": "Daniel 11:21",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 21,
+            "source_ref": "Daniel 11:21",
+            "segment_mode": "whole",
+            "sha256": "bd8ec3c31796c3542766f448778d893859083b8a52e9f49afd89cdaf44538b6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd8ec3c31796c3542766f448778d893859083b8a52e9f49afd89cdaf44538b6a"
+      },
+      "22": {
+        "source_ref": "Daniel 11:22",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 22,
+            "source_ref": "Daniel 11:22",
+            "segment_mode": "whole",
+            "sha256": "9a1a69a4e718d9749cbfae1337ca8ccaca08c22ea31154a5a427b3571bd61283"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a1a69a4e718d9749cbfae1337ca8ccaca08c22ea31154a5a427b3571bd61283"
+      },
+      "23": {
+        "source_ref": "Daniel 11:23",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 23,
+            "source_ref": "Daniel 11:23",
+            "segment_mode": "whole",
+            "sha256": "09eca4cfb9926ba1ff671dc4d67ab04c40b995dc0882ba34e5ed76ba8d3852cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09eca4cfb9926ba1ff671dc4d67ab04c40b995dc0882ba34e5ed76ba8d3852cb"
+      },
+      "24": {
+        "source_ref": "Daniel 11:24",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 24,
+            "source_ref": "Daniel 11:24",
+            "segment_mode": "whole",
+            "sha256": "975658d186a97011c9fc41e7a57a7cc346cc5ed9dd0db4d1646d369fd1dc264f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "975658d186a97011c9fc41e7a57a7cc346cc5ed9dd0db4d1646d369fd1dc264f"
+      },
+      "25": {
+        "source_ref": "Daniel 11:25",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 25,
+            "source_ref": "Daniel 11:25",
+            "segment_mode": "whole",
+            "sha256": "93a0a2efe67a1a0b3368e4e4dc464c37f7c968326fce06199f89f8876dced8fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93a0a2efe67a1a0b3368e4e4dc464c37f7c968326fce06199f89f8876dced8fa"
+      },
+      "26": {
+        "source_ref": "Daniel 11:26",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 26,
+            "source_ref": "Daniel 11:26",
+            "segment_mode": "whole",
+            "sha256": "ed8bf42b3edf9cf39836b7af4b49499744f5dfda1f93f2f807e98b4db098759d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed8bf42b3edf9cf39836b7af4b49499744f5dfda1f93f2f807e98b4db098759d"
+      },
+      "27": {
+        "source_ref": "Daniel 11:27",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 27,
+            "source_ref": "Daniel 11:27",
+            "segment_mode": "whole",
+            "sha256": "dcac33442d0690d14dce9605b990a961e40cb46a8364c7aa3413c8f41e3702c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dcac33442d0690d14dce9605b990a961e40cb46a8364c7aa3413c8f41e3702c2"
+      },
+      "28": {
+        "source_ref": "Daniel 11:28",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 28,
+            "source_ref": "Daniel 11:28",
+            "segment_mode": "whole",
+            "sha256": "e5faee2a0add0a1117dbdf917febd2e86ac62c298adfd8e489ed1c4e87544c08"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5faee2a0add0a1117dbdf917febd2e86ac62c298adfd8e489ed1c4e87544c08"
+      },
+      "29": {
+        "source_ref": "Daniel 11:29",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 29,
+            "source_ref": "Daniel 11:29",
+            "segment_mode": "whole",
+            "sha256": "1c19480aa6d14f35017ad4e9c1657ce49254c6ac8a66f0b386d58954acd0fb11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1c19480aa6d14f35017ad4e9c1657ce49254c6ac8a66f0b386d58954acd0fb11"
+      },
+      "30": {
+        "source_ref": "Daniel 11:30",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 30,
+            "source_ref": "Daniel 11:30",
+            "segment_mode": "whole",
+            "sha256": "f4dd43e62f1c9115b3fffafd6b4caa9d7d4582aeb4d830d1daa1f93cb57974d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4dd43e62f1c9115b3fffafd6b4caa9d7d4582aeb4d830d1daa1f93cb57974d3"
+      },
+      "31": {
+        "source_ref": "Daniel 11:31",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 31,
+            "source_ref": "Daniel 11:31",
+            "segment_mode": "whole",
+            "sha256": "4028fab96857aed46e99a6da7289a94d95adcb8816cd2f624027eebdb62e4251"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4028fab96857aed46e99a6da7289a94d95adcb8816cd2f624027eebdb62e4251"
+      },
+      "32": {
+        "source_ref": "Daniel 11:32",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 32,
+            "source_ref": "Daniel 11:32",
+            "segment_mode": "whole",
+            "sha256": "5b4b9149bee8569fc2bf362a23009b41a40770c9cb1e92993ee8b5d4836ed2ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b4b9149bee8569fc2bf362a23009b41a40770c9cb1e92993ee8b5d4836ed2ad"
+      },
+      "33": {
+        "source_ref": "Daniel 11:33",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 33,
+            "source_ref": "Daniel 11:33",
+            "segment_mode": "whole",
+            "sha256": "8cbee9b499a20c5edc0f8071f61d5cebc4748e6282b1334df0207cd58777edff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8cbee9b499a20c5edc0f8071f61d5cebc4748e6282b1334df0207cd58777edff"
+      },
+      "34": {
+        "source_ref": "Daniel 11:34",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 34,
+            "source_ref": "Daniel 11:34",
+            "segment_mode": "whole",
+            "sha256": "2d225588b3177c75c7586abe8e89cb1718e1525f2d8219ebf7a41af9362757a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d225588b3177c75c7586abe8e89cb1718e1525f2d8219ebf7a41af9362757a6"
+      },
+      "35": {
+        "source_ref": "Daniel 11:35",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 35,
+            "source_ref": "Daniel 11:35",
+            "segment_mode": "whole",
+            "sha256": "6083672985d576701cefed03fb6e62425a69d7c0e9243f94582470f9940d9e53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6083672985d576701cefed03fb6e62425a69d7c0e9243f94582470f9940d9e53"
+      },
+      "36": {
+        "source_ref": "Daniel 11:36",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 36,
+            "source_ref": "Daniel 11:36",
+            "segment_mode": "whole",
+            "sha256": "f8bdaf307f1f20653473c1de696892f30134b0f6355e2b81a4c8169483641566"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8bdaf307f1f20653473c1de696892f30134b0f6355e2b81a4c8169483641566"
+      },
+      "37": {
+        "source_ref": "Daniel 11:37",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 37,
+            "source_ref": "Daniel 11:37",
+            "segment_mode": "whole",
+            "sha256": "0181999e17597cc4295e4de376c7d2a6e9ef0ea8d6bf4d8e4d532f8cdb7d4556"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0181999e17597cc4295e4de376c7d2a6e9ef0ea8d6bf4d8e4d532f8cdb7d4556"
+      },
+      "38": {
+        "source_ref": "Daniel 11:38",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 38,
+            "source_ref": "Daniel 11:38",
+            "segment_mode": "whole",
+            "sha256": "6f9cf1c73194b6f2f4dcb4c452c68ea2a4c3caae9c262af1b8ff3aac1af6cba6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f9cf1c73194b6f2f4dcb4c452c68ea2a4c3caae9c262af1b8ff3aac1af6cba6"
+      },
+      "39": {
+        "source_ref": "Daniel 11:39",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 39,
+            "source_ref": "Daniel 11:39",
+            "segment_mode": "whole",
+            "sha256": "9c22c89486bb50c26602448d5b6dfd1966c3e7fd47e5b5970cc7fd8b7c8af1e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9c22c89486bb50c26602448d5b6dfd1966c3e7fd47e5b5970cc7fd8b7c8af1e1"
+      },
+      "40": {
+        "source_ref": "Daniel 11:40",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 40,
+            "source_ref": "Daniel 11:40",
+            "segment_mode": "whole",
+            "sha256": "e485c4f1048e4c5cde11104a44992cf02829b40a16405924ea61c56fbf78577f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e485c4f1048e4c5cde11104a44992cf02829b40a16405924ea61c56fbf78577f"
+      },
+      "41": {
+        "source_ref": "Daniel 11:41",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 41,
+            "source_ref": "Daniel 11:41",
+            "segment_mode": "whole",
+            "sha256": "adfe87486e7983379be64f687e08a2350b1076f4105d13a5422cdbaea5446069"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "adfe87486e7983379be64f687e08a2350b1076f4105d13a5422cdbaea5446069"
+      },
+      "42": {
+        "source_ref": "Daniel 11:42",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 42,
+            "source_ref": "Daniel 11:42",
+            "segment_mode": "whole",
+            "sha256": "2b05621aace705daf370b54f2efdede2e13f14862880df9124c6b07e18c722d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b05621aace705daf370b54f2efdede2e13f14862880df9124c6b07e18c722d9"
+      },
+      "43": {
+        "source_ref": "Daniel 11:43",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 43,
+            "source_ref": "Daniel 11:43",
+            "segment_mode": "whole",
+            "sha256": "e292159831b3c76bbb4e09d4587c05bfb2f955e35267f249733a3aaa035aa41f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e292159831b3c76bbb4e09d4587c05bfb2f955e35267f249733a3aaa035aa41f"
+      },
+      "44": {
+        "source_ref": "Daniel 11:44",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 44,
+            "source_ref": "Daniel 11:44",
+            "segment_mode": "whole",
+            "sha256": "022f8d6f14ec9f6e8c3f87846669c0b9ac86293fa693e1900632373b9a5cadca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "022f8d6f14ec9f6e8c3f87846669c0b9ac86293fa693e1900632373b9a5cadca"
+      },
+      "45": {
+        "source_ref": "Daniel 11:45",
+        "source_records": [
+          {
+            "chapter": 11,
+            "verse": 45,
+            "source_ref": "Daniel 11:45",
+            "segment_mode": "whole",
+            "sha256": "e7d327ba03233af57b88e1bc56e2071f644c0294beed7287c14f63a2d071852f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e7d327ba03233af57b88e1bc56e2071f644c0294beed7287c14f63a2d071852f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/daniel/Daniel_11.md",
+    "blob_sha": "156fa0922e1c45aa5c230ea7ee6669cf3524130e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

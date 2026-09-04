@@ -1,0 +1,231 @@
+{
+  "book": "Daniel",
+  "chapter": 12,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Dan.xml",
+    "git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Dan.xml",
+    "git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Daniel 12:1",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 1,
+            "source_ref": "Daniel 12:1",
+            "segment_mode": "whole",
+            "sha256": "4eb3b50ad90707ebc43e9bf30834c15daf19bdfce395559a19912ec9f5f22d7e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4eb3b50ad90707ebc43e9bf30834c15daf19bdfce395559a19912ec9f5f22d7e"
+      },
+      "2": {
+        "source_ref": "Daniel 12:2",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 2,
+            "source_ref": "Daniel 12:2",
+            "segment_mode": "whole",
+            "sha256": "ba04acfe19372ebeed41ffdab95d6425e9f4f0db6ddd777cdddcc0d2c3b2ea94"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba04acfe19372ebeed41ffdab95d6425e9f4f0db6ddd777cdddcc0d2c3b2ea94"
+      },
+      "3": {
+        "source_ref": "Daniel 12:3",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 3,
+            "source_ref": "Daniel 12:3",
+            "segment_mode": "whole",
+            "sha256": "4cd0804fbd646fb6b90ca278917c98325ea7519a467046af73a31639962c6abf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4cd0804fbd646fb6b90ca278917c98325ea7519a467046af73a31639962c6abf"
+      },
+      "4": {
+        "source_ref": "Daniel 12:4",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 4,
+            "source_ref": "Daniel 12:4",
+            "segment_mode": "whole",
+            "sha256": "0304f3a5a8315c5f0e4647dd9e9addc43c9bd3af557c1b9855d12cc462f81ee9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0304f3a5a8315c5f0e4647dd9e9addc43c9bd3af557c1b9855d12cc462f81ee9"
+      },
+      "5": {
+        "source_ref": "Daniel 12:5",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 5,
+            "source_ref": "Daniel 12:5",
+            "segment_mode": "whole",
+            "sha256": "192e7d75459acaf1a9e75f806f6d690961c5dbc4e82046c2b91f9572f87bf39f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "192e7d75459acaf1a9e75f806f6d690961c5dbc4e82046c2b91f9572f87bf39f"
+      },
+      "6": {
+        "source_ref": "Daniel 12:6",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 6,
+            "source_ref": "Daniel 12:6",
+            "segment_mode": "whole",
+            "sha256": "25a8fb3e97c87ec80f136f91dc8164de9b70719961dff61d41fb2564f94f1e23"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25a8fb3e97c87ec80f136f91dc8164de9b70719961dff61d41fb2564f94f1e23"
+      },
+      "7": {
+        "source_ref": "Daniel 12:7",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 7,
+            "source_ref": "Daniel 12:7",
+            "segment_mode": "whole",
+            "sha256": "1d1302fe7df425256d72d4ae571a6db704bdc5851b560d271e7c5075cd18e0c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d1302fe7df425256d72d4ae571a6db704bdc5851b560d271e7c5075cd18e0c1"
+      },
+      "8": {
+        "source_ref": "Daniel 12:8",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 8,
+            "source_ref": "Daniel 12:8",
+            "segment_mode": "whole",
+            "sha256": "3d168f9fd637ecdc217b67882fe1ac4a8092e3d8cb8d550088a5508f6f6044c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d168f9fd637ecdc217b67882fe1ac4a8092e3d8cb8d550088a5508f6f6044c2"
+      },
+      "9": {
+        "source_ref": "Daniel 12:9",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 9,
+            "source_ref": "Daniel 12:9",
+            "segment_mode": "whole",
+            "sha256": "e3db7b7537d1f2017d131cbeb1adbd22fa46e5e7656ff09596fd1eabf985152d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3db7b7537d1f2017d131cbeb1adbd22fa46e5e7656ff09596fd1eabf985152d"
+      },
+      "10": {
+        "source_ref": "Daniel 12:10",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 10,
+            "source_ref": "Daniel 12:10",
+            "segment_mode": "whole",
+            "sha256": "a23d8d054b623a9dec1844c823ddad697c50f0e00d42fc89c6f933d36203d2ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a23d8d054b623a9dec1844c823ddad697c50f0e00d42fc89c6f933d36203d2ab"
+      },
+      "11": {
+        "source_ref": "Daniel 12:11",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 11,
+            "source_ref": "Daniel 12:11",
+            "segment_mode": "whole",
+            "sha256": "55431c09b43d3ba3d713294c9bd9843740c19bf696642be2f02f3dcb86bbd64a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "55431c09b43d3ba3d713294c9bd9843740c19bf696642be2f02f3dcb86bbd64a"
+      },
+      "12": {
+        "source_ref": "Daniel 12:12",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 12,
+            "source_ref": "Daniel 12:12",
+            "segment_mode": "whole",
+            "sha256": "6790e0fd429958be9c4d5143e4d284400c33991347ff56957f634a01cac3a948"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6790e0fd429958be9c4d5143e4d284400c33991347ff56957f634a01cac3a948"
+      },
+      "13": {
+        "source_ref": "Daniel 12:13",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 13,
+            "source_ref": "Daniel 12:13",
+            "segment_mode": "whole",
+            "sha256": "e4a30990b3115fd6bff37826c0076c94bfe291af96c472d68cf5cebb4ab6a9dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4a30990b3115fd6bff37826c0076c94bfe291af96c472d68cf5cebb4ab6a9dd"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/daniel/Daniel_12.md",
+    "blob_sha": "974606d07fe5f18089db83e25980d87a74128833"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,357 @@
+{
+  "book": "Daniel",
+  "chapter": 10,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Dan.xml",
+    "git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "10:1-12:13",
+      "decision": "Preserve apocalyptic conflict, persecution, endurance, resurrection hope, and sealed knowledge without mapping every figure onto current events.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Dan.xml",
+    "git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Daniel 10:1",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 1,
+            "source_ref": "Daniel 10:1",
+            "segment_mode": "whole",
+            "sha256": "85aded836b4de5cb60b38bb2dc00586e999ff7c46a7fbae36baa082b945ea72a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "85aded836b4de5cb60b38bb2dc00586e999ff7c46a7fbae36baa082b945ea72a"
+      },
+      "2": {
+        "source_ref": "Daniel 10:2",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 2,
+            "source_ref": "Daniel 10:2",
+            "segment_mode": "whole",
+            "sha256": "6152721b54f46507acdffb8ec39566c9e618d1edec787ddaef66026b48328611"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6152721b54f46507acdffb8ec39566c9e618d1edec787ddaef66026b48328611"
+      },
+      "3": {
+        "source_ref": "Daniel 10:3",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 3,
+            "source_ref": "Daniel 10:3",
+            "segment_mode": "whole",
+            "sha256": "197216a23a04c360a9b9a09f33d6408d25e7293c131a75b8729a97cf95e652ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "197216a23a04c360a9b9a09f33d6408d25e7293c131a75b8729a97cf95e652ec"
+      },
+      "4": {
+        "source_ref": "Daniel 10:4",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 4,
+            "source_ref": "Daniel 10:4",
+            "segment_mode": "whole",
+            "sha256": "aec8cdb57f0b5c944dca5d65a3d521772ebcd9c07626a81f7920858e6983654b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aec8cdb57f0b5c944dca5d65a3d521772ebcd9c07626a81f7920858e6983654b"
+      },
+      "5": {
+        "source_ref": "Daniel 10:5",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 5,
+            "source_ref": "Daniel 10:5",
+            "segment_mode": "whole",
+            "sha256": "d17f2383012b4d810afa40324257fc7a7b5db97f80ce61ae71bf935000e8da46"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d17f2383012b4d810afa40324257fc7a7b5db97f80ce61ae71bf935000e8da46"
+      },
+      "6": {
+        "source_ref": "Daniel 10:6",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 6,
+            "source_ref": "Daniel 10:6",
+            "segment_mode": "whole",
+            "sha256": "700fc2d4ae8efe7d361bf57025be49b03f64bf10fa67e85837adc65e650675eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "700fc2d4ae8efe7d361bf57025be49b03f64bf10fa67e85837adc65e650675eb"
+      },
+      "7": {
+        "source_ref": "Daniel 10:7",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 7,
+            "source_ref": "Daniel 10:7",
+            "segment_mode": "whole",
+            "sha256": "c01eb9da61e4504f428a778d24d1d9be4f688cebdf1fafa67d1a455effa376e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c01eb9da61e4504f428a778d24d1d9be4f688cebdf1fafa67d1a455effa376e2"
+      },
+      "8": {
+        "source_ref": "Daniel 10:8",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 8,
+            "source_ref": "Daniel 10:8",
+            "segment_mode": "whole",
+            "sha256": "56acf4b3e06b598e1c453d71cfb0bdff950c53fedf0965c95b3bdb9e759fd660"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56acf4b3e06b598e1c453d71cfb0bdff950c53fedf0965c95b3bdb9e759fd660"
+      },
+      "9": {
+        "source_ref": "Daniel 10:9",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 9,
+            "source_ref": "Daniel 10:9",
+            "segment_mode": "whole",
+            "sha256": "e4efb66256a7497c8705e8a9e368adedc21560401fa850df06db166816cc3398"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4efb66256a7497c8705e8a9e368adedc21560401fa850df06db166816cc3398"
+      },
+      "10": {
+        "source_ref": "Daniel 10:10",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 10,
+            "source_ref": "Daniel 10:10",
+            "segment_mode": "whole",
+            "sha256": "e654ceba9bbc2808a8cbe24580c30f877dfb38b3f8f1886003c4c16e8e06abdb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e654ceba9bbc2808a8cbe24580c30f877dfb38b3f8f1886003c4c16e8e06abdb"
+      },
+      "11": {
+        "source_ref": "Daniel 10:11",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 11,
+            "source_ref": "Daniel 10:11",
+            "segment_mode": "whole",
+            "sha256": "91119b17156b9beca0e877485f82f96e44ea964b47dd00085da552fe1e6f38cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91119b17156b9beca0e877485f82f96e44ea964b47dd00085da552fe1e6f38cf"
+      },
+      "12": {
+        "source_ref": "Daniel 10:12",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 12,
+            "source_ref": "Daniel 10:12",
+            "segment_mode": "whole",
+            "sha256": "a7f816e5c0cc1c08146ba97935782a6697a8102419e6aec49c057f5ea15d189b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a7f816e5c0cc1c08146ba97935782a6697a8102419e6aec49c057f5ea15d189b"
+      },
+      "13": {
+        "source_ref": "Daniel 10:13",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 13,
+            "source_ref": "Daniel 10:13",
+            "segment_mode": "whole",
+            "sha256": "fda838ef31b8f27762fa9b2d26a1e2e18994a25f49275fdaff1f80edc28ec190"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fda838ef31b8f27762fa9b2d26a1e2e18994a25f49275fdaff1f80edc28ec190"
+      },
+      "14": {
+        "source_ref": "Daniel 10:14",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 14,
+            "source_ref": "Daniel 10:14",
+            "segment_mode": "whole",
+            "sha256": "e4ea532bd61a9086a10415108e94a47d5fc206d71b1892c23e6738f509887823"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4ea532bd61a9086a10415108e94a47d5fc206d71b1892c23e6738f509887823"
+      },
+      "15": {
+        "source_ref": "Daniel 10:15",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 15,
+            "source_ref": "Daniel 10:15",
+            "segment_mode": "whole",
+            "sha256": "9a4d5b51bc45735cc5a765e53a681a7d6e1e47f9385caa9289881059098cdfe1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a4d5b51bc45735cc5a765e53a681a7d6e1e47f9385caa9289881059098cdfe1"
+      },
+      "16": {
+        "source_ref": "Daniel 10:16",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 16,
+            "source_ref": "Daniel 10:16",
+            "segment_mode": "whole",
+            "sha256": "fd2c0bc56e075503f3b8bb3a3532fd5cc8563122cf9ffa5372733b31e78d070e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd2c0bc56e075503f3b8bb3a3532fd5cc8563122cf9ffa5372733b31e78d070e"
+      },
+      "17": {
+        "source_ref": "Daniel 10:17",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 17,
+            "source_ref": "Daniel 10:17",
+            "segment_mode": "whole",
+            "sha256": "611aaed5bdd718267b9fb1671ad2306a1979caba5dcd76daf92aad8c38f75466"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "611aaed5bdd718267b9fb1671ad2306a1979caba5dcd76daf92aad8c38f75466"
+      },
+      "18": {
+        "source_ref": "Daniel 10:18",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 18,
+            "source_ref": "Daniel 10:18",
+            "segment_mode": "whole",
+            "sha256": "886d95f63c799b95cc3da350a75c91f75eb21a00c3464d680579c48d86d08117"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "886d95f63c799b95cc3da350a75c91f75eb21a00c3464d680579c48d86d08117"
+      },
+      "19": {
+        "source_ref": "Daniel 10:19",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 19,
+            "source_ref": "Daniel 10:19",
+            "segment_mode": "whole",
+            "sha256": "6359e70f9462b4dad79b8485a985e4f133d8de2854aca852cd2df30ab46d5289"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6359e70f9462b4dad79b8485a985e4f133d8de2854aca852cd2df30ab46d5289"
+      },
+      "20": {
+        "source_ref": "Daniel 10:20",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 20,
+            "source_ref": "Daniel 10:20",
+            "segment_mode": "whole",
+            "sha256": "46a335fefa1e3dd018f87a000df3240f6b69cfd1da8a3e46852972011b7524c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46a335fefa1e3dd018f87a000df3240f6b69cfd1da8a3e46852972011b7524c3"
+      },
+      "21": {
+        "source_ref": "Daniel 10:21",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 21,
+            "source_ref": "Daniel 10:21",
+            "segment_mode": "whole",
+            "sha256": "8a1897f7a34035a26c399748ab6a6d1d7df979e5ad2e5168dafe28b4f300717f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a1897f7a34035a26c399748ab6a6d1d7df979e5ad2e5168dafe28b4f300717f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/daniel/Daniel_10.md",
+    "blob_sha": "541bf13c4bba463ff8476e00d26c8dcacc2c7ca1"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
