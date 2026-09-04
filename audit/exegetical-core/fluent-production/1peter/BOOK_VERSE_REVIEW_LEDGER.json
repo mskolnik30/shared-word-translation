@@ -1,0 +1,2320 @@
+{
+  "book": "1 Peter",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Pet.txt",
+    "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "1 Peter 1:1",
+          "segment_mode": "whole",
+          "sha256": "61911e8f841dbd59a6c11e688c8459a31b4d8cebcd798d3ea2d9a19f77085d21"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "61911e8f841dbd59a6c11e688c8459a31b4d8cebcd798d3ea2d9a19f77085d21",
+      "translation_sha256": "59eee50237adb4abe420ea767d4ea7fdabb12a6736f8bfb0131f710dea16fb68",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "1 Peter 1:2",
+          "segment_mode": "whole",
+          "sha256": "628bfee56d9c6260f66a6b33710310cab7b0d9683a9b6a678bba3cd8526a32c0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "628bfee56d9c6260f66a6b33710310cab7b0d9683a9b6a678bba3cd8526a32c0",
+      "translation_sha256": "2f76def254c8e8542aac0b8badcc599e1ca16ec273015a9bd12e3cebab395ab0",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "1 Peter 1:3",
+          "segment_mode": "whole",
+          "sha256": "e62d97996c76a2325d152657e30fbb4373fa9be591bd26928943ede45ec719f3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e62d97996c76a2325d152657e30fbb4373fa9be591bd26928943ede45ec719f3",
+      "translation_sha256": "d1c41a8073c1d83a35bc11fa94a7fa5687a654c606aafa99e1c4a4c19564aa01",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "1 Peter 1:4",
+          "segment_mode": "whole",
+          "sha256": "7b9ef873286ee7b341a52907d58f36a76ed991f49c0827085a1ffe4f59257609"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7b9ef873286ee7b341a52907d58f36a76ed991f49c0827085a1ffe4f59257609",
+      "translation_sha256": "b087e8eb1353b5b5b5f947e7c2a09bdef8872759c65d4d25d67587408d9a8313",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "1 Peter 1:5",
+          "segment_mode": "whole",
+          "sha256": "4a2dec1fe7a3fd344890c40cac62c2cdff0c4e4fc78b603aa84b1d609e1cd04c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4a2dec1fe7a3fd344890c40cac62c2cdff0c4e4fc78b603aa84b1d609e1cd04c",
+      "translation_sha256": "242d4d9b98ea788f0781a1b78840174be99fa1d8784209a96f4ed7ef8afbe9db",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "1 Peter 1:6",
+          "segment_mode": "whole",
+          "sha256": "c551d4f3697ffc66d7d0efe976fb6b5ee9b9d2854bffbff7239a70264826f8b5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c551d4f3697ffc66d7d0efe976fb6b5ee9b9d2854bffbff7239a70264826f8b5",
+      "translation_sha256": "67f533aed8924810b7de7333bd0498ecb24cc79ef95ee2d87defe362ce860179",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "1 Peter 1:7",
+          "segment_mode": "whole",
+          "sha256": "7f16c41c9b024846987cbcf71ffcc77f187fa68ff005ffc5a4b7b94178cdec38"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7f16c41c9b024846987cbcf71ffcc77f187fa68ff005ffc5a4b7b94178cdec38",
+      "translation_sha256": "1182f57d79f9d911c3eac484b5de1e40d3e7fb8b0a17e3f5eff996465e8f97a5",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "1 Peter 1:8",
+          "segment_mode": "whole",
+          "sha256": "54ca515aca354262f6e97bebe3d59bb8871c0c938b31147d6f6223db48b0f44c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "54ca515aca354262f6e97bebe3d59bb8871c0c938b31147d6f6223db48b0f44c",
+      "translation_sha256": "cfc2f8e993f09cb0b4513d147958eb38bc3dd23a01f077b026bed90aa3bb93ad",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "1 Peter 1:9",
+          "segment_mode": "whole",
+          "sha256": "86af5ad372e49babccd226b97d2b526842714a783b1d300fdd9623d10e582e66"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "86af5ad372e49babccd226b97d2b526842714a783b1d300fdd9623d10e582e66",
+      "translation_sha256": "56d2e02b75219f98cce8abd5507bbed445509c5925951187274e5758b8fd0541",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "1 Peter 1:10",
+          "segment_mode": "whole",
+          "sha256": "baff9b101ed4b2ae322dc266578626d9005d33a94682727290106f2f5e0628be"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "baff9b101ed4b2ae322dc266578626d9005d33a94682727290106f2f5e0628be",
+      "translation_sha256": "39cd0e17329014b9cf1b55c858c4c2e746d4ae441bcc364702eabe7d56cf442f",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "1 Peter 1:11",
+          "segment_mode": "whole",
+          "sha256": "6a24fa607c50f378e38d7e47c162896397c5d64463193186028b8fee60d8d5b7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6a24fa607c50f378e38d7e47c162896397c5d64463193186028b8fee60d8d5b7",
+      "translation_sha256": "4fce3119c510c648436c24619721ce375a3f793744726df1ee386e7ba5ca4904",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "1 Peter 1:12",
+          "segment_mode": "whole",
+          "sha256": "939453c919b2a5ccc39131e7d921ee4a26d28f5391c9f0ffa262652e186e3822"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "939453c919b2a5ccc39131e7d921ee4a26d28f5391c9f0ffa262652e186e3822",
+      "translation_sha256": "6dd63e1d5dac0b7728a35cfb813f37a622301229ef3d0e4c22801c7af2e90690",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "1 Peter 1:13",
+          "segment_mode": "whole",
+          "sha256": "ace749b7e24ded94584602cb5ac1af903a2b6c805e379ee4bdc4e566a1c6376f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ace749b7e24ded94584602cb5ac1af903a2b6c805e379ee4bdc4e566a1c6376f",
+      "translation_sha256": "29403948e93e2a8cbeddc69e18c8674c5c93f41b0761f7884105658df4063558",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "1 Peter 1:14",
+          "segment_mode": "whole",
+          "sha256": "d96171851ac7271a893516e33060002a0462634ad37a9ea8ee558f6ebe1ade15"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d96171851ac7271a893516e33060002a0462634ad37a9ea8ee558f6ebe1ade15",
+      "translation_sha256": "91198dc3e0db45e5b0af01381de4551ab9a23b6ce2dca730bc04aa6710890b55",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "1 Peter 1:15",
+          "segment_mode": "whole",
+          "sha256": "087602dfb8e58698dd87c1baa0a5898d22abff7d5f66769d28ff6fdce8f8779a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "087602dfb8e58698dd87c1baa0a5898d22abff7d5f66769d28ff6fdce8f8779a",
+      "translation_sha256": "5e9edc58c075e207bbf9af9c8e8998b25f19c4102f48b2cf1eae48d8cc7957b7",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "1 Peter 1:16",
+          "segment_mode": "whole",
+          "sha256": "438e12830b985c9cb48581bbda4380f028d2426b2c64d298728aae6b8214d80d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "438e12830b985c9cb48581bbda4380f028d2426b2c64d298728aae6b8214d80d",
+      "translation_sha256": "bb5312a18712c8a54f44f8f6f1b26cedca92c1f6ee104631203b5addfd2fe47b",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "1 Peter 1:17",
+          "segment_mode": "whole",
+          "sha256": "9337895d969866ad7e4369275199d75ed7f57a98d3e4c7dfb5b903eec92cef71"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9337895d969866ad7e4369275199d75ed7f57a98d3e4c7dfb5b903eec92cef71",
+      "translation_sha256": "7da5cf20255e8e823a3f99fc5a79bc8f9bcf8f58e88e28e493a9d97347d61c1a",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:18",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 18,
+          "source_ref": "1 Peter 1:18",
+          "segment_mode": "whole",
+          "sha256": "2def2c9f4f82d236d018a615fc73c84c7e1eaec8a4e800c47dff47331f5a31af"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2def2c9f4f82d236d018a615fc73c84c7e1eaec8a4e800c47dff47331f5a31af",
+      "translation_sha256": "f05279070ff39f279cc3a9b9d446471f197fab79ef9142cb5773318de2ee5ba6",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:19",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 19,
+          "source_ref": "1 Peter 1:19",
+          "segment_mode": "whole",
+          "sha256": "cc0f2c7573e11e2f7f8be450e30190aafd2192cc0d0aaa707b8fe463003cf222"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cc0f2c7573e11e2f7f8be450e30190aafd2192cc0d0aaa707b8fe463003cf222",
+      "translation_sha256": "290c5c41c583e4fd2241913b56c82b90074f3a8f8c47af253cde2089d196e813",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:20",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 20,
+          "source_ref": "1 Peter 1:20",
+          "segment_mode": "whole",
+          "sha256": "4b000634dfff8599b6064dd9a0e4b046f3df7fdfe015565575fce1b64573939f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4b000634dfff8599b6064dd9a0e4b046f3df7fdfe015565575fce1b64573939f",
+      "translation_sha256": "03e52fe7e7b09f6eb2f50a548971c4ca8ef153fc968bb2cade4ebf3ae055dbcb",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 1:21",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 21,
+          "source_ref": "1 Peter 1:21",
+          "segment_mode": "whole",
+          "sha256": "9d949f3bd348afd363cb87c6218b8e49c5556168e6d8cfcf24cd262b5bad8a3d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9d949f3bd348afd363cb87c6218b8e49c5556168e6d8cfcf24cd262b5bad8a3d",
+      "translation_sha256": "868c952aa112259cba629aa4f291da2b03c477489f3850885822e647ecfe7727",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:22",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 22,
+          "source_ref": "1 Peter 1:22",
+          "segment_mode": "whole",
+          "sha256": "b35fe02fccc79874e97ac3851d2250dd10068b9d6d1a35a25e797ada8b702a24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b35fe02fccc79874e97ac3851d2250dd10068b9d6d1a35a25e797ada8b702a24",
+      "translation_sha256": "a556e461fd067bb117d3f1e34352fe849b6b6bba9691d048e12f726eaf1ed72e",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:23",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 23,
+          "source_ref": "1 Peter 1:23",
+          "segment_mode": "whole",
+          "sha256": "66b50e4b81683e6f5603f3589220703d4441288597b1b9fa1f42d35c6145e0fd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "66b50e4b81683e6f5603f3589220703d4441288597b1b9fa1f42d35c6145e0fd",
+      "translation_sha256": "e66f9675c215c2c595f51fbbd8fa735e4a86a4e2d1409cbbeae0ac8fb943b68a",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 24,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:24",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 24,
+          "source_ref": "1 Peter 1:24",
+          "segment_mode": "whole",
+          "sha256": "f977acd2345b611779199345d160d672c69ccc284905d85062530d7a679e02c8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f977acd2345b611779199345d160d672c69ccc284905d85062530d7a679e02c8",
+      "translation_sha256": "10ec216446f0e660377dce93d40781d308652382b9be20133172a3b8710d9cd9",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 25,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 1:25",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 25,
+          "source_ref": "1 Peter 1:25",
+          "segment_mode": "whole",
+          "sha256": "3644ef38d41c1a2ca0e9a4104169ba56c8c0af102b4a4a95aaa20c09f175f43f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3644ef38d41c1a2ca0e9a4104169ba56c8c0af102b4a4a95aaa20c09f175f43f",
+      "translation_sha256": "74e6e2e89dd95d5dabbf073494f635a2fdb6b53a3f5b6cacbaa806f8540b7ad0",
+      "tsw_blob_sha": "fb61294ba77a5ba6bfc442235d22d36534d08b09",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "1 Peter 2:1",
+          "segment_mode": "whole",
+          "sha256": "be31e894644c0ab0b399896fd0a492d2d0996a0192738e3b62a498f585b5a9a2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "be31e894644c0ab0b399896fd0a492d2d0996a0192738e3b62a498f585b5a9a2",
+      "translation_sha256": "77e7baba6b87800fac569f67bd90c35931648881ba03e8e24498c9fe0ad3d1f2",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "1 Peter 2:2",
+          "segment_mode": "whole",
+          "sha256": "d14ec270b3175ece096caed20b1647d9c1a5a1967d79017a0086c49e8a9562d1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d14ec270b3175ece096caed20b1647d9c1a5a1967d79017a0086c49e8a9562d1",
+      "translation_sha256": "e42c86e7e4b6e101b0110f40ad7999e97f577951e06aabda9e287fdd79436e7c",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "1 Peter 2:3",
+          "segment_mode": "whole",
+          "sha256": "662f99296a705a49871876dfadebb21598aa6e307b16540a6e3699467e1357c9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "662f99296a705a49871876dfadebb21598aa6e307b16540a6e3699467e1357c9",
+      "translation_sha256": "dca93f34dd6645f1fd725626d00353849a931eb0105a8d95b2b4edb04ae002d6",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "1 Peter 2:4",
+          "segment_mode": "whole",
+          "sha256": "734591d8a800870a7b8aca30dfe59945a7ec53a17e304e4f8696bebb66a12149"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "734591d8a800870a7b8aca30dfe59945a7ec53a17e304e4f8696bebb66a12149",
+      "translation_sha256": "0776d7c41a99882f7eb4b8362ddc3c5334c97630281ec7c6e6a3254b589c07e2",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Keep priestly and people-of-God language rooted in Israel's Scriptures without erasing Israel."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "1 Peter 2:5",
+          "segment_mode": "whole",
+          "sha256": "49df15fd0271a690cbbe3553ef6ca291f0ce7da8e531aebd34215c19dbd036e3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "49df15fd0271a690cbbe3553ef6ca291f0ce7da8e531aebd34215c19dbd036e3",
+      "translation_sha256": "d76deb2ddbdec90c52944b88f1a67e43c841176157789014ba345a4ba152a1ad",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Keep priestly and people-of-God language rooted in Israel's Scriptures without erasing Israel."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "1 Peter 2:6",
+          "segment_mode": "whole",
+          "sha256": "0af3292838edfbc5a03a33349f9fdae8d5afd6b127bfafca18613721f6f73c39"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0af3292838edfbc5a03a33349f9fdae8d5afd6b127bfafca18613721f6f73c39",
+      "translation_sha256": "1feaa48bcdc841a2f459c69902d0f18b1db8c57ba9264f4f6c0cbe6b8ba29cb6",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Keep priestly and people-of-God language rooted in Israel's Scriptures without erasing Israel."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "1 Peter 2:7",
+          "segment_mode": "whole",
+          "sha256": "f041ab8b85aff5410ba0ab289639f13b9efb27dccc73b7fa1f5ba3ac940a3d0f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f041ab8b85aff5410ba0ab289639f13b9efb27dccc73b7fa1f5ba3ac940a3d0f",
+      "translation_sha256": "a420125daee18b0aa8bfdd0fc1aeeb82b7972188ce1ece486b2ee9460cacb6f6",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Keep priestly and people-of-God language rooted in Israel's Scriptures without erasing Israel."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "1 Peter 2:8",
+          "segment_mode": "whole",
+          "sha256": "15502c33cfb7a7609748b2ec9d24f8c55ba06c095c98b68bba8ae515524d77f6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "15502c33cfb7a7609748b2ec9d24f8c55ba06c095c98b68bba8ae515524d77f6",
+      "translation_sha256": "dd818ffc527f40a703e02a4efe426d666e19e78cc6a592f78e4ba528cf2af0a4",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Keep priestly and people-of-God language rooted in Israel's Scriptures without erasing Israel."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "1 Peter 2:9",
+          "segment_mode": "whole",
+          "sha256": "9bcebfcf692c4deafac84a2a6986ec6aee652e2dd5488ddfce15d809478b0ca8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9bcebfcf692c4deafac84a2a6986ec6aee652e2dd5488ddfce15d809478b0ca8",
+      "translation_sha256": "1e4563bffe7d5865faf6e24c7a13056fee08cf135e0c0774262f9ad21f3fb5c6",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Keep priestly and people-of-God language rooted in Israel's Scriptures without erasing Israel."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "1 Peter 2:10",
+          "segment_mode": "whole",
+          "sha256": "b8a6f3f2d65d0efb9387e328dabb36a1581e80492cc28531d506b80fd00139f3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b8a6f3f2d65d0efb9387e328dabb36a1581e80492cc28531d506b80fd00139f3",
+      "translation_sha256": "f5282d444f30b2c403838174011eae4a6f01c3066f6c3d9b2ea6dd65f1be3998",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Keep priestly and people-of-God language rooted in Israel's Scriptures without erasing Israel."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "1 Peter 2:11",
+          "segment_mode": "whole",
+          "sha256": "ced5b6b4df6b5336d30400a7b4c7ad80b1d771972330aaaf91f55f93adfa5d01"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ced5b6b4df6b5336d30400a7b4c7ad80b1d771972330aaaf91f55f93adfa5d01",
+      "translation_sha256": "a50e91adbbfef7a8560efc6a0b5149f4e37e601129f1267b0da9e9c9ecdab02a",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "1 Peter 2:12",
+          "segment_mode": "whole",
+          "sha256": "327e81b139069475b370e20526f71b96fb0ca9febade71e553fddb90d228b56c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "327e81b139069475b370e20526f71b96fb0ca9febade71e553fddb90d228b56c",
+      "translation_sha256": "f7112c7e6d29d794b354119e8573c49abccef7f51165de42e4f270892221adaa",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "1 Peter 2:13",
+          "segment_mode": "whole",
+          "sha256": "c8eb880bfec2c24085b2a4cbcc3046630e4e72437b88470c17897b1917dff1c6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c8eb880bfec2c24085b2a4cbcc3046630e4e72437b88470c17897b1917dff1c6",
+      "translation_sha256": "1b59d5f59a822df6ec80b281c92258383c0ad0ff0f147c5a5c55a69aa380901a",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "1 Peter 2:14",
+          "segment_mode": "whole",
+          "sha256": "c5acc4837552b416568747423b452524655f1b26cccf5d535b4cb9e23faf7ee9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c5acc4837552b416568747423b452524655f1b26cccf5d535b4cb9e23faf7ee9",
+      "translation_sha256": "09decdc03ac5970f27b6e2387d9b7a7c6e1b9a5b88694f610a284c83f7a0d304",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "1 Peter 2:15",
+          "segment_mode": "whole",
+          "sha256": "23700d9add93559cc3f58ce555ae358e871ef6af2be9590c39f691ecc0bd600d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "23700d9add93559cc3f58ce555ae358e871ef6af2be9590c39f691ecc0bd600d",
+      "translation_sha256": "35dbf608caa47b474158366faed464e349bf6cf8d96c5eaf84b06dffd8cda336",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:16",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "1 Peter 2:16",
+          "segment_mode": "whole",
+          "sha256": "33864d78b5e0a10c8801a9ca2cda2e1bc3ffe6d09f27e0f88dc622895b815859"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "33864d78b5e0a10c8801a9ca2cda2e1bc3ffe6d09f27e0f88dc622895b815859",
+      "translation_sha256": "ac632b0e933f039a43d5af5eb4c64d0fc4eca85d44e35dcd6e1078c751795292",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:17",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "1 Peter 2:17",
+          "segment_mode": "whole",
+          "sha256": "18636d67990acea09e0ea4657e601db5cf640c5867a110dac975b0b08fe20132"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "18636d67990acea09e0ea4657e601db5cf640c5867a110dac975b0b08fe20132",
+      "translation_sha256": "965a182afbf87ee0f83e01703ddd428c3ce83bf0b0c0df3509de611321884639",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:18",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 18,
+          "source_ref": "1 Peter 2:18",
+          "segment_mode": "whole",
+          "sha256": "0a358dc1816c41bbfc86a4050303de15d04d84ec6ca5e523757d94c93a9a8df6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0a358dc1816c41bbfc86a4050303de15d04d84ec6ca5e523757d94c93a9a8df6",
+      "translation_sha256": "bb8855965323a311b4c0a797c2f7e3d871be1cb462012d6b63f40fe21b23d9fb",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:19",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 19,
+          "source_ref": "1 Peter 2:19",
+          "segment_mode": "whole",
+          "sha256": "f55335e12b327158dd6cd195c4bf8bb6795d66591f331fb07452294a47435d18"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f55335e12b327158dd6cd195c4bf8bb6795d66591f331fb07452294a47435d18",
+      "translation_sha256": "803e9ad43da550a3c1c5bbcd6bf6b84ac613e16affbbc01f470b3f8158c3d6c7",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:20",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 20,
+          "source_ref": "1 Peter 2:20",
+          "segment_mode": "whole",
+          "sha256": "ed6c9053f558f72a2986bbfc55322895c0b491c2e8b1f116392214ad8a424e8e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ed6c9053f558f72a2986bbfc55322895c0b491c2e8b1f116392214ad8a424e8e",
+      "translation_sha256": "d41e8411c01abdbf3403cbbe65d569e805ae57ec61d4699da7024529a855a697",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:21",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 21,
+          "source_ref": "1 Peter 2:21",
+          "segment_mode": "whole",
+          "sha256": "977087aca92c5126574fe9810b23b9514970f2c365cb15506ce48e4e6e1f45af"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "977087aca92c5126574fe9810b23b9514970f2c365cb15506ce48e4e6e1f45af",
+      "translation_sha256": "abe127dbf3bbfcfce9298d2752c762b58133cf2ef2a29240c2e1253e03f7d041",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:22",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 22,
+          "source_ref": "1 Peter 2:22",
+          "segment_mode": "whole",
+          "sha256": "16c405a68e42faa94cb571da8c129937b25b8bb8a07a3deb8df29e8becd00460"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "16c405a68e42faa94cb571da8c129937b25b8bb8a07a3deb8df29e8becd00460",
+      "translation_sha256": "9427e42ff583881a7d44268af7343f91243cac267f7c601894189928f03d4700",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 23,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:23",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 23,
+          "source_ref": "1 Peter 2:23",
+          "segment_mode": "whole",
+          "sha256": "3d8971b9d5ce128ac7af1001200870c32889cf222270a072deef242cd78ce6aa"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3d8971b9d5ce128ac7af1001200870c32889cf222270a072deef242cd78ce6aa",
+      "translation_sha256": "93c3dcd5952a78b35b71b8b638704f16891b89e3001d4c15fbe94e45fa7b599e",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 24,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:24",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 24,
+          "source_ref": "1 Peter 2:24",
+          "segment_mode": "whole",
+          "sha256": "af66ce1da2ebfee7b0bb4373322b84d3f9f3f88cf1a285a44259dc5da2895129"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "af66ce1da2ebfee7b0bb4373322b84d3f9f3f88cf1a285a44259dc5da2895129",
+      "translation_sha256": "23250e2a15a760858c67e71811247d0aa60f94a814c20ffdd76b58d9ad5ae84d",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 25,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 2:25",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 25,
+          "source_ref": "1 Peter 2:25",
+          "segment_mode": "whole",
+          "sha256": "74fff692cf67ab5c9cd7ea93fd3777548d6cb7c798a8b0d23e30238b1906d0e4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "74fff692cf67ab5c9cd7ea93fd3777548d6cb7c798a8b0d23e30238b1906d0e4",
+      "translation_sha256": "9c901127d2c619200fdd015cbd3314c7f12146ec6d6771b1eee7c31518c50e32",
+      "tsw_blob_sha": "754f7365e52a8d62d7662b9c54e284b088ef4c11",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "1 Peter 3:1",
+          "segment_mode": "whole",
+          "sha256": "304b4a0df5ca6ed71e95205eca645c610f34af61b3c686684419438e56b868bd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "304b4a0df5ca6ed71e95205eca645c610f34af61b3c686684419438e56b868bd",
+      "translation_sha256": "e615984104a0547afd3c68cd0d42aa439f40ef96d2fc7e90dc853b18cbaef0a0",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "1 Peter 3:2",
+          "segment_mode": "whole",
+          "sha256": "3a94da13cfe897b4c7a06304714c294053ab799c38e246e5ff8b048d97bfe54f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3a94da13cfe897b4c7a06304714c294053ab799c38e246e5ff8b048d97bfe54f",
+      "translation_sha256": "0c8f258989cb2cb3a2e96f9efb0e52386e61ec8ec9208b87fb4b15a4fe36795a",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "1 Peter 3:3",
+          "segment_mode": "whole",
+          "sha256": "60b5f2d0ed492b5ae37fbcd9c208b623124ac75e2321cfc159b6dbe8bbc4742e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "60b5f2d0ed492b5ae37fbcd9c208b623124ac75e2321cfc159b6dbe8bbc4742e",
+      "translation_sha256": "a9ee490dd8ccec64097a09fc70d017808577e0fb56d3da7dea4d9f74639f1159",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "1 Peter 3:4",
+          "segment_mode": "whole",
+          "sha256": "d2ea130802ee98bb0463653f5a42f0644b322d8ae96d87ff7b2ffdd64131fa0c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d2ea130802ee98bb0463653f5a42f0644b322d8ae96d87ff7b2ffdd64131fa0c",
+      "translation_sha256": "31f3ebc3bd0e77f21f6e6f1e02f1690a3460a1e3db022b6e7777a957830a8787",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "1 Peter 3:5",
+          "segment_mode": "whole",
+          "sha256": "8a24d860c0af64162aaf1bd506fe9ecea2d72242a1a0819dd12811f04774edb1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8a24d860c0af64162aaf1bd506fe9ecea2d72242a1a0819dd12811f04774edb1",
+      "translation_sha256": "33b35ea0f1d66798547f8fe4969686e6e314b3240159a138ced2ddab8ef13ee2",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "1 Peter 3:6",
+          "segment_mode": "whole",
+          "sha256": "6bf11c9a4e7481620070054c2020448e8529992babca401b338976fe8c1a9872"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6bf11c9a4e7481620070054c2020448e8529992babca401b338976fe8c1a9872",
+      "translation_sha256": "c45e3305fef7e734a847b97ee6e41f592d0b2e105d63a1ce9bd7481d690fa28d",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "1 Peter 3:7",
+          "segment_mode": "whole",
+          "sha256": "49289f269639b8e1a294ced3a6f267f3f3e0f5e0c05005926296200d6b11f089"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "49289f269639b8e1a294ced3a6f267f3f3e0f5e0c05005926296200d6b11f089",
+      "translation_sha256": "d451f66bde10c6b1d0dace48df357bca89354b2e5750bdffd4b76c91929c493e",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Translate household instructions in their vulnerable imperial setting; do not turn them into permission for abuse."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "1 Peter 3:8",
+          "segment_mode": "whole",
+          "sha256": "ce35dabef204e926b6c4ad58cb9ef54c89f574d975a5a8f2594f0a1fdcf014cf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ce35dabef204e926b6c4ad58cb9ef54c89f574d975a5a8f2594f0a1fdcf014cf",
+      "translation_sha256": "a40bfcc67b28cd16b173c7a4ff12eb3595cf397bc4bd3eb1364837308ea64fa3",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "1 Peter 3:9",
+          "segment_mode": "whole",
+          "sha256": "feeae9995b57c466984052ef8e25ebe3589d69e6206662e6fe8a8fce01c76464"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "feeae9995b57c466984052ef8e25ebe3589d69e6206662e6fe8a8fce01c76464",
+      "translation_sha256": "15800b3a7f10212a095d7a0e791b1b6da6a266bf7d9ccd94cbae6444b8b2a9b0",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "1 Peter 3:10",
+          "segment_mode": "whole",
+          "sha256": "b94f434bfc7448821ec453341c5a206d0b9e8292fecf20880c281c1f23aadcc0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b94f434bfc7448821ec453341c5a206d0b9e8292fecf20880c281c1f23aadcc0",
+      "translation_sha256": "d0a3ccb390f27bfd02b066df9f9a639db1b371973eecf07d268e1bdce584ae0f",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "1 Peter 3:11",
+          "segment_mode": "whole",
+          "sha256": "7ff7ef15f792443de509b645ebcdbcbb0e66958134074b7dafc4420d637172ba"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7ff7ef15f792443de509b645ebcdbcbb0e66958134074b7dafc4420d637172ba",
+      "translation_sha256": "2178fe736fb7eb75dd5e1e0b440ee0be5efb3ef7de730f92cc51b8186f0d69fb",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 3:12",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 12,
+          "source_ref": "1 Peter 3:12",
+          "segment_mode": "whole",
+          "sha256": "d550d9013e455422a480df39e98790dd70cb09eb137fe7fde44354e9fcfe8ce8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d550d9013e455422a480df39e98790dd70cb09eb137fe7fde44354e9fcfe8ce8",
+      "translation_sha256": "afe88172d61c0af7f576915e128d30ebb603bf659f22b101ec175db8f3dcd4d8",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 3:13",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 13,
+          "source_ref": "1 Peter 3:13",
+          "segment_mode": "whole",
+          "sha256": "7b8a729053c81fcb2ac7e3439b6feab984f99c4344875f7e27b3071831db074e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7b8a729053c81fcb2ac7e3439b6feab984f99c4344875f7e27b3071831db074e",
+      "translation_sha256": "74c478587487bd97186816ad5fded8ff531053d5e5279f6091cb98a7af7200f1",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 3:14",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 14,
+          "source_ref": "1 Peter 3:14",
+          "segment_mode": "whole",
+          "sha256": "d07359b02ed5357eda3ff20d228395636340f4132fc700568e9b183e5448dabf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d07359b02ed5357eda3ff20d228395636340f4132fc700568e9b183e5448dabf",
+      "translation_sha256": "47390911248fa64099d3434870e8e7a0d3912a85b0c7ba7b1c6dbf51246167db",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 3:15",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 15,
+          "source_ref": "1 Peter 3:15",
+          "segment_mode": "whole",
+          "sha256": "8d3a328c558bb906412b4f682f7aacf60c6098e4743090611de4b8cd13cc78e5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8d3a328c558bb906412b4f682f7aacf60c6098e4743090611de4b8cd13cc78e5",
+      "translation_sha256": "6c3f1165caee38902a45d6bc7588ff6de95eed7872bf1a29d5e8fd298138c6af",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 3:16",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 16,
+          "source_ref": "1 Peter 3:16",
+          "segment_mode": "whole",
+          "sha256": "e3d3491b081e0e10bd80d1eea95cf1916aa414cad12d663fd891f9aef2e47e5d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e3d3491b081e0e10bd80d1eea95cf1916aa414cad12d663fd891f9aef2e47e5d",
+      "translation_sha256": "4110e98a0867de9e407c38f56f78a2e97b4a949a8cb381f63c85be557fefd513",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 3:17",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 17,
+          "source_ref": "1 Peter 3:17",
+          "segment_mode": "whole",
+          "sha256": "fbd55ade3dca6f75900ebadeb1ab134363bd3c59ea387913a4ae632ce23776d4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fbd55ade3dca6f75900ebadeb1ab134363bd3c59ea387913a4ae632ce23776d4",
+      "translation_sha256": "006f66ae6fb278f4ad5c10692d457fa1b096f98ddcb28578ebdd511a7f09bdb0",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:18",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 18,
+          "source_ref": "1 Peter 3:18",
+          "segment_mode": "whole",
+          "sha256": "1c34ea27194b55c2ede9486b62b6ee82c518ff6e448e66e4732ae40b37ab4105"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1c34ea27194b55c2ede9486b62b6ee82c518ff6e448e66e4732ae40b37ab4105",
+      "translation_sha256": "110249a8354593bbcf0b54798e2f3eeaca6f21abc8e801067fd98d9d9b5d195a",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Retain the difficult spirits/prison/baptism sequence without harmonizing away its ambiguity."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:19",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 19,
+          "source_ref": "1 Peter 3:19",
+          "segment_mode": "whole",
+          "sha256": "ef1e9fe5fa9feb835c50fb80e2858fe59f3fbd3e01a16f26d6ffe0af0a458480"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ef1e9fe5fa9feb835c50fb80e2858fe59f3fbd3e01a16f26d6ffe0af0a458480",
+      "translation_sha256": "efe7298e0a137d484cc78d2dae772da69a2af5ca3460c5a89f23d9704b6b9c21",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Retain the difficult spirits/prison/baptism sequence without harmonizing away its ambiguity."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:20",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 20,
+          "source_ref": "1 Peter 3:20",
+          "segment_mode": "whole",
+          "sha256": "c4445df6a3b44fd6b82d832c3bd6eb1e929f241a72aeb7b911f64cfe2ea3b23b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c4445df6a3b44fd6b82d832c3bd6eb1e929f241a72aeb7b911f64cfe2ea3b23b",
+      "translation_sha256": "9f67fd58a066d1cfc84d6c0f32962b323744f1caee29f8a25267d371370cbec5",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Retain the difficult spirits/prison/baptism sequence without harmonizing away its ambiguity."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:21",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 21,
+          "source_ref": "1 Peter 3:21",
+          "segment_mode": "whole",
+          "sha256": "39ce8fe8b7d6da3dbaf224ff29de870f553a242a31cd2137aaafb35ef86e5247"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "39ce8fe8b7d6da3dbaf224ff29de870f553a242a31cd2137aaafb35ef86e5247",
+      "translation_sha256": "3781e4f916942b5528559c16c6eb1c1bf3c72169526893ba94a1bd23e4ed7cdb",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Retain the difficult spirits/prison/baptism sequence without harmonizing away its ambiguity."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 3:22",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 22,
+          "source_ref": "1 Peter 3:22",
+          "segment_mode": "whole",
+          "sha256": "e7b0c6c2a54805a58b1669b3272e0b40f7fd71b61763eff83b88036a73bdb561"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e7b0c6c2a54805a58b1669b3272e0b40f7fd71b61763eff83b88036a73bdb561",
+      "translation_sha256": "f517ae6074c0d1524b5fc264f811fc14c4c6b03204d9cede9f38e8fbe813df47",
+      "tsw_blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f",
+      "curated_decisions": [
+        "Retain the difficult spirits/prison/baptism sequence without harmonizing away its ambiguity."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 4:1",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "source_ref": "1 Peter 4:1",
+          "segment_mode": "whole",
+          "sha256": "c11146e5a7ac7caa783e24004ad663bfa5670af7e571f8e8a9aac78ae69bda44"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c11146e5a7ac7caa783e24004ad663bfa5670af7e571f8e8a9aac78ae69bda44",
+      "translation_sha256": "3389fd597653489ae675cdb3256a7df037ddd1c40b2203e91fe2326f38625690",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 4:2",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 2,
+          "source_ref": "1 Peter 4:2",
+          "segment_mode": "whole",
+          "sha256": "a146f147c0ab09c11bcc6ce8809b3e2a2745bd83bb403692a04cbd47e2142523"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a146f147c0ab09c11bcc6ce8809b3e2a2745bd83bb403692a04cbd47e2142523",
+      "translation_sha256": "6696a85dd15a855ac7c1c7d76205663437d81c8b6c764bf1d446ae754664a9a2",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 4:3",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 3,
+          "source_ref": "1 Peter 4:3",
+          "segment_mode": "whole",
+          "sha256": "8f998a15cb5a86008dd0f8f8a6cf4272b573a23325e09e73d32276623f59d5b7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8f998a15cb5a86008dd0f8f8a6cf4272b573a23325e09e73d32276623f59d5b7",
+      "translation_sha256": "a6f93616159ad10f6315021fcfe1621bee33099d9461583920aef4738187aa63",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 4:4",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 4,
+          "source_ref": "1 Peter 4:4",
+          "segment_mode": "whole",
+          "sha256": "c50ef01b4af2776ea9ca6f4664b1f89acaca7ab33028fe6ed7fb804a92f24ff9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c50ef01b4af2776ea9ca6f4664b1f89acaca7ab33028fe6ed7fb804a92f24ff9",
+      "translation_sha256": "c91d20671d7320f62609dbfbde504c80e37e4375f3d2f6a42d50ecff5e2feff5",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 4:5",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 5,
+          "source_ref": "1 Peter 4:5",
+          "segment_mode": "whole",
+          "sha256": "1b6c91251014cc2d2211c2421bb7f5715975f297396191fb6906b5bc49ec2db9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1b6c91251014cc2d2211c2421bb7f5715975f297396191fb6906b5bc49ec2db9",
+      "translation_sha256": "0200266d5ea7e2e6db9b0dbda8b6afd7a421b48a0d5a7e5a7f5b6dd8c5f9066a",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 4:6",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 6,
+          "source_ref": "1 Peter 4:6",
+          "segment_mode": "whole",
+          "sha256": "f25b5dfd64020175040a53fc741247adf15746c064818872654d31882a8470cf"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f25b5dfd64020175040a53fc741247adf15746c064818872654d31882a8470cf",
+      "translation_sha256": "e413d40d1097b8463c3f07526e389388a659c760394413436b10d307d016ae1f",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 4,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:7",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 7,
+          "source_ref": "1 Peter 4:7",
+          "segment_mode": "whole",
+          "sha256": "b466a0975fbb8203ff85e0939fe55141c42d122998af95453f8316c60cdd8743"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b466a0975fbb8203ff85e0939fe55141c42d122998af95453f8316c60cdd8743",
+      "translation_sha256": "91a57a2e33ea593c299215109c032f0f6947cdc9c7950879ac43d6158fa32360",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:8",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 8,
+          "source_ref": "1 Peter 4:8",
+          "segment_mode": "whole",
+          "sha256": "12d2d81b840acd440df124ee0a4a9feaae1fc975ab6fb21618d88670479e9597"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "12d2d81b840acd440df124ee0a4a9feaae1fc975ab6fb21618d88670479e9597",
+      "translation_sha256": "1812ecf4e3719a01bd1a5b3a94ef7ded8885de48a412fe32b99022a14fc01486",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:9",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 9,
+          "source_ref": "1 Peter 4:9",
+          "segment_mode": "whole",
+          "sha256": "764020ef3a0cfba49268ae090bc0050a82a82bd71b89b10cd3306e948bdcda46"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "764020ef3a0cfba49268ae090bc0050a82a82bd71b89b10cd3306e948bdcda46",
+      "translation_sha256": "1f1976df6a7b57fa348175d5c2ebb94b2a7c50f427525abacb464198ebfde39c",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:10",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 10,
+          "source_ref": "1 Peter 4:10",
+          "segment_mode": "whole",
+          "sha256": "61da8d71cea07018a4c91e404b2e7d5b45fdeaebfc588fb716561d1909412adb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "61da8d71cea07018a4c91e404b2e7d5b45fdeaebfc588fb716561d1909412adb",
+      "translation_sha256": "a44b326265267f10962f49944a600d84641ff30ea38e2e2a9e3142b2d5f1a5f1",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:11",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 11,
+          "source_ref": "1 Peter 4:11",
+          "segment_mode": "whole",
+          "sha256": "f00cf4504e667f2ac3736d382f5cd886d1e3416310ac997191e4ccb1ce3e38c0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f00cf4504e667f2ac3736d382f5cd886d1e3416310ac997191e4ccb1ce3e38c0",
+      "translation_sha256": "519a7768b614854f0aa5a33627c4cd203021d3d0285880f30f9f2cbab7f81896",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:12",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 12,
+          "source_ref": "1 Peter 4:12",
+          "segment_mode": "whole",
+          "sha256": "9b38549658cd01d4480a9066aafa1aaca6f6fc71dcecfa5cdf8f06ab9028415a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9b38549658cd01d4480a9066aafa1aaca6f6fc71dcecfa5cdf8f06ab9028415a",
+      "translation_sha256": "6b1a86d1bc6eea540b74a761f0d9a4accf5b6bc0c7ffab212dacc29ecf6c69e3",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:13",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 13,
+          "source_ref": "1 Peter 4:13",
+          "segment_mode": "whole",
+          "sha256": "837cd7a11241eb165092100b9c8830dbf84dc2f45a1057a546b2a38e6c7ebf41"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "837cd7a11241eb165092100b9c8830dbf84dc2f45a1057a546b2a38e6c7ebf41",
+      "translation_sha256": "0d41be22113a4f2161065a4af20f79621c134738f12167f3b76cf4c326dd5caa",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:14",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 14,
+          "source_ref": "1 Peter 4:14",
+          "segment_mode": "whole",
+          "sha256": "01260cee3cc6d9b45b905bac515099e547e1afcc13ef5c0a78dd5cf42c9e4212"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "01260cee3cc6d9b45b905bac515099e547e1afcc13ef5c0a78dd5cf42c9e4212",
+      "translation_sha256": "9a581a7e0812fb312f4e25c044b379b8a8b40578ff1791475a7da53b8a519762",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:15",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 15,
+          "source_ref": "1 Peter 4:15",
+          "segment_mode": "whole",
+          "sha256": "47c9a3fdb79ef6d48f7e8c2e2b307d86053fd37e2cc990c3af2677d23dd61a63"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "47c9a3fdb79ef6d48f7e8c2e2b307d86053fd37e2cc990c3af2677d23dd61a63",
+      "translation_sha256": "f0c10e21bff689aa90a6c5f4c9ce1b4b4abc7c5cf22d71b6f5e600d232d8c807",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:16",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 16,
+          "source_ref": "1 Peter 4:16",
+          "segment_mode": "whole",
+          "sha256": "98a309bec0173298c3ea23241f9977c7320c7beb7f5df0bee078a3b976b09494"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "98a309bec0173298c3ea23241f9977c7320c7beb7f5df0bee078a3b976b09494",
+      "translation_sha256": "c351376e04ae84b790a75ddf8913f5d4e0e3585c6f253f384f2416779c929197",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:17",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 17,
+          "source_ref": "1 Peter 4:17",
+          "segment_mode": "whole",
+          "sha256": "c0cec6db600a10ca23e8e96114538c7e3e6666f1aff6c406cad3cbf4fc5f9b4b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c0cec6db600a10ca23e8e96114538c7e3e6666f1aff6c406cad3cbf4fc5f9b4b",
+      "translation_sha256": "244f2016abb882315c061f165b4b4a76ae68d1dc300fcf8440b283577565c6cd",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:18",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 18,
+          "source_ref": "1 Peter 4:18",
+          "segment_mode": "whole",
+          "sha256": "5c18657d66b9d29ecf4bc9911b6c9bb2a4443bc2407a2eb7f2d2f3a9a8335636"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5c18657d66b9d29ecf4bc9911b6c9bb2a4443bc2407a2eb7f2d2f3a9a8335636",
+      "translation_sha256": "200d10f40c53e531ea69b97a6f4c0fda0080015cdae5108007e2beeddc080d27",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "1 Peter 4:19",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 19,
+          "source_ref": "1 Peter 4:19",
+          "segment_mode": "whole",
+          "sha256": "61ab16f1d52297d6fec3f2b41ac36fa55896210e0f575aacd4a1c5b104eb15c9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "61ab16f1d52297d6fec3f2b41ac36fa55896210e0f575aacd4a1c5b104eb15c9",
+      "translation_sha256": "3c11ea69f0a3e771bea6dfbece9c47ce3ecded13b8a6a12aef4ba6f1e4704a15",
+      "tsw_blob_sha": "05a2cc6e9f41634716fa856776a86a3f507e893c",
+      "curated_decisions": [
+        "Keep suffering for Christ distinct from suffering caused by wrongdoing."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:1",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "source_ref": "1 Peter 5:1",
+          "segment_mode": "whole",
+          "sha256": "c303f2775b33e7bf076143dd9dcc0be28019341a97c860d18ca26cb82d866a24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c303f2775b33e7bf076143dd9dcc0be28019341a97c860d18ca26cb82d866a24",
+      "translation_sha256": "4ac175225aa68e95e5aeb6d4303134aaed9012881aaa851c06b3ae698f10ea3b",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:2",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 2,
+          "source_ref": "1 Peter 5:2",
+          "segment_mode": "whole",
+          "sha256": "cabdb7520bcca31fb24ef2293f3ee62cb2050acb1d3c377ff9556f5dafaef5b2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cabdb7520bcca31fb24ef2293f3ee62cb2050acb1d3c377ff9556f5dafaef5b2",
+      "translation_sha256": "39e3e20dea23aecd841998a0b0f9bdace8f55831bf70a23c86ea5e33b853d650",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:3",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 3,
+          "source_ref": "1 Peter 5:3",
+          "segment_mode": "whole",
+          "sha256": "7368f95eb29936e71877a2c122969bfb7ab4b9b4b7d82978976366f12d7e7a16"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7368f95eb29936e71877a2c122969bfb7ab4b9b4b7d82978976366f12d7e7a16",
+      "translation_sha256": "e2cce10e583542c39fe98e185452e5167461c85af833cce8c0846cb44036b4d7",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:4",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 4,
+          "source_ref": "1 Peter 5:4",
+          "segment_mode": "whole",
+          "sha256": "743021c0509242b68fe91163879d82f13ab2a881447447fd3564b364ad753a0c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "743021c0509242b68fe91163879d82f13ab2a881447447fd3564b364ad753a0c",
+      "translation_sha256": "cb609923bd4b02dd4679a8310422fea49468f34e20641eb45a92f4e932d25b72",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:5",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 5,
+          "source_ref": "1 Peter 5:5",
+          "segment_mode": "whole",
+          "sha256": "7765bb76d1253895805bd05dab9542b9febe60232ba246ae9ee9ef5d38d14ac1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7765bb76d1253895805bd05dab9542b9febe60232ba246ae9ee9ef5d38d14ac1",
+      "translation_sha256": "0c9829df77b2816a95f138a17a43cbfabab9861370bf11e005bd3ebd5b10e9a4",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:6",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 6,
+          "source_ref": "1 Peter 5:6",
+          "segment_mode": "whole",
+          "sha256": "81fca64918519ea858a29f930b151c12c82a1b42a908961a62e433d1b512efcc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "81fca64918519ea858a29f930b151c12c82a1b42a908961a62e433d1b512efcc",
+      "translation_sha256": "2a4634ed782f8ad5c05ab701d8a4805f0cfa042d75085a8725c93f6ec15f3ecc",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:7",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 7,
+          "source_ref": "1 Peter 5:7",
+          "segment_mode": "whole",
+          "sha256": "f896bfec5c1776c7d353b7e441976520e9346ca7bd2603459efb05aa8e3db76b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f896bfec5c1776c7d353b7e441976520e9346ca7bd2603459efb05aa8e3db76b",
+      "translation_sha256": "194df73b8f23a686502cedbaf7118bd94de813b330f2dd7dfb8cc914469c5b49",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:8",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 8,
+          "source_ref": "1 Peter 5:8",
+          "segment_mode": "whole",
+          "sha256": "c00f3eb29c8ba0441abf774162158018aea127463658a029a5f796f5741f6e17"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c00f3eb29c8ba0441abf774162158018aea127463658a029a5f796f5741f6e17",
+      "translation_sha256": "eeadb12d18eac4207d46adf255cfdd9db2285e3ce9ae99ee49b068e5b03e5d24",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "1 Peter 5:9",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 9,
+          "source_ref": "1 Peter 5:9",
+          "segment_mode": "whole",
+          "sha256": "75d295b2e98964c2de636f2f981e6deef3540f578deb4df36117814bf572414f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "75d295b2e98964c2de636f2f981e6deef3540f578deb4df36117814bf572414f",
+      "translation_sha256": "e72b33c46d22f3dc881c93f91bfd8b7bc4d3e1a3eb4496cb34fdbca4d61ba685",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:10",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 10,
+          "source_ref": "1 Peter 5:10",
+          "segment_mode": "whole",
+          "sha256": "370659c917b55791b35f3cb11158afc7be7670ff97f660b250c75c8e44e41369"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "370659c917b55791b35f3cb11158afc7be7670ff97f660b250c75c8e44e41369",
+      "translation_sha256": "8519e823a381e7eb1732ce0ff7a282c111e3f3e3f573da9b99c5b28df1c7cc8d",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:11",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 11,
+          "source_ref": "1 Peter 5:11",
+          "segment_mode": "whole",
+          "sha256": "24933f3109abf0c8657e71740f646d2998fcc539f148a8a5d08404a2f8d4cc2e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "24933f3109abf0c8657e71740f646d2998fcc539f148a8a5d08404a2f8d4cc2e",
+      "translation_sha256": "3333fc141eb4b76076e15b740d71068020c91bd5440d5f2522b6dc5398ce534e",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:12",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 12,
+          "source_ref": "1 Peter 5:12",
+          "segment_mode": "whole",
+          "sha256": "9a5adf6d5139da64b269e380539bdea2ffb5bdc561b1fbe5cc01abc7079060f0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9a5adf6d5139da64b269e380539bdea2ffb5bdc561b1fbe5cc01abc7079060f0",
+      "translation_sha256": "a213e06938b4ba863354d387783e0fe11434a0cac6885bd7410463ebbc66fabf",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:13",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 13,
+          "source_ref": "1 Peter 5:13",
+          "segment_mode": "whole",
+          "sha256": "f89316652a02ae1f9d5d6c7b650faca7de6e3eed30151ad89f742e0da2b80105"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f89316652a02ae1f9d5d6c7b650faca7de6e3eed30151ad89f742e0da2b80105",
+      "translation_sha256": "079f8387a576320cfd354d4ac7b5dfcdd2a2923146a04bdfe9297ae2a1619518",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 5,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "1 Peter 5:14",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 14,
+          "source_ref": "1 Peter 5:14",
+          "segment_mode": "whole",
+          "sha256": "a944eff3d35dc38e67a65dd352fd8dc747df792b5ac84b0d972c23f617e4f0c9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a944eff3d35dc38e67a65dd352fd8dc747df792b5ac84b0d972c23f617e4f0c9",
+      "translation_sha256": "a394049ffb0ae79e5a80492e34b0a4cd68d7c6abdc276b2b4335fc75c5dfde8e",
+      "tsw_blob_sha": "0b2aeda8e4e72c8b386155043e94ff324ef9ac20",
+      "curated_decisions": []
+    }
+  ],
+  "summary": {
+    "F0": 47,
+    "F1": 11,
+    "F2": 0,
+    "F3": 47
+  },
+  "public_verse_slots": 105,
+  "included_source_bindings": 105
+}

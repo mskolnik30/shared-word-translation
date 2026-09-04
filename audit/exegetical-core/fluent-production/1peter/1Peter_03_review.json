@@ -1,0 +1,372 @@
+{
+  "book": "1 Peter",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Pet.txt",
+    "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "3:18-22",
+      "decision": "Retain the difficult spirits/prison/baptism sequence without harmonizing away its ambiguity.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Pet.txt",
+    "git_blob_sha": "fe0f29aecbc8476ce87df0bf396e5e78c410491d",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Peter 3:1",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 1,
+            "source_ref": "1 Peter 3:1",
+            "segment_mode": "whole",
+            "sha256": "304b4a0df5ca6ed71e95205eca645c610f34af61b3c686684419438e56b868bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "304b4a0df5ca6ed71e95205eca645c610f34af61b3c686684419438e56b868bd"
+      },
+      "2": {
+        "source_ref": "1 Peter 3:2",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 2,
+            "source_ref": "1 Peter 3:2",
+            "segment_mode": "whole",
+            "sha256": "3a94da13cfe897b4c7a06304714c294053ab799c38e246e5ff8b048d97bfe54f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a94da13cfe897b4c7a06304714c294053ab799c38e246e5ff8b048d97bfe54f"
+      },
+      "3": {
+        "source_ref": "1 Peter 3:3",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 3,
+            "source_ref": "1 Peter 3:3",
+            "segment_mode": "whole",
+            "sha256": "60b5f2d0ed492b5ae37fbcd9c208b623124ac75e2321cfc159b6dbe8bbc4742e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60b5f2d0ed492b5ae37fbcd9c208b623124ac75e2321cfc159b6dbe8bbc4742e"
+      },
+      "4": {
+        "source_ref": "1 Peter 3:4",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 4,
+            "source_ref": "1 Peter 3:4",
+            "segment_mode": "whole",
+            "sha256": "d2ea130802ee98bb0463653f5a42f0644b322d8ae96d87ff7b2ffdd64131fa0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2ea130802ee98bb0463653f5a42f0644b322d8ae96d87ff7b2ffdd64131fa0c"
+      },
+      "5": {
+        "source_ref": "1 Peter 3:5",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 5,
+            "source_ref": "1 Peter 3:5",
+            "segment_mode": "whole",
+            "sha256": "8a24d860c0af64162aaf1bd506fe9ecea2d72242a1a0819dd12811f04774edb1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a24d860c0af64162aaf1bd506fe9ecea2d72242a1a0819dd12811f04774edb1"
+      },
+      "6": {
+        "source_ref": "1 Peter 3:6",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 6,
+            "source_ref": "1 Peter 3:6",
+            "segment_mode": "whole",
+            "sha256": "6bf11c9a4e7481620070054c2020448e8529992babca401b338976fe8c1a9872"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6bf11c9a4e7481620070054c2020448e8529992babca401b338976fe8c1a9872"
+      },
+      "7": {
+        "source_ref": "1 Peter 3:7",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 7,
+            "source_ref": "1 Peter 3:7",
+            "segment_mode": "whole",
+            "sha256": "49289f269639b8e1a294ced3a6f267f3f3e0f5e0c05005926296200d6b11f089"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "49289f269639b8e1a294ced3a6f267f3f3e0f5e0c05005926296200d6b11f089"
+      },
+      "8": {
+        "source_ref": "1 Peter 3:8",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 8,
+            "source_ref": "1 Peter 3:8",
+            "segment_mode": "whole",
+            "sha256": "ce35dabef204e926b6c4ad58cb9ef54c89f574d975a5a8f2594f0a1fdcf014cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce35dabef204e926b6c4ad58cb9ef54c89f574d975a5a8f2594f0a1fdcf014cf"
+      },
+      "9": {
+        "source_ref": "1 Peter 3:9",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 9,
+            "source_ref": "1 Peter 3:9",
+            "segment_mode": "whole",
+            "sha256": "feeae9995b57c466984052ef8e25ebe3589d69e6206662e6fe8a8fce01c76464"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "feeae9995b57c466984052ef8e25ebe3589d69e6206662e6fe8a8fce01c76464"
+      },
+      "10": {
+        "source_ref": "1 Peter 3:10",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 10,
+            "source_ref": "1 Peter 3:10",
+            "segment_mode": "whole",
+            "sha256": "b94f434bfc7448821ec453341c5a206d0b9e8292fecf20880c281c1f23aadcc0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b94f434bfc7448821ec453341c5a206d0b9e8292fecf20880c281c1f23aadcc0"
+      },
+      "11": {
+        "source_ref": "1 Peter 3:11",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 11,
+            "source_ref": "1 Peter 3:11",
+            "segment_mode": "whole",
+            "sha256": "7ff7ef15f792443de509b645ebcdbcbb0e66958134074b7dafc4420d637172ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7ff7ef15f792443de509b645ebcdbcbb0e66958134074b7dafc4420d637172ba"
+      },
+      "12": {
+        "source_ref": "1 Peter 3:12",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 12,
+            "source_ref": "1 Peter 3:12",
+            "segment_mode": "whole",
+            "sha256": "d550d9013e455422a480df39e98790dd70cb09eb137fe7fde44354e9fcfe8ce8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d550d9013e455422a480df39e98790dd70cb09eb137fe7fde44354e9fcfe8ce8"
+      },
+      "13": {
+        "source_ref": "1 Peter 3:13",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 13,
+            "source_ref": "1 Peter 3:13",
+            "segment_mode": "whole",
+            "sha256": "7b8a729053c81fcb2ac7e3439b6feab984f99c4344875f7e27b3071831db074e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b8a729053c81fcb2ac7e3439b6feab984f99c4344875f7e27b3071831db074e"
+      },
+      "14": {
+        "source_ref": "1 Peter 3:14",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 14,
+            "source_ref": "1 Peter 3:14",
+            "segment_mode": "whole",
+            "sha256": "d07359b02ed5357eda3ff20d228395636340f4132fc700568e9b183e5448dabf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d07359b02ed5357eda3ff20d228395636340f4132fc700568e9b183e5448dabf"
+      },
+      "15": {
+        "source_ref": "1 Peter 3:15",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 15,
+            "source_ref": "1 Peter 3:15",
+            "segment_mode": "whole",
+            "sha256": "8d3a328c558bb906412b4f682f7aacf60c6098e4743090611de4b8cd13cc78e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d3a328c558bb906412b4f682f7aacf60c6098e4743090611de4b8cd13cc78e5"
+      },
+      "16": {
+        "source_ref": "1 Peter 3:16",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 16,
+            "source_ref": "1 Peter 3:16",
+            "segment_mode": "whole",
+            "sha256": "e3d3491b081e0e10bd80d1eea95cf1916aa414cad12d663fd891f9aef2e47e5d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3d3491b081e0e10bd80d1eea95cf1916aa414cad12d663fd891f9aef2e47e5d"
+      },
+      "17": {
+        "source_ref": "1 Peter 3:17",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 17,
+            "source_ref": "1 Peter 3:17",
+            "segment_mode": "whole",
+            "sha256": "fbd55ade3dca6f75900ebadeb1ab134363bd3c59ea387913a4ae632ce23776d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbd55ade3dca6f75900ebadeb1ab134363bd3c59ea387913a4ae632ce23776d4"
+      },
+      "18": {
+        "source_ref": "1 Peter 3:18",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 18,
+            "source_ref": "1 Peter 3:18",
+            "segment_mode": "whole",
+            "sha256": "1c34ea27194b55c2ede9486b62b6ee82c518ff6e448e66e4732ae40b37ab4105"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1c34ea27194b55c2ede9486b62b6ee82c518ff6e448e66e4732ae40b37ab4105"
+      },
+      "19": {
+        "source_ref": "1 Peter 3:19",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 19,
+            "source_ref": "1 Peter 3:19",
+            "segment_mode": "whole",
+            "sha256": "ef1e9fe5fa9feb835c50fb80e2858fe59f3fbd3e01a16f26d6ffe0af0a458480"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef1e9fe5fa9feb835c50fb80e2858fe59f3fbd3e01a16f26d6ffe0af0a458480"
+      },
+      "20": {
+        "source_ref": "1 Peter 3:20",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 20,
+            "source_ref": "1 Peter 3:20",
+            "segment_mode": "whole",
+            "sha256": "c4445df6a3b44fd6b82d832c3bd6eb1e929f241a72aeb7b911f64cfe2ea3b23b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c4445df6a3b44fd6b82d832c3bd6eb1e929f241a72aeb7b911f64cfe2ea3b23b"
+      },
+      "21": {
+        "source_ref": "1 Peter 3:21",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 21,
+            "source_ref": "1 Peter 3:21",
+            "segment_mode": "whole",
+            "sha256": "39ce8fe8b7d6da3dbaf224ff29de870f553a242a31cd2137aaafb35ef86e5247"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39ce8fe8b7d6da3dbaf224ff29de870f553a242a31cd2137aaafb35ef86e5247"
+      },
+      "22": {
+        "source_ref": "1 Peter 3:22",
+        "source_records": [
+          {
+            "chapter": 3,
+            "verse": 22,
+            "source_ref": "1 Peter 3:22",
+            "segment_mode": "whole",
+            "sha256": "e7b0c6c2a54805a58b1669b3272e0b40f7fd71b61763eff83b88036a73bdb561"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e7b0c6c2a54805a58b1669b3272e0b40f7fd71b61763eff83b88036a73bdb561"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1peter/1Peter_03.md",
+    "blob_sha": "05bff00d9f641611338ba3659f7a3f9f5275305f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
