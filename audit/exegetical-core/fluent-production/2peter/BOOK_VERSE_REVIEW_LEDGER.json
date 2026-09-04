@@ -1,0 +1,1384 @@
+{
+  "book": "2 Peter",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2Pet.txt",
+    "git_blob_sha": "4e5e26aba20f43d1509afc828e96d90134e52e00"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 Peter 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "2 Peter 1:1",
+          "segment_mode": "whole",
+          "sha256": "db6effbae3eb8ce7cc6ddbd33ee036f6ad835165f06396976c04aaebd001c554"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "db6effbae3eb8ce7cc6ddbd33ee036f6ad835165f06396976c04aaebd001c554",
+      "translation_sha256": "74a6e462f794291647df5a747203908089c522698f231f72f386cc2c60d2cbb8",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "2 Peter 1:2",
+          "segment_mode": "whole",
+          "sha256": "1619a2195be56042c03675db66ab7b7f7fb4fa70d982cdcad19a88ead66d1784"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1619a2195be56042c03675db66ab7b7f7fb4fa70d982cdcad19a88ead66d1784",
+      "translation_sha256": "0a3f490b52b4ea785b961d57a4ee8ac10fa8a1e81ccdc5012fad267f475e2f87",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 Peter 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "2 Peter 1:3",
+          "segment_mode": "whole",
+          "sha256": "d782bb721be201e71814d63169568e9fe780b6c63cdf1f1de60a2ab17c89d751"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d782bb721be201e71814d63169568e9fe780b6c63cdf1f1de60a2ab17c89d751",
+      "translation_sha256": "9d3ed84b4b6cf161afbb06a716544ba65cdc0a56114c82175d2ba60867f8b20b",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "2 Peter 1:4",
+          "segment_mode": "whole",
+          "sha256": "fe7c58703df45a0a7b6f2d4c48403863b73fc1e883b9f3be49bf68c90e844295"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fe7c58703df45a0a7b6f2d4c48403863b73fc1e883b9f3be49bf68c90e844295",
+      "translation_sha256": "4bf060d999479847f879257929761b93700cbf4ee32a6e5acee055bd490535bc",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "2 Peter 1:5",
+          "segment_mode": "whole",
+          "sha256": "622c8cf4066edaf5ea8b0ed72e66e90d17ab1ebb5f8ee83e7cb4f5616eb84557"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "622c8cf4066edaf5ea8b0ed72e66e90d17ab1ebb5f8ee83e7cb4f5616eb84557",
+      "translation_sha256": "83f95550a04f8802de39a842edb96f1fe8726b12137533a1e85009b81706ae7a",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "2 Peter 1:6",
+          "segment_mode": "whole",
+          "sha256": "6d09868f4c377b6f32c5600e448c6cc29a573c0880b5a6f7fce68160d698e566"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6d09868f4c377b6f32c5600e448c6cc29a573c0880b5a6f7fce68160d698e566",
+      "translation_sha256": "cf9aba1896417004bc9d043274547800020d21a4ec79f71a1d25f2f1fccb8450",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "2 Peter 1:7",
+          "segment_mode": "whole",
+          "sha256": "06775bcd262848e1fced9521051c2cdec055b3663abfac41733733b2568f7945"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "06775bcd262848e1fced9521051c2cdec055b3663abfac41733733b2568f7945",
+      "translation_sha256": "7e35e190063853ea71a7172feb1d7de64396c7a231a6c40ddbd3c0a486c71ae6",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "2 Peter 1:8",
+          "segment_mode": "whole",
+          "sha256": "cf0a2cfaad7a3e9bdf5cae1d7cb6b2fc091ba64bf03f24332f70250dfbcd5de2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cf0a2cfaad7a3e9bdf5cae1d7cb6b2fc091ba64bf03f24332f70250dfbcd5de2",
+      "translation_sha256": "287fe66878bc9d513e2ca862482d39a0abcf36feb1bf2ec3399ee35af5257c63",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "2 Peter 1:9",
+          "segment_mode": "whole",
+          "sha256": "0d7011a9d4779865b18b776326853cc77730340b9d9fba8bcf4550c53bba9e49"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0d7011a9d4779865b18b776326853cc77730340b9d9fba8bcf4550c53bba9e49",
+      "translation_sha256": "e92bcde1e33d34aa957ca9ef35ad9c15c8d230b8453e74b17b0ca7e7810f577f",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 Peter 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "2 Peter 1:10",
+          "segment_mode": "whole",
+          "sha256": "7f43ab928ec3cd669fd3c7d57cd1b2eac5a09c7a0e25df076b39a8c3d3c34686"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7f43ab928ec3cd669fd3c7d57cd1b2eac5a09c7a0e25df076b39a8c3d3c34686",
+      "translation_sha256": "7c8f18cacc413a5613ba729631d3f3ef83649bc6644d5a1851addc451f259b4c",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "2 Peter 1:11",
+          "segment_mode": "whole",
+          "sha256": "3eab6741b232757ffcda4db7bbb4940e098e7669af92596a1818ef62fb3a4136"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3eab6741b232757ffcda4db7bbb4940e098e7669af92596a1818ef62fb3a4136",
+      "translation_sha256": "4842089080b0a6b6980e75e4754519daf39911d61f7548f23be794fa0595b9eb",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 Peter 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "2 Peter 1:12",
+          "segment_mode": "whole",
+          "sha256": "5c45a959c939bf9eec3b989d81a2bbc2669082af5ae590e1c3adaf07a2f5f96a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5c45a959c939bf9eec3b989d81a2bbc2669082af5ae590e1c3adaf07a2f5f96a",
+      "translation_sha256": "3b838b3c9ded71b3e71f8e6d30010b98dcf9be61aaf323d7f53ac2b6d22517fb",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "2 Peter 1:13",
+          "segment_mode": "whole",
+          "sha256": "7efd4746a447ac08dfa87c92e43923526903147fed2ce5d2fe3d6e0995f0a934"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7efd4746a447ac08dfa87c92e43923526903147fed2ce5d2fe3d6e0995f0a934",
+      "translation_sha256": "0ecdd165ceb961267d5d045a40c06dc5fb078ea4d67ed0c4fdb9f6ffeaab64db",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "2 Peter 1:14",
+          "segment_mode": "whole",
+          "sha256": "5fef7abfb7e6276d54e882885fd82a2aebaf6a40aeec63b2173ac8ded4e25973"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5fef7abfb7e6276d54e882885fd82a2aebaf6a40aeec63b2173ac8ded4e25973",
+      "translation_sha256": "3bf3fa1eb8141b923377d7e93a59a65bfdb2f0a6204681fa9a8459313d9d31fd",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 Peter 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "2 Peter 1:15",
+          "segment_mode": "whole",
+          "sha256": "b810ae5b55abdfd36000f8ce7db15bc645e3cfa42980f839d75a2187ed8964d2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b810ae5b55abdfd36000f8ce7db15bc645e3cfa42980f839d75a2187ed8964d2",
+      "translation_sha256": "1f2df2b9cf635d2fedb6ac0c1a221040a59d6004074551125aa14e2f09d399ac",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "2 Peter 1:16",
+          "segment_mode": "whole",
+          "sha256": "175f3cd710501f48b1f3056ca1a78fc615cb37b0fc6691ac37cb68c40f042cc6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "175f3cd710501f48b1f3056ca1a78fc615cb37b0fc6691ac37cb68c40f042cc6",
+      "translation_sha256": "c84d8148855e87930635f4c76311c0c1f5b7a64a9c8e2c2df21275e0a0ed4e14",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": [
+        "Preserve eyewitness, transfiguration, prophecy, and Spirit language without opposing Scripture to experience."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "2 Peter 1:17",
+          "segment_mode": "whole",
+          "sha256": "4295ac05f4d263207307f03302a15ecb046b9e72c78fcb05def4bbc9fc211b48"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4295ac05f4d263207307f03302a15ecb046b9e72c78fcb05def4bbc9fc211b48",
+      "translation_sha256": "5d524eefcb2f7c5cead0590a8c51f8e6842f7cfc4f7e062ac5fc4cd9e0decdc3",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": [
+        "Preserve eyewitness, transfiguration, prophecy, and Spirit language without opposing Scripture to experience."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 1:18",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 18,
+          "source_ref": "2 Peter 1:18",
+          "segment_mode": "whole",
+          "sha256": "eb53fe306ee2af2d8e85fef900af8cb88c6174c137040936c1534e6926047a57"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "eb53fe306ee2af2d8e85fef900af8cb88c6174c137040936c1534e6926047a57",
+      "translation_sha256": "1a7f00e9461dfbd9454223f9b4440175580e2b8e03673917c20a44b02513f282",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": [
+        "Preserve eyewitness, transfiguration, prophecy, and Spirit language without opposing Scripture to experience."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 1:19",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 19,
+          "source_ref": "2 Peter 1:19",
+          "segment_mode": "whole",
+          "sha256": "438a40e6ff6531f90b719f983d447f019a83ae313a8cef394a6baa0425595fd4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "438a40e6ff6531f90b719f983d447f019a83ae313a8cef394a6baa0425595fd4",
+      "translation_sha256": "b19b88c0dccf1df9ff5b9d704224c10e4445ea0a369d5692a838ed4b450f8e7f",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": [
+        "Preserve eyewitness, transfiguration, prophecy, and Spirit language without opposing Scripture to experience."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 1:20",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 20,
+          "source_ref": "2 Peter 1:20",
+          "segment_mode": "whole",
+          "sha256": "b244c5582c1e047d5a45d536649dd4942201ed0d702b4b8fffe434e771392212"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b244c5582c1e047d5a45d536649dd4942201ed0d702b4b8fffe434e771392212",
+      "translation_sha256": "9474eda60e7649988817fbe4a42332506ffb5b03c2026e2c7a224db331bcd293",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": [
+        "Preserve eyewitness, transfiguration, prophecy, and Spirit language without opposing Scripture to experience."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 1:21",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 21,
+          "source_ref": "2 Peter 1:21",
+          "segment_mode": "whole",
+          "sha256": "fbfc9311300c0c6abaef822c9d18207ba155cf022e380deeecb507962661b0e2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fbfc9311300c0c6abaef822c9d18207ba155cf022e380deeecb507962661b0e2",
+      "translation_sha256": "92de099efec61d1100b4a9369da43cac73dc1cd24fca1750fed99944e91a1e5b",
+      "tsw_blob_sha": "170b3805cbfb433bdc33cddaabd090045d00839f",
+      "curated_decisions": [
+        "Preserve eyewitness, transfiguration, prophecy, and Spirit language without opposing Scripture to experience."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "2 Peter 2:1",
+          "segment_mode": "whole",
+          "sha256": "db8d23e6d6d35f217832089535daf72553b078f15e72ae3cc8a57d0f69505781"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "db8d23e6d6d35f217832089535daf72553b078f15e72ae3cc8a57d0f69505781",
+      "translation_sha256": "33ed49939bab0921fc39f585e29b24950b520220a10ceb20a5b333d4db6644ba",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "2 Peter 2:2",
+          "segment_mode": "whole",
+          "sha256": "e901411038e25eb58f70aaab201a0acd9a0a4cbda86e8b94e6d3db3143b94bf0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e901411038e25eb58f70aaab201a0acd9a0a4cbda86e8b94e6d3db3143b94bf0",
+      "translation_sha256": "06b6fd1d875299a260fc19f32aa1adf2d5bb68d5ad219ce73e8c23c21ea2ff8e",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "2 Peter 2:3",
+          "segment_mode": "whole",
+          "sha256": "1df8f761adc6730832ebf20d2ae5532c3793679c013039b486bb397dc547e099"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1df8f761adc6730832ebf20d2ae5532c3793679c013039b486bb397dc547e099",
+      "translation_sha256": "a5f03ea1156ab4a74c61043dcf7addbfae57e3aaae337918fc5bce2229174cfd",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "2 Peter 2:4",
+          "segment_mode": "whole",
+          "sha256": "9a563f73ac3fab262abab6e5831532e089cca29384c7118e41c77026173de462"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9a563f73ac3fab262abab6e5831532e089cca29384c7118e41c77026173de462",
+      "translation_sha256": "744a28bbe6e645d4232a145b83ea87cd5a19d4a4abac86fe6fc11128ec27aeda",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "2 Peter 2:5",
+          "segment_mode": "whole",
+          "sha256": "464d745ab793d8669881505a5e9b6a858be9577b48a70de957264a1134abf4dc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "464d745ab793d8669881505a5e9b6a858be9577b48a70de957264a1134abf4dc",
+      "translation_sha256": "bfc14569a137365c5d069f74f4e1af12f109f254f49ace596c043d097c71add4",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "2 Peter 2:6",
+          "segment_mode": "whole",
+          "sha256": "91aa2f881db2d24f777b167560f93ae5d5ad560e35e72a842333d344c3aff18c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "91aa2f881db2d24f777b167560f93ae5d5ad560e35e72a842333d344c3aff18c",
+      "translation_sha256": "e6ee5fb00254031af442f38790a3f7398370aa213d9c139da1fcd88e6fcbe031",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "2 Peter 2:7",
+          "segment_mode": "whole",
+          "sha256": "8850014934a6a771cc3dd3a1734985bad20c9ec2680018a5778e5782d4878977"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8850014934a6a771cc3dd3a1734985bad20c9ec2680018a5778e5782d4878977",
+      "translation_sha256": "9bad67384d3d654ecdff725b1fb1304b46f2e1c689f2865e0e9d10e5e57ed23c",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "2 Peter 2:8",
+          "segment_mode": "whole",
+          "sha256": "82d6d73250216146015e8c9308f79c1da28d2d652329819dd24a928fce036d1c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "82d6d73250216146015e8c9308f79c1da28d2d652329819dd24a928fce036d1c",
+      "translation_sha256": "a3349e86ea67e470e0b1b947b275949998b612cf306a022d8bd3e5146e7fed0b",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "2 Peter 2:9",
+          "segment_mode": "whole",
+          "sha256": "009ce1dea1b749e5d04dfdf89c9c8068af98b1dda1dd51d477404f3e4b535f9d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "009ce1dea1b749e5d04dfdf89c9c8068af98b1dda1dd51d477404f3e4b535f9d",
+      "translation_sha256": "0207375e4efcc31a5d54879fcf370d496028adefb9cf4a8a57f0e30d223d8b62",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "2 Peter 2:10",
+          "segment_mode": "whole",
+          "sha256": "5ded77943ea3f7c3a245a2a60ae57b3a274b8777449df165eb9bd144ce5bc0b8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5ded77943ea3f7c3a245a2a60ae57b3a274b8777449df165eb9bd144ce5bc0b8",
+      "translation_sha256": "3fe851688f7733fcd67ccc4d611b35bb975ea9b128a62227e2e52c45a91ad77c",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "2 Peter 2:11",
+          "segment_mode": "whole",
+          "sha256": "bb9aad5eb7924347f2f22909a04ea6184f356b51cfa7fec27ba1e10348c0d4fd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bb9aad5eb7924347f2f22909a04ea6184f356b51cfa7fec27ba1e10348c0d4fd",
+      "translation_sha256": "80a90742af03a5404f8fb98b6f5b61a896f33214e73723ed26c927872066bfe3",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "2 Peter 2:12",
+          "segment_mode": "whole",
+          "sha256": "053a090c50a6a086ee739c0567a59c16750466cd0fa734e2bf5bc2e7bd7ac645"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "053a090c50a6a086ee739c0567a59c16750466cd0fa734e2bf5bc2e7bd7ac645",
+      "translation_sha256": "653105ee54026bdafa8dc05942bf93fac8bf94fab997b1c817bae9ac55a7fc55",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "2 Peter 2:13",
+          "segment_mode": "whole",
+          "sha256": "06ef9ef62ece82816c4af7a65828c9077e39636e8e632d8ffdaac8a3830531a6"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "06ef9ef62ece82816c4af7a65828c9077e39636e8e632d8ffdaac8a3830531a6",
+      "translation_sha256": "ee6ae67da1fb5d9a45e5d588cff192e3c647d7460f91639c09122dc215bc379a",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "2 Peter 2:14",
+          "segment_mode": "whole",
+          "sha256": "94085a28d6a613885406719d5302118f0f98db87e7785f7539c731aec9606bf7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "94085a28d6a613885406719d5302118f0f98db87e7785f7539c731aec9606bf7",
+      "translation_sha256": "6c37769adae94574631878d0ad01450f92cb6f4b5d2977c8e366e32ea5c50f9d",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "2 Peter 2:15",
+          "segment_mode": "whole",
+          "sha256": "0c9ab7c8efbd8f0eb66e9eca31835ad89e9454e65bb8fef147e2f7c61629fe2c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0c9ab7c8efbd8f0eb66e9eca31835ad89e9454e65bb8fef147e2f7c61629fe2c",
+      "translation_sha256": "a6d1163cc91567f633858d84b617fff6adddcda0a166a034219603e90dd8ea7f",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:16",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "2 Peter 2:16",
+          "segment_mode": "whole",
+          "sha256": "02d966076b23e44eb156d6940057cae2ba4087a017209caf1ba3d81f97ff13c1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "02d966076b23e44eb156d6940057cae2ba4087a017209caf1ba3d81f97ff13c1",
+      "translation_sha256": "053c23bec769164d1fb0891e6cdd77ec67efd9491d284c9c1d676bb72bb6069d",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:17",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "2 Peter 2:17",
+          "segment_mode": "whole",
+          "sha256": "e4ac3e7041d89b13c1720cbb1c7e4564f3812beedb0889bbbf1bbc299bc8b35f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e4ac3e7041d89b13c1720cbb1c7e4564f3812beedb0889bbbf1bbc299bc8b35f",
+      "translation_sha256": "06fbdf2f57de50aea51bfafb462bec7ced7b48f80d4adab4f44706244c9441c4",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:18",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 18,
+          "source_ref": "2 Peter 2:18",
+          "segment_mode": "whole",
+          "sha256": "37d3f10e2db23445f66f0a5cc4635605f6257cb10ccf4df5c7e1ac6e43cd5af7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "37d3f10e2db23445f66f0a5cc4635605f6257cb10ccf4df5c7e1ac6e43cd5af7",
+      "translation_sha256": "5f7c76d54331747fa52cd57573ed64a41e1fa1f35ced565ed6271b09a3e72f54",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 19,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:19",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 19,
+          "source_ref": "2 Peter 2:19",
+          "segment_mode": "whole",
+          "sha256": "1792c8ebd7200007d2fb99eee0799f86f692f5c058d557d9a0bdb2e9392941ba"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1792c8ebd7200007d2fb99eee0799f86f692f5c058d557d9a0bdb2e9392941ba",
+      "translation_sha256": "eed9945396c0ccf2592925be6909d44da7ead69f9e48e74f4f0365b36ade0010",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 20,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:20",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 20,
+          "source_ref": "2 Peter 2:20",
+          "segment_mode": "whole",
+          "sha256": "c2b3c8dd0df4950dd31b958ce2123ee2287d8c874e052980af70713ecdcd3411"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c2b3c8dd0df4950dd31b958ce2123ee2287d8c874e052980af70713ecdcd3411",
+      "translation_sha256": "701d9d41457a116878340db48531aed33be2d8426c919714cd2c99bb86556a64",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 21,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:21",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 21,
+          "source_ref": "2 Peter 2:21",
+          "segment_mode": "whole",
+          "sha256": "489024beaa8cbc2bbd4c5a6e972fbec826ce18de7f93c837af35ed582ca3cd26"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "489024beaa8cbc2bbd4c5a6e972fbec826ce18de7f93c837af35ed582ca3cd26",
+      "translation_sha256": "1c0244fd4b6f04f392ade661d70f10e4bb8a5076d88cba3f2fa57095dfd88c96",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 22,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 2:22",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 22,
+          "source_ref": "2 Peter 2:22",
+          "segment_mode": "whole",
+          "sha256": "ff61c19701029b991e5b1f0465ddd5a7671341a61756113254ae16965326279f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ff61c19701029b991e5b1f0465ddd5a7671341a61756113254ae16965326279f",
+      "translation_sha256": "eba59fdcd584589ba98084e43db566601f1c8661b3410c206f4011aad5d7978d",
+      "tsw_blob_sha": "a0fd702193083ca21df8f8e34e170527ad64aa87",
+      "curated_decisions": [
+        "Retain the polemical warning while refusing to map unnamed opponents onto modern groups."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "2 Peter 3:1",
+          "segment_mode": "whole",
+          "sha256": "26319e4871dc28d9c7c4d064222007ad9cc4fdffa60d0019697328be6dd0ba39"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "26319e4871dc28d9c7c4d064222007ad9cc4fdffa60d0019697328be6dd0ba39",
+      "translation_sha256": "386819021a3a726dcb41dd224eedd22465684d5565f9165faf3e5e751291ad9b",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "2 Peter 3:2",
+          "segment_mode": "whole",
+          "sha256": "7c0e675d76a26fa3fcdb049fd88528ee320b614b75d1ec36192e285864cd58c0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7c0e675d76a26fa3fcdb049fd88528ee320b614b75d1ec36192e285864cd58c0",
+      "translation_sha256": "677844c62c1a20c1e124eb02c20d238372318bb6b3918276fa38599e127e2db3",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "2 Peter 3:3",
+          "segment_mode": "whole",
+          "sha256": "e6dbe210278afc6dae2397888a154e128066fe5e546f2b17679ada714965a374"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e6dbe210278afc6dae2397888a154e128066fe5e546f2b17679ada714965a374",
+      "translation_sha256": "9a3084fe2128a955ed9d7524df0700e21293f0e2ea4db8b4a6d61521c40541af",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "2 Peter 3:4",
+          "segment_mode": "whole",
+          "sha256": "0b7018b1eb36afbd7713255a71a37ce99c77b6fdf40252a8b4eee5a0ee796e76"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0b7018b1eb36afbd7713255a71a37ce99c77b6fdf40252a8b4eee5a0ee796e76",
+      "translation_sha256": "ad96df31ca55fafad0c4a6c3d7ac96ed769f25c82fbd9cb390b72d9256e367b0",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "2 Peter 3:5",
+          "segment_mode": "whole",
+          "sha256": "bdd083000ad94a084a940433377252ec439a32284a6ea5ddafe01079c038a88a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bdd083000ad94a084a940433377252ec439a32284a6ea5ddafe01079c038a88a",
+      "translation_sha256": "90a49e60382756e6dcdb0e5257dace661db0374140b42ceaa24c2d76ad06869b",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "2 Peter 3:6",
+          "segment_mode": "whole",
+          "sha256": "bc753495f4810e5ea4610cdef701e921c7f62020082493ba42737a975bf1eff9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bc753495f4810e5ea4610cdef701e921c7f62020082493ba42737a975bf1eff9",
+      "translation_sha256": "76d37c0be34e90e96fb4180f0ab70df47df1dcb0f9a3456c5827aee424d123e9",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "2 Peter 3:7",
+          "segment_mode": "whole",
+          "sha256": "6579d965ccb435a8c565dd43130a20b3b2382dd64f6839a75249c3d25d0b563b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6579d965ccb435a8c565dd43130a20b3b2382dd64f6839a75249c3d25d0b563b",
+      "translation_sha256": "f52c1b2d47dd7c25fab18786c48ec9920aa61fe2d7c6288e00d250b847c68b8f",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "2 Peter 3:8",
+          "segment_mode": "whole",
+          "sha256": "7073e7f4da2c19cf992603dcc1ba11e37fa5a499bd71290a23eca0ee66225ac9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7073e7f4da2c19cf992603dcc1ba11e37fa5a499bd71290a23eca0ee66225ac9",
+      "translation_sha256": "145a6979dd3acc467e9a91aa10f2425cc3d6fb88de15cce95bef66a61201e264",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "2 Peter 3:9",
+          "segment_mode": "whole",
+          "sha256": "ec8fcb9d4d31307b547dad571afd00e8241d71a1933101ec19f50eaa8ad9bb5b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ec8fcb9d4d31307b547dad571afd00e8241d71a1933101ec19f50eaa8ad9bb5b",
+      "translation_sha256": "0c99912a736b9cf073fe626eaaa94f20c498ef0855322d6e0481dc8f37374ba8",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "2 Peter 3:10",
+          "segment_mode": "whole",
+          "sha256": "de099a5a64f77d2424a7f69dedf0a5ab79ff3e9cba322500b319954ecdf12f93"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "de099a5a64f77d2424a7f69dedf0a5ab79ff3e9cba322500b319954ecdf12f93",
+      "translation_sha256": "17a57590be4c1071fa485473e111e714e6f21b49d46bd12dd3b4b8682f9384ee",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "2 Peter 3:11",
+          "segment_mode": "whole",
+          "sha256": "9d86ede0024cba76be5834a471519b2f71d886a22eb5819f183ccd3301a6f3e5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9d86ede0024cba76be5834a471519b2f71d886a22eb5819f183ccd3301a6f3e5",
+      "translation_sha256": "d1ca215bee4b76d14ab84738f019bf58a4c3be6a721cb0a9a361d59b15ffffaf",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:12",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 12,
+          "source_ref": "2 Peter 3:12",
+          "segment_mode": "whole",
+          "sha256": "4ca0cf0c450a9ea614790a12c51af6753a7053903fbcddbd70ecc73ae05829ea"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4ca0cf0c450a9ea614790a12c51af6753a7053903fbcddbd70ecc73ae05829ea",
+      "translation_sha256": "eb39ada8ed3a7577b2df2b874de1f6b20f2d742034ee7e3cb8c9af23de8048a5",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:13",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 13,
+          "source_ref": "2 Peter 3:13",
+          "segment_mode": "whole",
+          "sha256": "08afbc75e7bf161aa6f26e3b25b3adaf8c4d459a8ad592b9552c617d1997a5a9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "08afbc75e7bf161aa6f26e3b25b3adaf8c4d459a8ad592b9552c617d1997a5a9",
+      "translation_sha256": "90ab01d0b46ca83a2657185f8953e084595445cadb2725dce6cf1eb088828e59",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Translate cosmic judgment and new creation without manufacturing a timetable."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 Peter 3:14",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 14,
+          "source_ref": "2 Peter 3:14",
+          "segment_mode": "whole",
+          "sha256": "8a278cb082a6fb339611aa1bc0d425bfd19bb1dfb254c611190d65c668a617fd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8a278cb082a6fb339611aa1bc0d425bfd19bb1dfb254c611190d65c668a617fd",
+      "translation_sha256": "016470e5159eafa1c89917b50d289f651fac709711c9d4036ba7daf575f6f4e3",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:15",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 15,
+          "source_ref": "2 Peter 3:15",
+          "segment_mode": "whole",
+          "sha256": "35b5e78eb2f82cb0ce06b7e31894a8097ca3f2f60a394ec0d1fba19acfc83dfb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "35b5e78eb2f82cb0ce06b7e31894a8097ca3f2f60a394ec0d1fba19acfc83dfb",
+      "translation_sha256": "0f3da2ed55dbeb719abc1ec569b3bc18e8dc3cd6826aa607ea841a9f18810ce6",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Retain the early reference to Paul's letters and their misuse without overstating a closed canon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 Peter 3:16",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 16,
+          "source_ref": "2 Peter 3:16",
+          "segment_mode": "whole",
+          "sha256": "a2a2db12300ed1ee027e719e5431e6db0416b6b5651aeb136ad04918fdaab238"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "a2a2db12300ed1ee027e719e5431e6db0416b6b5651aeb136ad04918fdaab238",
+      "translation_sha256": "70f3e146a75e8134add0d127c0c8c17ccca8e31af81b2c31cf0dfe9c8dc7d6b0",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": [
+        "Retain the early reference to Paul's letters and their misuse without overstating a closed canon."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 3:17",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 17,
+          "source_ref": "2 Peter 3:17",
+          "segment_mode": "whole",
+          "sha256": "60226d7c0abd101b5e5094aecd74586088d3e38b32a28e6176256b2a20e8ecb4"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "60226d7c0abd101b5e5094aecd74586088d3e38b32a28e6176256b2a20e8ecb4",
+      "translation_sha256": "d8e437f87cb2733d5c8132d512647cbf3b921fc7aadcd46a1e3b30be6eba4ecf",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 3,
+      "public_verse": 18,
+      "source_present": true,
+      "classification": "F0",
+      "source_ref": "2 Peter 3:18",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 18,
+          "source_ref": "2 Peter 3:18",
+          "segment_mode": "whole",
+          "sha256": "e45791b02b96153884e915f58e0ae195358e0cc0903702881e2ae10a6a130e30"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e45791b02b96153884e915f58e0ae195358e0cc0903702881e2ae10a6a130e30",
+      "translation_sha256": "9bfd0c12b3d9d78da9be0a5d5c735202e883d77a61a1bbfae66cb797c53d0220",
+      "tsw_blob_sha": "1a6f815147f3b95b88adfe1203328be805e33f5d",
+      "curated_decisions": []
+    }
+  ],
+  "summary": {
+    "F0": 14,
+    "F1": 6,
+    "F2": 0,
+    "F3": 41
+  },
+  "public_verse_slots": 61,
+  "included_source_bindings": 61
+}
