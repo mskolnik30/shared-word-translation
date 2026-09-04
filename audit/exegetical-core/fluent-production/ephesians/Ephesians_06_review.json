@@ -1,0 +1,189 @@
+{
+  "book": "Ephesians",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 24,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Eph.txt",
+    "git_blob_sha": "a6e1ed7096486673ce3c89bb85869c8283297d5c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ephesians 6:1",
+        "source_chapter": 6,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "e4c100717e666b6f3a05796db13e1f3052829a7f372b2a41fb6a5e170be0490c"
+      },
+      "2": {
+        "source_ref": "Ephesians 6:2",
+        "source_chapter": 6,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "9339b5d58e2d5ee4037c08c4317939d471ac1079c13c79ea7e0188132714892b"
+      },
+      "3": {
+        "source_ref": "Ephesians 6:3",
+        "source_chapter": 6,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "0029617124cf42033bd8b1fa4a65a5d8774c0dde78def047bcb507d312a3fd5b"
+      },
+      "4": {
+        "source_ref": "Ephesians 6:4",
+        "source_chapter": 6,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "7ef572debc2d4a2b0671bad9d93b23bdc689163398548d4a97bba939f0732a45"
+      },
+      "5": {
+        "source_ref": "Ephesians 6:5",
+        "source_chapter": 6,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "a6817b5e1ab63c61eaddfc2c32b277cbbeed254e9f6b838d443f7cea4a2f652f"
+      },
+      "6": {
+        "source_ref": "Ephesians 6:6",
+        "source_chapter": 6,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "2da9501f4ab0589c78707eff54380691c027e23ddaf3bd9b76f5d26ee409b698"
+      },
+      "7": {
+        "source_ref": "Ephesians 6:7",
+        "source_chapter": 6,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "f5679f3f9822aee58b5701bbbf88efb35226951f3923b36afaa1686bbbe22e6d"
+      },
+      "8": {
+        "source_ref": "Ephesians 6:8",
+        "source_chapter": 6,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "cad9854514565b72df2b62c9b77c765060b0df6fa9530d32ee3c6c974fd49ac4"
+      },
+      "9": {
+        "source_ref": "Ephesians 6:9",
+        "source_chapter": 6,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "ad16d96e008e0953cd032455e5c70404dbe93d7f854b4ca37f52e38f9ac9fdf3"
+      },
+      "10": {
+        "source_ref": "Ephesians 6:10",
+        "source_chapter": 6,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "de276edd96217e8a1b82874375c96e3065a3741d41a1702dbd39b0ca2cbfaf0a"
+      },
+      "11": {
+        "source_ref": "Ephesians 6:11",
+        "source_chapter": 6,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "cbfbf5224704da9094a81bc691afe266e85eed38970906bb354f72cc75dec3dc"
+      },
+      "12": {
+        "source_ref": "Ephesians 6:12",
+        "source_chapter": 6,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "ce2464e1353adb7b6a9b999c0c36be5ab30b5eb77b60f9f0dbe5d4d1498b562c"
+      },
+      "13": {
+        "source_ref": "Ephesians 6:13",
+        "source_chapter": 6,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "0abd1401fbecebcddec822caf88f9e616a9a405a7dbe53798d11952849c59dc6"
+      },
+      "14": {
+        "source_ref": "Ephesians 6:14",
+        "source_chapter": 6,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "11993c3e09aa2c4fcb2fc3bc8c0ec0ad8e86cd358c8f5e6b7aabebadb572ea5d"
+      },
+      "15": {
+        "source_ref": "Ephesians 6:15",
+        "source_chapter": 6,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "52eef870f3c2e088579405d60fbd0dabb67afd8873ad78428894e90be8b8df25"
+      },
+      "16": {
+        "source_ref": "Ephesians 6:16",
+        "source_chapter": 6,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "daf467a803120d4112e52099119a0ce6448122d3b046ceac910da512af8e4be1"
+      },
+      "17": {
+        "source_ref": "Ephesians 6:17",
+        "source_chapter": 6,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "9aa94a7d7ebcd065ef6170c1dd9394943e906e10ce8613820bc59dd3ad289443"
+      },
+      "18": {
+        "source_ref": "Ephesians 6:18",
+        "source_chapter": 6,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "7cef669437e8d00c4c0e373c08c37a25c4a67a7baabc26c0e6881f12ff14eaea"
+      },
+      "19": {
+        "source_ref": "Ephesians 6:19",
+        "source_chapter": 6,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "ce124bf6e402442f83ee2be684f30e2ff55b70213ea6e94580d559aff7ef3d7d"
+      },
+      "20": {
+        "source_ref": "Ephesians 6:20",
+        "source_chapter": 6,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "3c7e9af602ececd12ba8dc3acbcfed0d0e51fd058c64f5ec3c34fff00ea2fd74"
+      },
+      "21": {
+        "source_ref": "Ephesians 6:21",
+        "source_chapter": 6,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "f2c203ac318bef1c4a2deb2656c4cc3d2ae4f3d183e71895b445e2a8107de67d"
+      },
+      "22": {
+        "source_ref": "Ephesians 6:22",
+        "source_chapter": 6,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "dea5efb0844f6bfbf210a1d91fb63b7889444b4013b74e250447a7ff78923607"
+      },
+      "23": {
+        "source_ref": "Ephesians 6:23",
+        "source_chapter": 6,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "cafa37e49e3c9cad5f056a3a23c52181373d8e74875cb1e42065b9fcb191a9ad"
+      },
+      "24": {
+        "source_ref": "Ephesians 6:24",
+        "source_chapter": 6,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "454d0a86f00351219ad909a91bd6f3d4ab8e3f310e1145a7e33aef3e6872a176"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/ephesians/Ephesians_06.md",
+    "blob_sha": "d131e89e5cc719ae02d524a8e411e4f7cfcbac58"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
