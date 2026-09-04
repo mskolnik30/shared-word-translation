@@ -1,0 +1,342 @@
+{
+  "book": "Genesis",
+  "chapter": 12,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "12:1-25:18",
+      "decision": "Keep promise, migration, Hagar and Sarah, covenant, hospitality, and the binding of Isaac in their narrative tension.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 12:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 1,
+            "source_ref": "Genesis 12:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d45373d1efdc38e2ffa0ff631119029af583021b138b606f94afc2974f8824f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d45373d1efdc38e2ffa0ff631119029af583021b138b606f94afc2974f8824f3"
+      },
+      "2": {
+        "source_ref": "Genesis 12:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 2,
+            "source_ref": "Genesis 12:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b75ebcf40b5c84892ef4c8e36452275fac9f39f8ea3d094bde1ef784453991d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b75ebcf40b5c84892ef4c8e36452275fac9f39f8ea3d094bde1ef784453991d"
+      },
+      "3": {
+        "source_ref": "Genesis 12:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 3,
+            "source_ref": "Genesis 12:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fa3b926019873593f4576697399f264b7e4fda34073a3c95f3826500e6398baf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa3b926019873593f4576697399f264b7e4fda34073a3c95f3826500e6398baf"
+      },
+      "4": {
+        "source_ref": "Genesis 12:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 4,
+            "source_ref": "Genesis 12:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d0db4cfe6eabfa5ef2b17d08a59ed7aeef3c2c431b8e439b29586ba5ba97acc2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0db4cfe6eabfa5ef2b17d08a59ed7aeef3c2c431b8e439b29586ba5ba97acc2"
+      },
+      "5": {
+        "source_ref": "Genesis 12:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 5,
+            "source_ref": "Genesis 12:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e136cb38dd353aa1dcd2d52bd108509b253b1abf6861ed3792198853b1631dd7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e136cb38dd353aa1dcd2d52bd108509b253b1abf6861ed3792198853b1631dd7"
+      },
+      "6": {
+        "source_ref": "Genesis 12:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 6,
+            "source_ref": "Genesis 12:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df0efbeca50299d492fcecb2f1bddcea27c55c1cc1946ac75a34cf002b76d4c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df0efbeca50299d492fcecb2f1bddcea27c55c1cc1946ac75a34cf002b76d4c3"
+      },
+      "7": {
+        "source_ref": "Genesis 12:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 7,
+            "source_ref": "Genesis 12:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b81a1ddfbdf22b2df94528fd260c6ab7d4ad84f94b7e027fa6d88be7c6fb77a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b81a1ddfbdf22b2df94528fd260c6ab7d4ad84f94b7e027fa6d88be7c6fb77a3"
+      },
+      "8": {
+        "source_ref": "Genesis 12:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 8,
+            "source_ref": "Genesis 12:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b0a3e0a07628fd78a19c4710c91c7dc0e9461add57cc3f9cd9840255de81e21"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b0a3e0a07628fd78a19c4710c91c7dc0e9461add57cc3f9cd9840255de81e21"
+      },
+      "9": {
+        "source_ref": "Genesis 12:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 9,
+            "source_ref": "Genesis 12:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "635c935eb7970f12bb6e8a07866b74dede06f67859eafae61cfbebd398812ea8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "635c935eb7970f12bb6e8a07866b74dede06f67859eafae61cfbebd398812ea8"
+      },
+      "10": {
+        "source_ref": "Genesis 12:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 10,
+            "source_ref": "Genesis 12:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6a684938b95fe53d05184887b61d7d309a25feed5f6dc1e958a2ed7af0cf0708"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a684938b95fe53d05184887b61d7d309a25feed5f6dc1e958a2ed7af0cf0708"
+      },
+      "11": {
+        "source_ref": "Genesis 12:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 11,
+            "source_ref": "Genesis 12:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63a21d008d1646e628fef4033153f0e24b218f53df435abbb27fb19d465a9b23"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63a21d008d1646e628fef4033153f0e24b218f53df435abbb27fb19d465a9b23"
+      },
+      "12": {
+        "source_ref": "Genesis 12:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 12,
+            "source_ref": "Genesis 12:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c14c26068096b8d87750785f86acbde74a48d76269faf3d02c221f85fd927ced"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c14c26068096b8d87750785f86acbde74a48d76269faf3d02c221f85fd927ced"
+      },
+      "13": {
+        "source_ref": "Genesis 12:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 13,
+            "source_ref": "Genesis 12:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b052f8876e1f6262684c15244213dd1b6ae9eea2c862104530db4482930398c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b052f8876e1f6262684c15244213dd1b6ae9eea2c862104530db4482930398c1"
+      },
+      "14": {
+        "source_ref": "Genesis 12:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 14,
+            "source_ref": "Genesis 12:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "57869c2e10eecbad423825604c976cd6a14d58021df94fc3752da9c2fb855c84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "57869c2e10eecbad423825604c976cd6a14d58021df94fc3752da9c2fb855c84"
+      },
+      "15": {
+        "source_ref": "Genesis 12:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 15,
+            "source_ref": "Genesis 12:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5a90e936d78ba88c55cda23361f6a0da401e9899cefc73c3d39362b067d33f25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a90e936d78ba88c55cda23361f6a0da401e9899cefc73c3d39362b067d33f25"
+      },
+      "16": {
+        "source_ref": "Genesis 12:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 16,
+            "source_ref": "Genesis 12:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9dc51863eeac1ac7af463f24ff2b53a1c4b1eee4cfaf29f7ba536b34462b4c3c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9dc51863eeac1ac7af463f24ff2b53a1c4b1eee4cfaf29f7ba536b34462b4c3c"
+      },
+      "17": {
+        "source_ref": "Genesis 12:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 17,
+            "source_ref": "Genesis 12:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "152523ad7c71e877c902dd3f78bd252a4b58af1f4f2274fb5fc0c6ea212d9974"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "152523ad7c71e877c902dd3f78bd252a4b58af1f4f2274fb5fc0c6ea212d9974"
+      },
+      "18": {
+        "source_ref": "Genesis 12:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 18,
+            "source_ref": "Genesis 12:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7d9f50ed77729f614b0aca5cb787d6b820ca0875568ea4f8df7cadb45f909562"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d9f50ed77729f614b0aca5cb787d6b820ca0875568ea4f8df7cadb45f909562"
+      },
+      "19": {
+        "source_ref": "Genesis 12:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 19,
+            "source_ref": "Genesis 12:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2337f177e4ffc47ccdb7135b836c28a7471e5c7475a0b087fcff2ffb8024a8e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2337f177e4ffc47ccdb7135b836c28a7471e5c7475a0b087fcff2ffb8024a8e2"
+      },
+      "20": {
+        "source_ref": "Genesis 12:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 20,
+            "source_ref": "Genesis 12:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "483580f3f970640f36032a1c16392e94c86e6df09d8e46999321622d1c776df1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "483580f3f970640f36032a1c16392e94c86e6df09d8e46999321622d1c776df1"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_12.md",
+    "blob_sha": "d18dad5e3b24c6ae48a97177f89d2c97545ec484"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

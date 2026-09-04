@@ -1,0 +1,366 @@
+{
+  "book": "Genesis",
+  "chapter": 28,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 28:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 1,
+            "source_ref": "Genesis 28:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aae46113bf1adf0e90b35679d137e9d78e1cbfdff5a3cee09a11f71faf8c9305"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aae46113bf1adf0e90b35679d137e9d78e1cbfdff5a3cee09a11f71faf8c9305"
+      },
+      "2": {
+        "source_ref": "Genesis 28:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 2,
+            "source_ref": "Genesis 28:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a2c3aed260272c09d27c40ff0d2fab939b058ec810ee826fd098627da7487e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a2c3aed260272c09d27c40ff0d2fab939b058ec810ee826fd098627da7487e0"
+      },
+      "3": {
+        "source_ref": "Genesis 28:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 3,
+            "source_ref": "Genesis 28:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0325d2a10b9880cea315f9f7255b0bf2d6caddf399eada1458c940725254bd00"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0325d2a10b9880cea315f9f7255b0bf2d6caddf399eada1458c940725254bd00"
+      },
+      "4": {
+        "source_ref": "Genesis 28:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 4,
+            "source_ref": "Genesis 28:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b52495b9ad1fbf5ab15127a12f578bf354971af24a08a93dc8924e40fba04ad6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b52495b9ad1fbf5ab15127a12f578bf354971af24a08a93dc8924e40fba04ad6"
+      },
+      "5": {
+        "source_ref": "Genesis 28:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 5,
+            "source_ref": "Genesis 28:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1ec975a96a83e2c934440302a416c53d00a8940d79beff52e42301088db3b365"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ec975a96a83e2c934440302a416c53d00a8940d79beff52e42301088db3b365"
+      },
+      "6": {
+        "source_ref": "Genesis 28:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 6,
+            "source_ref": "Genesis 28:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "23f3dd1ca189e08d9d960bb1a4a312ded44e857d650947122b813f2b6c48a79e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23f3dd1ca189e08d9d960bb1a4a312ded44e857d650947122b813f2b6c48a79e"
+      },
+      "7": {
+        "source_ref": "Genesis 28:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 7,
+            "source_ref": "Genesis 28:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "81c3474db16b781d20db2896527fa90cb92d30cf8d97e0d30721b5011f8f5944"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81c3474db16b781d20db2896527fa90cb92d30cf8d97e0d30721b5011f8f5944"
+      },
+      "8": {
+        "source_ref": "Genesis 28:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 8,
+            "source_ref": "Genesis 28:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a8bb88b0b52ed7f848eaa6a4d0177310bbff52d71210d70d4b007315ad365882"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8bb88b0b52ed7f848eaa6a4d0177310bbff52d71210d70d4b007315ad365882"
+      },
+      "9": {
+        "source_ref": "Genesis 28:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 9,
+            "source_ref": "Genesis 28:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a11a05c4050ae8c18609938c1beb6053045fcef8522d478e04b87b141c6ccd07"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a11a05c4050ae8c18609938c1beb6053045fcef8522d478e04b87b141c6ccd07"
+      },
+      "10": {
+        "source_ref": "Genesis 28:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 10,
+            "source_ref": "Genesis 28:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4f3cec2de46ce5c6a71bef17df2c785c7f92be65d370baea318e0f734e636823"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f3cec2de46ce5c6a71bef17df2c785c7f92be65d370baea318e0f734e636823"
+      },
+      "11": {
+        "source_ref": "Genesis 28:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 11,
+            "source_ref": "Genesis 28:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5a016e28b30223b1d13791e51026608aa856cee467891ec30c9d0a20f68cec62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a016e28b30223b1d13791e51026608aa856cee467891ec30c9d0a20f68cec62"
+      },
+      "12": {
+        "source_ref": "Genesis 28:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 12,
+            "source_ref": "Genesis 28:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c6cdccbf80fbebec0f6e132006c703f6d50c45964420f79b2e7b422f0ee0051"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c6cdccbf80fbebec0f6e132006c703f6d50c45964420f79b2e7b422f0ee0051"
+      },
+      "13": {
+        "source_ref": "Genesis 28:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 13,
+            "source_ref": "Genesis 28:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "615f1c1be88eb190c3845151abd64661363e70a9b79cdd29dda4c1a654f1d34c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "615f1c1be88eb190c3845151abd64661363e70a9b79cdd29dda4c1a654f1d34c"
+      },
+      "14": {
+        "source_ref": "Genesis 28:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 14,
+            "source_ref": "Genesis 28:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b16ac65d56020748f08938f4992357b33e757526647082e3cebc39708297da99"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b16ac65d56020748f08938f4992357b33e757526647082e3cebc39708297da99"
+      },
+      "15": {
+        "source_ref": "Genesis 28:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 15,
+            "source_ref": "Genesis 28:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1dc2992857c69ac5815392d3c7100ad4f8c685310f4ba9d15a45f4a3c6908dcc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1dc2992857c69ac5815392d3c7100ad4f8c685310f4ba9d15a45f4a3c6908dcc"
+      },
+      "16": {
+        "source_ref": "Genesis 28:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 16,
+            "source_ref": "Genesis 28:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "43663e04dd56eb455ae97081041b5d1933a8d9e2389c2b0ec62a26b65149495d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43663e04dd56eb455ae97081041b5d1933a8d9e2389c2b0ec62a26b65149495d"
+      },
+      "17": {
+        "source_ref": "Genesis 28:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 17,
+            "source_ref": "Genesis 28:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "832838a517fb8e14f3ccac46de94020281fa19e1afa986f90a99dd85504c3196"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "832838a517fb8e14f3ccac46de94020281fa19e1afa986f90a99dd85504c3196"
+      },
+      "18": {
+        "source_ref": "Genesis 28:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 18,
+            "source_ref": "Genesis 28:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a83b4c88ce4851c5c9efa7520ec54eab22f4828be0da9dadd70c1ed1295bab24"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a83b4c88ce4851c5c9efa7520ec54eab22f4828be0da9dadd70c1ed1295bab24"
+      },
+      "19": {
+        "source_ref": "Genesis 28:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 19,
+            "source_ref": "Genesis 28:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "462708ad90cd7eb467d9dd2be5d03346c002f755f9135e5f3f8a63782f7b93ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "462708ad90cd7eb467d9dd2be5d03346c002f755f9135e5f3f8a63782f7b93ac"
+      },
+      "20": {
+        "source_ref": "Genesis 28:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 20,
+            "source_ref": "Genesis 28:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72d4a73345f4e87fa09a1748bcf181ddac5ce5542d3296d9cf00d7809aa5b215"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72d4a73345f4e87fa09a1748bcf181ddac5ce5542d3296d9cf00d7809aa5b215"
+      },
+      "21": {
+        "source_ref": "Genesis 28:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 21,
+            "source_ref": "Genesis 28:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e3134af07890d65a961ee9a2b03b70f8239d02edc162914039d41cd25ec69e77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3134af07890d65a961ee9a2b03b70f8239d02edc162914039d41cd25ec69e77"
+      },
+      "22": {
+        "source_ref": "Genesis 28:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 28,
+            "verse": 22,
+            "source_ref": "Genesis 28:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "492e3857fecf56b3fbfef0db49d03e7000a24e60e451d1a804f3f23fed990665"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "492e3857fecf56b3fbfef0db49d03e7000a24e60e451d1a804f3f23fed990665"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_28.md",
+    "blob_sha": "74b167418a9c9fd677418672cf2b6b2dcf6cea1e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

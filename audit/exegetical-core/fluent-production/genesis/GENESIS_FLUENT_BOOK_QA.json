@@ -1,0 +1,265 @@
+{
+  "book": "Genesis",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 50,
+  "public_verse_slots": 1533,
+  "included_verse_labels": 1533,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 1533,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-2:25",
+      "decision": "Preserve creation's literary shape, divine image, shared human vocation, and rest without forcing a modern scientific scheme.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-24",
+      "decision": "Keep human disobedience, shame, blame, mortality, and exile distinct; do not make the woman uniquely responsible.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "6:1-9:29",
+      "decision": "Translate flood violence and covenant plainly without sentimentalizing destruction.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "12:1-25:18",
+      "decision": "Keep promise, migration, Hagar and Sarah, covenant, hospitality, and the binding of Isaac in their narrative tension.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "25:19-36:43",
+      "decision": "Preserve Jacob and Esau's rivalry, deception, blessing, struggle, and reconciliation.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "37:1-50:26",
+      "decision": "Keep family violence, enslavement, sexual coercion, providence, famine policy, forgiveness, and grief in view.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "source_binding_count": 1533,
+    "unique_source_record_count": 1533,
+    "public_verse_slots": 1533,
+    "ledger_summary": {
+      "F0": 111,
+      "F1": 11,
+      "F2": 0,
+      "F3": 1411
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/genesis/Genesis_01.md",
+        "blob_sha": "c4b0d507d92e74ca065963ef9b0d09bba5c24402"
+      },
+      "02": {
+        "path": "books/OT/genesis/Genesis_02.md",
+        "blob_sha": "eb4fc17fa19e11aa811768323432bef215bdfd5b"
+      },
+      "03": {
+        "path": "books/OT/genesis/Genesis_03.md",
+        "blob_sha": "8d197649a20a356006808e14773c30d35dda3703"
+      },
+      "04": {
+        "path": "books/OT/genesis/Genesis_04.md",
+        "blob_sha": "4dab7972ae45f9dec63df1e724acb15608620c24"
+      },
+      "05": {
+        "path": "books/OT/genesis/Genesis_05.md",
+        "blob_sha": "979c48bc79bdf5bcc8498afda9448c514cb6969a"
+      },
+      "06": {
+        "path": "books/OT/genesis/Genesis_06.md",
+        "blob_sha": "d4007f97fb07059d27642532b9a7aa17ca1348ad"
+      },
+      "07": {
+        "path": "books/OT/genesis/Genesis_07.md",
+        "blob_sha": "252fea95b57584e542c0fa35e3265842c439f113"
+      },
+      "08": {
+        "path": "books/OT/genesis/Genesis_08.md",
+        "blob_sha": "36fefc54aeed8904947436f155d52f38937d0220"
+      },
+      "09": {
+        "path": "books/OT/genesis/Genesis_09.md",
+        "blob_sha": "b6585b84487dc731ead6846bf45124cef1a37b90"
+      },
+      "10": {
+        "path": "books/OT/genesis/Genesis_10.md",
+        "blob_sha": "a8082be0c669880654bce98e97e91a74ebb69633"
+      },
+      "11": {
+        "path": "books/OT/genesis/Genesis_11.md",
+        "blob_sha": "757f5788d5c783091c185139b720a1a1720c039e"
+      },
+      "12": {
+        "path": "books/OT/genesis/Genesis_12.md",
+        "blob_sha": "d18dad5e3b24c6ae48a97177f89d2c97545ec484"
+      },
+      "13": {
+        "path": "books/OT/genesis/Genesis_13.md",
+        "blob_sha": "8ce0acc15bddd991f162f84a73c6af179a2b26fd"
+      },
+      "14": {
+        "path": "books/OT/genesis/Genesis_14.md",
+        "blob_sha": "56d936f1b3ab998564d533cb5160128cabeb20d3"
+      },
+      "15": {
+        "path": "books/OT/genesis/Genesis_15.md",
+        "blob_sha": "7d8601596ca633c4ada0fe349f3866a4f0b7d553"
+      },
+      "16": {
+        "path": "books/OT/genesis/Genesis_16.md",
+        "blob_sha": "17ca35925a92f8c3120c51d1d8eeaddd9ec44f55"
+      },
+      "17": {
+        "path": "books/OT/genesis/Genesis_17.md",
+        "blob_sha": "d8ab5ac26f8ae2a449026759174cde2da328e25a"
+      },
+      "18": {
+        "path": "books/OT/genesis/Genesis_18.md",
+        "blob_sha": "57e3e577837b84c3fd060d6416b2430029d8d48a"
+      },
+      "19": {
+        "path": "books/OT/genesis/Genesis_19.md",
+        "blob_sha": "a3312a8d35fc606fe4d145aa299d50ca35ad061b"
+      },
+      "20": {
+        "path": "books/OT/genesis/Genesis_20.md",
+        "blob_sha": "804a50fdcff8a344ed00329e8e3b341b42a2d537"
+      },
+      "21": {
+        "path": "books/OT/genesis/Genesis_21.md",
+        "blob_sha": "4d4ad3e6549f012480a240c152bfdca2f0f7e932"
+      },
+      "22": {
+        "path": "books/OT/genesis/Genesis_22.md",
+        "blob_sha": "74abcff64efd4b1e7cd05ec6b64ad49367cedaa5"
+      },
+      "23": {
+        "path": "books/OT/genesis/Genesis_23.md",
+        "blob_sha": "5079ff45ce5670d000b0c0f86bfa939837618039"
+      },
+      "24": {
+        "path": "books/OT/genesis/Genesis_24.md",
+        "blob_sha": "6c521f9ab171cd01991bd27fa69fecdab279ebb1"
+      },
+      "25": {
+        "path": "books/OT/genesis/Genesis_25.md",
+        "blob_sha": "266901dc78627fc8998994284318bbbd7eafe558"
+      },
+      "26": {
+        "path": "books/OT/genesis/Genesis_26.md",
+        "blob_sha": "008f4c05bff434d86ac1773a87392d79b70e5038"
+      },
+      "27": {
+        "path": "books/OT/genesis/Genesis_27.md",
+        "blob_sha": "efea7f963d40271c762f91abb15a876ae9050cc5"
+      },
+      "28": {
+        "path": "books/OT/genesis/Genesis_28.md",
+        "blob_sha": "74b167418a9c9fd677418672cf2b6b2dcf6cea1e"
+      },
+      "29": {
+        "path": "books/OT/genesis/Genesis_29.md",
+        "blob_sha": "24208f6e3e51a205cedc79a6f5fbfad8d544eaca"
+      },
+      "30": {
+        "path": "books/OT/genesis/Genesis_30.md",
+        "blob_sha": "e05c5267618daac254ca4229b3e92df93bf8cea6"
+      },
+      "31": {
+        "path": "books/OT/genesis/Genesis_31.md",
+        "blob_sha": "c35a007d0bbb2eb6b9b50dece52fb7f8bf1da6d3"
+      },
+      "32": {
+        "path": "books/OT/genesis/Genesis_32.md",
+        "blob_sha": "ccad3a88d27591a21245c6d020900578a5530cd5"
+      },
+      "33": {
+        "path": "books/OT/genesis/Genesis_33.md",
+        "blob_sha": "5fa123d5e4335a70f760492ca866460b4a3c2c26"
+      },
+      "34": {
+        "path": "books/OT/genesis/Genesis_34.md",
+        "blob_sha": "607b4adc0bee29c69f1c37049222346d34bc1d6f"
+      },
+      "35": {
+        "path": "books/OT/genesis/Genesis_35.md",
+        "blob_sha": "740c6fb5e1e14a73f7b37aa82e4e8d672ec5f4e3"
+      },
+      "36": {
+        "path": "books/OT/genesis/Genesis_36.md",
+        "blob_sha": "038160efe92c103af4f83daf5e33df02669c3c64"
+      },
+      "37": {
+        "path": "books/OT/genesis/Genesis_37.md",
+        "blob_sha": "0175ce185bd4a785391e5eade059b78a184dd0ab"
+      },
+      "38": {
+        "path": "books/OT/genesis/Genesis_38.md",
+        "blob_sha": "6b5ec56872e986dcbe34a0d52377de1a0879248b"
+      },
+      "39": {
+        "path": "books/OT/genesis/Genesis_39.md",
+        "blob_sha": "394358518c3dba4b9ea627898056881a7b54f2f3"
+      },
+      "40": {
+        "path": "books/OT/genesis/Genesis_40.md",
+        "blob_sha": "0bc111445ee031d1cc6368169b38c7a6ea4cb1f9"
+      },
+      "41": {
+        "path": "books/OT/genesis/Genesis_41.md",
+        "blob_sha": "af4f0893748cd1e1724524ce84800f56459307cd"
+      },
+      "42": {
+        "path": "books/OT/genesis/Genesis_42.md",
+        "blob_sha": "96884e8902af2b48362103efad426301e0856963"
+      },
+      "43": {
+        "path": "books/OT/genesis/Genesis_43.md",
+        "blob_sha": "90be27bb775623e8f0119c934cc1a712de30e719"
+      },
+      "44": {
+        "path": "books/OT/genesis/Genesis_44.md",
+        "blob_sha": "6c8b85240ee12ccccc2597456f2eda13495acb09"
+      },
+      "45": {
+        "path": "books/OT/genesis/Genesis_45.md",
+        "blob_sha": "cda3576565c006bb23dfb0ce336cb1ec2bc571d5"
+      },
+      "46": {
+        "path": "books/OT/genesis/Genesis_46.md",
+        "blob_sha": "eb72288905f86afac4dcc2f6e67a0bc6f899317b"
+      },
+      "47": {
+        "path": "books/OT/genesis/Genesis_47.md",
+        "blob_sha": "a73770302a0d6d20f0c5b70167a733d03d473375"
+      },
+      "48": {
+        "path": "books/OT/genesis/Genesis_48.md",
+        "blob_sha": "da1c7cf7238007d8cb6be7072973de2799575aed"
+      },
+      "49": {
+        "path": "books/OT/genesis/Genesis_49.md",
+        "blob_sha": "02d1d8cf536ba55b13b8dae5ff998b127d420ecf"
+      },
+      "50": {
+        "path": "books/OT/genesis/Genesis_50.md",
+        "blob_sha": "9030a20cae804300d0c8dccfa1dd16d931259832"
+      }
+    }
+  }
+}

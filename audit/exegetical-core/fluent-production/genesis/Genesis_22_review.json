@@ -1,0 +1,396 @@
+{
+  "book": "Genesis",
+  "chapter": 22,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Gen.xml",
+    "git_blob_sha": "dcc8be362134981d3054e9b64d3a465d08492a33",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Genesis 22:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 1,
+            "source_ref": "Genesis 22:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b7ab925df32789b92f384d4a94933866b79430e6fbcb3c21cc4215c9068d1415"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7ab925df32789b92f384d4a94933866b79430e6fbcb3c21cc4215c9068d1415"
+      },
+      "2": {
+        "source_ref": "Genesis 22:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 2,
+            "source_ref": "Genesis 22:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f3ca53a048e777ac702202ecdd1ee1b34c6f4801f3a52cfcb84dd3e27588abb2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3ca53a048e777ac702202ecdd1ee1b34c6f4801f3a52cfcb84dd3e27588abb2"
+      },
+      "3": {
+        "source_ref": "Genesis 22:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 3,
+            "source_ref": "Genesis 22:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a7f5e64500be46d0c6990f7c04dee71f42de8e17449141105d3c67eb33aef7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a7f5e64500be46d0c6990f7c04dee71f42de8e17449141105d3c67eb33aef7b"
+      },
+      "4": {
+        "source_ref": "Genesis 22:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 4,
+            "source_ref": "Genesis 22:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "10b8c99b7cab917a0c23d6a8950bc953ed654fb41ad54803f33d2ecfc61f520c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10b8c99b7cab917a0c23d6a8950bc953ed654fb41ad54803f33d2ecfc61f520c"
+      },
+      "5": {
+        "source_ref": "Genesis 22:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 5,
+            "source_ref": "Genesis 22:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e1a5da6471e62172df71e6d4fc1ce00c7bebff7f88bcb6496de8fe75ac067ba5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1a5da6471e62172df71e6d4fc1ce00c7bebff7f88bcb6496de8fe75ac067ba5"
+      },
+      "6": {
+        "source_ref": "Genesis 22:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 6,
+            "source_ref": "Genesis 22:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dfa8de186afb0e67474bf66a2f8847b71ea0302e84b9f01964b377f9a43a58a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dfa8de186afb0e67474bf66a2f8847b71ea0302e84b9f01964b377f9a43a58a3"
+      },
+      "7": {
+        "source_ref": "Genesis 22:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 7,
+            "source_ref": "Genesis 22:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "12bdf8facc45604f98b51bfbb27d4696765dd53467c26b6d0ee41b73dd83e113"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12bdf8facc45604f98b51bfbb27d4696765dd53467c26b6d0ee41b73dd83e113"
+      },
+      "8": {
+        "source_ref": "Genesis 22:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 8,
+            "source_ref": "Genesis 22:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c7a02aa12b0157d00d045cfbee8ec8194f9eeb08ec251310875250cc2379140b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c7a02aa12b0157d00d045cfbee8ec8194f9eeb08ec251310875250cc2379140b"
+      },
+      "9": {
+        "source_ref": "Genesis 22:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 9,
+            "source_ref": "Genesis 22:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a5ca7a403511b6a95b9c10f4bd2df0e2da20921f4a975ec3ba44dd2dd559e99"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a5ca7a403511b6a95b9c10f4bd2df0e2da20921f4a975ec3ba44dd2dd559e99"
+      },
+      "10": {
+        "source_ref": "Genesis 22:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 10,
+            "source_ref": "Genesis 22:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7bed258ec304f22f3257f953f93e294840c96925e3911c709cfb1a4773da1c72"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7bed258ec304f22f3257f953f93e294840c96925e3911c709cfb1a4773da1c72"
+      },
+      "11": {
+        "source_ref": "Genesis 22:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 11,
+            "source_ref": "Genesis 22:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7becd03c62eba5a0eb59affc8ed3f8d2c790af5a24b29c2e9b84a91ae6d04e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7becd03c62eba5a0eb59affc8ed3f8d2c790af5a24b29c2e9b84a91ae6d04e4"
+      },
+      "12": {
+        "source_ref": "Genesis 22:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 12,
+            "source_ref": "Genesis 22:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5160156b72983bb3db3cb026c57ae50ec309c381eb375cccd9e27dd0daa6b754"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5160156b72983bb3db3cb026c57ae50ec309c381eb375cccd9e27dd0daa6b754"
+      },
+      "13": {
+        "source_ref": "Genesis 22:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 13,
+            "source_ref": "Genesis 22:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75f64721f9430ec32d7ad5f0932b7c1eb52334d99ad23518c4177af3b0c7e9e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75f64721f9430ec32d7ad5f0932b7c1eb52334d99ad23518c4177af3b0c7e9e3"
+      },
+      "14": {
+        "source_ref": "Genesis 22:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 14,
+            "source_ref": "Genesis 22:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fbffc0556acc9df88de728193e9438a8757f2bb2ece159e0709d07358617cf70"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbffc0556acc9df88de728193e9438a8757f2bb2ece159e0709d07358617cf70"
+      },
+      "15": {
+        "source_ref": "Genesis 22:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 15,
+            "source_ref": "Genesis 22:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fec495f6d6996807d0fd907baa7a4c84304fb9ac16342b3c20041b3d00f70682"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fec495f6d6996807d0fd907baa7a4c84304fb9ac16342b3c20041b3d00f70682"
+      },
+      "16": {
+        "source_ref": "Genesis 22:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 16,
+            "source_ref": "Genesis 22:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d60c094698cc66012104ecc7b233084b57c7e2544f78bbf4d6d01b6d4d72c419"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d60c094698cc66012104ecc7b233084b57c7e2544f78bbf4d6d01b6d4d72c419"
+      },
+      "17": {
+        "source_ref": "Genesis 22:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 17,
+            "source_ref": "Genesis 22:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dd6760877b7def44af92723079ff3baed5060b6bfe9ded7c5ec1c72d986f3d79"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd6760877b7def44af92723079ff3baed5060b6bfe9ded7c5ec1c72d986f3d79"
+      },
+      "18": {
+        "source_ref": "Genesis 22:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 18,
+            "source_ref": "Genesis 22:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6a0d1e3ced1d3a9ad4b93c122e65cc4de8b7320c9112e8f196131db555cf4648"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a0d1e3ced1d3a9ad4b93c122e65cc4de8b7320c9112e8f196131db555cf4648"
+      },
+      "19": {
+        "source_ref": "Genesis 22:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 19,
+            "source_ref": "Genesis 22:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f5b779d05364834acc6803bc29387eb4445154b153f36f8c76981341dd58e99c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5b779d05364834acc6803bc29387eb4445154b153f36f8c76981341dd58e99c"
+      },
+      "20": {
+        "source_ref": "Genesis 22:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 20,
+            "source_ref": "Genesis 22:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75b6591f089579baffc157dfab1dbe77fbc159ec3e8f67fe05db226a09529e3f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75b6591f089579baffc157dfab1dbe77fbc159ec3e8f67fe05db226a09529e3f"
+      },
+      "21": {
+        "source_ref": "Genesis 22:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 21,
+            "source_ref": "Genesis 22:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c3c4889d30672db76ac3eb2f249255cf485da590556ef6a430fde1221ddffe22"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3c4889d30672db76ac3eb2f249255cf485da590556ef6a430fde1221ddffe22"
+      },
+      "22": {
+        "source_ref": "Genesis 22:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 22,
+            "source_ref": "Genesis 22:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d8390a235137a486b22bceaca29dbb70253cec3274575111ca2e252fd0a0227"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d8390a235137a486b22bceaca29dbb70253cec3274575111ca2e252fd0a0227"
+      },
+      "23": {
+        "source_ref": "Genesis 22:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 23,
+            "source_ref": "Genesis 22:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1affdd75ebf28c9680e3ad543a28ef3f8741cbeee1d5abb87e4aa664acb2cd67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1affdd75ebf28c9680e3ad543a28ef3f8741cbeee1d5abb87e4aa664acb2cd67"
+      },
+      "24": {
+        "source_ref": "Genesis 22:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 24,
+            "source_ref": "Genesis 22:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "16c23f1b4525c1176d25eebfae1c4ea4c792afc9332394ef60af57eebaef9d93"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16c23f1b4525c1176d25eebfae1c4ea4c792afc9332394ef60af57eebaef9d93"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/genesis/Genesis_22.md",
+    "blob_sha": "74abcff64efd4b1e7cd05ec6b64ad49367cedaa5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
