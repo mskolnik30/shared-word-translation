@@ -1,0 +1,91 @@
+{
+  "book": "1 Thessalonians",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 10,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Thess.txt",
+    "git_blob_sha": "e3d844977c70badc19c056f3728dfeafe493486f",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Thessalonians 1:1",
+        "source_chapter": 1,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "e6b474e7816ca8dad7f06906ef9da7278aa48d97c68de95d89e238ad7db2d476"
+      },
+      "2": {
+        "source_ref": "1 Thessalonians 1:2",
+        "source_chapter": 1,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "ed2751230d5840041d53f1b0e6761f964f550f1e62e132391b678b95871cc4c1"
+      },
+      "3": {
+        "source_ref": "1 Thessalonians 1:3",
+        "source_chapter": 1,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "984f4bc7cbae937f5933004685a0b58fc9b4a3b16ba8849d26d2ed10caf60418"
+      },
+      "4": {
+        "source_ref": "1 Thessalonians 1:4",
+        "source_chapter": 1,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "43f68eea6a1e2e9ef0ce9e7eeda3a1bf7fcd7c715388ba5f48a03bad52464fef"
+      },
+      "5": {
+        "source_ref": "1 Thessalonians 1:5",
+        "source_chapter": 1,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "fbb215f64517a991a7737f3e0f44922948fce703714b5f74d95793854d4fe9b3"
+      },
+      "6": {
+        "source_ref": "1 Thessalonians 1:6",
+        "source_chapter": 1,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "a8820f120daad2a6f035a218969f7550bf92c8813f4a4ddef8cdcdb4185eed30"
+      },
+      "7": {
+        "source_ref": "1 Thessalonians 1:7",
+        "source_chapter": 1,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "e9dc535ea171830e23b785190fc136732569f601cd3e5c28a0016d3667966610"
+      },
+      "8": {
+        "source_ref": "1 Thessalonians 1:8",
+        "source_chapter": 1,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "cf2abf970ee3697793fd9230aad7fb5a64f1e5f16cb5e570a2f359a529fa41ab"
+      },
+      "9": {
+        "source_ref": "1 Thessalonians 1:9",
+        "source_chapter": 1,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "42d26b20546542e8ba6141513e30223f611b95627b5cd88ae8d2824cc1d7d662"
+      },
+      "10": {
+        "source_ref": "1 Thessalonians 1:10",
+        "source_chapter": 1,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "980fee6237bb8c78162a01bc118623ec595b5959156060a6aad649825c1b4aeb"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1thessalonians/1Thessalonians_01.md",
+    "blob_sha": "3ee3e73213efaf5e11821070b1d195c0df44e5dc"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
