@@ -2,8 +2,9 @@
   "book": "Ruth",
   "translation": "FLUENT",
   "qa_version": "1.0",
-  "status": "QA_APPROVED_FOR_BRANCH",
-  "publication_status": "NOT_YET_MERGED",
+  "status": "QA_PASSED",
+  "publication_status": "READY_FOR_PR",
+  "companion_publication_allowed": false,
   "verse_count": 85,
   "expected_chapters": {
     "1": 22,
@@ -17,7 +18,23 @@
     "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
     "file": "wlc/Ruth.xml",
     "git_blob_sha": "e4aea25dfc593685e7e8f7ec995b96789f5c7060",
-    "source_lock_status": "CANDIDATE_PENDING_TEXTUAL_REVIEW"
+    "source_lock_status": "HUMAN_APPROVED_EXACT_SOURCE_LOCK"
+  },
+  "human_textual_review": {
+    "reviewer": "Matthew J. Skolnik",
+    "decision_date": "2026-09-04",
+    "decision": "APPROVE_EXACT_SOURCE_LOCK",
+    "source_verses_verified": 85,
+    "fluent_verse_labels_verified": 85,
+    "missing_verse_labels": 0,
+    "chapter_review_statuses": [
+      "QA_PASSED",
+      "QA_PASSED",
+      "QA_PASSED",
+      "QA_PASSED"
+    ],
+    "f4_material_detected": false,
+    "publication_authorized": false
   },
   "book_level_anchors": [
     {
