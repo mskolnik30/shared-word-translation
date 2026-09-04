@@ -1,0 +1,381 @@
+{
+  "book": "1 Samuel",
+  "chapter": 22,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Samuel 22:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 1,
+            "source_ref": "1 Samuel 22:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ef86f201d07dac878e7b51b85f2d5b47fd63bd95e09a042e215c3e2e1366062d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef86f201d07dac878e7b51b85f2d5b47fd63bd95e09a042e215c3e2e1366062d"
+      },
+      "2": {
+        "source_ref": "1 Samuel 22:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 2,
+            "source_ref": "1 Samuel 22:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0777500233e7839aa37553a02c3db8b96b07cf6c7bc5f7d23697b2a39732922f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0777500233e7839aa37553a02c3db8b96b07cf6c7bc5f7d23697b2a39732922f"
+      },
+      "3": {
+        "source_ref": "1 Samuel 22:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 3,
+            "source_ref": "1 Samuel 22:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "307e131c8ada9991c94fadf800e2056226a0b91df99986674462008b2cbef853"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "307e131c8ada9991c94fadf800e2056226a0b91df99986674462008b2cbef853"
+      },
+      "4": {
+        "source_ref": "1 Samuel 22:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 4,
+            "source_ref": "1 Samuel 22:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c569fc989ef0349de18c462de1699d53f0c390802cbff2b2fb95c8681d9f9615"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c569fc989ef0349de18c462de1699d53f0c390802cbff2b2fb95c8681d9f9615"
+      },
+      "5": {
+        "source_ref": "1 Samuel 22:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 5,
+            "source_ref": "1 Samuel 22:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1bc843cfc9845fe0f8fb44428b3260ce444c1410f0697f31890a0dd166965553"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1bc843cfc9845fe0f8fb44428b3260ce444c1410f0697f31890a0dd166965553"
+      },
+      "6": {
+        "source_ref": "1 Samuel 22:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 6,
+            "source_ref": "1 Samuel 22:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "34fca9e3abcf4f58c2fb4f0792e058a6cf6633e01505a923195f3752a3f97869"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34fca9e3abcf4f58c2fb4f0792e058a6cf6633e01505a923195f3752a3f97869"
+      },
+      "7": {
+        "source_ref": "1 Samuel 22:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 7,
+            "source_ref": "1 Samuel 22:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "50304efafdc6f4d49d58c1397bc30f3d298982a67c401611004c15a5926a5a42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50304efafdc6f4d49d58c1397bc30f3d298982a67c401611004c15a5926a5a42"
+      },
+      "8": {
+        "source_ref": "1 Samuel 22:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 8,
+            "source_ref": "1 Samuel 22:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7504f050039186b0c3bf4079e68bedeb4ffc1a9f738340e9127d966ee5a1c9f1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7504f050039186b0c3bf4079e68bedeb4ffc1a9f738340e9127d966ee5a1c9f1"
+      },
+      "9": {
+        "source_ref": "1 Samuel 22:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 9,
+            "source_ref": "1 Samuel 22:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45335db3d64e5aea53a3237a20342ace18afbbe7fabe98f43f8720cd94e1717e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45335db3d64e5aea53a3237a20342ace18afbbe7fabe98f43f8720cd94e1717e"
+      },
+      "10": {
+        "source_ref": "1 Samuel 22:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 10,
+            "source_ref": "1 Samuel 22:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec3422a04a8dc418c02de917d2d2981c74fa744acf7d90ad83be91ba36924b70"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec3422a04a8dc418c02de917d2d2981c74fa744acf7d90ad83be91ba36924b70"
+      },
+      "11": {
+        "source_ref": "1 Samuel 22:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 11,
+            "source_ref": "1 Samuel 22:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "686426b5d07f39ace637414434b7f95542ea93ff23bc3f32f3094259a6cef483"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "686426b5d07f39ace637414434b7f95542ea93ff23bc3f32f3094259a6cef483"
+      },
+      "12": {
+        "source_ref": "1 Samuel 22:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 12,
+            "source_ref": "1 Samuel 22:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "140911490d0e0b6e6a4f447561db6259ed40d72f63e42ecaf64bcb4e7c6418c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "140911490d0e0b6e6a4f447561db6259ed40d72f63e42ecaf64bcb4e7c6418c4"
+      },
+      "13": {
+        "source_ref": "1 Samuel 22:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 13,
+            "source_ref": "1 Samuel 22:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73dc3ee8b137749d5f8f1dd6b7517fa7e62dc8d0ff9529f8d6acb9a7a775e44a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73dc3ee8b137749d5f8f1dd6b7517fa7e62dc8d0ff9529f8d6acb9a7a775e44a"
+      },
+      "14": {
+        "source_ref": "1 Samuel 22:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 14,
+            "source_ref": "1 Samuel 22:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c11279d06dc9d706e423f5be5a61413363cc7097e0f55c9ce80b00e946cd10a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c11279d06dc9d706e423f5be5a61413363cc7097e0f55c9ce80b00e946cd10a"
+      },
+      "15": {
+        "source_ref": "1 Samuel 22:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 15,
+            "source_ref": "1 Samuel 22:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3ff6dfac497bd611561e83074a81eaed66ba15bed7dfc0d2b924f7941a41eabd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ff6dfac497bd611561e83074a81eaed66ba15bed7dfc0d2b924f7941a41eabd"
+      },
+      "16": {
+        "source_ref": "1 Samuel 22:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 16,
+            "source_ref": "1 Samuel 22:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca58728acbd4d213db7b4f390e4f70076fcf0db2755cade4790dcebd0fdcba4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca58728acbd4d213db7b4f390e4f70076fcf0db2755cade4790dcebd0fdcba4a"
+      },
+      "17": {
+        "source_ref": "1 Samuel 22:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 17,
+            "source_ref": "1 Samuel 22:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "54add105afa0e96ab5f6451abfd63dc6d796b824a42d721f4d348484d1b67f7a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "54add105afa0e96ab5f6451abfd63dc6d796b824a42d721f4d348484d1b67f7a"
+      },
+      "18": {
+        "source_ref": "1 Samuel 22:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 18,
+            "source_ref": "1 Samuel 22:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "59453bb65ca9b0b03013786b56a13d8359df2f0580dd338f82492f9f80918bae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59453bb65ca9b0b03013786b56a13d8359df2f0580dd338f82492f9f80918bae"
+      },
+      "19": {
+        "source_ref": "1 Samuel 22:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 19,
+            "source_ref": "1 Samuel 22:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27e79224ef1f6f87f393b4e20a521e450cb5f114ad5708fefa305258024ed476"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27e79224ef1f6f87f393b4e20a521e450cb5f114ad5708fefa305258024ed476"
+      },
+      "20": {
+        "source_ref": "1 Samuel 22:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 20,
+            "source_ref": "1 Samuel 22:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f2333a9fdc5ddd4a8c418975c1b845cb4c2165b5554bd7403cdc70d839ce8641"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2333a9fdc5ddd4a8c418975c1b845cb4c2165b5554bd7403cdc70d839ce8641"
+      },
+      "21": {
+        "source_ref": "1 Samuel 22:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 21,
+            "source_ref": "1 Samuel 22:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a218301a662ac11b7c9e43329a51112227e2de16770c9cf97786109f513ec574"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a218301a662ac11b7c9e43329a51112227e2de16770c9cf97786109f513ec574"
+      },
+      "22": {
+        "source_ref": "1 Samuel 22:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 22,
+            "source_ref": "1 Samuel 22:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a45a6d4fd12c3035c564e91418d3e6afbdd1e57026e7b39ba9ed05a399663d00"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a45a6d4fd12c3035c564e91418d3e6afbdd1e57026e7b39ba9ed05a399663d00"
+      },
+      "23": {
+        "source_ref": "1 Samuel 22:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 23,
+            "source_ref": "1 Samuel 22:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "30b579ba3a246c700f98edeca4b98a88236217fc6aa45944b8fbb105939bbc1a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30b579ba3a246c700f98edeca4b98a88236217fc6aa45944b8fbb105939bbc1a"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1samuel/1Samuel_22.md",
+    "blob_sha": "518650585a069c1714b914b366a5b689a5cbd267"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

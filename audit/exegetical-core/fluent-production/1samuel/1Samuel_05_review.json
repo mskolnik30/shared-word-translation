@@ -1,0 +1,216 @@
+{
+  "book": "1 Samuel",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Samuel 5:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "1 Samuel 5:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0683c4004c39a92ff9065b28132a6ac4bb99fcecb1a21eac846d93f3f5d93820"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0683c4004c39a92ff9065b28132a6ac4bb99fcecb1a21eac846d93f3f5d93820"
+      },
+      "2": {
+        "source_ref": "1 Samuel 5:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "1 Samuel 5:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a28a9b7589d772bf5d1da23f9778dfe6cdc433092facab793977d49e7dec1eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a28a9b7589d772bf5d1da23f9778dfe6cdc433092facab793977d49e7dec1eb"
+      },
+      "3": {
+        "source_ref": "1 Samuel 5:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "1 Samuel 5:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0cbe1aef1a725df44d92d84bb4077a9982806b869f856e20b252e20ed5f617f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0cbe1aef1a725df44d92d84bb4077a9982806b869f856e20b252e20ed5f617f9"
+      },
+      "4": {
+        "source_ref": "1 Samuel 5:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "1 Samuel 5:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c54bb88ffaae941a806fd2740e85c9d73e31ef05e83e33ab3a915d177f99ef59"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c54bb88ffaae941a806fd2740e85c9d73e31ef05e83e33ab3a915d177f99ef59"
+      },
+      "5": {
+        "source_ref": "1 Samuel 5:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "1 Samuel 5:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed5564057b504a441cf3bd29eb6c95ec104ad68f9ef7b8ba6a22f1dc3b5bf697"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed5564057b504a441cf3bd29eb6c95ec104ad68f9ef7b8ba6a22f1dc3b5bf697"
+      },
+      "6": {
+        "source_ref": "1 Samuel 5:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "1 Samuel 5:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6f1b31670b6ad546c88186f02c35d59b9768f3e93ea02500cafc9721d471dec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6f1b31670b6ad546c88186f02c35d59b9768f3e93ea02500cafc9721d471dec"
+      },
+      "7": {
+        "source_ref": "1 Samuel 5:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "1 Samuel 5:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "474d26eb2536df6cb4386934d84ceb17878b3105ee95f7654af473219fa1800f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "474d26eb2536df6cb4386934d84ceb17878b3105ee95f7654af473219fa1800f"
+      },
+      "8": {
+        "source_ref": "1 Samuel 5:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "1 Samuel 5:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0b77e312b42c8a1fa8b481f0a2f7dbb2e04f253263ead615507dcfbb629ae555"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b77e312b42c8a1fa8b481f0a2f7dbb2e04f253263ead615507dcfbb629ae555"
+      },
+      "9": {
+        "source_ref": "1 Samuel 5:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "1 Samuel 5:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "07114a0b482297cf6f1b56308d1641dd3759fbc78811a75c8869d8ece2874ab0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07114a0b482297cf6f1b56308d1641dd3759fbc78811a75c8869d8ece2874ab0"
+      },
+      "10": {
+        "source_ref": "1 Samuel 5:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "1 Samuel 5:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc6323ce6f0a42aaf46a766f0eb84f613f54c118d3a428de5f81973e1fea87c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc6323ce6f0a42aaf46a766f0eb84f613f54c118d3a428de5f81973e1fea87c6"
+      },
+      "11": {
+        "source_ref": "1 Samuel 5:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "1 Samuel 5:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7e2b150bdc0ec5d296940161c23f80bab8ccc44030540302ea0e59464b515eb9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e2b150bdc0ec5d296940161c23f80bab8ccc44030540302ea0e59464b515eb9"
+      },
+      "12": {
+        "source_ref": "1 Samuel 5:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "1 Samuel 5:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "26aa96082a695a47f5569013c535e7ab96e8b47c3291f19826d42d94f201f72a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26aa96082a695a47f5569013c535e7ab96e8b47c3291f19826d42d94f201f72a"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1samuel/1Samuel_05.md",
+    "blob_sha": "75e4d0b415e3631bb1010b6e7c53692ea4904fae"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

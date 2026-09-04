@@ -1,0 +1,816 @@
+{
+  "book": "1 Samuel",
+  "chapter": 14,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Samuel 14:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 1,
+            "source_ref": "1 Samuel 14:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "95fdca853a783e52cb6f039f609d12fb811eb34e00c959406e621014d70f1ed9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95fdca853a783e52cb6f039f609d12fb811eb34e00c959406e621014d70f1ed9"
+      },
+      "2": {
+        "source_ref": "1 Samuel 14:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 2,
+            "source_ref": "1 Samuel 14:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6330ff9d431317a2e499cf5d0fcbc301fe93b8267cf55bd5ab5236f175956a39"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6330ff9d431317a2e499cf5d0fcbc301fe93b8267cf55bd5ab5236f175956a39"
+      },
+      "3": {
+        "source_ref": "1 Samuel 14:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 3,
+            "source_ref": "1 Samuel 14:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5cd8d6152e3f0c5cc50eb9225e9dd1dcdc920e315e71286d4cfa2fa20bd0a2e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5cd8d6152e3f0c5cc50eb9225e9dd1dcdc920e315e71286d4cfa2fa20bd0a2e5"
+      },
+      "4": {
+        "source_ref": "1 Samuel 14:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 4,
+            "source_ref": "1 Samuel 14:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0956499e82c3f4ba9c41f8e44ded44731d0431936a1a612c261459d402c4a83b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0956499e82c3f4ba9c41f8e44ded44731d0431936a1a612c261459d402c4a83b"
+      },
+      "5": {
+        "source_ref": "1 Samuel 14:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 5,
+            "source_ref": "1 Samuel 14:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "de8ab142024ad8d956a3ea835847f517bb65f94014eea37a4553d6bf01009a97"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de8ab142024ad8d956a3ea835847f517bb65f94014eea37a4553d6bf01009a97"
+      },
+      "6": {
+        "source_ref": "1 Samuel 14:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 6,
+            "source_ref": "1 Samuel 14:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75c0f28c2ea5ba909adf1cb175698210156b8c6726ce8a0e0fa80ff472e99135"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75c0f28c2ea5ba909adf1cb175698210156b8c6726ce8a0e0fa80ff472e99135"
+      },
+      "7": {
+        "source_ref": "1 Samuel 14:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 7,
+            "source_ref": "1 Samuel 14:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "09886857bf0ea8fed2206ee691d6095631e28a721a01825fa330cb52f7a522aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09886857bf0ea8fed2206ee691d6095631e28a721a01825fa330cb52f7a522aa"
+      },
+      "8": {
+        "source_ref": "1 Samuel 14:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 8,
+            "source_ref": "1 Samuel 14:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c701f9d0c19438aa830cdc8df45eddc064ffce0f063054ba7dd8fe6162d0d69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c701f9d0c19438aa830cdc8df45eddc064ffce0f063054ba7dd8fe6162d0d69"
+      },
+      "9": {
+        "source_ref": "1 Samuel 14:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 9,
+            "source_ref": "1 Samuel 14:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "290239f486b34ee8b8c9b2b036671cf0f0437f0b0e00940c14b0ba3a789af055"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "290239f486b34ee8b8c9b2b036671cf0f0437f0b0e00940c14b0ba3a789af055"
+      },
+      "10": {
+        "source_ref": "1 Samuel 14:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 10,
+            "source_ref": "1 Samuel 14:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0d7fc354e782e9f0d1301d50e6166efa62d1ae99171bea837205d92018d3d426"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d7fc354e782e9f0d1301d50e6166efa62d1ae99171bea837205d92018d3d426"
+      },
+      "11": {
+        "source_ref": "1 Samuel 14:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 11,
+            "source_ref": "1 Samuel 14:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c96fb42c4d0f6a90e68eaed64300bd58e3244ebafde2c9e87b82f65d5c57355"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c96fb42c4d0f6a90e68eaed64300bd58e3244ebafde2c9e87b82f65d5c57355"
+      },
+      "12": {
+        "source_ref": "1 Samuel 14:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 12,
+            "source_ref": "1 Samuel 14:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27687dca4643a01cffccfa3462c8d59ed3da8dfc5305b1fbd820192a5c81616a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27687dca4643a01cffccfa3462c8d59ed3da8dfc5305b1fbd820192a5c81616a"
+      },
+      "13": {
+        "source_ref": "1 Samuel 14:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 13,
+            "source_ref": "1 Samuel 14:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "22ab86a5cc7785789bc2922c9b51c75990244bb74b66d63d59d8a7f7f36f83d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "22ab86a5cc7785789bc2922c9b51c75990244bb74b66d63d59d8a7f7f36f83d5"
+      },
+      "14": {
+        "source_ref": "1 Samuel 14:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 14,
+            "source_ref": "1 Samuel 14:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "61ddbbf56f6c4884f561bf00d77988cd96f88199f46c92f6fc8756d9b250b990"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "61ddbbf56f6c4884f561bf00d77988cd96f88199f46c92f6fc8756d9b250b990"
+      },
+      "15": {
+        "source_ref": "1 Samuel 14:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 15,
+            "source_ref": "1 Samuel 14:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f11637ba5f9ade49ac25f52315e1af8cc49f8a1ebeefa4daf14e67af309c7463"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f11637ba5f9ade49ac25f52315e1af8cc49f8a1ebeefa4daf14e67af309c7463"
+      },
+      "16": {
+        "source_ref": "1 Samuel 14:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 16,
+            "source_ref": "1 Samuel 14:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "891f3387ed055525aeee6e5f22c41dbaf506fda439e885fe4f7730af927de228"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "891f3387ed055525aeee6e5f22c41dbaf506fda439e885fe4f7730af927de228"
+      },
+      "17": {
+        "source_ref": "1 Samuel 14:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 17,
+            "source_ref": "1 Samuel 14:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45eb7731750244b69cca1c31eac86d7b2c913a8e0d50ff6e785be97443aca95d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45eb7731750244b69cca1c31eac86d7b2c913a8e0d50ff6e785be97443aca95d"
+      },
+      "18": {
+        "source_ref": "1 Samuel 14:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 18,
+            "source_ref": "1 Samuel 14:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4c4068bae6feb4b3e5f8bf944502d6393709b14a18ed513c178a3b11f1b3a929"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c4068bae6feb4b3e5f8bf944502d6393709b14a18ed513c178a3b11f1b3a929"
+      },
+      "19": {
+        "source_ref": "1 Samuel 14:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 19,
+            "source_ref": "1 Samuel 14:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7fd0b0b1bc3b0830f99fd6c8e7e2eaa8f52c8136f253a160e6e6e6fb8ea8a236"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7fd0b0b1bc3b0830f99fd6c8e7e2eaa8f52c8136f253a160e6e6e6fb8ea8a236"
+      },
+      "20": {
+        "source_ref": "1 Samuel 14:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 20,
+            "source_ref": "1 Samuel 14:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6bb7f192b7e527e1e9b380be4a13091fb261a0a3af2fc96362008f3dfd9136c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6bb7f192b7e527e1e9b380be4a13091fb261a0a3af2fc96362008f3dfd9136c"
+      },
+      "21": {
+        "source_ref": "1 Samuel 14:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 21,
+            "source_ref": "1 Samuel 14:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6614b361ba62e9a06b86ea83fb515c47727d4dde5c922982c68f865716ac577a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6614b361ba62e9a06b86ea83fb515c47727d4dde5c922982c68f865716ac577a"
+      },
+      "22": {
+        "source_ref": "1 Samuel 14:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 22,
+            "source_ref": "1 Samuel 14:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "67cc5576d5396fac8a18ad887e6c129e61e57740c8777c881dcf736316bf30ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67cc5576d5396fac8a18ad887e6c129e61e57740c8777c881dcf736316bf30ad"
+      },
+      "23": {
+        "source_ref": "1 Samuel 14:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 23,
+            "source_ref": "1 Samuel 14:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b68967aaa47851028a1b3498d060803c0c4e8bbdff3df8eb3d444fe3050ce2f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b68967aaa47851028a1b3498d060803c0c4e8bbdff3df8eb3d444fe3050ce2f"
+      },
+      "24": {
+        "source_ref": "1 Samuel 14:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 24,
+            "source_ref": "1 Samuel 14:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ccf0db13188d8fcea19bfa4e601159b73e954dc806c1682ebf577cdeb069353"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ccf0db13188d8fcea19bfa4e601159b73e954dc806c1682ebf577cdeb069353"
+      },
+      "25": {
+        "source_ref": "1 Samuel 14:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 25,
+            "source_ref": "1 Samuel 14:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "70132f6ff3b6d727a384730a106690d3398c3f28051c26e30fc5c395d42f44c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70132f6ff3b6d727a384730a106690d3398c3f28051c26e30fc5c395d42f44c6"
+      },
+      "26": {
+        "source_ref": "1 Samuel 14:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 26,
+            "source_ref": "1 Samuel 14:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73caf78d345f237bc4bf2366244f6a204d29aa865c0c485494cf3713d6cf39c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73caf78d345f237bc4bf2366244f6a204d29aa865c0c485494cf3713d6cf39c8"
+      },
+      "27": {
+        "source_ref": "1 Samuel 14:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 27,
+            "source_ref": "1 Samuel 14:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7a50cc6b6760d086ce152b01330878d36136eabeedd0de73f65608a5cb79ec35"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a50cc6b6760d086ce152b01330878d36136eabeedd0de73f65608a5cb79ec35"
+      },
+      "28": {
+        "source_ref": "1 Samuel 14:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 28,
+            "source_ref": "1 Samuel 14:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fbdf3dbee66f24818789ff671f08b5d1bb25e8b54f5a79ff9ada4d713ce2df72"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbdf3dbee66f24818789ff671f08b5d1bb25e8b54f5a79ff9ada4d713ce2df72"
+      },
+      "29": {
+        "source_ref": "1 Samuel 14:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 29,
+            "source_ref": "1 Samuel 14:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "99b3827cb8f4fa0dd5828ee677984f50ffc3e0687e132f429e47aa5fadd6cb27"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "99b3827cb8f4fa0dd5828ee677984f50ffc3e0687e132f429e47aa5fadd6cb27"
+      },
+      "30": {
+        "source_ref": "1 Samuel 14:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 30,
+            "source_ref": "1 Samuel 14:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "195609e656e4735fab5b44c43a1ced27af34fa3f18933c708e80d3508e352a47"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "195609e656e4735fab5b44c43a1ced27af34fa3f18933c708e80d3508e352a47"
+      },
+      "31": {
+        "source_ref": "1 Samuel 14:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 31,
+            "source_ref": "1 Samuel 14:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "209cf26949add9abe809a56ef3ffa66cfded1e8d0bda4f7e81350cc6d6199a33"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "209cf26949add9abe809a56ef3ffa66cfded1e8d0bda4f7e81350cc6d6199a33"
+      },
+      "32": {
+        "source_ref": "1 Samuel 14:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 32,
+            "source_ref": "1 Samuel 14:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73c710c2a65ff2d9797da5857686cc30a2e3a263b156be161c80044dff3abf22"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73c710c2a65ff2d9797da5857686cc30a2e3a263b156be161c80044dff3abf22"
+      },
+      "33": {
+        "source_ref": "1 Samuel 14:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 33,
+            "source_ref": "1 Samuel 14:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "539698227b0e23a642a43ad4d3dbe20141fbabfdc3d28caefb3d758403f43fcc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "539698227b0e23a642a43ad4d3dbe20141fbabfdc3d28caefb3d758403f43fcc"
+      },
+      "34": {
+        "source_ref": "1 Samuel 14:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 34,
+            "source_ref": "1 Samuel 14:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ebd6f7ee0909e73cd6999a46f2aac7af1c08f8538c9fc8ff379ceb75e02b9c58"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ebd6f7ee0909e73cd6999a46f2aac7af1c08f8538c9fc8ff379ceb75e02b9c58"
+      },
+      "35": {
+        "source_ref": "1 Samuel 14:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 35,
+            "source_ref": "1 Samuel 14:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ea5e83073545e785c680570b06010e65ac5a9ab2e72ffa76374fc93299491b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ea5e83073545e785c680570b06010e65ac5a9ab2e72ffa76374fc93299491b1"
+      },
+      "36": {
+        "source_ref": "1 Samuel 14:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 36,
+            "source_ref": "1 Samuel 14:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "38be272900111364a1fab1fab5788e0ec55d75d2d4463a8ad9098b0ecdcce780"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "38be272900111364a1fab1fab5788e0ec55d75d2d4463a8ad9098b0ecdcce780"
+      },
+      "37": {
+        "source_ref": "1 Samuel 14:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 37,
+            "source_ref": "1 Samuel 14:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7346a9f46edfb0e4b9a3eb6cf38f391fc967f31b3efe9003fd377f19cc2504ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7346a9f46edfb0e4b9a3eb6cf38f391fc967f31b3efe9003fd377f19cc2504ef"
+      },
+      "38": {
+        "source_ref": "1 Samuel 14:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 38,
+            "source_ref": "1 Samuel 14:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32dab9524c7dd56cc9c18464b5219d8b6a179d4c140c949dfa1d99459f924daa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32dab9524c7dd56cc9c18464b5219d8b6a179d4c140c949dfa1d99459f924daa"
+      },
+      "39": {
+        "source_ref": "1 Samuel 14:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 39,
+            "source_ref": "1 Samuel 14:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e84e886ba7343b490ef847256ce3a62581c15ea794f32bcc81fcd59dba8ff486"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e84e886ba7343b490ef847256ce3a62581c15ea794f32bcc81fcd59dba8ff486"
+      },
+      "40": {
+        "source_ref": "1 Samuel 14:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 40,
+            "source_ref": "1 Samuel 14:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7334c39ac248063ec03fa4097912d99c285c3e087d38666961276e643c49447b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7334c39ac248063ec03fa4097912d99c285c3e087d38666961276e643c49447b"
+      },
+      "41": {
+        "source_ref": "1 Samuel 14:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 41,
+            "source_ref": "1 Samuel 14:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9f28b7f520247e9006ad2ef7d7c7c882c819233f18227e602fd65d59a42827a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f28b7f520247e9006ad2ef7d7c7c882c819233f18227e602fd65d59a42827a1"
+      },
+      "42": {
+        "source_ref": "1 Samuel 14:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 42,
+            "source_ref": "1 Samuel 14:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2467d429cc923e43db83f67254d9fc01ee78fd3b24d2f2aac8c426e7c855bbc4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2467d429cc923e43db83f67254d9fc01ee78fd3b24d2f2aac8c426e7c855bbc4"
+      },
+      "43": {
+        "source_ref": "1 Samuel 14:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 43,
+            "source_ref": "1 Samuel 14:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d76ae7906394af3b5e49783503546f819ce7c23d7318a71b2b3f707f4e38af42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d76ae7906394af3b5e49783503546f819ce7c23d7318a71b2b3f707f4e38af42"
+      },
+      "44": {
+        "source_ref": "1 Samuel 14:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 44,
+            "source_ref": "1 Samuel 14:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3113da9b8e389f258aa3dceaf695d421910b7a143eac777b2c46707a7e14a84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3113da9b8e389f258aa3dceaf695d421910b7a143eac777b2c46707a7e14a84"
+      },
+      "45": {
+        "source_ref": "1 Samuel 14:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 45,
+            "source_ref": "1 Samuel 14:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8519a6c4f330834237613772c08af5370799126b104b6d4cb04bd28f8beca5bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8519a6c4f330834237613772c08af5370799126b104b6d4cb04bd28f8beca5bf"
+      },
+      "46": {
+        "source_ref": "1 Samuel 14:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 46,
+            "source_ref": "1 Samuel 14:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bfcad137e374729fbce03d5c8e420490072cd311ccbaf31815f4a25704c27a64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bfcad137e374729fbce03d5c8e420490072cd311ccbaf31815f4a25704c27a64"
+      },
+      "47": {
+        "source_ref": "1 Samuel 14:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 47,
+            "source_ref": "1 Samuel 14:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e5910dc4917f019d350135cbb05160cd596fbac944faff56b4e5b5fcd0bd66c5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5910dc4917f019d350135cbb05160cd596fbac944faff56b4e5b5fcd0bd66c5"
+      },
+      "48": {
+        "source_ref": "1 Samuel 14:48 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 48,
+            "source_ref": "1 Samuel 14:48 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d1e032c152710102e52b704ade7042c3b1a01cf4de99d367bf8e14ece32a3b71"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1e032c152710102e52b704ade7042c3b1a01cf4de99d367bf8e14ece32a3b71"
+      },
+      "49": {
+        "source_ref": "1 Samuel 14:49 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 49,
+            "source_ref": "1 Samuel 14:49 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "41e4c77e2cab137ba7565b1facb6a4d23678471b883a3bd384e4b54942824e99"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41e4c77e2cab137ba7565b1facb6a4d23678471b883a3bd384e4b54942824e99"
+      },
+      "50": {
+        "source_ref": "1 Samuel 14:50 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 50,
+            "source_ref": "1 Samuel 14:50 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2ff0dbd4817eb880fe5405a729bb98b07eef74d2eaafa8dae0c03aad6c81b14"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2ff0dbd4817eb880fe5405a729bb98b07eef74d2eaafa8dae0c03aad6c81b14"
+      },
+      "51": {
+        "source_ref": "1 Samuel 14:51 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 51,
+            "source_ref": "1 Samuel 14:51 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c3f32cc72566369197a176a3d939b06558238e59476d5209f048cc897de5a5c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3f32cc72566369197a176a3d939b06558238e59476d5209f048cc897de5a5c4"
+      },
+      "52": {
+        "source_ref": "1 Samuel 14:52 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 14,
+            "verse": 52,
+            "source_ref": "1 Samuel 14:52 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "026e08593bee4567ce28f39761ff6b5544bf5086dcbc6ebe662515f357f2f327"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "026e08593bee4567ce28f39761ff6b5544bf5086dcbc6ebe662515f357f2f327"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1samuel/1Samuel_14.md",
+    "blob_sha": "29e9b056e3c9ddc157c47b267495cfb8a3b48a40"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

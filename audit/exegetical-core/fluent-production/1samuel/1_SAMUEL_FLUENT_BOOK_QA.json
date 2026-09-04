@@ -1,0 +1,194 @@
+{
+  "book": "1 Samuel",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 31,
+  "public_verse_slots": 810,
+  "included_verse_labels": 810,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 811,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-3:21",
+      "decision": "Keep Hannah's anguish and agency, Samuel's call, Eli's failure, and priestly abuse in view.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:1-7:17",
+      "decision": "Preserve ark capture, divine independence, communal loss, return, repentance, and deliverance.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:1-12:25",
+      "decision": "Retain the warning about kingship, the people's demand, Saul's selection, and covenant accountability.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:1-15:35",
+      "decision": "Keep Saul's military pressure, disobedience, rejection, and Samuel's grief without simplifying the violence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "16:1-20:42",
+      "decision": "Preserve David's rise, Saul's deterioration, Michal's agency, and David and Jonathan's covenantal loyalty.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "20:42",
+      "decision": "Document the combined public 1 Samuel 20:42 binding across Hebrew 20:42 and 21:1.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "21:1-31:13",
+      "decision": "Keep flight, deception, massacre, warfare, morally complex survival, Saul's death, and grief unsanitized.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
+    "source_binding_count": 810,
+    "unique_source_record_count": 811,
+    "public_verse_slots": 810,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 810
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/1samuel/1Samuel_01.md",
+        "blob_sha": "c5643a109ebb0d1df5fe241c21cb3774022a8896"
+      },
+      "02": {
+        "path": "books/OT/1samuel/1Samuel_02.md",
+        "blob_sha": "e3828da21569a02a3406cff66da923f2c143a479"
+      },
+      "03": {
+        "path": "books/OT/1samuel/1Samuel_03.md",
+        "blob_sha": "f048d5de9c6b736a7557f721ba2837b9cba55cee"
+      },
+      "04": {
+        "path": "books/OT/1samuel/1Samuel_04.md",
+        "blob_sha": "ea8f8db60119a6cea89ffbba58f382ad76b85b05"
+      },
+      "05": {
+        "path": "books/OT/1samuel/1Samuel_05.md",
+        "blob_sha": "75e4d0b415e3631bb1010b6e7c53692ea4904fae"
+      },
+      "06": {
+        "path": "books/OT/1samuel/1Samuel_06.md",
+        "blob_sha": "44318ceb37cb32081321cff05dad5ca5c2adf4a3"
+      },
+      "07": {
+        "path": "books/OT/1samuel/1Samuel_07.md",
+        "blob_sha": "0eb0f55e9cce2b899b8c8f2cf0031a5b1145be14"
+      },
+      "08": {
+        "path": "books/OT/1samuel/1Samuel_08.md",
+        "blob_sha": "492bc828599e51c3ec2dfa44fff7a3820b469b20"
+      },
+      "09": {
+        "path": "books/OT/1samuel/1Samuel_09.md",
+        "blob_sha": "f065049b26075119e3049cf4fbd8e024613eedac"
+      },
+      "10": {
+        "path": "books/OT/1samuel/1Samuel_10.md",
+        "blob_sha": "a19e7e2922bf6c30cd627b2f4d7e64f36ceb5ef9"
+      },
+      "11": {
+        "path": "books/OT/1samuel/1Samuel_11.md",
+        "blob_sha": "c172e86bb50d4b638332297205096417df53cc05"
+      },
+      "12": {
+        "path": "books/OT/1samuel/1Samuel_12.md",
+        "blob_sha": "448aeea5e1ecdeaf3f7340ad29c3e8dfadf1b172"
+      },
+      "13": {
+        "path": "books/OT/1samuel/1Samuel_13.md",
+        "blob_sha": "a9bd251ec727a4568a1b34c35cd9183954287f39"
+      },
+      "14": {
+        "path": "books/OT/1samuel/1Samuel_14.md",
+        "blob_sha": "29e9b056e3c9ddc157c47b267495cfb8a3b48a40"
+      },
+      "15": {
+        "path": "books/OT/1samuel/1Samuel_15.md",
+        "blob_sha": "0e0806cd1212a6bd9828142d45040bd157afdfae"
+      },
+      "16": {
+        "path": "books/OT/1samuel/1Samuel_16.md",
+        "blob_sha": "8de3a5720e14a66fa4b425d711b1884de5b24c19"
+      },
+      "17": {
+        "path": "books/OT/1samuel/1Samuel_17.md",
+        "blob_sha": "4631a776d159d486ae98c677009c1bf396520df7"
+      },
+      "18": {
+        "path": "books/OT/1samuel/1Samuel_18.md",
+        "blob_sha": "834b14ab400db9686f5f45e94019d9fa60bccfaa"
+      },
+      "19": {
+        "path": "books/OT/1samuel/1Samuel_19.md",
+        "blob_sha": "40ad04a17e3439bf1b20471fbe4fd5559dfdef11"
+      },
+      "20": {
+        "path": "books/OT/1samuel/1Samuel_20.md",
+        "blob_sha": "3fd699a7b865255f16e5dca18191ed36ec2e0628"
+      },
+      "21": {
+        "path": "books/OT/1samuel/1Samuel_21.md",
+        "blob_sha": "9be22aa4c7a080de537c525e03653167195faa3e"
+      },
+      "22": {
+        "path": "books/OT/1samuel/1Samuel_22.md",
+        "blob_sha": "518650585a069c1714b914b366a5b689a5cbd267"
+      },
+      "23": {
+        "path": "books/OT/1samuel/1Samuel_23.md",
+        "blob_sha": "5c7688313b9a858e0b4b26572d50862acdb6098a"
+      },
+      "24": {
+        "path": "books/OT/1samuel/1Samuel_24.md",
+        "blob_sha": "478bf32e4e17a018df33b20b4f1ed272bba3fc9a"
+      },
+      "25": {
+        "path": "books/OT/1samuel/1Samuel_25.md",
+        "blob_sha": "4135e7dccd14f1e4d84995e9e866fbe354f120d5"
+      },
+      "26": {
+        "path": "books/OT/1samuel/1Samuel_26.md",
+        "blob_sha": "c0552c6f12ce4bcd50fb0a6e5b1309ef0b129fd7"
+      },
+      "27": {
+        "path": "books/OT/1samuel/1Samuel_27.md",
+        "blob_sha": "298ab3a9f0be966e1e0f8bfed6178abe14de0cf0"
+      },
+      "28": {
+        "path": "books/OT/1samuel/1Samuel_28.md",
+        "blob_sha": "e87a7efc95e7a63fe07259578f75d491d29a0055"
+      },
+      "29": {
+        "path": "books/OT/1samuel/1Samuel_29.md",
+        "blob_sha": "283214d2b59ed91845b0ccf2199227ba7953a9b7"
+      },
+      "30": {
+        "path": "books/OT/1samuel/1Samuel_30.md",
+        "blob_sha": "6323d873c3ce2ed62da72c17cd648949541595ae"
+      },
+      "31": {
+        "path": "books/OT/1samuel/1Samuel_31.md",
+        "blob_sha": "30b8ae19f2da7b724ca7eb211c364bdc2816ba29"
+      }
+    }
+  }
+}

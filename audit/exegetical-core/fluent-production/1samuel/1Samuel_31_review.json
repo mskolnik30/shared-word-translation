@@ -1,0 +1,231 @@
+{
+  "book": "1 Samuel",
+  "chapter": 31,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Samuel 31:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 1,
+            "source_ref": "1 Samuel 31:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "99c6654958d60179a612b668fed8c59c31bd3cdc61c90b847d152065fde5f9c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "99c6654958d60179a612b668fed8c59c31bd3cdc61c90b847d152065fde5f9c0"
+      },
+      "2": {
+        "source_ref": "1 Samuel 31:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 2,
+            "source_ref": "1 Samuel 31:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e970a7b44f3b7acd49845b5c9e32f2a7c31d4a88979a1966c04ae97c7e6ab16f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e970a7b44f3b7acd49845b5c9e32f2a7c31d4a88979a1966c04ae97c7e6ab16f"
+      },
+      "3": {
+        "source_ref": "1 Samuel 31:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 3,
+            "source_ref": "1 Samuel 31:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "faeaf45a988ab23bdbf603b304925ac6a1cd311eb54343fe7bcb01244d43f465"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "faeaf45a988ab23bdbf603b304925ac6a1cd311eb54343fe7bcb01244d43f465"
+      },
+      "4": {
+        "source_ref": "1 Samuel 31:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 4,
+            "source_ref": "1 Samuel 31:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc2e28f84f9809925faac8dc241dd82d8858effdc72c8dd1416f8b5f76bcc3c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc2e28f84f9809925faac8dc241dd82d8858effdc72c8dd1416f8b5f76bcc3c9"
+      },
+      "5": {
+        "source_ref": "1 Samuel 31:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 5,
+            "source_ref": "1 Samuel 31:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2f76dfea6dfc726c91aa22309667b11cabbddb01da79fe42b385ad5eb164b34d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f76dfea6dfc726c91aa22309667b11cabbddb01da79fe42b385ad5eb164b34d"
+      },
+      "6": {
+        "source_ref": "1 Samuel 31:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 6,
+            "source_ref": "1 Samuel 31:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "68f90e8fcc14f2339da79ad2a0aa3c043ec481ddccbc5e9ec12e2d7236d7cc47"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68f90e8fcc14f2339da79ad2a0aa3c043ec481ddccbc5e9ec12e2d7236d7cc47"
+      },
+      "7": {
+        "source_ref": "1 Samuel 31:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 7,
+            "source_ref": "1 Samuel 31:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "660bb75db86787c30ebc4e62b36386560963044f146791356f27969132e0feaa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "660bb75db86787c30ebc4e62b36386560963044f146791356f27969132e0feaa"
+      },
+      "8": {
+        "source_ref": "1 Samuel 31:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 8,
+            "source_ref": "1 Samuel 31:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5aa224aad4fe5a6441c8d50c8cadedcddf8c3f2ff018d2f2d19a66af7b407f0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5aa224aad4fe5a6441c8d50c8cadedcddf8c3f2ff018d2f2d19a66af7b407f0f"
+      },
+      "9": {
+        "source_ref": "1 Samuel 31:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 9,
+            "source_ref": "1 Samuel 31:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "127735203b7b4bc3d066521d05ffda61a68e6c4ec9ebaf5e4e18bc4576380229"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "127735203b7b4bc3d066521d05ffda61a68e6c4ec9ebaf5e4e18bc4576380229"
+      },
+      "10": {
+        "source_ref": "1 Samuel 31:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 10,
+            "source_ref": "1 Samuel 31:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "556c6bbe350d92fae507fe91281577e704294483362805c6108c151641a8756b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "556c6bbe350d92fae507fe91281577e704294483362805c6108c151641a8756b"
+      },
+      "11": {
+        "source_ref": "1 Samuel 31:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 11,
+            "source_ref": "1 Samuel 31:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d9fe75f574cbcec36782456b7199e22833a15b28fbd8c2b95485997f59405cc2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9fe75f574cbcec36782456b7199e22833a15b28fbd8c2b95485997f59405cc2"
+      },
+      "12": {
+        "source_ref": "1 Samuel 31:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 12,
+            "source_ref": "1 Samuel 31:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a531a497427434458a388202cb673774bc837c6a3ae500f96cb23b42e64cac33"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a531a497427434458a388202cb673774bc837c6a3ae500f96cb23b42e64cac33"
+      },
+      "13": {
+        "source_ref": "1 Samuel 31:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 13,
+            "source_ref": "1 Samuel 31:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "164c4309de7d835ae476a99e453f6b6fa326382a83f67eb9c64ae53e741c77c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "164c4309de7d835ae476a99e453f6b6fa326382a83f67eb9c64ae53e741c77c8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1samuel/1Samuel_31.md",
+    "blob_sha": "30b8ae19f2da7b724ca7eb211c364bdc2816ba29"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

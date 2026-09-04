@@ -1,0 +1,906 @@
+{
+  "book": "1 Samuel",
+  "chapter": 17,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Samuel 17:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 1,
+            "source_ref": "1 Samuel 17:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b63e4a2a3b6452d29494574135a9e40f3c28317312591a3689feaf002e84f2c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b63e4a2a3b6452d29494574135a9e40f3c28317312591a3689feaf002e84f2c0"
+      },
+      "2": {
+        "source_ref": "1 Samuel 17:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 2,
+            "source_ref": "1 Samuel 17:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "271347c22da41af74ce2122771c23ae3d2505091a5664a99a5629dc160fa6e2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "271347c22da41af74ce2122771c23ae3d2505091a5664a99a5629dc160fa6e2c"
+      },
+      "3": {
+        "source_ref": "1 Samuel 17:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 3,
+            "source_ref": "1 Samuel 17:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fdaee0d6abe2567f296de300daf230944ef187bcfbe693f90c6f3082d8326d61"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fdaee0d6abe2567f296de300daf230944ef187bcfbe693f90c6f3082d8326d61"
+      },
+      "4": {
+        "source_ref": "1 Samuel 17:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 4,
+            "source_ref": "1 Samuel 17:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7f36482ae996f507a7ee2c3547a19766a90f2fc11ca1a74dea3fe187af848379"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f36482ae996f507a7ee2c3547a19766a90f2fc11ca1a74dea3fe187af848379"
+      },
+      "5": {
+        "source_ref": "1 Samuel 17:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 5,
+            "source_ref": "1 Samuel 17:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e49bc32c8a6bc139d44c076575faaccf32875cbcddd20851f7a75add71f0c8b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e49bc32c8a6bc139d44c076575faaccf32875cbcddd20851f7a75add71f0c8b2"
+      },
+      "6": {
+        "source_ref": "1 Samuel 17:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 6,
+            "source_ref": "1 Samuel 17:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7248457bc358d834aff5d1e02497db05df5887eb785172fb6bc3994f4dcc23a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7248457bc358d834aff5d1e02497db05df5887eb785172fb6bc3994f4dcc23a2"
+      },
+      "7": {
+        "source_ref": "1 Samuel 17:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 7,
+            "source_ref": "1 Samuel 17:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35380118550a0bdeaa633a598e48a392b689aa52fc888f04733a847c772a30df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35380118550a0bdeaa633a598e48a392b689aa52fc888f04733a847c772a30df"
+      },
+      "8": {
+        "source_ref": "1 Samuel 17:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 8,
+            "source_ref": "1 Samuel 17:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e1394008444c9ed086ee9cd2e2215a988a396773c5e0d2a6dde783b743f24b15"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1394008444c9ed086ee9cd2e2215a988a396773c5e0d2a6dde783b743f24b15"
+      },
+      "9": {
+        "source_ref": "1 Samuel 17:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 9,
+            "source_ref": "1 Samuel 17:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d30ad373aafbed5af3ba340011a7be8e4d00f2c2ce141d71b7e404a37ff19c2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d30ad373aafbed5af3ba340011a7be8e4d00f2c2ce141d71b7e404a37ff19c2c"
+      },
+      "10": {
+        "source_ref": "1 Samuel 17:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 10,
+            "source_ref": "1 Samuel 17:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf9fe225ac6a3e57b2db1283ef914c01ae3f964a400ff03f30e375f07a87e8a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf9fe225ac6a3e57b2db1283ef914c01ae3f964a400ff03f30e375f07a87e8a1"
+      },
+      "11": {
+        "source_ref": "1 Samuel 17:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 11,
+            "source_ref": "1 Samuel 17:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2ea8c8916f2a34c6279e80b53684334c0107be6fc91d72812fec048877a72ff0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2ea8c8916f2a34c6279e80b53684334c0107be6fc91d72812fec048877a72ff0"
+      },
+      "12": {
+        "source_ref": "1 Samuel 17:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 12,
+            "source_ref": "1 Samuel 17:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71526cc457532ea09ffe4a5445eb6f40db5a842dff0dabe61fa36c5185146115"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71526cc457532ea09ffe4a5445eb6f40db5a842dff0dabe61fa36c5185146115"
+      },
+      "13": {
+        "source_ref": "1 Samuel 17:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 13,
+            "source_ref": "1 Samuel 17:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "615cbf50680179fcdc11944c345944399599ee3b911f4847e1bac38f0712ba31"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "615cbf50680179fcdc11944c345944399599ee3b911f4847e1bac38f0712ba31"
+      },
+      "14": {
+        "source_ref": "1 Samuel 17:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 14,
+            "source_ref": "1 Samuel 17:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc02a9c341091e81e1d94de053f2c5826e266f82f323253dc0a47abfafeb20f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc02a9c341091e81e1d94de053f2c5826e266f82f323253dc0a47abfafeb20f0"
+      },
+      "15": {
+        "source_ref": "1 Samuel 17:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 15,
+            "source_ref": "1 Samuel 17:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3761ec20429e853c4cf37331396108139750a7142ecd5a1cc22eeec006d9b7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3761ec20429e853c4cf37331396108139750a7142ecd5a1cc22eeec006d9b7d"
+      },
+      "16": {
+        "source_ref": "1 Samuel 17:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 16,
+            "source_ref": "1 Samuel 17:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1081acaaaa2bb8d0dce9c9a67ab1791cbad89d1f94d4b27c63615b9ef93b037"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1081acaaaa2bb8d0dce9c9a67ab1791cbad89d1f94d4b27c63615b9ef93b037"
+      },
+      "17": {
+        "source_ref": "1 Samuel 17:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 17,
+            "source_ref": "1 Samuel 17:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "64d2f329cf49d49b281c99523e0c8d01d70850e26927c0022b26ce64d882884f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64d2f329cf49d49b281c99523e0c8d01d70850e26927c0022b26ce64d882884f"
+      },
+      "18": {
+        "source_ref": "1 Samuel 17:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 18,
+            "source_ref": "1 Samuel 17:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bc3c9d3118bbc83ba4dc6f3d2584a3fc1e3c54e28998cb969914994f095a43c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bc3c9d3118bbc83ba4dc6f3d2584a3fc1e3c54e28998cb969914994f095a43c8"
+      },
+      "19": {
+        "source_ref": "1 Samuel 17:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 19,
+            "source_ref": "1 Samuel 17:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4fadfa18eff19608be493ed018cf8f292d46fa5939255cfcdf640b9dddd712ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4fadfa18eff19608be493ed018cf8f292d46fa5939255cfcdf640b9dddd712ef"
+      },
+      "20": {
+        "source_ref": "1 Samuel 17:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 20,
+            "source_ref": "1 Samuel 17:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "29ff70d3b2753d864c10ac4719fed252bb59cea0d4869224e928ae829ea2d896"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "29ff70d3b2753d864c10ac4719fed252bb59cea0d4869224e928ae829ea2d896"
+      },
+      "21": {
+        "source_ref": "1 Samuel 17:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 21,
+            "source_ref": "1 Samuel 17:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "713c89b49c85c5b2ea714bdc849196b63bf98b12d20a21b15fa7a46c74522588"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "713c89b49c85c5b2ea714bdc849196b63bf98b12d20a21b15fa7a46c74522588"
+      },
+      "22": {
+        "source_ref": "1 Samuel 17:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 22,
+            "source_ref": "1 Samuel 17:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c56b270068520dfd19dc0edd46bac9fa99a81c0463a6b25a51e3f0d6639ff0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c56b270068520dfd19dc0edd46bac9fa99a81c0463a6b25a51e3f0d6639ff0f"
+      },
+      "23": {
+        "source_ref": "1 Samuel 17:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 23,
+            "source_ref": "1 Samuel 17:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c84a9df432ceaded24386d8185a338476d65dfc3e90854fe1baab41e5cc17c18"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c84a9df432ceaded24386d8185a338476d65dfc3e90854fe1baab41e5cc17c18"
+      },
+      "24": {
+        "source_ref": "1 Samuel 17:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 24,
+            "source_ref": "1 Samuel 17:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e81fce031e33adf6879c27c820cbae5f8fc623a831d894e9be7b12a75e8999e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e81fce031e33adf6879c27c820cbae5f8fc623a831d894e9be7b12a75e8999e9"
+      },
+      "25": {
+        "source_ref": "1 Samuel 17:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 25,
+            "source_ref": "1 Samuel 17:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ae6a2752f5d7737cfe346a31f8587b21b237789425a472103f1899f5619d75fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae6a2752f5d7737cfe346a31f8587b21b237789425a472103f1899f5619d75fe"
+      },
+      "26": {
+        "source_ref": "1 Samuel 17:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 26,
+            "source_ref": "1 Samuel 17:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72239f0f5c10df1cd60536b276672a149b82194bc0f190b5c6946113a651c4fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72239f0f5c10df1cd60536b276672a149b82194bc0f190b5c6946113a651c4fa"
+      },
+      "27": {
+        "source_ref": "1 Samuel 17:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 27,
+            "source_ref": "1 Samuel 17:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af79b57efe4d771e955f7b2831a33c5aa6abe3cac55c0b9470fac450e3b8a3e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af79b57efe4d771e955f7b2831a33c5aa6abe3cac55c0b9470fac450e3b8a3e1"
+      },
+      "28": {
+        "source_ref": "1 Samuel 17:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 28,
+            "source_ref": "1 Samuel 17:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f108d2dfd0bb259d3c75a4f34cd21c066e26779fa04972351186dad4b3f97eaf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f108d2dfd0bb259d3c75a4f34cd21c066e26779fa04972351186dad4b3f97eaf"
+      },
+      "29": {
+        "source_ref": "1 Samuel 17:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 29,
+            "source_ref": "1 Samuel 17:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c32025bc765ce0b685a573384ac67ddbb4fe81fa8401689fc2619f3d31316c85"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c32025bc765ce0b685a573384ac67ddbb4fe81fa8401689fc2619f3d31316c85"
+      },
+      "30": {
+        "source_ref": "1 Samuel 17:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 30,
+            "source_ref": "1 Samuel 17:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a18489f446ee4a3aa5f36fa344ea8f0264c3752df2b02656a9f0bb0561caecb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a18489f446ee4a3aa5f36fa344ea8f0264c3752df2b02656a9f0bb0561caecb"
+      },
+      "31": {
+        "source_ref": "1 Samuel 17:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 31,
+            "source_ref": "1 Samuel 17:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f96551e3473524f2c920443df1a764c30140e5196494d26b6747346ce08242dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f96551e3473524f2c920443df1a764c30140e5196494d26b6747346ce08242dc"
+      },
+      "32": {
+        "source_ref": "1 Samuel 17:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 32,
+            "source_ref": "1 Samuel 17:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf4d6605e4d79001d2e979946bf8fc023a3474e50ae2a5efaa87a864fc6c87ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf4d6605e4d79001d2e979946bf8fc023a3474e50ae2a5efaa87a864fc6c87ec"
+      },
+      "33": {
+        "source_ref": "1 Samuel 17:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 33,
+            "source_ref": "1 Samuel 17:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6036a5349ae080e4dcef28be705c917dea2eaa8273d641a04900620a63fa9513"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6036a5349ae080e4dcef28be705c917dea2eaa8273d641a04900620a63fa9513"
+      },
+      "34": {
+        "source_ref": "1 Samuel 17:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 34,
+            "source_ref": "1 Samuel 17:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d29903726fcacc08562fa195779f9294beba17b0cefffd8114ec14ac13dcabaf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d29903726fcacc08562fa195779f9294beba17b0cefffd8114ec14ac13dcabaf"
+      },
+      "35": {
+        "source_ref": "1 Samuel 17:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 35,
+            "source_ref": "1 Samuel 17:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "48973122b8dd594714cea9090a855385cbc4bbd882faa336cdf24c0e7819d144"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48973122b8dd594714cea9090a855385cbc4bbd882faa336cdf24c0e7819d144"
+      },
+      "36": {
+        "source_ref": "1 Samuel 17:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 36,
+            "source_ref": "1 Samuel 17:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "33de0bb76c222beee6469c6ca456a0472469296bd90509b0bccdb22dc1d4ae39"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "33de0bb76c222beee6469c6ca456a0472469296bd90509b0bccdb22dc1d4ae39"
+      },
+      "37": {
+        "source_ref": "1 Samuel 17:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 37,
+            "source_ref": "1 Samuel 17:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5fc03fbe3df38ce64496e055e10e3ee2eedcdd9cbb891d8ece61bc10434f6fdd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5fc03fbe3df38ce64496e055e10e3ee2eedcdd9cbb891d8ece61bc10434f6fdd"
+      },
+      "38": {
+        "source_ref": "1 Samuel 17:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 38,
+            "source_ref": "1 Samuel 17:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b49904cc8cb6c448efc5b78bc29275a07785c022ebeb401e4bf2e1d49da5b3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b49904cc8cb6c448efc5b78bc29275a07785c022ebeb401e4bf2e1d49da5b3a"
+      },
+      "39": {
+        "source_ref": "1 Samuel 17:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 39,
+            "source_ref": "1 Samuel 17:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "811f779b533b1eb7fe842e381b4431c2794d010cbba5519917cf9c28ec78b003"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "811f779b533b1eb7fe842e381b4431c2794d010cbba5519917cf9c28ec78b003"
+      },
+      "40": {
+        "source_ref": "1 Samuel 17:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 40,
+            "source_ref": "1 Samuel 17:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "83e8040dd0a63d99bcf94abe1285da894699b2a26ce1a15477459e6a0cd4cdda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83e8040dd0a63d99bcf94abe1285da894699b2a26ce1a15477459e6a0cd4cdda"
+      },
+      "41": {
+        "source_ref": "1 Samuel 17:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 41,
+            "source_ref": "1 Samuel 17:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "40daa0be8d34c961b4970c8342b3d2d8a34d80f33041251ec491e903ef1b15a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40daa0be8d34c961b4970c8342b3d2d8a34d80f33041251ec491e903ef1b15a4"
+      },
+      "42": {
+        "source_ref": "1 Samuel 17:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 42,
+            "source_ref": "1 Samuel 17:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d370267f96f2bc90e2c96fc11fa8fdf96104fe9525c5e27eaacb67955157afa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d370267f96f2bc90e2c96fc11fa8fdf96104fe9525c5e27eaacb67955157afa"
+      },
+      "43": {
+        "source_ref": "1 Samuel 17:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 43,
+            "source_ref": "1 Samuel 17:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "70d6eef4542542dde43abbeb378a8d66900bf834a814f02dd7d4f0e075a14e3e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70d6eef4542542dde43abbeb378a8d66900bf834a814f02dd7d4f0e075a14e3e"
+      },
+      "44": {
+        "source_ref": "1 Samuel 17:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 44,
+            "source_ref": "1 Samuel 17:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c872bc40d7da49da654818a16102d575fae850bee404fabacccccd88dbd50bb5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c872bc40d7da49da654818a16102d575fae850bee404fabacccccd88dbd50bb5"
+      },
+      "45": {
+        "source_ref": "1 Samuel 17:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 45,
+            "source_ref": "1 Samuel 17:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "de2fc6f25718f4cd9353941e05154bb694660e36ff04c65ce94b17cc7b37e499"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de2fc6f25718f4cd9353941e05154bb694660e36ff04c65ce94b17cc7b37e499"
+      },
+      "46": {
+        "source_ref": "1 Samuel 17:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 46,
+            "source_ref": "1 Samuel 17:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2607714d95080cd82e2da7531163164d464c1dad61a3e6562cb74681e572445"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2607714d95080cd82e2da7531163164d464c1dad61a3e6562cb74681e572445"
+      },
+      "47": {
+        "source_ref": "1 Samuel 17:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 47,
+            "source_ref": "1 Samuel 17:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e60f8871067e772b1e7e98c05ea3071f7946140843bce2a03397eab00a3d610a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e60f8871067e772b1e7e98c05ea3071f7946140843bce2a03397eab00a3d610a"
+      },
+      "48": {
+        "source_ref": "1 Samuel 17:48 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 48,
+            "source_ref": "1 Samuel 17:48 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "98fc0292bc8fcbd57e9c89527dc990b160955ea2cc63ef62e23a17129032104a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98fc0292bc8fcbd57e9c89527dc990b160955ea2cc63ef62e23a17129032104a"
+      },
+      "49": {
+        "source_ref": "1 Samuel 17:49 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 49,
+            "source_ref": "1 Samuel 17:49 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7dd74ef7e69518c2ad2a97b6bbcb578a047ee82b15c718b19a2177f06647a4e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7dd74ef7e69518c2ad2a97b6bbcb578a047ee82b15c718b19a2177f06647a4e7"
+      },
+      "50": {
+        "source_ref": "1 Samuel 17:50 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 50,
+            "source_ref": "1 Samuel 17:50 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "beda74ac2dca7a254a3a054867b62e999a361e922b2f0678536641774df5317f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "beda74ac2dca7a254a3a054867b62e999a361e922b2f0678536641774df5317f"
+      },
+      "51": {
+        "source_ref": "1 Samuel 17:51 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 51,
+            "source_ref": "1 Samuel 17:51 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "34677b52f3f7304e92d3fbf75ba180c4d12e9b002c09e29ceb3d298c3731550b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34677b52f3f7304e92d3fbf75ba180c4d12e9b002c09e29ceb3d298c3731550b"
+      },
+      "52": {
+        "source_ref": "1 Samuel 17:52 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 52,
+            "source_ref": "1 Samuel 17:52 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "90b69278c9dfb43d6229ab19525640555bc08063a1ae20ce9282d07660141cda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "90b69278c9dfb43d6229ab19525640555bc08063a1ae20ce9282d07660141cda"
+      },
+      "53": {
+        "source_ref": "1 Samuel 17:53 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 53,
+            "source_ref": "1 Samuel 17:53 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a406b4083efc4ae084424651fb81bce2a87d18dc3f2f47bc863d660f92d45307"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a406b4083efc4ae084424651fb81bce2a87d18dc3f2f47bc863d660f92d45307"
+      },
+      "54": {
+        "source_ref": "1 Samuel 17:54 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 54,
+            "source_ref": "1 Samuel 17:54 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8b4abf8643c339ea1f1060879b853d2319a6b48c84fdc412c4fd878fc10042e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b4abf8643c339ea1f1060879b853d2319a6b48c84fdc412c4fd878fc10042e5"
+      },
+      "55": {
+        "source_ref": "1 Samuel 17:55 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 55,
+            "source_ref": "1 Samuel 17:55 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "604c58498391ded459c05131491adbd630b9adcdd17e163d000556a907fdaf1e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "604c58498391ded459c05131491adbd630b9adcdd17e163d000556a907fdaf1e"
+      },
+      "56": {
+        "source_ref": "1 Samuel 17:56 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 56,
+            "source_ref": "1 Samuel 17:56 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4c4ed7e5bc87ea246cb332ad6b0187af554ec698e9c2ef0c96f803e6392813eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c4ed7e5bc87ea246cb332ad6b0187af554ec698e9c2ef0c96f803e6392813eb"
+      },
+      "57": {
+        "source_ref": "1 Samuel 17:57 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 57,
+            "source_ref": "1 Samuel 17:57 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04898876e0470160b13bd71c06f213a50ee85eb645ca23f2e32693cfc313d21c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04898876e0470160b13bd71c06f213a50ee85eb645ca23f2e32693cfc313d21c"
+      },
+      "58": {
+        "source_ref": "1 Samuel 17:58 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 17,
+            "verse": 58,
+            "source_ref": "1 Samuel 17:58 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "81af11b7fc728fecfee83cc3644395e549fb03fce503bdeeaf02f8f72e044d9a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81af11b7fc728fecfee83cc3644395e549fb03fce503bdeeaf02f8f72e044d9a"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1samuel/1Samuel_17.md",
+    "blob_sha": "4631a776d159d486ae98c677009c1bf396520df7"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

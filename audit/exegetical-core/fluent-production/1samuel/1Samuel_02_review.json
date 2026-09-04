@@ -1,0 +1,576 @@
+{
+  "book": "1 Samuel",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Sam.xml",
+    "git_blob_sha": "b1bda5c6049d674ab487a49fec2f102d6c73bb79",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Samuel 2:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "1 Samuel 2:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6a0d056ef14bcedc1784a2cca3dcddaeeb101c9b62e4ed862d81870c90b295b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6a0d056ef14bcedc1784a2cca3dcddaeeb101c9b62e4ed862d81870c90b295b"
+      },
+      "2": {
+        "source_ref": "1 Samuel 2:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "1 Samuel 2:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3e565aa855a54a47f5f214ed4fa42f66aa113a0b2ccc9e74acc965c41f0be5ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3e565aa855a54a47f5f214ed4fa42f66aa113a0b2ccc9e74acc965c41f0be5ce"
+      },
+      "3": {
+        "source_ref": "1 Samuel 2:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "1 Samuel 2:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "43450bbbdb26a3585c292fce02d3239bdd9accee3c5fe886b5d539bfffe56f1c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43450bbbdb26a3585c292fce02d3239bdd9accee3c5fe886b5d539bfffe56f1c"
+      },
+      "4": {
+        "source_ref": "1 Samuel 2:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "1 Samuel 2:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63e8023c47d674449b6b33e480e630b6a488435b37f349ac12bb75c22a08485e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63e8023c47d674449b6b33e480e630b6a488435b37f349ac12bb75c22a08485e"
+      },
+      "5": {
+        "source_ref": "1 Samuel 2:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "1 Samuel 2:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4f4c727ab10940b75069e4acab361ef0290016b65584d089725748162e074515"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f4c727ab10940b75069e4acab361ef0290016b65584d089725748162e074515"
+      },
+      "6": {
+        "source_ref": "1 Samuel 2:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "1 Samuel 2:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "604dbc49fca6ce44bc7b11044997e2e60d3a392a16d20981ae45ac131dba1acb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "604dbc49fca6ce44bc7b11044997e2e60d3a392a16d20981ae45ac131dba1acb"
+      },
+      "7": {
+        "source_ref": "1 Samuel 2:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "1 Samuel 2:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1f3590b4aaf05c5ffaaa770b8f5b4068b8c19603d55180d7c761761368cec95"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1f3590b4aaf05c5ffaaa770b8f5b4068b8c19603d55180d7c761761368cec95"
+      },
+      "8": {
+        "source_ref": "1 Samuel 2:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "1 Samuel 2:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b23aea40d15aab56ccb6064994c557d36f7f6dd82e93bf50e2a68d4387a2091e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b23aea40d15aab56ccb6064994c557d36f7f6dd82e93bf50e2a68d4387a2091e"
+      },
+      "9": {
+        "source_ref": "1 Samuel 2:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "1 Samuel 2:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4d83616fab44b8b3c3aab3eb6a3ba8234655468bdc3db370dea844d798dda749"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4d83616fab44b8b3c3aab3eb6a3ba8234655468bdc3db370dea844d798dda749"
+      },
+      "10": {
+        "source_ref": "1 Samuel 2:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "1 Samuel 2:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "77dbd67a2dac5301332ec7609f98f74fe59222d21e82d2ed278b849f9f7dc994"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77dbd67a2dac5301332ec7609f98f74fe59222d21e82d2ed278b849f9f7dc994"
+      },
+      "11": {
+        "source_ref": "1 Samuel 2:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "1 Samuel 2:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "66d1d48ed7b29c3e034e57b0c3d4c27051f87109ebb0ebf963efb5c48f16da6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "66d1d48ed7b29c3e034e57b0c3d4c27051f87109ebb0ebf963efb5c48f16da6a"
+      },
+      "12": {
+        "source_ref": "1 Samuel 2:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "1 Samuel 2:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "056333af74533bace2fef7841edcd74d503390e126216d683a61499b113288c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "056333af74533bace2fef7841edcd74d503390e126216d683a61499b113288c9"
+      },
+      "13": {
+        "source_ref": "1 Samuel 2:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "1 Samuel 2:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a41b7ec67a4ccf4425589ff1782f313df0c2e59c4bb10cde61c51cd13135f921"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a41b7ec67a4ccf4425589ff1782f313df0c2e59c4bb10cde61c51cd13135f921"
+      },
+      "14": {
+        "source_ref": "1 Samuel 2:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "1 Samuel 2:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed705eff6f718aa68732817e397415addde4d184e04b567e1e5b451e3da7244d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed705eff6f718aa68732817e397415addde4d184e04b567e1e5b451e3da7244d"
+      },
+      "15": {
+        "source_ref": "1 Samuel 2:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "1 Samuel 2:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eec9c4175ae63c657687937b0388491a83d84e0ab34514bd8a7ca9266c1a130a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eec9c4175ae63c657687937b0388491a83d84e0ab34514bd8a7ca9266c1a130a"
+      },
+      "16": {
+        "source_ref": "1 Samuel 2:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 16,
+            "source_ref": "1 Samuel 2:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a78a5c44c041416afa62dab10d041be6dcbd9fcd8b7b4b25cbe5477a88c24594"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a78a5c44c041416afa62dab10d041be6dcbd9fcd8b7b4b25cbe5477a88c24594"
+      },
+      "17": {
+        "source_ref": "1 Samuel 2:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 17,
+            "source_ref": "1 Samuel 2:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4852838a6c3b19bc9ba82f92ac4224f0c60de119a3a48c076560d25ee4d312a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4852838a6c3b19bc9ba82f92ac4224f0c60de119a3a48c076560d25ee4d312a7"
+      },
+      "18": {
+        "source_ref": "1 Samuel 2:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 18,
+            "source_ref": "1 Samuel 2:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "86e2d0a1ec97e71d4dfff1c8e8e4aecc22fa30f3f220a38e143793328a963668"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "86e2d0a1ec97e71d4dfff1c8e8e4aecc22fa30f3f220a38e143793328a963668"
+      },
+      "19": {
+        "source_ref": "1 Samuel 2:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 19,
+            "source_ref": "1 Samuel 2:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a531fd964aaa76e23f178ef3dcc88fb0eb64833b770dddbbc8cd640ace43bd52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a531fd964aaa76e23f178ef3dcc88fb0eb64833b770dddbbc8cd640ace43bd52"
+      },
+      "20": {
+        "source_ref": "1 Samuel 2:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 20,
+            "source_ref": "1 Samuel 2:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "112c37a3b2b82af2270a306bddfd9bc4340522ab4399e94742b075b742e49a6f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "112c37a3b2b82af2270a306bddfd9bc4340522ab4399e94742b075b742e49a6f"
+      },
+      "21": {
+        "source_ref": "1 Samuel 2:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 21,
+            "source_ref": "1 Samuel 2:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79c3d7300b2f4a25be9a4c78891b2fe5f0d59952ee3b11beba1c44cf683530eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79c3d7300b2f4a25be9a4c78891b2fe5f0d59952ee3b11beba1c44cf683530eb"
+      },
+      "22": {
+        "source_ref": "1 Samuel 2:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 22,
+            "source_ref": "1 Samuel 2:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2e89fcac80528d61c687d0432d3e310251c9d5366bdb67170c7d20c20a3870ee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e89fcac80528d61c687d0432d3e310251c9d5366bdb67170c7d20c20a3870ee"
+      },
+      "23": {
+        "source_ref": "1 Samuel 2:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 23,
+            "source_ref": "1 Samuel 2:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "13a9b14f48bcd49aedc97ffdcbdf5ae315bacae58a1b7a6a729754a5eca15c38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "13a9b14f48bcd49aedc97ffdcbdf5ae315bacae58a1b7a6a729754a5eca15c38"
+      },
+      "24": {
+        "source_ref": "1 Samuel 2:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 24,
+            "source_ref": "1 Samuel 2:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e2745a65dd3e28db921a92f2c63dbbbdc945754ae6ad795151985337f4de8ba4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2745a65dd3e28db921a92f2c63dbbbdc945754ae6ad795151985337f4de8ba4"
+      },
+      "25": {
+        "source_ref": "1 Samuel 2:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 25,
+            "source_ref": "1 Samuel 2:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45bcea03da823bf675e106e6a15de6f0cc013b841e05d9f44541200d38de2dea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45bcea03da823bf675e106e6a15de6f0cc013b841e05d9f44541200d38de2dea"
+      },
+      "26": {
+        "source_ref": "1 Samuel 2:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 26,
+            "source_ref": "1 Samuel 2:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "63254601048cca47a03efc2e2768aada47a3848334ffe90a4d4bb7f0fc0c823a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "63254601048cca47a03efc2e2768aada47a3848334ffe90a4d4bb7f0fc0c823a"
+      },
+      "27": {
+        "source_ref": "1 Samuel 2:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 27,
+            "source_ref": "1 Samuel 2:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af327dbca20911090af83aea41802680d0398e120871786f445f418fcc6996c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af327dbca20911090af83aea41802680d0398e120871786f445f418fcc6996c7"
+      },
+      "28": {
+        "source_ref": "1 Samuel 2:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 28,
+            "source_ref": "1 Samuel 2:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2539a4df19d5a4e1a903bb5af36fd4b5769195404e7e6287154860f5a7eb7124"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2539a4df19d5a4e1a903bb5af36fd4b5769195404e7e6287154860f5a7eb7124"
+      },
+      "29": {
+        "source_ref": "1 Samuel 2:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 29,
+            "source_ref": "1 Samuel 2:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e9dc1369bacb47e97a0c06c2d31494a6c7a91e66e0bc5d4e9ea27f19bba2c0d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e9dc1369bacb47e97a0c06c2d31494a6c7a91e66e0bc5d4e9ea27f19bba2c0d7"
+      },
+      "30": {
+        "source_ref": "1 Samuel 2:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 30,
+            "source_ref": "1 Samuel 2:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7688f9c3c4fc8949e5649dd386fa7d1f5a86cfc0b5dd71c8c627156110ec7120"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7688f9c3c4fc8949e5649dd386fa7d1f5a86cfc0b5dd71c8c627156110ec7120"
+      },
+      "31": {
+        "source_ref": "1 Samuel 2:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 31,
+            "source_ref": "1 Samuel 2:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0b7079141644c210bff3a287b091f404164ba0d95b5d2693038a651569693b23"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b7079141644c210bff3a287b091f404164ba0d95b5d2693038a651569693b23"
+      },
+      "32": {
+        "source_ref": "1 Samuel 2:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 32,
+            "source_ref": "1 Samuel 2:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "87ed52f063d83c50c7fdd13b00f8353c7fce526f8c7129aaddb0ebf60402e539"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87ed52f063d83c50c7fdd13b00f8353c7fce526f8c7129aaddb0ebf60402e539"
+      },
+      "33": {
+        "source_ref": "1 Samuel 2:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 33,
+            "source_ref": "1 Samuel 2:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "896bfd98023c1d4db6fd278e45e013c9e46a9a4e207e43af3298b1525264539c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "896bfd98023c1d4db6fd278e45e013c9e46a9a4e207e43af3298b1525264539c"
+      },
+      "34": {
+        "source_ref": "1 Samuel 2:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 34,
+            "source_ref": "1 Samuel 2:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "592acfb80da921c38c60ca32cbfdae579a2aef4c078e241d13ac428553e3c7df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "592acfb80da921c38c60ca32cbfdae579a2aef4c078e241d13ac428553e3c7df"
+      },
+      "35": {
+        "source_ref": "1 Samuel 2:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 35,
+            "source_ref": "1 Samuel 2:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ebf95c01d4f8e72f5fc2f65021d1e73d864eb3520e212ae5cb0d5f11fec64d7c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ebf95c01d4f8e72f5fc2f65021d1e73d864eb3520e212ae5cb0d5f11fec64d7c"
+      },
+      "36": {
+        "source_ref": "1 Samuel 2:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 36,
+            "source_ref": "1 Samuel 2:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72dd23e98b84f7bf0476d4f6c95750be596315c71885452e160b0d4089223ece"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72dd23e98b84f7bf0476d4f6c95750be596315c71885452e160b0d4089223ece"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1samuel/1Samuel_02.md",
+    "blob_sha": "e3828da21569a02a3406cff66da923f2c143a479"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
