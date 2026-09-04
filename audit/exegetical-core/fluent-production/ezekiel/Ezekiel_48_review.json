@@ -1,0 +1,561 @@
+{
+  "book": "Ezekiel",
+  "chapter": 48,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 48:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 1,
+            "source_ref": "Ezekiel 48:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "306f66ddcda85a250dcfb495831aa59a9c6281e8becea44b47a8ed00cecfc9d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "306f66ddcda85a250dcfb495831aa59a9c6281e8becea44b47a8ed00cecfc9d9"
+      },
+      "2": {
+        "source_ref": "Ezekiel 48:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 2,
+            "source_ref": "Ezekiel 48:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "87bc8c6ed4bcc217da256f18fe10ac125a5f55763050f5953cd4049e4d2a72a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87bc8c6ed4bcc217da256f18fe10ac125a5f55763050f5953cd4049e4d2a72a3"
+      },
+      "3": {
+        "source_ref": "Ezekiel 48:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 3,
+            "source_ref": "Ezekiel 48:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "153a35ec0a3099f1f3fda8594a2d735222e347bdc3fb935b0afebfc9a5edcb66"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "153a35ec0a3099f1f3fda8594a2d735222e347bdc3fb935b0afebfc9a5edcb66"
+      },
+      "4": {
+        "source_ref": "Ezekiel 48:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 4,
+            "source_ref": "Ezekiel 48:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bfc903ce4d717745a573938007dbe96dd0df3602990a8b3ed05146ae91878b46"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bfc903ce4d717745a573938007dbe96dd0df3602990a8b3ed05146ae91878b46"
+      },
+      "5": {
+        "source_ref": "Ezekiel 48:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 5,
+            "source_ref": "Ezekiel 48:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36a98e6ff4e339afefd0d2a46f68c5e9eb1cdd5b7fe9efcf68cbf275e003a80f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36a98e6ff4e339afefd0d2a46f68c5e9eb1cdd5b7fe9efcf68cbf275e003a80f"
+      },
+      "6": {
+        "source_ref": "Ezekiel 48:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 6,
+            "source_ref": "Ezekiel 48:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "20d260db015df7fdfd68e5b70e6145f489d4ee7331a4e5bfdd0c50dc17804f08"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "20d260db015df7fdfd68e5b70e6145f489d4ee7331a4e5bfdd0c50dc17804f08"
+      },
+      "7": {
+        "source_ref": "Ezekiel 48:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 7,
+            "source_ref": "Ezekiel 48:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79c5baee8e8e65962ca84cc28e5797c4806fc2335d4b87f16e4e55882560cd2e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79c5baee8e8e65962ca84cc28e5797c4806fc2335d4b87f16e4e55882560cd2e"
+      },
+      "8": {
+        "source_ref": "Ezekiel 48:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 8,
+            "source_ref": "Ezekiel 48:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "77cce80922468008973b00a10e2f0b4f5e954c7bd7ead940343c54c58f7f1caa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77cce80922468008973b00a10e2f0b4f5e954c7bd7ead940343c54c58f7f1caa"
+      },
+      "9": {
+        "source_ref": "Ezekiel 48:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 9,
+            "source_ref": "Ezekiel 48:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a2b5bb062e44f99ac1311a38e67b7fd505124f4162e40ff27d6b385c8af34c92"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a2b5bb062e44f99ac1311a38e67b7fd505124f4162e40ff27d6b385c8af34c92"
+      },
+      "10": {
+        "source_ref": "Ezekiel 48:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 10,
+            "source_ref": "Ezekiel 48:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1aaa8243310c6e52eced183936077f89d3855a38996f8a0f697bc9729d63221"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1aaa8243310c6e52eced183936077f89d3855a38996f8a0f697bc9729d63221"
+      },
+      "11": {
+        "source_ref": "Ezekiel 48:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 11,
+            "source_ref": "Ezekiel 48:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "12469a5bd0bf21b36f791763816285732df9a6bc2abaa160326810622dce9e88"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12469a5bd0bf21b36f791763816285732df9a6bc2abaa160326810622dce9e88"
+      },
+      "12": {
+        "source_ref": "Ezekiel 48:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 12,
+            "source_ref": "Ezekiel 48:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a33708d7bf9b77a4b52404106aaa3cf8d79f7123ceb5e9f274feee3c61c7c080"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a33708d7bf9b77a4b52404106aaa3cf8d79f7123ceb5e9f274feee3c61c7c080"
+      },
+      "13": {
+        "source_ref": "Ezekiel 48:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 13,
+            "source_ref": "Ezekiel 48:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bbc4895e65d66992012cfca185edec3e670c998c7677d1669f22604dda2d54a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bbc4895e65d66992012cfca185edec3e670c998c7677d1669f22604dda2d54a1"
+      },
+      "14": {
+        "source_ref": "Ezekiel 48:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 14,
+            "source_ref": "Ezekiel 48:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "644b6c4375cd0699de56f8f2e9b470fc90b88579ba8afadd29dc185bf10bbdcb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "644b6c4375cd0699de56f8f2e9b470fc90b88579ba8afadd29dc185bf10bbdcb"
+      },
+      "15": {
+        "source_ref": "Ezekiel 48:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 15,
+            "source_ref": "Ezekiel 48:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "35d2a9c31bd4cf0fc80283f588114e1b4298f9a957ba3cdf347e4ed47b0d4f5b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35d2a9c31bd4cf0fc80283f588114e1b4298f9a957ba3cdf347e4ed47b0d4f5b"
+      },
+      "16": {
+        "source_ref": "Ezekiel 48:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 16,
+            "source_ref": "Ezekiel 48:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9f0974e53222510ee50da2e125b1927b0c0984f82cc7782a8a7d4a11cb15e284"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f0974e53222510ee50da2e125b1927b0c0984f82cc7782a8a7d4a11cb15e284"
+      },
+      "17": {
+        "source_ref": "Ezekiel 48:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 17,
+            "source_ref": "Ezekiel 48:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "043c6cce48351e31317db9856b084a030334614efdf1b12f5dadcb110d21d231"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "043c6cce48351e31317db9856b084a030334614efdf1b12f5dadcb110d21d231"
+      },
+      "18": {
+        "source_ref": "Ezekiel 48:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 18,
+            "source_ref": "Ezekiel 48:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "881459d827c6270f8bb85faac5fafcfdb7fe9701e6061281d92ce24b235cc2f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "881459d827c6270f8bb85faac5fafcfdb7fe9701e6061281d92ce24b235cc2f6"
+      },
+      "19": {
+        "source_ref": "Ezekiel 48:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 19,
+            "source_ref": "Ezekiel 48:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ee28ffb99b3892eb8d5369c93717c0256736b7a1aa75a03d903cfdca77dedfc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ee28ffb99b3892eb8d5369c93717c0256736b7a1aa75a03d903cfdca77dedfc"
+      },
+      "20": {
+        "source_ref": "Ezekiel 48:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 20,
+            "source_ref": "Ezekiel 48:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a278df7f5f354e8f5c8aea2e8a1d76bf524c89af95ae67e38a0d482823051b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a278df7f5f354e8f5c8aea2e8a1d76bf524c89af95ae67e38a0d482823051b4"
+      },
+      "21": {
+        "source_ref": "Ezekiel 48:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 21,
+            "source_ref": "Ezekiel 48:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b748bb387a25d0bcdde302fe25b35cd3c72258ec44f4856d71366b638f6d44c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b748bb387a25d0bcdde302fe25b35cd3c72258ec44f4856d71366b638f6d44c1"
+      },
+      "22": {
+        "source_ref": "Ezekiel 48:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 22,
+            "source_ref": "Ezekiel 48:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b732a4352b1fd5c8073523327179c9c8f029014419dc9aa6bb30db04a00cd690"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b732a4352b1fd5c8073523327179c9c8f029014419dc9aa6bb30db04a00cd690"
+      },
+      "23": {
+        "source_ref": "Ezekiel 48:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 23,
+            "source_ref": "Ezekiel 48:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ea089e7b7f9568f6914fcbfe9194af0f4cfc8a4e71303a61d120dc61d903ff99"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea089e7b7f9568f6914fcbfe9194af0f4cfc8a4e71303a61d120dc61d903ff99"
+      },
+      "24": {
+        "source_ref": "Ezekiel 48:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 24,
+            "source_ref": "Ezekiel 48:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cf244a644d5e4633dccc5cfba7f31dc99b70e8ee32f3d555f53e0465293c86f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cf244a644d5e4633dccc5cfba7f31dc99b70e8ee32f3d555f53e0465293c86f0"
+      },
+      "25": {
+        "source_ref": "Ezekiel 48:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 25,
+            "source_ref": "Ezekiel 48:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4e81189b8e19a6816afe29b55a92162681c92c4e54bad86941ce9964f04c6cbc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e81189b8e19a6816afe29b55a92162681c92c4e54bad86941ce9964f04c6cbc"
+      },
+      "26": {
+        "source_ref": "Ezekiel 48:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 26,
+            "source_ref": "Ezekiel 48:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2e3b7bebac0b5bbbb2b14b4030aba02b34ea3958da86209bd179b352d6ae2ac0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e3b7bebac0b5bbbb2b14b4030aba02b34ea3958da86209bd179b352d6ae2ac0"
+      },
+      "27": {
+        "source_ref": "Ezekiel 48:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 27,
+            "source_ref": "Ezekiel 48:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3fab8dc03c2f6037acb3194c4660fd573bbbd7431cb090d4fd57f6f36c7d5171"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3fab8dc03c2f6037acb3194c4660fd573bbbd7431cb090d4fd57f6f36c7d5171"
+      },
+      "28": {
+        "source_ref": "Ezekiel 48:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 28,
+            "source_ref": "Ezekiel 48:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a7e13741bcb377beac6a9208544352fc2eb45eb79060562b52949a2006324d4d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a7e13741bcb377beac6a9208544352fc2eb45eb79060562b52949a2006324d4d"
+      },
+      "29": {
+        "source_ref": "Ezekiel 48:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 29,
+            "source_ref": "Ezekiel 48:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "194ad501989004e84c727e47e60e457fa33bc7f15ed1acb9bef5a3c01dd3027e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "194ad501989004e84c727e47e60e457fa33bc7f15ed1acb9bef5a3c01dd3027e"
+      },
+      "30": {
+        "source_ref": "Ezekiel 48:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 30,
+            "source_ref": "Ezekiel 48:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9aff81b64d935c5219cf234ddf084a4303f61fd86398f877ea0b66726206637e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9aff81b64d935c5219cf234ddf084a4303f61fd86398f877ea0b66726206637e"
+      },
+      "31": {
+        "source_ref": "Ezekiel 48:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 31,
+            "source_ref": "Ezekiel 48:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b82f2cb070bbd9a9895806913a141c1f7e4cd1c650965eeb7cc6d8f3107a1dd6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b82f2cb070bbd9a9895806913a141c1f7e4cd1c650965eeb7cc6d8f3107a1dd6"
+      },
+      "32": {
+        "source_ref": "Ezekiel 48:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 32,
+            "source_ref": "Ezekiel 48:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "718c509dea81cf39202eea4b23af5fef56acc0543363fcd4000157f48eac47e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "718c509dea81cf39202eea4b23af5fef56acc0543363fcd4000157f48eac47e3"
+      },
+      "33": {
+        "source_ref": "Ezekiel 48:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 33,
+            "source_ref": "Ezekiel 48:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf2393805c5b16f8f7a5d7417da5e3177e03e6853849d20c827cb9f484b821b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf2393805c5b16f8f7a5d7417da5e3177e03e6853849d20c827cb9f484b821b1"
+      },
+      "34": {
+        "source_ref": "Ezekiel 48:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 34,
+            "source_ref": "Ezekiel 48:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a8b2785bb1ece576a8b7f6b6d9f359eb4b96fe4c6c5baf47d486ff0a74a8e0fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a8b2785bb1ece576a8b7f6b6d9f359eb4b96fe4c6c5baf47d486ff0a74a8e0fb"
+      },
+      "35": {
+        "source_ref": "Ezekiel 48:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 48,
+            "verse": 35,
+            "source_ref": "Ezekiel 48:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "25889cf8a41d148e89b37b790f77a02a0473eabf5257b968d4b3fc74bd866dd4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25889cf8a41d148e89b37b790f77a02a0473eabf5257b968d4b3fc74bd866dd4"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_48.md",
+    "blob_sha": "72427b4535184d47a41eb41eea7bdc8e00cc70ca"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

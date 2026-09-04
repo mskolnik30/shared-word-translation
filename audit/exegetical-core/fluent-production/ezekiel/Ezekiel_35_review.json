@@ -1,0 +1,261 @@
+{
+  "book": "Ezekiel",
+  "chapter": 35,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 35:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 1,
+            "source_ref": "Ezekiel 35:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14889c1991ea3afc3629e29213d38385d7b9cff9e0654da4c60000e28ca713e6"
+      },
+      "2": {
+        "source_ref": "Ezekiel 35:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 2,
+            "source_ref": "Ezekiel 35:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a700aed0f6fbe3e43b5201f96111444b1362f67867988ee702d4d8e25be0c36c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a700aed0f6fbe3e43b5201f96111444b1362f67867988ee702d4d8e25be0c36c"
+      },
+      "3": {
+        "source_ref": "Ezekiel 35:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 3,
+            "source_ref": "Ezekiel 35:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fd8fb5af42f0ae922b04aa504c98d1316ed5ba54820ca9a9db6313c864420f10"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd8fb5af42f0ae922b04aa504c98d1316ed5ba54820ca9a9db6313c864420f10"
+      },
+      "4": {
+        "source_ref": "Ezekiel 35:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 4,
+            "source_ref": "Ezekiel 35:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6aa9ca4f28d5f787a2e10157d4e2797c05a4c79d47f13695f720fab162084ca5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6aa9ca4f28d5f787a2e10157d4e2797c05a4c79d47f13695f720fab162084ca5"
+      },
+      "5": {
+        "source_ref": "Ezekiel 35:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 5,
+            "source_ref": "Ezekiel 35:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a4488cc2e43d5faeacf3cff4fd7caca75675ff32bde8f4f67d1b4b9ec71c3a38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a4488cc2e43d5faeacf3cff4fd7caca75675ff32bde8f4f67d1b4b9ec71c3a38"
+      },
+      "6": {
+        "source_ref": "Ezekiel 35:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 6,
+            "source_ref": "Ezekiel 35:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "89151ee2c9a8a7b4ccd7a0a76657ace2acc056b7886804ab2a642cc9e855eb87"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89151ee2c9a8a7b4ccd7a0a76657ace2acc056b7886804ab2a642cc9e855eb87"
+      },
+      "7": {
+        "source_ref": "Ezekiel 35:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 7,
+            "source_ref": "Ezekiel 35:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f6440f4be8834839714bb39c7d1c30df475b5cb60795148a0fff4fab41046e4c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f6440f4be8834839714bb39c7d1c30df475b5cb60795148a0fff4fab41046e4c"
+      },
+      "8": {
+        "source_ref": "Ezekiel 35:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 8,
+            "source_ref": "Ezekiel 35:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c3feb93d4fc1d6ba10fc0a92370bc317af825d380d969763555c07dc857f8939"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3feb93d4fc1d6ba10fc0a92370bc317af825d380d969763555c07dc857f8939"
+      },
+      "9": {
+        "source_ref": "Ezekiel 35:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 9,
+            "source_ref": "Ezekiel 35:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "488b6032442650f8da1b3596cd3ac3b9df6ad6709b7c377959058b13daf974ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "488b6032442650f8da1b3596cd3ac3b9df6ad6709b7c377959058b13daf974ba"
+      },
+      "10": {
+        "source_ref": "Ezekiel 35:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 10,
+            "source_ref": "Ezekiel 35:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2bdbc5f65b8579fa24d3bb365170fc1844e8d4812298811bcd3368a700ec18f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2bdbc5f65b8579fa24d3bb365170fc1844e8d4812298811bcd3368a700ec18f8"
+      },
+      "11": {
+        "source_ref": "Ezekiel 35:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 11,
+            "source_ref": "Ezekiel 35:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "33ddae538320367416ffec29012d0a3e450990ffd6d0926a0fcf5bbe25ba017b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "33ddae538320367416ffec29012d0a3e450990ffd6d0926a0fcf5bbe25ba017b"
+      },
+      "12": {
+        "source_ref": "Ezekiel 35:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 12,
+            "source_ref": "Ezekiel 35:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45fe6e15113ded15574f766b5a19caa7220cc6eae683824cf1ea713a822c4982"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45fe6e15113ded15574f766b5a19caa7220cc6eae683824cf1ea713a822c4982"
+      },
+      "13": {
+        "source_ref": "Ezekiel 35:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 13,
+            "source_ref": "Ezekiel 35:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e2817b146ab77ebb09470b3e81d1a459ad70e8acc394e7d1a47206ac80573bc9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2817b146ab77ebb09470b3e81d1a459ad70e8acc394e7d1a47206ac80573bc9"
+      },
+      "14": {
+        "source_ref": "Ezekiel 35:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 14,
+            "source_ref": "Ezekiel 35:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6420e33a0b74e8d689a44cc36c883eecb8814adcb6415e13e52b2dcb10bc529f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6420e33a0b74e8d689a44cc36c883eecb8814adcb6415e13e52b2dcb10bc529f"
+      },
+      "15": {
+        "source_ref": "Ezekiel 35:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 15,
+            "source_ref": "Ezekiel 35:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e4f682e1b0e70e1e14f92d91792d727c976129861331761d79266d44f0a32d53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4f682e1b0e70e1e14f92d91792d727c976129861331761d79266d44f0a32d53"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_35.md",
+    "blob_sha": "0a27ace625b54224270f2a5f8dd170417ea4fc4f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

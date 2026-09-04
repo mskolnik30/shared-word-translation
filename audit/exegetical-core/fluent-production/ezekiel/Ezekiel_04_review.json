@@ -1,0 +1,297 @@
+{
+  "book": "Ezekiel",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "4:1-24:27",
+      "decision": "Translate signs, siege, judgment, temple visions, and sexualized metaphors accurately while marking their harmful rhetorical violence rather than repeating it against women.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 4:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "Ezekiel 4:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d447e318a68a1247f9844a6623294efa1fa138a264121e172ec2bf879485b9cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d447e318a68a1247f9844a6623294efa1fa138a264121e172ec2bf879485b9cf"
+      },
+      "2": {
+        "source_ref": "Ezekiel 4:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "Ezekiel 4:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04087ae5ff59b6dc448b9da5093137a8f9ff3dc4f7ffd52257586cda9fe869da"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04087ae5ff59b6dc448b9da5093137a8f9ff3dc4f7ffd52257586cda9fe869da"
+      },
+      "3": {
+        "source_ref": "Ezekiel 4:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "Ezekiel 4:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "26e48eade837bd62b744adce9defd7303c6543f2b6dee9011cd837df24ae062d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "26e48eade837bd62b744adce9defd7303c6543f2b6dee9011cd837df24ae062d"
+      },
+      "4": {
+        "source_ref": "Ezekiel 4:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "Ezekiel 4:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "923c6ed6b542e9c32f8186516a60346b5ac9b0f2cb93394c080f09368e122b25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "923c6ed6b542e9c32f8186516a60346b5ac9b0f2cb93394c080f09368e122b25"
+      },
+      "5": {
+        "source_ref": "Ezekiel 4:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "Ezekiel 4:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6308aae95a1fe30f321566e030e7a9b8ebf50a7e4ce69885ee5aa6399d65c2ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6308aae95a1fe30f321566e030e7a9b8ebf50a7e4ce69885ee5aa6399d65c2ce"
+      },
+      "6": {
+        "source_ref": "Ezekiel 4:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "Ezekiel 4:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "818119f218c4734557832601dc49a4d1c35fa36075035fafe71a3a18d72e7033"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "818119f218c4734557832601dc49a4d1c35fa36075035fafe71a3a18d72e7033"
+      },
+      "7": {
+        "source_ref": "Ezekiel 4:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "Ezekiel 4:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f70b9038c288aa7f4a74478a50c44c98597216abd12678e914a412b64dc89e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f70b9038c288aa7f4a74478a50c44c98597216abd12678e914a412b64dc89e8"
+      },
+      "8": {
+        "source_ref": "Ezekiel 4:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "Ezekiel 4:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e222ecd4841936490f5847854280752c3976674c311d0b00d874a3c4860dd750"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e222ecd4841936490f5847854280752c3976674c311d0b00d874a3c4860dd750"
+      },
+      "9": {
+        "source_ref": "Ezekiel 4:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "Ezekiel 4:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eac68529a607c73a13a125029f119d8e705363a59f63c117959fde0e267cc2fe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eac68529a607c73a13a125029f119d8e705363a59f63c117959fde0e267cc2fe"
+      },
+      "10": {
+        "source_ref": "Ezekiel 4:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 10,
+            "source_ref": "Ezekiel 4:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e21a36176be158a73b68c037ee71e0730326ee1c75b39c5d098f378c89e3584"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e21a36176be158a73b68c037ee71e0730326ee1c75b39c5d098f378c89e3584"
+      },
+      "11": {
+        "source_ref": "Ezekiel 4:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 11,
+            "source_ref": "Ezekiel 4:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a74df4e35e4a0e72f45bb6fb55faa5e637297cc0b8b2c699286d6d1c8cc1fcca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a74df4e35e4a0e72f45bb6fb55faa5e637297cc0b8b2c699286d6d1c8cc1fcca"
+      },
+      "12": {
+        "source_ref": "Ezekiel 4:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 12,
+            "source_ref": "Ezekiel 4:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe0197d2766de54cd665fc2f3ff8f66c4cc1911bebdfb415643bbefe397d2fc1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe0197d2766de54cd665fc2f3ff8f66c4cc1911bebdfb415643bbefe397d2fc1"
+      },
+      "13": {
+        "source_ref": "Ezekiel 4:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 13,
+            "source_ref": "Ezekiel 4:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "03f02f95bad4e094c95552edc2ff2c9638ded8f3e674f8312b855f48790020cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03f02f95bad4e094c95552edc2ff2c9638ded8f3e674f8312b855f48790020cd"
+      },
+      "14": {
+        "source_ref": "Ezekiel 4:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 14,
+            "source_ref": "Ezekiel 4:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "89d0e4d6986c84a48df3b51a3a0f3d173c41c5f0122f264fc88e76eef57d8636"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89d0e4d6986c84a48df3b51a3a0f3d173c41c5f0122f264fc88e76eef57d8636"
+      },
+      "15": {
+        "source_ref": "Ezekiel 4:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 15,
+            "source_ref": "Ezekiel 4:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "68192a00de0ef9a3bf111569528fd65a106e119be0a236d9183e27e1a849317b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68192a00de0ef9a3bf111569528fd65a106e119be0a236d9183e27e1a849317b"
+      },
+      "16": {
+        "source_ref": "Ezekiel 4:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 16,
+            "source_ref": "Ezekiel 4:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3152eda879d1195bdc4dc6d9a9ff40026eaa9dc390b384856dfd90a99b35c328"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3152eda879d1195bdc4dc6d9a9ff40026eaa9dc390b384856dfd90a99b35c328"
+      },
+      "17": {
+        "source_ref": "Ezekiel 4:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 17,
+            "source_ref": "Ezekiel 4:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4bdfd1163ee2ddcd32399da5d2d09d686be64945ff675b47b7c0430921abd2a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4bdfd1163ee2ddcd32399da5d2d09d686be64945ff675b47b7c0430921abd2a6"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_04.md",
+    "blob_sha": "e69d3ba3d7c26722f019a38b5ffa48d988183581"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

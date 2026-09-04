@@ -1,0 +1,336 @@
+{
+  "book": "Ezekiel",
+  "chapter": 42,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 42:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 1,
+            "source_ref": "Ezekiel 42:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1abad52666e573cde6058415f8480beecdace40e826c2903979418aae6d23043"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1abad52666e573cde6058415f8480beecdace40e826c2903979418aae6d23043"
+      },
+      "2": {
+        "source_ref": "Ezekiel 42:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 2,
+            "source_ref": "Ezekiel 42:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "839f7da80effb50aa496902fa8db289c668591923cfc9847d70f0f12528a2367"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "839f7da80effb50aa496902fa8db289c668591923cfc9847d70f0f12528a2367"
+      },
+      "3": {
+        "source_ref": "Ezekiel 42:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 3,
+            "source_ref": "Ezekiel 42:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "70932155851b2e00b11839418f885b771e5c4ef9748786801d7ea865bafd6953"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70932155851b2e00b11839418f885b771e5c4ef9748786801d7ea865bafd6953"
+      },
+      "4": {
+        "source_ref": "Ezekiel 42:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 4,
+            "source_ref": "Ezekiel 42:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b912ec99efd4379633dd1ac5ceb8555277372e875cd318a3313f981969e21187"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b912ec99efd4379633dd1ac5ceb8555277372e875cd318a3313f981969e21187"
+      },
+      "5": {
+        "source_ref": "Ezekiel 42:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 5,
+            "source_ref": "Ezekiel 42:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "578064f1504e0b94894d2bcc74f60b7c0c61c419d8a04a1bba9536e2594dd05d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "578064f1504e0b94894d2bcc74f60b7c0c61c419d8a04a1bba9536e2594dd05d"
+      },
+      "6": {
+        "source_ref": "Ezekiel 42:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 6,
+            "source_ref": "Ezekiel 42:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "06ba6fd3ba604fecda64d1ac6571e5811cf13997dfb2f4113d57099ee190ad55"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06ba6fd3ba604fecda64d1ac6571e5811cf13997dfb2f4113d57099ee190ad55"
+      },
+      "7": {
+        "source_ref": "Ezekiel 42:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 7,
+            "source_ref": "Ezekiel 42:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "77d8e756c2964b0f43490485d5fec18f607d349feaec97b33318c27761db36d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77d8e756c2964b0f43490485d5fec18f607d349feaec97b33318c27761db36d3"
+      },
+      "8": {
+        "source_ref": "Ezekiel 42:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 8,
+            "source_ref": "Ezekiel 42:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d593905347cf992de8163b061f011c92936790924cdbab529ccaaf4eb844af8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d593905347cf992de8163b061f011c92936790924cdbab529ccaaf4eb844af8"
+      },
+      "9": {
+        "source_ref": "Ezekiel 42:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 9,
+            "source_ref": "Ezekiel 42:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "856d0d25e96653fbdb586767b4a86c136dd85e7104c64d7048c1af7ba1e6e21e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "856d0d25e96653fbdb586767b4a86c136dd85e7104c64d7048c1af7ba1e6e21e"
+      },
+      "10": {
+        "source_ref": "Ezekiel 42:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 10,
+            "source_ref": "Ezekiel 42:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "de0658e0324455fb4c8cb5eceb0ab716eada7d3ddcad107a13b1837c3d21f881"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de0658e0324455fb4c8cb5eceb0ab716eada7d3ddcad107a13b1837c3d21f881"
+      },
+      "11": {
+        "source_ref": "Ezekiel 42:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 11,
+            "source_ref": "Ezekiel 42:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "30f9d779cbdfdd79986f44510aed0369ae67b1295f12d10241cbc6bb31038c51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30f9d779cbdfdd79986f44510aed0369ae67b1295f12d10241cbc6bb31038c51"
+      },
+      "12": {
+        "source_ref": "Ezekiel 42:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 12,
+            "source_ref": "Ezekiel 42:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1c039fc1dffa8ade44e27e7b698b17c93a313efc75977bb4e59563c4a214d20b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1c039fc1dffa8ade44e27e7b698b17c93a313efc75977bb4e59563c4a214d20b"
+      },
+      "13": {
+        "source_ref": "Ezekiel 42:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 13,
+            "source_ref": "Ezekiel 42:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "416a894200a454f15a241da3a9663c5c70bafe6436df31c1cc1493776733f972"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "416a894200a454f15a241da3a9663c5c70bafe6436df31c1cc1493776733f972"
+      },
+      "14": {
+        "source_ref": "Ezekiel 42:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 14,
+            "source_ref": "Ezekiel 42:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df4965aec06ea4d08bd7cd9c8238e0513b96f1a330930c260143846d138204a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df4965aec06ea4d08bd7cd9c8238e0513b96f1a330930c260143846d138204a6"
+      },
+      "15": {
+        "source_ref": "Ezekiel 42:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 15,
+            "source_ref": "Ezekiel 42:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "96a3bb19fd700915662865777d15876aa8f5fe2c9e18dd01eb4d442febcba6d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96a3bb19fd700915662865777d15876aa8f5fe2c9e18dd01eb4d442febcba6d3"
+      },
+      "16": {
+        "source_ref": "Ezekiel 42:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 16,
+            "source_ref": "Ezekiel 42:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ebcfc6006d61f07856833230d381072f8e524cc5b0847f61ff847ca7145728b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ebcfc6006d61f07856833230d381072f8e524cc5b0847f61ff847ca7145728b0"
+      },
+      "17": {
+        "source_ref": "Ezekiel 42:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 17,
+            "source_ref": "Ezekiel 42:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6df6e928c0bbc0eb8b2889ffc92bbb6b4da382f401ffdf911dcfd735890d8a93"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6df6e928c0bbc0eb8b2889ffc92bbb6b4da382f401ffdf911dcfd735890d8a93"
+      },
+      "18": {
+        "source_ref": "Ezekiel 42:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 18,
+            "source_ref": "Ezekiel 42:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62acca68cd09698f7f8861eedec82dfc31809e067444a98402a5aa72d6dab519"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62acca68cd09698f7f8861eedec82dfc31809e067444a98402a5aa72d6dab519"
+      },
+      "19": {
+        "source_ref": "Ezekiel 42:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 19,
+            "source_ref": "Ezekiel 42:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "42508019fbd93b2b1a2884fb45da914191d588549f0f0f583fb3576df49bb096"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42508019fbd93b2b1a2884fb45da914191d588549f0f0f583fb3576df49bb096"
+      },
+      "20": {
+        "source_ref": "Ezekiel 42:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 42,
+            "verse": 20,
+            "source_ref": "Ezekiel 42:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b36a2d19016bea93803167b3cd40c0b9df8fdcd5c66bdaea1d5de4d404c6de7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b36a2d19016bea93803167b3cd40c0b9df8fdcd5c66bdaea1d5de4d404c6de7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_42.md",
+    "blob_sha": "5dd8dd70f0bd1120e6f10be3aeee6b9b14ce6f37"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

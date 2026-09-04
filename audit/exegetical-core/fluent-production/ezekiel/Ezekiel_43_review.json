@@ -1,0 +1,441 @@
+{
+  "book": "Ezekiel",
+  "chapter": 43,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezekiel 43:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 1,
+            "source_ref": "Ezekiel 43:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "23149f2776a830ddeeaa07ae71f3e165b1209fe9acfbe8a095b38e6e8eabdfd1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23149f2776a830ddeeaa07ae71f3e165b1209fe9acfbe8a095b38e6e8eabdfd1"
+      },
+      "2": {
+        "source_ref": "Ezekiel 43:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 2,
+            "source_ref": "Ezekiel 43:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "933113600268d4a6a5b25f6a74a591334b5a94cb189954fdbed74589efbe46ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "933113600268d4a6a5b25f6a74a591334b5a94cb189954fdbed74589efbe46ac"
+      },
+      "3": {
+        "source_ref": "Ezekiel 43:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 3,
+            "source_ref": "Ezekiel 43:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca9303aa7db52059f785864dfe8d590909b4ae80a01f33ea35154e3796168022"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca9303aa7db52059f785864dfe8d590909b4ae80a01f33ea35154e3796168022"
+      },
+      "4": {
+        "source_ref": "Ezekiel 43:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 4,
+            "source_ref": "Ezekiel 43:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a1ae2fe9f03be807f47368085fcf4549ec5730ef2da771fb80ceb7a1fd3d89f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1ae2fe9f03be807f47368085fcf4549ec5730ef2da771fb80ceb7a1fd3d89f2"
+      },
+      "5": {
+        "source_ref": "Ezekiel 43:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 5,
+            "source_ref": "Ezekiel 43:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2189af9dfa343742ecbc5a43afca766e966a8e6eca26d59c7bd2635615879cf2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2189af9dfa343742ecbc5a43afca766e966a8e6eca26d59c7bd2635615879cf2"
+      },
+      "6": {
+        "source_ref": "Ezekiel 43:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 6,
+            "source_ref": "Ezekiel 43:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "056f57c16ea225ed9642b0c2899c7ec8963f5e9c8692d23690a57511cf36f4d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "056f57c16ea225ed9642b0c2899c7ec8963f5e9c8692d23690a57511cf36f4d4"
+      },
+      "7": {
+        "source_ref": "Ezekiel 43:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 7,
+            "source_ref": "Ezekiel 43:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "562a1f38bcaf6a68e54b4aa1e5cff1d8603479d7e21ffb8fb28ad221a900125d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "562a1f38bcaf6a68e54b4aa1e5cff1d8603479d7e21ffb8fb28ad221a900125d"
+      },
+      "8": {
+        "source_ref": "Ezekiel 43:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 8,
+            "source_ref": "Ezekiel 43:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0eedde3c1b38da0f7e84cd31506c6bc34a6deed993e58e2b3155ffd34672ffdf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0eedde3c1b38da0f7e84cd31506c6bc34a6deed993e58e2b3155ffd34672ffdf"
+      },
+      "9": {
+        "source_ref": "Ezekiel 43:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 9,
+            "source_ref": "Ezekiel 43:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1937eec32f8b7491c62870df4981dadf3ecbd284e9e5313937ba100b913c5261"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1937eec32f8b7491c62870df4981dadf3ecbd284e9e5313937ba100b913c5261"
+      },
+      "10": {
+        "source_ref": "Ezekiel 43:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 10,
+            "source_ref": "Ezekiel 43:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf1ef585b6392f09d9424f3b8901afb0f5bef974e125fd5eb2d4fda60e3ee874"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf1ef585b6392f09d9424f3b8901afb0f5bef974e125fd5eb2d4fda60e3ee874"
+      },
+      "11": {
+        "source_ref": "Ezekiel 43:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 11,
+            "source_ref": "Ezekiel 43:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3d5104a4ce4deb45c584f7106da4d383aaa2a2b27f562a1039e4c65cc88fd44c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d5104a4ce4deb45c584f7106da4d383aaa2a2b27f562a1039e4c65cc88fd44c"
+      },
+      "12": {
+        "source_ref": "Ezekiel 43:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 12,
+            "source_ref": "Ezekiel 43:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71e54fa5360388aa261c2f37aee16ae2d0539762e700e057415f90149947856b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71e54fa5360388aa261c2f37aee16ae2d0539762e700e057415f90149947856b"
+      },
+      "13": {
+        "source_ref": "Ezekiel 43:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 13,
+            "source_ref": "Ezekiel 43:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75bebfe4ae78a6474b2157c9ce5d2a2d63b37c671cd024b1426f45300d0c9369"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75bebfe4ae78a6474b2157c9ce5d2a2d63b37c671cd024b1426f45300d0c9369"
+      },
+      "14": {
+        "source_ref": "Ezekiel 43:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 14,
+            "source_ref": "Ezekiel 43:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3074774fd0cd878aaba519f28104f92696bb841c88d192b3022eb62cbe606fde"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3074774fd0cd878aaba519f28104f92696bb841c88d192b3022eb62cbe606fde"
+      },
+      "15": {
+        "source_ref": "Ezekiel 43:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 15,
+            "source_ref": "Ezekiel 43:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1887ad0ed4281164e7e8f964e102571d28ac1a3bdde27bc46fc6c1ec98ef5213"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1887ad0ed4281164e7e8f964e102571d28ac1a3bdde27bc46fc6c1ec98ef5213"
+      },
+      "16": {
+        "source_ref": "Ezekiel 43:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 16,
+            "source_ref": "Ezekiel 43:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd0d734e9047615649bdafd8f53b6d054866194859a69508819477a8f99287e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd0d734e9047615649bdafd8f53b6d054866194859a69508819477a8f99287e4"
+      },
+      "17": {
+        "source_ref": "Ezekiel 43:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 17,
+            "source_ref": "Ezekiel 43:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "61a64e4621a3bff0d5d89b3aea1b0cfc9da5a88fee74c1facadd47f7e675bb9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "61a64e4621a3bff0d5d89b3aea1b0cfc9da5a88fee74c1facadd47f7e675bb9c"
+      },
+      "18": {
+        "source_ref": "Ezekiel 43:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 18,
+            "source_ref": "Ezekiel 43:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4cec61608252c2cde321d3bfbc96b6b13f6868e056446954811ddccd69890e6f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4cec61608252c2cde321d3bfbc96b6b13f6868e056446954811ddccd69890e6f"
+      },
+      "19": {
+        "source_ref": "Ezekiel 43:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 19,
+            "source_ref": "Ezekiel 43:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c18141bb2e893b3a65d1b8a3be420c5090b27d48a5b9468e8a514d0e8cb15ef4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c18141bb2e893b3a65d1b8a3be420c5090b27d48a5b9468e8a514d0e8cb15ef4"
+      },
+      "20": {
+        "source_ref": "Ezekiel 43:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 20,
+            "source_ref": "Ezekiel 43:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3095889893e40adf14bd36a69f6cbfaace04bd90c6dfbbc8e4e1901e836439ee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3095889893e40adf14bd36a69f6cbfaace04bd90c6dfbbc8e4e1901e836439ee"
+      },
+      "21": {
+        "source_ref": "Ezekiel 43:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 21,
+            "source_ref": "Ezekiel 43:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fec6b7ca69f87b8130bc9a690d3070a7ae26e85ad2480c605b2b68063380c388"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fec6b7ca69f87b8130bc9a690d3070a7ae26e85ad2480c605b2b68063380c388"
+      },
+      "22": {
+        "source_ref": "Ezekiel 43:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 22,
+            "source_ref": "Ezekiel 43:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f4f0bf1f0c14fed58018de1875ea7df813e13088226a11f7dea43f22b770b03f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4f0bf1f0c14fed58018de1875ea7df813e13088226a11f7dea43f22b770b03f"
+      },
+      "23": {
+        "source_ref": "Ezekiel 43:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 23,
+            "source_ref": "Ezekiel 43:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6b3fff38ebc5b35fb034643639e28db938bd1631501ff9ea457af1d2b8e420a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b3fff38ebc5b35fb034643639e28db938bd1631501ff9ea457af1d2b8e420a4"
+      },
+      "24": {
+        "source_ref": "Ezekiel 43:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 24,
+            "source_ref": "Ezekiel 43:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3ac70eafe7cccdbf4a4b05e27193f51144c8aadf9aa85762b404f46a06bb921"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3ac70eafe7cccdbf4a4b05e27193f51144c8aadf9aa85762b404f46a06bb921"
+      },
+      "25": {
+        "source_ref": "Ezekiel 43:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 25,
+            "source_ref": "Ezekiel 43:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aa00b79bc73bf41a9ca88f6f76260cc492d9695c75887b32b3455835d1ad2790"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa00b79bc73bf41a9ca88f6f76260cc492d9695c75887b32b3455835d1ad2790"
+      },
+      "26": {
+        "source_ref": "Ezekiel 43:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 26,
+            "source_ref": "Ezekiel 43:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6315aa132716ffa9b2ffe22e0a2edce08975b4dc34bb575e0bb38dfb6add79cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6315aa132716ffa9b2ffe22e0a2edce08975b4dc34bb575e0bb38dfb6add79cf"
+      },
+      "27": {
+        "source_ref": "Ezekiel 43:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 27,
+            "source_ref": "Ezekiel 43:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f16407d54b62211a25562d90f6a092348003ee59f3079c57eb005de3d0eeef4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f16407d54b62211a25562d90f6a092348003ee59f3079c57eb005de3d0eeef4"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezekiel/Ezekiel_43.md",
+    "blob_sha": "e202bd606733483226c43ba27a8cddb150f0d486"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

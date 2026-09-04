@@ -1,0 +1,252 @@
+{
+  "book": "Ezekiel",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 48,
+  "public_verse_slots": 1273,
+  "included_verse_labels": 1273,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 1273,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezek.xml",
+    "git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-3:27",
+      "decision": "Preserve the mobile throne vision, embodied call, scroll, responsibility, and constrained speech.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:1-24:27",
+      "decision": "Translate signs, siege, judgment, temple visions, and sexualized metaphors accurately while marking their harmful rhetorical violence rather than repeating it against women.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "25:1-32:32",
+      "decision": "Keep oracles against nations, trade empires, pride, lament, and descent imagery historically situated.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "33:1-39:29",
+      "decision": "Preserve individual responsibility, failed shepherds, new heart, dry bones, reunification, Gog, and restored presence.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "40:1-48:35",
+      "decision": "Keep measured temple, worship, land, water, boundaries, equitable inheritance, and the closing divine presence together.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "f9e639ba921b268ef473c2298fe3a76fa6784b2e",
+    "source_binding_count": 1273,
+    "unique_source_record_count": 1273,
+    "public_verse_slots": 1273,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 1273
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/ezekiel/Ezekiel_01.md",
+        "blob_sha": "feecd2aa0f2f4f1b1eb041ab8892db709f44c297"
+      },
+      "02": {
+        "path": "books/OT/ezekiel/Ezekiel_02.md",
+        "blob_sha": "c05aa00620fc7026d312fb89bc3d2ff39f1146c1"
+      },
+      "03": {
+        "path": "books/OT/ezekiel/Ezekiel_03.md",
+        "blob_sha": "e3da448dc5547037c426a29c383e529ef616a344"
+      },
+      "04": {
+        "path": "books/OT/ezekiel/Ezekiel_04.md",
+        "blob_sha": "e69d3ba3d7c26722f019a38b5ffa48d988183581"
+      },
+      "05": {
+        "path": "books/OT/ezekiel/Ezekiel_05.md",
+        "blob_sha": "b09a58602770076f7cf7604bd92378b3a9170701"
+      },
+      "06": {
+        "path": "books/OT/ezekiel/Ezekiel_06.md",
+        "blob_sha": "9047db178a3393cd8e3869dfc1f81ac790a5e45b"
+      },
+      "07": {
+        "path": "books/OT/ezekiel/Ezekiel_07.md",
+        "blob_sha": "3015d2f90f3b2fbb2f6acb8e5ef4d8ae903b8c41"
+      },
+      "08": {
+        "path": "books/OT/ezekiel/Ezekiel_08.md",
+        "blob_sha": "40fa7da3d3030f5c78c41d00d4c650235d99c5e3"
+      },
+      "09": {
+        "path": "books/OT/ezekiel/Ezekiel_09.md",
+        "blob_sha": "0c19474309a9d36826b5f439c2312a2e843143e7"
+      },
+      "10": {
+        "path": "books/OT/ezekiel/Ezekiel_10.md",
+        "blob_sha": "904ccc00dc1f689c27d79db5e23912fa0c447941"
+      },
+      "11": {
+        "path": "books/OT/ezekiel/Ezekiel_11.md",
+        "blob_sha": "0466b4dfb612d3f1840bffcc8c961ebb146ce8ab"
+      },
+      "12": {
+        "path": "books/OT/ezekiel/Ezekiel_12.md",
+        "blob_sha": "11e5ec5d13dd1c981ea84dc307739e24ed6dd19e"
+      },
+      "13": {
+        "path": "books/OT/ezekiel/Ezekiel_13.md",
+        "blob_sha": "5d7ea9e40fee7221dc6e1613e1691a799deed90c"
+      },
+      "14": {
+        "path": "books/OT/ezekiel/Ezekiel_14.md",
+        "blob_sha": "db3d9fab9475371388e5de251f3899dc07ab883b"
+      },
+      "15": {
+        "path": "books/OT/ezekiel/Ezekiel_15.md",
+        "blob_sha": "d1d5c55c6c83c7871afd887c1dee468a793b489c"
+      },
+      "16": {
+        "path": "books/OT/ezekiel/Ezekiel_16.md",
+        "blob_sha": "f3545346e851964ae8739ff03559328180363985"
+      },
+      "17": {
+        "path": "books/OT/ezekiel/Ezekiel_17.md",
+        "blob_sha": "02b0a78cbff9e37077fcc420cdcbcda45677f8b6"
+      },
+      "18": {
+        "path": "books/OT/ezekiel/Ezekiel_18.md",
+        "blob_sha": "1b015ce6fea9fcf209fa070ef76c42e2881da821"
+      },
+      "19": {
+        "path": "books/OT/ezekiel/Ezekiel_19.md",
+        "blob_sha": "6fa51389f3cf9f3c61ca62e5fd8dfbe6f6345599"
+      },
+      "20": {
+        "path": "books/OT/ezekiel/Ezekiel_20.md",
+        "blob_sha": "e893fb7353e04863a1edcf00a383700b5cfe6ac1"
+      },
+      "21": {
+        "path": "books/OT/ezekiel/Ezekiel_21.md",
+        "blob_sha": "1a7631afe3a5e18df1e18c01d56a3272452a4d11"
+      },
+      "22": {
+        "path": "books/OT/ezekiel/Ezekiel_22.md",
+        "blob_sha": "52024201c1e70c4881d07d9c8f4b4017fffde1b3"
+      },
+      "23": {
+        "path": "books/OT/ezekiel/Ezekiel_23.md",
+        "blob_sha": "54a91d2a818de51c01a2b8c4d6105ff05766c1f6"
+      },
+      "24": {
+        "path": "books/OT/ezekiel/Ezekiel_24.md",
+        "blob_sha": "0a48f362ac0b6353e7313c823e8495973aa8643e"
+      },
+      "25": {
+        "path": "books/OT/ezekiel/Ezekiel_25.md",
+        "blob_sha": "6af8556bc0b5292b2275c54587f02b22018eaa85"
+      },
+      "26": {
+        "path": "books/OT/ezekiel/Ezekiel_26.md",
+        "blob_sha": "86df2db67c4786810560c942791c779882c94b44"
+      },
+      "27": {
+        "path": "books/OT/ezekiel/Ezekiel_27.md",
+        "blob_sha": "50f2171bb421adc54e8c5ea27c9388d1c9f7233b"
+      },
+      "28": {
+        "path": "books/OT/ezekiel/Ezekiel_28.md",
+        "blob_sha": "2f23d43a67dc681e383aebf3babb2bca32a45959"
+      },
+      "29": {
+        "path": "books/OT/ezekiel/Ezekiel_29.md",
+        "blob_sha": "4c68caed96d050b55ba2bd1f4e2a26b455be8966"
+      },
+      "30": {
+        "path": "books/OT/ezekiel/Ezekiel_30.md",
+        "blob_sha": "6b775160e0dd616b280d5909b24d5bccf059e8ae"
+      },
+      "31": {
+        "path": "books/OT/ezekiel/Ezekiel_31.md",
+        "blob_sha": "eaff00a76e0bcd73997798ff0eca4ae111496580"
+      },
+      "32": {
+        "path": "books/OT/ezekiel/Ezekiel_32.md",
+        "blob_sha": "03c1ea0363c3e42a84303cf59eba2617c1b4112e"
+      },
+      "33": {
+        "path": "books/OT/ezekiel/Ezekiel_33.md",
+        "blob_sha": "e357792262a0609f5454e312c609876748a4127f"
+      },
+      "34": {
+        "path": "books/OT/ezekiel/Ezekiel_34.md",
+        "blob_sha": "6b1dc4bfbafbb46511787cd65f8150e731b72270"
+      },
+      "35": {
+        "path": "books/OT/ezekiel/Ezekiel_35.md",
+        "blob_sha": "0a27ace625b54224270f2a5f8dd170417ea4fc4f"
+      },
+      "36": {
+        "path": "books/OT/ezekiel/Ezekiel_36.md",
+        "blob_sha": "33a1496e501700bac7ebc188a89163f007690ab4"
+      },
+      "37": {
+        "path": "books/OT/ezekiel/Ezekiel_37.md",
+        "blob_sha": "344c5200259c3a36a013564df6b6eeb37e78f64c"
+      },
+      "38": {
+        "path": "books/OT/ezekiel/Ezekiel_38.md",
+        "blob_sha": "6ec631dc31f06082e2c52f44e8922c85c694d70b"
+      },
+      "39": {
+        "path": "books/OT/ezekiel/Ezekiel_39.md",
+        "blob_sha": "3878e22f024cd24cc83931676d616a0b122117bd"
+      },
+      "40": {
+        "path": "books/OT/ezekiel/Ezekiel_40.md",
+        "blob_sha": "4ef327cb7311f663a9f19f8f588c6b63f0012cc2"
+      },
+      "41": {
+        "path": "books/OT/ezekiel/Ezekiel_41.md",
+        "blob_sha": "1c1ce787dc46aca0be68deba0f89166b9d09a3b1"
+      },
+      "42": {
+        "path": "books/OT/ezekiel/Ezekiel_42.md",
+        "blob_sha": "5dd8dd70f0bd1120e6f10be3aeee6b9b14ce6f37"
+      },
+      "43": {
+        "path": "books/OT/ezekiel/Ezekiel_43.md",
+        "blob_sha": "e202bd606733483226c43ba27a8cddb150f0d486"
+      },
+      "44": {
+        "path": "books/OT/ezekiel/Ezekiel_44.md",
+        "blob_sha": "7e3f014ffe37b86d3fb17dcd254415fd940433a3"
+      },
+      "45": {
+        "path": "books/OT/ezekiel/Ezekiel_45.md",
+        "blob_sha": "a27b25b69a7e4c7692fd42803d869ed1368949af"
+      },
+      "46": {
+        "path": "books/OT/ezekiel/Ezekiel_46.md",
+        "blob_sha": "7ab4678b15b4e8bac10c652b9eda04a01b30a319"
+      },
+      "47": {
+        "path": "books/OT/ezekiel/Ezekiel_47.md",
+        "blob_sha": "13c8fdc2668bc0d31a3de9fde02979088359951f"
+      },
+      "48": {
+        "path": "books/OT/ezekiel/Ezekiel_48.md",
+        "blob_sha": "72427b4535184d47a41eb41eea7bdc8e00cc70ca"
+      }
+    }
+  }
+}
