@@ -1,0 +1,342 @@
+{
+  "book": "Nehemiah",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "2:1-20",
+      "decision": "Keep imperial authorization, local resistance, community organization, and Nehemiah's confidence distinct.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Nehemiah 2:1",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Nehemiah 2:1",
+            "segment_mode": "whole",
+            "sha256": "eeead5cbc99bfb26d829974081d6658b036491efbc99e11ef1a04930f1d1214e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eeead5cbc99bfb26d829974081d6658b036491efbc99e11ef1a04930f1d1214e"
+      },
+      "2": {
+        "source_ref": "Nehemiah 2:2",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Nehemiah 2:2",
+            "segment_mode": "whole",
+            "sha256": "43369a68f9fd612bca5a369114c436f15d48ff228268968a56584576923fb93c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "43369a68f9fd612bca5a369114c436f15d48ff228268968a56584576923fb93c"
+      },
+      "3": {
+        "source_ref": "Nehemiah 2:3",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Nehemiah 2:3",
+            "segment_mode": "whole",
+            "sha256": "6fe611bc1b58bf522b52dd5fb431c64ed214b300895aef98835eb03187546450"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6fe611bc1b58bf522b52dd5fb431c64ed214b300895aef98835eb03187546450"
+      },
+      "4": {
+        "source_ref": "Nehemiah 2:4",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Nehemiah 2:4",
+            "segment_mode": "whole",
+            "sha256": "d2b03901201e9747fef313faf32a369f13604d9b79440fa21b1c766a722b8c7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2b03901201e9747fef313faf32a369f13604d9b79440fa21b1c766a722b8c7f"
+      },
+      "5": {
+        "source_ref": "Nehemiah 2:5",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "Nehemiah 2:5",
+            "segment_mode": "whole",
+            "sha256": "5cfeccaaf270f3479b2473001c3733805bd6ef701b079820f412c466a2aba1b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5cfeccaaf270f3479b2473001c3733805bd6ef701b079820f412c466a2aba1b5"
+      },
+      "6": {
+        "source_ref": "Nehemiah 2:6",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "Nehemiah 2:6",
+            "segment_mode": "whole",
+            "sha256": "2b2c7138bc503d1686ec1c85b98a3689debcda932627733aedeb61e349e90eac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b2c7138bc503d1686ec1c85b98a3689debcda932627733aedeb61e349e90eac"
+      },
+      "7": {
+        "source_ref": "Nehemiah 2:7",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "Nehemiah 2:7",
+            "segment_mode": "whole",
+            "sha256": "cff4b727e3911d2cee24330fb14e838ad6bb469ec648a35f0bb6a621be58a556"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cff4b727e3911d2cee24330fb14e838ad6bb469ec648a35f0bb6a621be58a556"
+      },
+      "8": {
+        "source_ref": "Nehemiah 2:8",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "Nehemiah 2:8",
+            "segment_mode": "whole",
+            "sha256": "32c98765e9cff34656aa92b822cb63c91fa3cda3e27e2f90779bd30f58d43ccd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32c98765e9cff34656aa92b822cb63c91fa3cda3e27e2f90779bd30f58d43ccd"
+      },
+      "9": {
+        "source_ref": "Nehemiah 2:9",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "Nehemiah 2:9",
+            "segment_mode": "whole",
+            "sha256": "226c3752853d3d75d5b478ad44eed611decf923083ac3cb8bc7be93acc0ce266"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "226c3752853d3d75d5b478ad44eed611decf923083ac3cb8bc7be93acc0ce266"
+      },
+      "10": {
+        "source_ref": "Nehemiah 2:10",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "Nehemiah 2:10",
+            "segment_mode": "whole",
+            "sha256": "d24f509603ce3091002961311660f3600597623076b78e347be5ad76ea2383ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d24f509603ce3091002961311660f3600597623076b78e347be5ad76ea2383ed"
+      },
+      "11": {
+        "source_ref": "Nehemiah 2:11",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "Nehemiah 2:11",
+            "segment_mode": "whole",
+            "sha256": "66b8a6082c1ca52eb4275eb5c4c2dacc9ae7745565d1cef899234f19521c572b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "66b8a6082c1ca52eb4275eb5c4c2dacc9ae7745565d1cef899234f19521c572b"
+      },
+      "12": {
+        "source_ref": "Nehemiah 2:12",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "Nehemiah 2:12",
+            "segment_mode": "whole",
+            "sha256": "d975e732736a199f7c816978a18b022e53ca34c96e691aef8d847ba18e6e4829"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d975e732736a199f7c816978a18b022e53ca34c96e691aef8d847ba18e6e4829"
+      },
+      "13": {
+        "source_ref": "Nehemiah 2:13",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "Nehemiah 2:13",
+            "segment_mode": "whole",
+            "sha256": "5eb1cbf8017a039fbb8f40bea72d9cbca53380fda638564e65743f031deda8ae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5eb1cbf8017a039fbb8f40bea72d9cbca53380fda638564e65743f031deda8ae"
+      },
+      "14": {
+        "source_ref": "Nehemiah 2:14",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "Nehemiah 2:14",
+            "segment_mode": "whole",
+            "sha256": "0a3acfef8d392fdcbf32c6cd696f0811183c1c6a2a11c66ac193008f3d688251"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a3acfef8d392fdcbf32c6cd696f0811183c1c6a2a11c66ac193008f3d688251"
+      },
+      "15": {
+        "source_ref": "Nehemiah 2:15",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "Nehemiah 2:15",
+            "segment_mode": "whole",
+            "sha256": "aabd6f8f800c9c14e7ebddd1c2f57df9c2470df999d9d38ced69fd61c7452410"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aabd6f8f800c9c14e7ebddd1c2f57df9c2470df999d9d38ced69fd61c7452410"
+      },
+      "16": {
+        "source_ref": "Nehemiah 2:16",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 16,
+            "source_ref": "Nehemiah 2:16",
+            "segment_mode": "whole",
+            "sha256": "1ede883ba532ab303a8b3a53dc394abbca3bc581bf5986679dac5833826c8095"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ede883ba532ab303a8b3a53dc394abbca3bc581bf5986679dac5833826c8095"
+      },
+      "17": {
+        "source_ref": "Nehemiah 2:17",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 17,
+            "source_ref": "Nehemiah 2:17",
+            "segment_mode": "whole",
+            "sha256": "23fd75979241803e474ba76f211d80338760f041dab5d508d6a2cf0e34c299c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23fd75979241803e474ba76f211d80338760f041dab5d508d6a2cf0e34c299c8"
+      },
+      "18": {
+        "source_ref": "Nehemiah 2:18",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 18,
+            "source_ref": "Nehemiah 2:18",
+            "segment_mode": "whole",
+            "sha256": "59b8439d5d19da7819927e4b70f2d750dc42b3f3db01d366bb57fc402e0cb3bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59b8439d5d19da7819927e4b70f2d750dc42b3f3db01d366bb57fc402e0cb3bf"
+      },
+      "19": {
+        "source_ref": "Nehemiah 2:19",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 19,
+            "source_ref": "Nehemiah 2:19",
+            "segment_mode": "whole",
+            "sha256": "c18027891b3418c412734eb91c649fff72e8074abc211a20b5b1ec9585a58ce8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c18027891b3418c412734eb91c649fff72e8074abc211a20b5b1ec9585a58ce8"
+      },
+      "20": {
+        "source_ref": "Nehemiah 2:20",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 20,
+            "source_ref": "Nehemiah 2:20",
+            "segment_mode": "whole",
+            "sha256": "186de6af9d4db93889ee4891acfd4ba4276c37a931112a45ab31ea42bd6d89af"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "186de6af9d4db93889ee4891acfd4ba4276c37a931112a45ab31ea42bd6d89af"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/nehemiah/Nehemiah_02.md",
+    "blob_sha": "d842c4f843bcd18142cdb26316d3d270ea6a53ab"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

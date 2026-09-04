@@ -1,0 +1,1122 @@
+{
+  "book": "Nehemiah",
+  "chapter": 7,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    69,
+    70,
+    71,
+    72,
+    73
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "7:68",
+      "decision": "Document that public Nehemiah 7:68 is absent from the pinned Masoretic Hebrew source and therefore omitted from the Fluent main text.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Nehemiah 7:1",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 1,
+            "source_ref": "Nehemiah 7:1",
+            "segment_mode": "whole",
+            "sha256": "8adbdabf953aa08a1ef2ee82624e2364800fa642fd0115f06a92ec6004b6433e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8adbdabf953aa08a1ef2ee82624e2364800fa642fd0115f06a92ec6004b6433e"
+      },
+      "2": {
+        "source_ref": "Nehemiah 7:2",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 2,
+            "source_ref": "Nehemiah 7:2",
+            "segment_mode": "whole",
+            "sha256": "1727272bec89eaa75985e4dfdc2fd8e936f866a0c3c5eee1f6e7902c78b77a1d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1727272bec89eaa75985e4dfdc2fd8e936f866a0c3c5eee1f6e7902c78b77a1d"
+      },
+      "3": {
+        "source_ref": "Nehemiah 7:3",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 3,
+            "source_ref": "Nehemiah 7:3",
+            "segment_mode": "whole",
+            "sha256": "7cfe9c54bab8cf9a9c9cb2cb5c874a1dc785378dbf7dc1afbe18881349e7eb8d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7cfe9c54bab8cf9a9c9cb2cb5c874a1dc785378dbf7dc1afbe18881349e7eb8d"
+      },
+      "4": {
+        "source_ref": "Nehemiah 7:4",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 4,
+            "source_ref": "Nehemiah 7:4",
+            "segment_mode": "whole",
+            "sha256": "cf1065856044257a9a69aa02d3070b0608172fb720f385566355ed9bbf4ad07b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cf1065856044257a9a69aa02d3070b0608172fb720f385566355ed9bbf4ad07b"
+      },
+      "5": {
+        "source_ref": "Nehemiah 7:5",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 5,
+            "source_ref": "Nehemiah 7:5",
+            "segment_mode": "whole",
+            "sha256": "1377e45c15aab352e4b4cd394e2a5a436081b3c6683501a9e2a07415a623ba12"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1377e45c15aab352e4b4cd394e2a5a436081b3c6683501a9e2a07415a623ba12"
+      },
+      "6": {
+        "source_ref": "Nehemiah 7:6",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 6,
+            "source_ref": "Nehemiah 7:6",
+            "segment_mode": "whole",
+            "sha256": "3656dfa010c7ddb0bf095137eec63aca585337e075c3ca414549dda7b76f1ec1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3656dfa010c7ddb0bf095137eec63aca585337e075c3ca414549dda7b76f1ec1"
+      },
+      "7": {
+        "source_ref": "Nehemiah 7:7",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 7,
+            "source_ref": "Nehemiah 7:7",
+            "segment_mode": "whole",
+            "sha256": "d56f57db5ff8b5f33d0a750139602c5a9a62558354fd89228b6156a01c257884"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d56f57db5ff8b5f33d0a750139602c5a9a62558354fd89228b6156a01c257884"
+      },
+      "8": {
+        "source_ref": "Nehemiah 7:8",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 8,
+            "source_ref": "Nehemiah 7:8",
+            "segment_mode": "whole",
+            "sha256": "cced7eae8f0146722eb5617b5d6a39e4f05d0dd327af504503c7eeacde9d8e56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cced7eae8f0146722eb5617b5d6a39e4f05d0dd327af504503c7eeacde9d8e56"
+      },
+      "9": {
+        "source_ref": "Nehemiah 7:9",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 9,
+            "source_ref": "Nehemiah 7:9",
+            "segment_mode": "whole",
+            "sha256": "433a3928f6fc90af470d4f0d8fac3852d03856d8299ea01df2a435959a25a893"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "433a3928f6fc90af470d4f0d8fac3852d03856d8299ea01df2a435959a25a893"
+      },
+      "10": {
+        "source_ref": "Nehemiah 7:10",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 10,
+            "source_ref": "Nehemiah 7:10",
+            "segment_mode": "whole",
+            "sha256": "b871e1c72362b74f78b4d9b7f7957a28f0f88166cd6fde0cb2fbe531379b884e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b871e1c72362b74f78b4d9b7f7957a28f0f88166cd6fde0cb2fbe531379b884e"
+      },
+      "11": {
+        "source_ref": "Nehemiah 7:11",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 11,
+            "source_ref": "Nehemiah 7:11",
+            "segment_mode": "whole",
+            "sha256": "f5163519b8a91f15836ce9cb07f99643b9e77033c1532ff30b7893bd28fcd8ae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5163519b8a91f15836ce9cb07f99643b9e77033c1532ff30b7893bd28fcd8ae"
+      },
+      "12": {
+        "source_ref": "Nehemiah 7:12",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 12,
+            "source_ref": "Nehemiah 7:12",
+            "segment_mode": "whole",
+            "sha256": "5c13a51affad9777ab2edb03e0505ebef8a6869aa4f3512086772e75c85a787c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c13a51affad9777ab2edb03e0505ebef8a6869aa4f3512086772e75c85a787c"
+      },
+      "13": {
+        "source_ref": "Nehemiah 7:13",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 13,
+            "source_ref": "Nehemiah 7:13",
+            "segment_mode": "whole",
+            "sha256": "195df2e2872e12e23ef42f955832c1215b210f24e4f8ab02c07126e04bc855b8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "195df2e2872e12e23ef42f955832c1215b210f24e4f8ab02c07126e04bc855b8"
+      },
+      "14": {
+        "source_ref": "Nehemiah 7:14",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 14,
+            "source_ref": "Nehemiah 7:14",
+            "segment_mode": "whole",
+            "sha256": "8d872a03b84d6ca01b780718bef25226a42caf46b3faf81eb366870e23df29e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d872a03b84d6ca01b780718bef25226a42caf46b3faf81eb366870e23df29e4"
+      },
+      "15": {
+        "source_ref": "Nehemiah 7:15",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 15,
+            "source_ref": "Nehemiah 7:15",
+            "segment_mode": "whole",
+            "sha256": "5f8c0c2001ebc8a4256d781a8422ab5e738fcdb28c4874c4fd5b59013cfef6ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f8c0c2001ebc8a4256d781a8422ab5e738fcdb28c4874c4fd5b59013cfef6ea"
+      },
+      "16": {
+        "source_ref": "Nehemiah 7:16",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 16,
+            "source_ref": "Nehemiah 7:16",
+            "segment_mode": "whole",
+            "sha256": "16c13df758e14ea55619813f18e872a87885c07bd56f0995d6d79210b9041646"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16c13df758e14ea55619813f18e872a87885c07bd56f0995d6d79210b9041646"
+      },
+      "17": {
+        "source_ref": "Nehemiah 7:17",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 17,
+            "source_ref": "Nehemiah 7:17",
+            "segment_mode": "whole",
+            "sha256": "8ad789e1da20e5e8e62d8110d29e81afefbbf207d971d08239e66fdac836cbe3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ad789e1da20e5e8e62d8110d29e81afefbbf207d971d08239e66fdac836cbe3"
+      },
+      "18": {
+        "source_ref": "Nehemiah 7:18",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 18,
+            "source_ref": "Nehemiah 7:18",
+            "segment_mode": "whole",
+            "sha256": "856f947d2bbf7a93d7eefbdeb57cef8618132036da2688ad35442fc3aaa42fe6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "856f947d2bbf7a93d7eefbdeb57cef8618132036da2688ad35442fc3aaa42fe6"
+      },
+      "19": {
+        "source_ref": "Nehemiah 7:19",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 19,
+            "source_ref": "Nehemiah 7:19",
+            "segment_mode": "whole",
+            "sha256": "68a64900eae376114781cef3115418dba132a25c083ad87f901ef4504782be8f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68a64900eae376114781cef3115418dba132a25c083ad87f901ef4504782be8f"
+      },
+      "20": {
+        "source_ref": "Nehemiah 7:20",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 20,
+            "source_ref": "Nehemiah 7:20",
+            "segment_mode": "whole",
+            "sha256": "c35ec6c9e0dfbb6703f58ddb507f81267e022375bfd62664e2c3d1b87d3000a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c35ec6c9e0dfbb6703f58ddb507f81267e022375bfd62664e2c3d1b87d3000a8"
+      },
+      "21": {
+        "source_ref": "Nehemiah 7:21",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 21,
+            "source_ref": "Nehemiah 7:21",
+            "segment_mode": "whole",
+            "sha256": "aae73d01280b19aaeac7c022734ebe86ddc5476e768cc21278e5cc57a16d56f2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aae73d01280b19aaeac7c022734ebe86ddc5476e768cc21278e5cc57a16d56f2"
+      },
+      "22": {
+        "source_ref": "Nehemiah 7:22",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 22,
+            "source_ref": "Nehemiah 7:22",
+            "segment_mode": "whole",
+            "sha256": "3067c17ade5e08b6261ebe60bc7ed4ac658b33f47d9b73917789d8bd32370f15"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3067c17ade5e08b6261ebe60bc7ed4ac658b33f47d9b73917789d8bd32370f15"
+      },
+      "23": {
+        "source_ref": "Nehemiah 7:23",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 23,
+            "source_ref": "Nehemiah 7:23",
+            "segment_mode": "whole",
+            "sha256": "53637d356d622fce27fbf9efa0678f9de185c8762c423f0a0718fcd3136cd43e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "53637d356d622fce27fbf9efa0678f9de185c8762c423f0a0718fcd3136cd43e"
+      },
+      "24": {
+        "source_ref": "Nehemiah 7:24",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 24,
+            "source_ref": "Nehemiah 7:24",
+            "segment_mode": "whole",
+            "sha256": "0560f9e12258c0557f2439625cda1b2814822912bfd9d2f2cc53a63fe771d711"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0560f9e12258c0557f2439625cda1b2814822912bfd9d2f2cc53a63fe771d711"
+      },
+      "25": {
+        "source_ref": "Nehemiah 7:25",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 25,
+            "source_ref": "Nehemiah 7:25",
+            "segment_mode": "whole",
+            "sha256": "6eb72d4b9e29ca805cca620a16c94dc1c4925f7d3b0b6396d6ea5bd03f7a0b45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6eb72d4b9e29ca805cca620a16c94dc1c4925f7d3b0b6396d6ea5bd03f7a0b45"
+      },
+      "26": {
+        "source_ref": "Nehemiah 7:26",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 26,
+            "source_ref": "Nehemiah 7:26",
+            "segment_mode": "whole",
+            "sha256": "dd7dc1e44372183206e7560cda1250b0cba2adec38e0ceb925c18bdbc14f458d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd7dc1e44372183206e7560cda1250b0cba2adec38e0ceb925c18bdbc14f458d"
+      },
+      "27": {
+        "source_ref": "Nehemiah 7:27",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 27,
+            "source_ref": "Nehemiah 7:27",
+            "segment_mode": "whole",
+            "sha256": "2eae2ecf65e4f541ad75f7408359ad79de755d9deb6229d7d2711354fd8bebcc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2eae2ecf65e4f541ad75f7408359ad79de755d9deb6229d7d2711354fd8bebcc"
+      },
+      "28": {
+        "source_ref": "Nehemiah 7:28",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 28,
+            "source_ref": "Nehemiah 7:28",
+            "segment_mode": "whole",
+            "sha256": "d7924ae2cc756d1e411e0b583aa1c4e09a8744f1572d26df73aa08464360a87b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7924ae2cc756d1e411e0b583aa1c4e09a8744f1572d26df73aa08464360a87b"
+      },
+      "29": {
+        "source_ref": "Nehemiah 7:29",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 29,
+            "source_ref": "Nehemiah 7:29",
+            "segment_mode": "whole",
+            "sha256": "0ec9d643c67f82c95f24ca1f70845bf779b7f5f4c4ad63e650e2b2d3c38b6b3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ec9d643c67f82c95f24ca1f70845bf779b7f5f4c4ad63e650e2b2d3c38b6b3a"
+      },
+      "30": {
+        "source_ref": "Nehemiah 7:30",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 30,
+            "source_ref": "Nehemiah 7:30",
+            "segment_mode": "whole",
+            "sha256": "f6acee4e8b72e0af5d767680e3ffc1674efec2d9bccc8cae97bcd0ce8d0ca395"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f6acee4e8b72e0af5d767680e3ffc1674efec2d9bccc8cae97bcd0ce8d0ca395"
+      },
+      "31": {
+        "source_ref": "Nehemiah 7:31",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 31,
+            "source_ref": "Nehemiah 7:31",
+            "segment_mode": "whole",
+            "sha256": "e01e7d16e6ca948f415b2abcc3dccd0f75f0226a798642f2faa28ef097e48817"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e01e7d16e6ca948f415b2abcc3dccd0f75f0226a798642f2faa28ef097e48817"
+      },
+      "32": {
+        "source_ref": "Nehemiah 7:32",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 32,
+            "source_ref": "Nehemiah 7:32",
+            "segment_mode": "whole",
+            "sha256": "42c459799ad19962edca76f482e11f47b4f0a137de7da33108c4725976910c57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42c459799ad19962edca76f482e11f47b4f0a137de7da33108c4725976910c57"
+      },
+      "33": {
+        "source_ref": "Nehemiah 7:33",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 33,
+            "source_ref": "Nehemiah 7:33",
+            "segment_mode": "whole",
+            "sha256": "433213f7b5e4c37fc94e88c2eda3c32ba2f5efd777ccfdd0db43905092432ece"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "433213f7b5e4c37fc94e88c2eda3c32ba2f5efd777ccfdd0db43905092432ece"
+      },
+      "34": {
+        "source_ref": "Nehemiah 7:34",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 34,
+            "source_ref": "Nehemiah 7:34",
+            "segment_mode": "whole",
+            "sha256": "34eb71209e1f5ae950385a7a7211524af496486e0abb0817f18c50fc5bb425df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34eb71209e1f5ae950385a7a7211524af496486e0abb0817f18c50fc5bb425df"
+      },
+      "35": {
+        "source_ref": "Nehemiah 7:35",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 35,
+            "source_ref": "Nehemiah 7:35",
+            "segment_mode": "whole",
+            "sha256": "93d17ef1137cccd34948e9e92afc1cf4db2b16b6283a33199c6d18f777907ffd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93d17ef1137cccd34948e9e92afc1cf4db2b16b6283a33199c6d18f777907ffd"
+      },
+      "36": {
+        "source_ref": "Nehemiah 7:36",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 36,
+            "source_ref": "Nehemiah 7:36",
+            "segment_mode": "whole",
+            "sha256": "5ffeb2074e6e00c1ae217b8e49fb40893955842930daf440fb479dece568161c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ffeb2074e6e00c1ae217b8e49fb40893955842930daf440fb479dece568161c"
+      },
+      "37": {
+        "source_ref": "Nehemiah 7:37",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 37,
+            "source_ref": "Nehemiah 7:37",
+            "segment_mode": "whole",
+            "sha256": "8eddb053ee11496c287e0d725e42482acc6c4a6f001653fc77d449bdb1acea3d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8eddb053ee11496c287e0d725e42482acc6c4a6f001653fc77d449bdb1acea3d"
+      },
+      "38": {
+        "source_ref": "Nehemiah 7:38",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 38,
+            "source_ref": "Nehemiah 7:38",
+            "segment_mode": "whole",
+            "sha256": "7a78f4a507768f6a2a425a2df6e94f247afd27b783bf19a1387cc72eef66d2b6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a78f4a507768f6a2a425a2df6e94f247afd27b783bf19a1387cc72eef66d2b6"
+      },
+      "39": {
+        "source_ref": "Nehemiah 7:39",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 39,
+            "source_ref": "Nehemiah 7:39",
+            "segment_mode": "whole",
+            "sha256": "287f8790728f6f740d10a1acdf1c89817e9cf2533ac6131ab0392c68e0369387"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "287f8790728f6f740d10a1acdf1c89817e9cf2533ac6131ab0392c68e0369387"
+      },
+      "40": {
+        "source_ref": "Nehemiah 7:40",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 40,
+            "source_ref": "Nehemiah 7:40",
+            "segment_mode": "whole",
+            "sha256": "b65177433b88dafa17de0ea40a034a8bc5fcabff651473a5b99fce314b5758de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b65177433b88dafa17de0ea40a034a8bc5fcabff651473a5b99fce314b5758de"
+      },
+      "41": {
+        "source_ref": "Nehemiah 7:41",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 41,
+            "source_ref": "Nehemiah 7:41",
+            "segment_mode": "whole",
+            "sha256": "edcee44ea8097db31129537e460a503ea70e70ba256aa110a94f5f69dac6ff0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "edcee44ea8097db31129537e460a503ea70e70ba256aa110a94f5f69dac6ff0d"
+      },
+      "42": {
+        "source_ref": "Nehemiah 7:42",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 42,
+            "source_ref": "Nehemiah 7:42",
+            "segment_mode": "whole",
+            "sha256": "1b08180ac5b1ccb22451264d4cd4afa85b95127c085d1e2bb4e9c75ece65955f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b08180ac5b1ccb22451264d4cd4afa85b95127c085d1e2bb4e9c75ece65955f"
+      },
+      "43": {
+        "source_ref": "Nehemiah 7:43",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 43,
+            "source_ref": "Nehemiah 7:43",
+            "segment_mode": "whole",
+            "sha256": "d6785a502998260e20819113d0bc1484f2c5fca2d0610dc8effc81a9f12a4196"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6785a502998260e20819113d0bc1484f2c5fca2d0610dc8effc81a9f12a4196"
+      },
+      "44": {
+        "source_ref": "Nehemiah 7:44",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 44,
+            "source_ref": "Nehemiah 7:44",
+            "segment_mode": "whole",
+            "sha256": "252c20928fe92135e7618835026033599cddc266221c1a6a3812b4e22da73903"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "252c20928fe92135e7618835026033599cddc266221c1a6a3812b4e22da73903"
+      },
+      "45": {
+        "source_ref": "Nehemiah 7:45",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 45,
+            "source_ref": "Nehemiah 7:45",
+            "segment_mode": "whole",
+            "sha256": "41e6f3a08a3425d5f5bcf445db95aca1f1f52a77d54b7cef36786cc2ae70e6de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41e6f3a08a3425d5f5bcf445db95aca1f1f52a77d54b7cef36786cc2ae70e6de"
+      },
+      "46": {
+        "source_ref": "Nehemiah 7:46",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 46,
+            "source_ref": "Nehemiah 7:46",
+            "segment_mode": "whole",
+            "sha256": "9930fdf1f91751f941a98c8d263c330b117baf3711d0faed0dd7f4fb1ff68048"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9930fdf1f91751f941a98c8d263c330b117baf3711d0faed0dd7f4fb1ff68048"
+      },
+      "47": {
+        "source_ref": "Nehemiah 7:47",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 47,
+            "source_ref": "Nehemiah 7:47",
+            "segment_mode": "whole",
+            "sha256": "957334a6b85f7222bc51ee5c903f3ca0ba414eac3b69c55b131c0a4a9b21d2bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "957334a6b85f7222bc51ee5c903f3ca0ba414eac3b69c55b131c0a4a9b21d2bf"
+      },
+      "48": {
+        "source_ref": "Nehemiah 7:48",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 48,
+            "source_ref": "Nehemiah 7:48",
+            "segment_mode": "whole",
+            "sha256": "ae9a23477ada3909e08456c93b3c2905ca4dacb077aea1259ee89c1025f0f76c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae9a23477ada3909e08456c93b3c2905ca4dacb077aea1259ee89c1025f0f76c"
+      },
+      "49": {
+        "source_ref": "Nehemiah 7:49",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 49,
+            "source_ref": "Nehemiah 7:49",
+            "segment_mode": "whole",
+            "sha256": "dc5b2cc5b2a93c93fdea3e0b9e1bf037dc82184f717c684107448880f9c9a529"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc5b2cc5b2a93c93fdea3e0b9e1bf037dc82184f717c684107448880f9c9a529"
+      },
+      "50": {
+        "source_ref": "Nehemiah 7:50",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 50,
+            "source_ref": "Nehemiah 7:50",
+            "segment_mode": "whole",
+            "sha256": "ede88b2af7f2a99bc496c79a6dc886c49d24e51c28b7255fef30beb573b0972b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ede88b2af7f2a99bc496c79a6dc886c49d24e51c28b7255fef30beb573b0972b"
+      },
+      "51": {
+        "source_ref": "Nehemiah 7:51",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 51,
+            "source_ref": "Nehemiah 7:51",
+            "segment_mode": "whole",
+            "sha256": "b66e0b51f663afa74e165eb1a301bbb6c14da0d0239cb766bcbd6e36aef1f927"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b66e0b51f663afa74e165eb1a301bbb6c14da0d0239cb766bcbd6e36aef1f927"
+      },
+      "52": {
+        "source_ref": "Nehemiah 7:52",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 52,
+            "source_ref": "Nehemiah 7:52",
+            "segment_mode": "whole",
+            "sha256": "b2832c7e558bdac16d5ad227ed84658b77d68be4f228179b46b986581c279987"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2832c7e558bdac16d5ad227ed84658b77d68be4f228179b46b986581c279987"
+      },
+      "53": {
+        "source_ref": "Nehemiah 7:53",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 53,
+            "source_ref": "Nehemiah 7:53",
+            "segment_mode": "whole",
+            "sha256": "a19c4f1507e6fe65c69fe9a2e1199a149f2b5caf03a74ac3641a0515c47d64a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a19c4f1507e6fe65c69fe9a2e1199a149f2b5caf03a74ac3641a0515c47d64a3"
+      },
+      "54": {
+        "source_ref": "Nehemiah 7:54",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 54,
+            "source_ref": "Nehemiah 7:54",
+            "segment_mode": "whole",
+            "sha256": "4af5feb2658f7aec5343c038d4a30d1eb4221c7ce6b38aa9198c6c7c6fca267e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4af5feb2658f7aec5343c038d4a30d1eb4221c7ce6b38aa9198c6c7c6fca267e"
+      },
+      "55": {
+        "source_ref": "Nehemiah 7:55",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 55,
+            "source_ref": "Nehemiah 7:55",
+            "segment_mode": "whole",
+            "sha256": "f3ea0346ce43914f3702cece6ba0d63897342b45ec75f4f568ca948dbbfb3a1e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3ea0346ce43914f3702cece6ba0d63897342b45ec75f4f568ca948dbbfb3a1e"
+      },
+      "56": {
+        "source_ref": "Nehemiah 7:56",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 56,
+            "source_ref": "Nehemiah 7:56",
+            "segment_mode": "whole",
+            "sha256": "0eacda292217877b0886c1a6a73060bb904facdc56ccf18569050592a2dbbd99"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0eacda292217877b0886c1a6a73060bb904facdc56ccf18569050592a2dbbd99"
+      },
+      "57": {
+        "source_ref": "Nehemiah 7:57",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 57,
+            "source_ref": "Nehemiah 7:57",
+            "segment_mode": "whole",
+            "sha256": "a59b95d9713b07948fb34c9eebfc29b9a03c7fb87957e92b676bf99e834792f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a59b95d9713b07948fb34c9eebfc29b9a03c7fb87957e92b676bf99e834792f8"
+      },
+      "58": {
+        "source_ref": "Nehemiah 7:58",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 58,
+            "source_ref": "Nehemiah 7:58",
+            "segment_mode": "whole",
+            "sha256": "812d334294c354fef2a9265381f166f24d5e1c23558285aed707e52270bde734"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "812d334294c354fef2a9265381f166f24d5e1c23558285aed707e52270bde734"
+      },
+      "59": {
+        "source_ref": "Nehemiah 7:59",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 59,
+            "source_ref": "Nehemiah 7:59",
+            "segment_mode": "whole",
+            "sha256": "a22e1a2055269967542e91d3c0592a5998d3e9884938f6c1bda2c83e0c1df4d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a22e1a2055269967542e91d3c0592a5998d3e9884938f6c1bda2c83e0c1df4d8"
+      },
+      "60": {
+        "source_ref": "Nehemiah 7:60",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 60,
+            "source_ref": "Nehemiah 7:60",
+            "segment_mode": "whole",
+            "sha256": "0694d6276b69e12be4ab96dbb276cdecf5822987cd5cc78bf23c99455bd2054c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0694d6276b69e12be4ab96dbb276cdecf5822987cd5cc78bf23c99455bd2054c"
+      },
+      "61": {
+        "source_ref": "Nehemiah 7:61",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 61,
+            "source_ref": "Nehemiah 7:61",
+            "segment_mode": "whole",
+            "sha256": "88854ae2535576940690f0e53a319bef5628b74b429ac2dff56c49d23249ddf1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88854ae2535576940690f0e53a319bef5628b74b429ac2dff56c49d23249ddf1"
+      },
+      "62": {
+        "source_ref": "Nehemiah 7:62",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 62,
+            "source_ref": "Nehemiah 7:62",
+            "segment_mode": "whole",
+            "sha256": "521d67ebc5ae8a80af717ea39e39807d9fe3977fdcbd628515eb1bedc7e8d02c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "521d67ebc5ae8a80af717ea39e39807d9fe3977fdcbd628515eb1bedc7e8d02c"
+      },
+      "63": {
+        "source_ref": "Nehemiah 7:63",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 63,
+            "source_ref": "Nehemiah 7:63",
+            "segment_mode": "whole",
+            "sha256": "0b82928d209c4a4765ddb81dc28d08e2d53b0dab6d0677b36c805802d9e770f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b82928d209c4a4765ddb81dc28d08e2d53b0dab6d0677b36c805802d9e770f6"
+      },
+      "64": {
+        "source_ref": "Nehemiah 7:64",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 64,
+            "source_ref": "Nehemiah 7:64",
+            "segment_mode": "whole",
+            "sha256": "df9dcbe850a248d394dc920422ba559656e281b4927485706319358a3047a383"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df9dcbe850a248d394dc920422ba559656e281b4927485706319358a3047a383"
+      },
+      "65": {
+        "source_ref": "Nehemiah 7:65",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 65,
+            "source_ref": "Nehemiah 7:65",
+            "segment_mode": "whole",
+            "sha256": "66b5f14beb43dac0a96222d7dcc2654c2174735905fe3c76e9376dec870e1bf4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "66b5f14beb43dac0a96222d7dcc2654c2174735905fe3c76e9376dec870e1bf4"
+      },
+      "66": {
+        "source_ref": "Nehemiah 7:66",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 66,
+            "source_ref": "Nehemiah 7:66",
+            "segment_mode": "whole",
+            "sha256": "6f2e3e5c9a16d7e3d6abe1a9c3811948033a99a98da78e6c3e37e1f4c24211fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f2e3e5c9a16d7e3d6abe1a9c3811948033a99a98da78e6c3e37e1f4c24211fb"
+      },
+      "67": {
+        "source_ref": "Nehemiah 7:67",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 67,
+            "source_ref": "Nehemiah 7:67",
+            "segment_mode": "whole",
+            "sha256": "4f25267a29fe170d141f24727ce736bed85109961104b9a106276a4595cf796c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f25267a29fe170d141f24727ce736bed85109961104b9a106276a4595cf796c"
+      },
+      "69": {
+        "source_ref": "Nehemiah 7:68 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 68,
+            "source_ref": "Nehemiah 7:68 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "98e93fb2d227a03aa825e98b8f04087a02345ee09f7255d2b4538c2f32739fa5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98e93fb2d227a03aa825e98b8f04087a02345ee09f7255d2b4538c2f32739fa5"
+      },
+      "70": {
+        "source_ref": "Nehemiah 7:69 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 69,
+            "source_ref": "Nehemiah 7:69 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "49fff4ab918719ab06f69f9efa82381228de313a0c187d0e25360636683c3b0c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "49fff4ab918719ab06f69f9efa82381228de313a0c187d0e25360636683c3b0c"
+      },
+      "71": {
+        "source_ref": "Nehemiah 7:70 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 70,
+            "source_ref": "Nehemiah 7:70 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "466959bc7e1d08a5cf5e79dd2eed7f2e287a584b764c997f572ed5741a1996a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "466959bc7e1d08a5cf5e79dd2eed7f2e287a584b764c997f572ed5741a1996a9"
+      },
+      "72": {
+        "source_ref": "Nehemiah 7:71 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 71,
+            "source_ref": "Nehemiah 7:71 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "e735b3d987181f9a29d62b9dfe8e6c3bf785f2544b0d753661db77b35fe71493"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e735b3d987181f9a29d62b9dfe8e6c3bf785f2544b0d753661db77b35fe71493"
+      },
+      "73": {
+        "source_ref": "Nehemiah 7:72 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 72,
+            "source_ref": "Nehemiah 7:72 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "f3fb179015595a1e1174ff37ac8acc9ab18a96945649d96ef3b9d76c401563f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3fb179015595a1e1174ff37ac8acc9ab18a96945649d96ef3b9d76c401563f9"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/nehemiah/Nehemiah_07.md",
+    "blob_sha": "8cd5e7ca54a061bfc91815600761c0a7606b4383"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

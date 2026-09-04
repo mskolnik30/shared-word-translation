@@ -1,0 +1,312 @@
+{
+  "book": "Nehemiah",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "8:1-18",
+      "decision": "Preserve public Torah reading, interpretation, grief, joy, material sharing, and festival practice.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Nehemiah 8:1",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "Nehemiah 8:1",
+            "segment_mode": "whole",
+            "sha256": "1a892339e412b8a3fa7a895b2521f1b6d8ba176ad834ae5a70f6e93f6fa16fe7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a892339e412b8a3fa7a895b2521f1b6d8ba176ad834ae5a70f6e93f6fa16fe7"
+      },
+      "2": {
+        "source_ref": "Nehemiah 8:2",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "Nehemiah 8:2",
+            "segment_mode": "whole",
+            "sha256": "25119bc178af73ed23a2475ebef866555ba79643b00ab2544d522d0d67c45051"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25119bc178af73ed23a2475ebef866555ba79643b00ab2544d522d0d67c45051"
+      },
+      "3": {
+        "source_ref": "Nehemiah 8:3",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "Nehemiah 8:3",
+            "segment_mode": "whole",
+            "sha256": "cdf0eb16b4a2694c52ab22682ac72e43ef79834b3497ab0ab78eba4d864070f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cdf0eb16b4a2694c52ab22682ac72e43ef79834b3497ab0ab78eba4d864070f8"
+      },
+      "4": {
+        "source_ref": "Nehemiah 8:4",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "Nehemiah 8:4",
+            "segment_mode": "whole",
+            "sha256": "36fbaa0145f5679650ccc901be6991c632e1ec3e1a8471d7dada8c52fa87645b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36fbaa0145f5679650ccc901be6991c632e1ec3e1a8471d7dada8c52fa87645b"
+      },
+      "5": {
+        "source_ref": "Nehemiah 8:5",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "Nehemiah 8:5",
+            "segment_mode": "whole",
+            "sha256": "d281bbe0daa1b1c4f744473f974f85e172764a7c2fbda7a49da529e793d05527"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d281bbe0daa1b1c4f744473f974f85e172764a7c2fbda7a49da529e793d05527"
+      },
+      "6": {
+        "source_ref": "Nehemiah 8:6",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "Nehemiah 8:6",
+            "segment_mode": "whole",
+            "sha256": "4257180d2f2ffb7663c6e3ba69746ad1153b4d11b1449e4accb9184512280607"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4257180d2f2ffb7663c6e3ba69746ad1153b4d11b1449e4accb9184512280607"
+      },
+      "7": {
+        "source_ref": "Nehemiah 8:7",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "Nehemiah 8:7",
+            "segment_mode": "whole",
+            "sha256": "f3c4a1dac6c30036b6064d4dec8d69cd5e6e5ec2526492d3811d1ca1b829412c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3c4a1dac6c30036b6064d4dec8d69cd5e6e5ec2526492d3811d1ca1b829412c"
+      },
+      "8": {
+        "source_ref": "Nehemiah 8:8",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "Nehemiah 8:8",
+            "segment_mode": "whole",
+            "sha256": "9d0c36757fc80d69c92344885851e5ada8b6567a8c32ba06b868c8194ab3094a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d0c36757fc80d69c92344885851e5ada8b6567a8c32ba06b868c8194ab3094a"
+      },
+      "9": {
+        "source_ref": "Nehemiah 8:9",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "Nehemiah 8:9",
+            "segment_mode": "whole",
+            "sha256": "77bafbbd8333cd54272570558cb384a4351d1844060deec7055d270b3a7fc527"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "77bafbbd8333cd54272570558cb384a4351d1844060deec7055d270b3a7fc527"
+      },
+      "10": {
+        "source_ref": "Nehemiah 8:10",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "Nehemiah 8:10",
+            "segment_mode": "whole",
+            "sha256": "30261bad355bea653187ffe8dd1914c65526cd74eb96460e82ec6bd846ccfd9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30261bad355bea653187ffe8dd1914c65526cd74eb96460e82ec6bd846ccfd9c"
+      },
+      "11": {
+        "source_ref": "Nehemiah 8:11",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 11,
+            "source_ref": "Nehemiah 8:11",
+            "segment_mode": "whole",
+            "sha256": "17fcfda0fa4bd3d0731d44af375cd8f3c6423bf662fd6b50c44d0398685d6210"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17fcfda0fa4bd3d0731d44af375cd8f3c6423bf662fd6b50c44d0398685d6210"
+      },
+      "12": {
+        "source_ref": "Nehemiah 8:12",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 12,
+            "source_ref": "Nehemiah 8:12",
+            "segment_mode": "whole",
+            "sha256": "56eb893042b4a8f94618947cb20169b0aa3b345d878fc9cf02b9557dd297e5cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56eb893042b4a8f94618947cb20169b0aa3b345d878fc9cf02b9557dd297e5cc"
+      },
+      "13": {
+        "source_ref": "Nehemiah 8:13",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 13,
+            "source_ref": "Nehemiah 8:13",
+            "segment_mode": "whole",
+            "sha256": "627003f571adbc8aa5754673832a6bf70d565df8163a3a22daa58ea17028573c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "627003f571adbc8aa5754673832a6bf70d565df8163a3a22daa58ea17028573c"
+      },
+      "14": {
+        "source_ref": "Nehemiah 8:14",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 14,
+            "source_ref": "Nehemiah 8:14",
+            "segment_mode": "whole",
+            "sha256": "fc28224e2eb492f91849da6f67aafa31fa3f4c8ff362321cd4577d034b1eaffc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fc28224e2eb492f91849da6f67aafa31fa3f4c8ff362321cd4577d034b1eaffc"
+      },
+      "15": {
+        "source_ref": "Nehemiah 8:15",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 15,
+            "source_ref": "Nehemiah 8:15",
+            "segment_mode": "whole",
+            "sha256": "e6755dd262c882cf92695989b5dd3e3f71214017af3dd10cec4459d468e7a706"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e6755dd262c882cf92695989b5dd3e3f71214017af3dd10cec4459d468e7a706"
+      },
+      "16": {
+        "source_ref": "Nehemiah 8:16",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 16,
+            "source_ref": "Nehemiah 8:16",
+            "segment_mode": "whole",
+            "sha256": "1594c8a3b405535f2fd12651129873d169d50d76025789fc8746fd6e760a2736"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1594c8a3b405535f2fd12651129873d169d50d76025789fc8746fd6e760a2736"
+      },
+      "17": {
+        "source_ref": "Nehemiah 8:17",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 17,
+            "source_ref": "Nehemiah 8:17",
+            "segment_mode": "whole",
+            "sha256": "afb8f1603f7d61c21cf80300ffe83d3769f1ad63cfd250141ff1927045e4ff90"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "afb8f1603f7d61c21cf80300ffe83d3769f1ad63cfd250141ff1927045e4ff90"
+      },
+      "18": {
+        "source_ref": "Nehemiah 8:18",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 18,
+            "source_ref": "Nehemiah 8:18",
+            "segment_mode": "whole",
+            "sha256": "cdd3eaab4da99c30488042c7a17d57ea6fe6002ba2253aef3cb8a3901800f169"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cdd3eaab4da99c30488042c7a17d57ea6fe6002ba2253aef3cb8a3901800f169"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/nehemiah/Nehemiah_08.md",
+    "blob_sha": "bb761df7f11dcdea88bd685b9f8357167498d1c1"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,327 @@
+{
+  "book": "Nehemiah",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "5:1-19",
+      "decision": "Keep debt, land loss, enslavement, interest, and elite responsibility at the center of the reform.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Neh.xml",
+    "git_blob_sha": "348d7939d1a432e81e4cb79d09536a6bee84486f",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Nehemiah 5:1",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "Nehemiah 5:1",
+            "segment_mode": "whole",
+            "sha256": "c35709408db96e86ef9be9c1986491f2ca3f8f88ced9529113a31dd2ef0ceeed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c35709408db96e86ef9be9c1986491f2ca3f8f88ced9529113a31dd2ef0ceeed"
+      },
+      "2": {
+        "source_ref": "Nehemiah 5:2",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "Nehemiah 5:2",
+            "segment_mode": "whole",
+            "sha256": "8ce9b35f26c59f0f0ed3bafedc2aacbe656cea313858b809456dfcad7062ff22"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ce9b35f26c59f0f0ed3bafedc2aacbe656cea313858b809456dfcad7062ff22"
+      },
+      "3": {
+        "source_ref": "Nehemiah 5:3",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "Nehemiah 5:3",
+            "segment_mode": "whole",
+            "sha256": "7b4263187ca5cd867c7be6ba3cd4f7c8c8c09ede69adaa8192c20ac1d6bb440d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b4263187ca5cd867c7be6ba3cd4f7c8c8c09ede69adaa8192c20ac1d6bb440d"
+      },
+      "4": {
+        "source_ref": "Nehemiah 5:4",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "Nehemiah 5:4",
+            "segment_mode": "whole",
+            "sha256": "112e3dd39b831c8465e60ae3cd36989c2f37f09d7ed0d2cfc03e569f3ce6474b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "112e3dd39b831c8465e60ae3cd36989c2f37f09d7ed0d2cfc03e569f3ce6474b"
+      },
+      "5": {
+        "source_ref": "Nehemiah 5:5",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "Nehemiah 5:5",
+            "segment_mode": "whole",
+            "sha256": "039d968d38e02d89e1e750b3d1b60dfc88f6258238d948faaa358130f8c91b1d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "039d968d38e02d89e1e750b3d1b60dfc88f6258238d948faaa358130f8c91b1d"
+      },
+      "6": {
+        "source_ref": "Nehemiah 5:6",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "Nehemiah 5:6",
+            "segment_mode": "whole",
+            "sha256": "01f49620138f36350d6fd3044ae74f9f6189b4ec9e68f2c33c5537e5541799cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01f49620138f36350d6fd3044ae74f9f6189b4ec9e68f2c33c5537e5541799cc"
+      },
+      "7": {
+        "source_ref": "Nehemiah 5:7",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "Nehemiah 5:7",
+            "segment_mode": "whole",
+            "sha256": "b7a618338108cacec068fa2377c2da91e906d77340bd1fa6dcb3f08d3133fc92"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7a618338108cacec068fa2377c2da91e906d77340bd1fa6dcb3f08d3133fc92"
+      },
+      "8": {
+        "source_ref": "Nehemiah 5:8",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "Nehemiah 5:8",
+            "segment_mode": "whole",
+            "sha256": "3210cfae1566a2a5ff0d1aa9a56b92db1fcc3860c86689c664b5d636d52ee2ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3210cfae1566a2a5ff0d1aa9a56b92db1fcc3860c86689c664b5d636d52ee2ba"
+      },
+      "9": {
+        "source_ref": "Nehemiah 5:9",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "Nehemiah 5:9",
+            "segment_mode": "whole",
+            "sha256": "02f2dd8afbbeab1a938c7df3e08ea4dfa5dd4f711006026b166beced6350e087"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "02f2dd8afbbeab1a938c7df3e08ea4dfa5dd4f711006026b166beced6350e087"
+      },
+      "10": {
+        "source_ref": "Nehemiah 5:10",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "Nehemiah 5:10",
+            "segment_mode": "whole",
+            "sha256": "fb708904e0733e280efe7a34f3ebd6e69ac3788bff46a1d0901b661ffaa00ef6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb708904e0733e280efe7a34f3ebd6e69ac3788bff46a1d0901b661ffaa00ef6"
+      },
+      "11": {
+        "source_ref": "Nehemiah 5:11",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "Nehemiah 5:11",
+            "segment_mode": "whole",
+            "sha256": "8e0c357bf0222cbadf1efbad6931cafd9b1f21a02f44445601321cb1081fb31e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e0c357bf0222cbadf1efbad6931cafd9b1f21a02f44445601321cb1081fb31e"
+      },
+      "12": {
+        "source_ref": "Nehemiah 5:12",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "Nehemiah 5:12",
+            "segment_mode": "whole",
+            "sha256": "dd31adeaf7665cafbf76ce62326c09a3f49de6c646e302f13f604c660d28ffb2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd31adeaf7665cafbf76ce62326c09a3f49de6c646e302f13f604c660d28ffb2"
+      },
+      "13": {
+        "source_ref": "Nehemiah 5:13",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "Nehemiah 5:13",
+            "segment_mode": "whole",
+            "sha256": "69aec24ab3287cb9f0e32bb12778f7cf547c586597b1e88ada683b159006b89c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69aec24ab3287cb9f0e32bb12778f7cf547c586597b1e88ada683b159006b89c"
+      },
+      "14": {
+        "source_ref": "Nehemiah 5:14",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "Nehemiah 5:14",
+            "segment_mode": "whole",
+            "sha256": "986e155ef561609ed8194d4a3141204b2f958a5eb8409c5b01c3be685ae689f1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "986e155ef561609ed8194d4a3141204b2f958a5eb8409c5b01c3be685ae689f1"
+      },
+      "15": {
+        "source_ref": "Nehemiah 5:15",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 15,
+            "source_ref": "Nehemiah 5:15",
+            "segment_mode": "whole",
+            "sha256": "58d1b20150b77932a08532eb1646c4ed469d3e0ce059b1c98ea11252674e4215"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "58d1b20150b77932a08532eb1646c4ed469d3e0ce059b1c98ea11252674e4215"
+      },
+      "16": {
+        "source_ref": "Nehemiah 5:16",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 16,
+            "source_ref": "Nehemiah 5:16",
+            "segment_mode": "whole",
+            "sha256": "ff063c3c1bf8e16bd763020b6ba4afa6cca5b19ec2a8aa9fad80b259a8568969"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff063c3c1bf8e16bd763020b6ba4afa6cca5b19ec2a8aa9fad80b259a8568969"
+      },
+      "17": {
+        "source_ref": "Nehemiah 5:17",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 17,
+            "source_ref": "Nehemiah 5:17",
+            "segment_mode": "whole",
+            "sha256": "f72691f2109dcf4d636cb3c2338dd51a7bbf3c739f57e60a4788787be3c6204d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f72691f2109dcf4d636cb3c2338dd51a7bbf3c739f57e60a4788787be3c6204d"
+      },
+      "18": {
+        "source_ref": "Nehemiah 5:18",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 18,
+            "source_ref": "Nehemiah 5:18",
+            "segment_mode": "whole",
+            "sha256": "de2af90814a04f35043b8f18b1fd2ccd96862ed7a0715645bf62940ee4acaf54"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de2af90814a04f35043b8f18b1fd2ccd96862ed7a0715645bf62940ee4acaf54"
+      },
+      "19": {
+        "source_ref": "Nehemiah 5:19",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 19,
+            "source_ref": "Nehemiah 5:19",
+            "segment_mode": "whole",
+            "sha256": "132ae0878955fa889a35bfb71fe46ad1ce41abcbf60b0e119a123f1c7b59366e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "132ae0878955fa889a35bfb71fe46ad1ce41abcbf60b0e119a123f1c7b59366e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/nehemiah/Nehemiah_05.md",
+    "blob_sha": "dce33dc036d2a78090185c864e5c34c3c0be1cdc"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
