@@ -1,0 +1,107 @@
+{
+  "book": "Song of Songs",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 8,
+  "public_verse_slots": 117,
+  "included_verse_labels": 117,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 117,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Song.xml",
+    "git_blob_sha": "4d799c5c7eeddc2d1a83fda1c5ae1fc22e7fe35d"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1",
+      "decision": "Preserve the title's superlative force and leave the relation to Solomon open rather than claiming certain authorship.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:2-2:7",
+      "decision": "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:8-3:5",
+      "decision": "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:6-5:1",
+      "decision": "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:2-6:3",
+      "decision": "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "6:4-8:4",
+      "decision": "Preserve reciprocal praise and embodied desire without importing shame into the poem.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:5-7",
+      "decision": "Keep love, death, jealousy, flame, waters, and wealth in the poem's climactic claim that love cannot be bought.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:8-14",
+      "decision": "Retain the debated family voices and the woman's agency without turning the imagery into a universal rule for controlling girls or women.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_04",
+  "deployment_audit": {
+    "source_git_blob_sha": "4d799c5c7eeddc2d1a83fda1c5ae1fc22e7fe35d",
+    "source_binding_count": 117,
+    "unique_source_record_count": 117,
+    "public_verse_slots": 117,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 117
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/songofsongs/SongOfSongs_01.md",
+        "blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af"
+      },
+      "02": {
+        "path": "books/OT/songofsongs/SongOfSongs_02.md",
+        "blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425"
+      },
+      "03": {
+        "path": "books/OT/songofsongs/SongOfSongs_03.md",
+        "blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc"
+      },
+      "04": {
+        "path": "books/OT/songofsongs/SongOfSongs_04.md",
+        "blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38"
+      },
+      "05": {
+        "path": "books/OT/songofsongs/SongOfSongs_05.md",
+        "blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492"
+      },
+      "06": {
+        "path": "books/OT/songofsongs/SongOfSongs_06.md",
+        "blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f"
+      },
+      "07": {
+        "path": "books/OT/songofsongs/SongOfSongs_07.md",
+        "blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2"
+      },
+      "08": {
+        "path": "books/OT/songofsongs/SongOfSongs_08.md",
+        "blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769"
+      }
+    }
+  }
+}
