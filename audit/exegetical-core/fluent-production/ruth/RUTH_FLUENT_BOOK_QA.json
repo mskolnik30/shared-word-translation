@@ -11,6 +11,14 @@
     "3": 18,
     "4": 22
   },
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ruth.xml",
+    "git_blob_sha": "e4aea25dfc593685e7e8f7ec995b96789f5c7060",
+    "source_lock_status": "CANDIDATE_PENDING_TEXTUAL_REVIEW"
+  },
   "book_level_anchors": [
     {
       "id": "RUTH.HESED",
