@@ -1,0 +1,147 @@
+{
+  "book": "Colossians",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 18,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Col.txt",
+    "git_blob_sha": "06f9ee0bc5f86cd1f28f1e54867224f49e446380",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Colossians 4:1",
+        "source_chapter": 4,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "c308fa8d5ba3415811687232c70a80599524bfcaae3782818c5b2379f33dc7cd"
+      },
+      "2": {
+        "source_ref": "Colossians 4:2",
+        "source_chapter": 4,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "e494918930b3646d208c62608564145a447aac06572795d31be2ba65364dbe19"
+      },
+      "3": {
+        "source_ref": "Colossians 4:3",
+        "source_chapter": 4,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "c6f53a2b9b7709199e150cee5c21b931e8c5a0d0194e51f54746e79a1aa2716b"
+      },
+      "4": {
+        "source_ref": "Colossians 4:4",
+        "source_chapter": 4,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "c1769943b5212fed504bb89a809ff9ab4ba3b235c954e55195bfe5b5b24dc5e7"
+      },
+      "5": {
+        "source_ref": "Colossians 4:5",
+        "source_chapter": 4,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "efcdef1f12e7acddc66d92fef1060d39464e0dddd18537c6110670f9f420c550"
+      },
+      "6": {
+        "source_ref": "Colossians 4:6",
+        "source_chapter": 4,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "2c0141b466ce6781b7bb7373245c5c3cac2c93194fb808c1df7175d04a11abe1"
+      },
+      "7": {
+        "source_ref": "Colossians 4:7",
+        "source_chapter": 4,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "9d6a079772ae3f8b108ff6be6500d7e29decd6630c386be032d4227a2d24a6eb"
+      },
+      "8": {
+        "source_ref": "Colossians 4:8",
+        "source_chapter": 4,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "a0415912e7bb27a0da06f46c6615c8c003597b6241d09a084a41319fd381db13"
+      },
+      "9": {
+        "source_ref": "Colossians 4:9",
+        "source_chapter": 4,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "08b502b23dd57314376dbca1f2528c0f85a2338fd07a633791a3379edb419345"
+      },
+      "10": {
+        "source_ref": "Colossians 4:10",
+        "source_chapter": 4,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "67ee1bbe3efc8c2a502d9f007aa9f4b89d3fc1dd88b1d649b5533f14b485c350"
+      },
+      "11": {
+        "source_ref": "Colossians 4:11",
+        "source_chapter": 4,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "03482392bf7bdbf86e2343cac2f6458348559543d4cdde036991390f842a274e"
+      },
+      "12": {
+        "source_ref": "Colossians 4:12",
+        "source_chapter": 4,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "0fd6c8f035458d4c31ed427e496b4744eecb29372bff2adfd558cfa3106b6c87"
+      },
+      "13": {
+        "source_ref": "Colossians 4:13",
+        "source_chapter": 4,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "ebee24d6e2165c3fd4109403b21439b1361ab53a6dc77f36df0bf1c72cd74184"
+      },
+      "14": {
+        "source_ref": "Colossians 4:14",
+        "source_chapter": 4,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "965a26ae6f581ac730e8e7da91cab880bfe13e23d6ddc5bbb13fd5b8b887d280"
+      },
+      "15": {
+        "source_ref": "Colossians 4:15",
+        "source_chapter": 4,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "de35d38d047249cce752b291adbad9f17b9ef23a60c1980bbca8afc922c3366f"
+      },
+      "16": {
+        "source_ref": "Colossians 4:16",
+        "source_chapter": 4,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "c349986eec8a30c3d6b9d548f8526dd66390b829d0893c09d82cbbe689d46dba"
+      },
+      "17": {
+        "source_ref": "Colossians 4:17",
+        "source_chapter": 4,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "f15852dd92c8c89e034c808385e8d495bf5c7a309e021150bfc9bc9f03d2afc3"
+      },
+      "18": {
+        "source_ref": "Colossians 4:18",
+        "source_chapter": 4,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "8006f099cc8357eb8965fd094c91528f7a131fd34973bf548f0bffb974ab8ed3"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/colossians/Colossians_04.md",
+    "blob_sha": "ec440962a5c62b56c5d77af5426a5177f5dd65e3"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
