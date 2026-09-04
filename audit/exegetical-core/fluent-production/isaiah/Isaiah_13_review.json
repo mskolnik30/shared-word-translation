@@ -1,0 +1,372 @@
+{
+  "book": "Isaiah",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "13:1-27:13",
+      "decision": "Preserve oracles against nations, imperial collapse, cosmic imagery, judgment, and feast without forcing modern identifications.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 13:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Isaiah 13:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "720748fef98edc65ae3b3192bd608080de19ee28ab72dd6b64e1d2a7325057ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "720748fef98edc65ae3b3192bd608080de19ee28ab72dd6b64e1d2a7325057ec"
+      },
+      "2": {
+        "source_ref": "Isaiah 13:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 2,
+            "source_ref": "Isaiah 13:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "065c7a619bd8bdef0338c7f54eb2d82ea1b58afd0df2988cf0252852515e6f2f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "065c7a619bd8bdef0338c7f54eb2d82ea1b58afd0df2988cf0252852515e6f2f"
+      },
+      "3": {
+        "source_ref": "Isaiah 13:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 3,
+            "source_ref": "Isaiah 13:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3563af8ac224256f8c0785ae2bc0e0d0556ea719724615f34311ed87e466d217"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3563af8ac224256f8c0785ae2bc0e0d0556ea719724615f34311ed87e466d217"
+      },
+      "4": {
+        "source_ref": "Isaiah 13:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 4,
+            "source_ref": "Isaiah 13:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "99afff8e41859e9cc37985b1a6dd6e7a0a3bda6c9f116bd9c600a59d49f75e2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "99afff8e41859e9cc37985b1a6dd6e7a0a3bda6c9f116bd9c600a59d49f75e2c"
+      },
+      "5": {
+        "source_ref": "Isaiah 13:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 5,
+            "source_ref": "Isaiah 13:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1576e33931a481fc8759840afd78e9325c1c4d96631b038de55c57a6787f77c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1576e33931a481fc8759840afd78e9325c1c4d96631b038de55c57a6787f77c9"
+      },
+      "6": {
+        "source_ref": "Isaiah 13:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Isaiah 13:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "93a21c3526ad33a813034e3d9470663525536116d91203e763698d42ebd0a0c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93a21c3526ad33a813034e3d9470663525536116d91203e763698d42ebd0a0c9"
+      },
+      "7": {
+        "source_ref": "Isaiah 13:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 7,
+            "source_ref": "Isaiah 13:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7de76c5771fae64cc76c73e5d6c3a9509883726b2be16d7813167a8f56dd1463"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7de76c5771fae64cc76c73e5d6c3a9509883726b2be16d7813167a8f56dd1463"
+      },
+      "8": {
+        "source_ref": "Isaiah 13:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 8,
+            "source_ref": "Isaiah 13:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "58a7b28814cf78fbbf47837efcdae9975f84c5ea6716bdd66c1da32886ead5fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "58a7b28814cf78fbbf47837efcdae9975f84c5ea6716bdd66c1da32886ead5fa"
+      },
+      "9": {
+        "source_ref": "Isaiah 13:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 9,
+            "source_ref": "Isaiah 13:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f897468a58178bcfb1985de3bc6faec441eef0f64329bab23bb0f0047673f44e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f897468a58178bcfb1985de3bc6faec441eef0f64329bab23bb0f0047673f44e"
+      },
+      "10": {
+        "source_ref": "Isaiah 13:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 10,
+            "source_ref": "Isaiah 13:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b4ff7ec489bbb8c63be99c7e63426aa6158c23ef890e7a7980bb605d848714c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4ff7ec489bbb8c63be99c7e63426aa6158c23ef890e7a7980bb605d848714c0"
+      },
+      "11": {
+        "source_ref": "Isaiah 13:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 11,
+            "source_ref": "Isaiah 13:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aa73632febbd817f2d5e4dfae68817bb4a3c39d8d84ce23d316791eead3cea16"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa73632febbd817f2d5e4dfae68817bb4a3c39d8d84ce23d316791eead3cea16"
+      },
+      "12": {
+        "source_ref": "Isaiah 13:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 12,
+            "source_ref": "Isaiah 13:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c906b96529867e6aedd1777ef57e1bbaea209a09ca4ec511db70bdf7abbd4ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c906b96529867e6aedd1777ef57e1bbaea209a09ca4ec511db70bdf7abbd4ca"
+      },
+      "13": {
+        "source_ref": "Isaiah 13:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 13,
+            "source_ref": "Isaiah 13:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cfe188399b2c10439368c15429b996e0507009c553f4db9070e009fb0f5d9924"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cfe188399b2c10439368c15429b996e0507009c553f4db9070e009fb0f5d9924"
+      },
+      "14": {
+        "source_ref": "Isaiah 13:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 14,
+            "source_ref": "Isaiah 13:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f427db8a6eeef9adfaddca8378ae8aec73cd403f1bc47d610b2fabdf41170313"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f427db8a6eeef9adfaddca8378ae8aec73cd403f1bc47d610b2fabdf41170313"
+      },
+      "15": {
+        "source_ref": "Isaiah 13:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 15,
+            "source_ref": "Isaiah 13:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b2865d668950c226607e89ab052c1f77cbc236041e00b95c13eedb47e32d682b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b2865d668950c226607e89ab052c1f77cbc236041e00b95c13eedb47e32d682b"
+      },
+      "16": {
+        "source_ref": "Isaiah 13:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 16,
+            "source_ref": "Isaiah 13:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "42ca19dd5e6d4cddd9c8a681e4aca218f0e62a0123f434a626ae3869f8c6521d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42ca19dd5e6d4cddd9c8a681e4aca218f0e62a0123f434a626ae3869f8c6521d"
+      },
+      "17": {
+        "source_ref": "Isaiah 13:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 17,
+            "source_ref": "Isaiah 13:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "125b7a1aafda6dbf3282a7fb7a91ef25af3ed5d8ff5d268b13e1a7b556a3cb6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "125b7a1aafda6dbf3282a7fb7a91ef25af3ed5d8ff5d268b13e1a7b556a3cb6a"
+      },
+      "18": {
+        "source_ref": "Isaiah 13:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 18,
+            "source_ref": "Isaiah 13:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2f15f89824043501ef99a2a12f054fc905e15b6b2f0036d119306b471b260fc1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f15f89824043501ef99a2a12f054fc905e15b6b2f0036d119306b471b260fc1"
+      },
+      "19": {
+        "source_ref": "Isaiah 13:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 19,
+            "source_ref": "Isaiah 13:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e3af7bc84ae9dcfec7a7491b2cfe42c9b945242f73bb255a43e381212ebc4a11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e3af7bc84ae9dcfec7a7491b2cfe42c9b945242f73bb255a43e381212ebc4a11"
+      },
+      "20": {
+        "source_ref": "Isaiah 13:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 20,
+            "source_ref": "Isaiah 13:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e699c28dd1e662615d2acde837954825180bed087bb5b92522f487fd41ddd91b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e699c28dd1e662615d2acde837954825180bed087bb5b92522f487fd41ddd91b"
+      },
+      "21": {
+        "source_ref": "Isaiah 13:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 21,
+            "source_ref": "Isaiah 13:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "44de98fd63aee5671b2642771eb11a68191d5f52e2feb0ab67c7bf98f79f051c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44de98fd63aee5671b2642771eb11a68191d5f52e2feb0ab67c7bf98f79f051c"
+      },
+      "22": {
+        "source_ref": "Isaiah 13:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 22,
+            "source_ref": "Isaiah 13:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "91598994b95b882dee59574a70b6a3452418e4bf4ef0a85efe6909b6029d4fd1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91598994b95b882dee59574a70b6a3452418e4bf4ef0a85efe6909b6029d4fd1"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_13.md",
+    "blob_sha": "fd9ef848bc7d8bc9cd167c8ba884009eeb0c21f1"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

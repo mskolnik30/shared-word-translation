@@ -1,0 +1,126 @@
+{
+  "book": "Isaiah",
+  "chapter": 20,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 20:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 1,
+            "source_ref": "Isaiah 20:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "589c5efe5513c8a6861da10e557cd2f8701f299ddbb93c704c645fe4dbc8f342"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "589c5efe5513c8a6861da10e557cd2f8701f299ddbb93c704c645fe4dbc8f342"
+      },
+      "2": {
+        "source_ref": "Isaiah 20:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 2,
+            "source_ref": "Isaiah 20:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6683b74725ef087393baaa424e9afeb25965e559e8d0189f3bbc8983a88e8f6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6683b74725ef087393baaa424e9afeb25965e559e8d0189f3bbc8983a88e8f6a"
+      },
+      "3": {
+        "source_ref": "Isaiah 20:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 3,
+            "source_ref": "Isaiah 20:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "54a5d5cfc9f9bff21ed2a2c6408804524a7af1c1ec58494f80f53460ee94d1be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "54a5d5cfc9f9bff21ed2a2c6408804524a7af1c1ec58494f80f53460ee94d1be"
+      },
+      "4": {
+        "source_ref": "Isaiah 20:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 4,
+            "source_ref": "Isaiah 20:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "21abdc02aa681f43381b9d8d0578d2d94e2a58db605bcea7f17b0e9e34a05390"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "21abdc02aa681f43381b9d8d0578d2d94e2a58db605bcea7f17b0e9e34a05390"
+      },
+      "5": {
+        "source_ref": "Isaiah 20:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 5,
+            "source_ref": "Isaiah 20:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6d28b1566e8c0d82d05afa6625b2ae51bad495f692f5a1c0e968ba5b2bf3b51d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6d28b1566e8c0d82d05afa6625b2ae51bad495f692f5a1c0e968ba5b2bf3b51d"
+      },
+      "6": {
+        "source_ref": "Isaiah 20:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 20,
+            "verse": 6,
+            "source_ref": "Isaiah 20:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a06b80e89b41a4da69c84f84566d73a6f80a978c9db9eae47cdfc13488837532"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a06b80e89b41a4da69c84f84566d73a6f80a978c9db9eae47cdfc13488837532"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_20.md",
+    "blob_sha": "1585b6fd0c0159ab9b80cb1770051c43d5b4a0bb"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

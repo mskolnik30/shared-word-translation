@@ -1,0 +1,351 @@
+{
+  "book": "Isaiah",
+  "chapter": 26,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 26:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 1,
+            "source_ref": "Isaiah 26:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0e5b267d2904b9e2742fd15e6962911eff4a45acf4c4ae0d734b952e3920d725"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e5b267d2904b9e2742fd15e6962911eff4a45acf4c4ae0d734b952e3920d725"
+      },
+      "2": {
+        "source_ref": "Isaiah 26:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 2,
+            "source_ref": "Isaiah 26:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "81191090b26fe9aca0377d4109106d37daedeac518515bd7e9c21f14f72fd325"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81191090b26fe9aca0377d4109106d37daedeac518515bd7e9c21f14f72fd325"
+      },
+      "3": {
+        "source_ref": "Isaiah 26:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 3,
+            "source_ref": "Isaiah 26:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "049c3c262e13e09ca35acb0eb73c3ba032849c678946cc2934080ae3c3546380"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "049c3c262e13e09ca35acb0eb73c3ba032849c678946cc2934080ae3c3546380"
+      },
+      "4": {
+        "source_ref": "Isaiah 26:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 4,
+            "source_ref": "Isaiah 26:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ba11d15e0269e75ebf7d7842096e06b3bc4d1b1d9c7420c74fb49212a0656b8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba11d15e0269e75ebf7d7842096e06b3bc4d1b1d9c7420c74fb49212a0656b8a"
+      },
+      "5": {
+        "source_ref": "Isaiah 26:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 5,
+            "source_ref": "Isaiah 26:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4dd6937cbf697243fb5d5fa2de23ddaf695287b125bb24e3cc277e76cfeb8947"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4dd6937cbf697243fb5d5fa2de23ddaf695287b125bb24e3cc277e76cfeb8947"
+      },
+      "6": {
+        "source_ref": "Isaiah 26:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 6,
+            "source_ref": "Isaiah 26:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6bdb9654055e33e22c70a94697d9c73c81970b27f506545911f89bd07140aac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6bdb9654055e33e22c70a94697d9c73c81970b27f506545911f89bd07140aac"
+      },
+      "7": {
+        "source_ref": "Isaiah 26:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 7,
+            "source_ref": "Isaiah 26:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "93f0948af9684920506305e0564afc97c2cab6798716499b41ea34a62b51ea54"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93f0948af9684920506305e0564afc97c2cab6798716499b41ea34a62b51ea54"
+      },
+      "8": {
+        "source_ref": "Isaiah 26:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 8,
+            "source_ref": "Isaiah 26:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4cdc78c8740f45affdf91956fc3b47aa793ccbc583bc0bf87b0a89a4e49f5963"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4cdc78c8740f45affdf91956fc3b47aa793ccbc583bc0bf87b0a89a4e49f5963"
+      },
+      "9": {
+        "source_ref": "Isaiah 26:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 9,
+            "source_ref": "Isaiah 26:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "213855ccb7411fa5c9f721a656036e21f7a24d2276a47866fc83f1baa627bc3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "213855ccb7411fa5c9f721a656036e21f7a24d2276a47866fc83f1baa627bc3a"
+      },
+      "10": {
+        "source_ref": "Isaiah 26:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 10,
+            "source_ref": "Isaiah 26:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "42a85a40ec3673fbbcbf3b98959b6e464a04bb947aa7492aa08a43d62d0261fd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42a85a40ec3673fbbcbf3b98959b6e464a04bb947aa7492aa08a43d62d0261fd"
+      },
+      "11": {
+        "source_ref": "Isaiah 26:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 11,
+            "source_ref": "Isaiah 26:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eb784ce39ce5397f04c4c2bd9766b2045f61824886504bc680085d6f375a21c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb784ce39ce5397f04c4c2bd9766b2045f61824886504bc680085d6f375a21c6"
+      },
+      "12": {
+        "source_ref": "Isaiah 26:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 12,
+            "source_ref": "Isaiah 26:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "61e452ca0270de67284b87734fcad15962f192a14d4a9c396de9cd7c05ec6684"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "61e452ca0270de67284b87734fcad15962f192a14d4a9c396de9cd7c05ec6684"
+      },
+      "13": {
+        "source_ref": "Isaiah 26:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 13,
+            "source_ref": "Isaiah 26:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9e4f253c3520ac30c307a3ba4584df50a76f03d3716802688f08f53e79b03084"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e4f253c3520ac30c307a3ba4584df50a76f03d3716802688f08f53e79b03084"
+      },
+      "14": {
+        "source_ref": "Isaiah 26:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 14,
+            "source_ref": "Isaiah 26:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c2a6c9f1b470c0cdb5c3411a66430e791f2d22661fdc57ca9b2a956fda5f5ec9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c2a6c9f1b470c0cdb5c3411a66430e791f2d22661fdc57ca9b2a956fda5f5ec9"
+      },
+      "15": {
+        "source_ref": "Isaiah 26:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 15,
+            "source_ref": "Isaiah 26:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c436a539e8ea4ae26d404c6849b2aed46d49a5b797cd26579c19d3d8c6a3d2df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c436a539e8ea4ae26d404c6849b2aed46d49a5b797cd26579c19d3d8c6a3d2df"
+      },
+      "16": {
+        "source_ref": "Isaiah 26:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 16,
+            "source_ref": "Isaiah 26:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "178603e8bff746ee89e004c2af815c2f543b9dfbfb7d4809527dab872bc4ec43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "178603e8bff746ee89e004c2af815c2f543b9dfbfb7d4809527dab872bc4ec43"
+      },
+      "17": {
+        "source_ref": "Isaiah 26:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 17,
+            "source_ref": "Isaiah 26:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04efde607041001adac5fc59a4e1a142528ad1c64e2cc1df37aec280def71e47"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04efde607041001adac5fc59a4e1a142528ad1c64e2cc1df37aec280def71e47"
+      },
+      "18": {
+        "source_ref": "Isaiah 26:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 18,
+            "source_ref": "Isaiah 26:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b626375bbabe43d6b6ab6b4f3386106be0af83404114dbb5be1a9a48c746a6d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b626375bbabe43d6b6ab6b4f3386106be0af83404114dbb5be1a9a48c746a6d"
+      },
+      "19": {
+        "source_ref": "Isaiah 26:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 19,
+            "source_ref": "Isaiah 26:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "981c42cad62bedc176de8069c6b7cba02420e71ad2d8a6ec4c8624ed17501158"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "981c42cad62bedc176de8069c6b7cba02420e71ad2d8a6ec4c8624ed17501158"
+      },
+      "20": {
+        "source_ref": "Isaiah 26:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 20,
+            "source_ref": "Isaiah 26:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0bf8c46dc506f7c225df0a0eb0d5159b93a95c910d9764978e7275839f5fed51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0bf8c46dc506f7c225df0a0eb0d5159b93a95c910d9764978e7275839f5fed51"
+      },
+      "21": {
+        "source_ref": "Isaiah 26:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 21,
+            "source_ref": "Isaiah 26:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d859d1d36efc423e2c9c14536c6195b8e034ab939cba32468f6231795e1be644"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d859d1d36efc423e2c9c14536c6195b8e034ab939cba32468f6231795e1be644"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_26.md",
+    "blob_sha": "fbc97a4073fe5dd7f08917dc03672e405bc1351b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

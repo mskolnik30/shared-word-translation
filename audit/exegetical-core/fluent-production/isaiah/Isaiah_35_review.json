@@ -1,0 +1,186 @@
+{
+  "book": "Isaiah",
+  "chapter": 35,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 35:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 1,
+            "source_ref": "Isaiah 35:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9db07d10c71066b708138c637389bd1bf37bb28dcbaf655e2cb0db1b34bdd1bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9db07d10c71066b708138c637389bd1bf37bb28dcbaf655e2cb0db1b34bdd1bd"
+      },
+      "2": {
+        "source_ref": "Isaiah 35:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 2,
+            "source_ref": "Isaiah 35:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aae9a7515c582afa6773cf8d2bf50bf67965cd3d665bcd5215df46d8ac37dc0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aae9a7515c582afa6773cf8d2bf50bf67965cd3d665bcd5215df46d8ac37dc0f"
+      },
+      "3": {
+        "source_ref": "Isaiah 35:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 3,
+            "source_ref": "Isaiah 35:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e028bcda54c173f6d15a4b4e3d6145bba60758a1e3375347fcff86513b655e4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e028bcda54c173f6d15a4b4e3d6145bba60758a1e3375347fcff86513b655e4a"
+      },
+      "4": {
+        "source_ref": "Isaiah 35:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 4,
+            "source_ref": "Isaiah 35:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71074bc0ee3b29dc33424be40813d3691947a22add656097b40d4a0db69d2c1d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71074bc0ee3b29dc33424be40813d3691947a22add656097b40d4a0db69d2c1d"
+      },
+      "5": {
+        "source_ref": "Isaiah 35:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 5,
+            "source_ref": "Isaiah 35:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d0742be421f0aab1f85369754ba631f890fb24a19a7675f530aca15d7dbe6138"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0742be421f0aab1f85369754ba631f890fb24a19a7675f530aca15d7dbe6138"
+      },
+      "6": {
+        "source_ref": "Isaiah 35:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 6,
+            "source_ref": "Isaiah 35:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd8cfad558a4dee2cdf6e87a236f5abc8227b1d275c87e5488abf4b5fa4b4fde"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd8cfad558a4dee2cdf6e87a236f5abc8227b1d275c87e5488abf4b5fa4b4fde"
+      },
+      "7": {
+        "source_ref": "Isaiah 35:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 7,
+            "source_ref": "Isaiah 35:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8e781ab92c5707e3629b2e1d35cc24746f68f8503c8cfe9dd0afe1d933001365"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e781ab92c5707e3629b2e1d35cc24746f68f8503c8cfe9dd0afe1d933001365"
+      },
+      "8": {
+        "source_ref": "Isaiah 35:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 8,
+            "source_ref": "Isaiah 35:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c6b13b454d2c86b03decda5b1cbc3b61299bf50be2532d8a954ec7b2b0a890c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c6b13b454d2c86b03decda5b1cbc3b61299bf50be2532d8a954ec7b2b0a890c"
+      },
+      "9": {
+        "source_ref": "Isaiah 35:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 9,
+            "source_ref": "Isaiah 35:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb2d256d6821b890b7bcde012269de0da6d9f77538c16739e08519ee5788e1c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb2d256d6821b890b7bcde012269de0da6d9f77538c16739e08519ee5788e1c1"
+      },
+      "10": {
+        "source_ref": "Isaiah 35:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 10,
+            "source_ref": "Isaiah 35:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "863335ec429cb9f3f514eb76d7a218c34feeb01627ff8bcf1d885e92ebebf33b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "863335ec429cb9f3f514eb76d7a218c34feeb01627ff8bcf1d885e92ebebf33b"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_35.md",
+    "blob_sha": "e3bdb37702e5d33251b97ca854a43792b10d94b5"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

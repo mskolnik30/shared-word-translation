@@ -1,0 +1,261 @@
+{
+  "book": "Isaiah",
+  "chapter": 52,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 52:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 1,
+            "source_ref": "Isaiah 52:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72bb6ad63bc030cf7bc5a16416b66c8560f380f2bed4f1e40b751571347a5df0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72bb6ad63bc030cf7bc5a16416b66c8560f380f2bed4f1e40b751571347a5df0"
+      },
+      "2": {
+        "source_ref": "Isaiah 52:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 2,
+            "source_ref": "Isaiah 52:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca8cc22027a6ea35b557b6a30efba4bf6d194354279c5f994260768704e61c30"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca8cc22027a6ea35b557b6a30efba4bf6d194354279c5f994260768704e61c30"
+      },
+      "3": {
+        "source_ref": "Isaiah 52:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 3,
+            "source_ref": "Isaiah 52:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c7ec9d357858f8613bd8bec0771add3b6e562f508c68cdc20ad99e19f344e7e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c7ec9d357858f8613bd8bec0771add3b6e562f508c68cdc20ad99e19f344e7e"
+      },
+      "4": {
+        "source_ref": "Isaiah 52:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 4,
+            "source_ref": "Isaiah 52:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "306d30300fac2aa41cc998dffa5993bf612954d24993f688c45c3f83a09f5c7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "306d30300fac2aa41cc998dffa5993bf612954d24993f688c45c3f83a09f5c7f"
+      },
+      "5": {
+        "source_ref": "Isaiah 52:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 5,
+            "source_ref": "Isaiah 52:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3da68779a8d404078a845eb40d4e060c2fcaa1df82434b14a8f18c4036b25a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3da68779a8d404078a845eb40d4e060c2fcaa1df82434b14a8f18c4036b25a0"
+      },
+      "6": {
+        "source_ref": "Isaiah 52:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 6,
+            "source_ref": "Isaiah 52:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "037dad9639b78dd6801557ba6de99f9148cc606f2fd336e7ccd0c8cd5090c50c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "037dad9639b78dd6801557ba6de99f9148cc606f2fd336e7ccd0c8cd5090c50c"
+      },
+      "7": {
+        "source_ref": "Isaiah 52:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 7,
+            "source_ref": "Isaiah 52:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27a90e5ea86bc46db94a1df7c7dd979e2d04f39553384607f02e4206204e7b0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27a90e5ea86bc46db94a1df7c7dd979e2d04f39553384607f02e4206204e7b0d"
+      },
+      "8": {
+        "source_ref": "Isaiah 52:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 8,
+            "source_ref": "Isaiah 52:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2291851a826e1ca5005abc5030a96a221d310804cb38b87f4778623fd9447f1a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2291851a826e1ca5005abc5030a96a221d310804cb38b87f4778623fd9447f1a"
+      },
+      "9": {
+        "source_ref": "Isaiah 52:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 9,
+            "source_ref": "Isaiah 52:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "08cd0ceeedfb88d2e90c980ee3baf6db15e575cfd6a3038b1ca17fe40f8996a0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "08cd0ceeedfb88d2e90c980ee3baf6db15e575cfd6a3038b1ca17fe40f8996a0"
+      },
+      "10": {
+        "source_ref": "Isaiah 52:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 10,
+            "source_ref": "Isaiah 52:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "155502fb9b3743044608a5de22d5aca0236d36bd2ee514531113fe632ff2a6cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "155502fb9b3743044608a5de22d5aca0236d36bd2ee514531113fe632ff2a6cf"
+      },
+      "11": {
+        "source_ref": "Isaiah 52:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 11,
+            "source_ref": "Isaiah 52:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "100c55887640cad529e95bf1604a4e027329cc55cba229dec981cbe9b41c3e11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "100c55887640cad529e95bf1604a4e027329cc55cba229dec981cbe9b41c3e11"
+      },
+      "12": {
+        "source_ref": "Isaiah 52:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 12,
+            "source_ref": "Isaiah 52:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "87de69230038a3812957eba49234b52cf387434b9da29fea8ad2cf0621791b2f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "87de69230038a3812957eba49234b52cf387434b9da29fea8ad2cf0621791b2f"
+      },
+      "13": {
+        "source_ref": "Isaiah 52:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 13,
+            "source_ref": "Isaiah 52:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04e94f45013c7ce402c4aff666128bde265609fa8c17522c078ae50865a8a683"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04e94f45013c7ce402c4aff666128bde265609fa8c17522c078ae50865a8a683"
+      },
+      "14": {
+        "source_ref": "Isaiah 52:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 14,
+            "source_ref": "Isaiah 52:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb0e531dabe008412649c84267e8a912aaab9a45495b193d6476d5caeddd5545"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb0e531dabe008412649c84267e8a912aaab9a45495b193d6476d5caeddd5545"
+      },
+      "15": {
+        "source_ref": "Isaiah 52:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 52,
+            "verse": 15,
+            "source_ref": "Isaiah 52:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f5a4b9cdc7f617796ef9e3de43907bb1e4133274b303ff0ab81e7d8312a15b46"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5a4b9cdc7f617796ef9e3de43907bb1e4133274b303ff0ab81e7d8312a15b46"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_52.md",
+    "blob_sha": "513f904904aea7baa56a98aad3a898f6a9bddf80"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

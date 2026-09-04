@@ -1,0 +1,456 @@
+{
+  "book": "Isaiah",
+  "chapter": 43,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 43:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 1,
+            "source_ref": "Isaiah 43:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c63579e628b9c316233e30aa4771de9290c0e5d6a6e014a84e20c27a7dc8b18e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c63579e628b9c316233e30aa4771de9290c0e5d6a6e014a84e20c27a7dc8b18e"
+      },
+      "2": {
+        "source_ref": "Isaiah 43:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 2,
+            "source_ref": "Isaiah 43:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a655cfa8f30ddef8ed95c6d308f5cbeae081f453fa0b30ff9506fa97e02f79b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a655cfa8f30ddef8ed95c6d308f5cbeae081f453fa0b30ff9506fa97e02f79b4"
+      },
+      "3": {
+        "source_ref": "Isaiah 43:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 3,
+            "source_ref": "Isaiah 43:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e64b9071b2fc0ce73779385df1fb1b5275a11f0971085eecd339bf4ce336e599"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e64b9071b2fc0ce73779385df1fb1b5275a11f0971085eecd339bf4ce336e599"
+      },
+      "4": {
+        "source_ref": "Isaiah 43:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 4,
+            "source_ref": "Isaiah 43:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f221d7ca8e6385fe818291d61b35f3ad9c8f71a21ef18f5e5d5d49ae98b801cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f221d7ca8e6385fe818291d61b35f3ad9c8f71a21ef18f5e5d5d49ae98b801cf"
+      },
+      "5": {
+        "source_ref": "Isaiah 43:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 5,
+            "source_ref": "Isaiah 43:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0e57fc0f8b4924f9176be30dae15f53044ed6b46ee2a90f63da2e13a31c14938"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e57fc0f8b4924f9176be30dae15f53044ed6b46ee2a90f63da2e13a31c14938"
+      },
+      "6": {
+        "source_ref": "Isaiah 43:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 6,
+            "source_ref": "Isaiah 43:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f2ebde0b6c1a237a914db73203615f07b207d57d04831f29700f629db4e76b7c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2ebde0b6c1a237a914db73203615f07b207d57d04831f29700f629db4e76b7c"
+      },
+      "7": {
+        "source_ref": "Isaiah 43:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 7,
+            "source_ref": "Isaiah 43:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "713f548d2acf8f36b6e2037d402f34349acc8246d22b1d73267368cfd54b81b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "713f548d2acf8f36b6e2037d402f34349acc8246d22b1d73267368cfd54b81b3"
+      },
+      "8": {
+        "source_ref": "Isaiah 43:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 8,
+            "source_ref": "Isaiah 43:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "358c229310b2ec8e1f3e6b24f93dde878b8d241b02a375d05a646755088f6c87"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "358c229310b2ec8e1f3e6b24f93dde878b8d241b02a375d05a646755088f6c87"
+      },
+      "9": {
+        "source_ref": "Isaiah 43:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 9,
+            "source_ref": "Isaiah 43:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5c5c6f593b7731e5adf7e68a588b3ef3f6c7c921825595dcb6f5b1b3afefbeda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c5c6f593b7731e5adf7e68a588b3ef3f6c7c921825595dcb6f5b1b3afefbeda"
+      },
+      "10": {
+        "source_ref": "Isaiah 43:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 10,
+            "source_ref": "Isaiah 43:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e8e96a8d9f05a02c2eb383ced1674ee79a0d110eda05452915e7eb48a40eadbd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8e96a8d9f05a02c2eb383ced1674ee79a0d110eda05452915e7eb48a40eadbd"
+      },
+      "11": {
+        "source_ref": "Isaiah 43:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 11,
+            "source_ref": "Isaiah 43:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "30f5ecbff2e7ca95c3f5a74bef827d8921cc233229dc436844cdf07616b82260"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "30f5ecbff2e7ca95c3f5a74bef827d8921cc233229dc436844cdf07616b82260"
+      },
+      "12": {
+        "source_ref": "Isaiah 43:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 12,
+            "source_ref": "Isaiah 43:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8bc39a8f8dc1b89393e90067c48a691c33c23d82deb5e91835c911a4b13240f5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8bc39a8f8dc1b89393e90067c48a691c33c23d82deb5e91835c911a4b13240f5"
+      },
+      "13": {
+        "source_ref": "Isaiah 43:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 13,
+            "source_ref": "Isaiah 43:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "825e2efaced1152375ab0f947157cbc97d637f106e9ef4aac93d342071bd1cf5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "825e2efaced1152375ab0f947157cbc97d637f106e9ef4aac93d342071bd1cf5"
+      },
+      "14": {
+        "source_ref": "Isaiah 43:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 14,
+            "source_ref": "Isaiah 43:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c50b751dd1a9ea6d633d37fc57c593a195faf1c4409222989a811310539b8771"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c50b751dd1a9ea6d633d37fc57c593a195faf1c4409222989a811310539b8771"
+      },
+      "15": {
+        "source_ref": "Isaiah 43:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 15,
+            "source_ref": "Isaiah 43:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9973427594419bc0827b490649864f5f4e07e5c9c7c8879a3d6f5cd7f9f2d10e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9973427594419bc0827b490649864f5f4e07e5c9c7c8879a3d6f5cd7f9f2d10e"
+      },
+      "16": {
+        "source_ref": "Isaiah 43:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 16,
+            "source_ref": "Isaiah 43:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eb446149fe3f09ae73d048169b9caadfa809b2f41dac27388c17b88af7f4c241"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb446149fe3f09ae73d048169b9caadfa809b2f41dac27388c17b88af7f4c241"
+      },
+      "17": {
+        "source_ref": "Isaiah 43:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 17,
+            "source_ref": "Isaiah 43:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "db865bdb8ef4e66b0c7b76653f974da12651868b62fe9c115158b126b171eeb1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db865bdb8ef4e66b0c7b76653f974da12651868b62fe9c115158b126b171eeb1"
+      },
+      "18": {
+        "source_ref": "Isaiah 43:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 18,
+            "source_ref": "Isaiah 43:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "020fbbc4beeb15b263ee1dbd6777aee9891f9ca46e02b7e6267e01048d70e52b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "020fbbc4beeb15b263ee1dbd6777aee9891f9ca46e02b7e6267e01048d70e52b"
+      },
+      "19": {
+        "source_ref": "Isaiah 43:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 19,
+            "source_ref": "Isaiah 43:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d575d3108fe9f8bcedd2ceba112abda369f5f499f863785446040c854a63ee73"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d575d3108fe9f8bcedd2ceba112abda369f5f499f863785446040c854a63ee73"
+      },
+      "20": {
+        "source_ref": "Isaiah 43:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 20,
+            "source_ref": "Isaiah 43:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "31a1e87b5b3bea06a6613fe70a062584f9c6be1646759d631063c2417c58b6d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "31a1e87b5b3bea06a6613fe70a062584f9c6be1646759d631063c2417c58b6d3"
+      },
+      "21": {
+        "source_ref": "Isaiah 43:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 21,
+            "source_ref": "Isaiah 43:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ac13f12194d673f000eb2b10075c2eed9c97837d364eb60cedf776d4244cc705"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac13f12194d673f000eb2b10075c2eed9c97837d364eb60cedf776d4244cc705"
+      },
+      "22": {
+        "source_ref": "Isaiah 43:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 22,
+            "source_ref": "Isaiah 43:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3158729bdd7f8e29e38bc9f94fa9564bddbec2816d2434c667e82cee09380afa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3158729bdd7f8e29e38bc9f94fa9564bddbec2816d2434c667e82cee09380afa"
+      },
+      "23": {
+        "source_ref": "Isaiah 43:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 23,
+            "source_ref": "Isaiah 43:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a3117c41eb353826a104600685e46bf54a522c36bd68b09948c46173066ca614"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3117c41eb353826a104600685e46bf54a522c36bd68b09948c46173066ca614"
+      },
+      "24": {
+        "source_ref": "Isaiah 43:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 24,
+            "source_ref": "Isaiah 43:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8a97f8d579e9aa4abdc5a147ae85aac5190f2ad6ca083ce3a7a0d1131db75765"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8a97f8d579e9aa4abdc5a147ae85aac5190f2ad6ca083ce3a7a0d1131db75765"
+      },
+      "25": {
+        "source_ref": "Isaiah 43:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 25,
+            "source_ref": "Isaiah 43:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45c487064903ad054e67d50ffc74782f8abfe5fdae78efdfb64040d3ab83d3e7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45c487064903ad054e67d50ffc74782f8abfe5fdae78efdfb64040d3ab83d3e7"
+      },
+      "26": {
+        "source_ref": "Isaiah 43:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 26,
+            "source_ref": "Isaiah 43:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ce85169863449b8eca15fdfadbec46952387b4ce4e96d64d099c1758ab0cfc4c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce85169863449b8eca15fdfadbec46952387b4ce4e96d64d099c1758ab0cfc4c"
+      },
+      "27": {
+        "source_ref": "Isaiah 43:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 27,
+            "source_ref": "Isaiah 43:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1454a3de4f8ff79b177b69183fee3032009528031839507774ae564b55a1f448"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1454a3de4f8ff79b177b69183fee3032009528031839507774ae564b55a1f448"
+      },
+      "28": {
+        "source_ref": "Isaiah 43:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 43,
+            "verse": 28,
+            "source_ref": "Isaiah 43:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d1e4ea7808908f5c129b1e61c750ffbffab2115423848434e339f3b9051ff42f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d1e4ea7808908f5c129b1e61c750ffbffab2115423848434e339f3b9051ff42f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_43.md",
+    "blob_sha": "c9306ef139bba9d93138b9ab09f8f451e7b00556"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

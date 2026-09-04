@@ -1,0 +1,246 @@
+{
+  "book": "Isaiah",
+  "chapter": 16,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 16:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 1,
+            "source_ref": "Isaiah 16:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "daab13c0c68c31b0f682af85ccf2cdc5da421ddbd54015349f083e3daf599557"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "daab13c0c68c31b0f682af85ccf2cdc5da421ddbd54015349f083e3daf599557"
+      },
+      "2": {
+        "source_ref": "Isaiah 16:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 2,
+            "source_ref": "Isaiah 16:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "96f351495f29deb1b5e7b3b92e3455e1bd6fef5669f6583190d6b365186937c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96f351495f29deb1b5e7b3b92e3455e1bd6fef5669f6583190d6b365186937c2"
+      },
+      "3": {
+        "source_ref": "Isaiah 16:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 3,
+            "source_ref": "Isaiah 16:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5988b6a79e8252697159aca82109e77abe8e8348183f8eebd291a7503698a761"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5988b6a79e8252697159aca82109e77abe8e8348183f8eebd291a7503698a761"
+      },
+      "4": {
+        "source_ref": "Isaiah 16:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 4,
+            "source_ref": "Isaiah 16:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "deeb9bde1d930fdab121445c25f0b046dbb113f1e8fa93d1e4eed62df1101821"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "deeb9bde1d930fdab121445c25f0b046dbb113f1e8fa93d1e4eed62df1101821"
+      },
+      "5": {
+        "source_ref": "Isaiah 16:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 5,
+            "source_ref": "Isaiah 16:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "be2ef8372bb431afcc7ed37709e79dfac12af59edfdc8013ac53a884f5d6883e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be2ef8372bb431afcc7ed37709e79dfac12af59edfdc8013ac53a884f5d6883e"
+      },
+      "6": {
+        "source_ref": "Isaiah 16:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 6,
+            "source_ref": "Isaiah 16:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1a3d8a7963ad407967c6a79457fc61d61d03ca7427b9379fc6ab955187e56ad6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a3d8a7963ad407967c6a79457fc61d61d03ca7427b9379fc6ab955187e56ad6"
+      },
+      "7": {
+        "source_ref": "Isaiah 16:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 7,
+            "source_ref": "Isaiah 16:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0570157ee4908183e87c7c2b93bbab9df415cd5e04b27f636da0bcdb91d5e343"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0570157ee4908183e87c7c2b93bbab9df415cd5e04b27f636da0bcdb91d5e343"
+      },
+      "8": {
+        "source_ref": "Isaiah 16:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 8,
+            "source_ref": "Isaiah 16:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01c8d4013584ccdbcfadeaa1e9dfe745fa63f5a48e03bbcd5bc0e28f4a9c1c82"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01c8d4013584ccdbcfadeaa1e9dfe745fa63f5a48e03bbcd5bc0e28f4a9c1c82"
+      },
+      "9": {
+        "source_ref": "Isaiah 16:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 9,
+            "source_ref": "Isaiah 16:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e263542c86a008e2756d1b3488d1085eafa753da9559ae70d6949a658b7b3a8e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e263542c86a008e2756d1b3488d1085eafa753da9559ae70d6949a658b7b3a8e"
+      },
+      "10": {
+        "source_ref": "Isaiah 16:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 10,
+            "source_ref": "Isaiah 16:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f4ab64da3c82cdba5964a17a782f8597966bad1e4609c3d3450b4342b961cb89"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4ab64da3c82cdba5964a17a782f8597966bad1e4609c3d3450b4342b961cb89"
+      },
+      "11": {
+        "source_ref": "Isaiah 16:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 11,
+            "source_ref": "Isaiah 16:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3db28dd5548925406a7b388ef91bc84fa9b42ec19d8eaf6f6d5247a02d950ae8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3db28dd5548925406a7b388ef91bc84fa9b42ec19d8eaf6f6d5247a02d950ae8"
+      },
+      "12": {
+        "source_ref": "Isaiah 16:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 12,
+            "source_ref": "Isaiah 16:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d5b5310b58cac621c0d137ea6924a69171cfa5b80d46b4804cb8122126f5b228"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d5b5310b58cac621c0d137ea6924a69171cfa5b80d46b4804cb8122126f5b228"
+      },
+      "13": {
+        "source_ref": "Isaiah 16:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 13,
+            "source_ref": "Isaiah 16:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "028cfb17b12ad322984049d79c83f9e48dabe778dfb2d53991ad78febbc174c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "028cfb17b12ad322984049d79c83f9e48dabe778dfb2d53991ad78febbc174c8"
+      },
+      "14": {
+        "source_ref": "Isaiah 16:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 14,
+            "source_ref": "Isaiah 16:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2a143ffac7fd484badf2b59635b5166967ae6181f58c545242ff9128dc175e02"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2a143ffac7fd484badf2b59635b5166967ae6181f58c545242ff9128dc175e02"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_16.md",
+    "blob_sha": "b99027981e32dbf9318d2b230d536873b4713e90"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

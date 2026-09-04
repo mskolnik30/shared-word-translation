@@ -1,0 +1,126 @@
+{
+  "book": "Isaiah",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 4:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "Isaiah 4:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc418cdb7080af7827c8a08eab13bb3a17704cba3f9270c94af3cb928a72e4e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc418cdb7080af7827c8a08eab13bb3a17704cba3f9270c94af3cb928a72e4e4"
+      },
+      "2": {
+        "source_ref": "Isaiah 4:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "Isaiah 4:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fdca26ea9e28eaa63825286d4127cdc03be832d1dc961e2700840dd1547e6b85"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fdca26ea9e28eaa63825286d4127cdc03be832d1dc961e2700840dd1547e6b85"
+      },
+      "3": {
+        "source_ref": "Isaiah 4:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "Isaiah 4:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6018bd505a66bedc5762049af3eb8f5e6fe7040246b78d00bbbdbcefb2c5ae20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6018bd505a66bedc5762049af3eb8f5e6fe7040246b78d00bbbdbcefb2c5ae20"
+      },
+      "4": {
+        "source_ref": "Isaiah 4:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "Isaiah 4:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "25eb697f3eeb6ad57244825e26256ce8885e8c9038a90c4ffb18dd111e9f2ec8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25eb697f3eeb6ad57244825e26256ce8885e8c9038a90c4ffb18dd111e9f2ec8"
+      },
+      "5": {
+        "source_ref": "Isaiah 4:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "Isaiah 4:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ef34ee9684bb3ba4d8f2afc2f462de77c05f58c17020b9027bbcc8d0bb850614"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef34ee9684bb3ba4d8f2afc2f462de77c05f58c17020b9027bbcc8d0bb850614"
+      },
+      "6": {
+        "source_ref": "Isaiah 4:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "Isaiah 4:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2e29ce2eae02860e7c6581e32cdb4164a1d509c0ab93355b4d8eb876733df001"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e29ce2eae02860e7c6581e32cdb4164a1d509c0ab93355b4d8eb876733df001"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_04.md",
+    "blob_sha": "0213a322657d57755c8dc2e90a0617124306af30"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

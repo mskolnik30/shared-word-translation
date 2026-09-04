@@ -1,0 +1,327 @@
+{
+  "book": "Isaiah",
+  "chapter": 63,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "63:19-64:1",
+      "decision": "Document the Hebrew 63:19 internal split that binds public Isaiah 63:19 and 64:1.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 63:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 1,
+            "source_ref": "Isaiah 63:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "37a231c15766e977279a2a06ff993b7c3fc2d5505d94090d47d7caa1ef7d6d11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37a231c15766e977279a2a06ff993b7c3fc2d5505d94090d47d7caa1ef7d6d11"
+      },
+      "2": {
+        "source_ref": "Isaiah 63:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 2,
+            "source_ref": "Isaiah 63:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7fc4708d2ed20c7a90c95f901bea7aa227a733ca2372ea5c5748307a283a7927"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7fc4708d2ed20c7a90c95f901bea7aa227a733ca2372ea5c5748307a283a7927"
+      },
+      "3": {
+        "source_ref": "Isaiah 63:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 3,
+            "source_ref": "Isaiah 63:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e769d19b49e748ad6a95647e158b6b3944f0d1d5217053495177e7158d26099e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e769d19b49e748ad6a95647e158b6b3944f0d1d5217053495177e7158d26099e"
+      },
+      "4": {
+        "source_ref": "Isaiah 63:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 4,
+            "source_ref": "Isaiah 63:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5e19b98fb76e23419bd7c78cc674f7ebd314400214c19fd42b1bbbe430ee652c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e19b98fb76e23419bd7c78cc674f7ebd314400214c19fd42b1bbbe430ee652c"
+      },
+      "5": {
+        "source_ref": "Isaiah 63:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 5,
+            "source_ref": "Isaiah 63:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ccc0d0221c81928949983911263edbd5ead67629cf3640c6274582490a721832"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ccc0d0221c81928949983911263edbd5ead67629cf3640c6274582490a721832"
+      },
+      "6": {
+        "source_ref": "Isaiah 63:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 6,
+            "source_ref": "Isaiah 63:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7edbc89d7872c86f37d0ccb3a99213df4272cb05788abe6c0f4821c4f79f3c25"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7edbc89d7872c86f37d0ccb3a99213df4272cb05788abe6c0f4821c4f79f3c25"
+      },
+      "7": {
+        "source_ref": "Isaiah 63:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 7,
+            "source_ref": "Isaiah 63:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0bb55316182068e397f21478fa300aa836edb8b35115b6a09f9f39f1614ad421"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0bb55316182068e397f21478fa300aa836edb8b35115b6a09f9f39f1614ad421"
+      },
+      "8": {
+        "source_ref": "Isaiah 63:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 8,
+            "source_ref": "Isaiah 63:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "86e9a773678af26921d1379758b1e4edace505241cdfbcd23487edfd5a305909"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "86e9a773678af26921d1379758b1e4edace505241cdfbcd23487edfd5a305909"
+      },
+      "9": {
+        "source_ref": "Isaiah 63:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 9,
+            "source_ref": "Isaiah 63:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "476162ad00fe673e2c5c36d6cd11a0876c5679c5d2007b18e5f3e9176a614b32"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "476162ad00fe673e2c5c36d6cd11a0876c5679c5d2007b18e5f3e9176a614b32"
+      },
+      "10": {
+        "source_ref": "Isaiah 63:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 10,
+            "source_ref": "Isaiah 63:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "33f956270c5fb42eeedae76924cdd09391220de14af9f742326bff4b02e4e1f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "33f956270c5fb42eeedae76924cdd09391220de14af9f742326bff4b02e4e1f9"
+      },
+      "11": {
+        "source_ref": "Isaiah 63:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 11,
+            "source_ref": "Isaiah 63:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "770cfe3969ac860d18fd5605cf034d7389dc557ed8a64b15f7baa3878c2b3ae6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "770cfe3969ac860d18fd5605cf034d7389dc557ed8a64b15f7baa3878c2b3ae6"
+      },
+      "12": {
+        "source_ref": "Isaiah 63:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 12,
+            "source_ref": "Isaiah 63:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2e3331ec3388ab6237e512cd021280464bcecbe039f34b3f2a1262abaf5763cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e3331ec3388ab6237e512cd021280464bcecbe039f34b3f2a1262abaf5763cb"
+      },
+      "13": {
+        "source_ref": "Isaiah 63:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 13,
+            "source_ref": "Isaiah 63:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "10733104f0342920415ca4e0a9fe9ad321dc9b768427ccbd481f2082a0060b6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10733104f0342920415ca4e0a9fe9ad321dc9b768427ccbd481f2082a0060b6a"
+      },
+      "14": {
+        "source_ref": "Isaiah 63:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 14,
+            "source_ref": "Isaiah 63:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9b5c5f0811cba713a94c0d29e30e6aebf85028cfc2f3bdcd8d97977022d489d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b5c5f0811cba713a94c0d29e30e6aebf85028cfc2f3bdcd8d97977022d489d3"
+      },
+      "15": {
+        "source_ref": "Isaiah 63:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 15,
+            "source_ref": "Isaiah 63:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9911299c9b7180c7c845c5a37ee7bea942e1733ba12a30214273f1c36b1bbc2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9911299c9b7180c7c845c5a37ee7bea942e1733ba12a30214273f1c36b1bbc2c"
+      },
+      "16": {
+        "source_ref": "Isaiah 63:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 16,
+            "source_ref": "Isaiah 63:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "79c24e93db57442b3956d82f9e2352ac4d0fe50d582b64a84905838c0cc0f4a3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "79c24e93db57442b3956d82f9e2352ac4d0fe50d582b64a84905838c0cc0f4a3"
+      },
+      "17": {
+        "source_ref": "Isaiah 63:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 17,
+            "source_ref": "Isaiah 63:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ea3245bfa4f9dfd0ecb54289bda98bc9fb523dfa3423aaebac230615c53ff5bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ea3245bfa4f9dfd0ecb54289bda98bc9fb523dfa3423aaebac230615c53ff5bf"
+      },
+      "18": {
+        "source_ref": "Isaiah 63:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 18,
+            "source_ref": "Isaiah 63:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d6949276dea07963f112b0f58d9449baabd35652014d2540738e21e862c7ca01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6949276dea07963f112b0f58d9449baabd35652014d2540738e21e862c7ca01"
+      },
+      "19": {
+        "source_ref": "Isaiah 63:19 (Hebrew; before kjv marker)",
+        "source_records": [
+          {
+            "chapter": 63,
+            "verse": 19,
+            "source_ref": "Isaiah 63:19 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "3f2e237ac89eb8caadc0b8b487de4148e7778924669bc7748b099b63ac928c07"
+          }
+        ],
+        "segment_mode": "before_kjv_marker",
+        "sha256": "3f2e237ac89eb8caadc0b8b487de4148e7778924669bc7748b099b63ac928c07"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_63.md",
+    "blob_sha": "ad6f0a388138fe3d4fed1a7247a873effa6a5fc0"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

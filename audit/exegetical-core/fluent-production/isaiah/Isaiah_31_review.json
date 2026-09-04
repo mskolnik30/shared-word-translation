@@ -1,0 +1,171 @@
+{
+  "book": "Isaiah",
+  "chapter": 31,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 31:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 1,
+            "source_ref": "Isaiah 31:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9dcccc74207f1555c3c2cba465f1db2e3dcddf07875de94bc779b7bc5ccfc179"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9dcccc74207f1555c3c2cba465f1db2e3dcddf07875de94bc779b7bc5ccfc179"
+      },
+      "2": {
+        "source_ref": "Isaiah 31:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 2,
+            "source_ref": "Isaiah 31:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9a789463eaa355eb08eed5424d7609d828e8879ac9f2f0c96eaec995126778fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9a789463eaa355eb08eed5424d7609d828e8879ac9f2f0c96eaec995126778fb"
+      },
+      "3": {
+        "source_ref": "Isaiah 31:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 3,
+            "source_ref": "Isaiah 31:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cf8ce28b88f7d6f540428f44375aa84b86d87079b98151a8e70544dfe93c4c9e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cf8ce28b88f7d6f540428f44375aa84b86d87079b98151a8e70544dfe93c4c9e"
+      },
+      "4": {
+        "source_ref": "Isaiah 31:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 4,
+            "source_ref": "Isaiah 31:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd59c7d0eed23f296e61862e544619214f8201a824fa301fee730ffbe42d4b03"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd59c7d0eed23f296e61862e544619214f8201a824fa301fee730ffbe42d4b03"
+      },
+      "5": {
+        "source_ref": "Isaiah 31:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 5,
+            "source_ref": "Isaiah 31:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "aafdd93f04cfd199b95e2614586d325596398b12d21571895b728ea6a56c2dc0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aafdd93f04cfd199b95e2614586d325596398b12d21571895b728ea6a56c2dc0"
+      },
+      "6": {
+        "source_ref": "Isaiah 31:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 6,
+            "source_ref": "Isaiah 31:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "da0c7af58cafa22ecd3db0aab37a5150e61d7fa54280c9f925f8879e13befd45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da0c7af58cafa22ecd3db0aab37a5150e61d7fa54280c9f925f8879e13befd45"
+      },
+      "7": {
+        "source_ref": "Isaiah 31:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 7,
+            "source_ref": "Isaiah 31:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f4bbf0879240dd5b44189c31a3b113d05cca29f908fe0d68ded88523f538c6b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f4bbf0879240dd5b44189c31a3b113d05cca29f908fe0d68ded88523f538c6b"
+      },
+      "8": {
+        "source_ref": "Isaiah 31:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 8,
+            "source_ref": "Isaiah 31:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d7241a8396c359a4d68e3f93d853db31ed58adce997c7d46794f9590ae6fd919"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7241a8396c359a4d68e3f93d853db31ed58adce997c7d46794f9590ae6fd919"
+      },
+      "9": {
+        "source_ref": "Isaiah 31:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 9,
+            "source_ref": "Isaiah 31:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ef440e18285c798fe4559e255d8e895b9ee8e3b070d5bf58d5f6745d7f667c5c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef440e18285c798fe4559e255d8e895b9ee8e3b070d5bf58d5f6745d7f667c5c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_31.md",
+    "blob_sha": "e23b628b6036e6cb85d1819ae8ec7fabca492c86"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

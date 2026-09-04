@@ -1,0 +1,351 @@
+{
+  "book": "Isaiah",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Isa.xml",
+    "git_blob_sha": "6c225451d5a382177eb68d548a320a440a12b8b9",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Isaiah 8:23 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 23,
+            "source_ref": "Isaiah 8:23 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ecbc8da8aa588a4311a1f0a2a746f90154125887b0de5187d12c4a88194b8021"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ecbc8da8aa588a4311a1f0a2a746f90154125887b0de5187d12c4a88194b8021"
+      },
+      "2": {
+        "source_ref": "Isaiah 9:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Isaiah 9:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "64e3ec752777c022fb7f8877d3038d71671d342b8c10326a0650cd65f6ef2856"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "64e3ec752777c022fb7f8877d3038d71671d342b8c10326a0650cd65f6ef2856"
+      },
+      "3": {
+        "source_ref": "Isaiah 9:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Isaiah 9:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "bf5f7ccd85ca0bf4408275286577a98b280774271f4f2f9b1ea2ace275e80dbc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "bf5f7ccd85ca0bf4408275286577a98b280774271f4f2f9b1ea2ace275e80dbc"
+      },
+      "4": {
+        "source_ref": "Isaiah 9:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Isaiah 9:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "526bc12b9c4d8c04c951dfb0f87f04e9bbd4825aa6b7f2494ba46c990de70cb5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "526bc12b9c4d8c04c951dfb0f87f04e9bbd4825aa6b7f2494ba46c990de70cb5"
+      },
+      "5": {
+        "source_ref": "Isaiah 9:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Isaiah 9:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7e1fd73ec1d93a79671639e80a0c5beaa433f9054690ec23d1f05503c97df36a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7e1fd73ec1d93a79671639e80a0c5beaa433f9054690ec23d1f05503c97df36a"
+      },
+      "6": {
+        "source_ref": "Isaiah 9:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Isaiah 9:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7f8b4f84a0cf1056ef2d329be4b211d6e2aafd7b8547ee01576570a7b07bd4b0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7f8b4f84a0cf1056ef2d329be4b211d6e2aafd7b8547ee01576570a7b07bd4b0"
+      },
+      "7": {
+        "source_ref": "Isaiah 9:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Isaiah 9:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b1eba4550a4ee4a80c4ce1f8dec1aa3f4862b6cfbd705a351ec540b48bdf6297"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b1eba4550a4ee4a80c4ce1f8dec1aa3f4862b6cfbd705a351ec540b48bdf6297"
+      },
+      "8": {
+        "source_ref": "Isaiah 9:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Isaiah 9:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c93192eca6aafffc11fa561c28f8090c2e57072c9d0503a3104f1d39b85b7524"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c93192eca6aafffc11fa561c28f8090c2e57072c9d0503a3104f1d39b85b7524"
+      },
+      "9": {
+        "source_ref": "Isaiah 9:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Isaiah 9:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "6d6d1d42308ce6e33c82f2e3f655d75362190ab10f897656d2438d6185297790"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "6d6d1d42308ce6e33c82f2e3f655d75362190ab10f897656d2438d6185297790"
+      },
+      "10": {
+        "source_ref": "Isaiah 9:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Isaiah 9:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "8291514b9e384975c3bd982bd600b4166ab3381d5e37aef0628b6b6fa04a7ac0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "8291514b9e384975c3bd982bd600b4166ab3381d5e37aef0628b6b6fa04a7ac0"
+      },
+      "11": {
+        "source_ref": "Isaiah 9:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Isaiah 9:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3cad8cc4fa36090864d54f27abcc15058ff21c94f57c732d93e25cb5f87fffc1"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "3cad8cc4fa36090864d54f27abcc15058ff21c94f57c732d93e25cb5f87fffc1"
+      },
+      "12": {
+        "source_ref": "Isaiah 9:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Isaiah 9:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4b818ad078a2e7d708effbe3e633c24367e66b064a3c45b63a36f31c07c6e999"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4b818ad078a2e7d708effbe3e633c24367e66b064a3c45b63a36f31c07c6e999"
+      },
+      "13": {
+        "source_ref": "Isaiah 9:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "Isaiah 9:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9a034787c37398c23443ef607ceceacbfb7ec4987df63bc085080c401d6bddaa"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9a034787c37398c23443ef607ceceacbfb7ec4987df63bc085080c401d6bddaa"
+      },
+      "14": {
+        "source_ref": "Isaiah 9:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "Isaiah 9:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "39b6784fe954578f34782383478d4c46f1dab0a3df2591724f92d8d8d14ce566"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "39b6784fe954578f34782383478d4c46f1dab0a3df2591724f92d8d8d14ce566"
+      },
+      "15": {
+        "source_ref": "Isaiah 9:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "Isaiah 9:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2811379a9e9358ba77d011ac68d86a5c05590c0e9f5b2eb79e7a637fa09666bc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2811379a9e9358ba77d011ac68d86a5c05590c0e9f5b2eb79e7a637fa09666bc"
+      },
+      "16": {
+        "source_ref": "Isaiah 9:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "Isaiah 9:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "26781b6048b47026040332a26481992a5752f49e6c953539453a7a332b6df53f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "26781b6048b47026040332a26481992a5752f49e6c953539453a7a332b6df53f"
+      },
+      "17": {
+        "source_ref": "Isaiah 9:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 16,
+            "source_ref": "Isaiah 9:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "a55c44f3fae769c2c4faa16b4bd1f3e79ea0e43dc9c93661d27ced10b8a6e3e7"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "a55c44f3fae769c2c4faa16b4bd1f3e79ea0e43dc9c93661d27ced10b8a6e3e7"
+      },
+      "18": {
+        "source_ref": "Isaiah 9:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 17,
+            "source_ref": "Isaiah 9:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2ecd647e0c4dbd7e32e0f4ba05628ac2a0b685ae58144d0078858590265ea9a5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2ecd647e0c4dbd7e32e0f4ba05628ac2a0b685ae58144d0078858590265ea9a5"
+      },
+      "19": {
+        "source_ref": "Isaiah 9:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 18,
+            "source_ref": "Isaiah 9:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "c7531359d1472a235943e6c04ff8f9d2c07456f314125270feeaadb9e4442a98"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "c7531359d1472a235943e6c04ff8f9d2c07456f314125270feeaadb9e4442a98"
+      },
+      "20": {
+        "source_ref": "Isaiah 9:19 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 19,
+            "source_ref": "Isaiah 9:19 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "36de6bf3bcd6d0835c9a428d5157cdcdbc21d2d3c53a3deaf897e0215006bcc2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "36de6bf3bcd6d0835c9a428d5157cdcdbc21d2d3c53a3deaf897e0215006bcc2"
+      },
+      "21": {
+        "source_ref": "Isaiah 9:20 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 20,
+            "source_ref": "Isaiah 9:20 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "9d653c57b45a941618e48e7480477e9f9fe60e923c42909f36cb0741e0142a26"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "9d653c57b45a941618e48e7480477e9f9fe60e923c42909f36cb0741e0142a26"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/isaiah/Isaiah_09.md",
+    "blob_sha": "968a03f77ba1159c2bbc10dedc9ecda3ae49a83a"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
