@@ -1,0 +1,246 @@
+{
+  "book": "Hosea",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hos.xml",
+    "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Hos.xml",
+    "git_blob_sha": "a4ea764f4122586b6be1f04270734c5064ac6aec",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Hosea 8:1",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "Hosea 8:1",
+            "segment_mode": "whole",
+            "sha256": "f4ff285ba14f2df28bb80dac7df776daf6569d9175ecb3553a45dd9fa7e59af6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4ff285ba14f2df28bb80dac7df776daf6569d9175ecb3553a45dd9fa7e59af6"
+      },
+      "2": {
+        "source_ref": "Hosea 8:2",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "Hosea 8:2",
+            "segment_mode": "whole",
+            "sha256": "22bda58fafb5c1f318dbe62290596225224039aaaabf01eb6885191fa00e03c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "22bda58fafb5c1f318dbe62290596225224039aaaabf01eb6885191fa00e03c9"
+      },
+      "3": {
+        "source_ref": "Hosea 8:3",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "Hosea 8:3",
+            "segment_mode": "whole",
+            "sha256": "499540e13454465e03a16d16a9b44f9c9e5d03771e10fb6114791082c9da487a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "499540e13454465e03a16d16a9b44f9c9e5d03771e10fb6114791082c9da487a"
+      },
+      "4": {
+        "source_ref": "Hosea 8:4",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "Hosea 8:4",
+            "segment_mode": "whole",
+            "sha256": "a6f80f590bf13cb32d31a2cc2fc8192cf8ca8761e063be01b7e4fd0d53cda774"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6f80f590bf13cb32d31a2cc2fc8192cf8ca8761e063be01b7e4fd0d53cda774"
+      },
+      "5": {
+        "source_ref": "Hosea 8:5",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "Hosea 8:5",
+            "segment_mode": "whole",
+            "sha256": "4c9c0a7cc49e7a6c068707f06b7d64c4894b4b6e2b1f89855d177f685b960224"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c9c0a7cc49e7a6c068707f06b7d64c4894b4b6e2b1f89855d177f685b960224"
+      },
+      "6": {
+        "source_ref": "Hosea 8:6",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "Hosea 8:6",
+            "segment_mode": "whole",
+            "sha256": "17ec087042bb0bd59f55f7ed646e6199c6c4e8d82da8b4b0f6fce3bc0f9077e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17ec087042bb0bd59f55f7ed646e6199c6c4e8d82da8b4b0f6fce3bc0f9077e5"
+      },
+      "7": {
+        "source_ref": "Hosea 8:7",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "Hosea 8:7",
+            "segment_mode": "whole",
+            "sha256": "d536da356278517968d070ff0992e953bc174dc63be60fdcd9ef90077319615a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d536da356278517968d070ff0992e953bc174dc63be60fdcd9ef90077319615a"
+      },
+      "8": {
+        "source_ref": "Hosea 8:8",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "Hosea 8:8",
+            "segment_mode": "whole",
+            "sha256": "46f0342e523499b130f676e520270ce911487d295e2b60e44051f0c8087cb283"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46f0342e523499b130f676e520270ce911487d295e2b60e44051f0c8087cb283"
+      },
+      "9": {
+        "source_ref": "Hosea 8:9",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "Hosea 8:9",
+            "segment_mode": "whole",
+            "sha256": "9921128384d8119e82e59b5526ef8c4586b6b09c99af6f2aac527c5a93968a2d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9921128384d8119e82e59b5526ef8c4586b6b09c99af6f2aac527c5a93968a2d"
+      },
+      "10": {
+        "source_ref": "Hosea 8:10",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "Hosea 8:10",
+            "segment_mode": "whole",
+            "sha256": "c92051abf865badfc22e56fb2acfc9bf84719463206a1bcfe77051e2b65579f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c92051abf865badfc22e56fb2acfc9bf84719463206a1bcfe77051e2b65579f9"
+      },
+      "11": {
+        "source_ref": "Hosea 8:11",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 11,
+            "source_ref": "Hosea 8:11",
+            "segment_mode": "whole",
+            "sha256": "ac0bce1d315e38af23393ca09aa4b2da68b914a5f96a2c5a5a50c353621d47b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac0bce1d315e38af23393ca09aa4b2da68b914a5f96a2c5a5a50c353621d47b1"
+      },
+      "12": {
+        "source_ref": "Hosea 8:12",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 12,
+            "source_ref": "Hosea 8:12",
+            "segment_mode": "whole",
+            "sha256": "f0ca11dc82d48ce5bda3be7f6de8839c89f2094ff19e96005f50174e8bb0e958"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0ca11dc82d48ce5bda3be7f6de8839c89f2094ff19e96005f50174e8bb0e958"
+      },
+      "13": {
+        "source_ref": "Hosea 8:13",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 13,
+            "source_ref": "Hosea 8:13",
+            "segment_mode": "whole",
+            "sha256": "a2c2c20555194feedb156cd4b9e14a7f462f8b60d0a9cb479391dabebb463a93"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a2c2c20555194feedb156cd4b9e14a7f462f8b60d0a9cb479391dabebb463a93"
+      },
+      "14": {
+        "source_ref": "Hosea 8:14",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 14,
+            "source_ref": "Hosea 8:14",
+            "segment_mode": "whole",
+            "sha256": "2f4abbc17248436e0cf1ed2d619dcba8a14720cf064708d60c40bb7a57512439"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f4abbc17248436e0cf1ed2d619dcba8a14720cf064708d60c40bb7a57512439"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/hosea/Hosea_08.md",
+    "blob_sha": "ef6be8bd0a2a39ca4406391e1239204eac4afe97"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
