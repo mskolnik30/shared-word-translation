@@ -1,0 +1,126 @@
+{
+  "book": "Titus",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 15,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Titus.txt",
+    "git_blob_sha": "114ee929baff42f702b30553442010fe1ec84747",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Titus 2:1",
+        "source_chapter": 2,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "6de9d3d4d10b9b92d9a992c208cdab48037b04abdfb24b42dbe85ba2e3195de9"
+      },
+      "2": {
+        "source_ref": "Titus 2:2",
+        "source_chapter": 2,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "097bd15627f531246457144780a301349ce3ede4339be4629279f144d775ac27"
+      },
+      "3": {
+        "source_ref": "Titus 2:3",
+        "source_chapter": 2,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "ef2c576685096dc7894bc19eb7f3a85cd693a2f7ee262504a7bf5a5ee20cc904"
+      },
+      "4": {
+        "source_ref": "Titus 2:4",
+        "source_chapter": 2,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "6f8657d53b061e93991c59850bd4b2a829f085d1a696ba998e50c21f2477a794"
+      },
+      "5": {
+        "source_ref": "Titus 2:5",
+        "source_chapter": 2,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "c6b217619a916278f6cbf6fe9eacd801b77f708be20d93ba68e74dabf39e3f74"
+      },
+      "6": {
+        "source_ref": "Titus 2:6",
+        "source_chapter": 2,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "66fc986f9b45321a3b0d1b8a25e995fde6b92b89ca2187441249a0d56e00da08"
+      },
+      "7": {
+        "source_ref": "Titus 2:7",
+        "source_chapter": 2,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "670dc387686a7baa3123269fb6c5db07ae86f36478d37c90d4e8135f3d3c862a"
+      },
+      "8": {
+        "source_ref": "Titus 2:8",
+        "source_chapter": 2,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "967af0b7b4c5831c791a8a34a8f7e36944e49c6ca069956dd775cc18a7c14638"
+      },
+      "9": {
+        "source_ref": "Titus 2:9",
+        "source_chapter": 2,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "c4c791ca5cdc6063096d505c010fa5f6c11c280ced0f41b94aaab1023aba6259"
+      },
+      "10": {
+        "source_ref": "Titus 2:10",
+        "source_chapter": 2,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "c1eea65f296857dcefdefc4b4d3a255b05716bc7768bf1fc6e28157b20509880"
+      },
+      "11": {
+        "source_ref": "Titus 2:11",
+        "source_chapter": 2,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "985908b40f27b12937fd4fda98b24cc324c6e1c25b78356c17854f3de2280d71"
+      },
+      "12": {
+        "source_ref": "Titus 2:12",
+        "source_chapter": 2,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "5d246fff14620284a50bcbf66416e776cd2bf2703de6d4399e5330b33a7c2ee5"
+      },
+      "13": {
+        "source_ref": "Titus 2:13",
+        "source_chapter": 2,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "6d28383cd1b25d8b43c3f0abe24e47589f02f735d55af74b206bb0669f683312"
+      },
+      "14": {
+        "source_ref": "Titus 2:14",
+        "source_chapter": 2,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "c7ac656d4d5c62bc46290f575bca5f942ffd6a0edbe1871c16060835f3efdfc9"
+      },
+      "15": {
+        "source_ref": "Titus 2:15",
+        "source_chapter": 2,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "36ce0bd5972d919c5dd5330cf2e6f089df0040b8370165c3f3a12a90fa208863"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/titus/Titus_02.md",
+    "blob_sha": "33a1fb937459b5d6e6633cd1eca14809e73c9324"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
