@@ -1,0 +1,351 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 23,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Chronicles 23:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 1,
+            "source_ref": "2 Chronicles 23:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "53ede51237e01fedb2110a4a859de3ff551dcde0e218fa1fdda309dce5e9bf3f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "53ede51237e01fedb2110a4a859de3ff551dcde0e218fa1fdda309dce5e9bf3f"
+      },
+      "2": {
+        "source_ref": "2 Chronicles 23:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 2,
+            "source_ref": "2 Chronicles 23:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "00f00b03d60438e91c2b283232a57062125ac4422e573fdbcb00a977b06d7220"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00f00b03d60438e91c2b283232a57062125ac4422e573fdbcb00a977b06d7220"
+      },
+      "3": {
+        "source_ref": "2 Chronicles 23:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 3,
+            "source_ref": "2 Chronicles 23:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "caa02035a6d7e06b48586bff585c0d0f18884d05ecb3db03517eb9ed54179e3a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "caa02035a6d7e06b48586bff585c0d0f18884d05ecb3db03517eb9ed54179e3a"
+      },
+      "4": {
+        "source_ref": "2 Chronicles 23:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 4,
+            "source_ref": "2 Chronicles 23:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c0f92d72394b14cb74a446d84d7c5399d8a0bc9e8861cc94986a0b2cadb22911"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c0f92d72394b14cb74a446d84d7c5399d8a0bc9e8861cc94986a0b2cadb22911"
+      },
+      "5": {
+        "source_ref": "2 Chronicles 23:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 5,
+            "source_ref": "2 Chronicles 23:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3b4568cadf418bcd5b7e6b5d7193617be8d010f3ce61f4fcfdc57718623f353c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b4568cadf418bcd5b7e6b5d7193617be8d010f3ce61f4fcfdc57718623f353c"
+      },
+      "6": {
+        "source_ref": "2 Chronicles 23:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 6,
+            "source_ref": "2 Chronicles 23:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ddfed1f0d04108a37dbded8b03ce3f43e26bc502f5309e20777acb37ce5ff098"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ddfed1f0d04108a37dbded8b03ce3f43e26bc502f5309e20777acb37ce5ff098"
+      },
+      "7": {
+        "source_ref": "2 Chronicles 23:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 7,
+            "source_ref": "2 Chronicles 23:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bd85af386949ef8f14426fb0ee53395f8e1c1d6a27c4e6aaa5c43b9eae5bb319"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd85af386949ef8f14426fb0ee53395f8e1c1d6a27c4e6aaa5c43b9eae5bb319"
+      },
+      "8": {
+        "source_ref": "2 Chronicles 23:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 8,
+            "source_ref": "2 Chronicles 23:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ec43a36f50edb0a338be5d7a65fb36cae7e12d46e36cecfb3583563a96cd4e74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec43a36f50edb0a338be5d7a65fb36cae7e12d46e36cecfb3583563a96cd4e74"
+      },
+      "9": {
+        "source_ref": "2 Chronicles 23:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 9,
+            "source_ref": "2 Chronicles 23:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "75145db6b29aa83d1068db8dc291a324d1ac01b724608205d0c5889f72188c09"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75145db6b29aa83d1068db8dc291a324d1ac01b724608205d0c5889f72188c09"
+      },
+      "10": {
+        "source_ref": "2 Chronicles 23:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 10,
+            "source_ref": "2 Chronicles 23:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "04011f31f7853f3224b23c85f62bdf4b4c30ecf9d57120b44fd2adb4828cadd7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "04011f31f7853f3224b23c85f62bdf4b4c30ecf9d57120b44fd2adb4828cadd7"
+      },
+      "11": {
+        "source_ref": "2 Chronicles 23:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 11,
+            "source_ref": "2 Chronicles 23:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bf7c43b0bccdb3035eb64973bda0178144a1b31518dbd2b004b0a29e2b9b24d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bf7c43b0bccdb3035eb64973bda0178144a1b31518dbd2b004b0a29e2b9b24d5"
+      },
+      "12": {
+        "source_ref": "2 Chronicles 23:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 12,
+            "source_ref": "2 Chronicles 23:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "69f2a638e555935440fbbedfb50bdcc4a360de079d45f8b7a62b1a64819a65a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69f2a638e555935440fbbedfb50bdcc4a360de079d45f8b7a62b1a64819a65a9"
+      },
+      "13": {
+        "source_ref": "2 Chronicles 23:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 13,
+            "source_ref": "2 Chronicles 23:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c88adfa0e6520f5d55054bd9c13e931da10a7124b47bddcccc5925751d617fee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c88adfa0e6520f5d55054bd9c13e931da10a7124b47bddcccc5925751d617fee"
+      },
+      "14": {
+        "source_ref": "2 Chronicles 23:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 14,
+            "source_ref": "2 Chronicles 23:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7742d7e43c2b5e6f8fdbe0425db62cd42837f5476b2f95d4624ebaf3063bcb5e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7742d7e43c2b5e6f8fdbe0425db62cd42837f5476b2f95d4624ebaf3063bcb5e"
+      },
+      "15": {
+        "source_ref": "2 Chronicles 23:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 15,
+            "source_ref": "2 Chronicles 23:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4cf915227e821641440fa8822d06a230c837c1d74f170bf4138b79f7a6b57e8e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4cf915227e821641440fa8822d06a230c837c1d74f170bf4138b79f7a6b57e8e"
+      },
+      "16": {
+        "source_ref": "2 Chronicles 23:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 16,
+            "source_ref": "2 Chronicles 23:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "42e132cda949063fe04f03808f776245233e67129af73df60fef10db3646b551"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "42e132cda949063fe04f03808f776245233e67129af73df60fef10db3646b551"
+      },
+      "17": {
+        "source_ref": "2 Chronicles 23:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 17,
+            "source_ref": "2 Chronicles 23:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f2f4af2c63913e1d767e9cc00df263881b42159992369d50955e8417885fabd9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2f4af2c63913e1d767e9cc00df263881b42159992369d50955e8417885fabd9"
+      },
+      "18": {
+        "source_ref": "2 Chronicles 23:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 18,
+            "source_ref": "2 Chronicles 23:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "69ac12d2661d02db520588046bf2bc7b79e239581a79cf8c1f23080c36f9502d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69ac12d2661d02db520588046bf2bc7b79e239581a79cf8c1f23080c36f9502d"
+      },
+      "19": {
+        "source_ref": "2 Chronicles 23:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 19,
+            "source_ref": "2 Chronicles 23:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1c5069e3195adf05c239ac93af442d0de3775c070144daf463afdbe90e884e76"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1c5069e3195adf05c239ac93af442d0de3775c070144daf463afdbe90e884e76"
+      },
+      "20": {
+        "source_ref": "2 Chronicles 23:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 20,
+            "source_ref": "2 Chronicles 23:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "74865675fffbc198eddbefeb10002939dc2ff6ba0deddf047f951b4fafd755e5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74865675fffbc198eddbefeb10002939dc2ff6ba0deddf047f951b4fafd755e5"
+      },
+      "21": {
+        "source_ref": "2 Chronicles 23:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 23,
+            "verse": 21,
+            "source_ref": "2 Chronicles 23:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f6c83dcd26f7532eae61ac6e313f7269d1c6ba9caae6812851d53e8d408ddcb7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f6c83dcd26f7532eae61ac6e313f7269d1c6ba9caae6812851d53e8d408ddcb7"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2chronicles/2Chronicles_23.md",
+    "blob_sha": "995ed98784c4c2f54509cb25949061d946641527"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

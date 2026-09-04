@@ -1,0 +1,216 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 22,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Chronicles 22:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 1,
+            "source_ref": "2 Chronicles 22:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b12efd4c875bef5bcdc0bc0e50958fde1a713edb48c3443592f823ba2791b54b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b12efd4c875bef5bcdc0bc0e50958fde1a713edb48c3443592f823ba2791b54b"
+      },
+      "2": {
+        "source_ref": "2 Chronicles 22:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 2,
+            "source_ref": "2 Chronicles 22:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c95000f882a735fbc1a50c2cd038af10e7cd9a5793cbb5da5e41c691cfaccf87"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c95000f882a735fbc1a50c2cd038af10e7cd9a5793cbb5da5e41c691cfaccf87"
+      },
+      "3": {
+        "source_ref": "2 Chronicles 22:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 3,
+            "source_ref": "2 Chronicles 22:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "61e620656d4f4b2e2451fdf4e5848f710b2cd61a24086c503c19c7186e495ac9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "61e620656d4f4b2e2451fdf4e5848f710b2cd61a24086c503c19c7186e495ac9"
+      },
+      "4": {
+        "source_ref": "2 Chronicles 22:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 4,
+            "source_ref": "2 Chronicles 22:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "817989a34b9fd13865b84c062c6dec808e786c684c684bef5e183f72660cd359"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "817989a34b9fd13865b84c062c6dec808e786c684c684bef5e183f72660cd359"
+      },
+      "5": {
+        "source_ref": "2 Chronicles 22:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 5,
+            "source_ref": "2 Chronicles 22:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0ca071fb42af2532d63dc2114e3b13315b5581859df520b1e0b22a67e3961212"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ca071fb42af2532d63dc2114e3b13315b5581859df520b1e0b22a67e3961212"
+      },
+      "6": {
+        "source_ref": "2 Chronicles 22:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 6,
+            "source_ref": "2 Chronicles 22:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7dd7fa87e31c29c59f1580a830be5df70fe738e9df513ff6353d1220c715e37b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7dd7fa87e31c29c59f1580a830be5df70fe738e9df513ff6353d1220c715e37b"
+      },
+      "7": {
+        "source_ref": "2 Chronicles 22:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 7,
+            "source_ref": "2 Chronicles 22:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3bfe65cab9ec044cdabb7750477a9ec9b3be7d0f4ffea595346aac232f4bc794"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3bfe65cab9ec044cdabb7750477a9ec9b3be7d0f4ffea595346aac232f4bc794"
+      },
+      "8": {
+        "source_ref": "2 Chronicles 22:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 8,
+            "source_ref": "2 Chronicles 22:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ae0a6d2362c1206cf79bd38536f266459d56cf5f2c863b7eaea799c16349832"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ae0a6d2362c1206cf79bd38536f266459d56cf5f2c863b7eaea799c16349832"
+      },
+      "9": {
+        "source_ref": "2 Chronicles 22:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 9,
+            "source_ref": "2 Chronicles 22:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af2e5b9a03fbba261d6e87127eceb272207d3f3798a2db343e3bcd414afdfc36"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af2e5b9a03fbba261d6e87127eceb272207d3f3798a2db343e3bcd414afdfc36"
+      },
+      "10": {
+        "source_ref": "2 Chronicles 22:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 10,
+            "source_ref": "2 Chronicles 22:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b9c2ffcd381533f5fe999f39e2842eae51c280b1714895cfbb4ebbebb7439a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b9c2ffcd381533f5fe999f39e2842eae51c280b1714895cfbb4ebbebb7439a8"
+      },
+      "11": {
+        "source_ref": "2 Chronicles 22:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 11,
+            "source_ref": "2 Chronicles 22:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "209b9eb50cad4cd183beaeb48cf86962a49ea4909405f950f73d136f6ab847d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "209b9eb50cad4cd183beaeb48cf86962a49ea4909405f950f73d136f6ab847d5"
+      },
+      "12": {
+        "source_ref": "2 Chronicles 22:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 22,
+            "verse": 12,
+            "source_ref": "2 Chronicles 22:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7b053e9cbf230d4d4e14beaff04339aaaf3a2c3272c0094f7caa6ef005c1ba89"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b053e9cbf230d4d4e14beaff04339aaaf3a2c3272c0094f7caa6ef005c1ba89"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2chronicles/2Chronicles_22.md",
+    "blob_sha": "41feb98805c4fed2e8e28551038605a1186b138c"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

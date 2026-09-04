@@ -1,0 +1,531 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 34,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Chronicles 34:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 1,
+            "source_ref": "2 Chronicles 34:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f82698c7d02a490e728cc5e430db6b752fdd37cc45a312da579daef666f37d9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f82698c7d02a490e728cc5e430db6b752fdd37cc45a312da579daef666f37d9b"
+      },
+      "2": {
+        "source_ref": "2 Chronicles 34:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 2,
+            "source_ref": "2 Chronicles 34:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32027b1bb41f844f0c230b3d85ea2d0479a6d4b794ce9bd43c58d9aa62b8409d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32027b1bb41f844f0c230b3d85ea2d0479a6d4b794ce9bd43c58d9aa62b8409d"
+      },
+      "3": {
+        "source_ref": "2 Chronicles 34:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 3,
+            "source_ref": "2 Chronicles 34:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "12b06c7f122aa19579cef4f84338d039bc90a786ed787b12f7aae86612202e45"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12b06c7f122aa19579cef4f84338d039bc90a786ed787b12f7aae86612202e45"
+      },
+      "4": {
+        "source_ref": "2 Chronicles 34:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 4,
+            "source_ref": "2 Chronicles 34:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b62aa5a2dc21828bcb5b5fc09b0e6c402918e1f6d9ef1eb2a32fae1e69ab75ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b62aa5a2dc21828bcb5b5fc09b0e6c402918e1f6d9ef1eb2a32fae1e69ab75ce"
+      },
+      "5": {
+        "source_ref": "2 Chronicles 34:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 5,
+            "source_ref": "2 Chronicles 34:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f18ff4d403ef22148ec7095ea91ee9c19bf73479d8d8ffc24d3180c4f11affba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f18ff4d403ef22148ec7095ea91ee9c19bf73479d8d8ffc24d3180c4f11affba"
+      },
+      "6": {
+        "source_ref": "2 Chronicles 34:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 6,
+            "source_ref": "2 Chronicles 34:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b1d78f0950a5bb36c0f78675716e4a788a8aaa8dceed39e59f2ea15f151e08a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b1d78f0950a5bb36c0f78675716e4a788a8aaa8dceed39e59f2ea15f151e08a2"
+      },
+      "7": {
+        "source_ref": "2 Chronicles 34:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 7,
+            "source_ref": "2 Chronicles 34:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e1025ede87951c66bf6f3fb0398bf99bcbcbfd277fc3baeaceaa6bea1ecb8941"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1025ede87951c66bf6f3fb0398bf99bcbcbfd277fc3baeaceaa6bea1ecb8941"
+      },
+      "8": {
+        "source_ref": "2 Chronicles 34:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 8,
+            "source_ref": "2 Chronicles 34:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "78ad65ac50fef7a4a39cdc238403175453b0c8f1b87228d3bb159389e96e4d75"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "78ad65ac50fef7a4a39cdc238403175453b0c8f1b87228d3bb159389e96e4d75"
+      },
+      "9": {
+        "source_ref": "2 Chronicles 34:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 9,
+            "source_ref": "2 Chronicles 34:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "db47399850e4b1407c22ac1cd53fa849947f40be1b1aa36e7f2e97fabc6b91e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db47399850e4b1407c22ac1cd53fa849947f40be1b1aa36e7f2e97fabc6b91e2"
+      },
+      "10": {
+        "source_ref": "2 Chronicles 34:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 10,
+            "source_ref": "2 Chronicles 34:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dfbb1a8daf37983d8993e0886fbe7b59036383891257699180214a2d99796fea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dfbb1a8daf37983d8993e0886fbe7b59036383891257699180214a2d99796fea"
+      },
+      "11": {
+        "source_ref": "2 Chronicles 34:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 11,
+            "source_ref": "2 Chronicles 34:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "486653b5525a66c4b664513a8930dd5e6e4fd3d5b722aaf7894924cda2d5eb55"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "486653b5525a66c4b664513a8930dd5e6e4fd3d5b722aaf7894924cda2d5eb55"
+      },
+      "12": {
+        "source_ref": "2 Chronicles 34:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 12,
+            "source_ref": "2 Chronicles 34:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0873d8b16d57b4d71b83724824789505560861a998f94718c3e63610d4c83c86"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0873d8b16d57b4d71b83724824789505560861a998f94718c3e63610d4c83c86"
+      },
+      "13": {
+        "source_ref": "2 Chronicles 34:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 13,
+            "source_ref": "2 Chronicles 34:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d9d8764b9d77eb7d90fd6a1d916e20f8d9bf5e5ab8b23cbbf2cddb0b473a4294"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9d8764b9d77eb7d90fd6a1d916e20f8d9bf5e5ab8b23cbbf2cddb0b473a4294"
+      },
+      "14": {
+        "source_ref": "2 Chronicles 34:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 14,
+            "source_ref": "2 Chronicles 34:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c9205152f38d94cd44dceea06d0e15a0f6f2830aa2d98673c24ae34cd673397c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9205152f38d94cd44dceea06d0e15a0f6f2830aa2d98673c24ae34cd673397c"
+      },
+      "15": {
+        "source_ref": "2 Chronicles 34:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 15,
+            "source_ref": "2 Chronicles 34:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c10048d8a86eba9d9931e15455a91af826459a2ebb9e13a149c5a47edb5aabc2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c10048d8a86eba9d9931e15455a91af826459a2ebb9e13a149c5a47edb5aabc2"
+      },
+      "16": {
+        "source_ref": "2 Chronicles 34:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 16,
+            "source_ref": "2 Chronicles 34:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "20ad04a21825da0cc4b217032ce66c9492bd24b2feca5ce9629d21c74e4cdaf2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "20ad04a21825da0cc4b217032ce66c9492bd24b2feca5ce9629d21c74e4cdaf2"
+      },
+      "17": {
+        "source_ref": "2 Chronicles 34:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 17,
+            "source_ref": "2 Chronicles 34:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "23a0eb1dd6cb6e24d642f30d91ccd9dfd45818ed0640a5fb20e28b15977fd6ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23a0eb1dd6cb6e24d642f30d91ccd9dfd45818ed0640a5fb20e28b15977fd6ad"
+      },
+      "18": {
+        "source_ref": "2 Chronicles 34:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 18,
+            "source_ref": "2 Chronicles 34:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "161837e5b8b313082e0511d9575edebc69f4fe43531476c13786c27fa66c6837"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "161837e5b8b313082e0511d9575edebc69f4fe43531476c13786c27fa66c6837"
+      },
+      "19": {
+        "source_ref": "2 Chronicles 34:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 19,
+            "source_ref": "2 Chronicles 34:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b8d78406ecb55cf514eda8657ccf3d3bad0e3cdf8e3284b803ad0c3b0767b93d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8d78406ecb55cf514eda8657ccf3d3bad0e3cdf8e3284b803ad0c3b0767b93d"
+      },
+      "20": {
+        "source_ref": "2 Chronicles 34:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 20,
+            "source_ref": "2 Chronicles 34:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "730d0fdcfb6e9f7aa5e96318335ce58e515a706da49bae7d5c4e13ea12779813"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "730d0fdcfb6e9f7aa5e96318335ce58e515a706da49bae7d5c4e13ea12779813"
+      },
+      "21": {
+        "source_ref": "2 Chronicles 34:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 21,
+            "source_ref": "2 Chronicles 34:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f97849aa8061ede3fe27e0eef0683dd4c6d3c61041039e6f029ce8d1a5508717"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f97849aa8061ede3fe27e0eef0683dd4c6d3c61041039e6f029ce8d1a5508717"
+      },
+      "22": {
+        "source_ref": "2 Chronicles 34:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 22,
+            "source_ref": "2 Chronicles 34:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72f2c67d563edc8ffb7675952d0d93f0768a55f82a3e82a64b060c060f1838e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72f2c67d563edc8ffb7675952d0d93f0768a55f82a3e82a64b060c060f1838e4"
+      },
+      "23": {
+        "source_ref": "2 Chronicles 34:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 23,
+            "source_ref": "2 Chronicles 34:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5207afea644cc82c16cde06b68b3ebda60b5c935525030817e4334450a72045e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5207afea644cc82c16cde06b68b3ebda60b5c935525030817e4334450a72045e"
+      },
+      "24": {
+        "source_ref": "2 Chronicles 34:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 24,
+            "source_ref": "2 Chronicles 34:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "772eba7da55c8f2fac03ebd47935e3a117a2f49d033c1db5b97de59019789f6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "772eba7da55c8f2fac03ebd47935e3a117a2f49d033c1db5b97de59019789f6a"
+      },
+      "25": {
+        "source_ref": "2 Chronicles 34:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 25,
+            "source_ref": "2 Chronicles 34:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7cd63189d8a48a36bccc4e9209c3d0fd22184e139e2d32881a20ae3ac129bc1d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7cd63189d8a48a36bccc4e9209c3d0fd22184e139e2d32881a20ae3ac129bc1d"
+      },
+      "26": {
+        "source_ref": "2 Chronicles 34:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 26,
+            "source_ref": "2 Chronicles 34:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "566f3ffbae1fea50e398e737dcea836c74b0da3b9c300ff18ae1ad1ceb8c7219"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "566f3ffbae1fea50e398e737dcea836c74b0da3b9c300ff18ae1ad1ceb8c7219"
+      },
+      "27": {
+        "source_ref": "2 Chronicles 34:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 27,
+            "source_ref": "2 Chronicles 34:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fefd1436126ee506650592fc3a2c76db9113dbf99f764f534636a1544f036bc9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fefd1436126ee506650592fc3a2c76db9113dbf99f764f534636a1544f036bc9"
+      },
+      "28": {
+        "source_ref": "2 Chronicles 34:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 28,
+            "source_ref": "2 Chronicles 34:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "888588371eb5756f893b173d1ddfbcbe455d67ca22f9bd04bb039cdf6d12f022"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "888588371eb5756f893b173d1ddfbcbe455d67ca22f9bd04bb039cdf6d12f022"
+      },
+      "29": {
+        "source_ref": "2 Chronicles 34:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 29,
+            "source_ref": "2 Chronicles 34:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f9c99c59bfc7fb2081eff4f196bf297b9b9755076aab4d3f3c3572361fafec8f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9c99c59bfc7fb2081eff4f196bf297b9b9755076aab4d3f3c3572361fafec8f"
+      },
+      "30": {
+        "source_ref": "2 Chronicles 34:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 30,
+            "source_ref": "2 Chronicles 34:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "16cf3653ffee5e2ad46648dbb4a71d8cea296279fbf883e3441d19979ad8885f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16cf3653ffee5e2ad46648dbb4a71d8cea296279fbf883e3441d19979ad8885f"
+      },
+      "31": {
+        "source_ref": "2 Chronicles 34:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 31,
+            "source_ref": "2 Chronicles 34:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a94f4a892e5d41af2ac0e0f508148c379c1f43ba29cee1ad50f9a8002a3b6c43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a94f4a892e5d41af2ac0e0f508148c379c1f43ba29cee1ad50f9a8002a3b6c43"
+      },
+      "32": {
+        "source_ref": "2 Chronicles 34:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 32,
+            "source_ref": "2 Chronicles 34:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c7b1582eddd48a57ed511dda299c073531df484d11dd18e41157e2f4d931ea6c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c7b1582eddd48a57ed511dda299c073531df484d11dd18e41157e2f4d931ea6c"
+      },
+      "33": {
+        "source_ref": "2 Chronicles 34:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 34,
+            "verse": 33,
+            "source_ref": "2 Chronicles 34:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71c2f2b1628f030d6cc7cac6eca217b6f71069dc2fe145a09d88535903aca578"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71c2f2b1628f030d6cc7cac6eca217b6f71069dc2fe145a09d88535903aca578"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2chronicles/2Chronicles_34.md",
+    "blob_sha": "a160c150449deb1b31dca7c4f7c69c1b3b2a55e0"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

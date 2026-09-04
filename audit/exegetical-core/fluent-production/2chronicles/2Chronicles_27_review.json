@@ -1,0 +1,171 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 27,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Chronicles 27:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 1,
+            "source_ref": "2 Chronicles 27:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4a2d7e136c8f344486d55419221a3246bf69f1727280fccc8dc0e2078964aadb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a2d7e136c8f344486d55419221a3246bf69f1727280fccc8dc0e2078964aadb"
+      },
+      "2": {
+        "source_ref": "2 Chronicles 27:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 2,
+            "source_ref": "2 Chronicles 27:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0f5f1de7ac8cfe94b385fca5273335fd200b83b053b7a59d7c8167f7c20f3e3f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f5f1de7ac8cfe94b385fca5273335fd200b83b053b7a59d7c8167f7c20f3e3f"
+      },
+      "3": {
+        "source_ref": "2 Chronicles 27:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 3,
+            "source_ref": "2 Chronicles 27:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a476e77550ce647c1c991624cc21e17c8090d305d11c5a51c07d1e83e552fa80"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a476e77550ce647c1c991624cc21e17c8090d305d11c5a51c07d1e83e552fa80"
+      },
+      "4": {
+        "source_ref": "2 Chronicles 27:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 4,
+            "source_ref": "2 Chronicles 27:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "96c4557082ccb3ef350900198ac9bf6eb6705aca80363f828d91732e2a534155"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "96c4557082ccb3ef350900198ac9bf6eb6705aca80363f828d91732e2a534155"
+      },
+      "5": {
+        "source_ref": "2 Chronicles 27:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 5,
+            "source_ref": "2 Chronicles 27:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c1bb0dce0b2860852401ce8ed64edc0b46e6bc007f7a0c83875df44aed7d556b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1bb0dce0b2860852401ce8ed64edc0b46e6bc007f7a0c83875df44aed7d556b"
+      },
+      "6": {
+        "source_ref": "2 Chronicles 27:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 6,
+            "source_ref": "2 Chronicles 27:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "280f7baf7a50cfe723866a48d2a20b9e36380e088b3a2693eb08080464ad32e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "280f7baf7a50cfe723866a48d2a20b9e36380e088b3a2693eb08080464ad32e4"
+      },
+      "7": {
+        "source_ref": "2 Chronicles 27:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 7,
+            "source_ref": "2 Chronicles 27:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "763c46f269129f55646ef58d5c8d6e1a395b4c6f1106ca2c0e9fe790edb45df5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "763c46f269129f55646ef58d5c8d6e1a395b4c6f1106ca2c0e9fe790edb45df5"
+      },
+      "8": {
+        "source_ref": "2 Chronicles 27:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 8,
+            "source_ref": "2 Chronicles 27:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4c1c4d1df0e90fd1160a4011666074d0546dfda90c4ce8b5e08815e61086649f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c1c4d1df0e90fd1160a4011666074d0546dfda90c4ce8b5e08815e61086649f"
+      },
+      "9": {
+        "source_ref": "2 Chronicles 27:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 27,
+            "verse": 9,
+            "source_ref": "2 Chronicles 27:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "db0f4459d633436a9ef49a5907a33e75a37d137b11de0521a8ac114025d66ccd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "db0f4459d633436a9ef49a5907a33e75a37d137b11de0521a8ac114025d66ccd"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2chronicles/2Chronicles_27.md",
+    "blob_sha": "309705c600dd80c39fe5f6e470b17c654ef3f1d0"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

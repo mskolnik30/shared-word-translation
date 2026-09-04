@@ -1,0 +1,441 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 35,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Chronicles 35:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 1,
+            "source_ref": "2 Chronicles 35:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2f3439bc0e586ad8ce98c5f83ade675c3fce30607f4616df6ac9c5253e56f270"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f3439bc0e586ad8ce98c5f83ade675c3fce30607f4616df6ac9c5253e56f270"
+      },
+      "2": {
+        "source_ref": "2 Chronicles 35:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 2,
+            "source_ref": "2 Chronicles 35:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "111fceb20aab926576499ef12d0ef38c283797b8b5345801c741411cae492520"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "111fceb20aab926576499ef12d0ef38c283797b8b5345801c741411cae492520"
+      },
+      "3": {
+        "source_ref": "2 Chronicles 35:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 3,
+            "source_ref": "2 Chronicles 35:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8dbcc1663fc3c4be87944c80ad0fbd679b7217e1e730988c1989e953262db4d4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8dbcc1663fc3c4be87944c80ad0fbd679b7217e1e730988c1989e953262db4d4"
+      },
+      "4": {
+        "source_ref": "2 Chronicles 35:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 4,
+            "source_ref": "2 Chronicles 35:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d5b6a6ebfa69b2a738b8aa03369e860215ff2fc3154836e999b5102f8b6bb02"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d5b6a6ebfa69b2a738b8aa03369e860215ff2fc3154836e999b5102f8b6bb02"
+      },
+      "5": {
+        "source_ref": "2 Chronicles 35:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 5,
+            "source_ref": "2 Chronicles 35:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "53fb7db718922a5f0c4f16b21ffe070352ef419f61952b07ed82954c9e909163"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "53fb7db718922a5f0c4f16b21ffe070352ef419f61952b07ed82954c9e909163"
+      },
+      "6": {
+        "source_ref": "2 Chronicles 35:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 6,
+            "source_ref": "2 Chronicles 35:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d0a5978f5af658b219ce8774cd256ee19c2a95ea0312116a61e33fca21c3fd20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0a5978f5af658b219ce8774cd256ee19c2a95ea0312116a61e33fca21c3fd20"
+      },
+      "7": {
+        "source_ref": "2 Chronicles 35:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 7,
+            "source_ref": "2 Chronicles 35:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7981cb2ea9c84b5286107698bcde84861143187ff24e37ae15609368335678ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7981cb2ea9c84b5286107698bcde84861143187ff24e37ae15609368335678ff"
+      },
+      "8": {
+        "source_ref": "2 Chronicles 35:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 8,
+            "source_ref": "2 Chronicles 35:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a0f6ed465f298ea5d262f190333205710059e704a1a71aa0c25fa4d6396129f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a0f6ed465f298ea5d262f190333205710059e704a1a71aa0c25fa4d6396129f"
+      },
+      "9": {
+        "source_ref": "2 Chronicles 35:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 9,
+            "source_ref": "2 Chronicles 35:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "21ab40e17b8ee9b2df730b9a1cc42f27327e2bae9390adf47a9256abde664317"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "21ab40e17b8ee9b2df730b9a1cc42f27327e2bae9390adf47a9256abde664317"
+      },
+      "10": {
+        "source_ref": "2 Chronicles 35:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 10,
+            "source_ref": "2 Chronicles 35:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6ee71f0ae706241279ff351ef6f07f2ecb678c9ae7880175165ed9e913182b6c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6ee71f0ae706241279ff351ef6f07f2ecb678c9ae7880175165ed9e913182b6c"
+      },
+      "11": {
+        "source_ref": "2 Chronicles 35:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 11,
+            "source_ref": "2 Chronicles 35:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "91b8639e566e9c5aa6e60f69016c4b6d16ecf834fb3e73089a1893d354a9da50"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91b8639e566e9c5aa6e60f69016c4b6d16ecf834fb3e73089a1893d354a9da50"
+      },
+      "12": {
+        "source_ref": "2 Chronicles 35:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 12,
+            "source_ref": "2 Chronicles 35:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f780e5a9ab946d540267faab435b6ac1a7c311efb01786c54a5efa2483073cd2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f780e5a9ab946d540267faab435b6ac1a7c311efb01786c54a5efa2483073cd2"
+      },
+      "13": {
+        "source_ref": "2 Chronicles 35:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 13,
+            "source_ref": "2 Chronicles 35:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5df4ccca1461fb4cac22bf43c2462cb69f197f02f6eea29a1f9246391ee456ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5df4ccca1461fb4cac22bf43c2462cb69f197f02f6eea29a1f9246391ee456ab"
+      },
+      "14": {
+        "source_ref": "2 Chronicles 35:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 14,
+            "source_ref": "2 Chronicles 35:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1fea7d9d02f0ca54f52675d5252e035ff20ef8506e8966fb8b212ec8f2ceb013"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1fea7d9d02f0ca54f52675d5252e035ff20ef8506e8966fb8b212ec8f2ceb013"
+      },
+      "15": {
+        "source_ref": "2 Chronicles 35:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 15,
+            "source_ref": "2 Chronicles 35:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "110bc86d853463cfef3a13202415ef3301eaeef81cd0ab0882905b0b96b14140"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "110bc86d853463cfef3a13202415ef3301eaeef81cd0ab0882905b0b96b14140"
+      },
+      "16": {
+        "source_ref": "2 Chronicles 35:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 16,
+            "source_ref": "2 Chronicles 35:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f48941b3e651d699f0ab580e2a4c3101367fd43bab8d2c46b34c270cca32bda8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f48941b3e651d699f0ab580e2a4c3101367fd43bab8d2c46b34c270cca32bda8"
+      },
+      "17": {
+        "source_ref": "2 Chronicles 35:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 17,
+            "source_ref": "2 Chronicles 35:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d9c1b33320fca64a9323ff64ba504ef218b1571ffb6c25c4fa026eea552da521"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9c1b33320fca64a9323ff64ba504ef218b1571ffb6c25c4fa026eea552da521"
+      },
+      "18": {
+        "source_ref": "2 Chronicles 35:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 18,
+            "source_ref": "2 Chronicles 35:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2f36c4728dc78329c4d6d800622550e0f7eb8b540320168ec53a4880b37d1162"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f36c4728dc78329c4d6d800622550e0f7eb8b540320168ec53a4880b37d1162"
+      },
+      "19": {
+        "source_ref": "2 Chronicles 35:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 19,
+            "source_ref": "2 Chronicles 35:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cc1f2da4e78f1fe0c33644ddfdc6d6ab614649ba9f683416f5bb1869992c5a1d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc1f2da4e78f1fe0c33644ddfdc6d6ab614649ba9f683416f5bb1869992c5a1d"
+      },
+      "20": {
+        "source_ref": "2 Chronicles 35:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 20,
+            "source_ref": "2 Chronicles 35:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2587f1409a45a65478f29b45bc1e4ed7e6efc1216803ff0c1aa6db034121d2a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2587f1409a45a65478f29b45bc1e4ed7e6efc1216803ff0c1aa6db034121d2a5"
+      },
+      "21": {
+        "source_ref": "2 Chronicles 35:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 21,
+            "source_ref": "2 Chronicles 35:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45812f39377e6fde1e45c37c86cdb6a12bcf81da2d39a58b680c1bf201607245"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45812f39377e6fde1e45c37c86cdb6a12bcf81da2d39a58b680c1bf201607245"
+      },
+      "22": {
+        "source_ref": "2 Chronicles 35:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 22,
+            "source_ref": "2 Chronicles 35:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "862c3afbb1ad3b7eb08c812bd22c1c88c2d2c7ff7f79891bf97a90d0fd9cda53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "862c3afbb1ad3b7eb08c812bd22c1c88c2d2c7ff7f79891bf97a90d0fd9cda53"
+      },
+      "23": {
+        "source_ref": "2 Chronicles 35:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 23,
+            "source_ref": "2 Chronicles 35:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5937c7c484754f8fece8c43e5ffd95dd6754d8f23f5e7c994b65d9e59476f09c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5937c7c484754f8fece8c43e5ffd95dd6754d8f23f5e7c994b65d9e59476f09c"
+      },
+      "24": {
+        "source_ref": "2 Chronicles 35:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 24,
+            "source_ref": "2 Chronicles 35:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b13ff209294850239f511be0da1e95dfab7a366305402d4eead8c40c54d2307"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b13ff209294850239f511be0da1e95dfab7a366305402d4eead8c40c54d2307"
+      },
+      "25": {
+        "source_ref": "2 Chronicles 35:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 25,
+            "source_ref": "2 Chronicles 35:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8346b724a413f091c8bbc7b6f8c9aafa15e6ea9aa6d9aeecb6689fd627f5bd70"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8346b724a413f091c8bbc7b6f8c9aafa15e6ea9aa6d9aeecb6689fd627f5bd70"
+      },
+      "26": {
+        "source_ref": "2 Chronicles 35:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 26,
+            "source_ref": "2 Chronicles 35:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "327e5bcf28f82bce89c625b6c70056b9ee3992c9e545db2be3a4d813dacb73ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "327e5bcf28f82bce89c625b6c70056b9ee3992c9e545db2be3a4d813dacb73ca"
+      },
+      "27": {
+        "source_ref": "2 Chronicles 35:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 35,
+            "verse": 27,
+            "source_ref": "2 Chronicles 35:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "41384970409bbd41c406d788c4cb9978b65fc22659532d94a7e942daf42c062e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41384970409bbd41c406d788c4cb9978b65fc22659532d94a7e942daf42c062e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2chronicles/2Chronicles_35.md",
+    "blob_sha": "43765f83f01a8a5e2de20534487b4278f7f35eac"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

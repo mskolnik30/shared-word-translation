@@ -1,0 +1,546 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 18,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Chronicles 18:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 1,
+            "source_ref": "2 Chronicles 18:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01b96793b802b19ec3e73f12c817e4b9c89ac80ba191b80b71e4aa6d8370f52a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01b96793b802b19ec3e73f12c817e4b9c89ac80ba191b80b71e4aa6d8370f52a"
+      },
+      "2": {
+        "source_ref": "2 Chronicles 18:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 2,
+            "source_ref": "2 Chronicles 18:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "60d2a17fa9b9a1d89582ec91f8a3fac103b24e768766fdef10ba6d5253df0ffc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60d2a17fa9b9a1d89582ec91f8a3fac103b24e768766fdef10ba6d5253df0ffc"
+      },
+      "3": {
+        "source_ref": "2 Chronicles 18:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 3,
+            "source_ref": "2 Chronicles 18:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ec48e49e98ebb498fc7de08c77d9b8730bf5c7ca171bee28bc1921a1448223f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ec48e49e98ebb498fc7de08c77d9b8730bf5c7ca171bee28bc1921a1448223f"
+      },
+      "4": {
+        "source_ref": "2 Chronicles 18:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 4,
+            "source_ref": "2 Chronicles 18:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "558224cd25b01b95983619209087749371fed58799b4ea3919365edad6a28b94"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "558224cd25b01b95983619209087749371fed58799b4ea3919365edad6a28b94"
+      },
+      "5": {
+        "source_ref": "2 Chronicles 18:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 5,
+            "source_ref": "2 Chronicles 18:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0d847371718291d3a62495c0e7d4af8bdafc5011c6615eefff0b1f4233c40307"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d847371718291d3a62495c0e7d4af8bdafc5011c6615eefff0b1f4233c40307"
+      },
+      "6": {
+        "source_ref": "2 Chronicles 18:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 6,
+            "source_ref": "2 Chronicles 18:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82113011920dbcc117624c89d336cae6a332486ccd0c13fffa897ec6c53053f5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82113011920dbcc117624c89d336cae6a332486ccd0c13fffa897ec6c53053f5"
+      },
+      "7": {
+        "source_ref": "2 Chronicles 18:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 7,
+            "source_ref": "2 Chronicles 18:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "08b3dae8945de20aba1ec03b5fc02e28d61257d5f20dc4e774b5f0b9430662ff"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "08b3dae8945de20aba1ec03b5fc02e28d61257d5f20dc4e774b5f0b9430662ff"
+      },
+      "8": {
+        "source_ref": "2 Chronicles 18:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 8,
+            "source_ref": "2 Chronicles 18:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4e08cbd266e3c903de00860222f27676263e488ce480dacc9b83b3ed89e0725f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e08cbd266e3c903de00860222f27676263e488ce480dacc9b83b3ed89e0725f"
+      },
+      "9": {
+        "source_ref": "2 Chronicles 18:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 9,
+            "source_ref": "2 Chronicles 18:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cec797e6f9050d75b076db1b14808c96ec3e040ebf8665eb4875d8e366b85acf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cec797e6f9050d75b076db1b14808c96ec3e040ebf8665eb4875d8e366b85acf"
+      },
+      "10": {
+        "source_ref": "2 Chronicles 18:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 10,
+            "source_ref": "2 Chronicles 18:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e60eaec74f6bd721621125968639ce743ea0be8b2947e16fea4f2c14cf4d5ac3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e60eaec74f6bd721621125968639ce743ea0be8b2947e16fea4f2c14cf4d5ac3"
+      },
+      "11": {
+        "source_ref": "2 Chronicles 18:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 11,
+            "source_ref": "2 Chronicles 18:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "487f98388081fa5a3dbf6dbfca338ca0eb1121158038e3f9c311be9ee30c1c5d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "487f98388081fa5a3dbf6dbfca338ca0eb1121158038e3f9c311be9ee30c1c5d"
+      },
+      "12": {
+        "source_ref": "2 Chronicles 18:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 12,
+            "source_ref": "2 Chronicles 18:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c41107a1672611dd377a21af3ee726dbec86b81cae8ba9e3321138fdd90c317"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c41107a1672611dd377a21af3ee726dbec86b81cae8ba9e3321138fdd90c317"
+      },
+      "13": {
+        "source_ref": "2 Chronicles 18:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 13,
+            "source_ref": "2 Chronicles 18:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2282b8089e991a46dc2feee722b6e01a98748d5ba232b8d4ea487d00ea684013"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2282b8089e991a46dc2feee722b6e01a98748d5ba232b8d4ea487d00ea684013"
+      },
+      "14": {
+        "source_ref": "2 Chronicles 18:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 14,
+            "source_ref": "2 Chronicles 18:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6304c2ff3cf1b96762074be81b57698c37cd16d6bef0d8de501e5e37b01d2c94"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6304c2ff3cf1b96762074be81b57698c37cd16d6bef0d8de501e5e37b01d2c94"
+      },
+      "15": {
+        "source_ref": "2 Chronicles 18:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 15,
+            "source_ref": "2 Chronicles 18:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8c6d711218a8c304c6e31dca2818ccc1fd86f66cda72f48040f5f9d8310b49a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8c6d711218a8c304c6e31dca2818ccc1fd86f66cda72f48040f5f9d8310b49a6"
+      },
+      "16": {
+        "source_ref": "2 Chronicles 18:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 16,
+            "source_ref": "2 Chronicles 18:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6b7e7659939a8074f33db92fe37ae4fd5825e2f573494cb93573d330eaba8dcf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b7e7659939a8074f33db92fe37ae4fd5825e2f573494cb93573d330eaba8dcf"
+      },
+      "17": {
+        "source_ref": "2 Chronicles 18:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 17,
+            "source_ref": "2 Chronicles 18:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "803ee00f5f5b439112318f430dea069dec1ac659c8b647e0eb24129a095fdda4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "803ee00f5f5b439112318f430dea069dec1ac659c8b647e0eb24129a095fdda4"
+      },
+      "18": {
+        "source_ref": "2 Chronicles 18:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 18,
+            "source_ref": "2 Chronicles 18:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fe17c3bb83089560ecb5f40072d50fe8abb80e85b77420d8db808daff21e2002"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe17c3bb83089560ecb5f40072d50fe8abb80e85b77420d8db808daff21e2002"
+      },
+      "19": {
+        "source_ref": "2 Chronicles 18:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 19,
+            "source_ref": "2 Chronicles 18:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b18fa26702096943a146a4e44a779b950ed43319ac516634367b9d80a5cf2a10"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b18fa26702096943a146a4e44a779b950ed43319ac516634367b9d80a5cf2a10"
+      },
+      "20": {
+        "source_ref": "2 Chronicles 18:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 20,
+            "source_ref": "2 Chronicles 18:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "50eedbf9eb4174e9179a703769e57a5cd5d546642c0e4bed61f31d9adaed0b79"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "50eedbf9eb4174e9179a703769e57a5cd5d546642c0e4bed61f31d9adaed0b79"
+      },
+      "21": {
+        "source_ref": "2 Chronicles 18:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 21,
+            "source_ref": "2 Chronicles 18:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb124f58330e8adbdca5fe542405b0bd1d932bf56fbf96b0c55e4363a7fd6470"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb124f58330e8adbdca5fe542405b0bd1d932bf56fbf96b0c55e4363a7fd6470"
+      },
+      "22": {
+        "source_ref": "2 Chronicles 18:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 22,
+            "source_ref": "2 Chronicles 18:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c7d344f9fba74ccaf7eccd8dbb8e1d45ca8dfd8b06f2e0d5ed6c21bdbbacb9fa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c7d344f9fba74ccaf7eccd8dbb8e1d45ca8dfd8b06f2e0d5ed6c21bdbbacb9fa"
+      },
+      "23": {
+        "source_ref": "2 Chronicles 18:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 23,
+            "source_ref": "2 Chronicles 18:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2e90b0b626eaa24b30d52e657c664ffc0cf0ac70dcfff292bd3a55b23f0b69c3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e90b0b626eaa24b30d52e657c664ffc0cf0ac70dcfff292bd3a55b23f0b69c3"
+      },
+      "24": {
+        "source_ref": "2 Chronicles 18:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 24,
+            "source_ref": "2 Chronicles 18:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f76d400de76a4493951ce16aca3cb9830b26ca60e3ecb625b0e7e77aec2f78f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f76d400de76a4493951ce16aca3cb9830b26ca60e3ecb625b0e7e77aec2f78f"
+      },
+      "25": {
+        "source_ref": "2 Chronicles 18:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 25,
+            "source_ref": "2 Chronicles 18:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bdefaee9aeda83ea479dcf9d2593d4001e55c523de0aafe4ebedb66ef4da2720"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bdefaee9aeda83ea479dcf9d2593d4001e55c523de0aafe4ebedb66ef4da2720"
+      },
+      "26": {
+        "source_ref": "2 Chronicles 18:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 26,
+            "source_ref": "2 Chronicles 18:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6643a94e2151c2ee910a4bbb9df2d0bd95a2aec5aefa7c40fbb1db6056483d57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6643a94e2151c2ee910a4bbb9df2d0bd95a2aec5aefa7c40fbb1db6056483d57"
+      },
+      "27": {
+        "source_ref": "2 Chronicles 18:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 27,
+            "source_ref": "2 Chronicles 18:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3303030120a5df4cc4093747f84da6c9e2d2e95d5d6da04808fec41c77145485"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3303030120a5df4cc4093747f84da6c9e2d2e95d5d6da04808fec41c77145485"
+      },
+      "28": {
+        "source_ref": "2 Chronicles 18:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 28,
+            "source_ref": "2 Chronicles 18:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "36f43f7af6479355e4f173e655ff6888acaa9ef1b6fcebf3b3c0e06cfee65e6f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36f43f7af6479355e4f173e655ff6888acaa9ef1b6fcebf3b3c0e06cfee65e6f"
+      },
+      "29": {
+        "source_ref": "2 Chronicles 18:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 29,
+            "source_ref": "2 Chronicles 18:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "12439601d84c9cb09f8e41d9ba70d51d851c656d3db71e9f78b549687fef517c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12439601d84c9cb09f8e41d9ba70d51d851c656d3db71e9f78b549687fef517c"
+      },
+      "30": {
+        "source_ref": "2 Chronicles 18:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 30,
+            "source_ref": "2 Chronicles 18:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "68ba2e5dd2a62624ec80cf0d1e4bb2a30bffd39cf9a04c3f8a4d1b296d6923d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68ba2e5dd2a62624ec80cf0d1e4bb2a30bffd39cf9a04c3f8a4d1b296d6923d2"
+      },
+      "31": {
+        "source_ref": "2 Chronicles 18:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 31,
+            "source_ref": "2 Chronicles 18:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "030561028499a0c3790cb361690fe1471f62b619207784f27a0383ace2f08e38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "030561028499a0c3790cb361690fe1471f62b619207784f27a0383ace2f08e38"
+      },
+      "32": {
+        "source_ref": "2 Chronicles 18:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 32,
+            "source_ref": "2 Chronicles 18:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e968a64b966fadb3c9501d0d4f62683b1a94350688b16008fa5a85645675a6cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e968a64b966fadb3c9501d0d4f62683b1a94350688b16008fa5a85645675a6cf"
+      },
+      "33": {
+        "source_ref": "2 Chronicles 18:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 33,
+            "source_ref": "2 Chronicles 18:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f0ab05de0038ba20b0b3921e67750f3b1ed19e0c4e287f68a089244972291897"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0ab05de0038ba20b0b3921e67750f3b1ed19e0c4e287f68a089244972291897"
+      },
+      "34": {
+        "source_ref": "2 Chronicles 18:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 34,
+            "source_ref": "2 Chronicles 18:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72b496aeda683b59904209fc74d91a42fbf447216ac0d1d642975d94db297bfb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72b496aeda683b59904209fc74d91a42fbf447216ac0d1d642975d94db297bfb"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2chronicles/2Chronicles_18.md",
+    "blob_sha": "26319c1e18b5d90116e58a903f66233ae33458fc"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
