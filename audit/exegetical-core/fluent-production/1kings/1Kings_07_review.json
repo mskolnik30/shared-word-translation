@@ -1,0 +1,801 @@
+{
+  "book": "1 Kings",
+  "chapter": 7,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Kings 7:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 1,
+            "source_ref": "1 Kings 7:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c5d68081a31303cca9cf83d374962d0a2ffb2f76f5dbbd8eb728521d0094f13"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c5d68081a31303cca9cf83d374962d0a2ffb2f76f5dbbd8eb728521d0094f13"
+      },
+      "2": {
+        "source_ref": "1 Kings 7:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 2,
+            "source_ref": "1 Kings 7:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df25ee5d8a048d2a72fbc3aa5fe4c3ae9249bf1c242f3db72f5d0f1135a19fd7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df25ee5d8a048d2a72fbc3aa5fe4c3ae9249bf1c242f3db72f5d0f1135a19fd7"
+      },
+      "3": {
+        "source_ref": "1 Kings 7:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 3,
+            "source_ref": "1 Kings 7:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1acba60bc4a2850d549b742bd689fcf9a21ba4038c614e58a9b6df567b3d541"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1acba60bc4a2850d549b742bd689fcf9a21ba4038c614e58a9b6df567b3d541"
+      },
+      "4": {
+        "source_ref": "1 Kings 7:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 4,
+            "source_ref": "1 Kings 7:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6c0a9e41b886f9177f016bbd86b068c0aab26799003552135c001c66fa484ad9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6c0a9e41b886f9177f016bbd86b068c0aab26799003552135c001c66fa484ad9"
+      },
+      "5": {
+        "source_ref": "1 Kings 7:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 5,
+            "source_ref": "1 Kings 7:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "83416dd36f6f0df6ea0bd98097d582cfc3f1837affb66403d0be4ef4bd6180ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83416dd36f6f0df6ea0bd98097d582cfc3f1837affb66403d0be4ef4bd6180ef"
+      },
+      "6": {
+        "source_ref": "1 Kings 7:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 6,
+            "source_ref": "1 Kings 7:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ee70422604ea1156c4186e5f7f30987a44c32fb1ec2e90e6f486a66398b5a40b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee70422604ea1156c4186e5f7f30987a44c32fb1ec2e90e6f486a66398b5a40b"
+      },
+      "7": {
+        "source_ref": "1 Kings 7:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 7,
+            "source_ref": "1 Kings 7:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e8404dafc3340167a525c2d6a17f719455cc0a747b2270fe84cefac3dcdf7ae5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8404dafc3340167a525c2d6a17f719455cc0a747b2270fe84cefac3dcdf7ae5"
+      },
+      "8": {
+        "source_ref": "1 Kings 7:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 8,
+            "source_ref": "1 Kings 7:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7c6424c4f2400c84854eb82ec139a313e93ca98809cfcab30b4dcce8cbbb23eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c6424c4f2400c84854eb82ec139a313e93ca98809cfcab30b4dcce8cbbb23eb"
+      },
+      "9": {
+        "source_ref": "1 Kings 7:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 9,
+            "source_ref": "1 Kings 7:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "10143b69d2a654bf1bb9c9b7bc9a2baf54041889bd519f9394b66264382ba11d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10143b69d2a654bf1bb9c9b7bc9a2baf54041889bd519f9394b66264382ba11d"
+      },
+      "10": {
+        "source_ref": "1 Kings 7:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 10,
+            "source_ref": "1 Kings 7:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b6cce87cd4d342c74541f36c42d2ee7620317c91178cdb3b76eb6cfcb75151b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b6cce87cd4d342c74541f36c42d2ee7620317c91178cdb3b76eb6cfcb75151b4"
+      },
+      "11": {
+        "source_ref": "1 Kings 7:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 11,
+            "source_ref": "1 Kings 7:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c6d021d0511365b96187182e3232d8f255c1cd3efd021ab472d7cb780690bb9e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c6d021d0511365b96187182e3232d8f255c1cd3efd021ab472d7cb780690bb9e"
+      },
+      "12": {
+        "source_ref": "1 Kings 7:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 12,
+            "source_ref": "1 Kings 7:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "eee640a6f9e2a3009e6c98612f22e1ac911683a9989327cf2c62733e92586027"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eee640a6f9e2a3009e6c98612f22e1ac911683a9989327cf2c62733e92586027"
+      },
+      "13": {
+        "source_ref": "1 Kings 7:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 13,
+            "source_ref": "1 Kings 7:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a1032efdd3b9c92a3f69f470be812effde785462e4669f3cbce122214d08cd2b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1032efdd3b9c92a3f69f470be812effde785462e4669f3cbce122214d08cd2b"
+      },
+      "14": {
+        "source_ref": "1 Kings 7:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 14,
+            "source_ref": "1 Kings 7:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "73e24386d715dc9d0e2d34b0404ec9e42614973c9a5fbcf45619647654d032eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "73e24386d715dc9d0e2d34b0404ec9e42614973c9a5fbcf45619647654d032eb"
+      },
+      "15": {
+        "source_ref": "1 Kings 7:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 15,
+            "source_ref": "1 Kings 7:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d9714c25004585f22e3470e7aa526eb375688d0038c84fbdcccf1299a8ff4034"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9714c25004585f22e3470e7aa526eb375688d0038c84fbdcccf1299a8ff4034"
+      },
+      "16": {
+        "source_ref": "1 Kings 7:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 16,
+            "source_ref": "1 Kings 7:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "836cfe2edbd9e965a3bcd2b9030c151625609fd568232c763168871d4dcc770d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "836cfe2edbd9e965a3bcd2b9030c151625609fd568232c763168871d4dcc770d"
+      },
+      "17": {
+        "source_ref": "1 Kings 7:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 17,
+            "source_ref": "1 Kings 7:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3360595a9aa0cf0e6904f9e6230af053b6f862156738b08b77acf59cbf66efc1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3360595a9aa0cf0e6904f9e6230af053b6f862156738b08b77acf59cbf66efc1"
+      },
+      "18": {
+        "source_ref": "1 Kings 7:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 18,
+            "source_ref": "1 Kings 7:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f887a811f4dbebbadc69a93740f28852fc65eb1db15d4429a37e36c9adbf9d61"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f887a811f4dbebbadc69a93740f28852fc65eb1db15d4429a37e36c9adbf9d61"
+      },
+      "19": {
+        "source_ref": "1 Kings 7:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 19,
+            "source_ref": "1 Kings 7:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "29ad0d1b209a3c467af14242066484a600a65f8e6eddb04a0b4c760fdfb4eb69"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "29ad0d1b209a3c467af14242066484a600a65f8e6eddb04a0b4c760fdfb4eb69"
+      },
+      "20": {
+        "source_ref": "1 Kings 7:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 20,
+            "source_ref": "1 Kings 7:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b0d8c34966ab2b53d94723724e76c3b7c73d3451855ae0f3629c0864bdb5aaa1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0d8c34966ab2b53d94723724e76c3b7c73d3451855ae0f3629c0864bdb5aaa1"
+      },
+      "21": {
+        "source_ref": "1 Kings 7:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 21,
+            "source_ref": "1 Kings 7:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0ebf6a3402cce21e3dc331696dc2d48423773f06c12418d5d7010fad28bad0ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ebf6a3402cce21e3dc331696dc2d48423773f06c12418d5d7010fad28bad0ea"
+      },
+      "22": {
+        "source_ref": "1 Kings 7:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 22,
+            "source_ref": "1 Kings 7:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9f5cb23db2a9985555cd0c986c8efa96a47aba69b40ca47041ad7df394954843"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f5cb23db2a9985555cd0c986c8efa96a47aba69b40ca47041ad7df394954843"
+      },
+      "23": {
+        "source_ref": "1 Kings 7:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 23,
+            "source_ref": "1 Kings 7:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "08946dfb20c7a757df901da7520e443321e6f7bf518a06fb2d4c47066ff3c06b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "08946dfb20c7a757df901da7520e443321e6f7bf518a06fb2d4c47066ff3c06b"
+      },
+      "24": {
+        "source_ref": "1 Kings 7:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 24,
+            "source_ref": "1 Kings 7:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e40c80aca8a126c415364107d704f509f2c666ec6b1d6b24467488cfb5d6027a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e40c80aca8a126c415364107d704f509f2c666ec6b1d6b24467488cfb5d6027a"
+      },
+      "25": {
+        "source_ref": "1 Kings 7:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 25,
+            "source_ref": "1 Kings 7:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c90fc856adcc898f7288f602f9a8518ba35ed2301c5ab228ce09492c9c9e92e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c90fc856adcc898f7288f602f9a8518ba35ed2301c5ab228ce09492c9c9e92e3"
+      },
+      "26": {
+        "source_ref": "1 Kings 7:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 26,
+            "source_ref": "1 Kings 7:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a1edc702b3fbe6d69e42f64f316e94bd096a51bd4fe43b6406b2e9873976f01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a1edc702b3fbe6d69e42f64f316e94bd096a51bd4fe43b6406b2e9873976f01"
+      },
+      "27": {
+        "source_ref": "1 Kings 7:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 27,
+            "source_ref": "1 Kings 7:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9778597bc57b23f590445f8a2129f132682f9ee999410acd53c21b8971b4131f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9778597bc57b23f590445f8a2129f132682f9ee999410acd53c21b8971b4131f"
+      },
+      "28": {
+        "source_ref": "1 Kings 7:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 28,
+            "source_ref": "1 Kings 7:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "028e3721e5c0fdc68e2203ae5305b4e004d031e60d52317ed5dc3b6e78b7380b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "028e3721e5c0fdc68e2203ae5305b4e004d031e60d52317ed5dc3b6e78b7380b"
+      },
+      "29": {
+        "source_ref": "1 Kings 7:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 29,
+            "source_ref": "1 Kings 7:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cd89a3bbcb39040ac5ad9828e75f7d861be786146916d6867bdc43e248fdb352"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd89a3bbcb39040ac5ad9828e75f7d861be786146916d6867bdc43e248fdb352"
+      },
+      "30": {
+        "source_ref": "1 Kings 7:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 30,
+            "source_ref": "1 Kings 7:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1fd20424fa16a592314e5257820bc4d09b489bf7e0715fa11dee2ef2b9a202b9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1fd20424fa16a592314e5257820bc4d09b489bf7e0715fa11dee2ef2b9a202b9"
+      },
+      "31": {
+        "source_ref": "1 Kings 7:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 31,
+            "source_ref": "1 Kings 7:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8aa112f17bfcb468ae8727777b05d4c5389f15503e834c31ac02127307403d4d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8aa112f17bfcb468ae8727777b05d4c5389f15503e834c31ac02127307403d4d"
+      },
+      "32": {
+        "source_ref": "1 Kings 7:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 32,
+            "source_ref": "1 Kings 7:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c8b9c6a97cc581ea18f7d33295c18d103ff5bcb1d89f8b0f745e92f78c642966"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c8b9c6a97cc581ea18f7d33295c18d103ff5bcb1d89f8b0f745e92f78c642966"
+      },
+      "33": {
+        "source_ref": "1 Kings 7:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 33,
+            "source_ref": "1 Kings 7:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ffe4bf811c0fc9bea28ceebdc9150030e79092e6edfc835f62ad96dcb9b3d62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ffe4bf811c0fc9bea28ceebdc9150030e79092e6edfc835f62ad96dcb9b3d62"
+      },
+      "34": {
+        "source_ref": "1 Kings 7:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 34,
+            "source_ref": "1 Kings 7:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "09766daab37492212f9be7e0c3939362a01d21b2aaa78e2197120c35dd9ead67"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09766daab37492212f9be7e0c3939362a01d21b2aaa78e2197120c35dd9ead67"
+      },
+      "35": {
+        "source_ref": "1 Kings 7:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 35,
+            "source_ref": "1 Kings 7:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ba57f85fca92e428fa370e504cad917feea81be2efd3b61d6ee18f99c288f9c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba57f85fca92e428fa370e504cad917feea81be2efd3b61d6ee18f99c288f9c1"
+      },
+      "36": {
+        "source_ref": "1 Kings 7:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 36,
+            "source_ref": "1 Kings 7:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5298947c3b386b8c5db66d85e6fe49398713fe0f2c089be8d54aa44040a6da10"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5298947c3b386b8c5db66d85e6fe49398713fe0f2c089be8d54aa44040a6da10"
+      },
+      "37": {
+        "source_ref": "1 Kings 7:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 37,
+            "source_ref": "1 Kings 7:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ed949ccdf64b4408fc3addfe84c8759d2bebb2faabc9690d9ff60f1058fe0b92"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ed949ccdf64b4408fc3addfe84c8759d2bebb2faabc9690d9ff60f1058fe0b92"
+      },
+      "38": {
+        "source_ref": "1 Kings 7:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 38,
+            "source_ref": "1 Kings 7:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5b0cbede1405dc7a9d645ba1d0add66cdf6efaccb7b02ba57d7863a2e62685a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b0cbede1405dc7a9d645ba1d0add66cdf6efaccb7b02ba57d7863a2e62685a9"
+      },
+      "39": {
+        "source_ref": "1 Kings 7:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 39,
+            "source_ref": "1 Kings 7:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4f8e23179271af09f75f90a2ceac520b9ace911981c0eb370bfc19a89a62dad4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4f8e23179271af09f75f90a2ceac520b9ace911981c0eb370bfc19a89a62dad4"
+      },
+      "40": {
+        "source_ref": "1 Kings 7:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 40,
+            "source_ref": "1 Kings 7:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c02bf3a85a2e91e0a9139cfd5b31a5ec613be907f2a389f66e27ae8b41fc0fbc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c02bf3a85a2e91e0a9139cfd5b31a5ec613be907f2a389f66e27ae8b41fc0fbc"
+      },
+      "41": {
+        "source_ref": "1 Kings 7:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 41,
+            "source_ref": "1 Kings 7:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f5786b4a08761f6fd6e470b6c487e6999410942932d3511065000d291fdb3d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f5786b4a08761f6fd6e470b6c487e6999410942932d3511065000d291fdb3d8"
+      },
+      "42": {
+        "source_ref": "1 Kings 7:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 42,
+            "source_ref": "1 Kings 7:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d99ff5dc151925fb83eb6dd3af8c9c0ff76341a21cb4c64f14a025ca47b2ecd1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d99ff5dc151925fb83eb6dd3af8c9c0ff76341a21cb4c64f14a025ca47b2ecd1"
+      },
+      "43": {
+        "source_ref": "1 Kings 7:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 43,
+            "source_ref": "1 Kings 7:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "961ed75d1ba599bd644120a7b60de959646536c0fc2576e31e21b8e4a72a3c7e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "961ed75d1ba599bd644120a7b60de959646536c0fc2576e31e21b8e4a72a3c7e"
+      },
+      "44": {
+        "source_ref": "1 Kings 7:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 44,
+            "source_ref": "1 Kings 7:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d3d45ca53555940dbfb94353d98c9bd34d0858891485fa9f4f295da2644c15a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d3d45ca53555940dbfb94353d98c9bd34d0858891485fa9f4f295da2644c15a"
+      },
+      "45": {
+        "source_ref": "1 Kings 7:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 45,
+            "source_ref": "1 Kings 7:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "10fbe40f87c21242f7d6cc446b207fb6c5a6b9b1ab9e828500b765647c51d3d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10fbe40f87c21242f7d6cc446b207fb6c5a6b9b1ab9e828500b765647c51d3d6"
+      },
+      "46": {
+        "source_ref": "1 Kings 7:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 46,
+            "source_ref": "1 Kings 7:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "022be0a5a594cc086604beb2a72171b1d00d2e73910bec312e81cbfb35ed0f19"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "022be0a5a594cc086604beb2a72171b1d00d2e73910bec312e81cbfb35ed0f19"
+      },
+      "47": {
+        "source_ref": "1 Kings 7:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 47,
+            "source_ref": "1 Kings 7:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "98cf39f2d651f52ab195689bf3ba0f270eb0cbae3729881a413dfb5acc2f8514"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "98cf39f2d651f52ab195689bf3ba0f270eb0cbae3729881a413dfb5acc2f8514"
+      },
+      "48": {
+        "source_ref": "1 Kings 7:48 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 48,
+            "source_ref": "1 Kings 7:48 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b4eccab7fa80bd9a63605948a92c889fdc9b1745ea5fdb443307a183ef4ab969"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b4eccab7fa80bd9a63605948a92c889fdc9b1745ea5fdb443307a183ef4ab969"
+      },
+      "49": {
+        "source_ref": "1 Kings 7:49 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 49,
+            "source_ref": "1 Kings 7:49 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4e9693f98ad0cff97a8dee4ac01588af3c863b0f39de641ab3bcfcae624a29ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4e9693f98ad0cff97a8dee4ac01588af3c863b0f39de641ab3bcfcae624a29ba"
+      },
+      "50": {
+        "source_ref": "1 Kings 7:50 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 50,
+            "source_ref": "1 Kings 7:50 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7b979a116eadaab29a2e7d800dced3b74168fda60fecb2eae36ca06251f6b708"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b979a116eadaab29a2e7d800dced3b74168fda60fecb2eae36ca06251f6b708"
+      },
+      "51": {
+        "source_ref": "1 Kings 7:51 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 51,
+            "source_ref": "1 Kings 7:51 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0a8ac4cc3ebf09fae7737d5212c758195852374aa7285518c6bbace72bedd87c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a8ac4cc3ebf09fae7737d5212c758195852374aa7285518c6bbace72bedd87c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1kings/1Kings_07.md",
+    "blob_sha": "90fef90a2e7b6da9983de1d2acdb39aa050c3ec9"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

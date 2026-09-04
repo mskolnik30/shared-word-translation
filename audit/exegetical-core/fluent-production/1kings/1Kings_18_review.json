@@ -1,0 +1,733 @@
+{
+  "book": "1 Kings",
+  "chapter": 18,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Kings 18:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 1,
+            "source_ref": "1 Kings 18:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7d782e09bb18f97ec2345992e013bb1a9251397ae2915b87952b7626d789e9bd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d782e09bb18f97ec2345992e013bb1a9251397ae2915b87952b7626d789e9bd"
+      },
+      "2": {
+        "source_ref": "1 Kings 18:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 2,
+            "source_ref": "1 Kings 18:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e6c799907a5f303f9e76ef620e87f44355f4db1089d340e35d33cda5847093ed"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e6c799907a5f303f9e76ef620e87f44355f4db1089d340e35d33cda5847093ed"
+      },
+      "3": {
+        "source_ref": "1 Kings 18:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 3,
+            "source_ref": "1 Kings 18:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ae29e0d587fa63f5eb6b50320d4f2bbf623a56a40d2a8d717e92d1bd0412b1f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ae29e0d587fa63f5eb6b50320d4f2bbf623a56a40d2a8d717e92d1bd0412b1f"
+      },
+      "4": {
+        "source_ref": "1 Kings 18:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 4,
+            "source_ref": "1 Kings 18:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0785a95045d833a062e5a2d3f55307ea875503f0b307e911581ea5ed567eac66"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0785a95045d833a062e5a2d3f55307ea875503f0b307e911581ea5ed567eac66"
+      },
+      "5": {
+        "source_ref": "1 Kings 18:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 5,
+            "source_ref": "1 Kings 18:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f0593f511aa451db99bb4c636c0b8cd0393c5a3ee85adf9c05908e137535eec8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0593f511aa451db99bb4c636c0b8cd0393c5a3ee85adf9c05908e137535eec8"
+      },
+      "6": {
+        "source_ref": "1 Kings 18:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 6,
+            "source_ref": "1 Kings 18:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "787fb042ed559edd8bbcfd12f5177984c6d67c25f424ea80bb3fb40ab40367cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "787fb042ed559edd8bbcfd12f5177984c6d67c25f424ea80bb3fb40ab40367cb"
+      },
+      "7": {
+        "source_ref": "1 Kings 18:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 7,
+            "source_ref": "1 Kings 18:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a49f6e979f8930358ecc8d6e2432a90f386dc5ac49083b5ba50b7808b3f74eec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a49f6e979f8930358ecc8d6e2432a90f386dc5ac49083b5ba50b7808b3f74eec"
+      },
+      "8": {
+        "source_ref": "1 Kings 18:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 8,
+            "source_ref": "1 Kings 18:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ba314eb786535034ed57271de6efb20570b3afba4a2f2d4b83f7f2bb5fbffd09"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba314eb786535034ed57271de6efb20570b3afba4a2f2d4b83f7f2bb5fbffd09"
+      },
+      "9": {
+        "source_ref": "1 Kings 18:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 9,
+            "source_ref": "1 Kings 18:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8ff18acf672cb426b5bd9fef8043ff734960e1a96390bf7edfba721403ee7ba8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8ff18acf672cb426b5bd9fef8043ff734960e1a96390bf7edfba721403ee7ba8"
+      },
+      "10": {
+        "source_ref": "1 Kings 18:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 10,
+            "source_ref": "1 Kings 18:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0c8f2658bc771b04343cf74a2932ac53980eebe2920b94f4eae00efc3754afdf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c8f2658bc771b04343cf74a2932ac53980eebe2920b94f4eae00efc3754afdf"
+      },
+      "11": {
+        "source_ref": "1 Kings 18:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 11,
+            "source_ref": "1 Kings 18:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f65940a5dadd5107ab6c2cd193122fabfccd1795b2eafd9454f66e8f887144f6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f65940a5dadd5107ab6c2cd193122fabfccd1795b2eafd9454f66e8f887144f6"
+      },
+      "12": {
+        "source_ref": "1 Kings 18:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 12,
+            "source_ref": "1 Kings 18:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5725ab01b2a0374a112ab2b11fc3fc4bc744435a81210503effde06ce2b3bb57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5725ab01b2a0374a112ab2b11fc3fc4bc744435a81210503effde06ce2b3bb57"
+      },
+      "13": {
+        "source_ref": "1 Kings 18:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 13,
+            "source_ref": "1 Kings 18:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9265088851ae5401f13c625dd765faeedfd24851f09424b59673b05927b88ce8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9265088851ae5401f13c625dd765faeedfd24851f09424b59673b05927b88ce8"
+      },
+      "14": {
+        "source_ref": "1 Kings 18:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 14,
+            "source_ref": "1 Kings 18:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1e0f851fb16984aa7fcbdbb15dbb81fa8694efcb50cb038369d93e4ea2f5699e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e0f851fb16984aa7fcbdbb15dbb81fa8694efcb50cb038369d93e4ea2f5699e"
+      },
+      "15": {
+        "source_ref": "1 Kings 18:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 15,
+            "source_ref": "1 Kings 18:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5ee5defb14543611ce8a3f58c525f04bebf620e4fbb21e243bdaab4a71e2446a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ee5defb14543611ce8a3f58c525f04bebf620e4fbb21e243bdaab4a71e2446a"
+      },
+      "16": {
+        "source_ref": "1 Kings 18:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 16,
+            "source_ref": "1 Kings 18:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3ddcbe6b2c9a9ce8b556773721b200b4291116a4c43c12cfbc2d58a4e507ef4c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3ddcbe6b2c9a9ce8b556773721b200b4291116a4c43c12cfbc2d58a4e507ef4c"
+      },
+      "17": {
+        "source_ref": "1 Kings 18:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 17,
+            "source_ref": "1 Kings 18:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "16046c43774dbba220e36f03b0902a914f024a554cd66d8243705d6a4587d123"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16046c43774dbba220e36f03b0902a914f024a554cd66d8243705d6a4587d123"
+      },
+      "18": {
+        "source_ref": "1 Kings 18:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 18,
+            "source_ref": "1 Kings 18:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "975291599909e3fd4710ecb751e334dcb760a753a7f47a4d43a0b5826dfaf9cb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "975291599909e3fd4710ecb751e334dcb760a753a7f47a4d43a0b5826dfaf9cb"
+      },
+      "19": {
+        "source_ref": "1 Kings 18:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 19,
+            "source_ref": "1 Kings 18:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "33d12abfb817681eb46493068a518fe4534810146b09665cd8d2c0d90da07543"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "33d12abfb817681eb46493068a518fe4534810146b09665cd8d2c0d90da07543"
+      },
+      "20": {
+        "source_ref": "1 Kings 18:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 20,
+            "source_ref": "1 Kings 18:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b5c2b39503dddcf585d8299b69bad952c436189f807291881194e3e6e0b692b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b5c2b39503dddcf585d8299b69bad952c436189f807291881194e3e6e0b692b7"
+      },
+      "21": {
+        "source_ref": "1 Kings 18:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 21,
+            "source_ref": "1 Kings 18:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "099aef0ac28aa5f0122cdc5a21307852a011eff733008d754a645f18bd60c9be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "099aef0ac28aa5f0122cdc5a21307852a011eff733008d754a645f18bd60c9be"
+      },
+      "22": {
+        "source_ref": "1 Kings 18:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 22,
+            "source_ref": "1 Kings 18:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fbc22f0a0b5b5037e1fab292ec36dbcc824c7607b9236d59e7393d2fea513f40"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbc22f0a0b5b5037e1fab292ec36dbcc824c7607b9236d59e7393d2fea513f40"
+      },
+      "23": {
+        "source_ref": "1 Kings 18:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 23,
+            "source_ref": "1 Kings 18:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "71bcd00701ee2bb44658686b32d00778ea810bcd1b3f0447a9ca4206ec4fb12d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71bcd00701ee2bb44658686b32d00778ea810bcd1b3f0447a9ca4206ec4fb12d"
+      },
+      "24": {
+        "source_ref": "1 Kings 18:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 24,
+            "source_ref": "1 Kings 18:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dcb7fe6d8c0b29a64f57481aa0d7f90e7ff2e95807675b03e6d6e1e7a29e175f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dcb7fe6d8c0b29a64f57481aa0d7f90e7ff2e95807675b03e6d6e1e7a29e175f"
+      },
+      "25": {
+        "source_ref": "1 Kings 18:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 25,
+            "source_ref": "1 Kings 18:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "359c69aa6e50c8dad571ed7649c4d61102de416aa82e7060687ed4f0e2f3ec9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "359c69aa6e50c8dad571ed7649c4d61102de416aa82e7060687ed4f0e2f3ec9c"
+      },
+      "26": {
+        "source_ref": "1 Kings 18:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 26,
+            "source_ref": "1 Kings 18:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "00379627d08b628275121c765d09fe05d5f004ec5f39de1146e5b65a3a8cb645"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "00379627d08b628275121c765d09fe05d5f004ec5f39de1146e5b65a3a8cb645"
+      },
+      "27": {
+        "source_ref": "1 Kings 18:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 27,
+            "source_ref": "1 Kings 18:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d3381a615b09ac550edcb4ef830543818db732501252ec617a86e975f31767ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3381a615b09ac550edcb4ef830543818db732501252ec617a86e975f31767ef"
+      },
+      "28": {
+        "source_ref": "1 Kings 18:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 28,
+            "source_ref": "1 Kings 18:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c59455db4645992944f7fb3715214d24e85dd2aac3c91b28d8e071ee747a35d6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c59455db4645992944f7fb3715214d24e85dd2aac3c91b28d8e071ee747a35d6"
+      },
+      "29": {
+        "source_ref": "1 Kings 18:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 29,
+            "source_ref": "1 Kings 18:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2c4bc23f92a71982ed11dccebfe8ea589a57d5a665f9eb47f1626e64310c5c52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2c4bc23f92a71982ed11dccebfe8ea589a57d5a665f9eb47f1626e64310c5c52"
+      },
+      "30": {
+        "source_ref": "1 Kings 18:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 30,
+            "source_ref": "1 Kings 18:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f1421ff25b55f7f3dd3ff0c28d43ac5a75cfbf301d2c2607e993294678a333c9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f1421ff25b55f7f3dd3ff0c28d43ac5a75cfbf301d2c2607e993294678a333c9"
+      },
+      "31": {
+        "source_ref": "1 Kings 18:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 31,
+            "source_ref": "1 Kings 18:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "594a969f868b459e40b1638d8dcb63e7d07898a70a73405544d569ca9979edc1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "594a969f868b459e40b1638d8dcb63e7d07898a70a73405544d569ca9979edc1"
+      },
+      "32": {
+        "source_ref": "1 Kings 18:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 32,
+            "source_ref": "1 Kings 18:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8b9627c25bd06277afcfcc695f65aa88754bbb8ac73107bd02b479075f8522d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b9627c25bd06277afcfcc695f65aa88754bbb8ac73107bd02b479075f8522d5"
+      },
+      "33": {
+        "source_ref": "1 Kings 18:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 33,
+            "source_ref": "1 Kings 18:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "62295e7883464118002d9682610c2ca3d0835871c83eb1627571438802cf514a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "62295e7883464118002d9682610c2ca3d0835871c83eb1627571438802cf514a"
+      },
+      "34": {
+        "source_ref": "1 Kings 18:34 (Hebrew; before kjv marker) + 1 Kings 18:34 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 34,
+            "source_ref": "1 Kings 18:34 (Hebrew; before kjv marker)",
+            "segment_mode": "before_kjv_marker",
+            "sha256": "5b0cf8875562141caf4e28f99e7adaefa0aa52bb3d6be4b69aae08820ac634e9"
+          },
+          {
+            "chapter": 18,
+            "verse": 34,
+            "source_ref": "1 Kings 18:34 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "3c4e5f01ce4d39cc532fbb1e579f83da5f75de48a140ded8351c54e1efc83c88"
+          }
+        ],
+        "segment_mode": "before_kjv_marker+after_kjv_marker",
+        "sha256": "6a07528a59fc8aae3b4f5a4b6455e91fc318a408162d54f5a84e70ca891fa9a3"
+      },
+      "35": {
+        "source_ref": "1 Kings 18:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 35,
+            "source_ref": "1 Kings 18:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "81740af221d3e0b3e22beac1a14a91a87e0dce86d0361016072e6d9246df799c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81740af221d3e0b3e22beac1a14a91a87e0dce86d0361016072e6d9246df799c"
+      },
+      "36": {
+        "source_ref": "1 Kings 18:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 36,
+            "source_ref": "1 Kings 18:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "25a399004cc1e3fde923d9eac6897a52f31dfc4049210c2f5ba012daa5b60492"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "25a399004cc1e3fde923d9eac6897a52f31dfc4049210c2f5ba012daa5b60492"
+      },
+      "37": {
+        "source_ref": "1 Kings 18:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 37,
+            "source_ref": "1 Kings 18:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82034a77fd2d00820ef5116054751e499b20c18e34f94de212d3fd8b2f2a904c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82034a77fd2d00820ef5116054751e499b20c18e34f94de212d3fd8b2f2a904c"
+      },
+      "38": {
+        "source_ref": "1 Kings 18:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 38,
+            "source_ref": "1 Kings 18:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "528ee37b66756d637cd6316753732e12be6de1347e99351950b1169e29a4b13c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "528ee37b66756d637cd6316753732e12be6de1347e99351950b1169e29a4b13c"
+      },
+      "39": {
+        "source_ref": "1 Kings 18:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 39,
+            "source_ref": "1 Kings 18:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01c1a0d1db1cca97b6c7fdcc342f145e55640b68d2b962a0b785ad33e150a109"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01c1a0d1db1cca97b6c7fdcc342f145e55640b68d2b962a0b785ad33e150a109"
+      },
+      "40": {
+        "source_ref": "1 Kings 18:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 40,
+            "source_ref": "1 Kings 18:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "72ceb0311f116106dce10a9a7fe1fd7839362dc45926706f33b4fa494366ae26"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "72ceb0311f116106dce10a9a7fe1fd7839362dc45926706f33b4fa494366ae26"
+      },
+      "41": {
+        "source_ref": "1 Kings 18:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 41,
+            "source_ref": "1 Kings 18:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e5edef7105ffd3f0039f61cb3446ab581f4f2a1f39439844d14bf343194d8ed5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5edef7105ffd3f0039f61cb3446ab581f4f2a1f39439844d14bf343194d8ed5"
+      },
+      "42": {
+        "source_ref": "1 Kings 18:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 42,
+            "source_ref": "1 Kings 18:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "32b666104f616814349ac964842df34e676cf8af8574034a3a4ca3616afaa000"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "32b666104f616814349ac964842df34e676cf8af8574034a3a4ca3616afaa000"
+      },
+      "43": {
+        "source_ref": "1 Kings 18:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 43,
+            "source_ref": "1 Kings 18:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "44d73833b051a12221b5aef27606df74b5ae7a49d173547dd30d525d23cbacec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "44d73833b051a12221b5aef27606df74b5ae7a49d173547dd30d525d23cbacec"
+      },
+      "44": {
+        "source_ref": "1 Kings 18:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 44,
+            "source_ref": "1 Kings 18:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6a3a6e4ad1365a3cadeb782f5b35869961459252e31138f7607234cd408cfa51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a3a6e4ad1365a3cadeb782f5b35869961459252e31138f7607234cd408cfa51"
+      },
+      "45": {
+        "source_ref": "1 Kings 18:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 45,
+            "source_ref": "1 Kings 18:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6dc24875f7cd17d2d5752ed701d96e751553b4266e1357fc4a3ae0c5f5d37ad0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6dc24875f7cd17d2d5752ed701d96e751553b4266e1357fc4a3ae0c5f5d37ad0"
+      },
+      "46": {
+        "source_ref": "1 Kings 18:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 18,
+            "verse": 46,
+            "source_ref": "1 Kings 18:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "df3a6b3c1308030a5ba7af99e4d7cf8c13ceb0f69ffa3b4a7b19a8586b909f42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df3a6b3c1308030a5ba7af99e4d7cf8c13ceb0f69ffa3b4a7b19a8586b909f42"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1kings/1Kings_18.md",
+    "blob_sha": "e4ec5f28f620c6f91d38a511e5c7e85fbec6dc26"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,1026 @@
+{
+  "book": "1 Kings",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/1Kgs.xml",
+    "git_blob_sha": "a924c26c88276018412a1868a49ae86d97bebd4e",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Kings 8:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "1 Kings 8:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2d5b2d92327304ccfd6c7f7dfb9da06ede277fb0381b3eff4e12970b07daa40d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d5b2d92327304ccfd6c7f7dfb9da06ede277fb0381b3eff4e12970b07daa40d"
+      },
+      "2": {
+        "source_ref": "1 Kings 8:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "1 Kings 8:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0ff97f2e3acd6c45e05f24fd9e734996759598b218e264c13e6cdff69ab1dca6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0ff97f2e3acd6c45e05f24fd9e734996759598b218e264c13e6cdff69ab1dca6"
+      },
+      "3": {
+        "source_ref": "1 Kings 8:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "1 Kings 8:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "743a83ce18a39290674a15ff31bd91fa23888322fa032e587d80fcde6ae7370d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "743a83ce18a39290674a15ff31bd91fa23888322fa032e587d80fcde6ae7370d"
+      },
+      "4": {
+        "source_ref": "1 Kings 8:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "1 Kings 8:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3aa30e74fed4007ac4433fb8fd2e89df36b2f05a2977c4d7edb24135733cdafd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3aa30e74fed4007ac4433fb8fd2e89df36b2f05a2977c4d7edb24135733cdafd"
+      },
+      "5": {
+        "source_ref": "1 Kings 8:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "1 Kings 8:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b7f5eb9335cdeddad842bae5352164ac75b050f0c0f1154493c0aab39fb6e111"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b7f5eb9335cdeddad842bae5352164ac75b050f0c0f1154493c0aab39fb6e111"
+      },
+      "6": {
+        "source_ref": "1 Kings 8:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "1 Kings 8:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "016af7891f3bbcea03f27c6e8b60dfcaa321fc2172402d903dc793ae035eaf6e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "016af7891f3bbcea03f27c6e8b60dfcaa321fc2172402d903dc793ae035eaf6e"
+      },
+      "7": {
+        "source_ref": "1 Kings 8:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "1 Kings 8:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "80cb8d6a27a6f7e042beb4fac234c21d4e8a006480f5378ca046be020e97a305"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "80cb8d6a27a6f7e042beb4fac234c21d4e8a006480f5378ca046be020e97a305"
+      },
+      "8": {
+        "source_ref": "1 Kings 8:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "1 Kings 8:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "552712994b6dc4f35149b830479af7a405f5c27a4bb543bff839a94d60f7a5cc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "552712994b6dc4f35149b830479af7a405f5c27a4bb543bff839a94d60f7a5cc"
+      },
+      "9": {
+        "source_ref": "1 Kings 8:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "1 Kings 8:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1f8db1cf9ea09bf3bd8a0332bd1761251d0ad8feeb6c54256f9491077e424cf7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1f8db1cf9ea09bf3bd8a0332bd1761251d0ad8feeb6c54256f9491077e424cf7"
+      },
+      "10": {
+        "source_ref": "1 Kings 8:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "1 Kings 8:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2de0cc638a7e3faa8d1c83cbc6563d8feb5b04a170e1cb9d153862a3b509db40"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2de0cc638a7e3faa8d1c83cbc6563d8feb5b04a170e1cb9d153862a3b509db40"
+      },
+      "11": {
+        "source_ref": "1 Kings 8:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 11,
+            "source_ref": "1 Kings 8:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "51c1fb2c4976cd5113824fc31a16317a99e81c30c4af5eaaca0177241e183fb0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "51c1fb2c4976cd5113824fc31a16317a99e81c30c4af5eaaca0177241e183fb0"
+      },
+      "12": {
+        "source_ref": "1 Kings 8:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 12,
+            "source_ref": "1 Kings 8:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "be995c984339aedd2907cba88b55ced554501e7d3c502f282706c602bd4c9d91"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be995c984339aedd2907cba88b55ced554501e7d3c502f282706c602bd4c9d91"
+      },
+      "13": {
+        "source_ref": "1 Kings 8:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 13,
+            "source_ref": "1 Kings 8:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d37b2ffcf39f35a00bb141d7a153952b9b343b2d51fc05c32c5e29b867a5acde"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d37b2ffcf39f35a00bb141d7a153952b9b343b2d51fc05c32c5e29b867a5acde"
+      },
+      "14": {
+        "source_ref": "1 Kings 8:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 14,
+            "source_ref": "1 Kings 8:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "64e744c2f8a2a7142676719d53394364a45faaf77bbfcd5bb71ed2835c6edbb4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64e744c2f8a2a7142676719d53394364a45faaf77bbfcd5bb71ed2835c6edbb4"
+      },
+      "15": {
+        "source_ref": "1 Kings 8:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 15,
+            "source_ref": "1 Kings 8:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1b475301198134cecd041b04bddfb2c1a36088556216f2072f76e1c3fe97096a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1b475301198134cecd041b04bddfb2c1a36088556216f2072f76e1c3fe97096a"
+      },
+      "16": {
+        "source_ref": "1 Kings 8:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 16,
+            "source_ref": "1 Kings 8:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6f32faff0118f29e3a06259c955eb349c069a44d596508c9d2d18e8073185198"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6f32faff0118f29e3a06259c955eb349c069a44d596508c9d2d18e8073185198"
+      },
+      "17": {
+        "source_ref": "1 Kings 8:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 17,
+            "source_ref": "1 Kings 8:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "15fdfe325c53e1fff20ba37139161c9c9b1532debedf064edcebded90fc80718"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "15fdfe325c53e1fff20ba37139161c9c9b1532debedf064edcebded90fc80718"
+      },
+      "18": {
+        "source_ref": "1 Kings 8:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 18,
+            "source_ref": "1 Kings 8:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "500e452b407e8eb30be4fb3930d83de1324ff742933ac84ff0a4a045391de565"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "500e452b407e8eb30be4fb3930d83de1324ff742933ac84ff0a4a045391de565"
+      },
+      "19": {
+        "source_ref": "1 Kings 8:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 19,
+            "source_ref": "1 Kings 8:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "183fca7dd583e7876fc781282b149df2558caa45d9efddc718d895f5f0ea87ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "183fca7dd583e7876fc781282b149df2558caa45d9efddc718d895f5f0ea87ce"
+      },
+      "20": {
+        "source_ref": "1 Kings 8:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 20,
+            "source_ref": "1 Kings 8:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "91c75fa2ddb9b45f30eaa8cccd8856f811f7196f512bf9bb3dc81174f06e0cc8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91c75fa2ddb9b45f30eaa8cccd8856f811f7196f512bf9bb3dc81174f06e0cc8"
+      },
+      "21": {
+        "source_ref": "1 Kings 8:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 21,
+            "source_ref": "1 Kings 8:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ce5ffb9f3766fcf3a0e6c1fe0777b6e57aca28d08b0f6ce334830bc2d1a081d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ce5ffb9f3766fcf3a0e6c1fe0777b6e57aca28d08b0f6ce334830bc2d1a081d"
+      },
+      "22": {
+        "source_ref": "1 Kings 8:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 22,
+            "source_ref": "1 Kings 8:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "13396e732bcc2348fa0e5a80a0754080dad0fce1e42970601e0e29d65390ff7b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "13396e732bcc2348fa0e5a80a0754080dad0fce1e42970601e0e29d65390ff7b"
+      },
+      "23": {
+        "source_ref": "1 Kings 8:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 23,
+            "source_ref": "1 Kings 8:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d4c2cdb256967bb72d71b014f3aa3fae4ddcd53479b049e7925abe2cc0517bd1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d4c2cdb256967bb72d71b014f3aa3fae4ddcd53479b049e7925abe2cc0517bd1"
+      },
+      "24": {
+        "source_ref": "1 Kings 8:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 24,
+            "source_ref": "1 Kings 8:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4b477593a443025979ac74327af773c2cbe73e7e1a637ff3a03be6edc30d848a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4b477593a443025979ac74327af773c2cbe73e7e1a637ff3a03be6edc30d848a"
+      },
+      "25": {
+        "source_ref": "1 Kings 8:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 25,
+            "source_ref": "1 Kings 8:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d313213f7fa0eb62265e7c63c8277762f1f55260f88a97dbae1317914aafe29c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d313213f7fa0eb62265e7c63c8277762f1f55260f88a97dbae1317914aafe29c"
+      },
+      "26": {
+        "source_ref": "1 Kings 8:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 26,
+            "source_ref": "1 Kings 8:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1d26221928e1ff12518e278624d5e04da993826c13a30bf8d1c097776b287738"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1d26221928e1ff12518e278624d5e04da993826c13a30bf8d1c097776b287738"
+      },
+      "27": {
+        "source_ref": "1 Kings 8:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 27,
+            "source_ref": "1 Kings 8:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "588b7d64d835b4dade369e0da730ce7391e38672c7ff1e21a31d5b7ccec05a4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "588b7d64d835b4dade369e0da730ce7391e38672c7ff1e21a31d5b7ccec05a4e"
+      },
+      "28": {
+        "source_ref": "1 Kings 8:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 28,
+            "source_ref": "1 Kings 8:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c638262186a411999a1e32b7ccbaf18b54725d7be4c7bd0fe8ff47aeb120c386"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c638262186a411999a1e32b7ccbaf18b54725d7be4c7bd0fe8ff47aeb120c386"
+      },
+      "29": {
+        "source_ref": "1 Kings 8:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 29,
+            "source_ref": "1 Kings 8:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1254347aa719fccffe676b20133f223ebc330e0e2b378c146282b8b202a4d55e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1254347aa719fccffe676b20133f223ebc330e0e2b378c146282b8b202a4d55e"
+      },
+      "30": {
+        "source_ref": "1 Kings 8:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 30,
+            "source_ref": "1 Kings 8:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5a0732876dd15273320a84f3cf60a1877bba9cece7116a3fd342f4fd4f376052"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a0732876dd15273320a84f3cf60a1877bba9cece7116a3fd342f4fd4f376052"
+      },
+      "31": {
+        "source_ref": "1 Kings 8:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 31,
+            "source_ref": "1 Kings 8:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "fca800298ded3324603bb5c28c0c1f172715c87b6690f311f756e8e17b328b3f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fca800298ded3324603bb5c28c0c1f172715c87b6690f311f756e8e17b328b3f"
+      },
+      "32": {
+        "source_ref": "1 Kings 8:32 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 32,
+            "source_ref": "1 Kings 8:32 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ada3f17c66734ba17107718f84a96da5291379e6798f0eabf7c3d53fe73882d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ada3f17c66734ba17107718f84a96da5291379e6798f0eabf7c3d53fe73882d9"
+      },
+      "33": {
+        "source_ref": "1 Kings 8:33 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 33,
+            "source_ref": "1 Kings 8:33 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3a6d7c09724b235dc54936779d30102941071b3b3364015d2fcd5b82d8b7b04f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a6d7c09724b235dc54936779d30102941071b3b3364015d2fcd5b82d8b7b04f"
+      },
+      "34": {
+        "source_ref": "1 Kings 8:34 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 34,
+            "source_ref": "1 Kings 8:34 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2a051070521404832d2d22e26412acd1a5bad42d4099d37463abccfc10c8707d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2a051070521404832d2d22e26412acd1a5bad42d4099d37463abccfc10c8707d"
+      },
+      "35": {
+        "source_ref": "1 Kings 8:35 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 35,
+            "source_ref": "1 Kings 8:35 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d5c44f9b656e14106283af2d1fbc4dc164a839b5fafe6d497ed6b66c3f00af8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d5c44f9b656e14106283af2d1fbc4dc164a839b5fafe6d497ed6b66c3f00af8"
+      },
+      "36": {
+        "source_ref": "1 Kings 8:36 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 36,
+            "source_ref": "1 Kings 8:36 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27daa10465c778ce44196b24c333c390255f5a8b995f5254921d2e92904ce820"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27daa10465c778ce44196b24c333c390255f5a8b995f5254921d2e92904ce820"
+      },
+      "37": {
+        "source_ref": "1 Kings 8:37 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 37,
+            "source_ref": "1 Kings 8:37 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9ee4a23c2f37a6eb0779814836d9f69738e79f2eea5bdf844bb42ba6d607a8f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9ee4a23c2f37a6eb0779814836d9f69738e79f2eea5bdf844bb42ba6d607a8f3"
+      },
+      "38": {
+        "source_ref": "1 Kings 8:38 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 38,
+            "source_ref": "1 Kings 8:38 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "833301a94023cfb93d08634636c716e02eef6be060848ee7ebeaead7fe7a48ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "833301a94023cfb93d08634636c716e02eef6be060848ee7ebeaead7fe7a48ca"
+      },
+      "39": {
+        "source_ref": "1 Kings 8:39 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 39,
+            "source_ref": "1 Kings 8:39 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1ff75edef40d58ccf88a4ce35b925d022563cafbffc82fbbfdf78e204020558e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ff75edef40d58ccf88a4ce35b925d022563cafbffc82fbbfdf78e204020558e"
+      },
+      "40": {
+        "source_ref": "1 Kings 8:40 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 40,
+            "source_ref": "1 Kings 8:40 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "bb1928637321fcb336ba20630bb55d0f225c48444ff0903939dea4e969383765"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bb1928637321fcb336ba20630bb55d0f225c48444ff0903939dea4e969383765"
+      },
+      "41": {
+        "source_ref": "1 Kings 8:41 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 41,
+            "source_ref": "1 Kings 8:41 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7601ebde5becd1d07344aff5da8b68e9c3b6a0afe621e3cce8d9991635508458"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7601ebde5becd1d07344aff5da8b68e9c3b6a0afe621e3cce8d9991635508458"
+      },
+      "42": {
+        "source_ref": "1 Kings 8:42 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 42,
+            "source_ref": "1 Kings 8:42 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3efdcf65e748941e8635a72b0a3ead0e4838fe066a2cdcebb08429e55532f744"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3efdcf65e748941e8635a72b0a3ead0e4838fe066a2cdcebb08429e55532f744"
+      },
+      "43": {
+        "source_ref": "1 Kings 8:43 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 43,
+            "source_ref": "1 Kings 8:43 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "51be7117155fe706ce2349e20969ec7ebe6f97622d88d147cd03e3bdb87f60aa"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "51be7117155fe706ce2349e20969ec7ebe6f97622d88d147cd03e3bdb87f60aa"
+      },
+      "44": {
+        "source_ref": "1 Kings 8:44 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 44,
+            "source_ref": "1 Kings 8:44 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f61ed674fcf788a502ff0e97cc12b2b1a33d3e279393d9ff3f77334fd2e45e8e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f61ed674fcf788a502ff0e97cc12b2b1a33d3e279393d9ff3f77334fd2e45e8e"
+      },
+      "45": {
+        "source_ref": "1 Kings 8:45 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 45,
+            "source_ref": "1 Kings 8:45 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "49ab81a5d634dc80941df9d66b3101de37adf70a155feac1a54d22d0b57d61f1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "49ab81a5d634dc80941df9d66b3101de37adf70a155feac1a54d22d0b57d61f1"
+      },
+      "46": {
+        "source_ref": "1 Kings 8:46 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 46,
+            "source_ref": "1 Kings 8:46 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "93ff68a6992167b29e3079661739f685724f34533ce3c67cc3d2d08d1daef09e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93ff68a6992167b29e3079661739f685724f34533ce3c67cc3d2d08d1daef09e"
+      },
+      "47": {
+        "source_ref": "1 Kings 8:47 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 47,
+            "source_ref": "1 Kings 8:47 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1307442ee34ba88fe15278395eb7f9dc9bf3df2450a5637b00da2f5881961552"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1307442ee34ba88fe15278395eb7f9dc9bf3df2450a5637b00da2f5881961552"
+      },
+      "48": {
+        "source_ref": "1 Kings 8:48 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 48,
+            "source_ref": "1 Kings 8:48 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "27b7933ddb4cfac1c5a677f9c1c08bdd045d0d89258f19336bd98aa42ed2ff38"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27b7933ddb4cfac1c5a677f9c1c08bdd045d0d89258f19336bd98aa42ed2ff38"
+      },
+      "49": {
+        "source_ref": "1 Kings 8:49 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 49,
+            "source_ref": "1 Kings 8:49 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "40c3171c82d6acc8e8cd94fbdb35bc4da30f01be5394e740c48e1c8d1822024f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40c3171c82d6acc8e8cd94fbdb35bc4da30f01be5394e740c48e1c8d1822024f"
+      },
+      "50": {
+        "source_ref": "1 Kings 8:50 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 50,
+            "source_ref": "1 Kings 8:50 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b987ecdc0ce0b7341cbc7af2e0128a924a0e85ceba1592b0b812242caececabe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b987ecdc0ce0b7341cbc7af2e0128a924a0e85ceba1592b0b812242caececabe"
+      },
+      "51": {
+        "source_ref": "1 Kings 8:51 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 51,
+            "source_ref": "1 Kings 8:51 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b481d82ed57316a5d5b0eb8a2881429863a83dfecce9f883345a1d77bac1aa74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b481d82ed57316a5d5b0eb8a2881429863a83dfecce9f883345a1d77bac1aa74"
+      },
+      "52": {
+        "source_ref": "1 Kings 8:52 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 52,
+            "source_ref": "1 Kings 8:52 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9b271062954e347987d22d316a0aaae667252235bc8b41b4d11187128d073b7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b271062954e347987d22d316a0aaae667252235bc8b41b4d11187128d073b7d"
+      },
+      "53": {
+        "source_ref": "1 Kings 8:53 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 53,
+            "source_ref": "1 Kings 8:53 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0e9e8a7731870432b58c8f118d59cac5a4267e6257354e1ecc1943baa3281ec8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e9e8a7731870432b58c8f118d59cac5a4267e6257354e1ecc1943baa3281ec8"
+      },
+      "54": {
+        "source_ref": "1 Kings 8:54 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 54,
+            "source_ref": "1 Kings 8:54 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c5644d3971cef5f5aff1d4adfc1fdb1ccfa1e93b559aed29e5ada5a19c4df02e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c5644d3971cef5f5aff1d4adfc1fdb1ccfa1e93b559aed29e5ada5a19c4df02e"
+      },
+      "55": {
+        "source_ref": "1 Kings 8:55 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 55,
+            "source_ref": "1 Kings 8:55 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2b6dd22a84cd849d3795d7c7d1b8868f74f89f5c559643f4b576cf89886ebe71"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2b6dd22a84cd849d3795d7c7d1b8868f74f89f5c559643f4b576cf89886ebe71"
+      },
+      "56": {
+        "source_ref": "1 Kings 8:56 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 56,
+            "source_ref": "1 Kings 8:56 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e8531b3aa96c86a9c2c5701a71a076d9391ac49a0fd5a7fd8eea8f0c620888e0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8531b3aa96c86a9c2c5701a71a076d9391ac49a0fd5a7fd8eea8f0c620888e0"
+      },
+      "57": {
+        "source_ref": "1 Kings 8:57 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 57,
+            "source_ref": "1 Kings 8:57 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c80723e3816f410fc39700e04117d04b1c034cb6d63b585b83e7cd3cbe79045a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c80723e3816f410fc39700e04117d04b1c034cb6d63b585b83e7cd3cbe79045a"
+      },
+      "58": {
+        "source_ref": "1 Kings 8:58 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 58,
+            "source_ref": "1 Kings 8:58 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f88a982f73d4037a221c5008dfbe39865f4fa660af025a26a08eee644030456e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f88a982f73d4037a221c5008dfbe39865f4fa660af025a26a08eee644030456e"
+      },
+      "59": {
+        "source_ref": "1 Kings 8:59 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 59,
+            "source_ref": "1 Kings 8:59 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4bd266ecb685342f6fa5232cc38d28e1e1fb00861a26dac5ec56388bffa8a295"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4bd266ecb685342f6fa5232cc38d28e1e1fb00861a26dac5ec56388bffa8a295"
+      },
+      "60": {
+        "source_ref": "1 Kings 8:60 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 60,
+            "source_ref": "1 Kings 8:60 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "286e444ac1f7fb6fa3ff52a5bb0921c86bf5af3d83b6cc1d8c22bde0fe9f92f1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "286e444ac1f7fb6fa3ff52a5bb0921c86bf5af3d83b6cc1d8c22bde0fe9f92f1"
+      },
+      "61": {
+        "source_ref": "1 Kings 8:61 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 61,
+            "source_ref": "1 Kings 8:61 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "550059e7caf0dcece7fe27bd8efc9f206569708da1dfae36cfb04b2b9ee94d15"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "550059e7caf0dcece7fe27bd8efc9f206569708da1dfae36cfb04b2b9ee94d15"
+      },
+      "62": {
+        "source_ref": "1 Kings 8:62 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 62,
+            "source_ref": "1 Kings 8:62 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d62634e50fbe0fcbc88ed61693504bb0f4bc32060a8acd2af8f62178792f1845"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d62634e50fbe0fcbc88ed61693504bb0f4bc32060a8acd2af8f62178792f1845"
+      },
+      "63": {
+        "source_ref": "1 Kings 8:63 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 63,
+            "source_ref": "1 Kings 8:63 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0bbc9b6c7ae36b9cf78ebdb8183042997348792ad4fc09723e3939d69b0be577"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0bbc9b6c7ae36b9cf78ebdb8183042997348792ad4fc09723e3939d69b0be577"
+      },
+      "64": {
+        "source_ref": "1 Kings 8:64 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 64,
+            "source_ref": "1 Kings 8:64 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8904b30ce5d19e1206ba68f87f76546893ee74373236175449faa1e952b795d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8904b30ce5d19e1206ba68f87f76546893ee74373236175449faa1e952b795d2"
+      },
+      "65": {
+        "source_ref": "1 Kings 8:65 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 65,
+            "source_ref": "1 Kings 8:65 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "89f601281573784d417c1d6f90f365ceba41b1adea4975e7ba81c8a00cd03ebb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "89f601281573784d417c1d6f90f365ceba41b1adea4975e7ba81c8a00cd03ebb"
+      },
+      "66": {
+        "source_ref": "1 Kings 8:66 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 66,
+            "source_ref": "1 Kings 8:66 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "baefd47189f06fca2c8dfba89a6dd44d2b81e8df727501e290a5205c945c255c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "baefd47189f06fca2c8dfba89a6dd44d2b81e8df727501e290a5205c945c255c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/1kings/1Kings_08.md",
+    "blob_sha": "bde4c4d59dcfe123a7aefd64927e75d44f8e1e92"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
