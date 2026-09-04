@@ -4,13 +4,13 @@
   "publication_state": "BLOCKED_PENDING_HUMAN_REVIEW",
   "machine_audit": {
     "command": "python tools/audit_companion_batch.py companions/tsw-study/manifests/batch01.json",
-    "status": "passed-on-draft-2026-09-04"
+    "status": "passed-after-round1-2026-09-04"
   },
   "human_gates": [
     {
       "id": "source-language",
       "label": "Source-language and textual evidence",
-      "status": "pending",
+      "status": "approved",
       "required": true
     },
     {
@@ -51,5 +51,17 @@
     }
   ],
   "release_rule": "Do not publish a dossier until every required human gate is approved and the machine audit passes on the release commit.",
-  "review_notes": []
+  "review_notes": [
+    {
+      "round": 1,
+      "gate": "source-language",
+      "status": "approved",
+      "date": "2026-09-04",
+      "summary": "Approved after source-language review of all ten dossiers and precision revisions to the textual evidence in Psalm 22 and the Greek construction in Matthew 16:19.",
+      "files_changed": [
+        "companions/tsw-study/dossiers/psalm-22.md",
+        "companions/tsw-study/dossiers/matthew-16-13-20.md"
+      ]
+    }
+  ]
 }

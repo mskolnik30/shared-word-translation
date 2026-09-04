@@ -28,7 +28,7 @@ The opening address holds protest and relationship together: the absent one is s
 
 Verse numbering differs between Hebrew and many English traditions, so source references around the hands-and-feet line may appear one number apart.
 
-The Masoretic Text is commonly vocalized “like a lion, my hands and my feet,” a difficult expression because it lacks an obvious verb. The Greek Septuagint reads “they dug” or “pierced” my hands and feet. Manuscript evidence from the Judean Desert is frequently cited in the discussion, but damaged letters and competing reconstructions require caution. “Pierced” has ancient support; “like a lion” is not a late Jewish plot; and the precise earliest form remains disputed.
+The Masoretic Text reads *ka'ari*, “like a lion,” followed by “my hands and my feet,” a difficult expression because it lacks an obvious verb. The Greek Septuagint uses a verb meaning “they dug,” which later Christian translation often renders “pierced.” One Judean Desert witness is commonly read with a final *waw* rather than the Masoretic *yod*, but the resulting Hebrew form is itself unusual and does not remove the need for philological judgment. The evidence supports an ancient textual variant; it does not support accusations that Jewish scribes altered the verse to avoid Christian interpretation. The earliest recoverable wording remains disputed.
 
 The turn toward praise does not necessarily mark a simple emotional improvement. It may reflect confidence that prayer has been heard, a later thanksgiving performed after rescue, or a liturgical movement in which lament and public testimony belong together.
 

@@ -29,6 +29,7 @@ DISALLOWED_PUBLIC_PHRASES = (
     "instructor note",
     "teacher only",
 )
+ALLOWED_REVIEW_STATUSES = {"pending", "approved"}
 
 
 def load_json(path: Path) -> dict:
@@ -157,8 +158,12 @@ def audit(manifest_path: Path) -> list[str]:
             if review.get("publication_state") != "BLOCKED_PENDING_HUMAN_REVIEW":
                 errors.append("review manifest must block publication pending human review")
             gates = review.get("human_gates", [])
-            if not gates or any(gate.get("status") != "pending" for gate in gates):
-                errors.append("all initial human review gates must be pending")
+            if not gates:
+                errors.append("review manifest must define human review gates")
+            elif any(gate.get("status") not in ALLOWED_REVIEW_STATUSES for gate in gates):
+                errors.append("human review gate status must be pending or approved")
+            elif not any(gate.get("status") == "pending" for gate in gates):
+                errors.append("blocked publication state requires at least one pending gate")
 
     return errors
 
@@ -187,7 +192,11 @@ def main() -> int:
     print(f"Dossiers: {count}")
     print("Shared-world references: valid")
     print("Public section structure: valid")
-    print("Publication gate: blocked pending human review")
+    review = load_json(resolve_repo_path(load_json(manifest_path)["review_manifest"]))
+    approved = sum(gate.get("status") == "approved" for gate in review["human_gates"])
+    pending = sum(gate.get("status") == "pending" for gate in review["human_gates"])
+    print(f"Human review gates: {approved} approved; {pending} pending")
+    print("Publication gate: blocked pending remaining human review")
     print("PASSED")
     return 0
 
