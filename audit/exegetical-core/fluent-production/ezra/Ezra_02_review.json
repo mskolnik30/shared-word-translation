@@ -1,0 +1,1086 @@
+{
+  "book": "Ezra",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezra.xml",
+    "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezra.xml",
+    "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezra 2:1",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Ezra 2:1",
+            "segment_mode": "whole",
+            "sha256": "23a804ae16aeced615e1a2f9d2dc70e77b9365522cc2d4500c7c684aae58ca26"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23a804ae16aeced615e1a2f9d2dc70e77b9365522cc2d4500c7c684aae58ca26"
+      },
+      "2": {
+        "source_ref": "Ezra 2:2",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Ezra 2:2",
+            "segment_mode": "whole",
+            "sha256": "d02e9343cdf4b16a49cfa1570d11738bf3c17b0251b923aa6f4527230de6453f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d02e9343cdf4b16a49cfa1570d11738bf3c17b0251b923aa6f4527230de6453f"
+      },
+      "3": {
+        "source_ref": "Ezra 2:3",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Ezra 2:3",
+            "segment_mode": "whole",
+            "sha256": "60b72a9aef01010a61897df4232bbf2c933f7e6035eccf3cdb5e682d10bb1ac3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "60b72a9aef01010a61897df4232bbf2c933f7e6035eccf3cdb5e682d10bb1ac3"
+      },
+      "4": {
+        "source_ref": "Ezra 2:4",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Ezra 2:4",
+            "segment_mode": "whole",
+            "sha256": "433a3928f6fc90af470d4f0d8fac3852d03856d8299ea01df2a435959a25a893"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "433a3928f6fc90af470d4f0d8fac3852d03856d8299ea01df2a435959a25a893"
+      },
+      "5": {
+        "source_ref": "Ezra 2:5",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "Ezra 2:5",
+            "segment_mode": "whole",
+            "sha256": "7e45d3e072a5f87eff3eb686bc285c6546ae60e33bf073b80d548bbe810c600a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e45d3e072a5f87eff3eb686bc285c6546ae60e33bf073b80d548bbe810c600a"
+      },
+      "6": {
+        "source_ref": "Ezra 2:6",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "Ezra 2:6",
+            "segment_mode": "whole",
+            "sha256": "a1ced05a4bee7522fccaab54cfdfd0438ecf27f42794cad176967e39d3f8762c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a1ced05a4bee7522fccaab54cfdfd0438ecf27f42794cad176967e39d3f8762c"
+      },
+      "7": {
+        "source_ref": "Ezra 2:7",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "Ezra 2:7",
+            "segment_mode": "whole",
+            "sha256": "5c13a51affad9777ab2edb03e0505ebef8a6869aa4f3512086772e75c85a787c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5c13a51affad9777ab2edb03e0505ebef8a6869aa4f3512086772e75c85a787c"
+      },
+      "8": {
+        "source_ref": "Ezra 2:8",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "Ezra 2:8",
+            "segment_mode": "whole",
+            "sha256": "3d8814ba83ea91400910047e49c1eab86bb55a3f1d11832225467e897935e9fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3d8814ba83ea91400910047e49c1eab86bb55a3f1d11832225467e897935e9fb"
+      },
+      "9": {
+        "source_ref": "Ezra 2:9",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "Ezra 2:9",
+            "segment_mode": "whole",
+            "sha256": "8d872a03b84d6ca01b780718bef25226a42caf46b3faf81eb366870e23df29e4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d872a03b84d6ca01b780718bef25226a42caf46b3faf81eb366870e23df29e4"
+      },
+      "10": {
+        "source_ref": "Ezra 2:10",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "Ezra 2:10",
+            "segment_mode": "whole",
+            "sha256": "065c624a474d8fe93c0bbb4922cefe6347625d0bd0fb2936f56b1d95ea5f7925"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "065c624a474d8fe93c0bbb4922cefe6347625d0bd0fb2936f56b1d95ea5f7925"
+      },
+      "11": {
+        "source_ref": "Ezra 2:11",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "Ezra 2:11",
+            "segment_mode": "whole",
+            "sha256": "4c1557052d753aa0accbb73f26e45e63c211b7aa2fe921947af1b2e514c818ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c1557052d753aa0accbb73f26e45e63c211b7aa2fe921947af1b2e514c818ba"
+      },
+      "12": {
+        "source_ref": "Ezra 2:12",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "Ezra 2:12",
+            "segment_mode": "whole",
+            "sha256": "ca422847c69e0c4f484aeb773eefd846e745a6a1710c5aba73f6860f5153117c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca422847c69e0c4f484aeb773eefd846e745a6a1710c5aba73f6860f5153117c"
+      },
+      "13": {
+        "source_ref": "Ezra 2:13",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "Ezra 2:13",
+            "segment_mode": "whole",
+            "sha256": "85cb29a437e99c183d0a675f8c6c23d5984dfef59185afb1fc7274294c256680"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "85cb29a437e99c183d0a675f8c6c23d5984dfef59185afb1fc7274294c256680"
+      },
+      "14": {
+        "source_ref": "Ezra 2:14",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "Ezra 2:14",
+            "segment_mode": "whole",
+            "sha256": "7dddada2f1cc267436ebb6c17f6245f2c38a64966c63cfa922f435a4c45a2c42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7dddada2f1cc267436ebb6c17f6245f2c38a64966c63cfa922f435a4c45a2c42"
+      },
+      "15": {
+        "source_ref": "Ezra 2:15",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "Ezra 2:15",
+            "segment_mode": "whole",
+            "sha256": "ce5480b90e20ec739b2400b4566101451abe6500047a0ffc3f4cda486ce74842"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ce5480b90e20ec739b2400b4566101451abe6500047a0ffc3f4cda486ce74842"
+      },
+      "16": {
+        "source_ref": "Ezra 2:16",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 16,
+            "source_ref": "Ezra 2:16",
+            "segment_mode": "whole",
+            "sha256": "c1aba9571d8ace7c166320d4042904d05b5b6c6fed19465afc7b76f347be3d35"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c1aba9571d8ace7c166320d4042904d05b5b6c6fed19465afc7b76f347be3d35"
+      },
+      "17": {
+        "source_ref": "Ezra 2:17",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 17,
+            "source_ref": "Ezra 2:17",
+            "segment_mode": "whole",
+            "sha256": "14fbfe5c4a87b5cbcfcdf9eb081afb0a783fdb1bcd385c11e333833fb437ad52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "14fbfe5c4a87b5cbcfcdf9eb081afb0a783fdb1bcd385c11e333833fb437ad52"
+      },
+      "18": {
+        "source_ref": "Ezra 2:18",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 18,
+            "source_ref": "Ezra 2:18",
+            "segment_mode": "whole",
+            "sha256": "29bdaae3b12509d75decf5c952857865e030b0ee4a46446d35445fbc67cb6365"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "29bdaae3b12509d75decf5c952857865e030b0ee4a46446d35445fbc67cb6365"
+      },
+      "19": {
+        "source_ref": "Ezra 2:19",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 19,
+            "source_ref": "Ezra 2:19",
+            "segment_mode": "whole",
+            "sha256": "0fc6bf734c75bbfaf1be36ace04851461c987a9e91a5ae6afbe55184dc7778b7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0fc6bf734c75bbfaf1be36ace04851461c987a9e91a5ae6afbe55184dc7778b7"
+      },
+      "20": {
+        "source_ref": "Ezra 2:20",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 20,
+            "source_ref": "Ezra 2:20",
+            "segment_mode": "whole",
+            "sha256": "5a30fe0535c4d9bbd982cf5bcd24cc1a04c975709afcfde9bf4e6b6e80b06b58"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a30fe0535c4d9bbd982cf5bcd24cc1a04c975709afcfde9bf4e6b6e80b06b58"
+      },
+      "21": {
+        "source_ref": "Ezra 2:21",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 21,
+            "source_ref": "Ezra 2:21",
+            "segment_mode": "whole",
+            "sha256": "a5f8ee499818c75572de056b6c02fe55691082b0478f6829f7a47c8a0a7072e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a5f8ee499818c75572de056b6c02fe55691082b0478f6829f7a47c8a0a7072e3"
+      },
+      "22": {
+        "source_ref": "Ezra 2:22",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 22,
+            "source_ref": "Ezra 2:22",
+            "segment_mode": "whole",
+            "sha256": "f484de519c353bec26f029d4bc1cd46154d14a89e6c2d1ba77166d0d122cf2c0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f484de519c353bec26f029d4bc1cd46154d14a89e6c2d1ba77166d0d122cf2c0"
+      },
+      "23": {
+        "source_ref": "Ezra 2:23",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 23,
+            "source_ref": "Ezra 2:23",
+            "segment_mode": "whole",
+            "sha256": "2eae2ecf65e4f541ad75f7408359ad79de755d9deb6229d7d2711354fd8bebcc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2eae2ecf65e4f541ad75f7408359ad79de755d9deb6229d7d2711354fd8bebcc"
+      },
+      "24": {
+        "source_ref": "Ezra 2:24",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 24,
+            "source_ref": "Ezra 2:24",
+            "segment_mode": "whole",
+            "sha256": "51528fd53e3856606f6c2713f96a73d2a3fa704395fb2a1c2e4e1f03ffa81e14"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "51528fd53e3856606f6c2713f96a73d2a3fa704395fb2a1c2e4e1f03ffa81e14"
+      },
+      "25": {
+        "source_ref": "Ezra 2:25",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 25,
+            "source_ref": "Ezra 2:25",
+            "segment_mode": "whole",
+            "sha256": "d872112f2f544b92a642e03774ca0e3bf7d8c870544bc28cb5c23b501437c8a6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d872112f2f544b92a642e03774ca0e3bf7d8c870544bc28cb5c23b501437c8a6"
+      },
+      "26": {
+        "source_ref": "Ezra 2:26",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 26,
+            "source_ref": "Ezra 2:26",
+            "segment_mode": "whole",
+            "sha256": "2a64f937e4aa85bfa8f22ce00a88eb8c57ffab5161e2dca65fe212628f3df9e1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2a64f937e4aa85bfa8f22ce00a88eb8c57ffab5161e2dca65fe212628f3df9e1"
+      },
+      "27": {
+        "source_ref": "Ezra 2:27",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 27,
+            "source_ref": "Ezra 2:27",
+            "segment_mode": "whole",
+            "sha256": "078fa5310a7ec13889b2c3e14ccfa48bac4331231f9d47615686094ed0651afe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "078fa5310a7ec13889b2c3e14ccfa48bac4331231f9d47615686094ed0651afe"
+      },
+      "28": {
+        "source_ref": "Ezra 2:28",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 28,
+            "source_ref": "Ezra 2:28",
+            "segment_mode": "whole",
+            "sha256": "2aa3872d1a3cdc9074e9c47c0871c1a4944e29e91f99f6f6418ebe7fc66f8c53"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2aa3872d1a3cdc9074e9c47c0871c1a4944e29e91f99f6f6418ebe7fc66f8c53"
+      },
+      "29": {
+        "source_ref": "Ezra 2:29",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 29,
+            "source_ref": "Ezra 2:29",
+            "segment_mode": "whole",
+            "sha256": "9522133cfca9b27ec41ae7f6d7823c3852359c980db3bb4edc76d69885712569"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9522133cfca9b27ec41ae7f6d7823c3852359c980db3bb4edc76d69885712569"
+      },
+      "30": {
+        "source_ref": "Ezra 2:30",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 30,
+            "source_ref": "Ezra 2:30",
+            "segment_mode": "whole",
+            "sha256": "fe8b58a59faa8ba6a17eea7b61aa0db6dc951467af472d492b45392340d9cc6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe8b58a59faa8ba6a17eea7b61aa0db6dc951467af472d492b45392340d9cc6a"
+      },
+      "31": {
+        "source_ref": "Ezra 2:31",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 31,
+            "source_ref": "Ezra 2:31",
+            "segment_mode": "whole",
+            "sha256": "34eb71209e1f5ae950385a7a7211524af496486e0abb0817f18c50fc5bb425df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34eb71209e1f5ae950385a7a7211524af496486e0abb0817f18c50fc5bb425df"
+      },
+      "32": {
+        "source_ref": "Ezra 2:32",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 32,
+            "source_ref": "Ezra 2:32",
+            "segment_mode": "whole",
+            "sha256": "93d17ef1137cccd34948e9e92afc1cf4db2b16b6283a33199c6d18f777907ffd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93d17ef1137cccd34948e9e92afc1cf4db2b16b6283a33199c6d18f777907ffd"
+      },
+      "33": {
+        "source_ref": "Ezra 2:33",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 33,
+            "source_ref": "Ezra 2:33",
+            "segment_mode": "whole",
+            "sha256": "f208b8c38fd246896cf8bd4d9bf36184bd312cd3507d1566fea2bf47f7cafda9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f208b8c38fd246896cf8bd4d9bf36184bd312cd3507d1566fea2bf47f7cafda9"
+      },
+      "34": {
+        "source_ref": "Ezra 2:34",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 34,
+            "source_ref": "Ezra 2:34",
+            "segment_mode": "whole",
+            "sha256": "5ffeb2074e6e00c1ae217b8e49fb40893955842930daf440fb479dece568161c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5ffeb2074e6e00c1ae217b8e49fb40893955842930daf440fb479dece568161c"
+      },
+      "35": {
+        "source_ref": "Ezra 2:35",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 35,
+            "source_ref": "Ezra 2:35",
+            "segment_mode": "whole",
+            "sha256": "41d0275aaa2c7a1a314ba69921ca5faa6d2873a0ecc482c22941dec28febd069"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41d0275aaa2c7a1a314ba69921ca5faa6d2873a0ecc482c22941dec28febd069"
+      },
+      "36": {
+        "source_ref": "Ezra 2:36",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 36,
+            "source_ref": "Ezra 2:36",
+            "segment_mode": "whole",
+            "sha256": "287f8790728f6f740d10a1acdf1c89817e9cf2533ac6131ab0392c68e0369387"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "287f8790728f6f740d10a1acdf1c89817e9cf2533ac6131ab0392c68e0369387"
+      },
+      "37": {
+        "source_ref": "Ezra 2:37",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 37,
+            "source_ref": "Ezra 2:37",
+            "segment_mode": "whole",
+            "sha256": "b65177433b88dafa17de0ea40a034a8bc5fcabff651473a5b99fce314b5758de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b65177433b88dafa17de0ea40a034a8bc5fcabff651473a5b99fce314b5758de"
+      },
+      "38": {
+        "source_ref": "Ezra 2:38",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 38,
+            "source_ref": "Ezra 2:38",
+            "segment_mode": "whole",
+            "sha256": "edcee44ea8097db31129537e460a503ea70e70ba256aa110a94f5f69dac6ff0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "edcee44ea8097db31129537e460a503ea70e70ba256aa110a94f5f69dac6ff0d"
+      },
+      "39": {
+        "source_ref": "Ezra 2:39",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 39,
+            "source_ref": "Ezra 2:39",
+            "segment_mode": "whole",
+            "sha256": "59bfda1c83cd8fc16f4aaaeb3373e759fffbb1bce1904756afd24e7108233191"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "59bfda1c83cd8fc16f4aaaeb3373e759fffbb1bce1904756afd24e7108233191"
+      },
+      "40": {
+        "source_ref": "Ezra 2:40",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 40,
+            "source_ref": "Ezra 2:40",
+            "segment_mode": "whole",
+            "sha256": "ba11601f8cfadb6eb54f22111abc2eb04cccb1e4ea3be10de1c52a9730c51509"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ba11601f8cfadb6eb54f22111abc2eb04cccb1e4ea3be10de1c52a9730c51509"
+      },
+      "41": {
+        "source_ref": "Ezra 2:41",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 41,
+            "source_ref": "Ezra 2:41",
+            "segment_mode": "whole",
+            "sha256": "1e9bcb3a7dae673ec4e1d649244fa595dd94c03b92e785e0a682b7e58fdebccb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e9bcb3a7dae673ec4e1d649244fa595dd94c03b92e785e0a682b7e58fdebccb"
+      },
+      "42": {
+        "source_ref": "Ezra 2:42",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 42,
+            "source_ref": "Ezra 2:42",
+            "segment_mode": "whole",
+            "sha256": "e84682b267b50a26c6582e4d252b40b830c1b3b41d53ed1648c1ce062681f65f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e84682b267b50a26c6582e4d252b40b830c1b3b41d53ed1648c1ce062681f65f"
+      },
+      "43": {
+        "source_ref": "Ezra 2:43",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 43,
+            "source_ref": "Ezra 2:43",
+            "segment_mode": "whole",
+            "sha256": "b8cb1019d7055cf716939c1532bd94d6751c5800dec3a6089461238070debe70"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b8cb1019d7055cf716939c1532bd94d6751c5800dec3a6089461238070debe70"
+      },
+      "44": {
+        "source_ref": "Ezra 2:44",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 44,
+            "source_ref": "Ezra 2:44",
+            "segment_mode": "whole",
+            "sha256": "7c235d9c1f820c848023cf6cc75ef312aee0a3b26eece56facb94a868d3142e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c235d9c1f820c848023cf6cc75ef312aee0a3b26eece56facb94a868d3142e9"
+      },
+      "45": {
+        "source_ref": "Ezra 2:45",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 45,
+            "source_ref": "Ezra 2:45",
+            "segment_mode": "whole",
+            "sha256": "c9f87e8cf464844a4104d953dca2521a8c1c3160a69dc1b92c72148591afea96"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9f87e8cf464844a4104d953dca2521a8c1c3160a69dc1b92c72148591afea96"
+      },
+      "46": {
+        "source_ref": "Ezra 2:46",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 46,
+            "source_ref": "Ezra 2:46",
+            "segment_mode": "whole",
+            "sha256": "3777f8521240d11d59bc64300efef23b0cf31e818ac996960e65f6238d6d1bd4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3777f8521240d11d59bc64300efef23b0cf31e818ac996960e65f6238d6d1bd4"
+      },
+      "47": {
+        "source_ref": "Ezra 2:47",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 47,
+            "source_ref": "Ezra 2:47",
+            "segment_mode": "whole",
+            "sha256": "dc4690427ebcd89f63f16455f1081226c841e27cb4b5b847ee29a4326b9b0b64"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dc4690427ebcd89f63f16455f1081226c841e27cb4b5b847ee29a4326b9b0b64"
+      },
+      "48": {
+        "source_ref": "Ezra 2:48",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 48,
+            "source_ref": "Ezra 2:48",
+            "segment_mode": "whole",
+            "sha256": "749d2ee5aaee4ebcee063b87217d9d0c687946fd5d99c876eddaf48b950aea89"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "749d2ee5aaee4ebcee063b87217d9d0c687946fd5d99c876eddaf48b950aea89"
+      },
+      "49": {
+        "source_ref": "Ezra 2:49",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 49,
+            "source_ref": "Ezra 2:49",
+            "segment_mode": "whole",
+            "sha256": "331dffb2d84349ddbf3e169b1c0736d20b0820c983b24b2da84af49a27a4fbd8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "331dffb2d84349ddbf3e169b1c0736d20b0820c983b24b2da84af49a27a4fbd8"
+      },
+      "50": {
+        "source_ref": "Ezra 2:50",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 50,
+            "source_ref": "Ezra 2:50",
+            "segment_mode": "whole",
+            "sha256": "8fb3823f8edc50af123448f05a48b56856b8b8e949fb1333e39509fe484f706d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fb3823f8edc50af123448f05a48b56856b8b8e949fb1333e39509fe484f706d"
+      },
+      "51": {
+        "source_ref": "Ezra 2:51",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 51,
+            "source_ref": "Ezra 2:51",
+            "segment_mode": "whole",
+            "sha256": "07d0d734ba3d36bd0b0ff6f41809f7f39d3f6a52759a542966335095150b0f22"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07d0d734ba3d36bd0b0ff6f41809f7f39d3f6a52759a542966335095150b0f22"
+      },
+      "52": {
+        "source_ref": "Ezra 2:52",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 52,
+            "source_ref": "Ezra 2:52",
+            "segment_mode": "whole",
+            "sha256": "d3b184b63da41a0cc5ec5b644d47201d319baf7b964de5910177d17def500567"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3b184b63da41a0cc5ec5b644d47201d319baf7b964de5910177d17def500567"
+      },
+      "53": {
+        "source_ref": "Ezra 2:53",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 53,
+            "source_ref": "Ezra 2:53",
+            "segment_mode": "whole",
+            "sha256": "f3ea0346ce43914f3702cece6ba0d63897342b45ec75f4f568ca948dbbfb3a1e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3ea0346ce43914f3702cece6ba0d63897342b45ec75f4f568ca948dbbfb3a1e"
+      },
+      "54": {
+        "source_ref": "Ezra 2:54",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 54,
+            "source_ref": "Ezra 2:54",
+            "segment_mode": "whole",
+            "sha256": "0eacda292217877b0886c1a6a73060bb904facdc56ccf18569050592a2dbbd99"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0eacda292217877b0886c1a6a73060bb904facdc56ccf18569050592a2dbbd99"
+      },
+      "55": {
+        "source_ref": "Ezra 2:55",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 55,
+            "source_ref": "Ezra 2:55",
+            "segment_mode": "whole",
+            "sha256": "fd78684b4537468c539b2e13fe6a45465741512d863dd4ecdb6c84ccfc608764"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd78684b4537468c539b2e13fe6a45465741512d863dd4ecdb6c84ccfc608764"
+      },
+      "56": {
+        "source_ref": "Ezra 2:56",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 56,
+            "source_ref": "Ezra 2:56",
+            "segment_mode": "whole",
+            "sha256": "d255aa3b93061b2fdb77238089cc791fed24f5778bcfbdf360a25502cb2dce5f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d255aa3b93061b2fdb77238089cc791fed24f5778bcfbdf360a25502cb2dce5f"
+      },
+      "57": {
+        "source_ref": "Ezra 2:57",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 57,
+            "source_ref": "Ezra 2:57",
+            "segment_mode": "whole",
+            "sha256": "76f8a8a2068adfa6be2576bd10bc2a1579922b61c95a189427d86d69c223d5a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76f8a8a2068adfa6be2576bd10bc2a1579922b61c95a189427d86d69c223d5a4"
+      },
+      "58": {
+        "source_ref": "Ezra 2:58",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 58,
+            "source_ref": "Ezra 2:58",
+            "segment_mode": "whole",
+            "sha256": "ff395572c8d737fbeb81b26addad0df4fdc80c5e89177be7afd05af4033d66b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff395572c8d737fbeb81b26addad0df4fdc80c5e89177be7afd05af4033d66b1"
+      },
+      "59": {
+        "source_ref": "Ezra 2:59",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 59,
+            "source_ref": "Ezra 2:59",
+            "segment_mode": "whole",
+            "sha256": "b0a426f3e6e50c8c7fdff5c2a43478f8a1a84149e32c35d35d72f5669c269619"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0a426f3e6e50c8c7fdff5c2a43478f8a1a84149e32c35d35d72f5669c269619"
+      },
+      "60": {
+        "source_ref": "Ezra 2:60",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 60,
+            "source_ref": "Ezra 2:60",
+            "segment_mode": "whole",
+            "sha256": "dbc6301867a2e33dee33c89491f8a1f32d6196255bf19b77f274dab15b8ecc05"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dbc6301867a2e33dee33c89491f8a1f32d6196255bf19b77f274dab15b8ecc05"
+      },
+      "61": {
+        "source_ref": "Ezra 2:61",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 61,
+            "source_ref": "Ezra 2:61",
+            "segment_mode": "whole",
+            "sha256": "2406f6b4b58c8240c243121bb6719eb8e9512b1df3ab9cd729ccd1eb3dcbebba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2406f6b4b58c8240c243121bb6719eb8e9512b1df3ab9cd729ccd1eb3dcbebba"
+      },
+      "62": {
+        "source_ref": "Ezra 2:62",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 62,
+            "source_ref": "Ezra 2:62",
+            "segment_mode": "whole",
+            "sha256": "fe14277016cfa9d8a3d3ff04986dd9cd2d4655b2327d3ba199bcf983e14759f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe14277016cfa9d8a3d3ff04986dd9cd2d4655b2327d3ba199bcf983e14759f9"
+      },
+      "63": {
+        "source_ref": "Ezra 2:63",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 63,
+            "source_ref": "Ezra 2:63",
+            "segment_mode": "whole",
+            "sha256": "3c0bf93622e17659eb62e9a13963575289ff71a67226b6e9d39255409ba9e984"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c0bf93622e17659eb62e9a13963575289ff71a67226b6e9d39255409ba9e984"
+      },
+      "64": {
+        "source_ref": "Ezra 2:64",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 64,
+            "source_ref": "Ezra 2:64",
+            "segment_mode": "whole",
+            "sha256": "c41b3e53c48b4d0a2f0b536f06c2a542e7bda5d706894b006bf7b668fe2c7163"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c41b3e53c48b4d0a2f0b536f06c2a542e7bda5d706894b006bf7b668fe2c7163"
+      },
+      "65": {
+        "source_ref": "Ezra 2:65",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 65,
+            "source_ref": "Ezra 2:65",
+            "segment_mode": "whole",
+            "sha256": "18d990b81dc0c4fa49cd637b0d670eaf76ef293fff59d6ec6f558b0b689e5e17"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18d990b81dc0c4fa49cd637b0d670eaf76ef293fff59d6ec6f558b0b689e5e17"
+      },
+      "66": {
+        "source_ref": "Ezra 2:66",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 66,
+            "source_ref": "Ezra 2:66",
+            "segment_mode": "whole",
+            "sha256": "3b55f0a394ed1165417b07cb345da9a66f52f21f663b293caa67179b035abcc0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3b55f0a394ed1165417b07cb345da9a66f52f21f663b293caa67179b035abcc0"
+      },
+      "67": {
+        "source_ref": "Ezra 2:67",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 67,
+            "source_ref": "Ezra 2:67",
+            "segment_mode": "whole",
+            "sha256": "69845f16e42d844bfe70da9334a15573f36a1b7ae2a92d601b8e226be04ca556"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "69845f16e42d844bfe70da9334a15573f36a1b7ae2a92d601b8e226be04ca556"
+      },
+      "68": {
+        "source_ref": "Ezra 2:68",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 68,
+            "source_ref": "Ezra 2:68",
+            "segment_mode": "whole",
+            "sha256": "95ca92112067d8610175e8a2145e9b414805bf69e6f37904356aba016c19e065"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "95ca92112067d8610175e8a2145e9b414805bf69e6f37904356aba016c19e065"
+      },
+      "69": {
+        "source_ref": "Ezra 2:69",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 69,
+            "source_ref": "Ezra 2:69",
+            "segment_mode": "whole",
+            "sha256": "1e80e972aadb5f46d5f0b87b81d6bfc5f4d4d9f68471dc0b6a5124084bbc032d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e80e972aadb5f46d5f0b87b81d6bfc5f4d4d9f68471dc0b6a5124084bbc032d"
+      },
+      "70": {
+        "source_ref": "Ezra 2:70",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 70,
+            "source_ref": "Ezra 2:70",
+            "segment_mode": "whole",
+            "sha256": "bba44bdaec3f44d75c7ed86f0be6ecb4ddda1895c1164c88a732f897203c1c0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bba44bdaec3f44d75c7ed86f0be6ecb4ddda1895c1164c88a732f897203c1c0f"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezra/Ezra_02.md",
+    "blob_sha": "f2aada071495840f1a35eec2ec9d85d2f69bc3b2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

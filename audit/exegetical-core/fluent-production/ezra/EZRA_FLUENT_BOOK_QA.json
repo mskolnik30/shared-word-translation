@@ -1,0 +1,100 @@
+{
+  "book": "Ezra",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 10,
+  "public_verse_slots": 280,
+  "included_verse_labels": 280,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 280,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezra.xml",
+    "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-11",
+      "decision": "Hold Cyrus's imperial authorization and the narrator's claim of divine sovereignty together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-13",
+      "decision": "Preserve restored worship, celebration, grief, and generational memory in the same scene.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:1-24",
+      "decision": "Keep identity conflict, opposition, accusation, and imperial power historically situated.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:1-10",
+      "decision": "Retain Ezra's study, practice, and teaching of Torah as one integrated vocation.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:1-10:44",
+      "decision": "Translate the intermarriage crisis and mass separations accurately while acknowledging the harm involved; do not turn the episode into a modern rule of ethnic exclusion.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_05",
+  "deployment_audit": {
+    "source_git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b",
+    "source_binding_count": 280,
+    "unique_source_record_count": 280,
+    "public_verse_slots": 280,
+    "ledger_summary": {
+      "F0": 154,
+      "F1": 8,
+      "F2": 1,
+      "F3": 117
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/ezra/Ezra_01.md",
+        "blob_sha": "134a2500620fe0010967b7a4c38a9bd6c3597be4"
+      },
+      "02": {
+        "path": "books/OT/ezra/Ezra_02.md",
+        "blob_sha": "f2aada071495840f1a35eec2ec9d85d2f69bc3b2"
+      },
+      "03": {
+        "path": "books/OT/ezra/Ezra_03.md",
+        "blob_sha": "77af28badb7aabf1c71990f4bb11a9fb87f1f2d2"
+      },
+      "04": {
+        "path": "books/OT/ezra/Ezra_04.md",
+        "blob_sha": "c1398f850a0fc9cba051f10472a34e4cc8bc60e9"
+      },
+      "05": {
+        "path": "books/OT/ezra/Ezra_05.md",
+        "blob_sha": "bfc05c66f065576b75f7bb667f3e7f7996f111f9"
+      },
+      "06": {
+        "path": "books/OT/ezra/Ezra_06.md",
+        "blob_sha": "7662c502d76edb79f572e053399abd0b731ecaa2"
+      },
+      "07": {
+        "path": "books/OT/ezra/Ezra_07.md",
+        "blob_sha": "2d66df9e8dcff6f4e1f8abe738b853e83597832e"
+      },
+      "08": {
+        "path": "books/OT/ezra/Ezra_08.md",
+        "blob_sha": "b60c180ff17bfb85b8d538f1217b21beac67f784"
+      },
+      "09": {
+        "path": "books/OT/ezra/Ezra_09.md",
+        "blob_sha": "c6041db870f66087563389cb4f338d65ed77d7b8"
+      },
+      "10": {
+        "path": "books/OT/ezra/Ezra_10.md",
+        "blob_sha": "ac25b621adb581137e104b514f211b9a54817c53"
+      }
+    }
+  }
+}

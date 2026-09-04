@@ -1,0 +1,267 @@
+{
+  "book": "Ezra",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezra.xml",
+    "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "9:1-10:44",
+      "decision": "Translate the intermarriage crisis and mass separations accurately while acknowledging the harm involved; do not turn the episode into a modern rule of ethnic exclusion.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezra.xml",
+    "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezra 9:1",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Ezra 9:1",
+            "segment_mode": "whole",
+            "sha256": "ab3e6b5a0c4f43c7c7f2fff5ce33dbcb0943dcba3bca60626e5fcbb3f7dd129e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab3e6b5a0c4f43c7c7f2fff5ce33dbcb0943dcba3bca60626e5fcbb3f7dd129e"
+      },
+      "2": {
+        "source_ref": "Ezra 9:2",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Ezra 9:2",
+            "segment_mode": "whole",
+            "sha256": "220313af2554354b2021f3a396c8e4e7495db70526704d88ab58121fe933fdf8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "220313af2554354b2021f3a396c8e4e7495db70526704d88ab58121fe933fdf8"
+      },
+      "3": {
+        "source_ref": "Ezra 9:3",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Ezra 9:3",
+            "segment_mode": "whole",
+            "sha256": "e5d46cd5870ce9fa5a7e75adacd5d758bdb6444cc82f9479febe99a667f34315"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5d46cd5870ce9fa5a7e75adacd5d758bdb6444cc82f9479febe99a667f34315"
+      },
+      "4": {
+        "source_ref": "Ezra 9:4",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Ezra 9:4",
+            "segment_mode": "whole",
+            "sha256": "8490548db2dd316e29477506017fb2f72ab7c43b1bf31394fd1027c35aa7b2eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8490548db2dd316e29477506017fb2f72ab7c43b1bf31394fd1027c35aa7b2eb"
+      },
+      "5": {
+        "source_ref": "Ezra 9:5",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Ezra 9:5",
+            "segment_mode": "whole",
+            "sha256": "37cb7883d5d1c9d7549736c4c85b78fcc6412cf8861e3b301774e870235a9c4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "37cb7883d5d1c9d7549736c4c85b78fcc6412cf8861e3b301774e870235a9c4e"
+      },
+      "6": {
+        "source_ref": "Ezra 9:6",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Ezra 9:6",
+            "segment_mode": "whole",
+            "sha256": "745b023d91917cb7d0d8faa0adfbf4629f49fcdcb92a5d2ec56eb92e87673bd2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "745b023d91917cb7d0d8faa0adfbf4629f49fcdcb92a5d2ec56eb92e87673bd2"
+      },
+      "7": {
+        "source_ref": "Ezra 9:7",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Ezra 9:7",
+            "segment_mode": "whole",
+            "sha256": "39922cc58bc8e4d16bc33488a2b37133704928823b899376683b42ce5bb4f5b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "39922cc58bc8e4d16bc33488a2b37133704928823b899376683b42ce5bb4f5b4"
+      },
+      "8": {
+        "source_ref": "Ezra 9:8",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Ezra 9:8",
+            "segment_mode": "whole",
+            "sha256": "acd64ccc804061a8f25ab3bc9a38e1040552b8f7a137eb76dc6b934f8f76b8d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "acd64ccc804061a8f25ab3bc9a38e1040552b8f7a137eb76dc6b934f8f76b8d7"
+      },
+      "9": {
+        "source_ref": "Ezra 9:9",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Ezra 9:9",
+            "segment_mode": "whole",
+            "sha256": "36121e37362e616ff07d6994a4258128fea359e53709fdc4deadaf116948ee6a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "36121e37362e616ff07d6994a4258128fea359e53709fdc4deadaf116948ee6a"
+      },
+      "10": {
+        "source_ref": "Ezra 9:10",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Ezra 9:10",
+            "segment_mode": "whole",
+            "sha256": "93039d02727ade7ac4fdd2e4952494625800af5fdc3418fbebc3d8740568ce4a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93039d02727ade7ac4fdd2e4952494625800af5fdc3418fbebc3d8740568ce4a"
+      },
+      "11": {
+        "source_ref": "Ezra 9:11",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Ezra 9:11",
+            "segment_mode": "whole",
+            "sha256": "33a9e4495155ea643c3800378ca67dc88bea71f8269cc78fcc928bbea917ff0d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "33a9e4495155ea643c3800378ca67dc88bea71f8269cc78fcc928bbea917ff0d"
+      },
+      "12": {
+        "source_ref": "Ezra 9:12",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "Ezra 9:12",
+            "segment_mode": "whole",
+            "sha256": "d3dbfae24c7455a067490d20f2e90245af1676e04e9a4dc8ebf3dacb360257b1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d3dbfae24c7455a067490d20f2e90245af1676e04e9a4dc8ebf3dacb360257b1"
+      },
+      "13": {
+        "source_ref": "Ezra 9:13",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "Ezra 9:13",
+            "segment_mode": "whole",
+            "sha256": "0c32821f07872b3aadc38810f08d757f32e2fbf59779dd9a4f033d84e3cadf75"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c32821f07872b3aadc38810f08d757f32e2fbf59779dd9a4f033d84e3cadf75"
+      },
+      "14": {
+        "source_ref": "Ezra 9:14",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "Ezra 9:14",
+            "segment_mode": "whole",
+            "sha256": "6019bdc729f602bc01320c464f921ec1ab21a967b45f5df6fec655ee2d0956a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6019bdc729f602bc01320c464f921ec1ab21a967b45f5df6fec655ee2d0956a5"
+      },
+      "15": {
+        "source_ref": "Ezra 9:15",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "Ezra 9:15",
+            "segment_mode": "whole",
+            "sha256": "b18aed7b0588a0291dabe440780c345ac17595c1a0e577c05d481ef592e0bad8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b18aed7b0588a0291dabe440780c345ac17595c1a0e577c05d481ef592e0bad8"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezra/Ezra_09.md",
+    "blob_sha": "c6041db870f66087563389cb4f338d65ed77d7b8"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,207 @@
+{
+  "book": "Ezra",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezra.xml",
+    "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-11",
+      "decision": "Hold Cyrus's imperial authorization and the narrator's claim of divine sovereignty together.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezra.xml",
+    "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezra 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Ezra 1:1",
+            "segment_mode": "whole",
+            "sha256": "cc906a75901c221342bd1039b07bba9e14afda2a1e08f2261468ef81d575de0b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cc906a75901c221342bd1039b07bba9e14afda2a1e08f2261468ef81d575de0b"
+      },
+      "2": {
+        "source_ref": "Ezra 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Ezra 1:2",
+            "segment_mode": "whole",
+            "sha256": "d60c7ee2261a95f05aa0b20ab8430419b008e49ff7e17cc2d3cd74dd438217d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d60c7ee2261a95f05aa0b20ab8430419b008e49ff7e17cc2d3cd74dd438217d2"
+      },
+      "3": {
+        "source_ref": "Ezra 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Ezra 1:3",
+            "segment_mode": "whole",
+            "sha256": "1ff9c87f4a0bb50ba27a006e66e365781a867a733706cc7bbeafb20365924962"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1ff9c87f4a0bb50ba27a006e66e365781a867a733706cc7bbeafb20365924962"
+      },
+      "4": {
+        "source_ref": "Ezra 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Ezra 1:4",
+            "segment_mode": "whole",
+            "sha256": "590b614b3768d2e392021c3aecff53c18fc4dd899ba21dfc01461f5a74feef68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "590b614b3768d2e392021c3aecff53c18fc4dd899ba21dfc01461f5a74feef68"
+      },
+      "5": {
+        "source_ref": "Ezra 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Ezra 1:5",
+            "segment_mode": "whole",
+            "sha256": "54293f6e743983b36cb0e156791cf03d5e163ae38cb925994793c3f28ec2dba2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "54293f6e743983b36cb0e156791cf03d5e163ae38cb925994793c3f28ec2dba2"
+      },
+      "6": {
+        "source_ref": "Ezra 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Ezra 1:6",
+            "segment_mode": "whole",
+            "sha256": "51a11c369b28748b000b6b530800a25a3869b6aea2668797853ea05d292e240a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "51a11c369b28748b000b6b530800a25a3869b6aea2668797853ea05d292e240a"
+      },
+      "7": {
+        "source_ref": "Ezra 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Ezra 1:7",
+            "segment_mode": "whole",
+            "sha256": "7f2857c41e12550c85dfaab6259dc4c23f0a457f97f61fd7c8ccafe10ba830fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7f2857c41e12550c85dfaab6259dc4c23f0a457f97f61fd7c8ccafe10ba830fb"
+      },
+      "8": {
+        "source_ref": "Ezra 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Ezra 1:8",
+            "segment_mode": "whole",
+            "sha256": "2d535825a37ffb9c0e6f91992b5b1d45856c6a63e59428768ec3a05ebe8387bc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d535825a37ffb9c0e6f91992b5b1d45856c6a63e59428768ec3a05ebe8387bc"
+      },
+      "9": {
+        "source_ref": "Ezra 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Ezra 1:9",
+            "segment_mode": "whole",
+            "sha256": "80f9c2f45fdf526e0fa5ed8231fed7068654a09eadd8ee93e5b2c658858a73ca"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "80f9c2f45fdf526e0fa5ed8231fed7068654a09eadd8ee93e5b2c658858a73ca"
+      },
+      "10": {
+        "source_ref": "Ezra 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Ezra 1:10",
+            "segment_mode": "whole",
+            "sha256": "954d1c4fb336d4567664720a19886648ca356a42db42b205020fc81c7a8e2cbc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "954d1c4fb336d4567664720a19886648ca356a42db42b205020fc81c7a8e2cbc"
+      },
+      "11": {
+        "source_ref": "Ezra 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Ezra 1:11",
+            "segment_mode": "whole",
+            "sha256": "10a9e79f776ae5fc9078a17bb4edb23cfd3760c9468e88026b6d221897faac78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10a9e79f776ae5fc9078a17bb4edb23cfd3760c9468e88026b6d221897faac78"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezra/Ezra_01.md",
+    "blob_sha": "134a2500620fe0010967b7a4c38a9bd6c3597be4"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

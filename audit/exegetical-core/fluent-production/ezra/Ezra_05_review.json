@@ -1,0 +1,291 @@
+{
+  "book": "Ezra",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezra.xml",
+    "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Ezra.xml",
+    "git_blob_sha": "03b112205f559c24d00e35109f950c42e3f9464b",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Ezra 5:1",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "Ezra 5:1",
+            "segment_mode": "whole",
+            "sha256": "22c947d34fee05cde6431cbf2814a7a0dd38e4ea29b4d5e4657d5a2cba8c53ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "22c947d34fee05cde6431cbf2814a7a0dd38e4ea29b4d5e4657d5a2cba8c53ce"
+      },
+      "2": {
+        "source_ref": "Ezra 5:2",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "Ezra 5:2",
+            "segment_mode": "whole",
+            "sha256": "6b1f0c6762007c46af73f33a4186f45854070560c4fd736eac6c94dcd3bfac40"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b1f0c6762007c46af73f33a4186f45854070560c4fd736eac6c94dcd3bfac40"
+      },
+      "3": {
+        "source_ref": "Ezra 5:3",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "Ezra 5:3",
+            "segment_mode": "whole",
+            "sha256": "2448b7cecf1055b7179b56de97fa35db4e0ca25f9954c6da76bcd7796089bc7a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2448b7cecf1055b7179b56de97fa35db4e0ca25f9954c6da76bcd7796089bc7a"
+      },
+      "4": {
+        "source_ref": "Ezra 5:4",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "Ezra 5:4",
+            "segment_mode": "whole",
+            "sha256": "7bfc3eaa87949c41a0eff406a3bad3384b5d10f6cc2fbedea4ad08240bf39643"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7bfc3eaa87949c41a0eff406a3bad3384b5d10f6cc2fbedea4ad08240bf39643"
+      },
+      "5": {
+        "source_ref": "Ezra 5:5",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "Ezra 5:5",
+            "segment_mode": "whole",
+            "sha256": "0792c219d4d47dd82ecfaf372aa1a221e772e3cf9cfcb0036013069fd7e4b79e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0792c219d4d47dd82ecfaf372aa1a221e772e3cf9cfcb0036013069fd7e4b79e"
+      },
+      "6": {
+        "source_ref": "Ezra 5:6",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "Ezra 5:6",
+            "segment_mode": "whole",
+            "sha256": "0c97b03e760ae8f7dbfa8228340887b50d95d65fbe12bf7cf8cee522c47b9551"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c97b03e760ae8f7dbfa8228340887b50d95d65fbe12bf7cf8cee522c47b9551"
+      },
+      "7": {
+        "source_ref": "Ezra 5:7",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "Ezra 5:7",
+            "segment_mode": "whole",
+            "sha256": "349b950998387fc425477887b0acc128229b9b10683278b18db375d02ef592b2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "349b950998387fc425477887b0acc128229b9b10683278b18db375d02ef592b2"
+      },
+      "8": {
+        "source_ref": "Ezra 5:8",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "Ezra 5:8",
+            "segment_mode": "whole",
+            "sha256": "0773906e56a9d9cfb21c4996da6469afa007d53b7331616eeb8d888be49e1e81"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0773906e56a9d9cfb21c4996da6469afa007d53b7331616eeb8d888be49e1e81"
+      },
+      "9": {
+        "source_ref": "Ezra 5:9",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "Ezra 5:9",
+            "segment_mode": "whole",
+            "sha256": "fa5ad857fe80dc03e686dfeb01f14c518d739e0b131e8436b143587e7da209b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fa5ad857fe80dc03e686dfeb01f14c518d739e0b131e8436b143587e7da209b0"
+      },
+      "10": {
+        "source_ref": "Ezra 5:10",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "Ezra 5:10",
+            "segment_mode": "whole",
+            "sha256": "3c4dbb99d505dd64cd1549985c313b69af78e3cb6a28f642adb5bf13af7ced87"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3c4dbb99d505dd64cd1549985c313b69af78e3cb6a28f642adb5bf13af7ced87"
+      },
+      "11": {
+        "source_ref": "Ezra 5:11",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "Ezra 5:11",
+            "segment_mode": "whole",
+            "sha256": "d64b0401228f5a06485e0c10dab9e7449586aaea623d856c2c42f6e9113a6400"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d64b0401228f5a06485e0c10dab9e7449586aaea623d856c2c42f6e9113a6400"
+      },
+      "12": {
+        "source_ref": "Ezra 5:12",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "Ezra 5:12",
+            "segment_mode": "whole",
+            "sha256": "aa1be22919aa071d8fd42a2250baa1a39fffd1aa44f2584069de4fc722f4487a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa1be22919aa071d8fd42a2250baa1a39fffd1aa44f2584069de4fc722f4487a"
+      },
+      "13": {
+        "source_ref": "Ezra 5:13",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "Ezra 5:13",
+            "segment_mode": "whole",
+            "sha256": "76daafa873aca6f27888068ecfdea91020f4f64965f881ee52164e849fe93696"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76daafa873aca6f27888068ecfdea91020f4f64965f881ee52164e849fe93696"
+      },
+      "14": {
+        "source_ref": "Ezra 5:14",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "Ezra 5:14",
+            "segment_mode": "whole",
+            "sha256": "b0b0b027593f948a27bcfd1c19ea684831a61819b708ea41d0408bbf76b3f880"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b0b0b027593f948a27bcfd1c19ea684831a61819b708ea41d0408bbf76b3f880"
+      },
+      "15": {
+        "source_ref": "Ezra 5:15",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 15,
+            "source_ref": "Ezra 5:15",
+            "segment_mode": "whole",
+            "sha256": "9fb70f84c0bafd29791e1d1361e9f3abe7af170fad5157b68d7fa7980bc48612"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9fb70f84c0bafd29791e1d1361e9f3abe7af170fad5157b68d7fa7980bc48612"
+      },
+      "16": {
+        "source_ref": "Ezra 5:16",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 16,
+            "source_ref": "Ezra 5:16",
+            "segment_mode": "whole",
+            "sha256": "bd453fc2324ca674e687bdaaa300989bf4be111b10244c449f2992843cb0104a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd453fc2324ca674e687bdaaa300989bf4be111b10244c449f2992843cb0104a"
+      },
+      "17": {
+        "source_ref": "Ezra 5:17",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 17,
+            "source_ref": "Ezra 5:17",
+            "segment_mode": "whole",
+            "sha256": "a21cedf104d34957975613475a154b41cdc850bd135164ec5e277bbe32e7b573"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a21cedf104d34957975613475a154b41cdc850bd135164ec5e277bbe32e7b573"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/ezra/Ezra_05.md",
+    "blob_sha": "bfc05c66f065576b75f7bb667f3e7f7996f111f9"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
