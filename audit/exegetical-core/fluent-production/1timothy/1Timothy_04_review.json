@@ -1,0 +1,133 @@
+{
+  "book": "1 Timothy",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 16,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Tim.txt",
+    "git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Timothy 4:1",
+        "source_chapter": 4,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "10590cfb0e43a673672cdfac9fae4a1c9595567456efa358de2beda0aeb04f7f"
+      },
+      "2": {
+        "source_ref": "1 Timothy 4:2",
+        "source_chapter": 4,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "5389ef99b7b1de9bcc28d75bf13224238bebfda83916fbb07db9b31734206f08"
+      },
+      "3": {
+        "source_ref": "1 Timothy 4:3",
+        "source_chapter": 4,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "a780e11ac498f4e2ed9e589fdee75e26b1853ce3aac403183bd05cc5ba8b8259"
+      },
+      "4": {
+        "source_ref": "1 Timothy 4:4",
+        "source_chapter": 4,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "655ccced0310df34995180f6934eaac95df71256485dc2f15d7d39ce0b8264c9"
+      },
+      "5": {
+        "source_ref": "1 Timothy 4:5",
+        "source_chapter": 4,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "ae539d60d75c6ab9591e0bd34ac1ee9134a3f127ad5a87c34a434eff6aef46e7"
+      },
+      "6": {
+        "source_ref": "1 Timothy 4:6",
+        "source_chapter": 4,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "e4a81b3875f9a7790dcb50ac342a22246a25733fbe102561fa0ecbb41bffcebd"
+      },
+      "7": {
+        "source_ref": "1 Timothy 4:7",
+        "source_chapter": 4,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "acbb168a1f33747b4d6d5ac816dfd6ce61b10b2f357caa0f64670300c37d7c20"
+      },
+      "8": {
+        "source_ref": "1 Timothy 4:8",
+        "source_chapter": 4,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "a9d1243a5a8e07afc5a1cc99714d214a8280f47d6c909795c881a3c839028384"
+      },
+      "9": {
+        "source_ref": "1 Timothy 4:9",
+        "source_chapter": 4,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "e2073f4d2b8507901d38498bfb1baedc757da784b8a38157babfdefe773ce6d7"
+      },
+      "10": {
+        "source_ref": "1 Timothy 4:10",
+        "source_chapter": 4,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "951a615b6bbe706390d58350a0c7a51b3c63d4148b25009db4b9fd41e93d6a0f"
+      },
+      "11": {
+        "source_ref": "1 Timothy 4:11",
+        "source_chapter": 4,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "abfbbc3d2194af2f5abd2dca2cc92a28a06b0b47fbd59d4b0a818a5c7e137d20"
+      },
+      "12": {
+        "source_ref": "1 Timothy 4:12",
+        "source_chapter": 4,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "1b50897c84b0f8877f07934d4eae8026c882c65e04bba072ff2766bd8ec9ddae"
+      },
+      "13": {
+        "source_ref": "1 Timothy 4:13",
+        "source_chapter": 4,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "c31f8d17c4e25f3a81fb46b3f1cbe7c1161eb5ad2d9b6ff7a32ae85b96bf9702"
+      },
+      "14": {
+        "source_ref": "1 Timothy 4:14",
+        "source_chapter": 4,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "7196de6f7409f7eecc0e864b416bb7bf03f941656de3c4cc48f67fc2c593cbe0"
+      },
+      "15": {
+        "source_ref": "1 Timothy 4:15",
+        "source_chapter": 4,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "055bd0a95fc6a801d081e52aff4201f3c77c72030f4bebd32e9eb9533a7bb39f"
+      },
+      "16": {
+        "source_ref": "1 Timothy 4:16",
+        "source_chapter": 4,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "9d7e9548059a7a9828c5b122d92ed64ed2195cb6499fceac6c8452c0236b7cb4"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1timothy/1Timothy_04.md",
+    "blob_sha": "a316f789fe9a137b2a59b14b0b7b5a6564bd2d6e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

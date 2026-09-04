@@ -1,0 +1,168 @@
+{
+  "book": "1 Timothy",
+  "chapter": 6,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 21,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Tim.txt",
+    "git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Timothy 6:1",
+        "source_chapter": 6,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "cba1b0151c8fae044cdf89e42ebe4842ba9afc509954eea24b333c45fd56b744"
+      },
+      "2": {
+        "source_ref": "1 Timothy 6:2",
+        "source_chapter": 6,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "3f56259524f1ad720523dba0d017b198058f69e612526326f9d3b54fade05964"
+      },
+      "3": {
+        "source_ref": "1 Timothy 6:3",
+        "source_chapter": 6,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "3921fa5dd3179759fb605d53882da07275eea4371c7ae01b19d36dc98aa963f5"
+      },
+      "4": {
+        "source_ref": "1 Timothy 6:4",
+        "source_chapter": 6,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "26b5813d0707ebb93f5e50e8c14ae6bb2e46405dd9bc0f745065437938641d68"
+      },
+      "5": {
+        "source_ref": "1 Timothy 6:5",
+        "source_chapter": 6,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "ab6ebc356ba49a86e20a995b8b49e172f311b22a03e00cbc6510501e700310d1"
+      },
+      "6": {
+        "source_ref": "1 Timothy 6:6",
+        "source_chapter": 6,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "650291825d0380844dade88e64b1075efcfff8409a33e53aeaf5315c4d0f39d9"
+      },
+      "7": {
+        "source_ref": "1 Timothy 6:7",
+        "source_chapter": 6,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "586b695ea9bcc2ed18f39dcc77bf711c2c6deb2a2796e9a0ce7281d12f658c55"
+      },
+      "8": {
+        "source_ref": "1 Timothy 6:8",
+        "source_chapter": 6,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "40174aa2cff894a608fcce0c529d12e9856a3879ec4f908c33f6b0732489c2ad"
+      },
+      "9": {
+        "source_ref": "1 Timothy 6:9",
+        "source_chapter": 6,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "d995234429f76a36415c264dd425c1e0db81e3578b586b817edb6b7fcf06c913"
+      },
+      "10": {
+        "source_ref": "1 Timothy 6:10",
+        "source_chapter": 6,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "a64e27b0ab828577ed20b6602a19252cbad39130ab56262aec52b8e5b09aba1d"
+      },
+      "11": {
+        "source_ref": "1 Timothy 6:11",
+        "source_chapter": 6,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "0c6edc9337cb51c792d3f320751403f1a6787e9c8823ad746a30fa6047ce7565"
+      },
+      "12": {
+        "source_ref": "1 Timothy 6:12",
+        "source_chapter": 6,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "627a458b143a20d51195db48da78f83c9251d1b33b6d54d06d091d25f40acec6"
+      },
+      "13": {
+        "source_ref": "1 Timothy 6:13",
+        "source_chapter": 6,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "98188c8f6a56fa37167c622cdd19e091540d3fe1164505da581b77a638dc8353"
+      },
+      "14": {
+        "source_ref": "1 Timothy 6:14",
+        "source_chapter": 6,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "745bb6af81d886a66986b440787cb2843ccdccffefb03b1eae3eba569e4d99a9"
+      },
+      "15": {
+        "source_ref": "1 Timothy 6:15",
+        "source_chapter": 6,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "ea97375a18fd7b3e90dcd4005806b5e18edeeb193629b737e3e77d2f4bcfa192"
+      },
+      "16": {
+        "source_ref": "1 Timothy 6:16",
+        "source_chapter": 6,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "d13ac593e6a2e75db24d14ccbf5273a384cfd87e2d3e4b66ee2d66e73421d3e3"
+      },
+      "17": {
+        "source_ref": "1 Timothy 6:17",
+        "source_chapter": 6,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "4fe6628c703fa1ba5deb74a776457d74ea3f3ab13ddf7941b0446a0f6790a862"
+      },
+      "18": {
+        "source_ref": "1 Timothy 6:18",
+        "source_chapter": 6,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "595e77b35841fd4a9840baf0334e8addb33fe873657a5acd590cdba113ab5def"
+      },
+      "19": {
+        "source_ref": "1 Timothy 6:19",
+        "source_chapter": 6,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "c685b96b4a9559ac35e3a1af40304ae0acda66f6c8c57e0f6aa8401eb46594dc"
+      },
+      "20": {
+        "source_ref": "1 Timothy 6:20",
+        "source_chapter": 6,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "d853edc48b53b54782c53a7e70c7d7f50a7c19ae3d2d43db4f1d4788445a14cb"
+      },
+      "21": {
+        "source_ref": "1 Timothy 6:21",
+        "source_chapter": 6,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "192ee2065fe326f16634afdd0b28733c749386888d9b817ba3939d42dc08438d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1timothy/1Timothy_06.md",
+    "blob_sha": "8b6b09a8106abf306d8d503b574e4f18697757c9"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

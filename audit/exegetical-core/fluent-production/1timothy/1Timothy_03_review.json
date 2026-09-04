@@ -1,0 +1,133 @@
+{
+  "book": "1 Timothy",
+  "chapter": 3,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 16,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Tim.txt",
+    "git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Timothy 3:1",
+        "source_chapter": 3,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "816da543c4643500ad62a68190ae2ce5bbfb6b521d011eed30419892f1b2dcbd"
+      },
+      "2": {
+        "source_ref": "1 Timothy 3:2",
+        "source_chapter": 3,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "d68034eb68d04ee7f8410e05e5186627b217329a521b548a9bf2ba8e72cf1f0e"
+      },
+      "3": {
+        "source_ref": "1 Timothy 3:3",
+        "source_chapter": 3,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "43bb5f2cae7f4a3e1643114de230b78f022ad45bdfeff3a14d7d5a74725d5d7d"
+      },
+      "4": {
+        "source_ref": "1 Timothy 3:4",
+        "source_chapter": 3,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "29bcf4a1a0f40e6c1d92a9cb25430e4f644f315a1f273fa08720c396eb1c0eff"
+      },
+      "5": {
+        "source_ref": "1 Timothy 3:5",
+        "source_chapter": 3,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "37ba83c63f3cbbcb9ec3a20a9fc79ca7ef84aad81f321cb27375e4f204743c27"
+      },
+      "6": {
+        "source_ref": "1 Timothy 3:6",
+        "source_chapter": 3,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "f450e998359f856ed213de658d725d74adfee2fe235a9c735376c91bf168f034"
+      },
+      "7": {
+        "source_ref": "1 Timothy 3:7",
+        "source_chapter": 3,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "81e45718370fef93b806c8d2d7041da343721a8d86945000870e29239ec90655"
+      },
+      "8": {
+        "source_ref": "1 Timothy 3:8",
+        "source_chapter": 3,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "9a2030cb31778e8ea017daeca1039a8b68859eaf33f98d3aa9923883b0653024"
+      },
+      "9": {
+        "source_ref": "1 Timothy 3:9",
+        "source_chapter": 3,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "8242aaac96c8b86b3d6746f96f308a4b73cd24669b8a7690b24350d5cd7fc6e8"
+      },
+      "10": {
+        "source_ref": "1 Timothy 3:10",
+        "source_chapter": 3,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "e6621a499704e15a48795c84ed04228bb134fe65963ca902d0701ac2d35df2fd"
+      },
+      "11": {
+        "source_ref": "1 Timothy 3:11",
+        "source_chapter": 3,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "905ca1acaf7cb11a88e0b737dc59fac3967b6a87e2238d2110f5465f001ee117"
+      },
+      "12": {
+        "source_ref": "1 Timothy 3:12",
+        "source_chapter": 3,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "379b91340f49d0958d3a6e017b70fb96b5e0790cd57ad4384d5b610ee969b0da"
+      },
+      "13": {
+        "source_ref": "1 Timothy 3:13",
+        "source_chapter": 3,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "ec78859f830926f35830c0ea6b6e301350888576423283c84533b4902f9c2766"
+      },
+      "14": {
+        "source_ref": "1 Timothy 3:14",
+        "source_chapter": 3,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "c285a8914e33438e88fd40d9bd9363c78d82d5304ceaf2c386fb86ffb9d0be2b"
+      },
+      "15": {
+        "source_ref": "1 Timothy 3:15",
+        "source_chapter": 3,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "cda5d0eda601f51ac23394816a7e740a85870f4d603bfa566729fa5c4064f906"
+      },
+      "16": {
+        "source_ref": "1 Timothy 3:16",
+        "source_chapter": 3,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "28b27224a215878507129962588f145ed1d9ddc614d3a1039a40d356bca5ed5d"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1timothy/1Timothy_03.md",
+    "blob_sha": "87e8a0fbc5f48083d39177f7fd6fef73987051c3"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

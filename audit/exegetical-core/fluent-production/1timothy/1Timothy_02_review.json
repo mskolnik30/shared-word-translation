@@ -1,0 +1,126 @@
+{
+  "book": "1 Timothy",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 15,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Tim.txt",
+    "git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Timothy 2:1",
+        "source_chapter": 2,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "d1832a60d80addc576ec749e85ce667aa56c64d7751f5c7ef96e68ff1e38f1af"
+      },
+      "2": {
+        "source_ref": "1 Timothy 2:2",
+        "source_chapter": 2,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "116ba08a86da984c285632fd93dad67ce662c5576952fc8802825c3975156345"
+      },
+      "3": {
+        "source_ref": "1 Timothy 2:3",
+        "source_chapter": 2,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "c3ae1793fa6cdb755e89a425e349eb9937dc9b3458bb011210e5a879c2443b60"
+      },
+      "4": {
+        "source_ref": "1 Timothy 2:4",
+        "source_chapter": 2,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "7a2436d476e8db11d61ba24f770c35ce607b69d5a99e1e21b74ed6086671fc3b"
+      },
+      "5": {
+        "source_ref": "1 Timothy 2:5",
+        "source_chapter": 2,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "099982a3070c645d7495368c797fad184e96ee6edbb0511d2a5ada815ac1d881"
+      },
+      "6": {
+        "source_ref": "1 Timothy 2:6",
+        "source_chapter": 2,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "a00ab3670f285a1e4114d407aac0a05dc91f1abfd386d206da634eb7b37441b2"
+      },
+      "7": {
+        "source_ref": "1 Timothy 2:7",
+        "source_chapter": 2,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "c5b747a71c94da378008641372da4d183603f8538c42398dd860f0b1866540ca"
+      },
+      "8": {
+        "source_ref": "1 Timothy 2:8",
+        "source_chapter": 2,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "94f2f4efe7df5fbcb9ceb9e4e00bcb47b92aad5eafa4d73e3490bf56eb3ba73d"
+      },
+      "9": {
+        "source_ref": "1 Timothy 2:9",
+        "source_chapter": 2,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "545708ea4567b799177f9a02e7148241305eefe5339a86ca31e7ed445ec2a9f4"
+      },
+      "10": {
+        "source_ref": "1 Timothy 2:10",
+        "source_chapter": 2,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "a4029f0e3c08a8e47bf77b384889594394a6c758f3883158aaafb5b9adf7f21d"
+      },
+      "11": {
+        "source_ref": "1 Timothy 2:11",
+        "source_chapter": 2,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "0e6532781971cad207ebaa16b4f227c0aad0db1b22acf7733de4123438d311f4"
+      },
+      "12": {
+        "source_ref": "1 Timothy 2:12",
+        "source_chapter": 2,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "74aaa9c02a4294b6108c167c117697d02269e82cf012cc45a9598e1199ae1c30"
+      },
+      "13": {
+        "source_ref": "1 Timothy 2:13",
+        "source_chapter": 2,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "1c20543937a33e73e43683f85fd12965b11f99ce6102b53632197eb3f538450b"
+      },
+      "14": {
+        "source_ref": "1 Timothy 2:14",
+        "source_chapter": 2,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "c103b5f12748673d4f19e70b7811928a30dfa2a39e2e1d2dfff5c3fd8d93f012"
+      },
+      "15": {
+        "source_ref": "1 Timothy 2:15",
+        "source_chapter": 2,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "3a351b732421b13f336edab9279df6e8672ba17273a4ee054d9b2dbcd92b7adc"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1timothy/1Timothy_02.md",
+    "blob_sha": "9a93d9337ff123848a3675d4840999865d98a048"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

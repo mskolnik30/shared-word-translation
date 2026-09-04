@@ -1,0 +1,196 @@
+{
+  "book": "1 Timothy",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 25,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Tim.txt",
+    "git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "1 Timothy 5:1",
+        "source_chapter": 5,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "d271ae2de52f4823e82325b18e0e246d36b8df6c06bcae2f80fe9b1bab966bef"
+      },
+      "2": {
+        "source_ref": "1 Timothy 5:2",
+        "source_chapter": 5,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "766825a586c67694da6c2b9deccd69635a338a28ac9b5d43a0b2f248ba807412"
+      },
+      "3": {
+        "source_ref": "1 Timothy 5:3",
+        "source_chapter": 5,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "18a6743b063548fcee3720e8c4ecd4b2d905b88a01e0982a85c614ff163de860"
+      },
+      "4": {
+        "source_ref": "1 Timothy 5:4",
+        "source_chapter": 5,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "759f0e5a966d98998437fd92dd3ea8e0335e144a829ee451f6dfc550a3334e16"
+      },
+      "5": {
+        "source_ref": "1 Timothy 5:5",
+        "source_chapter": 5,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "4bd93655865cd8070943d8ad6b5228755282ece89166636736c58211189bda59"
+      },
+      "6": {
+        "source_ref": "1 Timothy 5:6",
+        "source_chapter": 5,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "b1d57e8f39fa8787ea56159c29c8dc3b4aa2e8dffad7298e119002716fdfc9c1"
+      },
+      "7": {
+        "source_ref": "1 Timothy 5:7",
+        "source_chapter": 5,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "5898253ae37896f7548cc519497654aaed914eb72ea4ceebaf75a9c118a3d29e"
+      },
+      "8": {
+        "source_ref": "1 Timothy 5:8",
+        "source_chapter": 5,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "3c095f4f32f028da95f59dcdd789efef7c7fb2b0885e3ccf03da131c88f90158"
+      },
+      "9": {
+        "source_ref": "1 Timothy 5:9",
+        "source_chapter": 5,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "6d22d28045cba975c6c6bf51ddc22c0d42c558c34f02a34bae67ffc6bfaabdf1"
+      },
+      "10": {
+        "source_ref": "1 Timothy 5:10",
+        "source_chapter": 5,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "dda229ecf7a120679a67771014152fe4284a647e15eafd08662f855abd8250d2"
+      },
+      "11": {
+        "source_ref": "1 Timothy 5:11",
+        "source_chapter": 5,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "d9e3b0915b979193e88b18257ebd52bd715d5dfc19f7c972106fb29c5ca41462"
+      },
+      "12": {
+        "source_ref": "1 Timothy 5:12",
+        "source_chapter": 5,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "9d4b81566c403f4fac893ae34b20324acb5bbceba92725212f623bea15256e2b"
+      },
+      "13": {
+        "source_ref": "1 Timothy 5:13",
+        "source_chapter": 5,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "45ca5b8307672138793fef1056b01315c7b48c9c56508db8f18b10ba2c495288"
+      },
+      "14": {
+        "source_ref": "1 Timothy 5:14",
+        "source_chapter": 5,
+        "source_verse": 14,
+        "segment_mode": "whole_record",
+        "sha256": "04e66ae731f7f507b4310a6dfb7a48b412796ee0cd0f950fb349af813418524f"
+      },
+      "15": {
+        "source_ref": "1 Timothy 5:15",
+        "source_chapter": 5,
+        "source_verse": 15,
+        "segment_mode": "whole_record",
+        "sha256": "f1411ba33eff3a716f7983f94c16417fac584a68a795b1999039022dbb89e632"
+      },
+      "16": {
+        "source_ref": "1 Timothy 5:16",
+        "source_chapter": 5,
+        "source_verse": 16,
+        "segment_mode": "whole_record",
+        "sha256": "22acc75a53a77d05e3ba3f17fd62a5b927360dd580ed29a2cec73be9df8a4817"
+      },
+      "17": {
+        "source_ref": "1 Timothy 5:17",
+        "source_chapter": 5,
+        "source_verse": 17,
+        "segment_mode": "whole_record",
+        "sha256": "5869c99a8deace2965d6fb20fd2a9ce22a68ac9844b352e38ddd0fc090a7ab4e"
+      },
+      "18": {
+        "source_ref": "1 Timothy 5:18",
+        "source_chapter": 5,
+        "source_verse": 18,
+        "segment_mode": "whole_record",
+        "sha256": "c68030f693656423082d8535ecef27b3bf7fc55ac1ec3758b6695e4c5d7df285"
+      },
+      "19": {
+        "source_ref": "1 Timothy 5:19",
+        "source_chapter": 5,
+        "source_verse": 19,
+        "segment_mode": "whole_record",
+        "sha256": "70106a139643436cce010c696f8cd5870fe7c0e3fb9ecc8cc09a8e7e33dd3f9c"
+      },
+      "20": {
+        "source_ref": "1 Timothy 5:20",
+        "source_chapter": 5,
+        "source_verse": 20,
+        "segment_mode": "whole_record",
+        "sha256": "e8758df3cd345de9e3595c4dc4af1d5dc3ca4e8fd2aab8f2cdd5d0bc1ccc68dc"
+      },
+      "21": {
+        "source_ref": "1 Timothy 5:21",
+        "source_chapter": 5,
+        "source_verse": 21,
+        "segment_mode": "whole_record",
+        "sha256": "015e16c4352d9111de15917d5ba74f83bbbf5074c495fad2d4a706b5f9564b47"
+      },
+      "22": {
+        "source_ref": "1 Timothy 5:22",
+        "source_chapter": 5,
+        "source_verse": 22,
+        "segment_mode": "whole_record",
+        "sha256": "0707acd0fe5d2fc559c31c6f0be23b08a0717208f50788ef6947451572738b9d"
+      },
+      "23": {
+        "source_ref": "1 Timothy 5:23",
+        "source_chapter": 5,
+        "source_verse": 23,
+        "segment_mode": "whole_record",
+        "sha256": "7fda348d68289da8d741f66ebbb0dc9638ce0fbd4c9ae5d15ad0f8819ef79623"
+      },
+      "24": {
+        "source_ref": "1 Timothy 5:24",
+        "source_chapter": 5,
+        "source_verse": 24,
+        "segment_mode": "whole_record",
+        "sha256": "be356fd828dd9bc4e86148c03c82777ea046a015b0da9a28e3d77039e5bbdf89"
+      },
+      "25": {
+        "source_ref": "1 Timothy 5:25",
+        "source_chapter": 5,
+        "source_verse": 25,
+        "segment_mode": "whole_record",
+        "sha256": "2627ca1a503c57166b82ca1fbf29ca7f80cdcc218080c32008ef905741562bbc"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/1timothy/1Timothy_05.md",
+    "blob_sha": "e768c0e9cc6ecb34fc75209a8d28ccd55093d32b"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

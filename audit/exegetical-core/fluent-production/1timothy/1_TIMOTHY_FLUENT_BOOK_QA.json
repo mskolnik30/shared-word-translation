@@ -1,0 +1,111 @@
+{
+  "book": "1 Timothy",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 6,
+  "public_verse_slots": 113,
+  "included_verse_labels": 113,
+  "critical_text_absent_public_verses": {},
+  "book_level_anchors": [
+    "sound teaching",
+    "good conscience",
+    "trustworthy sayings",
+    "godliness",
+    "God/Christ as Savior",
+    "leadership character",
+    "household of God",
+    "prayer",
+    "money and contentment",
+    "good works",
+    "guard entrusted deposit"
+  ],
+  "deployment": "NT_BATCH_02",
+  "curated_f3_decisions": [
+    {
+      "location": "1:8",
+      "decision": "Law is good when used lawfully"
+    },
+    {
+      "location": "1:10",
+      "decision": "arsenokoitai rendered men who have sex with men; avoid modern identity label; andrapodistai = enslavers"
+    },
+    {
+      "location": "2:4",
+      "decision": "all people universal saving desire retained"
+    },
+    {
+      "location": "2:11-12",
+      "decision": "woman learn positively retained; hesychia = quietness; authentein main exercise authority with lexical debate noted"
+    },
+    {
+      "location": "2:15",
+      "decision": "saved through childbearing left interpretively open"
+    },
+    {
+      "location": "3:11",
+      "decision": "women likewise retained without inserting their wives"
+    },
+    {
+      "location": "3:16",
+      "decision": "He was revealed in flesh follows SBLGNT, not later God was revealed"
+    },
+    {
+      "location": "4:10",
+      "decision": "Savior of all people, especially those who trust retained without narrowing"
+    },
+    {
+      "location": "5:17-21",
+      "decision": "elders receive procedural protection and public accountability"
+    },
+    {
+      "location": "6:10",
+      "decision": "love of money a root of all kinds of evils, not the root of all evil"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/1Tim.txt",
+    "git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416"
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "54745ec5731df6c6f844b28a9e12d063a38cf416",
+    "source_binding_count": 113,
+    "unique_source_record_count": 113,
+    "public_verse_slots": 113,
+    "ledger_summary": {
+      "F0": 7,
+      "F1": 53,
+      "F2": 38,
+      "F3": 15
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/1timothy/1Timothy_01.md",
+        "blob_sha": "fce4e558440470f9193250ffde63d78f37d13d4a"
+      },
+      "02": {
+        "path": "books/NT/1timothy/1Timothy_02.md",
+        "blob_sha": "9a93d9337ff123848a3675d4840999865d98a048"
+      },
+      "03": {
+        "path": "books/NT/1timothy/1Timothy_03.md",
+        "blob_sha": "87e8a0fbc5f48083d39177f7fd6fef73987051c3"
+      },
+      "04": {
+        "path": "books/NT/1timothy/1Timothy_04.md",
+        "blob_sha": "a316f789fe9a137b2a59b14b0b7b5a6564bd2d6e"
+      },
+      "05": {
+        "path": "books/NT/1timothy/1Timothy_05.md",
+        "blob_sha": "e768c0e9cc6ecb34fc75209a8d28ccd55093d32b"
+      },
+      "06": {
+        "path": "books/NT/1timothy/1Timothy_06.md",
+        "blob_sha": "8b6b09a8106abf306d8d503b574e4f18697757c9"
+      }
+    }
+  }
+}
