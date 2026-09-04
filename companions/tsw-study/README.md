@@ -38,3 +38,8 @@ Machine validation is implemented by `tools/audit_companion_batch.py`. Passing t
 - `APPROVED_FOR_PUBLICATION` means every required human gate is approved and the release audit passes.
 
 Approval of a text dossier does not approve unfinished visuals. A dossier may be published as text while requested images remain blocked in the shared biblical-world registry. Visuals become public only after their provenance, rights, classification, evidence label, caption, and alternative text pass their own record-level requirements.
+
+## Published and active batches
+
+- **Batch One:** ten dossiers approved for text publication; unfinished visuals remain individually blocked.
+- **Batch Two:** ten dossiers drafted and structurally audited; publication remains blocked until one consolidated human approval covers all seven review gates.

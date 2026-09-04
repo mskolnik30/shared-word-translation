@@ -47,14 +47,6 @@ REQUIRED_GATES = {
     "public-language",
     "visual-evidence",
 }
-SENSITIVE_DOSSIERS = {
-    "tsw-study-1-corinthians-14-33b-36",
-    "tsw-study-genesis-22-1-19",
-    "tsw-study-joshua-6-15-27",
-    "tsw-study-philippians-2-5-11",
-    "tsw-study-psalm-22",
-    "tsw-study-romans-3-21-26",
-}
 ALLOWED_VISUAL_CLASSES = {
     "archaeological photograph",
     "artifact",
@@ -114,13 +106,21 @@ def audit(manifest_path: Path) -> list[str]:
     dossiers = manifest.get("dossiers", [])
     required_sections = manifest.get("required_sections", [])
     manifest_status = manifest.get("status")
+    batch_number = manifest.get("batch_number")
+    sensitive_dossiers = set(manifest.get("content_notice_required", []))
 
     if manifest_status not in ALLOWED_BATCH_STATUSES:
         errors.append(f"manifest status must be one of {sorted(ALLOWED_BATCH_STATUSES)}")
+    if not isinstance(batch_number, int) or batch_number < 1:
+        errors.append("batch_number must be a positive integer")
     if manifest.get("dossier_count") != len(dossiers):
         errors.append("dossier_count does not match dossier entries")
     if len(dossiers) != 10:
         errors.append(f"batch must contain 10 dossiers; found {len(dossiers)}")
+    dossier_ids = {entry.get("id") for entry in dossiers}
+    unknown_sensitive = sensitive_dossiers - dossier_ids
+    if unknown_sensitive:
+        errors.append(f"content_notice_required contains unknown dossiers: {sorted(unknown_sensitive)}")
 
     shared = load_json(SHARED_REGISTRY)
     shared_ids = {record.get("id") for record in shared.get("records", [])}
@@ -189,9 +189,9 @@ def audit(manifest_path: Path) -> list[str]:
             errors.append(f"{dossier_id}: translation must be tsw")
         if front.get("status") != manifest_status:
             errors.append(f"{dossier_id}: status must match the batch manifest")
-        if front.get("batch") != "1":
-            errors.append(f"{dossier_id}: batch must be 1")
-        if dossier_id in SENSITIVE_DOSSIERS and not front.get("content_notice"):
+        if front.get("batch") != str(batch_number):
+            errors.append(f"{dossier_id}: batch must be {batch_number}")
+        if dossier_id in sensitive_dossiers and not front.get("content_notice"):
             errors.append(f"{dossier_id}: sensitive dossier requires a content notice")
         if re.search(r"!\[[^\]]*\]\([^)]+\)", text):
             errors.append(f"{dossier_id}: direct image embedding bypasses shared visual review")
@@ -229,6 +229,8 @@ def audit(manifest_path: Path) -> list[str]:
             errors.append(f"missing review manifest: {review_path_value}")
         else:
             review = load_json(review_path)
+            if review.get("batch_id") != manifest.get("batch_id"):
+                errors.append("review manifest batch_id must match the batch manifest")
             gates = review.get("human_gates", [])
             if not gates:
                 errors.append("review manifest must define human review gates")
@@ -238,6 +240,8 @@ def audit(manifest_path: Path) -> list[str]:
                 gate_ids = {gate.get("id") for gate in gates}
                 if gate_ids != REQUIRED_GATES or len(gates) != len(REQUIRED_GATES):
                     errors.append("review manifest does not contain the required human gates")
+                if any(gate.get("required") is not True for gate in gates):
+                    errors.append("every human review gate must be required")
                 pending = [gate for gate in gates if gate.get("status") == "pending"]
                 publication_state = review.get("publication_state")
                 if pending:

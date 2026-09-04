@@ -19,6 +19,7 @@ This repository contains the canonical source files for both translations. See [
 - `audit/exegetical-core/fluent-production/` — Fluent review records and source attribution
 - `tools/audit_translation_family.py` — structural parity and front-matter audit
 - `tools/audit_companion_batch.py` — structural and publication-gate audit for companion batches
+- `tools/audit_all_companion_batches.py` — CI entry point that audits every companion batch manifest
 
 ## Deploying to Church Commons (WordPress)
 
@@ -61,4 +62,5 @@ Draft TSW Study Companion batches have a separate audit. Passing it confirms str
 
 ```bash
 python tools/audit_companion_batch.py companions/tsw-study/manifests/batch01.json
+python tools/audit_companion_batch.py companions/tsw-study/manifests/batch02.json
 ```
