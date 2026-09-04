@@ -1,0 +1,201 @@
+{
+  "book": "Revelation",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Revelation 4:1",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "Revelation 4:1",
+            "segment_mode": "whole",
+            "sha256": "8f9d06e486df4163c967a6dd3ea9811a8db302fda57598537d9a8c2123c43883"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f9d06e486df4163c967a6dd3ea9811a8db302fda57598537d9a8c2123c43883"
+      },
+      "2": {
+        "source_ref": "Revelation 4:2",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "Revelation 4:2",
+            "segment_mode": "whole",
+            "sha256": "1cd7066497a75f19b5fd5d219aa40764a1e98801dcfb8c737b425743b93493d9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1cd7066497a75f19b5fd5d219aa40764a1e98801dcfb8c737b425743b93493d9"
+      },
+      "3": {
+        "source_ref": "Revelation 4:3",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "Revelation 4:3",
+            "segment_mode": "whole",
+            "sha256": "a12a763a5820c0c37f301f723b507090556394f8f9ffa6e2c0915926c16234ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a12a763a5820c0c37f301f723b507090556394f8f9ffa6e2c0915926c16234ef"
+      },
+      "4": {
+        "source_ref": "Revelation 4:4",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "Revelation 4:4",
+            "segment_mode": "whole",
+            "sha256": "b961641fb2eb94b0c5b338923bb9bc6c71f8318f99a0aa76df7863e3d3230f51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b961641fb2eb94b0c5b338923bb9bc6c71f8318f99a0aa76df7863e3d3230f51"
+      },
+      "5": {
+        "source_ref": "Revelation 4:5",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "Revelation 4:5",
+            "segment_mode": "whole",
+            "sha256": "1df2ae81e007d3529d72a6401222745bf22c51fe1f616898187f31e9d9e17bc1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1df2ae81e007d3529d72a6401222745bf22c51fe1f616898187f31e9d9e17bc1"
+      },
+      "6": {
+        "source_ref": "Revelation 4:6",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "Revelation 4:6",
+            "segment_mode": "whole",
+            "sha256": "1fb6c07c6e7c0a93e2f3bd9fd2b396ea8094a8b18256cc9a2cd80a4660cf4114"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1fb6c07c6e7c0a93e2f3bd9fd2b396ea8094a8b18256cc9a2cd80a4660cf4114"
+      },
+      "7": {
+        "source_ref": "Revelation 4:7",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "Revelation 4:7",
+            "segment_mode": "whole",
+            "sha256": "f297d00fd3fe50e2744ccefef153786e6b52accfcb6fc58412c1c470969c2e84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f297d00fd3fe50e2744ccefef153786e6b52accfcb6fc58412c1c470969c2e84"
+      },
+      "8": {
+        "source_ref": "Revelation 4:8",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "Revelation 4:8",
+            "segment_mode": "whole",
+            "sha256": "899b8d2e6794beebc4826479a986b441f5305017bf1f58d54b5a48c61caf5fbe"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "899b8d2e6794beebc4826479a986b441f5305017bf1f58d54b5a48c61caf5fbe"
+      },
+      "9": {
+        "source_ref": "Revelation 4:9",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "Revelation 4:9",
+            "segment_mode": "whole",
+            "sha256": "d8afa3f36e9ef6f8dd1b5bb19c2ae12c531e5cb9d8888771abcd12de3f9c8c79"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8afa3f36e9ef6f8dd1b5bb19c2ae12c531e5cb9d8888771abcd12de3f9c8c79"
+      },
+      "10": {
+        "source_ref": "Revelation 4:10",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 10,
+            "source_ref": "Revelation 4:10",
+            "segment_mode": "whole",
+            "sha256": "65799cffd8a71c0feeb925b5257670219b6ec766613464b523ec8e822931ea9b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65799cffd8a71c0feeb925b5257670219b6ec766613464b523ec8e822931ea9b"
+      },
+      "11": {
+        "source_ref": "Revelation 4:11",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 11,
+            "source_ref": "Revelation 4:11",
+            "segment_mode": "whole",
+            "sha256": "d01bda1ae1f9716a14b278cfc764578182b30a2252224582eb64bcce0f4dc854"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d01bda1ae1f9716a14b278cfc764578182b30a2252224582eb64bcce0f4dc854"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/revelation/Revelation_04.md",
+    "blob_sha": "ba1e5fe4757e6e903b3c4c62bd978c1cb76e151f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

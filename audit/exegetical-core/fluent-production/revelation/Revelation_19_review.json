@@ -1,0 +1,351 @@
+{
+  "book": "Revelation",
+  "chapter": 19,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Revelation 19:1",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 1,
+            "source_ref": "Revelation 19:1",
+            "segment_mode": "whole",
+            "sha256": "9b443c09aacb5c928dbab8e2a675001a081b74d5deeb0d353a56fd25af529968"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b443c09aacb5c928dbab8e2a675001a081b74d5deeb0d353a56fd25af529968"
+      },
+      "2": {
+        "source_ref": "Revelation 19:2",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 2,
+            "source_ref": "Revelation 19:2",
+            "segment_mode": "whole",
+            "sha256": "959d10030731b8a3c94b2eb363c37ea2e7ef4e48dfd51c03278f0d7bd826384f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "959d10030731b8a3c94b2eb363c37ea2e7ef4e48dfd51c03278f0d7bd826384f"
+      },
+      "3": {
+        "source_ref": "Revelation 19:3",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 3,
+            "source_ref": "Revelation 19:3",
+            "segment_mode": "whole",
+            "sha256": "8b6461497e0693ead47700e01951130d126147ba6c1d29fee19d313d33c101de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8b6461497e0693ead47700e01951130d126147ba6c1d29fee19d313d33c101de"
+      },
+      "4": {
+        "source_ref": "Revelation 19:4",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 4,
+            "source_ref": "Revelation 19:4",
+            "segment_mode": "whole",
+            "sha256": "8bb3bc178246250c27a199465e6be9f313f629c18dd0f35c087b25ae48ea0395"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8bb3bc178246250c27a199465e6be9f313f629c18dd0f35c087b25ae48ea0395"
+      },
+      "5": {
+        "source_ref": "Revelation 19:5",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 5,
+            "source_ref": "Revelation 19:5",
+            "segment_mode": "whole",
+            "sha256": "3404b993035d09f0e9dd54808fe7f55ccd96145da9272953c28cca9fc6a3df2a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3404b993035d09f0e9dd54808fe7f55ccd96145da9272953c28cca9fc6a3df2a"
+      },
+      "6": {
+        "source_ref": "Revelation 19:6",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 6,
+            "source_ref": "Revelation 19:6",
+            "segment_mode": "whole",
+            "sha256": "235bc648f0ac86752dc9b026d0e69f359938cd7d3d9747db8423c16f75eedb20"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "235bc648f0ac86752dc9b026d0e69f359938cd7d3d9747db8423c16f75eedb20"
+      },
+      "7": {
+        "source_ref": "Revelation 19:7",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 7,
+            "source_ref": "Revelation 19:7",
+            "segment_mode": "whole",
+            "sha256": "5e0804fc486212298cb3bf75efc862cf473a2b99cefb25c54a6908503f8c74b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e0804fc486212298cb3bf75efc862cf473a2b99cefb25c54a6908503f8c74b3"
+      },
+      "8": {
+        "source_ref": "Revelation 19:8",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 8,
+            "source_ref": "Revelation 19:8",
+            "segment_mode": "whole",
+            "sha256": "7e7899c4d25a19718d03240b5799f03f7308137b78709465d9de3996d25a2439"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e7899c4d25a19718d03240b5799f03f7308137b78709465d9de3996d25a2439"
+      },
+      "9": {
+        "source_ref": "Revelation 19:9",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 9,
+            "source_ref": "Revelation 19:9",
+            "segment_mode": "whole",
+            "sha256": "c9c5436aca49f16a6f0e5701cf520aae8a05a49ce4b16be585e598d6f4f4c3ee"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c9c5436aca49f16a6f0e5701cf520aae8a05a49ce4b16be585e598d6f4f4c3ee"
+      },
+      "10": {
+        "source_ref": "Revelation 19:10",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 10,
+            "source_ref": "Revelation 19:10",
+            "segment_mode": "whole",
+            "sha256": "a71141070cfffd2c836ffee0bfa1c1bc62793bf345756bd21ff33a9c3bd6a312"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a71141070cfffd2c836ffee0bfa1c1bc62793bf345756bd21ff33a9c3bd6a312"
+      },
+      "11": {
+        "source_ref": "Revelation 19:11",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 11,
+            "source_ref": "Revelation 19:11",
+            "segment_mode": "whole",
+            "sha256": "a571b0ba55cd7d967d97389133324209010eee1cfa61ea2d93c09720a714adbb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a571b0ba55cd7d967d97389133324209010eee1cfa61ea2d93c09720a714adbb"
+      },
+      "12": {
+        "source_ref": "Revelation 19:12",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 12,
+            "source_ref": "Revelation 19:12",
+            "segment_mode": "whole",
+            "sha256": "ab78d73e5514430d921f3cf89b31e4eb1bd484123f301e45bc877831df375e6d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab78d73e5514430d921f3cf89b31e4eb1bd484123f301e45bc877831df375e6d"
+      },
+      "13": {
+        "source_ref": "Revelation 19:13",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 13,
+            "source_ref": "Revelation 19:13",
+            "segment_mode": "whole",
+            "sha256": "97794349447507ff820a0f8bdb7bbb42032a1583aceeae913cbf1cafdab9e6ef"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "97794349447507ff820a0f8bdb7bbb42032a1583aceeae913cbf1cafdab9e6ef"
+      },
+      "14": {
+        "source_ref": "Revelation 19:14",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 14,
+            "source_ref": "Revelation 19:14",
+            "segment_mode": "whole",
+            "sha256": "e150f509a4d292515508c8ddd897a930ef663a74ff54bf7d72fb35b96004325e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e150f509a4d292515508c8ddd897a930ef663a74ff54bf7d72fb35b96004325e"
+      },
+      "15": {
+        "source_ref": "Revelation 19:15",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 15,
+            "source_ref": "Revelation 19:15",
+            "segment_mode": "whole",
+            "sha256": "c6115a766141ed9b3f4c354569223b0b006909613f05a85b48dee228e84bbd0a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c6115a766141ed9b3f4c354569223b0b006909613f05a85b48dee228e84bbd0a"
+      },
+      "16": {
+        "source_ref": "Revelation 19:16",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 16,
+            "source_ref": "Revelation 19:16",
+            "segment_mode": "whole",
+            "sha256": "fd0310d326694d30f82d9315b22548f9289682f7e7ccf8281dcb40cfc2cda61f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd0310d326694d30f82d9315b22548f9289682f7e7ccf8281dcb40cfc2cda61f"
+      },
+      "17": {
+        "source_ref": "Revelation 19:17",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 17,
+            "source_ref": "Revelation 19:17",
+            "segment_mode": "whole",
+            "sha256": "7fad2f87d44978f2ed77aa0ea3a3ec923947c6821d5b1b7f35c6b0410f013685"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7fad2f87d44978f2ed77aa0ea3a3ec923947c6821d5b1b7f35c6b0410f013685"
+      },
+      "18": {
+        "source_ref": "Revelation 19:18",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 18,
+            "source_ref": "Revelation 19:18",
+            "segment_mode": "whole",
+            "sha256": "48b2f997a68409813b556f882888a3eeae61f736ddc274a8060512b306fafc39"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48b2f997a68409813b556f882888a3eeae61f736ddc274a8060512b306fafc39"
+      },
+      "19": {
+        "source_ref": "Revelation 19:19",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 19,
+            "source_ref": "Revelation 19:19",
+            "segment_mode": "whole",
+            "sha256": "ab92f509adda3bd3a67f3f36867f70815037a667d35946a4db202bb4b177b2a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab92f509adda3bd3a67f3f36867f70815037a667d35946a4db202bb4b177b2a9"
+      },
+      "20": {
+        "source_ref": "Revelation 19:20",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 20,
+            "source_ref": "Revelation 19:20",
+            "segment_mode": "whole",
+            "sha256": "d0ad11f9313a9f9f4f497d55462911d9b9024216f7f4c747d1d64193022b91d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d0ad11f9313a9f9f4f497d55462911d9b9024216f7f4c747d1d64193022b91d2"
+      },
+      "21": {
+        "source_ref": "Revelation 19:21",
+        "source_records": [
+          {
+            "chapter": 19,
+            "verse": 21,
+            "source_ref": "Revelation 19:21",
+            "segment_mode": "whole",
+            "sha256": "07c5679268c29b90409b05bb0e3e997f1a8f40f7d0e4aba55c9fa49688c790c1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "07c5679268c29b90409b05bb0e3e997f1a8f40f7d0e4aba55c9fa49688c790c1"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/revelation/Revelation_19.md",
+    "blob_sha": "c7c12c007199e91369c5c3f63a44faa8ad23a6ca"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

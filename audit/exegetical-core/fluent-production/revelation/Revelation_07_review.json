@@ -1,0 +1,297 @@
+{
+  "book": "Revelation",
+  "chapter": 7,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "7:1-17",
+      "decision": "Do not force the numbered multitude and uncountable multitude into a single unmarked identification.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Revelation 7:1",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 1,
+            "source_ref": "Revelation 7:1",
+            "segment_mode": "whole",
+            "sha256": "75b8984fb5840edc85f9b066d479753405eb5fde15dfdc4ddc274437e9be2726"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75b8984fb5840edc85f9b066d479753405eb5fde15dfdc4ddc274437e9be2726"
+      },
+      "2": {
+        "source_ref": "Revelation 7:2",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 2,
+            "source_ref": "Revelation 7:2",
+            "segment_mode": "whole",
+            "sha256": "d97f86cf7fcd3befdbc838165c5dd21cd977e7df05edb924a4339bf8e2a4ccfd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d97f86cf7fcd3befdbc838165c5dd21cd977e7df05edb924a4339bf8e2a4ccfd"
+      },
+      "3": {
+        "source_ref": "Revelation 7:3",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 3,
+            "source_ref": "Revelation 7:3",
+            "segment_mode": "whole",
+            "sha256": "f569f770793dd90a52b3b8d08d19cf889d31f7196d1a9a449408cf5cbdd89439"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f569f770793dd90a52b3b8d08d19cf889d31f7196d1a9a449408cf5cbdd89439"
+      },
+      "4": {
+        "source_ref": "Revelation 7:4",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 4,
+            "source_ref": "Revelation 7:4",
+            "segment_mode": "whole",
+            "sha256": "9bf27a367da21ee406f9775c4368718109eae4c5aeb1746d585dc8136834a8c7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9bf27a367da21ee406f9775c4368718109eae4c5aeb1746d585dc8136834a8c7"
+      },
+      "5": {
+        "source_ref": "Revelation 7:5",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 5,
+            "source_ref": "Revelation 7:5",
+            "segment_mode": "whole",
+            "sha256": "dfca9d6ce96897eb59296fa1eea9fb075201b1dde9038ac45553e17e0086e02e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dfca9d6ce96897eb59296fa1eea9fb075201b1dde9038ac45553e17e0086e02e"
+      },
+      "6": {
+        "source_ref": "Revelation 7:6",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 6,
+            "source_ref": "Revelation 7:6",
+            "segment_mode": "whole",
+            "sha256": "f0d3668732449356d34031ff3e4420b495ee77a6f339bd91781c9bd549711107"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f0d3668732449356d34031ff3e4420b495ee77a6f339bd91781c9bd549711107"
+      },
+      "7": {
+        "source_ref": "Revelation 7:7",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 7,
+            "source_ref": "Revelation 7:7",
+            "segment_mode": "whole",
+            "sha256": "f23d94c7083c1b9de09c50bef996159cbb3b22ab817f22d81e04f1a8b3d5f19e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f23d94c7083c1b9de09c50bef996159cbb3b22ab817f22d81e04f1a8b3d5f19e"
+      },
+      "8": {
+        "source_ref": "Revelation 7:8",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 8,
+            "source_ref": "Revelation 7:8",
+            "segment_mode": "whole",
+            "sha256": "9aef4ce5ff865f459bda9ded8ea174b5f7e724ba09af3e4e3c3ffc8203a6144b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9aef4ce5ff865f459bda9ded8ea174b5f7e724ba09af3e4e3c3ffc8203a6144b"
+      },
+      "9": {
+        "source_ref": "Revelation 7:9",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 9,
+            "source_ref": "Revelation 7:9",
+            "segment_mode": "whole",
+            "sha256": "1c96b5e080c09c9cac0655b10441f828e176d0f1b22e99ef7aae1e1230546da8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1c96b5e080c09c9cac0655b10441f828e176d0f1b22e99ef7aae1e1230546da8"
+      },
+      "10": {
+        "source_ref": "Revelation 7:10",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 10,
+            "source_ref": "Revelation 7:10",
+            "segment_mode": "whole",
+            "sha256": "0e634889c07e76c40a70620e9a99a72af49656431ce5c270777bd277bc238c8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e634889c07e76c40a70620e9a99a72af49656431ce5c270777bd277bc238c8a"
+      },
+      "11": {
+        "source_ref": "Revelation 7:11",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 11,
+            "source_ref": "Revelation 7:11",
+            "segment_mode": "whole",
+            "sha256": "de55b4f0ee2038e44fc1f8d8b3bfcd87d0b062145d576e31a41c76ea076ad5e9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de55b4f0ee2038e44fc1f8d8b3bfcd87d0b062145d576e31a41c76ea076ad5e9"
+      },
+      "12": {
+        "source_ref": "Revelation 7:12",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 12,
+            "source_ref": "Revelation 7:12",
+            "segment_mode": "whole",
+            "sha256": "859c36605fb9b76a350240e27fb33234dd802c16ea65fe0cd85e99fde8727e56"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "859c36605fb9b76a350240e27fb33234dd802c16ea65fe0cd85e99fde8727e56"
+      },
+      "13": {
+        "source_ref": "Revelation 7:13",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 13,
+            "source_ref": "Revelation 7:13",
+            "segment_mode": "whole",
+            "sha256": "e13165685c1ffde4f0190065fc0220033e8699989b17455607f828795b7f3675"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e13165685c1ffde4f0190065fc0220033e8699989b17455607f828795b7f3675"
+      },
+      "14": {
+        "source_ref": "Revelation 7:14",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 14,
+            "source_ref": "Revelation 7:14",
+            "segment_mode": "whole",
+            "sha256": "0e91e89002f408074205da3c67458e77e4593e2cd60a9f54052a429cfc84b94b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e91e89002f408074205da3c67458e77e4593e2cd60a9f54052a429cfc84b94b"
+      },
+      "15": {
+        "source_ref": "Revelation 7:15",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 15,
+            "source_ref": "Revelation 7:15",
+            "segment_mode": "whole",
+            "sha256": "ee5a2ec481cbb3f87d627d95f95ae364f21d7f1204ffcfc0f26537c8715128f9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee5a2ec481cbb3f87d627d95f95ae364f21d7f1204ffcfc0f26537c8715128f9"
+      },
+      "16": {
+        "source_ref": "Revelation 7:16",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 16,
+            "source_ref": "Revelation 7:16",
+            "segment_mode": "whole",
+            "sha256": "40dfe631a18f054b459a92950263b62365111d51d04cb2854c8d1b59e2135357"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40dfe631a18f054b459a92950263b62365111d51d04cb2854c8d1b59e2135357"
+      },
+      "17": {
+        "source_ref": "Revelation 7:17",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 17,
+            "source_ref": "Revelation 7:17",
+            "segment_mode": "whole",
+            "sha256": "a9bb8d96d38f3519712d1590580e13c036006d5ab3b7fb48dded67e57a15cfc9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9bb8d96d38f3519712d1590580e13c036006d5ab3b7fb48dded67e57a15cfc9"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/revelation/Revelation_07.md",
+    "blob_sha": "978766ba5a377b7a48330a6f44e3db2ba523c21e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,319 @@
+{
+  "book": "Revelation",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "sblgnt",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "13:16-18",
+      "decision": "Translate the mark and 666 in their economic-imperial setting without naming a modern person or technology.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Revelation 12:18 + Revelation 13:1",
+        "source_records": [
+          {
+            "chapter": 12,
+            "verse": 18,
+            "source_ref": "Revelation 12:18",
+            "segment_mode": "whole",
+            "sha256": "b73cc0a123ef8df541c3c48b18b308dfad4102046714799601bf9c2fdd1dcaec"
+          },
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Revelation 13:1",
+            "segment_mode": "whole",
+            "sha256": "9d64422fbb7d75b1aa2cd0eda69ec61c334f7b1e7dab8cfd9e00036254554c93"
+          }
+        ],
+        "segment_mode": "whole+whole",
+        "sha256": "1c2a5ddc77d44dae1d8efdea4c380d0d1eadf7aa02fdfb7898ed413150028c05"
+      },
+      "2": {
+        "source_ref": "Revelation 13:2",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 2,
+            "source_ref": "Revelation 13:2",
+            "segment_mode": "whole",
+            "sha256": "944d2c5270b06ee2d76b14ff362fbed52b2f893104647d3517d0469e4dab30fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "944d2c5270b06ee2d76b14ff362fbed52b2f893104647d3517d0469e4dab30fc"
+      },
+      "3": {
+        "source_ref": "Revelation 13:3",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 3,
+            "source_ref": "Revelation 13:3",
+            "segment_mode": "whole",
+            "sha256": "be9ff7e598746117415641007e2b641c1c6e7db5f317cd70c1692c2604a83c7f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "be9ff7e598746117415641007e2b641c1c6e7db5f317cd70c1692c2604a83c7f"
+      },
+      "4": {
+        "source_ref": "Revelation 13:4",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 4,
+            "source_ref": "Revelation 13:4",
+            "segment_mode": "whole",
+            "sha256": "0195561f9efec99c58c86e9f553ad7e8cb8a180e0003e3e520c57082ad5be5a1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0195561f9efec99c58c86e9f553ad7e8cb8a180e0003e3e520c57082ad5be5a1"
+      },
+      "5": {
+        "source_ref": "Revelation 13:5",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 5,
+            "source_ref": "Revelation 13:5",
+            "segment_mode": "whole",
+            "sha256": "c85013e4b423160793e29ad67764e33baf14f28ec47170b490fca84475ca913c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c85013e4b423160793e29ad67764e33baf14f28ec47170b490fca84475ca913c"
+      },
+      "6": {
+        "source_ref": "Revelation 13:6",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Revelation 13:6",
+            "segment_mode": "whole",
+            "sha256": "09c4a1614d88214699b6b283480322c3ec4c2b3235eec3b88ee93f21553ee991"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09c4a1614d88214699b6b283480322c3ec4c2b3235eec3b88ee93f21553ee991"
+      },
+      "7": {
+        "source_ref": "Revelation 13:7",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 7,
+            "source_ref": "Revelation 13:7",
+            "segment_mode": "whole",
+            "sha256": "6638a9da85ee69a8b6372fc787c9fdc2fe1236b3a3fcd83a8db9b2219837182c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6638a9da85ee69a8b6372fc787c9fdc2fe1236b3a3fcd83a8db9b2219837182c"
+      },
+      "8": {
+        "source_ref": "Revelation 13:8",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 8,
+            "source_ref": "Revelation 13:8",
+            "segment_mode": "whole",
+            "sha256": "3fe5a5beb190fe749c9fe405edaa3324800a6556eed647140669e6a08ab7b1df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3fe5a5beb190fe749c9fe405edaa3324800a6556eed647140669e6a08ab7b1df"
+      },
+      "9": {
+        "source_ref": "Revelation 13:9",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 9,
+            "source_ref": "Revelation 13:9",
+            "segment_mode": "whole",
+            "sha256": "e1de1b348121e00173a3a96ddae2348f6ce46e23b18213cb098caa720201e52d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1de1b348121e00173a3a96ddae2348f6ce46e23b18213cb098caa720201e52d"
+      },
+      "10": {
+        "source_ref": "Revelation 13:10",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 10,
+            "source_ref": "Revelation 13:10",
+            "segment_mode": "whole",
+            "sha256": "d9186bb55f0c9cb61d080cc1734a1a1457b7f1f8dd8909b9be9c1bee6b811252"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d9186bb55f0c9cb61d080cc1734a1a1457b7f1f8dd8909b9be9c1bee6b811252"
+      },
+      "11": {
+        "source_ref": "Revelation 13:11",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 11,
+            "source_ref": "Revelation 13:11",
+            "segment_mode": "whole",
+            "sha256": "64323a68da77bc0c4da8b239585c42c429844018da71970c0e197d55179ff1c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "64323a68da77bc0c4da8b239585c42c429844018da71970c0e197d55179ff1c4"
+      },
+      "12": {
+        "source_ref": "Revelation 13:12",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 12,
+            "source_ref": "Revelation 13:12",
+            "segment_mode": "whole",
+            "sha256": "57765699e0fe202a978735fd1285e8f2ea2debff1f5367e4a18e06e494b1b097"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "57765699e0fe202a978735fd1285e8f2ea2debff1f5367e4a18e06e494b1b097"
+      },
+      "13": {
+        "source_ref": "Revelation 13:13",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 13,
+            "source_ref": "Revelation 13:13",
+            "segment_mode": "whole",
+            "sha256": "0d7eae9513533f57976b887ee741c20924a118d485e7d1f75aa6f8a990c03b81"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0d7eae9513533f57976b887ee741c20924a118d485e7d1f75aa6f8a990c03b81"
+      },
+      "14": {
+        "source_ref": "Revelation 13:14",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 14,
+            "source_ref": "Revelation 13:14",
+            "segment_mode": "whole",
+            "sha256": "b70654018c4d43dc61ed8044fc0d78cbeca360f048aa22e5a76fd622173e6d8e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b70654018c4d43dc61ed8044fc0d78cbeca360f048aa22e5a76fd622173e6d8e"
+      },
+      "15": {
+        "source_ref": "Revelation 13:15",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 15,
+            "source_ref": "Revelation 13:15",
+            "segment_mode": "whole",
+            "sha256": "3fe6ac76cef60e990d771776e622fcf98c57f1aa3a7f5a9aba66c9363c388b4f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3fe6ac76cef60e990d771776e622fcf98c57f1aa3a7f5a9aba66c9363c388b4f"
+      },
+      "16": {
+        "source_ref": "Revelation 13:16",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 16,
+            "source_ref": "Revelation 13:16",
+            "segment_mode": "whole",
+            "sha256": "e5bf87bb10c3e6e2e477c2a784e2248c893a203f3759f2e96f035158c6f61a40"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5bf87bb10c3e6e2e477c2a784e2248c893a203f3759f2e96f035158c6f61a40"
+      },
+      "17": {
+        "source_ref": "Revelation 13:17",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 17,
+            "source_ref": "Revelation 13:17",
+            "segment_mode": "whole",
+            "sha256": "01a9c6cbac4db53a5a84be69c81b4f6f427689ceb5f74d067dcda2e356c61297"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01a9c6cbac4db53a5a84be69c81b4f6f427689ceb5f74d067dcda2e356c61297"
+      },
+      "18": {
+        "source_ref": "Revelation 13:18",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 18,
+            "source_ref": "Revelation 13:18",
+            "segment_mode": "whole",
+            "sha256": "8974943cf225a3191c57662516296e57723cb575ef2de9ceaf5b4613dcdc9703"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8974943cf225a3191c57662516296e57723cb575ef2de9ceaf5b4613dcdc9703"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/revelation/Revelation_13.md",
+    "blob_sha": "2de83bdb7ac2b4dae8a6943dc596c3c95416d370"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,168 @@
+{
+  "book": "Revelation",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 22,
+  "public_verse_slots": 404,
+  "included_verse_labels": 404,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 405,
+  "source": {
+    "type": "sblgnt",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/Rev.txt",
+    "git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-3",
+      "decision": "Frame apocalypse as unveiling meant to be read, heard, and kept—not merely decoded.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-3:22",
+      "decision": "Keep each message addressed to an actual assembly while allowing the repeated call to all assemblies to stand.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:1-14",
+      "decision": "Preserve the Lion/Lamb reversal: conquest is disclosed through slaughtered, living self-giving.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:1-17",
+      "decision": "Do not force the numbered multitude and uncountable multitude into a single unmarked identification.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "12:18-13:1",
+      "decision": "Bind SBLGNT 12:18 with public 13:1 and translate the dragon standing on the sea's sand.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:16-18",
+      "decision": "Translate the mark and 666 in their economic-imperial setting without naming a modern person or technology.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "17:1-18:24",
+      "decision": "Retain Babylon's political, economic, violent, and idolatrous dimensions; avoid sexualized blame detached from empire.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "20:1-15",
+      "decision": "Preserve the sequence and symbols without using translation to settle millennial systems.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "21:1-22:5",
+      "decision": "Keep the renewed creation, descending city, healing nations, and divine presence as the vision's culmination.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_03",
+  "deployment_audit": {
+    "source_git_blob_sha": "a50a57daa6f410cccc219ac45b03f069f43baad8",
+    "source_binding_count": 404,
+    "unique_source_record_count": 405,
+    "public_verse_slots": 404,
+    "ledger_summary": {
+      "F0": 172,
+      "F1": 53,
+      "F2": 1,
+      "F3": 178
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/revelation/Revelation_01.md",
+        "blob_sha": "de0032edecde5472f89d26fe7b84c668f8c6089c"
+      },
+      "02": {
+        "path": "books/NT/revelation/Revelation_02.md",
+        "blob_sha": "bd3e7833d4c8acfe227633d2e2fbadca1670f252"
+      },
+      "03": {
+        "path": "books/NT/revelation/Revelation_03.md",
+        "blob_sha": "3b14b71c37d1467f02286107eb4d26ca2904d42b"
+      },
+      "04": {
+        "path": "books/NT/revelation/Revelation_04.md",
+        "blob_sha": "ba1e5fe4757e6e903b3c4c62bd978c1cb76e151f"
+      },
+      "05": {
+        "path": "books/NT/revelation/Revelation_05.md",
+        "blob_sha": "3af7bcccab9199e6471933820ed668882b06a582"
+      },
+      "06": {
+        "path": "books/NT/revelation/Revelation_06.md",
+        "blob_sha": "f1eb5d590f91751de783bb33ad62e50870731368"
+      },
+      "07": {
+        "path": "books/NT/revelation/Revelation_07.md",
+        "blob_sha": "978766ba5a377b7a48330a6f44e3db2ba523c21e"
+      },
+      "08": {
+        "path": "books/NT/revelation/Revelation_08.md",
+        "blob_sha": "62092901a736cafbb72f5f82d97a637bf75bef35"
+      },
+      "09": {
+        "path": "books/NT/revelation/Revelation_09.md",
+        "blob_sha": "c82d36cb2e2d9691cbf822f91b868b23fd537912"
+      },
+      "10": {
+        "path": "books/NT/revelation/Revelation_10.md",
+        "blob_sha": "f80cb8942b2752921cd55086831aca61b43098d1"
+      },
+      "11": {
+        "path": "books/NT/revelation/Revelation_11.md",
+        "blob_sha": "fbaa2a3eae280841e0b0ee8972c96fe64729118d"
+      },
+      "12": {
+        "path": "books/NT/revelation/Revelation_12.md",
+        "blob_sha": "6e05e0f281707552e691d6fc1da455efd18f91f1"
+      },
+      "13": {
+        "path": "books/NT/revelation/Revelation_13.md",
+        "blob_sha": "2de83bdb7ac2b4dae8a6943dc596c3c95416d370"
+      },
+      "14": {
+        "path": "books/NT/revelation/Revelation_14.md",
+        "blob_sha": "1a0922c3d241c828a4406eb0ba6a29a6c296a20e"
+      },
+      "15": {
+        "path": "books/NT/revelation/Revelation_15.md",
+        "blob_sha": "f3d458bb0d3973e5cc5553f9c4196a850c0a9a3e"
+      },
+      "16": {
+        "path": "books/NT/revelation/Revelation_16.md",
+        "blob_sha": "1574f6e4643745179bd505c917bb7006855a2e64"
+      },
+      "17": {
+        "path": "books/NT/revelation/Revelation_17.md",
+        "blob_sha": "0c23aba5c9c5b55b3ff76a58d11cad4f58fa4d88"
+      },
+      "18": {
+        "path": "books/NT/revelation/Revelation_18.md",
+        "blob_sha": "6948515acb46c9aea758ec9e548a3c3eb24b85f5"
+      },
+      "19": {
+        "path": "books/NT/revelation/Revelation_19.md",
+        "blob_sha": "c7c12c007199e91369c5c3f63a44faa8ad23a6ca"
+      },
+      "20": {
+        "path": "books/NT/revelation/Revelation_20.md",
+        "blob_sha": "4b3c2deb8467a551819e59895ece0b98b787ff3a"
+      },
+      "21": {
+        "path": "books/NT/revelation/Revelation_21.md",
+        "blob_sha": "212a9c38eab857392345c1d741ff086e244d1f9c"
+      },
+      "22": {
+        "path": "books/NT/revelation/Revelation_22.md",
+        "blob_sha": "dcc0e10f50b780e9c7013779567889e7a5eeed74"
+      }
+    }
+  }
+}
