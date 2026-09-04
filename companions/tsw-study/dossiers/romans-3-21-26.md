@@ -46,7 +46,9 @@ These debates should not be arranged as though one metaphor must defeat every ot
 
 Augustine read Paul within grace's healing of the will. Anselm's satisfaction account, Aquinas's sacramental and participatory synthesis, and Reformation accounts of justification and penal substitution all drew on this paragraph while combining it with other texts.
 
-Luther's emphasis on justification by faith liberated many consciences but was sometimes joined to a caricature of Jewish law. Modern “New Perspective” interpreters have re-centered covenant membership, Jewish identity, and the Jew–Gentile problem. Apocalyptic readings emphasize God's invasion of sin's enslaved world.
+Eastern Orthodox reception commonly places atonement within the larger work of salvation: forgiveness, reconciliation, the defeat of death, participation in divine life, and theosis. This does not erase Paul's judicial or sacrificial language; it resists making any one metaphor the whole account.
+
+Luther's emphasis on justification by faith liberated many consciences but was sometimes joined to a caricature of Jewish law. Modern Jewish–Christian dialogue and “New Perspective” interpreters have challenged the portrayal of Judaism as a religion of self-earned merit and re-centered covenant membership, Jewish identity, and the Jew–Gentile problem. Apocalyptic readings emphasize God's invasion of sin's enslaved world.
 
 Liberation theologians stress God's rectifying justice in history. Feminist, womanist, and trauma-informed theologians ask whether atonement language sanctifies suffering, depicts divine child abuse, or can instead name God's solidarity with victims and defeat of violent powers. Those questions belong inside—not outside—the doctrine's moral testing.
 
@@ -86,6 +88,9 @@ Recommended visuals: an evidence-based tabernacle/temple diagram locating the me
 
 ## Sources and Further Study
 
+- Orthodox Church in America, “Thinking about the Atonement: The New Testament,” on reconciliation, the defeat of death, and theosis: https://www.oca.org/reflections/fr.-lawrence-farley/thinking-about-the-atonement-the-new-testament
+- Pontifical Biblical Commission, *The Jewish People and Their Sacred Scriptures in the Christian Bible*, on Christianity's Jewish roots and responsible interpretation: https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_20020212_popolo-ebraico_en.html
+- David G. Horrell, “The New Perspective on Paul—120 Years Before,” on the critique of “works-righteousness” caricatures and the New Perspective's emphasis on ethnicity: https://www.cambridge.org/core/journals/new-testament-studies/article/new-perspective-on-paul-120-years-before-john-william-colensos-commentary-on-romans/7CE7E439B3E9B1A0D7DAAA6C26538ABF
 - “From Sinful Death to Perfect Death” on *hilasterion* and atonement language: https://www.cambridge.org/core/books/jesus-sin-and-perfection-in-early-christianity/fromsinful-death-to-perfect-death/89DF7A18671BAFBE86AD47F5DE270018
 - “Main Themes” in *The Cambridge Companion to Joseph Ratzinger* on mercy-seat reception: https://www.cambridge.org/core/books/cambridge-companion-to-joseph-ratzinger/main-themes/9F4307F9DC1B9C2AB49752A5F51355D0
 - “The Death of Sin in the Death of Jesus: Atonement Theology”: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/678C2DC9B16F2C5C2992773513C9E3E4/9781107174412apx_451-464_CBO.pdf/death_of_sin_in_the_death_of_jesus_atonement_theology.pdf

@@ -42,6 +42,8 @@ Some interpreters regard hyperbolic war rhetoric as the chief moral clarificatio
 
 ## Across Christian History
 
+Jewish reception does not leave Rahab at the edge of Israel's story. The Babylonian Talmud imagines her converting, marrying Joshua, and becoming an ancestor of the prophet Huldah. That tradition does not settle the moral problem of Jericho, but it gives Rahab a future beyond bare survival and remembers an outsider as a bearer of Israel's continuing life.
+
 Early Christians frequently allegorized Joshua: the shared Greek name Jesus/Joshua encouraged readings of Christ defeating spiritual enemies. This could redirect warfare inward or spiritually, but allegory did not always prevent later Christians from using conquest language against human opponents.
 
 Medieval and Reformation readers continued moral, typological, and providential readings. In colonial settings, “promised land” and “chosen people” rhetoric became politically concrete. Modern biblical theology has responded through divine-command defenses, progressive-revelation models, christological rereading, lament, resistance, and explicit repudiation of conquest as a modern mandate.
@@ -82,6 +84,7 @@ Recommended visuals: an archaeological photograph of Tell es-Sultan; a three-sca
 
 ## Sources and Further Study
 
+- Babylonian Talmud, Megillah 14b, on Rahab's conversion, marriage to Joshua, and descendants: https://www.sefaria.org/Megillah.14b?lang=en
 - “Conquest and Form: Narrativity in Joshua 5–11”: https://www.cambridge.org/core/journals/harvard-theological-review/article/conquest-and-form-narrativity-in-joshua-511-and-historical-discourse-in-ancient-judah/0B52CDB64C1D76F02C38EAF44528FD8B
 - Tell es-Sultan radiocarbon study: https://www.cambridge.org/core/journals/radiocarbon/article/tell-essultan-jericho-radiocarbon-results-of-shortlived-cereal-and-multiyear-charcoal-samples-from-the-end-of-the-middle-bronze-age/49BF732173E7890A2B0EC1B21CB6A817
 - “Was There an Ancient Israel?” in *The Cambridge Introduction to the Old Testament*: https://www.cambridge.org/highereducation/books/the-cambridge-introduction-to-the-old-testament/9BB66D4C1215129A9F5BD56DC2C4D0AC/was-there-an-ancient-israel/C7A1A9B45F1CB666CCE6DB44C239590C

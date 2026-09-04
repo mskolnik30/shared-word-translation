@@ -40,7 +40,7 @@ These readings overlap. The living God is not controlled by Pharaoh, Moses, or a
 
 ## Across Christian History
 
-Jewish reading and worship substitute *Adonai* (“Lord”) or *HaShem* (“the Name”) for the written name. The name functions within covenant, prayer, holiness, and memory rather than as a password.
+Jewish reading customarily substitutes *Adonai* (“Lord”) when the four-letter name appears in Scripture or prayer; *HaShem* (“the Name”) is a common reverential way to refer to God in ordinary speech or study. Practices vary by community, but neither term attempts to pronounce the written name. The name functions within covenant, prayer, holiness, and memory rather than as a password.
 
 Patristic theologians, drawing on the Septuagint and Greek philosophy, found here a scriptural grammar for God's fullness of being. Augustine and Aquinas later related the passage to divine immutability and the distinction between Creator and creatures. Reformers retained the emphasis on God's self-existence while also stressing covenant faithfulness.
 
@@ -81,6 +81,8 @@ Recommended visuals: a schematic map of proposed Sinai/Horeb regions with uncert
 
 ## Sources and Further Study
 
+- Ismar Schorsch, “Reverence for God,” Jewish Theological Seminary, on the traditional substitution of *Adonai* for the written name: https://www.jtsa.edu/torah/reverence-for-god/
+- “What Is HaShem?” *My Jewish Learning*, on *Adonai* in Torah reading and *HaShem* as a common spoken reference: https://www.myjewishlearning.com/article/hashem/
 - “‘I Will Be Who I Will Be’ (Exodus 3:14)” in *The Names of the Gods in Ancient Mediterranean Religions*: https://www.cambridge.org/core/books/names-of-the-gods-in-ancient-mediterranean-religions/i-will-be-who-i-will-be-exod-314/6F6539230D64268F10FE2218380B35F6
 - Cambridge commentary on Exodus 1:1–15:21: https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/279DEF9351DFE11EAF4C229B694A412E/9780511806377c3_p32-123_CBO.pdf/commentary_part_i_israel_in_egypt_exodus_11521.pdf
 - “Non-Priestly Genesis and Exodus” in *Yahweh among the Gods*: https://www.cambridge.org/core/books/yahweh-among-the-gods/nonpriestly-genesis-and-exodus/47F91EF32B3D124512D7940928421568

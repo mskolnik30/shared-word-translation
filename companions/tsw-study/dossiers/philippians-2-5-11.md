@@ -44,6 +44,8 @@ Some read the language as a direct challenge to Roman imperial claims. Philippi 
 
 Early Christian theologians drew on this passage when confessing Christ as fully divine and fully human. The Council of Chalcedon's account of one Christ in two natures belongs to this reception history, not to a replacement of Paul's language with later formulas.
 
+Chalcedon is not received as an ecumenical council by the Oriental Orthodox churches. Modern dialogue has nevertheless uncovered substantial shared confession: a Catholic–Syriac Orthodox declaration, for example, speaks of Christ as perfect God and perfect human, with divinity and humanity united without confusion or division. Ecumenical reception therefore includes both the history of division and the patient recovery of common faith across inherited vocabularies.
+
 John Chrysostom used the passage against readings that diminished Christ's divine status. Reformers such as Calvin treated the emptying as concealment or humble restraint rather than the loss of divinity. Modern “kenotic” theologies have explored divine self-limitation more strongly, while feminist theologians have warned that an unqualified ideal of self-emptying can reinforce the disappearance of those whose selves have already been denied.
 
 ## Power and Consequences
@@ -88,5 +90,7 @@ Recommended visuals: a three-scale map of Philippi and the Via Egnatia; an archa
 - Samuel F. B. Hoover, N. T. Wright, and J. C. O'Neill on *harpagmos*: https://www.cambridge.org/core/journals/harvard-theological-review/article/hoover-on-harpagmos-reviewed-with-a-modest-proposal-concerning-philippians-26/BB30B7B177C33F0AE33019E1A951F890 and https://scholarlypublishingcollective.org/sblpress/jbl/article/135/1/175/180360/Revisited-A-Philological-Reexamination-of-the-New
 - John Chrysostom, Homily 6 on Philippians: https://www.newadvent.org/fathers/230206.htm
 - Council of Chalcedon, Definition of Faith: https://www.newadvent.org/fathers/3811.htm
+- World Council of Churches, “Oriental Orthodox Churches,” on their reception of the first three ecumenical councils and the breach over Chalcedon: https://www.oikoumene.org/church-families/orthodox-churches-oriental
+- Common declaration of Pope John Paul II and Syriac Orthodox Patriarch Moran Mar Ignatius Zakka I Iwas on shared Christological confession: https://www.vatican.va/content/john-paul-ii/en/speeches/1984/june/documents/hf_jp-ii_spe_19840623_jp-ii-zakka-i.html
 - John Calvin, Commentary on Philippians 2: https://ccel.org/ccel/calvin/calcom42/calcom42.iv.iii.ii.html
 - “Prayerful Vulnerability,” *The Christian Century*: https://www.christiancentury.org/article/2003-06/prayerful-vulnerability

@@ -42,6 +42,8 @@ Ecological interpreters differ over whether dominion can be recovered as respons
 
 ## Across Christian History
 
+Jewish interpreters have drawn from humanity's creation in God's image to affirm universal dignity and responsibility toward God, neighbor, and the world. Rabbinic and modern Jewish readings also attend to verse 27's movement from the singular *adam* to “male and female,” refusing to make one sex a secondary bearer of the image.
+
 Irenaeus connected image and likeness with humanity's growth toward communion with God. Augustine often emphasized the mind's reflection of the triune God. Eastern Christian traditions developed the image within participation and deification; Reformation traditions stressed both enduring dignity and the distortion of human vocation by sin.
 
 Modern interpretation has reclaimed the royal and representative setting of the image. Feminist readers have emphasized that male and female equally bear it. Black, postcolonial, and liberation theologians have appealed to the image against racial hierarchy and dehumanization while also exposing the contradiction between Christian confession and colonial practice. Disability theologians press the church to confess the image without making worth depend on socially prized capacities.
@@ -79,6 +81,8 @@ Recommended visuals: a carefully labeled comparison of ancient royal/image pract
 
 ## Sources and Further Study
 
+- Shai Held, “Minding Our Words,” Jewish Theological Seminary, on *adam*, male and female, and Genesis Rabbah 8:1: https://www.jtsa.edu/torah/minding-our-words/
+- Ismar Schorsch, “The Politics of Genesis,” Jewish Theological Seminary, on the image of God and universal human dignity: https://www.jtsa.edu/torah/the-politics-of-genesis/
 - D. J. A. Clines, “The Image of God in Man”: https://www.tyndalebulletin.org/article/30671-the-image-of-god-in-man
 - J. Richard Middleton, “The Liberating Image?”: https://jrichardmiddleton.com/wp-content/uploads/2014/03/middleton-liberating-image-essay.pdf
 - J. Richard Middleton, *The Liberating Image*: https://bakerpublishinggroup.com/products/9781587431104_the-liberating-image

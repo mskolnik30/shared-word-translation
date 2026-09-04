@@ -4,7 +4,7 @@
   "publication_state": "BLOCKED_PENDING_HUMAN_REVIEW",
   "machine_audit": {
     "command": "python tools/audit_companion_batch.py companions/tsw-study/manifests/batch01.json",
-    "status": "passed-after-round2-2026-09-04"
+    "status": "passed-after-round3-2026-09-04"
   },
   "human_gates": [
     {
@@ -22,7 +22,7 @@
     {
       "id": "reception",
       "label": "Jewish and ecumenical Christian reception",
-      "status": "pending",
+      "status": "approved",
       "required": true
     },
     {
@@ -74,6 +74,21 @@
         "companions/tsw-study/dossiers/joshua-6-15-27.md",
         "companions/tsw-study/dossiers/isaiah-7-10-17.md",
         "companions/tsw-study/dossiers/1-corinthians-14-33b-36.md"
+      ]
+    },
+    {
+      "round": 3,
+      "gate": "reception",
+      "status": "approved",
+      "date": "2026-09-04",
+      "summary": "Approved after review of Jewish and ecumenical Christian reception across all ten dossiers, with precision additions concerning Jewish readings of Genesis 1, Exodus 3, Joshua 6, and Psalm 22; Oriental Orthodox Christological reception of Philippians 2; and Eastern Orthodox and Jewish-Christian reception of Romans 3.",
+      "files_changed": [
+        "companions/tsw-study/dossiers/genesis-1-26-28.md",
+        "companions/tsw-study/dossiers/exodus-3-13-15.md",
+        "companions/tsw-study/dossiers/joshua-6-15-27.md",
+        "companions/tsw-study/dossiers/psalm-22.md",
+        "companions/tsw-study/dossiers/philippians-2-5-11.md",
+        "companions/tsw-study/dossiers/romans-3-21-26.md"
       ]
     }
   ]

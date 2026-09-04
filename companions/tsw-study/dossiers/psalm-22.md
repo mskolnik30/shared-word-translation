@@ -42,7 +42,7 @@ These readings can be related without claiming that the psalm had no meaning unt
 
 The early church read Psalm 22 as a privileged witness to Christ's passion. Patristic interpretation often placed the words on Christ's lips while also hearing the church as Christ's body. Medieval liturgy and art deepened the association.
 
-Reformation commentators defended christological reading while attending to David's own suffering. Modern historical criticism re-centered the psalm's genre and ancient worship. Jewish interpretation continues to read it within Israel's Scriptures, frequently in relation to individual or communal affliction. Responsible Christian reading receives Jesus through Israel's prayer rather than taking the prayer away from Israel.
+Reformation commentators defended christological reading while attending to David's own suffering. Modern historical criticism re-centered the psalm's genre and ancient worship. Jewish interpretation continues to read it within Israel's Scriptures: talmudic and midrashic traditions connect its endangered speaker with Esther, and Rashi can hear “I am a worm” as the voice of all Israel. These are substantive Jewish readings, not incomplete versions of Christian interpretation. Responsible Christian reading receives Jesus through Israel's prayer rather than taking the prayer away from Israel.
 
 Liberation, Black, womanist, disability, and trauma-informed interpreters have emphasized the truth-telling body, public humiliation, and the difference between joining the afflicted in lament and explaining suffering from a safe distance.
 
@@ -79,6 +79,8 @@ Recommended visuals: a literary movement diagram from lament to assembly to nati
 
 ## Sources and Further Study
 
+- Babylonian Talmud, Yoma 29a, and related tradition connecting Psalm 22 with Esther: https://www.sefaria.org/Yoma.29a.4-5?with=Rashi
+- Rashi on Psalm 22:7, reading the speaker corporately as Israel: https://www.sefaria.org/Rashi_on_Psalms.22.7
 - Discussion of the Masoretic and Christian hands-and-feet readings in *What Is the Bible?*: https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/F95A28679B7CCFF67940FA700CC6C416/9781844658763c1_p1-18_CBO.pdf/what_is_the_bible.pdf
 - “Setting Jesus's Crucifixion within the Davidic Psalms”: https://www.cambridge.org/core/books/suffering-son-of-david-in-matthews-passion-narrative/setting-jesuss-crucifixion-within-the-davidic-psalms/28575FCAC939880BAE491332032E7167
 - United States Conference of Catholic Bishops, introduction to Psalms: https://bible.usccb.org/bible/psalms/0
