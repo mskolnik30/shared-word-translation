@@ -1,0 +1,133 @@
+{
+  "book": "Daniel",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 12,
+  "public_verse_slots": 357,
+  "included_verse_labels": 357,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 357,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Dan.xml",
+    "git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-21",
+      "decision": "Preserve imperial assimilation pressure and the Judeans' selective, faithful accommodation.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-49",
+      "decision": "Keep the statue and kingdoms within the narrative's theology of transient empire and divine rule.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-30",
+      "decision": "Retain coerced idolatry, resistance, threatened execution, and deliverance without promising rescue from every present danger.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "4:1-37",
+      "decision": "Bind public 4:1-37 across Hebrew 3:31-4:34 and preserve the king's pride, humiliation, and restoration.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:1-31",
+      "decision": "Bind public 5:31 to Hebrew 6:1 and keep sacrilege, imperial arrogance, judgment, and regime change together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "6:1-28",
+      "decision": "Bind the public chapter to Hebrew 6:2-29 and preserve political entrapment, prayer, danger, and deliverance.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:1-28",
+      "decision": "Preserve beasts, heavenly court, the humanlike figure, saints, and kingdoms without forcing a single modern identification.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:1-27",
+      "decision": "Keep the vision's symbols and its stated imperial-historical horizon connected.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:1-27",
+      "decision": "Retain confession, mercy, restoration, and the seventy weeks without converting the passage into a confident modern timetable.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "10:1-12:13",
+      "decision": "Preserve apocalyptic conflict, persecution, endurance, resurrection hope, and sealed knowledge without mapping every figure onto current events.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_05",
+  "deployment_audit": {
+    "source_git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a",
+    "source_binding_count": 357,
+    "unique_source_record_count": 357,
+    "public_verse_slots": 357,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 357
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/daniel/Daniel_01.md",
+        "blob_sha": "152630b62ed6b2ff364002f47829bbe4ce3d3694"
+      },
+      "02": {
+        "path": "books/OT/daniel/Daniel_02.md",
+        "blob_sha": "260550911143462a9a0cc5f9c0acd847ba1f245f"
+      },
+      "03": {
+        "path": "books/OT/daniel/Daniel_03.md",
+        "blob_sha": "2db39643f6d06c6efc321f0a6f541d0c9a352841"
+      },
+      "04": {
+        "path": "books/OT/daniel/Daniel_04.md",
+        "blob_sha": "b47c34a8694f0d82fc90f2f5a1212adec6002c5a"
+      },
+      "05": {
+        "path": "books/OT/daniel/Daniel_05.md",
+        "blob_sha": "d693ad7dd70ed8537bfa13c6bf654bda931559e3"
+      },
+      "06": {
+        "path": "books/OT/daniel/Daniel_06.md",
+        "blob_sha": "ddacfee8121f9277a928d7b2b0f57a2d14c8bf0c"
+      },
+      "07": {
+        "path": "books/OT/daniel/Daniel_07.md",
+        "blob_sha": "62325a9d3e69a6a1da9d6f8d64fe182d99599e26"
+      },
+      "08": {
+        "path": "books/OT/daniel/Daniel_08.md",
+        "blob_sha": "2273860a610412c94839d682d03d0b9ac9b1b46e"
+      },
+      "09": {
+        "path": "books/OT/daniel/Daniel_09.md",
+        "blob_sha": "b0a0f0bc8a1e7ca237056f5de8e9762ef0179122"
+      },
+      "10": {
+        "path": "books/OT/daniel/Daniel_10.md",
+        "blob_sha": "541bf13c4bba463ff8476e00d26c8dcacc2c7ca1"
+      },
+      "11": {
+        "path": "books/OT/daniel/Daniel_11.md",
+        "blob_sha": "156fa0922e1c45aa5c230ea7ee6669cf3524130e"
+      },
+      "12": {
+        "path": "books/OT/daniel/Daniel_12.md",
+        "blob_sha": "974606d07fe5f18089db83e25980d87a74128833"
+      }
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "book": "Daniel",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Dan.xml",
+    "git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "9:1-27",
+      "decision": "Retain confession, mercy, restoration, and the seventy weeks without converting the passage into a confident modern timetable.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Dan.xml",
+    "git_blob_sha": "ec1aa395113e8be5b94713e331e99f11698dd47a",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Daniel 9:1",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "Daniel 9:1",
+            "segment_mode": "whole",
+            "sha256": "78b339478d5769cb1f82fd138200a4a1eeeee55bb938af9799e00bf5a7fa66dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "78b339478d5769cb1f82fd138200a4a1eeeee55bb938af9799e00bf5a7fa66dc"
+      },
+      "2": {
+        "source_ref": "Daniel 9:2",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "Daniel 9:2",
+            "segment_mode": "whole",
+            "sha256": "dadfad3c6abbfdb67dec51537a31410277d1fca3a62033017f5f7e618acbe385"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dadfad3c6abbfdb67dec51537a31410277d1fca3a62033017f5f7e618acbe385"
+      },
+      "3": {
+        "source_ref": "Daniel 9:3",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "Daniel 9:3",
+            "segment_mode": "whole",
+            "sha256": "ae1ca78fd96f846f1dfc02b3a8e26e3809316d28d7e99b155dcaebfbc7e3d263"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae1ca78fd96f846f1dfc02b3a8e26e3809316d28d7e99b155dcaebfbc7e3d263"
+      },
+      "4": {
+        "source_ref": "Daniel 9:4",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "Daniel 9:4",
+            "segment_mode": "whole",
+            "sha256": "0c2208c047ec7d3ca415d1835089f40f081c1093e351832709f6ee5dd79b8aaf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c2208c047ec7d3ca415d1835089f40f081c1093e351832709f6ee5dd79b8aaf"
+      },
+      "5": {
+        "source_ref": "Daniel 9:5",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "Daniel 9:5",
+            "segment_mode": "whole",
+            "sha256": "b767343d6b915ea146f82952a0fa52181c3aee81852b7572063cf49a86df65ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b767343d6b915ea146f82952a0fa52181c3aee81852b7572063cf49a86df65ea"
+      },
+      "6": {
+        "source_ref": "Daniel 9:6",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "Daniel 9:6",
+            "segment_mode": "whole",
+            "sha256": "91b1ce643cb5ecb3354b0ca7362a976e08e2b2f736ea52cb56f414616b670dde"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "91b1ce643cb5ecb3354b0ca7362a976e08e2b2f736ea52cb56f414616b670dde"
+      },
+      "7": {
+        "source_ref": "Daniel 9:7",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "Daniel 9:7",
+            "segment_mode": "whole",
+            "sha256": "d23eed8b9ffe86f16f471cfe716eb00ebd593c6a03de491a36acbf64045fbba0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d23eed8b9ffe86f16f471cfe716eb00ebd593c6a03de491a36acbf64045fbba0"
+      },
+      "8": {
+        "source_ref": "Daniel 9:8",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "Daniel 9:8",
+            "segment_mode": "whole",
+            "sha256": "71fc9db7289dddcefb17490943da87121068e05e081f655f124b507f6ca3ec49"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71fc9db7289dddcefb17490943da87121068e05e081f655f124b507f6ca3ec49"
+      },
+      "9": {
+        "source_ref": "Daniel 9:9",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "Daniel 9:9",
+            "segment_mode": "whole",
+            "sha256": "ecdbd62a1813ff835f6d7e380791a8e644afdd902264696caab8cd27d5d5776b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ecdbd62a1813ff835f6d7e380791a8e644afdd902264696caab8cd27d5d5776b"
+      },
+      "10": {
+        "source_ref": "Daniel 9:10",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "Daniel 9:10",
+            "segment_mode": "whole",
+            "sha256": "aabc1477fee57dac5b3685a1bc128d666b10cb0c5d8f1d4cab71bc3ace57a1df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aabc1477fee57dac5b3685a1bc128d666b10cb0c5d8f1d4cab71bc3ace57a1df"
+      },
+      "11": {
+        "source_ref": "Daniel 9:11",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "Daniel 9:11",
+            "segment_mode": "whole",
+            "sha256": "8debfb9473b62d91839af99d9b2136031b1b31330c5de39cd2e7755e37aca478"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8debfb9473b62d91839af99d9b2136031b1b31330c5de39cd2e7755e37aca478"
+      },
+      "12": {
+        "source_ref": "Daniel 9:12",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "Daniel 9:12",
+            "segment_mode": "whole",
+            "sha256": "9da8f7e025af92c9e35acb9fc7b7fb79a257dd49a861d6c2d6cd759a1855352d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9da8f7e025af92c9e35acb9fc7b7fb79a257dd49a861d6c2d6cd759a1855352d"
+      },
+      "13": {
+        "source_ref": "Daniel 9:13",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "Daniel 9:13",
+            "segment_mode": "whole",
+            "sha256": "ae0b406e1b5f83d9af1c1ee3c25caf1209a69518b936603a06b53a0ee6d78a62"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae0b406e1b5f83d9af1c1ee3c25caf1209a69518b936603a06b53a0ee6d78a62"
+      },
+      "14": {
+        "source_ref": "Daniel 9:14",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "Daniel 9:14",
+            "segment_mode": "whole",
+            "sha256": "e96539f2551b5f39f95207d3161165bb0612723f79cb6760bb7c0376cd34aefb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e96539f2551b5f39f95207d3161165bb0612723f79cb6760bb7c0376cd34aefb"
+      },
+      "15": {
+        "source_ref": "Daniel 9:15",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "Daniel 9:15",
+            "segment_mode": "whole",
+            "sha256": "a3415dfcfc3b37d414c08ebe22c7fef99efb580042ab01fb4a694889614a2bb1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a3415dfcfc3b37d414c08ebe22c7fef99efb580042ab01fb4a694889614a2bb1"
+      },
+      "16": {
+        "source_ref": "Daniel 9:16",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 16,
+            "source_ref": "Daniel 9:16",
+            "segment_mode": "whole",
+            "sha256": "a53822c990cd06c18e6c090fd4db2ad051f809d7ad25cab177c045e2738c67a2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a53822c990cd06c18e6c090fd4db2ad051f809d7ad25cab177c045e2738c67a2"
+      },
+      "17": {
+        "source_ref": "Daniel 9:17",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 17,
+            "source_ref": "Daniel 9:17",
+            "segment_mode": "whole",
+            "sha256": "375d5bf909f3179bdb8ba237758274ac789478c43fbb9504d7e55b656dffc6f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "375d5bf909f3179bdb8ba237758274ac789478c43fbb9504d7e55b656dffc6f0"
+      },
+      "18": {
+        "source_ref": "Daniel 9:18",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 18,
+            "source_ref": "Daniel 9:18",
+            "segment_mode": "whole",
+            "sha256": "ef68cbfa6ad0e46ca5c9c7f9f75dfe406df873949021e095ea1ecfc8234c3b60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef68cbfa6ad0e46ca5c9c7f9f75dfe406df873949021e095ea1ecfc8234c3b60"
+      },
+      "19": {
+        "source_ref": "Daniel 9:19",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 19,
+            "source_ref": "Daniel 9:19",
+            "segment_mode": "whole",
+            "sha256": "cf0ea28a2dc77d0fa67eeb5a04fee2bb74ad01105a639071818643619c634d83"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cf0ea28a2dc77d0fa67eeb5a04fee2bb74ad01105a639071818643619c634d83"
+      },
+      "20": {
+        "source_ref": "Daniel 9:20",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 20,
+            "source_ref": "Daniel 9:20",
+            "segment_mode": "whole",
+            "sha256": "e946c87d700203e587d7a2087ccb1e16b915bbc62c55f41b8c189b6b12c9b210"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e946c87d700203e587d7a2087ccb1e16b915bbc62c55f41b8c189b6b12c9b210"
+      },
+      "21": {
+        "source_ref": "Daniel 9:21",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 21,
+            "source_ref": "Daniel 9:21",
+            "segment_mode": "whole",
+            "sha256": "20aec438d16666ef40a8f0e539c42b97b820c5938f21c430a59d322e5e0e338b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "20aec438d16666ef40a8f0e539c42b97b820c5938f21c430a59d322e5e0e338b"
+      },
+      "22": {
+        "source_ref": "Daniel 9:22",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 22,
+            "source_ref": "Daniel 9:22",
+            "segment_mode": "whole",
+            "sha256": "46f9ca004593278ba125a06bd22c6a88973786be21b7d16512eeade8f6d61c61"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46f9ca004593278ba125a06bd22c6a88973786be21b7d16512eeade8f6d61c61"
+      },
+      "23": {
+        "source_ref": "Daniel 9:23",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 23,
+            "source_ref": "Daniel 9:23",
+            "segment_mode": "whole",
+            "sha256": "56a6a15bf56a2abe4c22bcf2c60d4e28510fd36ad7da54e363747534c30075fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56a6a15bf56a2abe4c22bcf2c60d4e28510fd36ad7da54e363747534c30075fc"
+      },
+      "24": {
+        "source_ref": "Daniel 9:24",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 24,
+            "source_ref": "Daniel 9:24",
+            "segment_mode": "whole",
+            "sha256": "f8f0f9fa8e4b984d3a9088476f016c7fb4db03a0baa056bbe30c77230180f39d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8f0f9fa8e4b984d3a9088476f016c7fb4db03a0baa056bbe30c77230180f39d"
+      },
+      "25": {
+        "source_ref": "Daniel 9:25",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 25,
+            "source_ref": "Daniel 9:25",
+            "segment_mode": "whole",
+            "sha256": "e6b48d414d08b6d8f13133ab58673320296fd35271ee186b315e50a148a5f489"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e6b48d414d08b6d8f13133ab58673320296fd35271ee186b315e50a148a5f489"
+      },
+      "26": {
+        "source_ref": "Daniel 9:26",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 26,
+            "source_ref": "Daniel 9:26",
+            "segment_mode": "whole",
+            "sha256": "6659d07e5152c7521fb9eeadce97e933c6851961279e2b460058cb90f597e37e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6659d07e5152c7521fb9eeadce97e933c6851961279e2b460058cb90f597e37e"
+      },
+      "27": {
+        "source_ref": "Daniel 9:27",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 27,
+            "source_ref": "Daniel 9:27",
+            "segment_mode": "whole",
+            "sha256": "af653e7f98e80a8cca0275ac0f2feddcb346ac9a1101b1999e74365aec21de3e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af653e7f98e80a8cca0275ac0f2feddcb346ac9a1101b1999e74365aec21de3e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/daniel/Daniel_09.md",
+    "blob_sha": "b0a0f0bc8a1e7ca237056f5de8e9762ef0179122"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
