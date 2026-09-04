@@ -1,0 +1,441 @@
+{
+  "book": "Proverbs",
+  "chapter": 7,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Proverbs 7:1",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 1,
+            "source_ref": "Proverbs 7:1",
+            "segment_mode": "whole",
+            "sha256": "0bc58dec47991d446d47c1065e01669eba5a0cb44a1917b36ad429842f1334ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0bc58dec47991d446d47c1065e01669eba5a0cb44a1917b36ad429842f1334ec"
+      },
+      "2": {
+        "source_ref": "Proverbs 7:2",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 2,
+            "source_ref": "Proverbs 7:2",
+            "segment_mode": "whole",
+            "sha256": "e5519b51ded9e6a9770cbe55bdbe33f248b7720583389a13fdf2f36094afd44e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e5519b51ded9e6a9770cbe55bdbe33f248b7720583389a13fdf2f36094afd44e"
+      },
+      "3": {
+        "source_ref": "Proverbs 7:3",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 3,
+            "source_ref": "Proverbs 7:3",
+            "segment_mode": "whole",
+            "sha256": "ff887099b76ac538e078367b2e597252ddbc014e6cead85da6a1e468e40a9977"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff887099b76ac538e078367b2e597252ddbc014e6cead85da6a1e468e40a9977"
+      },
+      "4": {
+        "source_ref": "Proverbs 7:4",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 4,
+            "source_ref": "Proverbs 7:4",
+            "segment_mode": "whole",
+            "sha256": "182e032c1601bd0544ebc772fb2174466d7a98086f35c181f45e2dcb3ed46f29"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "182e032c1601bd0544ebc772fb2174466d7a98086f35c181f45e2dcb3ed46f29"
+      },
+      "5": {
+        "source_ref": "Proverbs 7:5",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 5,
+            "source_ref": "Proverbs 7:5",
+            "segment_mode": "whole",
+            "sha256": "5a0ac45e0c0e9bdd3f7790b7f630306a02ba1efbcd049110acad3d2885baf885"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5a0ac45e0c0e9bdd3f7790b7f630306a02ba1efbcd049110acad3d2885baf885"
+      },
+      "6": {
+        "source_ref": "Proverbs 7:6",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 6,
+            "source_ref": "Proverbs 7:6",
+            "segment_mode": "whole",
+            "sha256": "202942b178fdd661183e4a5519f05abf85a7845b6f4b455f33944b9500b74923"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "202942b178fdd661183e4a5519f05abf85a7845b6f4b455f33944b9500b74923"
+      },
+      "7": {
+        "source_ref": "Proverbs 7:7",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 7,
+            "source_ref": "Proverbs 7:7",
+            "segment_mode": "whole",
+            "sha256": "09ba11bed2ebdee9979090fab9f6c7e1fe228db52e9c2283d4ab3eaf43eee924"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09ba11bed2ebdee9979090fab9f6c7e1fe228db52e9c2283d4ab3eaf43eee924"
+      },
+      "8": {
+        "source_ref": "Proverbs 7:8",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 8,
+            "source_ref": "Proverbs 7:8",
+            "segment_mode": "whole",
+            "sha256": "57f1c37be6b65742f9b862e921b129d54503015b69bdafe6cbdc634805b498f0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "57f1c37be6b65742f9b862e921b129d54503015b69bdafe6cbdc634805b498f0"
+      },
+      "9": {
+        "source_ref": "Proverbs 7:9",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 9,
+            "source_ref": "Proverbs 7:9",
+            "segment_mode": "whole",
+            "sha256": "f8bc41dbebc5b732b5b1691463fd3f81504009f8ac4a3e96f0b6c435ddebd3f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f8bc41dbebc5b732b5b1691463fd3f81504009f8ac4a3e96f0b6c435ddebd3f8"
+      },
+      "10": {
+        "source_ref": "Proverbs 7:10",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 10,
+            "source_ref": "Proverbs 7:10",
+            "segment_mode": "whole",
+            "sha256": "af6dd8e586109cbb0baa28758546a3fe08782fb0df60756c48eb8533ef9694d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af6dd8e586109cbb0baa28758546a3fe08782fb0df60756c48eb8533ef9694d5"
+      },
+      "11": {
+        "source_ref": "Proverbs 7:11",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 11,
+            "source_ref": "Proverbs 7:11",
+            "segment_mode": "whole",
+            "sha256": "06ea1c5f14588ed7bb4562d3a945ebfcdd82078ad624058f754c753f7ee5d84b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "06ea1c5f14588ed7bb4562d3a945ebfcdd82078ad624058f754c753f7ee5d84b"
+      },
+      "12": {
+        "source_ref": "Proverbs 7:12",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 12,
+            "source_ref": "Proverbs 7:12",
+            "segment_mode": "whole",
+            "sha256": "9473a3e2c1519cdd3aaf77e563b882e2a00e6fba023a704ce82bf9a40aba7ac8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9473a3e2c1519cdd3aaf77e563b882e2a00e6fba023a704ce82bf9a40aba7ac8"
+      },
+      "13": {
+        "source_ref": "Proverbs 7:13",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 13,
+            "source_ref": "Proverbs 7:13",
+            "segment_mode": "whole",
+            "sha256": "0c2787f244f05d5930b25db38cfc711b84870dcdf52e9e129824ac0ac70d760f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c2787f244f05d5930b25db38cfc711b84870dcdf52e9e129824ac0ac70d760f"
+      },
+      "14": {
+        "source_ref": "Proverbs 7:14",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 14,
+            "source_ref": "Proverbs 7:14",
+            "segment_mode": "whole",
+            "sha256": "456e4212bf89c55f9501a2de42a9b791ab6965e8e638933f220a9ea547c451e3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "456e4212bf89c55f9501a2de42a9b791ab6965e8e638933f220a9ea547c451e3"
+      },
+      "15": {
+        "source_ref": "Proverbs 7:15",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 15,
+            "source_ref": "Proverbs 7:15",
+            "segment_mode": "whole",
+            "sha256": "5e91d9987fa001fac9da2c3a22d2d5db27849acd792a40bc04dc03076038b2a8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e91d9987fa001fac9da2c3a22d2d5db27849acd792a40bc04dc03076038b2a8"
+      },
+      "16": {
+        "source_ref": "Proverbs 7:16",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 16,
+            "source_ref": "Proverbs 7:16",
+            "segment_mode": "whole",
+            "sha256": "bdb5ad6ad1d346a325a6403c8155aac0e56a36b093f919921f84c9f0c96e6d16"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bdb5ad6ad1d346a325a6403c8155aac0e56a36b093f919921f84c9f0c96e6d16"
+      },
+      "17": {
+        "source_ref": "Proverbs 7:17",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 17,
+            "source_ref": "Proverbs 7:17",
+            "segment_mode": "whole",
+            "sha256": "5545abb2ad7dcbd9226e14c32f376a0f65b550ce7ee9f437eaac3e0d3401cb08"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5545abb2ad7dcbd9226e14c32f376a0f65b550ce7ee9f437eaac3e0d3401cb08"
+      },
+      "18": {
+        "source_ref": "Proverbs 7:18",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 18,
+            "source_ref": "Proverbs 7:18",
+            "segment_mode": "whole",
+            "sha256": "23ac2792c3e8e9aadd8f48d081e6c02b103d3d8eb2c0ce448c776b3723f78022"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23ac2792c3e8e9aadd8f48d081e6c02b103d3d8eb2c0ce448c776b3723f78022"
+      },
+      "19": {
+        "source_ref": "Proverbs 7:19",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 19,
+            "source_ref": "Proverbs 7:19",
+            "segment_mode": "whole",
+            "sha256": "09230c7fbf2dad87ca0eaa33127444fc3fe6e2f6fc34fca07f79771629339e42"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09230c7fbf2dad87ca0eaa33127444fc3fe6e2f6fc34fca07f79771629339e42"
+      },
+      "20": {
+        "source_ref": "Proverbs 7:20",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 20,
+            "source_ref": "Proverbs 7:20",
+            "segment_mode": "whole",
+            "sha256": "8fb780ba682e4cee17bbb0cdea638c4858865b1886d809ccb6c60b27d253818f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fb780ba682e4cee17bbb0cdea638c4858865b1886d809ccb6c60b27d253818f"
+      },
+      "21": {
+        "source_ref": "Proverbs 7:21",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 21,
+            "source_ref": "Proverbs 7:21",
+            "segment_mode": "whole",
+            "sha256": "a6ca1f3d2fb280605072d6b7e08ba38599d3f112d2309ae257aee8ee6b5cb620"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6ca1f3d2fb280605072d6b7e08ba38599d3f112d2309ae257aee8ee6b5cb620"
+      },
+      "22": {
+        "source_ref": "Proverbs 7:22",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 22,
+            "source_ref": "Proverbs 7:22",
+            "segment_mode": "whole",
+            "sha256": "cd9681c8b17424c4ab4ff9ddcac012d9a85c5ecacb4c047c5dc64c8d542d944b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cd9681c8b17424c4ab4ff9ddcac012d9a85c5ecacb4c047c5dc64c8d542d944b"
+      },
+      "23": {
+        "source_ref": "Proverbs 7:23",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 23,
+            "source_ref": "Proverbs 7:23",
+            "segment_mode": "whole",
+            "sha256": "7b93a25636cdb9631b203e649737ce924e349ebdfd694a19cf4f12874cc470c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b93a25636cdb9631b203e649737ce924e349ebdfd694a19cf4f12874cc470c6"
+      },
+      "24": {
+        "source_ref": "Proverbs 7:24",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 24,
+            "source_ref": "Proverbs 7:24",
+            "segment_mode": "whole",
+            "sha256": "5bbd1a7ef38d3a641f42017e1e35b095678b9dc14e8086322b4a2bc697db31d1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5bbd1a7ef38d3a641f42017e1e35b095678b9dc14e8086322b4a2bc697db31d1"
+      },
+      "25": {
+        "source_ref": "Proverbs 7:25",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 25,
+            "source_ref": "Proverbs 7:25",
+            "segment_mode": "whole",
+            "sha256": "2e747c4a2ed8290f673637f370a190f79b2e8a61e78d8a1780ce93928e33dfa5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2e747c4a2ed8290f673637f370a190f79b2e8a61e78d8a1780ce93928e33dfa5"
+      },
+      "26": {
+        "source_ref": "Proverbs 7:26",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 26,
+            "source_ref": "Proverbs 7:26",
+            "segment_mode": "whole",
+            "sha256": "d249ee968b39f2ef51384a060334d79225f2816161af7706dc5799d6c92380ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d249ee968b39f2ef51384a060334d79225f2816161af7706dc5799d6c92380ba"
+      },
+      "27": {
+        "source_ref": "Proverbs 7:27",
+        "source_records": [
+          {
+            "chapter": 7,
+            "verse": 27,
+            "source_ref": "Proverbs 7:27",
+            "segment_mode": "whole",
+            "sha256": "830e97d049783a16bcf2858d1aa931cd5a3864b80eff50b745e94581dcf99d76"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "830e97d049783a16bcf2858d1aa931cd5a3864b80eff50b745e94581dcf99d76"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/proverbs/Proverbs_07.md",
+    "blob_sha": "8666860d4d127d22115d6867248f1e4f0590cbd2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

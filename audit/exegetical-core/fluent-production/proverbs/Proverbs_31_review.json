@@ -1,0 +1,512 @@
+{
+  "book": "Proverbs",
+  "chapter": 31,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "31:1-9",
+      "decision": "Retain the queen mother's instruction about self-control, just judgment, and advocacy for vulnerable people.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "31:10-31",
+      "decision": "Preserve the woman of strength's economic agency, wisdom, generosity, household leadership, and praise rather than turning the poem into a restrictive domestic checklist.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Proverbs 31:1",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 1,
+            "source_ref": "Proverbs 31:1",
+            "segment_mode": "whole",
+            "sha256": "9415559fbf55c5d6e9ed997a9ac1d1231e3950470e9169d3f6e417fc8b1c444a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9415559fbf55c5d6e9ed997a9ac1d1231e3950470e9169d3f6e417fc8b1c444a"
+      },
+      "2": {
+        "source_ref": "Proverbs 31:2",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 2,
+            "source_ref": "Proverbs 31:2",
+            "segment_mode": "whole",
+            "sha256": "46c72752da81de36792829425550812db34866a8d694b853db7667dcd52c19eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46c72752da81de36792829425550812db34866a8d694b853db7667dcd52c19eb"
+      },
+      "3": {
+        "source_ref": "Proverbs 31:3",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 3,
+            "source_ref": "Proverbs 31:3",
+            "segment_mode": "whole",
+            "sha256": "3a359bcf5fb4425758c1c716077cf1c4190f6b34fb8c3e544ad84c905b447d9f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3a359bcf5fb4425758c1c716077cf1c4190f6b34fb8c3e544ad84c905b447d9f"
+      },
+      "4": {
+        "source_ref": "Proverbs 31:4",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 4,
+            "source_ref": "Proverbs 31:4",
+            "segment_mode": "whole",
+            "sha256": "4db21ea9e7527807cd63c02182d8ffeffab9a314e4af335e893fb4ecef927d7d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4db21ea9e7527807cd63c02182d8ffeffab9a314e4af335e893fb4ecef927d7d"
+      },
+      "5": {
+        "source_ref": "Proverbs 31:5",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 5,
+            "source_ref": "Proverbs 31:5",
+            "segment_mode": "whole",
+            "sha256": "ef9ef47636a9cc8cc5207a4761bf1ba603c4e77001029caa446194a31889049a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ef9ef47636a9cc8cc5207a4761bf1ba603c4e77001029caa446194a31889049a"
+      },
+      "6": {
+        "source_ref": "Proverbs 31:6",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 6,
+            "source_ref": "Proverbs 31:6",
+            "segment_mode": "whole",
+            "sha256": "bba7e9643e40c4391984aaf6c237d721a44c9b3875e764bdc6a5b348b6df166e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bba7e9643e40c4391984aaf6c237d721a44c9b3875e764bdc6a5b348b6df166e"
+      },
+      "7": {
+        "source_ref": "Proverbs 31:7",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 7,
+            "source_ref": "Proverbs 31:7",
+            "segment_mode": "whole",
+            "sha256": "5b25ae31ff38a6986ddeef982cc15dcd5f93f281784755e3cb14bd12764c7f77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b25ae31ff38a6986ddeef982cc15dcd5f93f281784755e3cb14bd12764c7f77"
+      },
+      "8": {
+        "source_ref": "Proverbs 31:8",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 8,
+            "source_ref": "Proverbs 31:8",
+            "segment_mode": "whole",
+            "sha256": "7a5b211f5ca65d8c42b3b7ed93f83489bec5967d19bc4b8264c8fc070030114f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7a5b211f5ca65d8c42b3b7ed93f83489bec5967d19bc4b8264c8fc070030114f"
+      },
+      "9": {
+        "source_ref": "Proverbs 31:9",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 9,
+            "source_ref": "Proverbs 31:9",
+            "segment_mode": "whole",
+            "sha256": "a80a00fa6023ccb3ce13db0fb7ea8eedc791014d9f056cd132b54932c8d2da74"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a80a00fa6023ccb3ce13db0fb7ea8eedc791014d9f056cd132b54932c8d2da74"
+      },
+      "10": {
+        "source_ref": "Proverbs 31:10",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 10,
+            "source_ref": "Proverbs 31:10",
+            "segment_mode": "whole",
+            "sha256": "d965d9d938b12983b077fff64c6beecab567ebfe72f7c74c18676bf219a590ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d965d9d938b12983b077fff64c6beecab567ebfe72f7c74c18676bf219a590ad"
+      },
+      "11": {
+        "source_ref": "Proverbs 31:11",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 11,
+            "source_ref": "Proverbs 31:11",
+            "segment_mode": "whole",
+            "sha256": "df79aa45c3acd567edd4a397dae8296e6adac5c8aff20e2356f033d7fbbb2a2d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df79aa45c3acd567edd4a397dae8296e6adac5c8aff20e2356f033d7fbbb2a2d"
+      },
+      "12": {
+        "source_ref": "Proverbs 31:12",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 12,
+            "source_ref": "Proverbs 31:12",
+            "segment_mode": "whole",
+            "sha256": "bd013b04a7e4457f44c9ae194a0028d731a533c177049a03bf203193d0154902"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bd013b04a7e4457f44c9ae194a0028d731a533c177049a03bf203193d0154902"
+      },
+      "13": {
+        "source_ref": "Proverbs 31:13",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 13,
+            "source_ref": "Proverbs 31:13",
+            "segment_mode": "whole",
+            "sha256": "97670d7321c8bd6f3743b3608c07f2fa7b3d1887d6ee63e89bab8128e0d36886"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "97670d7321c8bd6f3743b3608c07f2fa7b3d1887d6ee63e89bab8128e0d36886"
+      },
+      "14": {
+        "source_ref": "Proverbs 31:14",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 14,
+            "source_ref": "Proverbs 31:14",
+            "segment_mode": "whole",
+            "sha256": "8e6dd5e6dd2da3dea8524d69f756b36beeb461426be12e434cdeb71e6c6bfbc9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e6dd5e6dd2da3dea8524d69f756b36beeb461426be12e434cdeb71e6c6bfbc9"
+      },
+      "15": {
+        "source_ref": "Proverbs 31:15",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 15,
+            "source_ref": "Proverbs 31:15",
+            "segment_mode": "whole",
+            "sha256": "16b9a0770fa86664645a84bfe213a3f519ba6932f9d63fefc391547180973424"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "16b9a0770fa86664645a84bfe213a3f519ba6932f9d63fefc391547180973424"
+      },
+      "16": {
+        "source_ref": "Proverbs 31:16",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 16,
+            "source_ref": "Proverbs 31:16",
+            "segment_mode": "whole",
+            "sha256": "40aea4657811053b6a8c1c12bad1c559739dd0ea1a8e418ff9d99f5e3094ac9c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40aea4657811053b6a8c1c12bad1c559739dd0ea1a8e418ff9d99f5e3094ac9c"
+      },
+      "17": {
+        "source_ref": "Proverbs 31:17",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 17,
+            "source_ref": "Proverbs 31:17",
+            "segment_mode": "whole",
+            "sha256": "38d6d3922b1b2f9fc21c8c7fb51127c0682f1de8d2bb1aef1991be06c5e02b13"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "38d6d3922b1b2f9fc21c8c7fb51127c0682f1de8d2bb1aef1991be06c5e02b13"
+      },
+      "18": {
+        "source_ref": "Proverbs 31:18",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 18,
+            "source_ref": "Proverbs 31:18",
+            "segment_mode": "whole",
+            "sha256": "28cbcb527b18c330d69dda4960ab829e9da8147ad09160108e329bc2ad842037"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "28cbcb527b18c330d69dda4960ab829e9da8147ad09160108e329bc2ad842037"
+      },
+      "19": {
+        "source_ref": "Proverbs 31:19",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 19,
+            "source_ref": "Proverbs 31:19",
+            "segment_mode": "whole",
+            "sha256": "dd31ec2429df11af513b4c5848bdff4d3f7a1be632d5725f1344835f198dabce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dd31ec2429df11af513b4c5848bdff4d3f7a1be632d5725f1344835f198dabce"
+      },
+      "20": {
+        "source_ref": "Proverbs 31:20",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 20,
+            "source_ref": "Proverbs 31:20",
+            "segment_mode": "whole",
+            "sha256": "0cbf284ea870e6dc2e0aa9216acea3a89089f435158fcca5e1ec84fd4e6d7f39"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0cbf284ea870e6dc2e0aa9216acea3a89089f435158fcca5e1ec84fd4e6d7f39"
+      },
+      "21": {
+        "source_ref": "Proverbs 31:21",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 21,
+            "source_ref": "Proverbs 31:21",
+            "segment_mode": "whole",
+            "sha256": "ff34feb8f7ebd48467feeead037ce0ec96979851791d99035dcdad94e26c7332"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff34feb8f7ebd48467feeead037ce0ec96979851791d99035dcdad94e26c7332"
+      },
+      "22": {
+        "source_ref": "Proverbs 31:22",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 22,
+            "source_ref": "Proverbs 31:22",
+            "segment_mode": "whole",
+            "sha256": "03fc6953d67be04686955d2c41fd0facaf2beee8e657be5e8dee5ab2da5b01d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "03fc6953d67be04686955d2c41fd0facaf2beee8e657be5e8dee5ab2da5b01d2"
+      },
+      "23": {
+        "source_ref": "Proverbs 31:23",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 23,
+            "source_ref": "Proverbs 31:23",
+            "segment_mode": "whole",
+            "sha256": "fb0137941611236322b5165f3d553fb7622e083220ea477dd5cd7ea17acd6c2b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fb0137941611236322b5165f3d553fb7622e083220ea477dd5cd7ea17acd6c2b"
+      },
+      "24": {
+        "source_ref": "Proverbs 31:24",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 24,
+            "source_ref": "Proverbs 31:24",
+            "segment_mode": "whole",
+            "sha256": "e193f7d8b2db3c387e5feef92c871afc3fffa75f05bce8f5be8552ddd9705a11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e193f7d8b2db3c387e5feef92c871afc3fffa75f05bce8f5be8552ddd9705a11"
+      },
+      "25": {
+        "source_ref": "Proverbs 31:25",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 25,
+            "source_ref": "Proverbs 31:25",
+            "segment_mode": "whole",
+            "sha256": "2f75b4d8ad30f4a4bc6af41ad15579b5e8c5794be7bf9d50d69ef2b0447a2c43"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f75b4d8ad30f4a4bc6af41ad15579b5e8c5794be7bf9d50d69ef2b0447a2c43"
+      },
+      "26": {
+        "source_ref": "Proverbs 31:26",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 26,
+            "source_ref": "Proverbs 31:26",
+            "segment_mode": "whole",
+            "sha256": "093296ecc081da58ea660a413824b52bc572db13f44d6a0949f761ead23c39e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "093296ecc081da58ea660a413824b52bc572db13f44d6a0949f761ead23c39e2"
+      },
+      "27": {
+        "source_ref": "Proverbs 31:27",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 27,
+            "source_ref": "Proverbs 31:27",
+            "segment_mode": "whole",
+            "sha256": "2747e1ca68e14dc7ae152669633f2d6846743e7d64e30296ba721cefaccca6d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2747e1ca68e14dc7ae152669633f2d6846743e7d64e30296ba721cefaccca6d3"
+      },
+      "28": {
+        "source_ref": "Proverbs 31:28",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 28,
+            "source_ref": "Proverbs 31:28",
+            "segment_mode": "whole",
+            "sha256": "76e8cecd1fb826676588ed9da76b04ddd7e6b8e2bb8d1149870bd331c90df46a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76e8cecd1fb826676588ed9da76b04ddd7e6b8e2bb8d1149870bd331c90df46a"
+      },
+      "29": {
+        "source_ref": "Proverbs 31:29",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 29,
+            "source_ref": "Proverbs 31:29",
+            "segment_mode": "whole",
+            "sha256": "3e80254d04cdd4512e0b121d31b76b76b843a3f3b8c1bfe0697965be4449d98d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3e80254d04cdd4512e0b121d31b76b76b843a3f3b8c1bfe0697965be4449d98d"
+      },
+      "30": {
+        "source_ref": "Proverbs 31:30",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 30,
+            "source_ref": "Proverbs 31:30",
+            "segment_mode": "whole",
+            "sha256": "d2cb00e10396efc6ca21c9b46a9cf692c32042ba9d2af9a2c62a745a01ff115a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2cb00e10396efc6ca21c9b46a9cf692c32042ba9d2af9a2c62a745a01ff115a"
+      },
+      "31": {
+        "source_ref": "Proverbs 31:31",
+        "source_records": [
+          {
+            "chapter": 31,
+            "verse": 31,
+            "source_ref": "Proverbs 31:31",
+            "segment_mode": "whole",
+            "sha256": "ae39c42101e353aed21a771e232387b7adfecf8dcd3f7569302959c1f901667c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae39c42101e353aed21a771e232387b7adfecf8dcd3f7569302959c1f901667c"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/proverbs/Proverbs_31.md",
+    "blob_sha": "e2de23d574c8a7efc76f18e845446777ad16b0f7"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

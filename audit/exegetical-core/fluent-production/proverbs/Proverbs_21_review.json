@@ -1,0 +1,501 @@
+{
+  "book": "Proverbs",
+  "chapter": 21,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Proverbs 21:1",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 1,
+            "source_ref": "Proverbs 21:1",
+            "segment_mode": "whole",
+            "sha256": "ece30c35da19579fabcfac9df7e08e4002e4709a6fcd4aaed6d9aedd57d05000"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ece30c35da19579fabcfac9df7e08e4002e4709a6fcd4aaed6d9aedd57d05000"
+      },
+      "2": {
+        "source_ref": "Proverbs 21:2",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 2,
+            "source_ref": "Proverbs 21:2",
+            "segment_mode": "whole",
+            "sha256": "7484fa5741b107c6337fdc3ff0f8d24c9967f5ca31869150625bc552f6da02eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7484fa5741b107c6337fdc3ff0f8d24c9967f5ca31869150625bc552f6da02eb"
+      },
+      "3": {
+        "source_ref": "Proverbs 21:3",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 3,
+            "source_ref": "Proverbs 21:3",
+            "segment_mode": "whole",
+            "sha256": "35db54b3c25cff0a8ed43e740c2ff64ff30a2bd6b8b3ca230c474995851f00cd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "35db54b3c25cff0a8ed43e740c2ff64ff30a2bd6b8b3ca230c474995851f00cd"
+      },
+      "4": {
+        "source_ref": "Proverbs 21:4",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 4,
+            "source_ref": "Proverbs 21:4",
+            "segment_mode": "whole",
+            "sha256": "86c8aa1c770d9c5b673916d05c6a84dfded565504b8694faab4c6b1b5009dff2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "86c8aa1c770d9c5b673916d05c6a84dfded565504b8694faab4c6b1b5009dff2"
+      },
+      "5": {
+        "source_ref": "Proverbs 21:5",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 5,
+            "source_ref": "Proverbs 21:5",
+            "segment_mode": "whole",
+            "sha256": "f71f8d6600e0481cdd56cd7b5b937efe5ab8b3b878e991c51d59c01e9459b195"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f71f8d6600e0481cdd56cd7b5b937efe5ab8b3b878e991c51d59c01e9459b195"
+      },
+      "6": {
+        "source_ref": "Proverbs 21:6",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 6,
+            "source_ref": "Proverbs 21:6",
+            "segment_mode": "whole",
+            "sha256": "649a26ecdba779999230fd8e4600efa2397dda7e667985aeb917ebd49a33fa21"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "649a26ecdba779999230fd8e4600efa2397dda7e667985aeb917ebd49a33fa21"
+      },
+      "7": {
+        "source_ref": "Proverbs 21:7",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 7,
+            "source_ref": "Proverbs 21:7",
+            "segment_mode": "whole",
+            "sha256": "9b2a415386d7a1f1c4c3ce33e498ae1b6aa5bbc1c67d9cbc9a5d23e7a42a652e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b2a415386d7a1f1c4c3ce33e498ae1b6aa5bbc1c67d9cbc9a5d23e7a42a652e"
+      },
+      "8": {
+        "source_ref": "Proverbs 21:8",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 8,
+            "source_ref": "Proverbs 21:8",
+            "segment_mode": "whole",
+            "sha256": "8d83dce91124fc4c887aaeb253c621b0530da092595ca25065a17ba3fa307ded"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d83dce91124fc4c887aaeb253c621b0530da092595ca25065a17ba3fa307ded"
+      },
+      "9": {
+        "source_ref": "Proverbs 21:9",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 9,
+            "source_ref": "Proverbs 21:9",
+            "segment_mode": "whole",
+            "sha256": "d8a83c1bca8bf1f19393048a07a770219298e43462dea5b31f53de61512ae80b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d8a83c1bca8bf1f19393048a07a770219298e43462dea5b31f53de61512ae80b"
+      },
+      "10": {
+        "source_ref": "Proverbs 21:10",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 10,
+            "source_ref": "Proverbs 21:10",
+            "segment_mode": "whole",
+            "sha256": "b06e3c84d503003d8ec886ec292557751cfd116de2d51dd71727e1045bc20252"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b06e3c84d503003d8ec886ec292557751cfd116de2d51dd71727e1045bc20252"
+      },
+      "11": {
+        "source_ref": "Proverbs 21:11",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 11,
+            "source_ref": "Proverbs 21:11",
+            "segment_mode": "whole",
+            "sha256": "6e340fa95c92c062b363b903a86b463a475d0766e25d90896ccf491cd66657fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6e340fa95c92c062b363b903a86b463a475d0766e25d90896ccf491cd66657fb"
+      },
+      "12": {
+        "source_ref": "Proverbs 21:12",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 12,
+            "source_ref": "Proverbs 21:12",
+            "segment_mode": "whole",
+            "sha256": "ec9dfcb2516d92c14c29cb2b3005ae1c239a8d0e6cfd83eaeab19c82003b6553"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ec9dfcb2516d92c14c29cb2b3005ae1c239a8d0e6cfd83eaeab19c82003b6553"
+      },
+      "13": {
+        "source_ref": "Proverbs 21:13",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 13,
+            "source_ref": "Proverbs 21:13",
+            "segment_mode": "whole",
+            "sha256": "0f803835fe9664e662915bdd726f06a504f79bf5ddb02b2b7065583f5b5d2446"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f803835fe9664e662915bdd726f06a504f79bf5ddb02b2b7065583f5b5d2446"
+      },
+      "14": {
+        "source_ref": "Proverbs 21:14",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 14,
+            "source_ref": "Proverbs 21:14",
+            "segment_mode": "whole",
+            "sha256": "d5f48c38b0a04a8e3c1e4c8efd1a17d6409f333da6686d3931bfd1cf217af13b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d5f48c38b0a04a8e3c1e4c8efd1a17d6409f333da6686d3931bfd1cf217af13b"
+      },
+      "15": {
+        "source_ref": "Proverbs 21:15",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 15,
+            "source_ref": "Proverbs 21:15",
+            "segment_mode": "whole",
+            "sha256": "1cbcdb7c63525c5255e20936ae9a5712c413aecc710af2250bd0a2f2ce11efe4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1cbcdb7c63525c5255e20936ae9a5712c413aecc710af2250bd0a2f2ce11efe4"
+      },
+      "16": {
+        "source_ref": "Proverbs 21:16",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 16,
+            "source_ref": "Proverbs 21:16",
+            "segment_mode": "whole",
+            "sha256": "5aeb6f5889708964f43413040edb42e38d93fc0da8ab4049cdbc38f42fd9014f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5aeb6f5889708964f43413040edb42e38d93fc0da8ab4049cdbc38f42fd9014f"
+      },
+      "17": {
+        "source_ref": "Proverbs 21:17",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 17,
+            "source_ref": "Proverbs 21:17",
+            "segment_mode": "whole",
+            "sha256": "75ac6c170f8ae0c27d4b5e89476b17e8c5b4e4cb1b15fcab141aaa94d038f96d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "75ac6c170f8ae0c27d4b5e89476b17e8c5b4e4cb1b15fcab141aaa94d038f96d"
+      },
+      "18": {
+        "source_ref": "Proverbs 21:18",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 18,
+            "source_ref": "Proverbs 21:18",
+            "segment_mode": "whole",
+            "sha256": "d987c3230131e84fa2895da5e9ae64878b63a49e81b168681796981568437dc8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d987c3230131e84fa2895da5e9ae64878b63a49e81b168681796981568437dc8"
+      },
+      "19": {
+        "source_ref": "Proverbs 21:19",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 19,
+            "source_ref": "Proverbs 21:19",
+            "segment_mode": "whole",
+            "sha256": "4eb44ede9632523622aa7062a26c34649d0996f6f44bd84c4744d4d6b5dbe8ce"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4eb44ede9632523622aa7062a26c34649d0996f6f44bd84c4744d4d6b5dbe8ce"
+      },
+      "20": {
+        "source_ref": "Proverbs 21:20",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 20,
+            "source_ref": "Proverbs 21:20",
+            "segment_mode": "whole",
+            "sha256": "e28c11016ea48b9251ce413f6962aa18a24ccd54574b5a313075d68e82b4d3d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e28c11016ea48b9251ce413f6962aa18a24ccd54574b5a313075d68e82b4d3d5"
+      },
+      "21": {
+        "source_ref": "Proverbs 21:21",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 21,
+            "source_ref": "Proverbs 21:21",
+            "segment_mode": "whole",
+            "sha256": "8e8f4e7ef05eeb0161ddb43d297ab46cb561caccf5ec327a832cc48640b9f824"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e8f4e7ef05eeb0161ddb43d297ab46cb561caccf5ec327a832cc48640b9f824"
+      },
+      "22": {
+        "source_ref": "Proverbs 21:22",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 22,
+            "source_ref": "Proverbs 21:22",
+            "segment_mode": "whole",
+            "sha256": "0c912af231cd00293889028f390867f12dbec5fdb62d97423ede30b93c83b2f7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0c912af231cd00293889028f390867f12dbec5fdb62d97423ede30b93c83b2f7"
+      },
+      "23": {
+        "source_ref": "Proverbs 21:23",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 23,
+            "source_ref": "Proverbs 21:23",
+            "segment_mode": "whole",
+            "sha256": "fdbebdc43bbcb733d8a4c466a2dbbe33a696280275d4136e7df754fb93da58fb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fdbebdc43bbcb733d8a4c466a2dbbe33a696280275d4136e7df754fb93da58fb"
+      },
+      "24": {
+        "source_ref": "Proverbs 21:24",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 24,
+            "source_ref": "Proverbs 21:24",
+            "segment_mode": "whole",
+            "sha256": "230f0fffd5d92126c3410187f4c299690c56e6acfb8f5e87b5f9e8d8e40099ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "230f0fffd5d92126c3410187f4c299690c56e6acfb8f5e87b5f9e8d8e40099ac"
+      },
+      "25": {
+        "source_ref": "Proverbs 21:25",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 25,
+            "source_ref": "Proverbs 21:25",
+            "segment_mode": "whole",
+            "sha256": "8e063024ff7b59c19ee959c2871039d89e5071644cdfbb24e5279c5dc22122b3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e063024ff7b59c19ee959c2871039d89e5071644cdfbb24e5279c5dc22122b3"
+      },
+      "26": {
+        "source_ref": "Proverbs 21:26",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 26,
+            "source_ref": "Proverbs 21:26",
+            "segment_mode": "whole",
+            "sha256": "f19ba0fef5dad5d55fb3a70441dd128edc078cab5bedbf5f04fba76fb6c509e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f19ba0fef5dad5d55fb3a70441dd128edc078cab5bedbf5f04fba76fb6c509e2"
+      },
+      "27": {
+        "source_ref": "Proverbs 21:27",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 27,
+            "source_ref": "Proverbs 21:27",
+            "segment_mode": "whole",
+            "sha256": "57d7c8b1be511e09837ef9933879977dc0290a51cb18e05d110eb9c6c8118584"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "57d7c8b1be511e09837ef9933879977dc0290a51cb18e05d110eb9c6c8118584"
+      },
+      "28": {
+        "source_ref": "Proverbs 21:28",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 28,
+            "source_ref": "Proverbs 21:28",
+            "segment_mode": "whole",
+            "sha256": "e4a57b6ab95548e57a54f61c0087ab358cc056a61914bf0e5b801a04fa57524f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e4a57b6ab95548e57a54f61c0087ab358cc056a61914bf0e5b801a04fa57524f"
+      },
+      "29": {
+        "source_ref": "Proverbs 21:29",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 29,
+            "source_ref": "Proverbs 21:29",
+            "segment_mode": "whole",
+            "sha256": "94c8a81d72bd74e97238aa52aaa0e4d898b0bfe8a78580c72807288c9d7d4bd9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "94c8a81d72bd74e97238aa52aaa0e4d898b0bfe8a78580c72807288c9d7d4bd9"
+      },
+      "30": {
+        "source_ref": "Proverbs 21:30",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 30,
+            "source_ref": "Proverbs 21:30",
+            "segment_mode": "whole",
+            "sha256": "6a5039323d829db348228c6ee7f6c3cc542d4e584d26a41a395a3d339c2b3f51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6a5039323d829db348228c6ee7f6c3cc542d4e584d26a41a395a3d339c2b3f51"
+      },
+      "31": {
+        "source_ref": "Proverbs 21:31",
+        "source_records": [
+          {
+            "chapter": 21,
+            "verse": 31,
+            "source_ref": "Proverbs 21:31",
+            "segment_mode": "whole",
+            "sha256": "f142227e593ac2d5d3d68cd0f28656d67f944c69622879b57982d8d7aba736b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f142227e593ac2d5d3d68cd0f28656d67f944c69622879b57982d8d7aba736b4"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/proverbs/Proverbs_21.md",
+    "blob_sha": "dce77ba18550098d9e24813d97e0233f625981e2"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,381 @@
+{
+  "book": "Proverbs",
+  "chapter": 5,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Proverbs 5:1",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 1,
+            "source_ref": "Proverbs 5:1",
+            "segment_mode": "whole",
+            "sha256": "fe1b331522cd9b425cfb417dff94f794e7be32256b55d32aa4dd3bcb8fd0d580"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fe1b331522cd9b425cfb417dff94f794e7be32256b55d32aa4dd3bcb8fd0d580"
+      },
+      "2": {
+        "source_ref": "Proverbs 5:2",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 2,
+            "source_ref": "Proverbs 5:2",
+            "segment_mode": "whole",
+            "sha256": "0522540172bd9592ab227a086fd23d35d074dc75b914e65e63f59a6ed2f8edda"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0522540172bd9592ab227a086fd23d35d074dc75b914e65e63f59a6ed2f8edda"
+      },
+      "3": {
+        "source_ref": "Proverbs 5:3",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 3,
+            "source_ref": "Proverbs 5:3",
+            "segment_mode": "whole",
+            "sha256": "de20ca7fdf99eec478955cc9d7f18bb1ef42980929e0b1fc1e8048d75200efe6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de20ca7fdf99eec478955cc9d7f18bb1ef42980929e0b1fc1e8048d75200efe6"
+      },
+      "4": {
+        "source_ref": "Proverbs 5:4",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 4,
+            "source_ref": "Proverbs 5:4",
+            "segment_mode": "whole",
+            "sha256": "7e59d1ebb61117c689dd16edcef37a2603c774e3f2ce9af084e14fb60d052381"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7e59d1ebb61117c689dd16edcef37a2603c774e3f2ce9af084e14fb60d052381"
+      },
+      "5": {
+        "source_ref": "Proverbs 5:5",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 5,
+            "source_ref": "Proverbs 5:5",
+            "segment_mode": "whole",
+            "sha256": "5b7d25c2fb49a8a404c515f232e51aea95a4956c6c818dcbc0278e08c0f567d5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5b7d25c2fb49a8a404c515f232e51aea95a4956c6c818dcbc0278e08c0f567d5"
+      },
+      "6": {
+        "source_ref": "Proverbs 5:6",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 6,
+            "source_ref": "Proverbs 5:6",
+            "segment_mode": "whole",
+            "sha256": "924ae1d763e730d8d9d04e6d47435afe1ee3c26cedc155b33c0f2784d61027be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "924ae1d763e730d8d9d04e6d47435afe1ee3c26cedc155b33c0f2784d61027be"
+      },
+      "7": {
+        "source_ref": "Proverbs 5:7",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 7,
+            "source_ref": "Proverbs 5:7",
+            "segment_mode": "whole",
+            "sha256": "ab40a3710e2905874fc9341856c16c002c5120b569e36f37c978ef0e9dd5fe47"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab40a3710e2905874fc9341856c16c002c5120b569e36f37c978ef0e9dd5fe47"
+      },
+      "8": {
+        "source_ref": "Proverbs 5:8",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 8,
+            "source_ref": "Proverbs 5:8",
+            "segment_mode": "whole",
+            "sha256": "ab8c3f5076b46866bfafddb8fceab4e4e9d5f2041eba5d6d9d748ba1ff93dfe4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab8c3f5076b46866bfafddb8fceab4e4e9d5f2041eba5d6d9d748ba1ff93dfe4"
+      },
+      "9": {
+        "source_ref": "Proverbs 5:9",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 9,
+            "source_ref": "Proverbs 5:9",
+            "segment_mode": "whole",
+            "sha256": "d5f067746acc606d2d1b2da9eec2a4229f59c8e171edef00e2f88c5bf67aad98"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d5f067746acc606d2d1b2da9eec2a4229f59c8e171edef00e2f88c5bf67aad98"
+      },
+      "10": {
+        "source_ref": "Proverbs 5:10",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 10,
+            "source_ref": "Proverbs 5:10",
+            "segment_mode": "whole",
+            "sha256": "540351f3dd21f9ae1afe162c28305266e9f472b6d2c3f05ba6c20fa6a7a93ef2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "540351f3dd21f9ae1afe162c28305266e9f472b6d2c3f05ba6c20fa6a7a93ef2"
+      },
+      "11": {
+        "source_ref": "Proverbs 5:11",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 11,
+            "source_ref": "Proverbs 5:11",
+            "segment_mode": "whole",
+            "sha256": "e8721f11d16d88ca0c386fb18251692a06f067935373d3cc3e4b38a43552e8dc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e8721f11d16d88ca0c386fb18251692a06f067935373d3cc3e4b38a43552e8dc"
+      },
+      "12": {
+        "source_ref": "Proverbs 5:12",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 12,
+            "source_ref": "Proverbs 5:12",
+            "segment_mode": "whole",
+            "sha256": "54ad2ae6e7b374a5f05516f55bdf1b0079e4ca0fb929dfb77dff44bfc5a5bddd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "54ad2ae6e7b374a5f05516f55bdf1b0079e4ca0fb929dfb77dff44bfc5a5bddd"
+      },
+      "13": {
+        "source_ref": "Proverbs 5:13",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 13,
+            "source_ref": "Proverbs 5:13",
+            "segment_mode": "whole",
+            "sha256": "7b76a39892255fb599ee4e863798556af430ba17ccbf564ca5a1fa25cf263009"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b76a39892255fb599ee4e863798556af430ba17ccbf564ca5a1fa25cf263009"
+      },
+      "14": {
+        "source_ref": "Proverbs 5:14",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 14,
+            "source_ref": "Proverbs 5:14",
+            "segment_mode": "whole",
+            "sha256": "68d7b4c44cee83acabb657676e3e7264fc79e7c573042389d92df8f75de965ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "68d7b4c44cee83acabb657676e3e7264fc79e7c573042389d92df8f75de965ad"
+      },
+      "15": {
+        "source_ref": "Proverbs 5:15",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 15,
+            "source_ref": "Proverbs 5:15",
+            "segment_mode": "whole",
+            "sha256": "7327efd26fb4e603a9969cbe1a540ad55ce8b732bf1b4ed3034bce102aa035e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7327efd26fb4e603a9969cbe1a540ad55ce8b732bf1b4ed3034bce102aa035e8"
+      },
+      "16": {
+        "source_ref": "Proverbs 5:16",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 16,
+            "source_ref": "Proverbs 5:16",
+            "segment_mode": "whole",
+            "sha256": "4aea3751f07912d48905a473569fc4033387d942a99d556f10013c95dc5c5a79"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4aea3751f07912d48905a473569fc4033387d942a99d556f10013c95dc5c5a79"
+      },
+      "17": {
+        "source_ref": "Proverbs 5:17",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 17,
+            "source_ref": "Proverbs 5:17",
+            "segment_mode": "whole",
+            "sha256": "3f166eb3acd31b8c73accef526b54982cbabb670171e8a1c23bd51c396d83f35"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f166eb3acd31b8c73accef526b54982cbabb670171e8a1c23bd51c396d83f35"
+      },
+      "18": {
+        "source_ref": "Proverbs 5:18",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 18,
+            "source_ref": "Proverbs 5:18",
+            "segment_mode": "whole",
+            "sha256": "faac253b45a4a53ad31fe1ee9163b5a86756865b03a4f6ab7e6d78719f9c605b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "faac253b45a4a53ad31fe1ee9163b5a86756865b03a4f6ab7e6d78719f9c605b"
+      },
+      "19": {
+        "source_ref": "Proverbs 5:19",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 19,
+            "source_ref": "Proverbs 5:19",
+            "segment_mode": "whole",
+            "sha256": "ae5d2c7f4553b4dc1738efbe9df0b2282b1b5b717d163f9881380a7cc1c886bf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ae5d2c7f4553b4dc1738efbe9df0b2282b1b5b717d163f9881380a7cc1c886bf"
+      },
+      "20": {
+        "source_ref": "Proverbs 5:20",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 20,
+            "source_ref": "Proverbs 5:20",
+            "segment_mode": "whole",
+            "sha256": "803d678f8eb4bc5f012d9b6f8f76f1728fc9854ce4199864e27632b1e296aad1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "803d678f8eb4bc5f012d9b6f8f76f1728fc9854ce4199864e27632b1e296aad1"
+      },
+      "21": {
+        "source_ref": "Proverbs 5:21",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 21,
+            "source_ref": "Proverbs 5:21",
+            "segment_mode": "whole",
+            "sha256": "e048beaba1d8966b7dc5982285ce3c38924a041214e4aa5c4e3ad5608bca94f8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e048beaba1d8966b7dc5982285ce3c38924a041214e4aa5c4e3ad5608bca94f8"
+      },
+      "22": {
+        "source_ref": "Proverbs 5:22",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 22,
+            "source_ref": "Proverbs 5:22",
+            "segment_mode": "whole",
+            "sha256": "0b57c842dbcb77de58676f64a8171a1a444d6602087550e4e77fc0a84e47d57c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b57c842dbcb77de58676f64a8171a1a444d6602087550e4e77fc0a84e47d57c"
+      },
+      "23": {
+        "source_ref": "Proverbs 5:23",
+        "source_records": [
+          {
+            "chapter": 5,
+            "verse": 23,
+            "source_ref": "Proverbs 5:23",
+            "segment_mode": "whole",
+            "sha256": "0f7534b4f0d87eae70a0ff77794bfaf5f2c5c52b49d54b1a28103cae5aff4bfd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f7534b4f0d87eae70a0ff77794bfaf5f2c5c52b49d54b1a28103cae5aff4bfd"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/proverbs/Proverbs_05.md",
+    "blob_sha": "732e1f5ce1e29fda0905c3b7cba6f655bd6fd47e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

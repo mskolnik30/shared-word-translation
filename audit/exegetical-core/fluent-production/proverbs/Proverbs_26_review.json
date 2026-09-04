@@ -1,0 +1,456 @@
+{
+  "book": "Proverbs",
+  "chapter": 26,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Proverbs 26:1",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 1,
+            "source_ref": "Proverbs 26:1",
+            "segment_mode": "whole",
+            "sha256": "437e0d8794652fd734ed947fad3b7c47656b8c738dd8a45dd5cf4c5873518c34"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "437e0d8794652fd734ed947fad3b7c47656b8c738dd8a45dd5cf4c5873518c34"
+      },
+      "2": {
+        "source_ref": "Proverbs 26:2",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 2,
+            "source_ref": "Proverbs 26:2",
+            "segment_mode": "whole",
+            "sha256": "a81ba0b090986d196512b300f38cf77b5a0e3851cd8ab30c08ae92bf5e488d40"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a81ba0b090986d196512b300f38cf77b5a0e3851cd8ab30c08ae92bf5e488d40"
+      },
+      "3": {
+        "source_ref": "Proverbs 26:3",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 3,
+            "source_ref": "Proverbs 26:3",
+            "segment_mode": "whole",
+            "sha256": "2f417c9ae3db5645dc4b167510f55299d7b49ec169fdd9528482fad9da882f17"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2f417c9ae3db5645dc4b167510f55299d7b49ec169fdd9528482fad9da882f17"
+      },
+      "4": {
+        "source_ref": "Proverbs 26:4",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 4,
+            "source_ref": "Proverbs 26:4",
+            "segment_mode": "whole",
+            "sha256": "952ea0f4911485aa369d45a782e89cef427c0bb9e636626e2ce1f6d171381bec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "952ea0f4911485aa369d45a782e89cef427c0bb9e636626e2ce1f6d171381bec"
+      },
+      "5": {
+        "source_ref": "Proverbs 26:5",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 5,
+            "source_ref": "Proverbs 26:5",
+            "segment_mode": "whole",
+            "sha256": "34fd8b3d951a329810c4a6f72e62d146e6bfb7a56cc10fbd9897fc4b7a2253f1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "34fd8b3d951a329810c4a6f72e62d146e6bfb7a56cc10fbd9897fc4b7a2253f1"
+      },
+      "6": {
+        "source_ref": "Proverbs 26:6",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 6,
+            "source_ref": "Proverbs 26:6",
+            "segment_mode": "whole",
+            "sha256": "3e7c2b64e6fe9d55a55ea350a619edb4d423d06b04d9d928013f6263a8569177"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3e7c2b64e6fe9d55a55ea350a619edb4d423d06b04d9d928013f6263a8569177"
+      },
+      "7": {
+        "source_ref": "Proverbs 26:7",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 7,
+            "source_ref": "Proverbs 26:7",
+            "segment_mode": "whole",
+            "sha256": "761f148ef8b68f7bbd8e93cf1720ac9c787415bdf1d206c93cafc5ca71d7cb8a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "761f148ef8b68f7bbd8e93cf1720ac9c787415bdf1d206c93cafc5ca71d7cb8a"
+      },
+      "8": {
+        "source_ref": "Proverbs 26:8",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 8,
+            "source_ref": "Proverbs 26:8",
+            "segment_mode": "whole",
+            "sha256": "45c06bbb859b851c735de020e1cc8028743f8f5395d6d33c97b26884cbd50c6d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45c06bbb859b851c735de020e1cc8028743f8f5395d6d33c97b26884cbd50c6d"
+      },
+      "9": {
+        "source_ref": "Proverbs 26:9",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 9,
+            "source_ref": "Proverbs 26:9",
+            "segment_mode": "whole",
+            "sha256": "892df554b24579dbda3177382142514d53f7a172b63f7f968facb86140dc0b68"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "892df554b24579dbda3177382142514d53f7a172b63f7f968facb86140dc0b68"
+      },
+      "10": {
+        "source_ref": "Proverbs 26:10",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 10,
+            "source_ref": "Proverbs 26:10",
+            "segment_mode": "whole",
+            "sha256": "e674ca2847b3c828a2b687cd783576244eb97b8601009999f5285ffce89fb707"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e674ca2847b3c828a2b687cd783576244eb97b8601009999f5285ffce89fb707"
+      },
+      "11": {
+        "source_ref": "Proverbs 26:11",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 11,
+            "source_ref": "Proverbs 26:11",
+            "segment_mode": "whole",
+            "sha256": "012c24b216a332ff76400d6482ab7a79a7cea24dead9361fd319913fa052fbb7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "012c24b216a332ff76400d6482ab7a79a7cea24dead9361fd319913fa052fbb7"
+      },
+      "12": {
+        "source_ref": "Proverbs 26:12",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 12,
+            "source_ref": "Proverbs 26:12",
+            "segment_mode": "whole",
+            "sha256": "20edf62aa19a3b5069b4794e02ea29ad25939a5f5d0ac9f71f9653b4ec72baaf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "20edf62aa19a3b5069b4794e02ea29ad25939a5f5d0ac9f71f9653b4ec72baaf"
+      },
+      "13": {
+        "source_ref": "Proverbs 26:13",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 13,
+            "source_ref": "Proverbs 26:13",
+            "segment_mode": "whole",
+            "sha256": "3344b53cb8a2501d83b205f32f14884427cb832acf26c6b1bcdc65b5a606576b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3344b53cb8a2501d83b205f32f14884427cb832acf26c6b1bcdc65b5a606576b"
+      },
+      "14": {
+        "source_ref": "Proverbs 26:14",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 14,
+            "source_ref": "Proverbs 26:14",
+            "segment_mode": "whole",
+            "sha256": "d53f1ea2899de7f13c5554a128023432d30282d33adaaef61df9a8d2407bcc5b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d53f1ea2899de7f13c5554a128023432d30282d33adaaef61df9a8d2407bcc5b"
+      },
+      "15": {
+        "source_ref": "Proverbs 26:15",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 15,
+            "source_ref": "Proverbs 26:15",
+            "segment_mode": "whole",
+            "sha256": "fbfca44435536c9aba1e25b130bce1faf018dec3219741f4d0106e8dbb74b1dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fbfca44435536c9aba1e25b130bce1faf018dec3219741f4d0106e8dbb74b1dd"
+      },
+      "16": {
+        "source_ref": "Proverbs 26:16",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 16,
+            "source_ref": "Proverbs 26:16",
+            "segment_mode": "whole",
+            "sha256": "0eae3ee5fa8a6de2045c3f315b9f702fcff26b24b87b1849927d47ea3155e22f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0eae3ee5fa8a6de2045c3f315b9f702fcff26b24b87b1849927d47ea3155e22f"
+      },
+      "17": {
+        "source_ref": "Proverbs 26:17",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 17,
+            "source_ref": "Proverbs 26:17",
+            "segment_mode": "whole",
+            "sha256": "1e10600b4e0139cdc773efc11bcf253b23f6b149d50dffa30377ea5e95582430"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1e10600b4e0139cdc773efc11bcf253b23f6b149d50dffa30377ea5e95582430"
+      },
+      "18": {
+        "source_ref": "Proverbs 26:18",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 18,
+            "source_ref": "Proverbs 26:18",
+            "segment_mode": "whole",
+            "sha256": "0f4b0825b121a3ae92f6bf9511a66cf82e81a2d161b333553641f18f173b6236"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f4b0825b121a3ae92f6bf9511a66cf82e81a2d161b333553641f18f173b6236"
+      },
+      "19": {
+        "source_ref": "Proverbs 26:19",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 19,
+            "source_ref": "Proverbs 26:19",
+            "segment_mode": "whole",
+            "sha256": "7c5777b99d684d3490d8b0b2aefc77174de7a0ffe186092fe893661f6839416e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7c5777b99d684d3490d8b0b2aefc77174de7a0ffe186092fe893661f6839416e"
+      },
+      "20": {
+        "source_ref": "Proverbs 26:20",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 20,
+            "source_ref": "Proverbs 26:20",
+            "segment_mode": "whole",
+            "sha256": "570c163a9120a5b041ede57354f0f8094958b770835d4fe0fb709952869e9f95"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "570c163a9120a5b041ede57354f0f8094958b770835d4fe0fb709952869e9f95"
+      },
+      "21": {
+        "source_ref": "Proverbs 26:21",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 21,
+            "source_ref": "Proverbs 26:21",
+            "segment_mode": "whole",
+            "sha256": "81784f3d4848e18ecbc4b3f8bcb4592218c98986d97d2d0e316b469206f13310"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81784f3d4848e18ecbc4b3f8bcb4592218c98986d97d2d0e316b469206f13310"
+      },
+      "22": {
+        "source_ref": "Proverbs 26:22",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 22,
+            "source_ref": "Proverbs 26:22",
+            "segment_mode": "whole",
+            "sha256": "88ea7691f5f25f1878e302a5c0254d14baa1e8d4a69ad5cacfefebd0553740b4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88ea7691f5f25f1878e302a5c0254d14baa1e8d4a69ad5cacfefebd0553740b4"
+      },
+      "23": {
+        "source_ref": "Proverbs 26:23",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 23,
+            "source_ref": "Proverbs 26:23",
+            "segment_mode": "whole",
+            "sha256": "686349a465a5ff04c393f78d919dee09a9dda7e2f9549f5617eadd368a233c3b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "686349a465a5ff04c393f78d919dee09a9dda7e2f9549f5617eadd368a233c3b"
+      },
+      "24": {
+        "source_ref": "Proverbs 26:24",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 24,
+            "source_ref": "Proverbs 26:24",
+            "segment_mode": "whole",
+            "sha256": "d2a5b63dbc8c6ab501989c19fb1addaede23c58934d0addf28aec3e3a585a268"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d2a5b63dbc8c6ab501989c19fb1addaede23c58934d0addf28aec3e3a585a268"
+      },
+      "25": {
+        "source_ref": "Proverbs 26:25",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 25,
+            "source_ref": "Proverbs 26:25",
+            "segment_mode": "whole",
+            "sha256": "70f4845146c591f23d38dedf809fa435d2a551ed7d8f8989d50c2d5d1a4c4852"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "70f4845146c591f23d38dedf809fa435d2a551ed7d8f8989d50c2d5d1a4c4852"
+      },
+      "26": {
+        "source_ref": "Proverbs 26:26",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 26,
+            "source_ref": "Proverbs 26:26",
+            "segment_mode": "whole",
+            "sha256": "0725134b498a56a672348ed23cd4574c189684eaa8a86081b5ccb45b7350de58"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0725134b498a56a672348ed23cd4574c189684eaa8a86081b5ccb45b7350de58"
+      },
+      "27": {
+        "source_ref": "Proverbs 26:27",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 27,
+            "source_ref": "Proverbs 26:27",
+            "segment_mode": "whole",
+            "sha256": "bdc5fe6fe892057c7fb849db90b09f5e18b5c4a3546f888b3a8f672403aae704"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bdc5fe6fe892057c7fb849db90b09f5e18b5c4a3546f888b3a8f672403aae704"
+      },
+      "28": {
+        "source_ref": "Proverbs 26:28",
+        "source_records": [
+          {
+            "chapter": 26,
+            "verse": 28,
+            "source_ref": "Proverbs 26:28",
+            "segment_mode": "whole",
+            "sha256": "aca5cb97837b50e1fb2698fc04ff4c154133ec993f799ff60f1ea549dc447814"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aca5cb97837b50e1fb2698fc04ff4c154133ec993f799ff60f1ea549dc447814"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/proverbs/Proverbs_26.md",
+    "blob_sha": "ae612454e819bd8fbeb367b7cc9fe6dd7d6a8ad4"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

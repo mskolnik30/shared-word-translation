@@ -1,0 +1,199 @@
+{
+  "book": "Proverbs",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 31,
+  "public_verse_slots": 915,
+  "included_verse_labels": 915,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 915,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Prov.xml",
+    "git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-7",
+      "decision": "Keep wisdom, discipline, discernment, and fear of the LORD as the collection's interpretive foundation.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "1:8-9:18",
+      "decision": "Preserve parental instruction, Woman Wisdom, the strange woman, and competing invitations as rhetoric; do not turn the gendered figures into judgments on all women.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "10:1-22:16",
+      "decision": "Translate the sayings as compressed wisdom observations rather than unconditional promises that blame sufferers.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "22:17-24:34",
+      "decision": "Retain the collection boundaries and keep justice for poor and vulnerable people visible.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "25:1-29:27",
+      "decision": "Preserve the Hezekiah collection's royal, communal, economic, and interpersonal settings.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "30:1-33",
+      "decision": "Keep Agur's humility, numerical sayings, imagery, and textual ambiguities without overexplaining them.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "31:1-9",
+      "decision": "Retain the queen mother's instruction about self-control, just judgment, and advocacy for vulnerable people.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "31:10-31",
+      "decision": "Preserve the woman of strength's economic agency, wisdom, generosity, household leadership, and praise rather than turning the poem into a restrictive domestic checklist.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_05",
+  "deployment_audit": {
+    "source_git_blob_sha": "48936473db9f656c1ebf010360d61353eb737b90",
+    "source_binding_count": 915,
+    "unique_source_record_count": 915,
+    "public_verse_slots": 915,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 915
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/proverbs/Proverbs_01.md",
+        "blob_sha": "6e9746d8d652b3465af1ba704ba19658e11aca73"
+      },
+      "02": {
+        "path": "books/OT/proverbs/Proverbs_02.md",
+        "blob_sha": "47cfd9233c14266e24785fa9fb72c4be96f65b70"
+      },
+      "03": {
+        "path": "books/OT/proverbs/Proverbs_03.md",
+        "blob_sha": "959cf999f658953f7d3ea6f9909e7e7c0c439de6"
+      },
+      "04": {
+        "path": "books/OT/proverbs/Proverbs_04.md",
+        "blob_sha": "512f0038df599a5e909378a5d3590248bf8462a0"
+      },
+      "05": {
+        "path": "books/OT/proverbs/Proverbs_05.md",
+        "blob_sha": "732e1f5ce1e29fda0905c3b7cba6f655bd6fd47e"
+      },
+      "06": {
+        "path": "books/OT/proverbs/Proverbs_06.md",
+        "blob_sha": "46738943f888a87ccc32c7fc5f211c6ed5d72425"
+      },
+      "07": {
+        "path": "books/OT/proverbs/Proverbs_07.md",
+        "blob_sha": "8666860d4d127d22115d6867248f1e4f0590cbd2"
+      },
+      "08": {
+        "path": "books/OT/proverbs/Proverbs_08.md",
+        "blob_sha": "1ecb3916681aa0aa65ac78932597a652297b5be0"
+      },
+      "09": {
+        "path": "books/OT/proverbs/Proverbs_09.md",
+        "blob_sha": "79ec9941d72542a2acab31a745309d4d35ac7531"
+      },
+      "10": {
+        "path": "books/OT/proverbs/Proverbs_10.md",
+        "blob_sha": "ee253bc23ee8a9e283ad4d3e5d69e2e78619e441"
+      },
+      "11": {
+        "path": "books/OT/proverbs/Proverbs_11.md",
+        "blob_sha": "75f9bd3ac61ac2066d0c3a60010d83ad5e0626b5"
+      },
+      "12": {
+        "path": "books/OT/proverbs/Proverbs_12.md",
+        "blob_sha": "87ab9b0482ef4813dca24fa6d60efdd74638d7ca"
+      },
+      "13": {
+        "path": "books/OT/proverbs/Proverbs_13.md",
+        "blob_sha": "b2dcc5de71ef426da399c75bd6ac9df213867bcd"
+      },
+      "14": {
+        "path": "books/OT/proverbs/Proverbs_14.md",
+        "blob_sha": "f9b125e2d292d093f90d22961165392158110c13"
+      },
+      "15": {
+        "path": "books/OT/proverbs/Proverbs_15.md",
+        "blob_sha": "bea6790dcf40ee78d291ffb7b5e9a6ec78da244a"
+      },
+      "16": {
+        "path": "books/OT/proverbs/Proverbs_16.md",
+        "blob_sha": "b6d5d02349f90ab6d2a4b82397fcd228eeea13ff"
+      },
+      "17": {
+        "path": "books/OT/proverbs/Proverbs_17.md",
+        "blob_sha": "6be6ab6afea7f8aaaf138e008bf61af3a7774234"
+      },
+      "18": {
+        "path": "books/OT/proverbs/Proverbs_18.md",
+        "blob_sha": "fbaca6b2a4627f98a36920154ae72d22f7781a73"
+      },
+      "19": {
+        "path": "books/OT/proverbs/Proverbs_19.md",
+        "blob_sha": "01dd3e5a73c97c77bdb2d4071dc1bc1a12001356"
+      },
+      "20": {
+        "path": "books/OT/proverbs/Proverbs_20.md",
+        "blob_sha": "042b06eb69bbdfc5269a10b3ba00b383ecf44138"
+      },
+      "21": {
+        "path": "books/OT/proverbs/Proverbs_21.md",
+        "blob_sha": "dce77ba18550098d9e24813d97e0233f625981e2"
+      },
+      "22": {
+        "path": "books/OT/proverbs/Proverbs_22.md",
+        "blob_sha": "4a3ed5ace9c3a4897ef29909aa16c402a2c7edb8"
+      },
+      "23": {
+        "path": "books/OT/proverbs/Proverbs_23.md",
+        "blob_sha": "9c5f9cd1cb3c05ddae1c1f6a8dfa0364dc54252e"
+      },
+      "24": {
+        "path": "books/OT/proverbs/Proverbs_24.md",
+        "blob_sha": "3b4a05f44f4a02dd69810c99a6602dabee837ffd"
+      },
+      "25": {
+        "path": "books/OT/proverbs/Proverbs_25.md",
+        "blob_sha": "83de83563c192bf5069306d1227bd5d0c6a24919"
+      },
+      "26": {
+        "path": "books/OT/proverbs/Proverbs_26.md",
+        "blob_sha": "ae612454e819bd8fbeb367b7cc9fe6dd7d6a8ad4"
+      },
+      "27": {
+        "path": "books/OT/proverbs/Proverbs_27.md",
+        "blob_sha": "09542775bd8cd555258881d53beb3b3cbb707414"
+      },
+      "28": {
+        "path": "books/OT/proverbs/Proverbs_28.md",
+        "blob_sha": "d310639cdfa25b477dc1ec49c727c00e68bfbb03"
+      },
+      "29": {
+        "path": "books/OT/proverbs/Proverbs_29.md",
+        "blob_sha": "aeb765cb3976d193a872a6b1ec1371115a67c5f4"
+      },
+      "30": {
+        "path": "books/OT/proverbs/Proverbs_30.md",
+        "blob_sha": "ae1e86aa95e8c9f1cec89264cd3fa63784b57e5d"
+      },
+      "31": {
+        "path": "books/OT/proverbs/Proverbs_31.md",
+        "blob_sha": "e2de23d574c8a7efc76f18e845446777ad16b0f7"
+      }
+    }
+  }
+}
