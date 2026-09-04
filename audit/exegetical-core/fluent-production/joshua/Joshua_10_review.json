@@ -1,0 +1,687 @@
+{
+  "book": "Joshua",
+  "chapter": 10,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "10:1-12:24",
+      "decision": "Retain the warfare and cosmic imagery while resisting speculative scientific harmonization or modern political application.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joshua 10:1",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 1,
+            "source_ref": "Joshua 10:1",
+            "segment_mode": "whole",
+            "sha256": "71d06e158594fb622148e94e0c4a9e223758a022bb4518cc8359b78a387a9095"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71d06e158594fb622148e94e0c4a9e223758a022bb4518cc8359b78a387a9095"
+      },
+      "2": {
+        "source_ref": "Joshua 10:2",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 2,
+            "source_ref": "Joshua 10:2",
+            "segment_mode": "whole",
+            "sha256": "b47285f52d55f8482e815a276587f622fe4e7ef7be95672423da87d776d8873d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b47285f52d55f8482e815a276587f622fe4e7ef7be95672423da87d776d8873d"
+      },
+      "3": {
+        "source_ref": "Joshua 10:3",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 3,
+            "source_ref": "Joshua 10:3",
+            "segment_mode": "whole",
+            "sha256": "f3fc0e833c27a94529e32dc807debcb6514fe398eae0d1fd5a990b286993be89"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f3fc0e833c27a94529e32dc807debcb6514fe398eae0d1fd5a990b286993be89"
+      },
+      "4": {
+        "source_ref": "Joshua 10:4",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 4,
+            "source_ref": "Joshua 10:4",
+            "segment_mode": "whole",
+            "sha256": "a9f2c0188f2224af0ccd73892300680fcc9207e961d984adcc5e0798a7df421d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a9f2c0188f2224af0ccd73892300680fcc9207e961d984adcc5e0798a7df421d"
+      },
+      "5": {
+        "source_ref": "Joshua 10:5",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 5,
+            "source_ref": "Joshua 10:5",
+            "segment_mode": "whole",
+            "sha256": "eb059f83bb117ad2c94055054564dd183f0fb9e0094892e9ec21d3e5c9fd01f1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "eb059f83bb117ad2c94055054564dd183f0fb9e0094892e9ec21d3e5c9fd01f1"
+      },
+      "6": {
+        "source_ref": "Joshua 10:6",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 6,
+            "source_ref": "Joshua 10:6",
+            "segment_mode": "whole",
+            "sha256": "41683abf14145ff5f9b947ef3040bbeaef8579b157b4e1376047a79fe4648194"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "41683abf14145ff5f9b947ef3040bbeaef8579b157b4e1376047a79fe4648194"
+      },
+      "7": {
+        "source_ref": "Joshua 10:7",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 7,
+            "source_ref": "Joshua 10:7",
+            "segment_mode": "whole",
+            "sha256": "ee696f65db0fead12ce7a40909a172ce7036e2f5efa95ed4df4f12e58361839f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee696f65db0fead12ce7a40909a172ce7036e2f5efa95ed4df4f12e58361839f"
+      },
+      "8": {
+        "source_ref": "Joshua 10:8",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 8,
+            "source_ref": "Joshua 10:8",
+            "segment_mode": "whole",
+            "sha256": "bead02defc36ef7d79aec5344824321989c41b05053ee81523b1a3dc2d902571"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bead02defc36ef7d79aec5344824321989c41b05053ee81523b1a3dc2d902571"
+      },
+      "9": {
+        "source_ref": "Joshua 10:9",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 9,
+            "source_ref": "Joshua 10:9",
+            "segment_mode": "whole",
+            "sha256": "a127e84fbbc9d0d383f32013d1252ad236fea67ca4416fa8d8af65256accb5eb"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a127e84fbbc9d0d383f32013d1252ad236fea67ca4416fa8d8af65256accb5eb"
+      },
+      "10": {
+        "source_ref": "Joshua 10:10",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 10,
+            "source_ref": "Joshua 10:10",
+            "segment_mode": "whole",
+            "sha256": "812a1e14e60980f27ef302a840bd556794d1c124760f0d7d58a2c35253dc36c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "812a1e14e60980f27ef302a840bd556794d1c124760f0d7d58a2c35253dc36c8"
+      },
+      "11": {
+        "source_ref": "Joshua 10:11",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 11,
+            "source_ref": "Joshua 10:11",
+            "segment_mode": "whole",
+            "sha256": "a260643c0e1628801b79f098738bb8788ada217a9c65f71c7847c24daf6353dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a260643c0e1628801b79f098738bb8788ada217a9c65f71c7847c24daf6353dd"
+      },
+      "12": {
+        "source_ref": "Joshua 10:12",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 12,
+            "source_ref": "Joshua 10:12",
+            "segment_mode": "whole",
+            "sha256": "f5ae26a4a62e10760364a66697de3cb52088a8ee1fe1b53b2bf67e18c882c1ac"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f5ae26a4a62e10760364a66697de3cb52088a8ee1fe1b53b2bf67e18c882c1ac"
+      },
+      "13": {
+        "source_ref": "Joshua 10:13",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 13,
+            "source_ref": "Joshua 10:13",
+            "segment_mode": "whole",
+            "sha256": "5934a418cb7e13c1ec2d4c5a24768773c1a2be731969d39c31804fb3ccd0ccd6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5934a418cb7e13c1ec2d4c5a24768773c1a2be731969d39c31804fb3ccd0ccd6"
+      },
+      "14": {
+        "source_ref": "Joshua 10:14",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 14,
+            "source_ref": "Joshua 10:14",
+            "segment_mode": "whole",
+            "sha256": "b535563c82fd2a109636086f8e164bbd0a7e74e581457e0fec1a7a53e6b8c83f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b535563c82fd2a109636086f8e164bbd0a7e74e581457e0fec1a7a53e6b8c83f"
+      },
+      "15": {
+        "source_ref": "Joshua 10:15",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 15,
+            "source_ref": "Joshua 10:15",
+            "segment_mode": "whole",
+            "sha256": "893b9eef5d7876a28d24189cdc325ca68425fd38bb7b8d7b3a9f28db751fce59"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "893b9eef5d7876a28d24189cdc325ca68425fd38bb7b8d7b3a9f28db751fce59"
+      },
+      "16": {
+        "source_ref": "Joshua 10:16",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 16,
+            "source_ref": "Joshua 10:16",
+            "segment_mode": "whole",
+            "sha256": "67627e749d8ee0a43ea5afc8dd77d2a6ec9b33b0bf71d4c776de6c9f8178db0f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "67627e749d8ee0a43ea5afc8dd77d2a6ec9b33b0bf71d4c776de6c9f8178db0f"
+      },
+      "17": {
+        "source_ref": "Joshua 10:17",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 17,
+            "source_ref": "Joshua 10:17",
+            "segment_mode": "whole",
+            "sha256": "8e5fbad7a52eec292b7d84f5db7c3bd2f1d5185b7f9ac3be0e6c3daae256d7b5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8e5fbad7a52eec292b7d84f5db7c3bd2f1d5185b7f9ac3be0e6c3daae256d7b5"
+      },
+      "18": {
+        "source_ref": "Joshua 10:18",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 18,
+            "source_ref": "Joshua 10:18",
+            "segment_mode": "whole",
+            "sha256": "dfaaf118d2c23145f841537a50f5e93bd1d2a653ce1cde0bd68bb2ea78f26675"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dfaaf118d2c23145f841537a50f5e93bd1d2a653ce1cde0bd68bb2ea78f26675"
+      },
+      "19": {
+        "source_ref": "Joshua 10:19",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 19,
+            "source_ref": "Joshua 10:19",
+            "segment_mode": "whole",
+            "sha256": "5aeb3f574ba8b0679163587651bb713a9c3be9b765232c6517647ce7d3c7ee24"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5aeb3f574ba8b0679163587651bb713a9c3be9b765232c6517647ce7d3c7ee24"
+      },
+      "20": {
+        "source_ref": "Joshua 10:20",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 20,
+            "source_ref": "Joshua 10:20",
+            "segment_mode": "whole",
+            "sha256": "aa3b8cd4944d9cff43ebab8c39eb3e2a15142a8579634336998ff0c6deb8b51f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa3b8cd4944d9cff43ebab8c39eb3e2a15142a8579634336998ff0c6deb8b51f"
+      },
+      "21": {
+        "source_ref": "Joshua 10:21",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 21,
+            "source_ref": "Joshua 10:21",
+            "segment_mode": "whole",
+            "sha256": "fd035304018b66afef03cad7bccf52f88a8ff85eef287389e9cccdc0fced85d2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd035304018b66afef03cad7bccf52f88a8ff85eef287389e9cccdc0fced85d2"
+      },
+      "22": {
+        "source_ref": "Joshua 10:22",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 22,
+            "source_ref": "Joshua 10:22",
+            "segment_mode": "whole",
+            "sha256": "7b19df7924d97fcb69d740964eb73049b9aefeb2c93498a8973c34b69f733b1f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b19df7924d97fcb69d740964eb73049b9aefeb2c93498a8973c34b69f733b1f"
+      },
+      "23": {
+        "source_ref": "Joshua 10:23",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 23,
+            "source_ref": "Joshua 10:23",
+            "segment_mode": "whole",
+            "sha256": "0f93577961b63f7fce2152d5d2f8a7e0a8a31ca76d021a620ce88887307d4382"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0f93577961b63f7fce2152d5d2f8a7e0a8a31ca76d021a620ce88887307d4382"
+      },
+      "24": {
+        "source_ref": "Joshua 10:24",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 24,
+            "source_ref": "Joshua 10:24",
+            "segment_mode": "whole",
+            "sha256": "ee38f2dccb61f7fa17bb4fea44e38d610c952179a5cd99e80428c12837e97ab4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ee38f2dccb61f7fa17bb4fea44e38d610c952179a5cd99e80428c12837e97ab4"
+      },
+      "25": {
+        "source_ref": "Joshua 10:25",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 25,
+            "source_ref": "Joshua 10:25",
+            "segment_mode": "whole",
+            "sha256": "74c9cbd0c9ac3adc3782d9fc89fef1cf1e84b2ee89c082dfa6e6e6bb1e1500ad"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "74c9cbd0c9ac3adc3782d9fc89fef1cf1e84b2ee89c082dfa6e6e6bb1e1500ad"
+      },
+      "26": {
+        "source_ref": "Joshua 10:26",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 26,
+            "source_ref": "Joshua 10:26",
+            "segment_mode": "whole",
+            "sha256": "0e79da08a2acd56985922760696eaecdde97107c3db452ba9a43e0a750b3000d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0e79da08a2acd56985922760696eaecdde97107c3db452ba9a43e0a750b3000d"
+      },
+      "27": {
+        "source_ref": "Joshua 10:27",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 27,
+            "source_ref": "Joshua 10:27",
+            "segment_mode": "whole",
+            "sha256": "0671b4503cb0580602755ae3fc13d4113c7c2ee31f00670f710fbc496e4f606b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0671b4503cb0580602755ae3fc13d4113c7c2ee31f00670f710fbc496e4f606b"
+      },
+      "28": {
+        "source_ref": "Joshua 10:28",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 28,
+            "source_ref": "Joshua 10:28",
+            "segment_mode": "whole",
+            "sha256": "7741054781738f36e5e1d6958a7c69d7ba8dbe0684e3ec4f43183987805e7b6b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7741054781738f36e5e1d6958a7c69d7ba8dbe0684e3ec4f43183987805e7b6b"
+      },
+      "29": {
+        "source_ref": "Joshua 10:29",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 29,
+            "source_ref": "Joshua 10:29",
+            "segment_mode": "whole",
+            "sha256": "e66aea64e0c1d759d5dafd66a2823e13596271bb3d7ab07a22975018867863fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e66aea64e0c1d759d5dafd66a2823e13596271bb3d7ab07a22975018867863fc"
+      },
+      "30": {
+        "source_ref": "Joshua 10:30",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 30,
+            "source_ref": "Joshua 10:30",
+            "segment_mode": "whole",
+            "sha256": "ff441395709961da303e3e1cf00b5054f771574df84a791d997e49bf4283ea57"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ff441395709961da303e3e1cf00b5054f771574df84a791d997e49bf4283ea57"
+      },
+      "31": {
+        "source_ref": "Joshua 10:31",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 31,
+            "source_ref": "Joshua 10:31",
+            "segment_mode": "whole",
+            "sha256": "358aef494b286a9b59c6b4f547cec765ca4ed9fb3dccedf66d4139779fb359b8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "358aef494b286a9b59c6b4f547cec765ca4ed9fb3dccedf66d4139779fb359b8"
+      },
+      "32": {
+        "source_ref": "Joshua 10:32",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 32,
+            "source_ref": "Joshua 10:32",
+            "segment_mode": "whole",
+            "sha256": "27137b81b98ab70dda46bfc7ac8424ed582b6599770dcda73dfb715895a0383a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "27137b81b98ab70dda46bfc7ac8424ed582b6599770dcda73dfb715895a0383a"
+      },
+      "33": {
+        "source_ref": "Joshua 10:33",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 33,
+            "source_ref": "Joshua 10:33",
+            "segment_mode": "whole",
+            "sha256": "4088f928b4fb14a775d059fc6f6e8d72dba67534ce2ba4fa8e6a75ebf31a9c2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4088f928b4fb14a775d059fc6f6e8d72dba67534ce2ba4fa8e6a75ebf31a9c2c"
+      },
+      "34": {
+        "source_ref": "Joshua 10:34",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 34,
+            "source_ref": "Joshua 10:34",
+            "segment_mode": "whole",
+            "sha256": "c5bacda9fb5033e0bc57ab308f205eac6b8efc469f524d4ec165cadf576ae815"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c5bacda9fb5033e0bc57ab308f205eac6b8efc469f524d4ec165cadf576ae815"
+      },
+      "35": {
+        "source_ref": "Joshua 10:35",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 35,
+            "source_ref": "Joshua 10:35",
+            "segment_mode": "whole",
+            "sha256": "5359625d8faa4d0cae6d82813aafe22bf9425ab36f6d43a2b8a94ce3bf7a5a01"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5359625d8faa4d0cae6d82813aafe22bf9425ab36f6d43a2b8a94ce3bf7a5a01"
+      },
+      "36": {
+        "source_ref": "Joshua 10:36",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 36,
+            "source_ref": "Joshua 10:36",
+            "segment_mode": "whole",
+            "sha256": "f37fffb6315acc6d541e919c357412d1e3422335a6a057e63c275bca6df8a83c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f37fffb6315acc6d541e919c357412d1e3422335a6a057e63c275bca6df8a83c"
+      },
+      "37": {
+        "source_ref": "Joshua 10:37",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 37,
+            "source_ref": "Joshua 10:37",
+            "segment_mode": "whole",
+            "sha256": "17f69789b59c7b0053f640981f4f9a3cf7258296e208055b28c4372ba4ed6f4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "17f69789b59c7b0053f640981f4f9a3cf7258296e208055b28c4372ba4ed6f4e"
+      },
+      "38": {
+        "source_ref": "Joshua 10:38",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 38,
+            "source_ref": "Joshua 10:38",
+            "segment_mode": "whole",
+            "sha256": "df6aae6e3fd76c68e2784ccfabbfb27e7949c8b79d9a71047a1dddcfe5e302ec"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "df6aae6e3fd76c68e2784ccfabbfb27e7949c8b79d9a71047a1dddcfe5e302ec"
+      },
+      "39": {
+        "source_ref": "Joshua 10:39",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 39,
+            "source_ref": "Joshua 10:39",
+            "segment_mode": "whole",
+            "sha256": "c6fa3dd547cf42724cccbce26db97bee7eaeef8b8863b816a3c326672c0c5392"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c6fa3dd547cf42724cccbce26db97bee7eaeef8b8863b816a3c326672c0c5392"
+      },
+      "40": {
+        "source_ref": "Joshua 10:40",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 40,
+            "source_ref": "Joshua 10:40",
+            "segment_mode": "whole",
+            "sha256": "aceb9d1b68b37589f100b1c11847ee98dc38d19b4b8f2f68161f87b5c859d1d3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aceb9d1b68b37589f100b1c11847ee98dc38d19b4b8f2f68161f87b5c859d1d3"
+      },
+      "41": {
+        "source_ref": "Joshua 10:41",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 41,
+            "source_ref": "Joshua 10:41",
+            "segment_mode": "whole",
+            "sha256": "f163c1a02e98d6b0e87a324a178f0efcae490158c2224fa73493d794d0741b4b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f163c1a02e98d6b0e87a324a178f0efcae490158c2224fa73493d794d0741b4b"
+      },
+      "42": {
+        "source_ref": "Joshua 10:42",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 42,
+            "source_ref": "Joshua 10:42",
+            "segment_mode": "whole",
+            "sha256": "e2df731d02ade1a52cd7477adf53980689bb43d48628490c790615e626567a9d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2df731d02ade1a52cd7477adf53980689bb43d48628490c790615e626567a9d"
+      },
+      "43": {
+        "source_ref": "Joshua 10:43",
+        "source_records": [
+          {
+            "chapter": 10,
+            "verse": 43,
+            "source_ref": "Joshua 10:43",
+            "segment_mode": "whole",
+            "sha256": "fd0a8256df85f9ebc0031f0549c6ae8744649a1e27223b026b7e793c449f94a4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "fd0a8256df85f9ebc0031f0549c6ae8744649a1e27223b026b7e793c449f94a4"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joshua/Joshua_10.md",
+    "blob_sha": "b76be4e17eb6ea04ca1b66a83a7c824af8d8cbda"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

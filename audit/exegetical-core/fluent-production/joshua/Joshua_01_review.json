@@ -1,0 +1,312 @@
+{
+  "book": "Joshua",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-18",
+      "decision": "Keep succession, courage, Torah fidelity, land promise, and communal responsibility together.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joshua 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Joshua 1:1",
+            "segment_mode": "whole",
+            "sha256": "40572e92fe07f3685dc0a11280f0d87afa9bcf01426af6ab97230c02558c9f52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "40572e92fe07f3685dc0a11280f0d87afa9bcf01426af6ab97230c02558c9f52"
+      },
+      "2": {
+        "source_ref": "Joshua 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Joshua 1:2",
+            "segment_mode": "whole",
+            "sha256": "691eecdbbec19797b03d7cb550e68652d2f086e359971e687264c93f2aa49964"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "691eecdbbec19797b03d7cb550e68652d2f086e359971e687264c93f2aa49964"
+      },
+      "3": {
+        "source_ref": "Joshua 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Joshua 1:3",
+            "segment_mode": "whole",
+            "sha256": "f4855fec3af9e152b433758fcc34e8134c2737652c16f509a611f709db7bdf2c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f4855fec3af9e152b433758fcc34e8134c2737652c16f509a611f709db7bdf2c"
+      },
+      "4": {
+        "source_ref": "Joshua 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Joshua 1:4",
+            "segment_mode": "whole",
+            "sha256": "a4a85c226a80ab93e43a6fc72c22e082990f3e57cdc783edf7645f53365b8253"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a4a85c226a80ab93e43a6fc72c22e082990f3e57cdc783edf7645f53365b8253"
+      },
+      "5": {
+        "source_ref": "Joshua 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Joshua 1:5",
+            "segment_mode": "whole",
+            "sha256": "d26f8542e8e00a766721bb952478a54765cb0ff20e82b7d7229a3596e4adc8c8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d26f8542e8e00a766721bb952478a54765cb0ff20e82b7d7229a3596e4adc8c8"
+      },
+      "6": {
+        "source_ref": "Joshua 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Joshua 1:6",
+            "segment_mode": "whole",
+            "sha256": "a2bee52a68514146c9ea4055b771701f20361d93af6414b28029b69f9874e0e8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a2bee52a68514146c9ea4055b771701f20361d93af6414b28029b69f9874e0e8"
+      },
+      "7": {
+        "source_ref": "Joshua 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Joshua 1:7",
+            "segment_mode": "whole",
+            "sha256": "0b5090c78aa717b1e51e6a8e0c60b0fa0e274208ea080ff3caa0ec3021c583b0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0b5090c78aa717b1e51e6a8e0c60b0fa0e274208ea080ff3caa0ec3021c583b0"
+      },
+      "8": {
+        "source_ref": "Joshua 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Joshua 1:8",
+            "segment_mode": "whole",
+            "sha256": "d681ca388212992023ba4d8c17e6c6eea1fd00940e94b7a2b70075245d6cfc52"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d681ca388212992023ba4d8c17e6c6eea1fd00940e94b7a2b70075245d6cfc52"
+      },
+      "9": {
+        "source_ref": "Joshua 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Joshua 1:9",
+            "segment_mode": "whole",
+            "sha256": "011209465e4acc425338cfea639a5ecb9ba9caca0f7765f77e6757d6a8fab3c4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "011209465e4acc425338cfea639a5ecb9ba9caca0f7765f77e6757d6a8fab3c4"
+      },
+      "10": {
+        "source_ref": "Joshua 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Joshua 1:10",
+            "segment_mode": "whole",
+            "sha256": "90f1d92e498ea4c94ce5ce44d6be06826945f6c50da18ae3639f98c1733634cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "90f1d92e498ea4c94ce5ce44d6be06826945f6c50da18ae3639f98c1733634cf"
+      },
+      "11": {
+        "source_ref": "Joshua 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Joshua 1:11",
+            "segment_mode": "whole",
+            "sha256": "81ed5e2909aa45f20531b4aaf0dfe1a9350591b2f4dd07b57d759ec0b773b087"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "81ed5e2909aa45f20531b4aaf0dfe1a9350591b2f4dd07b57d759ec0b773b087"
+      },
+      "12": {
+        "source_ref": "Joshua 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Joshua 1:12",
+            "segment_mode": "whole",
+            "sha256": "4c3644e4f4be426b1b0aa21e663ff58fa0d607c0a27b9552fac0a488229ce495"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4c3644e4f4be426b1b0aa21e663ff58fa0d607c0a27b9552fac0a488229ce495"
+      },
+      "13": {
+        "source_ref": "Joshua 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Joshua 1:13",
+            "segment_mode": "whole",
+            "sha256": "8923d25b90a8b92b768b10d2e2725533c34fa6379eb7c7b727603d74bf776c8d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8923d25b90a8b92b768b10d2e2725533c34fa6379eb7c7b727603d74bf776c8d"
+      },
+      "14": {
+        "source_ref": "Joshua 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Joshua 1:14",
+            "segment_mode": "whole",
+            "sha256": "6fde6fc98b7b5e43f2c480e27bef28b7452394b2074299d0671e1c56dc69c7de"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6fde6fc98b7b5e43f2c480e27bef28b7452394b2074299d0671e1c56dc69c7de"
+      },
+      "15": {
+        "source_ref": "Joshua 1:15",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Joshua 1:15",
+            "segment_mode": "whole",
+            "sha256": "9f8d8c5ec33f9ed59f86748e5a919e02967efb7c1517e7b747e979dc30ec4170"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9f8d8c5ec33f9ed59f86748e5a919e02967efb7c1517e7b747e979dc30ec4170"
+      },
+      "16": {
+        "source_ref": "Joshua 1:16",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 16,
+            "source_ref": "Joshua 1:16",
+            "segment_mode": "whole",
+            "sha256": "c3a3834d197291ade26e33865820c6cf80fc80f14abc76222da293b28ef9310e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c3a3834d197291ade26e33865820c6cf80fc80f14abc76222da293b28ef9310e"
+      },
+      "17": {
+        "source_ref": "Joshua 1:17",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 17,
+            "source_ref": "Joshua 1:17",
+            "segment_mode": "whole",
+            "sha256": "a6b07f9c2acb153f7377f07450074a647bbe13978f4f24ec7065b4e1fb10f5e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6b07f9c2acb153f7377f07450074a647bbe13978f4f24ec7065b4e1fb10f5e6"
+      },
+      "18": {
+        "source_ref": "Joshua 1:18",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 18,
+            "source_ref": "Joshua 1:18",
+            "segment_mode": "whole",
+            "sha256": "18342dce14ebc6de139a34abdc029ade07f0728a6307e7dceffa9b9d8028f85e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "18342dce14ebc6de139a34abdc029ade07f0728a6307e7dceffa9b9d8028f85e"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joshua/Joshua_01.md",
+    "blob_sha": "2b364309ee9a55a0878115c30d54af6ab0cf0324"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

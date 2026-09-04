@@ -1,0 +1,176 @@
+{
+  "book": "Joshua",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 24,
+  "public_verse_slots": 658,
+  "included_verse_labels": 658,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 658,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-18",
+      "decision": "Keep succession, courage, Torah fidelity, land promise, and communal responsibility together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "2:1-24",
+      "decision": "Preserve Rahab's agency, risk, confession, negotiation, and protection of her household.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "5:13-6:27",
+      "decision": "Translate Jericho and herem plainly in their ancient conquest narrative; do not make the violence a warrant for modern war or dispossession.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "7:1-26",
+      "decision": "Retain the troubling corporate dimensions of Achan's offense and punishment rather than smoothing them away.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:30-35",
+      "decision": "Keep altar, Torah inscription, blessing, curse, and the inclusion of resident aliens in the covenant assembly.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:1-27",
+      "decision": "Preserve the Gibeonites' strategy, Israel's failed inquiry, sworn protection, and imposed labor.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "10:1-12:24",
+      "decision": "Retain the warfare and cosmic imagery while resisting speculative scientific harmonization or modern political application.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:1-21:45",
+      "decision": "Keep land allocation, dispossession, inheritance, refuge, and women's claims visible within the narrative's ancient setting.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "24:1-33",
+      "decision": "Preserve the historical recital, covenant choice, witness, warning, and burial notices as the book's conclusion.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_05",
+  "deployment_audit": {
+    "source_git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "source_binding_count": 658,
+    "unique_source_record_count": 658,
+    "public_verse_slots": 658,
+    "ledger_summary": {
+      "F0": 108,
+      "F1": 23,
+      "F2": 1,
+      "F3": 526
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/joshua/Joshua_01.md",
+        "blob_sha": "2b364309ee9a55a0878115c30d54af6ab0cf0324"
+      },
+      "02": {
+        "path": "books/OT/joshua/Joshua_02.md",
+        "blob_sha": "4cf82bf9f5368e152bbe8e6ced38354c4416f6f3"
+      },
+      "03": {
+        "path": "books/OT/joshua/Joshua_03.md",
+        "blob_sha": "97bf5aa376566035d5845b8aef1527428f767fd5"
+      },
+      "04": {
+        "path": "books/OT/joshua/Joshua_04.md",
+        "blob_sha": "558799347990858dec7e549c1f3b6427893e69ae"
+      },
+      "05": {
+        "path": "books/OT/joshua/Joshua_05.md",
+        "blob_sha": "1490d2a74a9a5a71648d60b3b31203451062496a"
+      },
+      "06": {
+        "path": "books/OT/joshua/Joshua_06.md",
+        "blob_sha": "9018704f1b291fe0cd094d0500182fd6f2c322e1"
+      },
+      "07": {
+        "path": "books/OT/joshua/Joshua_07.md",
+        "blob_sha": "4aa28de0b0b99f698ee47b4a9ecf606cc98101c0"
+      },
+      "08": {
+        "path": "books/OT/joshua/Joshua_08.md",
+        "blob_sha": "5fdbdae1c1dd32d21dc4c595550fd7bfde331bae"
+      },
+      "09": {
+        "path": "books/OT/joshua/Joshua_09.md",
+        "blob_sha": "fed2fd4088308ed8fba2f66ab2341f4beec1058b"
+      },
+      "10": {
+        "path": "books/OT/joshua/Joshua_10.md",
+        "blob_sha": "b76be4e17eb6ea04ca1b66a83a7c824af8d8cbda"
+      },
+      "11": {
+        "path": "books/OT/joshua/Joshua_11.md",
+        "blob_sha": "76d9a5e0aea00e7acfd90c82302542d8997943bf"
+      },
+      "12": {
+        "path": "books/OT/joshua/Joshua_12.md",
+        "blob_sha": "d0c7c87f44d37a94127b525ee2b6819c89f94733"
+      },
+      "13": {
+        "path": "books/OT/joshua/Joshua_13.md",
+        "blob_sha": "09c20bf5c14bcf658623cd5b584064509c8e5c8f"
+      },
+      "14": {
+        "path": "books/OT/joshua/Joshua_14.md",
+        "blob_sha": "19fff1394e335b48d3b44916b40b8415a0fd96c4"
+      },
+      "15": {
+        "path": "books/OT/joshua/Joshua_15.md",
+        "blob_sha": "ae5db42917341c7e8262f5c011cc9d2bc85d282e"
+      },
+      "16": {
+        "path": "books/OT/joshua/Joshua_16.md",
+        "blob_sha": "df179d31d8c624b71f931f7a611e0513717fd66f"
+      },
+      "17": {
+        "path": "books/OT/joshua/Joshua_17.md",
+        "blob_sha": "1e63d15effd2a432791855063d15f851dd8cec32"
+      },
+      "18": {
+        "path": "books/OT/joshua/Joshua_18.md",
+        "blob_sha": "29d80953cb40b3c76cacf22a22ec122db1431585"
+      },
+      "19": {
+        "path": "books/OT/joshua/Joshua_19.md",
+        "blob_sha": "a0af2fc20747b595202d3719263f4a38c34b6a4f"
+      },
+      "20": {
+        "path": "books/OT/joshua/Joshua_20.md",
+        "blob_sha": "54e130e3da5aa81624af0b763020b60936317c83"
+      },
+      "21": {
+        "path": "books/OT/joshua/Joshua_21.md",
+        "blob_sha": "1d709d27fbd7821d1be1b47c7242fd4010256a58"
+      },
+      "22": {
+        "path": "books/OT/joshua/Joshua_22.md",
+        "blob_sha": "4ac2152bc13be7e2fb80205de0415c7d136950b3"
+      },
+      "23": {
+        "path": "books/OT/joshua/Joshua_23.md",
+        "blob_sha": "f3c222f6a584bea0d6d9b6fc152430fbc5252afa"
+      },
+      "24": {
+        "path": "books/OT/joshua/Joshua_24.md",
+        "blob_sha": "bd696ffaf0196dc4ac945f2d25af3960b84a05f4"
+      }
+    }
+  }
+}

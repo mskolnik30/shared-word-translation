@@ -1,0 +1,186 @@
+{
+  "book": "Joshua",
+  "chapter": 16,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Josh.xml",
+    "git_blob_sha": "817453d2312e7cf359f6324e5456c5ba59c5bfa2",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Joshua 16:1",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 1,
+            "source_ref": "Joshua 16:1",
+            "segment_mode": "whole",
+            "sha256": "0a22a4da54a335791b2f0fe8e48bde2210c24d54b235051c8a64b186e56e2f75"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a22a4da54a335791b2f0fe8e48bde2210c24d54b235051c8a64b186e56e2f75"
+      },
+      "2": {
+        "source_ref": "Joshua 16:2",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 2,
+            "source_ref": "Joshua 16:2",
+            "segment_mode": "whole",
+            "sha256": "093afcba97b32ad76089ecff23ab06aa8f97308edb9905a5754710b3a867028f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "093afcba97b32ad76089ecff23ab06aa8f97308edb9905a5754710b3a867028f"
+      },
+      "3": {
+        "source_ref": "Joshua 16:3",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 3,
+            "source_ref": "Joshua 16:3",
+            "segment_mode": "whole",
+            "sha256": "313222d401fab2d4ce6af43e2f737b27803cd4a266a4101f7a606c7286b59b9d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "313222d401fab2d4ce6af43e2f737b27803cd4a266a4101f7a606c7286b59b9d"
+      },
+      "4": {
+        "source_ref": "Joshua 16:4",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 4,
+            "source_ref": "Joshua 16:4",
+            "segment_mode": "whole",
+            "sha256": "4753a0a0bdb355558da4760890849492642bdb31d1b194029c8c3859db03526f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4753a0a0bdb355558da4760890849492642bdb31d1b194029c8c3859db03526f"
+      },
+      "5": {
+        "source_ref": "Joshua 16:5",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 5,
+            "source_ref": "Joshua 16:5",
+            "segment_mode": "whole",
+            "sha256": "a63c81195a48877b6f349359aaef2b79aff48110ecbb590b17b65c4b347ea9d8"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a63c81195a48877b6f349359aaef2b79aff48110ecbb590b17b65c4b347ea9d8"
+      },
+      "6": {
+        "source_ref": "Joshua 16:6",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 6,
+            "source_ref": "Joshua 16:6",
+            "segment_mode": "whole",
+            "sha256": "206ae8969772f0fec7a5b9b5273e2fe4fc2ea243c7cbc903b53857e9ad2c6410"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "206ae8969772f0fec7a5b9b5273e2fe4fc2ea243c7cbc903b53857e9ad2c6410"
+      },
+      "7": {
+        "source_ref": "Joshua 16:7",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 7,
+            "source_ref": "Joshua 16:7",
+            "segment_mode": "whole",
+            "sha256": "23a8b2da40f30c94e7bde4ce540c1440fad3750b044e67cbc6461f5986b25f58"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "23a8b2da40f30c94e7bde4ce540c1440fad3750b044e67cbc6461f5986b25f58"
+      },
+      "8": {
+        "source_ref": "Joshua 16:8",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 8,
+            "source_ref": "Joshua 16:8",
+            "segment_mode": "whole",
+            "sha256": "c970a5054a4365b70a7ebb1c0b4cae63958867d56c49adc28ae714e791e044d7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c970a5054a4365b70a7ebb1c0b4cae63958867d56c49adc28ae714e791e044d7"
+      },
+      "9": {
+        "source_ref": "Joshua 16:9",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 9,
+            "source_ref": "Joshua 16:9",
+            "segment_mode": "whole",
+            "sha256": "9b0b2ec523582f59f1e75b945557f31cc27b6ff9656a86a649f5706fa21b9583"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9b0b2ec523582f59f1e75b945557f31cc27b6ff9656a86a649f5706fa21b9583"
+      },
+      "10": {
+        "source_ref": "Joshua 16:10",
+        "source_records": [
+          {
+            "chapter": 16,
+            "verse": 10,
+            "source_ref": "Joshua 16:10",
+            "segment_mode": "whole",
+            "sha256": "170be211d4420a454e4fb63d2fdb68c7f433a688439ebc5ae862312e27be0af4"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "170be211d4420a454e4fb63d2fdb68c7f433a688439ebc5ae862312e27be0af4"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/joshua/Joshua_16.md",
+    "blob_sha": "df179d31d8c624b71f931f7a611e0513717fd66f"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
