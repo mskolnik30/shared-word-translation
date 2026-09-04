@@ -1,0 +1,276 @@
+{
+  "book": "Song of Songs",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Song.xml",
+    "git_blob_sha": "4d799c5c7eeddc2d1a83fda1c5ae1fc22e7fe35d"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Song.xml",
+    "git_blob_sha": "4d799c5c7eeddc2d1a83fda1c5ae1fc22e7fe35d",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Song of Songs 4:1",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "Song of Songs 4:1",
+            "segment_mode": "whole",
+            "sha256": "8869af0926530eeb0f21ce7df50ce5ecff449167b2317b073ea53f1f9722b497"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8869af0926530eeb0f21ce7df50ce5ecff449167b2317b073ea53f1f9722b497"
+      },
+      "2": {
+        "source_ref": "Song of Songs 4:2",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "Song of Songs 4:2",
+            "segment_mode": "whole",
+            "sha256": "09abed1497a593764e31484485d2a7427a42659a1b2d506b3aa645be01bd5d23"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "09abed1497a593764e31484485d2a7427a42659a1b2d506b3aa645be01bd5d23"
+      },
+      "3": {
+        "source_ref": "Song of Songs 4:3",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "Song of Songs 4:3",
+            "segment_mode": "whole",
+            "sha256": "717600b9a7a9a944610d102f4424c077693b10de89671fb33f78e3eae67f2f11"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "717600b9a7a9a944610d102f4424c077693b10de89671fb33f78e3eae67f2f11"
+      },
+      "4": {
+        "source_ref": "Song of Songs 4:4",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "Song of Songs 4:4",
+            "segment_mode": "whole",
+            "sha256": "abd8cb42452b207b5e24579f398865703061c2ff2afc83efd52b783930bf9ff0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "abd8cb42452b207b5e24579f398865703061c2ff2afc83efd52b783930bf9ff0"
+      },
+      "5": {
+        "source_ref": "Song of Songs 4:5",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "Song of Songs 4:5",
+            "segment_mode": "whole",
+            "sha256": "e2f233add331411c981de0d90501b86065465297d35e8d26587fb1a87f721b37"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e2f233add331411c981de0d90501b86065465297d35e8d26587fb1a87f721b37"
+      },
+      "6": {
+        "source_ref": "Song of Songs 4:6",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "Song of Songs 4:6",
+            "segment_mode": "whole",
+            "sha256": "851f66c9f988227133eb9197e17a47af0a432af7a181c716625a2333b6ac2518"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "851f66c9f988227133eb9197e17a47af0a432af7a181c716625a2333b6ac2518"
+      },
+      "7": {
+        "source_ref": "Song of Songs 4:7",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "Song of Songs 4:7",
+            "segment_mode": "whole",
+            "sha256": "138b5dc2f5cb8d91d23feee5edba5fe30777c3adc26e08423c4cf03b2e9d9ac9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "138b5dc2f5cb8d91d23feee5edba5fe30777c3adc26e08423c4cf03b2e9d9ac9"
+      },
+      "8": {
+        "source_ref": "Song of Songs 4:8",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "Song of Songs 4:8",
+            "segment_mode": "whole",
+            "sha256": "1602c240d09326b9c4c3a32acf3d7df01a273aee56010e9330159bb08941b22e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1602c240d09326b9c4c3a32acf3d7df01a273aee56010e9330159bb08941b22e"
+      },
+      "9": {
+        "source_ref": "Song of Songs 4:9",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "Song of Songs 4:9",
+            "segment_mode": "whole",
+            "sha256": "de88547f5c2bb686cb3725ed27d7eae82b917eeff86a05454311cd22af03e938"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de88547f5c2bb686cb3725ed27d7eae82b917eeff86a05454311cd22af03e938"
+      },
+      "10": {
+        "source_ref": "Song of Songs 4:10",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 10,
+            "source_ref": "Song of Songs 4:10",
+            "segment_mode": "whole",
+            "sha256": "f721861fcd76682ce5859df21749751e7dd4628f642cf9bbf049883a94759d77"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f721861fcd76682ce5859df21749751e7dd4628f642cf9bbf049883a94759d77"
+      },
+      "11": {
+        "source_ref": "Song of Songs 4:11",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 11,
+            "source_ref": "Song of Songs 4:11",
+            "segment_mode": "whole",
+            "sha256": "1049998616f0ba94c65b154288bc171fb3c747269c2a22f48897c1aa499b67ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1049998616f0ba94c65b154288bc171fb3c747269c2a22f48897c1aa499b67ea"
+      },
+      "12": {
+        "source_ref": "Song of Songs 4:12",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 12,
+            "source_ref": "Song of Songs 4:12",
+            "segment_mode": "whole",
+            "sha256": "565d3aac7fc844117f7e44d3710f951d0b3cf092f4f8e7151f4fa2abf91f8a9f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "565d3aac7fc844117f7e44d3710f951d0b3cf092f4f8e7151f4fa2abf91f8a9f"
+      },
+      "13": {
+        "source_ref": "Song of Songs 4:13",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 13,
+            "source_ref": "Song of Songs 4:13",
+            "segment_mode": "whole",
+            "sha256": "d6d0630c42a497b741e8c038fb7a739435c6b0287deac061d1c42577ba6a6486"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d6d0630c42a497b741e8c038fb7a739435c6b0287deac061d1c42577ba6a6486"
+      },
+      "14": {
+        "source_ref": "Song of Songs 4:14",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 14,
+            "source_ref": "Song of Songs 4:14",
+            "segment_mode": "whole",
+            "sha256": "4a0a87023ed104fc57476db299537b5d21d34e56c67ee1712d01ea89e4747ef3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4a0a87023ed104fc57476db299537b5d21d34e56c67ee1712d01ea89e4747ef3"
+      },
+      "15": {
+        "source_ref": "Song of Songs 4:15",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 15,
+            "source_ref": "Song of Songs 4:15",
+            "segment_mode": "whole",
+            "sha256": "071e46bbded1241ee5bf39c596655c4dc07697ad67f6248d699ba0e3784a3e4e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "071e46bbded1241ee5bf39c596655c4dc07697ad67f6248d699ba0e3784a3e4e"
+      },
+      "16": {
+        "source_ref": "Song of Songs 4:16",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 16,
+            "source_ref": "Song of Songs 4:16",
+            "segment_mode": "whole",
+            "sha256": "10ce9d372a1cc921941fe7b89b6cb785adbb5f9b1576a1b3022b1698c76542ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "10ce9d372a1cc921941fe7b89b6cb785adbb5f9b1576a1b3022b1698c76542ba"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/songofsongs/SongOfSongs_04.md",
+    "blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

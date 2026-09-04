@@ -1,0 +1,2712 @@
+{
+  "book": "Song of Songs",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Song.xml",
+    "git_blob_sha": "4d799c5c7eeddc2d1a83fda1c5ae1fc22e7fe35d"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:1",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 1,
+          "source_ref": "Song of Songs 1:1",
+          "segment_mode": "whole",
+          "sha256": "ab82a0a1d5975a609ffbeee7788b6c160658d6880710150661b599afe934fea2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ab82a0a1d5975a609ffbeee7788b6c160658d6880710150661b599afe934fea2",
+      "translation_sha256": "6750f2f5b938bf677ff75723890a5a7eda2bf611477c89f7ede334eedbeaab5d",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Preserve the title's superlative force and leave the relation to Solomon open rather than claiming certain authorship."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:2",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 2,
+          "source_ref": "Song of Songs 1:2",
+          "segment_mode": "whole",
+          "sha256": "e82019492a6347d4085fa05b3fca61bf120b9510a6306b4fb142544ab3084a85"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e82019492a6347d4085fa05b3fca61bf120b9510a6306b4fb142544ab3084a85",
+      "translation_sha256": "ad9e41d07137416efa5662f1f376c81f2b419bac955e82e5fb7c14cbeb66eb6b",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:3",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 3,
+          "source_ref": "Song of Songs 1:3",
+          "segment_mode": "whole",
+          "sha256": "75f7ee16709077faedd8c76c817084b1f1f3f575a635e44ca8fd4b5986090dad"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "75f7ee16709077faedd8c76c817084b1f1f3f575a635e44ca8fd4b5986090dad",
+      "translation_sha256": "209f33e19a5b63db2761a51ffa56d418421c38ff9adb1ef29c69777133a8d503",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:4",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 4,
+          "source_ref": "Song of Songs 1:4",
+          "segment_mode": "whole",
+          "sha256": "4a2b2baac6840d5dcdf54dd2e495a7eb484b07357cf86d5cf87f19d4a1990bf7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4a2b2baac6840d5dcdf54dd2e495a7eb484b07357cf86d5cf87f19d4a1990bf7",
+      "translation_sha256": "b521795366a1daaed192b615a6c5feb7a49490d7ec2f8b60ce0345a1573f28fe",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:5",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 5,
+          "source_ref": "Song of Songs 1:5",
+          "segment_mode": "whole",
+          "sha256": "52ed4daadbd6683eb1e0e8e59881502e03574847cf5f4706c8418d3933096bdc"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "52ed4daadbd6683eb1e0e8e59881502e03574847cf5f4706c8418d3933096bdc",
+      "translation_sha256": "96ce892f103e2053038e61133065c0d0d998548cc5f5830dbb85d947eb4d1a3a",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:6",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 6,
+          "source_ref": "Song of Songs 1:6",
+          "segment_mode": "whole",
+          "sha256": "350e350b7bfbb75e7373196d9d19c037f75dd44a41097eac15eb04025e514dac"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "350e350b7bfbb75e7373196d9d19c037f75dd44a41097eac15eb04025e514dac",
+      "translation_sha256": "4fe5ce852ba6590a1bf9232033a2fb0eacc6df532916d11e9acb8ea36101c70b",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:7",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 7,
+          "source_ref": "Song of Songs 1:7",
+          "segment_mode": "whole",
+          "sha256": "dd6084000bc2732e137c1ef57ade060ca6b1ab9526264ccd8a45cb476fb106f2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dd6084000bc2732e137c1ef57ade060ca6b1ab9526264ccd8a45cb476fb106f2",
+      "translation_sha256": "f32de3635595966e32c5d63beefe58342c7adcf30fcb430ff611344ab234be39",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:8",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 8,
+          "source_ref": "Song of Songs 1:8",
+          "segment_mode": "whole",
+          "sha256": "3723b1ea4d1ab78d31c62d58c81ecd7bda890720098ba92fa7fa2363882c66f8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3723b1ea4d1ab78d31c62d58c81ecd7bda890720098ba92fa7fa2363882c66f8",
+      "translation_sha256": "e4b287e21bc9cfd9f1f55a8a457b17dee2bb34a09d39b4ea589ae245704b4a73",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:9",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 9,
+          "source_ref": "Song of Songs 1:9",
+          "segment_mode": "whole",
+          "sha256": "29b5650d772ea66b577dddcd7be62779ad9384db27e3edf0e4a4134dbdd30774"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "29b5650d772ea66b577dddcd7be62779ad9384db27e3edf0e4a4134dbdd30774",
+      "translation_sha256": "432f697bbdfe30b8a77036f4551060348e76d63ec05c4780f1e9b19f9a456820",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:10",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 10,
+          "source_ref": "Song of Songs 1:10",
+          "segment_mode": "whole",
+          "sha256": "13030c7e4b45cfc7b4f8c991db66f3002b68b4655d0b3a7d3ead5da26d7e1e80"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "13030c7e4b45cfc7b4f8c991db66f3002b68b4655d0b3a7d3ead5da26d7e1e80",
+      "translation_sha256": "3e209fe265128fed77d1629ea5dcfa5f876fceb6974cf805255a056fe7bf9e4f",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:11",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 11,
+          "source_ref": "Song of Songs 1:11",
+          "segment_mode": "whole",
+          "sha256": "74fd968b27c72d75b56ed4c30c56f320e4f694ce302f0e7008472677dc63e032"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "74fd968b27c72d75b56ed4c30c56f320e4f694ce302f0e7008472677dc63e032",
+      "translation_sha256": "2731494d5b875d0674358bdf13b40b4b05a9d5fedf6d19b3c5399cccba350f22",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:12",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 12,
+          "source_ref": "Song of Songs 1:12",
+          "segment_mode": "whole",
+          "sha256": "df615ca9fb184b940eecd6033fdcb89044e413f482949a3d893d2b98e58d6249"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "df615ca9fb184b940eecd6033fdcb89044e413f482949a3d893d2b98e58d6249",
+      "translation_sha256": "b3d01e98d984076bdd84e0370698997d0666cc363181c97df8c63555f7f650a2",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:13",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 13,
+          "source_ref": "Song of Songs 1:13",
+          "segment_mode": "whole",
+          "sha256": "340292a0b7b023abbd407bc4b97b242b472db36404172328355678f6aaca55be"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "340292a0b7b023abbd407bc4b97b242b472db36404172328355678f6aaca55be",
+      "translation_sha256": "9f6563b909a328911d8625ff87c87c32f00faf15c838f1c6f77b1278fc4b053f",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:14",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 14,
+          "source_ref": "Song of Songs 1:14",
+          "segment_mode": "whole",
+          "sha256": "6fd56a831ffb8dfd85a0962cc39cd2bddc05e42eec8ad8c2c7f98eff7f7eb6ae"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6fd56a831ffb8dfd85a0962cc39cd2bddc05e42eec8ad8c2c7f98eff7f7eb6ae",
+      "translation_sha256": "ede96a7a47964eeaa826de5334ab980c3dda55430215583c3fae5e568264651b",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:15",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 15,
+          "source_ref": "Song of Songs 1:15",
+          "segment_mode": "whole",
+          "sha256": "c2a2e696db1317fb88bd8d88cfe38e359a29bf44fa850f71fa579bfcb96f839e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c2a2e696db1317fb88bd8d88cfe38e359a29bf44fa850f71fa579bfcb96f839e",
+      "translation_sha256": "44f42f81b09050bebfa40ac64107d3e5bd9467093f86720e907652c9d8ae930f",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:16",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 16,
+          "source_ref": "Song of Songs 1:16",
+          "segment_mode": "whole",
+          "sha256": "bd2ea7fa749183b7fd628d2ef9881921a0ed7189835dc5c8261460c9f5f2876a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bd2ea7fa749183b7fd628d2ef9881921a0ed7189835dc5c8261460c9f5f2876a",
+      "translation_sha256": "b49fe1bdeb90a030dba333a61cf332012bbe83cbc2eec8d49be4a8c803de1b3a",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 1:17",
+      "source_records": [
+        {
+          "chapter": 1,
+          "verse": 17,
+          "source_ref": "Song of Songs 1:17",
+          "segment_mode": "whole",
+          "sha256": "4f4685d9f86c88af4859395324cfe9c1e058e5f871010849445bdf35908f4b1a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4f4685d9f86c88af4859395324cfe9c1e058e5f871010849445bdf35908f4b1a",
+      "translation_sha256": "24380817a463aac8d3fe9bd616e418a5d3053585155fac84639ff8bc3e4ea2c7",
+      "tsw_blob_sha": "16bf152358eaa0534fb6ee8ac53edb7c74bd91af",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:1",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 1,
+          "source_ref": "Song of Songs 2:1",
+          "segment_mode": "whole",
+          "sha256": "4ac68cb6ffdbaeddf8c80223eaea0782a6693b7b5330108eec8baa335f9a01ce"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4ac68cb6ffdbaeddf8c80223eaea0782a6693b7b5330108eec8baa335f9a01ce",
+      "translation_sha256": "767e50ef8c884f397f2c63e4180cb91f29149159b8e0435f1b8cb57646a253c0",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:2",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 2,
+          "source_ref": "Song of Songs 2:2",
+          "segment_mode": "whole",
+          "sha256": "216acc11256bbf1a8c127d21e90660f214649df21372c9ff2ef74b9fb7adc961"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "216acc11256bbf1a8c127d21e90660f214649df21372c9ff2ef74b9fb7adc961",
+      "translation_sha256": "b2d4f1adaef9545b8e48b84659a8f2c0b50b7e1a3ed63bbc17a5cc3b47df41e9",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:3",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 3,
+          "source_ref": "Song of Songs 2:3",
+          "segment_mode": "whole",
+          "sha256": "7079a1ef64f36d8ec9c573f810b3718d1abdef6ab34b99f6cb64813ac5c65c31"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7079a1ef64f36d8ec9c573f810b3718d1abdef6ab34b99f6cb64813ac5c65c31",
+      "translation_sha256": "90ac70702fe37ebc30b3144e13adc3b83f057ef8b109c152556d3ad237ae73c5",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:4",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 4,
+          "source_ref": "Song of Songs 2:4",
+          "segment_mode": "whole",
+          "sha256": "bac1a6f1bd963838250c4c6f3e62bd8c21dc135e8cfdf6f000d419b2ac41dab5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bac1a6f1bd963838250c4c6f3e62bd8c21dc135e8cfdf6f000d419b2ac41dab5",
+      "translation_sha256": "6813e56d8e8cd4885b5fffd553346e493a75cf8a6194797ac8ec8ab70b19b0f9",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:5",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 5,
+          "source_ref": "Song of Songs 2:5",
+          "segment_mode": "whole",
+          "sha256": "eed4207a775e19e341769a7f38517aec665ad2a42b69277223247ef8b73e3d2d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "eed4207a775e19e341769a7f38517aec665ad2a42b69277223247ef8b73e3d2d",
+      "translation_sha256": "249d26cea89d63be417d604c0417c4fde453ba4ac2e62860f32cb6b9c800f8bd",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:6",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 6,
+          "source_ref": "Song of Songs 2:6",
+          "segment_mode": "whole",
+          "sha256": "18a3332a402636438de3974f5a472383c24f219802cf4e4b9e1798eb9d8023df"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "18a3332a402636438de3974f5a472383c24f219802cf4e4b9e1798eb9d8023df",
+      "translation_sha256": "9e07a8bed913674f3f73c52e2915ed31d3bbb2b1917d3892f89b32b3edd6df93",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:7",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 7,
+          "source_ref": "Song of Songs 2:7",
+          "segment_mode": "whole",
+          "sha256": "dae278d1934061543203f43eec6096a810e11e94ea9c7eea27352f469b3ce087"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dae278d1934061543203f43eec6096a810e11e94ea9c7eea27352f469b3ce087",
+      "translation_sha256": "d0993fdfcbc96153864357566c86eb780031a9166b341033e4287623ed33702c",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Distinguish the poem's changing voices while preserving mutual desire, embodied delight, and the refrain not to awaken love prematurely."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:8",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 8,
+          "source_ref": "Song of Songs 2:8",
+          "segment_mode": "whole",
+          "sha256": "b208265648edcf01b6f8a19b8fb21ed9f5b4337ba3b2835a78afb816ec5d9784"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b208265648edcf01b6f8a19b8fb21ed9f5b4337ba3b2835a78afb816ec5d9784",
+      "translation_sha256": "1dd549c21674499f5a1f818d25c883731a87bb179aadecd8559bbe134ae74b65",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:9",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 9,
+          "source_ref": "Song of Songs 2:9",
+          "segment_mode": "whole",
+          "sha256": "709eae91ec68251ea106cb00728090e91eb36c71a5ec7ce3dc8fdf3efe8e4577"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "709eae91ec68251ea106cb00728090e91eb36c71a5ec7ce3dc8fdf3efe8e4577",
+      "translation_sha256": "62d14d9f1e437d053ddd3eacb97b83286c9041903c476c4322e4590258f5c699",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:10",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 10,
+          "source_ref": "Song of Songs 2:10",
+          "segment_mode": "whole",
+          "sha256": "33c84347442e3c416e279b62833dd946147cdd3a4801eb047c91ec28d213b649"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "33c84347442e3c416e279b62833dd946147cdd3a4801eb047c91ec28d213b649",
+      "translation_sha256": "afaa82b40a71c809c37403918ec7f2cc18cba1d9a8e508955fb18f546a9567c5",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:11",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 11,
+          "source_ref": "Song of Songs 2:11",
+          "segment_mode": "whole",
+          "sha256": "64e53952f446d7c35988ac524363d3056f5981eec27d31b3887ddeded57544fd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "64e53952f446d7c35988ac524363d3056f5981eec27d31b3887ddeded57544fd",
+      "translation_sha256": "b5f231d7d12783a617aa925e6f58c04eab6ca0c5e7178ada094eced9507f21bc",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:12",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 12,
+          "source_ref": "Song of Songs 2:12",
+          "segment_mode": "whole",
+          "sha256": "34d19611b5d184eaac677c628497fd1b2bea1b936d264c7138de1c50156f455e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "34d19611b5d184eaac677c628497fd1b2bea1b936d264c7138de1c50156f455e",
+      "translation_sha256": "0a1cfe727c16016d591335661fb6ea51f8cbfccf87924805a144dce13b856585",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:13",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 13,
+          "source_ref": "Song of Songs 2:13",
+          "segment_mode": "whole",
+          "sha256": "5cf3dffb9d9b291a11167ae942dac86e6ec226c108f68996583d296596486e21"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5cf3dffb9d9b291a11167ae942dac86e6ec226c108f68996583d296596486e21",
+      "translation_sha256": "566d288b4e32ac682d8404403e95d996f6e31a4903c14e31033533aa6f8238e0",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:14",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 14,
+          "source_ref": "Song of Songs 2:14",
+          "segment_mode": "whole",
+          "sha256": "05170553bc6c3de60778e356258554b2b7b8e3c864a1551ad1960a22c51e53c9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "05170553bc6c3de60778e356258554b2b7b8e3c864a1551ad1960a22c51e53c9",
+      "translation_sha256": "4a9fd5210fe6a4d5402ae95004513277b537b9ba4993c3fcec67d3753d23ebe5",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:15",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 15,
+          "source_ref": "Song of Songs 2:15",
+          "segment_mode": "whole",
+          "sha256": "fd279e3da5c67836f871a717dc181a970fedba638c87c8d7e8198da068441b8e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fd279e3da5c67836f871a717dc181a970fedba638c87c8d7e8198da068441b8e",
+      "translation_sha256": "d1aa44e56cd721f17d64de422c931e74953d99748dc2c31f1bc0952283c5592a",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:16",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 16,
+          "source_ref": "Song of Songs 2:16",
+          "segment_mode": "whole",
+          "sha256": "ca2778aebb1a083af9aa216d1b4b0bece86287d33ae22fcafd9e13ce253200cb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ca2778aebb1a083af9aa216d1b4b0bece86287d33ae22fcafd9e13ce253200cb",
+      "translation_sha256": "d7434895292ecb8d99a4fc2f1dff45fb5cc14410f8c8d898c6180a5778c6e37a",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 2,
+      "public_verse": 17,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 2:17",
+      "source_records": [
+        {
+          "chapter": 2,
+          "verse": 17,
+          "source_ref": "Song of Songs 2:17",
+          "segment_mode": "whole",
+          "sha256": "073a880344916dde8e8ce291220dcdf7cbb3a5a33e49a67dc89f2714d6f6baa1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "073a880344916dde8e8ce291220dcdf7cbb3a5a33e49a67dc89f2714d6f6baa1",
+      "translation_sha256": "f06cbd1687ebad989b856499c437cacbd8af53aa0c9990427d0f17e1085cce39",
+      "tsw_blob_sha": "319e33d29229250f67bcb005abe5ddea144d0425",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:1",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 1,
+          "source_ref": "Song of Songs 3:1",
+          "segment_mode": "whole",
+          "sha256": "3c675e191d2ee26c05a3d3d43881df866f04884dcc75afb0a67c24cffd0e1a2e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3c675e191d2ee26c05a3d3d43881df866f04884dcc75afb0a67c24cffd0e1a2e",
+      "translation_sha256": "8f19abe7d8406cf59f85453974e7466c6533c0cd565932ed8dbca34fecabc2c3",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:2",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 2,
+          "source_ref": "Song of Songs 3:2",
+          "segment_mode": "whole",
+          "sha256": "3af1a06d26fdfac2f625e211b3f11dfd0feb644ab8da20b8866c69e00516c739"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3af1a06d26fdfac2f625e211b3f11dfd0feb644ab8da20b8866c69e00516c739",
+      "translation_sha256": "c04fe69dfdd7e3fd1fbd49944b0cc0e3ed69f84fd99f9961c427ce4c0f833817",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:3",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 3,
+          "source_ref": "Song of Songs 3:3",
+          "segment_mode": "whole",
+          "sha256": "d66810157772999fdea32b6cdbe0e427b82eb862a10f2896651eec5407570011"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d66810157772999fdea32b6cdbe0e427b82eb862a10f2896651eec5407570011",
+      "translation_sha256": "c415a9b6e53b470e096adc85a8abf6c847653915d15608efa356edf62f4aaa04",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:4",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 4,
+          "source_ref": "Song of Songs 3:4",
+          "segment_mode": "whole",
+          "sha256": "be6c641ed4cf3d7ffe5fac2faac74216abfc71bb779bbaffbde78873149c7c4c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "be6c641ed4cf3d7ffe5fac2faac74216abfc71bb779bbaffbde78873149c7c4c",
+      "translation_sha256": "fb2e4bd4de14205ca55da081c6d78bf6e317c94978eb747daa453fcfdaf4c53d",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:5",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 5,
+          "source_ref": "Song of Songs 3:5",
+          "segment_mode": "whole",
+          "sha256": "dae278d1934061543203f43eec6096a810e11e94ea9c7eea27352f469b3ce087"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dae278d1934061543203f43eec6096a810e11e94ea9c7eea27352f469b3ce087",
+      "translation_sha256": "d0993fdfcbc96153864357566c86eb780031a9166b341033e4287623ed33702c",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Keep pursuit, invitation, seasonal imagery, absence, searching, and reunion as poetry rather than explanatory prose."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:6",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 6,
+          "source_ref": "Song of Songs 3:6",
+          "segment_mode": "whole",
+          "sha256": "cf6d740e7150fcbf59ff887da4e5a1a14d4b2965996eb9a3493460a18b097645"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cf6d740e7150fcbf59ff887da4e5a1a14d4b2965996eb9a3493460a18b097645",
+      "translation_sha256": "cdfc13f9ac75d86c4879b0856013490849b0599cae9325c7ceae5ebb010c0be4",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:7",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 7,
+          "source_ref": "Song of Songs 3:7",
+          "segment_mode": "whole",
+          "sha256": "981573410831dcce23d34e77ada7f48df6576f54970b58d428bae6d07aed9b9d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "981573410831dcce23d34e77ada7f48df6576f54970b58d428bae6d07aed9b9d",
+      "translation_sha256": "2e4ccaaf169655645236756f12e9a65dc67d1e13451206745a73ac4dd6ee0cd7",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:8",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 8,
+          "source_ref": "Song of Songs 3:8",
+          "segment_mode": "whole",
+          "sha256": "e8ff02f317f474fc3b2111460bf90e94b9bb38b08eacb25c4937a3c8bc99e1c9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e8ff02f317f474fc3b2111460bf90e94b9bb38b08eacb25c4937a3c8bc99e1c9",
+      "translation_sha256": "8fea5e70f3b723ff2dd351d2edea29e69a9dac3a889978a14ad844f79b78ae4e",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:9",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 9,
+          "source_ref": "Song of Songs 3:9",
+          "segment_mode": "whole",
+          "sha256": "f6ff15e8ffc4aec1fc9fffcce86e16beb4762f30da95d5365f17c8605bd74d06"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f6ff15e8ffc4aec1fc9fffcce86e16beb4762f30da95d5365f17c8605bd74d06",
+      "translation_sha256": "789fd615c576843c0fbbc6291110f474a66b05810304aa96571d2d49d70e0e79",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:10",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 10,
+          "source_ref": "Song of Songs 3:10",
+          "segment_mode": "whole",
+          "sha256": "6d10c3f82a428c4e8a0eac49da088abc22b99e5f5b4de93ee62f1040405ac29d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "6d10c3f82a428c4e8a0eac49da088abc22b99e5f5b4de93ee62f1040405ac29d",
+      "translation_sha256": "3be606c9c27feddd2626d0f538c11c9450334d63abcbdeb53f8e98a77667d8d2",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 3,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 3:11",
+      "source_records": [
+        {
+          "chapter": 3,
+          "verse": 11,
+          "source_ref": "Song of Songs 3:11",
+          "segment_mode": "whole",
+          "sha256": "5059dac0b47b1d248b7556a6f9d3d039d8f4f74a819860f0085eb07ff82bb4dd"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5059dac0b47b1d248b7556a6f9d3d039d8f4f74a819860f0085eb07ff82bb4dd",
+      "translation_sha256": "ef692205edd8fd2d2bb065532548c36839c7d9d3df7009de21daa83a1f19bacf",
+      "tsw_blob_sha": "d14ae51811d9e20ee07e14399209ea73a8c869bc",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:1",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 1,
+          "source_ref": "Song of Songs 4:1",
+          "segment_mode": "whole",
+          "sha256": "8869af0926530eeb0f21ce7df50ce5ecff449167b2317b073ea53f1f9722b497"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8869af0926530eeb0f21ce7df50ce5ecff449167b2317b073ea53f1f9722b497",
+      "translation_sha256": "29236a2ae426772f598ebbfdc2688016012665ce8bf2d047753a9ded8310ccde",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:2",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 2,
+          "source_ref": "Song of Songs 4:2",
+          "segment_mode": "whole",
+          "sha256": "09abed1497a593764e31484485d2a7427a42659a1b2d506b3aa645be01bd5d23"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "09abed1497a593764e31484485d2a7427a42659a1b2d506b3aa645be01bd5d23",
+      "translation_sha256": "c490c5b1d29a38312ddab4138da6f93ce7e985a642e28c9339136ad62fc36c76",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:3",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 3,
+          "source_ref": "Song of Songs 4:3",
+          "segment_mode": "whole",
+          "sha256": "717600b9a7a9a944610d102f4424c077693b10de89671fb33f78e3eae67f2f11"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "717600b9a7a9a944610d102f4424c077693b10de89671fb33f78e3eae67f2f11",
+      "translation_sha256": "dcf514eee5ac98b29d72b48497a056ecef5b14ff3b13339db8d598e68365e14c",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:4",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 4,
+          "source_ref": "Song of Songs 4:4",
+          "segment_mode": "whole",
+          "sha256": "abd8cb42452b207b5e24579f398865703061c2ff2afc83efd52b783930bf9ff0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "abd8cb42452b207b5e24579f398865703061c2ff2afc83efd52b783930bf9ff0",
+      "translation_sha256": "54ab1a24cce9bf8422bdfe3f24a677c85418284191bcac1ee74ccf9db0c08357",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:5",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 5,
+          "source_ref": "Song of Songs 4:5",
+          "segment_mode": "whole",
+          "sha256": "e2f233add331411c981de0d90501b86065465297d35e8d26587fb1a87f721b37"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e2f233add331411c981de0d90501b86065465297d35e8d26587fb1a87f721b37",
+      "translation_sha256": "91a3bbf069d5fd6459ab52b1ee9f3225a90f3744ebe983b006a91da1f53b6fe7",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:6",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 6,
+          "source_ref": "Song of Songs 4:6",
+          "segment_mode": "whole",
+          "sha256": "851f66c9f988227133eb9197e17a47af0a432af7a181c716625a2333b6ac2518"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "851f66c9f988227133eb9197e17a47af0a432af7a181c716625a2333b6ac2518",
+      "translation_sha256": "cc5cd9830547e7e3a315eae4ed395a79fceac96e447170b36cc8e6afe788531c",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:7",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 7,
+          "source_ref": "Song of Songs 4:7",
+          "segment_mode": "whole",
+          "sha256": "138b5dc2f5cb8d91d23feee5edba5fe30777c3adc26e08423c4cf03b2e9d9ac9"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "138b5dc2f5cb8d91d23feee5edba5fe30777c3adc26e08423c4cf03b2e9d9ac9",
+      "translation_sha256": "2936a8730c6739f25deda1aa2ea82e738378907eaebd5d8c5eca7d1579518fd6",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:8",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 8,
+          "source_ref": "Song of Songs 4:8",
+          "segment_mode": "whole",
+          "sha256": "1602c240d09326b9c4c3a32acf3d7df01a273aee56010e9330159bb08941b22e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1602c240d09326b9c4c3a32acf3d7df01a273aee56010e9330159bb08941b22e",
+      "translation_sha256": "6808d86c80ed7e04b801caca514fc1da3c36882b201c3e0343eb7ef72eb7bb07",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:9",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 9,
+          "source_ref": "Song of Songs 4:9",
+          "segment_mode": "whole",
+          "sha256": "de88547f5c2bb686cb3725ed27d7eae82b917eeff86a05454311cd22af03e938"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "de88547f5c2bb686cb3725ed27d7eae82b917eeff86a05454311cd22af03e938",
+      "translation_sha256": "687da8bcfe793df4a2e9221afc9fe001a168c009865968d7f7826316d3613848",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:10",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 10,
+          "source_ref": "Song of Songs 4:10",
+          "segment_mode": "whole",
+          "sha256": "f721861fcd76682ce5859df21749751e7dd4628f642cf9bbf049883a94759d77"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f721861fcd76682ce5859df21749751e7dd4628f642cf9bbf049883a94759d77",
+      "translation_sha256": "10066e5a82d2d642f1ca92e6533f5fded320465e8104b710016f9a2690561aa5",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:11",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 11,
+          "source_ref": "Song of Songs 4:11",
+          "segment_mode": "whole",
+          "sha256": "1049998616f0ba94c65b154288bc171fb3c747269c2a22f48897c1aa499b67ea"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1049998616f0ba94c65b154288bc171fb3c747269c2a22f48897c1aa499b67ea",
+      "translation_sha256": "fb2abf611ae5aa02e4d0975546e23ea9c88839f33ce8fc8f9b07bce980196729",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:12",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 12,
+          "source_ref": "Song of Songs 4:12",
+          "segment_mode": "whole",
+          "sha256": "565d3aac7fc844117f7e44d3710f951d0b3cf092f4f8e7151f4fa2abf91f8a9f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "565d3aac7fc844117f7e44d3710f951d0b3cf092f4f8e7151f4fa2abf91f8a9f",
+      "translation_sha256": "57b4897910469987bb0e9ac33ebcf3a306a4ec2910ea72758bd7bd5d7e979712",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:13",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 13,
+          "source_ref": "Song of Songs 4:13",
+          "segment_mode": "whole",
+          "sha256": "d6d0630c42a497b741e8c038fb7a739435c6b0287deac061d1c42577ba6a6486"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d6d0630c42a497b741e8c038fb7a739435c6b0287deac061d1c42577ba6a6486",
+      "translation_sha256": "987089061e700c7f761520c6a67994c22a498e99f00000c113952244c4856d1c",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:14",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 14,
+          "source_ref": "Song of Songs 4:14",
+          "segment_mode": "whole",
+          "sha256": "4a0a87023ed104fc57476db299537b5d21d34e56c67ee1712d01ea89e4747ef3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4a0a87023ed104fc57476db299537b5d21d34e56c67ee1712d01ea89e4747ef3",
+      "translation_sha256": "b4499f0665b205a190f16d3f70f84671805de87abf14c25853ec57c3250f1bd1",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:15",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 15,
+          "source_ref": "Song of Songs 4:15",
+          "segment_mode": "whole",
+          "sha256": "071e46bbded1241ee5bf39c596655c4dc07697ad67f6248d699ba0e3784a3e4e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "071e46bbded1241ee5bf39c596655c4dc07697ad67f6248d699ba0e3784a3e4e",
+      "translation_sha256": "31c438d8230576cc9994987502eda4058039150db454a6abe7c54d9810d2dc24",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 4,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 4:16",
+      "source_records": [
+        {
+          "chapter": 4,
+          "verse": 16,
+          "source_ref": "Song of Songs 4:16",
+          "segment_mode": "whole",
+          "sha256": "10ce9d372a1cc921941fe7b89b6cb785adbb5f9b1576a1b3022b1698c76542ba"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "10ce9d372a1cc921941fe7b89b6cb785adbb5f9b1576a1b3022b1698c76542ba",
+      "translation_sha256": "3e4ee4bc0bee38558859e6b2f85b30a36e3b4aff308888b2f0c9e60883e7265d",
+      "tsw_blob_sha": "1f78fc0ece6e28cb05d78a9e9fd5b0853a082a38",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:1",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 1,
+          "source_ref": "Song of Songs 5:1",
+          "segment_mode": "whole",
+          "sha256": "8d7378281541981dbe0d55f97a4982636816b07a5c5debf8b7070a34c0e94aaa"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8d7378281541981dbe0d55f97a4982636816b07a5c5debf8b7070a34c0e94aaa",
+      "translation_sha256": "e7ca68a81649fc44e9d46b464476174dc450ca81f3e41a890399ce936fe0997a",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Preserve the royal and wedding imagery while allowing the poem's speaker shifts and metaphors to remain fluid."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:2",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 2,
+          "source_ref": "Song of Songs 5:2",
+          "segment_mode": "whole",
+          "sha256": "7e0e017479af23e9e88ead47e8419b2a35ecf8fb0bc323de046afefdf812f604"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7e0e017479af23e9e88ead47e8419b2a35ecf8fb0bc323de046afefdf812f604",
+      "translation_sha256": "cae86bfca2fbbcce4142de5de09720974fd523688e074dbd2c92f52b79356edd",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:3",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 3,
+          "source_ref": "Song of Songs 5:3",
+          "segment_mode": "whole",
+          "sha256": "63284e30f41d1a3003885789c13702668c97892c05e70da3e273513f5477c115"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "63284e30f41d1a3003885789c13702668c97892c05e70da3e273513f5477c115",
+      "translation_sha256": "150f42a23dbc628a89f1f9854722a12fe9ab0d8997385749de7909ad1a8d7cfc",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:4",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 4,
+          "source_ref": "Song of Songs 5:4",
+          "segment_mode": "whole",
+          "sha256": "1d5ee100358cc047ab6ba62b39991629512f52ab5dd2797382844c96d5ccdc82"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1d5ee100358cc047ab6ba62b39991629512f52ab5dd2797382844c96d5ccdc82",
+      "translation_sha256": "afd42c74b969e6c473569c2284dece6369e4919cc4de73fc45e6d29891480f97",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:5",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 5,
+          "source_ref": "Song of Songs 5:5",
+          "segment_mode": "whole",
+          "sha256": "7d8b416fbe1bd28667302ab4b5ca59649ec73665153e85682acb8375abc93ce1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7d8b416fbe1bd28667302ab4b5ca59649ec73665153e85682acb8375abc93ce1",
+      "translation_sha256": "030cc678af766952cb0535eb4242d235b3798b0e13e325224af515a7c4995f6e",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:6",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 6,
+          "source_ref": "Song of Songs 5:6",
+          "segment_mode": "whole",
+          "sha256": "b5e4927c03702047987cf38696cee7293b2a183c668a74c97691c790ef40b6b3"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b5e4927c03702047987cf38696cee7293b2a183c668a74c97691c790ef40b6b3",
+      "translation_sha256": "b413142b19178632324d396a1e7781b43f7708e59317ef2fa4d2b39743c03eaf",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:7",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 7,
+          "source_ref": "Song of Songs 5:7",
+          "segment_mode": "whole",
+          "sha256": "e2fc0843246a1a38dcf38845f4c676afc332f07e073054d0e013b742b5207cf7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e2fc0843246a1a38dcf38845f4c676afc332f07e073054d0e013b742b5207cf7",
+      "translation_sha256": "97d554a3ab44863cd781b8a15140fec97490b2080a1c4338fe929ef553c9cb70",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:8",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 8,
+          "source_ref": "Song of Songs 5:8",
+          "segment_mode": "whole",
+          "sha256": "c2c79c98a8967da91ce45f3b3c1e45541999e285a18d0e66ece5dd45c9bb2764"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c2c79c98a8967da91ce45f3b3c1e45541999e285a18d0e66ece5dd45c9bb2764",
+      "translation_sha256": "a61bb114684ac5ba25dcfadf35e45e89bd2fe10c0d3e0cce98f0dfb73a2e179c",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:9",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 9,
+          "source_ref": "Song of Songs 5:9",
+          "segment_mode": "whole",
+          "sha256": "2e27209bc61e993892859eb5daaa7266ea464a7fcc7f43def1324bc8589e1080"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "2e27209bc61e993892859eb5daaa7266ea464a7fcc7f43def1324bc8589e1080",
+      "translation_sha256": "ff0e6fcdebcc938119bcb38b2dd8bc2221ace6b1666d1db0f6fa0c09416ff65a",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:10",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 10,
+          "source_ref": "Song of Songs 5:10",
+          "segment_mode": "whole",
+          "sha256": "0a598c706315a60a11713e25ab0322cb44d9a2bfcbaffb3ccae7f7d25d5da4ea"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0a598c706315a60a11713e25ab0322cb44d9a2bfcbaffb3ccae7f7d25d5da4ea",
+      "translation_sha256": "1422a065174bde85ebbcfd57df4468820b7e8172bb9499ab16a5fb9a2d83a87b",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:11",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 11,
+          "source_ref": "Song of Songs 5:11",
+          "segment_mode": "whole",
+          "sha256": "b908ab90f90e888d49c24da928d50af7e8706fb8f92211d77eae02c34d57f2d8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "b908ab90f90e888d49c24da928d50af7e8706fb8f92211d77eae02c34d57f2d8",
+      "translation_sha256": "639b735b8aac0467737ad3c8c86056eb10a6ae2d3e7fbe83079f7a18a87e1a72",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:12",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 12,
+          "source_ref": "Song of Songs 5:12",
+          "segment_mode": "whole",
+          "sha256": "70aa5b0de192f085a82d4792168553a4ff8163e61653069c8632b59d22b913d7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "70aa5b0de192f085a82d4792168553a4ff8163e61653069c8632b59d22b913d7",
+      "translation_sha256": "e16f207bc7855c216252510266e24fb7a550039505c1c68bc5b1a84de4d06394",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:13",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 13,
+          "source_ref": "Song of Songs 5:13",
+          "segment_mode": "whole",
+          "sha256": "ad935c51fb5b9174a9daf73df72707f7c2426b4ef1e4804e758c67ceafc58a6b"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ad935c51fb5b9174a9daf73df72707f7c2426b4ef1e4804e758c67ceafc58a6b",
+      "translation_sha256": "e497b167efb3ebf1de1f028bdcb60d25454191bd05e91f5b748689aef76d49de",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:14",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 14,
+          "source_ref": "Song of Songs 5:14",
+          "segment_mode": "whole",
+          "sha256": "64a38c4b838b29549de57ff689f1115f5fa1ae2810ed3f166c0401cf91d3a2a7"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "64a38c4b838b29549de57ff689f1115f5fa1ae2810ed3f166c0401cf91d3a2a7",
+      "translation_sha256": "9031e12d8b877a6325a94fbdb0d10a7073dea5bf2745d7b81a31ee587a18c897",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 15,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:15",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 15,
+          "source_ref": "Song of Songs 5:15",
+          "segment_mode": "whole",
+          "sha256": "f06a263fe2ff79ad5c06f9b93e61c22427ed251b07b5c832b6499c09bff31415"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f06a263fe2ff79ad5c06f9b93e61c22427ed251b07b5c832b6499c09bff31415",
+      "translation_sha256": "a7fa1eeb77007353777eae62ffd141c57708470d31406c8faec0d1ceb7e230ed",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 5,
+      "public_verse": 16,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 5:16",
+      "source_records": [
+        {
+          "chapter": 5,
+          "verse": 16,
+          "source_ref": "Song of Songs 5:16",
+          "segment_mode": "whole",
+          "sha256": "742b41b3318a85b9f00eb30acad338f660691be81e04198cf11be6af8646fe9f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "742b41b3318a85b9f00eb30acad338f660691be81e04198cf11be6af8646fe9f",
+      "translation_sha256": "6f9187a6316191685610344dd5470ff44889c325509e92ffe39ac52a707eb4df",
+      "tsw_blob_sha": "9e33d0a91ac5f3ffd6569543ea6d631b7e632492",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:1",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 1,
+          "source_ref": "Song of Songs 6:1",
+          "segment_mode": "whole",
+          "sha256": "cda47f25373147de0fb6757947fd73052c58c3964be1ecee587b3d2cb148183c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cda47f25373147de0fb6757947fd73052c58c3964be1ecee587b3d2cb148183c",
+      "translation_sha256": "4ac619a2c79336eca439d215859b6e42d3e9551c2cf98618197427cd8b55cbf8",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:2",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 2,
+          "source_ref": "Song of Songs 6:2",
+          "segment_mode": "whole",
+          "sha256": "05172b1141570039d7306b9c06b669eb3720ceeaff834fc058642e35d624d1f5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "05172b1141570039d7306b9c06b669eb3720ceeaff834fc058642e35d624d1f5",
+      "translation_sha256": "e3625af5000154b6b34503f2ffaeac54abf8778f98aba06f087754455c3d258d",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:3",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 3,
+          "source_ref": "Song of Songs 6:3",
+          "segment_mode": "whole",
+          "sha256": "096286f640fb80d333598a0bb192d3d2f766b3eaebfcc73c06dc23183fb97b33"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "096286f640fb80d333598a0bb192d3d2f766b3eaebfcc73c06dc23183fb97b33",
+      "translation_sha256": "0ccd15b11bcca56ede6c3e6643d2ec6129c598d309d09f6cbe3fa0824e8b90ee",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Retain longing and the watchmen's violence without romanticizing harm or blaming the woman who searches."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:4",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 4,
+          "source_ref": "Song of Songs 6:4",
+          "segment_mode": "whole",
+          "sha256": "de308b1ed4e40d2e61c977587261aeea64a977859d3f22c3584c68df5ef9af24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "de308b1ed4e40d2e61c977587261aeea64a977859d3f22c3584c68df5ef9af24",
+      "translation_sha256": "03f268cda0277a94c7e695848a567c4c9f93c7f171b980b8ae1738d7d8ac8df2",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:5",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 5,
+          "source_ref": "Song of Songs 6:5",
+          "segment_mode": "whole",
+          "sha256": "70ab9601a6b4ba5696c450d668b0611e552906c34a49dcf903f05ce0fa9e8528"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "70ab9601a6b4ba5696c450d668b0611e552906c34a49dcf903f05ce0fa9e8528",
+      "translation_sha256": "c9f47c4d4ac41f2242213bfb057525b352bd8ead303301fbd805f505850fad0a",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:6",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 6,
+          "source_ref": "Song of Songs 6:6",
+          "segment_mode": "whole",
+          "sha256": "bfc7c9ccf54500b30f82a7be8ede9774b31ad688de72bf38eb9cc2774b29e45e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bfc7c9ccf54500b30f82a7be8ede9774b31ad688de72bf38eb9cc2774b29e45e",
+      "translation_sha256": "6fbe8329a5a66714feeaa1cb2d9d3c9440a21705b26cb59e9147a27db8153682",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:7",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 7,
+          "source_ref": "Song of Songs 6:7",
+          "segment_mode": "whole",
+          "sha256": "3035fbb36ad318f12236d1fce17510227add3e089b44e463b8df143a5895a9c0"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3035fbb36ad318f12236d1fce17510227add3e089b44e463b8df143a5895a9c0",
+      "translation_sha256": "9f250be7dba23c5568985659311c2f6e78ecb3f231a538ff7d29ddafe901c62c",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:8",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 8,
+          "source_ref": "Song of Songs 6:8",
+          "segment_mode": "whole",
+          "sha256": "7ba08cb2862d5b861752093cfa1ccfff1cf4ae8ae7b9f13b619f6603a8d3cf5d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "7ba08cb2862d5b861752093cfa1ccfff1cf4ae8ae7b9f13b619f6603a8d3cf5d",
+      "translation_sha256": "1190d087359e8370bf5b9c144b0d97f83483597bce56aa96708e9e5024f98966",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:9",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 9,
+          "source_ref": "Song of Songs 6:9",
+          "segment_mode": "whole",
+          "sha256": "3cd44dbb53b3fb2213d3202cda7ef5a184a29a1ce9e5c56f8d0231e193f74069"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "3cd44dbb53b3fb2213d3202cda7ef5a184a29a1ce9e5c56f8d0231e193f74069",
+      "translation_sha256": "002300e1a197a170a47f0865f05090d65e63f5997378307903298f4034db48c8",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:10",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 10,
+          "source_ref": "Song of Songs 6:10",
+          "segment_mode": "whole",
+          "sha256": "66145e3d699de8ddb81bfe921c721a5d9be463550220be75200bd23f85eabf96"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "66145e3d699de8ddb81bfe921c721a5d9be463550220be75200bd23f85eabf96",
+      "translation_sha256": "6a0ed3625302473d0bd4ba4e7d67c83f2cadffffdd3acdc70c573356b8dd3766",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:11",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 11,
+          "source_ref": "Song of Songs 6:11",
+          "segment_mode": "whole",
+          "sha256": "f8e947b3a6a34fd6af6cd464a9c498755a08aa13c8121232d625e193270fa987"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f8e947b3a6a34fd6af6cd464a9c498755a08aa13c8121232d625e193270fa987",
+      "translation_sha256": "307982cedb1c405f26263c9a1fc7520fb4366fe5589588f37ac63eaea9ec6b8b",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 6:12",
+      "source_records": [
+        {
+          "chapter": 6,
+          "verse": 12,
+          "source_ref": "Song of Songs 6:12",
+          "segment_mode": "whole",
+          "sha256": "d9de3e535ccb26282dc74177a95143d348cb7c8e5948435e4e119a103cf57e88"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d9de3e535ccb26282dc74177a95143d348cb7c8e5948435e4e119a103cf57e88",
+      "translation_sha256": "caba2d5ee838cec52f661a8e280e588f427089fd4252daff51d7b3a5deaff5c3",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 6,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:1 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 1,
+          "source_ref": "Song of Songs 7:1 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "f6e946ce118dcb2aad764cb06c8e857554964174153bd678a784faaf601f2e7f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "f6e946ce118dcb2aad764cb06c8e857554964174153bd678a784faaf601f2e7f",
+      "translation_sha256": "08caf2abd0564064c271f01b892500d4a3c4a0fb0c95fc554a3ea80f0011e374",
+      "tsw_blob_sha": "32c0db1573cc8acfb495d53e6566a9df2bef6d2f",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:2 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 2,
+          "source_ref": "Song of Songs 7:2 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "9bf9de81dd9075b2ab696d53cd2b9b46d6dcff65c596ac375c8ca5252e698ce1"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9bf9de81dd9075b2ab696d53cd2b9b46d6dcff65c596ac375c8ca5252e698ce1",
+      "translation_sha256": "d04f94c7e193e02613a9de030d4698e256e680986fc822b31e2accac7ab85c3e",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:3 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 3,
+          "source_ref": "Song of Songs 7:3 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "d284b50b0dc405468042787e734d33ac945e3235e81d1f1648714b43b34df0ff"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d284b50b0dc405468042787e734d33ac945e3235e81d1f1648714b43b34df0ff",
+      "translation_sha256": "c2bca8709e3276e65cb52ab765e23290c1fb97502374952b80042e82f22ee946",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:4 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 4,
+          "source_ref": "Song of Songs 7:4 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "de8e35e8dafe72d6c0347dfd59ba85a11b3207193c10f41c895a6f420ba511b2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "de8e35e8dafe72d6c0347dfd59ba85a11b3207193c10f41c895a6f420ba511b2",
+      "translation_sha256": "19556ef93af1f608fabdc7e88b31226086a00d2ace7f19849989bdd43408923d",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:5 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 5,
+          "source_ref": "Song of Songs 7:5 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "c63221712dde753384728a458b6d19d960e46593ace38a0f3639f40aba251150"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c63221712dde753384728a458b6d19d960e46593ace38a0f3639f40aba251150",
+      "translation_sha256": "b6413d84a6e45fd7446fd332c10e21b16670e602d1fcbdd6c9fee7bd40a362a2",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:6 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 6,
+          "source_ref": "Song of Songs 7:6 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "5ef2421efc44129d357928652ae66080074e11a92167c4202975c59a356d9212"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5ef2421efc44129d357928652ae66080074e11a92167c4202975c59a356d9212",
+      "translation_sha256": "e915a8adae9fc98e3436daa0101665f50debf69cf33b3aea621cd42057489abb",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:7 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 7,
+          "source_ref": "Song of Songs 7:7 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "15f46ba3ea5a075659de4b17a81e4baf3b0fc5e4772d382efeee024bf5831a24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "15f46ba3ea5a075659de4b17a81e4baf3b0fc5e4772d382efeee024bf5831a24",
+      "translation_sha256": "0443a3748c49952feeb25d8cc7ff0358b0529cd9fd8d49e12544b9edf32d42d7",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:8 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 8,
+          "source_ref": "Song of Songs 7:8 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "4abf6026729f0ffec694e9004078eda7685a2bf2deabda83fa8e07f6b44f41a2"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "4abf6026729f0ffec694e9004078eda7685a2bf2deabda83fa8e07f6b44f41a2",
+      "translation_sha256": "1c84de74a038b2c9e644ffb6068472b381419bba60c255087462816fe159e163",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:9 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 9,
+          "source_ref": "Song of Songs 7:9 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "1707c7f0a2d296282463be0978e2e9a08710796b82716cd891035994d969518c"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1707c7f0a2d296282463be0978e2e9a08710796b82716cd891035994d969518c",
+      "translation_sha256": "d55a90262d7b95e0056a743eeeaa116159423ec6dc777474b7531e4d4b1b7dc8",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:10 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 10,
+          "source_ref": "Song of Songs 7:10 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "fc49280161edec1e727272347a526e11387f0954686397d41ccd1ac2b9cbbd24"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "fc49280161edec1e727272347a526e11387f0954686397d41ccd1ac2b9cbbd24",
+      "translation_sha256": "36b0a0acd8bc76e401b2f7dbfd21abe32397297f3d59f17e200d9589c578fa83",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:11 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 11,
+          "source_ref": "Song of Songs 7:11 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "1c491627315e2cc26fba8f1b97eb58bf81522f67d6a7e51249983353ef8e26eb"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "1c491627315e2cc26fba8f1b97eb58bf81522f67d6a7e51249983353ef8e26eb",
+      "translation_sha256": "ac7b7a8947bc028a5000f030927ccc52c38e8772990502420bbed970780a010d",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:12 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 12,
+          "source_ref": "Song of Songs 7:12 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "24c197765bd5b68356b37a0782ccfa6a923454cd2f9957d2389911ee17258813"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "24c197765bd5b68356b37a0782ccfa6a923454cd2f9957d2389911ee17258813",
+      "translation_sha256": "6e90b22ff2cac18fc95b47b86ee7535de40bb91f66a426e5f85d36bbda35ca89",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:13 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 13,
+          "source_ref": "Song of Songs 7:13 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "9e2044f38285e89de7bceb13bc5ca8c2ea4d6cc31041279765263d86c00dde2a"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "9e2044f38285e89de7bceb13bc5ca8c2ea4d6cc31041279765263d86c00dde2a",
+      "translation_sha256": "2c6e48313dfe03fd93062176e74a703b10f9280d6a88e52cf53e5622ebbf5fb1",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 7,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 7:14 (Hebrew)",
+      "source_records": [
+        {
+          "chapter": 7,
+          "verse": 14,
+          "source_ref": "Song of Songs 7:14 (Hebrew)",
+          "segment_mode": "whole",
+          "sha256": "e2c0624324a23017febbe2b61205c21278d7e68ab662c813e5ebffef62a2f36d"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "e2c0624324a23017febbe2b61205c21278d7e68ab662c813e5ebffef62a2f36d",
+      "translation_sha256": "99099d1f94faee29401b65a58612210177c0d9604e7efca9b84f7a511a0ac984",
+      "tsw_blob_sha": "876687dffd31e22573813dcad4aa6e66985122a2",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:1",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 1,
+          "source_ref": "Song of Songs 8:1",
+          "segment_mode": "whole",
+          "sha256": "5a896a5ccffa2443a8e8123092cd76410ac857e0c7f57a1e1f1849d6e42ca6a8"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "5a896a5ccffa2443a8e8123092cd76410ac857e0c7f57a1e1f1849d6e42ca6a8",
+      "translation_sha256": "f963c65e9518e76ddba0628453ac361197ed406f06bfcb37557c79e2ff5f45fe",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:2",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 2,
+          "source_ref": "Song of Songs 8:2",
+          "segment_mode": "whole",
+          "sha256": "c516d190231594a97edd76a9408de5d0c401acacc980b525e65e2e8984846e75"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "c516d190231594a97edd76a9408de5d0c401acacc980b525e65e2e8984846e75",
+      "translation_sha256": "a2c3360eef794c60014a00107ad43fa8dd0edb6aa8f7272aabe2350e5fd0a11d",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:3",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 3,
+          "source_ref": "Song of Songs 8:3",
+          "segment_mode": "whole",
+          "sha256": "634c0c6c555a4ccc61cceee377eb55fc3303798734c414d6ae7e0d15564d18ad"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "634c0c6c555a4ccc61cceee377eb55fc3303798734c414d6ae7e0d15564d18ad",
+      "translation_sha256": "9e07a8bed913674f3f73c52e2915ed31d3bbb2b1917d3892f89b32b3edd6df93",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:4",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 4,
+          "source_ref": "Song of Songs 8:4",
+          "segment_mode": "whole",
+          "sha256": "8dc28e41cf93e08c23a7993751bcd53928e6fbd1f32a5bcbd9a31ad3febb2562"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "8dc28e41cf93e08c23a7993751bcd53928e6fbd1f32a5bcbd9a31ad3febb2562",
+      "translation_sha256": "3173139be4290bc12ba1cc1cd515d41274ddf57d61a45ecc0a3fbb0d8a7596ba",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Preserve reciprocal praise and embodied desire without importing shame into the poem."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:5",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 5,
+          "source_ref": "Song of Songs 8:5",
+          "segment_mode": "whole",
+          "sha256": "accd300d8cdb14cb3abbe38eafa3b5680e2ae984c2ef59d56eeafd52e0e0530f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "accd300d8cdb14cb3abbe38eafa3b5680e2ae984c2ef59d56eeafd52e0e0530f",
+      "translation_sha256": "ef3ce06b747a2265a50f3069efd3b1938fc6fb89f9f0271ea33a791c5a293e8b",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Keep love, death, jealousy, flame, waters, and wealth in the poem's climactic claim that love cannot be bought."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:6",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 6,
+          "source_ref": "Song of Songs 8:6",
+          "segment_mode": "whole",
+          "sha256": "0d52af53aebf8e27f6cee307eec7364a78f3e600fbe1d691d45a52d6f44d5d41"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "0d52af53aebf8e27f6cee307eec7364a78f3e600fbe1d691d45a52d6f44d5d41",
+      "translation_sha256": "afed12489fe5e5a21340b4025997e8804d793e26d72919a121d750cc4da5e8b8",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Keep love, death, jealousy, flame, waters, and wealth in the poem's climactic claim that love cannot be bought."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:7",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 7,
+          "source_ref": "Song of Songs 8:7",
+          "segment_mode": "whole",
+          "sha256": "d382237d4111dafcf52be74371716c298a69d4eae61341132b29705f3adfdc30"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "d382237d4111dafcf52be74371716c298a69d4eae61341132b29705f3adfdc30",
+      "translation_sha256": "10da724bcdabb7b27e00519fe08956ded79c8d59c8eb43777f711bebc304c7df",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Keep love, death, jealousy, flame, waters, and wealth in the poem's climactic claim that love cannot be bought."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:8",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 8,
+          "source_ref": "Song of Songs 8:8",
+          "segment_mode": "whole",
+          "sha256": "cb4642c4667259d7cab1de52cc9eb8c2188210359eddf07a188e028c274fd651"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "cb4642c4667259d7cab1de52cc9eb8c2188210359eddf07a188e028c274fd651",
+      "translation_sha256": "c3b9844583aa7b792c4a886398b1588489054d69b2046d44410196e8338269e9",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Retain the debated family voices and the woman's agency without turning the imagery into a universal rule for controlling girls or women."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:9",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 9,
+          "source_ref": "Song of Songs 8:9",
+          "segment_mode": "whole",
+          "sha256": "ba3a5f34d59a2fa9ddd50fc6de535bf7b4bddd5af4673414fc90eb3a0790a19e"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "ba3a5f34d59a2fa9ddd50fc6de535bf7b4bddd5af4673414fc90eb3a0790a19e",
+      "translation_sha256": "abdae9fd91d47553b17c4241d26b739f66fb71dc3f329fbf327494ffb596846d",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Retain the debated family voices and the woman's agency without turning the imagery into a universal rule for controlling girls or women."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:10",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 10,
+          "source_ref": "Song of Songs 8:10",
+          "segment_mode": "whole",
+          "sha256": "dd08c5a83b1f7ba7918b3c0305d18488b0bf8d934fbf3b1ffa018e33df052c18"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "dd08c5a83b1f7ba7918b3c0305d18488b0bf8d934fbf3b1ffa018e33df052c18",
+      "translation_sha256": "bc71ae466b89de5b28aaec37b42a66572fb831f493061bd609ed50b5208653b0",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Retain the debated family voices and the woman's agency without turning the imagery into a universal rule for controlling girls or women."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:11",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 11,
+          "source_ref": "Song of Songs 8:11",
+          "segment_mode": "whole",
+          "sha256": "58e7d3bd4bb7547289c0ff7f9fa232037bf643ed5361e68e4d6d44f70d75d39f"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "58e7d3bd4bb7547289c0ff7f9fa232037bf643ed5361e68e4d6d44f70d75d39f",
+      "translation_sha256": "1deb47f56448aca9a0dadb334a05bbf25af947f7423a13293bafb0a82aa2ded5",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Retain the debated family voices and the woman's agency without turning the imagery into a universal rule for controlling girls or women."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:12",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 12,
+          "source_ref": "Song of Songs 8:12",
+          "segment_mode": "whole",
+          "sha256": "67fb95551cfc14458aaeb052b73e77638e4384f6aa61d2d9bb94bc0abc1857e5"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "67fb95551cfc14458aaeb052b73e77638e4384f6aa61d2d9bb94bc0abc1857e5",
+      "translation_sha256": "7829610435d2f25687f4c20ee2c853480321119cc2ad027859a8cc35c66f5c67",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Retain the debated family voices and the woman's agency without turning the imagery into a universal rule for controlling girls or women."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:13",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 13,
+          "source_ref": "Song of Songs 8:13",
+          "segment_mode": "whole",
+          "sha256": "52886c1ee3026dd6cf50a3c736aba0c096ee6dd0b1f06f3a2a48f94989f8ec23"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "52886c1ee3026dd6cf50a3c736aba0c096ee6dd0b1f06f3a2a48f94989f8ec23",
+      "translation_sha256": "168a1252c1d7f744859934c24da4ae99c2c0b5da27e02e11acf70742bbcb11fe",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Retain the debated family voices and the woman's agency without turning the imagery into a universal rule for controlling girls or women."
+      ]
+    },
+    {
+      "chapter": 8,
+      "public_verse": 14,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "Song of Songs 8:14",
+      "source_records": [
+        {
+          "chapter": 8,
+          "verse": 14,
+          "source_ref": "Song of Songs 8:14",
+          "segment_mode": "whole",
+          "sha256": "bf63763e59523402a0c59727bf00ef468fce2e8a1dd8d7003b37a751fddbe834"
+        }
+      ],
+      "source_segment_mode": "whole",
+      "source_sha256": "bf63763e59523402a0c59727bf00ef468fce2e8a1dd8d7003b37a751fddbe834",
+      "translation_sha256": "36c8c9b031d6a1b50d034248e02754876371bfc47e35414e41927558ab255fdb",
+      "tsw_blob_sha": "9c03be7d0cc84a02203b2dba843c5cc785169769",
+      "curated_decisions": [
+        "Retain the debated family voices and the woman's agency without turning the imagery into a universal rule for controlling girls or women."
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 0,
+    "F1": 0,
+    "F2": 0,
+    "F3": 117
+  },
+  "public_verse_slots": 117,
+  "included_source_bindings": 117
+}
