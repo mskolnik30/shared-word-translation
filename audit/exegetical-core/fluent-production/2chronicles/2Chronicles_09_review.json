@@ -1,0 +1,501 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 9,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Chronicles 9:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 1,
+            "source_ref": "2 Chronicles 9:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "88d5be525692720f896a5829811e5099e8563551bedd7f4f20cb5e3be6613677"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "88d5be525692720f896a5829811e5099e8563551bedd7f4f20cb5e3be6613677"
+      },
+      "2": {
+        "source_ref": "2 Chronicles 9:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 2,
+            "source_ref": "2 Chronicles 9:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "48923ff5a7d55535b65a5f99fbc7e66aec2902850833c5e58b422303fd49bfc5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "48923ff5a7d55535b65a5f99fbc7e66aec2902850833c5e58b422303fd49bfc5"
+      },
+      "3": {
+        "source_ref": "2 Chronicles 9:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 3,
+            "source_ref": "2 Chronicles 9:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "738dcf5f6e6acb138ae4c0d3dd63a542a10729c5f5ac0859344b64af24d14f84"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "738dcf5f6e6acb138ae4c0d3dd63a542a10729c5f5ac0859344b64af24d14f84"
+      },
+      "4": {
+        "source_ref": "2 Chronicles 9:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 4,
+            "source_ref": "2 Chronicles 9:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "38161446cff245759188cf23db021ed7d32556a1218a1c42ce559624cb3d4261"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "38161446cff245759188cf23db021ed7d32556a1218a1c42ce559624cb3d4261"
+      },
+      "5": {
+        "source_ref": "2 Chronicles 9:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 5,
+            "source_ref": "2 Chronicles 9:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "45cfafbf5c51543b056a2518b35ef66e66880a85b4ada745efb4cfc0bfa25cc2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "45cfafbf5c51543b056a2518b35ef66e66880a85b4ada745efb4cfc0bfa25cc2"
+      },
+      "6": {
+        "source_ref": "2 Chronicles 9:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 6,
+            "source_ref": "2 Chronicles 9:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6778ef1a4310281d805941fa4fc6ee75a3824f7297d1e19ecd6d064f2e9f710"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6778ef1a4310281d805941fa4fc6ee75a3824f7297d1e19ecd6d064f2e9f710"
+      },
+      "7": {
+        "source_ref": "2 Chronicles 9:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 7,
+            "source_ref": "2 Chronicles 9:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9099536f0956eee0b91ca5153d07e098fbaad9528351e9b60c87cfaeb76a72c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9099536f0956eee0b91ca5153d07e098fbaad9528351e9b60c87cfaeb76a72c6"
+      },
+      "8": {
+        "source_ref": "2 Chronicles 9:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 8,
+            "source_ref": "2 Chronicles 9:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c39599e557220445e420f67310036aa234da91a9e94e16ea7ba916d209876d05"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c39599e557220445e420f67310036aa234da91a9e94e16ea7ba916d209876d05"
+      },
+      "9": {
+        "source_ref": "2 Chronicles 9:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 9,
+            "source_ref": "2 Chronicles 9:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8f609bc3c6b5ac06a8dfa183a909ac65a1f8bc8851049de485a7b5b21877977b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8f609bc3c6b5ac06a8dfa183a909ac65a1f8bc8851049de485a7b5b21877977b"
+      },
+      "10": {
+        "source_ref": "2 Chronicles 9:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 10,
+            "source_ref": "2 Chronicles 9:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "46d33e97bbc3846424a50a0134d39cdb3386d578f98f620e414efb025c3d61dd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46d33e97bbc3846424a50a0134d39cdb3386d578f98f620e414efb025c3d61dd"
+      },
+      "11": {
+        "source_ref": "2 Chronicles 9:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 11,
+            "source_ref": "2 Chronicles 9:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "409894a7bb68360295d85357e05ff54556a551255b298fabd6f4a43df8800358"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "409894a7bb68360295d85357e05ff54556a551255b298fabd6f4a43df8800358"
+      },
+      "12": {
+        "source_ref": "2 Chronicles 9:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 12,
+            "source_ref": "2 Chronicles 9:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "76b4311af9466d51076c3f2c81ca294675057f0a2e3ad2f5094bee69e62f6dd6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "76b4311af9466d51076c3f2c81ca294675057f0a2e3ad2f5094bee69e62f6dd6"
+      },
+      "13": {
+        "source_ref": "2 Chronicles 9:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 13,
+            "source_ref": "2 Chronicles 9:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5f476843a8abd0f9eb9f4b79548f111101d513e7443f2f74b61ec187597c0d60"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5f476843a8abd0f9eb9f4b79548f111101d513e7443f2f74b61ec187597c0d60"
+      },
+      "14": {
+        "source_ref": "2 Chronicles 9:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 14,
+            "source_ref": "2 Chronicles 9:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cb22cae87a37a86839a34e8e7a760d89c9739bd0db2b995fd79b76acc5ae8859"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cb22cae87a37a86839a34e8e7a760d89c9739bd0db2b995fd79b76acc5ae8859"
+      },
+      "15": {
+        "source_ref": "2 Chronicles 9:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 15,
+            "source_ref": "2 Chronicles 9:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f2eb86c0a308af63b16254ec41831f8b12f1ffa9348425a8515dc06ccf551113"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f2eb86c0a308af63b16254ec41831f8b12f1ffa9348425a8515dc06ccf551113"
+      },
+      "16": {
+        "source_ref": "2 Chronicles 9:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 16,
+            "source_ref": "2 Chronicles 9:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1a11f83b72786013d8ff71f64109da5fb1577b681e3423c29ff76274eba99f1f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1a11f83b72786013d8ff71f64109da5fb1577b681e3423c29ff76274eba99f1f"
+      },
+      "17": {
+        "source_ref": "2 Chronicles 9:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 17,
+            "source_ref": "2 Chronicles 9:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5e733879de7b32541fc3e51d278b8ee8d8dae30a48d43c93bb8241a16f8a6ae9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5e733879de7b32541fc3e51d278b8ee8d8dae30a48d43c93bb8241a16f8a6ae9"
+      },
+      "18": {
+        "source_ref": "2 Chronicles 9:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 18,
+            "source_ref": "2 Chronicles 9:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "2eab3cb7a40932e9e9e9d57e6e5461c2a72437747063bd0c9b54ff001ed24f5f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2eab3cb7a40932e9e9e9d57e6e5461c2a72437747063bd0c9b54ff001ed24f5f"
+      },
+      "19": {
+        "source_ref": "2 Chronicles 9:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 19,
+            "source_ref": "2 Chronicles 9:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "6b6bc310959bf752d04bf2b75d3b401bc1033b2c69fb2edce8013971d5e79621"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6b6bc310959bf752d04bf2b75d3b401bc1033b2c69fb2edce8013971d5e79621"
+      },
+      "20": {
+        "source_ref": "2 Chronicles 9:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 20,
+            "source_ref": "2 Chronicles 9:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d00a134be422858be23019fa805ea274047724911e7f42effc2d80899801632"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d00a134be422858be23019fa805ea274047724911e7f42effc2d80899801632"
+      },
+      "21": {
+        "source_ref": "2 Chronicles 9:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 21,
+            "source_ref": "2 Chronicles 9:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "82d919bb3a3342252a6007aad9b24618941cb389e96499f76ce1d5d3d5718e79"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "82d919bb3a3342252a6007aad9b24618941cb389e96499f76ce1d5d3d5718e79"
+      },
+      "22": {
+        "source_ref": "2 Chronicles 9:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 22,
+            "source_ref": "2 Chronicles 9:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9d2fae268219c9428236551b45ccefda2b3f3ab92d7eba4afad24bb29f1cd04d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9d2fae268219c9428236551b45ccefda2b3f3ab92d7eba4afad24bb29f1cd04d"
+      },
+      "23": {
+        "source_ref": "2 Chronicles 9:23 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 23,
+            "source_ref": "2 Chronicles 9:23 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "de371b7310ed71a30ffe01904a945da3508697c5556a6c396005aab5ad7330ea"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "de371b7310ed71a30ffe01904a945da3508697c5556a6c396005aab5ad7330ea"
+      },
+      "24": {
+        "source_ref": "2 Chronicles 9:24 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 24,
+            "source_ref": "2 Chronicles 9:24 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "367d3593ec55a81ce19be18430a0814cb72ca17644723a6089e69ec20114935b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "367d3593ec55a81ce19be18430a0814cb72ca17644723a6089e69ec20114935b"
+      },
+      "25": {
+        "source_ref": "2 Chronicles 9:25 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 25,
+            "source_ref": "2 Chronicles 9:25 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "168d69c0362ec9869637a7000fe0caa6266ba94981cd02c0672c68e4034734a7"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "168d69c0362ec9869637a7000fe0caa6266ba94981cd02c0672c68e4034734a7"
+      },
+      "26": {
+        "source_ref": "2 Chronicles 9:26 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 26,
+            "source_ref": "2 Chronicles 9:26 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e41a0b59a92ef1fe4c707d5c456be9b023b87852c573e26cab4ff5a586763b48"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e41a0b59a92ef1fe4c707d5c456be9b023b87852c573e26cab4ff5a586763b48"
+      },
+      "27": {
+        "source_ref": "2 Chronicles 9:27 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 27,
+            "source_ref": "2 Chronicles 9:27 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "66e303ea915ffa944ba40bd5a9a7aea507c16da2e9919c4f6b9bbe005189c159"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "66e303ea915ffa944ba40bd5a9a7aea507c16da2e9919c4f6b9bbe005189c159"
+      },
+      "28": {
+        "source_ref": "2 Chronicles 9:28 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 28,
+            "source_ref": "2 Chronicles 9:28 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "344ffe7a245544fa38de6f9b28d69decbee3758f16116be4fc5167533959651b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "344ffe7a245544fa38de6f9b28d69decbee3758f16116be4fc5167533959651b"
+      },
+      "29": {
+        "source_ref": "2 Chronicles 9:29 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 29,
+            "source_ref": "2 Chronicles 9:29 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "089a220556dda3c99bcab7fcab8067b27143ec55ae2a49bcdff3b7a15e81d79e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "089a220556dda3c99bcab7fcab8067b27143ec55ae2a49bcdff3b7a15e81d79e"
+      },
+      "30": {
+        "source_ref": "2 Chronicles 9:30 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 30,
+            "source_ref": "2 Chronicles 9:30 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af60756aa92dec0a1418e5ec9429b73690f1926ca3465c37ab442860f94c3963"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af60756aa92dec0a1418e5ec9429b73690f1926ca3465c37ab442860f94c3963"
+      },
+      "31": {
+        "source_ref": "2 Chronicles 9:31 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 9,
+            "verse": 31,
+            "source_ref": "2 Chronicles 9:31 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "199f2e6491aa939cca3f2609530dd3eae14b7d14cb340e758f06a87ea13c7d51"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "199f2e6491aa939cca3f2609530dd3eae14b7d14cb340e758f06a87ea13c7d51"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2chronicles/2Chronicles_09.md",
+    "blob_sha": "98686fbde6adf2ff379df4832c4fb18ef08be706"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

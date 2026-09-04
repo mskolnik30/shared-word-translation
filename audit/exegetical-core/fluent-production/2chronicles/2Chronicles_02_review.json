@@ -1,0 +1,306 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 2,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Chronicles 1:18 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 18,
+            "source_ref": "2 Chronicles 1:18 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "50a2169a4363befed13db29298081c4710a2ad602259e802ec3d39945ef2bef3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "50a2169a4363befed13db29298081c4710a2ad602259e802ec3d39945ef2bef3"
+      },
+      "2": {
+        "source_ref": "2 Chronicles 2:1 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "2 Chronicles 2:1 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "b3bab6104d22377e3cd2002b7ea715c79f8005c5be0f13f90db6074efc0bf5fc"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "b3bab6104d22377e3cd2002b7ea715c79f8005c5be0f13f90db6074efc0bf5fc"
+      },
+      "3": {
+        "source_ref": "2 Chronicles 2:2 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "2 Chronicles 2:2 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f4ad626a7498749f863b2faea2f7247ee33bc9e48d3af2bec197f5df0b5f7e7e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f4ad626a7498749f863b2faea2f7247ee33bc9e48d3af2bec197f5df0b5f7e7e"
+      },
+      "4": {
+        "source_ref": "2 Chronicles 2:3 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "2 Chronicles 2:3 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "f4f610bea8fb5b8f6ce0c86c52ead429fbb757965a357b26ce0db054dd1beaa2"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "f4f610bea8fb5b8f6ce0c86c52ead429fbb757965a357b26ce0db054dd1beaa2"
+      },
+      "5": {
+        "source_ref": "2 Chronicles 2:4 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "2 Chronicles 2:4 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "16651a99dfc7cdd1ce56293dff61d5ea231b4fdb5508fd1ce9e5033dac7ea66d"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "16651a99dfc7cdd1ce56293dff61d5ea231b4fdb5508fd1ce9e5033dac7ea66d"
+      },
+      "6": {
+        "source_ref": "2 Chronicles 2:5 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 5,
+            "source_ref": "2 Chronicles 2:5 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4d01751aed9755a813a04e5647a4a19984c63772bd1f208e2ec4513044523770"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4d01751aed9755a813a04e5647a4a19984c63772bd1f208e2ec4513044523770"
+      },
+      "7": {
+        "source_ref": "2 Chronicles 2:6 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 6,
+            "source_ref": "2 Chronicles 2:6 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "71f3e732c14db50098b2b3d022950bd9fb851f636ef4a1cd9cc33b5dad91e9c3"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "71f3e732c14db50098b2b3d022950bd9fb851f636ef4a1cd9cc33b5dad91e9c3"
+      },
+      "8": {
+        "source_ref": "2 Chronicles 2:7 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 7,
+            "source_ref": "2 Chronicles 2:7 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "d07b70775ce667eccbe85181f692ebb2b26d4dd5d49e4ee3f8e13f5743a31ca0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "d07b70775ce667eccbe85181f692ebb2b26d4dd5d49e4ee3f8e13f5743a31ca0"
+      },
+      "9": {
+        "source_ref": "2 Chronicles 2:8 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 8,
+            "source_ref": "2 Chronicles 2:8 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "00bd9f7ec161894e5f0c6e14d3ee8d6d1f990beb294cc2c326bace49b528525f"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "00bd9f7ec161894e5f0c6e14d3ee8d6d1f990beb294cc2c326bace49b528525f"
+      },
+      "10": {
+        "source_ref": "2 Chronicles 2:9 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 9,
+            "source_ref": "2 Chronicles 2:9 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "ab74592001efc98792f5aa504958ebe51109640fba3d92536af5cb58c04af106"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "ab74592001efc98792f5aa504958ebe51109640fba3d92536af5cb58c04af106"
+      },
+      "11": {
+        "source_ref": "2 Chronicles 2:10 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 10,
+            "source_ref": "2 Chronicles 2:10 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4e062473de19b051ee876ae5bd66de2bda7cf4d1e97e8c145c5be7e0ac7393c6"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4e062473de19b051ee876ae5bd66de2bda7cf4d1e97e8c145c5be7e0ac7393c6"
+      },
+      "12": {
+        "source_ref": "2 Chronicles 2:11 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 11,
+            "source_ref": "2 Chronicles 2:11 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7b523cf659e5af81b1b4249d50c6d638abc2c845ae4f8ca282f6ad9875a43bd0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7b523cf659e5af81b1b4249d50c6d638abc2c845ae4f8ca282f6ad9875a43bd0"
+      },
+      "13": {
+        "source_ref": "2 Chronicles 2:12 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 12,
+            "source_ref": "2 Chronicles 2:12 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "03063f9ba8b2eea2c3d4b671cff043f562e84925befa94cc906e38b92c64295a"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "03063f9ba8b2eea2c3d4b671cff043f562e84925befa94cc906e38b92c64295a"
+      },
+      "14": {
+        "source_ref": "2 Chronicles 2:13 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 13,
+            "source_ref": "2 Chronicles 2:13 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2aa2fbc53ef3d6a83b1d31b4dad18fb3e497e074d3b3b6ba6ac6a85c3d9401d8"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2aa2fbc53ef3d6a83b1d31b4dad18fb3e497e074d3b3b6ba6ac6a85c3d9401d8"
+      },
+      "15": {
+        "source_ref": "2 Chronicles 2:14 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 14,
+            "source_ref": "2 Chronicles 2:14 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "847cb5b1042fbf9b3096b14328e8ddb1317c7cb0a1e18dd9f080eb98d9060af0"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "847cb5b1042fbf9b3096b14328e8ddb1317c7cb0a1e18dd9f080eb98d9060af0"
+      },
+      "16": {
+        "source_ref": "2 Chronicles 2:15 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 15,
+            "source_ref": "2 Chronicles 2:15 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "7c637433f0d801b259c72ce5fe33e46b408926e649c2a68cc017aa47d9d941c5"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "7c637433f0d801b259c72ce5fe33e46b408926e649c2a68cc017aa47d9d941c5"
+      },
+      "17": {
+        "source_ref": "2 Chronicles 2:16 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 16,
+            "source_ref": "2 Chronicles 2:16 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "4a39d1c43279d80bc0fa6c27fb90dc710e74c0708f8441fa4492b05432f5f66e"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "4a39d1c43279d80bc0fa6c27fb90dc710e74c0708f8441fa4492b05432f5f66e"
+      },
+      "18": {
+        "source_ref": "2 Chronicles 2:17 (Hebrew; after kjv marker)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 17,
+            "source_ref": "2 Chronicles 2:17 (Hebrew; after kjv marker)",
+            "segment_mode": "after_kjv_marker",
+            "sha256": "2c2dd3d80e59945707c3bb8808daa3bb59fe125b7e1c58264ceade04849cca55"
+          }
+        ],
+        "segment_mode": "after_kjv_marker",
+        "sha256": "2c2dd3d80e59945707c3bb8808daa3bb59fe125b7e1c58264ceade04849cca55"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2chronicles/2Chronicles_02.md",
+    "blob_sha": "11039f25d2cb4618f2f69e34cf47b3af794439e1"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

@@ -1,0 +1,306 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 8,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Chronicles 8:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 1,
+            "source_ref": "2 Chronicles 8:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5223ccbdb305ad7f60da64c26b53b539352772b4c0d05c38daa8c6900a44ae5f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5223ccbdb305ad7f60da64c26b53b539352772b4c0d05c38daa8c6900a44ae5f"
+      },
+      "2": {
+        "source_ref": "2 Chronicles 8:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 2,
+            "source_ref": "2 Chronicles 8:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "949377f063a619623d130bac27e1d890b599c37c4f20278cbe0facb537ed32fc"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "949377f063a619623d130bac27e1d890b599c37c4f20278cbe0facb537ed32fc"
+      },
+      "3": {
+        "source_ref": "2 Chronicles 8:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 3,
+            "source_ref": "2 Chronicles 8:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "dfbe6752413984f367ad11ea077663545f43e47c1cf2df4aa169298626c58427"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "dfbe6752413984f367ad11ea077663545f43e47c1cf2df4aa169298626c58427"
+      },
+      "4": {
+        "source_ref": "2 Chronicles 8:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 4,
+            "source_ref": "2 Chronicles 8:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "a6cfe3633b360c780126d3059660f553de2a8cc5d704ca291531e5b8837c0fb9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6cfe3633b360c780126d3059660f553de2a8cc5d704ca291531e5b8837c0fb9"
+      },
+      "5": {
+        "source_ref": "2 Chronicles 8:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 5,
+            "source_ref": "2 Chronicles 8:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "65fbc86928be3827dbdc0c7b8284e98227da5b41c88ea79be18a2932904e9c17"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "65fbc86928be3827dbdc0c7b8284e98227da5b41c88ea79be18a2932904e9c17"
+      },
+      "6": {
+        "source_ref": "2 Chronicles 8:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 6,
+            "source_ref": "2 Chronicles 8:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "3f101e2feb28fa5d625ad96c0a9fdecd05dab1aaaaa5e9c8a75338c90a6a2142"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "3f101e2feb28fa5d625ad96c0a9fdecd05dab1aaaaa5e9c8a75338c90a6a2142"
+      },
+      "7": {
+        "source_ref": "2 Chronicles 8:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 7,
+            "source_ref": "2 Chronicles 8:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f9a60700487bf6a327eed5ac9b90befa109eb13c1bfba831b9bf600a1743e747"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f9a60700487bf6a327eed5ac9b90befa109eb13c1bfba831b9bf600a1743e747"
+      },
+      "8": {
+        "source_ref": "2 Chronicles 8:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 8,
+            "source_ref": "2 Chronicles 8:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b05d46199463a90950884646bf5803986f25ea623c3cefcfdb3573b3593bc691"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b05d46199463a90950884646bf5803986f25ea623c3cefcfdb3573b3593bc691"
+      },
+      "9": {
+        "source_ref": "2 Chronicles 8:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 9,
+            "source_ref": "2 Chronicles 8:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "da6b6c4a6665406a2750bf59e0915874e787eea24bda0657e85c9136d12520c6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "da6b6c4a6665406a2750bf59e0915874e787eea24bda0657e85c9136d12520c6"
+      },
+      "10": {
+        "source_ref": "2 Chronicles 8:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 10,
+            "source_ref": "2 Chronicles 8:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "46a42b5e88ddfbed5c8724c33262739c6bece87839dbff8df403dfa869cfb884"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "46a42b5e88ddfbed5c8724c33262739c6bece87839dbff8df403dfa869cfb884"
+      },
+      "11": {
+        "source_ref": "2 Chronicles 8:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 11,
+            "source_ref": "2 Chronicles 8:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01b4f5f9f946062442b54d5d4ea4cfe66b4a0466c769de8915fa9e72009c0f78"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01b4f5f9f946062442b54d5d4ea4cfe66b4a0466c769de8915fa9e72009c0f78"
+      },
+      "12": {
+        "source_ref": "2 Chronicles 8:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 12,
+            "source_ref": "2 Chronicles 8:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "4ed7a5511a6ee1c7c2c977747b2552900bbb8d408467a459a07cc660dc31d272"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "4ed7a5511a6ee1c7c2c977747b2552900bbb8d408467a459a07cc660dc31d272"
+      },
+      "13": {
+        "source_ref": "2 Chronicles 8:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 13,
+            "source_ref": "2 Chronicles 8:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "841ce74ac71a6dfefdb2d1bd729758d70666dcfb0b3ffd2ae14b70c670f70597"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "841ce74ac71a6dfefdb2d1bd729758d70666dcfb0b3ffd2ae14b70c670f70597"
+      },
+      "14": {
+        "source_ref": "2 Chronicles 8:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 14,
+            "source_ref": "2 Chronicles 8:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8fa0d2065be1f220032c24ad888856bc2227f49145e59a38244d070d6847726e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8fa0d2065be1f220032c24ad888856bc2227f49145e59a38244d070d6847726e"
+      },
+      "15": {
+        "source_ref": "2 Chronicles 8:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 15,
+            "source_ref": "2 Chronicles 8:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "ca7e672c3d98dc25498307b0a67091a748e646c2e01671706219d9b5c2bebda0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ca7e672c3d98dc25498307b0a67091a748e646c2e01671706219d9b5c2bebda0"
+      },
+      "16": {
+        "source_ref": "2 Chronicles 8:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 16,
+            "source_ref": "2 Chronicles 8:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "11e85d7f26359b661c8a33fab35d459eb9ab702a2d25479b3fdb3fbb4072b688"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "11e85d7f26359b661c8a33fab35d459eb9ab702a2d25479b3fdb3fbb4072b688"
+      },
+      "17": {
+        "source_ref": "2 Chronicles 8:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 17,
+            "source_ref": "2 Chronicles 8:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "104cf9fa2731a2b35d12b9cbe45f3971eab0206b0f1cd32e2467a95a8a289de9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "104cf9fa2731a2b35d12b9cbe45f3971eab0206b0f1cd32e2467a95a8a289de9"
+      },
+      "18": {
+        "source_ref": "2 Chronicles 8:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 8,
+            "verse": 18,
+            "source_ref": "2 Chronicles 8:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "d75846204c11fee561e6462e82c3ab3664d8f9347b6bf60813861d50a55a7987"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d75846204c11fee561e6462e82c3ab3664d8f9347b6bf60813861d50a55a7987"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2chronicles/2Chronicles_08.md",
+    "blob_sha": "ccc4b2a9a0d0a5206dde7957aac8e613e96c01e8"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

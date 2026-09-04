@@ -1,0 +1,366 @@
+{
+  "book": "2 Chronicles",
+  "chapter": 4,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22
+  ],
+  "curated_f3_decisions": [],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 Chronicles 4:1 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 1,
+            "source_ref": "2 Chronicles 4:1 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "914c527dff6d05a5f0bb1a5a59ceeda9c3f603415fdd52be2fa8079e3da52b37"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "914c527dff6d05a5f0bb1a5a59ceeda9c3f603415fdd52be2fa8079e3da52b37"
+      },
+      "2": {
+        "source_ref": "2 Chronicles 4:2 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 2,
+            "source_ref": "2 Chronicles 4:2 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "9e1f40b19e6a9ed12a5c7a8a1c75bea76a730a5dd0babb6647de6696fbbe4511"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9e1f40b19e6a9ed12a5c7a8a1c75bea76a730a5dd0babb6647de6696fbbe4511"
+      },
+      "3": {
+        "source_ref": "2 Chronicles 4:3 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 3,
+            "source_ref": "2 Chronicles 4:3 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "b23e5ee75a1fdef27345059f2fd24a10e0b81431a3f086bf7ebb15e63146d5a5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b23e5ee75a1fdef27345059f2fd24a10e0b81431a3f086bf7ebb15e63146d5a5"
+      },
+      "4": {
+        "source_ref": "2 Chronicles 4:4 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 4,
+            "source_ref": "2 Chronicles 4:4 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f57c7f08b6dc87dfe53e64ffa62569a3ff4e970202686a665e1887519f8d2654"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f57c7f08b6dc87dfe53e64ffa62569a3ff4e970202686a665e1887519f8d2654"
+      },
+      "5": {
+        "source_ref": "2 Chronicles 4:5 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 5,
+            "source_ref": "2 Chronicles 4:5 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "abfed27a2f990daa89acb739efaf3a7d09b5822122b6ab58eec449ec74ac73ab"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "abfed27a2f990daa89acb739efaf3a7d09b5822122b6ab58eec449ec74ac73ab"
+      },
+      "6": {
+        "source_ref": "2 Chronicles 4:6 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 6,
+            "source_ref": "2 Chronicles 4:6 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "92b5f38db3279e764ecc7f6e3be28c5b52d4ffce2175ed17de6199b6ce7bacf5"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "92b5f38db3279e764ecc7f6e3be28c5b52d4ffce2175ed17de6199b6ce7bacf5"
+      },
+      "7": {
+        "source_ref": "2 Chronicles 4:7 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 7,
+            "source_ref": "2 Chronicles 4:7 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "56604d5d868ee11c0570d95f49e9351b466077d72ee9f79a4f18797d8a7ff537"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "56604d5d868ee11c0570d95f49e9351b466077d72ee9f79a4f18797d8a7ff537"
+      },
+      "8": {
+        "source_ref": "2 Chronicles 4:8 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 8,
+            "source_ref": "2 Chronicles 4:8 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "0039766bcc7eeb7d9731154de03ea6a1b5098598d8fbffce0e9fc4ebb48aa61d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0039766bcc7eeb7d9731154de03ea6a1b5098598d8fbffce0e9fc4ebb48aa61d"
+      },
+      "9": {
+        "source_ref": "2 Chronicles 4:9 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 9,
+            "source_ref": "2 Chronicles 4:9 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "1372129380260005b9c2b8f4881bfe51691ed75f62fc5a3bc877938ddf2e7509"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "1372129380260005b9c2b8f4881bfe51691ed75f62fc5a3bc877938ddf2e7509"
+      },
+      "10": {
+        "source_ref": "2 Chronicles 4:10 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 10,
+            "source_ref": "2 Chronicles 4:10 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "c5f1a50a59c0817cef545df194758a23689c6f55cd71597ac4220df109c24745"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c5f1a50a59c0817cef545df194758a23689c6f55cd71597ac4220df109c24745"
+      },
+      "11": {
+        "source_ref": "2 Chronicles 4:11 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 11,
+            "source_ref": "2 Chronicles 4:11 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "cba64a3a097eef2e7cea2a87e4070804fb45ac5b26fa989fca888f8866f34905"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "cba64a3a097eef2e7cea2a87e4070804fb45ac5b26fa989fca888f8866f34905"
+      },
+      "12": {
+        "source_ref": "2 Chronicles 4:12 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 12,
+            "source_ref": "2 Chronicles 4:12 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "e1074d435fedd0c5ed50585b184c2e9dd06fbf3a21b96348e03d3dae56526200"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e1074d435fedd0c5ed50585b184c2e9dd06fbf3a21b96348e03d3dae56526200"
+      },
+      "13": {
+        "source_ref": "2 Chronicles 4:13 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 13,
+            "source_ref": "2 Chronicles 4:13 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "5df827c80cb55f2f72e146a5e02e52ae49d9125621f4325ad060fcf700c2f90a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "5df827c80cb55f2f72e146a5e02e52ae49d9125621f4325ad060fcf700c2f90a"
+      },
+      "14": {
+        "source_ref": "2 Chronicles 4:14 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 14,
+            "source_ref": "2 Chronicles 4:14 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "11ee48755c413870a49b1ef67a382f6f70b56eface17fd81eb5053dca213c2cf"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "11ee48755c413870a49b1ef67a382f6f70b56eface17fd81eb5053dca213c2cf"
+      },
+      "15": {
+        "source_ref": "2 Chronicles 4:15 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 15,
+            "source_ref": "2 Chronicles 4:15 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "f051732e4a1cd08f887c19d18fc3b607b72f997f511bfa85f2eac86a55de6100"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "f051732e4a1cd08f887c19d18fc3b607b72f997f511bfa85f2eac86a55de6100"
+      },
+      "16": {
+        "source_ref": "2 Chronicles 4:16 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 16,
+            "source_ref": "2 Chronicles 4:16 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "8d2ae094c62bc4218dfe668642599f1e1309a71da57bd24f0ce8128de67bc313"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "8d2ae094c62bc4218dfe668642599f1e1309a71da57bd24f0ce8128de67bc313"
+      },
+      "17": {
+        "source_ref": "2 Chronicles 4:17 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 17,
+            "source_ref": "2 Chronicles 4:17 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "900c49fd1fe8afd850f0d1b41c618e58d78bbf47cf1a055a279030a800f83c95"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "900c49fd1fe8afd850f0d1b41c618e58d78bbf47cf1a055a279030a800f83c95"
+      },
+      "18": {
+        "source_ref": "2 Chronicles 4:18 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 18,
+            "source_ref": "2 Chronicles 4:18 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "01bd8e27f7035a1769e74a4758921660550d2f0f5fad0cb91355dc01e647cdcd"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "01bd8e27f7035a1769e74a4758921660550d2f0f5fad0cb91355dc01e647cdcd"
+      },
+      "19": {
+        "source_ref": "2 Chronicles 4:19 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 19,
+            "source_ref": "2 Chronicles 4:19 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "83ba877fcf1ac340d30487503a2e1954ebd669aac9bc6e284555e06e18d0c86a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "83ba877fcf1ac340d30487503a2e1954ebd669aac9bc6e284555e06e18d0c86a"
+      },
+      "20": {
+        "source_ref": "2 Chronicles 4:20 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 20,
+            "source_ref": "2 Chronicles 4:20 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "7b9378b603648311d76fc739950b74b2318000cad5c01c418b526d94399e0ea1"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b9378b603648311d76fc739950b74b2318000cad5c01c418b526d94399e0ea1"
+      },
+      "21": {
+        "source_ref": "2 Chronicles 4:21 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 21,
+            "source_ref": "2 Chronicles 4:21 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "52362fd25bad8fa98f2ffc323b027b6e1b30290fba15030d0f4d3e1fd1b1e6be"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "52362fd25bad8fa98f2ffc323b027b6e1b30290fba15030d0f4d3e1fd1b1e6be"
+      },
+      "22": {
+        "source_ref": "2 Chronicles 4:22 (Hebrew; whole)",
+        "source_records": [
+          {
+            "chapter": 4,
+            "verse": 22,
+            "source_ref": "2 Chronicles 4:22 (Hebrew; whole)",
+            "segment_mode": "whole",
+            "sha256": "af8708ee123c82043cb074431f16294a5a7333039418dbc90158b59cc8de3290"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "af8708ee123c82043cb074431f16294a5a7333039418dbc90158b59cc8de3290"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/2chronicles/2Chronicles_04.md",
+    "blob_sha": "010024bb48169dc0393d4183b469624491604f70"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

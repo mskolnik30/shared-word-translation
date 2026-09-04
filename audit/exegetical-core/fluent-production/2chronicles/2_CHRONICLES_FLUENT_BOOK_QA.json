@@ -1,0 +1,204 @@
+{
+  "book": "2 Chronicles",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 36,
+  "public_verse_slots": 822,
+  "included_verse_labels": 822,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 822,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/2Chr.xml",
+    "git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:1-9:31",
+      "decision": "Preserve Solomon's wisdom, temple, worship, wealth, labor, and international reputation in the Chronicler's frame.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "10:1-20:37",
+      "decision": "Keep division, kingship, prophetic speech, warfare, reform, prayer, and deliverance together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "21:1-28:27",
+      "decision": "Translate dynastic violence, apostasy, invasion, loss, and limited reform without smoothing the decline.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "29:1-35:27",
+      "decision": "Preserve Hezekiah and Josiah's reforms, inclusive invitations, worship, covenant, and their limits.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "36:1-23",
+      "decision": "Keep rapid royal failure, temple destruction, exile, land Sabbath, and Cyrus's decree as the ending's judgment and opening.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "FINAL_FIFTEEN_BOOK_BATCH_06",
+  "deployment_audit": {
+    "source_git_blob_sha": "de93ace96bce4d0bc0c4a8afaa3e859213ad527c",
+    "source_binding_count": 822,
+    "unique_source_record_count": 822,
+    "public_verse_slots": 822,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 0,
+      "F2": 0,
+      "F3": 822
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/2chronicles/2Chronicles_01.md",
+        "blob_sha": "3f67e8eb3e5daaf2b3ec39e4b83122aa6d7e6124"
+      },
+      "02": {
+        "path": "books/OT/2chronicles/2Chronicles_02.md",
+        "blob_sha": "11039f25d2cb4618f2f69e34cf47b3af794439e1"
+      },
+      "03": {
+        "path": "books/OT/2chronicles/2Chronicles_03.md",
+        "blob_sha": "44a59776269ff623ac570e6e32073e0d164925cd"
+      },
+      "04": {
+        "path": "books/OT/2chronicles/2Chronicles_04.md",
+        "blob_sha": "010024bb48169dc0393d4183b469624491604f70"
+      },
+      "05": {
+        "path": "books/OT/2chronicles/2Chronicles_05.md",
+        "blob_sha": "43ecb0a8893ae6f29d071979cb94bc4b1fc2c875"
+      },
+      "06": {
+        "path": "books/OT/2chronicles/2Chronicles_06.md",
+        "blob_sha": "c0d658ce0c339af080b09690b728b0f87e637c8c"
+      },
+      "07": {
+        "path": "books/OT/2chronicles/2Chronicles_07.md",
+        "blob_sha": "8e7fe699224e557b79ee8405ea05839bcac4d668"
+      },
+      "08": {
+        "path": "books/OT/2chronicles/2Chronicles_08.md",
+        "blob_sha": "ccc4b2a9a0d0a5206dde7957aac8e613e96c01e8"
+      },
+      "09": {
+        "path": "books/OT/2chronicles/2Chronicles_09.md",
+        "blob_sha": "98686fbde6adf2ff379df4832c4fb18ef08be706"
+      },
+      "10": {
+        "path": "books/OT/2chronicles/2Chronicles_10.md",
+        "blob_sha": "68171647f217e13b7cc0877222d8552d3f787b06"
+      },
+      "11": {
+        "path": "books/OT/2chronicles/2Chronicles_11.md",
+        "blob_sha": "646a3c034d7e0c8cdfe9d203e18a000b45e6e24b"
+      },
+      "12": {
+        "path": "books/OT/2chronicles/2Chronicles_12.md",
+        "blob_sha": "18fc8ff48c78c524c028a9ea04b6444432dcf288"
+      },
+      "13": {
+        "path": "books/OT/2chronicles/2Chronicles_13.md",
+        "blob_sha": "67efa0d530a66a03c9fee4a2cd503ffe45d41690"
+      },
+      "14": {
+        "path": "books/OT/2chronicles/2Chronicles_14.md",
+        "blob_sha": "bb1ffd304d2ae1f942877274914f309e9292c357"
+      },
+      "15": {
+        "path": "books/OT/2chronicles/2Chronicles_15.md",
+        "blob_sha": "565e353f516cdb7a322651bfe523b56f4d219ee3"
+      },
+      "16": {
+        "path": "books/OT/2chronicles/2Chronicles_16.md",
+        "blob_sha": "0e3cf97baf627094516dbd66762374f5d68eef68"
+      },
+      "17": {
+        "path": "books/OT/2chronicles/2Chronicles_17.md",
+        "blob_sha": "f1d61a13c0239aac1ff6e60e53fc6acec9c86310"
+      },
+      "18": {
+        "path": "books/OT/2chronicles/2Chronicles_18.md",
+        "blob_sha": "26319c1e18b5d90116e58a903f66233ae33458fc"
+      },
+      "19": {
+        "path": "books/OT/2chronicles/2Chronicles_19.md",
+        "blob_sha": "4c5fc0685b878c18d0b6bbc90acb53cd08c5c9b5"
+      },
+      "20": {
+        "path": "books/OT/2chronicles/2Chronicles_20.md",
+        "blob_sha": "26455f4e0aabc8f7a9e7b893ad55bd3937792a15"
+      },
+      "21": {
+        "path": "books/OT/2chronicles/2Chronicles_21.md",
+        "blob_sha": "7b38a5d41738134bbe58a3c278cdc7c3ea1996ec"
+      },
+      "22": {
+        "path": "books/OT/2chronicles/2Chronicles_22.md",
+        "blob_sha": "41feb98805c4fed2e8e28551038605a1186b138c"
+      },
+      "23": {
+        "path": "books/OT/2chronicles/2Chronicles_23.md",
+        "blob_sha": "995ed98784c4c2f54509cb25949061d946641527"
+      },
+      "24": {
+        "path": "books/OT/2chronicles/2Chronicles_24.md",
+        "blob_sha": "1f9a4564dfe15824df01a120d73a2ce21c46e7c9"
+      },
+      "25": {
+        "path": "books/OT/2chronicles/2Chronicles_25.md",
+        "blob_sha": "433d7bb1a0350fd00eae9d8815d568e892bd13dd"
+      },
+      "26": {
+        "path": "books/OT/2chronicles/2Chronicles_26.md",
+        "blob_sha": "d7641b02eaef344ff0b26694634f64aa721431fc"
+      },
+      "27": {
+        "path": "books/OT/2chronicles/2Chronicles_27.md",
+        "blob_sha": "309705c600dd80c39fe5f6e470b17c654ef3f1d0"
+      },
+      "28": {
+        "path": "books/OT/2chronicles/2Chronicles_28.md",
+        "blob_sha": "5e9cea1d196e4263c9bf3186a68baefa83eae3e3"
+      },
+      "29": {
+        "path": "books/OT/2chronicles/2Chronicles_29.md",
+        "blob_sha": "13d818b10099308dbf68fa68dd9d3de373530a92"
+      },
+      "30": {
+        "path": "books/OT/2chronicles/2Chronicles_30.md",
+        "blob_sha": "f23d3a90dc5cd2d405e723ec3bc89bcd6caa9a74"
+      },
+      "31": {
+        "path": "books/OT/2chronicles/2Chronicles_31.md",
+        "blob_sha": "3ba47bd51be90f0293acb95e821c2601a7a84cfd"
+      },
+      "32": {
+        "path": "books/OT/2chronicles/2Chronicles_32.md",
+        "blob_sha": "dff992fdf38b76c6a4e58ea3096e0808589fb663"
+      },
+      "33": {
+        "path": "books/OT/2chronicles/2Chronicles_33.md",
+        "blob_sha": "b31302ea9a08a1bec8413749bb7af820e8ab319d"
+      },
+      "34": {
+        "path": "books/OT/2chronicles/2Chronicles_34.md",
+        "blob_sha": "a160c150449deb1b31dca7c4f7c69c1b3b2a55e0"
+      },
+      "35": {
+        "path": "books/OT/2chronicles/2Chronicles_35.md",
+        "blob_sha": "43765f83f01a8a5e2de20534487b4278f7f35eac"
+      },
+      "36": {
+        "path": "books/OT/2chronicles/2Chronicles_36.md",
+        "blob_sha": "037722c22b4a93b6a729a27eca43832abb11fce0"
+      }
+    }
+  }
+}
