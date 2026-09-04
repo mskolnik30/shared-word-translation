@@ -1,0 +1,177 @@
+{
+  "book": "Zechariah",
+  "chapter": 13,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zech.xml",
+    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "13:7-9",
+      "decision": "Keep the struck shepherd, scattered flock, severe testing, and covenant renewal together.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zech.xml",
+    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Zechariah 13:1",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 1,
+            "source_ref": "Zechariah 13:1",
+            "segment_mode": "whole",
+            "sha256": "101535956a60863b1313e3c0f51b214c28a6cf358d61c7042b939ff3f74383c2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "101535956a60863b1313e3c0f51b214c28a6cf358d61c7042b939ff3f74383c2"
+      },
+      "2": {
+        "source_ref": "Zechariah 13:2",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 2,
+            "source_ref": "Zechariah 13:2",
+            "segment_mode": "whole",
+            "sha256": "b45312ebd25b6f9f5cff44fc8b8b821ee320358e2af192a0255b87f6669641df"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b45312ebd25b6f9f5cff44fc8b8b821ee320358e2af192a0255b87f6669641df"
+      },
+      "3": {
+        "source_ref": "Zechariah 13:3",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 3,
+            "source_ref": "Zechariah 13:3",
+            "segment_mode": "whole",
+            "sha256": "2d58a2d2b4cc58d63bb4e958fb237aa73b576ac86beb66759f165f50a860e28f"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2d58a2d2b4cc58d63bb4e958fb237aa73b576ac86beb66759f165f50a860e28f"
+      },
+      "4": {
+        "source_ref": "Zechariah 13:4",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 4,
+            "source_ref": "Zechariah 13:4",
+            "segment_mode": "whole",
+            "sha256": "a6741dbe23b01db11357d793749a656f9eb680754726a7ed43cf6e4c3d3b65e6"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "a6741dbe23b01db11357d793749a656f9eb680754726a7ed43cf6e4c3d3b65e6"
+      },
+      "5": {
+        "source_ref": "Zechariah 13:5",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 5,
+            "source_ref": "Zechariah 13:5",
+            "segment_mode": "whole",
+            "sha256": "c346d6c73d07b8735715f2249bf4c3b02f681679394ac7f0de047c71fdc91957"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c346d6c73d07b8735715f2249bf4c3b02f681679394ac7f0de047c71fdc91957"
+      },
+      "6": {
+        "source_ref": "Zechariah 13:6",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 6,
+            "source_ref": "Zechariah 13:6",
+            "segment_mode": "whole",
+            "sha256": "900dcf431d6dd2c09cfd6c983895e922ae1012cf574ddb260fd9de61233cc04c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "900dcf431d6dd2c09cfd6c983895e922ae1012cf574ddb260fd9de61233cc04c"
+      },
+      "7": {
+        "source_ref": "Zechariah 13:7",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 7,
+            "source_ref": "Zechariah 13:7",
+            "segment_mode": "whole",
+            "sha256": "2571e369445024f995100bdb0868a63c857d686b096f46497c5e005a07a96843"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2571e369445024f995100bdb0868a63c857d686b096f46497c5e005a07a96843"
+      },
+      "8": {
+        "source_ref": "Zechariah 13:8",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 8,
+            "source_ref": "Zechariah 13:8",
+            "segment_mode": "whole",
+            "sha256": "bda537716d4de44d93c362ad8d0b50e8d3f46589518bffc07a8e7767f14177ba"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "bda537716d4de44d93c362ad8d0b50e8d3f46589518bffc07a8e7767f14177ba"
+      },
+      "9": {
+        "source_ref": "Zechariah 13:9",
+        "source_records": [
+          {
+            "chapter": 13,
+            "verse": 9,
+            "source_ref": "Zechariah 13:9",
+            "segment_mode": "whole",
+            "sha256": "e82c0d7d71ae03f7714de60a74101c2d233d9189fc4dbeb5e80b028428d99794"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "e82c0d7d71ae03f7714de60a74101c2d233d9189fc4dbeb5e80b028428d99794"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/zechariah/Zechariah_13.md",
+    "blob_sha": "576cac9fb367c57a32460179688782b2ffd97403"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

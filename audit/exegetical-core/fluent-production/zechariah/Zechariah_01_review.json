@@ -1,0 +1,357 @@
+{
+  "book": "Zechariah",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "review_scope": "source, meaning, discourse, textual decisions, apparatus, and publication structure",
+  "source": {
+    "type": "oshb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zech.xml",
+    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052"
+  },
+  "public_verse_labels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "curated_f3_decisions": [
+    {
+      "location": "1:7-6:15",
+      "decision": "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "checks": {
+    "meaning_and_referents": "APPROVE_QA",
+    "discourse_and_paragraphs": "APPROVE_QA",
+    "textual_and_versification": "APPROVE_QA",
+    "notes_and_vocabulary": "APPROVE_QA",
+    "format_and_publication_structure": "APPROVE_QA"
+  },
+  "source_binding": {
+    "repository": "openscriptures/morphhb",
+    "commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zech.xml",
+    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "Zechariah 1:1",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 1,
+            "source_ref": "Zechariah 1:1",
+            "segment_mode": "whole",
+            "sha256": "c8fb968372b786a062c1a1ba558ca2132093e38eae5a77a5c9e01f1810f7b955"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c8fb968372b786a062c1a1ba558ca2132093e38eae5a77a5c9e01f1810f7b955"
+      },
+      "2": {
+        "source_ref": "Zechariah 1:2",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 2,
+            "source_ref": "Zechariah 1:2",
+            "segment_mode": "whole",
+            "sha256": "15275b70c996e18afa1cc9a7052afd09382951eb58f44fb97f207d36abc0fdb0"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "15275b70c996e18afa1cc9a7052afd09382951eb58f44fb97f207d36abc0fdb0"
+      },
+      "3": {
+        "source_ref": "Zechariah 1:3",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 3,
+            "source_ref": "Zechariah 1:3",
+            "segment_mode": "whole",
+            "sha256": "c31438f4caa186eaefaa9285c7b7e3f89bd0d78f8fc15554968275a7f3c0e2f3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "c31438f4caa186eaefaa9285c7b7e3f89bd0d78f8fc15554968275a7f3c0e2f3"
+      },
+      "4": {
+        "source_ref": "Zechariah 1:4",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 4,
+            "source_ref": "Zechariah 1:4",
+            "segment_mode": "whole",
+            "sha256": "488c0f3b84ae76f69857402f2c5af369175a5a55c9637b312e793df3d3fb00e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "488c0f3b84ae76f69857402f2c5af369175a5a55c9637b312e793df3d3fb00e2"
+      },
+      "5": {
+        "source_ref": "Zechariah 1:5",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 5,
+            "source_ref": "Zechariah 1:5",
+            "segment_mode": "whole",
+            "sha256": "7d9dc278db2bca37b34b88fa3f98ac08eea812fcd325661423a7bb1425ee6187"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7d9dc278db2bca37b34b88fa3f98ac08eea812fcd325661423a7bb1425ee6187"
+      },
+      "6": {
+        "source_ref": "Zechariah 1:6",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 6,
+            "source_ref": "Zechariah 1:6",
+            "segment_mode": "whole",
+            "sha256": "71c78dd1ffa1c1970368d05f93e6804ab80716f83358af2d03bd07c5f9074064"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "71c78dd1ffa1c1970368d05f93e6804ab80716f83358af2d03bd07c5f9074064"
+      },
+      "7": {
+        "source_ref": "Zechariah 1:7",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 7,
+            "source_ref": "Zechariah 1:7",
+            "segment_mode": "whole",
+            "sha256": "aa3c1968f2f199bd6eee1f469cb881af7da8934bad10ecb44c363859a4d23307"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "aa3c1968f2f199bd6eee1f469cb881af7da8934bad10ecb44c363859a4d23307"
+      },
+      "8": {
+        "source_ref": "Zechariah 1:8",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 8,
+            "source_ref": "Zechariah 1:8",
+            "segment_mode": "whole",
+            "sha256": "b036aec486b300b9086859200b9a530934bb15d56f46ecfe319018ea05f4ada2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "b036aec486b300b9086859200b9a530934bb15d56f46ecfe319018ea05f4ada2"
+      },
+      "9": {
+        "source_ref": "Zechariah 1:9",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 9,
+            "source_ref": "Zechariah 1:9",
+            "segment_mode": "whole",
+            "sha256": "66a440769992e32b9d44ef686e17f635a9f516509a9fb3ea72f4bbd955a70e0a"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "66a440769992e32b9d44ef686e17f635a9f516509a9fb3ea72f4bbd955a70e0a"
+      },
+      "10": {
+        "source_ref": "Zechariah 1:10",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 10,
+            "source_ref": "Zechariah 1:10",
+            "segment_mode": "whole",
+            "sha256": "d7b751de7acd63eb3c312baefaaad5e3e32b89525e2c55d87695c92e24fc4b81"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "d7b751de7acd63eb3c312baefaaad5e3e32b89525e2c55d87695c92e24fc4b81"
+      },
+      "11": {
+        "source_ref": "Zechariah 1:11",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 11,
+            "source_ref": "Zechariah 1:11",
+            "segment_mode": "whole",
+            "sha256": "93c34905624e0f0582216656a6b2d6890c2496ef687419de5d0c9503f1996fe3"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "93c34905624e0f0582216656a6b2d6890c2496ef687419de5d0c9503f1996fe3"
+      },
+      "12": {
+        "source_ref": "Zechariah 1:12",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 12,
+            "source_ref": "Zechariah 1:12",
+            "segment_mode": "whole",
+            "sha256": "654de91a69dc32196b860030feee8096770b90e92ad0244bef59f27eb1ce4c95"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "654de91a69dc32196b860030feee8096770b90e92ad0244bef59f27eb1ce4c95"
+      },
+      "13": {
+        "source_ref": "Zechariah 1:13",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 13,
+            "source_ref": "Zechariah 1:13",
+            "segment_mode": "whole",
+            "sha256": "9628a11c1ce687027ad8c8fed68b2323685bf069cbb4a4632d62d914ca296321"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "9628a11c1ce687027ad8c8fed68b2323685bf069cbb4a4632d62d914ca296321"
+      },
+      "14": {
+        "source_ref": "Zechariah 1:14",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 14,
+            "source_ref": "Zechariah 1:14",
+            "segment_mode": "whole",
+            "sha256": "ab918209df687bcc2ab9ab1cb81974af3d51df9c6e29179d66f98e833a4ec9a9"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ab918209df687bcc2ab9ab1cb81974af3d51df9c6e29179d66f98e833a4ec9a9"
+      },
+      "15": {
+        "source_ref": "Zechariah 1:15",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 15,
+            "source_ref": "Zechariah 1:15",
+            "segment_mode": "whole",
+            "sha256": "7b1f1d2609bb0aeb27b107915e52dd5a5b470d369f8778629a03e85c1cd46972"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "7b1f1d2609bb0aeb27b107915e52dd5a5b470d369f8778629a03e85c1cd46972"
+      },
+      "16": {
+        "source_ref": "Zechariah 1:16",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 16,
+            "source_ref": "Zechariah 1:16",
+            "segment_mode": "whole",
+            "sha256": "12559b5c78f6109f0a77387e6298f2821a6ebde65a05800d596ec2415ffedeae"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12559b5c78f6109f0a77387e6298f2821a6ebde65a05800d596ec2415ffedeae"
+      },
+      "17": {
+        "source_ref": "Zechariah 1:17",
+        "source_records": [
+          {
+            "chapter": 1,
+            "verse": 17,
+            "source_ref": "Zechariah 1:17",
+            "segment_mode": "whole",
+            "sha256": "12a95168f66e3d3d203ea69380152e7e030436930f795dc1ddc745623bae634c"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "12a95168f66e3d3d203ea69380152e7e030436930f795dc1ddc745623bae634c"
+      },
+      "18": {
+        "source_ref": "Zechariah 2:1 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 1,
+            "source_ref": "Zechariah 2:1 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "0a1d074b49b075498e6dc4afdb304bf339108f8a594b59168fabc45bae5f644b"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "0a1d074b49b075498e6dc4afdb304bf339108f8a594b59168fabc45bae5f644b"
+      },
+      "19": {
+        "source_ref": "Zechariah 2:2 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 2,
+            "source_ref": "Zechariah 2:2 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "ac5af967a15ca683f7f03140633513807bd79525d936a940e7ba35197b952e4d"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "ac5af967a15ca683f7f03140633513807bd79525d936a940e7ba35197b952e4d"
+      },
+      "20": {
+        "source_ref": "Zechariah 2:3 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 3,
+            "source_ref": "Zechariah 2:3 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "2cf97b2d1dbdf2190b0e56b76d535f5585be934015b00f7334fc9ac5d7a70e0e"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "2cf97b2d1dbdf2190b0e56b76d535f5585be934015b00f7334fc9ac5d7a70e0e"
+      },
+      "21": {
+        "source_ref": "Zechariah 2:4 (Hebrew)",
+        "source_records": [
+          {
+            "chapter": 2,
+            "verse": 4,
+            "source_ref": "Zechariah 2:4 (Hebrew)",
+            "segment_mode": "whole",
+            "sha256": "6981f25a770a4f59728082ddce5654d38eb493fa91bbeb385fc4a673b4d6a7e2"
+          }
+        ],
+        "segment_mode": "whole",
+        "sha256": "6981f25a770a4f59728082ddce5654d38eb493fa91bbeb385fc4a673b4d6a7e2"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/OT/zechariah/Zechariah_01.md",
+    "blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}

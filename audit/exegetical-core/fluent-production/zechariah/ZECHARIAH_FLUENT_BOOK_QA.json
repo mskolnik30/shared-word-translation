@@ -1,0 +1,136 @@
+{
+  "book": "Zechariah",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 14,
+  "public_verse_slots": 211,
+  "included_verse_labels": 211,
+  "critical_text_absent_public_verses": {},
+  "pinned_source_record_count": 211,
+  "source": {
+    "type": "oshb",
+    "repository": "openscriptures/morphhb",
+    "repository_commit": "6a5db284c715c18b239422e57bb89684e6a19f00",
+    "file": "wlc/Zech.xml",
+    "git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052"
+  },
+  "curated_f3_decisions": [
+    {
+      "location": "1:7-6:15",
+      "decision": "Preserve the night visions as symbolic scenes with angelic interpretation; do not convert their imagery into a modern prediction code.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "3:1-10",
+      "decision": "Keep Joshua, the accuser, cleansing, priestly vocation, and the Branch within the vision's restored-community horizon.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "6:9-15",
+      "decision": "Retain the crown and Branch symbolism without silently resolving the text's priestly and royal tensions.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "8:1-23",
+      "decision": "Keep restoration concrete: truth, justice, secure public life, fruitful land, and nations seeking God.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "9:9-17",
+      "decision": "Preserve the humble king, disarmament, peace to nations, and deliverance of prisoners.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "11:4-17",
+      "decision": "Retain the difficult shepherd sign-act and its political critique without overidentifying unnamed figures.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "12:10",
+      "decision": "Preserve the Hebrew pronoun and the one pierced without making the translation settle every later christological question.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "13:7-9",
+      "decision": "Keep the struck shepherd, scattered flock, severe testing, and covenant renewal together.",
+      "disposition": "APPROVE_QA"
+    },
+    {
+      "location": "14:1-21",
+      "decision": "Retain the day-of-the-LORD vision, cosmic transformation, nations, worship, judgment, and pervasive holiness without a speculative timetable.",
+      "disposition": "APPROVE_QA"
+    }
+  ],
+  "deployment": "TEN_BOOK_BATCH_04",
+  "deployment_audit": {
+    "source_git_blob_sha": "4da35f8d3bd0e4d2e3cdce440bc1054213549052",
+    "source_binding_count": 211,
+    "unique_source_record_count": 211,
+    "public_verse_slots": 211,
+    "ledger_summary": {
+      "F0": 56,
+      "F1": 5,
+      "F2": 1,
+      "F3": 149
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/OT/zechariah/Zechariah_01.md",
+        "blob_sha": "26014d02e9e1756e648e39c90cadb059c7b0cd24"
+      },
+      "02": {
+        "path": "books/OT/zechariah/Zechariah_02.md",
+        "blob_sha": "7f085348721be2dde7d2a64e401d476c572b869a"
+      },
+      "03": {
+        "path": "books/OT/zechariah/Zechariah_03.md",
+        "blob_sha": "99d57e497d34ece8e8d3939684423f087c2d1a4f"
+      },
+      "04": {
+        "path": "books/OT/zechariah/Zechariah_04.md",
+        "blob_sha": "2fa12a3dd5a3ec8091d5dd29cc2b08e1ebff8221"
+      },
+      "05": {
+        "path": "books/OT/zechariah/Zechariah_05.md",
+        "blob_sha": "686b3e6c5653270bf5e224e267a95d47ec1de7c3"
+      },
+      "06": {
+        "path": "books/OT/zechariah/Zechariah_06.md",
+        "blob_sha": "e8cad3cdbb354da7f349485fb46f3c18340a54c9"
+      },
+      "07": {
+        "path": "books/OT/zechariah/Zechariah_07.md",
+        "blob_sha": "d74d3f215eb378fc96fa5951aa5e07f82274fe70"
+      },
+      "08": {
+        "path": "books/OT/zechariah/Zechariah_08.md",
+        "blob_sha": "49215ed66b5741fb5eea1b11c04d5444a6682bf9"
+      },
+      "09": {
+        "path": "books/OT/zechariah/Zechariah_09.md",
+        "blob_sha": "efbe813fa3b2b0e461a7d194d1e243d6d44b6b6f"
+      },
+      "10": {
+        "path": "books/OT/zechariah/Zechariah_10.md",
+        "blob_sha": "88024dff0bdb66d2b6da596df8a64f669b518e43"
+      },
+      "11": {
+        "path": "books/OT/zechariah/Zechariah_11.md",
+        "blob_sha": "bfece43b04c46572713d2e6556701bd142f8b049"
+      },
+      "12": {
+        "path": "books/OT/zechariah/Zechariah_12.md",
+        "blob_sha": "e31960875aab581cde9581e7eb90c88e452af9da"
+      },
+      "13": {
+        "path": "books/OT/zechariah/Zechariah_13.md",
+        "blob_sha": "576cac9fb367c57a32460179688782b2ffd97403"
+      },
+      "14": {
+        "path": "books/OT/zechariah/Zechariah_14.md",
+        "blob_sha": "0a265da86ab84659569bcd0f06afb0f5996605a8"
+      }
+    }
+  }
+}
