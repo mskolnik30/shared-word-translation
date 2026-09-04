@@ -1,0 +1,215 @@
+{
+  "book": "2 John",
+  "translation": "FLUENT",
+  "classification_method": "Mechanical audit triage only: F0 = exact normalized TSW match; F1 = high surface similarity to TSW; F2 = other meaning-preserving draft difference; F3 = curated interpretive/text-critical review or documented source gap. Classification is not an exegetical judgment.",
+  "source": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2John.txt",
+    "git_blob_sha": "29ac357d293ef2b525f04e66ba4bef5c144e4b12"
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "public_verse": 1,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 John 1:1",
+      "source_chapter": 1,
+      "source_verse": 1,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "86c749a2e15abb3835fee9f3fbea6cf496061977a0c36b6513baf2c12edb4ce6",
+      "translation_sha256": "ce03a19c0db43db1c24db67ff99034aa17f96f1b628d0630882c8670187f2c0b",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": [
+        "chosen lady/sister may be individual women or churches; referent left open"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 2,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 John 1:2",
+      "source_chapter": 1,
+      "source_verse": 2,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "c738fb6e0db5378644d3413789f16ef3e51ae265b05cafb5fabf1410de0be611",
+      "translation_sha256": "b3c527a52a46f8f6043f90763935bd13bd8b47d3d727fe0e9acf3a38437387a5",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 3,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 John 1:3",
+      "source_chapter": 1,
+      "source_verse": 3,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "36d73e2d5d899540504595e7ad486e118af0320b05be8d801ae6f0f74980cf8d",
+      "translation_sha256": "ddeeeedad93a8eb43594f54cefa98f0a7fff30ddac0162b54c061e6198a74544",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 4,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 John 1:4",
+      "source_chapter": 1,
+      "source_verse": 4,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "aa8199e761f820976cc6a07b31816ecc1f0604c634ae3fd5b01255f2bbd1dd47",
+      "translation_sha256": "b4a33a5ba90266ef6faf7bcf7aa1384ba7bbed67f2b2d687f65f1df8d8f9b9ba",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 5,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 John 1:5",
+      "source_chapter": 1,
+      "source_verse": 5,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "512a2827765712a7688cea93a48be2f1cd357a9a27c0fffb84be1f6586e4deb7",
+      "translation_sha256": "e1e1f8cf7ab22841817f4341f6f63944ccae69dd3c184321fa0418ffc1e10676",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 6,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 John 1:6",
+      "source_chapter": 1,
+      "source_verse": 6,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "69f1f641430b2ed3a095dd035655cac7771faefeb082d6b511e056363e85d631",
+      "translation_sha256": "4cced828da1084a0803a18fa7f5311a8480b741535eeed9e069ffa89688bc8a7",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 7,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 John 1:7",
+      "source_chapter": 1,
+      "source_verse": 7,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "64e24748a32f8650fc23841079abe7bc91ff0929f54271b91cecd993cdc59182",
+      "translation_sha256": "bbbfa99304ec2d204f1488a4fdb90bf25b257bd580f0672a8716213b0a1523e8",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": [
+        "Jesus Christ coming in flesh retained; antichrist not mapped to modern political figure"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 8,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 John 1:8",
+      "source_chapter": 1,
+      "source_verse": 8,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "c4cbcda6dba9cbef429d0e73bb3c2344555d3b4ba49ef44871e0a7b4a1cb8473",
+      "translation_sha256": "43c2f2828e48dd09f24f92720aaefde9c8eba18b9892ac1e7a91182efa633d2b",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 9,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 John 1:9",
+      "source_chapter": 1,
+      "source_verse": 9,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "68ba3477fa7b2b805ed467e3422ca6af034dd149404b125e421a54da25b68bdb",
+      "translation_sha256": "9ee4b1d5317a11f7659162a4f8dc59e965ffecf99c5ae662f76b5f05d25a4bfd",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": [
+        "goes beyond teaching is negative departure, not intellectual progress"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 10,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 John 1:10",
+      "source_chapter": 1,
+      "source_verse": 10,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "29b4cfeec32581a137c9862c4e3a6f271bebe4f5b8d99c672cfcc594b0c4b4a5",
+      "translation_sha256": "ec7c6746bc20a308d0d50199e696130cc70cc83148c67cb7bf2de136d1c11c98",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": [
+        "house/greeting refusal understood in traveling-teacher support context, not blanket unkindness to outsiders"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 11,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 John 1:11",
+      "source_chapter": 1,
+      "source_verse": 11,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "5a8c8a88f18c10e1b400280ea535cea2770537ce7a9567907d27fef835a6c0c4",
+      "translation_sha256": "ff98e9e3232ea788581ef924269c5ef33f8bb027fddb97051020c4e7babae7d4",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": [
+        "house/greeting refusal understood in traveling-teacher support context, not blanket unkindness to outsiders"
+      ]
+    },
+    {
+      "chapter": 1,
+      "public_verse": 12,
+      "source_present": true,
+      "classification": "F1",
+      "source_ref": "2 John 1:12",
+      "source_chapter": 1,
+      "source_verse": 12,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "3a1aff346220f9105402c6de99492662709fcbbfa8a0d05dbb05c592d24b082d",
+      "translation_sha256": "c4551a15a068ec7a60073c3dd078fea49d5bfdcd39dfc11bfb23a7a8545172aa",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": []
+    },
+    {
+      "chapter": 1,
+      "public_verse": 13,
+      "source_present": true,
+      "classification": "F3",
+      "source_ref": "2 John 1:13",
+      "source_chapter": 1,
+      "source_verse": 13,
+      "source_segment_mode": "whole_record",
+      "source_sha256": "fd52fa85d9a81dfe634d60f0861902e1f6a1b55d668bc2f19364f76e467d1bfc",
+      "translation_sha256": "1a9c55bc9996d3723661dc5877cc7f68def3603933e07adbef8a81ba5e061a37",
+      "tsw_blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e",
+      "curated_decisions": [
+        "chosen lady/sister may be individual women or churches; referent left open"
+      ]
+    }
+  ],
+  "summary": {
+    "F0": 0,
+    "F1": 7,
+    "F2": 0,
+    "F3": 6
+  },
+  "public_verse_slots": 13,
+  "included_source_bindings": 13
+}

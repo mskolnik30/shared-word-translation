@@ -1,0 +1,66 @@
+{
+  "book": "2 John",
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "chapter_count": 1,
+  "public_verse_slots": 13,
+  "included_verse_labels": 13,
+  "critical_text_absent_public_verses": {},
+  "book_level_anchors": [
+    "truth",
+    "love",
+    "remain",
+    "walk",
+    "command from beginning",
+    "Jesus Christ coming in flesh",
+    "deceiver/antichrist",
+    "teaching of Christ",
+    "shared participation",
+    "face-to-face joy"
+  ],
+  "deployment": "NT_BATCH_02",
+  "curated_f3_decisions": [
+    {
+      "location": "1:1,13",
+      "decision": "chosen lady/sister may be individual women or churches; referent left open"
+    },
+    {
+      "location": "1:7",
+      "decision": "Jesus Christ coming in flesh retained; antichrist not mapped to modern political figure"
+    },
+    {
+      "location": "1:9",
+      "decision": "goes beyond teaching is negative departure, not intellectual progress"
+    },
+    {
+      "location": "1:10-11",
+      "decision": "house/greeting refusal understood in traveling-teacher support context, not blanket unkindness to outsiders"
+    }
+  ],
+  "source": {
+    "id": "NT.SBLGNT.1.2",
+    "repository": "Faithlife/SBLGNT",
+    "repository_commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2John.txt",
+    "git_blob_sha": "29ac357d293ef2b525f04e66ba4bef5c144e4b12"
+  },
+  "deployment_audit": {
+    "source_git_blob_sha": "29ac357d293ef2b525f04e66ba4bef5c144e4b12",
+    "source_binding_count": 13,
+    "unique_source_record_count": 13,
+    "public_verse_slots": 13,
+    "ledger_summary": {
+      "F0": 0,
+      "F1": 7,
+      "F2": 0,
+      "F3": 6
+    },
+    "ledger_file": "BOOK_VERSE_REVIEW_LEDGER.json",
+    "tsw_chapter_bindings": {
+      "01": {
+        "path": "books/NT/2john/2John_01.md",
+        "blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e"
+      }
+    }
+  }
+}

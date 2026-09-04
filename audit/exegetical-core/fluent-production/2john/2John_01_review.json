@@ -1,0 +1,112 @@
+{
+  "book": "2 John",
+  "chapter": 1,
+  "translation": "FLUENT",
+  "status": "QA_PASSED",
+  "verse_labels": 13,
+  "publication_allowed": false,
+  "source_binding": {
+    "repository": "Faithlife/SBLGNT",
+    "commit": "c4d241a9c1c479a55b989ba35a4976c1d0b8052c",
+    "file": "data/sblgnt/text/2John.txt",
+    "git_blob_sha": "29ac357d293ef2b525f04e66ba4bef5c144e4b12",
+    "public_verse_bindings": {
+      "1": {
+        "source_ref": "2 John 1:1",
+        "source_chapter": 1,
+        "source_verse": 1,
+        "segment_mode": "whole_record",
+        "sha256": "86c749a2e15abb3835fee9f3fbea6cf496061977a0c36b6513baf2c12edb4ce6"
+      },
+      "2": {
+        "source_ref": "2 John 1:2",
+        "source_chapter": 1,
+        "source_verse": 2,
+        "segment_mode": "whole_record",
+        "sha256": "c738fb6e0db5378644d3413789f16ef3e51ae265b05cafb5fabf1410de0be611"
+      },
+      "3": {
+        "source_ref": "2 John 1:3",
+        "source_chapter": 1,
+        "source_verse": 3,
+        "segment_mode": "whole_record",
+        "sha256": "36d73e2d5d899540504595e7ad486e118af0320b05be8d801ae6f0f74980cf8d"
+      },
+      "4": {
+        "source_ref": "2 John 1:4",
+        "source_chapter": 1,
+        "source_verse": 4,
+        "segment_mode": "whole_record",
+        "sha256": "aa8199e761f820976cc6a07b31816ecc1f0604c634ae3fd5b01255f2bbd1dd47"
+      },
+      "5": {
+        "source_ref": "2 John 1:5",
+        "source_chapter": 1,
+        "source_verse": 5,
+        "segment_mode": "whole_record",
+        "sha256": "512a2827765712a7688cea93a48be2f1cd357a9a27c0fffb84be1f6586e4deb7"
+      },
+      "6": {
+        "source_ref": "2 John 1:6",
+        "source_chapter": 1,
+        "source_verse": 6,
+        "segment_mode": "whole_record",
+        "sha256": "69f1f641430b2ed3a095dd035655cac7771faefeb082d6b511e056363e85d631"
+      },
+      "7": {
+        "source_ref": "2 John 1:7",
+        "source_chapter": 1,
+        "source_verse": 7,
+        "segment_mode": "whole_record",
+        "sha256": "64e24748a32f8650fc23841079abe7bc91ff0929f54271b91cecd993cdc59182"
+      },
+      "8": {
+        "source_ref": "2 John 1:8",
+        "source_chapter": 1,
+        "source_verse": 8,
+        "segment_mode": "whole_record",
+        "sha256": "c4cbcda6dba9cbef429d0e73bb3c2344555d3b4ba49ef44871e0a7b4a1cb8473"
+      },
+      "9": {
+        "source_ref": "2 John 1:9",
+        "source_chapter": 1,
+        "source_verse": 9,
+        "segment_mode": "whole_record",
+        "sha256": "68ba3477fa7b2b805ed467e3422ca6af034dd149404b125e421a54da25b68bdb"
+      },
+      "10": {
+        "source_ref": "2 John 1:10",
+        "source_chapter": 1,
+        "source_verse": 10,
+        "segment_mode": "whole_record",
+        "sha256": "29b4cfeec32581a137c9862c4e3a6f271bebe4f5b8d99c672cfcc594b0c4b4a5"
+      },
+      "11": {
+        "source_ref": "2 John 1:11",
+        "source_chapter": 1,
+        "source_verse": 11,
+        "segment_mode": "whole_record",
+        "sha256": "5a8c8a88f18c10e1b400280ea535cea2770537ce7a9567907d27fef835a6c0c4"
+      },
+      "12": {
+        "source_ref": "2 John 1:12",
+        "source_chapter": 1,
+        "source_verse": 12,
+        "segment_mode": "whole_record",
+        "sha256": "3a1aff346220f9105402c6de99492662709fcbbfa8a0d05dbb05c592d24b082d"
+      },
+      "13": {
+        "source_ref": "2 John 1:13",
+        "source_chapter": 1,
+        "source_verse": 13,
+        "segment_mode": "whole_record",
+        "sha256": "fd52fa85d9a81dfe634d60f0861902e1f6a1b55d668bc2f19364f76e467d1bfc"
+      }
+    }
+  },
+  "tsw_comparator": {
+    "path": "books/NT/2john/2John_01.md",
+    "blob_sha": "8c06137aed425f2be994264a030c2ddd8edd2a1e"
+  },
+  "audit_triage": "See BOOK_VERSE_REVIEW_LEDGER.json; F3 curated decisions override mechanical similarity classification."
+}
